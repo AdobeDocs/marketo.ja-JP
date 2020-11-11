@@ -1,0 +1,37 @@
+---
+title: delete-a-smart-キャンペーン
+description: スマートキャンペーンの削除
+translation-type: tm+mt
+source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 0%
+
+---
+
+
+# スマートキャンペーンの削除
+
+<br> 
+
+不要になった古いスマートキャンペーンがある場合は、削除できます。
+
+>[!WARNING]
+>
+>フローステップにユーザーが含まれるアクティブなスマートキャンペーンは削除しないでください。
+
+1. 削除するキャンペーンを見つけて選択します。
+
+   ![イメージ1](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
+
+1. 「 [!UICONTROL キャンペーンアクション] 」ドロップダウンで、「 [!UICONTROL **削除**]」を選択します。
+
+   ![イメージ2](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
+
+   >[!TIP]
+   >
+   >アクティブなスマートキャンペーンを削除せずにキャンセルするには、スマートキャンペーンを [中止する方法を説明します](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
+
+1. 「 [!UICONTROL **確認**]」をクリックします。
+
+   ![イメージ3](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
