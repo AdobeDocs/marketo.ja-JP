@@ -1,0 +1,38 @@
+---
+title: remove-stream-content
+description: ストリームコンテンツの削除
+translation-type: tm+mt
+source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 0%
+
+---
+
+
+# ストリームコンテンツの削除
+
+<br> 
+
+コンテンツは削除またはアーカイブできます。 ストリームコンテンツを削除するのとは異なり、 [アーカイブでは](/help/sky/archive-and-unarchive-stream-content.md) 、そのコンテンツに関連付けられたすべての履歴が保持されます。 一部のコンテンツの履歴統計を失ってもかまわない場合は、削除する方法を次に示します。
+
+1. アクションプログラムを選択します。
+
+   ![イメージ1](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
+
+1. 「 [!UICONTROL **Streams**] 」タブをクリックします。
+
+   ![イメージ2](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
+
+1. 削除するコンテンツの上にマウスポインターを置き、そのコンテンツの歯車アイコンをクリックします。
+
+   ![イメージ3](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
+
+1. 「 [!UICONTROL **削除**]」を選択します。
+
+   ![画像4](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
+
+>[!CAUTION]
+>
+>コンテンツの履歴を気にしない場合にのみ、コンテンツを削除します。 もし
+>履歴を保存したい場合は、アーカイブしてください。
