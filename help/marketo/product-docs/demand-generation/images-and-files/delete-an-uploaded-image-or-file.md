@@ -1,0 +1,53 @@
+---
+unique-page-id: 2359873
+description: アップロードした画像またはファイルの削除 — Marketto Docs — 製品ドキュメント
+title: アップロードした画像またはファイルの削除
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 0%
+
+---
+
+
+# アップロードした画像またはファイルの削除 {#delete-an-uploaded-image-or-file}
+
+1. 「 **Design** Studio ****」に移動します。
+
+   ![](assets/designstudio-5.png)
+
+1. 左のメニューで **「** 画像 **&amp;** ファイル」を選択し、削除するファイル名の横にあるをクリックします。
+
+   ![](assets/image2014-9-16-11-3a18-3a15.png)
+
+1. 「 **File** Actions **」および「** Delete **」をクリックします**。
+
+   ![](assets/image2014-9-16-11-3a18-3a22.png)
+
+1. 正しいファイルが選択されていることを確認し、「 **DELETE**」をクリックします。
+
+   ![](assets/image2014-9-16-11-3a18-3a30.png)
+
+   >[!CAUTION]
+   >
+   >削除した画像とファイルは、Marketorから完全に削除され、復元できません。  使用中のランディングページや電子メールには表示されなくなります。
+
+1. [ **画像** &amp; **ファイル** ]ページに戻り、ファイルが削除されたことが確認できます。
+
+   ![](assets/image2014-9-16-11-3a19-3a0.png)
+
+うまくいった！
+
+>[!NOTE]
+>
+>**関連記事**
+>
+>* [アップロードした画像またはファイルの置換](replace-an-uploaded-image-or-file.md)
+>* [アップロードされた画像とファイルの検索](search-uploaded-images-and-files.md)
+>* [アップロードされた画像またはファイルのURLの検索](find-the-url-of-an-uploaded-image-or-file.md)
+
+>
+
+
+
