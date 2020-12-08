@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: マイトークンアクション：トークン名の編集、削除、クローン、コピー
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 ## トークン名のコピー
 
-トークンの名前をクリップボードにコピーするには(例： {{my.イベントカレンダーファイル}})、トークンを右クリックし、「トークン名を [!UICONTROL **コピー**]」を選択します。
+トークンの名前(例：クリップボード `{{my.Event Calendar File}}`)をコピーするには、トークンを右クリックし、「トークン名を **コピー**」を選択します。
 
 ![画像7](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
