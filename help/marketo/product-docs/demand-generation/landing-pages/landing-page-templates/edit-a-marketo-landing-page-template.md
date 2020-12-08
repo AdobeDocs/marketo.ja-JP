@@ -1,0 +1,35 @@
+---
+unique-page-id: 4720738
+description: Marketorランディングページテンプレートの編集 — Marketto Docs — 製品ドキュメント
+title: マーケティングランディングページテンプレートの編集
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 0%
+
+---
+
+
+# マーケティングランディングページテンプレートの編集 {#edit-a-marketo-landing-page-template}
+
+Marketor内の任意のランディングページテンプレートを編集できます。
+
+1. 「 **Design Studio**」に移動します。
+
+   ![](assets/designstudio.png)
+
+1. テンプレートを表示するには、 **ランディングページ** を展開します。
+
+   ![](assets/image2015-5-21-12-3a40-3a3.png)
+
+1. 編集する **テンプレート** (Template)を選択します。 「**ドラフトを編集**」をクリックします。
+
+   ![](assets/image2015-5-21-12-3a37-3a54.png)
+
+   完了！ これで、テンプレートのCSSを編集し、外観とレイアウトをフルコントロールできます。
+
+   >[!NOTE]
+   >
+   >ランディングページテンプレートを編集すると、そのテンプレートを使用するランディングページアセットのドラフトが作成されます。
+
