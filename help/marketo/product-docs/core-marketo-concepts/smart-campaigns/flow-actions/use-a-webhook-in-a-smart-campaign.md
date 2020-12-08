@@ -1,0 +1,45 @@
+---
+unique-page-id: 1147025
+description: スマートキャンペーン- Marketto Docs — 製品ドキュメントでのWebフックの使用
+title: スマートキャンペーンでのWebフックの使用
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 0%
+
+---
+
+
+# スマートキャンペーンでのWebフックの使用 {#use-a-webhook-in-a-smart-campaign}
+
+Webフックを使用するには [、フローアクションとして](http://developers.marketo.com/documentation/webhooks/)スマートキャンペーン [](add-a-flow-step-to-a-smart-campaign.md) に追加します。
+
+>[!NOTE]
+>
+>**可用性**
+>
+>この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+
+1. [スマートキャンペーンの作成](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
+
+   >[!NOTE]
+   >
+   >Webhookは、トリガーキャンペーンでのみ使用できます。
+
+1. 「 **フロー** 」タブに移動し、「Call Webhook **** flow」アクションをドラッグします。
+
+   ![](assets/image2014-9-22-15-3a8-3a2.png)
+
+1. Webフックを選択します。
+
+   ![](assets/image2014-9-22-15-3a8-3a5.png)
+
+1. Webhooksは、スマートリストでも使用できます。
+
+   ![](assets/2017-05-02-10-54-38.png)
+
+1. 最後に、Webhooksをフロー手順の **追加Choice** （選択）で使用できます。
+
+   ![](assets/image2014-9-22-15-3a8-3a13.png)
+
