@@ -1,0 +1,28 @@
+---
+unique-page-id: 3571844
+description: Microsoft Dynamics Sync — オポチュニティ同期 — Marketto Docs — 製品ドキュメント
+title: Microsoft Dynamics Sync — オポチュニティ同期
+translation-type: tm+mt
+source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 0%
+
+---
+
+
+# Microsoft Dynamics同期：オポチュニティの同期 {#microsoft-dynamics-sync-opportunity-sync}
+
+MarkettoとDynamicsの同期は非常に強力です。 オポチュニティの同期の詳細は次のとおりです。
+
+## 2つのシステム間でオポチュニティの詳細を同期させる方法 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
+
+オポチュニティの同期は、DynamicsからMarketoへの同期の1つの方法です。 Dynamicsでオポチュニティに変更を加えると、更新内容がMarketorに反映されます。
+
+## Marketoを使用してDynamicsでオポチュニティを作成できますか？ {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+
+いいえ。Dynamicsでオポチュニティを作成する必要があります。オポチュニティはMarketorと自動的に同期されます。
+
+## Marketoと同期するフィールドは何ですか。 {#what-fields-will-sync-to-marketo}
+
+セットアップ時に同期するフィールドを [選択できます](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) 。
