@@ -1,0 +1,85 @@
+---
+unique-page-id: 2949966
+description: フ追加ォームへの国選択リスト — Marketto Docs — 製品ドキュメント
+title: フ追加ォームの国選択リスト
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '191'
+ht-degree: 0%
+
+---
+
+
+# フ追加ォームの国選択リスト {#add-a-country-picklist-to-your-form}
+
+次の手順に従って、国フィールドをすべての国のリスト付きのドロップダウンに変換します。
+
+1. 「 **マーケティング** アクティビティ ****」に移動します。
+
+   ![](assets/login-marketing-activities-9.png)
+
+1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+
+   ![](assets/editform-1.png)
+
+1. ** +**記号をクリックします。
+
+   ![](assets/image2014-9-15-15-3a33-3a7.png)
+
+1. 「 **国**」を検索して選択します。
+
+   ![](assets/image2014-9-15-15-3a33-3a15.png)
+
+1. 「 **Country** 」フィールドを選択し、「 **Field****Type」を「Select****Country」に変更**&#x200B;します。
+
+   ![](assets/image2014-9-15-15-3a33-3a21.png)
+
+1. **「** 値 **** 」を編集して、ユーザーが選択できる国のリストを追加します。
+
+   ![](assets/image2014-9-15-15-3a33-3a40.png)
+
+1. [ **アドバンス****エディタ**]をクリックします。
+
+   ![](assets/image2014-9-15-15-3a34-3a1.png)
+
+1. 次の国のリストを選択してコピーします。
+
+   `<pre data-theme="Confluence">Afghanistan Albania Algeria Andorra Angola Antigua & Deps Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bhutan Bolivia Bosnia Herzegovina Botswana Brazil Brunei Bulgaria Burkina Burundi Cambodia Cameroon Canada Cape Verde Central African Rep Chad Chile China Colombia Comoros Congo Congo (Democratic Rep) Costa Rica Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland (Republic) Israel Italy Ivory Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea North Korea South Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar (Burma) Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria Norway Oman Pakistan Palau Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda St Kitts & Nevis St Lucia Saint Vincent & the Grenadines Samoa San Marino Sao Tome & Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Sudan Suriname Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tonga Trinidad & Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Yemen Zambia Zimbabwe</pre>`
+
+1. リストをエディターに貼り付けます。
+
+   ![](assets/image2014-9-15-15-3a34-3a32.png)
+
+   >[!TIP]
+   >
+   >リストを自由に編集したり、他のリストを使用したりできます。
+
+1. 「 **保存**」をクリックします。
+
+   ![](assets/image2014-9-15-15-3a35-3a3.png)
+
+1. 「 **完了**」をクリックします。
+
+   ![](assets/image2014-9-15-15-3a35-3a20.png)
+
+1. 「 **承認して閉じる**」をクリックします。
+
+   ![](assets/image2014-9-15-15-3a35-3a36.png)
+
+   うまくいった！ フォームに記入したユーザーは、提供した国のリストから選択できます。
+
+   ![](assets/image2014-9-15-15-3a35-3a43.png)
+
+それが簡単だったので、それ以上やらない？ ユーザーがリストで米国を国として選択した場合に、州フィールドを動的に表示する方法を教えてください。 その方法については、以下の関連記事を参照してください。
+
+>[!NOTE]
+>
+>**関連記事**
+>
+>* [フォームフィールドの表示/非表示を動的に切り替える](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+
+>
+
+
+
