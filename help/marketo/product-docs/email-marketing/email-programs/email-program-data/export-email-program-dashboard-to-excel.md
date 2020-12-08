@@ -1,0 +1,44 @@
+---
+unique-page-id: 2359598
+description: 電子メールプログラムダッシュボードをExcelにエクスポート — Marketto Docs — 製品ドキュメント
+title: 電子メールプログラムダッシュボードをExcelにエクスポート
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 0%
+
+---
+
+
+# 電子メールプログラムダッシュボードをExcelにエクスポート {#export-email-program-dashboard-to-excel}
+
+電子メールプログラムを実行し、ダッシュボードにデータをいくつか含めたら、その生データをエクスポートしてExcelにエクスポートし、分析を高めることができます。 これが方法です。
+
+1. 「 **マーケティングアクティビティ**」に移動します。
+
+   ![](assets/login-marketing-activities-1.png)
+
+1. 電子メールプログラムを探して選択します。
+
+   ![](assets/lifecycledashboard.jpg)
+
+   >[!NOTE]
+   >
+   >**Reminder**
+   >
+   >
+   >電子メールプログラムがまだ開始していない場合は、表示するデータがないので、ダッシュボードは表示されません。
+
+1. Excelアイコンをクリックすると、エクスポートが開始されます。
+
+   ![](assets/lifecycle.jpg)
+
+   簡単だろ？
+
+>[!NOTE]
+>
+>**ディープダイブ**
+>
+>電子メール [プログラムについて詳しくは](http://docs.marketo.com/display/docs/email+programs)?
+
