@@ -1,0 +1,43 @@
+---
+unique-page-id: 1147144
+description: スケジュール表示- Marketto Docs — 製品ドキュメントでの新しい電子メールプログラムの作成
+title: スケジュール表示での新しい電子メールプログラムの作成
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 0%
+
+---
+
+
+# スケジュール表示での新しい電子メールプログラムの作成 {#creating-a-new-email-program-in-the-schedule-view}
+
+プログラムスケジュール表示内から電子メールプログラムを作成できます。 これが方法です。
+
+1. 「 **マーケティングアクティビティ**」に移動します。
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. プログラムを選択します。
+
+   ![](assets/image2014-9-23-15-3a34-3a11.png)
+
+1. 電子メールプログラムの実行日を選択します。
+
+   ![](assets/image2014-9-23-15-3a35-3a16.png)
+
+1. 名前を入力します。 「 **電子メール****プログラム**」を選択します。
+
+   ![](assets/image2014-9-23-15-3a35-3a32.png)
+
+1. 参加者の詳細で、新しい電子メールプログラムへのリンクをクリックします。
+
+   ![](assets/image2014-9-23-15-3a35-3a42.png)
+
+1. [電子メールプログラムを設定し](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 、「プログラムの **承認**」をクリックします。
+
+   ![](assets/learnaboutthespeaker.png)
+
+   詳細なダッシュボードの他に、スマートなプログラムではなく [電子メールキャンペーンを使用する利点は](http://docs.marketo.com/display/docs/email+programs) 、 [A/Bテストを簡単に実装できることです](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 楽しんで！
+
