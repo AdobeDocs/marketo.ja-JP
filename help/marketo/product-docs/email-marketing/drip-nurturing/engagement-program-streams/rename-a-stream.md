@@ -1,0 +1,31 @@
+---
+unique-page-id: 2359832
+description: ストリームの名前の変更 — Marketto Docs — 製品ドキュメント
+title: ストリーム名の変更
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
+
+---
+
+
+# ストリーム名の変更 {#rename-a-stream}
+
+ストリームの整理を維持したい場合は、ストリームの名前を変更できます。 その方法を次に示します。
+
+1. エンゲージメントプログラムを探して選択し、「 **Streams**」をクリックします。
+
+   ![](assets/cloneasteam-1.jpg)
+
+1. 現在のストリーム名を重複キーを押しながらクリックします。
+
+   ![](assets/image2014-9-15-17-3a4-3a10.png)
+
+1. 新しいストリーム **名を入力し** 、「 **保存**」をクリックします。
+
+   ![](assets/image2014-9-15-17-3a4-3a14.png)
+
+   さあ、 これで、ストリームの名前の変更方法がわかります。
+
