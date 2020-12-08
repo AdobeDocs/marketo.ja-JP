@@ -1,0 +1,38 @@
+---
+unique-page-id: 2953331
+description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントでスマートキャンペーンを再実行する
+title: プログラムスケジュール表示でのスマートキャンペーンの再実行
+translation-type: tm+mt
+source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 0%
+
+---
+
+
+# プログラムスケジュール表示でのスマートキャンペーンの再実行 {#rerun-a-smart-campaign-in-the-program-schedule-view}
+
+既存のスマートキャンペーンの新しい実行は、プログラムスケジュール表示から直接簡単に作成できます。
+
+1. 「 **マーケティングアクティビティ**」に移動します。
+
+   ![](assets/login-marketing-activities-3.png)
+
+1. スマートキャンペーンを含むプログラムを選択します。
+
+   ![](assets/image2015-4-16-14-3a40-3a11.png)
+
+1. スケジュール表示で、新しい実行日をクリックし、わかりやすい名前を入力します（「2回目の招待」など）。
+
+   ![](assets/image2015-4-16-14-3a42-3a0.png)
+
+1. エントリタイプメニューのドロップダウンを選択し、再実行するスマートキャンペーンを選択します。
+
+   ![](assets/image2015-4-16-15-3a26-3a33.png)
+
+   >[!TIP]
+   >
+   >これは、 [プログラムフォーカスからも実行できます](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
+
+ブーム！ そのように、そのスマートキャンペーンに対して別の実行をスケジュールしました。 そのスマートキャンペーンにメール送信手順が含まれている場合は、それらも表示されます。
