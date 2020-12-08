@@ -1,0 +1,68 @@
+---
+unique-page-id: 557322
+description: スマートリスト- Marketto Docs — 製品ドキュメントからの単一フローステップの実行
+title: スマート・リストからの単一フロー・ステップの実行
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 0%
+
+---
+
+
+# スマート・リストからの単一フロー・ステップの実行 {#run-a-single-flow-step-from-a-smart-list}
+
+1回限りのフローステップを実行する場合は、スマートキャンペーン全体を作成する代わりに、スマートリスト内で1つのフローステップを使用できます。
+
+>[!NOTE]
+>
+>**前提条件**
+>
+>* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+
+>
+
+
+
+1. 「 **マーケティングアクティビティ**」に移動します。
+
+   ![](assets/login-marketing-activities-1.png)
+
+1. リストまたはスマートリストを選択し、「 **人物** 」タブに移動します。
+
+   ![](assets/smartlistpeopletab-hands.png)
+
+   >[!TIP]
+   >
+   >この機能は、静的なリストとスマートリストの両方にあります。
+
+1. 「す **べて選択**」をクリックします。 [** Ctrl/Cmd**]を使用し、いくつかのレコードを手動でクリックして選択することもできます。
+
+   ![](assets/smartlist-selectallhand.png)
+
+   >[!NOTE]
+   >
+   >結果が複数のページにまたがる場合は、「すべて **選択** 」をクリックすると、すべてのページにわたるすべてのユーザーが選択されます。
+
+1. 「 **個人アク** ション ****」で、選択したフローステップを選択します。 この例では、「 [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)」を使用します。
+
+   ![](assets/personactions-hands.png)
+
+1. 「 **属性**」を検索して選択します。 この例では、州「California」を持つすべての人を「CA」に変更します。
+
+   ![](assets/runaction-hands.png)
+
+1. 新しい値を入力します。 「今すぐ **実行**」をクリックします。
+
+   ![](assets/runactionnewvalue-hands.png)
+
+1. 多数のユーザーのデータ値を変更する場合は、数値を入力して変更の確認が必要になる場合があります。 「 **実行**」をクリックします。
+
+   ![](assets/changedatavalue.jpg)
+
+すごい仕事！ 右上隅に単一フローステップのステータスが表示されます。
+
+![](assets/completesingleflowaction.jpg)
+
+完了したら、リストを更新すると、更新された情報が表示されます。
