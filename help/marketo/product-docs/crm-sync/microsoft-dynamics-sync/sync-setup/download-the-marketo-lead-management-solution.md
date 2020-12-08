@@ -1,0 +1,51 @@
+---
+unique-page-id: 6848922
+description: Marketto Lead Management Solution - Marketto Docs — 製品ドキュメントをダウンロードします。
+title: Marketto Lead Management Solutionのダウンロード
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 0%
+
+---
+
+
+# Marketto Lead Management Solutionのダウンロード {#download-the-marketo-lead-management-solution}
+
+>[!NOTE]
+>
+>**必要な管理者権限**
+
+同期を開始するには、Microsoft DynamicsアカウントにMarketo Solutionをダウンロードしてインストールする必要があります。
+
+>[!CAUTION]
+>
+>アップグレードを実行する前に、最新のMarketo Solutionをダウンロードする *必要があります* 。
+
+>[!NOTE]
+>
+>Marketorは、現時点ではJava 7と互換性のあるSSL証明書のみをサポートしています。
+
+1. 「 **管理者** 」領域に移動します。
+
+   ![](assets/admin.png)
+
+1. 「 **CRM**」をクリックします。
+
+   ![](assets/image2015-3-11-13-3a7-3a11.png)
+
+1. 「 **Microsoft**」を選択します。
+
+   ![](assets/image2015-3-11-13-3a9-3a7.png)
+
+1. 「Markettor Solutionを **ダウンロード**」を選択します。
+
+   ![](assets/image2015-3-11-13-3a10-3a4.png)
+
+1. お使いのMicrosoft Dynamicsバージョンに適したソリューションを選択してください。
+
+   ![](assets/msd-online.png)
+
+   すごい！ ソリューションのzipファイルがデバイスにダウンロードされます。
+
