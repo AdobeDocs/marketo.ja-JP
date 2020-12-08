@@ -1,0 +1,68 @@
+---
+unique-page-id: 2949857
+description: イベントチャネルの編集 — Marketto Docs — 製品ドキュメント
+title: イベントチャネルの編集
+translation-type: tm+mt
+source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 0%
+
+---
+
+
+# イベントチャネルの編集 {#edit-an-event-channel}
+
+チャネルタイプは、イベントの「 **概要** 」タブまたは「 **設定** 」タブから編集できます。
+
+>[!NOTE]
+>
+>このオプションは、関連付けられたメンバーを持たないイベントでのみ使用できます。 イベントにメンバが追加された後は、チャネルの種類を変更できません。
+
+>[!NOTE]
+>
+>プログラムは、特定のマーケティングイニシアチブです。 この **チャネルは、ウェビナー** 、トレードショー、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに様々なオプションが表示される場合があります。 独自のチャネルを [作成することもできます。](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+
+## 「概要」タブから {#from-the-summary-tab}
+
+1. [ **マーケティングアクティビティ**]で、ツリーからイベントを選択します。
+
+   ![](assets/eventprogramseelct.png)
+
+1. 「 **要約** 」表示にナビゲートします。
+
+   ![](assets/eventprogramsummary.png)
+
+1. 設定 **カテゴリで、ハイパーリンクとして表示される現在の** チャネル **** を選択します。
+
+   ![](assets/channeltypeevent.png)
+
+1. ドロップダウンリストから、新しいチャネルを選択します。
+
+   ![](assets/tradeshowchange.png)
+
+1. 「 **保存**」をクリックします。
+
+   ![](assets/2017-06-13-09-35-53.png)
+
+## 「設定」タブから {#from-the-setup-tab}
+
+新しいチャネルタイプは、イベントの「 **設定** 」タブから割り当てることもできます。
+
+1. ツリーからイベントを選択します。
+
+   ![](assets/eventprogramseelct.png)
+
+1. 「 **設定** 」タブに移動します。 現在の **チャネルを重複クリックします**。
+
+   ![](assets/setuptabchangechannel.png)
+
+1. 新しい **チャネルを選択します**。
+
+   ![](assets/tradeshowchange.png)
+
+1. 「 **保存」をクリックします。**
+
+   ![](assets/2017-06-13-09-35-53.png)
+
+おめでとう！ チャネルを編集しました！
