@@ -1,0 +1,63 @@
+---
+unique-page-id: 2359987
+description: 基本レポートの購読 — Marketto Docs — 製品ドキュメント
+title: 基本レポートの購読
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 0%
+
+---
+
+
+# 基本レポートの購読 {#subscribe-to-a-basic-report}
+
+基本レポートの自動更新を受け取る、または [基本レポートを共有するには](http://docs.marketo.com/display/docs/basic+reporting)、既存のレポートの電子メールアドレスを登録します。
+
+>[!NOTE]
+>
+>「 [売上高サイクル・エクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 」レポート・購読については、「売上高エクスプローラ・レポートの [登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)」を参照してください。
+
+1. 「**マーケティングアクティビティ**」領域に移動します。
+
+   ![](assets/image2014-9-16-10-3a31-3a54.png)
+
+1. ナビゲーションツリーでレポートを選択し、「 **購読** 」タブをクリックします。
+
+   ![](assets/image2014-9-16-10-3a32-3a1.png)
+
+   >[!NOTE]
+   >
+   >「 **Analytics** 」タブからレポートを購読することもできます。
+
+1. [ **新しいレポート購読**]をクリックします。
+
+   ![](assets/image2014-9-16-10-3a32-3a24.png)
+
+1. 電子メールアドレスを入力し、レポート電子メールの頻度を設定します。
+
+   ![](assets/image2014-9-16-10-3a32-3a31.png)
+
+   >[!NOTE]
+   >
+   >受信した電子メール内のレポートを誰でも登録解除できます。
+
+   それだ！ 受信トレイを確認してください。
+
+   ![](assets/image2014-9-16-10-3a32-3a49.png)
+
+   >[!NOTE]
+   >
+   >**関連記事**
+   >
+   >
+   >すべてのレポート購読を1か所で [管理する方法](manage-report-subscriptions.md) 。
+
+   >[!NOTE]
+   >
+   >**ディープダイブ**
+   >
+   >
+   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細で、レポートで他に何ができるかを確認できます。
+
