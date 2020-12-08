@@ -1,0 +1,79 @@
+---
+unique-page-id: 30081815
+description: Adobe Experience Manager統合の設定 — Marketto Docs — 製品ドキュメント
+title: Adobe Experience Manager統合の設定
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '219'
+ht-degree: 0%
+
+---
+
+
+# Adobe Experience Manager統合の設定 {#configuring-adobe-experience-manager-integration}
+
+AEMアセットにアクセス、選択およびMarketorのDesign Studioへの読み込みができるようにAEMを設定します。
+
+>[!NOTE]
+>
+>**必要な管理者権限**
+
+>[!CAUTION]
+>
+>現在、この機能はFirefoxでのみ完全にサポートされています。 Safariではサポートされていないため、SameSite Cookieの設定によっては、最新バージョンのChrome(v. 80)では動作しない場合があります。
+
+1. Adobe Experience Managerに移動します(URLは会社に固有です)。
+
+   ![](assets/one.png)
+
+1. Adobeを使用してサインインするか、ローカルでサインインすることができます。 この例では、ローカルにサインインします。
+
+   ![](assets/two.png)
+
+1. 「 **ツール**」で「 **操作** 」をクリックし、「 **Webコンソール**」を選択します。
+
+   ![](assets/2a.png)
+
+1. ブラウザーで、（Windowsではctrl + fキー、Macではcmd + fキー）に対して「AdobeGranite Cross-接触チャネルリソース共有ポリシー」を検索します。
+
+   ![](assets/three.png)
+
+1. 右側の **+** 記号をクリックします。
+
+   ![](assets/four.png)
+
+1. 「 **許可される接触チャネル(Regexp)** 」テキストボックスに、「https://」と入力します。*\.marketo\.com」（引用符なし）をクリックし、「 **保存**」をクリックします。
+
+   ![](assets/five-psd.png)
+
+1. ページ上部のヘッダーで、「 **Web Console** 」をクリックし、「 **System Information**」を選択します。
+
+   ![](assets/six.png)
+
+1. 「Server Information」で、「 **Restart** 」ボタンをクリックします。
+
+   ![](assets/seven.png)
+
+1. 「 **OK** 」をクリックして確認します。
+
+   ![](assets/eight.png)
+
+1. Marketing Classicで、「 **管理者**」をクリックします。
+
+   ![](assets/nine.png)
+
+1. 「統合」で、「 **Adobe Experience Manager**」を選択します。
+
+   ![](assets/ten.png)
+
+1. 「 **編集**」をクリックします。
+
+   ![](assets/eleven.png)
+
+1. AEM URLを入力し、「 **OK**」をクリックします。
+
+   ![](assets/twelve.png)
+
+   準備万端！ Marketo Sky内のDesign StudioにAEMアセットを [読み込めるようになりました](http://help.marketo.com/hc/en-us/articles/360036765993)。
+
