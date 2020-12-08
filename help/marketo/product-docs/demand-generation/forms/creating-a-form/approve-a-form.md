@@ -1,0 +1,72 @@
+---
+unique-page-id: 2359578
+description: フォームの承認 — マーケティング担当者向けドキュメント — 製品ドキュメント
+title: フォームの承認
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 0%
+
+---
+
+
+# フォームの承認 {#approve-a-form}
+
+ランディングページの1つにフォームを追加するには、承認済みのフォームが必要です。 その方法を次に示します。
+
+## フォームの承認 {#approve-a-form-1}
+
+既存のフォームを承認して準備する方法を次に示します。
+
+1. 「 **マーケティング** アクティビティ ****」に移動します。
+
+   ![](assets/login-marketing-activities-7.png)
+
+1. フォームを検索して選択します。
+
+   ![](assets/image2014-9-15-17-3a49-3a40.png)
+
+1. 「 **フォームのアクション**」で、「 **承認**」をクリックします。
+
+   ![](assets/image2014-9-15-17-3a49-3a47.png)
+
+1. 緑のチェックマークに注目？
+
+   ![](assets/image2014-9-15-17-3a50-3a2.png)
+
+   承認済みで、ランディングページに [追加する準備ができています](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+
+   >[!NOTE]
+   >
+   >承認後に行った変更は、埋め込みフォームで更新されるまでに最大4分かかる場合があります。
+
+## エディタからのフォームの承認 {#approve-a-form-from-the-editor}
+
+フォームに変更を加える場合は、エディターから直接ページを承認できます。
+
+>[!NOTE]
+>
+>**前提条件**
+>
+>* [フォームの編集](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+
+>
+
+
+
+1. 「 **完了**」をクリックします。
+
+   ![](assets/image2014-9-15-17-3a51-3a43.png)
+
+1. 「 **承認して閉じる**」をクリックします。
+
+   ![](assets/image2014-9-15-17-3a52-3a1.png)
+
+>[!NOTE]
+>
+>**Reminder**
+>
+>承認後にフォームを編集した場合は、変更を確認するにはランディングページを [承認する必要があります](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 。
+
+それだ！ できるだけ簡単に。
