@@ -1,0 +1,49 @@
+---
+unique-page-id: 2949180
+description: SEOダッシュボードについて —SEORecommendations- Marketto Docs — 製品ドキュメント
+title: SEOダッシュボードについて — SEORecommendations
+translation-type: tm+mt
+source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+workflow-type: tm+mt
+source-wordcount: '158'
+ht-degree: 0%
+
+---
+
+
+# SEOダッシュボードについて：瀬尾Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+
+このダッシュボードを使用して、キーワードのランクの傾向、およびサイトのSEOに対する最適化の程度を高レベルで表示できます。
+
+Recommendationsの使い方も見つかります。 飛び込もう！
+
+![](assets/image2014-9-17-21-3a39-3a57.png)
+
+## トップページの最適化の問題 {#top-page-optimization-issues}
+
+これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 表示へのリンクをクリックするだけで、 [ページ全体の詳細ドリルダウンが可能](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。
+
+>[!TIP]
+>
+>[トップページの最適化の問題]をクリックすると、完全なリストが表示されます。
+
+![](assets/image2014-9-17-21-3a40-3a52.png)
+
+## トップリンクのオポチュニティ {#top-link-opportunities}
+
+評判の良いサイトがコンテンツにリンクされていると、ページのランクが高くなる可能性があります。 ここでは、お客様のサイトで最も優先度の高いオポチュニティをいくつか示します。
+
+>[!TIP]
+>
+>[トップリンクの最適化]をクリックすると、完全なリストを表示できます。
+
+![](assets/image2014-9-17-21-3a41-3a17.png)
+
+すぐに！ もっと深く掘り下げなさい。
+
+>[!NOTE]
+>
+>**関連記事**
+>
+>* [ページの詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+
