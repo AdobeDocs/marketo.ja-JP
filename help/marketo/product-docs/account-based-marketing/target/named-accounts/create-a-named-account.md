@@ -1,0 +1,39 @@
+---
+unique-page-id: 12615781
+description: 名前付きアカウントの作成 — Marketto Docs — 製品ドキュメント
+title: 名前付きアカウントの作成
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '62'
+ht-degree: 0%
+
+---
+
+
+# 名前付きアカウントの作成 {#create-a-named-account}
+
+名前付きアカウントを手動で作成するには、次の手順に従います。
+
+1. 「名前付きアカウント」で、「 **新規** 」ドロップダウンをクリックし、「名前付きアカウントを **作成**」を選択します。
+
+   ![](assets/two-1.png)
+
+1. 必要なフィールドに適切な情報を入力し、「 **作成**」をクリックします。
+
+   ![](assets/three-1.png)
+
+   >[!TIP]
+   >
+   >名前付きのアカウントを直接クリックして、そのダッシュボードを表示します。
+
+>[!NOTE]
+>
+>**関連記事**
+>
+>* [名前付き追加アカウントのユーザー](add-people-to-a-named-account.md)
+
+>
+
+
+
