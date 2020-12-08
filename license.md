@@ -1,5 +1,5 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
 source-wordcount: '170'
@@ -8,7 +8,7 @@ ht-degree: 0%
 ---
 # MITライセンス
 
-© Copyright 2018Adobe。 All rights reserved.
+© Copyright 2020Adobe。 All rights reserved.
 
 本ソフトウェアの著作物及び関連文書ファイル（以下「ソフトウェア」）を取得する者に対し、本ソフトウェアの使用、複製、変更、合成、公開、配布、再ライセンス及び/又は販売の権利を制限なく許諾し、次の条件に従うことを許諾する。
 
