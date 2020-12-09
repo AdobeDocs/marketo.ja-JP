@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: 照会オファーの作成 — Marketto Docs — 製品ドキュメント
 title: 照会オファーの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 おめでとう！ 照会オファーを作成しました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >次の手順は、参照オファーをランディングページ、Webサイト [、またはFacebookに](publish-a-referral-offer.md) 公開することです。
 
