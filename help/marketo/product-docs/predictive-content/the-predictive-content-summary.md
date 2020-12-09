@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: 予測コンテンツの概要 — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >カテゴリリンク(上の画像の例：leadgen、emailなど)。 クリックしたカテゴリがフィルターに追加された状態で、すべてのコンテンツページが開き、そのカテゴリのコンテンツ分析が表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [すべてのコンテンツの操作](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [予測コンテンツの操作](http://docs.marketo.com/display/docs/working+with+predictive+content)
