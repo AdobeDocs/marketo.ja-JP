@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: 興味深い瞬間の概要 — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間の概要
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
 また、興味深い瞬間にトークンを使用して、非常に役立つ動的な説明を作成することもできます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [興味深い瞬間の使用](using-interesting-moments.md)
 >* [興味深い瞬間のトークン](tokens-for-interesting-moments.md)
