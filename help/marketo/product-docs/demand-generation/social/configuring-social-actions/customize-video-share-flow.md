@@ -3,9 +3,9 @@ unique-page-id: 2950553
 description: ビデオ共有フローのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: ビデオ共有フローのカスタマイズ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >次の手順は、ビデオ共有後の動作を [設定することです](configure-after-share-prompts.md)。
 
