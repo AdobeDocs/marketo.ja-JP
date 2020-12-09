@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: 組み込み/システムスマートリストの使用 — Marketto Docs — 製品ドキュメント
 title: 組み込み/システムスマートリストの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketoには非常に役立つ組み込みスマートリストがいくつか�
 >
 >システムスマートリストは削除できません。 可能な重複リストを除き、これらも編集できません。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
