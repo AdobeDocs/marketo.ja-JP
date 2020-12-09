@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 追跡された電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: 追跡する電子メールの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketto Sales Connectと共に電子メールを送信すると、表示（電子メールが開く）とクリック（クリックされたリンク）が追跡されます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >追跡する電子メールを送信する前に、IDの検証と電子メール配信チャネルの設定を行う必要があります。
 >
