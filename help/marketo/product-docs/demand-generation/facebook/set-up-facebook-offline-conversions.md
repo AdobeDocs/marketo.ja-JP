@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Facebookオフラインコンバージョンの設定 — Marketto Docs — 製品ドキュメント
 title: Facebookオフラインコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 リード広告を通じて作成された人のオフラインコンバージョンデータをFacebookに送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。 設定方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Facebookのリード広告を [設定する必要があります](set-up-facebook-lead-ads.md)。
 >* [売上高サイクルモデラーで承認済みのモデルが必要です](http://docs.marketo.com/display/docs/revenue+cycle+models)。
