@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: エンゲージメントスコアについて — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: エンゲージメントスコアについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 >
 >独自のアルゴリズムは、電子メールプログラムのエンゲージメントスコアにも適用されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [エンゲージメントのプログラムについて](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
