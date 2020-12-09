@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition - Marketto Docs — 製品ドキュメントでのMarketo Sales Insightの設定
 title: Salesforce Professional EditionでのMarketor Sales Insightの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Salesforce Professional EditionでMarketon Sales Insightを設定するために必要な手順を次に示します。 始めましょう。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[Salesforce Professional EditionにMarketoをインストールする](http://docs.marketo.com/display/docs/professional+edition)
 >
