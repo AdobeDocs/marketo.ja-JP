@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: ストリ追加ームへのコンテンツ — Marketto Docs — 製品ドキュメント
 title: ストリ追加ームのコンテンツ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ ht-degree: 0%
 
 素晴らしい仕事！ プログラムストリームにコンテンツを追加する様々な方法を理解できるようになりました。 養追加うのに必要な数だけ 詳しくは、以下の関連記事を参照してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [エンゲージメントプログラムストリームへのプログラムの追加](adding-a-program-to-an-engagement-program-stream.md)
 
