@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: プログラムチャネルの削除 — Marketto Docs — 製品ドキュメント
 title: プログラムチャネルの削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 バム！ 特定のステータスをチャネルから [削除することもできます](delete-a-program-status-from-a-program-channel.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プログラムチャネルからのプログラムステータスの削除](delete-a-program-status-from-a-program-channel.md)
 
