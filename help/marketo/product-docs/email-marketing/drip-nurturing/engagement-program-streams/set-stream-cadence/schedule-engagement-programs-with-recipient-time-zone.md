@@ -3,9 +3,9 @@ unique-page-id: 12982909
 description: 受信者のタイムゾーン — Marketto Docs — 製品ドキュメントでのエンゲージメントプログラムのスケジュール
 title: 受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [受信者のタイムゾーンについて](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [ストリームカデンスを設定](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
