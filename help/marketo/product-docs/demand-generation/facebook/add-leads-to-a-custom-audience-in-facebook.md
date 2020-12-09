@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Facebook - Marketto Docs — 製品ドキュメントでカスタムオーディエンスが追加発生する
 title: Facebook追加でカスタムオーディエンスが発生
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 既にFacebookにカスタムオーディエンスがあり、さらにリードを追加したい場合 これが方法です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Facebookでのカスタムオーディエンスの作成](create-a-custom-audience-in-facebook.md)
 >* [Facebookアカウント内でFacebookのカスタムオーディエンス条件に同意します](https://www.facebook.com/ads/manage/customaudiences/tos.php) 。
