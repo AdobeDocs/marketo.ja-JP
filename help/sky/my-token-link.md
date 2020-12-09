@@ -2,7 +2,7 @@
 title: my-token-link
 description: マイトークンリンク
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >「mkt_tokを含める」をオンにすると、ブランドのトラッキングドメインのリンクプレビュー(例：http://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
 
-1. 必要に応じて、「 [!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「 [!UICONTROL **保存**]」をクリックします。
+1. 必要に応じて、「 [!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「 **[!UICONTROL 保存]**」をクリックします。
 
    ![画像4](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
