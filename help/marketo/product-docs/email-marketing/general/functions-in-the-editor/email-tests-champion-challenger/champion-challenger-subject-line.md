@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger — 件名行 — Marketto Docs — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 件名行
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 複数の件名行を簡単にテストできます。 テストが終了したら、最も効果的な電子メールを送信します。 その方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Eメール追加チャンピオン/対抗者](add-an-email-champion-challenger.md)
 
