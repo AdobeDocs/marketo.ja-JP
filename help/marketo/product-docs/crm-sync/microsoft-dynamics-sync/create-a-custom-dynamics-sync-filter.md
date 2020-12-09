@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: カスタムダイナミクス同期フィルターの作成 — Marketto Docs — 製品ドキュメント
 title: カスタムダイナミクス同期フィルタを作成する
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketorは、バックグラウンドでの自動同期中にこのフィール
 >
 >レコードをスキップするようにマーケティングツールに指示する唯一の方法は、フィールドの値を明示的に **「いいえ**」に設定することです。 フィールドの値が空でも、引き続きMarketorはレコードを同期します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Marketo Plug-inの最新バージョン（3.0.0.1以降）をインストールします。 Marketor/管理者/Microsoft Dynamics/Markettor Solutionのダウンロードに移動します。
 
