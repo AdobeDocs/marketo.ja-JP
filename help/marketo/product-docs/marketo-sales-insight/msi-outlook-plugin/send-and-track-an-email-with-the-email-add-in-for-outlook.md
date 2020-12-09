@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Outlook用電子メールインを使用した電子メールの送信と追跡 — Marketto Docs 追加製品ドキュメント
 title: Outlook用電子メールインを使用した電子メールの追加送信と追跡
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketoの電子メールは、Outlookから直接送信および追跡できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >まだOutlook用の [Marketo電子メールアドインをインストールしていない場合は、](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)Marketo電子メールアドインをインストールします。
 
