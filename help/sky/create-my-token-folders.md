@@ -2,7 +2,7 @@
 title: create-my-token-folders
 description: マイトークンフォルダーの作成
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 新しいフォルダーの名前を入力し、「ロー [!UICONTROL **カルトークン**] 」または「上書きされたトークン [!UICONTROL ****] 」を宛先ドロップダウンから選択します。 「 [!UICONTROL **保存**]」をクリックします。
+1. 新しいフォルダーの名前を入力し、「ロー **[!UICONTROL カルトークン]** 」または「上書きされたトークン **** 」を宛先ドロップダウンから選択します。 「 **[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->フォルダ名を変更するには、フォルダを右クリックし、[ [!UICONTROL **名前の変更**]]をクリックします。
+>フォルダ名を変更するには、フォルダを右クリックし、[ **[!UICONTROL 名前の変更]**]をクリックします。
