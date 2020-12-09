@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Facebook - Marketto Docs -オーディエンスドキュメントでのカスタム製品の作成
 title: Facebookでのカスタムオーディエンスの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Facebookでのカスタムオーディエンスの作成 {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [「追加管理」セクションの「LaunchPointサービス](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 」としてのFacebookカスタムオーディエンス。
 >* [Facebookアカウント内でFacebookのカスタムオーディエンス条件に同意します](https://www.facebook.com/ads/manage/customaudiences/tos.php) 。
