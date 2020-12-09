@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: 売上高モデル — Marketto Docs — 製品ドキュメントでのGoogle AdWordsコンバージョンの設定
 title: 売上高モデルでのGoogle AdWordsコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
 Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラインコンバージョンを作成できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [LaunchPoint追加サービスとしてのGoogle AdWords](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
