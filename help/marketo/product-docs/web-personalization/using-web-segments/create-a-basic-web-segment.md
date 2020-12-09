@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 基本的なWebセグメントの作成 — Marketto Docs — 製品ドキュメント
 title: 基本Webセグメントの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 
 訪問者を米国から分類し、金融サービス業界を追加します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Webセグメント](http://docs.marketo.com/x/9QFI)
 
