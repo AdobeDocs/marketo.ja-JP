@@ -3,9 +3,9 @@ unique-page-id: 10099389
 description: Microsoft Dynamics用Marketoプラグインリリース — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics向けMarketoプラグインリリース
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '346'
 ht-degree: 7%
 
 ---
@@ -100,13 +100,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Marketto Lead Management Solutionのダウンロード](sync-setup/download-the-marketo-lead-management-solution.md)
-
->
-
-
 
