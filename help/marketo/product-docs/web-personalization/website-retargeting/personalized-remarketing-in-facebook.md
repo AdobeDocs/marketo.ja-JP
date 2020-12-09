@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebookでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
 title: Facebookでのパーソナライズされたリマーケティング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 パーソナライズされたリマーケティングを使用すると、RTPデータとFacebookリマーケティングの機能を利用して、ユーザーと再び関わりを持つことができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Webパーソナライゼーションデータの [再ターゲティング](retargeting-with-web-personalization-data.md) 設定の完了
 >* カスタムオーディエンスとリマーケティングに関する [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebookのドキュメントを確認し [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)ます。
