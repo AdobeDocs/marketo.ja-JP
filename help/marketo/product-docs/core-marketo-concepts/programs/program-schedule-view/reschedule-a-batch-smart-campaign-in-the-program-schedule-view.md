@@ -3,9 +3,9 @@ unique-page-id: 7514985
 description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントで、バッチスマートキャンペーンの再スケジュールを行います。
 title: プログラムスケジュール表示でのバッチスマートキャンペーンの再計画
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[計画表示からのプログラム全体の再計画](rescheduling-an-entire-program-from-the-schedule-view.md)
 
