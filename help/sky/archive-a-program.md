@@ -2,7 +2,7 @@
 title: archive-a-プログラム
 description: プログラムのアーカイブ
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 プログラムをアーカイブするには、別のアーカイブフォルダーに移動する必要があります。
 
-1. ワークスペースのグローブを右クリックし、「 [!UICONTROL **新規キャンペーンキャンペーン**]」を選択して、新しいフォルダーを作成します。
+1. ワークスペースのグローブを右クリックし、「 **[!UICONTROL 新規キャンペーンキャンペーン]**」を選択して、新しいフォルダーを作成します。
 
    ![イメージ1](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. 新しいフォルダーの名前を入力し、オプションで説明を追加します。 「 [!UICONTROL **作成**]」をクリックします。
+1. 新しいフォルダーの名前を入力し、オプションで説明を追加します。 「 **[!UICONTROL 作成]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. プログラムをアーカイブするには、ツリー内で右クリックし、「 [!UICONTROL **移動**]」を選択して、新しく作成したフォルダにフォルダを追加します。
+1. プログラムをアーカイブするには、ツリー内で右クリックし、「 **[!UICONTROL 移動]**」を選択して、新しく作成したフォルダにフォルダを追加します。
 
    ![イメージ3](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. 新しいフォルダを入力して検索し、ドロップダウンから選択します。 「 [!UICONTROL **移動**]」をクリックします。
+1. 新しいフォルダを入力して検索し、ドロップダウンから選択します。 「 **[!UICONTROL 移動]**」をクリックします。
 
    ![画像4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. フォルダーを右クリックし、「Convert To Archive Folder [!UICONTROL ****]」を選択します。
+1. フォルダーを右クリックし、「Convert To Archive Folder ****」を選択します。
 
    ![画像5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
