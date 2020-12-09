@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: LaunchPointサービスとしての追加Slack- Marketto Docs — 製品ドキュメント
 title: LaunchPointサービス追加としてのSlack
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Slack統合には、次の2つの通知タイプが含まれます。
 >
 >**必要な管理者権限**
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Slackシステム通知が既に有効になっていない場合は、サポートに [お問い合わせください](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)。
 
