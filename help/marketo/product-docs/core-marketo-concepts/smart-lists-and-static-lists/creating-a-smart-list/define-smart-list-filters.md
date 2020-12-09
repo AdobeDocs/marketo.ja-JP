@@ -3,9 +3,9 @@ unique-page-id: 557316
 description: スマートリストフィルターの定義 — Marketto Docs — 製品ドキュメント
 title: スマートリストフィルターの定義
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # スマートリストフィルターの定義 {#define-smart-list-filters}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマートリストの作成](create-a-smart-list.md)
 >* [スマート・リストの検索と追加フィルター](find-and-add-filters-to-a-smart-list.md)
