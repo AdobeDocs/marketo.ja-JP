@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: 新しいキャンペーンフォルダーの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいキャンペーンフォルダーの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    新しいプログラムを [作成すると](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)、このキャンペーンフォルダがオプションとして表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プログラムの作成](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [新しいスマートキャンペーンの作成](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
