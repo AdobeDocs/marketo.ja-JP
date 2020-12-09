@@ -2,7 +2,7 @@
 title: define-a-smart-リスト-for-a-batch-キャンペーン
 description: バッチキャンペーンのスマートリストの定義
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 スマートリストは、レポート、リスト、スマートキャンペーンのいずれを含めるかを定義する、マーケティング全体のメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
 
-1. スマートキャンペーンを選択し、「 [!UICONTROL **スマートリスト**]」をクリックします。
+1. スマートキャンペーンを選択し、「 **[!UICONTROL スマートリスト]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >スマートキャンペーンをトリガーモードにするトリガーを追加することで、ライブイベントに基づいて、一度に1人の人に対してスマートキャンペーンを実行させることができます。
 
-1. ドロップダウンをクリックし、選択したフィルターに対するフィルター演算子( [!UICONTROL **is**]、is not [!UICONTROL **など**])を選択します。
+1. ドロップダウンをクリックし、選択したフィルターに対するフィルター演算子( **[!UICONTROL is]**、is not **[!UICONTROL など]**)を選択します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
