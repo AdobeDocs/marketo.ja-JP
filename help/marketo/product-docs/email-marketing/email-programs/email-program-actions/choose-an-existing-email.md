@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 既存の電子メールの選択 — Marketto Docs — 製品ドキュメント
 title: 既存の電子メールの選択
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 既存の電子メールの選択 {#choose-an-existing-email}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [スマートリストを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 、またはリストのインポートによるオーディエンスの [定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
