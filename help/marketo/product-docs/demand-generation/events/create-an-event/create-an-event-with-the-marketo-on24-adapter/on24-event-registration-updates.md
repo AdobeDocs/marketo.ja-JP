@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: ON24イベント登録の更新 — Marketto Docs — 製品ドキュメント
 title: ON24イベント登録の更新
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Marketoは、太平洋標準時の約11時に、毎夜自動的に出席情報を取り込みます。 出席情報を手動で更新するには、「 **イベントアクション** 」の「ウェビナープロバイダーから更新」をクリックします ****。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
 
