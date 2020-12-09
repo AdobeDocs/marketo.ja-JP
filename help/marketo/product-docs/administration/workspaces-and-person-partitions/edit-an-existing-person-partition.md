@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 既存の人物パーティションの編集 — Marketto Docs — 製品ドキュメント
 title: 既存の人物パーティションの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [個人パーティションの作成](create-a-person-partition.md)
 
