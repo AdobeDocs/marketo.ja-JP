@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: LaunchPointサ追加ービスとしてのAdobe Connect- Marketto Docs — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのAdobe Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Marketorは、Adobe Connectウェビナーの登録と出席を管理します�
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >Adobe Connectとのイベントの [作成方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)。
 
