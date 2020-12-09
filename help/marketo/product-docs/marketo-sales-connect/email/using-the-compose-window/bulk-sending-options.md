@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: バルク送信オプション — Marketto Docs — 製品ドキュメント
 title: バルク送信オプション
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 デフォルトでは、すべての受信者を編集します。 ただし、個々の電子メールを選択してカスタム編集を行うこともできます。 これは、よりパーソナライズされたアプローチを使用する受信者に、1つ以上の独自のカスタマイズ行を追加する場合に便利です。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [選択と送信を使用したバルク電子メールの構成](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [グループ電子メールを使用した電子メールの送信](http://docs.marketo.com/x/KAQ6Ag)
