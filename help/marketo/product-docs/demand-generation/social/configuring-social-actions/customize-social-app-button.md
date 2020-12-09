@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: ソーシャルアプリのカスタマイズボタン — Marketto Docs — 製品ドキュメント
 title: Socialアプリのカスタマイズボタン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 >
 >照会オファーで、「進行状況を **追跡** 」ボタンをカスタマイズすることもできます。 ア **プリ設定** /進行状況スタイルを **** 追跡に移動し、上記と同じ手順に従います。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >ソーシャルボタンを開くタイミングを [設定します](configure-when-social-button-opens.md)。 参照オファーの場合は、オファー目標を [指定します](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
 
