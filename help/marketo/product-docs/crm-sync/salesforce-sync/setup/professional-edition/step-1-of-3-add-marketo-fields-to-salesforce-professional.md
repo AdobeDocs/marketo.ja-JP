@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 手順1/3 - Salesforce(Professional)追加に対するMarketoフィールド — Markettoドキュメント — 製品ドキュメント
 title: 手順1/3 - Salesforce追加に対するMarketoフィールド(Professional)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >MarketoとSalesforceの間でデータを同期するには、SalesforceインスタンスがSalesforce APIにアクセスできる必要があります。
 
