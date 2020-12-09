@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同期設定 — Marketto Docs — 製品ドキュメント
 title: Salesforce同期設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 この機能を使用するには、SalesforceのEnterprise/Unlimitedエディション、またはWeb Services API経由で統合を購入している場合はProfessionalエディションを使用する必要があります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >SalesforceとSales Engageは関連付けられている必要があります。
 
@@ -47,9 +45,7 @@ ht-degree: 0%
 
 「Email to Salesforce (BCC)」をアクティブにすると、販売用電子メールのBCCが送信され、電子メールは商談、リード、連絡先に関するアクティビティとして記録されます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >SalesforceとSales Engageは関連付けられている必要があります。
 
