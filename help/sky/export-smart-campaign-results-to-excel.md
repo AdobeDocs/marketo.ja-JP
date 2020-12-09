@@ -2,7 +2,7 @@
 title: export-smart-キャンペーン-results-to-excel
 description: スマートキャンペーンの結果をExcelにエクスポート
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 の外部で使用するために、スマートキャンペーンの結果をExcelにエクスポート [!DNL Marketo]します。
 
-1. スマートキャンペーンの「 [!UICONTROL 概要] 」タブで、「 [!UICONTROL **レポート**] 」タブをクリックします。
+1. スマートキャンペーンの「 [!UICONTROL 概要] 」タブで、「 **[!UICONTROL レポート]** 」タブをクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
