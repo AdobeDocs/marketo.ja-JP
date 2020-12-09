@@ -3,9 +3,9 @@ unique-page-id: 2359703
 description: フリ追加ーフォームランディングページへの画像 — Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページへの画像
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # フ追加リーフォームランディングページへの画像 {#add-an-image-to-a-free-form-landing-page}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [マー追加ケティング担当者向けの画像とファイル](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
