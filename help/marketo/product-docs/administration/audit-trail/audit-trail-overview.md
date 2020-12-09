@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 監査証跡の概要 — Marketto Docs — 製品ドキュメント
 title: 監査証跡の概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Marketorは、次の [作成、編集および削除](http://docs.marketo.com/di
 >
 >**不明：** 監査証跡で、ユーザーの名前と電子メールが「不明」と表示される場合があります。 これは、CRMの選択リストの値を変更した場合に発生します。 これらの値は、Marketing Formsおよびランディングページに表示されます。 CRM側でこの更新を行うと、フォームを参照するランディングページが自動ドラフトされます。 監査証跡では、ランディングページがドラフトされたことをキャプチャしますが、CRM側からユーザー情報を取り込めないので、ユーザーの名前と電子メールには「不明」と表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [監査証跡の有効化](enable-audit-trail.md)
 
