@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: 電子メールプログラムについて — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムについて
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 電子メールのプログラムについて理解したら、以下の関連記事の1つから始めます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールプログラムの作成](create-an-email-program.md)
    >
