@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: LaunchPointサ追加ービスとしてズーム — Marketto Docs — 製品ドキュメント
 title: LaunchPointサー追加ビスとしてズーム
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >ズームでパスワードを更新する場合は、Marketoでもパスワードを更新する必要があります。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >ズームを使用してイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)。
 
