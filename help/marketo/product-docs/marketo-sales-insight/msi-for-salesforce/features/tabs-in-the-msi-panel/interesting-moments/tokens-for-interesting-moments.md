@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 興味深い瞬間のトークン — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間のトークン
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 興味深い瞬間のトークン {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* 注 [目の瞬間のフローステップの使用方法を学びます](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
 >* トー [クンの詳細](http://docs.marketo.com/display/docs/tokens)。
