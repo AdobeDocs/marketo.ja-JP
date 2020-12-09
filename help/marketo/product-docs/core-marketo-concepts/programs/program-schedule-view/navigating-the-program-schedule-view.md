@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: プログラムスケジュール表示のナビゲーション — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示の操作
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ ht-degree: 0%
 
 素晴らしい！ プログラムを表示する方法を知ったら、他の素晴らしい方法を学びましょう。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プログラムスケジュール表示でのエントリの作成](creating-an-entry-in-the-program-schedule-view.md)
 
