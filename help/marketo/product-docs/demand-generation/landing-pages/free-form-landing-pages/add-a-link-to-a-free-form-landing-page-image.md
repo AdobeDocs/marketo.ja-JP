@@ -3,9 +3,9 @@ unique-page-id: 2359736
 description: フリ追加ーフォームランディングページの画像 — Marketto Docs — 製品ドキュメントへのリンク
 title: フリ追加ーフォームのランディングページ画像へのリンク
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # フリ追加ーフォームのランディングページ画像へのリンク {#add-a-link-to-a-free-form-landing-page-image}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [フ追加リーフォームランディングページへの画像](add-an-image-to-a-free-form-landing-page.md)
 
