@@ -2,7 +2,7 @@
 title: understanding-batch-and-trigger-smart-キャンペーン
 description: バッチとトリガースマート・キャンペーンの理解
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-「 [!UICONTROL **スケジュール**] 」タブをクリックすると、スマートキャンペーンが「バッチ」に設定されていることが確認されます。
+「 **[!UICONTROL スケジュール]** 」タブをクリックすると、スマートキャンペーンが「バッチ」に設定されていることが確認されます。
 
 ![イメージ2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![イメージ3](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-「 [!UICONTROL **スケジュール**] 」タブをクリックすると、スマートキャンペーンが「トリガー」に設定されていることが確認されます。
+「 **[!UICONTROL スケジュール]** 」タブをクリックすると、スマートキャンペーンが「トリガー」に設定されていることが確認されます。
 
 ![画像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
