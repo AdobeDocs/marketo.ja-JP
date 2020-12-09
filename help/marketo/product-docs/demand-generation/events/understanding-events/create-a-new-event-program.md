@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 新しいイベントプログラムの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいイベントプログラムの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 おい！ 新しいイベントがツリーに表示されます。 イベントを作成したら、 [ランディングページ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、 [フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)[](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 、電子メールを作成し、ゲストを招待します。 また、 [プログラムスケジュール表示についても詳しく説明します](http://docs.marketo.com/display/docs/program+schedule+view)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マーケティングカレンダー](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [プログラムでの期間原価の使用](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
