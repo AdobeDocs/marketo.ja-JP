@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Professional Editionのお客様向けSalesforceカスタマイズのインストール — Marketto Docs — 製品ドキュメント
 title: Professional Editionのお客様向けSalesforceカスタマイズのインストール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Salesforce Professional Editionをご利用のお客様は、次の手順に従ってカスタマイズをインストールする必要があります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Sales Connect管理者は、SalesforceアカウントとSales Connectアカウントを接続する必要があります。
 >* 使用するSalesforceインスタンスには、13個のカスタムアクティビティフィールドをインストールする領域が必要です。
