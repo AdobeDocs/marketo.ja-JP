@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: キャンペーン同期の有効化/無効化 — Marketto Docs — 製品ドキュメント
 title: キャンペーン同期の有効化/無効化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 あっある。 Salesforceからデータを取り込むための同期をしばらくおこなうだけで、問題はありません。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [SFDC同期：キャンペーン同期](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [デフォルトのリードの姓と会社値の設定](set-default-person-last-name-and-company-name.md)
