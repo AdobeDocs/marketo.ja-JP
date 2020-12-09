@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Adobe Experience Managerでのアセットの読み込み — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Managerでのアセットの読み込み
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセッ�
 >
 >この機能を購入した顧客はいません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[AEM設定が既に実行済みであることを確認します](https://docs.marketo.com/x/FwPLAQ)。
 
