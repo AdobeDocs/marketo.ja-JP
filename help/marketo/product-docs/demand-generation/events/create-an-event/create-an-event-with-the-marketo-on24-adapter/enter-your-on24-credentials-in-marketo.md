@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Marketor - Marketto Docs — 製品ドキュメントにON24資格情報を入力します。
 title: MarketorにON24資格情報を入力します
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
 次の手順は、ON24でウェビナーイベントを [作成することです](create-your-webinar-event-in-on24.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
 
