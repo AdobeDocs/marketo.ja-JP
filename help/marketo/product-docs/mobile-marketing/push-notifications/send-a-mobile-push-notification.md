@@ -3,9 +3,9 @@ unique-page-id: 7512457
 description: モバイルプッシュ通知の送信 — Marketto Docs — 製品ドキュメント
 title: モバイルプッシュ通知の送信
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 モバイルアプリを使用するユーザーにプッシュ通知を送信します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [新しいスマートキャンペーンの作成](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [プッシュ通知の作成](create-a-push-notification.md)
