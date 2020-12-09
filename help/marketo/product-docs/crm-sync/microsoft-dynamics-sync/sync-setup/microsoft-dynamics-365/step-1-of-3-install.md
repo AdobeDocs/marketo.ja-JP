@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: 手順1/3 - Marketto Solution（オンライン）のインストール — Marketto Docs — 製品ドキュメント
 title: 手順1/3 - Marketto Solutionのインストール（オンライン）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 >
 >マーケティングをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[Marketto Lead Management Solutionのダウンロード](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
