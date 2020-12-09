@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: プレビューaプッシュ通知 — Marketto Docs — 製品ドキュメント
 title: プレビュープッシュ通知
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Notification Center画面の上部にあります。
 
 したがって、プッシュ通知プレビューを使用すると、顧客に表示される内容を常に把握できます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プッシュ通知の作成](create-a-push-notification.md)
 >* [モバイルプッシュ通知の設定](configure-mobile-push-notification.md)
