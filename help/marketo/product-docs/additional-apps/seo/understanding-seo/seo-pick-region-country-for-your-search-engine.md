@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO — 検索エンジンの地域/国を選択 — Marketto Docs — 製品ドキュメント
 title: SEO — 検索エンジンの地域/国を選択
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ SEO管理者は、キーワードランク情報を取得したい検索エン�
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ダッシュボードについて：SEOスナップショット](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [ダッシュボードについて：瀬尾Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
