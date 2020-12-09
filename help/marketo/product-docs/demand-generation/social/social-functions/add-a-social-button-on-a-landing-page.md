@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: ランディングページ追加のソーシャルボタン — Marketto Docs — 製品ドキュメント
 title: ランディングページ追加のソーシャルボタン
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 >
 >時間を節約するために、「 **コピー元** 」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >完了ですが、必要に応じてソーシャルボタンの設定を変更できます。 ボタンスタイルの [カスタマイズ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 、および表示される共有メッセージの [編集に関する開始](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
