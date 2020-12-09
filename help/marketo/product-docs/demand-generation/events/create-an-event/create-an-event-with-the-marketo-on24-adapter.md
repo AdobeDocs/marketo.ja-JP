@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Marketo ON24アダプタ — Marketto Docs — 製品ドキュメントを使用したイベントの作成
 title: Marketo ON24アダプタを使用したイベントの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo On24アダプタを使用してイベントを作成するには、次�
 1. [ウェビナープログラムのステータスについて](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24イベント登録の更新](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
