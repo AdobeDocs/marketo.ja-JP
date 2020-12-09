@@ -2,7 +2,7 @@
 title: モデルの正常性とデータの有効性
 description: モデルの正常性およびデータの有効性
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 モデルのパフォーマンスは、入力データの品質と完全性に依存します。 モデルの健康状態を評価する方法を次に示します。
 
-Marketo Classicの [!UICONTROL **管理**] 領域にある「 [!UICONTROL **予測オーディエンス**] 」の下の「モデルとデータの正常性 [!UICONTROL ****] 」セクションに移動します。 すべてのモデルとそのステータスが表示されます。
+Marketo Classicの **[!UICONTROL 管理]** 領域にある「 **[!UICONTROL 予測オーディエンス]** 」の下の「モデルとデータの正常性 **** 」セクションに移動します。 すべてのモデルとそのステータスが表示されます。
 
 ![イメージ1](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
