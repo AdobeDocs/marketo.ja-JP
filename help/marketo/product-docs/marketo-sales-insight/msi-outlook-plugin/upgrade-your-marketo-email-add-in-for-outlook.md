@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Outlook用Marketto電子メールイン追加のアップグレード — Marketto Docs — 製品ドキュメント
 title: Outlook用のMarketing To Email 追加 Inのアップグレード
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -154,9 +154,7 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketorテンプレートを使用したOutlookからの送信と追跡](send-and-track-from-outlook-using-a-marketo-template.md)
