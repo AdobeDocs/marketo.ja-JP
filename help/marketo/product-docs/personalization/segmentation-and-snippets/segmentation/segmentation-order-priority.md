@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: セグメントの順序の優先順位 — Marketto Docs — 製品ドキュメント
 title: セグメントの順序の優先順位
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 セグメント化で、 **順序が** 、訪問者の評価に対する優先順位をどのように設定するかを理解することが重要です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [セグメントの作成](create-a-segmentation.md)
 >* [セグメントルールの定義](define-segment-rules.md)
