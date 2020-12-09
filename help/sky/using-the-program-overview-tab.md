@@ -2,7 +2,7 @@
 title: using-the-プログラム-overview-tab
 description: 「プログラムの概要」タブの使用
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-「 [!UICONTROL プログラムの概要] 」タブには、次の3つのセクションがあります。 [!UICONTROL **詳細**]、 [!UICONTROL **スケジュール**]、 [!UICONTROL **レポート**]。 それぞれを簡単に見てみましょう
+「 [!UICONTROL プログラムの概要] 」タブには、次の3つのセクションがあります。 **[!UICONTROL 詳細]**、 **[!UICONTROL スケジュール]**、 **[!UICONTROL レポート]**。 それぞれを簡単に見てみましょう
 
 ## 詳細
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-ページの下部には、2つのセクションがあります。 [!UICONTROL **プログラム統計**] 、 [!UICONTROL **使用者**]。 [!UICONTROL **「プログラム統計**] 」は、プログラムのパフォーマンスに関する主要指標を示します。「 [!UICONTROL **使用者**] 」は、プログラムがマーケティングでどの場所に使用されているかを簡単に確認する手段です。
+ページの下部には、2つのセクションがあります。 **[!UICONTROL プログラム統計]** 、 **[!UICONTROL 使用者]**。 **[!UICONTROL 「プログラム統計]** 」は、プログラムのパフォーマンスに関する主要指標を示します。「 **[!UICONTROL 使用者]** 」は、プログラムがマーケティングでどの場所に使用されているかを簡単に確認する手段です。
 
 ![イメージ2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
