@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 電子メ追加ールのチャンピオン/対抗者 — Marketto Docs — 製品ドキュメント
 title: Eメール追加チャンピオン/対抗者
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 テスト中の既存の電子メールはチャンピオンと見なされます。 テスト内で作成したバリアントは、対抗と見なされます。 チャンピオンコンテンツまたは対抗コンテンツを受け取る人の割合を決定します。 複数の挑戦者を定義した場合、それらは対抗グループに均等に配分されます。\
 開始方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [プログラムの作成](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [電子メールの作成](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
