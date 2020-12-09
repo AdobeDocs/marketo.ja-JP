@@ -3,9 +3,9 @@ unique-page-id: 7512292
 description: LaunchPointサービスとしての追加レベル3のWeb会議 — Marketto Docs — 製品ドキュメント
 title: LaunchPointサービスとしての追加レベル3 Web会議
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Marketorは、レベル3のWeb会議の登録と出席を管理します。
 
    ![](assets/level-3-web-meeting.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >レベル3 Web会議を使用してイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)。
 
