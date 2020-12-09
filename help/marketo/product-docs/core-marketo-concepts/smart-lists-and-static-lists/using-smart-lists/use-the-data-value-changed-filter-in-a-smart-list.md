@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: スマートリスト- Marketto Docs — 製品ドキュメントで、データ値の変更フィルターを使用します。
 title: スマートリストでのデータ値の変更フィルターの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 値は常に変化し、Marketoデータベース内で更新されます。 特定の値を探す代わりに、値が変化した人を探したい場合があります。 これが方法です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
