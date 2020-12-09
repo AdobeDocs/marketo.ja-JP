@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Webキャンペーンの起動/一時停止 — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンの起動/一時停止
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ WebキャンペーンページまたはWebキャンペーンの設定ページ�
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [新しいダイアログWebキャンペーンの作成](create-a-new-dialog-web-campaign.md)
 >* [ゾーン内の新しいWebキャンペーンの作成](create-a-new-in-zone-web-campaign.md)
