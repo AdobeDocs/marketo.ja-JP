@@ -2,7 +2,7 @@
 title: define-a-smart-リスト-for-a-trigger-キャンペーン
 description: トリガーキャンペーンのスマートリストの定義
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 トリガーを追加して、実イベントに基づいて、一度に1人の人に対してスマートキャンペーンを実行できます。
 
-1. スマートキャンペーンを選択し、「 [!UICONTROL **スマートリスト**]」をクリックします。
+1. スマートキャンペーンを選択し、「 **[!UICONTROL スマートリスト]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >トリガーを持つスマートキャンペーンは、トリガーモードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
 
-1. ドロップダウンをクリックし、演算子( [!UICONTROL **is**]、 [!UICONTROL **is not**]、など)を選択します。 選択したトリガーに対して。
+1. ドロップダウンをクリックし、演算子( **[!UICONTROL is]**、 **[!UICONTROL is not]**、など)を選択します。 選択したトリガーに対して。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
