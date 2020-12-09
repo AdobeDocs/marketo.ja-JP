@@ -3,9 +3,9 @@ unique-page-id: 1147042
 description: フィールドにデータを追加 — Marketto Docs — 製品ドキュメント
 title: フィールドにデータを追加
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 フィールドにデータを簡単に追加する方法があります。 これが方法です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [キャンペーンの作成](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
