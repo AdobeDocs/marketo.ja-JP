@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: 電子メールプログラム用の電子メールの作成 — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラム用の電子メールの作成
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 電子メールプログラム用の電子メールの作成 {#create-an-email-for-an-email-program}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [スマートリストを使用したオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 、またはリストのインポートによるオーディエンスの [定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
