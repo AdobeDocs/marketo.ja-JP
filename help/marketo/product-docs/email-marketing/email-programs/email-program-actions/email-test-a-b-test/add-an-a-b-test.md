@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: A/追加Bテスト — Marketto Docs — 製品ドキュメント
 title: A追加/Bテスト
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # A追加/Bテスト {#add-an-a-b-test}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [スマートリストを使用したオーディエンスの定義](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 、またはリストのインポートによるオーディエンスの [定義](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
