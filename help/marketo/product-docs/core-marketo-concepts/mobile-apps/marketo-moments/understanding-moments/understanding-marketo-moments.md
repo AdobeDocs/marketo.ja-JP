@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Marketto Momentsについて — Marketto Docs — 製品ドキュメント
 title: マーケティングの場面について
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ Analyticsモーメントカードには、過去6か月間の電子メールお�
 
 詳しくは、
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールプログラムカードについて](understanding-email-program-cards.md)
 >* [イベントカードについて](understanding-event-cards.md)
