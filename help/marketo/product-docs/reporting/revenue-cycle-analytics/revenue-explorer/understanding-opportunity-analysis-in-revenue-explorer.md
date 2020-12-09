@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: 売上高エクスプローラでのオポチュニティの分析について — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラでの商談分析について
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ ht-degree: 0%
    | 商談金額（オープン） | オープンオポチュニティの合計金額。 2つ以上のリードが商談に関連付けられている場合、配分金額はリードスコアに基づきます。 |
    | 営業案件金額（ウォン） | 獲得したオポチュニティの合計金額。 2つ以上のリードが商談に関連付けられている場合、配分金額はリードスコアに基づきます。 |
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [売上高エクスプローラレポートの作成](create-a-revenue-explorer-report.md)
 >* [売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)
