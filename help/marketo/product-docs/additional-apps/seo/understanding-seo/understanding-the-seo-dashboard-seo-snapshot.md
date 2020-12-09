@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: SEOダッシュボードについて —SEOスナップショット — Marketto Docs — 製品ドキュメント
 title: SEOダッシュボードについて — SEOスナップショット
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ SEOの改善に焦点を当てるべき点を知るには、このダッシュ�
 
 簡単だろ？ では、このダッシュボードのRecommendationsのセクションを見てみましょう。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ダッシュボードについて：瀬尾Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
