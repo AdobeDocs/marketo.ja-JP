@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 非表示フォームフィールド値の設定 — Marketto Docs — 製品ドキュメント
 title: 非表示フォームフィールド値の設定
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 非表示のフィールドは通常、動的に入力されます。 フォームの入力者には表示されません。 値の設定方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[フォームフィールドを非表示に設定](set-a-form-field-as-hidden.md)
 
