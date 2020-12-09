@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: フリ追加ーフォームランディングページ内の画像へのリンク — Marketto Docs — 製品ドキュメント
 title: フリ追加ーフォームランディングページ内の画像へのリンク
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ランディングページ上の画像を別のページ/サイトへのリンクにしたい場合 これが方法です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [フ追加リーフォームランディングページへの画像](add-an-image-to-a-free-form-landing-page.md)
 
