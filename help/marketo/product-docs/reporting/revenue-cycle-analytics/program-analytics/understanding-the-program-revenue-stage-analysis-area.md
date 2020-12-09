@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: プログラム売上高ステージ分析領域について — Marketto Docs — 製品ドキュメント
 title: プログラム売上高ステージ分析領域について
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[売上高エクスプローラレポートの作成](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
