@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: 承認されたモデルの編集 — Marketto Docs — 製品ドキュメント
 title: 承認済みモデルの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 一度に1つの承認済みモデルしか持つことができません。 モデルを承認したいが、既に1つの承認済みの場合は、最初に現在のモデルの承認を取り消す必要があります。 可能であれば、新しいモデルを作成する代わりに、モデルを編集してみてください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[新しい売上高モデルの作成](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
