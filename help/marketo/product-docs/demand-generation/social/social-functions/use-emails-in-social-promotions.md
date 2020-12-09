@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: ソーシャルプロモーションでの電子メールの使用 — Marketto Docs — 製品ドキュメント
 title: Social Promotionでの電子メールの使用
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
 * **購読提供数の電子メール**:各推奨結果 **`{{social.Promo Code}}`** にプロ [モーションコードを送信する場合に使用します](use-promo-codes-for-offer-fulfillment.md)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Socialアプリに電子メールを追加する前に、電子メールが *操作可能で* 、 *承認されている必要があります*。 「電子メールの設定の [編集](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」を参照してください。
 
