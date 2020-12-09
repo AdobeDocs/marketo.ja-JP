@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedInのリードジェネレーションFormsの設定 — Marketto Docs — 製品ドキュメント
 title: LinkedInリードジェネレーションFormsの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ LinkedInのリードジェネレーションFormsを使用して、LinkedInで�
 >
 >承認できるLinkedInユーザーアカウントは1つだけです。 Marketorにリンクする複数のビジネスアカウントがある場合、認証対象のユーザーのLinkedInアカウントに、LinkedInのビジネスアカウントに対するリードジェネレーションフォームマネージャの権限があることを確認してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートキャンペーンでのLinkedInリードジェネレーションフォームのフィルターとトリガーの使用](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
