@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip、Drip、Nurture - Marketto Docs — 製品ドキュメント
 title: ドリップ、ドリップ、ナーチャー
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Marketoでは、高度で高度なナチュレーションシステムを簡単�
 >
 >Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [設定と追加人](get-set-up-and-add-a-person.md)
 >* [人物のリストのインポート](import-a-list-of-people.md)
@@ -158,7 +156,7 @@ Marketoでは、高度で高度なナチュレーションシステムを簡単�
 
    >[!NOTE]
    >
-   >テスト時に電子メールの受信を確認できるように、テスト担当者に有効な電子メールアドレスが割り当てられていることを確認します。
+   >テスト時に電子メールの受信を確認できるように、テスト担当者に有効な電子メールアドレスがあることを確認します。
 
 1. ユーザーを右クリックし、「プログラム」をクリックして、「アクション追加プログラム」をクリックします。
 
