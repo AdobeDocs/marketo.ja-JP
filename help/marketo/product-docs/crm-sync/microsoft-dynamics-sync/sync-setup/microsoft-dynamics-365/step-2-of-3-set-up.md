@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 手順2 / 3 - Dynamics - Marketto Docs — 製品ドキュメントでのユーザー同期の設定
 title: 手順2/3 - DynamicsでのMarketo Syncユーザーの設定
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 まず、ユーザーアカウントを作成します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[手順1/3:Marketor Solutionのインストール（オンライン）](step-1-of-3-install.md)
 
