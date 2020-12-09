@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: アラートの送信 — Marketto Docs — 製品ドキュメント
 title: アラートの送信
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Marketorは、販売所有者、パートナー、その他の人に、個人情
 
 それだ！ これで、「 **アラートの送信** 」フロー手順の使用方法がわかりました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[電子メールの作成](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
