@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: プログラムの効果とプログラムアナライザーとの比較 — Marketto Docs — 製品ドキュメント
 title: プログラムの効果とプログラムアナライザとの比較
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 プログラムアナライザを使用して、プログラムコスト、会員獲得、パイプライン、売上高を比較し、最も効果的でないプログラムを特定します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [プログラム分析計の作成](create-a-program-analyzer.md)
 
