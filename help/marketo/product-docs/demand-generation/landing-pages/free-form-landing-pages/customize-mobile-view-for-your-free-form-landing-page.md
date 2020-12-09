@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: フリーフォームランディングページ用のモバイル表示のカスタマイズ — Marketto Docs — 製品ドキュメント
 title: フリーフォームランディングページ用のモバイル表示のカスタマイズ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # フリーフォームランディングページ用のモバイル表示のカスタマイズ {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [フ追加リーフォームランディングページ用のモバイル表示](add-a-mobile-view-for-your-free-form-landing-page.md)
 
