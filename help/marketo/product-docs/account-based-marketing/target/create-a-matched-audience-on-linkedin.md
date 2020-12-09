@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: LinkedIn - Marketto Docs — 製品ドキュメントで一致するオーディエンスを作成する
 title: LinkedInでの一致したオーディエンスの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 LinkedIn広告ターゲット設定用のABMアカウントリストから一致するオーディエンスを作成します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](http://docs.marketo.com/x/I4Fy)
 
