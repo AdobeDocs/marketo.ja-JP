@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: A/Bテストの勝者条件の定義 — Marketto Docs — 製品ドキュメント
 title: A/Bテストの推奨結果条件の定義
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 電子メールプログラムにA/Bテスト [を](add-an-a-b-test.md) 追加する場合 [、テストタイプを選択し、A/Bテストを](schedule-the-a-b-test.md)スケジュールして、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [A追加/Bテスト](add-an-a-b-test.md)
 
