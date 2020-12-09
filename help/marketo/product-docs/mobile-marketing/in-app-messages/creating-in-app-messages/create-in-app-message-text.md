@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: アプリ内メッセージテキストの作成 — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージテキストの作成
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ ht-degree: 0%
 
 君は金色だ。 次に、アプリ内メッセージボタンを [設定する必要があります](set-up-the-in-app-message-button.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
