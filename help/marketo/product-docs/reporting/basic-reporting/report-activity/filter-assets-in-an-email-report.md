@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: 電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
 title: 電子メールレポートでのアセットのフィルタリング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [キャンペーンの電子メールレポートでのアセットのフィルタリング](filter-assets-in-a-campaign-email-reports.md)
 
