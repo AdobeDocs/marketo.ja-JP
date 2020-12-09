@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: MS Dynamicsインスタンス — Marketto Docs — 製品ドキュメントからMSIをアンインストールします
 title: MS DynamicsインスタンスからMSIをアンインストールする
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 MS DynamicsインスタンスからMSIをアンインストールするには、MarketorとMS Dynamicsの両方で手順を実行する必要があります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[グローバルMS Dynamics同期を無効にする](http://docs.marketo.com/x/TAA6Ag)
 
