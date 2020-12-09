@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: デフォルトのブランディングドメインのWorkspacesでの編集 — Marketto Docs — 製品ドキュメント
 title: デフォルトのブランドドメインのWorkspacesでの編集
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 これで、ワークスペースに必要なブランドドメインを [追加でき](add-an-additional-branding-domain-with-workspaces.md) 、
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Workspaces追加を使用した追加のブランドドメイン](add-an-additional-branding-domain-with-workspaces.md)
 
