@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: プログラムレポートの追加プログラムステータス列 — Marketto Docs — 製品ドキュメント
 title: プログラム追加ステータス列とプログラムレポート
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 >
 >プログラム内の各ステータスに対して列が表示されない場合は、レポートに表示する列を [選択していることを確認します](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [タグによるプログラムレポートのフィルタリング](filter-a-program-report-by-tag.md)
 
