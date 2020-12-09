@@ -3,9 +3,9 @@ unique-page-id: 2359512
 description: スマートリスト- Marketto Docs — 製品ドキュメントでのセグメントフィルターの使用
 title: スマートリストでのセグメントフィルターの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # スマートリストでのセグメントフィルターの使用 {#use-segment-filters-in-a-smart-list}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [セグメントの作成](create-a-segmentation.md)
