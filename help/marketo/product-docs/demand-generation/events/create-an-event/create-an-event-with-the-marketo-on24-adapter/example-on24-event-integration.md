@@ -3,9 +3,9 @@ unique-page-id: 10096679
 description: 例ON24イベント統合 — Marketto Docs — 製品ドキュメント
 title: ON24イベント統合の例
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ ht-degree: 0%
 
 ![](assets/ten.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
 
