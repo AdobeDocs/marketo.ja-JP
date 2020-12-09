@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 追加Marketoカスタムオブジェクトフィールド — Marketto Docs — 製品ドキュメント
 title: 追加マーケティング先カスタムオブジェクトフィールド
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
    >
    >1対多の構造を作成する場合は、カスタムオブジェクトにリンクフィールドを追加する必要があります。 多対多の構造の場合、カスタムオブジェクトにリンクフィールドは必要ありませんが、中間オブジェクトに2つのリンクフィールドを追加する必要があります。 リンクフィールドを作成するには [追加、「](add-marketo-custom-object-link-fields.md) Markettoカスタムオブジェクトリンクフィールド [」を参照してください。カスタムオブジェクトのタイプの詳細については、「マーケティング対象カスタムオブジェクト](understanding-marketo-custom-objects.md) 」を参照してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [追加マーケティング先カスタムオブジェクトリンクフィールド](add-marketo-custom-object-link-fields.md)
 >* [マーケティングカスタムオブジェクトの編集と削除](edit-and-delete-a-marketo-custom-object.md)
