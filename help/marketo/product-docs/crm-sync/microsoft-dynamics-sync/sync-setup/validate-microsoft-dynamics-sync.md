@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Microsoft Dynamics Syncの検証 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics同期の検証
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
    >
    >現在、Marketo Dynamics Syncのサンドボックス更新をサポートしていません。 Dynamics CRMサンドボックスを更新する必要がある場合は、新しいMarketo Sandboxが必要になります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[Dynamics検証の同期の問題を修正](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
