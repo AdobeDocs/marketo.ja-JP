@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: 電子メールプログラムダッシュボードの表示- Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムダッシュボードの表示
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 >
 >グラフウィジェットの上にカーソルを移動してテストします。 追加情報が表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールプログラムダッシュボードの使用 — A/Bテスト表示](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [電子メールプログラムダッシュボードの使用](use-the-email-program-dashboard.md)
