@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントへのフィルター定義の保存
 title: マーケティングカレンダーでのフィルター定義の保存
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 フィルターを保存すると、様々なフィルター定義を切り替えることができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [マーケティングカレンダーのフィルタリング](filtering-the-marketing-calendar.md)
 
