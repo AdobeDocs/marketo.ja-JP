@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: 子キャンペーンとローカルアセットの作成 — Marketto Docs — 製品ドキュメント
 title: 子キャンペーンとローカルアセットの作成
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Marketing Toを使用して、イベントに確認電子メールを送信し�
 
 次のステップは、ON24イベント統合の [テスト](test-your-on24-event-integration.md)です。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
 >* [ON24イベント統合の例](example-on24-event-integration.md)
