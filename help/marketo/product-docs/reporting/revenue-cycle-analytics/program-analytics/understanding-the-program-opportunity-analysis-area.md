@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: プログラムオポチュニティ分析領域について — Marketto Docs — 製品ドキュメント
 title: プログラム商談分析領域について
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ ht-degree: 0%
 
 **あるプログラムに対して、あらゆる種類のアトリビューションクレジットを与えたすべてのオポチュニティ。 オポチュニティは、1つ以上のリードと1つ以上のプログラムに影響を受けることができます。*
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[売上高エクスプローラレポートの作成](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
