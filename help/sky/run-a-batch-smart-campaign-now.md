@@ -2,7 +2,7 @@
 title: run-a-batch-smart-キャンペーン-now
 description: バッチスマートキャンペーンを今すぐ実行
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. 「 [!UICONTROL **スケジュール**] 」タブに移動し、「実行 [!UICONTROL **」をクリックし**]&#x200B;追加ます。
+1. 「 **[!UICONTROL スケジュール]** 」タブに移動し、「実行 **[!UICONTROL 」をクリックし]**&#x200B;追加ます。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. 「 [!UICONTROL **今すぐ**] 実行 [!UICONTROL **」が選択されていることを確認し、「**]&#x200B;確認」をクリックします。
+1. 「 **[!UICONTROL 今すぐ]** 実行 **[!UICONTROL 」が選択されていることを確認し、「]**&#x200B;確認」をクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
