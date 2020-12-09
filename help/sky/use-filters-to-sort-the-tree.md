@@ -2,7 +2,7 @@
 title: use-フィルター-to-sort-the-tree
 description: フィルターを使用したツリーの並べ替え
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 この機能を使用すると、特定の日付範囲内に作成または変更されたアセットを検索できます。例：先週、過去3か月間など
 
-デフォルトでは、過去6か月間のすべてのコンテンツが読み込まれます。 これを変更するには、[日付範囲の [!UICONTROL **選択**] ]ドロップダウンから範囲を選択します。 これらの設定は固定されており、次回Marketorにログインしたときにも適用されます。
+デフォルトでは、過去6か月間のすべてのコンテンツが読み込まれます。 これを変更するには、[日付範囲の **[!UICONTROL 選択]** ]ドロップダウンから範囲を選択します。 これらの設定は固定されており、次回Marketorにログインしたときにも適用されます。
 
 ![イメージ2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
