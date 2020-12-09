@@ -2,7 +2,7 @@
 title: override-person-restrictions-in-a-smart-キャンペーン
 description: スマートキャンペーンの個人制限の上書き
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Marketorでは、スマートキャンペーンに振り分けられる最大人
 >
 >必ず、Markettor [Adminでスマートキャンペーンに対する個人制限を](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) 有効にしてください 。
 
-1. スマートキャンペーンを探し、「 [!UICONTROL **スケジュール**]」をクリックします。
+1. スマートキャンペーンを探し、「 **[!UICONTROL スケジュール]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. 「 [!UICONTROL **資格ルール**]」をクリックします。
+1. 「 **[!UICONTROL 資格ルール]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketorでは、スマートキャンペーンに振り分けられる最大人
    >
    >デフォルトの制限は、管理で設定された制限です。
 
-1. 条件を満たしたリードが超過した場合に [!UICONTROL **「Abort」キャンペーンの横に**]、新しい制限を入力します。
+1. 条件を満たしたリードが超過した場合に **[!UICONTROL 「Abort」キャンペーンの横に]**、新しい制限を入力します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
