@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: プレゼンテーション追加の背景画像 — Marketo Docs — 製品ドキュメント
 title: プレゼ追加ンテーションの背景画像
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 背景画像を選択して、プレゼンテーションをカスタマイズします。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [プレゼンテーションの作成](create-a-presentation.md)
 
