@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 電子メール内のハード&ソフトバウンス — Marketto Docs — 製品ドキュメント
 title: 電子メール内のハードバウンスとソフトバウンス
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Marketoには、問題のある電子メール配信に関連する5人の人物
 >
 >電子メールが無効とマークされた場合 ****、レコードの「個人情報」タブにある「電子メールが無効です」ボックスのチェックを外すと、手動でのみリセットできます（電子メールが有効であることがわかっている場合にのみリセットすることをお勧めします）。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >電子メールのパフォーマンスレポート [を作成し](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 、バウンスデータを生成するには、次の手順に従います。
 
