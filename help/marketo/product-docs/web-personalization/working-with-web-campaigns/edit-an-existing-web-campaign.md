@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: 既存のWebキャンペーンーの編集 — Marketto Docs — 製品ドキュメント
 title: 既存のWebキャンペーンの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >目的のWebキャンペーンを見つけやすくするには、 [フィルター機能を使用します](filter-web-campaigns.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Webキャンペーンの削除](delete-a-web-campaign.md)
 >* [](launch-pause-a-web-campaign.md) キャンペーンの起動/一時停止 [](launch-pause-a-web-campaign.md)
