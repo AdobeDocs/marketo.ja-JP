@@ -3,9 +3,9 @@ unique-page-id: 2359705
 description: フリ追加ーフォームランディングページに対する新しいフォーム — Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページへの新しいフォーム
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 フォーム、ランディングページを満たす。 ランディングページ、形式を満たす。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [フォームの作成](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [フリーフォームランディングページの作成](create-a-free-form-landing-page.md)
