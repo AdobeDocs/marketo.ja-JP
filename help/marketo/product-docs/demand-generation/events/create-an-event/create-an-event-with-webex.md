@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: WebEx - Marketto Docs — 製品ドキュメントを使用したイベントの作成
 title: WebExでのイベントの作成
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # WebExでのイベントの作成 {#create-an-event-with-webex}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [LaunchPoint追加サービスとしてのWebEx](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
