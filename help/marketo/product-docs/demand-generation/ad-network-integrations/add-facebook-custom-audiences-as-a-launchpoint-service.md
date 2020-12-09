@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: LaunchPointサービスとしての追加Facebookカスタムオーディエンス- Marketto Docs — 製品ドキュメント
 title: LaunchPointサービスとしての追加Facebookカスタムオーディエンス
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
    >
    >ああ、行く前に、Facebookアカウント内で必ずFacebookのカスタムオーディエンス条件に [同意してください](https://www.facebook.com/ads/manage/customaudiences/tos.php) 。 これを行わないと、オーディエンスの更新は失敗します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Facebookでのカスタムオーディエンスの作成](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
