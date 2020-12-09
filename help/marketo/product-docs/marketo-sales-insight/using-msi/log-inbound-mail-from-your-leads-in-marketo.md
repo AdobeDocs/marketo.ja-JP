@@ -3,9 +3,9 @@ unique-page-id: 2949285
 description: Marketor - Marketto Docs — 製品ドキュメントで、リードから受信メールをログに記録します。
 title: Marketorのリードからの受信メールのログ
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Outlookで、リードからの返信をMarketto Email 追加 Inでログに記�
 
 リードの返信をログに記録して、Marketoの履歴に追加します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketorテンプレートを使用したOutlookからの送信と追跡](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
