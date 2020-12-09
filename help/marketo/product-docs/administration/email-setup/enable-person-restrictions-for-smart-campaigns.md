@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: スマートキャンペーン- Marketto Docs — 製品ドキュメントに対する個人制限の有効化
 title: スマートキャンペーンに対する個人制限の有効化
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Marketoには、スマートキャンペーンに振り分けることのでき�
 
 ビンゴ！ セーフティスイッチを入れただけ。 良い考えだろ？
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートキャンペーンの個人制限の上書き](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
