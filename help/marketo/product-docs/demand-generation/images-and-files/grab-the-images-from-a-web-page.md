@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Webページから画像を取得する — Marketto Docs — 製品ドキュメント
 title: Webページから画像を取得する
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Webページから画像を追加するには、目的の画像が含まれて�
 
 いい仕事だイメージマスター！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マー追加ケティング担当者向けの画像とファイル](add-images-and-files-to-marketo.md)
 >* [フォルダを使用した画像とファイルの整理](organize-your-images-and-files-using-folders.md)
