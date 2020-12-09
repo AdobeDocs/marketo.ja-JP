@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: フォルダー — Marketto Docs — 製品ドキュメントを使用して画像とファイルを整理する
 title: フォルダを使用した画像とファイルの整理
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 ハイフィーブ！ フォルダーutopiaに設定されました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アップロードされた画像とファイルの検索](search-uploaded-images-and-files.md)
 
