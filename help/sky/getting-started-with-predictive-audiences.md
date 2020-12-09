@@ -2,7 +2,7 @@
 title: はじめに — 予測オーディエンス
 description: 予測オーディエンスの使用の手引き
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -29,8 +29,8 @@ AI/MLモデルのパフォーマンスは、購読ー内のデータに依存し
 
 PrimeまたはUltimateの価格バンドルを使用するインスタンスに対して、予測オーディエンスが自動的に含まれ、アクティブ化されます。 この機能へのアクセス方法の詳細については、カスタマーサクセスマネージャーにお問い合わせください。
 
-1. インスタンスに機能を追加したら、の [!UICONTROL **管理者**] 領域の [!UICONTROL **予測オーディエンス**] ページに移動し [!DNL Marketo Classic]ます。
+1. インスタンスに機能を追加したら、の **[!UICONTROL 管理者]** 領域の **[!UICONTROL 予測オーディエンス]** ページに移動し [!DNL Marketo Classic]ます。
 
-1. 「予測オーディエンスを&#x200B;[!UICONTROL **有効にする**] 」をオンにして、この機能をアクティブにします。 すべてのプロセスがセットアップを完了するまで、最大24時間かかる場合があります。
+1. 「予測オーディエンスを&#x200B;**[!UICONTROL 有効にする]** 」をオンにして、この機能をアクティブにします。 すべてのプロセスがセットアップを完了するまで、最大24時間かかる場合があります。
 
    ![イメージ1](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
