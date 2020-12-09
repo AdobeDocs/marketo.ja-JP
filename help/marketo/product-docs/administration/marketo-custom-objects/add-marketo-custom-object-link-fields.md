@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 追加Marketoカスタムオブジェクトリンクフィールド — Marketto Docs — 製品ドキュメント
 title: 追加マーケティング先カスタムオブジェクトリンクフィールド
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 次に、多対多の構造体で使用するリンクフィールドを中間オブジェクトに作成する方法を示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >仲介オブジェクトと、その中間オブジェクトをリンクするカスタムオブジェクトを既に作成しておく必要があります。
 
