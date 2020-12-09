@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: LinkedInリストセグメント — Marketto Docs -リストドキュメントとしてのMarketoオーディエンスまたはスマート製品の使用
 title: LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 マーケティング担当者をLinkedInオーディエンスと統合します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
