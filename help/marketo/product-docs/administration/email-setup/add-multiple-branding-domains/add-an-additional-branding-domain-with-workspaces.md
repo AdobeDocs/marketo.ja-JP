@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Workspaces - Marketto Docs — 製品ドキュメントを含む追加追加のブランディングドメイン
 title: Workspaces追加を使用した追加のブランドドメイン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ワークスペースがある場合は、ブランディングドメインを追加できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >最初に、デフォルトのブランドドメインを [編集する必要があります](edit-your-default-branding-domain.md) 。
 >
