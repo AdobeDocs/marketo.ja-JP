@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: スマートリストを使用したオーディエンスの定義 — Marketto Docs — 製品ドキュメント
 title: スマートリストを使用したオーディエンスの定義
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 電子メールプログラム [を作成したら](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)、電子メールの送信先を指定します。 これを行うには、リストのユーザーを [読み込むか](define-an-audience-by-importing-a-list.md) 、スマートリストを使用します。 賢いリストでこれを達成する方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
