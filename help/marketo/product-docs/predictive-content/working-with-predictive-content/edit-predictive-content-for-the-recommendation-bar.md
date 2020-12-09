@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: レコメンデーションバーの予測コンテンツの編集 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: レコメンデーションバーの予測コンテンツの編集
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 次に、レコメンデーションバーの予測コンテンツを設定する方法を示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >予測に使用できるコンテンツは、すべてのコンテンツページで [承認する必要があります](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 。
 
