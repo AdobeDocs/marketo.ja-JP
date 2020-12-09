@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Sales Connectの概要 — Marketto Docs — 製品ドキュメント
 title: Sales Connectの概要
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
 
 開始する準備はできていますか？ 設定手順については、下のリンクをクリックしてください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Sales Connectの使い始めに](http://docs.marketo.com/x/coTS)
 
