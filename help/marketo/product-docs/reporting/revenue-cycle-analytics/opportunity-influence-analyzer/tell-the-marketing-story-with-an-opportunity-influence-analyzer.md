@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメントを使用してマーケティングの話を伝える
 title: Opportunity Influence Analyzerでマーケティング事例を伝える
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Opportunity Influence Analyzerを使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 ファーストタッチからオポチュニティの作成や勝利、その他に、マーケティングがオポチュニティにどのような影響を与えたかを示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [オポチュニティ影響分析計の作成](create-an-opportunity-influence-analyzer.md)
 
