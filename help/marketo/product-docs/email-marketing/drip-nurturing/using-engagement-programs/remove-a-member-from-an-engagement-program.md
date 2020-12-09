@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: エンゲージメントプログラムからのメンバーの削除 — Marketto Docs — 製品ドキュメント
 title: エンゲージメントプログラムからのメンバーの削除
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 アクションプログラムでユーザーを一時停止し、削除しないようにしたい場合があります。 これは、 **Change EngagementプログラムCadenceを使用して行います**。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アクションプログラムでのユーザーの一時停止](pause-people-in-an-engagement-program.md)
 
