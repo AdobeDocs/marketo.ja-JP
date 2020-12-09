@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: SEOダッシュボードについて —SEORecommendations- Marketto Docs — 製品ドキュメント
 title: SEOダッシュボードについて — SEORecommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Recommendationsの使い方も見つかります。 飛び込もう！
 
 すぐに！ もっと深く掘り下げなさい。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ページの詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
