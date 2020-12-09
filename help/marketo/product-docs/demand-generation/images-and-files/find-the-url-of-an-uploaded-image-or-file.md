@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: アップロードした画像またはファイルのURL - Marketto Docs — 製品ドキュメント
 title: アップロードされた画像またはファイルのURLの検索
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 仕事がうまくいくのを見届けるのを黙って見ろ
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アップロードした画像またはファイルの置換](replace-an-uploaded-image-or-file.md)
 
