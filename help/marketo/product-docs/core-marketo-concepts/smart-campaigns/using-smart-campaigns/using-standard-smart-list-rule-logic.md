@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: 標準的なスマートリストルールロジックの使用 — Marketto Docs — 製品ドキュメント
 title: 標準スマート・リスト・ルール・ロジックの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 上記のスマートリスト（単語）:`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` したがって、ユーザーがフォームに入力した **** かページを訪問した場合、キャンペーンは、使用した設定に応じて、後続のフィルターの**all **or **any **に基づいてそのユーザーを評価します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [高度なスマートリスト・ルール・ロジックの使用](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
