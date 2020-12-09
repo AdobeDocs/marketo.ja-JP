@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: コンテンツレコメンデーションバー — マーケティングドキュメント — 製品ドキュメントを有効にする
 title: コンテンツレコメンデーションバーの有効化
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 コンテンツの推奨エンジンでは、予測分析と機械学習アルゴリズムを使用して、関連するコンテンツを各Web訪問者に配信します。 レコメンデーションエンジンは、訪問者ごとにどのコンテンツが最も高いパフォーマンスを発揮するかを予測します。 エンジンのコンテンツはRecommendationsのページで監視および制御され、コンテンツのROIの最適化に役立ちます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
