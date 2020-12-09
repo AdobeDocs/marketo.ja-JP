@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 興味深い瞬間の使用 — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間の使用
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 興味深い瞬間は、Marketo Sales Insightアプリを通してセールスチームと連絡を取る上で重要です。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >これらは、Marketo Sales Insightおよび [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) のお客様のみが利用できます。
 
@@ -31,7 +29,7 @@ ht-degree: 0%
 
 ## 興味深い瞬間を作り出すにはどうすればよいでしょうか？  {#how-do-i-create-an-interesting-moment}
 
-1. [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [martキャンペーンを選択します](http://docs.marketo.com/display/docs/smart+campaigns)。できれば、トリガーされた場合に、セールスチームが興味を持つと思われるマートを選択します。
+1. ス [マートなキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)（できれば、セールスチームがトリガーされた場合に興味を引く可能性のあるもの）を選択します。
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ Marketo Sales Insight App [をインストールすると](../../../../../../pro
 Marketo Sales Insight for Salesforce1をインストールまたは更新すると、リードの関連リンクの下に興味深い瞬間が表示されます。
 
 ![](assets/seven.png)
-
