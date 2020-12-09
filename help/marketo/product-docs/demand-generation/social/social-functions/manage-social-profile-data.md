@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: ソーシャルプロファイルデータの管理 — Marketto Docs — 製品ドキュメント
 title: ソーシャルプロファイルデータの管理
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 >
 >ソーシャルフォームの入力では、ユーザーがフォームに電子メールアドレスを入力した *場合にのみ* 、電子メールアドレスを取り込みます。 電子メールアドレスが必要な場合は、フォームの必須フィールド [にする必要があります](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >フォームからこの情報を取り込むには、 [ソーシャルフォームの入力を有効にし](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)ます。
 
