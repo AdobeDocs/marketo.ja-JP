@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI機能の概要 — Marketto Docs — 製品ドキュメント
 title: MSI機能の概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
 * MSI設定：「Marketo」タブとMSI visualforceパネルの設定が含まれます
 * Markettor Sales Insightのリセット：すべての構成を消去する機能を含む
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[SalesforceのMarketto Sales Insightの「Configuration」タブ](http://docs.marketo.com/x/UoCMAg)
 
