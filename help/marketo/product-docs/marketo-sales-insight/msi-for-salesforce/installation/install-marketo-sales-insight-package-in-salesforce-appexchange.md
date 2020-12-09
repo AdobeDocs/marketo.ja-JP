@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: SalesforceAppExchange- Marketto Docs — 製品ドキュメントにMarketo Sales Insightパッケージをインストールします。
 title: SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
 素晴らしい仕事！ これで、Marketto Sales Insightがインストールされ、導入されました。 営業チームに合わせて設定を行い、販売の急増を見てください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[Salesforce Professional EditionでのMarketor Sales Insightの設定](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
