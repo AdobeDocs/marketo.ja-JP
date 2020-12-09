@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: ウェブページアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: ウェブページアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 既知の人または匿名の人を同じレポートに表示するように選択できますが、両方の種類を同じレポートに表示することはできません。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Munchkin追加追跡コードをWebサイトに送信](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
