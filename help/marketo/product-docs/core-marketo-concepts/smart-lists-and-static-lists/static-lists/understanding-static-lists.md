@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 静的リストについて — Marketto Docs — 製品ドキュメント
 title: 静的リストについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -52,9 +52,7 @@ ht-degree: 0%
 
 リストの力を楽しめ！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[静的リストの作成](https://docs.marketo.com/x/ecKt)
 
