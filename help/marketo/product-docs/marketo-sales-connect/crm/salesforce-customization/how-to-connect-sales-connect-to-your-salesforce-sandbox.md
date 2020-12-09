@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Sales ConnectをSalesforce Sandboxに接続する方法 — Marketto Docs — 製品ドキュメント
 title: Sales ConnectをSalesforce Sandboxに接続する方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Sales ConnectをSalesforce Sandboxに接続する方法 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >サンドボックスへの接続を確立中は、Sales ConnectアカウントをSalesforceにまだ接続できません。 接続が解除されている場合は、この記事の手順に従う前に [](http://docs.marketo.com/x/FoDq) 、接続を解除してください。
 
