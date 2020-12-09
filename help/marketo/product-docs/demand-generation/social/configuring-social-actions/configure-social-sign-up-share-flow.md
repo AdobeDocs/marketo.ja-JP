@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: ソーシャルサインアップ/共有フローの設定 — Marketto Docs — 製品ドキュメント
 title: ソーシャルサインアップ/共有フローの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Socialアプリを作成する場合は、 [ソーシャルネットワークの
 >
 >画像をアップロードすると、Socialアプリのエディターを閉じてから再度開くまで、画像はここに表示されません。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >次に、 **完了/承認して閉じるをクリックし** 、ソーシャルアプリをランディングページに配置します。 また、 [人物キャプチャ](configure-person-capture-for-a-social-app.md) や [再共有プロンプトを設定することもできます](configure-re-share-email-and-prompt-for-a-social-app.md)。
 
