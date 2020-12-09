@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新しいアカウント検出 — Marketto Docs — 製品ドキュメント
 title: 新しいアカウントの検出
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 新しいアカウント発見は、理想的なお客様のプロファイルからAIを利用したレコメンデーションを使用して、ターゲットに対する新しいアカウントを見つけるのに役立ちます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[アカウントプロファイルの設定](http://docs.marketo.com/x/FgAKAQ)
 
