@@ -3,9 +3,9 @@ unique-page-id: 7514149
 description: アトリビューションの例3 - Marketto Docs — 製品ドキュメント
 title: アトリビューションの例3
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 すべての例を試してみると、アトリビューションプロになります。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アトリビューションの例1](attribution-example-1.md)
 >* [アトリビューションの例2](attribution-example-2.md)
