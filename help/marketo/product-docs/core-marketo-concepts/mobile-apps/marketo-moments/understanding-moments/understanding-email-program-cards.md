@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 電子メールプログラムカードについて — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムカードについて
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ ht-degree: 0%
 
 Eメールキャンペーンを見る上でのスクープです プロだ！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マーケティングの場面について](understanding-marketo-moments.md)
 >* [イベントカードについて](understanding-event-cards.md)
