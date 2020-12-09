@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: スマートキャンペーン- Marketto Docs — 製品ドキュメントでのフローステップの並べ替え
 title: スマートキャンペーンでのフローステップの並べ替え
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 フローステップは、上から下に順に実行されます。 必要に応じてフローステップを並べ替える方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマ追加ートキャンペーンへのフローステップ](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
