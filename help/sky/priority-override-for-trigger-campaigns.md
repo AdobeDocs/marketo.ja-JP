@@ -2,7 +2,7 @@
 title: priority-override-for-trigger-キャンペーン
 description: トリガーキャンペーンの優先度の上書き
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 優先順位を上書き
 
-1. トリガーキャンペーンで、「 [!UICONTROL **スケジュール**] 」タブをクリックし、「優先度の [!UICONTROL **上書き**]」をクリックします。
+1. トリガーキャンペーンで、「 **[!UICONTROL スケジュール]** 」タブをクリックし、「優先度の **[!UICONTROL 上書き]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. ドロップダウンから新しい優先度レベルを選択します。 「 [!UICONTROL **確認**]」をクリックします。
+1. ドロップダウンから新しい優先度レベルを選択します。 「 **[!UICONTROL 確認]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## 優先度をリセット
 
-1. キャンペーンの優先度をシステムのデフォルトに戻すには、トリガーキャンペーンの [!UICONTROL **「スケジュール**] 」タブに移動し、「 [!UICONTROL **優先度をリセット**]」をクリックします。
+1. キャンペーンの優先度をシステムのデフォルトに戻すには、トリガーキャンペーンの **[!UICONTROL 「スケジュール]** 」タブに移動し、「 **[!UICONTROL 優先度をリセット]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. 「 [!UICONTROL **リセット**] 」をクリックして確認します。
+1. 「 **[!UICONTROL リセット]** 」をクリックして確認します。
 
    ![画像5](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ ht-degree: 0%
 >
 >管理者または管理責任を持つユーザーのみが、キャンペーンの優先順位の上書きアクセス権を持つ必要があります。
 
-1. 「 [!UICONTROL 管理者] 」領域で、「 [!UICONTROL **ユーザーとロール**]」をクリックします。
+1. 「 [!UICONTROL 管理者] 」領域で、「 **[!UICONTROL ユーザーとロール]**」をクリックします。
 
    ![画像6](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. 「 [!UICONTROL **ロール**] 」タブをクリックし、アクセス権を付与するユーザーを選択し、「ロールの [!UICONTROL **編集**]」をクリックします。
+1. 「 **[!UICONTROL ロール]** 」タブをクリックし、アクセス権を付与するユーザーを選択し、「ロールの **[!UICONTROL 編集]**」をクリックします。
 
    ![画像7](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. 「 [!UICONTROL アクセスマーケティングアクティビティ]」で、「トリガーキャンペーンの優先度を [!UICONTROL **編集**]」をオンにします。 「 [!UICONTROL **保存**]」をクリックします。
+1. 「 [!UICONTROL アクセスマーケティングアクティビティ]」で、「トリガーキャンペーンの優先度を **[!UICONTROL 編集]**」をオンにします。 「 **[!UICONTROL 保存]**」をクリックします。
 
    ![画像8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Marketo Classicの表示キャンペーンの優先度
 
-トリガーキャンペーン内の「ス [!DNL Classic] ケジュール [!UICONTROL ****] 」タブをクリックして、エクスペリエンス内のキャンペーンの優先度を表示できます。
+トリガーキャンペーン内の「ス [!DNL Classic] ケジュール **** 」タブをクリックして、エクスペリエンス内のキャンペーンの優先度を表示できます。
 
 ![画像9](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
