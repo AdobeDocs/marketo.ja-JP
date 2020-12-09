@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 手順3/3 - Microsoft DynamicsとMarketoの接続（オンライン） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - Microsoft DynamicsとMarketoの接続（オンライン）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 これが同期の最後のステップです。 もう少しで着く！
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [手順1/3:Marketor Solutionのインストール（オンライン）](step-1-of-3-install.md)
    >
