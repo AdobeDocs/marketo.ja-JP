@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: ソーシャルアプリの共有URL — マーケティングドキュメント — 製品ドキュメントを選択します
 title: Socialアプリの共有URLの選択
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
    >    * **外部URL**:マーケティング担当者以外のランディングページ。
 
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Social追加アプリに対するプライバシーポリシー](add-your-privacy-policy-to-a-social-app.md)
 
