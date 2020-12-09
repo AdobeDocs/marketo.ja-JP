@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 手順3/3 - MarkettoとSalesforceの接続(Enterprise/Unlimited) - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarkettoとSalesforceの接続(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 この記事では、設定したSalesforceインスタンスと同期するようにMarketoを設定します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
@@ -57,7 +55,7 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >「フィールドを [同期」をクリックする前に](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) 、同期ユーザーからMarketorで必要としないすべてのフィールドを必ず **非表示にしてください**。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドが、Marketorに永久的に作成され、削除できません。
+   >「フィールドを [同期」をクリックする前に](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) 、同期ユーザーからMarketorで必要としないすべてのフィールドを必ず **非表示にしてください**。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドがMarketorに完全に作成され、削除できなくなります。
 
 1. Salesforce設定のパート2で作成したSalesforce同期ユーザ資格情報を入力し([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW)、 [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW))、「フィールドを **同期**」をクリックします。
 
