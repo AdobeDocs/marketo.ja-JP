@@ -2,7 +2,7 @@
 title: understanding-my-tokens
 description: 自分のトークンについて
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 * **[上書きされたトークン：](/help/sky/override-an-inherited-my-token.md)** トークンは継承されましたが、このプログラムーまたはフォルダーで例外が発生しました。
 * **継承トークン：** トークンは、ツリーの上位レベルのプログラムーまたはフォルダーに作成されました。
 
-これらの3つのタイプは、プログラムーまたはキャンペーンーフォルダーの [!UICONTROL **「マイトークン**] 」タブにあります。
+これらの3つのタイプは、プログラムーまたはキャンペーンーフォルダーの **[!UICONTROL 「マイトークン]** 」タブにあります。
 
 ![イメージ2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
