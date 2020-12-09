@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 2者間の同意の設定 — Marketto Docs — 製品ドキュメント
 title: 双方の同意の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 通話の録音時に米国の双方の当事者による同意に関する法律に準拠するため、管理者として、事前に記録されたメッセージを通話の録音時に最初に再生するように設定できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >次の手順に従う前に、最初に呼び出しの記録を [有効にする必要があります。](http://docs.marketo.com/x/dAC1Ag)
 
