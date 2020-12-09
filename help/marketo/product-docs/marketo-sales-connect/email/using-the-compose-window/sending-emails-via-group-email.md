@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: グループ電子メールを使用した電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: グループ電子メールを使用した電子メールの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
    >
    >グループの電子メールを送信する際に、電子メール/テンプレートにバルク編集を行うことはできますが、リスト内の特定の受信者に対して一意の編集を行うことはできません。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [バルク送信オプション](http://docs.marketo.com/x/HwQ6Ag)
 >* [「構成」ウィンドウでのテンプレートの使用](http://docs.marketo.com/x/MQQ6Ag)
