@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC同期 — カスタムオブジェクト同期 — Marketto Docs — 製品ドキュメント
 title: SFDC同期 — カスタムオブジェクト同期
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトは�
 >
 >**必要な管理者権限**
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >カスタムオブジェクトを使用するには、Salesforceのリード [、](sfdc-sync-lead-sync.md)接触子 [](sfdc-sync-contact-sync.md)[](sfdc-sync-account-sync.md)、アカウントオブジェクトに関連付ける必要があります。
 
