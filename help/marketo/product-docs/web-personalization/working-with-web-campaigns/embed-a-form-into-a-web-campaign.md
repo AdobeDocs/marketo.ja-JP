@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Webキャンペーンーにフォームを埋め込む — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンーにフォームを埋め込む
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [フォームテーマのCSSの編集](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [フォローアップランディングページなしで「ありがとうございます」メッセージを表示](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
