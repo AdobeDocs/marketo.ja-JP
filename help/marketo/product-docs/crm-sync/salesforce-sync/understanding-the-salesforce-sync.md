@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Salesforce同期について — Marketto Docs — 製品ドキュメント
 title: Salesforce同期について
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ SalesforceとMarketoの同期は、リード、連絡先、Salesforceのキャ�
 
 Salesforceの同期には、さまざまなニュアンスや機能があります。 「 [SFDC同期の詳細」セクションの詳細を確認します](http://docs.marketo.com/display/docs/sfdc+sync+details)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Salesforce同期設定](http://docs.marketo.com/display/docs/setup)
 >* [SFDC同期の詳細](http://docs.marketo.com/display/docs/sfdc+sync+details)
