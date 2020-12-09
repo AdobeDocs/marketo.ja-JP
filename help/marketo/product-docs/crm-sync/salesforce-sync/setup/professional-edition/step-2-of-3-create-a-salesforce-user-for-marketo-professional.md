@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 手順2/3 - Marketto(Professional)用のSalesforceユーザーの作成 — Marketto Docs — 製品ドキュメント
 title: ステップ2/3 - Marketto(Professional)用のSalesforceユーザーの作成
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >これらの手順は、Salesforce管理者が実行する必要があります
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
