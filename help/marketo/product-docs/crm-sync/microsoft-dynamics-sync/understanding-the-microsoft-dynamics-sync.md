@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Microsoft Dynamics Sync - Marketto Docs — 製品ドキュメントについて
 title: Microsoft Dynamicsの同期を理解しています
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Dynamicsの同期には、多くのニュアンスと機能があります。 [ 
 >
 >現在、Marketo Dynamics Syncのサンドボックス更新をサポートしていません。 Dynamics CRMサンドボックスを更新する必要がある場合は、新しいMarketo Sandboxが必要になります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [同期設定](http://docs.marketo.com/display/docs/sync+setup)
    >
