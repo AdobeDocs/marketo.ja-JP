@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: 動的コンテンツについて — Marketto Docs — 製品ドキュメント
 title: 動的コンテンツについて
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 お前の成功談を話せ！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [セグメントの作成](create-a-segmentation.md)
 >* [スニペットの作成](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
