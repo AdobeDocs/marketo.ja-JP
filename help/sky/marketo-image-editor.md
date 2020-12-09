@@ -2,7 +2,7 @@
 title: マーケティング画像編集者
 description: マーケティング画像エディター
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,10 +24,10 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. 「画像を [!UICONTROL **編集**] 」ボタンをクリックします。
+1. 「画像を **[!UICONTROL 編集]** 」ボタンをクリックします。
 
    ![イメージ3](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. 上部のツールバーにある様々な機能から選択します。 終了したら [!UICONTROL **「保存**] 」をクリックします。
+1. 上部のツールバーにある様々な機能から選択します。 終了したら **[!UICONTROL 「保存]** 」をクリックします。
 
    ![画像4](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
