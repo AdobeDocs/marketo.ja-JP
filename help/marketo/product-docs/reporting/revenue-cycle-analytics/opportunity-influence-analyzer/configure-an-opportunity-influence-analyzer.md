@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: オポチュニティ影響分析の設定 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析計の構成
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Opportunity Influence Analyzer [を](create-an-opportunity-influence-analyzer.md)作成したら [、含める](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 興味深い瞬間のタイプを設定できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [オポチュニティ影響分析計の作成](create-an-opportunity-influence-analyzer.md)
 
