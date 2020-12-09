@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: フロー手順追加での選択肢の使用 — Marketto Docs — 製品ドキュメント
 title: フローステップでの追加選択の使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # フローステップでの追加選択の使用 {#use-add-choice-in-a-flow-step}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマ追加ートキャンペーンへのフローステップ](add-a-flow-step-to-a-smart-campaign.md)
 
