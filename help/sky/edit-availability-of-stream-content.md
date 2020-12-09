@@ -2,7 +2,7 @@
 title: edit-availability-of-stream-content
 description: ストリームコンテンツの可用性の編集
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. 「 [!UICONTROL **Streams**] 」タブをクリックします。
+1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. [ [!UICONTROL **編集] [可用性**]]を選択します。
+1. [ **[!UICONTROL 編集] [可用性]**]を選択します。
 
    ![画像4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![画像5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. 「 [!UICONTROL **保存**]」をクリックします。
+1. 「 **[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
