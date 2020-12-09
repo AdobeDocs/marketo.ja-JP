@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Webセグメント — Marketto Docs — 製品ドキュメント
 title: Webセグメント
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -342,8 +342,7 @@ WebパーソナライゼーションAPIの呼び出しにつ [いて詳しくは
 
 素晴らしい！ 「セグメント」セクションを理解したら、キャンペーンについて学びましょう。
 
->[!NOTE]
-**関連記事**
+>[!MORELIKETHIS]
 * [基本Webセグメントの作成](create-a-basic-web-segment.md)
 * [新しいダイアログWebキャンペーンの作成](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [ゾーン内の新しいWebキャンペーンの作成](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
