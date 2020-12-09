@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: プレゼンテーションのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションのカスタマイズ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [カスタム目標](create-a-custom-goal.md) ( [スマートリスト目標)の作成](create-a-smart-list-goal.md)
    >
