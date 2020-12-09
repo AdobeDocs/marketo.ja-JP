@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 売上高エクスプローラレポートへのカスタムメジャーの追加 — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラ・レポートへのカスタム・メジャーの追加
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 次の例では、ソフトバウンスの計算指標を作成しています。この計算指標は、レポートに既に含まれている指標を使用し、基本的な計算を使用して新しい指標を作成します。 他のタイプのメジャーも作成できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >レポートには少なくとも1つの指標が必要ですが、カスタムメジャーを定義する際に使用する指標の1つである必要はありません。
 
