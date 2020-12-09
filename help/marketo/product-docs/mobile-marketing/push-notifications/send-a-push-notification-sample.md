@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: プッシュ通知サンプルの送信 — Marketto Docs — 製品ドキュメント
 title: プッシュ通知サンプルの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 サンプルを送信して、プッシュ通知が正しく動作していることを確認できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >サンプルを送信するデバイスにアプリがインストールされていることを確認します。
 
