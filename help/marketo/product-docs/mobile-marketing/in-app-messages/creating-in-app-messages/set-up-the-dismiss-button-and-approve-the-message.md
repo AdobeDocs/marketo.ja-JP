@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: 「却下」ボタンを設定し、メッセージを承認してMarketo Docs — 製品ドキュメントを作成する
 title: 「却下」ボタンを設定し、メッセージを承認する
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 メッセージを [送信する時間です](http://docs.marketo.com/display/docs/send+your+in-app+message)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [アプリ内メッセージの送信](http://docs.marketo.com/display/docs/send+your+in-app+message)
