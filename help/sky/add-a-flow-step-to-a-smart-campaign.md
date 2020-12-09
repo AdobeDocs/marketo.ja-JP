@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-キャンペーン
 description: スマ追加ートキャンペーンへのフローステップ
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## フ追加ローステップ
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」でスマートキャンペーンを選択し、「 [!UICONTROL **フロー**]」をクリックします。
+1. 「 [!UICONTROL マーケティングアクティビティ]」でスマートキャンペーンを選択し、「 **[!UICONTROL フロー]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
