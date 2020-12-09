@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: コマンドセンターの概要 — Marketto Docs — 製品ドキュメント
 title: コマンドセンターの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Commend Centerは単一の統一された表示で、次のステップを見つ
 
 賞与：アドバンス検索を保存すると、動的なリストとして機能し、受信者表示または電子メールのクリック後に、エンゲージメント条件を満たす電子メールが追加されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [タスク](http://docs.marketo.com/x/qwDb)
 >* [アドバンス検索の概要](http://docs.marketo.com/x/KQM6Ag)
