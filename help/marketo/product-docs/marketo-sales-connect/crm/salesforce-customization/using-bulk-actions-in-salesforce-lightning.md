@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Salesforce Lightning - Marketto Docs — 製品ドキュメントでのバルクアクションの使用
 title: Salesforce Lightningでのバルクアクションの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 キャンペーンへのリードの追加、バルク電子メールの送信、SalesforceからSales Connectへのリードのプッシュなど、バルクアクションの実行方法を説明します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Sales Connectパッケージの最新バージョンに更新し、リード/コンタクト表示にバルクアクションボタンをインストールします。 [手順については、ここをクリックしてください](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)。
 
