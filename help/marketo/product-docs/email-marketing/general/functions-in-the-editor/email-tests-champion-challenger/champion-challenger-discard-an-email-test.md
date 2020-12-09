@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: Champion/Challenger — 電子メールテストの破棄 — Marketto Docs — 製品ドキュメント
 title: Champion/Challenger — 電子メールテストの破棄
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 電子メールテストの実行を継続しないと判断した場合は、いつでも破棄できます。 これが方法です。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [チャンピオン/チャレンジャー：電子メールテストの承認](champion-challenger-approve-your-email-test.md)
 
