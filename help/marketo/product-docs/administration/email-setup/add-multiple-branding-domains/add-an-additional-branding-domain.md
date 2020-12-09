@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: 追加のブ追加ランディングドメイン — Marketto Docs — 製品ドキュメント
 title: 追加のブ追加ランディングドメイン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 1つ追加のMarketoのインスタンスから複数のブランドを実行し、それぞれに独自のブランドのトラッキングリンクを持たせる場合の追加のブランディングドメイン。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >ブランドドメインを追加する前に、汎用トラッキングリンクをブランドドメインに [置き換える必要があります](edit-your-default-branding-domain.md) 。
 
