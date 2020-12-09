@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Facebookオフラインコンバージョンについて — Marketto Docs — 製品ドキュメント
 title: Facebookオフラインコンバージョンについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Facebookのオフラインコンバージョンを [設定して](set-up-faceboo
 1. 売上高サイクルモデルのステージをFacebookのオフラインコンバージョンステージにマッピングします。
 1. FacebookのリードがFacebookのリード広告から生成され、マッピングされたステージに到達すると、Marketorは、安全な自動APIを介してオフラインコンバージョンデータを1日に数回Facebookに送信します。 データがFacebook広告マネージャーレポートに表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Facebookオフラインコンバージョンの設定](set-up-facebook-offline-conversions.md)
 
