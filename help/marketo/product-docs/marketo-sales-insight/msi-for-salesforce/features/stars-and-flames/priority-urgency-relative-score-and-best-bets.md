@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: 優先度、緊急度、相対スコア、ベストベット — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: 優先度、緊急度、相対スコア、ベストベット
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Marketor Sales Insightは、その優先度に基づいて、最も優れたリ�
 >
 >相対的な緊急性（炎）と相対スコア（星）のカウントは、Marketoでは整数です。 それぞれに指定できる値は0 ～ 3です。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Marketor Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
