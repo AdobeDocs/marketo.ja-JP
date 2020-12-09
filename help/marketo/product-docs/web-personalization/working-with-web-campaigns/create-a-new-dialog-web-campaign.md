@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 新しいダイアログWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいダイアログWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Webキャンペーンーの [コピーを参照してください](clone-a-web-c
 
 1. Webキャンペーンーを削除するかどうかを確認するメッセージが表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ゾーン内の新しいWebキャンペーンの作成](create-a-new-in-zone-web-campaign.md)
 >* [新しいウィジェットWebキャンペーンの作成](create-a-new-widget-web-campaign.md)
