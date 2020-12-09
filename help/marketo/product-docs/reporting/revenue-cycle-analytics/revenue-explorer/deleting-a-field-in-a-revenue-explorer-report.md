@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: 売上高エクスプローラレポートでのフィールドの削除 — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラ・レポートでのフィールドの削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
    >
    >開始がフィールドをドラッグするまで、ごみ箱は非表示になります。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [売上高エクスプローラ・レポートの保存](saving-a-revenue-explorer-report.md)
 
