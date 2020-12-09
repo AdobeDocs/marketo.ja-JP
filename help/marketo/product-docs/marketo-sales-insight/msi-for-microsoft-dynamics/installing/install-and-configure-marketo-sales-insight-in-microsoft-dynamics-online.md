@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Microsoft Dynamics Online - Marketto Docs — 製品ドキュメントで、Marketto Sales Insightのインストールと設定を行います。
 title: Microsoft Dynamics OnlineでのMarketor Sales Insightのインストールと構成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insightは、マーケティングチームが持つ豊富なデータをセールスチームに「窓口」として提供する素晴らしいツールです。 Microsoft Dynamics Onlineにインストールして構成する方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Marketoと [Microsoftの統合を完了します](http://docs.marketo.com/x/E4A2)。
 >
