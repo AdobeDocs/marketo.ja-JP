@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 電子メールリンクのパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールリンクのパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 >
 >個々の人が何をしたかを正確に知りたい場合は、プログラムの「メンバー」タブから「 [アクティビティログ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)[」ページを「](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 個人の詳細」ページで開きます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールパフォーマンスレポート](email-performance-report.md)
 >* [電子メールレポートでのアセットのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
