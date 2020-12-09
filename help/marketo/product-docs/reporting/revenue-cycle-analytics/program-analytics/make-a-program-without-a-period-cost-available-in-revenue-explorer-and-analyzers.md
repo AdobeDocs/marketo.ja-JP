@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: 期間コストなしのプログラムを売上高エクスプローラーおよびアナライザーで利用できるようにする — Marketto Docs — 製品ドキュメント
 title: 期間コストなしのプログラムを売上高エクスプローラおよびアナライザーで利用可能にする
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 いい仕事！ 現在は、変更されたチャネルを使用するプログラムは、期間コストを必要とせずに、売上高エクスプローラーおよびアナライザーに含まれます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プログラムレベルでのAnalyticsの動作の上書き](override-analytics-behavior-at-the-program-level.md)
 
