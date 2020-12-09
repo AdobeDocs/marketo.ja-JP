@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 監査証跡の有効化 — Marketto Docs — 製品ドキュメント
 title: 監査証跡の有効化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 ## 監査証跡ロールのユーザーへの割り当て {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[既存のロールを作成](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 、 [または](#Enable) 有効にし、「監査証跡」権限を付与します。
 
