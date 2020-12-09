@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: WebキャンペーンーへのターゲットURLの追加 — Marketto Docs — 製品ドキュメント
 title: WebキャンペーンーへのターゲットURLの追加
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**関連記事**
+>[!MORELIKETHIS]
 * [新しいダイアログWebキャンペーンの作成](create-a-new-dialog-web-campaign.md)
 * [ゾーン内の新しいWebキャンペーンの作成](create-a-new-in-zone-web-campaign.md)
 * [新しいウィジェットWebキャンペーンの作成](create-a-new-widget-web-campaign.md)
