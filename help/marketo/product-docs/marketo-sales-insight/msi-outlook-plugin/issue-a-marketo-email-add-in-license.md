@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Marketor Eメールイン追加ライセンスの発行 — Marketto Docs — 製品ドキュメント
 title: Marketor Email 追加-inライセンスの発行
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketo Email Outlook-inを使用したい場合は、ま追加ずライセン�
    >
    >販売担当者が自分のコンピュータに管理者アクセス権を持っている場合は、チェックボックスをオンにすると、完了です。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [エンタープライズキーを使用したOutlook用Marketing 追加-inのインストール](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [登録コードを使用したOutlook用Marketo Eメールイン追加のインストール](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
