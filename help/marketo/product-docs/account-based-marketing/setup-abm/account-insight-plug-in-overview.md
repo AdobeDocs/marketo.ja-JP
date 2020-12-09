@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: アカウントインサイトプラグインの概要 — Marketto Docs — 製品ドキュメント
 title: アカウントインサイトプラグインの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Account Insightは、すぐに使えるABMやアカウントのインサイト�
 
 すごい！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アカウントインサイトの設定](set-up-account-insight.md)
 
