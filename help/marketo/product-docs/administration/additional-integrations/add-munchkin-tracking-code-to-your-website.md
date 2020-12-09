@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Munchkin追加追跡コードをWebサイト — Marketto Docs — 製品ドキュメントに送信
 title: Munchkin追加追跡コードをWebサイトに送信
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Munchkinと呼ばれる、MarketoのカスタムJavaScriptトラッキングコードは、Webサイトを訪問するすべての個人を追跡するので、自動化されたマーケティングキャンペーンを使用して訪問に反応できます。 匿名訪問者でも、そのIPアドレスやその他の情報と共に追跡されます。 **このトラッキングコードがないと、Webサイト上の訪問や他のアクティビティを追跡できません。**
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >経験豊富なJavaScript開発者にアクセスできることを確認してください。 マーケティング担当者向けテクニカルサポートは、カスタムJavaScriptのトラブルシューティングを支援するように設定されていません。
 
