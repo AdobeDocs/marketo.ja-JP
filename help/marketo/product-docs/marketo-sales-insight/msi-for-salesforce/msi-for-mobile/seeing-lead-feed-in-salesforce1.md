@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Salesforce1 - Marketto Docs — 製品ドキュメントでのリードフィードの表示
 title: Salesforceでのリードフィードの表示1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Salesforce1の興味深い瞬間](interesting-moments-in-salesforce1.md)
 >* [SalesforceでのMarketo電子メール、キャンペーン、およびウォッチリストのアクションの送信1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
