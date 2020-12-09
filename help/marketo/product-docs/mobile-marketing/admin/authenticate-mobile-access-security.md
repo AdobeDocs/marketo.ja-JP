@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: モバイルアクセスセキュリティの認証 — Marketto Docs — 製品ドキュメント
 title: モバイルアクセスセキュリティの認証
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 IDを有効にするには、コードを取得してIT部門に提供し、IDが安全な一致をセットアップできるようにする必要があります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >この機能を有効にするには、サポートに問い合わせて、「Vespaセキュアモード」を要求してください。
 
