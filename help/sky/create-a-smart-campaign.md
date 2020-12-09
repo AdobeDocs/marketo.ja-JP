@@ -2,7 +2,7 @@
 title: 賢いキャンペーンを作る
 description: スマートキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. 選択範囲を右クリックし、「スマートキャンペーンを [!UICONTROL **作成**]」を選択します。
+1. 選択範囲を右クリックし、「スマートキャンペーンを **[!UICONTROL 作成]**」を選択します。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 >
 >スマートキャンペーンは、任意のプログラムのローカルアセットとして作成できます。
 
-1. スマートキャンペーンに名前を付け（およびオプションで説明/ラベルを追加）、「 [!UICONTROL **作成**]」をクリックします。
+1. スマートキャンペーンに名前を付け（およびオプションで説明/ラベルを追加）、「 **[!UICONTROL 作成]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
