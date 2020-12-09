@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: ドラフトなし — Marketto Docs — 製品ドキュメントでのスニペットの承認
 title: ドラフトなしのスニペットの承認
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 >
 >この機能は、スニペット承認ワークフローの時間を節約するために設計されています。 ただし、いくつかの制限があります。 詳しくは、 [このドキュメント](https://nation.marketo.com/docs/DOC-4415) を参照してください。 このドキュメントには、エラー処理とトラブルシューティングに関する情報も含まれています。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[スニペットのドラフトなしを有効にする](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
