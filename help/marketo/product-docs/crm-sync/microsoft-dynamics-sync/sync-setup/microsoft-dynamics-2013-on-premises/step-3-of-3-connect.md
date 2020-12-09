@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス）
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 よし！ ソリューションをインストールし、同期ユーザーを構成しました。 次に、MarketoとDynamicsを結び付ける必要があります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [手順1/3:Dynamics(2013 On-Premises)にMarketo Solutionをインストールする](step-1-of-3-install.md)
 >* [手順2/3:Marketor用の同期ユーザーの設定(2013 On-Premises)](step-2-of-3-configure.md)
