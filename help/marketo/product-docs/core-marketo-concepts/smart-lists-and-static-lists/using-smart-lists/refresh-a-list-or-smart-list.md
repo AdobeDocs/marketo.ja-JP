@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: リストまたはスマートリストの更新 — Marketto Docs — 製品ドキュメント
 title: リストまたはスマートリストの更新
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 >
 >スマートリストを実行して後で戻ってきたときに、右下隅の人数の前に「説明」という単語が表示されることがあります。 これは、数がおおよその数であることを示しています。数自体をクリックして更新し、更新された正確な数を取得します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [リストまたはスマートリストからExcelにユーザーをエクスポート](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
