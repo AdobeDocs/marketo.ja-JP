@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: Webレポート — Marketto Docs -訪問者ドキュメントに人または匿名製品を表示
 title: Webレポートでの人または匿名訪問者の表示
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Webレポートでの人または匿名訪問者の表示 {#display-people-or-anonymous-visitors-in-web-reports}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[Munchkin追加追跡コードをWebサイトに送信](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
