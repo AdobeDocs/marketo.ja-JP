@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: 手順1/3 - Dynamics (2013 On-Premises)でのMarketo Solutionのインストール — Marketto Docs — 製品ドキュメント
 title: 手順1/3 - DynamicsでのMarketo Solutionのインストール(2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 >
 >マーケティングをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Active Directoryフェデレーションサービス [2.0、2.1、または3.0 (ADFS)が構成されている](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing Deployment [](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (IFD)が必要です。 注意：IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
 >
