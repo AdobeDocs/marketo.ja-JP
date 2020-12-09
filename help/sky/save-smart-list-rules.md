@@ -2,7 +2,7 @@
 title: save-smart-リストルール
 description: スマートリストルールの保存
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. 「 [!UICONTROL **スマートリスト**]」をクリックします。
+1. 「 **[!UICONTROL スマートリスト]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. フィルター/トリガーの追加が完了したら、「 [!UICONTROL **スマートキャンペーンのアクション**] 」ドロップダウンをクリックし、「スマートリストルールの [!UICONTROL **保存**]」を選択します。
+1. フィルター/トリガーの追加が完了したら、「 **[!UICONTROL スマートキャンペーンのアクション]** 」ドロップダウンをクリックし、「スマートリストルールの **[!UICONTROL 保存]**」を選択します。
 
    ![画像5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. ルールセットに名前を付け、「 [!UICONTROL **保存**]」をクリックします。
+1. ルールセットに名前を付け、「 **[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
    ![画像7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. 「 [!UICONTROL **スマートリスト**]」をクリックします。
+1. 「 **[!UICONTROL スマートリスト]**」をクリックします。
 
    ![画像8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. 「 [!UICONTROL **保存されたルール**] 」ドロップダウンをクリックします。
+1. 「 **[!UICONTROL 保存されたルール]** 」ドロップダウンをクリックします。
 
    ![画像9](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
