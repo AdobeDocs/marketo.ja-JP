@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: スニペット — Marketto Docs — 製品ドキュメントに対してドラフトなしを有効にする
 title: スニペットのドラフトなしを有効にする
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 >
 >ドラフトなしを無効にするには、上記の手順1 ～ 4に従って、「ドラフトなし」チェックボックスをオフにし、「 **保存**」をクリックします。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[ドラフトなしのスニペットの承認](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
