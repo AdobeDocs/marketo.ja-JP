@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: 既存のフリーフォームランディングページテンプレートのモバイル互換性の確保 — Marketto Docs — 製品ドキュメント
 title: 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 
 すごい！ このテンプレートを使用するすべてのランディングページのモバイル表示 [を](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) カスタマイズできるようになりました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [フリーフォームランディングページ用のモバイル表示のカスタマイズ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
