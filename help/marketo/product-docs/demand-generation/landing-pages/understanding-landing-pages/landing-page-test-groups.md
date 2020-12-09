@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: ランディングページテストグループ — Marketto Docs — 製品ドキュメント
 title: ランディングページテストグループ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 マーケティング担当者は、テストグループ内のテスト済みの各ページにおけるページ表示数とフォームの完了数を追跡します。 テストグループの結果を使用して、どのランディングページが最も説得力のあるものかを判断できます。 次に、テストグループの作成方法を示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[2つ以上のランディングページ](../../../../getting-started/quick-wins/landing-page-with-a-form.md)（好ましくはフォームを使用）を作成します。
 
