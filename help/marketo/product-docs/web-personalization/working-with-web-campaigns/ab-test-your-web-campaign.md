@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: Webキャンペーンー — Marketto Docs — 製品ドキュメントをABテスト
 title: WebキャンペーンのABテスト
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ ht-degree: 0%
 
 
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ダイアログキャンペーンの作成](create-a-new-dialog-web-campaign.md)
 >* [「Create a RTP In Zone」キャンペーン](create-a-new-in-zone-web-campaign.md)
