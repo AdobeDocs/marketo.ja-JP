@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: スマートリストの購読 — Marketto Docs — 製品ドキュメント
 title: スマートリストのサブスクリプションを購入
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ ht-degree: 0%
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートリスト購読の編集](edit-a-smart-list-subscription.md)
 >* [購読管理者設定の保護](secure-the-subscription-admin-setting.md)
