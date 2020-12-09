@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: 売上高モデルについて — Marketto Docs — 製品ドキュメント
 title: 売上高モデルについて
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ ht-degree: 0%
 
 ここには希望に満ちたリンクがいくつかあります （または、できればお役に立てば、お選びください！）
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[新しい売上高モデルの作成](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ ht-degree: 0%
 
 ロストは付け加えるのに良い方法ですが、緑の道にはないことに注意してください。 それは「成功」ではないからです。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[売上高モデルのレポート](report-on-your-revenue-model.md)
 >
