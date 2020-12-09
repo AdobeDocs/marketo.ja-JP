@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Webリッチメディアの予測コンテンツを有効にする — Marketto Docs — 製品ドキュメント
 title: Webリッチメディアの予測コンテンツを有効にする
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 予測コンテンツは、機械学習や予測分析など、Web訪問者に最も関連のあるコンテンツを提供します。 Webリッチメディアでは、テキストの説明や画像を使用してコンテンツを強調し、Webサイトに複数の予測コンテンツのレコメンデーションを埋め込むことができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
