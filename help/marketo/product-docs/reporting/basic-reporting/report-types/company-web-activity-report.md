@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 会社ウェブアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: 会社Webアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 ウェブページの [アクティビティレポートを作成して](web-page-activity-report.md) 、サイトの個々の訪問者を調べます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >MarketoのWebサイトからアクティビティを取り込むには、まずサイトにMunchkin [を設定する必要があります](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
 
