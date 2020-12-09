@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: 電子メールのパーソナライズ — Marketto Docs — 製品ドキュメント
 title: 電子メールのパーソナライズ
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [設定と追加人](get-set-up-and-add-a-person.md)
 >* [Eメール送信](send-an-email.md)
