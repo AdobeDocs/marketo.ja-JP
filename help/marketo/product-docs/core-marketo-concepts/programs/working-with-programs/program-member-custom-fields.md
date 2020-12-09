@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: プログラムメンバーのカスタムフィールド — Marketto Docs — 製品ドキュメント
 title: プログラムメンバのカスタムフィールド
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 0%
 * リストAPIを使用した読み込みと書き出し [](http://docs.marketo.com/x/egAk)がサポ [](http://developers.marketo.com/)ートされます。
 * 2人のユーザーを結合すると、推奨結果のプログラムメンバーのカスタムフィールドデータが使用されます。 ただし、勝者に何もない場合は、敗者の値が使用されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[Marketorでのカスタムフィールドの作成](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
