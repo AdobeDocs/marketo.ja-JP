@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 重複人物の検索と結合 — Marketto Docs — 製品ドキュメント
 title: 重複ユーザーの検索と結合
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >Marketorは、SalesforceまたはMicrosoft Dynamicsの同期に対して、またはユーザーを手動で入力した場合に、自動的に重複除外を実行しません。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >重複の検索と結合には、 [組み込み/システムスマートリストの使用が含まれます](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
 
