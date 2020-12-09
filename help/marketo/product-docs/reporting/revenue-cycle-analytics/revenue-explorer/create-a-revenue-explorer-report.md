@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: 売上高エクスプローラーレポートの作成 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 売上高エクスプローラレポートの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)
 >* [売上高エクスプローラ・レポートへのカスタム・メジャーの追加](adding-custom-measures-to-a-revenue-explorer-report.md)
