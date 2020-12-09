@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: スマートリストについて — Marketto Docs — 製品ドキュメント
 title: スマートリストについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 よし始めよう！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [組み込み/システムスマートリストの使用](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [スマートリストの作成](creating-a-smart-list/create-a-smart-list.md)
