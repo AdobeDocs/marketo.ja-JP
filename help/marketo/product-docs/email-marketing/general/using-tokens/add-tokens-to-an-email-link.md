@@ -3,9 +3,9 @@ unique-page-id: 1147360
 description: 電子メールリンクへ追加のトークン — Marketto Docs — 製品ドキュメント
 title: 電子メ追加ールリンクへのトークン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
    それだ！
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マイトークンでのURLの使用](using-urls-in-my-tokens.md)
 
