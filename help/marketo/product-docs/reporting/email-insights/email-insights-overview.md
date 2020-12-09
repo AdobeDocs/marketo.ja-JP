@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: 電子メールインサイトの概要 — Marketto Docs — 製品ドキュメント
 title: 電子メールインサイトの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
 すべての標準的なMarketorディメンションが含まれますが、最大10個のカスタムディメンションを追加できます。 [カスタムディメンションは](custom-dimensions-for-email-insights.md) 、セグメントとプログラムタグで構成されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールインサイト分析の概要](email-insights-analytics-overview.md)
 >* [電子メールインサイトから概要が送信される](email-insights-sends-overview.md)
