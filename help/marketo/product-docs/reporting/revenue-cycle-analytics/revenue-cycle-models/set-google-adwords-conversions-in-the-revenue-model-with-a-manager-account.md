@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: マネージャーアカウント — Marketto Docs — 製品ドキュメントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 title: マネージャーアカウントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ AdWordsのオフラインコンバージョンを、売上高モデルの1つ以
 * Stage Action
 * AdWordsマッピング
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
