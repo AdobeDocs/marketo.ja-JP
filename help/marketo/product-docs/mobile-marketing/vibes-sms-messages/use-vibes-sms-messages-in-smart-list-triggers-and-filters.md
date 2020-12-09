@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: スマートリストトリガーおよびフィルターでのVibes SMSメッセージの使用 — Marketto Docs — 製品ドキュメント
 title: スマートリストトリガおよびフィルターでのVibe SMSメッセージの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ SMSメッセージバウンストリガは、SMSメッセージがバウンス�
 
 スマートリストでVibeトリガーとフィルターを設定した後、フローを [定義できます](add-a-flow-step-for-sms.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートキャンペーンのスマートリストの定義 |トリガー](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [スマート・リストの検索と追加フィルター](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
