@@ -2,7 +2,7 @@
 title: クローン・ア・スマート・キャンペーン
 description: スマートキャンペーンのコピー
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -20,14 +20,14 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. 「スマートキャンペーンのアクション」ドロップダウンで、「 [!UICONTROL **コピー**]」を選択します。
+1. 「スマートキャンペーンのアクション」ドロップダウンで、「 **[!UICONTROL コピー]**」を選択します。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. 「 [!UICONTROL **宛先**] 」ドロップダウンをクリックし、保存先のプログラムーまたはフォルダーを選択します。
+1. 「 **[!UICONTROL 宛先]** 」ドロップダウンをクリックし、保存先のプログラムーまたはフォルダーを選択します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. キャンペーン名（およびオプションの説明/ラベル）を入力し、「 [!UICONTROL **コピー**]」をクリックします。
+1. キャンペーン名（およびオプションの説明/ラベル）を入力し、「 **[!UICONTROL コピー]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
