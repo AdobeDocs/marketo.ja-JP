@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: アプリ内メッセージボタンの設定 — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージボタンの設定
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 もう少しで。 最後のステップはにです。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
