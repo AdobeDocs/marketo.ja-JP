@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: ウェビナープログラムのステータスについて — Marketto Docs — 製品ドキュメント
 title: ウェビナープログラムのステータスについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >マーケティング担当者が「イベントなし」ステータスを引き出すには、その訪問者がマーケティング担当者に登録され *ている必要があります*。 On24データフィードからの番組なしを取り込むことはできません。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
 
