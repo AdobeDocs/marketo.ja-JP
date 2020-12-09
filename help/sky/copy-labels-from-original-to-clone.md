@@ -2,7 +2,7 @@
 title: copy-labels-from-original-to-clone
 description: 元のラベルからコピーにラベルをコピー
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 アセットをコピーする場合は、元のアセットからすべてのラベルをコピーできます。 これが方法です。
 
-1. ツリー内でコピーするアセットを右クリックし、ドロップダウンで [!UICONTROL **「コピー**] 」をクリックします。
+1. ツリー内でコピーするアセットを右クリックし、ドロップダウンで **[!UICONTROL 「コピー]** 」をクリックします。
 
    ![イメージ1](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. 新しいクローンアセットの情報を入力します。 次に、「 [!UICONTROL ラベル]」の「元のラベルからラベルを [!UICONTROL **コピー**]」をクリックします。
+1. 新しいクローンアセットの情報を入力します。 次に、「 [!UICONTROL ラベル]」の「元のラベルからラベルを **[!UICONTROL コピー]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
-1. コピーされたラベルは自動的に入力されます。 「 [!UICONTROL **複製**] 」をクリックして、アセットの作成を終了します。
+1. コピーされたラベルは自動的に入力されます。 「 **[!UICONTROL 複製]** 」をクリックして、アセットの作成を終了します。
 
    ![イメージ3](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-3.jpg)
 
