@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Champion/Challenger — 全電子メール — Marketto Docs — 製品ドキュメント
 title: Champion/Challenger — 電子メール全体
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 電子メール全体を相互にテストします。 テストが終了したら、パフォーマンスがトップのパフォーマンスを送り出します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Eメール追加チャンピオン/対抗者](add-an-email-champion-challenger.md)
 
