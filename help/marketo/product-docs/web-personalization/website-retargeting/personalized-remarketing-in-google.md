@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Googleでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
 title: Googleでのパーソナライズされたリマーケティング
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Personalized Remarketingを使用すると、RTPデータを使用し、Google Display Networkの到達に応じてGoogle Analyticsの能力を活用して、ユーザーと再び関わりを持つことができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Webパーソナライゼーションデータ [の設定で再ターゲティングを完了します](retargeting-with-web-personalization-data.md) 。
 >* Google Analyticsとの [リマーケティングの確認ヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) ・ドキュメント
