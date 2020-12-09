@@ -2,7 +2,7 @@
 title: create-a-キャンペーンフォルダー
 description: キャンペーンフォルダーの作成
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 キャンペーンフォルダーを使用すると、Tidyワークスペースを整理しやすくなります。 次の簡単な手順に従うと、自動化の魔法を使うことができます。
 
-1. ワークスペースのグローブまたは既存のフォルダーを右クリックし、「 [!UICONTROL **新規キャンペーンフォルダー**]」を選択します。
+1. ワークスペースのグローブまたは既存のフォルダーを右クリックし、「 **[!UICONTROL 新規キャンペーンフォルダー]**」を選択します。
 
    ![イメージ1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. 必要に応じて、キャンペーンフォルダに説明を追加したり、ラベルを追加したりできます。 既存のフォルダ内にキャンペーンフォルダを作成している場合は、親アセットのラベルをコピーすることもできます。 「 [!UICONTROL **作成**]」をクリックします。
+1. 必要に応じて、キャンペーンフォルダに説明を追加したり、ラベルを追加したりできます。 既存のフォルダ内にキャンペーンフォルダを作成している場合は、親アセットのラベルをコピーすることもできます。 「 **[!UICONTROL 作成]**」をクリックします。
 
    ![イメージ1](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
