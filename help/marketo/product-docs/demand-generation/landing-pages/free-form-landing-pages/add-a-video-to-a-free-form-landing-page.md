@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: フリ追加ーフォームランディングページへのビデオ — Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページへのビデオ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 おめでとう！ 自由形式のランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebookに [投稿したり、ビデオをWebサイトで共有したりすること](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) もできます [](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >完了ですが、必要に応じてビデオ共有の設定を変更できます。 共有フローの [カスタマイズに関する開始](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共有プロンプトが開くタイミングと場所）
 
