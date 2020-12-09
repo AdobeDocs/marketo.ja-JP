@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: プレビュースニペット — Marketto Docs — 製品ドキュメント
 title: スニペットのプレビュー
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # スニペットのプレビュー {#preview-a-snippet}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スニペット追加の内容](add-content-to-a-snippet.md)
 
