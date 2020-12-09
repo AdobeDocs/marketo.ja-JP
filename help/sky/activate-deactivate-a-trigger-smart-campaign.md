@@ -2,7 +2,7 @@
 title: activate-deactivate-a-trigger-smart-キャンペーン
 description: トリガースマートキャンペーンのアクティブ化/非アクティブ化
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## トリガーキャンペーンのアクティブ化
 
-1. スマートキャンペーンで、「 [!UICONTROL **スケジュール**] 」タブをクリックします。
+1. スマートキャンペーンで、「 **[!UICONTROL スケジュール]** 」タブをクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >アクティブ化する前に、スマートキャンペーンを確認します。
 
-1. 「 [!UICONTROL **アクティブ化**]」をクリックします。
+1. 「 **[!UICONTROL アクティブ化]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## トリガーキャンペーンの非アクティブ化
 
-1. スマートキャンペーンで、「 [!UICONTROL **スケジュール**] 」タブをクリックします。
+1. スマートキャンペーンで、「 **[!UICONTROL スケジュール]** 」タブをクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 「 [!UICONTROL **非アクティブ化**]」をクリックします。
+1. 「 **[!UICONTROL 非アクティブ化]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
