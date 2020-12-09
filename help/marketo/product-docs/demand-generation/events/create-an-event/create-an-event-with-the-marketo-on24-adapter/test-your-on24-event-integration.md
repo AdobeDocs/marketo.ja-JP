@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: ON24イベント統合のテスト — Marketto Docs — 製品ドキュメント
 title: ON24イベント統合のテスト
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 * 毎夜、ON24から出席者データを取得します。
 * 参加者のデータがMarketoとON24の間で同期されると、Marketorはメンバーシップのステータスを「出席済み」、「出席済みオンデマンド」または「ショーなし」に更新します。 イベントの「 **概要** 」タブで、イベントのステータスが「 **イベント完了**」に更新されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [ON24イベント統合の例](example-on24-event-integration.md)
 >* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
