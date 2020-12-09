@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: 電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 >
 >同じキャンペーンから同じ人に対する複数の送信が1回だけカウントされます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [キャンペーンの電子メールレポートでのアセットのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [電子メールリンクのパフォーマンスレポート](email-link-performance-report.md)
