@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: デフォルトのブランドドメイン — Marketto Docs — 製品ドキュメントの編集
 title: デフォルトのブランドドメインの編集
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ブランドドメインを操作する際は、最初にデフォルトのブランドドメインを編集します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Marketoにブランディングドメインを追加する前に、DNS [](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) にCNAMEが設定されていることを確認してください。
 
