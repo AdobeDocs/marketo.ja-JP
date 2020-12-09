@@ -3,9 +3,9 @@ unique-page-id: 10094576
 description: 永続的な登録解除 — Marketto Docs — 製品ドキュメント
 title: 永続的な登録解除
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ SOAP APIを使用して既存のユーザーを更新します。
 
 updateLeadEmailStatusと *resetLeadEmailStatusのデータ値の変更定義は* 、 *このコミュニティの記事* で確認できます [](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[登録解除](understanding-unsubscribe.md)
 
