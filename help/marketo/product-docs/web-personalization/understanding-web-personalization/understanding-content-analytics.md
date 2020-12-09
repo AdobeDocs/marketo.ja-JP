@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: コンテンツ分析 — Marketto Docs — 製品ドキュメントについて
 title: コンテンツ分析について
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ Analyticsテーブルには、次の詳細が表示されます。
 
 コンテンツの分析ページで、削除するコンテンツの削除アイコンをクリックします。 コンテンツを削除することを確認するメッセージが表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [コンテンツレコメンデーションバーの有効化](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Webリッチメディアの予測コンテンツを有効にする](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
