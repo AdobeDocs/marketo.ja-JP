@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: テンプレートを使用したWebキャンペーンーの作成 — Marketto Docs — 製品ドキュメント
 title: テンプレートを使用したWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ ht-degree: 0%
 
 うまくいった！ テンプレートを使ってどのくらいの時間を節約したか見ましたか。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [キャンペーンをテンプレートとして保存](save-your-campaign-as-a-template.md)
 
