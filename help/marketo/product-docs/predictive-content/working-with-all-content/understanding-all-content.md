@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: すべてのコンテンツについて — Marketto Docs — 製品ドキュメント
 title: すべてのコンテンツについて
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
 1. 現在は、選択した日付範囲のコンテンツの解析が表示されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [追加新しいコンテンツ](add-new-content.md)
 >* [コンテンツを削除](delete-content.md)
