@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: エンタープライズキー — Marketto Docs — 製品ドキュメントを使用してOutlook用追加Marketo-inをインストールする
 title: エンタープライズキーを使用したOutlook用Marketing 追加-inのインストール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 セールス担当者は、ノートパソコンに対する管理者権限を持たないことが多く、ITチームは、すべてのソフトウェアをリモートでインストールする必要があります。 Outlook用のMarketing-追加inは、この方法でEnterprise Keyを使用してインストールできます。Enterprise Keyは、管理者の「Sales Insight」セクションにあります。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >管理者は、Marketor Email 追加 In Licenseを [発行している必要があります](issue-a-marketo-email-add-in-license.md)。
 
