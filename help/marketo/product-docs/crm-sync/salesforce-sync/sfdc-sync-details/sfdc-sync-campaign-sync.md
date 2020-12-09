@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC同期 —キャンペーン同期 — Marketto Docs — 製品ドキュメント
 title: SFDC同期 —キャンペーン同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Marketo **プログラムメンバー** とその** [進行状態](../../../../p
 >
 >SalesforceキャンペーンとマッピングされたMarketoプログラムに互換性のないプログラムステータスがある場合は、エラーメッセージが表示される場合があります。 同期の前に、プログラムのステータスを [一致させることをお勧めします](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [SFDCキャンペーンとプログラムの同期](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [プログラムメンバーシップについて](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
