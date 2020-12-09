@@ -2,7 +2,7 @@
 title: delete-a-stream
 description: ストリームの削除
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 「 [!UICONTROL **Streams**] 」タブをクリックします。
+1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >ストリームを削除すると、
    >そのストリーム内のコンテンツ。
 
-1. 歯車アイコンをクリックし、「 [!UICONTROL **削除**]」を選択します。
+1. 歯車アイコンをクリックし、「 **[!UICONTROL 削除]**」を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
