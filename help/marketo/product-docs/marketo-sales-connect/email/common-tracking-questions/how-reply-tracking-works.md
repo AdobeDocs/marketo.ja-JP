@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: 返信トラッキングの仕組み — Marketto Docs — 製品ドキュメント
 title: 返信追跡の仕組み
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 返信追跡は、送信するすべての電子メールに含まれるメッセージIDを調べることで行われます。 すべての電子メールには一意のメッセージIDが含まれており、このIDを使用して、最適な返信追跡をいくつか行うことができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >**電子メールサーバーとの接続：** 新しい返信が届いた時点を知るには、Sales Connectを受信トレイに接続する必要があります。 Gmailに [接続するSales Connectアカウントが必要です](http://docs.marketo.com/x/kYMOAQ)。 Outlookを使用している場合は、 [Exchangeサーバーとの統合が必要です](http://toutapp.com/next#settings/exchange_settings)。
 
