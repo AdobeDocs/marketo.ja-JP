@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: 売上高サイクルモデルでのすべてのリードの検索 — Marketto Docs — 製品ドキュメント
 title: 売上高サイクルモデルでのすべてのリードの検索
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 スマートリストを使用すると、売上高サイクルモデルのすべてのメンバーを簡単に見つけることができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
