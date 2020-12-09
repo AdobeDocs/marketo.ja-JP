@@ -2,7 +2,7 @@
 title: 設定イベント目標
 description: イベント目標の設定方法
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 「 [!UICONTROL 登録済み] 」と「 [!UICONTROL 詳細]」に目標を入力し、「作成 [!UICONTROL **」をクリックします(出席済みは**] 説明、出席済みはオプション )。
+1. 「 [!UICONTROL 登録済み] 」と「 [!UICONTROL 詳細]」に目標を入力し、「作成 **[!UICONTROL 」をクリックします(出席済みは]** 説明、出席済みはオプション )。
 
    ![イメージ1](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
