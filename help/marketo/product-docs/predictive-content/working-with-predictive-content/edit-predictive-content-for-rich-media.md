@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: リッチメディアの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
 title: リッチメディアの予測コンテンツの編集
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 リッチメディア用の予測コンテンツを設定する方法を次に示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >予測に使用できるコンテンツは、すべてのコンテンツページで [承認する必要があります](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 。
 
