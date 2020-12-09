@@ -2,7 +2,7 @@
 title: using-the-プログラム-setup-tab
 description: 「プログラム設定」タブの使用
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 追加タグ
 
-1. 「 [!UICONTROL タグ] 」セクションで、「 [!UICONTROL **属性**] 」ドロップダウンをクリックし、使用可能なオプションからタグ属性を選択します。
+1. 「 [!UICONTROL タグ] 」セクションで、「 **[!UICONTROL 属性]** 」ドロップダウンをクリックし、使用可能なオプションからタグ属性を選択します。
 
    ![イメージ3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 「 [!UICONTROL **値**] 」ドロップダウンをクリックし、使用可能なオプションからタグ値を選択します。 をクリックし [!UICONTROL **追加ます**]。
+1. 「 **[!UICONTROL 値]** 」ドロップダウンをクリックし、使用可能なオプションからタグ値を選択します。 をクリックし **[!UICONTROL 追加ます]**。
 
    ![画像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 追加期間原価
 
-1. 「 [!UICONTROL 期間コスト] 」セクションで、月を選択し、コストを入力し、短い名前または説明を追加します。 をクリックし [!UICONTROL **追加ます**]。
+1. 「 [!UICONTROL 期間コスト] 」セクションで、月を選択し、コストを入力し、短い名前または説明を追加します。 をクリックし **[!UICONTROL 追加ます]**。
 
    ![画像6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
