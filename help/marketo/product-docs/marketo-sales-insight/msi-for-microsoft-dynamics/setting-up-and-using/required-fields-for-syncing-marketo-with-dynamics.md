@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: MarketorをDynamics - Marketto Docs — 製品ドキュメントと同期するための必須フィールド
 title: マーケティングとDynamicsを同期するための必須フィールド
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Sales Insightが機能するに *は* 、これらのフィールドをMarketor�
 >
 >同期が実行されるまで少なくとも10分待ってから、問題が修正されたことを確認してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[リード/接触レコードの星と炎の設定](http://docs.marketo.com/x/BICMAg)
 
