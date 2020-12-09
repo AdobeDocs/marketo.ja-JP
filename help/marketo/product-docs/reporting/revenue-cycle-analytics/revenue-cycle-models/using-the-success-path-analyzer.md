@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: 成功パスアナライザーの使用 — Marketto Docs — 製品ドキュメント
 title: 成功パスアナライザの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 成功パスアナライザーを使用して、 [売上高サイクルモデルの段階を通して訪問者のフロー（量）と速度（日単位の速度）の両方を反映した具体的な詳細を調べます](understanding-revenue-models.md)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[成功パスアナライザーの作成](create-a-success-path-analyzer.md)
 
