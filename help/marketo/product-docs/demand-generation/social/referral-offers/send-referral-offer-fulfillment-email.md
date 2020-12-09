@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 照会オファーの受渡通知電子メールを送信 — Marketto Docs — 製品ドキュメント
 title: 照会オファーの受渡通知電子メールの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 オファー購読提供数電子メールを使用して、クーポンと割引コードを利用して顧客に報酬を提供します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Social Promotionでの電子メールの使用](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [照会オファーの作成](create-a-referral-offer.md)
