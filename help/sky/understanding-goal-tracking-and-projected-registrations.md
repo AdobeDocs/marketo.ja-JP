@@ -2,7 +2,7 @@
 title: 目標追跡と予測登録の理解
 description: 目標追跡と予測登録について
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 目標追跡と登録の予測
 
-1. 目標追跡の詳細は、イベントプログラムの「 [!UICONTROL **レポート**] 」タブで確認できます。 この例では、現在のところ、200(75%)という目標に対して150人の会員が登録されています。
+1. 目標追跡の詳細は、イベントプログラムの「 **[!UICONTROL レポート]** 」タブで確認できます。 この例では、現在のところ、200(75%)という目標に対して150人の会員が登録されています。
 
    ![イメージ1](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-また、 [!UICONTROL **予測登録も表示されます**] 。 情報アイコンの上にカーソルを置くと、尤度セグメントによるこの数の分類が表示されます。
+また、 **[!UICONTROL 予測登録も表示されます]** 。 情報アイコンの上にカーソルを置くと、尤度セグメントによるこの数の分類が表示されます。
 
 ![イメージ2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 人間レベルの予測
 
-「[!UICONTROL **メンバー**] 」タブをクリックして、すべてのプログラムメンバーを表示します。 「 [!UICONTROL **登録の確率**] 」または「 [!UICONTROL **出席の確率**] 」のバーにマウスポインターを置くと、正確な割合と分類が表示されます。 その後、特定のカテゴリのメンバー(「可能性が低い」メンバー全員がカテゴリを登録する)に対して行動を起こし、特に登録番号を増やす可能性を高めるようにターゲットできます。
+「**[!UICONTROL メンバー]** 」タブをクリックして、すべてのプログラムメンバーを表示します。 「 **[!UICONTROL 登録の確率]** 」または「 **[!UICONTROL 出席の確率]** 」のバーにマウスポインターを置くと、正確な割合と分類が表示されます。 その後、特定のカテゴリのメンバー(「可能性が低い」メンバー全員がカテゴリを登録する)に対して行動を起こし、特に登録番号を増やす可能性を高めるようにターゲットできます。
 
 ![画像7](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
