@@ -3,9 +3,9 @@ unique-page-id: 1147154
 description: SFDCキャンペーンとプログラムの同期 — Marketto Docs — 製品ドキュメント
 title: SFDCキャンペーンとプログラムの同期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketorでは、プログラムをSalesforceキャンペーンと同期して、ステータスを含む両方のシステムで同じリストを維持できます。 始めよう！
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >まず、Salesforceキャンペーン同期を [有効にする必要があります](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 。
 
