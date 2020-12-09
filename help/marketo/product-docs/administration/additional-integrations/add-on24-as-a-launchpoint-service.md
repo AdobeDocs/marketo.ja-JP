@@ -3,9 +3,9 @@ unique-page-id: 7512276
 description: LaunchPointサ追加ービスとしてのON24 - Marketto Docs — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのON24
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Marketorは、ON24ウェビナーの登録と出席を管理します。
 
    ![](assets/on24.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >ON24でウェビナーイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)。
 
