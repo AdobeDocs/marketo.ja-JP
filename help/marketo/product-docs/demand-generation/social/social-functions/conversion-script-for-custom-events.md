@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: カスタムイベント- Marketto Docs — 製品ドキュメントのコンバージョンスクリプト
 title: カスタムイベントのコンバージョンスクリプト
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 すごい！ Webサイトで、Marketoを使用したカスタムソーシャルプロモーションの目標を捕捉するようになりました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [照会オファーの目標の指定](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [照会オファーの作成](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
