@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 電子メールプログラム向けの主要開始- Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムのヘッド開始
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 電子メールプログラムのヘッド開始 {#head-start-for-email-programs}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
