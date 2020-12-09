@@ -3,9 +3,9 @@ unique-page-id: 557331
 description: 売上高の段階ですべての人を検索 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 売上高の段階ですべての人を検索
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 売上高の段階ですべての人を検索 {#find-all-people-in-a-revenue-stage}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
