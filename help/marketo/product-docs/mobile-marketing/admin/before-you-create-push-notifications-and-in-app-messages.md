@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: プッシュ通知とアプリ内メッセージを作成する前に、Marketo Docs — 製品ドキュメントを参照してください。
 title: プッシュ通知とアプリ内メッセージを作成する前に
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 アプリ内メッセージとプッシュ通知の準備が完了したら、始める時間です。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [アプリ内メッセージの作成](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
