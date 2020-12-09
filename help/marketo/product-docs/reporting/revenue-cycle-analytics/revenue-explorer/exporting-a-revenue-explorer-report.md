@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: 売上高エクスプローラレポート — Marketto Docs — 製品ドキュメントのエクスポート
 title: 売上高エクスプローラ・レポートのエクスポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ ht-degree: 0%
 
    甘い！ このファイルを送り、忍者のようなマーケティングスキルで仲間に印象を与えます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [売上高エクスプローラレポートの購読](subscribe-to-a-revenue-explorer-report.md)
 
