@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: URLビルダーの使用 — マーケティングドキュメント — 製品ドキュメント
 title: URLビルダーの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ URLビルダーは、Marketto非表示のフォームフィールドに値を入
 >
 >Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >フォーム内に非表示のフィールドを作成し、「フォームフィールドを非表示に [設定」でその設定を編集する方法を説明します](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)。
 
