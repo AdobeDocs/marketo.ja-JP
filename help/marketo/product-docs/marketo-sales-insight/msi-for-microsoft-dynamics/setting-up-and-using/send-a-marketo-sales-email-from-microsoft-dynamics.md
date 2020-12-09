@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Microsoft Dynamics - Marketto Docs — 製品ドキュメントからMarketto Salesの電子メールを送信する
 title: Microsoft DynamicsからのMarketto Sales電子メールの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
 うまくいった！ これで、Microsoft Dynamics内からMarketto追跡電子メールを直接送信する方法を理解できました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Microsoft Dynamics追加のMarketing Serverキャンペーンへのリード/連絡先](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
