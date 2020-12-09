@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: エンゲージメントプログラムについて — Marketto Docs — 製品ドキュメント
 title: エンゲージメントのプログラムについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [コンテンツを使い果たした人](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ ht-degree: 0%
 
 コンテンツエンゲージメントレベルは、マーケティング担当者がコンテンツを提供する0 ～ 100ポイントのスコアです。 この数値は、開く、クリック数、購読解除数、プログラムの成功などの要因を使用した高度な数式によって決定されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [エンゲージメントスコアについて](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
