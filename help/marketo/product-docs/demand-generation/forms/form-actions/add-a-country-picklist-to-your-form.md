@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: フ追加ォームへの国選択リスト — Marketto Docs — 製品ドキュメント
 title: フ追加ォームの国選択リスト
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 それが簡単だったので、それ以上やらない？ ユーザーがリストで米国を国として選択した場合に、州フィールドを動的に表示する方法を教えてください。 その方法については、以下の関連記事を参照してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [フォームフィールドの表示/非表示を動的に切り替える](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
