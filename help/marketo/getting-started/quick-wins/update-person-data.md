@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: 個人データの更新 — Marketto Docs — 製品ドキュメント
 title: 個人データの更新
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [設定と追加人](get-set-up-and-add-a-person.md)
 >* [人物のリストのインポート](import-a-list-of-people.md)
