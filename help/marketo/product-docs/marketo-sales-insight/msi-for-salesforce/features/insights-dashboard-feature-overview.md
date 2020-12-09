@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: インサイトダッシュボード機能の概要 — Marketto Docs — 製品ドキュメント
 title: インサイトダッシュボード機能の概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 販売インサイトダッシュボードで利用できる機能の詳細を表示します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >最新のMSI SFDCパッケージと [設定が必要です](http://docs.marketo.com/x/F4GMAg)。
 
