@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: スマートリスト- Marketto Docs — 製品ドキュメントからの単一フローステップの実行
 title: スマート・リストからの単一フロー・ステップの実行
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 1回限りのフローステップを実行する場合は、スマートキャンペーン全体を作成する代わりに、スマートリスト内で1つのフローステップを使用できます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
