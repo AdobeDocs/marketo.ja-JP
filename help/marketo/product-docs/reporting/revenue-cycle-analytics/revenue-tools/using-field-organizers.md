@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: フィールド主催者 — マーケティング担当者ドキュメント — 製品ドキュメントの使用
 title: フィールドオーガナイザーの使用
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ ht-degree: 0%
 
 必要に応じて、同じ方法でフィールドオーガナイザーを追加します。 そして、あなたはそこにいます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[フィールドオーガナイザーを使用したカスタムフィールドグループの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
