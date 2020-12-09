@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントで直接エントリを編集
 title: マーケティングカレンダーでのエントリの直接編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
 
 それだ！ 表示されるように、マーケティングカレンダーから直接実行できることは多数あります。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マーケティングカレンダーでのエントリの直接削除](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
