@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Marketoとは何ですか。 - Marketto Docs — 製品ドキュメント
 title: Marketoとは何ですか。
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 ## なぜまだ質問を？ {#why-am-i-still-asking-questions}
 
-分かりませんが、喜んで助けます。 一緒にいる！
+分かりませんが、私たちは喜んで助けます。 一緒だ！
