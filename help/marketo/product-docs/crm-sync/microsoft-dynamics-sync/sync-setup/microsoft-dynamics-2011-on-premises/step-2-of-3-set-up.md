@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: 手順2 / 3 - Dynamics (2011 On-Premises)のMarketo同期ユーザーを設定する — Marketto Docs — 製品ドキュメント
 title: 手順2 / 3 - DynamicsでのMarketo Syncユーザーの設定(2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 前の手順を完了した素晴らしい作業を続けます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [手順1/3:Marketo Solution(2011 On-Premises)のインストール](step-1-of-3-install.md)
 
