@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Field Sync - Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — フィールド同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Marketoと同期するフィールドは何ですか。
 
 いつでもフィールドを追加でき、DynamicsからMarketorにデータが更新されるように期待できます。 詳細については、 [「新しいカスタムフィールドに対してMicrosoft Dynamicsとのクイック同期を使用する](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) 」を参照してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 
