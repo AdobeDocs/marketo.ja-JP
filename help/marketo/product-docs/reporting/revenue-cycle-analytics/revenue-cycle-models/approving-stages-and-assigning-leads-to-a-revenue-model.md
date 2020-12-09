@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: ステージの承認とリードの売上高モデルへの割り当て — Marketto Docs — 製品ドキュメント
 title: ステージの承認と売上高モデルへのリードの割り当て
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >モデルを承認するには、ヘルプページの「**売上高モデルの [承認と未承認](approve-unapprove-a-revenue-model.md)*」を参照してください。
 
