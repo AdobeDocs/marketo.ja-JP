@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: ネイティブ以外のSalesforce統合向けのSales Insight - Marketto Docs — 製品ドキュメント
 title: ネイティブ以外のSalesforce統合に関するSales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketoアカウントが、カスタマイズされた統合または非ネイティブの統合を通じてSalesforceに接続している場合は、このドキュメントを使用してSales Insightを設定します。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Marketing Suiteのインスタンスに対して「MSI非ネイティブ」機能を有効にするには、Customer Success Managerにお問い合わせください。
 >* MSIパッケージが設定されたSalesforceアカウント。
