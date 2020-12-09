@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Dynamics検証の同期の問題を修正 — Marketto Docs — 製品ドキュメント
 title: Dynamics検証の同期の問題を修正
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Microsoft Dynamicsにアクセスして、Marketoのインストール ![](asset
 
 ここに ![](assets/delete.png) — がある場合は、Microsoft DynamicsのMarketto Configのデフォルト設定手順の「Marketo User」フィールドに適切な同期ユーザーを割り当ててください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[Microsoft Dynamics同期の検証](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
