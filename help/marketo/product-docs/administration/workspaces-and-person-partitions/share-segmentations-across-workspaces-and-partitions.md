@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: ワークスペースとパーティションでセグメントを共有 — Marketto Docs — 製品ドキュメント
 title: ワークスペースとパーティション間でセグメントを共有
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # ワークスペースとパーティション間でセグメントを共有 {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >この記事は、ワークスペースとパーティションを持つお客様向けです
 
