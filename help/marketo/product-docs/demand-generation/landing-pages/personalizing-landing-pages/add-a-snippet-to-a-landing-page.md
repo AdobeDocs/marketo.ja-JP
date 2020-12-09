@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: ランディングページ- Marketto Docs — 製品ドキュメ追加ントへのスニペット
 title: ランディングページ追加のスニペット
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 スニペットは、HTMLの一部で、ルールに従ってパーソナライズされたコンテンツを保持することができます。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [スニペットの作成](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
