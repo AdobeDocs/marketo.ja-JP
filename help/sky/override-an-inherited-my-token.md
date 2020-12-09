@@ -2,7 +2,7 @@
 title: override-an-inherited-my-token
 description: 継承したマイトークンの上書き
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. トークンの [!UICONTROL **値をクリックし**] 、変更します。 このトークンの値を変更すると、自動的に「 [!UICONTROL 上書きされたトークン] 」セクションに移動されます。
+1. トークンの **[!UICONTROL 値をクリックし]** 、変更します。 このトークンの値を変更すると、自動的に「 [!UICONTROL 上書きされたトークン] 」セクションに移動されます。
 
    ![イメージ2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
