@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: モバイル追加アプリ — Marketto Docs — 製品ドキュメント
 title: モバイル追加アプリ
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    ナイス！ 次に、AndroidおよびiOSデバイスで動作するようにアプリを設定します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [モバイルアプリのAndroidプッシュアクセスの設定](configure-mobile-app-android-push-access.md)
 >* [モバイルアプリのiOSプッシュアクセスの設定](configure-mobile-app-ios-push-access.md)
