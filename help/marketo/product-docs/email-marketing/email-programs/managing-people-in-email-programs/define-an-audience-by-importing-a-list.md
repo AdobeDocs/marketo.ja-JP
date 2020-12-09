@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: リストのインポート — Marketto Docs -オーディエンスドキュメント
 title: リストのインポートによるオーディエンスの定義
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # リストのインポートによるオーディエンスの定義 {#define-an-audience-by-importing-a-list}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >[電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
