@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: 既存顧客の設定 — Marketto Docs — 製品ドキュメント
 title: 既存のお客様の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 新しいインサイトダッシュボードの使用を開始するには、次の設定を行ってください。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >Salesforceパッケージを最新バージョンにアップグレードしたことを確認してください
 
