@@ -2,7 +2,7 @@
 title: schedule-a-batch-smart-キャンペーン — 後で実行
 description: バッチスマートキャンペーンを後で実行するようにスケジュールする
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 「 [!UICONTROL **スケジュール**] 」タブに移動し、「実行 [!UICONTROL **」をクリックし**]&#x200B;追加ます。
+1. 「 **[!UICONTROL スケジュール]** 」タブに移動し、「実行 **[!UICONTROL 」をクリックし]**&#x200B;追加ます。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 「 [!UICONTROL **実行日時を**]&#x200B;設定」を選択し、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日付を選択します。
+1. 「 **[!UICONTROL 実行日時を]**&#x200B;設定」を選択し、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日付を選択します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 「 [!UICONTROL **確認**]」をクリックします。
+1. 「 **[!UICONTROL 確認]**」をクリックします。
 
    ![画像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
