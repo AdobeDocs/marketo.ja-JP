@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Analyticsカードについて — Marketto Docs — 製品ドキュメント
 title: Analyticsカードについて
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Unsubscribes **カードには** 、過去6か月間の登録解除率を示す1
 
 分かった。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [マーケティングの場面について](understanding-marketo-moments.md)
 >* [イベントカードについて](understanding-event-cards.md)
