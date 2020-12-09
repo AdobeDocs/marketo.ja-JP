@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムステップ2 / 3 - Marketto Docs — 製品ドキュメントのインストール
 title: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順2/3
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 優れたジョブが前の手順を完了しています。 これからも続けていこう。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順1/3](step-1-of-3-install.md)
 
