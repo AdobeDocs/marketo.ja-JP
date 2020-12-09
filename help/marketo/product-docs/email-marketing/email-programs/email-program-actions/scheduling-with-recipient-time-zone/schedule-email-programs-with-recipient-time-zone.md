@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 受信者のタイムゾーンでの電子メールプログラムのスケジュール — Marketto Docs — 製品ドキュメント
 title: 受信者のタイムゾーンでの電子メールプログラムのスケジュール
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 >
 >電子メールの送信を開始してから実際に配信されるまでに登録を解除しても、その電子メールはすべて受信されます。 購読解除の通知を調整して、購読解除の処理に1 ～ 2営業日かかる場合があることを反映することをお勧めします。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [受信者のタイムゾーンについて](understanding-recipient-time-zone.md)
 >* [電子メールプログラムのヘッド開始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
