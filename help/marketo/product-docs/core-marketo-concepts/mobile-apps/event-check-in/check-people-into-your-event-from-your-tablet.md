@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: タブレット — Marketto Docs — 製品ドキュメントから、ユーザーをイベントにチェックインします。
 title: タブレットからイベントにユーザーをチェックイン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 >
 >Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* Marketorでイベントを作成し、招待ユーザーおよび登録ユーザーを使用して設定します。
 >* [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)[またはiOS用タブレットアプリをダウンロードする](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
