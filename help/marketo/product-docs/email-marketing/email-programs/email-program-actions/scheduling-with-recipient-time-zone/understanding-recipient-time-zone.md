@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: 受信者のタイムゾーンについて — Marketto Docs — 製品ドキュメント
 title: 受信者のタイムゾーンについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Marketorは、人の市区町村、都道府県、国または郵便番号に基
 >
 >上記の入力フィールドのいずれかが変更された場合に、ユーザーのタイムゾーンが自動的に再計算されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](schedule-email-programs-with-recipient-time-zone.md)
 >* [電子メールプログラムのヘッド開始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
