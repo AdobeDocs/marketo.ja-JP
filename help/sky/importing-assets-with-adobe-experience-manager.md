@@ -2,7 +2,7 @@
 title: importing-assets-with-adobe-experience-manager
 description: Adobe Experience Managerでのアセットの読み込み
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -26,15 +26,15 @@ Asset Pickerを使用すると、AEMアセットにアクセス、選択およ�
 >
 >現在、この機能はFirefoxでのみ完全にサポートされています。 Safariではサポートされていないため、SameSite Cookieの設定によっては、最新バージョンのChromeでは動作しない場合があります。
 
-1. Design [!UICONTROL Studioで]、「 [!UICONTROL **画像とファイル」を選択します**]。
+1. Design [!UICONTROL Studioで]、「 **[!UICONTROL 画像とファイル」を選択します]**。
 
    ![イメージ1](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 「 [!UICONTROL 画像とファイル] 」ドロップダウンをクリックし、「画像またはファイルの [!UICONTROL **読み込み」を選択します**]。
+1. 「 [!UICONTROL 画像とファイル] 」ドロップダウンをクリックし、「画像またはファイルの **[!UICONTROL 読み込み」を選択します]**。
 
    ![イメージ2](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. の横のラジオボタンをクリックし、「 [!DNL Adobe Experience Manager] 次へ [!UICONTROL ****]」をクリックします。
+1. の横のラジオボタンをクリックし、「 [!DNL Adobe Experience Manager] 次へ ****」をクリックします。
 
    ![イメージ3](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ Asset Pickerを使用すると、AEMアセットにアクセス、選択およ�
 
    ![画像4](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. フォルダーを選択します。 目的の画像を選択し（10個まで選択できます）、「 [!UICONTROL **選択**]」をクリックします。
+1. フォルダーを選択します。 目的の画像を選択し（10個まで選択できます）、「 **[!UICONTROL 選択]**」をクリックします。
 
    ![画像5](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Asset Pickerを使用すると、AEMアセットにアクセス、選択およ�
    >
    >画像のサイズは100 MBを超えることはできません。
 
-1. 選択した画像を確認し、保存先フォルダー([!UICONTROL 画像とファイル] が初期設定)を選択して、 [!UICONTROL **「次へ**]」をクリックします。
+1. 選択した画像を確認し、保存先フォルダー([!UICONTROL 画像とファイル] が初期設定)を選択して、 **[!UICONTROL 「次へ]**」をクリックします。
 
    ![画像6](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-それだ！ 「 [!UICONTROL **閉じる**] 」をクリックして、画像とファイルに戻ります。
+それだ！ 「 **[!UICONTROL 閉じる]** 」をクリックして、画像とファイルに戻ります。
 
 ![画像7](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
