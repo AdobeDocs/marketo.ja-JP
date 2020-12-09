@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析について
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketing Suiteでは、CRM IDを使用してアカウントを一意に識別�
 >
 >取引を終了するたびに、次の日にこの分析計で検索します。 営業担当者と共有します。 お客様が行うすべての作業に気がつきます。さらに、特定のユーザーが「影響力のある人物」と見なされ、CRMでの役割が割り当てられていない理由を尋ねることもできます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Opportunity Influence Analyzerでマーケティング事例を伝える](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [オポチュニティ影響分析計の作成](create-an-opportunity-influence-analyzer.md)
