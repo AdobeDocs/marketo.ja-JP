@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: スマートキャンペーン結果のフィルター — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーン結果のフィルター
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # スマートキャンペーン結果のフィルター {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**前提条件**
+>[!PREREQUISITES]
 >
 >* [表示スマートキャンペーンの結果](view-smart-campaign-results.md)
 
