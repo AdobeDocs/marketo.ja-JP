@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: セットアップチェックリスト — Marketto Docs — 製品ドキュメント
 title: セットアップチェックリスト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # セットアップチェックリスト {#setup-checklist}
 
-マーケットへようこそ！ 以下のチェックリストは、使い始めるための視覚的なリストとして自由に使用してください。 詳しくは、 [セットアップ手順](../../getting-started/setup-steps.md)。
+マーケットへようこそ！ 以下のチェックリストは、使い始めるための視覚的なリストとして自由に使用してください。 詳しくは、 [セットアップ手順](/help/marketo/getting-started/setup-steps.md)。
 
 ## マーケティング担当者へのログインと追加ユーザーの作成 {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 1. IT部門に電子メールCNAME用のDNSレコードを設定するよう依頼する
 1. 許可リストマーケティング担当者にITに質問
 1. Admin領域でのDKIMおよびSPFの設定
-1. FromDomain1に対するMXの設定 []
+1. MXの設定 `[FromDomain1]`
 1. 電子メールCNAMEの使用が完了したら、Marketorで電子メールCNAMEを設定します
 
 ## ランディングページおよび電子メールテンプレート用のURLの送信 {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[設定手順](../../getting-started/setup-steps.md)
-
+>[設定手順](/help/marketo/getting-started/setup-steps.md)
