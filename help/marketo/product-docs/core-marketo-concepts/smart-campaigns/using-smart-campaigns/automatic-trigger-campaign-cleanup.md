@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: 自動トリガーキャンペーンのクリーンアップ — Marketto Docs — 製品ドキュメント
 title: 自動トリガーキャンペーンのクリーンアップ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 自動トリガーキャンペーンのクリーンアップ {#automatic-trigger-campaign-cleanup}
 
 Marketoには、アクティビティを得られなくなったトリガーされたスマートキャンペーンを非アクティブ化する優れたサービスと無料のサービスがあります。 これにより、システム全体のパフォーマンスが向上し、時間を節約できます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 何が起こる？ {#what-happens}
 
