@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: 個人データの更新 — Marketto Docs — 製品ドキュメント
 title: 個人データの更新
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## ミッション：個人の連絡先情報またはその他のデータの更新 {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
->* [人物のリストのインポート](import-a-list-of-people.md)
-
->
-
+>* [設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 最近のトレードショーで人から追加の連絡先情報が提供されたとします 個人データの更新方法を次に示します。
@@ -52,7 +43,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketorで人物データを更新する方法は多数あります。 詳しくは、「人物のリストの [読み込み](import-a-list-of-people.md) 」および「データ値の [変更](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)」を参照してください。
+   >Marketorで人物データを更新する方法は多数あります。 詳しくは、「人物のリストの [読み込み](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 」および「データ値の [変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)」を参照してください。
 
 ## 個人データの更新 {#update-the-person-data}
 
@@ -70,4 +61,6 @@ ht-degree: 0%
 
 <br> 
 
-[エスケアミッション8:セールス担当](alert-the-sales-rep.md)[ミッション10に警告：ランディングページのリダイレクトjpk}](redirect-a-landing-page.md)
+[エスケアミッション8:販売担当者に警告する](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[ミッション10:ランディングページのリダイレクトjpk}](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
