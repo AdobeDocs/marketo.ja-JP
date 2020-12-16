@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 個人の詳細ページ — Marketto Docs — 製品ドキュメントの使用
 title: 「個人詳細」ページの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 「個人詳細」ページの使用 {#using-the-person-detail-page}
 
 個人の詳細ページには、Marketing担当者が個人について知っているすべての情報が含まれます。 このページからデータを直接編集できます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 「人物の詳細」ページ {#getting-to-person-detail-page}
 
