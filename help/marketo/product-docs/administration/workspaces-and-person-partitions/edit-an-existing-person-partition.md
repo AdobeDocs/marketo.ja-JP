@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 既存の人物パーティションの編集 — Marketto Docs — 製品ドキュメント
 title: 既存の人物パーティションの編集
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 既存の人物パーティションの編集 {#edit-an-existing-person-partition}
 
 人間のパーティションは、第2（または第3）のデータベースを持つようなものです。 パーティションは、1つ以上のワークスペースにフックできます。 パーティションの詳細を編集する方法を次に示します。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
