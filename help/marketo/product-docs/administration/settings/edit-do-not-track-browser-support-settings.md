@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: 「追跡しない」ブラウザーサポート設定の編集 — Marketto Docs — 製品ドキュメント
 title: 「追跡しない」ブラウザーサポート設定の編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # 「追跡しない」ブラウザーサポート設定の編集 {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 「追跡しない」は、Marketoなどのシステムで追跡されないブラウザーリクエストです。 次の手順に従って、そのリクエストを受け入れることができます。
 
