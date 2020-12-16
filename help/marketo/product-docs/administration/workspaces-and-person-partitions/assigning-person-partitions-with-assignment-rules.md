@@ -3,21 +3,15 @@ unique-page-id: 2360327
 description: 割り当てルールを使用した個人パーティションの割り当て — Marketto Docs — 製品ドキュメント
 title: 割当ルールを使用した個人パーティションの割当
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 
 # 割当ルールを使用した個人パーティションの割当 {#assigning-person-partitions-with-assignment-rules}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
