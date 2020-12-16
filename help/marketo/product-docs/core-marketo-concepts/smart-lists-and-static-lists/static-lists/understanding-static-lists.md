@@ -3,21 +3,15 @@ unique-page-id: 2949891
 description: 静的リストについて — Marketto Docs — 製品ドキュメント
 title: 静的リストについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 
 # 静的リストについて {#understanding-static-lists}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 静的リストは、Marketoの最も単純で役に立つ機能の1つです。 これらは、データベースの名前のリストに過ぎません。 使う理由はたくさんあります。
 
