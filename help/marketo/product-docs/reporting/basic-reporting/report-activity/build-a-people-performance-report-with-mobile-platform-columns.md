@@ -3,9 +3,9 @@ unique-page-id: 2951220
 description: モバイルプラットフォーム列 — Marketto Docs — 製品ドキュメントを含む人物パフォーマンスレポートの作成
 title: モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 モバイルプラットフォーム(iOS/Android)の列を含む人物のパフォーマンスレポートを作成するには、次の手順に従います。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## モバイルスマートリストの作成 {#create-mobile-smart-lists}
 
