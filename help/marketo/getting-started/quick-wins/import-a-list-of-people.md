@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 人物のリストの読み込み — Marketto Docs — 製品ドキュメント
 title: 人物のリストのインポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## ミッション：出席者のトレードショーのスプレッドシートリストをデータベースにインポートする {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
+>[設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  このチュートリアルでは、スプレッドシートファイルからMarketoに人をインポートする方法を学びます。
+このチュートリアルでは、スプレッドシートファイルからMarketoに人をインポートする方法を学びます。
 
 ## 手順1:スプレッドシートのダウンロードと編集 {#step-download-and-edit-a-spreadsheet}
 
-1. 開始を行うには、プラクティスのスプレッドシートファイル(** [tradeshow-attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**)をお使いのコンピューターにダウンロードしてください。
+1. 開始を行うには、練習用のスプレッドシートファイル([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv))をお使いのコンピューターにダウンロードしてください。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >日付をインポートする場合は、次の形式を使用します。 **9/21/15** （月/日/年）
+   >日付をインポートする場合は、次の形式を使用します。 **9/21/20** （月/日/年）
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **プログラムに「My Tradeshowプログラム」という名前を付け** 、「 **プログラムタイプ」で「イベント」を選択します。**
+1. **プログラムに「My Tradeshowプログラム** 」という名前を付け、「 **プログラムタイプ**」で「イベント」を選択します。
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->イベントプログラムは特定の日付に発生します。 詳しくは、 [**イベントを参照してください**](http://docs.marketo.com/display/docs/events)。
+>イベントプログラムは特定の日付に発生します。 詳しくは、 [**イベントを参照してください**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)。
 
 ## 手順3:スプレッドシートのMarketorへのインポート {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >リストインポートモードで「新しいユーザーと更新を **スキップ」を選択すると** 、既存のユーザーのレコードに影響したり、アクティビティを記録したりすることはありません。 マーケティングアクティビティで使用する既存のユーザーを、事前にフィルタリングされた迅速な静的リストにしたい場合に、このモードを使用します。 このモードを選択すると、次の操作が行われます。
    >
-   >    
-   >    
-   >    * 新しい人物の作成をスキップ
-   >    * 個人フィールドの更新をスキップ
-   >    * アクティビティログをスキップ
+   > * 新しい人物の作成をスキップ
+   > * 個人フィールドの更新をスキップ
+   > * アクティビティログをスキップ
 
 
 1. 「リスト列」フィールドを対応する「マーケティング先フィールド」にマップし、「 **次へ**」をクリックします。
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >最適な自動マッピングの結果を得るには、列見出しは常にフィールドと完全に一致する（大文字と小文字が区別されます）必要があります。 カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻ってカスタムフィールドを [作成し](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) 、オプションにできるようにします。
+   >最適な自動マッピングの結果を得るには、列見出しは常にフィールドと完全に一致する（大文字と小文字が区別されます）必要があります。 カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻ってカスタムフィールドを [作成し](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 、オプションにできるようにします。
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。 詳しくは、 [**プログラムを参照してください**](http://docs.marketo.com/display/docs/programs)。
+>プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。 詳しくは、 [**プログラムを参照してください**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)。
 
 ## ミッション完了 {#mission-complete}
 
@@ -158,4 +138,6 @@ ht-degree: 0%
 
 <br> 
 
-[エスケアミッション4:電子メール自動応答](email-auto-response.md)[ミッション6:ドリップ、ドリップ、Nurture §](drip-drip-nurture.md)
+[エスケアミッション4:電子メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[ミッション6:ドリップ、ドリップ、Nurture §](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
