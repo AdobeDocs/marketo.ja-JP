@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: 人々のパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 人物パフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 人物パフォーマンスレポート {#people-performance-report}
 
 人物パフォーマンスレポートは、時間の経過に伴うデータベースの増加を測定する場合に使用します。 追加したユーザーの数と追加日時を確認できます。 ユーザーの詳細とプログラムの評価を表示します。 結果を任意の人、会社属性、または [セグメント化によってグループ化します](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. [レポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、「 **人物パフォーマンス** 」 [](report-type-overview.md)レポートタイプを選択します。
 1. [レポートの期間を設定し、](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 「 **レポート** 」タブをクリックします。
