@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: ワークスペースと個人パーティションについて — Marketto Docs — 製品ドキュメント
 title: ワークスペースと個人パーティションの理解
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # ワークスペースと個人パーティションの理解 {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## Workspaces {#workspaces}
 
