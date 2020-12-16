@@ -3,21 +3,15 @@ unique-page-id: 1146987
 description: フローステップの削除 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: フローステップの削除
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 
 # フローステップの削除 {#delete-a-flow-step}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!CAUTION]
 >
