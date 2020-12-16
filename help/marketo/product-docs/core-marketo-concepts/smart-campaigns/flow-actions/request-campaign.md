@@ -3,9 +3,9 @@ unique-page-id: 2951703
 description: リクエストキャンペーン- Marketto Docs — 製品ドキュメント
 title: リクエストキャンペーン
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # リクエストキャンペーン {#request-campaign}
 
 リク **エストキャンペーンのシングルフロー手順を使用すると、特定のキャンペーンにユーザーを配置できます** 。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
