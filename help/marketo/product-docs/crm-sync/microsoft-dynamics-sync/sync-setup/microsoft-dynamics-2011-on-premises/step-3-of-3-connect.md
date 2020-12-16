@@ -3,21 +3,15 @@ unique-page-id: 3571809
 description: 手順3/3 - Microsoft DynamicsとMarketoの接続（2011オンプレミス） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - Microsoft DynamicsとMarketoの接続（2011オンプレミス）
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
 
 # 手順3/3:Microsoft DynamicsとMarketoの接続（2011オンプレミス） {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 よし！ ソリューションをインストールし、同期ユーザーを構成しました。 次に、MarketoとDynamicsを結び付ける必要があります。
 
