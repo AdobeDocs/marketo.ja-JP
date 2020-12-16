@@ -3,21 +3,15 @@ unique-page-id: 1147013
 description: エンゲージメントプログラムカデンスの変更 — Marketto Docs — 製品ドキュメント
 title: アクションプログラムカデンスの変更
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # アクションプログラムカデンスの変更 {#change-engagement-program-cadence}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 概要
 
