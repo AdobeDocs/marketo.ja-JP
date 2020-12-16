@@ -3,21 +3,15 @@ unique-page-id: 10095358
 description: Googleメール — Marketto Docs -表示ドキュメントの製品者とアカウントの情報とアクティビティ
 title: Googleメールの表示担当者とアカウント情報およびアクティビティ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 
 # Googleメールの表示担当者とアカウント情報およびアクティビティ {#view-person-and-account-information-and-activities-in-google-mail}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## Googleメールの表示アクティビティ {#view-activities-in-google-mail}
 
