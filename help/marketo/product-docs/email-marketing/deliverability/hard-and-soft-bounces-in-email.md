@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 電子メール内のハード&ソフトバウンス — Marketto Docs — 製品ドキュメント
 title: 電子メール内のハードバウンスとソフトバウンス
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 電子メール内のハードバウンスとソフトバウンス {#hard-and-soft-bounces-in-email}
 
 ハードバウンスを行うと、電子メールサーバーが、その人の電子メールを配信できないとマーケティング担当者に指示した場合に、その人の電子メールアドレスが無効になる可能性があります。 ソフトバウンスとは、電子メールを相手に届ける際に何か故障が起こったことを意味します。この問題は自動的に解決され、数日かかる場合があります。 ハードバウンスとソフトバウンスは、どちらも [複数のカテゴリで構成され](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)ます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## バウンスの分類 {#bounce-classification}
 
