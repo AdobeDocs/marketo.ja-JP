@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: トークンの概要 — Marketto Docs — 製品ドキュメント
 title: トークンの概要
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # トークンの概要 {#tokens-overview}
 
 トークンは、Marketo [スマートキャンペーンフローステップ](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 、電子メール [、](http://docs.marketo.com/display/DOCS/General)ランディングページ [、スニペット、Webキャンペーン、](http://docs.marketo.com/display/DOCS/Landing+Pages)Webペットなど、Marketto Smartフローステップで使用できる変数 [](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)[](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)です。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## デフォルト値について {#understanding-default-values}
 
