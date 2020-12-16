@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: イベント向けの準備 — Marketto Docs — 製品ドキュメント
 title: イベントの準備
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # イベントの準備 {#prepare-for-your-event}
 
 イベントの準備をするために必要なことがいくつかあります。
-
->[!NOTE]
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 ## 新しいマーケティング担当者ロールの作成 {#create-a-new-marketo-role}
 
