@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: マーケティング用語集 — Marketto Docs — 製品ドキュメント
 title: マーケティング用語集
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>リード</strong></td> 
-   <td>「 <strong>Marketo Engage</strong>」では<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">、「リード」は前の用語(「 <strong>人」に</strong></a>置き換えられます <strong></strong> )です。マーケティングキャンペーンを通して関与するMarketoデータベース内の個人を表すのに使用されます。 CRMでは、リードは、マーケティング担当者の機能に関係なく、異なる概念( <strong>商談に関連付けられた個人</strong><strong></strong>)を表す場合があります。</td> 
+   <td>「 <strong>Marketo Engage</strong>」では、「リード」は前の用語(「 <strong>人」に置き換えられます</strong><strong></strong> )です。マーケティングキャンペーンを通じて関与を受けているMarketoデータベース内の人々を表すのに使用されます。 CRMでは、リードは、マーケティング担当者の機能に関係なく、異なる概念( <strong>商談に関連付けられた個人</strong><strong></strong>)を表す場合があります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>リードデータベース</strong></td> 
