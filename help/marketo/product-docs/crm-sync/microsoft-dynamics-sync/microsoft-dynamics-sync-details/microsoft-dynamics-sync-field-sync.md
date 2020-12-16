@@ -3,21 +3,15 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Field Sync - Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — フィールド同期
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics同期：フィールドの同期 {#microsoft-dynamics-sync-field-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 MarkettoとDynamicsの同期は非常に強力です。 詳しくは、
 
