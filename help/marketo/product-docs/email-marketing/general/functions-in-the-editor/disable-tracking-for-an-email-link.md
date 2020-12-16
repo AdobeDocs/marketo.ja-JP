@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: 電子メールリンクの追跡の無効化 — Marketto Docs — 製品ドキュメント
 title: 電子メールリンクの追跡の無効化
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # 電子メールリンクの追跡の無効化 {#disable-tracking-for-an-email-link}
 
 電子メール内のリンクに対して **マーケティング担当者の追跡URL** を有効にしない場合があります。 これは、リンク先ページがURLパラメーターをサポートしていないため、リンクが壊れる場合に役立ちます。
-
->[!NOTE]
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](/help/marketo/getting-started/updates-to-marketo-terminology.md)。
 
 1. 電子メールを選択し、「 **ドラフトを** 編集 **」をクリックします**。
 
