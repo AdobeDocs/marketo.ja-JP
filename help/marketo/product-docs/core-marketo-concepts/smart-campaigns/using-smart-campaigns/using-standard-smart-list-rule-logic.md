@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: 標準的なスマートリストルールロジックの使用 — Marketto Docs — 製品ドキュメント
 title: 標準スマート・リスト・ルール・ロジックの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 標準スマート・リスト・ルール・ロジックの使用 {#using-standard-smart-list-rule-logic}
 
 キャンペーンのスマートリストを構築する際に、「フィルターを使用」オプションが表示されている可能性があります。 この設定を使用すると、フィルターをANDまたはOR演算子で評価する必要があるかどうかを判断できます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ![](assets/image2014-9-22-14-3a12-3a42.png)
 
