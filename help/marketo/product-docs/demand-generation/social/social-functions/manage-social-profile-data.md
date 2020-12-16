@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: ソーシャルプロファイルデータの管理 — Marketto Docs — 製品ドキュメント
 title: ソーシャルプロファイルデータの管理
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # ソーシャルプロファイルデータの管理 {#manage-social-profile-data}
 
 誰かがMarketo [Socialアプリを操作したり、ソーシャルネットワークでMarketoフォームに](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)ソーシャルフォームの入力を事前入力することを承認した場合 [](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)、Marketorは、ソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 この情報は、 [個人の詳細ページで表示するか](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)、スマートリストの [カスタム表示の列として追加できます](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ソーシャルフォームの入力とソーシャルアプリでは、少し異なるフィールドのセットが取り込まれます。以下の各セクションを参照してください。
 
