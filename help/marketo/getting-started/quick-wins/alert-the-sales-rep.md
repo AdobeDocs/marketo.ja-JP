@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: 販売担当者に警告 — Marketto Docs — 製品ドキュメント
 title: 販売担当者に警告する
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 セールス担当者にアラート電子メールを自動的に送信するには、アラート電子メールと電子メールキャンペーンが必要です。 その方法を次に示します。
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [フォームとのランディングページ](landing-page-with-a-form.md)
-
->
-
-
+>[フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## 手順1:アラート電子メールの作成 {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. Form **quick winを使用して** ランディングページで作成したプログラムを選択し、「 [新規](landing-page-with-a-form.md) 」で「新規ローカルアセット ********」「新規」をクリックします。
+1. Form **quick winを使用して** ランディングページで作成したプログラムを選択し、「 [新規](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 」で「新規ローカルアセット ********」「新規」をクリックします。
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}は、アラート電子メール用の特別なトークンです。 詳しくは、「アラート情報トークンの [送信](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) 」を参照してください。
+   >{{SP_Send_Alert_Info}}は、アラート電子メール用の特別なトークンです。 詳しくは、「アラート情報トークンの [送信](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) 」を参照してください。
 
 1. 「 **保存**」をクリックします。
 
@@ -87,7 +77,7 @@ ht-degree: 0%
 
 ## 手順2:アラートトリガーキャンペーンの作成 {#step-create-an-alert-trigger-campaign}
 
-1. 「 **以前に作成したプログラム** 」を選択し、「**新規**」で「 **新規スマートキャンペーン**」をクリックします。
+1. 「 **以前に作成したプログラム** 」を選択し、「 **新規** 」で「 **新しいスマートキャンペーン**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ ht-degree: 0%
 
    ![](assets/nineteen-2.png)
 
-1. 「 **スケジュール** 」タブに移動し、「**アクティブ化**」ボタンをクリックします。
+1. 「 **スケジュール** 」タブに移動し、「 **アクティブ化** 」ボタンをクリックします。
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >「 **資格ルール** 」を **(スマートキャンペーンを編集して** )毎回に設定し、同じ人が複数回アラートをトリガーできるようにします。
 
@@ -135,9 +124,6 @@ ht-degree: 0%
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >ランディングページを認めるのを忘れないで。彼らは承認されるまで生きていかない。
 
@@ -155,4 +141,6 @@ ht-degree: 0%
 
 <br> 
 
-[etchaミッション7:電子メールのパーソナライズ](personalize-an-email.md)[ミッション9:リードデータの更新…](update-person-data.md)
+[etchaミッション7:電子メールのパーソナライズ](personalize-an-email.md)
+
+[ミッション9:リードデータの更新…](update-person-data.md)
