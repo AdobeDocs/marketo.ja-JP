@@ -3,9 +3,9 @@ unique-page-id: 10097447
 description: データベースダッシュボード- Marketto Docs — 製品ドキュメント
 title: データベースダッシュボード
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # データベースダッシュボード {#database-dashboard}
 
 データベースダッシュボードは、ワークスペース内のユーザーに関する主要な属性をすばやく特定できるスナップショットとして機能します。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
