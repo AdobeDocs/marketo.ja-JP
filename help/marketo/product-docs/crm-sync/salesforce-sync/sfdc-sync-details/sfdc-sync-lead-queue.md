@@ -3,9 +3,9 @@ unique-page-id: 7516241
 description: SFDC同期 — リードキュー — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SFDC同期 — リードキュー
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # SFDC同期：リードキュー {#sfdc-sync-lead-queue}
 
 Marketorでは、 [Salesforceのリードキューに人を追加して、リードの配信に役立てることができます](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 。 詳しくは、
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## Marketorのキューに人を割り当てる方法 {#how-to-assign-a-person-to-a-queue-in-marketo}
 
