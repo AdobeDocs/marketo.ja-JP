@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7840'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,6 @@ ht-degree: 0%
       + [チェックオフする項目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [確認事項：主なスキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-   + [Launch Packの理解と使用](getting-started/understanding-and-using-the-launch-pack.md)
-   + [マーケティングの用語の更新](getting-started/updates-to-marketo-terminology.md)
 + 製品ドキュメント {#product-docs}
    + アカウントベースのマーケティング {#account-based-marketing}
       + 設定 {#setup}
@@ -785,7 +783,7 @@ ht-degree: 0%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
