@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: アラート情報トークンの送信{{SP_Send_Alert_Info}} - Marketto Docs — 製品ドキュメントの使用
 title: アラート情報トークンの送信の使用
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # アラート情報トークンの送信の使用 {#use-the-send-alert-info-token-sp-send-alert-info}
 
 トー `{{SP_Send_Alert_Info}}` クンは、セールスチーム向けのアラート電子メールを作成する際に使用する特別なトークンです。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!TIP]
 >
