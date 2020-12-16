@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 静的リストの作成 — Marketto Docs — 製品ドキュメント
 title: 静的リストの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 静的リストの作成 {#create-a-static-list}
 
 静的リストは、既にデータベースに存在するユーザーのグループです。 作り方を次に示します。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **Database**」に移動します。
 
