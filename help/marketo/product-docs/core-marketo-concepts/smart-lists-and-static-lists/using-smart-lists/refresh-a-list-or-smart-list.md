@@ -3,21 +3,15 @@ unique-page-id: 557318
 description: リストまたはスマートリストの更新 — Marketto Docs — 製品ドキュメント
 title: リストまたはスマートリストの更新
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 
 # リストまたはスマートリストの更新 {#refresh-a-list-or-smart-list}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 スマートリストを実行してから数分が経過した場合は、結果が今は異なる場合があります。更新して確認してください。
 
