@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 電子メール — Marketto Docs — 製品ドキュメント内の友達リンクに転送
 title: 電子メール内のフレンドリンクに転送
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 電子メールに「友達に転送」リンクを追加すると、このリンクを介して転送された電子メールを受信した人を追跡でき、データベースにまだ存在しない場合は、新しい人として自動的に追加できます。
 
 例えば、Keithが「友達に転送」リンクを使用して、未知のユーザーMarkに電子メールを転送するとします。 Markが新しいユーザーとして自動的に追加され、独自のCookieが割り当てられ、Markの電子メールおよびWebアクティビティーがリンクされます。 ただし、Keithが電子メールクライアントで「転送」ボタンを使用すると、Markは誤ってKeithとしてCookieを受け取り、そのアクティビティはKeithとしてログに記録されます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 電子メ追加ールテンプレートへのリンク {#add-the-link-to-an-email-template}
 
