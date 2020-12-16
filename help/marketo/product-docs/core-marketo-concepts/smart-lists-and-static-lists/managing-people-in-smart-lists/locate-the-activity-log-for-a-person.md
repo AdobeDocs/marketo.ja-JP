@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: 個人向けのアクティビティログ — Marketto Docs — 製品ドキュメントを見つけます。
 title: 個人のアクティビティログの検索
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 個人のアクティビティログの検索 {#locate-the-activity-log-for-a-person}
 
 アクティビティログは究極の真実の源だ。 これはマーケットでの人の旅の全体像です
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「**データベース**」に移動します。
 
