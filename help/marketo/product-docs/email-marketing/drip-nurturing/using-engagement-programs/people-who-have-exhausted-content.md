@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: コンテンツを使い果たした人 — Marketo Docs — 製品ドキュメント
 title: コンテンツを使い果たした人
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # コンテンツを使い果たした人 {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ある人が1つのストリーム内のすべてのコンテンツを受け取った場合、その人はあらゆる可能性を使い果たし、さらに追加されるまで待ちます。 「疲れ果てた」人を見つける方法はいくつかあります。
 
