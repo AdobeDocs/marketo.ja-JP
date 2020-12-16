@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: 既知の人に対するカスタムHTMLフォームを表示 — Marketto Docs — 製品ドキュメント
 title: 既知のユーザーにカスタムHTMLフォームを表示
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 既知のユーザーにカスタムHTMLフォームを表示 {#show-custom-html-form-for-known-people}
 
 訪問者がCookieを使用している場合（過去に電子メールアドレスを提供した既知の人）、フォームで迷惑を掛けるのはなぜですか。 ダウンロードボタンを押すだけです。 これが方法です。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **マーケティング** アクティビティ ****」に移動します。
 
