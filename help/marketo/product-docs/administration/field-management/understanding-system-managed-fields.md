@@ -3,9 +3,9 @@ unique-page-id: 5472615
 description: システム管理フィールドについて — Marketto Docs — 製品ドキュメント
 title: システム管理フィールドについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # システム管理フィールドについて {#understanding-system-managed-fields}
 
 訪問 [者の詳細ページに](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 、Marketorによって作成された一連の編集不可能なフィールドがあることに気付いたかもしれません。 このデータは様々なソースから得られ、数え切れないほどの値が表示される可能性があります。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## フィールドタイプ {#field-types}
 
