@@ -3,21 +3,15 @@ unique-page-id: 6848782
 description: 購読解除メッセージを言語に対して動的にする — Marketo Docs — 製品ドキュメント
 title: 登録解除メッセージを言語に対して動的にする
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
 
 # 登録解除メッセージを言語に対して動的にする {#make-your-unsubscribe-message-dynamic-for-languages}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 デフォルトの登録解除メッセージおよびリンクは英語です。 動的なコンテンツを使用して、異なる言語で表示できます。
 
