@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: シンプルスコアリング — Marketto Docs — 製品ドキュメント
 title: 単純スコア
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # 単純スコア {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
 >* [設定と追加人](get-set-up-and-add-a-person.md)
 >* [フォームとのランディングページ](landing-page-with-a-form.md)
-
->
-
 
 
 ## 手順1:スコアリングキャンペーンの作成 {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >フォームのクイックウィンドウで [ランディングページを完了した場合は](landing-page-with-a-form.md) 、フォームが必要です。 フォームに別の名前を使用した場合は、その名前を選択します。
+   >フォームのクイックウィンドウで [ランディングページを完了した場合は](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 、フォームが必要です。 フォームに別の名前を使用した場合は、その名前を選択します。
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. 「**フロー**」タブをクリックします。
+1. 「 **フロー** 」タブをクリックします。
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >良いスコアキャンペーンは、高品質の人をセールスに送るための重要な要素です。 リードスコア [**の最終的なガイドを読み**](http://www.marketo.com/definitive-guides/lead-scoring/)ます。
+   >良いスコアキャンペーンは、高品質の人をセールスに送るための重要な要素です。 リードスコア [**の最終的なガイドを読み**](https://www.marketo.com/definitive-guides/lead-scoring/)ます。
 
 1. 「 **スケジュール** 」タブをクリックし、「 **アクティブ化** 」ボタンをクリックします。
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## 手順2:フォームの入力 {#step-fill-out-the-form}
 
-1. フォーム [のクイックウィンドウが表示された](landing-page-with-a-form.md) ランディングページで作成したランディングページを選択します。
+1. フォーム [のクイックウィンドウが表示された](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) ランディングページで作成したランディングページを選択します。
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. 名、姓、電子メールアドレスをフォームに入力し、 **送信をクリックします** 。
+1. 名、姓、電子メールアドレスをフォームに入力し、「 **送信**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ ht-degree: 0%
 ![](assets/twenty.png)
 
 **おめでとう！** スコアリングキャンペーンを作成しました。
-[エスケアミッション2:Form](landing-page-with-a-form.md) [Mission 4とのランディングページ:電子メールの自動応答ï¿](email-auto-response.md)
+[エスケアミッション2:フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[ミッション4:電子メールの自動応答ï¿](/help/marketo/getting-started/quick-wins/email-auto-response.md)
