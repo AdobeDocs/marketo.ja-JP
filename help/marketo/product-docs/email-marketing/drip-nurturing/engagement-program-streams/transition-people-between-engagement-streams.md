@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: エンゲージメントストリーム間のトランジション者 — Marketto Docs — 製品ドキュメント
 title: エンゲージメントストリーム間のトランジションユーザー
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # エンゲージメントストリーム間のトランジションユーザー {#transition-people-between-engagement-streams}
 
 エンゲージメントプログラムは複数のストリームを持つことができます。 ストリームを [追加する場合](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)、あるストリームから別のストリームに移動する方法を定義する必要があります。 これらは **トランジションルールと呼ばれます。**
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **マーケティングアクティビティ**」に移動します。
 
