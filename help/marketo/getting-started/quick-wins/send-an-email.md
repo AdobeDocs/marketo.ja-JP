@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: 電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: 電子メールの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 みんなが最初にやりたいこと。 MarketoからEメールを送信します。
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
-
->
-
-
+>[設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 電子メールプログラムの作成 {#create-an-email-program}
 
@@ -39,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 「**名前**」を入力し、「 **プログラムタイプ」で「** 電子メール **」を選択します。**
+1. 「 **名前** 」を入力し、「 **プログラムタイプ** 」で「電子メール **」を選択します。**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 「**チャネル」で「 **電子メール送信**」を&#x200B;**選択し、「**&#x200B;作成&#x200B;**」をクリックします。** **
+1. 「 **チャネル**」で「 **電子メール送信** 」を選択し、「 **作成**」をクリックします。
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## オーディエンスの定義 {#define-your-audience}
 
@@ -73,10 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >電子メールに自動入力が行われない場合は、「設定とリードの設定を忘れた可能性があり追加ます。 [](get-set-up-and-add-a-person.md)
+   >電子メールに自動入力が行われない場合は、「設定とリードの設定を忘れた可能性があり追加ます。 [](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. 「 **名前**」を入力し、 **テンプレートを選択して**、「**作成**」をクリックします。
+1. **名前を入力し**、 **テンプレートを選択して**、「 ****&#x200B;作成」をクリックします。
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ ht-degree: 0%
    >
    >ポップアップブロッカーがある場合は、「ドラフトを **編集** 」をクリックして電子メールエディターを開きます。
 
-1. 編集する領域を選択し、右側の歯車アイコンをクリックして、「**編集**」を選択します(編集するには、編集可能なセクションを重複クリックすることもできます)。
+1. 編集する領域を選択し、右側の歯車アイコンをクリックして、「 **編集** 」を選択します(編集するには、編集可能なセクションを重複クリックして選択することもできます)。
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >起動前の電子メールの外観を簡単に確認するために、サンプルを自分に送信します。 上のメニューで **「サンプルを** 送信 **」を選択するか、「** 電子メールアクション [**」、「サンプルを**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)&#x200B;送信」の順にクリックします。
+   >起動前の電子メールの外観を簡単に確認するために、サンプルを自分に送信します。 上のメニューで **「サンプルを** 送信 **」を選択するか、「** 電子メールアクション [**」、「サンプルを**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)&#x200B;送信」の順にクリックします。
 
 1. 左のツリーで[電子メール]プログラムを選択します。
 
@@ -140,7 +125,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >デフォルトのタイムゾーンはお客様のものではありませんか。 ここで [更新する方法を説明します](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone)。
+   >デフォルトのタイムゾーンはお客様のものではありませんか。 ここで [更新する方法を説明します](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)。
 
 1. 「承認」タイルの **下にある「プログラムの** 承認」をクリックすると、完了です。
 
@@ -150,4 +135,6 @@ ht-degree: 0%
 
 <br> 
 
-[§セットアップとフ追加ォームを持つリード](get-set-up-and-add-a-person.md)[ランディングページ](landing-page-with-a-form.md)
+[áget Set Up and 追加 a Lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[フォーム付きのランディングページ``](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
