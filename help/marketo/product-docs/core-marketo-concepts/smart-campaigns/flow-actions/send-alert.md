@@ -3,21 +3,15 @@ unique-page-id: 1146958
 description: アラートの送信 — Marketto Docs — 製品ドキュメント
 title: アラートの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 
 # アラートの送信 {#send-alert}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## 概要 {#overview}
 
