@@ -3,9 +3,9 @@ unique-page-id: 1147322
 description: 匿名アクティビティと人について — Marketto Docs — 製品ドキュメント
 title: 匿名アクティビティと人について
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 匿名アクティビティと人について {#understanding-anonymous-activity-and-people}
 
 誰かがMarketto [L `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages) (またはMunchkin Tracking Codeを持つWebサイト上のページ [)を初めて訪問したとき、Marketoは*匿名*](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)** アクティビティを作成し、ブラウザーcookieを使用して追跡します。 識別されると、その訪問者が個人になり、ブラウザーのCookieに関連付けられた履歴が統合されます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 **匿名** アクティビティは、誰かが
 
