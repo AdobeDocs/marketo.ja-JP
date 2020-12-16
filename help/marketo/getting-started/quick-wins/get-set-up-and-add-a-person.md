@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: セットアップとユーザー追加の設定 — Marketto Docs — 製品ドキュメント
 title: 設定と追加人
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 ミッションを開始する前に、いくつかの作業を行う必要があります。
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 ## 手順1:Marketorへのログイン {#step-log-in-to-marketo}
 
-1. [電子メールで受け取った資格情報を使用して](http://app.marketo.com) 、Marketorにログインします。
+1. [電子メールで受け取った資格情報を使用して](https://app.marketo.com) 、Marketorにログインします。
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 姓と名、電子メールアドレス、会社名を入力し、[**作成**]をクリックして、自分を個人として追加します。
+1. 姓と名、電子メールアドレス、会社名を入力し、「 **作成** 」をクリックして自分を個人として追加します。
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 「**人**」タブをクリックします。 データベース内で自分が見えるはずです。
+1. 「 **人物** 」タブをクリックします。 データベース内で自分が見えるはずです。
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ ht-degree: 0%
 
 <br> 
 
-[ミッション1:電子メールの送信ï¿](send-an-email.md)
+[ミッション1:電子メールの送信ï¿](/help/marketo/getting-started/quick-wins/send-an-email.md)
