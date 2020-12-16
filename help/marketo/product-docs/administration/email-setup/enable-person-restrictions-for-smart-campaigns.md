@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: スマートキャンペーン- Marketto Docs — 製品ドキュメントに対する個人制限の有効化
 title: スマートキャンペーンに対する個人制限の有効化
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # スマートキャンペーンに対する個人制限の有効化 {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 Marketoには、スマートキャンペーンに振り分けることのできる人数を***最大***数に制限する機能があります。 これにより、誤ってデータベース全体を電子メールで送信するのを防ぎます。
 
