@@ -3,21 +3,15 @@ unique-page-id: 4719304
 description: 黙示的なSalesforceアクション — Marketto Docs — 製品ドキュメント
 title: 黙示的なSalesforceアクション
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 
 # 黙示的なSalesforceアクション {#implied-salesforce-actions}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 Salesforce固有のフローステップが実行される場合、追加のステップが自動的に実行されることがあります。 次にルールを示します。
 
