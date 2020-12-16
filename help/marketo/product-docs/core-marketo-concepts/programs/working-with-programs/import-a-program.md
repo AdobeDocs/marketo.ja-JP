@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: プログラムの読み込み — Marketto Docs — 製品ドキュメント
 title: プログラムの読み込み
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # プログラムの読み込み {#import-a-program}
 
 プログラムは、あるMarketor購読から別のMarketorにインポートできます。 例えば、サンドボックス内にプログラムを作成し、それを本番用購読にインポートできます。 また、事前に作成されたプログラムをMarketorプログラムライブラリから読み込むこともできます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## プログラムの読み込み {#import-a-program-1}
 
