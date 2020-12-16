@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: 待機フロー手順 — Marketto Docs — 製品ドキュメントでの日付トークンの使用
 title: 待機フロー手順での日付トークンの使用
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 待機フロー手順での日付トークンの使用 {#use-a-date-token-in-a-wait-flow-step}
 
 待機フローステップを使用すると、スマートキャンペーンを通しての人の遍歴を、日付トークンを使用する特定の日付まで一時停止できます。 終了日は、日数によって変更することもできます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
