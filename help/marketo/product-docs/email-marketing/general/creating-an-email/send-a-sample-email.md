@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: サンプルの電子メール — Marketto Docs — 製品ドキュメントの送信
 title: サンプル電子メールの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # サンプル電子メールの送信 {#send-a-sample-email}
 
 電子メールのサンプルを簡単に送信できます。 動的なコンテンツの電子メールを送信するには、「動的なコンテンツを含む電子メールの [プレビュー](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)」を参照してください。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
