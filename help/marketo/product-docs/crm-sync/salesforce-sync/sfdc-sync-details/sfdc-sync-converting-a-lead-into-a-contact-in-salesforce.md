@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: SFDC同期 — Salesforceの担当者へのリードの変換 — Marketto Docs — 製品ドキュメント
 title: SFDC同期 — Salesforceでリードを連絡先に変換
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # SFDC同期：Salesforceでリードを連絡先に変換する {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 Salesforceの3つの異なるシナリオを考えてみましょう。(Marketoの「 [人物をコンバート」フローステップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) は使用しない)。
 
