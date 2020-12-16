@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: ロール権限の説明 — マーケティングツールドキュメント — 製品ドキュメント
 title: ロール権限の説明
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # ロール権限の説明 {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 以下に、自分のロールに割り当てることができる、使用可能なすべての権限のリストを示します。 権限は、通常、マーケティング内の特定の機能領域に関連付けられ、様々なユーザーがアクセスできる領域と機能を制御するのに役立ちます。
 
