@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: 電子メールのパーソナライズ — Marketto Docs — 製品ドキュメント
 title: 電子メールのパーソナライズ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## ミッション：データトークンを追加して電子メールを個人用にする {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
->* [Eメール送信](send-an-email.md)
->* [ドリップ、ドリップ、ナーチャー](drip-drip-nurture.md)
+>* [設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Eメール送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [ドリップ、ドリップ、ナーチャー](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## 手順1:パーソナライズする電子メールの選択 {#step-select-an-email-to-personalize}
 
-1. [前のクイックウィンドウで作成されたはぐくみ電子メールの1つを選択し](drip-drip-nurture.md) 、「ドラフトを **編集**」をクリックします。
+1. [前のクイックウィンドウで作成されたはぐくみ電子メールの1つを選択し](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) 、「ドラフトを **編集**」をクリックします。
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >これにより、電子メールのコピーがドラフトとして作成されます。 変更を有効にするには、下書きを承認する必要があります。
 
-   **ドラフトを編集**
-
-ポップアップブロッカーを有効にしていない場合は、電子メールエディターが新しいタブまたはウィンドウで開きます。 それ以外の場合は、2回クリックします。
+ポップアップブロッカーを有効にしていない場合は、電子メールエディターが新しいタブまたはウィンドウで開きます。 それ以外の場合は、「ドラフトを **編集** 」を2回クリックします。
 
 ## 手順2:販売員を送信者にする {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->メールの送信方法について簡単な更新が必要ですか？ Send an Email Blastを参照して [ください](send-an-email.md)。
-
-### ビデオの視聴 {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>メールの送信方法について簡単な更新が必要ですか？ Send an Email Blastを参照して [ください](/help/marketo/getting-started/quick-wins/send-an-email.md)。
 
 ### ミッション完了 {#mission-complete}
 
@@ -120,4 +108,6 @@ ht-degree: 0%
 
 <br> 
 
-[エスケアミッション6:Drip、Drip、Nurture](drip-drip-nurture.md) [Mission 8:販売担当者への警告jpk向け](alert-the-sales-rep.md)
+[エスケアミッション6:ドリップ、ドリップ、ナーチャー](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[ミッション8:販売担当者への警告jpk向け](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
