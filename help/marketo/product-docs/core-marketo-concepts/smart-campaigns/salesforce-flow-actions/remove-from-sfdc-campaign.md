@@ -3,21 +3,15 @@ unique-page-id: 1147036
 description: SFDCキャンペーンからの削除 — Marketto Docs — 製品ドキュメント
 title: SFDCキャンペーンから削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
 # SFDCキャンペーンから削除 {#remove-from-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
