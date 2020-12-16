@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 会社ウェブアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: 会社Webアクティビティレポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 会社Webアクティビティレポート {#company-web-activity-report}
 
 どの会社がWebサイトを訪問しているかを確認する。 既知の訪問者と匿名のユーザーのどちらを表示するかを選択できますが、両方を同じレポートに表示することはできません。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ウェブページの [アクティビティレポートを作成して](web-page-activity-report.md) 、サイトの個々の訪問者を調べます。
 
