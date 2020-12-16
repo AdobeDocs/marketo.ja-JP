@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: デジタル広告キャンペーンの売上高アトリビューションの設定 — Marketto Docs — 製品ドキュメント
 title: デジタル広告キャンペーンの売上高アトリビューションの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # デジタル広告キャンペーンの売上高アトリビューションの設定 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 デジタル広告のチャネルとキャンペーンの売上高属性を設定する方法を次に示します。 設定後、他のマーケティングプログラムと同様に、デジタル広告に対してファーストタッチとマルチタッチの売上高属性を設定できます。
 
