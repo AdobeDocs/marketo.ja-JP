@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: バッチとトリガースマートキャンペーンについて — Marketto Docs — 製品ドキュメント
 title: バッチとトリガースマート・キャンペーンの理解
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # バッチとトリガースマート・キャンペーンの理解 {#understanding-batch-and-trigger-smart-campaigns}
 
 スマートキャンペーンには2種類あります。バッチとトリガーを参照してください。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ## バッチスマートキャンペーン {#batch-smart-campaign}
 
