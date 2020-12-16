@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: マーケティング用語 — マーケティングツールドキュメント — 製品ドキュメントの更新
 title: マーケティングの用語の更新
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ leadという単語を含むトークン **は変更されません**。 ご混�
 >ホーム画面に表示されるタイルには、購入したモジュールが反映されます。
 
 更新中、ご辛抱ありがとうございました。
-
