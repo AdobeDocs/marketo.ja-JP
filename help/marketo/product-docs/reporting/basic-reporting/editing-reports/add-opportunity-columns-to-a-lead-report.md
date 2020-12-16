@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: リードレポートの「Opportunity」追加列 — Marketto Docs - Product Documentation」
 title: リ追加ードレポートの「商談」列
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # リ追加ードレポートの「商談」列 {#add-opportunity-columns-to-a-lead-report}
 
 「 [個人」レポートのオポチュニティに関する統計を表示するには](http://docs.marketo.com/display/docs/basic+reporting)、「オポチュニティ」列を追加できます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **マーケティングアクティビティ** 」領域に移動します。
 
