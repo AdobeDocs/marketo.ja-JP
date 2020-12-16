@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: 動的コンテンツについて — Marketto Docs — 製品ドキュメント
 title: 動的コンテンツについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 動的コンテンツについて {#understanding-dynamic-content}
 
 パーソナライゼーションには、「こんにちは」だけではなく、多くのものがあ `{{First Name}}`ります。 Marketo Dynamic Contentを使用すると、ランディングページや電子メールの見え方をカスタマイズできます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 ![](assets/artboard-1.png)
 
