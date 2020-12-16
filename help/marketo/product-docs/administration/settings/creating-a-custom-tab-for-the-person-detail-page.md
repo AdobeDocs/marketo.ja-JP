@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: 個人の詳細ページ用のカスタムタブの作成 — Marketto Docs — 製品ドキュメント
 title: 個人の詳細ページ用のカスタムタブの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # 個人の詳細ページ用のカスタムタブの作成 {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 個人の詳細を何度も繰り返し探している場合は、カスタムレイアウトを作成して作業を簡単にすることを検討してください。
 
