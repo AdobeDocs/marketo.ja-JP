@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: セグメント別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: セグメント別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # セグメント別個人レポートのグループ化 {#group-person-reports-by-segment}
 
 セグメントで [定義した任意の](http://docs.marketo.com/display/docs/basic+reporting) セグメントで [、](http://docs.marketo.com/display/docs/basic+reporting) 個人レポートをグループ化できます [](create-a-segmentation.md)。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **マーケティングアクティビティ** (または **Analytics**)」セクションに移動します。
 
