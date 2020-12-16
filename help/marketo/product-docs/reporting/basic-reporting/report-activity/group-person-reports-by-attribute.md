@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 属性別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: 属性別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 属性別個人レポートのグループ化 {#group-person-reports-by-attribute}
 
 任意の人または [会社属性で](http://docs.marketo.com/display/docs/basic+reporting) 個人レポートをグループ化できます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 1. 「 **マーケティングアクティビティ** (または **Analytics**)」領域に移動します。
 
