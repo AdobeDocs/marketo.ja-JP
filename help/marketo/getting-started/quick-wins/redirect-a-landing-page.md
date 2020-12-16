@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: ランディングページのリダイレクト — Marketto Docs — 製品ドキュメント
 title: ランディングページのリダイレクト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
->* [フォームとのランディングページ](landing-page-with-a-form.md)
->* [CNAMEを使用したランディングページURLのカスタマイズ](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
-
->
-
+>* [設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [CNAMEを使用したランディングページURLのカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## 手順1:新しいリダイレクトルールの開始 {#step-start-a-new-redirect-rule}
@@ -35,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. 「**ランディングページ**」に移動
+1. 「 **ランディングページ**」に移動。
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -45,18 +42,15 @@ ht-degree: 0%
 
 ## 手順2:リダイレクトルールの定義 {#step-define-the-redirect-rule}
 
-1. 最初の「**元のURL **」ドロップダウンをクリックし、「マーケティング先CNAME」を選択します。
+1. 最初の「 **オリジナルURL** 」ドロップダウンをクリックし、マーケティング担当者のCNAMEを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >リダイレクトできるのは、Marketto [CNAMEとの開始をランディングページにリダイレクトすることだけです](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >リダイレクトできるのは、Marketto [CNAMEとの開始をランディングページにリダイレクトすることだけです](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
 
-1. 2つ目の「**元のURL **」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
+1. 2つ目の「 **オリジナルURL** 」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
@@ -70,4 +64,4 @@ ht-degree: 0%
 
 <br> 
 
-[エスカン・ミッション9:リードデータの更新](update-person-data.md)
+[エスカン・ミッション9:リードデータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)
