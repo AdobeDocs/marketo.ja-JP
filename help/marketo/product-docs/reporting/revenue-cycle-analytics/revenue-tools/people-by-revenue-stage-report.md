@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 売上高ステージ別人物レポート — Marketto Docs — 製品ドキュメント
 title: 売上高ステージ別人物レポート
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 売上高ステージ別人物レポート {#people-by-revenue-stage-report}
 
 訪問者が属する [売上高サイクルモデルのステージを示すレポートを作成できます](http://docs.marketo.com/display/docs/revenue+cycle+models) 。 レポートには、指定した日付範囲に対する個人のバランスがある限り、指定したモデルの任意のステージが含まれます。
-
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
 
 >[!NOTE]
 >
