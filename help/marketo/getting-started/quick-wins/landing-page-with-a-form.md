@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: フォーム付きのランディングページ- Marketto Docs — 製品ドキュメント
 title: フォームとのランディングページ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## ミッション：新しいユーザーを獲得するためのフォームを使用してランディングページを作成します。 {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketoは現在、すべての購読で言語を標準化しているので、購読およびdocs.marketo.comの人物/人物にリード/リードを表示できます。 これらの用語は同じことを意味し、記事の説明には影響しません。 他にも変化がある。 [詳細情報](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)。
-
 >[!PREREQUISITES]
 >
->* [設定と追加人](get-set-up-and-add-a-person.md)
-
+>[設定と追加人](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 手順1:プログラムの作成 {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 前のクイックウィンドウで作成した** Learning**フォルダ [を選択します](send-an-email.md)。
+1. **前のクイックウィンドウで作成した** 学習 [フォルダを選択します](/help/marketo/getting-started/quick-wins/send-an-email.md)。
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. プログラム **名を入力し**、「**チャネル**」を選択して「**作成**」をクリックします。
+1. プログラム **名を入力し**、 **チャネルを選択して** 「 **作成**」をクリックします。
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >一意にするには、プログラム名の末尾にイニシャルを含めます。
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
-   >プログラムは、特定のマーケティングイニシアチブです。 この **** チャネルは、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに様々なオプションが表示される場合があります。 独自のチャネルを [作成することもできます。](../../product-docs/administration/tags/create-a-program-channel.md)
+   >プログラムは、特定のマーケティングイニシアチブです。 この **** チャネルは、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに様々なオプションが表示される場合があります。 独自のチャネルを [作成することもできます](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)。
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ ht-degree: 0%
 
 ## 手順2:フォームの作成 {#step-create-a-form}
 
-1. プログラムを選択した状態で、「 **New** 」をクリックし、「** New Local Asset**」をクリックします。
+1. プログラムを選択した状態で、「 **New** 」をクリックし、「 **New Local Asset**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「 **Open in editor** 」ボックスがチェックされていることを確認します。 フォームがない場合は、「 **フォームを**&#x200B;編集」**タブをクリックする必要があります。**
+   >「 **Open in editor** 」ボックスがチェックされていることを確認します。 フォームがない場合は、「 **Edit Form** 」タブをクリックする必要があります。
 
    >[!TIP]
    >
-   >フォームエディターが表示されない場合 ブラウザーがウィンドウをブロックした可能性があります。 ブラウザーで [app.marketo.comのポップアップを有効にし](http://app.marketo.com/) 、上部のメニューバーで「ドラフトを編集」をクリックします。
+   >フォームエディターが表示されない場合 ブラウザーがウィンドウをブロックした可能性があります。 ブラウザーで [app.marketo.comのポップアップを有効にし](https://app.marketo.com/) 、上部のメニューバーで「ドラフトを編集」をクリックします。
 
-1. 「**電子メールアドレス**」フィールドを選択し、「 **必須です**」をチェックします。
+1. 「 **電子メールアドレス** 」フィールドを選択し、「 **は必須です**」をチェックします。
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. 「**次へ**」をクリックします。
+1. 「 **次へ**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >フォームの入力後に訪問者がリダイレクトされるのは、フォローアップページです。 外部URLは1つのオプションですが、それ以上のオプションがあります。 「フォーム [の「ありがとうございます」ページの設定」を参照してください](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
+   >フォームの入力後に訪問者がリダイレクトされるのは、フォローアップページです。 外部URLは1つのオプションですが、それ以上のオプションがあります。 「フォーム [の「ありがとうございます」ページの設定」を参照してください](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)。
 
 1. 「 **完了**」をクリックします。
 
@@ -136,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. ページ**名前**を入力し、テンプレートを選択して「 **作成**」をクリックします。
+1. ページの **名前を入力し**、テンプレートを選択して「 **作成**」をクリックします。
 
    >[!NOTE]
    >
-   >スクリーンショットにあるテンプレートとは異なるテンプレートがある可能性があります。良いので、1つ選択して先に進んでください。
+   >スクリーンショットにあるテンプレートとは異なるテンプレートがある可能性があります。良いので、1つ選択して継続して使用してください。
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
@@ -168,9 +153,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**定義**
-   >
-   >
    >ランディングページを承認すると、インターネット上でアクセスできる状態になり、有効になります。
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ ht-degree: 0%
 
 ## 手順5:フォームのテスト {#step-test-your-form}
 
-1. ランディングページを選択し、「**表示承認済みページ**」をクリックします。
+1. ランディングページを選択し、「 **表示が承認したページ**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ ht-degree: 0%
 
 <br> 
 
-[§電子メールの送信](send-an-email.md) 、 [単純スコア指定`](simple-scoring.md)
+[Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[シンプルスコアリング`jp](/help/marketo/getting-started/quick-wins/simple-scoring.md)
