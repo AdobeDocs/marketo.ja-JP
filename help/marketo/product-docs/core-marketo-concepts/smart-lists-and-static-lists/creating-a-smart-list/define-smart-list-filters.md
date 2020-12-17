@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートリストフィルターの定義 {#define-smart-list-filters}
+# スマートリストフィルターの定義{#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-スマートリストを [作成し、フィルターを](create-a-smart-list.md) 追加しました [](find-and-add-filters-to-a-smart-list.md) 。次に、フィルターを定義します。 これが方法です。
+[スマートリスト](create-a-smart-list.md)を作成し、[フィルター](find-and-add-filters-to-a-smart-list.md)を追加しました。フィルターを定義します。 これが方法です。
 
 この例では、カリフォルニア州の全人口が50件を超えるスコアを持つ人々を見つけるために、これらのフィルターを定義します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. スマートリストを選択し、「 **スマートリスト** 」タブをクリックします。
+1. スマートリストを選択し、「**スマートリスト**」タブをクリックします。
 
    ![](assets/smarlist-choosefilters.png)
 
-1. [ **状態** ]フィルタの[ **CA** ]を探して選択します。
+1. **状態**&#x200B;フィルターに対して&#x200B;**CA**&#x200B;を探して選択します。
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >カ **リフォルニア** と **CAの両方を保存している可能性があります**。 両方の値をフィルターし、カリフォルニア州の*すべての*人を含めるには、スマートリストフィルターに複数の値を [追加する方法を学びます](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)。
+   >**カリフォルニア**&#x200B;と&#x200B;**CA**&#x200B;の両方を保存している可能性があります。 両方の値をフィルタリングし、カリフォルニア州の*all *peopleを含めるには、スマートリストフィルタ[に複数の値を追加する方法を学びます。](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)
 
-1. 「 **次より** 大きい **」演算子を選択し、「50」と入力します**。
+1. **より大きい**&#x200B;演算子を選択し、**50**&#x200B;と入力します。
 
    ![](assets/smartlistfilter-personscore.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->ス [マートリストと静的リストについて詳しく説明します](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+>[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)についての詳細。
 
