@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのスマートキャンペーンの再実行 {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# プログラムスケジュール表示でスマートキャンペーンを再実行{#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 既存のスマートキャンペーンの新しい実行は、プログラムスケジュール表示から直接簡単に作成できます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >これは、 [プログラムフォーカスからも実行できます](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
+   >これは、[プログラムフォーカス](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)からも実行できます。
 
 ブーム！ そのように、そのスマートキャンペーンに対して別の実行をスケジュールしました。 そのスマートキャンペーンにメール送信手順が含まれている場合は、それらも表示されます。
