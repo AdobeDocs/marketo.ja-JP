@@ -16,11 +16,11 @@ ht-degree: 0%
 
 子フォルダーまたはキャンペーンプログラムー内の継承トークンを上書きする方法を次に示します。
 
-1. 「 [!UICONTROL マイトークン] 」タブの「 [!UICONTROL 継承トークン] 」セクションで、上書きするトークンを探します。
+1. 「[!UICONTROL マイトークン]」タブで、上書きするトークンを[!UICONTROL 継承トークン]セクションで探します。
 
    ![イメージ1](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. トークンの **[!UICONTROL 値をクリックし]** 、変更します。 このトークンの値を変更すると、自動的に「 [!UICONTROL 上書きされたトークン] 」セクションに移動されます。
+1. トークン&#x200B;**[!UICONTROL 値]**&#x200B;をクリックし、変更します。 このトークンの値を変更すると、[!UICONTROL 上書きされたトークン]セクションに自動的に移動します。
 
    ![イメージ2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
