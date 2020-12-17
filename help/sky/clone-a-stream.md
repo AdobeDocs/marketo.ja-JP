@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. ストリームのギアアイコンをクリックし、「 **[!UICONTROL コピー]**」を選択します。
+1. ストリームのギアアイコンをクリックし、「**[!UICONTROL コピー]**」を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 
