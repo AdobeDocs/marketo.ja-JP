@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Facebook追加でカスタムオーディエンスが発生 {#add-leads-to-a-custom-audience-in-facebook}
+# 追加Facebookのカスタムオーディエンス{#add-leads-to-a-custom-audience-in-facebook}に導く
 
 既にFacebookにカスタムオーディエンスがあり、さらにリードを追加したい場合 これが方法です。
 
 >[!PREREQUISITES]
 >
 >* [Facebookでのカスタムオーディエンスの作成](create-a-custom-audience-in-facebook.md)
->* [Facebookアカウント内でFacebookのカスタムオーディエンス条件に同意します](https://www.facebook.com/ads/manage/customaudiences/tos.php) 。
+>* [Facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を受け入れます。
 
 >
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 「 **リード** 」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
 
    ![](assets/two-1.png)
 
-1. 「**Facebook **」を選択し、「 **次へ**」をクリックします。
+1. 「**Facebook **」を選択し、「**次へ**」をクリックします。
 
    ![](assets/three.png)
 
-1. 「 **オーディエンス** 」ドロップダウンをクリックし、リードを追加するオーディエンスを選択し、「 **更新**」をクリックします。
+1. 「**オーディエンス**」ドロップダウンをクリックし、リードを追加するオーディエンスを選択して、「**更新**」をクリックします。
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**オーディエンス追加につながります。** カスタムサブタイプを持つFacebookオーディエンスのみが使用できます。\
+   >**オーディエンスへ追加の導き：カスタムサブタイプを持つFacebookオーディエンスのみが使用できます。** \
    >**オーディエンス**：からリードを削除静的リストまたはスマートオーディエンスのリードをFacebookのから削除します。
 
 1. 完了すると、ステータスが更新されます。
