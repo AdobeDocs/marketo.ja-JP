@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # キャンペーンフォルダー：「アクティビティ」タブ
 
-キャンペーンに関する主な情報は、「 **[!UICONTROL アクティビティ]** 」タブで確認できます。
+**[!UICONTROL 「キャンペーン]**」タブで、アクティビティに関する主な情報を検索します。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-「 **[!UICONTROL フィルター条件]** 」ドロップダウンを使用して、アクティビティタイプでキャンペーンをフィルターします。 また、キャンペーン、アクティビティタイプなどで検索することもできます。
+**[!UICONTROL 「]**&#x200B;でフィルター」ドロップダウンを使用して、アクティビティの種類でキャンペーンをフィルターします。 また、キャンペーン、アクティビティタイプなどで検索することもできます。
 
 ![イメージ2](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
