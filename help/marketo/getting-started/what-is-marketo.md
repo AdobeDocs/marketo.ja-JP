@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Marketoとは何ですか。 {#what-is-marketo}
+# Marketoとは何ですか。{#what-is-marketo}
 
 これはマーケティングソフトウェアで、マーケティング自動化とも呼ばれます。 涼しい
 
-## メール送風器？ {#is-it-a-mail-blast-tool}
+## メール送風器？{#is-it-a-mail-blast-tool}
 
 マーケットでも同じことができます でももっとたくさんあります
 
-## 要点を言うと何が分かる？ {#ok-get-to-the-point-whats-it-got}
+## 要点を言うと何が分かる？{#ok-get-to-the-point-whats-it-got}
 
 * フォームエディター
 * ランディングページエディタ
@@ -37,18 +37,18 @@ ht-degree: 0%
 * プログラム分析
 * メール・ブラストも
 
-## なんてこった！ 私はそれを全て学ぶ必要がありますか？ {#holy-cow-do-i-need-to-learn-all-that}
+## なんてこった！ 私はそれを全て学ぶ必要がありますか？{#holy-cow-do-i-need-to-learn-all-that}
 
 いや、全然。 Marketoは開始しやすく、今後の発展にも役立ちます。 時間の経過とともにピースを追加できます。
 
-## 何か設定が必要ですか。 {#do-i-need-to-do-any-setup}
+## 何か設定が必要ですか。{#do-i-need-to-do-any-setup}
 
-はい、やるべきことの [チェックリストを作りました](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
+はい、[行うべき事柄のチェックリストを作成しました](/help/marketo/getting-started/setup-steps/setup-checklist.md)。
 
-## セットアップが完了して学習が終わるまで待つ必要がありますか。 {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## セットアップが完了して学習が終わるまで待つ必要がありますか。{#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-だめ！ 簡単なチュートリアルをたくさん作りました。 [ここから始めます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。 1時間ほどかかるはずです。 いつでも開始できます。
+だめ！ 簡単なチュートリアルをたくさん作りました。 [ここから始めます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。1時間ほどかかるはずです。 いつでも開始できます。
 
-## なぜまだ質問を？ {#why-am-i-still-asking-questions}
+## なぜまだ質問を？{#why-am-i-still-asking-questions}
 
 分かりませんが、私たちは喜んで助けます。 一緒だ！
