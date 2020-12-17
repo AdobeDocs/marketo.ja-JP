@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# カスタムイベントのコンバージョンスクリプト {#conversion-script-for-custom-events}
+# カスタムイベントの変換スクリプト{#conversion-script-for-custom-events}
 
 参照オファーを作成する際に、受渡目標を定義します。 目標に向けてカウントするアクションが独自のWebページ上の特定のイベントである場合、コンバージョンスクリプトを使用してJavaScript APIを呼び出すことができます。
 
-## 変換スクリプトの取得 {#retrieve-the-conversion-script}
+## 変換スクリプトを取得{#retrieve-the-conversion-script}
 
-1. 照会オファーエディターで「 **オファーの詳細** 」をクリックし、「受渡目標 **」ドロップダウンから「** 顧客JavaScriptイベント」を選択します。
+1. 参照オファーエディターで「**オファーの詳細**」をクリックし、「受渡目標」ドロップダウンから「**お客様のJavaScriptイベント**」を選択します。
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 灰色のボックスの先頭のスクリプトをコピーし、タグ内のWebページに配置し `<body>` ます。 下部のスクリプトはタグ内に配置し `<header>` ます。
+1. 灰色のボックスの先頭のスクリプトをコピーし、`<body>`タグ内のWebページに配置します。 下部のスクリプトは`<header>`タグ内に配置します。
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -32,23 +32,23 @@ ht-degree: 0%
    >
    >両方のスクリプトをコピーして貼り付けるのは、マーケティング担当者以外のWebサイトを対象とする場合に限ります。
 
-## ローダスクリプトの取得 {#retrieve-the-loader-script}
+## ローダスクリプト{#retrieve-the-loader-script}を取得します
 
-1. ツリーから参照オファーを選択し、「参照オファーのアクション **」および「** 埋め込みコード ****」をクリックします。
+1. ツリーから参照オファーを選択し、**参照オファーの操作**&#x200B;と&#x200B;**埋め込みコード**&#x200B;をクリックします。
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. 「 **ヘッダーコード** 」を右クリックし、Webページのヘッダーに挿入します。 次に、 **本文コードに対しても同じ操作を行います**。
+1. **ヘッダーコード**&#x200B;を右クリックし、Webページのヘッダーに挿入します。 次に、**ボディコード**&#x200B;に対しても同じようにします。
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Webページへのスクリプトの貼り付け {#pasting-the-scripts-onto-your-webpage}
+## Webページへのスクリプトの貼り付け{#pasting-the-scripts-onto-your-webpage}
 
 変換スクリプトを、bodyとheaderのHTMLに貼り付けます。 次に、ローダースクリプトをbodyとheaderのHTMLに配置します。
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
-## 変換スクリプトの接続 {#connecting-the-conversion-script}
+## 変換スクリプトの接続{#connecting-the-conversion-script}
 
 目標の完了をトリガーするページ要素の特定のHTML IDを使用するJavaScript関数を記述する場所です。 次に例を示します。
 
