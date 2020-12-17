@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# デフォルトのSalesforceフィールドマッピング {#default-salesforce-field-mapping}
+# デフォルトのSalesforceフィールドマッピング{#default-salesforce-field-mapping}
 
 MarketoのアカウントをSalesforceと最初に同期すると、Marketoは組み込みのSalesforceフィールドとMarketoフィールドの間でこれらの関連付けを自動的に行います。 また、マーケティング担当者は、リード、アカウント、オポチュニティ、連絡先のカスタムフィールドも同期します。
 
-## リードフィールド {#lead-fields}
+## リードフィールド{#lead-fields}
 
 | SFDCフィールド | Marketoフィールド |
 |---|---|
@@ -48,7 +48,7 @@ MarketoのアカウントをSalesforceと最初に同期すると、Marketoは�
 | タイトル | 肩書 |
 | Webサイト | Webサイト |
 
-## 連絡先フィールド {#contact-fields}
+## 連絡先フィールド{#contact-fields}
 
 | SFDCフィールド | Marketoフィールド |
 |---|---|
@@ -73,7 +73,7 @@ MarketoのアカウントをSalesforceと最初に同期すると、Marketoは�
 | 挨拶 | 挨拶 |
 | タイトル | 肩書 |
 
-## アカウントフィールド {#account-fields}
+## アカウントフィールド{#account-fields}
 
 | SFDCフィールド | Marketoフィールド |
 |---|---|
@@ -94,7 +94,7 @@ MarketoのアカウントをSalesforceと最初に同期すると、Marketoは�
 | アカウントタイプ | SFDCタイプ |
 | Webサイト | Webサイト |
 
-## MarketorのSalesforce関連システムフィールド（読み取り専用） {#salesforce-related-system-fields-in-marketo-read-only}
+## MarketoのSalesforce関連システムフィールド（読み取り専用） {#salesforce-related-system-fields-in-marketo-read-only}
 
 これらのフィールドはMarketoで作成されますが、顧客は調整できません。
 
