@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# チェックオフする項目 {#items-to-check-off}
+# チェックオフする項目{#items-to-check-off}
 
 ![](assets/life-preserver.jpg)
 
 適切な種類のアクセスと情報が適切に設定されていることを確認します。 次の簡単な手順を実行して、TODOリストからすぐにいくつかのことを確認できます。
 
-* Marketorの機能を簡単に概要 [**に説明します**](https://pages2.marketo.com/demoFull.html)。
+* [**マーケット人の行動**](https://pages2.marketo.com/demoFull.html)の簡単な概要をご覧ください。
 
-* **Marketing Nationコミュニティでプロファイル** を設定します( [****](https://nation.marketo.com/) ユーザー名とパスワードが必要)。
+* **Marketing** Nationsコミュニティで [****](https://nation.marketo.com/) プロファイルを設定します（ユーザー名とパスワードが必要）。
 
-* Marketing Nation [**コミュニティと連携して、ご質問に対する回答を得る方法を説明します**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) 。
+* [**マーケティング国**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)コミュニティと連携して、ご質問に対する回答を得る方法を説明します。
 
-* 「Marketo Nationコミュニティ **のプロファイル」で** 「自分の場所」をクリックして、会社のアカウントページをチェックアウトします。
+* Marketo Nationコミュニティプロファイルの&#x200B;**「お客様の場所**」をクリックして、会社のアカウントページを確認します。
 
-* サポート事例を [**送信する方法**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (および認定サポート担当者として [**設定されていることを確認する方法**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341))を説明します。
+* [**サポートケース**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201)を送信する方法（および&#x200B;[**認定サポート連絡先**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)として設定されていることを確認する）を説明します。
 
-* [**ユーザーを管理し**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) 、会社を離れたユーザーを削除します。
+* [**ユー**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) ザーを管理し、会社ーを離れたユーザーを削除します。
