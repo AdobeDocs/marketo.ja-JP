@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 標準スマート・リスト・ルール・ロジックの使用 {#using-standard-smart-list-rule-logic}
+# 標準的なスマートリストルールロジックの使用{#using-standard-smart-list-rule-logic}
 
 キャンペーンのスマートリストを構築する際に、「フィルターを使用」オプションが表示されている可能性があります。 この設定を使用すると、フィルターをANDまたはOR演算子で評価する必要があるかどうかを判断できます。
 
@@ -19,13 +19,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->スマートリストルールロジックの変更は、フィルターにのみ適用され、トリガー **には適用されません** 。
+>スマートリストのルールロジックの変更は、フィルターにのみ適用され、****&#x200B;トリガーには適用されません。
 
 上記の設定がALLに設定されている場合でも、トリガーは常にORとして評価されます。  次に例を示します。
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
-上記のスマートリスト（単語）:`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` したがって、ユーザーがフォームに入力した **** かページを訪問した場合、キャンペーンは、使用した設定に応じて、後続のフィルターの**all **or **any **に基づいてそのユーザーを評価します。
+上記のスマートリスト（単語）:
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>`人が&#x200B;**または**&#x200B;の形式でページを訪問した場合、キャンペーンは、使用した設定に応じて、後続のフィルターの**all **or **any **に基づいてその人を評価します。
 
 >[!MORELIKETHIS]
 >
