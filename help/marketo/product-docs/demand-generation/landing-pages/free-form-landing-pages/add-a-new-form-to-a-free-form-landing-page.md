@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フ追加リーフォームランディングページへの新しいフォーム {#add-a-new-form-to-a-free-form-landing-page}
+# フ追加リーフォームランディングページへの新しいフォーム{#add-a-new-form-to-a-free-form-landing-page}
 
 フォーム、ランディングページを満たす。 ランディングページ、形式を満たす。
 
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. ランディングページを探し、「 **編集****」「**&#x200B;ドラフト」をクリックします。
+1. ランディングページを探して、**編集** **ドラフト**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. フ **ォーム** 要素をページにドラッグ&amp;ドロップします。
+1. **フォーム**&#x200B;要素をページにドラッグ&amp;ドロップします。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 1. フォローアップページを選択する際には、次の3つのオプションがあります。
 
-   * **ランディングページ** — マーケティング担当者ランディングページを選択します。
+   * **ランディングページ**  — マーケティングランディングページを選択
    * **外部**** URL** — 目的のURLを選択します。
 
    * **Form**** Defined** — フォームレベルで定義された設定を使用します。
@@ -53,10 +53,10 @@ ht-degree: 0%
    >
    >フォローアップページは、訪問者がフォームを送信した後に表示されるページです。
 
-1. [ **挿入**]をクリックします。
+1. 「**挿入**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    うまくいった！
 
-ランディングページエディターを閉じて、ランディングページのドラフトを [承認するだけ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)。
+ランディングページエディターを閉じて、[ランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認します。
