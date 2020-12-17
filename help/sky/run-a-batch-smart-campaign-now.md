@@ -20,12 +20,12 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. 「 **[!UICONTROL スケジュール]** 」タブに移動し、「実行 **[!UICONTROL 」をクリックし]**&#x200B;追加ます。
+1. 「**[!UICONTROL スケジュール]**」タブに移動し、「**[!UICONTROL 実行]**」追加をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. 「 **[!UICONTROL 今すぐ]** 実行 **[!UICONTROL 」が選択されていることを確認し、「]**&#x200B;確認」をクリックします。
+1. 「**[!UICONTROL 今すぐ実行]**」が選択されていることを確認し、「**[!UICONTROL 確認]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-それで終わり。 また、必要に応じて、後で実行する [ようにスケジュールすることもできます](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) 。
+それで終わり。 [後の](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later)に対して実行するスケジュールも好みに応じて設定できます。
