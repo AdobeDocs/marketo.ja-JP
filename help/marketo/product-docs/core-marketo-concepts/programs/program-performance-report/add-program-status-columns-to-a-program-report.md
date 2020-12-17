@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# プログラム追加ステータス列とプログラムレポート {#add-program-status-columns-to-a-program-report}
+# プログラム追加ステータス列からプログラムレポート{#add-program-status-columns-to-a-program-report}
 
-プログラムの状態に関する [プログラムのパフォーマンスレポート](create-a-program-performance-report.md)の統計です。
+[プログラムのパフォーマンスレポート](create-a-program-performance-report.md)へのプログラムステータスに関する追加統計です。
 
 1. 「マーケティングアクティビティ（またはAnalytics）」に移動します。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >プログラムステータス列を表示するには、レポートを1つの *チャネルでフィルタする必要があります* 。
+   >プログラムステータス列を表示するには、レポートを&#x200B;*1つの*&#x200B;チャネルでフィルタする必要があります。
 
 1. [プログラムステータス列を表示する]オプションをオンにします。 「適用」をクリックします。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->プログラム内の各ステータスに対して列が表示されない場合は、レポートに表示する列を [選択していることを確認します](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。
+>プログラムに各ステータスの列が表示されない場合は、[選択した列がレポートに](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)と表示されていることを確認してください。
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->詳しくは、 [基本レポートを参照してください](http://docs.marketo.com/display/docs/basic+reporting)。
+>詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
