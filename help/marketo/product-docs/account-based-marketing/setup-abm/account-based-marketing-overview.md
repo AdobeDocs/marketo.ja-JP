@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# アカウントベースのマーケティングの概要 {#account-based-marketing-overview}
+# アカウントベースのマーケティングの概要{#account-based-marketing-overview}
 
 マーケティング担当者は、アカウントベースのマーケティングにご協力ください。 アカウントベースのマーケティングで、マーケティング担当者に会う。
 
@@ -47,18 +47,18 @@ Marketo ABMは、次の3つのコンポーネントで構成されています�
 
 マーケティング先のアカウントベースのマーケティングでは、様々なツールをオファーして、チャネル間で名前付きのアカウントエクスペリエンスをパーソナライズすることもできます。
 
-* 電子メール&amp;ランディングページ [のパーソナライゼーション](http://docs.marketo.com/display/DOCS/Personalization)
+* 電子メール&amp;ランディングページ[パーソナライゼーション](http://docs.marketo.com/display/DOCS/Personalization)
 * Web [パーソナライゼーション](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
 * URL [パーソナライゼーション](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* 広告の [パーソナライゼーション](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Personalized](http://docs.marketo.com/display/DOCS/Website+Retargeting) Remarketing
+* 広告[パーソナライゼーション](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [PersonalizedRemarketing](http://docs.marketo.com/display/DOCS/Website+Retargeting) 
 
 入った！ 使用を開始する方法
 
-お前に聞かれないと思った！ ABMはMarketo購読のアドオンとして使用できるので、担当のセールス担当者に連絡して導入を依頼してください。 取得したら、次の記事を確認します。 [ABM使用の手引き](getting-started-with-abm.md)。
+お前に聞かれないと思った！ ABMはMarketo購読のアドオンとして使用できるので、担当のセールス担当者に連絡して導入を依頼してください。 取得したら、次の記事を確認します。[ABMの使い始めに](getting-started-with-abm.md)
 
 >[!NOTE]
 >
->Marketto ABMで管理される名前付きアカウントは、Webパーソナライゼーションのニーズに合わせて、Web ABMから直接アクセスできます。 詳細 [はこちら](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
+>Marketto ABMで管理される名前付きアカウントは、Webパーソナライゼーションのニーズに合わせて、Web ABMから直接アクセスできます。 詳細[こちら](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
 
 Marketo ABMへようこそ。ターゲットを絞ったマーケティングを楽しんでください。
