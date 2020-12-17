@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレート2 ～ C {#template-c}
+# テンプレート2-C {#template-c}
 
 [テンプレート2 ～ Cをダウンロード](http://docs.marketo.com/download/attachments/7516475/template2-c.html?version=1&amp;modificationdate=1433229240000&amp;api=v2)
 
