@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics同期フィルタ：結合 {#microsoft-dynamics-sync-filter-merge}
+# Microsoft Dynamics同期フィルタ：{#microsoft-dynamics-sync-filter-merge}を結合
 
 Microsoft Dynamicsでリードをマージする際に、同期フィルター=はい(TRUE)と同期フィルター=いいえ(FALSE)の2つのオプションタイプが使用されます。 2つのレコードを結合する場合、結果は、TrueとFalseのレコードによって異なります。
 
@@ -22,7 +22,7 @@ Microsoft Dynamicsでリードをマージする際に、同期フィルター=�
 | 失われるレコードの同期フィルタが次の場合： | 勝者レコードの同期フィルターは次のとおりです。 | これは、Marketo |
 |---|---|---|
 | True | True | 勝者レコードは引き続きマーケティング担当者と同期されます |
-| False | False | 勝者レコードが引き続きマーケティング担当者と同期し **ません** 。 |
+| False | False | 勝者レコードは引き続き&#x200B;**Marketoと**&#x200B;同期&lt;a1/>されません |
 | False | True | 勝者レコードは、マーケティング担当者と同期されます |
 | True | False | 勝者レコードはマーケティング担当者と同期されません |
 
