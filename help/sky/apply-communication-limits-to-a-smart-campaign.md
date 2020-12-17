@@ -16,22 +16,22 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->通信制限を [有効にする](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>[通信制限](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)を有効にすることを忘れない
 
 >[!NOTE]
 >
 >指定された通信制限を超える人がいる場合、Marketorは非操作電子メール（操作用電子メールが常に送信される）をブロックします。
 
-1. スマートキャンペーンを選択し、「 **[!UICONTROL スケジュール]** 」タブをクリックします。
+1. スマートキャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブをクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. 「 [!UICONTROL 資格ルール] 」を開き、「非操作電子メールを **[!UICONTROL ブロック]** 」チェックボックスをオンにします。
+1. [!UICONTROL 認定ルール]を開き、**[!UICONTROL 操作不能な電子メールをブロック]**&#x200B;チェックボックスをオンにします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者 [」セクションで](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) 通信制限を編集します。
+>これをデフォルトにするには、「管理者」セクションで[通信制限](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)を編集します。
 
 誤ってオーディエンスに送信する電子メールの数が多くなりすぎないように保証できます。
