@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのエントリの編集 {#editing-entries-in-the-program-schedule-view}
+# プログラムスケジュール表示のエントリの編集{#editing-entries-in-the-program-schedule-view}
 
 スケジュール表示で、プログラムの様々な要素に編集を加えることができます。
 
-## 参加者名の編集 {#edit-an-entrys-name}
+## エントリ名の編集{#edit-an-entrys-name}
 
 1. 編集するエントリを選択します。
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 新しい名前を入力し、キーボードの **Enter/Return** キーを押して変更を確認します。
+1. 新しい名前を入力し、キーボードの&#x200B;**Enter/Return**&#x200B;キーを押して、変更を確認します。
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 >
 >これは、スケジュール表示の表示名を変更するだけです。 プログラムー内のアセットの名前は変更されません。
 
-## 参加者の説明の編集 {#edit-an-entrys-description}
+## エントリの説明の編集{#edit-an-entrys-description}
 
 1. 説明アイコンをクリックします。
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 説明を編集します。 「 **保存**」をクリックします。
+1. 説明を編集します。 「**保存**」をクリックします。
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## 参加者の日付の編集 {#edit-an-entrys-date}
+## 参加者の日付の編集{#edit-an-entrys-date}
 
 1. 新しい日付を選択します。
 
