@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：アクティビティ同期 {#sfdc-sync-activity-sync}
+# SFDC同期：アクティビティ同期{#sfdc-sync-activity-sync}
 
 また、MarketoはSalesforceアクティビティデータを同期します。 質問と回答をいくつか示します。
 
-## Marketorはどのようなタイプのアクティビティデータを同期しますか。 {#what-types-of-activity-data-does-marketo-sync-over}
+## Marketorはどのようなタイプのアクティビティデータを同期しますか。{#what-types-of-activity-data-does-marketo-sync-over}
 
 マーケティング担当者は、リードまたは担当者に関連付けられたイベントとタスクの両方で同期します。
 
-## 2つのシステム間でアクティビティの詳細を同期させる方法 {#how-are-activity-details-kept-in-sync-between-the-two-systems}
+## 2つのシステム間でアクティビティの詳細を同期させる方法{#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同期は、SalesforceからMarketoへの1つの方法です。 ただし、タスク [作成フロー手順またはSalesforceと同期するタスクの](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) カスタマイズを使用して、Salesforceでアクティビティを作成できます [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) 。
+同期は、SalesforceからMarketoへの1つの方法です。 ただし、[タスクの作成](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティのカスタマイズ](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を使用して、Salesforceでタスクを作成できます。
 
-## Marketoを使用してタスクを作成できますか。 {#can-i-create-a-task-using-marketo}
+## Marketoを使用してタスクを作成できますか。{#can-i-create-a-task-using-marketo}
 
-はい、タスクフローの [作成アクションを使用できます](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)。
+はい、[タスクフローの作成アクション](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)を使用できます。
 
-## アクティビティに関連するトリガー/フィルターは何ですか。 {#what-are-the-triggers-filters-related-to-activity}
+## アクティビティに関連するトリガー/フィルターは何ですか。{#what-are-the-triggers-filters-related-to-activity}
 
 Triggers
 
@@ -41,5 +41,5 @@ Triggers
 
 >[!TIP]
 >
->「アクティビティでない」という言葉が分からない場合は、 「not」は、無操作状態フィルタを指します。 詳しくは、次を参照してください。 [スマートリストでの無操作フィルターの使用](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>「アクティビティでない」という言葉が分からない場合は、 「not」は、無操作状態フィルタを指します。 詳しくは、次を参照してください。[スマートリストで無操作フィルターを使用する](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
