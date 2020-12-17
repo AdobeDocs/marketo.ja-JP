@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Salesforce同期の有効化/無効化 {#enable-disable-the-salesforce-sync}
+# Salesforce同期を有効/無効{#enable-disable-the-salesforce-sync}
 
 同期またはフィールドの設定に大幅な変更を加える場合は、設定中に同期を無効にする必要があります。 方法を次に示します。
 
-1. 「 **管理者** 」セクションに移動します。
+1. **管理者**&#x200B;セクションに移動します。
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
    **
 
-1. 「 **Salesforce**」で、「同期を **無効にする**」をクリックします。
+1. **Salesforce**&#x200B;で、**「同期を無効にする**」をクリックします。
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
