@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## トークンの編集
 
-キャンペーンフォルダーまたはプログラムの「 [!UICONTROL マイトークン] 」タブで、編集するトークンの **[!UICONTROL 値]** (Value)をクリックします。 これでエディターウィンドウが開きます。
+キャンペーンーフォルダーまたはプログラムーの[!UICONTROL マイトークン]タブで、編集するトークンの&#x200B;**[!UICONTROL 値]**&#x200B;をクリックします。 これでエディターウィンドウが開きます。
 
 ![イメージ1](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->テキストトークンには、個別のエディターウィンドウはありません。 「 **[!UICONTROL 値]** 」をクリックしてインライン編集を行います。
+>テキストトークンには、個別のエディターウィンドウはありません。 **[!UICONTROL 「値]**」をクリックして、インライン編集を行います。
 
 ![イメージ2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## トークンの削除
 
-1. トークンを右クリックし、「 **[!UICONTROL 削除]**」を選択します。
+1. トークンを右クリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![イメージ3](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. 「 **[!UICONTROL 確認]**」をクリックします。
+1. 「**[!UICONTROL 確認]**」をクリックします。
 
    ![画像4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,16 +40,16 @@ ht-degree: 0%
 
 ## トークンのコピー
 
-1. マイトークンをコピーするには、そのトークンを右クリックし、「 **[!UICONTROL Clone]**」を選択します。
+1. マイトークンをコピーするには、そのトークンを右クリックし、「**[!UICONTROL コピー]**」を選択します。
 
    ![画像5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. クローントークンの新しい名前を入力し、必要に応じて編集し、「 **[!UICONTROL 保存]**」をクリックします。
+1. クローントークンの新しい名前を入力し、必要に応じて編集し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
 ## トークン名のコピー
 
-トークンの名前(例：クリップボード `{{my.Event Calendar File}}`)をコピーするには、トークンを右クリックし、「トークン名を **コピー**」を選択します。
+トークンの名前をクリップボードにコピーするには（例：`{{my.Event Calendar File}}`）、トークンを右クリックし、「**トークン名をコピー**」を選択します。
 
 ![画像7](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
