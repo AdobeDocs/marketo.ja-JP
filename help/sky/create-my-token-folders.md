@@ -16,11 +16,11 @@ ht-degree: 0%
 
 マイトークンをフォルダーに並べ替える方法を次に示します。
 
-1. キャンペーンフォルダーまたはプログラムの「 [!UICONTROL マイトークン] 」タブで、右上にある「フォルダーを [!UICONTROL 作成] 」アイコンをクリックします。
+1. キャンペーンフォルダーまたはプログラムーの[!UICONTROL マイトークン]タブで、右上の[!UICONTROL フォルダーを作成]アイコンをクリックします。
 
    ![イメージ1](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 新しいフォルダーの名前を入力し、「ロー **[!UICONTROL カルトークン]** 」または「上書きされたトークン **** 」を宛先ドロップダウンから選択します。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 新しいフォルダーの名前を入力し、[宛先]ドロップダウンから[**[!UICONTROL ローカルトークン]**]または[**[!UICONTROL 上書きされたトークン]**]を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->フォルダ名を変更するには、フォルダを右クリックし、[ **[!UICONTROL 名前の変更]**]をクリックします。
+>フォルダー名を変更するには、フォルダーを右クリックし、「**[!UICONTROL 名前の変更]**」をクリックします。
