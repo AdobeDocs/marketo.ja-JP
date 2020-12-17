@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 権限 {#permissions}
+# 権限{#permissions}
 
 ユーザーがABMを使用できるようにするには、権限を設定する必要があります。 これが方法です。
 
-1. 「 **管理者**」をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. 「 **ユーザーと役割**」をクリックします。
+1. 「**ユーザーとロール**」をクリックします。
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
    >
    >既存のロールにABM権限を追加したり、新しいロールを作成したりできます。 この例では、新しいロールを使用します。
 
-1. 「 **Roles**」をクリックし、「 **New Role**」をクリックします。
+1. 「**ロール**」をクリックし、「**新しいロール**」をクリックします。
 
    ![](assets/three-2.png)
 
-1. ロール名を入力し、「アカウントベースのマーケティングにアクセス」チェックボックスの横にある **+** アイコンをクリックします。
+1. ロール名を入力し、「アカウントベースのマーケティングにアクセス」チェックボックスの横の&#x200B;**+**&#x200B;アイコンをクリックします。
 
    ![](assets/four-1.png)
 
-1. す *べての権限を選択するには* 、「アカウントベースのマーケティング **** 」チェックボックスをオンにします。
+1. *すべての*&#x200B;権限を選択するには、「**アカウントベースのマーケティングにアクセス**」チェックボックスをオンにします。
 
    ![](assets/five-1.png)
 
@@ -43,10 +43,10 @@ ht-degree: 0%
    >
    >また、一部のオプションのみを選択することもできます。 それには、各チェックボックスを個別にオンにします。
 
-1. 「 **+」をクリック** して、アクセス管理者メニューを開きます。 「 **Access ABM Admin** 」チェックボックスをオンにします。
+1. 「**+**」をクリックして、「アクセス管理者」メニューを開きます。 「**ABM管理者にアクセス**」チェックボックスをオンにします。
 
    ![](assets/six-1.png)\
-   これで、新しいABMロールをユーザーに [割り当てる準備ができました](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)。
+   これで、新しいABMロールを[ユーザー](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)に割り当てる準備ができました！
 
    ![](assets/seven.png)
 
