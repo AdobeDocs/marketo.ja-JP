@@ -14,20 +14,20 @@ ht-degree: 0%
 
 <br> 
 
-画像エディタを使用すると、内部の画像を簡単に編集でき [!DNL Marketo]ます。
+[!DNL Marketo]内の画像に対しては、画像エディタを使用してすばやく簡単に編集できます。
 
-1. で、 [!DNL Marketo Sky]Design Studio [!UICONTROL を開きます]。
+1. [!DNL Marketo Sky]で、[!UICONTROL Design Studio]を開きます。
 
    ![イメージ1](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
-1. 画像([!UICONTROL Recent Design Studio Assets] ( [!UICONTROL Recent Design Studio Assets])またはImages &amp; Files)を探し、ファイル名をクリックします。
+1. 画像（[!UICONTROL Recent Design Studio Assets]または[!UICONTROL Images &amp; Files]）を探し、ファイル名をクリックします。
 
    ![イメージ2](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. 「画像を **[!UICONTROL 編集]** 」ボタンをクリックします。
+1. 「**[!UICONTROL 画像を編集]**」ボタンをクリックします。
 
    ![イメージ3](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. 上部のツールバーにある様々な機能から選択します。 終了したら **[!UICONTROL 「保存]** 」をクリックします。
+1. 上部のツールバーにある様々な機能から選択します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像4](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
