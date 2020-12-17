@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンについて {#understanding-smart-campaigns}
+# スマートキャンペーンについて{#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
 マーケトが強力な車であれば、スマートなキャンペーンはまさにエンジンです。 開始は簡単ですが、あなたが尋ねることならほとんど何でもできます。
 
-スマートキャンペーンには3つの主な領域があります。「 [スマートリスト](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)」、「 [フロー](http://docs.marketo.com/display/DOCS/Flow+Actions) 」、「スケジュール [](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) 」タブ。
+スマートキャンペーンには3つの主な領域があります。[スマートリスト](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[フロー](http://docs.marketo.com/display/DOCS/Flow+Actions)、[スケジュール](using-smart-campaigns/schedule-a-recurring-batch-campaign.md)タブ。
 
-## スマートリスト {#smart-list}
+## スマートリスト{#smart-list}
 
 スマートリストは、スマートキャンペーンとターゲットするWHOを定義する方法です。 フィルターとトリガーがあります。
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 フィルターは、様々な方法で組み合わせることができ、トリガーと組み合わせて使用することもできます。 これは強力な道具だ。
 
-## フロー {#flow}
+## フロー{#flow}
 
 このフローには、スマートキャンペーンに実行させる、待機ステップや分割オプションなどのステップが含まれます。
 
-## スケジュール {#schedule}
+## スケジュール{#schedule}
 
 最後に、スマートキャンペーンを実行するタイミングを制御します。 繰り返しスケジュールに従って実行するように繰り返しを設定することもできます。
 
