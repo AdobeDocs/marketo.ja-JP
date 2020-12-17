@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2014年1月 {#release-notes-january}
+# リリースノート：2014年1月{#release-notes-january}
 
-2014年1月リリースには、次の機能が含まれています。 機能が利用できるかどうかは、 [Marketor Editionで確認してください](http://www.marketo.com/pricing/) 。
+2014年1月リリースには、次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://www.marketo.com/pricing/)を確認してください。
 
 ## Forms2.0 {#forms}
 
-上昇：Forms2.0のドキュメントは、近日公開予定です。 それまでの間、以下の詳細および [導入ビデオをご覧ください](http://docs.marketo.com/display/docs/forms)。
+上昇：Forms2.0のドキュメントは、近日公開予定です。 その間、以下の詳細を確認し、[導入ビデオ](http://docs.marketo.com/display/docs/forms)で！
 
 フォーム作成プロセスを制御し、Web開発者に休憩を与えます。 [Forms](http://docs.marketo.com/display/docs/forms) 2.0は、マーケターがプログラミングに関する知識を必要とせずに、視覚的にも機能的にも堅牢なフォームを作成できるように設計されています。
 
@@ -38,17 +38,17 @@ Marketorランディングページに配置されたフォームからhtmlコ�
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-詳しくは、 [Forms2.0の導入ビデオを参照してください](http://docs.marketo.com/display/docs/forms)。 (近いうちに [Forms](http://docs.marketo.com/display/docs/forms) 深海に来る文書！)
+詳しくは、[Forms2.0導入ビデオ](http://docs.marketo.com/display/docs/forms)を参照してください。 (近日中に[Forms](http://docs.marketo.com/display/docs/forms)深い潜水機に来るドキュメント！)
 
-## 電子メールプログラムの通信制限 {#communication-limits-for-email-program}
+## 電子メールプログラムの通信制限{#communication-limits-for-email-program}
 
-[電子メールプログラムに「通信制限」を設定し](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 、データベースに過剰に通信しないようにします。 ユーザーが定義された制限を超えた場合、そのユーザーは電子メールを受信しません。
+[データベースに過剰に通信しないように、電子メール](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) プログラムに「通信制限」を設定します。ユーザーが定義された制限を超えた場合、そのユーザーは電子メールを受信しません。
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## プログラムメンバーシップ分析の追加フィールド {#additional-fields-in-program-membership-analysis}
+## プログラムメンバーシップ分析の追加フィールド{#additional-fields-in-program-membership-analysis}
 
-これで、リードと会社の属性別に [プログラムメンバーシップ分析](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 指標を追加およびグループ化できます。 例えば、[業種]フィールドを追加して、プログラムのメンバーと成功の分割を表示できます。
+これで、[プログラムメンバーシップ分析](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)指標をリードと会社の属性で追加およびグループ化できます。 例えば、[業種]フィールドを追加して、プログラムのメンバーと成功の分割を表示できます。
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
 
