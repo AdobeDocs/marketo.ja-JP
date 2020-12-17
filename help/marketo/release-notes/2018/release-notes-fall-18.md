@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：秋18 {#release-notes-fall}
+# リリースノート：秋&#39;18 {#release-notes-fall}
 
 2018年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
 タイトルリンクをクリックすると、各機能の表示の詳細記事が表示されます（ある場合）。
 
-## コアプラットフォームの強化 {#core-platform-enhancements}
+## コアプラットフォームの強化{#core-platform-enhancements}
 
 **[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Webパーソナライゼーションで複数のワークスペースがサポートされるようになりました。
 
-## マーケティング担当者の関与 {#marketo-sales-engage}
+## マーケティング担当営業{#marketo-sales-engage}
 
 * **SFDC Lightningのサポート**:Lightningに移行中または現在移行中のユーザーは、MSEを利用して購入者の遍歴を通じて効率的なエンゲージメントを実現できます。
 
@@ -36,9 +36,9 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
    * 管理ワークフローの向上：管理者は、一般的な管理者設定でチーム機能を有効にする際に、より効率的なワークフローを見つけることができます。
 
-## Marketo Sky {#marketo-sky}
+## Marketo Sky{#marketo-sky}
 
-詳細と更新については、 [Skyのリリースノートをご覧ください](https://help.marketo.com)。
+詳細と更新情報については、[Skyリリースノート](https://help.marketo.com)をご覧ください。
 
 * **デザインシステムの更新**
 
@@ -56,9 +56,9 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 * Design Studioリスト表示:リスト表示形式でランディングページテンプレートと電子メールテンプレートを表示できるようになり、1つのアセットタイプで簡単にナビゲーションおよびバルクアクションを実行できます。
 * Design Studioのアセットの詳細ページ：すべてのアセットを1か所で表示、整理、実行することで、時間と悩みの種類を削減。
 * **Marketo Sky**:Marketo Skyは、初期設定のプログラムをサポートするようになりました。これは、思い描く限りのキャンペーンを作成できる、用途の広いプログラムスタイルです。
-* **電子メールプログラム — フェーズ1**:Skyで電子メールプログラムを表示できるようになりました。 新しいデザインを見て、ご意見を [お聞かせください](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)。
+* **電子メールプログラム — フェーズ1**:Skyで電子メールプログラムを表示できるようになりました。新しいデザインを見て、[あなたの考えを教えてください。](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)
 
-## 解析 {#analytics}
+## 解析{#analytics}
 
 **Bizible**
 
@@ -86,7 +86,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 * **アクティビティ日別のエンゲージメント**:ユーザーは、アクティビティ日またはコスト期間別に、表示エンゲージメント指標を選択できます。
 * **ABM指定アカウントフィルター**:特定の名前付きアカウントでパイプラインと売上高ダッシュボードをフィルターします。
 
-## 広告ネットワーク {#ad-networks}
+## 広告ネットワーク{#ad-networks}
 
 **[更新トークン](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
