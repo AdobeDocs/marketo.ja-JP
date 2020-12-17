@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 言語、ロケール、タイムゾーンの選択 {#select-your-language-locale-and-time-zone}
+# 言語、ロケール、タイムゾーンを選択{#select-your-language-locale-and-time-zone}
 
 あなたの英語は初めての言語ではありませんか？ 心配するな、私たちはあなたを守る。 次に、独自の言語、ロケールおよびタイムゾーンを変更する方法を示します。
 
-## サポートされる言語 {#supported-languages}
+## サポートされる言語{#supported-languages}
 
 * 英語
 * フランス語
@@ -24,7 +24,7 @@ ht-degree: 0%
 * ポルトガル語
 * スペイン語
 
-## ユーザー言語、ロケールおよびタイムゾーンの変更 {#change-user-language-locale-and-time-zone}
+## ユーザー言語、ロケール、タイムゾーンの変更{#change-user-language-locale-and-time-zone}
 
 1. Marketorにログインし、自分の名前で「マイアカウント」を選択します。
 
