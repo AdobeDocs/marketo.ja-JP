@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メールスクリプトトークンの作成 {#create-an-email-script-token}
+# 電子メールスクリプトトークンの作成{#create-an-email-script-token}
 
-上級開発者は、電子メールで [Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html) を使用できます。 その方法を次に示します。
+上級開発者は、電子メールに[Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 「 **マイトークン** 」タブで、 **** 電子メールスクリプトトークンをドラッグします。
+1. 「**マイトークン**」タブで、**電子メールスクリプト**&#x200B;トークン内をドラッグします。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 電子メールスクリプトトークンの名前を指定し、 **クリックして** 、内容を編集します。
+1. 電子メールスクリプトトークンに名前を付け、**クリックして**&#x200B;内容を編集します。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 右側のツリーを使用して、 **Person、Opportunity**、 **Custom Object** Tokenをドラッグします。
+1. 右側のツリーを使用して、**Person、Opportunity**&#x200B;または&#x200B;**Custom Object**&#x200B;トークンをドラッグします。
 
    ![](assets/five-2.png)
 
@@ -57,11 +57,11 @@ ht-degree: 0%
    * [速度リファレンスガイド](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityツールJavadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. スクリプトが完了したら、「 **保存**」をクリックします。
+1. スクリプトが完了したら、「**保存**」をクリックします。
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 「 **保存** 」をもう一度クリックします。
+1. 「**保存**」をもう一度クリックします。
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
