@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンの個人制限の上書き {#override-person-restrictions-in-a-smart-campaign}
+# スマートキャンペーンの個人制限の上書き{#override-person-restrictions-in-a-smart-campaign}
 
-Marketorでは、スマートキャンペーンに振り分けられる人の最大数* *を設定できます。これにより、データベース全体を誤って電子メールで送信するのを防ぐことができます。 この制限を *上書きする場合は* 、次のようにします。
+Marketorでは、スマートキャンペーンに振り分けられる人の最大数* *を設定できます。これにより、データベース全体を誤って電子メールで送信するのを防ぐことができます。 この制限を&#x200B;*上書き*&#x200B;する場合は、次のようにします。
 
 >[!PREREQUISITES]
 >
->必ず、Marketor管理者でスマートキャンペーンに対する個人制限を [有効にしてください](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 。
+>Marketo Adminで、[スマートキャンペーン](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)に対する個人制限を有効にしてください。
 
-1. マーケティングアクティビティで、** **smartキャンペーンに移動し、「 **スケジュール**」をクリックします。
+1. マーケティングアクティビティで、** **smartキャンペーンに移動し、**スケジュール**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketorでは、スマートキャンペーンに振り分けられる人の最
    >
    >デフォルトの制限は、管理で設定された制限です。
 
-1. 新しい制限を入力し、「 **保存」をクリックします。**
+1. 新しい制限を入力し、[**保存]をクリックします。**
 
    ![](assets/three.png)
 
