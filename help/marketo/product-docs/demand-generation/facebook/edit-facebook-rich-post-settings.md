@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Facebookリッチ投稿設定の編集 {#edit-facebook-rich-post-settings}
+# Facebookのリッチ投稿設定の編集{#edit-facebook-rich-post-settings}
 
-ユーザーがFacebookで [共有した場合に投稿をカスタマイズします](http://docs.marketo.com/display/docs/social) 。
+ユーザー[がFacebookで](http://docs.marketo.com/display/docs/social)を共有した場合に投稿をカスタマイズします。
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-Marketor [Socialアプリ](http://docs.marketo.com/display/docs/social) ：リードがFacebookやTwitterなどのソーシャルネットワーク上のランディングページとつながりを共有できます。 FacebookのOpenGraphタグ（OGタグ）を使用すると、ランディングページのどの情報をFacebookの投稿に含めるかを指定できます。
+[ソーシャルアプリ](http://docs.marketo.com/display/docs/social)では、リードがFacebookやTwitterなどのソーシャルネットワーク上でランディングページを共有できます。 FacebookのOpenGraphタグ（OGタグ）を使用すると、ランディングページのどの情報をFacebookの投稿に含めるかを指定できます。
 
-## リッチ投稿のオプションを選択 {#select-rich-post-options}
+## リッチ投稿のオプションを選択{#select-rich-post-options}
 
 ランディングページからの共有によって生成されたFacebookリッチ投稿で使用するページ情報のタイプを指定できます。
 
-1. YouTube **ビデオまたはソーシャルボタン用のエディターで** 、「 **Facebookメッセージ** 」を選択します。
+1. **YouTube**&#x200B;ビデオまたはソーシャルボタン用のエディターで、「**Facebookメッセージ**」を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,12 +37,12 @@ Marketor [Socialアプリ](http://docs.marketo.com/display/docs/social) ：リ�
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 動的追加コンテンツ：Socialアプリでは、ランディングページの `<TITLE>`タグ、タグ `<CAPTION>``<DESCRIPTION>` 、タグを使用してリッチ投稿を入力できます。
+   * 動的追加コンテンツ：ソーシャルアプリは、ランディングページの`<TITLE>`、`<CAPTION>`および`<DESCRIPTION>`タグを使用して、リッチ投稿を入力できます。
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
    >
-   >これらのタグはページソースに既に存在するはずですが、管理を強化するために、特定のFacebook OGタグをランディングページに [追加できます](edit-facebook-rich-post-settings.md)。
+   >これらはページソースに既に存在するはずですが、管理を強化するために、[特定のFacebook OGタグをランディングページ](edit-facebook-rich-post-settings.md)に追加できます。
 
    * リッチコンテンツを追加しない：ランディングページからのFacebook投稿を、メインメッセージとリンクのみに制限します。
 
@@ -50,17 +50,17 @@ Marketor [Socialアプリ](http://docs.marketo.com/display/docs/social) ：リ�
 
 
 
-## ランディングページ追加へのFacebook OGタグ {#add-facebook-og-tags-to-a-landing-page}
+## ランディングページ追加へのFacebook OGタグ{#add-facebook-og-tags-to-a-landing-page}
 
 ランディングページからFacebook共有に含めるページ要素を制御するには、ランディングページにタイトル、キャプション、説明のFacebook OG(Open Graph)タグを追加します。
 
-1. YouTubeビデオ **** またはソーシャルボタンを含むランディングページを開きます。
+1. **YouTubeビデオ**&#x200B;またはソーシャルボタンを含むランディングページを開きます。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   ランディングページ **デザイナが新しいウィンドウで開きます** 。
+   **ランディングページデザイナ**&#x200B;が新しいウィンドウで開きます。
 
-1. 「 **ランディングページアクション** / **ページメタタグを編集**」を選択します。*.*
+1. **ランディングページアクション**/**ページのメタタグを編集***.**を選択します。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
