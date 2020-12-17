@@ -29,22 +29,22 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. 概要で、「 [!UICONTROL イベントキャップ] 」を見つけ、「 **[!UICONTROL 未設定」をクリックします]**。
+1. 概要で、[!UICONTROL イベントCap]を探し、**[!UICONTROL 設定しない]**&#x200B;をクリックします。
 
    ![イメージ2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. イベントに登録できる最大人数を入力し、「 **[!UICONTROL 次へ]**」をクリックします。
+1. イベントに登録できる最大人数を入力し、[**[!UICONTROL 次へ]**]をクリックします。
 
    ![イメージ3](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. 「 [!UICONTROL 登録ページ] 」ドロップダウンをクリックし、登録ページとして機能するランディングページを選択します。
+1. 「[!UICONTROL 登録ページ]」ドロップダウンをクリックし、登録ページとして機能するランディングページを選択します。
 
    ![画像4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. 「 **[!UICONTROL 登録完全ページ]** 」ドロップダウンをクリックし、登録の完全ページとして機能するランディングページを選択します。 完了したら、「 **[!UICONTROL 設定して有効にする]** 」をクリックします。
+1. **[!UICONTROL 登録の完全なページ]**&#x200B;ドロップダウンをクリックし、登録の完全なページとして機能するランディングページを選択します。 完了したら、「**[!UICONTROL 設定して有効にする]**」をクリックします。
 
    ![画像5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   準備は完了です。 イベントキャップの詳細を編集する場合は、[ [!UICONTROL イベントキャップ] ]の横の青いテキストをクリックし、手順3から繰り返します。
+   準備は完了です。 イベントキャップの詳細を編集する場合は、[!UICONTROL イベントキャップ]の横の青いテキストをクリックし、手順3から繰り返します。
 
    ![画像6](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
