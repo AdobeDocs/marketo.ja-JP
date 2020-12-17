@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# マーケティングの用語の更新 {#updates-to-marketo-terminology}
+# マーケティング用語{#updates-to-marketo-terminology}の更新
 
 プラットフォームに変更を加えています。これは、何と呼ばれるかに影響を与えます。 2016年3月時点で新しいMarketoインスタンスがある場合、または2016年7月以降に会社が更新された場合は、現在新しい用語が表示されている可能性があります。
 
@@ -19,7 +19,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
 
 何が変わったの？
 
-## リードが現在の人 {#lead-is-now-person}
+## リードは現在人物{#lead-is-now-person}
 
 最大の変更点は、個人/人に対するリード/リードの名前変更です。
 
@@ -71,17 +71,17 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </tbody> 
 </table>
 
-鉛と人 **は同じもの**。
+リードと人&#x200B;**は同じ**&#x200B;です。
 
-## トークン {#tokens}
+## トークン{#tokens}
 
-leadという単語を含むトークン **は変更されません**。 ご混乱をおかけして申し訳ございません。ただし、新しい用語に一致するようにすべてのトークンを変更すると、現在使用中のトークンが大量に破棄されます。 「`{{lead.First Name}}`」などのトークンは引き続き表示されます。 個人固有のトークンはありません。
+**にleadという単語を含むトークンは、**&#x200B;を変更しません。 ご混乱をおかけして申し訳ございません。ただし、新しい用語に一致するようにすべてのトークンを変更すると、現在使用中のトークンが大量に破棄されます。 そのため、「`{{lead.First Name}}`」などのトークンは引き続き表示されます。 個人固有のトークンはありません。
 
 >[!NOTE]
 >
->「人 *物ノート* 」と呼ばれるトークンがありますが、常にそのトークンが存在していました。 この変数は、CRMの説明フィールドに使用されます（すべての場合）。
+>*は*「人物ノート」と呼ばれるトークンですが、そのトークンは常に存在していました。 この変数は、CRMの説明フィールドに使用されます（すべての場合）。
 
-## フィールド管理 {#field-management}
+## フィールド管理{#field-management}
 
 「Lead」という用語を含むフィールドは、「Person」で置き換えられたか、「Lead」という語がドロップされました。 ただし、「Lead Owner（リードの所有者）」フィールドは例外です。 現在は「Sales Owner（販売所有者）」と呼ばれています。
 
@@ -110,9 +110,9 @@ leadという単語を含むトークン **は変更されません**。 ご混�
 
 >[!NOTE]
 >
->影響を受けるフィールド名の完全なリストについては、この [サポート記事を参照してください](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)。
+>影響を受けるフィールド名の完全なリストについては、[サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)を参照してください。
 
-## リアルタイムパーソナライゼーション(RTP)がウェブパーソナライゼーションに {#real-time-personalization-rtp-is-now-web-personalization}
+## リアルタイムパーソナライゼーション(RTP)は、ウェブパーソナライゼーションに変更されました{#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,7 +139,7 @@ leadという単語を含むトークン **は変更されません**。 ご混�
 
 名前の変更に加え、4つの個別のアプリで構成されるようになりました。
 
-| ** [Webパーソナライゼーション](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
+| ** [ウェブパーソナライゼーション](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
 |---|---|
 | ** [アカウントベースのWebマーケティング](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
 | ** [パーソナライズされたリターゲティング](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
