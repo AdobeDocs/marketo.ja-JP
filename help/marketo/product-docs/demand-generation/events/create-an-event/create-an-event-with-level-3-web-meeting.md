@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# レベル3 Web会議でイベントを作成する {#create-an-event-with-level-web-meeting}
+# レベル3 Web会議{#create-an-event-with-level-web-meeting}を使用してイベントを作成する
 
 >[!PREREQUISITES]
 >
 >* [LaunchPointサービスとしての追加レベル3 Web会議](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な [フロー](https://docs.marketo.com/x/k8Kt)アクションを設定して、エンゲージメントを追跡する
+>* 適切な[フローアクション](https://docs.marketo.com/x/k8Kt)を設定して、エンゲージメントを追跡します。
 
 >
 
 
 
-まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、 [Level 3 Resource Library](http://www.level3.com/en/resource-library/)（レベル3リソースライブラリ）を確認してください。 BrightTalkと非常に似ています。  Marketorは、Level 3フィールドの小さなサブセットを使用します。
+まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、[Level 3 Resource Library](http://www.level3.com/en/resource-library/)をご覧ください。 BrightTalkと非常に似ています。  Marketorは、Level 3フィールドの小さなサブセットを使用します。
 
 * **名前** - Webキャストの名前。
 * **開始日** - Webキャストの開始日。
@@ -31,11 +31,11 @@ ht-degree: 0%
 * **タイムゾーン** - Webキャストに設定されているタイムゾーン。
 * **説明** - Webキャストの説明。
 
-1. 新しいイベントを選択します。 「 **イベントの操作」をクリックし** 、「 **イベントの設定」をクリックします。**
+1. 新しいイベントを選択します。 「**イベントアクション、**」、「**イベント設定」の順にクリックします。**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. 「イベントパートナー」で、「 **Level 3 Web Meeting**」を選択します。
+1. 「イベントパートナー」で、「**Level 3 Web Meeting**」を選択します。
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -47,14 +47,14 @@ ht-degree: 0%
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
    最高！ イベントをLevel 3に接続しました！
 
-## スケジュールの表示  {#viewing-the-schedule}
+## スケジュールの表示{#viewing-the-schedule}
 
-[ [プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)]で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
+[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
