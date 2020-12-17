@@ -18,11 +18,11 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. 「 **[!UICONTROL 追加ストリーム]**」をクリックします。
+1. 「**[!UICONTROL ストリーム追加]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
