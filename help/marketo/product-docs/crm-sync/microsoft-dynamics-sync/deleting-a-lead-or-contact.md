@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リードまたは担当者の削除 {#deleting-a-lead-or-contact}
+# リードまたは連絡先の削除{#deleting-a-lead-or-contact}
 
 Microsoft Dynamicsでリード/連絡先を削除する際に知っておくべきことがいくつかあります。
 
