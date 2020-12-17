@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# アカウントフィルター {#account-filters}
+# アカウントフィルター{#account-filters}
 
 新しいアカウント中心のフィルターを使用して、固有のアカウントとその中の個人を特定し、関与させます。
 
-## ABMフィルター {#abm-filters}
+## ABMフィルター{#abm-filters}
 
-1. スマートキャンペーンを選択し、「 **スマートリスト**」をクリックします。
+1. スマートキャンペーンを選択し、**スマートリスト**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
-1. [ **+]をクリック** して[ **アカウントフィルター** ]フォルダを展開します。
+1. **+**&#x200B;をクリックして&#x200B;**アカウントフィルター**&#x200B;フォルダーを展開します。
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## 勘定リストのメンバ {#member-of-account-list}
+## アカウントリストのメンバ{#member-of-account-list}
 
 このフィルタを使用するには、アカウントリストドロップダウンをクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >アカウントリストのメンバーフィルターには、次の修飾子が1つだけあります。&quot;is&quot; — 追加の修飾子（「is not」や「is any」など）は使用できません。
 
-## 指定されたアカウントのメンバ {#member-of-named-account}
+## 名前付きアカウントのメンバ{#member-of-named-account}
 
 1. 修飾子を選択します。 特定の名前のアカウントの場合、または任意の名前の付いたアカウントの場合。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 「いずれか」の修飾子を使用する場合は、 [制約を利用して検索結果を絞り込むことができます](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) 。 好き追加なだけ！
+1. 「いずれか」の修飾子を使用する場合は、[制約](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
 
    ![](assets/nine.png)
 
