@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# LaunchPointイベントパートナー {#launchpoint-event-partners}
+# LaunchPointイベントパートナー{#launchpoint-event-partners}
 
 MarketorをLaunchPointイベントパートナーに接続して、オンラインイベントを自動化します。 接続すると、次のことができます。
 
