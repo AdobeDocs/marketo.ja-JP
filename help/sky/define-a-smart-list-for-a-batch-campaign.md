@@ -16,7 +16,7 @@ ht-degree: 0%
 
 スマートリストは、レポート、リスト、スマートキャンペーンのいずれを含めるかを定義する、マーケティング全体のメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
 
-1. スマートキャンペーンを選択し、「 **[!UICONTROL スマートリスト]**」をクリックします。
+1. スマートキャンペーンを選択し、[**[!UICONTROL スマートリスト]**]をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >スマートキャンペーンをトリガーモードにするトリガーを追加することで、ライブイベントに基づいて、一度に1人の人に対してスマートキャンペーンを実行させることができます。
 
-1. ドロップダウンをクリックし、選択したフィルターに対するフィルター演算子( **[!UICONTROL is]**、is not **[!UICONTROL など]**)を選択します。
+1. ドロップダウンをクリックし、フィルター演算子(例：選択したフィルターの&#x200B;**[!UICONTROL は]**、**[!UICONTROL は]**&#x200B;ではありません（など）。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >デフォルトでは、すべてのスマートリストルールを満たすユーザーは
->資格を持つ これは、キャンペーンのニーズに合わせて変更できます。 詳しくは、「 [スマートリストルール」の「複雑なロジック](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) 」を参照してください。
+>資格を持つ これは、キャンペーンのニーズに合わせて変更できます。 詳しくは、[複雑なロジックのスマートリストルール](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic)を参照してください。
 >
->ライブイベントを1人ずつトリガーするには、スマートキャンペーン用のスマートリストを [定義する方法を説明します |トリガー](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger)。
+>1人ずつライブイベント上でトリガーするには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |トリガー](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger)。
