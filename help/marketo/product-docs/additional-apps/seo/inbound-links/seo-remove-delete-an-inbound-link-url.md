@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO — 受信リンクURLの削除/削除 {#seo-remove-delete-an-inbound-link-url}
+# SEO — 受信リンクURLの削除/削除{#seo-remove-delete-an-inbound-link-url}
 
 受信リンクを削除する場合があります。 その方法を次に示します。
 
-1. 「 **Inbound Links** 」セクションに移動します。
+1. **Inbound Links**&#x200B;セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
