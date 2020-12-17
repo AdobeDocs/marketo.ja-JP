@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# アカウントインサイトの設定 {#set-up-account-insight}
+# アカウントインサイトの設定{#set-up-account-insight}
 
 アカウントインサイトの設定方法を次に示します。
 
 >[!PREREQUISITES]
 >
->ABMアカウントスコア [を最初に設定する必要があります](http://docs.marketo.com/display/DOCS/Account+Score) 。
+>ABMアカウントスコア[は、最初に](http://docs.marketo.com/display/DOCS/Account+Score)設定する必要があります。
 
-1. 「 **管理者**」をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/admin-1.png)
 
-1. ツリーで **「ABM** 」をクリックし、「 **ABM Sales** 」タブをクリックします。
+1. ツリーの&#x200B;**ABM**&#x200B;をクリックし、**ABM Sales**&#x200B;タブをクリックします。
 
    ![](assets/two-5.png)
 
-1. 「 **編集**」をクリックします。
+1. 「**編集**」をクリックします。
 
    ![](assets/three-4.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ア [カウントスコア設定がいずれかの時点で更新された場合は](http://docs.marketo.com/display/DOCS/Account+Score) 、管理者がABM Salesの設定を更新し、スコアがユーザーの好みに正確に反映されるようにする必要があります。 変更を確認するには、ユーザーはログアウトしてから再度ログインする必要があります。
+   >[アカウントスコア設定](http://docs.marketo.com/display/DOCS/Account+Score)をいずれかの時点で更新した場合、管理者がABM Salesの設定を更新し、スコアがユーザーの好みに正確に反映されるようにする必要があります。 変更を確認するには、ユーザーはログアウトしてから再度ログインする必要があります。
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/five-4.png)
 
