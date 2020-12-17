@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# お気に入りの作成 {#creating-a-favorite}
+# お気に入りの作成{#creating-a-favorite}
 
 将来の参照用にカードをお気に入りに登録します。
 
