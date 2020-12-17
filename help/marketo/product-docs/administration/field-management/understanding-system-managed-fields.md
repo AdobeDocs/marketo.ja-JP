@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# システム管理フィールドについて {#understanding-system-managed-fields}
+# システム管理フィールドについて{#understanding-system-managed-fields}
 
-訪問 [者の詳細ページに](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 、Marketorによって作成された一連の編集不可能なフィールドがあることに気付いたかもしれません。 このデータは様々なソースから得られ、数え切れないほどの値が表示される可能性があります。
+[人物の詳細ページ](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)には、Marketoが作成した一連の編集不可能なフィールドがあることに気付いたかもしれません。 このデータは様々なソースから得られ、数え切れないほどの値が表示される可能性があります。
 
-## フィールドタイプ {#field-types}
+## フィールドタイプ{#field-types}
 
 | **フィールド名** | **定義** |
 |---|---|
@@ -35,7 +35,7 @@ ht-degree: 0%
 | 推定都市圏 | その人の大都市圏の（IPに基づく）マーケティング担当者の最善の推測 |
 | 推定電話番号市外局番 | ユーザーの市外局番の（IPに基づく）マーケティング担当者の最善の推測 |
 
-## OriginalおよびRegistration Source Typeに指定できる値 {#possible-values-for-original-and-registration-source-type}
+## オリジナルと登録ソースタイプ{#possible-values-for-original-and-registration-source-type}に使用できる値
 
 次に、考えられる値とその意味を示します。
 
