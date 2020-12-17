@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Webサイトにフォームを埋め込む {#embed-a-form-on-your-website}
+# Webサイトにフォームを埋め込む{#embed-a-form-on-your-website}
 
 Marketing Targetでは、フォームを独自のWebサイトに埋め込むことができます。 埋め込みコードにアクセスする方法を次に示します。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,22 +23,22 @@ Marketing Targetでは、フォームを独自のWebサイトに埋め込むこ�
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 「 **フォーム****のアクション**」の下にある「 **埋め込み******&#x200B;コード」をクリックします。
+1. 「**フォーム** **アクション**」で、「**埋め込み** **コード**」をクリックします。
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >「 **埋め込み****コード** 」項目を表示/使用するには、フォームが承認されている必要があります。
+   >フォームは、**埋め込み** **コード**&#x200B;の項目を表示/使用できるように、承認する必要があります。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Form Prefill](../../../../product-docs/administration/settings/edit-landing-page-settings.md)**は、自分のページ ** またはMarketorランディングページでフォーム埋め込みコードを使用する場合には機能しません。 フォームの事前入力は、フォームが「要素の挿入」オプションを介してMarketorランディングページで使用されている場合にのみ機能します。
+   >** [Form Prefill](../../../../product-docs/administration/settings/edit-landing-page-settings.md)***は、独自のページ&#x200B;*または* Markettoランディングページでフォーム埋め込みコードを使用する場合には機能しません。 フォームの事前入力は、フォームが「要素の挿入」オプションを介してMarketorランディングページで使用されている場合にのみ機能します。
 
-1. 埋め込みコードを選択/コピーし、「 **閉じる**」をクリックします。
+1. 埋め込みコードを選択/コピーし、「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
@@ -50,6 +50,6 @@ Marketing Targetでは、フォームを独自のWebサイトに埋め込むこ�
 
 >[!NOTE]
 >
->開発者が外観のカスタマイズや高度なAPI機能へのアクセスを希望する場合は、 [Forms2.0開発者ページを表示します](http://developers.marketo.com/documentation/websites/forms-2-0/)。
+>開発者がルックをカスタマイズしたり、高度なAPI機能にアクセスしたい場合は、[Forms2.0開発者ページ](http://developers.marketo.com/documentation/websites/forms-2-0/)を表示します。
 
-素晴らしい仕事！ ライトボックスコードを [埋め込む](use-a-form-in-a-lightbox.md)? それも簡単だ！
+素晴らしい仕事！ [埋め込みコードにライトボックスコード](use-a-form-in-a-lightbox.md)を含めますか？ それも簡単だ！
