@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# フリーフォームとガイド付きランディングページについて {#understanding-free-form-vs-guided-landing-pages}
+# フリーフォームとガイド付きランディングページについて{#understanding-free-form-vs-guided-landing-pages}
 
-選択したテンプレートによって、作業対象のランディングページ編集モードが決まります。 次の2つのパスが考えられます。 [free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) and [guided](http://docs.marketo.com/display/docs/guided+landing+pages). 重要な違いの概要を以下に簡単に示します。
+選択したテンプレートによって、作業対象のランディングページ編集モードが決まります。 次の2つのパスが考えられます。[free-form](http://docs.marketo.com/display/docs/free-form+landing+pages)と[guided](http://docs.marketo.com/display/docs/guided+landing+pages)。 重要な違いの概要を以下に簡単に示します。
 
-## 自由形式ページ {#free-form-pages}
+## フリーフォームページ{#free-form-pages}
 
 * 任意のコンテンツを配置する場所にドラッグ&amp;ドロップします。
 * テンプレートは、PowerPointのSlideMasterのような背景です。
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![](assets/image2015-5-20-17-3a50-3a53.png)
 
-## ガイド付きページ {#guided-pages}
+## ガイド付きページ{#guided-pages}
 
 * テンプレートによって駆動される定義済みのレイアウト/構造。
 * テンプレートで編集可能と定義された領域または変数のみを、エディターでカスタマイズできます。
