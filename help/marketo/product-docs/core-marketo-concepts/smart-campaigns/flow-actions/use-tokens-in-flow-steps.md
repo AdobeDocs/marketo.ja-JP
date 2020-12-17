@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# フローステップでのトークンの使用 {#use-tokens-in-flow-steps}
+# フローステップでのトークンの使用{#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
 >* [スマ追加ートキャンペーンへのフローステップ](add-a-flow-step-to-a-smart-campaign.md)
 
 
-トークンは変数です。 これを [電子メール](https://docs.marketo.com/pages/viewpage.action?pageId=557076)、 [ランディングページ](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)、 [](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) スマートキャンペーンで使用すると、生活が楽になります。 フローステップ、Webフック、電子メール、ランディングページで [マイトークン](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) （カスタムトークン）を使用できます。  トークンを使用して、次のフロー手順に変数の内容を含めることができます。
+トークンは変数です。 これを[電子メール](https://docs.marketo.com/pages/viewpage.action?pageId=557076)、[ランディングページ](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)、[スマートキャンペーン](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists)で使うと、生活が楽になります。 [マイトークン](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（カスタムトークン）は、フローステップ、Webフック、電子メール、ランディングページで使用できます。  トークンを使用して、次のフロー手順に変数の内容を含めることができます。
 
 * データ値の変更
 * 面白い瞬間
@@ -32,13 +32,13 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. フロー手順で、開始入力を行ってトークンカテゴリ `{{` を取得します。 ![](assets/image2014-9-22-14-3a3-3a17.png)>
+1. フローステップで、開始が`{{`を入力して、トークンカテゴリを取得します。![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
    >**ディープダイブ**
    >
-   >使用可能な複数のトークンのリストについては、 [Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) （トークンの概要）をチェックアウトします。
+   >[Tokens Overview](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)をチェックし、使用可能なトークンのリストを確認します。
 
 1. 目的のトークンが見つかるまで入力を続け、をクリックして選択します。
 
