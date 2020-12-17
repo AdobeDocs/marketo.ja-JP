@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メ追加ールのスニペット {#add-a-snippet-to-an-email}
+# 電子メ追加ール{#add-a-snippet-to-an-email}へのスニペット
 
 スニペットは、電子メールやランディングページで使用できる再利用可能なリッチテキストやグラフィックのブロックです。
 
@@ -22,17 +22,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->スニペットに [Marketo Eメール](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)構文を埋め込むことはできません。電子メールでは **機能しません** 。 スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
+>スニペットに[Marketo電子メールの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。**a3/>は電子メールでは動作しません。**&#x200B;スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
 
-1. 電子メールを探し、その電子メールを選択して、「 **ドラフトを編集**」をクリックします。
+1. 電子メールを探し、選択して「**ドラフトを編集**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして「スニペットと **置換**」を選択します。
+1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして、「**スニペットに置換**」を選択します。
 
    ![](assets/two-2.png)
 
-1. 任意のスニペットを選択し、「 **保存**」をクリックします。
+1. 任意のスニペットを選択し、「**保存**」をクリックします。
 
    ![](assets/three-1.png)
 
@@ -44,6 +44,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >スニペットを更新し承認するたびに、変更内容が電子メールに反映されます。 電子メールは、 [ドラフトなしでスニペットを承認しない限りドラフトとして作成され](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)ます。
+   >スニペットを更新し承認するたびに、変更内容が電子メールに反映されます。 [ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)でスニペットを承認しない限り、電子メールの下書きが作成されます。
 
 これは、動的なコンテンツをすばやく簡単に再利用する方法です。
