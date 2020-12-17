@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# カスタムアクティビティについて {#understanding-custom-activities}
+# カスタムアクティビティについて{#understanding-custom-activities}
 
 カスタムアクティビティで、ユーザーがビジネスに特有の行動をとったことを追跡します。
 
@@ -27,14 +27,14 @@ ht-degree: 0%
 >
 >カスタムアクティビティは、カスタムオブジェクトとは異なります。 値が変更可能な場合(例：「車の色」は、青から赤に変わります)。 発生した瞬間を追跡する際に、カスタムアクティビティを使用します。詳細は変更できません(例：「購入した車」)。
 
-**[フィールド** ]アクティビティに関連付ける [フィールドを追加できます](https://docs.marketo.com/x/Mx6a) 。 主フィールドと同様に、スマートリストのフィルタリング条件として使用できます。
+**フ** ィールドアクティビティに関連付ける [フィ](https://docs.marketo.com/x/Mx6a) ールドを追加できます。主フィールドと同様に、スマートリストのフィルタリング条件として使用できます。
 
 **はじめに**
 
 カスタムアクティビティは、標準アクティビティと同様に機能します。 ただし、設定は2つの部分で行います。
 
-手順1: [Marketorアカウントでのカスタムアクティビティ](create-a-custom-activity.md) の作成
+手順1:[Marketoアカウントにカスタムアクティビティ](create-a-custom-activity.md)を作成します
 
-手順2:その後、アドビのAPIを使用する組織の従業員が実装を開始できます。 詳しくは、次を参照してください。 [カスタムアクティビティAPI](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+手順2:その後、アドビのAPIを使用する組織の従業員が実装を開始できます。 詳しくは、次を参照してください。[カスタムアクティビティAPI](http://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 楽しんで！
