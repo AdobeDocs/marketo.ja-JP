@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# フォームの削除 {#delete-a-form}
+# フォームの削除{#delete-a-form}
 
 不要で使用されていないフォームがある場合は、それを削除できます。 これが方法です。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 「 **フォーム****の**&#x200B;操作 **」で** 、「フォームの削除 ****」をクリックします。
+1. 「**フォーム** **アクション**」で、「**削除** **フォーム**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >フォームを使用しているすべてのランディングページから必ずフォームを削除してください。 また、フォームが公開Webサイトで使用されていないことを確認します。
 
-1. 「 **削除**」をクリックして確認します。
+1. 「**削除**」をクリックして、確認します。
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -44,5 +44,5 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->パブリックWebサイトで使用されているフォームを削除すると、警告は表示されず、フォームが壊れます。 代わりに、 [アーカイブすることを検討](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 。
+>パブリックWebサイトで使用されているフォームを削除すると、警告は表示されず、フォームが壊れます。 代わりに[アーカイブ](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)をお勧めします。
 
