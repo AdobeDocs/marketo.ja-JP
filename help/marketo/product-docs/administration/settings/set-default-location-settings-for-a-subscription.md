@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 購読のデフォルトの場所の設定 {#set-default-location-settings-for-a-subscription}
+# 購読{#set-default-location-settings-for-a-subscription}の既定の場所の設定
 
 この記事では、購読のデフォルトの場所の設定（言語、ロケール、タイムゾーンなど）を管理者が表示および編集する方法について説明します。
 
@@ -19,41 +19,41 @@ ht-degree: 0%
 >
 >管理者権限が必要です。 通常、言語は管理者が変更するものではありません。 購入時に指定するので、適切な購読で生成できます。
 
-## 購読のデフォルトの場所の設定 {#set-default-location-settings-for-a-subscription-1}
+## 購読{#set-default-location-settings-for-a-subscription-1}の既定の場所の設定
 
-管理者がデフォルトの場所の設定を変更すると、新しく作成したユーザーはこれらの設定を継承します。 ユーザーは、個々のアカウントで常に言語、ロケールおよびタイムゾーンの環境設定を [変更できます](select-your-language-locale-and-time-zone.md) 。
+管理者がデフォルトの場所の設定を変更すると、新しく作成したユーザーはこれらの設定を継承します。 ユーザーは、個々のアカウントで常に[言語、ロケールおよびタイムゾーンの環境設定](select-your-language-locale-and-time-zone.md)を変更できます。
 
-1. 「 **管理者**」で、** **「 **場所**」をクリックします。
+1. **管理者**&#x200B;の下で** **「**場所**」をクリックします。
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
-1. 「 **編集**」をクリックします。
+1. 「**編集**」をクリックします。
 
    ![](assets/image2014-11-7-11-3a40-3a39.png)
 
    この購読は英語で作られた。 ロンドンにいて、デフォルトのロケールとタイムゾーンを変更したい場合、 ロケールによって、数値、日付および時間の形式設定が決まります。
 
-1. 「 **ロケール** 」を選択し、「 **英語** （英国）」に変更します。
+1. **ロケール**&#x200B;を選択し、**英語**&#x200B;に変更します（英国）。
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. 最後に、適切な **タイムゾーンを選択します**。
+1. 最後に、適切な&#x200B;**タイムゾーン**&#x200B;を選択します。
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/) は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
+   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/)は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
 
-## 購読のデフォルトの通貨設定の指定 {#set-the-default-currency-settings-for-a-subscription}
+## 購読のデフォルトの通貨設定{#set-the-default-currency-settings-for-a-subscription}
 
 ユーザーのデフォルトロケールを変更する場合は、通貨形式の設定を変更することもできます。
 
-1. [ **編集** ] [購読通貨設定]をクリックします。
+1. 「購読通貨設定」で「**編集**」をクリックします。
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
-1. 選択した通貨形式を選択し、「 **保存**」をクリックします。
+1. 選択する通貨形式を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
