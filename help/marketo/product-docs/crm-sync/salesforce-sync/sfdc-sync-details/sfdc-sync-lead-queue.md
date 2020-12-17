@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：リードキュー {#sfdc-sync-lead-queue}
+# SFDC同期：リードキュー{#sfdc-sync-lead-queue}
 
-Marketorでは、 [Salesforceのリードキューに人を追加して、リードの配信に役立てることができます](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 。 詳しくは、
+Marketorでは、顧客を[Salesforceのリードキュー](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)に追加して、リードの配信に役立てることができます。 詳しくは、
 
-## Marketorのキューに人を割り当てる方法 {#how-to-assign-a-person-to-a-queue-in-marketo}
+## Marketorのキューに人を割り当てる方法{#how-to-assign-a-person-to-a-queue-in-marketo}
 
 次のいずれかのフロー処理を使用して、Salesforceのリードキューに個人を割り当てることができます。
 
@@ -26,7 +26,7 @@ Marketorでは、 [Salesforceのリードキューに人を追加して、リー
 >
 >Marketoのキューを作成したり変更したりすることはできません。
 
-## 個人がキューに属している場合、リードの所有者情報はどのように保存されますか。 {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## 個人がキューに属している場合、リードの所有者情報はどのように保存されますか。{#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
 リードがSalesforceのキューに所有されている場合、リードが所有者に割り当てられるまで、これらの販売所有者フィールドは空のままです。
 
