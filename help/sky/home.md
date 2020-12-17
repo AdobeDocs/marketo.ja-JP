@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![バナー](/help/sky/assets/images/alt-sky-banner.png)
 
-この [!DNL Marketo Sky] インターフェイスは、新しいデザイン、ワークフロー、および機能を利用して、より多くの機能を活用し [!DNL Marketo]ます。
+[!DNL Marketo Sky]インターフェイスは、新しい設計、ワークフロー、および機能を利用して、[!DNL Marketo]をさらに活用します。
 
 ## はじめに
 
