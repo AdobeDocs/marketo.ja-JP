@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール {#schedule-engagement-programs-with-recipient-time-zone}
+# 受信者のタイムゾーン{#schedule-engagement-programs-with-recipient-time-zone}との関与プログラムのスケジュール
 
-エンゲージメントプログラムストリーム [、および受信者タイムゾーンがアクティブであることを](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) スケジュールすると、プログラムキャストは、最初のタイムゾーン(UTC +14:00)の深夜に実行される開始を送信します。 世界中のどのタイムゾーンでもキャストの資格 **を得る人がいる可能性があるので** 、最初のキャストを25時間以上後にスケジュールする必要があります。 この時点で初回タイムゾーンで処理を開始すると、すべての受信者に対して予定された日時に電子メールが配信されることが保証されます。
+[アクションプログラムストリーム](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones)を&lt;a0/>スケジュールし、受信者タイムゾーンがアクティブな場合、プログラムキャストは、最初のタイムゾーンの深夜(UTC +14:00)に実行される開始です。 世界中のどのタイムゾーンでもキャストの資格を得る人がいるので、少なくとも25時間&#x200B;**の間、最初のキャストをスケジュールする必要があります。**&#x200B;この時点で初回タイムゾーンで処理を開始すると、すべての受信者に対して予定された日時に電子メールが配信されることが保証されます。
 
-1. アクションプログラムで、「 **Streams** 」タブに移動し、ストリームのカデンススケジュールをクリックして編集します。
+1. エンゲージメントプログラムで、「**Streams**」タブに移動し、ストリームのカデンススケジュールをクリックして編集します。
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [通常どおりにカデンス設定を行い](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 、「**受信者タイムゾーン**」ボックスをチェックします。 最初のキャストは25時間以上にする必要があります。 「 **保存**」をクリックします。
+1. [通常どおりにカデンスの](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 設定を行い、「**受信者タイムゾーン**」ボックスをチェックします。最初のキャストは25時間以上にする必要があります。 「**保存**」をクリックします。
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
