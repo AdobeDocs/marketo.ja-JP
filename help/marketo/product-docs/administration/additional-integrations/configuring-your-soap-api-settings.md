@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# SOAP API設定の指定 {#configuring-your-soap-api-settings}
+# SOAP API設定の指定{#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
->REST APIの使用をお勧めします。 詳しくは、 [dev.marketo.comを参照してください](http://developers.marketo.com/documentation/rest/)。
+>REST APIの使用をお勧めします。 [dev.marketo.com](http://developers.marketo.com/documentation/rest/)で詳しく知る。
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. 「 **管理者** 」に移動し、「 **Webサービス**」をクリックします。
+1. **管理者**&#x200B;に移動し、**Webサービス**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. 適切な **暗号化キーを設定し、**「変更の **保存**」をクリックして、すべての情報を開発者に渡します。
+1. 適切な&#x200B;**暗号化キー**&#x200B;を設定し、**変更の保存**&#x200B;をクリックして、すべての情報を開発者に渡します。
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
