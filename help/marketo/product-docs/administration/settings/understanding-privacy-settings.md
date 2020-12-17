@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# プライバシー設定について {#understanding-privacy-settings}
+# プライバシー設定について{#understanding-privacy-settings}
 
-## 概要 {#overview}
+## 概要{#overview}
 
 マーケターに対して、Web訪問者の追跡に関する同意を得る方法を提供します。 匿名IPで追跡する方法は2つありオプトアウト、または匿名IPで追跡する方法を選択できます。
 
@@ -22,19 +22,19 @@ ht-degree: 0%
 
 また、マーケティング担当者は、匿名IPを使用してユーザーを追跡できます。
 
-これらの方法は、特定の領域におけるマーケティング担当者の価値と機能に影響を与える可能性があります。 ただし、マーケターがマーケティング担当者の設定 *に変更を加えない場合* 、マーケティング担当者の機能は変わりません。
+これらの方法は、特定の領域におけるマーケティング担当者の価値と機能に影響を与える可能性があります。 ただし、マーケター&#x200B;*がマーケティング担当者の設定内容を*&#x200B;変更しない場合、Marketoの機能は変わりません。
 
-## 「追跡しない」のブラウザー設定 {#browser-settings-for-do-not-track}
+## 追跡しないブラウザーの設定{#browser-settings-for-do-not-track}
 
 Web訪問者は、「追跡しない」(DNT)を選択することで、どのWebサイトでも追跡できないようにブラウザを設定できます。 これにより、特定のブラウザーおよびデバイスでの追跡を防ぎます。 詳しくは、ブラウザーのプライバシー設定を参照してください。
 
-Munchkinでは、マーケティング担当者がブラウザーのDNT設定をサポートするか無視するかを [決定できます](edit-do-not-track-browser-support-settings.md)。
+Munchkinでは、マーケティング担当者は[ブラウザのDNT設定](edit-do-not-track-browser-support-settings.md)をサポートするか無視するかを決定できます。
 
-Webパーソナライゼーションでは、マーケティング担当者がブラウザーのDNT設定を [サポートするか無視するかを決定できます](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)。
+Webパーソナライゼーションでは、マーケティング担当者がブラウザーのDNT設定](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)を[サポートするか無視するかを決定できます。
 
-## 特定オプトアウトのWebサイトから {#opt-out-from-a-specific-website}
+## 特定オプトアウトのWebサイト{#opt-out-from-a-specific-website}から
 
-また、「 **ブラウザー追跡しない** 」設定が設定されているかどうかに関係なく、Webサイトの訪問者に対して、WebサイトからのWebサイト追跡を許可することもできます。 これにより、サイト訪問者はWebサイトから直接トラッキングの環境設定を指定できます。
+また、**ブラウザー追跡を行わない**&#x200B;設定が設定されているかどうかに関係なく、Webサイトの訪問者オプトアウトに対して、WebサイトからのWebサイト追跡を許可することもできます。 これにより、サイト訪問者はWebサイトから直接トラッキングの環境設定を指定できます。
 
 これを行うには、マンチキン追跡が有効になっているWebページのオプトアウトリンクにパラメーターを追加する必要があります。 これは任意のWebページにすることができますが、Webページのリンクに次のパラメーターを含める必要があります。
 
@@ -50,9 +50,9 @@ Webパーソナライゼーションでは、マーケティング担当者が�
 
 ![](assets/opt-out-2.png)
 
-リンクをクリックすると、Marketorは **** mkto_opt_outというCookieを訪問者のブラウザーに追加します。このCookieにより、上記のパラメーターを含むリンクをクリックしたサイト訪問者のMunchkin追跡が無効になります。
+リンクをクリックすると、Marketorは訪問者のブラウザーに&#x200B;**mkto_opt_out**&#x200B;という名前のcookieを追加し、上記のパラメーターを含むリンクをクリックしたサイト訪問者のMunchkin追跡を無効にします。
 
-Cookieが植え付け可能であることを検証するには、Cookieを使用していることを確認し、リンクをクリックします。 次に、ブラウザーのCookieをチェックして、 **mkto_opt_out** Cookieが追加されたことを確認します。
+Cookieが植え付け可能であることを検証するには、Cookieを使用していることを確認し、リンクをクリックします。 次に、ブラウザーのCookieを確認して、**mkto_opt_out** Cookieが追加されたことを確認します。
 
 ![](assets/opt-out-3.png)
 
@@ -60,11 +60,11 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 >
 >これは現在、Munchkinバージョン152以降でのみ機能します。
 
-## オプトイン {#opt-in}
+## オプトイン{#opt-in}
 
 マーケターは、電子メール、フォーム、ランディングページなどの方法でオプトインマーケティング担当者の機能を使用して、ユーザーに対して実行を許可できます。
 
-## 匿名化IPを使用した追跡 {#tracking-using-an-anonymized-ip}
+## 匿名IPを使用した追跡{#tracking-using-an-anonymized-ip}
 
 マーケターは、匿名化されたIPアドレスを使用してユーザーを追跡することで、プライバシーを保持できます。 これを行うには、Webサイトに埋め込まれているRTPまたはMunchkin Javascriptにこのコードを追加します。
 
@@ -72,7 +72,7 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 
    >[!NOTE]
    >
-   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 お使いの購読で有効にするには、 [マーケティング担当者にお問い合わせください](http://nation.marketo.com/community/support_solutions)。
+   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 ご使用の購読で有効にするには、[マーケティング担当者](http://nation.marketo.com/community/support_solutions)にお問い合わせください。
 
 * Webパーソナライゼーション(RTP)の場合、次をjavascriptに追加します。
 
