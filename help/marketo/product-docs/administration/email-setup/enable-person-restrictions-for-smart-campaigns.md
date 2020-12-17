@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンに対する個人制限の有効化 {#enable-person-restrictions-for-smart-campaigns}
+# スマートキャンペーンに対する個人制限の有効化{#enable-person-restrictions-for-smart-campaigns}
 
 Marketoには、スマートキャンペーンに振り分けることのできる人数を***最大***数に制限する機能があります。 これにより、誤ってデータベース全体を電子メールで送信するのを防ぎます。
 
@@ -23,7 +23,7 @@ Marketoには、スマートキャンペーンに振り分けることのでき�
 >
 >これは、バッチキャンペーンと電子メールプログラムにのみ適用されます。
 
-1. 「**管理者**」をクリックし、「 **スマートキャンペーン**」をクリックします。
+1. 「**管理者**」をクリックし、「**スマートキャンペーン**」をクリックします。
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
@@ -48,7 +48,7 @@ Marketoには、スマートキャンペーンに振り分けることのでき�
    >[!CAUTION]
    >
    >
-   >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。 スマートキャンペーンで個人の制限を [上書きする方法を説明します](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)。
+   >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。 スマートキャンペーン](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)で人の制限を[上書きする方法を説明します。
 
 ビンゴ！ セーフティスイッチを入れただけ。 良い考えだろ？
 
