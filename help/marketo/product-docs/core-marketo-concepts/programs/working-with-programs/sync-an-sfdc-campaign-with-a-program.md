@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# SFDCキャンペーンとプログラムの同期 {#sync-an-sfdc-campaign-with-a-program}
+# SFDCキャンペーンとプログラム{#sync-an-sfdc-campaign-with-a-program}を同期する
 
 Marketorでは、プログラムをSalesforceキャンペーンと同期して、ステータスを含む両方のシステムで同じリストを維持できます。 始めよう！
 
 >[!PREREQUISITES]
 >
->まず、Salesforceキャンペーン同期を [有効にする必要があります](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 。
+>最初にSalesforceキャンペーン同期](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)を[有効にする必要があります。
 
 >[!CAUTION]
 >
 >SFDCキャンペーンをMarketoプログラムと同期する場合、プログラムの子キャンペーンに対しては、黙示的なSFDCの操作(SFDCキャンペーンに追加、SFDCに同期など)が無効になります。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,7 +31,7 @@ Marketorでは、プログラムをSalesforceキャンペーンと同期して�
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. 「 **プログラムアクション**」をクリックし、「 **Salesforceキャンペーン同期**」を選択します。
+1. 「**プログラムアクション**」をクリックし、「**Salesforceキャンペーン同期**」を選択します。
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
@@ -39,9 +39,9 @@ Marketorでは、プログラムをSalesforceキャンペーンと同期して�
 
    >[!TIP]
    >
-   >既存のSalesforceキャンペーンを選択する場合は、SalesforceキャンペーンとMarketoプログラムのプログラムステータスが [一致していることを確認します](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
+   >既存のSalesforceキャンペーンを選択する場合、[がSalesforceキャンペーンとMarketoプログラム](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)のプログラムステータスと一致していることを確認します。
 
-1. 新しいキャンペーンの名前を入力し、「 **保存**」をクリックします。
+1. 新しいキャンペーンの名前を入力し、「**保存**」をクリックします。
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 
