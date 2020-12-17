@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# タグについて {#understanding-tags}
+# タグについて{#understanding-tags}
 
 プログラムはマーケトの構成要素のようなものだと今ではお分かりでしょう タグやチャネルを使用すると、レポート目的でデータをフィルタリングできます。
 
 タグは、プログラムを記述するために使用されます。 必要な数だけ作成でき、それぞれに一意の値を設定できます。 チャネルは、ウェビナー、スポンサー、オンライン広告など、プログラム内の配信メカニズムを識別します。
 
-## タグの種類 {#tag-type}
+## タグの種類{#tag-type}
 
 タグタイプは、並べ替えの基準となる情報の種類を示します。
 
 >[!TIP]
 >
->カスタムタグを作成する場合は、 [マーケティング担当者にお問い合わせください](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) 。
+>カスタムタグを作成する場合は、[マーケティング担当者](http://docs.marketo.com/display/DOCS/Create+Custom+Tags)にお問い合わせください。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
-## タグの値 {#tag-value}
+## タグ値{#tag-value}
 
 各タグタイプは、値を持ち、値の中から選択します。
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## チャネル {#channel}
+## チャネル{#channel}
 
-チャネルは、 [会員がプログラム内をどのように移動したかを報告するために使用します](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 。 各チャネルには、一連の進行ステータスと、同じ成功に設定された1つのステータスがあります。
+チャネルは、[メンバー](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)がプログラム内をどのように移動したかを報告するのに使用します。 各チャネルには、一連の進行ステータスと、同じ成功に設定された1つのステータスがあります。
 
 >[!NOTE]
 >
