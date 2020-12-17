@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 定期バッチキャンペーンのスケジュール {#schedule-a-recurring-batch-campaign}
+# 定期バッチキャンペーンのスケジュール{#schedule-a-recurring-batch-campaign}
 
 繰り返しを使用すると、バッチスマートキャンペーンを定期的に実行できます。 例えば、週に1回、月曜日は午後12時になります。
 
