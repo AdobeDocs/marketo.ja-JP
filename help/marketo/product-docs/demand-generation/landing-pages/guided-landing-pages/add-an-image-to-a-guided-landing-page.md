@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# ガイド付追加きランディングページの画像 {#add-an-image-to-a-guided-landing-page}
+# ガイド追加付きランディングページの画像{#add-an-image-to-a-guided-landing-page}
 
 フリーフォームランディングページとは異なり、ガイド付きランディングページには、画像を追加する場所にあらかじめ定義され、ロックされたスペースがあります。
 
-1. ガイド付きランディングページを選択します。 「ドラフト **を編集**」をクリックします。
+1. ガイド付きランディングページを選択します。 「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 使用する画像を選択し、「 **挿入**」をクリックします。
+1. 使用する画像を選択し、「**挿入**」をクリックします。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >画像のサイズ変更は、テンプレートに依存します。 ガイド付きランディングページテンプレ [ートの詳細](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)。
+   >画像のサイズ変更は、テンプレートに依存します。 [ガイド付きランディングページテンプレート](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)の詳細を参照してください。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
