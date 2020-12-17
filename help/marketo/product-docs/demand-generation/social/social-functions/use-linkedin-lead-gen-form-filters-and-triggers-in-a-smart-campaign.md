@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンでのLinkedInリードジェネレーションフォームのフィルターとトリガーの使用 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# スマートキャンペーンでLinkedInリードジェネレーションフォームフィルターとトリガーを使用{#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 LinkedInリードジェネレーションFormsを有効にすると、それらをフィルターとして使用し、スマートキャンペーンでトリガーできます。
 
@@ -19,7 +19,7 @@ LinkedInリードジェネレーションFormsを有効にすると、それら�
 >
 >訪問者がLinkedInのリードジェネレーションフォームに自分の情報を送信すると、その情報は即座にマーケティング担当者にプッシュされ、「リードジェネレーションフォーム名」ドロップダウンでフォームを利用できるようになります。 1人以上のユーザーがフォームを送信するまで、フォーム名は表示されません。
 
-1. 「 **Fill Out LinkedIn Lead Gen Form** 」トリガーを使用して、即時に処理を行うか、スケジュール済バッチキャンペーンまたは標準スマートリストフィルタ用に「 **Filled Out LinkedIn Lead Gen Form** 」フィルタを行います。
+1. **Fills Out LinkedIn Lead Gen Form**&#x200B;トリガーを使用して、即座にアクションを実行するか、スケジュール済みバッチキャンペーンまたは標準スマートリストフィルタリング用の&#x200B;**Filled Out Linked In Lead Gen Form**&#x200B;フィルタを使用します。
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
