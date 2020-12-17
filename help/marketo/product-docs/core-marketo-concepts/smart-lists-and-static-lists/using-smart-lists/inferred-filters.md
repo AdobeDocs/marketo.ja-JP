@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 推定フィルター {#inferred-filters}
+# 推定フィルター{#inferred-filters}
 
-誰かがWebサイトを訪問したとき、 [MunchkinはCookieを作成し](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 、システムに保存します。 IPを特別なデータベースで調べ、あらゆる良い情報を推測します。 見て。
+誰かが貴社のウェブサイトを訪れた時、[Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)はCookieを作り、システムに入れます。 IPを特別なデータベースで調べ、あらゆる良い情報を推測します。 見て。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 >これらのフィルターは、Webアクティビティレポートで使用します。 販売担当者の担当地域を使用し、過去24時間のWebサイト訪問者を含むカスタム日次レポートに登録します。 彼らはそれを愛する！
 >
 >* 訪問済みWebページ — 過去24時間
->* 推定国は領土を [選ぶ]
+>* 推定状態は[自分の領土]を選択します
 
 >
 
@@ -46,5 +46,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[匿名アクティビティとリードに関する詳細](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)。
+>[匿名アクティビティとリード](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)の詳細を確認します。
 
