@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フォームに対するソーシャルフォームの入力を有効にする {#enable-social-form-fill-on-a-form}
+# フォームに対するソーシャルフォームの入力を有効にする{#enable-social-form-fill-on-a-form}
 
 訪問者がソーシャルネットワークを使用してフォームに入力できるようにします。 追加のデータが自動的に取得され、より迅速なエクスペリエンスが得られます。
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. 「 **Form** **Settings** 」で、「 **Settings**」をクリックします。
+1. 「**フォーム** **設定**」で、「**設定**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >訪問者がソーシャルボタンを使用する場合にマーケティングで捕捉される [データを見てみましょう](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) 。
+   >人々がソーシャルボタンを使用する場合に、[Marketorが捕捉するデータ](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)を見てみましょう。
 
-1. 「 **完了**」をクリックします。
+1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
