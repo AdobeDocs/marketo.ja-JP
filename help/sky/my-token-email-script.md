@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-上級開発者は、電子メールスクリプトトークンを設定して [Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html) を電子メールで使用できます。 その方法を次に示します。
+上級開発者は、電子メールスクリプトトークンを設定することで、電子メールに[Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
 
-1. プログラムーまたはフォルダーの「 [!UICONTROL マイトークン] 」タブで、「 **[!UICONTROL 電子メールスクリプト]** 」トークンを「ロー [!UICONTROL カルトークン] 」キャンバスにドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**[!UICONTROL 電子メールスクリプト]**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    * [速度リファレンスガイド](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0ドキュメント](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. isスクリプトが完了したら、「 **[!UICONTROL 保存]**」をクリックします。
+1. isスクリプトが完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像4](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
