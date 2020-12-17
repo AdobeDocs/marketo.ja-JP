@@ -15,9 +15,9 @@ ht-degree: 0%
 ユーザーがエンゲージメントプログラムのメンバーになる方法はいくつかあります。
 
 * [関与追加プログラム](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)
-* [エンゲージメントプログラムカデンス](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) ・フロー・ステップの変更
-* [エンゲージメントプログラムストリーム](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) フローステップの変更
-* [プログラムステータス](https://docs.marketo.com/display/DOCS/Change+Program+Status) ・フロー・ステップの変更
+* [エンゲージメントプログラム](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) のカデンスフロー手順の変更
+* [エンゲージメントプログラムの](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) ストリームフロー手順の変更
+* [プログラム](https://docs.marketo.com/display/DOCS/Change+Program+Status) ステータスフローの手順の変更
 * ユーザーがエンゲージメントプログラムのローカルフォームに入力した場合
-* メンバーのエンゲージメントプログラムへのインポート(プログラム内の「 [!UICONTROL メンバー] 」タブを使用)
+* メンバーのエンゲージメントプログラムへのインポート(プログラム内の[!UICONTROL 「メンバー]」タブを使用)
 * CRMとしてSalesforceを使用し、エンゲージメントプログラムにSalesforceキャンペーンが関連付けられている場合は、CRM側のSalesforceキャンペーンにユーザーを追加すると、そのユーザーもエンゲージメントプログラムのメンバーになります。
