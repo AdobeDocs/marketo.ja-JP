@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：18年冬 {#release-notes-winter}
+# リリースノート：冬&#39;18 {#release-notes-winter}
 
 Winter 18リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
-タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。 **注意**:このリリースに含まれる一部の機能には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
+タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。 **注意**:このリリースに含まれる一部の機能には、関連記事がありません。トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
 
-## キャンペーンのパフォーマンスとスループットの向上 {#campaign-performance-and-throughput-enhancements}
+## キャンペーンパフォーマンスとスループットの強化{#campaign-performance-and-throughput-enhancements}
 
 Marketorは、当社のビッグデータアーキテクチャを活用して、キャンペーンのスループットを向上させ、Webアクティビティ処理を改善し、オーディエンスの行動に迅速に対応できるようにしています。
 
-## マーケティング担当者のSalesforce CRM統合の強化 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketing社のSalesforce CRM統合の強化{#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Salesforce CRM統合には、次の2つの強化点があります。
 
-* [特定のCRM同期エラー（秘密鍵証明書の有効期限が切れた、APIの制限に達したなど）に関するマーケティング担当者への通知](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 。
+* [特定のCRM同期エラー（秘密鍵証明書の有効期限が切れた、APIの制限に達した、など）に関するマーケティング担当者の](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 通知
 
-* [リードの割り当て時に](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 、リードの所有者への電子メール通知を無効にする機能
+* [リードの割り当て時に、リードの所有者への電子メール](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 通知を無効にする機能
 
 これらの改善は、2018年に発表されます。
 
@@ -41,13 +41,13 @@ Salesforce CRM統合には、次の2つの強化点があります。
 
 アトリビューション分析、インタラクティブなビジュアライゼーション、詳細なデータテーブルを使用して、キャンペーンやチャネルがビジネスの結果にどのような影響を与えているかを調べます。   ![](assets/image2018-2-5-7-3a55-3a46.png)
 
-## アカウントベースのマーケティングの強化 {#account-based-marketing-enhancements}
+## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
 
 ** [ABM階層](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 SalesforceまたはMicrosoft Dynamicsを使用するABMのお客様の場合、ABMは、CRMで確立された親子関係を自動的に継承（および表示）するようになりました。 これらの関係は、ロールアップレポートとキャンペーンの実行の両方で使用できます。
 
-## 電子メールマーケティング {#email-marketing}
+## 電子メールマーケティング{#email-marketing}
 
 ** [動的電子メールスクリプト](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
@@ -55,27 +55,27 @@ SalesforceまたはMicrosoft Dynamicsを使用するABMのお客様の場合、A
 
 **受信者タイムゾーン**
 
-* ** [Monthly Hurture Cadence ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **月次のカデンスでプログラムをはぐくむ機能を追加。
+* ** [月次育成カデンス&#x200B;](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **月次のカデンスでプログラムの育成スケジュールを立てる能力を追加。
 
-* ** [停止配信](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**:これで、残りの送信を中間実行で停止できます。
+* ** [配信](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)を停止**:これで、残りの送信を中間実行で停止できます。
 
-## 広告ネットワーク統合 {#ad-network-integrations}
+## 広告ネットワーク統合{#ad-network-integrations}
 
-** [Google Customer Match Integration](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+** [Google Customer Matchの統合](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 この統合により、Google AdWordsを使用してターゲット設定されるようにMarketoオーディエンスをGoogleに送信できるほか、YouTube、SearchおよびGmailで再ターゲットオーディエンスを送信できます。
 
-** [LinkedInの一致したオーディエンスAPIの機能強化](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+** [一致したオーディエンスのLinkedInのAPI機能強化](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 新しいLinkedIn APIを使用すると、複数のLinkedInキャンペーンマネージャーアカウントにまたがって、Marketoデータベース内のユーザーを再ターゲットできるようになりました。
 
-## Webパーソナライゼーション {#web-personalization}
+## Webパーソナライゼーション{#web-personalization}
 
 **ウェブパーソナライゼーション用の日本語データソース**
 
 Web訪問者の識別（逆IPルックアップ）や、日本から来る訪問者のパーソナライゼーションを改善するために、マーケティング担当者は、ウェブパーソナライゼーション用の日本語データソースを追加しています。 組織名は日本語で表示されます。
 
-**静的リストを使用したWebセグメントの [作成](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+** [静的リストを使用したWebセグメントの作成](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 Webパーソナライゼーションでは、マーケティングアクティビティ(MLM)で定義された静的なリストの一部である既知のWeb訪問者に対してコンテンツをパーソナライズできるようになりました。 この機能強化により、Webサイト上のパーソナライズされたコンテンツを使用して、チャネルやターゲットの複数のリストに静的なリストをマーケティングできるようになりました。
 
@@ -83,9 +83,9 @@ Webパーソナライゼーションでは、マーケティングアクティ�
 
 **予測アルゴリズムの改善**
 
-Marketoの最適化された`<sup>AI </sup>`コンテンツアルゴリズムを通じてレコメンデーションされるコンテンツは、ランダムコンテンツの2倍までのクリック数を生成します。
+Marketorの最適化されたコンテンツ`<sup>AI </sup>`アルゴリズムを通じてレコメンデーションされるコンテンツは、ランダムコンテンツの2倍まで生成されます。
 
-## 統合 {#integration}
+## 統合{#integration}
 
 ** [キャンペーンAPIをアクティブ化/非アクティブ化](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
@@ -95,7 +95,7 @@ Marketoの最適化された`<sup>AI </sup>`コンテンツアルゴリズムを
 
 **購読解除の更新**
 
-2018年3月1日より、 [ToutApp.com](http://ToutApp.com) （およびSalesforceの「Email with Tout」ボタンを使用して）から送信されるすべての電子メールには、下部に未登録リンクが追加されます。
+2018年3月1日以降、[ToutApp.com](http://ToutApp.com)から（Salesforceで「Email with Tout」ボタンを使用して）送信されるすべての電子メールには、下部に登録解除リンクが追加されます。
 
 **ライブフィードの更新**
 
