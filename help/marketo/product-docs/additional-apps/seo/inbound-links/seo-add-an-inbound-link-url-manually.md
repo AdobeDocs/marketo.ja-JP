@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# SEO -追加受信リンクURLの手動による送信 {#seo-add-an-inbound-link-url-manually}
+# SEO -追加受信リンクURLを手動で{#seo-add-an-inbound-link-url-manually}
 
 インバウンドリンクは手動で追加できます。 その方法を次に示します。
 
-1. 「 **Inbound Links** 」セクションに移動します。
+1. **Inbound Links**&#x200B;セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 「 **追加URLS**」をクリックします。
+1. **追加URLS**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. URLを入力します。 をクリックし **追加ます**。
+1. URLを入力します。 **追加**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >受信リンクを新しいリストまたは既存のに [追加できることをご存じですか](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 見ろ！
+   >[新しいリストまたは既存のリンク](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)に&lt;a0/>受信リンクを追加できることをご存じですか。 見ろ！
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
