@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics用Marketor Solutionをアップグレードする {#upgrade-the-marketo-solution-for-microsoft-dynamics}
+# Microsoft Dynamics用Marketto Solutionをアップグレードする{#upgrade-the-marketo-solution-for-microsoft-dynamics}
 
 新しいMicrosoft Dynamicsソリューションがリリースされると、アカウントの[管理者]領域からアップグレードをダウンロードできます。
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->アップグレードを実行する前に、最新のMarketo Solutionをダウンロードする *必要があります* 。
+>*がアップグレードを実行する前に、最新のMarketo Solution*&#x200B;をダウンロードする必要があります。
 
 1. 「**Admin **」領域に移動します。
 
    ![](assets/admin.png)
 
-1. [ **Microsoft Dynamics**]をクリックします。
+1. **Microsoft Dynamics**&#x200B;をクリックします。
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 「Markettor Solutionを **ダウンロード**」を選択します。
+1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
