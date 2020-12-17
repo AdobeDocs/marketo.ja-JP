@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # キャンペーンフォルダー：「概要」タブ
 
-「キャンペーンフォルダーの [!UICONTROL 概要] 」タブには、2つのセクションがあります。 **[!UICONTROL 詳細]** と **[!UICONTROL レポート]**。
+キャンペーンフォルダー[!UICONTROL 「概要]」タブには、2つのセクションがあります。**[!UICONTROL 詳細]**&#x200B;と&#x200B;**[!UICONTROL レポート]**。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ##詳細]
 
-メイン [!UICONTROL 詳細] ページには、キャンペーンフォルダに関する一般情報が表示されます。
+メイン[!UICONTROL 詳細]ページには、キャンペーンフォルダーに関する一般的な情報が表示されます。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 [!UICONTROL ##レポート]
 
-[ [!UICONTROL レポート] ]セクションでは、フォルダ内の各キャンペーンに関する主な情報を確認できます。
+「[!UICONTROL レポート]」セクションでは、フォルダー内の様々なキャンペーンーに関する主要な情報を確認できます。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
