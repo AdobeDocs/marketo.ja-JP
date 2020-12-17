@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 担当者をSFDCに同期 {#sync-person-to-sfdc}
+# 担当者をSFDCに同期{#sync-person-to-sfdc}
 
 >[!NOTE]
 >
 >Salesforceと統合されている場合にのみ使用できます。
 
-## 概要 {#overview}
+## 概要{#overview}
 
 このフローステップは、Marketoが作成した人をSalesforce CRMへのリードとして挿入します。
 
 ![](assets/sync-person-to-sfdc.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. デフォルトでは、このフロー手順は、Salesforce自動割り当てルールに基づいて、リードの所有者に割り当てられます。
 
