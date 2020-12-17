@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# マネージャーアカウント追加を持つLaunchpointサービスとしてのGoogle AdWords {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列を [追加した後、条件を満たしたリード、オポチュニティ、新規顧客(または追跡したい任意の売上高ステージ](https://support.google.com/adwords/answer/3073556) )に導いたクリックを簡単に確認できます。 この情報は、Marketo UIには表示されません。
+Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列[を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。 ](https://support.google.com/adwords/answer/3073556)この情報は、Marketo UIには表示されません。
 
-複数のGoogle Adwordsアカウントがある場合は、 [Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/) （旧称My Client Center）を使用して、それらをMarketoと統合できます。
+複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、Marketoと統合できます。
 
-[Googleのオフラインコンバージョンインポート機能についての詳細](https://support.google.com/adwords/answer/2998031?hl=en)。
+[Googleのオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)の詳細を表示します。
 
 >[!NOTE]
 >
@@ -25,25 +25,25 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
 >[!NOTE]
 >
->スタンドアロンのGoogle AdWordsアカウントをLaunchpointサービスとして統合することもで [きます](add-google-adwords-as-a-launchpoint-service.md)。
+>また、[スタンドアロンのGoogle AdWordsアカウントをLaunchpointサービス](add-google-adwords-as-a-launchpoint-service.md)として統合することもできます。
 
-1. 「 **管理者** 」セクションに移動します。
+1. **管理者**&#x200B;セクションに移動します。
 
    ![](assets/login-admin-1.png)
 
-1. 「 **LaunchPoint**」を選択します。
+1. **LaunchPoint**&#x200B;を選択します。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 「 **New** and **New Service**」を選択します。
+1. 「**新規**」と「**新しいサービス**」を選択します。
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
-1. 表示名を入力し、「 **Google AdWords**」を選択します。
+1. 表示名を入力し、「**Google AdWords**」を選択します。
 
    ![](assets/new-service-google-1.png)
 
-1. 「マーケティング **を許可**」を選択します。
+1. 「**マーケティングを許可**」を選択します。
 
    >[!NOTE]
    >
@@ -51,23 +51,23 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/image2015-2-26-20-3a54-3a1.png)
 
-1. **Google AdWordsに関連付けられているアカウントを選択します**。
+1. **Google AdWords**&#x200B;に関連付けられているアカウントを選択します。
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
-1. 「 **承認**」を選択します。
+1. 「**受け入れ**」を選択します。
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. ステータスは「 **成功**」と表示されます。 「 **次へ**」を選択します。
+1. ステータスは&#x200B;**成功**&#x200B;と表示されます。 「**次へ**」を選択します。
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. オフラインコンバージョンをMarkettoからGoogle AdWordsに**Weekly **または **Daily**&#x200B;にアップロードします。
+1. MarketorからGoogle AdWordsへのオフラインコンバージョンを**週別**または&#x200B;**日別**&#x200B;にアップロードします。
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. 「 **最初のクリック** 」または「 **最後のクリック**」に変換された属性。
+1. **最初のクリック**&#x200B;または&#x200B;**最後のクリック**&#x200B;に変換する属性です。
 
    | タイプ | 定義 |
    |---|---|
@@ -78,13 +78,13 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    >[!NOTE]
    >
-   >[この機能が動作するには](https://support.google.com/adwords/answer/1752125?hl=en) 、自動タグ付けを選択する必要があります。 AdWords内でアクティブ化する必要があります。
+   >[この機能が動作するには、自動](https://support.google.com/adwords/answer/1752125?hl=en) タグ付けを選択する必要があります。AdWords内でアクティブ化する必要があります。
 
-1. 「 **次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. 更新しないアカウントの選択を解除します。 「 **作成**」をクリックします。
+1. 更新しないアカウントの選択を解除します。 「**作成**」をクリックします。
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
