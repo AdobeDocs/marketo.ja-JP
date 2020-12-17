@@ -24,14 +24,14 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. 「 [!UICONTROL キャンペーンアクション] 」ドロップダウンで、「 **[!UICONTROL 削除]**」を選択します。
+1. [!UICONTROL キャンペーンアクション]ドロップダウンで、**[!UICONTROL 削除]**&#x200B;を選択します。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >アクティブなスマートキャンペーンを削除せずにキャンセルするには、スマートキャンペーンを [中止する方法を説明します](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)。
+   >アクティブなスマートキャンペーンを削除せずにキャンセルするには、スマートキャンペーン](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)を[中止する方法を学びます。
 
-1. 「 **[!UICONTROL 確認]**」をクリックします。
+1. 「**[!UICONTROL 確認]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
