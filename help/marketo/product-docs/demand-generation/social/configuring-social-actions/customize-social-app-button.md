@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Socialアプリのカスタマイズボタン {#customize-social-app-button}
+# Socialアプリのカスタマイズボタン{#customize-social-app-button}
 
-ソーシャルボタン [または](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 参照オファーを作成する場合 [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)、ボタンの外観をカスタマイズできます。
+[ソーシャルボタン](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)または[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成する場合、ボタンの外観をカスタマイズできます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. アプリを選択し、「ドラフトを **編集」をクリックします。**
+1. アプリを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Social App Editorで、 **アプリ設定** / **ボタンのスタイル** (参照オファーの場合は「 **サインアップスタイル** 」)に移動します。
+1. Social App Editorで、**アプリの設定**/**ボタンのスタイル**&#x200B;に移動します(参照オファーの場合は&#x200B;**サインアップスタイル，**)。
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >参照オファーの場合は、 **2の下のネットワークを選択します。 入会フロー/ソーシャルネットワーク**。
+   >参照オファーの場合は、**2の下のネットワークを選択してください。 入会フロー>ソーシャルネットワーク**。
 
 1. ボタンの種類を選択します。
 
@@ -45,21 +45,21 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >上記の「ボタンスタイル **** 」の「画像をアップロード」を選択した場合は、以下のセクションで、テキストを編集する代わりにボタン画像をアップロードできます。
+   >上記の「ボタンスタイル&#x200B;**」で「**&#x200B;画像をアップロード」を選択した場合は、以下のセクションで、テキストを編集する代わりにボタン画像をアップロードできます。
 
 1. クリック前とクリック後のボタンのラベルを編集します。
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. 各選択を行うと、 **表示と編集ウィンドウで結果を確認します** 。
+1. 各選択を行うと、**表示と編集**&#x200B;ウィンドウで結果を確認します。
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->照会オファーで、「進行状況を **追跡** 」ボタンをカスタマイズすることもできます。 ア **プリ設定** /進行状況スタイルを **** 追跡に移動し、上記と同じ手順に従います。
+>リファラルオファーでは、「**進捗状況を追跡**」ボタンをカスタマイズすることもできます。 **アプリ設定**/**進捗スタイルを追跡**&#x200B;に移動し、上記と同じ手順に従います。
 
 >[!MORELIKETHIS]
 >
->ソーシャルボタンを開くタイミングを [設定します](configure-when-social-button-opens.md)。 参照オファーの場合は、オファー目標を [指定します](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)。
+>ソーシャルボタンの場合は、[](configure-when-social-button-opens.md)を開いたときに設定します。 参照オファーの場合、[オファー目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)を指定します。
 
