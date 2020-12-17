@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # キャンペーンフォルダー：「マイトークン」タブ
 
-「 [!UICONTROL マイトークン] 」タブでは、キャンペーンフォルダー内にあるすべてのマイトークンがリストされます。
+「[!UICONTROL マイトークン]」タブには、キャンペーンフォルダー内のマイトークンがすべてリストされます。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 **ディープダイブ**
 
-「 [マイトークン](/help/sky/understanding-my-tokens.md)」の使用に関する詳細。
+[マイトークン](/help/sky/understanding-my-tokens.md)の使用に関する詳細。
