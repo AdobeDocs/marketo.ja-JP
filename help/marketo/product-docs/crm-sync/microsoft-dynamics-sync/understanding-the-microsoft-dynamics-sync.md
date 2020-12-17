@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamicsの同期を理解しています {#understanding-the-microsoft-dynamics-sync}
+# Microsoft Dynamics Syncを理解する{#understanding-the-microsoft-dynamics-sync}
 
 MarketorとMicrosoft Dynamicsは連携しています。 販売とマーケティングのデータを同期させます。
 
@@ -19,7 +19,7 @@ MarketorとMicrosoft Dynamicsは連携しています。 販売とマーケテ�
 >
 >Marketorは、現時点ではJava 7と互換性のあるSSL証明書のみをサポートしています。
 
-## 同期の仕組み {#how-sync-works}
+## 同期の仕組み{#how-sync-works}
 
 Marketoは毎日毎日、データをMicrosoft Dynamicsと継続的に同期します。 バックグラウンド同期をリアルタイムではなくバッチで使用します。
 
@@ -29,7 +29,7 @@ Marketoは毎日毎日、データをMicrosoft Dynamicsと継続的に同期し�
 
 MarketoとDynamicsの同期は、リードと連絡先の双方向です。 MarketorまたはDynamicsで変更を行うと、両方のシステムに更新が反映されます。 アカウントやオポチュニティなど、他のすべてのフィールドは、DynamicsからMarketoへの1方向のみ同期されます。
 
-## MarketoとMicrosoft Dynamicsの間で同期されるもの {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## MarketoとMicrosoft Dynamicsの間で同期されるもの{#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [リード](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [連絡先](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -41,9 +41,9 @@ MarketoとDynamicsの同期は、リードと連絡先の双方向です。 Mark
 
 >[!NOTE]
 >
->Marketor for Dynamics [に入力した](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 資格情報は、データの同期に使用されます。
+>Marketor for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)に入力した[資格情報は、データの同期に使用されます。
 
-Dynamicsの同期には、多くのニュアンスと機能があります。 [ [Microsoft Dynamics同期の詳細]セクションの詳細を確認してください](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)。
+Dynamicsの同期には、多くのニュアンスと機能があります。 [Microsoft Dynamics同期の詳細セクション](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)の詳細を確認してください。
 
 >[!CAUTION]
 >
