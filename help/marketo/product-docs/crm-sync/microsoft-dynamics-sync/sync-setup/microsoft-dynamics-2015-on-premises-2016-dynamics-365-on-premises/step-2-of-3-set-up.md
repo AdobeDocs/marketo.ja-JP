@@ -25,27 +25,27 @@ ht-degree: 0%
 
 
 
-## 同期ユーザーロールの割り当て {#assign-sync-user-role}
+## 同期ユーザーロールの割り当て{#assign-sync-user-role}
 
 Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当てます。 他のユーザーに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketoバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、「Marketor Solution for Microsoft Dynamics [のアップグレード](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)」を参照してください。
+>これは、Marketoバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Marketo Solution for Microsoft Dynamicsのアップグレード](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
-1. 「 **設定**」で、「 **セキュリティ**」をクリックします。
+1. 「**設定**」で、「**セキュリティ**」をクリックします。
 
    ![](assets/assign1.png)
 
-1. 「 **ユーザー**」をクリックします。
+1. 「**ユーザー**」をクリックします。
 
    ![](assets/assign2.png)
 
-1. ここでは、ユーザーのリストが表示されます。 専用のMarketor Syncユーザーを選択するか、 [Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS)管理者に問い合わせて、Marketoの専用ユーザーを作成します。
+1. ここでは、ユーザーのリストが表示されます。 専用のMarketo Syncユーザーを選択するか、[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS)管理者に連絡して、Marketo用の専用ユーザーを作成してください。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 同期ユーザーを選択します。 「ロール **の管理**」をクリックします。
+1. 同期ユーザーを選択します。 「**ロールの管理**」をクリックします。
 
    ![](assets/assign4.png)
 
@@ -55,29 +55,29 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
    >[!TIP]
    >
-   >ロールが表示されない場合は、 [手順1/3に戻り、ソリューションをインポートし](step-1-of-3-install.md) ます。
+   >ロールが表示されない場合は、[手順1/3](step-1-of-3-install.md)に戻り、ソリューションをインポートします。
 
    >[!NOTE]
    >
-   >同期ユーザーがCRMで行った更新は、Marketorに同期され **ません** 。
+   >同期ユーザーがCRMで行った更新は、Marketoに&#x200B;**同期**&#x200B;されません。
 
-## Marketing Solutionの設定 {#configure-marketo-solution}
+## Marketto Solutionの設定{#configure-marketo-solution}
 
 もう少しで終わりだ！ 次の記事に移る前に、最後の設定をいくつか示します。
 
-1. 「 **設定**」で、「 **マーケティング先設定**」をクリックします。
+1. 「**設定**」で、「**マーケティング先設定**」をクリックします。
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >Marketor Configがない場合は、ページを更新してみてください。 問題が解決しない場合は、Marketor Solution [を公開するか](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) 、ログアウトしてから再度ログインしてみてください。
+   >Marketor Configがない場合は、ページを更新してみてください。 問題が解決しない場合は、[Marketor Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)を公開するか、ログアウトしてから再度ログインしてみてください。
 
-1. 「 **デフォルト**」をクリックします。
+1. 「**デフォルト**」をクリックします。
 
    ![](assets/configure2.png)
 
-1. 「 **マーケティング先ユーザー** 」フィールドをクリックし、同期ユーザーを選択します。
+1. 「**Marketto User**」フィールドをクリックし、同期ユーザーを選択します。
 
    ![](assets/configure3.png)
 
@@ -85,14 +85,14 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
    ![](assets/configure4.png)
 
-1. 「すべてのカスタマイズを **発行**」をクリックします。
+1. 「**すべてのカスタマイズを発行**」をクリックします。
 
    ![](assets/publish-all-customizations1.png)
 
-## 手順3に進む前に {#before-proceeding-to-step}
+## 手順3に進む前に{#before-proceeding-to-step}
 
-* 同期するレコード数を制限する場合は、カスタム同期フィルタを [設定](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 。
-* Microsoft Dynamics Sync [の](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 検証プロセスを実行します。 初期設定が正しく行われたことを確認できます。
+* 同期するレコード数を制限する場合は、[カスタムの同期フィルタ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)を設定します。
+* [Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)の検証プロセスを実行します。 初期設定が正しく行われたことを確認できます。
 * Microsoft Dynamics CRMのMarketto Sync Userにログインします。
 
 >[!NOTE]
