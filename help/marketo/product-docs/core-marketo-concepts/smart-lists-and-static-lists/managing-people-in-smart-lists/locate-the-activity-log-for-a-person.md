@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 個人のアクティビティログの検索 {#locate-the-activity-log-for-a-person}
+# 個人{#locate-the-activity-log-for-a-person}のアクティビティログを検索します
 
 アクティビティログは究極の真実の源だ。 これはマーケットでの人の旅の全体像です
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/db-2.png)
 
-1. 「 **すべての人」を選択します**。
+1. 「**すべてのユーザー**」を選択します。
 
    ![](assets/two-6.png)
 
-1. 「 **人物** 」タブをクリックします。 個人 **ID** 番号を選択します。
+1. 「**ユーザー**」タブをクリックします。 個人&#x200B;**ID**&#x200B;番号を選択します。
 
    ![](assets/three-5.png)
 
-1. 「 **アクティビティログ**」をクリックします。
+1. 「**アクティビティログ**」をクリックします。
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >特定の人のアクティビティを表示するアクティビティ [ログの](filter-activity-types-in-the-activity-log-of-a-person.md)フィルターについての詳細。
+   >[アクティビティログ](filter-activity-types-in-the-activity-log-of-a-person.md)のフィルタリングに関する詳細情報を参照し、特定の人のアクティビティを確認します。
 
