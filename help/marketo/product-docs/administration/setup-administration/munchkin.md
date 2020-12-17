@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# マンチキン {#munchkin}
+# マンチキン{#munchkin}
 
 Munchkinは、ウェブサイトに配置するJavaScriptのスニペットです。 訪問数、クリック数、およびフォームの入力数を追跡します。 また、あらゆる巧妙なトリックを行う豊富なAPIも備えています。
 
-Munchkinの [開発ページをご覧ください](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)。
+Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)の[開発者向けページを見てみてください。
