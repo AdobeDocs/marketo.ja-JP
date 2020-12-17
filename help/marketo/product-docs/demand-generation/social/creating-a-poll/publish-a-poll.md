@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# ポールの公開 {#publish-a-poll}
+# ポールの公開{#publish-a-poll}
 
-調査は [作成した後](create-a-poll.md)、Marketorランディングページ、FacebookおよびWebサイトに投稿できます。
+調査[を作成した後、](create-a-poll.md)をMarketorランディングページ、Facebook、Webサイトに投稿できます。
 
 1. ランディングページーに移動し、編集用に開きます。
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. 右側のパレット **から** 「投票」の上にドラッグします。
+1. 右側のパレットから&#x200B;**投票**&#x200B;の上にドラッグします。
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. 調査を選択し、「 **挿入」をクリックします。**
+1. 調査を選択し、[**挿入]をクリックします。**
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >ここで調査を利用できるようにするには、調査を承認する必要があります。
 
-おめでとう！ ランディングページを承認すると、調査は実行中です。 また、ランディングページをFacebookに [投稿したり、調査をWebサイトに](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 投稿したりできます [](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)。
+おめでとう！ ランディングページを承認すると、調査は実行中です。 また、ランディングページをFacebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[投稿したり、[投票をWebサイト](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に投稿したりすることもできます。
 
 >[!TIP]
 >
