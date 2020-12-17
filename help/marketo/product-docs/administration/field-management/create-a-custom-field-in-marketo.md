@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketorでのカスタムフィールドの作成 {#create-a-custom-field-in-marketo}
+# Marketor {#create-a-custom-field-in-marketo}でのカスタムフィールドの作成
 
 データを保存/取り込むためにMarketoに新しいカスタムフィールドが必要な場合は、次の方法で作成します。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >『 [カスタムフィールドタイプ用語集](custom-field-type-glossary.md)』を参照してください。
+   >[カスタムフィールドタイプ用語集](custom-field-type-glossary.md)をご覧ください。
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->フィールド名に次の文字を開始することはできません。 **. &amp; +[]**
+>フィールド名に次の文字を開始することはできません。**. &amp; +[]**
 
 ![](assets/image2014-9-24-13-3a48-3a26.png)
 
