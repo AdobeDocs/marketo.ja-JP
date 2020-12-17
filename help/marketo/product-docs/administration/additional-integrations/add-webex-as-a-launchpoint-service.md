@@ -33,31 +33,31 @@ Marketorは、WebExウェビナーの登録と出欠を管理します。
 >
 >注意：このフィールドにURL全体を入力しないでください。サイト名のみを入力してください。
 
-1. 「 **管理者** 」に移動し、「 **LaunchPoint**」をクリックします。
+1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;をクリックします。
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. 「 **New** 」、「 **New Service**」の順に選択します。
+1. 「**新規**」を選択し、「**新しいサービス**」を選択します。
 
    ![](assets/webex-new-service.png)
 
-1. 「 **表示名**」を入力します。 「 **Service**」で、「 **WebEx**」を選択します。
+1. **表示名**&#x200B;を入力します。 「**サービス**」で、「**WebEx**」を選択します。
 
    ![](assets/new-service-webex.png)
 
-1. ユーザ **名** と **パスワードを入力します**。
+1. **ユーザー名**&#x200B;と&#x200B;**パスワード**&#x200B;を入力します。
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. 「**サイト名**」を入力し、「 **作成**」をクリックしてプロセスを完了します。
+1. 「** Site Name**」を入力し、「**Create**」をクリックして、プロセスを完了します。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. 驚異的だ！ WebEx **がMarketoと同期されました** 。
+1. 驚異的だ！ **WebEx**&#x200B;は、Marketoと同期されます。
 
    ![](assets/webex.png)
 
 >[!MORELIKETHIS]
 >
->WebExでイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)。
+>[WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)でイベントを作成する方法を説明します。
 
