@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 静的リストのAdobe Experience Cloudへの書き出し {#export-a-static-list-to-adobe-experience-cloud}
+# 静的リストをAdobe Experience Cloudにエクスポート{#export-a-static-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -21,34 +21,34 @@ ht-degree: 0%
 >
 >[Adobe Experience Cloudオーディエンス共有の設定](http://docs.marketo.com/x/D4GMAg)
 
-## サポートされる宛先アプリケーション {#supported-destination-applications}
+## サポートされる宛先アプリケーション{#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics(**Adobe Audience Manager免許を持っている場合のみ** )
+* Adobe Analytics(Adobe Audience Managerのライセンスを所有している場合は&#x200B;**のみ**)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobeリアルタイム顧客データプラットフォーム
 * Adobe Target
 
-## リストの書き出し方法 {#how-to-export-a-list}
+## リストのエクスポート方法{#how-to-export-a-list}
 
 1. Marketorで、エクスポートするリストを探して選択します。
 
    ![](assets/one.png)
 
-1. 「 **リストアクション** 」ドロップダウンをクリックし、「Experience Cloudに **送信」を選択します**。
+1. **リストアクション**&#x200B;ドロップダウンをクリックし、**Experience Cloudに送信**&#x200B;を選択します。
 
    ![](assets/two-1.png)
 
-1. 「 **Audience Managerフォルダ** 」ドロップダウンをクリックし、Experience Cloud内の目的の保存先フォルダを選択します。
+1. 「**Audience Managerフォルダー**」ドロップダウンをクリックし、Experience Cloudー内の目的の保存先フォルダーを選択します。
 
    ![](assets/three-1.png)
 
-1. 新しいオーディエンスを作成するか、既存のフォルダを上書きするかを選択します（この例では、新しいを作成します）。 新しいオーディエンス名を入力し、「 **送信**」をクリックします。
+1. 新しいオーディエンスを作成するか、既存のフォルダを上書きするかを選択します（この例では、新しいを作成します）。 新しいオーディエンス名を入力し、「**送信**」をクリックします。
 
    ![](assets/four.png)
 
-1. 「 **OK**」をクリックします。
+1. 「**OK**」をクリックします。
 
    ![](assets/five.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
    >
    >オーディエンスのメンバーシップがAdobeに完全に設定されるまで、最大6 ～ 8時間かかる場合があります。
 
-## 注意事項 {#things-to-note}
+## 注意事項{#things-to-note}
 
 **Adobe Analyticsとの共有**
 
-Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様の場合、この統合により、オーディエンスをMarketoからAdobe Analyticsのレポートスイートに共有できますが、これを有効にするにはAdobe Audience Managerで行う追加の設定手順がいくつかあります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。 [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様の場合、この統合により、オーディエンスをMarketoからAdobe Analyticsのレポートスイートに共有できますが、これを有効にするにはAdobe Audience Managerで行う追加の設定手順がいくつかあります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Adobe Audience Managerのお客様の特徴使用**
 
@@ -80,4 +80,4 @@ Marketoでリストのエクスポートを開始すると、Adobe Audience Mana
 
 Marketo購読でCookieの同期が有効になっている場合、Marketoのmunchkin.jsは、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketoのCookie識別子に一致させようとします。 これにより、Marketorの匿名ユーザープロファイルは、AdobeECIDを使用して利用できるようになります。
 
-匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 この機能については、以下で説明します。 [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 この機能については、以下で説明します。[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
