@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 期間コストによるプログラムレポートのフィルタリング {#filter-a-program-report-by-period-cost}
+# 期間コストでプログラムレポートをフィルター{#filter-a-program-report-by-period-cost}
 
-特定の期間のコスト枠に対する [プログラムの実績レポート](create-a-program-performance-report.md) に焦点を当てます。
+[プログラムのパフォーマンスレポート](create-a-program-performance-report.md)を、特定の期間のコスト枠に絞り込みます。
 
-1. 「 **Marketing****アクティビティ** (または **Analytics**)」に移動します。
+1. **マーケティング** **アクティビティ** （または&#x200B;**Analytics**）に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. 「 **設定** 」タブをクリックし、「 **期間原価**」をドラッグします。
+1. 「**セットアップ**」タブをクリックし、「**期間コスト**」上にドラッグします。
 
    ![](assets/lm-86194-1.png)
 
-1. 発生原価の **開始日** と **終了日を入力し、「** 適用 ****」をクリックします。
+1. 「**開始日**」と「**終了日**」に発生費用の日付を入力し、「**適用**」をクリックします。
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 終わった！ 「 **レポート** 」タブをクリックすると、指定した期間のコスト期間内のプログラムのみが表示されます。
+1. 終わった！ 「**レポート**」タブをクリックすると、指定した期間のコスト期間内のプログラムのみが表示されます。
 
    ![](assets/lm-86194-report-tab.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
