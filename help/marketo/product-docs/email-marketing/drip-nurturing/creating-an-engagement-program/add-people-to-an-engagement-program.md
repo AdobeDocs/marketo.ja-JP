@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# アクションプログラム追加のユーザー {#add-people-to-an-engagement-program}
+# アクションプログラム追加のユーザー{#add-people-to-an-engagement-program}
 
 ユーザーがエンゲージメントプログラムのメンバーになる方法はいくつかあります。
 
 * [関与追加プログラム](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [エンゲージメントプログラムカデンス](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) ・フロー・ステップの変更
-* [エンゲージメントプログラムストリーム](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) フローステップの変更
-* [プログラムステータス](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) ・フロー・ステップの変更
+* [エンゲージメントプログラム](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) のカデンスフロー手順の変更
+* [エンゲージメントプログラムの](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) ストリームフロー手順の変更
+* [プログラム](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) ステータスフローの手順の変更
 * ユーザーがエンゲージメントプログラムのローカルフォームに入力した場合
 * メンバーのエンゲージメントプログラムへのインポート(プログラム内の「メンバー」タブを使用)
 * CRMとしてSalesforceを使用し、エンゲージメントプログラムにSalesforceキャンペーンが関連付けられている場合は、CRM側のSalesforceキャンペーンにユーザーを追加すると、そのユーザーもエンゲージメントプログラムのメンバーになります。
