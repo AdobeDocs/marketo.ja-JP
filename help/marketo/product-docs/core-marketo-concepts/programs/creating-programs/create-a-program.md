@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# プログラムの作成 {#create-a-program}
+# プログラムの作成{#create-a-program}
 
 プログラムは、マーケティングにおける最も重要な要素の1つです。 よく使うぞ！
 
-1. 「 **マーケティングアクティビティ」に移動します。**
+1. **マーケティングアクティビティに移動します。**
 
    ![](assets/login-marketing-activities.png)
 
-1. 新しいプログラムのフォルダを選択します。 「 **新規** 」を選択し、「 **新規プログラム***.*」をクリックします。
+1. 新しいプログラムのフォルダを選択します。 「**新規**」を選択し、「**新規プログラム***.*」をクリックします。
 
    ![](assets/leadlifecycle.jpg)
 
-1. 名前 ****,**を入力し、ドロップダウンリストから****&#x200B;チャネル [**を選択して、](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**作成をクリックします。**
+1. **名前****,**を入力し、ドロップダウンで** [チャネル](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**を選択し、「作成」をクリックします。****
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->詳しくは、 [プログラムを参照してください](http://docs.marketo.com/display/docs/programs)。
+>[プログラム](http://docs.marketo.com/display/docs/programs)の詳細。
 
