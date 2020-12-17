@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# バッチスマートキャンペーンを後で実行するようにスケジュールする {#schedule-a-batch-smart-campaign-to-run-later}
+# バッチスマートキャンペーンを後で実行するようにスケジュールする{#schedule-a-batch-smart-campaign-to-run-later}
 
 バッチスマートキャンペーンを将来的な時点で実行するように設定する場合は、次のようにします。
 
 >[!TIP]
 >
->プログラムスケジュール表示でバッチスマートキャンペーンを [再スケジュールすることもできます](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)。
+>また、プログラムスケジュール表示](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)のバッチスマートキャンペーンを[再スケジュールすることもできます。
 
-1. 実行するバッチスマートキャンペーンを選択し、「 **スケジュール** 」タブに移動し、「1回 **実行**」をクリックします。
+1. 実行するバッチスマートキャンペーンを選択し、「**スケジュール**」タブに移動し、「**1回実行**」をクリックします。
 
    ![](assets/scheduledruns2.png)
 
-1. 「 **後で実行**」をクリックし、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日を選択します。
+1. 「**後で実行**」をクリックし、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日を選択します。
 
    ![](assets/runonce.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/runoncetime.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/runoncetimesave.png)
 
-1. 「 **スケジュール** 」タブを参照して、スケジュールされた実行を確認できます。
+1. **「スケジュール**」タブを見ると、スケジュールされた実行を確認できます。
 
    ![](assets/scheduledrunsbox.png)
 
