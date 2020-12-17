@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketto Lead Management Solutionのダウンロード {#download-the-marketo-lead-management-solution}
+# Marketto Lead Management Solutionのダウンロード{#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->アップグレードを実行する前に、最新のMarketo Solutionをダウンロードする *必要があります* 。
+>*がアップグレードを実行する前に、最新のMarketo Solution*&#x200B;をダウンロードする必要があります。
 
 >[!NOTE]
 >
 >Marketorは、現時点ではJava 7と互換性のあるSSL証明書のみをサポートしています。
 
-1. 「 **管理者** 」領域に移動します。
+1. **管理者**&#x200B;領域に移動します。
 
    ![](assets/admin.png)
 
-1. 「 **CRM**」をクリックします。
+1. **CRM**&#x200B;をクリックします。
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. 「 **Microsoft**」を選択します。
+1. 「**Microsoft**」を選択します。
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. 「Markettor Solutionを **ダウンロード**」を選択します。
+1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
