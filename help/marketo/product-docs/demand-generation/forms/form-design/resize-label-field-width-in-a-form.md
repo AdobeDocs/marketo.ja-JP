@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# フォーム内のラベル/フィールドの幅のサイズ変更 {#resize-label-field-width-in-a-form}
+# フォーム内のラベル/フィールドの幅のサイズを変更{#resize-label-field-width-in-a-form}
 
 フィールドラベルの幅とフィールドの幅の両方をサイズ変更する方法は2つあります。
 
-## 幅のドラッグ&amp;ドロップ {#drag-and-drop-the-width}
+## 幅をドラッグ&amp;ドロップ{#drag-and-drop-the-width}
 
-1. フ [ォームエディターで](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)、サイズを変更するフィールドを選択します。
+1. [フォームエディター](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)で、サイズを変更するフィールドを選択します。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## 幅を手動で入力 {#enter-the-width-manually}
+## 幅を手動で入力{#enter-the-width-manually}
 
 1. サイズを変更するフィールドを選択します。
 
