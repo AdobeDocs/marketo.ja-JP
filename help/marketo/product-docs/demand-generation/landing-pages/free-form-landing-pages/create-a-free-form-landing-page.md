@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# フリーフォームランディングページの作成 {#create-a-free-form-landing-page}
+# フリーフォームランディングページの作成{#create-a-free-form-landing-page}
 
 フリーフォームランディングページは、プログラムのローカルアセットとして、またはDesign Studioで作成し、グローバルに使用することができます。
 
 >[!NOTE]
 >
->ランディングページモードは、そのテンプレートによって定義されます。 [フリーフォームおよびガイド付きランディングページテンプレートについて詳しく説明します](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 。
+>ランディングページモードは、そのテンプレートによって定義されます。 [フリーフォームおよびガイド付きランディングページテンプレートにつ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) いて詳しく説明します。
 
-## プログラムでのフリーフォームランディングページの作成 {#create-a-free-form-landing-page-in-a-program}
+## プログラム{#create-a-free-form-landing-page-in-a-program}でのフリーフォームランディングページの作成
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 「 **新規**」をクリックします。 「 **新規ローカルアセット**」を選択します。
+1. 「**新規**」をクリックします。 「**新しいローカルアセット**」を選択します。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. [ **ランディングページ**]をクリックします。
+1. **ランディングページ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. 「 **作成**」をクリックします。
+1. 「**作成**」をクリックします。
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->URLは、プログラム名とランディングページ名から自動的に構築されます。 URLを変更するには、「 **ページURL** 」フィールドを編集します。
+>URLは、プログラム名とランディングページ名から自動的に構築されます。 URLを変更するには、**ページURL**&#x200B;フィールドを編集します。
 
-## Design Studioでのフリーフォームランディングページの作成 {#create-a-free-form-landing-page-in-design-studio}
+## Design Studio {#create-a-free-form-landing-page-in-design-studio}で自由形式ランディングページを作成する
 
-1. 「 **Design** Studio ****」に移動します。
+1. **デザイン** **スタジオ**&#x200B;に移動します。
 
    ![](assets/designstudio.png)
 
-1. 「 **新規**」、「 **新規ランディングページ」の順にクリックします。**
+1. 「**新しい**」をクリックし、「**新しいランディングページ**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,11 +67,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. 「 **作成**」をクリックします。
+1. 「**作成**」をクリックします。
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->「 **作成」をクリックした後すぐにランディングページを開かないようにするには、「新しいページにエディタを開く**」をオフにします。
+>「**作成**」をクリックした後すぐにランディングページを開かないようにするには、「新しいページにエディタを開く」をオフにします。
 
