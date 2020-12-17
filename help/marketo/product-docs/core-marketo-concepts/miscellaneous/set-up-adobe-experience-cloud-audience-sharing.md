@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adobe Experience Cloudオーディエンス共有の設定 {#set-up-adobe-experience-cloud-audience-sharing}
+# Adobe Experience Cloudオーディエンス共有のセットアップ{#set-up-adobe-experience-cloud-audience-sharing}
 
 オーディエンスデータをAdobeアプリケーションと共有するには、まずMarketorでAdobeのIMS組織の資格情報を入力する必要があります。 これが方法です。
 
@@ -19,27 +19,27 @@ ht-degree: 0%
 >
 >MarketorインスタンスのHIPAA対応の展開では、この統合を使用できません。
 
-1. Marketorで、「 **管理者**」をクリックします。
+1. Marketoで、「**管理者**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. 「統合」で、「 **Experience Cloudオーディエンスの共有**」をクリックします。
+1. 「統合」で、「**Experience Cloudオーディエンス共有**」をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「 **編集**」をクリックします。
+1. 「**編集**」をクリックします。
 
    ![](assets/three-2.png)
 
-1. AdobeのIMS組織IDを入力し(このIDの検索方法を参照 [し](http://docs.adobe.com/content/help/en/control-panel/using/faq.html))、 **「OK**」をクリックします。
+1. AdobeIMS組織IDを入力し（[ここ](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)を見つける方法を学ぶ）、「**OK**」をクリックします。
 
    ![](assets/four-2.png)
 
-1. 「 **確認**」をクリックします。
+1. 「**確認**」をクリックします。
 
    ![](assets/five-1.png)
 
-1. 「 **閉じる**」をクリックします。
+1. 「**閉じる**」をクリックします。
 
    ![](assets/six-2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >セキュリティ上の理由から、マッピング先のAdobe組織の組織管理者である必要があります。 そうしないと、アクションは失敗します。
 
-1. まだログインし *ていない場合* 、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（この操作により組織アクセスが検証されます）。
+1. **&#x200B;が既にログインしていない場合は、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（この操作により組織アクセスが検証されます）。
 
-   それだ！ これで、オーディエンスデータの [共有を開始できます](http://docs.marketo.com/x/ogI6Ag)。
+   それだ！ これで、[オーディエンスデータ](http://docs.marketo.com/x/ogI6Ag)の共有を開始できます。
 
