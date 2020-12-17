@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレート10 ～ F {#template-f}
+# テンプレート10-F {#template-f}
 
 [テンプレートを10 ～ F](http://docs.marketo.com/download/attachments/8784014/template-10f.html?version=2&amp;modificationdate=1438210996000&amp;api=v2)
 
