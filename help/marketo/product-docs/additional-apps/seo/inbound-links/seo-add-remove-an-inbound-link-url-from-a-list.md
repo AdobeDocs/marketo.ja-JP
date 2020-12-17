@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO -追加リストから受信リンクURLを削除 {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO -追加/リストから受信リンクURLを削除{#seo-add-remove-an-inbound-link-url-from-a-list}
 
 受信リンクURLを心のコンテンツに合わせて整理できます。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >また、キーワードの新しいリストを作成して移動することもできます。 [新しいリストの作成]に目的の名前を入力します。
 
-## リストからの受信リンクURLの削除 {#remove-an-inbound-link-url-from-a-list}
+## リストから受信リンクURLを削除{#remove-an-inbound-link-url-from-a-list}
 
 1. リストから受信リンクURLを削除したい場合があります。
 
