@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# プログラムによるプログラムレポートのフィルタリング {#filter-a-program-report-by-program}
+# プログラム{#filter-a-program-report-by-program}でプログラムレポートをフィルター
 
-特定のプログラムに対する [プログラムのパフォーマンスレポートに焦点を当てて](create-a-program-performance-report.md) 、そのパフォーマンスを比較します。
+[プログラムのパフォーマンスレポート](create-a-program-performance-report.md)を特定のプログラムに絞って、そのパフォーマンスを比較します。
 
-1. 「 **Marketing****アクティビティ** (または **Analytics**)」に移動します。
+1. **マーケティング** **アクティビティ** （または&#x200B;**Analytics**）に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. 「 **設定** 」タブをクリックし、 **プログラム上をドラッグします**。
+1. 「**セットアップ**」タブをクリックし、**プログラム**&#x200B;の上にドラッグします。
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. それだけだ！ 「 **レポート** 」タブをクリックして、レポートで選択したプログラム *のみを表示します* 。
+1. それだけだ！ 「**レポート**」タブをクリックすると、レポート内で選択したプログラムの&#x200B;*のみ*&#x200B;が表示されます。
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
