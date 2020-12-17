@@ -16,14 +16,14 @@ ht-degree: 0%
 
 以下に、プログラムーおよびキャンペーンフォルダーで使用する画像トークンの設定方法を示します。
 
-1. プログラムーまたはフォルダーの「 [!UICONTROL マイトークン] 」タブで、「 **画像** 」トークンを「ロー [!UICONTROL カルトークン] 」キャンバスにドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**画像**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. 画像トークンの名前を入力し、画像URLを入力します。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 画像トークンの名前を入力し、画像URLを入力します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-または、 [!UICONTROL Design Studioから既存のイメージを選択できます]。 「 **[!UICONTROL 保存]**」をクリックします。
+または、[!UICONTROL Design Studio]から既存のイメージを選択できます。 「**[!UICONTROL 保存]**」をクリックします。
 
 ![イメージ3](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
