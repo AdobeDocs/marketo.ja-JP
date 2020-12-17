@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 広告ネットワーク統合について {#understanding-ad-network-integrations}
+# 広告ネットワーク統合について{#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## 広告ネットワーク統合の仕組み {#how-ad-network-integrations-work}
+## 広告ネットワーク統合の仕組み{#how-ad-network-integrations-work}
 
 広告ネットワーク統合は、Markettoの固有のオーディエンスデータを有料メディアシステムに接続することで、より的を絞ったパーソナライズされたデジタル広告キャンペーンを実行できます。 これらの統合は、現在、Facebook、LinkedInおよびGoogleと連携して動作します。
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
    * 例えば、ある人が広告を検索し、閲覧してクリックし、オンラインでフォームに入力したとします。 その後、デモをオフラインで受け取り、CRMのオポチュニティになります。 そこで広告主が彼をターゲットする
 
-* Webパーソナライゼーションを使用したWebサイト訪問者の再ターゲ [ティング](http://docs.marketo.com/display/docs/web+personalization)（Webサイトへのドライブ）
+* [Webパーソナライゼーション](http://docs.marketo.com/display/docs/web+personalization)を使用したWebサイト訪問者の再ターゲティングにより、Webサイトに戻る
 
    * セグメント別または垂直別にパーソナライズ
 
-## 現在の機能 {#current-functionality}
+## 現在の機能{#current-functionality}
 
 統合は次の目的で使用できます。
 
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 |  | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## ビデオの視聴 {#watch-a-video}
+## ビデオを見る{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
