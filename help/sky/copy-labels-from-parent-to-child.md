@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-親アセットから子アセットにラベルをコピーするには、「 [!UICONTROL 概要] 」タブのアセットの [!UICONTROL 詳細] ページに移動します。
+親アセットから子アセットにラベルをコピーするには、[!UICONTROL 概要]タブの下にあるアセットの[!UICONTROL 詳細]ページに移動します。
 
-[ [!UICONTROL ラベル] ]セクションで、[親からラベルを **[!UICONTROL コピー]**]をクリックします。
+「[!UICONTROL ラベル]」セクションで、「**[!UICONTROL 親からラベルをコピー]**」をクリックします。
 
 ![イメージ1](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
