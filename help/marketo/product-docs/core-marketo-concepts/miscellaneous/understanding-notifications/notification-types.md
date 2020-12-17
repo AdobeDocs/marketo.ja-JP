@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 通知タイプ {#notification-types}
+# 通知の種類{#notification-types}
 
 通知の種類はいくつかあります。
 
-## キャンペーンエラー  {#campaign-failure}
+## キャンペーンエラー{#campaign-failure}
 
 キャンペーンの失敗により、スマートキャンペーンのエラーが通知されます。
 
-## CRM同期 {#crm-sync}
+## CRM同期{#crm-sync}
 
 CRM同期通知では、権限の誤りや同期の停止など、CRM同期で見つかった重要な問題について警告します。
 
@@ -47,7 +47,7 @@ Facebook
 
 アイドルトリガーキャンペーンのクリーンアップ
 
-アクティビティを取得しなくなったトリガー済みスマートキャンペーンを非アクティブ化します。 自動トリガーキャンペーンのク [リーンアップの詳細](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)。
+アクティビティを取得しなくなったトリガー済みスマートキャンペーンを非アクティブ化します。 [自動トリガーキャンペーンクリーンアップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)の詳細を表示します。
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Webサービス
 
 >[!NOTE]
 >
->表示される可能性のあるエラーコードの一部は、 [開発者用ドキュメントで概要を説明しています](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)。
+>表示される可能性のあるエラーコードの一部は、アドビの[開発者向けドキュメント](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)で概要を説明しています。
 
