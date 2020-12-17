@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プログラムチャネルの削除 {#delete-a-program-channel}
+# プログラムチャネルの削除{#delete-a-program-channel}
 
 プログラムチャネルは、プログラム内で行う必要のあるステータスまたはチェックポイントのリードの集まりです。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. 「 **タグ**」をクリックします。
+1. 「**タグ**」をクリックします。
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-バム！ 特定のステータスをチャネルから [削除することもできます](delete-a-program-status-from-a-program-channel.md)。
+バム！ また、チャネル](delete-a-program-status-from-a-program-channel.md)から特定のステータスを[削除することもできます。
 
 >[!MORELIKETHIS]
 >
