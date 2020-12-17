@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ブランディングドメインの削除 {#delete-a-branding-domain}
+# ブランドドメインの削除{#delete-a-branding-domain}
 
 1. 「マーケティング」で「**管理者**」をクリックし、「**電子メール**」リンクをクリックします。
 
