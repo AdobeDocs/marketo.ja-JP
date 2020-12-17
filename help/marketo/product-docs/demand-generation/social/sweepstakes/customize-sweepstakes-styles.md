@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 懸賞のスタイルのカスタマイズ {#customize-sweepstakes-styles}
+# 懸賞のスタイルのカスタマイズ{#customize-sweepstakes-styles}
 
-懸賞を [作成する際に](create-sweepstakes.md)、ランディングページ上での懸賞の外観をカスタマイズできます。
+[懸賞](create-sweepstakes.md)を作成するとき、ランディングページ上での懸賞の外観をカスタマイズできます。
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/login-marketing-activities-1.png)
 
-1. 懸賞を選択し、「 **ドラフトを** 編集 ****」をクリックします。
+1. 懸賞を選択し、「**編集** **ドラフト**」をクリックします。
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Sweepstakesエディターで、 **App** Settings **/** Appearance **Settings(アプリ** 設定 **/**&#x200B;外観)に移動します。
+1. Sweepstakesエディターで、**アプリ** **設定** **** **外観**&#x200B;に移動します。
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Enter **Button**：のCSSの例
+   **Enter Button**のCSSの例：
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` 画像の **入力ボタン**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >テキストが含まれた画像を使用する場合は、上の「テキスト」の下の「 **Enter** **Button ***」フィールドからテキストを削除することを忘れないでください。
+   >テキストが含まれた画像を使用する場合は、上の「テキスト」の下の「**** **Button ***Enter」フィールドからテキストを削除することを忘れないでください。
 
 1. 変更を行うたびに、結果が表示と編集プレビューに表示されます。
 
@@ -64,5 +64,5 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >次の手順は、 [サインアップ電子メールと受渡通知電子メールを懸賞に追加することで](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)す。
+   >次の手順は、[サインアップメールと受渡通知メールを懸賞へ追加](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)することです。
 
