@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 監査証跡の詳細の変更 {#change-details-in-audit-trail}
+# 監査証跡の詳細の変更{#change-details-in-audit-trail}
 
 監査証跡オファーは、マーケティング購読で誰が何を行っているかに関する多くの洞察を提供します。 詳しくは、
 
-## アセット監査証跡 {#asset-audit-trail}
+## アセットの監査証跡{#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -32,7 +32,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="15">デフォルトプログラム<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>作成</td> 
-   <td>チャネルタイプ「チャネルタイプ」<br><br>または「プログラム名」から複製</td> 
+   <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
    <td>名前の変更</td> 
@@ -40,7 +40,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>ワークスペース「workspace name」 <br>場所「キャンペーンプログラムー」または「エンゲージメントフォルダー」に複製されました。複製されたプログラム名「new name」 <br>です。</td> 
+   <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラム"または"アクションフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -93,7 +93,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="18">電子メール<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>作成</td> 
-   <td>テンプレート「template name」を使用して作成 <br>するか、「asset name」から <br>複製</td> 
+   <td>テンプレート「template name」 <br>または<br>を使用して作成され、「asset name」からコピーされます。</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -101,11 +101,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>「電子メールから」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メールで保護]</a>」に更新しました。</td> 
+   <td>「電子メールから」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メール保護]</a>」に更新しました。</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>「返信先」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メールで保護]</a>」に更新しました。</td> 
+   <td>「返信先」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メール保護]</a>」に更新しました</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -145,11 +145,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「Design studio」にコピーされてフォルダー「foldername」に <br>コピーされ<br><br>ました。アセット名「name」<br>または「Marketingアクティビティ」にコピーされ、プログラムー「プログラム名」にコピーされたアセット名「name」</td> 
+   <td>"Design studio"をフォルダー"foldername" <br>複製されたアセット名"name"<br>または<br>複製されたアセット名"name"をプログラムー"プログラム名"<br>複製されたアセット名"name"に複製されました</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>「Design studio」に移動して「プログラムー名」に、<br><br>または「マーケティングアクティビティ」に移動して「プログラムー名」に移動しました。</td> 
+   <td>「Design studio」を「フォルダー名」<br>または<br>「マーケティングアクティビティ」に移動し、「プログラムー名」に移動しました。</td> 
   </tr> 
   <tr> 
    <td>承認</td> 
@@ -161,12 +161,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>ドラフト</td> 
-   <td>スニペット「スニペット名」が承認されたため、電子メールがドラフトされ<br><br>たか、テンプレート「テンプレート名」が承認されたためEmailがドラフトされました</td> 
+   <td>スニペット「snippet name」が承認された<br>または<br>電子メールはテンプレート「template name」が承認されたので、ドラフトされた電子メール</td> 
   </tr> 
   <tr> 
    <td rowspan="17">電子メールプログラム</td> 
    <td>作成</td> 
-   <td>チャネルタイプ「チャネルタイプ」<br><br>または「プログラム名」から複製</td> 
+   <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
    <td colspan="1">名前の変更</td> 
@@ -174,7 +174,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>ワークスペース「ワークスペース名」にコピーされました。「キャンペーンプログラムーまたはエンゲージメントフォルダー」 <br>にコピーされ <br>たプログラム名「新しい名前」</td> 
+   <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラムーまたはエンゲージメントフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -194,7 +194,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラムトークンの変更</td> 
-   <td>トークン「トークン名」の編集新しい値「新しい値」の古い値「古い値」</td> 
+   <td>トークン「トークン名」の編集新しい値「新しい値」古い値「古い値」</td> 
   </tr> 
   <tr> 
    <td>プログラムトークンの変更</td> 
@@ -214,7 +214,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
-   <td>解析動作「behavior name」の編集<br>古い動作「behavior name」</td> 
+   <td>解析の動作「behavior name」<br>古い動作「behavior name」を編集</td> 
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
@@ -255,7 +255,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「folder name」にコピーされました。アセット名「name」 <br> がコピーされます。</td> 
+   <td>「folder name」 <br>に複製されたアセット名「name」</td> 
   </tr> 
   <tr> 
    <td>承認</td> 
@@ -268,7 +268,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="23">アクションプログラム</td> 
    <td>作成</td> 
-   <td>チャネルタイプ「チャネルタイプ」<br> 、または<br> 「プログラム名」から複製</td> 
+   <td>チャネルタイプ「チャネルタイプ」<br>または<br> 「プログラム名」から複製</td> 
   </tr> 
   <tr> 
    <td>名前の変更</td> 
@@ -276,7 +276,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>ワークスペース「ワークスペース名」にコピーされました。「キャンペーンプログラムーまたはエンゲージメントフォルダー」 <br>にコピーされ <br>たプログラム名「新しい名前」</td> 
+   <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラムーまたはエンゲージメントフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -300,19 +300,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラムストリームの変更</td> 
-   <td>追加<br>contentStream name "stream name"<br>タイプ"電子メール"または"プログラム"<br><br>名"電子メール名"または"プログラム名"スマートキャンペーン"スマートキャンペーン名"</td> 
+   <td>追加コンテンツ<br>ストリーム名"stream name"<br>「電子メール」または「プログラム」<br>名前「電子メール名」または「プログラム名」<br>スマートキャンペーン"smartキャンペーン名"</td> 
   </tr> 
   <tr> 
    <td>プログラムストリームの変更</td> 
-   <td>Activate<br>contentStream name "stream name"<br>コンテンツ名"email name"または"プログラム名"</td> 
+   <td>コンテンツをアクティブ化<br>ストリーム名「stream name」<br>コンテンツ名「email name」または「プログラム名」</td> 
   </tr> 
   <tr> 
    <td>プログラムストリームの変更</td> 
-   <td>Deactivate<br>contentStream name "stream name"<br>コンテンツ名"email name"または"プログラム名"</td> 
+   <td>コンテンツの非アクティブ化<br>ストリーム名「stream name」<br>コンテンツ名「email name」または「プログラム名」</td> 
   </tr> 
   <tr> 
    <td>プログラムストリームの変更</td> 
-   <td>Remove<br>contentStream name "stream name"<br>コンテンツ名"email name"または"プログラム名"</td> 
+   <td>コンテンツ<br>ストリーム名"stream name"<br>コンテンツ名"email name"または"プログラム名"を削除</td> 
   </tr> 
   <tr> 
    <td>プログラムトークンの変更</td> 
@@ -332,7 +332,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
-   <td>解析動作「behavior name」の編集<br>古い動作「behavior name」</td> 
+   <td>解析の動作「behavior name」<br>古い動作「behavior name」を編集</td> 
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
@@ -361,7 +361,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="18">イベントプログラム</td> 
    <td>作成</td> 
-   <td>チャネルタイプ「チャネルタイプ」<br><br>または「プログラム名」から複製</td> 
+   <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
    <td>名前の変更</td> 
@@ -373,7 +373,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>ワークスペース「workspace name」 <br>場所「キャンペーンプログラムー」または「エンゲージメントフォルダー」に複製されました。複製されたプログラム名「new name」 <br>です。</td> 
+   <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラム"または"アクションフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
    <td>編集チャネル</td> 
@@ -405,7 +405,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
-   <td>解析動作「behavior name」の編集<br>古い動作「behavior name」</td> 
+   <td>解析の動作「behavior name」<br>古い動作「behavior name」を編集</td> 
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
@@ -479,11 +479,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「Design studio」にコピーされてフォルダー「foldername」に <br>コピーされ<br><br>ました。アセット名「name」<br>または「Marketingアクティビティ」にコピーされ、プログラムー「プログラム名」にコピーされたアセット名「name」</td> 
+   <td>"Design studio"をフォルダー"foldername" <br>複製されたアセット名"name"<br>または<br>複製されたアセット名"name"をプログラムー"プログラム名"<br>複製されたアセット名"name"に複製されました</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>「Design studio」に移動して「プログラムー名」に、<br><br>または「マーケティングアクティビティ」に移動して「プログラムー名」に移動しました。</td> 
+   <td>「Design studio」を「フォルダー名」<br>または<br>「マーケティングアクティビティ」に移動し、「プログラムー名」に移動しました。</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="9">ランディングページ</td> 
    <td>作成</td> 
-   <td>テンプレート「template name」を使用して作成 <br>するか、「asset name」から <br>複製</td> 
+   <td>テンプレート「template name」 <br>または<br>を使用して作成され、「asset name」からコピーされます。</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -509,11 +509,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「Design studio」にコピーされてフォルダー「foldername」に<br>コピーされました。アセット名「name」<br>の複製<br><br>されたアセット名「name」は、「name」にコピーされ、「 <br>Marketingアクティビティ」は、「www.url.com」にコピーされ、「<br>プログラム名」は、「name」にコピーされたアセットURL 「www.url.com」</td> 
+   <td>"Design studio"をフォルダー"foldername"<br>複製されたアセット名"name"<br>複製されたアセット名"www.url.com"<br>または<br>複製されたアセットURL ""をプログラムー"プログラム名" <br>複製されたアセット名"name"<br>複製されたアセットURL "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>「Design studio」にフォルダー「プログラムー名」に移動、<br><br> 「マーケティングアクティビティ」に移動、「プログラムー名」に移動</td> 
+   <td>「Design studio」に移動して、「フォルダー名」<br>または<br>に移動し、「マーケティングアクティビティ」から「プログラムー名」に移動しました。</td> 
   </tr> 
   <tr> 
    <td>承認</td> 
@@ -530,7 +530,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="8">ランディングページテンプレート</td> 
    <td>作成</td> 
-   <td><p>「アセット名」<br><br>からBlankorCloned</p></td> 
+   <td><p>空の<br>または<br>「アセット名」から複製</p></td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -546,7 +546,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「folder name」にコピーされました。 <br>複製されたアセット名「name」</td> 
+   <td>「folder name」 <br>コピーされたアセット名「name」</td> 
   </tr> 
   <tr> 
    <td>書き出し</td> 
@@ -571,7 +571,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「Person Database」をフォルダー「foldername」にコピーしました。アセット名「name」 <br>または「Marketing Databases」をプログラム「プログラム名」に<br><br>コピーし<br>ました。複製されたアセット名「name」</td> 
+   <td>「Person Database」をフォルダー「foldername」<br>にコピーしました。アセット名「name」<br>または<br>コピー元のアセット名「name」をプログラムー「プログラム名」<br>コピー元のアセット名「name」</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -600,7 +600,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>移動</td> 
-   <td>「プログラム」からプログラム「プログラム名」<br><br>に、または「フォルダ」から「フォルダ名」に移動</td> 
+   <td>「プログラム」に移動し、「プログラム名」<br>または<br>プログラムー「フォルダー名」に移動</td> 
   </tr> 
   <tr> 
    <td>名前の変更</td> 
@@ -616,7 +616,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>プログラム「プログラム」に「プログラム」にコピー済みアセット名「名前」 <br>にコピー済みアセット名「<br><br>」または「フォルダ」にコピー済みアセット名「名前」にコピー<br>済みアセット名「名前」</td> 
+   <td>「プログラム」に複製され、プログラム「プログラム名」 <br>複製されたアセット名「名前」<br>または<br>複製されたアセット名「フォルダー」に複製され、「フォルダー名」<br>複製されたアセット名「名前」</td> 
   </tr> 
   <tr> 
    <td>スマートリストの設定の変更</td> 
@@ -653,7 +653,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>「Person Database」にコピーされてフォルダー「foldername」に <br>コピーされ<br><br>ました。アセット名「name」 <br>または「Marketing Databases」にコピーされ、プログラムー「プログラム名」にコピーされたアセット名「name」</td> 
+   <td>「Person Database」をフォルダー「foldername」<br>にコピーしました。アセット名「name」<br>または<br>コピー元のアセット名「name」をプログラムー「プログラム名」<br>コピー元のアセット名「name」</td> 
   </tr> 
   <tr> 
    <td>スマートリストの設定の変更</td> 
@@ -662,7 +662,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="11">スニペット</td> 
    <td>作成</td> 
-   <td><p>"snippet name"から<br><br>BlankorCloned</p></td> 
+   <td><p>空白<br>または<br>「スニペット名」から複製</p></td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -690,7 +690,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>クローン</td> 
-   <td>"folder name"に複製されました。 <br>複製されたスニペット名"name"</td> 
+   <td>"folder name" <br>コピーされたスニペット名"name"</td> 
   </tr> 
   <tr> 
    <td>承認</td> 
@@ -707,7 +707,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 管理監査証跡 {#admin-audit-trail}
+## 管理監査証跡{#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -743,7 +743,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="3">役割<br><br></td> 
    <td>作成</td> 
-   <td>「ロール名」で作成されたロール(注意：追加された権限に関する詳細が必要な場合は、サポートにお問い合わせください) — ロールに割り当てられた権限のスナップショット <br>を表示します</td> 
+   <td>「ロール名」で作成されたロール(注意：追加された権限に関する詳細が必要な場合は、サポートにお問い合わせください) - <br>ロールに割り当てられた権限のスナップショットを表示します</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -751,7 +751,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>ロールが「以前の名前」から「新しい名前」に編集されました(注意：編集した権限の詳細については、サポートにお問い合わせください) — ロールに割り当てられている権限のスナップショット <br>を表示します。<br></td> 
+   <td>ロールが「以前の名前」から「新しい名前」に編集されました(注意：編集した権限に関する詳細が必要な場合は、サポートにお問い合わせください)- <br>ロールに割り当てられた権限のスナップショットを表示します<br></td> 
   </tr> 
   <tr> 
    <td>スマートリストレポート</td> 
@@ -761,7 +761,7 @@ ht-degree: 0%
   <tr> 
    <td rowspan="7">ユーザー<br><br><br><br></td> 
    <td>作成（招待）</td> 
-   <td>招待ユーザー：電子メール"電子メールアドレス"、名前"姓"、アクセスの有効期限"空白"または日付"、APIユーザー"trueまたはfalse" — ユーザーに割り当てられたロールとワークスペースのスナップショット <br>を表示します。</td> 
+   <td>招待ユーザー：電子メール"電子メールアドレス"、名前"名前"姓"、アクセスの有効期限"空白"または日付"、APIユーザー"trueまたはfalse" - <br>には、ユーザーに割り当てられたロールとワークスペースのスナップショットが表示されます</td> 
   </tr> 
   <tr> 
    <td colspan="1">削除</td> 
