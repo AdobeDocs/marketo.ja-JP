@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ## スマートリストルールの保存
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
+1. [!UICONTROL マーケティングアクティビティ]で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
 
    ![イメージ1](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. 「 **[!UICONTROL スマートリスト]**」をクリックします。
+1. 「**[!UICONTROL スマートリスト]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. フィルター/トリガーの追加が完了したら、「 **[!UICONTROL スマートキャンペーンのアクション]** 」ドロップダウンをクリックし、「スマートリストルールの **[!UICONTROL 保存]**」を選択します。
+1. フィルター/トリガーの追加が完了したら、「**[!UICONTROL スマートキャンペーンのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL スマートリストのルールを保存]**」を選択します。
 
    ![画像5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. ルールセットに名前を付け、「 **[!UICONTROL 保存]**」をクリックします。
+1. ルールセットに名前を付け、「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 保存済スマート・リスト・ルールの使用
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
+1. [!UICONTROL マーケティングアクティビティ]で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
 
    ![画像7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. 「 **[!UICONTROL スマートリスト]**」をクリックします。
+1. 「**[!UICONTROL スマートリスト]**」をクリックします。
 
    ![画像8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. 「 **[!UICONTROL 保存されたルール]** 」ドロップダウンをクリックします。
+1. 「**[!UICONTROL 保存されたルール]**」ドロップダウンをクリックします。
 
    ![画像9](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
