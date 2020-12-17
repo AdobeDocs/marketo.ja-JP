@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-プログラムの「 [!UICONTROL セットアップ] 」タブから、チャネルの選択、タグや期間のコストの追加、設定の変更を行うことができます。
+プログラムーの[!UICONTROL 「セットアップ]」タブから、チャネルの選択、タグや期間のコストの追加、設定の変更を行うことができます。
 
 ![イメージ1](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 追加タグ
 
-1. 「 [!UICONTROL タグ] 」セクションで、「 **[!UICONTROL 属性]** 」ドロップダウンをクリックし、使用可能なオプションからタグ属性を選択します。
+1. 「[!UICONTROL タグ]」セクションで、「**[!UICONTROL 属性]**」ドロップダウンをクリックし、使用可能なオプションからタグ属性を選択します。
 
    ![イメージ3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 「 **[!UICONTROL 値]** 」ドロップダウンをクリックし、使用可能なオプションからタグ値を選択します。 をクリックし **[!UICONTROL 追加ます]**。
+1. **[!UICONTROL 値]**&#x200B;ドロップダウンをクリックし、使用可能なオプションからタグ値を選択します。 **[!UICONTROL 追加]**&#x200B;をクリックします。
 
    ![画像4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Classicでプログラムタグを [作成し](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) 、ドロップダウンで使用できるようにする方法を説明します。
+>Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)でプログラムタグを[作成し、ドロップダウンで使用できるようにする方法を説明します。
 
 ## 追加期間原価
 
-1. 「 [!UICONTROL 期間コスト] 」セクションで、月を選択し、コストを入力し、短い名前または説明を追加します。 をクリックし **[!UICONTROL 追加ます]**。
+1. 「[!UICONTROL 期間のコスト]」セクションで、月を選択し、コストを入力し、短い名前または説明を追加します。 **[!UICONTROL 追加]**&#x200B;をクリックします。
 
    ![画像6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ ht-degree: 0%
 
 ## 設定の変更
 
-「 [!UICONTROL 設定] 」セクションで、(購読にCRM統合がある場合)同期先のCRMキャンペーンを選択したり、プログラムの解析動作を変更したりできます。
+「[!UICONTROL 設定]」セクションで、(購読にCRM統合がある場合)同期先のCRMキャンペーンを選択したり、プログラムの解析動作を変更したりできます。
 
 ![画像8](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
