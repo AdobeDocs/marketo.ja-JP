@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# RCAの「Named Account」Dimension {#named-account-dimension-in-rca}
+# RCA {#named-account-dimension-in-rca}の名前付きアカウントDimension
 
 Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを使用して、売上高に基づくレポートを作成します。
 
