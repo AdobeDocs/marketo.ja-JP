@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. イベントに [!UICONTROL 名前を付け]、 [!UICONTROL 保存先フォルダーと] チャネルを選択します 。
+1. イベントに[!UICONTROL 名前]を入力し、[!UICONTROL 宛先]フォルダーと[!UICONTROL チャネル]を選択します。
 
    ![イメージ2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 「 [!UICONTROL 登録済み] 」と「 [!UICONTROL 詳細]」に目標を入力し、「作成 **[!UICONTROL 」をクリックします(出席済みは]** 説明、出席済みはオプション )。
+1. 「[!UICONTROL 登録済み]」と「[!UICONTROL 出席]」の目標を入力し、「**[!UICONTROL 作成]**」（[!UICONTROL 説明]と[!UICONTROL ラベル]はオプション）をクリックします。
 
    ![イメージ1](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-それだ！ [ [!UICONTROL レポート] ]タブをクリックして、イベント目標のステータスを確認します。
+それだ！ 「[!UICONTROL レポート]」タブをクリックして、イベント目標のステータスを確認します。
