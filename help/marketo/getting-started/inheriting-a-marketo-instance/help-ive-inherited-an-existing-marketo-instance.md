@@ -29,4 +29,4 @@ ht-degree: 0%
 * [確認事項：主なスキル](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [ヘルプの入手方法](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-インスタンス内での使い方が既にわかっており、Marketoのコア概念に慣れている場合は、Marketo Product Docsを調べるか、 [Marketing Nation](https://nation.marketo.com/) オンラインコミュニティにアクセスして、他のマーケティングユーザーの発言を確認してください。
+インスタンスの中心となる概念に慣れていて、Marketo製品ドキュメントを調べるか、[マーケティング国](https://nation.marketo.com/)オンラインコミュニティを参照して、他のマーケティングユーザーが何を言っているかを確認してください。
