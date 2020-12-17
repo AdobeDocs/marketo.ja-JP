@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：春17 {#release-notes-spring}
+# リリースノート：春&#39;17 {#release-notes-spring}
 
 Spring 17リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
@@ -19,9 +19,9 @@ Spring 17リリースには次の機能が含まれています。 Marketing Edi
 
 ## [LinkedInリードジェネレーションForms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[LinkedInのリードジェネレーションForms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) は、LinkedInでリードジェネレーションキャンペーンを実行するビジネスにとって、より直接的な方法です。 人々は製品やサービスに対する関心を表すフォームに記入し、その人の詳細を捕捉してマーケティング担当者と同期できます。マーケティング担当者との同期では、自動フォローアッププロセスとリードルーティングアクティビティが可能です。
+[LinkedInのリードジェネレーション](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) フォームは、LinkedInでリードジェネレーションキャンペーンを実行するビジネスにとって、より直接的な方法です。人々は製品やサービスに対する関心を表すフォームに記入し、その人の詳細を捕捉してマーケティング担当者と同期できます。マーケティング担当者との同期では、自動フォローアッププロセスとリードルーティングアクティビティが可能です。
 
-LinkedInのリードジェネレーションFormsとのMarketoの統合により、リードジェネレーションフォーム内でリードが提供する情報が自動的に取得されます。 その後、新しい「 **Fill Out LinkedIn Lead Gen Form** 」トリガーとフィルターを使用して、フォローアップアクションと通知を自動化できます。
+LinkedInのリードジェネレーションFormsとのMarketoの統合により、リードジェネレーションフォーム内でリードが提供する情報が自動的に取得されます。 その後、新しい&#x200B;**Fills Out LinkedIn Lead Gen Form**&#x200B;トリガーとフィルターを使用して、フォローアップアクションと通知を自動化できます。
 
 ![](assets/release-notes-image.png)
 
@@ -39,13 +39,13 @@ Sales Insightで古いテンプレートをクリーンアップする時代は�
 
 大量の人やアクティビティデータをMarketoから外部システムに簡単に転送できます。
 
-## ABMの強化 {#abm-enhancements}
+## ABMの拡張{#abm-enhancements}
 
-** ABM名付きアカウントの [カスタムフィールド](https://docs.marketo.com/x/1wnG)**
+** [名前付きアカウントのABMのカスタムフィールド](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABMで、指定されたアカウントに最大10個のカスタムフィールドを作成できるようになりました。 これらのカスタムフィールドをCRMアカウントオブジェクトのフィールドにマップすると、Marketto ABMがデータを同期するので、ABM固有のアカウントを拡張して、マーケティングの促進に役立てることができます。
 
-** ABM名前付きアカウントに対する [パーセンタイルスコアリング](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [名前付きアカウントのABMでのパーセンタイルスコアリング](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 指定されたアカウントのスコアは大きく異なります。 Marketo ABMは、各スコアのパーセンタイルを自動的に計算するようになりました。これにより、他の名前付きアカウントの中で、名前付きアカウントがランク付けされた場所を一目で確認できます。
 
@@ -53,11 +53,11 @@ Marketo ABMで、指定されたアカウントに最大10個のカスタムフ�
 
 固有のアカウントリスト向けの拡張APIサポートにより、リッチで堅牢なABMパートナー統合を活用できます。
 
-## ウェブパーソナライゼーションの強化 {#web-personalization-enhancements}
+## Webパーソナライゼーションの強化{#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
-**スクロール時の [Webキャンペーン](https://docs.marketo.com/x/2grG)**
+** [スクロール時のWebキャンペーン](https://docs.marketo.com/x/2grG)**
 
 新しいWebキャンペーン効果により、Web訪問者に対して、よりパーソナライズされた体験を提供します。 パーソナライズしたWebキャンペーンーを、Web訪問者ーがWebページを下にスクロールしたときにのみ表示するように設定します。 スクロール時に表示するダイアログWebキャンペーンを設定できます。
 
@@ -65,7 +65,7 @@ Marketo ABMで、指定されたアカウントに最大10個のカスタムフ�
 * ピクセルが達成されました
 * ページの一重スクロール
 
-**終了時の [Webキャンペーン](https://docs.marketo.com/x/2grG)**
+** [終了時のWebキャンペーン](https://docs.marketo.com/x/2grG)**
 
 ページを閉じる前に、訪問者の注意を引き付けます。 訪問者がページを離れることを示すマウスジェスチャを行った場合にのみ表示されるように、パーソナライズされたWebキャンペーンを設定します。
 
@@ -81,7 +81,7 @@ Marketo ABMで、指定されたアカウントに最大10個のカスタムフ�
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Archive Webキャンペーン](https://docs.marketo.com/x/_grG)**
+** [Webキャンペーンをアーカイブ](https://docs.marketo.com/x/_grG)**
 
 アーカイブは、Webキャンペーンをアーカイブし、既定のWebキャンペーン表示で非表示にできる新しいWebキャンペーンステータスです。 これにより、最も関連性の高いアクティブなキャンペーンに焦点を当て、古いアーカイブされたキャンペーンを必要に応じて取り出すことができます。
 
@@ -91,7 +91,7 @@ Marketo ABMで、指定されたアカウントに最大10個のカスタムフ�
 
 Webパーソナライゼーションは、マーケティング対応のすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で提供されるようになりました。
 
-## 予測の強化 {#predictive-enhancements}
+## 予測の強化{#predictive-enhancements}
 
 ** [ローカライゼーション](https://docs.marketo.com/x/YAIk)**
 
