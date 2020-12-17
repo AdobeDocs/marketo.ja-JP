@@ -16,11 +16,11 @@ ht-degree: 0%
 
 プログラムを削除する方法を次に示します。
 
-1. 削除するプログラムを見つけて、「 **[!UICONTROL プログラムアクション]** 」ドロップダウンから「削除」を選択します。
+1. 削除するプログラムを探し、[!UICONTROL プログラムアクション]ドロップダウンから&#x200B;**[!UICONTROL 削除]**&#x200B;を選択します。
 
    ![イメージ1](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. プログラムの削除の副作用を確認し、 **[!UICONTROL 上記の項目をすべて削除する]**。 「 **[!UICONTROL 送信]**」をクリックします。
+1. プログラムの削除の副作用を確認し、**[!UICONTROL 上記の項目をすべて削除する]**&#x200B;を選択します。 「**[!UICONTROL 送信]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->プログラムを削除すると、関連するすべてのデータが削除されます。 データを保持する場合は、代わりにアーカイブフォルダーに [プログラムを](/help/sky/archive-a-program.md) 配置します。
+>プログラムを削除すると、関連するすべてのデータが削除されます。 データを保存するには、プログラムをアーカイブフォルダ[に置きます。](/help/sky/archive-a-program.md)
