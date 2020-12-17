@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LaunchPointサー追加ビスとしてのGoogle顧客の一致 {#add-google-customer-match-as-a-launchpoint-service}
+# 追加LaunchPointサービスとしてのGoogle Customer Match {#add-google-customer-match-as-a-launchpoint-service}
 
 この統合により、Google AdWordsを使用してターゲット設定されるようにMarketoオーディエンスをGoogleに送信できるほか、YouTube、SearchおよびGmailで再ターゲットオーディエンスを送信できます。
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-1. 「 **管理者**」に移動します。
+1. **管理者**&#x200B;に移動します。
 
    ![](assets/admin.png)
 
-1. 「 **LaunchPoint**」をクリックします。
+1. **LaunchPoint**&#x200B;をクリックします。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 「 **New** 」、「** New Service**」の順に選択します。
+1. 「**新規**」を選択し、「**新しいサービス**」を選択します。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 「**表示名」を入力 **し、「** サービス **** 」ドロップダウンから「Google Customer Match **」を選択します。 「 **作成**」をクリックします。
+1. **表示名&#x200B;**を入力し、**&#x200B;サービス&#x200B;**ドロップダウンから「** Google顧客一致**」を選択します。 「**作成**」をクリックします。
 
    ![](assets/chooseservice.png)
 
-1. Google AdWordsアカウントに接続するには、「 **認証**」をクリックします。
+1. Google AdWordsアカウントを接続するには、**承認**&#x200B;をクリックします。
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketorが複数のAdWordsアカウントでオーディエンスを送信するには、次の手順で承認したGoogleユーザーが *すべての* 「アカウント」にアクセスできる必要があります。
+   >Marketorが複数のAdWordsアカウントでオーディエンスを送信するには、次の手順で承認するGoogleユーザーは、これらのアカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
 
    ![](assets/chooseaccount.png)
 
-1. 必要な権限を確認し、「 **許可**」をクリックします。
+1. 要求された権限を確認し、「**許可**」をクリックします。
 
    ![](assets/reviewpermissions.png)
 
-1. これで、Google AdWordsアカウントがMarketoに接続されました。 「 **作成**」をクリックします。
+1. これで、Google AdWordsアカウントがMarketoに接続されました。 「**作成**」をクリックします。
 
    ![](assets/authorizesuccess.png)
 
