@@ -22,23 +22,23 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. [ **[!UICONTROL スケジュール]** ]タブに移動し、[繰り返しの **[!UICONTROL 設定]**]をクリックします。
+1. 「**[!UICONTROL スケジュール]**」タブに移動し、「**[!UICONTROL 繰り返しを設定]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. 「 **[!UICONTROL 定期]** 」ドロップダウンをクリックし、「 **[!UICONTROL 週別]**」を選択します。
+1. **[!UICONTROL 定期的な]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 週別]**&#x200B;を選択します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. [ **[!UICONTROL 繰り返しの開始日]** ]の横のカレンダーアイコンをクリックし、最初の実行日と時刻を選択します。 この例では、次に利用可能な火曜日を使用します。 完了したら、カレンダー外をクリックします。
+1. [**[!UICONTROL 繰り返しの開始日]**]の横のカレンダーアイコンをクリックし、最初の実行日と時刻を選択します。 この例では、次に利用可能な火曜日を使用します。 完了したら、カレンダー外をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. 「 **[!UICONTROL 繰り返し間隔]** 」を1に設定し、「 **[!UICONTROL 火曜日]**」を選択します。
+1. 「**[!UICONTROL 毎回]**&#x200B;繰り返す」を1に設定し、「**[!UICONTROL 火曜日]**」を選択します。
 
    ![画像5](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. 「 **[!UICONTROL 終了日」の横のカレンダーアイコンをクリックし]** 、終了日を選択します。 完了したら **[!UICONTROL 「確認]** 」をクリックします。
+1. 「****&#x200B;で終わる」の横のカレンダーアイコンをクリックし、終了日を選択します。 終了したら「**[!UICONTROL 確認]**」をクリックします。
 
    ![画像6](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
