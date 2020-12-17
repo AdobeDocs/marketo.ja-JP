@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Picklist値追加/Remove Picklist Values {#add-remove-picklist-values}
+# 追加/Remove Picklist Values {#add-remove-picklist-values}
 
 Salesforceでの選択リスト値の追加と削除について知っておくべきことを以下に示します。
 
-## 選択リスト値の追加 {#adding-picklist-values}
+## 選択リスト値の追加{#adding-picklist-values}
 
-1. Salesforceで選択リストフィールドタイプに値が追加された場合は、その値が影響を与えるフォームを [識別する](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 通知が届きます。
+1. Salesforceにpicklistフィールドタイプに値が追加されると、[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)が送信され、これがどのフォームに影響を与えるかがわかります。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. フォームエディターに移動し、提案のリストに [値を追加します](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) 。
+1. フォームエディターに移動し、[提案のリストに追加の値](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)を追加します。
 
-## 選択リスト値の削除 {#remove-picklist-values}
+## 選択リスト値の削除{#remove-picklist-values}
 
 Salesforceのフィールドからpicklist値が削除された場合、このフィールドをホストするすべてのフォームから、この値を手動で削除する必要があります。
 
