@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >ストリームを削除すると、
    >そのストリーム内のコンテンツ。
 
-1. 歯車アイコンをクリックし、「 **[!UICONTROL 削除]**」を選択します。
+1. 歯車アイコンをクリックし、**[!UICONTROL 削除]**&#x200B;を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
