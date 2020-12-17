@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Docsへようこそ {#welcome-to-marketo-docs}
+# Marketo Docsへようこそ{#welcome-to-marketo-docs}
 
 マーケティング製品ドキュメント
 
