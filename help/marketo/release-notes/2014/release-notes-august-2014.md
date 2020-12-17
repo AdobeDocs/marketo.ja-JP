@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2014年8月 {#release-notes-august}
+# リリースノート：2014年8月{#release-notes-august}
 
 2014年8月リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
-## マーケティングカレンダーライセンス {#marketing-calendar-licenses}
+## マーケティングカレンダーライセンス{#marketing-calendar-licenses}
 
-2014年9月5日以降、マーケティングカレンダーに対する無料アクセス権を持つユーザーは5人のみです。 その前に、選択したユーザーに対してマーケティングカレンダーライセンスの [発行](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) /取り消しを行い、中断のないアクセスを許可します。
+2014年9月5日以降、マーケティングカレンダーに対する無料アクセス権を持つユーザーは5人のみです。 その前に、選択したユーザーに対して、[マーケティングカレンダーライセンス](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)の発行/取り消しを行って、中断のないアクセスを許可してください。
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
-## 新しいユーザー権限 {#new-user-permissions}
+## 新しいユーザー権限{#new-user-permissions}
 
 次の新しいユーザー権限が追加されました。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 | トリガーキャンペーンのアクティブ化 | トリガーキャンペーンをアクティブにできるユーザーとできないユーザーを制御します。 |
 | スケジュールバッチキャンペーン | バッチキャンペーンの実行をスケジュールできるユーザーとできないユーザーを制御します。 |
 
-## 管理者からのユーザーとロールのエクスポート {#export-users-and-roles-from-admin}
+## 管理者{#export-users-and-roles-from-admin}からのユーザーとロールのエクスポート
 
-ユーザーとロールのリストをMarketoから [エクスポートできるようになりました](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) 。 エクスポートに含める「最後のログイン」タイムスタンプを含めることもできます。
+ユーザーとロールのリスト](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)をMarketoから[エクスポートできるようになりました。 エクスポートに含める「最後のログイン」タイムスタンプを含めることもできます。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## チャネルとタグの削除 {#delete-channels-and-tags}
+## チャネルとタグの削除{#delete-channels-and-tags}
 
 未使用のチャネルやステータスを削除できるようになりました。 通常どおり、非表示にできるのは現在使用中のもののみです。
 
@@ -57,41 +57,41 @@ ht-degree: 0%
 >
 >DKIMは徐々に展開され、数週間表示されない場合があります。
 
-## リアルタイムパーソナライゼーションの更新 {#real-time-personalization-updates}
+## リアルタイムパーソナライゼーションの更新{#real-time-personalization-updates}
 
 ハートコンテンツにタグ付けできるように、キャンペーンページにラベルを追加しました。
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 
-## モバイルターゲット設定 {#mobile-targeting}
+## モバイルターゲット{#mobile-targeting}
 
 コミュニティに頼んで届けた！ モバイルユーザーとタブレットユーザーに対して、特定の誘い文句（CTA：コールトゥアクション）を含めたり、除外したり、設定したりできるようになりました。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## 1:1セグメント化とターゲティングの強化 {#enhanced-segmentation-and-targeting}
+## 1:1セグメント化とターゲット設定の強化{#enhanced-segmentation-and-targeting}
 
 既知の訪問者をターゲティングする際に、アドバンスフィルター演算子を使用できるようになりました。
 
 ![](assets/image2014-9-16-12-3a23-3a56.png)
 
-## キャンペーン共有 {#campaign-sharing}
+## キャンペーン共有{#campaign-sharing}
 
 RTPキャンペーンプレビューリンクを迅速かつ容易に共有できるようになりました。
 
 ![](assets/image2014-9-16-12-3a24-3a22.png)
 
-## コンテンツ推奨エンジンレポート {#content-recommendation-engine-report}
+## コンテンツ推奨エンジンレポート{#content-recommendation-engine-report}
 
 優れた概要を表示するための新しいコンテンツレコメンデーションエンジンレポートが追加されました。
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
-## 強化されたユーザー管理 {#enhanced-user-administration}
+## ユーザー管理の強化{#enhanced-user-administration}
 
 管理者ユーザーは、複数回のログイン試行が失敗したためにユーザーをロックできるようになりました。 必要に応じて、それらのユーザーのロックを解除することもできます。
 
-## 追跡制御 {#tracking-control}
+## 追跡制御{#tracking-control}
 
 リアルタイムパーソナライゼーションのすべての追跡とレポートから特定のIPを除外できるようになりました。
 
