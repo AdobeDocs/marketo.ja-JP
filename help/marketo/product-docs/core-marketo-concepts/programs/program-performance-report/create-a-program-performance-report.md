@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# プログラムパフォーマンスレポートの作成 {#create-a-program-performance-report}
+# プログラムパフォーマンスレポートの作成{#create-a-program-performance-report}
 
 このレポートを含むプログラムに関する詳細な統計を表示します。
 
-1. [プログラムでレポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、「 **プログラムパフォーマンス** 」 [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)レポートタイプを選択します。
-1. 「 **レポート** 」タブをクリックします。
+1. [プ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、 **プログラム** [パフォーマンスレポートタイプを選択します](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. 「**レポート**」タブをクリックします。
 1. そこだ！ レポートを表示して、プログラムの状況を確認します。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->例えば、成功 *あたりのコストが最も低いプログラムを検索するには*、その列でレポートを [並べ替え](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 、「並べ替え ****」を選択します。
+>*成功ごとのコスト*&#x200B;が最も低いプログラムを検索するには、例えば[その列でレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を昇順選択します。
 
 プログラムパフォーマンスレポートの列には、次の項目が含まれます。
 
@@ -58,5 +58,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->詳しくは、 [基本レポートを参照してください](http://docs.marketo.com/display/docs/basic+reporting)。
+>詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
