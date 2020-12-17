@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# イベントプログラムについて {#understanding-event-programs}
+# イベントプログラムについて{#understanding-event-programs}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-## 概要 {#overview}
+## 概要{#overview}
 
 イベントプログラムとは、オフラインイベントやオンラインプログラムを自動化するのに使用できるの一種です。 イベントプログラムは、特定の日時に出席者を持つものと考えてください。
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 
 
-イベントは、自動的に [ウェビナープロバイダーに接続し](launchpoint-event-partners.md) 、iPadのチェックインアプリと同期できます [](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)。
+イベントは、[ウェビナープロバイダー](launchpoint-event-partners.md)に自動的に接続でき、[iPadチェックインアプリ](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)と同期できます。
 
-## ビデオの視聴 {#watch-a-video}
+## ビデオを見る{#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
