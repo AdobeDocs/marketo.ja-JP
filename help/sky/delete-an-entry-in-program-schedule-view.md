@@ -24,6 +24,6 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. 「 **[!UICONTROL 確認]** 」をクリックして、エントリを削除します。
+1. **[!UICONTROL 「]**&#x200B;確認&lt;a1/>」をクリックして、エントリを削除します。
 
    ![イメージ3](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
