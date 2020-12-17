@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2015年5月 {#release-notes-may}
+# リリースノート：2015年5月{#release-notes-may}
 
 2015年5月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
 電子メールプログラムが出かける前に「send」を押しましたか？ メールプログラムを中止する新しいボタンでブレーキを引きます。 これにより、フライト中の電子メールプログラムは、そのユーザーの追跡先で停止します。
 
-## 電子メールの配信品質  {#email-deliverability}
+## 電子メールの配信品質{#email-deliverability}
 
 Marketorは、追加されたドメインに対して、毎週自動化されたSPFおよびDKIMチェックを実行します。 通知を確認して、常にこの機能を使用します。
 
-## 電子メールテンプレートの動作の変更 {#email-template-behavior-change}
+## 電子メールテンプレートの動作の変更{#email-template-behavior-change}
 
 このリリース以降、新しい電子メールを作成する際に有効なHTMLコメントが許可され、削除されなくなりました。
 
-## RTP:ドラッグ&amp;ドロップセグメントエディタ {#rtp-drag-and-drop-segment-editor}
+## RTP:セグメントエディターのドラッグ&amp;ドロップ{#rtp-drag-and-drop-segment-editor}
 
-RTP: [ドラッグ&amp;ドロップセグメントエディタ](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP:[ドラッグ&amp;ドロップセグメントエディター](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 条件をセグメントビルダーにドラッグ&amp;ドロップし、値を定義すると、リアルタイムセグメントを作成する準備が整います。
 
-## RTP:予測コンテンツRecommendations {#rtp-predictive-content-recommendations}
+## RTP:予測コンテンツRecommendations{#rtp-predictive-content-recommendations}
 
 [予測コンテンツRecommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
 
