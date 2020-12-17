@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：春16 {#release-notes-spring}
+# リリースノート：春&#39;16 {#release-notes-spring}
 
 Spring 16リリースには次の機能が含まれています。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
@@ -31,7 +31,7 @@ Spring 16リリースには次の機能が含まれています。 タイトル�
 
 >[!NOTE]
 >
->電子メールエディター2.0（テンプレートピッカーを使用）は、6月3日から徐々にロールアウトされます。 6月30日までに展開を完了します。 電子メールインサイトとは異なり、アクセス権を持つと通知されません。 確認するには、 [この記事の手順に従ってください](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)。
+>電子メールエディター2.0（テンプレートピッカーを使用）は、6月3日から徐々にロールアウトされます。 6月30日までに展開を完了します。 電子メールインサイトとは異なり、アクセス権を持つと通知されません。 確認するには、[この記事](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)の手順に従ってください。
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -55,7 +55,7 @@ Marketo内でアプリ用の魅力的なアプリ内メッセージを作成で�
 
 ## [カスタムアクティビティ](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-マーケティング担当者は、カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。 Marketorカスタムオブジェクトモデラーと同様（および連携して）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。 この機能の使用方法について詳しくは、マー [ケティング担当者のドキュメントサイトを参照してください](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)。
+マーケティング担当者は、カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。 Marketorカスタムオブジェクトモデラーと同様（および連携して）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。 この機能の使い方の詳細については、[Marketoのドキュメントサイト](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)を参照してください。
 
 ## [ランディングページ、ランディングページテンプレート、フォームAPI](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,25 +63,25 @@ Marketo REST APIで、マーケティングランディングページ、ラン�
 
 ## [APIアクセスのIP許可リスト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-MarketoユーザーログインのIP許可リスト機能と同様に、Marketorの管理者は、Marketo SOAPおよびREST APIにアクセスできるIPアドレスの許可リストを設定でき、許可されていないIPアドレスからのアクセスをブロックできるようになりました。 これにより、Marketoインスタンスのセキュリティが強化され、APIアクセスが組織のネットワーク内からのみ可能になります。 この設定方法の詳細については、 [マーケティングツールのドキュメントサイトを参照してください](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)。
+MarketoユーザーログインのIP許可リスト機能と同様に、Marketorの管理者は、Marketo SOAPおよびREST APIにアクセスできるIPアドレスの許可リストを設定でき、許可されていないIPアドレスからのアクセスをブロックできるようになりました。 これにより、Marketoインスタンスのセキュリティが強化され、APIアクセスが組織のネットワーク内からのみ可能になります。 この設定方法の詳細については、[Marketoのドキュメントサイト](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)を参照してください。
 
 ## [新しい高速Microsoft Dynamics同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Orionアーキテクチャ上に構築された新しい高速ダイナミクスコネクタは、初期同期では最大20倍、増分同期では最大5倍の速度を提供します。 新規のお客様はすべて、リリース日にこのコネクタに搭載され、夏のリリース期間中に既存のお客様に対して徐々に公開されます。
 
-**新しいフィールドのデータを更新**:これで、新しい同期フィールドをいつでも有効にでき、そのフィールドのすべてのデータ値がDynamics CRMからMarketoに更新されます。 初回セットアップ時にすべてのフィールドを選択する必要が生じる心配はなくなりました。 既存の同期フィールドを無効にし、後で再度有効にした場合、そのフィールドのすべてのデータ値はDynamics CRMからMarketoに更新されます。
+**新しいフィールドのデータを更新**:これで、新しい同期フィールドをいつでも有効にでき、そのフィールドのすべてのデータ値がDynamics CRMからMarketoに更新されます。初回セットアップ時にすべてのフィールドを選択する必要が生じる心配はなくなりました。 既存の同期フィールドを無効にし、後で再度有効にした場合、そのフィールドのすべてのデータ値はDynamics CRMからMarketoに更新されます。
 
 **リードを連絡先として同期**:「Microsoftへのリードを同期」フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**同期エラーの「管理者」タブ**: 操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）を参照、検索、エクスポートします。
+**同期エラーの「管理者」タブ**:操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）を参照、検索、エクスポートします。
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**:コネクタは、Dynamics 2016オンラインおよびオンプレミスのバージョンで完全に認証されています。
 
-**プラグインの更新に関するドキュメントが公開されました。** 詳しくは、 [プラグインのアップデートドキュメントの記事を参照してください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+**プラグインのアップデートに関するドキュメントが公開され** ました。 [プラグインのアップデートに関するドキュメントの記事を参照してください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
