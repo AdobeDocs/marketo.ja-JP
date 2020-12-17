@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：16年冬 {#release-notes-winter}
+# リリースノート：冬&#39;16 {#release-notes-winter}
 
 2016年冬のリリースには、次の機能が含まれています。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
 ## [匿名フィルター](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-スマートリストの匿名フィルターが削除されました。 詳しくは、 [次世代マンチキントラッキングのFAQ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) ドキュメントを参照してください。 この変更は、Webパーソナライゼーション(RTP)には影響しません。Web訪問者は匿名で既知のWeb訪問者を識別し、これらの訪問者にリアルタイムでコンテンツをパーソナライズします。
+スマートリストの匿名フィルターが削除されました。 詳しくは、[次世代マンチキントラッキングFAQ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)のドキュメントを参照してください。 この変更は、Webパーソナライゼーション(RTP)には影響しません。Web訪問者は匿名で既知のWeb訪問者を識別し、これらの訪問者にリアルタイムでコンテンツをパーソナライズします。
 
 ## [データベースダッシュボード](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketoがサポートするブラウザーの [リストにMicrosoft Edgeを追加しました](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) 。
+Microsoft Edgeを、Marketoがサポートするブラウザー](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)の[リストに追加しました。
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -49,7 +49,7 @@ Marketoがサポートするブラウザーの [リストにMicrosoft Edgeを追
 
 ## [Mobile Marketingの機能強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGapのサポート：** モバイルアプリのオファーPhoneGapがサポートされるようになりました。 [詳細情報](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGapのサポート：モバイルアプリ** のPhoneGapのサポートをオファーしました。[詳細情報](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **Sandboxアプリのサポート**:
 
@@ -61,11 +61,11 @@ REST APIを使用して、プログラムを作成、更新およびコピーし
 
 ## [Microsoft Dynamicsの強化](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** [Sync Status](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**同期プロセスの現在のスループットとバックログのタブを維持 挿入数とオブジェクト別の更新数で分割します。
+** [同期ステータス](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):**同期プロセスの現在のスループットとバックログのタブを維持します。 挿入数とオブジェクト別の更新数で分割します。
 
 ![](assets/pending-backog-cropped.png)
 
-** [Notifications](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**:共通の同期エラーと、そのエラーを持つリードのリストを通知します。
+** [通知](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**:共通の同期エラーと、そのエラーを持つリードのリストを通知します。
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,7 +77,7 @@ REST APIを使用して、プログラムを作成、更新およびコピーし
 
 ## [Facebookリード広告](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebookリード広告](https://www.facebook.com/business/a/lead-ads) は、ビジネスがFacebook上でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。 ユーザーは製品やサービスに対する関心を表すためにフォームに入力するので、ビジネスはそれらを追跡できます。 MarketorとFacebookのリード広告の統合は、リードがリード広告フォーム内で提供する情報を自動的に取り込みます。 その後、新しい「Facebookリード広告の入力」トリガーを使用して、フォローアップアクションと通知を自動化できます。
+[Facebookのリード](https://www.facebook.com/business/a/lead-ads) 広告は、ビジネスがFacebook上でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。ユーザーは製品やサービスに対する関心を表すためにフォームに入力するので、ビジネスはそれらを追跡できます。 MarketorとFacebookのリード広告の統合は、リードがリード広告フォーム内で提供する情報を自動的に取り込みます。 その後、新しい「Facebookリード広告の入力」トリガーを使用して、フォローアップアクションと通知を自動化できます。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
