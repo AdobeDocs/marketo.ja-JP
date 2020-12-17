@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# その他のアプリ {#additional-apps}
+# 追加アプリ{#additional-apps}
 
-** ![Marketto Financial](assets/office-09.png)ManagementMarketor Financial Management** Marketto Financial Managementの予算と計画 [について説明します。 このツールは、マーケティング費用の整理に役立ちます。](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     ** ![](assets/seo-15.png)SEOSEO** [SEO最も関連性の高いキーワードが検索された場合に、最初のページに移動します。](https://docs.marketo.com/display/DOCS/SEO)     ** ![Marketo Sales InsightMarketo Sales Insight**](assets/alerts-10.png)[Marketo Sales Insightは、貴社のセールスチームに対して最高のマーケティング力を与えます。](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)
+** ![Marketo Financial Management](assets/office-09.png)Marketto Financial Management** [Marketo Financial Managementの予算と計画。 このツールは、マーケティング費用の整理に役立ちます。](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     **  ![](assets/seo-15.png)SEOSEO** [ SEO最も関連性の高いキーワードが検索された場合に、最初のページに移動します。](https://docs.marketo.com/display/DOCS/SEO)     **  ![Marketo Sales InsightMarketo Sales Insight** ](assets/alerts-10.png) [Marketo Sales Insightは、貴社のセールスチームに対して最高のマーケティング力を与えます。](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)
