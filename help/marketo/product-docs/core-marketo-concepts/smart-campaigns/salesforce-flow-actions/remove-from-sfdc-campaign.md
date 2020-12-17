@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# SFDCキャンペーンから削除 {#remove-from-sfdc-campaign}
+# SFDCキャンペーンから削除{#remove-from-sfdc-campaign}
 
 >[!NOTE]
 >
 >Salesforceと統合されている場合にのみ使用できます。
 
-## 概要 {#overview}
+## 概要{#overview}
 
-SFDCキャンペーンでSFDC [キャンペーン](add-to-sfdc-campaign.md)と [ステータス変更を行う方法と同様に](change-status-in-sfdc-campaign.md)、Salesforceキャンペーンから人やリードを削除することもできます。
+[SFDCキャンペーン](add-to-sfdc-campaign.md)と[SFDCキャンペーン](change-status-in-sfdc-campaign.md)のステータスを変更する方法と同様に、Salesforceキャンペーンから人やリードを削除することもできます。
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. フローステップをドラッグしたら、その人物またはリードを削除するSalesforceキャンペーンを見つけて選択します。
 
