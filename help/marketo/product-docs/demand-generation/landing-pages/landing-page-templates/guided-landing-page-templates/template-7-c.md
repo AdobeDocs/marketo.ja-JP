@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレート7 ～ C {#template-c}
+# テンプレート7-C {#template-c}
 
 [テンプレート7 ～ Cをダウンロード](http://docs.marketo.com/download/attachments/8783947/template-7c.html?version=1&amp;modificationdate=1437693360000&amp;api=v2)
 
