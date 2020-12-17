@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 静的リストの作成 {#create-a-static-list}
+# 静的リストの作成{#create-a-static-list}
 
 静的リストは、既にデータベースに存在するユーザーのグループです。 作り方を次に示します。
 
-1. 「 **Database**」に移動します。
+1. **Database**&#x200B;に移動します。
 
    ![](assets/db.png)
 
-1. 「 **新規** 」ドロップダウンをクリックし、「 **新規リスト**」を選択します。
+1. 「**新規**」ドロップダウンをクリックし、「**新規リスト**」を選択します。
 
    ![](assets/two.png)
 
-1. 保存先フォルダーを選択し、新しいリストーに名前を付けて、「 **作成**」をクリックします。
+1. 保存先のリストーを選択し、新しいフォルダーに名前を付けて、「**作成**」をクリックします。
 
    ![](assets/three.png)
 
-   これで、入力する空のリストが準備できました。 ユーザーを追加する方法につ [いて説明します](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)。
+   これで、入力する空のリストが準備できました。 [ここ](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)にユーザーを追加する方法を説明します。
 
    >[!NOTE]
    >
