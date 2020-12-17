@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Adobe Experience Managerでのアセットの読み込み {#importing-assets-with-adobe-experience-manager}
+# Adobe Experience Manager{#importing-assets-with-adobe-experience-manager}でのアセットの読み込み
 
 Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセットにアクセスし、選択して、Marketing Studioに読み込むことができます。 **管理者権限が必要です**。
 
@@ -23,17 +23,17 @@ Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセッ�
 
 >[!PREREQUISITES]
 >
->[AEM設定が既に実行済みであることを確認します](https://docs.marketo.com/x/FwPLAQ)。
+>[AEM設定](https://docs.marketo.com/x/FwPLAQ)を既に実行済みであることを確認してください。
 
 >[!CAUTION]
 >
 >現在、この機能はFirefoxでのみ完全にサポートされています。 Safariではサポートされていないため、SameSite Cookieの設定によっては、最新バージョンのChrome(v. 80)では動作しない場合があります。
 
-1. 「 **Design Studio**」をクリックします。
+1. 「**Design Studio**」をクリックします。
 
    ![](assets/one-1.png)
 
-1. 「新規」ドロップダウンをクリックし、「Adobe Experience Managerから **インポート**」を選択します。
+1. 「新規」ドロップダウンをクリックし、「**Adobe Experience Managerからインポート**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -45,7 +45,7 @@ Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセッ�
 
    ![](assets/four-1.png)
 
-1. フォルダーを選択します。 次に、サムネールをクリックして目的の画像を選択します（10個まで選択できます）。 終了したら **「選択** 」をクリックします。
+1. フォルダーを選択します。 次に、サムネールをクリックして目的の画像を選択します（10個まで選択できます）。 終了したら「****&#x200B;を選択」をクリックします。
 
    ![](assets/five.png)
 
@@ -53,15 +53,15 @@ Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセッ�
    >
    >画像のサイズは100 MBを超えることはできません。
 
-1. 「 **読み込み** 」をクリックしてプロセスを完了します。
+1. 「**読み込み**」をクリックして、プロセスを完了します。
 
    ![](assets/six-1.png)
 
-   それだ！ [ **閉じる** ]をクリックしてDesign Studioに戻ります。
+   それだ！ 「**閉じる**」をクリックしてDesign Studioに戻ります。
 
    ![](assets/seven-1.png)
 
-## 注意事項 {#things-to-note}
+## 注意事項{#things-to-note}
 
 Marketoは現在、Adobe Experience Managerバージョン6.4および6.5をサポートしています。
 
