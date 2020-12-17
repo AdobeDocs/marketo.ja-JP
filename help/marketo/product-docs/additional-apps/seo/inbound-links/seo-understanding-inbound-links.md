@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO — 受信リンクについて {#seo-understanding-inbound-links}
+# SEO — 着信リンクについて{#seo-understanding-inbound-links}
 
 インバウンドリンクは、サイトが参照する価値がある検索エンジンを示します。 いいぞ！
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## 列の定義 {#definition-of-columns}
+## 列の定義{#definition-of-columns}
 
 | 列タイトル | 説明 |
 |---|---|
