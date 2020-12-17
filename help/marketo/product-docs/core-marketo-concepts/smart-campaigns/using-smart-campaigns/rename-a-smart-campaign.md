@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーン名の変更 {#rename-a-smart-campaign}
+# スマートキャンペーン名の変更{#rename-a-smart-campaign}
 
 既存のスマートキャンペーンの名前を変更できます。 これが方法です。
 
