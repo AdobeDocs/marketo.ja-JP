@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ## フロー・アクションの保存
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
+1. [!UICONTROL マーケティングアクティビティ]で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
 
    ![イメージ1](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. スマートリストを設定したら、「 **[!UICONTROL フロー]**」をクリックします。
+1. スマートリストを設定したら、「**[!UICONTROL フロー]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. フィルター/トリガーの追加が完了したら、「 **[!UICONTROL スマートキャンペーンのアクション]** 」ドロップダウンをクリックし、「 **[!UICONTROL 新規フローの保存]**」を選択します。
+1. フィルター/トリガーの追加が完了したら、**[!UICONTROL スマートキャンペーンアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 新しいフローを保存]**&#x200B;を選択します。
 
    ![画像5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. フローに名前を付け、「 **[!UICONTROL 保存]**」をクリックします。
+1. フローに名前を付け、「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 保存済フロー・アクションの使用
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
+1. [!UICONTROL マーケティングアクティビティ]で、スマートキャンペーンを選択します（または新しいスマートを作成します）。
 
    ![画像7](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. 「 **[!UICONTROL フロー]**」をクリックします。
+1. 「**[!UICONTROL フロー]**」をクリックします。
 
    ![画像8](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. 「 **[!UICONTROL 保存済みのフロー]** 」ドロップダウンをクリックします。
+1. **[!UICONTROL 保存済みのフロー]**&#x200B;ドロップダウンをクリックします。
 
    ![画像9](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
