@@ -16,11 +16,11 @@ ht-degree: 0%
 
 プログラムスケジュール表示から直接新しい基本エントリを作成できます。
 
-1. ツリーでプログラムを選択し、「 **[!UICONTROL 概要」の下の「]** スケジュール **[!UICONTROL 」タブに移動します]**。
+1. ツリーでプログラムを選択し、**[!UICONTROL 概要]**&#x200B;の下の&#x200B;**[!UICONTROL スケジュール]**&#x200B;タブに移動します。
 
    ![イメージ1](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. エントリを追加する日にマウスポインターを置き、「 **[!UICONTROL 追加]**」をクリックします。
+1. エントリを追加する日にマウスポインターを置き、「**[!UICONTROL 追加]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >同様の手順に従って、日、週、または議題の表示から基本的な項目を作成することもできます。
 
-1. 新しい基本エントリの名前を入力し、必要に応じて **[!UICONTROL 「]** タイプ [!UICONTROL 」を「] 基本エントリ」に変更します。 また、参加者の作成後もカレンダー内に残りたい場合は、「 **[!UICONTROL 開始と終了日]**」を変更し **[!UICONTROL 、「予定表で]** 開く」表示のチェックを外すこともできます。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 新しい基本エントリの名前を入力し、必要に応じて&#x200B;**[!UICONTROL 「]**」を[!UICONTROL 基本エントリ]に変更します。 また、**[!UICONTROL 開始と終了日]**&#x200B;を変更し、参加者の作成後に予定表に残る場合は、**[!UICONTROL 議題表示]**&#x200B;のチェックを外すこともできます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 **関連記事**
 
-また、 [バッチスマートキャンペーン](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) 、または [電子メールプログラムをスケジュール表示から作成することもできます](/help/sky/create-an-email-program-in-program-schedule-view.md) 。
+スケジュール表示から[バッチスマートキャンペーン](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md)または[電子メールプログラム](/help/sky/create-an-email-program-in-program-schedule-view.md)を作成することもできます。
