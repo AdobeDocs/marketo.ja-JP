@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# マーケティングカレンダーでのエントリの直接削除 {#delete-entries-directly-in-the-marketing-calendar}
+# マーケティングカレンダーでエントリを直接削除{#delete-entries-directly-in-the-marketing-calendar}
 
-エントリの [作成](create-entries-directly-in-the-marketing-calendar.md) や [編集に加えて](edit-entries-directly-in-the-marketing-calendar.md) 、マーケティングカレンダーでエントリを直接削除できます。 これが方法です。
+[](create-entries-directly-in-the-marketing-calendar.md)エントリを作成し[エントリを編集](edit-entries-directly-in-the-marketing-calendar.md)する以外に、マーケティングカレンダーで直接削除できます。 これが方法です。
 
-1. [ **カレンダー**]に移動します。
+1. **カレンダー**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. 削除するエントリを選択し、「プログラムフォーカスを **表示**」をクリックします。
+1. 削除するエントリを選択し、「**プログラムフォーカスを表示**」をクリックします。
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
