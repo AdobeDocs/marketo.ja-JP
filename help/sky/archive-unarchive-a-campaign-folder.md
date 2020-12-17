@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## アーカイブフォルダーに変換
 
-任意のフォルダーを右クリックし、「Convert To Archive Folder ****」を選択します。
+任意のフォルダーを右クリックし、「**[!UICONTROL アーカイブフォルダーに変換]**」を選択します。
 
 ![イメージ1](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >フォルダ。
 >* フォルダー内のアセットが自動提案に表示されなくなりました。
 >* アーカイブ済みのテンプレートは、電子メールの作成時には使用できません
-   >または [!UICONTROL Design Studioのランディングページ]。
+   >または[!UICONTROL Design Studio]のランディングページ。
 >* アーカイブ済みページは、ランディングページテストグループでは使用できません。
 
 >
