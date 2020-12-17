@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoftでタスクを作成する {#create-task-in-microsoft}
+# Microsoft {#create-task-in-microsoft}でタスクを作成
 
 マーケティング担当者は、掘り出し物の成約を支援する情報を持っています。 タスクを作成して、何をすべきか、いつやるべきかを知らせることができます。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このフロー手順は、スマートキャンペーンでトリガーと共に使用した **場合にの**&#x200B;み機能します。フィルターと共に使用する場合は機能しません。
+>このフローステップは、スマートキャンペーンで&#x200B;**トリガー**&#x200B;を使う場合にのみ機能します。フィルターではありません。
 
 デフォルトでは、フローステップは次のようになります。   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Subject `{{lead.tokens}}``{{company.tokens}}`and `{{campaign.tokens}}` Descriptionで、、、、および `{{system.tokens}}`********&#x200B;を使用できます。 詳細は、「フロー手順の [トークン](http://docs.marketo.com/x/c4AR) 」を参照してください。
+>**件名**&#x200B;と&#x200B;**説明**&#x200B;には、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}`を使用できます。 詳しくは、[フローステップのトークン](http://docs.marketo.com/x/c4AR)を参照してください。
 
