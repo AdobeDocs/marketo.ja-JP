@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 「追跡しない」ブラウザーサポート設定の編集 {#edit-do-not-track-browser-support-settings}
+# 「追跡しない」ブラウザーサポート設定の編集{#edit-do-not-track-browser-support-settings}
 
 「追跡しない」は、Marketoなどのシステムで追跡されないブラウザーリクエストです。 次の手順に従って、そのリクエストを受け入れることができます。
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. [ **マンチキン**]をクリックします。
+1. [**マンチキン**]をクリックします。
 
    ![](assets/two.png)
 
-1. 「 **個人追跡**」で、「 **編集**」をクリックします。
+1. 「**人物追跡**」で、「**編集**」をクリックします。
 
    ![](assets/three-2.png)
 
-1. 「 **Support** 」を選択し、「 **保存**」をクリックします。
+1. 「**サポート**」を選択し、「**保存**」をクリックします。
 1. ![](assets/four-1.png)
 
    変更を保存すると、更新が表示されます。
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >「追跡しない」とその仕組みについて詳しくは、 [このページを参照してください](https://en.wikipedia.org/wiki/Do_Not_Track)。
+   >「追跡しない」とその仕組みについて詳しくは、[このページ](https://en.wikipedia.org/wiki/Do_Not_Track)を参照してください。
 
