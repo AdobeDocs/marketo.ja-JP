@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ストリームの削除 {#delete-a-stream}
+# ストリームの削除{#delete-a-stream}
 
 エンゲージメントプログラムからストリームを削除する必要が生じた場合は、次の手順に従って、簡単に操作できます。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. 「 **削除**」をクリックして、削除を確定します。
+1. 「**削除**」をクリックして、削除を確定します。
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >ストリームに人が含まれている場合は、まず [移動するように求められます](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) 。
+   >ストリームに人が含まれている場合は、まず[](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)人を外に出すよう求められます。
 
