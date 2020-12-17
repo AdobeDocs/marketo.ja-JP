@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# アクティビティの同期のカスタマイズ {#customize-activities-sync}
+# アクティビティ同期のカスタマイズ{#customize-activities-sync}
 
-Sales Insightを使用しない場合は、 [](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)Marketorは特定のイベントに対してSalesforceアクティビティ履歴レコードを作成できます。 有効にする方法を次に示します。
+[販売インサイト](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)を使用しない場合、Marketorは特定のイベントに対してSalesforceアクティビティ履歴レコードを作成できます。 有効にする方法を次に示します。
 
 1. **Adminに移動します。 **
 
    ![](assets/admin.png)
 
-1. 「 **Salesforce**」をクリックし、「 **同期オプションの編集**」をクリックします。
+1. 「**Salesforce**」をクリックし、「**同期オプションを編集**」をクリックします。
 
    ![](assets/two-1.png)
 
-1. Salesforceにプッシュするアクティビティの横のチェックボックスをオンにし、「 **保存**」をクリックします。
+1. MarketがSalesforceにプッシュするアクティビティの横のチェックボックスをオンにし、「**保存**」をクリックします。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >有効になると、Marketoは3か月分のアクティビティ履歴をプッシュします。 データ量によっては、完了までに数日かか *る場合があります*。 最初のアクティビティのプッシュ中に発生する更新は、最初のアクティビティの同期が完了するまで遅延する可能性があります。
+   >有効になると、Marketoは3か月分のアクティビティ履歴をプッシュします。 データの量によっては、**&#x200B;を完了するのに数日かかる場合があります。 最初のアクティビティのプッシュ中に発生する更新は、最初のアクティビティの同期が完了するまで遅延する可能性があります。
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ Sales Insightを使用しない場合は、 [](http://docs.marketo.com/display/D
 >**Reminder**
 >
 >
->「受信した販売の電子メール」が配信され **たとは限りません** 。 Sales Insight経由で送信された電子メールの配信ステータスはキャプチャされません。
+>&quot;受信した販売の電子メール&quot;が&#x200B;**配信されない**。 Sales Insight経由で送信された電子メールの配信ステータスはキャプチャされません。
 
 >[!TIP]
 >
->Salesforceに対するより多くのマーケティング情報の取り込みに関心がある場合は、 [Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 製品をご覧ください。
+>Salesforceに対するより多くのマーケティング情報の取り込みに関心がある場合は、弊社の[Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)製品をご覧ください。
 
