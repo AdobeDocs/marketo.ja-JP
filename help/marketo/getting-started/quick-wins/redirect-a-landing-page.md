@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# ランディングページのリダイレクト {#redirect-a-landing-page}
+# ランディングページをリダイレクト{#redirect-a-landing-page}
 
-## ミッション：ランディングページを別のWebページにリダイレクトする {#mission-redirect-a-landing-page-to-a-different-web-page}
+## ミッション：ランディングページを別のWebページにリダイレクトする{#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
@@ -26,39 +26,39 @@ ht-degree: 0%
 >* [CNAMEを使用したランディングページURLのカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
-## 手順1:新しいリダイレクトルールの開始 {#step-start-a-new-redirect-rule}
+## 手順1:新しいリダイレクト規則の開始{#step-start-a-new-redirect-rule}
 
-1. 「 **管理者** 」領域に移動します。
+1. **管理者**&#x200B;領域に移動します。
 
    ![](assets/admin.png)
 
-1. 「 **ランディングページ**」に移動。
+1. **ランディングページ**&#x200B;に移動します。
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
-1. 「 **ルール** 」タブをクリックし、「 **新規** 」および「 **新規リダイレクトルール**」をクリックします。
+1. 「**ルール**」タブをクリックし、「**新しい**」および「**新しいリダイレクトルール**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a28-3a59.png)
 
-## 手順2:リダイレクトルールの定義 {#step-define-the-redirect-rule}
+## 手順2:リダイレクト規則の定義{#step-define-the-redirect-rule}
 
-1. 最初の「 **オリジナルURL** 」ドロップダウンをクリックし、マーケティング担当者のCNAMEを選択します。
+1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、マーケティング担当者のCNAMEを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >リダイレクトできるのは、Marketto [CNAMEとの開始をランディングページにリダイレクトすることだけです](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)。
+   >忘れずに、マーケティング先[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始をランディングページにリダイレクトすることはできません。
 
-1. 2つ目の「 **オリジナルURL** 」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
+1. 2つ目の&#x200B;**「元のURL**」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. 「 **リダイレクトURL** 」で、リダイレクト先のページを選択し、「 **作成**」をクリックします。
+1. **リダイレクトURL**&#x200B;に対して、リダイレクト先のページを選択し、「**作成**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
-## ミッション完了 {#mission-complete}
+## ミッション完了{#mission-complete}
 
 おめでとう！ ランディングページのリダイレクトに成功しました。
 
