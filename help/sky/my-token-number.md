@@ -16,10 +16,10 @@ ht-degree: 0%
 
 プログラムーおよびキャンペーンフォルダーで使用するNumberトークンの設定方法を次に示します。
 
-1. プログラムーまたはフォルダーの [!UICONTROL 「マイトークン] 」タブで、「 **数値トークン** 」キャンバスに「 [!UICONTROL ローカルトークン] 」キャンバスをドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**Number**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. 新しいトークンの名前と番号を入力します。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 新しいトークンの名前と番号を入力します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
