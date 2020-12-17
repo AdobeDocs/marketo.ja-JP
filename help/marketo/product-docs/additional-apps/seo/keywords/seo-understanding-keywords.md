@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO — キーワードについて {#seo-understanding-keywords}
+# SEO — キーワードについて{#seo-understanding-keywords}
 
 キーワードはSEO戦略の中心です。 目標は、ビジネスに関連するキーワードのできる限り#1に近い最初のページにあることです。
 
-キーワードのセクションには、サイトがどの程度成功を収めているか、および競合相手にどのように積み重ねているかが示 [されます。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+キーワードのセクションでは、サイトがどの程度成功しているか、および[競争相手をどのように積み重ねているかを示します。](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
-## キーワード — 概要表示 {#keywords-summary-view}
+## キーワード — 概要表示{#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ランクとトレンド</td> 
-   <td colspan="1" rowspan="1"><p>このキーワードのサイトのランク。 矢印は、キーワードランクが先週の傾向を示します。 </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  =ランクアップ</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> =ランクダウン</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">=ランクは同じ</p></td> 
+   <td colspan="1" rowspan="1"><p>このキーワードのサイトのランク。 矢印は、キーワードランクが先週の傾向を示します。 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  =ランクアップ</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> =ランクダウン</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">=ランクは同じ</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">競合レベル</td> 
@@ -52,7 +52,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## キーワード —競合他社表示 {#keywords-competitor-view}
+## キーワード —競合他社表示{#keywords-competitor-view}
 
 「表示」ドロップダウンをクリックし、「競合他社」を選択すると、同じ指標を使用して競合他社のパフォーマンスを表示できます。
 
