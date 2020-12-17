@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# WebサイトにSocialを導入する {#deploy-social-on-your-website}
+# SocialをWebサイトに導入する{#deploy-social-on-your-website}
 
 ソーシャルアプリをマーケティング先以外のページに埋め込みます。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 「 **埋め込み** コード ****** **」を「Socialアプリのアクション」から選択します。
+1. 「**埋め込み** **コード**** **」をソーシャルアプリのアクションから選択します。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. ソーシャルアプリのサイズをページ上の特定のサイズに設定する必要がある場合は、2番目のコードスニペットに **outerHeight** および **outerWidth** オプションを追加します。 例えば、次のようにoptions=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;を追加できます。
+1. ソーシャルアプリのサイズをページ上の特定のサイズに設定する必要がある場合は、2番目のコードスニペットに&#x200B;**outerHeight**&#x200B;および&#x200B;**outerWidth**&#x200B;オプションを追加します。 例えば、次のようにoptions=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;を追加できます。
 
    ![](assets/socialonsite-resizewidget2.png)
 
