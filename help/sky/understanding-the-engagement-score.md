@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-エンゲージメントスコアを使用すると、エンゲージメントプログラム内のコンテンツの効果を簡単に確認できます。 スコアは0 ～ 100です。 エンゲージメ [ントダッシュボードを調べて](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) 、コンテンツのパフォーマンスを追跡する方法を確認します。
+エンゲージメントスコアを使用すると、エンゲージメントプログラム内のコンテンツの効果を簡単に確認できます。 スコアは0 ～ 100です。 [エンゲージメントダッシュボード](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard)を調べて、コンテンツのパフォーマンスを追跡する方法を確認します。
 
 ![イメージ1](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
