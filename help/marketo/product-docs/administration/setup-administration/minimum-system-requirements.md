@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 必要システム構成 {#minimum-system-requirements}
+# 最小システム要件{#minimum-system-requirements}
 
 ログインしてMarketoを使用する必要があるものについて疑問が生じた場合は、次の情報をご覧ください。
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 * Windows、OS X、またはLinuxを実行するコンピューターまたはラップトップ
 * キーボードとマウス
 * 最低解像度1280 x 768のモニタ
-* 最新のブラウザーについて詳しくは、「 [サポートされるブラウザー](supported-browsers.md) 」を参照してください。
+* 最新のブラウザーについて詳しくは、[サポートされているブラウザー](supported-browsers.md)を参照してください
 * インターネット接続
 
