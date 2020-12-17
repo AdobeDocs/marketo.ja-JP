@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# キーボードショートカットの用語集 {#keyboard-shortcuts-glossary}
+# キーボードショートカット用語集{#keyboard-shortcuts-glossary}
 
 キーボードショートカットの担当者ですか。 お前を守れ！
 
-## エリアナビゲーション： {#area-navigation}
+## エリアナビゲーション：{#area-navigation}
 
 | キーボードショートカット | 領域 |
 |---|---|
@@ -29,7 +29,7 @@ ht-degree: 0%
 | Opt + O | マイマーケット |
 | Alt/Opt + S | ドロップダウンスーパーボールメニュー |
 
-## カレンダー/スケジュール表示のナビゲーション：  {#calendar-schedule-view-navigation}
+## カレンダー/スケジュール表示のナビゲーション： {#calendar-schedule-view-navigation}
 
 | キーボードショートカット | アクション |
 |---|---|
@@ -37,7 +37,7 @@ ht-degree: 0%
 | Alt/Opt +下向き矢印 | 前に進む |
 | Alt/Opt + T | 「今日」に移動 |
 
-## その他： {#miscellaneous}
+## その他：{#miscellaneous}
 
 | キーボードショートカット | アクション |
 |---|---|
