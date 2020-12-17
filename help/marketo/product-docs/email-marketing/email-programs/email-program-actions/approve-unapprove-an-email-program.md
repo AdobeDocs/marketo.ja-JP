@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# 電子メールプログラムの承認/未承認 {#approve-unapprove-an-email-program}
+# 電子メールプログラムの承認/未承認{#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [スマートリストを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 、またはリストのインポートによるオーディエンスの [定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [リストのインポートによる](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) オーディエンスの [定義によるスマートリスタを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [「既存の電子メールの選択](choose-an-existing-email.md) 」または「電子メールプログラム用の電子メールの [作成」](create-an-email-for-an-email-program.md)
+* [既存の電子メ](choose-an-existing-email.md) ールの選択または電子メールプログラム用の電子メールの [作成](create-an-email-for-an-email-program.md)
    >
    >
 * [電子メールプログラムのスケジュール](schedule-your-email-program.md)
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 
 
-## 電子メールプログラムの承認 {#approve-your-email-program}
+## 電子メールプログラムの承認{#approve-your-email-program}
 
 プログラムの準備が整ったら、最後の手順はを承認することです。 方法を次に示します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >電子メールプログラムを承認しない場合、電子メールは送信されません。
 
-1. 「 **承認** 」タイルの下で、「 **プログラムの**&#x200B;承認」をクリックします。
+1. **承認**&#x200B;タイルの下で、**承認プログラム**&#x200B;をクリックします。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## 電子メールプログラムの未承認 {#unapprove-your-email-program}
+## 電子メールプログラム{#unapprove-your-email-program}を未承認にします
 
 変更した後で、送信しないように決めた場合は、電子メールプログラムの承認を取り消すことができます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 「 **承認** 」タイルの下で、「 **未承認プログラム**」をクリックします。
+1. **承認**&#x200B;タイルの下で、**未承認プログラム**&#x200B;をクリックします。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
