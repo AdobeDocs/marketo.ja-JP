@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 「エンゲージメントプログラムのメンバー」を参照 {#see-members-of-an-engagement-program}
+# 「エンゲージメントプログラムのメンバー」を参照{#see-members-of-an-engagement-program}
 
 エンゲージメントプログラムのメンバーをすばやく表示できます。 これが方法です。
 
-1. エンゲージメントプログラムで右クリックし、「 **表示メンバー」を選択します。**
+1. エンゲージメントプログラムから右クリックし、「**表示メンバー」を選択します。**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >「 [使い果たされたコンテンツ](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) 」列の値は、キャストのたびに更新されます。
+   >キャストのたびに、[使い果たされたコンテンツ](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)列の値が更新されます。
 
 1. これで、プログラムのすべてのメンバーを表示できます。
 
