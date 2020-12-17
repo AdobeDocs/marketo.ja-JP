@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# フォルダを使用した画像とファイルの整理 {#organize-your-images-and-files-using-folders}
+# フォルダーを使用して画像とファイルを整理する{#organize-your-images-and-files-using-folders}
 
 フォルダを作成すると、画像やファイルを移動したり、必要な画像のセットのみを表示したり、特定のフォルダに直接アップロードしたりできます。
 
-1. 「 **Design** Studio ****」に移動します。
+1. **デザイン** **スタジオ**&#x200B;に移動します。
 
    ![](assets/designstudio-7.png)
 
-1. 左のメニューで「** Images and Files**」を右クリックし、「 **New Folder**」を選択します。
+1. 左のメニューで「** Images and Files**」を右クリックし、「**New Folder**」を選択します。
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. 「 **画像とファイル**」に移動し、目的のフォルダーにドラッグ&amp;ドロップできるようになりました。
+1. 「**画像とファイル**」に移動します。これで、目的のフォルダーにドラッグ&amp;ドロップできます。
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
