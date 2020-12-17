@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# フ追加ォームへのリッチテキスト {#add-rich-text-to-a-form}
+# フ追加ォーム{#add-rich-text-to-a-form}へのリッチテキスト
 
 フォームのリッチテキストを使用して、フィールド間に手順やその他の情報を追加します。 見て。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. +記 **号をクリック** します。
+1. **+**&#x200B;記号をクリックします。
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. 「 **リッチテキスト**」を選択します。
+1. 「**リッチテキスト**」を選択します。
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
    >
    >フォームに区切り線が必要な場合は、「水平線」ボタンを使用します。
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. 「 **完了**」をクリックします。
+1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. 「 **承認して閉じる**」をクリックします。
+1. 「**承認して**&#x200B;を閉じる」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -59,6 +59,6 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->フ [ォームの詳細](http://docs.marketo.com/display/docs/forms)。
+>[フォーム](http://docs.marketo.com/display/docs/forms)の詳細を表示します。
 
-リッチテキストブロックにも表示ルールを [追加できることをご存じでしたか](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) ?
+リッチテキストブロックに[表示ルール](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)を追加することもできるのをご存じでしたか？
