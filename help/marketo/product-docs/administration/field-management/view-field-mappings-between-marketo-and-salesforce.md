@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# MarketoとSalesforceの間の表示フィールドマッピング {#view-field-mappings-between-marketo-and-salesforce}
+# MarketoとSalesforce {#view-field-mappings-between-marketo-and-salesforce}の間の表示フィールドマッピング
 
 特定のMarketoフィールドがどのSalesforceフィールドに結び付けられているかを知りたい場合があります。 これを達成する方法を次に示します。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-1. 「 **管理者** 」に移動し、「 **フィールド管理**」をクリックします。
+1. **管理者**&#x200B;に移動し、**フィールド管理**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. 表示したいフィールドを探し、[ **+]をクリックしてマッピング** を展開します。
+1. 目的のフィールドを探し、**+**&#x200B;をクリックしてマッピングを展開します。
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
