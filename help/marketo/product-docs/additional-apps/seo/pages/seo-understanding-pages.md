@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SEO — ページについて {#seo-understanding-pages}
+# SEO — ページについて{#seo-understanding-pages}
 
-## ページ最適化スコア/TODOウィジェット {#page-optimization-score-to-do-widget}
+## ページ最適化スコア/To Doウィジェット{#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >「To Do」ボックスの「High Impact」リンクをクリックすると、「Issues」タブにリダイレクトされ、解決すべき優先度の高い問題が表示されます。
 
-## 「ページ」タブ {#pages-tab}
+## ページタブ{#pages-tab}
 
 [ページ]タブは、サイトの個々のページが検索用にどれだけ最適化されているかを示します。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 | リンク | サイトへのインバウンドリンクが1つ以上ある異なるドメインの数。 |
 | ターゲットキーワード | 各ページの最適化対象となるキーワード。 [入力が必要です](seo-using-the-page-detail-drill-down.md)。 |
 
-## 「問題」タブ {#issues-tab}
+## 問題タブ{#issues-tab}
 
 「問題」タブでは、最適化スコアとランキングを高めるために可能な改善点を特定します。
 
