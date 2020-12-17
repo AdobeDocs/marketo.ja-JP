@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# リードの所有者への電子メール通知を無効にする {#turn-off-email-notifications-to-lead-owner}
+# リードの所有者への電子メール通知を無効にする{#turn-off-email-notifications-to-lead-owner}
 
 リードの割り当て時にSalesforceのリード所有者に送信される自動電子メール通知を無効にできます。 これが方法です。
 
-1. 「 **管理者**」に移動します。
+1. **管理者**&#x200B;に移動します。
 
    ![](assets/admin-1.png)
 
-1. 「 **Salesforce**」をクリックします。
+1. **Salesforce**&#x200B;をクリックします。
 
    ![](assets/adminsalesforce.png)
 
-1. 「 **同期オプション**」で、「 **編集**」をクリックします。
+1. 「**同期オプション**」で、「**編集**」をクリックします。
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 「 **Send email notification to owner in Salesforce of lead assignment** 」ボックスのチェックを外します。 「 **保存**」をクリックします。
+1. **Salesforceの「Send email notification to owner in Salesforce of lead assignment**」ボックスのチェックを外します。 「**保存**」をクリックします。
 
    ![](assets/new-screen.png)
 
