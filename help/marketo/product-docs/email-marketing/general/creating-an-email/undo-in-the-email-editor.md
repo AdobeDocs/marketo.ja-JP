@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メールエディターで元に戻す {#undo-in-the-email-editor}
+# 電子メールエディタで元に戻す{#undo-in-the-email-editor}
 
 1. 変更を元に戻すには、左向き矢印をクリックします。
 
