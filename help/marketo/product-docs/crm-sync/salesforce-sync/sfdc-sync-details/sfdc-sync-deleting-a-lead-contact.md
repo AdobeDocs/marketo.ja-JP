@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：リード/担当者の削除 {#sfdc-sync-deleting-a-lead-contact}
+# SFDC同期：リード/連絡先の削除{#sfdc-sync-deleting-a-lead-contact}
 
 以下に、詳細を示します。
 
 * Salesforceでリードが削除されたので、Marketorはユーザーを自動的に削除しません。 「SFDC Is Deleted」フラグがtrueに設定されている場合は、 必要に応じて、Marketorでこのフィールドをトリガーして削除できます。
-* [「個人](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) 」フロー・アクションの削除。 MKTO内の人物は削除されますが、削除する選択もでき `Salesforce` ます。
+* [「](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md) パーソンフローの削除」アクション。MKTO内の人物を削除しますが、`Salesforce`内でも削除する選択肢があります。
 
-* [SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) Flow Action:これによりSFDCのリードは削除されますが、マーケティング担当者を削除することもできます。
-* Salesforceでリードが削除された（ただし、その人がMarketorで削除されなかった）場合、その後、Salesforceと [同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) フローアクションを実行すると、Salesforceで新しいリードが作成されます。
+* [SFDCflowから削除](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md) アクション：これによりSFDCのリードは削除されますが、マーケティング担当者を削除することもできます。
+* リードがSalesforceで削除された（ただし、Marketoでは削除されなかった）場合、その後[Salesforceと同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)のフロー操作を実行すると、Salesforceで新しいリードが作成されます。
 
 つまり魔法のように動く！
 
-![--](assets/image2015-5-20-15-3a3-3a27.png)
+![—](assets/image2015-5-20-15-3a3-3a27.png)
 
