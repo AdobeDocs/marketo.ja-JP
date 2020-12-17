@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# デフォルトのブランドドメインの編集 {#edit-your-default-branding-domain}
+# デフォルトのブランドドメインの編集{#edit-your-default-branding-domain}
 
 ブランドドメインを操作する際は、最初にデフォルトのブランドドメインを編集します。
 
 >[!PREREQUISITES]
 >
->Marketoにブランディングドメインを追加する前に、DNS [](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) にCNAMEが設定されていることを確認してください。
+>Marketoにブランディングドメインを追加する前に、DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md)で[CNAMEを設定していることを確認してください。
 
-1. 「 **管理者** 」に移動し、「 **電子メール**」をクリックします。
+1. **管理者**&#x200B;に移動し、**電子メール**&#x200B;をクリックします。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
    ![](assets/edit-branding-domain-hands.png)e
 
-これで、必要なブランディングドメインを [追加でき](add-an-additional-branding-domain.md) ます。
+これで、[必要な追加のブランドドメイン](add-an-additional-branding-domain.md)を追加できます。
 
