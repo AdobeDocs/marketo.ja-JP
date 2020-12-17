@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO — キーワード表示から列を追加削除 {#seo-add-remove-columns-from-your-keywords-view}
+# SEO -追加/キーワード表示から列を削除{#seo-add-remove-columns-from-your-keywords-view}
 
 キーワードの表示を調整して、最も関心のあるデータを表示できます。
 
-1. 「 **キーワード** 」セクションに移動します。
+1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 表示する列を選択または選択解除します。 「 **保存**」をクリックします。
+1. 表示する列を選択または選択解除します。 「**保存**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
