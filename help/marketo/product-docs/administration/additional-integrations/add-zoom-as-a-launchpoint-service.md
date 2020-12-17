@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LaunchPointサー追加ビスとしてズーム {#add-zoom-as-a-launchpoint-service}
+# LaunchPointサービス追加としてズーム{#add-zoom-as-a-launchpoint-service}
 
 マーケティング担当者がズームの登録と出欠を管理します。
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >この手順では、ズームおよび管理権限に対する既存の購読が必要です。 手元のズームにサインインする際に使用する電子メールとパスワードを入手します。
 
-1. 「 **管理者** 」領域に移動し、「 **LaunchPoint**」をクリックします。
+1. 「**管理者**」領域に移動し、「**起動ポイント**」をクリックします。
 
    ![](assets/launchpoint.png)
 
-1. 「**新規**」ドロップダウンをクリックし、「 **新規サービス**」を選択します。
+1. 「**New **」ドロップダウンをクリックし、「**New Service**」を選択します。
 
    ![](assets/newservicelp.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
    ![](assets/newservice-1.png)
 
-1. 「 **Log Into Zoom**」をクリックします。
+1. 「**ズーム**&#x200B;にログイン」をクリックします。
 
    ![](assets/login.png)
 
-1. ズームログインウィンドウで、ズーム資格情報を入力し、「 **サインイン**」をクリックします。
+1. ズームログインウィンドウで、ズーム資格情報を入力し、**サインイン**&#x200B;をクリックします。
 
    ![](assets/zoomlogin.png)
 
-1. ウィンドウが閉じたら、「 **作成**」をクリックします。
+1. ウィンドウが閉じたら、「**作成**」をクリックします。
 
    ![](assets/create-1.png)
 
@@ -57,5 +57,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->ズームを使用してイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)。
+>[ズーム](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)でイベントを作成する方法を説明します。
 
