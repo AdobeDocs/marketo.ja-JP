@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # ストリームコンテンツのアーカイブとアーカイブ解除
 
-ストリーム内のコンテンツの一部を使用したくない場合は、そのコンテンツを [削除するか](/help/sky/remove-stream-content.md) 、アーカイブします。
+ストリーム内のコンテンツの一部を使用したくない場合は、[削除](/help/sky/remove-stream-content.md)するか、アーカイブします。
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします
+1. 「**[!UICONTROL Streams]**」タブをクリックします
 
    ![イメージ2](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. 「 **[!UICONTROL Archive]**」を選択します。
+1. 「**[!UICONTROL アーカイブ]**」を選択します。
 
    ![画像4](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![画像5](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![画像6](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. ストリームの歯車アイコンをクリックし、「アーカイブ済みのコンテンツを **[!UICONTROL 表示]**」をクリックします。
+1. ストリームの歯車アイコンをクリックし、「**[!UICONTROL アーカイブ済みコンテンツを表示]**」をクリックします。
 
    ![画像7](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![画像8](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. 「 **[!UICONTROL アーカイブ解除]**」を選択します。
+1. 「**[!UICONTROL アーカイブ解除]**」を選択します。
 
    ![画像9](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
