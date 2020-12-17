@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-カレン [!UICONTROL ダーファイル] トークンを使用すると、カレンダーイベント(.ics)リンクをMarketorの電子メールやランディングページに追加できます。 プログラムとキャンペーンフォルダで使用するフォルダを設定する方法を次に示します。
+[!UICONTROL カレンダーファイル]トークンを使用すると、Marketorの電子メールやランディングページにカレンダーイベント(.ics)リンクを追加できます。 プログラムとキャンペーンフォルダで使用するフォルダを設定する方法を次に示します。
 
-1. プログラムーまたはフォルダーの「 [!UICONTROL マイトークン] 」タブで、 **[!UICONTROL カレンダーファイルトークンを「ロー]** カルトークン  」キャンバスにドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**[!UICONTROL 予定表ファイル]**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. 関連するリンクを入力し、イベントリマインダーを送信するタイミングを選択します。 オプションで説明を入力することもできます。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 関連するリンクを入力し、イベントリマインダーを送信するタイミングを選択します。 オプションで説明を入力することもできます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像4](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
