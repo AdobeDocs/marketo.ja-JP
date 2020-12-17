@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フ追加リーフォームランディングページへのソーシャルボタン {#add-a-social-button-to-a-free-form-landing-page}
+# フリ追加ーフォームランディングページへのソーシャルボタン{#add-a-social-button-to-a-free-form-landing-page}
 
 ソーシャルボタンを使用すると、ユーザーはコンテンツを友達と共有できます。 これをフリーフォームランディングページ、Facebook、Webサイトにドロップします。
 
@@ -21,40 +21,40 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. 自由形式のランディングページに移動し、「ドラフトを **編集**」をクリックします。
+1. 自由形式のランディングページに移動し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/scoring.jpg)
 
-1. 右側の要素から **Social****ボタン** (Button)をドラッグします。
+1. 右側の要素から&#x200B;**Social** **Button**&#x200B;をドラッグします。
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. 「 **ソーシャルボタン（Analyticsで）」を選択します。**
+1. 「**ソーシャルボタン（Analyticsを含む）」を選択します。**
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   ランディングページがアクティブになると、 [Socialダッシュボード上のソーシャルボタン（Analyticsを使用）によって生成されたアクティビティを確認できます](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)。
+   ランディングページがアクティブになったら、[Socialダッシュボード](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)上のSocialボタン（Analyticsを使用）によって生成されたアクティビティを確認します。
 
-   代わりに「いいね！」/「おすすめ」ボタン(Lite)を追加する場合は、 [ランディングページのパフォーマンスレポートで共有数を確認します](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)。
+   代わりに「いいね！」/「おすすめ」ボタン(Lite)を追加する場合は、[ランディングページのパフォーマンスレポート](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
 
-1. ドロップダウンメニューから **「新規作成** 」を選択します。
+1. ドロップダウンメニューから[**新規作成**]を選択します。
 
    >[!NOTE]
    >
-   >また、 **新規** / **新規ローカルアセットを選択して、プログラム内にソーシャルボタンを作成することもできます。**
+   >**新規**/**新しいローカルアセットを選択して、プログラム内にソーシャルボタンを作成することもできます。**
 
-1. ソーシャルボタンに名前を付け、「 **コピー元** 」から「なし **」を選択して** 、「 **挿入」をクリックします。**
+1. ソーシャルボタンに名前を付け、**コピー元**&#x200B;から「**なし**」を選択し、「**挿入」をクリックします。**
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >時間を節約するために、「 **コピー元****** 」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
+   >時間を節約するために、「**コピー** **元**」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
 
-   [ランディングページをFacebookに投稿し](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 、Webサイトに「ソーシャル」ボタンを [置く](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [ランディングページをFacebookに投稿し、Webサイトの「](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [ソーシャル」ボタンを](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
 おめでとう！ ランディングページにソーシャルボタンが追加されました。 必ずランディングページを承認してください。
 
 >[!MORELIKETHIS]
 >
->完了ですが、必要に応じてソーシャルボタンの設定を変更できます。 ボタンスタイルの [カスタマイズ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 、または表示される共有メッセージの [編集に関する開始](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 。
+>完了ですが、必要に応じてソーシャルボタンの設定を変更できます。 [表示する共有メッセージ](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)を編集するボタンスタイル](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)または[をカスタマイズする開始。
