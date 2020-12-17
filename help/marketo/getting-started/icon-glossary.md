@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# アイコンの用語集 {#icon-glossary}
+# アイコンの用語集{#icon-glossary}
 
 **一般的なアイコン**
 
@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>フォルダ</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">別のワークスペースと共有したソースフォルダー</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">別のワークスペースから共有された宛先フォルダー <br>（パドロックは編集できないことを示します）</td> 
+   <td colspan="1">別のワークスペース<br>から共有された宛先フォルダー（padlockは編集できないことを示します）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">トリガー</td> 
   </tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 管理アイコン {#admin-icons}
+## 管理アイコン{#admin-icons}
 
 <table> 
  <tbody> 
@@ -312,7 +312,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### マーケティングアクティビティのアイコン {#marketing-activities-icons}
+### マーケティングアクティビティのアイコン{#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>電子メールプログラム <br>（赤いフラグダウン=電子メールがまだ送信されていない）</td> 
+   <td>電子メールプログラム<br>（赤いフラグダウン=電子メールがまだ送信されていません）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">ヘッド開始でスケジュールされた電子メールプログラム</td> 
   </tr> 
@@ -680,7 +680,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Design Studioアイコン {#design-studio-icons}
+### Design Studioアイコン{#design-studio-icons}
 
 <table> 
  <tbody> 
@@ -866,7 +866,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Analyticsアイコン {#analytics-icons}
+### Analyticsアイコン{#analytics-icons}
 
 <table> 
  <tbody> 
@@ -975,7 +975,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### マイトークンアイコン {#my-tokens-icons}
+### マイトークンアイコン{#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -1042,7 +1042,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### キャンペーンメニュー {#campaign-menus}
+### キャンペーンメニュー{#campaign-menus}
 
 <table> 
  <tbody> 
@@ -1116,7 +1116,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### データベースアイコン {#database-icons}
+### データベースアイコン{#database-icons}
 
 <table> 
  <tbody> 
