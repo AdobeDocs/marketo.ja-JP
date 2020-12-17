@@ -16,7 +16,7 @@ ht-degree: 0%
 
 トリガーを追加して、実イベントに基づいて、一度に1人の人に対してスマートキャンペーンを実行できます。
 
-1. スマートキャンペーンを選択し、「 **[!UICONTROL スマートリスト]**」をクリックします。
+1. スマートキャンペーンを選択し、[**[!UICONTROL スマートリスト]**]をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >トリガーを持つスマートキャンペーンは、トリガーモードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
 
-1. ドロップダウンをクリックし、演算子( **[!UICONTROL is]**、 **[!UICONTROL is not]**、など)を選択します。 選択したトリガーに対して。
+1. ドロップダウンをクリックし、演算子(**[!UICONTROL is]**、**[!UICONTROL is not]**&#x200B;など)。 選択したトリガーに対して。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 >
 >複数のトリガーを使用する場合、いずれかのトリガーがアクティブ化されると、個人がフローを通過します。
 >
->一連のユーザーに対してキャンペーンを同時に実行するには、スマートキャンペーン用のスマートリストを [定義する方法を学びます。 |バッチ](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch)。
+>一連のユーザーに対してキャンペーンを同時に実行するには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |バッチ](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch)。
