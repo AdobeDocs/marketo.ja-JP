@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,21 +28,21 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. [ **[!UICONTROL 編集] [可用性]**]を選択します。
+1. [**[!UICONTROL 可用性の編集]**]を選択します。
 
    ![画像4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. 「 [!UICONTROL アクティブ：自] 」の日付と「アクティブ：至 [!UICONTROL 」の] 日付を選択します。
+1. [!UICONTROL アクティブな開始日]と[!UICONTROL アクティブな日付]を選択します。
 
    ![画像5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. 「 **[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像6](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
 >[!TIP]
 >
->「 [!UICONTROL アクティブスルー] 」を空白のままにしておくと、コンテンツを永続的に利用できます。
+>「[!UICONTROL アクティブ —]」を空白のままにして、コンテンツを永久に利用できるようにします。
 
 完璧！ スケジュールされたコンテンツの横に時計のアイコンが表示されます。 設定したスケジュールに従って、アクティブになり非アクティブになります。
 
