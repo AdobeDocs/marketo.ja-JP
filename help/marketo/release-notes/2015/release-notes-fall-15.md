@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2015年秋 {#release-notes-fall}
+# リリースノート：2015年秋{#release-notes-fall}
 
 2015年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。
 
-## スマートリストのサブスクリプションを購入 {#subscribe-to-a-smart-list}
+## スマートリストの登録{#subscribe-to-a-smart-list}
 
 [スマートリストのサブスクリプションを購入](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## マーケティングカスタムオブジェクト {#marketo-custom-objects}
+## マーケティングカスタムオブジェクト{#marketo-custom-objects}
 
 [マーケティングカスタムオブジェクト](http://docs.marketo.com/display/docs/marketo+custom+objects)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google ChromeのMarketo Insights {#marketo-insights-for-google-chrome}
+## Google Chrome用Marketo Insights {#marketo-insights-for-google-chrome}
 
 [Google ChromeのMarketo Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Google Mail Sales Insight拡張機能の更新リリースが発表されます。 Chrome Storeで表示し [ます](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)。
+Google Mail Sales Insight拡張機能の更新リリースが発表されます。 [Chromeストア](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)で表示します。
 
 このアップデートには、多くの新機能が含まれています。
 
@@ -56,23 +56,23 @@ Google Mail Sales Insight拡張機能の更新リリースが発表されます�
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketto Mobile Engagement — トークン、サンプルの送信、プレビュー {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketto Mobile Engagement — トークン、サンプルの送信、プレビュー{#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [トークン](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [サンプルを送信](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [プレビュー](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-プッシュ通知を [トークンで簡単にパーソナライズでき](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)ます。
+[トークン](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)を使用して、プッシュ通知を簡単にパーソナライズできます。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-また、 [プレビュー](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 、 [](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) サンプルプッシュ通知を送信してから顧客にデプロイすることもできます。
+また、プレビュー[を顧客に展開する前に、&lt;a0/>サンプル](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)のプッシュ通知を[送信することもできます。](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## 場面のスマートキャンペーン {#smart-campaigns-in-moments}
+## 場面{#smart-campaigns-in-moments}のスマートキャンペーン
 
 [場面のスマートキャンペーン](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
@@ -85,9 +85,9 @@ Google Mail Sales Insight拡張機能の更新リリースが発表されます�
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP — コンテンツ分析とRecommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content AnalyticsとRecommendations{#rtp-content-analytics-and-recommendations}
 
-[コンテンツ分析](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) /Recommendations
+[コンテンツ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 分析とRecommendations
 
 RTPコンテンツ分析は、通常のWeb訪問からのWebコンテンツアセットのパフォーマンス、およびRTPのコンテンツ推奨エンジンから生成された訪問を表示します。
 
@@ -97,12 +97,12 @@ RTPコンテンツ分析は、通常のWeb訪問からのWebコンテンツア�
 
 RTPのアセットページが、コンテンツ分析とコンテンツRecommendationsに分割されるようになりました。
 
-* **コンテンツ分析：** 検出および定義されたすべてのWebコンテンツの表示とダイレクトリードを表示し、最もパフォーマンスの高いコンテンツの分析に役立ちます。
-* **コンテンツRecommendations**:RTPの推奨コンテンツと関連するリードアトリビューションからのインプレッション数とクリック数を表示します。 このページで、 [バーおよびリッチメディアのレコメンデーション用に、コンテンツレコメンデーションを編集して有効にするこ](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) ともできます [](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) 。
+* **コンテンツ分析：検出され、定義されたすべてのWebコンテンツの表示とダイレクトリードを** 表示し、最もパフォーマンスの高いコンテンツの分析に役立ちます。
+* **コンテンツRecommendations**:RTPの推奨コンテンツと関連するリードアトリビューションからのインプレッション数とクリック数を表示します。このページから、[バー](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)および[リッチメディア](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)のレコメンデーション用に、コンテンツレコメンデーションを編集して有効にすることもできます。
 
 * これら2つのページのすべてのダイレクトリードデータは、その年の開始（2015年1月1日）以降、遡及的に更新されています。
 
-## RTP:RTPキャンペーンのクローンを作成 {#rtp-clone-an-rtp-campaign}
+## RTP - RTPキャンペーンのクローン{#rtp-clone-an-rtp-campaign}
 
 [RTP:RTPキャンペーンのクローンを作成](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
@@ -110,7 +110,7 @@ RTPキャンペーンをクローンすると、より迅速かつ効率的に�
 
 ![](assets/clone2.png)
 
-## リッチテキストエディタの機能強化 {#rich-text-editor-improvements}
+## リッチテキストエディタの改善{#rich-text-editor-improvements}
 
 リッチテキストエディターにいくつかの改善を加えています。 7月にアップデートされたエディターをリリースした後、大きなフィードバックを受け取り、このアップグレードに対するこれらの変更を行うことができました。 今後数ヶ月間でさらに多くのことが起きる 第4四半期の新機能のリストを示します。
 
@@ -138,7 +138,7 @@ RTPキャンペーンをクローンすると、より迅速かつ効率的に�
    <![endif]-->
    ```
 
-* 空の表のセルを `**`
+* 空のテーブルセルを`**`で埋め込まない
 
 * HTMLソースエディターに追加される最大化/最小化ボタン
 * 既存のテーブルプロパティが識別され、テーブルプロパティダイアログに表示されるようになりました
@@ -159,7 +159,7 @@ RTPキャンペーンをクローンすると、より迅速かつ効率的に�
    <td background="someImage.png"> 
    ```
 
-## Microsoft Dynamics — 同期の検証 {#microsoft-dynamics-validate-sync}
+## Microsoft Dynamics — 同期の検証{#microsoft-dynamics-validate-sync}
 
 [Microsoft Dynamics — 同期の検証](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
@@ -167,29 +167,29 @@ RTPキャンペーンをクローンすると、より迅速かつ効率的に�
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## CRM追加カスタムオブジェクト同期のフィールド {#add-fields-to-crm-custom-object-sync}
+## CRM追加カスタムオブジェクト同期{#add-fields-to-crm-custom-object-sync}のフィールド
 
 SalesforceおよびDynamicsから同期されたカスタムオブジェクトに、新しいフィールドを簡単に追加できます。 カスタムオブジェクト全体を無効にして有効にすることなく、カスタムオブジェクトの同期に新しいフィールドを追加できるようになりました。
 
-## セキュリティ機能の変更 {#changes-to-security-features}
+## セキュリティ機能の変更{#changes-to-security-features}
 
 * パスワードの試行回数は5までに制限されます。 5回目の試行後、ユーザーはロックされます。
 * 非アクティブな購読のタイムアウトを設定できるようになりました。
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## IE 11のサポート（IE 9の非推奨サポート） {#ie-support-and-deprecating-support-for-ie}
+## IE 11サポート（IE 9の非推奨サポート） {#ie-support-and-deprecating-support-for-ie}
 
 現在、Microsoft Internet Explorer 11ブラウザーを正式にサポートし、Microsoft Internet Explorer 9ブラウザーのサポートを終了しています。
 
-## MSIのLightning UIのサポート {#lightning-ui-support-for-msi}
+## MSI {#lightning-ui-support-for-msi}のLightning UIのサポート
 
 App Exchangeの最新のMSIパッケージは、Lightningとレガシーの両方のSalesforce UIで機能します。
 
-## 新しいDynamicsプラグイン {#new-dynamics-plug-in}
+## 新しいDynamicsプラグイン{#new-dynamics-plug-in}
 
 この新しいプラグインは、様々なアクションを非同期モードで実行し、パフォーマンスを向上させます。
 
-## Design StudioのランディングページのURLで検索 {#search-by-url-of-landing-page-in-design-studio}
+## Design Studio {#search-by-url-of-landing-page-in-design-studio}のランディングページのURLで検索
 
 Design Studioのランディングページグリッドで、ページURLでランディングページを検索できるようになりました。 これはエクスポートも可能です。
