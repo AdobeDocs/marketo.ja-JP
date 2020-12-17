@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# マーケティングカレンダーのフィルタリング {#filtering-the-marketing-calendar}
+# マーケティングカレンダーのフィルタリング{#filtering-the-marketing-calendar}
 
 エントリタイプ、プログラムタグまたはワークスペースを使用して、カレンダーに表示する情報をフィルターします。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 「 **参加者の** タイプ **** 」ドロップダウンをクリックします。
+1. **エントリ** **タイプ**&#x200B;ドロップダウンをクリックします。
 
    >[!NOTE]
    >
-   >デフォルトの入力タイプは、 **Email** プログラム **と** Smart **キャンペーン**************・です。
+   >デフォルトのエントリタイプは、**電子メール** **プログラム**&#x200B;と&#x200B;**スマート** **キャンペーン** **と**&#x200B;電子メール&#x200B;**です。**
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >標準エントリタイプの説明は、「 [プログラムスケジュール表示エントリタイプ](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)」を参照してください。
+   >標準エントリタイプの説明は、[プログラムスケジュール表示エントリタイプ](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)を参照してください。
 
 1. 目的のプログラムタグを選択します。
 
