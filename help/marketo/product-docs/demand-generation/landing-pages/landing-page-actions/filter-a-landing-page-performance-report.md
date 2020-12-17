@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# ランディングページパフォーマンスレポートのフィルタリング {#filter-a-landing-page-performance-report}
+# ランディングページパフォーマンスレポートのフィルタ{#filter-a-landing-page-performance-report}
 
-[ランディングページのパフォーマンスレポート](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) は、プログラム内のランディングページ（ローカルアセット）、Design Studio内の（グローバルアセット）、またはアーカイブ済みのアセットに焦点を当てます。
+[ランディングページのパフォーマンスレポート](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)を、プログラム内のランディングページ（ローカルアセット）、Design Studio内の（グローバルアセット）、またはアーカイブされた項目に絞り込みます。
 
-1. 「 **Analytics** 」(または「 **マーケティングアクティビティ**」)に移動します。
+1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)に移動します。
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. 「 **設定** 」タブをクリックし、フィルターをドラッグします。
+1. 「**セットアップ**」タブをクリックし、フィルターをドラッグします。
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Design Studioランディングページ:** グローバルアセット。Design Studioで管理します。
-   * **マーケティングアクティビティランディングページ:** 「マーケティングアクティビティ」タブのプログラム内のローカルアセット。
-   * **アーカイブされたランディングページ:** 非アクティブで古いランディングページ。
+   * **Design Studioランディングページ:** グローバルアセット、Design Studioで管理
+   * **マーケティングアクティビティランディングページ:「マーケティングアクティビティ」タブのプログラム内の** ローカルアセット。
+   * **アーカイブされたランディングページ:** 非アクティブ、削除されたランディングページ。
 
 1. レポートに含めるフォルダーと特定のランディングページを選択します。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. 終わった！ フィルターを適用したレポートを表示するには、 **「レポート** 」タブをクリックします。
+1. 終わった！ 「**レポート**」タブをクリックして、フィルターを適用したレポートを表示します。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->レポートに関するすべての [基本レポートを示します](http://docs.marketo.com/display/docs/basic+reporting)。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
