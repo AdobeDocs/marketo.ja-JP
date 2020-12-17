@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Analyticsの動作設定の編集 {#edit-analytics-behavior-settings}
+# Analytics動作設定の編集{#edit-analytics-behavior-settings}
 
-チャネルの管理者レベルで [Analyticsの動作を設定できます](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)。プログラムレベルで編集することもできます。 これが方法です。
+[Analyticsの動作は、チャネル](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)の管理者レベルで設定できますが、プログラムレベルで編集することもできます。 これが方法です。
 
 1. 「マーケティングアクティビティ」に移動します。
 
