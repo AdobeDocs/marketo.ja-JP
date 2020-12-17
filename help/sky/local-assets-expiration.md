@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-有効期限を設定して、ランディングページの非公開、トリガーキャンペーンの非アクティブ化、またはバッチキャンペーンの定期停止を行います。 この機能は、「 **[!UICONTROL アセット]** 」タブの「 **[!UICONTROL 有効期限]** 」セクションで確認できます。
+有効期限を設定して、ランディングページの非公開、トリガーキャンペーンの非アクティブ化、またはバッチキャンペーンの定期停止を行います。 この機能は、「**[!UICONTROL アセット]**」タブの「**[!UICONTROL 有効期限]**」セクションにあります。
 
 ![イメージ1](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## 有効期限の設定
 
-1. 有効期限を設定するアセットを選択し、「有効期限を **[!UICONTROL 設定]**」をクリックします。
+1. 有効期限を設定するアセットを選択し、「**[!UICONTROL 有効期限を設定]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. 影響を受けるアセットを確認し、「 **[!UICONTROL 確認]**」をクリックします。
+1. 影響を受けるアセットを確認し、**[!UICONTROL 確認]**&#x200B;をクリックします。
 
    ![画像4](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->既存の有効期限を編集するには、アセットをチェックし、「有効期限を **[!UICONTROL 設定]**」をクリックします。
+>既存の有効期限を編集するには、アセットをチェックし、「**[!UICONTROL 有効期限を設定]**」をクリックします。
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ## 有効期限の削除
 
-1. 有効期限を削除するには、アセットをチェックし、「有効期限を **[!UICONTROL 削除]**」をクリックします。
+1. 有効期限を削除するには、アセットを確認し、「**[!UICONTROL 有効期限を削除]**」をクリックします。
 
    ![画像5](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. 影響を受けるアセットを確認し、「 **[!UICONTROL 確認]**」をクリックします。
+1. 影響を受けるアセットを確認し、**[!UICONTROL 確認]**&#x200B;をクリックします。
 
    ![画像6](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
