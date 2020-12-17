@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# マーケティングカレンダーでのエントリの直接編集 {#edit-entries-directly-in-the-marketing-calendar}
+# マーケティングカレンダーでエントリを直接編集{#edit-entries-directly-in-the-marketing-calendar}
 
 プログラムフォーカスモードになると、カレンダーエントリをすばやく変更できます。 これが方法です。
 
-## プログラムフォーカスを有効にする {#enable-program-focus}
+## プログラムフォーカスを有効にする{#enable-program-focus}
 
-1. [ **カレンダー**]に移動します。
+1. **カレンダー**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. フォーカスするプログラムに属するエントリを選択し、「プログラムフォーカスを **表示**」をクリックします。
+1. フォーカスするプログラムに属するエントリを選択し、「**プログラムフォーカスを表示**」をクリックします。
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## 再計画入力 {#reschedule-entry}
+## エントリの再スケジュール{#reschedule-entry}
 
 1. エントリをドラッグ&amp;ドロップするだけで、エントリを再スケジュールできます。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## 参加者名の編集 {#edit-entry-name}
+## エントリ名の編集{#edit-entry-name}
 
 1. 名前を変更するエントリを選択します。
 
@@ -46,9 +46,9 @@ ht-degree: 0%
    >説明を編集することもできます。
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
-## 参加者の種類を変換 {#convert-entry-type}
+## エントリタイプの変換{#convert-entry-type}
 
 基本的な入力をすぐに入力した後は、最終的な形式に変換できます。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## 参加者の詳細を編集 {#edit-entry-details}
+## 参加者の詳細を編集{#edit-entry-details}
 
 エントリの様々な領域にすばやくアクセスして編集できます。
 
