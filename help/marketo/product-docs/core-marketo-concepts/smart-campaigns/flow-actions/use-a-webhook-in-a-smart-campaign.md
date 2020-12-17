@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンでのWebフックの使用 {#use-a-webhook-in-a-smart-campaign}
+# スマートキャンペーンでのWebフックの使用{#use-a-webhook-in-a-smart-campaign}
 
-Webフックを使用するには [、フローアクションとして](http://developers.marketo.com/documentation/webhooks/)スマートキャンペーン [](add-a-flow-step-to-a-smart-campaign.md) に追加します。
+[webhook](http://developers.marketo.com/documentation/webhooks/)を使用するには、[smartキャンペーン](add-a-flow-step-to-a-smart-campaign.md)にフローアクションとして追加します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Webフックを使用するには [、フローアクションとして](http://
    >
    >Webhookは、トリガーキャンペーンでのみ使用できます。
 
-1. 「 **フロー** 」タブに移動し、「Call Webhook **** flow」アクションをドラッグします。
+1. 「**フロー**」タブに移動し、**Call Webhook**&#x200B;フローアクションをドラッグします。
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -39,7 +39,7 @@ Webフックを使用するには [、フローアクションとして](http://
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. 最後に、Webhooksをフロー手順の **追加Choice** （選択）で使用できます。
+1. 最後に、フローステップで&#x200B;**追加選択**&#x200B;のWebhooksを使用できます。
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
 
