@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メール配信品質ツール {#email-deliverability-tool}
+# 電子メール配信品質ツール{#email-deliverability-tool}
 
 Marketorの電子メール配信品質ツールは、電子メールを送信する前に電子メールの配信品質を評価する単一のアプリケーションを提供します。
 
@@ -21,11 +21,11 @@ Marketorの電子メール配信品質ツールは、電子メールを送信す
 >
 >すべてのお客様が電子メール配信品質ツールを持っているわけではありません。 詳細については、担当営業にお問い合わせください。
 
-この機能の詳細については、Marketo.comの [電子メール配信品質PowerPackを参照してください](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/)。
+この機能の詳細については、Marketo.comの[Eメール配信品質PowerPackをご覧ください。](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/)
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->具体的な手順については、『Marketing To Deliverability [User Guide](https://250ok.com/guides/marketo/)』を参照してください。
+>具体的な手順については、『マーケティングの配信品質[ユーザガイド](https://250ok.com/guides/marketo/)』を参照してください。
 
