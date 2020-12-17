@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのエントリの作成 {#creating-an-entry-in-the-program-schedule-view}
+# プログラムスケジュール表示でのエントリの作成{#creating-an-entry-in-the-program-schedule-view}
 
 既存のプログラムを補完するエントリをプログラムスケジュール表示内から作成できます。
 
-## 基本エントリの作成 {#create-a-basic-entry}
+## 基本エントリの作成{#create-a-basic-entry}
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. プログラムを選択します。 「 **表示** 」ドロップダウンをクリックします。 「 **スケジュール**」を選択します。
+1. プログラムを選択します。 **表示**&#x200B;ドロップダウンをクリックします。 **スケジュール**&#x200B;を選択します。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 説明を入力し、「 **保存**」をクリックします。
+1. 説明を入力し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
-## 参加者タイプの変更 {#change-entry-type}
+## エントリタイプの変更{#change-entry-type}
 
-1. 「 **議題** 」表示から基本的な項目を選択します。
+1. **議題**&#x200B;表示から基本的な項目を選択します。
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 「 **タイプ** 」ドロップダウンを選択します。 新しいエントリタイプを選択します。
+1. 「**タイプ**」ドロップダウンを選択します。 新しいエントリタイプを選択します。
 
    >[!NOTE]
    >
-   >TODOは [カスタムエントリです](create-custom-entry-types.md)。 To Doやその他のカスタムエントリを作成して、マーケティング担当者以外の議題を追跡するのに役立てることができます。
+   >TODOは[カスタムエントリ](create-custom-entry-types.md)です。 To Doやその他のカスタムエントリを作成して、マーケティング担当者以外の議題を追跡するのに役立てることができます。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> また、スケジュール表示から [スマートキャンペーン](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) 、 [電子メールプログラム](creating-a-new-email-program-in-the-schedule-view.md) （電子メール）を作成することもできます。
+> また、スケジュール表示から[スマートキャンペーン](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)または[電子メールプログラム](creating-a-new-email-program-in-the-schedule-view.md)を作成することもできます。
 
