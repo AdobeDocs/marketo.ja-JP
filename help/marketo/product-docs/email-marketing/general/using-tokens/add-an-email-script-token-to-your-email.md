@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 電子メ追加ールへの電子メールスクリプトトークン {#add-an-email-script-token-to-your-email}
+# 電子メ追加ールに対する電子メールスクリプトトークン{#add-an-email-script-token-to-your-email}
 
-電子メールスクリプトを [作成した後](create-an-email-script-token.md)、電子メールに追加して実行中のスクリプトを確認します。 これが方法です。
+[電子メールスクリプトを作成した後、](create-an-email-script-token.md)電子メールに追加して実行中のスクリプトを確認します。 これが方法です。
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->メールの [承認を忘れないでください](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)。
+>[電子メール](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を&lt;a0/>承認するのを忘れないでください。
 
 それだ！ この電子メールを送信すると、トークンの背後にあるスクリプトが実行され、コンテンツが設定されます。
