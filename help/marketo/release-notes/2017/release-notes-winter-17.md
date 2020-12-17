@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：17年冬 {#release-notes-winter}
+# リリースノート：冬&#39;17 {#release-notes-winter}
 
 Winter &#39;17リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
@@ -39,11 +39,11 @@ Webキャンペーンーのすべての詳細と解析をCSV形式でエクス�
 
 ## [ローカライゼーション](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 言語とロケールを [選択して](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 、これらの言語でコンテンツを表示します。
+Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケール](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
-## アカウントベースのマーケティングの強化 {#account-based-marketing-enhancements}
+## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
 
 **[名前付きアカウントのインポート](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
 
@@ -57,7 +57,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ![](assets/ei.png)
 
-## 予測コンテンツの強化 {#predictive-content-enhancements}
+## 予測コンテンツの強化{#predictive-content-enhancements}
 
 **[有効なソースでフィルター](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
