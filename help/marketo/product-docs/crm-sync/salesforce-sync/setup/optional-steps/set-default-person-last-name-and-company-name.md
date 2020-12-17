@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# デフォルトの個人の姓と会社名の設定 {#set-default-person-last-name-and-company-name}
+# デフォルトの個人の姓と会社名を設定{#set-default-person-last-name-and-company-name}
 
 Salesforceでは、リードと連絡先に姓と会社名が（最小）必要です。 不完全なレコードはSalesforceに同期されません。 部分的なレコードを同期する場合は、Salesforceで使用するMarketoのデフォルト値を設定する必要があります。
 
-1. 「 **Admin** 」に移動し、「 **Salesforce**」をクリックします。
+1. **管理者**&#x200B;に移動し、**Salesforce**&#x200B;をクリックします。
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. [ **同期オプションの編集**]をクリックします。
+1. 「**同期オプションを編集**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 「 **デフォルトの個人姓** 」と「**デフォルトの****個人会社** 」を入力し、「 **保存**」をクリックします。
+1. **デフォルトの個人の姓**&#x200B;と**デフォルトの****個人の会社**&#x200B;を入力し、**「保存**」をクリックします。
 
    ![](assets/sync-options-hands.png)
 
