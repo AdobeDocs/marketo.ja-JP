@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新しいスマートキャンペーンの作成 {#create-a-new-smart-campaign}
+# 新しいスマートキャンペーンの作成{#create-a-new-smart-campaign}
 
 スマートキャンペーンは、Marketoで最も重要なツールです。 ユーザーは1人のユーザーに対してトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップし、一連のフローステップを実行できます。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->スマートキャンペーンはとても格好良い。 詳しくは、 [ここを参照してください](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)。
+>スマートキャンペーンはとても格好良い。 詳しくは、[ここ](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. **プログラムを選択し**、「 **New** 」で「New Local Asset ****」をクリックします。
+1. **プログラム**&#x200B;を選択し、**新しい**&#x200B;の下の「**新しいローカルアセット**」をクリックします。
 
    ![](assets/program-localassethands.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >スマートキャンペーンは、任意のプログラムのローカルアセットとして作成できます。
 
-1. 「 **スマートキャンペーン**」をクリックします。
+1. **スマートキャンペーン**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
-1. スマートキャンペーン名を入力し、「 **作成**」をクリックします。
+1. スマートキャンペーン名を入力し、「**作成**」をクリックします。
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 
