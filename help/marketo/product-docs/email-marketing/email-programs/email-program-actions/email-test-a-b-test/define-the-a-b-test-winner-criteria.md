@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# A/Bテストの推奨結果条件の定義 {#define-the-a-b-test-winner-criteria}
+# A/Bテストの推奨結果条件の定義{#define-the-a-b-test-winner-criteria}
 
-電子メールプログラムにA/Bテスト [を](add-an-a-b-test.md) 追加する場合 [、テストタイプを選択し、A/Bテストを](schedule-the-a-b-test.md)スケジュールして、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
+[電子メールプログラムにA/Bテスト](add-an-a-b-test.md)を追加する場合、テストタイプを[選択し、A/Bテスト](schedule-the-a-b-test.md)をスケジュールしてから、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 
 
-## 勝者の条件 {#winner-criteria}
+## 勝者条件{#winner-criteria}
 
-1. デフォルトの **勝者条件** (Winner Criteria)オプションが最初に表示されます。
+1. デフォルトの&#x200B;**推奨結果条件**&#x200B;オプションが最初に表示されます。
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    |---|---|
    | **クリック数** | デフォルトでは、電子メール内のリンクにトラッキングが埋め込まれており、電子メール内のリンクは、誰がどのリンクをクリックしたか、合計クリックされた数などを確認できます。 |
    | **クリックして開く%** | 電子メール内で開かれ、リンクがクリックされた電子メールの割合。 ここでは、個別クリック数を個別オープン数で割った値を100に乗算して割合として表示することで、電子メールの関連性とコンテキストを測定します。 |
-   | **エンゲージメントスコア** | エン [ゲージメントスコアは](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) 、コンテンツの効果を判断するのに役立ちます。 |
+   | **エンゲージメントスコア** | [エンゲージメントスコア](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score)は、コンテンツの効果を判断するのに役立ちます。 |
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは24時間以上実行する必要があります。 エンゲージメントスコアの [理解に関する詳細を表示します](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+   >「エンゲージメントスコア」を選択した場合、テストは24時間以上実行する必要があります。 [エンゲージメントスコア](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の理解についての詳細。
 
    また、「カスタムコンバージョン」を選択して「編集」をクリックすると、条件をカスタマイズできます。
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -54,7 +54,7 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >ス [マートリストと静的リストについて詳しく説明します](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+   >[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)についての詳細。
 
    トリガーを定義します。
    ![](assets/image2014-9-12-15-3a53-3a11.png)
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    素晴らしい！ 次に、勝者の決定方法を決定する時間です。
 
-## 推奨結果の宣言 {#declare-winner}
+## 推奨結果を宣言{#declare-winner}
 
 1. 2つの使用可能なオプションのいずれかを選択します。
 
@@ -79,17 +79,17 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >**日付/時間** A/Bテストを行う場合は、「 **手動**」のみ選択できます。
+   >**日付/時間** A/Bテストを行う場合は、**手動**&#x200B;のみ選択できます。
 
    A/Bテストが終了すると、マーケティング担当者は、予定された時間に勝者の電子メールを自動的に送信するか、結果を確認してどの電子メールをいつ送信するかを決定できます。
 
-1. 「自動」はawesomeで、デフォルトのオプションです。 「 **次へ**」をクリックします。
+1. 「自動」はawesomeで、デフォルトのオプションです。 [**次へ**]をクリックします。
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >「 **手動** 」を選択すると、テストが送信され、推奨結果が決定されるのを待ちます。 結果のレポートを受け取ります。
+   >「**手動**」を選択すると、テストが送信され、推奨結果が宣言されるのを待ちます。 結果のレポートを受け取ります。
 
    [A/Bテストのスケジュールを設定する](schedule-the-a-b-test.md)
 
