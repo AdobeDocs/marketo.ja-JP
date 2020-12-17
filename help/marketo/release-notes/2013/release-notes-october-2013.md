@@ -11,22 +11,22 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2013年10月 {#release-notes-october}
+# リリースノート：2013年10月{#release-notes-october}
 
-2013年10月リリースには、次の機能が含まれています。 機能の可用性については、 [Marketor Edition](http://docs.marketo.com/display/docs/assets/pricing.php) を確認してください。
+2013年10月リリースには、次の機能が含まれています。 [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)で機能の可用性を確認してください。
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.com](http://templates.marketo.com) は、電子メールおよびランディングページテンプレート（レスポンシブモバイル電子メールテンプレートを含む）を紹介しています。これは、Marketoプログラムライブラリからダウンロードできます。 毎月テンプレートを追加します。頻繁にチェックバックしてください。
+[Templates.marketo.](http://templates.marketo.com) comは、電子メールおよびランディングページテンプレート（レスポンシブモバイル電子メールテンプレートを含む）を、Marketoプログラムライブラリからダウンロードできます。毎月テンプレートを追加します。頻繁にチェックバックしてください。
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.comは](http://developers.marketo.com) 、Marketoへの統合を構築する開発者向けです。 Munchkin JavaScript API、SOAP APIコードの例、Webhooks、電子メールスクリプティングなど、様々な統合オプションを参照できます。 Java SDKは、GitHubでも使用でき [ます](https://github.com/Marketo/SOAP-API-Java-Client)。
+[Marketoへの統合を構築する開発者向けのdevelopers.marketo.](http://developers.marketo.com) comisです。Munchkin JavaScript API、SOAP APIコードの例、Webhooks、電子メールスクリプティングなど、様々な統合オプションを参照できます。 Java SDKは、[GitHub](https://github.com/Marketo/SOAP-API-Java-Client)でも利用できます。
 
-## 更新されたBrightTALKイベントアダプタ {#updated-brighttalk-event-adapter}
+## 更新されたBrightTALKイベントアダプタ{#updated-brighttalk-event-adapter}
 
 会社名、肩書、業種、会社サイズなど、BrightTALKの追加フィールドをMarketorに同期します。
 
-## Androidタブレットイベントのチェックインアプリ {#android-tablet-event-check-in-app}
+## Androidタブレットイベントチェックインアプリ{#android-tablet-event-check-in-app}
 
-[Google Playで利用可能な新しい](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) Androidベースのチェックインアプリを使用して、登録者をイベントにチェックインします [](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)。
+[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)で入手可能な新しい[Androidベースのチェックインアプリ](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)を使用して、登録者をイベントにチェックインします。
