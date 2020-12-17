@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 新しいワークスペースの作成 {#create-a-new-workspace}
+# 新しいワークスペースの作成{#create-a-new-workspace}
 
 ワークスペースは、会社を細分化するのに便利です。 ワークスペースを設定する理由は次のとおりです。
 
@@ -28,34 +28,34 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->まず、「ワークスペースと個人パーティションの [理解](understanding-workspaces-and-person-partitions.md)」を参照してください。
+>まず[ワークスペースと個人パーティションについて](understanding-workspaces-and-person-partitions.md)を理解します。
 
 >[!NOTE]
 >
->Workspaceのベストプラクティスの詳細については、 [Marketor Professional Servicesにお問い合わせください](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
+>Workspaceのベストプラクティスの詳細については、[マーケティング担当者にお問い合わせください](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
 
-1. 「 **管理者**」で、「 **ワークスペースとパーティション**」をクリックします。
+1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. 「 **新しいワークスペース**」をクリックします。
+1. 「**新しいワークスペース**」をクリックします。
 
    ![](assets/two-1.png)
 
-1. 「a**名前**」と入力し、使用する **個人パーティション** を選択します。 「 **プライマリ個人パーティション**」を選択します。
+1. a**名前**を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。 **プライマリユーザーパーティション**&#x200B;を選択します。
 
    >[!NOTE]
    >
    >**Reminder**
    >
    >
-   >まだパーティションを [作成していない場合は](create-a-person-partition.md) 、必ずパーティションを作成してください。
+   >まだパーティションを作成していない場合は、[パーティションを作成](create-a-person-partition.md)してください。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >「 **All Person Partitions**** **」チェックボックスは、このワークスペースがシステム内のすべてのPersonパーティションを使用できることを意味します。
+   >**「All Person Partitions**** **」チェックボックスは、このワークスペースがシステム内のすべてのPersonパーティションを使用できることを意味します。
 
    >[!NOTE]
    >
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 「 **作成**」をクリックします。
+1. 「**作成**」をクリックします。
 
    ![](assets/six.png)
 
