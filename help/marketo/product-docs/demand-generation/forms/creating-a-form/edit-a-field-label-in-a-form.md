@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# フォーム内のフィールドラベルの編集 {#edit-a-field-label-in-a-form}
+# フォームのフィールドラベルの編集{#edit-a-field-label-in-a-form}
 
 フォーム上のラベルは何でも変更できます。画像を使用したり、完全に消したりすることもできます。 その方法を次に示します。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. フィールドを選択し、 **ラベルを編集します**。 フォーム設定のフィールドには、入力したラベルが反映されます。
+1. フィールドを選択し、**ラベル**&#x200B;を編集します。 フォーム設定のフィールドには、入力したラベルが反映されます。
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >気に入ったい場合は、 ![](assets/image2014-9-15-17-3a27-3a7.png) 「
+   >気に入ったい場合は、   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . リッチテキストエディターが開き、画像やリンクなどを使って街に出ることができます。
 
-1. 「 **完了**」をクリックします。
+1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. 「 **承認して閉じる**」をクリックします。
+1. 「**承認して**&#x200B;を閉じる」をクリックします。
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->フォームの変更によって [作成されたランディングページのドラフトを忘れずに](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 承認してください。
+>フォームの変更によって作成されたランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
 あった！ 少しずつフォームデザイナーのチャンピオンになっている。
 
