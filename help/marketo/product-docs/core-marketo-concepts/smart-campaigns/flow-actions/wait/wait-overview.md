@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Wait {#wait}
+# 待機{#wait}
 
-## 概要 {#overview}
+## 概要{#overview}
 
-便利な **待機ステップを使用して、スマートキャンペーンフローで人を一時停止します**。
+便利な&#x200B;**待機ステップ**&#x200B;を使用して、スマートキャンペーンフローで人を一時停止します。
 
 ![](assets/wait-overview.png)
 
-「4時間」のような自然言語での入力方法に注目してください。 ただし、単語 ****&#x200B;の省略形（例：4時間）は使用しないでください。 スマートキャンペーンは引き続き実行されますが、待機ステップは無視されます。
+「4時間」のような自然言語での入力方法に注目してください。 ただし、****&#x200B;を省略しないでください（4時間など）。 スマートキャンペーンは引き続き実行されますが、待機ステップは無視されます。
 
 >[!CAUTION]
 >
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->既に待機ステップに入っているユーザーが、待機期間が終了した後に先に進めないようにする場合は、待機ステップの直後にフローから [削除を挿入し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) ます。 「選択肢を [追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 」オプションを使用して、削除するユーザーを指定します。
+>既に待機ステップに入っているユーザーが、待機期間が終了した後に進むことを望まない場合は、待機ステップの直後に[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)を挿入します。 [選択肢](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)を追加オプションを使用して、削除するユーザーを指定します。
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 待機フロー手順は、主に次の3つの方法で使用できます。
 
