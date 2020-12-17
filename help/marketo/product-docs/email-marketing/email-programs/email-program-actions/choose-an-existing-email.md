@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# 既存の電子メールの選択 {#choose-an-existing-email}
+# 既存の電子メールの選択{#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [スマートリストを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 、またはリストのインポートによるオーディエンスの [定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Smart ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Listorを使用したオーディエンスの定義オーディエンスのインポートによるリストの [定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-電子メールプログラムを [作成し](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 、オーディエンスを定義したら、送信する電子メールを決定します。 電子メールプログラム用の電子メールを一から [作成するか](create-an-email-for-an-email-program.md) 、既に存在する電子メールを選択することができます。 既に存在するものを選ぶ方法を次に示します。
+[電子メールプログラム](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成し、オーディエンスを定義したら、送信する電子メールを決定します。 [電子メールプログラム](create-an-email-for-an-email-program.md)用の電子メールを最初から作成するか、既に存在する電子メールを選択することができます。 既に存在するものを選ぶ方法を次に示します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 「 **電子メール** 」タイルで、送信する電子メールタイルを選択します。
+1. **電子メール**&#x200B;タイルの下で、送信する電子メールを選択します。
 
    ` ![](assets/image2014-9-12-11-3a28-3a10.png)
 
