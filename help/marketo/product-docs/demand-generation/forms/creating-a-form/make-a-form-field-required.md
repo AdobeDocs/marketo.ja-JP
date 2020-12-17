@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# フォームフィールドを必須にする {#make-a-form-field-required}
+# フォームフィールドを必須にする{#make-a-form-field-required}
 
-フォームにフィールドを [追加する場合](add-a-field-to-a-form.md) 、フィールドの一部を入力者に必須にする必要がある場合があります。 これが方法です。
+[フォーム](add-a-field-to-a-form.md)にフィールドを追加する場合は、入力者に必要なフィールドをいくつか作成する必要があります。 これが方法です。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/editform-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. うまくいった！ 「 **完了**」をクリックします。
+1. うまくいった！ 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 「 **承認して閉じる**」をクリックします。
+1. 「**承認して**&#x200B;を閉じる」をクリックします。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->変更を有効にするために、 [このフォームが存在するランディングページを](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 承認することを忘れないでください。
+>変更を有効にするために、このフォームが有効なランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
-フォームに追加したフィールドの [順序を変更する必要があります](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)か？
+フォーム](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)に追加したフィールドの順番を[変更する必要がありますか？
