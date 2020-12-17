@@ -16,11 +16,11 @@ ht-degree: 0%
 
 プログラムーとキャンペーンーフォルダーで使用するリンクトークンの設定方法を次に示します。
 
-1. プログラムーまたはフォルダーの「 [!UICONTROL マイトークン] 」タブで、「 **リンクトークン** 」キャンバスに  リンクトークンをドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**リンク**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-link/my-token-link-1.png)
 
-1. 新しいリンクトークンの名前を入力します。 次に、「 [!UICONTROL 表示テキスト]」、「 [!UICONTROL URL]」、「タイトル [!UICONTROL （タイトルタグ）」を入力し、ドロップダウンから] ターゲットを選択します。
+1. 新しいリンクトークンの名前を入力します。 次に、[!UICONTROL 表示テキスト]、[!UICONTROL URL]、[!UICONTROL タイトル]（タイトルタグ）を入力し、ドロップダウンから[!UICONTROL ターゲット]を選択します。
 
    ![イメージ2](/help/sky/assets/my-tokens/my-token-link/my-token-link-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    * 親：ページにネストされたフレームがある場合、1レベル上のリンクが開きます。
    * 本文全体：メインウィンドウにリンクを開きます
 
-1. [リンクを [!UICONTROL 追跡] ]の下のチェックボックスをオンにして、リンクを追跡する場所を選択します。
+1. [!UICONTROL 「]のリンクを追跡」のチェックボックスをオンにして、リンクを追跡する場所を選択します。
 
    ![イメージ3](/help/sky/assets/my-tokens/my-token-link/my-token-link-3.png)
 
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >「mkt_tokを含める」をオンにすると、ブランドのトラッキングドメインのリンクプレビュー(例：http://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
 
-1. 必要に応じて、「 [!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 必要に応じて、「[!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![画像4](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
