@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 追加ビデオ {#add-a-video}
+# 追加ビデオ{#add-a-video}
 
 ランディングページにソーシャルシェアオプションを含むビデオを配置します。
 
@@ -21,33 +21,33 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. ランディングページに移動し、「ドラフトを **編集**」をクリックします。
+1. ランディングページーに移動し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. **ビデオを右側の要素 **からドラッグします。** **
+1. **ビデオ&#x200B;**を右側の要素からドラッグします。** **
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
-1. ドロップダウンリストから **「新規作成** 」を選択します。
+1. ドロップダウンから[**新規作成**]を選択します。
 
    ![](assets/image2014-9-23-16-3a51-3a11.png)
 
    >[!NOTE]
    >
-   >また、プログラム *内でビデオ共有を作成するには、* 新規 **/****新規ローカルアセットを選択します。** 次に示すように、ドロップダウンから選択できます。
+   >また、プログラム&#x200B;*内にビデオ共有*&#x200B;を作成するには、**新しい**/**新しいローカルアセットを選択します。** 次に示すように、ドロップダウンから選択できます。
 
-1. YouTubeビデオのURLを入力し、ビデオ共有に名前を付けます。 「 **コピー元** 」オプションで「なし」を選択し、「 **挿入****」をクリックします。**
+1. YouTubeビデオのURLを入力し、ビデオ共有に名前を付けます。 「****&#x200B;コピー元&lt;a1/>」オプションで「**なし**」を選択し、「**挿入**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
 >[!TIP]
 >
->時間を節約するために、「 **コピー元** 」オプションを使用して、既存のビデオ共有からすべての設定をコピーできます。
+>時間を節約するために、「**コピー元**」オプションを使用して、既存のビデオ共有からすべての設定をコピーできます。
 
-おめでとう！ ランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebookに [投稿したり、ビデオをWebサイトで共有したりすること](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) もできます [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)。
+おめでとう！ ランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebookに[投稿したり、[ビデオ共有をWebサイトに](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)投稿したりすることもできます。](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
 >[!MORELIKETHIS]
 >
->完了ですが、必要に応じてビデオ共有の設定を変更できます。 共有フローの [カスタマイズに関する開始](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) （共有プロンプトが開くタイミングと場所）
+>完了ですが、必要に応じてビデオ共有の設定を変更できます。 [共有フロー](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)のカスタマイズとの開始（共有プロンプトが開くタイミングと場所）
 
