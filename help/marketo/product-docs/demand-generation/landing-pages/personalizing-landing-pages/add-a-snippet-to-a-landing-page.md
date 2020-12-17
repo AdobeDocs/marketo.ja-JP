@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ランディングページ追加のスニペット {#add-a-snippet-to-a-landing-page}
+# ランディングページ追加{#add-a-snippet-to-a-landing-page}のスニペット
 
 スニペットは、HTMLの一部で、ルールに従ってパーソナライズされたコンテンツを保持することができます。
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. ランディングページを選択し、「ドラフトを **編集**」をクリックします。
+1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. ランディングページエディターで、 **Snippet** 要素の上にドラッグします。
+1. ランディングページエディターで、**スニペット**&#x200B;要素の上にドラッグします。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. スニペットを探して選択し、「 **保存**」をクリックします。
+1. スニペットを探して選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ガイド付きランディングページにスニペットを追加する場合は、 [この記事を参照してください](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)。
+   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)を参照してください。
 
 すごい仕事！ ランディングページにスニペットを追加する方法を理解している。
