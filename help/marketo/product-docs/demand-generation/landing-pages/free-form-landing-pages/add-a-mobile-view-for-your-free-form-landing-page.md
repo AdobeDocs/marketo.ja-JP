@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# フ追加リーフォームランディングページ用のモバイル表示 {#add-a-mobile-view-for-your-free-form-landing-page}
+# フ追加リーフォームランディングページ用のモバイル表示{#add-a-mobile-view-for-your-free-form-landing-page}
 
 スマートフォンでは、フリーフォームのランディングページを見栄えよく見せるのが簡単です。
 
 >[!NOTE]
 >
->モバイル表示は、幅が480ピクセル以下の画面で機能します。 つまりスマートフォンです デバイスの解像度に関する詳 [しい情報を示します](http://mydevice.io/devices/.)。
+>モバイル表示は、幅が480ピクセル以下の画面で機能します。 つまりスマートフォンです デバイスの解像度](http://mydevice.io/devices/.)の[情報を以下に示します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,27 +27,27 @@ ht-degree: 0%
 
    ![](assets/choose-landing-page.jpg)
 
-1. 「ドラフト **を編集**」をクリックします。
+1. 「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. 「 **モバイル** 」タブをクリックします。
+1. 「**モバイル**」タブをクリックします。
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. 「 **アクティブ化**」をクリックします。
+1. 「**アクティブ化**」をクリックします。
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
    >[!CAUTION]
    >
-   >フリーフォームテンプレートはアップグレードが必要な場合があります。 このメッセージが表示された場合は、既存のフリーフォームランディングページテンプレートをモバイルと互換 [にする方法について簡単に確認してください](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)。
+   >フリーフォームテンプレートはアップグレードが必要な場合があります。 このメッセージが表示された場合は、既存のフリーフォームランディングページテンプレートをモバイル互換[にする方法について、すばやくお読みください。](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
 
 1. 素晴らしい！ これで、ランディングページーのモバイルバージョンがアクティベートされました。 「**閉じる」をクリックします。 **
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   モバイル表示を [カスタマイズできるようになりました](customize-mobile-view-for-your-free-form-landing-page.md)。
+   これで[モバイル表示](customize-mobile-view-for-your-free-form-landing-page.md)をカスタマイズできます。
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
