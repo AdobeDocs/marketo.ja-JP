@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-1.png)
 
-1. 右クリックし、「 **[!UICONTROL 移動]**」を選択します。
+1. 右クリックし、「**[!UICONTROL 移動]**」を選択します。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. 「 **[!UICONTROL 移動]**」をクリックします。
+1. 「**[!UICONTROL 移動]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
