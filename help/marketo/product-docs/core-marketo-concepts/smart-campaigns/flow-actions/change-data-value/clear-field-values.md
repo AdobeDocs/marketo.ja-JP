@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# フィールド値をクリア {#clear-field-values}
+# フィールド値をクリア{#clear-field-values}
 
-** [Change Data Value](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**は非常に優れていますが、値を完全に *削除するにはどうすればよいですか* 。 良い質問だ！
+** [データ値の変更](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**は素晴らしいですが、値を&#x200B;*削除*&#x200B;するにはどうすればよいですか？ 良い質問だ！
 
-1. フローの手順で、クリアするフィールドを選択し、「 **新しい値**」に「**NULL **（すべて大文字）」を入力します。
+1. フロー手順で、クリアするフィールドを選択し、「**新しい値**」に「**NULL **（すべて大文字）」を入力します。
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
