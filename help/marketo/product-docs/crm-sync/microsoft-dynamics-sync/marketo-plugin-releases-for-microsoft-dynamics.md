@@ -11,11 +11,11 @@ ht-degree: 7%
 ---
 
 
-# Microsoft Dynamics向けMarketoプラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
+# Microsoft Dynamics用Marketoプラグインリリース{#marketo-plugin-releases-for-microsoft-dynamics}
 
 Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新バージョンをダウンロードします。 定期的にMarketorはこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[Dynamicsリリースに対応する最新のプラグインをダウンロードします](sync-setup/download-the-marketo-lead-management-solution.md) 。
+[ご使用のDynamicsリリースに対応する最新の](sync-setup/download-the-marketo-lead-management-solution.md) プラグインをダウンロードします。
 
 ![](assets/lead-management-solution.png)
 
@@ -69,7 +69,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">4/8/16</td> 
+   <td colspan="1">2016年4月8日</td> 
    <td colspan="1">バグ修正：リードの同期フィルタが「NO」に設定され、オポチュニティと連絡先に同期フィルタがない場合、リードが条件を満たしたときに、連絡先とオポチュニティに対して「ログを作成」が生成されませんでした。</td> 
   </tr> 
   <tr> 
