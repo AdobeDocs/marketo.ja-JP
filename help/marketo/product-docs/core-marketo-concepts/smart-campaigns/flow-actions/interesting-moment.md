@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 面白い瞬間 {#interesting-moment}
+# 注目の瞬間{#interesting-moment}
 
-## 概要 {#overview}
+## 概要{#overview}
 
-Marketo Sales Insight [を持っている場合は、](http://docs.marketo.com/display/docs/assets/sales-insight.php)注目の瞬間 **(Intersitive Moment** )フローステップを使用して、貴社の社員が行っている素晴らしいことをセールスチームが明確に把握できます。
+[Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)をお持ちの場合は、**注目すべき瞬間**&#x200B;のフローステップを使用して、担当者が行っているクールなことをセールスチームが明確に把握できます。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
-1. 使用する注目のモーメント **タイプ** を選択します。
+1. 使用するおもしろい瞬間&#x200B;**タイプ**&#x200B;を選択します。
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. 営業チームの興味深い瞬間を説明する **説明** 。
+1. セールスチームの興味深い瞬間を説明する&#x200B;**説明**&#x200B;を作成します。
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
    >[!TIP]
    >
-   >**少ない方が多い**。 セールスチームと協力して、興味深い瞬間が実際に興味深いものであることを確認します。
+   >**少ない方が多い**。セールスチームと協力して、興味深い瞬間が実際に興味深いものであることを確認します。
 
    [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
