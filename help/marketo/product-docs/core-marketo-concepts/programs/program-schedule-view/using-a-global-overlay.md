@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# グローバルオーバーレイの使用 {#using-a-global-overlay}
+# グローバルオーバーレイの使用{#using-a-global-overlay}
 
 プログラムスケジュール表示のグローバルオーバーレイを使用すると、予定されている他のアセットとの関連プログラムを確認できます。
 
 >[!PREREQUISITES]
 >
->この機能を利用するには、 [マーケティングカレンダーライセンス](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) が必要です。
+>この機能を利用するには、[マーケティングカレンダーライセンス](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)が必要です。
 
-## グローバルオーバーレイの使用 {#use-the-global-overlay}
+## グローバルオーバーレイの使用{#use-the-global-overlay}
 
 1. プログラムを選択します。
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 右下隅の「 **オーバーレイ** 」を選択します。
+1. 右下隅の「**オーバーレイ**」を選択します。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
-## 保存済みフィルターをオーバーレイとして使用する {#use-a-saved-filter-as-an-overlay}
+## 保存済みフィルターをオーバーレイとして使用{#use-a-saved-filter-as-an-overlay}
 
-マーケティングカレンダーにフィルターを [保存した場合](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)、プログラムスケジュール表示でオーバーレイとして使用できます。
+マーケティングカレンダー](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)に[フィルターを保存した場合は、プログラムスケジュール表示でオーバーレイとして使用できます。
 
-1. 「 **オーバーレイ** 」ドロップダウンをクリックし、フィルター定義を選択します。
+1. 「**オーバーレイ**」ドロップダウンをクリックし、フィルター定義を選択します。
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
