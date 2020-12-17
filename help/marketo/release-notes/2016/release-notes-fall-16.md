@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：16年秋 {#release-notes-fall}
+# リリースノート：秋&#39;16 {#release-notes-fall}
 
 2016年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
@@ -53,7 +53,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **REST API**
 
-また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作について詳しくは、 [Marketor Developers Webサイトを参照してください](http://developers.marketo.com/rest-api/lead-database/named-accounts)。
+また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作の詳細については、[Marketto DevelopersのWebサイト](http://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
 
 ## [監査証跡の機能強化](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **キャンペーン制限の編集**
 
-強制できない [キャンペーン制限を設定するのはなぜですか](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) 。 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
+強制できない場合は、[キャンペーン制限](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
 
 ## [モバイルプッシュ通知のサウンド](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 ## [Salesforce暗号化と互換性のあるSales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insightは、Salesforce Shield Encryptionと互換性があります。 Sales Insightのすべてのお客様は、Appexchangeで [利用可能な、この最新の管理パッケージ（バージョン1.4359.2）にアップグレードする必要があります](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)。
+Market Sales Insightは、Salesforce Shield Encryptionと互換性があります。 Sales Insightのすべてのお客様は、この最新の管理パッケージ（バージョン1.4359.2）にアップグレードする必要があります。このパッケージは[Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)で入手できます。
 
 ## [名前付きアカウントAPI](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -98,5 +98,5 @@ Marketo REST APIを使用して、v2.0形式の電子メールの変数とモジ
 
 ## [Marketor Salesforceの同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-MarketorのSalesforce統合は、MarketorフィールドがSalesforceと同期される方法を改善するために進化しています。 これで、必要に応じて、または必要に応じて、必要に応じて異なる大きなフィールドのグループを同期する代わりに、どのフィールドを含めるかを選択できます。 詳しくは、次のドキュメントを参照してください。 [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+MarketorのSalesforce統合は、MarketorフィールドがSalesforceと同期される方法を改善するために進化しています。 これで、必要に応じて、または必要に応じて、必要に応じて異なる大きなフィールドのグループを同期する代わりに、どのフィールドを含めるかを選択できます。 詳しくは、次のドキュメントを参照してください。[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
 
