@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：秋17 {#release-notes-fall}
+# リリースノート：秋&#39;17 {#release-notes-fall}
 
 2017年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。 注意：このリリースに含まれる一部の機能には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
 
-## システムの信頼性 {#system-reliability}
+## システムの信頼性{#system-reliability}
 
 優れた配列決定、不一致の減少、マンチキンの安定性の向上など、Marketoの中核インフラストラクチャに対してさらに改善を行っています。
 
-## SFDC同期のパフォーマンス {#sfdc-sync-performance}
+## SFDC同期パフォーマンス{#sfdc-sync-performance}
 
 MarketoとSalesforceの豊富で高速な同期を利用できます。 アカウントまたはリードで一括更新を必要とするデータの変更は、バックログを避けるために並列キューに分割できます。 また、イベントとタスクの同期が最大50%高速化されました。
 
-## Analyticsのパフォーマンス改善 {#analytics-performance-improvements}
+## 解析のパフォーマンスの向上{#analytics-performance-improvements}
 
 最近のインフラストラクチャの強化オファーにより、Marketorのレポートおよび分析ツール内でアップタイムと安定性が向上し、アドホックレポートをより迅速に作成できるようになりました。
 
@@ -54,42 +54,42 @@ LinkedInのリードジェネレーションフォームをカスタマイズし
 * システム通知：現在のキャンペーンのステータスや、直ちに対処する必要のある問題に関するアラートなど、Marketorインスタンスの重要なイベントに関するSlack通知を取得します。
 * 興味深い瞬間：Marketon Insightが営業アカウントから既知の個人によってトリガーされた場合、リードの所有者にはSlackを介して通知できます。 通知には、リード情報と営業アカウントに関する詳細が含まれます。
 
-## ABMの強化 {#abm-enhancements}
+## ABMの拡張{#abm-enhancements}
 
-**連絡先のないアカウント [を表示](https://docs.marketo.com/x/fKCt)**
+** [連絡先のないアカウントを表示](https://docs.marketo.com/x/fKCt)**
 
 Marketto ABMは、連絡先のないCRMアカウントを同期して表示するようになりました。 事前の販売またはマーケティング履歴のない新しいアカウントを含め、後続のリードをアカウントに照合して進行状況を追跡します。
 
-## ContentAnalytics`<sup>AI </sup>`{#contentai-analytics}
+## コンテンツ`<sup>AI </sup>`Analytics {#contentai-analytics}
 
 ** [新しいABMアカウントリストフィルタ](https://docs.marketo.com/x/1BPG) **
 
-ABMアカウントリスト全体でコンテンツの表示と比較を行い、既存のコンテンツを最適化します。 コンテンツ`<sup>AI</sup>` :
+ABMアカウントリスト全体でコンテンツの表示と比較を行い、既存のコンテンツを最適化します。 コンテンツ`<sup>AI</sup>`は次の内容を表示します。
 
 * 閲覧されたコンテンツのトップ
 * トップコンバージョンコンテンツ
 * マーケティングアクティビティ向けのAIベースの推奨コンテンツ
 
-## ウェブパーソナライゼーションの強化 {#web-personalization-enhancements}
+## Webパーソナライゼーションの強化{#web-personalization-enhancements}
 
-** [Tokens for Webキャンペーン](https://docs.marketo.com/x/SwJI)**
+** [Webキャンペーンのトークン](https://docs.marketo.com/x/SwJI)**
 
 Webキャンペーンー内でトークンを使用できるようになりました。 トークンを利用して、パーソナライズされたメッセージやコンテンツを配信し、Webキャンペーンーへの関与を増やします。
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Design StudioイメージをWebキャンペーンエディターに表示](https://docs.marketo.com/x/SwJI)**
+** [WebキャンペーンエディターのDesign Studio Images](https://docs.marketo.com/x/SwJI)**
 
 クリエイティブなアセットや画像をMarketor内の複数のチャネルで再利用することで、時間を節約できます。
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## 統合  {#integration}
+## 統合{#integration}
 
 ** [電子メールプレビューAPI](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Marketoの外部で電子メールをリモートプレビューできるようになり、電子メールコンテンツローカライゼーションのプロセスが簡素化され、エラーが減少します。
 
-** [Replace HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
+** [HTML APIを置換](https://developers.marketo.com/rest-api/assets/emails/)**
 
 開発者は、電子メールアセットのHTMLコンテンツをリモートで更新でき、単一のシステム内でアセットを管理できるようになります。
