@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webhookを呼び出す {#call-webhook}
+# Webフック{#call-webhook}を呼び出す
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-## 概要 {#overview}
+## 概要{#overview}
 
 Webhookを使用すると、サードパーティのサービスとやり取りできます。 スマートキャンペーンフローでWebフックを呼び出して、情報を送受信します。
 
@@ -31,11 +31,11 @@ Webhookを使用すると、サードパーティのサービスとやり取り�
 >
 >**ディープダイブ**
 >
->Webhooksがあなたに与える [素晴らしいことを](http://developers.marketo.com/documentation/webhooks/) 、多くご紹介します。
+>[Webhooks](http://developers.marketo.com/documentation/webhooks/)があなたに役立つ素晴らしいことを学びましょう。
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
-ドロップダウンから **Webフック** を選択します。
+ドロップダウンから&#x200B;**Webhook**&#x200B;を選択します。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
