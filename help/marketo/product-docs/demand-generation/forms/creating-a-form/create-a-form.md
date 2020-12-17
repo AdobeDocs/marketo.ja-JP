@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# フォームの作成 {#create-a-form}
+# フォームの作成{#create-a-form}
 
 ランディングページ上でフォームを作成して使用し、新しい名前を生成します。 非常に簡単です。始める方法を次に示します。
 
 >[!NOTE]
 >
->フォームの安全性を [維持するためにMarketorが行っていることを説明します](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
+>Marketorが[フォームを安全に保つ](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)方法を説明します。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. **プログラムを探して選択します**。
+1. **プログラム**&#x200B;を探して選択します。
 
    ![](assets/programseelct.png)
 
-1. 「 **新規**」の下にある「 **新規** ローカル **ア** セット ****」をクリックします。
+1. 「**新規**」で、「**新規** **ローカル** **アセット**」をクリックします。
 
    ![](assets/newlocalasset.png)
 
-1. 「 **フォーム**」を選択します。
+1. 「**フォーム**」を選択します。
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. フォーム **名を入力し** 、「 **作成**」をクリックします。
+1. フォーム&#x200B;**名前**&#x200B;を入力し、「**作成**」をクリックします。
 
    ![](assets/newformwithhands.png)
 
