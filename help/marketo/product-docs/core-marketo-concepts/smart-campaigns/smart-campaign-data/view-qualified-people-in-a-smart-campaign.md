@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンの表示資格者 {#view-qualified-people-in-a-smart-campaign}
+# スマートキャンペーンの表示資格者{#view-qualified-people-in-a-smart-campaign}
 
 スマートキャンペーンを実行する場合に、フローを通過する資格を持つ表示担当者。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >スマートキャンペーンのトリガーは、実イベントに基づいて実行されるので、資格のある人を表示しません。
 
-1. 「 **資格を持つ人** 」タブには、キャンペーンの実行時にフローを通過する資格を持つ人がリストされます。
+1. 「**資格を持つ人**」タブには、キャンペーンの実行時にフローを通過する資格を持つ人のリストが表示されます。
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >資格を持つ人の数も、スマートキャンペーン資格ルールによって異なります。 資格ルールの [編集方法を学びます](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)。
+   >資格を持つ人の数も、スマートキャンペーン資格ルールによって異なります。 [資格ルール](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)を編集する方法を学びます。
 
 甘い！ このリストを使用すると、スマートキャンペーンを実行する前に、どの訪問者がフローを通過したかを確認できます。
 
