@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テキスト電子メ追加ールへの追跡されたリンク {#add-tracked-links-to-a-text-email}
+# テキスト電子メールへ追加の追跡されたリンク{#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-8.png)
 
-1. 次のように、角括弧で囲まれた重複のURLを入力します。 `[[www.domain.com/path/page.html]]`.
+1. 次のように、角括弧で囲まれた重複のURLを入力します。`[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
