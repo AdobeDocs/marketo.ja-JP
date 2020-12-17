@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-ユーザーがアクションプログラムのメンバーの場合、すべてのコンテンツを [使い果たすまで、ユーザーはコンテンツを受け取ります](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content)。 「アクションプログラムカデンスを [変更](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) 」フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受け取るのを防ぐことができます。
+ユーザーがエンゲージメントプログラムのメンバーの場合、[すべてのコンテンツ](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content)を使い果たすまで、ユーザーはコンテンツを受け取ります。 [アクションプログラムカデンスを変更](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence)フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受信できないようにできます。
 
-1. スマートキャンペーンーで、スマートリストで一時停止するユーザーを選択します。 次に、フロー内で、「エンゲージメントを **[!UICONTROL 変更」プログラムのカデンス]** ・フロー・アクションを見つけてドラッグします。
+1. スマートキャンペーンーで、スマートリストで一時停止するユーザーを選択します。 次に、フロー内で、**[!UICONTROL エンゲージメントプログラムのカデンスを変更]**&#x200B;フローアクションを探してドラッグします。
 
    ![イメージ1](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. 「新しい値 **[!UICONTROL 」として「]** 一時停止」を選択し、ユーザーがコンテンツを受け取らないようにします。
+1. 「新しい値」として「**[!UICONTROL 一時停止]**」を選択し、ユーザーがコンテンツを受信しないようにします。
 
    ![イメージ3](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-再びコンテンツの受信を開始したい場合は、ユーザーを **[!UICONTROL 標準]** (Normal)に戻すことができます。 彼らは立ち去ったところから再開する。
+ユーザーに再度コンテンツの受信を開始したい場合は、ユーザーを&#x200B;**[!UICONTROL 通常]**&#x200B;に戻すことができます。 彼らは立ち去ったところから再開する。
 
 >[!NOTE]
 >
