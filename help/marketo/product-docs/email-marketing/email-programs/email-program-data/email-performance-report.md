@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 電子メールパフォーマンスレポート {#email-performance-report}
+# 電子メールパフォーマンスレポート{#email-performance-report}
 
 配信、開封、クリックなどの統計に関する電子メールのパフォーマンスを確認するには、電子メールのパフォーマンスレポートを作成します。
 
-1. [プログラムでレポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、「 **電子メールのパフォーマンス** 」 [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)レポートタイプを選択します。
-1. [レポート期間を変更し](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 、「 **レポート** 」タブをクリックします。
+1. [プ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、「 **電子メール** [パフォーマンスレポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)」を選択します。
+1. [レポート時間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 枠を変更し、「レポート」 **** タブをクリックします。
 1. そこだ！ 次に、レポートを調べて、電子メールのパフォーマンスを確認します。
 
    >[!NOTE]
@@ -32,9 +32,9 @@ ht-degree: 0%
    >[!NOTE]
    >
    >
-   >電子メールのパフォーマンスレポートには、電子メールの送信後に削除されたユーザーを含む、すべてのユーザーのアクティビティが含まれます。 場合によっては、アクティブなユーザーのアクティビティのみを表示したい場合があります。 その場合は、削除したユーザーをレポートから除外する必要があります。 「 **スマートリスト** 」タブを使用して、レポートのスマートリスト [を](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 作成します。 特定のフィールドに対してフィルタを適用しない場合は、電子メールアドレスフィルタを次のように設定します。 **は空ではありません**。
+   >電子メールのパフォーマンスレポートには、電子メールの送信後に削除されたユーザーを含む、すべてのユーザーのアクティビティが含まれます。 場合によっては、アクティブなユーザーのアクティビティのみを表示したい場合があります。 その場合は、削除したユーザーをレポートから除外する必要があります。 **スマートリスト**&#x200B;タブを使用して、[レポート用のスマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成します。 特定のフィールドに対してフィルタを適用しない場合は、電子メールアドレスフィルタを次のように設定します。**が空ではありません**。
 
-   [電子メールパフォーマンスレポートのレポート列を選択します](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 。次に例を示します。
+   [電子メールパフォーマンスレポートのレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 列を選択します。次に例を示します。
 
    | 列 | 説明 |
    |---|---|
@@ -42,7 +42,7 @@ ht-degree: 0%
    | ソフトバウンス | サーバーがダウンしているか、受信トレイがいっぱいであるなど、一時的な状態が原因で電子メールが拒否されました。 |
    | 保留中 | この数は、送信された電子メールの合計数から、配信済み、バウンス済み、ソフトバウンスの各電子メールの数を引いて計算されます。 |
    | クリックされたリンク | 電子メール内のリンクをクリックした電子メール受信者の数。 |
-   | 登録解除 | 電子メール内の「 **登録解除** 」リンクをクリックし、フォームに入力した電子メール受信者の数です。 |
+   | 登録解除 | 電子メール内の&#x200B;**購読解除**&#x200B;リンクをクリックし、フォームに入力した電子メール受信者の数です。 |
 
    >[!NOTE]
    >
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 * **規則2**:電子メールレコードに「 *開封済み*」と表示されている場合は *、「*&#x200B;配信済み」とカウントされます。
 
-* **規則3**:電子メールレコードに「 *Clicked Email* 」または「 *Unsubscribed*」と表示される場合 *は、「Delivered* Email and ** Opened」とカウントされます。
+* **規則3**:電子メールレコードに *「* クリックされた電子メール *」または「登録解除*&#x200B;済み ** 」と表示される場合は、「配信済みで *開いています*」とカウントされます。
 
-* **規則4**:電子メールが「 *開く*」の場合、バウンスは無視されます。 電子メールが開かれていない場合、 *ハードバウンス* ( *ハードバウンス* )は「 *ソフトバウンス*」(Soft Bounced)および「配信済み」(Delived)よりも優先されます。
+* **規則4**:電子メールが「 *開く*」の場合、バウンスは無視されます。電子メールが開かれていない場合は、*ハードバウンス*&#x200B;が&#x200B;*ソフトバウンス*&#x200B;および&#x200B;*配信済み*&#x200B;より優先されます。
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->詳しくは、 [基本レポートを参照してください](http://docs.marketo.com/display/docs/basic+reporting)。
+>詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
