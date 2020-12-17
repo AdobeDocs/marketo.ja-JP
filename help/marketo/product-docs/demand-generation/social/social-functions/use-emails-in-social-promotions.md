@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# Social Promotionでの電子メールの使用 {#use-emails-in-social-promotions}
+# ソーシャルプロモーションでの電子メールの使用{#use-emails-in-social-promotions}
 
-リフ [ァラルオファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 、 [懸賞を作成する場合](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)、登録時に送信する電子メールを含めたり、受賞時に再送信したりできます。
+[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成する場合、登録時に送信する電子メールを含め、報酬を受け取ったときに再び送信する電子メールを含めることができます。
 
 >[!TIP]
 >
->電子メールの作成については、「電子メール送信 [](../../../../getting-started/quick-wins/send-an-email.md)」を参照してください。
+>電子メールの作成については、[電子メール送信](../../../../getting-started/quick-wins/send-an-email.md)を参照してください。
 
 電子メールでは、次のトークンを使用します。
 
-* **入会用電子メール**:各参加者 **`{{social.Share Url}}`** に対してパーソナライズされた共有リンクを送信する場合に使用します。
+* **入会用電子メール**:各参加者 **`{{social.Share Url}}`** に対してパーソナライズされた共有リンクを送信するために使用します。
 
 * **購読提供数の電子メール**:各推奨結果 **`{{social.Promo Code}}`** にプロ [モーションコードを送信する場合に使用します](use-promo-codes-for-offer-fulfillment.md)。
 
 >[!PREREQUISITES]
 >
->Socialアプリに電子メールを追加する前に、電子メールが *操作可能で* 、 *承認されている必要があります*。 「電子メールの設定の [編集](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」を参照してください。
+>Socialアプリに電子メールを追加する前に、*operational*&#x200B;および&#x200B;*approved*&#x200B;にする必要があります。 「[電子メールの設定の編集](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」を参照してください。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
-1. アプリを選択し、「ドラフトを **編集**」をクリックします。
+1. アプリを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Socialアプリエディターで、 **アプリ設定/オファーの詳細** (または「 **懸賞の詳細**」)に移動します。
+1. Social App Editorで、**アプリの設定/オファーの詳細**（または&#x200B;**懸賞の詳細**）に移動します。
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->懸賞では、勝者を [選択した場合、受賞者の電子メールが常に自動的に送信されます](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)。
+>懸賞では、勝者](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)を[選択したときに、購読提供数の電子メールが常に自動的に送信されます。
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ ht-degree: 0%
 >
 >**関連記事**
 >
->次に、共有URL [を選択するか](choose-the-share-url-for-a-social-app.md) 、参照オファーで送信するプロモーションコードを [アップロードします](use-promo-codes-for-offer-fulfillment.md) 。
+>次に、[共有URL](choose-the-share-url-for-a-social-app.md)を選択するか、参照オファーで送信するプロモーションコード](use-promo-codes-for-offer-fulfillment.md)を[アップロードします。
 
