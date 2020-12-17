@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# リストまたはスマートリストのコピー {#clone-a-list-or-smart-list}
+# リストまたはスマートリストのコピー{#clone-a-list-or-smart-list}
 
 スマートリストを一から作成する代わりに、同様の画像をコピーして変更を加えることで、時間を節約できます。 これが方法です。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/smartlist-find.png)
 
-1. 「 **リストの操作**」で、「スマートリストを **コピー**」をクリックします。
+1. 「**リストアクション**」で、「**スマートリストのコピー**」をクリックします。
 
    ![](assets/clonesmartlist-hands.png)
 
-1. **名前を入力し** 、「 **クローン**」をクリックします。
+1. **名前**&#x200B;を入力し、**クローン**&#x200B;をクリックします。
 
    ![](assets/supersmartlist-clonewindow.png)
 
