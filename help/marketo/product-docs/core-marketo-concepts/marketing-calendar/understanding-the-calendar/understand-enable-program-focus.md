@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# プログラムフォーカスの把握/有効化 {#understand-enable-program-focus}
+# プログラムフォーカスを理解/有効にする{#understand-enable-program-focus}
 
-マーケティングカレンダーでは、物事の表示を簡単に把握できますが、操作もいくつか可能です。 エントリの [作成](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、 [編集](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、 [削除](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)および [](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) 確認を行うことができます。 エントリを操作するには、まずプログラムに焦点を合わせる必要があります。
+マーケティングカレンダーでは、物事の表示を簡単に把握できますが、操作もいくつか可能です。 [create](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)、[edit](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)、[delete](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)、[confirm](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)の各エントリを&lt;a0/>作成し、&lt;a2/>編集します。 エントリを操作するには、まずプログラムに焦点を合わせる必要があります。
 
-1. 「 **マーケティング****カレンダー**」に移動します。
+1. **マーケティング** **カレンダー**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. エントリを選択し、「プログラムフォーカスを **表示**」をクリックします。
+1. エントリを選択し、「**プログラムフォーカスを表示**」をクリックします。
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
