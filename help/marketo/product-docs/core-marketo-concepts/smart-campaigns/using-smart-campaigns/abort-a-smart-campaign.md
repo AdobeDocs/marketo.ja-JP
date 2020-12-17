@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンの中止 {#abort-a-smart-campaign}
+# スマートキャンペーンの中止{#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 時には、スマートキャンペーンを起動して、それが誤りだとすぐに気付くことがあります。 緊急ブレーキを引き、スマートキャンペーンを中間作動で停止する方法を次に示します。
 
-1. 「 **マーケティングアクティビティ**」で、スマートキャンペーンを選択し、「 **スケジュール** 」タブに移動します。
+1. 「**マーケティングアクティビティ**」で、スマートキャンペーンを選択し、「**スケジュール**」タブに移動します。
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. 「**キャンペーンアクション**」ドロップダウンをクリックします。 「 **キャンペーンを中止**」を選択します。
+1. 「**キャンペーンアクション**」ドロップダウンをクリックします。 「**キャンペーンを中止**」を選択します。
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. 「 **中止** 」をクリックして確定します。
+1. 「**中止**」をクリックして確定します。
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >スマートキャンペーンの「 **結果** 」タブを調べて、中止の前に実行されたアクションを確認します。 また、 [通知に追加の詳細情報が表示されます](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 。
+   >スマートキャンペーンの「**結果**」タブを調べて、中止の前に行われたアクションを確認します。 また、詳細を含む[通知](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も見つかります。
 
    >[!TIP]
    >
-   >トリガーキャンペーンのフローから人を削除しますか？ Remove from Flowをチェックアウト [します](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)。
+   >トリガーキャンペーンのフローから人を削除しますか？ [Remove from Flow](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)をチェックアウトします。
 
 常に重複チェックをしてくださいが、この緊急ブレーキは将来役に立つかもしれません。
