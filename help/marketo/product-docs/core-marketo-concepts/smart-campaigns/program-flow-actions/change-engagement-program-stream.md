@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# エンゲージメントプログラムストリームの変更 {#change-engagement-program-stream}
+# エンゲージメントプログラムストリームの変更{#change-engagement-program-stream}
 
-## 概要 {#overview}
+## 概要{#overview}
 
-通常は、 [ストリームトランジションルールを使用してこれを達成しますが](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 、あるストリームから別のストリームに人を手動で移動する場合は、これが使用するフローステップです。
+通常は、[ストリームトランジションルール](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)を使用してこれを達成しますが、あるストリームから別のストリームに人々を手動で移動する場合は、これが使用するフローステップです。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. 個人の移動先のアクションプログラムを選択します。
 
