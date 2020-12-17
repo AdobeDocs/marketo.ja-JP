@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# アクションダッシュボード {#the-engagement-dashboard}
+# アクションダッシュボード{#the-engagement-dashboard}
 
-エンゲージメントダッシュボードは、エンゲージメントプログラムのコンテンツがどのように [実行されているかを確認する最も簡単な方法](http://docs.marketo.com/display/docs/drip+nurturing) です。
+アクションダッシュボードは、[アクションプログラム](http://docs.marketo.com/display/docs/drip+nurturing)のコンテンツがどのように実行されているかを確認する最も簡単な方法です。
 
 >[!NOTE]
 >
->エンゲージメントスコアは、キャストが行われるたびに72時間後に計算されます。 エン [ゲージメントスコアの詳細を表示します](understanding-the-engagement-score.md)。
+>エンゲージメントスコアは、キャストが行われるたびに72時間後に計算されます。 [エンゲージメントスコア](understanding-the-engagement-score.md)の詳細を表示します。
 
-## 表示ダッシュボード {#view-the-engagement-dashboard}
+## エンゲージメントダッシュボードの表示{#view-the-engagement-dashboard}
 
-エンゲージメントのプログラムを選択し、 **表示/ダッシュボード**&#x200B;をクリックします。
+エンゲージメントプログラムを選択し、**表示/ダッシュボード**&#x200B;をクリックします。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->詳細な統計については、 [エンゲージメントストリームのパフォーマンスレポート](engagement-stream-performance-report.md) を確認してください。
+>詳細な統計については、[エンゲージメントストリームのパフォーマンスレポート](engagement-stream-performance-report.md)を参照してください。
 
-## 消耗ウィジェットを理解する {#understand-the-exhaustion-widget}
+## 消耗ウィジェットを理解する{#understand-the-exhaustion-widget}
 
 このウィジェットは、リードがすべてのコンテンツを使い果たすタイミングを予測するのに役立ちます。 消耗スコアは、各キャストの直後に計算されます。 次の例は、1キャストでは、195リードがすべてのコンテンツを使い果たすことを示しています。
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->上のグラフを表示するには、「設定」タブに移動し、「使い果たされたコンテンツ通知 **がオンになっている** 」を確認する必要があります。 オフの場合、グラフの表示が異なります。
+>上のグラフを表示するには、「設定」タブに移動し、「使い果たされたコンテンツ通知」が&#x200B;**On**&#x200B;であることを確認する必要があります。 オフの場合、グラフの表示が異なります。
 
 >[!CAUTION]
 >
 >「疲れ果てた」人は、次のキャストではコミュニケーションを受け取りません。
 
-## エンゲージメントを長期にわたって理解するウィジェット {#understand-the-engagement-over-time-widget}
+## エンゲージメントを時系列で把握ウィジェット{#understand-the-engagement-over-time-widget}
 
 時間の経過に伴う平均エンゲージメントスコアと、コンテンツ編集の影響を表示します。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## 最も高いエンゲージメントウィジェットを理解する {#understand-the-highest-engagement-widget}
+## 最高のエンゲージメントウィジェットを理解する{#understand-the-highest-engagement-widget}
 
 エンゲージメントスコアが最も高い順に並べられた、すべてのコンテンツのリスト。
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*「新しい* 」と「 ** 古い」は、最後の承認時刻に基づきます。
+** Newestand **  Oldestareは、前回の承認時刻に基づきます。
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->詳しくは、「エンゲージメントプログラムの [作成](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 」を参照してください。
+>詳しくは、[エンゲージメントプログラム](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)の深い解説を参照してください。
 
