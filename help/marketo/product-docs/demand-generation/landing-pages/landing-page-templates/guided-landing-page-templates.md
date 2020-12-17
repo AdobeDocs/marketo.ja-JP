@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# ガイド付きランディングページテンプレート {#guided-landing-page-templates}
+# ガイド付きランディングページテンプレート{#guided-landing-page-templates}
 
-ガイド付きランディングページエディターで使用できるサンプルテンプレートを参照して [ください](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 各テンプレートは完全にレスポンシブで、Bootstrapフレームワークに基づいています。
+[ガイド付きランディングページエディター](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートを参照してください。 各テンプレートは完全にレスポンシブで、Bootstrapフレームワークに基づいています。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 大きい表示を表示するには、テンプレート名をクリックします。
 1. 選択したテンプレートをダウンロードします。
-1. Marketoで、 **Design Studioに移動します。**
-1. 左側のツリーで **ランディングページ** (Templates **)をクリックし、「Templates」を選択します。**
+1. Marketoで、**Design Studioに移動します。**
+1. 左側のツリーで&#x200B;**ランディングページ**&#x200B;をクリックし、**テンプレートを選択します。**
 
-1. メニューバーで「 **インポートテンプレート」をクリックします。**
-1. ダウンロードしたファイルを選択し、テンプレート名を入力して「 **読み込み** 」をクリックします(わかりやすい名前を選択し、編集モードが **Guided**（ガイド付き）であることを示します)。
+1. メニューバーで「**インポートテンプレート」をクリックします。**
+1. ダウンロードしたファイルを選択し、テンプレート名を入力して、「**読み込み**」をクリックします（わかりやすい名前を必ず選択し、編集モードが&#x200B;**ガイド付き**&#x200B;であることを示します）。
 
 |  |  |  |
 |---|---|---|
@@ -75,7 +75,7 @@ ht-degree: 0%
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [テンプレート12 ～ F](guided-landing-page-templates/template-12-f.md) | [テンプレート13-A](guided-landing-page-templates/template-13-a.md) | [テンプレート13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [テンプレート13-C](guided-landing-page-templates/template-13-c.md) | [テンプレート13-D](guided-landing-page-templates/template-13-d.md) | [テンプレート13-E](guided-landing-page-templates/template-13-e.md) |
+| [テンプレート13-A](guided-landing-page-templates/template-13-c.md) | [テンプレート13-D](guided-landing-page-templates/template-13-d.md) | [テンプレート13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [テンプレート14-A](guided-landing-page-templates/template-14-a.md) | [テンプレート14-B](guided-landing-page-templates/template-14-b.md) | [テンプレート14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
