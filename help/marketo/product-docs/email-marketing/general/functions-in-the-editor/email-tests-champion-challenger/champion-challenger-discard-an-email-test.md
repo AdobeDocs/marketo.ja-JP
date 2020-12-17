@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# チャンピオン/チャレンジャー：電子メールテストの破棄 {#champion-challenger-discard-an-email-test}
+# チャンピオン/チャレンジャー：電子メールテストの破棄{#champion-challenger-discard-an-email-test}
 
 電子メールテストの実行を継続しないと判断した場合は、いつでも破棄できます。 これが方法です。
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 電子メールテストを見つけて右クリックし、「 **Discard Test**」をクリックします。
+1. 電子メールテストを見つけて右クリックし、[**テストを破棄**]をクリックします。
 
    ![](assets/champion5.jpg)
 
-1. 「 **削除** 」をクリックして確定します。
+1. 「**削除**」をクリックして確認します。
 
    ` ![](assets/image2014-9-15-14-3a17-3a11.png)
 
    `
 
-   終わった！ テストを再度設定する場合は、先に進み、電子メールチャンピオン/チャレンジャーを [追加します](add-an-email-champion-challenger.md)。
+   終わった！ テストを再度設定する場合は、[電子メールチャンピオン/挑戦者](add-an-email-champion-challenger.md)を追加してください。
 
