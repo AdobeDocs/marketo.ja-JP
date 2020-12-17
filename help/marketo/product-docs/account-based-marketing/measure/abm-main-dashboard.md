@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ABMメインダッシュボード {#abm-main-dashboard}
+# ABMメインダッシュボード{#abm-main-dashboard}
 
 メインダッシュボードは、アカウントベースのマーケティング活動の概要を提供します。 成功を示しているターゲットアカウントやアカウントリスト、さらに注意を必要とするアカウント情報を確認できます。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-[ [アカウントリスト]ダッシュボードを表示するには](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)、選択したアカウントリストの名前をクリックします。
+[アカウントリストダッシュボード](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)を表示するには、選択したアカウントリストの名前をクリックします。
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-名前付きのアカウントにドリルダウンするアカウントリストダッシュボードを表示する代わりに、名前の下にある「 **詳細** 」をクリックします。
+名前付きのアカウントにドリルダウンするアカウントリストダッシュボードを表示する代わりに、名前の下にある&#x200B;**詳細**&#x200B;をクリックします。
 
 ![](assets/six.png)
 
-...および [指定されたアカウントのインサイトを表示します](http://docs.marketo.com/display/DOCS/Named+Account+Insights)。
+...[名前付きアカウントのインサイト](http://docs.marketo.com/display/DOCS/Named+Account+Insights)を表示します。
 
 ![](assets/seven.png)
 
