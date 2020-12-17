@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# On24アダプタイベントについて {#understanding-marketo-on-adapter-events}
+# Marketo On24アダプタイベントについて{#understanding-marketo-on-adapter-events}
 
 ON24のウェビナーがMarketoに接続されていない場合は、既にMarketoに登録されている出席者の情報を取得し、ON24に入力する必要があります。 ウェビナーの終了後、既にON24にある出席情報を取得し、Marketoに再入力する必要があります。
 
@@ -23,7 +23,7 @@ ON24アダプタは、すべての情報転送を自動的に行います。 Mar
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-始める準備は？ ON24アダプタを使用したイベントの [作成に関する開始](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)。
+始める準備は？ [ON24アダプタ](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)で開始を作成します。
 
 >[!MORELIKETHIS]
 >
