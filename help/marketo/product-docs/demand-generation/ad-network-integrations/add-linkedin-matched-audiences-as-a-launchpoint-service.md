@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# LinkedInがLaunchPointサ追加ービスとして一致したオーディエンス{#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
@@ -19,39 +19,39 @@ ht-degree: 0%
 
 Marketoの静的なリストまたはスマートリストをLinkedInのオーディエンスセグメントとして使用するには、MarketoのアカウントをLinkedInの一致するオーディエンスと接続します。
 
-1. 「 **管理者** 」セクションに移動します。
+1. **管理者**&#x200B;セクションに移動します。
 
    ![](assets/admin.png)
 
-1. 「 **Launchpoint**」を選択します。
+1. 「**起動ポイント**」を選択します。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 「 **New** and **New Service**」を選択します。
+1. 「**新規**」と「**新しいサービス**」を選択します。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 「 **表示名」を入力**&#x200B;し、「一致したオーディエンス&#x200B;**」を選択します**。 「 **作成**」をクリックします。
+1. **表示名**&#x200B;を入力し、「**一致するオーディエンス**」を選択します。 「**作成**」をクリックします。
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. LinkedInアカウントに接続するには、「 **認証**」をクリックします。
+1. LinkedInアカウントを接続するには、「**許可**」をクリックします。
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Marketorが複数のLinkedIn広告アカウントでオーディエンスを送信するためには、次の手順で承認するLinkedInユーザーは、キャンペーンマネージャーでこれらの *すべての広告アカウントにアクセスする必要があります* 。
+   >Marketorが複数のLinkedIn広告アカウントでオーディエンスを送信するには、次の手順で承認するLinkedInユーザーは、キャンペーンマネージャーでこれらの広告アカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
 
 1. LinkedInが新しいタブで開きます。 ここから、LinkedInアカウントにログインします。
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 必要な権限を確認し、「 **許可**」をクリックします。
+1. 要求された権限を確認し、「**許可**」をクリックします。
 
    ![](assets/li-permissions.png)
 
-1. LinkedInアカウントがMarketoに接続されました。 「 **作成**」をクリックします。
+1. LinkedInアカウントがMarketoに接続されました。 「**作成**」をクリックします。
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
