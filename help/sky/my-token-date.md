@@ -16,10 +16,10 @@ ht-degree: 0%
 
 プログラムーとキャンペーンーフォルダーで使用する日付トークンの設定方法を次に示します。
 
-1. プログラムーまたはフォルダーの「 [!UICONTROL マイトークン] 」タブで、「 **[!UICONTROL 日付]** 」トークンを「ロー [!UICONTROL カルトークン] 」キャンバスにドラッグします。
+1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**[!UICONTROL 日付]**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
    ![イメージ1](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. 日付トークンの名前を入力し、カレンダーから日付を選択します。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 日付トークンの名前を入力し、カレンダーから日付を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
