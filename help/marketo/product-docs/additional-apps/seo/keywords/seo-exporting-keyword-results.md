@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO — キーワード結果のエクスポート {#seo-exporting-keyword-results}
+# SEO — キーワード結果のエクスポート{#seo-exporting-keyword-results}
 
 キーワードの結果を書き出して、チームと共有したり、レポートを作成したりできます。
 
-1. 「 **キーワード** 」セクションに移動します。
+1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
