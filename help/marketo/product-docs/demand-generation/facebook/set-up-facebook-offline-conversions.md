@@ -11,46 +11,46 @@ ht-degree: 0%
 ---
 
 
-# Facebookオフラインコンバージョンの設定 {#set-up-facebook-offline-conversions}
+# Facebookオフラインコンバージョンの設定{#set-up-facebook-offline-conversions}
 
 リード広告を通じて作成された人のオフラインコンバージョンデータをFacebookに送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。 設定方法を次に示します。
 
 >[!PREREQUISITES]
 >
->* Facebookのリード広告を [設定する必要があります](set-up-facebook-lead-ads.md)。
->* [売上高サイクルモデラーで承認済みのモデルが必要です](http://docs.marketo.com/display/docs/revenue+cycle+models)。
+>* [Facebookリード広告](set-up-facebook-lead-ads.md)を設定する必要があります。
+>* [売上高サイクルモデル](http://docs.marketo.com/display/docs/revenue+cycle+models)に承認済みのモデルが必要です。
 
 >
 
 
 
-## 管理設定 {#admin-configuration}
+## 管理構成{#admin-configuration}
 
-1. 「マーケティング **管理者**」に移動します。
+1. Marketo **管理者**&#x200B;に移動します。
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. LaunchPointに移動し、 **重複クリックして** 、以前に作成したFacebookリード広告サービスを表示します。
+1. **LaunchPoint**&#x200B;に移動し、前に作成したFacebookリード広告サービスを重複クリックします。
 
    >[!NOTE]
    >
-   >まだ設定していない場合は、「Facebookリード広告の [設定](set-up-facebook-lead-ads.md)」に進み、ここに戻ってください。
+   >まだ実行していない場合は、[Facebookリード広告の設定](set-up-facebook-lead-ads.md)を行ってから、ここに戻ってください。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 必要に応じて、「 **表示名** 」を編集し、オフラインコンバージョンを含めます。 「 **次へ**」をクリックします。
+1. 必要に応じて、**表示名**&#x200B;を編集し、オフラインコンバージョンを含めます。 「**次へ**」をクリックします。
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. 「オフラインコンバージョンを **有効にする** 」をオンにし、「 **次へ**」をクリックします。
+1. 「**オフライン変換を有効にする**」をオンにし、「**次へ**」をクリックします。
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. 「 **次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
@@ -58,13 +58,13 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## 売上高サイクルモデラーの構成 {#revenue-cycle-modeler-configuration}
+## Revenue Cycle Modeler Configuration {#revenue-cycle-modeler-configuration}
 
-1. 「 **Analytics**」に移動します。
+1. **Analytics**&#x200B;に移動します。
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. モデルを選択し、「ドラフトを **編集**」をクリックします。
+1. モデルを選択し、**ドラフトを編集**&#x200B;をクリックします。
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
    >    * コンテンツ表示
 
 
-1. マッピングするステージを選択し、「 **Facebookコンバージョン** 」ドロップダウンから、マッピング先のFacebookイベントを選択します。 この手順を繰り返して、RCMのすべてのステージをFacebookのオフラインコンバージョンステージにマッピングします。
+1. マッピングするステージを選択し、**Facebookコンバージョン**&#x200B;ドロップダウンから、マッピング先のFacebookイベントを選択します。 この手順を繰り返して、RCMのすべてのステージをFacebookのオフラインコンバージョンステージにマッピングします。
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Facebookアカウントを確認し、すべての [広告が「マーケティング先オフラインコンバージョン](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) 」イベントセットに関連付けられていることを確認します。 そうでない場合、広告のアトリビューションは機能しない可能性があります。
+   >Facebookアカウントを確認し、すべての[広告が](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer)マーケティング対象のオフラインコンバージョンイベントセットに関連付けられていることを確認します。 そうでない場合、広告のアトリビューションは機能しない可能性があります。
 
    >[!NOTE]
    >
