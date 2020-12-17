@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics同期フィルタ：条件を満たす {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics同期フィルタ：{#microsoft-dynamics-sync-filter-qualify}に適合
 
 Microsoft Dynamicsでリードを連絡先に変換する場合は、この既定の「限定処理」を必ず使用してください。 その後、Marketoと同期します。
 
-## コンバージョンプロセス {#the-conversion-process}
+## 変換プロセス{#the-conversion-process}
 
 変換プロセス中のフィルターの動作は次のとおりです。
 
