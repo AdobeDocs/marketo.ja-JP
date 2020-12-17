@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# イベントカードについて {#understanding-event-cards}
+# イベントカードについて{#understanding-event-cards}
 
 「Marketing Moments」を使用して、携帯電話やiPadでイベントプログラムを表示します。
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` 電子メールプログラムカードをタップすると、次のことができます。
