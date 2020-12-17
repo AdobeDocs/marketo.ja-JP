@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# カスタムロジックを使用した重複ユーザーの検索 {#find-duplicate-people-with-custom-logic}
+# カスタムロジックを使用した重複人物の検索{#find-duplicate-people-with-custom-logic}
 
 Marketoには、重複の電子メールアドレスを一致させて、ユーザーを見つけるシステムスマートリストがあります。 別のフィールドを使用して重複を検索する場合は、次のようにします。
 
