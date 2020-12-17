@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# スマ追加ートキャンペーンへのフローステップ {#add-a-flow-step-to-a-smart-campaign}
+# ス追加マートキャンペーンへのフローステップ{#add-a-flow-step-to-a-smart-campaign}
 
 フローステップは、資格を得たグループに何を起こしたいかをマーケティング担当者に伝えます。 彼らはあなたの指示で、賢いキャンペーンはあなたの指示を守る！
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. スマートキャンペーンを選択し、「 **フロー**」をクリックします。
+1. スマートキャンペーンを選択し、「**フロー**」をクリックします。
 
 ![](assets/image2014-9-19-16-3a27-3a1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >**ディープダイブ**
 >
 >
->様々なフ [ローステップの詳細](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+>様々な[フローステップ](http://docs.marketo.com/display/DOCS/Flow+Actions)の詳細を表示します。
 
 1. ドロップダウンをクリックし、適切なオプションを選択します。
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >フローステップは、表示された順序で実行されます。  [フローステップの順序を変更し](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) 、正しい順序になっていることを確認します。
+   >フローステップは、表示された順序で実行されます。  [フロー](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) ステップの順序を変更し、正しい順序になっていることを確認します。
 
    >[!TIP]
    >
