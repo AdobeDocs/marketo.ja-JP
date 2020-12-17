@@ -24,14 +24,14 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-「 **[!UICONTROL スケジュール]** 」タブをクリックすると、スマートキャンペーンが「バッチ」に設定されていることが確認されます。
+「**[!UICONTROL スケジュール]**」タブをクリックすると、スマートキャンペーンが「バッチ」に設定されていることが確認されます。
 
 ![イメージ2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **バッチスマートキャンペーン**
 
 * 毎日、毎週、毎月など、繰り返しのスケジュールを設定できます。 1回だけ実行させることもできます。
-* は、 [プログラムスケジュール表示に表示されます](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)。
+* [プログラムスケジュール表示](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)に表示されます。
 * スマートキャンペーン内の「待機」ステップの後にある項目は、表示に含まれません。
 
 ## スマートキャンペーンのトリガー
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 ![イメージ3](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-「 **[!UICONTROL スケジュール]** 」タブをクリックすると、スマートキャンペーンが「トリガー」に設定されていることが確認されます。
+「**[!UICONTROL スケジュール]**」タブをクリックすると、スマートキャンペーンが「トリガー」に設定されていることが確認されます。
 
 ![画像4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **スマートキャンペーンのトリガー**
 
 * 繰り返しのスケジュールは設定できません。 アクティブまたは非アクティブに設定することのみ可能です。
-* 複数のトリガーを設定できます。 ただし、 _トリガーが発生した場合_ 、キャンペーンアクションが実行されます。
+* 複数のトリガーを設定できます。 ただし、_任意の_&#x200B;トリガが起動された場合、キャンペーンアクションが実行されます。
 
 >[!TIP]
 >
->[アクティビティログを使用して](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) 、スマートキャンペーン内で何が順を追って発生したかを確認します。 アクティビティログは、ユーザーの詳細ページの最後のタブに表示されます。
+>[アクティビティログ](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person)を使用して、スマートキャンペーン内で何が順を追って発生したかを確認します。 アクティビティログは、ユーザーの詳細ページの最後のタブに表示されます。
