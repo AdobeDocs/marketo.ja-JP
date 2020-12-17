@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# キャンペーン同期の有効化/無効化 {#enable-disable-campaign-sync}
+# キャンペーン同期を有効/無効{#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 このオプションを使用すると、MarketingはプログラムのメンバーシップとステータスをSalesforceキャンペーンと同期でき、逆も同期できます。
 
-1. 「**Admin, **」に移動し、「 **Salesforce」をクリックします。**
+1. **管理者に移動し、**[**Salesforce]をクリックします。**
 
    ** ![](assets/image2014-12-9-13-3a36-3a49.png)
 
    **
 
-1. 「 **同期設定を編集**」をクリックします。
+1. 「**同期設定を編集**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 「 **Enable Salesforceキャンペーンの同期** 」をオンにし、「 **保存**」をクリックします。
+1. **Salesforceキャンペーン同期を有効にする**&#x200B;をチェックし、**保存**&#x200B;をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
