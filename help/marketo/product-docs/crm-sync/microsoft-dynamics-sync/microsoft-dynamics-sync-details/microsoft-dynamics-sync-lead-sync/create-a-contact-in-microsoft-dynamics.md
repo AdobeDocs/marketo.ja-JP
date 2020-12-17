@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamicsで連絡先を作成する {#create-a-contact-in-microsoft-dynamics}
+# Microsoft Dynamicsで連絡先を作成する{#create-a-contact-in-microsoft-dynamics}
 
 1. Dynamicsで連絡先として作成する、マーケティング担当者のみを選択します（Microsoftの種類が空です）。
 
    ![](assets/one.png)
 
-1. 「 **個人アクション」**&#x200B;と「Microsoft」をクリックし&#x200B;**、** 「個人をMicrosoftに ****&#x200B;同期」を選択します。
+1. 「**個人アクション**」および「**Microsoft,**」をクリックし、「**個人をMicrosoftに同期**」を選択します。
 
    ![](assets/two.png)
 
-1. 「 **同期名** 」をクリックし、「 **連絡先**」を選択します。 「今すぐ **実行**」をクリックします。
+1. 「**同期名**」をクリックし、「**連絡先**」を選択します。 「**今すぐ実行**」をクリックします。
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. スマートキャンペーンフィルターで同期制約を使用する場合は、 **連絡先** (Contact)を選択できるようになりました。
+1. 今後は、スマートキャンペーンフィルターで同期制約を使用する際に、「**連絡先**」を選択できます。
 
    ![](assets/five.png)
 
