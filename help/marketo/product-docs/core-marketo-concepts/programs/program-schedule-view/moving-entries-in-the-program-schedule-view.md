@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのエントリの移動 {#moving-entries-in-the-program-schedule-view}
+# プログラムスケジュール表示内のエントリの移動{#moving-entries-in-the-program-schedule-view}
 
 スケジュール表示内のエントリを移動すると、自動的に再スケジュールされます。
 
