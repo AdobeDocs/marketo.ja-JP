@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックし、「 **[!UICONTROL Set Cadence]**」をクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックし、「**[!UICONTROL Set Cadence]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. カデンスを繰り返す頻度を選択します。 「 **[!UICONTROL 週別]**」、「 **[!UICONTROL 月別]**」または「なし」を選択できます ****。
+1. カデンスを繰り返す頻度を選択します。 **[!UICONTROL 週別]**、**[!UICONTROL 月別]**、**[!UICONTROL なし]**&#x200B;のいずれかを選択できます。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 毎週
 
-1. 「 **[!UICONTROL 毎週]**」を選択します。
+1. 「**[!UICONTROL 週単位]**」を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >「 **[!UICONTROL 繰り返し」を選択して、カデンスを毎日実行するように設定できます。毎週]** / **[!UICONTROL 毎：1週間]** / **[!UICONTROL 日：]** 何日も。
+   >**[!UICONTROL 繰り返しを選択すると、毎日カデンスを実行するように設定できます。毎週]** / **[!UICONTROL 間隔：1週間]** / **[!UICONTROL 日付：]**&#x200B;終日。
 
-1. 次に、時間を選択します。 [ [受信者タイムゾーン](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) （ローカルタイムゾーンに従って配信するなど）]を使用する場合は、該当するチェックボックスをオンにし、[ **[!UICONTROL 保存]**]をクリックします。
+1. 次に、時間を選択します。 [受信者タイムゾーン](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone)を使用する場合（ローカルタイムゾーンに従って配信する場合）は、このチェックボックスをオンにし、[**[!UICONTROL 保存]**]をクリックします。
 
    ![画像7](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 毎月
 
-1. 繰り返しの頻度 **[!UICONTROL を「月別]** 」に設定します。
+1. **[!UICONTROL 「月別]**」を選択して、繰り返しの頻度を指定します。
 
    ![画像9](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
    >
    >または、曜日を選択することもできます。
 
-1. 「 [!UICONTROL 時間] 」を選択し、「 **[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL 時間]を選択し、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![イメージ13](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
