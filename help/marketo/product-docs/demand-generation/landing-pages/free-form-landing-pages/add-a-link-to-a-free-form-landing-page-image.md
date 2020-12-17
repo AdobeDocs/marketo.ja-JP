@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フリ追加ーフォームのランディングページ画像へのリンク {#add-a-link-to-a-free-form-landing-page-image}
+# フリ追加ーフォームランディングページ画像へのリンク{#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >これはフリーフォームランディングページにのみ適用されます。
 
-1. ランディングページに追加した画像を選択し、 **プロパティシートを展開します。**
+1. ランディングページに追加した画像を選択し、**プロパティシートを展開します。**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 「 **リンクURL」にmailtoリンクを入力します。**
+1. 「**リンクURL」にmailtoリンクを入力します。**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
