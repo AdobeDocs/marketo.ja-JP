@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# カスタムアクティビティフィ追加ールドに対するマーケティングの編集/削除 {#add-edit-delete-marketo-custom-activity-fields}
+# 追加/Edit/Delete Markettoカスタムアクティビティフィールド{#add-edit-delete-marketo-custom-activity-fields}
 
 カスタムアクティビティフィールドを追加、変更、または削除する必要がある場合があります。 これが方法です。
 
-## 追加カスタムアクティビティフィールド {#add-a-custom-activity-field}
+## 追加カスタムアクティビティフィールド{#add-a-custom-activity-field}
 
-1. 「マーケティングのカスタムアクティビティ」で、「 **フィールド**」をクリックします。
+1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 「 **新しいフィールド**」をクリックします。
+1. 「**新しいフィールド**」をクリックします。
 
    ![](assets/three-3.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >何を選択すべきか不明な場合 お前を守れ！ この記事では、使用可能なすべてのデータ型を定義 [します](../../../product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >何を選択すべきか不明な場合 お前を守れ！ 使用可能なすべてのデータ型は、[この記事](../../../product-docs/administration/field-management/custom-field-type-glossary.md)で定義されています。
 
-1. フィールドに名前を付けます。 Api名が自動入力されます。 終了したら、「 **保存**」をクリックします。
+1. フィールドに名前を付けます。 Api名が自動入力されます。 終了したら、「**保存**」をクリックします。
 
    ![](assets/five-3.png)
 
    それだ！ 新しいフィールドが追加されました。
 
-## カスタムアクティビティフィールドの編集 {#edit-a-custom-activity-field}
+## カスタムアクティビティフィールドの編集{#edit-a-custom-activity-field}
 
-1. 「マーケティングのカスタムアクティビティ」で、「 **フィールド**」をクリックします。
+1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 編集するフィールドを選択し、 **フィールドアクション** ドロップダウンをクリックして、「フィールドの **編集**」を選択します。
+1. 編集するフィールドを選択し、**フィールドアクション**&#x200B;ドロップダウンをクリックし、**フィールドを編集**&#x200B;を選択します。
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 新しい名前とAPI名を入力し、「 **保存**」をクリックします。
+1. 新しい名前とAPI名を入力し、「**保存**」をクリックします。
 
    ![](assets/ten.png)
 
@@ -79,9 +79,9 @@ ht-degree: 0%
 
 フィールドが編集されました。
 
-## カスタムアクティビティフィールドの削除 {#delete-a-custom-activity-field}
+## カスタムアクティビティフィールドの削除{#delete-a-custom-activity-field}
 
-1. 「マーケティングのカスタムアクティビティ」で、「 **フィールド**」をクリックします。
+1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 削除するフィールドを選択し、 **フィールドアクション** ドロップダウンをクリックして、「フィールドの **削除**」を選択します。
+1. 削除するフィールドを選択し、「**フィールドアクション**」ドロップダウンをクリックし、「**フィールドを削除**」を選択します。
 
    ![](assets/thirteen.png)
 
