@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メールにカレンダーイベント(.ics)を含める {#include-a-calendar-event-ics-in-an-email}
+# 電子メールにカレンダーイベント(.ics)を含める{#include-a-calendar-event-ics-in-an-email}
 
 カレンダーファイルトークンを使用すると、Marketorの電子メールにカレンダーイベント(.ics)リンクを追加できます。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/one-6.png)
 
-1. カレンダーファイルトークンを選択し、「 **挿入**」をクリックします。
+1. カレンダーファイルトークンを選択し、「**挿入**」をクリックします。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
