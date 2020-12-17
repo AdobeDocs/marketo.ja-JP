@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# ソーシャルプロファイルデータの管理 {#manage-social-profile-data}
+# ソーシャルプロファイルデータの管理{#manage-social-profile-data}
 
-誰かがMarketo [Socialアプリを操作したり、ソーシャルネットワークでMarketoフォームに](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)ソーシャルフォームの入力を事前入力することを承認した場合 [](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)、Marketorは、ソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 この情報は、 [個人の詳細ページで表示するか](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)、スマートリストの [カスタム表示の列として追加できます](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)。
+誰かがMarketor [ソーシャルアプリ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)とやり取りするか、ソーシャルネットワークで[ソーシャルフォームの記入](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を事前入力することを承認すると、Marketoはソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 [個人の詳細ページ](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)でこの表示を行うか、スマートリスト](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)のカスタム表示[の列として追加します。
 
 ソーシャルフォームの入力とソーシャルアプリでは、少し異なるフィールドのセットが取り込まれます。以下の各セクションを参照してください。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-## Socialアプリでキャプチャ {#captured-via-social-app}
+## Socialアプリでキャプチャ{#captured-via-social-app}
 
 ネットワークのプライバシー設定とユーザーのプライバシー設定に応じて、次のフィールドが1つ以上取得されます。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >ソーシャルネットワークからの追加情報は、個人が承認されてから約5分後に、個人の詳細ページに表示されます。
 
-## Twitterから： {#from-twitter}
+## Twitterから：{#from-twitter}
 
 * 名（表示名から解析）
 * 姓（表示名から解析）
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >ソーシャルアプリでは、ユーザーの電子メールアドレスは取得されません。
 
-## Facebookから： {#from-facebook}
+## Facebookから：{#from-facebook}
 
 * 名
 * 姓
@@ -52,21 +52,21 @@ ht-degree: 0%
 * 性別
 * ソーシャルリーチ（友達の数）
 
-### ソーシャルフォームの入力を介してキャプチャ {#captured-via-social-form-fill}
+### ソーシャルフォームの入力を介してキャプチャ{#captured-via-social-form-fill}
 
 ネットワークのプライバシー設定とユーザーのプライバシー設定に応じて、次のフィールドが1つ以上取得されます。
 
 >[!CAUTION]
 >
->ソーシャルフォームの入力によって取り込まれたデータは、フォームレベルでこれらのフィールドの更新を [ブロックしない限り、一致するフィールドを上書きします](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)。
+>ソーシャルフォームの入力によって取り込まれたデータは、フォームレベル](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)でこれらのフィールドの更新を[ブロックしない限り、一致するフィールドを上書きします。
 
-## Twitterから： {#from-twitter-1}
+## Twitterから：{#from-twitter-1}
 
 * 名（表示名から解析）
 * 姓（表示名から解析）
 * 電子メール
 
-## Facebookから： {#from-facebook-1}
+## Facebookから：{#from-facebook-1}
 
 * 名
 * 姓
@@ -77,15 +77,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ソーシャルフォームの入力では、ユーザーがフォームに電子メールアドレスを入力した *場合にのみ* 、電子メールアドレスを取り込みます。 電子メールアドレスが必要な場合は、フォームの必須フィールド [にする必要があります](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)。
+>ソーシャルフォームの入力では、ユーザーがフォームに入力した場合に、電子メールアドレス&#x200B;*のみ*&#x200B;を取得します。 電子メールアドレスが必要な場合は、[フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)の必須フィールドにする必要があります。
 
 >[!MORELIKETHIS]
 >
->フォームからこの情報を取り込むには、 [ソーシャルフォームの入力を有効にし](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)ます。
+>フォームからこの情報を取り込むには、[ソーシャルフォームの記入](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を有効にします。
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->フォームの操作について詳しくは、 [Forms](http://docs.marketo.com/display/docs/forms) 詳細レポートを参照してください。
+>フォームの使用に関する詳細は、[Forms](http://docs.marketo.com/display/docs/forms)ディープダイビングを参照してください。
 
