@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# スケジュール表示での新しい電子メールプログラムの作成 {#creating-a-new-email-program-in-the-schedule-view}
+# スケジュール表示での新しい電子メールプログラムの作成{#creating-a-new-email-program-in-the-schedule-view}
 
 プログラムスケジュール表示内から電子メールプログラムを作成できます。 これが方法です。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 名前を入力します。 「 **電子メール****プログラム**」を選択します。
+1. 名前を入力します。 「**電子メール** **プログラム**」を選択します。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [電子メールプログラムを設定し](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 、「プログラムの **承認**」をクリックします。
+1. [電子メール](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) プログラムを設定し、「プログラムの **承認**」をクリックします。
 
    ![](assets/learnaboutthespeaker.png)
 
-   詳細なダッシュボードの他に、スマートなプログラムではなく [電子メールキャンペーンを使用する利点は](http://docs.marketo.com/display/docs/email+programs) 、 [A/Bテストを簡単に実装できることです](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)。 楽しんで！
+   詳細なダッシュボードの他に、スマートキャンペーンの代わりに[電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)を使用する利点は、[A/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を簡単に実装できることです。 楽しんで！
 
