@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2013年9月 {#release-notes-september}
+# リリースノート：2013年9月{#release-notes-september}
 
-9月のリリースには次の機能が含まれています。 機能が利用できるかどうかは、 [Marketor Editionで確認してください](http://docs.marketo.com/display/docs/assets/pricing.php) 。
+9月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
 
-リリース後は、各機能の詳細なナレッジベース記事について、コミュニティの [新しいリリース](release-notes-december-2013.md) タブを必ず調べてください。
+リリース後は、各機能の詳細なナレッジベース記事について、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ず調べてください。
 
 ## 短いURL {#shorter-urls}
 
@@ -29,37 +29,37 @@ Marketoカスタムオブジェクトのデータを使用するか、Velocity�
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## サンプルを送信するための送信テストの変更 {#change-send-test-to-send-sample}
+## 送信テストをサンプル{#change-send-test-to-send-sample}に変更
 
 「テストを送信」アクションの名前を「サンプルを送信」に変更しました。
 
-## サンプル電子メールのパーソナライズした送信 {#personalized-send-sample-email}
+## パーソナライズされた送信サンプル電子メール{#personalized-send-sample-email}
 
 電子メールのサンプルを送信する際、リードの名前を選択して、サンプルの電子メールをパーソナライズできます。
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## GoToWebセミナー用の追加フィールド同期 {#additional-field-sync-for-gotowebinar}
+## GoToWebinar {#additional-field-sync-for-gotowebinar}の追加フィールド同期
 
 Markettoフォームの会社名とジョブタイトルをGoToWebinarと同期できます。 これらの追加フィールドを有効にするには、「イベントパートナー」に移動し、「追加フィールドを有効にする」を選択します。
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## ユーザーログインをSSOのみに制限 {#restrict-user-login-to-sso-only}
+## ユーザーログインをSSOのみに制限{#restrict-user-login-to-sso-only}
 
 通常のログイン画面ではなく、SSO経由でのログインのみをマーケティング購読に許可するように設定します
 
-## アップロードされたファイルのウイルススキャン {#virus-scan-of-uploaded-files}
+## アップロードされたファイルのウイルススキャン{#virus-scan-of-uploaded-files}
 
 Design Studioにアップロードされたファイルがウイルスを含む場合、自動的にスキャンおよびブロックされるようになりました
 
-## Opportunity Influence Analyzer {#export-opportunity-influence-analyzer}
+## オポチュニティ影響分析計{#export-opportunity-influence-analyzer}
 
 これで、Opportunity Influence Analyzer内のデータをExcelにエクスポートできます。 エクスポートされた各Excelファイルには、すべてのリード（オポチュニティにロールを持たないリードも含む）のすべてのマーケティングインタラクションと、アナライザーで選択したアカウントのすべてのオポチュニティが含まれます。 オポチュニティの行が緑色で強調表示されます。 特定のリードやマーケティングアクティビティに焦点を当てる必要がある場合は、Excelのネイティブデータフィルタ機能を使用できます。
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
-## プログラムアトリビューション設定 {#program-attribution-settings}
+## プログラムアトリビューション設定{#program-attribution-settings}
 
 ファーストタッチおよびマルチタッチアトリビューション指標の連絡先とオポチュニティとの関連付け方法は、アカウントベースのアトリビューション機能を含めて、Marketing Cloudで変更できます。 これらの設定は、「プログラムオポチュニティ分析」領域および「オポチュニティ分析」領域のRevenue Explorerレポートのアトリビューション指標に影響します。 これは、プログラムアナライザーのアトリビューション指標にも影響します。
 
@@ -69,12 +69,12 @@ Design Studioにアップロードされたファイルがウイルスを含む�
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## フランス語とドイツ語で利用可能なSales Insight（Salesforceのみ） {#sales-insight-available-in-french-and-german-salesforce-only}
+## フランス語とドイツ語（Salesforceのみ） {#sales-insight-available-in-french-and-german-salesforce-only}
 
 フランス語とドイツ語のセールス担当者が好みの言語でSales Insightのコンテンツを表示できるように、AppExchangeからMarketo Lead ManagementとMarketo Sales Insightの最新バージョンをダウンロードしてください。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Cobaltユーザインターフェース {#cobalt-user-interface}
+## Cobaltユーザーインターフェイス{#cobalt-user-interface}
 
 今後数か月間、新しいテーマがアプリケーションの別の部分に展開されます。 今月は、さらに新しい青いモーダルウィンドウが表示されるかもしれません。
