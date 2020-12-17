@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：リード/連絡先/個人のマージ {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC同期：リード/連絡先/人物のマージ{#sfdc-sync-merging-a-lead-contact-person}
 
 ルールをリストするだけで良い場合もあります。 次に進みます。
 
-* Salesforce ****&#x200B;で2つのリードを結合する場合、通常の同期はMarketoに指示し、リードはMarketoのユーザーとして自動的に結合されます。
-* 2人の人を **Marketo** Suiteに結合すると、Salesforceのリードと同じプロセスが実際に呼び出されます。 引き続き自動的に機能します。
-* リー **ド（人）を連絡先にマージするのも** 、同じように機能します。 両側に1つの接触が生じます。
+* **Salesforce**&#x200B;で2つのリードを結合すると、通常の同期はMarketoに指示し、リードはMarketoの担当者として自動的に結合されます。
+* **Marketo**&#x200B;に2人を結合すると、Salesforceのリードと同じプロセスが実際に呼び出されます。 引き続き自動的に機能します。
+* **リード（人）をコンタクト**&#x200B;に結合するのも同じように動きます。 両側に1つの接触が生じます。
 * 結合時に、デフォルトのスコアが合計されます。
 
 >[!NOTE]
@@ -34,5 +34,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->Deep diveを参照してください [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)。
+>[マーケットの人々を結合する](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)について詳しくは、ディープダイブを参照してください。
 
