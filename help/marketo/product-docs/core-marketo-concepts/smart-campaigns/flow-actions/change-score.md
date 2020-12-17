@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# スコアの変更 {#change-score}
+# スコアの変更{#change-score}
 
-## 概要 {#overview}
+## 概要{#overview}
 
 スコア決定は、販売チームが優先順位を決定するのに役立つ、簡単で強力な人です。
 
 ![](assets/flowstep-changescore.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. 変更するスコアフィールドを選択します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >複数のスコアフィールドを作成できます。 詳しくは、「Marketorでのカスタムフィールドの [作成](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 」を参照してください。
+   >複数のスコアフィールドを作成できます。 詳しくは、「Marketo[でのカスタムフィールドの作成」を参照してください。](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 1. 変更するスコアを入力します。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    変更：
 
-   * **+5で増分**
+   * **+5** で増分
    * **-5** はデクリメントします（負の数を指定できます）
    * **=5** は、正確な数値になる
    * **=-5** は、正の負の数のスコアになります
