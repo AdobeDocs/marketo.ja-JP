@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Facebookリード広告の設定 {#set-up-facebook-lead-ads}
+# Facebookリード広告の設定{#set-up-facebook-lead-ads}
 
-「 [Facebookリード広告](https://www.facebook.com/business/a/lead-ads) 」を使用して、Facebookで広告キャンペーンを実行し、Marketorのリードを生成します。
+[Facebookリード広告](https://www.facebook.com/business/a/lead-ads)を使用して、Facebookで広告キャンペーンを実行し、Marketoのリードを生成します。
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ ht-degree: 0%
 >
 >Facebookのリード広告をインスタンスに追加するには、カスタマーサクセスマネージャーにお問い合わせください。
 
-1. 「マーケティング **管理者**」に移動します。
+1. Marketo **管理者**&#x200B;に移動します。
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. LaunchPointに移動し、「 **新規」をクリックし**、 **「** 新規サービス ****」を選択します。
+1. **LaunchPoint**&#x200B;に移動し、「**新規，**」をクリックして、「**新しいサービス**」を選択します。
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. サービスの **表示名** (Display Name **)を入力し、ドロップダウンから** Facebook Lead Ads **（Facebookリード広告）サービスを選択して、「**&#x200B;作成」をクリックします。
+1. サービスの&#x200B;**表示名**&#x200B;を入力し、ドロップダウンから&#x200B;**Facebookリード広告**&#x200B;サービスを選択して、**作成**&#x200B;をクリックします。
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 同じブラウザーで新しいタブを開き、www.facebook.comに移動し [ます。](http://www.facebook.com.) 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[www.facebook.comに移動します。](http://www.facebook.com.) 統合に使用するアカウントを使用してFacebookにログインします。
 
    >[!NOTE]
    >
@@ -45,19 +45,19 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Facebookにログインした後、Marketorに戻り、「 **認証**」をクリックします。
+1. Facebookにログインした後、Marketoに戻り、「**許可**」をクリックします。
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. 指示に従って「 **OK** 」をクリックし、FacebookへのMarketoアプリケーションのインストールを受け入れます。
+1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを承認します。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. これで認証が完了したことに気づくでしょう。 「 **次へ**」をクリックします。
+1. これで認証が完了したことに気づくでしょう。 「**次へ**」をクリックします。
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. マーケティングでFacebookリード広告の取り込み元となるページを選択し、「 **次へ**」をクリックします。
+1. マーケティングでFacebookリード広告の取り込み元となるページを選択し、**次へ**&#x200B;をクリックします。
 
    >[!TIP]
    >
@@ -65,11 +65,11 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. デフォルトのFacebookとMarketoのフィールドのマッピングを受け入れるには、「 **作成**」をクリックします。
+1. デフォルトのFacebookとMarketoのフィールドマッピングを受け入れるには、「**作成**」をクリックします。
 
    >[!TIP]
    >
-   >マッピングを変更することで、リード広告のデータがMarketoのどこに保存されるかをカスタマイズできます。 また、「Lead Ads Custom Questions [](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)」からデータを取り込むこともできます。
+   >マッピングを変更することで、リード広告のデータがMarketoのどこに保存されるかをカスタマイズできます。 また、[リード広告のカスタム質問](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)からデータを取り込むこともできます。
 
    >[!CAUTION]
    >
