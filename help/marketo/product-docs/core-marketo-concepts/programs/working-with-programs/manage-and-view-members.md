@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# メンバーの管理と表示 {#manage-and-view-members}
+# 管理および表示メンバ{#manage-and-view-members}
 
 「メンバー」タブを使用して、プログラムでメンバーを管理および表示できます。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
-> [プログラムメンバーシップを詳しく調べます](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)。
+> [プログラムメンバーシップ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)を詳しく調べます。
 
-## メンバーの検索 {#search-for-a-member}
+## メンバの検索{#search-for-a-member}
 
 「Members」セクションの下部にある検索フィールドを使用して、名前、電子メール、肩書または会社でプログラムメンバーを検索します。
 
-1. プログラムの「 **メンバ** 」タブをクリックします。
+1. プログラムーの&#x200B;**「Members**」タブをクリックします。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## メンバー・グリッドのエクスポート {#export-the-members-grid}
+## メンバー・グリッドのエクスポート{#export-the-members-grid}
 
 検索フィールドの横にあるExcelアイコンをクリックして、メンバーリストをエクスポートできます。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## メンバー・グリッドの列の管理 {#manage-columns-in-the-members-grid}
+## メンバー・グリッドの列の管理{#manage-columns-in-the-members-grid}
 
 * 列の順序を変更するには、列をドラッグ&amp;ドロップします。 青い矢印のペアは、列の移動先を示します。
 
@@ -49,35 +49,35 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## グリッドに表示する列の選択 {#choose-which-columns-are-visible-in-the-grid}
+## グリッドに表示する列を選択{#choose-which-columns-are-visible-in-the-grid}
 
-1. 「**表示**」ドロップダウンをクリックし、「表示を **作成**」を選択します。
+1. 「**表示**」ドロップダウンをクリックし、「**表示を作成**」を選択します。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. カスタム表示に名前を付けます。 列タイトルを選択します。 「**」 **と「** **」をクリックして、列を移動し、表示を作成します。
+1. カスタム表示に名前を付けます。 列タイトルを選択します。 「** 追加 **」と「**」をクリックし、「**」を削除して列を移動し、表示を作成します。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. 「 **作成**」をクリックします。
+1. 「**作成**」をクリックします。
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## メンバー・グリッドのフィルタ  {#filter-the-members-grid}
+## メンバー・グリッドのフィルタ{#filter-the-members-grid}
 
-1. 「 **フィルター** 」ドロップダウンをクリックし、並べ替えの基準となる進行手順を選択します。
+1. **フィルター**&#x200B;ドロップダウンをクリックし、並べ替えの基準となる進行手順を選択します。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## メンバー・グリッドの個人ステータスの管理 {#manage-person-status-in-the-members-grid}
+## メンバー・グリッドの個人ステータスの管理{#manage-person-status-in-the-members-grid}
 
 メンバーグリッド内でユーザーのステータスを変更できます。
 
-1. Ctrl **またはCommandキーを押しながら** 、ユーザーを選択します。
+1. **Ctrl/Cmd**&#x200B;キーを押しながら人を選択します。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 「ステータス **の変更** 」ドロップダウンをクリックし、ステータスを選択します。
+1. **ステータスの変更**&#x200B;ドロップダウンをクリックし、ステータスを選択します。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
