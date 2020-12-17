@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 電子メールヘッダーの編集 {#edit-your-email-header}
+# 電子メールヘッダーの編集{#edit-your-email-header}
 
 Marketorの電子メールヘッダーは、完全にカスタマイズ可能です。 これは、次の4つのフィールドで構成されます。
 
-* **送信者** — 表示する送信者の名前
-* **送信者のアドレス** — 表示する送信者の電子メールアドレス
-* **返信先** — 人の返信先の電子メールアドレス（「送信者のアドレス」とは異なる場合があります）
-* **件名** — 電子メールの件名行
+* **送信者**  — 表示する送信者の名前
+* **送信者のアドレス**  — 表示する送信者の電子メールアドレス
+* **返信先**  — 返信先の電子メールアドレス（「送信者のアドレス」とは異なる場合があります）
+* **件名**  — 電子メールの件名行
 
 これらの値を編集するには、各フィールドをクリックし、情報を入力します。
 
@@ -26,7 +26,7 @@ Marketorの電子メールヘッダーは、完全にカスタマイズ可能で
 
 >[!TIP]
 >
->デフォルトの「名前から」と「電子メールから」を設定するには、「電子メールからデフォルトを [変更する」と「ラベルからデフォルトを変更する](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)」を参照してください。
+>デフォルトの「From Name」と「From Email」を設定する方法については、[「Change the Default From Email」と「From Label](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)」を参照してください。
 
 トークンを使用する場合は、まず目的のフィールド内をクリックし、次にトークンアイコンをクリックします。
 
