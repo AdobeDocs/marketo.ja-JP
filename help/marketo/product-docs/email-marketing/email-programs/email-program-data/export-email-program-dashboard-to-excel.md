@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メールプログラムダッシュボードをExcelにエクスポート {#export-email-program-dashboard-to-excel}
+# 電子メールプログラムダッシュボードをExcelにエクスポート{#export-email-program-dashboard-to-excel}
 
 電子メールプログラムを実行し、ダッシュボードにデータをいくつか含めたら、その生データをエクスポートしてExcelにエクスポートし、分析を高めることができます。 これが方法です。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->電子メール [プログラムについて詳しくは](http://docs.marketo.com/display/docs/email+programs)?
+>[電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)の詳細を知りたい場合
 
