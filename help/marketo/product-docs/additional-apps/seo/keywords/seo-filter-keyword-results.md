@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SEO — キーワードの結果をフィルター {#seo-filter-keyword-results}
+# SEO — キーワード結果のフィルタ{#seo-filter-keyword-results}
 
-多数の [キーワードを持つこともできます](seo-understanding-keywords.md)。 フィルターを適用する方法は次のとおりです。
+多くの[キーワード](seo-understanding-keywords.md)を持つ場合もあります。 フィルターを適用する方法は次のとおりです。
 
-## リストでフィルタ {#filter-by-list}
+## リストでフィルタ{#filter-by-list}
 
-1. 「 **キーワード** 」セクションに移動します。
+1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,27 +27,27 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >リストが表示されない場合は、キーワードリストの作成方法 [を](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)[学びます](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
+   >リストが見つからない場合は、[l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [キーワードリストの作り方を学びます](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)。
 
 甘い！ これで、そのリストのキーワードのみが表示されます。
 
-## SERPランクでフィルター {#filter-by-serp-rank}
+## SERPランクでフィルタ{#filter-by-serp-rank}
 
 1. [キーワード]セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   オレンジ色の四角形は、上限（左）と下限（右）を定義します。 このフィルタは、キーワードの [SERPランクに対して機能します](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)。
+   オレンジ色の四角形は、上限（左）と下限（右）を定義します。 このフィルタは、キーワードの[SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)に対して機能します。
 
 1. オレンジ色の四角形を左右にスライドして、結果をフィルタします。
 
    ![](assets/image2014-9-18-12-3a0-3a15.png)
 
-## 検索でフィルタ {#filter-by-search}
+## 検索でフィルタ{#filter-by-search}
 
 右上隅の検索フィールドを使用して、探しているキーワードを探すこともできます。
 
-1. 「 **キーワード** 」セクションに移動します。
+1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
