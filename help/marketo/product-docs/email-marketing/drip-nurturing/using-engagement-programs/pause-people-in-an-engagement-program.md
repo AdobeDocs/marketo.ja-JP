@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# アクションプログラムでのユーザーの一時停止 {#pause-people-in-an-engagement-program}
+# アクションプログラムでユーザーを一時停止{#pause-people-in-an-engagement-program}
 
-ユーザーがアクションプログラムのメンバーの場合、すべてのコンテンツを [使い果たすまで、ユーザーはコンテンツを受け取ります](people-who-have-exhausted-content.md)。 「アクションプログラムカデンスを [変更](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 」フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受け取るのを防ぐことができます。
+ユーザーがエンゲージメントプログラムのメンバーの場合、[すべてのコンテンツ](people-who-have-exhausted-content.md)を使い果たすまで、ユーザーはコンテンツを受け取ります。 [アクションプログラムカデンスを変更](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受信できないようにできます。
 
 1. アクションプログラムを選択します。
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. 「 **新しい値** 」で「**一時停止中**」を選択して、ユーザーがコンテンツを受け取らないようにします。
+1. 「**一時停止中**」を「**新しい値**」として選択し、ユーザーがコンテンツを受け取らないようにします。
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   再びコンテンツの受信を開始したい場合は、ユーザーを **標準** (Normal)に戻すことができます。 彼らは立ち去ったところから再開する。
+   ユーザーに再度コンテンツの受信を開始したい場合は、ユーザーを&#x200B;**通常**&#x200B;に戻すことができます。 彼らは立ち去ったところから再開する。
 
    >[!NOTE]
    >
