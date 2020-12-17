@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 重複ユーザーの検索と結合 {#find-and-merge-duplicate-people}
+# 重複ユーザーの検索と結合{#find-and-merge-duplicate-people}
 
 新しい人がシステムに入ると、重複が自動的に取り消されます。 ただし、CRMが最初に重複をMarketorに送信した可能性があります。 これらを統合する方法を次に示します。
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->重複の検索と結合には、 [組み込み/システムスマートリストの使用が含まれます](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)。
+>重複の検索と結合には、[組み込み/システムスマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)を使用します。
 
-## 重複の検索 {#find-duplicates}
+## 重複の検索{#find-duplicates}
 
-1. 「 **Database** 」領域に移動します。
+1. **Database**&#x200B;領域に移動します。
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ ht-degree: 0%
    >
    >Salesforce個人アカウントを使用している場合、Marketorでのユーザーの結合が機能しない場合があります。 可能な場合は、Salesforceのレコードを結合してください。
 
-1. 「 **可能な** 重複 **(** 可能) **」システムスマートリストを選択し、「** 人物」タブをクリックします。
+1. 「**可能な** **重複**」システムスマートリストを選択し、「**ユーザー**」タブをクリックします。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >カスタムロジックを使用して、重複の人を [検索することもできます](find-duplicate-people-with-custom-logic.md)。
+   >また、[カスタムロジック](find-duplicate-people-with-custom-logic.md)を使用して重複ユーザーを検索することもできます。
 
-## ユーザーを手動で結合 {#merge-people-manually}
+## ユーザーを手動で結合{#merge-people-manually}
 
 >[!CAUTION]
 >
->ユーザーをマージする際、敗者にマーケティングのカスタムオブジェクトがある場合、そのユーザーは勝者に再関連付けされ **ません** 。 結合を実行する前に、カスタムオブジェクトの親を再度設定してください。
+>ユーザーをマージする際、敗者にマーケティングのカスタムオブジェクトがある場合、****&#x200B;は勝者に再関連付けされません。 結合を実行する前に、カスタムオブジェクトの親を再度設定してください。
 
 Ctrl/Commandキーを押しながらをクリックし、「重複を結合」をクリックして、ユーザーを選択します。
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Ctrl/Commandキーを押しながらをクリックし、「重複を結合」�
 >
 >同じ人物に対して複数の重複を設定できます。すべてを一度に選択します。
 
-1. 一致しないレコード間の値が表示さ *れます* 。 各フィールドに保持する値を選択します。 終了したら **結合** をクリックします。 どちらの値も必要ない場合は、[ **カスタム** ]チェックボックスをオンにして、選択した値を入力できます。
+1. *一致しない*&#x200B;レコード間の値が表示されます。 各フィールドに保持する値を選択します。 完了したら、「**Merge**」をクリックします。 どちらの値も必要ない場合は、**カスタム**&#x200B;をチェックし、選択した値を入力します。
 
    ![](assets/four.png)
 
@@ -66,7 +66,7 @@ Ctrl/Commandキーを押しながらをクリックし、「重複を結合」�
    >
    >結合は、削除するよりも良いです。 すべての履歴（ページ訪問数、リンククリック数、電子メールの開封、フォームの入力など）を節約します。
 
-## Salesforceでの効果 {#effect-in-salesforce}
+## Salesforceでの効果{#effect-in-salesforce}
 
 Salesforce統合を使用している場合、Salesforceでのリードの結合の効果についていくつかのメモがあります。
 
@@ -78,7 +78,7 @@ Salesforce統合を使用している場合、Salesforceでのリードの結合
     * [重複のリードを結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
     * [重複の連絡先を結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## 一括結合 {#bulk-merging}
+## 一括マージ{#bulk-merging}
 
 手動で結合する重複が多すぎる場合は、カスタマーサクセスマネージャーにお問い合わせください。
 
