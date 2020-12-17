@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >プログラムスケジュール表示に作成できるのは、バッチスマートキャンペーンのみです。 トリガーキャンペーンはサポートされていません。
 
-1. ツリーでプログラムを選択し、「 **[!UICONTROL 概要」の下の「]** スケジュール **[!UICONTROL 」タブに移動します]**。
+1. ツリーでプログラムを選択し、**[!UICONTROL 概要]**&#x200B;の下の&#x200B;**[!UICONTROL スケジュール]**&#x200B;タブに移動します。
 
    ![イメージ1](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. エントリを追加する日にマウスポインターを置き、「 **[!UICONTROL 追加]**」をクリックします。
+1. エントリを追加する日にマウスポインターを置き、「**[!UICONTROL 追加]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >同様の手順に従って、日、週、議題の表示からバッチスマートキャンペーンを作成することもできます。
 
-1. 新しいスマートキャンペーンの名前を入力し、 **[!UICONTROL 種類]** をスマートキャンペーンに変更します 。 また、参加者の作成後もカレンダーに表示する場合は、 **[!UICONTROL 開始日を変更し]**、「アジェンダで **[!UICONTROL 開く]** 」表示のチェックを外すこともできます。 「 **[!UICONTROL 保存]**」をクリックします。
+1. 新しいスマートキャンペーンの名前を入力し、**[!UICONTROL 「]**」を[!UICONTROL スマートキャンペーン]に変更します。 また、**[!UICONTROL 開始日]**&#x200B;を変更し、参加者の作成後に予定表に残る場合は、**[!UICONTROL 議題表示]**&#x200B;のチェックを外すこともできます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
