@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メ追加ール内のリンクとしてのシステムトークン {#add-a-system-token-as-a-link-in-an-email}
+# 電子メ追加ール{#add-a-system-token-as-a-link-in-an-email}内のリンクとしてのシステムトークン
 
 これらのシステムトークンを使用して、電子メール内の特別なリンクの位置をカスタマイズできます。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これらのトークンは、アンカーリンク内でな **ければ** 、クリックできません。 また、マイトークンに埋め込むこ **とはできません** 。
+>これらのトークンは、アンカーリンク内でない限り&#x200B;****&#x200B;クリックできません。 また、マイトークンに&#x200B;****&#x200B;を埋め込むことはできません。
 
 電子メールに追加する方法を次に示します。
 
-1. 電子メールを探して選択し、「ドラフトを **編集**」をクリックします。
+1. 電子メールを探して選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/one-1.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. トークンを含むリンクに変換するテキストをハイライト表示し、「リンクを **挿入/編集** 」ボタンをクリックします。
+1. トークンを持つリンクに変換するテキストをハイライト表示し、「**リンクを挿入/編集**」ボタンをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「リンクURL」にトークンを入力し、「 **挿入**」をクリックします。
+1. 「リンクURL」にトークンを入力し、「**挿入**」をクリックします。
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >必要なトークンをコピー/貼り付けます。 **`{{system.forwardToFriendLink}}`** または **`{{system.unsubscribeLink}}`** **`{{system.viewAsWebpageLink}}`**
+   >必要なトークンをコピー/貼り付けます。**`{{system.forwardToFriendLink}}`**&#x200B;または&#x200B;**`{{system.unsubscribeLink}}`**&#x200B;または&#x200B;**`{{system.viewAsWebpageLink}}`**
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->電子メールの [承認が完了したら、忘れずに](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) 承認してください。
+>終了したら[メール](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認するのを忘れないでください。
 
 うまくいった！ これで、システムトークンを電子メール内のリンクとして追加する方法がわかりました。
