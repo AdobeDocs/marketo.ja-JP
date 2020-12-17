@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 静的リストについて {#understanding-static-lists}
+# 静的リストについて{#understanding-static-lists}
 
 静的リストは、Marketoの最も単純で役に立つ機能の1つです。 これらは、データベースの名前のリストに過ぎません。 使う理由はたくさんあります。
 
@@ -23,22 +23,22 @@ ht-degree: 0%
 
 | タイプ | 論理 |
 |---|---|
-| スマートリスト | 定 **義されたルールに基づく** |
-| 静的リスト | 各人の **追加/削除に基づく** |
+| スマートリスト | **定義済みのルール**&#x200B;に基づく |
+| 静的リスト | **各人の追加/削除**&#x200B;に基づき |
 
 >[!CAUTION]
 >
 >最もよくある間違いの一つは、「人を削除する」だけで、リストから人を削除できると考えることです。 **これは間違っています。** 個人を削除すると、リストだけでなく、データベース **全体から削除され**、
 
-## リストからユーザーを追加削除する方法 {#ways-to-add-remove-people-from-a-list}
+## リストから人を削除する追加方法{#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンフローステップ([リストへ追加、](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)リストから [削除](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. スマートキャンペーンフローステップ([追加からリスト](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)へ、[リスト](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)から削除)
 
 1. [単一のアクションフローステップ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. ツリー内のリストに人をドラッグする
 1. [リストインポート](../../../../getting-started/quick-wins/import-a-list-of-people.md)
 
-## 静的リストの使用 {#some-uses-of-a-static-list}
+## 静的リストの使用例{#some-uses-of-a-static-list}
 
 * マーケティングメッセージを受け取るために事前に選択されたリスト。
 * 有害なカウンターインテリジェンスメッセージの送信に使用する「競合他社」リスト。
