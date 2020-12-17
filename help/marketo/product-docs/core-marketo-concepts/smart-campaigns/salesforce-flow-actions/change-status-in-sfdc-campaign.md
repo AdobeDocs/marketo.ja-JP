@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# SFDCキャンペーンのステータスの変更 {#change-status-in-sfdc-campaign}
+# SFDCキャンペーンのステータスの変更{#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
 >Salesforceと統合されている場合にのみ使用できます。
 
-## 概要 {#overview}
+## 概要{#overview}
 
 このフローステップにより、リードのSalesforceキャンペーンメンバーステータスを変更できます。
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
-1. 最初に、レコードが含まれるSalesforce **キャンペーン** を検索して選択します。
+1. 最初に、レコードが含まれるSalesforce **キャンペーン**&#x200B;を探して選択します。
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 次に、設定する **新しい** ステータス **(New** Status)を選択します。これで完了です。
+1. 設定する&#x200B;**新しい** **ステータス**&#x200B;を選択します。これで終了です。
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
