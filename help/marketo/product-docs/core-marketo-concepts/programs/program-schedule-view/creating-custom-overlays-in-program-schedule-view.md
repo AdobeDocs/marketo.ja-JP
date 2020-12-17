@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのカスタムオーバーレイの作成 {#creating-custom-overlays-in-program-schedule-view}
+# プログラムスケジュール表示でのカスタムオーバーレイの作成{#creating-custom-overlays-in-program-schedule-view}
 
 必要に応じて、表示エントリに対してカスタムオーバーレイを作成できます。
 
-1. 「 **議題** 」ドロップダウンをクリックします。
+1. **アジェンダ**&#x200B;ドロップダウンをクリックします。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 「 **オーバーレイ**」を選択します。
+1. 「**オーバーレイ**」を選択します。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. また、 [プログラムタグでフィルタリングすることもできます](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)。
+1. また、[プログラムタグ](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)でフィルタリングすることもできます。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
