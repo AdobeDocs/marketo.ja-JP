@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 黙示的なSalesforceアクション {#implied-salesforce-actions}
+# 黙示的なSalesforceアクション{#implied-salesforce-actions}
 
 Salesforce固有のフローステップが実行される場合、追加のステップが自動的に実行されることがあります。 次にルールを示します。
 
-これらのルールは、 *担当者が現在 [](http://Salesforce.com)* Salesforce.comに連絡先またはリードとしていない場合に適用されます。
+[Salesforce.com](http://Salesforce.com)*に現在連絡先またはリードがいない場合、*&#x200B;ルールが適用されます。
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Salesforce固有のフローステップが実行される場合、追加のス�
   </tr> 
   <tr> 
    <td>SFDCキャンペーンのステータスの変更</td> 
-   <td>担当者をSFDCキャンペーンに<br>SFDCddに同期</td> 
+   <td>担当者をSFDC<br>追加とSFDCキャンペーンに同期</td> 
   </tr> 
   <tr> 
    <td>所有者の変更</td> 
@@ -48,8 +48,8 @@ Salesforce固有のフローステップが実行される場合、追加のス�
  </tbody> 
 </table>
 
-演算子を「is not empty」に設定し、 **SFDC Type** Filterを使用して、スマートリスト内のSFDCレコードをフィルタリングできます。 すべてのSFDCレコードは、このフィールドに値を持ちます。
+**SFDC Type** Filterを使用して、スマートリスト内のSFDCレコードをフィルターで除外できます。演算子は「空ではありません」に設定します。 すべてのSFDCレコードは、このフィールドに値を持ちます。
 
-これらの自動アクションは、現在 [Salesforce.comにリードがない場合にのみ発生します。](http://Salesforce.com)
+これらの自動アクションは、リードが現在[Salesforce.com](http://Salesforce.com)にない場合にのみ発生します。
 
 セールスフォースの同期はかっこいいでしょ？
