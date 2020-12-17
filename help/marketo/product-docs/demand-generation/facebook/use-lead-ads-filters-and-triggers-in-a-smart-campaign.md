@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンでのリード広告のフィルターとトリガーの使用 {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# スマートキャンペーンでリード広告のフィルターとトリガーを使用する{#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
 Facebookのリード広告を有効にした場合、スマートキャンペーンで広告を使用してプログラムの成功を確認できます。 訪問者がFacebookのリード広告ユニットに情報を送信すると、情報は即座にマーケティング担当者にプッシュされます。
 
-1. 「リード広告の **入力」フォーム** ・フィルタまたはトリガーを使用します。
+1. **Fills Out Lead Ads Form**&#x200B;フィルターまたはトリガーを使用します。
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
