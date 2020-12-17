@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 割当ルールを使用した個人パーティションの割当 {#assigning-person-partitions-with-assignment-rules}
+# 割り当てルールを使用した個人パーティションの割り当て{#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. 「**ユーザー・パーティション**」タブで、「 **割当ルール**」をクリックします。
+1. 「**Peopleパーティション**」タブで、「**割り当て規則**」をクリックします。
 
    ![](assets/two-6.png)
 
