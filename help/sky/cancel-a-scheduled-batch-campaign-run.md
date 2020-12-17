@@ -16,15 +16,15 @@ ht-degree: 0%
 
 バッチキャンペーンの1つに対して実行をスケジュール済みで、それをキャンセルする場合は、次のようにします。
 
-1. キャンペーンを選択し、「 **[!UICONTROL スケジュール]** 」タブに移動します。
+1. キャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブに移動します。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 「 **[!UICONTROL 予定された実行]**」をクリックします。
+1. 「**[!UICONTROL スケジュールされた実行]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 取り消す予定の実行を見つけて、最も右側の **[!UICONTROL X]** をクリックします。
+1. 取り消す予定の実行を見つけて、一番右の&#x200B;**[!UICONTROL X]**&#x200B;をクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
