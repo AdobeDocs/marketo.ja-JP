@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# マーケティングカレンダーでのフィルター定義の保存 {#saving-a-filter-definition-in-the-marketing-calendar}
+# マーケティングカレンダーへのフィルター定義の保存{#saving-a-filter-definition-in-the-marketing-calendar}
 
 フィルターを保存すると、様々なフィルター定義を切り替えることができます。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. フィルターに名前を付けます。 「 **保存**」をクリックします。
+1. フィルターに名前を付けます。 「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   必要に応じて、定義のコピーを他のマーケティング担当者に [送信できます](sharing-a-filter-definition-in-the-marketing-calendar.md) 。
+   必要に応じて、定義のコピー[を他のマーケティング担当者に送信できます。](sharing-a-filter-definition-in-the-marketing-calendar.md)
 
    >[!NOTE]
    >
