@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# ヘルプの入手方法 {#ways-to-get-help}
+# ヘルプを表示する方法{#ways-to-get-help}
 
 ![](assets/life-preserver.jpg)
 
 まだ必要なものが見つからないの？ 何を知らないの？ 我々と繋がれ！ 私たちは助けることができる。
 
-![—](assets/seo-29.png) 動作していない技術的なサポートについては、マー [**ケティング担当者にお問い合わせください**](https://nation.marketo.com/t5/Support/ct-p/Support)。
+![—](assets/seo-29.png) 機能しない問題に関する技術的なサポートが必要な場合は、 [**マーケティング担当者にお問い合わせください**](https://nation.marketo.com/t5/Support/ct-p/Support)。
 
-![— アドビのプロフェッショナルサービスチームとの連携につ](assets/seo-30.png) いては、marketoservices@adobe.comにご連絡く **ださい**。
+![ — アドビのプロ](assets/seo-30.png) フェッショナルサービスチームとの連携については、marketoservices@adobe.comにご連絡く **ださい**。
 
 ![—Marketo](assets/education-science-08.png) のスキルを身に付けるには、 [**Marketo Universityをご覧ください**](https://learn.marketo.com)。
