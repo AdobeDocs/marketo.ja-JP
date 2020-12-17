@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# アカウントプロファイリングのランク付けと調整 {#account-profiling-ranking-and-tuning}
+# アカウントプロファイルのランク付けとチューニング{#account-profiling-ranking-and-tuning}
 
 勘定科目プロファイリングは、理想的な顧客プロファイル(ICP)を識別し、ICPに基づいてデータベース内の会社をランク付けし、ICPインジケータ・データを名前付き勘定科目として昇格させる勘定科目に追加します。
 
-## モデルの結果 {#model-results}
+## モデル結果{#model-results}
 
 結果により、等級別に分類された既知の勘定科目がすべて表示されます。 Aは最も高い等級、Dは最も低い等級です。
 
 ![](assets/results.png)
 
-オプションですが、[自動的にプロモート]チェックボックスをオンにすることをお勧めします。これにより、時間を節約できます。 ただし、各アカウントを調べて手動で [追加する場合は](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)、チェックボックスをオフのままにします。
+オプションですが、[自動的にプロモート]チェックボックスをオンにすることをお勧めします。これにより、時間を節約できます。 ただし、各アカウントを調べて[手動で](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)追加したい場合は、チェックボックスをオフにしておいてください。
 
 <table> 
  <tbody> 
@@ -56,7 +56,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## モデルの調整 {#model-tuning}
+## モデルのチューニング{#model-tuning}
 
 「モデル」(Model)タブで、「モデルを調整」(Tune Model)ボタンをクリックします。
 
@@ -89,13 +89,13 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-「エクスポート」ボックスを選択すると、「名前付き勘定科目の詳細」ページにICPインジケータが表示され、選択したICPインジケータを [名前付き勘定科目フィルターの制約として使用でき](http://docs.marketo.com/display/DOCS/Account+Filters)ます。
+「エクスポート」ボックスを選択すると、「名前付き勘定科目の詳細」ページにICPインジケータが表示され、選択したICPインジケータを[名前付き勘定科目フィルター](http://docs.marketo.com/display/DOCS/Account+Filters)の制約として使用できます。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICPインジケータは、「名前付き勘定科目 **フィルター** 」および「トリガー」のメンバーに制約として含まれます。
+>ICPインジケータは、**名前付きアカウント**&#x200B;のフィルターおよびトリガーのメンバーに制約として含まれます。
 
 インジケーターの重み付けは、モデルで各インジケーターが受け取る重要度のレベルを制御します。
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ![](assets/refresh-button.png)
 
-モデルの調整が完了したら（更新した後）、「モデル結果」タブに戻り、「 **保存してランクを適用」をクリックします**。
+モデルの調整が完了したら（更新後）、「モデル結果」タブに戻り、**ランクの保存と適用**&#x200B;をクリックします。
 
 ![](assets/ranks.png)
 
