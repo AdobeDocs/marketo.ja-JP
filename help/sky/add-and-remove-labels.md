@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # ラベル追加の削除
 
-マー [!UICONTROL ケティングアクティビティ内の任意のアセットにラベルを割り当てることができ]、アセットの整理や検索を簡単に行うことができます。
+[!UICONTROL マーケティングアクティビティ]内の任意のアセットにラベルを割り当てると、アセットを簡単に整理して見つけることができます。
 
 ## 追加ラベル
 
-アセットに新しいラベルを追加するには、「 [!UICONTROL 概要] 」タブのアセットの  詳細ページに移動します。
+アセットに新しいラベルを追加するには、アセットの[!UICONTROL 詳細]ページ（[!UICONTROL 概要]タブの下）に移動します。
 <br> 
 
-[ [!UICONTROL ラベル]**セクションで、[]**&#x200B;新しいラベル]をクリックします。
+「[!UICONTROL ラベル]」セクションで、「**[!UICONTROL 追加新しいラベル]**」をクリックします。
 
 ![イメージ1](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-以前使用したことのないラベルを追加する場合は、ラベル名を入力し、「 **[!UICONTROL 新規作成____]**」をクリックします。
+以前使用したことのないラベルを追加する場合は、ラベル名を入力し、「**[!UICONTROL 新規作成____]**」をクリックします。
 
 ![イメージ2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## ラベルを削除
 
-「 **[!UICONTROL X]**」をクリックすると、任意のラベルを削除できます。
+**[!UICONTROL X]**&#x200B;をクリックすると、任意のラベルを削除できます。
 
 ![画像4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
