@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メールでの動的コンテンツの使用 {#using-dynamic-content-in-an-email}
+# 電子メールでの動的コンテンツの使用{#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 電子メールの動的コンテンツを使用して、リードのターゲット設定情報を送信します。
 
-## 追加分類 {#add-segmentation}
+## 追加セグメント{#add-segmentation}
 
 1. 「マーケティングアクティビティ」に移動します。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    ![](assets/1.2.png)
 
-1. この例では、件名行を動的にします。 「件名」フィールドをクリックし、「動的に **する** 」ボタンをクリックします。
+1. この例では、件名行を動的にします。 「件名」フィールドをクリックし、「**動的にする**」ボタンをクリックします。
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >電子メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックして、「動的に **する** 」(または実行する操作に応じて「スニペットに [置換](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)」)を選択します。
+   >電子メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックし、「**動的に**」（または[スニペット](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)で置き換える）を選択します。
 
    セグメント名を入力し、選択して「保存」をクリックします。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/1.5.png)
 
-## 動的コンテンツの適用 {#apply-dynamic-content}
+## 動的コンテンツの適用{#apply-dynamic-content}
 
 >[!CAUTION]
 >
