@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 電子メールリンクのパフォーマンスレポート {#email-link-performance-report}
+# 電子メールリンクパフォーマンスレポート{#email-link-performance-report}
 
 電子メールリンクのパフォーマンスレポートを作成して、電子メール内のリンクのパフォーマンスを確認します。
 
-1. [プログラムでレポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、レポートタイプとして「 **電子メールリンクのパフォーマンス** 」を選択します。
+1. [プ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、レポートタイプとして「 **電子メールリンク** のパフォーマンス」を選択します。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. 「 **設定**」をクリックします。
+1. 「**セットアップ**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. [ **設定]の下にある[アクティビティ** 日 **]を重複がクリック**&#x200B;します。
+1. **設定**&#x200B;の下の&#x200B;**アクティビティ**&#x200B;の日付を重複クリックします。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. 「 **レポート**」をクリックします。
+1. 「**レポート**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[電子メールリンクのパフォーマンスレポートに使用できる列は](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 、次のとおりです。
+[電子メールリンクのパフォーマンスレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) に使用できる列は次のとおりです。
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->個々の人が何をしたかを正確に知りたい場合は、プログラムの「メンバー」タブから「 [アクティビティログ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)[」ページを「](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 個人の詳細」ページで開きます。
+>個人が何をしたかを正確に知りたい場合は、プログラムの「アクティビティ」タブから、[個人の詳細](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ページの[メンバーログ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)を開きます。
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[基本レポートの詳細を表示します](http://docs.marketo.com/display/docs/basic+reporting)。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を表示します。
 
