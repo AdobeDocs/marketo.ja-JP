@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Analyticsカードについて {#understanding-analytics-cards}
+# Analyticsカードについて{#understanding-analytics-cards}
 
 毎月の最初に、Marketo Momentsには3つの異なるレポートカードが用意されています。獲得したリード、新規リードおよび登録解除。 それぞれの指標は、月別のパフォーマンスと6か月間の傾向を示します。
 
-## Analyticsカード {#analytics-cards}
+## Analyticsカード{#analytics-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Analyticsカードをタップすると、次のことができます。
 
@@ -35,7 +35,7 @@ Analyticsカードをタップすると、以下が表示されます。
 
 この例では、選択した日付範囲（ああ！）で値が減少したことを示します。 緑は値が増加したことを示します(yy!)。
 
-## 獲得リード数 {#acquired-leads}
+## 獲得リード数{#acquired-leads}
 
 **獲得リード**カードは、新規リード数の前月比トレンドレポートを示します。
 
@@ -45,15 +45,15 @@ Analyticsカードをタップすると、以下が表示されます。
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## 新規リード {#new-leads}
+## 新しいリード{#new-leads}
 
-「 **New Leads** 」カードには、過去6か月間のインスタンス内の新規リードの総数に関する、前月比のトレンドのレポートが表示されます。
+**New Leads**&#x200B;カードは、過去6か月間のインスタンス内の新規リードの総数に関する、前月比のトレンドを示します。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Unsubscribes {#unsubscribes}
+## 購読解除{#unsubscribes}
 
-Unsubscribes **カードには** 、過去6か月間の登録解除率を示す1か月間のトレンドレポートが表示されます。
+**登録解除**&#x200B;カードは、過去6か月間の登録解除率を示す1か月間のトレンドレポートを表示します。
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
