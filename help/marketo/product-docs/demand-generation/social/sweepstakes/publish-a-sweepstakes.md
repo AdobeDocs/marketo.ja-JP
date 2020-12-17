@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 懸賞の投稿 {#publish-a-sweepstakes}
+# 懸賞の投稿{#publish-a-sweepstakes}
 
-懸賞を [作成したら](create-sweepstakes.md)、Marketingランディングページ、WebサイトおよびFacebookに投稿できます。
+[懸賞](create-sweepstakes.md)を作成したら、Marketorランディングページ、Webサイト、Facebookに投稿できます。
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ ht-degree: 0%
 >
 >オファーを公開する前に、該当するすべての法律、規則および規則に準拠していることを確認します。
 
-1. ランディングページを探し、「ドラフトを **編集**」をクリックします。
+1. ランディングページを探し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. ページの右側にある「要素の挿入」セクションを見つけます。 「 **Sweepstakes**」にドラッグします。
+1. ページの右側にある「要素の挿入」セクションを見つけます。 **Sweepstakes**&#x200B;にドラッグします。
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. 懸賞を選択し、「 **挿入**」をクリックします。
+1. 懸賞を選択し、「**挿入**」をクリックします。
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >
    >ここで懸賞を利用できるようにするには、懸賞を承認する必要があります。
 
-   [ランディングページをFacebookに投稿し](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 、Webサイトに懸賞 [を投稿する](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [ランディングページを](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebookに公開して、Webサイトで懸賞を投稿する](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ユーザー開始のサインアップが完了したら、アプリに戻って懸賞の勝者を [選択するようにします](select-sweepstakes-winners.md)。
+   >ユーザーの開始がサインアップしたら、必ず[にアプリに戻って、懸賞の勝者](select-sweepstakes-winners.md)を選択してください。
 
 おめでとう！ ランディングページを承認すると、懸賞が有効になります。 また、またはも可能です。
