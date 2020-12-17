@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Salesforce同期について {#understanding-the-salesforce-sync}
+# Salesforce同期について{#understanding-the-salesforce-sync}
 
 MarketoとSalesforceは、ピースとニンジンのように連携しています。 販売とマーケティングのデータを同期させます。
 
-## 同期の仕組み {#how-sync-works}
+## 同期の仕組み{#how-sync-works}
 
 マーケティング担当者は、毎日、Salesforceと同期します。 各同期は、しばらく時間がかかり、その後5分間一時停止した後、開始が再び停止します。
 
@@ -27,7 +27,7 @@ MarketoとSalesforceは、ピースとニンジンのように連携していま
 
 SalesforceとMarketoの同期は、リード、連絡先、Salesforceのキャンペーンに対してのみ双方向です。 この場合、SalesforceまたはMarketoで変更を行うと、常に両方のシステムに更新が反映されます。 他のすべての同期は、SalesforceからMarketoへのみ行われます。 各リンクの詳細については、以下のリンクをクリックしてください。
 
-## MarketoとSalesforceの間で同期されるもの {#what-is-synced-between-marketo-and-salesforce}
+## MarketoとSalesforceの間で同期されるもの{#what-is-synced-between-marketo-and-salesforce}
 
 * [リード](sfdc-sync-details/sfdc-sync-lead-sync.md)
 * [連絡先](sfdc-sync-details/sfdc-sync-contact-sync.md)
@@ -40,9 +40,9 @@ SalesforceとMarketoの同期は、リード、連絡先、Salesforceのキャ�
 
 >[!NOTE]
 >
->Marketor for Salesforce [に入力した](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 資格情報は、データの同期に使用されます。 資格情報にアクセスできるデータのみが含まれます。
+>Marketo for Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)に入力する[資格情報は、データの同期に使用されます。 資格情報にアクセスできるデータのみが含まれます。
 
-Salesforceの同期には、さまざまなニュアンスや機能があります。 「 [SFDC同期の詳細」セクションの詳細を確認します](http://docs.marketo.com/display/docs/sfdc+sync+details)。
+Salesforceの同期には、さまざまなニュアンスや機能があります。 [SFDC同期の詳細セクション](http://docs.marketo.com/display/docs/sfdc+sync+details)の詳細を確認します。
 
 >[!MORELIKETHIS]
 >
