@@ -16,18 +16,18 @@ ht-degree: 0%
 
 エンゲージメントプログラムのメンバーをすばやく表示できます。
 
-1. エンゲージメントプログラムを選択し、右クリックして「 **[!UICONTROL 表示メンバー]**」を選択します。
+1. エンゲージメントプログラムを選択し、右クリックして「**[!UICONTROL 表示メンバー]**」を選択します。
 
    ![イメージ1](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-1.png)
 
 >[!NOTE]
 >
->「 [!UICONTROL 使い果たされたコンテンツ] 」列の値は、キャストのたびに更新されます。
+>キャストのたびに、[!UICONTROL 使い果たされたコンテンツ]列の値が更新されます。
 
-1. 「 **[!UICONTROL メンバー]** 」タブをクリックします。
+1. 「**[!UICONTROL メンバー]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. メンバーに対して様々な機能を実行するには、「 **[!UICONTROL ユーザーアクション]** 」ドロップダウンをクリックします。
+1. **[!UICONTROL ユーザーアクション]**&#x200B;ドロップダウンをクリックして、メンバーに対して様々な機能を実行します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
