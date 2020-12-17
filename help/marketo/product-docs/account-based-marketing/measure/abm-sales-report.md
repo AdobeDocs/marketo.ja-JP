@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# ABM販売レポート {#abm-sales-report}
+# ABM販売レポート{#abm-sales-report}
 
 トップアカウントとその週ごとのトレンドを記載した毎週の電子メールを受信します。
 
 >[!NOTE]
 >
->このレポートの設定方法を [ここで説明します](https://docs.marketo.com/x/drat)。
+>このレポートの設定方法を[ここ](https://docs.marketo.com/x/drat)で説明します。
 
 レポートは次の情報を共有します。
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![](assets/one-4.png)
 
-## 販売レポートキー {#sales-report-key}
+## 販売レポートキー{#sales-report-key}
 
 | **アカウントスコア** | アカウントスコア別の週別トレンド（セットアップで選択）、続いて現在のアカウントスコア |
 |---|---|
