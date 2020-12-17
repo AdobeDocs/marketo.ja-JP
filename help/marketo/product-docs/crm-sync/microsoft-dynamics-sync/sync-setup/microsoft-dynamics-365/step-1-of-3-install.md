@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# 手順1/3:Marketor Solutionのインストール（オンライン） {#step-of-install-the-marketo-solution-online}
+# 手順1/3:Marketo Solutionのインストール（オンライン） {#step-of-install-the-marketo-solution-online}
 
 Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solutionをインストールする必要があります。 **Dynamics管理権限が必要です。**
 
 >[!CAUTION]
 >
 >* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、マー [ケティング担当者にお問い合わせください](http://nation.marketo.com/community/support_solutions)。
+>* Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、[マーケティング担当者](http://nation.marketo.com/community/support_solutions)にお問い合わせください。
 
 >
 
@@ -36,37 +36,37 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. 「 ![](assets/image2015-3-16-16-3a1-3a13.png)menu」をクリックし、「 **CRM**」を選択します。
+1. ![](assets/image2015-3-16-16-3a1-3a13.png)メニューをクリックし、**CRM**&#x200B;を選択します。
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. メニューをクリック ![](assets/image2015-5-13-10-3a5-3a8.png) します。 ドロップダウンメニューで「**設定**」を選択し、「 **ソリューション**」を選択します。
+1. ![](assets/image2015-5-13-10-3a5-3a8.png)メニューをクリックします。 ドロップダウンメニューで「**設定**」を選択し、「**ソリューション**」を選択します。
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. 「 **読み込み」をクリックします。**
+1. 「**読み込み」をクリックします。**
 
    ** ![](assets/image2015-3-19-8-3a34-3a8.png)
 
    **
 
-1. 「ファイルを **選択」をクリックします。** ダウンロードしたマーケティング担当者管理ソリューション [を選択します](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。 「 **次へ**」をクリックします。
+1. 「**ファイルを選択」をクリックします。** ダウンロードしたマーケティング担当者管理ソリューション [を選択します](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。「**次へ**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. 「ソリューション情報」を表示し、「 **表示ソリューションパッケージの詳細**」をクリックします。
+1. ソリューション情報を表示し、**表示ソリューションパッケージの詳細**&#x200B;をクリックします。
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. すべての詳細の確認が完了したら、「 **閉じる**」をクリックします。
+1. すべての詳細の確認が完了したら、[**閉じる**]をクリックします。
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. ソリューション情報ページに戻り、「 **次へ**」をクリックします。
+1. 次に、ソリューション情報ページに戻り、**次へ**&#x200B;をクリックします。
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 「SDKオプション」チェックボックスが選択されていることを確認します。 「 **読み込み**」をクリックします。
+1. 「SDKオプション」チェックボックスが選択されていることを確認します。 「**インポート**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -78,7 +78,7 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. 「 **閉じる」をクリックします。**
+1. 「**閉じる」をクリックします。**
 
    >[!NOTE]
    >
@@ -90,7 +90,7 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 「 **マーケティング」「リード管理** 」を選択し、「すべてのカスタマイズを **発行」をクリックします。**
+1. 「**Marketto Lead Management**」を選択し、「**すべてのカスタマイズを発行」をクリックします。**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
