@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# 転送者にクレジットを与える {#give-credit-to-referrer}
+# 転送者にクレジットを与える{#give-credit-to-referrer}
 
-## 概要 {#overview}
+## 概要{#overview}
 
-リフ [ァラルオファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 、 [または懸賞を実行する場合](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)、様々な方法で転送者にクレジットを与えることができます。
+[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を実行する場合、異なる方法を使用して転送者にクレジットを与えることができます。
 
 * 参照訪問
 * 参照されたサインアップ
 * **スマートリストトリガー**
 * カスタムJavaScriptイベント
 
-「 **スマートリストトリガー** 」オプションを使用して目標を指定する場合は、「転送者にクレジットを与える **** 」フロー・ステップ **** を使用する必要があります。   ![](assets/image2014-9-22-15-3a59-3a18.png)
+「**スマートリストトリガー**」オプションを使用して目標を指定する場合は、「**転送者**&#x200B;にクレジットを与える」フローステップを使用する必要があります。   ![](assets/image2014-9-22-15-3a59-3a18.png)****
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. キャンペーンを構築し、トリガーするアクションを決定したら、転送者にクレジットを与えるSocialアプリを見つけて選択するだけです。
 
@@ -35,6 +35,6 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >ソーシャルアプリがスマートリストトリガーを使用するように設定されていることを確認します。 詳しくは、「参照オファーの目標 [の指定](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) 」を参照してください。
+   >ソーシャルアプリがスマートリストトリガーを使用するように設定されていることを確認します。 詳しくは、[リファラルオファーの目標を指定](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)を参照してください。
 
 素晴らしい！ このフローステップで処理された任意の人が、その転送者にクレジットを与えるようになります。
