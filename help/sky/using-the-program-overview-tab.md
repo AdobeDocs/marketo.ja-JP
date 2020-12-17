@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-「 [!UICONTROL プログラムの概要] 」タブには、次の3つのセクションがあります。 **[!UICONTROL 詳細]**、 **[!UICONTROL スケジュール]**、 **[!UICONTROL レポート]**。 それぞれを簡単に見てみましょう
+「[!UICONTROL プログラムの概要]」タブには、次の3つのセクションがあります。**[!UICONTROL 詳細]**、**[!UICONTROL スケジュール]**、**[!UICONTROL レポート]**。 それぞれを簡単に見てみましょう
 
 ## 詳細
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-ページの下部には、2つのセクションがあります。 **[!UICONTROL プログラム統計]** 、 **[!UICONTROL 使用者]**。 **[!UICONTROL 「プログラム統計]** 」は、プログラムのパフォーマンスに関する主要指標を示します。「 **[!UICONTROL 使用者]** 」は、プログラムがマーケティングでどの場所に使用されているかを簡単に確認する手段です。
+ページの下部には、2つのセクションがあります。**[!UICONTROL プログラム統計]**&#x200B;および&#x200B;**[!UICONTROL 使用者]**。 **[!UICONTROL プログラム]** 状態には、プログラムのパフォーマンスに関する主要指標、 **[!UICONTROL Used]** Byは、プログラムがMarketoでどこに使用されているかを簡単に確認する方法が示されています。
 
 ![イメージ2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 **ディープダイブ**
 
-* プログラムスケジュール表示の [使い方を学びます](/help/sky/navigating-program-schedule-view.md)。
+* [プログラムスケジュール表示](/help/sky/navigating-program-schedule-view.md)の使い方を学びます。
 
 ## レポート
 
-「 [!UICONTROL レポート] 」タブには、トレンドやメンバーシップ統計など、プログラムのパフォーマンスに関する主要指標が表示されます。
+「[!UICONTROL レポート]」タブには、トレンドやメンバーシップの統計を含む、プログラムのパフォーマンスに関する主要指標が表示されます。
 
 ![画像4](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
