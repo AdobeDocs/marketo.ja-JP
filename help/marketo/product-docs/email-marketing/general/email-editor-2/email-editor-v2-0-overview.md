@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子メールエディタv2.0の概要 {#email-editor-v-overview}
+# 電子メールエディタv2.0の概要{#email-editor-v-overview}
 
 電子メールエディタv2.0をアクティブにすると、いくつかの新機能が追加されました。
 
 **電子メールテンプレート選択**
 
-新しい電子メールを作成すると、 [電子メールテンプレートピッカーに移動します](email-template-picker-overview.md)。
+新しい電子メールを作成すると、[電子メールテンプレートピッカー](email-template-picker-overview.md)に移動します。
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **モジュール**
 
-エディターの右側にあるものをモジュールと呼びます。 電子メールにモジュールを [追加する方法を説明します](add-modules-to-your-email.md)。
+エディターの右側にあるものをモジュールと呼びます。 [電子メール](add-modules-to-your-email.md)にモジュールを追加する方法を説明します。
 
 ![](assets/three-4.png)
 
 **テキストバージョン**
 
-電子メールのHTMLバージョンとテキストバージョンを切り替えると、下部の便利なタブになりました。 電子メールのテキストバージョンを [編集する方法を説明します](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)。
+電子メールのHTMLバージョンとテキストバージョンを切り替えると、下部の便利なタブになりました。 [電子メール](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)のテキストバージョンを編集する方法を説明します。
 
 ![](assets/four-3.png)
 
 **電子メールヘッダー**
 
-デザインスペースを増やしますか？ 電子メールヘッダーは、 [編集が完了した後で非表示にすることができます](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)。 このアイコンをクリックするだけです。
+デザインスペースを増やしますか？ 電子メールヘッダーは、[編集](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了した後は、非表示にできます。 このアイコンをクリックするだけです。
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/eight-3.png)
 
-プレビューを大きくするには、電子メールの右上にある **プレビュー** をクリックします。
+プレビューを大きくするには、電子メールの右上にある&#x200B;**プレビュー**&#x200B;をクリックします。
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/preview2.png)
 
-...しかし、モバイルデバイス上での見え方もわかります。 テキスト版もプレビューできます！ 右上の「 **ドラフトを編集** 」をクリックするだけで、編集を再開できます。
+...しかし、モバイルデバイス上での見え方もわかります。 テキスト版もプレビューできます！ 右上の「**ドラフト**&#x200B;を編集」をクリックすると、編集を再開できます。
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **電子メールアクション**
 
-「 **電子メールアクション**」に新機能が加わりました。 **画像またはファイルのアップロード**、Webから **画像を**&#x200B;グラブ。 電子メール自体を新しい電子メールテンプレートとして保存することもできます。 名前と行き先を与えさえすればよい。
+**電子メールアクション**&#x200B;の下に、新機能がいくつかあります。 **画像またはファイルのアップロード**、Webから **画像を**&#x200B;グラブ。電子メール自体を新しい電子メールテンプレートとして保存することもできます。 名前と行き先を与えさえすればよい。
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->** Grab Images from Web [](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**は、Design Studioと同様に機能します。
+>** [Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**から画像をグラブする機能は、Design Studioと同じように動作します。
 
-**「** 電子メール設定 **」の下の「未完了の追跡**」を無効にすると、必要に応じて未完了の追跡を無効にできます。
+**「開いた** 追跡」を無効にする「 **電子メール設定**」で、必要に応じて開いた追跡を無効にできます。
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->さらに深く掘り下げたい場合は、この [役立つビデオをご覧ください](https://nation.marketo.com/videos/1463)。
+>さらに深く探したい場合は、[役立つビデオ](https://nation.marketo.com/videos/1463)をご覧ください。
 
 >[!MORELIKETHIS]
 >
