@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# フォーム内のフィールドの並べ替え {#reorder-fields-in-a-form}
+# フォーム内のフィールドの並べ替え{#reorder-fields-in-a-form}
 
 Marketoフォーム上のフィールドの並べ替えは簡単です。 これが方法です。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ Marketoフォーム上のフィールドの並べ替えは簡単です。 これ
 >
 >**ディープダイブ**
 >
->フ [ォームについて詳しく知りたい](http://docs.marketo.com/display/docs/forms)?
+>[フォーム](http://docs.marketo.com/display/docs/forms)の詳細を知りたい場合は、
 
