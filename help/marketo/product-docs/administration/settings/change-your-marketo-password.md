@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# マーケティングパスワードの変更 {#change-your-marketo-password}
+# マーケティング先のパスワードの変更{#change-your-marketo-password}
 
 以下の簡単な手順に従って、Marketorのパスワードを変更します。
 
-1. 任意のマーケティング担当者ユーザーが自分の名前と「 **マイアカウント**」をクリックできます。
+1. 任意のマーケティング担当者ユーザーが自分の名前をクリックし、**マイアカウント**&#x200B;をクリックします。
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. 管理者は、「 **管理者** 」をクリックし、「パスワードの **変更** 」をクリックして管理者パスワードを変更することもできます。
+1. 管理者は、「**管理者**」をクリックし、「**パスワードの変更**」をクリックして管理者パスワードを変更することもできます。
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >良いパスワードは？ 何か長いものがあり、文字、数字、記号が多数あり、「 [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. ただ、あれじゃない。 クリエイティブになって自分で作りなさい。
+   >良いパスワードは？ 文字、数字、記号が多く含まれた長さ(&quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. ただ、あれじゃない。 クリエイティブになって自分で作りなさい。
 
