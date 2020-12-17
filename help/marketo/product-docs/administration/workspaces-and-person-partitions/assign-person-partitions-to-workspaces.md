@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# PersonパーティションのWorkspacesへの割り当て {#assign-person-partitions-to-workspaces}
+# PersonパーティションをWorkspacesに割り当て{#assign-person-partitions-to-workspaces}
 
 次に、個人パーティション/ワークスペースの割り当てを編集する方法を示します。
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ワークスペースと個人パーティションは複雑になる場合があります。 設定に関するヘルプについては、 [マーケティングサポート](http://support.marketo.com/) （英語）にお問い合わせください。
+>ワークスペースと個人パーティションは複雑になる場合があります。 [Marketoサポート](http://support.marketo.com/)にお問い合わせください。
 
 1. 「管理者」で、「ワークスペースとパーティション」をクリックします。
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. ワークスペースを選択し、「 **編集」「ワークスペース**」をクリックします。
+1. ワークスペースを選択し、「**ワークスペースを編集**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   プライマリ担当者パーティションは、すべての人が入力されるデフォルトです。 ユーザーを移動するには、 [フローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)[または](assigning-person-partitions-with-assignment-rules.md) 割り当てルールを使用します。
+   プライマリ担当者パーティションは、すべての人が入力されるデフォルトです。 [フローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](assigning-person-partitions-with-assignment-rules.md)を使用して、人々を移動します。
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/four-3.png)
 
