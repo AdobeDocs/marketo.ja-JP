@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 電子メールのパーソナライズ {#personalize-an-email}
+# 電子メールのパーソナライズ{#personalize-an-email}
 
-## ミッション：データトークンを追加して電子メールを個人用にする {#mission-make-your-emails-personal-by-adding-data-tokens}
+## ミッション：データトークン{#mission-make-your-emails-personal-by-adding-data-tokens}を追加して電子メールを個人用にする
 
 >[!PREREQUISITES]
 >
@@ -22,9 +22,9 @@ ht-degree: 0%
 >* [ドリップ、ドリップ、ナーチャー](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
-## 手順1:パーソナライズする電子メールの選択 {#step-select-an-email-to-personalize}
+## 手順1:個人用に設定する電子メールの選択{#step-select-an-email-to-personalize}
 
-1. [前のクイックウィンドウで作成されたはぐくみ電子メールの1つを選択し](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) 、「ドラフトを **編集**」をクリックします。
+1. [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)で作成されたはぐくみメールの1つを選択し、**ドラフトを編集**&#x200B;をクリックします。
 
    ![](assets/one-4.png)
 
@@ -32,53 +32,53 @@ ht-degree: 0%
    >
    >これにより、電子メールのコピーがドラフトとして作成されます。 変更を有効にするには、下書きを承認する必要があります。
 
-ポップアップブロッカーを有効にしていない場合は、電子メールエディターが新しいタブまたはウィンドウで開きます。 それ以外の場合は、「ドラフトを **編集** 」を2回クリックします。
+ポップアップブロッカーを有効にしていない場合は、電子メールエディターが新しいタブまたはウィンドウで開きます。 それ以外の場合は、「**ドラフトを編集**」を2回クリックします。
 
-## 手順2:販売員を送信者にする {#step-make-the-salesperson-the-sender}
+## 手順2:販売員を送信者にする{#step-make-the-salesperson-the-sender}
 
-1. 「 **From** 」フィールドを選択し、現在の名前をハイライト表示して **削除します** 。
+1. **「**&#x200B;から」フィールドを選択し、現在の名前を&#x200B;**削除**&#x200B;します。
 
    ![](assets/two-5.png)
 
-1. 「 **From** 」フィールドの右側にある「 **Token** 」アイコンをクリックします。
+1. 「**差出人**」フィールドの右にある&#x200B;**トークン**&#x200B;アイコンをクリックします。
 
    ![](assets/three-4.png)
 
-1. トークンを探して選択し **`{{lead.Lead Owner First Name}}`** ます。
+1. **`{{lead.Lead Owner First Name}}`**&#x200B;トークンを探して選択します。
 
    ![](assets/four-3.png)
 
-1. 会社名と **デフォルト値** （ダッシュ）を入力し、販売担当者の名が使用できない場合に何かが表示されるようにします。 [ **挿入**]をクリックします。
+1. 会社名とダッシュを&#x200B;**デフォルト値**&#x200B;に入力し、販売担当者の名が使用できない場合に何かが表示されるようにします。 「**挿入**」をクリックします。
 
    ![](assets/five-4.png)
 
-1. 「 **開始** 」フィールドのスペースバーを押し、挿入したトークンの1スペース後にカーソルが点滅していることを確認します。 次に、「 **Token** 」アイコンを再度クリックします。
+1. 「**開始**」フィールドのスペースバーを押し、挿入したトークンの1つ後にカーソルが点滅していることを確認します。 次に、**トークン**&#x200B;アイコンをもう一度クリックします。
 
    ![](assets/six-4.png)
 
-1. トークンを探して選択し **`{{lead.Lead Owner Last Name}}`** ます。
+1. **`{{lead.Lead Owner Last Name}}`**&#x200B;トークンを探して選択します。
 
    ![](assets/seven-5.png)
 
-1. 「 **デフォルト値** 」に「Sales」と入力し、「 **挿入**」をクリックします。
+1. **デフォルト値**&#x200B;に&quot;Sales&quot;と入力し、**挿入**&#x200B;をクリックします。
 
    ![](assets/eight-3.png)
 
-## 手順3:電子メ追加ールへのリードの名前 {#step-add-the-leads-name-to-the-email}
+## 手順3:電子メ追加ール{#step-add-the-leads-name-to-the-email}へのリードの名前
 
-1. 編集可能な上部のセクションを選択し、歯車アイコンをクリックして「 **編集**」を選択します。
+1. 編集可能な上部の断面を選択し、歯車アイコンをクリックして&#x200B;**編集**&#x200B;を選択します。
 
    ![](assets/nine-2.png)
 
-1. 「追加Hello」の後ろにスペースを入れ、カーソルをカンマの前に置き、「 **Insert Token** 」アイコンをクリックします。
+1. 「追加Hello」の後ろにスペースを入れ、カーソルをカンマの前に置き、**トークンの挿入**&#x200B;アイコンをクリックします。
 
    ![](assets/ten-4.png)
 
-1. トークンを探して選択し **`{{lead.First Name}}`** ます。
+1. **`{{lead.First Name}}`**&#x200B;トークンを探して選択します。
 
    ![](assets/eleven-4.png)
 
-1. 「 **デフォルト値** 」フィールドに「友達」（または任意のラベル）と入力し、「 **挿入**」をクリックします。
+1. 「**デフォルト値**」フィールドに「友達」（または任意のラベル）と入力し、「**挿入**」をクリックします。
 
    ![](assets/twelve-3.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
    >
    >トークンのデフォルト値を常に含める。これにより、個人情報の一部が欠落している場合に、デフォルト値が電子メールに表示されます。
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/thirteen-3.png)
 
@@ -94,15 +94,15 @@ ht-degree: 0%
 
    ![](assets/fourteen-3.png)
 
-1. 「 **電子メールアクション**」で、「 **ドラフトの承認**」を選択します。
+1. 「**電子メールアクション**」で、「**ドラフトを承認**」を選択します。
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->メールの送信方法について簡単な更新が必要ですか？ Send an Email Blastを参照して [ください](/help/marketo/getting-started/quick-wins/send-an-email.md)。
+>メールの送信方法について簡単な更新が必要ですか？ 「[Eメール送信](/help/marketo/getting-started/quick-wins/send-an-email.md)」を参照してください。
 
-### ミッション完了 {#mission-complete}
+### ミッション完了{#mission-complete}
 
 メールをパーソナライズしました。
 
