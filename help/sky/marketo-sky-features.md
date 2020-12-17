@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo Skyの機能
 
-の内容は下に示し [!DNL Marketo Sky]ます。
+[!DNL Marketo Sky]で何が使えるかは下に見えます。
 
 ## ナビゲーション
 
