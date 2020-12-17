@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 連結文字列（数式）フィールドの作成と使用 {#create-and-use-a-concatenated-string-formula-field}
+# 連結文字列（数式）フィールドの作成と使用{#create-and-use-a-concatenated-string-formula-field}
 
 複数のフィールドの値を組み合わせたり、マーケティング先の数式フィールドを使用して条件付きの値を作成したりできます。
 
-1. 「 **管理者** 」に移動し、「 **フィールド管理**」をクリックします。
+1. **管理者**&#x200B;に移動し、**フィールド管理**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. 「 **新しいカスタムフィールド**」をクリックします。
+1. 「**新しいカスタムフィールド**」をクリックします。
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. 「 **タイプ** 」で「 **式**」を選択します。
+1. 「**式**」を&#x200B;**タイプ**&#x200B;に選択します。
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. フィールドの **名前** を入力し、「 **作成**」をクリックします。
+1. フィールドに&#x200B;**名前**&#x200B;を入力し、**作成**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. 数式フィールドを探して選択し、「ルールの **編集**」をクリックします。
+1. 数式フィールドを探して選択し、[**ルールの編集**]をクリックします。
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   フローステップの [トークンの詳細](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)。
+   フローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)の[トークンの詳細を表示します。
 
 1. これで、電子メール内で数式フィールドをトークンとして追加できます。
 
