@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# スマートリストを使用したオーディエンスの定義 {#define-an-audience-with-a-smart-list}
+# スマートリスト{#define-an-audience-with-a-smart-list}でオーディエンスを定義
 
-電子メールプログラム [を作成したら](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)、電子メールの送信先を指定します。 これを行うには、リストのユーザーを [読み込むか](define-an-audience-by-importing-a-list.md) 、スマートリストを使用します。 賢いリストでこれを達成する方法を次に示します。
+[電子メールプログラム](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成したら、誰に電子メールを送るかを知らせます。 これを行うには、[人のリスト](define-an-audience-by-importing-a-list.md)をインポートするか、スマートリストを使用します。 賢いリストでこれを達成する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -29,17 +29,17 @@ ht-degree: 0%
 >
 >オーディエンスの定義は、電子メールプログラムが承認されていない場合にのみ機能します。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 電子メールプログラムを選択し、 **オーディエンス** タイルの下にある「スマートリストを編集 **** 」をクリックします。
+1. 電子メールプログラムを選択し、**オーディエンス**&#x200B;タイルの下にある「スマートリストを編集&#x200B;**」をクリックします。**
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >この設定を見つけるには、表示が **Campaign コントロールパネル** に設定されていることを確認してください。
+   >この設定を見つけるには、表示が&#x200B;**Campaign コントロールパネル**&#x200B;に設定されていることを確認してください。
 
 1. 使用するフィルターを見つけて、キャンバスにドラッグします。
 
@@ -54,13 +54,13 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >フィルターの使用と定義について詳しくは、 [スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) を確認してください。
+   >フィルターの使用と定義の詳細については、[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)を参照してください。
 
 1. フィルターの追加と定義が完了したら、メインプログラムタブに戻ります。 資格を得た人の数が表示されます。
 
    ![](assets/myemailprogram.jpg)
 
-   素晴らしい仕事！ 次に、既存の電子メールを [選択するか](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 、これらのユーザーに送信する電子メールを [作成します](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 。
+   素晴らしい仕事！ これで、[既存の電子メール](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)を選ぶか、[メール](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)を作成して、これらの人に送信するタイミングになりました。
 
 >[!NOTE]
 >
@@ -76,9 +76,9 @@ ht-degree: 0%
 
 >
 >
-通知をブロックしたユーザーの詳細リストを表示するには、その番号をクリックします。 **注意：** 未登録とマークされ、マーケティングが停止されたユーザーには、操作用の電子メールが引き続き送信されます。
+通知をブロックしたユーザーの詳細リストを表示するには、その番号をクリックします。 **注意：** 操作用の電子メールは、登録解除とマーケティングの一時停止のマークが付けられたユーザーに引き続き送信されます。
 >
->オーディエンスタイルの ![—](assets/image2014-10-23-16-3a32-3a36.png) ボタンを使用して、電子メールを受信する人数を確認します。
+>オーディエンスタイルの![—](assets/image2014-10-23-16-3a32-3a36.png)ボタンを使用して、電子メールを受信する人数を確認します。
 
 >[!NOTE]
 >
