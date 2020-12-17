@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics同期：カスタムエンティティ同期 {#microsoft-dynamics-sync-custom-entity-sync}
+# Microsoft Dynamics同期：カスタムエンティティ同期{#microsoft-dynamics-sync-custom-entity-sync}
 
 DynamicsのデータをMarketoで使用できるようにするために、最初のカスタムエンティティ同期を有効にする必要がある場合は、次の方法を使用します。
 
@@ -21,7 +21,7 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、Dynamicsの [リード](microsoft-dynamics-sync-lead-sync.md)、 [連絡先](microsoft-dynamics-sync-contact-sync.md)、または [](microsoft-dynamics-sync-account-sync.md)アカウントオブジェクトに関連付ける必要があります。
+>カスタムオブジェクトを使用するには、Dynamicsの[リード](microsoft-dynamics-sync-lead-sync.md)、[連絡先](microsoft-dynamics-sync-contact-sync.md)、または[アカウント](microsoft-dynamics-sync-account-sync.md)オブジェクトに関連付ける必要があります。
 
 >[!CAUTION]
 >
@@ -31,21 +31,21 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. 「同期を **無効にする** 」をクリックして、標準のグローバル同期を一時的に無効にします。
+1. 「**同期を無効にする**」をクリックして、標準のグローバル同期を一時的に無効にします。
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 Microsoft Dynamicsの [Marketoプラグインリリースを参照してください](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)。
+1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 [Microsoft Dynamics用のMarketoプラグインリリース](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 1. 同期する予定のエンティティに対する読み取りアクセス権を、マーケティング担当者に付与します。
 1. [データベースの管理]で、[** Dynamicsエンティティ同期**]リンクをクリックします。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. 「 **同期スキーマ** 」リンクをクリックして、使用可能なカスタムエンティティのリストを表示します。
+1. 「**スキーマ**&#x200B;を同期」リンクをクリックして、使用可能なカスタムエンティティのリストを表示します。
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. リストの同期後、同期するフィールドと、スマートリストで [制約](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) /トリガーとして使用するフィールドを選択します。 完了したら、「同期を **有効にする**」をクリックします。
+1. リストの同期後、同期するフィールドと、スマートリストで[制約](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガーとして使用するフィールドを選択します。 完了したら、「**同期を有効にする**」をクリックします。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
