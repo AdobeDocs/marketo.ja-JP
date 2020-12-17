@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO — 検索エンジンの地域/国を選択 {#seo-pick-region-country-for-your-search-engine}
+# SEO — 検索エンジンの地域/国を選択{#seo-pick-region-country-for-your-search-engine}
 
 SEO管理者は、キーワードランク情報を取得したい検索エンジンの地域を選択できます。
 
