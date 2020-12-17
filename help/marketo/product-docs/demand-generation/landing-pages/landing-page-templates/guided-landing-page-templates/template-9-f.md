@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレート9 ～ F {#template-f}
+# テンプレート9-F {#template-f}
 
 [テンプレートを9-Fでダウンロード](http://docs.marketo.com/download/attachments/8783996/template-9f.html?version=2&amp;modificationdate=1438210809000&amp;api=v2)
 
