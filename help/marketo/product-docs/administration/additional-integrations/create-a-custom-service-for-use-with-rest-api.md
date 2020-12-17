@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ReST APIで使用するカスタムサービスの作成 {#create-a-custom-service-for-use-with-rest-api}
+# ReST APIで使用するカスタムサービスの作成{#create-a-custom-service-for-use-with-rest-api}
 
 ReST APIを介してMarketoと統合する場合は、カスタムサービスを作成する必要があります。 これが方法です。
 
@@ -32,23 +32,23 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 >
 >**ディープダイブ**
 >
->ReST APIの詳細については、開発者向けドキュメントを参照して [ください](http://developers.marketo.com/documentation/rest/)。 必要に応じて、 [SOAP API](http://developers.marketo.com/documentation/soap/) (SOAP API)もご用意しています。
+>[ReST API](http://developers.marketo.com/documentation/rest/)の詳細については、開発者向けのドキュメントを参照してください。 また、必要に応じて、[SOAP API](http://developers.marketo.com/documentation/soap/)も用意しています。
 
 >[!NOTE]
 >
 >MarketoのSparkレベルを持っている場合は、カスタムサービスを作成できません。
 
-## カスタムサービスの作成 {#create-custom-service}
+## カスタムサービスの作成{#create-custom-service}
 
-1. 「 **管理者** 」に移動し、「 **LaunchPoint**」をクリックします。
+1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. 「 **New**」で、「 **New Service**」をクリックします。
+1. 「**新しい**」で、「**新しいサービス**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. サービスの **表示名** (Display Name)を入力します。 「 **APIのみ」で、** 以前に作成したユーザー [を選択します](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)。
+1. サービスの&#x200B;**表示名**&#x200B;を入力します。 **APIのみユーザー** [以前に作成した](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)を選択します。
 
    >[!NOTE]
    >
@@ -58,27 +58,27 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
-1. 「 **作成**」をクリックします。
+1. 「**作成**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
    ああ！ サービスが作成されました。次に、アクセスを提供するためのすべての資格情報を取得します。
 
-## APIアクセスの資格情報 {#credentials-for-api-access}
+## APIアクセスの資格情報{#credentials-for-api-access}
 
-1. 「 **管理者** 」に移動し、「 **LaunchPoint**」をクリックします。
+1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. 上記で作成したカスタムLaunchPointサービスの「 **表示の詳細** 」をクリックします。
+1. 上記で作成したカスタムLaunchPointサービスの&#x200B;**表示の詳細**&#x200B;をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. 「 **トークンを取得**」をクリックします。
+1. 「**トークンを取得**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. 接続の確立の担当者に、** Client Id**、 **Client Secret**、 **Authorized User****、** Tokenを提供します。
+1. 接続の確立の担当者に、**クライアントID**、**クライアントシークレット**、**許可されたユーザー**、**トークン**&#x200B;を提供します。
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
