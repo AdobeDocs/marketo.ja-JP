@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# デフォルトのブランドドメインのWorkspacesでの編集 {#edit-your-default-branding-domain-with-workspaces}
+# ワークスペースを使用したデフォルトのブランドドメインの編集{#edit-your-default-branding-domain-with-workspaces}
 
-1. 「 **管理者**」に移動し、「 **電子メール**」をクリックします。
+1. **管理者**&#x200B;に移動し、**電子メール**&#x200B;をクリックします。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >ブランディングドメインを追加する場合、1つ以上のワークスペースのプライマリドメインを選択できます。既存の未送信の電子メールはすべて「デフォルト」に設定され、新しく作成されたすべての電子メールはデフォルトでプライマリドメインに設定されます。 この設定は、電子メールごとに上書きできます。
 
-これで、ワークスペースに必要なブランドドメインを [追加でき](add-an-additional-branding-domain-with-workspaces.md) 、
+これで、ワークスペースに必要な追加のブランディングドメイン[を追加できます。](add-an-additional-branding-domain-with-workspaces.md)
 
 >[!MORELIKETHIS]
 >
