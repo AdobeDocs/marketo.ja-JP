@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フリ追加ーフォームランディングページ内の画像へのリンク {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# フリ追加ーフォームランディングページ内の画像へのリンク{#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 ランディングページ上の画像を別のページ/サイトへのリンクにしたい場合 これが方法です。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. [ **プロパティシート**]を展開します。
+1. **プロパティシート**&#x200B;を展開します。
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/add-link.png)
 
-   おめでとう！ これで、ランディングページ上の画像へのリンクが正常に追加されました。 これで、ページに [プレビューして実行中のページを表示できます](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 。
+   おめでとう！ これで、ランディングページ上の画像へのリンクが正常に追加されました。 これで、[ページ](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)をプレビューして実行中のページを表示できます。
 
 >[!TIP]
 >
