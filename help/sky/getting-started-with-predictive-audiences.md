@@ -29,8 +29,8 @@ AI/MLモデルのパフォーマンスは、購読ー内のデータに依存し
 
 PrimeまたはUltimateの価格バンドルを使用するインスタンスに対して、予測オーディエンスが自動的に含まれ、アクティブ化されます。 この機能へのアクセス方法の詳細については、カスタマーサクセスマネージャーにお問い合わせください。
 
-1. インスタンスに機能を追加したら、の **[!UICONTROL 管理者]** 領域の **[!UICONTROL 予測オーディエンス]** ページに移動し [!DNL Marketo Classic]ます。
+1. 機能をインスタンスに追加したら、[!DNL Marketo Classic]の&#x200B;**[!UICONTROL 管理者]**&#x200B;の&#x200B;**[!UICONTROL 予測オーディエンス]**&#x200B;ページに移動します。
 
-1. 「予測オーディエンスを&#x200B;**[!UICONTROL 有効にする]** 」をオンにして、この機能をアクティブにします。 すべてのプロセスがセットアップを完了するまで、最大24時間かかる場合があります。
+1. **[!UICONTROL 予測オーディエンスを有効にする]**&#x200B;をオンにして、機能をアクティブにします。 すべてのプロセスがセットアップを完了するまで、最大24時間かかる場合があります。
 
    ![イメージ1](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
