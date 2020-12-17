@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Socialアプリの共有URLの選択 {#choose-the-share-url-for-a-social-app}
+# ソーシャルアプリの共有URLを選択{#choose-the-share-url-for-a-social-app}
 
 ソーシャルアプリを作成する際に、参加者からの投稿で共有するURLを選択できます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. アプリを選択し、「ドラフトを **編集**」をクリックします。
+1. アプリを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Socialアプリエディターで、「 **アプリ設定** 」、「 **詳細オプション**」の順に選択します。
+1. Social App Editorで、「**アプリ設定**」に移動し、「**詳細オプション**」に移動します。
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
