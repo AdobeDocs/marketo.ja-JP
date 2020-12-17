@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2017年4月ABMの機能強化 {#release-notes-april-abm-enhancements}
+# リリースノート：2017年4月のABM拡張機能{#release-notes-april-abm-enhancements}
 
 4月17日のABM機能強化リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
-## CRMにマップされた標準フィールドの同期 {#synching-of-crm-mapped-standard-fields}
+## CRMにマップされた標準フィールドの同期{#synching-of-crm-mapped-standard-fields}
 
 Marketto ABMは、CRMに関連する行動を変更しています。 今後、Marketor ABMは、ABMアカウントとCRMのアカウントとの間に1対1の関係を確立し、維持します。 これにより、マーケティング担当者は、マッピングされたアカウントフィールドをCRMと同期させ続けることができます。
 
-## CRM検出用のカスタムフィールド {#custom-fields-for-crm-discovery}
+## CRM検出用のカスタムフィールド{#custom-fields-for-crm-discovery}
 
 これで、アカウントにカスタムフィールドを追加し、CRMにマッピングし、MarketorのCRMアカウント検出に使用できるようになりました。
 
 ![](assets/new-custom-field.png)
 
-## [名前付きアカウント]グリッド内のアカウントベースのフィルター {#account-based-filters-in-the-named-account-grid}
+## 名前付きアカウントグリッド{#account-based-filters-in-the-named-account-grid}内のアカウントベースのフィルター
 
 アカウントリストに基づいて、指定したアカウントを簡単にフィルターできます。
 
