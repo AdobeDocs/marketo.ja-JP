@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 関与追加プログラム {#add-to-engagement-program}
+# エンゲージメ追加ントプログラム{#add-to-engagement-program}
 
-## 概要 {#overview}
+## 概要{#overview}
 
 このフロー手順で作成するスマートキャンペーンは、エンゲージメントプログラムのゲートウェイとなります。
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. ユーザーを追加するエンゲージメントプログラムを選択します。
 
