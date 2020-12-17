@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2012年1月/2月 {#release-notes-jan-feb}
+# リリースノート：2012年1月/2月{#release-notes-jan-feb}
 
 1月/2月のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->その他のリリースについては、 [リリースノート](http://docs.marketo.com/display/docs/release+notes) （詳細）を参照してください。
+>その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
 
-## 高度な動的コンテンツ {#advanced-dynamic-content}
+## 高度な動的コンテンツ{#advanced-dynamic-content}
 
 *ProおよびEnterpriseバージョンで利用可能*
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## セグメント  {#segmentation}
+## セグメント{#segmentation}
 
 *ProおよびEnterpriseバージョンで利用可能*
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## スニペット {#snippets}
+## スニペット{#snippets}
 
 *ProおよびEnterpriseバージョンで利用可能*
 
@@ -53,17 +53,17 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## EUプライバシー指令のサポート {#eu-privacy-directive-support}
+## EUプライバシー指令のサポート{#eu-privacy-directive-support}
 
 ブラウザーの「追跡しない」設定に関する新機能には、匿名リードの追跡を無効にする機能が含まれます。これにより、EUのより厳しいプライバシー追跡規制への準拠が容易になる。
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## シングルサインオン {#single-sign-on}
+## シングルサインオン{#single-sign-on}
 
 会社のポータルからのシングルサインオンにSAML 2.0を使用したMarketorアプリケーションへのシームレスなログインをサポートできるようになりました。
 
-## 更新された電子メールエディターとランディングページエディター {#updated-email-and-landing-page-editors}
+## 更新された電子メールエディターとランディングページエディター{#updated-email-and-landing-page-editors}
 
 電子メールエディターとランディングページエディターのデザインが一新され、より魅力的なインターフェイス、直観的なナビゲーション、ユーザーエクスペリエンスが大幅に向上しました。次に例を示します。
 
@@ -73,24 +73,24 @@ HTMLとテキストの表示を並べて表示
 
 エディターに、「送信者名」、「電子メールから」、「返信先」(NEW)および「件名」が表示されます。 その他すべての設定は、「設定を編集」ボタンからアクセスできます。
 
-## ブラウザーのサポート {#browser-support}
+## ブラウザサポート{#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8および9
 * **注意**:Internet Explorer 7はサポートされなくなりました
 
-## プログラム管理 {#program-management}
+## プログラム管理{#program-management}
 
 プログラム管理の簡素化により、トークンの削除の使い勝手が向上し、プログラムの削除が容易になります。
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## 購読レポートの登録解除 {#unsubscribe-from-subscription-report}
+## 購読レポートの登録を解除{#unsubscribe-from-subscription-report}
 
 これで、購読をレポートから直接登録解除できます。
 
-## Munchkinの最新情報 {#munchkin-updates}
+## Munchkinの更新{#munchkin-updates}
 
 新しいMunchkin呼び出しにより、Webページの読み込み時間が短縮され、クリックリンクイベントのパフォーマンスがより一貫して向上しました。
 
@@ -100,7 +100,7 @@ HTMLとテキストの表示を並べて表示
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## プログラム売上高ステージ分析 {#program-revenue-stage-analysis}
+## プログラム売上高ステージ分析{#program-revenue-stage-analysis}
 
 Fast Moverを取得したプログラムを把握することで、プログラムのリードの速度を把握
 
