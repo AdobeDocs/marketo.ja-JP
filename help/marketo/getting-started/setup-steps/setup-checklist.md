@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# セットアップチェックリスト {#setup-checklist}
+# セットアップチェックリスト{#setup-checklist}
 
-マーケットへようこそ！ 以下のチェックリストは、使い始めるための視覚的なリストとして自由に使用してください。 詳しくは、 [セットアップ手順](/help/marketo/getting-started/setup-steps.md)。
+マーケットへようこそ！ 以下のチェックリストは、使い始めるための視覚的なリストとして自由に使用してください。 詳しくは、[セットアップ手順](/help/marketo/getting-started/setup-steps.md)を参照してください。
 
-## マーケティング担当者へのログインと追加ユーザーの作成 {#log-in-to-marketo-and-create-additional-users}
+## Marketorにログインして追加ユーザーを作成{#log-in-to-marketo-and-create-additional-users}
 
 1. Marketoへのログイン
 1. 追加のユーザーの作成
 
-## 認定サポート連絡先の設定 {#set-up-an-authorized-support-contact}
+## サポート窓口の設定{#set-up-an-authorized-support-contact}
 
 1. 承認されたサポート連絡先の設定
 1. ランディングページURLのカスタマイズ
@@ -28,24 +28,24 @@ ht-degree: 0%
 1. IT部門に、ランディングページCNAME用のDNSレコードの作成を依頼する
 1. ITが完了したら、Marketorでランディングページドメイン名を設定します
 
-## 電子メールの配信品質の確保 {#ensure-email-deliverability}
+## 電子メールの配信品質を確認{#ensure-email-deliverability}
 
 1. ブランドのトラッキングリンク用の電子メールCNAMEの選択
 1. IT部門に電子メールCNAME用のDNSレコードを設定するよう依頼する
 1. 許可リストマーケティング担当者にITに質問
 1. Admin領域でのDKIMおよびSPFの設定
-1. MXの設定 `[FromDomain1]`
+1. `[FromDomain1]`のMXを設定
 1. 電子メールCNAMEの使用が完了したら、Marketorで電子メールCNAMEを設定します
 
-## ランディングページおよび電子メールテンプレート用のURLの送信 {#submit-a-url-for-landing-page-and-email-templates}
+## ランディングページおよび電子メールテンプレートのURLを送信{#submit-a-url-for-landing-page-and-email-templates}
 
 1. 新しいテンプレート用のURLを送信するためのフォームに入力します
 
-## CRM同期 {#crm-sync}
+## CRM同期{#crm-sync}
 
 1. CRM管理者と協力して、すべてのCRM連絡先をMarketorと同期します。
 
-## Webサイト追加へのトラッキングコード {#add-tracking-code-to-your-website}
+## Webサイト追加へのトラッキングコード{#add-tracking-code-to-your-website}
 
 1. Web開発者と協力して、Webサイトにトラッキングコードを追加します。
 
