@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# サポートされるブラウザ {#supported-browsers}
+# サポートされるブラウザ{#supported-browsers}
 
 Marketorは現在、次のブラウザーをサポートしています。
 
@@ -22,4 +22,4 @@ Marketorは現在、次のブラウザーをサポートしています。
 | [Apple Safari](http://support.apple.com/downloads/#safari) | 最新の |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | 最新の |
 
-快適な環境でご利用いただくために、ブラウザーを更新し **てください**。
+最良の結果を得るために、**ブラウザーを更新しておきます**!
