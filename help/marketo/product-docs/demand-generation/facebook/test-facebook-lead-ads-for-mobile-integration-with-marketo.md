@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# Facebookのリード広告をテストして、マーケティング担当者とモバイルの統合を実現 {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Facebookのリード広告をテストして、マーケティング担当者{#test-facebook-lead-ads-for-mobile-integration-with-marketo}とモバイルの統合を実現
 
 リード広告を作成した後、テストする必要があります。
 
 >[!PREREQUISITES]
 >
->Facebookリード広告の統合を [設定する必要があります](set-up-facebook-lead-ads.md)。
+>[Facebookリード広告統合](set-up-facebook-lead-ads.md)を設定する必要があります。
 
-1. Facebookパワーエディターで、キャンペーン、広告を選択し、「 **編集**」をクリックします。
-1. 「 **リンク**」の下の「モバイルアプリの **表示** 」リンクをクリックします。
+1. Facebookパワーエディターで、キャンペーン、広告を選択し、「**編集**」をクリックします。
+1. 「**リンク**」の下の「**モバイルアプリ**」リンクの&lt;a2/>表示をクリックします。
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 新しい通知がFacebookアカウントに送信され、認証済みアカウントを使用してモバイルデバイスでアクセスできるようになります。 「 **OK**」をクリックします。
+1. 新しい通知がFacebookアカウントに送信され、認証済みアカウントを使用してモバイルデバイスでアクセスできるようになります。 「**OK**」をクリックします。
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. モバイルデバイス上で、Facebookモバイルアプリの「 **通知** 」をタップします。
+1. モバイルデバイス上で、Facebookモバイルアプリの&#x200B;**通知**&#x200B;をタップします。
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. 「通知」で、「広告 **をプレビューする準備ができました**」をタップします。
+1. 「通知」で、**広告をプレビューする準備ができたことを確認します。**
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >これは、「詳細なアクションの呼び物」を使用した一例に過ぎません。 リード広告の単位による誘い文句（CTA：コールトゥアクション）が異なる場合があります。
 
-1. ここが魔法が起こる場所だ！ フォームを送信したら、プログラムの一部として、または [入力済みのFacebookリード広告フォーム](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) フィルターを使用するリードリストをMarketo **** に作成します。 先ほど提出したフォームのリード広告フォーム名を挿入します。
+1. ここが魔法が起こる場所だ！ フォームを送信したら、[プログラムの一部として、または&#x200B;**入力済みFacebookリード広告フォーム**&#x200B;フィルターを使用するリードリストをMarketor](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)に作成します。 先ほど提出したフォームのリード広告フォーム名を挿入します。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
