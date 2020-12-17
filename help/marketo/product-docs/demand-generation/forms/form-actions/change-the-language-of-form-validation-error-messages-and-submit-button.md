@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フォームの検証/エラーメッセージおよび送信ボタンの言語の変更 {#change-the-language-of-form-validation-error-messages-and-submit-button}
+# フォームの検証/エラーメッセージおよび送信ボタンの言語の変更{#change-the-language-of-form-validation-error-messages-and-submit-button}
 
 フォームをカスタマイズして別の言語でメッセージを表示できることをご存じですか。 これを見て。
 
@@ -19,27 +19,27 @@ ht-degree: 0%
 >
 >送信ボタンの言語も変更されます。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. フォームを選択し、「フォームを **編集」をクリックします。**
+1. フォームを選択し、「**フォームを編集」をクリックします。**
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. 「 **フォーム設定」で、** 「 **設定**」をクリックします。
+1. 「**フォーム設定」で、**「**設定**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 必要な **エラー****** 言語を選択します。
+1. 必要な&#x200B;**エラー** **言語**&#x200B;を選択します。
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. 「 **完了**」をクリックします。
+1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. 「 **承認して閉じる** 」をクリックして、変更を適用し、保存します。
+1. **「承認して**&#x200B;を閉じる」をクリックして、変更を適用し、保存します。
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ ht-degree: 0%
    >**Reminder**
    >
    >
-   >フォームの変更によって作成されたランディングページ [（下書き）を忘れずに](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 承認してください。
+   >フォームの変更によって作成されたランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)のドラフトを[承認することを忘れないでください。
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
