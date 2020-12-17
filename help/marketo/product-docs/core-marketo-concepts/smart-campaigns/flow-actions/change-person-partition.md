@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# ユーザーパーティションの変更 {#change-person-partition}
+# ユーザーパーティションの変更{#change-person-partition}
 
-## 概要 {#overview}
+## 概要{#overview}
 
-ワー [クスペースとパーティションを使用している場合](http://docs.marketo.com/x/9QMk)、スマートキャンペーンを作成して、ユーザーを別のパーティションに移動する必要があります。
+[ワークスペースとパーティション](http://docs.marketo.com/x/9QMk)を使用している場合は、スマートキャンペーンを構築して、ユーザーを別のパーティションに移動します。
 
 ![](assets/one-3.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 1. ユーザーの移動先のパーティションを選択します。
 
