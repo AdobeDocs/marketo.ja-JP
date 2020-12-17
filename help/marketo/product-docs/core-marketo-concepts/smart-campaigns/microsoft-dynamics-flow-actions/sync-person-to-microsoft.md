@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# ユーザーをMicrosoftに同期 {#sync-person-to-microsoft}
+# ユーザーをMicrosoftに同期{#sync-person-to-microsoft}
 
 この機能は、MarketoをMicrosoft Dynamicsと統合しているユーザーのみが対象です。
 
-## 概要 {#overview}
+## 概要{#overview}
 
 このフロー手順により、Marketorが作成した人がDynamics CRMに挿入されます。
 
 ![](assets/one.png)
 
-## 使用状況 {#usage}
+## 使用法{#usage}
 
 Dynamicsユーザーを個人所有者として設定できます。
 
