@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 固有のアカウントの概要 {#named-account-overview}
+# 名前付きアカウントの概要{#named-account-overview}
 
 指定されたアカウントは、対象とする会社のユーザーを保持します。 このダッシュボードは、すべての名前付きアカウントの各属性の現在のデータを提供します。
 
-## 指定されたアカウントダッシュボード {#named-accounts-dashboard}
+## 名前付きアカウントダッシュボード{#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Marketorには、Marketorに同期されたすべてのCRMユーザーが、「アカウント所有者」または「アカウントチームのメンバー」のフィルター値として表示されます。
 
-## 名前付きアカウント属性 {#named-account-attributes}
+## 名前付きアカウント属性{#named-account-attributes}
 
 <table> 
  <tbody> 
