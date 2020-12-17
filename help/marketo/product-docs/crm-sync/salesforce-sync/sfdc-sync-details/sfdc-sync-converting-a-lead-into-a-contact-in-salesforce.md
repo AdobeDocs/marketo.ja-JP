@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：Salesforceでリードを連絡先に変換する {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
+# SFDC同期：Salesforceのリードを連絡先に変換{#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Salesforceの3つの異なるシナリオを考えてみましょう。(Marketoの「 [人物をコンバート」フローステップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) は使用しない)。
+Salesforceの3つの異なるシナリオを考えてみましょう。（Marketoでは、[人物をフローステップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)に変換しない）
 
-1. リードを **新しい連絡先と新しいアカウントに変換する**
-1. リードを **既存のアカウントの****新しい連絡先に変換する**
+1. リードを&#x200B;**新しい連絡先と新しいアカウントに変換**
+1. **既存のアカウント**&#x200B;の&#x200B;**新しい連絡先**&#x200B;にリードを変換する
 
-1. リードを **既存のアカウントの** 既存の連絡先に変換する **(これは** 結合と同じように機能 [](sfdc-sync-merging-a-lead-contact-person.md))
+1. **既存のアカウント**&#x200B;の&#x200B;**既存の連絡先**&#x200B;へのリードの変換（[結合](sfdc-sync-merging-a-lead-contact-person.md)と同じ）
 
-3つすべての場合、Salesforceでは **1件の連絡先、1件の連絡先、およびMarketoでは1人の人がいない連絡先になります。**
+3つの場合はすべて、**1件の連絡先、Salesforceでは1件のリード、Marketoでは1件の連絡先、Marketoでは1人の人がいないという結果になります。**
 
 Marketoでは、レコードにSFDC Type = Contactと表示されます。
 
 >[!TIP]
 >
->Salesforceでの変換時に、 [リードのカスタムフィールドが適切にマッピングされていることを確認します](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)。 データを失いたくない。
+>Salesforceでの変換時に、[リードのカスタムフィールドが適切にマッピングされていることを確認してください](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)。 データを失いたくない。
 
 トリガーおよびフィルターには、次を使用できます。&quot;リードはコンバートされました&quot;と&quot;リードはコンバートされました。&quot;
