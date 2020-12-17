@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンの結果をExcelにエクスポート {#export-smart-campaign-results-to-excel}
+# スマートキャンペーンの結果をExcelにエクスポート{#export-smart-campaign-results-to-excel}
 
 スマートキャンペーンの結果をExcelにエクスポートし、Marketoの外部で使用できるようにします。
 
-1. スマートキャンペーンーで、「 **結果** 」をクリックし、下部にある書き出しアイコンをクリックします。
+1. スマートキャンペーンーで、**「結果**」をクリックし、下部にある書き出しアイコンをクリックします。
 
    ![](assets/exportexcel-hands.png)
 
