@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ポータル追加へのシングルサインオン {#add-single-sign-on-to-a-portal}
+# ポータルへ追加のシングルサインオン{#add-single-sign-on-to-a-portal}
 
 ユーザーを認証するディレクトリサービスがある場合、Marketorへのシングルサインオン(SSO)を許可できます。 Security Assertion Markup Language(SAML)バージョン2.0以降を使用して、この機能をサポートしています。
 
@@ -25,77 +25,77 @@ SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証で�
 
 >[!NOTE]
 >
->Microsoft Azureユーザーですか？ 各社の [統合チュートリアルをご覧ください](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)。
+>Microsoft Azureユーザーですか？ [統合チュートリアル](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)を見てください。
 
-## リクエストの送信方法 {#how-to-send-the-request}
+## リクエストの送信方法{#how-to-send-the-request}
 
-* SAML応答であるSSO要求を `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* SPのオーディエンスURLとして使用する。 http://saml.marketo.com/spを使用 [します。](http://saml.marketo.com/sp)
-* SPNameQualifier属性を使用する場合は、SubjectのNameID要素をhttp://saml.marketo.com/spに設定し [ます。](http://saml.marketo.com/sp)
-* 複数のMarketor購読を同じSSOプロバイダーに統合する場合、各Marketorサブに対して一意のSP URLをその形式で使用できます `http://saml.marketo.com/sp/<munchkin_id>`
+* SAML応答であるSSO要求を`https://login.marketo.com/saml/assertion/<your-munchkin-id>`に送信します
+* SPのオーディエンスURLとして使用する。 [http://saml.marketo.com/sp](http://saml.marketo.com/sp)を使用
+* SPNameQualifier属性を使用する場合、SubjectのNameID要素を[http://saml.marketo.com/sp](http://saml.marketo.com/sp)に設定します。
+* 複数のMarketor購読を同じSSOプロバイダーに統合する場合、`http://saml.marketo.com/sp/<munchkin_id>`の形式で各Marketorサブに一意のSP URLを使用できます。
 
 >[!NOTE]
 >
 >ユーザーが最初にIdpログインページを起動し、認証してから「マーケティング担当者」に移動する、IDプロバイダーが開始する（IdPが開始するとも呼ばれます）操作のみがサポートされます。
 
-## 追加のメモ {#additional-notes}
+## 追加のメモ{#additional-notes}
 
-* **同期アップ時間** — 新規ユーザーの場合、最初のSSO要求が処理されるまでに約10分の遅延があります。
-* **ユーザープロビジョニング** — ユーザーは、Marketing Targetによって手動でプロビジョニングされます。
-* **認証** — ユーザー権限はMarketor内で保持されます。
-* **OAuthのサポート** - Marketoは、現在OAuthをサポートしていません。
+* **同期アップ時間**  — 新規ユーザーの場合、最初のSSO要求が処理されるまでに約10分の遅延があります。
+* **ユーザープロビジョニング**  — ユーザーは、Marketing Targetによって手動でプロビジョニングされます。
+* **認証**  — ユーザー権限はMarketor内で保持されます。
+* **OAuthサポート** - Marketorは現在OAuthをサポートしていません。
 
 >[!NOTE]
 >
 >起動する前に、IDプロバイダ証明書をX.509形式、.crt、.der、または.cer拡張子で入手してください。
 
-## SAML設定の更新 {#update-saml-settings}
+## SAML設定の更新{#update-saml-settings}
 
 SSOはデフォルトで無効になっています。 SAMLを有効にして設定するには、次の手順に従います。
 
-1. 「**管理者**」に移動し、「 **シングルサインオン**」をクリックします。
+1. 「**管理者**」に移動し、「**シングルサインオン**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >「 **管理者」の下に「** シングルサインオン **」が表示されない場合は、にお問い合わせく**[`[email protected]`](http://mailto:support@marketo.com)ださい。
+   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[`[email protected]`](http://mailto:support@marketo.com)にお問い合わせください。
 
-1. 「 **SAML設定** 」セクションで、「 **編集**」をクリックします。
+1. 「**SAML設定**」セクションで、「**編集**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
-1. 「 **SAMLシングルサインオン** 」を「 **有効**」に変更します。
+1. **SAMLシングルサインオン**&#x200B;を&#x200B;**有効**&#x200B;に変更します。
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. 発行者ID **、**&#x200B;エンティティIDを入力し、「 **ユーザIDの場所**」を選択して「 ********&#x200B;参照」をクリックします。
+1. **発行者ID**、**エンティティID**&#x200B;を入力し、**ユーザーIDの場所**&#x200B;を選択して、**参照**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. ID **プロバイダ証明書** ファイルを選択します。
+1. **IDプロバイダー証明書**&#x200B;ファイルを選択します。
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
-## リダイレクトページ設定の更新 {#update-redirect-page-settings}
+## リダイレクトページ設定の更新{#update-redirect-page-settings}
 
-1. 「 **リダイレクトページ** 」セクションで、「 **編集**」をクリックします。
+1. 「**ページをリダイレクト**」セクションで、「**編集**」をクリックします。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >ユニバーサルIDとSSOを使用するお客様は、「 **ログインURL** 」フィールドにIDプロバイダーのログインURLを入力する必要があります。
+   >ユニバーサルIDとSSOを使用するお客様は、IDプロバイダーのログインURLを&#x200B;**Login URL**&#x200B;フィールドに入力する必要があります。
 
-1. ログア **ウトURLを入力します**。 これは、ユーザーがMarketoからログアウトしたときに表示するURLです。
+1. **ログアウトURL**&#x200B;を入力します。 これは、ユーザーがMarketoからログアウトしたときに表示するURLです。
 
    ![](assets/eight.png)
 
-1. エラー **URLを入力します**。 これは、Marketorへのログインに失敗した場合にユーザーに転送するURLです。 「 **保存**」をクリックします。
+1. **エラーURL**&#x200B;を入力します。 これは、Marketorへのログインに失敗した場合にユーザーに転送するURLです。 「**保存**」をクリックします。
 
    ![](assets/nine.png)
 
