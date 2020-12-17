@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LaunchPointサ追加ービスとしてのGoToウェビナー {#add-gotowebinar-as-a-launchpoint-service}
+# LaunchPointサ追加ービスとしてのGoToWebinar {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketorは、GoToウェビナーの登録と出欠を管理します。
 
@@ -29,11 +29,11 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 >
 >GoToMeeting、GoToWebcast、GoToTrainingは現在サポートされていません。
 
-1. 「 **管理者** 」に移動し、「 **LaunchPoint**」を選択します。
+1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;を選択します。
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. 「 **New** and **New Service**」を選択します。
+1. 「**新規**」と「**新しいサービス**」を選択します。
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -41,23 +41,23 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 次に、「 **Log Into** GoToWebinar ****」をクリックします。
+1. 次に、「**Log Into** **GoToWebinar**」をクリックします。
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Marketoフォームの会社名とジョブタイトルをGoToWebセミナーと同期する場合は、「追加のフィールドを **有効にする** 」ボックスを選択します。
+   >Marketoフォームの会社名とジョブタイトルをGoToWebinarに同期する場合は、「**追加のフィールドを有効にする**」ボックスを選択します。
 
-1. 「GoToWebinarのサインイン」ポップアップウィンドウで、GoToWebinarの **電子メールとパスワードを入力し、「** サインイン ****」をクリックします。
+1. GoToWebinarのサインインポップアップウィンドウで、**GoToWebinar**&#x200B;の電子メールとパスワードを入力し、**サインイン**&#x200B;をクリックします。
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
-1. ウィンドウが閉じたら、「 **作成**」をクリックします。
+1. ウィンドウが閉じたら、「**作成**」をクリックします。
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 素晴らしい！ GoToWebinar **アカウントはMarketoと同期されます** 。
+1. 素晴らしい！ **GoToWebinar**&#x200B;アカウントはMarketoと同期されます。
 
    ![](assets/goto-webinar.png)
 
@@ -67,5 +67,5 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
 >[!MORELIKETHIS]
 >
->GotoWebinarを使用してイベントを [作成する方法を説明します](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)。
+>[GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)でイベントを作成する方法を説明します。
 
