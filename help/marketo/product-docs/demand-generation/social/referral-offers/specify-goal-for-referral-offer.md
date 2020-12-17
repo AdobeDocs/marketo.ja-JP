@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 照会オファーの目標の指定 {#specify-goal-for-referral-offer}
+# 参照オファーの目標を指定{#specify-goal-for-referral-offer}
 
-参照オファーを [作成する場合](create-a-referral-offer.md)、受渡目標を定義する必要があります。 目標は、ページ訪問数やサインアップ数など、Webページ上の個人アクティビティによって定義できます。 カス [タムJavaScriptイベントを使用することもできます](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)。
+[参照オファー](create-a-referral-offer.md)を作成する場合は、受渡目標を定義する必要があります。 目標は、ページ訪問数やサインアップ数など、Webページ上の個人アクティビティによって定義できます。 [カスタムJavaScriptイベント](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)を使用することもできます。
 
-また、Marketoで [スマートリストトリガー](specify-goal-for-referral-offer.md) （スマート）を使用して、参照者に対してオポチュニティが作成されるなど、マイルストーンを待つこともできます。
+別の方法として、マーケティングで[スマートリストトリガー](specify-goal-for-referral-offer.md)を使用して、参照者に対してオポチュニティが作成されるなど、マイルストーンを待つこともできます。
 
 目標の例：
 
@@ -25,37 +25,37 @@ ht-degree: 0%
 * 2参照によるeコマース購入
 * 5人の参加者によるウェビナー
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
-1. 照会オファーを選択し、「ドラフトを **編集」をクリックします。**
+1. 参照オファーーを選択し、「**ドラフトを編集」をクリックします。**
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. 参照オファーエディターで、 **アプリ設定** / **オファーの詳細に移動します。**
+1. 参照オファーエディターで、**アプリ設定**/**オファーの詳細に移動します。**
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. 「 **設定**」で、「 **受渡目標** 」ドロップダウンからイベントタイプを選択します。
+1. 「**設定**」で、**達成目標**&#x200B;ドロップダウンからイベントタイプを選択します。
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->「転送者にクレジットを与える **」フロー・ステップを使用する場合は、履行目標タイプとして「** スマートリストトリガー **** 」を選択する必要があります。
+>「**転送者にクレジットを与える**」フローステップを使用する場合は、「**スマートリストトリガー**」をフルフィルメント目標タイプとして選択する必要があります。
 
 * 参照による訪問：オファーの参加者は、オファーをホストする友人からページへの訪問ごとにクレジットを受け取ります。
 * 参照先サインアップ：オファーの参加者は、オファーに登録した各友人のクレジットを受け取ります。
-* スマートリストトリガー：オファー参加者は、スマートキャンペーンの [スマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) トリガーの条件を満たす各友人のクレジットを受け取り [](http://docs.marketo.com/display/docs/smart+campaigns)ます。 例えば、参照元見込み客がウェビナーにサインアップしたときに起動するトリガーを使用できます。
+* スマートリストトリガー：オファー参加者は、[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)の[スマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)トリガーの条件を満たす各友人のクレジットを受け取ります。 例えば、参照元見込み客がウェビナーにサインアップしたときに起動するトリガーを使用できます。
 
-* カスタムJavaScriptイベント:オファーの参加者は、ページ上で定義されたJavaScriptイベントをトリガーした各友人のクレジットを受け取ります。 カスタムイベントの [コンバージョンスクリプトを参照してください](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
+* カスタムJavaScriptイベント:オファーの参加者は、ページ上で定義されたJavaScriptイベントをトリガーした各友人のクレジットを受け取ります。 「[カスタムイベント用のコンバージョンスクリプト](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)」を参照してください。
 
 >[!NOTE]
 >
->スマートキャンペーンには、ソーシャルアクティビティを監視するための新しいフィルターおよびトリガーが用意されています。 ソーシャルアクティビティでのトリガーとフィルターの [使用を参照してください](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)。
+>スマートキャンペーンには、ソーシャルアクティビティを監視するための新しいフィルターおよびトリガーが用意されています。 [ソーシャルアクティビティに対するトリガーとフィルターの使用](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)を参照してください。
 
 >[!MORELIKETHIS]
 >
->次に、参照オファーから送信するサインアップ電子メールと受渡通知電子メール [を](send-referral-offer-fulfillment-email.md) 選択します。
+>次に、参照オファーから送信するサインアップと購読提供数の電子メール](send-referral-offer-fulfillment-email.md)を[選択します。
 
