@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# SFDC同期：キャンペーン同期 {#sfdc-sync-campaign-sync}
+# SFDC同期：キャンペーン同期{#sfdc-sync-campaign-sync}
 
 Marketorプログラムは、Salesforceキャンペーンと同期できます。 この機能の概要を次に示します。
 
-## MarketorプログラムとSalesforceキャンペーンを同期する必要があるのはなぜですか。 {#why-should-i-sync-marketo-programs-with-salesforce-campaigns}
+## MarketorプログラムとSalesforceキャンペーンを同期する必要があるのはなぜですか。{#why-should-i-sync-marketo-programs-with-salesforce-campaigns}
 
 * マーケティングプログラムの強力な機能を使用します。
 * MarketorプログラムとSalesforceキャンペーンの間で、メンバーとそのステータスを同期させます。
 * MarketoとSalesforceのレポート機能をタップします。
 
-## MarketoプログラムとSalesforceキャンペーンは、どのように同期されますか。 {#how-is-a-marketo-program-and-a-salesforce-campaign-synced}
+## MarketoプログラムとSalesforceキャンペーンは、どのように同期されますか。{#how-is-a-marketo-program-and-a-salesforce-campaign-synced}
 
 Marketoでは、プログラムとSalesforceキャンペーンの間の1対1のマッピングを作成するオプションがあります。
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-** [チャネル](../../../../product-docs/administration/tags/create-a-program-channel.md) および** **期間コスト [Marketoは、Salesforceに対して、キャンペーンタイプとしての](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** 期間コストMarkettoと、実際のコストSalesとして同期 ********&#x200B;します。 この同期は、MarketoからSalesforce **への** 1つの方法です。
+Marketoの** [チャネル](../../../../product-docs/administration/tags/create-a-program-channel.md) **と** [キャンペーンコスト](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)**&#x200B;は&#x200B;**期間タイプ**&#x200B;と&#x200B;**実際のコスト**&#x200B;としてSalesforceと同期します。 この同期は、MarketoからSalesforceへの&#x200B;**1方向**&#x200B;です。
 
-Marketo **プログラムメンバー** とその** [進行状態](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)**は、Salesforceキャンペーンメンバーおよび **キャンペーンメンバー像と同期され******&#x200B;ます。 これは **双方向の** 同期です **。したがって**、MarketoまたはSalesforceで行った変更は両方のシステムに反映されます。
+**プログラムメンバー**&#x200B;と** [進行状況](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)**は、**Salesforceキャンペーンメンバー**&#x200B;と&#x200B;**キャンペーンメンバー像**&#x200B;と同期して保持されます。 これは&#x200B;**双方向** **同期**&#x200B;なので、MarketoまたはSalesforceで行った変更は両方のシステムに反映されます。
 
 >[!NOTE]
 >
 >MarketoプログラムにSalesforceに存在しないメンバーが存在する場合、MarketoはSalesforceのリードとしてそれらのメンバーを作成します。
 
-## キャンペーンに関連するトリガー/フィルターは何ですか。 {#what-are-the-triggers-filters-related-to-campaigns}
+## キャンペーンに関連するトリガー/フィルターは何ですか。{#what-are-the-triggers-filters-related-to-campaigns}
 
 トリガー：
 
@@ -47,28 +47,28 @@ Marketo **プログラムメンバー** とその** [進行状態](../../../../p
 
 * SFDCキャンペーンのメンバー
 
-## SFDCキャンペーンにマーケティング担当者を追加できますか。 {#can-i-add-marketo-people-to-my-sfdc-campaign}
+## SFDCキャンペーンにマーケティング担当者を追加できますか。{#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-はい、 [SFDCへのキャンペーンフローアクション](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)を追加使用します。 この人物がSalesforceに存在しない場合、MarketorはSalesforceで作成し、キャンペーンに追加します。
+はい、[からSFDCへのキャンペーンフロー追加アクション](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)を使用します。 この人物がSalesforceに存在しない場合、MarketorはSalesforceで作成し、キャンペーンに追加します。
 
-## Marketoを使用してSFDCキャンペーンからメンバーを削除できますか。 {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
+## Marketoを使用してSFDCキャンペーンからメンバーを削除できますか。{#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-はい、 [SFDCキャンペーンフローからの](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)削除アクションを使用します。
+はい、[SFDCキャンペーンフローから削除](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)を使用します。
 
-## Marketoを使用してキャンペーンのメンバーステータスを変更できますか。 {#can-i-change-campaign-member-status-using-marketo}
+## Marketoを使用してキャンペーンのメンバーステータスを変更できますか。{#can-i-change-campaign-member-status-using-marketo}
 
-はい、SFDCキャンペーンフローアクションの [変更ステータスを使用し](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)ます。
+はい、SFDCキャンペーンフローアクション](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)の[ステータスの変更を使用します。
 
-## 自分のSalesforceキャンペーンが見えないのはなぜですか。 {#why-cant-i-see-any-of-my-salesforce-campaigns}
+## 自分のSalesforceキャンペーンが見えないのはなぜですか。{#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 次の項目を確認できます。
 
-1. [キャンペーンの同期が有効になっていることを確認します](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)。
-1. Salesforceの [マーケティングユーザー](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) (Marketto Sync User [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) )であることを確認します。
+1. [キャンペーン同期が有効](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)であることを確認します。
+1. [Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)がSalesforceの[マーケティングユーザー](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)であることを確認します。
 
 >[!NOTE]
 >
->SalesforceキャンペーンとマッピングされたMarketoプログラムに互換性のないプログラムステータスがある場合は、エラーメッセージが表示される場合があります。 同期の前に、プログラムのステータスを [一致させることをお勧めします](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)。
+>SalesforceキャンペーンとマッピングされたMarketoプログラムに互換性のないプログラムステータスがある場合は、エラーメッセージが表示される場合があります。 同期](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)の前に、[プログラムのステータスに一致することをお勧めします。
 
 >[!MORELIKETHIS]
 >
