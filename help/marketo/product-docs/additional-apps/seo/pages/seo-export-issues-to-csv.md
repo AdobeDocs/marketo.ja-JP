@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# SEO — 雑誌号をCSVにエクスポート {#seo-export-issues-to-csv}
+# SEO — 問題をCSVにエクスポート{#seo-export-issues-to-csv}
 
-1. Marketoの外部のユーザーと [ページ雑誌号の情報を共有したい場合は、](seo-understanding-pages.md) ページ雑誌号のデータをCSVファイルにエクスポートできます。 これが方法です。
-1. 「 **ページ** 」セクションに移動します。
+1. [ページ雑誌号](seo-understanding-pages.md)のデータをCSVファイルにエクスポートして、マーケティング担当者以外の人と共有できます。 これが方法です。
+1. **「ページ**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   これは、 [ページ詳細ドリルダウン](seo-using-the-page-detail-drill-down.md)。 **[ページの最適化結果** ]は、そのページに関するすべての問題のリストです。
+   これは[Page Detail Drill Down](seo-using-the-page-detail-drill-down.md)です。 **ページ最適化の** 結果は、その特定のページに関するすべての問題のリストです。
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. 「 **書き出し**」をクリックします。
+1. 「**エクスポート**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
