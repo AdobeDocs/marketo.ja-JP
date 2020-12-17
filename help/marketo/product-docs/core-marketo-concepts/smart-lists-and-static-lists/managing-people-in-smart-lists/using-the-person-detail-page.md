@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 「個人詳細」ページの使用 {#using-the-person-detail-page}
+# 個人の詳細ページの使用{#using-the-person-detail-page}
 
 個人の詳細ページには、Marketing担当者が個人について知っているすべての情報が含まれます。 このページからデータを直接編集できます。
 
-## 「人物の詳細」ページ {#getting-to-person-detail-page}
+## 個人の詳細ページへのアクセス{#getting-to-person-detail-page}
 
 特定の人を開く方法はたくさんあります。 次に例を示します。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >**例**
 >
->* [ **データベース**]から、[クイック検索]で検索できます
->* 任意のスマート **リスト** またはリスト
->* **プログラムの「メンバー** 」タブ
->* **スマートキャンペーンの表示キャンペーンメンバ** ー
->* 一部の **レポート**
+>* **データベース**&#x200B;から、クイック検索で検索できます
+>* 任意のスマート&#x200B;**リスト**&#x200B;またはリスト
+>* **プログラム** のメンバー
+>* **表示キャンペーン** メンバーシンアスマートキャンペーン
+>* **レポート**&#x200B;の一部
 
 >
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 | Microsoftリードフィールド | 組み込みのMicrosoftフィールド |
 | アクティビティログ | その人に関連するすべてのアクティビティ。 |
 
-## フィールドの編集 {#editing-a-field}
+## フィールドの編集{#editing-a-field}
 
 編集可能なフィールドが多数あります。 ユーザーの情報を更新するには、新しい値を入力し、フィールドの外側をクリックして保存します。
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRMの同期前のマーケティング先のデフォルトフィールド {#marketo-default-fields-prior-to-crm-sync}
+## CRM同期前のマーケティング担当者のデフォルトフィールド{#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->編集で *きないフィールドがあります* 。
+>一部のフィールドは編集できません&#x200B;**:
 >
 >* 会社情報
 >* SFDCの連絡先のオポチュニティ
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 >
 >
-シス [テム管理フィールドの詳細](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)。
+[システム管理フィールド](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)の詳細を表示します。
 
 >[!MORELIKETHIS]
 >
