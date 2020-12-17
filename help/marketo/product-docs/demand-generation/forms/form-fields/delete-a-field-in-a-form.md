@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# フォーム内のフィールドの削除 {#delete-a-field-in-a-form}
+# フォーム内のフィールドの削除{#delete-a-field-in-a-form}
 
 不要になったフィールドがフォームにある場合は、簡単に削除できます。 これが方法です。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. フィールドを選択し、 **削除** アイコンをクリックします。
+1. フィールドを選択し、**delete**&#x200B;アイコンをクリックします。
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 「完了」をクリックします。
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. 「 **承認して閉じる」をクリックします。**
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->フォームの変更によって [作成されたランディングページのドラフトを忘れずに](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 承認してください。
+>フォームの変更によって作成されたランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
 フィールドを削除するのはどのくらい難しいと思いましたか？
