@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# フォームの編集 {#edit-a-form}
+# フォームの編集{#edit-a-form}
 
 既存のフォームに変更を加える場合は、次の方法でプロセスを開始します。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->フ [ォームの編集とカスタマイズについて詳しくは](http://docs.marketo.com/display/docs/forms) 、ここを参照してください。
+>[フォーム](http://docs.marketo.com/display/docs/forms)の編集とカスタマイズの詳細については、こちらを参照してください。
 
