@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
