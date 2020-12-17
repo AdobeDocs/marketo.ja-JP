@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 所有者の変更 {#change-owner}
+# 所有者の変更{#change-owner}
 
 既に所有者に割り当てられている既存のユーザーがある場合は、このフロー手順を使用して別の所有者に再割り当てできます。
 
@@ -27,10 +27,10 @@ ht-degree: 0%
    >
    >Salesforceでは、連絡先をリードキューに割り当てることはできません。 SFDCの担当者であるレコードの場合：
    >
-   >1. Marketorは、連絡先がSalesforceと同期された **場合にのみ** 、重複リードを作成します。 つまり、「 **[個人をSFDCに](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**`AssignTo=<a lead queue>`同期」フロー手順を使用する場合、MarketorはSalesforceで重複リードを作成し、それをリードキューに割り当てます。
+   >1. Marketorは、連絡先がSalesforceと同期された場合に、重複リード&#x200B;**のみ**&#x200B;を作成します。 つまり、**[「個人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**」のフローステップを`AssignTo=<a lead queue>`と共に使用する場合、MarketoはSalesforceで重複リードを作成し、それをリードキューに割り当てます。
       >
       >
-   2. 連絡先に対して **** 所有者の変更フロー手順を使用しようとすると、Salesforceに重複は作成されません。
+   2. 連絡先に対して&#x200B;**所有者の変更**&#x200B;フローステップを使用しようとすると、Salesforceに重複は作成されません。
 
 
    >[!NOTE]
