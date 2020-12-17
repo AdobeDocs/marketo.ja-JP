@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# フォームフィールドの表示/非表示を動的に切り替える {#dynamically-toggle-visibility-of-a-form-field}
+# フォームフィールドの表示/非表示を動的に切り替える{#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-Marketoフォームの非常に優れた機能の1つは、フォームのフィールドや [フィールドセットを動的に非表示/表示できる点です](add-a-fieldset-to-a-form.md)。
+Marketoフォームの非常に優れた機能の1つは、フォームフィールドまたは[フィールドセット](add-a-fieldset-to-a-form.md)を動的に非表示/表示できる点です。
 
 >[!NOTE]
 >
 >**例**
 >
->この例では、「 **Country** 」が「United States」に選択されていない場合は、「 **State** 」フィールドを非表示にします。
+>この例では、「**国**」が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
 
-1. 「 **マーケティング** アクティビティ ****」に移動します。
+1. **マーケティング** **アクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. フォームを選択し、「 **Edit** Form ****」をクリックします。
+1. フォームを選択し、「**編集** **フォーム**」をクリックします。
 
    ![](assets/editform-1.png)
 
-1. 動的に表示/非表示にするフィールドを選択し、「 **表示****ルール**」のリンクをクリックします。
+1. 動的に表示/非表示にするフィールドを選択し、**表示****ルール**&#x200B;のリンクをクリックします。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,9 +63,9 @@ Marketoフォームの非常に優れた機能の1つは、フォームのフィ
 
    >[!NOTE]
    >
-   >以前は、「国」を「選択リスト」フィールドタイプに変換し、すべての国を値として [追加していました](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)。
+   >以前は、「国」を「ピックリスト」フィールドタイプに変換し、[すべての国を値](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)として追加していました。
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -75,5 +75,5 @@ Marketoフォームの非常に優れた機能の1つは、フォームのフィ
 >
 >**ディープダイブ**
 >
->フ [ォームについて詳しく知りたい](http://docs.marketo.com/display/docs/forms)?
+>[フォーム](http://docs.marketo.com/display/docs/forms)の詳細を知りたい場合は、
 
