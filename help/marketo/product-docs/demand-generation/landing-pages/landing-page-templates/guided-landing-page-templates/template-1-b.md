@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレート1 ～ B {#template-b}
+# テンプレート1-B {#template-b}
 
 [テンプレート1-Bのダウンロード](http://docs.marketo.com/download/attachments/7515886/template1-b.html?version=1&amp;modificationdate=1432796605000&amp;api=v2)
 
