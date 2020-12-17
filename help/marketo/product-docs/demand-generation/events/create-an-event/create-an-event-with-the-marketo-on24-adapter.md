@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# Marketo ON24アダプタを使用したイベントの作成 {#create-an-event-with-the-marketo-on-adapter}
+# Marketo ON24アダプタを使用したイベントの作成{#create-an-event-with-the-marketo-on-adapter}
 
-## 始める前に {#before-you-begin}
+## 始める前に{#before-you-begin}
 
 Marketoでイベントを作成する際に推奨される構成要素と順序について詳しく理解する必要があります。 また、次のマーケティングの概念に関する実用的な知識も必要です。
 
-* [マーケティングプログラム](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) 、イベント、およびそれらの違い
+* [Marketo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) Programとイベント、およびそれらの違い
 * [チャネル](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [ローカルアセット](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [子キャンペーン](https://docs.marketo.com/x/IRCa) と [プログラムのステータス](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [子](https://docs.marketo.com/x/IRCa) キャンペーンと [プログラムのステータス](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Marketor APIについて詳しくは、 [Marketor APIのドキュメント](http://developers.marketo.com/documentation/rest/) を参照してください。
+>Marketo APIについて詳しくは、[Marketo APIドキュメント](http://developers.marketo.com/documentation/rest/)を参照してください。
 
-## 前提条件 {#prerequisites}
+## 前提条件{#prerequisites}
 
 Marketo ON24統合を使用するには、次が必要です。
 
-* **ON24 Webキャストの購読** — 現在の購読がない場合は、ON24に直接問い合わせてください。 **注**:ON24 Hosted Editionが必要です。 ON24イベント管理は必要ありません。
+* **ON24 Webキャストへの購読**  — 現在の購読がない場合は、ON24に直接問い合わせてください。**注**:ON24 Hosted Editionが必要です。ON24イベント管理は必要ありません。
 
-* **ON24の管理者権限** — このコネクタを使用してON24システムでゲストを作成するには、この権限が必要です。
-* **ON24接続資格情報** — 統合を有効にするには、次の情報をマーケティング担当者に入力する必要があります。ユーザー名、パスワード、クライアントID、およびクライアントキー。 資格情報に関するヘルプが必要な場合は、ON24アカウントマネージャーまたはON24サポートにお問い合わせください。
-* **登録フォーム** - MarkettoフォームまたはMarkettoフォーム以外のフォームを適切なAPIと共に使用し、登録データと登録者情報がMarketoに確実に渡されるようにします。
+* **ON24に対する管理者権限**  — このコネクタを使用してON24システムでゲストを作成するには、この権限が必要です。
+* **ON24接続資格情報**  — 統合を有効にするには、次の情報をマーケティング担当者に入力する必要があります。ユーザー名、パスワード、クライアントID、およびクライアントキー。資格情報に関するヘルプが必要な場合は、ON24アカウントマネージャーまたはON24サポートにお問い合わせください。
+* **登録フォーム** - MarkettoフォームまたはMarketo以外のフォームを適切なAPIと共に使用して、登録データと登録者情報がMarketoに渡されるようにします。
 * **登録の子キャンペーン- **イベントパートナーの統合が機能するには、Marketorイベントの登録の子キャンペーンを正しく作成し、設定する必要があります。
 
-## プロセスフロー {#process-flow}
+## プロセスフロー{#process-flow}
 
 Marketo On24アダプタを使用してイベントを作成するには、次の手順に従います。
 
