@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Skyのロールの有効化 {#enabling-roles-for-marketo-sky}
+# Marketo Skyのロールを有効にする{#enabling-roles-for-marketo-sky}
 
 Marketo Skyを利用するには、目的のユーザーの役割を有効にする必要があります。
 
@@ -19,11 +19,11 @@ Marketo Skyを利用するには、目的のユーザーの役割を有効にす
 >
 >**必要な管理者権限**
 
-1. Marketing Classicで、「 **管理者**」をクリックします。
+1. Marketo Classicで、「**管理者**」をクリックします。
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. ツリーで、「 **Marketo Sky**」を選択します。
+1. ツリーで、**Marketo Sky**&#x200B;を選択します。
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
