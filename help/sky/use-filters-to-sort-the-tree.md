@@ -24,7 +24,7 @@ ht-degree: 0%
 
 この機能を使用すると、特定の日付範囲内に作成または変更されたアセットを検索できます。例：先週、過去3か月間など
 
-デフォルトでは、過去6か月間のすべてのコンテンツが読み込まれます。 これを変更するには、[日付範囲の **[!UICONTROL 選択]** ]ドロップダウンから範囲を選択します。 これらの設定は固定されており、次回Marketorにログインしたときにも適用されます。
+デフォルトでは、過去6か月間のすべてのコンテンツが読み込まれます。 これを変更するには、**[!UICONTROL 日付範囲を選択]**&#x200B;ドロップダウンから範囲を選択します。 これらの設定は固定されており、次回Marketorにログインしたときにも適用されます。
 
 ![イメージ2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![イメージ3](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-「 **X** 」をクリックすると、フィルターを適用した検索からラベルが削除されます。
+**X**&#x200B;をクリックして、フィルターを適用した検索からラベルを削除します。
 
 ![画像4](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
