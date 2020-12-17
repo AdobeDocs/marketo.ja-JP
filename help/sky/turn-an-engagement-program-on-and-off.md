@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. 「 **[!UICONTROL 設定]** 」タブをクリックします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >購読制限を超えていない場合、エンゲージメントプログラムはデフォルトでオンになります。
 
-1. 右側に [!UICONTROL プログラム] ボタンがあります。 「 **[!UICONTROL オン]** 」または「 **[!UICONTROL オフ」を選択します]**。
+1. 右側に[!UICONTROL プログラム]ボタンがあります。 「**[!UICONTROL オン]**」または「**[!UICONTROL オフ]**」を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
