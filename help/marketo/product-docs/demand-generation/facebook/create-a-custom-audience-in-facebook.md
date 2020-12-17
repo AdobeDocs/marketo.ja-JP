@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Facebookでのカスタムオーディエンスの作成 {#create-a-custom-audience-in-facebook}
+# Facebookでのカスタムオーディエンスの作成{#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [「追加管理」セクションの「LaunchPointサービス](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 」としてのFacebookカスタムオーディエンス。
->* [Facebookアカウント内でFacebookのカスタムオーディエンス条件に同意します](https://www.facebook.com/ads/manage/customaudiences/tos.php) 。
+>* [「追加管理者」セクションの「LaunchPointサー](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビス」としてのFacebookカスタムオーディエンス。
+>* [Facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を承認します。
 
 >
 
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Facebookの [カスタムオーディエンスについて詳しくは](https://www.facebook.com/help/341425252616329)、
+>Facebook](https://www.facebook.com/help/341425252616329)の[カスタムオーディエンスの詳細。
 
 1. オーディエンスの作成元となるリードを含むスマートまたは静的なリストを探して選択します。
 
    ![](assets/1.png)
 
-1. 「 **リード** 」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
 
    ![](assets/222.png)
 
-1. 「**Facebook **」を選択し、「 **次へ**」をクリックします。
+1. 「**Facebook **」を選択し、「**次へ**」をクリックします。
 
    ![](assets/two.png)
 
-1. 「 **オーディエンス** 」ドロップダウンをクリックし、「 **+新規オーディエンス**」を選択します。
+1. **オーディエンス**&#x200B;ドロップダウンをクリックし、「**+新規オーディエンス**」を選択します。
 
    ![](assets/four.png)
 
-1. 「 **オーディエンス名**」に入力します。 「 **更新**」をクリックします。
+1. **オーディエンス名**&#x200B;を入力します。 「**更新**」をクリックします。
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >新しいオーディエンスを、広告セットまたはグループに現在関連付けられている既存の広告と入れ替えますか？ 「既存のオーディエンスを **置き換え** 」チェックボックスをオンにします。 この操作を行っても **** 、置き換えられるオーディエンスは削除されません。
+   >新しいオーディエンスを、広告セットまたはグループに現在関連付けられている既存の広告と入れ替えますか？ 「**既存のオーディエンスを置き換える**」チェックボックスを選択します。 これを行うと、置き換えられるオーディエンスは&#x200B;****&#x200B;削除されません。
 
 1. 完了すると、ステータスダイアログが更新されます。
 
    ![](assets/six.png)
 
-   それだ！ Facebookでは、 **広告マネージャー/オーディエンスで新しいオーディエンスが表示されます**。
+   それだ！ Facebookでは、**広告マネージャー/オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketorのお客様向けの [Facebook学習パスを参照してください](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)。 Facebookページの作成から、マーケティングの広告ネットワーク統合を使用したFacebook広告のターゲット設定まで、知る必要のあるすべてをカバーします。
+   >[Facebookのユーザー向けの学習パス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)を参照してください。 Facebookページの作成から、マーケティングの広告ネットワーク統合を使用したFacebook広告のターゲット設定まで、知る必要のあるすべてをカバーします。
 
    >[!NOTE]
    >
