@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 表示スマートキャンペーンメンバ {#view-smart-campaign-members}
+# 表示スマートキャンペーンメンバ{#view-smart-campaign-members}
 
 すでにスマートキャンペーンの流れを経ている表示者例えば、スマート・キャンペーン・メンバー。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >スマートキャンペーン内の任意の場所からキャンペーンメンバーを表示できます。
 
-1. 「 **キャンペーンメンバー** 」タブには、スマートキャンペーンフローを既に通過した訪問者が表示されます。
+1. 「**キャンペーンメンバー**」タブには、スマートキャンペーンフローを既に経由しているユーザーが表示されます。
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[リストで実行できる操作の詳細](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+   >[リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)で何ができるかを詳しく知る。
 
    >[!NOTE]
    >
