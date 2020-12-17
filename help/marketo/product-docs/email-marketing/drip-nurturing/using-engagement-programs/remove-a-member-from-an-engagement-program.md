@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# エンゲージメントプログラムからのメンバーの削除 {#remove-a-member-from-an-engagement-program}
+# エンゲージメントプログラムからのメンバーの削除{#remove-a-member-from-an-engagement-program}
 
-おっと！ どうやって入ったの？ 「プログラムステータスの **変更** 」フローステップを使用して、エンゲージメントプログラムからメンバーを削除できます。
+おっと！ どうやって入ったの？ **プログラムステータスの変更**&#x200B;フローステップを使用して、エンゲージメントプログラムからメンバーを削除できます。
 
 >[!TIP]
 >
->ユーザーのコンテンツを一時停止する場合は、これを使用しないでください。 これにより、Analyticsのすべてのアトリビューションが削除されます。  エンゲージメントプログラムでユーザーを [一時停止する方法の詳細を説明します](pause-people-in-an-engagement-program.md)。
+>ユーザーのコンテンツを一時停止する場合は、これを使用しないでください。 これにより、Analyticsのすべてのアトリビューションが削除されます。  エンゲージメントプログラム](pause-people-in-an-engagement-program.md)でユーザーを[一時停止する方法の詳細を説明します。
 
-## フローステップ {#flow-step}
+## フローステップ{#flow-step}
 
-1. 「 **プログラムステータスの** 変更」フローステップをドラッグします。
+1. **プログラムステータスの変更**&#x200B;のフローステップ内をドラッグします。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   「プログラム **なし」でステータスを選択します**。
+   ステータスを&#x200B;**プログラム**&#x200B;にないで選択します。
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   グルービー。 ス [マートリストで定義したすべてのメンバーは、このエンゲージメントプログラムに含まれなくなります](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 。
+   グルービー。 [スマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)で定義したすべてのメンバーは、このエンゲージメントプログラムに含まれなくなります。
 
-## ユーザーを一時停止  {#pause-people}
+## 一時停止{#pause-people}
 
-アクションプログラムでユーザーを一時停止し、削除しないようにしたい場合があります。 これは、 **Change EngagementプログラムCadenceを使用して行います**。
+アクションプログラムでユーザーを一時停止し、削除しないようにしたい場合があります。 これは、**Change EngagementプログラムCadence**&#x200B;で行います。
 
 >[!MORELIKETHIS]
 >
