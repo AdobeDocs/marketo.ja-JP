@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# 照会オファーの進捗フローの追跡の設定 {#configure-track-progress-flow-for-a-referral-offer}
+# リファラルオファーの進捗フローの追跡の設定{#configure-track-progress-flow-for-a-referral-offer}
 
-照会オファーを [作成する際に](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)、参加者に報酬に向けた進行状況を示すプロンプトを設定できます。
+[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成するとき、参加者に報酬に向けての進捗状況を示すプロンプトを設定できます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 照会オファーを選択し、「ドラフトを **編集**」をクリックします。
+1. 参照オファーーを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. 参照オファーエディターで、 **進捗状況の追跡フロー** / **ソーシャルネットワーク**&#x200B;に移動します。
+1. 参照オファーエディターで、**進行状況の追跡フロー**/**ソーシャルネットワーク**&#x200B;に移動します。
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. 「 **表示****&amp;****編集** 」ウィンドウで、オファーのサインアップに使用したのと同じソーシャルネットワークに参加者がサインインするよう促すプロンプトを編集します。
+1. **表示** **&amp;** **編集**&#x200B;ウィンドウで、参加者がオファーのサインアップに使用したのと同じソーシャルネットワークにサインインするよう促すプロンプトを編集します。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >編集可能なテキストをハイライト表示するには、右上隅の **** 「編集内容を表示」を選択します。
+   >編集可能なテキストをハイライト表示するには、右上隅の「**編集内容を表示**」を選択します。
 
 1. 参加者にリンクを他の友達と共有するよう促すプロンプトを編集します。
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->次に、 **完了/承認をクリックし、参照オファーを閉じて** 、 [発行します](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)。
+>次に、**完了/承認/**&#x200B;をクリックし、[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)を公開します。
 
