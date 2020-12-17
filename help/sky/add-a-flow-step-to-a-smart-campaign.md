@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## フ追加ローステップ
 
-1. 「 [!UICONTROL マーケティングアクティビティ]」でスマートキャンペーンを選択し、「 **[!UICONTROL フロー]**」をクリックします。
+1. [!UICONTROL マーケティングアクティビティ]で、スマートキャンペーンを選択し、**[!UICONTROL フロー]**&#x200B;をクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **ディープダイブ**
 
-様々なフ [ローステップの詳細](http://docs.marketo.com/display/DOCS/Flow+Actions)。
+様々な[フローステップ](http://docs.marketo.com/display/DOCS/Flow+Actions)の詳細を表示します。
 
 1. ドロップダウンをクリックし、適切なオプションを選択します。
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 **Reminder**
 
-フローステップは、表示された順序で実行されます。 [フローステップの順序を変更し](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 、正しい順序になっていることを確認します。
+フローステップは、表示された順序で実行されます。 [フロー](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) ステップの順序を変更し、正しい順序になっていることを確認します。
 
 >[!TIP]
 >
 >入力が無効な場合は赤い線が表示されます。 線の上にカーソルを置くと、修正方法が表示されます。
 >
->スマートキャンペーンをスケジュールまたはアクティブ化する前に、 [スマートを確認](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) 、検証してください。
+>スケジュールを設定したりアクティブにしたりする前に、[スマートキャンペーン](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist)を確認し、検証してください。
 
 ## フローステップの並べ替え
 
