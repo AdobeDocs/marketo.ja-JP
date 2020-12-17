@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ワークスペースの削除 {#delete-a-workspace}
+# ワークスペースの削除{#delete-a-workspace}
 
 >[!NOTE]
 >
