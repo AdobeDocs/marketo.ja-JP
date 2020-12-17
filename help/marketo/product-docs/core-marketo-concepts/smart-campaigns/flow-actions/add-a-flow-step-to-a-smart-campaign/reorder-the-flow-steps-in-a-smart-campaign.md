@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンでのフローステップの並べ替え {#reorder-the-flow-steps-in-a-smart-campaign}
+# スマートキャンペーンのフローステップの並べ替え{#reorder-the-flow-steps-in-a-smart-campaign}
 
 フローステップは、上から下に順に実行されます。 必要に応じてフローステップを並べ替える方法を次に示します。
 
