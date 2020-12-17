@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スケジュール済バッチキャンペーンの実行の取り消し {#cancel-a-scheduled-batch-campaign-run}
+# スケジュールされたバッチキャンペーンの実行{#cancel-a-scheduled-batch-campaign-run}をキャンセル
 
 バッチキャンペーンの1つに対して実行をスケジュール済みで、それをキャンセルする場合は、次のようにします。
 
