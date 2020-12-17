@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# プログラムスケジュール表示でのバッチスマートキャンペーンの作成 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# プログラムスケジュール表示でのバッチスマートキャンペーンの作成{#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-新しいスマートキャンペーンを作成し、プログラム内の既存のスマート表示をプログラムスケジュールから [再実行できます](rerun-a-smart-campaign-in-the-program-schedule-view.md) 。
+新しいスマートキャンペーンを作成し、プログラムスケジュール表示からプログラム内の既存のスマート[を再実行できます。](rerun-a-smart-campaign-in-the-program-schedule-view.md)
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 参加者の名前を選択します。新しいスマートキャンペーンになります。 名前を確認するには、 **Enter/Return** キーを押します。
+1. 参加者の名前を選択します。新しいスマートキャンペーンになります。 **Enter/Return**&#x200B;キーを押して名前を確認します。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 「 **タイプ** 」ドロップダウンをクリックし、「 **スマート****キャンペーン**」を選択します。
+1. 「**種類**」ドロップダウンをクリックし、「**スマート** **キャンペーン**」を選択します。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. スマート [キャンペーンルールを選択します](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 。
+1. [スマートキャンペーン](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)ルールを選択します。
 
    ![](assets/changeprogramstatus-hands.png)
 
