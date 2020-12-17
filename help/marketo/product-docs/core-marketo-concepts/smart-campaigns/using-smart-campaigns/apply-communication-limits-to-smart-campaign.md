@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートキャンペーンへの通信制限の適用 {#apply-communication-limits-to-smart-campaign}
+# スマートキャンペーンに通信制限を適用{#apply-communication-limits-to-smart-campaign}
 
 >[!PREREQUISITES]
 >
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者 [」セクションで](../../../../product-docs/administration/email-setup/enable-communication-limits.md) 通信制限を編集します。
+>これをデフォルトにするには、「管理者」セクションで[通信制限](../../../../product-docs/administration/email-setup/enable-communication-limits.md)を編集します。
 
 甘い。 誤ってオーディエンスに送信する電子メールの数が多くなりすぎないように保証できます。
