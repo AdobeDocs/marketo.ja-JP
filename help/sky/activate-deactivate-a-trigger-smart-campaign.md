@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## トリガーキャンペーンのアクティブ化
 
-1. スマートキャンペーンで、「 **[!UICONTROL スケジュール]** 」タブをクリックします。
+1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」タブをクリックします。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >アクティブ化する前に、スマートキャンペーンを確認します。
 
-1. 「 **[!UICONTROL アクティブ化]**」をクリックします。
+1. 「**[!UICONTROL アクティブ化]**」をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
 ## トリガーキャンペーンの非アクティブ化
 
-1. スマートキャンペーンで、「 **[!UICONTROL スケジュール]** 」タブをクリックします。
+1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」タブをクリックします。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 「 **[!UICONTROL 非アクティブ化]**」をクリックします。
+1. 「**[!UICONTROL 非アクティブ化]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->これにより、 _新しい訪問者がフローに入るのを防ぎますが_ 、待機ステップや他のフローステップの訪問者は、完了するまでフロー内を移動し続けます。
+>これにより、_新しい_&#x200B;人がフローに入るのを止めますが、待機ステップや他のフローステップの人々は、完了するまでフローを通り続けます。
