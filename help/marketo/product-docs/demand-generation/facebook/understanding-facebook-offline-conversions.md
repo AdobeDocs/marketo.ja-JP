@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Facebookオフラインコンバージョンについて {#understanding-facebook-offline-conversions}
+# Facebookオフラインコンバージョンについて{#understanding-facebook-offline-conversions}
 
 Facebookのリード広告のキャンペーンは、リードを生成し、マーケティングキャンペーンで使用できるようにマーケティング担当者に送信します。 ただし、オフラインコンバージョンが表示されないと、Facebookの広告主はどの広告が最も効果的かを知ることができません。 次に例を示します。
 
@@ -40,9 +40,9 @@ Facebookのリード広告のキャンペーンは、リードを生成し、マ
 >
 >オフラインコンバージョンがない場合、広告主は広告3により多くの投資を行うでしょう。 オフラインコンバージョンデータを使用すると、広告主は広告1に投資する可能性が高くなります。
 
-Facebookのオフラインコンバージョンを [設定して](set-up-facebook-offline-conversions.md) 、オフライン広告のパフォーマンスをFacebookに送信できます。
+[Facebookのオフラインコンバージョン](set-up-facebook-offline-conversions.md)を設定して、オフライン広告のパフォーマンスをFacebookに送信できます。
 
-1. Facebook LaunchPoint統合が最新の [ものであることを確認します](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 。
+1. [Facebook LaunchPoint統合](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)が最新の状態であることを確認します。
 1. 売上高サイクルモデルのステージをFacebookのオフラインコンバージョンステージにマッピングします。
 1. FacebookのリードがFacebookのリード広告から生成され、マッピングされたステージに到達すると、Marketorは、安全な自動APIを介してオフラインコンバージョンデータを1日に数回Facebookに送信します。 データがFacebook広告マネージャーレポートに表示されます。
 
