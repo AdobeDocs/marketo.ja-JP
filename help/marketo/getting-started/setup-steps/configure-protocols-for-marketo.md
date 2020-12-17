@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Marketorのプロトコルの設定 {#configure-protocols-for-marketo}
+# Markettoのプロトコルの設定{#configure-protocols-for-marketo}
 
 マーケティンググループがマーケティングを使用してブランドのキャンペーンランディングページや電子メールを作成している。 これらのランディングページや電子メールが確実に機能するように、IT部門から少し支援が必要です。 次のプロトコルを、マーケティンググループから電子メールで送信されるべき情報と共に設定してください。
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 * `*.mktoweb.com`
 
-## 手順1:ランディングページと電子メールのDNSレコードの作成 {#step-create-dns-records-for-landing-pages-and-email}
+## 手順1:ランディングページと電子メールのDNSレコードの作成{#step-create-dns-records-for-landing-pages-and-email}
 
 **トラッキングリンクCNAME**
 
@@ -35,16 +35,16 @@ ht-degree: 1%
 
 `1` **ランディングページ追加のCNAME**
 
-DNSレコ追加ードに送信されたランディングページCNAME。これにより、Markettoランディングページに割り当てられている一意のアカウント文字列が参照されます。 `[YourLandingPageCNAME]` ドメイン登録機関のサイトにログインし、ランディングページのCNAMEとアカウント文字列を入力します。 通常、これには次の3つのフィールドが含まれます。
+DNSレコードに追加送信されたランディングページCNAME。`[YourLandingPageCNAME]`は、Marketoランディングページに割り当てられている一意のアカウント文字列を指すようにします。 ドメイン登録機関のサイトにログインし、ランディングページのCNAMEとアカウント文字列を入力します。 通常、これには次の3つのフィールドが含まれます。
 
-* エイリアス：入力 `[YourLandingPageCNAME]` （マーケティングから提供）
+* エイリアス：`[YourLandingPageCNAME]`を入力（マーケティングから提供）
 * タイプ：CNAME
-* ポイント先：入力 `[MarketoAccountString].mktoweb.com` （マーケティングから提供）
+* ポイント先：`[MarketoAccountString].mktoweb.com`を入力（マーケティングから提供）
 
 `2` **E メールトラッキングログ追加リンクのCNAME**
 
-電子メール追加のCNAMEマーケティングから送信されたので、Marketorが割り当てたデフォルトのトラッキングリンクである `[YourEmailCNAME]`[]MktoTrackingLinkを次の形式で参照します。\
-`[YourEmailCNAME].[YourDomain].com` CNAME内 `[MktoTrackingLink]`
+電子メール追加のCNAMEマーケティングからユーザーが送信されたので、`[YourEmailCNAME]`が、Marketorが割り当てたデフォルトのトラッキングリンク[MktoTrackingLink]を次の形式で指すように設定します。\
+`[YourEmailCNAME].[YourDomain].com` CNAME内  `[MktoTrackingLink]`
 
 次に例を示します。
 
@@ -73,9 +73,9 @@ DNSレコ追加ードに送信されたランディングページCNAME。これ
 
 >[!NOTE]
 >
->Postiniでは、独自のテクノロジーを採用しており、IP範囲の許可が必要です。 Postiniを使用した [許可リストを参照してください](https://nation.marketo.com/docs/DOC-1066)。
+>Postiniでは、独自のテクノロジーを採用しており、IP範囲の許可が必要です。 [Postini](https://nation.marketo.com/docs/DOC-1066)でのリストを許可するを参照してください。
 
-## 手順3:SPFとDKIMの設定 {#step-set-up-spf-and-dkim}
+## 手順3:SPFとDKIMの設定{#step-set-up-spf-and-dkim}
 
 また、マーケティングチームから、DNSリソースレコードに追加するDKIM情報を送信する必要があります（以下にも示します）。 手順に従ってDKIMとSPFを正しく設定し、更新されたことをマーケティングチームに通知します。
 
@@ -87,7 +87,7 @@ DNSレコ追加ードに送信されたランディングページCNAME。これ
    DNSエントリに既にSPFレコードが存在する場合は、次を追加します。\
    含める：mktomail.com
 
-   CompanyDomainをWebサイトのメインドメイン(例：「`(company.com/)`」)およびCorpIPと企業の電子メールサーバーのIPアドレス( &quot;255.255.255.255&quot;). 複数のドメインからMarketor経由で電子メールを送信する場合は、ITスタッフに各ドメインに対してこの行を（1行で）追加してもらう必要があります。
+   CompanyDomainをWebサイトのメインドメイン(例：&quot;`(company.com/)`&quot;)とCorpIP (例： &quot;255.255.255.255&quot;)。 複数のドメインからMarketor経由で電子メールを送信する場合は、ITスタッフに各ドメインに対してこの行を（1行で）追加してもらう必要があります。
 
 1. DKIMの場合、セットアップする各ドメインに対してDNSリソースレコードを作成します。 署名する各ドメインのホストレコードとTXT値を以下に示します。
 
@@ -95,8 +95,8 @@ DNSレコ追加ードに送信されたランディングページCNAME。これ
 
    `[DKIMDomain2]`:「Host Record」 `[HostRecord2]` はで、「TXT Value」はで `[TXTValue2]`す。
 
-   ここで説明する [手順に従って、設定した各DKIMDomainのHostRecordとTXTValueをコピーします](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)。 ITスタッフがこの手順を完了した後は、管理者/電子メール/DKIMで各ドメインを確認するのを忘れないでください。
+   [](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)の指示に従って、設定した各DKIMDomainのHostRecordとTXTValueをコピーします。 ITスタッフがこの手順を完了した後は、管理者/電子メール/DKIMで各ドメインを確認するのを忘れないでください。
 
-## 手順4:ドメインのMXレコードの設定 {#step-set-up-mx-records-for-your-domain}
+## 手順4:ドメイン{#step-set-up-mx-records-for-your-domain}のMXレコードの設定
 
 MXレコードを使用すると、返信や自動返信を処理するために、電子メールの送信元のドメインにメールを受信できます。 会社ドメインから送信する場合は、既にこの設定が行われている可能性があります。 そうでない場合は、通常、会社ドメインのMXレコードにマップするように設定できます。
