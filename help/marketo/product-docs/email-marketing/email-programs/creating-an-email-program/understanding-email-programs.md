@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 電子メールプログラムについて {#understanding-email-programs}
+# 電子メールプログラムについて{#understanding-email-programs}
 
 新しいMarketoの友人、電子メールプログラムにこんにちはと言ってください。 電子メールを送信し、A/Bテストを作成し、結果をすべて1か所で追跡します。
 
-## Campaign コントロールパネル {#control-panel}
+## Campaign コントロールパネル{#control-panel}
 
-4つのボックスが集中を保ちます。 **オーディエンス** は「who」を定義し、 **電子メールは「what」を** 提供し、 **Scheduleは「when」を定義し、** Approvalは **** 「whe」を設定します。
+4つのボックスが集中を保ちます。 **オーディエンスは「誰」を** 定義し、電子メールは「何」を **** 提供し、「いつ」を **** 定義し、 **** 承認すると準備が整います。
 
 ![](assets/emailprogram.png)
 
-## A/Bテスト {#a-b-testing}
+## A/Bテスト{#a-b-testing}
 
 A/Bテストを使用すると、最適な電子メールを検証できます。
 
@@ -34,7 +34,7 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 ![](assets/abtesthighlight.png)
 
-## ダッシュボード {#dashboards}
+## ダッシュボード{#dashboards}
 
 >[!TIP]
 >
@@ -44,7 +44,7 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## 入れ子 {#nesting}
+## 入れ子{#nesting}
 
 電子メールプログラムは他のプログラムとうまく連携します。
 
@@ -62,9 +62,9 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 >[!NOTE]
 >
->電子メールプログラムは、 [エンゲージメントプログラム内にネストできません](../../../../getting-started/quick-wins/drip-drip-nurture.md)。 また、再送信できず、一度に1つのテストしか実行できません。
+>電子メールプログラムは、[エンゲージメントプログラム](../../../../getting-started/quick-wins/drip-drip-nurture.md)にネストできません。 また、再送信できず、一度に1つのテストしか実行できません。
 
-## スケジュール設定 {#schedule-settings}
+## スケジュール設定{#schedule-settings}
 
 電子メールのプログラムについて理解したら、以下の関連記事の1つから始めます。
 
