@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 電子メールテンプレートv1.0に追加編集可能なセクション {#add-editable-sections-to-email-templates-v1.0}
+# 電子メールテンプレートv1.0 {#add-editable-sections-to-email-templates-v1.0}追加に編集可能なセクション
 
-Email Template Editor v1.0でテンプレートを作成する場合は、セクションの周囲に特別な文字を配置することで、任意のセクションを編集可能にするこ `<div>` とができます。
+Email Template Editor v1.0でテンプレートを作成している場合は、特別な`<div>`を囲むことで、任意のセクションを編集可能にできます。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Email Template Editor v1.0でテンプレートを作成する場合は、セク
 ルール：
 
 1. HTMLは常に有効である必要があります。
-1. mktEditableのクラスを含める **必要があります** 。
+1. **mktEditable**&#x200B;のクラスを含める必要があります。
 1. IDは、そのHTML内で一意である必要があります。
 1. IDにスペースは含めません。
 
@@ -31,4 +31,4 @@ Email Template Editor v1.0でテンプレートを作成する場合は、セク
 >
 >mktEditableステートメントは入れ子にできません。
 
-電子メールテンプレートエディタv2.0でこの方法を学習する場合は、 [電子メールテンプレートの構文をチェックアウトします](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)。
+電子メールテンプレートエディタv2.0でこの方法を学ぶには、[電子メールテンプレート構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を参照してください。
