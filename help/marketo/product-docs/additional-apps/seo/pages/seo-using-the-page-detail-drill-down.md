@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO — ページ詳細ドリルダウンの使用 {#seo-using-the-page-detail-drill-down}
+# SEO — ページ詳細ドリルダウンを使用{#seo-using-the-page-detail-drill-down}
 
 ページの詳細ドリルダウンを使用して、ページに関する多くの情報を確認できます。
 
-## ページの検索のドリルダウン {#find-page-drill-down}
+## ページのドリルダウンを検索{#find-page-drill-down}
 
 1. 「ページ」セクションに移動します。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## 「ページの詳細」セクション {#page-detail-section}
+## ページの詳細セクション{#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +44,9 @@ ht-degree: 0%
 | Facebookの「いいね！」 | このページ共有がFacebookで「いいね！」された回数です。 |
 | Facebookクリック数 | Facebook共有からのクリック数。 |
 
-## ページが最適化されたキーワード  {#keyword-s-that-page-is-optimized-for}
+## ページが{#keyword-s-that-page-is-optimized-for}用に最適化されたキーワード
 
-ここで、ページを最適化するキーワードを [選択します](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)。
+ここで[ページを最適化するキーワードを](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)に選択します。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## ページ最適化の結果 {#page-optimization-results}
+## ページ最適化の結果{#page-optimization-results}
 
 ページ最適化の結果には、このページの検索で最適化スコアを上げたりパフォーマンスを上げたりするために必要な正確な手順が示されます。
 
