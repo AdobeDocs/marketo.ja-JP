@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 投票設定のカスタマイズ {#customize-poll-settings}
+# 投票設定のカスタマイズ{#customize-poll-settings}
 
-調査を [作成する場合](create-a-poll.md)、1ソーシャルプロファイルあたりの投票数を制限できます。
+[投票](create-a-poll.md)を作成するときに、ソーシャルプロファイルごとの投票数を制限できます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 調査を選択し、「ドラフトを **編集」をクリックします。**
+1. 調査を選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. 投票エディターで、 **アプリ設定** / **詳細オプションに移動します。**
+1. 投票エディターで、**アプリ設定**/**詳細オプションに移動します。**
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. 「 **投票の制限」を課す場合は、このオプションを選択し** 、投票数の上限を入力します。
+1. **投票の制限**&#x200B;を課すオプションを選択し、投票数の上限を入力します。
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->調査を **公開するには、[** 完了] > [承認して閉じる [](publish-a-poll.md)]をクリックします。カスタマイズを続行することもできます。 例えば、共有後のプロンプトを [設定してみます](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)。
+>**完了/承認/**&#x200B;をクリックして[投稿](publish-a-poll.md)を&lt;a2/>公開するか、引き続きカスタマイズできます。 例えば、[after-shareプロンプト](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)を設定してみます。
 
