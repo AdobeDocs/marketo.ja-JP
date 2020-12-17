@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 表示電子メールプログラムの結果 {#view-email-program-results}
+# 表示電子メールプログラム結果{#view-email-program-results}
 
 スマートキャンペーンの「結果」タブと同様に、電子メールプログラムでも同じ情報を表示できます。
 
-1. 「 **マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >電子メールプログラムが既に実行されている場合は、直接電子メールプログラムダッシュボードに移動します。
 
-1. 「 **表示**」で、「 **Campaign コントロールパネル**」を選択します。
+1. **表示**&#x200B;の下で、**Campaign コントロールパネル**&#x200B;を選択します。
 
    ![](assets/controlpanelview.jpg)
 
-1. 「 **オーディエンス** 」タイルの下にある「 **表示結果**」をクリックします。
+1. **オーディエンス**&#x200B;タイルの下の&#x200B;**表示結果**&#x200B;をクリックします。
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[電子メールプログラムについて詳しくは](http://docs.marketo.com/display/docs/email+program+actions)?
+>[電子メールプログラム](http://docs.marketo.com/display/docs/email+program+actions)の詳細を知りたい場合は、
 
