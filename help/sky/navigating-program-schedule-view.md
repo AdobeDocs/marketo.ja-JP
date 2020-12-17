@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## スケジュール表示の検索
 
-ツリーからプログラムを選択します。 「 [!UICONTROL 詳細] 」タブで、「 [!UICONTROL スケジュール]」をクリックします。
+ツリーからプログラムを選択します。 「[!UICONTROL 詳細]」タブで、「[!UICONTROL スケジュール]」をクリックします。
 
 ![イメージ1](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 表示設定
 
-プログラムスケジュール表示の右上隅にある「 [!UICONTROL 表示設定] 」をクリックし、「 [!UICONTROL 仮名]」、「 [!UICONTROL 確認済み」、「完了済み]」、「完 了済み」のいずれかで参加者をフィルターします。
+プログラムスケジュール表示の右上隅にある「[!UICONTROL 表示設定]」をクリックして、[!UICONTROL 仮名]、[!UICONTROL 確認済み]、[!UICONTROL 完了]で参加者をフィルターします。
 
 ![画像4](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
