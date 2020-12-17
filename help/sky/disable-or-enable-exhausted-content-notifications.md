@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-ユーザーがストリーム内のすべてのコンテンツを排出する場合、通知を送信で [!DNL Marketo] きます。 必要に応じて、通知を無効または有効にすることができます。
+ユーザーがストリーム内のすべてのコンテンツを排出すると、[!DNL Marketo]から通知が送信されます。 必要に応じて、通知を無効または有効にすることができます。
 
 1. アクションプログラムを選択します。
 
    ![イメージ1](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. 「 **[!UICONTROL 設定]** 」タブをクリックします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. 「 [!UICONTROL 設定] 」まで下にスクロールし **[!UICONTROL 、「]** オフ [!UICONTROL 」(または「オン]」)を選択します。
+1. 「設定」まで下にスクロールし、「**[!UICONTROL オフ]**」（または「[!UICONTROL オン]」）を選択します。
 
    ![イメージ3](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
