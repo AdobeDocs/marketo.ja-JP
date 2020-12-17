@@ -20,15 +20,15 @@ ht-degree: 0%
 
    ![イメージ1](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![イメージ2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. 「 **[!UICONTROL 追加コンテンツ]**」をクリックします。
+1. 「**[!UICONTROL 追加コンテンツ]**」をクリックします。
 
    ![イメージ3](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. 「 [!UICONTROL タイプ] 」は「電子メール」に設定したままにし、追加する電子メールを検索または選択します。
+1. 「[!UICONTROL タイプ]」は「電子メール」に設定したままにし、追加する電子メールを検索または選択します。
 
    ![画像4](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
    ![画像5](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. 「 **[!UICONTROL Streams]** 」タブをクリックします。
+1. 「**[!UICONTROL Streams]**」タブをクリックします。
 
    ![画像6](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. 「 **[!UICONTROL 追加コンテンツ]**」をクリックします。
+1. 「**[!UICONTROL 追加コンテンツ]**」をクリックします。
 
    ![画像7](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. 「 [!UICONTROL タイプ] 」を「プログラム」に変更します。
+1. [!UICONTROL タイプ]をプログラムに変更します。
 
    ![画像8](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
