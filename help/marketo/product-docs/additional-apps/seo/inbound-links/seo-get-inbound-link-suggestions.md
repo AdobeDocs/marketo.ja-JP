@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# SEO — 受信リンクの提案の取得 {#seo-get-inbound-link-suggestions}
+# SEO — 受信リンクの提案の取得{#seo-get-inbound-link-suggestions}
 
-オフページの最適化に役立つインバウンドリンクを [提案できます](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)。
+[オフページの最適化](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)にとって、どのインバウンドリンクが有用かを提案できます。
 
-1. 「 **Inbound Links** 」セクションに移動します。
+1. **Inbound Links**&#x200B;セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. 「 **GETの提案**」をクリックします。
+1. **GETの提案**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. キーワードを入力します。 「リンク **の提案**」をクリックします。
+1. キーワードを入力します。 **SUGGEST LINKS**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. リンクを選択します。 「 **追加選択済み**」(SELECTED)をクリックします。
+1. リンクを選択します。 「**追加選択済み**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >新しいリンクまたは既存のリストにリンクを [追加できることをご存じですか](seo-add-remove-an-inbound-link-url-from-a-list.md)? 見ろ！
+   >[新しいリストまたは既存のフォルダ](seo-add-remove-an-inbound-link-url-from-a-list.md)にリンクを追加できることをご存じですか。 見ろ！
 
 1. すごい！ これらの追加されたリンクは、追跡されるようになります。
 
