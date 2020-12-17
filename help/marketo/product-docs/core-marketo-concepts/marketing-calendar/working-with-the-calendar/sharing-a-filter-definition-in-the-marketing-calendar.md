@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# マーケティングカレンダーでのフィルター定義の共有 {#sharing-a-filter-definition-in-the-marketing-calendar}
+# マーケティングカレンダーでのフィルター定義の共有{#sharing-a-filter-definition-in-the-marketing-calendar}
 
 フィルターは、異なるユーザー間で共有できます。
 
