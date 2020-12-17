@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：2012年3月 {#release-notes-march}
+# リリースノート：2012年3月{#release-notes-march}
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->その他のリリースについては、 [リリースノート](http://docs.marketo.com/display/docs/release+notes) （詳細）を参照してください。
+>その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
 >
->## マイトークンの解決 {#resolve-my-tokens}>
+>## マイトークンの解決{#resolve-my-tokens}>
 
 マイトークン(プログラムトークン)は、電子メールのプレビュー時、テスト用電子メールの送信時、および単一のフローアクションを介してローカル電子メールを送信する際に解決されます。 マイトークンをテストするために、プログラム内にスマートキャンペーンを作成する必要がなくなりました。
 
-## 電子メールおよびランディングページのプレビューアとエディターを切り替える {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
+## 電子メールおよびランディングページのプレビューアとエディターを切り替える{#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
 
 ワンクリックで、エディターとプレビューアを簡単に切り替えることができます。
 
@@ -35,18 +35,18 @@ Editor to Previewer:
 
 ![](assets/image2014-9-23-10-3a0-3a25.png)
 
-## スニペットプレビューア {#snippet-previewer}
+## スニペットプレビューア{#snippet-previewer}
 
 メニューから「プレビュースニペット」を選択すると、ドラフトにすることなく、スニペットを表示できます。さらに、共有スニペットに対する読み取り専用アクセス権を持っている場合は（ワークスペースを介して）、この表示を使用してスニペットをできます
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
-## 複数のテスト電子メールの送信 {#send-multiple-test-emails}
+## 複数のテスト電子メールの送信{#send-multiple-test-emails}
 
 動的なコンテンツを追加すると、リードに送信される可能性のある電子メールのバリエーションをすべてプレビューし、テストすることがますます重要になります。 リード詳細別の表示を使用してプレビューする場合、リードリストのバリエーションに関するテストを送信するオプションがあります（最大100件のテスト用電子メール）。
 
 ![](assets/image2014-9-23-10-3a0-3a50.png)
 
-## URLパラメーターに基づく動的なランディングページ {#dynamic-landing-pages-based-on-url-parameter}
+## URLパラメーター{#dynamic-landing-pages-based-on-url-parameter}に基づく動的なランディングページ
 
 匿名リードは、ランディングページの訪問をかなりの量に占めます。 動的なコンテンツの追加と、セグメント化をパラメーターとしてURLに挿入する機能により、匿名または既知のリードがリンクをクリックしたときにランディングページのコンテンツを動的に表示できます。
