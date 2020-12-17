@@ -18,17 +18,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->プログラムスケジュール表示でバッチスマートキャンペーンを [再スケジュールすることもできます](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)。
+>また、プログラムスケジュール表示](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)のバッチスマートキャンペーンを[再スケジュールすることもできます。
 
 1. 実行するバッチスマートキャンペーンを選択します。
 
    ![イメージ1](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 「 **[!UICONTROL スケジュール]** 」タブに移動し、「実行 **[!UICONTROL 」をクリックし]**&#x200B;追加ます。
+1. 「**[!UICONTROL スケジュール]**」タブに移動し、「**[!UICONTROL 実行]**」追加をクリックします。
 
    ![イメージ2](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 「 **[!UICONTROL 実行日時を]**&#x200B;設定」を選択し、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日付を選択します。
+1. 「**[!UICONTROL 実行日時を設定]**」を選択し、カレンダーアイコンをクリックして、スマートキャンペーンを実行する日付を選択します。
 
    ![イメージ3](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 「 **[!UICONTROL 確認]**」をクリックします。
+1. 「**[!UICONTROL 確認]**」をクリックします。
 
    ![画像5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
