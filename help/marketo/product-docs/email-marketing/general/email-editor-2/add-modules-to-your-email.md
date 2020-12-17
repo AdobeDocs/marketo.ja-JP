@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メ追加ールへのモジュール {#add-modules-to-your-email}
+# 電子メール追加へのモジュール{#add-modules-to-your-email}
 
 電子メールエディタ2.0では、モジュールは、テンプレートで定義された電子メールのセクションです。 モジュールには、要素、変数、その他のHTMLコンテンツの任意の組み合わせを含めることができます。 メールに簡単に追加できます。
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ほとんどのマーケティング担当者スターターテンプレートには、モジュールが含まれています。 独自のを [作成することもできます](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)。
+   >ほとんどのマーケティング担当者スターターテンプレートには、モジュールが含まれています。 [独自の](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)を作成することもできます。
 
-1. 電子メールの右端にある「 **モジュール**」をクリックします。
+1. 電子メールの右端にある「**モジュール**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-## 電子メール内でのモジュールの移動 {#moving-a-module-within-an-email}
+## 電子メール内でのモジュールの移動{#moving-a-module-within-an-email}
 
 モジュールを移動する方法は2つあります。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 歯車アイコンをクリックし、モジュールの移動先に応じて、「上へ **移動** 」または「 **下へ移動**」を選択します。
+1. 歯車アイコンをクリックし、モジュールの移動先に応じて、「**上へ移動**」または「**下へ移動**」を選択します。
 
    ![](assets/ten-2.png)
 
