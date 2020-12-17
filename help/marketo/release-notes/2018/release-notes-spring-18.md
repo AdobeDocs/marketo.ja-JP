@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# リリースノート：春18 {#release-notes-spring}
+# リリースノート：春&#39;18 {#release-notes-spring}
 
 Spring 18リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
 
 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。 注意：このリリースに含まれる一部の機能には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
 
-## Marketor Salesのソーシャル管理、起動、ToutAppの更新 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo Salesのソーシャル管理、開始、ToutAppの更新{#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [マーケティング担当者の関与](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [起動](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -35,7 +35,7 @@ Spring 18リリースには、次の機能が含まれています。 Marketing 
 * **パスワードポリシーの更新**:パスワードの作成、リセット、有効期限に関するより厳しい要件により、データの安全性を確保（Soc II - Type 1コンプライアンス要件を満たす）。
 * **合理化されたアカウント設定エクスペリエンス**:アカウントをセットアップし、Gmail、Outlook、その他のシステムにすばやく接続できます。
 
-## Marketo Skyオープンベータ {#marketo-sky-open-beta}
+## Marketo Skyオープンベータ版{#marketo-sky-open-beta}
 
 [Marketo Skyオープンベータ](https://help.marketo.com/hc/en-us)
 
@@ -45,7 +45,7 @@ Marketo Skyオープンベータ版を使用して、以下のような生産性
 * アプリ内ガイドとコンテキストヘルプ
 * アセットラベルと柔軟性の高いカレンダー表示
 
-## パフォーマンスの洞察 {#performance-insights}
+## パフォーマンスインサイト{#performance-insights}
 
 [パフォーマンスの洞察](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ Marketo Skyオープンベータ版を使用して、以下のような生産性
 
 ナビゲーションの最適化とワークフローの向上により、プログラムの成功基準の可視性とプログラムの詳細へのアクセスが可能になります。
 
-## <sup>ContentAI</sup>  {#contentai}
+## コンテンツ<sup>AI</sup> {#contentai}
 
 [目標設定](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-より多くの表示、クリックまたはコンバージョンを引き起こす<sup>ContentAI</sup> Optimization Algorithmの目標を設定します。
+より多くの表示、クリックまたはコンバージョンを駆動するコンテンツ<sup>AI</sup>最適化アルゴリズムの目標を設定します。
 
 ## 統合とAPI {#integration-and-apis}
 
@@ -85,7 +85,7 @@ Facebookワークプレースにシステム通知や興味深い瞬間を送信
 
 静的なリストの作成、読み取り、更新、削除を行う新しい双方向APIを使用して、Marketoと他のシステムとのリストをより簡単に管理できます。Marketo UIでの操作は不要です。
 
-## プライバシーの強化 {#privacy-enhancements}
+## プライバシーの強化{#privacy-enhancements}
 
 [Web トラッキングのプライバシー](http://developers.marketo.com/javascript-api/lead-tracking/)
 
