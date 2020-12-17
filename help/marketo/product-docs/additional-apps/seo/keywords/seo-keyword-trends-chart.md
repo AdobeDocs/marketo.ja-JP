@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO — キーワードのトレンドグラフ {#seo-keyword-trends-chart}
+# SEO — キーワードのトレンドグラフ{#seo-keyword-trends-chart}
 
-キーワード [SERPランクの経時的なトレンドを監視することが重要です](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 。 進行状況を監視するには、このクールグラフを確認してください。
+キーワード[SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が経時的にトレンドを示している様子を監視することが重要です。 進行状況を監視するには、このクールグラフを確認してください。
 
-1. 「 **キーワード** 」セクションに移動します。
+1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   見た？ 過去30日間の [SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) が表示されます。
+   見た？ 過去30日間の[SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が表示されます。
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
