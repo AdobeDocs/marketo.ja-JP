@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Sales Insight電子メールパフォーマンスレポート {#sales-insight-email-performance-report}
+# Sales Insight電子メールパフォーマンスレポート{#sales-insight-email-performance-report}
 
 Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で送信される電子メールのパフォーマンスを表示します。
 
-## レポートの生成 {#generate-a-report}
+## レポートの生成{#generate-a-report}
 
-1. 「 **解析**」をクリックします。
+1. 「**解析**」をクリックします。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. [ **Sales Insight] [電子メールパフォーマンス**]の順にクリックします。
+1. [**Sales Insight電子メールのパフォーマンス**]をクリックします。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 「 **設定** 」タブをクリックし、目的の値を選択します。
+1. 「**セットアップ**」タブをクリックし、必要な値を選択します。
 
    ![](assets/three.png)
 
-1. 「 **レポート** 」タブをクリックします。
+1. 「**レポート**」タブをクリックします。
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,11 +43,11 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 >
 >電子メールの名前をクリックして、電子メールプレビューで開きます。
 
-## 営業担当者別のグループ {#group-by-sales-rep}
+## 販売担当者別のグループ{#group-by-sales-rep}
 
 設定を変更することで、このレポートを販売担当者別にグループ化して表示できます。
 
-1. 「 **設定**」をクリックします。 重複キーを押しながら「 **電子メール**」をクリックします。
+1. 「**セットアップ**」をクリックします。 **電子メール**&#x200B;を重複クリックします。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
@@ -55,11 +55,11 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. 「 **レポート** 」タブをクリックします。
+1. 「**レポート**」タブをクリックします。
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
