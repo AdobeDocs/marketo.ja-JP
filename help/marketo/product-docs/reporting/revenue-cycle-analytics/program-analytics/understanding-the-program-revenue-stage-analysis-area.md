@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プログラム売上高ステージ分析領域について {#understanding-the-program-revenue-stage-analysis-area}
+# プログラム売上高ステージ分析領域について{#understanding-the-program-revenue-stage-analysis-area}
 
 この分析領域では、個々のプログラムの有効性を分析したり、チャネル別に要約された結果を表示したりできます。 これは、生成された新しい名前のうち、売上高サイクルモデル内の特定の成功パスステージに到達した名前の数に関する洞察を提供します。
 
