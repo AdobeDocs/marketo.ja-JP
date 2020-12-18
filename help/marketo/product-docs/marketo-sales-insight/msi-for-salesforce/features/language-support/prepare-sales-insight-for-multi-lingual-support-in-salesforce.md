@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforceでの多言語サポートのための販売分析の準備 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Salesforceでの多言語サポートのためのSales Insightの準備{#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -32,23 +32,23 @@ Marketor Sales Insightは、言語別に保存されます。 したがって、
 その他の言語はデフォルトで英語に設定されます。
 
 1. マーケティング担当者向けの新しい言語の追加
-1. Salesforceにログインします。 右上隅の自分の名前のドロップダウンで、「 **設定**」をクリックします。
+1. Salesforceにログインします。 右上隅の自分の名前のドロップダウンで、「**セットアップ**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 「** My Personal Information**」で、「 **Personal Information**」をクリックします。
+1. 「** My Personal Information**」で、「**Personal Information**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. 「 **編集**」をクリックします。
+1. 「**編集**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. 言語を選択し、「 **保存**」をクリックします。
+1. 言語を選択し、「**保存**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. これで、Salesforceインターフェイスは選択された言語になりました。 「 **+** 」アイコンをクリックすると、使用可能なすべてのタブを表示できます。
+1. これで、Salesforceインターフェイスは選択された言語になりました。 **+**&#x200B;アイコンをクリックすると、使用可能なすべてのタブを表示できます。
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
@@ -56,15 +56,15 @@ Marketor Sales Insightは、言語別に保存されます。 したがって、
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 「Marketo」に移動します。 Marketo Sales Insight [**API設定** の詳細を見つけます](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) 。
+1. 「Marketo」に移動します。 [Marketo Sales Insight **API configuration** details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight)を探します。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. MarketorからAPIの詳細を入力し、「 **保存**」をクリックします。
+1. MarketoからAPIの詳細を入力し、「**保存**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Salesforceを英語に戻す {#change-salesforce-back-to-english}
+## Salesforceを英語に戻す{#change-salesforce-back-to-english}
 
 Salesforce組織のカスタマイズが完了したら、次の方法で個人設定を英語に戻します。
 
@@ -76,15 +76,15 @@ Salesforce組織のカスタマイズが完了したら、次の方法で個人�
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 「 **個人情報** 」 **の下にある「個人情報**」をクリックします。
+1. **個人情報**&#x200B;の下の&#x200B;**個人情報**&#x200B;をクリックします。
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. 「 **編集**」をクリックします。
+1. 「**編集**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. 「言語」ドロップダウンから **「英語** 」を選択し、「 **保存**」をクリックします。
+1. 「言語」ドロップダウンから「**英語**」を選択し、「**保存**」をクリックします。
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
