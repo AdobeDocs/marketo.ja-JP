@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 「Unsubscribe Link」ランディングページ {#unsubscribe-link-landing-page}
+# 登録解除リンクランディングページ{#unsubscribe-link-landing-page}
 
 登録解除リンクをクリックすると、登録解除ランディングページに移動し、登録解除の対象となる要素とその理由を選択できます。
 
