@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スマートリストを使用したレポート内のユーザーのフィルター {#filter-people-in-a-report-with-a-smart-list}
+# スマートリストを使用したレポート内のユーザーのフィルター{#filter-people-in-a-report-with-a-smart-list}
 
 スマートリストを使用して、特定の人物属性でレポートをフィルターします。
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 * [会社Webアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webページアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 「 **マーケティングアクティビティ** 」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. ナビゲーションツリーでレポートを選択し、「 **スマートリスト** 」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**スマートリスト**」タブをクリックします。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. フィルターを適用したレポートを表示するには、 **「レポート** 」タブをクリックします。
+1. 「**レポート**」タブをクリックして、フィルターを適用したレポートを表示します。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートの使用方法について詳しくは、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) （詳細）を参照してください。
+   >レポートの使用方法について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
