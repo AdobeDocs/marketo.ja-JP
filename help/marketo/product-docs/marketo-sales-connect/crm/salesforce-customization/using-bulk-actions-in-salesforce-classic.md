@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce Classicでのバルクアクションの使用 {#using-bulk-actions-in-salesforce-classic}
+# Salesforce Classicでのバルクアクションの使用{#using-bulk-actions-in-salesforce-classic}
 
 キャンペーンへのリードの追加、バルク電子メールの送信、SalesforceからSales Connectへのリードのプッシュなど、バルクアクションの実行方法を説明します。
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >概要を説明した手順に従う前に、Marketo Sales Connectアカウントにログインしていることを確認します。
 
-## 一括電子メール {#bulk-email}
+## バルク電子メール{#bulk-email}
 
-1. Salesforceで、「 **Leads** 」タブをクリックし、「 **Go** 」ボタンをクリックします。
+1. Salesforceで、「**Leads**」タブをクリックし、「**Go**」ボタンをクリックします。
 
    ![](assets/one-5.png)
 
-1. 目的のリードを選択し、「 **Email with MSC(Classic)** 」ボタンをクリックします。
+1. 目的のリードを選択し、「**Email with MSC (Classic)**」ボタンをクリックします。
 
    ![](assets/two-5.png)
 
@@ -43,31 +43,31 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-## キャンペーン追加へ {#add-to-campaign}
+## 追加キャンペーン{#add-to-campaign}へ
 
-1. Salesforceで、「 **Leads** 」タブをクリックし、「 **Go** 」ボタンをクリックします。
+1. Salesforceで、「**Leads**」タブをクリックし、「**Go**」ボタンをクリックします。
 
    ![](assets/four-3.png)
 
-1. 目的のリードを選択し、「MSCキャンペーン **追加へ」（クラシック）ボタンをクリックし** ます。
+1. 目的のリードを選択し、「**MSCキャンペーン追加（クラシック）**」ボタンをクリックします。
 
    ![](assets/five-3.png)
 
-1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「 **次へ** 」をクリックし、一般的なキャンペーン・フローに従ってMSCキャンペーンをトリガーします。
+1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「**次へ**」をクリックし、一般的なキャンペーン・フローを実行して、MSCキャンペーンをトリガーします。
 
    ![](assets/six.png)
 
-## Marketor Sales Connectへのプッシュ {#push-to-marketo-sales-connect}
+## Marketo Sales Connectへのプッシュ{#push-to-marketo-sales-connect}
 
-1. Salesforceで、「 **Leads** 」タブをクリックし、「 **Go** 」ボタンをクリックします。
+1. Salesforceで、「**Leads**」タブをクリックし、「**Go**」ボタンをクリックします。
 
    ![](assets/seven-1.png)
 
-1. 目的のリードを選択し、「 **MSCにプッシュ（クラシック）** 」ボタンをクリックします。
+1. 目的のリードを選択し、「**MSCにプッシュ（クラシック）**」ボタンをクリックします。
 
    ![](assets/eight-1.png)
 
-1. 「Salesforce Bridge」という新しいタブが開きます。 「グループに **進む」ボタンをクリックし** ます。
+1. 「Salesforce Bridge」という新しいタブが開きます。 「**グループに進む→**」ボタンをクリックします。
 
    ![](assets/nine-1.png)
 
