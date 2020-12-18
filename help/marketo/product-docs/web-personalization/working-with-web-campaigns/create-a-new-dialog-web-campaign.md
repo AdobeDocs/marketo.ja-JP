@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 新しいダイアログWebキャンペーンの作成 {#create-a-new-dialog-web-campaign}
+# 新しいダイアログWebキャンペーンの作成{#create-a-new-dialog-web-campaign}
 
-## ダイアログWebキャンペーンの作成 {#create-a-dialog-web-campaign}
+## ダイアログWebキャンペーンの作成{#create-a-dialog-web-campaign}
 
 Webキャンペーンーを作成して、Webコンテンツをリアルタイムでパーソナライズし、適切なユーザーに適切なメッセージを適切なタイミングで提供します。
 
-ウェブキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応です。 反応は、Webサイト上のダイアログボックス、ゾーン [での置き換え](create-a-new-in-zone-web-campaign.md)、 [ウィジェット](create-a-new-widget-web-campaign.md)機能、電子メールアラートのいずれかです。
+ウェブキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応です。 反応は、ウェブサイトのダイアログボックス、ゾーンの置き換え](create-a-new-in-zone-web-campaign.md)の[、[ウィジェットの機能](create-a-new-widget-web-campaign.md)、電子メールの警告などです。
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 「 **新しいWebキャンペーンを作成**」を選択します。
+1. 「**新しいWebキャンペーンーを作成**」を選択します。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. ダイアログ **Webキャンペーンの種類を選択します** 。 エディターでクリエイティブをデザインし、追加します。 「 **プレビュー** 」をクリックして、Webキャンペーンがサイト上でどのような反応をするかを確認します。
+1. **ダイアログ** Webキャンペーンの種類を選択します。 エディターでクリエイティブをデザインし、追加します。 **プレビュー**&#x200B;をクリックして、Webキャンペーンの反応を確認します。
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの表示タイミングと表示方法を <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">カスタマイズできます</a> 。</td> 
+   <td colspan="1">Webキャンペーンーの<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>ダイアログのスタイル</strong></td> 
@@ -115,11 +115,11 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
   </tr> 
   <tr> 
    <td colspan="1"><strong>サイトでのプレビュー</strong></td> 
-   <td colspan="1">プレビューキャンペーンを起動する前に実行する必要があります。<br> 
+   <td colspan="1">起動前のプレビューキャンペーン。<br> 
     <ul> 
      <li>URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
      <li>デバイス — デバイス別のキャンペーンの表示プレビュー:デスクトップ、モバイル向け縦置き、モバイル向け横置き、タブレット向け縦置き、縦置き<br></li> 
-     <li>プレビュー- [ <strong>プレビュー] </strong>をクリックして、例のURLの新しいウィンドウを開き、キャンペーンの反応を確認します。 </li> 
+     <li>プレビュー- [<strong>プレビュー</strong>]をクリックすると、例のURLの新しいウィンドウが開き、キャンペーンがどのように反応するかが表示されます。 </li> 
      <li>共有 — [共有]ボタンを使用して、プロキシキャンペーンを表示するためのリンクを持つ同僚に電子メールを送信します。</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
 
 >[!TIP]
 >
->組み込みのテンプレートを使用するか [、既存のキャンペーンを再利用用のテンプレートとして](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 保存することで [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 、キャンペーンの作成プロセスを迅速かつシンプルにします。
+>組み込みのテンプレート](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を使用するか、既存のキャンペーン](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を再利用用のテンプレートとして保存することで、キャンペーンの作成プロセスを迅速化し、シンプル化します。[[
 
-## Webキャンペーンの編集 {#edit-a-web-campaign}
+## Webキャンペーンの編集{#edit-a-web-campaign}
 
-1. [ **Web****キャンペーン** ]ページで、Webキャンペーンの[ **編集** ]をクリックします。
+1. **Web** **キャンペーン**&#x200B;ページから、Webキャンペーンーの&#x200B;**編集**&#x200B;をクリックします。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->目的のWebキャンペーンを見つけやすくするには、 [フィルター機能を使用します](filter-web-campaigns.md)。
+>必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
-## Webキャンペーンのプレビュー {#preview-a-web-campaign}
+## Webキャンペーンのプレビュー{#preview-a-web-campaign}
 
-1. [ **Webキャンペーン** ]ページで、表示するWebキャンペーンの[ **プレビュー** ]をクリックします。
+1. **Webキャンペーン**&#x200B;ページから、表示するWebキャンペーンーの&#x200B;**プレビュー**&#x200B;をクリックします。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## Webキャンペーンのコピー {#clone-a-web-campaign}
+## Webキャンペーンのコピー{#clone-a-web-campaign}
 
-Webキャンペーンーの [コピーを参照してください](clone-a-web-campaign.md)。
+[Webキャンペーンーのコピー](clone-a-web-campaign.md)を参照してください。
 
-## Webキャンペーンの削除 {#delete-a-web-campaign}
+## Webキャンペーンの削除{#delete-a-web-campaign}
 
-1. 「 **Webキャンペーン** 」ページで、削除するWebキャンペーンーの「**削除**」をクリックします。
+1. **Webキャンペーン**&#x200B;ページで、削除するWebキャンペーンーの**削除**をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
