@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales Connectデータを含むSalesforce優先呼び出しレポートの作成 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Sales Connectデータを含むSalesforce優先呼び出しレポートの作成{#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Sales Connectの電子メールエンゲージメントデータを使用して、勢いのある人や機会に焦点を当てるSalesforceレポート/コールリストを作成する方法を説明します。
 
