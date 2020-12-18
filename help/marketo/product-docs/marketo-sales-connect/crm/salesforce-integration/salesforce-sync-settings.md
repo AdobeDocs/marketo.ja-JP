@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce同期設定 {#salesforce-sync-settings}
+# Salesforce同期設定{#salesforce-sync-settings}
 
-## APIを使用したSalesforceへの電子メールアクティビティのログ記録 {#logging-email-activity-to-salesforce-via-api}
+## API {#logging-email-activity-to-salesforce-via-api}を介してSalesforceに電子メールアクティビティをログ記録する
 
 この機能を使用するには、SalesforceのEnterprise/Unlimitedエディション、またはWeb Services API経由で統合を購入している場合はProfessionalエディションを使用する必要があります。
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >SalesforceとSales Engageは関連付けられている必要があります。
 
-1. 「Sales Sales Engage」で、右上の歯車アイコンをクリックし、「 **Settings**」を選択します。
+1. 「Sales Engage」で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[ **Salesforce**]をクリックします。
+1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「 **同期設定** 」タブをクリックします。
+1. 「**設定を同期**」タブをクリックします。
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 「 **Salesforce API** 」タブをクリックします。 このカードでは、Salesforceに情報を記録する環境設定を設定できます。 終了したら **「保存** 」をクリックします。
+1. 「**Salesforce API**」タブをクリックします。 このカードでは、Salesforceに情報を記録する環境設定を設定できます。 終了したら「**保存**」をクリックします。
 
    ![](assets/five.png)
 
@@ -51,19 +51,19 @@ ht-degree: 0%
 
 **電子メール(BCC)を使用してSalesforceに電子メールをログに記録するには**
 
-1. 「Sales Sales Engage」で、右上の歯車アイコンをクリックし、「 **Settings**」を選択します。
+1. 「Sales Engage」で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[ **Salesforce**]をクリックします。
+1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「 **同期設定** 」タブをクリックします。
+1. 「**設定を同期**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「 **Email to Salesforce(BCC)** 」タブをクリックし、「 **アクティブ化**」をクリックします。
+1. 「**Salesforceへの電子メール(BCC)**」タブをクリックし、「****&#x200B;アクティブ化&lt;a3/>」をクリックします。
 
    ![](assets/six-2.png)
 
@@ -71,12 +71,12 @@ ht-degree: 0%
 
 1. Salesforceインスタンスにログインします。
 1. 右上隅にユーザー名が表示されている場合は、ドロップダウンバーを選択します。
-1. 「 **マイ設定**」を選択します。
-1. 「 **電子メール**」を選択します。
-1. 「Salesforce **への電子メール**」を選択します。
+1. 「**マイ設定**」を選択します。
+1. 「**電子メール**」を選択します。
+1. **Salesforceへの電子メール**&#x200B;を選択します。
 1. このページには、「Salesforceアドレスへの電子メール送信」というフィールドが表示されます。 横に何も入力されていない場合は、「My Acceptable Email Addresses」まで下にスクロールします。
 1. BCCに含める電子メールアドレスを入力します。
-1. 「 **変更の保存**」をクリックします。
+1. 「**変更を保存**」をクリックします。
 
 **設定にSalesforceへの電子メールが見つかりません**
 
@@ -86,24 +86,24 @@ ht-degree: 0%
 >
 >この設定を行うには、管理者権限が必要です。
 
-1. 「 **設定&#x200B;*」をクリックします。* **
-1. 「 **電子メール管理&#x200B;*」をクリックします。* **
-1. 「Salesforceに **電子メールを送信&#x200B;*」をクリックします。* **
-1. 「 **編集**」をクリックします。
+1. **セットアップ&#x200B;*.* **をクリックします
+1. **電子メール管理&#x200B;*をクリックします。* **
+1. **Salesforce *に電子メールを送信するをクリックします。* **
+1. 「**編集**」をクリックします。
 1. 「アクティブ*」の横のチェックボックスをオンにします。*
-1. 「 **保存&#x200B;*」をクリックします。* **
+1. 「**保存&#x200B;*.* **」をクリックします。
 
-## 販売の関与タスク/リマインダーをSalesforceタスクに同期 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## 販売の関与タスク/リマインダをSalesforceタスクに同期{#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
-1. 右上の歯車アイコンをクリックし、「 **設定**」を選択します。
+1. 右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[ **Salesforce**]をクリックします。
+1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「 **同期設定** 」タブをクリックします。
+1. 「**設定を同期**」タブをクリックします。
 
    ![](assets/three-1.png)
 
