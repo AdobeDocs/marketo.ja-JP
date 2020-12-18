@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# [販売接続]ツールバー {#the-sales-connect-tool-bar}
+# [販売接続]ツールバー{#the-sales-connect-tool-bar}
 
 ログインすると、Gmailページの上部に5つの「Sales Connect」ボタンが追加されます。
 
-| **ライブフィードボタン** | Sales Connect [Live Feed](http://toutapp.com/next#live) （販売接続ライブフィード）を開き、電子メールに関するリアルタイムの追跡情報を取得できます。 |
+| **ライブフィードボタン** | Sales Connect [Live Feed ](http://toutapp.com/next#live)を開き、電子メールのリアルタイム追跡情報を取得できます。 |
 |---|---|
 | **タスクボタン** | すべてのタスクのドロップダウンを表示します。 |
-| **テンプレートと&#x200B;**会話ボタン** | Webアプリケーションの [テンプレートページ](http://toutapp.com/login)と会話ページをそれぞれ開きます。 Gmailページ内のすべて。 |
+| **テンプレート&#x200B;**と会話ボタン** | [Webアプリケーション](http://toutapp.com/login)のテンプレートページと会話ページをそれぞれ開きます。 Gmailページ内のすべて。 |
 | **「Sales Gong」ボタン** | チームメイトとの契約や獲得した取引を祝うことができます。 |
 
