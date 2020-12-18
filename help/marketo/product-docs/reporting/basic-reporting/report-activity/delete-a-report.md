@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# レポートの削除 {#delete-a-report}
+# レポートの削除{#delete-a-report}
 
-レポートの [作成開始が完了すると](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、多数のレポートを簡単に作成できます。 不要になったレポートは忘れずに削除してください。
+[レポート](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)の作成に開始を入れると、多くのレポートを簡単に作成できます。 不要になったレポートは忘れずに削除してください。
 
-1. ツリー内の不要なレポートを右クリックし、「レポートの **削除**」を選択します。
+1. ツリー内の不要なレポートを右クリックし、「**レポートを削除**」を選択します。
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -30,5 +30,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートで可能なその他の機能については、 [基本レポートの詳細](http://docs.marketo.com/display/docs/basic+reporting) を参照してください。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水部で、レポートでできるその他の機能をすべて確認します。
 
