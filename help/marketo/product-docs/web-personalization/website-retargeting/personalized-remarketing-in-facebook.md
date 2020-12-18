@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Facebookでのパーソナライズされたリマーケティング {#personalized-remarketing-in-facebook}
+# Facebookでのパーソナライズされたリマーケティング{#personalized-remarketing-in-facebook}
 
 パーソナライズされたリマーケティングを使用すると、RTPデータとFacebookリマーケティングの機能を利用して、ユーザーと再び関わりを持つことができます。
 
 >[!PREREQUISITES]
 >
->* Webパーソナライゼーションデータの [再ターゲティング](retargeting-with-web-personalization-data.md) 設定の完了
->* カスタムオーディエンスとリマーケティングに関する [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebookのドキュメントを確認し [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)ます。
+>* [Webパーソナライゼーションデータを使用してリターゲティング](retargeting-with-web-personalization-data.md)のセットアップを完了します
+>* カスタムオーディエンス](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)およびリマーケティングに関する[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebookのドキュメントを確認します。
 
 >
 
 
 
-## Facebookでのオーディエンスの作成 {#creating-an-audience-in-facebook}
+## Facebookでのオーディエンスの作成{#creating-an-audience-in-facebook}
 
-1. Facebookで、広告マネージャーの [オーディエンスタブ](https://www.facebook.com/ads/audience_manager) 。
-1. 「 **ツール** 」をクリックし、「 **オーディエンス**」を選択します。
+1. Facebookで、広告マネージャーの[オーディエンスタブ](https://www.facebook.com/ads/audience_manager)に移動します。
+1. 「**ツール**」をクリックし、「**オーディエンス**」を選択します。
 
    ![](assets/one-1.png)
 
-1. 「カスタムオーディエンスを **作成**」をクリックします。
+1. 「**カスタムオーディエンスを作成**」をクリックします。
 
    ![](assets/two-1.png)
 
-1. 「 **Webサイトトラフィック**」を選択します。
+1. 「**Webサイトトラフィック**」を選択します。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. 「含める」リストで、「 **イベント**」を選択します。
+1. 「含める」リストで、「**イベント**」を選択します。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. この例では、「 **Education**」を含める業種を選択します。 「 **Education**」と入力し、「In **The Last** 」を180日に編集します。 オーディエンス名を入力： **教育業界**。 「 **オーディエンスを作成**」をクリックします。
+1. この例では、「Industry」を選択して、**Education**&#x200B;を含めます。 **学歴**&#x200B;を入力し、**過去**&#x200B;を180日に編集します。 オーディエンス名を入力：**教育業界**。 「**オーディエンスを作成**」をクリックします。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## FacebookのRTPデータポイント {#rtp-data-points-in-facebook}
+## FacebookのRTPデータポイント{#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -104,15 +104,15 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 広告でのオーディエンスのターゲット {#target-your-audience-with-an-ad}
+## 広告とのオーディエンスのターゲット{#target-your-audience-with-an-ad}
 
-詳しくは、 [Facebookのドキュメントを参照してください](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)。
+詳しくは、[Facebookのドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)を参照してください。
 
-1. 広告マネージャーに移動し、「広告を **作成**」をクリックします。
+1. 広告マネージャーに移動し、「**広告を作成**」をクリックします。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. キャンペーンの目的として **「Webサイトにユーザーを送信** 」を選択します。
+1. キャンペーンの目的として、「Webサイトにユーザーを送信&#x200B;**」を選択します。**
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
