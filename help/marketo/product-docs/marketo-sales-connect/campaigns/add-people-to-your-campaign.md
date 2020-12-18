@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# キャンペーン追加のユーザー {#add-people-to-your-campaign}
+# キャンペーンへ追加のユーザー{#add-people-to-your-campaign}
 
 キャンペーンにユーザーを追加する方法は複数あります。
 
