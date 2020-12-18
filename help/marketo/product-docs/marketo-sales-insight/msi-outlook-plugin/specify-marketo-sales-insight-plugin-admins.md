@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Marketor Sales Insightプラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
+# Marketor Sales Insightプラグイン管理者の指定{#specify-marketo-sales-insight-plugin-admins}
 
 OutlookでMSIを設定するためにユーザーを招待した場合に、ユーザーに送信する電子メール通知に表示する連絡先を指定できます。
 
-1. 「マーケティング」で、「 **管理者」**&#x200B;をクリックし、「Sales Insight **」をクリックします。**
+1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 「 **Email追加-In** 」タブをクリックします。
+1. 「**電子メールイン追加**」タブをクリックします。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. 「プラグインの連絡先 **を指定**」をクリックします。
+1. 「**プラグインの連絡先を指定**」をクリックします。
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ OutlookでMSIを設定するためにユーザーを招待した場合に、ユ�
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
