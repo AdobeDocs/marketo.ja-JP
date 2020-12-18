@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# パフォーマンスインサイトでのフィルタリング {#filtering-in-performance-insights}
+# パフォーマンスインサイトでのフィルタリング{#filtering-in-performance-insights}
 
 クエリ固有の情報にデータを容易にフィルタリングできます。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現時点では、 [RCA](http://docs.marketo.com/x/lwIk) (RCA)を有効にしているユーザーのみが、フィルターで「Custom Attributes」を使用できます。
+>現時点では、カスタム属性は、[RCA](http://docs.marketo.com/x/lwIk)を有効にしているお客様のみがフィルターで使用できます。
 
 カテゴリをクリックすると、複数のサブカテゴリが表示されます。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](assets/6-2.png)
 
-## 使用可能なフィルター {#available-filters}
+## 使用可能なフィルター{#available-filters}
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>カスタム属性</strong></td> 
-   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析 <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">に対して有効にするすべてのフィールドを</a> 、パフォーマンスインサイトでフィルタリングできます。</p></td> 
+   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析に対して有効にしたすべての<a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">フィールドは、パフォーマンスインサイトでフィルタリングできます。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期間</strong></p></td> 
