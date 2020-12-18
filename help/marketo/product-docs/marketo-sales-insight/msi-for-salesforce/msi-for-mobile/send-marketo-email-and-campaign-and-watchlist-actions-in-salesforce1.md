@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SalesforceでのMarketo電子メール、キャンペーン、およびウォッチリストのアクションの送信1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Salesforce1でのMarketo Eメール、キャンペーン、ウォッチリストのアクションの送信{#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Salesforce1の「Lead Detail」領域に移動し、「 **Related** 」タブをクリックします。
+1. Salesforce1の「Lead Detail」領域に移動し、「**Related**」タブをクリックします。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >どのスマートキャンペーンが表示されますか。 「キャンペーンが要求された」トリガーを持つもの。 「キャンペーンが要求されました [」を使用して、](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)トリガーされたキャンペーンを設定する方法を説明します。
+   >どのスマートキャンペーンが表示されますか。 「キャンペーンが要求された」トリガーを持つもの。 「キャンペーンは要求されました](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」を使用して[トリガーされたキャンペーンを設定する方法を説明します。
 
 これで、販売員はマーケティング活動に積極的に参加できます。
 
