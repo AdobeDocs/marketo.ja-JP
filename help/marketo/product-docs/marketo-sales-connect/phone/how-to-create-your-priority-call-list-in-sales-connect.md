@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sales Connectでの優先度呼び出しリストの作成方法 {#how-to-create-your-priority-call-list-in-sales-connect}
+# Sales Connectでの優先度呼び出しリストの作成方法{#how-to-create-your-priority-call-list-in-sales-connect}
 
 ToutAppの電子メールエンゲージメントデータを使用して優先度の高いレポート/呼び出しリストを作成し、勢いのある人や機会に時間を集中させる方法を説明します。
 
-1. Webアプリケーションの「アカウント [」に移動します](http://toutapp.com/login)。 次の手順を完了すると、「Priority Callリスト」がSales Connectに保存され、最も暖かいリード/アカウントの優先順位を決め、暗くなったリード/アカウントの再関与、低くなったフルーツの捕捉、キャンペーンのタッチ間の接続時間の短縮を行います。
+1. [Webアプリケーション](http://toutapp.com/login)のアカウントに移動します。 次の手順を完了すると、「Priority Callリスト」がSales Connectに保存され、最も暖かいリード/アカウントの優先順位を決め、暗くなったリード/アカウントの再関与、低くなったフルーツの捕捉、キャンペーンのタッチ間の接続時間の短縮を行います。
 1. 次の手順を実行します。
 
    * 「表示オプション」をクリックします
