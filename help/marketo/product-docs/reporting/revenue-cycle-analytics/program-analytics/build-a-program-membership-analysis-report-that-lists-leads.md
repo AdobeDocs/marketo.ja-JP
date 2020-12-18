@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リストがリードするプログラムメンバーシップ分析レポートの作成 {#build-a-program-membership-analysis-report-that-lists-leads}
+# リストがリード{#build-a-program-membership-analysis-report-that-lists-leads}を引くプログラムメンバーシップ分析レポートを作成します。
 
 次の手順に従って、すべてのプログラムメンバー名を表示するプログラムメンバーシップ分析レポートを作成します。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-「 **フルネーム** 」などのリード属性を簡単に追加して、メンバーが誰かを確認できます。
+**フルネーム**&#x200B;などのリード属性を簡単に追加して、メンバーが誰かを調べることができます。
 
 >[!TIP]
 >
