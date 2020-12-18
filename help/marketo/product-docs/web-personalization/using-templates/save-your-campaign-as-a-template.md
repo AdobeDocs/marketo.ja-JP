@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンをテンプレートとして保存 {#save-your-campaign-as-a-template}
+# キャンペーンをテンプレートとして保存{#save-your-campaign-as-a-template}
 
 完璧なWebキャンペーンの作成に時間を費やしたことはありますか。 これで、テンプレートとして保存し、将来的に再利用しやすくなります。
 
