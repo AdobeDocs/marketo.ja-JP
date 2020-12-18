@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Marketorのリードからの受信メールのログ {#log-inbound-mail-from-your-leads-in-marketo}
+# Marketor {#log-inbound-mail-from-your-leads-in-marketo}のリードからの受信メールのログ
 
 Outlookで、リードからの返信をMarketto Email 追加 Inでログに記録できます。
 
-## Outlookのメインアプリケーションから {#from-the-main-outlook-application}
+## Outlookのメインアプリケーションから{#from-the-main-outlook-application}
 
 1. ログに記録する電子メールを選択し、「マーケティング担当者によるログ」をクリックします。
 
@@ -23,13 +23,13 @@ Outlookで、リードからの返信をMarketto Email 追加 Inでログに記�
 
 >[!TIP]
 >
->メッセージを右クリックし、「 **Log With Marketto」をクリックする方法もあります**。
+>メッセージを右クリックし、「**Log With Marketto**」をクリックする方法もあります。
 
 確認が表示されます。
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## 電子メール自体から {#from-the-email-itself}
+## 電子メール自体{#from-the-email-itself}から
 
 電子メールを開いている場合は、そこから「Log with Marketto」ボタンをクリックするだけです。
 
