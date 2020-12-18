@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンからのユーザーの削除 {#remove-people-from-a-campaign}
+# キャンペーンからユーザーを削除{#remove-people-from-a-campaign}
 
 受信者の返信時にキャンペーンを自動的に終了できます。 そして、その受信者の「成功」を示すキャンペーンを持つように選択できます。
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 また、キャンペーン自体からユーザーを削除したり、ユーザーページ内のキャンペーンからユーザーを削除したり、ユーザーのグループ全体を削除したりできます。 以下の3つの方法を見てみましょう。
 
-## キャンペーンから直接人を削除 {#remove-a-person-directly-from-a-campaign}
+## キャンペーンから直接人を削除{#remove-a-person-directly-from-a-campaign}
 
-1. 「Sales Connect」で、「 **キャンペーン** 」タブをクリックします。
+1. Sales Connectで、「**キャンペーン**」タブをクリックします。
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 削除するユーザーを探し、「 **削除**」をクリックします。
+1. 削除するユーザーを探し、**削除**&#x200B;をクリックします。
 
    ![](assets/four.png)
 
-1. （オプションの手順）名前の横のチェックボックスをクリックし、上部の「 **削除** 」ボタンをクリックして、複数の人を一度に削除することもできます。
+1. （オプションのSTEP）複数の人を一度に削除するには、名前の横のチェックボックスをクリックし、上部の&#x200B;**削除**&#x200B;ボタンをクリックします。
 
    ![](assets/five.png)
 
-## 「ユーザー」ページ内のキャンペーンからのユーザーの削除 {#remove-a-person-from-a-campaign-within-the-people-page}
+## ユーザーページ内のキャンペーンからユーザーを削除{#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. 「Sales Connect」で、「 **People** 」タブをクリックします。
+1. 「Sales Connect」で、「**People**」タブをクリックします。
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ ht-degree: 0%
 
    ![](assets/two-a.png)
 
-1. 右側に「個人の詳細表示」パネルが開きます。 「 **履歴** 」タブをクリックし、「 **削除** 」ボタンをクリックします。
+1. 右側に「個人の詳細表示」パネルが開きます。 「**履歴**」タブをクリックし、「**削除**」ボタンをクリックします。
 
    ![](assets/three-a.png)
 
-## キャンペーンからのユーザーグループの削除 {#remove-a-group-of-people-from-a-campaign}
+## キャンペーンからのユーザーのグループの削除{#remove-a-group-of-people-from-a-campaign}
 
-1. 「Sales Connect」で、「 **People** 」タブをクリックします。
+1. 「Sales Connect」で、「**People**」タブをクリックします。
 
    ![](assets/one-b.png)
 
-1. 「 **マイグループ」で自分のグループを探して選択します**。
+1. **[マイグループ]**&#x200B;で自分のグループを探して選択します。
 
    ![](assets/two-b.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/three-b.png)
 
-1. 「 **アクション** 」をクリックし、「キャンペーンから選択した項目を **削除」を選択します**。
+1. 「**アクション**」をクリックし、「**キャンペーンから選択した項目を削除**」を選択します。
 
    ![](assets/four-b.png)
 
