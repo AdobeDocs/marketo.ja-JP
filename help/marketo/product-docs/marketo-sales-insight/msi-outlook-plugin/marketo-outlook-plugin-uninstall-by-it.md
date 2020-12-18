@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# IT部門によるMarketo Outlookプラグインのアンインストール {#marketo-outlook-plugin-uninstall-by-it}
+# IT部門によるMarketo Outlookプラグインのアンインストール{#marketo-outlook-plugin-uninstall-by-it}
 
 次に、Marketo Outlookプラグインをリモートでアンインストールする方法を示します。
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 >**例**
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-トラブルシューティング用に、ログを有効にして出力ログファイルを作成できます。  `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
+トラブルシューティング用に、ログを有効にして出力ログファイルを作成できます。 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
 >**例**
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn /L*v MarketoAddinUninstall.log</pre>`
 
-ログファイルの場所を指定するには、コマンドラインでファイルパスを指定します。  `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
+ログファイルの場所を指定するには、コマンドラインでファイルパスを指定します。 `<pre>msiexec.exe /x [File Name] /qn /L*v [File Path]MarketoAddinUninstall.log</pre>`
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ ht-degree: 0%
 >
 >プラグインをリモートからアンインストールすると、ユーザーのコンピューター上のOutlookが強制的に終了します。
 
-異なるログレベルやユーザーインターフェイスレベルを試す場合は、 [Microsoftのスイッチの完全なリストを参照してください](https://support.microsoft.com/en-us/kb/227091) 。
+異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoftのスイッチの完全なリスト](https://support.microsoft.com/en-us/kb/227091)を参照してください。
