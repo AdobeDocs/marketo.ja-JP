@@ -11,47 +11,47 @@ ht-degree: 0%
 ---
 
 
-# 電子メールレポート {#email-reports}
+# レポートのメール送信{#email-reports}
 
-ユーザーが受け取る自動電子メールレポートをカスタマイズするには、「 [ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)」セクションを参照してください。
+ユーザーが受け取る自動電子メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照してください。
 
-## ウェブパーソナライゼーション電子メールレポート {#web-personalization-email-reports}
+## ウェブパーソナライゼーション電子メールレポート{#web-personalization-email-reports}
 
 日別または週別の電子メールレポートは、ユーザーの電子メールアドレスに送信され、最新の組織、個人、キャンペーン、アセットのパフォーマンスデータを提供します。
 
 次のレポートを使用できます。
 
-## 日別/週別組織レポート {#daily-weekly-organizations-report}
+## 日別/週別組織レポート{#daily-weekly-organizations-report}
 
 ![](assets/image2014-12-6-13-3a32-3a8.png)
 
 日別/週別レポートは、組織名、場所、訪問数、ページ表示数、および使用されたリファラルサイトや検索用語を含む、上位50組織の訪問組織を示す電子メールをユーザに送信します。
 
-## 日別/週別ユーザーレポート {#daily-weekly-people-report}
+## 日別/週別ユーザーレポート{#daily-weekly-people-report}
 
 ![](assets/two.png)
 
 日別/週別の人物レポートは、次の情報に従って、Webサイトから最新100人の人物を電子メールで送信します。個人の電子メールアドレス、組織名、場所、州、人物の取り込み日、およびその個人が属するセグメント。
 
-## 最もパフォーマンスの高いリアルタイムキャンペーン {#top-performing-real-time-campaigns}
+## パフォーマンスの最も高いリアルタイムキャンペーン{#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 パフォーマンスの高いリアルタイムキャンペーンレポートは、パフォーマンスの高いリアルタイムキャンペーンの電子メールを送信し、キャンペーン名、インプレッション数、クリック数、キャンペーンが反応したセグメントおよびキャンペーンのコンバージョン率を示します。
 
-## 最もパフォーマンスの高いアセットレポート {#top-performing-assets-report}
+## 最もパフォーマンスの高いアセットレポート{#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
 パフォーマンスが最も高いアセットレポートは、パフォーマンスが最も高いコンテンツアセットを電子メールで送信し、アセット名と他のアセットとの比較に一致した割合を示します。
 
-## 推奨アセットレポート {#recommended-assets-report}
+## 推奨アセットレポート{#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
 レコメンデーションされたアセットレポートは、コンテンツレコメンデーションエンジンに表示されているコンテンツに対するすべてのコンテンツとクリック数の電子メールをユーザーに送信します。
 
-## サマリレポート {#summary-report}
+## サマリレポート{#summary-report}
 
 ![](assets/six.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 >
 >Marketto Webパーソナライゼーションは、Webサイトで記入されたフォームのWeb訪問者ーの電子メールアドレスを取得します。 これは、Webパーソナライゼーションの人ページに表示され、概要レポートで使用される人です。
 
-ユーザーが受け取る自動電子メールレポートをカスタマイズするには、「 [ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)」セクションを参照してください。
+ユーザーが受け取る自動電子メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照してください。
