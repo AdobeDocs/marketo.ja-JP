@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 動的フィールドに入力できない {#my-dynamic-fields-arent-filling-out}
+# 動的フィールドが{#my-dynamic-fields-arent-filling-out}に入力されない
 
 動的フィールドは、テンプレートを使用している場合にのみ機能します。 1回限りの電子メールでは、それらは記入されません。
 
-## 確認内容 {#what-to-check}
+## {#what-to-check}の確認内容
 
-Sales Connectには、次の3種類の動的フィールドがあります。基本、カスタム、Salesforce。 「基本」と「カスタム」はどちらも、 [Webアプリケーションから情報を取り込むように見えます](http://toutapp.com/login)。 Webアプリケーションに情報が存在しない場合、フィールドは空白になります。 Salesforceフィールドは、 [Salesforce.comから情報を取り込みます](http://salesforce.com)。
+Sales Connectには、次の3種類の動的フィールドがあります。基本、カスタム、Salesforce。 「基本」と「カスタム」はどちらも、[Webアプリケーション](http://toutapp.com/login)から情報を取り込むように見えます。 Webアプリケーションに情報が存在しない場合、フィールドは空白になります。 Salesforceフィールドは、[Salesforce.com](http://salesforce.com)から情報を取り込みます。
 
 `**Troubleshooting Salesforce Fields**`
 
-Salesforceフィールド：例えば `{{sfdc_account_name}}`
+Salesforceフィールド：例えば`{{sfdc_account_name}}`
 
-* Sales Connectとの接続が正しく行われていることを確認します。 「 [設定](http://toutapp.com/next#settings) 」ページに移動し、CRMの横にある「 **管理** 」をクリックします。
+* Sales Connectとの接続が正しく行われていることを確認します。 [設定](http://toutapp.com/next#settings)ページに移動し、CRMの横の&#x200B;**管理**&#x200B;をクリックします。
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 
-Tout Basic Fields:例えば `{{company}}`
+Tout Basic Fields:例えば`{{company}}`
 
-カスタムフィールドを出力：例えば `{{custom_field_favorite_movie}}`
+カスタムフィールドを出力：例えば`{{custom_field_favorite_movie}}`
 
-* 動的フィールド `he corresponding field needs to be saved for your contact` を参照するための、 [](http://toutapp.com/next#relationships) 人ページ内のT。 例えば、Maryに電子メールを送信し、この `{{company}}` フィールドを使用している場合、連絡先レコードが会社をリストしていないと、その情報を入力できません。
+* 動的フィールドを参照する[ユーザーページ](http://toutapp.com/next#relationships)の`he corresponding field needs to be saved for your contact`を参照してください。 例えば、Maryに電子メールを送信し、`{{company}}`フィールドを使用しているが、連絡先レコードが会社をリストしていない場合、その情報を入力することはできません。
 
-## すべての動的フィールドに値が入力されないで電子メールが送信されたのはなぜですか。 {#why-did-my-email-send-without-populating-all-dynamic-fields}
+## すべての動的フィールドに値が入力されないで電子メールが送信されたのはなぜですか。{#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Sales Connectは、電子メールにすべての動的フィールドを入力できない場合、電子メールの送信を停止します。 **ただし**、このルールにはいくつかの例外があります。 一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。 以下に、これらのフィールドと、そのフィールドに値を入力できない場合の反応を示します。
+Sales Connectは、電子メールにすべての動的フィールドを入力できない場合、電子メールの送信を停止します。 **ただし**、このルールにはいくつかの例外があります。一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。 以下に、これらのフィールドと、そのフィールドに値を入力できない場合の反応を示します。
 
 `{{first_name}}` =空白
 
@@ -49,5 +49,5 @@ Sales Connectは、電子メールにすべての動的フィールドを入力�
 
 >[!NOTE]
 >
->この `{{first_name}}` フィールドは、Sales ConnectとSalesforceの両方を参照して情報を取り込もうとします。 このリストの他のすべてのフィールドは、Sales Connectを参照してフィールドに入力するだけです。
+>`{{first_name}}`フィールドは、Sales ConnectとSalesforceの両方を検索して情報を取り込もうとします。 このリストの他のすべてのフィールドは、Sales Connectを参照してフィールドに入力するだけです。
 
