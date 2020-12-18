@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ユーザーに対するバルクアクション {#bulk-actions-on-people}
+# ユーザーのバルクアクション{#bulk-actions-on-people}
 
 連絡先を一括処理して管理し、時間を節約することができます。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ![](assets/one-3.png)
 
-## グル追加ープ化するユーザー {#add-people-to-group}
+## グル追加ープ化するユーザー{#add-people-to-group}
 
 複数追加のユーザーを同時にグループに追加する。
 
 ![](assets/add-to-group.png)
 
-## ソース {#source}
+## ソース{#source}
 
 データベースに入るすべての連絡先にソースを自動的に割り当てます。 この手順を使用して、そのソースを更新します。
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 >
 >ソースはカスタマイズできません。
 
-## 承認 {#authorization}
+## 認証{#authorization}
 
-GDPRに準拠して [GDPR](http://eugdpr.org/)、認証を使用して、これらの連絡先との関与に関するアクセス許可を受け取った方法を示します。
+[GDPR](http://eugdpr.org/)に準拠して、認証を使用して、これらの連絡先との関与に関する権限を受け取った方法を示します。
 
 ![](assets/authorization.png)
 
-## 登録解除 {#unsubscribe}
+## 登録解除{#unsubscribe}
 
 通信の受信を希望しなくなった連絡先に対して、一括登録解除を実行します。
 
 ![](assets/unsubscribe.png)
 
-## 削除 {#delete}
+## {#delete}を削除
 
-連絡先を一括で削除します。 完全な手順は [こちら](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)。
+連絡先を一括で削除します。 [ここ](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)に完全な手順があります。
 
 ![](assets/delete.png)
 
