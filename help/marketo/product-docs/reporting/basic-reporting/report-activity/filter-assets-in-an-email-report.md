@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メールレポートでのアセットのフィルタリング {#filter-assets-in-an-email-report}
+# 電子メールレポート内のアセットのフィルター{#filter-assets-in-an-email-report}
 
-プログラム内の電子メール(「 [ローカルアセット」)、Design Studio内の電子メール（「グローバルアセット」）、またはアーカイブされた電子メールに対する電子メールの](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)[](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 電子メールパフォーマンスレポートまたは電子メールリンクパフォーマンスレポートに焦点を当てます。
+プログラム（「ローカルアセット」）内の電子メール、Design Studio内の電子メール（「グローバルアセット」）、またはアーカイブされた電子メールに関する[電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)または[電子メールリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)レポートに焦点を当てます。
 
-1. 「 **Analytics** (または **マーケティングアクティビティ**)」領域に移動します。
+1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. 「 **設定** 」タブをクリックし、フィルターの上にドラッグします。
+1. 「**セットアップ**」タブをクリックし、フィルターの上にドラッグします。
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. 終わった！ フィルターを適用したレポートを表示するには、 **「レポート** 」タブをクリックします。
+1. 終わった！ 「**レポート**」タブをクリックして、フィルターを適用したレポートを表示します。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting)。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
