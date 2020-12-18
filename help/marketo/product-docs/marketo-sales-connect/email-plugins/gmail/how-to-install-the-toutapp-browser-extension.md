@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# ToutApp Browser Extensionのインストール方法 {#how-to-install-the-toutapp-browser-extension}
+# ToutApp Browser Extensionのインストール方法{#how-to-install-the-toutapp-browser-extension}
 
-1. Webアプリケーションで **「** 設定 [」をクリックし](http://toutapp.com/next#settings)ます。
-1. 「マイアカウント」で、「 **電子メール設定**」をクリックします。
-1. 「 **プラグイン**」をクリックします。
-1. 「GmailとGoogleアプリ」で、「 **インストール**」をクリックします。
+1. [Webアプリケーション](http://toutapp.com/next#settings)の&#x200B;**設定**&#x200B;をクリックします。
+1. 「マイアカウント」で、「**電子メール設定**」をクリックします。
+1. 「**プラグイン**」をクリックします。
+1. 「GmailとGoogleアプリ」で、「**インストール**」をクリックします。
 
