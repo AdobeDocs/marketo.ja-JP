@@ -11,26 +11,26 @@ ht-degree: 0%
 ---
 
 
-# レポートの保存 {#save-a-report}
+# レポートの保存{#save-a-report}
 
 場合によっては、後でデフォルトのレポートを表示に再び保存する必要が生じることがあります。 その方法を次に示します。
 
-1. 「 **解析** 」領域に移動します。
+1. 「**Analytics**」領域に移動します。
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. レ [ポートタイプを選択します](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [レポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. 「**レポートアクション**」をクリックし、「 **名前を付けて保存**」を選択します。
+1. 「**レポートアクション**」をクリックし、「**名前を付けて保存**」を選択します。
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **「保存先** 」で場所を指定し、「 **フォルダー**」を選択します。
+1. **保存先** を選択し、 **フォルダーを選択します**。
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **レポートに名前を付け** 、「 **保存**」をクリックします。
+1. **レポートに** 名前を付け、「 **保存**」をクリックします。
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->レポートをグループレポートに [コピーする方法を説明します](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)。
+>[レポートをコピーしてレポートをグループ化する方法](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)を説明します。
 
