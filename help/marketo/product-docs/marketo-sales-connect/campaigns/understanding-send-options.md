@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 送信オプションについて {#understanding-send-options}
+# 送信オプションについて{#understanding-send-options}
 
 キャンペーンを作成する場合、Sales Connectでの電子メール手順の作成方法に関して、いくつかのオプションがあります。 また、キャンペーン内の電子メールの場所によって、選択肢も異なります。
 
