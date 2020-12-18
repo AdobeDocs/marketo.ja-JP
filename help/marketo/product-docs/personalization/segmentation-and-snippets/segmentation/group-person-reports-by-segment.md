@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# セグメント別個人レポートのグループ化 {#group-person-reports-by-segment}
+# セグメント別のグループ個人レポート{#group-person-reports-by-segment}
 
-セグメントで [定義した任意の](http://docs.marketo.com/display/docs/basic+reporting) セグメントで [、](http://docs.marketo.com/display/docs/basic+reporting) 個人レポートをグループ化できます [](create-a-segmentation.md)。
+[ユーザーレポート](http://docs.marketo.com/display/docs/basic+reporting)を、[がセグメント](create-a-segmentation.md)で定義した任意の[セグメント](http://docs.marketo.com/display/docs/basic+reporting)でグループ化できます。
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」セクションに移動します。
+1. 「**マーケティングアクティビティ**」（または「**Analytics**」）セクションに移動します。
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,21 +28,21 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細で、個人レポートおよびその他のレポートタイプについて説明します。
+   >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
-1. 「 **セットアップ** 」タブをクリックし、重複キーを押しながら「ユーザーをグループ化」をクリックし ****&#x200B;ます。
+1. 「**セットアップ**」タブをクリックし、「**ユーザーを**&#x200B;でグループ化」を重複クリックします。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >個人または会社属性別に個人レポートを [グループ化することもできます](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)。
+   >個人または会社属性](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)別に[個人レポートをグループ化することもできます。
 
-1. ユーザーの **グループ化ダイアログで** 、開始がテキストボックスに「セグメント化」と入力します。 「 **セグメント** 」という見出しが表示されたら、見出しの下のリストから1つを選択します。
+1. **ユーザーを**&#x200B;でグループ化ダイアログで、開始がテキストボックスに「セグメント化」と入力します。 **セグメント**&#x200B;という見出しが表示されたら、見出しの下のリストから1つ選択します。
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. 「 **レポート** 」タブをクリックすると、選択したセグメント別にレポートがグループ化されて表示されます。
+1. 「**レポート**」タブをクリックすると、選択したセグメント別にグループ化されたレポートが表示されます。
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->セグメントの詳細と、セグメントを作成および管理する方法については、 [セグメント化](http://docs.marketo.com/display/docs/segmentation+and+snippets) （詳細）を参照してください。
+>セグメントの詳細と、セグメントの作成および管理方法については、[セグメント化](http://docs.marketo.com/display/docs/segmentation+and+snippets)の詳細を参照してください。
 
 >[!MORELIKETHIS]
 >
