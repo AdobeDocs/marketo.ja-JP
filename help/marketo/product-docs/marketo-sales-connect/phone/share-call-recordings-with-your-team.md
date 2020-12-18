@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# 通話記録をチームと共有 {#share-call-recordings-with-your-team}
+# 通話記録をチームと共有{#share-call-recordings-with-your-team}
 
 Sales Phoneを使用すると、通話記録を記録および保存できます。 他のチームメンバーと通話の記録を共有する場合は、リンクのコピー元となる場所が2つあります。
 
-## Web アプリケーション内の個人の詳細から記録リンクをコピー {#copy-recording-link-from-the-person-details-in-the-web-application}
+## Web アプリケーション{#copy-recording-link-from-the-person-details-in-the-web-application}の個人の詳細から記録リンクをコピー
 
-1. Webアプリケーションに移動し [ます](http://toutapp.com/login)。
+1. [Webアプリケーション](http://toutapp.com/login)に移動します。
 1. 個人の詳細を開きます。
 1. アクティビティリストの下の呼び出しアクティビティを探します。
 1. 通話の記録を右クリックし、リンクURLをコピーします。
 
-## Salesforceタスクからの記録リンクのコピー {#copy-recording-link-from-the-salesforce-task}
+## Salesforceタスクから記録リンクをコピー{#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
