@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# 動的コンテンツについて {#understanding-dynamic-content}
+# 動的コンテンツについて{#understanding-dynamic-content}
 
-パーソナライゼーションには、「こんにちは」だけではなく、多くのものがあ `{{First Name}}`ります。 Marketo Dynamic Contentを使用すると、ランディングページや電子メールの見え方をカスタマイズできます。
+パーソナライゼーションには、単に「Hi `{{First Name}}`」というだけではなく、多くのものがあります。 Marketo Dynamic Contentを使用すると、ランディングページや電子メールの見え方をカスタマイズできます。
 
 ![](assets/artboard-1.png)
 
-## セグメント {#segmentation}
+## セグメント{#segmentation}
 
-まず、個人をサブグループに分ける必要があります。 これを [セグメント化と呼びます](create-a-segmentation.md)。
+まず、個人をサブグループに分ける必要があります。 これは[セグメント化](create-a-segmentation.md)と呼ばれます。
 
 >[!NOTE]
 >
 >**定義**
 >
->セグメントは、ス [マートリストルに基づいて、オーディエンスを様々なサブグループに分類](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)します。 これらのグループをセグメントと呼びます。
+>セグメントは、[スマートリスト](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)ルールに基づいて、オーディエンスを様々なサブグループに分類します。 これらのグループをセグメントと呼びます。
 
 例えば、Industryというセグメントがある場合、次のようなセグメントがあります。医療、技術、金融、消費財など   ![](assets/artboard-2.png)
 
-## 動的コンテンツ {#dynamic-content}
+## 動的コンテンツ{#dynamic-content}
 
 様々なセグメントを作成したら、動的なコンテンツブロックをランディングページや電子メールに追加できます。 これにより、そのコンテンツの部分を、表示したユーザーに応じて異なるものにしたいとMarketorは考えています。
 
 ![](assets/artboard-3.png)
 
-## スニペット {#snippets}
+## スニペット{#snippets}
 
-[スニペット](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) は、Marketoの便利なツールです。 1回作成すれば、複数の場所で使用できます。 スニペットを更新すると、そのスニペットを使用するすべてのアセット(ランディングページまたは電子メール)が自動的に更新されます。
+[Snippets](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) はMarketoの便利なツールです。1回作成すれば、複数の場所で使用できます。 スニペットを更新すると、そのスニペットを使用するすべてのアセット(ランディングページまたは電子メール)が自動的に更新されます。
 
 >[!NOTE]
 >
