@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics 365でのMarketo Sales Insightのインストールと構成 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Microsoft Dynamics 365でのMarketo Sales Insightのインストールと設定{#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 Marketo Sales Insightは、マーケティングチームが持つ豊富なデータをセールスチームに「窓口」として提供する素晴らしいツールです。 以下に、のインストールと設定方法を示します。
 
 >[!PREREQUISITES]
 >
->Marketoと [Microsoftの統合を完了します](http://docs.marketo.com/x/E4A2)。
+>[MarketoとMicrosoftの統合](http://docs.marketo.com/x/E4A2)を完了します。
 >
->[お使いのバージョンのMicrosoft Dynamics CRMに適したソリューション](http://docs.marketo.com/x/LoJo) をダウンロードしてください。
+>[お使いのバージョンのMicrosoft Dynamics CRMに適した](http://docs.marketo.com/x/LoJo) ソリューションをダウンロードしてください。
 
-## ソリューションのインポート {#import-solution}
+## ソリューションのインポート{#import-solution}
 
-1. [Microsoft Office 365にログインします](https://login.microsoftonline.com/)。
+1. [Microsoft Office 365](https://login.microsoftonline.com/)にログインします。
 
    ![](assets/image2015-3-16-15-58-55.png)
 
-1. 「 ![— 」](assets/image2015-3-16-16-1-13.png) メニューをクリックし、「 **CRM**」を選択します。
+1. ![—](assets/image2015-3-16-16-1-13.png)メニューをクリックし、**CRM**&#x200B;を選択します。
 
    ![](assets/image2015-3-16-16-0-10.png)
 
-1. 「 ![— 」](assets/image2015-5-13-10-5-8.png) メニューをクリックします。 ドロップダウンで、「 **設定**」を選択し、「 **ソリューション**」を選択します。
+1. ![—](assets/image2015-5-13-10-5-8.png)メニューをクリックします。 ドロップダウンで、「**設定**」を選択し、「**ソリューション**」を選択します。
 
    ![](assets/image2015-5-13-10-4-1.png)
 
@@ -40,24 +40,24 @@ Marketo Sales Insightは、マーケティングチームが持つ豊富なデ�
    >**Reminder**
    >
    >
-   >先に進む前に、Marketo Solution [を既にインストールして設定しておく必要があります](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) 。
+   >先に進む前に、[をインストールし、Marketoソリューション](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)を設定しておく必要があります。
 
    「読み込み」をクリックします。
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 新しいウィンドウで、「 **参照**」をクリックします。 手順1でダウンロードした [Marketo Sales Insightソリューションを選択し](#msi)ます。 「 **次へ**」をクリックします。
+1. 新しいウィンドウで、**参照**&#x200B;をクリックします。 手順1](#msi)でダウンロードした[Marketo Sales Insightソリューションを選択します。 「**次へ**」をクリックします。
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
-1. ソリューションがアップロードされます。 必要に応じて、パッケージの内容を表示できます。 「 **次へ**」をクリックします。
+1. ソリューションがアップロードされます。 必要に応じて、パッケージの内容を表示できます。 「**次へ**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. ボックスを **チェックしたままにして** 、「 **読み込み**」をクリックします。
+1. **チェック済み**&#x200B;のままにして、**読み込み**&#x200B;をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. ログファイルは自由にダウンロードできます。 「 **閉じる**」をクリックします。
+1. ログファイルは自由にダウンロードできます。 「**閉じる**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -65,11 +65,11 @@ Marketo Sales Insightは、マーケティングチームが持つ豊富なデ�
 
    ![](assets/image2015-5-13-15-3a42-3a29.png)
 
-1. 「すべてのカスタマイズを **発行**」をクリックします。
+1. 「**すべてのカスタマイズを発行**」をクリックします。
 
    ![](assets/image2015-11-10-11-3a15-3a40.png)
 
-## MarketorとSales Insightの接続 {#connect-marketo-and-sales-insight}
+## MarketoとSales Insightの接続{#connect-marketo-and-sales-insight}
 
 MarketorのインスタンスをDynamicsのSales Insightに結び付けます。 方法を次に示します。
 
@@ -77,15 +77,15 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 >
 >**必要な管理者権限**
 
-1. Marketorにログインし、「 **管理者** 」セクションに移動します。
+1. Marketoにログインし、**管理者**&#x200B;セクションに移動します。
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. 「 **Sales Insight** 」セクションで、「 **Edit API Configuration**」をクリックします。
+1. 「**Sales Insight**」セクションで、「**Edit API Configuration**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 後の手順で使用するた **めに、**&#x200B;マーケティング先ホスト **、** API URL **、** APIユーザーIDをコピーします。 任意の **API秘密キーを入力し** 、「 **保存**」をクリックします。
+1. 後の手順で使用するために、**Marketo Host**、**API URL**&#x200B;および&#x200B;**APIユーザーID**&#x200B;をコピーします。 任意の&#x200B;**API秘密キー**&#x200B;を入力し、**「保存**」をクリックします。
 
    >[!CAUTION]
    >
@@ -95,20 +95,20 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    >[!NOTE]
    >
-   >Sales Insightのリードと連絡先の ** 両方が機能するには、次のフィールドをMarketorと同期する必要があります。
+   >Sales Insightを機能させるには、次のフィールドをMarketoと&#x200B;*リードと連絡先*&#x200B;の両方で同期する必要があります。
    >
    > * 優先度
    > * 緊急度
    > * 相対スコア
 
    >
-   >これらのフィールドのいずれかが見つからない場合は、Marketorに、見つからないフィールドの名前のエラーメッセージが表示されます。 これを修正するには、 [次の手順を実行します](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)。
+   >これらのフィールドのいずれかが見つからない場合は、Marketorに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、[この手順](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
-1. Microsoft Dynamicsに戻り、「設定」の横の ![](assets/image2015-5-13-15-3a49-3a19.png) アイコンをクリックし、ドロップダウンで「 **Marketto API Config** 」を選択します。
+1. Microsoft Dynamicsに戻り、「設定」の横の![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、ドロップダウンで「**Marketto API Config**」を選択します。
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 
-1. 「 **デフォルト設定**」をクリックします。
+1. 「**デフォルト設定**」をクリックします。
 
    ![](assets/image2015-5-13-16-3a5-3a2.png)
 
@@ -116,25 +116,25 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    ![](assets/image2015-5-13-16-3a7-3a6.png)
 
-1. 右下隅の ![](assets/image2015-5-13-16-3a8-3a51.png) アイコンをクリックして、変更を保存します。
+1. 右下の![](assets/image2015-5-13-16-3a8-3a51.png)アイコンをクリックして、変更を保存します。
 
-## ユーザーアクセスの設定 {#set-user-access}
+## ユーザーアクセスの設定{#set-user-access}
 
 Sales Insightを使用する権限をユーザーに付与する必要があります。
 
-1. メニューをクリックし ![](assets/image2015-5-13-10-3a5-3a8.png) ます。 ドロップダウンメニューで[ **設定**]を選択し、[ **セキュリティ**]を選択します。
+1. ![](assets/image2015-5-13-10-3a5-3a8.png)メニューをクリックします。 ドロップダウンメニューで[**設定**]を選択し、[**セキュリティ**]を選択します。
 
    ![](assets/image2015-5-13-16-3a12-3a12.png)
 
-1. 「 **ユーザー**」をクリックします。
+1. 「**ユーザー**」をクリックします。
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Sales Insightへのアクセス権を付与するユーザーを選択し、「 **Manage Roles**」をクリックします。
+1. Sales Insightへのアクセス権を付与するユーザーを選択し、**ロールの管理**&#x200B;をクリックします。
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
-1. 「 **Marketo Sales Insight** 」ロールを選択し、「 **OK**」をクリックします。
+1. **Marketto Sales Insight**&#x200B;ロールを選択し、「**OK**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
