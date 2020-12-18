@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Salesforceでのリードフィードの表示1 {#seeing-lead-feed-in-salesforce}
+# Salesforce1でのリードフィードの確認{#seeing-lead-feed-in-salesforce}
 
 リードフィードは、リードが行う興味深いイベントの最新リストです。
 
-1. Salesforce1の **Marketo** 領域に移動します。
+1. Salesforce1の&#x200B;**Marketo**&#x200B;領域に移動します。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 「 **リードフィード**」をタップします。
+1. **「Lead Feed**」をタップします。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
