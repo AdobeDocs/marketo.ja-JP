@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Webキャンペーンのラベル付け {#label-your-web-campaigns}
+# Webキャンペーンのラベル付け{#label-your-web-campaigns}
 
 スクロールが面倒になるほどキャンペーンが多いか。 ラベルを使用してキャンペーンにタグを付けると、並べ替えや検索が簡単に行えます。
 
-## Web追加キャンペーンのラベル {#add-a-label-to-a-web-campaign}
+## Webキャンペーン追加のラベル{#add-a-label-to-a-web-campaign}
 
 1. Webパーソナライゼーションにログインし、Webキャンペーンー領域に移動します。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >目的のキャンペーンを見つけやすくするには、 [フィルタ機能を使用します](filter-web-campaigns.md)。
+   >必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
 1. ラベルのタグを付けるキャンペーンを選択します。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 クール！ これで、ラベルを作成し、キャンペーンに割り当てる方法を理解できました。
 
-## 既存のラベルでフィルタ {#filter-by-existing-labels}
+## 既存のラベルでフィルタ{#filter-by-existing-labels}
 
 1. 「ラベル」ドロップダウンで、フィルターとして使用するラベルを選択します。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [セグメント](create-a-new-in-zone-web-campaign.md)[のラベル付け](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [セグメントの](create-a-new-in-zone-web-campaign.md) [ラベル付け](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
