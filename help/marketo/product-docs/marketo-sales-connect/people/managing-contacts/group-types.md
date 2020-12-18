@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# グループタイプ {#group-types}
+# グループタイプ{#group-types}
 
 Sales Connectの様々なグループタイプについて説明します。
 
