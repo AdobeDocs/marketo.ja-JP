@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# RTP JavaScriptのデプロイ {#deploy-the-rtp-javascript}
+# RTP JavaScript {#deploy-the-rtp-javascript}をデプロイします。
 
 RTPタグを生成し、設定するには、次のインストール手順に従ってください
 
-## タグの生成 {#generate-tag}
+## タグを生成{#generate-tag}
 
-1. RTPアカウントにログインします。 「 **アカウント設定**」に移動します。
+1. RTPアカウントにログインします。 「**アカウント設定**」に移動します。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. 「 **Domain** and **Domain Configuration**」で、関連するドメインを探し、「 **Generate Tag」をクリックします。**
+1. **ドメイン**&#x200B;と&#x200B;**ドメイン構成**&#x200B;で、関連するドメインを探し、**タグの生成をクリックします。**
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -31,15 +31,15 @@ RTPタグを生成し、設定するには、次のインストール手順に�
 
    >[!NOTE]
    >
-   >RTP JavaScriptタグをコピーし、ページのヘッダー内の最初のスクリプトとして、タグ間に貼り付け `<head> </head>` ます。
+   >RTP JavaScriptタグをコピーし、ページのヘッダー内の最初のスクリプトとして`<head> </head>`タグの間に貼り付けます。
 
    タグがランディングページやサブドメインを含むすべてのページに表示されることを確認します。 Webサイトのページを右クリックして、これを確認します。 Webブラウザーで「表示ページソース」に移動します。 検索：「RTP」
 
-1. タグの切り替えを **オンに設定**。
+1. タグの切り替えを&#x200B;**ON**&#x200B;に設定します。
 
    「タグ」トグルが「オン」に設定されていることを確認します。 「組織」タブにデータフローが表示されていることを開始に確認する必要があります。
 
-   これで、RTPタグが設定され、セグメントとリアルタイムキャンペーンの [作成を開始できる状態になりました](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) 。
+   これで、RTPタグが設定され、[セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)とリアルタイムキャンペーンの作成を開始する準備ができました。
 
 1. タグがすべてのページにあることを確認します。
 
