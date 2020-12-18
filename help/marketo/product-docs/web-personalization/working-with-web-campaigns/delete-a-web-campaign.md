@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Webキャンペーンの削除 {#delete-a-web-campaign}
+# Webキャンペーンの削除{#delete-a-web-campaign}
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >目的のWebキャンペーンを見つけやすくするには、 [フィルター機能を使用します](filter-web-campaigns.md)。
+   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
 1. Webキャンペーンページで、削除するキャンペーンの「**削除**」をクリックします。
 
