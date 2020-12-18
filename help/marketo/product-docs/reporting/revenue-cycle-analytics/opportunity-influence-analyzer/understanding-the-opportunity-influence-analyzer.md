@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# オポチュニティ影響分析について {#understanding-the-opportunity-influence-analyzer}
+# オポチュニティ影響分析について{#understanding-the-opportunity-influence-analyzer}
 
 それぞれの機会は物語だ。 どこでリードに会った？ マーケティング/販売プロセスで、どのマーケティングオポチュニティが影響を与えていたか。
 
@@ -19,7 +19,7 @@ Opportunity Influence Analyzerを使用すると、全体を確認できます�
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**緑色のチェックが表示されます。** 右側でチェックされた名前の1つに対するプログラムの成功を示します。 緑の領域は、オポチュニティの開始と終了を示します。
+**緑色のチェックが表示されます。** 右側でチェックされた名前の1つに対するプログラムの成功を示します。緑の領域は、オポチュニティの開始と終了を示します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Opportunity Influence Analyzerを使用すると、全体を確認できます�
 
 右側のコントロールを使用して、グラフにユーザーを追加/削除したり、別のアカウントやオポチュニティに切り替えたりします。
 
-## 個別アカウントの識別 {#identifying-unique-accounts}
+## 一意のアカウントの識別{#identifying-unique-accounts}
 
 Marketing Suiteでは、CRM IDを使用してアカウントを一意に識別します。
 
