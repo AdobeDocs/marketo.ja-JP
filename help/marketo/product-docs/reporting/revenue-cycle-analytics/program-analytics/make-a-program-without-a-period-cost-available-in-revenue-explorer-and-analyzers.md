@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 期間コストなしのプログラムを売上高エクスプローラおよびアナライザーで利用可能にする {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# 期間を費やさないプログラムを売上高エクスプローラおよびアナライザーで利用可能にする{#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-プログラム期間原価では、プログラムの「金額」と「日」を定義できます。 これは、 [売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics) および [分析ツールに表示されます](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)。
+プログラム期間原価では、プログラムの「金額」と「日」を定義できます。 これは、[売上サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)と[アナライザー](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)に表示されます。
 
 >[!NOTE]
 >
