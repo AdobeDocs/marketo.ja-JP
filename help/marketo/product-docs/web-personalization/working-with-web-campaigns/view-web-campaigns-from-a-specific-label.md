@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 特定のラベルからの表示Webキャンペーン {#view-web-campaigns-from-a-specific-label}
+# 特定のラベルからの表示Webキャンペーン{#view-web-campaigns-from-a-specific-label}
 
 特定のラベルに従ってキャンペーンを表示およびフィルターする
 
-## 既存のラベルでフィルター {#filter-by-existing-labels}
+## 既存のラベルでフィルタ{#filter-by-existing-labels}
 
-1. [ **Web** キャンペーンに移動 ****]。
+1. **Web** **キャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
