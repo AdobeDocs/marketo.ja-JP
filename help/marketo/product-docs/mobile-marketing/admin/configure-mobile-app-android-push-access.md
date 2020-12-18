@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# モバイルアプリのAndroidプッシュアクセスの設定 {#configure-mobile-app-android-push-access}
+# モバイルアプリのAndroidプッシュアクセスの設定{#configure-mobile-app-android-push-access}
 
-1. 「 **管理者**」をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 「 **モバイルアプリ**」を選択します。
+1. 「**モバイルアプリ**」を選択します。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 「 **プッシュアクセスタイプ**」で「 **Android** 」を選択し、「 **設定」をクリックします。**
+1. 「**プッシュアクセスタイプ**」で、「**Android**」を選択し、「**設定**」をクリックします。
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >モバイルアプリ開発者の **サーバーAPIキー** 、 **** プロジェクト番号が必要になります。 開発者は、Google Play Developer Consoleにログインしてアプリを登録し、クラウドメッセージを有効にすることで、これらを受け取ります。
+   >モバイルアプリ開発者の&#x200B;**Server API Key**&#x200B;と&#x200B;**Project Number**&#x200B;が必要です。 開発者は、Google Play Developer Consoleにログインしてアプリを登録し、クラウドメッセージを有効にすることで、これらを受け取ります。
 
    サーバーAPIキーとプロジェクト番号を入力します。 「保存」をクリックします。
 
