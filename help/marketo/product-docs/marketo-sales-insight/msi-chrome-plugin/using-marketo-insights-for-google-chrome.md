@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Google ChromeでのMarketo Insightsの使用 {#using-marketo-insights-for-google-chrome}
+# Google ChromeでのMarketo Insightsの使用{#using-marketo-insights-for-google-chrome}
 
 Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡します。
 
@@ -23,7 +23,7 @@ Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡
 
 
 
-## Markettor Insightsでの電子メールの送信 {#send-an-email-with-marketo-insights}
+## Marketto Insightsと共に電子メールを送信{#send-an-email-with-marketo-insights}
 
 1. 「構成」ウィンドウで、「マーケティング」アイコンをクリックします。
 
@@ -41,31 +41,31 @@ Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡
    >
    >オプションで、重複の矢印をクリックして、フルスクリーン表示に拡大します。
 
-1. 電子メールに公開済みのマーケティングツールテンプレートを事前入力する場合は、「 **その他のオプション」をクリック**&#x200B;し、「マーケティングツールのテンプレートを読み込む&#x200B;**」を選択します。**
+1. 電子メールに公開済みのマーケティングツールテンプレートを事前入力する場合は、「**その他のオプション**」をクリックし、「**マーケティングツールテンプレートを読み込みます。**
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. 「 **利用可能なテンプレート** 」を選択し、「 **OK」をクリックします。**
+1. **利用可能なテンプレート**&#x200B;を選択し、**「OK」をクリックします。**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. コンテンツと電子メールアドレスを入力し、「 **送信**」をクリックします。
+1. コンテンツと電子メールアドレスを入力し、「**送信**」をクリックします。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >メッセージは、「 **送信** 」ボタンが紫の場合にのみ追跡されます。
+   >メッセージは、**「**&#x200B;送信」ボタンが紫の場合にのみ追跡されます。
 
 1. この電子メールは間もなくマーケティング担当者の販売インサイトに表示され、開きとクリックが追跡されます。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Marketorによる電子メールの返信のログ {#log-email-replies-with-marketo}
+## マーケティング担当者への電子メール返信のログ{#log-email-replies-with-marketo}
 
 リードのアクティビティ履歴に返信や古いアクティビティを記録できます。
 
-1. Googleメールのプレビューパネルで、「 **Log with Marketto**」をクリックします。
+1. Googleメールのプレビューウィンドウで、「**Log with Marketto**」をクリックします。
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
