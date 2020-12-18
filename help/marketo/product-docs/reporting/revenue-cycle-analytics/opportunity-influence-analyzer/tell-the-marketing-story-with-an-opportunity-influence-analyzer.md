@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opportunity Influence Analyzerでマーケティング事例を伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# オポチュニティへの影響分析{#tell-the-marketing-story-with-an-opportunity-influence-analyzer}でマーケティングの話をする
 
 Opportunity Influence Analyzerを使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 ファーストタッチからオポチュニティの作成や勝利、その他に、マーケティングがオポチュニティにどのような影響を与えたかを示します。
 
@@ -23,27 +23,27 @@ Opportunity Influence Analyzerを使用して、重要なオポチュニティ�
 
 
 
-1. 「 **Analytics** 」に移動し、「 **Opportunity Influence Analyzer**」を選択します。
+1. **Analytics**&#x200B;に移動し、**オポチュニティの影響分析**&#x200B;を選択します。
 
    ![](assets/analytics-opportunityhand.png)
 
    Opportunity Influence Analyzerは、そのオポチュニティに関与するインタラクション、プログラム、イベントの成功を視覚的に表したものです。 グラフを見てみましょう。
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**オレンジ色のドット** は、オポチュニティの [興味深い瞬間を表します](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) （電子メール開封、トレードショーの訪問、ホワイトペーパーのダウンロードなど）。 大きい点は、より多くの相互作用を示します。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**オレンジ色の** ドッツは、オポチュニティ内の [興味深い](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) 瞬間を表しています（電子メールの開封、トレードショーの訪問、ホワイトペーパーのダウンロードなど）。大きい点は、より多くの相互作用を示します。
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      ` **バインダーアイコン** は [プログラムの成功を示します](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) 。
+      ` **バインダーアイコン**&#x200B;は[プログラム](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM)の成功を示します。
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) カレンダーアイコン**は [イベントの成功を示します](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) 。
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png)カレンダーアイコン**は[イベント](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM)の成功を示します。
 
-   * **商談期間**。 緑色の領域は、オポチュニティの作成からオポチュニティのクローズ（勝者または敗者）まで、オポチュニティ自体を表します。
-   * **オポチュニティのライフサイクル**。 緑色のオポチュニティ期間の前後の灰色の領域には、オポチュニティに導いたり、オポチュニティに従ったインタラクションが表示されます。
+   * **商談期間**。緑色の領域は、オポチュニティの作成からオポチュニティのクローズ（勝者または敗者）まで、オポチュニティ自体を表します。
+   * **オポチュニティのライフサイクル**。緑色のオポチュニティ期間の前後の灰色の領域には、オポチュニティに導いたり、オポチュニティに従ったインタラクションが表示されます。
 
-   アカウントからの訪問者は、 **設定** パネルでリストされます。
+   **設定**&#x200B;パネルには、アカウントのユーザーがリストされます。
 
-   * 括弧内の **数字は** 、その連絡先との対話数です。
-   * ![-](assets/image2014-10-3-13-3a45-3a9.png)**黄色の星は主接点を示します** 。
+   * 括弧&#x200B;**内の**&#x200B;数字は、その連絡先との対話数です。
+   * ![-](assets/image2014-10-3-13-3a45-3a9.png)黄色 **の** 星は主接触を示します。
 
 
 1. 名前の上にマウスポインターを置くと、その人の肩書とオポチュニティとの関与源が表示されます。
