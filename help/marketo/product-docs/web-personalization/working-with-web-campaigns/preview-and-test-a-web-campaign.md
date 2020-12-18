@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Webキャンペーンのプレビューとテスト {#preview-and-test-a-web-campaign}
+# Webキャンペーンのプレビューとテスト{#preview-and-test-a-web-campaign}
 
 この記事では、Webキャンペーンーをプレビューする様々な方法と、Webサイト上でライブなサンドボックスセグメントを使用してWebーをテストする方法について説明します。
 
-## 作成ページでのWebキャンペーンのプレビュー {#preview-a-web-campaign-on-the-creation-page}
+## 作成ページでのWebキャンペーンのプレビュー{#preview-a-web-campaign-on-the-creation-page}
 
-1. [ **Web** キャンペーンに移動 ****]。
+1. **Web** **キャンペーン**&#x200B;に移動します。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -25,34 +25,34 @@ ht-degree: 0%
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 「サイトのプレビュー」で、ページのURLを追加し、「 **プレビュー**」をクリックします。 新しいウィンドウ/タブが開き、キャンペーンプレビューが表示されます。
+1. サイトのプレビューで、ページURLを追加し、**プレビュー**&#x200B;をクリックします。 新しいウィンドウ/タブが開き、キャンペーンプレビューが表示されます。
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >「 **共有** 」をクリックして、キャンペーンプレビューの固定URLを含む電子メールを開きます。
+   >「**共有**」をクリックして、キャンペーンプレビューの固定URLを含む電子メールを開きます。
 
    >[!NOTE]
    >
-   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) または [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi))をインストールすることもできます。 以下の節を参照してください。
+   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)または[Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
 
-## プレビュープラグインを使用した作成ページでのWebキャンペーンの作成 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## ブラウザプラグイン{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}を使用した作成ページでのWebキャンペーンのプレビュー
 
-1. の手順1と2に従い `section above`ます。
+1. `section above`の手順1と2に従います。
 1. ブラウザープラグインへのリンクをクリックします（この場合はChromeを使用します）。
 
    ![](assets/4-1.png)
 
-1. 新しいウィンドウ/タブが開きます。 Chrome **を追加クリックします**。
+1. 新しいウィンドウ/タブが開きます。 Chrome **追加をクリックして**&#x200B;します。
 
    ![](assets/five.png)
 
-1. 「 **追加拡張機能**」をクリックします。
+1. 「**拡張追加子**」をクリックします。
 
    ![](assets/six.png)
 
-1. Marketoに戻ります。 追加ページのURLを指定し、「 **プレビュー**」をクリックします。
+1. Marketoに戻ります。 追加ページのURLを入力し、「**プレビュー**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -60,23 +60,23 @@ ht-degree: 0%
 
    ![](assets/campaign-preview.png)
 
-## WebキャンペーンページでのWebキャンペーンのプレビュー {#preview-a-web-campaign-on-the-web-campaigns-page}
+## ウェブキャンペーンページでのウェブキャンペーンのプレビュー{#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Webキャンペーンーのリストを確認する際は、キャンペーンーを選択し、 **プレビュー** アイコンをクリックします。
+1. Webキャンペーンーの一覧を見ながら、キャンペーンーを選択し、**プレビュー**&#x200B;アイコンをクリックします。
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
    簡単！
 
-## WebキャンペーンのWebサイトへのプレビュー {#preview-a-web-campaign-on-your-website}
+## WebサイトにWebキャンペーンをプレビューする{#preview-a-web-campaign-on-your-website}
 
 サンドボックスセグメントとキャンペーンを作成します。
 
-1. 「 **セグメント**」に移動。
+1. **セグメント**&#x200B;に移動します。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. 「新規 **作成**」をクリックします。
+1. 「**新規作成**」をクリックします。
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
@@ -89,10 +89,10 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. キャンペーンのクリエイティブを完成させ、「 **起動**」をクリックします。\
+1. キャンペーンのクリエイティブを完了し、「**起動**」をクリックします。\
    ![](assets/click-launch.jpg)
 
-1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例： [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
 1. Webサイトに対するキャンペーンの反応を確認する。
 
 >[!NOTE]
