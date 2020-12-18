@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# SalesforceのMarketo Sales Insightの「Configuration」タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
+# SalesforceのMarketo Sales Insight設定タブ{#marketo-sales-insight-configuration-tab-in-salesforce}
 
-## 操作設定 {#operational-settings}
+## 操作設定{#operational-settings}
 
 SFDCでSales Insightを使用して開始を行うには、この設定を行う必要があります。
 
@@ -24,7 +24,7 @@ SFDCでSales Insightを使用して開始を行うには、この設定を行う
 * Soap APIとRest APIには、組織のニーズに基づいて設定できる個別のタイムアウトがあります。 最大時間は120秒です
 * インサイトダッシュボードを無効にする：Rest API証明書は削除でき、Soap APIのみを使用できます。 これを行うと、すべてのMSI visualforceパネルの「インサイトのダッシュボード」タブが無効になります
 
-## MSI設定 {#msi-configuration}
+## MSI設定{#msi-configuration}
 
 設定は、すべてのMSIユーザーに適用され、プロファイルに固有のものではありません。
 
@@ -53,7 +53,7 @@ SFDCでSales Insightを使用して開始を行うには、この設定を行う
 * アクティビティ(注目の瞬間、ウェブアクティビティ、電子メール)は、デフォルトで1000に設定されています。 電子メールのキャンペーンとイベントは、デフォルトで200に設定されています
 * 組織でタイムアウトに関する問題が発生した場合に備えて、制限を減らすことができます
 
-## Markettor Sales Insightのリセット {#reset-marketo-sales-insight}
+## Marketor Sales Insightのリセット{#reset-marketo-sales-insight}
 
 これを選択すると、SFDC内のすべての設定が消去され、復元できなくなります。 すべての設定を再度行う必要があります。
 
