@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# [自分]タブについて {#understanding-the-me-tab}
+# Meタブについて{#understanding-the-me-tab}
 
 「Me」タブには、送信された電子メールの数と、電子メールアクティビティと共にテンプレートを使用して送信された電子メールの数が表示されます。
 
