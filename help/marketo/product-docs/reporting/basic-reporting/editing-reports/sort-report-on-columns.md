@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 列でのレポートの並べ替え {#sort-report-on-columns}
+# 列でのレポートの並べ替え{#sort-report-on-columns}
 
 列を使用してレポート内のデータを並べ替え、最も重要な数字を見つけやすくします。
 
-1. 「 **Analytics** 」(または「 **マーケティングアクティビティ**」)に移動します。
+1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. ナビゲーションツリーでレポートを選択し、「 **レポート** 」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**レポート**」タブをクリックします。
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートを使用するすべての機能について、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)で、レポートを操作する機能をすべて学びます。
 
