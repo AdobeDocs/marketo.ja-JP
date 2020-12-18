@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales InsightでのRSSの有効化 {#enable-rss-for-sales-insight}
+# Sales Insight用のRSSを有効にする{#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 MarketorユーザーがSalesforceだけでなくRSSフィードにもリードフィードを表示したい場合、まずMarketor管理者が有効にする必要があります。 簡単です。
 
-1. 「マーケティング」で、「 **管理者** 」をクリックし、「 **Sales Insight**」をクリックします。
+1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 「設定」で、「 **編集**」をクリックします。 RSSフィードは **無効になっています**。
+1. 「設定」で、「**編集**」をクリックします。 RSSフィードは、**無効**&#x200B;と表示されます。
 
    ![](assets/rss-settings-tab.png)
 
-   [設定の編集]ダイアログボックスで、[ **RSSフィード** ]チェックボックスをオンにし、[ **保存**]をクリックします。
+   設定を編集ダイアログボックスで、**RSSフィード**&#x200B;チェックボックスをオンにし、**保存**&#x200B;をクリックします。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   RSSフィードが「 **有効**」と表示されるようになりました。
+   RSSフィードは、**有効**&#x200B;と表示されるようになりました。
 
    ![](assets/rss-final-box.png)
 
