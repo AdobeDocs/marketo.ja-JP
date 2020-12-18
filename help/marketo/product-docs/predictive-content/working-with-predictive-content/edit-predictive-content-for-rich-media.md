@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# リッチメディアの予測コンテンツの編集 {#edit-predictive-content-for-rich-media}
+# リッチメディアの予測コンテンツの編集{#edit-predictive-content-for-rich-media}
 
 >[!NOTE]
 >
->購入日に応じて、マーケティング担当購読に「予測コンテンツ」または「<sup>コンテンツAI</sup>」が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月31日までContentAI<sup></sup> Analyticsの機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、Marketor ContentAIにアップグレードする際に、担当のマーケティング担当者にお問い合わせ<sup>ください</sup>。
+>購入日に応じて、マーケティング担当購読に、マーケティング担当者の予測コンテンツまたはコンテンツ<sup>AI</sup>が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日まで、コンテンツ<sup>AI</sup>分析機能を有効にしています。 これらの機能をその日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ<sup>AI</sup>にアップグレードしてください。
 
 リッチメディア用の予測コンテンツを設定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->予測に使用できるコンテンツは、すべてのコンテンツページで [承認する必要があります](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 。
+>すべてのコンテンツページで、コンテンツ[予測用のコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)を&lt;a0/>承認する必要があります。
 
-1. 「 **予測コンテンツ** 」ページで、タイトルをクリックしてエディターを開きます。
+1. **予測コンテンツ**&#x200B;ページで、タイトルをクリックしてエディターを開きます。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 「 **リッチメディア**」をクリックします。
+1. 「**リッチメディア**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. 「 **説明**」に入力します。
+1. **説明**&#x200B;を入力します。
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 設定済みの **カテゴリを選択または追加するには、** カテゴリ [・ボックスをクリックします](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) （オプション）。
+1. 「**カテゴリ**」ボックスをクリックして、](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)設定済みの[カテゴリを選択または追加します（オプション）。
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/save.png)
