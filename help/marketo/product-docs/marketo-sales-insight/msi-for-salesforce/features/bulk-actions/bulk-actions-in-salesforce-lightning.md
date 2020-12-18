@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Salesforce Lightningのバルクアクション {#bulk-actions-in-salesforce-lightning}
+# Salesforce Lightningのバルクアクション{#bulk-actions-in-salesforce-lightning}
 
 Salesforce Lightningでバルクアクションを設定する方法を次に示します。
 
-1. Salesforceで、設定アイコンをクリックし、「 **設定**」を選択します。
+1. Salesforceで、設定アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「 **オブジェクトマネージャ** 」タブをクリックします。
+1. 「**オブジェクトマネージャー**」タブをクリックします。
 
    ![](assets/two.png)
 
-1. 「 **Lead** 」ラベルを検索して選択します。
+1. **リード**&#x200B;ラベルを探して選択します。
 
    ![](assets/three-2.png)
 
-1. 「 **Salesforce Classic用のレイアウトを**&#x200B;検索」をクリックします。
+1. 「**Salesforce Classicの検索レイアウト**」をクリックします。
 
    ![](assets/four-1.png)
 
-   リスト表示のレイアウトを探します。 右側のドロップダウンをクリックし、「 **編集**」を選択します。
+   リスト表示のレイアウトを探します。 右側のドロップダウンをクリックし、「**編集**」を選択します。
 
    ![](assets/five.png)
 
-1. 「カスタムボタン」で、Marketorキャンペーン（稲妻） **を探して選択し** 、「マーケティング担当者に電子メール（雷）を **送信**」を選択します。 **** 追加ボタンをクリックします。
+1. 「カスタムボタン」で、「Marketoキャンペーン（稲妻）」追加&#x200B;**と「** Marketo Email（稲妻）**に**&#x200B;送信」を探して選択します。 **追加**&#x200B;ボタンをクリックします。
 
    ![](assets/six.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/seven.png)
 
