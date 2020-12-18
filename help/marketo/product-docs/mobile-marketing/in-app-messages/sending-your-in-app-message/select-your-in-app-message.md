@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# アプリ内メッセージの選択 {#select-your-in-app-message}
+# アプリ内メッセージを選択{#select-your-in-app-message}
 
 ここで、プログラムで使用するために作成したメッセージを選択します。
 
@@ -31,4 +31,4 @@ ht-degree: 0%
    >
    >別のメッセージを選択するには、「アプリ内メッセージ」フィールドで削除します。 次に、「新しいアプリ内メッセージ」リンクが表示されます。 クリックして、別のメッセージを選択します。
 
-お前は正しい軌道に乗っている。 送信を [スケジュールする時間](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)。
+お前は正しい軌道に乗っている。 [送信をスケジュールする時間](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)。
