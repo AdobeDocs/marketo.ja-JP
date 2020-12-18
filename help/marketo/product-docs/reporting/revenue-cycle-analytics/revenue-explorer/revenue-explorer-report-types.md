@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 売上高エクスプローラのレポートタイプ {#revenue-explorer-report-types}
+# 売上高エクスプローラのレポートタイプ{#revenue-explorer-report-types}
 
 売上高サイクル分析を利用している場合に発生するレポートのタイプは次のとおりです。
 
