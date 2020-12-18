@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# CRM向けの販売接続のカスタマイズ {#sales-connect-customizations-for-crm}
+# CRM用のSales Connectのカスタマイズ{#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRMのメタデータAPIによって作成されます。 フィールドを作成したら、管理者はCRMにページレイアウトを設定して、それらを公開する必要があります。 手順は [こちら](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)。
+以下のフィールドとボタンは、Salesforce CRMのメタデータAPIによって作成されます。 フィールドを作成したら、管理者はCRMにページレイアウトを設定して、それらを公開する必要があります。 説明は[ここ](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
 
 >[!NOTE]
 >
 >これは、ToutAppとSales Connectの両方のお客様に影響を与えます。
 
-## Salesforceでのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
+## Salesforceでのカスタマイズのインストール方法{#how-to-install-customizations-in-salesforce}
 
-1. Sales Connectで、歯車アイコンをクリックし、「 **設定**」を選択します。
+1. 「Sales Connect」で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「管理設定」で、「 **Salesforce**」を選択します。
+1. 「管理設定」で、「**Salesforce**」を選択します。
 
    ![](assets/two.png)
 
-1. [ **マーケティング] [販売接続] [カスタマイズ**]をクリックします。
+1. **Marketto Sales Connect Customizations**&#x200B;をクリックします。
 
    ![](assets/three.png)
 
-1. 「Salesforce **に接続**」をクリックします。
+1. **Salesforce**&#x200B;に接続をクリックします。
 
    ![](assets/four.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-## カスタムアクティビティフィールド {#custom-activity-fields}
+## カスタムアクティビティフィールド{#custom-activity-fields}
 
-マーケティング担当者は、新しいフィールドの作成を検出し、1回限りのデータのバックフィル、再マッピングおよび **新しいフィールドへの値の継続的な同期を実行します** 。 古いフィールドは更新されません。
+Marketorは、新しいフィールドの作成を検出し、1回限りのデータのバックフィル、再マッピング、および&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を実行します。 古いフィールドは更新されません。
 
 | **フィールド名** | **説明** |
 |---|---|
@@ -61,7 +61,7 @@ ht-degree: 0%
 | MSE電子メールURL | このURLをクリックすると、MSEのコマンドセンターが開き、[人物の詳細表示の履歴]タブが展開され、送信された電子メールが表示されます。 |
 | MSE電子メールの表示 | 受信者が電子メールを表示したときにチェックマークを記録します。 |
 
-## ロールアップログのフィールド {#roll-up-logging-fields}
+## ロールアップログのフィールド{#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -116,7 +116,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## ボタン {#buttons}
+## ボタン{#buttons}
 
 | **ボタン名** | **説明** |
 |---|---|
@@ -125,14 +125,14 @@ ht-degree: 0%
 | MSEにプッシュ | SalesforceからMSEに連絡を取る。 |
 | MSEでの通話 | Salesforceからの販売呼び出し。 |
 
-## バルクアクションボタン {#bulk-action-buttons}
+## バルクアクションボタン{#bulk-action-buttons}
 
 | **ボタン名** | **説明** |
 |---|---|
 | MSE追加キャンペーン | をSalesforceの追加MSEキャンペーンに送信します。 |
 | MSEにプッシュ | SalesforceからMSEに連絡を取る。 |
 
-## ユーザーガイド {#user-guides}
+## ユーザーガイド{#user-guides}
 
 [SalesforceのMSEカスタムレポート](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
@@ -140,7 +140,8 @@ ht-degree: 0%
 
 [Salesforce Lightning用MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
-## 関連ビデオ {#related-videos}
+## 関連ビデオ{#related-videos}
 
-**Salesforce****でのカスタマイズのインストール方法Salesforce`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **でのカスタマイズを使用する利点
+**Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **でのカスタマイズのインストール方法Salesforce**でのカスタマイズを使用する利点 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
