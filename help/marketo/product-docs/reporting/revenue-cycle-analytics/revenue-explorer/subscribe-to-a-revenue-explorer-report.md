@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 売上高エクスプローラレポートの購読 {#subscribe-to-a-revenue-explorer-report}
+# 売上高エクスプローラレポートの登録{#subscribe-to-a-revenue-explorer-report}
 
-売上高サイクルエクスプローラの [レポートから更新を受け取り](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+[売上サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
 
-1. 「 **Analytics** 」に移動し、 **新規/新しいレポート購読を選択します。**
+1. **Analytics**&#x200B;に移動し、**新規/新しいレポート購読を選択します。**
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >プログラムで作成した基本レポートを購読するには、「基本レポートの [購読」を参照してください。](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読を参照してください。](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. 「 **レポートソース**」で、「**売上高エクスプローラ**」を選択します。
+1. **レポートソース**&#x200B;に対して、「**売上高エクスプローラ**」を選択します。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->すべてのレポート購読を1か所で [管理する方法](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 。
+>[すべてのレポート購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->Marketorの高度な分析機能で実行できる操作の詳細については、 [売上高サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics) （英語）を参照してください。
+>[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
 
