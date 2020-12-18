@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# エンタープライズキーを使用したOutlook用Marketing 追加-inのインストール {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
+# エンタープライズキー{#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}を使用してOutlook用Marketing-追加inをインストールする
 
 セールス担当者は、ノートパソコンに対する管理者権限を持たないことが多く、ITチームは、すべてのソフトウェアをリモートでインストールする必要があります。 Outlook用のMarketing-追加inは、この方法でEnterprise Keyを使用してインストールできます。Enterprise Keyは、管理者の「Sales Insight」セクションにあります。
 
 >[!PREREQUISITES]
 >
->管理者は、Marketor Email 追加 In Licenseを [発行している必要があります](issue-a-marketo-email-add-in-license.md)。
+>管理者は、[Marketo Email 追加 In License](issue-a-marketo-email-add-in-license.md)を発行する必要があります。
 
 >[!NOTE]
 >
->表示の[エンタープライズキー]ボタンが表示されない場合は、に問い合わせ [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) て有効にしてください。
+>表示の[エンタープライズキー]ボタンが表示されない場合は、[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)に連絡して有効にしてください。
 
-1. 「マーケティング」で、「 **管理者」**&#x200B;をクリックし、「Sales Insight **」をクリックします。**
+1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. 「 **Email追加-In** 」タブをクリックします。
+1. 「**電子メールイン追加**」タブをクリックします。
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. 「 **表示エンタープライズキー**」をクリックします。
+1. **表示エンタープライズキー**&#x200B;をクリックします。
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Outlook Enterpriseライセンスキーをコピーして、このリンクと共に電子メールに貼り付け [、IT部門に送信してリモートインストールを行います](marketo-outlook-plugin-installation-by-it.md)。
+1. Outlook Enterpriseライセンスキーをコピーして、[このリンク](marketo-outlook-plugin-installation-by-it.md)と共に電子メールに貼り付け、リモートインストール用にIT部門に送信します。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   それだけだ！ 次に、営業担当者は [登録プロセスを経る](authorize-the-marketo-outlook-plugin.md)。 手順へのリンクをユーザーに送信できます( **Marketor関連記事**)。
+   それだけだ！ 次に、営業担当者は[登録プロセス](authorize-the-marketo-outlook-plugin.md)を経る。 手順へのリンクを送信できます（「**マーケティング関連記事**」を参照）。
 
    >[!NOTE]
    >
