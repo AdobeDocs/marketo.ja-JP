@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 特定のラベルの表示セグメント {#view-segments-from-a-specific-label}
+# 特定のラベルの表示セグメント{#view-segments-from-a-specific-label}
 
 特定のラベルに従ってセグメントを表示およびフィルターすることを検討しているか。
 
-## 既存のラベルでフィルタ {#filter-by-existing-labels}
+## 既存のラベルでフィルタ{#filter-by-existing-labels}
 
 「ラベル」ドロップダウンで、選択したラベルを選択します。
 
