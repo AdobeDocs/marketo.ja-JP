@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect Terms of Serviceとは何ですか。 {#what-are-the-sales-connect-terms-of-service}
+# Sales Connect Terms of Serviceとは何ですか。{#what-are-the-sales-connect-terms-of-service}
 
-Sales Connect Terms of Serviceは [こちらから参照できます](http://documents.marketo.com/toutapp/terms)。
+Sales Connectのサービス規約は[ここ](http://documents.marketo.com/toutapp/terms)にあります。
 
 >[!NOTE]
 >
