@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プッシュ通知について {#understanding-push-notifications}
+# プッシュ通知について{#understanding-push-notifications}
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ Marketo Mobileエンゲージメントを使用すると、電子メールの作
 >
 >プッシュ通知はアドオンであり、開始する前にマーケティング担当者が有効にする必要があります。
 
-## 手順1:管理者と開発者による初期設定の実行 {#step-admin-and-developer-perform-initial-setups}
+## 手順1:管理者と開発者が初期設定を実行{#step-admin-and-developer-perform-initial-setups}
 
-マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 プッシュ通知とアプリ内メッセージを作成する前に [を参照してください](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 。
+マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
-## 手順2:プッシュ通知の作成 {#step-create-a-push-notification}
+## 手順2:プッシュ通知の作成{#step-create-a-push-notification}
 
-[AndroidおよびiOSデバイスでのメッセージ](create-a-push-notification.md) と表示方法をプレビューします。
+[AndroidおよびiOSデバイスでの](create-a-push-notification.md) メッセージやプレビューの表示方法を確認します。
 
-## 手順3:送れ！ {#step-send}
+## 手順3:送れ！{#step-send}
 
-[プッシュ通知は、トリガーおよびバッチスマートキャンペーンを使用して送信できます](send-a-mobile-push-notification.md) 。 かっこいいだろ？
+[プッシュ通知は、トリガーおよびバッチスマートキャンペーンを使用して](send-a-mobile-push-notification.md) 送信できます。かっこいいだろ？
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
