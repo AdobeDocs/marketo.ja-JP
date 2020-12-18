@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics用Marketo Sales Insight Solutionのダウンロード {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Marketo Sales Insight Solution for Microsoft Dynamicsのダウンロード{#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 同期を開始するには、Microsoft DynamicsアカウントにMarketo Solution for Sales Insightをダウンロードしてインストールする必要があります。
 
-1. 「 **管理者** 」領域に移動します。
+1. **管理者**&#x200B;領域に移動します。
 
    ![](assets/mainnavhand.png)
 
-1. 「 **CRM**」をクリックします。
+1. 「**CRM**」をクリックします。
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. 「 **Microsoft**」を選択します。
+1. 「**Microsoft**」を選択します。
 
    ![](assets/image2016-5-3.png)
 
-1. 「Markettor Solutionを **ダウンロード**」を選択します。
+1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
