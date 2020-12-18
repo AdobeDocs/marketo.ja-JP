@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# レポート列の選択 {#select-report-columns}
+# レポート列の選択{#select-report-columns}
 
 レポートに含める列と含めない列を選択できます。
 
-1. 「**Analytics **」(または「 **マーケティングアクティビティ**」)領域に移動します。
+1. 「**Analytics **(または&#x200B;**マーケティングアクティビティ**)」領域に移動します。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. 「 **レポート** 」タブをクリックし、列見出しをクリックして「 **列**」を選択し、含める列を選択します。
+1. 「**レポート**」タブをクリックし、任意の列見出しをクリックして「**列**」を選択し、含める列を選択します。
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
@@ -36,5 +36,5 @@ ht-degree: 0%
    >    * [列でのレポートの並べ替え](sort-report-on-columns.md)
 
 
-   レポートをさらに活用 「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
+   レポートをさらに活用 「[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
 
