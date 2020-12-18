@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# マーケティングのリードとSales Connectのリードを結び付けます。 {#connect-your-marketo-leads-with-sales-connect-leads}
+# マーケティングのリードとSales Connectのリードを結び付ける{#connect-your-marketo-leads-with-sales-connect-leads}
 
 データを最も正確にMarketoに同期させるために、MSCでは、個人レコードにMarketo IDが保存されている必要があります。 マーケティング担当者IDをMSCに同期するには、「注目の瞬間」の横の山形をクリックします。 ライブフィードに注目の瞬間が表示されたら、ドロップダウン矢印をクリックして、個人レコードがMSCデータベースに追加され、Marketo IDが割り当てられます。
 
