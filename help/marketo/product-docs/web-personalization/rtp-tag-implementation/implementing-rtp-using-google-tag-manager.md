@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Google Tag Managerを使用したRTPの実装 {#implementing-rtp-using-google-tag-manager}
+# Google Tag Manager {#implementing-rtp-using-google-tag-manager}を使用したRTPの実装
 
-RTPを実装するには、次のインストール手順 `tag please` に従います。
+RTP `tag please`を実装するには、次のインストール手順に従ってください。
 
 1. Google Tag Managerアカウントにログインします。
 
-1. 新追加しいタグ/タグ設定/カスタムHTMLタグ**** **RTPと呼びます**。
+1. 新追加しいタグ/タグ設定/カスタムHTMLタグ******RTP**&#x200B;と呼びます。
 
 1. RTPアカウントにログインします**。**
 
@@ -27,19 +27,19 @@ RTPを実装するには、次のインストール手順 `tag please` に従い
 
       ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. 「Domain」で、関連するドメインを探し、「 **Generate Tag**」をクリックします。
+1. 「Domain」で、関連するドメインを探し、「**Generate Tag**」をクリックします。
 
    ** ![](assets/image2014-11-30-15-3a20-3a17.png)
 
    **
 
-1. RTP JavaScriptタグをコピーし、作成した新しい **カスタムHTMLタグに貼り付けます** （手順1）。
+1. RTP JavaScriptタグをコピーして、作成した新しい&#x200B;**カスタムHTMLタグ**&#x200B;に貼り付けます（手順1）。
 
-1. タグを実行するには、 **+追加ルールをクリックします**。 「 **すべてのページ**」を選択します。
+1. **+追加 Rule to Fire Tag**&#x200B;をクリックします。 「**すべてのページ**」を選択します。
 
-1. 「**保存**」をクリックし、新しいバージョンを [発行します](https://support.google.com/tagmanager/answer/2699097?hl=en)。
+1. 「**保存**」をクリックし、[新しいバージョン](https://support.google.com/tagmanager/answer/2699097?hl=en)を公開します。
 
-1. すべての `pages, including` ランディングページとサブドメインに表示されることを確認します。
+1. すべての`pages, including`ランディングページとサブドメインに表示されることを確認します。
 
-   1. これは、 `website’s` ページを右クリックすると行えます。 「**Inspect要素」に移動します。 ****RTP **を検索してタグを探します。
+   1. `website’s`ページを右クリックすると、これを行うことができます。 「**Inspect要素」に移動します。 ****RTP **を検索してタグを探します。
 
