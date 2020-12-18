@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子メールインサイト分析の概要 {#email-insights-analytics-overview}
+# 電子メールインサイト分析の概要{#email-insights-analytics-overview}
 
 Analyticsで、電子メールの配信とエンゲージメントのための集計データを調べます。 左側のグラフを使用してデータを調べ、右側のインサイトを使用してガイド付きのエクスペリエンスを得ます。
 
 ![](assets/emailanalytics-1.jpg)
 
-[フィルタリング](filtering-in-email-insights.md) （フィルタリング）は、特定の指標を掘り下げるのに役立ちます。
+[フィルタリン](filtering-in-email-insights.md) グは、特定の指標を掘り下げるのに役立ちます。
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ KPIタイルの上にカーソルを置くと、詳細が表示されます。
 ` ![](assets/chart2.png)  
 `
 
-再び使用するグラフを作成する場合は、 [クイックグラフにします](email-insights-quick-charts.md)。
+もう一度使用したいグラフを作成する場合は、[クイックグラフ](email-insights-quick-charts.md)にします。
 
 ` ![](assets/quick-chart.png)  
 `
