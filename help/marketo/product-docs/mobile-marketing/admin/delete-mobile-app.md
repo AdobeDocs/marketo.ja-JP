@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# モバイルアプリの削除 {#delete-mobile-app}
+# モバイルアプリの削除{#delete-mobile-app}
 
 1. 「管理者」をクリックします。
 
