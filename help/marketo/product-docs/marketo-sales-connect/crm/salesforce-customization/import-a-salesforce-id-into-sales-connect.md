@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce IDのSales Connectへのインポート {#import-a-salesforce-id-into-sales-connect}
+# Salesforce IDをSales Connectにインポート{#import-a-salesforce-id-into-sales-connect}
 
 Sales Connectは、Salesforceに情報を正しく記録するのに役立つ連絡先IDまたはリードID(Salesforce ID)を使用します。 Sales Connectの連絡先にSalesforce IDを付加する方法はいくつかあります。
 
