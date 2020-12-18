@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# アプリ内メッセージについて {#understanding-in-app-messages}
+# アプリ内メッセージについて{#understanding-in-app-messages}
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ ht-degree: 0%
 
 モバイルアプリ用のアプリ内メッセージを作成して送信する前に、設定を行うには、マーケティング担当者とモバイルアプリの開発者が必要です。  アプリ内メッセージを作成するには、次の3つの手順を実行します。
 
-## 手順1:管理者と開発者による初期設定の実行 {#step-admin-and-developer-perform-initial-setups}
+## 手順1:管理者と開発者が初期設定を実行{#step-admin-and-developer-perform-initial-setups}
 
-マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 プッシュ通知とアプリ内メッセージを作成する前に [を参照してください](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 。
+マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
-## 手順2:アプリ内メッセージの作成 {#step-create-an-in-app-message}
+## 手順2:アプリ内メッセージの作成{#step-create-an-in-app-message}
 
-アプリ内メッセージ [は、オンラインエディターを使用して](http://docs.marketo.com/display/docs/create+an+in-app+message) 作成します。
+オンラインエディターを使用して、[アプリ内メッセージ](http://docs.marketo.com/display/docs/create+an+in-app+message)を作成します。
 
-## 手順3:送れ！ {#step-send}
+## 手順3:送れ！{#step-send}
 
-メッセージを [送信するプログラムを作成します](http://docs.marketo.com/display/docs/send+your+in-app+message)。
+[メッセージ](http://docs.marketo.com/display/docs/send+your+in-app+message)を送信するプログラムを作成します。
 
 君は行く途中だ。
 
