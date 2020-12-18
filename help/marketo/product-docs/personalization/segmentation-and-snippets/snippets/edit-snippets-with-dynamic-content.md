@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 動的コンテンツでのスニペットの編集 {#edit-snippets-with-dynamic-content}
+# 動的コンテンツを含むスニペットの編集{#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 スニペットのセグメント化を使用して、電子メールやランディングページの動的なコンテンツを簡単に管理できます。
 
-## 追加分類 {#add-segmentation}
+## 追加セグメント{#add-segmentation}
 
-1. Design **Studioに移動します**。
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio-1.png)
 
-1. **スニペット**をクリックし、「ドラフトを **編集**」をクリックします。
+1. **スニペット**をクリックし、**ドラフト**&#x200B;を編集します。
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 「 **セグメント基準**」をクリックします。
+1. **「**&#x200B;によるセグメント」をクリックします。
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. 「**セグメント**」と入力し、「 **保存**」をクリックします。
+1. **セグメント**と入力し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
-## 動的コンテンツの適用 {#apply-dynamic-content}
+## 動的コンテンツの適用{#apply-dynamic-content}
 
 1. 「**セグメント**」をクリックし、コンテンツを編集します。 各セグメントに対して同じ手順を繰り返す
 
