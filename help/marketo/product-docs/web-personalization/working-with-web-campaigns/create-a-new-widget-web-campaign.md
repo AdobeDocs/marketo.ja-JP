@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 新しいウィジェットWebキャンペーンの作成 {#create-a-new-widget-web-campaign}
+# 新しいウィジェットWebキャンペーンの作成{#create-a-new-widget-web-campaign}
 
-Webキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の [ダイアログボックス](create-a-new-dialog-web-campaign.md) 、ゾーン置き換え [、Widget機能](create-a-new-in-zone-web-campaign.md)、電子メールアラートのいずれかになります。 ウィジェットのWebキャンペーンは、Webページの垂直側に表示されるテキストまたはバナーで、拡大や縮小が可能ですが、訪問中はWebサイトページ上で固定されたままになります。
+Webキャンペーンーは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の[ダイアログボックス](create-a-new-dialog-web-campaign.md)、ゾーン置換](create-a-new-in-zone-web-campaign.md)の[、ウィジェット機能、電子メールアラートのいずれかになります。 ウィジェットのWebキャンペーンは、Webページの垂直側に表示されるテキストまたはバナーで、拡大や縮小が可能ですが、訪問中はWebサイトページ上で固定されたままになります。
 
-## ウィジェットWebキャンペーンの作成 {#create-a-widget-web-campaign}
+## ウィジェットウェブキャンペーンの作成{#create-a-widget-web-campaign}
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 「 **新しいWebキャンペーンを作成**」を選択します。
+1. 「**新しいWebキャンペーンーを作成**」を選択します。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. 「 **Widget** キャンペーン」タイプを選択します。
+1. **ウィジェット**&#x200B;キャンペーンタイプを選択します。
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
   </tr> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの表示タイミングと表示方法を <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">カスタマイズできます</a> 。</td> 
+   <td colspan="1">Webキャンペーンーの<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>イン/アウトをアニメート</strong></td> 
@@ -67,7 +67,7 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>ウィジェットボタン</strong><br></p></td> 
-   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右のドロップダウンメニューで、複数の異なるアイコンから選択できます。 左のドロップダウンで色を指定します。<br>カスタム：ホストされている画像のURLを挿入します。 使用できるファイルタイプは、.JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMPです。<br>テキスト：ウィジェットにはテキストを使用でき、色、サイズ、フォントをカスタマイズできます。</td> 
+   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色を指定します。<br>カスタム：ホストされている画像のURLを挿入します。使用できるファイルタイプは、.JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMPです。<br>テキスト：ウィジェットにはテキストを使用でき、色、サイズ、フォントをカスタマイズできます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>定着</strong></td> 
@@ -83,10 +83,10 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
   </tr> 
   <tr> 
    <td colspan="1"><strong>サイトでのプレビュー </strong></td> 
-   <td colspan="1">プレビューキャンペーンを起動する前に実行する必要があります。<br> 
+   <td colspan="1">起動前のプレビューキャンペーン。<br> 
     <ul> 
      <li>URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
-     <li>プレビュー- [ <strong>プレビュー] </strong>をクリックして、サンプルURLの新しいウィンドウを開き、キャンペーンの反応を確認します(Webキャンペーンのプレビューに最適なChrome拡張機能 <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow"></a> )。 </li> 
+     <li>プレビュー- <strong>プレビュー</strong>をクリックして、例のURLの新しいウィンドウを開き、キャンペーンの反応を確認します(最適なWebキャンペーンプレビュー体験を得るには、<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome拡張子追加</a>を参照)。 </li> 
      <li>共有 — [共有]ボタンを使用して、プロキシキャンペーンを表示するためのリンクを持つ同僚に電子メールを送信します。</li> 
     </ul></td> 
   </tr> 
@@ -95,29 +95,29 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
 
 >[!NOTE]
 >
->**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](ab-test-your-web-campaign.md)ます。 自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
+>**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](ab-test-your-web-campaign.md)ます。自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
 
-## Webキャンペーンの編集 {#edit-a-web-campaign}
+## Webキャンペーンの編集{#edit-a-web-campaign}
 
-Webキャンペーンページで、キャンペーンの「 **編集** 」をクリックします。
+Webキャンペーンページで、キャンペーンの「**編集**」をクリックします。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->目的のキャンペーンを見つけやすくするには、 [フィルタ機能を使用します](filter-web-campaigns.md)。
+>必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
-## Webキャンペーンのコピー {#clone-a-web-campaign}
+## Webキャンペーンのコピー{#clone-a-web-campaign}
 
-Webキャンペーンーの [コピーを参照してください](clone-a-web-campaign.md)。
+[Webキャンペーンーのコピー](clone-a-web-campaign.md)を参照してください。
 
-## Webキャンペーンのプレビュー {#preview-a-web-campaign}
+## Webキャンペーンのプレビュー{#preview-a-web-campaign}
 
-Webキャンペーンページで、プレビューするWebキャンペーンの **プレビュー** をクリックします
+Webキャンペーンページで、プレビューするWebキャンペーンーの&#x200B;**プレビュー**&#x200B;をクリックします
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Webキャンペーンの削除 {#delete-a-web-campaign}
+## Webキャンペーンの削除{#delete-a-web-campaign}
 
 1. Webキャンペーンページで、削除するWebキャンペーンの**削除**をクリックします。
 
