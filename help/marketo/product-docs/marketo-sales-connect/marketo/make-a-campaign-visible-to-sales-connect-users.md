@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンをSales Connect Usersに表示する {#make-a-campaign-visible-to-sales-connect-users}
+# キャンペーンをSales Connect Usersに表示{#make-a-campaign-visible-to-sales-connect-users}
 
 キャンペーンは、表示されている場合にのみ共有できます。 その方法を次に示します。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 「 **スマートリスト** 」タブをクリックします。
+1. 「**スマートリスト**」タブをクリックします。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. ソースには、「is」 **Web Service API**」を選択します。
+1. ソースとして「is」**Web Service API**&#x200B;を選択します。
 
    ![](assets/4.png)
 
-1. 「 **フロー** 」タブをクリックします。
+1. 「**フロー**」タブをクリックします。
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 「タイプ」で、「 **Web**」を選択します。
+1. 「タイプ」で、「**Web**」を選択します。
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 「 **スケジュール** 」タブをクリックし、 **キャンペーンをアクティブ化します** 。
+1. 「**スケジュール**」タブをクリックし、「**キャンペーンをアクティブ化**」をクリックします。
 
    ![](assets/nine.png)
 
