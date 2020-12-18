@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# レポートタイプの概要 {#report-type-overview}
+# レポートタイプの概要{#report-type-overview}
 
-プログラムでレポートを [作成する場合](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、レポートのタイプを選択します。
+[プログラム](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)でレポートを作成する場合は、どのタイプのレポートを作成するかを選択します。
 
-## 最もよく使用されるレポート {#most-used-reports}
+## 最も使用されるレポート{#most-used-reports}
 
 <table> 
  <thead> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別人物レポート</a>  </strong></td> 
-   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高モデルの基本レポート</a>。 詳しいレポートについては、 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクルの分析</a> （英語）を参照してください。</td> 
+   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高モデル</a>の基本レポート。 詳細なレポートについては、<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページパフォーマンス</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラムパフォーマンス</a>  </strong></td> 
-   <td>メンバーや成功などの基本的なプログラム指標。 詳しいレポートについては、 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクルの分析</a> （英語）を参照してください。</td> 
+   <td>メンバーや成功などの基本的なプログラム指標。 詳細なレポートについては、<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">会社Webアクティビティ</a>  </strong></td> 
@@ -71,23 +71,23 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームのパフォーマンスレポート</a> </strong></td> 
-   <td><p>エン <a href="http://docs.marketo.com/display/docs/drip+nurturing">ゲージメントプログラムがどの程度効果的かを確認します</a> 。</p></td> 
+   <td><p><a href="http://docs.marketo.com/display/docs/drip+nurturing">エンゲージメントプログラム</a>の動作状況を確認します。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## その他のレポート {#miscellaneous-reports}
+## その他のレポート{#miscellaneous-reports}
 
 上記のレポートタイプほど役立ちませんが、引き続きご利用いただけます。
 
 | レポート | 説明 |
 |---|---|
 | ** [キャンペーンアクティビティ](campaign-activity-report.md) ** | スマートキャンペーン処理の統計。 |
-| ** [キャンペーン電子メールのパフォーマンス](campaign-email-performance-report.md) ** | スマートキャンペーン別にグループ化された電子メールのパフォーマンス。 |
+| ** [キャンペーンの電子メールパフォーマンス](campaign-email-performance-report.md) ** | スマートキャンペーン別にグループ化された電子メールのパフォーマンス。 |
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->これらのレポートで可能なすべての機能については、 [基本レポートの詳細を参照してください](http://docs.marketo.com/display/docs/basic+reporting) 。
+>これらのレポートで可能なすべての機能を確認するには、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
