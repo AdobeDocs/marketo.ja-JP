@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# コンテンツ分析について {#understanding-content-analytics}
+# コンテンツ分析について{#understanding-content-analytics}
 
 コンテンツ分析ページには、Webサイトから検出された既存のコンテンツ（導入事例、ブログ投稿、ビデオ、プレスリリースなど）が表示されます。 また、コンテンツのパフォーマンスや、訪問者が関与したときに生み出される人のパフォーマンスも表示されます。
 
-## 表示コンテンツ分析 {#view-content-analytics}
+## 表示コンテンツ分析{#view-content-analytics}
 
-「 **Content Analytics**」に移動します。
+**Content Analytics**&#x200B;に移動します。
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Analyticsテーブルには、次の詳細が表示されます。
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>タイトル</strong></td> 
-   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。 「 <strong>タイトル</strong> 」をクリックして、新しいタブでコンテンツURLを開きます。</td> 
+   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。 「<strong>タイトル</strong>」をクリックして、新しいタブでコンテンツURLを開きます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>推奨 </strong><strong>アイコン</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">コンテンツ部品が <a href="#">コンテンツRecommendationsに追加されたかどうかを示します</a>。</td> 
+   <td colspan="1"><p><strong>推奨 </strong><strong>アイコン</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">コンテンツが<a href="#">コンテンツRecommendations</a>に追加されたかどうかを示します。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>表示</strong></p></td> 
@@ -60,17 +60,17 @@ Analyticsテーブルには、次の詳細が表示されます。
    <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力したWeb訪問者</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analyticsアイコン</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analyticsアイコン</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">コンテンツの詳細を確認する</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>アイコンを削除</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>アイコンを削除</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Content Analyticsからコンテンツを削除します</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 表示追加コンテンツ分析 {#view-additional-content-analytics}
+## 表示追加コンテンツ分析{#view-additional-content-analytics}
 
 コンテンツのAnalyticsアイコンをクリックします。
 
@@ -90,9 +90,9 @@ Analyticsテーブルには、次の詳細が表示されます。
 
 **トレンド**
 
-* 特定のコンテ **ンツ部分の過去30日間の表示を示すトレンド** グラフ。 折れ線グラフの上にマウスポインターを置くと、特定の日のコンテンツ表示数が表示されます
+* **トレンド**&#x200B;グラフ。特定のコンテンツピースの過去30日間の表示を示します。 折れ線グラフの上にマウスポインターを置くと、特定の日のコンテンツ表示数が表示されます
 
-## コンテンツを削除 {#delete-content}
+## コンテンツを削除{#delete-content}
 
 ![](assets/six.png)
 
