@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# セグメント別電子メールレポートのグループ化 {#group-email-reports-by-segmentations}
+# セグメント別電子メールレポートのグループ化{#group-email-reports-by-segmentations}
 
-セグメント化は、動的コンテンツに対するものではありません。 また、 [電子メールのパフォーマンスレポートをセグメント別にグループ化することもできます](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)[](http://docs.marketo.com/display/docs/segmentation+and+snippets)。
+セグメント化は、動的コンテンツに対するものではありません。 [電子メールのパフォーマンスレポート](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)を[セグメント](http://docs.marketo.com/display/docs/segmentation+and+snippets)でグループ化することもできます。
 
 >[!PREREQUISITES]
 >
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」領域に移動します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. [ **電子メールのパフォーマンス** ]レポートを選択します。
+1. **電子メールのパフォーマンス**&#x200B;レポートを選択します。
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 「 **セットアップ** 」タブをクリックし、「 **セグメント別グループ」上にドラッグします**。
+1. 「**セットアップ**」タブをクリックし、「**セグメントでグループ化**」の上にドラッグします。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. レポートのグループ化に使用する1つまたは2つのセグメントを選択します。 「 **適用**」をクリックします。
+1. レポートのグループ化に使用する1つまたは2つのセグメントを選択します。 「**APPLY**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. それだ！ 「 **レポート** 」タブをクリックします。 1つのセグメントを使用する場合、レポートでは各セグメントに対して1行が表示されます。
+1. それだ！ 「**レポート**」タブをクリックします。 1つのセグメントを使用する場合、レポートでは各セグメントに対して1行が表示されます。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 2つのセグメントを使用する場合、セグメントの *組み合わせごとに* 1行が表示されます。
+1. 2つのセグメントを使用する場合、セグメントの&#x200B;*組み合わせ*&#x200B;ごとに1行が表示されます。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
