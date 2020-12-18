@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforceのベストベット1 {#best-bets-in-salesforce}
+# Salesforce1のベストベット{#best-bets-in-salesforce}
 
-最 [良の賭けは](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) 、最も緊急性が高く、相対的なスコアが最も高いリードと連絡先です。 そのリストには自分が所有するリードのみが表示され、リードスコアの変化に応じてリストが更新されます。
+[ベストベット](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)はリードであり、緊急度が最も高く、相対スコアが高い連絡先です。 そのリストには自分が所有するリードのみが表示され、リードスコアの変化に応じてリストが更新されます。
 
 1. SalesforceアプリのMarketo領域に移動します。
 
