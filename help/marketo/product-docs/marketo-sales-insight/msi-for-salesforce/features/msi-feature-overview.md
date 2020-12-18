@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# MSI機能の概要 {#msi-feature-overview}
+# MSI機能の概要{#msi-feature-overview}
 
 MSIには、Salesforce LightningおよびClassicで使用できる次の機能があります。
 
-## Visualforceパネル {#visualforce-panel}
+## Visualforceパネル{#visualforce-panel}
 
 MSI Visualforceパネルには、次の機能が含まれています。
 
@@ -35,7 +35,7 @@ MSI Visualforceパネルには、次の機能が含まれています。
 
 * 星と炎
 
-## リードのレイアウト {#lead-layout}
+## リードのレイアウト{#lead-layout}
 
 Visualforceページ：
 
@@ -60,7 +60,7 @@ Visualforceページ：
 * Marketorでの表示 — このフィールドをクリックして、Marketorのリードの編集不可能な表示を開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
 * MSI Contact Id - Salesforceの追加このフィールドへの連絡先で、「Lead Contact Bridge」パネルをリードレイアウトに含めて、連絡先のMSIパネルを確認します。
 
-## 連絡先のレイアウト {#contact-layout}
+## 連絡先レイアウト{#contact-layout}
 
 Visualforceページ：
 
@@ -85,7 +85,7 @@ Visualforceページ：
 * Mktoリードスコア
 * Sales Insight — 連絡先の完全なリストページを開きます。
 
-## アカウントのレイアウト {#account-layout}
+## アカウントのレイアウト{#account-layout}
 
 Visualforceページ：
 
@@ -97,12 +97,12 @@ Visualforceページ：
 
 * Sales Insight — 連絡先の完全なリストページを開きます。
 
-次の機能は、アカウントのレイアウトページでは **利用できません** 。
+次の機能は、アカウントのレイアウトページでは&#x200B;**利用できません**。
 
 * アクション：Marketor追加キャンペーンに対して、Marketto Eメールを送信する、または監視リスト追加から削除する
 * 星と炎
 
-## オポチュニティのレイアウト {#opportunity-layout}
+## オポチュニティのレイアウト{#opportunity-layout}
 
 Visualforceページ：
 
@@ -115,7 +115,7 @@ Visualforceページ：
 * Sales Insight — 連絡先の完全なリストページを開きます。
 * Marketo Opportunity分析- MarketoでOpportunity Influence Analyzerを開きます。
 
-次の機能は、「Opportunity Layout」ページでは使用で **きません** 。
+次の機能は、「Opportunity Layout」ページでは&#x200B;**利用できません**。
 
 * アクション：Marketor追加キャンペーンに対して、Marketto Eメールを送信する、または監視リスト追加から削除する
 * 星と炎
@@ -126,7 +126,7 @@ Salesforce Lightning:をウォッチリスト、マーケティング追加キ�
 
 Salesforce Classic:をウォッチリスト、マーケティン追加グ担当者のキャンペーンに追加送信し、リードと連絡先のリスト表示の「マーケティング担当者に電子メールを送信」バルクアクションボタンに送信します。
 
-## 「マーケティング」タブ {#marketo-tab}
+## マーケティング先タブ{#marketo-tab}
 
 * ベストベット
 
@@ -162,7 +162,7 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
    * 「購読」オプションを選択し、このタイプのイベントの電子メール通知を受信
    * この人物を表示する優先順位の高いアイコンはおすすめコンテンツです
 
-## Marketto Sales Insightの「設定」タブ {#marketo-sales-insight-configuration-tab}
+## Marketo Sales Insight Configurationタブ{#marketo-sales-insight-configuration-tab}
 
 * 操作設定：SFDCでMSIを設定するために必要なSoapおよびRest API資格情報が含まれます
 * MSI設定：「Marketo」タブとMSI visualforceパネルの設定が含まれます
@@ -172,7 +172,7 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
 >
 >[SalesforceのMarketto Sales Insightの「Configuration」タブ](http://docs.marketo.com/x/UoCMAg)
 
-## Sales Insightパフォーマンスレポート {#sales-insight-performance-reports}
+## Sales Insightパフォーマンスレポート{#sales-insight-performance-reports}
 
 Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で送信される電子メールのパフォーマンスの表示
 
@@ -180,6 +180,6 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 
 MSI機能は、Salesforceモバイルアプリケーションでサポートされています
 
-## 言語サポート {#language-support}
+## 言語サポート{#language-support}
 
 Marketor Sales Insightは、言語別に保存されます。 したがって、複数の言語で機能させる場合は、言語ごとに資格情報を個別に入力する必要があります。
