@@ -13,34 +13,34 @@ ht-degree: 0%
 
 # 電子メールインサイトFAQ {#email-insights-faq}
 
-## 電子メールインサイトと他のマーケティング担当者の電子メールレポートとの比率指標の間に違いはありますか。 {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
+## 電子メールインサイトと他のマーケティング担当者の電子メールレポートとの比率指標の間に違いはありますか。{#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
 はい。 電子メールインサイトは、エンゲージメント指標の比率（オープン率、クリックして開く率、登録解除率）を計算する際に送信される同じ電子メールのエンゲージメント指標と対応する配信指標を相関させます。 例えば、電子メールインサイトで、過去1週間の時系列グラフとクリックして開く率を日別に表示する場合、対応する配信指標に基づいて、開く/クリック/購読解除イベントの正しい相関率を示すようになりました。 これは、単にすべてをまとめた売上高エクスプローラの動作とは異なります。 電子メールインサイトでは、エンゲージメント率の表示がより正確に表示されます。
 
-## 電子メールインサイトが10個のカスタムDimensionのみをサポートするのはなぜですか？ {#why-does-email-insights-only-support-custom-dimensions}
+## 電子メールインサイトが10個のカスタムDimensionのみをサポートするのはなぜですか？{#why-does-email-insights-only-support-custom-dimensions}
 
 多くの使用事例では、追加のカスタムディメンションを10個使用してデフォルトのシステムディメンションを拡張する方が十分ではありません。また、セグメントまたはプログラムタグに基づくカスタムディメンションも含まれます。 今後は、お客様に対して、カスタムDimensionの数を増やすことを許可する予定です。
 
-## 割り当てられたカスタムDimensionスロットを再利用できないのはなぜですか。 {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
+## 割り当てられたカスタムDimensionスロットを再利用できないのはなぜですか。{#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
 特定のカスタムDimensionスロットが割り当てられた後、再マッピングすると、以前のデータが新しい意味とブレンドされた場合にエラーが発生します。 そのため、カスタムDimensionスロットは再使用できない場合があります。 この動作は、Google Analyticsなど、他の指標分析ツールの動作と一致します。
 
-## 電子メールインサイトは、Marketor Sales Insightの電子メールをサポートしていますか。 {#does-email-insights-support-marketo-sales-insight-emails}
+## 電子メールインサイトは、Marketor Sales Insightの電子メールをサポートしていますか。{#does-email-insights-support-marketo-sales-insight-emails}
 
 はい。 マーケティング先の販売のインサイトを介して送信されるすべての電子メールは、電子メールインサイトに含まれます。
 
-## 電子メールインサイトは、操作用の電子メールをサポートしますか？ {#does-email-insights-support-operational-emails}
+## 電子メールインサイトは、操作用の電子メールをサポートしますか？{#does-email-insights-support-operational-emails}
 
 はい。 デフォルトでは、操作用電子メールは表示およびクエリには表示されません。 ただし、個人設定パネルでこの設定を変更することはできます。
 
-## 電子メールインサイトは、定期的にスケジュールされる、またはスマートキャンペーンの電子メールフローステップをキャプチャしますか？ {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
+## 電子メールインサイトは、定期的にスケジュールされる、またはスマートキャンペーンの電子メールフローステップをキャプチャしますか？{#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 
 はい、いいえ。 電子メールインサイトの最初のリリースでは、すべての電子メールイベントがキャプチャされ、定期的にスケジュールされたスマートキャンペーンや再実行されるスマートイベントにアクセスできます。 しかし、そのスマートキャンペーンの異なる動作を区別することはできません。 次回のリリースで、Open、Click、Unsubscribeの各イベントのスマートキャンペーン実行情報を取得し、区別できるようにサポートを追加します。
 
-## デバイスタイプまたはデバイスOSでフィルターする場合に、多くの指標が0と表示されるのはなぜですか。 {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
+## デバイスタイプまたはデバイスOSでフィルターする場合に、多くの指標が0と表示されるのはなぜですか。{#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
 クリックして開く率、開く、クリック数、購読取りの例外を除き、その他すべてのサポートされている指標は、配信のイベントから派生した配信のイベントまたは比率です。 デバイスタイプとデバイスOSはエンゲージメント指標にのみ適用されるので、表示する情報はありません。 例えば、Device Type = mobileでフィルタリングした場合、Marketoは基になる配信と送信済みイベントのどちらに関与指標も受け取っていないので、配信率を求めるのは未定義のクエリです。 エンゲージメント指標と配信指標の両方で構成される比率に対して、エンゲージメント指標からデバイスタイプとデバイスOSを適用する方法を検討しています。
 
-## 特定の電子メールクライアントがイメージをブロックする場合、電子メールインサイトは何を行いますか。 {#what-does-email-insights-do-when-certain-email-clients-block-images}
+## 特定の電子メールクライアントがイメージをブロックする場合、電子メールインサイトは何を行いますか。{#what-does-email-insights-do-when-certain-email-clients-block-images}
 
 業界でよくある問題は、多くの電子メールクライアントがデフォルトで画像をオフにしていることです。 画像の読み込みは、開く処理の記録方法の基本です。 画像がブロックされた電子メールを受信したユーザーは、テキストとリンクが完全に読み取れる状態で受信できる可能性があります。 この状況が発生し、その電子メール内のリンクをクリックすると、クリックイベントのシナリオが表示されますが、該当する電子メールに対応する開くイベントは表示されません。 マーケティング担当者の電子メールのインサイトは、見つからなかったイベントを自動的に生成します。 このロジックは、電子メールのパフォーマンスレポート、および売上高エクスプローラの電子メールの分析領域で、Marketorが行う処理と同じです。
