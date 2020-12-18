@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# プログラムメンバーシップ分析領域について {#understanding-the-program-membership-analysis-area}
+# プログラムメンバーシップ分析領域について{#understanding-the-program-membership-analysis-area}
 
 [プログラムメンバーシップの分析]領域では、個々のプログラムの効果を分析したり、チャネル別の要約結果を一定期間表示したりできます。
 
-## ビジネスの質問例 {#example-business-questions}
+## ビジネスの質問の例{#example-business-questions}
 
 ある1か月のチャネル別プログラムに参加した人数は？
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/three-2.png)
 
-## プログラムメンバーシップ分析のDimensionと措置 {#program-membership-analysis-dimensions-and-measures}
+## プログラムメンバーシップ分析のDimensionと測定{#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黄色の点は寸法、青の点は測定値です。
 
-### メンバーシップ {#membership}
+### メンバーシップ{#membership}
 
 | 測定 | 説明 |
 |---|---|
@@ -43,14 +43,14 @@ ht-degree: 0%
 | メンバー | プログラムのリードの合計 |
 | 新しい名前 | プログラムが取得した新しい名前の合計 |
 
-### プログラム属性 {#program-attributes}
+### プログラム属性{#program-attributes}
 
 | Dimension | 説明 |
 |---|---|
 | プログラムチャネル | プログラムチャネル |
 | プログラム名 | プログラム名 |
 
-### プログラムメンバーシップ期間 {#program-membership-timeframe}
+### プログラムメンバーシップ期間{#program-membership-timeframe}
 
 | Dimension | 説明 |
 |---|---|
@@ -60,7 +60,7 @@ ht-degree: 0%
 | 週 | プログラムのメンバーシップ期間 |
 | 日付 | プログラムのメンバーシップ期間 |
 
-### 成功 {#success}
+### 成功{#success}
 
 | 測定 | 説明 |
 |---|---|
