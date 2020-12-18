@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 既知の人物データを使用したセグメントの作成 {#create-a-segment-using-known-person-data}
+# 既知の人物データを使用したセグメントの作成{#create-a-segment-using-known-person-data}
 
 次に、既知の人物データ値を使用してセグメントを作成する方法を示します。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[個人データの管理](manage-person-data.md)
 
-1. 「 **セグメント**」に移動。
+1. **セグメント**&#x200B;に移動します。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 「新規 **作成**」をクリックします。
+1. 「**新規作成**」をクリックします。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-## 複数の個人データフィールドの選択 {#selecting-multiple-person-data-fields}
+## 複数の人物データフィールドの選択{#selecting-multiple-person-data-fields}
 
-1. [ **+** ]をクリックして、別のユーザーデータフィールドを追加します。
+1. **+**&#x200B;をクリックして、別の個人データフィールドを追加します。
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 「 **保存** 」をクリックしてセグメントを保存するか、「**保存してキャンペーンを定義**」をクリックして保存し、キャンペーンページに移動します。
+1. 「**保存**」をクリックしてセグメントを保存します。**保存してキャンペーンを定義**すると、保存してキャンペーンページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
