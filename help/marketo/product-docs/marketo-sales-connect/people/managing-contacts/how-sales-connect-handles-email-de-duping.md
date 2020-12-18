@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Sales Connectが電子メールの重複排除をどのように処理するか {#how-sales-connect-handles-email-de-duping}
+# Sales ConnectがEメールの重複排除をどのように扱うか{#how-sales-connect-handles-email-de-duping}
 
-CSV [ファイルをSales Connectに](http://docs.marketo.com/x/VADb) アップロードする場合、インポートが行われる前に、CSV内の「いいね！」の連絡先すべてを結合します。
+CSV](http://docs.marketo.com/x/VADb)ファイルをSales Connectに[アップロードする場合、インポートが行われる前に、CSV内のすべての「いいね！」の連絡先を結合します。
 
 同様の電子メールアドレスに基づいて行います。 同じ電子メールアドレスが2つある場合は、それらを1人の連絡先に結合します。
 
