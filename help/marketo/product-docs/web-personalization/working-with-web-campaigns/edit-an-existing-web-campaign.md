@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# 既存のWebキャンペーンの編集 {#edit-an-existing-web-campaign}
+# 既存のWebキャンペーンの編集{#edit-an-existing-web-campaign}
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. [ **Webキャンペーン** ]ページで、編集するキャンペーンの[**編集**]をクリックします。
+1. **Webキャンペーン**&#x200B;ページで、編集するキャンペーンの「**編集**」をクリックします。
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >目的のWebキャンペーンを見つけやすくするには、 [フィルター機能を使用します](filter-web-campaigns.md)。
+   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
 >[!MORELIKETHIS]
 >
 >* [Webキャンペーンの削除](delete-a-web-campaign.md)
->* [](launch-pause-a-web-campaign.md) キャンペーンの起動/一時停止 [](launch-pause-a-web-campaign.md)
+>* [キャンペーン](launch-pause-a-web-campaign.md) [の開始/一時停止](launch-pause-a-web-campaign.md)
 
 >
 
