@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 確認用の電子メールを受信しない {#never-received-a-verification-email}
+# 検証用電子メールを受信しない{#never-received-a-verification-email}
 
 私たちから確認メールを受け取ってない？
 
