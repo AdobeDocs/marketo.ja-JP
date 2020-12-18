@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# GmailからSales Connectをアンインストールする方法 {#how-to-uninstall-sales-connect-from-gmail}
+# GmailからSales Connectをアンインストールする方法{#how-to-uninstall-sales-connect-from-gmail}
 
 Gmail用のSales Connectプラグインは、ブラウザー拡張機能を使用して実行されます。 GmailのSales Connectを削除するには、削除する必要があります。
 
-1. **Chrome**&#x200B;で、ブラウザーウィンドウの右上隅にある3つの線をクリックします。
-1. [ **その他のツール**]をクリックします。
-1. 「 **拡張子**」をクリックします。
-1. Chrome版ToutAppの横にあるごみ箱アイコンを **クリックします**。
+1. **Chrome**&#x200B;で、ブラウザーウィンドウの右上隅にある3つの行をクリックします。
+1. 「**その他のツール**」をクリックします。
+1. 「**拡張子**」をクリックします。
+1. **ToutApp for Chrome**&#x200B;の横にあるごみ箱アイコンをクリックします。
 
