@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メールインサイトの概要 {#email-insights-overview}
+# 電子メールインサイトの概要{#email-insights-overview}
 
 電子メールインサイトは、電子メールマーケターにとっての履歴データから得られる強力なインサイトです。 2つのセクションが関連付けられています。解析と送信を参照してください。
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 >
 >デフォルトでは、アクセス権を持つすべてのワークスペースのデータが表示されます。 表示したくないワークスペースは選択解除できます。 選択した内容は、今後も記憶されます。
 
-## 解析 {#analytics}
+## 解析{#analytics}
 
-[Analyticsを使用して](email-insights-analytics-overview.md) 、電子メール配信およびエンゲージメント指標の集計時系列データを調べます。
+[Analytics](email-insights-analytics-overview.md)を使用して、電子メールの配信およびエンゲージメント指標の集計時系列データを調べます。
 
 ![](assets/emailanalytics.jpg)
 
 **フィルター**
 
-高度な [フィルター](filtering-in-email-insights.md) (オーディエンス別、コンテンツ別、またはプラットフォーム別)を使用して、結果を分類していました。 同じフィルターがAnalyticsとSendsの両方に適用されます。
+高度な[フィルター](filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、またはプラットフォームで結果を分類しました。 同じフィルターがAnalyticsとSendsの両方に適用されます。
 
 ![](assets/filter.png)
 
 **クイックグラフ**
 
-[クイックグラフ](email-insights-quick-charts.md) (Quick Charts)は、作成して保存するサムネールで、重要なグラフの表示をすばやく確認できます。
+[クイック](email-insights-quick-charts.md) グラフは、作成して保存するサムネールで、重要なグラフの表示を簡単に示します。
 
 ![](assets/three.png)
 
-## 送信 {#sends}
+## {#sends}を送信
 
-[ [送信](email-insights-sends-overview.md) ]ページで、最近の電子メール通信の特性を確認します。
+[Sends](email-insights-sends-overview.md)ページで、最近の電子メール通信の特性を確認します。
 
 ![](assets/two.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 >
 >電子メールインサイトにデータが反映されるまで、最大8時間かかる場合があります。
 
-## カスタムDimension {#custom-dimensions}
+## カスタムDimension{#custom-dimensions}
 
-すべての標準的なMarketorディメンションが含まれますが、最大10個のカスタムディメンションを追加できます。 [カスタムディメンションは](custom-dimensions-for-email-insights.md) 、セグメントとプログラムタグで構成されます。
+すべての標準的なMarketorディメンションが含まれますが、最大10個のカスタムディメンションを追加できます。 [カスタム](custom-dimensions-for-email-insights.md) ディメンションは、セグメントとプログラムタグで構成されます。
 
 >[!MORELIKETHIS]
 >
