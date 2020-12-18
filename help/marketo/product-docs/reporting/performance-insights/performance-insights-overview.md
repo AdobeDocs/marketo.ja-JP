@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# パフォーマンスインサイトの概要 {#performance-insights-overview}
+# パフォーマンスインサイトの概要{#performance-insights-overview}
 
 マーケティングのパフォーマンスインサイトは、チャネルミックスを最大の効果に最適化するために最適化すると共に、一貫性のある勝者戦略を見つけるための長期的なトレンドを明らかにするのに役立ちます。
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-## 貢献度 {#contribution}
+## 貢献度{#contribution}
 
-顧客の獲得、影響、コンバージョン、さらには導入ベースの成長に伴う機能として、売上高に対するマーケティングの [](http://docs.marketo.com/x/QAvG)貢献度を評価します。
+顧客の獲得、影響、コンバージョン、さらにはインストールベースの増加に対するマーケティングの[貢献度を評価](http://docs.marketo.com/x/QAvG)。
 
 ![](assets/two.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
 
 ![](assets/3.png)
 
-## トレンド {#trend}
+## トレンド{#trend}
 
-長期的な傾向を明らかに [し](http://docs.marketo.com/x/QgvG) 、一貫した勝者戦略を見極めます。
+[長期的な傾向](http://docs.marketo.com/x/QgvG)を明らかにして、一貫した勝者戦略を示します。
 
 ![](assets/4.png)
 
-## 設定 {#settings}
+## 設定{#settings}
 
-売上高とパイプラインダッシュボードで、 [設定](http://docs.marketo.com/x/pIDS) アイコンをクリックして追加パラメータを設定します。
+売上高とパイプラインダッシュボードで、[設定](http://docs.marketo.com/x/pIDS)アイコンをクリックして、追加のパラメーターを設定します。
 
 ![](assets/5.png)
 
-## データの書き出し {#export-data}
+## データのエクスポート{#export-data}
 
-データとグラフは、PowerPointまたはExcelでエクスポートできます。 また、 [クイックグラフとして保存することもできます](https://docs.marketo.com/x/iRLG)。
+データとグラフは、PowerPointまたはExcelでエクスポートできます。 また、[クイックグラフ](https://docs.marketo.com/x/iRLG)として保存することもできます。
 
 ![](assets/6.png)
 
