@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales Connectに連絡先がすべて押し込まれないのはなぜですか。 {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
+# Sales Connectに連絡先がすべて押し込まれないのはなぜですか。{#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
 一部の連絡先のみが処理を引き継ぐ場合、会社のSalesforceインスタンスで「電子メール」とマークされていないオプトアウト連絡先が存在する可能性があります。
 
