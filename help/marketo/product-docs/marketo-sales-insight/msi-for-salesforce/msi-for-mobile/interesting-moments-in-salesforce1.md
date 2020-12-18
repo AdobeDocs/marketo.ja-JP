@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforce1の興味深い瞬間 {#interesting-moments-in-salesforce}
+# Salesforce1の興味深い瞬間{#interesting-moments-in-salesforce}
 
-[Marketor Sales Insightアプリを使用して](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 、興味深い瞬間を使用することが、セールスチームと連絡を取る上で重要です。 Marketo Sales Insight for Salesforce1では、スマートフォンでも同じことができます。
+[興味深い](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) お問い合わせの使用は、Marketo Sales Insightアプリを通じてセールスチームと連絡を取るための鍵となります。Marketo Sales Insight for Salesforce1では、スマートフォンでも同じことができます。
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 「 **** 関連」タブをクリックして、興味深い場面、Webアクティビティ、電子メールおよびスコアを表示します。
+1. 「**関連**」タブをクリックして、注目の場面、Webアクティビティ、電子メール、スコアを表示します。
 
    ![](assets/two.png)
 
