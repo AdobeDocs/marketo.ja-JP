@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# モバイルプッシュ通知の削除 {#delete-mobile-push-notification}
+# モバイルプッシュ通知の削除{#delete-mobile-push-notification}
 
 1. 「マーケティングアクティビティ」領域に移動します。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. 「 **プッシュ通知アクション**」で、「 **削除**」をクリックします。
+1. 「**プッシュ通知アクション**」で、「**削除**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
