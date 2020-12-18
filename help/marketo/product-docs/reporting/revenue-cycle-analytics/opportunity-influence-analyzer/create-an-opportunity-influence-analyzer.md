@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# オポチュニティ影響分析計の作成 {#create-an-opportunity-influence-analyzer}
+# オポチュニティ影響分析計の作成{#create-an-opportunity-influence-analyzer}
 
 Opportunity Influence Analyzerを使用して、重要な案件に対するマーケティングの貢献度を表示します。 プログラムやイベントの成功、および機会の中での興味深い瞬間を見る。
 
@@ -21,38 +21,38 @@ Opportunity Influence Analyzerを使用して、重要な案件に対するマ�
 >
 >Opportunity Influence Analyzerから適切なインテルを入手するには、連絡先がCRMのオポチュニティに関連付けられていることを確認します。
 
-1. 「 **解析**」をクリックします。
+1. 「**解析**」をクリックします。
 
    ![](assets/analytics.png)
 
-1. 「 **Opportunity Influence Analyzer**」をクリックします。
+1. 「**Opportunity Influence Analyzer**」をクリックします。
 
    ![](assets/two.png)
 
-1. [ **設定** ]パネルからアカウントを選択します。
+1. **設定**&#x200B;パネルからアカウントを選択します。
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >期間内にアクティビティがないという警告が表示された場合は、[ **閉じる**]をクリックします。 私たちは次のステップの後にそれに戻る。
+   >時間枠内にアクティビティがないという警告が表示された場合は、[**閉じる**]をクリックするだけです。 私たちは次のステップの後にそれに戻る。
 
 1. そのアカウントでオポチュニティを選択します。
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. 期間を設定します。 「 **設定** 」タブをクリックし、重複キーを押しながら「 **時間枠**」をクリックします。
+1. 期間を設定します。 「**セットアップ**」タブをクリックし、「**時間枠**」を重複クリックします。
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. 分析するオポチュニティの期間を選択し、「 **保存**」をクリックします。
+1. 分析するオポチュニティの期間を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >ほとんどの場合、 **All Time** （常時）は最も単純な選択です。
+   >ほとんどの場合、**常時**&#x200B;は最も単純な選択です。
 
 1. そこだ！ メインタブをクリックすると、オポチュニティに関与する興味深い瞬間と成功を確認できます。
 
@@ -60,7 +60,7 @@ Opportunity Influence Analyzerを使用して、重要な案件に対するマ�
 
 >[!TIP]
 >
->また、 [Marketo UniversityのOpportunity Influence Analyzerに関するビデオも視聴できます](https://learn.marketo.com)。 （今は少し違うように見えますが、まだ学ぶべきことがたくさんあります。）
+>[Marketo University](https://learn.marketo.com)のOpportunity Influence Analyzerに関するビデオも視聴できます。 （今は少し違うように見えますが、まだ学ぶべきことがたくさんあります。）
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Opportunity Influence Analyzerを使用して、重要な案件に対するマ�
 >
 >**ディープダイブ**
 >
->その他のアナライザーについては、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+>他のアナライザーについては、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
