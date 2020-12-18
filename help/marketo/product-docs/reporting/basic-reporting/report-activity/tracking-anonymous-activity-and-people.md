@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 匿名アクティビティと人物の追跡 {#tracking-anonymous-activity-and-people}
+# 匿名アクティビティと人物の追跡{#tracking-anonymous-activity-and-people}
 
-Marketo [ランディングページ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) (または、Munchkin追跡コードを含むWebサイト上のページ [)を初めて訪問すると、Marketoは](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)匿名 *アクティビティを作成し、訪問者がブラウザのcookieを使用して追跡するように*** します。 訪問者が識別されると、その訪問者が個人となり、ブラウザーのcookieに関連付けられた履歴が結合されます。
+誰かが初めてMarketorの[ランディングページ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)（またはWebサイト上の[マンチキン追跡コード](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つページ）を訪問したとき、Marketorは&#x200B;*匿名* *アクティビティ*&#x200B;を作成し、ブラウザーcookieを使用して追跡します。 訪問者が識別されると、その訪問者が個人となり、ブラウザーのcookieに関連付けられた履歴が結合されます。
 
 1. 匿名アクティビティは、誰かが
 
-   * マーケティング [ランディングページ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 、初めて訪問します。
-   * マンチキン追跡を含むサイトのページ [を訪問します](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
-   * マーケティング担当者の電子メール内で、 [表示を「Webページ](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 」リンクとしてクリックします。
+   * 初めてマーケットランディングページ[に訪問します。](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   * [マンチキン追跡](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つサイトのページを訪問します。
+   * Marketor電子メールの[表示をWebページ](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)リンクとしてクリックします。
 
    >[!NOTE]
    >
@@ -27,15 +27,15 @@ Marketo [ランディングページ](../../../../product-docs/demand-generation
 
    匿名アクティビティは、次のような場合に、新しい人または既存の人に結合されます。
 
-   * マーケティング担当者の電子メール内の [リンクをクリックします](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)。
-   * マーケティング担当者の [フォームに入力します](http://docs.marketo.com/display/docs/forms)。
-   * Marketoの [REST API](http://developers.marketo.com/rest-api/lead-database/leads/)[（開発者向け）または](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) Munchkin API（開発者向け）を使用して、匿名アクティビティを既知のレコードに関連付けます。
+   * マーケティング担当者の電子メール](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)内の[リンクをクリックします。
+   * Marketor [フォーム](http://docs.marketo.com/display/docs/forms)に入力します。
+   * 匿名アクティビティを既知のレコードに関連付けるには、Marketoの[REST API](http://developers.marketo.com/rest-api/lead-database/leads/)または[Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API（開発者用）を使用します。
 
    データベース内の1つの名前が多数のcookieに結び付けられる可能性があるのは、訪問者がサイトの訪問に多くの場合、異なるデバイスやブラウザーを使用するからです。
 
    >[!NOTE]
    >
-   >匿名レコードが新しい人レコードまたは既存の人物レコードに結合されると、カスタムフィールドの値は **転送されません** 。
+   >匿名レコードが新しいまたは既存の人物レコードに結合されると、カスタムフィールドの値は&#x200B;**引き継がれません。**
 
    >[!NOTE]
    >
@@ -51,5 +51,5 @@ Marketo [ランディングページ](../../../../product-docs/demand-generation
    >**ディープダイブ**
    >
    >
-   >[基本レポートの詳細を表示します](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を表示します。
 
