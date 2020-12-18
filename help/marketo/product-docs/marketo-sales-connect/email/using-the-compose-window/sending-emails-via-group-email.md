@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# グループ電子メールを使用した電子メールの送信 {#sending-emails-via-group-email}
+# グループ電子メールを使用した電子メールの送信{#sending-emails-via-group-email}
 
 次に、「グループ電子メール」オプションを使用して電子メールを送信/編集する方法を示します。
 
-## グループ電子メールの送信 {#sending-a-group-email}
+## グループ電子メールの送信{#sending-a-group-email}
 
-1. 「 **人物** 」タブをクリックします。
+1. 「**ユーザー**」タブをクリックします。
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 「グループアクション」ボタンをクリックし、「 **電子メールグループ**」を選択します。
+1. 「Group Actions」ボタンをクリックし、「**Email Group**」を選択します。
 
    ![](assets/three-3.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-## グループ電子メールの編集 {#editing-a-group-email}
+## グループ電子メールの編集{#editing-a-group-email}
 
-1. 上記の [手順1 ～ 3を使用して、グループ電子メールを作成します](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)。
+1. [上の](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)手順1 ～ 3を使用して、グループ電子メールを作成します。
 1. テンプレートを選択するか、電子メールを入力します。
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 「 **プレビュー動的フィールド**」をクリックし、右側のプレビューを表示します。
+1. 「**プレビュー動的フィールド**」をクリックし、右側のプレビューを表示します。
 
    ![](assets/edit-five.png)
 
