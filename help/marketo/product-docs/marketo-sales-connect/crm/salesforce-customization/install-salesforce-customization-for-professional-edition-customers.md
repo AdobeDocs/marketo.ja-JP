@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Professional Editionのお客様向けSalesforceカスタマイズのインストール {#install-salesforce-customization-for-professional-edition-customers}
+# Professional Editionのお客様向けSalesforceカスタマイズのインストール{#install-salesforce-customization-for-professional-edition-customers}
 
 Salesforce Professional Editionをご利用のお客様は、次の手順に従ってカスタマイズをインストールする必要があります。
 
@@ -24,13 +24,13 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 
 
 
-## インストール {#installation}
+## インストール{#installation}
 
-1. Sales Connectで、右上の歯車アイコンをクリックし、「 **設定**」を選択します。
+1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
    ![](assets/one-4.png)
 
-1. 「管理設定」で、「 **Salesforce**」をクリックします。
+1. 「管理設定」で、「**Salesforce**」をクリックします。
 
    ![](assets/two-4.png)
 
@@ -38,17 +38,17 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 
    >[!CAUTION]
    >
-   >接続されている場合は、緑色の「インストール」ボタンが表示されます。 **このボタンをクリックしないで** 、代わりに手順4に進みます。
+   >接続されている場合は、緑色の「インストール」ボタンが表示されます。 **このボタン** をクリックしないで、代わりに手順4に進みます。
 
-1. 接続しているSalesforceアカウントにログインし、 [このリンクをクリックします](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)。
+1. 接続しているSalesforceアカウントにログインし、[このリンク](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)をクリックします。
 1. [Sales Connect Installation]ページに送信されます。
 
    ![](assets/install-package.png)
 
 1. カスタマイズをインストールするユーザーを選択してください：管理者のみ、すべてのユーザーまたは特定のプロファイル。
-1. 「 **インストール** 」ボタンをクリックして、カスタマイズをインストールします。
+1. 「**インストール**」ボタンをクリックして、カスタマイズをインストールします。
 1. インストールが成功したことを確認するには、Salesforceアカウントにログインします。
-1. 「 **セットアップ**」をクリックし、検索バーで「インストール済みパッケージ」を検索して、「 **インストール済みパッケージ**」をクリックします。
+1. 「**セットアップ**」をクリックし、検索バーで「インストール済みのパッケージ」を検索して、「**インストール済みのパッケージ**」をクリックします。
 
    「Marketo Sales Connect Customizations」が表示されます。
 
