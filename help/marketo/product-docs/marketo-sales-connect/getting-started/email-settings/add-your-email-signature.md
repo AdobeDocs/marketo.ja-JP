@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 追加電子メール署名 {#add-your-email-signature}
+# 電追加子メール署名{#add-your-email-signature}
 
 Sales Connectからメールを送信する際、お客様のメールクライアントから送信する際に、シームレスな操作を感じることをお勧めします。 これを行う最良の方法は、電子メールの署名を追加することです。
 
-1. 歯車アイコンをクリックし、「 **設定**」を選択します。
+1. 歯車アイコンをクリックし、**設定**&#x200B;を選択します。
 
    ![](assets/add-your-email-signature-1.png)
 
-1. 「マイアカウント」で、「 **電子メール設定**」を選択します。
+1. 「マイアカウント」で、「**電子メール設定**」を選択します。
 
    ![](assets/add-your-email-signature-2.png)
 
-1. 「 **アドレスと署名** 」をクリックし、署名を作成する電子メールIDを選択します。
+1. 「**アドレスと署名**」をクリックし、署名を作成する電子メールIDを選択します。
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Signatureカードで、「 **編集**」をクリックします。
+1. Signatureカードで、「**編集**」をクリックします。
 
    ![](assets/add-your-email-signature-4.png)
 
-1. 必要なテキスト（または画像）を入力し、「 **保存**」をクリックします。
+1. 必要なテキスト（または画像）を入力し、「**保存**」をクリックします。
 
    ![](assets/add-your-email-signature-5.png)
 
