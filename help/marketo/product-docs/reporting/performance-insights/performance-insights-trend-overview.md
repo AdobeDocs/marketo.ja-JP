@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# パフォーマンスインサイトトレンドの概要 {#performance-insights-trend-overview}
+# パフォーマンスインサイトトレンドの概要{#performance-insights-trend-overview}
 
 トレンドには、ある期間のチャネルのパフォーマンスが表示されます。
 
-「 **トレンド** 」タブをクリックして、この表示にアクセスします。
+「**トレンド**」タブをクリックして、この表示にアクセスします。
 
 ![](assets/1.png)
 
-## トレンド {#trend}
+## トレンド{#trend}
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。 この例では、 [ファーストタッチで獲得したオポチュニティを見てみます](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+パフォーマンスを表示する指標を選択します。 この例では、[ファーストタッチ](http://docs.marketo.com/display/DOCS/Understanding+Attribution)を通じて勝ったオポチュニティを調べます。
 
 ![](assets/3-2.png)
 
