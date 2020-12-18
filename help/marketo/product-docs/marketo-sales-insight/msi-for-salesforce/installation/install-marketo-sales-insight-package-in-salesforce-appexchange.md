@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# SalesforceAppExchange{#install-marketo-sales-insight-package-in-salesforce-appexchange}にMarketo Sales Insightパッケージをインストールします。
 
 Sales Insightが提供するあらゆる機能を活用するには、Marketo Sales InsightアプリをSalesforce購読にインストールする必要があります。 これが方法です。
 
@@ -23,18 +23,18 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 >
 >Marketo Sales Insightは、Salesforce Platform(Shield)暗号化と互換性があります。
 
-1. Marketo Sales Insightの [AppExchangeページに移動し、](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) 「今すぐ **取得**」をクリックします。
+1. Marketo Sales Insightの[AppExchangeページ](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**今すぐ取得**」をクリックします。
 
    ![](assets/one.png)
 
-1. [ **AppExchange** ]ボタンの[ログイン]をクリックし、Salesforceの資格情報を使用してログインします。
-1. 接続したSalesforceアカウントログインを入力し、「 **Install in Production**」をクリックします。
+1. 「**AppExchange**&#x200B;にログイン」ボタンをクリックし、Salesforceの資格情報を使用してログインします。
+1. 接続したSalesforceアカウントにログインし、**実稼働環境にインストール**&#x200B;をクリックします。
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >最初にサンドボックスでテストアウトする場合は、「Sandboxに **インストール**」を選択します。
+   >最初にサンドボックスでテストアウトする場合は、[**Sandboxにインストール**]を選択します。
 
 1. 利用条件を読んで同意し、「**確認してインストール**」をクリックします。
 
@@ -44,7 +44,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/five.png)
 
-1. 開始のインストールプロセスを完了すると、次のメッセージが表示される場合があります。 インストールが完了すると、電子メールが届きます。 「 **完了** 」をクリックして閉じます。
+1. 開始のインストールプロセスを完了すると、次のメッセージが表示される場合があります。 インストールが完了すると、電子メールが届きます。 「**完了**」をクリックして閉じます。
 
    ![](assets/six.png)
 
@@ -52,15 +52,15 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/seven.png)
 
-1. 名前の横にある **セットアップ** をクリックします。
+1. 名前の横にある&#x200B;**セットアップ**&#x200B;をクリックします。
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 「objects」を検索し、「 **Create** 」の「 **Objects**」をクリックします。
+1. 「objects」を検索し、「**作成**」の下の「**オブジェクト**」をクリックします。
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. すべてのMarketor Sales Insight項目について、 **デプロイ済み** (Deployed)がチェックされていることを重複で確認します。
+1. **デプロイ済み**&#x200B;が、すべてのMarketo Sales Insight項目についてチェックされていることを重複で確認します。
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. 「 **Deployment Status** 」セクションで、「 **Deployed**」を選択し、「 **Save**」をクリックします。
+1. 「**展開状態**」セクションで、「**展開済み**」を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
