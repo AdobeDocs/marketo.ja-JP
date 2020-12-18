@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# グループを共有する方法 {#how-to-share-a-group}
+# グループの共有方法{#how-to-share-a-group}
 
 リードや連絡先のグループをチームと共有するのは、Sales Connectで簡単です。
 
-1. 「 **人物** 」タブに移動します。
+1. 「**ユーザー**」タブに移動します。
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 「** Group Actions**」ボタンをクリックし、「 **Share Group**」を選択します。
+1. 「** Group Actions**」ボタンをクリックし、「**Share Group**」を選択します。
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 「 **共有**」をクリックします。
+1. 「**共有**」をクリックします。
 
    ![](assets/five-1.png)
 
