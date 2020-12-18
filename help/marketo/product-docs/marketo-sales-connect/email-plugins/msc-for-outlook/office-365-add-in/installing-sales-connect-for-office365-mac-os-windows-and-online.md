@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Office 365 Mac OS、Windows、オンライン用Sales Connectのインストール {#installing-sales-connect-for-office-mac-os-windows-and-online}
+# Office365 Mac OS、Windows、およびオンライン用Sales Connectのインストール{#installing-sales-connect-for-office-mac-os-windows-and-online}
 
 Outlook Web Appsとの統合を作成しました。 Outlook Web Appsは、Office 365購読で提供されるOutlookのバージョンです。 ブラウザーベースなので、統合はMacとWindowsの両方で機能します。 [完全なインストールガイドについては、ここをクリックしてください](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
-管理者は、チーム全体の代わりにこの [インストールを行うことができます](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)。
+管理者は、チーム](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)全員の代わりに[インストールできます。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Outlook Web Appsとの統合を作成しました。 Outlook Web Appsは、Offic
 >
 >i.[ヘルプ]ボタン（一番上のナビゲーションで、[Outlook]の右）に移動します。
 >
->2. ドロップダウンメニューで **「アップデートを確認** 」を選択します。
+>2. ドロップダウンメニューで「**更新を確認**」を選択します
 >
 >iii. Outlookの最新バージョンに更新し、完了したら次の手順に戻ります
 
