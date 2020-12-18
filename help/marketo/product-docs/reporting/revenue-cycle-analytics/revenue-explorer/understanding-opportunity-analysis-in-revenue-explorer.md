@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 売上高エクスプローラでの商談分析について {#understanding-opportunity-analysis-in-revenue-explorer}
+# 売上高エクスプローラでのオポチュニティの分析について{#understanding-opportunity-analysis-in-revenue-explorer}
 
 売上高エクスプローラのオポチュニティ分析を使用すると、オポチュニティをより深いレベルで調査できます。 リードソース、業界、地域など、任意のリード/会社属性に基づいてデータをスライスし、ダイスします。 名前、ステージまたは確率に基づいて、オポチュニティの作成とクローズを分析します。 パイプラインに対するマーケティング貢献度を調べます。
 
-## 分析例 {#example-analysis}
+## 分析の例{#example-analysis}
 
 次に、「Opportunity」分析領域で作成できるレポートの例を示します。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## オポチュニティ分析のDimensionと測定 {#opportunity-analysis-dimensions-and-measures}
+## オポチュニティ分析のDimensionと測定{#opportunity-analysis-dimensions-and-measures}
 
 オポチュニティ分析を使用すると、リード、会社、オポチュニティに関連するすべてのディメンションおよびオポチュニティに関連するメジャーにアクセスできます。 これらのオポチュニティ分析のディメンションとメジャーを使用して、レポート内の特定の質問に回答します。
 
