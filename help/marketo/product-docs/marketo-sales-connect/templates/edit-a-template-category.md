@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# テンプレートカテゴリの編集 {#edit-a-template-category}
+# テンプレートカテゴリの編集{#edit-a-template-category}
 
 現時点では、カテゴリ全体を削除したり、テンプレートを一括して新しいカテゴリに移動することはできません。
 
