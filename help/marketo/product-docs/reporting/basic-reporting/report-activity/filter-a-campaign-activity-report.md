@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンアクティビティレポートのフィルタリング {#filter-a-campaign-activity-report}
+# キャンペーンアクティビティレポートのフィルタ{#filter-a-campaign-activity-report}
 
-特定のスマート [キャンペーンに対して](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)キャンペーンアクティビティ [レポートを絞り込みます](http://docs.marketo.com/display/docs/smart+campaigns)。
+[キャンペーンアクティビティレポート](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を特定の[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)に絞り込みます。
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」に移動し、キャンペーンアクティビティレポートを選択します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）に移動し、キャンペーンアクティビティレポートを選択します。
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. 「 **セットアップ** 」タブをクリックし、重複キーを押しながら **キャンペーンをクリックします。**
+1. 「**セットアップ**」タブをクリックし、**キャンペーンを重複クリックします。**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
-1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。 「 **適用**」をクリックします。
+1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。 「**適用**」をクリックします。
 
    ![](assets/image2014-9-16-16-3a14-3a11.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. 終わった！ 「 **レポート** 」タブをクリックして、レポート内で選択したスマートキャンペーン *のみを表示します* 。
+1. 終わった！ 「**レポート**」タブをクリックすると、レポート内の選択したスマートキャンペーンが&#x200B;**&#x200B;だけ表示されます。
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting)。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
