@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スニペット追加の内容 {#add-content-to-a-snippet}
+# スニペット追加{#add-content-to-a-snippet}の内容
 
 >[!PREREQUISITES]
 >
@@ -21,39 +21,39 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->スニペットに [Marketor電子メールの構文を埋め込むことはできません](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) 。電子メールでは **機能しません** 。 スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
+>スニペットに[Marketo電子メールの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。**a3/>は電子メールでは動作しません。**&#x200B;スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
 
-1. Design **Studioに移動します。**
+1. **Design Studioに移動します。**
 
    ![](assets/designstudio-2.png)
 
-1. スニペットを選択し **、** 「ドラフトを **編集**」をクリックします。
+1. **スニペット**&#x200B;を選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 スニペットには、3種類のコンテンツを追加できます。
 
-## 追加トークン {#add-token}
+## 追加トークン{#add-token}
 
-1. トー **クン** 要素をドラッグ&amp;ドロップします。
+1. **トークン**&#x200B;要素をドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. 「 **トークン** 」と入力し、「 **挿入**」をクリックします。
+1. **トークン**&#x200B;を入力し、**挿入**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
-## 追加画像/ファイル {#add-image-file}
+## 追加画像/ファイル{#add-image-file}
 
-1. **画像/ファイル** 要素をドラッグ&amp;ドロップします。
+1. **画像/ファイル**&#x200B;要素をドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
    >[!NOTE]
    >
-   >独自の画像またはファイルをMarketorに追加できます。 画 [像とファイルについての詳細](http://docs.marketo.com/display/docs/images+and+files)。
+   >独自の画像またはファイルをMarketorに追加できます。 [画像とファイル](http://docs.marketo.com/display/docs/images+and+files)の詳細を参照してください。
 
-1. 使用する **画像** を選択し、「 **挿入**」をクリックします。
+1. 使用する&#x200B;**画像**&#x200B;を選択し、「**挿入**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >
    >また、名前がわかっている特定の画像を検索することもできます。
 
-## 追加テキスト {#add-text}
+## 追加テキスト{#add-text}
 
 1. 「HTML Version」領域にテキストを入力して追加します。
 
@@ -71,11 +71,11 @@ ht-degree: 0%
    >
    >書式設定ツールを使用して、テキストをカスタマイズします。
 
-1. 電子メールの場合は、「 **テキストバージョン** 」タブをクリックします。
+1. 電子メールの場合は、「**テキストバージョン**」タブをクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. 「HTMLから **コピー**」をクリックします。
+1. 「**HTMLからコピー**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
