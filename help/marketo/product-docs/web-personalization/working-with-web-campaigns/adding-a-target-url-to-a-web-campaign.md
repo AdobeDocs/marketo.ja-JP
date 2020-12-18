@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# WebキャンペーンーへのターゲットURLの追加 {#adding-a-target-url-to-a-web-campaign}
+# ターゲットURLをWebキャンペーンに追加する{#adding-a-target-url-to-a-web-campaign}
 
 ターゲットURLはキャンペーンの設定ページの下にあり、Webキャンペーンを表示する特定のURLを定義します。
 
-## ダイアログまたはウィジェットWebキャンペーンのターゲットURLの追加 {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
+## ダイアログまたはウィジェットWebキャンペーンのターゲットURLの追加{#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 「 **新しいWebキャンペーンを作成**」を選択します。
+1. 「**新しいWebキャンペーンーを作成**」を選択します。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 追加 **キャンペーン名**。 「 **ターゲットセグメント**」を選択します。 追加 **ターゲットURL**。
+1. 追加&#x200B;**キャンペーン名**。 **ターゲットセグメント**&#x200B;を選択します。 追加&#x200B;**ターゲットURL**。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## ターゲットURLへの複数のURLの追加 {#adding-multiple-urls-to-target-url}
+## ターゲットURLへの複数のURLの追加{#adding-multiple-urls-to-target-url}
 
 プラスアイコン(![—](assets/image2015-2-18-8-3a40-3a59.png))をクリックすると、複数の値を入力ダイアログが開き、複数のURLが追加されます。 1追加行に1つのURL
 
@@ -58,24 +58,24 @@ ht-degree: 0%
 >
 >
 >* ダイアログとウィジェットのWebキャンペーンは、「任意のページ」と「ワイルドカード(*)」オプションを使用できます。
-* 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 * URLでは大文字と小文字が区別されます。
 
 
-## ゾーン内WebキャンペーンのターゲットURLを追加する {#adding-a-target-url-for-in-zone-web-campaigns}
+## ゾーン内Webキャンペーン{#adding-a-target-url-for-in-zone-web-campaigns}のターゲットURLの追加
 
-1. [ **Web** キャンペーンに移動 ****]。
+1. **Web** **キャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. 「 **新しいWebキャンペーンを作成**」を選択します。
+1. 「**新しいWebキャンペーンーを作成**」を選択します。
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. a追加**キャンペーン名** 「 **ターゲットセグメント**」を選択します。 追加 **ターゲットURL**。
+1. a追加**キャンペーン名** **ターゲットセグメント**&#x200B;を選択します。 追加&#x200B;**ターゲットURL**。
 
    >[!NOTE]
-   ゾーン内のターゲットURLは、特定のURLを定義する必要があります。 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例： [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   ゾーン内のターゲットURLは、特定のURLを定義する必要があります。 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
