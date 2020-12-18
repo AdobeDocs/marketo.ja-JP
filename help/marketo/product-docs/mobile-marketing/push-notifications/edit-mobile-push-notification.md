@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# モバイルプッシュ通知の編集 {#edit-mobile-push-notification}
+# モバイルプッシュ通知の編集{#edit-mobile-push-notification}
 
 1. 「マーケティングアクティビティ」領域に移動します。
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->プッシュ通知の [設定について詳しくは](configure-mobile-push-notification.md) 、こちらを参照してください。
+>[プッシュ通知の設定](configure-mobile-push-notification.md)について詳しくは、こちらを参照してください。
 
