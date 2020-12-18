@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 電子メールのCCまたはBCC {#cc-or-bcc-in-emails}
+# 電子メール{#cc-or-bcc-in-emails}のCCまたはBCC
 
 通常メールに送信するのと同じように、CCやBCCを個人に送信できます。
 
