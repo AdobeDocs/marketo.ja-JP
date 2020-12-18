@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforceへ追加の電子メール {#add-email-to-salesforce}
+# Salesforce追加に電子メール{#add-email-to-salesforce}
 
 Salesforceへ追加の電子メールは、OutlookまたはGmailで受信した電子メールをSalesforceアカウントにプッシュする場合に使用します。 電子メールの送信者に基づいて検索を行うので、現在、このボタンは受信した電子メールに対してのみ使用でき、送信した電子メールには使用できません。
 
