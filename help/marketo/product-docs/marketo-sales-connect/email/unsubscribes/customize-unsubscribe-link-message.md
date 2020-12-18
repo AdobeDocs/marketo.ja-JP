@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 登録解除リンクメッセージのカスタマイズ {#customize-unsubscribe-link-message}
+# 登録解除リンクメッセージのカスタマイズ{#customize-unsubscribe-link-message}
 
 チームは常に登録解除リンクメッセージのカスタマイズを許可していますが、管理者はチーム全体に対して登録解除リンクメッセージを設定し、一貫したメッセージングを確保できます。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >Sales Connectを使用したサードパーティの登録解除リンクは使用できません。この情報はデータベースに取り込まれないためです。
 
-## メッセージのカスタマイズ {#customize-messaging-for-yourself}
+## 自分のメッセージをカスタマイズ{#customize-messaging-for-yourself}
 
-1. [Webアプリケーションにログインし](http://toutapp.com/login)、右上の歯車アイコンをクリックして、「 **設定**」を選択します。
+1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「マイアカウント」で、「 **購読解除**」を選択します。
+1. 「マイアカウント」で、「**購読解除**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -41,25 +41,25 @@ ht-degree: 0%
    >
    >ハイパーリンクが設定されているURLは関係ありません。 電子メールが送信されると、そのハイパーリンクは登録解除リンクに変換されます。
 
-1. 「 **OK**」をクリックします。
+1. 「**OK**」をクリックします。
 
    ![](assets/five.png)
 
-## チームの登録解除メッセージの設定 {#set-unsubscribe-messaging-for-your-team}
+## チームの登録解除メッセージの設定{#set-unsubscribe-messaging-for-your-team}
 
-1. [Webアプリケーションにログインし](http://toutapp.com/login)、右上の歯車アイコンをクリックして、「 **設定**」を選択します。
+1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/six.png)
 
-1. 「管理者設定」で、「購読 **解除**」を選択します。
+1. 「管理設定」で、「**購読解除**」を選択します。
 
    ![](assets/eight.png)
 
-1. メッセージをカスタマイズし、完了したら「 **保存** 」をクリックします。
+1. メッセージをカスタマイズし、完了したら「**保存**」をクリックします。
 
    ![](assets/seven.png)
 
-1. 「 **I am setting the default messaging for my team** to have the messaging apply to all users」を選択します。
+1. 「**チーム**&#x200B;にデフォルトのメッセージを設定して、すべてのユーザーにメッセージを適用します。
 
    ![](assets/eleven.png)
 
