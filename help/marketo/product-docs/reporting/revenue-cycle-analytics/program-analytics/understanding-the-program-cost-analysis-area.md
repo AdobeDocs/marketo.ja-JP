@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# プログラム原価分析領域について {#understanding-the-program-cost-analysis-area}
+# プログラムコスト分析領域について{#understanding-the-program-cost-analysis-area}
 
 [プログラムコストの分析]領域では、個々のプログラムの有効性を分析したり、チャネル別の要約結果を一定期間表示したりできます。
 
-## ビジネスの質問例 {#example-business-questions}
+## ビジネスの質問の例{#example-business-questions}
 
 各チャネルが1か月に生成した新しい名前の数はいくつか。
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## プログラムコスト分析のDimensionと測定 {#program-cost-analysis-dimensions-and-measures}
+## プログラムコスト分析のDimensionと測定{#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
 >黄色の点は寸法、青の点は測定値です。
 
-## 投資 {#investment}
+## 投資{#investment}
 
 | 測定 | 説明 |
 |---|---|
@@ -49,7 +49,7 @@ ht-degree: 0%
 | 成功あたりのコスト（新しい名前） | プログラムが獲得し、プログラムの進行で成功を収めたリードあたりの平均コスト。 |
 | プログラムコスト | プログラムの総期間原価 |
 
-## メンバーシップ {#membership}
+## メンバーシップ{#membership}
 
 <table> 
  <tbody> 
@@ -72,14 +72,14 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## プログラム属性 {#program-attributes}
+## プログラム属性{#program-attributes}
 
 | Dimension | 説明 |
 |---|---|
 | プログラムチャネル | プログラムチャネル |
 | プログラム名 | プログラム名 |
 
-## プログラムコスト期間 {#program-cost-timeframe}
+## プログラムコストの時間枠{#program-cost-timeframe}
 
 | Dimension | 説明 |
 |---|---|
@@ -87,7 +87,7 @@ ht-degree: 0%
 | 四半期 | プログラムコスト期間 |
 | 月 | プログラムコスト期間 |
 
-## プログラムタグ {#program-tags}
+## プログラムタグ{#program-tags}
 
 | 測定 | 説明 |
 |---|---|
@@ -96,7 +96,7 @@ ht-degree: 0%
 | プログラム所有者 | プログラムタグ |
 | 地域 | プログラムタグ |
 
-## 成功 {#success}
+## 成功{#success}
 
 | 測定 | 説明 |
 |---|---|
