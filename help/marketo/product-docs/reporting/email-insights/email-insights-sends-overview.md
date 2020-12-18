@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 電子メールインサイトから概要が送信される {#email-insights-sends-overview}
+# 電子メールインサイトから概要{#email-insights-sends-overview}が送信される
 
 [送信]ページで、最近の電子メール通信の特性を確認します。
 
 ![](assets/one.png)
 
-[フィルタリングを使用して](filtering-in-email-insights.md) 、表示する電子メールを指定します。
+[フィルタ](filtering-in-email-insights.md)を使用して、表示する電子メールを指定します。
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**「Type** 」は、使用するアセットの種類を示します。\
-**受信者** 番号は、電子メールを送信した人の数です。\
-**配信指標** ：配信された電子メール、保留中の電子メール、またはバウンスした電子メールの数を簡単に表示できます。\
-**エンゲージメント指標** ：電子メールから開いた、クリックした、登録解除した受信者の数を簡単に表示できます。\
-**スコア** は、電子メールの [エンゲージメントスコアです](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
+**「** Type」は、使用するアセットの種類を示します。\
+**** Recipientnumberは、電子メールを送信した人の数です。\
+**配信** 指標では、配信された電子メール、保留中の電子メール、またはバウンスした電子メールの数を簡単に表示できます。\
+**アクション** 指標では、電子メールから開いた、クリックした、登録解除した受信者の数を簡単に表示できます。\
+**電子メ** ールの [エンゲージメントスコア](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)。
 
 デフォルトでは、電子メールは最新のもので並べ替えられますが、使用可能な任意の指標で並べ替えることができます。
 
