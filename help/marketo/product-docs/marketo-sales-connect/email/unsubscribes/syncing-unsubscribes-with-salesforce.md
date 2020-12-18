@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Salesforceとの登録解除の同期 {#syncing-unsubscribes-with-salesforce}
+# Salesforceとの登録解除{#syncing-unsubscribes-with-salesforce}
 
-## Salesforceと同期するための登録解除の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Salesforceとの同期を取り消すための要件{#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * 「登録解除同期」を有効にする必要があります（夜間同期用）
 * フィールドオプトアウトをSalesforceにインストールする必要があります
@@ -27,19 +27,19 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
 登録解除同期を有効にした場合（下の手順3を参照）、夜間同期が有効になります。 同期は、午後8時(PST)頃に1日1回実行されます。 MSE/ToutApp内のすべての購読解除をSalesforceのフィールドと双方向オプトアウトに同期します。
 
-## Salesforceへの登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
+## Salesforceへの登録解除同期の設定{#configure-unsubscribe-sync-to-salesforce}
 
 ユーザーは、購読解除をMarketorと同期できる標準の電子メールオプトアウトフィールドと同期するか、またはマーケティング担当者のセールスフィールドと同期してSalesの購読解除とMarketingの購読解除を区別できるオプトアウトかを決定できます。
 
-1. Webアプリケーションに移動し [、歯車アイコンをクリックし](http://toutapp.com/login)、「 **設定**」を選択します。
+1. [Webアプリケーション](http://toutapp.com/login)に移動し、歯車アイコンをクリックして、**設定**&#x200B;を選択します。
 
    ![](assets/one-1.png)
 
-1. 「管理者設定」で、「購読 **を取り消す**」を選択します。
+1. 「管理設定」で、「**購読解除**」を選択します。
 
    ![](assets/two-2.png)
 
-1. 「Salesforce **と同期**」をクリックし、夜間同期を有効にします。
+1. **Salesforce**&#x200B;と同期をクリックし、夜間同期を有効にします。
 
    ![](assets/three-2.png)
 
@@ -49,19 +49,19 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    | **Salesforceフオプトアウトィールドと同期** | デフォルトで選択されている場合は、Salesforceフオプトアウトィールドのみが更新されます。 |
    |---|---|
-   | **マーケティング担当者の販売オプトアウトフィールドと同期** | 「販売」と「マーケティング」の購読を分割する場合は、このオプションを選択して、追加の「 [販売オプトアウト」フィールドを更新します。](#msoo) |
+   | **マーケティング担当者の販売オプトアウトフィールドと同期** | 販売とマーケティングの購読を分割する場合は、このオプションを選択して、追加の[販売のオプトアウトマーケティングフィールドを更新します。](#msoo) |
 
-## ページレイアウトでのフオプトアウトィールドのインストール {#installing-the-opt-out-field-in-the-page-layout}
+## ページレイアウトオプトアウトのフィールドのインストール{#installing-the-opt-out-field-in-the-page-layout}
 
 **電子メオプトアウトール**
 
 電子メールは、Salesforceからインストールできる、Salesforceの標準フィールドです。 インストールするには、Salesforce管理者である必要があります。
 
-1. [Salesforce.comに移動し、サインインします](http://Salesforce.com) 。
+1. [Salesforce.com](http://Salesforce.com)に移動し、サインインします。
 
    ![](assets/five-1.png)
 
-1. ユーザー名をクリックし、「 **セットアップ**」を選択します。
+1. ユーザー名をクリックし、「**セットアップ**」を選択します。
 
    ![](assets/six-1.png)
 
@@ -69,15 +69,15 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    ![](assets/seven-1.png)
 
-1. 「 **ページレイアウト**」を選択します。
+1. 「**ページレイアウト**」を選択します。
 
    ![](assets/eight-1.png)
 
-1. フィールドを追加するページレイアウトの横にある **「編集** 」を選択します。
+1. フィールドを追加するページレイアウトの横にある「**編集**」を選択します。
 
    ![](assets/nine.png)
 
-1. 「 **フィールド**」を選択します。
+1. 「**フィールド**」を選択します。
 
    ![](assets/ten.png)
 
@@ -85,11 +85,11 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    ![](assets/11.png)
 
-1. 「 **保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/twelve.png)
 
-## マーケティングオプトアウトの販売 {#marketo-sales-opt-out}
+## マーケティンオプトアウトグ担当者{#marketo-sales-opt-out}
 
 「マーケティングオプトアウト先の販売」フィールドは、Marketo Sales Connectのカスタマイズをインストールしたユーザーが使用できるカスタムフィールドです。
 
