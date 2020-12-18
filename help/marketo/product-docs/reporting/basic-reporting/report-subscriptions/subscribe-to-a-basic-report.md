@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 基本レポートの購読 {#subscribe-to-a-basic-report}
+# 基本レポートのサブスクライブ{#subscribe-to-a-basic-report}
 
-基本レポートの自動更新を受け取る、または [基本レポートを共有するには](http://docs.marketo.com/display/docs/basic+reporting)、既存のレポートの電子メールアドレスを登録します。
+[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の自動更新を受け取る、または共有するには、既存のレポートに任意の電子メールアドレスを登録します。
 
 >[!NOTE]
 >
->「 [売上高サイクル・エクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 」レポート・購読については、「売上高エクスプローラ・レポートの [登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)」を参照してください。
+>[売上サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポート購読については、[売上高エクスプローラレポートの登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
 
 1. 「**マーケティングアクティビティ**」領域に移動します。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. ナビゲーションツリーでレポートを選択し、「 **購読** 」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**購読**」タブをクリックします。
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >「 **Analytics** 」タブからレポートを購読することもできます。
+   >「**Analytics**」タブからレポートを購読することもできます。
 
-1. [ **新しいレポート購読**]をクリックします。
+1. [**新しいレポート購読**]をクリックします。
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >すべてのレポート購読を1か所で [管理する方法](manage-report-subscriptions.md) 。
+   >[すべてのレポート購読](manage-report-subscriptions.md)を1か所で管理する方法を説明します。
 
    >[!NOTE]
    >
    >**ディープダイブ**
    >
    >
-   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細で、レポートで他に何ができるかを確認できます。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
 
