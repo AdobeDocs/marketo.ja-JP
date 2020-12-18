@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics追加のMarketing Serverキャンペーンへのリード/連絡先 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# Microsoft DynamicsのMarkettoキャンペーン追加へのリード/連絡先{#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 Microsoft Dynamics内から直接、Marketingのスマートキャンペーンに対して、リード/連絡先をすばやく簡単に追加できます。 これが方法です。
 
-1. Dynamicsで、「 **Sales** 」領域に移動します。
+1. Dynamicsで、**販売**&#x200B;領域に移動します。
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ Microsoft Dynamics内から直接、Marketingのスマートキャンペーン�
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. クリック** ...**を選択し、「Marketoキャンペーン **追加」を選択します**。
+1. クリック** ...**を選択し、Marketoキャンペーン&#x200B;**追加に**&#x200B;を選択します。
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. リードまたは連絡先を追加するマーケティング担当者キャンペーンを選択し、 ****&#x200B;追加をクリックします。
+1. リードまたは連絡先を追加するMarketoキャンペーンを選択し、**追加**&#x200B;をクリックします。
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >キャンペーンをドロップダウンに表示するには、キャンペーンを設定する際に、Sales Insightをソースとして、 [**キャンペーンが「リクエスト済み** 」トリガーの場合](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)、このを使用します。
+   >キャンペーンをドロップダウンに表示するには、キャンペーンを設定したときに、Sales Insightをソースとして、[**キャンペーンがリクエスト済み**&#x200B;トリガー](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)を使用します。
 
 それが全ての人々だ！ Dynamicsから直接、Marketoのスマートキャンペーンを手に入れることができます。
