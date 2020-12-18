@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# グループの登録解除 {#unsubscribe-group}
+# グループの登録解除{#unsubscribe-group}
 
 登録済みでないユーザーを1か所ですべて表示および管理します。
 
