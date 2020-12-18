@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Sales ConnectをSalesforce Sandboxに接続する方法 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# Sales ConnectをSalesforce Sandboxに接続する方法{#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->サンドボックスへの接続を確立中は、Sales ConnectアカウントをSalesforceにまだ接続できません。 接続が解除されている場合は、この記事の手順に従う前に [](http://docs.marketo.com/x/FoDq) 、接続を解除してください。
+>サンドボックスへの接続を確立中は、Sales ConnectアカウントをSalesforceにまだ接続できません。 その場合は、[この記事の手順に従う前に、](http://docs.marketo.com/x/FoDq)の接続を切断してください。
 
-1. Sales Connectで、右上の歯車アイコンをクリックし、「 **設定**」を選択します。
+1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
    ![](assets/one-2.png)
 
-1. 「統合」で、「 **CRM**」をクリックします。
+1. 「統合」で、「**CRM**」をクリックします。
 
    ![](assets/two-2.png)
 
-1. Salesforceカードで、「 **詳細情報**」をクリックします。
+1. Salesforceカードで、**詳細情報**&#x200B;をクリックします。
 
    ![](assets/three-2.png)
 
-1. ページの下部で、「Sandboxに **接続**」をクリックします。
+1. ページの下部にある「**Sandboxに接続**」をクリックします。
 
    ![](assets/four-2.png)
 
