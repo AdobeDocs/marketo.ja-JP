@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Webキャンペーンデータの書き出し {#export-web-campaign-data}
+# Webキャンペーンデータのエクスポート{#export-web-campaign-data}
 
 Webキャンペーンーデータを書き出すには、次の簡単な手順に従います。
 
-1. 「 **Webキャンペーン**」に移動。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/one-2.png)
 
