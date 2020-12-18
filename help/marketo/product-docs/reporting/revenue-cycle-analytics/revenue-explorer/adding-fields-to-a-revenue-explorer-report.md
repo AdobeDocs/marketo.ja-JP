@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 売上高エクスプローラレポートへのフィールドの追加 {#adding-fields-to-a-revenue-explorer-report}
+# 売上高エクスプローラレポートへのフィールドの追加{#adding-fields-to-a-revenue-explorer-report}
 
 ディメンションフィールドと指標フィールドをキャンバスにドラッグ&amp;ドロップして、売上高エクスプローラレポートをカスタマイズします。
 
