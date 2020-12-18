@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 表示トラッキングの仕組み {#how-view-tracking-works}
+# 表示トラッキングの仕組み{#how-view-tracking-works}
 
 送信した電子メール内に目に見えない画像を配置することで、電子メールの開封を追跡します。
 
-電子メールに誰かが返信したが、Sales Connectが表示されていないと言っていた場合、受信者が送信した可能性があります `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+誰かがあなたのメールに返信したが、Sales Connectが閲覧されていないと言っていた場合、受信者が`not enable images within their email client (i.e. click on the "click here to download images" message in the email).`した可能性があります
 
 電子メールの統計をより的確に追跡するためのヒント：
 
