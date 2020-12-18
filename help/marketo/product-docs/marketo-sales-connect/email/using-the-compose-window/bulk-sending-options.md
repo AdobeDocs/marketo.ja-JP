@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# バルク送信オプション {#bulk-sending-options}
+# バルク送信オプション{#bulk-sending-options}
 
-メールの一括送信は、見込み客の関与を促進する優れた方法です。 Sales Connectオファーは、次の2つの方法で電子メールを一括送信できます。 **電子メールのグループ化** 、 **選択および送信**。 グループ電子メールは、ターゲットグループに数百通の電子メールをすばやく送信する優れた方法です。 「選択して送信」を使用すると、電子メールの制限が小さくなりますが、ユーザーに対してより多くのカスタマイズの機会をオファーできます。
+メールの一括送信は、見込み客の関与を促進する優れた方法です。 Sales Connectオファーは、次の2つの方法で電子メールを一括送信できます。**グループ電子メール**&#x200B;と&#x200B;**選択して送信**。 グループ電子メールは、ターゲットグループに数百通の電子メールをすばやく送信する優れた方法です。 「選択して送信」を使用すると、電子メールの制限が小さくなりますが、ユーザーに対してより多くのカスタマイズの機会をオファーできます。
 
 電子メールのグループ化と選択して送信
 
@@ -28,17 +28,17 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>送信の種類</span><span></span> </p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
    <th><p><span>最大 </span><span></span><span>電子メール数</span> </p></th> 
    <th><p><span>開始された </span><span>送信者</span></p></th> 
    <th><p><span>電子メールの一括 </span><span>編集</span> </p></th> 
-   <th><p><span>Edit</span><span> Each Email </span><span>Uniquely</span> </p></th> 
+   <th><p><span></span><span> 編集各電子メール </span><span>を一意に</span> </p></th> 
    <th><p><span>テンプレートと </span><span>動的フィールドのサポート</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>グループ電子メール</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
-   <td><p><span>グループを選択して</span><span> 「グループアクション」ボタンをクリックするか </span><span></span><span>、グループ名を「宛先」フィールドに入力します。 </span> </p></td> 
+   <td><p><span>グループを選択し、「グループアクション」ボタン</span><span> をクリック </span><span>するか</span><span>、グループ名を「宛先」フィールドに入力します。  </span> </p></td> 
    <td><p><span>はい</span> </p></td> 
    <td><p><span>いいえ</span> </p></td> 
    <td><p><span>はい</span> </p></td> 
