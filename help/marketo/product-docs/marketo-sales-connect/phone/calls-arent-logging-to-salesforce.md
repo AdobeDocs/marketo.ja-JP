@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 呼び出しがSalesforceにログに記録されない {#calls-arent-logging-to-salesforce}
+# 呼び出しがSalesforceにログに記録されない{#calls-arent-logging-to-salesforce}
 
 Sales Phoneからの通話を自動的にSalesforceに記録する場合は、次の場所にあることを確認します。
 
-API接続を介して [Salesforceアカウントに接続するには、Sales Connectアカウント](http://docs.marketo.com/x/q4LS) が必要です。
+API接続を介して[Salesforceアカウント](http://docs.marketo.com/x/q4LS)に接続するには、Sales Connectアカウントが必要です。
 
-Webアプリケーションから呼び出す場合は [](http://toutapp.com/login)、その連絡先にSalesforce IDを保存する必要があります。 [ここをクリックして](http://docs.marketo.com/x/G4PS) 、Sales Connectのすべての連絡先にSalesforce IDが関連付けられていることを確認する方法を確認します。
+[Webアプリケーション](http://toutapp.com/login)から呼び出す場合は、その連絡先にSalesforce IDを保存する必要があります。 [ここをクリック](http://docs.marketo.com/x/G4PS) すると、Sales Connectのすべての連絡先にSalesforce IDが関連付けられていることを確認する方法が表示されます。
 
 >[!NOTE]
 >
