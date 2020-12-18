@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# 私は自分のアカウントから締め出された。 どうすれば？ {#i-got-locked-out-of-my-account-what-do-i-do}
+# 私は自分のアカウントから締め出された。 どうすれば？{#i-got-locked-out-of-my-account-what-do-i-do}
 
-ログイン試行回数を超えると、アカウントからロックアウトされます。 ロックを解除するには、 [](http://nation.marketo.com/community/support_solutions)サポートにお問い合わせください。
+ログイン試行回数を超えると、アカウントからロックアウトされます。 [サポート](http://nation.marketo.com/community/support_solutions)に問い合わせて、ロックを解除してください。
