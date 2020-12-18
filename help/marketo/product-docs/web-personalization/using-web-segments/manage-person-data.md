@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 個人データの管理 {#manage-person-data}
+# 個人データの管理{#manage-person-data}
 
 セグメントで使用する個人フィールドを選択して、Webパーソナライゼーションで人物データを活用します。
 
-1. 「 **アカウント設定**」に移動します。\
+1. 「**アカウント設定**」に移動します。\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 「 **Database**」に移動します。\
+1. **Database**&#x200B;に移動します。\
    ![](assets/account-settings-dropdown-database.jpg)
 
-## 新しい人物フィールドの追加 {#adding-a-new-person-field}
+## 新しい人物フィールドの追加{#adding-a-new-person-field}
 
-1. 「 **フィールド」を選択して、ドロップダウンから** 、個人データフィールドをリストに追加します。
+1. 「**フィールド」を選択して、ドロップダウンから**&#x200B;を追加し、個人データフィールドをリストに追加します。
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >    * 新しいフィールドが保留中の状態で追加され、アクティブにするのに最大24時間かかる場合があります。
 
 
-## Personフィールドの削除 {#deleting-a-person-field}
+## 人物フィールドの削除{#deleting-a-person-field}
 
-1. 削除アイコン( ![—](assets/image2015-3-24-13-3a45-3a56.png))をクリックして、リストからフィールドを削除します。 「 **はい** 」をクリックして、フィールドを削除することを確認します。
+1. 削除アイコン(![—](assets/image2015-3-24-13-3a45-3a56.png))をクリックして、リストからフィールドを削除します。 「**はい**」をクリックして、フィールドの削除を確認します。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
