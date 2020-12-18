@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# セグメントの順序の優先順位 {#segmentation-order-priority}
+# セグメント順序の優先度{#segmentation-order-priority}
 
-セグメント化で、 **順序が** 、訪問者の評価に対する優先順位をどのように設定するかを理解することが重要です。
+セグメント化で、**order**&#x200B;がユーザーの評価の優先順位をどのように設定しているかを理解することが重要です。
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 
 
-1. データ **ベースに移動します**。
+1. **データベース**&#x200B;に移動します。
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. セグメントを選択し **ます**。 [ **セグメントアクション**]で[セグメントの **編集**]をクリックします。
+1. **セグメント**&#x200B;を選択します。 **セグメントアクション**&#x200B;で、「**セグメントを編集**」をクリックします。
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-かっこいい？ セグメントは、動的コンテンツ、 [レポート](http://docs.marketo.com/display/docs/basic+reporting) 、さらに [スマートリストでも使用できます](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)。
+かっこいい？ セグメントは、動的コンテンツ[レポート](http://docs.marketo.com/display/docs/basic+reporting)、さらに[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)でも使用できます。
 
