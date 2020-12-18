@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Sales ConnectアカウントからSalesforceを切断 {#disconnect-salesforce-from-your-sales-connect-account}
+# Sales ConnectアカウントからSalesforceを切断{#disconnect-salesforce-from-your-sales-connect-account}
 
 場合によっては、SalesforceアカウントをSales Connectアカウントから切断する必要があります。 これが方法です。
 
-## 管理者としてのSalesforceとの接続を切断する方法 {#how-to-disconnect-from-salesforce-as-an-admin}
+## Salesforceと管理者の接続を切断する方法{#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Sales Connectで、右上の歯車アイコンをクリックし、「 **設定**」を選択します。
+1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
    ![](assets/one-1.png)
 
-1. 「管理設定」で、「 **Salesforce**」をクリックします。
+1. 「管理設定」で、「**Salesforce**」をクリックします。
 
    ![](assets/six-1.png)
 
-1. 「接続とカスタマイズ」タブで、「 **切断**」をクリックします。
+1. 「接続とカスタマイズ」タブで、「**切断**」をクリックします。
 
    ![](assets/seven-1.png)
 
-## 非管理者としてのSalesforceとの接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## 非管理者としてのSalesforceとの接続を切断する方法{#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Sales Connectで、右上の歯車アイコンをクリックし、「 **設定**」を選択します。
+1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
    ![](assets/one-1.png)
 
-1. 「マイアカウント」で、「 **Salesforce**」を選択します。
+1. 「マイアカウント」で、「**Salesforce**」を選択します。
 
    ![](assets/two-1.png)
 
-1. 「接続とカスタマイズ」タブで、「 **切断**」をクリックします。
+1. 「接続とカスタマイズ」タブで、「**切断**」をクリックします。
 
    ![](assets/3333.png)
 
