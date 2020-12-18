@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce Lightningでのバルクアクションの使用 {#using-bulk-actions-in-salesforce-lightning}
+# Salesforce Lightningでのバルクアクションの使用{#using-bulk-actions-in-salesforce-lightning}
 
 キャンペーンへのリードの追加、バルク電子メールの送信、SalesforceからSales Connectへのリードのプッシュなど、バルクアクションの実行方法を説明します。
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >次の手順に従う前に、Marketo Sales Connectアカウントにログインしていることを確認してください。
 
-## 一括電子メール {#bulk-email}
+## バルク電子メール{#bulk-email}
 
-1. Salesforceで、「 **リード** 」タブをクリックし、目的のリードのリストを選択します。
+1. Salesforceで、「**Leads**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >使用するリストに既に存在する場合は、ドロップダウンから選択して再実行し、MSCバルクアクションボタンが表示されることを確認する必要があります。 これは、変更できないSalesforceの動作です。
 
-1. （画面の右端にある）矢印ドロップダウンをクリックし、「 **Email with MSC**」を選択します。
+1. （画面の右端にある）矢印ドロップダウンをクリックし、「**Email with MSC**」を選択します。
 
    ![](assets/two-6.png)
 
@@ -46,31 +46,31 @@ ht-degree: 0%
 
    ![](assets/three-5.png)
 
-## キャンペーン追加へ {#add-to-campaign}
+## 追加キャンペーン{#add-to-campaign}へ
 
-1. Salesforceで、「 **リード** 」タブをクリックし、目的のリードのリストを選択します。
+1. Salesforceで、「**Leads**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/four-4.png)
 
-1. （画面の右端にある）矢印ドロップダウンをクリックし、「MSCキャンペーン **追加」を選択します**。
+1. （画面の右端にある）矢印のドロップダウンをクリックし、「**追加 to MSCキャンペーン**」を選択します。
 
    ![](assets/five-4.png)
 
-1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「 **次へ** 」をクリックし、一般的なキャンペーン・フローに従ってMSCキャンペーンをトリガーします。
+1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「**次へ**」をクリックし、一般的なキャンペーン・フローを実行して、MSCキャンペーンをトリガーします。
 
    ![](assets/six-1.png)
 
-## Marketor Sales Connectへのプッシュ {#push-to-marketo-sales-connect}
+## Marketo Sales Connectへのプッシュ{#push-to-marketo-sales-connect}
 
-1. Salesforceで、「 **リード** 」タブをクリックし、目的のリードのリストを選択します。
+1. Salesforceで、「**Leads**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/seven-2.png)
 
-1. （画面の右端にある）矢印ドロップダウンをクリックし、「 **MSCに**&#x200B;プッシュ」を選択します。
+1. （画面の右端にある）矢印ドロップダウンをクリックし、「**MSCにプッシュ**」を選択します。
 
    ![](assets/eight-2.png)
 
-1. 「Salesforce Bridge」という新しいタブが開きます。 「グループに **進む」ボタンをクリックし** ます。
+1. 「Salesforce Bridge」という新しいタブが開きます。 「**グループに進む→**」ボタンをクリックします。
 
    ![](assets/nine-2.png)
 
