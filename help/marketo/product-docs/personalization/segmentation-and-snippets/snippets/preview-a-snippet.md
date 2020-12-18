@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# スニペットのプレビュー {#preview-a-snippet}
+# スニペットのプレビュー{#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 スニペットは、セグメントルールに基づいて変化する動的コンテンツのブロックです。
 
-1. Design **Studioに移動します。**
+1. **Design Studioに移動します。**
 
    ![](assets/designstudio-3.png)
 
-1. スニペットをクリックし、 **プレビュースニペット**。
+1. スニペットをクリックし、**プレビュースニペット**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
