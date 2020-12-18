@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 新しいアカウントリストの作成 {#create-a-new-account-list}
+# 新しいアカウントリストの作成{#create-a-new-account-list}
 
 組織名とドメイン名のリストを作成し、パーソナライズされたキャンペーンを持つターゲットにこれらの主要アカウントをアップロードします。
 
 >[!NOTE]
 >
->この記事は、レガシーのWeb ABMユーザーのみを対象とします。 2016年9月以降にWeb ABMを取得した場合は、 [この記事](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .の手順に従ってください。
+>この記事は、レガシーのWeb ABMユーザーのみを対象とします。 2016年9月以降にWeb ABMを取得した場合は、[この記事](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)の手順に従ってください。
 
-## 新しいアカウントリストの作成 {#create-a-new-account-list-1}
+## 新しいアカウントリストの作成{#create-a-new-account-list-1}
 
-1. 「 **アカウントリスト**」に移動します。
+1. **アカウントリスト**&#x200B;に移動します。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. 「 **新規作成**」を選択します。
+1. 「**新規作成**」を選択します。
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 「 **参照** 」を選択し、CSVファイルをアップロードします（CSVファイルが条件を満たしていることを確認します）。 追加 **名前** と **説明**。 「 **保存**」をクリックします。
+1. 「**参照**」を選択し、CSVファイルをアップロードします（csvファイルが条件を満たしていることを確認します）。 追加&#x200B;**名前**&#x200B;と&#x200B;**説明**。 「**保存**」をクリックします。
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -69,25 +69,25 @@ ht-degree: 0%
    >    
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
-## アカウントリストの編集 {#edit-an-account-list}
+## アカウントリストの編集{#edit-an-account-list}
 
-ア **カウントリスト** ページで、リストの**編集**アイコンをクリックします。
+**アカウントリスト**&#x200B;ページで、リストの**編集**アイコンをクリックします。
 
 ![](assets/create-new-account-list-edit.jpg)
 
-「 **参照** 」を選択し、新しいCSVファイルをアップロードします。 このファイルは元のファイルを置き換えます。 「 **保存**」をクリックします。 新しくアップロードされたファイルは、マーケティング担当者のサポートによって承認されるまで保留状態になります。承認待ち状態の場合、元のファイルはアクティブなままになります。
+「**参照**」を選択し、新しいCSVファイルをアップロードします。 このファイルは元のファイルを置き換えます。 「**保存**」をクリックします。 新しくアップロードされたファイルは、マーケティング担当者のサポートによって承認されるまで保留状態になります。承認待ち状態の場合、元のファイルはアクティブなままになります。
 
 ![](assets/set-account-list-edit-hands.jpg)
 
 CSVファイルは既存のファイルを置き換えます。 既存のリストは、新しいファイルの処理が完了するまでアクティブなままです。
 
-## 名前付きアカウントリストの削除 {#delete-a-named-account-list}
+## 名前付きアカウントリストの削除{#delete-a-named-account-list}
 
 1. 「**アカウントリスト**」ページで、削除するリストの「**削除**」アイコンをクリックします。
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. リストを削除するかどうかを確認するメッセージが表示されます。 「 **OK**」をクリックします。
+1. リストを削除するかどうかを確認するメッセージが表示されます。 「**OK**」をクリックします。
 
    ![](assets/delete-notification-hand.jpg)
 
