@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# 最新のクライアントバージョン {#what-are-the-latest-client-versions}
+# 最新のクライアントバージョン{#what-are-the-latest-client-versions}
 
 以下は、Sales Connectの全クライアントの最新バージョンです。
 
