@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 電子メールのスケジュール方法 {#how-to-schedule-an-email}
+# 電子メールのスケジュール方法{#how-to-schedule-an-email}
 
-## 電子メールのスケジュール {#schedule-an-email}
+## 電子メールのスケジュール{#schedule-an-email}
 
-1. 「構成」ウィンドウで、「 **スケジュール」をクリックします。「今すぐ送信** 」ボタン。
+1. 「構成」ウィンドウで、「**スケジュール：「今すぐ送信」**&#x200B;ボタン。
 1. スケジュールウィンドウで、メッセージの送信時間を選択します。
-1. 「 **スケジュール**」をクリックします。
+1. 「**スケジュール**」をクリックします。
 
    電子メールは、コマンドセンターの[スケジュール済み]フォルダで選択した時間に配信するためにキューに入れられます。
 
    >[!NOTE]
    >
-   >**Gmailから後で電子メールを送信するようにスケジュールするには、**チェックアウトします。 [`this article`](http://docs.marketo.com/x/r4PS) `.`
+   >**Gmailから後で電子メールを送信するようにスケジュールするには、**チェックアウト[`this article`](http://docs.marketo.com/x/r4PS) `.`
 
-## スケジュールされた電子メールのキャンセル {#cancel-a-scheduled-email}
+## スケジュールされた電子メールのキャンセル{#cancel-a-scheduled-email}
 
-1. Webアプリケーションに移動し [、](http://toutapp.com/login) 「 `Command` Center」に移動します。
-1. 「ス [ケジュール済み](http://toutapp.com/next#emails/filter/sent/1) 」フィルターをクリックします。
-1. メッセージの **横にある「削除** 」をクリックします。
+1. [Webアプリケーション](http://toutapp.com/login)に移動し、`Command`センターに移動します。
+1. [スケジュール済み](http://toutapp.com/next#emails/filter/sent/1)フィルターをクリックします。
+1. メッセージの横にある「**削除**」をクリックします。
 
