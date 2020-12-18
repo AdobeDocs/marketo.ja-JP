@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sales Connectの概要 {#sales-connect-overview}
+# Sales Connectの概要{#sales-connect-overview}
 
 Marketo Sales Connectは、さまざまな機能を備えた多面的なセールス・サポート・ソリューションであり、セールス・サイクル全体を通じてエンゲージメントを促進します。
 
@@ -21,19 +21,19 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
 >
 >この機能を購入していないお客様もいます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
-## ライブフィード {#the-live-feed}
+## ライブフィード{#the-live-feed}
 
-営業担当者は、マーケティングコンテンツとセールスコンテンツの [両方に対して](http://docs.marketo.com/x/d4TS) 、リアルタイムでエンゲージメントを表示できます。
+営業担当者は、マーケティングと販売の両方のコンテンツの[リアルタイムエンゲージメント](http://docs.marketo.com/x/d4TS)を表示できます。
 
 ![](assets/engagement.jpg)
 
-## 個人の詳細表示 {#person-detail-view}
+## 個人の詳細表示{#person-detail-view}
 
-詳 [細な人の統計にアクセスします](http://docs.marketo.com/x/e4TS)。
+[詳細な人の統計](http://docs.marketo.com/x/e4TS)にアクセスします。
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## マーケティングアクティビティログでの結果の確認 {#see-results-in-your-marketo-activity-log}
+## See Results in Your Markettoアクティビティログ{#see-results-in-your-marketo-activity-log}
 
 貴社の販売活動に見込み客がどのように関与しているかを確認する。
 
@@ -63,7 +63,7 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
   </tr> 
   <tr> 
    <td colspan="1"><p>販売呼び出しの受信</p></td> 
-   <td colspan="1"><p>リードが、 <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">販売員から電話を使用して電話を受け取りました</a>。</p></td> 
+   <td colspan="1"><p>リードが、販売員から<a href="http://docs.marketo.com/x/NgDb" rel="nofollow">販売店の電話</a>を使って電話を受け取りました。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>販売追加キャンペーン</p></td> 
@@ -80,9 +80,9 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
  </tbody> 
 </table>
 
-## マーケティングキャンペーンの共有 {#share-marketing-campaigns}
+## マーケティングキャンペーンを共有{#share-marketing-campaigns}
 
-シンプルなスマートキャンペーンを作成して、販売ユーザーに [マーケティングキャンペーンデータへのアクセスを提供し](http://docs.marketo.com/x/NwDh)ます。
+シンプルなスマートキャンペーンを作成して、販売ユーザーに[Marketoキャンペーンデータ](http://docs.marketo.com/x/NwDh)へのアクセスを与えます。
 
 ![](assets/campaign-is-requested.jpg)
 
