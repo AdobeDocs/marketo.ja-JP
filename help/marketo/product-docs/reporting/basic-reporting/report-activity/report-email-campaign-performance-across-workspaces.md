@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メールのレポート、ワークスペース全体でのキャンペーンパフォーマンス {#report-email-campaign-performance-across-workspaces}
+# 電子メールのレポート、ワークスペース間のキャンペーンのパフォーマンス{#report-email-campaign-performance-across-workspaces}
 
-「グローバルレポート」をオンにすると、電子メールのパフォーマンス [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) 、電子メールのリンクのパフォーマンス [、](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)キャンペーンのアクティビティのワークスペースのすべての [](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)[](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) のデータが含まれます。
+「グローバルレポート」をオンにすると、](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)電子メールのパフォーマンス[、](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)電子メールのリンクのパフォーマンス[および](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)キャンペーンのアクティビティ[のすべてのマーケティング先のワークスペース[のデータが含まれます。](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 
-1. 「 **Analytics** (または **マーケティングアクティビティ**)」領域に移動します。
+1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. 「 **セットアップ** 」タブをクリックし、重複キーを押しながら「 **グローバルレポート**」をクリックします。
+1. 「**セットアップ**」タブをクリックし、「**グローバルレポート**」を重複クリックします。
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. 「 **有効**」を選択します。
+1. 「**有効**」を選択します。
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. それだけだ！ 「 **レポート** 」タブをクリックして、すべてのワークスペースのデータを表示します。
+1. それだけだ！ 「**レポート**」タブをクリックすると、すべてのワークスペースのデータが表示されます。
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting) 。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
