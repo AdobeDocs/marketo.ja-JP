@@ -19,17 +19,17 @@ Marketor Unsubscribe Checkは、チームのMarketingへの接続を使用して
 >
 >**必要な管理者権限**
 
-## オンにする {#turning-it-on}
+## {#turning-it-on}をオンにする
 
-1. Webアプリケーションで、歯車アイコンをクリックし、「 **設定**」を選択します。
+1. Webアプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
-1. 「管理者設定」で、「購読 **解除**」をクリックします。
+1. 「管理者設定」で、「**購読解除**」をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「 **統合**」をクリックします。
+1. 「**統合**」をクリックします。
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Marketor Unsubscribe Checkは、チームのMarketingへの接続を使用して
 
    ![](assets/four-2.png)
 
-## 知っておくべきこと {#things-to-know}
+## {#things-to-know}の知り合い
 
 Marketor Unsubscribeチェック…
 
