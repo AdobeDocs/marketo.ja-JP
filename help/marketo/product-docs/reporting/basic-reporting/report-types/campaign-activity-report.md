@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンアクティビティレポート {#campaign-activity-report}
+# キャンペーンアクティビティレポート{#campaign-activity-report}
 
-ス [マートキャンペーンのパフォーマンスを確認](http://docs.marketo.com/display/docs/smart+campaigns) 。
+[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)の動作を確認します。
 
-1. [レポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、 **キャンペーンアクティビティ**[](report-type-overview.md)レポートタイプを選択します。
-1. [レポートの期間を設定し、](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 「 **レポート** 」タブをクリックします。
+1. [レポートを作成し、](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 「 **キャンペーンアクティビティ」レポートタイプを選択し** [](report-type-overview.md)ます。
+1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 1. 素晴らしい！ レポートを調べて、最も効果的なキャンペーンをキャンペーンタイプ別にグループ化して特定します。
 
    ` ![](assets/image2014-9-16-16-3a8-3a45.png)
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >例えば、最も多くの人を処理したキャンペーンを検索するには、「処理済みの人 [数合計](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)*」を* 並べ替え、「並べ替え ****」を選択します。
+   >最も多くの人を処理したキャンペーンを検索するには、例えば[*処理した人数合計*&#x200B;でレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を降順選択します。
 
-   スマートキャンペーンの名前をクリックして開きます。  [キャンペーンアクティビティレポート用に選択できる列は](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 、次のとおりです。
+   スマートキャンペーンの名前をクリックして開きます。  [キャンペーンアクティビティレポート用に](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
    | 列 | 説明 |
    |---|---|
    | バッチ実行回数 | キャンペーンが実行された回数。 |
    | 処理された人数合計 | キャンペーンの流れを通過した人の数です。 |
-   | 待機ステップのユーザー | キャンペーンがまだ実行中の場合は、 *待機* 手順に留まる人の数です。 |
+   | 待機ステップのユーザー | キャンペーンがまだ実行中の場合は、*待機*&#x200B;ステップに残る人の数です。 |
    | フローから削除 | キャンペーンから削除された人の数です。 |
    | 最後のアクティビティ | 人が最後にキャンペーンによって処理された時間。 |
 
@@ -41,10 +41,10 @@ ht-degree: 0%
 
    | タイプ | 説明 |
    |---|---|
-   | バッチ | 「 **マーケティングアクティビティ** 」タブのバッチキャンペーン。 |
-   | アクションの実行 | 個人アクションは、 **データベースから実行されます**。 |
-   | トリガー（アクティブ） | 「マー **ケティングアクティビティ** 」タブの現在のトリガーされるキャンペーン。 |
-   | トリガー済み（非アクティブ） | 「 **マーケティングアクティビティ** 」タブの非アクティブなトリガーされたキャンペーン。 |
+   | バッチ | 「**マーケティングアクティビティ**」タブのバッチキャンペーン。 |
+   | アクションの実行 | ユーザーアクションは、**データベース**&#x200B;から実行されます。 |
+   | トリガー（アクティブ） | 現在トリガーされているキャンペーンは、「**マーケティングアクティビティ**」タブにあります。 |
+   | トリガー済み（非アクティブ） | **「マーケティングアクティビティ**」タブの非アクティブなトリガーされたキャンペーン。 |
 
    >[!NOTE]
    >
@@ -55,5 +55,5 @@ ht-degree: 0%
    >    * [キャンペーンアクティビティレポートのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   その他のレポートについては、 [基本レポートを参照してください](http://docs.marketo.com/display/docs/basic+reporting)。
+   [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートをもっと見る。
 
