@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# テンプレートを使用したWebキャンペーンの作成 {#using-templates-to-create-web-campaigns}
+# テンプレートを使用したWebキャンペーンの作成{#using-templates-to-create-web-campaigns}
 
-組み込みのテンプレートを使用するか、独自のテンプレートを [保存することで、Webキャンペーンの作成プロセスを迅速かつシンプルにします](save-your-campaign-as-a-template.md)。
+組み込みのテンプレートを使用するか、[独自の](save-your-campaign-as-a-template.md)を保存することで、Webキャンペーンの作成プロセスを迅速かつシンプルにします。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >モバイルキャンペーンの場合は、「 **mobile** 」セクションからテンプレートを選択します。
+   >モバイルキャンペーンの場合は、**mobile**&#x200B;セクションからテンプレートを選択します。
 
 1. テンプレートをカスタマイズします。
 
