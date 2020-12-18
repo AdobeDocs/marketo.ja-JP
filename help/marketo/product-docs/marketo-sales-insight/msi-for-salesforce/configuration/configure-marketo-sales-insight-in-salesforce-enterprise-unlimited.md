@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定 {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
+# Salesforce EnterpriseでのMarketor Sales Insightの設定/無制限{#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定するために必要な手順を以下に示します。 始めましょう。
 
@@ -28,18 +28,18 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
 >
 >**必要な管理者権限**
 
-## MarketorでのSales Insightの設定 {#configure-sales-insight-in-marketo}
+## MarketorでのSales Insightの設定{#configure-sales-insight-in-marketo}
 
 1. 新しいブラウザーウィンドウを開き、MarketoアカウントからMarketo Sales Insightの資格情報を取得します。
-1. 「管理者」領域に移動し、「 **販売インサイト**」を選択します。
+1. 「管理者」領域に移動し、「**販売インサイト**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
-1. 「 **API設定を編集**」をクリックします。
+1. 「**API設定を編集**」をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. 選択したAPI秘密キーを入力し、「 **保存**」をクリックします。 API秘密鍵にはアンパサンド(&amp;)を使用しないでください。
+1. 選択したAPI秘密キーを入力し、「**保存**」をクリックします。 API秘密鍵にはアンパサンド(&amp;)を使用しないでください。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -47,41 +47,41 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
    >
    >API秘密キーは、組織のパスワードのようなもので、セキュリティで保護する必要があります。
 
-1. Rest API設定パネルで **表示** をクリックして、秘密鍵証明書を入力します。
+1. Rest API設定パネルで&#x200B;**表示**&#x200B;をクリックして、秘密鍵証明書を入力します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
-1. 確認ポップアップが表示されます。 「 **OK**」をクリックします。
+1. 確認ポップアップが表示されます。 「**OK**」をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 
-## SalesforceでのSales Insightの設定 {#configure-sales-insight-in-salesforce}
+## SalesforceでのSales Insightの設定{#configure-sales-insight-in-salesforce}
 
-1. Salesforceで、「 **セットアップ**」をクリックします。
+1. Salesforceで、**セットアップ**&#x200B;をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
-1. 「remote site」を検索し、「 **Remote Site Settings**」を選択します。
+1. 「remote site」を検索し、「**Remote Site Settings**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
-1. [ **新規リモートサイト**]をクリックします。
+1. [**新しいリモートサイト**]をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. リモートサイト名を入力します（「MarketoSoapAPI」など）。 MarketoのSoap API設定パネルから、MarketoホストURLである「リモートサイトURL」を入力します。 「 **保存**」をクリックします。 Soap APIのリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoSoapAPI」など）。 MarketoのSoap API設定パネルから、MarketoホストURLである「リモートサイトURL」を入力します。 「**保存**」をクリックします。 Soap APIのリモートサイト設定が作成されました。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
-1. [ **新しいリモートサイト** ]を再度クリックします。
+1. 「**新しいリモートサイト**」を再度クリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. リモートサイト名を入力します（「MarketoRestAPI」など）。 リモートサイトURLを入力します。これは、MarketoのRest API設定パネルから取得したAPI URLです。 「 **保存**」をクリックします。 Rest APIのリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoRestAPI」など）。 リモートサイトURLを入力します。これは、MarketoのRest API設定パネルから取得したAPI URLです。 「**保存**」をクリックします。 Rest APIのリモートサイト設定が作成されました。
 
-## Marketor Sales Insightの設定 {#set-up-marketo-sales-insight}
+## Marketor Sales Insightの設定{#set-up-marketo-sales-insight}
 
-1. Marketorインスタンスにログインし、「 **管理者**」をクリックします。
+1. Marketoインスタンスにログインし、**管理者**&#x200B;をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -89,11 +89,11 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
-1. 「 **API設定を編集**」をクリックします。
+1. 「**API設定を編集**」をクリックします。
 
    ![](assets/image2015-5-22-15-3a15-3a0.png)
 
-1. **API秘密キーを入力し** 、「 **保存**」をクリックします。
+1. **API秘密キー**&#x200B;を入力し、**保存**&#x200B;をクリックします。
 
    >[!CAUTION]
    >
@@ -105,45 +105,45 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
    >
    >この窓は開いたままにしておけ。 この情報は、後でSalesforceで必要になります。
 
-1. Salesforceに戻り、「 **セットアップ**」をクリックします。
+1. Salesforceに戻り、**セットアップ**&#x200B;をクリックします。
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 「remote site」を検索し、「 **Security Controls** 」の「 **Remote Site Setting**」をクリックします。
+1. 「リモートサイト」を検索し、**セキュリティコントロール**&#x200B;の下の&#x200B;**リモートサイト設定**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-17-3a25-3a52.png)
 
-1. [ **新規リモートサイト**]をクリックします。
+1. [**新しいリモートサイト**]をクリックします。
 
    ![](assets/image2014-9-24-17-3a26-3a6.png)
 
-1. 「 **リモートサイト名** 」と「 **リモートサイトURL**」を入力し、「 **保存**」をクリックします。
+1. **リモートサイト名**&#x200B;と&#x200B;**リモートサイトURL**&#x200B;を入力し、**保存**&#x200B;をクリックします。
 
    ![](assets/remote-site.png)
 
    >[!NOTE]
    >
-   >「 **リモートサイト名** 」を選択します（MarketoAPIはここで使用します）。 リ **モートサイトURLは** 、手順4のAPI設定を編集ダイアログボックスのMarketo Hostフィールドにあります。
+   >**リモートサイト名**&#x200B;を選択します（MarketoAPIはここで使用します）。 **リモートサイトURL**&#x200B;は、手順4のAPI設定を編集ダイアログボックスの「Marketo Host」フィールドにあります。
 
-## ページレイアウトのカスタマイズ {#customize-page-layouts}
+## ページレイアウトのカスタマイズ{#customize-page-layouts}
 
-1. 「 **設定**」をクリックします。
+1. 「**セットアップ**」をクリックします。
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 「page layout」を検索し、「 **Leads** 」の下の「 **Page Layout**」を選択します。
+1. 「ページレイアウト」を検索し、「**リード**」の下の「**ページレイアウト**」を選択します。
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 左側の「**Visualforceページ**」をクリックします。 「 **セクション** 」を「カスタムリンク」セクションの下のレイアウトにドラッグします。
+1. 左側の「**Visualforceページ**」をクリックします。 **セクション**&#x200B;を「カスタムリンク」セクションの下のレイアウトにドラッグします。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. 「 **セクション名**」に「Marketto Sales Insight」と入力します。 「 **1-Column** 」を選択し、「 **OK**」をクリックします。
+1. **セクション名**&#x200B;として「Marketo Sales Insight」と入力します。 「**1 — 列**」を選択し、「**OK**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. リー **ド** を新しいセクションにドラッグ&amp;ドロップします。
+1. **リード**&#x200B;を新しいセクションにドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -151,11 +151,11 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
    >
    >このボックスの名前は、オブジェクトの種類に応じて変わります。 例えば、連絡先のページレイアウトを変更する場合は、「連絡先」と表示されます。
 
-1. 先ほど追加した **リード** ブロックを重複クリックします。
+1. 追加した&#x200B;**リード**&#x200B;ブロックを重複クリックします。
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. 高さを450 **ピクセルに編集し、** 「OK ****」をクリックします。
+1. 高さを&#x200B;**450**&#x200B;ピクセルに編集し、**「OK**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
@@ -163,7 +163,7 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
    >
    >AccountsおよびOpportunitiesオブジェクトの高さは、410ピクセルにすることをお勧めします。
 
-1. 左側の「**フィールド**」をクリックします。 次に、「 **Engagement** 」ラベルを検索し、 **Marketor Sales Insight** レイアウトにドラッグします。
+1. 左側の「**フィールド**」をクリックします。 次に、**エンゲージメント**&#x200B;ラベルを検索し、**マーケティング担当者向けSales Insight**&#x200B;レイアウトにドラッグします。
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -195,32 +195,32 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
  </tbody> 
 </table>
 
-1. 終了したら、 **「保存** 」をクリックします。
+1. 終了したら、**保存**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. この手順を繰り返して、 **Contact**、 **Account** 、 **OpportunityのVisualforceページセクションとSales Insightフィールドを追加します**。
-1. 手順5 ～ 7を繰り返して、連絡先、アカウント、オポチュニティのVisualforceページセクションを追加します。 次に、手順8 ～ 10を繰り返して、 **ContactにSales Insightフィールドを追加します**。 変更があったら必ず保存してください。
+1. この手順を繰り返して、**連絡先**、**アカウント**、**商談**&#x200B;に対してVisualforceページセクションとSales Insightフィールドを追加します。
+1. 手順5 ～ 7を繰り返して、連絡先、アカウント、オポチュニティのVisualforceページセクションを追加します。 次に、手順8 ～ 10を繰り返して、**連絡先**&#x200B;の「Sales Insight」フィールドを追加します。 変更があったら必ず保存してください。
 
-## ユーザー設定のユーザーフィールドのマッピング {#map-custom-person-fields}
+## ユーザー設定フィールドのマッピング{#map-custom-person-fields}
 
 変換が正しく機能するように、Marketing担当者のフィールドをSalesforceの連絡先フィールドにマッピングする必要があります。 これが方法です。
 
-1. 「 **設定**」をクリックします。
+1. 「**セットアップ**」をクリックします。
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. 検索バーで「フィールド」を検索し、「リード **」の下にある「** フィールド **」をクリックし**&#x200B;ます。
+1. 検索バーで「フィールド」を検索し、「**リード**」の下の「**フィールド**」をクリックします。
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 
-1. 「リードフィールドの **マップ**」をクリックします。
+1. 「**Map Lead Fields**」をクリックします。
 
    ** ![](assets/image2015-6-1-9-3a58-3a48.png)
 
    **
 
-1. 右側のドロップダウンをクリックして、「 **エンゲージメント**」を選択します。
+1. 右側のドロップダウンをクリックして、**アクション**&#x200B;を開きます。
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
@@ -269,19 +269,19 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
 
 1. 終了したら「**保存**」をクリックします。
 
-## Marketto Sales Insightの設定 {#marketo-sales-insight-config}
+## Marketo Sales Insight Config {#marketo-sales-insight-config}
 
-1. 「**+ **」をクリックし、「 **Marketto Sales Insight Config**」を選択します。
+1. 「**+ **」をクリックし、「**Marketto Sales Insight Config**」を選択します。
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. 「Marketto APIを **有効にする**」を選択します。 次に、Markettor管理者の [API設定情報を入力します](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)。 終了したら「**変更を保存**」をクリックします。
+1. **Marketo API**&#x200B;を有効にするをチェックします。 次に、Marketo Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)の[API設定情報を入力します。 終了したら「**変更を保存**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >診断テストが失敗した場合は、ページレイアウトにフィールドを [追加する必要がある場合があります](http://nation.marketo.com/docs/DOC-1115)。
+   >診断テストが失敗した場合は、[ページレイアウト](http://nation.marketo.com/docs/DOC-1115)にフィールドを追加する必要がある場合があります。
 
 それだ！ リード、連絡先、アカウント、オポチュニティの「Marketo Sales Insight」フィールドを表示できるはずです。
 
@@ -291,10 +291,10 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
 >
 >アカウントの場合、Sales Insightにはすべての電子メールが含まれますが、最新の興味深い瞬間、Webアクティビティ、スコアの変更のみが含まれます。
 
-## マーケティングに対する販売インサイトへのアクセス {#access-marketo-sales-insight}
+## Marketing to Sales Insight {#access-marketo-sales-insight}へのアクセス
 
-1. Salesforceで、タブバーの最後にある **+をクリック** し、「 **Marketor Sales Insight Config**」をクリックします。
-1. 「Marketto APIを **有効にする** 」チェックボックスを選択します。
+1. Salesforceで、タブバーの末尾の&#x200B;**+**&#x200B;をクリックし、**Marketto Sales Insight Config**&#x200B;をクリックします。
+1. 「Marketto API **を有効にする」チェックボックスを選択します。**
 1. MarketorのSales Insight管理者ページのSoap APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのSoap APIセクションに貼り付けます。
 1. MarketorのSales Insight管理者ページのRest APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのRest APIセクションに貼り付けます。
 
