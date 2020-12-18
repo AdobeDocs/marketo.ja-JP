@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 売上高モデルのフェーズについて {#understanding-revenue-model-phases}
+# 売上高モデルのフェーズについて{#understanding-revenue-model-phases}
 
 フェーズは、複数のステージをグループ化する方法です。 モデル内の複数のステージがファネルの1つのフェーズを反映する場合があります。
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
-## モデルのフェーズを定義する {#define-the-phases-of-the-model}
+## モデルのフェーズを定義{#define-the-phases-of-the-model}
 
-1. [ **フェーズ]をクリックします。**
+1. 「**フェーズ」をクリックします。**
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
