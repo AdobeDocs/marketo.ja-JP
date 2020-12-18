@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Outlook用電子メールインを使用した電子メールの追加送信と追跡 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Outlook用の電子メールインを使用した電子メールの送信と追跡追加{#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 Marketoの電子メールは、Outlookから直接送信および追跡できます。
 
 >[!PREREQUISITES]
 >
->まだOutlook用の [Marketo電子メールアドインをインストールしていない場合は、](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)Marketo電子メールアドインをインストールします。
+>まだインストールしていない場合は、[MarketoのOutlook用アドインを電子メールで送信する](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)をインストールします。
 
 1. Microsoft Outlookを開き、新しい電子メールを作成します。
 
@@ -27,7 +27,7 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
    >
    >電子メールに複数の受信者を含めると、最初の受信者ですべてのアクティビティが追跡されます。
 
-1. 通常どおりに電子メールを作成し、「 **送信して追跡**」をクリックします。
+1. 通常どおりに電子メールを作成し、[**送信して追跡**]をクリックします。
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,9 +37,9 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
    >[!TIP]
    >
-   >Marketorテンプレートを使用する場合は、「Outlookから [送信し、追跡するテンプレートを使用する](send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
+   >Marketoテンプレートを使用する場合は、「[Outlookからの送信と追跡テンプレート](send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
 
-1. プレビューを確認し、「 **送信**」をクリックします。
+1. プレビューを見て、「**送信**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
