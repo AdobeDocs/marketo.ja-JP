@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salesforceフィールドアクセシビリティの編集 {#edit-salesforce-field-accesibility}
+# Salesforceフィールドアクセシビリティの編集{#edit-salesforce-field-accesibility}
 
 Salesforceへの電子メールアクティビティログが表示されない場合は、チームのフィールドのアクセシビリティの制限が原因の可能性があります。
 
