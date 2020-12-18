@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# ABMを使用したアカウントベースのWebマーケティング {#account-based-web-marketing-with-abm}
+# ABMを使用したアカウントベースのWebマーケティング{#account-based-web-marketing-with-abm}
 
-Marketorは、新しい [アカウントベースのマーケティング](http://docs.marketo.com/display/docs/account+based+marketing) (ABM)アプリケーションを導入しました。
+Marketorは、新しい[アカウントベースのマーケティング](http://docs.marketo.com/display/docs/account+based+marketing)(ABM)アプリケーションを導入しました。
 
 マーケティングツールのウェブパーソナライゼーションと新しいアカウントベースマーケティング(ABM)を使用する場合：
 
@@ -23,18 +23,18 @@ Marketorは、新しい [アカウントベースのマーケティング](http:
 
    * **注意**:同期には最大5分かかる場合があります
 
-* Webパーソナライゼーションでは、ABMで作成したアカウントリストから [セグメントターゲットアカウントを作成し](create-a-segment-using-an-account-list.md) 、これらのアカウント用にコンテンツをパーソナライズできます。
+* Webパーソナライゼーションでは、ABMで作成したアカウントリスト](create-a-segment-using-an-account-list.md)からアカウントをターゲットにした[セグメントを作成し、これらのアカウント用にコンテンツをパーソナライズできます
 
-## 既存のWeb ABMのお客様の場合 {#for-existing-web-abm-customers}
+## 既存のWeb ABMのお客様向け{#for-existing-web-abm-customers}
 
 既にWeb ABMを使用している場合：
 
-* Web ABM *およびABMでアカウントリストを作成でき* ます。
+* ABMのWeb ABM *および*&#x200B;にアカウントリストを作成できます
 * ABM *および*のWeb ABMでアカウントリストを作成、編集、削除できます
 * アカウントリスト（Web ABMとABMの両方から）は、セグメントで使用するためにWebパーソナライゼーションと同期されます
 
    * **注意**:同期には最大5分かかる場合があります
 
-* Webパーソナライゼーションでは、Web ABMとABMの *両方で作成されたアカウントリストから、ターゲットアカウントのセグメントを作成し* 、これらのアカウント用にコンテンツをパーソナライズできます
+* Webパーソナライゼーションでは、*Web ABMとABMの両方*&#x200B;で作成されたアカウントリストから、ターゲットアカウントのセグメントを作成し、これらのアカウント用にコンテンツをパーソナライズできます
 * CSVファイルは、ウェブパーソナライゼーションのアカウントリストページでアップロードできます
 
