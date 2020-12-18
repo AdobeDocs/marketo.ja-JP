@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# アプリ内メッセージのスケジュール {#schedule-your-in-app-message}
+# アプリ内メッセージのスケジュール{#schedule-your-in-app-message}
 
 今すぐメッセージを送信するか、後で送信するようにスケジュールします。
 
-1. アプリ内メッセージをスケジュールするには、「 **未来の日付を設定** 」を選択し、ドロップダウンカレンダーから開始日を選択します。
+1. アプリ内メッセージのスケジュールを設定するには、「**将来の日付を設定**」を選択し、ドロップダウンカレンダーから開始日を選択します。
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. または、今すぐプログラムを実行する場合は、「すぐに **実行**」を選択します。 「開始日」フィールドが非表示になります。
+1. または、今すぐプログラムを実行するには、「**すぐに実行**」を選択します。 「開始日」フィールドが非表示になります。
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-簡単！ 最後で最も重要なのが [承認](approve-your-in-app-message.md) 手順です。
+簡単！ 最後ですが、少なくとも[承認](approve-your-in-app-message.md)ステップです。
