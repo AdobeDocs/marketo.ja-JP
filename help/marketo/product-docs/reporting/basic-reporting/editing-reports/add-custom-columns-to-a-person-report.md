@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 個人追加レポートのカスタム列 {#add-custom-columns-to-a-person-report}
+# 人追加物レポートのカスタム列{#add-custom-columns-to-a-person-report}
 
-スマートリストをカスタム列として使用すると [、](http://docs.marketo.com/display/docs/basic+reporting) 個人レポートの指標をさらにフィルターできます [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) 。
+[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、&lt;a0/>個人レポート](http://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。[
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」領域に移動します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
    ![](assets/ma-1.png)
 
-1. レポートを選択し、「 **設定** 」タブをクリックします。
+1. レポートを選択し、「**セットアップ**」タブをクリックします。
 
    ![](assets/two-1.png)
 
-1. 「 **カスタム列」の上にドラッグします**。
+1. **カスタム列**&#x200B;の上にドラッグします。
 
    ![](assets/three-1.png)
 
@@ -36,9 +36,9 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >スマートリストと静的リストの詳細について、 [スマートリストの作成および設定方法を説明し](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) ます。
+   >[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)の深い解説で、スマートリストを作成し、構成する方法を説明します。
 
-1. やった！ [ **レポート** ]タブをクリックすると、新しい列を含むレポートが表示されます。
+1. やった！ [**レポート**]タブをクリックすると、新しい列を含むレポートが表示されます。
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >「 [追加Opportunity」列を「Lead」レポートに追加することもできます](add-opportunity-columns-to-a-lead-report.md)。
+   >[追加Opportunity列をリードレポート](add-opportunity-columns-to-a-lead-report.md)に&lt;a0/>することもできます。
 
    >[!NOTE]
    >
    >**ディープダイブ**
    >
    >
-   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細レポートで実行できる多くの機能の詳細を説明します。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜在地のレポートでできる多くのことの詳細を説明します。
 
