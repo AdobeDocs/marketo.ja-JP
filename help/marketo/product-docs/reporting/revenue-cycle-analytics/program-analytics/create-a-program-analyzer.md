@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プログラム分析計の作成 {#create-a-program-analyzer}
+# プログラムアナライザの作成{#create-a-program-analyzer}
 
 どのプログラムとチャネルが貴社のマーケティングコストに最も大きな効果をもたらしているかを見つけ出します。 プログラムアナライザを使用して、すべてのコストとリターンを詳細、プログラム別、またはチャネル別に詳細に調査、比較します。
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**Reminder**
 >
->プログラムアナライザから適切なデータを取得するには、CRMの担当者にオポチュニティに対する役割があり、Marketoプログラムが完全に設定されていること、 [期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
+>プログラムアナライザーから適切なデータを取得するには、CRMの担当者にオポチュニティの役割があり、Marketoプログラムが完全に設定されていること、および[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
 
 >[!TIP]
 >
->コストのないプログラムをプログラムアナライザに表示するには、期間のコスト [](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) を0ドルに設定します。
+>コストのかからないプログラムをプログラムアナライザーに表示させるには、[期間のコスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)を$0に設定します。
 
 1. 「解析」タイルをクリックします。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >特定の範囲を選択するには、「 **カスタム** 」を選択し、「 **開始日** 」フィールドと「 **終了日** 」フィールドを使用します。
+   >特定の範囲を選択するには、「**カスタム**」を選択し、「**開始日**」と「**終了日**」の各フィールドを使用します。
 
 1. 新しいカスタム・アナライザを保存する場合は、[Analyzerのアクション]ドロップダウンで[名前を付けて保存]を選択します。
 
@@ -75,8 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->プログラムアナライザーで選択できる指標の多くは、ファーストタッチ(FT)およびマルチタッチ(MT)の計算で使用できます。 FTとMTアトリビューションの [違いを理解することが重要です](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)。
+>プログラムアナライザーで選択できる指標の多くは、ファーストタッチ(FT)およびマルチタッチ(MT)の計算で使用できます。 FTとMTのアトリビューション](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)の[の違いを理解することが重要です。
 
 >[!NOTE]
 >
->詳しくは、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) および [売上高サイクルエクスプローラーを参照してください](http://docs.marketo.com/display/docs/revenue+cycle+analytics)。
+>詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)を参照してください。
