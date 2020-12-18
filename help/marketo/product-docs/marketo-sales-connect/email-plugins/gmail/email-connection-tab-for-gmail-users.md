@@ -11,45 +11,45 @@ ht-degree: 0%
 ---
 
 
-# Gmailユーザー用の「電子メール接続」タブ {#email-connection-tab-for-gmail-users}
+# Gmailユーザー用の「電子メール接続」タブ{#email-connection-tab-for-gmail-users}
 
 Gmailに接続すると、返信追跡、Gmail配信チャネルへのアクセス、Gmailでの電子メールのスケジュール設定、およびコンプライアンスの送信を受け取ることができます。
 
-1. Sales Connectで、歯車アイコンをクリックし、「 **設定**」を選択します。
+1. 「Sales Connect」で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「マイアカウント」で、「 **電子メール設定**」を選択します。
+1. 「マイアカウント」で、「**電子メール設定**」を選択します。
 
    ![](assets/two.png)
 
-1. 「 **電子メール接続** 」タブをクリックします。
+1. 「**電子メール接続**」タブをクリックします。
 
    ![](assets/three.png)
 
-1. 「 **開始**」をクリックします。
+1. 「**開始**」をクリックします。
 
    ![](assets/four.png)
 
-1. 「 **I use Gmail（Gmailを使用して電子メールを送信する）」を選択し** 、「 **次へ**」をクリックします。
+1. 「**Gmailを使用して電子メールを送信**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/five.png)
 
-1. 「 **OK**」をクリックします。
+1. 「**OK**」をクリックします。
 
    ![](assets/six.png)
 
-1. Gmailに既にログインしている場合は、接続するアカウントを選択します。 該当しない場合は、Gmailアドレスを入力し、「 **次へ**」をクリックします。 この例では、まだログインしていません。
+1. Gmailに既にログインしている場合は、接続するアカウントを選択します。 該当しない場合は、Gmailアドレスを入力し、「**次へ**」をクリックします。 この例では、まだログインしていません。
 
    ![](assets/seven.png)
 
-1. パスワードを入力し、「 **次へ**」をクリックします。
+1. パスワードを入力し、「**次へ**」をクリックします。
 
    ![](assets/eight.png)
 
-1. 「 **許可**」をクリックします。
+1. 「**許可**」をクリックします。
 
    ![](assets/nine.png)
 
-   この接続を使用して、電子メールを追跡したり、配信チャネル [として追跡したりできます](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)。
+   この接続を使用して、電子メールを追跡できます。また、配信チャネル](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)としても[追跡できます。
 
