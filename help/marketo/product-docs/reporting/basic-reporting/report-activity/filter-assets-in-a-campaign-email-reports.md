@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# キャンペーンの電子メールレポートでのアセットのフィルタリング {#filter-assets-in-a-campaign-email-reports}
+# キャンペーンの電子メールレポート内のアセットのフィルタ{#filter-assets-in-a-campaign-email-reports}
 
-プログラム内の特定のスマートキャンペーン [（「ローカルアセット」）またはアーカイブされたスマートキャンペーン](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) に対して、「 [の電子メールパフォーマンス](http://docs.marketo.com/display/docs/smart+campaigns) 」レポートを絞り込みます。
+プログラムー内の特定の[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)、またはアーカイブされたキャンペーンに対する[の電子メールパフォーマンス](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)レポートの焦点を絞ります。
 
-1. 「**Analytics **」(または「 **マーケティングアクティビティ**」)領域に移動します。
+1. 「**Analytics **(または&#x200B;**マーケティングアクティビティ**)」領域に移動します。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. 「 **設定** 」タブをクリックし、フィルターの上にドラッグします。
+1. 「**セットアップ**」タブをクリックし、フィルターの上にドラッグします。
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. 終わった！ フィルターを適用したレポートを表示するには、 **「レポート** 」タブをクリックします。
+1. 終わった！ 「**レポート**」タブをクリックして、フィルターを適用したレポートを表示します。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートに関するすべての情報は、 [基本レポートで説明します](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
