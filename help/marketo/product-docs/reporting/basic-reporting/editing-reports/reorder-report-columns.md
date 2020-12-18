@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# レポート列の並べ替え {#reorder-report-columns}
+# レポート列の並べ替え{#reorder-report-columns}
 
 レポート内の列の順序は変更できます。
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」領域に移動します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. ナビゲーションツリーでレポートを選択し、「 **レポート** 」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**レポート**」タブをクリックします。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートを使用するすべての機能について、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)。
+   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)で、レポートを操作する機能をすべて学びます。
 
