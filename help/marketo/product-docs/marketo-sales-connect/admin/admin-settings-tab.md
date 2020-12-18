@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 「管理設定」タブ {#admin-settings-tab}
+# 管理設定タブ{#admin-settings-tab}
 
 「管理設定」タブでは、任意のアカウントの管理者がチームの設定（プランの制限に関する）を確認できるほか、チームの電子メールのSalesforceへの記録方法を一括管理できます。
 
-[チームのすべてのSalesforce同期設定を **上書きする** ]チェックボックスをオンにすると、BCCによるログのみを許可するか、API経由のみでログを許可するかのオプションが表示されます。
+[チーム&#x200B;**のすべてのSalesforce同期設定を上書きする]チェックボックスを選択すると、BCCによるログのみを許可するか、API経由のみでログを許可するかのオプションが表示されます。**
 
-「 **APIロギング**」を選択した場合は、「Opportunities」、「Leads」、「Contacts」に対して選択されたすべての設定が選択されます。 `will be set for the entire team after you click **Save Changes**.`
+**API logging**&#x200B;を選択した場合、Opportunities、Leads、Contactsのすべての設定`will be set for the entire team after you click **Save Changes**.`
 
 ここから、チーム全体でオポチュニティとタスク同期を一括して有効にすることもできます。
 
