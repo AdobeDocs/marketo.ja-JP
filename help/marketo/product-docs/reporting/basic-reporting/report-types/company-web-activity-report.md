@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# 会社Webアクティビティレポート {#company-web-activity-report}
+# 会社Webアクティビティレポート{#company-web-activity-report}
 
 どの会社がWebサイトを訪問しているかを確認する。 既知の訪問者と匿名のユーザーのどちらを表示するかを選択できますが、両方を同じレポートに表示することはできません。
 
-ウェブページの [アクティビティレポートを作成して](web-page-activity-report.md) 、サイトの個々の訪問者を調べます。
+[ウェブページアクティビティレポート](web-page-activity-report.md)を作成して、サイトの訪問者を個別に調べます。
 
 >[!PREREQUISITES]
 >
->MarketoのWebサイトからアクティビティを取り込むには、まずサイトにMunchkin [を設定する必要があります](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)。
+>MarketoのWebサイトからアクティビティを取り込むには、まず、サイト](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)に[Munchkinを設定する必要があります。
 
-1. [レポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、「会社ウェブアクティビティレポート [」レポートタイプを選択します](report-type-overview.md)。
-1. 既知の人または匿名の人をレポートに [表示するかどうかを選択します](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) 。
-1. [レポートの期間を設定し、](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 「 **レポート** 」タブをクリックします。
+1. [レポートを作成し、](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 会社ウェブアクティビティレポート  [タイプを選択します](report-type-overview.md)。
+1. 既知または匿名の人物](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports)をレポートに[表示するように選択します。
+1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 1. それだ！ レポートを確認して、サイトの訪問者を調べます。
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >サイトの訪問者を最も多く見つけるには、「 [ページ表示](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 」列でレポートを *並べ替え、「並べ替え*****」を選択します。
+   >サイトの訪問者を最も多く見つけるには、[「ページ表示」*列で*&#x200B;レポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を降順選択します。
 
-   [会社ウェブアクティビティレポート用に選択できる列は](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 、次のとおりです。
+   [会社ウェブアクティビティレポート用に](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>会社</td> 
-   <td>訪問者の会社。<br> <strong>太字の名前は</strong> 、少なくとも1人の人が会社名と確認する。</td> 
+   <td>訪問者の会社。<br> <strong>1人以上の人が</strong> 会社名と確認した。</td> 
   </tr> 
   <tr> 
    <td>推定会社またはISP</td> 
-   <td>訪問者のIPアドレスから推測される会社。 <br> <strong>太字の名前は</strong> 、これが会社であり、ISPではありません。 </td> 
+   <td>訪問者のIPアドレスから推測される会社。 <br> <strong>太字の名前は、これが会社であり、ISPではありません。</strong>  </td> 
   </tr> 
   <tr> 
    <td>ページ表示</td> 
@@ -80,4 +80,4 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->基本レポートの詳細に関するその他の興味深いレポートについて説明し [ます](http://docs.marketo.com/display/docs/basic+reporting) 。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜り場で、その他の興味深いレポートを紹介します。
