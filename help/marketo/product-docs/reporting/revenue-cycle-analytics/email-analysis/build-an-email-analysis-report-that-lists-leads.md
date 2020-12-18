@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リストがリードする電子メール分析レポートの作成 {#build-an-email-analysis-report-that-lists-leads}
+# リストがリードする電子メール分析レポートの作成{#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
