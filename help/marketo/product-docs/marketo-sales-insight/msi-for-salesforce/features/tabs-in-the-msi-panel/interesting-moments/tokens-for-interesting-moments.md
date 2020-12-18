@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 興味深い瞬間のトークン {#tokens-for-interesting-moments}
+# 注目の瞬間のトークン{#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->* 注 [目の瞬間のフローステップの使用方法を学びます](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)。
->* トー [クンの詳細](http://docs.marketo.com/display/docs/tokens)。
+>* [注目のモーメントフローステップ](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使用を学びます。
+>* [トークン](http://docs.marketo.com/display/docs/tokens)の詳細を表示します。
 
 >
 
 
 
-## 使用可能なトークン {#available-tokens}
+## 使用可能なトークン{#available-tokens}
 
-「 [トークンの概要](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 」をチェックして、興味深い瞬間に使えるすべてのトークンを確認します。
+[Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を調べて、おもしろい瞬間に使えるすべてのトークンを確認します。
 
-## トークンのトリガー {#trigger-tokens}
+## トークンをトリガー{#trigger-tokens}
 
 スマートキャンペーンで使用されるトリガーに基づいて、追加のトリガートークンが使用可能になります。
 
-* `{{trigger.Trigger Name}}` これは常に実際のトリガです。 次に例を示します。電子メール内のリンクをクリックします。
-* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。 次に例を示します。「Webページ上のクリック数リンク」はURLであり、Salesforceトリガーなどの件名です。
+* `{{trigger.Trigger Name}}` これは常に実際のトリガです。次に例を示します。電子メール内のリンクをクリックします。
+* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。次に例を示します。「Webページ上のクリック数リンク」はURLであり、Salesforceトリガーなどの件名です。
 * 制約に基づいて、追加のトリガーを使用できます。以下に示します。
 
 <table> 
@@ -236,9 +236,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->チェック ![（ティック）がない場合](assets/check.svg) 、おもしろい瞬間に空の文字列（何もない）が返される。
+>チェック![(tick)](assets/check.svg)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
 
-*[ **訪問のトリガ]ウェブページには** 、次のトークンがいくつか追加されています。
+*トリガー&#x200B;**訪問ウェブページ**&#x200B;には、次のトークンがいくつか追加されています。
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
