@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# GmailまたはOutlookから送信する際のエラー {#error-when-sending-from-gmail-or-outlook}
+# GmailまたはOutlookから送信する際にエラーが発生しました{#error-when-sending-from-gmail-or-outlook}
 
 OutlookまたはGmailから送信する場合、エラーを受け取る最も一般的な理由は、In/Extensionの最新バージョンではない追加ことです。
 
