@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# マーケティング担当者の売上高例モデルのコピー {#cloning-a-marketo-example-revenue-model}
+# マーケティング先の例の売上高モデルのコピー{#cloning-a-marketo-example-revenue-model}
 
 マーケターには、ユーザーの心を動かすための売上モデルの例があります。 これらのモデラーをコピーして、独自のモデルにします。 方法を次に示します。
 
-1. 「 **解析** 」領域に移動します。
+1. 「**Analytics**」領域に移動します。
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. 「**Revenue Cycle Modeler **folder」を選択し、「 **Markettor Examples**」をクリックします。
+1. 「**Revenue Cycle Modeler **folder」を選択し、「**Marketto Examples**」をクリックします。
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
    「モデル・アクション」で、「モデルのコピー」を選択します。
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. **名前**を入力し、「 **クローン**」をクリックします。
+1. **名前**を入力し、**CLONE**&#x200B;をクリックします。
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
