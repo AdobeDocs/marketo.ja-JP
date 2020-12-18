@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Outlook用のMarketing To Email 追加 Inのアップグレード {#upgrade-your-marketo-email-add-in-for-outlook}
+# Outlook用Marketto Email 追加-Inをアップグレードする{#upgrade-your-marketo-email-add-in-for-outlook}
 
 Outlook用のMarketo Email-追加inの新しいバージョンが利用可能になったら、次の手順に従ってアップグレードします。
 
-## インストーラーのダウンロード {#download-installer}
+## インストーラーのダウンロード{#download-installer}
 
 お使いのバージョンのMicrosoft Outlookに適したインストーラーをダウンロードします。
 
@@ -113,7 +113,7 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
  </tbody> 
 </table>
 
-## アップグレード {#upgrade}
+## アップグレード{#upgrade}
 
 1. インストーラーを実行します。
 
@@ -130,7 +130,7 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. すべての情報が事前入力されていることに注意してください。 「 **次へ**」をクリックします。
+1. すべての情報が事前入力されていることに注意してください。 [**次へ**]をクリックします。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,11 +142,11 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 「 **次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. インストールが完了しました。 「 **閉じる**」をクリックします。
+1. インストールが完了しました。 「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
