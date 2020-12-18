@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# プログラム商談分析領域について {#understanding-the-program-opportunity-analysis-area}
+# プログラムオポチュニティ分析領域について{#understanding-the-program-opportunity-analysis-area}
 
-## 概要 {#overview}
+## 概要{#overview}
 
 「プログラムオポチュニティの分析」領域では、個々のプログラムの有効性を分析したり、プログラムチャネル別に要約された結果を表示したりできます。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 * マルチタッチアトリビューション(MT)を受け取る成功関連のメジャー。
 * その他のプログラム関連の測定。オポチュニティが作成または終了する前の平均マーケティングタッチ数など。
 
-## 獲得・成功関連措置 {#acquisition-and-success-related-measures}
+## 獲得と成功に関する測定{#acquisition-and-success-related-measures}
 
 獲得関連の措置は、リードの連絡先プログラムを最初に取得した情報にクレジットを与えます。 リードは、獲得クレジットが付与されるプログラムで成功を達成する必要はありません。
 
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 プログラム間での重複カウント機会を経由せずに、マーケティング担当者が適切にクレジットを付与します。 したがって、この場合、各プログラムは0.5オポチュニティの数量を受け取ります。 つまり、生成されたOpportunityのクレジットの半分を各プログラムが受け取ります。 また、Opportunityに関連付けられた売上高の半分が各プログラムに割り当てられます。
 
-## その他のプログラム関連措置 {#miscellaneous-program-related-measures}
+## その他のプログラム関連の措置{#miscellaneous-program-related-measures}
 
 使用できるその他のメジャーは、プログラムの全体的なパフォーマンスを反映しています。
 
@@ -169,15 +169,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>オポチュニティの属性</td> 
-   <td><p>Opportunity<br>ClosedOpportunity Name*<br>Opportunity Owner<br>NameOpportunity<br>StageOpportunity Type</p></td> 
+   <td><p>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
   </tr> 
   <tr> 
    <td>オポチュニティの期間</td> 
-   <td><p>営業案件クローズ年/四半期/<br>月営業案件作成年/四半期/月</p></td> 
+   <td><p>営業案件クローズ年/四半期/月<br>営業案件作成年/四半期/月</p></td> 
   </tr> 
   <tr> 
    <td>プログラム属性</td> 
-   <td><p>プログラム<br>チャネルプログラム名</p></td> 
+   <td><p>プログラムチャネル<br>プログラム名</p></td> 
   </tr> 
   <tr> 
    <td>プログラムコスト期間</td> 
@@ -186,7 +186,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**あるプログラムに対して、あらゆる種類のアトリビューションクレジットを与えたすべてのオポチュニティ。 オポチュニティは、1つ以上のリードと1つ以上のプログラムに影響を受けることができます。*
+**あるプログラムに対して、あらゆる種類のアトリビューションクレジットを与えたすべてのオポチュニティ。オポチュニティは、1つ以上のリードと1つ以上のプログラムに影響を受けることができます。*
 
 >[!MORELIKETHIS]
 >
