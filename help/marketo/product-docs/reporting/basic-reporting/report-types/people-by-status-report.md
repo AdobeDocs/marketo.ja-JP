@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# ステータス別ユーザーレポート {#people-by-status-report}
+# ステータス別ユーザーレポート{#people-by-status-report}
 
-毎月、各 ** 個人ステータスの値に表示される個人の数を確認して、プロセス内で人々の行動を確認します。
+毎月&#x200B;*個人ステータス*&#x200B;の各値に表示される個人の数を確認し、プロセス内で人々の行動を確認します。
 
-1. [レポートを作成し](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 、「ステータス別 **人物** 」 [](report-type-overview.md)レポートタイプを選択します。
-1. [レポートの期間を設定し、](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 「 **レポート** 」タブをクリックします。
+1. [レポートを作成し、「ス](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) テータス別 **人物」レポートタイプを選択し** [](report-type-overview.md)ます。
+1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 1. 素晴らしい！ これで、1人のステータスに含まれる人数が、月ごとに表示されます。
 
    ` ![](assets/image2017-3-27-11-3a17-3a4.png)
@@ -32,12 +32,12 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >[スマートリストを使用して、特定の人に対してレポートをフィルターします](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 。
+   >[スマートリストを使用して、](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) レポートを特定のユーザーにフィルターします。
 
    >[!NOTE]
    >
    >**ディープダイブ**
    >
    >
-   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細で、列の追加方法などを説明します。
+   >[基本的なレポート](http://docs.marketo.com/display/docs/basic+reporting)の深い深さで、列の追加方法などを説明します。
 
