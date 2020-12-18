@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 人物ページの列 {#people-page-columns}
+# ユーザーページの列{#people-page-columns}
 
 どの列を表示するかを選択して、連絡先情報をカスタマイズするオプションがあります。
 
-## 列の選択方法 {#how-to-select-columns}
+## 列の選択方法{#how-to-select-columns}
 
 1. 人ページで、リスト設定アイコンをクリックします。
 
    ![](assets/one-5.png)
 
-1. スクロールして目的の列を選択します(すべての列を選択する場合は **** 、「すべて選択」をクリックすることもできます)。 完了したら、リストの外をクリックします。
+1. スクロールして目的の列を選択します（列ごとに「**すべてを選択**」をクリックすることもできます）。 完了したら、リストの外をクリックします。
 
    ![](assets/two-4.png)
 
-## 列の説明 {#column-descriptions}
+## 列の説明{#column-descriptions}
 
 <table> 
  <colgroup> 
