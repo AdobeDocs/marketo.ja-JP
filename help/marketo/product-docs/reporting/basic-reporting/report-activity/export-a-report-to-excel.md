@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# レポートをExcelにエクスポートする {#export-a-report-to-excel}
+# レポートをExcelにエクスポートする{#export-a-report-to-excel}
 
 任意のレポートをExcelファイルにエクスポートして、他のソフトウェアでデータを操作できます。
 
-1. 「 **マーケティングアクティビティ** 」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. ナビゲーションツリーでレポートを選択し、「 **レポート** 」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**レポート**」タブをクリックします。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 「 **書き出し** 」ボタンをクリックします。
+1. 「**書き出し**」ボタンをクリックします。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ ht-degree: 0%
    >**関連記事**
    >
    >
-   >ダウンロードしたファイルが大きすぎる場合は、レポートサイズを [変更できます](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) 。
+   >ダウンロードしたファイルが大きすぎる場合は、[レポートサイズ](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)を変更できます。
 
    >[!NOTE]
    >
    >**ディープダイブ**
    >
    >
-   >「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting) 」の詳細で、レポートで可能なその他の役に立つ事項をすべて確認します。
+   >[基本的なレポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照して、レポートでできるその他の役に立つことをすべて確認してください。
 
