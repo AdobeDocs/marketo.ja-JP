@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メールインサイトでのフィルタリング {#filtering-in-email-insights}
+# 電子メールインサイトでのフィルタリング{#filtering-in-email-insights}
 
 電子メールインサイトには、データをフィルターする様々な方法があります。
 
-## 電子メールインサイト {#email-insights}
+## 電子メールインサイト{#email-insights}
 
 「+」をクリックしてフィルターを追加する開始を選択します。 好き追加なだけ。
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->日付範囲は、Analyticsページと送信ページの両方に適用されます。 ただし、 **比較** オプションは、分析ページにのみ適用できます。
+>日付範囲は、Analyticsページと送信ページの両方に適用されます。 「**比較**」オプションは、Analyticsページにのみ適用できます。
 
-## アカウントベースのマーケティング {#account-based-marketing}
+## アカウントベースのマーケティング{#account-based-marketing}
 
-ア [カウントベースのマーケティングを使用する場合](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)、特にフィルターがあります。
+[アカウントベースのマーケティング](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)を使用する場合は、特別なフィルターがあります。
 
 ![](assets/abm.png)
 
