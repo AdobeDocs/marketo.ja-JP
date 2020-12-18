@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# ユーザーアクセスの詳細 {#user-access-details}
+# ユーザーアクセスの詳細{#user-access-details}
 
 管理者および非管理者は何にアクセスできますか？
 
-## 管理者ユーザー権限 {#admin-user-permissions}
+## 管理者ユーザー権限{#admin-user-permissions}
 
-管理者は、すべてのテンプレートを [表示できます](http://docs.marketo.com/x/OYAXAQ)。
+管理者は、すべてのテンプレート[を&lt;a0/>表示できます。](http://docs.marketo.com/x/OYAXAQ)
 
 ![](assets/templates.jpg)
 
-管理者は、すべてのキャンペーンを [表示できます](http://docs.marketo.com/x/N4AXAQ)。
+管理者は[すべてのキャンペーン](http://docs.marketo.com/x/N4AXAQ)を表示できます。
 
 ![](assets/campaigns.jpg)
 
-管理者は、すべての電子メールアクティビティを [表示できます](http://docs.marketo.com/x/SYAXAQ)。
+管理者は、[すべての電子メールアクティビティ](http://docs.marketo.com/x/SYAXAQ)を表示できます。
 
 ![](assets/email-activity.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 管理者は、ユーザーの代わりにキャンペーンを停止できます。
 
-## 非管理者ユーザー権限 {#non-admin-user-permissions}
+## 非管理者ユーザー権限{#non-admin-user-permissions}
 
 * 解析：
 
