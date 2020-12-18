@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# マーケティング担当者向けのSales Insightページ {#sales-insight-page-for-marketo-admins}
+# マーケティング担当者向けのSales Insightページ{#sales-insight-page-for-marketo-admins}
 
 マーケティング担当者の管理者は、Sales Insightの特定の権限を持っています。 以下の内容を学びます。
 
-## Soap APIの設定 {#soap-api-configuration}
+## SOAP API設定{#soap-api-configuration}
 
 これらの資格情報は、SalesforceのMSIを使用するために、SalesforceアカウントをMarketoのインスタンスに接続するために使用されます。
 
 ![](assets/one-1.png)
 
-## REST APIの設定 {#rest-api-configuration}
+## REST APIの設定{#rest-api-configuration}
 
 これらの資格情報は、SalesforceのMSI Insightsダッシュボードを使用するために、SalesforceアカウントをMarketoのインスタンスに接続するために使用されます。
 
@@ -31,7 +31,7 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 ![](assets/three-1.png)
 
-## 人物スコアの設定 {#person-score-settings}
+## 人物スコアの設定{#person-score-settings}
 
 | **星：** | 星は、他のリードと比較したリードスコアの合計を表します。 |
 |---|---|
@@ -39,11 +39,11 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 デフォルトでは、Marketo Sales Insightは、「Lead Score」フィールドを使用して星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
 
-1. Marketorの **管理者** 領域で、「 **Sales Insight**」をクリックします。
+1. Marketoの&#x200B;**管理者**&#x200B;領域で、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/four.png)
 
-1. 「リードスコアリング設定」で、「 **編集**」をクリックします。
+1. 「リードスコアリング設定」で、「**編集**」をクリックします。
 
    ![](assets/five.png)
 
@@ -55,13 +55,13 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
    ![](assets/seven.png)
 
-1. 「 **保存**」をクリックします。 販売インサイトの再計算には、多少時間がかかります。 CRMを後で確認して、星や炎を確認できます。
+1. 「**保存**」をクリックします。 販売インサイトの再計算には、多少時間がかかります。 CRMを後で確認して、星や炎を確認できます。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >カスタムスコアフィールドをまだ持っていない場合は、次の方法で [作成します](http://docs.marketo.com/x/3wMk)。
+   >カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成します](http://docs.marketo.com/x/3wMk)。
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
    >
    >[星と炎](http://docs.marketo.com/x/qgU6Ag)
 
-## 設定 {#settings}
+## 設定{#settings}
 
 ![](assets/nine.png)
 
@@ -89,4 +89,4 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 **RSSフィードを有効にする：**
 
-有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます&#x200B;**。**
+有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。**.**
