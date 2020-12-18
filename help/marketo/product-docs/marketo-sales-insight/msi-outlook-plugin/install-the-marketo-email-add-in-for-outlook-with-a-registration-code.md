@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 登録コード{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}を使用したOutlook用Marketo追加電子メールインのインストール
 
 ユーザーがラップトップの管理設定にアクセスできる場合は、ユーザーに登録コードを直接送信できます。
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Marketor Email 追加-inライセンスが [発行される必要があります](issue-a-marketo-email-add-in-license.md)。
+>* [Marketo Email 追加-inライセンス](issue-a-marketo-email-add-in-license.md)を発行する必要があります。
 
 >
 
 
 
-## インストーラーのダウンロード {#download-installer}
+## インストーラーのダウンロード{#download-installer}
 
-1. ご使用の [Microsoft Outlookバージョンの確認](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. [Microsoft Outlookのバージョン](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
 1. リンクをクリックして、お使いのバージョンのMicrosoft Outlookに適したインストーラをダウンロードします。
 
    >[!NOTE]
@@ -47,7 +47,7 @@ ht-degree: 0%
    | Outlook for Mac | 非対応 | 非対応 |
    | Outlook Web App | 非対応 | 非対応 |
 
-## 登録コードのコピー {#copy-your-registration-code}
+## 登録コードをコピー{#copy-your-registration-code}
 
 1. 受け取った招待用電子メールから登録コードをコピーします。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## インストール {#install}
+## {#install}をインストール
 
 1. インストーラーを実行します。
 
@@ -65,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >警告が出たら心配するな！ 「 **実行**」をクリックするだけです。
+   >警告が出たら心配するな！ [****&#x200B;を実行]をクリックします。
 
-1. 「 **次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 「 **名**」、「 **姓**」、「電子メールアドレス」に入力し、**登録コード ****をコピーして電子メールに貼り付けます。次へをクリックし******&#x200B;ます。
+1. 「**名**、**姓**、**電子メールアドレス**」と入力し、電子メールから**登録コード**をコピーしてフォームに貼り付け、「**次へ**」をクリックします。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 「 **次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >不明な発行者に関するセキュリティプロンプトが表示された場合は、 **「はい**」をクリックします。
+   >不明なパブリッシャに関するセキュリティプロンプトが表示された場合は、[**はい**]をクリックします。
 
-1. これでインストールが完了し、「 **閉じる**」をクリックします。
+1. インストールが完了したら、「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
