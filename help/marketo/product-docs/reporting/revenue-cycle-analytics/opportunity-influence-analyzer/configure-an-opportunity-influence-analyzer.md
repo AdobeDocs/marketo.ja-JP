@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# オポチュニティ影響分析計の構成 {#configure-an-opportunity-influence-analyzer}
+# オポチュニティ影響分析計の構成{#configure-an-opportunity-influence-analyzer}
 
-Opportunity Influence Analyzer [を](create-an-opportunity-influence-analyzer.md)作成したら [、含める](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 興味深い瞬間のタイプを設定できます。
+Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)を[作成したら、含める[注目すべき瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Opportunity Influence Analyzer [を](create-an-opportunity-influence-analyzer.md
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Analyzerグラフにおもしろい瞬間が多すぎる場合は、 **設定** パネルでユーザーの選択を解除するか、または興味深い瞬間のタイプを減らすことで、その瞬間を減らすことができます。
+   Analyzerグラフに興味深い瞬間が多すぎる場合は、**設定**&#x200B;パネルでユーザーを選択解除するか、興味深い瞬間のタイプを減らすことで、対象を減らすことができます。
 
 1. 含める面白い場面のタイプを設定するには、「設定」タブに移動し、目的の場面フィルターをドラッグします。
 
@@ -49,7 +49,7 @@ Opportunity Influence Analyzer [を](create-an-opportunity-influence-analyzer.md
 
 >[!NOTE]
 >
->その他のアナライザーについては、 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+>他のアナライザーについては、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
 >[!MORELIKETHIS]
 >
