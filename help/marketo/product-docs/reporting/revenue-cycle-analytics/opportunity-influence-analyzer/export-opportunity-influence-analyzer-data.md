@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# オポチュニティ影響分析データのエクスポート {#export-opportunity-influence-analyzer-data}
+# オポチュニティ影響分析データのエクスポート{#export-opportunity-influence-analyzer-data}
 
-売上高サイクルエクスプローラの [レポートから更新を受け取り](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+[売上サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
 
-1. Analyticsに移動し **、New****/New** New **/New New** Report Report **Report 購読********** Analyticsに移動して選択します。
+1. **Analytics**&#x200B;に移動し、**新しい** **** **新しい** **レポート** **購読**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >プログラムで作成した基本レポートを購読するには、「基本レポートの [購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) 」を参照してください。
+   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)を参照してください。
 
-1. 「レポートソース」で、「 **売上高エクスプローラ」を選択します。**
+1. 「レポートソース」で、「売上高エクスプローラ」を選択します。****
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->すべてのレポート購読を1か所で [管理する方法](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 。
+>[すべてのレポート購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
->Marketorの高度な分析機能で実行できる操作の詳細については、 [売上高サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics) （英語）を参照してください。
+>[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
 
