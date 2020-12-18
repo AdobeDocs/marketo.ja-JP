@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webキャンペーンの優先順位の設定 {#prioritizing-web-campaigns}
+# Webキャンペーンの優先順位{#prioritizing-web-campaigns}
 
 優先度スコアを設定して、2つ以上のWebキャンペーンが重複する場合にWebキャンペーンに優先順位を付けます。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >目的のWebキャンペーンを見つけやすくするには、 [フィルター機能を使用します](filter-web-campaigns.md)。
+   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
 
 1. キャンペーンを編集ページで、優先度スコア（9999 =最高の優先度1 =最低の優先度）を設定します。
 
