@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# ウェブページアクティビティレポート {#web-page-activity-report}
+# ウェブページアクティビティレポート{#web-page-activity-report}
 
 このレポートでは、Webサイトの訪問者を確認したり、レポートの電子メール版を購読したりできます。
 
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 
 1. [レポートを作成し、「**](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)ウェブページアクティビティレポート**」 [レポートタイプを選択します](report-type-overview.md)。
-1. 既知の人または匿名の人をレポートに [表示するかどうかを選択します](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 。
-1. [レポートの期間を設定し、](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 「 **レポート** 」タブをクリックします。
+1. 既知または匿名の人物](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)をレポートに[表示するように選択します。
+1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 1. 分かった！ レポートを確認して、サイトの訪問者を確認します。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >サイトの訪問者を最も多く知るには、「 [ページ表示](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)[](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)」列 ** でレポートを並べ替え、「並べ替え」を降順選択します。
+   >サイトの訪問者を最も多く知るには、[*ページ表示*&#x200B;列でレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、「並べ替え」を降順選択します。
 
-   [Marketorは匿名](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) Webサイト訪問者をデータベースに追加し、このレポートで表示するように選択できます。 匿名でも豊富な情報を提供します\
-   [ウェブページのアクティビティレポート用に選択できる列は](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 、次のとおりです。
+   [Marketorは、](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイト訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
+   [ウェブページのアクティビティレポートで](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
 <table> 
  <thead> 
@@ -50,7 +50,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>人</td> 
-   <td>訪問者の名前、タイトルおよび会社。<br><strong>クリックして</strong> 、表示担当者の詳細とアクティビティの履歴を表示します。</td> 
+   <td>訪問者の名前、タイトルおよび会社。<br><strong>表示</strong> 担当者の詳細とアクティビティの履歴をクリックします。</td> 
   </tr> 
   <tr> 
    <td>初回/最終訪問（タイムゾーン）</td> 
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>ページ表示</td> 
-   <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">訪問されたページをクリックして</a></strong> 、表示に移動します。</td> 
+   <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">訪問されたページを</a></strong> クリックして表示します。</td> 
   </tr> 
   <tr> 
    <td>HTTPリファラー</td> 
@@ -70,7 +70,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>推定会社またはISP</td> 
-   <td>訪問者のIPアドレスから推測される会社。 <strong>太字の名前は</strong> 、これが会社であり、ISPではありません。 </td> 
+   <td>訪問者のIPアドレスから推測される会社。 <strong>太字の名前は、これが会社であり、ISPではありません。</strong>  </td> 
   </tr> 
   <tr> 
    <td>推定国、都道府県、地域、市町村</td> 
@@ -95,4 +95,4 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->基本レポートのその他の興味深いレポートについて説明 [します](http://docs.marketo.com/display/docs/basic+reporting)。
+>[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の他の興味深いレポートについて説明します。
