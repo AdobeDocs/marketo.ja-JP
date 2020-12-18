@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Sales Insightの星と炎に使用するスコアフィールドの設定 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Sales Insightの星と炎に使用するスコアフィールドの設定{#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-デフォルトでは、Marketo Sales Insightは、 **リードスコア** (Lead Score)フィールドを使用して星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
+デフォルトでは、Marketo Sales Insightは、**リードスコア**&#x200B;フィールドを使用して、星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
 
 >[!TIP]
 >
->カスタムスコアフィールドをまだ持っていない場合は、次の方法で [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)作成します。
+>カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。
 
 >[!NOTE]
 >
@@ -34,19 +34,19 @@ ht-degree: 0%
 
 
 
-1. 「 **管理者**」で、「 **Sales Insight**」をクリックします。
+1. 「**管理者**」で、「**販売インサイト**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. 「 **リードスコアリング設定**」で、「 **編集**」をクリックします。
+1. 「**リードスコア設定**」で、「**編集**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. [ **星**]に使用するフィールドを選択します。
+1. **星**&#x200B;に使用するフィールドを選択します。
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. 炎に使用するフィールドを選択し **ます**。
+1. **炎**&#x200B;に使用するフィールドを選択します。
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
