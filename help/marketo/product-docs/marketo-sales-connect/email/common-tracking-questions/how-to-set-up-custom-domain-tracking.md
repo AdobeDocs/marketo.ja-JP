@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# カスタムドメイン追跡の設定方法 {#how-to-set-up-custom-domain-tracking}
+# カスタムドメイン追跡の設定方法{#how-to-set-up-custom-domain-tracking}
 
 リンクのカスタムドメイントラッキングを設定するオプションが与えられたので、リンク上にカーソルを置くと、「go.toutapp.com」ではなく「go.yourcompany.com」と表示されます。
 
-この設定を行うには、IT管理者がアドビの [設定ページに表示される手順に従う必要があります](http://toutapp.com/custom_tracking_domain)。
+この設定を行うには、IT管理者が[設定ページ](http://toutapp.com/custom_tracking_domain)に記載されている手順に従う必要があります。
 
 この設定が完了すると、電子メールに含まれるリンクが「go.yourcompany.com」と表示されるように許可リストされます。
