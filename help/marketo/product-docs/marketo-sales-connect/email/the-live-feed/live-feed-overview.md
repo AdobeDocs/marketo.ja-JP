@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# ライブフィードの概要 {#live-feed-overview}
+# ライブフィードの概要{#live-feed-overview}
 
 ライブフィードは、WebアプリケーションまたはGmailプラグインから起動できるフローティングウィンドウで、オファーは見込み客の関与をリアルタイムで調べます。
 
-## 「アクション」タブ {#engagement-tab}
+## エンゲージメントタブ{#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -38,7 +38,7 @@ MSE電子メールに対するエンゲージメント(表示、クリックお�
 
 
 
-## 「タスク」タブ {#tasks-tab}
+## [タスク]タブ{#tasks-tab}
 
 ![](assets/task.jpg)
 
@@ -46,7 +46,7 @@ Live FeedからTODOリストをすばやく確認します。
 
 新規作成するか、オープンタスクを管理します。
 
-今日、明日、今日 *と明日* 、または次の7日間をフィルターします。
+今日、明日、今日&#x200B;*、明日*、または次の7日間をフィルターします。
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Live FeedからTODOリストをすばやく確認します。
 
 クイックアクションボタンを使用して、すばやく呼び出しを行ったり、電子メールを送信したり、人のLinkedinプロファイルに移動したりできます。
 
-## 「ターゲット」タブ {#target-tab}
+## ターゲットタブ{#target-tab}
 
 ![](assets/target.jpg)
 
@@ -64,7 +64,7 @@ Live FeedからTODOリストをすばやく確認します。
 * 上位50件のリードを表示します。
 * Salesforceで割り当てられたユーザーのみが表示されます。
 
-## アイコンの用語集 {#icon-glossary}
+## アイコンの用語集{#icon-glossary}
 
 <table> 
  <colgroup> 
@@ -75,28 +75,28 @@ Live FeedからTODOリストをすばやく確認します。
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>他のユーザーが電子メールを表示しました</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>誰かが電子メール内のリンクをクリックしました</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>メールに返信した人</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">電子メール、Web、マイルストーンを含む、「注目の場面」に一覧表示される通知</td> 
   </tr> 
