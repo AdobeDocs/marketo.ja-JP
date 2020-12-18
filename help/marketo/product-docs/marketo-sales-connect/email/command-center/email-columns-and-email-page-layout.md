@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 電子メール列と電子メールページレイアウト {#email-columns-and-email-page-layout}
+# 電子メール列と電子メールページレイアウト{#email-columns-and-email-page-layout}
 
 コマンドセンターの電子メールセクションに表示する列を設定できます。 設定は、各電子メールサブフォルダー（配信済み、失敗、スケジュール済みなど）に保存されます。
 
-## 電子メール列 {#email-columns}
+## 電子メール列{#email-columns}
 
 <table> 
  <colgroup> 
@@ -114,7 +114,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 電子メールページレイアウトの設定 {#email-page-layout-settings}
+## 電子メールページレイアウト設定{#email-page-layout-settings}
 
 次の手順に従って、レイアウトを設定できます。
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 「 **電子メール** 」セクションを選択します。
+1. 「**電子メール**」セクションを選択します。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
