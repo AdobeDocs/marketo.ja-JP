@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# GmailにSales Connectプラグインが表示されない {#sales-connect-plugin-not-showing-up-in-gmail}
+# Sales ConnectプラグインがGmail {#sales-connect-plugin-not-showing-up-in-gmail}に表示されない
 
 アドビの経験から、ツールバーが表示されない場合は、以下を試してみてください。
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 - これは明白なことですが、ブラウザを終了して、全く新しいウィンドウを開いてみてください。
 
-- Webアプリケーションに移動し [て](http://toutapp.com/login) 、そこにログインしていることを確認します。
+- [Webアプリケーション](http://toutapp.com/login)に移動し、そこにログインしていることを確認します。
 
 - cookieが有効になっていることを確認します。 Chromeを使用している場合は、設定/詳細設定を表示/コンテンツ設定を表示に移動し、「サードパーティのCookieおよびサイトデータをブロックする」をオフにします。
 
 - Sales Connectブラウザ拡張機能を切断してから再接続してみてください。
 
-上記のヒントがどれも役に立たない場合は、サポートにケースを [送信してください](http://nation.marketo.com/community/support_solutions) 。
+上記のヒントが役に立たない場合は、[ケース](http://nation.marketo.com/community/support_solutions)をサポートに送信してください。
