@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Salesforceにログインしなかった {#didnt-log-to-salesforce}
+# Salesforceにログインしませんでした{#didnt-log-to-salesforce}
 
 Salesforceへの呼び出しログが表示されない場合は、Salesforceでリード/連絡先が見つからない可能性があります。
 
-正しいリード/連絡先に対する呼び出しの場合、Sales ConnectにSalesforce IDが必要です。 Salesforce IDをSales Connectに追加する最良の方法は、 [Push to Sales Connect](http://docs.marketo.com/x/XQDb) 機能を使用することです。 Push to Sales Connectを使用する場合、連絡先の移行にSalesforce IDが含まれます。
+正しいリード/連絡先に対する呼び出しの場合、Sales ConnectにSalesforce IDが必要です。 Salesforce IDをSales Connectに追加する最良の方法は、Sales Connectにプッシュ[機能を使用することです。 ](http://docs.marketo.com/x/XQDb)Push to Sales Connectを使用する場合、連絡先の移行にSalesforce IDが含まれます。
