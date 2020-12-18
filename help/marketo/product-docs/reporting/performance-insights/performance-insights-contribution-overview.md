@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# パフォーマンスインサイト貢献度の概要 {#performance-insights-contribution-overview}
+# パフォーマンスインサイト貢献度の概要{#performance-insights-contribution-overview}
 
 マーケティングパフォーマンスインサイトでは、貢献度表示がデフォルトで表示されます。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ファーストタッチとマ [ルチタッチについて説明します](http://docs.marketo.com/display/DOCS/Understanding+Attribution)。
+>[ファーストタッチとマルチタッチ](http://docs.marketo.com/display/DOCS/Understanding+Attribution)について説明します。
 
 指標を表示する期間を選択します。 この例では、現在の年（年累計）を見ています。   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->グラフ内のバーを、グループ内をスクロールしながら拡大する場合は、「Y軸を合わせる **には** 」チェックボックスを選択します。
+>グラフ内のバーをグループ内をスクロールしながら拡大する場合は、「**Y軸を拡大して合わせる**」チェックボックスを選択します。
 
 バーにマウスを移動すると、詳細情報が表示されます。   ![](assets/seven.png)
 
