@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# Web アプリケーションから送信する際のエラー {#error-when-sending-from-the-web-application}
+# Web アプリケーション{#error-when-sending-from-the-web-application}から送信する際のエラー
 
-通常、 [Webアプリケーションからエラーが発生した場合は](http://toutapp.com/login)、電子メールの形式設定または動的フィールドの問題が原因です。 構成ウィンドウですべてが正しく入力されていることを確認し、もう一度送信を試みてください。
+通常、[Webアプリケーション](http://toutapp.com/login)からエラーが発生した場合は、電子メールまたは動的フィールドの形式設定の問題が原因です。 構成ウィンドウですべてが正しく入力されていることを確認し、もう一度送信を試みてください。
