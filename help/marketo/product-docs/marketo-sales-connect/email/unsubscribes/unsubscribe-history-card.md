@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 登録解除履歴カード {#unsubscribe-history-card}
+# 登録解除履歴カード{#unsubscribe-history-card}
 
 登録解除履歴カードを使用すると、管理者やユーザーは、連絡先の登録解除履歴に関するコンテキスト情報を取得できます。
 
