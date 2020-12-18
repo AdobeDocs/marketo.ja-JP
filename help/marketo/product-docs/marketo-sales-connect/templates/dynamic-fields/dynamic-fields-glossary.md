@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 動的フィールドの用語集 {#dynamic-fields-glossary}
+# 動的フィールド用語集{#dynamic-fields-glossary}
 
-Sales Connectでテンプレートを作成する場合は、「 **MSE Dynamic Fields** 」ボタンを使用して、動的フィールドを統合することを常にお勧めします。
+Sales Connectでテンプレートを作成する場合は、**MSE動的フィールド**&#x200B;ボタンを使用して、動的フィールドを統合することを常にお勧めします。
 
-このツールは、までに多くの時間 `auto-personalize your email` を節約するために使用され `pulling information from the People page`ます。
+このツールは`auto-personalize your email`に使われ、`pulling information from the People page`までに時間を節約できます。
 
 | 動的フィールド | 電子メールに表示する内容の例 |
 |---|---|
@@ -30,12 +30,12 @@ Sales Connectでテンプレートを作成する場合は、「 **MSE Dynamic F
 
 **注意事項**:
 
-* 連絡先がユーザーページに表示され `information is entered incorrectly` ていないか、表示されていない場合は、その連絡先がテンプレート `will not pull over correctly` に表示されます。
+* 連絡先の`information is entered incorrectly`がない場合、またはユーザーページに連絡先がない場合は、テンプレートに`will not pull over correctly`が挿入されます。
 
-* との違い `{{company}}` は、Inc.、LLC `{{company_friendly}}``{{company_friendly}}``remove any formal title`など、お客様の担当者の会社の名前からの意志との違いです。
-* を使用する場合 `{{company_friendly}}`は、Inc.またはCo.をコンマで区切って連絡先の詳細を入力してください。 Sales Connectは、値を取り込む際に何を取り除くかを次のように認識します。
+* `{{company}}`と`{{company_friendly}}`の違いは、`{{company_friendly}}`が`remove any formal title`（Inc.、LLC.など）を&lt;a2/>とし、連絡先の会社の名前から選ぶことです。
+* `{{company_friendly}}`を使用する場合は、Inc.またはCo.をコンマで区切って連絡先の詳細を入力してください。 Sales Connectは、値を取り込む際に何を取り除くかを次のように認識します。
 
 >[!TIP]
 >
->電子メールに自動的に取り込む必要のある任意の [カスタム動的フィールドを独自に作成できます](http://docs.marketo.com/x/fADb) 。
+>電子メールに自動的に取り込む必要のある任意のユーザーに対して、独自の[カスタム動的フィールド](http://docs.marketo.com/x/fADb)を作成できます
 
