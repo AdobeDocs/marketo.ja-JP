@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# レポートのコピー {#clone-a-report}
+# レポートのコピー{#clone-a-report}
 
 元のレポートを変更せずにさらにカスタマイズできる重複を作成します。
 
-1. 「 **マーケティングアクティビティ** (または **Analytics**)」領域に移動します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. レポートを選択します。 レ **ポートのアクション/レポートのコピーを選択します**。
+1. レポートを選択します。 **レポートアクション/レポートのコピー**&#x200B;を選択します。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -42,5 +42,5 @@ ht-degree: 0%
    >    * [スマートリストを使用したレポート内のユーザーのフィルター](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   レポートをカスタマイズするための作業が多く行われました。 「 [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
+   レポートをカスタマイズするための作業が多く行われました。 「[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
 
