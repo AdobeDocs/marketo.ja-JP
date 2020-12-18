@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# プッシュ設定の検証 {#verify-push-configuration}
+# プッシュ構成の確認{#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 すべての項目が適切に同期されるように、プッシュ設定を確認します。
 
-1. 「 **管理者**」をクリックします。
+1. **管理者**&#x200B;をクリックします。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 「 **モバイルアプリ**」を選択します。
+1. 「**モバイルアプリ**」を選択します。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    確認済みの目的のプラットフォームを確認し、「CLOSE」をクリックします。
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   準備完了！ プッシュ通知の送信開始 ![（スマイル）が可能になりました。](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   準備完了！プッシュ通知の送信開始![(smil)](assets/smile.svg)
 
 >[!NOTE]
 >
