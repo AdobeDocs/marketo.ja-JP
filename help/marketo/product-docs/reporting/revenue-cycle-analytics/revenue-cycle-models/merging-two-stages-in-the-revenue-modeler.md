@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 売上高モデラーでの2つのステージのマージ {#merging-two-stages-in-the-revenue-modeler}
+# 売上高モデラーでの2つのステージのマージ{#merging-two-stages-in-the-revenue-modeler}
 
 モデルを承認した後は、ドラフトの編集時にステージを削除できません。 代わりに、そのステージを別のステージとマージできます。
 
-1. 「 **Marketto Home** 」をクリックし、「 **Analytics**」を選択します。
+1. 「**マーケティング先ホーム**」をクリックし、「**解析**」を選択します。
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. 「ドラフトを **編集」をクリックします。**
+1. 「**ドラフトを編集」をクリックします。**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -43,5 +43,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Merge Stageのプルダウン **から** Noneを選択し、モデルからリードを削除します。
+>Merge Stageプルダウンで&#x200B;**None**&#x200B;を選択し、モデルからリードを削除します。
 
