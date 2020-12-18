@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# GmailがSales Connect署名を取り込まない {#gmail-not-pulling-in-sales-connect-signature}
+# GmailがSales Connect Signatureを取り込みません{#gmail-not-pulling-in-sales-connect-signature}
 
-Gmailでは、 [Sales Connectの署名を挿入するのではなく、GmailでGmailの署名を実際に使用しています](http://toutapp.com/next#settings)。
+[Sales Connectの署名](http://toutapp.com/next#settings)を挿入するのとは対照的に、GmailではGmailの署名を実際に使用しています。
 
-Gmailで署名を編集でき [ます](http://mail.google.com/mail/u/0/#settings/general)。
+Gmail [ここ](http://mail.google.com/mail/u/0/#settings/general)で署名を編集できます。
