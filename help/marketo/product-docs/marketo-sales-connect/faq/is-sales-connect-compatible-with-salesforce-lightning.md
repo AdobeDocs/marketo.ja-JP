@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sales ConnectはSalesforce Lightningと互換性がありますか。 {#is-sales-connect-compatible-with-salesforce-lightning}
+# Sales ConnectはSalesforce Lightningと互換性がありますか。{#is-sales-connect-compatible-with-salesforce-lightning}
 
 はい、Sales ConnectはSalesforce Lightningと互換性があります。
 
-『インストールと成功の [ガイド』は](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) 、こちらをクリックしてください。
+『インストールと成功のガイド』は、[ここ](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)をクリックしてください。
 
 >[!NOTE]
 >
