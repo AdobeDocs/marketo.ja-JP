@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 詳細プログラムレポートの概要 {#advanced-program-reporting-overview}
+# 高度なプログラムレポートの概要{#advanced-program-reporting-overview}
 
-**売上高サイクルエクスプローラ** (Revenue Cycle Explorer)には、プログラムの効果を測定するための分析の領域と新しい指標の多数が含まれています。
+**売上高サイクル** エクスプローラには、分析のいくつかの領域と、プログラムの効果を測定できる様々な新しい指標が含まれています。
 
 ![](assets/rev.png)
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
-## 分析エリアとは？ {#whats-an-analysis-area}
+## 分析エリアとは？{#whats-an-analysis-area}
 
 分析領域には、それぞれ異なるデータセットと指標が売上高エクスプローラ内に含まれています。 各領域は、表示に選択したレポートの対象に関連します。
 
-## プログラム分析領域 {#program-analysis-areas}
+## プログラム分析領域{#program-analysis-areas}
 
-* ** [プログラムコスト分析](understanding-the-program-cost-analysis-area.md) ** — すべてのプログラムのROIを確認。
+* ** [プログラムコストの分析](understanding-the-program-cost-analysis-area.md) ** — すべてのプログラムのROIを確認。
 
-* ** [プログラムメンバーシップ分析](understanding-the-program-membership-analysis-area.md) **-チャネル別、パーティシペーション別、成功基準別の結果を表示
+* ** [プログラムメンバーシップ分析](understanding-the-program-membership-analysis-area.md) **-チャネル別、パーティシペーション別、成功基準別の結果を参照
 
-* ** [プログラムオポチュニティ分析](understanding-the-program-opportunity-analysis-area.md) ** — 配分、売上高、ROIに基づいて生成されるオポチュニティ。
+* ** [プログラムオポチュニティの分析](understanding-the-program-opportunity-analysis-area.md) ** — 配分、売上高、ROIに基づいて生成されるオポチュニティ。
 
 * ** [プログラム売上高ステージ分析](understanding-the-program-revenue-stage-analysis-area.md) ** — 売上高サイクルモデル内の特定の成功ステージに達した新しい名前。
 
-## プログラムアナライザー {#program-analyzers}
+## プログラムアナライザ{#program-analyzers}
 
-* **プログラムアナライザ** — 成功したプログラムを迅速に特定し、リソースを適切に絞り込みます。
+* **プログラムアナライザ**  — 成功したプログラムを迅速に特定し、リソースを適切に絞り込みます。
 
-* **オポチュニティ影響分析** — オポチュニティを生み出したプログラムや主要なエンゲージメントの影響を測定することで、マーケティングの貢献度を証明します。
+* **オポチュニティへの影響分析** ：オポチュニティを生み出したプログラムや主要なエンゲージメントの影響を測定することで、マーケティングの貢献度を証明します。
 
-## レポートオプション {#report-options}
+## レポートオプション{#report-options}
 
 各レポートには、エクスペリエンスのカスタマイズに役立ついくつかのオプションが用意されています。
 
