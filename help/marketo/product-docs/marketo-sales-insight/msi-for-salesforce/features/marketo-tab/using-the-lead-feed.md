@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# リードフィードの使用 {#using-the-lead-feed}
+# リードフィードの使用{#using-the-lead-feed}
 
 リードフィードは、リードが行う興味深いイベントの最新リストです。 「マーケティング」タブをクリックすると、右側に表示されます。 RSSやTwitterのフィードのようなものです。最新の更新がリストの一番上に表示されます。 これを使って、まだ頭の中で生き生きとリードを飛び越えます。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >リードフィードには、自分が所有するリードと監視リストーのリードの両方が含まれます。
 
-## リードフィードには何が含まれていますか？ {#whats-in-the-lead-feed}
+## リードフィードには何が含まれていますか？{#whats-in-the-lead-feed}
 
 ![](assets/one.png)\
 リードフィードの各品目は、興味深い瞬間です。このリードのマーケティング履歴で注目に値するアクティビティやイベントです。
@@ -69,7 +69,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
  </tbody> 
 </table>
 
-## RSS更新を取得する {#getting-rss-updates}
+## RSS更新プログラムを取得中{#getting-rss-updates}
 
 また、RSSフィードによるリードフィードの更新を取得することもできます。  RSSフィードを使用すると、Salesforceに接続していない場合でも、リードの更新を受け取ることができます。 フィードは、Salesforceのリードフィードと同じ情報と、以下（利用可能な場合）を持ちます。
 
@@ -82,7 +82,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
 
 >[!NOTE]
 >
->この機能を有効にするには、会社のMarketor管理者がRSSフィード [を有効にする必要があります](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) 。
+>この機能を有効にするには、会社のMarketor管理者がRSSフィード[を有効にする必要があります。](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
 
 RSSの更新を取得するには、次の2つが必要です。RSSリンクとRSSフィードリーダー リードフィードのRSSアイコンをクリックして、RSSリンクを取得できます。   ![](assets/three.png)
 
