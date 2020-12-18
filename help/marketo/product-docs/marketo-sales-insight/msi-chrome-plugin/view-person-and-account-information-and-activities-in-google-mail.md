@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Googleメールの表示担当者とアカウント情報およびアクティビティ {#view-person-and-account-information-and-activities-in-google-mail}
+# Googleメールの表示担当者とアカウント情報およびアクティビティ{#view-person-and-account-information-and-activities-in-google-mail}
 
-## Googleメールの表示アクティビティ {#view-activities-in-google-mail}
+## Googleメール{#view-activities-in-google-mail}の表示アクティビティ
 
 コンテキストに応じたMarketor Insightsペインを使用して、アカウント情報と最近のアクティビティを表示します。
 
@@ -39,7 +39,7 @@ Marketorアイコンをクリックして、パネルを展開します。
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Google Chromeの表示アクティビティ {#view-activities-in-google-chrome}
+## Google Chromeの表示アクティビティ{#view-activities-in-google-chrome}
 
 また、Google Chromeのグローバルアクティビティペインを使用すると、最近対応したすべてのユーザーに対して発生した最新のアクティビティの完全なリストを確認できます。 これは、アイコン上の未読アクティビティの数を継続的に表示する、リアルタイムに更新されたフィードです。
 
