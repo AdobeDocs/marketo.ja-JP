@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# RTPとGoogle Universal Analyticsの統合 {#integrate-rtp-with-google-universal-analytics}
+# RTPとGoogle Universal Analytics {#integrate-rtp-with-google-universal-analytics}の統合
 
-## 導入 {#intro}
+## 導入{#intro}
 
 Google Universal Analytics(GUA)とMarketo Real-Time Personalization(RTP)のファーストグラフィックおよびパーソナライゼーションデータを活用して、オンラインマーケティング活動をより良く測定および分析できます。
 
@@ -39,22 +39,22 @@ Google Universal Analytics with RTP’s dataを使用すると、B2Bユーザー
 
 
 
-## GUAでのカスタムDimensionの設定 {#set-up-custom-dimensions-in-gua}
+## GUAでのカスタムDimensionの設定{#set-up-custom-dimensions-in-gua}
 
 1. Google Analyticsでは、
 
-   1. 「 **管理者」に移動**
-   1. 「 **アカウント」を選択します。**
-   1. 「 **プロパティ」を選択します。**
-   1. 「**カスタム定義**」および「 **カスタムDimension」を選択します。**
+   1. **管理者**&#x200B;に移動
+   1. **アカウントを選択します。**
+   1. **プロパティを選択します。**
+   1. 「**カスタムDimension」を選択します。 **と「**カスタム定義」を選択します。**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. 追加新しいカスタムディメンション。 クリック **+新規カスタムDimension**
+1. 追加新しいカスタムディメンション。 「**+新しいカスタムDimension**」をクリックします
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. 追加次の **カスタムDimension:**
+1. 追加次の&#x200B;**カスタムDimension:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ Google Universal Analytics with RTP’s dataを使用すると、B2Bユーザー
   <tr> 
    <td><p><strong>RTP組織</strong></p></td> 
    <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">kid</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Industry</strong></p></td> 
    <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">kid</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTPカテゴリ</strong></p></td> 
    <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">kid</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Group</strong></p></td> 
    <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">kid</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**カスタムDimension名は** 、上の表で定義したとおりに指定する必要があります(そうしないと、GUA内のカスタムRTPダッシュボードとレポートが正しく表示されません)。
+>**カスタムDimension** 名は、上の表で定義したとおりにする必要があります(そうしないと、GUA内のカスタムRTPダッシュボードとレポートが正しく表示されません)。
 
-1. *追加*Name。 **「Scope as **Session」を選択します。** 「 **作成」をクリックします。**
+1. *追加*Name。 **範囲を&#x200B;**セッションとして選択します。** 「 **作成」をクリックします。**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -100,17 +100,17 @@ Google Universal Analytics with RTP’s dataを使用すると、B2Bユーザー
 
 GUAでカスタムDimensionをアクティブ化したら、RTPプラットフォームに移動し、RTP内でこれらのディメンションを有効にします。
 
-## RTPアカウントでGUA統合をアクティブ化します。 {#activate-the-gua-integration-in-your-rtp-account}
+## RTPアカウントでGUA統合をアクティブ化{#activate-the-gua-integration-in-your-rtp-account}
 
-1. RTPプラットフォームで、「 **アカウント設定」に移動します。**
+1. RTPプラットフォームで、**「アカウント設定」に移動します。**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 「 **アカウント設定**」で、「 **ドメイン」をクリックします。**
-1. 「**Analytics」で、「 **Google Universal Analytics**」を**クリックします。
-1. 関連するカスタムDimension **とイベントをオンにし** 、RTPからのこのデータをGoogle Universal Analyticsに追加します。
-1. GUAのインデックス番号に合わせた **ディメンションのインデックス番号** (Index number)を入力します。
-1. 「 **保存**」をクリックします。
+1. 「**アカウント設定**」で、「**ドメイン」をクリックします。**
+1. 「**Analytics」の下の「**」で、「**Google Universal Analytics**」をクリックします。
+1. **関連するカスタムDimensionとイベントを**&#x200B;オンにして、RTPからのこのデータをGoogle Universal Analyticsに追加します。
+1. GUAのインデックス番号と整列したディメンションの&#x200B;**インデックス番号**&#x200B;を入力します。
+1. 「**保存**」をクリックします。
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -120,12 +120,12 @@ GUAでカスタムDimensionをアクティブ化したら、RTPプラットフ�
 >
 >例：「RTP-Industry Index Number」は1、「RTP-Organization Index Number」は2です。
 
-## Google Analyticsの古いダッシュボードを削除 {#remove-old-dashboards-in-google-analytics}
+## Google Analyticsの古いダッシュボードを削除{#remove-old-dashboards-in-google-analytics}
 
-1. Google Analytics。 「 **レポート」に移動。**
-1. 「 **ダッシュボード」をクリックします。**
+1. Google Analytics。 **レポート**&#x200B;に移動
+1. **ダッシュボードをクリックします。**
 1. **ダッシュボード**（RTP B2BまたはRTPパフォーマンス）を選択
-1. 「 **ダッシュボードを削除**」をクリックします。
+1. 「**ダッシュボード**&#x200B;を削除」をクリックします。
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
 
