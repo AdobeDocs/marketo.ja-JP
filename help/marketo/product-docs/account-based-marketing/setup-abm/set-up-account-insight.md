@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: アカウントインサイトの設定 — Marketto Docs — 製品ドキュメント
 title: アカウントインサイトの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->ABMアカウントスコア[は、最初に](http://docs.marketo.com/display/DOCS/Account+Score)設定する必要があります。
+>ABMアカウントスコア[は、最初に](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)設定する必要があります。
 
 1. 「**管理者**」をクリックします。
 
@@ -37,9 +37,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[アカウントスコア設定](http://docs.marketo.com/display/DOCS/Account+Score)をいずれかの時点で更新した場合、管理者がABM Salesの設定を更新し、スコアがユーザーの好みに正確に反映されるようにする必要があります。 変更を確認するには、ユーザーはログアウトしてから再度ログインする必要があります。
+   >[アカウントスコア設定](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)をいずれかの時点で更新した場合、管理者がABM Salesの設定を更新し、スコアがユーザーの好みに正確に反映されるようにする必要があります。 変更を確認するには、ユーザーはログアウトしてから再度ログインする必要があります。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/five-4.png)
-
