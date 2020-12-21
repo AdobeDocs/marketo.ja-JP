@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: アカウントリスト- Marketto Docs — 製品ドキュメント
 title: アカウントリスト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Markettoのアカウントベースのマーケティングで作成されたアカウントリストは、[Webパーソナライゼーション](http://docs.marketo.com/display/DOCS/RTP+Segments)でスマートリストとWebキャンペーンを構築する際に自動的に使用できます。
+>Markettoのアカウントベースのマーケティングで作成されたアカウントリストは、[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)でスマートリストとWebキャンペーンを構築する際に自動的に使用できます。
 
 ## 新しいアカウントリストの作成{#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-0.png)
 
-1. アカウントリストを作成したら、[](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)に名前付きのアカウントを追加し始めます。
+1. アカウントリストを作成したら、[](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)に名前付きのアカウントを追加し始めます。
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これらの手順は、アカウントリストにのみ適用されます。 *Dynamicaccount* リストは、関連するCRMアカウント表示の名前を使用します。
+>これらの手順は、アカウントリストにのみ適用されます。 _Dynamicaccount_ リストは、関連するCRMアカウント表示の名前を使用します。
 
 1. 名前を変更するアカウントを選択し、「**アカウントリストの操作**」ドロップダウンをクリックして、「**アカウントリスト名の変更**」を選択します。
 
@@ -91,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ア追加カウントリストに対する既存の名前付きアカウント](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [アカウントリストインサイト](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [ア追加カウントリストに対する既存の名前付きアカウント](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [アカウントリストインサイト](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
