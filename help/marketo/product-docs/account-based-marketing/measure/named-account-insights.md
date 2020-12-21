@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: 固有のアカウントインサイト — Marketto Docs — 製品ドキュメント
 title: 名前付きアカウントインサイト
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## ダッシュボード{#dashboard}
 
-ダッシュボード集計は、指定されたアカウント内のすべての人から、アカウントレベルで主要なインサイトを受け取るので、各人に進捗状況を評価する必要がありません。 [電子メールインサイト](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)を使用して、電子メールのアクティビティを詳しく調べることができます。
+ダッシュボード集計は、指定されたアカウント内のすべての人から、アカウントレベルで主要なインサイトを受け取るので、各人に進捗状況を評価する必要がありません。 [電子メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用して、電子メールのアクティビティを詳しく調べることができます。
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ ht-degree: 0%
 
 **興味深い瞬間**
 
-[Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)のユーザーが利用できます。アカウントレベルでロールアップされた興味深い瞬間をご覧ください。
+Marketor Sales Insightのユーザーが利用できる、アカウントレベルでロールアップされた興味深い瞬間を確認できます。
 
 ![](assets/int-mom.png)
 
 **トップユーザー**
 
-これらの人々は、名前付きアカウント（Sales Insightの[Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets)と同じ）の人々が示す最新性または緊急性に基づく優先順位またはユーザーが定義したスコアに基づいて計算されます。 **** 優先度は、Marketon Sales Insightのユーザーのみが使用できます。
+これらの人々は、名前付きアカウント（Sales Insightの[Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）の人々が示す最新性または緊急性に基づく優先順位またはユーザーが定義したスコアに基づいて計算されます。 **** 優先度は、Marketon Sales Insightのユーザーのみが使用できます。
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ ht-degree: 0%
 
 ## ICPインジケータ{#icp-indicators}
 
-モデル[を調整したときに、エクスポートするICPインジケータを表示します。](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning)
+モデル[を調整したときに、エクスポートするICPインジケータを表示します。](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)
 
 ![](assets/eight.png)
-
