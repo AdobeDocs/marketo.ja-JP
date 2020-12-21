@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: 権限 — Marketto Docs — 製品ドキュメント
 title: 権限
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. *すべての*&#x200B;権限を選択するには、「**アカウントベースのマーケティングにアクセス**」チェックボックスをオンにします。
+1. _すべての_&#x200B;権限を選択するには、「**アカウントベースのマーケティングにアクセス**」チェックボックスをオンにします。
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ ht-degree: 0%
 
 1. 「**+**」をクリックして、「アクセス管理者」メニューを開きます。 「**ABM管理者にアクセス**」チェックボックスをオンにします。
 
-   ![](assets/six-1.png)\
-   これで、新しいABMロールを[ユーザー](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)に割り当てる準備ができました！
+   ![](assets/six-1.png)
+
+   これで、新しいABMロールを[ユーザー](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)に割り当てる準備ができました！
 
    ![](assets/seven.png)
-
