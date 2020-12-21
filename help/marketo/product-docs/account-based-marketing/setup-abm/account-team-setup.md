@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: アカウントチームのセットアップ — Marketto Docs — 製品ドキュメント
 title: アカウントチームの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**説明**
+   >異なるアカウントの所有者を持つ複数のCRMアカウントが指定されたアカウントに結合されると、マーケティング担当者は「アカウントの所有者」を1つ選択し、他のアカウントの所有者を「アカウントの共有者」として追加します
    >
-   >    
-   >    
-   >    * 異なるアカウントの所有者を持つ複数のCRMアカウントが指定されたアカウントに結合されると、マーケティング担当者は「アカウントの所有者」を1つ選択し、他のアカウントの所有者を「アカウントの共有者」として追加します
-   >    * 後でCRMの「役割」フィールドの名前を変更または削除すると、ユーザーがABMの設定を手動で更新するまで、Marketo Abmは更新された値の同期を停止します
-
-
+   >後でCRMの「役割」フィールドの名前を変更または削除すると、ユーザーがABMの設定を手動で更新するまで、Marketo Abmは更新された値の同期を停止します
