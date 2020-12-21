@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 新しいアカウント検出 — Marketto Docs — 製品ドキュメント
 title: 新しいアカウントの検出
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[アカウントプロファイルの設定](http://docs.marketo.com/x/FgAKAQ)
+>[アカウントプロファイルの設定](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >アカウントを保存した後、LinkedIn](http://docs.marketo.com/x/rYGZAQ)で[一致したオーディエンスを使用してターゲットできます。
-
+   >アカウントを保存した後、LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)で[一致したオーディエンスを使用してターゲットできます。
