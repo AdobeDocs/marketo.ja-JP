@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: アカウントプロファイルの設定 — Marketto Docs — 製品ドキュメント
 title: アカウント・プロファイリングの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >モデルが作成されたら、[アカウントプロファイリングの概要](http://docs.marketo.com/x/NIDv)でモデルを調整する方法を学びます。
-
+   >モデルが作成されたら、[モデルの調整方法](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)を学びます。
