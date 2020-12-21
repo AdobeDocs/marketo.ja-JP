@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: アカウントフィルター- Marketto Docs — 製品ドキュメント
 title: アカウントフィルター
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 「いずれか」の修飾子を使用する場合は、[制約](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
+1. 「いずれか」の修飾子を使用する場合は、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [アカウントトリガー](account-triggers.md)
-
+>[アカウントトリガー](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
