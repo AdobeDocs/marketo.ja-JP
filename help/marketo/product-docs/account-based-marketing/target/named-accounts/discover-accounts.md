@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Discoverアカウント — Marketto Docs — 製品ドキュメント
 title: Discoverアカウント
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ CRMから潜在的なターゲットアカウントを特定します。
 >
 >CRMをMarketo ABMに接続すると、**Discover CRM Accounts**&#x200B;にすべてのCRMアカウントと関連情報が表示され、適切な名前のアカウントを選択するのに役立ちます。 Marketorは、CRMから受け取った情報の上に、追加情報を追加します。
 
-**人** (Discover CRMアカウントおよびDiscover Marketto会社内):連絡先とリードの両方が含まれます。リードは、Marketoの[リード対アカウントの照合](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)を使用して検出できます。 **推定ユーザー** (Discover CRMアカウントおよびDiscover Marketto会社):CRMアカウントに属している可能性があるリードを見つけたリード数を示します。
+**人** (Discover CRMアカウントおよびDiscover Marketto会社内):連絡先とリードの両方が含まれます。リードは、Marketoの[リード対アカウントの照合](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)を使用して検出できます。
 
-**カスタムCRMフィールド** （Discover CRMアカウントのみ）:これは、正しいターゲットアカウントを選択するために、販売およびマーケティング組織を調整するのに役立ちます。カスタムCRMフィールド[をMarketo ABMに](http://docs.marketo.com/x/1wnG)マッピングしたら、マッピングされたデータを表示して、ターゲットアカウントの特定に役立てます。
+**推定ユーザー** (Discover CRMアカウントおよびDiscover Marketto会社):CRMアカウントに属している可能性があるリードを見つけたリード数を示します。
+
+**カスタムCRMフィールド** （Discover CRMアカウントのみ）:これは、正しいターゲットアカウントを選択するために、販売およびマーケティング組織を調整するのに役立ちます。カスタムCRMフィールド[をMarketo ABMに](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)マッピングしたら、マッピングされたデータを表示して、ターゲットアカウントの特定に役立てます。
 
 1. 「名前付きアカウント」で、**新規**&#x200B;ドロップダウンをクリックし、**CRMアカウントの検出**&#x200B;を選択します。
 
@@ -63,17 +65,17 @@ CRMから潜在的なターゲットアカウントを特定します。
    >
    >Discover Marketto会社とDiscover CRMでは、Marketorは自動的に次のように処理します。
    >
-   > * レコードにその会社が含まれているユーザーを、Marketoデータベースから検索します。 一部の属性（業界など）に複数の値が表示される場合は、それらの個々の訪問者に対して異なる値がリストに表示されていたためです。 ヒット数が最も多い属性が優先されます。
+   >* レコードにその会社が含まれているユーザーを、Marketoデータベースから検索します。 一部の属性（業種など）に対して複数の値が表示される場合は、それらの個々の訪問者に対して異なる値がリストに表示されていたためです。 ヒット数が最も多い属性が優先されます。
    >
    >**Discover CRM**&#x200B;のみで、Marketorは自動的に次の操作を行います。
    >
-   > * CRM連絡先を指定されたアカウントと同期して関連付けます
+   >* CRM連絡先を指定されたアカウントと同期して関連付けます
    >
    >**Discover Marketto会社**&#x200B;のみで、Marketorは自動的に次のように処理します。
    >
-   > * ほとんどのインターネットサービスプロバイダーとパブリックドメインのフィルター([Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com))を会社名として
+   >* ほとんどのインターネットサービスプロバイダーとパブリックドメイン（yahoo.com、gmail.comなど）を会社名としてフィルター
       >
-      > 
+      >
    * CRMアカウントを重複排除しました。 1つのレコードに「Acme」と「Acme Inc」（または次のサフィックスのいずれか）が含まれる場合Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, Ltd, PA, PC, PLC, PLLC)の場合、ABM内で単に「Acme」として統合します。
    >
    >会社名ではなくCRM IDまたはアカウント所有者によってアカウントの重複除外を行う場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
@@ -116,5 +118,4 @@ CRMから潜在的なターゲットアカウントを特定します。
 
 >[!MORELIKETHIS]
 >
->* [顧客との照合を引き出す](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[顧客との照合を引き出す](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
