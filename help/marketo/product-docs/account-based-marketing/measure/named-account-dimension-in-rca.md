@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: RCAの「Named Account」Dimension- Marketto Docs - Product Documentation
 title: RCAの「Named Account」Dimension
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを
 
 >[!NOTE]
 >
->**定義**
->
->**Dimension** — メジャーの表示を示す属性（黄色のドットで表されます）。
+>**Dimension**  — 測定の様々な表示を示す属性（黄色の点で表されます）。
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを
 * プログラムメンバーシップ分析
 
 >[!NOTE]
->
->**例**
 >
 >次に、Revenue Cycle AnalyticsのMarketo ABMの例を示します。
 
@@ -55,12 +51,3 @@ Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを
 指定されたアカウント内の品質リードとエンゲージメントの範囲
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [売上高サイクル分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
