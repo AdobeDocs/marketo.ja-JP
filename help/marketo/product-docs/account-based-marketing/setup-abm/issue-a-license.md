@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: ライセンスの発行 — Marketto Docs — 製品ドキュメント
 title: ライセンスの発行
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ ABMを使用するには、ライセンスを持つユーザーを設定する�
 
    >[!NOTE]
    >
-   >ユーザーのライセンスを削除するには、手順1に従い、*un*&#x200B;チェックボックスをオンにして、**保存**&#x200B;をクリックします。
-
+   >ユーザーのライセンスを削除するには、手順1に従ってチェックボックスをオフにし、「**保存**」をクリックします。
