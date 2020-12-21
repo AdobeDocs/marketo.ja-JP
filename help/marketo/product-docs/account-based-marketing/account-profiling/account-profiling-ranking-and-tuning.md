@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: アカウントプロファイリングのランキングと調整 — Marketto Docs — 製品ドキュメント
 title: アカウントプロファイリングのランク付けと調整
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-オプションですが、[自動的にプロモート]チェックボックスをオンにすることをお勧めします。これにより、時間を節約できます。 ただし、各アカウントを調べて[手動で](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)追加したい場合は、チェックボックスをオフにしておいてください。
+オプションですが、[自動的にプロモート]チェックボックスをオンにすることをお勧めします。これにより、時間を節約できます。 ただし、各アカウントを調べて[手動で](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts)追加したい場合は、チェックボックスをオフにしておいてください。
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ ht-degree: 0%
 
 ![](assets/tuning-page.png)
 
-インジケーターカテゴリ
+**インジケーターカテゴリ**
 
-| **準拠** | 認定、コンプライアンス関連の職階/採用 |
-|---|---|
-| **操作** | 業務関連の職階/採用。 |
-| **人事** | 人事または給与ソフトウェア、人事関連の職階/雇用。 |
-| **エンジニアリング** | テクノロジー、フレームワーク、エンジニアリング関連の職階/採用 |
-| **売上高** | 販売、販売関連の職階/雇用に関するソリューションとソフトウェア |
-| **意図** | インテントインジケーター。 |
-| **IT** | ハードウェア/ソフトウェア・ソリューション、テクノロジー、IT関連の位置づけ/採用 |
-| **金融** | 金融ソフト、財務関連の職階/雇用。 |
-| **マーケティング** | マーケティングテクノロジーとソフトウェア、マーケティング関連の職位/雇用 |
-| **ビジネス** | フォーブス又は株式会社の上場又は事業提携 |
-| **顧客体験と関係** | 顧客の成功と顧客関係の位置/雇用。 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>準拠</strong></td> 
+   <td> 
+    <div>
+      認定、コンプライアンス関連の職階/採用 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>操作</strong></td> 
+   <td> 
+    <div>
+      業務関連の職階/採用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>人事</strong></td> 
+   <td> 
+    <div>
+      人事または給与ソフトウェア、人事関連の職階/雇用。
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>エンジニアリング</strong></td> 
+   <td> 
+    <div>
+      テクノロジー、フレームワーク、エンジニアリング関連の職階/採用 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>売上高</strong></td> 
+   <td> 
+    <div>
+      販売、販売関連の職階/雇用に関するソリューションとソフトウェア 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>意図</strong></td> 
+   <td> 
+    <div>
+      インテントインジケーター。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      ハードウェア/ソフトウェア・ソリューション、テクノロジー、IT関連の位置づけ/採用
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>金融</strong></td> 
+   <td> 
+    <div>
+      金融ソフト、財務関連の職階/雇用。 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>マーケティング</strong></td> 
+   <td> 
+    <div>
+      マーケティングテクノロジーとソフトウェア、マーケティング関連の職位/雇用 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>ビジネス</strong></td> 
+   <td> 
+    <div>
+      フォーブス又は株式会社の上場又は事業提携 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>顧客体験と関係</strong></td> 
+   <td> 
+    <div>
+      顧客の成功と顧客関係の位置/雇用。
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 各列の説明を表示するには、ツールヒントの上にカーソルを置きます。
 
@@ -89,7 +158,7 @@ ht-degree: 0%
 
 ![](assets/add-icp.png)
 
-「エクスポート」ボックスを選択すると、「名前付き勘定科目の詳細」ページにICPインジケータが表示され、選択したICPインジケータを[名前付き勘定科目フィルター](http://docs.marketo.com/display/DOCS/Account+Filters)の制約として使用できます。
+「エクスポート」ボックスを選択すると、「名前付き勘定科目の詳細」ページにICPインジケータが表示され、選択したICPインジケータを[名前付き勘定科目フィルター](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)の制約として使用できます。
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ ht-degree: 0%
 モデルの調整が完了したら（更新後）、「モデル結果」タブに戻り、**ランクの保存と適用**&#x200B;をクリックします。
 
 ![](assets/ranks.png)
-
