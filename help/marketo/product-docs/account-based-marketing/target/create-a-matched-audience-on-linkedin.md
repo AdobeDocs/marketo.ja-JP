@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: LinkedIn - Marketto Docs — 製品ドキュメントで一致するオーディエンスを作成する
 title: LinkedInでの一致したオーディエンスの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ LinkedIn広告ターゲット設定用のABMアカウントリストから一致
 
 >[!PREREQUISITES]
 >
->[LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](http://docs.marketo.com/x/I4Fy)
+>[LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. ABMで、「**アカウントリスト**」タブをクリックします。
 
@@ -49,13 +49,6 @@ LinkedIn広告ターゲット設定用のABMアカウントリストから一致
 
    それで終わり。 オーディエンスがLinkedInにプッシュされました。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
