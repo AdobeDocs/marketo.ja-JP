@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABMメインダッシュボード- Marketto Docs — 製品ドキュメント
 title: ABMメインダッシュボード
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-[アカウントリストダッシュボード](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)を表示するには、選択したアカウントリストの名前をクリックします。
+[アカウントリストダッシュボード](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard)を表示するには、選択したアカウントリストの名前をクリックします。
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-...[名前付きアカウントのインサイト](http://docs.marketo.com/display/DOCS/Named+Account+Insights)を表示します。
+...[名前付きアカウントのインサイト](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md)を表示します。
 
 ![](assets/seven.png)
-
