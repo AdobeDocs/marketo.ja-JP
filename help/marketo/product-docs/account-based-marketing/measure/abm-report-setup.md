@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABMレポートの設定 — Marketto Docs — 製品ドキュメント
 title: ABMレポートの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ABMの販売レポートは、週1回、アカウントチームに送信する�
 1. 電子メールを再度受信するユーザーを選択し、「**再登録**」をクリックします。
 
    ![](assets/eleven.png)
-
