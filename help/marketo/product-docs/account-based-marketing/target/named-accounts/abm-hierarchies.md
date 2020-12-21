@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM階層 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: ABM階層
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ ABMダッシュボードを使用すると、階層全体または個々のア�
 >
 >Marketing Toインターフェイスには、最大10レベル下に表示されます（親アカウントの子アカウントと孫アカウント）。ただし、作成できる子アカウントの数に制限はありません。
 
-[ワンクリック](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount)でターゲットと階層全体のレポートを作成します。
+[ワンクリック](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account)でターゲットと階層全体のレポートを作成します。
 
 ![](assets/member.png)
-
