@@ -3,9 +3,9 @@ unique-page-id: 11381917
 description: アカウントベースのマーケティングの概要 — Marketto Docs — 製品ドキュメント
 title: アカウントベースのマーケティングの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Marketo Account Based Marketingは、セールスチームとマーケティン�
 
 Marketo ABMは、次の3つのコンポーネントで構成されています。
 
-**（一） [ターゲット](http://docs.marketo.com/display/docs/target)**
+**（一）ターゲット**
 
 * アカウントの検出
 * リード対アカウントの照合
 * 固有のアカウントリスト
 
-**業務 [の実施](http://docs.marketo.com/display/docs/engage)**
+**2)関与**
 
 * アカウントベースのパーソナライゼーション
 * チャネル間の関与
 * アカウント固有のワークフロー
 
-**(3) [測定](http://docs.marketo.com/display/docs/measure)**
+**(3)測定**
 
 * アカウントとリストレベルのインサイト
 * アカウントエンゲージメントスコア
@@ -47,18 +47,18 @@ Marketo ABMは、次の3つのコンポーネントで構成されています�
 
 マーケティング先のアカウントベースのマーケティングでは、様々なツールをオファーして、チャネル間で名前付きのアカウントエクスペリエンスをパーソナライズすることもできます。
 
-* 電子メール&amp;ランディングページ[パーソナライゼーション](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [パーソナライゼーション](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [パーソナライゼーション](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* 広告[パーソナライゼーション](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [PersonalizedRemarketing](http://docs.marketo.com/display/DOCS/Website+Retargeting) 
+* 電子メール&amp;ランディングページのパーソナライゼーション
+* Webパーソナライゼーション
+* URL [パーソナライゼーション](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* 広告[パーソナライゼーション](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [PersonalizedRemarketing](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 
 
 入った！ 使用を開始する方法
 
-お前に聞かれないと思った！ ABMはMarketo購読のアドオンとして使用できるので、担当のセールス担当者に連絡して導入を依頼してください。 取得したら、次の記事を確認します。[ABMの使い始めに](getting-started-with-abm.md)
+お前に聞かれないと思った！ ABMはMarketo購読のアドオンとして使用できるので、担当のセールス担当者に連絡して導入を依頼してください。 取得したら、次の記事を確認します。[ABMの使い始めに](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
 
 >[!NOTE]
 >
->Marketto ABMで管理される名前付きアカウントは、Webパーソナライゼーションのニーズに合わせて、Web ABMから直接アクセスできます。 詳細[こちら](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)。
+>Marketto ABMで管理される名前付きアカウントは、Webパーソナライゼーションのニーズに合わせて、Web ABMから直接アクセスできます。 詳細[こちら](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)。
 
 Marketo ABMへようこそ。ターゲットを絞ったマーケティングを楽しんでください。
