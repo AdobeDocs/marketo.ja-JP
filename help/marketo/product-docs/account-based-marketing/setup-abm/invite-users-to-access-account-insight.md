@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: アカウントインサイトにユーザーを招待する — Marketto Docs — 製品ドキュメント
 title: アカウントインサイトにアクセスするユーザーの招待
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,4 +52,3 @@ ht-degree: 0%
 1. 送信メッセージを調べ、必要な変更を行い（オプション）、「**送信**」をクリックします。
 
    ![](assets/seven-2.png)
-
