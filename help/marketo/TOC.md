@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [名前付きアカウントでのフィルタ](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [名前付きアカウントの削除](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [ABM階層](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [階層の作成](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [階層の作成](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [アカウントリスト](product-docs/account-based-marketing/target/account-lists.md)
          + [LinkedInでの一致したオーディエンスの作成](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + {#engage}を関与
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
