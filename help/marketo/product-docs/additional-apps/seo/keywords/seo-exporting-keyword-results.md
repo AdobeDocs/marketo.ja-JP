@@ -3,9 +3,9 @@ unique-page-id: 2949210
 description: SEO — キーワード結果のエクスポート — Marketto Docs — 製品ドキュメント
 title: SEO — キーワード結果のエクスポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
-1. 「書き出し」をクリックします。
+1. 「**エクスポート**」をクリックします。
 
    ![](assets/image2014-9-18-12-3a51-3a25.png)
 
-   うん、それは本当に簡単だ。
-
+   ええ、本当に簡単です。
