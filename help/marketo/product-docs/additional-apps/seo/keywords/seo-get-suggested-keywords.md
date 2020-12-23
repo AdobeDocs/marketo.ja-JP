@@ -3,9 +3,9 @@ unique-page-id: 2949202
 description: SEO — 推奨キーワードの取得 — Marketto Docs — 製品ドキュメント
 title: SEO — 推奨キーワードの取得
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. **GETの提案**&#x200B;をクリックします。
+1. 「**サーチクエリの取得**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. **キーワード**&#x200B;を入力します。 「**SUGGEST KEYWORDS**」をクリックします。
+1. **キーワード**&#x200B;を入力します。 「**キーワードを提案**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >ここに新しいキーワードまたは既存のリスト](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
+   >ここに新しいキーワードまたは既存のリスト](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
 
-1. 推奨キーワードを選択します。 「**追加選択済み**」をクリックします。
+1. 推奨キーワードを選択します。 「**選択追加**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -41,7 +41,7 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   イーーーーー！ キーワードに基づくサーチクエリの取得方法がわかったら、URLに基づくサーチクエリの取得を試してみてください。
+   イーハー！ キーワードに基づくサーチクエリの取得方法がわかったら、URLに基づくサーチクエリの取得を試してみてください。
 
 ## URLからのキーワードの提案の取得{#get-keyword-suggestions-from-a-url}
 
@@ -49,7 +49,7 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. **GETの提案**&#x200B;をクリックします。
+1. 「**サーチクエリの取得**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,15 +57,15 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. **URL**&#x200B;を入力し、**SUGGEST KEYWORDS**&#x200B;をクリックします。
+1. **URL**&#x200B;を入力し、**キーワードの提案**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >ここに新しいキーワードまたは既存のリスト](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
+   >ここに新しいキーワードまたは既存のリスト](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
 
-1. 推奨キーワードを選択します。 「**追加選択済み**」をクリックします。
+1. 推奨キーワードを選択します。 「**選択追加**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,13 +75,8 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    これを揺らしている。 続けろ！
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [キーワードについて(概要表示)](seo-understanding-keywords.md)
-   >    * [リストから追加のキーワードの削除](seo-add-remove-keywords-from-a-list.md)
-
+   >* [キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [リストから追加のキーワードの削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
