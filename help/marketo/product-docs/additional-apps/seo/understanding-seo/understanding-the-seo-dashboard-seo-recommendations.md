@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: SEOダッシュボードについて —SEORecommendations- Marketto Docs — 製品ドキュメント
 title: SEOダッシュボードについて — SEORecommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Recommendationsの使い方も見つかります。 飛び込もう！
 
 ## トップページの最適化の問題{#top-page-optimization-issues}
 
-これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 [完全な](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)ページ詳細ドリルダウン&lt;a1/>の表示へのリンクをクリックするだけです。
+これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 [完全な](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)ページ詳細ドリルダウン&lt;a1/>の表示へのリンクをクリックするだけです。
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Recommendationsの使い方も見つかります。 飛び込もう！
 
 >[!MORELIKETHIS]
 >
->* [ページの詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[ページの詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
