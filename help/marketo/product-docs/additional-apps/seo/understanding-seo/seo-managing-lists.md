@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO -リストの管理 — Marketto Docs — 製品ドキュメント
 title: SEO -リストの管理
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 キーワード、ページ、ページの問題、またはインバウンドリンクを追加する際に、リストに追加できます。 リストを使用すると、レポートを整理し、そのリストのデータのみを表示するようにレポートをフィルタできます。 作り方を次に示します。
 
-1. 「**追加KEYWORDS**」をクリックします。
+1. 「**キー追加ワード**」をクリックします。
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >ドロップダウンリストで新しいリストを作成できます。 タイトルを入力し、Returnキーを押します。 ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >ドロップダウンリストで新しいリストを作成できます。 タイトルを入力し、Returnキーを押します。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    組織立て！
-
