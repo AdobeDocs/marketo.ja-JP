@@ -3,9 +3,9 @@ unique-page-id: 2949216
 description: SEO -追加ページ — Marketto Docs — 製品ドキュメント
 title: SEO -追加ページ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >新しいリストまたは既存のフォルダに[ページを追加できることをご存じですか](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 見ろ！
+   >新しいリストまたは既存のフォルダに[ページを追加できることをご存じですか](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? 見ろ！
 
    ページデータが読み込まれるまでしばらく時間がかかる場合があります。 緑の警告メッセージが表示されるのを待ち、ページを更新して表示を更新します。
+
    ![](assets/image2014-9-18-12-3a57-3a10.png)
 
-   簡単な小作農のレモン絞り！ 検索でのこのページのパフォーマンスを追跡できるようになりました。
-
+   検索でのこのページのパフォーマンスを追跡できるようになりました。
