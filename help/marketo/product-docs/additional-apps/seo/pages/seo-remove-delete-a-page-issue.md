@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO — ページの問題の削除/削除 — Marketto Docs — 製品ドキュメント
 title: SEO — ページ雑誌号の削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — ページの問題を削除/削除{#seo-remove-delete-a-page-issue}
 
-一部のページの問題が役に立つとは限りません。 次に、削除する方法を示します。
+一部のページの問題が役に立つとは限りません。 削除する方法を次に示します。
 
 1. **「ページ**」セクションに移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. **DELETE**&#x200B;をクリックすると、このページの問題が完全に削除されます。
+1. 「**削除**」をクリックすると、このページの問題が完全に削除されます。
 
    >[!CAUTION]
    >
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-   甘い！ ページの問題が削除されました。
-
+甘い！ ページの問題が削除されました。
