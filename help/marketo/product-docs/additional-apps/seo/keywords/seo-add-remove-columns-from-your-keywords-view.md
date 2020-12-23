@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO — キーワード表示から追加列を削除 — Marketto Docs — 製品ドキュメント
 title: SEO — キーワード表示から列を追加削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    以下はデフォルトの列です。
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. 歯車アイコンをクリックします。
 
@@ -35,12 +35,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [キーワードについて — 概要表示](seo-understanding-keywords.md)
-
-
+   >[キーワードについて — 概要表示](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
