@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO — ターゲットキーワードを使用した特定ページの最適化 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SEO — 特定ページをターゲットキーワードで最適化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    すぐに！ これは、できるだけ多くのページとキーワードに対して行います。
-
