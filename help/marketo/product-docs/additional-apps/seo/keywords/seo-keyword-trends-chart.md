@@ -3,9 +3,9 @@ unique-page-id: 2949680
 description: SEO — キーワードトレンドグラフ — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SEO — キーワードのトレンドグラフ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO — キーワードのトレンドグラフ{#seo-keyword-trends-chart}
 
-キーワード[SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が経時的にトレンドを示している様子を監視することが重要です。 進行状況を監視するには、このクールグラフを確認してください。
+キーワード[SERPランク](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が経時的にトレンドを示している様子を監視することが重要です。 進行状況を監視するには、このクールグラフを確認してください。
 
 1. 「**キーワード**」セクションに移動します。
 
@@ -23,18 +23,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   見た？ 過去30日間の[SERPランク](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が表示されます。
+   見た？ 過去30日間の[SERPランク](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が表示されます。
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
    かなり賢い？ キーワードのランクについて詳しくは、キーワードのトレンドレポートを参照してください。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [キーワードのトレンドレポートの使用](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-
-
+   >[キーワードのトレンドレポートの使用](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
