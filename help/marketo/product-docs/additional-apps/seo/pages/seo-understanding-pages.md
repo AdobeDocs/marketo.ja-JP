@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO — ページについて — Marketto Docs — 製品ドキュメント
 title: SEO — ページについて
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ページ最適化スコアは、検索に対してページがどの程度最適化されているかを示す全体的なランクです(1 ～ 100)。 これは、SEOの多数のベストプラクティスに基づいています。
 
-* ～ 00 - 35 =適切に最適化されていません
-* ～ 35 - 70 =右側の軌道
-* ～ 70～100 =素晴らしい！
+* 0 - 35 =適切に最適化されていません
+* 35 - 70 =右側のトラック
+* 70～100 =素晴らしい！
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 | タイトル | ドメイン上のすべてのページのタイトルとURL。 ドメインを確認します。 |
 | 最適化スコア | 1 ～ 100の範囲で検索用にページがどの程度最適化されているかを示すのに使用される秘密ソースです。 |
 | リンク | サイトへのインバウンドリンクが1つ以上ある異なるドメインの数。 |
-| ターゲットキーワード | 各ページの最適化対象となるキーワード。 [入力が必要です](seo-using-the-page-detail-drill-down.md)。 |
+| ターゲットキーワード | 各ページの最適化対象となるキーワード。 [入力が必要です](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 |
 
 ## 問題タブ{#issues-tab}
 
@@ -53,7 +53,4 @@ ht-degree: 0%
 | カテゴリ | 報告される問題のタイプ。 |
 | ステータス | タスクが完了したか、まだ開いているか。 サイト上の問題をWebマスターと共に修正すると、ステータスは解決済み（緑のチェック）に変わります。 |
 
-ページの基本がわかったので、ページの詳細ドリルダウンの記事を参照して、できることをもっと素晴らしく学んでください。
-
-* [ページ詳細ドリルダウンの使用](seo-using-the-page-detail-drill-down.md)
-
+すごいね、ページの基本がわかったので、[ページの詳細ドリルダウンの記事](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)を見て、できることをもっと素晴らしく学んでください。
