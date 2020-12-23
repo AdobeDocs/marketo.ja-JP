@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO — 検索エンジンの地域/国を選択 — Marketto Docs — 製品ドキュメント
 title: SEO — 検索エンジンの地域/国を選択
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ SEO管理者は、キーワードランク情報を取得したい検索エン�
 >
 >**必要な管理者権限**
 
-1. 「管理者」セクションに移動します。
+1. **管理者**&#x200B;セクションに移動します。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. [検索エンジン]タブをクリックします。
+1. 「**検索エンジン**」タブをクリックします。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 最適化する国/市区町村を選択し、「保存」をクリックします。
+1. 最適化する国/市区町村を選択し、[**保存**]をクリックします。
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ SEO管理者は、キーワードランク情報を取得したい検索エン�
 
 >[!MORELIKETHIS]
 >
->* [ダッシュボードについて：SEOスナップショット](understanding-the-seo-dashboard-seo-snapshot.md)
->* [ダッシュボードについて：瀬尾Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [ダッシュボードについて：SEOスナップショット](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [ダッシュボードについて：瀬尾Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
