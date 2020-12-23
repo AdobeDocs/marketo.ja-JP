@@ -3,9 +3,9 @@ unique-page-id: 2949192
 description: SEO -追加競合他社- Marketto Docs — 製品ドキュメント
 title: SEO -追加競合他社
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,8 @@ ht-degree: 0%
 
    おめでとう！ 完全に破壊するのに一歩近い。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [追加キーワード](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [キーワードについて(競合他社表示)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
+   >* [追加キーワード](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [キーワードについて(競合他社表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
