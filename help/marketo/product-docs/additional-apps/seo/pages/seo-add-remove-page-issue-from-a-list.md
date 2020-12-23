@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO -リストからのページの問題の追加削除 — Marketto Docs — 製品ドキュメント
 title: SEO -追加/Remove Page Issue From aリスト
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,15 @@ ht-degree: 0%
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
 1. 「ページ」タブで、「**問題**」をクリックします。
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. 追加するページの問題の上にカーソルを置きます。 **追加/リストから削除**&#x200B;をクリックします。
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. 追加するページの問題の上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    ページ雑誌号を追加するリストをクリックします。
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 削除するページの問題の上にカーソルを置きます。 **追加/リストから削除**&#x200B;をクリックします。
+1. 削除するページの問題の上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
