@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO -追加リストからのインバウンドリンクURLの削除 — Marketto Docs — 製品ドキュメント
 title: SEO -追加リストから受信リンクURLを削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. 分類する受信リンクURLの上にカーソルを置きます。 「リストに追加/削除」をクリックします。
+1. 分類する受信リンクURLの上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ ht-degree: 0%
 
 ## リストから受信リンクURLを削除{#remove-an-inbound-link-url-from-a-list}
 
-1. リストから受信リンクURLを削除したい場合があります。
+リストから受信リンクURLを削除したい場合があります。
+
+1. 「**受信リンク**」をクリックします。
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. [リストでフィルタ]ドロップダウンをクリックします。 クリーンアップするリストをクリックします。
+1. 「**リストでフィルター**」ドロップダウンをクリックします。 クリーンアップするリストをクリックします。
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 削除するインバウンドリンクURLの上にカーソルを置きます。 「リストに追加/削除」をクリックします。
+1. 削除するインバウンドリンクURLの上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
