@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - CSVを使用したキーワードのインポート — Marketto Docs — 製品ドキュメント
 title: SEO - CSVを使用したキーワードのインポート
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO - CSVを含むキーワードのインポート{#seo-importing-keywords-with-a-csv}
 
-1. [キーワード](seo-add-keywords.md)を手動で追加したり、[キーワードの提案](seo-get-suggested-keywords.md)を取得したり、CSVファイルからキーワードをインポートしたりできます。 インポートの実行方法を次に示します。
+1. [キーワード](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)を手動で追加したり、[キーワードの提案](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)を取得したり、CSVファイルからキーワードをインポートしたりできます。 インポートの実行方法を次に示します。
+
 1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -44,13 +45,8 @@ ht-degree: 0%
 
    各キーワードに関連付けられたすべてのデータを読み込むのに数分かかる場合があります。 人生の意味を考える。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [キーワードについて(概要表示)](seo-understanding-keywords.md)
-   >    * [リストから追加のキーワードの削除](seo-add-remove-keywords-from-a-list.md)
-
+   >* [キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [リストから追加のキーワードの削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
