@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO — ページ詳細ドリルダウンの使用 — Marketto Docs — 製品ドキュメント
 title: SEO — ページ詳細ドリルダウンの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## ページが{#keyword-s-that-page-is-optimized-for}用に最適化されたキーワード
 
-ここで[ページを最適化するキーワードを](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)に選択します。
+ここで[ページを最適化するキーワードを](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)に選択します。
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ターゲットキーワードを使用した特定ページの最適化](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[ターゲットキーワードを使用した特定ページの最適化](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
