@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 次世代マンチキントラッキングFAQ - Marketto Docs — 製品ドキュメント
 title: 次世代マンチキントラッキングFAQ
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
 
 >[!NOTE]
 >
->**例**
->
 >**トリガー**:訪問回数Webページ、Webページの価格設定ページ\
->**フロー**:Score +10 and Ofterist Moment、 **Web**:表示された価格ページ
+>**フロー**:スコア+10と注目の瞬間の変更
+>**Web**:表示された価格ページ
 >
 >Munchkin V2では、匿名の人が価格ページを訪問した場合、キャンペーンにすぐには入りません。 匿名の人が知られたら、このキャンペーンを彼女に対して実行します。 彼女は以下のことを行う。
 >
@@ -60,9 +59,6 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
    >
    >
 * 「新しい人」アクティビティを現在の状態でログに記録する
-
->
-
 
 
 ## 「匿名」フィルターが既に設定されているスマートリストはどうなりますか？{#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
 
 ## もっと質問がある！ どうやって答えを？{#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/welcome)にご連絡ください。 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162)宛てに電子メールを送信することもできます。
+[コミュニティ](https://nation.marketo.com/welcome)にご連絡ください。 [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡することもできます。 彼らは喜んであなたの質問に答える。
