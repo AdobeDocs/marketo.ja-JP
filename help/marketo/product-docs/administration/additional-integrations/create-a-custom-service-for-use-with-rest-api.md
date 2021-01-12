@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: ReST API - Marketto Docs — 製品ドキュメントで使用するカスタムサービスの作成
 title: ReST APIで使用するカスタムサービスの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
 >[!PREREQUISITES]
 >
->* [APIのみのユーザーロールの作成](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [APIのみのユーザーの作成](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [APIのみのユーザーロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [APIのみのユーザーの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -28,9 +28,7 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 >
 >**必要な管理者権限**
 
->[!NOTE]
->
->**ディープダイブ**
+>[!TIP]
 >
 >[ReST API](http://developers.marketo.com/documentation/rest/)の詳細については、開発者向けのドキュメントを参照してください。 また、必要に応じて、[SOAP API](http://developers.marketo.com/documentation/soap/)も用意しています。
 
@@ -48,11 +46,9 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. サービスの&#x200B;**表示名**&#x200B;を入力します。 **APIのみユーザー** [以前に作成した](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)を選択します。
+1. サービスの&#x200B;**表示名**&#x200B;を入力します。 **APIのみユーザー** [以前に作成した](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を選択します。
 
    >[!NOTE]
-   >
-   >**Reminder**
    >
    >一般的なウェビナーサービスには、既にネイティブ統合が用意されています。
 
@@ -85,4 +81,3 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 >[!CAUTION]
 >
 >この情報は共有しないでください。データのバックドアです。 安全に！
-
