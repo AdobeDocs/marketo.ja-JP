@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: LaunchPointサ追加ービスとしてのGoogle AdWords - Marketto Docs — 製品ドキュメント
 title: LaunchPoint追加サービスとしてのGoogle AdWords
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
 >[!NOTE]
 >
->また、[Google AdWordsをLaunchpointサービスとしてマネージャーアカウント](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)と統合することもできます。
+>また、[Google AdWordsをLaunchpointサービスとしてマネージャーアカウント](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)と統合することもできます。
 
 1. **管理者**&#x200B;セクションに移動します。
 
@@ -61,7 +61,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. MarketorからGoogle AdWordsへのオフラインコンバージョンを**週別**または&#x200B;**日別**&#x200B;にアップロードします。
+1. MarkettoからGoogle AdWords **週別**&#x200B;または&#x200B;**日別**&#x200B;にオフラインコンバージョンをアップロードします。
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
    >
    >[この機能が動作するには、自動](https://support.google.com/adwords/answer/1752125?hl=en) タグ付けを選択する必要があります。非アクティブ化はAdWords内で行う必要があります。
 
-   >[!NOTE]
-   >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [売上高モデルでのGoogle AdWordsコンバージョンの設定](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 素晴らしい！ 次の関連記事を参照して、売上高モデルでAdWordのオフラインコンバージョンをマッピングする方法を学習してください。
+
+>[!MORELIKETHIS]
+>
+>[売上高モデルでのGoogle AdWordsコンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
