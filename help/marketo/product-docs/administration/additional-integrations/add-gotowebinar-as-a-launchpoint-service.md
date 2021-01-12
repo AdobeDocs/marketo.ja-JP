@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: LaunchPointサ追加ービスとしてのGoToウェビナー — Marketto Docs — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのGoToウェビナー
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
 >[!NOTE]
 >
->**Reminder**
->
 >この手順では、GoToWebセミナーの既存の購読と管理権限が必要です。 手元のGoToWebセミナーにサインオンする際に使用する電子メールとパスワードを伝えます。
 
 >[!NOTE]
@@ -37,11 +35,11 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoToWebセミナー**。
+1. **表示名**&#x200B;を入力します。 「**サービス**」で、「**GoToWebinar**」を選択します。
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 次に、「**Log Into** **GoToWebinar**」をクリックします。
+1. 次に、「**GoToWebinar**&#x200B;にログイン」をクリックします。
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
 >[!MORELIKETHIS]
 >
->[GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)でイベントを作成する方法を説明します。
-
+>[GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)でイベントを作成する方法を説明します。
