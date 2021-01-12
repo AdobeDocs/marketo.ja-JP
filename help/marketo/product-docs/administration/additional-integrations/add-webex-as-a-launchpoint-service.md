@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: LaunchPointサ追加ービスとしてのWebEx - Marketto Docs — 製品ドキュメント
 title: LaunchPoint追加サービスとしてのWebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Marketorは、WebExウェビナーの登録と出欠を管理します。
 
 >[!NOTE]
 >
->**Reminder**
->
 >この手順では、WebExへの既存の購読と管理権限が必要です。 次の設定を手元に用意しておきます。ユーザー名、パスワード、サイト名。
 
 >[!NOTE]
 >
 >サイト名は、WebExへのログインに使用するURLの末尾にあります。 次に例を示します。
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**ny**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >注意：このフィールドにURL全体を入力しないでください。サイト名のみを入力してください。
 
@@ -49,7 +47,7 @@ Marketorは、WebExウェビナーの登録と出欠を管理します。
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. 「** Site Name**」を入力し、「**Create**」をクリックして、プロセスを完了します。
+1. **サイト名**&#x200B;を入力し、**「作成**」をクリックして、プロセスを完了します。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ Marketorは、WebExウェビナーの登録と出欠を管理します。
 
 >[!MORELIKETHIS]
 >
->[WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)でイベントを作成する方法を説明します。
-
+>[WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)でイベントを作成する方法を説明します。
