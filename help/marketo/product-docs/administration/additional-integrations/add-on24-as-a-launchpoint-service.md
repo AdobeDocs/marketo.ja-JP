@@ -3,7 +3,7 @@ unique-page-id: 7512276
 description: LaunchPointサ追加ービスとしてのON24 - Marketto Docs — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -27,15 +27,15 @@ Marketorは、ON24ウェビナーの登録と出席を管理します。
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. 「**新規**」を選択し、「**新規****サービス**」を選択します。
+1. 「**新規**」を選択し、「**新しいサービス**」を選択します。
 
    ![](assets/on24-new-service.png)
 
-1. **ディスプレイ** **名前**&#x200B;を入力します。 「**サービス**」で、「**ON24**」を選択します。
+1. **表示名**&#x200B;を入力します。 「**サービス**」で、「**ON24**」を選択します。
 
    ![](assets/new-service-on24.png)
 
-1. **クライアント** **キー**&#x200B;と&#x200B;**クライアント** **ID**&#x200B;を&#x200B;**設定**&#x200B;に入力し、**作成**&#x200B;をクリックして、処理を完了します。
+1. **設定**&#x200B;に&#x200B;**クライアントキー**&#x200B;と&#x200B;**クライアントID**&#x200B;を入力し、**作成**&#x200B;をクリックして、プロセスを完了します。
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,4 @@ Marketorは、ON24ウェビナーの登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->ON24[でウェビナーイベントを作成する方法を説明します。](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-
+>ON24[でウェビナーイベントを作成する方法を説明します。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
