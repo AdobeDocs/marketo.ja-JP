@@ -3,7 +3,7 @@ unique-page-id: 2360352
 description: SOAP API設定の指定 — Marketto Docs — 製品ドキュメント
 title: SOAP API設定の指定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->REST APIの使用をお勧めします。 [dev.marketo.com](http://developers.marketo.com/documentation/rest/)で詳しく知る。
+>REST APIの使用をお勧めします。 詳しくは、[developers.marketo.com](http://developers.marketo.com/documentation/rest/)を参照してください。
 
 >[!NOTE]
 >
@@ -36,4 +36,3 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[SOAP APIドキュメント](http://developers.marketo.com/documentation/soap/)
-
