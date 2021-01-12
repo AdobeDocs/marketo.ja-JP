@@ -3,9 +3,9 @@ unique-page-id: 15695874
 description: BrightTALKをMarkettoに接続 — Marketto Docs — 製品ドキュメント
 title: BrightTALKをMarketoに接続
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 >
 >この時点で、BrightTALKがMarketoインスタンスに与える権限を制限するために、APIのみのユーザーロールとAPIユーザーを設定する必要があります。 この手順の記事は既にあるので、リンクします。
 
-1. [APIのみのユーザーロール](http://docs.marketo.com/x/iwMk)を作成します。
-1. [手順4で作成したBrightTALK APIロールを使用して](http://docs.marketo.com/x/jwMk)、APIユーザーを作成します。
+1. [APIのみのユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)を作成します。
+1. [手順4で作成したBrightTALK APIロールを使用して](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)、APIユーザーを作成します。
 1. 管理領域に戻ります。
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 
    ![](assets/three.png)
 
-1. 任意の表示名を入力します。 「サービス」ドロップダウンをクリックし、「カスタム&#x200B;**」を選択します（「BrightTALK」を選択しないで****ください）。**
+1. 任意の表示名を入力します。 「サービス」ドロップダウンをクリックし、「カスタム&#x200B;**」を選択します（「BrightTALK」を選択しないで&#x200B;__ください）。**
 
    ![](assets/four.png)
 
@@ -73,9 +73,8 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 
    ![](assets/ten.png)
 
-## BrightTALK {#steps-in-brighttalk-1}のステップ
+## BrightTALK {#additional-steps-in-brighttalk}の追加手順
 
 1. 手順3からBrightTALKコネクタの設定画面に戻り、手順12と14で保存した資格情報を入力します。
 
    秘密鍵証明書が認証されると、BrightTALKがMarketoに正式に接続されます。 次のステップは、[同期するデータフィールドを](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)決定することです。
-
