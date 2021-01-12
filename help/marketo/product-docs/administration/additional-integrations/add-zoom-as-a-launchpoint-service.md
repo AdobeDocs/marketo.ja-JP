@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: LaunchPointサ追加ービスとしてズーム — Marketto Docs — 製品ドキュメント
 title: LaunchPointサー追加ビスとしてズーム
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
 >この手順では、ズームおよび管理権限に対する既存の購読が必要です。 手元のズームにサインインする際に使用する電子メールとパスワードを入手します。
 
 1. 「**管理者**」領域に移動し、「**起動ポイント**」をクリックします。
 
    ![](assets/launchpoint.png)
 
-1. 「**New **」ドロップダウンをクリックし、「**New Service**」を選択します。
+1. 「**新規**」ドロップダウンをクリックし、「**新規サービス**」を選択します。
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**ズーム**。
+1. **表示名**&#x200B;を入力します。 「**サービス**」で、「**ズーム**」を選択します。
 
    ![](assets/newservice-1.png)
 
@@ -57,5 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ズーム](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)でイベントを作成する方法を説明します。
-
+>[ズーム](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)でイベントを作成する方法を説明します。
