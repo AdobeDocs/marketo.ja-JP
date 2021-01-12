@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: LaunchPointサービスとしてのFacebook追加による職場 — Marketto Docs — 製品ドキュメント
 title: LaunchPointサービスとしてのFacebook追加による職場
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Workplace統合には、次の2つの通知タイプが含まれます。
 
 >[!PREREQUISITES]
 >
->職場通知が既に有効になっていない場合は、[サポート](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)にお問い合わせください。
+>職場通知を既に有効にしていない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. **LaunchPoint**&#x200B;に移動し、**新しい**&#x200B;の下にある&#x200B;**新しいサービス**&#x200B;をクリックします。
 
@@ -65,4 +65,3 @@ Workplace統合には、次の2つの通知タイプが含まれます。
    手順7で選択したFacebookグループへの通知の投稿が開始されます。 次のようになります。
 
    ![](assets/example.png)
-
