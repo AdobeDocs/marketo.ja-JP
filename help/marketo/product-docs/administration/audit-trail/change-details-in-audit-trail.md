@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 監査証跡の詳細の変更 — Marketto Docs — 製品ドキュメント
 title: 監査証跡の詳細の変更
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '1901'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -101,11 +101,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>「電子メールから」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メール保護]</a>」に更新しました。</td> 
+   <td>「電子メールから」を「newemail@name.com」に更新しました。</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>「返信先」を「<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[電子メール保護]</a>」に更新しました</td> 
+   <td>「返信先」を「newreplytoemail@name.com」に更新しました。</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -620,7 +620,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>スマートリストの設定の変更</td> 
-   <td>フィルターとトリガーの名前と値を含む、現在の状態のスナップショットを表示します</td> 
+   <td>フィルターとトリガーの名前と値を含む現在の状態のスナップショットを表示します</td> 
   </tr> 
   <tr> 
    <td>キャンペーンスケジュールの変更</td> 
@@ -657,7 +657,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>スマートリストの設定の変更</td> 
-   <td>フィルターとトリガーの名前と値を含む、現在の状態のスナップショットを表示します </td> 
+   <td>フィルターとトリガーの名前と値を含む現在の状態のスナップショットを表示します </td> 
   </tr> 
   <tr> 
    <td rowspan="11">スニペット</td> 
@@ -801,9 +801,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [監査証跡でのフィルタリング](filtering-in-audit-trail.md)
-
->
-
-
+>[監査証跡でのフィルタリング](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
 
