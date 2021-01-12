@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: 監査証跡でのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
 title: 監査証跡でのフィルタリング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >検索パラメーターの組み合わせには、多数の可能性があります。 この例では、次の場所を見つけます。*すべての電子メール — 誰でも編集 — 過去7日間*。
+   >検索パラメーターの組み合わせには、多数の可能性があります。 この例では、次の場所を見つけます。_すべての電子メール — 誰でも編集 — 過去7日間_。
 
 1. **期間**&#x200B;ドロップダウンをクリックし、「**過去7日間**」を選択します。
 
@@ -57,12 +57,6 @@ ht-degree: 0%
    >
    >ワークスペースを有効にしている場合、すべてのワークスペースの監査データが表示されます。 ワークスペースフィルターを適用すると、監査証跡を使用するたびに、以前のワークスペース値がマーケティング担当者に記憶されます。 アセットレベルのワークスペース権限は適用されます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [監査証跡の詳細の変更](change-details-in-audit-trail.md)
-
-
+   >[監査証跡の詳細の変更](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
