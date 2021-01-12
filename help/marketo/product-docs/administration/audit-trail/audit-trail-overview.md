@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 監査証跡の概要 — Marketto Docs — 製品ドキュメント
 title: 監査証跡の概要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Xが何を企んでいるか
 
 ## 監査対象{#what-we-audit}
 
-Marketorは、次の[の作成、編集、削除](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)アクションを監査します。
+Marketorは、次の[の作成、編集、削除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)アクションを監査します。
 
 * Design Studioアセット
 * すべてのマーケティングプログラム
@@ -46,27 +46,27 @@ Marketorは、次の[の作成、編集、削除](http://docs.marketo.com/displa
 
 >[!NOTE]
 >
->現時点では、Webパーソナライゼーション、予測コンテンツまたは販売インサイト内で行われた監査の変更は、Marketoは&#x200B;**ありません**。
+>現時点では、Webパーソナライゼーション、予測コンテンツまたは販売インサイト内で行われた監査の変更は、Marketoは&#x200B;_ありません_。
 
 ## 監査証跡コンポーネント{#audit-trail-components}
 
 監査証跡は、3つのコンポーネントで構成されます。
 
-**(1) [資産監査証跡](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**(1) [資産監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 特定のアセットに対するアクティビティの実行を参照してください。
 
-**2) [管理監査証跡](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) [管理監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 ユーザーベースの詳細を監視します。
 
-**3) [ユーザログイン履歴](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) [ユーザログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 購読にログインしているユーザーとログインしているタイミングを確認する。 失敗したログイン試行も含まれます。
 
 >[!TIP]
 >
->監査証跡を使用して監査できる量は非常に多いので、[フィルタ](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)を必ず利用してください。
+>監査証跡を使用して監査できる量は非常に多いので、[フィルタ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を必ず利用してください。
 
 ## データのエクスポート{#exporting-data}
 
@@ -82,9 +82,4 @@ Marketorは、次の[の作成、編集、削除](http://docs.marketo.com/displa
 
 >[!MORELIKETHIS]
 >
->* [監査証跡の有効化](enable-audit-trail.md)
-
->
-
-
-
+>[監査証跡の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
