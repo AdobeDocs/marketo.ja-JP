@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: マネージャーアカウントを使用したLaunchpointサービスとしての追加Google AdWords - Marketto Docs — 製品ドキュメント
 title: マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
 >[!NOTE]
 >
->また、[スタンドアロンのGoogle AdWordsアカウントをLaunchpointサービス](add-google-adwords-as-a-launchpoint-service.md)として統合することもできます。
+>また、[スタンドアロンのGoogle AdWordsアカウントをLaunchpointサービス](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)として統合することもできます。
 
 1. **管理者**&#x200B;セクションに移動します。
 
@@ -63,7 +63,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. MarketorからGoogle AdWordsへのオフラインコンバージョンを**週別**または&#x200B;**日別**&#x200B;にアップロードします。
+1. MarkettoからGoogle AdWords **週別**&#x200B;または&#x200B;**日別**&#x200B;にオフラインコンバージョンをアップロードします。
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   イッピー！ 次に、売上高モデルでAdWordsオフラインコンバージョンをマッピングする方法について、以下の関連記事を参照してください。
+   次に、売上高モデルでAdWordsオフラインコンバージョンをマッピングする方法について、以下の関連記事を参照してください。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [マネージャーアカウントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[マネージャーアカウントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
