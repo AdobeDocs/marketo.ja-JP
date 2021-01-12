@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: IPベースのAPIアクセスの許可リストの作成 — Marketto Docs — 製品ドキュメント
 title: IPベースのAPIアクセスの許可リストの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. 「IP Restrictions」領域で、「**Edit, **」をクリックするか、左上の「** Edit IP Restrictions **」をクリックします。
+1. 「IP Restrictions」領域で、「**編集，**」をクリックするか、左上の「**IP制限の編集**」をクリックします。
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 「**保存**」をクリックします。
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
