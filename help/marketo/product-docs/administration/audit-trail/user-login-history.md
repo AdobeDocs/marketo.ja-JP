@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: ユーザーログイン履歴 — Marketto Docs — 製品ドキュメント
 title: ユーザーログイン履歴
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. **ユーザー**&#x200B;ドロップダウンからユーザーを選択します。** **
+1. **ユーザー**&#x200B;ドロップダウンからユーザーを選択します。
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. 「**失敗したログインのみ**」ボックスをオンにすると、失敗したログインのみが検索に表示されます。
 
@@ -69,10 +67,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [監査証跡の概要](audit-trail-overview.md)
-
-
+   >[監査証跡の概要](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
