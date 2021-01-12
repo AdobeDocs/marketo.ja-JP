@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: ポータルへ追加のシングルサインオン — Marketto Docs — 製品ドキュメント
 title: ポータル追加へのシングルサインオン
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証で�
 
 SSOはデフォルトで無効になっています。 SAMLを有効にして設定するには、次の手順に従います。
 
-1. 「**管理者**」に移動し、「**シングルサインオン**」をクリックします。
+1. **管理者**&#x200B;に移動し、**シングルサインオン**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[`[email protected]`](http://mailto:support@marketo.com)にお問い合わせください。
+   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[[Marketto Support]](https://nation.marketo.com/t5/Support/ct-p/Support)までお問い合わせください。
 
 1. 「**SAML設定**」セクションで、「**編集**」をクリックします。
 
@@ -102,4 +102,3 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
    >[!NOTE]
    >
    >これらのページはどちらも公開されている必要があります。
-
