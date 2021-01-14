@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: 電子メールのプライマリドメインを上書きする — Marketto Docs — 製品ドキュメント
 title: 電子メールのプライマリドメインを上書き
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >すべてのユーザーが、ブランドドメインを電子メール単位で設定する権限を持っているわけではありません。 ブランドドメインドロップダウンが表示されない場合は、管理者に問い合わせてください。
-
