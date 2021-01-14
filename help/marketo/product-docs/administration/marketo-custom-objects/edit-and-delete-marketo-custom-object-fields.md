@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: マーケティング先カスタムオブジェクトフィールド — Marketto Docs — 製品ドキュメントの編集と削除
 title: マーケティング先カスタムオブジェクトフィールドの編集と削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -45,18 +45,14 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   トリガーを引く前に、フィールドを本当に削除しておきます。 「**削除**」をクリックします。
+   トリガーを引っ張る前に、フィールドを本当に削除しておきます。 「**削除**」をクリックします。
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. 消えた！
+   消えた！
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >
-   >[追加マーケティング先カスタムオブジェクトフィールド](add-marketo-custom-object-fields.md)
-
+   >[追加マーケティング先カスタムオブジェクトフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
