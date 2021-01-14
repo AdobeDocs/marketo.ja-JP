@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360245
-description: 「管理者 —>電子メール」セクションから「登録解除テキスト」を削除します。Marketo Docs — 製品ドキュメント
-title: 「管理者 —>電子メール」セクションからの登録解除テキストの削除
+description: 「管理者の電子メール」セクションから「登録解除テキスト」を削除します。Marketo Docs — 製品ドキュメント
+title: 「管理者の電子メール」セクションからの「登録解除テキスト」の削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 「管理者 —>電子メール」セクション{#remove-unsubscribe-text-from-the-admin-email-section}から登録解除テキストを削除
+# 管理者の電子メールセクション{#remove-unsubscribe-text-from-the-admin-email-section}から登録解除テキストを削除
 
 「管理者/電子メール」領域から登録解除コンテンツを完全に削除する必要があるのは、電子メールテンプレート自体に登録解除リンクを作成することを選択した場合だけです。 テキストボックスに、コンテンツなしで保存できない検証が含まれています。 この問題は、小さなHTMLコメントを追加することで回避できます。 電子メールクライアントはHTMLで電子メールをレンダリングし、コメントが省略されるので、HTMLコメントは表示されません。 その方法を次に示します。
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    ![](assets/image2016-8-26-13-3a57-3a9.png)
 
-1. すべてのテキストを選択し、**Delete **keyを押します。
+1. すべてのテキストを選択し、**Delete**&#x200B;キーを押します。
 
    >[!CAUTION]
    >
    >削除する前に、これをコピーしてテキストドキュメントにバックアップとして貼り付けます。
 
-1. **<!--This is a comment -->**&#x200B;に入力します。
+1. `<!--This is a comment -->`に入力します。
 
    ![](assets/image2016-8-26-13-3a53-3a15.png)
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**購読解除テキスト**には1文字を追加する必要があります。 ダッシュまたはピリオドを使用します。
-
+>**購読解除テキスト**&#x200B;には1文字追加する必要があります。 ダッシュまたはピリオドを使用します。
