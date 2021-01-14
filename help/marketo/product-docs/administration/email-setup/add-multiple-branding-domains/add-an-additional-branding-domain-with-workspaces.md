@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Workspaces - Marketto Docs — 製品ドキュメントを含む追加追加のブランディングドメイン
 title: Workspaces追加を使用した追加のブランドドメイン
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->最初に、[デフォルトのブランドドメイン](edit-your-default-branding-domain.md)を編集する必要があります。
+>最初に、[デフォルトのブランドドメイン](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)を編集する必要があります。
 >
->ブランディングドメインを追加する前に、まず[汎用トラッキングリンク](edit-your-default-branding-domain-with-workspaces.md)をブランディングドメインに置き換える必要があります。
+>ブランディングドメインを追加する前に、まず[汎用トラッキングリンク](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)をブランディングドメインに置き換える必要があります。
 
-1. **Admin **に移動し、**電子メール**&#x200B;をクリックします。
+1. **管理者**&#x200B;に移動し、**電子メール**&#x200B;をクリックします。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. **追加 **をクリックして、ブランディングドメインを追加します。
+1. **追加**&#x200B;をクリックして、ブランディングドメインを追加します。
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 新しいブランドドメインを選択し、「**保存**」をクリックします。
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
