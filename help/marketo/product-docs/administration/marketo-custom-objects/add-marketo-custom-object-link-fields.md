@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 追加Marketoカスタムオブジェクトリンクフィールド — Marketto Docs — 製品ドキュメント
 title: 追加マーケティング先カスタムオブジェクトリンクフィールド
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 0%
    >
    >リードを選択すると、リストにID、電子メールアドレス、およびカスタムフィールドが表示されます。
    >
-   >
    >「会社」を選択すると、リストにIDとカスタムフィールドが表示されます。
 
 1. 接続先のリンクフィールドを、新しいフィールドの親として選択します。
@@ -81,7 +80,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. 「**Fields **」タブで、「**New Field**」をクリックします。
+1. 「**フィールド**」タブで、「**新しいフィールド**」をクリックします。
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -121,16 +120,10 @@ ht-degree: 0%
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [追加マーケティング先カスタムオブジェクトフィールド](add-marketo-custom-object-fields.md)
->* [マーケティングカスタムオブジェクトの編集と削除](edit-and-delete-a-marketo-custom-object.md)
->* [マーケティングカスタムオブジェクトについて](understanding-marketo-custom-objects.md)
->* [マーケティング先カスタムオブジェクトフィールドの編集と削除](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [追加マーケティング先カスタムオブジェクトフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [マーケティングカスタムオブジェクトの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [マーケティング先カスタムオブジェクトフィールドの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
