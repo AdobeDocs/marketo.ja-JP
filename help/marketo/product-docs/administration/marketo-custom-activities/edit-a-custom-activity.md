@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: カスタムアクティビティの編集 — Marketto Docs — 製品ドキュメント
 title: カスタムアクティビティの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >編集時にアクティビティが下書きだった場合、そのは下書きのままです。 公開済みの場合は、ステータスが「ドラフトと共に公開済み」に変わります。
-
