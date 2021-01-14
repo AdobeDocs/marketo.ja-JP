@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: システム管理フィールドについて — Marketto Docs — 製品ドキュメント
 title: システム管理フィールドについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # システム管理フィールドについて{#understanding-system-managed-fields}
 
-[人物の詳細ページ](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)には、Marketoが作成した一連の編集不可能なフィールドがあることに気付いたかもしれません。 このデータは様々なソースから得られ、数え切れないほどの値が表示される可能性があります。
+[人物の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)には、Marketoが作成した一連の編集不可能なフィールドがあることに気付いたかもしれません。 このデータは様々なソースから得られ、数え切れないほどの値が表示される可能性があります。
 
 ## フィールドタイプ{#field-types}
 
@@ -67,4 +67,3 @@ ht-degree: 0%
 | Munchkin API | マーケットのマンチキンAPIを通じて人物になった |
 | ソーシャルアプリ | ソーシャルウィジェットを通じて人になった |
 | イベントパートナー | リンクウェビナーを通じて人間になった |
-
