@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: 信頼できないソースからのリストインポート中にフィールドの更新をブロックする — Marketto Docs — 製品ドキュメント
 title: 信頼できないソースからのリストインポート中にフィールドの更新をブロックする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ ht-degree: 0%
 
 ## 信頼できないリストインポートの実行{#running-an-untrusted-list-import}
 
-1. リストのインポートを実行する際、前の手順で設定したすべてのフィールドを安全にする場合は、必ず「**信頼できない**」を選択してください。
+1. リストのインポートを実行する際、前の手順で設定したすべてのフィールドを安全にする場合は、「**信頼できない**」を必ず選択してください。
 
    ![](assets/importpersondetails.jpg)
 
-リストをインポートする手順について詳しくは、[人のリストをインポート](../../../getting-started/quick-wins/import-a-list-of-people.md)を参照してください。
+リストをインポートする手順について詳しくは、[人のリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)を参照してください。
 
 お疲れさま！ これで、重要なフィールドを信頼できないリストから守る方法が分かりました。
