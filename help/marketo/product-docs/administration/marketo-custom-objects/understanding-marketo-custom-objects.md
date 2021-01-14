@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Marketorカスタムオブジェクトについて — Marketto Docs — 製品ドキュメント
 title: マーケティングカスタムオブジェクトについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 カスタムオブジェクトを使用して、ビジネスに固有の指標を追跡します。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-スマートキャンペーンでは、カスタムオブジェクトをフィルターおよびトリガーとして使用します。 次に例を示します。
+スマートキャンペーンでは、カスタムオブジェクトをフィルターやトリガーとして使用します。 次に例を示します。
 
 * **フィルタ**:特定の車のブランドの所有者にのみ電子メールを送信
 * **トリガー**:カスタムオブジェクトがユーザーまたは会社に追加されたら、電子メールを送信します。
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ## マーケティングのカスタムオブジェクトへのアクセス{#accessing-marketo-custom-objects}
 
-1. マーケティングツールのカスタムオブジェクトを作成または編集するには、**Admin **をクリックし、**マーケティング先カスタムオブジェクト**&#x200B;のリンクをクリックします。
+1. Marketorのカスタムオブジェクトを作成または編集するには、**管理者**&#x200B;をクリックし、**マーケティング先カスタムオブジェクト**&#x200B;リンクをクリックします。
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ CRMまたはMarketoのみのレコードである複数のユーザーがMarketo
 
 カスタムオブジェクトは、1つのレコードに直接リンクすることのみ可能です。 つまり、カスタムオブジェクトタイプが会社フィールドによってリンクされている場合、CRMの連絡先コンバージョンを使用するか、MarketorのREST APIを使用して会社を管理する場合は、externalCompanyIdフィールドを使用して、個人レコードが会社に関連付けられていることを確認します。 会社レコードに明示的にリンクされていない個人レコードの場合、会社を使用してリンクされたカスタムオブジェクトは、会社フィールドの値が多くの人で共有されている場合でも、単一のレコードにランダムにリンクされます。
 
-詳しくは、[カスタムオブジェクトデータの読み込み](import-custom-object-data.md)を参照してください。
+詳しくは、[カスタムオブジェクトデータの読み込み](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)を参照してください。
 
 >[!MORELIKETHIS]
 >
->* [マーケティングカスタムオブジェクトの作成](create-marketo-custom-objects.md)
->* [カスタムオブジェクトの承認](approve-a-custom-object.md)
->* [マーケティングカスタムオブジェクトの編集と削除](edit-and-delete-a-marketo-custom-object.md)
->* [追加マーケティング先カスタムオブジェクトフィールド](add-marketo-custom-object-fields.md)
->* [マーケティング先カスタムオブジェクトフィールドの編集と削除](edit-and-delete-marketo-custom-object-fields.md)
->* [カスタムオブジェクトデータの読み込み](import-custom-object-data.md)
-
->
-
-
+>* [マーケティングカスタムオブジェクトの作成](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [カスタムオブジェクトの承認](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [マーケティングカスタムオブジェクトの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [追加マーケティング先カスタムオブジェクトフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [マーケティング先カスタムオブジェクトフィールドの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [カスタムオブジェクトデータの読み込み](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
