@@ -3,7 +3,7 @@ unique-page-id: 2360287
 description: Markettor - Marketto Docs — 製品ドキュメントでのカスタムフィールドの作成
 title: Marketorでのカスタムフィールドの作成
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 データを保存/取り込むためにMarketoに新しいカスタムフィールドが必要な場合は、次の方法で作成します。
 
-1. 「管理者」に移動し、「フィールド管理」をクリックします。
+1. 管理者に移動し、**フィールド管理**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >CRMと同期させるフィールドは、CRMで作成すると、Marketorに自動的に作成されます。
 
-1. 「新しいカスタムフィールド」をクリックします。
+1. 「**新しいカスタムフィールド**」をクリックします。
 
    ![](assets/two.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >[カスタムフィールドタイプ用語集](custom-field-type-glossary.md)をご覧ください。
+   >[カスタムフィールドタイプ用語集](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)をご覧ください。
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. マーケティング担当者に表示する名前を入力します。 API名は自動的に生成されます。 ツイークは可能ですが、一度設定すると名前を変更することはできません。 終了したら「作成」をクリックします。
+1. マーケティング担当者に表示する名前を入力します。 API名は自動的に生成されます。 ツイークは可能ですが、一度設定すると名前を変更することはできません。 完了したら「**作成**」をクリックします。
 
 >[!CAUTION]
 >
