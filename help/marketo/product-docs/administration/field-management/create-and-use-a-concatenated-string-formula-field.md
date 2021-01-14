@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: 連結文字列（数式）フィールドの作成と使用 — Marketto Docs — 製品ドキュメント
 title: 連結文字列（数式）フィールドの作成と使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   フローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)の[トークンの詳細を表示します。
+   フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)の[トークンの詳細を表示します。
 
 1. これで、電子メール内で数式フィールドをトークンとして追加できます。
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >数式フィールドは、ランディングページ、電子メール、スマートリスト列で使用できます。書き出されません。 数式フィールドを含む電子メールはバッチキャンペーンで送信できません
-
