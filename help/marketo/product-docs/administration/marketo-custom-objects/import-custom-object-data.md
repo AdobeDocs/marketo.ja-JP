@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: カスタムオブジェクトデータのインポート — Marketto Docs — 製品ドキュメント
 title: カスタムオブジェクトデータの読み込み
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # カスタムオブジェクトデータの読み込み{#import-custom-object-data}
 
-カスタムオブジェクトデータをデータベースにインポートするのは簡単です。 会社でカスタムオブジェクトを使用する場合、詳しくは[会社でのカスタムオブジェクトの使用](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies)を参照してください。
+カスタムオブジェクトデータをデータベースにインポートするのは簡単です。 会社でカスタムオブジェクトを使用する場合、詳しくは[会社でのカスタムオブジェクトの使用](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)を参照してください。
 
 1. 「My Marketo」で、**Database**&#x200B;に移動します。
 
@@ -71,9 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [マーケティングカスタムオブジェクトについて](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
