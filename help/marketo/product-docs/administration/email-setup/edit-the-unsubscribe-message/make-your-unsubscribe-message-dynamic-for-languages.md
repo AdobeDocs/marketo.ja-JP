@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: 購読解除メッセージを言語に対して動的にする — Marketo Docs — 製品ドキュメント
 title: 登録解除メッセージを言語に対して動的にする
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ ht-degree: 0%
 >
 >以下に、この小さなチュートリアルを設定しました。 これはベストプラクティスですが、他の方法でも実行できます。
 
-1. データの準備
-1. [「Preferred Language」という名前のカスタム](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)フィールドを作成します。（このフィールドを同期する場合は、CRMで設定します）。
+## データの準備{#prepare-your-data}
+
+1. [「Preferred Language」という名前のカスタム](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) フィールドを作成します。（このフィールドを同期する場合は、CRMで設定します）。
 
    >[!TIP]
    >
-   >今後、言語設定を取り込むために[フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合は、このフィールドを使用します。
+   >今後、言語設定を取り込むために[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合は、このフィールドを使用します。
 
-1. セグメントの作成
-1. **データベース**に移動します。
-** ![](assets/db.png)
+## セグメントを作成{#create-segmentation}
 
-   **
+1. **データベース**&#x200B;に移動します。
+
+   ![](assets/db.png)
 
 1. **新しい**&#x200B;ドロップダウンで、**新しいセグメント**&#x200B;をクリックします。
 
@@ -64,16 +65,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. スニペットの作成
+## スニペットの作成{#create-a-snippet}
+
 1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/ds.png)
 
 1. 「**新しい**」ドロップダウンで、「**新しいスニペット**」をクリックします。
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. スニペットに&#x200B;**登録解除メッセージ**&#x200B;の名前を付けます。 「**作成**」をクリックします。
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. 次のトークンをコピー&amp;ペーストします。**`{{system.unsubscribeLink}}`**&#x200B;を&#x200B;**リンクURL**&#x200B;フィールドに挿入します。 「**挿入**」をクリックします。
+1. 次のトークンをコピー&amp;ペーストします。`{{system.unsubscribeLink}}`を&#x200B;**リンクURL**&#x200B;フィールドに挿入します。 「**挿入**」をクリックします。
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. 同じトークンをコピーして貼り付けます。**`{{system.unsubscribeLink}}`**&#x200B;を&#x200B;**リンクURL**&#x200B;フィールドに挿入します。 「**挿入**」をクリックします。
+1. 同じトークンをコピーして貼り付けます。`{{system.unsubscribeLink}}`を&#x200B;**リンクURL**&#x200B;フィールドに挿入します。 「**挿入**」をクリックします。
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ ht-degree: 0%
 
    すごい。 もう少しで。
 
-1. 電子メールでのスニペットの使用
+## 電子メールでのスニペットの使用{#use-snippet-in-an-email}
+
 1. 電子メールエディター内で、編集可能な要素をクリックします。 次に歯車アイコンをクリックし、「**スニペットに置き換え**」を選択します。 編集可能なスニペット要素を選択する場合は、歯車アイコンをクリックし、「**編集**」を選択します。
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ ht-degree: 0%
    >
    >もちろん、残りの電子メールは動的な言語用に編集することもできます。 この操作を行っている間は、登録解除ページでも同じ方法を実行します。
 
-1. 動的コンテンツを含む登録解除ページのカスタマイズ
+## 動的コンテンツを含む登録解除ページのカスタマイズ{#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   ユーザーが好みの言語で登録解除ページにアクセスするようにする場合は、ランディングページーと確認ページで動的コンテンツを使用できます。
+ユーザーが好みの言語で登録解除ページにアクセスするようにする場合は、ランディングページーと確認ページで動的コンテンツを使用できます。
 
-   Design Studioに移動します。
+1. Design Studioに移動します。
 
    ![](assets/ds.png)
 
-   検索フィールドに「登録解除」と入力します。 登録解除ページが見つかるはずです。
+1. 検索フィールドに「_登録解除_」と入力します。 登録解除ページが見つかるはずです。
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   「ドラフトを編集」をクリックします。
+1. 「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   「セグメントの基準」を選択します。
+1. 「**セグメント基準**」を選択します。
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   「優先言語」セグメントを探します。 「保存」をクリックします。
+1. 「優先言語」セグメントを探します。 「**保存**」をクリックします。
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**ディープダイブ**
-   >
-   >
-   >[動的なコンテンツ](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)と、できるすべての素晴らしい機能についての詳細。
-
+   >[動的なコンテンツ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)と、できるすべての素晴らしい機能についての詳細。
