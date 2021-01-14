@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: カスタムアクティビティの公開 — Marketto Docs — 製品ドキュメント
 title: カスタムアクティビティの公開
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
    ![](assets/six-2.png)
 
    うまくいった！
-
