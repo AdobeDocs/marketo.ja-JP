@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
-description: カスタムオブジェクトの変更のトリガー — Marketto Docs — 製品ドキュメント
-title: カスタムオブジェクトの変更をトリガ
+description: カスタムオブジェクト変更のトリガー- Marketto Docs — 製品ドキュメント
+title: カスタムオブジェクト変更のトリガー
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 
-# カスタムオブジェクトの変更をトリガ{#trigger-off-custom-object-changes}
+# カスタムオブジェクトの変更のトリガー{#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >* Orionインフラストラクチャのお客様向け
 >* Marketoカスタムオブジェクトでのみ使用でき、ネイティブのSalesforceまたはMicrosoft Dynamics統合を通じて同期されるカスタムオブジェクトは使用できません。
->* トリガーとして、フィルターとしてではなく
+>* フィルターではなくトリガーとして
 
 >
 >
-[Marketo Support](http://support.marketo.com)に連絡して、カスタムオブジェクト変更トリガーを有効にしてください。
+[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して、カスタムオブジェクト変更トリガーを有効にしてください。
 
-スマートキャンペーンのスマートリストでは、カスタムオブジェクトが個人または会社に追加されたときにフローアクションをトリガーできます。 また、カスタムオブジェクトで&#x200B;*change*&#x200B;をトリガーとして使用するスマートリストを作成することもできます。 例えば、このレポートを使用して、コース名が更新されたときに電子メールを送信できます。
+スマートキャンペーンのスマートリストでは、カスタムオブジェクトが個人または会社に追加されたときにフローアクションをトリガーできます。 また、カスタムオブジェクトの&#x200B;*change*&#x200B;をトリガーとして使用するスマートリストを作成することもできます。 例えば、このレポートを使用して、コース名が更新されたときに電子メールを送信できます。
 
 >[!NOTE]
 >
@@ -57,11 +57,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [スマートリストの作成](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [マーケティングカスタムオブジェクトについて](understanding-marketo-custom-objects.md)
-
+   >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
