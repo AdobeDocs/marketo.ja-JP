@@ -3,7 +3,7 @@ unique-page-id: 2360295
 description: すべてのMarketto APIフィールド名のリストの書き出し — Marketto Docs — 製品ドキュメント
 title: すべてのMarketor APIフィールド名のリストのエクスポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -34,4 +34,3 @@ SOAP APIまたはMunchkin APIを使用している場合は、すべてのフィ
 >[!NOTE]
 >
 >MLM API名の文字制限は255です。
-
