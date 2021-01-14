@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: 電子メール — Marketto Docs — 製品ドキュメント内のHTMLエンコードトークン
 title: 電子メール内のHTMLエンコードトークン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**定義**
->
->エンコードは、文字をHTMLコードバージョンに変換し、送信時の混乱を防ぎます(例：「&amp;」は「&amp;」に変更されます)。 詳しくは、Web開発者にお問い合わせください。
+>エンコードは、文字をHTMLコードバージョンに変換し、送信時の混乱を防ぎます(例：「&amp;」は`&amp;`に変更されます)。 詳しくは、Web開発者にお問い合わせください。
 
 1. **管理者**&#x200B;に移動します。
 
@@ -42,4 +40,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    それだ！ これは、個々のフィールドに対して必要な数だけ実行できます。
-
