@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: カスタムフィールドタイプ用語集 — Marketto Docs — 製品ドキュメント
 title: カスタムフィールドタイプ用語集
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Marketorでのカスタムフィールドの作成](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Marketorでのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->フィールドのタイプに応じて、フィルタ/トリガ[演算子](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary)は異なります。
+>フィールドのタイプに応じて、フィルタ/トリガー[演算子](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)は異なります。
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ ht-degree: 0%
 
 **例名：** 代替電子メール — ユーザーの代替電子メールアドレスを保持します（実際には、デフォルトの電子メールアドレスフィールドのように、特別な電子メールアドレスをこのフィールドに送信することはできません）
 
-**値の例：** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**値の例：** name@company.com
 
 **演算子**:がis、is、not、がある開始、not開始と、contains、not contains、is empty、not empty
 
@@ -81,7 +77,7 @@ ht-degree: 0%
 
 ## 数式{#formula}
 
-**例：** 挨拶 — この特別なフィールドを [ソリューションで使用して、性別に基づいて適切な](create-and-use-a-concatenated-string-formula-field.md) 挨拶を得ます。
+**例：** 挨拶 — この特別なフィールドを [ソリューションで使用して、性別に基づいて適切な](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 挨拶を得ます。
 
 **例の値：リンクされたソリューションの** 確認
 
