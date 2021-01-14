@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: マーケティング先のカスタムアクティビティフィールド — Marketto Docs — 製品ドキュメント追加の編集/削除
 title: カスタムアクティビティフィ追加ールドに対するマーケティングの編集/削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >何を選択すべきか不明な場合 お前を守れ！ 使用可能なすべてのデータ型は、[この記事](../../../product-docs/administration/field-management/custom-field-type-glossary.md)で定義されています。
+   >何を選択すべきか不明な場合 お前を守れ！ 使用可能なすべてのデータ型は、[この記事](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)で定義されています。
 
 1. フィールドに名前を付けます。 Api名が自動入力されます。 終了したら、「**保存**」をクリックします。
 
@@ -94,4 +94,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    簡単だ！
-
