@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 通信制限を有効にする — Marketto Docs — 製品ドキュメント
 title: 通信制限を有効にする
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ ht-degree: 0%
 1. 「**管理者**」で、「**通信制限**」をクリックします。
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-「編集」をクリックします。
+
+1. 「**編集**」をクリックします。
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >日ごとは、購読のタイムゾーン（午前0時～午前0時）のカレンダー日に基づきます。
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[操作用の電子メール](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational)の詳細を表示します。
+   >[操作用の電子メール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)の詳細を表示します。
 
 1. 「**保存**」をクリックします。
 
@@ -58,15 +59,12 @@ ht-degree: 0%
    >
    >**例**
    >
-   >
-   >上記の設定は、1日&#x200B;****&#x200B;に&#x200B;**1通以上の電子メールを受信しない、または7日間&lt;a3/>に** 5以上の電子メールを受信しないことを意味します。
+   >上記の設定は、1日&#x200B;****&#x200B;に&#x200B;**1通以上の電子メールを受信しない、または7日間に** 5以上の電子メールを受信しないことを意味します。
 
    >[!NOTE]
-   >
    >
    >通信の制限は、すべての電子メールとエンゲージメントのプログラムに自動的に適用されます。
 
 >[!MORELIKETHIS]
 >
->[スマートキャンペーンへの通信制限の適用](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[スマートキャンペーンへの通信制限の適用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
