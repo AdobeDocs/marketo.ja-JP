@@ -3,9 +3,9 @@ unique-page-id: 2360253
 description: 「Webページとしての表示」メッセージの編集 — Marketto Docs — 製品ドキュメント
 title: 「表示をWebページとして」メッセージの編集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 「表示をWebページとして編集」メッセージ{#edit-the-view-as-web-page-message}を編集
 
-「[表示をWebページ](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)として編集する必要がある場合は、次のようにします。
+「[表示をWebページ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)として編集する必要がある場合は、次のようにします。
 
 >[!NOTE]
 >
@@ -29,14 +29,11 @@ ht-degree: 0%
    >
    >次の変数が重要です。 削除しないでください。
    >
-   >    
-   >    
-   >    * %mkt_webview_url%?mkt_tok=#MKT_TOK##
-   >    
-   >    
-   >第2部##MKT_TOK##は、その人のマンチキンcookieです。 リンクをクリックしたときに、適切にcookieを使用できることを確認します。
+   >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
+   >
+   >第2部`##MKT_TOK##`はその人のマンチキンクッキーです。 リンクをクリックしたときに、適切にcookieを使用できることを確認します。
 
-1. **表示をWebページHTML**、**表示をWebページテキスト**バージョンとして編集し、「**変更を保存**」をクリックします。
+1. **表示ーをWebページHTML**、**表示ーをWebページテキスト**&#x200B;バージョンとして編集し、「**変更を保存**」をクリックします。
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -47,9 +44,6 @@ ht-degree: 0%
 >* いずれかのHTMLボックスへのURLの追加
 >* テキストバージョンへのHTMLの配置
 
->
-
-
 
 あっある。 フォーマットを確認するためにテスト用電子メールを送信します。
 
@@ -57,8 +51,11 @@ ht-degree: 0%
 
 デフォルトのシステム「Webページとしての表示」に戻す必要がある場合は、次をコピー&amp;ペーストします。
 
-**WebページのHTMLとしての表示:Webページテキストとしての**
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **表示:**
+**WebページHTMLとしての表示:**
+
+`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
+
+**Webページテキストとしての表示:**
 
 この電子メールをWebページとして表示するには、次のアドレスに移動します。
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`ブーム！ 終わった。
