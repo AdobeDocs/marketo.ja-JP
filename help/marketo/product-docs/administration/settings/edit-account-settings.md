@@ -3,7 +3,7 @@ unique-page-id: 4719071
 description: アカウント設定の編集 — Marketto Docs — 製品ドキュメント
 title: アカウント設定の編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
    おい！ 情報が更新されました。
-
