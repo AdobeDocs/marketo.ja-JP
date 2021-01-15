@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: ユーザーの役割の作成、削除、編集、変更 — Marketto Docs — 製品ドキュメント
 title: ユーザーロールの作成、削除、編集および変更
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## ロールの作成{#create-a-role}
 
-1. 「**管理者**」に移動し、「**ユーザーとロール**」をクリックします。
+1. **管理者**&#x200B;に移動し、**ユーザーとロール**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. 「** Roles」タブ**に移動し、**New Role**&#x200B;をクリックします。
+1. 「**ロール」タブ**&#x200B;に移動し、「**新しいロール**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## ロールの削除{#delete-a-role}
 
-1. 「管理者」で** **「**ユーザーとロール**」をクリックします。
+1. 「**管理者**」で、「**ユーザーとロール**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. 「**Roles **」タブで、ロールを選択し、「**ロールを削除**」をクリックします。
+1. 「**ロール**」タブでロールを選択し、「**ロールを削除**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >アカウントの電子メールアドレスを更新しますか？ [こちらをご覧ください](http://docs.marketo.com/x/3wFI)。
+   >アカウントの電子メールアドレスを更新しますか？ [こちらをご覧ください](/help/marketo/product-docs/administration/settings/edit-account-settings.md)。
 
 ## ユーザーの役割の変更{#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >複数のロールを選択したままにした場合、Marketorは、最も厳しい権限をデフォルトに設定します。
-
-すごい今は本当に楽勝だ！  （わかる？）
