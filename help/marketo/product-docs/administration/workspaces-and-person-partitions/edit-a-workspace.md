@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: ワークスペースの編集 — マーケティングツールドキュメント — 製品ドキュメント
 title: ワークスペースの編集
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[ワークスペースと人物パーティションについて](understanding-workspaces-and-person-partitions.md)を使用してワークスペースをブラッシュアップします。
+>[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を使用してワークスペースをブラッシュアップします。
 
 1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
 
@@ -37,25 +35,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >必要なら、[もっと人のパーティション](create-a-person-partition.md)を作成できます。
+   >必要なら、[もっと人のパーティション](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)を作成できます。
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >**すべての個人パーティション**** ***チェックボックスは、このワークスペースがシステム内のすべてのリードパーティションを使用できることを意味します。
+   >「**すべての個人パーティション**」チェックボックスは、このワークスペースがシステム内のすべてのリードパーティションを使用できることを意味します。
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >「**プライマリ・パーソン・パーティション**」がデフォルトとして機能し、すべてのユーザーが割り当てられます。
+   >**主要人物パーティション**&#x200B;がデフォルトとして機能し、すべての人が割り当てられます。
 
-   複数のブランドドメインを有効にした場合は、別のプライマリブランドドメインに変更できます。 「保存」をクリックします。
+   複数のブランドドメインを有効にした場合は、別のプライマリブランドドメインに変更できます。 「**保存**」をクリックします。
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新しいワークスペースの作成](create-a-new-workspace.md)
->* [ワークスペースと個人パーティションの理解](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [ワークスペースと個人パーティションの理解](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
