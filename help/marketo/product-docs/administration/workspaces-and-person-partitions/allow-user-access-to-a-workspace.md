@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: ワークスペースへのユーザーアクセスを許可する — Marketto Docs — 製品ドキュメント
 title: ワークスペースへのユーザーアクセスを許可
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[ワークスペース](understanding-workspaces-and-person-partitions.md)の詳細を表示します。
+>[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)の詳細を表示します。
 
 1. 「管理者」で、「ユーザーとロール」をクリックします。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 「**Users **」タブで、ユーザーを選択し、「**ユーザーを編集**」をクリックします。
+1. 「**ユーザー**」タブで、ユーザーを選択し、「**ユーザーを編集**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   素晴らしい！ ユーザーがログインすると、ユーザーにアクセス権を与えたすべてのワークスペースが表示されます。
-
+素晴らしい！ ユーザーがログインすると、ユーザーにアクセス権を与えたすべてのワークスペースが表示されます。
