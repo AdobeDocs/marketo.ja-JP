@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: 個人の詳細ページ用のカスタムタブの作成 — Marketto Docs — 製品ドキュメント
 title: 個人の詳細ページ用のカスタムタブの作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ ht-degree: 0%
    >
    >操作する列が2つあります。
 
-   フィールドを削除する場合は、削除するフィールドを右クリックし、「削除」をクリックします。
+   フィールドを削除する場合は、削除するフィールドを右クリックし、「**削除**」をクリックします。
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    すごい仕事！ これで、ユーザーの詳細を読み込むときに、カスタムレイアウトを使用して重要な情報にアクセスできます。
 
    ![](assets/six-1.png)
-
