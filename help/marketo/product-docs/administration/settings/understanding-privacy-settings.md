@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: プライバシー設定について — Marketto Docs — 製品ドキュメント
 title: プライバシー設定について
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Web訪問者は、「追跡しない」(DNT)を選択することで、どのWebサイトでも追跡できないようにブラウザを設定できます。 これにより、特定のブラウザーおよびデバイスでの追跡を防ぎます。 詳しくは、ブラウザーのプライバシー設定を参照してください。
 
-Munchkinでは、マーケティング担当者は[ブラウザのDNT設定](edit-do-not-track-browser-support-settings.md)をサポートするか無視するかを決定できます。
+Munchkinでは、マーケティング担当者は[ブラウザのDNT設定](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)をサポートするか無視するかを決定できます。
 
 Webパーソナライゼーションでは、マーケティング担当者がブラウザーのDNT設定](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)を[サポートするか無視するかを決定できます。
 
@@ -76,5 +76,4 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 
 * Webパーソナライゼーション(RTP)の場合、次をjavascriptに追加します。
 
-匿名化IP :rtp(&#39;send&#39;,&#39;表示&#39;)；を呼び出す前にadd rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39; :true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
