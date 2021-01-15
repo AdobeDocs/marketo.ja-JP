@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: PersonパーティションのWorkspacesへの割り当て — Marketto Docs — 製品ドキュメント
 title: PersonパーティションのWorkspacesへの割り当て
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新しいワークスペースの作成](create-a-new-workspace.md)
+>[新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 >[!CAUTION]
 >
->ワークスペースと個人パーティションは複雑になる場合があります。 [Marketoサポート](http://support.marketo.com/)にお問い合わせください。
+>ワークスペースと個人パーティションは複雑になる場合があります。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-1. 「管理者」で、「ワークスペースとパーティション」をクリックします。
+1. 「管理者」で、「**ワークスペースとパーティション**」をクリックします。
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   プライマリ担当者パーティションは、すべての人が入力されるデフォルトです。 [フローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](assigning-person-partitions-with-assignment-rules.md)を使用して、人々を移動します。
+   プライマリ担当者パーティションは、すべての人が入力されるデフォルトです。 [フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)を使用して、人々を移動します。
 
 1. 「**保存**」をクリックします。
 
@@ -53,11 +53,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-   おめでとう！ ワークスペースが正常に編集されました。
+おめでとう！ ワークスペースが正常に編集されました。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**ディープダイブ**
->
->[ワークスペースと個人パーティションの理解](understanding-workspaces-and-person-partitions.md)。
-
+>[ワークスペースと個人パーティションの理解](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
