@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: ユーザーの役割と権限の管理 — Marketto Docs — 製品ドキュメント
 title: ユーザーの役割と権限の管理
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -24,16 +24,16 @@ ht-degree: 0%
 Marketorには、様々なレベルのアクセスを持つ組み込みの役割が用意されています。
 
 * **管理者** - 「管理者」セクションを含む、アプリケーションのすべての部分
-* **標準ユーザー** — 管理セクションを除く、アプリケーションのすべての部分
+* **標準ユーザー** - 「管理者」セクション以外の、アプリケーションのすべての部分
 * **マーケティングユーザー** - 「管理者」セクション以外の、アプリのすべての部分
-* **Web Designer **- Design Studioのみ
-* **Analyticsユーザー**- Analyticsセクションのみ
+* **Web Designer**  - Design Studioのみ
+* **Analyticsユーザー** - 「Analytics」セクションのみ
 
 管理者ロールと標準ユーザーロールは編集できませんが、その他のロールは編集できます。 また、会社内の特定の組織構造に合わせて、新しいカスタムロールを作成することもできます。
 
 ## ユーザーへのロールの割り当て{#assign-roles-to-a-user}
 
-[ユーザーを初めて作成するときに](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role)、または[既存のユーザー](managing-marketo-users.md)を編集するときに、ユーザーにロールを割り当てることができます。
+[ユーザーを初めて作成するときに](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)、または[既存のユーザー](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)を編集するときに、ユーザーにロールを割り当てることができます。
 
 1. 既存のユーザーを編集するには、**管理者**&#x200B;に移動し、**ユーザーとロール**&#x200B;をクリックします。
 
@@ -49,25 +49,25 @@ Marketorには、様々なレベルのアクセスを持つ組み込みの役割
 
    >[!NOTE]
    >
-   >各役割について詳しくは、[役割の権限の説明](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)を参照してください。
+   >各役割について詳しくは、[役割の権限の説明](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)を参照してください。
 
 ## 新しいロールの作成{#create-a-new-role}
 
 場合によっては、組織に非常に特定の役割を持つ従業員がいて、権限のカスタムの組み合わせを必要とすることがあります。
 
-1. 新しいユーザーロールを作成するには、「管理者」に移動し、「ユーザーとロール」をクリックします。
+1. 新しいユーザーロールを作成するには、管理者に移動し、「**ユーザーとロール**」をクリックします。
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. 「ロール」タブをクリックします。
+1. 「**ロール**」タブをクリックします。
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. 「新しいロール」をクリックします。
+1. 「**新しいロール**」をクリックします。
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. 「ロール名」、「説明」（オプション）を入力し、このロールのユーザーに必要な権限を選択します。
+1. **ロール名**、**説明**（オプション）を入力し、このロールのユーザーに必要な権限を選択します。
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -87,7 +87,7 @@ Marketorには、様々なレベルのアクセスを持つ組み込みの役割
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. 必要に応じて、**ロール名**&#x200B;と**説明**を変更し、関連する&#x200B;**権限**&#x200B;の選択を変更します。
+1. 必要に応じて&#x200B;**ロール名**&#x200B;と&#x200B;**説明**&#x200B;を変更し、関連する&#x200B;**権限**&#x200B;の選択を変更します。
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -99,28 +99,18 @@ Marketorには、様々なレベルのアクセスを持つ組み込みの役割
 
 役割が不要になった場合は、削除できます。
 
-1. 「管理者」に移動し、「ユーザーとロール」をクリックします。
+1. 「管理者」に移動し、「**ユーザーとロール**」をクリックします。
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. 「ロール」タブをクリックします。
+1. 「**ロール**」タブをクリックします。
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. リストから削除するロールを選択し、「ロールを削除」をクリックします。
+1. リストから削除するロールを選択し、「**ロールを削除**」をクリックします。
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. 「削除」をクリックして確定します。
+1. 「**削除**」をクリックして確認します。
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->追加のユーザーを作成し、それらのユーザーにロールを割り当てる方法について詳しくは、[Marketing Started with Marketto](../../../getting-started.md)を参照してください。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[管理者](http://docs.marketo.com/display/docs/administration)の深い潜在地で、他の管理タスクについて説明します。
