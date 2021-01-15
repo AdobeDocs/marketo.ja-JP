@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: ワークスペースと個人パーティションについて — Marketto Docs — 製品ドキュメント
 title: ワークスペースと個人パーティションの理解
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ワークスペースは複雑に設定できます。  [Marketo Support](http://support.marketo.com/)に連絡して、お客様にとって適切かどうかを確認してください。
+>ワークスペースは複雑に設定できます。 [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して、お客様にとって適切かどうかを確認してください。
 
 ワークスペースは、プログラム、ランディングページ、電子メールなどのマーケティングアセットを保持する、Marketorの別の領域です。 複数の人が使用できます。 各ユーザーは1つ以上のワークスペースにアクセスできます。
 
@@ -36,9 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[新しいワークスペース](create-a-new-workspace.md)を作成する方法を説明します。
+>[新しいワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)を作成する方法を説明します。
 
 ## ワークスペース間での共有{#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ ht-degree: 0%
 * ランディングページテンプレート
 * モデル
 * スマートキャンペーン
-* [スマートリスト](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [セグメント](share-segmentations-across-workspaces-and-partitions.md)
+* [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [セグメント](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * スニペット
 
 ## ワークスペース間でのクローン作成{#cloning-across-workspaces}
@@ -105,7 +103,7 @@ ht-degree: 0%
 
 ## 個人パーティション{#person-partitions}
 
-個人パーティションは、個別のデータベースのように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。 同じ電子メールアドレスを持つ重複レコードが必要になる可能性があるビジネス用途がある場合は、[マーケティング担当者](http://support.marketo.com)にお問い合わせください。
+個人パーティションは、個別のデータベースのように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。 同じ電子メールアドレスを持つ重複レコードが必要になる可能性があるビジネス用途がある場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 次の設定では、ユーザーパーティションを[workspaces](create-a-new-workspace.md)に割り当てることができます。
 
@@ -115,15 +113,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**例**
->
 >人物パーティションを使用する理由：
 >
 >* ワークスペースは、異なるアセットを持つだけでなく、他のユーザーとも共有しません
 >* 他のビジネス上の理由で重複が必要
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
-> [人のパーティション](create-a-person-partition.md)を作成する方法を学びます。
-
+>[人のパーティション](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)を作成する方法を学びます。
