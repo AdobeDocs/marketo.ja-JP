@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: APIのみのユーザーの作成 — Marketto Docs — 製品ドキュメント
 title: APIのみのユーザーの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # APIのみのユーザーの作成{#create-an-api-only-user}
 
-[REST API](http://developers.marketo.com/documentation/rest/)を介してMarketoと統合する場合は、API専用のユーザーを作成する必要があります。 これが方法です。
+[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoと統合する場合は、API専用のユーザーを作成する必要があります。 これが方法です。
 
 >[!PREREQUISITES]
 >
->* [APIのみのユーザーロールの作成](create-an-api-only-user-role.md)
-
->
-
+>[APIのみのユーザーロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ ht-degree: 0%
 
 よし！ 次に、カスタムサービスを作成します。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [ReST APIで使用するカスタムサービスの作成](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[ReST APIで使用するカスタムサービスの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
