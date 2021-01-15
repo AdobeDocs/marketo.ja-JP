@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: 購読のデフォルトの場所の設定 — Marketto Docs — 製品ドキュメント
 title: 購読のデフォルトの場所の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 購読{#set-default-location-settings-for-a-subscription-1}の既定の場所の設定
 
-管理者がデフォルトの場所の設定を変更すると、新しく作成したユーザーはこれらの設定を継承します。 ユーザーは、個々のアカウントで常に[言語、ロケールおよびタイムゾーンの環境設定](select-your-language-locale-and-time-zone.md)を変更できます。
+管理者がデフォルトの場所の設定を変更すると、新しく作成したユーザーはこれらの設定を継承します。 ユーザーは、個々のアカウントで常に[言語、ロケールおよびタイムゾーンの環境設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を変更できます。
 
-1. **管理者**&#x200B;の下で** **「**場所**」をクリックします。
+1. 「**管理者**」で、「**場所**」をクリックします。
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](http://salesforce.com/)は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
+   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/)は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
 
 ## 購読のデフォルトの通貨設定{#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [言語、ロケール、タイムゾーンの選択](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [言語、ロケール、タイムゾーンの選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
