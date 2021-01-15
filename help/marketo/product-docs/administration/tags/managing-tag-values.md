@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: タグ値の管理 — Marketto Docs — 製品ドキュメント
 title: タグ値の管理
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # タグ値の管理{#managing-tag-values}
 
-[](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) タグは、プログラムの説明に使用されます。必要な数だけ作成でき、それぞれに一意の値を設定できます。 これらの値の管理方法を次に示します。
+[](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) タグは、プログラムの説明に使用されます。必要な数だけ作成でき、それぞれに一意の値を設定できます。 これらの値の管理方法を次に示します。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新しいプログラムタグとタグ値の作成](create-a-new-program-tag-and-tag-values.md)
+>[新しいプログラムタグとタグ値の作成](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## タグ値の追加{#adding-tag-values}
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 1. 変更はすぐに表示されます。
 
-![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## タグ値の非表示{#hiding-tag-values}
 
 タグは古いプログラムで使用される場合があります。 タグタイプを非表示にすると、後で使用するために非推奨とすることができます。
 
-1. 「** ****タグ**」を選択し、非表示にする&#x200B;**値**&#x200B;を選択します。
+1. **タグ**&#x200B;を選択し、非表示にする&#x200B;**値**&#x200B;を選択します。
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   その後、将来使用する値を再表示できます。
-
+その後、将来使用する値を再表示できます。
