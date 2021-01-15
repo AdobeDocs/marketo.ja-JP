@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: 既存の人物パーティションの編集 — Marketto Docs — 製品ドキュメント
 title: 既存の人物パーティションの編集
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [個人パーティションの作成](create-a-person-partition.md)
-
->
-
-
+>[個人パーティションの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-5.png)
 
-1. ユーザーパーティション&#x200B;**名前**、**ワークスペース**それらが属するユーザーパーティションを入力し、**保存**&#x200B;をクリックします。
+1. ユーザーパーティション&#x200B;**名前**、**ワークスペース**&#x200B;の所属先を入力し、**保存**&#x200B;をクリックします。
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ ht-degree: 0%
 
    ![](assets/four-4.png)
 
-   それだ。 このような強力な機能は複雑なものに見えますが、そうではありません。
+それだ。 このような強力な機能は複雑なものに見えますが、そうではありません。
 
-   >[!CAUTION]
-   >
-   >2度計り、1回切り取ります。 間違ったワークスペースにパーティションを割り当てたくない。
-
+>[!CAUTION]
+>
+>2度計り、1回切り取ります。 間違ったワークスペースにパーティションを割り当てたくない。
