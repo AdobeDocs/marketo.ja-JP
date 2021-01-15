@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: 個人パーティションの作成 — Marketto Docs — 製品ドキュメント
 title: 個人パーティションの作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->まず[ワークスペースと個人パーティションについて](understanding-workspaces-and-person-partitions.md)を理解します。
+>まず[ワークスペースと個人パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を理解します。
 
 >[!CAUTION]
 >
->Personパーティションは複雑になる場合があります。 [Marketoサポート](http://support.marketo.com/)にお問い合わせください。
+>Personパーティションは複雑になる場合があります。 設定については、[Marketto Support](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-1. 「管理者」で、「ワークスペースとパーティション」を選択します。
+1. 「管理者」で、「**ワークスペースとパーティション**」を選択します。
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
@@ -37,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. パーティションに名前を付け、表示される&#x200B;**ワークスペース**&#x200B;を選択し、「**作成」をクリックします。**
+1. パーティションに名前を付け、表示される&#x200B;**ワークスペース**&#x200B;を選択し、**作成**&#x200B;をクリックします。
 
    ![](assets/three-2.png)
 
@@ -46,4 +44,3 @@ ht-degree: 0%
    ![](assets/four-2.png)
 
    あった！ これで、Personパーティションの作成方法がわかります。
-
