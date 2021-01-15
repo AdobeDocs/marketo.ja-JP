@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: 購読ログインでのユニバーサルIDの使用 — Marketto Docs — 製品ドキュメント
 title: 購読ログインでのユニバーサルIDの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ ht-degree: 0%
 ## モバイルプラットフォーム{#mobile-platform}
 
 ユニバーサルIDを持つユーザーは、最後にログインした購読から、Marketor MomentsおよびiPadイベントのチェックインアプリケーションにデータを表示できます。 Mobileプラットフォーム自体から購読を変更することはできません。
-
