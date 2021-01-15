@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: プログラムチャネルの作成 — Marketto Docs — 製品ドキュメント
 title: プログラムチャネルの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->Marketoの最も重要な要素である[プログラム](http://docs.marketo.com/display/docs/programs)についての詳細。
+>Marketoの最も重要な要素である[プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)についての詳細。
 
 1. 「**管理者**」セクションで、「**タグ**」をクリックします。
 
@@ -45,27 +43,20 @@ ht-degree: 0%
    >
    >**例**
    >
-   >
    >チャネル:ビルボード
    >
-   >    
-   >    
-   >    * 適用先：デフォルト
-   >    * 進行状況：参加中（不確かな場合は、これらの作業は正常）
-   >    * 成功：関与
+   >* 適用先：デフォルト
+   >* 進行状況：参加中（不確かな場合は、これらの作業は正常）
+   >* 成功：関与
 
-   >    
-   >    
+   >
    >チャネル:パーティ
    >
-   >    
-   >    
-   >    * 適用先：イベント
-   >    * 進行状況：招待、登録、ショーなし、出席
-   >    * 成功：出席
+   >* 適用先：イベント
+   >* 進行状況：招待、登録、ショーなし、出席
+   >* 成功：出席
 
-   >    
-   >    
+   >
    >既存のチャネルの進捗状況を調べて、その使用方法を確認してください。
 
 1. パーティチャネルの例を見てみましょう。 新しい&#x200B;**チャネル**&#x200B;に名前を付け、適用するプログラムの種類を選択します。
@@ -113,10 +104,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >**モバイルチェックインステータス******/（**登録**&#x200B;と&#x200B;**出席**）を持つ人のみが、[モバイルチェックインアプリ](http://docs.marketo.com/display/docs/events)に表示されます。
+   >**登録済み**&#x200B;と&#x200B;**出席済み**&#x200B;の&#x200B;**モバイルチェックインステータス**&#x200B;を持つ人のみが、[モバイルチェックインアプリ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)に表示されます。
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ ht-degree: 0%
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    うまくいった！ そのタイプの新しいプログラムを作成すると、この新しいチャネルが選択肢の1つになります。
-
