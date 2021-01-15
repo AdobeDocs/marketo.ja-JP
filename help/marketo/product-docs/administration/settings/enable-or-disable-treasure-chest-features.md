@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: 財宝箱機能の有効化または無効化 — Marketto Docs — 製品ドキュメント
 title: 宝箱機能の有効化/無効化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-1. 「**管理者**」の下にある「**宝箱**」をクリックします。
+1. **管理者**&#x200B;の下にある&#x200B;**宝箱**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
    >変更が反映されるようにするには、ログアウトしてからMarketingに戻す必要がある場合があります。
-
