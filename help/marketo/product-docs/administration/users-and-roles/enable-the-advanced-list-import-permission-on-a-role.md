@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: ロールに対する高度なリストインポート権限を有効にする — Marketto Docs — 製品ドキュメント
 title: ロールに対するアドバンスリストインポート権限の有効化
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. 「**Roles **」タブで、変更するロールを選択し、「**ロールを編集**」をクリックします。
+1. 「**ロール**」タブで、変更するロールを選択し、「**ロールを編集**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
