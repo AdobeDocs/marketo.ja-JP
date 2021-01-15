@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: 新しいプログラムタグとタグ値の作成 — Marketo Docs — 製品ドキュメント
 title: 新しいプログラムタグとタグ値の作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-プログラム用にカスタムの[タグ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を作成し、タグに値を割り当てることができます。
+プログラム用にカスタムの[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を作成し、タグに値を割り当てることができます。
 
 >[!NOTE]
 >
