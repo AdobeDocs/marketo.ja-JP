@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: プログラムチャネルからのプログラムステータスの削除 — Marketto Docs — 製品ドキュメント
 title: プログラムチャネルからのプログラムステータスの削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. ![—](assets/image2014-9-24-15-3a52-3a39.png)をクリックしてステータスを削除し、**「保存**」をクリックします。
+1. ![Xアイコン](assets/image2014-9-24-15-3a52-3a39.png)をクリックしてステータスを削除し、**保存**&#x200B;をクリックします。
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-うまくいった！ 必要に応じて、チャネル](delete-a-program-channel.md)全体を[削除することもできます。
+うまくいった！ 必要に応じて、チャネル](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)全体を[削除することもできます。
