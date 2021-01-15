@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 0%
          + [マーケティングカスタムオブジェクトの編集と削除](product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
          + [マーケティング先カスタムオブジェクトフィールドの編集と削除](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [カスタムオブジェクトデータの読み込み](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
-         + [カスタムオブジェクトの変更をトリガ](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [カスタムオブジェクト変更のトリガー](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
       + 設定{#settings}
          + [Analyticsのアトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [マーケティングパスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
@@ -263,7 +263,7 @@ ht-degree: 0%
       + スマートキャンペーン{#smart-campaigns}
          + [スマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + スマートキャンペーンの作成{#creating-a-smart-campaign}
-            + [バッチとトリガースマート・キャンペーンの理解](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+            + [バッチおよびトリガースマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [新しいスマートキャンペーンの作成](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [スマートキャンペーンのスマートリストの定義 |バッチ](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
             + [スマートキャンペーンのスマートリストの定義 |トリガー](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
@@ -272,7 +272,7 @@ ht-degree: 0%
             + [スマートキャンペーンの中止](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
             + [トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [スマートキャンペーンへの通信制限の適用](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-            + [自動トリガーキャンペーンのクリーンアップ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+            + [トリガーキャンペーンの自動クリーンアップ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [キャンペーンの操作：スマートキャンペーンのコピー](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [キャンペーンの操作：スマートキャンペーンの削除](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [スケジュール済バッチキャンペーンの実行の取り消し](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
@@ -285,7 +285,7 @@ ht-degree: 0%
             + [バッチスマートキャンペーンを今すぐ実行 | 「スケジュール」タブ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [バッチスマートキャンペーンを後で実行するようにスケジュールする](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [定期バッチキャンペーンのスケジュール](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-            + [「キャンペーンは要求済」を使用した販売用のトリガー・スマート・キャンペーンの設定](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
+            + [「キャンペーンは要求済」を使用した販売用のトリガースマートキャンペーンの設定](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [標準スマート・リスト・ルール・ロジックの使用](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + フローアクション{#flow-actions}
             + [スマ追加ートキャンペーンへのフローステップ](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
@@ -309,7 +309,7 @@ ht-degree: 0%
             + [リクエストキャンペーン](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [アラートの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [電子メールの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + [モバイルスマートキャンペーン用のトリガーとフィルター](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
+            + [モバイルスマートキャンペーンのトリガーとフィルター](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [スマートキャンペーンでのWebフックの使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [フローステップでの追加選択の使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [フローステップでのトークンの使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [表示されていない電子メールのテスト](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + 電子メール配信{#email-delivery}
             + [配信チャネルの概要](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Outlook365 SMTPサーバーをSales Connectで設定する方法](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [SMTPサーバーの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [配信チャネルの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + 販売の電子メールを送信{#send-a-sales-email}
@@ -1374,7 +1373,7 @@ ht-degree: 0%
          + [SMS追加のフローステップ](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Vibe SMSメッセージの作成](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
          + [SMSメッセージダッシュボード](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [スマートリストトリガおよびフィルターでのVibe SMSメッセージの使用](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [スマートリストのトリガーとフィルターでVibe SMSメッセージを使用する](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個人設定{#personalization}
       + セグメントとスニペット{#segmentation-and-snippets}
          + セグメント{#segmentation}
