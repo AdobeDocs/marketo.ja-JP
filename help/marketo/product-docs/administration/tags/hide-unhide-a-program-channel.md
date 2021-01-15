@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: プログラムチャネルの非表示/再表示 — Marketto Docs — 製品ドキュメント
 title: プログラムチャネルを非表示/再表示
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-プログラムチャネル[がプログラムで使用されていない場合は、&lt;a0/>削除できます。  ](delete-a-program-channel.md)しかし、一度使えば、そのままにしておく必要があります。  ただし、不要になった場合は非表示にすることができます。
+プログラムチャネル[がプログラムで使用されていない場合は、](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)削除できます。  しかし、一度使えば、そのままにしておく必要があります。  ただし、不要になった場合は非表示にすることができます。
 
 ## プログラムチャネルを非表示にする{#hide-a-program-channel}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. 「**チャネル**」ドロップダウンをクリックし、「**チャネル**」を選択して非表示にします。
+1. **チャネル**&#x200B;ドロップダウンをクリックし、非表示にする&#x200B;**チャネル**&#x200B;を選択します。
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-落ち着け、落ち着け！ (それは本当の式ですか？)
