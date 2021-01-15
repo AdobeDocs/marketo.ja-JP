@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: ロール権限の説明 — マーケティングツールドキュメント — 製品ドキュメント
 title: ロール権限の説明
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 使用可能な権限{#available-permissions}
 
-[ロール](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)を作成または編集する場合、次の権限の中から、該当するボックスをオンにして、そのロールを許可する権限を選択できます。
+[ロール](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)を作成または編集する場合、次の権限の中から、該当するボックスをオンにして、そのロールを許可する権限を選択できます。
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * アクセスチャネル-チャネルタグの変更に対してのみアクセスを許可し、他のカスタムタグにはアクセスを許可しません。
 * アクセス通信制限 — 管理者で通信制限を有効にするためのアクセス権をユーザーに与えます。
 * アクセスCRM — 管理者で、SalesforceやMicrosoft DynamicsなどのCRMへのアクセスをユーザーに提供します。
-* アクセス[Data.com](http://Data.com) - Data.comのフローアクションへのアクセスをユーザーに与えます。
+* アクセス[Data.com](https://Data.com) - Data.comのフローアクションへのアクセスをユーザーに与えます。
 * 電子メール管理者へのアクセス — ユーザーに電子メール管理者に権限を与え、登録解除ドメインやブランディングドメインなどのデフォルト設定を変更します。
 * アクセスイベントパートナー — 管理者のLaunchPointへのアクセスをユーザーに提供します。
 * アクセスフィールド管理 — 管理のフィールド管理へのアクセス権をユーザーに与えます
@@ -105,14 +105,12 @@ Analyticsへのアクセス
 Design Studioのタブとツリーの表示にアクセスできますが、詳細にはアクセスできません。
 
 * 電子メールへのアクセス
-
    * 電子メールの編集 — 電子メールの編集、作成、複製をユーザーに許可します
+      * 電子メールを操作可能にする — 電子メールを操作可能にする権限をユーザーに与えます。 詳しくは、[電子メールの操作](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * 電子メールを操作可能にする — 電子メールを操作可能にする権限をユーザーに与えます。 詳しくは、[電子メールの操作](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * 電子メールの承認 — ユーザーが電子メールを承認できるようにします。
-   * 電子メールの削除 — ユーザーが電子メールを削除できるようにします。
-   * ブランドドメインを設定 — ブランドドメインを使用できるようにします。 詳しくは、[追加複数のブランドドメイン](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * 電子メールの承認 — ユーザーが電子メールを承認できるようにします。
+      * 電子メールの削除 — ユーザーが電子メールを削除できるようにします。
+      * ブランドドメインを設定 — ブランドドメインを使用できるようにします。 詳しくは、[追加追加のブランドドメイン](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 電子メールテンプレートへのアクセス
 
@@ -220,5 +218,3 @@ Workspace管理
 
 * 特定のワークスペースの管理者アクセス権（Workspacesを有効にしている場合のみ）
 * ワークスペース間でのアセットの移動（ワークスペースが有効になっている場合のみ）
-
-モバイルアプリケーションへのアクセス
