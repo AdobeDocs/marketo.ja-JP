@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: 「追跡しない」ブラウザーサポート設定の編集 — Marketto Docs — 製品ドキュメント
 title: 「追跡しない」ブラウザーサポート設定の編集
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >「追跡しない」は、デフォルトで「無視」に設定されるので、必要に応じて手順を実行する必要はありません。
 
-1. [**管理者**]をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. 「**サポート**」を選択し、「**保存**」をクリックします。
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    変更を保存すると、更新が表示されます。
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >「追跡しない」とその仕組みについて詳しくは、[このページ](https://en.wikipedia.org/wiki/Do_Not_Track)を参照してください。
-
