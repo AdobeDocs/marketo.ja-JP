@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: ワークスペース名の変更 — Marketto Docs — 製品ドキュメント
 title: ワークスペース名の変更
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新しいワークスペースの作成](create-a-new-workspace.md)
+>[新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 ユーザーはワークスペースの名前を変更できます。 とても単純です
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->まず[ワークスペースと個人パーティションについて](understanding-workspaces-and-person-partitions.md)を理解します。
+>まず[ワークスペースと個人パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を理解します。
 
 1. 「**管理者**」で、「**ワークスペースとパーティション」をクリックします。**
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 1. 保存後、変更が表示されます。
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
