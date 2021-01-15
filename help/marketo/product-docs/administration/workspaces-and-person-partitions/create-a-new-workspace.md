@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: 新しいワークスペースの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいワークスペースの作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->まず[ワークスペースと個人パーティションについて](understanding-workspaces-and-person-partitions.md)を理解します。
+>まず[ワークスペースと個人パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を理解します。
 
 >[!NOTE]
 >
->Workspaceのベストプラクティスの詳細については、[マーケティング担当者にお問い合わせください](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)。
+>Workspaceのベストプラクティスの詳細については、[マーケティング担当者にお問い合わせください](mailto:services@marketo.com)。
 
 1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
 
@@ -42,33 +40,25 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. a**名前**を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。 **プライマリユーザーパーティション**&#x200B;を選択します。
+1. **名前**&#x200B;を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。 **プライマリユーザーパーティション**&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >まだパーティションを作成していない場合は、[パーティションを作成](create-a-person-partition.md)してください。
+   >まだパーティションを作成していない場合は、[パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)してください。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >**「All Person Partitions**** **」チェックボックスは、このワークスペースがシステム内のすべてのPersonパーティションを使用できることを意味します。
-
-   >[!NOTE]
+   >「**すべての個人パーティション**」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションを使用できることを意味します。
    >
-   >**Reminder**
-   >
-   >
-   >「**プライマリ・パーソン・パーティション**」がデフォルトとして機能し、すべてのユーザーが割り当てられます。
+   >**主要人物パーティション**&#x200B;がデフォルトとして機能し、すべての人が割り当てられます。
 
    複数のブランドドメインを有効にした場合は、プライマリブランドドメインを選択する必要があります。
 
    ![](assets/four-1.png)
 
-   ワークスペースの言語を選択します。
+1. ワークスペースの言語を選択します。
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ ht-degree: 0%
    ワークスペースの作成後、更新が表示されます。
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
