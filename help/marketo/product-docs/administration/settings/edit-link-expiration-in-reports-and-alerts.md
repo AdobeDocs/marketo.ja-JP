@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: レポートとアラートでリンク有効期限を編集 — Marketto Docs — 製品ドキュメント
 title: レポートとアラートでのリンク有効期限の編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
 >これらは、マーケティング電子メールではなく、レポートおよびアラート内のリンクにのみ適用されます。
-
