@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: バッチスマートキャンペーンを後で実行するようにスケジュールする — Marketo Docs — 製品ドキュメント
 title: バッチスマートキャンペーンを後で実行するようにスケジュールする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->また、プログラムスケジュール表示](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)のバッチスマートキャンペーンを[再スケジュールすることもできます。
+>また、プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)のバッチスマートキャンペーンを[再スケジュールすることもできます。
 
 1. 実行するバッチスマートキャンペーンを選択し、「**スケジュール**」タブに移動し、「**1回実行**」をクリックします。
 
@@ -41,10 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [定期バッチキャンペーンのスケジュール](schedule-a-recurring-batch-campaign.md)
-
-
+   >[定期バッチキャンペーンのスケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
