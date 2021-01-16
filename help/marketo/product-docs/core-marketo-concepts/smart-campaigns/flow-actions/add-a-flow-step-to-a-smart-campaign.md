@@ -3,9 +3,9 @@ unique-page-id: 1146944
 description: スマートキャンペーン- Marketto Docs — 製品ドキュメ追加ントへのフローステップ
 title: スマ追加ートキャンペーンへのフローステップ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,48 +21,32 @@ ht-degree: 0%
 
 1. スマートキャンペーンを選択し、「**フロー**」をクリックします。
 
-![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/image2014-9-19-16-3a27-3a1.png)
 
-フローステップを検索するには、と入力し、キャンバスにドラッグ&amp;ドロップします。 複数のフローステップを追加できます。キャンペーンが実行する各ステップに対してこの手順を繰り返します。
+   フローステップを検索するには、と入力し、キャンバスにドラッグ&amp;ドロップします。 複数のフローステップを追加できます。キャンペーンが実行する各ステップに対してこの手順を繰り返します。
 
-![](assets/image2014-9-19-16-3a27-3a7.png)
-
->[!NOTE]
->
->**ディープダイブ**
->
->
->様々な[フローステップ](http://docs.marketo.com/display/DOCS/Flow+Actions)の詳細を表示します。
+   ![](assets/image2014-9-19-16-3a27-3a7.png)
 
 1. ドロップダウンをクリックし、適切なオプションを選択します。
 
    ![](assets/four-1.png)
 
-   値を入力します。
+1. 値を入力します。
 
    ![](assets/changescorevalue-cursor.png)
 
-   >[!NOTE]
-   >
-   >**Reminder**
-   >
-   >
-   >フローステップは、表示された順序で実行されます。  [フロー](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) ステップの順序を変更し、正しい順序になっていることを確認します。
+>[!NOTE]
+>
+>フローステップは、表示された順序で実行されます。  [フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) ステップの順序を変更し、正しい順序になっていることを確認します。
 
-   >[!TIP]
-   >
-   >無効なエントリの場合は、赤い波線が表示されます。 線の上にカーソルを置くと、修正方法が表示されます。
+>[!TIP]
+>
+>無効なエントリの場合は、赤い波線が表示されます。 線の上にカーソルを置くと、修正方法が表示されます。
 
-   [スマートキャンペーンの確認と検証](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
+すごい！ スケジュールを設定したりアクティブにしたりする前に、[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)を確認し、検証してください。
 
-   >[!NOTE]
-   >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [フローステップでの追加選択の使用](use-add-choice-in-a-flow-step.md)
-   >    * [スマートキャンペーンでのフローステップの並べ替え](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+>[!MORELIKETHIS]
+>
+>* [フローステップでの追加選択の使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
+>* [スマートキャンペーンでのフローステップの並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
 
-
-すごい！ スケジュールを設定したり、アクティブにする前に、に注意してください。
