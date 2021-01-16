@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953132
-description: バッチとトリガースマートキャンペーンについて — Marketto Docs — 製品ドキュメント
-title: バッチとトリガースマート・キャンペーンの理解
+description: バッチおよびトリガースマートキャンペーンについて — Marketto Docs — 製品ドキュメント
+title: バッチおよびトリガースマートキャンペーンについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
 
-# バッチとトリガースマートキャンペーンについて{#understanding-batch-and-trigger-smart-campaigns}
+# バッチおよびトリガースマートキャンペーンについて{#understanding-batch-and-trigger-smart-campaigns}
 
-スマートキャンペーンには2種類あります。バッチとトリガーを参照してください。
+スマートキャンペーンには2種類あります。バッチとトリガー。
 
 ## バッチスマートキャンペーン{#batch-smart-campaign}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >バッチキャンペーンは、特定の時刻に起動し、特定の一連のユーザーにすべて同時に影響します。 例えば、カリフォルニアの全人に電子メールを送信する場合です。
 
-バッチスマートキャンペーンは、スマートリストセクション内のフィルターのみを持ちます（つまり、トリガーは持ちません）。
+バッチスマートキャンペーンは、スマートリストセクション内のフィルターのみを持ちます(トリガーは持ちません)。
 
 ![](assets/batch-filter.png)
 
@@ -34,12 +34,11 @@ ht-degree: 0%
 **バッチスマートキャンペーン**
 
 * 毎日、毎週、毎月など、繰り返しのスケジュールを設定できます。 1回だけ実行させることもできます。
-* [プログラムスケジュール表示](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)に表示されます。\
-   *スマートキャンペーン内の「待機」ステップの後は、表示に含まれないことに注意してください。
+* [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)に表示されます。 スマートキャンペーン内の「待機」ステップの後にある項目は、表示に含まれません。
 
 <br> 
 
-## スマートキャンペーンのトリガ{#trigger-smart-campaign}
+## トリガースマートキャンペーン{#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -47,7 +46,7 @@ ht-degree: 0%
 >
 >トリガースマートキャンペーンは、トリガーされたイベントに基づいて、一度に1人の人に影響を与える。 トリガーの例としては、電子メール内のリンクをクリックします。
 
-スマート・キャンペーンがスマート・リスト・セクション内で少なくとも1つのトリガを使用する場合、モードは自動的にトリガに設定されます。
+スマート・キャンペーンがスマート・リスト・セクション内で少なくとも1つのトリガーを使用する場合、モードは自動的にトリガーに設定されます。
 
 ![](assets/trigger.png)
 
@@ -55,16 +54,11 @@ ht-degree: 0%
 
 ![](assets/trigger2.png)
 
-**スマートキャンペーンのトリガー**
+**トリガースマートキャンペーン**
 
 * 繰り返しのスケジュールは設定できません。 アクティブまたは非アクティブに設定することのみ可能です。
 * 複数のトリガーを設定できます。 ただし、トリガーが発生した場合は、キャンペーンのアクションが実行されます。
 
-## トリガーされる電子メールキャンペーンの作成に関するビデオを視聴{#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->[アクティビティログ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)を使用して、スマートキャンペーン内で何が順を追って発生したかを確認します。 アクティビティログは、ユーザーの詳細ページの最後のタブに表示されます。
-
+>[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)を使用して、スマートキャンペーン内で何が順を追って発生したかを確認します。 アクティビティログは、ユーザーの詳細ページの最後のタブに表示されます。
