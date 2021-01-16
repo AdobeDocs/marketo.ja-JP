@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 予測コンテンツについて — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツについて
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
-[予測コンテンツのタイトルを承認](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後は、ここで作業します。 予測コンテンツページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
+[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後は、ここで作業します。 予測コンテンツページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
