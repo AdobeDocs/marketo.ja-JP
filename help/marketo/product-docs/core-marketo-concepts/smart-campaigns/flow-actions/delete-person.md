@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: 人物の削除 — Marketto Docs — 製品ドキュメント
 title: 人を削除
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >CRM **から人物を削除するのは、Salesforce**&#x200B;でのみ機能します。 Marketoから削除した人をSalesforceで保持するように選択した場合、その人のSalesforceレコードが更新された場合は、Marketoでその人が再作成されます。
-
