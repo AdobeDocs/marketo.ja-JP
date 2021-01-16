@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: スマートキャンペーンについて — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーンについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 マーケトが強力な車であれば、スマートなキャンペーンはまさにエンジンです。 開始は簡単ですが、あなたが尋ねることならほとんど何でもできます。
 
-スマートキャンペーンには3つの主な領域があります。[スマートリスト](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[フロー](http://docs.marketo.com/display/DOCS/Flow+Actions)、[スケジュール](using-smart-campaigns/schedule-a-recurring-batch-campaign.md)タブ。
+スマートキャンペーンには3つの主な領域があります。[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)、[フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)、[スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)タブ。
 
 ## スマートリスト{#smart-list}
 
-スマートリストは、スマートキャンペーンとターゲットするWHOを定義する方法です。 フィルターとトリガーがあります。
+スマートリストは、スマートキャンペーンとターゲットするWHOを定義する方法です。 フィルターやトリガーがあります
 
 <table> 
  <tbody> 
@@ -43,7 +43,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-フィルターは、様々な方法で組み合わせることができ、トリガーと組み合わせて使用することもできます。 これは強力な道具だ。
+フィルターは、様々な方法で組み合わせたり、トリガーと組み合わせて使用したりできます。 これは強力な道具だ。
 
 ## フロー{#flow}
 
@@ -53,11 +53,8 @@ ht-degree: 0%
 
 最後に、スマートキャンペーンを実行するタイミングを制御します。 繰り返しスケジュールに従って実行するように繰り返しを設定することもできます。
 
-<br> 
-
 スマートキャンペーンができることは膨大です 難しい状況を把握すれば、Marketoのすべての情報を理解しやすくなります。
 
 >[!MORELIKETHIS]
 >
->* [新しいスマートキャンペーンの作成](creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
+>[新しいスマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
