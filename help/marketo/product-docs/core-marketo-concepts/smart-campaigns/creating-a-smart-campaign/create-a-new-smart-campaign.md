@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: 新しいスマートキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいスマートキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # 新しいスマートキャンペーンの作成{#create-a-new-smart-campaign}
 
-スマートキャンペーンは、Marketoで最も重要なツールです。 ユーザーは1人のユーザーに対してトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップし、一連のフローステップを実行できます。
+スマートキャンペーンは、Marketoで最も重要なツールです。 ユーザーは1人のユーザーにトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップして、一連のフローステップを実行できます。
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->スマートキャンペーンはとても格好良い。 詳しくは、[ここ](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+>スマートキャンペーンはとても格好良い。 詳しくは、[ここ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -43,13 +41,8 @@ ht-degree: 0%
 
    クール！ 次に、スマートリストを使用して、スマートキャンペーンを実行するユーザーを定義する方法を説明します。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [スマートキャンペーンのスマートリストの定義 |バッチ](define-smart-list-for-smart-campaign-batch.md)
-   >    * [スマートキャンペーンのスマートリストの定義 |トリガー](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [スマートキャンペーンのスマートリストの定義 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [スマートキャンペーンのスマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
