@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: リクエストキャンペーン- Marketto Docs — 製品ドキュメント
 title: リクエストキャンペーン
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ユーザーを配置するキャンペーンはアクティブで、** [キャンペーンが要求済み](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**トリガーである必要があります。
+>担当者を配置するキャンペーンはアクティブで、**[キャンペーンが要求済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**&#x200B;トリガーである必要があります。
 
 1. **データベース**&#x200B;で、目的のユーザーを探して選択します。
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**キャンペーンは、要求済み**&#x200B;トリガーまたはフィルターを使用して、このフロー手順の影響を受ける人を探します。
-
+>**キャンペーンは要求済み**&#x200B;トリガーまたはフィルターを使用して、このフロー手順の影響を受ける人を探します。
