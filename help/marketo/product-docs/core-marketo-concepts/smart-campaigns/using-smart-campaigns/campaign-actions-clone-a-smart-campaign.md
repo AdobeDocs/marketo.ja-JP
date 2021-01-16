@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: キャンペーンアクション — スマートキャンペーンのコピー — Marketto Docs — 製品ドキュメント
 title: キャンペーン・アクション：スマート・キャンペーンのクローン作成
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. 「**コピー先**」オプションを選択します。 この例では、**プログラム**&#x200B;を選択します。
+1. 適切な&#x200B;**「**&#x200B;にクローン」オプションを選択します。 この例では、**プログラム**&#x200B;を選択します。
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   終わった！ 頑張るな、頭よく働け。
-
+終わった！
