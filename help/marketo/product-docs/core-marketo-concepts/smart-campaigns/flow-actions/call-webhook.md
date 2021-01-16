@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Webフック — Marketto Docs — 製品ドキュメントに電話する
 title: Webhookを呼び出す
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Webフックの作成](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Webフックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## 概要{#overview}
 
@@ -29,9 +25,7 @@ Webhookを使用すると、サードパーティのサービスとやり取り�
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[Webhooks](http://developers.marketo.com/documentation/webhooks/)があなたに役立つ素晴らしいことを学びましょう。
+>[Webhooks](https://developers.marketo.com/documentation/webhooks/)があなたに役立つ素晴らしいことを学びましょう。
 
 ## 使用法{#usage}
 
@@ -41,13 +35,6 @@ Webhookを使用すると、サードパーティのサービスとやり取り�
 
 それだけだ！ ユーザーがスマートキャンペーンフローに入るたびに、Webフックが呼び出されるようになりました。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [スマートキャンペーンでのWebフックの使用](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[スマートキャンペーンでのWebフックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
