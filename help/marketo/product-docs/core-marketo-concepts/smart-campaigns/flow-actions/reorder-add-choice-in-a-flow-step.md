@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557333
-description: フロー手順 — Marketto Docs — 製品ドキュメントでの「追加選択」の順序の変更
-title: フローステップの「追加選択」の並べ替え
+description: フロー手順追加の選択項目の順序変更 — Marketto Docs — 製品ドキュメント
+title: フローステップの追加選択肢の並べ替え
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
-# フローステップ{#reorder-add-choice-in-a-flow-step}の「追加選択」の順序を変更
+# フロー手順追加の選択肢の並べ替え{#reorder-add-choice-in-a-flow-step}
 
 最初のマッチングの選択しか人に当てはまらないので、注文は重要です。 フローステップで設定した条件の順序を変更するには、次の手順を実行します。
 
@@ -25,10 +25,14 @@ ht-degree: 0%
    >
    >順序を変更する場合、**上へ移動**、**下へ移動**、**移動**&#x200B;のいずれかを実行できます。
 
-   ![](assets/two.png) ![](assets/three.png)
+   ![](assets/two.png)
+
+   いい仕事！ これで、選択項目を1増分で上下に移動する方法を理解できました。 それだ！ フローステップの選択の順序を再構成するのは、非常に簡単です。
+
+   ![](assets/three.png)
 
 1. 選択肢が多く、1つのレベルを上下に移動する必要がある場合は、この代替方法を使用して時間を節約できます。 移動する選択肢をクリックし、**移動先**&#x200B;の下で、スライダを選択肢の移動先にドラッグします。
 
    ![](assets/four.png)
 
-いい仕事！ これで、選択項目を1増分で上下に移動する方法を理解できました。 それだ！ フローステップの選択の順序を再構成するのは、非常に簡単です。
+フローステップの選択の順序を再構成するのは、非常に簡単です。
