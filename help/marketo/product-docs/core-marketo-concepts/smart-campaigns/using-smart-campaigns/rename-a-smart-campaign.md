@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: スマートキャンペーン名の変更 — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーン名の変更
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 既存のスマートキャンペーンの名前を変更できます。 これが方法です。
 
-1. 「マーケティングアクティビティ」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >プログラム内のスマートキャンペーン名は、常に&#39;ProgramName.CampaignName&#39;の形式に変換されます。
 
-1. 新しいスマートキャンペーン名を入力し、「保存」をクリックします。
+1. 新しいスマートキャンペーン名を入力し、「**保存**」をクリックします。
 
    ![](assets/rename-cursorandhand.png)
 
