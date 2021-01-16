@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1146942
-description: スマートキャンペーンのスマートリストの定義 | Trigger - Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンのスマートリストの定義 |トリガー- Marketto Docs — 製品ドキュメント
 title: スマートキャンペーンのスマートリストの定義 |トリガー
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >トリガーを持つスマートキャンペーンは、**Trigger**&#x200B;モードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
+   >トリガーを持つスマートキャンペーンは、**トリガー**&#x200B;モードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を備えたスマートキャンペーンでは、トリガーが一番上に表示され、トリガーがトリガーされると、フィルター条件を満たす訪問者のみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが最上位に移動し、トリガーされると、フィルター条件を満たすユーザーのみがフローを通過します。
 
 1. トリガーを定義します。
 
@@ -45,18 +45,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >複数のトリガーを使用する場合、トリガーの1つ&#x200B;**ANY**&#x200B;がアクティブになると、人はフローを通過します。
+   >複数のトリガーを使用する場合、トリガーの1つ&#x200B;**ANY**&#x200B;が起動すると、人はフローを通り抜けます。
 
-   [スマートキャンペーンのスマートリストの定義 |バッチ](define-smart-list-for-smart-campaign-batch.md)
+一連のユーザーに対してキャンペーンを同時に実行するには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
 
-   >[!NOTE]
-   >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [スマートキャンペーンのスマートリストの定義 |バッチ](define-smart-list-for-smart-campaign-batch.md)
-   >    * [スマ追加ートキャンペーンへのフローステップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-一連のユーザーに対してキャンペーンを同時に実行するには、の方法を学習します。
+>[!MORELIKETHIS]
+>
+>[スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
