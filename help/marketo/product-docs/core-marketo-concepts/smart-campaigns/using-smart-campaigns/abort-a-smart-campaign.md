@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: スマートキャンペーンの中止 — マーケティングツールドキュメント — 製品ドキュメント
 title: スマートキャンペーンの中止
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. 「**キャンペーンアクション**」ドロップダウンをクリックします。 「**キャンペーンを中止**」を選択します。
+1. **キャンペーンアクション**&#x200B;ドロップダウンをクリックします。 「**キャンペーンを中止**」を選択します。
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >中止は、既に完了した手順を元に戻しません。処理を中止するだけで、処理を停止できます。 (例：電子メールは配信を取り消すことはできません)。
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >スマートキャンペーンの「**結果**」タブを調べて、中止の前に行われたアクションを確認します。 また、詳細を含む[通知](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も見つかります。
+   >スマートキャンペーンの「**結果**」タブを調べて、中止の前に行われたアクションを確認します。 また、詳細を含む[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も見つかります。
 
    >[!TIP]
    >
-   >トリガーキャンペーンのフローから人を削除しますか？ [Remove from Flow](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)をチェックアウトします。
+   >トリガーキャンペーンのフローから人を削除する場合 [Remove from Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)をチェックアウトします。
 
 常に重複チェックをしてくださいが、この緊急ブレーキは将来役に立つかもしれません。
