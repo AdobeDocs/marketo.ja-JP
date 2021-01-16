@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: フィールドにデータを追加 — Marketto Docs — 製品ドキュメント
 title: フィールドにデータを追加
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [キャンペーンの作成](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[キャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. 「**フロー**」タブの下で、**データ値の変更**&#x200B;フローステップ内をドラッグします。
 
@@ -39,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   それだ！ クリエイティブを取得し、そこに複数のトークンを追加できます。
-
+それだ！ クリエイティブを取得し、そこに複数のトークンを追加できます。
