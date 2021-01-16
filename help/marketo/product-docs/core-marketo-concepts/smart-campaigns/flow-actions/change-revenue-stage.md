@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: 売上高の変更段階 — Marketto Docs — 製品ドキュメント
 title: 売上高の変更段階
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Revenue Cycle Modelerを使用していて、承認済みのモデルがある�
    >[!CAUTION]
    >
    >リードがステージ間を移動するタイミングに細心の注意を払う必要があります。 正しく使用しないと、不正なデータが作成される可能性があります。
-
