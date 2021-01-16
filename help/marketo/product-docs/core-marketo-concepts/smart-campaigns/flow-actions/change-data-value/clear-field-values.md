@@ -3,9 +3,9 @@ unique-page-id: 1147324
 description: フィールド値の消去 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: フィールド値をクリア
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # フィールド値をクリア{#clear-field-values}
 
-** [データ値の変更](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**は素晴らしいですが、値を&#x200B;*削除*&#x200B;するにはどうすればよいですか？ 良い質問だ！
+[データ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 値の変更は非常に優れていますが、値を完全に __ 削除するにはどうしたらよいですか。良い質問だ！
 
-1. フロー手順で、クリアするフィールドを選択し、「**新しい値**」に「**NULL **（すべて大文字）」を入力します。
+1. フロー手順で、クリアするフィールドを選択し、**NULL**（すべて大文字）を&#x200B;**新しい値**&#x200B;として入力します。
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
@@ -26,7 +26,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >新しい値を空白にしたり、単にSPACEを入力したりしても、フィールドは実際には空になりません。 NULLを入力する必要があります。 また、フローステップは実行後に元に戻すことができません。
-
-   ![（笑顔）](assets/smile.svg)
-
-ところで、この小さなテクニックはMarketoの認定試験です。 言うな！
