@@ -3,9 +3,9 @@ unique-page-id: 1146954
 description: リストから削除 — Marketto Docs — 製品ドキュメント
 title: リストから削除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概要{#overview}
 
-** [リスト](add-to-list.md)**を使用でき追加るので、リストから人を削除する方法も必要です。
+[リスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)を行う能力があ追加るので、リストから人を取り除く方法も必要です。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
@@ -25,5 +25,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
-   それだ！ 簡単。
-
+それだ！
