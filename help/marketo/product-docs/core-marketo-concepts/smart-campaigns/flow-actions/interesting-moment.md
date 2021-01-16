@@ -3,9 +3,9 @@ unique-page-id: 1146956
 description: 興味深い瞬間 — Marketto Docs — 製品ドキュメント
 title: 面白い瞬間
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概要{#overview}
 
-[Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php)をお持ちの場合は、**注目すべき瞬間**&#x200B;のフローステップを使用して、担当者が行っているクールなことをセールスチームが明確に把握できます。
+Marketo Sales Insightをお持ちの場合は、**注目の瞬間**&#x200B;のフローステップを使用して、担当者が行っているクールなことをセールスチームに明らかにすることができます。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
@@ -33,16 +33,10 @@ ht-degree: 0%
    >
    >**少ない方が多い**。セールスチームと協力して、興味深い瞬間が実際に興味深いものであることを確認します。
 
-   [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+[トークンを興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)で使用して、非常に役立つ動的な説明を作成することもできます。
 
-   >[!NOTE]
-   >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [興味深い瞬間の使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-   >    * [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>[!MORELIKETHIS]
+>
+>* [興味深い瞬間の使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
-
-また、を使用して、非常に役立つ動的な説明を作成することもできます。
