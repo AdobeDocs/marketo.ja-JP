@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: スマートリスト- Marketto Docs — 製品ドキュメントで、データ値の変更フィルターを使用します。
 title: スマートリストでのデータ値の変更フィルターの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 「**マーケティングアクティビティ**」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-このフィルターは、ステータスに変更（変更）があったすべての人を検索します。 偶数のファンシエを得たい場合は、[スマートリストフィルタ](add-a-constraint-to-a-smart-list-filter.md)に制約を追加してみてください。
-
->[!NOTE]
->
->**関連記事**
->
->* [スマートリストフィルター追加の制約](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+このフィルターは、ステータスに変更（変更）があったすべての人を検索します。 偶数のファンシエを得たい場合は、[スマートリストフィルタ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)に制約を追加してみてください。
