@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: スマートリストの作成 — Marketto Docs — 製品ドキュメント
 title: スマートリストの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
    ![](assets/login-marketing-activities.png)
 
 1. スマートリストを作成するプログラムを選択します。
-1. ![これはテストです](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. 「**新規**」で、「**新規ローカルアセット**」をクリックします。
 
@@ -34,13 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [スマート・リストの検索と追加フィルター](find-and-add-filters-to-a-smart-list.md)
+   お疲れさまでした！ 次に、フィルターを追加して定義します。
 
-
-お疲れさまでした！ 次に、フィルターを追加して定義します。
+   >[!MORELIKETHIS]
+   >
+   >[スマート・リストの検索と追加フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
