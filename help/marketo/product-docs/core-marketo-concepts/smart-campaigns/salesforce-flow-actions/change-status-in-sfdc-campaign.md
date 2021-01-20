@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: SFDCキャンペーンのステータスの変更 — Marketto Docs — 製品ドキュメント
 title: SFDCキャンペーンのステータスの変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 設定する&#x200B;**新しい** **ステータス**&#x200B;を選択します。これで終了です。
+1. 次に、設定する&#x200B;**新しいステータス**&#x200B;を選択します。これで終了です。
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
