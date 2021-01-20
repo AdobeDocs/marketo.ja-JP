@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: 担当者をSFDCに同期 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 担当者をSFDCに同期
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Salesforceでは、「連絡先」をリードキューに割り当てることはできません。 この場合、MarketorはSalesforceに「リード」という重複を作成します。
-
