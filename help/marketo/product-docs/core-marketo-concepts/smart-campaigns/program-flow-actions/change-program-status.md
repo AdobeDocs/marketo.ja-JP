@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: プログラムステータスの変更 — Marketto Docs — 製品ドキュメント
 title: プログラムステータスの変更
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 概要{#overview}
 
-プログラムのステータスは、プログラムやイベント内での訪問者の進行状況を追跡するのに役立ちます。 詳細については、[チャネルのカスタマイズ、作成、管理](../../../../product-docs/administration/tags/create-a-program-channel.md)を参照してください。
+プログラムのステータスは、プログラムやイベント内での訪問者の進行状況を追跡するのに役立ちます。 詳細については、[チャネルのカスタマイズ、作成、管理](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)を参照してください。
 
 >[!CAUTION]
 >
