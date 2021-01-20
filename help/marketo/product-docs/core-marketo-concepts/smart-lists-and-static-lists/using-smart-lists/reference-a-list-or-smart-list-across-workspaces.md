@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Workspaces全体でのリストまたはスマートリストの参照 — Marketto Docs — 製品ドキュメント
 title: Workspace間でのリストまたはスマートリストの参照
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 共有する**Workspace **を選択します。 「**保存**」を選択します。
+1. 共有する&#x200B;**ワークスペース**&#x200B;を選択します。 「**保存**」を選択します。
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >マーケティングアクティビティでは、最上位レベルのフォルダーのみを共有できます。 データベースでは、最上位レベルのフォルダーと、1つ下のレベルのフォルダーを共有できます。
-
