@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: スマートキャンペーン結果のExcelへのエクスポート — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーンの結果をExcelにエクスポート
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >エクスポートの行数は20,000行までに制限されます。 Excelファイルは、ブラウザのデフォルトのダウンロードフォルダーに保存されます。
-
