@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: スマートリスト- Marketto Docs — 製品ドキュメントからの単一フローステップの実行
 title: スマート・リストからの単一フロー・ステップの実行
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
    >
    >この機能は、静的なリストとスマートリストの両方にあります。
 
-1. 「**すべて選択**」をクリックします。 [** Ctrl/Cmd**]を使用し、いくつかのレコードを手動でクリックして選択することもできます。
+1. 「**すべて選択**」をクリックします。 **Ctrl/Cmd**&#x200B;を使用して、いくつかのレコードを手動でクリックして選択することもできます。
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ ht-degree: 0%
    >
    >結果が複数のページにまたがる場合は、「**すべて選択**」をクリックすると、すべてのページのすべてのユーザーが選択されます。
 
-1. 「**個人** **アクション**」で、選択したフローステップを選択します。 この例では、[データ値の変更](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)を使用します。
+1. 「**個人** **アクション**」で、選択したフローステップを選択します。 この例では、[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)を使用します。
 
    ![](assets/personactions-hands.png)
 
