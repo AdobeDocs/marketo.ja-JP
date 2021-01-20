@@ -3,7 +3,7 @@ unique-page-id: 1147034
 description: SFDCキャンペーン追加- Marketto Docs — 製品ドキュメント
 title: SFDC追加キャンペーン
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -33,15 +33,13 @@ ht-degree: 0%
    >
    >キャンペーンリストにSalesforceキャンペーンが表示されない場合：
    >
-   >    
-   >    
-   >    1. [キャンペーン同期が有効](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)であることを確認します。
-   >    1. [Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)がSalesforceの[マーケティングユーザー](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)であることを確認します。
+   >  1. [キャンペーン同期が有効](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)であることを確認します。
+   >  1. [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)がSalesforceの[マーケティングユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)であることを確認します。
 
 
    >[!TIP]
    >
-   >Salesforceキャンペーン[マイトークン](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)を使用すると、プログラムのクローン作成を簡単に行うことができます。
+   >Salesforceキャンペーン[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)を使用すると、プログラムのクローン作成を簡単に行うことができます。
 
 1. リードが追加されたときに、リードに割り当てるSalesforceキャンペーンメンバーのステータスを選択します。
 
@@ -49,5 +47,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >既にSalesforceキャンペーンのリードメンバーになっている人はスキップされ、そのステータスは更新されません。 代わりに、[SFDCキャンペーン](change-status-in-sfdc-campaign.md)のステータスを変更できます。
-
+   >既にSalesforceキャンペーンのリードメンバーになっている人はスキップされ、そのステータスは更新されません。 代わりに、[SFDCキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)のステータスを変更できます。
