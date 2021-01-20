@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: 推定フィルター- Marketto Docs — 製品ドキュメント
 title: 推定フィルター
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 推定フィルター{#inferred-filters}
 
-誰かが貴社のウェブサイトを訪れた時、[Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)はCookieを作り、システムに入れます。 IPを特別なデータベースで調べ、あらゆる良い情報を推測します。 見て。
+誰かが貴社のウェブサイトを訪れた時、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)はCookieを作り、システムに入れます。 IPを特別なデータベースで調べ、あらゆる良い情報を推測します。 見て。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -36,15 +36,9 @@ ht-degree: 0%
 >* 訪問済みWebページ — 過去24時間
 >* 推定状態は[自分の領土]を選択します
 
->
-
-
 
 これらの匿名訪問者は、電子メールリンクをクリックしたりフォームに入力したりすると、自動的に人に変換されます。 ただし、推測された情報はすべて保持されます。
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[匿名アクティビティとリード](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)の詳細を確認します。
-
+>[匿名アクティビティとリード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)の詳細を確認します。
