@@ -3,7 +3,7 @@ unique-page-id: 1147017
 description: タスクの作成 — Marketto Docs — 製品ドキュメント
 title: タスクの作成
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -21,7 +21,9 @@ ht-degree: 0%
 >
 >Marketo Sync Userがタスクを作成する場合、Salesforceでタスクを作成するには、**期限**&#x200B;が必須フィールドです。 値がない場合、マーケティング担当者はデフォルトで5日間を入力します。
 
-デフォルトでは、フローステップは次のようになります。   ![](assets/image2014-9-22-14-3a54-3a49.png)
+デフォルトでは、フローステップは次のようになります。
+
+![](assets/image2014-9-22-14-3a54-3a49.png)
 
 すべてのフィールドをカスタマイズして、希望どおりにタスクを作成します。
 
@@ -29,5 +31,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**件名**&#x200B;と&#x200B;**説明**&#x200B;には、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}`を使用できます。 詳しくは、[フローステップのトークン](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)を参照してください。
-
+>**件名**&#x200B;と&#x200B;**説明**&#x200B;には、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}`を使用できます。 詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)を参照してください。
