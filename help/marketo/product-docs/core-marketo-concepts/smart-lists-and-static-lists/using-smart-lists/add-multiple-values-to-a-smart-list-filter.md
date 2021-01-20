@@ -3,9 +3,9 @@ unique-page-id: 2360496
 description: 複数追加の値をスマートリストフィルター — Marketto Docs — 製品ドキュメントに変換
 title: ス追加マート・リスト・フィルタへの複数値
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [スマート・リストの検索と追加フィルター](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-
->
-
+>* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [スマート・リストの検索と追加フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
 カリフォルニアの全員を見つけたいとしますが、**カリフォルニア**&#x200B;と&#x200B;**CA**&#x200B;の両方をデータベースに格納しているとします。 該当する人をすべて含めるには、2つの&#x200B;**州**&#x200B;フィルターを使用できますが、1つの方が簡単です。
@@ -32,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/smarlist-choosefilters.png)
 
-1. フィルターの&#x200B;**プラス記号**&#x200B;をクリックします。
+1. フィルターの&#x200B;**+**&#x200B;をクリックします。
 
    ![](assets/smartlist-plussignhand-.png)
 
@@ -40,16 +37,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-   早く！
+早く！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [スマートリストフィルター追加の制約](add-a-constraint-to-a-smart-list-filter.md)
->* [スマートリストでの高度なフィルターの使用](using-advanced-smart-list-rule-logic.md)
-
->
-
-
+>* [スマートリストフィルター追加の制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [スマートリストでの高度なフィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
