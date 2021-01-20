@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: スマートリストフィルター演算子用語集 — Marketo Docs — 製品ドキュメント
 title: スマートリストフィルタ演算子用語集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # スマートリストフィルタ演算子用語集{#smart-list-filter-operators-glossary}
 
-演算子は、[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)の一部で、特定の情報を得るのに役立ちます。 フィルターやトリガーを分かりやすい言語で記述できます。 使用できる演算子は、フィールドのタイプによって異なります。\
+演算子は、スマートリストの一部で、特定の操作を行うのに役立ちます。 フィルターやトリガーを分かりやすい言語で記述できます。 使用できる演算子は、フィールドのタイプによって異なります。
+
 各演算子を説明する用語集を次に示します。
 
 ## 日付フィールド{#date-fields}
@@ -51,7 +52,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->以前は&#x200B;**does**&#x200B;に、スマートリストを作成する日を（その後ではなく、その時刻まで）含めていました。
+>&quot;過去&quot; **は、スマートリストを作成する日を（その後ではなく、その日まで）含みます。**
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">演算子</th> 
-   <th colspan="1" rowspan="1"><p>説明</p></th> 
+   <th colspan="1" rowspan="1">説明</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -136,7 +137,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">が空である</td> 
-   <td colspan="1" rowspan="1">値(NULL)のないレコード — ゼロは数値、<em></em> NULLではない&lt;a0/&gt;</td> 
+   <td colspan="1" rowspan="1">値(NULL)のないレコード — ゼロは数値、<em></em> NULLではない</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">が空でない</td> 
