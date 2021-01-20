@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: 表示スマートキャンペーンの結果 — Marketto Docs — 製品ドキュメント
 title: 表示スマートキャンペーンの結果
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >スマートキャンペーンで処理されたユーザーのリストは、[[表示キャンペーンメンバー](view-smart-campaign-members.md)]をクリックすると確認できます。
+   >スマートキャンペーンで処理されたユーザーのリストは、[[表示キャンペーンメンバー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)]をクリックすると確認できます。
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。 [スマートキャンペーンの結果をフィルターする方法](filter-smart-campaign-results.md)を説明します。
+   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。 [スマートキャンペーンの結果をフィルターする方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)を説明します。
 
 1. **ID**&#x200B;をクリックすると、そのアクティビティの詳細を表示できます。
 
@@ -35,16 +35,8 @@ ht-degree: 0%
    >
    >表示の担当者の詳細は、その人の名前をクリックして表示します。
 
-   [スマートキャンペーンの結果をExcelにエクスポート](export-smart-campaign-results-to-excel.md)
+   結果を調べてキャンペーンが実際に何をしたかを確認するか、または[スマートキャンペーンの結果をExcel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)にエクスポートします。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [スマートキャンペーン結果のフィルター](filter-smart-campaign-results.md)
-   >    * [スマートキャンペーンの結果をExcelにエクスポート](export-smart-campaign-results-to-excel.md)
-
-
-結果を調べて、キャンペーンが実際に何をしたかを確認するか、単純に確認します。
+   >[スマートキャンペーン結果のフィルター](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
