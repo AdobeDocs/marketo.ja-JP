@@ -3,9 +3,9 @@ unique-page-id: 37356429
 description: Microsoft - Marketto Docs — 製品ドキュメントでタスクを作成する
 title: Microsoftでタスクを作成する
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このフローステップは、スマートキャンペーンで&#x200B;**トリガー**&#x200B;を使う場合にのみ機能します。フィルターではありません。
+>このフローステップは、スマートキャンペーンでトリガー&#x200B;**を使用した場合にのみ機能します。フィルターではありません。**
 
-デフォルトでは、フローステップは次のようになります。   ![](assets/msd1.png)
+デフォルトでは、フローステップは次のようになります。
+
+![](assets/msd1.png)
 
 >[!NOTE]
 >
->Marketor Sync Userがタスクを作成する場合、Microsoftでタスクを作成するには、「**Due In **」が必須フィールドです。 値を入力しない場合、マーケティング担当者はデフォルトで5日間を入力します。
+>Marketo Sync Userがタスクを作成する場合、Microsoftでタスクを作成するには、**期限**&#x200B;が必須フィールドです。 値を入力しない場合、マーケティング担当者はデフォルトで5日間を入力します。
 
-すべてのフィールドをカスタマイズして、希望どおりにタスクを作成します。   ![](assets/msd2.png)
+すべてのフィールドをカスタマイズして、希望どおりにタスクを作成します。
+
+![](assets/msd2.png)
 
 >[!NOTE]
 >
@@ -35,5 +39,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**件名**&#x200B;と&#x200B;**説明**&#x200B;には、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}`を使用できます。 詳しくは、[フローステップのトークン](http://docs.marketo.com/x/c4AR)を参照してください。
-
+>**件名**&#x200B;と&#x200B;**説明**&#x200B;には、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}`を使用できます。 詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)を参照してください。
