@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: リストおよびスマートリストの表示の作成と変更 — Marketto Docs — 製品ドキュメント
 title: リストとスマートリストの表示の作成と変更
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ ht-degree: 0%
 ## 表示の作成{#create-a-view}
 
 1. リストまたはスマートリストに移動し、「**人**」タブをクリックし、「**表示**」ドロップダウンの「**作成****表示**」をクリックします。
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. 表示に名前を付け、追加または削除する列を探します。
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   目的の追加列を削除し、「作成」をクリックします。
+1. 追加/目的の列を削除し、「**作成**」をクリックします。
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## 表示の削除{#delete-a-view}
 
 1. 削除する表示の&#x200B;**編集**&#x200B;オプションを&#x200B;**表示**&#x200B;ドロップダウンから選択します。
@@ -72,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [組み込み/システムスマートリストの使用](use-built-in-system-smart-lists.md)
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [組み込み/システムスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
