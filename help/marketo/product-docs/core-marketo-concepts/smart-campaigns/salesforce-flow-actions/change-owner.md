@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: 所有者の変更 — Marketto Docs — 製品ドキュメント
 title: 所有者の変更
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
    >1. Marketorは、連絡先がSalesforceと同期された場合に、重複リード&#x200B;**のみ**&#x200B;を作成します。 つまり、**[「個人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**」のフローステップを`AssignTo=<a lead queue>`と共に使用する場合、MarketoはSalesforceで重複リードを作成し、それをリードキューに割り当てます。
       >
       >
-   2. 連絡先に対して&#x200B;**所有者の変更**&#x200B;フローステップを使用しようとすると、Salesforceに重複は作成されません。
+   1. 連絡先に対して&#x200B;**所有者の変更**&#x200B;フローステップを使用しようとすると、Salesforceに重複は作成されません。
 
 
    >[!NOTE]
