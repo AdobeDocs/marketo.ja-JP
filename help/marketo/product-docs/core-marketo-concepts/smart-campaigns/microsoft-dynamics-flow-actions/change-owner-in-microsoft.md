@@ -3,7 +3,7 @@ unique-page-id: 37356426
 description: Microsoft - Marketto Docs — 製品ドキュメントでの所有者の変更
 title: Microsoftの所有者の変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このフローステップは、スマートキャンペーンで&#x200B;**トリガー**&#x200B;を使う場合にのみ機能します。フィルターではありません。
+>このフローステップは、スマートキャンペーンでトリガー&#x200B;**を使用した場合にのみ機能します。フィルターではありません。**
 
 ![](assets/one-1.png)
 
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Dynamicsアカウントにレコードがまだ存在しない場合は、同期してから、選択したユーザーに割り当てます。
-
