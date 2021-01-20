@@ -3,7 +3,7 @@ unique-page-id: 557273
 description: スマートリストの検索と追加フィルター- Marketto Docs — 製品ドキュメント
 title: スマート・リストの検索と追加フィルター
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # スマートリストの検索追加とフィルター{#find-and-add-filters-to-a-smart-list}
 
-[スマートリスト](create-a-smart-list.md)を作成したら、[](define-smart-list-filters.md)フィルターを追加し、&lt;a2/>定義する必要があります。 フィルターを検索して追加する方法を次に示します。
+[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成したら、[](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)フィルターを追加し、定義する必要があります。 フィルターを検索して追加する方法を次に示します。
 
 この例では、カリフォルニア州の50件を超えるスコアを持つすべての人を見つけます。
 
@@ -41,10 +41,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [スマートリストの作成](create-a-smart-list.md)
->* [スマートリストフィルターの定義](define-smart-list-filters.md)
-
->
-
-
+>* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [スマートリストフィルターの定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
