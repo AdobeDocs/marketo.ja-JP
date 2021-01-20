@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: SFDCから人物を削除 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: SFDCから人物を削除
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Salesforceから特定のリードのセットを削除し、Marketoの担当者
    >[!CAUTION]
    >
    >Marketor **の** Deleteを&#x200B;**true**&#x200B;に設定し、Marketoからの訪問者およびSalesforceからのリードを削除した場合、それらの訪問者は永久に消え去ります。 これは元に戻せません。
-
