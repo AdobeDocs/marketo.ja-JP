@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: 個人をMicrosoftと同期 — Marketto Docs — 製品ドキュメント
 title: ユーザーをMicrosoftに同期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -29,5 +29,4 @@ Dynamicsユーザーを個人所有者として設定できます。
 
 >[!NOTE]
 >
->「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、Dynamicsでリアルタイムにリード/連絡先が作成されます。
-
+>「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、リード/連絡先はDynamicsでリアルタイムに作成されます。
