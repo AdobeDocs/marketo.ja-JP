@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: 高度なスマートリストルールロジック — Marketto Docs — 製品ドキュメントの使用
 title: 高度なスマートリスト・ルール・ロジックの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマート・リストの検索と追加フィルター](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [スマートリストフィルターの定義](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [スマート・リストの検索と追加フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [スマートリストフィルターの定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ ht-degree: 0%
 
 ## ス追加マートリストへのロジック{#add-logic-to-a-smart-list}
 
-デフォルトでは、スマートリストは、**すべての**&#x200B;フィルター(フィルター1 *と* 2 *と* 3)に一致する人を見つけます。 ルールロジックを変更して、定義されたフィルターの&#x200B;**ANY**&#x200B;に一致する人(フィルター1 *または* 2 *または* 3)を探すか、高度なフィルター(フィルター1 *と* 2 *or *3)を使用できます。
+デフォルトでは、スマートリストは、**すべての**&#x200B;フィルター(フィルター1 _と_ 2 _と_ 3)に一致する人を見つけます。 ルールロジックを変更して、定義されたフィルターの&#x200B;**ANY**&#x200B;に一致する人(フィルター1 _または_ 2 _または_ 3)を探すか、高度なフィルター(フィルター1 _と_ 2 _または_ 3)を使用できます。
 
-この例では、カリフォルニア&#x200B;*と*&#x200B;のスコアが50ポイント以上&#x200B;*または*&#x200B;で、ステータスが「Sales Qualified」の人を探すとします。
+この例では、カリフォルニア&#x200B;_と_&#x200B;のスコアが50ポイント以上&#x200B;_または_&#x200B;で、ステータスが「Sales Qualified」の人を探すとします。
 
-1. ドロップダウンから「******詳細****フィルター**&#x200B;を使用」を選択します。
+1. ドロップダウンから[**アドバンスフィルター**&#x200B;を使用]を選択します。
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ ht-degree: 0%
    >
    >**高度な**&#x200B;フィルターを使用すると、スマートリストのメンバーフィルターを使用してスマートリストを作成する必要が少なくなります。 これにより、パフォーマンスを最適化できます。
 
-1. 「**詳細** **フィルター**」テキストボックスには、すべてのフィルター間のデフォルト値として「and」が表示されます。
+1. 「**詳細フィルター**」テキストボックスに、すべてのフィルター間のデフォルト値として「and」が表示されます。
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >無効なルールを入力すると、そのルールの下に赤い線が表示されます。 テキストをスクロールすると、関連するエラーメッセージが表示されます。
-
