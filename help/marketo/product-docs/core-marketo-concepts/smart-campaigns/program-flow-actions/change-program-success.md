@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: プログラムの成功の変更 — Marketto Docs — 製品ドキュメント
 title: 変更プログラムの成功
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 「属性」に「**成功**」または「**成功日**」を選択します。
+1. 「属性」で「**成功**」または「**成功日**」を選択します。
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
