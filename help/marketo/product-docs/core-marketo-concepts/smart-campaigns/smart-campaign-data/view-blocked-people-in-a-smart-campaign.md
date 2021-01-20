@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: スマートキャンペーンでユーザーをブロックした表示- Marketto Docs — 製品ドキュメント
 title: スマートキャンペーンで人をブロックした表示
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketoデータベース内のブロックされたユーザーは、マーク�
 
    >[!NOTE]
    >
-   >また、通信制限に達した人がメールの受信をブロックされる場合もあります。 管理セクションで[通信制限](../../../../product-docs/administration/email-setup/enable-communication-limits.md)を編集する方法を説明します。
+   >また、通信制限に達した人がメールの受信をブロックされる場合もあります。 管理セクションで[通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)を編集する方法を説明します。
 
    [ブロックされた人]タブには、メールを受信しない可能性のある人が表示されます。
 
@@ -35,16 +35,12 @@ Marketoデータベース内のブロックされたユーザーは、マーク�
    >
    >未登録とマークされ、マーケティングが停止されたユーザーに、操作用の電子メールが送信されます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [資格ルールの編集](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [通信制限を有効にする](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [表示スマートキャンペーンメンバ](view-smart-campaign-members.md)
-   >    * [スマートキャンペーンの表示資格者](view-qualified-people-in-a-smart-campaign.md)
+   >* [資格ルールの編集](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [通信制限を有効にする](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [表示スマートキャンペーンメンバ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [スマートキャンペーンの表示資格者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 行くぞ！ これで、誰が郵送物を受け取らないかを知ることができます。
