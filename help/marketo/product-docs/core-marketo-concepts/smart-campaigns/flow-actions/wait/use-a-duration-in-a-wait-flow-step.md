@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: 待機フローステップでの期間の使用 — Marketto Docs — 製品ドキュメント
 title: 待機フローステップでの期間の使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 待機フローステップでの期間の使用{#use-a-duration-in-a-wait-flow-step}
 
-待機フローステップを使用すると、スマートキャンペーンを通るユーザーの遍歴を一定の期間一時停止できます。 また、曜日と終了時刻の条件を指定することもできます。
+待機フローステップを使用すると、スマートキャンペーンを介して特定の期間、人のジャーニーを一時停止できます。 また、曜日と終了時刻の条件を指定することもできます。
 
 1. スマートキャンペーン&#x200B;**「フロー**」タブで、**待機**&#x200B;フローステップの上にドラッグします。
 
@@ -39,9 +39,7 @@ ht-degree: 0%
    >
    >**例**
    >
-   >
-   >ある人が金曜日の午後5時にスマートキャンペーンを引き受けます。 待機ステップが詳細に設定されています。48時間で月～金の午前9時に終了する必要があります。
-   >
+   >ある人が金曜日の午後5時に賢いキャンペーンをトリガーします。 待機ステップが詳細に設定されています。48時間で月～金の午前9時に終了する必要があります。
    >
    >その結果、**月曜日の午前9時**&#x200B;に、その人は流れの中を通り続けることになります。 これは、48時間後の最初の月曜日です。
 
@@ -49,13 +47,8 @@ ht-degree: 0%
    >
    >使用する期間、日付、時間および日数は、すべて購読のタイムゾーンに基づきます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [特定の日付を待機フロー・ステップで使用](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [待機フロー手順での日付トークンの使用](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [特定の日付を待機フロー・ステップで使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [待機フロー手順での日付トークンの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
