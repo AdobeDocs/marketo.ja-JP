@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: スマートキャンペーン結果のフィルター — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーン結果のフィルター
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [表示スマートキャンペーンの結果](view-smart-campaign-results.md)
-
->
-
-
+>[表示スマートキャンペーンの結果](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 スマートキャンペーンの結果をフィルターして、重要な特定のアクティビティを確認します。
 
@@ -51,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/saveasfilter-hands.png)
 
-1. カスタムフィルターが結果に適用され、ドロップダウンで使用できるようになります。 （ドロップダウンに表示するには、ページを更新する必要がある場合があります）。
+1. カスタムフィルターが結果に適用され、ドロップダウンで使用できるようになります（ドロップダウンで表示するには、ページを更新する必要がある場合があります）。
 
    ![](assets/customfilter-hands.png)
 
    それは涼しいでしょ？ これで、カスタムフィルターがすべてのアクティビティログで使用できるようになります。
-
