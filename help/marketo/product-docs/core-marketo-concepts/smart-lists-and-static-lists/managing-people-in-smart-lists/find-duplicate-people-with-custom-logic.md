@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: カスタムロジックを使用した重複の人物の検索 — Marketto Docs — 製品ドキュメント
 title: カスタムロジックを使用した重複ユーザーの検索
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketoには、重複の電子メールアドレスを一致させて、ユー�
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. 「マーケティングアクティビティ」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
 ![](assets/ma-2.png)
 
-1. スマートリストを選択し、「スマートリスト」タブをクリックします。
+1. スマートリストを選択し、「**スマートリスト**」タブをクリックします。
 
    ![](assets/two-4.png)
 
-1. 重複フィールドフィルターを探して、キャンバスにドラッグします。
+1. **重複フィールド**&#x200B;フィルターを探してキャンバスにドラッグします。
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketoには、重複の電子メールアドレスを一致させて、ユー�
    ![](assets/four-2.png)
 
    完了！ スマートリストを実行すると、前に選択したフィールドに同じ値を持つ人を検索できます。
-
