@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: 売上高の段階ですべての人を検索 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 売上高の段階ですべての人を検索
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## 特定の売上高ステージのすべてのメンバーの検索{#find-all-members-of-a-specific-revenue-stage}
 
@@ -44,4 +40,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    ここから、フローステップのどの側面に影響を受けるメンバを選択できます。 楽しい！
-
