@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 個人の詳細ページ — Marketto Docs — 製品ドキュメントの使用
 title: 「個人詳細」ページの使用
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,13 @@ ht-degree: 0%
 
 特定の人を開く方法はたくさんあります。 次に例を示します。
 
->[!NOTE]
->
->**例**
->
->* **データベース**&#x200B;から、クイック検索で検索できます
->* 任意のスマート&#x200B;**リスト**&#x200B;またはリスト
->* **プログラム** のメンバー
->* **表示キャンペーン** メンバーシンアスマートキャンペーン
->* **レポート**&#x200B;の一部
+* **データベース**&#x200B;から、クイック検索で検索できます
+* 任意のスマート&#x200B;**リスト**&#x200B;またはリスト
+* **プログラム** のメンバー
+* **表示キャンペーン** メンバーシンアスマートキャンペーン
+* **レポート**の一部
 
->
-
-
+   <br> 
 
 1. 任意の人を重複クリックするか、左側のIDをシングルクリックします。
 
@@ -96,9 +90,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->一部のフィールドは編集できません&#x200B;**:
+>一部のフィールドは編集できません&#x200B;__:
 >
 >* 会社情報
 >* SFDCの連絡先のオポチュニティ
@@ -107,13 +99,8 @@ ht-degree: 0%
 
 >
 >
-[システム管理フィールド](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)の詳細を表示します。
+[システム管理フィールド](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)の詳細を表示します。
 
 >[!MORELIKETHIS]
 >
->* [個人の詳細ページ用のカスタムタブの作成](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[個人の詳細ページ用のカスタムタブの作成](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
