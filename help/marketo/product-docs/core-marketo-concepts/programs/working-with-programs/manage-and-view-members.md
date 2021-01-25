@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 管理および表示メンバー — Marketto Docs — 製品ドキュメント
 title: メンバーの管理と表示
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
-> [プログラムメンバーシップ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)を詳しく調べます。
+>[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)を詳しく調べます。
 
 ## メンバの検索{#search-for-a-member}
 
@@ -41,21 +39,21 @@ ht-degree: 0%
 
 ## メンバー・グリッドの列の管理{#manage-columns-in-the-members-grid}
 
-* 列の順序を変更するには、列をドラッグ&amp;ドロップします。 青い矢印のペアは、列の移動先を示します。
+列の順序を変更するには、列をドラッグ&amp;ドロップします。 青い矢印のペアは、列の移動先を示します。
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* 列見出しを右クリックして、アルファベット順（昇順または降順）に並べ替えます。
+列見出しを右クリックして、アルファベット順（昇順または降順）に並べ替えます。
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## グリッドに表示する列を選択{#choose-which-columns-are-visible-in-the-grid}
 
-1. 「**表示**」ドロップダウンをクリックし、「**表示を作成**」を選択します。
+1. **表示**&#x200B;ドロップダウンをクリックし、「**表示を作成**」を選択します。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. カスタム表示に名前を付けます。 列タイトルを選択します。 「** 追加 **」と「**」をクリックし、「**」を削除して列を移動し、表示を作成します。
+1. カスタム表示に名前を付けます。 列タイトルを選択します。 **追加**&#x200B;と&#x200B;**削除**&#x200B;をクリックして、列を移動し、表示を作成します。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [プログラムパフォーマンスレポートの作成](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[プログラムパフォーマンスレポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
