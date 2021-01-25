@@ -3,7 +3,7 @@ unique-page-id: 1147316
 description: 人の手動での作成 — Marketto Docs — 製品ドキュメント
 title: 手動での人物の作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
