@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: リストまたはスマートリストからExcelに人をエクスポート — Marketto Docs — 製品ドキュメント
 title: リストまたはスマートリストからExcelにユーザーをエクスポート
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Marketor以外でリストやスマートなリストの結果が必要な場合
    >[!TIP]
    >
    >リストの更新ボタンを押すだけで、リストのキャッシュを元に戻すことができます。
-
