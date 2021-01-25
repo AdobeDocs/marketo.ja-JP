@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: プログラムのコピー — Marketto Docs — 製品ドキュメント
 title: プログラムのコピー
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >プログラムは、[キャンペーン](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。 基になるすべての依存アセット(電子メール、スニペット、ランディングページテンプレートなど)を をコピーする前にコピー先のワークスペースに置き換えます。
+   >プログラムは、[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。 基になるすべての依存アセット(電子メール、スニペット、ランディングページテンプレートなど)を をコピーする前にコピー先のワークスペースに置き換えます。
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >**説明**
-   >
-   >
-   >上のスクリーンショットに注記が表示されていますか？ つまり、1つのリストに1000人以上の人々がいるプログラムをコピーした場合、リスト自体はコピーされますが、空になります。 999人以下の人を含むリストを使用してプログラムのクローンを作成すると、そのリストとそのすべてのメンバーが、コピーされたプログラムに表示されます。
+   >上のスクリーンショットに注記が表示されていますか？ つまり、1つのリストに1000人以上の人がいるプログラムをコピーした場合、リスト自体はコピーされますが、空になります。 999人以下の人を含むリストを使用してプログラムのクローンを作成すると、そのリストとそのすべてのメンバーが、コピーされたプログラムに表示されます。
 
-   名前を入力します。
+1. 名前を入力します。
 
    ![](assets/cloneprogramname.png)
 
-   プログラムのコピー先のフォルダを選択します。
+1. プログラムのコピー先のフォルダを選択します。
+
    ![](assets/choosefolderclone.png)
 
 1. オプション追加で説明を入力し、「**作成**」をクリックします。 新しいプログラムを作成するのに、そのアセットがすべて準備できたのは、なんて素早かったでしょう。
@@ -47,9 +45,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >この方法を[トークン](http://docs.marketo.com/display/docs/using+tokens)と共に使用して、新しいプログラムの作成をスナップにします。
+   >この方法は、トークンと共に使用し、新しいプログラムの作成をスナップにします。
 
    >[!CAUTION]
    >
    >期間のコストは繰り返されないので、元のプログラムに期間のコストが設定されている場合は、クローンを作成したフォルダにその期間を必ず追加してください。
-
