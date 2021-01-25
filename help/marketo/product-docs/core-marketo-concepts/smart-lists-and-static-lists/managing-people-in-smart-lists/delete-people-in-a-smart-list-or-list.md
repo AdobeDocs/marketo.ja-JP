@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: スマートリストまたはリストでの人の削除 — Marketto Docs — 製品ドキュメント
 title: スマートリストまたはリストのユーザーの削除
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >ユーザーを削除すると、そのユーザーはリストから削除されるだけではなく、データベースから完全に削除されます。
 
-1. 「******すべて**&#x200B;を選択」をクリックします。 Ctrl/Commandキーを押しながらをクリックして、いくつかのレコードを手動で選択することもできます。
+1. 「**すべて選択**」をクリックします。 Ctrl/Commandキーを押しながらをクリックして、いくつかのレコードを手動で選択することもできます。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >結果が複数のページにまたがる場合は、「******すべて**&#x200B;を選択」をクリックすると、すべてのページのすべてのユーザーが選択されます。
+   >結果が複数のページにまたがる場合は、「**すべて選択**」をクリックすると、すべてのページのすべてのユーザーが選択されます。
 
-1. マーケットからユーザーを完全に削除するには、「**削除** **人物**」をクリックします。
+1. Marketoからユーザーを完全に削除するには、「**ユーザーを削除**」をクリックします。
 
    ![](assets/four-1.png)
 
-1. CRMからもレコードを削除する場合は、**Remove** **from** **CRM**&#x200B;を&#x200B;**true**&#x200B;に設定します。
+1. CRMからもレコードを削除する場合は、「**CRMから削除**」を「**true**」に設定します。
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >マーケティング担当者がCRMに関連付けられていない場合、スクリーンショットのようにオプションは灰色表示になっています。
 
-1. 「**実行** **今すぐ**」をクリックします。
+1. 「**今すぐ実行**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >一括削除の結果を表示するには、画面の右上隅にある「単一フローアクション」ポップアップボックスで「**表示結果**」をクリックします。 削除時間は、複数の要因によって大きく異なります。
 
    これは素晴らしい機能です。使用する際は細心の注意を払ってください。
-
