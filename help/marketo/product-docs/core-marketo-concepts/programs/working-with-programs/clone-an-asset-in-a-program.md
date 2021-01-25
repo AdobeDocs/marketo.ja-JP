@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: プログラム内のアセットのコピー — Marketto Docs — 製品ドキュメント
 title: プログラム内のアセットのコピー
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # プログラム内のアセットのコピー{#clone-an-asset-in-a-program}
 
-プログラムのクローン作成：*すべて*。 1つのアセットのコピーのみを作成する場合もあります。 これが方法です。
+プログラムのクローン作成：_すべて_。 1つのアセットのコピーのみを作成する場合もあります。 これが方法です。
 
 >[!NOTE]
 >
->[ランディングページテストグループ](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)のクローンを作成するには、追加の手順を実行する必要があります。
+>[ランディングページテストグループ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)のクローンを作成するには、追加の手順を実行する必要があります。
 
 ## ローカルアセットのコピー{#clone-a-local-asset}
 
@@ -47,10 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [プログラムのコピー](clone-a-program.md)
-
-
+   >[プログラムのコピー](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
