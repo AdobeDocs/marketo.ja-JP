@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: プログラムでの期間コストの使用 — Marketto Docs — 製品ドキュメント
 title: プログラムでの期間原価の使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # プログラムでの期間コストの使用{#using-period-costs-in-a-program}
 
-[期間コスト](understanding-period-costs.md)は、プログラムに費やした金額です。 1か月以上の期間に対応し、レポートのROIに使用されます。
-
->[!NOTE]
->
->**ディープダイブ**
->
-> [売上サイクル分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細を表示します。
+[期間コスト](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)は、プログラムに費やした金額です。 1か月以上の期間に対応し、レポートのROIに使用されます。
 
 ## 期追加間コスト{#add-a-period-cost}
 
@@ -54,7 +48,8 @@ ht-degree: 0%
 ## 期間のコストの編集{#edit-a-period-cost}
 
 1. 当初予測より多くの金額または少ない金額を使用する場合は、期間原価を編集できます。
-1. プログラムの「**Setup **」タブに移動します。
+
+1. プログラムの&#x200B;**「セットアップ**」タブに移動します。
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**削除**」をクリックして確認します。
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [期間原価の理解](understanding-period-costs.md)
->* [売上高サイクル分析](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [期間コストによるプログラムレポートのフィルタリング](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [期間原価の理解](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [期間コストによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
