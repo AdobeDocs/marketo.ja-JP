@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: ベストプラクティス —プログラムの整理方法 — Marketto Docs — 製品ドキュメント
 title: ベストプラクティス —プログラムの整理方法
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->「Archive」フォルダーは、レポートだけでなく、選択したリストからもアイテムを削除するように設計された特殊なフォルダーです。 これにより、システムの実行時間が短くなります。 [フォルダー](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)の詳細を確認します。
+>「Archive」フォルダーは、レポートだけでなく、選択したリストからもアイテムを削除するように設計された特殊なフォルダーです。 これにより、システムの実行時間が短くなります。 [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)の詳細を確認します。
 
 必要に応じて、さらにフォルダを追加できます。 お客様の会社に将来の世代のマーケターが存続し、物の命名と整理の方法に関する決断を下すことに留意してください。
 
@@ -76,15 +76,12 @@ ht-degree: 0%
 >1. NL 2015-06ニュースレター
 >1. WBN 2015-12-01ウェビナートピックはこちら
 
->
 
-
-
-プログラム名は、異なる[ワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)でも、購読内で一意である必要があります。  プログラム内のローカルアセットの場合、ルールは&#x200B;**名前を単純に**&#x200B;することです。 「2015年6月のウェビナーの招待」ではなく、招待状に「招待状」という名前を付けます。 これらはプログラム内にあるので、別の場所で選択した場合、親プログラムは自動的に名前の一部になります。 つまり、ローカルアセットはプログラム内で一意である必要があります。 「Invite」という名前のアセットを数百個ずつ別のプログラムに配置しても、混乱は起こりません。
+プログラム名は、異なる[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)でも、購読内で一意である必要があります。  プログラム内のローカルアセットの場合、ルールは&#x200B;**名前を単純に**&#x200B;することです。 「2015年6月のウェビナーの招待」ではなく、招待状に「招待状」という名前を付けます。 これらはプログラム内にあるので、別の場所で選択した場合、親プログラムは自動的に名前の一部になります。 つまり、ローカルアセットはプログラム内で一意である必要があります。 「Invite」という名前のアセットを数百個ずつ別のプログラムに配置しても、混乱は起こりません。
 
 ## トークン{#tokens}
 
-トークンは、フォルダやプログラムを手段として使用し、ランディングページ、電子メール、その他のアセットで使用される変数を設定します。 [トークン](http://docs.marketo.com/display/docs/tokens)に関するすべてを学びます。
+トークンは、フォルダやプログラムを手段として使用し、ランディングページ、電子メール、その他のアセットで使用される変数を設定します。
 
 上記の組織では、トークンをイベントフォルダーに入れて、すべてのイベントにトークンを順次送り込むことができます。
 
@@ -102,7 +99,7 @@ ht-degree: 0%
 
 ## アクションプログラム{#engagement-programs}
 
-[エンゲージメントのプログラム](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)に関するすべてを学びます。 エンゲージメントプログラムを整理する最善の方法は、フォルダーを使用することです。 各ストリームのフォルダーを作成し、電子メールまたはプログラムをそのフォルダーに配置します。 コンテンツが古くなり、削除したい場合は、各ストリームにアーカイブフォルダーを含めます。
+[エンゲージメントのプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)に関するすべてを学びます。 エンゲージメントプログラムを整理する最善の方法は、フォルダーを使用することです。 各ストリームのフォルダーを作成し、電子メールまたはプログラムをそのフォルダーに配置します。 コンテンツが古くなり、削除したい場合は、各ストリームにアーカイブフォルダーを含めます。
 
 ## オペレーショナルプログラム{#operational-programs}
 
@@ -110,7 +107,7 @@ ht-degree: 0%
 
 ## 電子メールプログラムのネスト{#nesting-email-programs}
 
-電子メールプログラムは、メールの発破に使用するツールとして設計されています。 プロモーション、招待、リマインダー用に、イベントや他のプログラムーに配置できます。 クールなダッシュボードやその他のA/Bテスト機能が付属しています。 また、[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)で簡単に操作できます。
+電子メールプログラムは、メールの発破に使用するツールとして設計されています。 プロモーション、招待、リマインダー用に、イベントや他のプログラムーに配置できます。 クールなダッシュボードやその他のA/Bテスト機能が付属しています。 また、プログラムスケジュール表示での操作も容易です。
 
 スタンドアロンプログラムとして電子メールプログラムを作成することもできます。 電子メールプログラムは、他の電子メールプログラム内では使用できません。 それはおかしい！
 
@@ -126,4 +123,4 @@ Marketoの最も優れた機能の1つは、プログラムのクローンを作
 
 ## 概要{#summary}
 
-ご覧の通りマーケットには大きな力があります ここでは基本について説明しますが、[Marketo Experts](http://www.marketo.com/services/)の追加サービスを検討して、微調整を行い、成功のための設定を行います。
+ご覧の通りマーケットには大きな力があります ここでは基本について説明しますが、[Marketo Experts](https://www.marketo.com/services/)の追加サービスを検討して、微調整を行い、成功のための設定を行います。
