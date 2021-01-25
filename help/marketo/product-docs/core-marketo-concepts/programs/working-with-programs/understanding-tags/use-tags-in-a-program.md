@@ -3,7 +3,7 @@ unique-page-id: 1147150
 description: プログラムでのタグの使用 — Marketto Docs — 製品ドキュメント
 title: プログラムでのタグの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
-1. キャンバスにタグをドラッグ&amp;ドロップします。
+1. タグをキャンバスにドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-23-15-3a45-3a13.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**削除**」をクリックして確認します。
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
