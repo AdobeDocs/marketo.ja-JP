@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: プログラムメンバーのカスタムフィールド — Marketto Docs — 製品ドキュメント
 title: プログラムメンバのカスタムフィールド
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >プログラムメンバのカスタムフィールドでサポートされる型は次のとおりです。boolean、date、datetime、float、integer、string、URL。 [フィールドの種類の詳細を表示します](http://docs.marketo.com/x/Wwgt)。
+   >プログラムメンバのカスタムフィールドでサポートされる型は次のとおりです。boolean、date、datetime、float、integer、string、URL。 [フィールドの種類の詳細を表示します](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
 ## オブジェクトの説明{#object-descriptions}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## トリガーとフィルター{#triggers-and-filters}
 
-[トリガー](http://docs.marketo.com/x/PoAR)や[フィルター](http://docs.marketo.com/x/2YAI)を介して、スマートリストでこのプログラム固有のデータを活用できます。
+[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)や[フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)を介して、スマートリストでこのプログラム固有のデータを活用できます。
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ ht-degree: 0%
 * プログラムメンバオブジェクトには、最大20個のカスタムフィールドを含めることができます。 これらのフィールドは、どのプログラムでも使用できます。
 * プログラムのメンバを削除すると、そのユーザの[プログラムメンバ]カスタムフィールドにデータがある場合、そのフィールドからデータがスクラブされます。
 * データを表示するには、プログラムの「Members」タブをクリックし、該当するフィールドを含むカスタム表示を作成します。
-* [リスト](http://docs.marketo.com/x/egAk)と[API](http://developers.marketo.com/)を介した読み込みと書き出しがサポートされています。
+* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と[API](https://developers.marketo.com/)を介した読み込みと書き出しがサポートされています。
 * 2人のユーザーを結合すると、推奨結果のプログラムメンバーのカスタムフィールドデータが使用されます。 ただし、勝者に何もない場合は、敗者の値が使用されます。
 
 >[!MORELIKETHIS]
 >
->[Marketorでのカスタムフィールドの作成](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Marketorでのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
