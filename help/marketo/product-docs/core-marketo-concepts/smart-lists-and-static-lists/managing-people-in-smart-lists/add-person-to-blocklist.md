@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: 追加担当者ブロックリスト対- Marketto Docs — 製品ドキュメント
 title: 追加ブロックリスト対象
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >マーケティング担当者は、ブラックリストやホワイトリストなどの用語を、当社の製品のブロックリスト許可リストやに変更する過程にあります。 この更新中、UIとドキュメントのスクリーンショットには古い用語が表示され、ドキュメントのテキストには新しい用語が表示される場合があります。 ご混乱をおかけして申し訳ございません。
 
-1. [新しいデフォルト](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)  ****&#x200B;プログラムを作成し、それに追加ブロックリストという名前を付けます。
+1. [新しいデフォルト](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)  ****&#x200B;プログラムを作成し、それに追加ブロックリストという名前を付けます。
+
 1. 「**新規**」をクリックし、「**新規ローカルアセット**」を選択します。
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**Change Data Value** with **Block Listed is true**&#x200B;を使用して[トリガースマートキャンペーン](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)を作成し、将来的にブロックリスト可能な属性を持つすべての人に対して実行します。
-
+   >**Change Data Value** with **Block Listed is true**&#x200B;を使用して、トリガー可能な属性を持つ将来のすべての人に対して、[ブロックリストキャンペーンスマート](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)を作成します。
