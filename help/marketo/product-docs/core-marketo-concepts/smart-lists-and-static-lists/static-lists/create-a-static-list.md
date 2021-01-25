@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 静的リストの作成 — Marketto Docs — 製品ドキュメント
 title: 静的リストの作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   これで、入力する空のリストが準備できました。 [ここ](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)にユーザーを追加する方法を説明します。
+   これで、入力する空のリストが準備できました。 [ここ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list)にユーザーを追加する方法を説明します。
 
    >[!NOTE]
    >
    >ユーザーをリストに何回でも追加できますが、表示されるのは1回のみです。 ユーザーは、削除するまでリストに残ります。
-
