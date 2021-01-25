@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: スマートリストでのリストのメンバーの使用 — Marketto Docs — 製品ドキュメント
 title: スマートリストでのリストのメンバーの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[「](../../../../getting-started/quick-wins/import-a-list-of-people.md)インポート[」または「&lt;a2/>」を使用して、リストにユーザーを追加できます。追加リストフロー手順](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)には、
+>[「](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)インポート[」または「」を使用して、リストにユーザーを追加できます。追加リストフロー手順](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)には、
 
 このフィルタを使用すると、スマートリストルールでそのフィルタを参照して、別のリストからメンバを引き出すことができます。 これが方法です。
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    ![](assets/memberoflist.png)
 
-   **完了！** この例では、スマートリストは、そのリストのメンバーのみをターゲットし、含める他のルールに基づいて評価するようになります。
-
+   完了！ この例では、スマートリストは、そのリストのメンバーのみをターゲットし、含める他のルールに基づいて評価するようになります。
