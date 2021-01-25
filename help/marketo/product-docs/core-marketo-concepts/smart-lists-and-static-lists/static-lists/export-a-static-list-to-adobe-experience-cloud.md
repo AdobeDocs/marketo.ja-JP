@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 静的リストのAdobe Experience Cloudへのエクスポート — Marketto Docs — 製品ドキュメント
 title: 静的リストのAdobe Experience Cloudへの書き出し
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloudオーディエンス共有の設定](http://docs.marketo.com/x/D4GMAg)
+>[Adobe Experience Cloudオーディエンス共有の設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## サポートされる宛先アプリケーション{#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Adobe Analyticsとの共有**
 
-Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様の場合、この統合により、オーディエンスをMarketoからAdobe Analyticsのレポートスイートに共有できますが、これを有効にするにはAdobe Audience Managerで行う追加の設定手順がいくつかあります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様の場合、この統合により、オーディエンスをMarketoからAdobe Analyticsのレポートスイートに共有できますが、これを有効にするにはAdobe Audience Managerで行う追加の設定手順がいくつかあります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Adobe Audience Managerのお客様の特徴使用**
 
@@ -80,4 +80,4 @@ Marketoでリストのエクスポートを開始すると、Adobe Audience Mana
 
 Marketo購読でCookieの同期が有効になっている場合、Marketoのmunchkin.jsは、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketoのCookie識別子に一致させようとします。 これにより、Marketorの匿名ユーザープロファイルは、AdobeECIDを使用して利用できるようになります。
 
-匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 この機能については、以下で説明します。[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 この機能については、以下で説明します。[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
