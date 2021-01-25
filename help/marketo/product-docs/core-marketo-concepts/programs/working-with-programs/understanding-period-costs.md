@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: 期間原価について — Marketto Docs — 製品ドキュメント
 title: 期間原価の理解
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
+>[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[プログラムについて](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[プログラムメンバーシップについて](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間のコストの計算方法{#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >要約すると、期間コストが定義されていない月は、最後に定義された月に「後ろ向き」に移動します。 前期間の原価がない場合、月は、定義済の次の月に「転送」されます。 期間のコストが&#x200B;*いずれか*&#x200B;か月に対して定義されていない場合、RCEのレポートはプログラムに対して使用できません。
+   >要約すると、期間コストが定義されていない月は、最後に定義された月に「後ろ向き」に移動します。 前期間の原価がない場合、月は、定義済の次の月に「転送」されます。 期間のコストが&#x200B;_いずれか_&#x200B;か月に対して定義されていない場合、RCEのレポートはプログラムに対して使用できません。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [プログラムでの期間原価の使用](using-period-costs-in-a-program.md)
-   >    * [期間コストによるプログラムレポートのフィルタリング](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [期間コストによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
