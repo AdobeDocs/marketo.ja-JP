@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: 「アセット」タブの使用 — Marketto Docs — 製品ドキュメント
 title: 「アセット」タブの使用
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 プログラムにアセットがある場合は、ここに表示されます。
 
-| オレンジ | トリガキャンペーン |
+| オレンジ | トリガーキャンペーン |
 |---|---|
 | 緑 | バッチキャンペーン |
 
@@ -37,6 +37,8 @@ ht-degree: 0%
 >
 >アセットの列を並べ替えるには、ドラッグ&amp;ドロップします。
 
-プログラムーにローカルでないアセットは、次のようになります。 ![](assets/image2014-9-18-16-3a30-3a33.png)
+プログラムーにローカルでないアセットは、次のようになります。
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 アセットタブは、プログラム内で参照され、すべてを表す非常に小さなダッシュボードです。
