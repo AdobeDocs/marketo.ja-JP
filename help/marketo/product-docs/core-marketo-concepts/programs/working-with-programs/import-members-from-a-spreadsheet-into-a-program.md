@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: スプレッドシートからプログラムへのメンバーのインポート — Marketto Docs — 製品ドキュメント
 title: スプレッドシートからプログラムへのメンバーのインポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >日付を日付フィールドにインポートする場合は、次の形式を使用します。9/23/13（月/日/年）
+   >日付を日付フィールドにインポートする場合は、次の形式を使用します。9/29/13（月/日/年）
 
 ## CSVをMarketorにインポート{#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [メンバーの管理と表示](manage-and-view-members.md)
-
->
-
-
-
+>[メンバーの管理と表示](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
