@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: 個人のアクティビティログ内のアクティビティタイプのフィルター — Marketto Docs — 製品ドキュメント
 title: 個人のアクティビティログでのアクティビティタイプのフィルタ
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[アクティビティログ](locate-the-activity-log-for-a-person.md)の詳細を参照してください。
+>[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)の詳細を参照してください。
 
 1. **個人の詳細**&#x200B;ページに移動します。 「**アクティビティログ**」タブをクリックします。
 
@@ -58,4 +56,3 @@ ht-degree: 0%
 1. 「**保存されたフィルター**」をクリックします。 保存されたフィルターを次に示します。
 
    ![](assets/eight.png)
-
