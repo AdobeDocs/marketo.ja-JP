@@ -3,9 +3,9 @@ unique-page-id: 1147095
 description: プログラムの作成 — Marketto Docs — 製品ドキュメント
 title: プログラムの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,14 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 新しいプログラムのフォルダを選択します。 「**新規**」を選択し、「**新規プログラム***.*」をクリックします。
+1. 新しいプログラムのフォルダを選択します。 「**新規**」を選択し、「**新規プログラム**」をクリックします。
 
    ![](assets/leadlifecycle.jpg)
 
-1. **名前****,**を入力し、ドロップダウンで** [チャネル](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**を選択し、「作成」をクリックします。****
+1. 「**名前**」を入力し、ドロップダウンリストで&#x200B;**[チャネル](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**&#x200B;を選択して、「**作成**」をクリックします。
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**ディープダイブ**
->
->[プログラム](http://docs.marketo.com/display/docs/programs)の詳細。
-
+>[プログラムの理解](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)。
