@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 静的リストについて — Marketto Docs — 製品ドキュメント
 title: 静的リストについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->最もよくある間違いの一つは、「人を削除する」だけで、リストから人を削除できると考えることです。 **これは間違っています。** 個人を削除すると、リストだけでなく、データベース **全体から削除され**、
+>最もよくある間違いの一つは、「人を削除する」だけで、リストから人を削除できると考えることです。 **これは間違っている**。ユーザーを削除すると、リストだけでなく、**データベース**&#x200B;全体から削除されます。
 
 ## リストから人を削除する追加方法{#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンフローステップ([追加からリスト](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)へ、[リスト](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)から削除)
+1. スマートキャンペーンフローステップ([追加からリスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)へ、[リスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)から削除)
 
-1. [単一のアクションフローステップ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [単一のアクションフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. ツリー内のリストに人をドラッグする
-1. [リストインポート](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [リストインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## 静的リストの使用例{#some-uses-of-a-static-list}
 
@@ -48,5 +48,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[静的リストの作成](https://docs.marketo.com/x/ecKt)
-
+>[静的リストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
