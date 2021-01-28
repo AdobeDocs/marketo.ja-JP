@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: プログラムスケジュール表示内のエントリの編集 — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示でのエントリの編集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 既に実行されているスマートキャンペーンと電子メールプログラムのエントリは、過去のものには移動できません。
-
