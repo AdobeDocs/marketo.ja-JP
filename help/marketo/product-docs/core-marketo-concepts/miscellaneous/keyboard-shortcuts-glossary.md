@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: キーボードショートカット用語集 — Marketto Docs — 製品ドキュメント
 title: キーボードショートカットの用語集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | ポップアップを閉じる |
 | 戻る/入力 | 送信ポップアップ |
 | Ctrl + Alt/Opt + H | フォームエディターでフィールドを非表示/再表示 |
-
