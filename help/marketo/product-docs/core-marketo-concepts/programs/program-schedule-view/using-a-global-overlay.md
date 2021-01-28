@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: グローバルオーバーレイ — Marketto Docs — 製品ドキュメントの使用
 title: グローバルオーバーレイの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # グローバルオーバーレイの使用{#using-a-global-overlay}
 
-プログラムスケジュール表示のグローバルオーバーレイを使用すると、予定されている他のアセットとの関連プログラムを確認できます。
+プログラムスケジュール表示のグローバルオーバーレイを使用すると、スケジュールされている他のアセットに関連するプログラムを確認できます。
 
 >[!PREREQUISITES]
 >
->この機能を利用するには、[マーケティングカレンダーライセンス](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)が必要です。
+>この機能を利用するには、[マーケティングカレンダーライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)が必要です。
 
 ## グローバルオーバーレイの使用{#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 保存済みフィルターをオーバーレイとして使用{#use-a-saved-filter-as-an-overlay}
 
-マーケティングカレンダー](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)に[フィルターを保存した場合は、プログラムスケジュール表示でオーバーレイとして使用できます。
+マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)に[フィルターを保存した場合は、プログラムスケジュール表示でオーバーレイとして使用できます。
 
 1. 「**オーバーレイ**」ドロップダウンをクリックし、フィルター定義を選択します。
 
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [プログラムスケジュール表示でのカスタムオーバーレイの作成](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[プログラムスケジュール表示でのカスタムオーバーレイの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
