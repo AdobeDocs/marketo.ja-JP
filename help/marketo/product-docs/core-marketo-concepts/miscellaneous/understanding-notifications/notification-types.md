@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: 通知タイプ — Marketto Docs — 製品ドキュメント
 title: 通知タイプ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Facebook
 
 アイドルトリガーキャンペーンのクリーンアップ
 
-アクティビティを取得しなくなったトリガー済みスマートキャンペーンを非アクティブ化します。 [自動トリガーキャンペーンクリーンアップ](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)の詳細を表示します。
+アクティビティを取得しなくなったトリガー済みスマートキャンペーンを非アクティブ化します。 [トリガーキャンペーンの自動クリーンアップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)の詳細を表示します。
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Webサービス
 
 >[!NOTE]
 >
->表示される可能性のあるエラーコードの一部は、アドビの[開発者向けドキュメント](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)で概要を説明しています。
-
+>表示される可能性のあるエラーコードの一部は、アドビの[開発者向けドキュメント](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)で概要を説明しています。
