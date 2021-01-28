@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: プログラムスケジュール表示のナビゲーション — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示の操作
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   グルービー。 プログラムのスケジュール表示を確認します。
+   プログラムのスケジュール表示を確認します。
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ ht-degree: 0%
 >
 >プログラムスケジュール表示は定着しています。 設定したプログラムは、すべてデフォルトでスケジュール表示に設定されます。
 
-1. エントリ間の切り替え
+## エントリ間の切り替え{#switching-between-entries}
+
 1. 参加者の詳細で、矢印をクリックすると、次に予定されている参加者に移動します。
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. 表示コンテキストメニュー
+## 表示コンテキストメニュー{#view-context-menu}
+
 1. 任意のプログラムを右クリックして、プログラム、スマートリスト、設定、マイトークン、またはメンバーに編集を行います。
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [プログラムスケジュール表示でのエントリの作成](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[プログラムスケジュール表示でのエントリの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
