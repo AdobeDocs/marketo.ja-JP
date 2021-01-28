@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: フォルダーについて — Marketto Docs — 製品ドキュメント
 title: フォルダについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # フォルダについて{#understanding-folders}
 
-プログラムー内のフォルダーを使用して、スマートキャンペーンーとアセットを整理できます。 これらは、[キャンペーンフォルダー](create-new-campaign-folder.md)とは異なります。
+プログラムー内のフォルダーを使用して、スマートキャンペーンーとアセットを整理できます。 これらは、[キャンペーンフォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)とは異なります。
 
 ## フォルダーの作成{#create-a-folder}
 
@@ -76,4 +76,3 @@ Marketingでは、既存のフォルダーをアーカイブフォルダーに�
 * 使用中のアセットは、アーカイブ後も引き続き動作します
 * フィルターを使用して、レポートで使用するアーカイブ済みアセットを選択できます
 * アーカイブ済みアセットは非アクティブ化されません。 また、実行を停止したい場合は、非アクティブ化する必要があります
-
