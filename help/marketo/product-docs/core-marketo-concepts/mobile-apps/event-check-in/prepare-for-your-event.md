@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: イベント向けの準備 — Marketto Docs — 製品ドキュメント
 title: イベントの準備
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 新しいマーケティング担当者の役割の作成{#create-a-new-marketo-role}
 
-Marketorには、イベントのチェックインアプリに対する特別なユーザーの役割があります。  [iPadまたはAndroidユーザー向けの新しいMarketor](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) ロールを作成し、モバイルアプリケーションにアクセスする権限を付与します。
+Marketorには、イベントのチェックインアプリに対する特別なユーザーの役割があります。 [iPadまたはAndroidユーザー向けの新しいMarketor](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ロールを作成し、モバイルアプリケーションにアクセスする権限を付与します。
 
 ## 新しいタブレットユーザーをイベントに招待{#invite-new-tablet-users-to-the-event}
 
-[新しいタブレットユーザーを](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) イベントに招待し、新しい役割を割り当てます。
+[新しいタブレットユーザーを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) イベントに招待し、新しい役割を割り当てます。
 
 ## 新しいMarketorイベントプログラムの作成{#create-a-new-marketo-event-program}
 
