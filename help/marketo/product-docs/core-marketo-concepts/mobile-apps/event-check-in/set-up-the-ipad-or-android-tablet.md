@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: iPadまたはAndroidタブレットの設定 — Marketto Docs — 製品ドキュメント
 title: iPadまたはAndroidタブレットの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ iPadにMarketoイベントアプリケーションがまだインストールさ
 
 AndroidタブレットにMarketoイベントアプリがまだインストールされていない場合は、次の方法でアプリを取得します。
 
-1. タブレットを開き、** Google Play Store**アプリをタップします。
+1. タブレットを開き、**Google Play Store**&#x200B;アプリをタップします。
 1. 「検索」ボックスに、「**Marketo**」と入力し、「**Return**」をタップします。
 1. 検索結果で、**Markettoイベント**&#x200B;アプリをタップします。
 
@@ -69,7 +69,7 @@ iPadまたはタブレットをトレードショースタッフに割り当て�
 同期を実行して、追加したユーザーがそこに存在することを確認します。
 
 1. iPadまたはAndroidアプリでイベントを開きます。
-1. 人々を探せ。 表示されない場合は、「**同期**」をタップしてアプリを同期し、ユーザーリストのイベントを再読み込みします。
+1. 人々を探せ。 表示されない場合は、**同期**&#x200B;をタップしてアプリを同期し、ユーザーリストのイベントを再読み込みします。
 
    **iPad**
 
@@ -83,7 +83,7 @@ iPadまたはタブレットをトレードショースタッフに割り当て�
 
 イベントの前に、iPadまたはタブレットからチェックインが動作していることを確認してください。
 
-1. アプリで、[テストリードを](check-people-into-your-event-from-your-tablet.md)で確認します。
+1. アプリで、[テストリードを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)で確認します。
 1. **同期**&#x200B;アイコンをタップして、アプリを同期します。
 1. Marketoで、イベントーを開き、「**Members**」をクリックします。
 
@@ -96,4 +96,3 @@ iPadまたはタブレットをトレードショースタッフに割り当て�
    >[!TIP]
    >
    >自分をテストパーソンとして使う。
-
