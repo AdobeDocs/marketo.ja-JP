@@ -3,9 +3,9 @@ unique-page-id: 1147134
 description: プログラムスケジュール表示内のエントリの移動 — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示でのエントリの移動
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 
-   うわあ！ 入力が再スケジュールされます。
+   入力が再スケジュールされます。
 
    ![](assets/image2014-9-18-17-3a49-3a19.png)
-
