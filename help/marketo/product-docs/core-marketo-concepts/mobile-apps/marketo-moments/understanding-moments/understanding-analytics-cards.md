@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Analyticsカードについて — Marketto Docs — 製品ドキュメント
 title: Analyticsカードについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Analyticsカード{#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Analyticsカードをタップすると、次のことができます。
+Analyticsカードをタップすると、次のことができます。
 
-* [お気に入りにする](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [完了とマーク](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [共有](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [お気に入りにする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [完了とマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Analyticsカードをタップすると、以下が表示されます。
 
@@ -37,7 +37,7 @@ Analyticsカードをタップすると、以下が表示されます。
 
 ## 獲得リード数{#acquired-leads}
 
-**獲得リード**カードは、新規リード数の前月比トレンドレポートを示します。
+**獲得したリード**&#x200B;カードは、新しいリード数の前月比トレンドレポートを示します。
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Analyticsカードをタップすると、以下が表示されます。
 
 >[!MORELIKETHIS]
 >
->* [マーケティングの場面について](understanding-marketo-moments.md)
->* [イベントカードについて](understanding-event-cards.md)
->* [電子メールプログラムカードについて](understanding-email-program-cards.md)
+>* [マーケティングの場面について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [電子メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-楽しい事実：初めて送られたメールはレイ・トムリンソンが1971年に自身に送ったものです
