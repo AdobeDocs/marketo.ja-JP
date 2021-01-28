@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: プログラムスケジュール表示でのエントリの作成 — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示でのエントリの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. エントリに名前を付けます。 **Enter **を押して名前を確定します。
+1. エントリに名前を付けます。 **Enter**&#x200B;キーを押して名前を確認します。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >TODOは[カスタムエントリ](create-custom-entry-types.md)です。 To Doやその他のカスタムエントリを作成して、マーケティング担当者以外の議題を追跡するのに役立てることができます。
+   >TODOは[カスタムエントリ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)です。 To Doやその他のカスタムエントリを作成して、マーケティング担当者以外の議題を追跡するのに役立てることができます。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> また、スケジュール表示から[スマートキャンペーン](creating-a-batch-smart-campaign-in-the-program-schedule-view.md)または[電子メールプログラム](creating-a-new-email-program-in-the-schedule-view.md)を作成することもできます。
-
+> また、スケジュール表示から[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)または[電子メールプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)を作成することもできます。
