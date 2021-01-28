@@ -3,9 +3,9 @@ unique-page-id: 1147294
 description: マーケティングカレンダーのフィルタリング — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: マーケティングカレンダーのフィルタリング
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. **エントリ** **タイプ**&#x200B;ドロップダウンをクリックします。
+1. **エントリタイプ**&#x200B;ドロップダウンをクリックします。
 
    >[!NOTE]
    >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >標準エントリタイプの説明は、[プログラムスケジュール表示エントリタイプ](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)を参照してください。
+   >標準エントリタイプの説明は、[プログラムスケジュール表示エントリタイプ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)を参照してください。
 
 1. 目的のプログラムタグを選択します。
 
@@ -47,10 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [マーケティングカレンダーでのフィルター定義の保存](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
