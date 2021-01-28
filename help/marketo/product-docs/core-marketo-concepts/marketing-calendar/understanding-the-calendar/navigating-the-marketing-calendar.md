@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: マーケティングカレンダー — マーケティングドキュメント — 製品ドキュメントのナビゲーション
 title: マーケティングカレンダーの移動
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[マーケティングカレンダーライセンス](issue-revoke-a-marketing-calendar-license.md)があることを確認してください。そうしないと、マーケティングカレンダータイルが「マーケティング」に表示されません。
+>[マーケティングカレンダーライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)があることを確認してください。そうしないと、マーケティングカレンダータイルが「マーケティング」に表示されません。
 
 1. **マーケティングカレンダー**&#x200B;に移動します。
 
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 1. **フィルタードロップダウン**&#x200B;をクリックします。
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. **議題**&#x200B;表示を選択します。
 
@@ -67,9 +65,6 @@ ht-degree: 0%
 
 すごい！ これらは基本です。 フィルターを使用して表示をカスタマイズすることもできます。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [マーケティングカレンダーのフィルタリング](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[マーケティングカレンダーのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
