@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: Adobe Experience Manager統合の設定 — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Manager統合の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ AEMアセットにアクセス、選択およびMarketorのDesign Studioへの�
 
    ![](assets/four.png)
 
-1. 「**許可されている接触チャネル(Regexp)**」テキストボックスに、「https://」と入力します。*\.marketo\.com」（引用符なし）をクリックし、「**保存**」をクリックします。
+1. 「**許可されている接触チャネル(Regexp)**」テキストボックスに、`https://.*\.marketo\.com`に入力し、「**保存**」をクリックします。
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ AEMアセットにアクセス、選択およびMarketorのDesign Studioへの�
 
    ![](assets/twelve.png)
 
-   準備万端！ これで、Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993)のDesign StudioにAEMアセットを[読み込むことができるようになりました。
-
+   準備万端！ これで、Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993)のDesign StudioにAEMアセットを[読み込むことができるようになりました。
