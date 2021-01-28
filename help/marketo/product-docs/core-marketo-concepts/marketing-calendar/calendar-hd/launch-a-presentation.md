@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: プレゼンテーションの開始 — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションの開始
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [プレゼンテーションの作成](create-a-presentation.md)
->* [プレゼンテーションのカスタマイズ](customize-a-presentation.md)
-
->
-
+>* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [プレゼンテーションのカスタマイズ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >プレゼンテーションが新しいタブで起動します。 必要に応じて、タブを外部モニターまたはTVに移動して表示し、**フルスクリーン**&#x200B;をクリックします（Internet Explorerを使用している場合は、キーボードの**F11 **を押します）。
-
+   >プレゼンテーションが新しいタブで起動します。 必要に応じて、タブを外部モニターまたはTVに移動して表示し、**フルスクリーン**&#x200B;をクリックします（Internet Explorerを使用している場合は、キーボードの&#x200B;**F11**&#x200B;キーを押します）。
