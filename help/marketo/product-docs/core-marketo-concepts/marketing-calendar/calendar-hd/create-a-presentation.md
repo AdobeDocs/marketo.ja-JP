@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: プレゼンテーションの作成 — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. 「**カレンダー**」に移動します。
+1. **カレンダー**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [プレゼンテーションのカスタマイズ](customize-a-presentation.md)
-
->
-
-
-
+>[プレゼンテーションのカスタマイズ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
