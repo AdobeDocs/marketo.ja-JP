@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: スケジュール表示- Marketto Docs — 製品ドキュメントでの新しい電子メールプログラムの作成
 title: スケジュール表示での新しい電子メールプログラムの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 名前を入力します。 「**電子メール** **プログラム**」を選択します。
+1. 名前を入力します。 「**電子メールプログラム**」を選択します。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [電子メール](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) プログラムを設定し、「プログラムの **承認**」をクリックします。
+1. [電子メール](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) プログラムを設定し、「プログラムの **承認**」をクリックします。
 
    ![](assets/learnaboutthespeaker.png)
 
-   詳細なダッシュボードの他に、スマートキャンペーンの代わりに[電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)を使用する利点は、[A/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を簡単に実装できることです。 楽しんで！
-
+   詳細なダッシュボードの他に、スマートキャンペーンの代わりに[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)を使用する利点は、[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を簡単に実装できることです。 楽しんで！
