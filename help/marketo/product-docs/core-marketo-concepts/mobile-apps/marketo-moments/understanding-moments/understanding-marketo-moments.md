@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Marketto Momentsについて — Marketto Docs — 製品ドキュメント
 title: マーケティングの場面について
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 >
 >**可用性**
 >
->モバイルアプリへのアクセス権限が必要です。 [ロール](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)を更新するには、マーケティング担当者にお問い合わせください。
-
-## モーメントの紹介{#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>モバイルアプリへのアクセス権限が必要です。 [ロール](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)を更新するには、マーケティング担当者にお問い合わせください。
 
 ## ストリーム{#streams}
 
@@ -35,13 +31,11 @@ ht-degree: 0%
 >
 >**定義**
 >
->Moments — 今実行された、または今から実行されるものは、ここに移動します。
->
->お気に入り — お気に入りに指定した内容はすべてここに表示されます。
->
->後で、今より遅く起きたことは何でもここに入る。
->
->完了 — 実行が終了したか、完了とマークされたものは、ここに表示されます。
+>* モーメント：今走ったり走り出そうとしているものは何でもここに来る。
+>* お気に入り：お気に入りの物はここに入る。
+>* 後で今より遅く起きたことは何でもここに入る。
+>* 完了：実行が終了したか、完了とマークされたものは、ここに表示されます。
+
 
 これで邪魔になりました電話でマーケットの瞬間を見てみましょう
 
@@ -53,7 +47,7 @@ Marketing Momentsには、電子メールの進行に合わせて3つのカー�
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**ハートビート**  — おい — このメールは今配信中だ！統計も見てみましょう どうぞ、共有してください。
+**ハートビート**  — おい、このEメールは今配信中！統計も見てみましょう どうぞ、共有してください。
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Marketing Momentsには、電子メールの進行に合わせて3つのカー�
 >* サンプルを送信（電子メールのみ）:これを使用すると、電子メールを送信する前に、他のユーザーが電子メールの内容を確認できます。
 >* プレビュー電子メール（電子メールのみ）:事前にメールをチェックアウトするのは、常に良い方法です。
 
->
-
-
 
 ## 後の時間{#later-moments}
 
 後で行う節では、今後のアクティビティを紹介します。
 
 1. 開始を行うには、ハンバーガーのメニューをタップします。
-
-   >[!NOTE]
-   >
-   >[ギネスブック『世界記録』](http://www.guinnessworldrecords.com/world-records/largest-hamburger)によれば、世界最大のハンバーガーは2014ポンド重かった。
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Analyticsモーメントカードには、過去6か月間の電子メールお�
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-詳しくは、
-
->[!MORELIKETHIS]
->
->* [電子メールプログラムカードについて](understanding-email-program-cards.md)
->* [イベントカードについて](understanding-event-cards.md)
->* [Analyticsカードについて](understanding-analytics-cards.md)
->* [スマートキャンペーンカードについて](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## サポートされるバージョン{#supported-versions}
 
 Marketing Momentsでは、次のオペレーティングシステムバージョンがサポートされています。
 
 * Apple iOS 8.0以降。
 * Androidバージョン4.1以降（基本的にはJelleybean以降）。
+
+詳しくは、
+
+>[!MORELIKETHIS]
+>
+>* [電子メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analyticsカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [スマートキャンペーンカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
