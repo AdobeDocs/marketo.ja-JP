@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: 新しいキャンペーンフォルダーの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいキャンペーンフォルダーの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. オプション：**説明**&#x200B;を入力し、「**作成」をクリックします。**
+1. オプション：**説明**&#x200B;を入力し、**作成**&#x200B;をクリックします。
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   [新しいプログラム](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)を作成すると、このキャンペーンフォルダーがオプションとして表示されます。
+   [新しいプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)を作成すると、このキャンペーンフォルダーがオプションとして表示されます。
 
 >[!MORELIKETHIS]
 >
->* [プログラムの作成](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [新しいスマートキャンペーンの作成](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [プログラムの作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [新しいスマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
