@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントへのフィルター定義の保存
 title: マーケティングカレンダーでのフィルター定義の保存
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [マーケティングカレンダーのフィルタリング](filtering-the-marketing-calendar.md)
-
->
-
-
+>[マーケティングカレンダーのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. フィルターを定義します。
 
@@ -39,14 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   必要に応じて、定義のコピー[を他のマーケティング担当者に送信できます。](sharing-a-filter-definition-in-the-marketing-calendar.md)
+   必要に応じて、定義のコピー[を他のマーケティング担当者に送信できます。](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [マーケティングカレンダーでのフィルター定義の共有](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[マーケティングカレンダーでのフィルター定義の共有](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
