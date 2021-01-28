@@ -3,9 +3,9 @@ unique-page-id: 1147235
 description: タグ — Marketto Docs -プログラムドキュメントで製品レポートをフィルター
 title: タグによるプログラムレポートのフィルタリング
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # タグ{#filter-a-program-report-by-tag}でプログラムレポートをフィルター
 
-特定の[タグ](http://docs.marketo.com/display/docs/tags)に対する[プログラムパフォーマンスレポート](create-a-program-performance-report.md)の焦点を絞ります。
+特定の[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)に対する[プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)の焦点を絞ります。
 
 1. **マーケティング** **アクティビティ** （または&#x200B;**Analytics**）に移動します。
 
@@ -35,23 +35,10 @@ ht-degree: 0%
 
    ![](assets/prospect2.jpg)
 
-1. 完了！ 「**レポート**」タブをクリックすると、レポート内で選択したタグに一致するプログラムが&#x200B;**&#x200B;のみ表示されます。
+1. 完了！ 「**レポート**」タブをクリックすると、レポート内で選択したタグに一致するプログラムが&#x200B;__&#x200B;のみ表示されます。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [期間コストによるプログラムレポートのフィルタリング](filter-a-program-report-by-period-cost.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+   >[期間コストによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
