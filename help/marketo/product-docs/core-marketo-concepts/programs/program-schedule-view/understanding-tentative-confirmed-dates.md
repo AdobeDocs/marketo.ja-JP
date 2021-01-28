@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: 暫定/確認日について — Marketto Docs — 製品ドキュメント
 title: 仮日/確認日について
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 仮の{#tentative}
 
-仮の日付は意図を表します。 これは、カレンダー内の「*ペンチリング*何か」と考えてください。 仮の参加者は実行されません。仮の参加者はプレースホルダーのみです。
+仮の日付は意図を表します。 これは、カレンダーの&#x200B;_ペンチリング_&#x200B;と考えてください。 仮の参加者は実行されません。仮の参加者はプレースホルダーのみです。
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ ht-degree: 0%
 
 これは、アセットの承認と同様なので、確認を行う前に、エントリを完全に設定する必要があります。 すべてのアヒルが一列に並ぶと、仮のタブを右にスライドして、参加者を確認できます。
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->なぜ犬が？ 彼はゴールデンレトリバーだ。 データを取得しています。
+>なぜ犬が？ 彼は再審員です。 データを取得しています。
 
 ## 確認{#confirmed}
 
