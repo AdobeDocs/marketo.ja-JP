@@ -3,7 +3,7 @@ unique-page-id: 1147304
 description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントでのフィルター定義の共有
 title: マーケティングカレンダーでのフィルター定義の共有
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [マーケティングカレンダーでのフィルターの作成](filtering-the-marketing-calendar.md)
->* [マーケティングカレンダーでのフィルター定義の保存](saving-a-filter-definition-in-the-marketing-calendar.md)
-
->
-
+>* [マーケティングカレンダーでのフィルターの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 
 >[!NOTE]
@@ -43,4 +40,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >ユーザー権限は表示に影響します。
-
