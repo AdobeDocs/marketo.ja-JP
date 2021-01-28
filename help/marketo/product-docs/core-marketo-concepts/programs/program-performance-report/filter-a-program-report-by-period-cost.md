@@ -3,9 +3,9 @@ unique-page-id: 1147237
 description: 期間コスト — Marketto Docs -プログラムドキュメントで製品レポートをフィルター
 title: 期間コストによるプログラムレポートのフィルタリング
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 期間コストでプログラムレポートをフィルター{#filter-a-program-report-by-period-cost}
 
-[プログラムのパフォーマンスレポート](create-a-program-performance-report.md)を、特定の期間のコスト枠に絞り込みます。
+[プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を、特定の期間のコスト枠に絞り込みます。
 
-1. **マーケティング** **アクティビティ** （または&#x200B;**Analytics**）に移動します。
+1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,17 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [プログラムによるプログラムレポートのフィルタリング](filter-a-program-report-by-program.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+   >[プログラムによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
