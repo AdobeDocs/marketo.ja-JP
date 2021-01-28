@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Markettor Asset - Marketto Docs - Product Documentationの名前の変更
 title: マーケティング先アセットの名前の変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -25,5 +25,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >アップロードされたファイルや画像、またはスマートリストやスマートキャンペーンで現在参照されているアセット(フィルター、トリガー、フローステップなど)の名前は変更できません。
-
+   >アップロードされたファイルや画像、またはスマートリストやスマートキャンペーン(フィルター、トリガー、フローステップなど)で現在参照されているアセットの名前は変更できません。
