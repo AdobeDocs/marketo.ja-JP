@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: タブレット — Marketto Docs — 製品ドキュメントから、ユーザーをイベントにチェックインします。
 title: タブレットからイベントにユーザーをチェックイン
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ ht-degree: 0%
 >* Marketorでイベントを作成し、招待ユーザーおよび登録ユーザーを使用して設定します。
 >* [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)または[iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)用のタブレットアプリをダウンロードする
 
->
-
-
 
 ## 登録ゲストをチェックイン{#check-in-registered-guests}
 
 1. iPadまたはAndroidタブレットでアプリアイコンをタップします。
+
 1. 「**ログイン**」をタップして、Marketorイベントアプリを起動します。
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ ht-degree: 0%
    >
    >処理はiPadとAndroidで同じですが、画面は異なり、項目が異なる場所にある場合があります。 この記事では、iPadのインターフェイスについて説明します。 この節のAndroid画面を比較して参照してください。
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ Marketoデータベースには、既存のユーザーでないゲストを手�
 
 ## チェックインを反転{#reverse-a-check-in}
 
-誤ってユーザーをチェックインした場合、Marketo *と同期する前に*、出席ステータスを反転できます。
+誤ってユーザーをチェックインした場合、Marketo _と同期する前に_、出席ステータスを反転できます。
 
 1. リスト内の名前をタップし、ユーザーレコード内で&#x200B;**「元に戻す**」をタップします。
 
@@ -146,6 +146,7 @@ Marketoイベントアプリは、アクティビティをMarketo Databaseと再
 >同期後は、アプリからチェックインを取り消すことはできません。
 
 1. タブレットでアプリを開き、イベントーに移動します。
+
 1. 「**同期**」をタップします。
 
    イベントがMarketoデータベースの新しいチェックインで更新されます。 「同期」ボタンの赤いカウンターは、他のユーザーがチェックインするまでクリアされます。
@@ -170,4 +171,3 @@ Marketoイベントアプリは、アクティビティをMarketo Databaseと再
 >[!NOTE]
 >
 >無操作状態が8時間続くと、自動的にログアウトします。
-
