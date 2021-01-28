@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: スマートキャンペーンカードについて — Marketto Docs — 製品ドキュメント
 title: スマートキャンペーンカードについて
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ ht-degree: 0%
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. 詳細カードを使用すると、スマートリストフィルター、フロー、電子メールサマリに関する情報にアクセスできます。
+
 1. 「**スマートリスト**」をタップします。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 「[サンプルを送信](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)」または「[プレビューの電子メール](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)」をタップします（詳しくはこれらのリンクをクリックしてください）。
+1. 「[サンプルを送信](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)」または「[プレビューの電子メール](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)」をタップします（詳しくはこれらのリンクをクリックしてください）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ ht-degree: 0%
 
 他のMarketo Momentsカードと同様に、スマートキャンペーンカードまたは詳細カードの3つのドットをタップすると、次のことができます。
 
-* [お気に入りにする](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [終わったと記す](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [共有](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [お気に入りにする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [終わったと記す](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
