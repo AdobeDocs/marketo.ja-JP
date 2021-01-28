@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: プログラム内のマイトークンについて — Marketto Docs — 製品ドキュメント
 title: プログラム内のマイトークンについて
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>カレンダーファイル <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>このトークンを使用して、電子メールやランディングページにカレンダーイベントファイル(.i<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a>cs)<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">を追加します。</a></td> 
+   <td>このトークンを使用して、電子メールやランディングページにカレンダーイベントファイル(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>を追加します。<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a></td> 
   </tr> 
   <tr> 
    <td><p>日付 <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>スコア <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>このトークンは、<a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">変更スコアフロー手順</a>で使用します。 </td> 
+   <td>このトークンは、<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">変更スコアフロー手順</a>で使用します。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDCキャンペーン <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Microsoft DynamicsまたはSalesforceのSales Insightから電子メールを送信すると、マイトークンが解決しません。標準のトークンのみが設定されます(リード、会社など)。 ただし、トークン&#x200B;*のデフォルト値は*&#x200B;機能します。
+>Microsoft DynamicsまたはSalesforceのSales Insightから電子メールを送信すると、マイトークンが解決しません。標準のトークンのみが設定されます(リード、会社など)。 ただし、トークン&#x200B;_のデフォルト値は_&#x200B;機能します。
 
 ## トークンのネスト{#nesting-tokens}
 
