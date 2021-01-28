@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: プレゼンテーションのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションのカスタマイズ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [カスタム](create-a-custom-goal.md) 目標または [スマートリスト目標の作成](create-a-smart-list-goal.md)
+>* [カスタム](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 目標または [スマートリスト目標の作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [プレゼンテーションの作成](create-a-presentation.md)
-
->
-
+* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## 表示の選択{#choosing-the-views}
 
-Presentationsは、選択した別の[フィルタ定義](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)を順に調べます。 必要な数の表示を取り込んで、頻度をカスタマイズします。
+Presentationsは、選択した別の[フィルタ定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)を順に調べます。 必要な数の表示を取り込んで、頻度をカスタマイズします。
 
 1. 右のツリーから、プレゼンテーション内で回転させたい別の表示をドラッグします。
 
@@ -42,7 +39,7 @@ Presentationsは、選択した別の[フィルタ定義](../../../../product-do
 
 ## 追加目標{#add-a-goal}
 
-Presentationsはチームの目標を表示する際に最も素晴らしいと思います。 別の[カスタム目標](create-a-custom-goal.md)または[スマートリスト目標](create-a-smart-list-goal.md)にドラッグするだけです。 10まで使用できます。
+Presentationsはチームの目標を表示する際に最も素晴らしいと思います。 別の[カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)または[スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)にドラッグするだけです。 10まで使用できます。
 
 1. 右のツリーから、プレゼンテーションに表示したい別の目標をドラッグします。
 
@@ -52,7 +49,7 @@ Presentationsはチームの目標を表示する際に最も素晴らしいと�
 
 プレゼンテーション内の表示を取り込んだら、表示間の回転の頻度を設定します。
 
-1. [** 5分**] （既定のカデンス）をクリックします。
+1. **5分**&#x200B;をクリックします（これはデフォルトのカデンスです）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ Presentationsはチームの目標を表示する際に最も素晴らしいと�
 
 >[!TIP]
 >
->プレゼンテーションの[背景画像](add-a-background-image-to-a-presentation.md)を設定します。 子猫か虹かを提案します
+>プレゼンテーションの[背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)を設定します。 子猫か虹かを提案します
 
 ## プレゼンテーションのプレビュー{#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Presentationsはチームの目標を表示する際に最も素晴らしいと�
 
    見た物が嫌い？ 前のページに戻って、別のフィルター定義を使用して、目的の表示を作成します。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [プレゼ追加ンテーションの背景画像](add-a-background-image-to-a-presentation.md)
->* [プレゼンテーションの開始](launch-a-presentation.md)
-
->
-
-
+>* [プレゼ追加ンテーションの背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [プレゼンテーションの開始](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
