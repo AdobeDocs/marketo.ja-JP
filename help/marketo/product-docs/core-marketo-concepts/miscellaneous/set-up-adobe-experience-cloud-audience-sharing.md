@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloudオーディエンス共有の設定 — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Cloudオーディエンス共有の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. AdobeIMS組織IDを入力し（[ここ](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)を見つける方法を学ぶ）、「**OK**」をクリックします。
+1. AdobeIMS組織IDを入力し（[ここ](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)を見つける方法を学ぶ）、「**OK**」をクリックします。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >セキュリティ上の理由から、マッピング先のAdobe組織の組織管理者である必要があります。 そうしないと、アクションは失敗します。
 
-1. **&#x200B;が既にログインしていない場合は、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（この操作により組織アクセスが検証されます）。
+1. __&#x200B;が既にログインしていない場合は、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（この操作により組織アクセスが検証されます）。
 
-   それだ！ これで、[オーディエンスデータ](http://docs.marketo.com/x/ogI6Ag)の共有を開始できます。
-
+   それだ！ これで、[オーディエンスデータ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)の共有を開始できます。
