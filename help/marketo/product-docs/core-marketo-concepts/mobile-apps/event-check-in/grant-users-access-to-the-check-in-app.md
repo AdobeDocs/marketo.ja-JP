@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: チェックインアプリ — Marketto Docs — 製品ドキュメントへのアクセスをユーザーに許可する
 title: チェックインアプリへのアクセス権をユーザーに付与
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
