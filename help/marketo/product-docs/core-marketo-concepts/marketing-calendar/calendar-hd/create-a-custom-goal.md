@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: カスタム目標の作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: カスタム目標の作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 目標とは、進行状況を追跡し、チームの意欲を引き出す方法です。 作成した後は、手動で更新する必要があります。
 
-プレゼンテーションと同様、目標は[ワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
+プレゼンテーションと同様、目標は[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
 
 1. **カレンダー**&#x200B;に移動します。
 
@@ -48,4 +48,3 @@ ht-degree: 0%
    カスタム目標が作成されました。
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
