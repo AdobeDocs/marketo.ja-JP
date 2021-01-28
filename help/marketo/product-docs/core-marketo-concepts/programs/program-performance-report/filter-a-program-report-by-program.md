@@ -3,9 +3,9 @@ unique-page-id: 2360047
 description: プログラム別プログラムレポートのフィルター — Marketto Docs — 製品ドキュメント
 title: プログラムによるプログラムレポートのフィルタリング
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # プログラム{#filter-a-program-report-by-program}でプログラムレポートをフィルター
 
-[プログラムのパフォーマンスレポート](create-a-program-performance-report.md)を特定のプログラムに絞って、そのパフォーマンスを比較します。
+[プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定のプログラムに絞って、そのパフォーマンスを比較します。
 
 1. **マーケティング** **アクティビティ** （または&#x200B;**Analytics**）に移動します。
 
@@ -35,23 +35,10 @@ ht-degree: 0%
    >
    >フォルダーを選択した場合、レポートの実行時に、フォルダーに含まれるすべてのフォルダーがレポートに含まれます。
 
-1. それだけだ！ 「**レポート**」タブをクリックすると、レポート内で選択したプログラムの&#x200B;*のみ*&#x200B;が表示されます。
+1. それだけだ！ 「**レポート**」タブをクリックすると、レポート内で選択したプログラムの&#x200B;_のみ_&#x200B;が表示されます。
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [タグによるプログラムレポートのフィルタリング](filter-a-program-report-by-tag.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+   >[タグによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
