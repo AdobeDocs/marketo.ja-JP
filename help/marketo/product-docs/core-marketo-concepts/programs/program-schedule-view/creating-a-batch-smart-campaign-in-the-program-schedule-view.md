@@ -3,7 +3,7 @@ unique-page-id: 1147142
 description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントでのバッチスマートキャンペーンの作成
 title: プログラムスケジュール表示でのバッチスマートキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # プログラムスケジュール表示でのバッチスマートキャンペーンの作成{#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-新しいスマートキャンペーンを作成し、プログラムスケジュール表示からプログラム内の既存のスマート[を再実行できます。](rerun-a-smart-campaign-in-the-program-schedule-view.md)
+新しいスマートキャンペーンを作成し、プログラムスケジュール表示からプログラム内の既存のスマート[を再実行できます。](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md)
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 「**種類**」ドロップダウンをクリックし、「**スマート** **キャンペーン**」を選択します。
+1. 「**種類**」ドロップダウンをクリックし、「**スマートキャンペーン**」を選択します。
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. [スマートキャンペーン](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)ルールを選択します。
+1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)ルールを選択します。
 
    ![](assets/changeprogramstatus-hands.png)
 
