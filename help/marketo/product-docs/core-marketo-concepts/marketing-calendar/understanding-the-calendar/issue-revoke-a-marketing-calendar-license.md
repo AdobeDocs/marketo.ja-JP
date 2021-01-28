@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: マーケティングカレンダーライセンスの問題と取り消し — Marketto Docs — 製品ドキュメント
 title: マーケティングカレンダーライセンスの発行と取り消し
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-[マーケティングカレンダー](http://docs.marketo.com/display/docs/marketing+calendar)のシートを利用するには、アクセスを必要とするユーザーにライセンスを発行する必要があります。 これが方法です。
+[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)のシートを利用するには、アクセスを必要とするユーザーにライセンスを発行する必要があります。 これが方法です。
 
 1. **管理者**&#x200B;セクションに移動します。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   うまくいった！ **カレンダー**&#x200B;の下の緑のチェックマークを見る？
+   うまくいった！ 「カレンダー？」の下の緑のチェックマークを確認する
 
    ![](assets/5.png)
 
