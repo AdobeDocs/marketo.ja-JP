@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: 電子メールのプレビュー — Marketto Docs — 製品ドキュメント
 title: 電子メールのプレビュー
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールのプレビュー{#previewing-an-email}
 
-電子メールカードを右クリックしてプレビューし、トリガーを引く前に実行します。
+トリガーを引く前に、電子メールカードを右クリックしてプレビューします。
 
 1. 電子メールカードで、3つのドットアクションメニューをタップします。
 
@@ -23,7 +23,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. 電子メールをデバイスに表示できます。\
+1. 電子メールをデバイスに表示できます。
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ ht-degree: 0%
    >電子メールプレビューページから直接サンプルを送信するには、右上の紙機アイコンをタップします。
 
    素晴らしい！
-
