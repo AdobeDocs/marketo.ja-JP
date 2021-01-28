@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントで直接エントリを確認します。
 title: マーケティングカレンダーでの入口の直接確認
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    確認は一連の検証プロセスを実行し、すべてがチェックアウトした場合に、入力が確認されます。
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
