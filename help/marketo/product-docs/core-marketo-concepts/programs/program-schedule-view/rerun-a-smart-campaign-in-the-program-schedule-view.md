@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントでスマートキャンペーンを再実行する
 title: プログラムスケジュール表示でのスマートキャンペーンの再実行
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >これは、[プログラムフォーカス](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)からも実行できます。
+   >これは、[プログラムフォーカス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)からも実行できます。
 
 ブーム！ そのように、そのスマートキャンペーンに対して別の実行をスケジュールしました。 そのスマートキャンペーンにメール送信手順が含まれている場合は、それらも表示されます。
