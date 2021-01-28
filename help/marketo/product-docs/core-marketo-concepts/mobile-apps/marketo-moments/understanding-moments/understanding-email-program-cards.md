@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 電子メールプログラムカードについて — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムカードについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 電子メールプログラムカード{#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 電子メールプログラムカードをタップすると、次のことができます。
+電子メールプログラムカードをタップすると、次のことができます。
 
-* [電子メールをお気に入りに登録](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [電子メールを完了としてマーク](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [電子メールモーメントカードの共有](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [電子メールをお気に入りに登録](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [電子メールを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [電子メールモーメントカードの共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 まだ送信されていない電子メールの電子メールプログラムカードには、その電子メールプログラムのステータスとオーディエンスに関する情報が表示されます。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 「**確認**」をタップしてジョブを終了します。または「**気にしない**」をタップします。
+1. 「**確認**」をタップしてジョブを終了します。「**気にしない**」をタップしてジョブを終了します。
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   こうやって、トリガーを引く前にメールが完璧だと分かる！\
+   トリガーを引っ張る前にメールが完璧だ！
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    素晴らしい！
@@ -114,12 +115,7 @@ Eメールキャンペーンを見る上でのスクープです プロだ！
 
 >[!MORELIKETHIS]
 >
->* [マーケティングの場面について](understanding-marketo-moments.md)
->* [イベントカードについて](understanding-event-cards.md)
->* [Analyticsカードについて](understanding-analytics-cards.md)
->* [電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [マーケティングの場面について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analyticsカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
