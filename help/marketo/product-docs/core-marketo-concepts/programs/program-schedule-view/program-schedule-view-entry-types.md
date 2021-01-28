@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: プログラムスケジュール表示エントリタイプ — Marketto Docs — 製品ドキュメント
 title: プログラムスケジュール表示の入力タイプ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # プログラムスケジュール表示エントリタイプ{#program-schedule-view-entry-types}
 
-プログラムスケジュール表示に表示され、使用できる組み込みエントリの種類は8種類あります。 また、「管理者」セクションでカスタムエントリタイプ[を](create-custom-entry-types.md)作成することもできます。
+プログラムスケジュール表示に表示され、使用できる組み込みエントリの種類は8種類あります。 また、「管理者」セクションでカスタムエントリタイプ[を](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)作成することもできます。
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [カスタムエントリタイプの作成](create-custom-entry-types.md)
-
->
-
-
-
