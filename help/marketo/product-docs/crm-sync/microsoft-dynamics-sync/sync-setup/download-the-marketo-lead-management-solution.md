@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: Marketto Lead Management Solution - Marketto Docs — 製品ドキュメントをダウンロードします。
 title: Marketto Lead Management Solutionのダウンロード
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->*がアップグレードを実行する前に、最新のMarketo Solution*&#x200B;をダウンロードする必要があります。
+>_がアップグレードを実行する前に、最新のMarketo Solution_&#x200B;をダウンロードする必要があります。
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. **管理者**&#x200B;領域に移動します。
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. **CRM**&#x200B;をクリックします。
 
@@ -45,7 +45,6 @@ ht-degree: 0%
 
 1. お使いのMicrosoft Dynamicsバージョンに適したソリューションを選択してください。
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    すごい！ ソリューションのzipファイルがデバイスにダウンロードされます。
-
