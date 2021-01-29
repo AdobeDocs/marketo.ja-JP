@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: リリースノート — 2015年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年3月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,7 +43,7 @@ API](http://developers.marketo.com/documentation/asset-api)を介した電子メ
 
 ## Microsoft Dynamics 2015オンプレミス{#microsoft-dynamics-on-premise}
 
-最新のインストーラーでサポートされるようになりました。現在は[アプリケーション](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)からアクセスできます。
+最新のインストーラーでサポートされるようになりました。現在は[アプリケーション](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)からアクセスできます。
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
