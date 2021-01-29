@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Microsoft Dynamics Syncの検証 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics同期の検証
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、[マーケティング担当者](http://nation.marketo.com/community/support_solutions)にお問い合わせください。
+>Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 ## マーケティングで「同期の検証」を実行{#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. ![—](assets/delete.png)が表示された場合は、その手順に問題があります。 [Dynamics検証の同期の問題を修正](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照して、問題を特定し、修正してください。 次に、同期の検証手順を再実行して、上の画像のような結果にします。
+1. ![—](assets/delete.png)が表示された場合は、その手順に問題があります。 [Dynamics検証の同期の問題を修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照して、問題を特定し、修正してください。 次に、同期の検証手順を再実行して、上の画像のような結果にします。
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Dynamics検証の同期の問題を修正](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Dynamics検証の同期の問題を修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
