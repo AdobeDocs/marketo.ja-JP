@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Microsoft Dynamics用Marketoプラグインリリース — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics向けMarketoプラグインリリース
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新バージョンをダウンロードします。 定期的にMarketorはこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[ご使用のDynamicsリリースに対応する最新の](sync-setup/download-the-marketo-lead-management-solution.md) プラグインをダウンロードします。
+[ご使用のDynamicsリリースに対応する最新の](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) プラグインをダウンロードします。
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
 
 >[!MORELIKETHIS]
 >
->* [Marketto Lead Management Solutionのダウンロード](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Marketto Lead Management Solutionのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
