@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Microsoft Dynamics Sync - Marketto Docs — 製品ドキュメントについて
 title: Microsoft Dynamicsの同期を理解しています
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -31,28 +31,18 @@ MarketoとDynamicsの同期は、リードと連絡先の双方向です。 Mark
 
 ## MarketoとMicrosoft Dynamicsの間で同期されるもの{#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [リード](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [連絡先](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-* [アカウント](microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
-* [ユーザー](microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+* [リード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [連絡先](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [アカウント](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+* [ユーザー](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * チーム（SystemUsersのグループ）
-* [オポチュニティ](microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [カスタムエンティティ](microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [オポチュニティ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [カスタムエンティティ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
 >[!NOTE]
 >
 >Marketor for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)に入力した[資格情報は、データの同期に使用されます。
 
-Dynamicsの同期には、多くのニュアンスと機能があります。 [Microsoft Dynamics同期の詳細セクション](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)の詳細を確認してください。
-
 >[!CAUTION]
 >
 >現在、Marketo Dynamics Syncのサンドボックス更新をサポートしていません。 Dynamics CRMサンドボックスを更新する必要がある場合は、新しいMarketo Sandboxが必要になります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
-
->[!MORELIKETHIS]
->
->* [同期設定](http://docs.marketo.com/display/docs/sync+setup)
-   >
-   >
-* [Microsoft Dynamics同期の詳細](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)
-
