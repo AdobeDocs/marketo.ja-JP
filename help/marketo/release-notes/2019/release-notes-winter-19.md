@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: リリースノート — Winter 19 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '19
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 >[!NOTE]
 >
->Microsoftは、すべてのオンラインユーザーに対して、最新バージョンのMicrosoft Dynamicsへのアップグレードを要求しています。 MarketoインスタンスをDynamics Onlineと統合する場合、統合が引き続き機能するように、**2019年1月31日**&#x200B;の前に、Marketo Solutionの最新バージョン](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)に[アップグレードする必要があります。
+>Microsoftは、すべてのオンラインユーザーに対して、最新バージョンのMicrosoft Dynamicsへのアップグレードを要求しています。 MarketoインスタンスをDynamics Onlineと統合する場合、統合が引き続き機能するように、**2019年1月31日**&#x200B;の前に、Marketo Solutionの最新バージョン](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)に[アップグレードする必要があります。
 
 >[!NOTE]
 >
