@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Dynamics検証の同期の問題を修正 — Marketto Docs — 製品ドキュメント
 title: Dynamics検証の同期の問題を修正
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -99,7 +99,7 @@ Dynamics Validate Syncを実行すると、このレポートが生成されま�
 
    ![](assets/one.png)
 
-1. 「**設定**」をクリックし、「**Marketto Config**」を選択します。
+1. 「**設定**」をクリックし、「**マーケティング先設定**」を選択します。
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Dynamics Validate Syncを実行すると、このレポートが生成されま�
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics同期の検証](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Microsoft Dynamics同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
