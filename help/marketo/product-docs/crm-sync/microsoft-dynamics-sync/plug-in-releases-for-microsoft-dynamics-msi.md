@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI用プラグインリリース — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics MSIのプラグインリリース
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用の最新バージョンのプラグインをダウンロードしてインストールします。 定期的にMarketing Suiteでこれらのプラグインが更新されるので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[お使いのDynamicsリリースに対応する最新のプラグイン](http://docs.marketo.com/x/LoJo)を&lt;a0/>ダウンロードしてください。
+[お使いのDynamicsリリースに対応する最新のプラグイン](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)をダウンロードしてください。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用
 
 ## MSIソリューションの更新{#updating-your-msi-solution}
 
-1. Dynamics CRMの既存のバージョンを使用して、ソリューションの最新バージョンをインポートします(例：Dynamics CRMにバージョン1.4があり、最新バージョンが1.5の場合は、*over*&#x200B;バージョン1.4)をインポートします。
+1. Dynamics CRMの既存のバージョンを使用して、ソリューションの最新バージョンをインポートします(例：Dynamics CRMにバージョン1.4があり、最新バージョンが1.5の場合は、_over_&#x200B;バージョン1.4)をインポートします。
 1. 次のポップアップが表示されます。 「**更新**」および「**カスタマイズを上書き**」オプションを選択し、「**読み込み**」をクリックします。
 
    ![](assets/one.png)
@@ -69,4 +69,3 @@ Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用
   </tr> 
  </tbody> 
 </table>
-
