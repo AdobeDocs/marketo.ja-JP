@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
 workflow-type: tm+mt
 source-wordcount: '7828'
 ht-degree: 0%
@@ -495,11 +495,11 @@ ht-degree: 0%
          + [Microsoft Dynamicsの同期を理解しています](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Microsoft Dynamics向けMarketoプラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Microsoft Dynamics MSIのプラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
-         + [Microsoft Dynamics同期の検証](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
          + [Dynamics検証の同期の問題を修正](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同期セットアップ{#sync-setup}
             + [Marketto Lead Management Solutionのダウンロード](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Microsoft Dynamics用Marketor Solutionをアップグレードする](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics用Marketor Solutionをアップグレードする](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics同期の検証](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [組織サービスのURLの表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011オンプレミス{#microsoft-dynamics-2011-on-premises}
                + [手順1/3:Marketo Solution(2011 On-Premises)のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
