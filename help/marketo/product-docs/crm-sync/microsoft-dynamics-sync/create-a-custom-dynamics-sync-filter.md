@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: カスタムダイナミクス同期フィルターの作成 — Marketto Docs — 製品ドキュメント
 title: カスタムダイナミクス同期フィルタを作成する
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketorは、バックグラウンドでの自動同期中にこのフィール
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 「**Lead **」の横の![](assets/image2015-8-10-21-3a44-3a23.png)をクリックし、「**フィールド**」を選択します。 「**新規**」をクリックします。
+1. **リード**&#x200B;の横の![](assets/image2015-8-10-21-3a44-3a23.png)をクリックし、**フィールド**&#x200B;を選択します。 「**新規**」をクリックします。
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -67,7 +67,7 @@ Marketorは、バックグラウンドでの自動同期中にこのフィール
 
    >[!NOTE]
    >
-   >このフィールドには任意の表示名を選択しますが、名前フィールドは必ず&#x200B;**new_synctomkto**&#x200B;にする必要があります。 デフォルトのプレフィックスとして&#x200B;**new**&#x200B;を使用する必要があります。 デフォルトを変更した場合は、[カスタムフィールド名](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)のデフォルトのプレフィックスをリセットします。 新しいフィールドを作成した後で、変更を元に戻すことができます。
+   >このフィールドには任意の表示名を選択しますが、名前フィールドは必ず&#x200B;**new_synctomkto**&#x200B;にする必要があります。 デフォルトのプレフィックスとして&#x200B;**new**&#x200B;を使用する必要があります。 デフォルトを変更した場合は、[カスタムフィールド名](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)のデフォルトのプレフィックスをリセットします。 新しいフィールドを作成した後で、変更を元に戻すことができます。
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Marketorは、バックグラウンドでの自動同期中にこのフィール
 
    >[!TIP]
    >
-   >電子メールアドレスを持つユーザーのレコードのみを同期するルールを設定するには、「[電子メールアドレスのカスタム同期フィルタールール](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)」を参照してください。
+   >電子メールアドレスを持つユーザーのレコードのみを同期するルールを設定するには、「[電子メールアドレスのカスタム同期フィルタールール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)」を参照してください。
 
 ## 同期フィルターの詳細{#sync-filter-details}
 
@@ -141,21 +141,15 @@ Marketorは、バックグラウンドでの自動同期中にこのフィール
 
    >[!TIP]
    >
-   >**Create [StartSync]**&#x200B;操作は、このような場合にMarketor Logに追加されます。
+   >この場合、`Create [StartSync]`操作がマーケティングログに追加されます。
 
 1. 同期操作の停止
 
    レコードのSyncToMkto値がYesからNoに変更されると、マーケティング担当者にこのレコードの同期を停止するよう通知されます。 ただし、レコードは削除されず、代わりに更新の取得が停止され、古くなります。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [Microsoft Dynamics同期フィルタ：条件を満たす](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics同期フィルタ：結合](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [電子メールアドレスのカスタム同期フィルター規則](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-
->
-
-
+>* [Microsoft Dynamics同期フィルタ：条件を満たす](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics同期フィルタ：結合](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [電子メールアドレスのカスタム同期フィルター規則](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
