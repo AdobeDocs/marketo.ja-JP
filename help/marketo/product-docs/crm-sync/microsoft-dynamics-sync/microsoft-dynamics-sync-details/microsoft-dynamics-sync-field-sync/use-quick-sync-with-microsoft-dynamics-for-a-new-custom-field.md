@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールド — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Quick SyncはNULL値を同期できます。 例えば、AとBの値を使用し
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. [** Microsoft Dynamics**]をクリックします。
+1. **Microsoft Dynamics**&#x200B;をクリックします。
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -86,4 +86,3 @@ Quick SyncはNULL値を同期できます。 例えば、AとBの値を使用し
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    それで直せ！
-
