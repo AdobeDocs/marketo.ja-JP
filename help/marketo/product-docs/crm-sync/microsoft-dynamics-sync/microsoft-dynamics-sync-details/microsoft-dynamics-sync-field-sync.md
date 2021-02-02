@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Field Sync - Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — フィールド同期
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,12 @@ MarkettoとDynamicsの同期は非常に強力です。 詳しくは、
 
 ## Dynamicsにフィールドを作成しました。 Marketoと同期できますか。{#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-はい。同期ユーザーがDynamicsでフィールド[にアクセスできる限り、フィールド](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)を&lt;a0/>同期できます。
+はい。同期ユーザーがDynamicsでフィールド[にアクセスできる限り、フィールド](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)を同期できます。
 
 Marketoと同期するフィールドは何ですか。
 
-[設定中に、同期するフィールドを選択](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)できます。
+[設定中に、同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)できます。
 
 ## MarketorとDynamicsの同期後にカスタムフィールドを追加する必要がある場合はどうなりますか？{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-いつでもフィールドを追加でき、DynamicsからMarketorにデータが更新されるように期待できます。 詳しくは、[新しいカスタムフィールド用のMicrosoft Dynamicsとのクイック同期を使用する](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)を参照してください。
-
->[!MORELIKETHIS]
->
->* [Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
-
->
-
-
-
+いつでもフィールドを追加でき、DynamicsからMarketorにデータが更新されるように期待できます。 詳しくは、[新しいカスタムフィールド用のMicrosoft Dynamicsとのクイック同期を使用する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)を参照してください。
