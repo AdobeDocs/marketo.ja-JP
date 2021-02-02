@@ -3,7 +3,7 @@ unique-page-id: 10092977
 description: Microsoft Dynamics Sync Filter — 資格 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync Filter — 条件付き
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,4 +29,3 @@ Microsoft Dynamicsでリードを連絡先に変換する場合は、この既�
 >[!CAUTION]
 >
 >デルは、すぐに使用できる「コンバージョンの認定」プロセスのみをサポートします。
-
