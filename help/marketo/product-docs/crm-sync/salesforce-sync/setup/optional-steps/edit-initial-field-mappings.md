@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: 初期フィールドマッピングの編集 — Marketto Docs — 製品ドキュメント
 title: 初期フィールドマッピングの編集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
 >この機能にアクセスできるのは、Salesforceとの初期同期前のみです。 「**今すぐ同期**」ボタンを押すと、この操作は実行できなくなります。
 
 Salesforceとの初期同期中、Marketorは、同じ名前のカスタムフィールドをマーケティング担当者側の1つのフィールドに自動的に結合し、データをCRMのリードオブジェクトと連絡先オブジェクトの両方で交換できるようにします。 この記事では、これらのマッピングのカスタマイズ方法を説明します。
@@ -25,7 +23,7 @@ Salesforceとの初期同期中、Marketorは、同じ名前のカスタムフ�
 
 Unmapped Fieldsフォルダーにフィールドが表示される場合、これは、Salesforceのリードまたは連絡先の類似のフィールドにマップされていないことを意味します。 あなたはそれを直せる。
 
-1. 「マッピングを編集」をクリックします。
+1. 「**マッピングを編集**」をクリックします。
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Unmapped Fieldsフォルダーにフィールドが表示される場合、こ�
 
    * すべてのマッピングの変更がリセットされます。
    * スキーマをリセットしても、フィールドのみが追加され、削除されません（同期ユーザーに対してフィールドを非表示にしている場合でも）。
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
