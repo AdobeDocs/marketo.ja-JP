@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: 電子メールアドレスのカスタム同期フィルタールール — Marketto Docs — 製品ドキュメント
 title: 電子メールアドレスのカスタム同期フィルター規則
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ ht-degree: 0%
 
 * 連絡先の会社名(parentcustomerid)フィールドが更新された場合は、連絡先の「Mktoと同期」フィールドがtrueかどうかを確認します。 その場合は、アカウント上のSyncをMktoに変更して&#x200B;**True**&#x200B;にも変更します。
 * オポチュニティの潜在的な顧客(customerid)フィールドまたは連絡先(parentcontactid)が更新された場合、アカウントの「Sync to Mkto」フィールドがtrueか、連絡先の「Sync to Mkto」フィールドがtrueかを確認します。 同期が有効な場合は、オポチュニティ上でSyncをMktoに変更します。**True**&#x200B;にも変更します。
-
