@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: アクティビティの同期のカスタマイズ — Marketto Docs — 製品ドキュメント
 title: アクティビティの同期のカスタマイズ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # アクティビティ同期のカスタマイズ{#customize-activities-sync}
 
-[販売インサイト](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)を使用しない場合、Marketorは特定のイベントに対してSalesforceアクティビティ履歴レコードを作成できます。 有効にする方法を次に示します。
+Marketo Sales Insightを使用しない場合、Marketorは特定のイベントに対してSalesforceアクティビティ履歴レコードを作成できます。 有効にする方法を次に示します。
 
-1. **Adminに移動します。 **
+1. **管理者**&#x200B;に移動します。
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >有効になると、Marketoは3か月分のアクティビティ履歴をプッシュします。 データの量によっては、**&#x200B;を完了するのに数日かかる場合があります。 最初のアクティビティのプッシュ中に発生する更新は、最初のアクティビティの同期が完了するまで遅延する可能性があります。
+   >有効になると、Marketoは3か月分のアクティビティ履歴をプッシュします。 データの量によっては、__&#x200B;を完了するのに数日かかる場合があります。 最初のアクティビティのプッシュ中に発生する更新は、最初のアクティビティの同期が完了するまで遅延する可能性があります。
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
->
 >&quot;受信した販売の電子メール&quot;が&#x200B;**配信されない**。 Sales Insight経由で送信された電子メールの配信ステータスはキャプチャされません。
 
 >[!TIP]
 >
->Salesforceに対するより多くのマーケティング情報の取り込みに関心がある場合は、弊社の[Marketo Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)製品をご覧ください。
-
+>Salesforceに対するより多くのマーケティング情報の取り込みに関心がある場合は、弊社の[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)製品をご覧ください。
