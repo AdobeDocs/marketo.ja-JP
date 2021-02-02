@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Microsoft Dynamics Sync Filter -Merge - Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics同期フィルタ — 結合
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -22,7 +22,6 @@ Microsoft Dynamicsでリードをマージする際に、同期フィルター=�
 | 失われるレコードの同期フィルタが次の場合： | 勝者レコードの同期フィルターは次のとおりです。 | これは、Marketo |
 |---|---|---|
 | True | True | 勝者レコードは引き続きマーケティング担当者と同期されます |
-| False | False | 勝者レコードは引き続き&#x200B;**Marketoと**&#x200B;同期&lt;a1/>されません |
+| False | False | 勝者レコードは引き続き&#x200B;**Marketoと**&#x200B;同期されません |
 | False | True | 勝者レコードは、マーケティング担当者と同期されます |
 | True | False | 勝者レコードはマーケティング担当者と同期されません |
-
