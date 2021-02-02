@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Salesforce同期について — Marketto Docs — 製品ドキュメント
 title: Salesforce同期について
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ SalesforceとMarketoの同期は、リード、連絡先、Salesforceのキャ�
 
 ## MarketoとSalesforceの間で同期されるもの{#what-is-synced-between-marketo-and-salesforce}
 
-* [リード](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [連絡先](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [アカウント](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [ユーザー](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [オポチュニティ](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforceキャンペーン](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [カスタムオブジェクト](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [アクティビティ](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [オポチュニティ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforceキャンペーン](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [カスタムオブジェクト](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [アクティビティ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->Marketo for Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)に入力する[資格情報は、データの同期に使用されます。 資格情報にアクセスできるデータのみが含まれます。
+>Marketo for Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)に入力する[資格情報は、データの同期に使用されます。 資格情報にアクセスできるデータのみが含まれます。
 
-Salesforceの同期には、さまざまなニュアンスや機能があります。 [SFDC同期の詳細セクション](http://docs.marketo.com/display/docs/sfdc+sync+details)の詳細を確認します。
-
->[!MORELIKETHIS]
->
->* [Salesforce同期設定](http://docs.marketo.com/display/docs/setup)
->* [SFDC同期の詳細](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-マーケットとSalesforceの同期は、世界で最も強力なソリューションです。 魔法のような感じがします。変化が起き、もう一方のシステムがすぐに最新の状態になります。
+マーケットとSalesforceの同期は、世界で最も強力なソリューションです。 魔法のような感じ。変更が行われ、他のシステムが近日中に最新の状態になります。
