@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Dynamics(2013 On-Premises)にMarketo Solutionをインストールする](step-1-of-3-install.md)
->* [手順2/3:Marketor用の同期ユーザーの設定(2013 On-Premises)](step-2-of-3-configure.md)
-
->
-
+>* [手順1/3:Dynamics(2013 On-Premises)にMarketo Solutionをインストールする](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [手順2/3:Marketor用の同期ユーザーの設定(2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -42,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **手順1の**&#x200B;編集&#x200B;**をクリックします。資格情報**&#x200B;を入力します。
+1. **手順1の「**&#x200B;編集&#x200B;**」をクリックします。資格情報**&#x200B;を入力します。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -56,17 +53,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e)またはDOMAIN\userです。
+   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
 
    >[!TIP]
    >
-   >URLがわからない？ [Dynamics組織サービスのURL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法をここで示します。
+   >URLがわからない？ [Dynamics組織サービスのURL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法をここで示します。
 
 ## 同期するフィールドを選択{#select-fields-to-sync}
 
 次に、同期するフィールドを選択する必要があります。
 
-1. **手順2：で**編集**をクリックします。「同期するフィールド**」を選択します。
+1. **手順2:「同期するフィールド**」を選択します。****
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ ht-degree: 0%
 
 ## 同期を有効にする{#enable-sync}
 
-1. **手順3の**編集**をクリックします。同期**&#x200B;を有効にします。
+1. **手順3の**&#x200B;編集&#x200B;**をクリックします。同期**&#x200B;を有効にします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -110,13 +107,6 @@ ht-degree: 0%
 
 素晴らしい仕事！ MarketoとMicrosoft Dynamicsの間の双方向同期の機能を解放しました。 Marketo Sales Insightを購入済みの場合は、以下のような楽しさがあります。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [Microsoft Dynamics 2013でのMarketo Sales Insightのインストールと構成](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[Microsoft Dynamics 2013でのMarketo Sales Insightのインストールと構成](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
