@@ -3,7 +3,7 @@ unique-page-id: 7504770
 description: 組織サービスのURL - Marketto Docs — 製品ドキュメントの表示
 title: 組織サービスのURLの表示
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -27,9 +27,8 @@ Dynamics On-Premisesインスタンスと同期するには、Marketing Toに組
 
    ![](assets/three.png)
 
-1. 組織サービスのURLは、「** Service Endpoints**」にあります。
+1. 組織サービスのURLは、**サービスエンドポイント**&#x200B;にあります。
 
    ![](assets/four.png)
 
 1. このURLをMarketorにコピー&amp;ペーストして、残りの同期を楽しみます。
-
