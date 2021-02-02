@@ -3,7 +3,7 @@ unique-page-id: 10097584
 description: 同期ステータス — Marketto Docs — 製品ドキュメント
 title: 同期の状態
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. **表示をクリックします。**ドロップダウン** ***を選択し、「**過去1時間**」を選択して、表示のスループット情報を表示します。
+1. **表示:**&#x200B;ドロップダウンをクリックし、「**過去1時間**」を選択して表示のスループット情報を表示します。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,5 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [通知タイプ](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-
+>[通知タイプ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
