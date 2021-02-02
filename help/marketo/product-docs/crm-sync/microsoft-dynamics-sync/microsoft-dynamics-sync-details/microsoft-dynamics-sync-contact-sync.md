@@ -3,9 +3,9 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync — 連絡先の同期 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — 連絡先の同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ Marketoがデータベース全体をDynamicsと同期することを知って�
 
 ## Marketoを使用して連絡先を作成できますか。{#can-i-create-a-contact-using-marketo}
 
-はい。 [方法は](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)。
+はい。 [方法は](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)。
 
 >[!NOTE]
 >
->「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、Dynamicsでリアルタイムにリード/連絡先が作成されます。
+>「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、リード/連絡先はDynamicsでリアルタイムに作成されます。
 
 ## 手動で人または連絡先の同期を強制できますか。{#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-いいえ。バックグラウンドの自動同期は、MarketoとDynamicsの間で更新を同期する唯一の方法です。 [個人をMicrosoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)に同期しても、リードの同期は強制されません。
+いいえ。バックグラウンドの自動同期は、MarketoとDynamicsの間で更新を同期する唯一の方法です。 [個人をMicrosoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)に同期しても、リードの同期は強制されません。
 
 ## Marketoと同期するフィールドは何ですか。{#what-fields-will-sync-to-marketo}
 
-[設定中に、同期するフィールドを選択](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)できます。 ただし、Dynamics同期ユーザーがアクセス権を持つフィールドのみが同期されます。
+[設定中に、同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)できます。 ただし、Dynamics同期ユーザーがアクセス権を持つフィールドのみが同期されます。
 
 ## マーケティング担当者はDynamics検証ルールを順守しますか？{#will-marketo-respect-the-dynamics-validation-rules}
 
