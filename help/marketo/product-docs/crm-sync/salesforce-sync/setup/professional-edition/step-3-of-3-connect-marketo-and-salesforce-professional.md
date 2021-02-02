@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: 手順3/3 - MarkettoとSalesforce(Professional)の接続 — Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarketoとSalesforce(Professional)の接続
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [手順2/3:Marketor用のSalesforceユーザーの作成(Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
+>* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [手順2/3:Marketor用のSalesforceユーザーの作成(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
 ## 同期ユーザーセキュリティトークンの取得{#retrieve-sync-user-security-token}
@@ -46,18 +43,15 @@ ht-degree: 0%
 
 ## 同期ユーザー資格情報の設定{#set-sync-user-credentials}
 
-1. Marketoで、**管理者**&#x200B;に移動し、**CRM**&#x200B;を選択して、**Salesforce.com](http://Salesforce.com)**&#x200B;と同期をクリックします。[
+1. Marketoで、**管理者**&#x200B;に移動し、**CRM**&#x200B;を選択して、**Salesforce.com](https://Salesforce.com)**&#x200B;と同期をクリックします。[
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >[同期フィールド&#x200B;**をクリックする前に、マーケティングで不要な](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドを同期ユーザーから**&#x200B;隠すようにしてください。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドが、Marketorに永久的に作成され、削除できません。
+   >[同期フィールド&#x200B;**をクリックする前に、マーケティングで不要な](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドを同期ユーザーから**&#x200B;隠すようにしてください。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドがMarketorに完全に作成され、削除できなくなります。
 
-1. Salesforce設定([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW)、[Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
+1. Salesforce設定([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズ](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)したい場合は、これが唯一の方法です！ 「開始」「Salesforce同期」をクリックすると、同期が完了します。
+   >[マッピングを調べてカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)したい場合は、これが唯一の方法です！ 「開始」「Salesforce同期」をクリックすると、同期が完了します。
 
 ## 開始Salesforce同期{#start-salesforce-sync}
 
@@ -109,15 +103,8 @@ Marketorは、管理領域でSalesforce同期のステータスメッセージ�
 
 Marketoの最も強力な機能の1つの設定が完了しました。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Salesforce Professional EditionでのMarketor Sales Insightの設定](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [オプションの手順](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Salesforce Professional EditionでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
