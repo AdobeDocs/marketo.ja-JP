@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: 手順2/3 - Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited) - Marketto Docs — 製品ドキュメント
 title: ステップ2/3 - Marketto向けSalesforceユーザーの作成(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 この記事では、Salesforceプロファイルでユーザー権限を設定し、Marketor-Salesforce統合アカウントを作成します。
 
@@ -100,10 +96,10 @@ ht-degree: 0%
 
 1. プロファイルの詳細ページで、「**フィールドレベルセキュリティ**」セクションに移動します。 **表示**&#x200B;をクリックして、オブジェクトのアクセシビリティを編集します。
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * リード
+   * 連絡先
+   * アカウント
+   * オポチュニティ
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ ht-degree: 0%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 不要なフィールドを見つけ、「**読み取りアクセス&#x200B;**」と「**&#x200B;アクセスを編集**」がオフになっていることを確認します。 終了したら「**保存**」をクリックします。
+1. 不要なフィールドを探し、「**読み取りアクセス**」と「**アクセスを編集**」がオフになっていることを確認します。 終了したら「**保存**」をクリックします。
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >カスタムフィールドのアクセシビリティの編集のみを行います。
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 不要なフィールドをすべて無効にした後、以下のオブジェクトフィールドに対して「**読み取りアクセス」と「アクセスを編集**」をオンにする必要があります。 終了したら「**保存**」をクリックします。
+1. 不要なフィールドをすべて無効にした後、次のオブジェクトフィールドについて、**読み取りアクセスと編集アクセス**&#x200B;をチェックする必要があります。 終了したら「**保存**」をクリックします。
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->専用のSalesforceアカウントを作成します(例：[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4))を使用して、マーケティング担当者が加えた変更と他のSalesforceユーザーを区別します。
+>専用のSalesforceアカウント(marketo@yourcompany.comなど)を作成して、Marketoが行った変更と他のSalesforceユーザーが行った変更を区別します。
 
 1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**ユーザー**」をクリックします。 「**新しいユーザー**」をクリックします。
 
@@ -169,11 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**関連記事**
->
->* [手順3/3:MarketoとSalesforceの連携(Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[手順3/3:MarketoとSalesforceの連携(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
