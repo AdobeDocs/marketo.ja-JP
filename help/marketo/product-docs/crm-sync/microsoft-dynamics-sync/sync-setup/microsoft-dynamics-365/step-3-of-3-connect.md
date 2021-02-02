@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 手順3/3 - Microsoft DynamicsとMarketoの接続（オンライン） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - Microsoft DynamicsとMarketoの接続（オンライン）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Marketor Solutionのインストール（オンライン）](step-1-of-3-install.md)
+>* [手順1/3:Marketor Solutionのインストール（オンライン）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [手順2/3:DynamicsでのMarket Syncユーザーの設定](step-2-of-3-set-up.md)
-
->
-
+* [手順2/3:DynamicsでのMarket Syncユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1)またはDOMAIN\userです。
+   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
 
 ## 同期するフィールドを選択{#select-fields-to-sync}
 
