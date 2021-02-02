@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムステップ3 / 3 - Marketo Docs — 製品ドキュメントのインストール
 title: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順3/3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムステップ3 / 3 {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of}のインストール
+# 手順3/3:Marketo Dynamics （2015 On-Premおよび2016 365 On-Prem） {#step-of-connect-marketo-dynamics-on-premises-and-365}に接続
 
 >[!PREREQUISITES]
 >
->* [Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順1/3](step-1-of-3-install.md)
->* [Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順2/3](step-2-of-3-set-up.md)
-
->
-
+>* [Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1)またはDOMAIN\userです。
+   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
 
    >[!TIP]
    >
-   >URLがわからない？ [Dynamics組織サービスのURL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法を紹介します。
+   >URLがわからない？ [Dynamics組織サービスのURL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法を紹介します。
 
 ## 同期するフィールドを選択{#select-fields-to-sync}
 
