@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: 手順1/3 - Dynamics (2013 On-Premises)でのMarketo Solutionのインストール — Marketto Docs — 製品ドキュメント
 title: 手順1/3 - DynamicsでのMarketo Solutionのインストール(2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 
 >[!PREREQUISITES]
 >
->[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1、または3.0 (ADFS)が構成された[インターネット対応の展開](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)が必要です。 注意：IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
+>[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1、または3.0 (ADFS)が構成された[インターネット対応の展開](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)が必要です。 注意：IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
 >
->[開始する前に、Marketing ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solutionをダウンロードしてください。
+>[開始する前に、Marketing ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solutionをダウンロードしてください。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. 「**参照**」をクリックし、[ダウンロードしたソリューション](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)を選択します。 「**次へ**」をクリックします。
+1. 「**参照**」をクリックし、[ダウンロードしたソリューション](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)を選択します。 「**次へ**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -93,13 +93,6 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 >
 >Marketto SDKのメッセージングプロセスを無効にすると、インストールが中断されます。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [手順2/3:Marketor用の同期ユーザーの設定(2013 On-Premises)](step-2-of-3-configure.md)
-
->
-
-
-
+>[手順2/3:Marketor用の同期ユーザーの設定(2013 On-Premises)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
