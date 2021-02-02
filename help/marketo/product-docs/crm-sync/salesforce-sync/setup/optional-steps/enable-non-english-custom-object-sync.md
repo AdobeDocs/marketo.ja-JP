@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: 英語以外のカスタムオブジェクトの同期を有効にする — Marketto Docs — 製品ドキュメント
 title: 英語以外のカスタムオブジェクトの同期を有効にする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Marketoの同期ユーザーが英語以外の言語に設定されている場�
 
 >[!NOTE]
 >
->**Reminder**
->
 >最後にスキーマを更新して、オブジェクトを再び使用するのを忘れないでください。
-
