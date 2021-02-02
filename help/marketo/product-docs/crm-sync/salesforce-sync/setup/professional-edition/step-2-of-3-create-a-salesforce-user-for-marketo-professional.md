@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 手順2/3 - Marketto(Professional)用のSalesforceユーザーの作成 — Marketto Docs — 製品ドキュメント
 title: ステップ2/3 - Marketto(Professional)用のSalesforceユーザーの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 この記事では、Salesforceページレイアウトでフィールド権限をカスタマイズし、Marketor-Salesforce同期ユーザーを作成します。
 
@@ -92,9 +88,6 @@ Salesforce Professionalは、Salesforce Enterprise/Unlimitedのプロファイ�
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >**終日のイベント**&#x200B;フィールドが&#x200B;**イベントページレイアウト**&#x200B;に追加されていることを確認します。
 
 ## 同期ユーザーの作成{#create-sync-user}
@@ -123,13 +116,6 @@ Marketorは、Salesforceにアクセスするために資格情報が必要で�
 
 素晴らしい！ これで、MarketoがSalesforceに接続する際に使用できるアカウントが作成されました。 やろう。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [手順3/3:MarketoとSalesforce(Professional)の連携](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[手順3/3:MarketoとSalesforce(Professional)の連携](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
