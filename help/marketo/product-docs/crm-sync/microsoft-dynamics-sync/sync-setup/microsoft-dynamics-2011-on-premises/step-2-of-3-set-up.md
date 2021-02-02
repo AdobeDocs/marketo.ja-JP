@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: 手順2 / 3 - Dynamics (2011 On-Premises)のMarketo同期ユーザーを設定する — Marketto Docs — 製品ドキュメント
 title: 手順2 / 3 - DynamicsでのMarketo Syncユーザーの設定(2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Marketo Solution(2011 On-Premises)のインストール](step-1-of-3-install.md)
-
->
-
-
+>[手順1/3:Marketo Solution(2011 On-Premises)のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
 
 ## 同期ユーザーロールの割り当て{#assign-sync-user-role}
 
@@ -29,7 +25,7 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
 >[!NOTE]
 >
->これは、Marketoプラグインバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Marketo Solution for Microsoft Dynamicsのアップグレード](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketoプラグインバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Marketo Solution for Microsoft Dynamicsのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
 1. 左下のメニューで、「**設定**」を選択します。
 
@@ -53,7 +49,7 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
    >[!TIP]
    >
-   >ロールが表示されない場合は、[手順1/3](step-1-of-3-install.md)に戻り、ソリューションをインポートします。
+   >ロールが表示されない場合は、[手順1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)に戻り、ソリューションをインポートします。
 
    >[!NOTE]
    >
@@ -63,13 +59,13 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
 もう少しで終わりだ！ 次の記事に移る前に、最後の設定をいくつか示します。
 
-1. **設定**&#x200B;を選択します。 次に、ツリーで「**Marketto Config **」を選択します。
+1. **設定**&#x200B;を選択します。 次に、ツリーで「**Marketo Config**」を選択します。
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
    >
-   >Marketor Configがない場合は、ページを更新してみてください。 問題が解決しない場合は、[Marketorソリューションを再度](step-1-of-3-install.md)発行するか、ログアウトしてから再度ログインします。
+   >Marketor Configがない場合は、ページを更新してみてください。 問題が解決しない場合は、[Marketorソリューションを再度](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)発行するか、ログアウトしてから再度ログインします。
 
 1. 「**デフォルト**」をクリックします。
 
@@ -93,15 +89,12 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
 ## 手順3に進む前に{#before-proceeding-to-step}
 
-    *同期するレコードの数を制限する場合は、[カスタム同期フィルタを設定](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)を今すぐ行ってください。
-    * [Microsoft Dynamics Syncの検証](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認できます。
+    *同期するレコードの数を制限する場合は、[カスタム同期フィルタを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)を今すぐ行ってください。
+    * [Microsoft Dynamics Syncの検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認できます。
     * Microsoft Dynamics CRMのMarketto Sync Userにログインします。
 
 素晴らしい仕事！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->[手順3/3:Microsoft DynamicsとMarketoの接続（2011オンプレミス）](step-3-of-3-connect.md)
-
+>[手順3/3:Microsoft DynamicsとMarketoの接続（2011オンプレミス）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
