@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync — カスタムエンティティ同期 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — カスタムエンティティ同期
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、Dynamicsの[リード](microsoft-dynamics-sync-lead-sync.md)、[連絡先](microsoft-dynamics-sync-contact-sync.md)、または[アカウント](microsoft-dynamics-sync-account-sync.md)オブジェクトに関連付ける必要があります。
+>カスタムオブジェクトを使用するには、Dynamicsの[リード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)、[連絡先](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)、または[アカウント](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)オブジェクトに関連付ける必要があります。
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 [Microsoft Dynamics用のMarketoプラグインリリース](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 [Microsoft Dynamics用のMarketoプラグインリリース](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+
 1. 同期する予定のエンティティに対する読み取りアクセス権を、マーケティング担当者に付与します。
-1. [データベースの管理]で、[** Dynamicsエンティティ同期**]リンクをクリックします。
+
+1. [データベースの管理]で、**Dynamicsエンティティの同期**&#x200B;リンクをクリックします。
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. リストの同期後、同期するフィールドと、スマートリストで[制約](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガーとして使用するフィールドを選択します。 完了したら、「**同期を有効にする**」をクリックします。
+1. リストの同期後、同期するフィールドと、スマートリストで[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガーとして使用するフィールドを選択します。 完了したら、「**同期を有効にする**」をクリックします。
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    >[!NOTE]
    >
-   >エンティティ名は最大** 33文字**まで指定できます。
+   >エンティティ名は、**33文字(**)まで入力できます。
 
 いいぞ！
