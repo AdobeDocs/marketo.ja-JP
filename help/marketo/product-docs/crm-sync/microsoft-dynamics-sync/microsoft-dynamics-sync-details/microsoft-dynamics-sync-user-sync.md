@@ -3,9 +3,9 @@ unique-page-id: 3571840
 description: Microsoft Dynamics Sync — ユーザー同期 — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — ユーザー同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Marketoがデータベース全体をDynamicsと同期することを知って�
 
 ## Marketoと同期するフィールドはどれか。{#which-fields-will-sync-to-marketo}
 
-[設定中に、同期するフィールドを選択](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)できます。 ただし、Dynamics同期ユーザーがアクセス権を持つフィールドのみが同期されます。
+[設定中に、同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)できます。 ただし、Dynamics同期ユーザーがアクセス権を持つフィールドのみが同期されます。
