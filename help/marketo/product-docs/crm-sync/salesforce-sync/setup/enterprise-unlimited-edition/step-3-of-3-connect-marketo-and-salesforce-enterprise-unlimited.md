@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 手順3/3 - MarkettoとSalesforceの接続(Enterprise/Unlimited) - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarkettoとSalesforceの接続(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
-
->
-
+>* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 
 ## 同期ユーザーセキュリティトークンの取得{#retrieve-sync-user-security-token}
@@ -52,12 +49,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >[同期フィールド&#x200B;**をクリックする前に、マーケティングで不要な](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドを同期ユーザーから**&#x200B;隠すようにしてください。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドが、Marketorに永久的に作成され、削除できません。
+   >[同期フィールド&#x200B;**をクリックする前に、マーケティングで不要な](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドを同期ユーザーから**&#x200B;隠すようにしてください。 「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドがMarketorに完全に作成され、削除できなくなります。
 
-1. Salesforce設定([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW)、[Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
+1. Salesforce設定([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズ](https://docs.marketo.com/display/public/DOCS/Edit+Initial+Field+Mappings)したい場合は、これが唯一の方法です！ 「開始」「Salesforce同期」をクリックすると、同期が完了します。
+   >[マッピングを調べてカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)したい場合は、これが唯一の方法です！ 「開始」「Salesforce同期」をクリックすると、同期が完了します。
 
 ## 開始Salesforce同期{#start-salesforce-sync}
 
@@ -109,17 +103,10 @@ Marketorは、管理領域でSalesforce同期のステータスメッセージ�
 
 Marketoの最も強力な機能の1つの設定が完了しました。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [オプションの手順](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [手順1/3:Salesforce追加に対するマーケティング担当者のフィールド(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
