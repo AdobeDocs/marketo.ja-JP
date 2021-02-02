@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: Microsoft Dynamics - Marketto Docs — 製品ドキュメントで連絡先を作成する
 title: Microsoft Dynamicsで連絡先を作成する
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 「**個人アクション**」および「**Microsoft,**」をクリックし、「**個人をMicrosoftに同期**」を選択します。
+1. 「**ユーザーアクション**」および「**Microsoft**」をクリックし、「**ユーザーをMicrosoft**&#x200B;と同期」を選択します。
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、Dynamicsでリアルタイムにリード/連絡先が作成されます。
+   >「個人をMicrosoftに同期」フローアクション(トリガーキャンペーンのみ)を使用する場合、リード/連絡先はDynamicsでリアルタイムに作成されます。
 
 1. Dynamicsのリードレコードを、Dynamicsのどのアカウントにも関連付けられていない連絡先に限定します。
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. 今後は、スマートキャンペーンフィルターで同期制約を使用する際に、「**連絡先**」を選択できます。
 
    ![](assets/five.png)
-
