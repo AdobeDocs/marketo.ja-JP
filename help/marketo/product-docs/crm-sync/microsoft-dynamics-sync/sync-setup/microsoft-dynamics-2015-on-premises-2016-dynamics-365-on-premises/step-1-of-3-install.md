@@ -3,17 +3,15 @@ unique-page-id: 7504736
 description: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムステップ1 / 3 - Marketo Docs — 製品ドキュメントのインストール
 title: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順1/3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 
-# 手順1/3
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# 手順1/3:Marketor用の同期ユーザーの設定（2015オンプレムおよび2016 365オンプレム） {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 Microsoft Dynamics 2015オンプレミスまたは2016 (Dynamics 365)をMarketoと同期する前に、DynamicsでMarketo Solutionをインストールする必要があります。
 
@@ -23,9 +21,9 @@ Microsoft Dynamics 2015オンプレミスまたは2016 (Dynamics 365)をMarketo�
 
 >[!PREREQUISITES]
 >
->Microsoft Dynamics On-Premiseを使用する場合は、[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS)が構成された[インターネット対応展開](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)が必要です。 注意：IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
+>Microsoft Dynamics On-Premiseを使用する場合は、[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS)が構成された[インターネット対応展開](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)が必要です。 注意：IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
 >
->[開始する前に、Marketo Lead Management ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solutionをダウンロードします。
+>[開始する前に、Marketo Lead Management ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solutionをダウンロードします。
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ Microsoft Dynamics 2015オンプレミスまたは2016 (Dynamics 365)をMarketo�
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 「**参照**」をクリックし、[ダウンロードした](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)ソリューションを選択します。 「**次へ**」をクリックします。
+1. 「**参照**」をクリックし、[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)ソリューションを選択します。 「**次へ**」をクリックします。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -95,9 +93,6 @@ Microsoft Dynamics 2015オンプレミスまたは2016 (Dynamics 365)をMarketo�
    >
    >Marketto SDKのメッセージングプロセスを無効にすると、インストールが中断されます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >
-   >[Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順2/3](step-2-of-3-set-up.md)
+   >[Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
