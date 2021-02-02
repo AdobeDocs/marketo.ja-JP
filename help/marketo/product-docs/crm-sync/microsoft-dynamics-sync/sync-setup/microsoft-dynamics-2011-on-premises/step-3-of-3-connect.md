@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: 手順3/3 - Microsoft DynamicsとMarketoの接続（2011オンプレミス） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - Microsoft DynamicsとMarketoの接続（2011オンプレミス）
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Marketo Solution(2011 On-Premises)のインストール](step-1-of-3-install.md)
->* [手順2/3:Dynamics (2011 On-Premises)でMarketo Syncユーザーを設定](step-2-of-3-set-up.md)
+>* [手順1/3:Marketo Solution(2011 On-Premises)のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [手順2/3:Dynamics (2011 On-Premises)でMarketo Syncユーザーを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,17 +53,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd)またはDOMAIN\userです。
+   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
 
    >[!TIP]
    >
-   >URLがわからない？ [Dynamics組織サービスのURL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法をここで示します。
+   >URLがわからない？ [Dynamics組織サービスのURL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法をここで示します。
 
 ## 同期するフィールドを選択{#select-fields-to-sync}
 
 次に、同期するフィールドを選択する必要があります。
 
-1. ****&#x200B;手順2の&#x200B;**編集をクリックします。同期するフィールドを選択します。**
+1. **手順2:同期するフィールドを選択します。******
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
