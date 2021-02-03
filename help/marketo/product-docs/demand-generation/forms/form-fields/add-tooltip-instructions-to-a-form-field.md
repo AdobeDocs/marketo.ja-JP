@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: フ追加ォームフィールドに対するツールチップの説明 — Marketto Docs — 製品ドキュメント
 title: フ追加ォームフィールドに対するツールチップの説明
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # フ追加ォームフィールドに対するツールチップの説明{#add-tooltip-instructions-to-a-form-field}
 
-[](add-hint-text-to-a-form-field.md) ヒントと説明は、ユーザーがフォームを入力する際に役立ちます。ツールチップの説明を追加する方法を次に示します。
+[](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) ヒントと説明は、ユーザーがフォームを入力する際に役立ちます。ツールチップの説明を追加する方法を次に示します。
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >フォームの変更によって作成されたランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
+   >フォームの変更によって作成されたランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 すごい仕事！ 訪問者をフィールドの上に置くと、ツールチップが表示されます。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[forms](http://docs.marketo.com/display/docs/forms)を使ってできるほどたくさんあります。
-
