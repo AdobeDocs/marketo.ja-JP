@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: ソーシャルフォームの記入の無効化 — Marketto Docs — 製品ドキュメント
 title: ソーシャルフォームの入力を無効にする
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ソーシャルプロファイルを使用してサイト訪問者がフォームを送信したくない場合があります。 無効にする方法を次に示します。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。
 
@@ -25,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-10.png)
 
-1. フォームを選択し、「**編集****フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    それだけでいい。
-
