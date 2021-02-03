@@ -3,7 +3,7 @@ unique-page-id: 2953473
 description: SFDC同期 —アクティビティ同期 — Marketto Docs — 製品ドキュメント
 title: SFDC同期 —アクティビティ同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 2つのシステム間でアクティビティの詳細を同期させる方法{#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同期は、SalesforceからMarketoへの1つの方法です。 ただし、[タスクの作成](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティのカスタマイズ](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を使用して、Salesforceでタスクを作成できます。
+同期は、SalesforceからMarketoへの1つの方法です。 ただし、[タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティのカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を使用して、Salesforceでタスクを作成できます。
 
 ## Marketoを使用してタスクを作成できますか。{#can-i-create-a-task-using-marketo}
 
-はい、[タスクフローの作成アクション](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)を使用できます。
+はい、[タスクフローの作成アクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)を使用できます。
 
-## アクティビティに関連するトリガー/フィルターは何ですか。{#what-are-the-triggers-filters-related-to-activity}
+## アクティビティに関連するトリガー/フィルターは何か。{#what-are-the-triggers-filters-related-to-activity}
 
-Triggers
+トリガー
 
 * アクティビティがログに記録される
 * アクティビティが更新されました
@@ -41,5 +41,4 @@ Triggers
 
 >[!TIP]
 >
->「アクティビティでない」という言葉が分からない場合は、 「not」は、無操作状態フィルタを指します。 詳しくは、次を参照してください。[スマートリストで無操作フィルターを使用する](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-
+>「アクティビティでない」という言葉が分からない場合は、 「not」は、無操作状態フィルタを指します。 詳しくは、次を参照してください。[スマートリストで無操作フィルターを使用する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
