@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: フ追加ォームに設定されたフィールド — Marketto Docs — 製品ドキュメント
 title: フ追加ォームへのフィールドセット
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 フィールドセットは涼しい。 複数のフィールドをグループ化します。 ブロック全体も一度にコントロールできる！
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->別のフィールドに応じて、フィールドセット全体の表示/非表示を動的に切り替えることができます。 [表示ルール](dynamically-toggle-visibility-of-a-form-field.md)について説明します。
-
+>別のフィールドに応じて、フィールドセット全体の表示/非表示を動的に切り替えることができます。 [表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)について説明します。
