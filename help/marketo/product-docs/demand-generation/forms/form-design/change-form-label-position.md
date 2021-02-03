@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: フォームラベルの位置の変更 — Marketto Docs — 製品ドキュメント
 title: フォームラベルの位置の変更
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # フォームラベルの位置を変更{#change-form-label-position}
 
-[フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成するとき、フォームフィールドラベルの位置を簡単に変更できます。 これが方法です。
+[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成するとき、フォームフィールドラベルの位置を簡単に変更できます。 これが方法です。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 必要な&#x200B;**ラベル** **位置**&#x200B;を選択します。
+1. 必要な&#x200B;**ラベルの位置**&#x200B;を選択します。
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -50,18 +50,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >フォームの変更によって作成されたランディングページのドラフトを必ず承認してください。
 
 よくやった！ フォーム上のラベルの位置を簡単に変更できた方法を確認する フォームラベルのフォントを変更する際に何ができるか見てみましょう
 
 >[!MORELIKETHIS]
 >
->* [フォームフォントファミリの変更](change-the-form-font-family.md)
-
->
-
-
-
+>[フォームフォントファミリの変更](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
