@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Marketor 追加 - Marketto Docs — 製品ドキュメントへの画像とファイル
 title: マー追加ケティング担当者向けの画像とファイル
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 複数の画像とファイルを一度に追加するのは簡単です。
 
-1. **デザイン** **スタジオ**&#x200B;に移動します。
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio.png)
 
-1. 「**新規**」で、「**アップロード画像** **または** **ファイル**」をクリックします。
+1. 「**新規**」で、「**画像をアップロード**」または「**ファイル**」をクリックします。
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >アップロード前にキューに登録されているファイルを削除するには、ファイル名の横のxをクリックします。
 
    >[!TIP]
    >
    >Marketorは、アップロード前にすべてのファイルをスキャンします。感染したファイルはスキップされます。
 
-   アップロードが完了したら、「完了」をクリックします。
+1. アップロードが完了したら、「**完了**」をクリックします。
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. これで、画像をキャンペーンの電子メールやランディングページで使用できるようになります。
@@ -63,15 +61,6 @@ ht-degree: 0%
 >
 >Marketorは、すべてのファイルタイプをアップロードに使用できますが、メジャー画像タイプ（JPG、PNG、GIFなど）のみ は、電子メールエディターで機能します。
 
-## ビデオを見る{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [フォルダを使用した画像とファイルの整理](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[フォルダを使用した画像とファイルの整理](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
