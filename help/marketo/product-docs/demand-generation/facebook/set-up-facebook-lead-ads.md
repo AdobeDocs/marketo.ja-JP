@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Facebookリード広告の設定 — Marketto Docs — 製品ドキュメント
 title: Facebookリード広告の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >Facebookのリード広告をインスタンスに追加するには、カスタマーサクセスマネージャーにお問い合わせください。
 
@@ -37,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 同じブラウザーで新しいタブを開き、[www.facebook.comに移動します。](http://www.facebook.com.) 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](http://www.facebook.com)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを承認します。
+1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを受け入れます。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >マッピングを変更することで、リード広告のデータがMarketoのどこに保存されるかをカスタマイズできます。 また、[リード広告のカスタム質問](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)からデータを取り込むこともできます。
+   >マッピングを変更することで、リード広告のデータがMarketoのどこに保存されるかをカスタマイズできます。 また、[リード広告のカスタム質問](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)からデータを取り込むこともできます。
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [スマートキャンペーンでのリード広告のフィルターとトリガーの使用](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [カスタムフィールドのマーケティング担当者へのマッピング](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [スマートキャンペーンでのリード広告のフィルターとトリガーの使用](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [カスタムフィールドのマーケティング担当者へのマッピング](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
