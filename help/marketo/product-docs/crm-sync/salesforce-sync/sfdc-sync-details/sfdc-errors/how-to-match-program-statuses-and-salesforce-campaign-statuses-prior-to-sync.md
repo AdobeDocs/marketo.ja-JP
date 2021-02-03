@@ -3,7 +3,7 @@ unique-page-id: 2360370
 description: 同期前のプログラムのステータスとSalesforceキャンペーンのステータスを照合する方法 — Marketto Docs — 製品ドキュメント
 title: 同期前のプログラムのステータスとSalesforceキャンペーンのステータスを照合する方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,5 +27,4 @@ ht-degree: 0%
 1. 取り消し、ステータスエラーを修正し、エラーが修復されたら同期を試みることができます。 ステータスエラーを修正するには、次のいずれかを実行します。
 
    * Salesforceにログインし、互換性のないキャンペーン「メンバーのステータス」を削除または名前変更して、Marketoプログラムに関連付けられているチャネルタイプに使用される「マーケティングプログラムのステータス」に対応付けます。
-   * Marketoのプログラムステータスを変更して、所定のSalesforceキャンペーンメンバーステータスに対応付けます。 これは、マーケティング担当者の機能です。 詳しくは、[プログラムチャネルの作成](../../../../../product-docs/administration/tags/create-a-program-channel.md)を参照してください。
-
+   * Marketoのプログラムステータスを変更して、所定のSalesforceキャンペーンメンバーステータスに対応付けます。 これは、マーケティング担当者の機能です。 詳しくは、[プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)を参照してください。
