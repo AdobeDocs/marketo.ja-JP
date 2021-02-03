@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: フォームフィールドに対する事前入力の無効化 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: フォームフィールドの事前入力を無効にする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Web訪問者が既知の（cookieが送信された）場合、Marketor Formsは
 >
 >**フォームのプリ** 入力はデフォルトで有効になっています。ランディングページレベルの事前入力設定と管理者レベルの事前入力設定は、フォームレベルの設定に従います。
 >
->Form &lt;ランディングページ&lt;管理者
+>フォーム/ランディングページ/管理者
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Web訪問者が既知の（cookieが送信された）場合、Marketor Formsは
    >
    >フォームの事前入力は、独自のページにフォームを埋め込む場合に機能しません。 これは、Marketoランディングページに対してのみ機能します。
 
-1. いずれかのフィールドを選択し、「**フォーム** **Pre**-**fill**」を「**無効**」に設定します。
+1. いずれかのフィールドを選択し、「**フォームの事前入力**」を「**無効**」に設定します。
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ Web訪問者が既知の（cookieが送信された）場合、Marketor Formsは
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 いい仕事！
-
->[!NOTE]
->
->**ディープダイブ**
->
->[フォーム](http://docs.marketo.com/display/docs/forms)の詳細を知りたい場合は、
-
