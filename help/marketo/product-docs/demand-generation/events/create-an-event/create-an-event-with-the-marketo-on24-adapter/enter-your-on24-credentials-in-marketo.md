@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Marketor - Marketto Docs — 製品ドキュメントにON24資格情報を入力します。
 title: MarketorにON24資格情報を入力します
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
    * **表示名**  — マーケティング担当者で使用する名前を入力します。資格情報を共有する場合は、自分の名前、またはグループの名前を指定できます。
    * **サービス**  — ドロップダウンメニュー **から「On24** 」を選択します。
-
    * **クライアントキー**  — サインインに使用するON24クライアントキーを入力します。クライアントキーは、文字と数字を組み合わせた32桁の文字列です。
    * **クライアントID**  — サインインに使用する4桁のON24クライアントIDを入力します。ON24アカウントマネージャーからクライアントIDとクライアントキーを直接取得できます。
 
@@ -67,13 +66,8 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
    ![](assets/nine.png)
 
-次のステップは、ON24[でウェビナーイベントを作成することです。](create-your-webinar-event-in-on24.md)
+次のステップは、ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)でウェビナーイベントを作成することです。[
 
 >[!MORELIKETHIS]
 >
->* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
