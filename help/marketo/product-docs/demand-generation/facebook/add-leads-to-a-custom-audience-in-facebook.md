@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Facebook - Marketto Docs — 製品ドキュメントでカスタムオーディエンスが追加発生する
 title: Facebook追加でカスタムオーディエンスが発生
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Facebookでのカスタムオーディエンスの作成](create-a-custom-audience-in-facebook.md)
+>* [Facebookでのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を受け入れます。
 
 >
@@ -28,11 +28,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 「**リード**」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部の「**Ad Bridge**&#x200B;経由で送信」アイコンをクリックします。
 
    ![](assets/two-1.png)
 
-1. 「**Facebook **」を選択し、「**次へ**」をクリックします。
+1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**オーディエンスへ追加の導き：カスタムサブタイプを持つFacebookオーディエンスのみが使用できます。** \
+   >**オーディエンス追加につながり**:カスタムサブタイプを持つFacebookオーディエンスのみが使用できます。\
    >**オーディエンス**：からリードを削除静的リストまたはスマートオーディエンスのリードをFacebookのから削除します。
 
 1. 完了すると、ステータスが更新されます。
@@ -53,10 +53,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [Facebookでのカスタムオーディエンスの作成](create-a-custom-audience-in-facebook.md)
-
-
+   >[Facebookでのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
