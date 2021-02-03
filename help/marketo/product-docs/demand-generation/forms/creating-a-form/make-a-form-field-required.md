@@ -3,9 +3,9 @@ unique-page-id: 2359569
 description: フォームフィールドを必須にする — Marketto Docs — 製品ドキュメント
 title: フォームフィールドを必須にする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # フォームフィールドを必須にする{#make-a-form-field-required}
 
-[フォーム](add-a-field-to-a-form.md)にフィールドを追加する場合は、入力者に必要なフィールドをいくつか作成する必要があります。 これが方法です。
+[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)にフィールドを追加する場合は、入力者に必要なフィールドをいくつか作成する必要があります。 これが方法です。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/editform-2.png)
 
@@ -37,8 +37,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
->変更を有効にするために、このフォームが有効なランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
+>変更を有効にするために、このフォームが有効なランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
-フォーム](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)に追加したフィールドの順番を[変更する必要がありますか？
+フォーム](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)に追加したフィールドの順番を[変更する必要がありますか？
