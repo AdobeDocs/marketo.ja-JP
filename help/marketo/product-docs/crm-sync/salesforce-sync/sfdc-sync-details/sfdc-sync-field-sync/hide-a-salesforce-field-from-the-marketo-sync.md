@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Marketo Sync - Marketto Docs — 製品ドキュメントにSalesforceフィールドを表示しない
 title: Marketorの同期にSalesforceフィールドを表示しない
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Salesforceのすべてのフィールドがマーケティングに役立つわ�
 
    それだ！ 次の同期が終了すると、Marketoでこのフィールドは表示されなくなります。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [フィールドの非表示と再表示](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[フィールドの非表示と再表示](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
