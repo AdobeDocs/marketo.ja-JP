@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: SFDC同期 — アカウントの同期 — Marketto Docs — 製品ドキュメント
 title: SFDC同期 — アカウントの同期
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Marketorの担当者の「アカウント」フィールドを更新すると、
 
 ## Marketoからアカウントを作成できますか。{#can-i-create-accounts-from-marketo}
 
-ほとんどは違う。 ただし、個人に対して[個人](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)のコンバートのフロー手順を使用すると、新しい連絡先、新しいアカウント、新しいオポチュニティが作成されます。
+ほとんどは違う。 ただし、個人に対して[個人](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)のコンバートのフロー手順を使用すると、新しい連絡先、新しいアカウント、新しいオポチュニティが作成されます。
 
 >[!CAUTION]
 >
