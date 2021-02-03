@@ -3,7 +3,7 @@ unique-page-id: 10096712
 description: ON24 - Marketto Docs — 製品ドキュメントでウェビナーイベントを作成する
 title: ON24でのウェビナーイベントの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -22,18 +22,13 @@ ON24ウェビナーの作成時に、MarketorおよびON24でのみ使用され�
 * イベントのタイトル — ウェビナーの名前。 これは、Marketoで表示できます。
 * イベントの抜粋（オプション） — ウェビナーの説明。 これは、Marketoで表示できます。
 
-**日時**
+**日付と時刻**
 
 * ライブイベント開始-開始の日時。 これは、Marketoで表示できます。
 * Live End Time — 終了日時。 これは、Marketoで表示できます。
 
-次のステップは、[Marketo](create-an-event-in-marketo.md)にイベントを作成することです。
+次のステップは、[Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)にイベントを作成することです。
 
 >[!MORELIKETHIS]
 >
->* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
