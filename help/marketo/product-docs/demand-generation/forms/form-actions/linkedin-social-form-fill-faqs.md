@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: LinkedIn Socialフォーム入力FAQ - Marketto Docs — 製品ドキュメント
 title: LinkedIn Social Form Fill FAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ LinkedInの改訂されたAPIポリシーでは、製品からLinkedInのソー�
 
 ## {#important-things-to-know}を知るべき重要なこと
 
-* 2016年4月29日をもって、LinkedInの「Socialフォームの入力」ボタンがマーケティング担当者に追加されるオプションはなくなりました
+* 2016年4月29日に、LinkedInの「Socialフォームの入力」ボタンがMarketorに追加されなくなりました。
 
 * LinkedInの「Socialフォームの入力」ボタンが有効になっていたすべてのフォームから削除されました
 
