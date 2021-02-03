@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: アップロードした画像またはファイルのURL - Marketto Docs — 製品ドキュメント
 title: アップロードされた画像またはファイルのURLの検索
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/designstudio-4.png)
 
-1. 左のメニューで「**画像** **および** **ファイル**」をクリックし、URLを指定するファイルを選択します。
+1. 左のメニューで「**画像とファイル**」をクリックし、URLを指定するファイルを選択します。
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [アップロードした画像またはファイルの置換](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[アップロードした画像またはファイルの置換](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
