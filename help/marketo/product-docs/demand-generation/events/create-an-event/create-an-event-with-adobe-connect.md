@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Adobe Connectとのイベントの作成 — Marketto Docs — 製品ドキュメント
 title: Adobe Connectとのイベントの作成
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Adobe Connectとの同期により、Marketor内でウェビナーの登録と�
 
    >[!MORELIKETHIS]
    >
-   > * [LaunchPointサ追加ービスとしてのAdobe Connect](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [イベントチャネルの編集](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [LaunchPointサ追加ービスとしてのAdobe Connect](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [イベントチャネルの編集](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 ウェビナーにサインアップした人は、「新しいステータス」が「登録済み」に設定されている場合に、プログラムステータスの変更フローステップを通じてウェビナーのプロバイダーにプッシュされます。 その他の状態では、その人を押しのけることはありません。 また、プログラムステータスの変更のフロー手順#1と、電子メールの送信のフロー手順#2を必ず行ってください。
