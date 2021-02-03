@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: フォーム内のラベル/フィールドの幅のサイズ変更 — Marketto Docs — 製品ドキュメント
 title: フォーム内のラベル/フィールドの幅のサイズ変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 幅をドラッグ&amp;ドロップ{#drag-and-drop-the-width}
 
-1. [フォームエディター](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)で、サイズを変更するフィールドを選択します。
+1. [フォームエディター](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)で、サイズを変更するフィールドを選択します。
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
