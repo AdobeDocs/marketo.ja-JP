@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: SFDC同期 — リード同期 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SFDC同期 — リード同期
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ SalesforceデータベースからMarketoの同期を知っていましたか。
 
 ## Marketoを使用してSalesforceでリードを作成できますか。{#can-i-create-a-lead-in-salesforce-using-marketo}
 
-はい、[人物をSFDCに同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用します。 これにより、リードが存在しない場合は、Salesforceにリードが作成されます。
+はい、[人物をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用します。 これにより、リードが存在しない場合は、Salesforceにリードが作成されます。
 
 ## Marketonの担当者を手動でSalesforceのリードに同期させることはできますか。{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-はい、[人をSFDCに同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用すると、リアルタイムで同期されます。
+はい、[人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用すると、リアルタイムで同期されます。
 
 ## すべての標準フィールドはMarketoと同期しますか。{#does-every-single-standard-field-sync-to-marketo}
 
