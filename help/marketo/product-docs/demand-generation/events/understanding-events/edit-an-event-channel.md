@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: イベントチャネルの編集 — Marketto Docs — 製品ドキュメント
 title: イベントチャネルの編集
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->プログラムは、特定のマーケティングイニシアチブです。 **チャネル**&#x200B;は、ウェビナー、トレードショー、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに様々なオプションが表示される場合があります。 独自のチャネルを[作成することもできます。](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>プログラムは、特定のマーケティングイニシアチブです。 **チャネル**&#x200B;は、ウェビナー、トレードショー、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに様々なオプションが表示される場合があります。 また、[独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)を作成することもできます。
 
 ## 「Summary」タブから{#from-the-summary-tab}
 
