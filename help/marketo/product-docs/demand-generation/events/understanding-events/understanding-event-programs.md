@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: イベントプログラムについて — Marketto Docs — 製品ドキュメント
 title: イベントプログラムについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # イベントプログラムについて{#understanding-event-programs}
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -32,26 +30,13 @@ ht-degree: 0%
 >* トレードショー
 >* メテュプス
 
->
 
-
-
-イベントは、[ウェビナープロバイダー](launchpoint-event-partners.md)に自動的に接続でき、[iPadチェックインアプリ](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)と同期できます。
-
-## ビデオを見る{#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+イベントは、[ウェビナープロバイダー](launchpoint-event-partners.md)に自動的に接続でき、[iPadチェックインアプリ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)と同期できます。
 
 >[!MORELIKETHIS]
 >
->今すぐ始めるには、次の便利なリンクを参照してください。
->
->* [新しいイベントプログラムの作成](create-a-new-event-program.md)
+>* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [LaunchPointイベントパートナー](launchpoint-event-partners.md)
-
->
-
-
+* [LaunchPointイベントパートナー](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
