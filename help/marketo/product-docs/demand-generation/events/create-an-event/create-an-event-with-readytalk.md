@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: ReadyTalk - Marketto Docs — 製品ドキュメントを使用してイベントを作成する
 title: ReadyTalkを使用したイベントの作成
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [LaunchPointサー追加ビスとしてのReadyTalk](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な[フローアクション](http://docs.marketo.com/display/DOCS/Flow+Actions)を設定して、エンゲージメントを追跡します。
+>* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
-最初に、ReadyTalkコンファレンスセンターでイベントをセットアップします。 ヘルプが必要な場合は、[ReadyTalkリソースセンターをご覧ください。](https://www.readytalk.com/resources/readytalk)  登録の種類を選択する場合は、会議の前に **事前登録を選択します**。*の会議時に*&#x200B;登録を選択した場合、マーケット氏は&#x200B;****&#x200B;自分の従業員の登録済みステータスを&#x200B;*締めくくりません。また、ウェビナーが終了した後は*&#x200B;出席済みの人のステータスのみを引き寄せます。
+最初に、ReadyTalkコンファレンスセンターでイベントをセットアップします。 ヘルプが必要な場合は、[ReadyTalkリソースセンター](https://www.readytalk.com/resources/readytalk)をご覧ください。 登録の種類を選択する場合は、会議&#x200B;**の前に**&#x200B;事前登録を選択します。 _の会議時に_&#x200B;登録を選択した場合、マーケット氏は&#x200B;****&#x200B;自分の従業員の登録済みステータスを&#x200B;_締めくくりません。また、ウェビナーが終了した後は_&#x200B;出席済みの人のステータスのみを引き寄せます。
 
 **電子メール**&#x200B;を使用して新規登録を通知しないでください。
 
@@ -78,7 +78,7 @@ ReadyTalkを使用して確認メールを送信する場合は、説明も追�
 
 ## スケジュールの表示{#viewing-the-schedule}
 
-[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
+プログラムスケジュール表示で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
 
 ![](assets/image2015-5-18-12-9-58.png)
 
