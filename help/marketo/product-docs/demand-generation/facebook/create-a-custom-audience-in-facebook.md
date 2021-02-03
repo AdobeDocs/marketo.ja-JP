@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Facebook - Marketto Docs -オーディエンスドキュメントでのカスタム製品の作成
 title: Facebookでのカスタムオーディエンスの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [「追加管理者」セクションの「LaunchPointサー](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビス」としてのFacebookカスタムオーディエンス。
+>* [「追加管理者」セクションの「LaunchPointサー](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビス」としてのFacebookカスタムオーディエンス。
 >* [Facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を承認します。
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. 「**リード**」タブを選択し、下部の「**Send Via Ad Bridge **」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部の「**Ad Bridge**&#x200B;経由で送信」アイコンをクリックします。
 
    ![](assets/222.png)
 
-1. 「**Facebook **」を選択し、「**次へ**」をクリックします。
+1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [Facebook追加でカスタムオーディエンスが発生](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[Facebook追加でカスタムオーディエンスが発生](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
