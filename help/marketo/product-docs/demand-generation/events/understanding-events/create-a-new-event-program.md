@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 新しいイベントプログラムの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいイベントプログラムの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,21 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. **チャネルを選択します。 **
+1. **チャネル**&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >チャネルは、プログラム内で個人が持つことのできる様々なステータスを定義します。 [プログラムメンバーシップ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)の詳細については、こちらを参照してください。
+   >チャネルは、プログラム内で個人が持つことのできる様々なステータスを定義します。 [プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)の詳細については、こちらを参照してください。
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
 1. 「**作成**」をクリックします。
 
-   ![](assets/image2015-2-26-14-3a33-3a17.png) ![](assets/image2015-2-26-14-3a34-3a33.png)
+   ![](assets/image2015-2-26-14-3a33-3a17.png)
+
+   おい！ 新しいイベントがツリーに表示されます。
+
+   ![](assets/image2015-2-26-14-3a34-3a33.png)
 
 1. イベントのスケジュールを設定するには、「**スケジュール表示**」を選択し、カレンダー内でクリックしてポップアップを開きます。 日付と時間を入力します。
 
@@ -47,14 +51,10 @@ ht-degree: 0%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-おい！ 新しいイベントがツリーに表示されます。 イベントを作成したら、[ランディングページ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、[電子メール](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成して、ゲストを招待します。 また、[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)についても詳しく知りたいでしょう。
+イベントを作成したら、[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、[電子メール](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成して、ゲストを招待します。 また、[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)についても詳しく知りたいでしょう。
 
 >[!MORELIKETHIS]
 >
->* [マーケティングカレンダー](http://docs.marketo.com/display/docs/marketing+calendar)
->* [プログラムでの期間原価の使用](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-
->
-
-
+>* [マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
+>* [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
 
