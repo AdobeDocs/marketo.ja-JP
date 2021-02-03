@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 非表示フォームフィールド値の設定 — Marketto Docs — 製品ドキュメント
 title: 非表示フォームフィールド値の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[フォームフィールドを非表示に設定](set-a-form-field-as-hidden.md)
+>[フォームフィールドを非表示に設定](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## フィールドを選択{#select-the-field}
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## URLパラメータ{#url-parameter}
 
-ユーザーがフォームの入力時に閲覧しているページからURLパラメーター(クエリ文字列)を取り込む場合は、**URL** **Parameters**&#x200B;を使用して、非表示フィールドに値を埋め込むことができます。
+ユーザーがフォームの入力時に閲覧しているページからURLパラメーター(クエリ文字列)を取り込む場合は、**URLパラメーター**&#x200B;を使用して、非表示フィールドに値を埋め込むことができます。
 
 >[!NOTE]
 >
->パラメーターはテクニーなんでしょ？ 一度手に入れれば、それらは強力です。 [クエリ文字列](http://en.wikipedia.org/wiki/Query_string)のWikipediaページはいくぶん役に立ちます。
+>パラメーターはテクニーなんでしょ？ 一度手に入れれば、それらは強力です。 [クエリ文字列](https://en.wikipedia.org/wiki/Query_string)のWikipediaページはいくぶん役に立ちます。
 
 1. 「**値の型を取得**」に「**URLパラメーター**」を選択します。
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 ## Cookie値{#cookie-value}
 
-Cookieにデータを格納している場合は、**Cookie** **値**&#x200B;を使用して、フォームの送信時にデータを取得できます。
+Cookieにデータを格納している場合は、**Cookie値**&#x200B;を使用して、フォームの送信時にデータを取得できます。
 
-1. **Get** **Value** **From**&#x200B;に対して「Cookie ****&#x200B;値&#x200B;**」を選択します。**
+1. 「**Get Value From**」に「**Cookie値**」を選択します。
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Cookieにデータを格納している場合は、**Cookie** **値**&#x200B;を
 
 ## 転送者パラメータ{#referrer-parameter}
 
-訪問者がフォームに入力する前に、転送者の送信元のページからデータを取り込む場合は、**パラメータ** **パラメータ**&#x200B;を使用できます。
+訪問者がフォームに入力する前に、転送者の送信元のページからデータを取得する場合は、**パラメータ**&#x200B;を使用できます。
 
-1. **Get** **Value** **From**&#x200B;を&#x200B;**転送者** **Parameter**&#x200B;に設定します。
+1. **Get Value From**&#x200B;を&#x200B;**転送者パラメーター**&#x200B;に設定します。
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Cookieにデータを格納している場合は、**Cookie** **値**&#x200B;を
 
    >[!TIP]
    >
-   >転送者パラメーターが見つからない場合は、**デフォルト** **値**&#x200B;を入力できます。
+   >転送者パラメーターが見つからない場合は、**デフォルト値**&#x200B;を入力できます。
 
 1. 「**完了**」をクリックします。
 
@@ -90,5 +90,3 @@ Cookieにデータを格納している場合は、**Cookie** **値**&#x200B;を
 1. 「**承認して**&#x200B;を閉じる」をクリックします。
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-甘い！ お元気ですね。 [forms](http://docs.marketo.com/display/docs/forms)については、もっと学ぶべきことがあります。
