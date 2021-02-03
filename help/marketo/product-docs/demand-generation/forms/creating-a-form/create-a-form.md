@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: フォームの作成 — Marketto Docs — 製品ドキュメント
 title: フォームの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketorが[フォームを安全に保つ](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)方法を説明します。
+>Marketorが[フォームを安全に保つ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)方法を説明します。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [フォームテーマの選択](select-a-form-theme.md)
->* [フ追加ォームへのフィールドセット](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [フォームテーマの選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [フ追加ォームへのフィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
