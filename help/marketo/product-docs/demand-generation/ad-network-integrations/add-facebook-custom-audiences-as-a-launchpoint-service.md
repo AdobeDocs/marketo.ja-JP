@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: LaunchPointサービスとしての追加Facebookカスタムオーディエンス- Marketto Docs — 製品ドキュメント
 title: LaunchPointサービスとしての追加Facebookカスタムオーディエンス
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 同じブラウザーで新しいタブを開き、[www.facebook.comに移動します。](http://www.facebook.com./) 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](http://www.facebook.com/)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >カスタムオーディエンスの統合を機能させるには、*Facebook Business Managerアカウントを*&#x200B;使用する必要があります。 Business Managerアカウントの設定方法については、[Facebookのヘルプ](https://www.facebook.com/business/help/1710077379203657)を参照してください。
+   >カスタムオーディエンスの統合を機能させるには、_Facebook Business Managerアカウントを_&#x200B;使用する必要があります。 Business Managerアカウントの設定方法については、[Facebookのヘルプ](https://www.facebook.com/business/help/1710077379203657)を参照してください。
 
-1. 指示に従って「**OK **」をクリックし、FacebookへのMarketoアプリケーションのインストールを受け入れます。
+1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを受け入れます。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**「基本一致」では、電子メールアドレスのみが**&#x200B;使用されます。**高度な** 一致では、コンバージョンを高めるために7つの追加のフィールドを使用します。一致率が増加します。ただし、会社のプライバシーポリシーで追加のフィールドの共有が許可されていない場合や、フィールドが含まれていない場合は、「基本一致」を選択します。
+   >**「基本** 一致」では、電子メールアドレスのみを使用します。**高度な** 一致では、コンバージョンを高めるために7つの追加のフィールドを使用します。一致率が増加します。ただし、会社のプライバシーポリシーで追加のフィールドの共有が許可されていない場合や、フィールドが含まれていない場合は、「基本一致」を選択します。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Facebookでのカスタムオーディエンスの作成](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Facebookでのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Facebookリード広告の設定](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Facebookリード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
