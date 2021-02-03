@@ -3,9 +3,9 @@ unique-page-id: 37355758
 description: イベントプログラムへのメンバーの追加 — Marketto Docs — 製品ドキュメント
 title: イベントプログラムへのメンバーの追加
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,21 @@ ht-degree: 0%
 >
 >人のリストをイベントプログラムに直接インポートすると、目標追跡レポートおよびイベント上限の進行状況レポートで、これらのレコードが実際の登録数にカウントされなくなります。 次の手順に従って、レコードが確実にカウントされるようにします。
 
-1. ユーザーを作成して[静的なリスト](http://docs.marketo.com/x/ecKt)に追加します。
-1. [スマートキャンペーンの作成](http://docs.marketo.com/x/M4AR)。
+1. ユーザーを作成して[静的なリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)に追加します。
+
+1. [スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
+
 1. 手順2で作成したスマートキャンペーンのスマートリストで、**リストのメンバー**&#x200B;フィルターを探して追加します。
 
    ![](assets/three.png)
 
 1. 手順1で作成したリストを探して選択します。
-1. ![](assets/four.png)
+
+   ![](assets/four.png)
 
 1. フローで、**プログラムステータスの変更**&#x200B;フローステップを探して追加します。
-1. ![](assets/five.png)
+
+   ![](assets/five.png)
 
 1. イベントプログラムを探して選択します。
 
@@ -40,10 +44,11 @@ ht-degree: 0%
    ![](assets/seven.png)
 
 1. 「スケジュール」タブで、「**1回実行**」をクリックします。
-1. ![](assets/eight.png)
+
+   ![](assets/eight.png)
 
 1. 「**今すぐ実行**」を選択し、「**実行**」をクリックします。
-1. ![](assets/nine.png)
+
+   ![](assets/nine.png)
 
 1. スマート・キャンペーンの実行後、メンバーはプログラムに追加され、目標追跡とイベント上限の進行状況の計算でカウントされます。
-
