@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Marketor - Marketto Docs -イベントドキュメントでの製品の作成
 title: Marketorでのイベントの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,10 @@ ht-degree: 0%
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Marketoイベントを作成する場合、チャネルタイプとして「**ウェビナー**」を選択します。 このチャネルは、管理者で編集したり、新しいチャネルを作成したりできます。 新しいチャネルを作成する場合、統合が機能するためには、タイプ&#x200B;**とウェビナー**&#x200B;のイベントが必要です。 詳しくは、[プログラムチャネルの作成](../../../../../product-docs/administration/tags/create-a-program-channel.md)を参照してください。
+Marketoイベントを作成する場合、チャネルタイプとして「**ウェビナー**」を選択します。 このチャネルは、管理者で編集したり、新しいチャネルを作成したりできます。 新しいチャネルを作成する場合、統合が機能するためには、タイプ&#x200B;**とウェビナー**&#x200B;のイベントが必要です。 詳しくは、[プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)を参照してください。
 
-次の手順は、[イベント設定を行い、マーケティングツールをウェビナー](https://docs.marketo.com/x/IRCa)と同期させることです。
+次の手順は、[イベント設定を行い、マーケティングツールをウェビナー](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)と同期させることです。
 
 >[!MORELIKETHIS]
 >
->* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
