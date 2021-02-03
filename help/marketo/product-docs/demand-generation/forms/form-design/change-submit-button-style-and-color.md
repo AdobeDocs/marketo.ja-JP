@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: 送信ボタンのスタイルと色の変更 — Marketto Docs — 製品ドキュメント
 title: 送信ボタンのスタイルと色の変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 標準の送信ボタンが退屈な場合や、より気まぐれなものが必要な場合は、使いやすい様々なボタンスタイルから自由に選択できます。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >多くのグラフィカル要素と同様に、ボタンの外観は、使用しているブラウザーによって異なる場合があります。
-
