@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: 追加Google Customer Match as a LaunchPoint Service - Marketto Docs - Product Documentation
 title: LaunchPointサー追加ビスとしてのGoogle顧客の一致
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **表示名&#x200B;**を入力し、**&#x200B;サービス&#x200B;**ドロップダウンから「** Google顧客一致**」を選択します。 「**作成**」をクリックします。
+1. **表示名**&#x200B;を入力し、**サービス**&#x200B;ドロップダウンから&#x200B;**Google Customer Match**&#x200B;を選択します。 「**作成**」をクリックします。
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketorが複数のAdWordsアカウントでオーディエンスを送信するには、次の手順で承認するGoogleユーザーは、これらのアカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
+   >Marketorが複数のAdWordsアカウントでオーディエンスを送信するには、次の手順で承認するGoogleユーザーは、これらのアカウントの&#x200B;_すべて_&#x200B;にアクセスできる必要があります。
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/authorizesuccess.png)
 
    すごい！ 「インストール済みのサービス」タブで、Google MatchedオーディエンスがLaunchPointサービスとしてリストされます。
-
