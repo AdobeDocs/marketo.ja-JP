@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Facebookオフラインコンバージョンの設定 — Marketto Docs — 製品ドキュメント
 title: Facebookオフラインコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Facebookリード広告](set-up-facebook-lead-ads.md)を設定する必要があります。
->* [売上高サイクルモデル](http://docs.marketo.com/display/docs/revenue+cycle+models)に承認済みのモデルが必要です。
-
->
-
+>* [Facebookリード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)を設定する必要があります。
+>* [売上高サイクルモデル](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)に承認済みのモデルが必要です。
 
 
 ## 管理構成{#admin-configuration}
@@ -34,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >まだ実行していない場合は、[Facebookリード広告の設定](set-up-facebook-lead-ads.md)を行ってから、ここに戻ってください。
+   >まだ実行していない場合は、[Facebookリード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)を行ってから、ここに戻ってください。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ ht-degree: 0%
    >
    >現在、売上高サイクルステージを次のようにマップできるFacebookイベントは10人です。
    >
-   >    
-   >    
-   >    * 支払情報の追加
-   >    * 買い物かごに追加
-   >    * ウィッシュリストに追加
-   >    * 登録完了
-   >    * チェックアウト開始
-   >    * 人
-   >    * その他
-   >    * 購入
-   >    * 検索
-   >    * コンテンツ表示
+   >* 支払情報の追加
+   >* 買い物かごに追加
+   >* ウィッシュリストに追加
+   >* 登録完了
+   >* チェックアウト開始
+   >* 人
+   >* その他
+   >* 購入
+   >* 検索
+   >* コンテンツ表示
 
 
 1. マッピングするステージを選択し、**Facebookコンバージョン**&#x200B;ドロップダウンから、マッピング先のFacebookイベントを選択します。 この手順を繰り返して、RCMのすべてのステージをFacebookのオフラインコンバージョンステージにマッピングします。
@@ -108,13 +103,6 @@ ht-degree: 0%
    >
    >オフラインコンバージョンデータは、MarketoからFacebookに1日に数回送信されます。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [Facebookオフラインコンバージョンについて](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Facebookオフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
