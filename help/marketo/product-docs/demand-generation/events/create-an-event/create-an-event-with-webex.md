@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: WebEx - Marketto Docs — 製品ドキュメントを使用したイベントの作成
 title: WebExでのイベントの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [LaunchPoint追加サービスとしてのWebEx](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な[フローアクション](http://docs.marketo.com/display/DOCS/Flow+Actions)を設定して、エンゲージメントを追跡します。
+>* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
-最初に、WebExイベントセンターでWebexイベントを作成します。 Marketorは、統合に対して特定の設定とフィールドのみを使用します。この設定とフィールドについては、後ほど説明します。 WebEx用に設定する他のフィールドについては、『[WebExイベントセンターユーザガイド](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)』で説明しています。
+最初に、WebExイベントセンターでWebexイベントを作成します。 Marketorは、統合に対して特定の設定とフィールドのみを使用します。この設定とフィールドについては、後ほど説明します。 WebEx用に設定する他のフィールドについては、『[WebExイベントセンターユーザガイド](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)』で説明しています。
 
 ## 基本情報{#basic-information}
 
@@ -140,7 +140,7 @@ Marketing Toを使用して、登録者への電子メール、確認メール�
 
 ## スケジュールの表示{#viewing-the-schedule}
 
-[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
+プログラムスケジュール表示で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
