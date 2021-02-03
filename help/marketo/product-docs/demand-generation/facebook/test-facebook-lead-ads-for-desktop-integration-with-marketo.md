@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Facebookのリード広告をテストして、Marketor - Marketto Docs — 製品ドキュメントとのデスクトップ統合を実現
 title: Facebookのリード広告をテストして、マーケティング担当者とデスクトップ統合できます。
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Facebookリード広告統合](set-up-facebook-lead-ads.md)を設定する必要があります。
+>[Facebookリード広告統合](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)を設定する必要があります。
 
 1. Facebookパワーエディターで、キャンペーン、広告を選択し、「**編集**」をクリックします。
+
 1. 「**リンク**」の下の「ニュースフィード&#x200B;**」リンクの**&#x200B;表示をクリックします。
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -40,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. ここが魔法が起こる場所だ！ フォームを送信したら、プログラムの一部として、または入力済みのFacebookリード広告フォームフィルターを使用するデータベース内に、Marketor[にスマートリストを作成します。 ](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)先ほど提出したフォームのリード広告フォーム名を挿入します。
+1. ここが魔法が起こる場所だ！ フォームを送信したら、プログラムの一部として、または入力済みのFacebookリード広告フォームフィルターを使用するデータベース内に、Marketor](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)にスマートリストを作成します。 [先ほど提出したフォームのリード広告フォーム名を挿入します。
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -50,13 +51,6 @@ ht-degree: 0%
 
    それは涼しいですか？
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [Facebookリード広告の設定](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Facebookリード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
