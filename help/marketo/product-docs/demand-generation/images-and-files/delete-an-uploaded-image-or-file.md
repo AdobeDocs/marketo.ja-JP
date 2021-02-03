@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: アップロードした画像またはファイルの削除 — Marketto Docs — 製品ドキュメント
 title: アップロードした画像またはファイルの削除
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. 左のメニューで「**画像**」と「**ファイル**」を選択し、削除するファイル名の横にあるをクリックします。
+1. 左のメニューで「**画像とファイル**」を選択し、削除するファイル名の横にあるをクリックします。
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. **ファイル** **アクション**&#x200B;と&#x200B;**削除**&#x200B;をクリックします。
+1. 「**ファイルアクション**」ドロップダウンをクリックし、「**削除**」を選択します。
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. 正しいファイルを選択したことを確認し、**DELETE**&#x200B;をクリックします。
+1. 正しいファイルを選択したことを確認し、「**削除**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -41,11 +41,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [アップロードした画像またはファイルの置換](replace-an-uploaded-image-or-file.md)
->* [アップロードされた画像とファイルの検索](search-uploaded-images-and-files.md)
->* [アップロードされた画像またはファイルのURLの検索](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [アップロードした画像またはファイルの置換](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [アップロードされた画像またはファイルのURLの検索](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
