@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: 個人アカウントの使用 — Marketto Docs — 製品ドキュメント
 title: 個人アカウントの使用
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketto Sales Insightの**追加To Markettorキャンペーン**および**Send Email **optionsは、現在、個人アカウントでは使用できません。
+>Marketo Sales Insightの&#x200B;**Marketoキャンペーン**&#x200B;追加に対するオプションと&#x200B;**電子メールの送信**&#x200B;オプションは、現在、個人アカウントでは使用できません。
 
 ## 個人アカウントにオポチュニティを関連付ける方法{#how-do-i-associate-opportunities-to-a-person-account}
 
