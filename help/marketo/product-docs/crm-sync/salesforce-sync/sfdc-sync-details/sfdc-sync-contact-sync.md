@@ -3,7 +3,7 @@ unique-page-id: 2953457
 description: SFDC同期 — 連絡先の同期 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SFDC同期 — 連絡先の同期
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketoがデータベース全体をSalesforceと同期することをご存じ
 
 ## 人をMarketoの連絡先に変換できますか。{#can-i-convert-a-person-into-a-contact-in-marketo}
 
-はい、「** [人](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)*の変換」フローアクションを使用します。
+はい、**[人](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&#x200B;をコンバートフローアクションを使用します。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Marketoがデータベース全体をSalesforceと同期することをご存じ
 
 ## 手動で連絡先の同期を強制できますか？{#can-i-manually-force-a-sync-of-a-contact}
 
-はい。** [個人をSFDCに同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flowアクションを使用すると、リアルタイムで同期されます。
+はい、**[人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローアクションを使用すると、リアルタイムで同期されます。
 
 ## すべての標準フィールドはMarketoと同期しますか。{#does-every-single-standard-field-sync-to-marketo}
 
