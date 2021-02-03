@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: Webサイトにフォームを埋め込む — Marketto Docs — 製品ドキュメント
 title: Webサイトにフォームを埋め込む
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing Targetでは、フォームを独自のWebサイトに埋め込むことができます。 埋め込みコードにアクセスする方法を次に示します。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ Marketing Targetでは、フォームを独自のWebサイトに埋め込むこ�
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 「**フォーム** **アクション**」で、「**埋め込み** **コード**」をクリックします。
+1. 「**フォームアクション**」で、「**埋め込みコード**」をクリックします。
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >フォームは、**埋め込み** **コード**&#x200B;の項目を表示/使用できるように、承認する必要があります。
+   >**埋め込みコード**&#x200B;アイテムを表示/使用するには、フォームを承認する必要があります。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Form Prefill](../../../../product-docs/administration/settings/edit-landing-page-settings.md)***は、独自のページ&#x200B;*または* Markettoランディングページでフォーム埋め込みコードを使用する場合には機能しません。 フォームの事前入力は、フォームが「要素の挿入」オプションを介してMarketorランディングページで使用されている場合にのみ機能します。
+   >**[フォーム](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** の埋め込みコードを自分のページまたはMarketorランディングページで使用する場合、Form  __ Prefillが機能しません。フォームの事前入力は、フォームが「要素の挿入」オプションを介してMarketorランディングページで使用されている場合にのみ機能します。
 
 1. 埋め込みコードを選択/コピーし、「**閉じる**」をクリックします。
 
@@ -50,6 +47,6 @@ Marketing Targetでは、フォームを独自のWebサイトに埋め込むこ�
 
 >[!NOTE]
 >
->開発者がルックをカスタマイズしたり、高度なAPI機能にアクセスしたい場合は、[Forms2.0開発者ページ](http://developers.marketo.com/documentation/websites/forms-2-0/)を表示します。
+>開発者がルックをカスタマイズしたり、高度なAPI機能にアクセスしたい場合は、[Forms2.0開発者ページ](https://developers.marketo.com/documentation/websites/forms-2-0/)を表示します。
 
-素晴らしい仕事！ [埋め込みコードにライトボックスコード](use-a-form-in-a-lightbox.md)を含めますか？ それも簡単だ！
+素晴らしい仕事！ [埋め込みコードにライトボックスコード](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)を含めますか？ それも簡単だ！
