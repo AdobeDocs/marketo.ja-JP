@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: ランディングページをFacebookに投稿 — Marketto Docs — 製品ドキュメント
 title: ランディングページをFacebookに投稿
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ランディングページをFacebookに投稿して、既に電話が切れている場所にオーディエンスに会い、プログラムへのトラフィックを増やすことができます。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >SMB Spark、Standard、Select。 個別にライセンスされた機能を持つEnterprise。
 
@@ -65,8 +63,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >ランディングページをFacebookから削除するには、Marketorで承認を取り消し、プロンプトが表示されたら、「Facebook」タブを削除するオプションを選択します。
-
