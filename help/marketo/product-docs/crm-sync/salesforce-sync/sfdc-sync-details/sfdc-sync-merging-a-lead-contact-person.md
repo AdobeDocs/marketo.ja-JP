@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: SFDC同期 — リード/連絡先/担当者の結合 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: SFDC同期 — リード/連絡先/担当者の結合
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**例**
->
 >3つのリード（人）をそれぞれ10のスコアで結合すると、1つのリード（人）とスコア30の結果になります。
 
 * 競合するフィールド値が「勝者レコード」から取得されます。 （レコード=結果のリードまたは連絡先）
@@ -32,7 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->[マーケットの人々を結合する](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)について詳しくは、ディープダイブを参照してください。
-
+>[マーケットの人々を結合する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)について詳しくは、ディープダイブを参照してください。
