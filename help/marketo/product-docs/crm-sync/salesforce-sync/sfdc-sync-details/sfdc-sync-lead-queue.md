@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC同期 — リードキュー — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: SFDC同期 — リードキュー
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketorでは、顧客を[Salesforceのリードキュー](https://help.salesfo
 
 次のいずれかのフロー処理を使用して、Salesforceのリードキューに個人を割り当てることができます。
 
-* [担当者をSFDCに同期](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [所有者の変更](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [担当者をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [所有者の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Marketorでは、顧客を[Salesforceのリードキュー](https://help.salesfo
 * 販売所有者の役職
 * 販売所有者の電話番号
 * 販売所有者の電子メールアドレス
-
