@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: レベル3のWeb会議 — Marketto Docs — 製品ドキュメントを含むイベントを作成します
 title: レベル3 Web会議でイベントを作成する
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [LaunchPointサービスとしての追加レベル3 Web会議](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な[フローアクション](https://docs.marketo.com/x/k8Kt)を設定して、エンゲージメントを追跡します。
-
->
+>* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
-
-まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、[Level 3 Resource Library](http://www.level3.com/en/resource-library/)をご覧ください。 BrightTalkと非常に似ています。  Marketorは、Level 3フィールドの小さなサブセットを使用します。
+まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、[Level 3 Resource Library](https://www.level3.com/en/resource-library/)をご覧ください。 BrightTalkと非常に似ています。  Marketorは、Level 3フィールドの小さなサブセットを使用します。
 
 * **名前** - Webキャストの名前。
 * **開始日** - Webキャストの開始日。
@@ -55,6 +52,6 @@ ht-degree: 0%
 
 ## スケジュールの表示{#viewing-the-schedule}
 
-[プログラムスケジュール表示](http://docs.marketo.com/display/docs/program+schedule+view)で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
+プログラムスケジュール表示で、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
