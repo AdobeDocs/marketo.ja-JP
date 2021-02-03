@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: LinkedIn追加がLaunchPointサービスとして一致したオーディエンス- Marketto Docs — 製品ドキュメント
 title: LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -61,9 +61,4 @@ Marketoの静的なリストまたはスマートリストをLinkedInのオー�
 
 >[!MORELIKETHIS]
 >
->* [LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
