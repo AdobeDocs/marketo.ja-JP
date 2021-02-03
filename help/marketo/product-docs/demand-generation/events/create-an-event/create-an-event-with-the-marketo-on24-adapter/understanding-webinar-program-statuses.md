@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: ウェビナープログラムのステータスについて — Marketto Docs — 製品ドキュメント
 title: ウェビナープログラムのステータスについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ウェビナープログラムのステータスについて{#understanding-webinar-program-statuses}
 
-プログラムのステータスは、イベントのメンバーとして進行する様々なイベントのステータスを表します。 チャネルタイプに関連付けられます。 Marketoには、**ウェビナー**&#x200B;という組み込みのチャネルタイプがあります。 ステータスは、バッチ操作とトリガーキャンペーンの両方で使用できます。
+プログラムのステータスは、イベントのメンバーとして進行する様々なイベントのステータスを表します。 チャネルタイプに関連付けられます。 Marketoには、**ウェビナー**&#x200B;という組み込みのチャネルタイプがあります。 ステータスは、バッチキャンペーンとトリガーの両方で使用できます。
 
 人々は、プログラムのステータスを一定の経路で移動し、ステータスは元に戻りません。 例えば、**出席**&#x200B;のステータスを持つ人は、**登録**&#x200B;に戻ることができません。
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 **プログラムにない**  — このステータスを使用して、イベントからユーザーを削除します。
 
-**招待済み** — このステータスを使用して、イベントにユーザーを追加します。
+**招待済み**  — このステータスを使用して、イベントにユーザーを追加します。
 
-**承認待ち**  — このステータスを使用して、ユーザーに確認の電子メールを送信しないようにします。詳細は、[ON24イベント登録の更新](on24-event-registration-updates.md)の「手動による登録者の承認」を参照してください。
+**承認待ち**  — このステータスを使用して、ユーザーに確認の電子メールを送信しないようにします。詳細は、[ON24イベント登録の更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)の「手動による登録者の承認」を参照してください。
 
 **一覧表示待ち**  — このステータスを使用して、一部のユーザーが追加のシートが利用可能になるまで待ち続けます。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >登録エラーが発生した場合は、プログラムの[メンバ]タブにある[状態の理由]列を参照して、そのユーザの追加情報を取得できます。 エラーを修正したら、ユーザーのプログラムステータスを手動で「マーケティング担当者内に登録済み」に変更できます。
 
-**出席** — ウェビナーの終了時に、ON24は出席した人のリストを返します。このステータスは、Marketoに自動的に取り込まれます。
+**出席**  — ウェビナーの終了時に、ON24は出席した人のリストを返します。このステータスは、Marketoに自動的に取り込まれます。
 
 **出席オンデマンド**  — 以前のバージョンのウェビナーに参加した人が、このステータスを受け取ります。
 
@@ -55,9 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
