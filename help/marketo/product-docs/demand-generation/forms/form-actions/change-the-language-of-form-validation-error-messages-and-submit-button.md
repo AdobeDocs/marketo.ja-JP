@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: フォームの検証/エラーメッセージおよび送信ボタンの言語の変更 — Marketto Docs — 製品ドキュメント
 title: フォームの検証/エラーメッセージおよび送信ボタンの言語の変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >送信ボタンの言語も変更されます。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. フォームを選択し、「**フォームを編集」をクリックします。**
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. 「**フォーム設定」で、**「**設定**」をクリックします。
+1. 「**フォーム設定**」で、「**設定**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 必要な&#x200B;**エラー** **言語**&#x200B;を選択します。
+1. 必要な&#x200B;**エラー言語**&#x200B;を選択します。
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >フォームの変更によって作成されたランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)のドラフトを[承認することを忘れないでください。
+   >フォームの変更によって作成されたランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)のドラフトを[承認することを忘れないでください。
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
