@@ -3,9 +3,9 @@ unique-page-id: 2359592
 description: フォーム内のフィールドの並べ替え — Marketto Docs — 製品ドキュメント
 title: フォーム内のフィールドの並べ替え
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketoフォーム上のフィールドの並べ替えは簡単です。 これが方法です。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/editform.png)
 
@@ -32,10 +32,3 @@ Marketoフォーム上のフィールドの並べ替えは簡単です。 これ
 >フィールドを隣り合わせにドラッグ&amp;ドロップすることもできます。 列を作れる！
 
 素晴らしい仕事！ お前はこれを揺らしている。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[フォーム](http://docs.marketo.com/display/docs/forms)の詳細を知りたい場合は、
-
