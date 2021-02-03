@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Picklist値の追加削除 — Marketto Docs — 製品ドキュメント
 title: Picklist値追加/Remove Picklist Values
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Salesforceでの選択リスト値の追加と削除について知っておく�
 
 ## 選択リスト値の追加{#adding-picklist-values}
 
-1. Salesforceにpicklistフィールドタイプに値が追加されると、[通知](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)が送信され、これがどのフォームに影響を与えるかがわかります。
+1. Salesforceにpicklistフィールドタイプに値が追加されると、[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)が送信され、これがどのフォームに影響を与えるかがわかります。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. フォームエディターに移動し、[提案のリストに追加の値](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)を追加します。
+1. フォームエディターに移動し、[提案のリストに追加の値](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)を追加します。
 
 ## 選択リスト値の削除{#remove-picklist-values}
 
