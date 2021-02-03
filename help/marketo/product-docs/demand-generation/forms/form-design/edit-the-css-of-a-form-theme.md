@@ -3,7 +3,7 @@ unique-page-id: 2359679
 description: フォームテーマのCSSの編集 — マーケティングツールドキュメント — 製品ドキュメント
 title: フォームテーマのCSSの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # フォームテーマのCSSの編集{#edit-the-css-of-a-form-theme}
 
-](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)から選ぶだけで、あらかじめ組み込まれた[テーマがいくつかあります。 ただし、CSSの編集が好きな場合は、必要な変更を行うことができます。 これが方法です。
+](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)から選ぶだけで、あらかじめ組み込まれた[テーマがいくつかあります。 ただし、CSSの編集が好きな場合は、必要な変更を行うことができます。 これが方法です。
 
 >[!NOTE]
 >
 >この方法を試す場合は、CSSを知っていることを確認してください。マーケティングサポートは、カスタムコーディングを支援するようには設定されていません。 また、変更内容は、現在編集中のフォームにのみ適用されます。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. **フォーム** **設定**&#x200B;に移動します。
+1. 「**フォーム設定**」に移動します。
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. 歯車アイコンの下の「**編集** **カスタム** **CSS**」をクリックします。
+1. 歯車アイコンの下の「**カスタムCSSを編集**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. カスタマイズしたフォームを表示するには、**プレビュー** **ドラフト**&#x200B;をクリックします。
+1. カスタマイズしたフォームを表示するには、**プレビュードラフト**&#x200B;をクリックします。
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
