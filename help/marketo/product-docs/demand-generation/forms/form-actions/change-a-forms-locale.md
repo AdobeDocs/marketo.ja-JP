@@ -3,9 +3,9 @@ unique-page-id: 2359657
 description: フォームのロケールの変更 — Marketto Docs — 製品ドキュメント
 title: フォームのロケールの変更
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 国際フォームを扱う場合は、日付/時間を正しい形式で表示する必要があります。 Marketoが自動的にこれを行うので、フォームのロケールを設定するだけで、残りの作業はアドビが行います。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. 「**フォーム** **設定**」で、「**設定**」をクリックします。
+1. 「**フォーム設定**」で、「**設定**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. 「**承認して閉じる**」をクリックして、変更を適用し、保存します。
+1. **「承認して**&#x200B;を閉じる」をクリックして、変更を適用し、保存します。
 
    >[!NOTE]
    >
@@ -45,13 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >フォームの変更によって作成されたランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認することを忘れないでください。
+   >フォームの変更によって作成されたランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認することを忘れないでください。
 
-1. 
-1. それだ！ 正しいロケールで日付/時間が表示されていることを確認できます。
+   それだ！ 正しいロケールで日付/時間が表示されていることを確認できます。
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)
-
