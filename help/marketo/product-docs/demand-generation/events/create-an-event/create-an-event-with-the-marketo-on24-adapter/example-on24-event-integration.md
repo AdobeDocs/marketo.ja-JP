@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: 例ON24イベント統合 — Marketto Docs — 製品ドキュメント
 title: ON24イベント統合の例
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. イベントの**チャネル**として「**ウェビナー**」を選択します。
+1. イベントの&#x200B;**チャネルー**&#x200B;として、**ウェビナー**&#x200B;を選択します。
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 * **スマートリスト**
 
-   * **Fills Out Form**&#x200B;に基づいてキャンペーンをトリガーします。 **制約**&#x200B;を使用して、フォームが存在するランディングページを必ず含めてください。特に、フォームが複数のランディングページで使用されている場合には、その制約追加&lt;a1/>を使用します。
+   * **Fills Out Form**&#x200B;に基づいてキャンペーンをトリガーします。 **制約**&#x200B;を使用して、フォームが存在するランディングページを必ず含めてください。特に、フォームが複数のランディングページで使用されている場合には、その制約追加を使用します。
 
 >[!CAUTION]
 >
->登録データをMarketorにプッシュするには、Marketoフォームを使用してイベントに対してユーザーを登録するか、Marketoフォーム以外のフォームを適切なAPI統合に統合する必要があります。 これは、イベントパートナーの統合を成功させるうえで重要です。 **注**:Marketor以外のランディングページでMarketorフォームを使用している場合、トリガーはForm Nameを使用して「 **Filles Out** Form」となります。
+>登録データをMarketorにプッシュするには、Marketoフォームを使用してイベントに対してユーザーを登録するか、Marketoフォーム以外のフォームを適切なAPI統合に統合する必要があります。 これは、イベントパートナーの統合を成功させるうえで重要です。 **注**:Marketor以外のランディングページでMarketorフォームを使用している場合、トリガーは「Form Name」を使用して **フォームを** 入力します。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## フォローアップキャンペーン(バッチまたはトリガーキャンペーン) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **スマートリスト** -プログラムステータスの変更に基づいてトリガーします。
+* **スマートリスト** -プログラムステータスの変更に基づくトリガー。
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
@@ -93,9 +93,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ON24アダプタイベントについて](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
