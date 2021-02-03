@@ -3,7 +3,7 @@ unique-page-id: 2359566
 description: フォーム内のフィールドラベルの編集 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: フォーム内のフィールドラベルの編集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 フォーム上のラベルは何でも変更できます。画像を使用したり、完全に消したりすることもできます。 その方法を次に示します。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. フォームを選択し、「**編集** **フォーム**」をクリックします。
+1. フォームを選択し、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
@@ -29,9 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >気に入ったい場合は、   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
-   >
-   > . リッチテキストエディターが開き、画像やリンクなどを使って街に出ることができます。
+   >気に入ったい場合は、![鉛筆](assets/image2014-9-15-17-3a27-3a7.png)をクリックします。 リッチテキストエディターが開き、画像やリンクなどを使って街に出ることができます。
 
 1. 「**完了**」をクリックします。
 
@@ -43,9 +41,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
->フォームの変更によって作成されたランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
+>フォームの変更によって作成されたランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
 
 あった！ 少しずつフォームデザイナーのチャンピオンになっている。
-
