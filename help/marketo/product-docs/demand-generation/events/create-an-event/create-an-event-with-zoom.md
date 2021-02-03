@@ -3,9 +3,9 @@ unique-page-id: 17728023
 description: ズーム — Marketto Docs — 製品ドキュメントを使用したイベントの作成
 title: ズームを使用したイベントの作成
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [LaunchPointサー追加ビスとしてズーム](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な[フローアクション](http://docs.marketo.com/display/DOCS/Flow+Actions)を設定して、エンゲージメントを追跡します。
+>* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
 まず、ズーム機能を使用してウェビナーを作成します。 ズームの作成時の特定の設定はMarketorで使用され、一部の設定はZoomでのみ使用されます。
