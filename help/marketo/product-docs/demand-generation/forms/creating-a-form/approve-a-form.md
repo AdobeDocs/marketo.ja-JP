@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: フォームの承認 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: フォームの承認
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 既存のフォームを承認して準備する方法を次に示します。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   承認済みで、[ランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)に追加する準備ができています。
+   承認済みで、[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)に追加する準備ができています。
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [フォームの編集](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [フォームの編集](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. 「**完了**」をクリックします。
@@ -63,8 +60,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
->承認後にフォームを編集した場合は、変更を確認するには、[ランディングページ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認する必要があります。
+>承認後にフォームを編集した場合は、変更を確認するには、[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認する必要があります。
 
 それだ！ できるだけ簡単に。
