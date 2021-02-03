@@ -3,9 +3,9 @@ unique-page-id: 2359677
 description: ライトボックス — Marketto Docs — 製品ドキュメントでのフォームの使用
 title: ライトボックスでのフォームの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ライトボックスは、コンテンツを表示したいときに、コンテンツの前にフォームを開く手法です。 これが方法です。
 
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,18 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. 「**フォーム** **アクション**」で、「**埋め込み** **コード**」をクリックします。
+1. 「**フォームアクション**」で、「**埋め込みコード**」をクリックします。
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >埋め込みコード項目を表示/使用するには、フォームが承認されている必要があります。
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. **コード** **タイプ**&#x200B;を&#x200B;**ライトボックス**&#x200B;に設定します。
+1. **コードタイプ**&#x200B;を&#x200B;**ライトボックス**&#x200B;に設定します。
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
