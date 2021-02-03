@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: カスタムフィールドのMarkettorへのマッピング — Marketto Docs — 製品ドキュメント
 title: カスタムフィールドのマーケティング担当者へのマッピング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # マーケティング先にカスタムフィールドをマップ{#map-custom-fields-to-marketo}
 
-デフォルトでは、ユーザーがオンライン配信サービスを使用する頻度など、標準的なFacebookのストアを超える情報を収集したい場合があります。 これは、Facebookのリード広告にカスタム質問[を作成することで達成できます。](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)
+デフォルトでは、ユーザーがオンライン配信サービスを使用する頻度など、標準的なFacebookのストアを超える情報を収集したい場合があります。 これは、Facebookのリード広告にカスタム質問](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)を作成することで達成できます。[
 
-ただし、**Marketorは、このデータ**&#x200B;を自動的に収集する開始を行いません。** **Marketorがカスタムフィールドの値を取り込む開始に対して、これらのカスタムフィールドをMarketoのフィールドに&#x200B;**マッピングする必要があります。**
+ただし、**Marketorは、このデータ**&#x200B;を自動的に収集する開始を行いません。 Marketorがカスタムフィールドの値を取り込む開始に対しては、**それらのカスタムフィールドをMarketoのフィールドに**&#x200B;マッピングする必要があります。
 
 管理者のLaunchPoint領域でこれを設定する方法を次に示します。
 
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 1. ここで、カスタムFacebookフィールドをマーケティング担当者フィールドにマッピングします。 **追加.**&#x200B;をクリックします。
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. 新しい行に、Facebookのカスタムフィールドの名前を入力します。
 
@@ -59,9 +57,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Facebookフィールドのマッピング先となるフィールドがMarketoにない場合は、[カスタムフィールド](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)を作成する方法を学びます。
+   >Facebookフィールドのマッピング先となるフィールドがMarketoにない場合は、[カスタムフィールド](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)を作成する方法を学びます。
 
 >[!CAUTION]
 >
 >マーケティング担当者がデータを収集するには、新しいFacebookフィールドに対して&#x200B;**この処理を**&#x200B;行う必要があります。
-
