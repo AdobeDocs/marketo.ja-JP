@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Marketo Sync - Marketto Docs — 製品ドキュメントに追加対する既存のSalesforceフィールド
 title: マーケティ追加ング担当者との同期に使用する既存のSalesforceフィールド
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    > Salesforceにフィールドに既に値が含まれている場合、これらの値は、次のレコードが更新されるまで、Marketoに同期されません。
-
