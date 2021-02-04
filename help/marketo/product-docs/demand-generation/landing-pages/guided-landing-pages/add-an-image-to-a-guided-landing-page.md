@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: ガイド付きランディングページ追加の画像 — Marketto Docs — 製品ドキュメント
 title: ガイド付追加きランディングページの画像
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >画像のサイズ変更は、テンプレートに依存します。 [ガイド付きランディングページテンプレート](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)の詳細を参照してください。
+   >画像のサイズ変更は、テンプレートに依存します。 [ガイド付きランディングページテンプレート](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)の詳細を参照してください。
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >エディターでの画像のリンクの指定は、現在サポートされていません。 代わりに、リッチテキスト要素を使用します。
-
