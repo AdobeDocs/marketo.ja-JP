@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: フリーフォームランディングページの作成 — Marketto Docs — 製品ドキュメント
 title: フリーフォームランディングページの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ランディングページモードは、そのテンプレートによって定義されます。 [フリーフォームおよびガイド付きランディングページテンプレートにつ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) いて詳しく説明します。
+>ランディングページモードは、そのテンプレートによって定義されます。 [フリーフォームおよびガイド付きランディングページテンプレートにつ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) いて詳しく説明します。
 
 ## プログラム{#create-a-free-form-landing-page-in-a-program}でのフリーフォームランディングページの作成
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 ## Design Studio {#create-a-free-form-landing-page-in-design-studio}で自由形式ランディングページを作成する
 
-1. **デザイン** **スタジオ**&#x200B;に移動します。
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio.png)
 
-1. 「**新しい**」をクリックし、「**新しいランディングページ**」をクリックします。
+1. 「**新規**」をクリックし、「**新規ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >「**作成**」をクリックした後すぐにランディングページを開かないようにするには、「新しいページにエディタを開く」をオフにします。
-
