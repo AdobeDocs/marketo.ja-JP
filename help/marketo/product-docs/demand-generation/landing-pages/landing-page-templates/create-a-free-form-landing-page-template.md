@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: フリーフォームランディングページテンプレートの作成 — Marketto Docs — 製品ドキュメント
 title: 自由形式ランディングページテンプレートの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ ht-degree: 0%
    >フォームによる事前入力を防ぐ場合は、「**マンチキン追跡を無効にする**」を選択します。そうしない場合は、特定のページでのWeb動作を追跡しないようにします。\
    >「**モバイルの互換性を検証**」を選択して、コードがモバイルデバイスと互換性があることを確認します。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [フリーフォームランディングページの作成](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [ガイド付きランディングページテンプレートの作成](create-a-guided-landing-page-template.md)
-   >    * [フリーフォームとガイド付きランディングページについて](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [ガイド付きランディングページテンプレートの作成](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [フリーフォームとガイド付きランディングページについて](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
