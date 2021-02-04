@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: フリーフォームランディングページ用のモバイル表示のカスタマイズ — Marketto Docs — 製品ドキュメント
 title: フリーフォームランディングページ用のモバイル表示のカスタマイズ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [フ追加リーフォームランディングページ用のモバイル表示](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[フ追加リーフォームランディングページ用のモバイル表示](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 フリーフォームランディングページのモバイル表示はほとんど自動的ですが、カスタマイズすることができます。 これが方法です。
 
@@ -49,11 +45,12 @@ ht-degree: 0%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 重要な知識： {#important-things-to-know}
+## 重要な知識：{#important-things-to-know}
 
 * 画像はモバイルデバイスの幅に合わせて拡大されます。 画像を小さくしたい場合は、リッチテキスト要素を取り込み、そこから画像を追加します。
 * Forms2.0フォームのみを使用します。 応答性が高く、自動的に調整されます。
-* 編集できるテンプレート要素は、BODY#bodyid（モバイル）の1つだけです。 これを使用して背景色を変更できます。\
+* 編集できるテンプレート要素は、BODY#bodyid（モバイル）の1つだけです。 これを使用して背景色を変更できます。
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## モバイル表示から要素を非表示にする{#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ ht-degree: 0%
 
 楽しんで！
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
