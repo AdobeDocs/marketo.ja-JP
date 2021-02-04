@@ -3,9 +3,9 @@ unique-page-id: 8783938
 description: テンプレート6-E - Marketto Docs — 製品ドキュメント
 title: テンプレート6-E
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート6-E {#template-e}
 
-[テンプレート6-Eのダウンロード](http://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)
+右クリックして[テンプレート6-E](http://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)をダウンロード
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フッター（オプション）
 
-以下をクリックして、このテンプレートをダウンロードしてください。
+以下を右クリックして、このテンプレートをダウンロードしてください。
 
 [Template6-E.html](http://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)
