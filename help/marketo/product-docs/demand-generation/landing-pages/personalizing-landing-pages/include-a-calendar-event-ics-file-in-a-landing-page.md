@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: カレンダーイベントICSファイルをランディングページに含める — Marketto Docs — 製品ドキュメント
 title: ランディングページに予定表イベントのICSファイルを含める
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [予定表イベント(.ics)ファイルの作成](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
-
->
-
+>* [予定表イベント(.ics)ファイルの作成](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
 1. ランディングページエディターで、**{...}**&#x200B;をクリックしてトークンを挿入します。
@@ -33,26 +30,19 @@ ht-degree: 0%
    >
    >次のトークンは、ランディングページではサポートされていません。
    >
-   >    
-   >    
-   >    * member.webinar URL
+   >* member.webinar URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
 1. 「**保存**」をクリックします。
 
-   次のようなランディングページが表示されます。   ![](assets/image2015-1-6-16-3a42-3a51.png)
+   次のようなランディングページが表示されます。
+
+   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
 甘い！ 今は全てうまくいくはずだ。 必ずテストを行ってください。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
->
->* [電子メールにカレンダーイベント(.ics)を含める](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
-
->
-
-
-
+>[電子メールにカレンダーイベント(.ics)を含める](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
