@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: ガイド付きランディングページテンプレート — Marketto Docs — 製品ドキュメント
 title: ガイド付きランディングページテンプレート
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ガイド付きランディングページテンプレート{#guided-landing-page-templates}
 
-[ガイド付きランディングページエディター](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートを参照してください。 各テンプレートは完全にレスポンシブで、Bootstrapフレームワークに基づいています。
+[ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートを参照してください。 各テンプレートは完全にレスポンシブで、Bootstrapフレームワークに基づいています。
 
 >[!NOTE]
 >
