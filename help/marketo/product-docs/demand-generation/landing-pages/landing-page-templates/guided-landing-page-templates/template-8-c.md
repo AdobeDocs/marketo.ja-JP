@@ -3,9 +3,9 @@ unique-page-id: 8783966
 description: テンプレート8-C - Marketto Docs — 製品ドキュメント
 title: テンプレート8 ～ C
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート8-C {#template-c}
 
-[テンプレート8 ～ Cをダウンロード](http://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&amp;modificationdate=1482175053000&amp;api=v2)
+右クリックして[テンプレート8-C](http://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&amp;modificationdate=1482175053000&amp;api=v2)をダウンロード
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 5つのボディセクション（オプション）
 * フッター（オプション）
 
-以下をクリックして、このテンプレートをダウンロードしてください。
+以下を右クリックして、このテンプレートをダウンロードしてください。
 
 [Template8-C.html](http://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&amp;modificationdate=1482175053000&amp;api=v2)
