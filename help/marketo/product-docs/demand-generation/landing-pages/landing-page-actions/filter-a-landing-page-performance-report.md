@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: ランディングページパフォーマンスレポートのフィルター — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: ランディングページパフォーマンスレポートのフィルタリング
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ランディングページパフォーマンスレポートのフィルタ{#filter-a-landing-page-performance-report}
 
-[ランディングページのパフォーマンスレポート](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)を、プログラム内のランディングページ（ローカルアセット）、Design Studio内の（グローバルアセット）、またはアーカイブされた項目に絞り込みます。
+[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)を、プログラム内のランディングページ（ローカルアセット）、Design Studio内の（グローバルアセット）、またはアーカイブされた項目に絞り込みます。
 
 1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)に移動します。
 
@@ -42,10 +42,3 @@ ht-degree: 0%
 1. 終わった！ 「**レポート**」タブをクリックして、フィルターを適用したレポートを表示します。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**ディープダイブ**
->
->[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
