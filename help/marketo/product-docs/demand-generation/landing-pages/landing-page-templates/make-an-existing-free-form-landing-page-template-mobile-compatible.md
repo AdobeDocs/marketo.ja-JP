@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: 既存のフリーフォームランディングページテンプレートのモバイル互換性の確保 — Marketto Docs — 製品ドキュメント
 title: 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定{#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->[2015年1月リリース](../../../../release-notes/2015/release-notes-january-2015.md)より前に作成されたランディングページテンプレートは、モバイルとの互換性を持たせるためにアップグレードする必要があります。
 
 これは、ランディングページエディターとテンプレートエディターの2か所で行うことができます。
 
@@ -57,7 +53,9 @@ ht-degree: 0%
 
 素晴らしい質問です！ テンプレートには次のタグが必要です。
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  問題がない場合は、次のメッセージが表示されます。
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+問題がない場合は、次のメッセージが表示されます。
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ ht-degree: 0%
    >
    >モバイルバージョンのテンプレートをアクティブ化すると、それを使用するランディングページのドラフトが作成されます。
 
-すごい！ これで、このテンプレートを使用するすべてのランディングページのモバイル表示](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)を[カスタマイズできます。
-
->[!MORELIKETHIS]
->
->* [フリーフォームランディングページ用のモバイル表示のカスタマイズ](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+すごい！ これで、このテンプレートを使用するすべてのランディングページのモバイル表示](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)を[カスタマイズできます。
