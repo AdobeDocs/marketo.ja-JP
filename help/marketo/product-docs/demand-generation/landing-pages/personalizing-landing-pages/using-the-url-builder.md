@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: URLビルダーの使用 — マーケティングドキュメント — 製品ドキュメント
 title: URLビルダーの使用
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ URLビルダーは、Marketto非表示のフォームフィールドに値を入
 
 >[!PREREQUISITES]
 >
->フォーム内に非表示のフィールドを作成し、その設定を編集する方法については、[フォームフィールドを非表示](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)に設定するを参照してください。
+>フォーム内に非表示のフィールドを作成し、その設定を編集する方法については、[フォームフィールドを非表示](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)に設定するを参照してください。
 
 1. ランディングページを選択し、「**ランディングページアクション**」をクリックし、「**URLツール**」にマウスポインターを置いて、「**URLビルダー**」をクリックします。
 
@@ -29,6 +29,6 @@ URLビルダーは、Marketto非表示のフォームフィールドに値を入
 
    >[!NOTE]
    >
-   >ビルダーに使用できるフィールドがない場合は、フォームに非表示のフィールドがあり、[URLパラメーター](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter)を受け入れるように設定されていることを確認してください。
+   >ビルダーに使用できるフィールドがない場合は、フォームに非表示のフィールドがあり、[URLパラメーター](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)を受け入れるように設定されていることを確認してください。
 
 素晴らしい仕事！ これで、URLをコピー&amp;ペーストしてWeb上で使用できるようになります。
