@@ -3,7 +3,7 @@ unique-page-id: 2359876
 description: アップロードした画像またはファイルの置き換え — Marketto Docs — 製品ドキュメント
 title: アップロードした画像またはファイルの置換
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # アップロードした画像またはファイルの置き換え{#replace-an-uploaded-image-or-file}
 
-1. **デザイン** **スタジオ**&#x200B;に移動します。
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio-6.png)
 
-1. 「**画像** **および** **ファイル**」をクリックし、置き換えるファイルを選択します。
+1. 「**画像とファイル**」をクリックし、置き換えるファイルを選択します。
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >アップロードした画像やファイル](search-uploaded-images-and-files.md)を[検索することもできます。
+   >アップロードした画像やファイル](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)を[検索することもできます。
 
 1. 「**ファイルのアクション**」をクリックし、「**画像を置換」または「ファイル**」を選択します。
 
@@ -49,10 +49,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [アップロードされた画像とファイルの検索](search-uploaded-images-and-files.md)
->* [アップロードされた画像またはファイルのURLの検索](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [アップロードされた画像またはファイルのURLの検索](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
