@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: URLパスのリダイレクト — Marketto Docs — 製品ドキュメント
 title: URLパスのリダイレクト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketorでは、選択したページにURLパスを簡単にリダイレクト
 >
 >**必要な管理者権限**
 
-1. **管理者の下の**「**ランディングページ**」をクリックします。
+1. 「**管理者**」で、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. 「**ルール**」タブをクリックし、「**新規**」および「**新しいリダイレクトルール**」をクリックします。
+1. 「**ルール**」タブをクリックし、「**新しい**」および「**新しいリダイレクトルール**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketorでは、選択したページにURLパスを簡単にリダイレクト
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >リダイレクトできるのは、マーケティング先[CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のURLだけです。
+   >リダイレクトできるのは、マーケティング先[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のURLだけです。
 
 1. 右側の2番目の&#x200B;**元のURL**&#x200B;フィールドに、リダイレクトするURLパス（または特定のページ）を入力します。
 
@@ -46,15 +43,10 @@ Marketorでは、選択したページにURLパスを簡単にリダイレクト
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   [宛先としてMarketoランディングページ](https://docs.marketo.com/x/vAEk)を使用することもできます。
+   [宛先としてMarketoランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)を使用することもできます。
 
-おめでとう！  URLパスが正常にリダイレクトされました。
+おめでとう！ URLパスが正常にリダイレクトされました。
 
 >[!MORELIKETHIS]
 >
->* [マーケティング先ランディングページを別のページにリダイレクト](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[マーケティング先ランディングページを別のページにリダイレクト](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
