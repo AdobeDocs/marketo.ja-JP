@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: フリ追加ーフォームランディングページに対する新しいフォーム — Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページへの新しいフォーム
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [フォームの作成](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [フリーフォームランディングページの作成](create-a-free-form-landing-page.md)
-
->
+>* [フォームの作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. **マーケティング** **アクティビティ**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. ランディングページを探して、**編集** **ドラフト**&#x200B;をクリックします。
+1. ランディングページを探し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ ht-degree: 0%
 1. フォローアップページを選択する際には、次の3つのオプションがあります。
 
    * **ランディングページ**  — マーケティングランディングページを選択
-   * **外部**** URL** — 目的のURLを選択します。
+   * **外部URL**  — 必要なURLを選択します。
+   * **フォーム定義**  — フォームレベルで定義された設定を使用します。
 
-   * **Form**** Defined** — フォームレベルで定義された設定を使用します。
    >[!NOTE]
    >
    >**定義**
-   >
    >
    >フォローアップページは、訪問者がフォームを送信した後に表示されるページです。
 
@@ -59,4 +55,4 @@ ht-degree: 0%
 
    うまくいった！
 
-ランディングページエディターを閉じて、[ランディングページドラフト](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認します。
+ランディングページエディターを閉じて、[ランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認します。
