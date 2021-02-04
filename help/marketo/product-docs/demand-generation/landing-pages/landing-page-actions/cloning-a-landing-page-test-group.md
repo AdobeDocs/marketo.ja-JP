@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: ランディングページテストグループのコピー — Marketto Docs — 製品ドキュメント
 title: ランディングページテストグループのコピー
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Design Studioで、ランディングページテストグループを検索し�
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. 完了したら、「**作成」をクリックします。**
+1. 完了したら、「**作成**」をクリックします。
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ Design Studioで、ランディングページテストグループを検索し�
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    これで、グループは訪問数とフォームの完了数を積極的に追跡し、どのランディングページのパフォーマンスが最も良いかを確認できます。
-
