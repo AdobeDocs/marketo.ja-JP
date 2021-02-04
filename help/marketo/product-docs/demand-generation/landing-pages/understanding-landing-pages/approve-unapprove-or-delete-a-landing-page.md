@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: ランディングページの承認、未承認または削除 — Marketto Docs — 製品ドキュメント
 title: ランディングページの承認、未承認または削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >[複数のページを一度に](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)承認すると、人生を楽にすることができます。
+   >[複数のページを一度に](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)承認すると、人生を楽にすることができます。
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >承認されると、ランディングページアイコンに緑のチェックマークが付きます。
 
-1. ランディングページの未承認
+## ランディングページの未承認{#unapprove-a-landing-page}
+
 1. ランディングページを選択し、「**ランディングページアクション**」に移動して、「**未承認**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->未承認のランディングページはWeb上で公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとFacebookのタブに対する訪問者には、[フォールバックページ](../../../../product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
+>未承認のランディングページはWeb上で公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとFacebookのタブに対する訪問者には、[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
 
 ## ランディングページの削除{#delete-a-landing-page}
 
