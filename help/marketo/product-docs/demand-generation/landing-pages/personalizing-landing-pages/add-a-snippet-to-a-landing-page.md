@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: ランディングページ- Marketto Docs — 製品ドキュメ追加ントへのスニペット
 title: ランディングページ追加のスニペット
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スニペットの作成](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[スニペットの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
@@ -41,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)を参照してください。
+   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)を参照してください。
 
 すごい仕事！ ランディングページにスニペットを追加する方法を理解している。
