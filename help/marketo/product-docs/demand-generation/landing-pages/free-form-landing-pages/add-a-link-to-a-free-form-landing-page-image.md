@@ -3,7 +3,7 @@ unique-page-id: 2359736
 description: フリ追加ーフォームランディングページの画像 — Marketto Docs — 製品ドキュメントへのリンク
 title: フリ追加ーフォームのランディングページ画像へのリンク
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [フ追加リーフォームランディングページへの画像](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[フ追加リーフォームランディングページへの画像](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
@@ -36,4 +32,3 @@ ht-degree: 0%
    素晴らしい仕事！ これで、Marketoランディングページに電子メールリンクとしての画像が作成されました。
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
-
