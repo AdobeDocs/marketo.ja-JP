@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: ガイド付きランディングページテンプレートの作成 — Marketto Docs — 製品ドキュメント
 title: ガイド付きランディングページテンプレートの作成
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**深い潜り込み：読むのに** 飽き飽き？[操作手順を順を追って、このクールな](https://youtu.be/3O7e4GdZKsM) ビデオをご覧ください。
+>読書に飽きた？ [操作手順を順を追って、このクールな](https://youtu.be/3O7e4GdZKsM) ビデオをご覧ください。
 
 ガイド付きランディングページテンプレートには、特別な構文があります。 この構文を使用して、カスタマイズ可能なコンテンツと、テンプレートから作成された各ランディングページ上のコンテンツの最終的な位置を指定します。 編集可能として指定した領域または変数のみが、「ガイド付き」ランディングページエディター内でカスタマイズできます。
 
@@ -46,13 +46,13 @@ mktoTextクラスを持つ要素のコンテンツ（指定されている場合
 
 例：
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### 画像{#image}
 
 編集可能な画像要素を定義するオプションは2つあります。 `<div>`(イメージを挿入するコンテナを指定)または`<img>`タグを使用できます。
 
-## オプション1 - <div> {#option-use-a-div}
+## オプション1 - `<div>` {#option-use-a-div}を使用
 
 必須属性：
 
