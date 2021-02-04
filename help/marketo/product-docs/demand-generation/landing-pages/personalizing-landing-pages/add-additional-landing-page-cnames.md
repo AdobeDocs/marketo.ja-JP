@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: 追加追加のランディングページCNAME - Marketto Docs — 製品ドキュメント
 title: 追加追加のランディングページCNAME
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**同じトップレベルドメイン — 良い！cookieはshared.go**.mycompany.com > **info**.mycompany.com **異なるトップレベルドメイン — BAD! Cookieは共有されません。**
->行け。**mycompany**.com/go。**mynewcompany**.com
+>**同じトップレベルドメイン — 良い！Cookieは共有**&#x200B;されます。<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**異なるトップレベルドメイン — 不良！Cookieは&#x200B;_共有_ではありません**。<br/> 行け。**mycompany**.com/go。**mynewcompany**.com
 
 >[!NOTE]
 >
