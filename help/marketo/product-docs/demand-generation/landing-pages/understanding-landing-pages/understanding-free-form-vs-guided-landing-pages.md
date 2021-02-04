@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: フリーフォームとガイド付きランディングページについて — Marketto Docs — 製品ドキュメント
 title: フリーフォームとガイド付きランディングページについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # フリーフォームとガイド付きランディングページについて{#understanding-free-form-vs-guided-landing-pages}
 
-選択したテンプレートによって、作業対象のランディングページ編集モードが決まります。 次の2つのパスが考えられます。[free-form](http://docs.marketo.com/display/docs/free-form+landing+pages)と[guided](http://docs.marketo.com/display/docs/guided+landing+pages)。 重要な違いの概要を以下に簡単に示します。
+選択したテンプレートによって、作業対象のランディングページ編集モードが決まります。 次の2つのパスが考えられます。[free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)と[guided](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)。 重要な違いの概要を以下に簡単に示します。
 
 ## フリーフォームページ{#free-form-pages}
 
@@ -33,13 +33,3 @@ ht-degree: 0%
 * レスポンシブテンプレートをコード化または購入した場合、または事前に作成されたマーケティングテンプレートを変更する場合に最適です。
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [自由形式ランディングページ](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [ガイド付きランディングページ](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
