@@ -3,9 +3,9 @@ unique-page-id: 8783984
 description: テンプレート9-B - Marketto Docs — 製品ドキュメント
 title: テンプレート9-B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート9-B {#template-b}
 
-[テンプレート9-Bのダウンロード](http://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&amp;modificationdate=1438210694000&amp;api=v2)
+右クリックして[テンプレート9-B](http://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&amp;modificationdate=1438210694000&amp;api=v2)をダウンロード
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 8つのボディセクション（オプション）
 * フッター（オプション）
 
-**以下をクリックして、このテンプレートをダウンロードしてください。**
+**以下を右クリックして、このテンプレートをダウンロードしてください。**
 
 [Template9-B.html](http://docs.marketo.com/download/attachments/8783984/template-9b.html?version=2&amp;modificationdate=1438210694000&amp;api=v2)
