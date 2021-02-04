@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: トークンの概要 — Marketto Docs — 製品ドキュメント
 title: トークンの概要
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # トークンの概要{#tokens-overview}
 
-トークンは、マーケティング担当者[スマートキャンペーン](http://docs.marketo.com/display/DOCS/Smart+Campaigns)のフローステップ、[電子メール](http://docs.marketo.com/display/DOCS/General)、[ランディングページ](http://docs.marketo.com/display/DOCS/Landing+Pages)、[スニペット](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)、[webキャンペーン](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)で使用できる変数です。
+トークンは、マーケティング担当者向けのスマートキャンペーンフローステップ、電子メール、ランディングページ、スニペット、Webキャンペーンで使用できる変数です。
 
 ## デフォルト値について{#understanding-default-values}
 
@@ -131,7 +131,7 @@ ht-degree: 0%
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## トークンをトリガー{#trigger-tokens}
+## トリガートークン{#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -154,9 +154,7 @@ ht-degree: 0%
 ## プログラムトークン{#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## マイトークン{#my-tokens}
