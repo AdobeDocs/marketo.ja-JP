@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: ランディングページに対する追加テキストとトークン — Marketto Docs — 製品ドキュメント
 title: ランディングページ追加へのテキストとトークン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
    >
    >ランディングページデザイナーが新しいウィンドウで開きます。
 
-1. 重複が、トークンを追加するリッチテキストボックスをクリックします。
+1. トークンを追加するリッチテキストボックスを重複クリックします。
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -73,5 +73,4 @@ ht-degree: 0%
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   ミッション完了！ これで、ランディングページにトークンが付きました。
-
+   任務完了！ これで、ランディングページにトークンが付きました。
