@@ -3,9 +3,9 @@ unique-page-id: 7515886
 description: テンプレート1-B - Marketto Docs — 製品ドキュメント
 title: テンプレート1 ～ B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート1-B {#template-b}
 
-[テンプレート1-Bのダウンロード](http://docs.marketo.com/download/attachments/7515886/template1-b.html?version=1&amp;modificationdate=1432796605000&amp;api=v2)
+右クリックして[テンプレート1-B](https://docs.marketo.com/download/attachments/7515886/Template1-B.html?version=1&amp;modificationDate=1432796605000&amp;api=v2)をダウンロード
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 3つのボディセクション（オプション）
 * フッター（オプション）
 
-**以下をクリックして、このテンプレートをダウンロードしてください。**
+**以下を右クリックして、このテンプレートをダウンロードしてください。**
 
-[Template1 ～ B.html](http://docs.marketo.com/download/attachments/7515886/template1-b.html?version=1&amp;modificationdate=1432796605000&amp;api=v2)
+[Template1 ～ B.html](https://docs.marketo.com/download/attachments/7515886/Template1-B.html?version=1&amp;modificationDate=1432796605000&amp;api=v2)
