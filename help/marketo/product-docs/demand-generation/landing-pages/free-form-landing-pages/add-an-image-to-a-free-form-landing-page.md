@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: フリ追加ーフォームランディングページへの画像 — Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページへの画像
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [マー追加ケティング担当者向けの画像とファイル](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[マー追加ケティング担当者向けの画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. 自由形式のランディングページを選択し、「**編集** **ドラフト**」をクリックします。
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    素晴らしい仕事！ 自由形式のランディングページに画像を追加しました。
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
