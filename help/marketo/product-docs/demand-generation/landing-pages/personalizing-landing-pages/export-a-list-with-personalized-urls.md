@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: パーソナライズされたURL - Marketto Docs -リストドキュメントを含む製品の書き出し
 title: パーソナライズされたURLを含むリストの書き出し
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [アカウントに合わせたパーソナライズされたURLの有効化](enable-personalized-urls-for-your-account.md)
->* [ランディングページ向けにパーソナライズされたURLを有効にする](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [アカウントに合わせたパーソナライズされたURLの有効化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [ランディングページ向けにパーソナライズされたURLを有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. リストまたはスマートリストを選択し、「**Leads**」タブをクリックして結果を取得し、Excelアイコンをクリックします。 インライン**Marketto Unique Code **and **Marketto Unique Name** [列visible](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)があることを確認します。
+1. リストまたはスマートリストを選択し、「**Leads**」タブをクリックして結果を取得し、Excelアイコンをクリックします。 インライン&#x200B;**マーケティング先の一意のコード**&#x200B;と&#x200B;**マーケティング先の一意の名前** [列が表示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)されていることを確認します。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >名と姓が同じリードがある場合、URLが一意であることを確認するために、番号が自動的に追加されます。
-
