@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Marketorランディングページテンプレートの編集 — Marketto Docs — 製品ドキュメント
 title: マーケティングランディングページテンプレートの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,3 @@ Marketor内の任意のランディングページテンプレートを編集で
    >[!NOTE]
    >
    >ランディングページテンプレートを編集すると、そのテンプレートを使用するランディングページアセットのドラフトが作成されます。
-
