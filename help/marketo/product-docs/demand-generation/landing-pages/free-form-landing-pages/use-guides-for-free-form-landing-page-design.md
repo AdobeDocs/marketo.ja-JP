@@ -3,9 +3,9 @@ unique-page-id: 2359728
 description: フリーフォームランディングページデザインのガイドの使用 — Marketto Docs — 製品ドキュメント
 title: フリーフォームランディングページデザインのガイドの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ガイドは、**無料**-**フォーム**&#x200B;ランディングページエディターでのみ使用できます。
+>ガイドは、**フリーフォーム**&#x200B;ランディングページエディターでのみ使用できます。
 
 1. **ランディングページ**&#x200B;を選択し、「**ドラフトを編集**」をクリックします。
 
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    整列したオブジェクトは目に簡単です。
-
