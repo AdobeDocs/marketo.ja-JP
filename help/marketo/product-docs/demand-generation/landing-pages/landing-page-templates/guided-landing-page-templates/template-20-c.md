@@ -3,9 +3,9 @@ unique-page-id: 10092916
 description: テンプレート20-C - Marketto Docs — 製品ドキュメント
 title: テンプレート20-C
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート20-C {#template-c}
 
-[テンプレート20-Cのダウンロード](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
+右クリックして[テンプレート20-C](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)をダウンロード
 
 ![](assets/template-20c.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フッター（オプション）
 
-以下をクリックして、このテンプレートをダウンロードしてください。
+以下を右クリックして、このテンプレートをダウンロードしてください。
 
 [Template20-C.html](http://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
