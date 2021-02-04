@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: フリ追加ーフォームランディングページ用のモバイル表示- Marketto Docs — 製品ドキュメント
 title: フ追加リーフォームランディングページ用のモバイル表示
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->モバイル表示は、幅が480ピクセル以下の画面で機能します。 つまりスマートフォンです デバイスの解像度](http://mydevice.io/devices/.)の[情報を以下に示します。
+>モバイル表示は、幅が480ピクセル以下の画面で機能します。 つまりスマートフォンです デバイスの解像度](https://mydevice.io/devices/)の[情報を以下に示します。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -41,21 +41,12 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >フリーフォームテンプレートはアップグレードが必要な場合があります。 このメッセージが表示された場合は、既存のフリーフォームランディングページテンプレートをモバイル互換[にする方法について、すばやくお読みください。](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+   >フリーフォームテンプレートはアップグレードが必要な場合があります。 このメッセージが表示された場合は、既存のフリーフォームランディングページテンプレートをモバイル互換](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)にする方法について、すばやくお読みください。[
 
-1. 素晴らしい！ これで、ランディングページーのモバイルバージョンがアクティベートされました。 「**閉じる」をクリックします。 **
+1. 素晴らしい！ これで、ランディングページーのモバイルバージョンがアクティベートされました。 「**閉じる**」をクリックします。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   これで[モバイル表示](customize-mobile-view-for-your-free-form-landing-page.md)をカスタマイズできます。
+   これで[モバイル表示](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)をカスタマイズできます。
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [フリーフォームランディングページ用のモバイル表示のカスタマイズ](customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
