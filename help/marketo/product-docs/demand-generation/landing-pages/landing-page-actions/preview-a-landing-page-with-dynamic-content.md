@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: 動的コンテンツ — Marketto Docs — 製品ドキュメントでのランディングページのプレビュー
 title: 動的コンテンツを使用したランディングページのプレビュー
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,14 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ランディングページでの動的コンテンツの使用](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [ランディングページのプレビュー](preview-a-landing-page.md)
-
->
+>* [ランディングページでの動的コンテンツの使用](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [ランディングページのプレビュー](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-
-1. ランディングページを選択し、「**プレビューページ」をクリックします。**
+1. ランディングページを選択し、**プレビューページ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
