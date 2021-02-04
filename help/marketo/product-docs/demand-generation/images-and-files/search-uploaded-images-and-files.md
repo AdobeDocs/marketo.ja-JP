@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: アップロードされた画像とファイルの検索 — Marketto Docs — 製品ドキュメント
 title: アップロードされた画像とファイルの検索
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ Marketoでは、画像やファイルを探すのは簡単です。
 
 >[!TIP]
 >
->新しい検索を開始するには、「**クイック** **検索**」ボックスの&#x200B;**x**&#x200B;をクリックします。
+>新しい検索を開始するには、「**クイック検索**」ボックスの&#x200B;**x**&#x200B;をクリックします。
 
-足を蹴り上げて、終わりだ！
+足を蹴り上げて、終わった！
 
 >[!MORELIKETHIS]
 >
->* [アップロードした画像またはファイルの置換](replace-an-uploaded-image-or-file.md)
->* [フォルダを使用した画像とファイルの整理](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [アップロードした画像またはファイルの置換](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [フォルダを使用した画像とファイルの整理](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
