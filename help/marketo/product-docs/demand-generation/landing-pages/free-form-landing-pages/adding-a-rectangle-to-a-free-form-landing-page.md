@@ -3,7 +3,7 @@ unique-page-id: 2359707
 description: フリーフォームランディングページへの長方形の追加 — Marketto Docs — 製品ドキュメント
 title: 自由形式ランディングページに長方形を追加する
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ランディングページ上の長方形は、テキストの領域をハイライトするのに適しています。
 
-1. フリーフォームランディングページを選択し、「**編集** **ドラフト**」をクリックします。
+1. フリーフォームランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. 長方形を選択し、**プロパティ** **シート**&#x200B;を使用して、必要な変更を行います。
+1. 長方形を選択し、**プロパティシート**&#x200B;を使用して、必要な変更を行います。
 
    >[!TIP]
    >
