@@ -3,7 +3,7 @@ unique-page-id: 2359880
 description: フォルダー — Marketto Docs — 製品ドキュメントを使用して画像とファイルを整理する
 title: フォルダを使用した画像とファイルの整理
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 フォルダを作成すると、画像やファイルを移動したり、必要な画像のセットのみを表示したり、特定のフォルダに直接アップロードしたりできます。
 
-1. **デザイン** **スタジオ**&#x200B;に移動します。
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio-7.png)
 
-1. 左のメニューで「** Images and Files**」を右クリックし、「**New Folder**」を選択します。
+1. 左のメニューで[**イメージとファイル**]を右クリックし、[**新しいフォルダ**]を選択します。
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -35,9 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [アップロードされた画像とファイルの検索](search-uploaded-images-and-files.md)
-
->
-
-
-
+>[アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
