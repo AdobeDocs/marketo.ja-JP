@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: CNAMEを使用したランディングページURLのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: CNAMEを使用したランディングページURLのカスタマイズ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -14,22 +14,26 @@ ht-degree: 0%
 # CNAME {#customize-your-landing-page-urls-with-a-cname}でランディングページURLをカスタマイズする
 
 Marketoがランディングページをホストしている場合でも、URLは完全にカスタマイズできます。 CNAMEを使用しない場合の外観：
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>`見た目は：
-`<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
+
+`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+
+表示方法：
+
+`http://go.YourCompany.com/UnsubscribePage.html`
 
 ## CNAMEを選択{#choose-a-cname}
 
 ランディングページのURLの先頭に移動する単語を選択します。 単語は1つで、比較的短くする必要があります。 例：
 
-* 行け。 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* 情報 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
-* ページ、 [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
+* go.YourCompany.com/NameOfPage.html
+* info.YourCompany.com/NameOfPage.html
+* pages.YourCompany.com/NameOfPage.html
 
-1つの単語（プラス[YourCompany.com](http://YourCompany.com)）をCNAMEと呼びます。 後で必要になるので、メモしてください。
+「(plus YourCompany.com)」という単語は「CNAME」と呼ばれます。 後で必要になるので、メモしておいてください。
 
 ## アカウント文字列{#find-your-account-string}を探します。
 
-1. 「**管理者**」領域に移動し、「**ランディングページ」をクリックします。**
+1. **管理者**&#x200B;領域に移動し、**ランディングページ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -47,11 +51,11 @@ Marketoがランディングページをホストしている場合でも、URL�
 
 ITスタッフに次のCNAMEを設定するよう依頼します。（「[CNAME]」と「[ACCOUNT STRING]」という語を前の手順のテキストに置き換えます）。
 
-[CNAME]。[YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING].[mktoweb.com](http://mktoweb.com/)
+[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## CNAMEの設定{#complete-cname-setup}の完了
 
-1. IT部門がCNAMEを作成したら、**管理者**&#x200B;に移動し、**ランディング****ページ**&#x200B;をクリックします。
+1. IT部門がCNAMEを作成したら、**管理者**&#x200B;に移動し、**ランディングページ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +63,7 @@ ITスタッフに次のCNAMEを設定するよう依頼します。（「[CNAME]
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. **ドメイン****名前******&#x200B;ランディング&#x200B;****&#x200B;ページ&#x200B;**にCNAMEを入力し、**&#x200B;フォールバック&#x200B;****&#x200B;ページ11を入力します。3/>、**ホームページ**&#x200B;を入力し、**保存**&#x200B;をクリックします。****
+1. **ランディングページのドメイン名**&#x200B;にCNAMEを入力し、**フォールバックページ**&#x200B;を入力します。**ホームページ**&#x200B;を入力して、**保存**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
