@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: 共有後の確認の設定 — Marketto Docs — 製品ドキュメント
 title: 共有後のプロンプトの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Social App Editorで、「**アプリ設定**** **」、「**詳細オプション**」の順に移動します。
+1. Social App Editorで、「**アプリ設定**」に移動し、「**詳細オプション**」に移動します。
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ ht-degree: 0%
 1. 電子メールアドレスのリクエストとマーケティングプロンプトを編集します（電子メールアドレスを含めた場合）。
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
