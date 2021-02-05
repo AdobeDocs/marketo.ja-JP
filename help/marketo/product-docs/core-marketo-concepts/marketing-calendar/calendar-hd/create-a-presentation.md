@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: プレゼンテーションの作成 — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションの作成
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 チームのカレンダー表示と目標をHDTVに投影するためのプレゼンテーションを作成します。 PresentationsはWorkspace固有です。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
