@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: リストがリードする電子メール分析レポートの作成 — Marketto Docs — 製品ドキュメント
 title: リストがリードする電子メール分析レポートの作成
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # リストがリードする電子メール分析レポートの作成{#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
