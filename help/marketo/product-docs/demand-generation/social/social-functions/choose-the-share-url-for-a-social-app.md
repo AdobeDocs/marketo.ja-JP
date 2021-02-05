@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: ソーシャルアプリの共有URL — マーケティングドキュメント — 製品ドキュメントを選択します
 title: Socialアプリの共有URLの選択
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >
    >「投稿を共有」は、次の3つの場所にリンクできます。
    >
-   >    
-   >    
-   >    * **参照ページ**:アプリを含むページ。
-   >    * **その他のランディングページ**:ドロップダウンのランディングページとは異なるMarketoです。
-   >    * **外部URL**:マーケティング担当者以外のランディングページ。
+   >* **参照ページ**:アプリを含むページ。
+   >* **その他のランディングページ**:ドロップダウンのランディングページとは異なるMarketoです。
+   >* **外部URL**:マーケティング担当者以外のランディングページ。
 
 
 >[!MORELIKETHIS]
 >
->* [Social追加アプリに対するプライバシーポリシー](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[Social追加アプリに対するプライバシーポリシー](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
