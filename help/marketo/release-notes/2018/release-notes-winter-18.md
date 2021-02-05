@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: リリースノート — Winter '18 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '18
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Winter 18リリースには、次の機能が含まれています。 Marketing 
 
 ## キャンペーンパフォーマンスとスループットの強化{#campaign-performance-and-throughput-enhancements}
 
-Marketorは、当社のビッグデータアーキテクチャを活用して、キャンペーンのスループットを向上させ、Webアクティビティ処理を改善し、オーディエンスの行動に迅速に対応できるようにしています。
+Marketorは、当社のビッグデータアーキテクチャを活用して、トリガーキャンペーンのスループットを向上させ、Webアクティビティ処理を改善し、オーディエンスの行動に迅速に対応できるようにしています。
 
 ## Marketing社のSalesforce CRM統合の強化{#enhancements-to-marketo-s-salesforce-crm-integration}
 
@@ -33,9 +33,8 @@ Salesforce CRM統合には、次の2つの強化点があります。
 
 ## [マーケティングのパフォーマンスのインサイト](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >パフォーマンスインサイトはアドオン製品です。 見積もりについては、マーケティング担当者またはアカウント担当者にお問い合わせください。
 
