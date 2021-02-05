@@ -3,9 +3,9 @@ unique-page-id: 9437819
 description: テンプレート15-B - Marketto Docs — 製品ドキュメント
 title: テンプレート15-B
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート15-B {#template-b}
 
-右クリックして[テンプレート15-B](http://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)をダウンロード
+[テンプレート15-Bのダウンロード](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 5つのボディセクション（オプション）
 * フッター（オプション）
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template15-B.html](http://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
+[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
