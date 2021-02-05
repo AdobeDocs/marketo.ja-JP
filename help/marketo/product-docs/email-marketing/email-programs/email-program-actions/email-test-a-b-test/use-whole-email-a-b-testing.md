@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: 「電子メール全体」のA/Bテスト — Marketto Docs — 製品ドキュメントを使用
 title: 「電子メール全体」のA/Bテストを使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ ht-degree: 0%
 
    もう少しで着く。 次に、A/Bテストの推奨結果条件](define-the-a-b-test-winner-criteria.md)を[定義する必要があります。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
