@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: デジタル広告キャンペーンの売上高アトリビューションの設定 — Marketto Docs — 製品ドキュメント
 title: デジタル広告キャンペーンの売上高アトリビューションの設定
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
 >* ユーザーにクエリ文字列を渡すフォームを作成または編集します
 >* 広告チャネルとキャンペーンに関するレポートを作成するには、いくつかの売上サイクル分析機能にアクセスできることを確認してください
 
->
-
-
 
 ## デフォルトプログラムの作成{#create-a-default-program}
 
@@ -41,7 +38,7 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 既にプログラムが存在する場合は、[クローン](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)を作成できます。
+1. 既にプログラムが存在する場合は、[クローン](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)を作成できます。
 
    >[!TIP]
    >
@@ -53,21 +50,17 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
    >
    >**例**
    >
-   >
    >URLに渡されるクエリ文字列は、誰かがMarketor内の人物になったときにクリックした広告キャンペーンをMarketoが知るのに役立ちます。
-   >
    >
    >測定するすべての変数を含むクエリ文字列手法を作成できます。 Marketing Cloudのこれらの変数を使用して、様々なプログラムにユーザーを追加します。
    >
-   >
    >例えば、チャネルtype_region___Asset__Regionを使用できます。 次のようになります。SP_FB_NewGuide_US. **注意**:省略形のスペース保存
-   >
    >
    >または、チャネル_Adsource_AssetName_Region_UniqueIdNumberとして設定します。 次のようになります。Social-Paid_Facebook_NewGuide_NA_123.
 
 ## 新しい名前用のスマートキャンペーンの作成{#create-a-smart-campaign-for-new-names}
 
-1. スマートキャンペーンで、2つのトリガーと2つのフィルターを含むスマートリストを作成します。
+1. スマートキャンペーンで、図に示すように、2つのトリガーと2つのフィルターを含むスマートリストを作成します。
 
    ![](assets/image2016-3-23-13-3a59-3a24.png)
 
@@ -85,7 +78,7 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
 
 ユーザーのステータスを変更し、プログラムの成功を達成して売上高アトリビューションの計算に含めることができるようにするには、2つ目のスマートなキャンペーンが必要です。
 
-1. **Fills Out Form**&#x200B;トリガーに、クエリ文字列にプログラム名を入力します。 プログラムをコピーする場合は、古いクエリ文字列名を新しい文字列で置き換えます。
+1. **Fills Out Form**&#x200B;トリガーーに、クエリ文字列にプログラム名を入力します。 プログラムをコピーする場合は、古いクエリ文字列名を新しい文字列で置き換えます。
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -95,7 +88,7 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
 
    >[!NOTE]
    >
-   >上の例は、**Converted, **を示していますが、これはステータス/成功の値によって異なります。
+   >上の例は、**変換済み**&#x200B;ですが、これはステータス/成功の値によって異なります。
 
 1. キャンペーンのスケジュールを設定し、アクティブ化します。
 
@@ -112,21 +105,16 @@ Marketoで最初の広告プログラムを設定した後、他のチャネル�
    >
    >**例**
    >
-   >
    >次に、設定したすべての情報を実際のURLに追加する方法を示します。 項目はアンパサンド(&amp;)で区切られます。
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;*k=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **** sourceは、チャネルIDとして使用される個人ソースです
-   >    * **各プログラムに対して作成された一意の識別子を** 示します。
-   >    * **Facebook、LinkedInまたはGoogleのキャンペーン** をキャンペーンする
-   >    * **** kkisは、取り込むキーワードまたはアセット名です。
+   >* **** sourceは、チャネルIDとして使用される個人ソースです
+   >* **各プログラムに対して作成された一意の識別子を** 示します。
+   >* **Facebook、LinkedInまたはGoogleのキャンペーン** をキャンペーンする
+   >* **** kkisは、取り込むキーワードまたはアセット名です。
 
-   >    
-   >    
+   >
    >**この4つの用語はすべて小文字にする必要があり、URLにスペースを含めることはできません。**
 
 ## ベストプラクティス{#best-practices}
