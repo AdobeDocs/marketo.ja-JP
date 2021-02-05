@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 既存の電子メールの選択 — Marketto Docs — 製品ドキュメント
 title: 既存の電子メールの選択
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 送信する電子メールの種類が決まったので、A/Bテストを設定するか、このテストをスキップして電子メールプログラムをスケジュールできます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [A追加/Bテスト](email-test-a-b-test/add-an-a-b-test.md)
 >* [電子メールプログラムのスケジュール](schedule-your-email-program.md)
