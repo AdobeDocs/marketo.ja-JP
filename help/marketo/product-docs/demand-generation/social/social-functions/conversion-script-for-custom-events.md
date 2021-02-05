@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: カスタムイベント- Marketto Docs — 製品ドキュメントのコンバージョンスクリプト
 title: カスタムイベントのコンバージョンスクリプト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >両方のスクリプトをコピーして貼り付けるのは、マーケティング担当者以外のWebサイトを対象とする場合に限ります。
 
 ## ローダスクリプト{#retrieve-the-loader-script}を取得します
@@ -50,7 +47,7 @@ ht-degree: 0%
 
 ## 変換スクリプトの接続{#connecting-the-conversion-script}
 
-目標の完了をトリガーするページ要素の特定のHTML IDを使用するJavaScript関数を記述する場所です。 次に例を示します。
+ここで、トリガー目標を完了するページ要素の特定のHTML IDを使用するJavaScript関数を記述します。 次に例を示します。
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -60,7 +57,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [照会オファーの目標の指定](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [照会オファーの作成](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [WebサイトにSocialを導入する](deploy-social-on-your-website.md)
+>* [照会オファーの目標の指定](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [照会オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [WebサイトにSocialを導入する](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
