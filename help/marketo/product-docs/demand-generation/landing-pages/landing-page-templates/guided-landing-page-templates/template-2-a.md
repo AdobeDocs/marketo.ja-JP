@@ -3,9 +3,9 @@ unique-page-id: 7516467
 description: テンプレート2-A - Marketto Docs — 製品ドキュメント
 title: テンプレート2-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート2-A {#template-a}
 
-右クリックして[テンプレート2-A](http://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&amp;modificationdate=1433228945000&amp;api=v2)をダウンロード
+[テンプレート2-Aのダウンロード](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&amp;modificationdate=1433228945000&amp;api=v2)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 1つのボディセクション（オプション）
 * フッター（オプション）
 
-**以下を右クリックして、このテンプレートをダウンロードしてください。**
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template2-A.html](http://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&amp;modificationdate=1433228945000&amp;api=v2)
+[Template2-A.html](https://docs.marketo.com/download/attachments/7516467/template2-a.html?version=1&amp;modificationdate=1433228945000&amp;api=v2)
