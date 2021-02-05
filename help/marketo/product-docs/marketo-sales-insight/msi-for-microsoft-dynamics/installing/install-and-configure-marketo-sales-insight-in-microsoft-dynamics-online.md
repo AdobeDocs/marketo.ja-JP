@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Microsoft Dynamics Online - Marketto Docs — 製品ドキュメントで、Marketto Sales Insightのインストールと設定を行います。
 title: Microsoft Dynamics OnlineでのMarketor Sales Insightのインストールと構成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -185,9 +185,7 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[リード/接触レコードの星と炎の設定](http://docs.marketo.com/x/BICMAg)
 
