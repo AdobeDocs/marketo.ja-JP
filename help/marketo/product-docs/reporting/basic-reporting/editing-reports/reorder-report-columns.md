@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: レポート列の並べ替え — Marketto Docs — 製品ドキュメント
 title: レポート列の並べ替え
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ ht-degree: 0%
 
    この手順を繰り返して、列が最適な順序で表示されるようにします。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
