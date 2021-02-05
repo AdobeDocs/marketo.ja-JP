@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: ソーシャルアプリの人物キャプチャの設定 — Marketto Docs — 製品ドキュメント
 title: Socialアプリ用の人物キャプチャの設定
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ソーシャルアプリ用の人物キャプチャの設定{#configure-person-capture-for-a-social-app}
 
-[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成する場合、リクエストする情報と、参加する人に必要な情報を設定できます。
+[参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成する場合、リクエストする情報と、参加する人に必要な情報を設定できます。
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >どちらにしても、参加者はオファーから&#x200B;[*操作*&#x200B;電子メール](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)を引き続き受け取ります。
+   >どちらにしても、参加者はオファーから&#x200B;[_操作_&#x200B;電子メール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)を引き続き受け取ります。
 
 1. 表示と編集ウィンドウで、**編集を表示**&#x200B;をクリックし、共有プロンプトのメッセージを編集します。
 
@@ -50,5 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->これで、[ソーシャルサインアップフロー](configure-social-sign-up-share-flow.md)を設定し、各ソーシャルネットワークに投稿される共有メッセージを編集できます。
-
+>これで、[ソーシャルサインアップフロー](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)を設定し、各ソーシャルネットワークに投稿される共有メッセージを編集できます。
