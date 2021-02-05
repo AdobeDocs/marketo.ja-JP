@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: カスタムDKIM署名の設定 — Marketto Docs — 製品ドキュメント
 title: カスタムDKIM署名の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ DKIM署名をパーソナライズして、選択したドメインを反映さ�
 
    >[!NOTE]
    >
-   >
    >カスタムDKIM署名を古い方法で設定した場合、その署名は引き続き機能し、ここに表示されます。
 
 1. 「**電子メール**」をクリックし、「**DKIM**」タブをクリックして、最後に「**追加ドメイン**」をクリックします。
@@ -37,7 +36,6 @@ DKIM署名をパーソナライズして、選択したドメインを反映さ�
 1. Marketo Emailsで使用するドメインを「From Address」として入力し、**追加**&#x200B;をクリックします。
 
    >[!TIP]
-   >
    >
    >送信元アドレスで別のドメインを使用する場合は、Marketoの共有DKIM署名が使用されます。
 
@@ -53,14 +51,10 @@ DKIM署名をパーソナライズして、選択したドメインを反映さ�
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
    >確認に失敗し、IT部門がレコードを正しく作成した場合は、DNSの伝達に関する問題である可能性があります。 後でやり直してください。
 
    >[!CAUTION]
    >
-   >
    >対応するDNSレコードを変更または削除すると、配信品質が損なわれます。 DNSを変更する前に、Marketoのエントリを削除してください。
 
    これは、Eメールの配信品質に絶対的に役立ちます。 レコードが存在し、正しいことを確認する必要があります。
-
