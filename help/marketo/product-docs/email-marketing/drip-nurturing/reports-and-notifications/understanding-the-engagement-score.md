@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: エンゲージメントスコアについて — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: エンゲージメントスコアについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # エンゲージメントスコアについて{#understanding-the-engagement-score}
 
-エンゲージメントスコアを使用すると、エンゲージメントプログラム内のコンテンツの効果を簡単に確認できます。 スコアは0 ～ 100です。 [エンゲージメントダッシュボード](the-engagement-dashboard.md)を調べて、コンテンツのパフォーマンスを追跡する方法を確認します。
+エンゲージメントスコアを使用すると、エンゲージメントプログラム内のコンテンツの効果を簡単に確認できます。 スコアは0 ～ 100です。 [エンゲージメントダッシュボード](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)を調べて、コンテンツのパフォーマンスを追跡する方法を確認します。
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [エンゲージメントのプログラムについて](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[エンゲージメントのプログラムについて](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
