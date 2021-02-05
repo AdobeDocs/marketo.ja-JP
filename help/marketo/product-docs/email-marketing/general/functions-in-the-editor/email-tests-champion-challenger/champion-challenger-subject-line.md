@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger — 件名行 — Marketto Docs — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 件名行
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    進め！ 続けよう。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[チャンピオン/チャレンジャー：チャンピオンの基準の定義](champion-challenger-define-champion-criteria.md)
