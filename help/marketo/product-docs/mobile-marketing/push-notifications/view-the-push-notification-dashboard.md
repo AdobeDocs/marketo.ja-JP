@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: プッシュ通知ダッシュボードの表示- Marketto Docs — 製品ドキュメント
 title: プッシュ通知ダッシュボードの表示
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ ht-degree: 0%
    >
    >**送信済み**&#x200B;指標は、プッシュ通知の送信先となった人の正確な数よりも多くの送信を反映している場合があります。 これは、プッシュを受け取る条件となる&#x200B;*デバイス*&#x200B;の数に基づいて計算されるからです。 例えば、1人の人が3台のデバイスを持っている場合、ダッシュボードは1台ではなく3台の送信を登録します。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
