@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Google Universal Analytics - Marketto Docs — 製品ドキュメント内のカスタムRTPレポート
 title: Google Universal AnalyticsでのカスタムRTPレポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -220,9 +220,7 @@ ht-degree: 0%
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[RTPとGoogle Universal Analyticsの統合](integrate-rtp-with-google-universal-analytics.md)
 >
