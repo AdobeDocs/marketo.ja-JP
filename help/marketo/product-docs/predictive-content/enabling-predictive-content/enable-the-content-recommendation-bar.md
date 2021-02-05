@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: コンテンツレコメンデーションバー — マーケティングドキュメント — 製品ドキュメントを有効にする
 title: コンテンツレコメンデーションバーの有効化
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 0%
 * レコメンデーションエンジンで実行するコンテンツが多いほど、アルゴリズムでテストし、どのコンテンツが最も効果が高いかを判断するのに適しています。 10 ～ 20個のコンテンツ要素を実行し、アクティブにして、新しい要素を追加し続けることをお勧めします。
 * レコメンデーション用に有効にするコンテンツ部分には、RTP Javascriptタグを含める必要があります。 これは、アルゴリズムによる推奨コンテンツの追跡と最適化に役立ちます。
 
->[!NOTE]
-**関連記事**
+>[!MORELIKETHIS]
 * [Webリッチメディアの予測コンテンツを有効にする](enable-predictive-content-for-web-rich-media.md)
 
