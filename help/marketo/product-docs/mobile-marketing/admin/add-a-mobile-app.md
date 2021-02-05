@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: モバイル追加アプリ — Marketto Docs — 製品ドキュメント
 title: モバイル追加アプリ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ ht-degree: 0%
 
 アプリは通常、サンドボックス環境に開始アウトします。ここでは、初回の開発とテストが実行されます。 その後、開発者は実稼働環境を使用して、お客様が使用する最終的なアプリを作成します。 モバイルアプリを追加する場合は、適切な通知証明書を選択する必要があります（次の手順4を参照）。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
