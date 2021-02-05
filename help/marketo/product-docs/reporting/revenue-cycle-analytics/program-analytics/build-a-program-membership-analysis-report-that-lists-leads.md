@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: リストがリード — Marketto Docs -プログラムドキュメントを示す製品メンバーシップ分析レポートの作成
 title: リストがリードするプログラムメンバーシップ分析レポートの作成
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 次の手順に従って、すべてのプログラムメンバー名を表示するプログラムメンバーシップ分析レポートを作成します。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
