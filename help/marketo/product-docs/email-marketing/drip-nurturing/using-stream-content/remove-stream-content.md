@@ -3,7 +3,7 @@ unique-page-id: 2359915
 description: ストリームコンテンツの削除 — Marketto Docs — 製品ドキュメント
 title: ストリームコンテンツの削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ストリームコンテンツの削除{#remove-stream-content}
 
-コンテンツは削除またはアーカイブできます。 ストリームコンテンツを削除するのとは異なり、[アーカイブ](archive-and-unarchive-stream-content.md)では、コンテンツに関連付けられたすべての履歴が保持されます。 一部のコンテンツの履歴統計を失ってもかまわない場合は、次の方法で削除できます。
+コンテンツは削除またはアーカイブできます。 ストリームコンテンツを削除するのとは異なり、[アーカイブ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)では、コンテンツに関連付けられたすべての履歴が保持されます。 一部のコンテンツの履歴統計を失ってもかまわない場合は、次の方法で削除できます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -29,7 +29,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >履歴を気にしない場合にのみ、コンテンツを削除します。 履歴を保存したい場合は、代わりに[アーカイブ](archive-and-unarchive-stream-content.md)を保存します。
+   >履歴を気にしない場合にのみ、コンテンツを削除します。 履歴を保存したい場合は、代わりに[アーカイブ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)を保存します。
 
    それだ！ これで、コンテンツの削除方法がわかりました。
-
