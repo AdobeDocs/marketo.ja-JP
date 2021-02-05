@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: プレゼンテーションのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: プレゼンテーションのカスタマイズ
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 チームにとって最も重要な目標とアクティビティを反映するようにカレンダープレゼンテーションを設定します。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
