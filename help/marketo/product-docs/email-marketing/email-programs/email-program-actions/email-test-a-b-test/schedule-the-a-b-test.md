@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: A/Bテストのスケジュール — Marketto Docs — 製品ドキュメント
 title: A/Bテストのスケジュール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ ht-degree: 0%
 
    オーディエンスを定義済みで電子メールを選択済みの場合、残りの手順はプログラムを承認することだけです。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
