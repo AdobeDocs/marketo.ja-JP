@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 個人レポートの追加カスタム列 — Marketto Docs — 製品ドキュメント
 title: 個人追加レポートのカスタム列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 人追加物レポートのカスタム列{#add-custom-columns-to-a-person-report}
 
-[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、&lt;a0/>個人レポート](http://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。[
+[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、[個人レポート](http://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -42,12 +42,11 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
-   >
-   >**関連記事**
+   >[!MORELIKETHIS]
    >
    >
-   >[追加Opportunity列をリードレポート](add-opportunity-columns-to-a-lead-report.md)に&lt;a0/>することもできます。
+   >
+   >[追加Opportunity列をリードレポート](add-opportunity-columns-to-a-lead-report.md)にすることもできます。
 
    >[!NOTE]
    >
