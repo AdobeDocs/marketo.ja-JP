@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: ソーシャルプロファイルデータの管理 — Marketto Docs — 製品ドキュメント
 title: ソーシャルプロファイルデータの管理
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # ソーシャルプロファイルデータの管理{#manage-social-profile-data}
 
-誰かがMarketor [ソーシャルアプリ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)とやり取りするか、ソーシャルネットワークで[ソーシャルフォームの記入](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を事前入力することを承認すると、Marketoはソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 [個人の詳細ページ](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)でこの表示を行うか、スマートリスト](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)のカスタム表示[の列として追加します。
+誰かがMarketor [ソーシャルアプリ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)とやり取りするか、ソーシャルネットワークで[ソーシャルフォームの記入](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を事前入力することを承認すると、Marketoはソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 [個人の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)でこの表示を行うか、スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)のカスタム表示[の列として追加します。
 
 ソーシャルフォームの入力とソーシャルアプリでは、少し異なるフィールドのセットが取り込まれます。以下の各セクションを参照してください。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -58,7 +56,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ソーシャルフォームの入力によって取り込まれたデータは、フォームレベル](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)でこれらのフィールドの更新を[ブロックしない限り、一致するフィールドを上書きします。
+>ソーシャルフォームの入力によって取り込まれたデータは、フォームレベル](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)でこれらのフィールドの更新を[ブロックしない限り、一致するフィールドを上書きします。
 
 ## Twitterから：{#from-twitter-1}
 
@@ -77,15 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ソーシャルフォームの入力では、ユーザーがフォームに入力した場合に、電子メールアドレス&#x200B;*のみ*&#x200B;を取得します。 電子メールアドレスが必要な場合は、[フォーム](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)の必須フィールドにする必要があります。
+>ソーシャルフォームの入力では、ユーザーがフォームに入力した場合に、電子メールアドレス&#x200B;_のみ_&#x200B;を取得します。 電子メールアドレスが必要な場合は、[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)の必須フィールドにする必要があります。
 
 >[!MORELIKETHIS]
 >
->フォームからこの情報を取り込むには、[ソーシャルフォームの記入](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を有効にします。
-
->[!NOTE]
->
->**ディープダイブ**
->
->フォームの使用に関する詳細は、[Forms](http://docs.marketo.com/display/docs/forms)ディープダイビングを参照してください。
-
+>フォームからこの情報を取り込むには、[ソーシャルフォームの記入](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を有効にします。
