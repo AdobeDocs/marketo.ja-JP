@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: 匿名アクティビティと人物の追跡 — Marketto Docs — 製品ドキュメント
 title: 匿名アクティビティと人物の追跡
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ ht-degree: 0%
    >
    >匿名レコードが新しいまたは既存の人物レコードに結合されると、カスタムフィールドの値は&#x200B;**引き継がれません。**
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
