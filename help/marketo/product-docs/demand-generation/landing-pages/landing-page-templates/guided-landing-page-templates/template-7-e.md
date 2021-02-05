@@ -3,9 +3,9 @@ unique-page-id: 8783954
 description: テンプレート7-E - Marketto Docs — 製品ドキュメント
 title: テンプレート7-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート7-E {#template-e}
 
-右クリックして[テンプレート7-E](http://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)をダウンロード
+[テンプレート7-Eをダウンロード](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フッター（オプション）
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template7-E.html](http://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
+[Template7-E.html](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
