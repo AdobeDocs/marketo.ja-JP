@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Sales Insight - Marketto Docs — 製品ドキュメントの星と炎に使用するスコアフィールドの設定
 title: Sales Insightの星と炎に使用するスコアフィールドの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ ht-degree: 0%
    >
    >販売インサイトの再計算には、多少時間がかかります。 CRMを後で確認して、星や炎を確認できます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[優先度、緊急度、相対スコア、ベストベット](priority-urgency-relative-score-and-best-bets.md)
