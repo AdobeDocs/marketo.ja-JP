@@ -3,7 +3,7 @@ unique-page-id: 1147328
 description: 電子メール内のハード&ソフトバウンス — Marketto Docs — 製品ドキュメント
 title: 電子メール内のハードバウンスとソフトバウンス
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メール内のハードバウンスとソフトバウンス{#hard-and-soft-bounces-in-email}
 
-ハードバウンスを行うと、電子メールサーバーが、その人の電子メールを配信できないとマーケティング担当者に指示した場合に、その人の電子メールアドレスが無効になる可能性があります。 ソフトバウンスとは、電子メールを相手に届ける際に何か故障が起こったことを意味します。この問題は自動的に解決され、数日かかる場合があります。 ハードバウンスとソフトバウンスはどちらも[複数のカテゴリ](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)で構成されます。
+ハードバウンスを行うと、電子メールサーバーが、その人の電子メールを配信できないとマーケティング担当者に指示した場合に、その人の電子メールアドレスが無効になる可能性があります。 ソフトバウンスとは、電子メールを相手に届ける際に何か故障が起こったことを意味します。この問題は自動的に解決され、数日かかる場合があります。 ハードバウンスとソフトバウンスはどちらも[複数のカテゴリ](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)で構成されます。
 
 ## バウンスの分類{#bounce-classification}
 
@@ -21,7 +21,7 @@ Marketoには、問題のある電子メール配信に関連する5人の人物
 
 1. **電子メールの一時停止**  — 特定の種類のハードバウンスが発生した場合にTrueに設定します。
 1. **電子メールの一時停止の原因**  — 多くの理由があります。このフィールドは原因を説明しようとします。
-1. **停止された電子メールの日時** — 不正なバウンスが発生した場合、Marketoはこのタイムスタンプから24時間、ユーザーへのメール送信を停止します。
+1. **停止された電子メール**  — 不正なバウンスが発生した場合、Marketoは、このタイムスタンプから24時間、ユーザーへのメール送信を停止します。
 1. **電子メールの無効**  — 特定の種類のハードバウンスが発生した場合にTrueに設定します。
 1. **電子メールの無効な原因**  — ハードバウンスの理由です。
 
@@ -33,11 +33,12 @@ Marketoには、問題のある電子メール配信に関連する5人の人物
 
 >[!PREREQUISITES]
 >
->[次の手順](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)に従って、電子メールのパフォーマンスレポートを作成し、バウンスデータを生成します。
+>[次の手順](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)に従って、電子メールのパフォーマンスレポートを作成し、バウンスデータを生成します。
 
-電子メールのパフォーマンスレポートを作成した後、画面は次のようになります。![](assets/soft-hard-bounce.png)
+電子メールのパフォーマンスレポートを作成した後、画面は次のようになります。
+
+![](assets/soft-hard-bounce.png)
 
 >[!NOTE]
 >
 >スパムフィルターがハードバウンスを作成する場合があります。 これらの「偽陽性」は、その人の電子メールアドレスの真の有効性を示すものではありません。
-
