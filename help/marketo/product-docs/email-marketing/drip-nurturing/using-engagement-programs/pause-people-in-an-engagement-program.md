@@ -3,7 +3,7 @@ unique-page-id: 2359949
 description: エンゲージメントプログラムでのユーザーの一時停止 — Marketto Docs — 製品ドキュメント
 title: アクションプログラムでのユーザーの一時停止
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # アクションプログラムでユーザーを一時停止{#pause-people-in-an-engagement-program}
 
-ユーザーがエンゲージメントプログラムのメンバーの場合、[すべてのコンテンツ](people-who-have-exhausted-content.md)を使い果たすまで、ユーザーはコンテンツを受け取ります。 [アクションプログラムカデンスを変更](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受信できないようにできます。
+ユーザーがエンゲージメントプログラムのメンバーの場合、[すべてのコンテンツ](people-who-have-exhausted-content.md)を使い果たすまで、ユーザーはコンテンツを受け取ります。 [アクションプログラムカデンスを変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップを使用すると、まだコンテンツを使い果たしていなくても、ユーザーがコンテンツを受信できないようにできます。
 
 1. アクションプログラムを選択します。
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. 「**一時停止中**」を「**新しい値**」として選択し、ユーザーがコンテンツを受け取らないようにします。
+1. 「**一時停止**」を&#x200B;**新しい値**&#x200B;として選択し、ユーザーがコンテンツを受け取らないようにします。
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
@@ -28,4 +28,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >ユーザーを一時停止すると、コンテンツを受信できなくなりますが、条件を満たす場合は、ストリーム間のトランジションは維持されます。
-
