@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 星と炎のカスタマイズ — Marketto Docs — 製品ドキュメント
 title: 星と炎をカスタマイズ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insightは、星と炎を使用してリードに優先順位を付けます。 マーケトは自動的に1-2-3の星/炎を得る人を決定します ただし、数式を変更することはできます。 その方法を次に示します。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
