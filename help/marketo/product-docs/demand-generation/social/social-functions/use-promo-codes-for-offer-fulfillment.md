@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: オファー購読提供数 — Marketto Docs — 製品ドキュメントにプロモーションコードを使用
 title: オファーの受渡しにプロモーションコードを使用
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. 参照オファーエディターで、「**アプリ設定**」、「**オファーの詳細」の順に移動します。**
+1. 参照オファーエディターで、「**アプリ設定**」に移動し、「**オファーの詳細**」に移動します。
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >プロモーションコードファイル内の空白は、その行のコードの一部として扱われます。 各行の末尾の末尾の空白がないように注意してください。
 
 1. アップロードが完了すると、アップロードされたコードの合計数が表示されます。
@@ -52,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->*Access Awards*&#x200B;権限を持つMarketoユーザーのみが、この情報にアクセスできます。 「[ユーザーの役割と権限の管理](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)」を参照してください。
+>_Access Awards_&#x200B;権限を持つMarketoユーザーのみが、この情報にアクセスできます。 「[ユーザーの役割と権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)」を参照してください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
