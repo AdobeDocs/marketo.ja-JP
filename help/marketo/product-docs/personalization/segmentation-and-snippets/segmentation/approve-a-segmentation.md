@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: セグメントの承認 — Marketto Docs — 製品ドキュメント
 title: セグメントの承認
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)にお問い合わせください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [スマートリストでのセグメントフィルターの使用](use-segment-filters-in-a-smart-list.md)
 
