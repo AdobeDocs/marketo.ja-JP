@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 電子メール配信品質Power Pack -How to Import a Seedlist - Marketto Docs - Product Documentation
 title: 電子メール配信品質Power Pack - How to Import a Seedlist
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 シードリストは、Google Apps、Hotmail、Yahoo！など、複数のメールボックスプロバイダーにおける電子メールアカウントのリストで、受信トレイの割合とスパムフォルダーの配信品質を概算するために使用されます。 このリストをMarketoのインスタンスに取り込む方法を次に示します。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、担当営業にお問い合わせください。
 
@@ -41,9 +39,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**リストの最適化**&#x200B;は、250okを[リストの最適化](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)に使う場合に選択します。 含めるシードリストリストを選択する場合は、[**をカスタマイズ**]を選択します。
+   >**リストの最適化**&#x200B;は、250okを[リストの最適化](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)に使う場合に選択します。 含めるシードリスト領域を選択する場合は、[**リストのカスタマイズ**]を選択します。
 
-1. 書き出しが完了すると、リストは.txtファイルとしてブラウザーのdownloadsフォルダーに表示されます。 それを取得し、[静的なリストとしてMarketoインスタンスに](../../../getting-started/quick-wins/import-a-list-of-people.md)インポートします。
+1. 書き出しが完了すると、リストは.txtファイルとしてブラウザーのdownloadsフォルダーに表示されます。 それを取得し、[静的なリストとしてMarketoインスタンスに](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)インポートします。
 
    ![](assets/five.png)
 
