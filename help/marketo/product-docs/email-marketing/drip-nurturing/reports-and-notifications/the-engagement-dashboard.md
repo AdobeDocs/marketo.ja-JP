@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: エンゲージメントダッシュボード- Marketto Docs — 製品ドキュメント
 title: アクションダッシュボード
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # アクションダッシュボード{#the-engagement-dashboard}
 
-アクションダッシュボードは、[アクションプログラム](http://docs.marketo.com/display/docs/drip+nurturing)のコンテンツがどのように実行されているかを確認する最も簡単な方法です。
+エンゲージメントダッシュボードは、エンゲージメントプログラムのコンテンツがどのように機能しているかを確認する最も簡単な方法です。
 
 >[!NOTE]
 >
->エンゲージメントスコアは、キャストが行われるたびに72時間後に計算されます。 [エンゲージメントスコア](understanding-the-engagement-score.md)の詳細を表示します。
+>エンゲージメントスコアは、キャストが行われるたびに72時間後に計算されます。 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の詳細を表示します。
 
 ## エンゲージメントダッシュボードの表示{#view-the-engagement-dashboard}
 
-エンゲージメントプログラムを選択し、**表示/ダッシュボード**&#x200B;をクリックします。
+エンゲージメントプログラムを選択し、**表示**/**ダッシュボード**&#x200B;をクリックします。
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->詳細な統計については、[エンゲージメントストリームのパフォーマンスレポート](engagement-stream-performance-report.md)を参照してください。
+>詳細な統計については、[エンゲージメントストリームのパフォーマンスレポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)を参照してください。
 
 ## 消耗ウィジェットを理解する{#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 時間の経過に伴う平均エンゲージメントスコアと、コンテンツ編集の影響を表示します。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能は、Marketorの売上高サイクルエクスプローラーを利用する顧客のアドオンとして利用できます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
@@ -69,11 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand **  Oldestareは、前回の承認時刻に基づきます。
+__ Newestand __  Oldestareは、前回の承認時刻に基づきます。
 
 >[!NOTE]
 >
->**ディープダイブ**
->
->詳しくは、[エンゲージメントプログラム](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)の深い解説を参照してください。
-
+>詳しくは、[エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)の深い解説を参照してください。
