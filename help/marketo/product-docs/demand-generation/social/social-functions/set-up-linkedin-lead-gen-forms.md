@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedInのリードジェネレーションFormsの設定 — Marketto Docs — 製品ドキュメント
 title: LinkedInリードジェネレーションFormsの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ LinkedInのリードジェネレーションFormsを使用して、LinkedInで�
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. サービスの&#x200B;**表示名**&#x200B;を入力し、ドロップダウンから**LinkedInリードジェネレーション**サービスを選択して、**次へ**&#x200B;をクリックします。
+1. サービスの&#x200B;**表示名**&#x200B;を入力し、ドロップダウンから&#x200B;**LinkedInリードジェネレーション**&#x200B;サービスを選択して、**次へ**&#x200B;をクリックします。
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketorは、同じブラウザーで[www.linkedin.com](http://www.linkedin.com)に新しいタブを開きます。 統合に使用するアカウントを使用して、LinkedInにログインします。
+1. [linkedin.com](https://www.linkedin.com)に対して、同じブラウザーで新しいタブが開きます。 統合に使用するアカウントを使用してLinkedInにログインします。
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ LinkedInのリードジェネレーションFormsを使用して、LinkedInで�
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. プロンプトが表示されたら、「**許可**」をクリックして、LinkedInへのMarkettoアプリのインストールを承認します。
+1. プロンプトが表示されたら、「**許可**」をクリックして、Marketo AppのLinkedInへのインストールを受け入れます。
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ LinkedInのリードジェネレーションFormsを使用して、LinkedInで�
 
 >[!MORELIKETHIS]
 >
->* [スマートキャンペーンでのLinkedInリードジェネレーションフォームのフィルターとトリガーの使用](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[スマートキャンペーンでのLinkedInリードジェネレーションフォームのフィルターとトリガーの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
