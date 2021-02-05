@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition - Marketto Docs — 製品ドキュメントでのMarketo Sales Insightの設定
 title: Salesforce Professional EditionでのMarketor Sales Insightの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -299,9 +299,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、ベストベット](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Marketor追加の「Sales Insight」タブとSalesforce用のボタン](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
