@@ -3,9 +3,9 @@ unique-page-id: 9437837
 description: テンプレート16-B - Marketto Docs — 製品ドキュメント
 title: テンプレート16-B
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート16-B {#template-b}
 
-右クリックして[テンプレート16-B](http://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)をダウンロード
+[テンプレート16-Bのダウンロード](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 * 6つのボディセクション
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[テンプレート16-B.html](http://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
+[テンプレート16-B.html](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
