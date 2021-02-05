@@ -3,9 +3,9 @@ unique-page-id: 8162246
 description: テンプレート6-A - Marketto Docs — 製品ドキュメント
 title: テンプレート6-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート6-A {#template-a}
 
-右クリックして[テンプレート6-A](http://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)をダウンロード
+[テンプレート6-Aのダウンロード](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フッター（オプション）
 
-**以下を右クリックして、このテンプレートをダウンロードしてください。**
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template6-A.html](http://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)
+[Template6-A.html](https://docs.marketo.com/download/attachments/8162246/template-6a.html?version=1&amp;modificationdate=1437692839000&amp;api=v2)
