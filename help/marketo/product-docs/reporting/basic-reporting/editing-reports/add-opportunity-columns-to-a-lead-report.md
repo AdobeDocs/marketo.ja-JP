@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: リードレポートの「Opportunity」追加列 — Marketto Docs - Product Documentation」
 title: リ追加ードレポートの「商談」列
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ ht-degree: 0%
    | 閉じる日数 | オポチュニティを閉じる平均日数。 |
    | 販売日数 | 販売サイクルの平均長さ(「Days Until Opportunity + Days to Close」)。 |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[レポートのサイズを管理する方法](configure-report-size.md)を学びます。
