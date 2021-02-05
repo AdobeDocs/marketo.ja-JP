@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: 売上高モデルトランジションの使用 — Marketto Docs — 製品ドキュメント
 title: 売上高モデルトランジションの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >売上高モデラーはレポートを設定しているので、トランジションにトリガーを常に含めることをお勧めします。 これにより、モデル/ステージフローの真の速度がレポートに反映されます。 フィルターは、トリガーを使用して追加の制約を適用して追加できます。
+   >売上高モデラーはレポートを設定しているので、トランジションには常にトリガーを含めることをお勧めします。 これにより、モデル/ステージフローの真の速度がレポートに反映されます。 フィルターをトリガーと共に追加して、制約を追加できます。
 
    ![](assets/four-2.png)
 
-1. 選択したトリガー/フィルターのパラメーターを選択します。
+1. 選択したトリガー/フィルタのパラメータを選択します。
 
    ![](assets/five-2.png)
 
@@ -60,8 +60,6 @@ ht-degree: 0%
 
 よくやった！ モデルトランジションの変更が完了しました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[売上高モデルの承認/未承認](approve-unapprove-a-revenue-model.md)
