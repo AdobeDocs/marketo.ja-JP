@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: マーケティング担当者向けのSales Insightページ — Marketto Docs — 製品ドキュメント
 title: マーケティング担当者向けのSales Insightページ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
    >
    >カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成します](http://docs.marketo.com/x/3wMk)。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[星と炎](http://docs.marketo.com/x/qgU6Ag)
