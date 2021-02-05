@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: A/追加Bテスト — Marketto Docs — 製品ドキュメント
 title: A追加/Bテスト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
    >
    >データベースに重複レコードがある場合、それらのレコードは、テストと勝者の両方の電子メール&#x200B;**を**&#x200B;受け取ります。 この問題が発生しないようにするには、データベース内の重複の人](http://docs.marketo.com/x/G4EI)を[検索して結合してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [「件名」のA/Bテストを使用](use-subject-line-a-b-testing.md)
 >* [「電子メール全体」のA/Bテストを使用](use-whole-email-a-b-testing.md)
