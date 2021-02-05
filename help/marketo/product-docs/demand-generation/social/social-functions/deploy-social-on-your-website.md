@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: SocialをWebサイトにデプロイする — Marketto Docs — 製品ドキュメント
 title: WebサイトにSocialを導入する
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ソーシャルアプリをマーケティング先以外のページに埋め込みます。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >詳細については、セールス担当者にお問い合わせください。
 
@@ -27,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 「**埋め込み** **コード**** **」をソーシャルアプリのアクションから選択します。
+1. 「ソーシャルアプリのアクション」から「埋め込みコード&#x200B;****」を選択します。
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. ソーシャルアプリのサイズをページ上の特定のサイズに設定する必要がある場合は、2番目のコードスニペットに&#x200B;**outerHeight**&#x200B;および&#x200B;**outerWidth**&#x200B;オプションを追加します。 例えば、次のようにoptions=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;を追加できます。
+1. ソーシャルアプリのサイズをページ上の特定のサイズに設定する必要がある場合は、2番目のコードスニペットに&#x200B;**outerHeight**&#x200B;および&#x200B;**outerWidth**&#x200B;オプションを追加します。 例えば、次のように`options='{"outerHeight":400, "outerWidth":600}'`を追加できます。
 
    ![](assets/socialonsite-resizewidget2.png)
 
    Marketor SocialアプリでWebサイトにコンテンツとインタラクティブ機能が追加され、ファン、訪問者および既存の顧客を招待して、ユーザーに関する情報を広めることができます。 同時に、データベースにプロファイルデータが追加され、ソーシャルな影響指標が追跡されます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >* [Socialアプリのカスタマイズボタン](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [ソーシャルシェアの要件を設定](set-social-share-requirement.md)
-   >* [ランディングページをFacebookに投稿](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Socialアプリのカスタマイズボタン](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [ソーシャルシェアの要件を設定](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [ランディングページをFacebookに投稿](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
