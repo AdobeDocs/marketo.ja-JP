@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 照会オファーの受渡通知電子メールを送信 — Marketto Docs — 製品ドキュメント
 title: 照会オファーの受渡通知電子メールの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Social Promotionでの電子メールの使用](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [照会オファーの作成](create-a-referral-offer.md)
-
->
-
+>* [Social Promotionでの電子メールの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [照会オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## 購読提供数配信の設定{#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 「**アプリ設定**」で、「**オファーの詳細」を選択します。**
+1. 「**アプリの設定**」で、「**オファーの詳細**」を選択します。
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. **入会用電子メール**&#x200B;を選択します。
 
@@ -46,10 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**ディープダイブ**
-   >
-   >
-   >ソーシャルプロモーションでの電子メールの使用[についての詳細。](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+   >ソーシャルプロモーションでの電子メールの使用[についての詳細。](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 
 1. 「**受渡配信**」ドロップダウンをクリックし、「**自動（目標**&#x200B;上）」を選択します。
 
@@ -65,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 「**Filter By **」オプションをクリックし、「**Goal**」を選択します。
+1. 「**フィルター条件**」オプションをクリックし、「**目標**」を選択します。
 
    >[!NOTE]
    >
