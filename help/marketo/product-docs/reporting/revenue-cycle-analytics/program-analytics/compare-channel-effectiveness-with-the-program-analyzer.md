@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: チャネルの効果とプログラムアナライザーとの比較 — Marketto Docs — 製品ドキュメント
 title: チャネルの効果とプログラムアナライザとの比較
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ ht-degree: 0%
 >
 >この手順の例では、作成されたパイプラインに基づいて有効性を測定します。 「Y軸」ドロップダウンを使用して、新しい名前、会員、成功あたりのコストなど、チャネルの有効性を測定する他の方法を選択します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [プログラムの効果とプログラムアナライザとの比較](compare-program-effectiveness-with-the-program-analyzer.md)
