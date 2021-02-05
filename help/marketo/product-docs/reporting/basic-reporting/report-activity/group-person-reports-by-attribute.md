@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 属性別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: 属性別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >また、[セグメント](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)で個人レポートを&lt;a0/>グループ化することもできます。
+   >また、[セグメント](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)で個人レポートをグループ化することもできます。
 
    「ユーザーをグループ化」ダイアログで、グループ化に使用する個人または会社属性を選択します。
 
@@ -50,9 +50,8 @@ ht-degree: 0%
    >
    >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
