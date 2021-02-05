@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: ストリームコンテンツのアーカイブとアーカイブ解除 — Marketto Docs — 製品ドキュメント
 title: ストリームコンテンツのアーカイブとアーカイブ解除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ストリームコンテンツのアーカイブとアーカイブ解除{#archive-and-unarchive-stream-content}
 
-ストリーム内のコンテンツの一部を使用したくない場合は、[削除](remove-stream-content.md)するか、アーカイブします。 コンテンツをアーカイブする方法を次に示します。
+ストリーム内のコンテンツの一部を使用したくない場合は、[削除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)するか、アーカイブします。 コンテンツをアーカイブする方法を次に示します。
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## ストリームコンテンツのアーカイブ解除{#unarchive-stream-content}
 
-1. エンゲージメントプログラムを選択し、「ストリーム」タブに移動します。
+1. エンゲージメントプログラムを選択し、「**Streams**」タブに移動します。
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. ストリームの歯車アイコンをクリックし、「アーカイブされたコンテンツを表示」をクリックします。
+1. ストリームの歯車アイコンをクリックし、「**アーカイブされたコンテンツを表示**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    完璧！ このコンテンツを優先付けし、アクティブにすることができます。
-
