@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: 電子メールのスケジュール — Marketto Docs — 製品ドキュメント
 title: 電子メールのスケジュール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ ht-degree: 0%
    >
    >スケジュール済み電子メールは、コマンドセンターのスケジュール済みフォルダのセクションで表示/編集できます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[コマンドセンターの概要](http://docs.marketo.com/x/kgDb)
