@@ -3,7 +3,7 @@ unique-page-id: 2359877
 description: 使い果たされたコンテンツ通知の無効化と有効化 — Marketto Docs — 製品ドキュメント
 title: 使い果たしたコンテンツ通知の無効化と有効化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. 「**オフ**（または&#x200B;**オン**）」を選択し、「**保存**」をクリックします。
+1. 「**オフ**」（または「**オン**」）を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
    超！ 通知を有効にすると、ストリーム自体に何かが表示され、電子メール通知を受け取ります。
-
