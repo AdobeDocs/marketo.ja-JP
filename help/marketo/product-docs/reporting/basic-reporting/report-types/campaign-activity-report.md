@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: キャンペーンアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: キャンペーンアクティビティレポート
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
    | トリガー（アクティブ） | 現在トリガーされているキャンペーンは、「**マーケティングアクティビティ**」タブにあります。 |
    | トリガー済み（非アクティブ） | **「マーケティングアクティビティ**」タブの非アクティブなトリガーされたキャンペーン。 |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
