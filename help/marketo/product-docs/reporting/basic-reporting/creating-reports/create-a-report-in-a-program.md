@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: プログラムでのレポートの作成 — Marketto Docs — 製品ドキュメント
 title: プログラムでのレポートの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ ht-degree: 0%
    >
    >多数のレポートを簡単に作成できます。 不要になったレポート](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)を[削除してください。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >[レポート期間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)の変更、[基本レポート](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)の登録、[Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)へのレポートの書き出し、[スマートリスト](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)および[more](http://docs.marketo.com/display/docs/basic+reporting)を使用して人々をフィルターできます。
