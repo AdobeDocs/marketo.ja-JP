@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: LinkedInリストセグメント — Marketto Docs -リストドキュメントとしてのMarketoオーディエンスまたはスマート製品の使用
 title: LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. 「**データベース**」に移動します。
+1. **データベース**&#x200B;に移動します。
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. リストの下部にある「** Send Via Ad Bridge **icon ![—](assets/image2015-4-20-18-3a18-3a41.png)」をクリックします。
+1. リストの下部にある&#x200B;**Ad Bridge**&#x200B;で送信アイコン![—](assets/image2015-4-20-18-3a18-3a41.png)をクリックします。
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ ht-degree: 0%
    >
    >広告ネットワーク統合を使用してLinkedInにオーディエンスを送信する場合、Marketorは電子メールアドレスのみを送信します。
 
-1. 「** LinkedIn**」を選択し、「**次へ**」をクリックします。
+1. 「**LinkedIn**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ ht-degree: 0%
    >
    >同期が行われるまで15分お待ちください。
 
-   [LinkedInのマーケティングソリューションヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-ハイフィーブ！ データは、LinkedInのオーディエンスと一致するようになります。 アカウントと連絡先のターゲット設定用にLinkedInにリストをアップロードする方法については、を参照してください。
+ハイフィーブ！ データは、LinkedInのオーディエンスと一致するようになります。 アカウントと連絡先のターゲット設定用にLinkedInにリストをアップロードする方法については、[LinkedInのマーケティングソリューションヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)を参照してください。
