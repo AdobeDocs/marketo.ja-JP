@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: ウェブページアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: ウェブページアクティビティレポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ ht-degree: 0%
 >
 >セールス担当者をスリル！ [自分のテリトリの](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)レポートをフィルタし、 [登録します](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**関連記事**
 >
 >* [表示されたWebページ、Webページアクティビティレポート](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Webレポートでの人または匿名訪問者の表示](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
