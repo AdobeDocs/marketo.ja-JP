@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: エンゲージメントプログラムについて — Marketto Docs — 製品ドキュメント
 title: エンゲージメントのプログラムについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## アクションプログラム{#engagement-program}
 
-**エンゲージメントpr****ogram**&#x200B;は、複雑な育成を容易に達成できるプログラムの一種です。
+**エンゲージメントプログラム**&#x200B;は、複雑な育成を容易に達成できるプログラムの一種です。
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
-関連記事：
-
-* [エンゲージメントプログラムの作成](create-an-engagement-program.md)
+>[!MORELIKETHIS]
+>
+>[エンゲージメントプログラムの作成](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## ストリーム{#stream}
 
@@ -35,10 +35,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
-関連記事：
+>[!MORELIKETHIS]
+>
+>* [追加流れ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [ストリームのコピー](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-* [追加流れ](add-a-stream.md)
-* [ストリームのコピー](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## コンテンツ{#content}
 
@@ -46,13 +47,14 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
-関連記事：
+>[!MORELIKETHIS]
+>
+>* [ストリ追加ームのコンテンツ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [ストリームコンテンツの優先順位付け](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [ストリームコンテンツの可用性の編集](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [ストリームコンテンツの削除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [ストリームコンテンツのアーカイブとアーカイブ解除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-* [ストリ追加ームのコンテンツ](add-content-to-a-stream.md)
-* [ストリームコンテンツの優先順位付け](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-* [ストリームコンテンツの可用性の編集](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-* [ストリームコンテンツの削除](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-* [ストリームコンテンツのアーカイブとアーカイブ解除](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## キャスト{#cast}
 
@@ -66,21 +68,17 @@ ht-degree: 0%
 
 キャストを実行するタイミングは、**ストリームカデンス**&#x200B;を設定することで決定します。 これは、定期的にコンテンツが外出するようにスケジュールする方法です。
 
-` ![](assets/image2014-9-15-15-3a25-3a27.png)
+![](assets/image2014-9-15-15-3a25-3a27.png)
 
-`
-
-関連記事：
-
-* [ストリームカデンスを設定](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[!MORELIKETHIS]
+>
+>[ストリームカデンスを設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## 人物カデンス{#person-cadence}
 
 **人物資格**&#x200B;は、エンゲージメントプログラムからコンテンツを受け取る能力を定義するステータスです。 **アクションプログラムカデンスを変更**&#x200B;フローステップを使用して、これを一時停止または通常に変更できます。
 
-` ![](assets/image2014-9-15-15-3a25-3a55.png)
-
-`
+![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## 使い切り{#exhausted}
 
@@ -90,11 +88,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [コンテンツを使い果たした人](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-
->
-
-
+>[コンテンツを使い果たした人](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## コンテンツエンゲージメントレベル{#content-engagement-level}
 
@@ -102,9 +96,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [エンゲージメントスコアについて](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-
->
-
-
-
+>[エンゲージメントスコアについて](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
