@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 成功パスアナライザーの作成 — Marketto Docs — 製品ドキュメント
 title: 成功パスアナライザーの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >レポートを保存する？ **Analyzerのアクション**&#x200B;ドロップダウンをクリックし、**名前を付けて保存**&#x200B;を選択します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [成功パスアナライザの使用](using-the-success-path-analyzer.md)
 
