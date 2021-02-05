@@ -3,9 +3,9 @@ unique-page-id: 9437562
 description: テンプレート11-C - Marketto Docs — 製品ドキュメント
 title: テンプレート11 ～ C
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート11-C {#template-c}
 
-右クリックして[テンプレート11-C](http://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)をダウンロード
+[テンプレート11 ～ Cをダウンロード](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -24,6 +24,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フォームを含むフッター（オプション）
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template11-C.html](http://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
