@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: エンゲージメントストリームのテスト — Marketto Docs — 製品ドキュメント
 title: エンゲージメントストリームのテスト
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 「**テスト担当者**」ドロップダウンから人物を選択します。 コンテンツは実際には外に出るので、選択の際はその点に注意してください。
+1. **テスト担当者**&#x200B;ドロップダウンから担当者を選択します。 コンテンツは実際には外に出るので、選択の際はその点に注意してください。
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    「初期ストリーム」をクリックし、テストするストリームを選択し、「キャストを実行」をクリックします。
    ![](assets/five-rubiks.png)
 
-1. ユーザーが以前に設定した[トランジションルール](transition-people-between-engagement-streams.md)を調べたら、更新アイコンをクリックします。
+1. ユーザーが以前に設定した[トランジションルール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)を調べたら、更新アイコンをクリックします。
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「**キャストを実行**」を再度クリックしない限り、他のコンテンツは送信されません。
-
+   >「**キャストを再実行**」をクリックしない限り、他のコンテンツは送信されません。
