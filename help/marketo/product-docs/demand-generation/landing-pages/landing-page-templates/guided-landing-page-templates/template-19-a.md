@@ -1,11 +1,11 @@
 ---
 unique-page-id: 10092890
-description: テンプレート19-A - Marketto Docs — 製品ドキュメント
+description: テンプレート19-E - Marketto Docs — 製品ドキュメント
 title: テンプレート19-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート19-A {#template-a}
 
-右クリックして[テンプレート19-A](http://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)をダウンロード
+[テンプレート19-Aのダウンロード](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 5つのボディセクション（オプション）
 * フッター
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template19-A.html](http://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
+[Template19-A.html](https://docs.marketo.com/download/attachments/10092890/template-19a.html?version=1&amp;modificationdate=1441750318000&amp;api=v2)
