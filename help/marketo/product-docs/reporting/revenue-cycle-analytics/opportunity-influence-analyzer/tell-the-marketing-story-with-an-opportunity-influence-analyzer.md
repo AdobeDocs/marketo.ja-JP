@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメントを使用してマーケティングの話を伝える
 title: Opportunity Influence Analyzerでマーケティング事例を伝える
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ Opportunity Influence Analyzerを使用して、重要なオポチュニティ�
 
    タイムライン上のオレンジ色の点をクリックして、オポチュニティの作成と終了に役立ったイベント、プログラム、おもしろい瞬間のストーリーを埋めます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >
    >    
