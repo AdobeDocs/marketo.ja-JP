@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: パフォーマンスインサイトの概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイトの概要
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 マーケティングのパフォーマンスインサイトは、チャネルミックスを最大の効果に最適化するために最適化すると共に、一貫性のある勝者戦略を見つけるための長期的なトレンドを明らかにするのに役立ちます。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >パフォーマンスインサイト機能を持つ顧客はいません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
