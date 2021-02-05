@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: 電子メール分析領域について — Marketto Docs — 製品ドキュメント
 title: 電子メール分析領域について
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 電子メール分析領域では、電子メール指標に重点を置いています。 この記事では、この記事内で使用可能なすべてのレポートを紹介します。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >これは、Select Editionまたは[Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを使用するユーザーが利用できます。 詳細については、セールス担当者にお問い合わせください。
 
