@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: 懸賞の投稿 — Marketto Docs — 製品ドキュメント
 title: 懸賞の投稿
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # 懸賞の投稿{#publish-a-sweepstakes}
 
-[懸賞](create-sweepstakes.md)を作成したら、Marketorランディングページ、Webサイト、Facebookに投稿できます。
+[懸賞](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成したら、Marketorランディングページ、Webサイト、Facebookに投稿できます。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
 >[!NOTE]
->
->**Reminder**
 >
 >オファーを公開する前に、該当するすべての法律、規則および規則に準拠していることを確認します。
 
@@ -41,12 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >ここで懸賞を利用できるようにするには、懸賞を承認する必要があります。
 
-   [ランディングページを](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebookに公開して、Webサイトで懸賞を投稿する](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   おめでとう！ ランディングページを承認すると、懸賞が有効になります。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[投稿したり、[Webサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に懸賞を投稿したりすることもできます。
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ユーザーの開始がサインアップしたら、必ず[にアプリに戻って、懸賞の勝者](select-sweepstakes-winners.md)を選択してください。
-
-おめでとう！ ランディングページを承認すると、懸賞が有効になります。 また、またはも可能です。
+   >ユーザーの開始がサインアップしたら、必ず[にアプリに戻って、懸賞の勝者](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)を選択してください。
