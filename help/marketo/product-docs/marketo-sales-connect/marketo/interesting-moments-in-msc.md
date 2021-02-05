@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: MSC - Marketto Docs — 製品ドキュメントの興味深い瞬間
 title: MSCでの興味深い瞬間
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 興味深い瞬間は、Marketo Sales Connectを通じてセールスチームと連絡を取る上で重要です。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >これらは、[Marketo Sales Insight](http://docs.marketo.com/x/2Akt)およびMarketo Sales Connectのお客様のみが利用できます。
 
