@@ -3,7 +3,7 @@ unique-page-id: 2359665
 description: Set Stream Cadence - Marketto Docs - Product Documentation
 title: ストリームカデンスを設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. エンゲージメントプログラムを探して選択し、「**Streams **」タブをクリックして、「**ストリームカデンスを設定**」をクリックします。
+1. エンゲージメントプログラムを探して選択し、「**Streams**」タブをクリックして、「**Set Stream Cadence**」をクリックします。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. カデンスを繰り返す頻度を選択します。 「**週別**」または「**月別**」を選択できます。
+1. カデンスを繰り返す頻度を選択します。 **週単位**&#x200B;または&#x200B;**月単位**&#x200B;を選択できます。
 
 ## 週単位{#weekly}
 
@@ -51,9 +51,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**繰り返しを選択すると、毎日カデンスを実行するように設定できます。毎週** /**毎：1週** /** ****オン**:何日も。
+   >**繰り返しを選択すると、毎日カデンスを実行するように設定できます。毎週** / **間隔：1週間** / ****:何日も。
 
-   次に、時間を選択します。 [受信者タイムゾーン](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（つまり、ローカルタイムゾーンに従って配信）を使用する場合は、このチェックボックスをオンにし、「保存」をクリックします。
+   次に、時間を選択します。 [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（つまり、ローカルタイムゾーンに従って配信）を使用する場合は、このチェックボックスをオンにし、[**保存**]をクリックします。
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -72,7 +73,7 @@ ht-degree: 0%
 
 ## 毎月{#monthly}
 
-1. 繰り返しの頻度には「**月**」を選択します。
+1. **「月別**」を選択して、繰り返しの頻度を指定します。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -108,10 +109,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンについて](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
