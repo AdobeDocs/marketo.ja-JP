@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: キャンペーン電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: キャンペーン電子メールのパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ ht-degree: 0%
    >
    >一般的に、私たちは常識を使って統計を記録しようとします。 例えば、電子メール内のリンクをクリックした訪問者は、明らかに最初にリンクを開いています。 従う特定のルールについては、[電子メールパフォーマンスレポート](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)を参照してください。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
