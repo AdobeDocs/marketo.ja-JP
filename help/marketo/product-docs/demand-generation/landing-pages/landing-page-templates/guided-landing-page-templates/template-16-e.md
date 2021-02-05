@@ -3,9 +3,9 @@ unique-page-id: 9437846
 description: テンプレート16-E - Marketto Docs — 製品ドキュメント
 title: テンプレート16-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート16-E {#template-e}
 
-右クリックして[テンプレート16-E](http://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)をダウンロード
+[テンプレート16-Eのダウンロード](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 6つのボディセクション（オプション）
 * フッター（オプション）
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template16-E.html](http://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
+[Template16-E.html](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
