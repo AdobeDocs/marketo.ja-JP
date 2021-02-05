@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Salesforce1 - Marketto Docs — 製品ドキュメントでのMarketo Sales Insightのインストールと設定
 title: Marketor Sales InsightのSalesforce1でのインストールと設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Professionalをお持ちの場合：
 
 フィー！ Marketo Sales Insight for Salesforce1のインストールが完了しました。 後ろを軽く叩いてみなさい。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Salesforceのベストベット1](best-bets-in-salesforce1.md)
 >* [Salesforce1の興味深い瞬間](interesting-moments-in-salesforce1.md)
