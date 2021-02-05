@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Salesforce Classic - Marketto Docs — 製品ドキュメントでのバルクアクションの使用
 title: Salesforce Classicでのバルクアクションの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「**次へ**」をクリックし、一般的なキャンペーン・フローを実行して、MSCキャンペーンをトリガーします。
+1. 「追加キャンペーンに登録したユーザー」ポップアップが表示されます。 「**次へ**」をクリックし、通常のキャンペーンフローを実行して、MSCキャンペーンをトリガーします。
 
    ![](assets/six.png)
 
@@ -79,9 +79,7 @@ ht-degree: 0%
 >
 >同じ手順に従って、連絡先リスト表示でバルクアクションを使用することもできます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [グループ電子メールを使用した電子メールの送信](http://docs.marketo.com/x/KAQ6Ag)
 >* [選択と送信を使用したバルク電子メールの構成](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
