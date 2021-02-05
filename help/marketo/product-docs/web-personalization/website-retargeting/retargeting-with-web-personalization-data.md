@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Webパーソナライゼーションデータを使用したリターゲティング — Marketto Docs — 製品ドキュメント
 title: Webパーソナライゼーションデータを使用した再ターゲティング
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Webパーソナライゼーションデータを使用した再ターゲティング{#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >Webサイトの再ターゲティングが、Webパーソナライゼーションタイルの下に表示されるようになりました。 リターゲティングのみを購入した場合は、このタイルが表示され、**のみ**&#x200B;のリターゲティング機能が有効なWebパーソナライゼーション製品にアクセスできます。 これにより、アカウント設定、再ターゲティングページ、セグメントおよび追加のトラッキングページにアクセスできます。
 
