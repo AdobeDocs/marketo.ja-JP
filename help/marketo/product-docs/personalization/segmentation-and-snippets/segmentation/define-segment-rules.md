@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: セグメントルールの定義 — Marketto Docs — 製品ドキュメント
 title: セグメントルールの定義
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 >
 >人（下書き）画面には、会員資格を持つすべての人が表示され、必ずしも人の最終リストとは限りません。 セグメントを承認して、最終リストを確認します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [セグメントの承認](approve-a-segmentation.md)
 
