@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Outlook用電子メールインを使用した電子メールの送信と追跡 — Marketto Docs 追加製品ドキュメント
 title: Outlook用電子メールインを使用した電子メールの追加送信と追跡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
 簡単だ！ この電子メールは販売員のOutlookから送信されたものでも、Marketoでは追跡されます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Marketorのリードからの受信メールのログ](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
