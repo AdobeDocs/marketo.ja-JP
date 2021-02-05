@@ -3,9 +3,9 @@ unique-page-id: 2359652
 description: エンゲージメントプログラムの作成 — Marketto Docs — 製品ドキュメント
 title: エンゲージメントプログラムの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,23 @@ ht-degree: 0%
 Marketingのエンゲージメントプログラムを使用すると、電子メールの育成を簡単に行うことができます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. エンゲージメントプログラムーを作成するフォルダーを選択し、「**新規**」および「**新規プログラム**」をクリックします。
-1. ![](assets/newprogramlifecycle.jpg)
+
+   ![](assets/newprogramlifecycle.jpg)
 
 1. 「**名前**」を入力し、「**プログラムタイプ**」に「**アクション**」を選択して、「**作成**」をクリックします。
-1. ![](assets/image2014-9-15-15-3a35-3a32.png)
+
+   ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. よし、婚約プログラムができたら、前に進んで着替えよう。
-1. ![](assets/image2014-9-15-15-3a35-3a38.png)
 
-1. 育成キャンペーンの作成と実行に関するビデオをご覧ください
-   `<iframe width="630" height="470" src="//play.vidyard.com/ZMzANBfrz2vBKnajiDeDQs.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+   ![](assets/image2014-9-15-15-3a35-3a38.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
-   >
-   >    
-   >    
-   >    * [ストリ追加ームのコンテンツ](add-content-to-a-stream.md)
-   >    * [ストリームカデンスを設定](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-
+   >* [ストリ追加ームのコンテンツ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+   >* [ストリームカデンスを設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
