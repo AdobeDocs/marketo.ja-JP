@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: スマートリストを使用したオーディエンスの定義 — Marketto Docs — 製品ドキュメント
 title: スマートリストを使用したオーディエンスの定義
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ ht-degree: 0%
 >
 >オーディエンスタイルの![—](assets/image2014-10-23-16-3a32-3a36.png)ボタンを使用して、電子メールを受信する人数を確認します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [既存の電子メールの選択](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
