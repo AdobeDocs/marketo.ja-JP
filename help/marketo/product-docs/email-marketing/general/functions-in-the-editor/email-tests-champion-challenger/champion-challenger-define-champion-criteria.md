@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger - Define Champion Criteria - Marketto Docs - Product Documentation
 title: チャンピオン/対抗 — チャンピオン条件の定義
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >これにより、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして設定できます。
+   >これにより、トリガーとフィルターを使用して、すべてのイベントをコンバージョンとして設定できます。
 
-1. ウィンドウがポップアップします。選択したトリガーを見つけて、キャンバスにドラッグします。
+1. ウィンドウがポップアップします。選択したトリガーを見つけ、キャンバスにドラッグします。
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketoは、この電子メールプログラムから電子メールを送信した人に対するトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
+   Marketorは、この電子メールプログラムから電子メールを送信した人のトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
 
 1. 「**閉じる**」をクリックします。
 
@@ -61,9 +61,8 @@ ht-degree: 0%
 
    素晴らしい！ 次に、レポートのスケジュールを設定します。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
