@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: プログラム分析を示す電子メール情報レポートの作成 — Marketto Docs — 製品ドキュメント
 title: プログラム情報を表示する電子メール分析レポートの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 プログラムチャネルごとにグループ化された電子メール分析を表示する電子メール情報レポートを作成するには、次の手順に従います。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
