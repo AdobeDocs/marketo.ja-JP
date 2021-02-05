@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 売上高ステージ別人物レポート — Marketto Docs — 製品ドキュメント
 title: 売上高ステージ別人物レポート
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 従業員が属する[売上高サイクルモデル](http://docs.marketo.com/display/docs/revenue+cycle+models)のどの段階かを示すレポートを作成できます。 レポートには、指定した日付範囲に対する個人のバランスがある限り、指定したモデルの任意のステージが含まれます。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能は、Marketoのすべてのエディションに適用されるわけではありません。 詳しくは、アカウントマネージャーにお問い合わせください。
 
