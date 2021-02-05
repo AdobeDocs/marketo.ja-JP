@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connectの使用の手引き — Marketto Docs — 製品ドキュメント
 title: Sales Connectの使い始めに
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 これらの手順を読むよりも見たい場合は、](#video)の下の[ビデオの手順に進んでください。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >この機能を購入していないお客様もいます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
