@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: リリースノート — 19年8月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年8月
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 * **オンボーディング：** ステップバイステップのチュートリアルにより、新しいユーザをインスタンスのセットアップから導くことで、オンボーディングを簡単に、より効率的に行うことができます。
 * **人物ページレイアウトの強化：新しい人物ページレイアウトのリストインポートとバルクアクションを使用して、人物およびグループを** 管理します。
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**可用性**
 >
 >星印(![(star)](assets/star-yellow.svg))で示される特徴は有料のアドオンです。 詳しくは、マーケティング担当者にお問い合わせください。
 
