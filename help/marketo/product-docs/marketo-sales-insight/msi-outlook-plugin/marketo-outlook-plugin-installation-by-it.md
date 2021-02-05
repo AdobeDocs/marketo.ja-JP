@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT部門別Marketto Outlookプラグインのインストール — Marketto Docs — 製品ドキュメント
 title: IT部門によるMarketo Outlookプラグインのインストール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoftのスイッチの完全なリスト](https://support.microsoft.com/en-us/kb/227091)を参照してください。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[IT部門によるMarketo Outlookプラグインのアンインストール](marketo-outlook-plugin-uninstall-by-it.md)
 
