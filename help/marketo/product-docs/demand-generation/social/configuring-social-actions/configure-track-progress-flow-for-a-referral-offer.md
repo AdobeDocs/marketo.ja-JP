@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: 照会オファーの進捗フローの追跡の設定 — Marketto Docs — 製品ドキュメント
 title: 照会オファーの進捗フローの追跡の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リファラルオファーの進捗フローの追跡の設定{#configure-track-progress-flow-for-a-referral-offer}
 
-[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成するとき、参加者に報酬に向けての進捗状況を示すプロンプトを設定できます。
+[参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成するとき、参加者に報酬に向けての進捗状況を示すプロンプトを設定できます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. **表示** **&amp;** **編集**&#x200B;ウィンドウで、参加者がオファーのサインアップに使用したのと同じソーシャルネットワークにサインインするよう促すプロンプトを編集します。
+1. **表示と編集**&#x200B;ウィンドウで、参加者がオファーのサインアップに使用したのと同じソーシャルネットワークにサインインするよう促すプロンプトを編集します。
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->次に、**完了/承認/**&#x200B;をクリックし、[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)を公開します。
-
+>次に、**完了**/**承認して**&#x200B;を閉じ、[参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)を発行します。
