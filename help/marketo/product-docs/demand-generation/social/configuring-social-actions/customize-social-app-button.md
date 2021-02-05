@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: ソーシャルアプリのカスタマイズボタン — Marketto Docs — 製品ドキュメント
 title: Socialアプリのカスタマイズボタン
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Socialアプリのカスタマイズボタン{#customize-social-app-button}
 
-[ソーシャルボタン](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)または[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成する場合、ボタンの外観をカスタマイズできます。
+[ソーシャルボタン](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)または[参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成する場合、ボタンの外観をカスタマイズできます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->ソーシャルボタンの場合は、[](configure-when-social-button-opens.md)を開いたときに設定します。 参照オファーの場合、[オファー目標](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)を指定します。
-
+>ソーシャルボタンの場合は、[](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)を開いたときに設定します。 参照オファーの場合、[オファー目標](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)を指定します。
