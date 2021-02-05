@@ -3,7 +3,7 @@ unique-page-id: 2359821
 description: ソーシャルシェア要件の設定 — Marketto Docs — 製品ドキュメント
 title: ソーシャルシェアの要件を設定
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ソーシャルシェア要件の設定{#set-social-share-requirement}
 
-[参照オファー](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成するとき、登録を行うためにオファーを共有するようにユーザーに求めるか、任意に設定することができます。
+[参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成するとき、登録を行うためにオファーを共有するようにユーザーに求めるか、任意に設定することができます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -31,10 +31,9 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-   * **人物獲得/共有**:ユーザーは共有をスキップしてサインアップすることができます。
-   * **共有/人物キャプチャ**:入会するには、ユーザーが共有する必要があります。
+   * **人物キャプチャ** / **共有**:ユーザーは共有をスキップしてサインアップすることができます。
+   * **共有** / **人物捕捉**:入会するには、ユーザーが共有する必要があります。
 
 1. 各オプションについては、**表示と編集**&#x200B;ウィンドウのプレビューを参照してください。
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
-
