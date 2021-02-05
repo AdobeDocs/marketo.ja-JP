@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: 照会オファーの作成 — Marketto Docs — 製品ドキュメント
 title: 照会オファーの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 照会オファーは、人々に友達を照会するインセンティブを与えます。 照会を成功させるための目標と報酬を作成します。 ランディングページやWebサイト、さらにはFacebookにも投稿できます。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-1. プログラムー内で、**新規**/**新しいローカルアセットを選択します。**
+1. プログラムー内で、**新規**/**新規ローカルアセット**&#x200B;を選択します。
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
@@ -39,27 +37,27 @@ ht-degree: 0%
 
    参照オファーエディターが新しいウィンドウで開きます。 デフォルト設定は問題ありませんが、オファーのルール（利用条件）へのリンクを追加する必要があります。 共有メッセージ画面の下部にリンクが表示されます。 次の手順を説明します。
 
-1. [**アドバンスオプション]をクリックします。**
+1. 「**アドバンスオプション**」をクリックします。
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. オファー追加のルールへのリンク。 **URLを入力してください。**
+1. オファー追加のルールへのリンク。 **URL**&#x200B;を入力します。
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >この画面で、プライバシーポリシーリンクを追加することもできます。 「[Socialアプリに対するプライバシーポリシー追加](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)」を参照してください。
+   >この画面で、プライバシーポリシーリンクを追加することもできます。 「[Socialアプリに対するプライバシーポリシー追加](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)」を参照してください。
 
-1. 「**完了」をクリックします。**
+1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. 「**承認** **および** **閉じる**」をクリックします。
+1. 「**承認して**&#x200B;を閉じる」をクリックします。
 
    >[!TIP]
    >
-   >参照オファーのデフォルト値を変更するには、[**戻る**]をクリックします。 承認せずに後で作業を保存するには、[**閉じる]をクリックします。**
+   >参照オファーのデフォルト値を変更するには、[**戻る**]をクリックします。 承認せずに後で作業を保存するには、[**閉じる**]をクリックします。
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -67,13 +65,10 @@ ht-degree: 0%
 
 おめでとう！ 照会オファーを作成しました。
 
->[!MORELIKETHIS]
->
->次の手順は、参照オファー[をランディングページ、Webサイト、またはFacebookに](publish-a-referral-offer.md)公開することです。
-
 >[!NOTE]
->
->**ディープダイブ**
 >
 >デフォルトの設定、文字列、メッセージはすべて変更できます。
 
+>[!MORELIKETHIS]
+>
+>次の手順は、参照オファー[をランディングページ、Webサイト、またはFacebookに](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)公開することです。
