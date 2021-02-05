@@ -3,9 +3,9 @@ unique-page-id: 9437556
 description: テンプレート11-A - Marketto Docs — 製品ドキュメント
 title: テンプレート11-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # テンプレート11-A {#template-a}
 
-右クリックして[テンプレート11-A](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)をダウンロード
+[テンプレート11-Aのダウンロード](https://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 4つのボディセクション（オプション）
 * フッター（オプション）
 
-以下を右クリックして、このテンプレートをダウンロードしてください。
+**以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template11-A.html](http://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
+[Template11-A.html](https://docs.marketo.com/download/attachments/9437556/template-11a.html?version=1&amp;modificationdate=1438211253000&amp;api=v2)
