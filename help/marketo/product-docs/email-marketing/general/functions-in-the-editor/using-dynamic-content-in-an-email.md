@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 電子メール — Marketto Docs — 製品ドキュメントでの動的コンテンツの使用
 title: 電子メールでの動的コンテンツの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 甘い！ これで、ターゲットオーディエンスに柔軟な電子メールを送信できます。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [動的コンテンツを使用した電子メールのプレビュー](preview-an-email-with-dynamic-content.md)
 >* [ランディングページでの動的コンテンツの使用](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
