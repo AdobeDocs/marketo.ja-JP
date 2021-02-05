@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 電子メールプログラム向けの主要開始- Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムのヘッド開始
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 
 [受信者のタイムゾーンを使用して電子メールプログラムをスケジュールする方法につ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) いて詳しく説明します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [電子メールプログラムのスケジュール](schedule-your-email-program.md)
 >* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
