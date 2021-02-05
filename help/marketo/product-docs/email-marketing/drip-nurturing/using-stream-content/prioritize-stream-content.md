@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: ストリームコンテンツの優先順位付け — Marketto Docs — 製品ドキュメント
 title: ストリームコンテンツの優先順位付け
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >キャスト時に、優先度は常に上から下に読み取られます。
 
    簡単だ！ これで、ストリームコンテンツの優先順位の決定方法がわかります。
-
