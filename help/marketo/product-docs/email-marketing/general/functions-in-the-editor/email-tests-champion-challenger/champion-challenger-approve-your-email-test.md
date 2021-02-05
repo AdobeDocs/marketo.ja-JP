@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger — 電子メールテストの承認 — Marketto Docs — 製品ドキュメント
 title: Champion/Challenger — 電子メールテストの承認
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ ht-degree: 0%
 
    そんな簡単じゃなかった？ いくつかのレポートを受け取ったら、チャンピオンを宣言します。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**関連記事**
    >
    >    
    >    
