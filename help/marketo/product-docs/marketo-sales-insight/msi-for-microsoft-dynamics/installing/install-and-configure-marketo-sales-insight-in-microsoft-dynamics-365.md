@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Microsoft Dynamics 365 - Marketto Docs — 製品ドキュメントで、Marketto Sales Insightのインストールと設定を行います
 title: Microsoft Dynamics 365でのMarketo Sales Insightのインストールと構成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -144,8 +144,6 @@ Sales Insightを使用する権限をユーザーに付与する必要があり�
 
 これで、Marketo Sales Insightのセールスチームの機能がロック解除されました。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >[リード/接触レコードの星と炎の設定](http://docs.marketo.com/x/BICMAg)
