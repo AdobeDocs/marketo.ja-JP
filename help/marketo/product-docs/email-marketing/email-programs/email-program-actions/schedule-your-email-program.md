@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: 電子メールプログラムのスケジュール設定 — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムのスケジュール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
    簡単だった？ 残りの唯一の方法は、[電子メールプログラム](approve-unapprove-an-email-program.md)を承認することです。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [電子メールプログラムのヘッド開始](head-start-for-email-programs.md)
