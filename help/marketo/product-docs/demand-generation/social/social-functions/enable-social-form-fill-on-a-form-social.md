@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: フォームに対するソーシャルフォームの入力を有効にする（ソーシャル） - Marketto Docs — 製品ドキュメント
 title: フォームに対するソーシャルフォームの入力を有効にする(Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 訪問者がソーシャルネットワークを使用してフォームに入力できるようにします。 追加のデータが自動的に取得され、より迅速なエクスペリエンスが得られます。 これが方法です。
 
->[!NOTE]
->
->**可用性**
+>[!AVAILABILITY]
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >人々がソーシャルボタンを使用する場合に、[Marketorが捕捉するデータ](manage-social-profile-data.md)を見てみましょう。
+   >人々がソーシャルボタンを使用する場合に、[Marketorが捕捉するデータ](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)を見てみましょう。
 
 1. 「**完了**」をクリックします。
 
