@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 登録コード — Marketto Docs — 製品ドキュメントを使用したOutlook用Marketto電子メール追加インのインストール
 title: 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
 「Marketor Message」アクションと「Log With Marketo」アクションの使用について詳しく説明します。
 
->[!NOTE]
->
->**関連記事**
+>[!MORELIKETHIS]
 >
 >* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketorテンプレートを使用したOutlookからの送信と追跡](send-and-track-from-outlook-using-a-marketo-template.md)
