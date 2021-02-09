@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: A/Bテストの勝者条件の定義 — Marketto Docs — 製品ドキュメント
 title: A/Bテストの推奨結果条件の定義
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # A/Bテストの推奨結果条件の定義{#define-the-a-b-test-winner-criteria}
 
-[電子メールプログラムにA/Bテスト](add-an-a-b-test.md)を追加する場合、テストタイプを[選択し、A/Bテスト](schedule-the-a-b-test.md)をスケジュールしてから、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
+[電子メールプログラムにA/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加する場合、テストタイプを[選択し、A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)をスケジュールしてから、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
 
 >[!PREREQUISITES]
 >
->* [A追加/Bテスト](add-an-a-b-test.md)
-
->
-
-
+>[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 ## 勝者条件{#winner-criteria}
 
@@ -33,37 +29,34 @@ ht-degree: 0%
    |---|---|
    | **クリック数** | デフォルトでは、電子メール内のリンクにトラッキングが埋め込まれており、電子メール内のリンクは、誰がどのリンクをクリックしたか、合計クリックされた数などを確認できます。 |
    | **クリックして開く%** | 電子メール内で開かれ、リンクがクリックされた電子メールの割合。 ここでは、個別クリック数を個別オープン数で割った値を100に乗算して割合として表示することで、電子メールの関連性とコンテキストを測定します。 |
-   | **エンゲージメントスコア** | [エンゲージメントスコア](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score)は、コンテンツの効果を判断するのに役立ちます。 |
+   | **エンゲージメントスコア** | [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)は、コンテンツの効果を判断するのに役立ちます。 |
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは24時間以上実行する必要があります。 [エンゲージメントスコア](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の理解についての詳細。
+   >「エンゲージメントスコア」を選択した場合、テストは24時間以上実行する必要があります。 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の理解についての詳細。
 
-   また、「カスタムコンバージョン」を選択して「編集」をクリックすると、条件をカスタマイズできます。
+1. また、「カスタムコンバージョン」を選択して「編集」をクリックすると、条件をカスタマイズできます。
+
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
    >[!NOTE]
    >
-   >カスタムコンバージョンを使用すると、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして選択できます。
+   >カスタムコンバージョンでは、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして選択できます。
 
-   窓がポッと開く。 選択したトリガーを探し、キャンバスにドラッグします。
+1. 窓がポッと開く。 選択したトリガーを探し、キャンバスにドラッグします。
+
    ![](assets/image2014-9-12-15-3a52-3a18.png)
 
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)についての詳細。
+1. トリガーを定義します。
 
-   トリガーを定義します。
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
    >[!NOTE]
    >
-   >Marketorは、この電子メールプログラムから電子メールを送信した人に対するトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
+   >Marketorは、この電子メールプログラムから電子メールを送信した人のトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
 
-   「閉じる」をクリックします。
+1. 「**閉じる**」をクリックします。
+
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
    素晴らしい！ 次に、勝者の決定方法を決定する時間です。
@@ -75,9 +68,6 @@ ht-degree: 0%
    ![](assets/image2014-9-12-15-3a53-3a44.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >**日付/時間** A/Bテストを行う場合は、**手動**&#x200B;のみ選択できます。
 
@@ -91,6 +81,4 @@ ht-degree: 0%
    >
    >「**手動**」を選択すると、テストが送信され、推奨結果が宣言されるのを待ちます。 結果のレポートを受け取ります。
 
-   [A/Bテストのスケジュールを設定する](schedule-the-a-b-test.md)
-
-完璧！ では、
+完璧！ 次に、[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)のスケジュールを設定します。
