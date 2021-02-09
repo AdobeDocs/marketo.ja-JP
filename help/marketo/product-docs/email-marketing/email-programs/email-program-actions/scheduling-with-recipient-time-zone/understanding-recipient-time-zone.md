@@ -3,7 +3,7 @@ unique-page-id: 12983291
 description: 受信者のタイムゾーンについて — Marketto Docs — 製品ドキュメント
 title: 受信者のタイムゾーンについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 電子メールプログラム{#email-programs}
 
-[電子メールプログラム](schedule-email-programs-with-recipient-time-zone.md)をスケジュールする場合、主に次の2つのシナリオが考えられます。
+[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)をスケジュールする場合、主に次の2つのシナリオが考えられます。
 
 1. 次の25時間以内にプログラムを実行するようにスケジュールします。
 1. プログラムを25時間以上（翌週など）実行するようにスケジュールする。
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 ## アクションプログラム{#engagement-programs}
 
-[エンゲージメントプログラムストリーム](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を&lt;a0/>スケジュールし、受信者タイムゾーンがアクティブな場合、プログラムキャストはUTC +14:00で実行される開始です。 世界中のすべてのタイムゾーンでキャストの資格を得られる可能性があるので、少なくとも25時間(キャンペーンを開始するには24時間+一定時間)後に最初のキャストをスケジュールする必要があります。 この時刻にUTC +14:00で処理を開始すると、このキャストに該当するすべての人に対して、予定された日時に電子メールが配信されます。
+[エンゲージメントプログラムストリーム](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)をスケジュールし、受信者タイムゾーンがアクティブな場合、プログラムキャストはUTC +14:00で実行される開始です。 世界中のすべてのタイムゾーンでキャストの資格を得られる可能性があるので、少なくとも25時間(キャンペーンを開始するには24時間+一定時間)後に最初のキャストをスケジュールする必要があります。 この時刻にUTC +14:00で処理を開始すると、このキャストに該当するすべての人に対して、予定された日時に電子メールが配信されます。
 
 ## タイムゾーンの計算{#calculating-time-zone}
 
 Marketorは、人の市区町村、都道府県、国または郵便番号に基づいてタイムゾーンを計算します。 これらの値から誰かのタイムゾーンを計算できない場合は、推定市区町村、推定国、推定郵便番号の各フィールドに戻します。
 
-**のみ**Countryまたは&#x200B;**のみ**&#x200B;の州が使用可能な場合：
+**唯一**&#x200B;国または&#x200B;**のみ**&#x200B;の州が使用可能な場合：
 
 * タイムゾーンが3つ以下の国の場合は、中間タイムゾーンを選択します。
 * 2つのタイムゾーンを持つ州の場合は、2つのタイムゾーンのうち、前の方を選択します。
@@ -49,14 +49,10 @@ Marketorは、人の市区町村、都道府県、国または郵便番号に基
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](schedule-email-programs-with-recipient-time-zone.md)
->* [電子メールプログラムのヘッド開始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [電子メールプログラムのヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
    >
    >
-* [受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+* [受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
