@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 受信者のタイムゾーンでの電子メールプログラムのスケジュール — Marketto Docs — 製品ドキュメント
 title: 受信者のタイムゾーンでの電子メールプログラムのスケジュール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 受信者タイムゾーンが有効な場合に電子メールプログラムをスケジュールすると、次の2つの状況が発生する可能性があります。
 
-1. ****&#x200B;から25時間以内に&lt;a0/>を実行するようにプログラムをスケジュールする
+1. ****&#x200B;から25時間以内にを実行するようにプログラムをスケジュールする
 1. プログラムを25時間以上&#x200B;****&#x200B;実行するようにスケジュールする（翌週など）
 
 ## シナリオ1:25時間以内{#scenario-within-hours}
@@ -37,15 +37,12 @@ ht-degree: 0%
 >* **次の日を受信者のタイムゾーンに配信します**。電子メールが火曜日の午前9時に発送される予定の場合、予定時刻が過ぎているタイムゾーンに住む資格を持つ人は、 ** 水曜日の午前9時に電子メールを受け取ります。
    >
    >
-* **プログラムのデフォルト設定時刻を使用して配信する**:電子メールが火曜日の午前9時に公開される予定の場合、予定時刻が既に過ぎているタイムゾーンに住む資格のある人は、購読のタイムゾーンの設定 *に基づいて電子メールを受け取ります*。したがって、[s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md) [サブスクリプションタイムゾーン設定](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)がPDTアメリカ/ロサンゼルスに設定されている場合、これらの受信者は火曜日の午前9時（PDTのタイムゾーンに何があっても）に電子メールを受け取ります。
-
->
-
+* **プログラムのデフォルト設定時刻を使用して配信する**:電子メールが火曜日の午前9時に公開される予定の場合、予定時刻が既に過ぎているタイムゾーンに住む資格のある人は、購読のタイムゾーンの設定 _に基づいて電子メールを受け取ります_。したがって、[購読のタイムゾーン設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)がPDT America/Los Angelesに設定されている場合、これらの受信者は火曜日の午前9時（PDTのタイムゾーンに何らかの時刻を含む）に電子メールを受信します。
 
 
 >[!NOTE]
 >
->[Marketoが受信者のタイムゾーンを計算する方法につ](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) いて詳しく説明します。
+>[Marketoが受信者のタイムゾーンを計算する方法につ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) いて詳しく説明します。
 
 このシナリオについて詳しく見てみましょう。 例えば、サンフランシスコにいる場合、午前7時に&#x200B;**9:00am**&#x200B;の送信用に電子メールをスケジュールします。 スマートリストには、次の地域のユーザーがいます。
 
@@ -68,15 +65,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->プログラムは15分後に電子メールを送信する&#x200B;*プロセス*&#x200B;を開始しますが、その時点では電子メールは&#x200B;*配信*&#x200B;されません。 受信者は、選択した&#x200B;**タイムゾーン設定**&#x200B;に基づいて電子メールを受信します。
+>プログラムは15分後に電子メールを送信する&#x200B;_プロセス_&#x200B;を開始しますが、その時点では電子メールは&#x200B;_配信_&#x200B;されません。 受信者は、選択した&#x200B;**タイムゾーン設定**&#x200B;に基づいて電子メールを受信します。
 
 ## シナリオ2:25時間以上{#scenario-more-than-hours}
 
 2つ目のシナリオでは、**受信者タイムゾーン**&#x200B;が有効になっていて、25時間以上の配信予定時刻を持つ電子メールプログラムを承認します。 この場合、プログラムは、世界の&#x200B;**最も早い**&#x200B;タイムゾーン(UTC + 14:00)で、予定された時刻に開始を実行します。 世界中のどのタイムゾーンでも、スマートリストの資格を持つ人がいる可能性があるので、最も早いタイムゾーンから、それぞれのタイムゾーンのすべての受信者に予定日時の電子メールを配信できます。
 
-ヘッド開始
+**ヘッド開始**
 
-次に、[ヘッド開始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)が&#x200B;**受信者タイムゾーン**&#x200B;とどのように連携するかを説明します。 既存のヘッド開始機能では、プログラムを少なくとも12時間前にスケジュールする必要があります。 受信者のタイムゾーンの意味は？ 受信者タイムゾーンが有効な場合、開始は最も早いタイムゾーン(UTC +14:00)でスケジュールされた時刻に電子メールプログラムを実行します。 したがって、**ヘッド開始と受信者タイムゾーンの両方**&#x200B;を有効にするには、電子メールプログラムをUTC +14:00でスケジュールされた時刻より少なくとも12時間早く&#x200B;**スケジュールする必要があります。**
+次に、[ヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)が&#x200B;**受信者タイムゾーン**&#x200B;とどのように連携するかを説明します。 既存のヘッド開始機能では、プログラムを少なくとも12時間前にスケジュールする必要があります。 受信者のタイムゾーンの意味は？ 受信者タイムゾーンが有効な場合、開始は最も早いタイムゾーン(UTC +14:00)でスケジュールされた時刻に電子メールプログラムを実行します。 したがって、**ヘッド開始と受信者タイムゾーンの両方**&#x200B;を有効にするには、電子メールプログラムをUTC +14:00でスケジュールされた時刻より少なくとも12時間早く&#x200B;**スケジュールする必要があります。**
 
 つまり、米国/ロサンゼルスにいて、ヘッド開始と受信者タイムゾーンの両方を有効にする場合は、事前にプログラム&#x200B;**34時間**&#x200B;をスケジュールする必要があります。 どうやってこの番号に着いた？
 
@@ -86,8 +83,8 @@ ht-degree: 0%
 
 つまり、受信者タイムゾーンでスケジュールされた電子メールプログラムは、すべてのタイムゾーンに対応するために、最も早いタイムゾーンのスケジュールされた時刻（午前0時が最初になるなど）に開始する必要があります。 メールプログラムをスケジュールする場合
 
-* **25時間 *以内に配信時間* が発生した場合**、プログラム開始は15分以内に動作します。予定時刻を既に過ぎている受信者は、選択したタイムゾーンの設定に基づいて電子メールを受信します。
-* **25時間 ** *を超える配信時間が未来にある場合***、プログラム開始は最も早いタイムゾーン(UTC +14:00)でスケジュールされた時刻に実行されます。
+* **25時間 _以内に配信時間_ が発生した場合**、プログラム開始は15分以内に動作します。予定時刻を既に過ぎている受信者は、選択したタイムゾーンの設定に基づいて電子メールを受信します。
+* **25時 _間_ 以上の配信時間を持つプログラム開始は**、最も早いタイムゾーン(UTC +14:00)でスケジュールされた時刻に実行されます。
 * **ヘッド開始を使用し**、プログラム開始は、最も早いタイムゾーン(UTC +14:00)で予定時刻より12時間前に処理を行います。
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンについて](understanding-recipient-time-zone.md)
->* [電子メールプログラムのヘッド開始](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [受信者のタイムゾーンでスケジュールされた電子メールプログラムの配信を中止](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [電子メールプログラムのヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [受信者のタイムゾーンでスケジュールされた電子メールプログラムの配信を中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
