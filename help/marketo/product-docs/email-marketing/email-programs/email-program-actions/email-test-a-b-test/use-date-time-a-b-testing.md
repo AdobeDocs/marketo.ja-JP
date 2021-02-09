@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: 「日付/時間」A/Bテスト — Marketto Docs — 製品ドキュメントの使用
 title: 「日付/時間」のA/Bテストを使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # 「日付/時刻」のA/Bテストを使用{#use-date-time-a-b-testing}
 
-電子メールのA/Bテストは簡単に行えます。 テストの1つは、**日付/時間**テストです。 このテストでは、電子メールを送信するのに最適な時間帯または曜日をテストします。 設定方法を次に示します。
+電子メールのA/Bテストは簡単に行えます。 1つは&#x200B;**日付/時刻**&#x200B;テストです。 このテストでは、電子メールを送信するのに最適な時間帯または曜日をテストします。 設定方法を次に示します。
 
 >[!PREREQUISITES]
 >
->* [A追加/Bテスト](add-an-a-b-test.md)
-
->
-
+>[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. 「**電子メール**」タイルの下の「**追加A/Bテスト**」をクリックします。
@@ -57,16 +54,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**サンプルサイズを100%に設定しないことをお勧めし**&#x200B;ます。静的なリストを使用している場合は、サンプルサイズを100%に設定すると、オーディエンス内の全員に電子メールが送信され、推奨結果は誰にも送信されません。 **smart**&#x200B;リストを使用している場合、サンプルサイズを100%に設定すると、*その時点でオーディエンス内の全員に電子メールが送信されます。 *電子メールプログラムが後日再び実行されると、スマートリストに振り分けられた新しい人も、オーディエンスに追加された後、電子メールを受け取ります。
+   >**サンプルサイズを100%に設定しないことをお勧めし**&#x200B;ます。静的なリストを使用している場合は、サンプルサイズを100%に設定すると、オーディエンス内の全員に電子メールが送信され、推奨結果は誰にも送信されません。 **smart**&#x200B;リストを使用している場合、サンプルサイズを100%に設定すると、その時点&#x200B;_でオーディエンス_&#x200B;内の全員に電子メールが送信されます。 電子メールプログラムが後日再び実行されると、スマートリストに振り分けられた新しいユーザーも、オーディエンスに追加された後で電子メールを受け取ります。
 
-   [A/Bテストの推奨結果条件の定義](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [A/Bテストの推奨結果条件の定義](define-the-a-b-test-winner-criteria.md)
-
-
-さて、我々は一歩近づいた。 では、
+   さて、我々は一歩近づいた。 次に、A/Bテストの推奨結果条件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)を[定義する必要があります。
