@@ -3,7 +3,7 @@ unique-page-id: 13795727
 description: 受信者タイムゾーンでスケジュールされた電子メールプログラムの配信の中止 — Marketto Docs — 製品ドキュメント
 title: 受信者のタイムゾーンでスケジュールされた電子メールプログラムの配信を中止
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -39,10 +39,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンについて](understanding-recipient-time-zone.md)
->* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](schedule-email-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
