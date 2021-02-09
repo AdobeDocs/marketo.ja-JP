@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: A/Bテストのスケジュール — Marketto Docs — 製品ドキュメント
 title: A/Bテストのスケジュール
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [A追加/Bテスト](add-an-a-b-test.md)
-
->
-
-
+>[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >日付/時間テストの場合は、テスト結果の概要を受け取ったときにのみ設定する必要があります。
 
-1. 「テストの送信」の日付を選択します。
+1. **テスト**&#x200B;の送信日を選択します。
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >テストバリアントは、テストグループのみが受け取ります。
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ ht-degree: 0%
    >勝者を手動で宣言する場合は、**メールを終了**&#x200B;日付/時刻の代わりに&#x200B;**レポート送信**&#x200B;日時を定義します。
 
    超！ 完了したら、概要を確認し、「Close（閉じる）」をクリックします。
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    **スケジュール**&#x200B;タイルが更新されました。
@@ -69,9 +63,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [電子メールプログラムの承認/未承認](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[電子メールプログラムの承認/未承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
