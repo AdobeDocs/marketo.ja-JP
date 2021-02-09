@@ -3,7 +3,7 @@ unique-page-id: 2953572
 description: 電子メールプログラムについて — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,10 +27,10 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 以下のA/Bテストについて説明します。
 
-* [「件名」A/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [「電子メール全体」のA/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [「送信者アドレス」 A/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [「日付/時刻」 A/Bテスト](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [「件名」A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [「電子メール全体」のA/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [「送信者アドレス」 A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [「日付/時刻」 A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -40,7 +40,9 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 >
 >プログラムの詳細なレポートダッシュボードが原因で、スマートキャンペーン経由で電子メールを送信するよりも電子メールプログラムを使用した方が望ましい場合があります。
 
-労を尽し給え。 ダッシュボードには、電子メールプログラムとA/Bテストのパフォーマンスが一目でわかります。   ![](assets/image2015-4-27-11-3a38-3a41.png)
+労を尽し給え。 ダッシュボードには、電子メールプログラムとA/Bテストのパフォーマンスが一目でわかります。
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -62,7 +64,7 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 >[!NOTE]
 >
->電子メールプログラムは、[エンゲージメントプログラム](../../../../getting-started/quick-wins/drip-drip-nurture.md)にネストできません。 また、再送信できず、一度に1つのテストしか実行できません。
+>電子メールプログラムは、[エンゲージメントプログラム](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)にネストできません。 また、再送信できず、一度に1つのテストしか実行できません。
 
 ## スケジュール設定{#schedule-settings}
 
@@ -70,14 +72,10 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムの作成](create-an-email-program.md)
+>* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
    >
    >
-* [スマートリストを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [電子メールプログラムのスケジュール](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
->
-
-
+* [スマートリストを使用したオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [電子メールプログラム用の電子メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
