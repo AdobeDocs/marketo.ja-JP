@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: 電子メールプログラム向けの主要開始- Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムのヘッド開始
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 電子メールプログラムの日付/時刻を選択すると、プログラムの処理を開始する日時が指定されます。 選択した時刻に電子メールを起動する場合は、ヘッド開始により、事前にプログラムを処理することでそのオプションが提供されます。
 
@@ -74,15 +70,11 @@ ht-degree: 0%
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[受信者のタイムゾーンを使用して電子メールプログラムをスケジュールする方法につ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) いて詳しく説明します。
+[受信者のタイムゾーンを使用して電子メールプログラムをスケジュールする方法につ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) いて詳しく説明します。
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムのスケジュール](schedule-your-email-program.md)
->* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [受信者のタイムゾーンについて](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
