@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: 電子メールプログラムの承認/未承認 — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムの承認/未承認
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [リストのインポートによる](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) オーディエンスの [定義によるスマートリスタを使用したオーディエンスの定義](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Listorを使用したオーディエンスの定義オーディエンスのインポートによるリストの [定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [既存の電子メ](choose-an-existing-email.md) ールの選択または電子メールプログラム用の電子メールの [作成](create-an-email-for-an-email-program.md)
+* [既存の電子メ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ールの選択または電子メールプログラム用の電子メールの [作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [電子メールプログラムのスケジュール](schedule-your-email-program.md)
-
->
-
+* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## 電子メールプログラムの承認{#approve-your-email-program}
