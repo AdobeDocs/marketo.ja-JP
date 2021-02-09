@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: 「送信者アドレス」のA/Bテスト — Marketto Docs — 製品ドキュメントを使用
 title: 「送信者アドレス」のA/Bテストを使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [A追加/Bテスト](add-an-a-b-test.md)
-
->
-
-
+>[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. **電子メール**&#x200B;タイルの下で、電子メールを選択した状態で、**追加A/Bテスト**&#x200B;をクリックします。
 
@@ -45,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**プラス記号**&#x200B;をクリックして、必要な数の送信元アドレスを追加できます。
+   >**+**&#x200B;をクリックして、必要な数だけFrom Addressesを追加できます。
 
 1. スライダを使用してA/Bテストに含めるオーディエンスの割合を選択し、**次へ**&#x200B;をクリックします。
 
@@ -57,15 +53,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**サンプルサイズを100%に設定しないことをお勧めし**&#x200B;ます。静的なリストを使用している場合は、サンプルサイズを100%に設定すると、オーディエンス内の全員に電子メールが送信され、推奨結果は誰にも送信されません。 **smart**&#x200B;リストを使用している場合、サンプルサイズを100%に設定すると、*その時点でオーディエンス内の全員に電子メールが送信されます。 *電子メールプログラムが後日再び実行されると、スマートリストに振り分けられた新しい人も、オーディエンスに追加された後、電子メールを受け取ります。
+   >**サンプルサイズを100%に設定しないことをお勧めし**&#x200B;ます。静的なリストを使用している場合は、サンプルサイズを100%に設定すると、オーディエンス内の全員に電子メールが送信され、推奨結果は誰にも送信されません。 **smart**&#x200B;リストを使用している場合、サンプルサイズを100%に設定すると、その時点&#x200B;_でオーディエンス_&#x200B;内の全員に電子メールが送信されます。 電子メールプログラムが後日再び実行されると、スマートリストに振り分けられた新しいユーザーも、オーディエンスに追加された後で電子メールを受け取ります。
 
-   もう少しで着く。 次に、A/Bテストの推奨結果条件](define-the-a-b-test-winner-criteria.md)を[定義する必要があります。
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [A/Bテストの推奨結果条件の定義](define-the-a-b-test-winner-criteria.md)
-
-
+   もう少しで着く。 次に、A/Bテストの推奨結果条件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)を[定義する必要があります。
