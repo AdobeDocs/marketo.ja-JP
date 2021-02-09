@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: 電子メールプログラムダッシュボード- A/Bテスト表示- Marketto Docs — 製品ドキュメントの使用
 title: 電子メールプログラムダッシュボードの使用 — A/Bテスト表示
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールプログラムダッシュボードの使用 — A/Bテスト表示{#use-the-email-program-dashboard-a-b-test-view}
 
-[電子メールプログラムA/Bテスト](http://docs.marketo.com/pages/viewpage.action?pageid=2359480)がこのダッシュボードでどのように実行されているか調べます。
+[電子メールプログラムA/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)がこのダッシュボードでどのように実行されているか調べます。
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムダッシュボードの使用](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[電子メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
