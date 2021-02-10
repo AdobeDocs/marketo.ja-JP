@@ -3,9 +3,9 @@ unique-page-id: 14352411
 description: 検証用の電子メールを受信しなかった — Marketto Docs — 製品ドキュメント
 title: 確認用の電子メールを受信しない
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 まず、スパムフォルダー内にないことを確認します。
 
-Eメールが届かない場合は、サポートにお問い合わせください。
+電子メールが見つからない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
