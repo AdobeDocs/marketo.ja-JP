@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: コンテンツのロックダウン — Marketto Docs — 製品ドキュメント
 title: コンテンツのロックダウン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 「Content Lockdown」まで下にスクロールします。 どちらかのスライダをオンにすると、チームメンバーがテンプレートやキャンペーンを作成/編集する機能を&#x200B;*無効*&#x200B;にします。
+1. 「Content Lockdown」まで下にスクロールします。 どちらかのスライダをオンにすると、チームメンバーがテンプレートやキャンペーンを作成/編集する機能を&#x200B;_無効_&#x200B;にします。
 
    ![](assets/three-4.png)
-
