@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: ユーザーアクセスの詳細 — Marketto Docs — 製品ドキュメント
 title: ユーザーアクセスの詳細
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 管理者ユーザー権限{#admin-user-permissions}
 
-管理者は、すべてのテンプレート[を&lt;a0/>表示できます。](http://docs.marketo.com/x/OYAXAQ)
+管理者は、すべてのテンプレート[を](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)表示できます。
 
 ![](assets/templates.jpg)
 
-管理者は[すべてのキャンペーン](http://docs.marketo.com/x/N4AXAQ)を表示できます。
+管理者は[すべてのキャンペーン](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)を表示できます。
 
 ![](assets/campaigns.jpg)
 
-管理者は、[すべての電子メールアクティビティ](http://docs.marketo.com/x/SYAXAQ)を表示できます。
+管理者は、すべての電子メールアクティビティを表示できます。
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ ht-degree: 0%
    * ユーザーは、管理者が
    * ユーザーがチームから削除されると、そのユーザーのテンプレートはそのチームと共有されなくなります
    * ユーザーがチームから削除されると、そのテンプレートは、そのユーザーを削除したマスター管理者に所有権を転送します
-
