@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: アラート情報トークンの送信{{SP_Send_Alert_Info}} - Marketto Docs — 製品ドキュメントの使用
 title: アラート情報トークンの送信の使用
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->このトークンは、[アラート](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)の送信フロー手順を含む電子メールを送信する場合にのみ意図したとおりに機能します。 「電子メールの送信」フローステップで使用する場合は機能しません。
+>このトークンは、[アラート](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)の送信フロー手順を含む電子メールを送信する場合にのみ意図したとおりに機能します。 「電子メールの送信」フローステップで使用する場合は機能しません。
 
-アラートの例：   ![](assets/image2014-9-25-15-3a17-3a58.png)
+アラートの例：
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->立て！ アラート内のURLには有効期限があるので、これらのタイプのメッセージをサポートするカデンスがあることを確認してください。 有効期限は管理者[が設定した&lt;a0/>日付です。](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+>立て！ アラート内のURLには有効期限があるので、これらのタイプのメッセージをサポートするカデンスがあることを確認してください。 有効期限は管理者[が設定した](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)日付です。
 
 `{{SP_Send_Alert_Info}}`には次の情報が含まれています。
 
@@ -59,8 +61,6 @@ ht-degree: 0%
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Reminder**
 >
 >メールを承認するのを忘れないでください。
 
