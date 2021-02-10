@@ -3,7 +3,7 @@ unique-page-id: 2359469
 description: 電子メールプログラムダッシュボードの表示- Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムダッシュボードの表示
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムダッシュボードの使用 — A/Bテスト表示](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [電子メールプログラムダッシュボードの使用](use-the-email-program-dashboard.md)
-
->
-
-
+>* [電子メールプログラムダッシュボードの使用 — A/Bテスト表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [電子メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
