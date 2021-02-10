@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: 電子メールエディタv2.0の概要 — Marketto Docs — 製品ドキュメント
 title: 電子メールエディタv2.0の概要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **電子メールテンプレート選択**
 
-新しい電子メールを作成すると、[電子メールテンプレートピッカー](email-template-picker-overview.md)に移動します。
+新しい電子メールを作成すると、[電子メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)に移動します。
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **モジュール**
 
-エディターの右側にあるものをモジュールと呼びます。 [電子メール](add-modules-to-your-email.md)にモジュールを追加する方法を説明します。
+エディターの右側にあるものをモジュールと呼びます。 [電子メール](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)にモジュールを追加する方法を説明します。
 
 ![](assets/three-4.png)
 
 **テキストバージョン**
 
-電子メールのHTMLバージョンとテキストバージョンを切り替えると、下部の便利なタブになりました。 [電子メール](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)のテキストバージョンを編集する方法を説明します。
+電子メールのHTMLバージョンとテキストバージョンを切り替えると、下部の便利なタブになりました。 [電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)のテキストバージョンを編集する方法を説明します。
 
 ![](assets/four-3.png)
 
 **電子メールヘッダー**
 
-デザインスペースを増やしますか？ 電子メールヘッダーは、[編集](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了した後は、非表示にできます。 このアイコンをクリックするだけです。
+デザインスペースを増やしますか？ 電子メールヘッダーは、[編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了した後は、非表示にできます。 このアイコンをクリックするだけです。
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ...しかし、モバイルデバイス上での見え方もわかります。 テキスト版もプレビューできます！ 右上の「**ドラフト**&#x200B;を編集」をクリックすると、編集を再開できます。
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **電子メールアクション**
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->** [Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**から画像をグラブする機能は、Design Studioと同じように動作します。
+>**[Design Studioと同様に、](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworksからイメージをグラブします。
 
 **「開いた** 追跡」を無効にする「 **電子メール設定**」で、必要に応じて開いた追跡を無効にできます。
 
@@ -103,15 +103,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**ディープダイブ**
->
 >さらに深く探したい場合は、[役立つビデオ](https://nation.marketo.com/videos/1463)をご覧ください。
 
 >[!MORELIKETHIS]
 >
->* [電子メールテンプレートの構文](email-template-syntax.md)
-
->
-
-
-
+>[電子メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
