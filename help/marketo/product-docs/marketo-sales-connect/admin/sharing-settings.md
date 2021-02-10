@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: 共有設定 — Marketto Docs — 製品ドキュメント
 title: 共有設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connectアカウントを初めて作成すると、共有設定が有効�
 
 ## 共有設定の構成{#configure-your-sharing-settings}
 
-1. [Webアプリケーション](http://toutapp.com/login)で、設定ページに移動します。
+1. [Webアプリケーション](https://toutapp.com/login)で、設定ページに移動します。
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Sales Connectアカウントを初めて作成すると、共有設定が有効�
 1. チームが追加されたので、チームの管理者のみがチームの共有を許可するか、またはそのチームのすべてのユーザーを共有するかを選択できます。 この例では、SDRチームのすべてのユーザーに共有アクセス権を与えました。
 
    ![](assets/eight-1.png)
-
