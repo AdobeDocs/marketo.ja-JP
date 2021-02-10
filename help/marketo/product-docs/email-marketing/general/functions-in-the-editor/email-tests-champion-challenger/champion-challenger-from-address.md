@@ -3,7 +3,7 @@ unique-page-id: 2359559
 description: Champion/Challenger — 送信元住所 — Markettoドキュメント — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 住所から
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Eメール追加チャンピオン/対抗者](add-an-email-champion-challenger.md)
+>[Eメール追加チャンピオン/対抗者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. 電子メールテストエディターで、「**Test Type **」ドロップダウンの「**From Address**」を選択します。
+1. 電子メールテストエディターで、**テストタイプ**&#x200B;ドロップダウンから&#x200B;**アドレス**&#x200B;からを選択します。
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -31,7 +27,7 @@ ht-degree: 0%
    >
    >最初の差出人住所は&#x200B;**チャンピオン**&#x200B;に指定されます。 住所から続く住所は、**挑戦者**&#x200B;と呼ばれます。
 
-1. 対抗の「名称：自」（左）と「住所：自」** **（右）を入力します。
+1. 対抗者の&#x200B;**自名** （左）と&#x200B;**自住所** （右）を入力します。
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,10 +43,9 @@ ht-degree: 0%
    >
    >**例**
    >
-   >
    >上に示した配分では、スマートリストで指定された合計オーディエンスの15%に対抗者の差出人住所を持つ電子メールの1つが届き、85%にチャンピオンの差出人住所を持つ電子メールが届きます。 複数の対抗者の電子メールの送信元アドレスは、15%を等しく共有します。 テストが終了したら、勝者を手動で宣言できます。 それ以降は、今後すべてのユーザーがパフォーマンスの高いコンテンツを受け取ります。
 
-   統計的信頼性を得るには、テストが有効であると見なす人数が十分に含まれる割合を選択する必要があります。 断定的な結果にだまされるな。  [統計的信頼性に関する情報が今まで以上に多い](http://en.wikipedia.org/wiki/Confidence_interval)。
+   統計的信頼性を得るには、テストが有効であると見なす人数が十分に含まれる割合を選択する必要があります。 断定的な結果にだまされるな。 [統計的信頼性に関する情報が今まで以上に多い](https://en.wikipedia.org/wiki/Confidence_interval)。
 
 1. 「**次へ**」をクリックします。
 
@@ -60,9 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [チャンピオン/チャレンジャー：チャンピオンの基準の定義](champion-challenger-define-champion-criteria.md)
-
-
+   >[チャンピオン/チャレンジャー：チャンピオンの基準の定義](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
