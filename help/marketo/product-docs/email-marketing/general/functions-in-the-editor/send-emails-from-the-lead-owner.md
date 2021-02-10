@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: リード所有者 — Marketto Docs — 製品ドキュメントからの電子メールの送信
 title: リード所有者からの電子メールの送信
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ ht-degree: 0%
    >
    >名前の最初のトークンと最後のトークンの間にスペースを追加したことを確認します。
 
-   「電子メールから」フィールドをクリックし（既存の電子メールアドレスを削除）、「トークンの挿入」ボタンをクリックします。
+1. 「電子メールから」フィールドをクリックし（既存の電子メールアドレスを削除）、「トークンの挿入」ボタンをクリックします。
+
    ![](assets/eight.png)
 
 1. 「`{{lead.Lead Owner`」と入力中に開始が発生し、**`{{lead.Lead Owner Email Address}}`**&#x200B;トークンを選択します。
@@ -61,4 +62,3 @@ ht-degree: 0%
 1. **返信先**&#x200B;と&#x200B;**件名**&#x200B;のフィールドに値が入力されていることを確認し、完了しました。
 
    ![](assets/eleven.png)
-
