@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: 動的コンテンツを含む電子メールのプレビュー- Marketto Docs — 製品ドキュメント
 title: 動的コンテンツを使用した電子メールのプレビュー
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-   「表示基準」ドロップダウンをクリックし、プレビューする動的コンテンツのタイプを選択します。
+1. 「表示基準」ドロップダウンをクリックし、プレビューする動的コンテンツのタイプを選択します。
+
    ![](assets/two-3.png)
 
 1. 新しいドロップダウンが表示されます。 クリックして、特定のコンテンツを選択します。
