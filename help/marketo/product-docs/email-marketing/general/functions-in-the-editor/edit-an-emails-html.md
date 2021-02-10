@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: 電子メールのHTMLの編集 — Marketto Docs — 製品ドキュメント
 title: 電子メールのHTMLの編集
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「検索コード」は、[電子メールテンプレートエディター](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)でも利用できます。
+   >「検索コード」は、[電子メールテンプレートエディター](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)でも利用できます。
 
 Marketoの組み込み機能を使用して電子メールの編集を継続することをお勧めしますが、必要に応じて柔軟に行うことができます。
