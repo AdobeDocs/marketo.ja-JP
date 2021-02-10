@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: リストのインポート — Marketto Docs -オーディエンスドキュメント
 title: リストのインポートによるオーディエンスの定義
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[電子メールプログラム用の電子メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-電子メールプログラムを作成したら、電子メールの送信先を指定します。 これを行うには、[スマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成するか、リストを読み込みます。 リストをインポートしてこれを実現する方法を次に示します。
+電子メールプログラムを作成したら、電子メールの送信先を指定します。 これを行うには、[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成するか、リストを読み込みます。 リストをインポートしてこれを実現する方法を次に示します。
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-   電子メールプログラムを選択し、オーディエンスタイルの下にある「リストを読み込み」をクリックします。
+1. 電子メールプログラムを選択し、オーディエンスタイルの下にある「リストを読み込み」をクリックします。
+
    ![](assets/importlist.png)
 
-1. リストの読み込みウィンドウが開き、「**参照**」をクリックして、読み込むファイルを選択します。 ユーザーのリストを選択したら、「次へ」をクリックします。
-1. ![](assets/importlist1.png)
+1. リストの読み込みウィンドウが開き、「**参照**」をクリックして、読み込むファイルを選択します。 ユーザーのリストを選択したら、[**次へ**]をクリックします。
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >リストがUTF-8、UTF-16、Shift-JISまたはEUC-JPでエンコードされており、ファイルサイズが50 MBを超えていないことを確認してください。
 
-   ファイル内のフィールドが正しくマッピングされていることを確認し、「Next」をクリックします。
+1. ファイル内のフィールドが正しくマップされていることを確認し、「**次へ**」をクリックします。
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [既存の電子メールの選択](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [既存の電子メールの選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [電子メールプログラム用の電子メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
