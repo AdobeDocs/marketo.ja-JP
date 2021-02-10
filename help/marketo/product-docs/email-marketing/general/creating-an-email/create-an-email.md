@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: 電子メールの作成 — Marketto Docs — 製品ドキュメント
 title: 電子メールの作成
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ Marketorで電子メールを作成する主な方法は2つあります。 二�
 
 >[!MORELIKETHIS]
 >
->[電子メールヘッダーの編集](edit-your-email-header.md)
+>[電子メールヘッダーの編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
