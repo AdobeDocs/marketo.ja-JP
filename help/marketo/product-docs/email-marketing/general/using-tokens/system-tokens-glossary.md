@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: システムトークン用語集 — Marketto Docs — 製品ドキュメント
 title: システムトークン用語集
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ personトークンに加えて、非常にクールなシステムトークン�
 
 **機能：**
 
-* [データ値の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
+* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
+* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
+* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
 * 電子メールまたはテンプレートの本文
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ personトークンに加えて、非常にクールなシステムトークン�
 
 **機能：**
 
-* [データ値の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
+* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
+* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
+* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
 * 電子メールまたはテンプレートの本文
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ personトークンに加えて、非常にクールなシステムトークン�
 
 **機能：**
 
-* [データ値の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
+* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
+* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
+* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
 * 電子メールまたはテンプレートの本文
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}`トークンを使用すると、電子メール](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)内の[&#39;Friend Linkに転送&#39;の配置を制御できます。
+`{{system.forwardToFriendLink}}`トークンを使用すると、電子メール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)内の[&#39;Friend Linkに転送&#39;の配置を制御できます。
 
 **機能：**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](add-a-system-token-as-a-link-in-an-email.md) 
+* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ personトークンに加えて、非常にクールなシステムトークン�
 
 **機能：**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](add-a-system-token-as-a-link-in-an-email.md) 
+* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ personトークンに加えて、非常にクールなシステムトークン�
 
 **次と連携します。**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](add-a-system-token-as-a-link-in-an-email.md) 
+* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
