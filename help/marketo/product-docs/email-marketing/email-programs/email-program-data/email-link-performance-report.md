@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 電子メールリンクのパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールリンクのパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 電子メールリンクのパフォーマンスレポートを作成して、電子メール内のリンクのパフォーマンスを確認します。
 
-1. [プ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、レポートタイプとして「 **電子メールリンク** のパフォーマンス」を選択します。
+1. [プ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、レポートタイプとして「 **電子メールリンク** のパフォーマンス」を選択します。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. レポートに適切な期間を設定します。 「**保存」をクリックします。 **
+1. レポートに適切な期間を設定します。 「**保存**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[電子メールリンクのパフォーマンスレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) に使用できる列は次のとおりです。
+[電子メールリンクのパフォーマンスレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) に使用できる列は次のとおりです。
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->個人が何をしたかを正確に知りたい場合は、プログラムの「アクティビティ」タブから、[個人の詳細](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ページの[メンバーログ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)を開きます。
+>個人が何をしたかを正確に知りたい場合は、プログラムの「アクティビティ」タブから、[個人の詳細](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ページの[メンバーログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)を開きます。
 
 >[!MORELIKETHIS]
 >
->* [電子メールパフォーマンスレポート](email-performance-report.md)
->* [電子メールレポートでのアセットのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**ディープダイブ**
->
->[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を表示します。
+>* [電子メールパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
