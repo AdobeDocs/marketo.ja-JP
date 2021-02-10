@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: 電子メール — Marketto Docs — 製品ドキュメントでの動的コンテンツの使用
 title: 電子メールでの動的コンテンツの使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [セグメントの作成](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[セグメントの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 電子メールの動的コンテンツを使用して、リードのターゲット設定情報を送信します。
 
@@ -39,9 +35,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >電子メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックし、「**動的に**」（または[スニペット](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)で置き換える）を選択します。
+   >電子メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックし、「**動的に**」（または[スニペット](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)で置き換える）を選択します。
 
-   セグメント名を入力し、選択して「保存」をクリックします。
+1. セグメント名を入力し、選択して、「**保存**」をクリックします。
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [動的コンテンツを使用した電子メールのプレビュー](preview-an-email-with-dynamic-content.md)
->* [ランディングページでの動的コンテンツの使用](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [動的コンテンツを使用した電子メールのプレビュー](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [ランディングページでの動的コンテンツの使用](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
