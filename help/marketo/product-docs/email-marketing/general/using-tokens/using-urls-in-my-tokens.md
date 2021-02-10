@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: マイトークン — Marketto Docs — 製品ドキュメントでのURLの使用
 title: マイトークンでのURLの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >電子メール内でクリックを確実に追跡するには、****&#x200B;ではなく&lt;a0/>、トークンの値内にhttp://と入力します。
+   >電子メール内でクリックを確実に追跡するには、****&#x200B;ではなく、トークンの値内にhttp://と入力します。
 
 1. プログラムーで電子メールを選択します。
 
@@ -72,4 +72,3 @@ ht-degree: 0%
    ![](assets/twelve.png)
 
    終わった！ URLは送信後に設定され、http://をトークンの前に置いたおかげで、トラッキング可能なリンクが生成されます。
-
