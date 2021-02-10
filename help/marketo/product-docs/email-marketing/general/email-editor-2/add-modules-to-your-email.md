@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 電子メ追加ールへのモジュール — Marketto Docs — 製品ドキュメント
 title: 電子メ追加ールへのモジュール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ほとんどのマーケティング担当者スターターテンプレートには、モジュールが含まれています。 [独自の](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)を作成することもできます。
+   >ほとんどのマーケティング担当者スターターテンプレートには、モジュールが含まれています。 [独自の](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)を作成することもできます。
 
 1. 電子メールの右端にある「**モジュール**」をクリックします。
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[電子メールテンプレートの構文](email-template-syntax.md)
-
+>[電子メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
