@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: 電子メールプログラムダッシュボードをExcelにエクスポート — Marketto Docs — 製品ドキュメント
 title: 電子メールプログラムダッシュボードをExcelにエクスポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >電子メールプログラムがまだ開始していない場合は、表示するデータがないので、ダッシュボードは表示されません。
 
 1. Excelアイコンをクリックすると、エクスポートが開始されます。
@@ -35,10 +32,3 @@ ht-degree: 0%
    ![](assets/lifecycle.jpg)
 
    簡単だろ？
-
->[!NOTE]
->
->**ディープダイブ**
->
->[電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)の詳細を知りたい場合
-
