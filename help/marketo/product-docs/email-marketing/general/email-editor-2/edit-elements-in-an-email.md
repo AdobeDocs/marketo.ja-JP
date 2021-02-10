@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: 電子メール内の要素の編集 — Marketto Docs — 製品ドキュメント
 title: 電子メール内の要素の編集
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >また、画像、トークン、表、その他の要素を追加することもできます。 「[リッチテキストエディターの使用](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)」を参照してください。
+   >また、画像、トークン、表、その他の要素を追加することもできます。 「[リッチテキストエディターの使用](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)」を参照してください。
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ ht-degree: 0%
    >
    >マーケティングトークンを使用する場合は、このオプションを使用します。 トークンを使用すると、プレビューはエディターで壊れて表示されますが、画像はエディターモードでレンダリングされ、サンプルを送信電子メールで表示されます。
 
-   **入れ替え** ![](assets/eight.png)
+   外部URLを使用するには、まず画像のURLに貼り付けます。 必要に応じて寸法を変更し、代替テキストをいくつか追加します（オプション）。 次に、**Swap**&#x200B;を押します。
+
+   ![](assets/eight.png)
 
    **マイコンピュータ**
 
@@ -90,14 +89,15 @@ ht-degree: 0%
    >
    >画像を置き換える場合は、「画像URL/名前」の下に表示される「**既存の画像を上書き**」ボックスをオンにする必要があります。
 
-   **Design** StudioDesign Studioからイメージを挿入するには、イメージを見つけるだけです。
+   **デザインスタジオ**
+
+   Design Studioからイメージを挿入するには、イメージを見つけるだけです。
 
    ![](assets/twelve.png)
 
-   **入れ替え**
-   ![](assets/thirteen.png)
+   ...挿入します。 必要に応じて寸法を変更し、代替テキストを変更して（オプション）、**入れ替え**&#x200B;キーを押します。
 
-外部URLを使用するには、まず画像のURLに貼り付けます。 必要に応じて寸法を変更し、代替テキストをいくつか追加します（オプション）。 次にを押します。               ...挿入します。 必要に応じて寸法を変更し、代替テキスト（オプション）を変更して、を押します。
+   ![](assets/thirteen.png)
 
 ## スニペット要素の編集方法{#how-to-edit-the-snippet-element}
 
