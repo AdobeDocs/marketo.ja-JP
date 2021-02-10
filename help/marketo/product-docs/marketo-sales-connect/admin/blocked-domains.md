@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: ブロックされたドメイン — Marketto Docs — 製品ドキュメント
 title: ブロックされたドメイン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 「管理設定」で、「**一般」をクリックします。**
+1. 「管理設定」で、「**一般**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[グループ電子メール](http://docs.marketo.com/x/KAQ6Ag)の送信に含まれる電子メールで、ブロックされた電子メールドメインに送信されたことが原因で失敗した電子メールは、通知なしで失敗し、失敗した電子メールフォルダーには表示されません。
-
+   >[グループ電子メール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)の送信に含まれる電子メールで、ブロックされた電子メールドメインに送信されたことが原因で失敗した電子メールは、通知なしで失敗し、失敗した電子メールフォルダーには表示されません。
