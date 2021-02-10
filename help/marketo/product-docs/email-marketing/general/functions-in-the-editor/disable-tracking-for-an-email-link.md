@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 電子メールリンクの追跡の無効化 — Marketto Docs — 製品ドキュメント
 title: 電子メールリンクの追跡の無効化
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 電子メール内のリンクで&#x200B;**マーケティング先の追跡URL**&#x200B;を有効にしたくない場合があります。 これは、リンク先ページがURLパラメーターをサポートしていないため、リンクが壊れる場合に役立ちます。
 
-1. 電子メールを選択し、「**編集** **ドラフト**」をクリックします。
+1. 電子メールを選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/one-7.png)
 
