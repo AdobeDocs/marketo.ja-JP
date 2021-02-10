@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: 電子メ追加ールへのWebページリンクとしての表示- Marketto Docs — 製品ドキュメント
 title: 電子メ追加ールへのWebページリンクとしての表示
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >電子メールを送信するまで、表示はWebページのリンクとして表示されません。 表示にテストを送信します。
 
-デフォルトのテキストを変更するには、[「表示をWebページとして編集」メッセージ](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)を参照してください。
+デフォルトのテキストを変更するには、[「表示をWebページとして編集」メッセージ](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)を参照してください。
