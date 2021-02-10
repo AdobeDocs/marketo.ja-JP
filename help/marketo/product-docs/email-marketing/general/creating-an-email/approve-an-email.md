@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: 電子メールの承認 — Marketto Docs — 製品ドキュメント
 title: 電子メールの承認
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ ht-degree: 0%
 
 1. 電子メールを探して選択し、**電子メールアクション**&#x200B;ドロップダウンをクリックして、**承認**&#x200B;を選択します。
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## ツリーで直接承認{#approve-it-directly-in-the-tree}
 
