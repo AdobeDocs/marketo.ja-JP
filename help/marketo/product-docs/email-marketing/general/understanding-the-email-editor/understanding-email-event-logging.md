@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: 電子メールイベントログについて — Marketto Docs — 製品ドキュメント
 title: 電子メールイベントログについて
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Marketorは、電子メールを送信する際に、ユーザーのアクティ
 >[!CAUTION]
 >
 >同じ電子メールが同じキャンペーンから2回同じ人に送信された場合、**Opened**&#x200B;イベントは最大1回ログに記録されます。
-
