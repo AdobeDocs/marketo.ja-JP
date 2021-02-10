@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connectの使用の手引き — Marketto Docs — 製品ドキュメント
 title: Sales Connectの使い始めに
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 これらの手順を読むよりも見たい場合は、](#video)の下の[ビデオの手順に進んでください。
 
 >[!AVAILABILITY]
->
 >
 >この機能を購入していないお客様もいます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
@@ -129,7 +128,3 @@ Marketo Sales ConnectをMarketo Sandboxを使用してテストしたいチー�
 >[!NOTE]
 >
 >同じ電子メールIDを持つSales Connectアカウントを複数のインスタンスにプロビジョニングすることはできません。 つまり、追加のSales Connectアカウントを持っていて、Marketo Sandboxインスタンスでテストを行う場合は、各アカウントで異なる電子メールIDを使用する必要があります。
-
-## ビデオ手順{#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
