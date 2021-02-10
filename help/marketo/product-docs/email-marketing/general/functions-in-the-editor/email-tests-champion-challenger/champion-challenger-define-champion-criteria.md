@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger - Define Champion Criteria - Marketto Docs - Product Documentation
 title: チャンピオン/対抗 — チャンピオン条件の定義
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Eメール追加チャンピオン/対抗者](add-an-email-champion-challenger.md)
-
->
-
-
+>[Eメール追加チャンピオン/対抗者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 標準的なチャンピオンの基準{#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ ht-degree: 0%
    >
    >この指標を追跡し、データを含むレポートを電子メールで送信します。
 
-1. デフォルトの&#x200B;**チャンピオン条件**&#x200B;の1つを選択した場合は、[チャンピオン/チャレンジャーに進みます。レポートアラートの設定](champion-challenger-configure-report-alerts.md)!
+1. デフォルトの&#x200B;**チャンピオン条件**&#x200B;の1つを選択した場合は、[チャンピオン/チャレンジャーに進みます。レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## カスタムチャンピオンの条件{#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [チャンピオン/チャレンジャー：レポートアラートの設定](champion-challenger-configure-report-alerts.md)
-
-
+   >[チャンピオン/チャレンジャー：レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
