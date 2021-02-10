@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: 電子メールテンプレート構文 — Marketto Docs — 製品ドキュメント
 title: 電子メールテンプレートの構文
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Marketingの新しい電子メール2.0エクスペリエンスでは、電子�
 
 ## リッチテキスト{#rich-text}
 
-地域をリッチテキストと定義すると、ユーザーは、マーケティング担当者のリッチテキストエディター](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツを[編集できます。 電子メールテンプレート内にリッチテキスト要素を定義する方法は2つあります。mktEditableとmktoText。 リッチテキスト要素は、電子メールエディター内から常にスニペットに変換できます。
+地域をリッチテキストと定義すると、ユーザーは、マーケティング担当者のリッチテキストエディター](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツを[編集できます。 電子メールテンプレート内にリッチテキスト要素を定義する方法は2つあります。mktEditableとmktoText。 リッチテキスト要素は、電子メールエディター内から常にスニペットに変換できます。
 
 ### オプション1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 編集可能な画像要素を定義するオプションは2つあります。 `<div>`(`<img>`を挿入するコンテナを指定)または`<img>`タグを使用できます。 エンドユーザーが（DOMではなく）画像URLを返す画像を選択する場合は、以下の節の「画像変数」を参照してください。 次の2つのオプションは、HTML `<img>`要素を挿入します。
 
-### オプション1 - \&lt;div\> {#option-use-a-div}を使用
+### オプション1 - `<div>` {#option-use-a-div}を使用
 
 必須属性
 
@@ -128,7 +128,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 ## スニペット{#snippets}
 
-領域をスニペットとして定義する場合、エンドユーザーは、承認済みの[スニペット](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)の中から、この領域に挿入したい領域を選択できます。 リッチテキスト要素は電子メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。 `<div>`とclass=&quot;mktoSnippet&quot;を使用して、スニペット領域を指定できます。
+領域をスニペットとして定義する場合、エンドユーザーは、承認済みの[スニペット](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)の中から、この領域に挿入したい領域を選択できます。 リッチテキスト要素は電子メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。 `<div>`とclass=&quot;mktoSnippet&quot;を使用して、スニペット領域を指定できます。
 
 必須属性
 
@@ -351,8 +351,6 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 * **mktoAddByDefault：作成時に、このテンプレートを使用する新しい電子メールのキャンバスにこのモジュールを含めるかどうかを** 指定します。デフォルトはtrueです（mktoActiveがfalseの場合、この値は無視されます）。
 
 >[!NOTE]
->
->**Reminder**
 >
 >Marketo構文を含むクラス値（mktoModule、mktoContainer、mktoTextなど）では大文字と小文字が区別されます。 カスタム属性名（例： mktoimgwidth, mktoname）は使用できません。
 
