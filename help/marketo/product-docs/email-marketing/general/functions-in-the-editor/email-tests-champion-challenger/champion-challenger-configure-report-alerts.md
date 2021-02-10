@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challenger — レポートアラートの設定 — Marketto Docs — 製品ドキュメント
 title: Champion/Challenger — レポートアラートの設定
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketoから、電子メールテストの進行状況に関するレポート�
 
 >[!PREREQUISITES]
 >
->* [チャンピオン/チャレンジャー：チャンピオンの基準の定義](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[チャンピオン/チャレンジャー：チャンピオンの基準の定義](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. 週に1回、金曜日の午前9時にレポートを送るようにスケジュールします。
 
@@ -47,9 +43,4 @@ Marketoから、電子メールテストの進行状況に関するレポート�
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [チャンピオン/チャレンジャー：電子メールテストの承認](champion-challenger-approve-your-email-test.md)
-
-
+   >[チャンピオン/チャレンジャー：電子メールテストの承認](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
