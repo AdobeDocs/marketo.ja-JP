@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: 電子メ追加ール — Marketto Docs — 製品ドキュメント内のリンクとしてのシステムトークン
 title: 電子メ追加ール内のリンクとしてのシステムトークン
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
->終了したら[メール](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認するのを忘れないでください。
+>終了したら[メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認するのを忘れないでください。
 
 うまくいった！ これで、システムトークンを電子メール内のリンクとして追加する方法がわかりました。
