@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: 電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 配信、開封、クリックなどの統計に関する電子メールのパフォーマンスを確認するには、電子メールのパフォーマンスレポートを作成します。
 
-1. [プ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、「 **電子メール** [パフォーマンスレポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)」を選択します。
-1. [レポート時間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 枠を変更し、「レポート」 **** タブをクリックします。
+1. [プ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、「 **電子メール** [パフォーマンスレポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)」を選択します。
+1. [レポート時間](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 枠を変更し、「レポート」 **** タブをクリックします。
 1. そこだ！ 次に、レポートを調べて、電子メールのパフォーマンスを確認します。
 
    >[!NOTE]
@@ -31,10 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
-   >電子メールのパフォーマンスレポートには、電子メールの送信後に削除されたユーザーを含む、すべてのユーザーのアクティビティが含まれます。 場合によっては、アクティブなユーザーのアクティビティのみを表示したい場合があります。 その場合は、削除したユーザーをレポートから除外する必要があります。 **スマートリスト**&#x200B;タブを使用して、[レポート用のスマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成します。 特定のフィールドに対してフィルタを適用しない場合は、電子メールアドレスフィルタを次のように設定します。**が空ではありません**。
+   >電子メールのパフォーマンスレポートには、電子メールの送信後に削除されたユーザーを含む、すべてのユーザーのアクティビティが含まれます。 場合によっては、アクティブなユーザーのアクティビティのみを表示したい場合があります。 その場合は、削除したユーザーをレポートから除外する必要があります。 **スマートリスト**&#x200B;タブを使用して、[レポート用のスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成します。 特定のフィールドに対してフィルタを適用しない場合は、電子メールアドレスフィルタを次のように設定します。**が空ではありません**。
 
-   [電子メールパフォーマンスレポートのレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 列を選択します。次に例を示します。
+   [電子メールパフォーマンスレポートのレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 列を選択します。次に例を示します。
 
    | 列 | 説明 |
    |---|---|
@@ -50,13 +49,13 @@ ht-degree: 0%
 
 一般的に、私たちは常識を使って統計を記録しようとします。 例えば、電子メール内のリンクをクリックした訪問者は、明らかに最初に電子メールを開いています。 電子メールパフォーマンスレポートでは、次の特定のルールに従います。
 
-* **ルール1**:各電子メールアクティビティレコードは、次のうち1つ（1つのみ）に設定されます。 *配信済み*、 *ハードバウンス*、 *ソフトバウンス*、 *保留*。
+* **ルール1**:各電子メールアクティビティレコードは、次のうち1つ（1つのみ）に設定されます。 _配信済み_、 _ハードバウンス_、 _ソフトバウンス_、 _保留_。
 
 * **規則2**:電子メールレコードに「 *開封済み*」と表示されている場合は *、「*&#x200B;配信済み」とカウントされます。
 
-* **規則3**:電子メールレコードに *「* クリックされた電子メール *」または「登録解除*&#x200B;済み ** 」と表示される場合は、「配信済みで *開いています*」とカウントされます。
+* **規則3**:電子メールレコードに _「_ クリックされた電子メール _」または「登録解除_&#x200B;済み __ 」と表示される場合は、「配信済みで _開いています_」とカウントされます。
 
-* **規則4**:電子メールが「 *開く*」の場合、バウンスは無視されます。電子メールが開かれていない場合は、*ハードバウンス*&#x200B;が&#x200B;*ソフトバウンス*&#x200B;および&#x200B;*配信済み*&#x200B;より優先されます。
+* **規則4**:電子メールが「 _開く_」の場合、バウンスは無視されます。電子メールが開かれていない場合は、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信済み_&#x200B;より優先されます。
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンの電子メールレポートでのアセットのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [電子メールリンクのパフォーマンスレポート](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**ディープダイブ**
->
->詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+>* [キャンペーンの電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [電子メールリンクのパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
