@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: スマートリストを使用したオーディエンスの定義 — Marketto Docs — 製品ドキュメント
 title: スマートリストを使用したオーディエンスの定義
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # スマートリスト{#define-an-audience-with-a-smart-list}でオーディエンスを定義
 
-[電子メールプログラム](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成したら、誰に電子メールを送るかを知らせます。 これを行うには、[人のリスト](define-an-audience-by-importing-a-list.md)をインポートするか、スマートリストを使用します。 賢いリストでこれを達成する方法を次に示します。
+[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成したら、誰に電子メールを送るかを知らせます。 これを行うには、[人のリスト](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)をインポートするか、スマートリストを使用します。 賢いリストでこれを達成する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->* [電子メールプログラムの作成](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**Reminder**
 >
 >オーディエンスの定義は、電子メールプログラムが承認されていない場合にのみ機能します。
 
@@ -49,18 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >フィルターの使用と定義の詳細については、[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)を参照してください。
-
 1. フィルターの追加と定義が完了したら、メインプログラムタブに戻ります。 資格を得た人の数が表示されます。
 
    ![](assets/myemailprogram.jpg)
 
-   素晴らしい仕事！ これで、[既存の電子メール](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)を選ぶか、[メール](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)を作成して、これらの人に送信するタイミングになりました。
+   素晴らしい仕事！ これで[既存の電子メール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)か[メール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)を作成して、これらの人に送るタイミングができました。
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [既存の電子メールの選択](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [電子メールプログラム用の電子メールの作成](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [既存の電子メールの選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [電子メールプログラム用の電子メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
