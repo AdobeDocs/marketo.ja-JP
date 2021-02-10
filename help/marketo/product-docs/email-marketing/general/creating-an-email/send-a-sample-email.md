@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: サンプルの電子メール — Marketto Docs — 製品ドキュメントの送信
 title: サンプル電子メールの送信
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # サンプルの電子メールの送信{#send-a-sample-email}
 
-電子メールのサンプルを簡単に送信できます。 動的なコンテンツの電子メールを送信するには、「[動的なコンテンツを含む電子メールのプレビュー](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)」を参照してください。
+電子メールのサンプルを簡単に送信できます。 動的なコンテンツの電子メールを送信するには、「[動的なコンテンツを含む電子メールのプレビュー](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)」を参照してください。
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >複数の電子メールアドレスを入力する場合は、コンマで区切ります。
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >トリガーフィールドは、[電子メールスクリプティング](http://developers.marketo.com/documentation/velocity-script/)を使用する場合にのみ適用できます。
+   >トリガーフィールドは、[emailスクリプティング](https://developers.marketo.com/documentation/velocity-script/)を使用する場合にのみ適用できます。
 
 ## セグメントに基づくサンプル電子メールの送信{#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[電子メールにセグメントを適用します](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email)。
+>[電子メールにセグメントを適用します](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)。
 
 1. 電子メールを探し、その電子メールを選択して、「**ドラフトを編集**」タブをクリックします。
 
