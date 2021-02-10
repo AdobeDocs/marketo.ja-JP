@@ -3,9 +3,9 @@ unique-page-id: 1147354
 description: 電子メールの操作 — Marketto Docs — 製品ドキュメント
 title: 電子メールを操作可能にする
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,11 @@ ht-degree: 0%
 >
 >操作用の電子メールは、通信制限の対象となりません。
 
-1. 電子メールを探し、選択して「ドラフトを編集」をクリックします。
+1. 電子メールを探し、選択して「**ドラフトを編集**」をクリックします。
 
 ![](assets/one-1.png)
 
 >[!NOTE]
->
->**Reminder**
 >
 >操作用の電子メールは、重要な電子メールおよび自動応答にのみ使用する必要があります。 マーケティング用の電子メールは使用しません。
 
@@ -41,4 +39,4 @@ ht-degree: 0%
 >
 >操作用電子メールがエンゲージメントプログラムで機能しないように設計されていた問題を修正しました。 したがって、エンゲージメントプログラムは電子メールの操作ステータスを無視します。 彼らと一緒に仕事をする際は、それを覚えておいて下さい。
 
-変更を有効にするために、この電子メールを承認するのを忘れないでください。 [電子メール](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を&lt;a0/>承認する方法を説明します。
+変更を有効にするために、この電子メールを承認するのを忘れないでください。 [電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認する方法を説明します。
