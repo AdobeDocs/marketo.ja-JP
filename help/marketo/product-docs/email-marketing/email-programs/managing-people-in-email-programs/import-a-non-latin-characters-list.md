@@ -3,7 +3,7 @@ unique-page-id: 5472678
 description: ラテン文字以外のリストの読み込み — Marketto Docs — 製品ドキュメント
 title: 非ラテン文字リストの読み込み
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. 「**形式**」オプションとして「&lt;a0/>UTF-16 Unicodeテキスト(.txt)**」を選択します。**&#x200B;これにより、Marketorがファイルを表示できる方法でファイルがエンコードされます。
+1. 「**形式**」オプションとして「**UTF-16 Unicodeテキスト(.txt)**」を選択します。 これにより、Marketorがファイルを表示できる方法でファイルがエンコードされます。
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
