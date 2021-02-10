@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger — 電子メールテストの承認 — Marketto Docs — 製品ドキュメント
 title: Champion/Challenger — 電子メールテストの承認
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [チャンピオン/チャレンジャー：レポートアラートの設定](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[チャンピオン/チャレンジャー：レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -33,10 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
-   >**電子メール**&#x200B;全体を承認する場合** **テストを行う前に、対抗電子メールを承認してください。
+   >**電子メール**&#x200B;全体のテストを承認する場合は、まず対抗電子メールを承認します。
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [チャンピオン/チャレンジャー：チャンピオンを宣言](champion-challenger-declare-a-champion.md)
-   >    * [チャンピオン/チャレンジャー：電子メールテストの破棄](champion-challenger-discard-an-email-test.md)
-
+   >* [チャンピオン/チャレンジャー：チャンピオンを宣言](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [チャンピオン/チャレンジャー：電子メールテストの破棄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
