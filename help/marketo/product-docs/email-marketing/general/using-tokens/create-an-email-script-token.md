@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: 電子メールスクリプトトークンの作成 — Marketto Docs — 製品ドキュメント
 title: 電子メールスクリプトトークンの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールスクリプトトークンの作成{#create-an-email-script-token}
 
-上級開発者は、電子メールに[Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
+上級開発者は、電子メールに[Velocityスクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -45,17 +45,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >トークンを自由形式で入力する場合は、ツリー内の対応するすべてのトークンをチェック/アクティブ化する必要があります。そうしないと、プレーンテキストとして扱われ、機能しません。
 
 1. Velocityでスクリプトを作成します。 以下に役立つリソースを示します。
 
-   * [マーケティング担当者向け電子メールスクリプティングドキュメント](http://developers.marketo.com/email-scripting/)
-   * [Velocityユーザーガイド](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [速度リファレンスガイド](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [VelocityツールJavadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [マーケティング担当者向け電子メールスクリプティングドキュメント](https://developers.marketo.com/email-scripting/)
+   * [Velocityユーザーガイド](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [速度リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [VelocityツールJavadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. スクリプトが完了したら、「**保存**」をクリックします。
 
@@ -69,9 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子メ追加ールへの電子メールスクリプトトークン](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[電子メ追加ールへの電子メールスクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
