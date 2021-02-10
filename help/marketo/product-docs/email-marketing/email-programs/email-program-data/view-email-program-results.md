@@ -3,9 +3,9 @@ unique-page-id: 2951167
 description: 表示電子メールプログラム結果 — Marketto Docs — 製品ドキュメント
 title: 表示電子メールプログラムの結果
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -38,10 +38,3 @@ ht-degree: 0%
    あった！
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)
-
->[!NOTE]
->
->**ディープダイブ**
->
->[電子メールプログラム](http://docs.marketo.com/display/docs/email+program+actions)の詳細を知りたい場合は、
-
