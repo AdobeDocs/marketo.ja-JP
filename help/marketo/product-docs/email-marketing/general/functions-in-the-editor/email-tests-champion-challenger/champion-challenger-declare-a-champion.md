@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: Champion/Challenger - Championの宣言 — Marketto Docs — 製品ドキュメント
 title: チャンピオン/チャレンジャー — チャンピオンを宣言
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [チャンピオン/チャレンジャー：電子メールテストの承認](champion-challenger-approve-your-email-test.md)
-
+>[チャンピオン/チャレンジャー：電子メールテストの承認](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -44,7 +43,7 @@ ht-degree: 0%
    >
    >デフォルトの&#x200B;**Declare Date**&#x200B;は、今日ではなく明日です。
 
-   時間を選択し、「**保存**」をクリックします。
+1. 時間を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
