@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: 電子メールプログラムダッシュボード- Marketto Docs — 製品ドキュメントの使用
 title: 電子メールプログラムダッシュボードの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 電子メールプログラムダッシュボード{#use-the-email-program-dashboard}を使用
 
-[電子メールプログラム](http://docs.marketo.com/display/docs/email+programs)がこのダッシュボード表示でどのように動作しているかを調べます。
+このダッシュボード表示での電子メールプログラムのパフォーマンスを確認します。
 
 >[!NOTE]
 >
->プログラムにA/Bテストがある場合は、[電子メールプログラムダッシュボード- A/Bテスト表示](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)を確認してください。
+>プログラムにA/Bテストがある場合は、[電子メールプログラムダッシュボード- A/Bテスト表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)を確認してください。
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 概要 — エンゲージメント{#summary-engagement}
 
-これは、全体的な[エンゲージメントスコア](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を示します。
+これは、全体的な[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を示します。
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >**定義**
 >
->**電子メールの受信者が電子メールの画像（マーケティング担当者が挿入した追跡ピクセルを含む）をダウンロードすると**開きます。 受信者が電子メールを表示するが、その画像をダウンロードしない場合、それは開いているものと見なされません。 画像が受信者のプレビューペインに読み込まれる場合、通常は開いているものと見なされますが、電子メールクライアントによって異なります。
+>**** Opensは、電子メールの受信者が電子メールの画像（Marketoが挿入したトラッキングピクセルを含む）をダウンロードしたときにカウントされます。受信者が電子メールを表示するが、その画像をダウンロードしない場合、それは開いているものと見なされません。 画像が受信者のプレビューペインに読み込まれる場合、通常は開いているものと見なされますが、電子メールクライアントによって異なります。
 >
 >**「開く」をクリックして、電子メール内で開かれ、リンクがクリックされた電子メールの割合を** 開きます。個別クリック数を個別オープン数で割って算出し、100を掛けて割合で表示します。
 
@@ -77,9 +77,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムダッシュボードの使用 — A/Bテスト表示](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[電子メールプログラムダッシュボードの使用 — A/Bテスト表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
