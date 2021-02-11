@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce同期設定 — Marketto Docs — 製品ドキュメント
 title: Salesforce同期設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 「**Salesforceへの電子メール(BCC)**」タブをクリックし、「****&#x200B;アクティブ化&lt;a3/>」をクリックします。
+1. 「**Salesforceへの電子メール(BCC)**」タブをクリックし、「****&#x200B;アクティブ化」をクリックします。
 
    ![](assets/six-2.png)
 
@@ -86,12 +86,12 @@ ht-degree: 0%
 >
 >この設定を行うには、管理者権限が必要です。
 
-1. **セットアップ&#x200B;*.* **をクリックします
-1. **電子メール管理&#x200B;*をクリックします。* **
-1. **Salesforce *に電子メールを送信するをクリックします。* **
+1. 「**セットアップ**」をクリックします。
+1. 「**電子メール管理**」をクリックします。
+1. **Salesforce**&#x200B;に電子メールを送信をクリックします。
 1. 「**編集**」をクリックします。
-1. 「アクティブ*」の横のチェックボックスをオンにします。*
-1. 「**保存&#x200B;*.* **」をクリックします。
+1. 「アクティブ」の横のチェックボックスをオンにします。
+1. 「**保存**」をクリックします。
 
 ## 販売の関与タスク/リマインダをSalesforceタスクに同期{#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ ht-degree: 0%
 1. 目的のオプションを選択します(「Salesforceタスクと同期しない」がデフォルトで選択されます)。
 
    ![](assets/eight.png)
-
