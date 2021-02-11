@@ -3,7 +3,7 @@ unique-page-id: 14352463
 description: Sales追加 Connect Buttons to Salesforce - Marketto Docs - Product Documentation
 title: Sales追加 ConnectボタンをSalesforceに接続
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Marketo Sales Connectへのプッシュ{#push-to-marketo-sales-connect}
 
-1. **セットアップ****カスタマイズ**&#x200B;に移動します。
+1. **セットアップ**&#x200B;に移動し、**カスタマイズ**&#x200B;に移動します。
 1. 「Contacts/Leads/Accounts」で、「**Search Layouts**」を開きます。
-1. 「Leads」リスト表示を編集し、「**Push to MSC **」を「Selected Buttons」にドラッグします。
+1. 「Leads」リスト表示を編集し、「Push to MSC **」を「Selected Buttons」にドラッグします。**
 
 ## Marketto Salesの電子メールの送信{#send-marketo-sales-email}
 
@@ -29,11 +29,10 @@ ht-degree: 0%
 
 1. リード/連絡先/アカウントのページレイアウトを編集します。
 1. ボタンのセクションを選択します。
-1. 「**Call with MSC **」ボタンを選択し、「Details」の「**Custom Buttons**」セクションにドラッグします。
+1. 「**MSC**&#x200B;で呼び出し」ボタンを選択し、「詳細」の「**カスタムボタン**」セクションにドラッグします。
 
 ## 追加キャンペーン{#add-to-campaign}へ
 
 1. リード/連絡先/アカウントのページレイアウトを編集します。
 1. ボタンのセクションを選択します。
 1. 「**追加をMSCキャンペーン**」ボタンに移動し、「詳細」の「**カスタムボタン**」セクションにドラッグします。
-
