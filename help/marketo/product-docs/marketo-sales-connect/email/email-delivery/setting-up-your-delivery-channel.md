@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: 配信チャネルの設定 — Marketto Docs — 製品ドキュメント
 title: 配信チャネルの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Marketo Sales Connectを使用して開始を行う場合、電子メールを�
 
 >[!NOTE]
 >
->SMTPサーバーを設定するだけでなく、電子メールを送信する前に、[電子メールIDを確認](http://docs.marketo.com/x/ewPh)する必要があります。
+>SMTPサーバーを設定するだけでなく、電子メールを送信する前に、[電子メールIDを確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)する必要があります。
 
 カスタムSMTPサーバー、チームSMTPサーバー、またはGmailを配信チャネルとして使用して電子メールを送信するよう選択できます。 選択肢を一つ一つ見てみましょう。
 
 ## カスタムSMTP {#custom-smtp}
 
-1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Marketo Sales Connectを使用して開始を行う場合、電子メールを�
    >
    >チーム管理者がチームSMTPサーバーを設定すると、そのサーバーは自動的にデフォルトの電子メールIDにのみ適用され、他の電子メールIDのオプションとして使用できます。
 
-   **ビデオの視聴**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## チームSMTPサーバー{#team-smtp-server}
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Marketo Sales Connectを使用して開始を行う場合、電子メールを�
    >
    >チームSMTPサーバーは、すべてのチームメンバーの既定の電子メールIDの既定の配信チャネルです。 さらに、他のすべての電子メールIDの配信チャネルオプションとしても使用できます。
 
-   **ビデオを見る**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Marketo Sales Connectを使用して開始を行う場合、電子メールを�
    ![](assets/fifteen.png)
 
 1. Googleの資格情報を使用してサインインします。
+
 1. この画面に移動したら、「**許可**」をクリックします。
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Marketo Sales Connectを使用して開始を行う場合、電子メールを�
    >[!NOTE]
    >
    >チーム管理者がチームSMTPサーバーを設定すると、そのサーバーは自動的にデフォルトの電子メールIDにのみ適用され、他の電子メールIDのオプションとして使用できます。
-
