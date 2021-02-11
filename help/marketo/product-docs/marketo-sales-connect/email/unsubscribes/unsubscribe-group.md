@@ -3,7 +3,7 @@ unique-page-id: 14746167
 description: グループの登録解除 — Marketo Docs — 製品ドキュメント
 title: グループの登録解除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,6 +24,3 @@ ht-degree: 0%
 管理者の場合は、登録解除グループに移動して、「アカウントの登録解除」でフィルターし、ユーザーデータベースで収集されたすべての登録解除を表示できます。
 
 ![](assets/3.png)
-
-
-
