@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: キャンペーンのスケジュール — Marketto Docs — 製品ドキュメント
 title: キャンペーンのスケジュール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 「**次へ**」をクリックすると、最初の電子メールをプレビューできます。
 
-「**次へ**」を再度クリックすると、キャンペーンをいつ外出させるかのオプションが表示されます。 今すぐ開始するか、後でキャンペーンを開始する時間をスケジュールすることができます。
+「**次へ**」を再度クリックすると、キャンペーンをいつ出て行きたいかのオプションが表示されます。 今すぐ開始するか、後でキャンペーンを開始する時間をスケジュールすることができます。
