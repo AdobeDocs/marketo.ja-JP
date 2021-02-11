@@ -3,7 +3,7 @@ unique-page-id: 14352589
 description: テ追加ンプレートまたはキャンペーン- Marketto Docs — 製品ドキュメント
 title: テンプ追加レートまたはキャンペーン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 キャンペーンを追加する場合は、代わりに「**キャンペーン**」タブをクリックします。
 
-[Webアプリケーション](http://toutapp.com/login)にメッセージを追加/編集したばかりの場合は、「**更新**」ボタンをクリックして、最新バージョンを取り込んでいることを確認してください。
+[Webアプリケーション](https://toutapp.com/login)にメッセージを追加/編集したばかりの場合は、「**更新**」ボタンをクリックして、最新バージョンを取り込んでいることを確認してください。
