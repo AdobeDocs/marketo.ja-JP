@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: SMTPサーバーの設定 — Marketto Docs — 製品ドキュメント
 title: SMTPサーバーの設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ ITチームに連絡して、会社が電子メールの送信に使用してい
 * ユーザーのO365パスワードを変更すると、接続が切断されます
 
 Office365またはExchange Onlineを使用している場合は、標準の資格情報セットを使用してSMTPサーバーに接続できます。 Office365は一括電子メール配信サービスではありませんが、1回限りの電子メールを送信する場合に適しています。 一括電子メールを送信する際、Office365では電子メールの送信が制限され、配信の失敗の原因となる場合があります。 このチェックの詳細については、Microsoftの[SMTPクライアント送信の設定方法](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)に関する記事を参照してください。
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+&quot;1つの電子メールアドレスからのみ送信できます。ただし、デバイスがOffice 365の複数のメールボックスのログイン資格情報を保存できる場合を除きます。 Office 365には、1分あたり30通のメッセージを送信する制限と、1日あたり10,000受信者の制限が定められています。」
+
 Office365を配信チャネルとして使用する場合は、これらの資格情報を入力する必要があります。 Office365はユーザーの電子メールとパスワードを使用して接続するので、チーム全体で同じ資格情報を使用することはできません。
 
 Microsoftおよび一括送信
 
-[Office 365での一括送信につ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) いては、ここをクリックしてください。 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[Office 365での一括送信につ](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) いては、ここをクリックしてください。
+
+正当な一括商用の電子メール（お客様のニュースレターなど）を送信する必要があるExchange Onlineのお客様は、これらのサービスを専門とするサードパーティのプロバイダを使用する必要があります。」
+
 **私の会社がGmailを使っていたら？**
 
 Sales Connectとの配信チャネルとしてGmailを使用する場合は、SMTP資格情報を取得する必要はありません。 Sales Connectを使用すると、OAuth統合を通じてGmail配信チャネルにアクセスできます。 ユーザーは、Sales ConnectアカウントをGmailと統合することで、これを有効にできます。
@@ -73,4 +77,3 @@ Sales Connectとの配信チャネルとしてGmailを使用する場合は、SM
 Office365に接続している場合、資格情報は電子メールアドレスベースです。 つまり、配信を確立した電子メールアドレスだけが、接続チャネルを介して電子メールを送信するように認証されるので、資格情報は&#x200B;**共有しないでください。**
 
 ![](assets/3.png)
-
