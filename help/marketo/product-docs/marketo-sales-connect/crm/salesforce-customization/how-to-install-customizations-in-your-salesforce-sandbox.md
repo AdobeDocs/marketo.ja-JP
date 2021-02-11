@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Salesforceサンドボックスにカスタマイズをインストールする方法 — Marketto Docs — 製品ドキュメント
 title: Salesforceサンドボックスにカスタマイズをインストールする方法
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Sales ConnectをSalesforce Sandboxに接続](http://docs.marketo.com/x/DYDq)
+>[Sales ConnectをSalesforce Sandboxに接続](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   次に、通常のSalesforceアカウントと同じように、カスタマイズをインストールする手順に従います。 詳細については、[このビデオ](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce)の1分間のマークに進んでください。
-
+   次に、通常のSalesforceアカウントと同じように、カスタマイズをインストールする手順に従います。
