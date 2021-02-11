@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Professional Editionのお客様向けSalesforceカスタマイズのインストール — Marketto Docs — 製品ドキュメント
 title: Professional Editionのお客様向けSalesforceカスタマイズのインストール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 >
 >* Sales Connect管理者は、SalesforceアカウントとSales Connectアカウントを接続する必要があります。
 >* 使用するSalesforceインスタンスには、13個のカスタムアクティビティフィールドをインストールする領域が必要です。
-
->
-
 
 
 ## インストール{#installation}
@@ -40,7 +37,7 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
    >
    >接続されている場合は、緑色の「インストール」ボタンが表示されます。 **このボタン** をクリックしないで、代わりに手順4に進みます。
 
-1. 接続しているSalesforceアカウントにログインし、[このリンク](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)をクリックします。
+1. 接続しているSalesforceアカウントにログインし、[このリンク](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)をクリックします。
 1. [Sales Connect Installation]ページに送信されます。
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
    >
    >Sales Engageは、Sales Connectの以前の名前です。
 
-   [Salesforce Classicのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## ガイド{#guides}
 
-   [Salesforce Lightningのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Classicのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Salesforce Lightningのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
