@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: マーケティングキャンペーン追加向け — Marketto Docs — 製品ドキュメント
 title: マー追加ケティングキャンペーン
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[キャンペーンを販売ユーザーに表示する](http://docs.marketo.com/x/NwDh)
+>[キャンペーンを販売ユーザーに表示する](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## キャンペーン追加の個人{#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](http://docs.marketo.com/x/CQXLAQ)。
+>Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 「**ユーザー**」タブをクリックします。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](http://docs.marketo.com/x/CQXLAQ)。
+   >Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 「ワークスペース」ドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. 資格を得た連絡先が表示されます。 「**開始**」をクリックして追加します。
 
    ![](assets/nine.png)
-
