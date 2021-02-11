@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: コマンドセンターの概要 — Marketto Docs — 製品ドキュメント
 title: コマンドセンターの概要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Commend Centerは単一の統一された表示で、次のステップを見つ
 
 >[!MORELIKETHIS]
 >
->* [タスク](http://docs.marketo.com/x/qwDb)
->* [アドバンス検索の概要](http://docs.marketo.com/x/KQM6Ag)
->* [選択と送信を使用したバルク電子メールの構成](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [タスク](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [アドバンス検索の概要](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [選択と送信を使用したバルク電子メールの構成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
