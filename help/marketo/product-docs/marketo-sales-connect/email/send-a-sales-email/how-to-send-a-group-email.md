@@ -3,9 +3,9 @@ unique-page-id: 14352520
 description: グループの電子メールの送信方法 — Marketto Docs — 製品ドキュメント
 title: グループの電子メールの送信方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -19,30 +19,31 @@ Sales Connectと共にグループの電子メールを送信すると、同じ�
 >
 >グループの電子メール受信者はそれぞれ、パーソナライズされたメッセージを受信します。 また、各受信者の個々の追跡統計も提供します。
 
-新しい連絡先グループを作成する手順を説明する[ここ](http://docs.marketo.com/x/JITS)をクリックします（複数の連絡先をグループの電子メールに送信する場合に必要）。
+新しい連絡先グループを作成する手順を説明する[ここ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)をクリックします（複数の連絡先をグループの電子メールに送信する場合に必要）。
 
 ## グループへの電子メールの送信{#tout-an-email-to-a-group}
 
-1. Webアプリケーションの[ユーザー](http://toutapp.com/next#relationships)ページに移動します。
+1. Webアプリケーションの[ユーザー](https://toutapp.com/login)ページに移動します。
 
    >[!NOTE]
    >
    >GmailまたはOutlookプラグインを使用している場合は、Webアプリケーションに移動してグループ電子メールを送信する必要があります。
 
 1. 電子メールを送信するグループを選択します。
+
 1. 「**電子メールグループ**」ボタンをクリックします。
+
 1. 電子メールテンプレートを選択します。
 
    >[!TIP]
    >
-   >グループの各メンバーは同じ電子メールを受け取るので、各受信者のメッセージをパーソナライズするために、テンプレートに[動的フィールド](http://docs.marketo.com/x/QITS)が含まれていることを確認してください。
+   >グループの各メンバーは同じ電子メールを受け取るので、各受信者のメッセージをパーソナライズするために、テンプレートに[動的フィールド](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)が含まれていることを確認してください。
 
 1. 送信前に電子メールを確認するには、**プレビュー**&#x200B;をクリックします。
 1. 電子メールの準備が整ったら、「**送信**」をクリックします。
 
-次に、Sales Connect [Live Feed ](http://toutapp.com/next#live)を開き、電子メールに関与する受信者開始を見てください。
+次に、Sales Connect [Live Feed ](https://toutapp.com/login)を開き、電子メールに関与する受信者開始を見てください。
 
 >[!NOTE]
 >
 >グループ電子メールの受信者は、それらが一括送信の一部であるとは認識できません。
-
