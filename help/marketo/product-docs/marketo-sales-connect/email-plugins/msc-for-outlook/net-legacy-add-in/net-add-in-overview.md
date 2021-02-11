@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: .NET 追加-inの概要 — Marketto Docs — 製品ドキュメント
 title: .NET 追加-inの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これは古いアドインです。 既にインストール済みの場合は、2020年まで引き続き機能します。 新しいユーザーの場合は、新しい[Office 365アドイン](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
+>これは古いアドインです。 既にインストール済みの場合は、2020年まで引き続き機能します。 新しいユーザーの場合は、新しい[Office 365アドイン](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
 
 ## コンテンツの一部の添付{#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Outlookの予定表が取り込まれ、空き時間の特定の日時を追加�
 
 **Templates**&#x200B;ボタンを押して、あらかじめ用意されているToutテンプレートをOutlookメッセージに取り込みます。
 
-我々はチームの中で`sync with all of your personal templates and any shared templates`を行っている。 また、最後に使用したテンプレートと、最も頻繁に使用するテンプレートも自動的に取り込まれ、簡単にアクセスできます。
+個人用のテンプレートおよびチーム間で共有されるテンプレートのすべてと同期します。 また、最後に使用したテンプレートと、最も頻繁に使用するテンプレートも自動的に取り込まれ、簡単にアクセスできます。
 
 ## 「Tout It」ボタン{#the-tout-it-button}
 
