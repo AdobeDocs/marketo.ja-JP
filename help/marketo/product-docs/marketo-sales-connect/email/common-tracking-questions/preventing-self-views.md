@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: 自己表示の防止 — Marketto Docs — 製品ドキュメント
 title: 自己表示の防止
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Sales Connectは、Outlook Web AppやGmailから電子メールを開く際に�
 1. 「セキュリティ」で、「**なし**」ラジオボタンをクリックします。
 
    ![](assets/mac-3.png)
-
