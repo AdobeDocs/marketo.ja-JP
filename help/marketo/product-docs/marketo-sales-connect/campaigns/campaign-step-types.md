@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: キャンペーンステップタイプ — Marketto Docs — 製品ドキュメント
 title: キャンペーンステップのタイプ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[送信オプション](http://docs.marketo.com/x/7QDb)の詳細を確認します。
+>[送信オプション](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)の詳細を確認します。
 
 ## {#call}を呼び出す
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 上記のタスクを適用できない場合は、カスタムオプションを利用します。 例えば、電子メールでリードをフォローアップする同僚を招待できます。
 
 ![](assets/custom.png)
-
