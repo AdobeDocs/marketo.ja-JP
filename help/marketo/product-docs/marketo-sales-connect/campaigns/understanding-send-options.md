@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: 送信オプションについて — Marketto Docs — 製品ドキュメント
 title: 送信オプションについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ ht-degree: 0%
 この電子メールを前の電子メールにスレッド
 
 * この送信オプションは、以前の電子メールに対して「フォローアップ」となり、この電子メールの末尾に以前の電子メールの本文を追加します。
-
