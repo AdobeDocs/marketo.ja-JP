@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: 選択して送信でバルク電子メールを構成する — Marketto Docs — 製品ドキュメント
 title: 選択と送信を使用したバルク電子メールの構成
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 件名を入力し、テンプレートを選択し（またはゼロから電子メールを作成）、電子メールを送信/ [スケジュール](http://docs.marketo.com/x/GAQ6Ag)します。
+1. 件名を入力し、テンプレートを選択し（またはゼロから電子メールを作成）、電子メールを送信/[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)します。
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 **バルク編集**
 
-1. [「電子メールの送信」セクション](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)の手順1 ～ 3に従います。
+1. [「電子メールの送信」セクション](#sending-emails)の手順1 ～ 3に従います。
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >特定の電子メール受信者をクリックして、その電子メールに反映された変更を確認できます。
 
-1. 「**送信**」（または[スケジュール](http://docs.marketo.com/x/GAQ6Ag)）をクリックして、すべての受信者に送信し、一括電子メールの更新を行います。
+1. 「**送信**」（または[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）をクリックして、すべての受信者に送信し、一括電子メールの更新を行います。
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 バルク更新を実行して各電子メールをカスタマイズする前に、バルク構成サイドバーにあるすべての電子メールに対する変更を一括更新で上書きするので、一括更新を完了してください。
 
-1. [「電子メールの送信」セクションの手順1 ～ 4に従います。](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. [「電子メールの送信」セクション](#sending-emails)の手順1 ～ 4に従います。
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ ht-degree: 0%
    >
    >他の受信者をクリックすると、前に選択した受信者に対して行った変更が表示されていないことを確認できます。
 
-1. 「**送信**」（または[スケジュール](http://docs.marketo.com/x/GAQ6Ag)）をクリックして、すべての受信者に送信し、一括電子メールの更新を行います。
+1. 「**送信**」（または[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)）をクリックして、すべての受信者に送信し、一括電子メールの更新を行います。
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [バルク送信オプション](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [「構成」ウィンドウでのテンプレートの使用](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [動的フィールド](http://docs.marketo.com/x/wwDb)
-
+   >* [バルク送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [「構成」ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [動的フィールド](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
