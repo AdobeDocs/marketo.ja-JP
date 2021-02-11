@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: CRM用のSales Connectのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: CRM向けの販売接続のカスタマイズ
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CRM用のSales Connectのカスタマイズ{#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRMのメタデータAPIによって作成されます。 フィールドを作成したら、管理者はCRMにページレイアウトを設定して、それらを公開する必要があります。 説明は[ここ](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
+以下のフィールドとボタンは、Salesforce CRMのメタデータAPIによって作成されます。 フィールドを作成したら、管理者はCRMにページレイアウトを設定して、それらを公開する必要があります。 説明は[ここ](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketorは、新しいフィールドの作成を検出し、1回限りのデ�
 
 ## ユーザーガイド{#user-guides}
 
-[SalesforceのMSEカスタムレポート](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[SalesforceのMSEカスタムレポート](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce用MSE](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce用MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning用MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## 関連ビデオ{#related-videos}
-
-**Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` **でのカスタマイズのインストール方法Salesforce**でのカスタマイズを使用する利点 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[Salesforce Lightning用MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
