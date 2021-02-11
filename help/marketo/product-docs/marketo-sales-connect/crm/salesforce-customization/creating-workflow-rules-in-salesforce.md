@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Salesforce - Marketto Docs — 製品ドキュメントでのワークフロールールの作成
 title: Salesforceでのワークフロールールの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Marketo Sales Insight(MSI)とMarketo Sales Connect(MSC)を並行して使用す�
    ![](assets/thirteen.png)
 
    前の手順の後で、「はじめに」セクションに一覧表示されている他のフィールドのワークフロールールをコピーできます。説明、種類、ソース、日付。 Contactオブジェクトの4つのワークフロールールを完了したら、Leadオブジェクトに対しても同じ手順を繰り返します。
-
