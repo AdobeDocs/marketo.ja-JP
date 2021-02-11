@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: 購読解除リンクメッセージのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: 登録解除リンクメッセージのカスタマイズ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 自分のメッセージをカスタマイズ{#customize-messaging-for-yourself}
 
-1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## チームの登録解除メッセージの設定{#set-unsubscribe-messaging-for-your-team}
 
-1. [Webアプリケーション](http://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
 1. 「**チーム**&#x200B;にデフォルトのメッセージを設定して、すべてのユーザーにメッセージを適用します。
 
    ![](assets/eleven.png)
-
