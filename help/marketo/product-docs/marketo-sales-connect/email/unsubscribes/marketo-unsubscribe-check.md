@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketor登録解除チェック — Marketto Docs — 製品ドキュメント
 title: Marketor Unsubscribe Check
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Marketor Unsubscribeチェック…
 * Marketor接続の確立が必要です
 * グローバル設定です
 * Webアプリケーション、電子メールクライアントおよびSalesforceから送信される電子メールをブロックします。
-
