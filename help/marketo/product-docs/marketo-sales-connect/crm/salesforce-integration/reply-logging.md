@@ -3,9 +3,9 @@ unique-page-id: 14352480
 description: 返信ログ(SFDC) — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: 返信ログ(SFDC)
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -18,14 +18,13 @@ Sales Connectは、Salesforceに対する見込み客の返信を自動的に記
 ## 要件{#requirements}
 
 * APIログを使用して電子メールを記録する必要がある
-* [返信](http://docs.marketo.com/x/BYPS)を追跡できる必要がある
+* [返信](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)を追跡できる必要がある
 * Salesforceに接続する必要がある
-* Salesforce [API呼び出し](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)を使用可能にする必要がある
+* Salesforce [API呼び出し](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)を使用可能にする必要がある
 
 ## 応答ログを有効にする{#enable-reply-logging}
 
-1. 返信ログを有効にするには、[Salesforce設定](http://docs.marketo.com/pages/assets/external-link.jspa)ページに移動します。 APIログのチェックマークを消すと、「*ログの返信」をチェックするオプションが表示されます。\
-   *
+1. 返信ログを有効にするには、Salesforce設定ページに移動します。 APIログのチェックマークを消すと、_ログ返信_&#x200B;をチェックするオプションが表示されます。
 
    >[!NOTE]
    >
@@ -35,7 +34,7 @@ Sales Connectは、Salesforceに対する見込み客の返信を自動的に記
 
 Salesforceレポートから意味のあるデータを取得することは重要です。 「タイプ」フィールドに「返信」と入力する機能を持つと、レポートからそのデータを取得できます。 `Salesforce admin`と協力してこの設定を取得します。
 
-1. **セットアップ**> **カスタマイズ**> **アクティビティ**> **タスクフィールド**&#x200B;に移動します。
+1. **セットアップ**/**カスタマイズ**/**アクティビティ**/**タスクフィールド**&#x200B;に移動します。
 1. 「**タイプ**」をクリックします。
 1. 「タスクタイプ選択リストの値」で、「**新規**」をクリックします。
 1. 空のボックスに「返信」と入力します。 「R」を大文字にして、「**保存**」をクリックします。
@@ -43,4 +42,3 @@ Salesforceレポートから意味のあるデータを取得することは重�
    >[!NOTE]
    >
    >「タイプ」(Type)ピックリストで「デフォルト」(Default)を選択する必要はありません。 Sales Connectでは、このアクティビティタイプがSalesforceインスタンスで使用可能であることが確認され、それに応じて着信アクティビティのタスクフィールドにデータを入力します。
-
