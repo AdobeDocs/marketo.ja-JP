@@ -3,7 +3,7 @@ unique-page-id: 14352547
 description: Sales ConnectプラグインがGmailに表示されない — Marketto Docs — 製品ドキュメント
 title: GmailにSales Connectプラグインが表示されない
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 - これは明白なことですが、ブラウザを終了して、全く新しいウィンドウを開いてみてください。
 
-- [Webアプリケーション](http://toutapp.com/login)に移動し、そこにログインしていることを確認します。
+- [Webアプリケーション](https://toutapp.com/login)に移動し、そこにログインしていることを確認します。
 
 - cookieが有効になっていることを確認します。 Chromeを使用している場合は、設定/詳細設定を表示/コンテンツ設定を表示に移動し、「サードパーティのCookieおよびサイトデータをブロックする」をオフにします。
 
 - Sales Connectブラウザ拡張機能を切断してから再接続してみてください。
 
-上記のヒントが役に立たない場合は、[ケース](http://nation.marketo.com/community/support_solutions)をサポートに送信してください。
+上記のヒントが役に立たない場合は、[ケース](https://nation.marketo.com/community/support_solutions)をサポートに送信してください。
