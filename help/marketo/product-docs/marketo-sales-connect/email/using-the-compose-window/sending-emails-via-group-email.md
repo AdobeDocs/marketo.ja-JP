@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: グループ電子メールを使用した電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: グループ電子メールを使用した電子メールの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 0%
 
 ## グループ電子メールの編集{#editing-a-group-email}
 
-1. [上の](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)手順1 ～ 3を使用して、グループ電子メールを作成します。
+1. [上の](#sending-a-group-email)手順1 ～ 3を使用して、グループ電子メールを作成します。
+
 1. テンプレートを選択するか、電子メールを入力します。
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [バルク送信オプション](http://docs.marketo.com/x/HwQ6Ag)
->* [「構成」ウィンドウでのテンプレートの使用](http://docs.marketo.com/x/MQQ6Ag)
->* [動的フィールド](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [バルク送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [「構成」ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
