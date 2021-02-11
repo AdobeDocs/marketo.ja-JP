@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Salesforce - Marketo Docs — 製品ドキュメントに接続する際の「要求を認証できませんでした」の修正方法
 title: Salesforceに接続する際の「要求を認証できませんでした」の修正方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Sales ConnectをSalesforceに接続しようとしたときに「要求を認証
 1. 「**アプリを管理**」を選択します。
 1. 「**Connected Apps OAuth Usage**」を選択します。
 1. Sales Connectの横に「ブロック」と表示されていることを確認します。 「ブロック解除」が表示された場合は、ボタンをクリックして、Sales ConnectのSalesforceへのアクセスをブロック解除します。
-
