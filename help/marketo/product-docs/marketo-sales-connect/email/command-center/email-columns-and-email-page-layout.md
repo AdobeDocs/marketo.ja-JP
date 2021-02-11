@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: 電子メール列と電子メールページレイアウト — Marketto Docs — 製品ドキュメント
 title: 電子メール列と電子メールページレイアウト
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ ht-degree: 0%
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. 完了したら、設定の外側をクリックするだけです。
-
