@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: 「構成」ウィンドウでのテンプレートの使用 — Marketto Docs — 製品ドキュメント
 title: 「構成」ウィンドウでのテンプレートの使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ ht-degree: 0%
    >
    >**デフォルトでは、** お気に入りに登録されています。カテゴリではなく、お気に入りの電子メールテンプレートが含まれます。
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [動的フィールド](http://docs.marketo.com/x/wwDb)
-   >    * [テンプレートの使用](http://docs.marketo.com/display/DOCS/Templates)
-
-
-選択したカテゴリがピン留めされました。
+   選択したカテゴリがピン留めされました。
