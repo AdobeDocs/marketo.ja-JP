@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Salesforceとの登録解除の同期 — Marketto Docs — 製品ドキュメント
 title: Salesforceとの登録解除の同期
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
 ユーザーは、購読解除をMarketorと同期できる標準の電子メールオプトアウトフィールドと同期するか、またはマーケティング担当者のセールスフィールドと同期してSalesの購読解除とMarketingの購読解除を区別できるオプトアウトかを決定できます。
 
-1. [Webアプリケーション](http://toutapp.com/login)に移動し、歯車アイコンをクリックして、**設定**&#x200B;を選択します。
+1. [Webアプリケーション](https://toutapp.com/login)に移動し、歯車アイコンをクリックして、**設定**&#x200B;を選択します。
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    ![](assets/4.png)
 
-   | **Salesforceフオプトアウトィールドと同期** | デフォルトで選択されている場合は、Salesforceフオプトアウトィールドのみが更新されます。 |
+   | フィールド | 説明 |
    |---|---|
+   | **Salesforceフオプトアウトィールドと同期** | デフォルトで選択されている場合は、Salesforceフオプトアウトィールドのみが更新されます。 |
    | **マーケティング担当者の販売オプトアウトフィールドと同期** | 販売とマーケティングの購読を分割する場合は、このオプションを選択して、追加の[販売のオプトアウトマーケティングフィールドを更新します。](#msoo) |
 
 ## ページレイアウトオプトアウトのフィールドのインストール{#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
 電子メールは、Salesforceからインストールできる、Salesforceの標準フィールドです。 インストールするには、Salesforce管理者である必要があります。
 
-1. [Salesforce.com](http://Salesforce.com)に移動し、サインインします。
+1. [Salesforce.com](https://salesforce.com)に移動し、サインインします。
 
    ![](assets/five-1.png)
 
