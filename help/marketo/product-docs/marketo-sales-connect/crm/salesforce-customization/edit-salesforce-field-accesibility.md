@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Salesforceフィールドアクセシビリティの編集 — Marketto Docs — 製品ドキュメント
 title: Salesforceフィールドアクセシビリティの編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Salesforceへの電子メールアクティビティログが表示されない�
 * Salesforce管理者と協力して、これらのセキュリティ設定がSales Connectに干渉しないようにします。
 
 * Salesforce管理者の場合は、「Security Controls」タブの「Field Accessibility」を確認できます。 Sales Connectが操作する主なフィールドは次のとおりです。アカウント、連絡先、商談、リード、タスク。
-
