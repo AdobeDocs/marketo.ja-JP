@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: キャンペーンの無効化 — Marketto Docs — 製品ドキュメント
 title: キャンペーンをオフにする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これは、[GmailまたはExchange](https://toutapp.com/next#settings/email-tracking)と統合され、返信追跡が有効になっているお客様のみ利用できます。
+>これは、GmailまたはExchangeと統合され、返信追跡が有効になっているお客様に対してのみ利用できます。
 
 ## 1人のユーザーのキャンペーンをオフにする{#turn-off-a-campaign-for-one-person}
 
