@@ -3,9 +3,9 @@ unique-page-id: 14746655
 description: カスタマイズバージョン — Marketto Docs — 製品ドキュメント
 title: カスタマイズバージョン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 Marketo Sales Connect Customization for Salesforceに対する更新に関する詳細を以下に示します。
 
 **バージョン1の**
-アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、 [これらのマーケティング担当者フィールド](http://docs.marketo.com/x/wQDh)。
+アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、 [これらのマーケティング担当者フィールド](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)。
 
 **バージョン1.1の**
 アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、マーケティング先フィールドが、Salesforce Lightningのページレイアウトで使用できるようになりました。
