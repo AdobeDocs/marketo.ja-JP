@@ -3,7 +3,7 @@ unique-page-id: 14352586
 description: スパムに送る電子メール — Marketto Docs — 製品ドキュメント
 title: スパムへの電子メール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -18,6 +18,7 @@ ht-degree: 0%
 次の点をお勧めします。
 
 1. 電子メールの内容を短く非公式に保ち、テンプレートを以前に書いた電子メールとして貼り付けます。
-1. 物理アドレスを含む完全に完了した電子メール署名があることを確認します。
-1. GoogleまたはOutlookを使用して電子メールを送信するか、独自のサーバー経由でメッセージを配信するSMTPを設定します。
 
+1. 物理アドレスを含む完全に完了した電子メール署名があることを確認します。
+
+1. GoogleまたはOutlookを使用して電子メールを送信するか、独自のサーバー経由でメッセージを配信するSMTPを設定します。
