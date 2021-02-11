@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: 登録解除の概要 — Marketto Docs — 製品ドキュメント
 title: 登録解除の概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 登録解除情報はPDVに保存される
 * 登録解除は手動で行うことができます。リンク、Salesforce同期、バウンスをクリック
 * 新しい登録解除リンクランディングページ
-
