@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: GmailアドレスセカンダリがSales Connectと統合できない原因 — Marketto Docs — 製品ドキュメント
 title: GmailアドレスがSales Connectと統合されるのセカンダリを防ぐ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connectは、Chromeブラウザーにインストールされた拡張機�
 
 別のChromeユーザーとしてサインイン（推奨）
 
-[このリンク](http://support.google.com/chrome/answer/2364824?hl=en)をクリックして、別のChromeプロファイルの作成方法を参照してください。
+[このリンク](https://support.google.com/chrome/answer/2364824?hl=en)をクリックして、別のChromeプロファイルの作成方法を参照してください。
 
 **長所**:別のユーザーとしてサインインすると、Chromeの新しいインスタンスが開きます。このインスタンスはChromeの新しいウィンドウです。このウィンドウには、古い拡張機能は1つも存在しません。 また、Gmailに毎回サインインする必要がないように、Cookieも保持されます。
 
