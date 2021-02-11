@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: チームメンバーへのタスクの割り当て — Marketto Docs — 製品ドキュメント
 title: チームメンバーへのタスクの割り当て
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->タスクを割り当てることができるのは、共有の連絡先に対してのみです。 共有タスクと共同作業する前に、チームメンバーと[連絡先のグループ](http://docs.marketo.com/x/fwDb)を&lt;a0/>共有する必要があります。
+>タスクを割り当てることができるのは、共有の連絡先に対してのみです。 共有タスクと共同作業する前に、チームメンバーと[連絡先のグループ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)を共有する必要があります。
 
 1. **コマンドセンター**&#x200B;をクリックします。
 
@@ -57,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[グループを共有する方法](http://docs.marketo.com/x/fwDb)
-
+>[グループを共有する方法](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
