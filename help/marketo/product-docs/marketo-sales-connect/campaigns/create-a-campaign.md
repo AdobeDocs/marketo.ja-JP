@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: キャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: キャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**カテゴリ**&#x200B;の横の** +**をクリックして、新しいカテゴリを作成します。
+   >**カテゴリ**&#x200B;の横の&#x200B;**+**&#x200B;をクリックして、新しいカテゴリを作成します。
 
 1. 選択したカテゴリが選択されます。 変更を加えた場合は、ドロップダウンをクリックし、別のドロップダウンを選択します。 完了したら、「**続行**」をクリックします。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 次のいずれかを選択します。電子メール、呼び出し、InMailまたはカスタムタスク。 この例では、[電子メール](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email)を選択します。
+1. 次のいずれかを選択します。電子メール、呼び出し、InMailまたはカスタムタスク。 この例では、[電子メール](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)を選択します。
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「日数」は、アクション間の日数ではなく、シーケンス内の日数です。 例えば、キャンペーンが過去7日間に進む場合、「3」と入力すると、アクションは7日目の3日目に退出します。**not **3日後に退出します。
+   >「日数」は、アクション間の日数ではなく、シーケンス内の日数です。 例えば、キャンペーンが過去7日間に行く場合、「3」と入力すると、3日目の7日目にアクションが行われ、**** 3日後に行われません。
 
 1. キャンペーンの&#x200B;**[設定]タブ**&#x200B;にアクセスして、週末をスキップするなど、スケジュールと返信のオプションをカスタマイズしてください。
 
    ![](assets/seven.png)
 
    今こそ、開始がキャンペーンに人を追加する時です。
-
