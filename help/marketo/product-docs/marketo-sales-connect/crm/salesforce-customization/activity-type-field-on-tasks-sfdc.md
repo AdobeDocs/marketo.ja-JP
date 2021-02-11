@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: タスク(SFDC)のアクティビティタイプフィールド — Marketto Docs — 製品ドキュメント
 title: タスクのアクティビティタイプフィールド(SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Sales Connectの支援を受けて、電子メールや呼び出しをSalesforce
 * Salesforceとの接続
 * タスクタイプの選択リストでデフォルトタイプの値が選択されていません
 * 呼び出し、返信、電子メールは、タスクタイプの選択リストにすべて存在する必要があります（大文字と小文字の区別）
-* 「Type」フィールドの値に対してアクションを実行する`Workflows`または`Triggers`がありません
+* 「Type」フィールドの値に対してアクションを実行するワークフローやトリガーはありません。
 
 ## セットアップ{#setup}
 
 まず、適切なpicklist値が正しいかどうかを確認します。 選択リストに変更を加えるには、Salesforce管理者の助けが必要です。
 
-1. [Salesforce.com](http://Salesforce.com)に移動し、右上隅の「設定」をクリックします。
+1. [Salesforce.com](https://salesforce.com)に移動し、右上隅の「設定」をクリックします。
 1. 「カスタマイズ」をクリックします。
 1. 「アクティビティ」をクリックします。
 1. 「タスクフィールド」をクリックします。
