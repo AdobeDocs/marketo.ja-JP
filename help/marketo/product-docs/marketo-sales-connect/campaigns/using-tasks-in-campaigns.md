@@ -3,7 +3,7 @@ unique-page-id: 14352619
 description: キャンペーンでのタスクの使用 — Marketto Docs — 製品ドキュメント
 title: キャンペーンでのタスクの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->キャンペーンのタスクに関して最も重要な点は、次の手順を開始するには、タスクを完了する必要があります。
+>キャンペーンのタスクに関して最も重要な点は、次のステップをトリガーするためにタスクを完了する必要があります。
 
 タスクは、常にキャンペーン内の個々のユーザーに関連付けられます。 つまり、各ユーザーの個々のキャンペーンを続行するには、各ユーザーにタスクを移動し、そのユーザーを閉じる必要があります。
 
