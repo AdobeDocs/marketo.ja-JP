@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: 購読解除 — Marketto Docs — 製品ドキュメントの再登録
 title: 登録解除
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ ht-degree: 0%
 >
 >登録解除の同期を有効にしている場合、ToutAppから登録解除を削除し、Salesforceでチェックマークを外して、個人レコードが再び同期されないようにする必要がありオプトアウトます。
 
-1. [Webアプリケーション](http://toutapp.com/login)に移動し、**ユーザー**&#x200B;をクリックします。
+1. [Webアプリケーション](https://toutapp.com/login)に移動し、**ユーザー**&#x200B;をクリックします。
+
 1. 個人の詳細表示を開く個人を選択します。
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ ht-degree: 0%
 1. ユーザーが電子メールの受信をオプトインし直す理由を選択し、「**登録解除**」をクリックします。
 
    ![](assets/four.png)
-
