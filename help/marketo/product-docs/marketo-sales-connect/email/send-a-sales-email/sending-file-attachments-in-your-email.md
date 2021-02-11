@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: 電子メール — Marketto Docs — 製品ドキュメントでの添付ファイルの送信
 title: Eメール内の添付ファイルの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >Toutを電子メール配信チャネルとして使用する場合、電子メールを送信する際に19 MB以下のファイルを使用することをお勧めします。
 
-サイズの大きいファイルを送信する必要がある場合は、最初にzipファイルを圧縮するか、[Webアプリケーション](http://toutapp.com/login)に[追跡可能な添付ファイル](http://docs.marketo.com/x/3oPS)としてアップロードしてみてください。
+サイズの大きいファイルを送信する必要がある場合は、最初にzipファイルを圧縮するか、[Webアプリケーション](https://toutapp.com/login)に[追跡可能な添付ファイル](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)としてアップロードしてみてください。
