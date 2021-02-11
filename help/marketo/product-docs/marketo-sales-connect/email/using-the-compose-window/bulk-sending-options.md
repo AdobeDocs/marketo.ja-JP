@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: バルク送信オプション — Marketto Docs — 製品ドキュメント
 title: バルク送信オプション
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 メールの一括送信は、見込み客の関与を促進する優れた方法です。 Sales Connectオファーは、次の2つの方法で電子メールを一括送信できます。**グループ電子メール**&#x200B;と&#x200B;**選択して送信**。 グループ電子メールは、ターゲットグループに数百通の電子メールをすばやく送信する優れた方法です。 「選択して送信」を使用すると、電子メールの制限が小さくなりますが、ユーザーに対してより多くのカスタマイズの機会をオファーできます。
 
-電子メールのグループ化と選択して送信
+**電子メールのグループ化と選択して送信**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-グループ電子メールの使用
+**グループ電子メールの使用**
 
 リスト内の各電子メールにプレビューを付けて、動的フィールドに正しく入力されているかどうかを確認し、送信するテンプレートを一括編集できます。 ただし、「ユーザーごと」に一意の編集を行うことはできません。
 
-選択と送信の使用
+**選択と送信の使用**
 
 デフォルトでは、すべての受信者を編集します。 ただし、個々の電子メールを選択してカスタム編集を行うこともできます。 これは、よりパーソナライズされたアプローチを使用する受信者に、1つ以上の独自のカスタマイズ行を追加する場合に便利です。
 
 >[!MORELIKETHIS]
 >
->* [選択と送信を使用したバルク電子メールの構成](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [グループ電子メールを使用した電子メールの送信](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [選択と送信を使用したバルク電子メールの構成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [グループ電子メールを使用した電子メールの送信](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
