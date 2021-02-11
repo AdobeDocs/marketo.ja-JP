@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Sales ConnectをSalesforce Sandboxに接続する方法 — Marketto Docs — 製品ドキュメント
 title: Sales ConnectをSalesforce Sandboxに接続する方法
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->サンドボックスへの接続を確立中は、Sales ConnectアカウントをSalesforceにまだ接続できません。 その場合は、[この記事の手順に従う前に、](http://docs.marketo.com/x/FoDq)の接続を切断してください。
+>サンドボックスへの接続を確立中は、Sales ConnectアカウントをSalesforceにまだ接続できません。 その場合は、[この記事の手順に従う前に、](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)の接続を切断してください。
 
 1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Salesforceサンドボックスにカスタマイズをインストールする方法](http://docs.marketo.com/x/EIDq)
-
+>[Salesforceサンドボックスにカスタマイズをインストールする方法](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
