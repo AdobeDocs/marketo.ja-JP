@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlookユーザーの[電子メール接続]タブ — Marketto Docs — 製品ドキュメント
 title: Outlookユーザー用の[電子メール接続]タブ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Outlookに接続すると、返信追跡、Outlook配信チャネルへのアク
 
    ![](assets/nine-a.png)
 
-   この接続を使用して、電子メールを追跡できます。また、配信チャネル](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)としても[追跡できます。
+   この接続を使用して、電子メールを追跡したり、配信チャネルとして追跡したりできます。
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Exchange On-Premiseに接続すると、返信追跡、Outlook配信チャネル
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Office Onlineとも呼ばれる |
+   | バージョン | 説明 |
    |---|---|
+   | **Outlook Online** | Office Onlineとも呼ばれる |
    | **Exchangeオンプレミス** | Exchange 2013と2016を含む |
 
 1. 資格情報を入力し、「**接続**」をクリックします。
@@ -109,10 +110,8 @@ Exchange On-Premiseに接続すると、返信追跡、Outlook配信チャネル
    >
    >[Exchangeのバージョン]ドロップダウンで[自動検出]をオフにした場合は、IT部門にExchange URLの入力を依頼する必要があります。
 
-   [配信チャネルとして](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   この接続を使用して、電子メールを追跡したり、配信チャネルとして追跡したりできます。
 
    >[!NOTE]
    >
    >Outlookを配信チャネルとして使用する場合、一度に300件を超えるバルクメールを送信することはできません。
-
-この接続を使用して、電子メールおよびも追跡できます。
