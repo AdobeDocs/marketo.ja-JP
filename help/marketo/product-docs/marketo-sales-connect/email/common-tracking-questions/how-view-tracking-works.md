@@ -3,9 +3,9 @@ unique-page-id: 14352536
 description: 表示トラッキングの仕組み — Marketto Docs — 製品ドキュメント
 title: 表示トラッキングの仕組み
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,10 @@ ht-degree: 0%
 
 送信した電子メール内に目に見えない画像を配置することで、電子メールの開封を追跡します。
 
-誰かがあなたのメールに返信したが、Sales Connectが閲覧されていないと言っていた場合、受信者が`not enable images within their email client (i.e. click on the "click here to download images" message in the email).`した可能性があります
+誰かがあなたの電子メールに返信したが、Sales Connectが閲覧されなかったと言っていた場合、受信者が電子メールクライアント内の画像を有効にしていなかった可能性があります（電子メールの「ここをクリックして画像をダウンロード」をクリック）。
 
 電子メールの統計をより的確に追跡するためのヒント：
 
-* `Include an image` の電子メール（ロゴなど）に含まれているので、受信者はメッセージを画像に表示するように促す必要があります。
+* 電子メールに画像（ロゴなど）を含めて、受信者が画像にメッセージを表示できるようにすることを推奨します。
 
-* `Include a link` を電子メール内の誘い文句（CTA：コールトゥアクション）として設定します。
-
+* 誘い文句（CTA：コールトゥアクション）としてのリンクを電子メールに含めます。
