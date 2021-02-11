@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 追跡された電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: 追跡する電子メールの送信
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Marketto Sales Connectと共に電子メールを送信すると、表示（電�
 >
 >追跡する電子メールを送信する前に、IDの検証と電子メール配信チャネルの設定を行う必要があります。
 >
->* [電子メールアドレスの確認](http://docs.marketo.com/x/ewPh)
->* [Outlook](http://docs.marketo.com/x/Z4AOAQ)または[Gmail](http://docs.marketo.com/x/kYMOAQ)の配信チャネルを設定します
-
->
-
+>* [電子メールアドレスの確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)または[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)の配信チャネルを設定します
 
 
 1. 電子メールの下書きを作成します（これには複数の方法があります。この例では、ヘッダーに「**構成**」を選択しています）。
@@ -54,17 +51,12 @@ Marketto Sales Connectと共に電子メールを送信すると、表示（電�
    >
    >電子メールの送信には件名と受信者が必要です。 件名と受信者が追加されたら、**自動的に下書き**&#x200B;を保存します。
 
-1. エディターを使用して電子メールを作成します。 終了したら、「**送信**」（または[スケジュール](http://docs.marketo.com/x/GAQ6Ag)を希望する場合）をクリックします。
+1. エディターを使用して電子メールを作成します。 終了したら、「**送信**」（または[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)を希望する場合）をクリックします。
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [電子メールのスケジュール](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [動的フィールド](http://docs.marketo.com/x/wwDb)
-   >    * [テンプレートの使用](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [電子メールのスケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [テンプレート](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
