@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: 配信チャネルの概要 — Marketto Docs — 製品ドキュメント
 title: 配信チャネルの概要
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この情報は、[Webアプリケーション](http://toutapp.com/login)からの電子メールを送信する場合にのみ有効です。 GmailまたはOutlookでSales Connectを使用している場合は、これらの電子メールサーバー経由で電子メールが配信されます。
+>この情報は、[Webアプリケーション](https://toutapp.com/login)からの電子メールを送信する場合にのみ有効です。 GmailまたはOutlookでSales Connectを使用している場合は、これらの電子メールサーバー経由で電子メールが配信されます。
 
 ## MSC電子メールサーバー（デフォルト） {#msc-email-servers-default}
 
 デフォルトでは、電子メールの配信に対してこの方法が選択されます。 MSC電子メールサーバーは、GmailやOutlookを使用しないユーザーにとって優れたオプションです。 また、これらはアドビのサーバーなので、バウンスや失敗した配信に関するエラーメッセージを取得し、「会話」タブの「失敗した配信」セクションでユーザーに表示する機能もあります。
 
-MSCサーバーを使用するもう1つの利点は、[電子メールID](https://help.toutapp.com/hc/en-us/articles/215371427)を使用する場合に、作成したIDの電子メールアドレスが受信者に表示されることです。
+MSCサーバーを使用するもう1つの利点は、[電子メールID](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)を使用する場合に、作成したIDの電子メールアドレスが受信者に表示されることです。
 
 MSCサーバーを使用している場合、受信者に「via toutapp.com」タグが表示されることがあります。 これは、Sales Connectを使用して送信された電子メールを知らせる電子メールクライアントです。
 
@@ -48,4 +48,3 @@ Webアプリケーションでは、IDは上記で作成したとおりに表示
 ## カスタムSMTPサーバー{#custom-smtp-server}
 
 自分のサーバの代金を払う？ Microsoft Exchange環境を使用する これは、お客様にとってのオプションです。 [設定の際には、](http://docs.marketo.com/x/zYTS)これらの説明を調べてください。 Gmailサーバーと同様、Sales Connectはサーバーを直接管理しないので、バウンスした電子メールイベントをWebアプリケーションに記録しません。
-
