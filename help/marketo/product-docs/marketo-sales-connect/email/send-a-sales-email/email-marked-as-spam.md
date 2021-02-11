@@ -3,9 +3,9 @@ unique-page-id: 14352525
 description: スパムとしてマークされた電子メール — Marketto Docs — 製品ドキュメント
 title: スパムとしてマークされた電子メール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -13,20 +13,19 @@ ht-degree: 0%
 
 # スパムとしてマークされた電子メール{#email-marked-as-spam}
 
-会社として、配信品質率が高いままであることを確認するために努力します。 ただし、送信した電子メールがスパムフォルダーに送信される原因となるユーザーの行動や設定がいくつかあります。
+会社として、配信品質率が高いままであることを確認するために努力します。 ただし、スパムフォルダーに送信される送信電子メールをトリガーするユーザーの行動や設定はいくつかあります。
 
-**`Check Your Settings`**
+**設定の確認**
 
-* [カスタムドメイン追跡](http://docs.marketo.com/x/4oPS):これにより、すべてのトラッキングリンクを実行中の状態で表示できます。」yourdomain」に置き換えます。 一部の電子メールセキュリティでは、電子メールが「yourdomain」から送信されているが、リンクはgo.toutappに再ルーティングされていることが確認されます。 カスタムドメインリンクトラッキングを導入すると、電子メールは正当に見え、受信者のインボックスをヒットする確率が高くなります。
-* [電子メール配信チャネル](http://docs.marketo.com/x/y4TS):デフォルトでは、電子メールはToutAppサーバーを通じて送信されます。独自のGmailまたはカスタムSMTPを設定すると、受信者の受信トレイに届く最良の機会を電子メールに与えることができます。 [必要に応じて適切な配信チャネルを選択する方法について詳しくは、](https://nation.marketo.com/docs/DOC-5080) ここをクリックしてください。
+* カスタムドメイン追跡：これにより、すべてのトラッキングリンクを実行中の状態で表示できます。」yourdomain」に置き換えます。 一部の電子メールセキュリティでは、電子メールが「yourdomain」から送信されているが、リンクはgo.toutappに再ルーティングされていることが確認されます。 カスタムドメインリンクトラッキングを導入すると、電子メールは正当に見え、受信者のインボックスをヒットする確率が高くなります。
+* 電子メール配信チャネル:デフォルトでは、電子メールはToutAppサーバーを通じて送信されます。 独自のGmailまたはカスタムSMTPを設定すると、受信者の受信トレイに届く最良の機会を電子メールに与えることができます。 [必要に応じて適切な配信チャネルを選択する方法について詳しくは、](https://nation.marketo.com/docs/DOC-5080) ここをクリックしてください。
 
 **電子メールの動作を確認する**
 
 * 電子メールの内容を短く非公式に保ち、テンプレートを以前に書いた電子メールとして貼り付けます。
 
-* 形式が超過した電子メールや、各国語を含むメッセージは使用しないでください。 詳細[ここ](http://www1.toutapp.com/blog/how-to-keep-your-sales-emails-out-of-the-spam-filter/)。
+* 形式が超過した電子メールや、各国語を含むメッセージは使用しないでください。
 
 * 物理アドレスを含む完全に完了した電子メール署名があることを確認します。
 
-* [CAN-SPAM法](http://docs.marketo.com/display/docs/assets/external-link.jspa)に準拠していることを確認してください。
-
+* [CAN-SPAM法](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business)に準拠していることを確認してください。
