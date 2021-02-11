@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: Sales Connectへのプッシュ — Marketto Docs — 製品ドキュメント
 title: Sales Connectにプッシュ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 要件{#requirements}
 
-* Sales Connect [`Salesforce Admin`がインストールしたSalesforceパッケージ](http://docs.marketo.com/x/C4PS)
+* Salesforce管理者がインストールしたSales Connect Salesforceパッケージ
 
-* `Push to Sales Connect`がリスト表示にインストールするボタン  `Salesforce Admin`
+* Salesforce管理者がリスト表示にインストールした「Push to Sales Connect」ボタン
 
 * Sales ConnectでSalesforce接続が行われ、ユーザがプッシュを行う
 
@@ -30,11 +30,10 @@ ht-degree: 0%
 1. 「**移動**」をクリックします。
 1. プッシュしてトアウトするすべてのリード/連絡先を選択します。
 1. 「**MSEにプッシュ**」を選択します。
-1. プッシュオーバーするリード/連絡先の数を確認する新しいウィンドウが表示されます。 「**グループ**&#x200B;に進む」を選択します。 Sales Connect `will not push over` Salesforceでは`Email Opt Out`とマークされた連絡先、Sales Connectでは`Unsubscribed`とマークされた連絡先。
+1. プッシュオーバーするリード/連絡先の数を確認する新しいウィンドウが表示されます。 「**グループ**&#x200B;に進む」を選択します。 Sales Connectは、Salesforceで電子メールとしてマークされた連絡先やSales Connectで登録解除された連絡先オプトアウトを押し出しません。
 
    >[!NOTE]
    >
    >Sales Connectは、「SFDC-...」という名前のグループを追加します。 を[webアプリケーション](http://toutapp.com/login)のRelationshipsページに追加します。
 
 1. 「**グループ全体を電子メールで送信**」を選択して、このグループの電子メールを送信します。
-
