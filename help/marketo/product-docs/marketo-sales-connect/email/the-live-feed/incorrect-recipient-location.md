@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: 誤った受信者場所 — Marketto Docs — 製品ドキュメント
 title: 受信者の場所が正しくありません
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
  — メールが[CC]または[BCC]フィールドの誰かによって転送または開封された場合、その人の場所を正確に表示するように努めます。
 
-全体的には、IPトラッキングに基づいて、できるだけ正確に場所を判断しますが、残念ながら`isn't an exact science`です。
+全体的に、IPトラッキングに基づいて、可能な限り正確に場所を特定しますが、残念ながら、正確な科学ではありません。
