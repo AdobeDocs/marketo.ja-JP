@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: 電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
 title: 電子メールレポートでのアセットのフィルタリング
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
+>[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
