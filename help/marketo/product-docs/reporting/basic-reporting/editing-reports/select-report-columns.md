@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: レポート列の選択 — Marketto Docs — 製品ドキュメント
 title: レポート列の選択
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ ht-degree: 0%
    >    * [列でのレポートの並べ替え](sort-report-on-columns.md)
 
 
-   レポートをさらに活用 「[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
+   レポートをさらに活用 「[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
 
