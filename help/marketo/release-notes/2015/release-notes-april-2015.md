@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: リリースノート — 2015年4月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年4月
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## Marketor Mobileエンゲージメント{#marketo-mobile-engagement}
 
-[Market Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)
+[Market Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)
 
-[Marketto Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)を使うと、魅力的なモバイルエクスペリエンスを簡単に提供できます。 アプリの開発チームに頼らずに、説得力のあるコンテンツを配信する、パーソナライズ度の高いキャンペーンを作成します。 新しいフィルターとトリガーを使用すると、プッシュ通知を使用してモバイルチャネルをリッスンし、応答できます。
+[Marketto Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)を使うと、魅力的なモバイルエクスペリエンスを簡単に提供できます。 アプリの開発チームに頼らずに、説得力のあるコンテンツを配信する、パーソナライズ度の高いキャンペーンを作成します。 新しいフィルターとトリガーにより、プッシュ通知を使用してモバイルチャネルをリッスンし、応答できます。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 
 ## RTP — アカウントベースのマーケティング分析{#rtp-account-based-marketing-analytics}
 
-RTP - [アカウントベースのマーケティング分析](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [アカウントベースのマーケティング分析](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-指定アカウントリストの新しいパフォーマンスグラフを使用して、購入サイクルの各段階に基づいて、主要な名前付きアカウントリスト[のパフォーマンスを即座に把握できます。 ](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)グラフには、訪問回数と訪問者のステータスに基づき、意識から始まって行動に至る主要組織の訪問の段階が表示されます。
+指定アカウントリストの新しいパフォーマンスグラフを使用して、購入サイクルの各段階に基づいて、主要な名前付きアカウントリスト](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)のパフォーマンスを即座に把握できます。 [グラフには、訪問回数と訪問者のステータスに基づき、意識から始まって行動に至る主要組織の訪問の段階が表示されます。
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
