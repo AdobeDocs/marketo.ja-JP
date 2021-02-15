@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 登録コード — Marketto Docs — 製品ドキュメントを使用したOutlook用Marketto電子メール追加インのインストール
 title: 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## インストーラーのダウンロード{#download-installer}
 
-1. [Microsoft Outlookのバージョン](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
+1. [Microsoft Outlookのバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
 1. リンクをクリックして、お使いのバージョンのMicrosoft Outlookに適したインストーラをダウンロードします。
 
    >[!NOTE]
@@ -37,13 +37,13 @@ ht-degree: 0%
    | Outlookバージョン | 32ビットOutlook | 64ビットOutlook |
    |---|---|---|
    | Outlook 2000 | 非対応 | 該当なし |
-   | Outlook 2003 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
-   | Outlook 2007 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
-   | Outlook 2010 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 （Windowsのみ） | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2003 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
+   | Outlook 2007 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
+   | Outlook 2010 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365 （Windowsのみ） | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook for Mac | 非対応 | 非対応 |
    | Outlook Web App | 非対応 | 非対応 |
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    素晴らしい！ これで、「マーケティング」ボタンの位置が改善されました。
 
-「Marketor Message」アクションと「Log With Marketo」アクションの使用について詳しく説明します。
+「Marketor Message」アクションと「Log With Marketor」アクションの使用について詳しく説明します。
 
 >[!MORELIKETHIS]
 >
