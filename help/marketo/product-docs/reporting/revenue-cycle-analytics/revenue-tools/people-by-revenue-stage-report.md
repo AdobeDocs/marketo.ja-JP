@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: 売上高ステージ別人物レポート — Marketto Docs — 製品ドキュメント
 title: 売上高ステージ別人物レポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 売上高ステージ別人物レポート{#people-by-revenue-stage-report}
 
-従業員が属する[売上高サイクルモデル](http://docs.marketo.com/display/docs/revenue+cycle+models)のどの段階かを示すレポートを作成できます。 レポートには、指定した日付範囲に対する個人のバランスがある限り、指定したモデルの任意のステージが含まれます。
+従業員が属する[売上高サイクルモデル](https://docs.marketo.com/display/docs/revenue+cycle+models)のどの段階かを示すレポートを作成できます。 レポートには、指定した日付範囲に対する個人のバランスがある限り、指定したモデルの任意のステージが含まれます。
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)で、列などを追加する方法を説明します。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)で、列などを追加する方法を説明します。
 
