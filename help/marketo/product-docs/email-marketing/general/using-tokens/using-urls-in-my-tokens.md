@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: マイトークン — Marketto Docs — 製品ドキュメントでのURLの使用
 title: マイトークンでのURLの使用
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. トークンに一意の名前を付け、URL(http://を除く)を入力し、「**保存**」をクリックします。
+1. トークンに一意の名前を付け、URL(https://を除く)を入力し、「**保存**」をクリックします。
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >電子メール内でクリックを確実に追跡するには、****&#x200B;ではなく、トークンの値内にhttp://と入力します。
+   >電子メール内でクリックを確実に追跡するには、****&#x200B;ではなく、トークンの値内にhttps://と入力します。
 
 1. プログラムーで電子メールを選択します。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 電子メール内の任意の場所で、「http://」と入力し（後ろにスペースを残さず）、「Insert Token」アイコンをクリックします。
+1. 電子メール内の任意の場所で、「https://」と入力し（後ろにスペースを残さず）、「Insert Token」アイコンをクリックします。
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. http://とトークンをハイライト表示し、Ctrl/Command+X(Ctrl = Windows/Cmd = Mac)を押してテキストを切り取ります。
+1. https://とトークンをハイライト表示し、Ctrl/Command+X(Ctrl = Windows/Cmd = Mac)を押してテキストを切り取ります。
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-   終わった！ URLは送信後に設定され、http://をトークンの前に置いたおかげで、トラッキング可能なリンクが生成されます。
+   終わった！ URLは送信後に設定され、https://をトークンの前に置いたおかげで、トラッキング可能なリンクが生成されます。
