@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI機能の概要 — Marketto Docs — 製品ドキュメント
 title: MSI機能の概要
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforceパネルには、次の機能が含まれています。
 
 * タブ
 
-   * [インサイトダッシュボード](http://docs.marketo.com/x/EoGMAg)
+   * [インサイトダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * 面白い瞬間
    * ウェブアクティビティ
    * 電子メール
@@ -58,7 +58,7 @@ Visualforceページ：
 * 緊急度
 * 緊急度の値
 * Marketorでの表示 — このフィールドをクリックして、Marketorのリードの編集不可能な表示を開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
-* MSI Contact Id - Salesforceの追加このフィールドへの連絡先で、「Lead Contact Bridge」パネルをリードレイアウトに含めて、連絡先のMSIパネルを確認します。
+* MSI Contact Id - Salesforceの追加このフィールドへの連絡先で、連絡先のMSIパネルを確認するには、リードレイアウトに「Lead Contact Bridge」パネルを含めます。
 
 ## 連絡先レイアウト{#contact-layout}
 
@@ -170,7 +170,7 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
 
 >[!MORELIKETHIS]
 >
->[SalesforceのMarketto Sales Insightの「Configuration」タブ](http://docs.marketo.com/x/UoCMAg)
+>[SalesforceのMarketto Sales Insightの「Configuration」タブ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Sales Insightパフォーマンスレポート{#sales-insight-performance-reports}
 
