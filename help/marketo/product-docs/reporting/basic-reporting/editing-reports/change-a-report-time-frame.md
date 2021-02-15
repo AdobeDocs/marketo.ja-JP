@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: レポート期間の変更 — Marketto Docs — 製品ドキュメント
 title: レポート期間の変更
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートの使用方法について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
+   >レポートの使用方法について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
