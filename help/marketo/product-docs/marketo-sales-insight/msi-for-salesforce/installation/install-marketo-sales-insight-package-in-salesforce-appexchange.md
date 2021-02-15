@@ -3,7 +3,7 @@ unique-page-id: 7516390
 description: SalesforceAppExchange- Marketto Docs — 製品ドキュメントにMarketo Sales Insightパッケージをインストールします。
 title: SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -23,11 +23,12 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 >
 >Marketo Sales Insightは、Salesforce Platform(Shield)暗号化と互換性があります。
 
-1. Marketo Sales Insightの[AppExchangeページ](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**今すぐ取得**」をクリックします。
+1. Marketo Sales Insightの[AppExchangeページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**今すぐ取得**」をクリックします。
 
    ![](assets/one.png)
 
 1. 「**AppExchange**&#x200B;にログイン」ボタンをクリックし、Salesforceの資格情報を使用してログインします。
+
 1. 接続したSalesforceアカウントにログインし、**実稼働環境にインストール**&#x200B;をクリックします。
 
    ![](assets/three.png)
@@ -36,7 +37,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
    >
    >最初にサンドボックスでテストアウトする場合は、[**Sandboxにインストール**]を選択します。
 
-1. 利用条件を読んで同意し、「**確認してインストール**」をクリックします。
+1. 利用条件を読んで同意し、**「**&#x200B;確認してインストール」をクリックします。
 
    ![](assets/four.png)
 
@@ -48,7 +49,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/six.png)
 
-1. インストール済みパッケージに「** Marketto Sales Insight**」が含まれていることを確認します。
+1. **Marketo Sales Insight**&#x200B;がインストール済みパッケージに含まれていることを確認します。
 
    ![](assets/seven.png)
 
@@ -64,7 +65,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. オブジェクトがデプロイされていない場合は、アイテムの横にある「**編集**」をクリックします。
+1. オブジェクトがデプロイされていない場合は、項目の横にある「**編集**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
@@ -76,7 +77,6 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
 >[!MORELIKETHIS]
 >
->[Salesforce Professional EditionでのMarketor Sales Insightの設定](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>[Salesforce Professional EditionでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
->[Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-
+>[Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
