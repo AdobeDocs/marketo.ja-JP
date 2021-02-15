@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: リリースノート — 2012年5月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年5月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
+>その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 ## 電子メールパフォーマンスレポートの再設計{#email-performance-report-redesign}
 
@@ -113,7 +113,7 @@ Sales Insight経由で送信される電子メールに対して、購読解除�
 
 ## 販売用電子メールテンプレートのフォルダ{#folders-for-sales-email-templates}
 
-Marketo Sales Insightと共有する電子メールテンプレートを指定されたフォルダに整理できるようになり、担当営業が適切な電子メールを見つけやすくなりました。
+Marketo Sales Insightと共有する電子メールテンプレートを指定されたフォルダに整理できるようになり、担当営業が適切な電子メールを簡単に見つけられるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
