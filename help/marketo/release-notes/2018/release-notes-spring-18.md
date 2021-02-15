@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: リリースノート — Spring '18 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Spring '18
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Spring 18リリースには、次の機能が含まれています。 Marketing 
 >
 >セールス・ソーシャルはアドオン製品です。 見積もりについては、マーケティング担当者またはアカウント担当者にお問い合わせください。
 
-情報、コンテンツ、実践ブック、分析を活用して販売を促進し、より多くのリードを販売機会に変えることで、より多くのパイプラインと売上高を促進します。 Sales Engageは、顧客の遍歴にわたる関与のための統合されたプラットフォームをセールスとマーケティングに提供し、お客様のタッチポイントを共有する表示を通じて、より効率的な調整を可能にします。
+情報、コンテンツ、実践ブック、分析を活用して販売を促進し、より多くのリードを販売機会に変えることで、より多くのパイプラインと売上高を促進します。 Sales Engageは、お客様のジャーニー全体にわたる関与を実現する統合されたプラットフォームと共にセールスとマーケティングを提供し、お客様のタッチポイントを共有表示することで、より効率的な調整を可能にします。
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Marketo Skyオープンベータ版を使用して、以下のような生産性
 
 Facebookワークプレースにシステム通知や興味深い瞬間を送信します。
 
-[静的リストAPI](http://developers.marketo.com/rest-api/assets/static-lists/)
+[静的リストAPI](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 静的なリストの作成、読み取り、更新、削除を行う新しい双方向APIを使用して、Marketoと他のシステムとのリストをより簡単に管理できます。Marketo UIでの操作は不要です。
 
 ## プライバシーの強化{#privacy-enhancements}
 
-[Web トラッキングのプライバシー](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Web トラッキングのプライバシー](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 強化されたMunchkin追跡は、Web訪問者のIPアドレスを匿名化し、Web追跡を完全にオプトアウトできるようにすることで、地域および国際的なプライバシー規制に準拠します。
