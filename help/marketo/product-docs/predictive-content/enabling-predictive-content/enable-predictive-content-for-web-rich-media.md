@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Webリッチメディアの予測コンテンツを有効にする — Marketto Docs — 製品ドキュメント
 title: Webリッチメディアの予測コンテンツを有効にする
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
->* [予測コンテンツの準備](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [予測コンテンツの準備](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## JavaScriptコードのカスタマイズとWebサイトへの埋め込み{#customize-the-javascript-code-and-embed-it-into-your-website}
 
-マーケティング開発者サイトのリッチメディアレコメンデーションテンプレート[のドキュメントを参照してください。](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、Webサイトのテンプレートをカスタマイズする方法について説明します。
+マーケティング開発者サイトのリッチメディアレコメンデーションテンプレート[のドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、Webサイトのテンプレートをカスタマイズする方法について説明します。
 
 テンプレートを表示する場所のWebサイトにJavaScriptコードを貼り付けます。
 
@@ -62,5 +62,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [コンテンツレコメンデーションバーの有効化](enable-the-content-recommendation-bar.md)
->* [電子メールの予測コンテンツを有効にする](http://docs.marketo.com/x/vLit)
+>* [電子メールの予測コンテンツを有効にする](https://docs.marketo.com/x/vLit)
 
