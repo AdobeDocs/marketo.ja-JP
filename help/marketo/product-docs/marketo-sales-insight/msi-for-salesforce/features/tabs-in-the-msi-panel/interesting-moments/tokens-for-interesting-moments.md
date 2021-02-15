@@ -3,7 +3,7 @@ unique-page-id: 1146999
 description: 興味深い瞬間のトークン — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間のトークン
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [注目のモーメントフローステップ](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使用を学びます。
->* [トークン](http://docs.marketo.com/display/docs/tokens)の詳細を表示します。
+>* [トークン](https://docs.marketo.com/display/docs/tokens)の詳細を表示します。
 
 >
 
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を調べて、おもしろい瞬間に使えるすべてのトークンを確認します。
 
-## トークンをトリガー{#trigger-tokens}
+## トリガートークン{#trigger-tokens}
 
 スマートキャンペーンで使用されるトリガーに基づいて、追加のトリガートークンが使用可能になります。
 
-* `{{trigger.Trigger Name}}` これは常に実際のトリガです。次に例を示します。電子メール内のリンクをクリックします。
+* `{{trigger.Trigger Name}}` それは常に実際のトリガーそのものです次に例を示します。電子メール内のリンクをクリックします。
 * `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。次に例を示します。「Webページ上のクリック数リンク」はURLであり、Salesforceトリガーなどの件名です。
-* 制約に基づいて、追加のトリガーを使用できます。以下に示します。
+* 制約に基づいて、その他のトリガーを使用できます。以下に示します。
 
 <table> 
  <colgroup> 
