@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: リリースノート — Winter 19 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 * **アセットAPIのマルチブランドドメインのサポート：アセットの** 承認と複製は、APIとUIで同じ結果になります。
 * **Asset APIの電子メールCCサポート**:APIを使用した電子メールの複製、承認、および処理を行うユーザーは、UI設定と同一性を維持します。
 
-** [Munchkin v155 （ベータ版）](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 （ベータ版）](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **APIのみのモード**:ユーザーは、マーケティング担当者の自動追跡に依存する代わりに、単一ページのWebアプリで、Webページの訪問を記録するタイミングを明示的に呼び出すことで、データベースのメンバーを追跡するタイミングと方法を決定できるようになりました。
+* **APIのみのモード**:ユーザーは、マーケティング担当者の自動追跡に依存する代わりに、単一ページのWebアプリでWebページ訪問を記録するタイミングを明示的に呼び出すことで、データベースのメンバーを追跡するタイミングと方法を決定できるようになりました。
 * **オプトアウト管理**:オプトアウトcookieドメインをMunchkin追跡cookieドメインと一致させることで、オプトアウトを簡単に管理できます。
-* **Domain-Level Decider Parameter**:2文字のドメイン(例：&quot;  [webサイト.io](http://website.io)&quot;)は、追加のセットアップ要件なしに、Marketoで自動的に追跡されます。
+* **Domain-Level Decider Parameter**:2文字のドメイン(例：&quot;  [webサイト.io](https://website.io)&quot;)は、追加のセットアップ要件なしに、Marketoで自動的に追跡されます。
 
 ## マーケティング担当営業{#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 **Android向けMMEソフトウェア開発キット(SDK)の更新**
 
-Android向けSDKは、より柔軟性と新しいエンジニアリング機能を備えた、よりモダンで安定性と拡張性の高いフレームワークに更新されました。 Androidアプリの開発者は、Googleの[Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/)(FCM)をこの新しいSDKで直接使用できるようになりました。
+Android向けSDKは、より柔軟性と新しいエンジニアリング機能を備えた、よりモダンで安定性と拡張性の高いフレームワークに更新されました。 Androidアプリの開発者は、Googleの[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)(FCM)をこの新しいSDKで直接使用できるようになりました。
 
-* [開発者向けの手順](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [開発者向けFAQ](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [開発者向けの手順](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [開発者向けFAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
