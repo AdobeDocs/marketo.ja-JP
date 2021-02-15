@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: マイトークン電子メールスクリプト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-上級開発者は、電子メールスクリプトトークンを設定することで、電子メールに[Velocityスクリプト](http://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
+上級開発者は、電子メールスクリプトトークンを設定することで、電子メールに[Velocityスクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を次に示します。
 
 1. プログラムーまたはフォルダーの[!UICONTROL マイトークン]タブで、**[!UICONTROL 電子メールスクリプト]**&#x200B;トークンを[!UICONTROL ローカルトークン]キャンバスにドラッグします。
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 1. Velocityでスクリプトを作成します。 以下に役立つリソースを示します。
 
-   * [マーケティング担当者向け電子メールスクリプティングドキュメント](http://developers.marketo.com/email-scripting/)
-   * [Velocityユーザーガイド](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [速度リファレンスガイド](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [VelocityTools 2.0ドキュメント](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [マーケティング担当者向け電子メールスクリプティングドキュメント](https://developers.marketo.com/email-scripting/)
+   * [Velocityユーザーガイド](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [速度リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [VelocityTools 2.0ドキュメント](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. isスクリプトが完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
