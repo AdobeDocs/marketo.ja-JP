@@ -3,7 +3,7 @@ unique-page-id: 2360411
 description: 成功パスアナライザーの作成 — Marketto Docs — 製品ドキュメント
 title: 成功パスアナライザーの作成
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 成功パスアナライザーの作成{#create-a-success-path-analyzer}
 
-[売上高サイクルモデル](http://docs.marketo.com/display/docs/revenue+cycle+analytics)を通して、速度と流れを視覚的に表します。
+[売上高サイクルモデル](https://docs.marketo.com/display/docs/revenue+cycle+analytics)を通して、速度と流れを視覚的に表します。
 
 >[!PREREQUISITES]
 >
