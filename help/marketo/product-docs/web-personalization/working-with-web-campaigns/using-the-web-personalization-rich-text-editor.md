@@ -3,7 +3,7 @@ unique-page-id: 4719179
 description: Webパーソナライゼーションリッチテキストエディター — Marketto Docs — 製品ドキュメントの使用
 title: Webパーソナライゼーションリッチテキストエディターの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Webトークンは、アカウント設定/データベースでWebパーソナライゼーションで管理される、Markettoデータベースの[人データ](http://docs.marketo.com/display/DOCS/Manage+Person+Data)を使用します。 Webトークンが、アカウント設定/データベースにない新しいデータベースフィールドである場合は、自動的に追加され、アクティブ化に最大24時間かかる場合があります。
+>Webトークンは、アカウント設定/データベースでWebパーソナライゼーションで管理される、Markettoデータベースの[人データ](https://docs.marketo.com/display/DOCS/Manage+Person+Data)を使用します。 Webトークンが、アカウント設定/データベースにない新しいデータベースフィールドである場合は、自動的に追加され、アクティブ化に最大24時間かかる場合があります。
 
 >[!MORELIKETHIS]
 >
->[リッチテキストエディタの使用](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
+>[リッチテキストエディタの使用](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
