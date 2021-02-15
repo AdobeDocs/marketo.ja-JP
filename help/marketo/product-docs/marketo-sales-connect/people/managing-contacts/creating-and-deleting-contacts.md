@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: 連絡先の作成と削除 — Marketto Docs — 製品ドキュメント
 title: 連絡先の作成と削除
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >複数の連絡先を一度に追加する場合 [CSVを使用して連絡先をインポートする方法につ](http://docs.marketo.com/x/VADb) いては、ここをクリックしてください。
+   >複数の連絡先を一度に追加する場合 [CSVを使用して連絡先をインポートする方法につ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) いては、ここをクリックしてください。
 
 ## 連絡先を削除{#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >複数の連絡先を削除するには、複数の人を選択します。 残りの手順は同じです。
 
-1. dota（縦に3つのドット）をクリックし、「削除」を選択します。
+1. dota（縦に3つのドット）をクリックし、「**削除**」を選択します。
 
    ![](assets/four-2.png)
 
-1. 「連絡先を削除」をクリックして確認します。
+1. 「**連絡先**&#x200B;を削除」をクリックして確認します。
 
    ![](assets/five-2.png)
