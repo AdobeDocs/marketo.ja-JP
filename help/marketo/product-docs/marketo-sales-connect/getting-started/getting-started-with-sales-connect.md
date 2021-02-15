@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Sales Connectの使用の手引き — Marketto Docs — 製品ドキュメント
 title: Sales Connectの使い始めに
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## Sales ConnectアカウントをSalesforceに接続{#connect-your-sales-connect-account-to-salesforce}
 
-Sales ConnectアカウントをSalesforceアカウントに接続するには、管理者または非管理者として、[この記事](http://docs.marketo.com/x/JwDb)の手順に従います。
+Sales ConnectアカウントをSalesforceアカウントに接続するには、管理者または非管理者として、[この記事](https://docs.marketo.com/x/JwDb)の手順に従います。
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Marketo内から資格情報のセットを取得する必要があります。 
 
 お客様のアカウントに（以前のToutAppから）既に存在するユーザーが存在する場合は、Sales ConnectのMarketoセクションの&#x200B;**「チームアクセス**」タブに表示されます。
 
-このページから、Marketo Sales Connect Userとしてチームをプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](http://docs.marketo.com/display/TOUT/Invite+Team+Members)の手順に従ってください。
+このページから、Marketo Sales Connect Userとしてチームをプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](https://docs.marketo.com/display/TOUT/Invite+Team+Members)の手順に従ってください。
 
 >[!CAUTION]
 >
