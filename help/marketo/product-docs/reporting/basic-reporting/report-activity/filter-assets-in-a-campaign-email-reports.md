@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: キャンペーンの電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
 title: キャンペーンの電子メールレポートでのアセットのフィルタリング
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # キャンペーンの電子メールレポート内のアセットのフィルタ{#filter-assets-in-a-campaign-email-reports}
 
-プログラムー内の特定の[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)、またはアーカイブされたキャンペーンに対する[の電子メールパフォーマンス](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)レポートの焦点を絞ります。
+プログラムー内の特定の[スマートキャンペーン](https://docs.marketo.com/display/docs/smart+campaigns)、またはアーカイブされたキャンペーンに対する[の電子メールパフォーマンス](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)レポートの焦点を絞ります。
 
 1. 「**Analytics **(または&#x200B;**マーケティングアクティビティ**)」領域に移動します。
 
@@ -56,5 +56,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
