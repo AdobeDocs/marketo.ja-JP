@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: プログラムアナライザーの作成 — Marketto Docs — 製品ドキュメント
 title: プログラム分析計の作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)を参照してください。
+>詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)を参照してください。
