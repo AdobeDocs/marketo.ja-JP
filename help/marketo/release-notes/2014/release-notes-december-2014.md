@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: リリースノート — 2014年12月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年12月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Marketor管理者が管理者/Launchpoint](../../product-docs/demand-generation/
 
 ・リードの結合
 
-詳細は、[developers.marketo.com](http://developers.marketo.com/)のリリース後に提供されます。
+詳細は、[developers.marketo.com](https://developers.marketo.com/)のリリース後に提供されます。
 
 ## Munchkin Javascript互換性拡張{#munchkin-javascript-compatibility-enhancements}
 
