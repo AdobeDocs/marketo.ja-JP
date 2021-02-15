@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Sales Insight - Marketto Docs — 製品ドキュメントへの電子メールの投稿
 title: Sales Insightへの電子メールの公開
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[Microsoft ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) DynamicsまたはSalesforceに関するSales Insightから電子メールを送信する際に、My Tokensが解決しません。標準のトークンのみが設定されます(リード、会社など)。ただし、トークンのデフォルト値は有効です。
+>[Microsoft ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) DynamicsまたはSalesforceに関するSales Insightから電子メールを送信する際に、My Tokensが解決しません。標準のトークンのみが設定されます(リード、会社など)。ただし、トークンのデフォルト値は有効です。
 
 >[!TIP]
 >
->変更を有効にするために、この電子メールを承認するのを忘れないでください。 [電子メール](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)の承認方法を説明します。
-
+>変更を有効にするために、この電子メールを承認するのを忘れないでください。 [電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)の承認方法を説明します。
