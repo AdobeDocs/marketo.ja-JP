@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: ステータス別人物レポート — マーケティング担当者ドキュメント — 製品ドキュメント
 title: ステータス別ユーザーレポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本的なレポート](http://docs.marketo.com/display/docs/basic+reporting)の深い深さで、列の追加方法などを説明します。
+   >[基本的なレポート](https://docs.marketo.com/display/docs/basic+reporting)の深い深さで、列の追加方法などを説明します。
 
