@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: WebキャンペーンーへのターゲットURLの追加 — Marketto Docs — 製品ドキュメント
 title: WebキャンペーンーへのターゲットURLの追加
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 >
 >
 >* ダイアログとウィジェットのWebキャンペーンは、「任意のページ」と「ワイルドカード(*)」オプションを使用できます。
-* 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URLでは大文字と小文字が区別されます。
 
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 1. a追加**キャンペーン名** **ターゲットセグメント**&#x200B;を選択します。 追加&#x200B;**ターゲットURL**。
 
    >[!NOTE]
-   ゾーン内のターゲットURLは、特定のURLを定義する必要があります。 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   ゾーン内のターゲットURLは、特定のURLを定義する必要があります。 高度な使用例では、ゾーン内Webキャンペーンーで、URLパスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
