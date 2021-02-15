@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: コンテンツレコメンデーションバー — マーケティングドキュメント — 製品ドキュメントを有効にする
 title: コンテンツレコメンデーションバーの有効化
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
->* [予測コンテンツの準備](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [予測コンテンツの準備](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >**表示URLを含む/除外**
    >
    >    * 表示URLはドメインのパスである必要があります
-   >    * http://またはhttps://を含めない
+   >    * https://またはhttps://を含めない
    >    * ワイルドカードには*を使用
    * セミコロンを区切り文字として使用する
    * 例：/contact_us*;*action=logout*
