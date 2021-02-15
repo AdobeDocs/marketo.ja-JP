@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: リリースノート — 2015年2月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 喜べ！ ツリーのドラッグ&amp;ドロップまたは移動機能を使用して、プログラムの内外でスマートキャンペーンを移動できるようになりました。
 
-** [Dynamics 2015 （オンライン）](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) ** — サポート！
+** [Dynamics 2015 （オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) ** — サポート！
 
 **HTTPS証明書の変更**
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 次のドメインでは、現在使用されているセキュリティプロトコル（SHA-1およびSSL）を、より安全なバージョン(SHA-2(a.k. SHA-256)およびTLS)に置き換えます。
 
-`·` [marketo.net](http://marketo.net) （暗号化されたMunchkinトラフィック）
+`·` [marketo.net](https://marketo.net) （暗号化されたMunchkinトラフィック）
 
-`·` [marketo.com](http://marketo.com) （メインのSaaSアプリケーション）
+`·` [marketo.com](https://marketo.com) （メインのSaaSアプリケーション）
 
-これは、このリリース後間もなく発生します。 2015年12月まで、SHA-1プロトコルは[mktoapi.com](http://mktoapi.com)ドメインで一時的にサポートされ、レガシーシステムやアプリケーションの所有者がSHA-2互換でシステムを更新できるようになります。
+これは、このリリース後間もなく発生します。 2015年12月まで、SHA-1プロトコルは[mktoapi.com](https://mktoapi.com)ドメインで一時的にサポートされ、レガシーシステムやアプリケーションの所有者がSHA-2互換でシステムを更新できるようになります。
 
 **セキュアマンチキン**
 
-SSL3のサポートを削除します。 以前のWebブラウザーのサポートを維持するため、SSL3を今まで維持してきましたが、2015年には、これらのブラウザーからの大量のWebトラフィックは見られなくなりました。 これは、セキュリティで保護されたページでMunchkinを使用した場合にのみ影響し、2月のリリース後はゆっくり展開します。
+SSL3のサポートを削除します。 古いWebブラウザーのサポートを維持するため、SSL3を今まで維持してきましたが、2015年には、これらのブラウザーからの大量のWebトラフィックは見られなくなりました。 これは、セキュリティで保護されたページでMunchkinを使用した場合にのみ影響し、2月のリリース後はゆっくり展開します。
 
 ## リアルタイムパーソナライゼーションの機能強化{#real-time-personalization-enhancements}
 
