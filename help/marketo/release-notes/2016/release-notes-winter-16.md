@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: リリースノート — Winter '16 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Microsoft Edgeを、Marketoがサポートするブラウザー](https://docs.ma
 
 ## [Mobile Marketingの機能強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGapのサポート：モバイルアプリ** のPhoneGapのサポートをオファーしました。[詳細情報](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGapのサポート：モバイルアプリ** のPhoneGapのサポートをオファーしました。[詳細情報](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
 
 **Sandboxアプリのサポート**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [プログラムAPI](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [プログラムAPI](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 REST APIを使用して、プログラムを作成、更新およびコピーします。 プログラム内でのスマートリストとスマートキャンペーンの作成または更新は含まれません。
 
