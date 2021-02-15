@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Webキャンペーンのプレビューとテスト — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのプレビューとテスト
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)または[Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
+   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)または[Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
 
 ## ブラウザプラグイン{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}を使用した作成ページでのWebキャンペーンのプレビュー
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 1. キャンペーンのクリエイティブを完了し、「**起動**」をクリックします。\
    ![](assets/click-launch.jpg)
 
-1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：[www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Webサイトに対するキャンペーンの反応を確認する。
 
 >[!NOTE]
