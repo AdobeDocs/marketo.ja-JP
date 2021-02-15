@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Marketto Sales Insight - Marketto Docs — 製品ドキュメントでの登録解除フッターの設定
 title: Marketor Sales Insightでの登録解除フッターの設定
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >**定義**
 >
->**Sales** Emailは、Sales Insightから送信された電子メールです。（Marketo Outlookプラグインから送信されたものは含まれません。）
+>**販売** 電子メールは、Sales Insightから送信されたものです（Marketo Outlookプラグインから送信されたものは含まれません）。
 
 1. **管理者**&#x200B;領域に移動します。
 
    ![](assets/one-1.png)
 
-1. 「**Sales Insight, **>**設定を編集**」をクリックします。
+1. 「**Sales Insight**」をクリックし、「**設定を編集**」をクリックします。
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-   * **テンプレートなし** — 販売ユーザーが手動で作成。
+   * **No Template** ：販売ユーザーが手動で構成します。
    * **標準電子メール**  — テンプレートに基づく電子メールです。
    * **運用上の電子メール**  — 購読解除、マーケティングの一時停止、通信の制限を無視する電子メール（何があっても送信）。
 
@@ -45,12 +45,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**登録解除設定を適用：**登録解除されたリードは、公開された電子メールが「運用中」であっても電子メールを受信しません
+   >**登録解除設定を適用**:未登録のリードは、公開された電子メールが「運用中」であっても電子メールを受信しません。
    >
-   >
-   >**Ignore Unsubscribe Settings:** 登録解除リードWILL receives the email
+   >**Ignore Unsubscribe Settings**:未登録のリードがEメールを受信
 
-   必要な変更を行い、「保存」をクリックします。
+1. 必要な変更を行い、[**保存**]をクリックします。
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ ht-degree: 0%
    ![](assets/four-1.png)
 
 フー！ 少し複雑ですが、かなり柔軟ですね。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)の詳細を表示します。
-
