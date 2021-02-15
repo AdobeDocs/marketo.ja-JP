@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: パフォーマンスインサイトの概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイトの概要
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 貢献度{#contribution}
 
-顧客の獲得、影響、コンバージョン、さらにはインストールベースの増加に対するマーケティングの[貢献度を評価](http://docs.marketo.com/x/QAvG)。
+顧客の獲得、影響、コンバージョン、さらにはインストールベースの増加に対するマーケティングの[貢献度を評価](https://docs.marketo.com/x/QAvG)。
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 ## トレンド{#trend}
 
-[長期的な傾向](http://docs.marketo.com/x/QgvG)を明らかにして、一貫した勝者戦略を示します。
+[長期的な傾向](https://docs.marketo.com/x/QgvG)を明らかにして、一貫した勝者戦略を示します。
 
 ![](assets/4.png)
 
 ## 設定{#settings}
 
-売上高とパイプラインダッシュボードで、[設定](http://docs.marketo.com/x/pIDS)アイコンをクリックして、追加のパラメーターを設定します。
+売上高とパイプラインダッシュボードで、[設定](https://docs.marketo.com/x/pIDS)アイコンをクリックして、追加のパラメーターを設定します。
 
 ![](assets/5.png)
 
