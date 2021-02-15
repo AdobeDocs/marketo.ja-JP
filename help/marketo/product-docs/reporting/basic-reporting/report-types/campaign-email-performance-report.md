@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: キャンペーン電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: キャンペーン電子メールのパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # キャンペーン電子メールのパフォーマンスレポート{#campaign-email-performance-report}
 
-[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)でグループ化された電子メールのパフォーマンス統計を表示するには、キャンペーンの電子メールのパフォーマンスレポートを実行します。
+[スマートキャンペーン](https://docs.marketo.com/display/docs/smart+campaigns)でグループ化された電子メールのパフォーマンス統計を表示するには、キャンペーンの電子メールのパフォーマンスレポートを実行します。
 
 1. [レポートを作成し、「](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)  **キャンペーン電子メール** [のパフォーマンス」レポートタイプを選択し](report-type-overview.md)ます。
 1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >詳細については、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+   >詳細については、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
