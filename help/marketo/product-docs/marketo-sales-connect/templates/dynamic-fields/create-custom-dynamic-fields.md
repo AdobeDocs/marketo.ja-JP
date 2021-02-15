@@ -3,9 +3,9 @@ unique-page-id: 14352508
 description: カスタム動的フィールドの作成 — Marketto Docs — 製品ドキュメント
 title: カスタム動的フィールドの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -18,16 +18,23 @@ ht-degree: 0%
 ## 1人または数人の連絡先用のカスタムフィールドの保存{#saving-custom-fields-for-one-or-a-few-contacts}
 
 1. 「人」ページで、連絡先の名前をクリックします。
+
 1. 「登録解除」の横のドロップダウンを選択し、「**編集**」を選択します。
+
 1. 編集ページの一番下までスクロールします。 その後、フィールドの名前と値を作成できます。
+
 1. 「**保存**」をクリックします。
 
 ## 多数の連絡先用のカスタムフィールドを保存する{#saving-custom-fields-for-many-contacts}
 
 1. 独自の列にカスタムフィールドを含むCSVスプレッドシートを作成します。
-1. [通常のCSVアップロードプロセス](http://docs.marketo.com/x/HIPS)に従い、フィールドマッピング画面で終了します。
-1. プリセットフィールドの1つではなく、ドロップダウンから追加新しいカスタムフィールド&#x200B;**を選択します。**
+
+1. [通常のCSVアップロードプロセス](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従い、フィールドマッピング画面で終了します。
+
+1. プリセットフィールドの1つの代わりに、ドロップダウンから追加新しいカスタムフィールド&#x200B;**を選択します。**
+
 1. 目的のフィールド名を入力し、「**OK**」をクリックします。
+
 1. CSVのアップロードを完了します。 ユーザー設定フィールドが追加された連絡先が表示されます。
 
 >[!NOTE]
@@ -38,7 +45,8 @@ ht-degree: 0%
 
 上記の方法を使用してカスタムフィールドを保存すると、テンプレートでそれらを参照できます。
 
-1. [テン](http://docs.marketo.com/x/OCDG) プレートを作成し、通常と同じように **動的** フィールドボタンをクリックします。
-1. 表示されるドロップダウンから[**カスタムフィールド**]を選択します。
-1. 事前に保存されているカスタムフィールドが表示され、テンプレートに入力するフィールドを選択できます。
+1. [テン](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) プレートを作成し、通常と同じように **動的** フィールドボタンをクリックします。
 
+1. 表示されるドロップダウンから[**カスタムフィールド**]を選択します。
+
+1. 事前に保存されているカスタムフィールドが表示され、テンプレートに入力するフィールドを選択できます。
