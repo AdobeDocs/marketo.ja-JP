@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: JavaScriptのコンテンツAI向けデプロイ — Marketto Docs — 製品ドキュメント
 title: JavaScriptのコンテンツ用の導入 —AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ウェブパーソナライゼーションのJavaScriptタグをコピーし、ページのヘッダーの`<head> </head>`タグの間に最初のスクリプトとして貼り付けます。 [実装の手順の詳細については、](http://docs.marketo.com/display/docs/rtp+tag+implementation) [を参照してください。](http://pages2.marketo.com/rtp-implementation.html)
+   >ウェブパーソナライゼーションのJavaScriptタグをコピーし、ページのヘッダーの`<head> </head>`タグの間に最初のスクリプトとして貼り付けます。 [実装の手順の詳細については、](https://docs.marketo.com/display/docs/rtp+tag+implementation) [を参照してください。](https://pages2.marketo.com/rtp-implementation.html)
 
 1. タグがランディングページやサブドメインを含むすべてのページに表示されることを確認します。 `website’s`ページを右クリックして、これを確認します。 Webブラウザーで&#x200B;**表示ページソース**&#x200B;に移動します。 検索：「RTP」
 1. タグの切り替えが&#x200B;**ON**&#x200B;に設定されていることを確認します。
