@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: 電子メールインサイトでのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
 title: 電子メールインサイトでのフィルタリング
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## アカウントベースのマーケティング{#account-based-marketing}
 
-[アカウントベースのマーケティング](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)を使用する場合は、特別なフィルターがあります。
+[アカウントベースのマーケティング](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)を使用する場合は、特別なフィルターがあります。
 
 ![](assets/abm.png)
 
