@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメントを使用してマーケティングの話を伝える
 title: Opportunity Influence Analyzerでマーケティング事例を伝える
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Opportunity Influence Analyzerを使用して、重要なオポチュニティ�
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   この例では、CEOのSarah GellerがWebサイトを何度も訪問し、ブログを購読していることがわかります。 これは、同社がこの機会に対して関心を寄せていることを、マーケティングプログラムや資産が大きく左右したことを示している。
+   この例では、CEOのSarah GellerがWebサイトを何度も訪問し、ブログを購読していることがわかります。 これは、MegaCorpがこの機会に対する関心を、大部分はマーケティングプログラムや資産によって引き起こしたことを示している。
 
    タイムライン上のオレンジ色の点をクリックして、オポチュニティの作成と終了に役立ったイベント、プログラム、おもしろい瞬間のストーリーを埋めます。
 
@@ -83,6 +83,6 @@ Opportunity Influence Analyzerを使用して、重要なオポチュニティ�
 
 
 
-   * [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)
+   * [基本レポート](https://docs.marketo.com/display/docs/basic+reporting)
 
 
