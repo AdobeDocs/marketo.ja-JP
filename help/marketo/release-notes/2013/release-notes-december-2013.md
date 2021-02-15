@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: リリースノート — 2013年12月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年12月
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # リリースノート：2013年12月{#release-notes-december}
 
-12月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
+12月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
 
 リリース後は、各機能の詳細なナレッジベース記事について、コミュニティの「新しいリリース」タブを必ず確認してください。
 
 ## 背景の写真を最適化{#sweet-background-photos}
 
-我々は、我々の創造力を申込書に表現し始めた。 毎四半期、新しいアーティストが登場します。 蹴飛ばすために[トレイ・ラトクリフ](http://stuckincustoms.smugmug.com/)を選びました。
+我々は、我々の創造力を申込書に表現し始めた。 毎四半期、新しいアーティストが登場します。 蹴飛ばすために[トレイ・ラトクリフ](https://stuckincustoms.smugmug.com/)を選びました。
 
 ## 電子メールプログラム{#email-program}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Eメールチャンピオン/対抗テスト{#email-champion-challenger-testing}
 
-[Champion/Channer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) テストはA/Bテストに似ていますが、異なる点は、トリガーされた電子メールに使用され、勝者を自動的に送信しない点です。このテストでは、チャンピオンと呼ばれる確立された方法に挑戦でき、チャレンジャーを紹介して、それがまだ最良かどうかをテストできます。 さらに、Champion/Channerer電子メールテストは、エンゲージメントプログラムストリーム内で使用できます。
+[Champion/Channer](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) テストはA/Bテストに似ていますが、異なる点は、トリガーされた電子メールに使用され、勝者を自動的に送信しないという点です。このテストでは、チャンピオンと呼ばれる確立された方法に挑戦でき、チャレンジャーを紹介して、それがまだ最良かどうかをテストできます。 さらに、Champion/Channerer電子メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
 ## 電子メール分析のリードの詳細{#lead-details-in-email-analysis}
 
