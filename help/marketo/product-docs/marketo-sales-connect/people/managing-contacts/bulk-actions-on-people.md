@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: 人に対するバルクアクション — Marketto Docs — 製品ドキュメント
 title: ユーザーに対するバルクアクション
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 認証{#authorization}
 
-[GDPR](http://eugdpr.org/)に準拠して、認証を使用して、これらの連絡先との関与に関する権限を受け取った方法を示します。
+[GDPR](https://eugdpr.org/)に準拠して、認証を使用して、これらの連絡先との関与に関する権限を受け取った方法を示します。
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ ht-degree: 0%
 
 ## {#delete}を削除
 
-連絡先を一括で削除します。 [ここ](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)に完全な手順があります。
+連絡先を一括で削除します。 [ここ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)に完全な手順があります。
 
 ![](assets/delete.png)
-
