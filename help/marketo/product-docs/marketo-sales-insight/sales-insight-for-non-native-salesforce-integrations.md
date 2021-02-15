@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: ネイティブ以外のSalesforce統合向けのSales Insight - Marketto Docs — 製品ドキュメント
 title: ネイティブ以外のSalesforce統合に関するSales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 >
 >* Marketing Suiteのインスタンスに対して「MSI非ネイティブ」機能を有効にするには、Customer Success Managerにお問い合わせください。
 >* MSIパッケージが設定されたSalesforceアカウント。
->* Marketo REST API [は](http://developers.marketo.com/rest-api/)を正常にセットアップしました。 公開されたCRUD APIは、非ネイティブ同期の実行の基盤となります。
->* オブジェクトと関係を理解するために、[このブログの記事](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を読んでください。
+>* Marketo REST API [は](https://developers.marketo.com/rest-api/)を正常にセットアップしました。 公開されたCRUD APIは、非ネイティブ同期の実行の基盤となります。
+>* オブジェクトと関係を理解するために、[このブログの記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を読んでください。
 >* Salesforceオブジェクトを設定し、大文字と小文字を区別する15文字のグローバル一意識別子ではなく、大文字と小文字を区別しない18文字のグローバル一意識別子を表示します。
 
 >
@@ -57,12 +57,12 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
  </tbody> 
 </table>
 
-販売担当者向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-販売担当者を同期するためのAPIドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+販売担当者向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+販売担当者を同期するためのAPIドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
 
 1. SalesforceアカウントをMarketoに同期します。
 
-   Salesforceアカウントでは、マーケティング担当会社をアップセートする必要があります。 会社のアップサートに対して、*externalCompanyId*&#x200B;と&#x200B;*externalSalesPersonId*&#x200B;の各フィールドを必須にします。
+   Salesforceアカウントでは、マーケティング担当会社をアップセートする必要があります。 *externalCompanyId*&#x200B;と&#x200B;*externalSalesPersonId*&#x200B;の各フィールドは、会社のアップサート用に必須です。
 
 <table> 
  <colgroup> 
@@ -89,8 +89,8 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
  </tbody> 
 </table>
 
-会社向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
-`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
+会社向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
+`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. Salesforceのリード/連絡先をMarketorに同期します。
 
@@ -116,7 +116,7 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Salesユーザーは、大文字と小文字を区別しないグローバル一意識別子</td> 
-   <td>このリード/連絡先を所有する外部Salesforce Salesユーザーオブジェクトを識別します。<br><br>また、リードをMarketorの販売担当者に関連付けます。最初に営業担当者を正しく同期する必要があります。</td> 
+   <td>このリード/連絡先を所有する外部Salesforce Salesユーザーオブジェクトを識別します。<br><br>リードをMarketorの販売担当者と関連付ける。最初に営業担当者を正しく同期する必要があります。</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
@@ -126,8 +126,8 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
  </tbody> 
 </table>
 
-リードのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
-リードを同期するためのAPIドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+リードのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
+リードを同期するためのAPIドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. SalesforceオポチュニティをMarketoに同期。
 
@@ -163,8 +163,8 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
  </tbody> 
 </table>
 
-OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Salesforceの連絡先ロールをMarketoに同期します。
 
@@ -200,8 +200,8 @@ OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/
  </tbody> 
 </table>
 
-OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. 最後の注目のモーメント/MSIスコアリングフィールドをSFDCに同期します。
 
@@ -264,7 +264,7 @@ OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/
  </tbody> 
 </table>
 
-リードREST APIに関するドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
+リードREST APIに関するドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
 
 外部フィールドを適切に使用することは、非ネイティブ同期を正常に行うための鍵となります。 一部の表示でデータを表示できない場合は、特定のフィールドが正しく同期されていなかった可能性があります。 例えば、リードのアクティビティと興味深い瞬間が、自分のアカウントの下のMSIウィジェットを閲覧すると表示されない場合、リードの会社またはアカウントが正しく同期されなかった可能性があります。 外部フィールドの指定中にこのリードに対してGETリクエストを実行すると、リードが正しく同期されたかどうかを確認できます。 また、Marketoの外部販売担当者向けの電子メールは、Salesforceのそのユーザー向けの電子メールと一致する必要があります。 電子メールが一致しない場合、Salesforceの「Marketo」タブにデータが表示されないことがあります。
 
