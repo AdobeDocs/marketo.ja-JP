@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: MarketorをDynamics - Marketto Docs — 製品ドキュメントと同期するための必須フィールド
 title: マーケティングとDynamicsを同期するための必須フィールド
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Sales Insightが機能するには、これらのフィールド&#x200B;*は、M
 
 次に、同期フィールドを検証および追加する方法を示します。
 
-1. [管理者]に移動し、[Microsoft Dynamics]をクリックします。
+1. 管理者に移動し、**Microsoft Dynamics**&#x200B;をクリックします。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 「フィールドの同期の詳細」で「編集」をクリックします。
+1. 「フィールドの同期の詳細」で「**編集**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Sales Insightが機能するには、これらのフィールド&#x200B;*は、M
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. 「保存」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ Sales Insightが機能するには、これらのフィールド&#x200B;*は、M
 
 >[!MORELIKETHIS]
 >
->[リード/接触レコードの星と炎の設定](http://docs.marketo.com/x/BICMAg)
-
+>[リード/接触レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
