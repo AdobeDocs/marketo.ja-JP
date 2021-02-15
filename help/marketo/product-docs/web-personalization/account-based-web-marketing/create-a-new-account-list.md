@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: 新しいアカウントリストの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいアカウントリストの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この記事は、レガシーのWeb ABMユーザーのみを対象とします。 2016年9月以降にWeb ABMを取得した場合は、[この記事](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)の手順に従ってください。
+>この記事は、レガシーのWeb ABMユーザーのみを対象とします。 2016年9月以降にWeb ABMを取得した場合は、[この記事](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)の手順に従ってください。
 
 ## 新しいアカウントリストの作成{#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ CSVファイルは既存のファイルを置き換えます。 既存のリス�
 >[!MORELIKETHIS]
 >
 >* [アカウントリストを使用したセグメントの作成](create-a-segment-using-an-account-list.md)
->* [名前付きアカウントリストの表示](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [名前付きアカウントリストの表示](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
