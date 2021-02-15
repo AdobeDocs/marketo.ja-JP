@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: 他のCRMへの電子メールのログ方法 — Marketto Docs — 製品ドキュメント
 title: 電子メールを他のCRMにログする方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ CRMからBCCアドレスが届いた場合は、「その他」のCRMセクシ�
 
 ## {#crms-we-integrate-with}と統合するCRM
 
-**`Almost every CRM`**:
+**ほとんどすべてのCRM**:
 
-* Omnitureの`auto-BCC`* *機能は、Sales Connectと共にリードに送信した電子メールのほとんどすべてに対応しています。 CRMからご希望のBCCアドレスが提供されていることを確認してください。
+* アドビの自動BCC機能は、Sales Connectと共にリードに送信した電子メールのほとんどすべてに対応しています。 CRMからご希望のBCCアドレスが提供されていることを確認してください。
 
-**`Salesforce`**:
+**Salesforce**:
 
 * 我々は上のことを何度もやる！
 
@@ -34,4 +34,3 @@ CRMからBCCアドレスが届いた場合は、「その他」のCRMセクシ�
 1. [**保存**]をクリックすると、BCCアドレスがSales Connectに保存されます。
 
    BCCを介して電子メールがCRMにログに記録されるようになります。
-
