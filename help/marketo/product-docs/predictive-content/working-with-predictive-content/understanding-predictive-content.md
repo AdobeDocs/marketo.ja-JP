@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 予測コンテンツについて — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツについて
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ## 予測コンテンツの表示表データ{#view-table-data-for-predictive-content}
 
-表では、左から右へ、どのソースから予測コンテンツが有効になっているかを表示できます。レコメンデーションバー、電子メールおよびリッチメディアを参照してください。 有効なソースは緑色で表示されます。 これらを有効にするには、コンテンツ[を編集](http://docs.marketo.com/display/docs/edit+predictive+content)します。
+表では、左から右へ、どのソースから予測コンテンツが有効になっているかを表示できます。レコメンデーションバー、電子メールおよびリッチメディアを参照してください。 有効なソースは緑色で表示されます。 これらを有効にするには、コンテンツ[を編集](https://docs.marketo.com/display/docs/edit+predictive+content)します。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [予測コンテンツ](http://docs.marketo.com/display/docs/predictive+content)
->* [予測コンテンツの編集](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [予測コンテンツ](https://docs.marketo.com/display/docs/predictive+content)
+>* [予測コンテンツの編集](https://docs.marketo.com/display/docs/edit+predictive+content)
 
