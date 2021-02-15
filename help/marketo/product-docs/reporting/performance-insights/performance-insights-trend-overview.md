@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: パフォーマンスインサイトトレンドの概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイトトレンドの概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。 この例では、[ファーストタッチ](http://docs.marketo.com/display/DOCS/Understanding+Attribution)を通じて勝ったオポチュニティを調べます。
+パフォーマンスを表示する指標を選択します。 この例では、[ファーストタッチ](https://docs.marketo.com/display/DOCS/Understanding+Attribution)を通じて勝ったオポチュニティを調べます。
 
 ![](assets/3-2.png)
 
