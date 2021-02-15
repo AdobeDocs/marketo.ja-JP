@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: セットアップ手順 — Marketto Docs — 製品ドキュメント
 title: 設定手順
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ include:mktomail.com
    >
    >これらのカスタムテンプレートは、Launch Packのお客様のみ利用できます。
 
-   「[Marketo Template Design and Build](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html)」フォームに移動します。 会社情報を入力します。
+   「[Marketo Template Design and Build](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html)」フォームに移動します。 会社情報を入力します。
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
@@ -367,7 +367,7 @@ include:mktomail.com
 >
 >Launch Packのお客様ですか。 この手順はスキップできます。 担当のコンサルタントが、ITセットアップ手順ドキュメントのMunchkinコードの手順を提供します。
 
-Marketoには、任意のWebページ上の個人アクティビティを追跡するために使用できる、カスタムの追跡JavaScript(Munchkin)があります。 Munchkinは、WebサイトをMarketoに統合するために必要です。 [貴社のウェブサイト](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)追加に対するマンチキントラッキングコードの送信手順を実行します。
+Marketoには、任意のWebページ上の個人アクティビティを追跡するために使用できる、カスタムの追跡JavaScript(Munchkin)があります。 Munchkinは、WebサイトをMarketoに統合するために必要です。 以下の手順に従って、[追加貴社のウェブサイト](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)に対するマンチキントラッキングコードを作成します。
 
 >[!NOTE]
 >
