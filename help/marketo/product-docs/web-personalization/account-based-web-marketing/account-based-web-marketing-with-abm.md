@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: ABMを使用したアカウントベースのWebマーケティング — Marketto Docs — 製品ドキュメント
 title: ABMを使用したアカウントベースのWebマーケティング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ABMを使用したアカウントベースのWebマーケティング{#account-based-web-marketing-with-abm}
 
-Marketorは、新しい[アカウントベースのマーケティング](http://docs.marketo.com/display/docs/account+based+marketing)(ABM)アプリケーションを導入しました。
+Marketorは、新しい[アカウントベースのマーケティング](https://docs.marketo.com/display/docs/account+based+marketing)(ABM)アプリケーションを導入しました。
 
 マーケティングツールのウェブパーソナライゼーションと新しいアカウントベースマーケティング(ABM)を使用する場合：
 
