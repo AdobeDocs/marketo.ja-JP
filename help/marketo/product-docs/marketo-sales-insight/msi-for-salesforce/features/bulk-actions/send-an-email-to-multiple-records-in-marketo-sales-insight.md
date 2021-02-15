@@ -3,7 +3,7 @@ unique-page-id: 5472672
 description: Marketo Sales Insight - Marketto Docs — 製品ドキュメントの複数のレコードへの電子メールの送信
 title: Marketor Sales Insightの複数のレコードへの電子メールの送信
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,17 +33,16 @@ Marketto Sales Insightを使用して複数の人にマーケティング担当�
 
    >[!TIP]
    >
-   >ボタンが見えない？ [リスト表示](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)にマーケティングボタンを追加したことを確認します。
+   >ボタンが見えない？ [リスト表示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)にマーケティングボタンを追加したことを確認します。
 
-1. 先に進み、メールを作成します。 終了したら「**Send with Marketto **」をクリックします。
+1. 先に進み、メールを作成します。 終了したら、「**Send with Marketto**」をクリックします。
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)に電子メールを[公開し、それらの電子メールから選択できます。
+   >Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)に電子メールを[公開し、それらの電子メールから選択できます。
 
    >[!NOTE]
    >
    >一度に200件までのマーケティング担当者の電子メールを送信できます。
-
