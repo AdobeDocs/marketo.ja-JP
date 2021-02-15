@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: カスタムフィールドをパフォーマンスインサイトに同期 — Marketto Docs — 製品ドキュメント
 title: カスタムフィールドをパフォーマンスインサイトに同期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ MPI売上高とパイプラインダッシュボードは、カスタムマー�
 
 >[!NOTE]
 >
->この記事は、****&#x200B;を持たない[RCA](http://docs.marketo.com/x/lwIk)ユーザー専用です。 RCAをお持ちの場合は、[この記事](http://docs.marketo.com/x/FQQk)の手順に従ってください。
+>この記事は、****&#x200B;を持たない[RCA](https://docs.marketo.com/x/lwIk)ユーザー専用です。 RCAをお持ちの場合は、[この記事](https://docs.marketo.com/x/FQQk)の手順に従ってください。
 
 1. **管理者**&#x200B;セクションに移動します。
 
