@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: 閲覧されたWebページ、Webページアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: 表示されたWebページ、Webページアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートをさらに活用 [基本的なレポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水機を見てください。
+   >レポートをさらに活用 [基本的なレポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機を見てください。
 
