@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Googleメール — Marketto Docs -表示ドキュメントの製品者とアカウントの情報とアクティビティ
 title: Googleメールの表示担当者とアカウント情報およびアクティビティ
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -49,5 +49,4 @@ Marketorアイコンをクリックして、パネルを開きます。
 
 >[!MORELIKETHIS]
 >
->[Google ChromeでのMarketo Insightsの使用](using-marketo-insights-for-google-chrome.md)
-
+>[Google ChromeでのMarketo Insightsの使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
