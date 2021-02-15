@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Professional Editionのお客様向けSalesforceカスタマイズのインストール — Marketto Docs — 製品ドキュメント
 title: Professional Editionのお客様向けSalesforceカスタマイズのインストール
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 
 ## ガイド{#guides}
 
-[Salesforce Classicのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Salesforce Classicのインストールガイド](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Salesforce Lightningのインストールガイド](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightningのインストールガイド](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
