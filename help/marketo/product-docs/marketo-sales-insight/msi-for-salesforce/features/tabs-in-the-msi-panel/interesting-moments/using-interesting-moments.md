@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: 興味深い瞬間の使用 — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間の使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->これらは、Marketo Sales Insightおよび[Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ)のお客様のみ利用できます。
+>これらは、Marketo Sales Insightおよび[Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)のお客様のみ利用できます。
 
 ## 面白い瞬間って何？ {#what-is-an-interesting-moment}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## Salesforceで面白い瞬間はどのように見えますか。 {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)を&lt;a0/>インストールすると、リード、連絡先、アカウント、またはオポチュニティページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
+[Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をインストールすると、リード、連絡先、アカウント、またはオポチュニティページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
 
 ![](assets/six.png)
 
