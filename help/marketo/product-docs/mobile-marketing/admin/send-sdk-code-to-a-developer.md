@@ -3,7 +3,7 @@ unique-page-id: 7512448
 description: 開発者へのSDKコードの送信 — Marketto Docs — 製品ドキュメント
 title: 開発者へのSDKコードの送信
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 アプリ内メッセージまたはプッシュ通知を作成する前に、AndroidおよびiOSプラットフォーム用のMobile App SDKを開発者が設定して初期化する必要があります。
 
-* [Androidの手順](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOSの手順](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Androidの手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [iOSの手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## SDKコードを開発者に送信{#send-sdk-code-to-a-developer-1}
 
