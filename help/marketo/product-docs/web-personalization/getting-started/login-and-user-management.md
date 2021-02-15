@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: ログインとユーザー管理 — Marketto Docs — 製品ドキュメント
 title: ログインとユーザー管理
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. ロール名を入力し、「権限」を選択します。 「**作成**」をクリックします（このロールは[すべてのワークスペース](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)に適用する必要があります）。
+1. ロール名を入力し、「権限」を選択します。 「**作成**」をクリックします（このロールは[すべてのワークスペース](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)に適用する必要があります）。
 
    ![](assets/four.png)
 
