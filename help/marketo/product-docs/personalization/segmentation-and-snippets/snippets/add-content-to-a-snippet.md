@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: スニペット追加のコンテンツ — Marketto Docs — 製品ドキュメント
 title: スニペット追加の内容
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >独自の画像またはファイルをMarketorに追加できます。 [画像とファイル](http://docs.marketo.com/display/docs/images+and+files)の詳細を参照してください。
+   >独自の画像またはファイルをMarketorに追加できます。 [画像とファイル](https://docs.marketo.com/display/docs/images+and+files)の詳細を参照してください。
 
 1. 使用する&#x200B;**画像**&#x200B;を選択し、「**挿入**」をクリックします。
 
