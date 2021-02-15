@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: リリースノート — 2012年4月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年4月
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
+>その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 同じリードグループを一貫してターゲットしているか。 その場合は、スマートリストでリードをターゲティングするためにセグメント化を使用します。 セグメント化を行うと、リードデータベース全体が常にセグメント化され、一貫性を確保するためにプログラム全体で再利用できます。 セグメント化の結果は、リクエスト時にスマートなリストを実行する必要がないので、すばやく取得されます。
 
