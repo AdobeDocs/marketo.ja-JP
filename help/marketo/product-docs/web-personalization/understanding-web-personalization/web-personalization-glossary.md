@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: ウェブパーソナライゼーション用語集 — Marketto Docs — 製品ドキュメント
 title: ウェブパーソナライゼーション用語集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 次に、ウェブパーソナライゼーションでワイルドカードを使用する3つの方法を示します。
 
-価格で終わるページURLのすべての訪問者に一致します(例：[www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+価格で終わるページURLのすべての訪問者に一致します(例：[www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
