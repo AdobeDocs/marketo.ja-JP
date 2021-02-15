@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: 新しいウィジェットWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいウィジェットWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
   </tr> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
+   <td colspan="1">Webキャンペーンーの<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>イン/アウトをアニメート</strong></td> 
@@ -123,7 +123,7 @@ Webキャンペーンページで、プレビューするWebキャンペーン�
 
    ![](assets/widget-campaign-delete-hand.png)
 
-1. Webキャンペーンーを削除するかどうかを確認するメッセージが表示されます。
+1. Webキャンペーンーを削除するかどうかを確認する確認メッセージが表示されます。
 
 >[!MORELIKETHIS]
 >
