@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: ランディングページ設定の編集 — Marketto Docs — 製品ドキュメント
 title: ランディングページ設定の編集
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    | 用語 | 定義 |
    |---|---|
-   | ランディングページのドメイン名 | これはCNAMEです。 CNAMEは、ランディングページにユーザーに提供するURLの最初の部分です。 例えば、`http://go.yourCompany.com`では「go」という単語がCNAMEです。 複数を持つことはできますが、ほとんどの人は1つだけを使用します。 |
+   | ランディングページのドメイン名 | これはCNAMEです。 CNAMEは、ランディングページにユーザーに提供するURLの最初の部分です。 例えば、`https://go.yourCompany.com`では「go」という単語がCNAMEです。 複数を持つことはできますが、ほとんどの人は1つだけを使用します。 |
    | フォールバックページ | ランディングページが存在しない場合やダウンした場合は、ここに移動します。 [フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)の詳細を表示します。 |
    | ホームページ | 会社サイトのURLを入力します。 |
 
