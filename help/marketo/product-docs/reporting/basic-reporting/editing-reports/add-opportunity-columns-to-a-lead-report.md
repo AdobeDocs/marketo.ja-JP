@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: リードレポートの「Opportunity」追加列 — Marketto Docs - Product Documentation」
 title: リ追加ードレポートの「商談」列
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リードレポートの追加オポチュニティ列{#add-opportunity-columns-to-a-lead-report}
 
-[個人レポート](http://docs.marketo.com/display/docs/basic+reporting)のオポチュニティに関する統計を確認するには、オポチュニティ列を追加します。
+[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)のオポチュニティに関する統計を確認するには、オポチュニティ列を追加します。
 
 1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. ドロップダウンメニューから「**表示**」を選択します。
+1. ドロップダウンメニューから[**表示**]を選択します。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
@@ -77,5 +77,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
 
