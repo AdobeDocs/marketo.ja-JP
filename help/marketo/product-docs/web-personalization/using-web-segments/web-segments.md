@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webセグメント — Marketto Docs — 製品ドキュメント
 title: Webセグメント
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
 
 ![](assets/image2014-11-12-10-3a46-3a32.png)
 
-表でセグメントを選択すると、右側のパネルにそのセグメントに関する詳細情報が表示されます。
+表でセグメントを選択すると、右側のパネルにそのセグメントに関する詳細が表示されます。
 
 次の内容が詳しく説明されています。
 
@@ -108,23 +108,27 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
 >1. すべてのフィルター（1と2と3...）を使用
 >1. 任意のフィルター(1、2、3...)を使用
 >1. 高度なフィルター(および/または式を使用)
->
->    アドバンスフィルターでは、セグメント条件を制御できます。 「and」と「or」で区切ったフィルター番号を入力します。
->
->    * 1と2と3
->    * 1、2または3
->
->    「and」と「or」を混ぜると、論理的な意図を明確にするために括弧が必要です。 例えば「1 or 2 and 3」は、次のいずれかとして記述する必要があります。
->
->    * 1 and （2または3）
->    * （1及び2）又は(3)
->
->    入れ子の括弧は、より複雑なロジックに対して使用できます。例えば、
->
->    * （1及び2）又は（3及び4）
->    * 1 and (2 or (3 and 4))
->
->    挿入、削除、並べ替えの後で、ロジックを確認します。
+
+   >
+   >    
+   アドバンスフィルターでは、セグメント条件を制御できます。 「and」と「or」で区切ったフィルター番号を入力します。
+   >
+   >    
+   * 1と2と3
+   >    * 1、2または3
+
+   >
+   「and」と「or」を混ぜると、論理的な意図を明確にするために括弧が必要です。 例えば「1 or 2 and 3」は、次のいずれかとして記述する必要があります。
+
+   * 1 and （2または3）
+   * （1及び2）又は(3)
+
+   入れ子の括弧は、より複雑なロジックに対して使用できます。例えば、
+
+   * （1及び2）又は（3及び4）
+   * 1 and (2 or (3 and 4))
+
+   挿入、削除、並べ替えの後で、ロジックを確認します。
 
 
 
@@ -192,7 +196,7 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
 
 >[!NOTE]
 >
->名前付きアカウントリスト名の横の括弧内の数字は、Webパーソナライゼーション[読み取りAPI](http://developers.marketo.com/documentation/websites/rtp-js-api/)のリストのインデックス参照として使用されます。
+>名前付きアカウントリスト名の横の括弧内の数字は、Webパーソナライゼーション[読み取りAPI](https://developers.marketo.com/documentation/websites/rtp-js-api/)のリストのインデックス参照として使用されます。
 
 **ISPの除外**
 
@@ -292,11 +296,11 @@ Mobile OSをセグメントエディターにドラッグ&amp;ドロップしま
 
 **ユーザーコンテキストAPI**
 
-WebパーソナライゼーションAPIは、[こちらを参照してください。](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+WebパーソナライゼーションAPIは、[こちらを参照してください。](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**ワイルドカードの使用 —** 任意の検索語句またはURLに含める場合、「[google.com](http://google.com)」または「search term product」と呼ぶ場合は、ワイルドカードと呼ばれ、両端にアスタリスク（この小さな男性*）が付いている必要があります。したがって、[google.com](http://google.com)から来るものはすべて* [google.com](http://google.com)*と入力する必要があります。
+>**ワイルドカードの使用 —** 任意の検索語句またはURLに含める場合、「[google.com](https://google.com)」または「search term product」と呼ぶ場合は、ワイルドカードと呼ばれ、両端にアスタリスク（この小さな男性*）が付いている必要があります。したがって、[google.com](https://google.com)から来るものはすべて* [google.com](https://google.com)*と入力する必要があります。
 
 ## セグメントの編集{#edit-segments}
 
