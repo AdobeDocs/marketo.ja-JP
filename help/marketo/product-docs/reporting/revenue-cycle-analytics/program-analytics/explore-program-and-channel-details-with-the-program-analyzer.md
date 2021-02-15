@@ -3,7 +3,7 @@ unique-page-id: 2360437
 description: プログラム分析 — Marketto Docs — 製品ドキュメントを使用して、プログラムとチャネルの詳細を調べます。
 title: プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -59,4 +59,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >詳細な解析については、[売上高エクスプローラー](http://docs.marketo.com/display/docs/revenue+explorer)を参照してください。
+   >詳細な解析については、[売上高エクスプローラー](https://docs.marketo.com/display/docs/revenue+explorer)を参照してください。
