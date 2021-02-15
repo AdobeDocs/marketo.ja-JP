@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: キャンペーンアクティビティレポートのフィルター — Marketto Docs — 製品ドキュメント
 title: キャンペーンアクティビティレポートのフィルタリング
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # キャンペーンアクティビティレポートのフィルタ{#filter-a-campaign-activity-report}
 
-[キャンペーンアクティビティレポート](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を特定の[スマートキャンペーン](http://docs.marketo.com/display/docs/smart+campaigns)に絞り込みます。
+[キャンペーンアクティビティレポート](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を特定の[スマートキャンペーン](https://docs.marketo.com/display/docs/smart+campaigns)に絞り込みます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）に移動し、キャンペーンアクティビティレポートを選択します。
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
+>[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
