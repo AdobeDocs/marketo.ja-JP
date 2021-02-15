@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: 販売テンプレートのロック — Marketto Docs — 製品ドキュメント
 title: 販売テンプレートのロック
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ CRMユーザーが販売テンプレートを編集できないように、管�
    >[!NOTE]
    >
    >デフォルトでは、このチェックボックスがオンになっており、CRMユーザーは電子メールの編集が許可されています。
-
