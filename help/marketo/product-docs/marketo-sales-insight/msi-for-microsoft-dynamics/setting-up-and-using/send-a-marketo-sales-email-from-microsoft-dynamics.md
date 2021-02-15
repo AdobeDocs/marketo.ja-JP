@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Microsoft Dynamics - Marketto Docs — 製品ドキュメントからMarketto Salesの電子メールを送信する
 title: Microsoft DynamicsからのMarketto Sales電子メールの送信
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >[電子メールをテンプレート](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)として発行して、販売チームが使用できるようにします。
+   >[電子メールをテンプレート](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)として発行して、販売チームが使用できるようにします。
 
 1. 件名を入力し追加、電子メールを作成し、**電子メールを送信**&#x200B;をクリックします。 （必要に応じてテンプレートを選択します）。
 
@@ -45,9 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics追加のMarketing Serverキャンペーンへのリード/連絡先](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Microsoft Dynamics追加のMarketing Serverキャンペーンへのリード/連絡先](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
