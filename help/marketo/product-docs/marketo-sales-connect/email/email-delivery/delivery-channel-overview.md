@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: 配信チャネルの概要 — Marketto Docs — 製品ドキュメント
 title: 配信チャネルの概要
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Webアプリケーションでは、IDは上記で作成したとおりに表示
 
 ## カスタムSMTPサーバー{#custom-smtp-server}
 
-自分のサーバの代金を払う？ Microsoft Exchange環境を使用する これは、お客様にとってのオプションです。 [設定の際には、](http://docs.marketo.com/x/zYTS)これらの説明を調べてください。 Gmailサーバーと同様、Sales Connectはサーバーを直接管理しないので、バウンスした電子メールイベントをWebアプリケーションに記録しません。
+自分のサーバの代金を払う？ Microsoft Exchange環境を使用する これは、お客様にとってのオプションです。 [設定の際には、](https://docs.marketo.com/x/zYTS)これらの説明を調べてください。 Gmailサーバーと同様、Sales Connectはサーバーを直接管理しないので、バウンスした電子メールイベントをWebアプリケーションに記録しません。
