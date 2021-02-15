@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: スマートリスト- Marketto Docs — 製品ドキュメントを使用したレポート内のユーザーのフィルター
 title: スマートリストを使用したレポート内のユーザーのフィルター
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * [ユーザーパフォーマンス](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [ステータス別ユーザー](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [売上高段階別のユーザー](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [売上高段階別のユーザー](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [電子メールリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [エンゲージメントストリームのパフォーマンス](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >レポートの使用方法について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
+   >レポートの使用方法について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
