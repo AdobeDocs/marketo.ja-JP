@@ -3,7 +3,7 @@ unique-page-id: 14352433
 description: Sales ConnectでのPriority Callリストの作成方法 — Marketto Docs — 製品ドキュメント
 title: Sales Connectでの優先度呼び出しリストの作成方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 ToutAppの電子メールエンゲージメントデータを使用して優先度の高いレポート/呼び出しリストを作成し、勢いのある人や機会に時間を集中させる方法を説明します。
 
-1. [Webアプリケーション](http://toutapp.com/login)のアカウントに移動します。 次の手順を完了すると、「Priority Callリスト」がSales Connectに保存され、最も暖かいリード/アカウントの優先順位を決め、暗くなったリード/アカウントの再関与、低くなったフルーツの捕捉、キャンペーンのタッチ間の接続時間の短縮を行います。
+1. [Webアプリケーション](https://toutapp.com/login)のアカウントに移動します。 次の手順を完了すると、「Priority Callリスト」がSales Connectに保存され、最も暖かいリード/アカウントの優先順位を決め、暗くなったリード/アカウントの再関与、低くなったフルーツの捕捉、キャンペーンのタッチ間の接続時間の短縮を行います。
+
 1. 次の手順を実行します。
 
    * 「表示オプション」をクリックします
@@ -31,4 +32,3 @@ ToutAppの電子メールエンゲージメントデータを使用して優先�
    >[!NOTE]
    >
    >Sales ConnectまたはSalesforceから、お客様の電話番号、リード/連絡先の電話番号を自動的に取り込み、（SalesforceをCRMとして使用している場合）Salesforceに電話とメモを自動的に記録します。 また、ローカル配置と通話記録を使用するオプションもあります。
-
