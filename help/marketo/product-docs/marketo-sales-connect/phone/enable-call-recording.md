@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: 通話の記録を有効にする — Marketto Docs — 製品ドキュメント
 title: 通話の記録を有効にする
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 販売者に自分自身の通話記録を有効または無効にする機能を与えたい場合は、[**オプションの通話記録]をクリックして、すべてのチームメンバーの通話記録を有効または無効にします。 **すべての呼び出しを自動的に記録する場合は、** clickRecord all calls.**
+1. 販売業者に自分自身の通話記録を有効または無効にする機能を与えたい場合は、[**すべてのチームメンバーのオプションの録画**]をクリックします。 すべての呼び出しを自動的に記録する場合は、[**すべての呼び出しを記録する**]をクリックします。
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[双方の同意の設定](http://docs.marketo.com/x/dgC1Ag)
-
+>[双方の同意の設定](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
