@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: 機能の概要 — Marketto Docs — 製品ドキュメント
 title: 機能概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ ht-degree: 0%
 * 面白い瞬間
 * ステータス
 * リードフィード — IMの購読機能を含む
-
