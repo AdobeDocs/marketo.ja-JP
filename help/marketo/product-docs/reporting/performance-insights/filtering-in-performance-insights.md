@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: パフォーマンスインサイトでのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトでのフィルタリング
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現時点では、カスタム属性は、[RCA](http://docs.marketo.com/x/lwIk)を有効にしているお客様のみがフィルターで使用できます。
+>現時点では、カスタム属性は、[RCA](https://docs.marketo.com/x/lwIk)を有効にしているお客様のみがフィルターで使用できます。
 
 カテゴリをクリックすると、複数のサブカテゴリが表示されます。
 
@@ -53,11 +53,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM指定アカウント</strong></td> 
-   <td colspan="1">Marketo ABMを使用している場合は、すべての名前付きアカウントがMPIと同期され、「ABM名前付きアカウント」フィルターを使用して表示されます。 名前付きのアカウントを選択して、そのアカウントに結果をフィルターできます。<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">ABM名前付きアカウントの詳細を表示します。</a></td> 
+   <td colspan="1">Marketo ABMを使用している場合は、すべての名前付きアカウントがMPIと同期され、「ABM名前付きアカウント」フィルターを使用して表示されます。 名前付きのアカウントを選択して、そのアカウントに結果をフィルターできます。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM名前付きアカウントの詳細を表示します。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>カスタム属性</strong></td> 
-   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析に対して有効にしたすべての<a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">フィールドは、パフォーマンスインサイトでフィルタリングできます。</a></p></td> 
+   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析に対して有効にしたすべての<a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">フィールドは、パフォーマンスインサイトでフィルタリングできます。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期間</strong></p></td> 
