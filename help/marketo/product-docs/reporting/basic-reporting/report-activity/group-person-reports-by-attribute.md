@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: 属性別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: 属性別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 属性別グループ個人レポート{#group-person-reports-by-attribute}
 
-[個人レポート](http://docs.marketo.com/display/docs/basic+reporting)は、任意の人または会社属性でグループ化できます。
+[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)は、任意の人または会社属性でグループ化できます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+   >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
    >[!MORELIKETHIS]
    >
