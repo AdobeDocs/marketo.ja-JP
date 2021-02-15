@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: セグメントの編集 — Marketto Docs — 製品ドキュメント
 title: セグメントの編集
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## セグメントルールの編集{#edit-segment-rules}
 
-1. ドラフト&#x200B;**セグメント**&#x200B;で、**スマートリスト**&#x200B;に移動します。 [セグメントルールの定義](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)に類似したルールを適用します。
+1. ドラフト&#x200B;**セグメント**&#x200B;で、**スマートリスト**&#x200B;に移動します。 [セグメントルールの定義](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)に類似したルールを適用します。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
