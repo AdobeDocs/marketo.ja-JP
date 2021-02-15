@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: 既存顧客の設定 — Marketto Docs — 製品ドキュメント
 title: 既存のお客様の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ ht-degree: 0%
 ## MarketorでのSales Insightの設定{#configure-sales-insight-in-marketo}
 
 1. ブラウザーで新しいタブを開き、MarketorアカウントからMarketor Sales Insightsの資格情報を取得します。
+
 1. **管理者**&#x200B;領域に移動します。
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ ht-degree: 0%
 ## Marketing to Sales Insight {#access-marketo-sales-insight}へのアクセス
 
 1. MarketorのSales Insight管理者ページのRest APIパネルから秘密鍵証明書をコピーします。 それらをSalesforceのSales Insight設定ページのRest APIセクションに貼り付けます。
+
 1. API秘密鍵を入力します。
 
    ![](assets/config.png)
-
