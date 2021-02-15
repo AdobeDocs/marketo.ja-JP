@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: セグメントの順序の優先順位 — Marketto Docs — 製品ドキュメント
 title: セグメントの順序の優先順位
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-かっこいい？ セグメントは、動的コンテンツ[レポート](http://docs.marketo.com/display/docs/basic+reporting)、さらに[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)でも使用できます。
+かっこいい？ セグメントは、動的コンテンツ[レポート](https://docs.marketo.com/display/docs/basic+reporting)、さらに[スマートリスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)でも使用できます。
 
