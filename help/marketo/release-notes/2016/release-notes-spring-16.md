@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: リリースノート — Spring '16 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Spring '16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Spring 16リリースには次の機能が含まれています。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
-## [電子メールインサイト](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [電子メールインサイト](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 電子メールインサイトは、集計データの新しい電子メール分析エクスペリエンスです。プロジェクトオリオンの一部として、驚異的な高速パフォーマンスを実現するようにエンドツーエンドに再設計されました。 電子メールマーケティング担当者のニーズやワークフローに合わせて最適化された、完全に新しいユーザーインターフェイスデザインが特徴です。
 
@@ -53,11 +53,11 @@ Marketo内でアプリ用の魅力的なアプリ内メッセージを作成で�
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [カスタムアクティビティ](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [カスタムアクティビティ](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 マーケティング担当者は、カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。 Marketorカスタムオブジェクトモデラーと同様（および連携して）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。 この機能の使い方の詳細については、[Marketoのドキュメントサイト](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)を参照してください。
 
-## [ランディングページ、ランディングページテンプレート、フォームAPI](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [ランディングページ、ランディングページテンプレート、フォームAPI](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketo REST APIで、マーケティングランディングページ、ランディングページテンプレートおよびフォームの制御がサポートされるようになりました。 ユーザーは、Marketor REST APIを使用して、これらのアセットを直接作成、コンテンツの更新、承認および削除できるようになりました。
 
