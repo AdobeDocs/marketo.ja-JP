@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: マーケティング用語集 — Marketto Docs — 製品ドキュメント
 title: マーケティング用語集
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -185,7 +185,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>制約</strong></a></td> 
-   <td colspan="1">スマートリスト<strong>フィルター</strong>/<strong>に追加できる追加条件は、</strong>をトリガーして検索を絞り込むのに役立ちます。</td> 
+   <td colspan="1">スマートリスト<strong>フィルター</strong>/<strong>トリガー</strong>に追加して、検索範囲を絞り込むことができます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>コンテンツ</strong></td> 
@@ -431,7 +431,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -446,7 +446,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>既知の人</strong></a></td> 
-   <td><p>Marketor <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。 データベースを使用するユーザーには、次のような様々な方法があります。CRM同期、フォームへの入力、リストの読み込み/手動入力、プログラム（REST API/パートナー統合）、その他。 Web訪問者は、最初はMarketoの<strong>Munchkin</strong>Webトラッキング経由で<strong>cookie</strong>され（匿名）、その後、特定可能なアクションが発生した場合に、対応する既知の人物レコードにマッピングされます。<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>と<a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>の両方の</p></td> 
+   <td><p>Marketor <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。 データベースを使用するユーザーには、次のような様々な方法があります。CRM同期、フォームへの入力、リストの読み込み/手動入力、プログラム（REST API/パートナー統合）、その他。 Web訪問者は、最初はMarketoの<strong>Munchkin</strong>Webトラッキング経由で<strong>cookie</strong>され（匿名）、その後、特定可能なアクションが発生した場合に、対応する既知の人物レコードにマッピングされます。<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>と<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>の両方の</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -528,7 +528,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Adobe Experience Cloud内のすべてのマーケティング担当者の商品オファーを集計するための正式なブランド名。</td> 
+   <td colspan="1">Adobe Experience Cloud内のすべてのマーケティング担当者の製品の集計を表す正式なブランド名。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>マーケティング担当リード管理(MLM)</strong></td> 
@@ -555,7 +555,7 @@ ht-degree: 0%
    <td>MSDとも呼ばれます。 2つのCRMのうちの1つは、<a href="#c"><strong>CRM</strong></a>を参照してください。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">マンチキン</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">マンチキン</a></strong></td> 
    <td>マーケティング担当者向けのカスタムJavaScriptトラッキングコード。 Webサイトの訪問者をすべて追跡します。 匿名訪問者（IPアドレスやその他の情報と共に）も含まれます。 </td> 
   </tr> 
   <tr> 
@@ -759,8 +759,8 @@ ht-degree: 0%
    <td colspan="1"><p>特定のドメインのメール送信が許可される電子メールサーバーを識別する認証メカニズム。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>スマートキャンペーン</strong></a></td> 
-   <td colspan="1">Marketoの最も重要なツールの1つ。 ユーザーは、決定した条件に基づいて指定したアクションを実行します。 (「<strong><a href="#b">バッチキャンペーン</a></strong>」および「<strong><a href="#t">キャンペーン</a></strong>をトリガー」も参照)。</td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>スマートキャンペーン</strong></a></td> 
+   <td colspan="1">Marketoの最も重要なツールの1つ。 ユーザーは、決定した条件に基づいて指定したアクションを実行します。 (<strong><a href="#b">バッチキャンペーン</a></strong>および<strong><a href="#t">トリガーキャンペーン</a></strong>も参照)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>スマートリスト</strong></td> 
@@ -827,12 +827,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>トリガー</strong></td> 
-   <td>トリガーキャンペーン</a>が発生した場合に、そのイベントの<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">フローステップをアクティブにするアクティビティまたはイベント（例えば、誰かがWebページを訪問したり、電子メール内のリンクをクリックしたりするなど）。 </a></td> 
+   <td>トリガーキャンペーン</a>の<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">フローステップをアクティブにするアクティビティまたはイベント（例えば、誰かがWebページを訪問したり、電子メール内のリンクをクリックしたりするなど）。 </a></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> トリガキャンペーン</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> トリガーキャンペーン</strong></a></p> 
     </div></td> 
    <td>少なくとも1つのトリガーを含む<strong>スマートキャンペーン</strong>。</td> 
   </tr> 
