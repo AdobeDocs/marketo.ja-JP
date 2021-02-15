@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: 最新のクライアントバージョン - Marketto Docs — 製品ドキュメント
 title: 最新のクライアントバージョン
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ ht-degree: 5%
 >[!NOTE]
 >
 >現在、Chrome以外のブラウザーに最適化されていません。 これは、製品チームが認識し、今後対応したいと考えていることです。
-
