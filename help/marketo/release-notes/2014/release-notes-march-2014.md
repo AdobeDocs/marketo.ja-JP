@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: リリースノート — 2014年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年3月
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 ## マーケティング開発者ブログ{#marketo-developer-blog}
 
-[Marketo Developerのブログ](http://developers.marketo.com/blog/)は、急速に発展する現代マーケターのニーズをサポートするWeb開発者やソフトウェアエンジニアに捧げています。 新しい統合オプション、APIバージョンの更新、およびMarketoプラットフォームとの統合に関するコードサンプルとベストプラクティスを含む新しいハウツー記事に関するお知らせを登録できます。
+[Marketo Developerのブログ](https://developers.marketo.com/blog/)は、急速に発展する現代マーケターのニーズをサポートするWeb開発者やソフトウェアエンジニアに捧げています。 新しい統合オプション、APIバージョンの更新、およびMarketoプラットフォームとの統合に関するコードサンプルとベストプラクティスを含む新しいハウツー記事に関するお知らせを登録できます。
 
-このシリーズの[最初の記事](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)では、APIを使用してMarketor内に保存されている人（顧客/連絡先/リード）に関する情報を効率的に取得する方法について説明します。
+このシリーズの[最初の記事](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)では、APIを使用してMarketor内に保存されている人（顧客/連絡先/リード）に関する情報を効率的に取得する方法について説明します。
