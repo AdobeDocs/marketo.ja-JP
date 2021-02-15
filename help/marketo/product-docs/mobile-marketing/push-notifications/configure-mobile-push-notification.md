@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: モバイルプッシュ通知の設定 — Marketto Docs — 製品ドキュメント
 title: モバイルプッシュ通知の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -99,7 +99,7 @@ ht-degree: 0%
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-ただし、アプリのディープリンク構造は上記の例とは異なる場合があります。 開発者はディープリンクURIの定義に多くのオプションを持っているので、使用するページのURI（リンク）を開発者に送ってもらうようにしてください。 これにより、プッシュメッセージに入力したURIが適切な場所を指すようになります。 開発者は[詳細は](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)を参照してください。
+ただし、アプリのディープリンク構造は上記の例とは異なる場合があります。 開発者はディープリンクURIの定義に多くのオプションを持っているので、使用するページのURI（リンク）を開発者に送ってもらうようにしてください。 これにより、プッシュメッセージに入力したURIが適切な場所を指すようになります。 開発者は[詳細は](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)を参照してください。
 
 >[!MORELIKETHIS]
 >
