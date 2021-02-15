@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: 黙示的なSalesforceアクション — Marketto Docs — 製品ドキュメント
 title: 黙示的なSalesforceアクション
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce固有のフローステップが実行される場合、追加のステップが自動的に実行されることがあります。 次にルールを示します。
 
-[Salesforce.com](http://Salesforce.com)_に現在連絡先またはリードがいない場合、_&#x200B;ルールが適用されます。
+[Salesforce.com](https://Salesforce.com)_に現在連絡先またはリードがいない場合、_&#x200B;ルールが適用されます。
 
 <table> 
  <thead> 
