@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: リリースノート — 16年秋 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 16年秋
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 2016年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
-## [電子メール内の予測コンテンツ](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [電子メール内の予測コンテンツ](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 アドビの予測コンテンツアプリでは、Webや電子メールのチャネルにわたる機械学習アルゴリズムや予測アルゴリズムを使用して、コンテンツを追跡、管理、および推奨する新しいユーザーエクスペリエンスが提供されます。
 
@@ -45,7 +45,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 >
 >この機能を有効にするには、マーケティング担当者にお問い合わせください。
 
-## [Marketorアカウントベースのマーケティングの強化](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Marketorアカウントベースのマーケティングの強化](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 次に、アカウント所有者、販売開発担当者、ビジネス開発担当者、顧客サクセスマネージャーなど、アカウントチームをアカウントベースマーケティング(ABM)の指定されたアカウントに割り当てることができます。 また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別ABMレポートをアカウントチームに送信することもできます。
 
@@ -53,7 +53,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **REST API**
 
-また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作の詳細については、[Marketto DevelopersのWebサイト](http://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
+また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作の詳細については、[Marketto DevelopersのWebサイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
 
 ## [監査証跡の機能強化](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,11 +67,11 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **キャンペーン制限の編集**
 
-強制できない場合は、[キャンペーン制限](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
+強制できない場合は、[キャンペーン制限](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
 
 ## [モバイルプッシュ通知のサウンド](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-サウンドを有効にして、iOSのプッシュ通知に豊富さを加えます。 この新機能を使用すると、モバイルデバイスでプッシュ通知が表示されているときにサウンドをトリガーできます。
+サウンドを有効にして、iOSのプッシュ通知に豊富さを加えます。 この新機能を使用すると、モバイルデバイスでプッシュ通知が表示されたときに、サウンドをトリガーできます。
 
 >[!NOTE]
 >
@@ -88,11 +88,11 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 Market Sales Insightは、Salesforce Shield Encryptionと互換性があります。 Sales Insightのすべてのお客様は、この最新の管理パッケージ（バージョン1.4359.2）にアップグレードする必要があります。このパッケージは[Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)で入手できます。
 
-## [名前付きアカウントAPI](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [名前付きアカウントAPI](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 このリリースでは、Marketto ABMユーザーは、名前付きアカウントAPIを使用して名前付きアカウントを管理できます。 ユーザーは、名前付きアカウントの作成、更新、削除、およびABM名付きアカウントスコアの読み取りと更新を行うことができます。
 
-## [電子メールエディタv2.0 APIのサポート](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [電子メールエディタv2.0 APIのサポート](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Marketo REST APIを使用して、v2.0形式の電子メールの変数とモジュールを管理します。
 
