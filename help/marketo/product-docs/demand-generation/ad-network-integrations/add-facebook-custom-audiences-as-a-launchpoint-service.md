@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: LaunchPointサービスとしての追加Facebookカスタムオーディエンス- Marketto Docs — 製品ドキュメント
 title: LaunchPointサービスとしての追加Facebookカスタムオーディエンス
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](http://www.facebook.com/)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com/)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
 
    >[!CAUTION]
    >
