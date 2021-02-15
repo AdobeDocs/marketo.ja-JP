@@ -2,7 +2,7 @@
 title: my-token-link
 description: マイトークンリンク
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「mkt_tokを含める」をオンにすると、ブランドのトラッキングドメインのリンクプレビュー(例：http://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
+   >「mkt_tokを含める」をオンにすると、ブランドのトラッキングドメインのリンクプレビュー(例：https://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
 
 1. 必要に応じて、「[!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「**[!UICONTROL 保存]**」をクリックします。
 
