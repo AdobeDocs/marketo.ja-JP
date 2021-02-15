@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: 新しいダイアログWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいダイアログWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの<a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
+   <td colspan="1">Webキャンペーンーの<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>ダイアログのスタイル</strong></td> 
@@ -50,7 +50,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
      <li>モダントリミング — 半透明の黒いトリムと角丸を持つ、スタイリッシュで特徴的なダイアログ</li> 
      <li>Modern Trim II — 明るいシャドウのトリムと角丸、閉じるボタンを備えた、スタイリッシュで独特なダイアログ</li> 
      <li>透明 — 完全に透明なダイアログボックスで、アクションを呼び出す際に透明な(png)画像に最適です。 </li> 
-     <li>基本 — 基本的なダイアログボックスのニーズを満たす太いタイトルヘッダースペースを持つ、シンプルなスタイルのダイアログ。</li> 
+     <li>基本 — シンプルなスタイルのダイアログで、タイトルヘッダースペースが太く、基本的なダイアログボックスのニーズを満たします。</li> 
     </ul></td> 
   </tr> 
   <tr> 
@@ -71,7 +71,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
   </tr> 
   <tr> 
    <td colspan="1"><strong>定着</strong></td> 
-   <td colspan="1">「固定」チェックボックスを選択すると、訪問者が閉じるまで、ダイアログボックスは時間制限なしでそのままの位置になり、ユーザーのセッション全体を通じてすべてのページに表示されます。</td> 
+   <td colspan="1">「固定」チェックボックスを選択すると、ダイアログボックスは訪問者が閉じるまで、時間制限なしでそのままの位置になり、ユーザーのセッション中のすべてのページに表示されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>モーダル</strong></td> 
@@ -156,7 +156,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
-1. Webキャンペーンーを削除するかどうかを確認するメッセージが表示されます。
+1. Webキャンペーンーを削除するかどうかを確認する確認メッセージが表示されます。
 
 >[!MORELIKETHIS]
 >
