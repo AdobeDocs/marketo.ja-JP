@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: リリースノート — 2019年6月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年6月
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->2019年6月18日をもって、Email 1.0はご利用いただけなくなります。 Email 2.0とEmail 1.0 [の廃止について詳しくは、](http://nation.marketo.com/docs/DOC-7038)を参照してください。
+>2019年6月18日をもって、Email 1.0はご利用いただけなくなります。 Email 2.0とEmail 1.0 [の廃止について詳しくは、](https://nation.marketo.com/docs/DOC-7038)を参照してください。
 
 ## アカウントベースのマーケティング{#account-based-marketing}
 
@@ -66,7 +66,7 @@ Marketo Sales Connect
 ## Marketo {#bizible-by-marketo}と異なる
 
 * **Dynamicsでの複数通貨のサポート**:Microsoft Dynamicsの通貨テーブルに対応するようになったため、会社通貨と地方通貨を簡単に切り替えることができます。(注意：SFDCのサポートは2019年第1四半期にリリースされました。)
-* **Drift Integration**:流れによる会話がお客様の遍歴に与える影響を理解します。また、Bizibleは、会話から電子メールアドレスを引き出して、新しいリードを作成するか、タッチポイントを既存のリードに接続します。
+* **Drift Integration**:流れによる会話がお客様のジャーニーに与える影響を理解する。また、Bizibleは、会話から電子メールアドレスを引き出して、新しいリードを作成するか、タッチポイントを既存のリードに接続します。
 * **ローカライゼーション**:Bizibleは、マーケティングでサポートされるすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で使用できるようになりました。
 
 ***製品リリース*** のウェビナー：June 19 Release Innovationsのウェビナー [をこちらでご覧ください](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)。
