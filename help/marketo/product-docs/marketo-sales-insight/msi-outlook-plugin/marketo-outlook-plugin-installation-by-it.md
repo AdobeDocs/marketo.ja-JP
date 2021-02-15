@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: IT部門別Marketto Outlookプラグインのインストール — Marketto Docs — 製品ドキュメント
 title: IT部門によるMarketo Outlookプラグインのインストール
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[エンタープライズキー](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) を設定します。
+>[エンタープライズキー](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) を設定します。
 
 次のコマンドラインを、「システム」または/iスイッチを指定した管理ユーザーアカウントで実行してインストールします。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
