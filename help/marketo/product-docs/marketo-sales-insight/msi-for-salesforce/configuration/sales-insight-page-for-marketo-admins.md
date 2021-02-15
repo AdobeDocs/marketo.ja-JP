@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: マーケティング担当者向けのSales Insightページ — Marketto Docs — 製品ドキュメント
 title: マーケティング担当者向けのSales Insightページ
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 ## 人物スコアの設定{#person-score-settings}
 
-| **星：** | 星は、他のリードと比較したリードスコアの合計を表します。 |
-|---|---|
-| **炎：** | 炎は緊急性を表し、最近リードのスコアがどの程度変更されたかを示します。 |
+* **星**:星は、他のリードと比較したリードスコアの合計を表します。
+* **炎**:炎は緊急性を表し、最近リードのスコアがどの程度変更されたかを示します。
 
 デフォルトでは、Marketo Sales Insightは、「Lead Score」フィールドを使用して星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
 
@@ -61,13 +60,11 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
    >[!TIP]
    >
-   >カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成します](http://docs.marketo.com/x/3wMk)。
+   >カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成します](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[星と炎](http://docs.marketo.com/x/qgU6Ag)
+   >[星と炎](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## 設定{#settings}
 
@@ -78,7 +75,7 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 テンプレートなし、標準電子メール、および運用電子メールに対する次の登録解除設定から選択できます
 
 * 登録解除設定を優先
-* 2つ以上の受信者の場合に登録解除設定を適用
+* 1つ以上の受信者の場合に登録解除設定を適用
 * 5受信者以上の場合に登録解除設定を適用
 * 登録解除設定を無視
 
@@ -88,4 +85,4 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 **RSSフィードを有効にする：**
 
-有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。**.**
+有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。
