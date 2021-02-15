@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: プライバシー設定について — Marketto Docs — 製品ドキュメント
 title: プライバシー設定について
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 また、マーケティング担当者は、匿名IPを使用してユーザーを追跡できます。
 
-これらの方法は、特定の領域におけるマーケティング担当者の価値と機能に影響を与える可能性があります。 ただし、マーケター&#x200B;*がマーケティング担当者の設定内容を*&#x200B;変更しない場合、Marketoの機能は変わりません。
+これらの方法は、特定の領域におけるマーケティング担当者の価値と機能に影響を与える可能性があります。 ただし、マーケター&#x200B;*がマーケティング担当者の設定内の変更を*&#x200B;行わない場合、Marketoの機能は変わりません。
 
 ## 追跡しないブラウザーの設定{#browser-settings-for-do-not-track}
 
@@ -72,7 +72,7 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 
    >[!NOTE]
    >
-   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 ご使用の購読で有効にするには、[マーケティング担当者](http://nation.marketo.com/community/support_solutions)にお問い合わせください。
+   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 ご使用の購読で有効にするには、[マーケティング担当者](https://nation.marketo.com/community/support_solutions)にお問い合わせください。
 
 * Webパーソナライゼーション(RTP)の場合、次をjavascriptに追加します。
 
