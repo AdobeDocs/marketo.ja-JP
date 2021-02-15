@@ -3,9 +3,9 @@ unique-page-id: 14352602
 description: 動的フィールドに入力できない — Marketo Docs — 製品ドキュメント
 title: 動的フィールドに入力できない
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## {#what-to-check}の確認内容
 
-Sales Connectには、次の3種類の動的フィールドがあります。基本、カスタム、Salesforce。 「基本」と「カスタム」はどちらも、[Webアプリケーション](http://toutapp.com/login)から情報を取り込むように見えます。 Webアプリケーションに情報が存在しない場合、フィールドは空白になります。 Salesforceフィールドは、[Salesforce.com](http://salesforce.com)から情報を取り込みます。
+Sales Connectには、次の3種類の動的フィールドがあります。基本、カスタム、Salesforce。 「基本」と「カスタム」はどちらも、[Webアプリケーション](https://toutapp.com/login)から情報を取り込むように見えます。 Webアプリケーションに情報が存在しない場合、フィールドは空白になります。 Salesforceフィールドは、[Salesforce.com](https://salesforce.com)から情報を取り込みます。
 
-`**Troubleshooting Salesforce Fields**`
+**Salesforceフィールドのトラブルシューティング**
 
 Salesforceフィールド：例えば`{{sfdc_account_name}}`
 
-* Sales Connectとの接続が正しく行われていることを確認します。 [設定](http://toutapp.com/next#settings)ページに移動し、CRMの横の&#x200B;**管理**&#x200B;をクリックします。
+* Sales Connectとの接続が正しく行われていることを確認します。 [設定](https://toutapp.com/login)ページに移動し、CRMの横の&#x200B;**管理**&#x200B;をクリックします。
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 
@@ -31,7 +31,7 @@ Tout Basic Fields:例えば`{{company}}`
 
 カスタムフィールドを出力：例えば`{{custom_field_favorite_movie}}`
 
-* 動的フィールドを参照する[ユーザーページ](http://toutapp.com/next#relationships)の`he corresponding field needs to be saved for your contact`を参照してください。 例えば、Maryに電子メールを送信し、`{{company}}`フィールドを使用しているが、連絡先レコードが会社をリストしていない場合、その情報を入力することはできません。
+* 動的フィールドを参照するには、[ユーザーページ](https://toutapp.com/next#relationships)に連絡先のために、対応するフィールドを保存する必要があります。 例えば、Maryに電子メールを送信し、`{{company}}`フィールドを使用しているが、連絡先レコードが会社をリストしていない場合、その情報を入力することはできません。
 
 ## すべての動的フィールドに値が入力されないで電子メールが送信されたのはなぜですか。{#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -50,4 +50,3 @@ Sales Connectは、電子メールにすべての動的フィールドを入力�
 >[!NOTE]
 >
 >`{{first_name}}`フィールドは、Sales ConnectとSalesforceの両方を検索して情報を取り込もうとします。 このリストの他のすべてのフィールドは、Sales Connectを参照してフィールドに入力するだけです。
-
