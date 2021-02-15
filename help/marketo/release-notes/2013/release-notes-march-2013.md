@@ -3,7 +3,7 @@ unique-page-id: 2951101
 description: リリースノート — 2013年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年3月
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2013年3月{#release-notes-march}
 
-3月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
+3月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
 
 リリース後は、各機能の詳細なナレッジベース記事について、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ず調べてください。
 
