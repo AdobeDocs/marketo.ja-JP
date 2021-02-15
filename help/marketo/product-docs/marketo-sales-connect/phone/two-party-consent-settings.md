@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 2者間の同意の設定 — Marketto Docs — 製品ドキュメント
 title: 双方の同意の設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->次の手順に従う前に、最初に[呼び出しの記録を有効にする必要があります。](http://docs.marketo.com/x/dAC1Ag)
+>次の手順に従う前に、最初に[呼び出し記録を有効にする](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)を行う必要があります。
 
 1. 設定アイコンをクリックし、**設定**&#x200B;を選択します。
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. 切り替えボタンをクリックして、選択したメッセージを録画された呼び出しの最初に再生できるようにします。
 
    ![](assets/seven.png)
-
