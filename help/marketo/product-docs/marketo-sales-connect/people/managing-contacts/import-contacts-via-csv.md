@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: CSVでの連絡先のインポート — Marketto Docs — 製品ドキュメント
 title: CSVを使用した連絡先のインポート
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. CSV内の列をSales Connect内のそれぞれのフィールドにマップします。 終了したら「**次へ**」をクリックします。
 
    ![](assets/five.png)
-
