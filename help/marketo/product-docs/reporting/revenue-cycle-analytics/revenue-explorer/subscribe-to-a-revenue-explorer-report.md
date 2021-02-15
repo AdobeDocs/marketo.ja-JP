@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360397
-description: 売上高エクスプローラーレポートの購読 — Marketto Docs — 製品ドキュメント
+description: 売上高エクスプローラレポートの購読 — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラレポートの購読
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 売上高エクスプローラレポートの登録{#subscribe-to-a-revenue-explorer-report}
 
-[売上サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
 
 1. **Analytics**&#x200B;に移動し、**新規/新しいレポート購読を選択します。**
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
+>[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
 
