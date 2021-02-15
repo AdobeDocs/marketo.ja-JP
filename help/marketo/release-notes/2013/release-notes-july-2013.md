@@ -3,7 +3,7 @@ unique-page-id: 2951093
 description: リリースノート — 2013年7月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年7月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2013年7月{#release-notes-july}
 
-7月26日の金曜日の公開に予定されている7月のリリースには、次の機能が含まれています。  利用可能な機能については、[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
+7月26日の金曜日の公開に予定されている7月のリリースには、次の機能が含まれています。  利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
 
 リリース後は、各機能の詳細なヘルプ記事については、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ずチェックアウトしてください。
 
