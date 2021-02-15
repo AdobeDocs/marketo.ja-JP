@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: リリースノート — Winter '17 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Winter &#39;17リリースには、次の機能が含まれています。 Marke
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクト読み込みAPI](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [カスタムオブジェクト読み込みAPI](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 このAPIは、カスタムオブジェクトをMarketoに同期するための高速なインターフェイスを提供します。 CSV、TSVまたはSSVスプレッドシートファイルは、カスタムオブジェクトとしてMarketoに読み込むことができます。
 
@@ -37,7 +37,7 @@ Webキャンペーンーのすべての詳細と解析をCSV形式でエクス�
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [ローカライゼーション](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [ローカライゼーション](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケール](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択して、これらの言語でコンテンツを表示します。
 
@@ -71,7 +71,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[予測コンテンツエディター](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[予測コンテンツエディター](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 ソース別にコンテンツの準備（電子メール、リッチメディア、レコメンデーションバー）を分割する、編集操作とレイアウトが改善されました。
 
@@ -81,7 +81,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 コンテンツの自動検出プロセスで、画像URLとメタデータが使用されるようになりました。
 
-## [SDKの強化](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDKの強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 開発者は、新しいSDK API呼び出しを追加し、プッシュ通知の配信を追加制御できるようになりました。このAPI呼び出しにより、開発者はプッシュトークンを削除できます。
 
