@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: リリースノート — 2013年8月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年8月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2013年8月{#release-notes-august}
 
-2013年8月リリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php)を確認してください。
+2013年8月リリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php)を確認してください。
 
 リリース後は、新機能ごとのナレッジベースの詳細記事について、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ず調べてください。
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## 自動トリガーキャンペーンのクリーンアップ{#automatic-trigger-campaign-cleanup}
+## トリガーキャンペーンの自動クリーンアップ{#automatic-trigger-campaign-cleanup}
 
-Marketorは定期的に通知を受け取り、過去6か月間実行されていないトリガーキャンペーン](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)を[自動的に非アクティブにします。
+Marketoは定期的に通知を受け取り、過去6か月間実行されていないトリガーキャンペーン](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)を[自動的に非アクティブにします。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
