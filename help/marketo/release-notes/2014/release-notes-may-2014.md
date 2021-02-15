@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: リリースノート — 2014年5月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年5月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## ワークスペースを削除{#delete-workspace}
 
-これで、未使用のワークスペース[を&lt;a0/>削除できます。 ](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)ワークスペースを削除する前に、必ずすべてのアセットを別のワークスペースに移動してください。
+これで、未使用のワークスペース[を](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)削除できます。 ワークスペースを削除する前に、必ずすべてのアセットを別のワークスペースに移動してください。
 
 ## 最初のキャストのスケジュール{#schedule-first-cast}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >**例**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 デフォルトでは、電子メールのテキストバージョンではリンクは追跡されません。 リンクが追加いつトラッキングリンクに変換されるかを示す新しい構文です。 HTMLリンクの動作は変更されません。  電子メールに追跡リンクを追加するには：
 
@@ -85,5 +85,5 @@ AppExchangeからSales Insightの最新バージョンをダウンロードし�
 
 >[!NOTE]
 >
->以前の[Marketoリリースノート](http://docs.marketo.com/display/docs/release+notes)を確認
+>以前の[Marketoリリースノート](https://docs.marketo.com/display/docs/release+notes)を確認
 
