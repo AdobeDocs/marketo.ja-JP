@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: リリースノート — 2014年6月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年6月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Sales Insightからテスト用の電子メールを送信すると、現在、�
 
 ## リードReST API {#lead-rest-api}
 
-新しいReST APIを使用して、リードをプログラムで作成、読み取り、更新します。 ReSTを使い始めるには、Marketoでカスタムサービス](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)を[作成する必要があります。 次に、[開発者サイト](http://developers.marketo.com/documentation/rest/)に移動して、このAPIの使い方の詳細を確認します。
+新しいReST APIを使用して、リードをプログラムで作成、読み取り、更新します。 ReSTを使い始めるには、Marketoでカスタムサービス](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)を[作成する必要があります。 次に、[開発者サイト](https://developers.marketo.com/documentation/rest/)に移動して、このAPIの使い方の詳細を確認します。
 
 ## Marketto Real-Time Personalization(RTP)キャンペーンページの更新{#marketo-real-time-personalization-rtp-campaigns-page-update}
 
