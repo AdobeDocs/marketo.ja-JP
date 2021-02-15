@@ -3,7 +3,7 @@ unique-page-id: 12979858
 description: パフォーマンスインサイトFAQ — マーケティングツールドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトFAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
@@ -41,7 +41,7 @@ MPIは、リード管理アプリケーションに対する独立したアド�
 
 >[!NOTE]
 >
->解析動作の設定について詳しくは、[ここ](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings)を参照してください。
+>解析動作の設定について詳しくは、[ここ](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings)を参照してください。
 
 ## 新製品の発売時にマルチチャネルキャンペーンを実行しています。 このキャンペーンのパフォーマンスを、様々なチャネル全体で1か所に表示する方法を教えてください。{#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,7 +59,7 @@ MPIは、すべてのオポチュニティが分析に含まれているかど�
 
 1. デフォルト — MPI ONLYに含まれるプログラムは、期間コストが1つ以上の場合（ドルがゼロの場合も含む）のみです。
 1. 包括的 — このオプションは、期間のコストが含まれているかどうかに関係なく、MPIでプログラムを使用できるようにします。
-1. [操作](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  — このオプションを選択すると、MPIにプログラムが表示されません。
+1. [操作](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  — このオプションを選択すると、MPIにプログラムが表示されません。
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ MPIは、すべてのオポチュニティが分析に含まれているかど�
 
 ## 標準のSalesforce Opportunity Amountフィールドではなく、売上高のレポートにカスタムのSalesforce Opportunityフィールドを使用したい。 MPIは私にそれを許可するのか？{#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-はい。 [マーケティング担当者](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) サポートは、フィールドタイプが通貨である限り、マーケティング担当者の「Opportunity Amount」フィールドをカスタムのSalesforce Opportunityフィールドに再マップできます。MPIは「Marketo Opportunity amount」フィールドを指すので、MPIは、再マッピングされたカスタムSalesforceフィールドのデータを使用できます。
+はい。 [マーケティング担当者](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) サポートは、フィールドタイプが通貨である限り、マーケティング担当者の「Opportunity Amount」フィールドをカスタムのSalesforce Opportunityフィールドに再マップできます。MPIは「Marketo Opportunity amount」フィールドを指すので、MPIは、再マッピングされたカスタムSalesforceフィールドのデータを使用できます。
 
 >[!NOTE]
 >
@@ -100,13 +100,13 @@ MPIは、ファネルの上部から売上高への影響まで、プログラ�
 
 ## MPIでアカウント・ベースの戦略の成功を測定できますか。{#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-はい。 MPIは[Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)と統合され、ABMアカウントリストをMPIにシームレスに取り込みます。 「ABMアカウントリスト」フィルタを使用して、データをフィルタするABMリストを選択できます。
+はい。 MPIは[Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)と統合され、ABMアカウントリストをMPIにシームレスに取り込みます。 「ABMアカウントリスト」フィルタを使用して、データをフィルタするABMリストを選択できます。
 
 ## MPIを購入するとすぐにアトリビューションが利用できますか。{#is-attribution-instantly-available-when-i-purchase-mpi}
 
-マーケティングアトリビューション機能は、MPIを購入したお客様が利用できます。 ただし、オポチュニティとプログラムのデータがMPIに正しく流れるように、[適切なセットアップ](http://docs.marketo.com/x/mRPG)が必要です。
+マーケティングアトリビューション機能は、MPIを購入したお客様が利用できます。 ただし、オポチュニティとプログラムのデータがMPIに正しく流れるように、[適切なセットアップ](https://docs.marketo.com/x/mRPG)が必要です。
 
-## アトリビューションの設定に必要な作業{#what-do-i-have-to-do-to-set-up-attribution}
+## アトリビューションの設定に必要な作業は何ですか？{#what-do-i-have-to-do-to-set-up-attribution}
 
 1. 営業案件の設定
 
@@ -125,7 +125,7 @@ MPIは、ファネルの上部から売上高への影響まで、プログラ�
 
 >[!TIP]
 >
->必要なすべてのセットアップ手順の詳細については、[この記事](http://docs.marketo.com/x/mRPG)を参照してください。
+>必要なすべてのセットアップ手順の詳細については、[この記事](https://docs.marketo.com/x/mRPG)を参照してください。
 
 ## MPIとプログラム・アナライザの違いは何ですか？{#whats-the-difference-between-mpi-and-the-program-analyzer}
 
@@ -133,7 +133,7 @@ MPIは、ファネルの上部から売上高への影響まで、プログラ�
 
 ## MPIとアドバンスReport Builderの違いは何ですか。{#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-アドバンスReport Builder（RCEとも呼ばれます）は、通常、マーケティングオペレーションが行うセルフサービス（アドホック）レポート向けに設計されています。 MPIは、マーケティングリーダーやマーケターがパフォーマンスの分析にワンクリックでアクセスできるように設計されています。 最小限の設定が必要です。
+アドバンスReport Builder（RCEとも呼ばれます）は、通常、マーケティングオペレーションが行うセルフサービス（アドホック）レポート向けに設計されています。 MPIは、マーケティングリーダーやマーケターがパフォーマンス分析にワンクリックでアクセスできるように設計されています。 最小限の設定が必要です。
 
 ## 貢献度の日付フィルターの「前年」オプションはどうなりましたか？{#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 
