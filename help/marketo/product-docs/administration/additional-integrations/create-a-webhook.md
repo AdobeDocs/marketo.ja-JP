@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: Webフックの作成 — Marketto Docs — 製品ドキュメント
 title: Webフックの作成
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -49,4 +49,4 @@ Webフックを使用して、サードパーティのWebサービスを利用�
 
 >[!NOTE]
 >
->詳しくは、[webhooks](http://developers.marketo.com/documentation/webhooks/)深い潜水所を参照してください。
+>詳しくは、[webhooks](https://developers.marketo.com/documentation/webhooks/)深い潜水所を参照してください。
