@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Salesforce - Marketto Docs — 製品ドキュメントの「Marketto Sales Insight Configuration」タブ
 title: SalesforceのMarketo Sales Insightの「Configuration」タブ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ SFDCでSales Insightを使用して開始を行うには、この設定を行う
 これを選択すると、SFDC内のすべての設定が消去され、復元できなくなります。 すべての設定を再度行う必要があります。
 
 ![](assets/three.png)
-
