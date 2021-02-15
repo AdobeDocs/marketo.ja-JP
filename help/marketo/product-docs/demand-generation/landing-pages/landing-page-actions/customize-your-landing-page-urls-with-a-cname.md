@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: CNAMEを使用したランディングページURLのカスタマイズ — Marketto Docs — 製品ドキュメント
 title: CNAMEを使用したランディングページURLのカスタマイズ
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketoがランディングページをホストしている場合でも、URLは完全にカスタマイズできます。 CNAMEを使用しない場合の外観：
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 表示方法：
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## CNAMEを選択{#choose-a-cname}
 
