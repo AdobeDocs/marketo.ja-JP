@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Azureにアプリを登録して、クライアントID/アプリIDを取得します — Marketto Docs — 製品ドキュメント
 title: Azureにアプリを登録して、クライアントID/アプリIDを取得する
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Active Directoryは、オンプレミスのディレクトリをクラウ�
 
 ## 新しいアプリの登録{#registering-a-new-app}
 
-1. [管理者権限を持つアカウント](http://manage.windowsazure.com/) を使用してMicrosoft Azure管理ポータルにログインします。Office 365 Admin Centerを通じてMicrosoft Azureポータルにアクセスするには、左側のナビゲーションウィンドウで&#x200B;**管理者**&#x200B;項目を展開し、**Azure AD**&#x200B;を選択します。
+1. [管理者権限を持つアカウント](https://manage.windowsazure.com/) を使用してMicrosoft Azure管理ポータルにログインします。Office 365 Admin Centerを通じてMicrosoft Azureポータルにアクセスするには、左側のナビゲーションウィンドウで&#x200B;**管理者**&#x200B;項目を展開し、**Azure AD**&#x200B;を選択します。
 
    >[!CAUTION]
    >
