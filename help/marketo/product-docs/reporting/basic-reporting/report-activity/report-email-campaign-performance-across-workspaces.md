@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: ワークスペース全体での電子メール、キャンペーンのパフォーマンスのレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールのレポート、ワークスペース全体でのキャンペーンパフォーマンス
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールのレポート、ワークスペース間のキャンペーンのパフォーマンス{#report-email-campaign-performance-across-workspaces}
 
-「グローバルレポート」をオンにすると、[電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)および[キャンペーンのアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のすべてのマーケティング先のワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータが含まれます。[
+「グローバルレポート」をオンにすると、[電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、[キャンペーンのアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のすべてのマーケティング先のワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータが含まれます。[
 
 1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
@@ -48,5 +48,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
 
