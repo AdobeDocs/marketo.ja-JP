@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: 人々のパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: 人物パフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->レポートは[create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、[configure](http://docs.marketo.com/display/docs/basic+reporting)、[delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)で簡単に作成できます。 キーデータに集中するための最良の方法を学ぶために、様々な方法でそれらを操作して遊びましょう。
+>レポートは[create](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、[configure](https://docs.marketo.com/display/docs/basic+reporting)、[delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)で簡単に作成できます。 キーデータに集中するための最良の方法を学ぶために、様々な方法でそれらを操作して遊びましょう。
 
 >[!NOTE]
 >
 >**ディープダイブ**
 >
 >
->詳細については、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)深い潜水機を参照してください。
+>詳細については、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)深い潜水機を参照してください。
 
