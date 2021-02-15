@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: RTPとGoogle Analyticsの統合 — Marketto Docs — 製品ドキュメント
 title: RTPとGoogle Analyticsの統合
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -66,7 +66,7 @@ RTPキャンペーンを測定し、サイト全体の平均に関連付けま�
 
 ## Google Analytics{#setting-up-rtp-with-google-analytics}でのRTPの設定
 
-1. GAア追加カウントに対する読み取りと分析ユーザーの電子メール[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)。 詳しくは、[ここ](https://support.google.com/analytics/answer/2884495?hl=en)を参照してください。
+1. GAア追加カウントに対する読み取りと分析ユーザーの電子メール[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)。 詳しくは、[ここ](https://support.google.com/analytics/answer/2884495?hl=en)を参照してください。
 1. RTPアカウント内。 「**アカウント設定**」に移動します。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
