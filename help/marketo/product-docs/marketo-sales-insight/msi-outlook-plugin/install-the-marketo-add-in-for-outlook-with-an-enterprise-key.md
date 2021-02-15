@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: エンタープライズキー — Marketto Docs — 製品ドキュメントを使用してOutlook用追加Marketo-inをインストールする
 title: エンタープライズキーを使用したOutlook用Marketing 追加-inのインストール
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->表示の[エンタープライズキー]ボタンが表示されない場合は、[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)に連絡して有効にしてください。
+>表示の[エンタープライズキー]ボタンが表示されない場合は、[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)に連絡して有効にしてください。
 
 1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
