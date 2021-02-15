@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: レポートの削除 — Marketto Docs — 製品ドキュメント
 title: レポートの削除
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水部で、レポートでできるその他の機能をすべて確認します。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水部で、レポートでできるその他の機能をすべて確認します。
 
