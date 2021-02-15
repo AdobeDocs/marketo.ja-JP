@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: 別のユーザーとしての表示テンプレートリスト- Marketto Docs — 製品ドキュメント
 title: 別の表示としてのユーザーテンプレートリスト
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >また、フィルターや検索機能を表示Asと共に使用して、最も関連のあるものを表示することもできます。
-
