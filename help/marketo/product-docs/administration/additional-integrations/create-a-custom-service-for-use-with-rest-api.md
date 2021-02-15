@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: ReST API - Marketto Docs — 製品ドキュメントで使用するカスタムサービスの作成
 title: ReST APIで使用するカスタムサービスの作成
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
 >[!TIP]
 >
->[ReST API](http://developers.marketo.com/documentation/rest/)の詳細については、開発者向けのドキュメントを参照してください。 また、必要に応じて、[SOAP API](http://developers.marketo.com/documentation/soap/)も用意しています。
+>[ReST API](https://developers.marketo.com/documentation/rest/)の詳細については、開発者向けのドキュメントを参照してください。 また、必要に応じて、[SOAP API](https://developers.marketo.com/documentation/soap/)も用意しています。
 
 >[!NOTE]
 >
