@@ -3,7 +3,7 @@ unique-page-id: 11371040
 description: 電子メールテンプレート構文 — Marketto Docs — 製品ドキュメント
 title: 電子メールテンプレートの構文
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2395'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Marketingの新しい電子メール2.0エクスペリエンスでは、電子�
 
 デフォルト値
 
-class=&quot;mktEditable&quot;で指定されているHTML要素内のコンテンツは、リッチテキスト要素のデフォルト値として使用されます。
+class=&quot;mktEditable&quot;を含むHTML要素内のコンテンツ（指定されている場合）が、リッチテキスト要素のデフォルト値として使用されます。
 
 例：
 
@@ -106,7 +106,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 例：
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### オプション2 - \&lt;img\> {#option-use-an-img}を使用
 
@@ -322,7 +322,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
 
 使用例：
 
