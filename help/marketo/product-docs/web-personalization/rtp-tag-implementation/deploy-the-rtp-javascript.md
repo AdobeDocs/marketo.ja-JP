@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: RTP JavaScript - Marketto Docs — 製品ドキュメントの導入
 title: RTP JavaScriptのデプロイ
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ RTPタグを生成し、設定するには、次のインストール手順に�
 
 >[!MORELIKETHIS]
 >
->* [RTPタグの実装](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [RTPタグの実装](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
