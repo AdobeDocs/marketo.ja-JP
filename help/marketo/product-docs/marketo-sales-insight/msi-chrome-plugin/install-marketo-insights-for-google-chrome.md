@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Google Chrome用Marketo Insightsのインストール — Marketto Docs — 製品ドキュメント
 title: Google Chrome用Marketo Insightsのインストール
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. ChromeのMarketoロゴを右クリックし、「** Options**」を選択します。
+1. ChromeのMarketoロゴを右クリックし、「**オプション**」を選択します。
 
    ![](assets/two.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Regコードは、マーケティング担当者[i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [Marketto Email-inライセンス](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [の後に送信される電子メールの中に含まれ追加ます。](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **有効期限は14日です。**
+   >Regコードは、マーケティング担当者[がMarketor Email 追加-inライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [を発行した後に送信される電子メール内にあります。](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **有効期限は14日後です**。
 
 1. 「**許可**」をクリックして、オフラインアクセスを許可します。
 
@@ -45,5 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Google ChromeでのMarketo Insightsの使用](using-marketo-insights-for-google-chrome.md)
-
+>[Google ChromeでのMarketo Insightsの使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
