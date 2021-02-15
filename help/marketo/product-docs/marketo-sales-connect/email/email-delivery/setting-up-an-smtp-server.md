@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: SMTPサーバーの設定 — Marketto Docs — 製品ドキュメント
 title: SMTPサーバーの設定
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **Sales ConnectはSMTPサーバーと共にどのように送信されますか。**
 
-[次の手順](http://docs.marketo.com/x/ZgPh)に従います。
+[次の手順](https://docs.marketo.com/x/ZgPh)に従います。
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ ITチームに連絡して、会社が電子メールの送信に使用してい
 * 各ユーザーが自分で設定する必要があります
 * ユーザーのO365パスワードを変更すると、接続が切断されます
 
-Office365またはExchange Onlineを使用している場合は、標準の資格情報セットを使用してSMTPサーバーに接続できます。 Office365は一括電子メール配信サービスではありませんが、1回限りの電子メールを送信する場合に適しています。 一括電子メールを送信する際、Office365では電子メールの送信が制限され、配信の失敗の原因となる場合があります。 このチェックの詳細については、Microsoftの[SMTPクライアント送信の設定方法](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)に関する記事を参照してください。
+Office365またはExchange Onlineを使用している場合は、標準の資格情報セットを使用してSMTPサーバーに接続できます。 Office365は一括電子メール配信サービスではありませんが、1回限りの電子メールを送信する場合に適しています。 一括電子メールを送信する際、Office365では電子メールの送信が制限され、配信の失敗の原因となる場合があります。 このチェックの詳細については、Microsoftの[SMTPクライアント送信の設定方法](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)に関する記事を参照してください。
 
 &quot;1つの電子メールアドレスからのみ送信できます。ただし、デバイスがOffice 365の複数のメールボックスのログイン資格情報を保存できる場合を除きます。 Office 365には、1分あたり30通のメッセージを送信する制限と、1日あたり10,000受信者の制限が定められています。」
 
