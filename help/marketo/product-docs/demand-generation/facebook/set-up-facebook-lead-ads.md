@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Facebookリード広告の設定 — Marketto Docs — 製品ドキュメント
 title: Facebookリード広告の設定
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](http://www.facebook.com)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
 
    >[!NOTE]
    >
