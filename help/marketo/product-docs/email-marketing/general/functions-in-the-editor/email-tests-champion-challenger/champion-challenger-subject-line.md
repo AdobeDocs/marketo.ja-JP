@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger — 件名行 — Marketto Docs — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 件名行
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >上に示した分布では、スマートリストで指定された合計オーディエンスの10%に対抗の件名行を持つ電子メールの1つが届き、90%にチャンピオンの件名行を持つ電子メールが届きます。 複数の対抗の件名行を持つ電子メールは、10%が等しく共有されます。 テストが終了したら、勝者を手動で宣言できます。 それ以降は、今後すべてのユーザーがパフォーマンスの高いコンテンツを受け取ります。
 
-   統計的信頼性を得るには、選択した割合に十分な人数が含まれていることを確認して、テストが有効であることを確認します。 断定的な結果にだまされるな。 [統計的信頼性に関する情報が今まで以上に多い](http://en.wikipedia.org/wiki/Confidence_interval)。
+   統計的信頼性を得るには、選択した割合に十分な人数が含まれていることを確認して、テストが有効であることを確認します。 断定的な結果にだまされるな。 [統計的信頼性に関する情報が今まで以上に多い](https://en.wikipedia.org/wiki/Confidence_interval)。
 
 1. 「**次へ**」をクリックします。
 
