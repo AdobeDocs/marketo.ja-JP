@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: リリースノート — 2015年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年3月
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## カレンダーHD {#calendar-hd}
 
-[カレンダーの新しい表示モードで、チームのマーケティング](http://docs.marketo.com/display/docs/calendar+hd) 活動を表示します。これは、オフィス中のテレビや巨大モニタに最適です。 スマートリストまたはカスタム指標に基づいて目標を設定し、表示します。
+[カレンダーの新しい表示モードで、チームのマーケティング](https://docs.marketo.com/display/docs/calendar+hd) 活動を表示します。これは、オフィス中のテレビや巨大モニタに最適です。 スマートリストまたはカスタム指標に基づいて目標を設定し、表示します。
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## 売上高エクスプローラの再設計{#revenue-explorer-redesign}
 
-[売上高](http://docs.marketo.com/display/docs/revenue+explorer) Explorerには、新しい外観と操作性、および新しいサンバーストグラフタイプが追加されました。4月の最初の2週間にこれを展開します。
+[売上高](https://docs.marketo.com/display/docs/revenue+explorer) Explorerには、新しい外観と操作性、および新しいサンバーストグラフタイプが追加されました。4月の最初の2週間にこれを展開します。
 
 ## 新しいアセットREST API {#new-asset-rest-apis}
 
-[新しいアセットREST API](http://developers.marketo.com/)
+[新しいアセットREST API](https://developers.marketo.com/)
 
-API](http://developers.marketo.com/documentation/asset-api)を介した電子メール、テンプレート、マイトークン、ファイル、スニペット[の作成と編集がサポートされるようになりました。
+API](https://developers.marketo.com/documentation/asset-api)を介した電子メール、テンプレート、マイトークン、ファイル、スニペット[の作成と編集がサポートされるようになりました。
 
 ## Microsoft Dynamics 2015オンプレミス{#microsoft-dynamics-on-premise}
 
