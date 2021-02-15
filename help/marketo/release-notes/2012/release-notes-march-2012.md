@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: リリースノート — 2012年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年3月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
+>その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 >
 >## マイトークンの解決{#resolve-my-tokens}>
 
@@ -37,7 +37,7 @@ Editor to Previewer:
 
 ## スニペットプレビューア{#snippet-previewer}
 
-メニューから「プレビュースニペット」を選択すると、ドラフトにすることなく、スニペットを表示できます。さらに、共有スニペットに対する読み取り専用アクセス権を持っている場合は（ワークスペースを介して）、この表示を使用してスニペットをできます
+メニューから「プレビュースニペット」を選択すると、ドラフトにすることなく、スニペットを表示できます。さらに、共有スニペットに対する読み取り専用アクセス権を（ワークスペース経由で）持っている場合は、この表示でスニペットをできます
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
