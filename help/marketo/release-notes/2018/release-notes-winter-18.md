@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: リリースノート — Winter '18 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Marketorの最適化されたコンテンツ`<sup>AI </sup>`アルゴリズム�
 
 ## 統合{#integration}
 
-** [キャンペーンAPIをアクティブ化/非アクティブ化](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [キャンペーンAPIをアクティブ化/非アクティブ化](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 この新しいAPIを使用すると、トリガーキャンペーンをリモートでアクティブ化および非アクティブ化できるので、完全に自動化されたプログラムテンプレートを作成できます。 プログラムテンプレートを1回作成すると、クローン作成、マーケティングコラテラルの更新を自動化でき、スマートキャンペーンのアクティベーション/スケジュール設定が可能になります。
 
@@ -94,7 +94,7 @@ Marketorの最適化されたコンテンツ`<sup>AI </sup>`アルゴリズム�
 
 **購読解除の更新**
 
-2018年3月1日以降、[ToutApp.com](http://ToutApp.com)から（Salesforceで「Email with Tout」ボタンを使用して）送信されるすべての電子メールには、下部に登録解除リンクが追加されます。
+2018年3月1日以降、[ToutApp.com](https://ToutApp.com)から（Salesforceで「Email with Tout」ボタンを使用して）送信されるすべての電子メールには、下部に登録解除リンクが追加されます。
 
 **ライブフィードの更新**
 
