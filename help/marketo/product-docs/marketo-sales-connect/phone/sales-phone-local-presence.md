@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: 販売電話のローカルプレゼンス — Marketto Docs — 製品ドキュメント
 title: 販売電話のローカルプレゼンス
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 米国内のみの通話に対して、すべての販売電話機能をオファーします。
 
-**市外局番を呼び出すと、ローカルプレゼンス番号は常に同じですか？ **
+**市外局番を呼び出すと、常にローカルプレゼンス番号は同じですか。**
 
 市外局番を呼び出す場合、この番号は常に同じになります。
 
