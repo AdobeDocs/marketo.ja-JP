@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: コンテンツと添付ファイルに関するFAQ - Marketto Docs — 製品ドキュメント
 title: コンテンツと添付ファイルのFAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
 ユーザーは独自のテンプレートを作成でき、チーム別に整理できます。 これを行うには、[チームの管理]ページでチームを作成します。 その後、チームがテンプレート、実践ブック、グループを共有する際に、ユーザーの購読全体ではなく、それらのグループとのみ共有できるようになります。
 
 コンテンツは組織全体で共有できます。
-
