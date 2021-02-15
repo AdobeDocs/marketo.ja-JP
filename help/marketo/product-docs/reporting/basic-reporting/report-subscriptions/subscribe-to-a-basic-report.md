@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: 基本レポートの購読 — Marketto Docs — 製品ドキュメント
 title: 基本レポートの購読
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 基本レポートのサブスクライブ{#subscribe-to-a-basic-report}
 
-[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の自動更新を受け取る、または共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の自動更新を受け取る、または共有するには、既存のレポートに任意の電子メールアドレスを登録します。
 
 >[!NOTE]
 >
->[売上サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポート購読については、[売上高エクスプローラレポートの登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
+>[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポート購読については、[売上高エクスプローラレポートの登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
 
 1. 「**マーケティングアクティビティ**」領域に移動します。
 
@@ -58,5 +58,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
 
