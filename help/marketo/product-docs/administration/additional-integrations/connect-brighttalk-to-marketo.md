@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: BrightTALKをMarkettoに接続 — Marketto Docs — 製品ドキュメント
 title: BrightTALKをMarketoに接続
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 
 ## BrightTALK {#steps-in-brighttalk}のステップ
 
-1. [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login)にログインし、**今すぐ接続**&#x200B;をクリックします。
+1. [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)にログインし、**今すぐ接続**&#x200B;をクリックします。
 1. 「Advanced Marketto Connector」で、「**接続**」をクリックします。
 1. 資格情報画面が開き、次の項目を確認します。クライアントID、クライアントシークレット、IDサービスURL、RESTサービスURL。 この情報を取得するには、Marketoにログインします。
 
@@ -77,4 +77,4 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 
 1. 手順3からBrightTALKコネクタの設定画面に戻り、手順12と14で保存した資格情報を入力します。
 
-   秘密鍵証明書が認証されると、BrightTALKがMarketoに正式に接続されます。 次のステップは、[同期するデータフィールドを](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)決定することです。
+   秘密鍵証明書が認証されると、BrightTALKがMarketoに正式に接続されます。 次のステップは、[同期するデータフィールドを](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)決定することです。
