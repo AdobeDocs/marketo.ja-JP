@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: 個人レポートの追加カスタム列 — Marketto Docs — 製品ドキュメント
 title: 個人追加レポートのカスタム列
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 人追加物レポートのカスタム列{#add-custom-columns-to-a-person-report}
 
-[スマートリスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、[個人レポート](http://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。
+[スマートリスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -36,9 +36,9 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[スマートリストと静的リスト](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)の深い解説で、スマートリストを作成し、構成する方法を説明します。
+   >[スマートリストと静的リスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)の深い解説で、スマートリストを作成し、構成する方法を説明します。
 
-1. やった！ [**レポート**]タブをクリックすると、新しい列を含むレポートが表示されます。
+1. やった！ [**レポート**]タブをクリックすると、新しい列が表示されたレポートが表示されます。
 
    ![](assets/five-1.png)
 
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜在地のレポートでできる多くのことの詳細を説明します。
+   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜在地のレポートでできる多くのことの詳細を説明します。
 
