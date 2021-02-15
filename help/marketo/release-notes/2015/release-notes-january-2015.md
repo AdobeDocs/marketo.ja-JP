@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: リリースノート — 2015年1月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年1月
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ RickはSmartBearのMarketo顧客で、[信じがたい写真のコレクショ�
 * プログラムIDによるリードの取得
 * 削除されたリードの取得
 
-また、より高速なAPI呼び出しのために、リードの変更を非同期に書き込むための新しい同期リードのオプションも追加されました。 詳細は、[developers.marketo.com](http://developers.marketo.com)のリリース後に提供されます。
+また、より高速なAPI呼び出しのために、リードの変更を非同期に書き込むための新しい同期リードのオプションも追加されました。 詳細は、[developers.marketo.com](https://developers.marketo.com)のリリース後に提供されます。
 
 **電子メールスクリプティングカスタムオブジェクトのサポート**
 
@@ -59,13 +59,13 @@ RickはSmartBearのMarketo顧客で、[信じがたい写真のコレクショ�
 
 RTPタグオプションの更新
 
-[「アカウント設定」の「RTP](http://docs.marketo.com/display/docs/rtp+tag+implementation) タグオプション」が更新され、次の項目が含まれるようになりました。
+[「アカウント設定」の「RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation) タグオプション」が更新され、次の項目が含まれるようになりました。
 
 1. CDNと非同期（推奨タグ）
 1. CDNと同期（高速）
 1. CDNを使用しない非同期タグ
 1. CDNを使用しない同期タグ
 
-最良のパフォーマンスを得るために、`<head>`の後のWebページのヘッダーの上部にタグを配置することをお勧めします。 すべてのタグで、[RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/)の使用が許可されています。 RTPタグを導入する方法の詳細は、[ここ](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)を参照してください。
+最良のパフォーマンスを得るために、`<head>`の後のWebページのヘッダーの上部にタグを配置することをお勧めします。 すべてのタグで、[RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/)の使用が許可されています。 RTPタグを導入する方法の詳細は、[](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)を参照してください。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
