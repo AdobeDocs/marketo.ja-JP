@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: リリースノート — 2014年1月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年1月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # リリースノート：2014年1月{#release-notes-january}
 
-2014年1月リリースには、次の機能が含まれています。 利用可能な機能については、[Marketo Edition](http://www.marketo.com/pricing/)を確認してください。
+2014年1月リリースには、次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://www.marketo.com/pricing/)を確認してください。
 
 ## Forms2.0 {#forms}
 
-上昇：Forms2.0のドキュメントは、近日公開予定です。 その間、以下の詳細を確認し、[導入ビデオ](http://docs.marketo.com/display/docs/forms)で！
+上昇：Forms2.0のドキュメントは、近日公開予定です。 その間、以下の詳細を確認し、[導入ビデオ](https://docs.marketo.com/display/docs/forms)で！
 
-フォーム作成プロセスを制御し、Web開発者に休憩を与えます。 [Forms](http://docs.marketo.com/display/docs/forms) 2.0は、マーケターがプログラミングに関する知識を必要とせずに、視覚的にも機能的にも堅牢なフォームを作成できるように設計されています。
+フォーム作成プロセスを制御し、Web開発者に休憩を与えます。 [Forms](https://docs.marketo.com/display/docs/forms) 2.0は、マーケターがプログラミングに関する知識を必要とせずに、視覚的にも機能的にも堅牢なフォームを作成できるように設計されています。
 
 **Formsに対して、目に見える改善を与えてください。**
 
@@ -38,7 +38,7 @@ Marketorランディングページに配置されたフォームからhtmlコ�
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-詳しくは、[Forms2.0導入ビデオ](http://docs.marketo.com/display/docs/forms)を参照してください。 (近日中に[Forms](http://docs.marketo.com/display/docs/forms)深い潜水機に来るドキュメント！)
+詳しくは、[Forms2.0導入ビデオ](https://docs.marketo.com/display/docs/forms)を参照してください。 (近日中に[Forms](https://docs.marketo.com/display/docs/forms)深い潜水機に来るドキュメント！)
 
 ## 電子メールプログラムの通信制限{#communication-limits-for-email-program}
 
