@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: グローバルMS Dynamics同期を無効にする — Marketto Docs — 製品ドキュメント
 title: グローバルMS Dynamics同期を無効にする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ MS Dynamicsの同期を無効にするには、次の簡単な手順に従いま
 
    >[!NOTE]
    >
-   >インスタンスに「同期を無効にする」ボタンが表示されない場合は、[マーケティング担当者](http://nation.marketo.com/community/support_solutions)にお問い合わせください。
-
+   >インスタンスに「同期を無効にする」ボタンが表示されない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
