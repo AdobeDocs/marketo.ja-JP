@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: グループを共有する方法 — Marketto Docs — 製品ドキュメント
 title: グループを共有する方法
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 「** Group Actions**」ボタンをクリックし、「**Share Group**」を選択します。
+1. 「**グループアクション**」ボタンをクリックし、「**グループを共有**」を選択します。
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ ht-degree: 0%
 1. 「**共有**」をクリックします。
 
    ![](assets/five-1.png)
-
