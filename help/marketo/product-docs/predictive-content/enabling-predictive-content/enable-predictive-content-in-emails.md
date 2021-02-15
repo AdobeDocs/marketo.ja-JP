@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: 電子メール — Marketto Docs — 製品ドキュメントで予測コンテンツを有効にする
 title: 電子メールの予測コンテンツを有効にする
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールでの予測コンテンツの有効化{#enable-predictive-content-in-emails}
 
-電子メールの予測に1つ以上の画像を作成し、各受信者のエクスペリエンスを調整します。
+電子メールの予測に1つ以上の画像を作成し、各受信者のエクスペリエンスに合わせて調整します。
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ ht-degree: 0%
 **例**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
