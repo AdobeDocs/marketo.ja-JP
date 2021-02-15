@@ -3,7 +3,7 @@ unique-page-id: 2360240
 description: オポチュニティ影響分析の設定 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析計の構成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)を[
 
 >[!NOTE]
 >
->他のアナライザーについては、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+>他のアナライザーについては、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
 
 >[!MORELIKETHIS]
 >
