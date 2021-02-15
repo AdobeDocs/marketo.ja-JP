@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Adobe Analyticsとの統合 — Marketto Docs — 製品ドキュメント
 title: Adobe Analyticsとの統合
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ AAでこれらの変数を設定するには、次の手順を実行します。
 
 1. AAアカウントの&#x200B;**管理ツール**&#x200B;に移動します。
 1. 統合で使用する&#x200B;**レポートスイート**&#x200B;を選択します。
-1. 「**設定を編集」で、**「**コンバージョン**」に移動し、「** [コンバージョン変数](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*」を選択します。\
-   [コンバージョン変数](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)番号を選択します（推奨）。
+1. 「**設定を編集」で、**「**コンバージョン**」に移動し、「** [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*」を選択します。\
+   [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)番号を選択します（推奨）。
 
    1. 
 
@@ -82,7 +82,7 @@ AAでこれらの変数を設定するには、次の手順を実行します。
 
          1. 有効期限フィールドを&#x200B;**訪問に変更します。**
 
-1. 「**設定を編集&#x200B;**」で「**&#x200B;コンバージョン&#x200B;**」に移動し、「** [成功イベント](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。
+1. 「**設定を編集&#x200B;**」で「**&#x200B;コンバージョン&#x200B;**」に移動し、「** [成功イベント](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。
 
 1. カスタム成功イベントイベント番号を選択します（推奨）。
 
@@ -97,7 +97,7 @@ AAでこれらの変数を設定するには、次の手順を実行します。
 
 1. [タイプ* *]フィールドを選択して、**カウンタ（下位関係なし）**&#x200B;にします。
 
-1. 「**設定を編集**」の下の「** [トラフィック](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **」に移動し、「** [トラフィック変数](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**」を選択します。
+1. 「**設定を編集**」の下の「** [トラフィック](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **」に移動し、「** [トラフィック変数](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**」を選択します。
 
    1. トラフィック変数プロパティ#を選択します（推奨）。
 
@@ -183,13 +183,13 @@ AAのカスタマイズされたレポートやダッシュボードの例を以
 
 **RTPダッシュボードの作成**
 
-[RTPダッシュボード&#x200B;**と呼ばれる新しいダッシュボード](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)を作成します。**&#x200B;このダッシュボードは、垂直およびRTPセグメントに基づく訪問者の分類を理解するのに役立ちます。
+[RTPダッシュボード&#x200B;**と呼ばれる新しいダッシュボード](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)を作成します。**&#x200B;このダッシュボードは、垂直およびRTPセグメントに基づく訪問者の分類を理解するのに役立ちます。
 
 1. **ダッシュボード,**&#x200B;クリック**追加ダッシュボード**
 
 1. ダッシュボードに&#x200B;**RTPダッシュボード**&#x200B;という名前を付けます。
 1. **ダッシュボードサイズ** 3 x 2、2 x 2を選択
-1. [レポートレット](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)を作成し、[コンテンツをダッシュボード](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)に追加します
+1. [レポートレット](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)を作成し、[コンテンツをダッシュボード](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)に追加します
 
 ダッシュボードへの業種レポートレットの追加
 
