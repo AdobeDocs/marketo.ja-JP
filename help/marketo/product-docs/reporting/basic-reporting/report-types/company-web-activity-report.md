@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: 会社ウェブアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: 会社Webアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の深い潜り場で、その他の興味深いレポートを紹介します。
+>[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜り場で、その他の興味深いレポートを紹介します。
