@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 電子メールリンクの追跡の無効化 — Marketto Docs — 製品ドキュメント
 title: 電子メールリンクの追跡の無効化
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**Include mkt_tok**&#x200B;をオフにしてもリンクは追跡できますが、リダイレクト後はリンク先URLにmkt_tokクエリ文字列パラメータは含まれません。 このパラメーターは、人物アクティビティの適切な追跡（例えば、人物が電子メールから登録解除する場合）を確実に行うために、MarketoランディングページおよびMunchkinが使用します。 パラメーターの存在が原因でWebサイト上で奇妙な動作が見られない限り、この機能の使用は避けてください。
+   >**Include mkt_tok**&#x200B;をオフにしてもリンクは追跡できますが、リダイレクト後はリンク先URLにmkt_tokクエリ文字列パラメータは含まれません。 このパラメーターは、人物アクティビティの適切な追跡（例えば、人物が電子メールから登録解除した場合）を確実に行うために、MarketoランディングページおよびMunchkinが使用します。 パラメーターの存在が原因でWebサイト上で奇妙な動作が見られない限り、この機能の使用は避けてください。
 
 1. 「**保存**」をクリックします。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >[!TIP]
    >
    >電子メール&#x200B;**テンプレート**内のリンクのクリック追跡を無効にしますか？ 次の形式を使用します。
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >この導入に関するヘルプが必要な場合は、Web開発者にお問い合わせください。
 
 ナイス！ リンクの追跡を無効にしています。
