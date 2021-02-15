@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: リリースノート — 2012年1月/2月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年1月/2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->その他のリリースについては、詳細[リリースノート](http://docs.marketo.com/display/docs/release+notes)を参照してください。
+>その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 ## 高度な動的コンテンツ{#advanced-dynamic-content}
 
