@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: リリースノート —Summer '16 - Marketto Docs — 製品ドキュメント
 title: リリースノート — 16年夏
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 16年夏リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
-## [アカウントベースのマーケティング](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [アカウントベースのマーケティング](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Markettoアカウントベースのマーケティングは、1つの統合されたプラットフォームにすべての重要な要素を提供します。
 
@@ -29,7 +29,7 @@ Markettoアカウントベースのマーケティングは、1つの統合さ�
 >
 >ABMはMarketo購読のアドオンとして使用できるので、セールス担当者に連絡して導入を依頼してください。
 
-## [監査証跡](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [監査証跡](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 監査証跡は、マーケティング購読内で行われた変更の包括的な履歴を提供します。 ユーザーと管理者の間で説明責任を作り、予期しない行動の原因を特定し、誰が何をいつ実行しているかを知るセキュリティを提供します。 この情報はいつでも入手でき、次のような質問に答えるのに使用できます。
 
@@ -39,7 +39,7 @@ Markettoアカウントベースのマーケティングは、1つの統合さ�
 
 ![](assets/audit-trail.png)
 
-## [Marketo Vibes SMS LaunchPoint統合](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo Vibes SMS LaunchPoint統合](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketo内で簡単にSMSメッセージを作成できます。 リッチなマーケティングデータを使用してメッセージをパーソナライズおよびターゲットし、SMSメッセージダッシュボードを使用してパフォーマンスを簡単に監視できます。
 
@@ -72,7 +72,7 @@ Marketo内で簡単にSMSメッセージを作成できます。 リッチなマ
 
 トークンを、挿入画像エクスペリエンスの「外部URL」領域で使用できるようになりました。 `{{my.tokens}}`で画像を指定した場合、電子メールエディタ2.0内でこれらのトークンを参照できるようになりました。電子メールエディタ2.0のキャンバスには、画像が壊れて表示されます。 ただし、電子メールを送信する前に、プレビューおよびサンプルの送信内に表示されます。
 
-## [複数のブランドドメイン](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [複数のブランドドメイン](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 E メールトラッキングログのリンクが単一のブランディングドメインでのみブランド化できる日々はなくなりました。 複数のブランディングドメインを追加して、消費者の信頼感を高め、ブランドに焦点を当てて合理化された外観を作成し、電子メールの配信品質を向上させ、各電子メールのトラッキングリンクに使用するブランディングドメインを電子メール単位で選択できるようになりました。
 
@@ -86,7 +86,7 @@ E メールトラッキングログのリンクが単一のブランディング
 
 ## [エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Outlook用のSales Insightプラグインをセールスチームの各担当者がインストールする必要は、退屈な作業です。 エンタープライズキーを使用してリモートでOutlook用のプラグインをインストールする新しい方法が導入されました。 管理者の「Marketo Sales Insight」セクションにある固有のキーをITチームに送信し、残りの作業を行わせます。
+Outlook用のSales Insightプラグインをセールスチームの各担当者がインストールする必要は、退屈な作業となる場合があります。 エンタープライズキーを使用してリモートでOutlook用のプラグインをインストールする新しい方法が導入されました。 管理者の「Marketo Sales Insight」セクションにある固有のキーをITチームに送信し、残りの作業を行わせます。
 
 ![](assets/enterprise-key.png)
 
@@ -100,11 +100,11 @@ WebキャンペーンがWebサイト上で反応する遅延時間を指定し�
 
 表示コンテンツ分析とレコメンデーションデータをオフラインで使用できます。
 
-## [電子メールエディター2.0のAPIサポート](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [電子メールエディター2.0のAPIサポート](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 以前はv1.0の電子メールおよびテンプレートとのみ互換性があった既存のアセットAPIが、v2.0の電子メールアセットで有効になりました。
 
-## [マーケティング開発者サイト](http://developers.marketo.com/) {#marketo-developers-site}
+## [マーケティング開発者サイト](https://developers.marketo.com/) {#marketo-developers-site}
 
 新しく改善されました。
 
