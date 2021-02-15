@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: グループとの接続 — Marketto Docs — 製品ドキュメント
 title: グループとの接続
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorキャンペーンに追加するオプションが表示される場合があります。 [それは別の記事です](http://docs.marketo.com/x/CwDh)。
+   >Marketorキャンペーンに追加するオプションが表示される場合があります。 [それは別の記事です](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)。
 
 1. キャンペーンを選択し(結果を絞り込むカテゴリを選択できます)、「**次へ**」をクリックします。
 
@@ -60,4 +60,3 @@ ht-degree: 0%
 1. キャンペーンのスケジュールを設定し、**開始**&#x200B;をクリックします。
 
    ![](assets/nine-1.png)
-
