@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Google ChromeでのMarketo Insightsの使用 — Marketto Docs — 製品ドキュメント
 title: Google ChromeでのMarketo Insightsの使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡
 
 >[!PREREQUISITES]
 >
->* [Google Chrome用Marketo Insightsのインストール](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Google Chrome用Marketo Insightsのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Marketto Insightsと共に電子メールを送信{#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡
    >
    >オプションで、重複の矢印をクリックして、フルスクリーン表示に拡大します。
 
-1. 電子メールに公開済みのマーケティングツールテンプレートを事前入力する場合は、「**その他のオプション**」をクリックし、「**マーケティングツールテンプレートを読み込みます。**
+1. 電子メールに公開済みのマーケティングツールのテンプレートを事前入力する場合は、「**その他のオプション**」をクリックし、「**マーケティングツールのテンプレートを読み込む**」を選択します。
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. **利用可能なテンプレート**&#x200B;を選択し、**「OK」をクリックします。**
+1. **利用可能なテンプレート**&#x200B;を選択し、**OK**&#x200B;をクリックします。
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ Google Chrome用のMarketo InsightsでGoogle電子メールを送信し、追跡
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Google Chrome用Marketo Insightsのインストール](install-marketo-insights-for-google-chrome.md)
-   >    * [Googleメールの表示担当者とアカウント情報およびアクティビティ](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Google Chrome用Marketo Insightsのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Googleメールの表示担当者とアカウント情報およびアクティビティ](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
