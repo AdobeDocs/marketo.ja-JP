@@ -3,7 +3,7 @@ unique-page-id: 30081321
 description: グループタイプ — マーケティングツールドキュメント — 製品ドキュメント
 title: グループタイプ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Sales Connectの様々なグループタイプについて説明します。
   </tr> 
  </tbody> 
 </table>
-
