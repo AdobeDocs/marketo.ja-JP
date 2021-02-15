@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: パフォーマンスインサイト貢献度の概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイト貢献度の概要
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[ファーストタッチとマルチタッチ](http://docs.marketo.com/display/DOCS/Understanding+Attribution)について説明します。
+>[ファーストタッチとマルチタッチ](https://docs.marketo.com/display/DOCS/Understanding+Attribution)について説明します。
 
 指標を表示する期間を選択します。 この例では、現在の年（年累計）を見ています。   ![](assets/3-1.png)
 
