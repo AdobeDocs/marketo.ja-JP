@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: スマートキャンペーン- Marketto Docs — 製品ドキュメントでのWebフックの使用
 title: スマートキャンペーンでのWebフックの使用
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # スマートキャンペーンでのWebフックの使用{#use-a-webhook-in-a-smart-campaign}
 
-[webhook](http://developers.marketo.com/documentation/webhooks/)を使用するには、[smartキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)にフローアクションとして追加します。
+[webhook](https://developers.marketo.com/documentation/webhooks/)を使用するには、[smartキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)にフローアクションとして追加します。
 
 >[!AVAILABILITY]
 >
