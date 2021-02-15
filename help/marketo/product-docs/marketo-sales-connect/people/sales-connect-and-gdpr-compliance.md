@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Sales ConnectとGDPRのコンプライアンス — Marketto Docs — 製品ドキュメント
 title: Sales ConnectとGDPRのコンプライアンス
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ GDPRは、EU及びEEA内のデータ・サブジェクトに対するマーケ�
 
 マーケターは、信頼に基づき、注意深く提供され、個人的で人間的な感情を持つ顧客体験を作り出すことを目指しています。 GDPRはこれらの用語を使用しないが、お客様の権利を尊重し、信頼を得るための目標は同じである。 信頼を構築し維持するには、マーケターは、顧客の関与方法、時期、理由に従う必要があります。 顧客の好みは、法的要件としてだけでなく、顧客中心の関与慣行の基盤として尊重されることが重要です。
 
-仕事の過程で日常的に使用される個人データの収集、使用、セキュリティに関する高い期待にマーケターがどのように取り組むかが重要で、Marketoはその期待に応えるのに役立ちます。\
+仕事の過程で日常的に使用される個人データの収集、使用、セキュリティに関する高い期待にマーケターがどのように取り組むかが重要で、Marketoはその期待に応えるのに役立ちます。
+
 GDPRには、過去、現在、将来の慣行をマーケティング担当者が確認する必要がある2つの重要な側面があります。 1つ目は個人が個人データを処理することに同意すること、2つ目はアカウンタビリティ、すなわちGDPRの原則がどのように実行されているかを示すことができることです。
 
-電子書籍[GDPRおよびThe Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)のMarkettoプラットフォーム内での同意と説明責任に関する広範な情報を提供します。 ただし、この記事では、特にMarketo Sales Connectの新機能に焦点を当て、お客様の組織がGDPRルールを遵守する際に役立つようにします。
+電子書籍[GDPRおよびThe Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)のMarkettoプラットフォーム内での同意と説明責任に関する広範な情報を提供します。 ただし、この記事では、特にMarketo Sales Connectの新機能に焦点を当て、お客様の組織がGDPRルールを遵守する際に役立つようにします。
 
 ## Marketto Sales ConnectのGDPRコンプライアンス{#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Marketo Sales Connectには、担当者の認証タイプとそのソースタ�
 ![](assets/6.png)
 
 「認証タイプ」または「ソース・タイプ」に「その他」を選択した場合は、ソース・タイプを説明するテキストを入力できます。
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 バルクアクション** Marketto Sales Connectでは、連絡先の承認タイプとソースタイプを一括して更新することも可能で、コンプライアンスプロセスの貴重な時間を節約できます。
 
@@ -166,7 +168,9 @@ Marketo Sales Connectには、担当者の認証タイプとそのソースタ�
 >
 >これは、一度に1人の連絡先でしか実行できません。 現在、連絡先の一括エクスポートを許可する機能はありません。
 
-連絡先情報を書き出すには、「個人詳細表示」ヘッダーの3つの垂直のドットをクリックし、「**書き出し**」を選択します。 .CSVファイルは自動的にダウンロードされます。   ![](assets/thirteen.png)
+連絡先情報を書き出すには、「個人詳細表示」ヘッダーの3つの垂直のドットをクリックし、「**書き出し**」を選択します。 .CSVファイルは自動的にダウンロードされます。
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Marketo Sales Connectには、担当者の認証タイプとそのソースタ�
 
 エンゲージメント経済のパワーと顧客中心性を熱狂的に支持するMarketoは、プライバシーとデータ保護をデータの主題に委ねることの重要性を理解しています。 他のデータ保護法と同様に、GDPRのコンプライアンスには、マーケティング担当者とお客様の両方からの取り組みが必要です。 この記事は、お客様の組織のGDPRコンプライアンスをサポートする適切な方法でMarketoを使用するお手伝いをすることを目的としています。
 
-当社は、規制当局および関連法によって発行された、適用可能なGDPRガイダンスを引き続き詳細にトラッキングする。 更新情報は、Trust Center([trust.marketo.com](http://trust.marketo.com))に投稿されます。
+当社は、規制当局および関連法によって発行された、適用可能なGDPRガイダンスを引き続き詳細にトラッキングする。 更新情報は、Trust Center([trust.marketo.com](https://trust.marketo.com))に投稿されます。
