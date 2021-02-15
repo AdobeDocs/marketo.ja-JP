@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Salesforce Lightning - Marketto Docs — 製品ドキュメントのバルクアクション
 title: Salesforce Lightningのバルクアクション
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Salesforce Lightningでバルクアクションを設定する方法を次に示
    >[!NOTE]
    >
    >同じ手順を繰り返して、連絡先リスト表示にバルクアクションを追加します。
-
