@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: ポータルへ追加のシングルサインオン — Marketto Docs — 製品ドキュメント
 title: ポータル追加へのシングルサインオン
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証で�
 ## リクエストの送信方法{#how-to-send-the-request}
 
 * SAML応答であるSSO要求を`https://login.marketo.com/saml/assertion/<your-munchkin-id>`に送信します
-* SPのオーディエンスURLとして使用する。 [http://saml.marketo.com/sp](http://saml.marketo.com/sp)を使用
-* SPNameQualifier属性を使用する場合、SubjectのNameID要素を[http://saml.marketo.com/sp](http://saml.marketo.com/sp)に設定します。
-* 複数のMarketor購読を同じSSOプロバイダーに統合する場合、`http://saml.marketo.com/sp/<munchkin_id>`の形式で各Marketorサブに一意のSP URLを使用できます。
+* SPのオーディエンスURLとして使用する。 [https://saml.marketo.com/sp](https://saml.marketo.com/sp)を使用
+* SPNameQualifier属性を使用する場合、SubjectのNameID要素を[https://saml.marketo.com/sp](https://saml.marketo.com/sp)に設定します。
+* 複数のMarketor購読を同じSSOプロバイダーに統合する場合、`https://saml.marketo.com/sp/<munchkin_id>`の形式で各Marketorサブに一意のSP URLを使用できます。
 
 >[!NOTE]
 >
