@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: レポートタイプの概要 — Marketto Docs — 製品ドキュメント
 title: レポートタイプの概要
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別人物レポート</a>  </strong></td> 
-   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高モデル</a>の基本レポート。 詳細なレポートについては、<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
+   <td><a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高モデル</a>の基本レポート。 詳細なレポートについては、<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページパフォーマンス</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラムパフォーマンス</a>  </strong></td> 
-   <td>メンバーや成功などの基本的なプログラム指標。 詳細なレポートについては、<a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
+   <td>メンバーや成功などの基本的なプログラム指標。 詳細なレポートについては、<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">会社Webアクティビティ</a>  </strong></td> 
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームのパフォーマンスレポート</a> </strong></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/drip+nurturing">エンゲージメントプログラム</a>の動作状況を確認します。</p></td> 
+   <td><p><a href="https://docs.marketo.com/display/docs/drip+nurturing">エンゲージメントプログラム</a>の動作状況を確認します。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**ディープダイブ**
 >
->これらのレポートで可能なすべての機能を確認するには、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
+>これらのレポートで可能なすべての機能を確認するには、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
