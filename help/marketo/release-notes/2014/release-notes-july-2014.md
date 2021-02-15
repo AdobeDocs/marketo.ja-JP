@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: リリースノート — 2014年7月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年7月
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## ReST APIのリスト操作{#list-operations-in-the-rest-api}
 
-ReSTのリスト操作に関連して、以下の呼び出しを追加しました。 完全なドキュメントについては、[developers.marketo.com](http://developers.marketo.com/documentation/rest/)を参照してください。
+ReSTのリスト操作に関連して、以下の呼び出しを追加しました。 完全なドキュメントについては、[developers.marketo.com](https://developers.marketo.com/documentation/rest/)を参照してください。
 
 * IDによるリストの取得
 * 複数のリストの取得
@@ -78,7 +78,7 @@ RTPセットキャンペーンページに、[既製のテンプレート](/help
 
 ## RTP:JavaScript APIの拡張{#rtp-javascript-api-enhancements}
 
-組織、業界、場所、セグメントコードの一致などのリアルタイムの訪問者データを取得する新しいRTP API呼び出し。 また、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。 詳細なドキュメントについては、[開発者サイト](http://developers.marketo.com/documentation/websites/rtp-js-api/)を参照してください。
+組織、業界、場所、セグメントコードの一致などのリアルタイムの訪問者データを取得する新しいRTP API呼び出し。 また、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。 詳細なドキュメントについては、[開発者サイト](https://developers.marketo.com/documentation/websites/rtp-js-api/)を参照してください。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
