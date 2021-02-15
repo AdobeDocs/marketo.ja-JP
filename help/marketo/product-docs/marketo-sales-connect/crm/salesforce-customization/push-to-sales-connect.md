@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Sales Connectへのプッシュ — Marketto Docs — 製品ドキュメント
 title: Sales Connectにプッシュ
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales Connectは、「SFDC-...」という名前のグループを追加します。 を[webアプリケーション](http://toutapp.com/login)のRelationshipsページに追加します。
+   >Sales Connectは、「SFDC-...」という名前のグループを追加します。 を[webアプリケーション](https://toutapp.com/login)のRelationshipsページに追加します。
 
 1. 「**グループ全体を電子メールで送信**」を選択して、このグループの電子メールを送信します。
