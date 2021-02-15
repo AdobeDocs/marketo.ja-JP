@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: プログラムでのレポートの作成 — Marketto Docs — 製品ドキュメント
 title: プログラムでのレポートの作成
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >各ファイルの簡単な説明は[`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview)を参照してください。
+   >各ファイルの簡単な説明は[`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview)を参照してください。
 
    レポートに名前を付けます。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >**ディープダイブ**
    >
    >
-   >デフォルトでは、レポートはプログラム全体のアカウント内のすべてのアクティビティを対象としています。 レポートをフィルタリングする様々な方法については、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
+   >デフォルトでは、レポートはプログラム全体のアカウント内のすべてのアクティビティを対象としています。 レポートをフィルタリングする様々な方法については、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ ht-degree: 0%
    >
    >
    >
-   >[レポート期間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)の変更、[基本レポート](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)の登録、[Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)へのレポートの書き出し、[スマートリスト](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)および[more](http://docs.marketo.com/display/docs/basic+reporting)を使用して人々をフィルターできます。
+   >[レポート期間](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)の変更、[基本レポート](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)の登録、[Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)へのレポートの書き出し、[スマートリスト](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)および[more](https://docs.marketo.com/display/docs/basic+reporting)を使用して人々をフィルターできます。
 
