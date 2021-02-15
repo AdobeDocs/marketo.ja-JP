@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-キャンペーン
 description: スマ追加ートキャンペーンへのフローステップ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **ディープダイブ**
 
-様々な[フローステップ](http://docs.marketo.com/display/DOCS/Flow+Actions)の詳細を表示します。
+様々な[フローステップ](https://docs.marketo.com/display/DOCS/Flow+Actions)の詳細を表示します。
 
 1. ドロップダウンをクリックし、適切なオプションを選択します。
 
