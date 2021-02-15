@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: グループの管理 — マーケティングツールドキュメント — 製品ドキュメント
 title: グループの管理
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sales Connectでグループを管理する方法を説明します。
 
 ## グループの作成{#create-a-group}
 
-1. 人ページで、「グループ」の横の&#x200B;**プラス記号**&#x200B;をクリックします。
+1. ユーザーページで、「グループ」の横の&#x200B;**+**&#x200B;をクリックします。
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Sales Connectでグループを管理する方法を説明します。
 
    >[!NOTE]
    >
-   >これにより、一度に1人の連絡先が追加されます。 複数の連絡先を同時に追加するには、[次の手順](http://docs.marketo.com/x/VADb)に従います。
+   >これにより、一度に1人の連絡先が追加されます。 複数の連絡先を同時に追加するには、[次の手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
 
 1. 連絡先の情報を入力し、「**作成**」(または「**作成して追加新規作成**」)をクリックします。
 
@@ -114,4 +114,3 @@ Sales Connectでグループを管理する方法を説明します。
 1. 「**削除**」をクリックして確認します。
 
    ![](assets/seventeen.png)
-
