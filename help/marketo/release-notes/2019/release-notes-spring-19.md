@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: リリースノート — 2019年春 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年春
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Spring 19リリースには次の機能が含まれています。 Marketing Edi
 
 * **ウェイトリスト：必要要員がオープンするまでメンバーを** 保留状態にする場合に、メンバーを登録する [](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 新しいプログラム/イベント・ステータス。これは、Marketing Classicのイベントプログラムに関連付けられたチャネルに適用され、Marketo Skyのウェビナープログラムにイベントとイベントの両方に適用されます。 デフォルトでは、Waitlistedのステップ値はRegisteredと同じです。
 * ** [カスタム通信の制限](../../product-docs/administration/email-setup/enable-communication-limits.md)**:管理者は、日別または週別のカスタム通信制限を設定できるようになりました。
-* ** [スマートキャンペーンアセットAPI](http://developers.marketo.com/rest-api/assets/campaigns/)**:更新された日付とIDによるスマートなキャンペーンレコードの取得により、マーケティング対象外での分析を強化します。
+* ** [スマートキャンペーンアセットAPI](https://developers.marketo.com/rest-api/assets/campaigns/)**:更新された日付とIDによるスマートなキャンペーンレコードの取得により、マーケティング対象外での分析を強化します。
 * **電子メール用のHTTPSトラッキングリンク：「トラッキングリンク用のセキュリティで保護されたドメイン」** を購入したお客様の場合、ブランドのトラッキングリンクを電子メール内にHTTPSとして表示できるようになりました。
 * **Eメール配信品質Powerpackの更新**:特定のテスト結果に対するフラグ付けとコメント、URLを介した関係者との結果の共有、変更の追跡を行い、関係者がコンテンツを編集する際に電子メールの展開を確認できます。
 
