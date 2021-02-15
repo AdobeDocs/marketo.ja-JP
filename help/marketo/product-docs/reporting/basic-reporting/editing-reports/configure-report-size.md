@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: レポートサイズの設定 — Marketto Docs — 製品ドキュメント
 title: レポートサイズの設定
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # レポートサイズの構成{#configure-report-size}
 
-マーケティングレポートのデフォルト行数は5,000行までですが、この制限は変更できます。
+マーケティングレポートのデフォルト行数は最大5,000行までですが、この制限は変更できます。
 
 1. 「**マーケティングアクティビティ**」領域に移動します。
 
@@ -47,5 +47,5 @@ ht-degree: 0%
    >
    >これで、新しい制限で[レポート](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)をエクスポートできます。
 
-   [基本レポート](http://docs.marketo.com/display/docs/basic+reporting)の詳細を参照して、レポートの構成方法を確認してください。
+   [基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照して、レポートの構成方法を確認してください。
 
