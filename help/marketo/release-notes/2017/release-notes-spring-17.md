@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: リリースノート — Spring '17 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Spring '17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -19,9 +19,9 @@ Spring 17リリースには次の機能が含まれています。 Marketing Edi
 
 ## [LinkedInリードジェネレーションForms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[LinkedInのリードジェネレーション](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) フォームは、LinkedInでリードジェネレーションキャンペーンを実行するビジネスにとって、より直接的な方法です。人々は製品やサービスに対する関心を表すフォームに記入し、その人の詳細を捕捉してマーケティング担当者と同期できます。マーケティング担当者との同期では、自動フォローアッププロセスとリードルーティングアクティビティが可能です。
+[LinkedInのリードジェネレーション](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) フォームは、LinkedInでリードジェネレーションキャンペーンを実行するビジネスにとって、より直接的な方法です。人々は製品やサービスに対する関心を表すフォームに記入し、その人の詳細を捕捉してマーケティング担当者と同期できます。マーケティング担当者は、フォローアッププロセスを自動化し、リードルーティングアクティビティを行うことができます。
 
-LinkedInのリードジェネレーションFormsとのMarketoの統合により、リードジェネレーションフォーム内でリードが提供する情報が自動的に取得されます。 その後、新しい&#x200B;**Fills Out LinkedIn Lead Gen Form**&#x200B;トリガーとフィルターを使用して、フォローアップアクションと通知を自動化できます。
+LinkedInのリードジェネレーションFormsとのMarketoの統合により、リードジェネレーションフォーム内でリードが提供する情報が自動的に取得されます。 その後、新しい&#x200B;**Fill Out LinkedIn Lead Gen Form**&#x200B;トリガーとフィルタを使用して、フォローアップアクションと通知を自動化できます。
 
 ![](assets/release-notes-image.png)
 
@@ -45,11 +45,11 @@ Sales Insightで古いテンプレートをクリーンアップする時代は�
 
 Marketo ABMで、指定されたアカウントに最大10個のカスタムフィールドを作成できるようになりました。 これらのカスタムフィールドをCRMアカウントオブジェクトのフィールドにマップすると、Marketto ABMがデータを同期するので、ABM固有のアカウントを拡張して、マーケティングの促進に役立てることができます。
 
-** [名前付きアカウントのABMでのパーセンタイルスコアリング](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [名前付きアカウントのABMでのパーセンタイルスコアリング](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 指定されたアカウントのスコアは大きく異なります。 Marketo ABMは、各スコアのパーセンタイルを自動的に計算するようになりました。これにより、他の名前付きアカウントの中で、名前付きアカウントがランク付けされた場所を一目で確認できます。
 
-** [ABMアカウントリストAPI](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABMアカウントリストAPI](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 固有のアカウントリスト向けの拡張APIサポートにより、リッチで堅牢なABMパートナー統合を活用できます。
 
