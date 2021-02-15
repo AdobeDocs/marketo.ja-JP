@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: キャンペーンをSales Connect Users - Marketto Docs — 製品ドキュメントに表示する
 title: キャンペーンをSales Connect Usersに表示する
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. キャンペーン追加が要求されたトリガーです。
+1. キャンペーン追加は「要求されたトリガー」です。
 
    ![](assets/three.png)
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. 「**スケジュール**」タブをクリックし、「**キャンペーンをアクティブ化**」をクリックします。
 
    ![](assets/nine.png)
-
