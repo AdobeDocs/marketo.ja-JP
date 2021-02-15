@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: 期間コストなしのプログラムを売上高エクスプローラーおよびアナライザーで利用できるようにする — Marketto Docs — 製品ドキュメント
 title: 期間コストなしのプログラムを売上高エクスプローラおよびアナライザーで利用可能にする
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 期間を費やさないプログラムを売上高エクスプローラおよびアナライザーで利用可能にする{#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-プログラム期間原価では、プログラムの「金額」と「日」を定義できます。 これは、[売上サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)と[アナライザー](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)に表示されます。
+プログラム期間原価では、プログラムの「金額」と「日」を定義できます。 これは、[売上サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)と[アナライザー](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)に表示されます。
 
 >[!NOTE]
 >
