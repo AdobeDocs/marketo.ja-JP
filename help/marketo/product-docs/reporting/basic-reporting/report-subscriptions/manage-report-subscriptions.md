@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: レポート購読の管理 — Marketto Docs — 製品ドキュメント
 title: レポート購読の管理
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   このページには、アカウント内のすべてのレポートに対する購読が表示され、[レポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)でグループ化されています。 これには、基本レポート](subscribe-to-a-basic-report.md)と[売上高サイクルエクスプローラ](http://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートへの[購読が含まれます。
+   このページには、アカウント内のすべてのレポートに対する購読が表示され、[レポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)でグループ化されています。 これには、基本レポート](subscribe-to-a-basic-report.md)と[売上高サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートへの[購読が含まれます。
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ ht-degree: 0%
    >    * [売上高エクスプローラレポートの購読](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   詳しくは、[基本レポート](http://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](http://docs.marketo.com/display/docs/revenue+cycle+analytics)の深い溝を参照してください。
+   詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の深い溝を参照してください。
 
