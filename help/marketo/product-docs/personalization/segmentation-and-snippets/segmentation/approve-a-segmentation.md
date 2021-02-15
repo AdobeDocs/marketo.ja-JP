@@ -3,7 +3,7 @@ unique-page-id: 2359457
 description: セグメントの承認 — Marketto Docs — 製品ドキュメント
 title: セグメントの承認
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -55,7 +55,7 @@ ht-degree: 0%
 >
 >セグメントで作成できるセグメントの合計数は、使用するフィルターの数とタイプ、およびセグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大100個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバ、リード所有者フィールド、および売上高ステージ。
 >
->承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)にお問い合わせください。
+>承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)にお問い合わせください。
 
 >[!MORELIKETHIS]
 >
