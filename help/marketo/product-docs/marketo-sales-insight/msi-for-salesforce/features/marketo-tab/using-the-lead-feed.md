@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: リードフィードの使用 — Marketto Docs — 製品ドキュメント
 title: リードフィードの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ ht-degree: 0%
 
 ## リードフィードには何が含まれていますか？{#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 リードフィードの各品目は、興味深い瞬間です。このリードのマーケティング履歴で注目に値するアクティビティやイベントです。
 
 Salesforceで表示する場合、各品目には次のものがあります。
@@ -73,17 +74,19 @@ Salesforceで表示する場合、各品目には次のものがあります。
 
 また、RSSフィードによるリードフィードの更新を取得することもできます。  RSSフィードを使用すると、Salesforceに接続していない場合でも、リードの更新を受け取ることができます。 フィードは、Salesforceのリードフィードと同じ情報と、以下（利用可能な場合）を持ちます。
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* 電子メールアドレス
+* 電話番号
+* モバイル番号
+* ファックス番号
+* 会社アドレス
+* 会社URL
 
 >[!NOTE]
 >
->この機能を有効にするには、会社のMarketor管理者がRSSフィード[を有効にする必要があります。](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+>この機能を有効にするには、会社のMarketor管理者がRSSフィード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)を有効にする必要があります。[
 
-RSSの更新を取得するには、次の2つが必要です。RSSリンクとRSSフィードリーダー リードフィードのRSSアイコンをクリックして、RSSリンクを取得できます。   ![](assets/three.png)
+RSSの更新を取得するには、次の2つが必要です。RSSリンクとRSSフィードリーダー リードフィードのRSSアイコンをクリックして、RSSリンクを取得できます。
+
+![](assets/three.png)
 
 RSSフィードが新しいウィンドウに表示されます。 その後、RSSフィードのURLをコピーして、RSSリーダーで使用できます。 ほとんどのブラウザにはRSSリーダーが組み込まれているか、お使いのプラットフォーム専用のRSSリーダーを使用できます。
