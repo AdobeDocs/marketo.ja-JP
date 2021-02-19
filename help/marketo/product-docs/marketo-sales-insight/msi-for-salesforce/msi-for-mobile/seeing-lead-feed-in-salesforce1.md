@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Salesforce1 - Marketto Docs — 製品ドキュメントでのリードフィードの表示
 title: Salesforceでのリードフィードの表示1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1の興味深い瞬間](interesting-moments-in-salesforce1.md)
->* [SalesforceでのMarketo電子メール、キャンペーン、およびウォッチリストのアクションの送信1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforceのベストベット1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Salesforce1の興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [SalesforceでのMarketo電子メール、キャンペーン、およびウォッチリストのアクションの送信1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforceのベストベット1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
