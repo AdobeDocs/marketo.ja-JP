@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Salesforce1 - Marketto Docs — 製品ドキュメントで、Marketorの電子メール、キャンペーン、およびウォッチリストのアクションを送信します。
 title: SalesforceでのMarketo電子メール、キャンペーン、およびウォッチリストのアクションの送信1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >どのスマートキャンペーンが表示されますか。 「キャンペーンが要求された」トリガーを持つもの。 「キャンペーンは要求されました](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」を使用して[トリガーされたキャンペーンを設定する方法を説明します。
+   >どのスマートキャンペーンが表示されますか。 「キャンペーンは要求済み」トリガーを持つもの。 「キャンペーンは要求されました](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」を使用して[トリガーされたキャンペーンを設定する方法を説明します。
 
 これで、販売員はマーケティング活動に積極的に参加できます。
 
@@ -39,4 +39,3 @@ ht-degree: 0%
 >
 >
 創造力を持って。 販売員は何を自動化したいと思いますか。 彼らに聞いて、電報を打て！
-
