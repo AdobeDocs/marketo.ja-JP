@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Outlook用Marketto電子メールイン追加のアップグレード — Marketto Docs — 製品ドキュメント
 title: Outlook用のMarketing To Email 追加 Inのアップグレード
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   「次へ」をクリックします。
+1. 「**次へ**」をクリックします。
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
    >
    >インストールに失敗した場合は、IT部門と協力して、HTTPSトラフィックがブロックされないようにします。 インストーラーでHTTPSトラフィックが開いている必要があります。
 
-   「次へ」をクリックして、デフォルトの場所にインストールします。
+1. 「**次へ**」をクリックして、デフォルトの場所にインストールします。
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketorテンプレートを使用したOutlookからの送信と追跡](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketorテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
