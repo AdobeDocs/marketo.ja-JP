@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 興味深い瞬間の使用 — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間の使用
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->これらは、Marketo Sales Insightおよび[Marketo Sales Connect](https://docs.marketo.com/x/fgTLAQ)のお客様のみ利用できます。
+>これらは、Marketo Sales Insightおよび[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)のお客様のみ利用できます。
 
-## 面白い瞬間って何？ {#what-is-an-interesting-moment}
+## 面白い瞬間って何？{#what-is-an-interesting-moment}
 
 お前次第だ！ どの情報がセールス・チームに関連するかを決定します。 セールスチームは、リードがいつ来たかを知りたい場合があります。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## どうすればもっと面白くなれる？ {#how-can-this-get-even-more-interesting}
 
-トークン！ リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
+トークン！ リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## マーケットで面白い瞬間はどんな感じに見えますか？ {#what-does-an-interesting-moment-look-like-in-marketo}
 
-興味深い瞬間が[リードのアクティビティログ](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)に表示されます。
+興味深い瞬間が[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)に表示されます。
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Salesforceで面白い瞬間はどのように見えますか。 {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をインストールすると、リード、連絡先、アカウント、またはオポチュニティページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
+[Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をインストールすると、リード、連絡先、アカウント、またはオポチュニティページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
 
 ![](assets/six.png)
 
