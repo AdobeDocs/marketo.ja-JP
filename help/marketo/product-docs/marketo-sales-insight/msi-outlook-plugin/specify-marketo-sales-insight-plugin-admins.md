@@ -3,7 +3,7 @@ unique-page-id: 11377552
 description: Marketo Sales Insightプラグイン管理者 — Marketto Docs — 製品ドキュメントの指定
 title: Marketor Sales Insightプラグイン管理者の指定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -40,4 +40,3 @@ OutlookでMSIを設定するためにユーザーを招待した場合に、ユ�
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    完璧！
-
