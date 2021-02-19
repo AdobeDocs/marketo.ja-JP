@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: ネイティブ以外のSalesforce統合向けのSales Insight - Marketto Docs — 製品ドキュメント
 title: ネイティブ以外のSalesforce統合に関するSales Insight
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 >* Marketo REST API [は](https://developers.marketo.com/rest-api/)を正常にセットアップしました。 公開されたCRUD APIは、非ネイティブ同期の実行の基盤となります。
 >* オブジェクトと関係を理解するために、[このブログの記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を読んでください。
 >* Salesforceオブジェクトを設定し、大文字と小文字を区別する15文字のグローバル一意識別子ではなく、大文字と小文字を区別しない18文字のグローバル一意識別子を表示します。
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 
 1. SalesforceアカウントをMarketoに同期します。
 
-   Salesforceアカウントでは、マーケティング担当会社をアップセートする必要があります。 *externalCompanyId*&#x200B;と&#x200B;*externalSalesPersonId*&#x200B;の各フィールドは、会社のアップサート用に必須です。
+   Salesforceアカウントでは、マーケティング担当会社をアップセートする必要があります。 _externalCompanyId_&#x200B;と&#x200B;_externalSalesPersonId_&#x200B;の各フィールドは、会社のアップサート用に必須です。
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 
 1. Salesforceのリード/連絡先をMarketorに同期します。
 
-   Salesforceのリード/コンタクト用に、マーケティング担当者のリードを挿入する必要があります。 *externalPersonId*、*externalSalesPersonId*、*externalCompanyId*&#x200B;の各フィールドは、リードのアップサートに対して必須です。
+   Salesforceのリード/コンタクト用に、マーケティング担当者のリードを挿入する必要があります。 _externalPersonId_、_externalSalesPersonId_、_externalCompanyId_&#x200B;の各フィールドは、リードのアップサートに対して必須です。
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 
 1. SalesforceオポチュニティをMarketoに同期。
 
-   Salesforceオポチュニティに対して、Marketor Opportunityを挿入する必要があります。 Opportunityのアップサートに対して、*externalOpportunityId*、*externalCompanyId*、*externalSalesPersonId*&#x200B;の各フィールドが必須です。
+   Salesforceオポチュニティに対して、Marketor Opportunityを挿入する必要があります。 Opportunityのアップサートに対して、_externalOpportunityId_、_externalCompanyId_、_externalSalesPersonId_&#x200B;の各フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/
 
 1. Salesforceの連絡先ロールをMarketoに同期します。
 
-   Salesforce OpportunityのSalesforce Contactの役割は、Marketo Opportunityの役割を介して同期できます。 オポチュニティロールレコードは、*externalOpportunityId*、*role*、*leadId*&#x200B;の各フィールドを指定します。
+   Salesforce OpportunityのSalesforce Contactの役割は、Marketo Opportunityの役割を介して同期できます。 オポチュニティロールレコードは、_externalOpportunityId_、_role_、_leadId_&#x200B;の各フィールドを指定します。
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/
 
    SalesforceオブジェクトがMarketorに正しく同期されると、MSI機能を利用できます。 MSI最後の注目のモーメント/スコアリングフィールドは、リードのREST APIに公開されます。 これらのフィールドはMSIによって計算され、読み取り専用です。
 
-   Marketorのリードの最後の興味深いモーメント/スコアリングフィールドは、REST APIリードエンドポイントを使用して、Salesforceと定期的に同期する必要があります。 *externalPersonId*&#x200B;をfilterTypeとして使用し、Salesforce Lead GUIDをfilterValueとして渡して、Marketor Leadのこのエンドポイントをクエリします。
+   Marketorのリードの最後の興味深いモーメント/スコアリングフィールドは、REST APIリードエンドポイントを使用して、Salesforceと定期的に同期する必要があります。 _externalPersonId_&#x200B;をfilterTypeとして使用し、Salesforce Lead GUIDをfilterValueとして渡して、Marketor Leadのこのエンドポイントをクエリします。
 
    | GET/rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ OpportunityのAPIドキュメント：[`https://developers.marketo.com/rest-api/
  </tbody> 
 </table>
 
-リードREST APIに関するドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
+リードREST APIに関するドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)。
 
 外部フィールドを適切に使用することは、非ネイティブ同期を正常に行うための鍵となります。 一部の表示でデータを表示できない場合は、特定のフィールドが正しく同期されていなかった可能性があります。 例えば、リードのアクティビティと興味深い瞬間が、自分のアカウントの下のMSIウィジェットを閲覧すると表示されない場合、リードの会社またはアカウントが正しく同期されなかった可能性があります。 外部フィールドの指定中にこのリードに対してGETリクエストを実行すると、リードが正しく同期されたかどうかを確認できます。 また、Marketoの外部販売担当者向けの電子メールは、Salesforceのそのユーザー向けの電子メールと一致する必要があります。 電子メールが一致しない場合、Salesforceの「Marketo」タブにデータが表示されないことがあります。
-
