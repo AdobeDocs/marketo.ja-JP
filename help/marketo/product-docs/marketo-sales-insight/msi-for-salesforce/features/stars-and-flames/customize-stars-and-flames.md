@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 星と炎のカスタマイズ — Marketto Docs — 製品ドキュメント
 title: 星と炎をカスタマイズ
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ Marketo Sales Insightは、星と炎を使用してリードに優先順位を�
 
 >[!AVAILABILITY]
 >
->
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. 「管理者」で、「Sales Insight」をクリックします。
+1. 「管理者」で、「**販売インサイト**」をクリックします。
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ Marketo Sales Insightは、星と炎を使用してリードに優先順位を�
    >
    >**定義**
    >
-   >
-   >**動的** - [相対データから得られる割合の値](priority-urgency-relative-score-and-best-bets.md)。すごい。 この方法をお勧めします。
-   >
+   >**動的** - [相対データから得られる割合の値](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)。すごい。 この方法をお勧めします。
    >
    >**静的**  — 正確なスコア数を定義できます。パーセント値を増やさず、秘密のソースも増えません。
 
@@ -50,14 +47,11 @@ Marketo Sales Insightは、星と炎を使用してリードに優先順位を�
 
    >[!TIP]
    >
-   >
    >開始パーセントを編集するだけで、マーケティング担当者は終了パーセントを計算します。
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Reminder**
 >
 >一旦変更を加えると、星や炎の再計算には時間がかかります。 忍耐は美徳だ。
 
