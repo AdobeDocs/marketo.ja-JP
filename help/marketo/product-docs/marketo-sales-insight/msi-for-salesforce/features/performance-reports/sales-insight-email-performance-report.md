@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Sales Insight電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
 title: Sales Insight電子メールパフォーマンスレポート
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    かっこいいだろ？ これで、販売担当者別にグループ化された電子メールのパフォーマンスを確認できます。
-
