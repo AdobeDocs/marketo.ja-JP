@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 登録コード — Marketto Docs — 製品ドキュメントを使用したOutlook用Marketto電子メール追加インのインストール
 title: 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Marketo Email 追加-inライセンス](issue-a-marketo-email-add-in-license.md)を発行する必要があります。
-
->
-
-
+>[Marketo Email 追加-inライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があります。
 
 ## インストーラーのダウンロード{#download-installer}
 
 1. [Microsoft Outlookのバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
+
 1. リンクをクリックして、お使いのバージョンのMicrosoft Outlookに適したインストーラをダウンロードします。
 
    >[!NOTE]
@@ -71,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 「**名**、**姓**、**電子メールアドレス**」と入力し、電子メールから**登録コード**をコピーしてフォームに貼り付け、「**次へ**」をクリックします。
+1. **姓**、**姓**、**電子メールアドレス**&#x200B;を入力し、電子メールから&#x200B;**登録コード**&#x200B;をコピーしてフォームに貼り付け、**次へ**&#x200B;をクリックします。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -105,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketorテンプレートを使用したOutlookからの送信と追跡](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketorテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
