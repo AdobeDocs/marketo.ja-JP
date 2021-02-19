@@ -3,7 +3,7 @@ unique-page-id: 10096158
 description: モバイルアクセスセキュリティの認証 — Marketto Docs — 製品ドキュメント
 title: モバイルアクセスセキュリティの認証
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,7 +21,7 @@ IDを有効にするには、コードを取得してIT部門に提供し、ID�
 >
 >この機能を有効にするには、サポートに問い合わせて、「Vespaセキュアモード」を要求してください。
 
-1. Marketoで「**Admin **」を選択し、「**モバイルアプリとデバイス**」をクリックします。
+1. Marketoで、「**管理者**」を選択し、「**モバイルアプリとデバイス**」をクリックします。
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,11 +33,10 @@ IDを有効にするには、コードを取得してIT部門に提供し、ID�
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. 「** Enable Security**」チェックボックスをオンにします。 「**保存**」をクリックします。
+1. 「**セキュリティを有効にする**」チェックボックスをオンにします。 「**保存**」をクリックします。
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
 1. アクセスセキュリティ領域に、2つの新しいコードが表示されるようになりました。 これらは必ずIT部門に送ってください。
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)
-
