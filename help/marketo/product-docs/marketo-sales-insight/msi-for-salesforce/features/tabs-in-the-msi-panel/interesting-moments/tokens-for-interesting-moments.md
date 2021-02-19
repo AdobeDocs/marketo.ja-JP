@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 興味深い瞬間のトークン — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間のトークン
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [注目のモーメントフローステップ](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使用を学びます。
->* [トークン](https://docs.marketo.com/display/docs/tokens)の詳細を表示します。
-
->
-
-
+>[注目のモーメントフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使用を学びます。
 
 ## 使用可能なトークン{#available-tokens}
 
-[Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を調べて、おもしろい瞬間に使えるすべてのトークンを確認します。
+[Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を調べて、おもしろい瞬間に使えるすべてのトークンを確認します。
 
 ## トリガートークン{#trigger-tokens}
 
@@ -249,4 +244,3 @@ ht-degree: 0%
 >興味深い瞬間を必ずテストして、思いどおりにレンダリングされることを確認してください。
 >
 >また、セールス担当者にとって、お客様だけでなく、おもしろいことを確認してください。 ![（ウィンク）](assets/wink.svg)>
-
