@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: エンタープライズキー — Marketto Docs — 製品ドキュメントを使用してOutlook用追加Marketo-inをインストールする
 title: エンタープライズキーを使用したOutlook用Marketing 追加-inのインストール
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->管理者は、[Marketo Email 追加 In License](issue-a-marketo-email-add-in-license.md)を発行する必要があります。
+>管理者は、[Marketo Email 追加 In License](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があります。
 
 >[!NOTE]
 >
->表示の[エンタープライズキー]ボタンが表示されない場合は、[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)に連絡して有効にしてください。
+>「表示のエンタープライズキー」ボタンが表示されない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して有効にしてください。
 
 1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
@@ -35,17 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Outlook Enterpriseライセンスキーをコピーして、[このリンク](marketo-outlook-plugin-installation-by-it.md)と共に電子メールに貼り付け、リモートインストール用にIT部門に送信します。
+1. Outlook Enterpriseライセンスキーをコピーして、[このリンク](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)と共に電子メールに貼り付け、リモートインストール用にIT部門に送信します。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   それだけだ！ 次に、営業担当者は[登録プロセス](authorize-the-marketo-outlook-plugin.md)を経る。 手順へのリンクを送信できます（「**マーケティング関連記事**」を参照）。
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Marketto Outlookプラグインを認証する](authorize-the-marketo-outlook-plugin.md)
-
-
+   それだけだ！ 次に、営業担当者は[登録プロセス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)を経る。
