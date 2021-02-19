@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Markettoテンプレートを使用したOutlookからの送信と追跡 — Marketto Docs — 製品ドキュメント
 title: Marketorテンプレートを使用したOutlookからの送信と追跡
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >トークンは、アドインではサポートされていません。 テンプレート内にある可能性のある要素をすべて削除します。
 
 1. プレビューをチェックアウトし、正しく表示されることを確認して、[**送信**]をクリックします。
@@ -42,9 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Marketorのリードからの受信メールのログ](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Marketorのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
