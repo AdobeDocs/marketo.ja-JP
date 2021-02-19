@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: モバイル追加アプリ — Marketto Docs — 製品ドキュメント
 title: モバイル追加アプリ
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 「**モバイルアプリ&amp;デバイス**」をクリックします。
+1. 「**モバイルアプリとデバイス**」をクリックします。
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   「新規モバイルアプリ」をクリックします。
+1. 「**新しいモバイルアプリ**」をクリックします。
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [モバイルアプリのAndroidプッシュアクセスの設定](configure-mobile-app-android-push-access.md)
->* [モバイルアプリのiOSプッシュアクセスの設定](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [モバイルアプリのAndroidプッシュアクセスの設定](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [モバイルアプリのiOSプッシュアクセスの設定](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
