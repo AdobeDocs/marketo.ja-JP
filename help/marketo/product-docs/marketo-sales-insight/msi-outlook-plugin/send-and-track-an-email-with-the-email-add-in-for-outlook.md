@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Outlook用電子メールインを使用した電子メールの送信と追跡 — Marketto Docs 追加製品ドキュメント
 title: Outlook用電子メールインを使用した電子メールの追加送信と追跡
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[MarketoのOutlook用アドインを電子メールで送信する](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)をインストールします。
+>まだインストールしていない場合は、[MarketoのOutlook用アドインを電子メールで送信する](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)をインストールします。
 
 1. Microsoft Outlookを開き、新しい電子メールを作成します。
 
@@ -37,7 +37,7 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
    >[!TIP]
    >
-   >Marketoテンプレートを使用する場合は、「[Outlookからの送信と追跡テンプレート](send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
+   >Marketoテンプレートを使用する場合は、「[Outlookからの送信と追跡テンプレート](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
 
 1. プレビューを見て、「**送信**」をクリックします。
 
@@ -55,9 +55,4 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
 >[!MORELIKETHIS]
 >
->* [Marketorのリードからの受信メールのログ](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Marketorのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
