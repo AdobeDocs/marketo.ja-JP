@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT部門別Marketto Outlookプラグインのインストール — Marketto Docs — 製品ドキュメント
 title: IT部門によるMarketo Outlookプラグインのインストール
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,36 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[エンタープライズキー](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) を設定します。
+>[エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) を設定します。
 
-次のコマンドラインを、「システム」または/iスイッチを指定した管理ユーザーアカウントで実行してインストールします。 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
+次のコマンドラインを、「システム」または/iスイッチを指定した管理ユーザーアカウントで実行してインストールします。
+
+`<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-トラブルシューティングのために、ログを有効にして出力ログファイルを作成できます。 `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
+トラブルシューティングのために、ログを有効にして出力ログファイルを作成できます。
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
-ログファイルの場所を指定するには、コマンドラインでファイルパスを指定します。 `<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
+ログファイルの場所を指定するには、コマンドラインでファイルパスを指定します。
+
+`<pre>msiexec.exe /i [File Name] /qn /L*v [File Path]MarketoAddin.log REG=[Enterprise Key]</pre>`
 
 >[!NOTE]
 >
 >**例**
+>
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn /L*v C:\temp\MarketoAddin.log REG=ABC9-123y-WXYZ-4321</pre>`
 
 >[!CAUTION]
@@ -48,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[IT部門によるMarketo Outlookプラグインのアンインストール](marketo-outlook-plugin-uninstall-by-it.md)
-
+>[IT部門によるMarketo Outlookプラグインのアンインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
