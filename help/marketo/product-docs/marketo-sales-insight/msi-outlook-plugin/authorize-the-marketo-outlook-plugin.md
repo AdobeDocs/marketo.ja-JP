@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Marketo Outlookプラグインの承認 — Marketto Docs — 製品ドキュメント
 title: Marketto Outlookプラグインを認証する
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ OutlookでMarketo MSIプラグインを使用するには、プラグインを�
 1. 電子メールアドレスが許可されていない場合は、この嬉しさの低い電子メールを受け取ります。 この問題を解決するには、マーケティング担当者に問い合わせてください。
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
