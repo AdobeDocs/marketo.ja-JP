@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Sales Insight - Marketto Docs — 製品ドキュメントの星と炎に使用するスコアフィールドの設定
 title: Sales Insightの星と炎に使用するスコアフィールドの設定
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。
+>カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。
 
 >[!NOTE]
 >
 >**定義**
 >
->* **星：**星は、他のリードと比較したリードスコアの合計を表します。
+>* **星**:星は、他のリードと比較したリードスコアの合計を表します。
 >* **炎**:炎は緊急性を表し、最近リードのスコアがどの程度変更されたかを表します。
 
 >
@@ -50,7 +50,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   「保存」をクリックします。
+1. 「**保存**」をクリックします。
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[優先度、緊急度、相対スコア、ベストベット](priority-urgency-relative-score-and-best-bets.md)
-
+   >[優先度、緊急度、相対スコア、ベストベット](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
