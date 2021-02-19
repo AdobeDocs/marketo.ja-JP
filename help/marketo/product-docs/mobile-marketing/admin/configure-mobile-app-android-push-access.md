@@ -3,7 +3,7 @@ unique-page-id: 7512432
 description: モバイルアプリのAndroidプッシュアクセスの設定 — Marketto Docs — 製品ドキュメント
 title: モバイルアプリのAndroidプッシュアクセスの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   目的のモバイルアプリを選択します。
+1. 目的のモバイルアプリを選択します。
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >モバイルアプリ開発者の&#x200B;**Server API Key**&#x200B;と&#x200B;**Project Number**&#x200B;が必要です。 開発者は、Google Play Developer Consoleにログインしてアプリを登録し、クラウドメッセージを有効にすることで、これらを受け取ります。
 
-   サーバーAPIキーとプロジェクト番号を入力します。 「保存」をクリックします。
+1. サーバーAPIキーとプロジェクト番号を入力します。 「**保存**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [モバイルアプリのiOSプッシュアクセスの設定](configure-mobile-app-ios-push-access.md)
-
->
-
-
-
+>[モバイルアプリのiOSプッシュアクセスの設定](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
