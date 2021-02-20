@@ -3,7 +3,7 @@ unique-page-id: 7512451
 description: プッシュ通知の作成 — Marketto Docs — 製品ドキュメント
 title: プッシュ通知の作成
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # プッシュ通知の作成{#create-a-push-notification}
 
-プッシュ通知は簡単に作成できます。 ただし、開始する前に、マーケティング担当者とモバイルアプリ開発者に、開発の途中で必要な設定を依頼する必要があります。 詳しくは、[プッシュ通知について](understanding-push-notifications.md)を参照してください。
+プッシュ通知は簡単に作成できます。 ただし、開始する前に、マーケティング担当者とモバイルアプリ開発者に、開発の途中で必要な設定を依頼する必要があります。 詳しくは、[プッシュ通知について](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)を参照してください。
 
 1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   甘い！ プッシュ通知が作成されたら、[ドレスアップ](configure-mobile-push-notification.md)します。
-
+   甘い！ プッシュ通知が作成されたら、[ドレスアップ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)します。
