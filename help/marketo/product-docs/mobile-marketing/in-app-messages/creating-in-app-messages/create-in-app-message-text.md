@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: アプリ内メッセージテキストの作成 — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージテキストの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >テキストサイズが大きすぎると、コンテンツが表示可能なテキスト行の最大3行を超える場合があります。
 
-1. オプションで、強調の種類を選択します。**太字**、*斜体*、または下線。
+1. オプションで、強調の種類を選択します。**太字**、_斜体_、または下線。
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ ht-degree: 0%
 
    承認されたアプリ内メッセージプログラムで使用されるトークンに対して行った変更は、プログラムが一時停止されてから再開されるまで、アプリ内メッセージでは有効になりません。
 
-君は金色だ。 次に、[アプリ内メッセージボタン](set-up-the-in-app-message-button.md)を設定する必要があります。
+君は金色だ。 次に、[アプリ内メッセージボタン](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)を設定する必要があります。
 
 >[!MORELIKETHIS]
 >
->* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
