@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: アプリ内メッセージについて — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージについて
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->例1:アプリを開くと、「Summer Sale」というプロモーションが表示されます。
+>**例1**:アプリを開くと、「Summer Sale」というプロモーションが表示されます。
 >
->例2:医療ビデオを見ながら、医師の訪問を予約し、40ドルのクーポンをトリガーします。
+>**例2**:医療ビデオを見ながら、医師の訪問を予約し、40ドルのクーポンをトリガーします。
 
 モバイルアプリ用のアプリ内メッセージを作成して送信する前に、設定を行うには、マーケティング担当者とモバイルアプリの開発者が必要です。  アプリ内メッセージを作成するには、次の3つの手順を実行します。
 
@@ -33,18 +33,10 @@ ht-degree: 0%
 
 ## 手順2:アプリ内メッセージの作成{#step-create-an-in-app-message}
 
-オンラインエディターを使用して、[アプリ内メッセージ](https://docs.marketo.com/display/docs/create+an+in-app+message)を作成します。
+オンラインエディターを使用して、[アプリ内メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)を作成します。
 
 ## 手順3:送れ！{#step-send}
 
-[メッセージ](https://docs.marketo.com/display/docs/send+your+in-app+message)を送信するプログラムを作成します。
+[メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)を送信するプログラムを作成します。
 
 君は行く途中だ。
-
->[!MORELIKETHIS]
->
->* [アプリ内メッセージの作成](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [アプリ内メッセージの送信](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
