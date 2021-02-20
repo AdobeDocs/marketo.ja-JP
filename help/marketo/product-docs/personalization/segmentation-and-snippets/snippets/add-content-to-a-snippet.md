@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: スニペット追加のコンテンツ — Marketto Docs — 製品ドキュメント
 title: スニペット追加の内容
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[スニペットの作成](create-a-snippet.md)
+>[スニペットの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 スニペットには、トークン、画像、ファイルまたはリッチテキストを追加できます。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >スニペットに[Marketo電子メールの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。**a3/>は電子メールでは動作しません。**&#x200B;スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
 
-1. **Design Studioに移動します。**
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >独自の画像またはファイルをMarketorに追加できます。 [画像とファイル](https://docs.marketo.com/display/docs/images+and+files)の詳細を参照してください。
+   >独自の画像またはファイルをMarketorに追加できます。 [画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)の詳細を参照してください。
 
 1. 使用する&#x200B;**画像**&#x200B;を選択し、「**挿入**」をクリックします。
 
@@ -87,6 +87,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [スニペットのプレビュー](preview-a-snippet.md)
->* [スニペットの承認](approve-a-snippet.md)
+>* [スニペットのプレビュー](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [スニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
