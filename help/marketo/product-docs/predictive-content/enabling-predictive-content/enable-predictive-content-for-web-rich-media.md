@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Webリッチメディアの予測コンテンツを有効にする — Marketto Docs — 製品ドキュメント
 title: Webリッチメディアの予測コンテンツを有効にする
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ ht-degree: 0%
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
->* [予測コンテンツの準備](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **予測コンテンツの準備**
+   >
+   >   
+   * [電子メールの予測コンテンツの](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 編集
+   >   * [リッチ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) メディアの予測コンテンツの編集
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 リッチメディア向けにコンテンツのタイトル、説明、画像を準備したら、個々のコンテンツまたは複数のコンテンツを有効にできます。
@@ -58,9 +61,3 @@ ht-degree: 0%
 リッチメディアレコメンデーションテンプレートの例を次に示します。2
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [コンテンツレコメンデーションバーの有効化](enable-the-content-recommendation-bar.md)
->* [電子メールの予測コンテンツを有効にする](https://docs.marketo.com/x/vLit)
-
