@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: プレビュースニペット — Marketto Docs — 製品ドキュメント
 title: スニペットのプレビュー
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スニペット追加の内容](add-content-to-a-snippet.md)
-
->
-
-
+>[スニペット追加の内容](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 スニペットは、セグメントルールに基づいて変化する動的コンテンツのブロックです。
 
-1. **Design Studioに移動します。**
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [スニペットの承認](approve-a-snippet.md)
-
->
-
-
-
+>[スニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
