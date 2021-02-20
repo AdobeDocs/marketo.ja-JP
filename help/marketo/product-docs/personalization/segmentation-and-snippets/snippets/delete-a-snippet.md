@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: スニペットの削除 — Marketo Docs — 製品ドキュメント
 title: スニペットの削除
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スニペットの未承認](unapprove-a-snippet.md)
-
->
-
-
+>[スニペットの未承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 不要になったスニペットを削除します。
 
-1. **Design Studioに移動します。**
+1. **Design Studio**&#x200B;に移動します。
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -31,14 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. 「**削除**」をクリックして確認するか、**キャンセル**&#x200B;のみを実行します。
+1. 「**削除**」をクリックして確定するか、**キャンセル**&#x200B;のみを実行します。
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**Reminder**
-   >
    >
    >削除できるのは、未承認でアセットで使用されていないスニペットのみです。
 
