@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: 電子メールの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
 title: 電子メールの予測コンテンツの編集
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # 電子メールの予測コンテンツの編集{#edit-predictive-content-for-emails}
 
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
-
 電子メールの予測コンテンツを設定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->すべてのコンテンツページで、コンテンツ[予測用のコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)を&lt;a0/>承認する必要があります。
+>すべてのコンテンツページで、コンテンツ[予測用のコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)を承認する必要があります。
 
 1. 予測コンテンツページで、タイトルをクリックしてエディターを開きます。
 
