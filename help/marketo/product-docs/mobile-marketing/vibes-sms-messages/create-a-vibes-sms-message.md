@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: Vibe SMSメッセージの作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: Vibe SMSメッセージの作成
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vibes SMSメッセージの作成方法を次に示します。
 
-1. 「マーケティングアクティビティ」に移動し、プログラムを右クリックします。
+1. **マーケティングアクティビティ**&#x200B;に移動し、プログラムを右クリックします。
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -25,7 +25,7 @@ Vibes SMSメッセージの作成方法を次に示します。
 
    >[!TIP]
    >
-   >または、「**新規**」ドロップダウンをクリックします。
+   >または、**新規**&#x200B;ドロップダウンをクリックします。
 
 1. **SMSメッセージ**&#x200B;をクリックします。
 
