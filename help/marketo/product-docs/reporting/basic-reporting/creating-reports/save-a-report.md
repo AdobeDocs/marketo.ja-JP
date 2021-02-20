@@ -3,7 +3,7 @@ unique-page-id: 7511980
 description: レポートの保存 — Marketto Docs — 製品ドキュメント
 title: レポートの保存
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,9 +16,10 @@ ht-degree: 0%
 場合によっては、後でデフォルトのレポートを表示に再び保存する必要が生じることがあります。 その方法を次に示します。
 
 1. 「**Analytics**」領域に移動します。
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. [レポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. [レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -40,5 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[レポートをコピーしてレポートをグループ化する方法](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)を説明します。
-
+>[レポートをコピーしてレポートをグループ化する方法](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)を説明します。
