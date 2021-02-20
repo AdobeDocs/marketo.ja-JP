@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: アルゴリズム目標設定 — Marketto Docs — 製品ドキュメント
 title: アルゴリズム目標の設定
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | コンテンツを表示すると、訪問者がコンテンツをクリックする可能性が最も高い |
+   | **クリック数** | コンテンツを表示すると、訪問者がコンテンツをクリックする可能性が最も高い |
    |---|---|
-   | **`Conversions`** | コンテンツを表示している訪問者がフォームを送信する可能性が最も高いコンテンツを表示する |
+   | **コンバージョン** | コンテンツを表示している訪問者がフォームを送信する可能性が最も高いコンテンツを表示する |
 
 1. 終了したら「**保存**」をクリックします。
 
    ![](assets/four.png)
-
