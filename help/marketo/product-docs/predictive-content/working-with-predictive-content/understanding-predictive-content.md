@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: 予測コンテンツについて — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツについて
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # 予測コンテンツについて{#understanding-predictive-content}
-
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
 [予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後は、ここで作業します。 予測コンテンツページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
 
@@ -58,7 +54,7 @@ ht-degree: 0%
 
 ## 予測コンテンツの表示表データ{#view-table-data-for-predictive-content}
 
-表では、左から右へ、どのソースから予測コンテンツが有効になっているかを表示できます。レコメンデーションバー、電子メールおよびリッチメディアを参照してください。 有効なソースは緑色で表示されます。 これらを有効にするには、コンテンツ[を編集](https://docs.marketo.com/display/docs/edit+predictive+content)します。
+表では、左から右へ、どのソースから予測コンテンツが有効になっているかを表示できます。レコメンデーションバー、電子メールおよびリッチメディアを参照してください。 有効なソースは緑色で表示されます。 コンテンツを編集する際に、これらを有効にします。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ ht-degree: 0%
 >**直接コンバージョン**:レコメンデーションコンテンツをクリックし、同じ訪問でフォームに記入した訪問者
 >
 >**クリック済み**:推奨コンテンツに対する合計クリック数（3つのソースすべてを含む）
-
->[!MORELIKETHIS]
->
->* [予測コンテンツ](https://docs.marketo.com/display/docs/predictive+content)
->* [予測コンテンツの編集](https://docs.marketo.com/display/docs/edit+predictive+content)
-
