@@ -3,19 +3,15 @@ unique-page-id: 4719190
 description: コンテンツ検出を有効にする — Marketto Docs — 製品ドキュメント
 title: コンテンツ検出を有効にする
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
 
 # コンテンツ探索を有効にする{#enable-content-discovery}
-
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
 コンテンツ検索機能は、既存のコンテンツ（導入事例、ブログ投稿、ビデオ、プレスリリースなど）を自動的に検出し、タグを付けます。 の表示数を追跡します。  予測コンテンツは、検出されたコンテンツを使用します。予測分析を利用して、最もパフォーマンスの高いコンテンツを特定し、最適な訪問者に最適なコンテンツを推奨します。
 
@@ -27,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/content-discovery-on-hand.png)
 
-「コンテンツの検出」を「オン」に設定すると、Web訪問者がファイルをクリックしたときやビデオを視聴したときに、PDFまたはビデオのコンテンツが自動検出されます。 このコンテンツ部分（URL、コンテンツ名、画像URL）が追加され、すべてのコンテンツページで追跡されます。 ビデオの自動検出時に、Web訪問者がYouTube、Vimeo、またはWistiaから埋め込みビデオをクリックして視聴したときに、ビデオを検出します。 他のコンテンツを自動検出するには、[コンテンツパターン](create-content-patterns.md)を作成する必要があります。
+「コンテンツの検出」を「オン」に設定すると、Web訪問者がファイルをクリックしたときやビデオを視聴したときに、PDFまたはビデオのコンテンツが自動検出されます。 このコンテンツ部分（URL、コンテンツ名、画像URL）が追加され、すべてのコンテンツページで追跡されます。 ビデオの自動検出時に、Web訪問者がYouTube、Vimeo、またはWistiaから埋め込みビデオをクリックして視聴したときに、ビデオを検出します。 他のコンテンツを自動検出するには、[コンテンツパターン](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md)を作成する必要があります。
