@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: セグメントの順序の優先順位 — Marketto Docs — 製品ドキュメント
 title: セグメントの順序の優先順位
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [セグメントの作成](create-a-segmentation.md)
->* [セグメントルールの定義](define-segment-rules.md)
-
->
-
-
+>[セグメントの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. **データベース**&#x200B;に移動します。
 
@@ -37,6 +33,7 @@ ht-degree: 0%
    >セグメントのドラフトのみを編集できます。
 
    この画面で、セグメントの順序を確認または編集できます。
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ ht-degree: 0%
 >* 2つのセグメントに該当する訪問者は、リストの最初のセグメントにのみ属します。
 >* どのセグメントにも該当しない場合は、その訪問者はデフォルトセグメントのメンバーになります。
 
->
 
-
-
-かっこいい？ セグメントは、動的コンテンツ[レポート](https://docs.marketo.com/display/docs/basic+reporting)、さらに[スマートリスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)でも使用できます。
-
+かっこいい？ セグメントは、動的なコンテンツ、レポート、さらにスマートリストでも使用できます。
