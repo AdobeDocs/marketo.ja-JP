@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: 新しいテストデバイスの追加 — Marketto Docs — 製品ドキュメント
 title: 新しいテストデバイスの追加
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-1. 「**管理者**」をクリックし、「**モバイルアプリ**」リンクをクリックします。\
+1. 「**管理者**」をクリックし、「**モバイルアプリ**」リンクをクリックします。
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. 「**テストデバイス**」タブをクリックし、「**新しいテストデバイス**」をクリックします。
@@ -51,4 +52,3 @@ ht-degree: 0%
 1. ステータスが更新され、デバイスが追加されたことを示します。 おめでとう！
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
