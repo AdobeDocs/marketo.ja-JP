@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: セグメントの編集 — Marketto Docs — 製品ドキュメント
 title: セグメントの編集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 「**ステータス**」は「ドラフト付き承認済み」に変わります。 セグメント内に**ドラフト**フォルダーが作成されます。
+1. **ステータス**&#x200B;が「ドラフト付き承認済み」に変わります。 セグメント内に&#x200B;**ドラフト**&#x200B;フォルダーが作成されます。
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >ドラフトのセグメントの編集のみ可能で、承認済みセグメントは不可。
 
-1. **セグメント**、*追加*既存のセグメントを編集（名前を変更または順序を変更）、**すべてのセグメントを削除します。
+1. **セグメント**、編集(順序の変更追加)、または ****  **** 任意のセグメントの削除を行います。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## セグメントルールの編集{#edit-segment-rules}
 
-1. ドラフト&#x200B;**セグメント**&#x200B;で、**スマートリスト**&#x200B;に移動します。 [セグメントルールの定義](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)に類似したルールを適用します。
+1. ドラフト&#x200B;**セグメント**&#x200B;で、**スマートリスト**&#x200B;に移動します。 [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)に類似したルールを適用します。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >セグメントのドラフトを忘れずに承認してください。
 
 動的コンテンツで使用されないセグメントを自由に試してみてください。
 
 >[!MORELIKETHIS]
 >
->* [セグメントの削除](delete-a-segmentation.md)
-
->
-
-
-
+>[セグメントの削除](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
