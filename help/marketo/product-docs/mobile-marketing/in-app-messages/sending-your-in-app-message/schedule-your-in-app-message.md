@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: アプリ内メッセージのスケジュール — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージのスケジュール
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-簡単！ 最後ですが、少なくとも[承認](approve-your-in-app-message.md)ステップです。
+簡単！ 最後ですが、少なくとも[承認](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)ステップです。
