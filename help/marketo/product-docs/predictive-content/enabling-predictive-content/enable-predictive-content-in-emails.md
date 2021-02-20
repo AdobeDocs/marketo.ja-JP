@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: 電子メール — Marketto Docs — 製品ドキュメントで予測コンテンツを有効にする
 title: 電子メールの予測コンテンツを有効にする
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->予測コンテンツを有効にする前にを参照してください。 必要：
+>予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
->* [予測コンテンツの準備](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **予測コンテンツの準備**
+   >
+   >   
+   * [電子メールの予測コンテンツの](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 編集
+   >   * [リッチ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) メディアの予測コンテンツの編集
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 予測を行う画像をクリックします。 歯車アイコンが表示されたら、アイコンをクリックし、「コンテンツを有効にする」を選択します。**`AI`**（コンテンツ`AI`は予測コンテンツの旧名です）
+1. 予測を行う画像をクリックします。 歯車アイコンが表示されたら、アイコンをクリックし、「ContentAIを有効にする」を選択します。****&#x200B;を選択します（ContentAIは予測コンテンツの旧名です）。
 
    ![](assets/three.png)
 
