@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: 予測コンテンツのタイトルの不承認 — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツのタイトルの未承認
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # 予測コンテンツのタイトルの未承認{#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
 すべてのコンテンツページまたはコンテンツを編集ポップアップで、予測コンテンツのタイトルを未承認にすることができます。
 
@@ -41,7 +37,6 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-どの方法を使用しても、すべてのコンテンツページの承認アイコンは表示されず、タイトルが予測コンテンツページから消えます。
+どの方法を使用した場合でも、すべてのコンテンツページの承認アイコンは表示されず、タイトルが予測コンテンツページから消えます。
 
 ![](assets/unapprove-content-no-icon.png)
-
