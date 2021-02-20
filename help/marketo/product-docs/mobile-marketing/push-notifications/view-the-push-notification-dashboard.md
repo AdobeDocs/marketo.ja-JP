@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: プッシュ通知ダッシュボードの表示- Marketto Docs — 製品ドキュメント
 title: プッシュ通知ダッシュボードの表示
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**送信済み**&#x200B;指標は、プッシュ通知の送信先となった人の正確な数よりも多くの送信を反映している場合があります。 これは、プッシュを受け取る条件となる&#x200B;*デバイス*&#x200B;の数に基づいて計算されるからです。 例えば、1人の人が3台のデバイスを持っている場合、ダッシュボードは1台ではなく3台の送信を登録します。
+   >_送信済み_&#x200B;指標は、プッシュ通知の送信先となった人の正確な数よりも多くの送信を反映している場合があります。 これは、プッシュを受け取る条件となる&#x200B;*デバイス*&#x200B;の数に基づいて計算されるからです。 例えば、1人の人が3台のデバイスを持っている場合、ダッシュボードは1台ではなく3台の送信を登録します。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [プッシュ通知について](understanding-push-notifications.md)
-   >    * [モバイルプッシュ通知の送信](send-a-mobile-push-notification.md)
-
+   >* [プッシュ通知について](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [モバイルプッシュ通知の送信](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
