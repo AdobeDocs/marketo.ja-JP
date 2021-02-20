@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: すべてのコンテンツについて — Marketto Docs — 製品ドキュメント
 title: すべてのコンテンツについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # すべてのコンテンツについて{#understanding-all-content}
 
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
+すべてのコンテンツページには、手動で検出または追加されたすべてのコンテンツが表示されます。
 
-すべてのコンテンツページには、手動で検出または追加されたすべてのコンテンツが表示されます。   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 ページのフィールドは次のとおりです。
 
@@ -52,12 +50,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [追加新しいコンテンツ](add-new-content.md)
->* [コンテンツを削除](delete-content.md)
->* [予測コンテンツのタイトルの承認](approve-a-title-for-predictive-content.md)
->* [予測コンテンツのタイトルの未承認](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [追加新しいコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [コンテンツを削除](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [予測コンテンツのタイトルの未承認](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
