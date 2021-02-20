@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: コンテンツパターンの作成 — Marketto Docs — 製品ドキュメント
 title: コンテンツパターンの作成
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # コンテンツパターンを作成{#create-content-patterns}
 
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
-
-コンテンツパターンを設定すると、Web訪問者がコンテンツパターンに関連するHTML Webページをクリックしたときに、コンテンツが自動検出されます。 HTMLページ（ブログ投稿、プレスリリース、ニュース記事）をコンテンツ要素として「すべてのコンテンツ」ページに追加するために使用します。 コンテンツパターンに基づいた自動検出では、Web訪問者ーがページへのリンクを表示またはクリックしたときに、定義済みのURLパターンに関連するHTMLページを検出して追跡します。 このコンテンツ部分（URL、ページ名、画像URLや説明を含むメタデータ）をすべてのコンテンツページに追加して、予測コンテンツを準備します。 PDFや埋め込みビデオなど、他のコンテンツを自動検出するには、[コンテンツ検出を有効にする](enable-content-discovery.md)必要があります。
+コンテンツパターンを設定すると、Web訪問者がコンテンツパターンに関連するHTML Webページをクリックしたときに、コンテンツが自動検出されます。 HTMLページ（ブログ投稿、プレスリリース、ニュース記事）をコンテンツ要素として「すべてのコンテンツ」ページに追加するために使用します。 コンテンツパターンに基づいた自動検出では、Web訪問者ーがページへのリンクを表示またはクリックしたときに、定義済みのURLパターンに関連するHTMLページを検出して追跡します。 このコンテンツ部分（URL、ページ名、画像URLや説明を含むメタデータ）をすべてのコンテンツページに追加して、予測コンテンツを準備します。 PDFや埋め込みビデオなど、他のコンテンツを自動検出するには、[コンテンツ検出を有効にする](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)必要があります。
 
 1. 「**コンテンツ設定**」に移動します。
 
@@ -27,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/click-url-patterns-hand.png)
 
-1. **+ **をクリックすると、行が開き、情報を入力できます。
+1. **+**&#x200B;をクリックすると、情報を入力できる行が開きます。
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >右側のドロップダウンリストの項目は、[カテゴリ](set-up-categories.md)を作成したときに設定したカテゴリを反映しています。
+   >右側のドロップダウンリストの項目は、[カテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)を作成したときに設定したカテゴリを反映しています。
 
-1. **+ **をクリックして、別のパスを追加します。
+1. **+**&#x200B;をクリックして、別のパスを追加します。
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ ht-degree: 0%
 
 ## コンテンツパターンルール{#content-pattern-rules}
 
-* 式内の任意の場所にワイルドカードを使用できます(例：*domain.com/**, *domain.com/*blog**)
+* 式内の任意の場所にワイルドカードを使用できます(例：_domain.com/*_, _domain.com/*blog*_)
 
-* パターン検出を続行するには、式の最後に/*を使用することをお勧めします(例：*domain.com/blog/**&#x200B;は、ブログフォルダー内のすべての投稿を検出します)。
-* コンテンツパターンでは大文字と小文字が区別されません(例：*domain.com/Blog/**&#x200B;は、*domain.com/Blog*&#x200B;と&#x200B;*domain.com/blog*)にあるすべてのhtmlページを検出します
+* パターン検出を続行するには、式の最後に/*を使用することをお勧めします(例：_domain.com/blog/*_&#x200B;は、ブログフォルダー内のすべての投稿を検出します)。
+* コンテンツパターンでは大文字と小文字が区別されません(例：_domain.com/Blog/*_&#x200B;は、_domain.com/Blog_&#x200B;と&#x200B;_domain.com/blog_)にあるすべてのhtmlページを検出します
 
 * URLパラメーターが見つからない（これにより、同じコンテンツURLで異なるパラメーターを持つ複数の項目を見つけることができます）
 
 ## 例{#examples}
 
-*domain.com*&#x200B;の場合：
+_domain.com_&#x200B;の場合：
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
