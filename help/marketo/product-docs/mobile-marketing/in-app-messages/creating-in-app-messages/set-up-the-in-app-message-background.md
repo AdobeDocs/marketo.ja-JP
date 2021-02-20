@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: アプリ内メッセージの背景の設定 — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージの背景の設定
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ ht-degree: 0%
    >
    >背景のタップアクションについては、AppleプラットフォームとAndroidプラットフォームで異なるアクションを設定できます。 例えば、ディープリンクの処理方法がAppleとAndroidでは異なるとします。 メッセージの送信先のプラットフォームが1つだけの場合は、もう1つのプラットフォームをデフォルトの設定のままにするか、「**なし**」を選択します。
 
-   [「閉じる」ボタンを設定する](set-up-the-dismiss-button-and-approve-the-message.md)
+   ジョブを終了するには、最後のステップは[[解除]ボタン](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)を設定することです。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [アプリ内メッセージの送信](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
+   >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [アプリ内メッセージの送信](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-その仕事を終えるには、最後のステップはにです。
