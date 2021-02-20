@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: コンテンツの編集 — Marketto Docs — 製品ドキュメント
 title: コンテンツを編集
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 承認するには、「**予測コンテンツを承認**」ボックスをオンにし、未承認にするには、このボックスのチェックを外します。 終了したら「**保存**」をクリックします。
 
    ![](assets/edit-content-4.png)
-
