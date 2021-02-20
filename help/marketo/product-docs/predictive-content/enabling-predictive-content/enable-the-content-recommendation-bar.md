@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: コンテンツレコメンデーションバー — マーケティングドキュメント — 製品ドキュメントを有効にする
 title: コンテンツレコメンデーションバーの有効化
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 >
 >予測コンテンツを有効にする前に、次の操作を行う必要があります。
 >
->* [予測コンテンツの準備](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **予測コンテンツの準備**
+   >
+   >   
+   * [電子メールの予測コンテンツの](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 編集
+   >   * [リッチ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) メディアの予測コンテンツの編集
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ ht-degree: 0%
    >
    >**表示URLを含む/除外**
    >
-   >    * 表示URLはドメインのパスである必要があります
-   >    * https://またはhttps://を含めない
-   >    * ワイルドカードには*を使用
+   >* 表示URLはドメインのパスである必要があります
+   >* https://またはhttps://を含めない
+   >* ワイルドカードには*を使用
    * セミコロンを区切り文字として使用する
    * 例：/contact_us*;*action=logout*
    * このフィールドでは大文字と小文字が区別されます
@@ -61,5 +67,4 @@ ht-degree: 0%
 * レコメンデーション用に有効にするコンテンツ部分には、RTP Javascriptタグを含める必要があります。 これは、アルゴリズムによる推奨コンテンツの追跡と最適化に役立ちます。
 
 >[!MORELIKETHIS]
-* [Webリッチメディアの予測コンテンツを有効にする](enable-predictive-content-for-web-rich-media.md)
-
+[Webリッチメディアの予測コンテンツを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
