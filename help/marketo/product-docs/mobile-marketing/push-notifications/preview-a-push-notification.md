@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: プレビューaプッシュ通知 — Marketto Docs — 製品ドキュメント
 title: プレビュープッシュ通知
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ AndroidまたはiOSの場合、プッシュ通知の表示形式を簡単にプ�
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-または、プッシュ通知表示ページで、**プッシュ通知アクション**&#x200B;をクリックし、**プレビュー**&#x200B;をクリックします。 または、右端の**プレビュー&#x200B;**をクリックします。** **
+または、プッシュ通知表示ページで、「**プッシュ通知アクション**」をクリックし、「**プレビュー**」をクリックします。 または、最も右側の&#x200B;**プレビュー**&#x200B;をクリックします。
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Notification Center画面の上部にあります。
 
 >[!MORELIKETHIS]
 >
->* [プッシュ通知の作成](create-a-push-notification.md)
->* [モバイルプッシュ通知の設定](configure-mobile-push-notification.md)
-
->
-
-
+>* [プッシュ通知の作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [モバイルプッシュ通知の設定](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
