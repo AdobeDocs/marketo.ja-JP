@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: アプリ内メッセージボタンの設定 — Marketto Docs — 製品ドキュメント
 title: アプリ内メッセージボタンの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 強調するフォントスタイルを選択：**太字**、*斜体*、または下線。
+1. 強調するフォントスタイルを選択：**太字**、_斜体_、または下線。
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   各プラットフォームのドロップダウンをクリックし、タップアクションを選択します。
+1. 各プラットフォームのドロップダウンをクリックし、タップアクションを選択します。
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >ボタンには常にタップ操作があるので、「タップ操作」チェックボックスが自動的に選択され、デフォルトのメッセージは「メッセージを閉じる」になります。
 
-   [アプリ内メッセージの背景を設定し、「閉じる」ボタンを](set-up-the-in-app-message-background.md)
-
-もう少しで。 最後のステップはにです。
+もう少しで。 最後の手順は、[アプリ内メッセージの背景を設定し、ボタン](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)を閉じます。
 
 >[!MORELIKETHIS]
 >
->* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
