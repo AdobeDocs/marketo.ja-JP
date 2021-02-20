@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: リッチメディアの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
 title: リッチメディアの予測コンテンツの編集
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # リッチメディアの予測コンテンツの編集{#edit-predictive-content-for-rich-media}
 
->[!NOTE]
->
->購入日に応じて、マーケティング担当購読に、マーケティング担当者の予測コンテンツまたはコンテンツ<sup>AI</sup>が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日まで、コンテンツ<sup>AI</sup>分析機能を有効にしています。 これらの機能をその日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ<sup>AI</sup>にアップグレードしてください。
-
 リッチメディア用の予測コンテンツを設定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->すべてのコンテンツページで、コンテンツ[予測用のコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)を&lt;a0/>承認する必要があります。
+>すべてのコンテンツページで、コンテンツ[予測用のコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)を承認する必要があります。
 
 1. **予測コンテンツ**&#x200B;ページで、タイトルをクリックしてエディターを開きます。
 
