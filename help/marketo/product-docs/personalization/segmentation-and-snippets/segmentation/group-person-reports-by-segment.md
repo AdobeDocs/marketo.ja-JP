@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: セグメント別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: セグメント別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # セグメント別のグループ個人レポート{#group-person-reports-by-segment}
 
-[ユーザーレポート](https://docs.marketo.com/display/docs/basic+reporting)を、[がセグメント](create-a-segmentation.md)で定義した任意の[セグメント](https://docs.marketo.com/display/docs/basic+reporting)でグループ化できます。
+セグメントで定義した任意のセグメントによって、個人レポートをグループ化できます。
 
 1. 「**マーケティングアクティビティ**」（または「**Analytics**」）セクションに移動します。
 
@@ -23,20 +23,13 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
-
 1. 「**セットアップ**」タブをクリックし、「**ユーザーを**&#x200B;でグループ化」を重複クリックします。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >個人または会社属性](https://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)別に[個人レポートをグループ化することもできます。
+   >個人または会社属性](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)別に[個人レポートをグループ化することもできます。
 
 1. **ユーザーを**&#x200B;でグループ化ダイアログで、開始がテキストボックスに「セグメント化」と入力します。 **セグメント**&#x200B;という見出しが表示されたら、見出しの下のリストから1つ選択します。
 
@@ -46,17 +39,6 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
->[!NOTE]
->
->**ディープダイブ**
->
->セグメントの詳細と、セグメントの作成および管理方法については、[セグメント化](https://docs.marketo.com/display/docs/segmentation+and+snippets)の詳細を参照してください。
-
 >[!MORELIKETHIS]
 >
->* [個人追加レポートのカスタム列](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
->
-
-
-
+>[個人追加レポートのカスタム列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
