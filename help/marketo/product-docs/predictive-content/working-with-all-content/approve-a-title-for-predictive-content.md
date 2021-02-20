@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: 予測コンテンツのタイトルの承認 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: 予測コンテンツのタイトルの承認
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # 予測コンテンツのタイトルの承認{#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
 すべてのコンテンツページまたはコンテンツを編集ポップアップで承認することで、予測コンテンツに対してすべてのコンテンツページの任意のタイトルを追加できます。
 
@@ -48,4 +44,3 @@ ht-degree: 0%
 予測コンテンツページにタイトルが表示されるようになりました。
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
