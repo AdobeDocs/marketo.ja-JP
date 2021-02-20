@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: 予測コンテンツ分析の概要 — Marketto Docs — 製品ドキュメント
 title: 予測コンテンツ分析の概要
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 概要{#overview}
 
-概要ページで、「解析」をクリックします。
+概要ページで、「**Analytics**」をクリックします。
 
 ![](assets/one.png)
 
@@ -45,7 +45,7 @@ Analyticsは、次のいくつかのセクションで構成されます。表�
 
 ![](assets/dates.png)
 
-## 表示別の上位のコンテンツ{#top-content-by-views}
+## 表示別上位のコンテンツ{#top-content-by-views}
 
 選択した日付範囲における表示数別に、上位のコンテンツの要素を表示します。
 
@@ -81,8 +81,6 @@ Analyticsは、次のいくつかのセクションで構成されます。表�
 
 >[!NOTE]
 >
->**説明**
->
 >下部にアイコンが表示されますか？ 左から右は次のとおりです。表示コンテンツ、CSVへのエクスポート、コンテンツの承認を参照してください。
 
 ## コンテンツ{#content}
@@ -96,4 +94,3 @@ Analyticsは、次のいくつかのセクションで構成されます。表�
 >[!NOTE]
 >
 >類似のコンテンツは、選択されたコンテンツピースに基づき、関連付けルールアルゴリズムによって計算される。 結果は、選択したピースと過去の訪問者の動作に応じて、訪問者がクリックする可能性が最も高いコンテンツの部分を表します。 フィルターや日付範囲は考慮されません。
-
