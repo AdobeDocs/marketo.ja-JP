@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: アプリ内メッセージのレイアウトを選択します。Marketo Docs — 製品ドキュメント
 title: アプリ内メッセージのレイアウトを選択
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -58,14 +58,8 @@ Marketorには、アプリ内メッセージを作成するための6つのレ�
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-これでテンプレートがわかったので、[アプリ内メッセージ画像](add-in-app-message-images.md)を作成するときに、テンプレートを選択します。
+これでテンプレートがわかったので、[アプリ内メッセージ画像](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md)を作成するときに、テンプレートを選択します。
 
 >[!MORELIKETHIS]
 >
->* [アプリ内メッセージの作成](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-
->
-
-
-
+>[アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
