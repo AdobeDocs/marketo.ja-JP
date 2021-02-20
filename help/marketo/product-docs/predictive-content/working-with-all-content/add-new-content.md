@@ -3,19 +3,15 @@ unique-page-id: 11384651
 description: 追加新しいコンテンツ — Marketto Docs — 製品ドキュメント
 title: 追加新しいコンテンツ
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # 追加新しいコンテンツ{#add-new-content}
-
->[!NOTE]
->
->購入日に応じて、マーケティング担当者の購読に、マーケティング担当者の予測コンテンツまたはコンテンツ`<sup>AI</sup>`が含まれる場合があります。 予測コンテンツを使用するユーザーの場合、Marketing Cloudでは、2018年4月30日までコンテンツ`<sup>AI</sup>`分析機能を有効にしています。 これらの機能をこの日以降に引き続き使用するには、マーケティング担当カスタマーサクセスマネージャーにお問い合わせの上、マーケティングコンテンツ`<sup>AI</sup>`にアップグレードしてください。
 
 コンテンツは、すべてのコンテンツページに手動で簡単に追加できます。
 
@@ -39,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. [予測コンテンツ](https://docs.marketo.com/x/Vbet)に追加する方法を次に示します。
-
+1. [予測コンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)に追加する方法を次に示します。
