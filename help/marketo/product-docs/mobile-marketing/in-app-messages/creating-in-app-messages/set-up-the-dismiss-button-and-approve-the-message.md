@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: 「却下」ボタンを設定し、メッセージを承認してMarketo Docs — 製品ドキュメントを作成する
 title: 「却下」ボタンを設定し、メッセージを承認する
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -71,15 +71,10 @@ ht-degree: 0%
 
 多くの選択肢がありますが、見栄えのするアプリ内メッセージが表示され、準備が整いました。
 
-これで、[メッセージ](https://docs.marketo.com/display/docs/send+your+in-app+message)を送る時間です。
+これで、[メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)を送る時間です。
 
 >[!MORELIKETHIS]
 >
->* [アプリ内メッセージについて](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [アプリ内メッセージの送信](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [アプリ内メッセージのレイアウトを選択](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
