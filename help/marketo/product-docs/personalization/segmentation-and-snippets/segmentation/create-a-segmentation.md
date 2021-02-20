@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: セグメントの作成 — Marketto Docs — 製品ドキュメント
 title: セグメントの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. 「**新規**」をクリックし、「**新しいセグメント**」をクリックします。
+1. 「**新しい**」をクリックし、「**新しいセグメント**」をクリックします。
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >最大20個のセグメントを作成できます。
 
-1. **名前**&#x200B;を入力し、***追加* **セグメント**&#x200B;をクリックして名前を付けます。
+1. **名前**&#x200B;を入力し、**セグメント**&#x200B;追加をクリックして名前を付けます。
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -43,8 +43,7 @@ ht-degree: 0%
    >
    >セグメントで作成できるセグメントの合計数は、使用するフィルターの数とタイプ、およびセグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大100個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバ、リード所有者フィールド、および売上高ステージ。
    >
-   >
-   >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](https://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a)にお問い合わせください。
+   >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. セグメントをドラッグ&amp;ドロップして順序を変更します。 完了したら、「**作成**」をクリックします。
 
@@ -52,21 +51,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ユーザーは、定義された[注文](segmentation-order-priority.md)の中で、最初に一致したセグメントに該当します。
+   >ユーザーは、定義された[注文](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)の中で、最初に一致したセグメントに該当します。
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >セグメントを使用する前に、セグメントルールを定義する必要があります。
+
+   おめでとう！ 動的なコンテンツを使用するには、次の手順に従います。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [セグメントルールの定義](define-segment-rules.md)
-
-
-おめでとう！ 動的なコンテンツを使用するには、次の手順に従います。
+   >[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
