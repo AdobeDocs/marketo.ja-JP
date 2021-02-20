@@ -3,7 +3,7 @@ unique-page-id: 10095644
 description: ドラフトなし — Marketto Docs — 製品ドキュメントでのスニペットの承認
 title: ドラフトなしのスニペットの承認
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -42,5 +42,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[スニペットのドラフトなしを有効にする](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
-
+>[スニペットのドラフトなしを有効にする](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
