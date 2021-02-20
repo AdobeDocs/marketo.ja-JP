@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: セグメント別の電子メールレポートのグループ化 — Marketto Docs — 製品ドキュメント
 title: セグメント別電子メールレポートのグループ化
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # セグメント別電子メールレポートのグループ化{#group-email-reports-by-segmentations}
 
-セグメント化は、動的コンテンツに対するものではありません。 [電子メールのパフォーマンスレポート](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)を[セグメント](https://docs.marketo.com/display/docs/segmentation+and+snippets)でグループ化することもできます。
+セグメント化は、動的コンテンツに対するものではありません。 また、セグメント別に電子メールのパフォーマンスレポートをグループ化することもできます。
 
 >[!PREREQUISITES]
 >
->* [セグメントの承認](approve-a-segmentation.md)
-
->
-
-
+>[セグメントの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. レポートのグループ化に使用する1つまたは2つのセグメントを選択します。 「**APPLY**」をクリックします。
+1. レポートのグループ化に使用する1つまたは2つのセグメントを選択します。 「**適用**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
@@ -43,15 +39,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. 2つのセグメントを使用する場合、セグメントの&#x200B;*組み合わせ*&#x200B;ごとに1行が表示されます。
+1. 2つのセグメントを使用する場合、セグメントの&#x200B;_組み合わせ_&#x200B;ごとに1行が表示されます。
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->* [電子メールレポートでのアセットのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
+>[電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
