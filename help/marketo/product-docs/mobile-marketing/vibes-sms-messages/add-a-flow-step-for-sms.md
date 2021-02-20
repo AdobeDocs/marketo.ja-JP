@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: SMS - Marketto Docs — 製品ドキュメントのフ追加ローステップ
 title: SMS追加のフローステップ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketoには、SMSスマートキャンペーンで使用できる3つのフロ
 >* 電話番号別の重複排除。 複数の人が同じ電話番号を持っている場合、1人の人だけがメッセージを受け取ります。
 >* Marketing Suspendedまたはブロックリストに加えるMarketing Suspendedのユーザーには送信されません。
 
->
 
-
-
-フローステップの設定に関する一般的な情報については、「[スマートキャンペーンへ追加のフローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)」を参照してください。
+フローステップの設定に関する一般的な情報については、「[スマートキャンペーンへ追加のフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)」を参照してください。
 
 SMSを使用する際の基本事項を以下に示します。
 
@@ -50,6 +47,4 @@ SMSを使用する際の基本事項を以下に示します。
    >
    >Vibesリストセレクターは、スマートリストで既に識別されているオーディエンスに対する追加のフィルターとして機能し、そのVibesリストに属するリードのみをターゲットします。
    >
-   >
    >**Subscribe to Vibesリスト**&#x200B;と&#x200B;**Unsubscribe from Vibesリスト**&#x200B;のフローは、異なる要件を持ちます。 **購読**&#x200B;の場合、VibesリストとVibes獲得キャンペーンを選択する必要があります。 **登録解除**&#x200B;の場合は、Vibesリストのみが必要です。
-
