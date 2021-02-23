@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: レポート期間の変更 — Marketto Docs — 製品ドキュメント
 title: レポート期間の変更
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >特定の個人属性でレポートを絞り込むには、[スマートリスト](filter-people-in-a-report-with-a-smart-list.md)を使用してレポート内のユーザーをフィルターします。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >レポートの使用方法について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照してください。
-
+   >特定の個人属性でレポートを絞り込むには、[スマートリスト](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)を使用してレポート内のユーザーをフィルターします。
