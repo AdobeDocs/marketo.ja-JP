@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: キャンペーンアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: キャンペーンアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # キャンペーンアクティビティレポート{#campaign-activity-report}
 
-[スマートキャンペーン](https://docs.marketo.com/display/docs/smart+campaigns)の動作を確認します。
+[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)の動作を確認します。
 
-1. [レポートを作成し、](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 「 **キャンペーンアクティビティ」レポートタイプを選択し** [](report-type-overview.md)ます。
-1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+1. [レポートを作成し、](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 「 **キャンペーンアクティビティ」レポートタイプを選択し** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)ます。
+
+1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+
 1. 素晴らしい！ レポートを調べて、最も効果的なキャンペーンをキャンペーンタイプ別にグループ化して特定します。
 
-   ` ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   `
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >最も多くの人を処理したキャンペーンを検索するには、例えば[*処理した人数合計*&#x200B;でレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を降順選択します。
+   >最も多くの人を処理したキャンペーンを検索するには、例えば[_処理済みの人数合計_&#x200B;でレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を降順選択します。
 
-   スマートキャンペーンの名前をクリックして開きます。  [キャンペーンアクティビティレポート用に](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
+   スマートキャンペーンの名前をクリックして開きます。  [キャンペーンアクティビティレポート用に](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
    | 列 | 説明 |
    |---|---|
@@ -48,11 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [キャンペーンアクティビティレポートのフィルタリング](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-
-
-   [基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートをもっと見る。
-
+   >[キャンペーンアクティビティレポートのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
