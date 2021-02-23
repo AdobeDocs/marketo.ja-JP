@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: レポートをExcelにエクスポートする — Marketto Docs — 製品ドキュメント
 title: レポートをExcelにエクスポートする
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >ダウンロードしたファイルが大きすぎる場合は、[レポートサイズ](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)を変更できます。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本的なレポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照して、レポートでできるその他の役に立つことをすべて確認してください。
-
+   >ダウンロードしたファイルが大きすぎる場合は、[レポートサイズ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)を変更できます。
