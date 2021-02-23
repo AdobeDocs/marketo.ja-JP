@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 属性別グループ個人レポート — Marketto Docs — 製品ドキュメント
 title: 属性別個人レポートのグループ化
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 属性別グループ個人レポート{#group-person-reports-by-attribute}
 
-[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)は、任意の人または会社属性でグループ化できます。
+個人レポートは、任意の個人または会社属性でグループ化できます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >また、[セグメント](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)で個人レポートをグループ化することもできます。
+   >また、[セグメント](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)で個人レポートをグループ化することもできます。
 
    「ユーザーをグループ化」ダイアログで、グループ化に使用する個人または会社属性を選択します。
 
@@ -37,24 +37,12 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >「*作成日*」や「*年間売上高*」など、数値を持つ属性を選択する場合は、右側の&#x200B;**数量**&#x200B;ドロップダウンから指標を選択します。
+   >「_作成日_」や「_年間売上高_」など、数値を持つ属性を選択する場合は、右側の&#x200B;**数量**&#x200B;ドロップダウンから指標を選択します。
 
    それだ！ 「レポート」タブをクリックすると、レポートが表示されます。
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >個人レポートやその他のレポートの種類について詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [個人追加レポートのカスタム列](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[個人追加レポートのカスタム列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
