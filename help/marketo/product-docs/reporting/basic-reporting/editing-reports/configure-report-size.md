@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: レポートサイズの設定 — Marketto Docs — 製品ドキュメント
 title: レポートサイズの設定
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 マーケティングレポートのデフォルト行数は最大5,000行までですが、この制限は変更できます。
 
-1. 「**マーケティングアクティビティ**」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   **使用可能な行のエクスポート**&#x200B;を重複がクリックします。
+1. **使用可能な行のエクスポート**&#x200B;を重複がクリックします。
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >これで、新しい制限で[レポート](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)をエクスポートできます。
-
-   [基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の詳細を参照して、レポートの構成方法を確認してください。
-
+   >新しい制限で[レポート](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)をエクスポートできます。
