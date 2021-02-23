@@ -3,9 +3,9 @@ unique-page-id: 7512105
 description: レポートをグループレポートにコピーする — Marketto Docs — 製品ドキュメント
 title: レポートをグループレポートにコピーする
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,19 @@ ht-degree: 0%
 
 「**マイレポート**」内のレポートは、表示のみ可能です。 レポートを他のすべてのユーザーにアクセシビリティ対応にしたい場合はどうなりますか。 その方法を次に示します。
 
-1. 「**Analytics **」領域で、目的の[保存したレポート](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)をクリックします。
-1. ![](assets/image2015-4-21-11-3a25-3a54.png)
+1. 「**Analytics**」領域で、目的の[保存済みレポート](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)をクリックします。
+
+   ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >または、保存したレポートをフォルダーにドラッグして「**グループレポート**」にコピーできます。
+   >または、保存したレポートをフォルダーにドラッグして、**グループレポート**&#x200B;にコピーできます。
 
 1. 「**レポートアクション**」をクリックし、「**レポートのコピー**」を選択します。
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Analytics（グループ）** にコピーし **て、** フォルダーを選択します ****。
+1. 「**コピー先**」ドロップダウンをクリックし、グループを選択します。 **フォルダー**&#x200B;を選択します。
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
@@ -34,7 +35,6 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   クール！ レポートが&#x200B;**グループレポートに表示されます。**
+   クール！ レポートが&#x200B;**グループレポート**&#x200B;に表示されます。
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
-
