@@ -3,7 +3,7 @@ unique-page-id: 10095347
 description: 購読管理者設定の保護 — Marketto Docs — 製品ドキュメント
 title: 購読管理者設定の保護
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >レポートのダウンロードにログインが必要な場合に、Marketoへのアクセス権がないと、スマートリストレポートの電子メールを受け取りません。 これは、既存の購読と将来のユーザーに適用されます。
-
