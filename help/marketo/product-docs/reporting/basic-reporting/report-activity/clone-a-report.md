@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: レポートのコピー — Marketto Docs — 製品ドキュメント
 title: レポートのコピー
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. レポートを選択します。 **レポートアクション/レポートのコピー**&#x200B;を選択します。
+1. レポートを選択します。 **レポートアクション**/**レポートのコピー**&#x200B;を選択します。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [スマートリストを使用したレポート内のユーザーのフィルター](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   レポートをカスタマイズするための作業が多く行われました。 「[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)」を参照してください。
-
+   >[スマートリストを使用したレポート内のユーザーのフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
