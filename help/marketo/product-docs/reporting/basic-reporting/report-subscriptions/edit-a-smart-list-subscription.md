@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: スマートリスト購読の編集 — Marketto Docs — 製品ドキュメント
 title: スマートリスト購読の編集
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ ht-degree: 0%
 1. パズルの最後の部分は形式です **形式**&#x200B;列をクリックし、目的の列を選択します。 CSVがデフォルトです。
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
