@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: ワークスペース全体での電子メール、キャンペーンのパフォーマンスのレポート — Marketto Docs — 製品ドキュメント
 title: 電子メールのレポート、ワークスペース全体でのキャンペーンパフォーマンス
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールのレポート、ワークスペース間のキャンペーンのパフォーマンス{#report-email-campaign-performance-across-workspaces}
 
-「グローバルレポート」をオンにすると、[電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、[キャンペーンのアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のすべてのマーケティング先のワークスペース](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータが含まれます。[
+「グローバルレポート」をオンにすると、[電子メールのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、[キャンペーンのアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のすべてのマーケティング先のワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータが含まれます。[
 
 1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
@@ -37,16 +37,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [電子メールレポートでのアセットのフィルタリング](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+   >[電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
