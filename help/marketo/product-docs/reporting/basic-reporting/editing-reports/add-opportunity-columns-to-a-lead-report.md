@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: リードレポートの「Opportunity」追加列 — Marketto Docs - Product Documentation」
 title: リ追加ードレポートの「商談」列
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # リードレポートの追加オポチュニティ列{#add-opportunity-columns-to-a-lead-report}
 
-[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)のオポチュニティに関する統計を確認するには、オポチュニティ列を追加します。
+個人レポートのオポチュニティに関する統計を表示するには、「オポチュニティ」列を追加します。
 
 1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. ドロップダウンメニューから[**表示**]を選択します。
+1. ドロップダウンメニューから「**表示**」を選択します。
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >右にスクロールすると、列が表示されます。
 
-1. [レポート](select-report-columns.md)に列を追加または削除するには、列見出しをクリックし、**列**&#x200B;を選択します。
+1. [レポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)に列を追加または削除するには、列見出しをクリックし、**列**&#x200B;を選択します。
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[レポートのサイズを管理する方法](configure-report-size.md)を学びます。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
-
+   >[レポートのサイズを管理する方法](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)を学びます。
