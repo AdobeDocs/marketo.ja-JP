@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: 基本レポートの購読 — Marketto Docs — 製品ドキュメント
 title: 基本レポートの購読
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 基本レポートのサブスクライブ{#subscribe-to-a-basic-report}
 
-[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の自動更新を受け取る、または共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+基本レポートの自動更新を受け取る、または共有するには、既存のレポートの電子メールアドレスを登録します。
 
 >[!NOTE]
 >
->[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポート購読については、[売上高エクスプローラレポートの登録](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
+>売上高サイクルエクスプローラのレポート購読については、[売上高エクスプローラレポートの登録](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
 
-1. 「**マーケティングアクティビティ**」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
@@ -49,14 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[すべてのレポート購読](manage-report-subscriptions.md)を1か所で管理する方法を説明します。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機で、レポートを使って他に何ができるかを見てください。
-
+   >[すべてのレポート購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
