@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 個人レポートの追加カスタム列 — Marketto Docs — 製品ドキュメント
 title: 個人追加レポートのカスタム列
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 人追加物レポートのカスタム列{#add-custom-columns-to-a-person-report}
 
-[スマートリスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)をカスタム列として使用し、[個人レポート](https://docs.marketo.com/display/docs/basic+reporting)内の指標をさらにフィルターできます。
+[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)をカスタム列として使用すると、個人レポートの指標をさらにフィルターできます。
 
 1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）領域に移動します。
 
@@ -31,27 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[スマートリストと静的リスト](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)の深い解説で、スマートリストを作成し、構成する方法を説明します。
-
 1. やった！ [**レポート**]タブをクリックすると、新しい列が表示されたレポートが表示されます。
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[追加Opportunity列をリードレポート](add-opportunity-columns-to-a-lead-report.md)にすることもできます。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜在地のレポートでできる多くのことの詳細を説明します。
-
+   >[追加Opportunity列をリードレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)にすることもできます。
