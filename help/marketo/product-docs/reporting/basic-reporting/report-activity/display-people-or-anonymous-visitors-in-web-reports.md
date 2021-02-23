@@ -3,7 +3,7 @@ unique-page-id: 2360008
 description: Webレポート — Marketto Docs -訪問者ドキュメントに人または匿名製品を表示
 title: Webレポートでの人または匿名訪問者の表示
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Munchkin追加追跡コードをWebサイトに送信](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Munchkin追加追跡コードをWebサイトに送信](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-[ウェブページアクティビティ](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)と[会社のウェブアクティビティレポート](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)には、サイトを訪問した[人または匿名訪問者](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)が表示されます。 匿名訪問者は、Metro Areaなど、推定データを持っています。  レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を次に示します。
+[ウェブページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)と[会社のウェブアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)には、サイトを訪問した[人または匿名訪問者](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)が表示されます。 匿名訪問者は、Metro Areaなど、推定データを持っています。  レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を次に示します。
 
 1. ウェブページアクティビティレポートで、**セットアップ**&#x200B;をクリックします。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. ポップアップで、ドロップダウンから「**Known Leads **(people)」または「** Anonymous訪問者**」を選択します。
+1. ポップアップで、ドロップダウンから「**Known Leads** (people)」または「**匿名訪問者**」を選択します。
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [匿名アクティビティと人物の追跡](tracking-anonymous-activity-and-people.md)
-
->
-
-
-
+>[匿名アクティビティと人物の追跡](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
