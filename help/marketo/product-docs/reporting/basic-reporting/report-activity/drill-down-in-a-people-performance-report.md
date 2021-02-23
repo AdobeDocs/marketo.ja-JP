@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360035
 description: 人物パフォーマンスレポートのドリルダウン — Marketto Docs — 製品ドキュメント
-title: 人事パフォーマンス・レポートのドリル・ダウン
+title: 「人」パフォーマンス・レポートのドリル・ダウン
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. **ドリルダウン**&#x200B;ポップアップで、ドリルダウンする属性を選択します。 「**ドリルダウン**」をクリックします。
+1. **ドリルダウン**&#x200B;ポップアップで、ドリルダウンする属性を選択します。 次に、**ドリルダウン**&#x200B;をクリックします。
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 結果を保存するには（オプション）、左下の&#x200B;**エクスポート**&#x200B;アイコンをクリックします。
 
    ![](assets/six.png)
-
