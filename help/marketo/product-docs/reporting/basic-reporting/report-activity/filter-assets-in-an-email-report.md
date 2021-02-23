@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: 電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
 title: 電子メールレポートでのアセットのフィルタリング
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 電子メールレポート内のアセットのフィルター{#filter-assets-in-an-email-report}
 
-プログラム（「ローカルアセット」）内の電子メール、Design Studio内の電子メール（「グローバルアセット」）、またはアーカイブされた電子メールに関する[電子メールのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)または[電子メールリンクのパフォーマンス](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)レポートに焦点を当てます。
+プログラム（「ローカルアセット」）内の電子メール、Design Studio内の電子メール（「グローバルアセット」）、またはアーカイブされた電子メールに関する[電子メールのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)または[電子メールリンクのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)レポートに焦点を当てます。
 
 1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
@@ -45,15 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンの電子メールレポートでのアセットのフィルタリング](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**ディープダイブ**
->
->[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+>[キャンペーンの電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
