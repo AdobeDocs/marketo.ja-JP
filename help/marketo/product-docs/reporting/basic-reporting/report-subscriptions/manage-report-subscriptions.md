@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: レポート購読の管理 — Marketto Docs — 製品ドキュメント
 title: レポート購読の管理
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   このページには、アカウント内のすべてのレポートに対する購読が表示され、[レポートタイプ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)でグループ化されています。 これには、基本レポート](subscribe-to-a-basic-report.md)と[売上高サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートへの[購読が含まれます。
+   このページには、アカウント内のすべてのレポートに対する購読が表示され、[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)でグループ化されています。 これには、基本レポート](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)と売上高サイクルエクスプローラレポートへの[購読が含まれます。
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * 電子メールアドレスはコンマで区切って指定します。
-   >    * 編集内容を保存するには、購読リストの&#x200B;*外側の*&#x200B;領域をクリックします。
+   >* 電子メールアドレスはコンマで区切って指定します。
+   >* 編集内容を保存するには、購読リストの&#x200B;_外側の_&#x200B;領域をクリックします。
 
 
    また、次のこともできます。
@@ -53,8 +50,6 @@ ht-degree: 0%
    * 「**概要**」フィールドをクリックして編集し、電子メールに表示するプレビュー行数を変更します。
    * スプレッドシートを添付せずにレポートの概要を送信するには、「**Excel**」チェックボックスの選択を解除します。
    * **「Send**」ボタンをクリックして、レポートの電子メールを直ちに送信します。
-
-
 
 1. 購読を完全に削除するには、行を選択し、「**購読を削除**」をクリックします。
 
@@ -66,12 +61,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [基本レポートの購読](subscribe-to-a-basic-report.md)
-   >    * [売上高エクスプローラレポートの購読](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   詳しくは、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)と[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の深い溝を参照してください。
+   >* [基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [売上高エクスプローラレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
