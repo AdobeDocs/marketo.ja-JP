@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: モバイルプラットフォーム列 — Marketto Docs — 製品ドキュメントを含む人物パフォーマンスレポートの作成
 title: モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ ht-degree: 0%
    ![](assets/seventeen.png)
 
    かっこいいだろ？ うまくいった！
-
