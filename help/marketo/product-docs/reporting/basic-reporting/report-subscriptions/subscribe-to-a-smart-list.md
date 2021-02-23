@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: スマートリストの購読 — Marketto Docs — 製品ドキュメント
 title: スマートリストのサブスクリプションを購入
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -50,11 +50,9 @@ ht-degree: 0%
 
 1. 「**頻度**」リストをクリックし、頻度を選択します。
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. **終了配信**日付を設定します。 **なし**&#x200B;またはカレンダーの日付を選択できます。
+1. **終了配信**&#x200B;の日付を設定します。 **なし**&#x200B;またはカレンダーの日付を選択できます。
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[セキュア購読管理者](secure-the-subscription-admin-setting.md)設定が&#x200B;**はい**&#x200B;に設定されている場合、Marketorインスタンスにアクセスできるユーザーのみがレポートをダウンロードできます。
+>[セキュア購読管理者](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)設定が&#x200B;**はい**&#x200B;に設定されている場合、Marketorインスタンスにアクセスできる訪問者のみがレポートをダウンロードできます。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [スマートリスト購読の編集](edit-a-smart-list-subscription.md)
->* [購読管理者設定の保護](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [スマートリスト購読の編集](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [購読管理者設定の保護](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
