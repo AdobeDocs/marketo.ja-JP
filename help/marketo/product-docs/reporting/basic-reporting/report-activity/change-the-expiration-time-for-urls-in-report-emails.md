@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: レポート電子メール — Marketto Docs — 製品ドキュメント内のURLの有効期限の変更
 title: レポート電子メールのURLの有効期限の変更
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. 「**URL有効期限を編集**」ボタンをクリックします。
+1. 「**URL有効期限の編集**」ボタンをクリックします。
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Reminder**
-   >
-   >
    >これらは、マーケティング電子メールではなく、レポートおよびアラート内のリンクにのみ適用されます。
-
