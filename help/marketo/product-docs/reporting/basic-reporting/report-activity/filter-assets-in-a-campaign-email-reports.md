@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: キャンペーンの電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
 title: キャンペーンの電子メールレポートでのアセットのフィルタリング
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # キャンペーンの電子メールレポート内のアセットのフィルタ{#filter-assets-in-a-campaign-email-reports}
 
-プログラムー内の特定の[スマートキャンペーン](https://docs.marketo.com/display/docs/smart+campaigns)、またはアーカイブされたキャンペーンに対する[の電子メールパフォーマンス](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)レポートの焦点を絞ります。
+プログラムー内の特定の[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)、またはアーカイブされたキャンペーンに対する[の電子メールパフォーマンス](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)レポートの焦点を絞ります。
 
-1. 「**Analytics **(または&#x200B;**マーケティングアクティビティ**)」領域に移動します。
+1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [キャンペーン電子メールのパフォーマンスレポート](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [電子メールレポートでのアセットのフィルタリング](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)のレポートについてすべて説明します。
-
+   >[キャンペーン電子メールのパフォーマンスレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
