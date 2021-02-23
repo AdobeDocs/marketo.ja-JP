@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: レポート列の並べ替え — Marketto Docs — 製品ドキュメント
 title: レポート列の並べ替え
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [レポート列の選択](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)で、レポートを操作する機能をすべて学びます。
-
+   >[レポート列の選択](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
