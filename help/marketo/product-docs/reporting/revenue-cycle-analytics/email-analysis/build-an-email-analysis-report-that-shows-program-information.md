@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: プログラム分析を示す電子メール情報レポートの作成 — Marketto Docs — 製品ドキュメント
 title: プログラム情報を表示する電子メール分析レポートの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 プログラムチャネルごとにグループ化された電子メール分析を表示する電子メール情報レポートを作成するには、次の手順に従います。
 
 >[!AVAILABILITY]
->
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -44,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. 検索して重複するには、**プログラムチャネル**黄色の点をクリックします。
+1. **プログラムチャネル**&#x200B;の黄色い点を探して重複します。
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ ht-degree: 0%
    素晴らしい仕事！ 次のようなレポートが必要です。
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細については、
-
