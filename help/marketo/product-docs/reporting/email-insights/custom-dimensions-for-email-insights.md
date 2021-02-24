@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: 電子メールインサイトのカスタムDimension- Marketto Docs — 製品ドキュメント
 title: 電子メールインサイトのカスタムDimension
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->カスタムディメンション&#x200B;**CANNOT**&#x200B;は削除または置き換えることができません。10は慎重に選択してください。
+>カスタムディメンション&#x200B;**は削除または置き換えることができません。10は慎重に選択してください。**
 
 1. 電子メールインサイトで、ページの右上にある歯車アイコンをクリックします。
 
@@ -43,6 +43,4 @@ ht-degree: 0%
    >
    >**オーディエンス別**:（データベース内から）承認されたすべてのセグメントを表示します
    >
-   >
    >**コンテンツ**:すべてのプログラムタグを表示
-
