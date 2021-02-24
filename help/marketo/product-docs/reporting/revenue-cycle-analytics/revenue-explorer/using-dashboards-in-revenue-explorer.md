@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: 売上高エクスプローラ — Marketto Docs -ダッシュボードドキュメントでの製品の使用
 title: 売上高エクスプローラでのダッシュボードの使用
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. セクションの名前を変更するには、セクションをクリックして選択し、「タイトル」に目的の名前を入力して「**適用**」をクリックします。 各セクションに対して同じ手順を繰り返します。
+1. セクションの名前を変更するには、セクションをクリックして選択し、「タイトル」に目的の名前を入力して、「**適用**」をクリックします。 各セクションに対して同じ手順を繰り返します。
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ ht-degree: 0%
 1. 削除するダッシュボードを選択し、**ごみ箱に移動**&#x200B;をクリックします。
 
    ![](assets/fifteen.png)
-
