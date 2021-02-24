@@ -3,15 +3,15 @@ unique-page-id: 4718685
 description: 売上高モデル管理者 — Marketto Docs — 製品ドキュメントへの2つのステージのマージ
 title: 売上高モデラーでの2つのステージのマージ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 
-# 売上高モデラーでの2つのステージのマージ{#merging-two-stages-in-the-revenue-modeler}
+# 2つのステージを売上モデラーにマージする{#merging-two-stages-in-the-revenue-modeler}
 
 モデルを承認した後は、ドラフトの編集時にステージを削除できません。 代わりに、そのステージを別のステージとマージできます。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. `Right click the stage you want to merge and select`**`Merge Stage`**`in the menu.`
+1. マージするステージを右クリックし、メニューで「**Merge Stage**」を選択します。
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,13 +35,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
+1. モデルを再承認するには、**モデルアクション**&#x200B;メニューで「**ドラフトを承認**」を選択します。
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
-
-   `
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
 >Merge Stageプルダウンで&#x200B;**None**&#x200B;を選択し、モデルからリードを削除します。
-
