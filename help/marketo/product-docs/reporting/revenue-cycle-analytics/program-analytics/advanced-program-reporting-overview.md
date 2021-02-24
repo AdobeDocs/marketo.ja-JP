@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: 高度なプログラムレポートの概要 — Marketto Docs — 製品ドキュメント
 title: 詳細プログラムレポートの概要
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## プログラム分析領域{#program-analysis-areas}
 
-* ** [プログラムコストの分析](understanding-the-program-cost-analysis-area.md) ** — すべてのプログラムのROIを確認。
+* **[プログラムコストの分析](understanding-the-program-cost-analysis-area.md)**  — すべてのプログラムのROIを確認します。
 
-* ** [プログラムメンバーシップ分析](understanding-the-program-membership-analysis-area.md) **-チャネル別、パーティシペーション別、成功基準別の結果を参照
+* **[プログラムメンバーシップの分析](understanding-the-program-membership-analysis-area.md)** -チャネル別、パーティシペーション別、成功基準別の結果を表示します。
 
-* ** [プログラムオポチュニティの分析](understanding-the-program-opportunity-analysis-area.md) ** — 配分、売上高、ROIに基づいて生成されるオポチュニティ。
+* **[プログラムオポチュニティの分析](understanding-the-program-opportunity-analysis-area.md)** ：配分、売上高、ROIに基づいて生成されるオポチュニティ。
 
-* ** [プログラム売上高ステージ分析](understanding-the-program-revenue-stage-analysis-area.md) ** — 売上高サイクルモデル内の特定の成功ステージに達した新しい名前。
+* **[プログラム売上高ステージ分析](understanding-the-program-revenue-stage-analysis-area.md)**  — 売上高サイクルモデル内の特定の成功ステージに到達した新しい名前。
 
 ## プログラムアナライザ{#program-analyzers}
 
