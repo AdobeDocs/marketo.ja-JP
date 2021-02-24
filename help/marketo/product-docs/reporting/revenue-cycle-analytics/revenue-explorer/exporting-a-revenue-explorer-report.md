@@ -3,7 +3,7 @@ unique-page-id: 7504749
 description: 売上高エクスプローラレポート — Marketto Docs — 製品ドキュメントのエクスポート
 title: 売上高エクスプローラ・レポートのエクスポート
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
    >
    >レポートは次の3つの形式にエクスポートできます。
    >
-   >    
-   >    
-   >    * PDF
-   >    * Excel
-   >    * CSV
+   >* PDF
+   >* Excel
+   >* CSV
 
 
 1. 目的の&#x200B;**ページ形式**&#x200B;と&#x200B;**向き**&#x200B;を選択し、**書き出し**&#x200B;をクリックします。
@@ -38,9 +36,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [売上高エクスプローラレポートの購読](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[売上高エクスプローラレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
