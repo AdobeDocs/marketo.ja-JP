@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: プログラムコストの分析領域について — Marketto Docs — 製品ドキュメント
 title: プログラム原価分析領域について
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td><p>%新しい名前</p></td> 
+   <td>%新しい名前</td> 
    <td>プログラムが獲得したリードの割合</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ ht-degree: 0%
 | 成功率（合計） | プログラムの進行で成功を収めたリードの割合 |
 | 成功（新しい名前） | プログラムの進行で成功した新しい名前の合計数です |
 | 成功（合計） | プログラムの進行で成功を収めたリードの合計数 |
-
