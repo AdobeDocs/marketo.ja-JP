@@ -3,7 +3,7 @@ unique-page-id: 7504725
 description: 売上高エクスプローラレポートの保存 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 売上高エクスプローラ・レポートの保存
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 売上高エクスプローラレポートは、任意のファイルに保存できます。
 
-1. 「**保存**」アイコンをクリックします。
+1. 「保存」アイコンをクリックします。
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [売上高エクスプローラレポートの購読](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[売上高エクスプローラレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
