@@ -3,7 +3,7 @@ unique-page-id: 2360423
 description: 売上高サイクルモデルでのすべてのリードの検索 — Marketto Docs — 製品ドキュメント
 title: 売上高サイクルモデルでのすべてのリードの検索
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[スマートリストの作成](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. スマートリストが選択された状態で、「**スマートリスト**」タブをクリックします。
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    これにより、ステージに関係なく、そのモデルのすべてのリードが得られます。 通常は特定のステージが必要です。 代わりに、次のフィルターを使用します。
 
-1. **売上高ステージ**フィルタを探し、キャンバスにドラッグします。
+1. **売上高ステージ**&#x200B;フィルターを探し、キャンバスにドラッグします。
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. **ステージを選択します。**
+1. **ステージ**&#x200B;を選択します。
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >両方のフィルターは必要ありません。必要なものを選択するだけです。 私たちはあなた達に徹底的に見せているだけだ。 ![（スマイル）](assets/smile.svg)   >
+   >両方のフィルターは必要ありません。必要なものを選択するだけです。 私たちはあなた達に徹底的に見せているだけだ。 ![（笑顔）](assets/smile.svg)
 
    >[!CAUTION]
    >
    >リードの初期作成中に外部キャンペーンがリードのステージを変更した場合、アクティビティはデータベースに記録されません。 つまり、リードはスマートリストフィルターに含まれません。
-
