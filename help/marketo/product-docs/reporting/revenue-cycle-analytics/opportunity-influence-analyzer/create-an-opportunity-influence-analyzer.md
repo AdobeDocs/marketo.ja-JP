@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: オポチュニティ影響分析の作成 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析計の作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Opportunity Influence Analyzerを使用して、重要な案件に対するマーケティングの貢献度を表示します。 プログラムやイベントの成功、および機会の中での興味深い瞬間を見る。
 
 >[!NOTE]
->
->**Reminder**
 >
 >Opportunity Influence Analyzerから適切なインテルを入手するには、連絡先がCRMのオポチュニティに関連付けられていることを確認します。
 
@@ -64,16 +62,6 @@ Opportunity Influence Analyzerを使用して、重要な案件に対するマ�
 
 >[!MORELIKETHIS]
 >
->* [Opportunity Influence Analyzerでマーケティング事例を伝える](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [オポチュニティ影響分析計の構成](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**ディープダイブ**
->
->他のアナライザーについては、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
+>* [Opportunity Influence Analyzerでマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [オポチュニティ影響分析計の構成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
