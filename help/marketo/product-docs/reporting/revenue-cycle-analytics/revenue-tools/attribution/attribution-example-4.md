@@ -3,7 +3,7 @@ unique-page-id: 7514151
 description: アトリビューションの例4 - Marketto Docs — 製品ドキュメント
 title: アトリビューションの例4
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -48,17 +48,12 @@ ht-degree: 0%
 >1. 自分が稼いだ以上の信用は与えられない
 >1. 過去に起こったことを信用することはできない
 
->
-
-
-
-<br> 
 
 すべての例を試してみると、アトリビューションプロになります。
 
 >[!MORELIKETHIS]
 >
->* [アトリビューションの例1](attribution-example-1.md)
->* [アトリビューションの例2](attribution-example-2.md)
->* [アトリビューションの例3](attribution-example-3.md)
+>* [アトリビューションの例1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [アトリビューションの例2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [アトリビューションの例3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 
