@@ -3,7 +3,7 @@ unique-page-id: 7514224
 description: ヒートグリッドのカスタマイズと表示 — Marketto Docs — 製品ドキュメント
 title: 熱グリッドのカスタマイズと表示
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -19,9 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. **熱グリッド**&#x200B;を変更するには、**プロパティ**領域に移動します。
+1. **熱グリッド**&#x200B;を変更するには、**プロパティ**&#x200B;領域に移動します。
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
    すごい！ これで&#x200B;**熱グリッド**&#x200B;が完成しました。
-
