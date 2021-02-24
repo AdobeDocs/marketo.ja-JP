@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: パフォーマンスインサイトトレンドの概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイトトレンドの概要
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。 この例では、[ファーストタッチ](https://docs.marketo.com/display/DOCS/Understanding+Attribution)を通じて勝ったオポチュニティを調べます。
+パフォーマンスを表示する指標を選択します。 この例では、[ファーストタッチ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)を通じて勝ったオポチュニティを調べます。
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >チャネルの横にあるチェックボックスをクリックすると、ドーナツグラフ内でドーナツグラフがアクティブ/非アクティブになります。
-
