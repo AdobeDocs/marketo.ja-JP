@@ -3,9 +3,9 @@ unique-page-id: 2360397
 description: 売上高エクスプローラレポートの購読 — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラレポートの購読
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 売上高エクスプローラレポートの登録{#subscribe-to-a-revenue-explorer-report}
 
-[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+売上高サイクルエクスプローラのレポートから更新を受け取り、それを共有するには、任意の電子メールアドレスを既存のレポートに登録します。
 
-1. **Analytics**&#x200B;に移動し、**新規/新しいレポート購読を選択します。**
+1. **Analytics**&#x200B;に移動し、**新しい**/**新しいレポート購読**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読を参照してください。](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読を参照してください。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. **レポートソース**&#x200B;に対して、「**売上高エクスプローラ**」を選択します。
+1. 「**レポートソース**」に対して、「**売上高エクスプローラ**」を選択します。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[すべてのレポート購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
-
+>[すべてのレポート購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
