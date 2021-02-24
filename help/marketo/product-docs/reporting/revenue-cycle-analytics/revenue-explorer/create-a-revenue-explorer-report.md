@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: 売上高エクスプローラーレポートの作成 — マーケティング担当者ドキュメント — 製品ドキュメント
 title: 売上高エクスプローラレポートの作成
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 売上高エクスプローラレポートを使用すると、マーケティングイニシアチブのROIを追跡できます。
 
 >[!AVAILABILITY]
->
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -38,10 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)
->* [売上高エクスプローラ・レポートへのカスタム・メジャーの追加](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[売上高エクスプローラ・レポートへのカスタム・メジャーの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
