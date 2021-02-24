@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: プログラムレベルでのAnalyticsの動作を上書き — Marketto Docs — 製品ドキュメント
 title: プログラムレベルでのAnalyticsの動作の上書き
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # プログラムレベルでのAnalyticsの動作を上書き{#override-analytics-behavior-at-the-program-level}
 
-[Analyticsの動作をチャネル](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)の管理者レベルで設定できますが、プログラムレベルで上書きすることもできます。 方法を次に示します。
+[Analyticsの動作をチャネル](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)の管理者レベルで設定できますが、プログラムレベルで上書きすることもできます。 方法を次に示します。
 
-1. 「マーケティングアクティビティ」領域に移動します。
+1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 「設定」タブで、「Analyticsの動作」をキャンバスにドラッグします。
+1. 「**セットアップ**」タブで、「Analytics動作」をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. 「保存」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
->
 >変更は翌日に反映され、売上高のエクスプローラーやアナライザーから利用できるようにするか、取り出します。
-
