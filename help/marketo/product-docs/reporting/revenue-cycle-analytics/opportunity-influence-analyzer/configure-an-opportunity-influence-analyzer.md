@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: オポチュニティ影響分析の設定 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析計の構成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,13 @@ ht-degree: 0%
 
 # オポチュニティ影響分析計の構成{#configure-an-opportunity-influence-analyzer}
 
-Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)を[作成したら、含める[注目すべき瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
+Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)を[作成したら、含める[注目すべき瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
 
 >[!PREREQUISITES]
 >
->* [オポチュニティ影響分析計の作成](create-an-opportunity-influence-analyzer.md)
+>[オポチュニティ影響分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-
-1. 「解析」をクリックします。
+1. 「**解析**」をクリックします。
 
    ![](assets/login-to-analytics.png)
 
@@ -42,16 +41,12 @@ Opportunity Influence Analyzer](create-an-opportunity-influence-analyzer.md)を[
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 目的のモーメントのタイプをクリックします。 次に、「保存」をクリックします。
+1. 目的のモーメントのタイプをクリックします。 「**保存**」をクリックします。
+
 1. メインタブをクリックすると、選択したタイプの興味深い瞬間のみを含むオポチュニティの履歴が表示されます。
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
->[!NOTE]
->
->他のアナライザーについては、[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)を参照してください。
-
 >[!MORELIKETHIS]
 >
->* [Opportunity Influence Analyzerでマーケティング事例を伝える](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-
+>[Opportunity Influence Analyzerでマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
