@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: カスタムフィールドをパフォーマンスインサイトに同期 — Marketto Docs — 製品ドキュメント
 title: カスタムフィールドをパフォーマンスインサイトに同期
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MPI売上高とパイプラインダッシュボードは、カスタムマー�
 
 >[!NOTE]
 >
->この記事は、****&#x200B;を持たない[RCA](https://docs.marketo.com/x/lwIk)ユーザー専用です。 RCAをお持ちの場合は、[この記事](https://docs.marketo.com/x/FQQk)の手順に従ってください。
+>この記事は、売上高サイクル分析を持っていない&#x200B;****&#x200B;ユーザーのみを対象としています。 RCAをお持ちの場合は、[この記事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)の手順に従ってください。
 
 1. **管理者**&#x200B;セクションに移動します。
 
@@ -50,4 +50,3 @@ MPI売上高とパイプラインダッシュボードは、カスタムマー�
    >[!NOTE]
    >
    >有効にすると、フィールドは翌日にMPIで使用できるようになります。
-
