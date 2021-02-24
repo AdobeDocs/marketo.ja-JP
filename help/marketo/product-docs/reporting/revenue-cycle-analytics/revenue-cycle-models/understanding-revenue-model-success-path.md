@@ -3,7 +3,7 @@ unique-page-id: 4718664
 description: 売上高モデルの成功パスについて — Marketto Docs — 製品ドキュメント
 title: 売上高モデルの成功パスについて
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
