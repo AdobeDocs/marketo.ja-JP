@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: 成功パスアナライザーの使用 — Marketto Docs — 製品ドキュメント
 title: 成功パスアナライザの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 成功パスアナライザの使用{#using-the-success-path-analyzer}
 
-成功パスアナライザーを使用して、[売上高サイクルモデル](understanding-revenue-models.md)の段階を通して訪問者のフロー（量）と速度（日単位の速度）の両方を反映した具体的な詳細を調べます。
+成功パスアナライザーを使用して、[売上高サイクルモデル](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)の段階を通して訪問者のフロー（量）と速度（日単位の速度）の両方を反映した具体的な詳細を調べます。
 
 >[!PREREQUISITES]
 >
->[成功パスアナライザーの作成](create-a-success-path-analyzer.md)
+>[成功パスアナライザーの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. **Analytics**&#x200B;に移動し、**成功パスアナライザー**&#x200B;を選択します。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. SLA(Service-Level Agreement)を使用するステージの場合、**グラフの操作**/*期限切れのSLAを表示**をクリックすると、指定した期間内にSLAターゲットを見逃したすべての人に表示されます。
+1. SLA(Service-Level Agreement)を使用するステージの場合、**グラフの操作**/**期限**&#x200B;を表示をクリックすると、指定された期間内にSLAターゲットを見逃したすべての人が表示されます。
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    オレンジ色で表示される人は、*または*&#x200B;でない人がSLAの段階に残っている可能性があります。
 
-1. **グラフの操作** >**期限切れのSLAターゲットを表示**をクリックすると、指定した期間の終わりにSLA段階にあるSLAの期限切れのユーザーを含むすべてのユーザーが表示されます。
+1. **グラフの操作**/**期限切れのSLAターゲットを表示**&#x200B;をクリックすると、指定した期間の終わりにSLAの期限切れの状態にあるすべてのユーザーが表示されます。
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. グラフを印刷するには、** ****グラフの操作** > **グラフを印刷**&#x200B;をクリックします。
+1. グラフを印刷するには、**グラフの操作**/**グラフを印刷**&#x200B;をクリックします。
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
