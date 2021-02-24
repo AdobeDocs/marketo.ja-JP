@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 成功パスアナライザーの作成 — Marketto Docs — 製品ドキュメント
 title: 成功パスアナライザーの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # 成功パスアナライザーの作成{#create-a-success-path-analyzer}
 
-[売上高サイクルモデル](https://docs.marketo.com/display/docs/revenue+cycle+analytics)を通して、速度と流れを視覚的に表します。
+売上高サイクルモデルでの速度とフローを視覚的に表します。
 
 >[!PREREQUISITES]
 >
->[新しい売上高モデルの作成](create-a-new-revenue-model.md)
+>[新しい売上高モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. 「解析」タイルをクリックします。
+1. **Analytics**&#x200B;タイルをクリックします。
 
    ![](assets/one.png)
 
-1. 成功パスアナライザーアイコンをクリックします。
+1. **成功パスアナライザー**&#x200B;アイコンをクリックします。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >指定した時間枠にデータが見つからないという警告が表示された場合は、[**閉じる**]をクリックして時間枠を変更します。 プロンプトが表示されないが、時間枠を変更する場合は、**セットアップ**&#x200B;に移動し、重複を押しながら*****時間枠**&#x200B;をクリックします。
+   >指定した時間枠にデータが見つからないという警告が表示された場合は、[**閉じる**]をクリックして時間枠を変更します。 プロンプトが表示されないが、時間枠を変更する場合は、**セットアップ**&#x200B;に移動し、**時間枠**&#x200B;を重複クリックします。
 
 1. データがない場合、または時間枠を変更する場合は、ドロップダウンからいずれかを選択し、「保存」をクリックします。
 
@@ -39,15 +39,15 @@ ht-degree: 0%
    >
    >特定の範囲を選択するには、「**カスタム**」を選択し、「**開始日**」と「**終了日**」の各フィールドを使用します。
 
-1. 複数の売上サイクル・モデルがある場合は、「設定」タブから目的のモデルを選択します。
+1. 複数の売上サイクルモデルがある場合は、「**設定**」タブから目的のモデルを選択します。
 
    ![](assets/four.png)
 
-1. 適切なモデルを選択し、適用をクリックします。
+1. 適切なモデルを選択し、**適用**&#x200B;をクリックします。
 
    ![](assets/five.png)
 
-1. [成功パスアナライザ]タブをクリックします。
+1. 「**成功パスアナライザー**」タブをクリックします。
 
    ![](assets/success-tab.png)
 
@@ -59,9 +59,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [成功パスアナライザの使用](using-the-success-path-analyzer.md)
-
->
-
-
-
+>[成功パスアナライザの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
