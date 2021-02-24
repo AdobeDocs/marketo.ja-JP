@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: 売上高モデルトランジションの使用 — Marketto Docs — 製品ドキュメント
 title: 売上高モデルトランジションの使用
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[新しい売上高モデルの作成](create-a-new-revenue-model.md)
+>[新しい売上高モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 モデルを作成し、在庫ステージを選択して整理する場合は、トランジションを設定する時間です。
 
@@ -29,7 +29,10 @@ ht-degree: 0%
    >
    >「匿名→既知」トランジションルールは編集できません。
 
-1. 選択したトランジションに対して新しいタブが開きます。   ![](assets/three-1.png)
+1. 選択したトランジションに対して新しいタブが開きます。
+
+   ![](assets/three-1.png)
+
 1. トランジションは、ステージ間のリードの移動方法を制御します。 選択したトリガー（またはフィルター）を右からドラッグし、カンバスの任意の場所に放します。 この例では、「Fills Out Form」トリガーを選択します。
 
    >[!TIP]
@@ -62,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[売上高モデルの承認/未承認](approve-unapprove-a-revenue-model.md)
+>[売上高モデルの承認/未承認](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
