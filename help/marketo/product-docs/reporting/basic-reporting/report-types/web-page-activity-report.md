@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: ウェブページアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: ウェブページアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Munchkin追加追跡コードをWebサイトに送信](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Munchkin追加追跡コードをWebサイトに送信](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [レポートを作成し、「**](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)ウェブページアクティビティレポート**」 [レポートタイプを選択します](report-type-overview.md)。
-1. 既知または匿名の人物](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)をレポートに[表示するように選択します。
-1. [レポートの時間枠を設定し、「](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+1. [レポートを作成し、「](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Webページアクティビティレポート」 **のタイプを選択します** [](report-type-overview.md)。
+
+1. 既知または匿名の人物](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)をレポートに[表示するように選択します。
+
+1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+
 1. 分かった！ レポートを確認して、サイトの訪問者を確認します。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +38,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >サイトの訪問者を最も多く知るには、[*ページ表示*&#x200B;列でレポート](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、「並べ替え」を降順選択します。
+   >サイトの訪問者を最も多く知るには、[「_ページ表示_」列でレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、「並べ替え」を降順選択します。
 
-   [Marketorは、](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイト訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
-   [ウェブページのアクティビティレポートで](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
+   [Marketorは、](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイト訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
+   [ウェブページのアクティビティレポートで](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
 <table> 
  <thead> 
@@ -81,17 +84,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->セールス担当者をスリル！ [自分のテリトリの](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)レポートをフィルタし、 [登録します](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
+>セールス担当者をスリル！ [自分のテリトリの](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)レポートをフィルタし、 [登録します](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
 
 >[!MORELIKETHIS]
 >
->
->* [表示されたWebページ、Webページアクティビティレポート](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [Webレポートでの人または匿名訪問者の表示](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [表示されたWebページ、Webページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [Webレポートでの人または匿名訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-
->[!NOTE]
->
->**ディープダイブ**
->
->[基本レポート](https://docs.marketo.com/display/docs/basic+reporting)の他の興味深いレポートについて説明します。
