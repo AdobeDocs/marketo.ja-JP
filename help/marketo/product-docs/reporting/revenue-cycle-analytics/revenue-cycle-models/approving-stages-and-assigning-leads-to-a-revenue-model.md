@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: ステージの承認とリードの売上高モデルへの割り当て — Marketto Docs — 製品ドキュメント
 title: ステージの承認と売上高モデルへのリードの割り当て
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # ステージの承認と売上高モデルへのリードの割り当て{#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-既存のリードを追加し、新しいリードの割り当てルールを作成して、**売上高** **モデル**&#x200B;を稼働状態にします。
+既存のリードを追加し、新しいリードの割り当てルールを作成して、**売上高モデル**&#x200B;を稼働させます。
 
 ## 承認ステージ{#approving-stages}
 
 リードを追加する前に、モデルのステージを承認します。
 
-1. **Analytics **領域に移動します。** **
+1. 「**Analytics**」領域に移動します。
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. 「**モデルアクション**」で、「**承認** **ステージ**」を選択します。
+1. 「**モデルアクション**」で、「**承認ステージ**」を選択します。
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 既存のリードの割り当て{#assigning-existing-leads}
 
-[スマート](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) リストを作成して、リードデータベース内のモデルの1つのステージのリードを特定します。
+[スマート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) リストを作成して、リードデータベース内のモデルの1つのステージのリードを特定します。
 
-1. [スマートリスト](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成したら、**「Leads**」タブをクリックします。
+1. [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成したら、**「Leads**」タブをクリックします。
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
 ## 新規リード：割り当て規則の作成{#new-leads-create-assignment-rules}
 
-1. 「** Marketto Home**」を再度クリックし、「**Analytics**」を選択します。
+1. 「**マーケティング先ホーム**」を再度クリックし、「**解析**」を選択します。
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. `Click your model in the tree, then the`**`Model Actions`**`menu, selecting`**`Assignment Rules`** `.`
+1. ツリーでモデルをクリックし、「**モデルアクション**」メニューをクリックして、「**割り当て規則**」を選択します。
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. `If your assignment rules contain more than just one default choice click **Stage, **make your selection, then click`**`Add Choice`**`.`
+1. 割り当てルールに複数のデフォルトの選択肢が含まれる場合は、「**ステージ**」をクリックし、選択を行ってから「**追加選択**」をクリックします。
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -83,10 +83,9 @@ ht-degree: 0%
 
 リードスコアルールを作成して、最小スコアの新しいリードを適切なステップに割り当てます。
 
-1. 「**If**」で、「**リードスコア**」を選択します。 **少なくとも**を選択します。
-` ![](assets/image2015-4-29-13-3a27-3a8.png)
+1. 「**If**」で、「**リードスコア**」を選択します。 **少なくとも**&#x200B;を選択します。
 
-   `
+   ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 1. フィールドに「**40**」と入力し、「**Sales Lead**」をステージとして選択します。 「**保存**」をクリックして完了します。
 
@@ -94,5 +93,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->モデルを承認するには、ヘルプページの** [売上高モデルの承認と承認の取り消し](approve-unapprove-a-revenue-model.md)**をご覧ください。
-
+>モデルを承認するには、**[売上高モデルの承認と承認の取り消し](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**&#x200B;のヘルプページを読んでください。
