@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 電子メール分析領域について — Marketto Docs — 製品ドキュメント
 title: 電子メール分析領域について
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 電子メール分析領域では、電子メール指標に重点を置いています。 この記事では、この記事内で使用可能なすべてのレポートを紹介します。
 
 >[!AVAILABILITY]
->
 >
 >これは、Select Editionまたは[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを使用するユーザーが利用できます。 詳細については、セールス担当者にお問い合わせください。
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 このレポートは、電子メールを送信する曜日と時間を示します。 緑のボックスは、その特定の日時に送信される電子メールの数が多くなります。 現在のフィルターには、過去7日間に送信されたすべての電子メールが含まれます。 時間はCSTです。
 
 ![](assets/seven.png)
-
