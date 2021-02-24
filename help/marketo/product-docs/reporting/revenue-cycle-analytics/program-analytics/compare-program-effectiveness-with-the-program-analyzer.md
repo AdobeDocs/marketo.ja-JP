@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: プログラムの効果とプログラムアナライザーとの比較 — Marketto Docs — 製品ドキュメント
 title: プログラムの効果とプログラムアナライザとの比較
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [プログラム分析計の作成](create-a-program-analyzer.md)
+>[プログラム分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 「解析」をクリックします。
+1. 「**解析**」をクリックします。
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >プログラムを1つのチャネルのみにフィルタする簡単な方法は、**表示/チャネル別**&#x200B;を選択し、そのチャネルのバブルをクリックして、ポップアップダイアログでチャネル名をクリックすることです。
+   >プログラムを1つのチャネルのみにフィルタする簡単な方法は、**表示**/**チャネル**&#x200B;を選択し、そのチャネルのバブルをクリックして、ポップアップダイアログでチャネル名をクリックすることです。
 
 1. X軸ドロップダウンを使用して、水平軸の指標を選択します。 プログラムコストと開始します。
 
@@ -92,10 +91,6 @@ Paper Fest 12プログラムは、売上高（バブル）の増加に影響す�
 
 >[!MORELIKETHIS]
 >
->* [プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [チャネルの効果とプログラムアナライザとの比較](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [チャネルの効果とプログラムアナライザとの比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->詳細な解析については、[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)を参照してください。
