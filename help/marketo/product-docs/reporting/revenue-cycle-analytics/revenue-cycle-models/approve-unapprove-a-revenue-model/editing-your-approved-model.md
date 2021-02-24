@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: 承認されたモデルの編集 — Marketto Docs — 製品ドキュメント
 title: 承認済みモデルの編集
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 現在選択されているリードに対する新しいステージを選択するか、「**なし**」を選択してモデルからリードを削除します。 完了したら、**結合**&#x200B;をクリックします。
+1. 現在選択されているリードに対する新しいステージを選択するか、**なし**&#x200B;を選択して、モデルからリードを削除します。 完了したら、**結合**&#x200B;をクリックします。
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[新しい売上高モデルの作成](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[新しい売上高モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
