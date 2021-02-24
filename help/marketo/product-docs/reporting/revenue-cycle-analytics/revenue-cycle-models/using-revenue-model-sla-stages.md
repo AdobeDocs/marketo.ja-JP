@@ -3,9 +3,9 @@ unique-page-id: 4718668
 description: 売上高モデルのSLAステージの使用 — Marketto Docs — 製品ドキュメント
 title: 売上高モデルのSLAステージの使用
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SLAは、「サービス・レベル・アグリーメント」の略です。 �
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 「解析」セクションで、既存のモデルを選択するか、[新しいモデルを作成](create-a-new-revenue-model.md)します。
+1. 「解析」セクションで、既存のモデルを選択するか、[新しいモデルを作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)します。
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -37,13 +37,13 @@ SLAは、「サービス・レベル・アグリーメント」の略です。 �
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. **名前**&#x200B;を自由に編集し、**説明**&#x200B;を追加して、ステージを追加した後で&#x200B;**タイプ**&#x200B;を調整できます。 現時点では、「アカウント別開始追跡」を「** [アカウント別追跡」に選択することもできます。](start-tracking-by-account-in-the-revenue-modeler.md)**
+1. **名前**&#x200B;を自由に編集し、**説明**&#x200B;を追加して、ステージを追加した後で&#x200B;**タイプ**&#x200B;を調整できます。 現時点では、「アカウント&#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**による開始追跡」を選択することもできます。**[
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## SLAステージの編集{#edit-an-sla-stage}
 
-SLAステージアイコンを選択した場合は、名前を編集し、説明を追加して種類を調整できます。 また、「アカウント別開始追跡[」を選択することもできます。](start-tracking-by-account-in-the-revenue-modeler.md)
+SLAステージアイコンを選択した場合は、名前を編集し、説明を追加して種類を調整できます。 また、「アカウント別開始追跡[」を選択することもできます。](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
 
 1. SLAステージアイコンをクリックします。
 
@@ -53,17 +53,16 @@ SLAステージアイコンを選択した場合は、名前を編集し、説�
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. 編集する&#x200B;**「タイプ**」プルダウンを選択します。
+1. 編集する&#x200B;**Type**&#x200B;プルダウンを選択します。
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
 ## SLAステージの削除{#delete-an-sla-stage}
 
-1. SLAステージは、右クリックするか、コントロールしてSLAステージアイコンをクリックすることで削除できます。
+1. SLAステージのアイコンを右クリックするか、Ctrlキーを押しながらクリックすると、SLAステージを削除できます。
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
 1. また、ステージをクリックして削除し、「ステージのアクション」ドロップダウンで「削除」を選択することもできます。
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)
-
