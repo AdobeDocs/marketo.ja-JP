@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: フィールドオーガナイザー — Marketto Docs — 製品ドキュメントを使用したカスタムフィールドグループの作成
 title: フィールドオーガナイザーを使用したカスタムフィールドグループの作成
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ ht-degree: 0%
    >
    >10個までのサブグループを追加して、データ値を分類できます。 各グループ範囲エントリは、前のエントリに基づいて作成されます。 作成した最後のカスタムサブグループに対して、最後のグループ範囲エントリを空白のままにした場合、終了日の値は設定されません。
 
+   次の例は、2015年第1四半期のリードがQ3を通るエントリを示しています。
+
    ![](assets/16.5.png)
 
    それだ！ お疲れさま。
-
-次の例は、2015年第1四半期のリードがQ3を通るエントリを示しています。
