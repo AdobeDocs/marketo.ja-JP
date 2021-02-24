@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: 売上高モデル — Marketto Docs — 製品ドキュメントでのGoogle AdWordsコンバージョンの設定
 title: 売上高モデルでのGoogle AdWordsコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 売上高モデルでのGoogle AdWordsコンバージョンの設定{#set-google-adwords-conversions-in-the-revenue-model}
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列[を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。](https://support.google.com/adwords/answer/3073556)
+Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
 
 >[!NOTE]
 >
->これは、MarkettoからGoogle AdWordsへのプッシュ統合です。 コンバージョンデータはGoogle AdWordsポータルに&#x200B;**&#x200B;のみ&lt;a1/>表示され、** Marketo UIには表示されません。**
+>これは、MarkettoからGoogle AdWordsへのプッシュ統合です。 コンバージョンデータは、Google AdWordsポータルに&#x200B;_のみ_&#x200B;表示され、Marketo UI _には表示されません。_
 
-[Googleのオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)の詳細を表示します。  AdWordsのオフラインコンバージョンを売上高モデルの1つ以上のステージにマッピングします。 マッピングを行う方法は3つあります。
+[Googleのオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)の詳細を表示します。 AdWordsのオフラインコンバージョンを売上高モデルの1つ以上のステージにマッピングします。 マッピングを行う方法は3つあります。
 
 * AdWordsコンバージョン
 * Stage Action
@@ -29,11 +29,7 @@ Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラ�
 
 >[!PREREQUISITES]
 >
->* [LaunchPoint追加サービスとしてのGoogle AdWords](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[LaunchPoint追加サービスとしてのGoogle AdWords](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## AdWordsコンバージョンを使用{#use-adwords-conversion}
 
@@ -53,7 +49,7 @@ Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラ�
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Marketoステージにマッピングする&#x200B;**AdWordsコンバージョン**&#x200B;を選択します。
+1. Marketoステージにマップする&#x200B;**AdWordsコンバージョン**&#x200B;を選択します。
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
