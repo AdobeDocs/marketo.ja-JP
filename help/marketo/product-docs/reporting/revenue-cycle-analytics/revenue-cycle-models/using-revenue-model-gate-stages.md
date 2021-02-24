@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: 売上高モデルのゲートステージの使用 — Marketto Docs — 製品ドキュメント
 title: 売上高モデルのゲート・ステージの使用
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. 既存のモデルを選択するか、[新しいモデルを作成](create-a-new-revenue-model.md)します。
+1. 既存のモデルを選択するか、[新しいモデルを作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)します。
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. 「**編集** **ドラフト**」をクリックします。
+1. 「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. **Name **を編集し、**Type**&#x200B;を選択します。
+1. **名前**&#x200B;を編集し、**種類**&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >この時点で、「アカウント別開始トラッキング[」を選択して、モデルを進める際のアカウントのパフォーマンスを把握します。](start-tracking-by-account-in-the-revenue-modeler.md)
+   >この時点で、「アカウント別開始トラッキング[」を選択して、モデルを進める際のアカウントのパフォーマンスを把握します。](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## ゲートステージの編集{#edit-a-gate-stage}
 
-「名前」、「説明」を編集し、Gateステージのタイプを調整します。 アカウント](start-tracking-by-account-in-the-revenue-modeler.md)による[開始追跡をオプトすることもできます。
+「名前」、「説明」を編集し、Gateステージのタイプを調整します。 アカウント](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)による[開始追跡をオプトすることもできます。
 
 1. **ゲート**&#x200B;ステージアイコンをクリックします。
 
@@ -83,11 +83,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [売上高モデル在庫ステージの使用](using-revenue-model-inventory-stages.md)
->* [売上高モデルのSLAステージの使用](using-revenue-model-sla-stages.md)
->* [新しい売上高モデルの作成](create-a-new-revenue-model.md)。
-
->
-
-
+>* [売上高モデル在庫ステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [売上高モデルのSLAステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [新しい売上高モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
