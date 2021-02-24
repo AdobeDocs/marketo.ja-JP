@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Opportunity Influence Analyzerデータのエクスポート — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析データのエクスポート
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # オポチュニティ影響分析データのエクスポート{#export-opportunity-influence-analyzer-data}
 
-[売上サイクルエクスプローラ](https://docs.marketo.com/display/docs/revenue+cycle+analytics)のレポートから更新情報を受け取り、それらを共有するには、既存のレポートに任意の電子メールアドレスを登録します。
+売上高サイクルエクスプローラのレポートから更新を受け取り、それを共有するには、任意の電子メールアドレスを既存のレポートに登録します。
 
-1. **Analytics**&#x200B;に移動し、**新しい** **** **新しい** **レポート** **購読**&#x200B;を選択します。
+1. **Analytics**&#x200B;に移動し、**新しい**/**新しいレポート購読**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)を参照してください。
+   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)を参照してください。
 
-1. 「レポートソース」で、「売上高エクスプローラ」を選択します。****
+1. 「レポートソース」で、「**売上高エクスプローラ**」を選択します。
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[すべてのレポート購読](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
-
->[!NOTE]
->
->**ディープダイブ**
->
->[売上高サイクルエクスプローラー](https://docs.marketo.com/display/docs/revenue+cycle+analytics)の詳細調査で、Marketorの高度な分析でできることの詳細を参照してください。
-
+>[すべてのレポート購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
