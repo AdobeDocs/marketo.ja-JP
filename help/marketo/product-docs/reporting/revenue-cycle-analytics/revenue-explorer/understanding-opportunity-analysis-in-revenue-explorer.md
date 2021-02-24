@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: 売上高エクスプローラでのオポチュニティの分析について — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラでの商談分析について
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. 閉じられ勝利したオポチュニティへのマーケティングの影響
-1. このレポートは、売上高を獲得し、マーケティングによってどの程度影響を受けたかを、数量別に表示します。
+1. 営業案件に対するマーケティングの影響を閉じ、勝利しました。
+
+   このレポートは、売上高を獲得し、マーケティングによってどの程度影響を受けたかを、数量別に表示します。
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. リードソース別に終了した営業案件
-1. このレポートは、リードソースによって閉じられたすべてのオポチュニティを分類し、どのソースが機能し、どのソースが機能していないかを明確に示します。
+
+   このレポートは、リードソースによって閉じられたすべてのオポチュニティを分類し、どのソースが機能し、どのソースが機能していないかを明確に示します。
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [売上高エクスプローラレポートの作成](create-a-revenue-explorer-report.md)
->* [売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)
->* [売上高エクスプローラレポートの購読](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [売上高エクスプローラレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [売上高エクスプローラレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
