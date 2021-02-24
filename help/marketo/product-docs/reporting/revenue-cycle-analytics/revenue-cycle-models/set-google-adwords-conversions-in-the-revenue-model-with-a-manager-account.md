@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: マネージャーアカウント — Marketto Docs — 製品ドキュメントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 title: マネージャーアカウントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # マネージャーアカウント{#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}を使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列[を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。](https://support.google.com/adwords/answer/3073556)
+Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
 
 複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、Marketoと統合できます。
 
@@ -24,11 +24,7 @@ AdWordsのオフラインコンバージョンを、売上高モデルの1つ以
 
 >[!PREREQUISITES]
 >
->* [マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Use Stage Action {#use-stage-action}
 
@@ -76,9 +72,7 @@ AdWordsのオフラインコンバージョンを、売上高モデルの1つ以
 
 1. 「**新しいコンバージョン**」を選択します。
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. **コンバージョン名**&#x200B;を入力します。 「**保存**」をクリックします。
 
