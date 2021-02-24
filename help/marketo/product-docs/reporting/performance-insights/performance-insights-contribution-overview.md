@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: パフォーマンスインサイト貢献度の概要 — Marketto Docs — 製品ドキュメント
 title: パフォーマンスインサイト貢献度の概要
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[ファーストタッチとマルチタッチ](https://docs.marketo.com/display/DOCS/Understanding+Attribution)について説明します。
+>[ファーストタッチとマルチタッチ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)について説明します。
 
-指標を表示する期間を選択します。 この例では、現在の年（年累計）を見ています。   ![](assets/3-1.png)
+指標を表示する期間を選択します。 この例では、現在の年（年累計）を見ています。
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >「前年」の選択を一時的に解除しました。 引き続き、「カスタム範囲」を選択して、前年のパフォーマンスデータ全体を表示することもできます。
 
-指標は次の2つのグラフで表示されます。ドーナツとバー。   ![](assets/four.png)
+指標は次の2つのグラフで表示されます。ドーナツとバー。
+
+![](assets/four.png)
 
 選択した指標の上位10チャネルがドーナツグラフに表示されます。
 
@@ -45,7 +49,9 @@ ht-degree: 0%
 >
 >グラフ内のバーをグループ内をスクロールしながら拡大する場合は、「**Y軸を拡大して合わせる**」チェックボックスを選択します。
 
-バーにマウスを移動すると、詳細情報が表示されます。   ![](assets/seven.png)
+バーにマウスを移動すると、詳細情報が表示されます。
+
+![](assets/seven.png)
 
 ドーナツグラフで1つまたは複数のチャネルを選択すると、それらのチャネルに関連付けられたすべてのプログラムが右側の棒グラフに表示されます。 チャネルをもう一度クリックして選択を解除します。
 
@@ -69,4 +75,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >チャネルの横にあるチェックボックスをクリックすると、上のドーナツグラフでドーナツがアクティブ/非アクティブになります。
-
