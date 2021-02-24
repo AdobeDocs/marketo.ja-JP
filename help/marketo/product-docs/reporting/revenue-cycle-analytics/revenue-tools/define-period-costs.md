@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: 期間原価の定義 — Marketto Docs — 製品ドキュメント
 title: 期間原価の定義
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -63,11 +63,10 @@ ht-degree: 0%
 
 ## 期間コストの削除{#delete-a-period-cost}
 
-1. 削除する期間原価を右クリックし、ポップアップ・メニューから「**削除**」を選択して、「**原価を削除**」プロンプトを表示します。
+1. 削除する期間コストを右クリックし、ポップアップメニューから「**削除**」を選択して、「**コストを削除**」プロンプトを表示します。
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. 「**削除**」をクリックして期間コストを完全に削除するか、「**キャンセル**」をクリックして戻ります。
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
