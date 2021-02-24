@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: 売上高エクスプローラレポートへのカスタムメジャーの追加 — Marketto Docs — 製品ドキュメント
 title: 売上高エクスプローラ・レポートへのカスタム・メジャーの追加
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ ht-degree: 0%
 >
 >レポートには少なくとも1つの指標が必要ですが、カスタムメジャーを定義する際に使用する指標の1つである必要はありません。
 
-1. レポートに必要なフィールドを引き出します。 詳しくは、[売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)を参照してください。
+1. レポートに必要なフィールドを引き出します。 詳しくは、[売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
+
 1. 既存の指標（青いセル）を右クリックし、「**ユーザー定義のメジャー**」をクリックして、「**計算済みメジャー**」を選択します。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [売上高エクスプローラレポートへのフィールドの追加](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
