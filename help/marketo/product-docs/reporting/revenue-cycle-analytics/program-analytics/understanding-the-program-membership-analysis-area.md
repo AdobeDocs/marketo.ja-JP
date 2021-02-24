@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: プログラムのメンバーシップ分析領域について — Marketto Docs — 製品ドキュメント
 title: プログラムメンバーシップ分析領域について
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ ht-degree: 0%
 | 成功率（合計） | プログラムの進行で成功を収めたリードの割合 |
 | 成功（新しい名前） | プログラムの進行で成功した新しい名前の合計数です |
 | 成功（合計） | プログラムの進行で成功を収めたリードの合計数 |
-
