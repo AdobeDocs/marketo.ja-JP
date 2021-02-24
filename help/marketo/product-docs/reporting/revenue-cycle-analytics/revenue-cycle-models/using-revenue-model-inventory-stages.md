@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: 売上高モデルの在庫ステージの使用 — Marketto Docs — 製品ドキュメント
 title: 売上高モデル在庫ステージの使用
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 追加在庫ステージ{#add-an-inventory-stage}
 
-1. 新しい売上サイクルモデルの在庫ステージを追加するには、**マイマーケティング先**&#x200B;のホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
+1. 新しい売上サイクルモデルの在庫ステージを追加するには、**マイマーケティング先**&#x200B;ホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 「**Analytics**」セクションで、既存のモデルを選択するか、[新しいモデルを作成します](create-a-new-revenue-model.md)。
+1. 「**Analytics**」セクションで、既存のモデルを選択するか、[新しいモデルを作成します](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)。
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. ステージを追加した後は、自由に名前を編集したり、説明を追加したり、タイプを調整したりできます。 現時点では、「アカウント別開始追跡」を「** [アカウント別追跡」に選択することもできます。](start-tracking-by-account-in-the-revenue-modeler.md)**
+1. ステージを追加した後は、自由に名前を編集したり、説明を追加したり、タイプを調整したりできます。 現時点では、「アカウント&#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**による開始追跡」を選択することもできます。**[
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## 在庫ステージの編集{#edit-an-inventory-stage}
 
-在庫アイコンを選択すると、**名前**&#x200B;を編集したり、**説明**&#x200B;を追加したり、**タイプ**&#x200B;を調整したりできます。 また、「アカウント別開始追跡[」を選択することもできます。](start-tracking-by-account-in-the-revenue-modeler.md)
+在庫アイコンを選択すると、**名前**&#x200B;を編集したり、**説明**&#x200B;を追加したり、**タイプ**&#x200B;を調整したりできます。 また、「アカウント別開始追跡[」を選択することもできます。](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
 
 1. 在庫アイコンをクリックします。
 
