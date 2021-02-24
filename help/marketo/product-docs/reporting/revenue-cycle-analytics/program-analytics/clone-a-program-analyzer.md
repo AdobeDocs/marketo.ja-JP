@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: プログラムアナライザーのコピー — Marketto Docs — 製品ドキュメント
 title: プログラムアナライザのコピー
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 アナライザを保存すると、簡単にクローンを作成して新しいアナライザを作成できます。 次に、変更が必要な場合は、新しいファイルに移動して編集します。
 
-1. 「**Analytics **」タイルをクリックします。
+1. **Analytics**&#x200B;タイルをクリックします。
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [プログラム分析計の作成](create-a-program-analyzer.md)
-
-
+   >[プログラム分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
