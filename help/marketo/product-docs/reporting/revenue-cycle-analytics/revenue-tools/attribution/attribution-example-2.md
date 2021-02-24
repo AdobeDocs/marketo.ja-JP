@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: アトリビューションの例2 - Marketto Docs — 製品ドキュメント
 title: アトリビューションの例2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 4月15日 | Joanは次のURLで取得（ウェビナー）
 * 4月22日 | （オポチュニティ1）が$6,000用に作成されました
 * 4月24日 | （オポチュニティ2）が$10,000に対して作成されました
-* 4月25日 | BillとJoanはロールに関連付けられています**両方**オプション
+* 4月25日 | Bill and Joan are associated with roles to **BOTH**&#x200B;オプティ
 * 4月29日 | （オポチュニティ1）は終了しました
 
 | プログラム名 | （トレードショー） | （ウェビナー） |
@@ -35,7 +35,7 @@ ht-degree: 0%
 >
 >**説明**
 >
->ビルとジョアンは両方とも「**BOTH **opportunity」に対するロールに関連付けられていたので、システムは（ルールに従って）それらのロール間でクレジットを均等に分割します。
+>ビルとジョアンはどちらも&#x200B;**BOTH**&#x200B;オポチュニティへの役割に関連付けられていたので、システムは（規則に従って）両者の間でクレジットを均等に分割しました。
 >
 >各プログラム($8,000)に対して作成されたパイプラインは、クレジットとして与えられる合計($16,000)の半分です。
 
@@ -47,17 +47,12 @@ ht-degree: 0%
 >1. 自分が稼いだ以上の信用は与えられない
 >1. 過去に起こったことを信用することはできない
 
->
-
-
-
-<br> 
 
 すべての例を試してみると、アトリビューションプロになります。
 
 >[!MORELIKETHIS]
 >
->* [アトリビューションの例1](attribution-example-1.md)
->* [アトリビューションの例3](attribution-example-3.md)
->* [アトリビューションの例4](attribution-example-4.md)
+>* [アトリビューションの例1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [アトリビューションの例3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [アトリビューションの例4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
