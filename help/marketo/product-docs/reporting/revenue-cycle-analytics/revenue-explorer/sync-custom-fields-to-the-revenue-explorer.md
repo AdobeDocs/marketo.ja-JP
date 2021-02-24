@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: カスタムフィールドを売上高エクスプローラー — Marketto Docs — 製品ドキュメントに同期
 title: カスタムフィールドを売上高エクスプローラに同期
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >有効にすると、データは翌日に売上サイクル分析で使用できるようになります。
 
    いい仕事！ これで、RCAにカスタムフィールドを追加する方法がわかりました。
-
