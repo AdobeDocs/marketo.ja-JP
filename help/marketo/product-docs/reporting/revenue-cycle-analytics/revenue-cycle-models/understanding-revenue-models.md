@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: 売上高モデルについて — Marketto Docs — 製品ドキュメント
 title: 売上高モデルについて
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-すべて緑の背景に表示されています。 これは&#x200B;**成功パス**&#x200B;と呼ばれます。 成功パス[についての詳細は、](understanding-revenue-model-success-path.md)ここを参照してください。
+すべて緑の背景に表示されています。 これは&#x200B;**成功パス**&#x200B;と呼ばれます。 成功パス[についての詳細は、](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)ここを参照してください。
 
 **ス** テージとは、目標に向かって進むリードのマイルストーンです。
 
-**トランジション**は矢印で示され、各ステージ間のリードの移動を制御します。
+**** 移行は矢印で示され、各ステージ間のリードの移動を制御します。
 
 >[!NOTE]
 >
@@ -79,33 +79,36 @@ ht-degree: 0%
 
 ## トランジション{#transitions}
 
-スマートキャンペーンを使用して、あるステージから別のステージへのリードの移動を明確にし、リードがどのステージにも留まらないようにします。 トランジションに対してトリガーフィルターを必ず使用してください（これは、評価する方法です）。
+スマートキャンペーンを使用して、あるステージから別のステージへのリードの移動を明確にし、リードがどのステージにも留まらないようにします。 必ず、トランジションのトリガーフィルターを使用してください（これは、評価する手段です）。
 
 >[!NOTE]
 >
 >**例**
 >
->トランジションは、リード**フォームの入力によって定義できます。 **
+>トランジションは、フォームに記入するリードによって定義できます。
 
-ここには希望に満ちたリンクがいくつかあります （または、できればお役に立てば、お選びください！）
+幸せな成功パスのステージの追加
 
->[!MORELIKETHIS]
->
->[新しい売上高モデルの作成](create-a-new-revenue-model.md)
->
->[売上高モデル在庫ステージの使用](using-revenue-model-inventory-stages.md)
->
->[売上高モデルのゲート・ステージの使用](using-revenue-model-gate-stages.md)
->
->[売上高モデルのSLAステージの使用](using-revenue-model-sla-stages.md)
-
-幸せな成功パスのステージの追加   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 ロストは付け加えるのに良い方法ですが、緑の道にはないことに注意してください。 それは「成功」ではないからです。
 
 >[!MORELIKETHIS]
 >
->[売上高モデルのレポート](report-on-your-revenue-model.md)
->
->[売上高モデルの承認/未承認](approve-unapprove-a-revenue-model.md)
+>* [新しい売上高モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [売上高モデル在庫ステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [売上高モデルのゲート・ステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [売上高モデルのSLAステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [売上高モデルのレポート](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [売上高モデルの承認/未承認](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
