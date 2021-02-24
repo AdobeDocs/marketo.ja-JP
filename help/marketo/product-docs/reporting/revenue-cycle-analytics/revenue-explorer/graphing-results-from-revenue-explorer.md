@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: 売上高エクスプローラー — Marketto Docs — 製品ドキュメントからの結果のグラフ化
 title: 売上高エクスプローラからの結果のグラフ化
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ ht-degree: 0%
 1. テーブル表示に戻すには、テーブルボタンをクリックします。
 
    ![](assets/two-1.png)
-
