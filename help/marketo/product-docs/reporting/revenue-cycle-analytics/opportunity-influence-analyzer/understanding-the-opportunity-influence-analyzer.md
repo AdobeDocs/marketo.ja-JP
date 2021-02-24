@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメント
 title: オポチュニティ影響分析について
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Opportunity Influence Analyzerを使用すると、全体を確認できます�
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**緑色のチェックが表示されます。** 右側でチェックされた名前の1つに対するプログラムの成功を示します。緑の領域は、オポチュニティの開始と終了を示します。
+**緑色のチェックが表示されます**。右側でチェックされた名前の1つに対するプログラムの成功を示します。 緑の領域は、オポチュニティの開始と終了を示します。
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Marketing Suiteでは、CRM IDを使用してアカウントを一意に識別�
 
 >[!MORELIKETHIS]
 >
->* [Opportunity Influence Analyzerでマーケティング事例を伝える](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [オポチュニティ影響分析計の作成](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Opportunity Influence Analyzerでマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [オポチュニティ影響分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
