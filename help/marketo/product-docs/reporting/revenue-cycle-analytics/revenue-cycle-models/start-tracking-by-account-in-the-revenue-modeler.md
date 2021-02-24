@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: 売上高モデラー — Marketto Docs — 製品ドキュメントのアカウント別開始追跡
 title: 売上高モデラーのアカウント別開始追跡
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. これで、アカウント別に追跡しているステージのみがレポートに表示されます。 今後使用できるように、レポートを保存してください。 これで、この指標をマーケティング活動の成功の別の測定基準として使用できます。
-
