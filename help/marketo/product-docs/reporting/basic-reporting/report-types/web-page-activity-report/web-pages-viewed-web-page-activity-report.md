@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 閲覧されたWebページ、Webページアクティビティレポート — Marketto Docs — 製品ドキュメント
 title: 表示されたWebページ、Webページアクティビティレポート
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 閲覧されたWebページ、Webページアクティビティレポート{#web-pages-viewed-web-page-activity-report}
 
-[ウェブページのアクティビティレポート](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)からは、レポート内の訪問者が閲覧した特定のページを確認できます。
+[ウェブページのアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)からは、レポート内の訪問者が閲覧した特定のページを確認できます。
 
 >[!PREREQUISITES]
 >
->MarketoのWebサイトからアクティビティを取り込むには、まず[サイト](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)にMunchkinを設定する必要があります。
+>MarketoのWebサイトからアクティビティを取り込むには、まず[サイト](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)にMunchkinを設定する必要があります。
 
-1. [ウェブページアクティビティレポート](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)で、[ページ表示]列の数字をクリックします。
+1. [ウェブページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)で、[ページ表示]列の数字をクリックします。
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,14 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[会社ウェブアクティビティレポート](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)を作成して、サイトの訪問会社を調べます。
-
-   >[!NOTE]
-   >
-   >**ディープダイブ**
-   >
-   >
-   >レポートをさらに活用 [基本的なレポート](https://docs.marketo.com/display/docs/basic+reporting)の深い潜水機を見てください。
-
+   >[会社ウェブアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)を作成して、サイトの訪問会社を調べます。
