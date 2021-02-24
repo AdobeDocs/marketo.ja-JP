@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: パフォーマンスインサイトでのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトでのフィルタリング
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現時点では、カスタム属性は、[RCA](https://docs.marketo.com/x/lwIk)を有効にしているお客様のみがフィルターで使用できます。
+>現時点では、カスタム属性は、売上高サイクル分析を有効にしているお客様のみがフィルターで使用できます。
 
 カテゴリをクリックすると、複数のサブカテゴリが表示されます。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>カスタム属性</strong></td> 
-   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析に対して有効にしたすべての<a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">フィールドは、パフォーマンスインサイトでフィルタリングできます。</a></p></td> 
+   <td colspan="1"><p>これらはあなたが決めます。 オポチュニティの分析に対して有効にしたすべての<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">フィールドは、パフォーマンスインサイトでフィルタリングできます。</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>投資期間</strong></p></td> 
@@ -69,11 +69,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><p><strong>プログラムタグ</strong></p></td> 
-   <td><p>タグは、プログラムを記述するために使用されます。 必要な数だけ作成でき、それぞれに一意の値を設定できます。 <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">プログラムタグの使い方を説明します。</a></p></td> 
+   <td><p>タグは、プログラムを記述するために使用されます。 必要な数だけ作成でき、それぞれに一意の値を設定できます。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">プログラムタグの使い方を説明します。</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Workspace</strong></td> 
-   <td><p>ワークスペースは、マーケティングアセットを保持するMarketorの別々の領域です。例えば、次のような領域があります。プログラム、ランディングページ、電子メールなど。 <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">ワークスペースについて詳しくは、こちらを参照してください。</a></p></td> 
+   <td><p>ワークスペースは、マーケティングアセットを保持するMarketorの別々の領域です。例えば、次のような領域があります。プログラム、ランディングページ、電子メールなど。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">ワークスペースについて詳しくは、こちらを参照してください。</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >エンゲージメントダッシュボードでは、プログラムタグとワークスペースフィルターのみを使用できます。
-
