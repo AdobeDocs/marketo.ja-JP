@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: レポート購読の有効化/無効化 — Marketto Docs — 製品ドキュメント
 title: レポート購読の有効化/無効化
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ ht-degree: 0%
    ![](assets/email-settings.png)
 
    それだ！ レポートの購読を解除するには、チェックを外し、「**保存**」をクリックします。
-
