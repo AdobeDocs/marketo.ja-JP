@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: 既知の人物データを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
 title: 既知の人物データを使用したセグメントの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[個人データの管理](manage-person-data.md)
+>[個人データの管理](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. **セグメント**&#x200B;に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 「プロファイルのセグメント化」で、**Database **をキャンバスにドラッグします。
+1. 「プロファイルのセグメント化」で、**Database**&#x200B;をキャンバスにドラッグします。
 
    ![](assets/four-1.png)
 
@@ -57,9 +57,8 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 「**保存**」をクリックしてセグメントを保存します。**保存してキャンペーンを定義**すると、保存してキャンペーンページに移動します。
+1. 「**保存**」をクリックしてセグメントを保存するか、「**保存してキャンペーンを定義**」をクリックして保存し、キャンペーンページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    既知の人のデータをターゲットにするセグメントを設定しました。
-
