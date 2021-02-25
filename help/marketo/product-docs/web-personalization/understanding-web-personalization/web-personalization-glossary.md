@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: ウェブパーソナライゼーション用語集 — Marketto Docs — 製品ドキュメント
 title: ウェブパーソナライゼーション用語集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 | **ISP** | インターネットサービスプロバイダー |
 | **既知の訪問者** | フォームを完了し、その詳細（電子メールアドレス）をWebサイトに残したか、Marketor電子メール内のリンクをクリックしたWeb訪問者。 |
 | **アカウントリスト** | 主要なアカウント名/組織名のリスト。 アカウントベースマーケティング(ABM)リストとも呼ばれます。 |
-| **セグメント** | [‘セグメントを設定’ページ](../../../product-docs/web-personalization/using-web-segments/web-segments.md)で定義された指定の条件を満たす訪問者の集まり。 |
+| **セグメント** | [‘セグメントを設定’ページ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)で定義された指定の条件を満たす訪問者の集まり。 |
 | **テストの分割** | 2つ以上のバリエーションを使用してテストを行い、結果の違いを測定します。 目標は、関心のある結果を増やすか最大化するWebページに対する変更を識別することです。 |
 | **ワイルドカード** | 文字列の前または後に使用するワイルドカード文字（*を使用）。文字列内の他の文字や文字の代わりに使用します。 以下の例を参照してください。 |
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 「backup」という語を含むページURLのすべての訪問者に一致します(例：[https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
