@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: ログインとユーザー管理 — Marketto Docs — 製品ドキュメント
 title: ログインとユーザー管理
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. ロール名を入力し、「権限」を選択します。 「**作成**」をクリックします（このロールは[すべてのワークスペース](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)に適用する必要があります）。
+1. ロール名を入力し、「権限」を選択します。 「**作成**」をクリックします（このロールは[すべてのワークスペース](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)に適用する必要があります）。
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >ターゲット設定とパーソナライゼーションのすべての項目に対するアクセス権限をユーザーに与えるには、必ず&#x200B;*すべての*&#x200B;チェックボックスをオンにしてください。
+   >ターゲット設定とパーソナライゼーションのすべての項目に対するアクセス権限をユーザーに与えるには、必ず&#x200B;_すべての_&#x200B;チェックボックスをオンにしてください。
 
 ## Webパーソナライゼーションとコンテンツ予測のユーザー権限{#web-personalization-and-predictive-content-user-permissions}
 
