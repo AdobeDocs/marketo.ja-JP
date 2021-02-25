@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Google Universal Analytics - Marketto Docs — 製品ドキュメント内のカスタムRTPレポート
 title: Google Universal AnalyticsでのカスタムRTPレポート
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTPとGoogle Universal Analyticsの統合](integrate-rtp-with-google-universal-analytics.md)
+>[RTPとGoogle Universal Analyticsの統合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-この投稿では、Google Universal Analytics(GUA)用のRTPカスタムレポートの設定方法を説明します。  RTPからGUAに送信されるデータは、次の2つのカスタムレポートとして設定できます。
+この記事では、Google Universal Analytics(GUA)用にRTPカスタムレポートを設定する方法を説明します。  RTPからGUAに送信されるデータは、次の2つのカスタムレポートとして設定できます。
 
 * RTP B2B
 * RTPエンゲージメント
@@ -25,31 +25,32 @@ ht-degree: 0%
 ## カスタムレポートの設定{#setting-up-a-custom-report}
 
 1. Google Analyticsにログインします。
-1. 上部のメニューにある「**カスタマイズ**」をクリックします。
-1. 「**+新しいカスタムレポート」をクリックします。**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. 上部のメニューで[**カスタマイズ**]をクリックします。
 
-**
+1. 「**+新しいカスタムレポート**」をクリックします。
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2Bレポート{#rtp-b-b-report}
 
 1. レポートに&#x200B;**RTP B2B Report**&#x200B;という名前を付けます。
-1. 「1st」タブに**Industry **という名前を付けます。
 
-   1. (注意：**このタブ**&#x200B;を重複し、同様のタブを追加作成します — 手順5)
+1. 1番目のタブに&#x200B;**業界**&#x200B;という名前を付けます。
 
-1. 「**エクスプローラ**」レポートタイプを選択します。\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>**このタブ**&#x200B;を重複し、同様のタブを追加作成します — 手順5)
 
-   **
+1. **エクスプローラー**&#x200B;のレポートタイプを選択します。
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. 「**指標グループ**」セクションで、ビジネスに関連する指標を選択します。
 
-   1. 以下を推奨します。\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a.以下を推奨します。
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. このタブを4回重複し、名前を付けます。
 
@@ -72,7 +73,7 @@ ht-degree: 0%
     </div></th> 
    <th> 
     <div>
-      Dimensionのドリルダウン 
+      Dimensionのドリルダウン
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. フィルターを設定せず、このレポートを**すべてのWebサイトデータ**で使用できるように設定します（または、特定のAnalyticsアカウントに関連する場合は変更します）。
-1. 「**保存**」をクリックします。\
+1. フィルターを設定せず、このレポートを&#x200B;**すべてのウェブサイトデータ**&#x200B;で使用できるように設定します（または、特定のAnalyticsアカウントに関連する場合は変更します）。
+
+1. 「**保存**」をクリックします。
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTPエンゲージメントレポート{#rtp-engagement-report}
 
-1. レポートに&#x200B;**RTPエンゲージメントレポートの名前を付けます。**
-1. 1番目のタブ名を&#x200B;**すべてのエンゲージメント**&#x200B;に設定します
+1. レポートに&#x200B;**RTPエンゲージメントレポート**&#x200B;という名前を付けます。
 
-   1. (注意：このタブを重複し、同様のタブを追加作成します — 手順5)
+1. 1つ目のタブ名を&#x200B;**すべてのエンゲージメント**&#x200B;に設定します。
 
-1. **エクスプローラー**&#x200B;のレポートタイプを選択します。\
+>[!NOTE]
+>
+>このタブを重複し、同様のタブをさらに作成します（手順5）。
+
+1. **エクスプローラー**&#x200B;のレポートタイプを選択します。
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 「指標グループ」セクションで、ビジネスに関連する指標を選択します。 次に推奨事項を示します。\
+1. 「指標グループ」セクションで、ビジネスに関連する指標を選択します。 次に推奨事項を示します。
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. このタブを4回重複し、名前を付けます。
@@ -125,7 +133,7 @@ ht-degree: 0%
    1. **カテゴリ別関与**
    1. **ABMによるエンゲージメント**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. 「**Dimensionドリルダウン**」セクションで、各タブの関連するディメンションを次のように設定します。
 
@@ -167,7 +175,6 @@ ht-degree: 0%
 </table>
 
 1. 次のフィルターを設定します。
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. このレポートを**すべてのウェブサイトデータ**で使用可能に設定する（または必要に応じて変更）
+1. このレポートを&#x200B;**すべてのウェブサイトデータ**&#x200B;で使用できるように設定します（または必要に応じて変更します）。
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[RTPとGoogle Universal Analyticsの統合](integrate-rtp-with-google-universal-analytics.md)
+>[RTPとGoogle Universal Analyticsの統合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Google Universal AnalyticsでのカスタムRTPダッシュボード](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Google Universal AnalyticsでのカスタムRTPダッシュボード](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
