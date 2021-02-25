@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: Webパーソナライゼーション — Marketto Docs — 製品ドキュメント内のワークスペース
 title: Webパーソナライゼーションのワークスペース
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Webパーソナライゼーション内のワークスペースを切り替え�
 
 >[!NOTE]
 >
->ユーザーは、アクセス権を持つワークスペースに関連付けられたWebキャンペーンーとセグメントのみを表示できます。 [1つ以上のワークスペースへのアクセスをユーザーに与える方法](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)を次に示します。
-
+>ユーザーは、アクセス権を持つワークスペースに関連付けられたWebキャンペーンーとセグメントのみを表示できます。 [1つ以上のワークスペースへのアクセスをユーザーに与える方法](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)を次に示します。
