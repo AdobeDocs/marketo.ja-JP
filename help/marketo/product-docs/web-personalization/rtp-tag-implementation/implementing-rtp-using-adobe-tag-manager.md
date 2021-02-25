@@ -3,9 +3,9 @@ unique-page-id: 4720218
 description: Adobe Tag Managerを使用したRTPの実装 — Marketto Docs — 製品ドキュメント
 title: Adobe Tag Managerを使用したRTPの実装
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,10 @@ ht-degree: 0%
 RTPタグを実装するには、次のインストール手順に従ってください。
 
 1. RTPアカウントにログインします。
-1. **アカウント設定に移動します。**
 
-   サポートからJavaScriptタグを既に受け取っている場合は、手順4に進みます。
+1. 「**アカウント設定**」に移動します。
+
+   a.サポートからJavaScriptタグを既に受け取っている場合は、手順4に進みます。
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -27,11 +28,12 @@ RTPタグを実装するには、次のインストール手順に従ってく�
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Dynamic Tag Managerアカウント([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in))にログインします。
+
 1. **ダッシュボードに移動します。** 関連するWebプロパティをクリックします。
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. [**ルール**]に移動し、[**新しいルールの作成]をクリックします。**
+1. 「**ルール**」に移動し、「**新しいルールを作成**」をクリックします。
 
 1. 次の情報を入力します。
 
@@ -42,6 +44,7 @@ RTPタグを実装するには、次のインストール手順に従ってく�
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. 新しいタグを呼び出します。**Marketo RTPタグ**
+
 1. RTPタグから次のコードを削除します。
 
    * `<script type='text/javascript'>`
@@ -63,4 +66,4 @@ RTPタグを実装するには、次のインストール手順に従ってく�
 
 1. **ランディングページとサブドメインを含むすべてのページに表示されることを** 確認します。
 
-   Webサイトのページを右クリックすると、その操作を実行できます。 **Inspect要素**&#x200B;に移動し、「**ネットワーク， **検索：**RTP**。
+   Webサイトのページを右クリックすると、その操作を実行できます。 **Inspect要素**&#x200B;に移動し、**ネットワーク**&#x200B;をクリックします。検索：**RTP**。
