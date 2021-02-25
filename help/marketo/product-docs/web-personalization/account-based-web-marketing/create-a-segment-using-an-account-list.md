@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: アカウントリストを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
 title: アカウントリストを使用したセグメントの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [新しいアカウントリストの作成](../../../product-docs/account-based-marketing/target/account-lists.md)
-
->
-
-
+>[新しいアカウントリストの作成](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. **セグメント**&#x200B;に移動します。
 
@@ -43,7 +39,8 @@ ht-degree: 0%
    >
    >アカウントリストは、セグメント化で使用するために、ABMからWebパーソナライゼーションに同期されます。 ドロップダウンから選択します。 同期には最大5分かかります。 同期は、アカウントリストに1つ以上の指定されたアカウントがある場合にのみ実行されます。
 
-1. 「**保存**」をクリックするか、「**保存してキャンペーンを定義**」をクリックしてキャンペーンページに移動します。\
+1. 「**保存**」をクリックするか、「**保存してキャンペーンを定義**」をクリックしてキャンペーンページに移動します。
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 おめでとう！ アカウントリストをターゲットにしたセグメントを設定できました。
