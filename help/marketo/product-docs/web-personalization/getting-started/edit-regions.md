@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: 地域の編集 — Marketto Docs — 製品ドキュメント
 title: リージョンを編集
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >米国を選択すると、ページの下部に開き、米国の州のオプションがすべて選択されます。
-
