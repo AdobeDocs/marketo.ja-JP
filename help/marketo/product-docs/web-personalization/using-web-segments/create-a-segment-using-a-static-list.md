@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: 静的リストを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
 title: 静的リストを使用したセグメントの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 静的リストを使用したセグメントの作成{#create-a-segment-using-a-static-list}
 
-既知のWeb訪問者を、Webサイトの訪問時に、マーケティング担当者の[静的なリスト](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)のいずれかに属しているかどうかに基づいてセグメント化します。
+既知のWeb訪問者を、Webサイトの訪問時に、マーケティング担当者の[静的なリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)のいずれかに属しているかどうかに基づいてセグメント化します。
 
 1. **セグメント**&#x200B;に移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 「Known Leads」で、「**Static」リスト**over」をキャンバスにドラッグします。
+1. 「Known Leads」で、**Staticリスト**&#x200B;をキャンバスにドラッグします。
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >および/またはのドロップダウンは、それだけです。 **と**、**または**、**または**&#x200B;を選択するには、このアイコンをクリックします。
 
-1. 「**保存**」をクリックしてセグメントを保存します。**保存してキャンペーンを定義**すると、保存してキャンペーンページに移動します。
+1. 「**保存**」をクリックしてセグメントを保存するか、「**保存してキャンペーンを定義**」をクリックして保存し、キャンペーンページに移動します。
 
    ![](assets/eight-1.png)
-
