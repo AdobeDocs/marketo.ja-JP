@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: テンプレートを使用したWebキャンペーンーの作成 — Marketto Docs — 製品ドキュメント
 title: テンプレートを使用したWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >テンプレートは、デスクトップとモバイルの両方で、すべてのデバイスおよび閲覧エクスペリエンスに最適化されています。
 
-1. Webキャンペーンに移動
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 「新規Webキャンペーンの作成」をクリックします。
+1. 「**新しいWebキャンペーンーを作成**」をクリックします。
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. 「テンプレート」をクリックします。
+1. 「**テンプレート**」をクリックします。
 
    ![](assets/templates.png)
 
 1. キャンペーンに適した領域を選択し、適切なテンプレートを表示および選択します。
 
    >[!NOTE]
-   >
-   >**Reminder**
    >
    >選ぶべきクールなテンプレートがいくつかあり、今後さらに追加します。
 
@@ -57,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/customize-template.jpg)
 
-1. 「保存」をクリックします。
+1. 「**保存**」をクリックします。
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンをテンプレートとして保存](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[キャンペーンをテンプレートとして保存](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
