@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Googleでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
 title: Googleでのパーソナライズされたリマーケティング
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Personalized Remarketingを使用すると、RTPデータを使用し、Google D
 
 >[!PREREQUISITES]
 >
->* [Webパーソナライゼーションデータ](retargeting-with-web-personalization-data.md)の構成を実行します。
->* [Google Analyticsとのリマーケティングのヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)ドキュメントを確認
-
->
-
+>* [Webパーソナライゼーションデータ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の構成を実行します。
+>* [リマーケティングとGoogle Analyticsのヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)のドキュメントを確認します。
 
 
 ## Googleでのリマーケティングオーディエンスの作成{#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ Personalized Remarketingを使用すると、RTPデータを使用し、Google D
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **リンクの設定**:Google Adwordsアカウントへのリンク
-1. **オーディエンスの定義**:「新規 **作成**」をクリックします。
+1. **リンクの設定**:Google Adwordsアカウントにリンクします。**オーディエンスの定義**:「新規 **作成**」をクリックします。
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ Google Universal Analytics:
 >* イベントカテゴリ:RTPセグメント、RTPキャンペーンRTPリマーケティング
 >* イベントラベル：セグメント名、キャンペーン名、セグメント化されたオーディエンス名
 
->
-
-
 
 **RTPセグメント化オーディエンスデータからのリマーケティングオーディエンスの例**
 
@@ -77,7 +70,7 @@ Google Universal Analytics:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. 「**シーケンス**」をクリックします。
-1. 「** RTP-Industry**」を選択します。
+1. 「**RTP-Industry**」を選択します。
 1. **業界名**&#x200B;を入力します(例： 金融サービス、教育機関…)
 1. 「**適用**」をクリックします。
 1. **オーディエンス名**&#x200B;を入力します。 「**保存**」をクリックします。
@@ -105,6 +98,6 @@ Google Universal Analytics:
 
 >[!MORELIKETHIS]
 >
->* [Webパーソナライゼーションデータを使用した再ターゲティング](retargeting-with-web-personalization-data.md)
->* [Facebookでのパーソナライズされたリマーケティング](personalized-remarketing-in-facebook.md)
+>* [Webパーソナライゼーションデータを使用した再ターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Facebookでのパーソナライズされたリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
