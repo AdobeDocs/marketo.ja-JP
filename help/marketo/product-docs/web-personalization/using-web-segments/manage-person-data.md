@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: 個人データの管理 — Marketto Docs — 製品ドキュメント
 title: 個人データの管理
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 セグメントで使用する個人フィールドを選択して、Webパーソナライゼーションで人物データを活用します。
 
-1. 「**アカウント設定**」に移動します。\
+1. 「**アカウント設定**」に移動します。
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **Database**&#x200B;に移動します。\
+1. **Database**&#x200B;に移動します。
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## 新しい人物フィールドの追加{#adding-a-new-person-field}
@@ -29,11 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * 新しいフィールドが保留中の状態で追加され、アクティブにするのに最大24時間かかる場合があります。
-
+   >新しいフィールドが保留中の状態で追加され、アクティブにするのに最大24時間かかる場合があります。
 
 ## 人物フィールドの削除{#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ ht-degree: 0%
    >
    >**個人データフィールドの管理**
    >
-   >    
-   >    
-   >    * 個人データフィールドのみを含めることができます
-   >    * 最大30個の個人データフィールドを追加できます
-   >    * 新しいフィールドの追加が有効になるまでに最大24時間かかる場合があります
-   >    * 文字列型の最大長は255文字です
-   >    * 非表示のフィールドは自動的に削除されます
+   >* 個人データフィールドのみを含めることができます
+   >* 最大30個の個人データフィールドを追加できます
+   >* 新しいフィールドの追加が有効になるまでに最大24時間かかる場合があります
+   >* 文字列型の最大長は255文字です
+   >* 非表示のフィールドは自動的に削除されます
 
 
 <table> 
@@ -108,9 +104,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [既知の人物データを使用したセグメントの作成](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[既知の人物データを使用したセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
