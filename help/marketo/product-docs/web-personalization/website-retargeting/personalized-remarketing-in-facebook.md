@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Facebookでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
 title: Facebookでのパーソナライズされたリマーケティング
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Webパーソナライゼーションデータを使用してリターゲティング](retargeting-with-web-personalization-data.md)のセットアップを完了します
->* カスタムオーディエンス](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)およびリマーケティングに関する[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebookのドキュメントを確認します。
-
->
-
+>* [Webパーソナライゼーションデータを使用してリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)のセットアップを完了します
+>* カスタムオーディエンス](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)とリマーケティングに関する[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebookのドキュメントを確認します。
 
 
 ## Facebookでのオーディエンスの作成{#creating-an-audience-in-facebook}
 
 1. Facebookで、広告マネージャーの[オーディエンスタブ](https://www.facebook.com/ads/audience_manager)に移動します。
+
 1. 「**ツール**」をクリックし、「**オーディエンス**」を選択します。
 
    ![](assets/one-1.png)
@@ -47,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. イベントリストで、「**RTP Remarketing **」を選択し、パラメータを選択します。
+1. イベントリストで、「**RTPリマーケティング**」を選択し、パラメーターを選択します。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Webパーソナライゼーションデータを使用した再ターゲティング](retargeting-with-web-personalization-data.md)
->* [Googleでのパーソナライズされたリマーケティング](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Webパーソナライゼーションデータを使用した再ターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Googleでのパーソナライズされたリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
