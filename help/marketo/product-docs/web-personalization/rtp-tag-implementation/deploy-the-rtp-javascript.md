@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: RTP JavaScript - Marketto Docs — 製品ドキュメントの導入
 title: RTP JavaScriptのデプロイ
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ RTPタグを生成し、設定するには、次のインストール手順に�
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. **ドメイン**&#x200B;と&#x200B;**ドメイン構成**&#x200B;で、関連するドメインを探し、**タグの生成をクリックします。**
+1. **ドメイン**&#x200B;と&#x200B;**ドメイン構成**&#x200B;で、関連するドメインを探し、**タグを生成**&#x200B;をクリックします。
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ RTPタグを生成し、設定するには、次のインストール手順に�
    これで、RTPタグが設定され、[セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)とリアルタイムキャンペーンの作成を開始する準備ができました。
 
 1. タグがすべてのページにあることを確認します。
-
->[!MORELIKETHIS]
->
->* [RTPタグの実装](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
