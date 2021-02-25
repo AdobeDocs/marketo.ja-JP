@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 基本的なWebセグメントの作成 — Marketto Docs — 製品ドキュメント
 title: 基本Webセグメントの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 右側のメニューから「**場所**」をドラッグし、セグメントエディターにドロップします。
+1. 右側のメニューから&#x200B;**場所**&#x200B;をドラッグし、セグメントエディターにドロップします。
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
    >
    >市区町村の数は、セグメントあたり300に制限されています。
 
-1. 右側のメニューから「**Industries **」をドラッグし、セグメントエディターにドロップします。
+1. 右側のメニューから&#x200B;**Industries**&#x200B;をドラッグし、セグメントエディターにドロップします。
 
    ![](assets/industries-hand.jpg)
 
-1. ドロップダウンから、追加する業種を選択します。 「**金融サービス****業種**」を選択します。
+1. ドロップダウンから、追加する業種を選択します。 **金融サービス業界**&#x200B;を選択します。
 
    ![](assets/segment-industries.png)
 
@@ -57,9 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Webセグメント](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[Webセグメント](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
