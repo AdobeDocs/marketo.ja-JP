@@ -3,9 +3,9 @@ unique-page-id: 17727870
 description: アカウント設定追加- Marketto Docs — 製品ドキュメントのサブドメイン
 title: アカウント設定の追加サブドメイン
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >*プライマリ*&#x200B;ドメインをアカウントに追加する場合は、[マーケティング担当者](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)にお問い合わせください。
-
+   >_プライマリ_&#x200B;ドメインをアカウントに追加する場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
