@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Google Universal Analytics - Marketto Docs -ダッシュボードドキュメントのカスタムRTP製品
 title: Google Universal AnalyticsでのカスタムRTPダッシュボード
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTPとGoogle Universal Analyticsの統合](integrate-rtp-with-google-universal-analytics.md)
+>[RTPとGoogle Universal Analyticsの統合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-この投稿では、Google Universal Analytics(GUA)でRTPダッシュボードを設定する方法を説明します。  RTPからGUAに送信されるデータは、次の2つのカスタムダッシュボードとして設定できます。
+この投稿では、Google Universal Analytics(GUA)でRTPダッシュボードを設定する方法を説明します。 RTPからGUAに送信されるデータは、次の2つのカスタムダッシュボードとして設定できます。
 
 * RTP B2B
 * RTPエンゲージメント
 
 ## カスタムダッシュボードの設定{#setting-up-a-custom-dashboard}
 
-1. Google Analyticsにログインします。 上部のメニューで「**レポート**」をクリックします。 「**ダッシュボード**」と「**+新しいカスタムダッシュボード」をクリックします。**
+1. Google Analyticsにログインします。 上部のメニューで&#x200B;**レポート**&#x200B;をクリックします。 **ダッシュボード**&#x200B;と&#x200B;**+新しいカスタムダッシュボード**&#x200B;をクリックします。
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. 「**空白のキャンバス**」を選択し、**ダッシュボード名**&#x200B;を追加して、**ダッシュボードを作成**&#x200B;をクリックします。
 
-1. **ウィジェット追加**&#x200B;をクリックして、新しいウィジェットを作成します。\
+1. **ウィジェット追加**&#x200B;をクリックして、新しいウィジェットを作成します。
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2Bダッシュボード{#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ ht-degree: 0%
 * セグメント
 * 最初のドリルダウン
 
-1. **RTP B2Bダッシュボード**という名前の新しいダッシュボードを作成し、次のウィジェットを定義します。
+1. **RTP B2Bダッシュボード**&#x200B;という名前の新しいダッシュボードを作成し、次のウィジェットを定義します。
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ ht-degree: 0%
   <tr> 
    <th> 
     <div>
-      列1 — トラフィックソース 
+      列1 — トラフィックソース
     </div></th> 
    <th> 
     <div> <strong>列2 — セグメント</strong> 
@@ -151,11 +152,9 @@ ht-degree: 0%
 
 このダッシュボードにより、RTPキャンペーンのパフォーマンスとレコメンデーションエンジンのエンゲージメントを分析できます。 平均の比較を提供します。 セッションの時間とセッションごとのページ：
 
-* 
-
-   * 未婚
-   * 関与(パーソナライズされたキャンペーンのインプレッション数とクリック数)
-   * レコメンデーションエンジンのクリック数とレコメンデーションが最も多いコンテンツ
+* 未婚
+* 関与(パーソナライズされたキャンペーンのインプレッション数とクリック数)
+* レコメンデーションエンジンのクリック数とレコメンデーションが最も多いコンテンツ
 
 **RTPエンゲージメントダッシュボード**&#x200B;という名前の新しいダッシュボードを作成し、次のウィジェットを定義します。
 
@@ -265,7 +264,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[RTPとGoogle Universal Analyticsの統合](integrate-rtp-with-google-universal-analytics.md)
+>[RTPとGoogle Universal Analyticsの統合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Google Universal AnalyticsでのカスタムRTPレポート](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Google Universal AnalyticsでのカスタムRTPレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
