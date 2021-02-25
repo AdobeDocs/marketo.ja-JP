@@ -3,9 +3,9 @@ unique-page-id: 10097163
 description: RTP JavaScriptタグの有効化または無効化 — Marketto Docs — 製品ドキュメント
 title: RTP JavaScriptタグの有効化と無効化
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ RTP JavaScriptタグは、ウェブパーソナライゼーションがWebアク
 1. RTPタグを有効にするには、「Domain and Domain Configuration」の「Tag」で、**On**&#x200B;トグルを選択します。
 
    簡単。
-
