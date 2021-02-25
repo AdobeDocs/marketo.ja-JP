@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: RTPとGoogle Analyticsの統合 — Marketto Docs — 製品ドキュメント
 title: RTPとGoogle Analyticsの統合
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-[Webパーソナライゼーションとユニバーサル分析](integrate-rtp-with-google-universal-analytics.md)の統合方法を参照
+[Webパーソナライゼーションとユニバーサル分析](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)の統合方法を参照
 
 ## はじめに{#introduction}
 
@@ -66,19 +66,23 @@ RTPキャンペーンを測定し、サイト全体の平均に関連付けま�
 
 ## Google Analytics{#setting-up-rtp-with-google-analytics}でのRTPの設定
 
-1. GAア追加カウントに対する読み取りと分析ユーザーの電子メール[`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)。 詳しくは、[ここ](https://support.google.com/analytics/answer/2884495?hl=en)を参照してください。
+1. GAア追加カウントには、rtp.ga2@gmail.comを読み取り&amp;分析ユーザーとしてお送りください。 詳しくは、[ここ](https://support.google.com/analytics/answer/2884495?hl=en)を参照してください。
+
 1. RTPアカウント内。 「**アカウント設定**」に移動します。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. **アカウント設定**、**ドメイン**&#x200B;および&#x200B;**Analytics**&#x200B;の下
-1. 「**Google Analytics」をクリックします。**
+1. 「**アカウント設定**」、「**ドメイン**」、「**Analytics**」の下。
+
+1. **Google Analytics**&#x200B;をクリックします。
+
 1. 関連する&#x200B;**カスタム変数**&#x200B;と&#x200B;**イベント**&#x200B;をオンにして、RTPからこのデータをGoogle Analyticsに追加します。
+
 1. **スロット**&#x200B;番号を入力して、カスタム変数データを送信します（デフォルトは1,2）。
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-「**保存**」をクリックします。
+1. 「**保存**」をクリックします。
 
 >[!NOTE]
 >
