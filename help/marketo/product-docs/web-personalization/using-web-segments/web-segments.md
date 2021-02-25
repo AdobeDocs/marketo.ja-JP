@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Webセグメント — Marketto Docs — 製品ドキュメント
 title: Webセグメント
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
  </tbody> 
 </table>
 
-[表示セグメントラベルの作成方法および作成方法](label-your-segment.md)を参照
+[表示セグメントラベルの作成方法および作成方法](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)を参照
 
 **セグメント — 右側のパネル**
 
@@ -108,23 +108,32 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
 >1. すべてのフィルター（1と2と3...）を使用
 >1. 任意のフィルター(1、2、3...)を使用
 >1. 高度なフィルター(および/または式を使用)
->
->    アドバンスフィルターでは、セグメント条件を制御できます。 「and」と「or」で区切ったフィルター番号を入力します。
->
->    * 1と2と3
->    * 1、2または3
->
->    「and」と「or」を混ぜると、論理的な意図を明確にするために括弧が必要です。 例えば「1 or 2 and 3」は、次のいずれかとして記述する必要があります。
->
->    * 1 and （2または3）
->    * （1及び2）又は(3)
->
->    入れ子の括弧は、より複雑なロジックに対して使用できます。例えば、
->
->    * （1及び2）又は（3及び4）
->    * 1 and (2 or (3 and 4))
->
->    挿入、削除、並べ替えの後で、ロジックを確認します。
+
+   >
+   >    
+   アドバンスフィルターでは、セグメント条件を制御できます。 「and」と「or」で区切ったフィルター番号を入力します。
+   >
+   >    
+   * 1と2と3
+   >    * 1、2または3
+
+   >
+   >    「and」と「or」を混ぜると、論理的な意図を明確にするために括弧が必要です。 例えば「1 or 2 and 3」は、次のいずれかとして記述する必要があります。
+   >
+   >    
+   * 1 and （2または3）
+   >    * （1及び2）又は(3)
+
+   >
+   >    入れ子の括弧は、より複雑なロジックに対して使用できます。例えば、
+   >
+   >    
+   * （1及び2）又は（3及び4）
+   >    * 1 and (2 or (3 and 4))
+
+   >
+   >    挿入、削除、並べ替えの後で、ロジックを確認します。
+
 
 右側の列のセグメント属性を左側のセグメントエディターにドラッグ&amp;ドロップします。
 
@@ -170,18 +179,18 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
    * 企業 — 従業員数が1,000人を超え、売上高が$250Mを超える組織を含む
    * SMB — このセグメントには、中小企業のみが含まれます。
 
-**名前付きアカウント**
+**— 名前付きアカウント —**
 
 **組織**
 
 * **これらの会社（特定の名前）から**
 
    * 「追加する会社を選択」ドロップダウンから、ターゲットへの会社を選択します。
-   * ターゲットする組織名を正確に入力できます。 *一致をより良くするために、名前を手動で入力する代わりに、*常に&#x200B;*指定されたアカウントリストを使用することをお勧めします（下記を参照）。*
+   * ターゲットする組織名を正確に入力できます。 *一致を確実にするために、名前を手動で入力する代わりに、_常に_&#x200B;指定されたアカウントリストを使用することをお勧めします（以下を参照）。
 
 **固有のアカウントリスト**
 
-[「名前付きアカウント」リスト](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)から選択し、ターゲットアカウントの主要なセグメントを作成します。
+[「名前付きアカウント」リスト](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)から選択し、ターゲットアカウントの主要なセグメントを作成します。
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Webパーソナライゼーションでは、訪問者は複数のセグメン�
 
 Webパーソナライゼーションは、Marketo Databaseと統合されており、既知の人物の属性やデータに基づいてキャンペーンをセグメント化し、パーソナライズできます。
 
-「Database」を選択し、ドロップダウンから個人データフィールドを選択します。 を選択します。   **+**&#x200B;をクリックして、ドロップダウンからフィールドを追加します。
+「Database」を選択し、ドロップダウンから個人データフィールドを選択します。 **+**&#x200B;を選択して、ドロップダウンからフィールドを追加します。
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Mobile OSをセグメントエディターにドラッグ&amp;ドロップしま
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **訪問者型**
+* **訪問者型**<br />
 
    **モバイルOS**  — ドロップダウンボックスから、一覧から1つ以上のモバイルOSを選択します。選択したモバイルOSが下に表示されます。
 
@@ -319,8 +328,8 @@ WebパーソナライゼーションAPIは、[こちらを参照してくださ�
 素晴らしい！ 「セグメント」セクションを理解したら、キャンペーンについて学びましょう。
 
 >[!MORELIKETHIS]
-* [基本Webセグメントの作成](create-a-basic-web-segment.md)
-* [新しいダイアログWebキャンペーンの作成](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [ゾーン内の新しいWebキャンペーンの作成](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [新しいウィジェットWebキャンペーンの作成](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [基本Webセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [新しいダイアログWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [ゾーン内の新しいWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [新しいウィジェットWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
