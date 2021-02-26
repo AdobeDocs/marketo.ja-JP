@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Webキャンペーンーにフォームを埋め込む — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンーにフォームを埋め込む
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 
 1. 承認されたフォームを右クリックします。 「**埋め込みコード**」を選択します。
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. コードをコピーします。
 
@@ -31,9 +29,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 
 1. 「**新しいキャンペーンを作成**」をクリックします。
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. リッチテキストエディターで、HTMLアイコンをクリックします。
 
@@ -44,6 +40,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
    ![](assets/six-1.png)
 
 1. フォームはエディター表示には表示されませんが、プレビューしてキャンペーン内でどのようにレンダリングされるかを確認できます。
+
 1. **「**&#x200B;を起動」をクリックして、キャンペーンを開始します。
 
    >[!NOTE]
@@ -58,7 +55,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 * 設定キャンペーンでのダイアログまたはウィジェットの色の変更
 * ス追加クリプトに対するCSSコード
 
-フォームテーマのCSSを編集するには、[この記事](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)を参照してください。
+フォームテーマのCSSを編集するには、[この記事](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)を参照してください。
 
 設定キャンペーンでダイアログまたはウィジェットの色を変更するには：
 
@@ -86,11 +83,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 
 >[!MORELIKETHIS]
 >
->* [フォームテーマのCSSの編集](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [フォームテーマのCSSの編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [フォローアップランディングページなしで「ありがとうございます」メッセージを表示](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
