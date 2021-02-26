@@ -3,7 +3,7 @@ unique-page-id: 4719410
 description: Webキャンペーンーの削除 — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンの削除
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -19,16 +19,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. Webキャンペーンページで、削除するキャンペーンの「**削除**」をクリックします。
+1. Webキャンペーンページで、削除するキャンペーンの&#x200B;**削除**&#x200B;をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 
-1. Webキャンペーンーを削除するかどうかを確認するメッセージが表示されます。
+1. Webキャンペーンーを削除するかどうかを確認する確認メッセージが表示されます。
 
 >[!MORELIKETHIS]
 >
->* [Webキャンペーンの編集](edit-an-existing-web-campaign.md)
->* [Webキャンペーンの起動/一時停止](launch-pause-a-web-campaign.md)
+>* [Webキャンペーンの編集](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
+>* [Webキャンペーンの起動/一時停止](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
 
