@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: Webキャンペーンーのラベル付け — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのラベル付け
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+   >必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 1. ラベルのタグを付けるキャンペーンを選択します。
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 1. 目的のラベル名を入力し、「新規作成」をクリックします。
 
->[!TIP]
->
->ラベルが既に存在する場合は、ラベルを選択し、新しいラベルは作成しないでください。
+   >[!TIP]
+   >
+   >ラベルが既に存在する場合は、ラベルを選択し、新しいラベルは作成しないでください。
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 クール！ これで、ラベルを作成し、キャンペーンに割り当てる方法を理解できました。
 
@@ -51,9 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [セグメントの](create-a-new-in-zone-web-campaign.md) [ラベル付け](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[セグメントのラベル付け](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
