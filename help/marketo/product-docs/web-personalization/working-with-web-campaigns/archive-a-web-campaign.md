@@ -3,9 +3,9 @@ unique-page-id: 12978938
 description: Webキャンペーンーのアーカイブ — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのアーカイブ
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Webキャンペーンの削除](delete-a-web-campaign.md)
-
->
-
-
-
+>[Webキャンペーンの削除](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
