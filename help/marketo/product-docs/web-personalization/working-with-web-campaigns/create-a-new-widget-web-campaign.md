@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: 新しいウィジェットWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいウィジェットWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 新しいウィジェットWebキャンペーンの作成{#create-a-new-widget-web-campaign}
 
-Webキャンペーンーは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の[ダイアログボックス](create-a-new-dialog-web-campaign.md)、ゾーン置換](create-a-new-in-zone-web-campaign.md)の[、ウィジェット機能、電子メールアラートのいずれかになります。 ウィジェットのWebキャンペーンは、Webページの垂直側に表示されるテキストまたはバナーで、拡大や縮小が可能ですが、訪問中はWebサイトページ上で固定されたままになります。
+Webキャンペーンーは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)の[、ウィジェット機能、電子メールアラートのいずれかになります。 ウィジェットのWebキャンペーンは、Webページの垂直側に表示されるテキストまたはバナーで、拡大や縮小が可能ですが、訪問中はWebサイトページ上で固定されたままになります。
 
 ## ウィジェットウェブキャンペーンの作成{#create-a-widget-web-campaign}
 
@@ -33,9 +33,9 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
 
    ![](assets/4.png)
 
-1. 「**プレビュー**」をクリックすると、Webキャンペーンーの反応がサイト上でどのように表示されるかを確認できます。
+1. **プレビュー**&#x200B;をクリックして、Webキャンペーンの反応を確認します。
 
-![](assets/preview.png)
+   ![](assets/preview.png)
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
   </tr> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
+   <td colspan="1">Webキャンペーンーの<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>イン/アウトをアニメート</strong></td> 
@@ -95,7 +95,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
 
 >[!NOTE]
 >
->**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](ab-test-your-web-campaign.md)ます。自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
+>**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)ます。自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
 
 ## Webキャンペーンの編集{#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ Webキャンペーンページで、キャンペーンの「**編集**」をク�
 
 >[!NOTE]
 >
->必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+>必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 ## Webキャンペーンのコピー{#clone-a-web-campaign}
 
-[Webキャンペーンーのコピー](clone-a-web-campaign.md)を参照してください。
+[Webキャンペーンーのコピー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
 
 ## Webキャンペーンのプレビュー{#preview-a-web-campaign}
 
@@ -119,7 +119,7 @@ Webキャンペーンページで、プレビューするWebキャンペーン�
 
 ## Webキャンペーンの削除{#delete-a-web-campaign}
 
-1. Webキャンペーンページで、削除するWebキャンペーンの**削除**をクリックします。
+1. Webキャンペーンページで、削除するWebキャンペーンーの&#x200B;**削除**&#x200B;をクリックします。
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,6 +127,6 @@ Webキャンペーンページで、プレビューするWebキャンペーン�
 
 >[!MORELIKETHIS]
 >
->* [ゾーン内の新しいWebキャンペーンの作成](create-a-new-in-zone-web-campaign.md)
->* [新しいダイアログWebキャンペーンの作成](create-a-new-dialog-web-campaign.md)
+>* [ゾーン内の新しいWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [新しいダイアログWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
