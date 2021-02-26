@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: 特定のラベルからの表示Webキャンペーン- Marketto Docs — 製品ドキュメント
 title: 特定のラベルからの表示Webキャンペーン
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 既存のラベルでフィルタ{#filter-by-existing-labels}
 
-1. **Web** **キャンペーン**&#x200B;に移動します。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Webキャンペーンのラベル付け](label-your-web-campaigns.md)
->* [特定のラベルの表示セグメント](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [セグメントのラベル付け](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Webキャンペーンのラベル付け](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [特定のラベルの表示セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [セグメントのラベル付け](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
