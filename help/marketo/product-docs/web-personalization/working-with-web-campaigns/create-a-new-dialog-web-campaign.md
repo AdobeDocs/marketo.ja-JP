@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 新しいダイアログWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
 title: 新しいダイアログWebキャンペーンの作成
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Webキャンペーンーを作成して、Webコンテンツをリアルタイムでパーソナライズし、適切なユーザーに適切なメッセージを適切なタイミングで提供します。
 
-ウェブキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応です。 反応は、ウェブサイトのダイアログボックス、ゾーンの置き換え](create-a-new-in-zone-web-campaign.md)の[、[ウィジェットの機能](create-a-new-widget-web-campaign.md)、電子メールの警告などです。
+ウェブキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応です。 反応は、ウェブサイトのダイアログボックス、ゾーンの置き換え](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)の[、[ウィジェットの機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、電子メールの警告などです。
 
 1. **Webキャンペーン**&#x200B;に移動します。
 
@@ -41,7 +41,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
  <tbody> 
   <tr> 
    <td colspan="1"><strong>表示日</strong></td> 
-   <td colspan="1">Webキャンペーンーの<a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
+   <td colspan="1">Webキャンペーンーの<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>ダイアログのスタイル</strong></td> 
@@ -111,7 +111,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
   </tr> 
   <tr> 
    <td colspan="1"><strong>リッチテキストエディタ</strong></td> 
-   <td colspan="1"><p>リッチテキストエディターでは、テキストの書式設定、リンク、および画像の挿入が可能です。 <a href="using-the-web-personalization-rich-text-editor.md">詳しくはこちら</a>。</p></td> 
+   <td colspan="1"><p>リッチテキストエディターでは、テキストの書式設定、リンク、および画像の挿入が可能です。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">詳しくはこちら</a>。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>サイトでのプレビュー</strong></td> 
@@ -128,17 +128,17 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
 
 >[!TIP]
 >
->組み込みのテンプレート](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を使用するか、既存のキャンペーン](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を再利用用のテンプレートとして保存することで、キャンペーンの作成プロセスを迅速化し、シンプル化します。[[
+>組み込みのテンプレート](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を使用するか、既存のキャンペーン](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を再利用用のテンプレートとして保存することで、キャンペーンの作成プロセスを迅速化し、シンプル化します。[[
 
 ## Webキャンペーンの編集{#edit-a-web-campaign}
 
-1. **Web** **キャンペーン**&#x200B;ページから、Webキャンペーンーの&#x200B;**編集**&#x200B;をクリックします。
+1. **Webキャンペーンー**&#x200B;ページから、Webキャンペーンーの&#x200B;**「編集**」をクリックします。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+>必要なWebキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 ## Webキャンペーンのプレビュー{#preview-a-web-campaign}
 
@@ -148,11 +148,11 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
 
 ## Webキャンペーンのコピー{#clone-a-web-campaign}
 
-[Webキャンペーンーのコピー](clone-a-web-campaign.md)を参照してください。
+[Webキャンペーンーのコピー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
 
 ## Webキャンペーンの削除{#delete-a-web-campaign}
 
-1. **Webキャンペーン**&#x200B;ページで、削除するWebキャンペーンーの**削除**をクリックします。
+1. **Webキャンペーンー**&#x200B;ページから、削除するWebキャンペーンーの&#x200B;**削除**&#x200B;をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +160,6 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
 
 >[!MORELIKETHIS]
 >
->* [ゾーン内の新しいWebキャンペーンの作成](create-a-new-in-zone-web-campaign.md)
->* [新しいウィジェットWebキャンペーンの作成](create-a-new-widget-web-campaign.md)
+>* [「Create a RTP In Zone」キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTPウィジェットキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
