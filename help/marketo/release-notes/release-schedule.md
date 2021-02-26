@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: リリーススケジュール — Marketto Docs — 製品ドキュメント
 title: リリーススケジュール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ ht-degree: 0%
    <th width="250px">進行状況</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">20年1月</a></td> 
-   <td colspan="1">2020年1月18日</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">2010年1月</td> 
+   <td colspan="1">2021年1月16日</td> 
+   <td colspan="1">出荷済み</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">20年2月</a></td> 
-   <td colspan="1">2020年2月21日</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21年5月</td> 
+   <td colspan="1">2021年5月7日</td> 
+   <td colspan="1">進行中</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">20年6月</a></td> 
-   <td colspan="1">2020年6月6日</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">21年8月</td> 
+   <td colspan="1">2021年8月13日</td> 
+   <td colspan="1">予定通り</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">20年7月</a></td> 
-   <td colspan="1">2020年7月31日</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">20年10月</td> 
-   <td colspan="1">2020年10月16日</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">10月22日</td> 
+   <td colspan="1">2021年10月16日</td> 
+   <td colspan="1">予定通り</td> 
   </tr> 
  </tbody> 
 </table>
-
