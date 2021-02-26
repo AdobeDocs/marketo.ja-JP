@@ -3,9 +3,9 @@ unique-page-id: 10097100
 description: Webキャンペーンのスケジュール — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのスケジュール
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Web訪問者の時刻または選択したタイムゾーンに基づいて、We
 
    >[!NOTE]
    >
-   >必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+   >必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 1. キャンペーンステータスメニューを開き、**スケジュール**&#x200B;を選択します。
 
@@ -59,11 +59,10 @@ Web訪問者の時刻または選択したタイムゾーンに基づいて、We
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. キャンペーンページのキャンペーンのステータスが「**予定**」に変わり、時計/カレンダーアイコンが表示されます。 キャンペーンスケジュールを編集するには、このアイコンをクリックします。
+1. キャンペーンページのキャンペーンのステータスが&#x200B;**スケジュール済み**&#x200B;に変わり、時計/カレンダーアイコンが表示されます。 キャンペーンスケジュールを編集するには、このアイコンをクリックします。
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >キャンペーンのステータスは、選択したスケジュールされた時間中にキャンペーンが実行中でも、**スケジュール済み**&#x200B;のままです。 スケジュールされた終了日が過ぎると、キャンペーンのステータスが&#x200B;**一時停止**&#x200B;に変わります。
-
