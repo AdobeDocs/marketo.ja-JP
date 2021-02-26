@@ -3,9 +3,9 @@ unique-page-id: 8782266
 description: Webキャンペーンの優先順位付け — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンの優先順位の設定
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 1. キャンペーンを編集ページで、優先度スコア（9999 =最高の優先度1 =最低の優先度）を設定します。
 
