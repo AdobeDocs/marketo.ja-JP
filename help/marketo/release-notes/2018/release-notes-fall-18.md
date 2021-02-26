@@ -3,9 +3,9 @@ unique-page-id: 15695939
 description: リリースノート — 18年秋 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 18年秋
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
 ## マーケティング担当営業{#marketo-sales-engage}
 
-* **SFDC Lightningのサポート**:Lightningに移行中または現在移行中のユーザーは、MSEを利用して購入者の遍歴を通じて効率的なエンゲージメントを実現できます。
+* **SFDC Lightningのサポート**:Lightningに移行中または現在移行中のユーザーは、MSEを利用して購入者のジャーニー全体で効率的なエンゲージメントを実現できます。
 
 * **サポートの拡張：Microsoft Office**
 
@@ -49,7 +49,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
 * **マーケティングアクティビティのホームページ**:マーケティングアクティビティのホームページから一般的な機能にすばやくアクセスできます。
 
-   * 特定のアクション(開始の新しいプログラムやスマートキャンペーンなど)を実行し、今日実行予定のプログラムやキャンペーン、最近更新されたプログラムやアセット、アクティブなトリガーキャンペーンの合計数など、現在のプログラムに関する重要な情報を確認します。
+   * 特定のアクション(開始の新しいプログラムやスマートキャンペーンなど)を実行し、現在実行される予定のプログラムやキャンペーン、最近更新されたプログラムやアセット、アクティブなトリガーキャンペーンの合計数など、現在のプログラムに関する重要な情報を確認します。
 
 * **Design Studioの更新**:Design Studioの使用経験が再設計され、迅速かつ生産性の向上に役立ちます。
 * Design Studioホームページ：新しいアセットの作成、画像やファイルのドラッグ&amp;ドロップ、既存のすべてのアセットの管理を行います。
@@ -74,7 +74,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
    * 会社のIDプロバイダーと資格情報を使用してBizible Webアプリケーションにサインインできるようになりました。これは企業のセキュリティ要件に準拠しています。
 
-**[Marketto Performance Insightsの機能強化](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketto Performance Insightsの機能強化](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **操作性の強化**
 
@@ -88,7 +88,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
 ## 広告ネットワーク{#ad-networks}
 
-**[更新トークン](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[更新トークン](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 アドビのリターゲティングおよびLinkedInのリードジェネレーションフォームソリューションには更新トークンが実装されており、アクセス時間を1年に延長して再認証が必要になります。
 
