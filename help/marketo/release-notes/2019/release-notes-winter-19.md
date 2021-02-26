@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: リリースノート — Winter 19 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 >[!NOTE]
 >
->Microsoftは、すべてのオンラインユーザーに対して、最新バージョンのMicrosoft Dynamicsへのアップグレードを要求しています。 MarketoインスタンスをDynamics Onlineと統合する場合、統合が引き続き機能するように、**2019年1月31日**&#x200B;の前に、Marketo Solutionの最新バージョン](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)に[アップグレードする必要があります。
+>Microsoftは、すべてのオンラインユーザーに対して、最新バージョンのMicrosoft Dynamicsへのアップグレードを要求しています。 MarketoインスタンスをDynamics Onlineと統合する場合、統合が引き続き機能するように、**2019年1月31日**&#x200B;の前に、Marketo Solutionの最新バージョン](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)に[アップグレードする必要があります。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 ## コアプラットフォームの強化{#core-platform-enhancements}
 
-** [Marketto Emails](../../product-docs/email-marketing/general/email-cc.md)の電子メールCC**
+**[Marketto Emailの電子メールCC](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 受信者1人あたり最大5つのCCアドレスを、マーケティング担当者経由で送信される電子メールに含めます。
 
@@ -40,7 +40,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 * **アセットAPIのマルチブランドドメインのサポート：アセットの** 承認と複製は、APIとUIで同じ結果になります。
 * **Asset APIの電子メールCCサポート**:APIを使用した電子メールの複製、承認、および処理を行うユーザーは、UI設定と同一性を維持します。
 
-** [Munchkin v155 （ベータ版）](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 （ベータ）](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **APIのみのモード**:ユーザーは、マーケティング担当者の自動追跡に依存する代わりに、単一ページのWebアプリでWebページ訪問を記録するタイミングを明示的に呼び出すことで、データベースのメンバーを追跡するタイミングと方法を決定できるようになりました。
 * **オプトアウト管理**:オプトアウトcookieドメインをMunchkin追跡cookieドメインと一致させることで、オプトアウトを簡単に管理できます。
@@ -54,8 +54,8 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 * **Email Service**:Microsoft Outlookに（[電子メール接続]タブのOffice365またはOn-Prem経由で）接続することで、配信品質と、返信追跡機能、スケジュール済みの電子メール機能、およびバルク電子メール機能が向上しました。
 * **新しい管理設定**:Sales Engageインスタンスを最適化する2つの管理ページが追加されました。
 
-   * *チーム* 管理では、管理者が購読やチームを編集できるようにすることで、シームレスなアカウント設定プロセスをサポートしています。
-   * *Salesforce管理者* 設定シェルプチームは、SFDC同期を以前に比べて迅速かつ容易に設定します。
+   * _チーム_ 管理では、管理者が購読やチームを編集できるようにすることで、シームレスなアカウント設定プロセスをサポートしています。
+   * _Salesforce管理者_ 設定シェルプチームは、SFDC同期を以前に比べて迅速かつ容易に設定します。
 
 * **OWA Plugin for Windows**:1つのアドインを1つ追加すると、Windows Office 365のすべてのクライアントがSales Engageでサポートされ、Outlookでライブフィードを使用できます。新しいプラグインがMicrosoft Storeで入手できます。
 * **アクティビティプッシャー**:販売を同期してコアマーケティングプラットフォームに関与させ、リアルタイムのマーケティングインサイトを活用します。
@@ -64,7 +64,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 >[!NOTE]
 >
->Marketo Skyリリースは、より頻繁に行われます。 第4四半期前半には、以下の機能および機能強化がリリースされる予定です。 詳細と更新情報については、[Skyのドキュメント](https://help.marketo.com/hc/en-us/articles/360012858573)を参照してください。
+>Marketo Skyリリースは、より頻繁に行われます。 第4四半期前半には、以下の機能および機能強化がリリースされる予定です。 詳細と更新情報については、[Skyのドキュメント](https://help.marketo.com/)を参照してください。
 
 * **デフォルトエクスペリエンス**（オプション）:管理者からアクセス権が付与されている場合、マーケティング担当者は、Marketo Skyをデフォルトのエクスペリエンスとして設定できます。
 
@@ -81,7 +81,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 ## アカウントベースのマーケティング{#account-based-marketing}
 
-** [ABM Persona-Based Segmentation &amp; Filtering](../../product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personaベースのセグメント化とフィルタリング](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 名前付きアカウント内の特定の個人に合わせてABMキャンペーンをパーソナライズします。 ABM Persona機能は、リードのセグメント化に基づいてデフォルトの役職を作成し、追加のパーソナルセグメントを設定できます。
 
