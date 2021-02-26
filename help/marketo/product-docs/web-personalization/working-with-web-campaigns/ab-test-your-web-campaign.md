@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: Webキャンペーンー — Marketto Docs — 製品ドキュメントをABテスト
 title: WebキャンペーンのABテスト
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 テストは、Webキャンペーンを最適化してより効果的に取り組むための優れた方法です。 開始方法を次に示します。
 
-パーソナライズされたキャンペーンをA/Bテストするには、2つ以上のキャンペーンを選択し、同じ&#x200B;**Split Test**&#x200B;グループに関連付け、**Auto-Tune**&#x200B;を選択して、最もパフォーマンスの高いキャンペーンを自動的に続行します。
+パーソナライズされたキャンペーンをA/Bテストするには、2つ以上のキャンペーンを選択し、同じ&#x200B;**テストを分割**&#x200B;グループに関連付け、**自動調整**&#x200B;を選択して、最もパフォーマンスの高いキャンペーンを自動的に続行します。
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なキャンペーンを見つけやすくするには、[フィルター機能](filter-web-campaigns.md)を使用します。
+   >必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 1. A/Bテストの最初のキャンペーンを選択します。 「**編集**」をクリックします。
 
@@ -39,30 +39,31 @@ ht-degree: 0%
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. **Split Testing Group Name**&#x200B;を入力し、「**作成」をクリックします。**「自動調整」を&#x200B;**選択します。**
+1. **テストグループ名の分割**&#x200B;を入力し、**作成**&#x200B;をクリックします。 「**自動調整**」を選択します。
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. ****または**&#x200B;を保存**キャンペーンを起動します。
+1. **キャンペーン** を保存または **** 起動します。
 
    >[!TIP]
    >
    >「**自動調整**」を選択すると、Webパーソナライゼーションプラットフォームはパフォーマンスの高い分割テストキャンペーンを自動的に認識し、他のキャンペーンを一時停止しながら、最も高いコンバージョン率を維持します。
 
 1. 2番目のキャンペーンで上記の処理を繰り返します。
+
 1. A/Bテストを行う2番目のキャンペーンを選択します。 「**編集**」をクリックします。
 
-   ** ![](assets/image2016-11-4-13-3a51-3a39.png)
+   ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-   **
-
-1. **キャンペーン**&#x200B;を設定ページで、「**S***テスト**」を選択し、ドロップダウンから「**グループ**」を選択します。 「**自動調整**」を選択します。
+1. **キャンペーン**&#x200B;を設定ページで、「**テストを分割**」を選択し、ドロップダウンから「**グループ**」を選択します。 「**自動調整**」を選択します。
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **保存**または**キャンペーンを起動**します。
+1. **キャンペーン** を保存または **** 起動します。
+
 1. 3つ目または4つ目のキャンペーンをテストする場合は、この手順を繰り返します。
-1. **Web** **キャンペーン**&#x200B;には、A/Bアイコンで示される分割テストキャンペーンが表示されます。
+
+1. **Webキャンペーン**&#x200B;には、A/Bアイコンで示される分割テストキャンペーンが表示されます。
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -73,17 +74,10 @@ ht-degree: 0%
 >1. 様々なコンテンツ要素（ケーススタディAとケーススタディB）を試し、メッセージングとクリエイティブ、色、サイズ、アクションの呼び物を変更します。
 >1. パーソナライズされたコンテンツを最適化し、楽しめます。
 
->
-
-
 
 >[!MORELIKETHIS]
 >
->* [ダイアログキャンペーンの作成](create-a-new-dialog-web-campaign.md)
->* [「Create a RTP In Zone」キャンペーン](create-a-new-in-zone-web-campaign.md)
->* [RTPウィジェットキャンペーンの作成](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [ダイアログキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [「Create a RTP In Zone」キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTPウィジェットキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
