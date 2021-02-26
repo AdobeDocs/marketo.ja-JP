@@ -3,9 +3,9 @@ unique-page-id: 10098884
 description: Webキャンペーンのフィルター — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのフィルタ
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 何百ものウェブパーソナライゼーションキャンペーンを作成すると、フィルターを使用して、興味のあるもののみを表示できるようになります。
 
-1. **Webキャンペーンーに移動します。**
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    ケーキ切れ！
-
