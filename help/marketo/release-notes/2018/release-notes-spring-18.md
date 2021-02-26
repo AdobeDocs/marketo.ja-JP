@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: リリースノート — Spring '18 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Spring '18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Spring 18リリースには、次の機能が含まれています。 Marketing 
 
 ## Marketo Skyオープンベータ版{#marketo-sky-open-beta}
 
-[Marketo Skyオープンベータ](https://help.marketo.com/hc/en-us)
+[Marketo Skyオープンベータ](https://help.marketo.com/)
 
 Marketo Skyオープンベータ版を使用して、以下のような生産性を向上させる新機能を100以上ご利用いただけます。
 
@@ -69,11 +69,11 @@ Marketo Skyオープンベータ版を使用して、以下のような生産性
 
 ナビゲーションの最適化とワークフローの向上により、プログラムの成功基準の可視性とプログラムの詳細へのアクセスが可能になります。
 
-## コンテンツ<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [目標設定](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-より多くの表示、クリックまたはコンバージョンを駆動するコンテンツ<sup>AI</sup>最適化アルゴリズムの目標を設定します。
+より多くの表示、クリックまたはコンバージョンを駆動するContentAI最適化アルゴリズムの目標を設定します。
 
 ## 統合とAPI {#integration-and-apis}
 
