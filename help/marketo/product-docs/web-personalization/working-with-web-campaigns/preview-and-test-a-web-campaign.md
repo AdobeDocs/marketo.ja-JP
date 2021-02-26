@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Webキャンペーンのプレビューとテスト — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンのプレビューとテスト
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 作成ページでのWebキャンペーンのプレビュー{#preview-a-web-campaign-on-the-creation-page}
 
-1. **Web** **キャンペーン**&#x200B;に移動します。
+1. **Webキャンペーン**&#x200B;に移動します。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. 「**新規Webキャンペーンを作成**** **」をクリックするか、既存のキャンペーンを編集するアイコンをクリックします。
+1. 「**新しいWebキャンペーンーを作成**」またはアイコンをクリックして、既存のキャンペーンを編集します。
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)または[Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
+   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj)または[Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
 
 ## ブラウザプラグイン{#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}を使用した作成ページでのWebキャンペーンのプレビュー
 
-1. `section above`の手順1と2に従います。
+1. 上記のセクションの手順1と2に従ってください。
+
 1. ブラウザープラグインへのリンクをクリックします（この場合はChromeを使用します）。
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ ht-degree: 0%
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. セグメントに名前を付けます。
-1. 「行動」で、「ページを含める」をキャンバスにドラッグします。 値追加*sandbox=1*。 「キャンペーンの保存と定義」をクリックします。
+
+1. 「行動」で、「ページを含める」をキャンバスにドラッグします。 値追加*sandbox=1*。 「**キャンペーンを保存して定義**」をクリックします。
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. キャンペーンのクリエイティブを完了し、「**起動**」をクリックします。\
+1. キャンペーンのクリエイティブを完了し、「**起動**」をクリックします。
+
    ![](assets/click-launch.jpg)
 
-1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：[www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：`www.marketo.com?sandbox=1`.
+
 1. Webサイトに対するキャンペーンの反応を確認する。
 
 >[!NOTE]
@@ -102,4 +106,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >リダイレクトキャンペーンはプレビューできません。 これらをテストする唯一の方法は、サンドボックスセグメントを使用することです(特定のページによるターゲット- *sandbox=redirect*)。
-
