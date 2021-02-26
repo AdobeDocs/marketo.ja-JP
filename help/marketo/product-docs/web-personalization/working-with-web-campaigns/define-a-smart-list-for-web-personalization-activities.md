@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: ウェブパーソナライゼーションアクティビティのスマートリストの定義 — Marketto Docs — 製品ドキュメント
 title: Webパーソナライゼーションアクティビティ用のスマートリストの定義
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**ディープダイブ**
-   >
-   >
-   >賢いリストは素晴らしい事をできます 詳しくは、[スマートリストディープダイブ](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+   >賢いリストは素晴らしい事をできます 詳しくは、[スマートリストディープダイブ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
 1. トリガーを検索し、トリガーをキャンバスにドラッグ&amp;ドロップします。
 
@@ -60,16 +57,11 @@ ht-degree: 0%
    >
    >複数のトリガーを使用する場合、いずれかのトリガーがアクティブ化されると、個人がフローに入ります。
 
-   [スマートキャンペーンのスマートリストの定義 |バッチ](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   一連のユーザーに対してキャンペーンを同時に実行するには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [スマートキャンペーンのスマートリストの定義 |バッチ](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [スマ追加ートキャンペーンへのフローステップ](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [予測コンテンツアクティビティのためのスマートリストの定義](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [スマートキャンペーンのスマートリストの定義 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [予測コンテンツアクティビティのためのスマートリストの定義](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-一連のユーザーに対してキャンペーンを同時に実行するには、の方法を学習します。
