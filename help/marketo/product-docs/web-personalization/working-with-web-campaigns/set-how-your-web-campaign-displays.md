@@ -3,9 +3,9 @@ unique-page-id: 12978906
 description: Webキャンペーンーの表示方法の設定 — Marketto Docs — 製品ドキュメント
 title: Webキャンペーンの表示方法の設定
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -74,5 +74,4 @@ WebキャンペーンがWebサイト上で反応する遅延時間（合計秒�
 
 >[!TIP]
 >
->選択した効果が事前にどのように見えるか見る？ [Webキャンペーンプレビュー](preview-and-test-a-web-campaign.md)を使ってチェックアウトします。
-
+>選択した効果が事前にどのように見えるか見る？ [Webキャンペーンプレビュー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)を使ってチェックアウトします。
