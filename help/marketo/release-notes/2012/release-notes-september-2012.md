@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: リリースノート — 2012年9月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年9月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -49,7 +49,7 @@ MarketorイベントとReadyTalkのミーティングをシームレスに接続
 
 ## ウェフック（宝箱） {#webhooks-treasure-chest}
 
-Webhookは、ユーザー定義のHTTPコールバックです。 Marketoから他のサービスにデータをプッシュする優れた方法です。 この機能は、現在、宝箱で使用でき、現時点ではトリガーキャンペーンでのみサポートされています。
+Webhookは、ユーザー定義のHTTPコールバックです。 Marketoから他のサービスにデータをプッシュする優れた方法です。 この機能は現在、宝箱で使用でき、現時点ではトリガーキャンペーンでのみサポートされています。
 
 Webhooksの使用例を次に示します。別のシステムにユーザー名とパスワードの情報をポストし、体験版アカウントを作成する。新しいリードを受け取ったら、SMSテキストメッセージを送信する。
 
@@ -60,4 +60,3 @@ getMultipleLeads API呼び出しに新しいフィルター条件を追加しま
 * 日付範囲
 * 静的リスト名
 * リードキーの配列
-
