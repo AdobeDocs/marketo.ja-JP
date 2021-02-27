@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: リリースノート — Winter '17 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Webキャンペーンーのすべての詳細と解析をCSV形式でエクス�
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [ローカライゼーション](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## ローカライゼーション{#localization}
 
 Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケール](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択して、これらの言語でコンテンツを表示します。
 
@@ -71,7 +71,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[予測コンテンツエディター](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**予測コンテンツエディター**
 
 ソース別にコンテンツの準備（電子メール、リッチメディア、レコメンデーションバー）を分割する、編集操作とレイアウトが改善されました。
 
