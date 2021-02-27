@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: リリースノート — 16年秋 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 16年秋
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 2016年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
-## [電子メール内の予測コンテンツ](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## 電子メール内の予測コンテンツ{#predictive-content-in-email}
 
 アドビの予測コンテンツアプリでは、Webや電子メールのチャネルにわたる機械学習アルゴリズムや予測アルゴリズムを使用して、コンテンツを追跡、管理、および推奨する新しいユーザーエクスペリエンスが提供されます。
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/predictive.png)
 
-## [Facebookオフラインコンバージョン](../../product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)  {#facebook-offline-conversions}
+## [Facebookオフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Facebookのオフラインコンバージョンの統合により、マーケティング担当者のコンバージョンデータ（リード広告のリード）は自動的にFacebookに送り返され、広告チームが広告費用をより最適化できるようになります。 このFacebook広告マネージャーレポートでは、オフラインコンバージョンが強調表示されます。
 
 ![](assets/facebook.png)
 
-## [ユニバーサルID](../../product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [ユニバーサルID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 ユニバーサルIDを使用すると、1回のログインで複数のMarketor購読にアクセスし、購読をすばやく切り替えることができます。 すべての購読に対して1つのコミュニティプロファイルを使用できます。
 
@@ -45,7 +45,7 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 >
 >この機能を有効にするには、マーケティング担当者にお問い合わせください。
 
-## [Marketorアカウントベースのマーケティングの強化](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## Markettoアカウントベースのマーケティングの強化{#marketo-account-based-marketing-enhancements}
 
 次に、アカウント所有者、販売開発担当者、ビジネス開発担当者、顧客サクセスマネージャーなど、アカウントチームをアカウントベースマーケティング(ABM)の指定されたアカウントに割り当てることができます。 また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別ABMレポートをアカウントチームに送信することもできます。
 
@@ -55,11 +55,11 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作の詳細については、[Marketto DevelopersのWebサイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
 
-## [監査証跡の機能強化](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [監査証跡の機能強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 監査証跡は、マーケティング購読内で行われた変更の包括的な履歴を提供します。 プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、およびユーザーとロールに対する変更の重要な変更の詳細を提示する機能を追加しました。
 
-## [新しい権限](../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [新しい権限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
 **電子メールを操作可能にする**
 
@@ -67,9 +67,9 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **キャンペーン制限の編集**
 
-強制できない場合は、[キャンペーン制限](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
+強制できない場合は、[キャンペーン制限](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
 
-## [モバイルプッシュ通知のサウンド](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## [モバイルプッシュ通知のサウンド](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 サウンドを有効にして、iOSのプッシュ通知に豊富さを加えます。 この新機能を使用すると、モバイルデバイスでプッシュ通知が表示されたときに、サウンドをトリガーできます。
 
@@ -78,13 +78,10 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 >* デバイスの所有者は、デバイスの設定でサウンドが再生されないように選択できます。また、アプリの開発者は、アプリ内でデバイスの所有者にサウンドが再生されないようにするオプションを提供できます。
 >* Androidデバイスでプッシュ通知が表示されると、サウンドが自動的に再生されます。
 
->
-
-
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Salesforce暗号化と互換性のあるSales Insight](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Salesforce暗号化と互換性のあるSales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market Sales Insightは、Salesforce Shield Encryptionと互換性があります。 Sales Insightのすべてのお客様は、この最新の管理パッケージ（バージョン1.4359.2）にアップグレードする必要があります。このパッケージは[Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)で入手できます。
 
@@ -99,4 +96,3 @@ Marketo REST APIを使用して、v2.0形式の電子メールの変数とモジ
 ## [Marketor Salesforceの同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 MarketorのSalesforce統合は、MarketorフィールドがSalesforceと同期される方法を改善するために進化しています。 これで、必要に応じて、または必要に応じて、必要に応じて異なる大きなフィールドのグループを同期する代わりに、どのフィールドを含めるかを選択できます。 詳しくは、次のドキュメントを参照してください。[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
-
