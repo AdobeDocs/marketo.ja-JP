@@ -3,25 +3,25 @@ unique-page-id: 6094890
 description: リリースノート — 2015年2月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年2月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
 
-# リリースノート：2015年2月{#release-notes-february}
+# リリースノート：2014年2月{#release-notes-february}
 
 2015年2月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。 ドラムロール…
 
 ## マーケティング自動化の強化{#marketing-automation-enhancements}
 
-** [スマートキャンペーンを移動](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
+**[スマートキャンペーンの移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 喜べ！ ツリーのドラッグ&amp;ドロップまたは移動機能を使用して、プログラムの内外でスマートキャンペーンを移動できるようになりました。
 
-** [Dynamics 2015 （オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) ** — サポート！
+**[Dynamics 2015 （オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  — サポート！
 
 **HTTPS証明書の変更**
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 次のドメインでは、現在使用されているセキュリティプロトコル（SHA-1およびSSL）を、より安全なバージョン(SHA-2(a.k. SHA-256)およびTLS)に置き換えます。
 
-`·` [marketo.net](https://marketo.net) （暗号化されたMunchkinトラフィック）
+* [marketo.net](https://marketo.net) （暗号化されたMunchkinトラフィック）
 
-`·` [marketo.com](https://marketo.com) （メインのSaaSアプリケーション）
+* [marketo.com](https://marketo.com) （メインのSaaSアプリケーション）
 
 これは、このリリース後間もなく発生します。 2015年12月まで、SHA-1プロトコルは[mktoapi.com](https://mktoapi.com)ドメインで一時的にサポートされ、レガシーシステムやアプリケーションの所有者がSHA-2互換でシステムを更新できるようになります。
 
@@ -41,12 +41,12 @@ SSL3のサポートを削除します。 古いWebブラウザーのサポート
 
 ## リアルタイムパーソナライゼーションの機能強化{#real-time-personalization-enhancements}
 
-** [キャンペーンのターゲットURL](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+**[キャンペーンのターゲットURL](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 「ターゲットURL」を使用して、リアルタイムキャンペーンに表示するページ追加を選択します。 この機能は、すべてのキャンペーンの種類(Dialog、In Zone、Widgets)で機能しますが、選択したターゲットURLのみのゾーンIDでキャンペーンがレンダリングされるゾーン内キャンペーンでは特に有用です。 ターゲットの異なるWebページへの複数のURLの追加をサポートします。
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [国と州がアカウントベースのターゲティングに追加](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
+**国および州がアカウントベースのターゲティングに追加されました**
 
 国および州を指定されたアカウントリストに追加できるようになりました。 特定の場所のターゲットキーアカウント見込み客。
