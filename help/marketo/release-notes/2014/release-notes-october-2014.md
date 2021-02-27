@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: リリースノート — 2014年10月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年10月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketing Editionで機能が使用できるかどうかを確認します。 �
 
 ## マーケティングカレンダーでのプログラムフォーカス{#program-focus-in-marketing-calendar}
 
-[マーケティングカレンダーから直接](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) エントリを作成および編集します。
+[マーケティングカレンダーから直接](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) エントリを作成および編集します。
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -34,17 +34,17 @@ APIを使用して、新しいアクティビティやリードへの変更を�
 
 ## MSI - Microsoft Dynamics用のMarketor電子メールの送信{#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Microsoft Dynamicsからのリードと連絡先に関する販売](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 電子メールを送信および追跡します。
+[Microsoft Dynamicsからのリードと連絡先に関する販売](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 電子メールを送信および追跡します。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Microsoft DynamicsのMarketoキャンペーン追加へ{#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Microsoft Dynamics内から直接、Marketo Smart](../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) キャンペーンにリ追加ードと連絡先を送信します。マーケティングでは、販売者が利用できるマーケティングキャンペーンを選択できます。
+[Microsoft Dynamics内から直接、Marketo Smart](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) キャンペーンにリ追加ードと連絡先を送信します。マーケティングでは、販売者が利用できるマーケティングキャンペーンを選択できます。
 
 ## Microsoft Dynamics Syncのカスタムエンティティサポート{#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Microsoft Dynamicsのカスタムオブジェクト](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) データを使用して、スマートリスト、スマートキャンペーン、プログラムでフィルタリングおよびトリガーを行います…
+[Microsoft Dynamicsのカスタムオブジェクト](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) データを使用して、スマートリスト、スマートキャンペーン、プログラムでフィルタリングおよびトリガーを行います…
 
 ## Microsoft Dynamics Syncの株主サポート{#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ Dynamicsからオポチュニティの株主データを同期します。 ま�
 
 ## RTP -キャンペーン用の新しいモバイルテンプレート{#rtp-new-mobile-templates-for-campaigns}
 
-これらの新しいテンプレートを使用して、すばやく簡単に[モバイルキャンペーン](../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を作成します。
+これらの新しいテンプレートを使用して、すばやく簡単に[モバイルキャンペーン](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を作成します。
 
 ## RTP — ユーザーコンテキストAPI {#rtp-user-context-api}
 
@@ -71,4 +71,3 @@ Dynamicsからオポチュニティの株主データを同期します。 ま�
 * RTPキャンペーンの確認内容
 
 詳しくは、[developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/)を参照してください。
-
