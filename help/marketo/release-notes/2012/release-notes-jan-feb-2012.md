@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: リリースノート — 2012年1月/2月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年1月/2月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 1月/2月のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
->[!NOTE]
->
->**ディープダイブ**
->
->その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
-
 ## 高度な動的コンテンツ{#advanced-dynamic-content}
 
-*ProおよびEnterpriseバージョンで利用可能*
+_ProおよびEnterpriseバージョンで利用可能_
 
 高度な動的コンテンツを使用すると、同じメッセージに対して複数のアセットを作成する必要なく、魅力的な電子メール通信やオーディエンスに関連するランディングページを作成できます。 アップグレードされたプレビューアを使用すると、一意の各バージョンを1つの画面に表示できます。
 
@@ -31,7 +25,7 @@ ht-degree: 0%
 
 ## セグメント{#segmentation}
 
-*ProおよびEnterpriseバージョンで利用可能*
+_ProおよびEnterpriseバージョンで利用可能_
 
 セグメントは、セグメントのグループで、販売対象となる個人のグループです。 セグメントは、スマートリストと同様のフィルター条件に基づくルールによって定義されます。 セグメントは、肩書や業界などの人口統計データに基づいたり、訪問されたWebページやクリックされたリンクなどの行動に基づいたりできます。
 
@@ -39,7 +33,7 @@ ht-degree: 0%
 
 ## スニペット{#snippets}
 
-*ProおよびEnterpriseバージョンで利用可能*
+_ProおよびEnterpriseバージョンで利用可能_
 
 リッチコンテンツを保存し、何度も繰り返し使用して静的または動的な電子メールやランディングページを作成できます。
 
@@ -47,7 +41,7 @@ ht-degree: 0%
 
 ## PURL {#purls}
 
-*ProおよびEnterpriseバージョンで利用可能*
+_ProおよびEnterpriseバージョンで利用可能_
 
 パーソナライズされたURL(PURL)を使用することで、マルチタッチマーケティングプログラムで、ダイレクトメールと電子メールの両方のキャンペーンに対して、連絡先固有のURLを作成できるようになりました。
 
@@ -105,4 +99,3 @@ HTMLとテキストの表示を並べて表示
 Fast Moverを取得したプログラムを把握することで、プログラムのリードの速度を把握
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
