@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: リリースノート — 2012年5月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年5月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # リリースノート：2012年5月{#release-notes-may}
-
->[!NOTE]
->
->**ディープダイブ**
->
->その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 ## 電子メールパフォーマンスレポートの再設計{#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ ht-degree: 0%
 
 iOS 5.1以降が必要iPadのみ。
 
-![](assets/image2014-9-23-10-3a14-3a46.png)図3.イベントチェックインホームページ
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+図3. イベントチェックインホームページ
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Salesforceのカスタムフィールドをマッピングして、[マイベス
 ## 拡張リードと連絡先サブスクライブ{#enhanced-lead-and-contact-subscribe}
 
 レコードの詳細ページの新しい「購読」ボタンを使用して、リードに従うか、いつでも連絡先に従います。
-
