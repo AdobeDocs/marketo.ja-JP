@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '7828'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -632,7 +632,7 @@ ht-degree: 0%
             + [フォームフィールドを必須にする](product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
             + [フォームのプレビュー](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [フォームテーマの選択](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
-            + [フォーム「ありがとうございます」ページの設定](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
+            + [「ありがとうございます」ページのフォーム設定](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
          + フォームのアクション{#form-actions}
             + [フ追加ォームの国選択リスト](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [フ追加ォームへのリッチテキスト](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [マーケティングランディングページテンプレートの編集](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [ガイド付きテンプレート内の要素と変数について](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [ガイド付きランディングページテンプレートリスト](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + ガイド付きランディングページテンプレート{#guided-landing-page-templates}
                + [テンプレート1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [テンプレート1 ～ B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
@@ -781,7 +782,7 @@ ht-degree: 0%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1447,7 +1448,7 @@ ht-degree: 0%
             + [レポートのコピー](product-docs/reporting/basic-reporting/report-activity/clone-a-report.md)
             + [レポートの削除](product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
             + [Webレポートでの人または匿名訪問者の表示](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-            + [人事パフォーマンス・レポートのドリル・ダウン](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
+            + [「人」パフォーマンス・レポートのドリル・ダウン](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [レポートをExcelにエクスポートする](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [キャンペーンアクティビティレポートのフィルタリング](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [キャンペーンの電子メールレポートでのアセットのフィルタリング](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
