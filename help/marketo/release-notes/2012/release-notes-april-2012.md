@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: リリースノート — 2012年4月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年4月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # リリースノート：2012年4月{#release-notes-april}
 
 ## セグメントフィルターとトリガー{#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**ディープダイブ**
->
->その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 同じリードグループを一貫してターゲットしているか。 その場合は、スマートリストでリードをターゲティングするためにセグメント化を使用します。 セグメント化を行うと、リードデータベース全体が常にセグメント化され、一貫性を確保するためにプログラム全体で再利用できます。 セグメント化の結果は、リクエスト時にスマートなリストを実行する必要がないので、すばやく取得されます。
 
@@ -63,4 +57,3 @@ Salesforceと購読を同期しない場合、Salesforceを参照するすべて
 トランジションルールの順序を定義できます。
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
