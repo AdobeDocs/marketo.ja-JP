@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: リリースノート —Summer '16 - Marketto Docs — 製品ドキュメント
 title: リリースノート — 16年夏
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Markettoアカウントベースのマーケティングは、1つの統合さ�
 >
 >ABMはMarketo購読のアドオンとして使用できるので、セールス担当者に連絡して導入を依頼してください。
 
-## [監査証跡](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [監査証跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 監査証跡は、マーケティング購読内で行われた変更の包括的な履歴を提供します。 ユーザーと管理者の間で説明責任を作り、予期しない行動の原因を特定し、誰が何をいつ実行しているかを知るセキュリティを提供します。 この情報はいつでも入手でき、次のような質問に答えるのに使用できます。
 
@@ -39,7 +39,7 @@ Markettoアカウントベースのマーケティングは、1つの統合さ�
 
 ![](assets/audit-trail.png)
 
-## [Marketo Vibes SMS LaunchPoint統合](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo Vibes SMS LaunchPoint統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketo内で簡単にSMSメッセージを作成できます。 リッチなマーケティングデータを使用してメッセージをパーソナライズおよびターゲットし、SMSメッセージダッシュボードを使用してパフォーマンスを簡単に監視できます。
 
@@ -72,7 +72,7 @@ Marketo内で簡単にSMSメッセージを作成できます。 リッチなマ
 
 トークンを、挿入画像エクスペリエンスの「外部URL」領域で使用できるようになりました。 `{{my.tokens}}`で画像を指定した場合、電子メールエディタ2.0内でこれらのトークンを参照できるようになりました。電子メールエディタ2.0のキャンバスには、画像が壊れて表示されます。 ただし、電子メールを送信する前に、プレビューおよびサンプルの送信内に表示されます。
 
-## [複数のブランドドメイン](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## 複数のブランドドメイン{#multiple-branding-domains}
 
 E メールトラッキングログのリンクが単一のブランディングドメインでのみブランド化できる日々はなくなりました。 複数のブランディングドメインを追加して、消費者の信頼感を高め、ブランドに焦点を当てて合理化された外観を作成し、電子メールの配信品質を向上させ、各電子メールのトラッキングリンクに使用するブランディングドメインを電子メール単位で選択できるようになりました。
 
