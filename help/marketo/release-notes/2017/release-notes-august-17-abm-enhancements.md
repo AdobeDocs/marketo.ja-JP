@@ -3,7 +3,7 @@ unique-page-id: 12980785
 description: リリースノート — 17年8月のABM機能強化 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 17年8月ABMの機能強化
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -19,15 +19,14 @@ ht-degree: 0%
 
 ## アカウントインサイト{#account-insight}
 
-[アカウント](../../product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md) Insightsは、すぐに使えるABMやアカウントの洞察をセールスチームに提供するGoogle Chromeプラグインです。マーケティングチームと緊密に連携して、アカウントを効果的に関与させることができます。セールスチームは、所有する指定されたアカウントごとに生成されたデータとインサイトを視覚化できます。 これには、アカウントスコアのパーセンタイル、指定されたアカウントの優先順位付けされたリスト、これらのアカウント内の関与した人、およびアカウント内の最近のアクティビティのライブアクティビティストリームが含まれます。
+**[アカウント](/help/marketo/product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)** Insightsは、すぐに使えるABMやアカウントの洞察をセールスチームに提供するGoogle Chromeプラグインです。マーケティングチームと緊密に連携して、アカウントを効果的に関与させることができます。セールスチームは、所有する指定されたアカウントごとに生成されたデータとインサイトを視覚化できます。 これには、アカウントスコアのパーセンタイル、指定されたアカウントの優先順位付けされたリスト、これらのアカウント内の関与した人、およびアカウント内の最近のアクティビティのライブアクティビティストリームが含まれます。
 
 ![](assets/image001.png) ![](assets/image002.png)
 
 ![](assets/image003.png)
 
-## [動的アカウントリスト](../../product-docs/account-based-marketing/target/account-lists.md) {#dynamic-account-lists}
+## [動的アカウントリスト](/help/marketo/product-docs/account-based-marketing/target/account-lists.md) {#dynamic-account-lists}
 
-ABMでアカウントリストを作成する新しい方法を追加します。 既存のアカウントリストに加えて、パブリックCRMアカウント表示から生成される動的なアカウントリストを作成できるようになりました。 CRMアカウント表示は、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、IndustryがHealthcare *で* Revenueが$100Mを超えるアカウントを検索する場合に使用できます。
+ABMでアカウントリストを作成する新しい方法を追加します。 既存のアカウントリストに加えて、パブリックCRMアカウント表示から生成される動的なアカウントリストを作成できるようになりました。 CRMアカウント表示は、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、IndustryがHealthcare _で_ Revenueが$100Mを超えるアカウントを検索する場合に使用できます。
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
-
