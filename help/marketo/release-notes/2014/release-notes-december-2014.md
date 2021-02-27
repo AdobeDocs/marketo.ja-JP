@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: リリースノート — 2014年12月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2014年12月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 販売インサイトレポート{#sales-insight-reports}
 
-[Sales Insight電子メールパフォーマンスレポート](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)では、電子メールおよび販売担当者別の電子メール指標を表示できます。 Salesforce、Microsoft Dynamics、Outlookプラグイン、Gmailプラグイン経由で送信される電子メールをサポートします。
+[Sales Insight電子メールパフォーマンスレポート](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)では、電子メールおよび販売担当者別の電子メール指標を表示できます。 Salesforce、Microsoft Dynamics、Outlookプラグイン、Gmailプラグイン経由で送信される電子メールをサポートします。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## Facebookカスタムオーディエンス{#facebook-custom-audiences}
 
-Marketor管理者が管理者/Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)を介して[Facebookを追加すると、Facebookカスタムオーディエンスを簡単に作成、更新または[置換して、Marketorの静的またはスマートリスト](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)からのリードに置き換えることができます。 静的またはスマートリストのリードグリッドの下部にある新しいFacebookアイコンを探します。
+Marketor管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)を介して[Facebookを追加すると、Facebookカスタムオーディエンスを簡単に作成、更新または[置換して、Marketorの静的またはスマートリスト](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)からのリードに置き換えることができます。 静的またはスマートリストのリードグリッドの下部にある新しいFacebookアイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## ワークスペース間でのクローン作成の改善{#improved-cloning-across-workspaces}
 
-[別のワークスペースに](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) プログラムを複製するのは、これまで以上に簡単でした。「コピー」をクリックすると、コピー先のワークスペースが選択されます。 フォルダーに複製してからフォルダーを移動する必要はなくなりました。
+[別のワークスペースに](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) プログラムを複製するのは、これまで以上に簡単でした。「コピー」をクリックすると、コピー先のワークスペースが選択されます。 フォルダーに複製してからフォルダーを移動する必要はなくなりました。
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Marketor管理者が管理者/Launchpoint](../../product-docs/demand-generation/
 
 ## スマートリストの参照{#reference-smart-list}
 
-[別のワークスペースと共有されるスマートリストは、スマートリストまたはフローを構築する際に](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)参照できます。
+[別のワークスペースと共有されるスマートリストは、スマートリストまたはフローを構築する際に](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 参照できます。
 
 ## リスト読み込みの改善{#list-import-improvements}
 
-[UTF-16、Shift-JISまたはEUC-JPでエンコードされた](../../getting-started/quick-wins/import-a-list-of-people.md) ファイルを読み込みます。アドビでは、UTF-8でエンコードされたファイルを引き続きサポートします。
+[UTF-16、Shift-JISまたはEUC-JPでエンコードされた](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ファイルを読み込みます。アドビでは、UTF-8でエンコードされたファイルを引き続きサポートします。
 
 ## 電子メールスクリプティング{#link-tracking-in-email-scripting}でのリンクトラッキング
 
@@ -94,4 +94,3 @@ Munchkinでは、ページ上の他のJavaScriptの場合に、引き続き迅�
 「ゾーン内」キャンペーンに新しいスライディング効果が追加され、パーソナライズされたコンテンツをページの読み込み時にスライドインできるようになりました。
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
