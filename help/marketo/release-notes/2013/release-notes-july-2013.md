@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: リリースノート — 2013年7月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年7月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2013年7月{#release-notes-july}
 
-7月26日の金曜日の公開に予定されている7月のリリースには、次の機能が含まれています。  利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
-
-リリース後は、各機能の詳細なヘルプ記事については、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ずチェックアウトしてください。
+7月26日の金曜日の公開に予定されている7月のリリースには、次の機能が含まれています。
 
 ## ダッシュボード{#exhausted-content-widget-on-the-dashboard}上の使い果たされたコンテンツウィジェット
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 ## WYSIWYG Editorでのスペルチェックの変更{#changes-to-spell-check-in-wysiwyg-editor}
 
 WYSIWYGエディターでスペルチェック用に使用されるサービスが廃止されました。 置き換えが見つかるまで、「スペルチェック」ボタンをエディターから削除しました。
-
