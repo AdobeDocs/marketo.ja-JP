@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: リリースノート — 2012年6月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年6月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 
 # リリースノート：2012年6月{#release-notes-june}
-
->[!NOTE]
->
->**ディープダイブ**
->
->その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
 
 ## Marketto Lead Managementの機能強化{#marketo-lead-management-enhancements}
 
