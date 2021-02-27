@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: リリースノート — 17年4月のABM機能強化 — Marketto Docs — 製品ドキュメント
 title: リリースノート — ABMの機能強化（2017年4月）
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Marketto ABMは、CRMに関連する行動を変更しています。 今後、M
 アカウントリストに基づいて、指定したアカウントを簡単にフィルターできます。
 
 ![](assets/named-account-filters.png)
-
