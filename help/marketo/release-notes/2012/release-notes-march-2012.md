@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: リリースノート — 2012年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2012年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2012年3月{#release-notes-march}
 
->[!NOTE]
->
->**ディープダイブ**
->
->その他のリリースについては、詳細[リリースノート](https://docs.marketo.com/display/docs/release+notes)を参照してください。
->
->## マイトークンの解決{#resolve-my-tokens}>
+## マイトークンの解決{#resolve-my-tokens}
 
 マイトークン(プログラムトークン)は、電子メールのプレビュー時、テスト用電子メールの送信時、および単一のフローアクションを介してローカル電子メールを送信する際に解決されます。 マイトークンをテストするために、プログラム内にスマートキャンペーンを作成する必要がなくなりました。
 
