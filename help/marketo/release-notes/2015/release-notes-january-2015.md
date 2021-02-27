@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: リリースノート — 2015年1月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年1月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 ## マーケティング自動化の更新{#marketing-automation-updates}
 
-**リック・デコスタの新しい写真！**
-
-RickはSmartBearのMarketo顧客で、[信じがたい写真のコレクション](https://www.flickr.com/photos/rickdecosta)を持っています。 見ろ！
-
-## モバイル対応ランディングページ{#mobile-friendly-landing-pages}
+**モバイル対応ランディングページ**
 
 ランディングページエディター内から[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)のモバイル表示を構築できるようになりました。 デバイスに関係なく効果的にメッセージを配信し、外出先での消費を容易にするためにコンテンツをカスタマイズして関与を促進します。 この機能は、リリース後の1週間を通じて徐々に展開される予定です。
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-ランディングページチュートリアルビデオ —](https://youtu.be/aPQHlG2X6c0)
 
-**新しいReST API呼び出し**
+**新しいREST API呼び出し**
 
 リード&amp;アクティビティReST APIの3つの新しい呼び出し：
 
@@ -57,9 +53,9 @@ RickはSmartBearのMarketo顧客で、[信じがたい写真のコレクショ�
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-RTPタグオプションの更新
+**RTPタグオプションの更新**
 
-[「アカウント設定」の「RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation) タグオプション」が更新され、次の項目が含まれるようになりました。
+「アカウントの設定」の「RTPタグ」オプションが更新され、次の項目が含まれるようになりました。
 
 1. CDNと非同期（推奨タグ）
 1. CDNと同期（高速）
