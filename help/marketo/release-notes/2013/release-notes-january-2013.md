@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: リリースノート — 2013年1月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年1月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Salesforce言語設定がフランス語またはドイツ語のどちらかに�
 プログラムデータの変更フローステップを使用すると、キャンペーンを介して、プログラムメンバーの成功ステータスと成功日を手動で変更できます。 このフロー手順を使用して、誤りを修正したり、意図したとおりにプログラムに参加していない可能性のあるメンバを手動で変更したりできます。
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
