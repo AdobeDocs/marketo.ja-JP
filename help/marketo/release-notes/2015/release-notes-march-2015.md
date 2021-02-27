@@ -3,9 +3,9 @@ unique-page-id: 6095037
 description: リリースノート — 2015年3月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年3月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## カレンダーHD {#calendar-hd}
 
-[カレンダーの新しい表示モードで、チームのマーケティング](https://docs.marketo.com/display/docs/calendar+hd) 活動を表示します。これは、オフィス中のテレビや巨大モニタに最適です。 スマートリストまたはカスタム指標に基づいて目標を設定し、表示します。
+カレンダーの新しい表示モードで、チームのマーケティング活動を表示します。 これは、オフィス中のテレビや巨大モニタに最適です。 スマートリストまたはカスタム指標に基づいて目標を設定し、表示します。
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## Google Adwordsの統合{#google-adwords-integration}
 
-[Google AdWordsアカウントをMarketor](../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)にリンクして、MarketoからGoogle AdWordsにオフラインコンバージョンデータを自動的にアップロードします。 次に、AdWords UIから、条件を満たしたリード、オポチュニティ、新規顧客（または追跡する任意の売上ステージ）に導いたクリックを簡単に確認できます。
+[Google AdWordsアカウントをMarketor](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)にリンクして、MarketoからGoogle AdWordsにオフラインコンバージョンデータを自動的にアップロードします。 次に、AdWords UIから、条件を満たしたリード、オポチュニティ、新規顧客（または追跡する任意の売上ステージ）に導いたクリックを簡単に確認できます。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
 ## 売上高エクスプローラの再設計{#revenue-explorer-redesign}
 
-[売上高](https://docs.marketo.com/display/docs/revenue+explorer) Explorerには、新しい外観と操作性、および新しいサンバーストグラフタイプが追加されました。4月の最初の2週間にこれを展開します。
+Revenue Explorerには、新しいサンバーストグラフタイプと同様、まったく新しいルック&amp;フィールがあります。 4月の最初の2週間にこれを展開します。
 
 ## 新しいアセットREST API {#new-asset-rest-apis}
 
@@ -43,18 +43,14 @@ API](https://developers.marketo.com/documentation/asset-api)を介した電子�
 
 ## Microsoft Dynamics 2015オンプレミス{#microsoft-dynamics-on-premise}
 
-最新のインストーラーでサポートされるようになりました。現在は[アプリケーション](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)からアクセスできます。
+最新のインストーラーでサポートされるようになりました。現在は[アプリケーション](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)からアクセスできます。
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP — リードデータを使用したパーソナライズされたWebエンゲージメント{#rtp-personalized-web-engagement-with-lead-data}
 
-マーケティング担当のリードデータフィールド[を活用して、リアルタイムでセグメント化し、パーソナライズされたコンテンツキャンペーンを作成できます。 ](../../product-docs/web-personalization/using-web-segments/manage-person-data.md)「RTP」でリードデータフィールドを管理し、関連するリードフィールドを追加/削除します。
-
-![](https://lh5.googleusercontent.com/OnjwgUtNi6UxjovgMofQW2DcxCDRSsmyn_cupaw5qYROsDx0FqOc8Y-Un3w-TJG7OEckeDsk9qjQwnqhLJFaiuJFyuatMrXGUdMe9GtRgGojcuet4GUXpuCzbhEu_buqoidW7R4)
+マーケティング担当のリードデータフィールド[を活用して、リアルタイムのセグメント化とパーソナライズされたコンテンツキャンペーンを作成できます。 ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)「RTP」でリードデータフィールドを管理し、関連するリードフィールドを追加/削除します。
 
 ## RTP - Webコンテンツを電子メールまたはプログラムキャンペーン名でパーソナライズ{#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-電子メールからWebに至るまで、チャネル全体のリードとの会話を続行します。 [電子メールのキャンペーンまたはマーケティングアクティビティで使用される](../../product-docs/web-personalization/using-web-segments/web-segments.md) プログラム名に基づいて、受信コンテンツをパーソナライズします。
-
-![](https://lh6.googleusercontent.com/CyX7Kh2dvBmxVtbc44DSfhqepujOsjZxoQ44StHQjgkHbrWoNUO9Bv8g8ZUH_oU-1QRTTltIb9WutoYMO5vnjjDDUmxWKS7Hyi0OSUv6nfe7JXfC-CVhFFUYA6q5kg21D556UEQ)
+電子メールからWebに至るまで、チャネル全体のリードとの会話を続行します。 [電子メールのキャンペーンまたはマーケティングアクティビティで使用される](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) プログラム名に基づいて、受信コンテンツをパーソナライズします。
