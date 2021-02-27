@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: リリースノート — 2013年2月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年2月
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Marketoから公開されたFacebookのタブは、モバイルデバイスを�
 
 ## 準備中：複数モデルのサポート{#coming-soon-support-for-multiple-models}
 
-複数の売上サイクルモデルをサポートする基盤を構築しています。CommunityのRCAに関するアイデア#1を今後のリリースで提案しました。 このリリースでは、モデルとステージの選択をサポートする[スマートリストフィルターやフローステップ](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)の追加選択肢など、いくつかの変更点が見られます。 また、「スマートリストリード」グリッドタブから「リード売上高ステージ」と「リード売上高サイクルモデル」フィールドを移動します。
+複数の売上サイクルモデルをサポートする基盤を構築しています。CommunityのRCAに関するアイデア#1を今後のリリースで提案しました。 このリリースでは、モデルとステージの選択をサポートする[スマートリストフィルターやフローステップ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)の追加選択肢など、いくつかの変更点が見られます。 また、「スマートリストリード」グリッドタブから「リード売上高ステージ」と「リード売上高サイクルモデル」フィールドを移動します。
