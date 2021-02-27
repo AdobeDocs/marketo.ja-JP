@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: リリースノート — 2015年秋 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2015年秋
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## スマートリストの登録{#subscribe-to-a-smart-list}
 
-[スマートリストのサブスクリプションを購入](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[スマートリストのサブスクリプションを購入](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 スマートリストの購読を使用すると、マーケターはスマートリストをエクスポートし、マーケティングチーム（販売チームやテレマーケティングチームなど）を使用しない関係者に電子メールで送信できます。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## マーケティングカスタムオブジェクト{#marketo-custom-objects}
 
-[マーケティングカスタムオブジェクト](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[マーケティングカスタムオブジェクト](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 管理UIからカスタムオブジェクトを簡単に作成できます。 現在、Marketoで1:Nカスタムオブジェクトを作成し、それをリードや会社に結び付ける機能をサポートしています。
 
@@ -39,12 +39,11 @@ ht-degree: 0%
 >
 >MarketorカスタムオブジェクトはSparkでは使用できません。
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Google Chrome用Marketo Insights {#marketo-insights-for-google-chrome}
 
-[Google ChromeのMarketo Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Google ChromeのMarketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Google Mail Sales Insight拡張機能の更新リリースが発表されます。 [Chromeストア](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)で表示します。
 
@@ -58,15 +57,15 @@ Google Mail Sales Insight拡張機能の更新リリースが発表されます�
 
 ## Marketto Mobile Engagement — トークン、サンプルの送信、プレビュー{#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [トークン](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [サンプルを送信](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [プレビュー](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [トークン](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [サンプルを送信](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [プレビュー](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-[トークン](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)を使用して、プッシュ通知を簡単にパーソナライズできます。
+[トークン](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)を使用して、プッシュ通知を簡単にパーソナライズできます。
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-また、プレビュー[を顧客に展開する前に、](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)サンプル](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)のプッシュ通知を[送信することもできます。
+また、プレビュー[を顧客に展開する前に、](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)サンプル](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)のプッシュ通知を[送信することもできます。
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -74,7 +73,7 @@ Google Mail Sales Insight拡張機能の更新リリースが発表されます�
 
 ## 場面{#smart-campaigns-in-moments}のスマートキャンペーン
 
-[場面のスマートキャンペーン](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[場面のスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 スマートキャンペーンを通じて送信された電子メールの統計が、Momentsで使用できるようになりました。 このアップグレードには、次のような機能も含まれます。
 
@@ -87,7 +86,7 @@ Google Mail Sales Insight拡張機能の更新リリースが発表されます�
 
 ## RTP - Content AnalyticsとRecommendations{#rtp-content-analytics-and-recommendations}
 
-[コンテンツ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 分析とRecommendations
+[コンテンツ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 分析とRecommendations
 
 RTPコンテンツ分析は、通常のWeb訪問からのWebコンテンツアセットのパフォーマンス、およびRTPのコンテンツ推奨エンジンから生成された訪問を表示します。
 
@@ -98,13 +97,13 @@ RTPコンテンツ分析は、通常のWeb訪問からのWebコンテンツア�
 RTPのアセットページが、コンテンツ分析とコンテンツRecommendationsに分割されるようになりました。
 
 * **コンテンツ分析：検出され、定義されたすべてのWebコンテンツの表示とダイレクトリードを** 表示し、最もパフォーマンスの高いコンテンツの分析に役立ちます。
-* **コンテンツRecommendations**:RTPの推奨コンテンツと関連するリードアトリビューションからのインプレッション数とクリック数を表示します。このページから、[バー](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine)および[リッチメディア](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)のレコメンデーション用に、コンテンツレコメンデーションを編集して有効にすることもできます。
+* **コンテンツRecommendations**:RTPの推奨コンテンツと関連するリードアトリビューションからのインプレッション数とクリック数を表示します。このページから、[バー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)および[リッチメディア](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)のレコメンデーション用に、コンテンツレコメンデーションを編集して有効にすることもできます。
 
 * これら2つのページのすべてのダイレクトリードデータは、その年の開始（2015年1月1日）以降、遡及的に更新されています。
 
 ## RTP - RTPキャンペーンのクローン{#rtp-clone-an-rtp-campaign}
 
-[RTP:RTPキャンペーンのクローンを作成](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP:RTPキャンペーンのクローンを作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 RTPキャンペーンをクローンすると、より迅速かつ効率的にパーソナライズされたWebキャンペーンを作成できます。 RTPのキャンペーンページのクローン機能を使用して、キャンペーン設定をコピーし、分割テストの最適化のコンテンツを変更したり、同じコンテンツを持つキャンペーンをコピーして別のセグメントにターゲットしたりします。 数秒でキャンペーンを作成！
 
@@ -116,52 +115,35 @@ RTPキャンペーンをクローンすると、より迅速かつ効率的に�
 
 * HTMLコード内でのVMLのサポートが終了しました。
 
-   ```
-   <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-   ```
-
-   ```
-   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-   ```
-
-   ```
-   </v:background>
-   ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * 有効なHTMLコメントに何でも挿入できるようになりました（以前は、以下のような構文が削除されていました）。
 
-   ```
-   <!--[if gte mso 9]> 
-   ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-   ```
-   <![endif]-->
-   ```
-
-* 空のテーブルセルを`**`で埋め込まない
+* 空のテーブルセルを`&nbsp;`で埋め込まない
 
 * HTMLソースエディターに追加される最大化/最小化ボタン
 * 既存のテーブルプロパティが識別され、テーブルプロパティダイアログに表示されるようになりました
 * ボタンの両方の行がデフォルトで表示されるようになりました。
 * エディターは、任意の要素（非推奨または非標準の要素も含む）を受け入れるようになります。
 
-   ```
-   <myCustomElement>Hello World!</myCustomElement>
-   ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * エディタは、任意の属性（非推奨または非標準の属性も含む）を受け入れるようになります。
 
-   ```
-   <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-   ```
-
-   ```
-   <td background="someImage.png"> 
-   ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics — 同期の検証{#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics — 同期の検証](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics — 同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 この新しい管理ツールは、一連のチェックを実行し、同期設定が正しく設定されているかどうかを確認します。
 
