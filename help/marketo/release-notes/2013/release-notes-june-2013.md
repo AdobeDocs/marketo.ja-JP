@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: リリースノート — 2013年6月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2013年6月
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # リリースノート：2013年6月{#release-notes-june}
 
-6月のリリースには次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php)を確認してください。
-
-リリース後は、各機能の詳細なナレッジベース記事について、コミュニティの「[新しいリリース](release-notes-december-2013.md)」タブを必ず調べてください。
+6月のリリースには次の機能が含まれています。
 
 ## 追加のユーザー言語{#additional-user-languages}
 
@@ -42,4 +40,3 @@ ht-degree: 0%
 デフォルトでは、Select SMB EditionとEnterprise Edition用の15モデルの2つのモデルが利用できます。 他のモデルも購入できます。
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
