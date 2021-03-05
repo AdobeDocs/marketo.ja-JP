@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: 購読解除 — Marketto Docs — 製品ドキュメントの再登録
 title: 登録解除
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ ht-degree: 0%
 1. ユーザーが電子メールの受信をオプトインし直す理由を選択し、「**登録解除**」をクリックします。
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>登録解除の同期を有効にした場合、Salesforceのレコードのオプトアウトボックスもオフにする必要があります。オフにしないと、Sales Connectのユーザーが登録解除され、夜間同期でSalesforceのユーザーが登録解除されます。 どちらかのレコードが登録/登録解除されオプトアウトた場合、同期はリンクされたレコードを登録済みとマークします。
