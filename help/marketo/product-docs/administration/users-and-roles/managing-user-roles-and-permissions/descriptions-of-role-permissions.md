@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: ロール権限の説明 — マーケティングツールドキュメント — 製品ドキュメント
 title: ロール権限の説明
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 読み取り/書き込みオポチュニティ
 * 読み取り/書き込み販売担当者
 
-Analyticsへのアクセス
+## Analyticsにアクセス{#access-analytics}
 
 未選択の場合を除き、Analyticsのタブ、電子メールインサイト、レポートおよび以下の3つの項目にユーザーがアクセスできるようにします。
 
@@ -96,7 +96,7 @@ Analyticsへのアクセス
 
 ## カレンダーPresentationsにアクセス{#access-calendar-presentations}
 
-カレンダーのプレゼンテーションにアクセスできるようにします。 — 下部にPresentationsのボタンを表示できますか。
+カレンダープレゼンテーションにアクセスできるようにします。下部にPresentationsボタンを表示できます。
 
 * カレンダーの編集Presentations — ユーザーがカレンダー内のプレゼンテーションを編集できるようにします。
 
