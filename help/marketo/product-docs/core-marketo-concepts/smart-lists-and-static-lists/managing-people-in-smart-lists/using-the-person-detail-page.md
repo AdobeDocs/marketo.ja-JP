@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 個人の詳細ページ — Marketto Docs — 製品ドキュメントの使用
 title: 「個人詳細」ページの使用
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ ht-degree: 0%
 | Microsoftリードフィールド | 組み込みのMicrosoftフィールド |
 | アクティビティログ | その人に関連するすべてのアクティビティ。 |
 
+>[!NOTE]
+>
+>また、CRMと同期されていないインスタンスのオポチュニティ情報[がAPI](http://developers.marketo.com/rest-api/lead-database/opportunities/)から挿入されていることも確認できます。
+
 ## フィールドの編集{#editing-a-field}
 
 編集可能なフィールドが多数あります。 ユーザーの情報を更新するには、新しい値を入力し、フィールドの外側をクリックして保存します。
@@ -92,10 +96,10 @@ ht-degree: 0%
 >
 >一部のフィールドは編集できません&#x200B;__:
 >
+>* アクティビティログ
 >* 会社情報
 >* SFDCの連絡先のオポチュニティ
 >* 「作成日」や「元のソースタイプ」など、マーケティング担当者に固有のフィールドがあります。
->* アクティビティログ
 
 >
 >
