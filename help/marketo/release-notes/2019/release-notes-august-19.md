@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: リリースノート — 19年8月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年8月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 **Marketo Sales Connect** ![（スター）](assets/star-yellow.svg)
 
-* **オンボーディング**:ステップバイステップのチュートリアルに従って、新しいユーザをインスタンスのセットアップで導くことで、オンボーディングを簡単に、より効率的に行うことができます。
 * **人物ページレイアウトの強化：新しい人物ページレイアウトのリストインポートとバルクアクションを使用して、人物およびグループを** 管理します。
 
 >[!AVAILABILITY]
