@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: リリースノート — 2019年6月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年6月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Salesforceカスタマイズのバルクアクション**:Salesforceのカスタマイズ機能を使用して、電子メールを送信し、キャンペーンに連絡先を追加して、生産性を最大化できます。
-* **選択、ドラッグ&amp;ドロップ**:テンプレートを直感的なカテゴリにドラッグ&amp;ドロップする機能により、Sales Connectインスタンスを簡単に整理できます。
 * **設定 — 管理者用および非管理者用のSalesforceページ**:Sales Connectに接続されたSalesforceインスタンスの明確な表示と、Salesforceへの「My Email to Salesforce」の更新を使用して、Sales Connectインスタンスを管理します。今後数か月間に、管理者、非管理者、およびチーム全体の同期の同期設定が強化されます。
 * **設定 — 統合ページ**:すべての統合を1ヵ所で行えるので、オープンなエコシステムを最大限に活用できます。
 * **設定 —プロファイルページ**:アカウントの詳細を表示して更新し、パスワードを変更して、この新しいプロファイルページでインスタンスの実装のステータスを確認します。
