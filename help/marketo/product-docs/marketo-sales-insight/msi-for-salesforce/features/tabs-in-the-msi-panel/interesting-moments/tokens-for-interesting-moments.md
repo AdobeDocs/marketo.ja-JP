@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 興味深い瞬間のトークン — Marketto Docs — 製品ドキュメント
 title: 興味深い瞬間のトークン
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,9 @@ ht-degree: 0%
 
 * `{{trigger.Trigger Name}}` それは常に実際のトリガーそのものです次に例を示します。電子メール内のリンクをクリックします。
 * `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。次に例を示します。「Webページ上のクリック数リンク」はURLであり、Salesforceトリガーなどの件名です。
-* 制約に基づいて、その他のトリガーを使用できます。以下に示します。
+* 制約に基づいて追加のトリガーを使用できます。以下に示します。
+
+**電子メールトリガー**
 
 <table> 
  <colgroup> 
@@ -41,6 +43,9 @@ ht-degree: 0%
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,6 +61,10 @@ ht-degree: 0%
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>電子メール内のリンクをクリック</td> 
@@ -69,6 +78,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>電子メールのバウンス（ハード）</td> 
@@ -82,6 +95,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>電子メールのバウンス（ソフト）</td> 
@@ -95,6 +112,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>電子メールが配信される</td> 
@@ -108,6 +129,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>電子メールを開く</td> 
@@ -121,6 +146,44 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>友達の電子メールに転送を受信</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>友達の電子メールに転送</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td>
   </tr> 
   <tr> 
    <td>電子メールから登録解除</td> 
@@ -130,10 +193,54 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Salesforceトリガー**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>販売の電子メール内のクリック数リンク</td> 
@@ -141,64 +248,505 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><br></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>送信済みの販売メール</td> 
+   <td>は販売の電子メールで送信</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>販売の電子メールを開きます</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>受信した販売の電子メール</td> 
+   <td>販売の電子メールのバウンス</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">販売の電子メールがバウンス</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>販売の電子メールを受信</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>オポチュニティが更新されました</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>所有者の変更</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>人がコンバージョンされる</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDCから削除されました</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>ユーザーはSFDCと同期</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>オポチュニティから削除</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDCキャンペーンから削除</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>アクティビティがログに記録される</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>アクティビティが更新されました</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>オポチュニティに追加</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDCキャンペーンに追加</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDCキャンペーンでステータスが変更された場合</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Sales Connectトリガー**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>販売の電子メール内のクリック数リンク</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>は販売の電子メールで送信</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>販売の電子メールを開きます</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>販売の電子メールのバウンス</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>販売の電子メールを受信</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>販売キャンペーンに追加</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>所有者の変更</td> 
+   <td>販売キャンペーンから削除</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>受信販売呼び出し</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**その他**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Fills Out Form</td> 
@@ -211,20 +759,45 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">訪問回数ウェブページ*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>訪問回数Webページ</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Webページ上のリンクのクリック数</td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
