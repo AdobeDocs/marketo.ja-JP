@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: リストがリードする電子メール分析レポートの作成 — Marketto Docs — 製品ドキュメント
 title: リストがリードする電子メール分析レポートの作成
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,48 +17,46 @@ ht-degree: 0%
 >
 >この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
 
-次の手順に従って、特定の電子メールを送信したすべてのリードを表示する電子メール分析レポートを作成します。このレポートには、クリックと開く統計も含まれます。 1.売上高エクスプローラを起動します。
+次の手順に従って、特定の電子メールを送信したすべてのリードを表示する電子メール分析レポートを作成します。このレポートには、クリックと開く統計も含まれます。
 
-![](assets/image2014-9-17-19-3a12-3a54.png)
+1. **売上高エクスプローラ**&#x200B;を起動します。
 
-1. 「**新しいレポート**」をクリックします。
+   ![](assets/report-that-lists-leads-1.png)
 
-   ![](assets/image2014-9-17-19-3a13-3a1.png)
+1. 「**新規作成**」をクリックし、「**レポート**」をクリックします。
 
-1. 「電子メール分析」領域を選択し、「**OK**」をクリックします。
+   ![](assets/report-that-lists-leads-2.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a0.png)
+1. 「電子メール分析」を選択し、「**OK**」をクリックします。
+
+   ![](assets/report-that-lists-leads-3.png)
 
 1. 電子メール名の黄色い点を探し、右クリックして「**フィルター**」を選択します。
 
-   ![](assets/image2014-9-17-19-3a14-3a6.png)
+   ![](assets/report-that-lists-leads-4.png)
 
 1. リストから選択した電子メールを重複クリックし、**「OK**」をクリックします。
 
-   ![](assets/image2014-9-17-19-3a14-3a11.png)
+   ![](assets/report-that-lists-leads-5.png)
 
-1. 「電子メール名」の黄色い点を「列」にドラッグします。
+1. **電子メール名**&#x200B;の黄色い点を&#x200B;**列**&#x200B;にドラッグします。
 
-   ![](assets/image2014-9-17-19-3a15-3a0.png)
+   ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
    >リード/会社属性は、列として追加できるものが多数あり、それらを調べてください。
 
-1. フルネームの黄色い点を探し、「行」にドラッグします。
+1. **フルネーム**&#x200B;の黄色い点を探し、**行**&#x200B;にドラッグします。
 
-   ![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/report-that-lists-leads-7.png)
 
-1. 次に、重複をクリックして、目的のメジャーを追加します。
+1. 次に、重複をクリックして、興味のある&#x200B;**メジャー**&#x200B;を追加します。
 
-   ![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
 >このレポートに含まれるデータの量によっては、更新に時間がかかる場合があります。
-
-これで、レポートは次のようになります。
-
-![](assets/image2014-9-17-19-3a16-3a39.png)
 
 任務完了！
