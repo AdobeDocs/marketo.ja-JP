@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '7833'
+source-wordcount: '7857'
 ht-degree: 0%
 
 ---
@@ -210,6 +210,7 @@ ht-degree: 0%
          + [マーケティング先カスタムオブジェクトフィールドの編集と削除](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [カスタムオブジェクトデータの読み込み](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [カスタムオブジェクト変更のトリガー](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [カスタムオブジェクトメタデータの書き出し](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + 設定{#settings}
          + [Analyticsのアトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [マーケティングパスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
@@ -325,6 +326,7 @@ ht-degree: 0%
             + [プログラムステータスの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [変更プログラムの成功](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
          + Microsoft Dynamicsフロー操作{#microsoft-dynamics-flow-actions}
+            + [Dynamicsキャンペーン追加からユーザーを削除する](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Microsoftの所有者の変更](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Microsoftでタスクを作成する](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [ユーザーをMicrosoftに同期](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
@@ -529,6 +531,8 @@ ht-degree: 0%
             + [Microsoft Dynamics同期：オポチュニティの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Microsoft Dynamics同期：ユーザー同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [同期の状態](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
+            + [キャンペーン同期の概要](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
+            + [キャンペーン同期を有効にする](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + カスタムダイナミクス同期フィルタの詳細{#custom-dynmaics-sync-filter-details}
             + [カスタムダイナミクス同期フィルタを作成する](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [電子メールアドレスのカスタム同期フィルター規則](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -580,6 +584,7 @@ ht-degree: 0%
          + [Picklist値追加/Remove Picklist Values](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Salesforce同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [黙示的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需要の生成{#demand-generation}
       + 広告ネットワーク統合{#ad-network-integrations}
          + [LaunchPointサービスとしての追加Facebookカスタムオーディエンス](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -784,7 +789,7 @@ ht-degree: 0%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1645,10 +1650,11 @@ ht-degree: 0%
 + リリースノート{#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + 2020 {#2020}
-      + [リリースノート：20年2月](release-notes/2020/release-notes-feb-20.md)
       + [リリースノート：Jan &#39;20](release-notes/2020/release-notes-jan-20.md)
-      + [リリースノート：20年7月](release-notes/2020/release-notes-july-20.md)
+      + [リリースノート：20年2月](release-notes/2020/release-notes-feb-20.md)
       + [リリースノート：20年6月](release-notes/2020/release-notes-june-20.md)
+      + [リリースノート：20年7月](release-notes/2020/release-notes-july-20.md)
+      + [リリースノート：20年10月](release-notes/2020/release-notes-oct-20.md)
    + 2019 {#2019}
       + [リリースノート：2019年8月](release-notes/2019/release-notes-august-19.md)
       + [リリースノート：19年6月](release-notes/2019/release-notes-june-19.md)
