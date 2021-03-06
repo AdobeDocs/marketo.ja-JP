@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメントを使用してマーケティングの話を伝える
 title: Opportunity Influence Analyzerでマーケティング事例を伝える
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Opportunity Influence Analyzerを使用して、重要なオポチュニティ�
 
    Opportunity Influence Analyzerは、そのオポチュニティに関与するインタラクション、プログラム、イベントの成功を視覚的に表したものです。 グラフを見てみましょう。
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色の** ドッツは、オポチュニティ内の [興味深い](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 瞬間を表しています（電子メールの開封、トレードショーの訪問、ホワイトペーパーのダウンロードなど）。大きい点は、より多くの相互作用を示します。
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色の** ドットは、オポチュニティの中で興味深い瞬間を表します（電子メールの開封、トレードショーの訪問、ホワイトペーパーのダウンロードなど）。大きい点は、より多くの相互作用を示します。
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **バインダー** アイコンはプログラムの成功を示します。
 
