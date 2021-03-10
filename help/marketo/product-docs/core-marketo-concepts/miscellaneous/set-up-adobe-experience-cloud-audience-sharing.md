@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloudオーディエンス共有の設定 — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Cloudオーディエンス共有の設定
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 1. __&#x200B;が既にログインしていない場合は、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（この操作により組織アクセスが検証されます）。
 
-   それだ！ これで、[オーディエンスデータ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)の共有を開始できます。
+それだ！ Adobe Experience Cloudのオーディエンスデータ[を、オーディエンス](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)と[の間で共有したり、](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)同期したりできるようになりました。
