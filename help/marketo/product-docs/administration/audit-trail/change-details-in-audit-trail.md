@@ -137,7 +137,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>モジュールの編集 <module name><attribute> を「value」に設定します。</td> 
+   <td>モジュールの編集 <code>"<module name>" <attribute></code> を「value」に設定します。</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
