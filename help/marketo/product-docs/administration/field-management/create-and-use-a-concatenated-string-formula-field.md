@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: 連結文字列（数式）フィールドの作成と使用 — Marketto Docs — 製品ドキュメント
 title: 連結文字列（数式）フィールドの作成と使用
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)の[トークンの詳細を表示します。
+   >[!TIP]
+   >
+   >フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)の[トークンの詳細を表示します。
 
 1. これで、電子メール内で数式フィールドをトークンとして追加できます。
 
    ![](assets/seven.png)
 
-お疲れさまでした！ これで、性別に基づいてどの挨拶文を含めるかを知るスマートフィールドが作成されました。 楽しんでクリエイティブになれ。
-
 >[!NOTE]
 >
->数式フィールドは、ランディングページ、電子メール、スマートリスト列で使用できます。書き出されません。 数式フィールドを含む電子メールはバッチキャンペーンで送信できません
+>数式フィールドは、ランディングページ、電子メール、スマートリスト列で使用できます（エクスポートされません）。 数式フィールドを持つ電子メールは、バッチキャンペーンを使用して&#x200B;**送信できません**。 このシナリオでは、[電子メールスクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用してください。
+
+お疲れさまでした！ これで、性別に基づいてどの挨拶文を含めるかを知るスマートフィールドが作成されました。 楽しんでクリエイティブになれ。
