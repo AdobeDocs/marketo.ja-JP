@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 監査証跡の詳細の変更 — Marketto Docs — 製品ドキュメント
 title: 監査証跡の詳細の変更
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
    <th colspan="1">詳細の変更</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">デフォルトプログラム<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>デフォルトプログラム</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>作成</td> 
    <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
@@ -91,7 +91,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">電子メール<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>電子メール</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>作成</td> 
    <td>テンプレート「template name」 <br>または<br>を使用して作成され、「asset name」からコピーされます。</td> 
   </tr> 
@@ -132,16 +132,20 @@ ht-degree: 0%
    <td>テンプレート「template_name」から破損した電子メールを編集します(注：これは、コードを直接編集する場合に発生します)。</td> 
   </tr> 
   <tr> 
+   <td>編集</td> 
+   <td>新しい説明"新しい説明"古い説明"古い説明"</td> 
+  </tr> 
+  <tr> 
+   <td>編集</td> 
+   <td>モジュールの編集 <module name><attribute> を「value」に設定します。</td> 
+  </tr> 
+  <tr> 
    <td>削除</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
    <td>名前の変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
-  </tr> 
-  <tr> 
-   <td>編集</td> 
-   <td>新しい説明"新しい説明"古い説明"古い説明"</td> 
   </tr> 
   <tr> 
    <td>クローン</td> 
@@ -163,7 +167,6 @@ ht-degree: 0%
    <td>ドラフト</td> 
    <td>スニペット「snippet name」が承認された<br>または<br>電子メールはテンプレート「template name」が承認されたので、ドラフトされた電子メール</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">電子メールプログラム</td> 
    <td>作成</td> 
    <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
@@ -506,6 +509,14 @@ ht-degree: 0%
   <tr> 
    <td>編集</td> 
    <td>新しい説明「新しい説明」以前の「前の説明」</td> 
+  </tr> 
+  <tr> 
+   <td>編集</td> 
+   <td>「画像」、削除された「画像」、編集された画像コンポーネントの追加</td> 
+  </tr> 
+  <tr> 
+   <td>編集</td> 
+   <td>「リッチテキスト」の追加、「リッチテキスト」の削除、編集されたリッチテキストコンポーネント</td> 
   </tr> 
   <tr> 
    <td>クローン</td> 
