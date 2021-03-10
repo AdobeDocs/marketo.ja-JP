@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 追加Marketoカスタムオブジェクトフィールド — Marketto Docs — 製品ドキュメント
 title: 追加マーケティング先カスタムオブジェクトフィールド
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >重複除外フィールドを作成する場合、それを使用してデータベース内の重複フィールドを削除できます。
+   >重複除外フィールドは、カスタムオブジェクトの取得、更新、削除に使用できます。 すべてのカスタムオブジェクト定義には、重複除外フィールドを少なくとも1つ（3つ以内）含める必要があります。
 
 1. 必要な追加その他のフィールド。
 
@@ -63,6 +63,6 @@ ht-degree: 0%
 >
 >* [追加マーケティング先カスタムオブジェクトリンクフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [マーケティングカスタムオブジェクトの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [マーケティング先カスタムオブジェクトフィールドの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
