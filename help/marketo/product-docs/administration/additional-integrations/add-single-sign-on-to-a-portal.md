@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: ポータルへ追加のシングルサインオン — Marketto Docs — 製品ドキュメント
 title: ポータル追加へのシングルサインオン
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証で�
 ## リクエストの送信方法{#how-to-send-the-request}
 
 * SAML応答であるSSO要求を`https://login.marketo.com/saml/assertion/<your-munchkin-id>`に送信します
-* SPのオーディエンスURLとして使用する。 [https://saml.marketo.com/sp](https://saml.marketo.com/sp)を使用
-* SPNameQualifier属性を使用する場合、SubjectのNameID要素を[https://saml.marketo.com/sp](https://saml.marketo.com/sp)に設定します。
+* SPのオーディエンスURLとして使用する。 `https://saml.marketo.com/sp`を使用
+* SPNameQualifier属性を使用する場合、SubjectのNameID要素を`https://saml.marketo.com/sp`に設定します
 * 複数のMarketor購読を同じSSOプロバイダーに統合する場合、`https://saml.marketo.com/sp/<munchkin_id>`の形式で各Marketorサブに一意のSP URLを使用できます。
 
 >[!NOTE]
@@ -44,6 +44,8 @@ SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証で�
 * **ユーザープロビジョニング**  — ユーザーは、Marketing Targetによって手動でプロビジョニングされます。
 * **認証**  — ユーザー権限はMarketor内で保持されます。
 * **OAuthサポート** - Marketorは現在OAuthをサポートしていません。
+* **ユーザーの自動伝播** - 「ジャストインタイムプロビジョニング」とも呼ばれます。これは、ユーザーの最初のSAMLログインが、アクセスしているWebアプリケーション（例：Marketo）でユーザーを作成でき、手動の管理操作は不要な場合です。現時点では、Marketorはこの機能をサポートしていません。
+* **暗号化** - Marketorは現在、暗号化をサポートしていません。
 
 >[!NOTE]
 >
@@ -59,7 +61,7 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
 
    >[!NOTE]
    >
-   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[[Marketto Support]](https://nation.marketo.com/t5/Support/ct-p/Support)までお問い合わせください。
+   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. 「**SAML設定**」セクションで、「**編集**」をクリックします。
 
@@ -102,3 +104,10 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
    >[!NOTE]
    >
    >これらのページはどちらも公開されている必要があります。
+
+>[!MORELIKETHIS]
+>
+>* [購読ログインでのユニバーサルIDの使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [ユーザーログインをSSOのみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [ユニバーサルIDを持つ2つのインスタンスへのマーケティングユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
