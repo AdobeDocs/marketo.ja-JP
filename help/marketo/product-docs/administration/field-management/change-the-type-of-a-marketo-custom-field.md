@@ -3,7 +3,7 @@ unique-page-id: 2360331
 description: マーケティング先カスタムフィールドのタイプの変更 — マーケティング先ドキュメント — 製品ドキュメント
 title: マーケティング先カスタムフィールドのタイプの変更
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >スコアフィールドと数式フィールドは変更できません。
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. 警告を読み、「**変更**」をクリックして確認します。
 
