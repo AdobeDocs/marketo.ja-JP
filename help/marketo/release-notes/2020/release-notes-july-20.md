@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: リリースノート — 20年7月21日 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2010年7月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ ht-degree: 0%
 次の機能は、四半期に属さないサイクルで提供され、今後数か月間にわたってリリースされます。
 
 * **Formsサービス**:より強力なフォームフィールド構文の検証と、ランディングページ機能用の新しいセキュリティで保護されたドメインで一般的なボットパターンをブロックする機能が導入されています。ボットパターンをブロックすると、スパムフォームの送信を減らし、データベースの品質を向上させることができます。
+
+>[!NOTE]
+>
+>強化されたフォームフィールド構文の検証の完全な展開は、2021年1月のリリース後まで延期されました。
+
 * **Asset API URI Size Limit**:「_method」パラメーターを削除する前に、Uniform Resource Identifier(URI)のサイズ制限が8 KBから65 KBに増えています。長いクエリ文字列を実行する場合、このサイズ制限の増加によって、データの受け渡しがより容易になります。 「_method」パラメーターの削除は、今後のセキュリティアップグレードの一環です。
 
 ## 販売インサイト{#sales-insight}
