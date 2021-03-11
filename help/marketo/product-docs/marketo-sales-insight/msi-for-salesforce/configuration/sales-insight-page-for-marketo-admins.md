@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: マーケティング担当者向けのSales Insightページ — Marketto Docs — 製品ドキュメント
 title: マーケティング担当者向けのSales Insightページ
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 **RSSフィードを有効にする：**
 
-有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。
+有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。 RSSフィードは、「トークン有効期限」機能が無効になっている場合にのみ機能します。
+
+**トークンの有効期限：**
+
+トークンの有効期限は、機能マネージャで制御します。 有効/無効にするには、[Marketto Support](https://nation.marketo.com/t5/Support/ct-p/Support)にご連絡ください。 有効にすると、すべてのマーケティングトークンは10分以内に期限切れになります。 無効にすると、マーケティングトークンは期限切れになりません。
+
+トークンの有効期限を有効にする前に生成されたトークンには、検証の有効期限がないので、その機能が現在有効になっている場合でも期限は切れません。
+
+トークンの有効期限を有効にした後に生成されるトークンの有効期限は10分なので、この機能を無効にした後も10分で期限が切れます。
+
+トークンの動作は、生成されたタイミング（トークンの有効期限機能が有効/無効になった場合）に基づき、現在の機能のステータスではなくなります。
