@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: 購読ログインでのユニバーサルIDの使用 — Marketto Docs — 製品ドキュメント
 title: 購読ログインでのユニバーサルIDの使用
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ ht-degree: 0%
 ## モバイルプラットフォーム{#mobile-platform}
 
 ユニバーサルIDを持つユーザーは、最後にログインした購読から、Marketor MomentsおよびiPadイベントのチェックインアプリケーションにデータを表示できます。 Mobileプラットフォーム自体から購読を変更することはできません。
+
+>[!MORELIKETHIS]
+>
+>* [ポータル追加へのシングルサインオン](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [ユーザーログインをSSOのみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [ユニバーサルIDを持つ2つのインスタンスへのマーケティングユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
