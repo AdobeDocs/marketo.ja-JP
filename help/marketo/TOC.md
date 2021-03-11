@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '7885'
+source-wordcount: '7889'
 ht-degree: 0%
 
 ---
@@ -524,6 +524,7 @@ ht-degree: 0%
                + [手順2/3:DynamicsでのMarket Syncユーザーの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [手順3/3:Microsoft DynamicsとMarketoの接続（オンライン）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
          + Microsoft Dynamics同期の詳細{#microsoft-dynamics-sync-details}
+            + [既定のダイナミクスフィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics同期：アカウントの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics同期：連絡先の同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
             + [Microsoft Dynamics同期：カスタムエンティティ同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
@@ -793,7 +794,7 @@ ht-degree: 0%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
