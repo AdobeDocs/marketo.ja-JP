@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: Adobe Experience Manager統合の設定 — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Manager統合の設定
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ AEMアセットにアクセス、選択およびMarketorのDesign Studioへの�
 
    ![](assets/twelve.png)
 
-   準備万端！ これで、Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993)のDesign StudioにAEMアセットを[読み込むことができるようになりました。
+   準備万端！ これで、Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio)のDesign StudioにAEMアセットを[読み込むことができるようになりました。
