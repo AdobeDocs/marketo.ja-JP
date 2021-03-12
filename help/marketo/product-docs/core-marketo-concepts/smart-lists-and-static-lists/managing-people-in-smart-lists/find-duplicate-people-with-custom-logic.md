@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: カスタムロジックを使用した重複の人物の検索 — Marketto Docs — 製品ドキュメント
 title: カスタムロジックを使用した重複ユーザーの検索
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Marketoには、重複の電子メールアドレスを一致させて、ユー�
    * 姓
    * 更新日時
 
+   >[!NOTE]
+   >
+   >「電子メールアドレス」を除くすべてのフィールドでは、大文字と小文字が区別されます。 したがって、フルネームフィールドに「john doe」を入力すると、John Doeの結果は&#x200B;__&#x200B;返されません。
+
    ![](assets/four-2.png)
 
-   完了！ スマートリストを実行すると、前に選択したフィールドに同じ値を持つ人を検索できます。
+   完了！ スマートリストを実行して、前に選択したフィールドに同じ値を持つ人を検索します。
