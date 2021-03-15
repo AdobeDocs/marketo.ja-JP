@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: マーケティング用語集 — Marketto Docs — 製品ドキュメント
 title: マーケティング用語集
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">この用語は異なる意味を持つ場合があります。<br> — マーケティング担当者のインスタンス自体を、マーケティング担当者のアカウントと呼ぶことができます。<br>-  <strong>ABM</strong>( <strong>ABM</strong> )では、ユーザが決定したアカウントは、ターゲットが追跡したいアカウントです。<br>-ABMでは、CRMアカウントは、リンクされた <strong>CRM</strong> ( <strong>Salesforce</strong>、 <strong>MS Dynamics、</strong> APIのアカウント)からマップされたアカウント <strong></strong>です。<br>-CRMでは、アカウントはリードと連絡先が関連付けられるビジネス/会社です。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">アカウントベースのマーケティング</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">アカウントベースのマーケティング</a> (ABM)</strong></td> 
    <td colspan="1">主要アカウントのターゲットと関与を高度に調整できるアドオン機能です。</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ ht-degree: 0%
    <td colspan="1">（以前のAccountAI）<strong>ABM</strong>では、理想的な顧客プロファイル(ICP)を使用して、データベース内の既存の会社がランク付けされ、ランクがアカウントのスコアとして追加されます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">アカウントスコア</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">アカウントスコア</a></strong></td> 
    <td colspan="1"><strong>ABM</strong>では、アカウントに割り当てられたスコアで、エンゲージメントのレベルを判断するのに役立ちます。</td> 
   </tr> 
   <tr> 
@@ -446,7 +446,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -651,7 +651,7 @@ ht-degree: 0%
    <td colspan="1">個人パーティションは、別々の<strong>データベース</strong>のように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">Marketorの<strong>アカウントベースのマーケティング</strong>では、個人はオーディエンスのサブセットであり、より具体的なターゲティングを行うことができます。</td> 
   </tr> 
   <tr> 
