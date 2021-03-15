@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: リリースノート — Winter '18 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '18
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Salesforce CRM統合には、次の2つの強化点があります。
 
 ## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
 
-**[ABM階層](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM階層](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
 
 SalesforceまたはMicrosoft Dynamicsを使用するABMのお客様の場合、ABMは、CRMで確立された親子関係を自動的に継承（および表示）するようになりました。 これらの関係は、ロールアップレポートとキャンペーンの実行の両方で使用できます。
 
