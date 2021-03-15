@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: リリースノート — Winter 19 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Winter 19リリースには、次の機能が含まれています。 Marketing 
 
 ## アカウントベースのマーケティング{#account-based-marketing}
 
-**[ABM Personaベースのセグメント化とフィルタリング](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[ABM Personaベースのセグメント化とフィルタリング](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 名前付きアカウント内の特定の個人に合わせてABMキャンペーンをパーソナライズします。 ABM Persona機能は、リードのセグメント化に基づいてデフォルトの役職を作成し、追加のパーソナルセグメントを設定できます。
 
