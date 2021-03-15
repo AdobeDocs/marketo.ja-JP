@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: リリースノート — Winter '17 - Marketto Docs — 製品ドキュメント
 title: リリースノート — Winter '17
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
 
-**[名前付きアカウントのインポート](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[名前付きアカウントのインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 「固有のアカウントインポート」オプションを使用する場合は、CSVアップロードを使用して複数のレコードを一度に作成または更新します。
 
