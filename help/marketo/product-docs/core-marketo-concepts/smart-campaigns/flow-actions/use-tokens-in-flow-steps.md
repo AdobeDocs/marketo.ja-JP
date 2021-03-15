@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: フローステップ — Marketto Docs — 製品ドキュメントでのトークンの使用
 title: フローステップでのトークンの使用
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+>[スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 トークンは変数です。 電子メール、ランディングページ、スマートキャンペーンで使用すると、生活が楽になります。 [マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（カスタムトークン）は、フローステップ、Webフック、電子メール、ランディングページで使用できます。 トークンを使用して、次のフロー手順に変数の内容を含めることができます。
 
 * データ値の変更
+* プログラムメンバデータの変更
 * 面白い瞬間
 * Salesforceキャンペーン手順（追加、削除、ステータスの変更）
 * タスクの作成
@@ -43,6 +43,10 @@ ht-degree: 0%
    >[!TIP]
    >
    >複数のトークンは、注目の瞬間、タスクの作成、アラートの送信の各フローステップで使用できます。
+
+   >[!NOTE]
+   >
+   >プログラムメンバのカスタムフィールドトークンは、次の場所で使用できます。タスクの作成、Microsoftでのタスクの作成、おもしろい瞬間、データ値のフローの変更、Webhook
 
    クール！ スマートキャンペーンの実行時に、データがトークンから取得されます。
 
