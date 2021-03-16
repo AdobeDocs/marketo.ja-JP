@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: フィールドの更新のブロック — Marketto Docs — 製品ドキュメント
 title: フィールドの更新をブロックする
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 0%
 1. フィールドを探して選択し、「**フィールドアクション**」で「**フィールドの更新をブロック**」をクリックします。
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >[プログラムメンバのカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)に対する更新もブロックできます。
 
 1. ブロックする&#x200B;**入力ソース**&#x200B;を選択し、**適用**&#x200B;をクリックします。
 
