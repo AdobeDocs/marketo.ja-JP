@@ -3,9 +3,9 @@ unique-page-id: 17728380
 description: リリースノート — 2019年春 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2019年春
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Spring 19リリースには次の機能が含まれています。 Marketing Edi
 
 アカウントベースのマーケティング
 
-**[AccountAINowは一般的に使用でき](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** ます。AccountAIは人工知能を使用して、ABM戦略にターゲットすべきアカウントを明らかにします。
+**[AccountAINowは一般的に使用でき](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** ます。AccountAIは人工知能を使用して、ABM戦略にターゲットすべきアカウントを明らかにします。
 
 <br> 
 
