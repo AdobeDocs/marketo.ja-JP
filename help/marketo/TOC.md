@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [確認事項：主なスキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 製品ドキュメント{#product-docs}
-   + アカウントベースのマーケティング{#account-based-marketing}
+   + ターゲットアカウント管理{#target-account-management}
       + セットアップ{#setup}
-         + [アカウントベースのマーケティングの概要](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [ABM使用の手引き](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [ライセンスの発行](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [権限](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [アカウントスコア](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [アカウントチームの設定](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [CRM検出用のカスタムフィールドの作成](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [アカウントインサイトの設定](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [アカウントインサイトプラグインの概要](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [アカウントインサイトにアクセスするユーザーの招待](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [アカウントベースのマーケティングの概要](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [ABM使用の手引き](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [ライセンスの発行](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [権限](product-docs/target-account-management/setup-tam/permissions.md)
+         + [アカウントスコア](product-docs/target-account-management/setup-tam/account-score.md)
+         + [アカウントチームの設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [CRM検出用のカスタムフィールドの作成](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [アカウントインサイトの設定](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [アカウントインサイトプラグインの概要](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [アカウントインサイトにアクセスするユーザーの招待](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + ターゲット{#target}
          + 名前付きアカウント{#named-accounts}
-            + [固有のアカウントの概要](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [名前付きアカウントのインポート](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [ア追加カウントリストに対する既存の名前付きアカウント](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [名前付きアカウントの作成](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [名前付き追加アカウントのユーザー](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discoverアカウント](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [顧客との照合を引き出す](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [名前付きアカウントでのフィルタ](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [名前付きアカウントの削除](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM階層](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [階層の作成](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [アカウントリスト](product-docs/account-based-marketing/target/account-lists.md)
-         + [LinkedInでの一致したオーディエンスの作成](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [固有のアカウントの概要](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [名前付きアカウントのインポート](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [ア追加カウントリストに対する既存の名前付きアカウント](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [名前付きアカウントの作成](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [名前付き追加アカウントのユーザー](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discoverアカウント](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [顧客との照合を引き出す](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [名前付きアカウントでのフィルタ](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [名前付きアカウントの削除](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM階層](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [階層の作成](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [アカウントリスト](product-docs/target-account-management/target/account-lists.md)
+         + [LinkedInでの一致したオーディエンスの作成](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + {#engage}を関与
-         + [アカウントフィルター](product-docs/account-based-marketing/engage/account-filters.md)
-         + [アカウントトリガー](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [アカウントフィルター](product-docs/target-account-management/engage/account-filters.md)
+         + [アカウントトリガー](product-docs/target-account-management/engage/account-triggers.md)
       + 測定{#measure}
-         + [ABMメインダッシュボード](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABMレポートの設定](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM販売レポート](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [アカウントリストインサイト](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [RCAの「Named Account」Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [名前付きアカウントインサイト](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [人物の使用](product-docs/account-based-marketing/using-personas.md)
+         + [ABMメインダッシュボード](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABMレポートの設定](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM販売レポート](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [アカウントリストインサイト](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCAの「Named Account」Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [名前付きアカウントインサイト](product-docs/target-account-management/measure/named-account-insights.md)
+         + [人物の使用](product-docs/target-account-management/using-personas.md)
    + アカウントプロファイル{#account-profiling}
-      + [アカウント・プロファイリングの設定](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [アカウントプロファイリングのランク付けと調整](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [新しいアカウントの検出](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [アカウント・プロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [アカウントプロファイリングのランク付けと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 追加アプリ{#additional-apps}
       + SEO {#seo}
          + SEOについて{#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [手順3/3:Microsoft DynamicsとMarketoの接続（オンライン）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Dynamics {#set-up-oauth-authentication-for-dynamics}のOAuth認証を設定します
                + [クライアントIDとアプリ登録に関する同意の付与](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [オンライン用Microsoft Dynamics CRMアプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [オンプレミス用Microsoft Dynamics CRMアプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [AD FSのオンプレム、テナント、およびMicrosoft OnlineとAzure ADフェデレーテッド用のMSDをセットアップします](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics同期の詳細{#microsoft-dynamics-sync-details}
             + [既定のダイナミクスフィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics同期：アカウントの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [Picklist値追加/Remove Picklist Values](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Salesforce同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [黙示的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 需要の生成{#demand-generation}
       + 広告ネットワーク統合{#ad-network-integrations}
@@ -797,9 +800,9 @@ ht-degree: 0%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
