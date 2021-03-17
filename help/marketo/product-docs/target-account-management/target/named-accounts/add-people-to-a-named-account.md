@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 特定追加のアカウントにアクセスした人 — Marketto Docs — 製品ドキュメント
 title: 名前付き追加アカウントのユーザー
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 名前付き追加アカウントへのユーザー{#add-people-to-a-named-account}
 
-ABMの名前付きアカウントに手動でユーザーを追加する方法は3つあります。
+TAMの名前付きアカウントに手動でユーザーを追加する方法は3つあります。
 
 ## 単一のフロー操作{#single-flow-action}
 
