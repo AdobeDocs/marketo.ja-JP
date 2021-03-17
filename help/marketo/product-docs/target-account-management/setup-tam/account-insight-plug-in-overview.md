@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: アカウントインサイトプラグインの概要 — Marketto Docs — 製品ドキュメント
 title: アカウントインサイトプラグインの概要
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # アカウントインサイトプラグインの概要{#account-insight-plug-in-overview}
 
-Account Insightは、すぐに使えるABMやアカウントのインサイトをセールスチームに提供するChromeプラグインで、アカウントをより効果的に関与させることができます。
+Account Insightは、すぐに使えるTAMやアカウントの洞察をセールスチームに提供するChromeプラグインで、アカウントをより効果的にエンゲージメントさせることができます。
 
 >[!AVAILABILITY]
 >
->アカウントインサイトは、ABMとMarketo Sales Insightの両方を持つすべての顧客に対して含まれます。 ABMのみをお持ちのお客様の場合、購入したアドオンとしてアカウントインサイトを利用できます。 各顧客は、250個のアカウントインサイトシートに制限されています。 詳細については、担当営業にお問い合わせください。 ABMをお持ちでないお客様はご利用いただけません。
+>アカウントインサイトは、TAMとMarketo Sales Insightの両方を持つすべてのお客様に対して提供されます。 TAMしか持っていないお客様の場合、購入したアドオンとしてアカウントインサイトを利用できます。 各顧客は、250個のアカウントインサイトシートに制限されています。 詳細については、担当営業にお問い合わせください。 TAMを持っていないお客様はご利用いただけません。
 
 >[!CAUTION]
 >
