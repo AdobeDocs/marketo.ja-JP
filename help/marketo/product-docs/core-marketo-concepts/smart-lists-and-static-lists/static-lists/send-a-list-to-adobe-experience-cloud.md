@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: リストをAdobe Experience Cloudに送信 — Marketto Docs — 製品ドキュメント
 title: Adobe Experience Cloudにリストを送る
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -30,31 +30,77 @@ ht-degree: 0%
 * Adobeリアルタイム顧客データプラットフォーム
 * Adobe Target
 
-## リストのエクスポート方法{#how-to-export-a-list}
+## 静的リストの送信方法{#how-to-send-a-static-list}
+
+静的なリストは静的です 手動で行わない限り、Adobe Experience Cloudのリストは変更されません。
 
 1. Marketorで、エクスポートするリストを探して選択します。
 
-   ![](assets/one.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
 1. **リストアクション**&#x200B;ドロップダウンをクリックし、**Experience Cloudに送信**&#x200B;を選択します。
 
-   ![](assets/two-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
 1. 「**Audience Managerフォルダー**」ドロップダウンをクリックし、Experience Cloudー内の目的の保存先フォルダーを選択します。
 
-   ![](assets/three-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
 1. 新しいオーディエンスを作成するか、既存のフォルダを上書きするかを選択します（この例では、新しいを作成します）。 新しいオーディエンス名を入力し、「**送信**」をクリックします。
 
-   ![](assets/four.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
 1. 「**OK**」をクリックします。
 
-   ![](assets/five.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
    >オーディエンスのメンバーシップがAdobeに完全に設定されるまで、最大6 ～ 8時間かかる場合があります。
+
+## 同期リストの送信方法{#how-to-send-a-synced-list}
+
+リストを同期すると、Marketoのリストを更新したときに、その変更が自動的にAdobe Experience Cloudのオーディエンスに同期されます。
+
+1. Marketorで、同期するリストを探して選択します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. **リストアクション**&#x200B;ドロップダウンをクリックし、**Experience Cloudに送信**&#x200B;を選択します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. 「**オーディエンスライブラリフォルダー**」ドロップダウンをクリックし、Experience Cloudー内の目的のフォルダーを選択します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. 新しいオーディエンスを作成するか、既存のフォルダを上書きするかを選択します（この例では、新しいを作成します）。 新しいオーディエンス名を入力し、「**オーディエンスのメンバーシップを同期**&#x200B;に保持」ボックスをオンにして、「**送信**」をクリックします。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. 「**OK**」をクリックします。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## リスト同期を停止する方法{#how-to-stop-a-list-sync}
+
+リストの同期はいつでも停止できます。
+
+1. Marketorで、同期を停止するリストを探して選択します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. 「**リストの操作**」ドロップダウンをクリックし、「**リストの同期を停止**」を選択します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. 同期を停止するオーディエンスを選択し、「**停止**」をクリックします。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. 「**停止**」をクリックして確認します。
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## 注意事項{#things-to-note}
 
@@ -80,4 +126,8 @@ Marketoでリストのエクスポートを開始すると、Adobe Audience Mana
 
 Marketo購読でCookieの同期が有効になっている場合、Marketoのmunchkin.jsは、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketoのCookie識別子に一致させようとします。 これにより、Marketorの匿名ユーザープロファイルは、AdobeECIDを使用して利用できるようになります。
 
-匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 この機能については、以下で説明します。[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 [](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)に記述されているとおり、この動作は正確に表示されます。
+
+**どの情報が共有されているか**
+
+この統合では、マーケティング担当者からAdobe(例えば、リードXがリストYのメンバーであるという知識)に対するリストのメンバーシップ情報のみが共有されます。 この統合を介して、追加のリード属性はAdobeに共有されません。
