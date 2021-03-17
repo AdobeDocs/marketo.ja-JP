@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: RCAの「Named Account」Dimension- Marketto Docs - Product Documentation
 title: RCAの「Named Account」Dimension
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # RCA {#named-account-dimension-in-rca}の名前付きアカウントDimension
 
-Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを使用して、売上高に基づくレポートを作成します。
+TAM固有の名前付きアカウントディメンションを使用して、売上高に基づくレポートを作成します。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Revenue Cycle AnalyticsのABM固有の名前付き勘定ディメンションを
 
 >[!NOTE]
 >
->次に、Revenue Cycle AnalyticsのMarketo ABMの例を示します。
+>以下は、売上高サイクル分析のマーケティング担当者TAMの例です。
 
 名前付きアカウント内のパイプラインの加速
 
