@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: 名前付きアカウントの削除 — Marketto Docs — 製品ドキュメント
 title: 名前付きアカウントの削除
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >CRMに同期されたアカウントは、ABMで削除できません。 削除オプションが使用できない場合、または「1つ以上のCRMアカウントが選択されているので、これらのアカウントを削除できません」というメッセージが表示された場合は、CRMで直接削除する必要があります。
+   >CRMに同期されたアカウントは、TAMで削除できません。 削除オプションが使用できない場合、または「1つ以上のCRMアカウントが選択されているので、これらのアカウントを削除できません」というメッセージが表示された場合は、CRMで直接削除する必要があります。
