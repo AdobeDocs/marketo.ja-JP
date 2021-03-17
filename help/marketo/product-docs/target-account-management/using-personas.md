@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: パーソナルの使用 — Marketto Docs — 製品ドキュメント
 title: 人物の使用
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. ツリーで、**ABM**&#x200B;を選択します。
+1. ツリーで、[**ターゲットアカウント管理**]を選択します。
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. 「**編集**」をクリックします。
 
