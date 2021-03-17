@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: アカウントフィルター- Marketto Docs — 製品ドキュメント
 title: アカウントフィルター
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 新しいアカウント中心のフィルターを使用して、固有のアカウントとその中の個人を特定し、関与させます。
 
-## ABMフィルター{#abm-filters}
+## TAMフィルター{#tam-filters}
 
 1. スマートキャンペーンを選択し、**スマートリスト**&#x200B;をクリックします。
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 名前付きアカウントのメンバ{#member-of-named-account}
 
-1. 修飾子を選択します。 特定の名前のアカウントの場合、または任意の名前の付いたアカウントの場合。
+まず、修飾子を選択します。 **特定の名前のアカウントに** 対しては **、または任意の名前のアカウント** に対しては何でも発生します。
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. 「アカウント名」ドロップダウンをクリックします。
+[名前付きアカウント]ドロップダウンリストをクリックします。
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. 目的の名前付きアカウントを選択します。
+...をクリックし、目的の名前付きアカウントを選択します。
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. 「いずれか」の修飾子を使用する場合は、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
+「いずれか」の修飾子を使用する場合は、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. 単一の最上位アカウントからのメンバーのみを必要とする場合は、「子を含める」をfalseに設定します。 すべての子アカウントからメンバーを作成する場合は、trueを選択します。
+単一の最上位アカウントからのメンバーのみを必要とする場合は、「子を含める」をfalseに設定します。 すべての子アカウントからメンバーを作成する場合は、trueを選択します。
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
