@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: アカウントリストインサイト — Marketto Docs — 製品ドキュメント
 title: アカウントリストインサイト
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketor ABMは、生成されたパイプラインまたはアカウントエンゲージメントスコアに基づいて、アカウントリスト内の上位のアカウントを自動的に決定します。
+>マーケティング担当者は、アカウントリスト内で、生成されたパイプラインまたはアカウントエンゲージメントスコアに基づいて、上位のアカウントを自動的に決定します。
 
 ## アカウントリストダッシュボード{#account-list-dashboard}
 
