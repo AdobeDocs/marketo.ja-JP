@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI用プラグインリリース — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics MSIのプラグインリリース
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '258'
 ht-degree: 4%
 
 ---
@@ -21,12 +21,33 @@ Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用
 >
 >これらのバージョンは、オンプレミスとオンラインの両方のDynamicsで機能します。
 
-## MSIソリューションの更新{#updating-your-msi-solution}
+## MSIソリューションをアップグレード{#upgrading-your-msi-solution}
 
-1. Dynamics CRMの既存のバージョンを使用して、ソリューションの最新バージョンをインポートします(例：Dynamics CRMにバージョン1.4があり、最新バージョンが1.5の場合は、_over_&#x200B;バージョン1.4)をインポートします。
-1. 次のポップアップが表示されます。 「**更新**」および「**カスタマイズを上書き**」オプションを選択し、「**読み込み**」をクリックします。
+1. Dynamicsの&#x200B;**「**&#x200B;インポート」ボタンを押して、Dynamics CRMの既存のバージョン&#x200B;_に対してソリューション_&#x200B;の最新バージョンをインポートします。
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
+
+>[!NOTE]
+>
+>例：Dynamics CRMにバージョン2.0.0.20が搭載され、最新バージョンが2.0.0.21の場合は、_over_&#x200B;バージョン2.0.0.20をインポートします。
+
+1. 「**次へ**」をクリックします。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. 「**アップグレードのステージ**」と「**カスタマイズを維持**」を選択し、「**読み込み**」をクリックします。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. 「**次へ**」をクリックします。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. インポートが正常に完了すると、次の2つのMSIソリューションが表示されます。MarketoSalesInsightとMarketoSalesInsight_Upgrade 古いソリューションを選択し、「Apply Solution Upgrade」をクリックします。
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+それだ！ アップグレード後は、1つのMSIソリューションしか表示されません。
 
 ## バージョンの更新{#version-updates}
 
@@ -38,34 +59,39 @@ Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">バージョン</th> 
    <th colspan="1">リリース日</th> 
+   <th colspan="1">バージョン</th> 
    <th colspan="1">メモ</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">10/1/20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">バグ修正：Sales Insightロールを持つユーザー用のMSI API設定フィールドへのアクセス権の割り当て</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">バグ修正：非同期レコ追加ードの検証メッセージ</td> 
+   <td colspan="1">バグ修正：非同期レコード追加の検証メッセージ</td> 
   </tr> 
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1"><p>バグ修正：MSD API設定でMSIシークレットパスワードを非表示にするには</p></td> 
+   <td colspan="1">バグ修正：MSD API設定でMSIシークレットパスワードを非表示にするには</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>バグ修正：MSIボタンを表示するためのMSIロールIDの検証を変更するには</p></td> 
+   <td colspan="1">バグ修正：MSIボタンを表示するためのMSIロールID検証を変更するには</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>バグ修正：所有者フィールドの再表示と必須フィールド以外のフィールドへの変更</p></td> 
+   <td colspan="1">バグ修正：所有者フィールドの再表示と必須フィールド以外のフィールドへの変更</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>バグ修正：MSD CRMサイトマップ設定のリンクの依存関係を削除しています</p></td> 
+   <td colspan="1">バグ修正：MSD CRMサイトマップ設定のリンクの依存関係を削除しています</td> 
   </tr> 
  </tbody> 
 </table>
