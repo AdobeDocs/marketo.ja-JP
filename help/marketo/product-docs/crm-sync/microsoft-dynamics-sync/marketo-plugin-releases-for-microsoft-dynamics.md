@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Microsoft Dynamics用Marketoプラグインリリース — Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics向けMarketoプラグインリリース
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
 
 ![](assets/lead-management-solution.png)
 
-次の表に、最新バージョンを示します。
+## Dynamics Solutionを更新しています{#updating-your-dynamics-solution}
+
+1. Dynamics CRMの既存のバージョンを使用して、ソリューションの最新バージョンをインポートします(例：Dynamics CRMにバージョン1.4があり、最新バージョンが1.5の場合は、_over_&#x200B;バージョン1.4)をインポートします。
+
+1. 次のポップアップが表示されます。 「**更新**」および「**カスタマイズを維持**」を選択し、「**読み込み**」をクリックします。
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## 最新バージョン{#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
    <th colspan="1">バージョン</th> 
    <th colspan="1">リリース日</th> 
    <th>メモ</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">MS Dynamicsとのキャンペーン同期のサポートが追加されました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
