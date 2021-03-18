@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: アイコンの用語集 — Marketto Docs — 製品ドキュメント
 title: アイコンの用語集
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # アイコンの用語集{#icon-glossary}
+
+Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
 
 **一般的なアイコン**
 
