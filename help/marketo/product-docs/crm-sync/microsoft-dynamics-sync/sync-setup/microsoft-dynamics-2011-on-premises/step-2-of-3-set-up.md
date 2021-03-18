@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 手順2 / 3 - Dynamics (2011 On-Premises)のMarketo同期ユーザーを設定する — Marketto Docs — 製品ドキュメント
 title: 手順2 / 3 - DynamicsでのMarketo Syncユーザーの設定(2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
 >[!NOTE]
 >
->これは、Marketoプラグインバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Marketo Solution for Microsoft Dynamicsのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketoプラグインバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Marketo Solution for Microsoft Dynamicsのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
 1. 左下のメニューで、「**設定**」を選択します。
 
