@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Vibe SMSメッセージの作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
 title: Vibe SMSメッセージの作成
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Vibe SMSメッセージの作成{#create-a-vibes-sms-message}
 
 Vibes SMSメッセージの作成方法を次に示します。
+
+>[!AVAILABILITY]
+>
+>この機能は、Marketo Engageアカウントのアドオンとして使用できます。 適切にプロビジョニングされるためには、Adobeを通じて購入する必要があります。 詳しくは、Adobeカスタマーサクセスマネージャーにお問い合わせください。
+
+>[!NOTE]
+>
+>SMSテキストメッセージはHIPAAに準拠していません。
 
 1. **マーケティングアクティビティ**&#x200B;に移動し、プログラムを右クリックします。
 
@@ -25,7 +33,7 @@ Vibes SMSメッセージの作成方法を次に示します。
 
    >[!TIP]
    >
-   >または、**新規**&#x200B;ドロップダウンをクリックします。
+   >または、「**新規**」ドロップダウンをクリックします。
 
 1. **SMSメッセージ**&#x200B;をクリックします。
 
