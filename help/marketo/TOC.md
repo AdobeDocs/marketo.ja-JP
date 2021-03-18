@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [Dynamics検証の同期の問題を修正](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同期セットアップ{#sync-setup}
             + [Marketto Lead Management Solutionのダウンロード](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Microsoft Dynamics用Marketor Solutionをアップグレードする](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics用Marketor Solutionの更新](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics同期の検証](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [組織サービスのURLの表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011オンプレミス{#microsoft-dynamics-2011-on-premises}
@@ -803,7 +803,7 @@ ht-degree: 0%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [アラート情報トークンの送信の使用](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [マイトークンでのURLの使用](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [電子メールCC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engageの次世代のエクスペリエンス{#marketo-engage-next-generation-experience}
+      + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [新しいアイコンの用語集](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [アセットの移動](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + はじめに{#getting-started}
          + [Sales Connectの概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [グローバルMS Dynamics同期を無効にする](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MS DynamicsインスタンスからMSIをアンインストールする](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + {#updating}を更新中
-            + [Microsoft Dynamics向けMarketo Sales Insight Solutionの更新](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Marketo Sales Insight Solution for Microsoft Dynamicsのアップグレード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + Salesforce用MSI {#msi-for-salesforce}
          + インストール{#installation}
             + [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [プッシュ通知について](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [プッシュ通知ダッシュボードの表示](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + SMSメッセージを表示{#vibes-sms-messages}
-         + [SMS追加のフローステップ](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Vibe SMSメッセージの作成](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [SMS追加のフローステップ](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMSメッセージダッシュボード](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [スマートリストのトリガーとフィルターでVibe SMSメッセージを使用する](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 個人設定{#personalization}
