@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: MSI機能の概要 — Marketto Docs — 製品ドキュメント
 title: MSI機能の概要
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Visualforceページ：
 
 * Sales Insight — 連絡先の完全なリストページを開きます。
 
+アクション：
+
+* Marketto追加キャンペーン
+* マーケティング先の電子メールの送信
+* 監視追加リストから削除
+
 次の機能は、アカウントのレイアウトページでは&#x200B;**利用できません**。
 
-* アクション：Marketor追加キャンペーンに対して、Marketto Eメールを送信する、または監視リスト追加から削除する
 * 星と炎
 
 ## オポチュニティのレイアウト{#opportunity-layout}
@@ -115,9 +120,14 @@ Visualforceページ：
 * Sales Insight — 連絡先の完全なリストページを開きます。
 * Marketo Opportunity分析- MarketoでOpportunity Influence Analyzerを開きます。
 
+アクション：
+
+* Marketto追加キャンペーン
+* マーケティング先の電子メールの送信
+* 監視追加リストから削除
+
 次の機能は、「Opportunity Layout」ページでは&#x200B;**利用できません**。
 
-* アクション：Marketor追加キャンペーンに対して、Marketto Eメールを送信する、または監視リスト追加から削除する
 * 星と炎
 
 ## リードと連絡先のリスト表示（バルクアクション） {#lead-and-contact-list-view-bulk-actions}
