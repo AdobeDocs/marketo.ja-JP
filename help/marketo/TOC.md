@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + 製品ドキュメント{#product-docs}
    + ターゲットアカウント管理{#target-account-management}
       + セットアップ{#setup}
-         + [アカウントベースのマーケティングの概要](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [ターゲットアカウント管理の概要](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM使用の手引き](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [ライセンスの発行](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [権限](product-docs/target-account-management/setup-tam/permissions.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + 言語サポート{#language-support}
                + [Salesforceでの多言語サポートのための販売分析の準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + マーケティング先タブ{#marketo-tab}
+               + [ベストベット](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [リードフィードの使用](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI設定タブ{#msi-configuration-tab}
                + [Sales InsightでのRSSの有効化](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [優先度、緊急度、相対スコア、ベストベット](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [Sales Insightの星と炎に使用するスコアフィールドの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSIパネルのタブ{#tabs-in-the-msi-panel}
+               + [「Email」タブ](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 興味深い瞬間{#interesting-moments}
                   + [興味深い瞬間の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [興味深い瞬間のトークン](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [フィールドオーガナイザーを使用したカスタムフィールドグループの作成](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Webパーソナライゼーション{#web-personalization}
       + アカウントベースのWebマーケティング{#account-based-web-marketing}
-         + [ABMを使用したアカウントベースのWebマーケティング](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [TAMを使用したアカウントベースのウェブマーケティング](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [新しいアカウントリストの作成](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [アカウントリストを使用したセグメントの作成](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + はじめに{#getting-started}
