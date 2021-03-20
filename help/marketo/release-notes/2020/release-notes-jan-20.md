@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: リリースノート — 2020年1月 — Marketto Docs — 製品ドキュメント
 title: リリースノート — 2020年1月
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 >
 >星印(![(star)](assets/star-yellow.svg))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
-**_四半期別_** リリース次の機能が2020年1月17 **日にリリースされます**。
+**_四半期別リリース_**
+
+次の機能は、**2020年1月17日**&#x200B;にリリースされます。
 
 ## コアMarketo EngageAdobeアプリケーション{#core-marketo-engage-adobe-application}
 
