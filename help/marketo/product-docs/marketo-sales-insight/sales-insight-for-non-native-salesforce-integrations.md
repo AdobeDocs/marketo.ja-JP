@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: ネイティブ以外のSalesforce統合向けのSales Insight - Marketto Docs — 製品ドキュメント
 title: ネイティブ以外のSalesforce統合に関するSales Insight
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Marketoアカウントが、カスタマイズされた統合または非ネイ�
 
 >[!PREREQUISITES]
 >
->* Marketing Suiteのインスタンスに対して「MSI非ネイティブ」機能を有効にするには、Customer Success Managerにお問い合わせください。
->* MSIパッケージが設定されたSalesforceアカウント。
+>* MSIの設定を開始する前に、Marketoインスタンスに対して有効にされている「MSI非ネイティブ」機能フラグ（設定されていない場合は、カスタマーサクセスマネージャーにお問い合わせください）。
+>* [MSIパッケージが](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)設定されたSalesforceアカウント。
 >* Marketo REST API [は](https://developers.marketo.com/rest-api/)を正常にセットアップしました。 公開されたCRUD APIは、非ネイティブ同期の実行の基盤となります。
 >* オブジェクトと関係を理解するために、[このブログの記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を読んでください。
 >* Salesforceオブジェクトを設定し、大文字と小文字を区別する15文字のグローバル一意識別子ではなく、大文字と小文字を区別しない18文字のグローバル一意識別子を表示します。
