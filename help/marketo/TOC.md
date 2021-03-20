@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [黙示的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [OAuth 2.0のセットアップ](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + 需要の生成{#demand-generation}
       + 広告ネットワーク統合{#ad-network-integrations}
+         + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [LaunchPointサービスとしての追加Facebookカスタムオーディエンス](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [LaunchPointサー追加ビスとしてのGoogle顧客の一致](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + イベント{#events}
          + イベントについて{#understanding-events}
             + [イベントプログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [Salesforceへ追加の電子メール](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [コンテンツの一部の添付](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [カレンダー機能](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Gmailユーザー用の「電子メール接続」タブ](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [Gmailユーザーの電子メール接続](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [GmailがSales Connect署名を取り込まない](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [テンプレート追加の使用方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [ToutApp Browser Extensionのインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [[販売接続]ツールバー](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Gmailで予期しないエラーが発生しました](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + Outlook用MSC {#msc-for-outlook}
-            + [Outlookユーザー用の[電子メール接続]タブ](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [Outlookユーザー用電子メール接続](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + .NETレガシー追加イン{#net-legacy-add-in}
                + [.NET 追加-inの概要](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [OutlookからSales Connectをアンインストールする方法](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [表示されていない電子メールのテスト](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + 電子メール配信{#email-delivery}
             + [配信チャネルの概要](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [SMTPサーバーの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [配信チャネルの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [電子メール接続のスロットリング](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [カスタム配信チャネルの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 販売の電子メールを送信{#send-a-sales-email}
             + [テンプ追加レートまたはキャンペーン](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [GmailからSalesforce追加への電子メール](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [Marketor Sales Insightでの登録解除フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [販売テンプレートのロック](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insightへの電子メールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [テスト用電子メールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + バルクアクション{#bulk-actions}
                + [Marketor追加の「Sales Insight」タブとSalesforce用のボタン](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightningのバルクアクション](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,6 +1675,8 @@ ht-degree: 0%
          + [特定のラベルからの表示Webキャンペーン](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + リリースノート{#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
+   + 2021 {#2021}
+      + [リリースノート：Jan &#39;21](release-notes/2021/release-notes-jan-21.md)
    + 2020 {#2020}
       + [リリースノート：Jan &#39;20](release-notes/2020/release-notes-jan-20.md)
       + [リリースノート：20年2月](release-notes/2020/release-notes-feb-20.md)
