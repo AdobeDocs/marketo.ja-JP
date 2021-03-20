@@ -3,7 +3,7 @@ unique-page-id: 37356565
 description: 追跡された電子メールの送信 — Marketto Docs — 製品ドキュメント
 title: 追跡する電子メールの送信
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Marketto Sales Connectと共に電子メールを送信すると、表示（電�
 >追跡する電子メールを送信する前に、IDの検証と電子メール配信チャネルの設定を行う必要があります。
 >
 >* [電子メールアドレスの確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)または[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)の配信チャネルを設定します
+>* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)または[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)の配信チャネルを設定します
 
 
 1. 電子メールの下書きを作成します（これには複数の方法があります。この例では、ヘッダーに「**構成**」を選択しています）。
