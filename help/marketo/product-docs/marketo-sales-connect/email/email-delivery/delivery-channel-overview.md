@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: 配信チャネルの概要 — Marketto Docs — 製品ドキュメント
 title: 配信チャネルの概要
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -13,38 +13,48 @@ ht-degree: 0%
 
 # 配信チャネルの概要{#delivery-channel-overview}
 
-活用できる3つのチャネル、選択方法、重ね合わせるタイミング、微妙な違いを分類します。
+Marketo Sales Connectには、電子メールを配信する複数のオプションが用意されています。 この記事では、活用できる配信チャネル、選択方法、および選択方法について説明します。
+
+## 推奨：Eメール接続を介したGmailまたはExchange {#recommended-gmail-or-exchange-via-email-connection}
+
+Sales Connectを使用すると、Email Connectionサービスを通じて、セットアップの合理化と配信品質の向上が可能です。 Email Connectionを使用すると、各ユーザは[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)または[Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)アカウントに接続して、Sales ConnectのすべてのSales Connect電子メールの配信チャネルとして利用できます。
+
+GmailまたはExchangeの利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。
+
+* これは、信頼性が確立され、配信品質を高く保つための実証済みの配信チャネルです。
+* SPFやDKIMなどの認証方法は、ITチームによって既に構成および管理されているので、追加の設定は必要ありません。
+* 特定の電子メールネットワーク内で電子メールを送信する(Exchange経由で電子メールを受信する会社にExchangeユーザーとして電子メールを送信する)ことで、配信品質をさらに向上できます。
+
+これらの配信チャネルには、MicrosoftやGoogleによって適用される送信制限が独自に設けられていることに注意してください。 この問題に対処するために、スロットリングメカニズムを利用して、ユーザーがその制限内にとどまるのを支援します。 [電子メールのスロットリングについて詳しくは、](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
->この情報は、[Webアプリケーション](https://toutapp.com/login)からの電子メールを送信する場合にのみ有効です。 GmailまたはOutlookでSales Connectを使用している場合は、これらの電子メールサーバー経由で電子メールが配信されます。
+>デフォルトでは、O365プラグインは常にexchange配信チャネルを使用し、Gmailプラグインは常にGmail配信チャネルを利用してプラグインからの電子メールを配信します。
 
-## MSC電子メールサーバー（デフォルト） {#msc-email-servers-default}
+**バウンスの追跡**:MSCでは、送信者の受信トレイに送信されるバウンスメッセージを検出することで、Exchange OnlineまたはGmailユーザーのバウンスを検出できます。これらのバウンス通知は、テンプレートの分析、キャンペーンの分析およびライブフィードの通知にロールアップされます。 バウンスの追跡は、Exchange On-Premのお客様にはサポートされていません。
 
-デフォルトでは、電子メールの配信に対してこの方法が選択されます。 MSC電子メールサーバーは、GmailやOutlookを使用しないユーザーにとって優れたオプションです。 また、これらはアドビのサーバーなので、バウンスや失敗した配信に関するエラーメッセージを取得し、「会話」タブの「失敗した配信」セクションでユーザーに表示する機能もあります。
+## SMTP {#custom-delivery-channel-via-smtp}を介したカスタム配信チャネル
 
-MSCサーバーを使用するもう1つの利点は、[電子メールID](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)を使用する場合に、作成したIDの電子メールアドレスが受信者に表示されることです。
+Sales Connectオファーは、サードパーティのSMTPサーバーを接続して、営業チームの優先配信チャネルとして使用する追加のオプションです。
 
-MSCサーバーを使用している場合、受信者に「via toutapp.com」タグが表示されることがあります。 これは、Sales Connectを使用して送信された電子メールを知らせる電子メールクライアントです。
+サードパーティのSMTPプロバイダーの利用は、電子メールの量が最も優先度の高い営業チームにとって非常に優れた選択肢です。 SendgridやSparkpostなどのSMTPプロバイダーは、一括電子メール配信のニーズに対応するように最適化されており、大量の電子メールをデプロイしたいユーザーのニーズに合わせて拡張できます。
 
-詳しくは、[Gmailヘルプ記事](https://support.google.com/mail/answer/1311182?hl=en)を参照してください。
+さらに、サードパーティのSMTPプロバイダは、チームの配信品質のニーズ(電子メール配信レポートや専用のIPアドレスなど)をサポートするために多数の機能をオファーしており、販売用電子メール配信チャネルに関するより詳細な制御と可視性を求めるお客様にとって優れた選択肢です。
 
->[!NOTE]
+## MSCサーバー（レガシー） {#msc-servers-legacy}
+
+MSCサーバは、一部のレガシーToutAppのお客様でのみ使用できます。 該当するユーザーの電子メール設定にMSCサーバーが表示されます。 レガシーでないお客様の場合は、MSCを選択肢として認識しないため、GmailまたはOutlookのアカウントをSales Connectに接続して、配信チャネルのロックを解除する必要があります。
+
+MSCサーバーは、DKIMおよびSPF認証方式をサポートしていないため、配信品質が低下する可能性があります。 このため、最高の配信品質を得るには、すべてのお客様にGmailまたはOutlookに接続することをお勧めします。
+
+## マーケティング先サーバ{#marketo-servers}
+
+Marketorの電子メールサーバーは、Sales Connectと統合できません。 マーケティングサーバーは、一括配信に最適化され、マーケターのニーズに合わせて拡張できます。 ただし、GmailとExchangeでは、1:1の販売コミュニケーションの成功率が高いので、販売コミュニケーションにこれらのサーバーを使用することをお勧めします。
+
+>[!MORELIKETHIS]
 >
->MSCサーバーには、使用可能な[DMARCレコード](https://dmarc.org/)がありません。 独自のサーバーでホワイトリストに登録することはできません。
+>* [Gmailユーザーの電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlookユーザー用電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [カスタム配信チャネルの設定](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [電子メール接続のスロットリング](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
-## Gmailサーバー{#gmail-server}
-
-会社の電子メールプロバイダーがGmailの場合は、既存のアカウントを利用して、Sales Connectの電子メールを送信できます。 「via toutapp.com」情報を避けたい場合や、会社のドメインの評判と配信品質を信頼したい場合は、これは非常に良い選択です。 Gmailサーバーを使用する利点の1つは、Webアプリケーションから送信する内容はすべてGmail送信フォルダーに自動的に追加されるという点です。
-
-Sales Connectの電子メールを配信する1つのGmailアカウント（1つの電子メールアドレス）に対してのみ、適切に接続できます。 つまり、複数の電子メールIDを使用する場合、詳細を確認する際には、接続しているアカウントのアドレスのみが表示されます。
-
-Webアプリケーションでは、IDは上記で作成したとおりに表示されます。 ただし、Gmailサーバーを経由して送信すると、接続されているアカウントのアドレスが表示されます。
-
->[!NOTE]
->
->Sales ConnectはGmailサーバーを直接管理しないので、バウンスした電子メールイベントはWebアプリケーションに記録しません。
-
-## カスタムSMTPサーバー{#custom-smtp-server}
-
-自分のサーバの代金を払う？ Microsoft Exchange環境を使用する これは、お客様にとってのオプションです。 [設定の際には、](https://docs.marketo.com/x/zYTS)これらの説明を調べてください。 Gmailサーバーと同様、Sales Connectはサーバーを直接管理しないので、バウンスした電子メールイベントをWebアプリケーションに記録しません。
