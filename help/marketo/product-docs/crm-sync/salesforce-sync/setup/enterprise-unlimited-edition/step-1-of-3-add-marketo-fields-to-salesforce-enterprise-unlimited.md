@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360362
-description: 手順1/3 - Salesforce追加に対するMarketoフィールド(Enterprise/Unlimited) - Markettoドキュメント — 製品ドキュメント
+description: 手順1/3追加 - Salesforce用のMarketoフィールド(Enterprise/Unlimited) - Marketto Docs — 製品ドキュメント
 title: 手順1/3 - Salesforceに対する追加Marketoフィールド(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Salesforceのリードオブジェクトのカスタムフィールドは、コ�
 1. 終了したら「**保存**」をクリックします。
 
    簡単だろ？
-
->[!NOTE]
->
->これは[全ての手順のビデオ](https://nation.marketo.com/videos/1475)へのリンクです。
 
 >[!MORELIKETHIS]
 >
