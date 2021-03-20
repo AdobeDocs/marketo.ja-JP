@@ -3,7 +3,7 @@ unique-page-id: 14352482
 description: 返信トラッキングの仕組み — Marketto Docs — 製品ドキュメント
 title: 返信追跡の仕組み
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->**電子メールサーバーとの接続：** Sales Connectは、受信トレイに接続されている必要があります。これにより、新しい返信が届いた時点がわかります。Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)に接続するSales Connectアカウント[が必要です。 Outlookを使用している場合は、[Exchangeサーバー](https://toutapp.com/next#settings/exchange_settings)と統合する必要があります。
+>**電子メールサーバーとの接続：** Sales Connectは、受信トレイに接続されている必要があります。これにより、新しい返信が届いた時点がわかります。Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)に接続するSales Connectアカウント[が必要です。 Outlookを使用している場合は、[Exchangeサーバー](https://toutapp.com/next#settings/exchange_settings)と統合する必要があります。
 
 Sales Connectが見込み客の電子メールへの返信を追跡できない場合、返信検出に基づくキャンペーンを停止したり、Salesforceに返信したログを記録したりすることはできません。  どの電子メールアドレスでも返信できるということですか。
 
