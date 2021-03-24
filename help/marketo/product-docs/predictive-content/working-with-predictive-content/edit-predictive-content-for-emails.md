@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: 電子メールの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
 title: 電子メールの予測コンテンツの編集
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ ht-degree: 0%
 1. 画像URLを追加または編集するには、「**画像を編集**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >最高の画質を確保するには、400 x 400ピクセル以下の画像を使用する必要があります。
 
 1. 画像URLを挿入し、**追加**&#x200B;をクリックします。
 
