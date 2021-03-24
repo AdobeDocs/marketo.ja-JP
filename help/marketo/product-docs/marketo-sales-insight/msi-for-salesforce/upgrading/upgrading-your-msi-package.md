@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: MSIパッケージのアップグレード — Marketto Docs — 製品ドキュメント
 title: MSIパッケージのアップグレード
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. パッケージをアップグレードするには、「管理者のみにインストール」(および、後で特定のプロファイルにMSIアクセスを提供)、「すべてのプロファイルに対してインストール」または「特定のユーザーに対してインストール」を選択します。 この例では、「管理者のみ」を選択しています。 選択が完了したら、「**アップグレード**」をクリックします。
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>管理者向けのパッケージのみをアップデートし、購入したMSIシートの数に基づいて[特定のユーザー](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)にアクセスを提供することをお勧めします。 または、MSIユーザー用の特定のSalesforceプロファイルを作成し、それらのユーザー専用のパッケージをインストールまたはアップグレードすることもできます。
