@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス） - Marketto Docs — 製品ドキュメント
 title: 手順3/3 - MarkettoとDynamicsの接続（2013オンプレミス）
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
+   >* Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
+   >* URLがわからない場合は、[URLを見つける方法を](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)に学びます。
 
-   >[!TIP]
-   >
-   >URLがわからない？ [Dynamics組織サービスのURL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)を見つける方法をここで示します。
 
 ## 同期するフィールドを選択{#select-fields-to-sync}
 
@@ -70,6 +68,10 @@ ht-degree: 0%
 1. マーケティング担当者と同期するフィールドを選択して、事前に選択されるようにします。 「**保存**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
+
+   >[!NOTE]
+   >
+   >Marketorは、同期するフィールドへの参照を保存します。 Dynamicsでフィールドを削除する場合は、[同期が無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で削除することをお勧めします。 次に、[同期するフィールドの選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集して保存し、Marketorのスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期{#sync-fields-for-a-custom-filter}
 
