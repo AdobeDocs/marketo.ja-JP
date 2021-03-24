@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited - Marketto Docs — 製品ドキュメントでのMarketo Sales Insightの設定
 title: Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -304,4 +304,5 @@ Salesforce Enterprise/Unlimited EditionでMarketon Sales Insightを設定する�
 >
 >* [優先度、緊急度、相対スコア、ベストベット](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Marketor追加の「Sales Insight」タブとSalesforce用のボタン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [チーム向けのSales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
