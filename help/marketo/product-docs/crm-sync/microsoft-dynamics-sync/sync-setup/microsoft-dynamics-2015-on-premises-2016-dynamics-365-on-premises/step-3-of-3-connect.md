@@ -3,9 +3,9 @@ unique-page-id: 7504744
 description: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムステップ3 / 3 - Marketo Docs — 製品ドキュメントのインストール
 title: Marketo for Dynamics 2015オンプレムおよび2016 365オンプレムのインストール手順3/3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,16 @@ ht-degree: 0%
    >
    >送信後のスキーマの変更を元に戻すことができないため、資格情報が正しいことを確認してください。 正しくない資格情報を保存した場合は、新しいMarketor購読を取得する必要があります。
 
-1. **ユーザー名**、**パスワード**、Microsoft Dynamics **URL**、およびオプションの&#x200B;**クライアントID**&#x200B;を入力します。 終了したら「**保存**」をクリックします。
+1. **ユーザー名**、**パスワード**、Microsoft Dynamics **URL**、および&#x200B;**クライアントID/シークレット**&#x200B;を入力します。 終了したら「**保存**」をクリックします。
 
-   ![](assets/client-id.png)
+   ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 形式は、user@domain.comまたはDOMAIN\userです。
+   >* 2020年10月より前にマーケティング担当者がプロビジョニングされていた場合、「クライアントID」と「シークレット」はオプションのフィールドです。 それ以外の場合は、必須です。 この情報の取得は、使用しているMSDのバージョンによって異なります。
+   >* Marketorのユーザー名は、CRMの同期ユーザーのユーザー名と一致する必要があります。 `user@domain.com`またはDOMAIN\userの形式を使用できます。
+   >* URLがわからない場合は、[URLを見つける方法を](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)に学びます。
+
 
    >[!TIP]
    >
@@ -66,6 +69,10 @@ ht-degree: 0%
 1. マーケティング担当者と同期するフィールドを選択して、事前に選択されるようにします。 「**保存**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
+
+>[!NOTE]
+>
+>Marketorは、同期するフィールドへの参照を保存します。 Dynamicsでフィールドを削除する場合は、[同期が無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で削除することをお勧めします。 次に、[同期するフィールドの選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集して保存し、Marketorのスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期{#sync-fields-for-a-custom-filter}
 
