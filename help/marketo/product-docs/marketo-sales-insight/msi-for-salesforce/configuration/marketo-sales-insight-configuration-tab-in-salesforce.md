@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce - Marketto Docs — 製品ドキュメントの「Marketto Sales Insight Configuration」タブ
 title: SalesforceのMarketo Sales Insightの「Configuration」タブ
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ SFDCでSales Insightを使用して開始を行うには、この設定を行う
 
 * 今後のイベント:招待イベント、ユーザーに対するすべてのイベントを表示したり、このタブを完全に非表示にしたりする機能
 * 今後のキャンペーン:すべての電子メールキャンペーンを表示するか、このタブを完全に非表示にするかを指定できます
+* 今後のキャンペーンおよびイベントの読み込み：ユーザーが実行するREST API呼び出しの数を減らす機能。イベントとキャンペーンのタブをオンデマンドの「今後の項目を読み込む」ボタンの後ろに配置します。
 * タブの設定 — デフォルトでは、5つのタブすべてが使用可能になります。 デフォルトでは、5つのタブすべてが使用可能になります。 Sales Insightパネルでタブの順序を選択できます。 同じ注文がすべてのレイアウト（リード、連絡先、アカウント、オポチュニティ）に適用されます。
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ SFDCでSales Insightを使用して開始を行うには、この設定を行う
 これを選択すると、SFDC内のすべての設定が消去され、復元できなくなります。 すべての設定を再度行う必要があります。
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[チーム向けのSales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
