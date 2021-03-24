@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '7986'
+source-wordcount: '8002'
 ht-degree: 0%
 
 ---
@@ -539,6 +539,7 @@ ht-degree: 0%
             + [カスタムエンティティの同期を有効にする](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics同期：フィールドの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [Dynamicsで削除する前に、同期するフィールドを編集する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics同期：リードの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Microsoft Dynamicsで連絡先を作成する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
             + [Microsoft Dynamics同期：オポチュニティの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
@@ -1308,6 +1309,7 @@ ht-degree: 0%
             + [Salesforce Professional EditionでのMarketor Sales Insightの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [SalesforceのMarketo Sales Insightの「Configuration」タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [マーケティング担当者向けのSales Insightページ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [チーム向けのSales Insightの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 機能{#features}
             + [MSI機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + MSIパネル内のアクション{#actions-in-the-msi-panel}
