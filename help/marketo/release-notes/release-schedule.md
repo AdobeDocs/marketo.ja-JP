@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: リリーススケジュール — Marketto Docs — 製品ドキュメント
 title: リリーススケジュール
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 * 進行中 — 指定日にリリース用にコンテンツを開発し、ドキュメント化しています
 * 出荷済み — リリースは完了です
 
-リリース日は変更される場合があります。
+_リリース日は変更される場合があります_
 
 <table> 
  <colgroup> 
