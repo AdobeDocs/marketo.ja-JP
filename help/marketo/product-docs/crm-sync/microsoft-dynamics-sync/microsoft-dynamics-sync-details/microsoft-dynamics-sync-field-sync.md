@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Field Sync - Marketto Docs — 製品ドキュメント
 title: Microsoft Dynamics Sync — フィールド同期
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,14 @@ MarkettoとDynamicsの同期は非常に強力です。 詳しくは、
 
 はい。同期ユーザーがDynamicsでフィールド[にアクセスできる限り、フィールド](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)を同期できます。
 
-Marketoと同期するフィールドは何ですか。
+## Marketoと同期するフィールドは何ですか。{#what-fields-will-sync-to-marketo}
 
 [設定中に、同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)できます。
 
 ## MarketorとDynamicsの同期後にカスタムフィールドを追加する必要がある場合はどうなりますか？{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
 いつでもフィールドを追加でき、DynamicsからMarketorにデータが更新されるように期待できます。 詳しくは、[新しいカスタムフィールド用のMicrosoft Dynamicsとのクイック同期を使用する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)を参照してください。
+
+## 同期するフィールドが追加された後にDynamicsでフィールドを削除する場合はどうしますか？{#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+
+Marketorは、同期するフィールドへの参照を保存します。 Dynamicsでフィールドを削除する場合は、[同期が無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で削除することをお勧めします。 次に、[同期するフィールドの選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集して保存し、Marketorのスキーマを更新します。
