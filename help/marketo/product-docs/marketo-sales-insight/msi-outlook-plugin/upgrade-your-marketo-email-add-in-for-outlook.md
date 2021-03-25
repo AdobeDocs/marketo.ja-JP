@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Outlook用Marketto電子メールイン追加のアップグレード — Marketto Docs — 製品ドキュメント
 title: Outlook用のMarketing To Email 追加 Inのアップグレード
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Outlook用Marketto Email 追加-Inをアップグレードする{#upgrade-your-marketo-email-add-in-for-outlook}
 
 Outlook用のMarketo Email-追加inの新しいバージョンが利用可能になったら、次の手順に従ってアップグレードします。
+
+>[!NOTE]
+>
+>2010年10月1日現在、Outlookプラグインの最新バージョンでは、オフラインモードがサポートされなくなりました。 これは、10/1以降にインストール/アップグレードした後に有効になります。
 
 ## インストーラーのダウンロード{#download-installer}
 
@@ -90,13 +94,6 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 （Windowsのみ）</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook for Mac</td> 
    <td>非対応</td> 
    <td>非対応</td> 
@@ -110,10 +107,23 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
    <td colspan="1">非対応</td> 
    <td colspan="1">非対応</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365バージョン：Windowsクライアントのみ（Windows 10、EnterpriseまたはProの場合）。
+
 ## アップグレード{#upgrade}
+
+1. [Microsoft Outlookのバージョン](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)を特定します。
+
+1. 上のリストからバージョンを選択します。
 
 1. インストーラーを実行します。
 
