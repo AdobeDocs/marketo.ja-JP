@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlookユーザーの電子メール接続 — Marketto Docs — 製品ドキュメント
 title: Outlookユーザー用電子メール接続
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Outlookに接続すると、返信追跡、Outlook配信チャネルへのアク
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Office Onlineとも呼ばれる |
-   |---|---|
-   | **Exchangeオンプレミス** | Exchange 2013と2016を含む |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Exchange Onlineとも呼ばれる</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchangeオンプレミス</strong></td> 
+      <td>Exchange 2013と2016を含む</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >現時点では、MarketoはExchangeハイブリッドアカウントをサポートしていません。
 
 1. 「**OK**」をクリックします。
 
@@ -67,7 +80,7 @@ Outlookに接続すると、返信追跡、Outlook配信チャネルへのアク
 
    >[!NOTE]
    >
-   >Outlookを配信チャネルとして使用する場合、一度に300件を超えるバルクメールを送信することはできません。
+   >Outlook Online (Office365)では、独自の送信制限が適用されます。 [詳細はこちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)。
 
 ## Exchange On-Premiseへの接続{#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ Exchange On-Premiseに接続すると、返信追跡、Outlook配信チャネル
 
    ![](assets/six-b.png)
 
-   | バージョン | 説明 |
-   |---|---|
-   | **Outlook Online** | Office Onlineとも呼ばれる |
-   | **Exchangeオンプレミス** | Exchange 2013と2016を含む |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Exchange Onlineとも呼ばれる</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchangeオンプレミス</strong></td> 
+      <td>Exchange 2013と2016を含む</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. 資格情報を入力し、「**接続**」をクリックします。
 
@@ -114,4 +135,4 @@ Exchange On-Premiseに接続すると、返信追跡、Outlook配信チャネル
 
    >[!NOTE]
    >
-   >Outlookを配信チャネルとして使用する場合、一度に300件を超えるバルクメールを送信することはできません。
+   >Exchangeをオンプレミムで使用する場合、ITチームはEメール送信の制限を設定します。
