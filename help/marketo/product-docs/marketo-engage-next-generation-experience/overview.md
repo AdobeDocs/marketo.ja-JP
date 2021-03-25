@@ -2,9 +2,9 @@
 description: 概要 — Marketto Docs — 製品ドキュメント
 title: 概要
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 **ツリー**
 
-木もアップグレードされました。 現時点では、ドラッグ&amp;ドロップは使用できません。 ただし、アセットは移動できます。 使い方：[アセット](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md)の移動。
+木もアップグレードされました。
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ ht-degree: 1%
   <tr>
    <td>ツリーからエンゲージメントストリームにドラッグ&amp;ドロップ</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>ツリー内でのドラッグ&amp;ドロップ</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>アセットタイプと状態によるフィルタリング</td> 
