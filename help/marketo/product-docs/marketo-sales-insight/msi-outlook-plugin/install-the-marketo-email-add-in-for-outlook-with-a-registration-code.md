@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 登録コード — Marketto Docs — 製品ドキュメントを使用したOutlook用Marketto電子メール追加インのインストール
 title: 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >
 >[Marketo Email 追加-inライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があります。
 
+>[!NOTE]
+>
+>2010年10月1日現在、Outlookプラグインの最新バージョンでは、オフラインモードがサポートされなくなりました。 これは、10/1以降にインストール/アップグレードした後に有効になります。
+
 ## インストーラーのダウンロード{#download-installer}
 
 1. [Microsoft Outlookのバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
@@ -29,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >以下のリンクは、現在Chromeでのみ機能します。 ご不便をおかけして申し訳ございません。
+   >現時点では、以下のリンクはMicrosoft Edgeでのみ機能します。または、Chromeで右クリックしても機能します。 ご不便をおかけして申し訳ございません。
 
    | Outlookバージョン | 32ビットOutlook | 64ビットOutlook |
    |---|---|---|
@@ -40,9 +44,11 @@ ht-degree: 0%
    | Outlook 2013 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2019 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 （Windowsのみ） | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook for Mac | 非対応 | 非対応 |
    | Outlook Web App | 非対応 | 非対応 |
+   | Office 365* | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365バージョン：Windowsクライアントのみ（Windows 10、EnterpriseまたはProの場合）。
 
 ## 登録コードをコピー{#copy-your-registration-code}
 
