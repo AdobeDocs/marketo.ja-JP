@@ -1,11 +1,10 @@
 ---
-cloud: experience-cloud
-product: marketo
 audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketor製品ドキュメント
+feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '8002'
 ht-degree: 0%
@@ -806,7 +805,7 @@ ht-degree: 0%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
