@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359492
-description: セグメント別グループ個人レポート — Marketto Docs — 製品ドキュメント
+description: セグメント別グループ個人レポート —Marketoドキュメント — 製品ドキュメント
 title: セグメント別個人レポートのグループ化
+exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # セグメント別のグループ個人レポート{#group-person-reports-by-segment}
 
