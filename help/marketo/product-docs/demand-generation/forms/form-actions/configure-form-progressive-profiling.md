@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359646
-description: フォームのプログレッシブプロファイルの設定 — Marketto Docs — 製品ドキュメント
+description: フォームのプログレッシブプロファイルの設定 —Marketoドキュメント — 製品ドキュメント
 title: フォームのプログレッシブプロファイルの設定
+exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
-
 
 # フォームのプログレッシブプロファイルの設定{#configure-form-progressive-profiling}
 
