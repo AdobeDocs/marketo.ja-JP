@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359671
-description: フ追加ォームフィールドへのテキストのヒント — Marketto Docs — 製品ドキュメント
+description: フ追加ォームフィールドへのテキストのヒント —Marketoドキュメント — 製品ドキュメント
 title: フ追加ォームフィールドに対するテキストのヒント表示
+exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # フ追加ォームフィールドに対するテキストのヒント{#add-hint-text-to-a-form-field}
 
