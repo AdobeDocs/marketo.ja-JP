@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512105
-description: レポートをグループレポートにコピーする — Marketto Docs — 製品ドキュメント
+description: レポートをグループレポートにコピーする —Marketoドキュメント — 製品ドキュメント
 title: レポートをグループレポートにコピーする
+exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # レポートをグループレポートにコピー{#clone-a-report-to-group-reports}
 
