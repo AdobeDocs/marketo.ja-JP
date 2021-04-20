@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416566
-description: 2者間の同意の設定 — Marketto Docs — 製品ドキュメント
+description: 2パーティの同意の設定 —Marketoドキュメント — 製品ドキュメント
 title: 双方の同意の設定
+exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 双方の同意の設定{#two-party-consent-settings}
 
