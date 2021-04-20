@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10100397
-description: アプリ内メッセージについて — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージについて —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージについて
+exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # アプリ内メッセージについて{#understanding-in-app-messages}
 
 >[!NOTE]
 >
->アプリ内メッセージは、アドオンのアプリです。 Marketorアカウントマネージャーに確認し、アクティブ化されていることを確認します。
+>アプリ内メッセージは、アドオンのアプリです。 Marketoのアカウントマネージャーに確認し、アクティブ化されていることを確認します。
 
 アプリ内メッセージを使用して、アプリの使用中に顧客を直接惹きつけます。 ユーザーがカスタムアクションを開いたり、実行したりする際に、プロモーションオファーを提示できます。 ワンクリックでランディングページ、外部Webサイト、ディープリンクに移動し、さらに学習して購入することができます。 または、そのクリックでメッセージを閉じることができます。  また、アプリ内メッセージを顧客へのリマインダーとして使用し、例えば、プロファイルを完了したり、新しいアプリ機能について顧客に知らせたりすることもできます。
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >**例2**:医療ビデオを見ながら、医師の訪問を予約し、40ドルのクーポンをトリガーします。
 
-モバイルアプリ用のアプリ内メッセージを作成して送信する前に、設定を行うには、マーケティング担当者とモバイルアプリの開発者が必要です。  アプリ内メッセージを作成するには、次の3つの手順を実行します。
+モバイルアプリ用のアプリ内メッセージを作成して送信する前に、いくつかの設定を実行するには、Marketoの管理者とモバイルアプリ開発者が必要です。  アプリ内メッセージを作成するには、次の3つの手順を実行します。
 
 ## 手順1:管理者と開発者が初期設定を実行{#step-admin-and-developer-perform-initial-setups}
 
-マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
+Marketo管理者とモバイルアプリの開発者が協力して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
 ## 手順2:アプリ内メッセージの作成{#step-create-an-in-app-message}
 
