@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352511
-description: グループを共有する方法 — Marketto Docs — 製品ドキュメント
+description: グループの共有方法 —Marketoドキュメント — 製品ドキュメント
 title: グループを共有する方法
+exl-id: 4ad92645-aaf6-401e-9d6f-87c70586ed6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # グループの共有方法{#how-to-share-a-group}
 
