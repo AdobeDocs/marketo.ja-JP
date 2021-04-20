@@ -1,23 +1,23 @@
 ---
 unique-page-id: 37355602
-description: Microsoft Dynamics Online - Marketto Docs — 製品ドキュメントで、Marketto Sales Insightのインストールと設定を行います。
-title: Microsoft Dynamics OnlineでのMarketor Sales Insightのインストールと構成
+description: Microsoft Dynamics Online -Marketoドキュメント — 製品ドキュメントで、Marketo販売インサイトをインストールおよび構成します
+title: Microsoft Dynamics OnlineでのMarketo販売インサイトのインストールと構成
+exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Microsoft Dynamics OnlineでのMarketo販売インサイトのインストールと構成{#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-# Microsoft Dynamics OnlineでのMarketo Sales Insightのインストールと設定{#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
-
-Marketo Sales Insightは、マーケティングチームが持つ豊富なデータをセールスチームに「窓口」として提供する素晴らしいツールです。 Microsoft Dynamics Onlineにインストールして構成する方法を次に示します。
+Marketo・セールス・インサイトは、マーケティング・チームが持つ豊富なデータをセールス・チームに「窓口」として提供する素晴らしいツールです。 Microsoft Dynamics Onlineにインストールして構成する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->MarketoとMicrosoftの統合を完了します。
+>Marketoとマイクロソフトの統合を完了します。
 >
 >[お使いのバージョンのMicrosoft Dynamics CRMに適した](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) ソリューションをダウンロードしてください。
 
@@ -41,7 +41,7 @@ Marketo Sales Insightは、マーケティングチームが持つ豊富なデ�
 
    >[!NOTE]
    >
-   >先に進む前に、Marketoソリューションを既にインストールして設定しておく必要があります。
+   >先に進む前に、既にMarketoソリューションをインストールし、設定しておく必要があります。
 
 1. 「**インポート**」をクリックします。
 
@@ -69,7 +69,7 @@ Marketo Sales Insightは、マーケティングチームが持つ豊富なデ�
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
-1. すごい！ 解決策を今すぐ見てみましょう。 表示されていない場合は、画面を更新します。
+1. やりましたね！解決策を今すぐ見てみましょう。 表示されていない場合は、画面を更新します。
 
    ![](assets/eleven.png)
 
@@ -79,15 +79,15 @@ Marketo Sales Insightは、マーケティングチームが持つ豊富なデ�
    >
    >グローバルMS Dynamicsの同期を有効にしてください。
 
-## MarketoとSales Insightの接続{#connect-marketo-and-sales-insight}
+## MarketoとSales Insightを接続{#connect-marketo-and-sales-insight}
 
-MarketorのインスタンスをDynamicsのSales Insightに結び付けます。 その方法を次に示します。
+MarketoインスタンスをDynamicsのSales Insightに結び付けます。 その方法を次に示します。
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. Marketorにログインし、**管理者**&#x200B;セクションに移動します。
+1. Marketoにログインし、**管理者**&#x200B;セクションに移動します。
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -95,7 +95,7 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. 後の手順で使用するために、**Marketo Host**、**API URL**&#x200B;および&#x200B;**APIユーザーID**&#x200B;をコピーします。 任意のAPI秘密鍵を入力し、「**保存**」をクリックします。
+1. 後の手順で使用する&#x200B;**Marketoホスト**、**API URL**、**APIユーザーID**&#x200B;をコピーします。 任意のAPI秘密鍵を入力し、「**保存**」をクリックします。
 
    >[!CAUTION]
    >
@@ -105,20 +105,20 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    >[!NOTE]
    >
-   >Sales Insightを機能させるには、次のフィールドをMarketoと&#x200B;_リードと連絡先_&#x200B;の両方で同期する必要があります。
+   >Sales Insightを機能させるには、次のフィールドをMarketoと同期して、_リードと連絡先_&#x200B;の両方を行う必要があります。
    >
-   >* 優先度
+   >* 優先順位
    >* 緊急度
    >* 相対スコア
 
    >
-   >これらのフィールドのいずれかが見つからない場合は、Marketorに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
+   >これらのフィールドのいずれかが見つからない場合は、Marketoに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
 1. Microsoft Dynamicsに戻り、**設定**&#x200B;に戻ります。
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. 「**設定**」で、「**Marketto API Config**」をクリックします。
+1. 「**設定**」で、「**MarketoAPI設定**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
@@ -126,13 +126,13 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. 以前にMarketoから取得した情報を入力し、「**保存**」をクリックします。
+1. 先ほどMarketoから取得した情報を入力し、[**保存**]をクリックします。
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
-## 同期を有効にする{#enable-sync}
+## 同期の有効化 {#enable-sync}
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/enable-one.png)
 
@@ -154,7 +154,7 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
 ## ユーザーアクセスの設定{#set-user-access}
 
-最後に、特定のユーザーに、Marketor Sales Insightの使用に対するアクセス権を与える必要があります。
+最後に、特定のユーザーに、Marketo販売インサイトの利用権限を与える必要があります。
 
 1. **設定**&#x200B;に移動します。
 
@@ -172,11 +172,11 @@ MarketorのインスタンスをDynamicsのSales Insightに結び付けます。
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Marketo Sales Insightロールを選択し、「**OK**」をクリックします。
+1. Marketoセールスインサイトロールを選択し、「**OK**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   お前は全部終わらなきゃ！ 最後に、テストを行うには、Marketor Sales Insightにアクセスし、リードや連絡先を調べるユーザーとしてDynamicsにログインします。
+   お前は全部終わらなきゃ！ 最後に、テストを行うには、Marketo販売インサイトにアクセスし、リードや連絡先を調べるユーザーとしてDynamicsにログインします。
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
