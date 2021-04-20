@@ -1,14 +1,14 @@
 ---
-description: テスト用電子メールの送信 — Marketto Docs — 製品ドキュメント
+description: テスト用電子メールの送信 —Marketoドキュメント — 製品ドキュメント
 title: テスト用電子メールの送信
+exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # テスト用電子メールの送信{#send-a-test-email}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. リードまたは連絡先のSalesforceのSales Insightパネルに移動します。
 
-1. 「**電子メールにマーケティングを送信**」をクリックします。
+1. 「**Marketoの電子メールを送信**」をクリックします。
 
 1. 「**テスト受信者を編集**」をクリックします。
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->テスト用の電子メールを送信した後も、「Send Marketto Email」ページは引き続き表示されるので、作成した電子メールが失われることはありません。
+>テスト用の電子メールを送信した後も「Marketo用電子メールの送信」ページに留まるので、作成した電子メールが失われることはありません。
