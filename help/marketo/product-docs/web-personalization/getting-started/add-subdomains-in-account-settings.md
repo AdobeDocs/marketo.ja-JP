@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727870
-description: アカウント設定追加- Marketto Docs — 製品ドキュメントのサブドメイン
-title: アカウント設定の追加サブドメイン
+description: アカウント設定追加-Marketoドキュメント — 製品ドキュメントのサブドメイン
+title: アカウント設定にサブドメインを追加
+exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# アカウント設定の追加サブドメイン{#add-subdomains-in-account-settings}
+# アカウント設定にサブドメインを追加 {#add-subdomains-in-account-settings}
 
 アカウント設定でプライマリドメインにサブドメインを追加する方法を次に示します。 これにより、プライマリドメインの特定のRTP Javascriptに関連するサブドメインを管理できます。 追加したサブドメインにはJavaScriptタグを導入することをお勧めします。
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >_プライマリ_&#x200B;ドメインをアカウントに追加する場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+   >_プライマリ_&#x200B;ドメインをアカウントに追加する場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
