@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359996
-description: 列の並べ替え — マーケティングドキュメント — 製品ドキュメント
+description: 列の並べ替えレポート —Marketoドキュメント — 製品ドキュメント
 title: 列でのレポートの並べ替え
+exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 列でのレポートの並べ替え{#sort-report-on-columns}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a47-3a46.png)
 
-1. 素晴らしい！ これで、レポート内の最も興味深いデータに焦点を当てることができます。
+1. OK！これで、レポート内の最も興味深いデータに焦点を当てることができます。
 
    ![](assets/image2014-9-16-10-3a47-3a50.png)
 
