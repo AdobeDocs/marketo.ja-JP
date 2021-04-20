@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359451
-description: 既存の電子メールの選択 — Marketto Docs — 製品ドキュメント
+description: 既存の電子メールの選択 —Marketoドキュメント — 製品ドキュメント
 title: 既存の電子メールの選択
+exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 既存の電子メールの選択{#choose-an-existing-email}
 
