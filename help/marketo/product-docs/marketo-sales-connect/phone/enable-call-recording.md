@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45416564
-description: 通話の記録を有効にする — Marketto Docs — 製品ドキュメント
+description: 通話の記録を有効にする —Marketoドキュメント — 製品ドキュメント
 title: 通話の記録を有効にする
+exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # 通話記録を有効にする{#enable-call-recording}
 
