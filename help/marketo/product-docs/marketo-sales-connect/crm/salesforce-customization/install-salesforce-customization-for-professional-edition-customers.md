@@ -1,15 +1,15 @@
 ---
 unique-page-id: 27656223
-description: Professional Editionのお客様向けSalesforceカスタマイズのインストール — Marketto Docs — 製品ドキュメント
+description: Professional Editionのお客様向けSalesforceカスタマイズのインストール —Marketoドキュメント — 製品ドキュメント
 title: Professional Editionのお客様向けSalesforceカスタマイズのインストール
+exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Professional Editionのお客様向けSalesforceカスタマイズのインストール{#install-salesforce-customization-for-professional-edition-customers}
 
@@ -21,7 +21,7 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 >* 使用するSalesforceインスタンスには、13個のカスタムアクティビティフィールドをインストールする領域が必要です。
 
 
-## インストール{#installation}
+## インストール {#installation}
 
 1. Sales Connectで、右上のギアアイコンをクリックし、**設定**&#x200B;を選択します。
 
@@ -47,7 +47,7 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
 1. インストールが成功したことを確認するには、Salesforceアカウントにログインします。
 1. 「**セットアップ**」をクリックし、検索バーで「インストール済みのパッケージ」を検索して、「**インストール済みのパッケージ**」をクリックします。
 
-   「Marketo Sales Connect Customizations」が表示されます。
+   ここには、MarketoのSales Connectのカスタマイズが表示されます。
 
    SalesforceインスタンスでSales Connectを設定するには、『インストールガイド』の7ページの「SALES ENGAGED SALESFORCEパッケージの設定」の節から始まる手順に従ってください。
 
@@ -55,7 +55,7 @@ Salesforce Professional Editionをご利用のお客様は、次の手順に従�
    >
    >Sales Engageは、Sales Connectの以前の名前です。
 
-## ガイド{#guides}
+## ガイド {#guides}
 
 [Salesforce Classicのインストールガイド](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
