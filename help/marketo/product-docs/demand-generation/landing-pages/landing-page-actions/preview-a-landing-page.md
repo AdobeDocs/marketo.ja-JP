@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359716
-description: プレビューaランディングページ- Marketto Docs — 製品ドキュメント
+description: プレビューaランディングページ-Marketoドキュメント — 製品ドキュメント
 title: ランディングページのプレビュー
+exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページのプレビュー{#preview-a-landing-page}
 
