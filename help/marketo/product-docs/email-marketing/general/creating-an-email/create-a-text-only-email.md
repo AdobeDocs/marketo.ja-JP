@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900556
-description: テキストのみの電子メールの作成 — Marketto Docs — 製品ドキュメント
+description: テキストのみの電子メールの作成 —Marketoドキュメント — 製品ドキュメント
 title: テキストのみの電子メールの作成
+exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
-
 
 # テキストのみの電子メールの作成{#create-a-text-only-email}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. プログラムを選択し、「**新規**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
+1. プログラムを選択し、「**新規**」ドロップダウンをクリックして、「**新規ローカルアセット**」を選択します。
 
    ![](assets/two-1.png)
 
