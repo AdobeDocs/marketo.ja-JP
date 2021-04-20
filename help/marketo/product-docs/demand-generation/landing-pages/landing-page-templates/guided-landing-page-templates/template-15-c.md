@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437822
-description: テンプレート15-C - Marketto Docs — 製品ドキュメント
+description: テンプレート15-C -Marketoドキュメント — 製品ドキュメント
 title: テンプレート15-C
+exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート15-C {#template-c}
 
