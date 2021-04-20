@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352441
-description: 後日の電子メールのスケジュール — Marketto Docs — 製品ドキュメント
+description: 後日の電子メールのスケジュール —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの後日のスケジュール
+exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 後日の電子メールのスケジュール{#schedule-an-email-for-a-later-date}
 
