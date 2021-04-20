@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720856
-description: フリ追加ーフォームランディングページ用のモバイル表示- Marketto Docs — 製品ドキュメント
+description: フリ追加ーフォームランディングページ用のモバイル表示-Marketoドキュメント — 製品ドキュメント
 title: フ追加リーフォームランディングページ用のモバイル表示
+exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # フ追加リーフォームランディングページ用のモバイル表示{#add-a-mobile-view-for-your-free-form-landing-page}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >フリーフォームテンプレートはアップグレードが必要な場合があります。 このメッセージが表示された場合は、既存のフリーフォームランディングページテンプレートをモバイル互換](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)にする方法について、すばやくお読みください。[
 
-1. 素晴らしい！ これで、ランディングページーのモバイルバージョンがアクティベートされました。 「**閉じる**」をクリックします。
+1. OK！これで、ランディングページーのモバイルバージョンがアクティベートされました。 「**閉じる**」をクリックします。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
