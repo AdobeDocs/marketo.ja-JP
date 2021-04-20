@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360184
-description: キャンペーンアクティビティレポートのフィルター — Marketto Docs — 製品ドキュメント
+description: キャンペーンアクティビティレポートのフィルタ —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンアクティビティレポートのフィルタリング
+exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンアクティビティレポートのフィルタ{#filter-a-campaign-activity-report}
 
