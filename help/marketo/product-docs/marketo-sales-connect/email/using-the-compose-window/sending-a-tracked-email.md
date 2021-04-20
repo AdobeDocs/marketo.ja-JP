@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37356565
-description: 追跡された電子メールの送信 — Marketto Docs — 製品ドキュメント
+description: 追跡された電子メールの送信 —Marketoドキュメント — 製品ドキュメント
 title: 追跡する電子メールの送信
+exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
 # 追跡する電子メールの送信{#sending-a-tracked-email}
 
-Marketto Sales Connectと共に電子メールを送信すると、表示（電子メールが開く）とクリック（クリックされたリンク）が追跡されます。
+Marketoのセールスコネクトで電子メールを送信すると、表示（電子メールが開く）とクリック（クリックされたリンク）が追跡されます。
 
 >[!PREREQUISITES]
 >
