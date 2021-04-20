@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359553
-description: 電子メ追加ールのチャンピオン/対抗者 — Marketto Docs — 製品ドキュメント
+description: 電子メ追加ールチャンピオン/対抗製品 —Marketoドキュメント — 製品ドキュメント
 title: Eメール追加チャンピオン/対抗者
+exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Eメール追加チャンピオン/チャレンジャー{#add-an-email-champion-challenger}
 
