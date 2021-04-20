@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger — 件名行 — Marketto Docs — 製品ドキュメント
+description: Champion/Chalenger — 件名行 —Marketoドキュメント — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 件名行
+exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：件名行{#champion-challenger-subject-line}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
-   進め！ 続けよう。
+   進捗! 続けよう。
 
    >[!MORELIKETHIS]
    >
