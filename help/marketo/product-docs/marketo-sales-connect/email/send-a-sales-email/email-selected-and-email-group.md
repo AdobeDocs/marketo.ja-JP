@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352519
-description: 選択済みおよび電子メールグループの電子メール — Marketto Docs — 製品ドキュメント
+description: 選択および電子メールグループ —Marketoドキュメント — 製品ドキュメント
 title: 選択した電子メールとグループの電子メール
+exl-id: b477b93e-1b49-4cae-9145-5f5350aa6541
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 選択された電子メールとグループの電子メール{#email-selected-and-email-group}
 
 グループを作成して連絡先を追加すると、ターゲットグループの電子メールを送信する際に2つのオプションがあります。
 
-## 選択された電子メール{#email-selected}
+## メール選択済み {#email-selected}
 
 選択した電子メールを使用して、連絡先のグループ内の特定の受信者を選択できます。 また、この方法では、各電子メールが送信される前に各電子メールを編集できます。
 
