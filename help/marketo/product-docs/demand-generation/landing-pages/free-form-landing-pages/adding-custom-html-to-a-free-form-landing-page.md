@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359730
-description: カスタムHTMLのフリーフォームランディングページへの追加 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページへのカスタムHTMLの追加 —Marketoドキュメント — 製品ドキュメント
 title: 自由形式ランディングページへのカスタムHTMLの追加
+exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # フリーフォームランディングページへのカスタムHTMLの追加{#adding-custom-html-to-a-free-form-landing-page}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Supportは、カスタムHTMLのトラブルシューティングを支援するように設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
+>Marketoサポートは、カスタムHTMLのトラブルシューティングを支援するためには設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
 
 1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
