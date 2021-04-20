@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
-description: Sales Insight電子メールパフォーマンスレポート — Marketto Docs — 製品ドキュメント
-title: Sales Insight電子メールパフォーマンスレポート
+description: Sales Insight電子メールパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
+title: セールスインサイトのメール効果レポート
+exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Sales Insight電子メールパフォーマンスレポート{#sales-insight-email-performance-report}
+# セールスインサイトのメール効果レポート {#sales-insight-email-performance-report}
 
 Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で送信される電子メールのパフォーマンスを表示します。
 
@@ -33,7 +33,7 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   素晴らしい！ これで、営業チームから送信された電子メールのパフォーマンスを確認できます。
+   OK！これで、営業チームから送信された電子メールのパフォーマンスを確認できます。
 
    >[!NOTE]
    >
