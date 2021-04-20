@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317338
-description: ブロックされたドメイン — Marketto Docs — 製品ドキュメント
-title: ブロックされたドメイン
+description: ブロックされたドメイン —Marketoドキュメント — 製品ドキュメント
+title: ブロック済みドメイン
+exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# ブロックされたドメイン{#blocked-domains}
+# ブロック済みドメイン {#blocked-domains}
 
 競合他社や既知のスパムトラップなど、連絡を必要としないドメインを誤ってメールで送信するのを防ぐことで、販売チームの成功を支援します。
 
