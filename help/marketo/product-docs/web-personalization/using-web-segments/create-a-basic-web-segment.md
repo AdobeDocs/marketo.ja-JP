@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719344
-description: 基本的なWebセグメントの作成 — Marketto Docs — 製品ドキュメント
+description: 基本Webセグメントの作成 —Marketoドキュメント — 製品ドキュメント
 title: 基本Webセグメントの作成
+exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # 基本Webセグメントの作成{#create-a-basic-web-segment}
 
