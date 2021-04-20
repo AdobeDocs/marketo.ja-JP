@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7504180
-description: LinkedInリストセグメント — Marketto Docs -リストドキュメントとしてのMarketoオーディエンスまたはスマート製品の使用
-title: LinkedInオーディエンスセグメントとしてのマーケティングリストまたはスマートリストの使用
+description: MarketoリストまたはスマートリストをLinkedInオーディエンスセグメント —Marketoドキュメント — 製品ドキュメントとして使用する
+title: MarketoリストまたはスマートリストをLinkedInオーディエンスセグメントとして使用する
+exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# MarketoリストまたはスマートリストをLinkedInオーディエンスセグメントとして使用する{#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-# LinkedInオーディエンスセグメントとしてのMarketoリストまたはスマートリストの使用{#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
-
-マーケティング担当者をLinkedInオーディエンスと統合します。
+Marketoの人々をLinkedInのオーディエンスと統合します。
 
 >[!PREREQUISITES]
 >
->[LaunchPointサ追加ービスとしての一致したオーディエンスのLinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[LinkedIn追加がLaunchPointサービスとしてオーディエンスに一致しました](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. **データベース**&#x200B;に移動します。
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >広告ネットワーク統合を使用してLinkedInにオーディエンスを送信する場合、Marketorは電子メールアドレスのみを送信します。
+   >広告ネットワーク統合を使用してLinkedInにオーディエンスを送信する場合、Marketoは電子メールアドレスのみを送信します。
 
-1. 「**LinkedIn**」を選択し、「**次へ**」をクリックします。
+1. **LinkedIn**&#x200B;を選択し、**次へ**&#x200B;をクリックします。
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >LinkedInは、2018年3月に「オーディエンスをクリアし、リードを追加」プッシュタイプに使用されるAPIを非推奨となりました。 このオプションは、Marketorの2018年第1四半期リリースではご利用いただけません。
+   >linkedInは、2018年3月に「オーディエンスをクリアし、リードを追加」プッシュタイプに使用されるAPIを廃止しました。 このオプションは、Marketoの2018年第1四半期リリースではご利用いただけません。
 
 1. **プッシュタイプ**&#x200B;を選択します。 「**更新**」をクリックします。
 
@@ -63,4 +63,4 @@ ht-degree: 0%
    >
    >同期が行われるまで15分お待ちください。
 
-ハイフィーブ！ データは、LinkedInのオーディエンスと一致するようになります。 アカウントと連絡先のターゲット設定用にLinkedInにリストをアップロードする方法については、[LinkedInのマーケティングソリューションヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)を参照してください。
+ハイフィーブ！ データは、LinkedInのオーディエンスと共に提供されます。 アカウントと連絡先のターゲット設定用にリストをLinkedInにアップロードする方法については、[LinkedInのマーケティングソリューションヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)を参照してください。
