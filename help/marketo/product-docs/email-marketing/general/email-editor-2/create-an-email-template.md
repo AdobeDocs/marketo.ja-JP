@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096400
-description: 電子メールテンプレートの作成 — Marketto Docs — 製品ドキュメント
+description: 電子メールテンプレートの作成 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールテンプレートの作成
+exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールテンプレートの作成{#create-an-email-template}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Supportは、カスタムHTMLのトラブルシューティングを支援するように設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
+>Marketoサポートは、カスタムHTMLのトラブルシューティングを支援するためには設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
 
 ## 新しい電子メールテンプレートの作成{#create-a-new-email-template}
 
