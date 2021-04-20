@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504047
-description: 売上高エクスプローラーレポートの作成 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: 売上高エクスプローラレポートの作成 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラレポートの作成
+exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # 売上高エクスプローラレポートの作成{#create-a-revenue-explorer-report}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. 「**売上高エクスプローラ**」領域に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-14-3a22-3a32.png)
 
-   素晴らしい！ レポートを正式に作成しました。 フィールドを追加してカスタマイズする時間！
+   OK！レポートを正式に作成しました。 フィールドを追加してカスタマイズする時間！
 
    ![](assets/image2015-3-24-13-3a26-3a8.png)
 
