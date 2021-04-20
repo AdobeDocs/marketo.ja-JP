@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359807
-description: 懸賞のスタイルのカスタマイズ — Marketto Docs — 製品ドキュメント
+description: 懸賞のスタイルのカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: 懸賞のスタイルのカスタマイズ
+exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # 懸賞のスタイルのカスタマイズ{#customize-sweepstakes-styles}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
