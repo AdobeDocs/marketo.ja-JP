@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359587
-description: Champion/Challenger — 電子メールテストの破棄 — Marketto Docs — 製品ドキュメント
+description: Champion/Challenger — 電子メールテストの破棄 —Marketoドキュメント — 製品ドキュメント
 title: Champion/Challenger — 電子メールテストの破棄
+exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：電子メールテストの破棄{#champion-challenger-discard-an-email-test}
 
