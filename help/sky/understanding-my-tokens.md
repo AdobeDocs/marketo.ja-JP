@@ -1,14 +1,14 @@
 ---
 title: understanding-my-tokens
 description: 自分のトークンについて
+exl-id: d56748e2-d742-45dd-96a8-dd80e30d9d8b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '333'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # 自分のトークンについて
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 >
 >エンゲージメントプログラムから送信された電子メールが、デフォルトプログラムの子電子メール(エンゲージメントプログラムのローカル電子メールではなく)の場合、電子メールで使用されるマイトークンは、子電子メールが存在するデフォルトプログラムから解決されます。
 
-## トークンの使用
+## トークン使用
 
 任意のトークンを選択し、右上隅の使用状況アイコンをクリックして、そのトークンを含むアセットのリストを表示します。
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 各マイトークンの詳細：
 
-* [CRMキャンペーン](/help/sky/my-token-crm-campaign.md)
+* [CRM キャンペーン](/help/sky/my-token-crm-campaign.md)
 * [日付](/help/sky/my-token-date.md)
 * [カレンダーファイル](/help/sky/my-token-calendar-file.md)
 * [画像](/help/sky/my-token-image.md)
 * [リンク](/help/sky/my-token-link.md)
-* [数値](/help/sky/my-token-number.md)
-* [リッチテキスト](/help/sky/my-token-rich-text.md)
+* [数字](/help/sky/my-token-number.md)
+* [リッチ テキスト](/help/sky/my-token-rich-text.md)
 * [スコア](/help/sky/my-token-score.md)
-* [電子メールスクリプト](/help/sky/my-token-email-script.md)
+* [メールスクリプト](/help/sky/my-token-email-script.md)
 * [テキスト](/help/sky/my-token-text.md)
