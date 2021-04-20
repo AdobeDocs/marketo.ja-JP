@@ -7,7 +7,7 @@ translation-type: tm+mt
 source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 0%
 # Marketo Skyドキュメント{#sky}
 
 + [ホーム](home.md)
-+ はじめに{#getting-started}
++ 開始方法 {#getting-started}
    + [Marketo Skyの機能](marketo-sky-features.md)
    + [使い始める方法](how-to-enable-roles-for-marketo-sky.md)
-+ イベントプログラム{#event-programs}
++ イベントプログラム {#event-programs}
    + [イベントキャップの設定](setting-an-event-cap.md)
    + [イベント目標の設定](setting-event-goals.md)
 + キャンペーンフォルダ{#campaign-folders}
@@ -27,10 +27,10 @@ ht-degree: 0%
    + [キャンペーンフォルダー：「マイトークン」タブ](campaign-folder-my-tokens-tab.md)
    + [キャンペーンフォルダー：「概要」タブ](campaign-folder-overview-tab.md)
    + [キャンペーンフォルダーの作成](create-a-campaign-folder.md)
-+ Design Studio {#design-studio}
++ デザイン スタジオ {#design-studio}
    + [Adobe Experience Managerでのアセットの読み込み](importing-assets-with-adobe-experience-manager.md)
-   + [マーケティング画像エディター](marketo-image-editor.md)
-+ アクションプログラム{#engagement-programs}
+   + [Marketo画像エディタ](marketo-image-editor.md)
++ エンゲージメントプログラム {#engagement-programs}
    + [ストリームコンテンツのアクティブ化と非アクティブ化](activate-and-deactivate-stream-content.md)
    + [エンゲージメ追加ントプログラムへの流れ](add-a-stream-to-an-engagement-program.md)
    + [エンゲージメ追加ントストリームのコンテンツ](add-content-to-an-engagement-stream.md)
@@ -46,16 +46,16 @@ ht-degree: 0%
    + [ストリームコンテンツの削除](remove-stream-content.md)
    + [ストリーム名の変更](rename-a-stream.md)
    + [「エンゲージメントプログラムのメンバー」を参照](see-members-of-an-engagement-program.md)
-   + [ストリームカデンスを設定](set-stream-cadence.md)
+   + [ストリーム ケイデンスの設定](set-stream-cadence.md)
    + [アクションプログラムのオン/オフ](turn-an-engagement-program-on-and-off.md)
    + [エンゲージメントのプログラムについて](understanding-engagement-programs.md)
    + [エンゲージメントスコアについて](understanding-the-engagement-score.md)
    + [エンゲージメントプログラムストリームでのプログラムの使用](using-a-program-in-an-engagement-program-stream.md)
-+ ラベル{#labels}
++ ラベル {#labels}
    + [ラベル追加の削除](add-and-remove-labels.md)
    + [元のラベルからコピーにラベルをコピー](copy-labels-from-original-to-clone.md)
    + [ラベルを親から子にコピー](copy-labels-from-parent-to-child.md)
-+ マイトークン{#my-tokens}
++ マイトークン {#my-tokens}
    + [マイトークンフォルダーの作成](create-my-token-folders.md)
    + [マイトークンアクション：トークン名の編集、削除、クローン、コピー](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [マイトークン：カレンダーファイル](my-token-calendar-file.md)
@@ -76,7 +76,7 @@ ht-degree: 0%
    + [期待される動作](expected-behavior.md)
    + [モデルの正常性およびデータの有効性](model-health-and-data-validity.md)
    + [目標追跡と予測登録について](understanding-goal-tracking-and-projected-registrations.md)
-+ プログラム{#programs}
++ プログラム {#programs}
    + [プログラムのアーカイブ](archive-a-program.md)
    + [新しいプログラムの作成](create-a-new-program.md)
    + [プログラムの削除](delete-a-program.md)
@@ -85,14 +85,14 @@ ht-degree: 0%
    + [ローカルアセット：一括処理](local-assets-mass-actions.md)
    + [「プログラムの概要」タブの使用](using-the-program-overview-tab.md)
    + [「プログラム設定」タブの使用](using-the-program-setup-tab.md)
-+ プログラムスケジュール表示{#program-schedule-view}
++ プログラムスケジュールビュー {#program-schedule-view}
    + [プログラムスケジュール表示での基本エントリの作成](create-a-basic-entry-in-program-schedule-view.md)
    + [プログラムスケジュール表示でのバッチスマートキャンペーンの作成](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [プログラムスケジュール表示での電子メールプログラムの作成](create-an-email-program-in-program-schedule-view.md)
    + [プログラムスケジュール表示のエントリの削除](delete-an-entry-in-program-schedule-view.md)
    + [プログラムスケジュール表示でのエントリの編集](edit-an-entry-in-program-schedule-view.md)
    + [プログラムスケジュール表示のナビゲート](navigating-program-schedule-view.md)
-+ スマートキャンペーン{#smart-campaigns}
++ スマートキャンペーン {#smart-campaigns}
    + [トリガースマートキャンペーンのアクティブ化/非アクティブ化](activate-deactivate-a-trigger-smart-campaign.md)
    + [スマ追加ートキャンペーンへのフローステップ](add-a-flow-step-to-a-smart-campaign.md)
    + [スマート・キャンペーンへの通信制限の適用](apply-communication-limits-to-a-smart-campaign.md)
@@ -116,7 +116,7 @@ ht-degree: 0%
 + スマートリストと静的リスト{#smart-lists-and-static-lists}
    + [フローアクションの保存](save-flow-actions.md)
    + [スマートリストルールの保存](save-smart-list-rules.md)
-+ ツリー{#tree}
++ 樹木 {#tree}
    + [ツリーの設定](configuring-the-tree.md)
    + [ツリー内のアイコンについて](understanding-icons-in-the-tree.md)
    + [フィルターを使用したツリーの並べ替え](use-filters-to-sort-the-tree.md)
