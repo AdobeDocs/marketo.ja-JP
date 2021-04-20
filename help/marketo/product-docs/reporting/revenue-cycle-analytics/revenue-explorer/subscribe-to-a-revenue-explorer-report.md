@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360397
-description: 売上高エクスプローラレポートの購読 — Marketto Docs — 製品ドキュメント
+description: 売上高エクスプローラレポートの購読 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラレポートの購読
+exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # 売上高エクスプローラレポートの登録{#subscribe-to-a-revenue-explorer-report}
 
