@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097873
-description: 予測コンテンツアクティビティのためのスマートなリストの定義 — Marketto Docs — 製品ドキュメント
+description: 予測コンテンツアクティビティ用のスマートリストの定義 —Marketoドキュメント — 製品ドキュメント
 title: 予測コンテンツアクティビティのためのスマートリストの定義
+exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 translation-type: tm+mt
-source-git-commit: f1d7b270454ba41db5197a069e0dcc2caebdec63
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
-
 
 # 予測コンテンツアクティビティ用のスマートリストの定義{#define-a-smart-list-for-predictive-content-activities}
 
