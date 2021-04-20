@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504725
-description: 売上高エクスプローラレポートの保存 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: 売上高エクスプローラレポートの保存 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラ・レポートの保存
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # 売上高エクスプローラレポートの保存{#saving-a-revenue-explorer-report}
 
