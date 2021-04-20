@@ -5,12 +5,12 @@ translation-type: tm+mt
 source-git-commit: b27c02e79bccb00773462c2d0d9ef18912a13ffe
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 
-# アクションプログラム
+# エンゲージメントプログラム
 
 * [ストリームコンテンツのアクティブ化と非アクティブ化](activate-and-deactivate-stream-content.md)
 * [エンゲージメ追加ントプログラムへの流れ](add-a-stream-to-an-engagement-program.md)
@@ -27,7 +27,7 @@ ht-degree: 0%
 * [ストリームコンテンツの削除](remove-stream-content.md)
 * [ストリーム名の変更](rename-a-stream.md)
 * [「エンゲージメントプログラムのメンバー」を参照](see-members-of-an-engagement-program.md)
-* [ストリームカデンスを設定](set-stream-cadence.md)
+* [ストリーム ケイデンスの設定](set-stream-cadence.md)
 * [アクションプログラムのオン/オフ](turn-an-engagement-program-on-and-off.md)
 * [エンゲージメントのプログラムについて](understanding-engagement-programs.md)
 * [エンゲージメントスコアについて](understanding-the-engagement-score.md)
