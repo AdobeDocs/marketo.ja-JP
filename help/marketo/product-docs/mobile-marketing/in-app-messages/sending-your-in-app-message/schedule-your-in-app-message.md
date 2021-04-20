@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11370503
-description: アプリ内メッセージのスケジュール — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージのスケジュール設定 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージのスケジュール
+exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージのスケジュール{#schedule-your-in-app-message}
 
