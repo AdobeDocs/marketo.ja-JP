@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900565
-description: 電子メール — Marketto Docs — 製品ドキュメントにカレンダーイベント(.ics)を含める
+description: 電子メール —Marketoドキュメント — 製品ドキュメントにカレンダーイベント(.ics)を含める
 title: 電子メールにカレンダーイベント(.ics)を含める
+exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールにカレンダーイベント(.ics)を含める{#include-a-calendar-event-ics-in-an-email}
 
-カレンダーファイルトークンを使用すると、Marketorの電子メールにカレンダーイベント(.ics)リンクを追加できます。
+カレンダーファイルトークンを使用すると、Marketoの電子メールにカレンダーイベント(.ics)リンクを追加できます。
 
 >[!PREREQUISITES]
 >
