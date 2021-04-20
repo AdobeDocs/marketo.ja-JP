@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352402
-description: チームメンバーの招待 — Marketto Docs — 製品ドキュメント
+description: チームメンバーの招待 —Marketoドキュメント — 製品ドキュメント
 title: チームメンバーの招待
+exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # チームメンバーを招待{#invite-team-members}
 
