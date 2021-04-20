@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719404
-description: Webキャンペーンー — Marketto Docs — 製品ドキュメントをABテスト
+description: WebキャンペーンーのABテスト —Marketoドキュメント — 製品ドキュメント
 title: WebキャンペーンのABテスト
+exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # WebキャンペーンのABテスト{#ab-test-your-web-campaign}
 
