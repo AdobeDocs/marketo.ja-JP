@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359761
-description: a追加ビデオ — Marketto Docs — 製品ドキュメント
+description: a追加ビデオ —Marketoドキュメント — 製品ドキュメント
 title: 追加ビデオ
+exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # 追加ビデオ{#add-a-video}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. ランディングページーに移動し、「**ドラフトを編集**」をクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >時間を節約するために、「**コピー元**」オプションを使用して、既存のビデオ共有からすべての設定をコピーできます。
 
-おめでとう！ ランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebookに[投稿したり、[ビデオ共有をWebサイトに](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)投稿したりすることもできます。](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+おめでとうございます！ランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[公開したり、[ビデオ共有をWebサイト](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)に配置したりすることもできます。
 
 >[!MORELIKETHIS]
 >
