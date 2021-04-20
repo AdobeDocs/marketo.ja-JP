@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359870
-description: アップロードした画像またはファイルのURL - Marketto Docs — 製品ドキュメント
+description: アップロードした画像またはファイルのURL -Marketoドキュメント — 製品ドキュメント
 title: アップロードされた画像またはファイルのURLの検索
+exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
 # アップロードされた画像またはファイルのURL {#find-the-url-of-an-uploaded-image-or-file}を検索
 
-アップロードした画像またはファイルのWebアドレス(URL)を探していますか？ マーケットは君をカバーした。
+アップロードした画像またはファイルのWebアドレス(URL)を探していますか？ Marketoは君を覆った。
 
 1. **Design Studio**&#x200B;に移動します。
 
