@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360409
-description: プログラム分析を示す電子メール情報レポートの作成 — Marketto Docs — 製品ドキュメント
+description: プログラム情報を表示する電子メール分析レポートの作成 —Marketoドキュメント — 製品ドキュメント
 title: プログラム情報を表示する電子メール分析レポートの作成
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # プログラム情報を表示する電子メール分析レポートの作成{#build-an-email-analysis-report-that-shows-program-information}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. **売上高エクスプローラ**&#x200B;を起動します。
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   素晴らしい仕事！ 次のようなレポートが必要です。
+   OK！次のようなレポートが必要です。
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
