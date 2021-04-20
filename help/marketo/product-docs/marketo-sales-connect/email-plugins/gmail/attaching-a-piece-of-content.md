@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352442
-description: コンテンツの一部の添付 — Marketto Docs — 製品ドキュメント
+description: コンテンツの一部の添付 —Marketoドキュメント — 製品ドキュメント
 title: コンテンツの一部の添付
+exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
 
 ---
-
 
 # コンテンツの一部の添付{#attaching-a-piece-of-content}
 
