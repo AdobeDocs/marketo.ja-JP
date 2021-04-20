@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356282
-description: Salesforce Lightning - Marketto Docs — 製品ドキュメントのバルクアクション
+description: Salesforce Lightningのバルクアクション —Marketoドキュメント — 製品ドキュメント
 title: Salesforce Lightningのバルクアクション
+exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce Lightningのバルクアクション{#bulk-actions-in-salesforce-lightning}
 
@@ -35,7 +35,7 @@ Salesforce Lightningでバルクアクションを設定する方法を次に示
 
    ![](assets/five.png)
 
-1. 「カスタムボタン」で、「Marketoキャンペーン（稲妻）」追加&#x200B;**と「** Marketo Email（稲妻）**に**&#x200B;送信」を探して選択します。 **追加**&#x200B;ボタンをクリックします。
+1. 「カスタムボタン」で、「**Marketoキャンペーン（稲妻）追加**」と「**Marketo電子メール（稲妻）**」を探して選択します。 **追加**&#x200B;ボタンをクリックします。
 
    ![](assets/six.png)
 
