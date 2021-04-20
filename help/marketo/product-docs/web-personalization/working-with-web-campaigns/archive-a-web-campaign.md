@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12978938
-description: Webキャンペーンーのアーカイブ — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンのアーカイブ —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンのアーカイブ
+exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンをアーカイブ{#archive-a-web-campaign}
 
