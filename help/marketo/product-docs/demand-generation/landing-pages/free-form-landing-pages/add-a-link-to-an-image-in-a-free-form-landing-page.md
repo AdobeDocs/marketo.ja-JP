@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472314
-description: フリ追加ーフォームランディングページ内の画像へのリンク — Marketto Docs — 製品ドキュメント
+description: フリ追加ーフォームランディングページ内の画像へのリンク —Marketoドキュメント — 製品ドキュメント
 title: フリ追加ーフォームランディングページ内の画像へのリンク
+exl-id: ad845417-2414-407f-998b-eeebe38f328f
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # フリ追加ーフォームランディングページ内の画像へのリンク{#add-a-link-to-an-image-in-a-free-form-landing-page}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/add-link.png)
 
-   おめでとう！ これで、ランディングページ上の画像へのリンクが正常に追加されました。 これで、[ページ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)をプレビューして実行中のページを表示できます。
+   おめでとうございます！これで、ランディングページ上の画像へのリンクが正常に追加されました。 これで、[ページ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)をプレビューして実行中のページを表示できます。
 
 >[!TIP]
 >
