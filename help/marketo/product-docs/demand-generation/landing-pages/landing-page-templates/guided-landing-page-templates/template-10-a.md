@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783999
-description: テンプレート10-A - Marketto Docs — 製品ドキュメント
+description: テンプレート10-A -Marketoドキュメント — 製品ドキュメント
 title: テンプレート10-A
+exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート10-A {#template-a}
 
