@@ -1,22 +1,22 @@
 ---
-description: 概要 — Marketto Docs — 製品ドキュメント
+description: 概要 —Marketoドキュメント — 製品ドキュメント
 title: 概要
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
+# 概要 {#overview}
 
-# 概要{#overview}
-
-次世代のMarketo Engageエクスペリエンスへようこそ。新しいインターフェイスは、使い勝手の向上と、Marketoプラットフォーム全体の新しいルック&amp;フィールを提供します。
+次世代のMarketo Engageエクスペリエンスをご利用いただき、Marketoプラットフォーム全体の新しいルック&amp;フィールと共に、使い勝手の向上を提供する新しいインターフェイスをご利用いただけます。
 
 >[!PREREQUISITES]
 >
->ITチームが許可リストの使用を制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべてのMarketingのリソースとWebソケットを許可するように依頼してください。
+>ITチームがMarketoを使用したWebアクセスを制限し許可リストている場合は、すべてのリソースとWebソケットを許可するために、次のドメイン（アスタリスクを含む）を追加するように依頼してください。
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -43,7 +43,7 @@ ht-degree: 1%
 
 ![](assets/overview-3.png)
 
-**ツリー**
+**樹木**
 
 木もアップグレードされました。
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 **グローバルナビゲーション**
 
-さようならスーパーボール。 すべての主要な「マーケティング」セクションにすばやくアクセスできるようになりました。
+さようならスーパーボール。 Marketoの主要セクションをすべてすばやく利用できるようになりました。
 
 ![](assets/overview-5.png)
 
@@ -65,7 +65,7 @@ ht-degree: 1%
 
 新しいツリー機能は数多く利用できます。
 
-**Marketo Classicと新しいMarketing Toの違い**
+**Marketo Classic対ニューMarketo**
 
 <table> 
  <tbody>
@@ -194,7 +194,7 @@ ht-degree: 1%
    <td>過去に上場したすべてのスーパーボール</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>MEUE体験に関するフィードバックを提供するには、こちらを使用してください</td> 
   </tr>
   <tr>
@@ -210,7 +210,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->以前はスーパーボールのドロップダウンに存在していたものはすべて、「マイマーケット」のタイルとして引き続き利用できます。
+>「スーパーボール」のドロップダウンに住んでいたものはすべて、「マイMarketo」のタイルとして今も使えます。
 
 >[!TIP]
 >
