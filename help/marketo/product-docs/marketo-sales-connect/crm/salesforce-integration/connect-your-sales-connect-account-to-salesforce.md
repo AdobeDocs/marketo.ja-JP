@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352423
-description: Sales ConnectアカウントをSalesforce - Marketto Docs — 製品ドキュメントに接続します。
+description: Sales ConnectアカウントをSalesforce -Marketoドキュメント — 製品ドキュメントに接続します。
 title: Sales ConnectアカウントをSalesforceに接続
+exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Sales ConnectアカウントをSalesforceに接続{#connect-your-sales-connect-account-to-salesforce}
 
