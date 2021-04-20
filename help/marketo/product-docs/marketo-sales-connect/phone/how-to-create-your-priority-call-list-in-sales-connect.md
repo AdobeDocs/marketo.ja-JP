@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352433
-description: Sales ConnectでのPriority Callリストの作成方法 — Marketto Docs — 製品ドキュメント
+description: Sales Connectでの優先度の高い通話リストの作成方法 —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectでの優先度呼び出しリストの作成方法
+exl-id: 55d3b87d-600c-405c-9425-2abc57e1483e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Sales Connectでの優先度呼び出しリストの作成方法{#how-to-create-your-priority-call-list-in-sales-connect}
 
