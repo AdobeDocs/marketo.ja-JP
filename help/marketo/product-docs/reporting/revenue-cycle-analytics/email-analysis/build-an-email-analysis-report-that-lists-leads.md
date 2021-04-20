@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360407
-description: リストがリードする電子メール分析レポートの作成 — Marketto Docs — 製品ドキュメント
+description: リード —Marketoドキュメント —リストドキュメントを含む電子メール分析レポートの作成
 title: リストがリードする電子メール分析レポートの作成
+exl-id: f431610c-6570-4df0-9d64-d37d21010604
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # リストがリードする電子メール分析レポートの作成{#build-an-email-analysis-report-that-lists-leads}
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 次の手順に従って、特定の電子メールを送信したすべてのリードを表示する電子メール分析レポートを作成します。このレポートには、クリックと開く統計も含まれます。
 
