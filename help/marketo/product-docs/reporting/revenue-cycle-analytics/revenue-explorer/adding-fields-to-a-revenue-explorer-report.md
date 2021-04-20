@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504383
-description: 売上高エクスプローラレポートへのフィールドの追加 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: 売上高エクスプローラレポートへのフィールドの追加 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラレポートへのフィールドの追加
+exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 売上高エクスプローラレポートへのフィールドの追加{#adding-fields-to-a-revenue-explorer-report}
 
@@ -18,8 +18,8 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <th>フィールドタイプ</th> 
-   <th>説明</th> 
+   <th>フィールドのタイプ</th> 
+   <th>詳細</th> 
   </tr> 
   <tr> 
    <td>黄色のフィールドまたはDimension</td> 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   すごい！ これで本格的な報告ができました。
+   やりましたね！これで本格的な報告ができました。
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
