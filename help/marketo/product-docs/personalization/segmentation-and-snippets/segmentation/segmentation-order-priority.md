@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359500
-description: セグメントの順序の優先順位 — Marketto Docs — 製品ドキュメント
+description: セグメントの順序の優先順位 —Marketoドキュメント — 製品ドキュメント
 title: セグメントの順序の優先順位
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # セグメント順序の優先度{#segmentation-order-priority}
 
