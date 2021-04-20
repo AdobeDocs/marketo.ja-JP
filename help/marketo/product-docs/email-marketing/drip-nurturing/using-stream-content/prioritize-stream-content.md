@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359834
-description: ストリームコンテンツの優先順位付け — Marketto Docs — 製品ドキュメント
+description: ストリームコンテンツの優先順位の設定 —Marketoドキュメント — 製品ドキュメント
 title: ストリームコンテンツの優先順位付け
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # ストリームコンテンツの優先順位を設定{#prioritize-stream-content}
 
