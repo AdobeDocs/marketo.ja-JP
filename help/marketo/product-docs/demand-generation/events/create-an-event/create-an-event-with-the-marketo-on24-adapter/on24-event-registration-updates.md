@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096683
-description: ON24イベント登録の更新 — Marketto Docs — 製品ドキュメント
+description: ON24イベント登録の更新 —Marketoドキュメント — 製品ドキュメント
 title: ON24イベント登録の更新
+exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
 
 ---
-
 
 # ON24イベント登録の更新{#on-event-registration-updates}
 
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 ## ON24 {#updating-member-status-from-on}からメンバーの状態を更新中
 
-Marketoは、太平洋標準時の約11時に、毎夜自動的に出席情報を取り込みます。 出席情報を手動で更新するには、**イベントアクション**&#x200B;の下の「ウェビナープロバイダーから更新&#x200B;**」をクリックします。**
+Marketoは、毎夜太平洋午後11時頃に自動的に出席情報を取り込みます。 出席情報を手動で更新するには、**イベントアクション**&#x200B;の下の「ウェビナープロバイダーから更新&#x200B;**」をクリックします。**
 
 >[!MORELIKETHIS]
 >
->[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[MarketoON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
