@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360301
-description: Sales Insight - Marketto Docs — 製品ドキュメントの星と炎に使用するスコアフィールドの設定
+description: Sales Insightの「Stars」と「Flames」に使用するスコアフィールドの設定 —Marketoドキュメント — 製品ドキュメント
 title: Sales Insightの星と炎に使用するスコアフィールドの設定
+exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Sales Insightの星と炎に使用するスコアフィールドの設定{#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-デフォルトでは、Marketo Sales Insightは、**リードスコア**&#x200B;フィールドを使用して、星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
+デフォルトでは、Marketo販売インサイトは、**リードスコア**&#x200B;フィールドを使用して、星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
 
 >[!TIP]
 >
