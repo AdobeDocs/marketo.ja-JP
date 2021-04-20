@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096679
-description: 例ON24イベント統合 — Marketto Docs — 製品ドキュメント
+description: ON24イベント統合の例 —Marketoドキュメント — 製品ドキュメント
 title: ON24イベント統合の例
+exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 例ON24イベント統合{#example-on-event-integration}
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->登録データをMarketorにプッシュするには、Marketoフォームを使用してイベントに対してユーザーを登録するか、Marketoフォーム以外のフォームを適切なAPI統合に統合する必要があります。 これは、イベントパートナーの統合を成功させるうえで重要です。 **注**:Marketor以外のランディングページでMarketorフォームを使用している場合、トリガーは「Form Name」を使用して **フォームを** 入力します。
+>登録データをMarketoにプッシュするには、Marketoのフォームを使用してイベント用にユーザーを登録するか、Marketo以外のフォームを適切なAPI統合と共に使用する必要があります。 これは、イベントパートナーの統合を成功させるうえで重要です。 **注**:Marketo以外のランディングページでMarketoフォームを使用している場合、トリガーは「フォーム名を使用して **フォームを** 入力」になります。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **フロー**
 
-   * **進行状況の変更**  — ウェビナー/登録済に設定します。**注意**:このフローステップは、子キャンペーンを設定する場合に必要です。個人の進行状況のステータスが&#x200B;**登録済み**&#x200B;に変わると、マーケットは登録情報をON24にプッシュします。
+   * **進行状況の変更**  — ウェビナー/登録済に設定します。**注意**:このフローステップは、子キャンペーンを設定する場合に必要です。人の進行状況のステータスが&#x200B;**登録済み**&#x200B;に変わると、Marketoは登録情報をON24にプッシュします。
 
    * **電子メールの送信**  — 確認の電子メール(登録を取り消したユーザーがまだ受け取っていることを **** 「操作」に設定)。
 
@@ -93,4 +93,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[MarketoON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
