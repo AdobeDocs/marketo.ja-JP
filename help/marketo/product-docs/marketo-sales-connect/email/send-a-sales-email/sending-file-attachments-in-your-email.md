@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352523
-description: 電子メール — Marketto Docs — 製品ドキュメントでの添付ファイルの送信
+description: 電子メールでの添付ファイルの送信 —Marketoドキュメント — 製品ドキュメント
 title: Eメール内の添付ファイルの送信
+exl-id: 6115b692-169b-457c-af58-437651bc48cc
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールに添付ファイルを送信する{#sending-file-attachments-in-your-email}
 
