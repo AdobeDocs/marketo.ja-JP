@@ -1,14 +1,14 @@
 ---
 title: my-token-link
 description: マイトークンリンク
+exl-id: c44081ae-c100-4fa2-b124-4f80d5c038b4
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
-
 
 # マイトークン：リンク
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「mkt_tokを含める」をオンにすると、ブランドのトラッキングドメインのリンクプレビュー(例：https://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
+   >「mkt_tokを含める」をオンにすると、Marketoにブランドのトラッキングドメインのリンクプレビュー(例：https://mkto-sjqe3355.com/mn/...)が表示されます。 このチェックボックスをオフにすると、リンクが変更されます。 電子メールまたはランディングページのリンクトラッキングをオフにすると、>URLが基本長に短縮されます(例：www.examplepage.com)。
 
 1. 必要に応じて、「[!UICONTROL 詳細]」で、CSSを使用してリンクをカスタマイズできます。 「**[!UICONTROL 保存]**」をクリックします。
 
