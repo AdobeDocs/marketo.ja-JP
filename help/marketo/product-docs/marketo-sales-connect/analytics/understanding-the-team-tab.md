@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352414
-description: 「チーム」タブについて — Marketto Docs — 製品ドキュメント
+description: '[チーム]タブについて — [Marketoドキュメント] - [製品ドキュメント]'
 title: '[チーム]タブについて'
+exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # [チーム]タブについて{#understanding-the-team-tab}
 
