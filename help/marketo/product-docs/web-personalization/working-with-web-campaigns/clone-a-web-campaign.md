@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10093157
-description: Webキャンペーンーのコピー — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンのコピー —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンのコピー
+exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンのコピー{#clone-a-web-campaign}
 
