@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098691
-description: 電子メールの移動 — Marketto Docs — 製品ドキュメント
+description: 電子メールの移動 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの移動
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールの移動{#move-an-email}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. 移動する電子メールを見つけ、右クリックして、**移動**&#x200B;を選択します。
+1. 移動する電子メールを見つけて右クリックし、「**移動**」を選択します。
 
    ![](assets/leadperformance.jpg)
 
