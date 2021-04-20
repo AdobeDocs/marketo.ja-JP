@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355755
-description: コンテンツのロックダウン — Marketto Docs — 製品ドキュメント
+description: コンテンツのロックダウン —Marketoドキュメント — 製品ドキュメント
 title: コンテンツのロックダウン
+exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# コンテンツのロックダウン{#content-lockdown}
+# コンテンツのロックダウン {#content-lockdown}
 
 コンテンツのロックダウンを有効にすることで、管理者以外のユーザーがテンプレートやキャンペーンを編集できないように制限します。 ユーザーは次の操作を実行できません。コンテンツの共有、コピー、編集または削除を行います。 また、テンプレートをアーカイブするオプションもありません。
 
