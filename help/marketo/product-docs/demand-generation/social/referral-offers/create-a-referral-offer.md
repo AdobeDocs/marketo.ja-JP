@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359781
-description: 照会オファーの作成 — Marketto Docs — 製品ドキュメント
+description: 照会オファーの作成 —Marketoドキュメント — 製品ドキュメント
 title: 照会オファーの作成
+exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # 参照オファーの作成{#create-a-referral-offer}
 
-照会オファーは、人々に友達を照会するインセンティブを与えます。 照会を成功させるための目標と報酬を作成します。 ランディングページやWebサイト、さらにはFacebookにも投稿できます。
+照会オファーは、人々に友達を照会するインセンティブを与えます。 照会を成功させるための目標と報酬を作成します。 ランディングページやウェブサイトFacebookにも投稿できます
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. プログラムー内で、**新規**/**新規ローカルアセット**&#x200B;を選択します。
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 参照オファーに問題がある場合は、オファーが承認される前に、問題の対処を求めるメッセージが表示されます。
 
-おめでとう！ 照会オファーを作成しました。
+おめでとうございます！照会オファーを作成しました。
 
 >[!NOTE]
 >
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->次の手順は、参照オファー[をランディングページ、Webサイト、またはFacebookに](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)公開することです。
+>次のステップは、参照オファー[をランディングページ、Webサイト、Facebookで公開することです。](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
