@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2952678
-description: アラート情報トークンの送信{{SP_Send_Alert_Info}} - Marketto Docs — 製品ドキュメントの使用
+description: 警告情報トークンの送信{{SP_Send_Alert_Info}} -Marketoドキュメント — 製品ドキュメントの使用
 title: アラート情報トークンの送信の使用
+exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # アラート情報トークンの送信{#use-the-send-alert-info-token-sp-send-alert-info}を使用
 
@@ -29,14 +29,14 @@ ht-degree: 0%
 
 `{{SP_Send_Alert_Info}}`には次の情報が含まれています。
 
-* マーケティング担当者の詳細へのリンクとしての名と姓
+* Marketoの人の詳細へのリンクとしての名と姓
 * CRM内のユーザーへのリンク
-* アラートを送信したマーケティング担当者のキャンペーン名。
+* アラートを送信したMarketoのキャンペーン名
 * アラートが送信された時刻
 
 >[!NOTE]
 >
->CRMへのリンクは、そのユーザーがCRMシステムにいる場合（現在、Dynamics CRMでは利用できません）にのみ表示されます。 リンクは、マーケティング担当者と非マーケティング担当者の両方のユーザーがアクセスできます。
+>CRMへのリンクは、そのユーザーがCRMシステムにいる（現在Dynamics CRMでは利用できない）場合にのみ表示されます。 このリンクは、Marketoの利用者とMarketo以外の利用者の両方が利用できます。
 
 ## SP_追加Send_Alert_Infoトークンを電子メールに送信{#add-the-sp-send-alert-info-token-to-an-email}
 
