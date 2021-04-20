@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352518
-description: Salesforce - Marketto Docs — 製品ドキュメントから連絡先をインポートする方法
+description: Salesforceから連絡先をインポートする方法 —Marketoドキュメント — 製品ドキュメント
 title: Salesforceから連絡先をインポートする方法
+exl-id: 41d7f0b1-d8ba-4c09-89aa-ee2d9934e824
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Salesforceから連絡先をインポートする方法{#how-to-import-contacts-from-salesforce}
 
