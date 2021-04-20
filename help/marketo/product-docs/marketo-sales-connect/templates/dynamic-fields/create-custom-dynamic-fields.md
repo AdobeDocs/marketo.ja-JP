@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352508
-description: カスタム動的フィールドの作成 — Marketto Docs — 製品ドキュメント
+description: カスタム動的フィールドの作成 —Marketoドキュメント — 製品ドキュメント
 title: カスタム動的フィールドの作成
+exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # カスタム動的フィールドの作成{#create-custom-dynamic-fields}
 
