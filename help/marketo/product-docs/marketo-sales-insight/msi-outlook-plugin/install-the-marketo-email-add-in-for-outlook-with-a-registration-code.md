@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949711
-description: 登録コード — Marketto Docs — 製品ドキュメントを使用したOutlook用Marketto電子メール追加インのインストール
-title: 登録コードを使用したOutlook用Marketo Eメールイン追加のインストール
+description: Outlook用Marketo電子メールイ追加ンを登録コード —Marketoドキュメント — 製品ドキュメントと共にインストールする
+title: 登録コードを使用したOutlook用Marketo電子メールイン追加のインストール
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
-# 登録コード{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}を使用したOutlook用Marketo追加電子メールインのインストール
+# 登録コード{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}を使用してOutlook用Marketo電子メールイ追加ンをインストールする
 
 ユーザーがラップトップの管理設定にアクセスできる場合は、ユーザーに登録コードを直接送信できます。
 
-招待用の電子メールを受け取っていない場合は、マーケティング担当者に招待を依頼してください。
+招待メールを受け取っていない場合は、Marketoの管理者に招待を依頼してください。
 
 >[!PREREQUISITES]
 >
->[Marketo Email 追加-inライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があります。
+>[Marketo電子メールインライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があり追加ます。
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## {#install}をインストール
+## インストール {#install}
 
 1. インストーラーを実行します。
 
@@ -98,16 +98,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. 次に、Microsoft Outlookを開き、「Marketo」ボタンを表示します。
+1. Microsoft Outlookを開き、[Marketo]ボタンを確認します。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   素晴らしい！ これで、「マーケティング」ボタンの位置が改善されました。
+   素晴らしい！ Marketoのボタンの方がいい場所です。
 
-「Marketor Message」アクションと「Log With Marketor」アクションの使用について詳しく説明します。
+「Marketoメッセージ」および「Marketoとログ」アクションの使用についての詳細。
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketorテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Outlook用のMarketo電子メールインを使用した電子メールの送信追加と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketoテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
