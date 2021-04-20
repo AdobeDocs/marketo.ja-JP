@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: フローアクションの保存
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
 # フローアクションの保存
 
 <br> 
 
-フローステップは、資格を得た人(スマートリストで選択した人)のグループに何を起こしたいかをマーケティング担当者に示します。 特定のフローを保存すると、時間を節約できます。
+フローステップは、資格を得た人(スマートリストで選択した人)のグループに対して何を起こしたいかをMarketoに示します。 特定のフローを保存すると、時間を節約できます。
 
 ## フロー・アクションの保存
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![画像4](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. フィルター/トリガーの追加が完了したら、**[!UICONTROL スマートキャンペーンアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 新しいフローを保存]**&#x200B;を選択します。
+1. フィルター/トリガーの追加が完了したら、「**[!UICONTROL スマートキャンペーンアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 新しいフローを保存]**」を選択します。
 
    ![画像5](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
