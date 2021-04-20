@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719340
-description: 特定のIPを追跡対象から除外する — Marketto Docs — 製品ドキュメント
+description: 特定のIPを追跡から除外する —Marketoドキュメント — 製品ドキュメント
 title: 特定のIPを追跡対象から除外
+exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # 特定のIPを追跡対象から除外{#exclude-specific-ips-from-being-tracked}
 
@@ -35,7 +35,7 @@ Webパーソナライゼーションの追跡とレポートから自分の従�
 
    >[!NOTE]
    >
-   >1つのIPv4またはIPv6アドレス、または完全範囲、半範囲、またはサブネットマスクから除外できます。 上の例の項目は、Marketoフォーム自体に示された例に基づいて、それぞれ1つずつ示しています。
+   >1つのIPv4またはIPv6アドレス、または完全範囲、半範囲、またはサブネットマスクから除外できます。 上の例の項目は、Marketoの形式そのものの例に基づき、それぞれ1つずつ示しています。
 
 1. 「IPアドレスを除外」フィールドに、入力したIPアドレスがリストされるようになりました。 IP除外を編集するには、緑色のプラス記号をクリックしてフォームを再度開きます。
 
