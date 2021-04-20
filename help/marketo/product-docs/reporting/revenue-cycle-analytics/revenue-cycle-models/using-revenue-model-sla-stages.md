@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718668
-description: 売上高モデルのSLAステージの使用 — Marketto Docs — 製品ドキュメント
+description: 売上高モデルのSLAステージの使用 —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルのSLAステージの使用
+exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデルのSLAステージの使用{#using-revenue-model-sla-stages}
 
@@ -21,7 +21,7 @@ SLAは、「サービス・レベル・アグリーメント」の略です。 �
 
 ## 追加SLAステージ{#add-an-sla-stage}
 
-1. 新しい売上サイクルモデルのSLAステージを追加するには、マイマーケティングホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
+1. 新しい売上サイクルモデルのSLAステージを追加するには、マイMarketoホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
