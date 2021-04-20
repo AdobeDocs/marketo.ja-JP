@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515207
-description: フリーフォームとガイド付きランディングページについて — Marketto Docs — 製品ドキュメント
+description: フリーフォームとガイド付きランディングページについて —Marketoドキュメント — 製品ドキュメント
 title: フリーフォームとガイド付きランディングページについて
+exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # フリーフォームとガイド付きランディングページについて{#understanding-free-form-vs-guided-landing-pages}
 
@@ -30,6 +30,6 @@ ht-degree: 0%
 * テンプレートで編集可能と定義された領域または変数のみを、エディターでカスタマイズできます。
 * レイアウトを変更し、アセットを追加するには、コードの変更が必要です。
 * テンプレートに組み込まれているルールによって決まる、デバイス全体のルック&amp;フィール。
-* レスポンシブテンプレートをコード化または購入した場合、または事前に作成されたマーケティングテンプレートを変更する場合に最適です。
+* レスポンシブテンプレートをコード化または購入した場合、または事前にビルドされたMarketoテンプレートを変更する場合に最適です。
 
 ![](assets/two-1.png)
