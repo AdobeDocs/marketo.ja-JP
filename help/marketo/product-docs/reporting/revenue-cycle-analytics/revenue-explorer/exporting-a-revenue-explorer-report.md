@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504749
-description: 売上高エクスプローラレポート — Marketto Docs — 製品ドキュメントのエクスポート
+description: 売上高エクスプローラレポートのエクスポート —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラ・レポートのエクスポート
+exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 売上高エクスプローラレポートのエクスポート{#exporting-a-revenue-explorer-report}
 
