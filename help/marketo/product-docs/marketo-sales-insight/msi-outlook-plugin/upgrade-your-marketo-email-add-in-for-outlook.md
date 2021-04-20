@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949279
-description: Outlook用Marketto電子メールイン追加のアップグレード — Marketto Docs — 製品ドキュメント
-title: Outlook用のMarketing To Email 追加 Inのアップグレード
+description: Outlook用のMarketo電子メールイ追加ンをアップグレードする —Marketoドキュメント — 製品ドキュメント
+title: Outlook用のMarketo電子メールイ追加ンをアップグレードする
+exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# Outlook用のMarketo電子メールイ追加ンをアップグレードする{#upgrade-your-marketo-email-add-in-for-outlook}
 
-# Outlook用Marketto Email 追加-Inをアップグレードする{#upgrade-your-marketo-email-add-in-for-outlook}
-
-Outlook用のMarketo Email-追加inの新しいバージョンが利用可能になったら、次の手順に従ってアップグレードします。
+Outlook用のMarketo電子メールインの新しいバージョンが利用可能にな追加ったら、次の手順に従ってアップグレードします。
 
 >[!NOTE]
 >
@@ -119,7 +119,7 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
 *Office 365バージョン：Windowsクライアントのみ（Windows 10、EnterpriseまたはProの場合）。
 
-## アップグレード{#upgrade}
+## アップグレード {#upgrade}
 
 1. [Microsoft Outlookのバージョン](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)を特定します。
 
@@ -161,12 +161,12 @@ Outlook用のMarketo Email-追加inの新しいバージョンが利用可能に
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 次に、Microsoft Outlookを開いて、Marketoボタンの最新バージョンを確認します。
+1. 次に、Microsoft Outlookを開いて、[Marketo]ボタンの最新バージョンを表示します。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketing Eメールインを使用した電子メールの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketorテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Outlook用のMarketo電子メールインを使用した電子メールの送信追加と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketoテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
