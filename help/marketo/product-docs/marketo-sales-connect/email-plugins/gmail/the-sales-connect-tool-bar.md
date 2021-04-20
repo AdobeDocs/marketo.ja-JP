@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352444
-description: Sales Connectツールバー — Marketto Docs — 製品ドキュメント
+description: '[Sales Connect]ツールバー — [Marketoドキュメント] - [製品ドキュメント]'
 title: '[販売接続]ツールバー'
+exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # [販売接続]ツールバー{#the-sales-connect-tool-bar}
 
 ログインすると、Gmailページの上部に5つの「Sales Connect」ボタンが追加されます。
 
-| ボタン | 説明 |
+| ボタン | 詳細 |
 |---|---|
 | **ライブフィードボタン** | Sales Connect [Live Feed ](https://toutapp.com/next#live)を開き、電子メールのリアルタイム追跡情報を取得できます。 |
 | **タスクボタン** | すべてのタスクのドロップダウンを表示します。 |
