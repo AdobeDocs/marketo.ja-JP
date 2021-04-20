@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720810
-description: Googleでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
+description: Googleでのパーソナライズされたリマーケティング —Marketoドキュメント — 製品ドキュメント
 title: Googleでのパーソナライズされたリマーケティング
+exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # Googleでのパーソナライズされたリマーケティング{#personalized-remarketing-in-google}
 
@@ -99,5 +99,5 @@ Google Universal Analytics:
 >[!MORELIKETHIS]
 >
 >* [Webパーソナライゼーションデータを使用した再ターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Facebookでのパーソナライズされたリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+>* [facebookでのパーソナライズされたリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
