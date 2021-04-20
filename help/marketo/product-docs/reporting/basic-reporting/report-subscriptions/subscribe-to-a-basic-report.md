@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359987
-description: 基本レポートの購読 — Marketto Docs — 製品ドキュメント
+description: 基本レポートの購読 —Marketoドキュメント — 製品ドキュメント
 title: 基本レポートの購読
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # 基本レポートのサブスクライブ{#subscribe-to-a-basic-report}
 
