@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359400
-description: フォームテーマの選択 — マーケティングツールドキュメント — 製品ドキュメント
+description: フォームテーマの選択 —Marketoドキュメント — 製品ドキュメント
 title: フォームテーマの選択
+exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # フォームテーマを選択{#select-a-form-theme}
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
    現在、7つの組み込みテーマがあります。
 
-   * 単純
-   * 差込枠
+   * 簡易
+   * インセット
    * 光彩
-   * 丸め
-   * 濃い
-   * シャドウ
-   * 標準
+   * ラウンド
+   * 暗
+   * 影
+   * プレーン
 
    >[!TIP]
    >
