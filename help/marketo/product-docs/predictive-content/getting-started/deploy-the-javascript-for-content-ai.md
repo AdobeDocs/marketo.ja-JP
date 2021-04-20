@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11385053
-description: JavaScriptのコンテンツAI向けデプロイ — Marketto Docs — 製品ドキュメント
+description: JavaScriptのコンテンツ用のデプロイ — AI -Marketoドキュメント — 製品ドキュメント
 title: JavaScriptのコンテンツ用の導入 —AI
+exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # JavaScript for Content-AIの導入{#deploy-the-javascript-for-content-ai}
 
 予測コンテンツを使用するには、RTP(Web Personalization)タグを生成し、設定する必要があります。
 
-## タグを生成{#generate-tag}
+## タグの生成 {#generate-tag}
 
 1. 予測コンテンツアカウントにログインします。 「**アカウント設定**」に移動します。
 
