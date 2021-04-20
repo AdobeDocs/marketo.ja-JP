@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719398
-description: 新しいダイアログWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいダイアログWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいダイアログWebキャンペーンの作成
+exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '748'
+ht-degree: 2%
 
 ---
-
 
 # 新しいダイアログWebキャンペーンの作成{#create-a-new-dialog-web-campaign}
 
@@ -35,16 +35,16 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>表示日</strong></td> 
+   <td colspan="1"><strong>表示場所</strong></td> 
    <td colspan="1">Webキャンペーンーの<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>ダイアログのスタイル</strong></td> 
+   <td colspan="1" rowspan="1"><strong>ダイアログスタイル</strong></td> 
    <td colspan="1" rowspan="1"> 
     <ul> 
      <li>モダントリミング — 半透明の黒いトリムと角丸を持つ、スタイリッシュで特徴的なダイアログ</li> 
@@ -66,11 +66,11 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
    <td colspan="1" rowspan="1">ダイアログボックスのその他の位置オプションについては、「位置座標」チェックボックスを選択し、ダイアログを表示する正確な画面座標（水平、垂直）を入力します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>ボタンの塗りつぶし</strong></td> 
+   <td colspan="1"><strong>ボタンの外観</strong></td> 
    <td colspan="1">カラー、スタイル、位置を使用してモーダルの閉じるボタンをカスタマイズします。 「画像URL」ボックスでリンクして、独自のボタンを使用することもできます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>定着</strong></td> 
+   <td colspan="1"><strong>固定</strong></td> 
    <td colspan="1">「固定」チェックボックスを選択すると、ダイアログボックスは訪問者が閉じるまで、時間制限なしでそのままの位置になり、ユーザーのセッション中のすべてのページに表示されます。</td> 
   </tr> 
   <tr> 
@@ -78,7 +78,7 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
    <td colspan="1">ダイアログボックスにさらにフォーカスを置き、ダイアログウィンドウの背後の背景を暗くして起動します。これにより、ダイアログボックスに対するユーザーの認識が高まります。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>モーダルカラー</strong></td> 
+   <td colspan="1"><strong>モーダル色</strong></td> 
    <td colspan="1">モーダルのカラーと不透明度をカスタマイズします。</td> 
   </tr> 
   <tr> 
@@ -110,11 +110,11 @@ Webキャンペーンーを作成して、Webコンテンツをリアルタイ�
    <td colspan="1">「サイズ変更可能」チェックボックスを選択すると、ユーザーがダイアログボックスのサイズを変更できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>リッチテキストエディタ</strong></td> 
+   <td colspan="1"><strong>リッチ テキスト エディタ</strong></td> 
    <td colspan="1"><p>リッチテキストエディターでは、テキストの書式設定、リンク、および画像の挿入が可能です。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">詳しくはこちら</a>。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>サイトでのプレビュー</strong></td> 
+   <td colspan="1"><strong>オンサイトのプレビュー</strong></td> 
    <td colspan="1">起動前のプレビューキャンペーン。<br> 
     <ul> 
      <li>URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
