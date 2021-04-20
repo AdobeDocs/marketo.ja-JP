@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900575
-description: 電子メール — Marketto Docs — 製品ドキュメ追加ントへの電子メールスクリプトトークン
+description: 電子メール —追加Marketoドキュメント — 製品ドキュメントへの電子メールスクリプトトークンの送信
 title: 電子メ追加ールへの電子メールスクリプトトークン
+exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # 電子メ追加ールに対する電子メールスクリプトトークン{#add-an-email-script-token-to-your-email}
 
