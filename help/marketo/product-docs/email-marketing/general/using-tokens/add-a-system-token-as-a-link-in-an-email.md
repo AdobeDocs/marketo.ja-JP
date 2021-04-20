@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900573
-description: 電子メ追加ール — Marketto Docs — 製品ドキュメント内のリンクとしてのシステムトークン
+description: 電子メ追加ール —Marketoドキュメント — 製品ドキュメント内のリンクとしてのシステムトークン
 title: 電子メ追加ール内のリンクとしてのシステムトークン
+exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 電子メ追加ール{#add-a-system-token-as-a-link-in-an-email}内のリンクとしてのシステムトークン
 
