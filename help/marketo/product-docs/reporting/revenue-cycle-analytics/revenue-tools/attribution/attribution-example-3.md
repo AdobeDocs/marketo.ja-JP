@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514149
-description: アトリビューションの例3 - Marketto Docs — 製品ドキュメント
+description: アトリビューションの例3 -Marketoドキュメント — 製品ドキュメント
 title: アトリビューションの例3
+exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # アトリビューションの例3 {#attribution-example}
 
@@ -20,12 +20,12 @@ ht-degree: 0%
 * 4月25日 | Jasonが参加する（ウェビナー） — 成功
 * 4月30日 |オポチュニティは閉ざされた
 
-| アトリビューション指標 | （内容） | （ウェビナー） |
+| アトリビューション指標 | (コンテンツ) | (オンライン セミナ) |
 |---|---|---|
 | (MT)オプティが作成されました | `<pre>1</pre>` | `<pre>0</pre>` |
-| (MT)パイプラインが作成されました | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
+| （MT）創出されたパイプライン | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (MT)Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (MT)獲得売上高 | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
+| （MT）獲得した収益 | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
 
 **回答を表示**
 
