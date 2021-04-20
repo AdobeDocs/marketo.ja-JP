@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352422
-description: 最新のクライアントバージョン - Marketto Docs — 製品ドキュメント
+description: 最新のクライアントバージョン -Marketoドキュメント — 製品ドキュメント
 title: 最新のクライアントバージョン
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
-
 
 # 最新のクライアントバージョン{#what-are-the-latest-client-versions}
 
@@ -22,7 +22,7 @@ ht-degree: 7%
    <td>8.6.33</td> 
   </tr> 
   <tr> 
-   <td><strong>クロム</strong></td> 
+   <td><strong>Chrome</strong></td> 
    <td>8.6.33</td> 
   </tr> 
   <tr> 
