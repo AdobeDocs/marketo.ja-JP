@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359866
-description: Webページから画像を取得する — Marketto Docs — 製品ドキュメント
+description: Webページから画像を取得する —Marketoドキュメント — 製品ドキュメント
 title: Webページから画像を取得する
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Webページから画像を取得する{#grab-the-images-from-a-web-page}
 
@@ -47,7 +47,7 @@ Webページから画像を追加するには、目的の画像が含まれて�
 
 >[!MORELIKETHIS]
 >
->* [マー追加ケティング担当者向けの画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Marketo追加への画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 >* [フォルダを使用した画像とファイルの整理](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [アップロードされた画像またはファイルのURLの検索](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 >* [Boxからの画像とファイルのアップロード](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
