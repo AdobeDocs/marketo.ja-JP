@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6094879
-description: WebキャンペーンーへのターゲットURLの追加 — Marketto Docs — 製品ドキュメント
+description: WebキャンペーンーへのターゲットURLの追加 —Marketoドキュメント — 製品ドキュメント
 title: WebキャンペーンーへのターゲットURLの追加
+exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '261'
+ht-degree: 3%
 
 ---
-
 
 # ターゲットURLをWebキャンペーンに追加する{#adding-a-target-url-to-a-web-campaign}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -42,8 +42,8 @@ ht-degree: 0%
    <td colspan="1" rowspan="1"><p>任意のページにキャンペーンを表示できるようにします。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>一致する場合にURLパラメータを含める</strong></p></td> 
-   <td colspan="1" rowspan="1">URL追加パラメーターを使用して、このパラメーターを含むURLのキャンペーンと一致させたり、表示したりします。 例： キャンペーン=cpc</td> 
+   <td colspan="1" rowspan="1"><p><strong>一致時に URL パラメータを含める</strong></p></td> 
+   <td colspan="1" rowspan="1">URL追加パラメーターを使用して、このパラメーターを含むURLのキャンペーンと一致させたり、表示したりします。 例: キャンペーン=cpc</td> 
   </tr> 
  </tbody> 
 </table>
