@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352623
-description: ユーザーアクセスの詳細 — Marketto Docs — 製品ドキュメント
+description: ユーザーアクセスの詳細 —Marketoドキュメント — 製品ドキュメント
 title: ユーザーアクセスの詳細
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # ユーザーアクセスの詳細{#user-access-details}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 非管理者ユーザー権限{#non-admin-user-permissions}
 
-* 解析：
+* アナリティクス:
 
    * ユーザーはチーム分析を表示できます
    * ユーザーは、所属するチームのみを詳細に調べることができます
