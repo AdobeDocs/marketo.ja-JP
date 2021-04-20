@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352634
-description: 添付ファイル追加- Marketto Docs — 製品ドキュメント
+description: 添付ファイル —追加Marketoドキュメント — 製品ドキュメント
 title: 追加添付ファイル
+exl-id: 67e53ac8-0f23-4125-997b-d3decf17bc7e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
 # 追加添付ファイル{#add-an-attachment}
 
 >[!AVAILABILITY]
 >
->Marketo Sales Connectを使用している場合は、添付ファイルを追加できます。 Marketorの標準的な電子メールエディターでは使用できません。
+>Marketo・セールス・コネクトを使用している場合は、添付ファイルを追加できます。 これは、Marketoの標準の電子メールエディターでは使用できません。
 
 テンプレートに添付ファイルを追加するには、テンプレートエディターを開き、テキストエディターの上にある「**ファイルを添付**」をクリックします。 次に、お使いのコンピューターから添付ファイルを探し出してアップロードします。
 
