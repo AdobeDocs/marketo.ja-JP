@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12979010
-description: パフォーマンスインサイトトレンドの概要 — Marketto Docs — 製品ドキュメント
+description: パフォーマンスインサイトトレンドの概要 —Marketoドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトトレンドの概要
+exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # パフォーマンスインサイトトレンドの概要{#performance-insights-trend-overview}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/1.png)
 
-## トレンド{#trend}
+## トレンド {#trend}
 
 ![](assets/2-1.png)
 
