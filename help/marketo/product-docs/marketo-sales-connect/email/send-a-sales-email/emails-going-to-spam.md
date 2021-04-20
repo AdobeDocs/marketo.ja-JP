@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352586
-description: スパムに送る電子メール — Marketto Docs — 製品ドキュメント
+description: スパムにする電子メール —Marketoドキュメント — 製品ドキュメント
 title: スパムへの電子メール
+exl-id: c3826a48-cb02-41a2-a37a-309777942501
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # スパムにする電子メール{#emails-going-to-spam}
 
