@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719400
-description: ゾーン内での新しいWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
+description: ゾーン内の新しいWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
 title: ゾーン内の新しいWebキャンペーンの作成
+exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ゾーン内の新しいWebキャンペーンの作成{#create-a-new-in-zone-web-campaign}
 
@@ -41,32 +41,32 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong> ゾーンID </strong></td> 
+   <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td> 
    <td colspan="1" rowspan="1"><p>キャンペーンが置き換えるWebサイト要素のHTMLコードにあるIDの名前を入力します。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong> 定着 </strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td> 
    <td colspan="1" rowspan="1">「ゾーン内」キャンペーンではデフォルトで「固定」チェックボックスが選択されており、Webサイト上の訪問者のセッション全体で、ゾーン内キャンペーンがゾーンIDの位置を維持します。 常に「インゾーン」を「固定」に設定することをお勧めします。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong> フェード</strong> </p></td> 
+   <td colspan="1" rowspan="1"><p><strong> フェーディング</strong> </p></td> 
    <td colspan="1" rowspan="1">「効果を使用」チェックボックスと「フェード」を選択すると、WebサイトのゾーンID領域にフェード効果を適用できます。 「インゾーン」がグラフィカルバナーの場合、ページが最初に読み込まれ、次にキャンペーンがフェード効果でアクティブになります。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>スライド</strong></td> 
+   <td colspan="1"><strong>スライディング</strong></td> 
    <td colspan="1">「効果を使用」チェックボックスと「スライディング」オプションを選択すると、Webサイトの「ゾーンID」領域にスライディングが有効になります。 「インゾーン」がグラフィカルバナーの場合、ページが最初に読み込まれ、次にキャンペーンが左から右にスライドする効果でアクティブになります。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> リッチテキストエディタ  </strong></td> 
+   <td colspan="1"><strong> リッチ テキスト エディタ  </strong></td> 
    <td colspan="1">リッチテキストエディターでは、テキストの書式設定、リンク、および画像の挿入が可能です。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">詳しくはこちら</a> 。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> サイトでのプレビュー   </strong></td> 
+   <td colspan="1"><strong> オンサイトのプレビュー   </strong></td> 
    <td colspan="1">プレビューキャンペーンを起動する前に実行する必要があります。<br> 
     <ul> 
      <li> URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
