@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359738
-description: ランディングページURLの変更 — Marketto Docs — 製品ドキュメント
+description: ランディングページURLの変更 —Marketoドキュメント — 製品ドキュメント
 title: ランディングページURLの変更
+exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページURLの変更{#change-the-landing-page-url}
 
