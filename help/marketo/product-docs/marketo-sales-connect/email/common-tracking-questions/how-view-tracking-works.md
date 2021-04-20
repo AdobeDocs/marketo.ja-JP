@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352536
-description: 表示トラッキングの仕組み — Marketto Docs — 製品ドキュメント
+description: 表示トラッキングの仕組み —Marketoドキュメント — 製品ドキュメント
 title: 表示トラッキングの仕組み
+exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 表示トラッキングの仕組み{#how-view-tracking-works}
 
