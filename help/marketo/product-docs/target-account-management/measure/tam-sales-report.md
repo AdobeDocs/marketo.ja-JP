@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385183
-description: TAM販売レポート — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: TAM販売レポート —Marketoドキュメント — 製品ドキュメント
 title: TAM販売レポート
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # TAM販売レポート{#tam-sales-report}
 
@@ -54,7 +54,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>興味深い瞬間</strong></td> 
+   <td><strong>注目のアクション</strong></td> 
    <td> 
     <div>
       その週に発生した興味深い瞬間の合計数 
