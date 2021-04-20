@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359791
-description: 照会オファーの目標の指定 — Marketto Docs — 製品ドキュメント
+description: 照会オファーの目標を指定 —Marketoドキュメント — 製品ドキュメント
 title: 照会オファーの目標の指定
+exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # 参照オファーの目標を指定{#specify-goal-for-referral-offer}
 
 [参照オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成する場合は、受渡目標を定義する必要があります。 目標は、ページ訪問数やサインアップ数など、Webページ上の個人アクティビティによって定義できます。 [カスタムJavaScriptイベント](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)を使用することもできます。
 
-また、Marketingのスマートリストトリガーを使用して、参照者に対してオポチュニティが作成されるなど、マイルストーンが表示されるのを待つこともできます。
+また、Marketoのスマートリストトリガーを使用して、参照者に対してオポチュニティが作成されるなど、マイルストーンが発生するのを待つこともできます。
 
 目標の例：
 
