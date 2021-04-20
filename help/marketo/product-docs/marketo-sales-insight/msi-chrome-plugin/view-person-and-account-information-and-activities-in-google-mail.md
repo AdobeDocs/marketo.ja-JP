@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10095358
-description: Googleメール — Marketto Docs -表示ドキュメントの製品者とアカウントの情報とアクティビティ
+description: Googleメール —Marketoドキュメント — 製品ドキュメントの表示担当者とアカウントアクティビティ
 title: Googleメールの表示担当者とアカウント情報およびアクティビティ
+exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # Googleメールの表示担当者とアカウント情報およびアクティビティ{#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Googleメール{#view-activities-in-google-mail}の表示アクティビティ
 
-コンテキストに応じたMarketor Insightsペインを使用して、アカウント情報と最近のアクティビティを表示します。
+コンテキストMarketoインサイトペインを使用して、アカウント情報と最近のアクティビティを表示します。
 
 このウィンドウは、フルスクリーン構成ウィンドウと、通常のGoogleメール閲覧ウィンドウの両方に表示されます。 構成表示では、ペインに、「宛先」行に最初に入力されたユーザーの情報とアクティビティが表示されます。 閲覧表示のパネルには、閲覧中の電子メールの送信者に関する情報とアクティビティが表示されます。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/4.png)
 
-Marketorアイコンをクリックして、パネルを展開します。
+Marketoアイコンをクリックして、パネルを展開します。
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
@@ -43,10 +43,10 @@ Marketorアイコンをクリックして、パネルを展開します。
 
 また、Google Chromeのグローバルアクティビティペインを使用すると、最近対応したすべてのユーザーに対して発生した最新のアクティビティの完全なリストを確認できます。 これは、アイコン上の未読アクティビティの数を継続的に表示する、リアルタイムに更新されたフィードです。
 
-Marketorアイコンをクリックして、パネルを開きます。
+Marketoアイコンをクリックして、パネルを開きます。
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
 >[!MORELIKETHIS]
 >
->[Google ChromeでのMarketo Insightsの使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Google ChromeでのMarketoインサイトの使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
