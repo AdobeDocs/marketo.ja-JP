@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359654
-description: フォームの検証/エラーメッセージおよび送信ボタンの言語の変更 — Marketto Docs — 製品ドキュメント
+description: フォームの検証/エラーメッセージおよび送信ボタンの言語の変更 —Marketoドキュメント — 製品ドキュメント
 title: フォームの検証/エラーメッセージおよび送信ボタンの言語の変更
+exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # フォームの検証/エラーメッセージおよび送信ボタンの言語の変更{#change-the-language-of-form-validation-error-messages-and-submit-button}
 
