@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092916
-description: テンプレート20-C - Marketto Docs — 製品ドキュメント
+description: テンプレート20-C -Marketoドキュメント — 製品ドキュメント
 title: テンプレート20-C
+exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート20-C {#template-c}
 
