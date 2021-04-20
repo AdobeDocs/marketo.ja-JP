@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720075
-description: 特定のラベルからの表示Webキャンペーン- Marketto Docs — 製品ドキュメント
+description: 特定のラベルからの表示Webキャンペーン-Marketoドキュメント — 製品ドキュメント
 title: 特定のラベルからの表示Webキャンペーン
+exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 特定のラベルからの表示Webキャンペーン{#view-web-campaigns-from-a-specific-label}
 
