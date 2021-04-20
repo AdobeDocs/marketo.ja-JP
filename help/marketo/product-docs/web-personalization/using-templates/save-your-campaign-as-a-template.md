@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949170
-description: キャンペーンをテンプレートとして保存 — Marketto Docs — 製品ドキュメント
+description: キャンペーンをテンプレートとして保存 —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンをテンプレートとして保存
+exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンをテンプレートとして保存{#save-your-campaign-as-a-template}
 
