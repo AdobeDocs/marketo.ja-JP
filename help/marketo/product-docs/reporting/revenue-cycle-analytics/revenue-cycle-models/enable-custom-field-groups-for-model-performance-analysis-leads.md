@@ -1,21 +1,21 @@
 ---
 unique-page-id: 3571890
-description: モデルパフォーマンス分析（リード）用のカスタムフィールドグループの有効化 — Marketto Docs — 製品ドキュメント
+description: モデルパフォーマンス分析（リード）のカスタムフィールドグループを有効にする —Marketoドキュメント — 製品ドキュメント
 title: モデルパフォーマンス分析（リード）のカスタムフィールドグループの有効化
+exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
 
 ---
 
-
 # モデルパフォーマンス分析（リード）のカスタムフィールドグループを有効にする{#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
->標準フィールドまたはユーザー設定フィールドをグループに分類して、Marketorのフィールドオーガナイザーでレポートできます。 詳しくは、「[フィールドの整理でカスタムフィールドグループを作成する](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)」を参照してください。
+>Marketoの[フィールドオーガナイザ]を使用して、標準フィールドまたはユーザー設定フィールドをレポート用にグループに分類します。 詳しくは、「[フィールドの整理でカスタムフィールドグループを作成する](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)」を参照してください。
 
 <table> 
  <tbody> 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >次の使用例は、標準フィールド（状態）に対してユーザー設定フィールドグループを有効にしました。 したがって、影響を受けたのは、モデルのパフォーマンス分析（リード）領域のみです。 カスタムの個人または会社フィールドのカスタムフィールドグループが有効になっている場合、有効なグループは「Sync Summary」タブの「Model Performance Management (Leads)」セクションに表示され、「Lead」、「Opportunity」分析のカスタムフィールド数は1増えます。
+   >次の使用例は、標準フィールド（状態）に対してユーザー設定フィールドグループを有効にしました。 したがって、影響を受けたのは、モデルのパフォーマンス分析（リード）領域のみです。 カスタム個人または会社フィールドのカスタムフィールドグループが有効になっている場合、有効なグループは「Sync Summary」タブの「Model Performance Management (Leads)」セクションに表示され、「Lead」、「Opportunity」分析のカスタムフィールド数は1増えます。
 
 1. 「**保存**」をクリックします。
 
