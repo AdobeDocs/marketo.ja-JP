@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356893
-description: MSI機能の概要 — Marketto Docs — 製品ドキュメント
+description: MSI機能の概要 —Marketoドキュメント — 製品ドキュメント
 title: MSI機能の概要
+exl-id: e6cd988c-afba-44e3-b240-68258236f344
 translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '908'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # MSI機能の概要{#msi-feature-overview}
 
@@ -22,15 +22,15 @@ MSI Visualforceパネルには、次の機能が含まれています。
 * タブ
 
    * [インサイトダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * 面白い瞬間
-   * ウェブアクティビティ
-   * 電子メール
+   * 注目のアクション
+   * ウェブ アクティビティ
+   * メール
    * スコア
 
 * アクション
 
-   * Marketto追加キャンペーン
-   * マーケティング先の電子メールの送信
+   * Marketo キャンペーンに追加
+   * Marketo メールの送信 
    * 監視追加リストから削除
 
 * 星と炎
@@ -44,20 +44,20 @@ Visualforceページ：
 * リードモバイル — Salesforceモバイルアプリケーションに表示
 * Lead Contact Bridge - 「MSI Contact ID」フィールドに追加した連絡先のMSIパネルが表示されます。
 
-フィールド：
+フィールド:
 
-* 最後のおもしろい瞬間
-* 最後の興味深い瞬間の日付
-* 最後の注目モーメントの説明
-* 最後の興味深い瞬間の源
-* 最後の興味深いモーメントのタイプ
-* 販売別の最終マーケティングアクティビティ
-* 販売別の最後のマーケティング
+* 最新の注目のアクション
+* 最新の注目のアクション発生日
+* 最新の注目のアクションの詳細
+* 最新の注目のアクションのソース
+* 最新の注目のアクションのタイプ
+* セールスによる最後の Marketo アクティビティ
+* セールスによる最後の Marketo エンゲージメント
 * 相対スコア
 * 相対スコア値
 * 緊急度
 * 緊急度の値
-* Marketorでの表示 — このフィールドをクリックして、Marketorのリードの編集不可能な表示を開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
+* Marketo 内に表示  — このフィールドをクリックすると、Marketoのリードの編集不可の表示が開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
 * MSI Contact Id - Salesforceの追加このフィールドへの連絡先で、連絡先のMSIパネルを確認するには、リードレイアウトに「Lead Contact Bridge」パネルを含めます。
 
 ## 連絡先レイアウト{#contact-layout}
@@ -67,21 +67,21 @@ Visualforceページ：
 * 連絡先 — ハイパー「フルリストに移動」をクリックするオプションが含まれ、Salesforceの新しいタブに送信されます。このタブでは、MSIパネルがフルページレイアウトで表示されます。
 * 完全なリストに問い合わせる — 「完全なリストに移動」オプションは含まれません
 * モバイルへのお問い合わせ — Salesforceモバイルアプリケーションに表示
-* Marketto追加キャンペーンContactPage - Marketto 追加キャンペーンへの機能は、このパネル内で使用できます。
+* Marketo追加キャンペーンContactPage -Marketoキャンペーンへ追加の移行機能は、このパネル内で使用できます。
 
-フィールド：
+フィールド:
 
-* 最後のおもしろい瞬間
-* 最後の興味深い瞬間の日付
-* 最後の注目モーメントの説明
-* 最後の興味深い瞬間の源
-* 最後の興味深いモーメントのタイプ
-* 販売別の最終マーケティングアクティビティ
+* 最新の注目のアクション
+* 最新の注目のアクション発生日
+* 最新の注目のアクションの詳細
+* 最新の注目のアクションのソース
+* 最新の注目のアクションのタイプ
+* セールスによる最後の Marketo アクティビティ
 * 相対スコア
 * 相対スコア値
 * 緊急度
 * 緊急度の値
-* Marketorでの表示 — このフィールドをクリックして、Marketorのリードの編集不可能な表示を開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
+* Marketo 内に表示  — このフィールドをクリックすると、Marketoのリードの編集不可の表示が開きます。 以下を含みます。リード情報、会社情報、SFDCリード情報、SFDCカスタムフィールド、アクティビティログ
 * Mktoリードスコア
 * Sales Insight — 連絡先の完全なリストページを開きます。
 
@@ -93,14 +93,14 @@ Visualforceページ：
 * アカウント全体のリスト- 「フルリストに移動」オプションは含まれません。
 * アカウントモバイル — Salesforceモバイルアプリケーションに表示
 
-フィールド：
+フィールド:
 
 * Sales Insight — 連絡先の完全なリストページを開きます。
 
-アクション：
+アクション:
 
-* Marketto追加キャンペーン
-* マーケティング先の電子メールの送信
+* Marketo キャンペーンに追加
+* Marketo メールの送信 
 * 監視追加リストから削除
 
 次の機能は、アカウントのレイアウトページでは&#x200B;**利用できません**。
@@ -115,15 +115,15 @@ Visualforceページ：
 * オポチュニティのフルリスト- 「フルリストに移動」オプションは含まれません。
 * オポチュニティモバイル — Salesforceモバイルアプリケーションに表示
 
-フィールド：
+フィールド:
 
 * Sales Insight — 連絡先の完全なリストページを開きます。
-* Marketo Opportunity分析- MarketoでOpportunity Influence Analyzerを開きます。
+* Marketoオポチュニティ分析-Marketoでオポチュニティ影響分析を開く
 
-アクション：
+アクション:
 
-* Marketto追加キャンペーン
-* マーケティング先の電子メールの送信
+* Marketo キャンペーンに追加
+* Marketo メールの送信 
 * 監視追加リストから削除
 
 次の機能は、「Opportunity Layout」ページでは&#x200B;**利用できません**。
@@ -132,15 +132,15 @@ Visualforceページ：
 
 ## リードと連絡先のリスト表示（バルクアクション） {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning:をウォッチリスト、マーケティング追加キャンペーンに追加送信し、「リード」および「連絡先」リスト表示の「マーケティング先電子メール」バルクアクションボタンに送信します。
+Salesforce Lightning:ウォッチリスト、追加Marketoキャンペーン、リードおよび連絡先リスト表示の「Marketo電子メールの一括処理」ボタンに送信します。
 
-Salesforce Classic:をウォッチリスト、マーケティン追加グ担当者のキャンペーンに追加送信し、リードと連絡先のリスト表示の「マーケティング担当者に電子メールを送信」バルクアクションボタンに送信します。
+Salesforce Classic:をウォッチリスト、追加Marketoキャンペーンに追加送信し、「リード」および「連絡先リスト」表示の「Marketo電子メールの一括処理」ボタンを送信します。
 
-## マーケティング先タブ{#marketo-tab}
+## Marketoタブ{#marketo-tab}
 
-* ベストベット
+* 最優先
 
-   * 表示の作成および編集機能が含まれます。 マーケティング先設定ページの「デフォルトの非表示」オプションの設定に応じて、ベストベットを非表示にする機能
+   * 表示の作成および編集機能が含まれます。 Marketo設定ページの「デフォルトの非表示」オプションの設定に応じてベストベットを非表示にする機能
    * 列 — 名前、アカウント、最後の注目の瞬間、ステータスヘッダー、アクション（星と炎）、非表示
 
 * マイウォッチリスト
@@ -148,17 +148,17 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
    * 表示の作成および編集機能が含まれます
    * 列 — 名前、アカウント、最後の注目の瞬間、ステータスヘッダー、アクション（星と炎）、削除
 
-* ウェブアクティビティ
+* ウェブ アクティビティ
 
    * 表示の作成と編集、時間枠フィルタ機能などが含まれます。
    * 列 — ページ表示、名前、アカウント、最終訪問
 
-* 匿名Webアクティビティ
+*  匿名のウェブ アクティビティ
 
    * 表示の作成と編集、時間枠フィルタ機能などが含まれます。
-   * 列 — ページ表示、会社、最終訪問、リサーチ(会社のLinkedInページを開く)
+   * 列 — ページ表示、会社、最終訪問、調査(会社のLinkedInページを開く)
 
-* マイメール
+* メール
 
    * 表示の作成および編集機能が含まれます
    * 列 — 名前、アカウント、件名、日付、開く、クリック
@@ -172,15 +172,15 @@ Salesforce Classic:をウォッチリスト、マーケティン追加グ担当�
    * 「購読」オプションを選択し、このタイプのイベントの電子メール通知を受信
    * この人物を表示する優先順位の高いアイコンはおすすめコンテンツです
 
-## Marketo Sales Insight Configurationタブ{#marketo-sales-insight-configuration-tab}
+## Marketoセールスインサイト設定タブ{#marketo-sales-insight-configuration-tab}
 
 * 操作設定：SFDCでMSIを設定するために必要なSoapおよびRest API資格情報が含まれます
 * MSI設定：「Marketo」タブとMSI visualforceパネルの設定が含まれます
-* Markettor Sales Insightのリセット：すべての構成を消去する機能を含む
+* Marketo販売インサイトのリセット：すべての構成を消去する機能を含む
 
 >[!MORELIKETHIS]
 >
->[SalesforceのMarketto Sales Insightの「Configuration」タブ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Salesforceの「MarketoSales Insight設定」タブ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Sales Insightパフォーマンスレポート{#sales-insight-performance-reports}
 
@@ -192,4 +192,4 @@ MSI機能は、Salesforceモバイルアプリケーションでサポートさ�
 
 ## 言語サポート{#language-support}
 
-Marketor Sales Insightは、言語別に保存されます。 したがって、複数の言語で機能させる場合は、言語ごとに資格情報を個別に入力する必要があります。
+Marketoセールスインサイトは言語別に保存されています。 したがって、複数の言語で機能させる場合は、言語ごとに資格情報を個別に入力する必要があります。
