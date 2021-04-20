@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359795
-description: 懸賞の作成 — Marketto Docs — 製品ドキュメント
+description: 懸賞の作成 —Marketoドキュメント — 製品ドキュメント
 title: 懸賞の作成
+exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# 懸賞の作成 {#create-sweepstakes}
 
-# 懸賞の作成{#create-sweepstakes}
-
-懸賞は、友達にあなたのことを話す代わりに、賞を取る機会を与えてくれます。 ランディングページやWebサイト、さらにはFacebookにも投稿できます。
+懸賞は、友達にあなたのことを話す代わりに、賞を取る機会を与えてくれます。 ランディングページやウェブサイトFacebookにも投稿できます
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. プログラムー内で、**新規**/**新規ローカルアセット**&#x200B;を選択します。
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 懸賞に問題がある場合は、懸賞が承認される前に、その問題に対処するよう求められます。
 
-おめでとう！ 懸賞が作成されました。
+おめでとうございます！懸賞が作成されました。
 
 >[!MORELIKETHIS]
 >
