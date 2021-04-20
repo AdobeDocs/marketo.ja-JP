@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352482
-description: 返信トラッキングの仕組み — Marketto Docs — 製品ドキュメント
+description: 返信追跡の仕組み —Marketoドキュメント — 製品ドキュメント
 title: 返信追跡の仕組み
+exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
-
 
 # 応答追跡の仕組み{#how-reply-tracking-works}
 
