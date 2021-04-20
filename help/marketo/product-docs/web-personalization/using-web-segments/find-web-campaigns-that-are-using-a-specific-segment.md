@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719396
-description: 特定のセグメントを使用しているWebキャンペーンーの検索 — Marketto Docs — 製品ドキュメント
+description: 特定のセグメントを使用しているWebキャンペーンの検索 —Marketoドキュメント — 製品ドキュメント
 title: 特定のセグメントを使用するWebキャンペーンの検索
+exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # 特定のセグメントを使用しているWebキャンペーンの検索{#find-web-campaigns-that-are-using-a-specific-segment}
 
