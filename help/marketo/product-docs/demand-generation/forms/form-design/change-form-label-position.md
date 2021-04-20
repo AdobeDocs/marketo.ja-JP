@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359612
-description: フォームラベルの位置の変更 — Marketto Docs — 製品ドキュメント
+description: フォームラベルの位置の変更 —Marketoドキュメント — 製品ドキュメント
 title: フォームラベルの位置の変更
+exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # フォームラベルの位置を変更{#change-form-label-position}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    現在、次の2つのオプションがあります。
 
    * Left（デフォルト）
-   * 段落前
+   * 上
 
 1. 「**完了**」をクリックします。
 
