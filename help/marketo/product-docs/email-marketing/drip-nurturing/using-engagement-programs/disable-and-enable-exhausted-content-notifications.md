@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359877
-description: 使い果たされたコンテンツ通知の無効化と有効化 — Marketto Docs — 製品ドキュメント
+description: 使い果たされたコンテンツ通知の無効化と有効化 —Marketoドキュメント — 製品ドキュメント
 title: 使い果たしたコンテンツ通知の無効化と有効化
+exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
 # 使い果たされたコンテンツ通知の無効化と有効化{#disable-and-enable-exhausted-content-notifications}
 
-ユーザーがストリーム内のすべてのコンテンツを排出すると、Marketorは通知を送信できます。 必要に応じて、通知を無効または有効にすることができます。 これが方法です。
+ストリーム内のすべてのコンテンツがユーザーによって排出されると、Marketoから通知が送信されます。 必要に応じて、通知を無効または有効にすることができます。 これが方法です。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
