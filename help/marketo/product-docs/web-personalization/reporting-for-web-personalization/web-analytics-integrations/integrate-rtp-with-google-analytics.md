@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949158
-description: RTPとGoogle Analyticsの統合 — Marketto Docs — 製品ドキュメント
+description: RTPとGoogle Analyticsの統合 —Marketoドキュメント — 製品ドキュメント
 title: RTPとGoogle Analyticsの統合
+exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%
 
 ---
-
 
 # RTPをGoogle Analyticsと統合{#integrate-rtp-with-google-analytics}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## はじめに{#introduction}
 
-Marketo Real-Time Personalization(RTP)からGoogle Analytics(GA)アカウントへの直接データフローを使用して、新しい角度からWeb解析を分析します。 組織、業界、RTPキャンペーンに従って、GAでのWeb訪問回数を測定します。 GAの業種やRTPセグメントのタイプ、様々なトラフィックソース（ソーシャル、有料、オーガニック）に従ったリードのパフォーマンスや生成方法、キャンペーンのクリックスルー率の分析、Webサイトに対するパーソナライズキャンペーンの影響の測定などの表示指標。 この機能を活用して、RTPアカウントから最大のメリットを得る
+Marketoリアルタイムパーソナライゼーション(RTP)からGoogle Analytics(GA)アカウントへの直接データフローを使用して、新しい角度からウェブ解析を分析します。 組織、業界、RTPキャンペーンに従って、GAでのWeb訪問回数を測定します。 GAの業種やRTPセグメントのタイプ、様々なトラフィックソース（ソーシャル、有料、オーガニック）に従ったリードのパフォーマンスや生成方法、キャンペーンのクリックスルー率の分析、Webサイトに対するパーソナライズキャンペーンの影響の測定などの表示指標。 この機能を活用して、RTPアカウントから最大のメリットを得る
 
 **RTPAudience Analytics**
 
