@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472672
-description: Marketo Sales Insight - Marketto Docs — 製品ドキュメントの複数のレコードへの電子メールの送信
-title: Marketor Sales Insightの複数のレコードへの電子メールの送信
+description: Marketo販売インサイト —Marketoドキュメント — 製品ドキュメントの複数のレコードへの電子メールの送信
+title: Marketo販売インサイトの複数のレコードへの電子メールの送信
+exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
+# Marketo販売インサイトの複数のレコードへの電子メールの送信{#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-# Marketor Sales Insightの複数のレコードへの電子メールの送信{#send-an-email-to-multiple-records-in-marketo-sales-insight}
-
-Marketto Sales Insightを使用して複数の人にマーケティング担当者の電子メールを送信するのは、非常に簡単です。 始めましょう。
+Marketo・セールス・インサイトを使って複数の人にMarketoの電子メールを送るのは非常に簡単です。 始めましょう。
 
 1. Salesforceで、**リード**&#x200B;または&#x200B;**連絡先**&#x200B;をクリックします。
 
@@ -23,19 +23,19 @@ Marketto Sales Insightを使用して複数の人にマーケティング担当�
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. リスト表示で、電子メールの送信先のリード/連絡先をすべて確認し、**Send Marketto Email (classic)**&#x200B;をクリックします。
+1. リスト表示で、電子メールの送信先のリード/連絡先をすべて確認し、**Marketo電子メールの送信（クラシック）**&#x200B;をクリックします。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Salesforce Lightningを使用している場合、ボタンに「**Send Marketto Email (lightning)**」と表示されます。
+   >Salesforce Lightningを使用している場合、ボタンに「**Marketo電子メールを送信（稲妻）**」と表示されます。
 
    >[!TIP]
    >
-   >ボタンが見えない？ [リスト表示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)にマーケティングボタンを追加したことを確認します。
+   >ボタンが見えない？ [リスト表示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)にMarketoボタンを追加したことを確認します。
 
-1. 先に進み、メールを作成します。 終了したら、「**Send with Marketto**」をクリックします。
+1. 先に進み、メールを作成します。 終了したら、「**Marketo**&#x200B;と共に送信」をクリックします。
 
    ![](assets/four.png)
 
@@ -45,4 +45,4 @@ Marketto Sales Insightを使用して複数の人にマーケティング担当�
 
    >[!NOTE]
    >
-   >一度に200件までのマーケティング担当者の電子メールを送信できます。
+   >一度に200件までのMarketoメールを送信できます。
