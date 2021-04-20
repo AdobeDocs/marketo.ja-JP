@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12979223
-description: アカウントインサイトの設定 — Marketto Docs — 製品ドキュメント
+description: アカウントインサイトの設定 —Marketoドキュメント — 製品ドキュメント
 title: アカウントインサイトの設定
+exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントインサイトの設定{#set-up-account-insight}
 
