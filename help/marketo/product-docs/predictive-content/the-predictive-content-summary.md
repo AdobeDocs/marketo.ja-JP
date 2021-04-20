@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384634
-description: 予測コンテンツの概要 — Marketto Docs — 製品ドキュメント
+description: 予測コンテンツの概要 —Marketoドキュメント — 製品ドキュメント
 title: 予測コンテンツの概要
+exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 予測コンテンツの概要{#the-predictive-content-summary}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## 予測関与{#predictive-engagement}
+## 予測エンゲージメント {#predictive-engagement}
 
 合計クリック数とダイレクトリード数を比較して、コンバージョン率を確認し、異なるソースのパフォーマンスを比較します。
 
