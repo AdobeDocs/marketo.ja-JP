@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762794
-description: Salesforce Classic - Marketto Docs — 製品ドキュメントでのバルクアクションの使用
+description: Salesforce Classic -Marketoドキュメント — 製品ドキュメントでのバルクアクションの使用
 title: Salesforce Classicでのバルクアクションの使用
+exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Salesforce Classicでのバルクアクションの使用{#using-bulk-actions-in-salesforce-classic}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->概要を説明した手順に従う前に、Marketo Sales Connectアカウントにログインしていることを確認します。
+>概要を説明した手順に従う前に、MarketoのSales Connectアカウントにログインしていることを確認してください。
 
 ## バルク電子メール{#bulk-email}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-## Marketo Sales Connectへのプッシュ{#push-to-marketo-sales-connect}
+## Marketo セールスコネクトにプッシュ {#push-to-marketo-sales-connect}
 
 1. Salesforceで、「**Leads**」タブをクリックし、「**Go**」ボタンをクリックします。
 
