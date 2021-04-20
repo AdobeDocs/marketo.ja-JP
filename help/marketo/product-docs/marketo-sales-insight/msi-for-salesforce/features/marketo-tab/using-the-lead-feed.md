@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512979
-description: リードフィードの使用 — Marketto Docs — 製品ドキュメント
+description: リードフィードの使用 —Marketoドキュメント — 製品ドキュメント
 title: リードフィードの使用
+exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # リードフィードの使用{#using-the-lead-feed}
 
-リードフィードは、リードが行う興味深いイベントの最新リストです。 「マーケティング」タブをクリックすると、右側に表示されます。 RSSやTwitterのフィードのようなものです。最新の更新がリストの一番上に表示されます。 これを使って、まだ頭の中で生き生きとリードを飛び越えます。
+リードフィードは、リードが行う興味深いイベントの最新リストです。 [Marketo]タブをクリックすると、右側に表示されます。 これはRSSやTwitterのフィードのようなもので、最新の更新情報がリストの一番上に表示されます。 これを使って、まだ頭の中で生き生きとリードを飛び越えます。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
  <tbody> 
   <tr> 
    <td><p>項目</p></td> 
-   <td><p>説明</p></td> 
+   <td><p>詳細</p></td> 
   </tr> 
   <tr> 
    <td><p>イ。リード/コンタクト</p></td> 
@@ -49,7 +49,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
   </tr> 
   <tr> 
    <td><p>ハ。アカウント名</p></td> 
-   <td><p>会社名</p></td> 
+   <td><p>企業名</p></td> 
   </tr> 
   <tr> 
    <td><p>デ・タイム</p></td> 
@@ -74,7 +74,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
 
 また、RSSフィードによるリードフィードの更新を取得することもできます。  RSSフィードを使用すると、Salesforceに接続していない場合でも、リードの更新を受け取ることができます。 フィードは、Salesforceのリードフィードと同じ情報と、以下（利用可能な場合）を持ちます。
 
-* 電子メールアドレス
+* メールアドレス
 * 電話番号
 * モバイル番号
 * ファックス番号
@@ -83,7 +83,7 @@ Salesforceで表示する場合、各品目には次のものがあります。
 
 >[!NOTE]
 >
->この機能を有効にするには、会社のMarketor管理者がRSSフィード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)を有効にする必要があります。[
+>会社のMarketo管理者は、RSSフィードを有効にする[](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)を有効にして、この機能を動作させる必要があります。
 
 RSSの更新を取得するには、次の2つが必要です。RSSリンクとRSSフィードリーダー リードフィードのRSSアイコンをクリックして、RSSリンクを取得できます。
 
