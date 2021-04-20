@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352546
-description: GmailアドレスセカンダリがSales Connectと統合できない原因 — Marketto Docs — 製品ドキュメント
+description: GmailアドレスセカンダリがSales Connectと統合できないようにする —Marketoドキュメント — 製品ドキュメント
 title: GmailアドレスがSales Connectと統合されるのセカンダリを防ぐ
+exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # GmailアドレスセカンダリとSales Connectとの統合を禁止する{#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
