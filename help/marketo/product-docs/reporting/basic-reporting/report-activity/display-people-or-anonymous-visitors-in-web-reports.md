@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360008
-description: Webレポート — Marketto Docs -訪問者ドキュメントに人または匿名製品を表示
+description: Webレポートに人または匿名訪問者を表示する —Marketoドキュメント — 製品ドキュメント
 title: Webレポートでの人または匿名訪問者の表示
+exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Webレポートに人または匿名訪問者を表示{#display-people-or-anonymous-visitors-in-web-reports}
 
