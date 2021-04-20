@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360016
-description: スマートリスト- Marketto Docs — 製品ドキュメントを使用したレポート内のユーザーのフィルター
+description: スマートリストを使用したレポート内のユーザーのフィルター —Marketoドキュメント — 製品ドキュメント
 title: スマートリストを使用したレポート内のユーザーのフィルター
+exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
-
 
 # スマートリストを使用したレポート内のユーザーのフィルター{#filter-people-in-a-report-with-a-smart-list}
 
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 スマートリストは、次のレポートタイプで使用できます。
 
-* [ユーザーパフォーマンス](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [ステータス別ユーザー](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [売上高段階別のユーザー](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-* [電子メールのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [電子メールリンクのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [エンゲージメントストリームのパフォーマンス](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [担当者の実績](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [ステータス別の担当者](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [収益ステージ別の担当者](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [メールの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [メールリンクの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [エンゲージメントストリームの効果](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
 * [キャンペーンアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [キャンペーン電子メールのパフォーマンス](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [会社Webアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Webページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [キャンペーンメール効果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [企業ウェブアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [ウェブ ページ アクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
-   素晴らしい！ これで、スマートリストに一致する人のデータのみがレポートに表示されます。
+   OK！これで、スマートリストに一致する人のデータのみがレポートに表示されます。
