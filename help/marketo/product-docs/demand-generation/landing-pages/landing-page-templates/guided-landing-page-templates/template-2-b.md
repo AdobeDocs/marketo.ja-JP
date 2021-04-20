@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516470
-description: テンプレート2-B - Marketto Docs — 製品ドキュメント
+description: テンプレート2-B -Marketoドキュメント — 製品ドキュメント
 title: テンプレート2-B
+exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート2-B {#template-b}
 
