@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352530
-description: コマンドセンターの概要 — Marketto Docs — 製品ドキュメント
+description: コマンドセンターの概要 —Marketoドキュメント — 製品ドキュメント
 title: コマンドセンターの概要
+exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '569'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # コマンドセンターの概要{#command-center-overview}
 
@@ -31,28 +31,28 @@ Commend Centerは単一の統一された表示で、次のステップを見つ
  </colgroup> 
  <tbody> 
   <tr> 
-   <td title="背景色：グレー"><p title=""><strong><span>プライマリ</span> </strong></p></td> 
+   <td title="背景色：グレー"><p title=""><strong><span>プライマリー</span> </strong></p></td> 
    <td title="背景色：グレー"><p title=""><strong><span>セカンダリ</span> </strong></p></td> 
-   <td title="背景色：グレー"><p title=""><strong><span>説明</span> </strong></p></td> 
+   <td title="背景色：グレー"><p title=""><strong><span>詳細</span> </strong></p></td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><strong title="">送信済み</strong></td> 
-   <td title="背景色：青">配信済み</td> 
+   <td title="背景色：青">メール到着</td> 
    <td title="背景色：青">受信者に配信された電子メール。</td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><br></td> 
-   <td title="背景色：青">アーカイブ済み</td> 
+   <td title="背景色：青">アーカイブ済</td> 
    <td title="背景色：青">ユーザーがアーカイブした電子メール（電子メールの追跡を無効にするため）。</td> 
   </tr> 
   <tr> 
    <td title="背景色：グレー"><strong title="">保留中</strong></td> 
-   <td title="背景色：グレー">スケジュール済み</td> 
+   <td title="背景色：グレー">予定されています</td> 
    <td title="背景色：グレー">現在外出が予定されている電子メール。 電子メールが送信されると、その電子メールは配信済みフォルダーに移動されます。</td> 
   </tr> 
   <tr> 
    <td title="背景色：グレー"><br></td> 
-   <td title="背景色：グレー">ドラフト</td> 
+   <td title="背景色：グレー">下書き</td> 
    <td title="背景色：グレー"><p>ドラフトとして保存された電子メール。<br><strong>注意：ドラフトとして保存できる電子メールは1つ</strong> だけです。バルク電子メール（電子メールの選択と送信およびグループ電子メール）は、ドラフトとして保存されません。</p></td> 
   </tr> 
   <tr> 
@@ -61,7 +61,7 @@ Commend Centerは単一の統一された表示で、次のステップを見つ
    <td title="背景色：グレー">これは、電子メールが送信モーションに入ると、その電子メールが途中に入る状態です。 電子メールは、しばらくの間処理中である必要があります。</td> 
   </tr> 
   <tr> 
-   <td title="背景色：青"><strong title="">配信不能</strong></td> 
+   <td title="背景色：青"><strong title="">未配信</strong></td> 
    <td title="背景色：青">失敗</td> 
    <td title="背景色：青">配信に失敗した電子メール。</td> 
   </tr> 
