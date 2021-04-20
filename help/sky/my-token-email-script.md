@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: マイトークン電子メールスクリプト
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # マイトークン：電子メールスクリプト
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. Velocityでスクリプトを作成します。 以下に役立つリソースを示します。
 
-   * [マーケティング担当者向け電子メールスクリプティングドキュメント](https://developers.marketo.com/email-scripting/)
+   * [Marketo開発者電子メールスクリプティングドキュメント](https://developers.marketo.com/email-scripting/)
    * [Velocityユーザーガイド](https://velocity.apache.org/engine/devel/user-guide.html)
    * [速度リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0ドキュメント](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
