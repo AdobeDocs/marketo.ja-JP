@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352491
-description: Sales Connectに連絡先がすべて押し込まれないのはなぜですか。 - Marketto Docs — 製品ドキュメント
+description: Sales Connectに連絡先がすべて押し込まれないのはなぜですか。 -Marketoドキュメント — 製品ドキュメント
 title: Sales Connectに連絡先がすべて押し込まれないのはなぜですか。
+exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Sales Connectに連絡先がすべて押し込まれないのはなぜですか。{#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
