@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720738
-description: Marketorランディングページテンプレートの編集 — Marketto Docs — 製品ドキュメント
-title: マーケティングランディングページテンプレートの編集
+description: Marketoランディングページテンプレートの編集 —Marketoドキュメント — 製品ドキュメント
+title: Marketoランディングページテンプレートの編集
+exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Marketoランディングページテンプレートの編集{#edit-a-marketo-landing-page-template}
 
-# マーケティングランディングページテンプレートの編集{#edit-a-marketo-landing-page-template}
-
-Marketor内の任意のランディングページテンプレートを編集できます。
+Marketo内の任意のランディングページテンプレートを編集できます。
 
 1. **Design Studio**&#x200B;に移動します。
 
@@ -27,7 +27,7 @@ Marketor内の任意のランディングページテンプレートを編集で
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   完了！ これで、テンプレートのCSSを編集し、外観とレイアウトをフルコントロールできます。
+   完了! これで、テンプレートのCSSを編集し、外観とレイアウトをフルコントロールできます。
 
    >[!NOTE]
    >
