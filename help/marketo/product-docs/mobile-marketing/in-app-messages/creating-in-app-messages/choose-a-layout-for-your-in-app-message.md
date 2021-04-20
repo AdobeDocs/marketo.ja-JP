@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10100434
-description: アプリ内メッセージのレイアウトを選択します。Marketo Docs — 製品ドキュメント
+description: アプリ内メッセージのレイアウトを選択 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージのレイアウトを選択
+exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 0%
 
 ---
 
-
 # アプリ内メッセージのレイアウトを選択{#choose-a-layout-for-your-in-app-message}
 
-Marketorには、アプリ内メッセージを作成するための6つのレイアウトが用意されています。
+Marketoは、アプリ内メッセージを作成するために6種類のレイアウトを用意しています。
 
-* ポップアップレイアウトはより従来の方法で、コンテンツを提供するクリエイティブチームがいなくても、特定のルック&amp;フィールが不要な場合に最適です。 Marketor内で、独自のアプリ内メッセージを簡単に作成および編集できます
+* ポップアップレイアウトはより従来の方法で、コンテンツを提供するクリエイティブチームがいなくても、特定のルック&amp;フィールが不要な場合に最適です。 Marketo内で、独自のアプリ内メッセージを簡単に作成および編集できます
 * フルスクリーンレイアウトを使用すると、完成したデザインを読み込むことができ、柔軟なグラフィック表示が可能です
 
 ## ポップアップレイアウト{#pop-up-layouts}
