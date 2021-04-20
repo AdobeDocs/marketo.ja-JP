@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360012
-description: ステータス別人物レポート — マーケティング担当者ドキュメント — 製品ドキュメント
+description: ステータス別ユーザーレポート —Marketoドキュメント — 製品ドキュメント
 title: ステータス別ユーザーレポート
+exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # ステータス別ユーザーレポート{#people-by-status-report}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 
-1. 素晴らしい！ これで、1人のステータスに含まれる人数が、月ごとに表示されます。
+1. OK！これで、1人のステータスに含まれる人数が、月ごとに表示されます。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 
