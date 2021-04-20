@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746491
-description: 電子メール — Marketto Docs — 製品ドキュメントの検証
-title: 電子メールの確認
+description: 電子メール —Marketoドキュメント — 製品ドキュメントの確認
+title: メールを確認
+exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# メールの確認{#verify-your-email}
+# メールを確認 {#verify-your-email}
 
 未確認の電子メールIDがある場合は、次の手順に従います。
 
