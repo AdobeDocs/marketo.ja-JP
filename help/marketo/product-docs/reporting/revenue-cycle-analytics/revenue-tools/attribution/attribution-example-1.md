@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514126
-description: アトリビューションの例1 - Marketto Docs — 製品ドキュメント
+description: アトリビューションの例1 -Marketoドキュメント — 製品ドキュメント
 title: アトリビューションの例1
+exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # アトリビューションの例1 {#attribution-example}
 
@@ -20,12 +20,12 @@ ht-degree: 0%
 * 4月22日 | Fredはオポチュニティに関連付けられています（ロール）
 * 4月22日 |オポチュニティは$3,000に対して作成されます
 
-| プログラム名 | （トレードショー） | （ウェビナー） |
+| プログラム名 | (展示会) | (オンライン セミナ) |
 |---|---|---|
 | (FT)作成済みオプティ | `<pre>1</pre>` | `<pre>0</pre>` |
-| (FT)パイプラインが作成されました | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
+| （FT）創出されたパイプライン | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
 | (FT)オプティ・ウォン | `<pre>0</pre>` | `<pre>0</pre>` |
-| (FT)収益源 | `<pre>0</pre>` | `<pre>0</pre>` |
+| （FT）獲得した収益 | `<pre>0</pre>` | `<pre>0</pre>` |
 
 **回答を表示**
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >**説明**
 >
->1つ目は、COUNTSとCURRENCYの2つのタイプを理解することです。 「作成されたオプティ」は、カウント（整数）です。 パイプラインは通貨です。 Marketorでは、通貨は管理者のロケール設定に従います。
+>1つ目は、COUNTSとCURRENCYの2つのタイプを理解することです。 「作成されたオプティ」は、カウント（整数）です。 パイプラインは通貨です。 Marketoでは、通貨は管理ロケール設定に従います。
 >
 >トレードショーが全クレジットを受け取ったのは、マーゴ氏がオポチュニティ内の役割に関連していなかったためです。 役割も信用もない。
 
