@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719408
-description: 既存のWebキャンペーンーの編集 — Marketto Docs — 製品ドキュメント
+description: 既存のWebキャンペーンの編集 —Marketoドキュメント — 製品ドキュメント
 title: 既存のWebキャンペーンの編集
+exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # 既存のWebキャンペーンの編集{#edit-an-existing-web-campaign}
 
