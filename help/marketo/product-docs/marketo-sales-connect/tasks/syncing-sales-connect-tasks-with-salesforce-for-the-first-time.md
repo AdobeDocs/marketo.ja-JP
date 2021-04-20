@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352541
-description: Sales ConnectタスクとSalesforceとの初回同期 — Marketto Docs — 製品ドキュメント
+description: Sales ConnectタスクとSalesforceとの初回同期 —Marketoドキュメント — 製品ドキュメント
 title: Sales ConnectタスクとSalesforceとの初回同期
+exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
-
 
 # Sales ConnectタスクとSalesforceとの初回同期{#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
