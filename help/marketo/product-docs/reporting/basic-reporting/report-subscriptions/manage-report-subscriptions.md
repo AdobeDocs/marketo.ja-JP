@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359991
-description: レポート購読の管理 — Marketto Docs — 製品ドキュメント
+description: レポート購読の管理 —Marketoドキュメント — 製品ドキュメント
 title: レポート購読の管理
+exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # レポート購読の管理{#manage-report-subscriptions}
 
