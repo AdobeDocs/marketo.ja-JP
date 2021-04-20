@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745750
-description: アルゴリズム目標設定 — Marketto Docs — 製品ドキュメント
+description: アルゴリズム目標設定 —Marketoドキュメント — 製品ドキュメント
 title: アルゴリズム目標の設定
+exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
-
 
 # アルゴリズム目標の設定{#algorithm-goal-settings}
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
    ![](assets/three-new.png)
 
-   | **クリック数** | コンテンツを表示すると、訪問者がコンテンツをクリックする可能性が最も高い |
+   | **クリック** | 担当者が最もクリックして表示しそうなコンテンツを表示します |
    |---|---|
-   | **コンバージョン** | コンテンツを表示している訪問者がフォームを送信する可能性が最も高いコンテンツを表示する |
+   | **コンバージョン** | 担当者が最もフォームを送信して表示しそうなコンテンツを表示します |
 
 1. 終了したら「**保存**」をクリックします。
 
