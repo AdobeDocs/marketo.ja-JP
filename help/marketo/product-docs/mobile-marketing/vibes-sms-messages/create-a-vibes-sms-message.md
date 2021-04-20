@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: Vibe SMSメッセージの作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: Vibe SMSメッセージの作成 —Marketoドキュメント — 製品ドキュメント
 title: Vibe SMSメッセージの作成
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Vibe SMSメッセージの作成{#create-a-vibes-sms-message}
 
@@ -61,13 +61,13 @@ Vibes SMSメッセージの作成方法を次に示します。
 
    >[!NOTE]
    >
-   >トークンを追加すると、メッセージが文字制限を超える場合があります。 その後、メッセージが分割され、追加料金が発生します。
+   >トークンを追加すると、メッセージの上限を超える場合があります。その後、メッセージが分割され、追加料金が発生します。
 
 1. 挿入メニューの&#x200B;**リンク**&#x200B;をクリックして、メッセージにリンクを追加します。
 
    ![](assets/full-message-link-hand.jpg)
 
-1. リンクタイプを選択します。 デフォルトはマーケティングランディングページです。 それを行う場合は、ドロップダウンからランディングページを選択し、**挿入**&#x200B;をクリックする必要があります。
+1. リンクタイプを選択します。 Marketoランディングページがデフォルトです。 それを行う場合は、ドロップダウンからランディングページを選択し、**挿入**&#x200B;をクリックする必要があります。
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -85,7 +85,7 @@ Vibes SMSメッセージの作成方法を次に示します。
 
    >[!NOTE]
    >
-   >Marketing Targetは、ブランド名を示すトラッキングドメインのリンクプレビューを表示します。 mkt_tokリンクのチェックボックスをオフにすると、リンクが変更されます。 「リンクを追跡」チェックボックスもオフにすると、URLが基本長に短縮されます(例：www.mygooglepage.com)。
+   >Marketoにブランドのトラッキングドメインのリンクプレビューが表示されます。 mkt_tokリンクのチェックボックスをオフにすると、リンクが変更されます。 「リンクを追跡」チェックボックスもオフにすると、URLが基本長に短縮されます(例：www.mygooglepage.com)。
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
