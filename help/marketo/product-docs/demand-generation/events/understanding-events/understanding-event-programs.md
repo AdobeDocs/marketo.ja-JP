@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949841
-description: イベントプログラムについて — Marketto Docs — 製品ドキュメント
+description: イベントプログラムについて —Marketoドキュメント — 製品ドキュメント
 title: イベントプログラムについて
+exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # イベントプログラムについて{#understanding-event-programs}
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
-## 概要{#overview}
+## 概要 {#overview}
 
 イベントプログラムとは、オフラインイベントやオンラインプログラムを自動化するのに使用できるの一種です。 イベントプログラムは、特定の日時に出席者を持つものと考えてください。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >**例**
 >
->* ウェビナー
+>* オンライン セミナ
 >* 当事者
 >* トレードショー
 >* メテュプス
