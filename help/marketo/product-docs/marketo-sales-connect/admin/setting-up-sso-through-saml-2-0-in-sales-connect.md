@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352405
-description: Sales Connect - Marketto Docs - Product DocumentationでのSAML 2.0を介したSSOの設定
+description: Sales Connect -Marketoドキュメント — 製品ドキュメントでのSAML 2.0を介したSSOの設定
 title: Sales ConnectでのSAML 2.0を使用したSSOの設定
+exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Sales Connect {#setting-up-sso-through-saml-in-sales-connect}でのSAML 2.0を介したSSOの設定
 
@@ -17,15 +17,15 @@ SAML 2.0仕様を通じてSSOをサポートします。 現時点では、プ�
 
 >[!NOTE]
 >
->これは、**Marketo Sales Connect**&#x200B;のお客様にのみ適用されます。 Sales Connectをお持ちでなく、詳細をご希望の場合は、カスタマーサクセスマネージャーにお問い合わせください。
+>これは、**Marketo・セールス・コネクト**&#x200B;のお客様にのみ当てはまります。 Sales Connectをお持ちでなく、詳細をご希望の場合は、カスタマーサクセスマネージャーにお問い合わせください。
 
-## 要件{#requirements}
+## 要件 {#requirements}
 
 * SSOアカウント
-* Marketo Salesの接続購読
+* Marketoセールスコネクト購読
 * SSOアカウントからのMetadata.xml（問題URL、検証のエンドポイント、および公開鍵）
 
-## セットアップ{#setup}
+## セットアップ {#setup}
 
 チームのSSOインスタンスのmetadata.xmlには、発行者URL、検証のエンドポイント、および公開鍵を含める必要があります。
 
