@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359713
-description: ランディングページパフォーマンスレポート — Marketto Docs — 製品ドキュメント
+description: ランディングページパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
 title: ランディングページパフォーマンスレポート
+exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページパフォーマンスレポート{#landing-page-performance-report}
 
