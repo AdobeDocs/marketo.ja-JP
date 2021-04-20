@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger — レポートアラートの設定 — Marketto Docs — 製品ドキュメント
+description: Champion/Challenger — レポートアラートの設定 —Marketoドキュメント — 製品ドキュメント
 title: Champion/Challenger — レポートアラートの設定
+exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：レポートアラートの構成{#champion-challenger-configure-report-alerts}
 
