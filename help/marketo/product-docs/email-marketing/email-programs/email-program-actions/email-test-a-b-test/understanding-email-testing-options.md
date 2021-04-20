@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359483
-description: 電子メールテストオプションについて — Marketto Docs — 製品ドキュメント
+description: 電子メールテストオプションについて —Marketoドキュメント — 製品ドキュメント
 title: 電子メールテストオプションについて
+exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールテストオプションについて{#understanding-email-testing-options}
 
-電子メールをテストして、エンゲージメントスコアを改善します。 Marketoには2種類の電子メールテストがあります。
+電子メールをテストして、エンゲージメントスコアを改善します。 Marketoでは2種類の電子メールテストが行われています。
 
 ## A/Bテスト{#a-b-testing}
 
