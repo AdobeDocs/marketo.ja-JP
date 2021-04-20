@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359455
-description: 電子メールプログラムのスケジュール設定 — Marketto Docs — 製品ドキュメント
+description: 電子メールプログラムのスケジュール設定 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムのスケジュール
+exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムのスケジュール{#schedule-your-email-program}
 
