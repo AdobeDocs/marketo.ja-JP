@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352489
-description: アクティビティの履歴にログされませんでした — Marketto Docs — 製品ドキュメント
+description: アクティビティの履歴にログインしませんでした —Marketoドキュメント — 製品ドキュメント
 title: アクティビティの履歴にログインしませんでした
+exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # アクティビティの履歴{#didnt-log-to-activity-history}にログインしませんでした
 
