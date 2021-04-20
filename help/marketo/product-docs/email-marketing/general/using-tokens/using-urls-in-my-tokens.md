@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11382535
-description: マイトークン — Marketto Docs — 製品ドキュメントでのURLの使用
+description: マイトークン —Marketoドキュメント — 製品ドキュメントでのURLの使用
 title: マイトークンでのURLの使用
+exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # マイトークンでのURLの使用{#using-urls-in-my-tokens}
 
