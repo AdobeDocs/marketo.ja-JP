@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953038
-description: ランディングページテストグループのコピー — Marketto Docs — 製品ドキュメント
+description: ランディングページテストグループのコピー —Marketoドキュメント — 製品ドキュメント
 title: ランディングページテストグループのコピー
+exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページテストグループのクローン作成{#cloning-a-landing-page-test-group}
 
