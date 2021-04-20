@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949154
-description: Webキャンペーンーのラベル付け — Marketto Docs — 製品ドキュメント
+description: ウェブキャンペーンのラベル付け —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンのラベル付け
+exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンのラベル付け{#label-your-web-campaigns}
 
