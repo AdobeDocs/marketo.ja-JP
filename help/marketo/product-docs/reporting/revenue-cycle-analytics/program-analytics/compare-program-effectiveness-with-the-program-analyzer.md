@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360403
-description: プログラムの効果とプログラムアナライザーとの比較 — Marketto Docs — 製品ドキュメント
+description: プログラムの効果とプログラムアナライザとの比較 —Marketoドキュメント — 製品ドキュメント
 title: プログラムの効果とプログラムアナライザとの比較
+exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
 
 ---
-
 
 # プログラムの効果とプログラムアナライザとの比較{#compare-program-effectiveness-with-the-program-analyzer}
 
