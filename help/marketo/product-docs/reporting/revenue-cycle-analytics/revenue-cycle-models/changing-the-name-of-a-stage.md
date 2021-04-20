@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718675
-description: ステージ名の変更 — Marketto Docs — 製品ドキュメント
+description: ステージ名の変更 —Marketoドキュメント — 製品ドキュメント
 title: ステージ名の変更
+exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # ステージ名の変更{#changing-the-name-of-a-stage}
 
