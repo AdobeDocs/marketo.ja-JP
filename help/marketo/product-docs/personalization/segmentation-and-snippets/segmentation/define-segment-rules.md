@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359449
-description: セグメントルールの定義 — Marketto Docs — 製品ドキュメント
+description: セグメントルールの定義 —Marketoドキュメント — 製品ドキュメント
 title: セグメントルールの定義
+exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
 
 ---
-
 
 # セグメントルールの定義{#define-segment-rules}
 
@@ -59,13 +59,13 @@ ht-degree: 0%
    >
    >セグメントで作成できるセグメントの合計数は、使用するフィルターの数とタイプ、およびセグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大100個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバ、リード所有者フィールド、および売上高ステージ。
    >
-   >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+   >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. 円グラフでセグメントの概要を簡単に確認するには、ダッシュボードと適用されるルールを確認します。
 
    ![](assets/image2014-9-15-11-3a36-3a19.png)
 
-お疲れさまでした！ これらのセグメントは、Marketoの多くの場所で役に立ちます。
+お疲れさまでした！ これらのセグメントはMarketoの多くの場所で役に立つでしょう。
 
 >[!NOTE]
 >
