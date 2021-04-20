@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081307
-description: 人物ページの列 — Marketto Docs — 製品ドキュメント
+description: 人物ページ列 —Marketoドキュメント — 製品ドキュメント
 title: 人物ページの列
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
-
 
 # ユーザーページの列{#people-page-columns}
 
@@ -34,12 +34,12 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>列</th> 
-   <th>説明</th> 
+   <th>縦棒</th> 
+   <th>詳細</th> 
   </tr> 
   <tr> 
    <td>名（デフォルト）</td> 
-   <td>名</td> 
+   <td>名 </td> 
   </tr> 
   <tr> 
    <td>姓（デフォルト）</td> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">Email（デフォルト）</td> 
-   <td colspan="1">電子メールアドレス</td> 
+   <td colspan="1">メールアドレス</td> 
   </tr> 
   <tr> 
    <td colspan="1">電話</td> 
@@ -55,30 +55,30 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">タイトル（デフォルト）</td> 
-   <td colspan="1">肩書</td> 
+   <td colspan="1">役職</td> 
   </tr> 
   <tr> 
    <td>会社（デフォルト）</td> 
-   <td>会社名</td> 
+   <td>企業名</td> 
   </tr> 
   <tr> 
    <td>キャンペーン（デフォルト）</td> 
    <td>個人が現在使用している販売キャンペーン</td> 
   </tr> 
   <tr> 
-   <td>#キャンペーン</td> 
+   <td>キャンペーン数</td> 
    <td>その人が所属している販売キャンペーンの合計数</td> 
   </tr> 
   <tr> 
-   <td>呼び出し回数</td> 
+   <td>通話数</td> 
    <td>このユーザーに対して行われた呼び出しの合計数です</td> 
   </tr> 
   <tr> 
-   <td>電子メール数</td> 
+   <td>メール数</td> 
    <td>このユーザーに送信された電子メールの合計数</td> 
   </tr> 
   <tr> 
-   <td>タスク期限</td> 
+   <td>タスク期日</td> 
    <td>タスク期限</td> 
   </tr> 
   <tr> 
@@ -94,11 +94,11 @@ ht-degree: 0%
    <td><p>正当な利益、契約の履行、法的義務の遵守、生命的利益の保護、公益・公的権限その他</p></td> 
   </tr> 
   <tr> 
-   <td>タスクを開く</td> 
+   <td>進行中のタスク</td> 
    <td>このユーザーが開いているタスクの数</td> 
   </tr> 
   <tr> 
-   <td>#表示</td> 
+   <td>ビュー数</td> 
    <td>このユーザーによる表示の合計数</td> 
   </tr> 
   <tr> 
@@ -114,7 +114,7 @@ ht-degree: 0%
    <td>個人レコードが最後に更新された日付</td> 
   </tr> 
   <tr> 
-   <td>作成者</td> 
+   <td>クリエイター</td> 
    <td>ユーザーを作成したユーザーの名前</td> 
   </tr> 
   <tr> 
@@ -126,7 +126,7 @@ ht-degree: 0%
    <td>その個人が属するグループ</td> 
   </tr> 
   <tr> 
-   <td colspan="1">登録解除</td> 
+   <td colspan="1">配信停止完了</td> 
    <td colspan="1">販売の登録解除状態</td> 
   </tr> 
  </tbody> 
