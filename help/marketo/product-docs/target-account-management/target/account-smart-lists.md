@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: アカウントスマートリスト- Marketto Docs — 製品ドキュメント
+description: アカウントスマートリスト-Marketoドキュメント — 製品ドキュメント
 title: アカウントスマートリスト
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントスマートリスト{#account-smart-lists}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この機能はオープンベータ版で、TAMとマーケティング担当者の次世代ユーザーエクスペリエンスの両方を有効にしているユーザーは誰でも利用できます。 ベータ版に参加したい場合は、CSMにお問い合わせください。
+>この機能はオープンベータ版で、TAMとMarketoの次世代ユーザーエクスペリエンスの両方を有効にしているユーザーは誰でも利用できます。 ベータ版に参加したい場合は、CSMにお問い合わせください。
 
 ## アカウントスマートリストの作成{#create-an-account-smart-list}
 
@@ -101,4 +101,4 @@ ht-degree: 0%
 >
 >**定義**
 >
->**アカウントのメンバースマートリスト**:この場合、「メンバー」という単語はアカウント自体を指すので、「ユーザーメンバー」は、これらのアカウントの実際の人（Marketorレコード）を意味します。
+>**アカウントのメンバースマートリスト**:この場合、「会員」という語はアカウントそのものを指すので、「人々の会員」とは実際の人(Marketoの記録)を意味します。
