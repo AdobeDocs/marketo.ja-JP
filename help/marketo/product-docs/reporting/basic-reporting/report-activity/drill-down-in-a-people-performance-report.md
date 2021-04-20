@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360035
-description: 人物パフォーマンスレポートのドリルダウン — Marketto Docs — 製品ドキュメント
+description: 人物パフォーマンスレポートのドリルダウン —Marketoドキュメント — 製品ドキュメント
 title: 「人」パフォーマンス・レポートのドリル・ダウン
+exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 人物パフォーマンスレポートのドリルダウン{#drill-down-in-a-people-performance-report}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 素晴らしい仕事！ ドリルダウン・レポートが新しいタブで開きます。 これで、新しいレポートを調べることができます。
+1. OK！ドリルダウン・レポートが新しいタブで開きます。 これで、新しいレポートを調べることができます。
 
    >[!TIP]
    >
