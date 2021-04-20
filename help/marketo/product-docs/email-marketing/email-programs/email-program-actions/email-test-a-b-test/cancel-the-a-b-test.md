@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359600
-description: A/Bテストのキャンセル — Marketto Docs — 製品ドキュメント
+description: A/Bテストのキャンセル —Marketoドキュメント — 製品ドキュメント
 title: A/Bテストのキャンセル
+exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # A/Bテストのキャンセル{#cancel-the-a-b-test}
 
