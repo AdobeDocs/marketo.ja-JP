@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359478
-description: 電子メールリンクのパフォーマンスレポート — Marketto Docs — 製品ドキュメント
-title: 電子メールリンクのパフォーマンスレポート
+description: 電子メールリンクのパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
+title: メールリンクパフォーマンスレポート
+exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # 電子メールリンクパフォーマンスレポート{#email-link-performance-report}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
-1. 素晴らしい！ これで、電子メールリンクのパフォーマンスレポートが作成されました。
+1. OK！これで、電子メールリンクのパフォーマンスレポートが作成されました。
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">列</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">縦棒</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -54,19 +54,19 @@ ht-degree: 0%
    <td colspan="1" rowspan="1">電子メール名でグループ化。<br>プラス(+)をクリックすると、その電子メールに含まれているすべてのリンクが表示されます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">クリック数</td> 
+   <td colspan="1" rowspan="1">クリック</td> 
    <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">%クリック数</td> 
+   <td colspan="1" rowspan="1">% クリック</td> 
    <td colspan="1" rowspan="1">その電子メール内のすべてのリンクの合計クリック数のうち、このリンクの割合。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">ユーザー</td> 
+   <td colspan="1" rowspan="1">担当者</td> 
    <td colspan="1" rowspan="1">リンクをクリックした純人数。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">%人</td> 
+   <td colspan="1" rowspan="1">% 担当者</td> 
    <td colspan="1" rowspan="1">その電子メール内のリンクをクリックした個別訪問者数の合計（割合）。</td> 
   </tr> 
  </tbody> 
