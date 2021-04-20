@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359679
-description: フォームテーマのCSSの編集 — マーケティングツールドキュメント — 製品ドキュメント
+description: フォームテーマのCSSの編集 —Marketoドキュメント — 製品ドキュメント
 title: フォームテーマのCSSの編集
+exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # フォームテーマのCSSの編集{#edit-the-css-of-a-form-theme}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この方法を試す場合は、CSSを知っていることを確認してください。マーケティングサポートは、カスタムコーディングを支援するようには設定されていません。 また、変更内容は、現在編集中のフォームにのみ適用されます。
+>この方法を試す場合は、CSSを必ずご確認ください。Marketoサポートは、カスタムコーディングを支援するようには設定されていません。 また、変更内容は、現在編集中のフォームにのみ適用されます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
