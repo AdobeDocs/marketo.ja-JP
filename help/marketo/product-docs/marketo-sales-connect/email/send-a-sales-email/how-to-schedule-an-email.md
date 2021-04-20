@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352529
-description: 電子メールのスケジュール方法 — Marketto Docs — 製品ドキュメント
+description: 電子メールのスケジュール方法 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのスケジュール方法
+exl-id: 040e9520-c424-4779-94e8-5ce11c242dc6
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールのスケジュール方法{#how-to-schedule-an-email}
 
