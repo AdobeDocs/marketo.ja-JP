@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352548
-description: GmailからSales Connectをアンインストールする方法 — Marketto Docs — 製品ドキュメント
+description: GmailからSales Connectをアンインストールする方法 —Marketoドキュメント — 製品ドキュメント
 title: GmailからSales Connectをアンインストールする方法
+exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # GmailからSales Connectをアンインストールする方法{#how-to-uninstall-sales-connect-from-gmail}
 
