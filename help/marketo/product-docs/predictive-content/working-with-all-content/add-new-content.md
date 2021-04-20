@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384651
-description: 追加新しいコンテンツ — Marketto Docs — 製品ドキュメント
-title: 追加新しいコンテンツ
+description: 追加新しいコンテンツ —Marketoドキュメント — 製品ドキュメント
+title: 新規コンテンツ追加
+exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 追加新しいコンテンツ{#add-new-content}
+# 新規コンテンツ追加 {#add-new-content}
 
 コンテンツは、すべてのコンテンツページに手動で簡単に追加できます。
 
