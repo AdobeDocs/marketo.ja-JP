@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515027
-description: ガイド付きランディングページ追加の画像 — Marketto Docs — 製品ドキュメント
+description: ガイド付きランディングページ追加の画像 —Marketoドキュメント — 製品ドキュメント
 title: ガイド付追加きランディングページの画像
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # ガイド追加付きランディングページの画像{#add-an-image-to-a-guided-landing-page}
 
