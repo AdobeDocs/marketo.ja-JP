@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359618
-description: フ追加ォームへのリッチテキスト — Marketto Docs — 製品ドキュメント
+description: フ追加ォームへのリッチテキスト —Marketoドキュメント — 製品ドキュメント
 title: フ追加ォームへのリッチテキスト
+exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # フ追加ォーム{#add-rich-text-to-a-form}へのリッチテキスト
 
