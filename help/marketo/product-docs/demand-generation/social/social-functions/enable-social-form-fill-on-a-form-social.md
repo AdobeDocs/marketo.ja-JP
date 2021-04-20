@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359829
-description: フォームに対するソーシャルフォームの入力を有効にする（ソーシャル） - Marketto Docs — 製品ドキュメント
+description: フォームにソーシャルフォームを記入する（ソーシャル） -Marketoドキュメント — 製品ドキュメント
 title: フォームに対するソーシャルフォームの入力を有効にする(Social)
+exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Enable Social Form Fill on a Form(Social) {#enable-social-form-fill-on-a-form-social}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >人々がソーシャルボタンを使用する場合に、[Marketorが捕捉するデータ](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)を見てみましょう。
+   >人々がソーシャルボタンを使用する場合、[データMarketoが](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)を捕捉するものを見てみましょう。
 
 1. 「**完了**」をクリックします。
 
