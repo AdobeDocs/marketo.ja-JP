@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359768
-description: 調査の作成 — Marketto Docs — 製品ドキュメント
+description: 調査の作成 —Marketoドキュメント — 製品ドキュメント
 title: ポールの作成
+exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # ポールの作成{#create-a-poll}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 >[!PREREQUISITES]
 >
->調査に画像を使用する場合は、開始する前に、画像をマーケティング先の画像およびファイルライブラリに追加します。 各ポー追加ルエントリの60 x 60ピクセルの画像。 「[マーケティング対象の追加画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)」を参照してください。
+>調査に画像を使用する場合は、まず、Marketo画像とファイルライブラリに画像を追加します。 各ポー追加ルエントリの60 x 60ピクセルの画像。 [Marketoへ追加の画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
 
 1. プログラムー内で、**新規**/**新規ローカルアセット**&#x200B;を選択します。
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 >
 >ポールのデフォルト値を変更するには、[**戻る**]をクリックします。 承認せずに後で作業を保存するには、[**閉じる**]をクリックします。
 
-調査に問題がある場合は、調査が承認される前に問題の解決を促すメッセージが表示されます。 おめでとう！ ポールが作成されました。
+調査に問題がある場合は、調査が承認される前に問題の解決を促すメッセージが表示されます。 おめでとうございます！ポールが作成されました。
 
 >[!MORELIKETHIS]
 >
