@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359566
-description: フォーム内のフィールドラベルの編集 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: フォーム内のフィールドラベルの編集 —Marketoドキュメント — 製品ドキュメント
 title: フォーム内のフィールドラベルの編集
+exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # フォームのフィールドラベルの編集{#edit-a-field-label-in-a-form}
 
