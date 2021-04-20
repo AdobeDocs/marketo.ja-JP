@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359890
-description: エンゲージメントスコアについて — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: エンゲージメントスコアについて —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントスコアについて
+exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # エンゲージメントスコアについて{#understanding-the-engagement-score}
 
