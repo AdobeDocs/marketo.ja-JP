@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512442
-description: モバイルアプリの削除 — Marketto Docs — 製品ドキュメント
+description: モバイルアプリの削除 —Marketoドキュメント — 製品ドキュメント
 title: モバイルアプリの削除
+exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# モバイルアプリの削除{#delete-mobile-app}
+# モバイルアプリの削除 {#delete-mobile-app}
 
 1. 「**管理者**」をクリックします。
 
