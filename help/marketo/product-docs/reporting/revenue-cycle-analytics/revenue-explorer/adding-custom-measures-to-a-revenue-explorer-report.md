@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097747
-description: 売上高エクスプローラレポートへのカスタムメジャーの追加 — Marketto Docs — 製品ドキュメント
+description: 売上高エクスプローラレポートへのカスタムメジャーの追加 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラ・レポートへのカスタム・メジャーの追加
+exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # 売上高エクスプローラレポートへのカスタムメジャーの追加{#adding-custom-measures-to-a-revenue-explorer-report}
 
