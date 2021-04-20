@@ -1,14 +1,14 @@
 ---
-description: チーム向けのSales Insightの設定 — Marketto Docs — 製品ドキュメント
+description: チーム向けのSales Insightの設定 —Marketoドキュメント — 製品ドキュメント
 title: チーム向けのSales Insightの設定
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
 
 ---
-
 
 # チームのSales Insightの設定{#setting-up-sales-insight-for-your-team}
 
@@ -38,15 +38,15 @@ Sales Insightユーザー専用のプロファイルがある場合は、この�
 
    **Sales Insight**:
 
-   * 「アプリのカスタム設定」で、「マーケティング」にチェックを付けて、Marketoアプリを表示します。
-   * 「タブの設定」で、「マーケティング」タブを「デフォルトオン」に変更します
-   * 「カスタムオブジェクト権限」で、Marketor Sales InsightのConfigの読み取り、作成、編集および削除(ユーザーが、設定設定に対するアクセス権を持っている必要がある場合（通常は管理者に使用）)をオンにします
+   * 「アプリのカスタム設定」で、「Marketo」を選択してMarketoアプリを表示します
+   * 「タブ設定」で、Marketoのタブをデフォルトオンに変更します
+   * 「カスタムオブジェクト権限」で、「MarketoSales Insight Configの読み取り、作成、編集および削除」をオンにします(ユーザーが設定設定にアクセスできる必要がある場合（通常、管理者に使用）。
 
    **Sales Insightへのアクセスを許可されないプロファイルの場合**:
 
-   * 「アプリのカスタム設定」で、「マーケティング」のチェックを外して、Marketorアプリを非表示にします
-   * 「タブの設定」で、「マーケティング」タブを「タブを非表示」に変更します
-   * 「カスタムオブジェクト権限」で、Marketor Sales Insight設定の「読み取り」、「作成」、「編集」、「削除」のチェックを外します。
+   * 「アプリのカスタム設定」で、「Marketo」のチェックを外して、Marketoアプリを非表示にします
+   * 「タブ設定」で、Marketoのタブを「タブを非表示」に変更します
+   * 「カスタムオブジェクト権限」で、「MarketoSales Insight設定の読み取り」、「作成」、「編集」、「削除」のチェックを外します。
 
 
 1. 終了したら「**保存**」をクリックします。
