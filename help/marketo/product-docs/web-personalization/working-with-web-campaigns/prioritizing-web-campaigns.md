@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8782266
-description: Webキャンペーンの優先順位付け — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンの優先順位付け —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンの優先順位の設定
+exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンの優先順位{#prioritizing-web-campaigns}
 
