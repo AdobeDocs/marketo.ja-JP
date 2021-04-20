@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352514
-description: Sales Connectが電子メールの重複排除をどのように扱うか — Marketto Docs — 製品ドキュメント
+description: Sales Connectが電子メールの重複排除をどのように扱うか —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectが電子メールの重複排除をどのように処理するか
+exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Sales ConnectがEメールの重複排除をどのように扱うか{#how-sales-connect-handles-email-de-duping}
 
