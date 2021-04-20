@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359785
-description: 照会オファーの受渡通知電子メールを送信 — Marketto Docs — 製品ドキュメント
+description: 照会オファーの受渡通知メールを送信 —Marketoドキュメント — 製品ドキュメント
 title: 照会オファーの受渡通知電子メールの送信
+exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # 照会オファーの受渡通知メールの送信{#send-referral-offer-fulfillment-email}
 
@@ -73,4 +73,4 @@ ht-degree: 0%
 
    ![](assets/2015-04-20-15-54-13.png)
 
-すごい！ 受渡通知メールを受け取り、報酬についてかき集められる。
+やりましたね！受渡通知メールを受け取り、報酬についてかき集められる。
