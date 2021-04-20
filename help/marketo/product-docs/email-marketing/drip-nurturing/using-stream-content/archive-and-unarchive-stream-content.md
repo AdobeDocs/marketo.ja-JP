@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359930
-description: ストリームコンテンツのアーカイブとアーカイブ解除 — Marketto Docs — 製品ドキュメント
+description: ストリームコンテンツのアーカイブとアーカイブ解除 —Marketoドキュメント — 製品ドキュメント
 title: ストリームコンテンツのアーカイブとアーカイブ解除
+exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # ストリームコンテンツのアーカイブとアーカイブ解除{#archive-and-unarchive-stream-content}
 
