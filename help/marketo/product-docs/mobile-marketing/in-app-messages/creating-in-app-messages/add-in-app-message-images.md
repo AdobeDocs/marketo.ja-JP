@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100636
-description: アプリ内追加メッセージ画像 — Marketto Docs — 製品ドキュメント
+description: アプリ内追加メッセージ画像 —Marketoドキュメント — 製品ドキュメント
 title: アプリ追加内メッセージ画像
+exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # 追加アプリ内メッセージ画像{#add-in-app-message-images}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. 目的の画像を配置し、「画像プロパティ」で、「高さ」、「幅」または「両方」で画像に合わせるボタンを選択します。
+1. 目的の画像を配置し、「画像プロパティ」で、「高さ」、「幅」または「両方」で、画像に合うボタンを選択します。
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
    >
    >画像、ボタンまたは背景のタップアクションの場合、AppleプラットフォームとAndroidプラットフォームで異なるアクションを設定できます。 例えば、ディープリンクの処理方法がAppleとAndroidでは異なるとします。 メッセージの送信先のプラットフォームが1つだけの場合は、もう1つのプラットフォームをデフォルトの設定のままにするか、「**なし**」を選択します。
 
-素晴らしい仕事！ これで、[アプリ内メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)のテキストを作成するタイミングになりました。
+すばらしい！ これで、[アプリ内メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)のテキストを作成するタイミングになりました。
 
 >[!MORELIKETHIS]
 >
