@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352455
-description: Office365 Mac OS、Windows、およびオンライン用Sales Connectのインストール — Marketto Docs — 製品ドキュメント
+description: Office365 Mac OS、Windows、およびオンライン用Sales Connectのインストール —Marketoドキュメント — 製品ドキュメント
 title: Office 365 Mac OS、Windows、オンライン用Sales Connectのインストール
+exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
-
 
 # Office365 Mac OS、Windows、およびオンライン用Sales Connectのインストール{#installing-sales-connect-for-office-mac-os-windows-and-online}
 
