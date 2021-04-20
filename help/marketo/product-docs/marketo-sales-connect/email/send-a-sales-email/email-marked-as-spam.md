@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352525
-description: スパムとしてマークされた電子メール — Marketto Docs — 製品ドキュメント
+description: スパムとしてマークされた電子メール —Marketoドキュメント — 製品ドキュメント
 title: スパムとしてマークされた電子メール
+exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
-
 
 # スパムとしてマークされた電子メール{#email-marked-as-spam}
 
