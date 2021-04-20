@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720151
-description: MarketorランディングページへのRTPの実装 — Marketto Docs — 製品ドキュメント
-title: マーケティングランディングページへのRTPの実装
+description: MarketoランディングページでのRTPの実装 —Marketoドキュメント — 製品ドキュメント
+title: MarketoランディングページでのRTPの実装
+exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
-# MarketorランディングページへのRTPの実装{#implementing-rtp-on-marketo-landing-pages}
+# MarketoランディングページでのRTPの実装{#implementing-rtp-on-marketo-landing-pages}
 
 RTPタグを実装するには、次のインストール手順に従ってください。
 
