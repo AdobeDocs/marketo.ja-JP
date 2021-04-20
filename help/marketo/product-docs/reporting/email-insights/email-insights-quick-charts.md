@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10099415
-description: 電子メールインサイトクイックチャート — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: 電子メールインサイトクイックチャート —Marketoドキュメント — 製品ドキュメント
 title: 電子メールインサイトクイックグラフ
+exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールインサイトクイックチャート{#email-insights-quick-charts}
 
