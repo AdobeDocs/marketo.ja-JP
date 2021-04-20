@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514956
-description: Webリッチメディアの予測コンテンツを有効にする — Marketto Docs — 製品ドキュメント
+description: Webリッチメディアの予測コンテンツを有効にする —Marketoドキュメント — 製品ドキュメント
 title: Webリッチメディアの予測コンテンツを有効にする
+exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Webリッチメディアの予測コンテンツを有効にする{#enable-predictive-content-for-web-rich-media}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## JavaScriptコードのカスタマイズとWebサイトへの埋め込み{#customize-the-javascript-code-and-embed-it-into-your-website}
 
-マーケティング開発者サイトのリッチメディアレコメンデーションテンプレート[のドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、Webサイトのテンプレートをカスタマイズする方法について説明します。
+Marketo開発者サイトのリッチメディアレコメンデーションテンプレート[のドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、Webサイトのテンプレートをカスタマイズする方法について説明します。
 
 テンプレートを表示する場所のWebサイトにJavaScriptコードを貼り付けます。
 
