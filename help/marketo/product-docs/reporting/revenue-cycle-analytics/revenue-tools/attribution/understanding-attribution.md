@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953136
-description: アトリビューションについて — Marketto Docs — 製品ドキュメント
+description: アトリビューションについて —Marketoドキュメント — 製品ドキュメント
 title: アトリビューションについて
+exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
 # アトリビューションについて{#understanding-attribution}
 
 ## アトリビューションとは{#what-is-attribution}
 
-アトリビューションとは、販売やオポチュニティに影響を与えるプログラムに対して、マーケティング担当者がクレジットを与える方法です。 Marketing Modelerを使用する場合、アトリビューションは、ビジネスモデル内の誰かを前に進めたときのクレジットを与えることもできます。
+アトリビューションとは、販売や機会に影響を与えるプログラムに、Marketoがどのようにクレジットを与えるかを指します。 Marketoのモデラーを使用する場合、アトリビューションは、ビジネスモデル内の誰かを前に進めた功績を与えることもできます。
 
 ## なぜ追跡を続ける？{#why-keep-track-of-this}
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 >* [アトリビューションの例4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 
-この機能を使用する場合、Marketoに対する投資を最大限に活用できるはずです。
+この機能を使用すると、Marketoへの投資を最大限に活用できます。
