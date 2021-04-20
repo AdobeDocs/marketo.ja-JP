@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360399
-description: プログラムアナライザーの作成 — Marketto Docs — 製品ドキュメント
+description: プログラムアナライザの作成 —Marketoドキュメント — 製品ドキュメント
 title: プログラム分析計の作成
+exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # プログラムアナライザの作成{#create-a-program-analyzer}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->プログラムアナライザーから適切なデータを取得するには、CRMの担当者にオポチュニティの役割があり、Marketoプログラムが完全に設定されていること、および[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
+>プログラム分析計から適切なデータを取得するには、CRM担当者にオポチュニティの役割があり、Marketoプログラムが[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
 
 >[!TIP]
 >
