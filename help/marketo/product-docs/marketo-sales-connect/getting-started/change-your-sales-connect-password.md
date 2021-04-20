@@ -1,14 +1,14 @@
 ---
-description: Sales Connectのパスワードの変更 — Marketto Docs — 製品ドキュメント
+description: Sales Connectのパスワードの変更 —Marketoドキュメント — 製品ドキュメント
 title: 販売用接続パスワードの変更
+exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 販売用接続パスワードの変更{#change-your-sales-connect-password}
 
