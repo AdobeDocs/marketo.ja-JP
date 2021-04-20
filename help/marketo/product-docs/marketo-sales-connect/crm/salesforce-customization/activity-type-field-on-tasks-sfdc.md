@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352476
-description: タスク(SFDC)のアクティビティタイプフィールド — Marketto Docs — 製品ドキュメント
+description: タスク(SFDC)のアクティビティタイプフィールド —Marketoドキュメント — 製品ドキュメント
 title: タスクのアクティビティタイプフィールド(SFDC)
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # タスクのアクティビティタイプフィールド(SFDC) {#activity-type-field-on-tasks-sfdc}
 
@@ -19,14 +19,14 @@ Sales Connectの支援を受けて、電子メールや呼び出しをSalesforce
 >
 >BCCを使用して電子メールをログに記録しても、タスクタイプの選択リストは参照されず、代わりに、BCCアドレスを通じてSalesforceに配信されるので、タイプフィールドに「電子メール」として自動的に入力されます。
 
-## 要件{#requirements}
+## 要件 {#requirements}
 
 * Salesforceとの接続
 * タスクタイプの選択リストでデフォルトタイプの値が選択されていません
 * 呼び出し、返信、電子メールは、タスクタイプの選択リストにすべて存在する必要があります（大文字と小文字の区別）
 * 「Type」フィールドの値に対してアクションを実行するワークフローやトリガーはありません。
 
-## セットアップ{#setup}
+## セットアップ {#setup}
 
 まず、適切なpicklist値が正しいかどうかを確認します。 選択リストに変更を加えるには、Salesforce管理者の助けが必要です。
 
@@ -34,7 +34,7 @@ Sales Connectの支援を受けて、電子メールや呼び出しをSalesforce
 1. 「カスタマイズ」をクリックします。
 1. 「アクティビティ」をクリックします。
 1. 「タスクフィールド」をクリックします。
-1. 「タイプ」をクリックします。
+1. タイプをクリック.
 1. これで、タスクタイプの選択リストに移動しました。 「デフォルト」が選択されていないことを確認します。
 1. 「電子メール」、「呼び出し」、「返信」に「タイプ」の値が表示されていることを確認します。
 
