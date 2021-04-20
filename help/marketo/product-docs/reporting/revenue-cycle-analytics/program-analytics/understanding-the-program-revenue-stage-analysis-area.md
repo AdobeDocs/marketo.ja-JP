@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514009
-description: プログラム売上高ステージ分析領域について — Marketto Docs — 製品ドキュメント
+description: プログラム売上高ステージの分析領域について —Marketoドキュメント — 製品ドキュメント
 title: プログラム売上高ステージ分析領域について
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '418'
+ht-degree: 5%
 
 ---
-
 
 # プログラム売上高ステージ分析領域について{#understanding-the-program-revenue-stage-analysis-area}
 
@@ -44,8 +44,8 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Dimension</strong></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
+   <td colspan="1" rowspan="1"><strong>寸法</strong></td> 
+   <td colspan="1" rowspan="1"><p><strong>詳細</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>モデルがアクティブ</p></td> 
@@ -79,8 +79,8 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>寸法</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>詳細</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>プログラムチャネル</p></td> 
@@ -98,8 +98,8 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>寸法</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>詳細</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>コスト年</p></td> 
@@ -122,7 +122,7 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>測定</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>詳細</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>モデルがアクティブ</p></td> 
@@ -137,7 +137,7 @@ Dimensionとメジャーは機能別に分類され、システムでは黄色�
    <td colspan="1" rowspan="1"><p>ステージが成功パス上にあるかどうかを説明します。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>新しい名前当たりのコスト</p></td> 
+   <td colspan="1" rowspan="1"><p>新しい名前あたりのコスト</p></td> 
    <td colspan="1" rowspan="1"><p>ステージに到達したことのある新しい名前の平均コスト</p></td> 
   </tr> 
   <tr> 
