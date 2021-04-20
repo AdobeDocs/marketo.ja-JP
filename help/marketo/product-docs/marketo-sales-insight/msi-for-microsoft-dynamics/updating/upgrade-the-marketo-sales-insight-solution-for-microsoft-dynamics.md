@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849099
-description: Marketo Sales Insight Solution for Microsoft Dynamics - Marketto Docs — 製品ドキュメントをアップグレードします。
-title: Marketo Sales Insight Solution for Microsoft Dynamicsのアップグレード
+description: Microsoft Dynamics向けMarketoSales Insight Solutionのアップグレード —Marketoドキュメント — 製品ドキュメント
+title: Microsoft Dynamics用のMarketoSales Insight Solutionをアップグレードする
+exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
-# Marketo Sales Insight Solution for Microsoft Dynamics {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}をアップグレードします。
+# Microsoft Dynamics用MarketoSales Insight Solutionをアップグレードする{#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Sales Insight用の新しいMicrosoft Dynamicsソリューションがリリースされると、アカウントの管理者領域からアップグレードをダウンロードできます。
 
@@ -27,7 +27,7 @@ Sales Insight用の新しいMicrosoft Dynamicsソリューションがリリー�
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
+1. 「**Marketoソリューション**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -35,7 +35,7 @@ Sales Insight用の新しいMicrosoft Dynamicsソリューションがリリー�
 
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
-   すごい！ ソリューションのzipファイルがデバイスにダウンロードされます。
+   やりましたね！ソリューションのzipファイルがデバイスにダウンロードされます。
 
 ## アップグレードの実行{#performing-the-upgrade}
 
