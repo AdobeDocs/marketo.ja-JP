@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11382593
-description: 追跡しないようにWebパーソナライゼーションを設定する — Marketto Docs — 製品ドキュメント
+description: 追跡しないようにWebパーソナライゼーションを設定する —Marketoドキュメント — 製品ドキュメント
 title: Webパーソナライゼーションを追跡しないように設定
+exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # {#setting-web-personalization-to-do-not-track}を追跡しないようにWebパーソナライゼーションを設定
 
@@ -31,6 +31,6 @@ Web訪問者は、「追跡しない」(DNT)を選択することで、どのWeb
 
    >[!NOTE]
    >
-   >トグルを「オン」に設定すると、特定の領域でのマーケティング担当者の値と機能に影響を与える可能性があります。
+   >トグルを「オン」に設定すると、特定の領域でのMarketoの値と機能に影響を与える可能性があります。
 
 1. 「DNT優先」を無効にし、ブラウザーの「トラックを追跡しない(DNT)」設定を無視するには、「DNTを優先」で&#x200B;**オフ**&#x200B;を選択します。
