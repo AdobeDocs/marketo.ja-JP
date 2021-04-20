@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360225
-description: 電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
+description: 電子メールレポートでのアセットのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: 電子メールレポートでのアセットのフィルタリング
+exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールレポート内のアセットのフィルター{#filter-assets-in-an-email-report}
 
