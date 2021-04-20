@@ -1,19 +1,19 @@
 ---
 unique-page-id: 13795536
-description: 静的リストを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
+description: 静的リストを使用したセグメントの作成 —Marketoドキュメント — 製品ドキュメント
 title: 静的リストを使用したセグメントの作成
+exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # 静的リストを使用したセグメントの作成{#create-a-segment-using-a-static-list}
 
-既知のWeb訪問者を、Webサイトの訪問時に、マーケティング担当者の[静的なリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)のいずれかに属しているかどうかに基づいてセグメント化します。
+既知のWeb訪問者を、Webサイトの訪問時に、Marketo[静的リスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)のいずれかに属しているかどうかに基づいてセグメント化します。
 
 1. **セグメント**&#x200B;に移動します。
 
