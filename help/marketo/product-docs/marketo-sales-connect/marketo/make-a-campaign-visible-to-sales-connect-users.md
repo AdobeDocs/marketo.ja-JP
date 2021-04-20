@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745655
-description: キャンペーンをSales Connect Users - Marketto Docs — 製品ドキュメントに表示する
+description: キャンペーンをSales Connect Usersに表示する —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンをSales Connect Usersに表示する
+exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンをSales Connect Usersに表示{#make-a-campaign-visible-to-sales-connect-users}
 
