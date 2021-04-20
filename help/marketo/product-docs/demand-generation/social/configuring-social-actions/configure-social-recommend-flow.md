@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950549
-description: ソーシャルレコメンデーションフローの設定 — Marketto Docs — 製品ドキュメント
+description: ソーシャルレコメンデーションフローの設定 —Marketoドキュメント — 製品ドキュメント
 title: ソーシャルレコメンデーションフローの設定
+exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルレコメンデーションフローの設定{#configure-social-recommend-flow}
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    ![](assets/socialnetworkschoose.png)
 
-## Facebookメッセージの設定{#configure-the-facebook-message}
+## facebookメッセージを構成{#configure-the-facebook-message}
 
-1. Facebook投稿に表示するメッセージを設定します。
+1. facebookの投稿に表示するメッセージを設定します。
 
    ![](assets/image2014-9-22-11-3a53-3a21.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >ビデオ共有では、サムネールが自動的に生成されます。
 
-   「**動的コンテンツ**」を追加選択すると、ページのOpenGraphタグ（og:title、og:captionおよびog:description）の値とサムネールがFacebook投稿に自動的に追加されます。 次の手順を参照してください。
+   「**動的コンテンツ**」を追加選択すると、ページのOpenGraphタグ（og:title、og:captionおよびog:description）の値とサムネールが自動的にFacebook投稿に追加されます。 次の手順を参照してください。
 
    「**追加静的コンテンツ**」を選択した場合は、タイトル、キャプション、説明を入力し、画像をアップロードします。 次の2つの手順を参照してください。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >詳しくは、[Facebookのリッチ投稿設定の編集](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)を参照してください。
+   >詳しくは、[Facebookリッチ投稿の設定を編集](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)を参照してください。
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
    >
    >[共有URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)は、すべての共有メッセージに自動的に追加されます。
 
-1. 上記で「**追加静的コンテンツ**」を選択した場合は、タイトル、キャプションおよび説明を編集し、カスタム画像を（マーケティング用の画像とファイルから）アップロードします。
+1. 上記で「**追加静的コンテンツ**」を選択した場合は、タイトル、キャプション、説明を編集し、カスタム画像を(Marketoの画像とファイルから)アップロードします。
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   「[マーケティング対象の追加画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)」を参照してください。
+   [Marketoへ追加の画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
 
    >[!NOTE]
    >
@@ -77,9 +77,9 @@ ht-degree: 0%
 
 を選択すると、ページのOpenGraphタグ（og:title、og:captionおよびog:description）の値とサムネールが自動的にFacebook投稿に追加されます。 次の手順を参照してください。
 
-## Twitterメッセージの設定{#configure-the-twitter-message}
+## twitterメッセージを構成{#configure-the-twitter-message}
 
-1. をクリックして、Twitterのツイートに表示される共有プロンプトとメッセージを編集します。
+1. クリックして、Twitterのツイートに表示される共有プロンプトとメッセージを編集します。
 
    ![](assets/image2014-9-22-12-3a2-3a40.png)
 
@@ -89,17 +89,17 @@ ht-degree: 0%
 
 1. 「**次へ**」をクリックします。
 
-## LinkedInメッセージの設定{#configure-the-linkedin-message}
+## LinkedInメッセージを構成{#configure-the-linkedin-message}
 
-1. LinkedIn投稿に表示するメッセージを設定します。
+1. LinkedInの投稿に表示するメッセージを設定します。
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   **動的追加**&#x200B;コンテンツを選択すると、ページタグ（タイトルと説明）の値とサムネールがLinkedInの投稿に自動的に追加されます。 次の手順を参照してください。
+   **動的追加**&#x200B;コンテンツを選択すると、ページタグ（タイトルと説明）の値とサムネールが、自動的にLinkedIn投稿に追加されます。 次の手順を参照してください。
 
    「**静的追加**&#x200B;コンテンツ」を選択した場合は、タイトル、キャプション、説明を入力し、画像をアップロードします。 次の2つの手順を参照してください。
 
-1. **表示と編集**&#x200B;ウィンドウで、**編集を表示**&#x200B;をクリックし、LinkedIn投稿に表示される共有プロンプトとメッセージを編集します。
+1. **表示と編集**&#x200B;ウィンドウで、**編集を表示**&#x200B;をクリックし、LinkedInの投稿に表示される共有プロンプトとメッセージを編集します。
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,11 +107,11 @@ ht-degree: 0%
    >
    >投稿のテキストで{html_title}を使用すると、ページのタイトルが自動的に表示されます。
 
-1. 上記の「**静的追加**&#x200B;コンテンツ」を選択した場合は、タイトルと説明を編集し、カスタム画像を（マーケティング用の画像とファイルから）アップロードします。
+1. 上記の「**静的追加**&#x200B;コンテンツ」を選択した場合は、タイトルと説明を編集し、(Marketoの画像とファイルから)カスタム画像をアップロードします。
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   「[マーケティング対象の追加画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)」を参照してください。
+   [Marketoへ追加の画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
 
    >[!NOTE]
    >
@@ -131,4 +131,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->次の手順は、[ビデオ共有](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)または[ポール](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)をランディングページ、Facebook、または自分のWebサイトに追加します。
+>次の手順は、[ビデオ共有](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)または[poll](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)をランディングページ、Facebook、または自分のWebサイトに追加します。
