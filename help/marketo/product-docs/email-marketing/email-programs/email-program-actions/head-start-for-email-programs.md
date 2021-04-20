@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097202
-description: 電子メールプログラム向けの主要開始- Marketto Docs — 製品ドキュメント
+description: 電子メールプログラム向けのヘッド開始-Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムのヘッド開始
+exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムのヘッド開始{#head-start-for-email-programs}
 
