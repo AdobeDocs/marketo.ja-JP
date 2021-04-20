@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092925
-description: Webキャンペーンのプレビューとテスト — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンのプレビューとテスト —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンのプレビューとテスト
+exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンのプレビューとテスト{#preview-and-test-a-web-campaign}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Marketoに戻ります。 追加ページのURLを入力し、「**プレビュー**」をクリックします。
+1. Marketoに戻れ。 追加ページのURLを入力し、「**プレビュー**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/click-launch.jpg)
 
-1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例：`www.marketo.com?sandbox=1`.
+1. Webサイトにアクセスし、URLの末尾にURLパラメータ「?sandbox=1」を追加します。 例: `www.marketo.com?sandbox=1`.
 
 1. Webサイトに対するキャンペーンの反応を確認する。
 
