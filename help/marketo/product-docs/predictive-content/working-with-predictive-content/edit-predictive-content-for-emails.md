@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385938
-description: 電子メールの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
+description: 電子メールの予測コンテンツの編集 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの予測コンテンツの編集
+exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールの予測コンテンツの編集{#edit-predictive-content-for-emails}
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo Email Editor v2.0では、コンテンツを有効にしている間に[使用するレイアウトテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を表示することもできます。
+   >Marketo電子メールエディタv2.0では、コンテンツを有効にしている間に使用するレイアウトテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を[表示することもできます。
