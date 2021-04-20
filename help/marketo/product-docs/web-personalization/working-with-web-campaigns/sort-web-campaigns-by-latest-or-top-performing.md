@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951252
-description: Webキャンペーンを最新または最高パフォーマンスの製品別に並べ替え — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンを最新または最高パフォーマンスの製品別に並べ替え —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンを最新または最高パフォーマンスで並べ替え
+exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 1%
 
 ---
-
 
 # Webキャンペーンを最新または最高パフォーマンス{#sort-web-campaigns-by-latest-or-top-performing}で並べ替え
 
