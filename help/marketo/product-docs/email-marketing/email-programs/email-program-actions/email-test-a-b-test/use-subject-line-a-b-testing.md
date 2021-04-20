@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359494
-description: 「件名」のA/Bテスト — Marketto Docs — 製品ドキュメントを使用
+description: 「件名」のA/Bテスト —Marketoドキュメント — 製品ドキュメントを使用
 title: 「件名」のA/Bテストを使用
+exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
-
 
 # 「件名」A/Bテストを使用{#use-subject-line-a-b-testing}
 
