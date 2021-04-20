@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472328
-description: レポートの更新 — Marketto Docs — 製品ドキュメント
+description: レポートの更新 —Marketoドキュメント — 製品ドキュメント
 title: レポートの更新
+exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
 # レポートの更新{#refresh-a-report}
 
-レポートを表示した後、Marketorはデータベースに保存するので、次回表示時にすばやく読み込まれます。 最初の表示後、レポートは24時間ごとに自動的に更新され、常に最新の状態になります。 ただし、いつでも手動で更新できます。
+レポートを表示した後、Marketoはデータベースに保存するので、次回表示時にすばやく読み込まれます。 最初の表示後、レポートは24時間ごとに自動的に更新され、常に最新の状態になります。 ただし、いつでも手動で更新できます。
 
 1. レポートが最後に更新された日時を確認するには、左下隅の丸い矢印アイコンにマウスポインターを置きます。
 
