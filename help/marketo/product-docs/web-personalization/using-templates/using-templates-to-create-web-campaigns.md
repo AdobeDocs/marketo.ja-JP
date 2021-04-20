@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949168
-description: テンプレートを使用したWebキャンペーンーの作成 — Marketto Docs — 製品ドキュメント
+description: テンプレートを使用したWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
 title: テンプレートを使用したWebキャンペーンの作成
+exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # テンプレートを使用したWebキャンペーンの作成{#using-templates-to-create-web-campaigns}
 
