@@ -1,18 +1,18 @@
 ---
-title: activate-deactivate-a-trigger-smart-キャンペーン
+title: activate-deactivate-a-トリガースマートキャンペーン
 description: トリガースマートキャンペーンのアクティブ化/非アクティブ化
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # トリガースマートキャンペーンのアクティブ化/非アクティブ化
 
-トリガースマートキャンペーンのアクティブ化/非アクティブ化は、基本的に、オン/オフを切り替えています。
+トリガースマートキャンペーンをアクティブ化/非アクティブ化すると、基本的にオン/オフに切り替わります。
 
 ## トリガーキャンペーンのアクティブ化
 
