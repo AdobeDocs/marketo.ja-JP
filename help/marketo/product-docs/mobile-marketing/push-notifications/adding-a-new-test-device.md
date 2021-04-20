@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783146
-description: 新しいテストデバイスの追加 — Marketto Docs — 製品ドキュメント
+description: 新しいテストデバイスの追加 —Marketoドキュメント — 製品ドキュメント
 title: 新しいテストデバイスの追加
+exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 新しいテストデバイスの追加{#adding-a-new-test-device}
 
@@ -49,6 +49,6 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 
-1. ステータスが更新され、デバイスが追加されたことを示します。 おめでとう！
+1. ステータスが更新され、デバイスが追加されたことを示します。 おめでとうございます！
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
