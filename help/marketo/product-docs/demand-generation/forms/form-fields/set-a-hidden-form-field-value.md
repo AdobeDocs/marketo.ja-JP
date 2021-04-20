@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359663
-description: 非表示フォームフィールド値の設定 — Marketto Docs — 製品ドキュメント
+description: 非表示フォームフィールド値の設定 —Marketoドキュメント — 製品ドキュメント
 title: 非表示フォームフィールド値の設定
+exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '306'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 非表示フォームフィールド値の設定{#set-a-hidden-form-field-value}
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 ## フィールドを選択{#select-the-field}
 
-1. フォームで、非表示のフィールドを選択し、「**編集**（**自動入力**）」をクリックします。
+1. フォームで、非表示のフィールドを選択し、「**編集**」（**自動入力**）をクリックします。
 
    ![](assets/autofill.png)
 
-## デフォルト値を使用{#use-default-value}
+## デフォルト値の使用 {#use-default-value}
 
 「デフォルト値を使用」を選択すると、このフォームが送信されたときに常に使用される特定の値をハードコードできます。 デフォルト値を入力し、「保存」をクリックします。
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
-## URLパラメータ{#url-parameter}
+## URL パラメータ {#url-parameter}
 
 ユーザーがフォームの入力時に閲覧しているページからURLパラメーター(クエリ文字列)を取り込む場合は、**URLパラメーター**&#x200B;を使用して、非表示フィールドに値を埋め込むことができます。
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 >
 >URLパラメーターが見つからない場合は、デフォルト値を入力できます。
 
-## Cookie値{#cookie-value}
+## Cookie 値 {#cookie-value}
 
-Cookieにデータを格納している場合は、**Cookie値**&#x200B;を使用して、フォームの送信時にデータを取得できます。
+Cookieにデータを格納している場合、フォームの送信時に&#x200B;**Cookie値**&#x200B;を使用してデータを取得できます。
 
 1. 「**Get Value From**」に「**Cookie値**」を選択します。
 
@@ -67,7 +67,7 @@ Cookieにデータを格納している場合は、**Cookie値**&#x200B;を使�
    >
    >パラメーターまたはcookieが見つからない場合に備えて、デフォルト値を入力できます。
 
-## 転送者パラメータ{#referrer-parameter}
+## 参照元パラメータ {#referrer-parameter}
 
 訪問者がフォームに入力する前に、転送者の送信元のページからデータを取得する場合は、**パラメータ**&#x200B;を使用できます。
 
