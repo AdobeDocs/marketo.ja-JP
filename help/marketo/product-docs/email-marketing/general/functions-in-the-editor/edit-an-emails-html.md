@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1900554
-description: 電子メールのHTMLの編集 — Marketto Docs — 製品ドキュメント
+description: 電子メールのHTMLの編集 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのHTMLの編集
+exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 電子メールのHTMLの編集{#edit-an-emails-html}
 
 電子メールの基になるHTMLを変更する必要が生じる場合があります。 電子メールのコードを設計および作成する際に、外部システムを使用する場合があります。 どちらの方法でも、電子メールエディター内からコードの読み込みや編集を簡単に行うことができます。
 
-## HTMLの編集{#edit-html}
+## HTML の編集 {#edit-html}
 
 1. 電子メールを選択し、「**ドラフトを編集**」をクリックします。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 * モジュール外の要素の、mkto以外の属性（&quot;id&quot;や&quot;style&quot;など）の追加または変更
 * モジュール外の要素の削除
 
-## 検索コード{#search-code}
+## コードを検索 {#search-code}
 
 電子メールのHTMLコード内のコンテンツを効率的に検索および置換するには、検索コード機能を使用します。
 
@@ -78,4 +78,4 @@ ht-degree: 0%
    >
    >「検索コード」は、[電子メールテンプレートエディター](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)でも利用できます。
 
-Marketoの組み込み機能を使用して電子メールの編集を継続することをお勧めしますが、必要に応じて柔軟に行うことができます。
+Marketoの組み込み機能を使用して電子メールの編集を続けることをお勧めしますが、必要に応じて柔軟に対応できます。
