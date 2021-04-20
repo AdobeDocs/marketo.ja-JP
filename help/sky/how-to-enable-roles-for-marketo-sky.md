@@ -1,14 +1,14 @@
 ---
 title: how-to-enable-roles-for-marketo-sky.md
-description: 'Marketo Skyのロールを有効にする方法 '
+description: Marketo Skyのロールを有効にする方法
+exl-id: 10b7bc52-6f64-4d54-9bec-dcf3ad9afda9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Skyのロールを有効にする方法
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![イメージ3](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. 選択したロールは、**[!UICONTROL My Marketto]**&#x200B;のタイルを介して[!DNL Marketo Sky]にアクセスできるようになります。
+1. これで、選択したロールは&#x200B;**[!UICONTROL マイMarketo]**&#x200B;のタイルを介して[!DNL Marketo Sky]にアクセスできるようになります。
 
    ![画像4](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
