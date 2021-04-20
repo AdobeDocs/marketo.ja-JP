@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359532
-description: ランディングページ- Marketto Docs — 製品ドキュメントでの動的コンテンツの使用
+description: ランディングページ-Marketoドキュメント — 製品ドキュメントで動的コンテンツを使用する
 title: ランディングページでの動的コンテンツの使用
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページ{#use-dynamic-content-in-a-landing-page}で動的コンテンツを使用
 
