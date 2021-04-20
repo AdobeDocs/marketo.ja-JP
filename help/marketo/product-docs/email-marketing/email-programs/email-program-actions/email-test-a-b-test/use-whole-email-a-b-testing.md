@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359502
-description: 「電子メール全体」のA/Bテスト — Marketto Docs — 製品ドキュメントを使用
+description: 「電子メール全体」のA/Bテスト —Marketoドキュメント — 製品ドキュメントを使用
 title: 「電子メール全体」のA/Bテストを使用
+exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # 「電子メール全体」のA/Bテストを使用{#use-whole-email-a-b-testing}
 
