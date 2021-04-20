@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359647
-description: エンゲージメントプログラムについて — Marketto Docs — 製品ドキュメント
+description: エンゲージメントプログラムについて —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントのプログラムについて
+exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # エンゲージメントのプログラムについて{#understanding-engagement-programs}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >1つの購読につき、100個の&#x200B;**アクティブな**&#x200B;エンゲージメントプログラムの制限があります。
 
-## アクションプログラム{#engagement-program}
+## エンゲージメントプログラム {#engagement-program}
 
 **エンゲージメントプログラム**&#x200B;は、複雑な育成を容易に達成できるプログラムの一種です。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >[エンゲージメントプログラムの作成](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## ストリーム{#stream}
+## ストリーム {#stream}
 
 **ストリーム**&#x200B;は、エンゲージメントプログラムが人を育てるために使用する優先順位付けされたコンテンツのプールです。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 >* [ストリームのコピー](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 
-## コンテンツ{#content}
+## コンテンツ {#content}
 
 エンゲージメントプログラムストリームに追加できる&#x200B;**コンテンツ**&#x200B;には、電子メールとプログラムの2種類があります。 電子メールはキャスト時にユーザーに送信されます。
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 >
 >エンゲージメントプログラムは、操作用の電子メールで使用するように設計されていません。
 
-## ストリームカデンス{#stream-cadence}
+## ストリームケイデンス {#stream-cadence}
 
 キャストを実行するタイミングは、**ストリームカデンス**&#x200B;を設定することで決定します。 これは、定期的にコンテンツが外出するようにスケジュールする方法です。
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ストリームカデンスを設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[ストリーム ケイデンスの設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## 人物カデンス{#person-cadence}
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## 使い切り{#exhausted}
+## 消費済み {#exhausted}
 
 ある人がストリーム内のコンテンツの一部をすべて受け取ったら、その人を&#x200B;**疲れ果てた**&#x200B;と呼びます。
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 ## コンテンツエンゲージメントレベル{#content-engagement-level}
 
-コンテンツエンゲージメントレベルは、マーケティング担当者がコンテンツを提供する0 ～ 100ポイントのスコアです。 この数値は、開く、クリック数、購読解除数、プログラムの成功などの要因を使用した高度な数式によって決定されます。
+コンテンツエンゲージメントレベルは、0 ～ 100ポイントのスコアで、Marketoがコンテンツを提供します。 この数は、開封数、クリック数、配信停止数、プログラムの成功、その他の要因を使用し、高度な数式で算出されます。
 
 >[!MORELIKETHIS]
 >
