@@ -1,14 +1,14 @@
 ---
 title: プログラム内のローカルアセット
 description: プログラム内のローカルアセット
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
-
 
 # プログラム内のローカルアセット
 
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 * [スマートキャンペーン](https://docs.marketo.com/display/MER/Smart+Campaigns)
 * [リスト](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)
-* [電子メールプログラム](https://docs.marketo.com/display/DOCS/Email+Programs)
-* [電子メール](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
+* [メールプログラム](https://docs.marketo.com/display/DOCS/Email+Programs)
+* [メール](https://docs.marketo.com/display/DOCS/Create+an+Email+for+an+Email+Program)
 * [ランディングページ](https://docs.marketo.com/display/DOCS/Landing+Pages)
-* [Forms](https://docs.marketo.com/display/DOCS/Forms)
+* [フォーム](https://docs.marketo.com/display/DOCS/Forms)
 
 >[!IMPORTANT]
 >
