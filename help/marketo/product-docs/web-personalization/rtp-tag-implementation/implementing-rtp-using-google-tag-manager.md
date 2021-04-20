@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720145
-description: Google Tag Managerを使用したRTPの実装 — Marketto Docs — 製品ドキュメント
+description: Google Tag Managerを使用したRTPの実装 —Marketoドキュメント — 製品ドキュメント
 title: Google Tag Managerを使用したRTPの実装
+exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
-
 
 # Google Tag Manager {#implementing-rtp-using-google-tag-manager}を使用したRTPの実装
 
