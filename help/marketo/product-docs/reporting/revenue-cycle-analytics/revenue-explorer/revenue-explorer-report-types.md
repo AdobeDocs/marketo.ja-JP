@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504922
-description: 売上高エクスプローラーのレポートタイプ — Marketto Docs — 製品ドキュメント
+description: 売上高エクスプローラのレポートタイプ —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラのレポートタイプ
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
-
 
 # 売上高エクスプローラのレポートタイプ{#revenue-explorer-report-types}
 
@@ -19,12 +19,12 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th>レポート</th> 
-   <th>説明</th> 
+   <th>詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>電子メール分析</td> 
+   <td>メール分析</td> 
    <td>送信された特定の電子メールに関連する指標と属性</td> 
   </tr> 
   <tr> 
@@ -36,11 +36,11 @@ ht-degree: 0%
    <td>会社別の売上高サイクルモデルに関連する指標および属性</td> 
   </tr> 
   <tr> 
-   <td>モデルパフォーマンス分析（リード）</td> 
+   <td>モデル効果分析 (リード)</td> 
    <td>リード別の売上高サイクルモデルに関連する指標と属性</td> 
   </tr> 
   <tr> 
-   <td>オポチュニティ分析</td> 
+   <td>商談分析</td> 
    <td><p>オポチュニティに関連するリードと会社の指標および属性</p></td> 
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ ht-degree: 0%
    <td>少なくとも1人のメンバーを持つプログラムに関する指標および属性</td> 
   </tr> 
   <tr> 
-   <td>プログラムオポチュニティ分析</td> 
+   <td>プログラム商談分析</td> 
    <td>プログラムに関連する指標およびオポチュニティ属性</td> 
   </tr> 
   <tr> 
