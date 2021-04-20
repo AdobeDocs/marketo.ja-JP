@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360020
-description: レポートをExcelにエクスポートする — Marketto Docs — 製品ドキュメント
+description: レポートをExcelにエクスポートする —Marketoドキュメント — 製品ドキュメント
 title: レポートをExcelにエクスポートする
+exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # レポートをExcelにエクスポートする{#export-a-report-to-excel}
 
