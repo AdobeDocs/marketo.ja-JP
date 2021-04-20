@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384663
-description: 予測コンテンツのタイトルの不承認 — Marketto Docs — 製品ドキュメント
+description: 予測コンテンツのタイトルの未承認 —Marketoドキュメント — 製品ドキュメント
 title: 予測コンテンツのタイトルの未承認
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 予測コンテンツのタイトルの未承認{#unapprove-a-title-for-predictive-content}
 
