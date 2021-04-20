@@ -1,15 +1,15 @@
 ---
-description: 新しいアイコン用語集 — Marketto Docs — 製品ドキュメント
+description: 新しいアイコンの用語集 —Marketoドキュメント — 製品ドキュメント
 title: 新しいアイコンの用語集
+exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '15'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
 # 新しいアイコンの用語集{#new-icon-glossary}
 
-準備中
+近日開始
