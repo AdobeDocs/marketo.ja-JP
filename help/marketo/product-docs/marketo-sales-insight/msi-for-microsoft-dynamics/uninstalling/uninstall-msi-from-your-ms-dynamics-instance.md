@@ -1,25 +1,25 @@
 ---
 unique-page-id: 37355600
-description: MS Dynamicsインスタンス — Marketto Docs — 製品ドキュメントからMSIをアンインストールします
+description: MS DynamicsインスタンスからMSIをアンインストールします —Marketoドキュメント — 製品ドキュメント
 title: MS DynamicsインスタンスからMSIをアンインストールする
+exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
 # MS Dynamicsインスタンス{#uninstall-msi-from-your-ms-dynamics-instance}からMSIをアンインストールします
 
-MS DynamicsインスタンスからMSIをアンインストールするには、MarketorとMS Dynamicsの両方で手順を実行する必要があります。
+MS DynamicsインスタンスからMSIをアンインストールするには、MarketoとMS Dynamicsの両方で手順を実行する必要があります。
 
 >[!PREREQUISITES]
 >
 >[グローバルMS Dynamics同期を無効にする](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/one-1.png)
 
@@ -45,7 +45,7 @@ MS DynamicsインスタンスからMSIをアンインストールするには、
 
 1. 「**ソリューション**」をクリックします。
 
-1. **Marketto Sales Insight**&#x200B;を選択し、削除アイコンをクリックします。
+1. 「**Marketo販売インサイト**」を選択し、削除アイコンをクリックします。
 
 1. 「Uninstall Solution」モーダルがポップアップ表示されたら、「**OK**」をクリックします。
 
