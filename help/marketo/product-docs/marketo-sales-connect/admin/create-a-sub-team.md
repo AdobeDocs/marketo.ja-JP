@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352406
-description: サブチームの作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: サブチームの作成 —Marketoドキュメント — 製品ドキュメント
 title: サブチームの作成
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # サブチームの作成{#create-a-sub-team}
 
