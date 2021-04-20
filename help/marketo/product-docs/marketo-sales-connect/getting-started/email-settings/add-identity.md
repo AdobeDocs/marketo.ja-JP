@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352412
-description: 追加ID - Marketto Docs — 製品ドキュメント
-title: 追加ID
+description: 追加ID -Marketoドキュメント — 製品ドキュメント
+title: ID を追加
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# 追加ID {#add-identity}
+# ID を追加 {#add-identity}
 
 送信元の追加電子メールアドレスが複数ある場合のID。
 
