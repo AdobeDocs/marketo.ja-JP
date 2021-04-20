@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359832
-description: ストリームの名前の変更 — Marketto Docs — 製品ドキュメント
+description: ストリームの名前の変更 —Marketoドキュメント — 製品ドキュメント
 title: ストリーム名の変更
+exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # ストリーム名の変更{#rename-a-stream}
 
