@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
-type: ドキュメント
+type: Documentation
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.ja-JP
 index: false
