@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352416
-description: Analyticsページの概要 — Marketto Docs — 製品ドキュメント
+description: Analyticsページの概要 —Marketoドキュメント — 製品ドキュメント
 title: Analyticsページの概要
+exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # 解析ページの概要{#analytics-page-overview}
 
