@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385942
-description: レコメンデーションバーの予測コンテンツの編集 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: レコメンデーションバーの予測コンテンツの編集 —Marketoドキュメント — 製品ドキュメント
 title: レコメンデーションバーの予測コンテンツの編集
+exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # レコメンデーションバーの予測コンテンツの編集{#edit-predictive-content-for-the-recommendation-bar}
 
