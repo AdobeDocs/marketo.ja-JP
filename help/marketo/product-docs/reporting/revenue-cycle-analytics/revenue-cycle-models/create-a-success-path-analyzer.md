@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360411
-description: 成功パスアナライザーの作成 — Marketto Docs — 製品ドキュメント
+description: 成功パスアナライザーの作成 —Marketoドキュメント — 製品ドキュメント
 title: 成功パスアナライザーの作成
+exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 成功パスアナライザーの作成{#create-a-success-path-analyzer}
 
