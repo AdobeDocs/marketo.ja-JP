@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359810
-description: アカウント — Marketto Docs — 製品ドキュメントに対してパーソナライズされたURLを有効にする
+description: アカウント —Marketoドキュメント — 製品ドキュメントでのパーソナライズされたURLの有効化
 title: アカウントに合わせたパーソナライズされたURLの有効化
+exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
-
 
 # アカウントに対してパーソナライズされたURLを有効にする{#enable-personalized-urls-for-your-account}
 
@@ -31,13 +31,13 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-素晴らしい仕事！ アカウントでPURLを有効にしたので、個々のランディングページに対してURLを有効にすることができます。
+OK！アカウントでPURLを有効にしたので、個々のランディングページに対してURLを有効にすることができます。
 
 >[!NOTE]
 >
 >2人のユーザーが姓と名を同じにしている場合、PURL名の末尾に自動的に番号が追加されます。
 >
->例：
+>例:
 >
 >1. AnnaJones
 >1. AnnaJones2
