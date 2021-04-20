@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12615804
-description: 名前付きアカウントでのフィルタリング — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: 名前付きアカウントでのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: 名前付きアカウントでのフィルタ
+exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 名前付きアカウントでのフィルタ{#filtering-in-named-accounts}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->フィルターのドロップダウンのデータは、CRMでMarketorと同期された利用可能なすべてのフィールドを反映します。
+>フィルターのドロップダウンのデータは、CRMでMarketoと同期された、使用可能なすべてのフィールドを反映します。
 
 1. フィルターアイコンをクリックします。
 
