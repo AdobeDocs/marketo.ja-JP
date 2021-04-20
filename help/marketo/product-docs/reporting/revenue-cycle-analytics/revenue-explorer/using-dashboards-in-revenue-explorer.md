@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094959
-description: 売上高エクスプローラ — Marketto Docs -ダッシュボードドキュメントでの製品の使用
+description: 売上高エクスプローラ —Marketoドキュメント — 製品ドキュメントでのダッシュボードの使用
 title: 売上高エクスプローラでのダッシュボードの使用
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 売上高エクスプローラでのダッシュボードの使用{#using-dashboards-in-revenue-explorer}
 
