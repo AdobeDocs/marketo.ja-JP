@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352629
-description: テンプレート表示のカスタマイズ — Marketto Docs — 製品ドキュメント
+description: テンプレート表示のカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: テンプレート表示のカスタマイズ
+exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート表示のカスタマイズ{#customize-template-view}
 
