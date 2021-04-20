@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380778
-description: 権限 — Marketto Docs — 製品ドキュメント
+description: 権限 —Marketoドキュメント — 製品ドキュメント
 title: 権限
+exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# 権限{#permissions}
+# 権限 {#permissions}
 
 ユーザがTAMを使用できるように、権限を設定する必要があります。 これが方法です。
 
