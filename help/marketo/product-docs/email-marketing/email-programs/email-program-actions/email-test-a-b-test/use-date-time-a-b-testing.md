@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359520
-description: 「日付/時間」A/Bテスト — Marketto Docs — 製品ドキュメントの使用
+description: 「日付/時間」A/Bテストの使用 —Marketoドキュメント — 製品ドキュメント
 title: 「日付/時間」のA/Bテストを使用
+exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # 「日付/時刻」のA/Bテストを使用{#use-date-time-a-b-testing}
 
