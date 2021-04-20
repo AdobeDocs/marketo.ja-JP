@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513141
-description: Analyticsホームページのナビゲーション — Marketto Docs — 製品ドキュメント
+description: Analyticsホームページのナビゲーション —Marketoドキュメント — 製品ドキュメント
 title: Analyticsホームページの操作
+exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Analyticsホームページの操作{#navigating-the-analytics-home-page}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
-   素晴らしい！ Analyticsホーム内を移動する方法をご存じでしょう。
+   OK！Analyticsホーム内を移動する方法をご存じでしょう。
 
 >[!MORELIKETHIS]
 >
