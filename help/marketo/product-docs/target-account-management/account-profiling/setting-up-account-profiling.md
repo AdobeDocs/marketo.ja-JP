@@ -1,21 +1,21 @@
 ---
 unique-page-id: 17432598
-description: アカウントプロファイルの設定 — Marketto Docs — 製品ドキュメント
+description: アカウントプロファイルの設定 —Marketoドキュメント — 製品ドキュメント
 title: アカウント・プロファイリングの設定
+exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントプロファイルの設定{#setting-up-account-profiling}
 
 アカウントプロファイルを使用して開始するには、次の手順に従います。
 
-1. 「マイマーケター」で、**ターゲットアカウント管理**&#x200B;を開きます。
+1. マイMarketoで、**ターゲットアカウント管理**&#x200B;を開きます。
 
    ![](assets/setting-up-account-profiling-1.png)
 
