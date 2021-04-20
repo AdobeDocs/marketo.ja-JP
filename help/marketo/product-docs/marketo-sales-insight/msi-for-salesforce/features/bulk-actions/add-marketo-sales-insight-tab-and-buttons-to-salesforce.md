@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7516419
-description: Marketo 追加 Sales InsightのタブとSalesforceのボタン — Marketto Docs — 製品ドキュメント
-title: Marketor追加の「Sales Insight」タブとSalesforce用のボタン
+description: Marketo追加のSales InsightタブとSalesforce -Marketoドキュメント — 製品ドキュメント
+title: 追加MarketoのSales InsightタブとSalesforceのボタン
+exl-id: 9d76d4c8-ecb4-4159-84d1-9cdd3ec02221
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Marketo追加のSales InsightタブとSalesforceのボタン{#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
-# Marketo 追加 Sales InsightタブとSalesforceのボタン{#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+Salesforce表示には、カスタムの「Sales Insight」タブとボタンを追加して、容易にアクセスできます。 興味が？ これが方法です。
 
-Salesforce表示に、容易にアクセスできるように、カスタムの「Marketing to Sales Insight」タブとボタンを追加できます。 興味が？ これが方法です。
-
-## 「マーケティング」タブの追加{#adding-the-marketo-tab}
+## Marketoタブの追加{#adding-the-marketo-tab}
 
 1. 「**+**」をクリックし、「**マイタブをカスタマイズ**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. 左のリストで「マーケティング」を選択します。 次に、**追加**&#x200B;をクリックして、**選択されたタブ**&#x200B;に追加します。
+1. 左のリストでMarketoを選択します。 次に、**追加**&#x200B;をクリックして、**選択されたタブ**&#x200B;に追加します。
 
    >[!TIP]
    >
@@ -29,13 +29,13 @@ Salesforce表示に、容易にアクセスできるように、カスタムの�
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
-   これがマーケットタブです！
+   Marketoのタブだ！
 
    ![](assets/three-1.png)
 
-## マーケティングボタンの追加{#adding-marketo-buttons}
+## Marketoボタンの追加{#adding-marketo-buttons}
 
-Salesforceレイアウトには、「Marketo」ボタンを追加できます。 次に例を示します。
+Salesforceレイアウトには、Marketoボタンを追加できます。 次に例を示します。
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
@@ -47,7 +47,7 @@ Salesforceレイアウトには、「Marketo」ボタンを追加できます。
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. 追加&#x200B;**Marketoキャンペーン**、**電子メールで追加マーケティング担当者に**&#x200B;送信し、**リスト**&#x200B;ボタンを監視する&#x200B;**選択されたボタン**&#x200B;と&#x200B;**保存**&#x200B;に送信します。
+1. **追加Marketoキャンペーン**、**Marketo電子メール**、追加&#x200B;**を**&#x200B;選択されたボタン&#x200B;**と**&#x200B;保存&#x200B;**にリスト**&#x200B;ボタンを監視するように送信します。
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
@@ -59,6 +59,6 @@ Salesforceレイアウトには、「Marketo」ボタンを追加できます。
 
    >[!NOTE]
    >
-   >「Opportunities」に「Marketo」ボタンを追加することはできません。
+   >「Opportunities」にMarketoボタンを追加することはできません。
 
-素晴らしい仕事！
+OK！
