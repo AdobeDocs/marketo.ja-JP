@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437837
-description: テンプレート16-B - Marketto Docs — 製品ドキュメント
+description: テンプレート16-B -Marketoドキュメント — 製品ドキュメント
 title: テンプレート16-B
+exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート16-B {#template-b}
 
