@@ -1,21 +1,21 @@
 ---
 unique-page-id: 15695924
-description: アカウントプロファイリングのランキングと調整 — Marketto Docs — 製品ドキュメント
+description: アカウントプロファイリングのランク付けとチューニング —Marketoドキュメント — 製品ドキュメント
 title: アカウントプロファイリングのランク付けと調整
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントプロファイルのランク付けとチューニング{#account-profiling-ranking-and-tuning}
 
 勘定科目プロファイリングは、理想的な顧客プロファイル(ICP)を識別し、ICPに基づいてデータベース内の会社をランク付けし、ICPインジケータ・データを名前付き勘定科目として昇格させる勘定科目に追加します。
 
-## モデル結果{#model-results}
+## モデル結果 {#model-results}
 
 結果により、等級別に分類された既知の勘定科目がすべて表示されます。 Aは最も高い等級、Dは最も低い等級です。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>アカウント(%)</strong></td> 
+   <td><strong>アカウント (%)</strong></td> 
    <td> 
     <div>
       このランクを持つモデル入力の勘定の割合。 
@@ -56,7 +56,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## モデルのチューニング{#model-tuning}
+## モデルの調整 {#model-tuning}
 
 「モデル」(Model)タブで、「モデルを調整」(Tune Model)ボタンをクリックします。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>準拠</strong></td> 
+   <td><strong>コンプライアンス</strong></td> 
    <td> 
     <div>
       認定、コンプライアンス関連の職階/採用 
@@ -99,7 +99,7 @@ ht-degree: 0%
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>売上高</strong></td> 
+   <td><strong>セールス</strong></td> 
    <td> 
     <div>
       販売、販売関連の職階/雇用に関するソリューションとソフトウェア 
