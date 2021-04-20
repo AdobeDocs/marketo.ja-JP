@@ -1,14 +1,14 @@
 ---
 title: using-the-プログラム-overview-tab
 description: 「プログラムの概要」タブの使用
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 「プログラムの概要」タブの使用
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-ページの下部には、2つのセクションがあります。**[!UICONTROL プログラム統計]**&#x200B;および&#x200B;**[!UICONTROL 使用者]**。 **[!UICONTROL プログラム]** 状態には、プログラムのパフォーマンスに関する主要指標、 **[!UICONTROL Used]** Byは、プログラムがMarketoでどこに使用されているかを簡単に確認する方法が示されています。
+ページの下部には、2つのセクションがあります。**[!UICONTROL プログラム統計]**&#x200B;および&#x200B;**[!UICONTROL 使用者]**。 **[!UICONTROL プログラム]** の状態には、プログラムのパフォーマンスに関する主要指標が表示されます。また、「 **[!UICONTROL Used]** By」は、プログラムがMarketoでどこで使用されているかを簡単に確認する方法です。
 
 ![イメージ2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
