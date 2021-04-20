@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352434
-description: 販売電話国際電話 — Marketto Docs — 製品ドキュメント
+description: 電話国際電話 —Marketoドキュメント — 製品ドキュメント
 title: 国際電話
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 8%
+ht-degree: 17%
 
 ---
-
 
 # 販売用電話の国際通話{#sales-phone-international-calling}
 
@@ -132,11 +132,11 @@ ht-degree: 8%
    <td colspan="1">46</td> 
   </tr> 
   <tr> 
-   <td colspan="1">英国</td> 
+   <td colspan="1">イギリス</td> 
    <td colspan="1">44, 44203, 44207, 44208</td> 
   </tr> 
   <tr> 
-   <td>米国</td> 
+   <td>アメリカ</td> 
    <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
@@ -156,8 +156,8 @@ ht-degree: 8%
 
 **販売用の電話では通話できない特定の種類の番号はありますか。**
 
-はい。 割増料金のサービスの電話番号（米国では900番、英国では+449番など）への呼び出しはサポートされません。 一般に、共有費用の電話番号の呼び出しや、その他少数のプレミアムルートの呼び出しはサポートされていません。
+はい. 割増料金のサービスの電話番号（米国では900番、英国では+449番など）への呼び出しはサポートされません。 一般に、共有費用の電話番号の呼び出しや、その他少数のプレミアムルートの呼び出しはサポートされていません。
 
 **国際電話の際に地域プレゼンスを利用できますか？**
 
-いいえ。 ローカル配置は、米国の数値に対してのみ使用できます。
+いいえ. ローカル配置は、米国の数値に対してのみ使用できます。
