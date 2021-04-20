@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950551
-description: ソーシャルボタンが開くタイミングの設定 — Marketto Docs — 製品ドキュメント
+description: ソーシャルボタンを開くタイミングの設定 —Marketoドキュメント — 製品ドキュメント
 title: ソーシャルボタンをいつ開くかの設定
+exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルボタンが開くタイミングを設定{#configure-when-social-button-opens}
 
