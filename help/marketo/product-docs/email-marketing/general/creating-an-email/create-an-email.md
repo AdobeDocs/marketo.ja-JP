@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10912163
-description: 電子メールの作成 — Marketto Docs — 製品ドキュメント
+description: 電子メールの作成 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの作成
+exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールの作成{#create-an-email}
 
-Marketorで電子メールを作成する主な方法は2つあります。 二つを見てみよう。
+Marketoで電子メールを作成する主な方法は2つあります。 二つを見てみよう。
 
 ## Design Studioでの電子メールの作成{#create-an-email-in-the-design-studio}
 
@@ -29,7 +29,7 @@ Marketorで電子メールを作成する主な方法は2つあります。 二�
    >
    >Design Studioで電子メールを作成すると、ツリーの「Emails」の下に表示されます。
 
-簡単！ 逆の方は…
+簡易! 逆の方は…
 
 ## マーケティングアクティビティでの電子メールの作成{#create-an-email-in-marketing-activities}
 
