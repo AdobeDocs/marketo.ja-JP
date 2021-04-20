@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352477
-description: Sales Connectへのプッシュ — Marketto Docs — 製品ドキュメント
-title: Sales Connectにプッシュ
+description: 販売関連情報へのプッシュ —Marketoドキュメント — 製品ドキュメント
+title: ' セールスコネクトにプッシュ'
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Sales Connectにプッシュ{#push-to-sales-connect}
 
 「Push to Tout」ボタンを押すと、Salesforceのリード/連絡先のリストが表示され、Sales Connectのグループに表示されます。 その後、カスタマイズ可能なグループの電子メールと、トラッキング機能が付加された電子メールをすばやく送信できます。
 
-## 要件{#requirements}
+## 要件 {#requirements}
 
 * Salesforce管理者がインストールしたSales Connect Salesforceパッケージ
 
