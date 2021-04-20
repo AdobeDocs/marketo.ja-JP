@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147344
-description: システムトークン用語集 — Marketto Docs — 製品ドキュメント
+description: システムトークン用語集 —Marketoドキュメント — 製品ドキュメント
 title: システムトークン用語集
+exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
 
 ---
-
 
 # システムトークン用語集{#system-tokens-glossary}
 
