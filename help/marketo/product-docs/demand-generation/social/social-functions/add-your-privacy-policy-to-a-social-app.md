@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950545
-description: ソーシャルアプリ — Marketto Docs -追加製品ドキュメントに対するプライバシーポリシー
+description: ソーシャルアプリ —追加Marketoドキュメント — 製品ドキュメントに対するプライバシーポリシー
 title: Social追加アプリに対するプライバシーポリシー
+exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルアプリ追加{#add-your-privacy-policy-to-a-social-app}に対するプライバシーポリシー
 
@@ -39,4 +39,4 @@ Socialアプリを作成する際に、会社のプライバシーポリシー�
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-次に、ソーシャルサインアップを[設定し、アプリのフロー](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)を共有します。
+次に、ソーシャルサインアップを設定し、アプリのフロー](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)を共有します。[
