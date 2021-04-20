@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4720257
-description: LaunchPointサービスとしての追加Facebookカスタムオーディエンス- Marketto Docs — 製品ドキュメント
-title: LaunchPointサービスとしての追加Facebookカスタムオーディエンス
+description: LaunchPointサービスとしての追加Facebookのカスタムオーディエンス-Marketoドキュメント — 製品ドキュメント
+title: LaunchPointサービスとしての追加Facebookのカスタムオーディエンス
+exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
-# LaunchPointサ追加ービスとしてのFacebookカスタムオーディエンス{#add-facebook-custom-audiences-as-a-launchpoint-service}
+# LaunchPointサービスとしての追加Facebookのカスタムオーディエンス{#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-この統合により、Markettoの静的でスマートなリストからFacebookにオーディエンスデータを送信し、Facebook広告キャンペーンのカスタムオーディエンスとして使用できます。 設定方法を次に示します。
+この統合により、Marketoの静的でスマートなリストからFacebookにオーディエンスデータを送信し、Facebook広告キャンペーンのカスタムオーディエンスとして使用できます。 設定方法を次に示します。
 
 1. Marketo **管理者**&#x200B;に移動します。
 
@@ -31,23 +31,23 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com/)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com/)に移動します。 統合に使用するアカウントを使用して、Facebookにログインします。
 
    >[!CAUTION]
    >
-   >Marketingが複数の広告マネージャーアカウントでオーディエンスを送信するには、次の手順で承認するFacebookユーザーは、これらのアカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
+   >Marketoが複数のAd Managerアカウントでオーディエンスを送信するには、次の手順で承認するFacebookユーザーは、これらのアカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Facebookにログインした後、Marketoに戻ります。 「**許可**」をクリックします。
+1. facebookにログインした後、Marketoに戻ります。 「**許可**」をクリックします。
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >カスタムオーディエンスの統合を機能させるには、_Facebook Business Managerアカウントを_&#x200B;使用する必要があります。 Business Managerアカウントの設定方法については、[Facebookのヘルプ](https://www.facebook.com/business/help/1710077379203657)を参照してください。
+   >カスタムオーディエンスの統合を機能させるには、_Facebookビジネスマネージャーのアカウントを使用する必要があります。_ Business Managerアカウントの設定方法については、[Facebookのヘルプ](https://www.facebook.com/business/help/1710077379203657)を参照してください。
 
-1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを受け入れます。
+1. プロンプトが表示されたら、「**OK**」をクリックして、FacebookへのMarketoアプリケーションのインストールを受け入れます。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -59,16 +59,16 @@ ht-degree: 0%
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   素晴らしい仕事！ Marketorの静的またはスマートリストに移動して、オーディエンスデータをFacebookに送信できるようになりました。
+   OK！Marketoの静的またはスマートなリストに移動して、オーディエンスデータをFacebookに送信できるようになりました。
 
    >[!CAUTION]
    >
-   >ああ、行く前に、Facebookアカウント内で必ず[Facebookのカスタムオーディエンス条件](https://www.facebook.com/ads/manage/customaudiences/tos.php)に同意してください。 これを行わないと、オーディエンスの更新は失敗します。
+   >ああ、行く前に、Facebookアカウント内で必ず[Facebookのカスタムオーディエンス条件](https://www.facebook.com/ads/manage/customaudiences/tos.php)に同意してください！ これを行わないと、オーディエンスの更新は失敗します。
 
 >[!MORELIKETHIS]
 >
->* [Facebookでのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [facebookでカスタムオーディエンスを作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Facebookリード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+* [facebookリード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
