@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359466
-description: スニペットの編集（動的コンテンツ — Marketto Docs — 製品ドキュメント）
+description: 動的コンテンツを使用したスニペットの編集 —Marketoドキュメント — 製品ドキュメント
 title: 動的コンテンツでのスニペットの編集
+exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # 動的コンテンツを含むスニペットの編集{#edit-snippets-with-dynamic-content}
 
