@@ -1,42 +1,42 @@
 ---
 unique-page-id: 11371040
-description: 電子メールテンプレート構文 — Marketto Docs — 製品ドキュメント
+description: 電子メールテンプレート構文 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールテンプレートの構文
+exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '2395'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # 電子メールテンプレート構文{#email-template-syntax}
 
-Marketingの新しい電子メール2.0エクスペリエンスでは、電子メールテンプレートは、コンテナ、変数、モジュールまたは要素の任意の組み合わせで構成されます。 それぞれは、HTMLにMarketor固有の構文を追加することで定義します。 古い(v1.0)電子メールテンプレートは、電子メールエディタ2.0でサポートされています。ただし、エディタの新機能の一部は含まれません。
+Marketoの新しいEmail 2.0エクスペリエンスでは、電子メールテンプレートは、コンテナ、変数、モジュール、または要素の任意の組み合わせで構成されます。 各構文は、HTMLにMarketo固有の構文を追加することで定義します。 古い(v1.0)電子メールテンプレートは、電子メールエディタ2.0でサポートされています。ただし、エディタの新機能の一部は含まれません。
 
-マーケティング担当者の電子メールの構文は、テンプレートと個々の電子メールでのみ機能します。スニペットやリッチテキストトークンに埋め込まれている場合、****&#x200B;は機能しません。
+Marketo電子メールの構文は、テンプレートと個々の電子メールでのみ機能します。スニペットやリッチテキストトークンに埋め込まれている場合、****&#x200B;は機能しません。
 
 >[!NOTE]
 >
->Marketorのサポートは、CSS/HTMLを支援するために設定されていません。 CSS/HTMLに詳しくない場合は、開発者にお問い合わせください。
+>Marketoのサポートは、CSS/HTMLをサポートするように設定されていません。 CSS/HTMLに詳しくない場合は、開発者にお問い合わせください。
 
 >[!CAUTION]
 >
->Marketo構文を含むクラス値（mktoModule、mktoContainer、mktoTextなど）では大文字と小文字が区別されます。 カスタム属性名（例： mktoimgwidth, mktoname）は使用できません。
+>Marketo構文を含むクラス値（mktoModule、mktoContainer、mktoTextなど）は、大文字と小文字が区別されます。 カスタム属性名（例： mktoimgwidth, mktoname）は使用できません。
 
-## 要素{#elements}
+## 要素 {#elements}
 
 要素とは、電子メールテンプレートで編集可能として定義したコンテンツ領域です。 要素の編集操作は、要素のタイプやオファーに固有のもので、コンテンツを簡単に操作できます。 電子メールテンプレートに含めることのできる要素は次のとおりです。
 
-* リッチテキスト
+* リッチ テキスト
 * 画像
 * スニペット
-* ビデオ
+* 動画
 
-## リッチテキスト{#rich-text}
+## リッチ テキスト {#rich-text}
 
-地域をリッチテキストと定義すると、ユーザーは、マーケティング担当者のリッチテキストエディター](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツを[編集できます。 電子メールテンプレート内にリッチテキスト要素を定義する方法は2つあります。mktEditableとmktoText。 リッチテキスト要素は、電子メールエディター内から常にスニペットに変換できます。
+地域をリッチテキストと定義すると、ユーザーは、Marketoのリッチテキストエディター](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツ[を編集できます。 電子メールテンプレート内にリッチテキスト要素を定義する方法は2つあります。mktEditableとmktoText。 リッチテキスト要素は、電子メールエディター内から常にスニペットに変換できます。
 
 ### オプション1 - mktEditable {#option-mkteditable}
 
@@ -55,7 +55,7 @@ Marketingの新しい電子メール2.0エクスペリエンスでは、電子�
 
 class=&quot;mktEditable&quot;を含むHTML要素内のコンテンツ（指定されている場合）が、リッチテキスト要素のデフォルト値として使用されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
@@ -73,11 +73,11 @@ class=&quot;mktoText&quot;構文を使用してリッチテキスト要素を指
 
 class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定されている場合）が、リッチテキスト要素のデフォルト値として使用されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
 
-## 画像{#images}
+## 画像 {#images}
 
 編集可能な画像要素を定義するオプションは2つあります。 `<div>`(`<img>`を挿入するコンテナを指定)または`<img>`タグを使用できます。 エンドユーザーが（DOMではなく）画像URLを返す画像を選択する場合は、以下の節の「画像変数」を参照してください。 次の2つのオプションは、HTML `<img>`要素を挿入します。
 
@@ -104,7 +104,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 **`<img>`**:画像を配置する `<img>` 要素として使用します。画像にインラインスタイルを追加する場合に役立ちます。 `<a> </a>`タグを囲むようにしてください。ユーザーがリンクを追加した場合、スタイルは削除されません。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
@@ -123,10 +123,10 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 * **mktoLockImgSize：エンドユーザーが変更できるように、** 要素の高さと幅のプロパティのロックを解除するために `<img>` 使用します（省略した場合のデフォルトはtrueです）。
 * **mktoLockImgStyle:** 要素のstyleプロパティをロックするた `<img>` めに使用します（デフォルトはfalse）。
 
-例：
+例:
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
-## スニペット{#snippets}
+## スニペット {#snippets}
 
 領域をスニペットとして定義する場合、エンドユーザーは、承認済みの[スニペット](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)の中から、この領域に挿入したい領域を選択できます。 リッチテキスト要素は電子メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。 `<div>`とclass=&quot;mktoSnippet&quot;を使用して、スニペット領域を指定できます。
 
@@ -137,15 +137,15 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 デフォルト値（オプション）
 
-**mktoDefaultSnippetId**:デフォルトで表示される必要があるマーケティング担当者のスニペットの数値ID（そのIDを持つスニペットが存在し、そのワークスペースで承認されている場合のみ機能します）。
+**mktoDefaultSnippetId**:デフォルトで表示されるMarketoスニペットの数値ID（そのIDを持つスニペットが存在し、そのワークスペースで承認されている場合にのみ機能します）。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
 
-## ビデオ{#video}
+## 動画 {#video}
 
-領域をビデオとして定義する場合、エンドユーザーは、電子メール内にサムネール画像（「再生」ボタン付き）として表示されるYouTubeまたはVimeoのURLを挿入できます。 `<div>`を使用し、class=&quot;mktoVideo&quot;でビデオ領域を指定できます
+地域をビデオとして定義する場合、エンドユーザーは、電子メール内にサムネール画像（「再生」ボタン付き）として表示されるYouTubeまたはVimeoのURLを挿入できます。 `<div>`を使用し、class=&quot;mktoVideo&quot;でビデオ領域を指定できます
 
 必須属性
 
@@ -156,15 +156,15 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 * **mktoImgClass:** String.ここでの値は、div内のビデオサムネール`<img>`のclass属性に追加されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
 
-## 変数{#variables}
+## 変数 {#variables}
 
 変数はトークンに似ています。 まず、`<meta>`タグを使用して電子メールテンプレートの`<head>`セクション内でタグを定義し、テンプレート全体で必要な回数だけ使用します。 エンドユーザーはテンプレート内で定義されているので、ルールに従って値を変更できます。 変数は、スコープ内でローカルまたはグローバルとして定義できます。 変数を「モジュール」内で使用し（下記を参照）、そのモジュールをエンドユーザー重複で使用する場合、ローカル変数は独立した値を持ち、グローバル変数は両方のモジュールに適用されます。
 
-## 文字列{#string}
+## 文字列 {#string}
 
 変数を文字列(String)として指定した場合、エンドユーザーは電子メールエディターのテキストボックス内にテキストを入力できます。 String変数は、`<meta>`を使用してclass=&quot;mktoString&quot;と指定します
 
@@ -187,7 +187,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 `<pre data-theme="Confluence">${textHeader}</pre>`
 
-## リスト{#list}
+## リスト {#list}
 
 変数をリストとして指定すると、エンドユーザーは電子メールエディターで定義した値のセットから選択できます。 `<meta>`を使用し、class=&quot;mktoList&quot;と共にリスト変数を指定します
 
@@ -210,7 +210,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 `<pre data-theme="Confluence">${textFontFamily}</pre>`
 
-## 番号{#number}
+## 数字 {#number}
 
 変数をNumberとして指定した場合、エンドユーザーは電子メールエディターで数値を入力できます。 Number変数は、`<meta>`を使用してclass=&quot;mktoNumber&quot;と指定します
 
@@ -236,7 +236,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 `<pre data-theme="Confluence">${textFontSize}</pre>`
 
-## 色{#color}
+## 色 {#color}
 
 変数をColorとして指定した場合、エンドユーザーは16進値を入力したり、電子メールエディター内のカラーピッカーから色を選択したりできます。 Color変数は、`<meta>`を使用してclass=&quot;mktoColor&quot;と指定します
 
@@ -258,7 +258,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 `<pre data-theme="Confluence">${textColor}</pre>`
 
-## ブール値{#boolean}
+## ブール値 {#boolean}
 
 変数をブール値として指定した場合、エンドユーザーは電子メールエディター内でオプションのオン/オフを切り替えることができます。 `<meta>`をclass=&quot;mktoBoolean&quot;と共に使用して、ブール変数を指定します。
 
@@ -328,7 +328,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 `<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
 
-## モジュール{#modules}
+## モジュール {#modules}
 
 モジュールは、テンプレートレベルで定義されたテンプレート化されたセクションで、エンドユーザーが電子メールに挿入できるように表示されます。 これらのモジュールは事前にビルドされているので、モジュールが残りの電子メールコンテンツを適切に（完全にレスポンシブな方法で）やり取りするようにできます。 コンテナには1つのモジュールのみを入れることができます。
 
@@ -352,7 +352,7 @@ class=&quot;mktoText&quot;と共にHTML要素内のコンテンツ（指定さ�
 
 >[!NOTE]
 >
->Marketo構文を含むクラス値（mktoModule、mktoContainer、mktoTextなど）では大文字と小文字が区別されます。 カスタム属性名（例： mktoimgwidth, mktoname）は使用できません。
+>Marketo構文を含むクラス値（mktoModule、mktoContainer、mktoTextなど）は、大文字と小文字が区別されます。 カスタム属性名（例： mktoimgwidth, mktoname）は使用できません。
 
 ## コンテナ{#containers}
 
