@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359673
-description: フ追加ォームフィールドに対するツールチップの説明 — Marketto Docs — 製品ドキュメント
+description: フ追加ォームフィールドに対するツールチップの説明 —Marketoドキュメント — 製品ドキュメント
 title: フ追加ォームフィールドに対するツールチップの説明
+exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # フ追加ォームフィールドに対するツールチップの説明{#add-tooltip-instructions-to-a-form-field}
 
