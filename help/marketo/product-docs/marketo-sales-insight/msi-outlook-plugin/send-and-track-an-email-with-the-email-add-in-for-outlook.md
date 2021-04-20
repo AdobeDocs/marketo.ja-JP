@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
-description: Outlook用電子メールインを使用した電子メールの送信と追跡 — Marketto Docs 追加製品ドキュメント
+description: Outlook用電子メールインを使用した電子メールの送信と追跡 — 追加Marketoドキュメント — 製品ドキュメント
 title: Outlook用電子メールインを使用した電子メールの追加送信と追跡
+exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
 # Outlook用の電子メールインを使用した電子メールの送信と追跡追加{#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Marketoの電子メールは、Outlookから直接送信および追跡できます。
+Outlookから直接、Marketoとの電子メールを送信および追跡できます。
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[MarketoのOutlook用アドインを電子メールで送信する](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)をインストールします。
+>まだインストールしていない場合は、Outlook用[Marketoの電子メールアドインをインストールします](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)。
 
 1. Microsoft Outlookを開き、新しい電子メールを作成します。
 
@@ -33,11 +33,11 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
    >[!NOTE]
    >
-   >マーケティング担当者のインスタンスに存在しないユーザーに電子メールを送信すると、そのユーザーの個人レコードが自動的に作成されます。 姓は常に「mktUnknown」となり、見つけやすくなります。
+   >自分のMarketoインスタンスに存在しない人に電子メールを送信すると、その人に対して個人レコードが自動的に作成されます。 姓は常に「mktUnknown」となり、見つけやすくなります。
 
    >[!TIP]
    >
-   >Marketoテンプレートを使用する場合は、「[Outlookからの送信と追跡テンプレート](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
+   >Marketoテンプレートを使用する場合は、「[Outlookから送信して追跡するテンプレートを使用する](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)」を参照してください。
 
 1. プレビューを見て、「**送信**」をクリックします。
 
@@ -51,8 +51,8 @@ Marketoの電子メールは、Outlookから直接送信および追跡できま
 
    ![](assets/was-sent-sales-email.png)
 
-簡単だ！ この電子メールは販売員のOutlookから送信されたものでも、Marketoでは追跡されます。
+簡単だ！ この電子メールは販売員のOutlookから送信されたものでも、Marketoで追跡されます。
 
 >[!MORELIKETHIS]
 >
->[Marketorのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Marketoのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
