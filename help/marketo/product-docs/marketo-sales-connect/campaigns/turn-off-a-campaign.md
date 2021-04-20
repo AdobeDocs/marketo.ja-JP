@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352609
-description: キャンペーンの無効化 — Marketto Docs — 製品ドキュメント
+description: キャンペーンをオフにする —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンをオフにする
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンをオフにする{#turn-off-a-campaign}
 
