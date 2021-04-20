@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359685
-description: エンゲージメントダッシュボード- Marketto Docs — 製品ドキュメント
+description: エンゲージメントダッシュボード-Marketoドキュメント — 製品ドキュメント
 title: アクションダッシュボード
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # アクションダッシュボード{#the-engagement-dashboard}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能は、Marketorの売上高サイクルエクスプローラーを利用する顧客のアドオンとして利用できます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能は、Marketoの売上高サイクルエクスプローラーを利用するお客様向けのアドオンとして利用できます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
