@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437340
-description: Tealium Tag Managerを使用したRTPの実装 — Marketto Docs — 製品ドキュメント
+description: Tealium Tag Managerを使用したRTPの実装 —Marketoドキュメント — 製品ドキュメント
 title: Tealium Tag Managerを使用したRTPの実装
+exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Tealium Tag Managerを使用したRTPの実装{#implementing-rtp-using-tealium-tag-manager}
 
@@ -19,7 +19,7 @@ RTPタグを実装するには、次のインストール手順に従ってく�
 
 1. 「タグ」タブに移動し、タグマーケットプレイスの「その他」タブの下にある「カスタムコンテナタグ」を追加します。
 
-1. 「タイトル」フィールドに、「**Marketo RTP**」と入力し、「**完了**」をクリックします。
+1. 「タイトル」フィールドに&#x200B;**MarketoRTP**&#x200B;と入力し、「**完了**」をクリックします。
 
 1. 変更を保存します。
 
@@ -31,7 +31,7 @@ RTPタグを実装するには、次のインストール手順に従ってく�
 
 1. [管理]メニューの[アカウント管理]で[**テンプレートの管理**]をクリックします。
 
-1. **Tealium Customコンテナを選択：ドロップダウンリストからRTP**&#x200B;に移行し、タグテンプレートを開きます。
+1. **Tealium Customコンテナを選択：ドロップダウンリストからMarketoRTP**&#x200B;を呼び出し、タグテンプレートを開きます。
 
 1. RTPアカウントにログインします。
 
