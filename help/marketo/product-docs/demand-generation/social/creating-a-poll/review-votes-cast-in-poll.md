@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359777
-description: 調査で投票されたレビュー票 — Marketto Docs — 製品ドキュメント
+description: 調査で投票された回数の確認 —Marketoドキュメント — 製品ドキュメント
 title: 投票の確認
+exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
-
 
 # 投票結果の確認{#review-votes-cast-in-poll}
 
