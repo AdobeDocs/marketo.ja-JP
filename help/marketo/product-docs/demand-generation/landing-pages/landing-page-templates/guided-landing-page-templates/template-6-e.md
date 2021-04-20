@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783938
-description: テンプレート6-E - Marketto Docs — 製品ドキュメント
+description: テンプレート6-E -Marketoドキュメント — 製品ドキュメント
 title: テンプレート6-E
+exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート6-E {#template-e}
 
