@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17728401
-description: Gmailユーザー向け電子メール接続 — Marketto Docs — 製品ドキュメント
+description: Gmailユーザー向け電子メール接続 —Marketoドキュメント — 製品ドキュメント
 title: Gmailユーザーの電子メール接続
+exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # Gmailユーザーの電子メール接続{#email-connection-for-gmail-users}
 
