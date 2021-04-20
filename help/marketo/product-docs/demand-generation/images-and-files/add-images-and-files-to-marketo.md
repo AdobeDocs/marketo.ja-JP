@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359858
-description: Marketor 追加 - Marketto Docs — 製品ドキュメントへの画像とファイル
-title: マー追加ケティング担当者向けの画像とファイル
+description: 追加Marketoへの画像とファイル —Marketoドキュメント — 製品ドキュメント
+title: Marketo追加への画像とファイル
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# マ追加ーケティング担当者への画像とファイル{#add-images-and-files-to-marketo}
+# イメージ追加とファイルをMarketoに{#add-images-and-files-to-marketo}
 
 複数の画像とファイルを一度に追加するのは簡単です。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketorは、アップロード前にすべてのファイルをスキャンします。感染したファイルはスキップされます。
+   >Marketoは、アップロード前にすべてのファイルをスキャンします。感染したファイルはスキップされます。
 
 1. アップロードが完了したら、「**完了**」をクリックします。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketorは、すべてのファイルタイプをアップロードに使用できますが、メジャー画像タイプ（JPG、PNG、GIFなど）のみ は、電子メールエディターで機能します。
+>Marketoはすべてのファイルタイプをアップロードに使用できますが、主要な画像タイプ（JPG、PNG、GIFなど）のみを は、電子メールエディターで機能します。
 
 >[!MORELIKETHIS]
 >
