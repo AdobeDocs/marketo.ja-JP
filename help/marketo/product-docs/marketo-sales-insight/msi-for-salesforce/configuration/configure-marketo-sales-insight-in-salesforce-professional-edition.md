@@ -1,35 +1,35 @@
 ---
 unique-page-id: 3571743
-description: Salesforce Professional Edition - Marketto Docs — 製品ドキュメントでのMarketo Sales Insightの設定
-title: Salesforce Professional EditionでのMarketor Sales Insightの設定
+description: Salesforce Professional Edition -Marketoドキュメント — 製品ドキュメントでのMarketo販売インサイトの設定
+title: Salesforce Professional EditionでのMarketo販売インサイトの設定
+exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '905'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# Salesforce Professional EditionでのMarketo販売インサイトの設定{#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-# Salesforce Professional EditionでのMarketor Sales Insightの設定{#configure-marketo-sales-insight-in-salesforce-professional-edition}
-
-Salesforce Professional EditionでMarketon Sales Insightを設定するために必要な手順を次に示します。 始めましょう。
+Salesforce Professional EditionでMarketoセールスインサイトを設定する手順を以下に示します。 始めましょう。
 
 >[!PREREQUISITES]
 >
->* MarketorをSalesforce Professional Editionにインストールします。
+>* Salesforce Professional EditionにMarketoをインストールします。
    >
    >
-* [SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+* [SalesforceAppExchangeでのMarketoSales Insightパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-## MarketorでのSales Insightの設定{#configure-sales-insight-in-marketo}
+## MarketoでのSales Insightの設定{#configure-sales-insight-in-marketo}
 
-1. 新しいブラウザーウィンドウを開き、MarketoアカウントからMarketo Sales Insightの資格情報を取得します。
+1. 新しいブラウザーウィンドウを開き、MarketoアカウントからMarketoセールスインサイト資格情報を取得します。
 1. 「管理者」領域に移動し、「**販売インサイト**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
@@ -68,7 +68,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. リモートサイト名を入力します（「MarketoSoapAPI」など）。 MarketoのSoap API設定パネルから、MarketoホストURLである「リモートサイトURL」を入力します。 「**保存**」をクリックします。 Soap APIのリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoSoapAPI」など）。 「Remote Site URL」を入力します。これは、MarketoのSoap API ConfigurationパネルからのMarketoホストURLです。 「**保存**」をクリックします。 Soap APIのリモートサイト設定が作成されました。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -76,9 +76,9 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. リモートサイト名を入力します（「MarketoRestAPI」など）。 リモートサイトURLを入力します。これは、MarketoのRest API設定パネルから取得したAPI URLです。 「**保存**」をクリックします。 Rest APIのリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoRestAPI」など）。 「Remote Site URL」を入力します。これは、MarketoのRest API設定パネルから取得したAPI URLです。 「**保存**」をクリックします。 Rest APIのリモートサイト設定が作成されました。
 
-## Marketor Sales Insightの設定{#set-up-marketo-sales-insight}
+## Marketo販売インサイトの設定{#set-up-marketo-sales-insight}
 
 1. Marketoインスタンスにログインし、**管理者**&#x200B;をクリックします。
 
@@ -122,7 +122,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    >[!NOTE]
    >
-   >**リモートサイト名**&#x200B;を選択します（MarketoAPIはここで使用します）。 **リモートサイトURL**&#x200B;は、手順4のAPI設定を編集ダイアログボックスの「Marketo Host」フィールドにあります。
+   >**リモートサイト名**&#x200B;を選択します（MarketoAPIはここで使用します）。 **リモートサイトURL**&#x200B;は、手順4のAPI設定を編集ダイアログボックスの「Marketoホスト」フィールドにあります。
 
 ## ページレイアウトのカスタマイズ{#customize-page-layouts}
 
@@ -138,7 +138,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. **セクション名**&#x200B;として「Marketo Sales Insight」と入力します。 「**1 — 列**」を選択し、「**OK**」をクリックします。
+1. **セクション名**&#x200B;として「Marketo販売インサイト」と入力します。 「**1 — 列**」を選択し、「**OK**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -162,7 +162,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
    >
    >AccountsおよびOpportunitiesオブジェクトの高さは、410ピクセルにすることをお勧めします。
 
-1. 左側の&#x200B;**フィールド**&#x200B;をクリックします。 次に、**エンゲージメント**&#x200B;ラベルを検索し、**マーケティング担当者向けSales Insight**&#x200B;レイアウトにドラッグします。
+1. 左側の&#x200B;**フィールド**&#x200B;をクリックします。 次に、**アクション**&#x200B;ラベルを検索し、**Marketo販売インサイト**&#x200B;レイアウトにドラッグします。
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
@@ -171,7 +171,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1">関与</td> 
+   <td colspan="1">エンゲージメント</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>相対スコア値</p></td> 
@@ -180,16 +180,16 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
    <td colspan="1" rowspan="1"><p>緊急度の値</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深い瞬間の日付</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクション発生日</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の注目モーメントの説明</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションの詳細</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深い瞬間の源</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションのソース</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深いモーメントのタイプ</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションのタイプ</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -203,7 +203,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
 ## ユーザー設定フィールドのマッピング{#map-custom-person-fields}
 
-変換が正しく機能するように、Marketing担当者のフィールドをSalesforceの連絡先フィールドにマッピングする必要があります。 これが方法です。
+変換が正しく機能するように、Marketoの人物フィールドをSalesforceの連絡先フィールドにマップする必要があります。 これが方法です。
 
 1. 「**セットアップ**」をクリックします。
 
@@ -230,11 +230,11 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1">マーケティング担当者のカスタムフィールド</th> 
+   <th colspan="1" rowspan="1">Marketo個人ユーザー設定フィールド</th> 
    <th colspan="1" rowspan="1">Salesforce連絡先カスタムフィールド</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>関与</p></td> 
+   <td colspan="1" rowspan="1"><p>エンゲージメント</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
   </tr> 
   <tr> 
@@ -246,19 +246,19 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
    <td colspan="1" rowspan="1"><p>Contact.Ergency値</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深い瞬間の日付</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクション発生日</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Last Intersion Moment Date</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の注目モーメントの説明</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションの詳細</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Last Intersion Moment Desc</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深い瞬間の源</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションのソース</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Last Oftirution Moment Source</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>最後の興味深いモーメントのタイプ</p></td> 
+   <td colspan="1" rowspan="1"><p>最新の注目のアクションのタイプ</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Last Ofterist Moment Type</p></td> 
   </tr> 
  </tbody> 
@@ -268,13 +268,13 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
+## Marketo Sales Insight 構成 {#marketo-sales-insight-config}
 
-1. **+**&#x200B;をクリックし、**Marketto Sales Insight Config**&#x200B;を選択します。
+1. **+**&#x200B;をクリックし、**Marketo販売インサイト設定**&#x200B;を選択します。
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. **Marketo API**&#x200B;を有効にするをチェックします。 次に、Marketo Admin](#set-up-marketo-sales-insight)の[API設定情報を入力します。 完了したら、「**変更の保存**」をクリックします。
+1. 「**MarketoAPIを有効にする**」をチェックします。 次に、Marketo管理者](#set-up-marketo-sales-insight)の[API設定情報を入力します。 完了したら、「**変更の保存**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
@@ -282,7 +282,7 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
    >
    >診断テストが失敗した場合は、[ページレイアウト](https://nation.marketo.com/docs/DOC-1115)にフィールドを追加する必要がある場合があります。
 
-それだ！ リード、連絡先、アカウント、オポチュニティの「Marketo Sales Insight」フィールドを表示できるはずです。
+それだ！ 「Leads」、「Contacts」、「Accounts」、「Opportunities」の「Marketo・セールス・インサイト」フィールドを確認できるはずです。
 
 ![](assets/twenty-six-1.png)
 
@@ -290,21 +290,21 @@ Salesforce Professional EditionでMarketon Sales Insightを設定するために
 >
 >アカウントの場合、Sales Insightにはすべての電子メールが含まれますが、最新の興味深い瞬間、Webアクティビティ、スコアの変更のみが含まれます。
 
-## Marketing to Sales Insight {#access-marketo-sales-insight}へのアクセス
+## Marketo Sales Insight にアクセス {#access-marketo-sales-insight}
 
-1. Salesforceで、タブバーの末尾の&#x200B;**+**&#x200B;をクリックし、**Marketto Sales Insight Config**&#x200B;をクリックします。
+1. Salesforceで、タブバーの末尾の&#x200B;**+**&#x200B;をクリックし、**Marketo販売インサイト設定**&#x200B;をクリックします。
 
-1. 「Marketto API **を有効にする」チェックボックスを選択します。**
+1. 「**MarketoAPIを有効にする**」チェックボックスを選択します。
 
-1. MarketorのSales Insight管理者ページのSoap APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのSoap APIセクションに貼り付けます。
+1. MarketoのSales Insight管理ページのSoap APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのSoap APIセクションに貼り付けます。
 
-1. MarketorのSales Insight管理者ページのRest APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのRest APIセクションに貼り付けます。
+1. MarketoのSales Insight管理ページのRest APIパネルから秘密鍵証明書をコピーし、Salesforce Sales Insight ConfigurationページのRest APIセクションに貼り付けます。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、ベストベット](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Marketor追加の「Sales Insight」タブとSalesforce用のボタン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [追加MarketoのSales InsightタブとSalesforceのボタン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 >* [チーム向けのSales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
