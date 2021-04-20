@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Marketo OutlookプラグインのIT部門によるアンインストール — Marketto Docs — 製品ドキュメント
-title: IT部門によるMarketo Outlookプラグインのアンインストール
+description: IT部門によるMarketoOutlookプラグインのアンインストール —Marketoドキュメント — 製品ドキュメント
+title: IT部門によるMarketoOutlookプラグインのアンインストール
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# IT部門によるMarketoOutlookプラグインのアンインストール{#marketo-outlook-plugin-uninstall-by-it}
 
-# IT部門によるMarketo Outlookプラグインのアンインストール{#marketo-outlook-plugin-uninstall-by-it}
-
-次に、Marketo Outlookプラグインをリモートでアンインストールする方法を示します。
+次に、IT部門がMarketoOutlookプラグインをリモートでアンインストールする方法を示します。
 
 次のコマンドラインを、「System」または/xスイッチを指定した管理ユーザーアカウントで実行してアンインストールします。
 
