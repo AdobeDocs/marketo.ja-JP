@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: 売上高サイクルモデルでのすべてのリードの検索 — Marketto Docs — 製品ドキュメント
+description: 売上高サイクルモデル —Marketoドキュメント — 製品ドキュメント内のすべてのリードを検索
 title: 売上高サイクルモデルでのすべてのリードの検索
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # 売上高サイクルモデル内のすべてのリードを検索{#find-all-leads-in-a-revenue-cycle-model}
 
