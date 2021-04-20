@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949720
-description: 興味深い瞬間の概要 — Marketto Docs — 製品ドキュメント
+description: 興味深い瞬間の概要 —Marketoドキュメント — 製品ドキュメント
 title: 興味深い瞬間の概要
+exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # 興味深い瞬間の概要{#interesting-moments-overview}
 
