@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095644
-description: ドラフトなし — Marketto Docs — 製品ドキュメントでのスニペットの承認
+description: ドラフトなし —Marketoドキュメント — 製品ドキュメントでのスニペットの承認
 title: ドラフトなしのスニペットの承認
+exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # ドラフトなしのスニペット{#approve-a-snippet-with-no-draft}を承認
 
