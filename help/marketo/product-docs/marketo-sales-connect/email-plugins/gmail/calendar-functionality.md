@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352443
-description: カレンダー機能 — Marketto Docs — 製品ドキュメント
+description: カレンダー機能 —Marketoドキュメント — 製品ドキュメント
 title: カレンダー機能
+exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
-
 
 # カレンダー機能{#calendar-functionality}
 
