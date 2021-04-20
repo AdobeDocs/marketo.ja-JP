@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13796471
-description: ライブフィードの概要 — Marketto Docs — 製品ドキュメント
+description: ライブフィードの概要 —Marketoドキュメント — 製品ドキュメント
 title: ライブフィードの概要
+exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # ライブフィードの概要{#live-feed-overview}
 
@@ -57,7 +57,7 @@ Live FeedからTODOリストをすばやく確認します。
 
 リードスコア別にランク付けされた上位の人（上位から下位に順番付けされた）を確認する。 リードスコアは、Marketoインスタンスから引き出されます。
 
-* 顧客のスコアがマーケティングで増加すると、リードが生成されます。
+* リードは、その人のスコアがMarketoで増加した場合に生成されます。
 * 上位50件のリードを表示します。
 * Salesforceで割り当てられたユーザーのみが表示されます。
 
@@ -72,7 +72,7 @@ Live FeedからTODOリストをすばやく確認します。
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>他のユーザーが電子メールを表示しました</p></td> 
   </tr> 
