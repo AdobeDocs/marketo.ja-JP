@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352589
-description: テ追加ンプレートまたはキャンペーン- Marketto Docs — 製品ドキュメント
+description: テ追加ンプレートまたはキャンペーン-Marketoドキュメント — 製品ドキュメント
 title: テンプ追加レートまたはキャンペーン
+exl-id: 75070305-7699-4b0f-bf77-c64bc9fdbcfa
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # テ追加ンプレートまたはキャンペーン{#add-a-template-or-campaign}
 
