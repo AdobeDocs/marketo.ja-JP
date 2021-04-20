@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11377552
-description: Marketo Sales Insightプラグイン管理者 — Marketto Docs — 製品ドキュメントの指定
-title: Marketor Sales Insightプラグイン管理者の指定
+description: Marketo販売インサイトプラグイン管理者の指定 —Marketoドキュメント — 製品ドキュメント
+title: Marketo販売インサイトプラグイン管理者の指定
+exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
-# Marketor Sales Insightプラグイン管理者の指定{#specify-marketo-sales-insight-plugin-admins}
+# Marketo販売インサイトプラグイン管理者の指定{#specify-marketo-sales-insight-plugin-admins}
 
 OutlookでMSIを設定するためにユーザーを招待した場合に、ユーザーに送信する電子メール通知に表示する連絡先を指定できます。
 
-1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
+1. マイMarketoで、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
