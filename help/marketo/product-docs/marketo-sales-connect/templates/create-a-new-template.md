@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352639
-description: 新しいテンプレートの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいテンプレートの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいテンプレートの作成
+exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # 新しいテンプレートの作成{#create-a-new-template}
 
