@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720236
-description: アカウントリストを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
+description: アカウントリストを使用したセグメントの作成 —Marketoドキュメント — 製品ドキュメント
 title: アカウントリストを使用したセグメントの作成
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # アカウントリストを使用したセグメントの作成{#create-a-segment-using-an-account-list}
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-おめでとう！ アカウントリストをターゲットにしたセグメントを設定できました。
+おめでとうございます！アカウントリストをターゲットにしたセグメントを設定できました。
