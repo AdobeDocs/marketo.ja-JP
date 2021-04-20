@@ -1,14 +1,14 @@
 ---
 title: delete-an-entry-in-プログラム内スケジュール表示
 description: プログラムスケジュール表示のエントリの削除
+exl-id: edae7223-7add-41cd-b059-4cadbb27c86d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # プログラムスケジュール表示のエントリの削除
 
@@ -24,6 +24,6 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. **[!UICONTROL 「]**&#x200B;確認&lt;a1/>」をクリックして、エントリを削除します。
+1. **[!UICONTROL 「]**&#x200B;確認」をクリックして、エントリを削除します。
 
    ![イメージ3](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
