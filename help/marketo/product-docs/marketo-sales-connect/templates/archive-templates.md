@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352640
-description: アーカイブテンプレート — Marketto Docs — 製品ドキュメント
-title: アーカイブテンプレート
+description: アーカイブテンプレート —Marketoドキュメント — 製品ドキュメント
+title: テンプレートのアーカイブ保存
+exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# アーカイブテンプレート{#archive-templates}
+# テンプレートのアーカイブ保存 {#archive-templates}
 
 コンテンツをアーカイブして、テンプレートデータを失うことなく、販売コンテンツアカウントをクリーンアップします。
 
