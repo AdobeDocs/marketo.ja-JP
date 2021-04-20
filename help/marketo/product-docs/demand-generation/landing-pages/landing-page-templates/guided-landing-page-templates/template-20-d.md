@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092919
-description: テンプレート20-D - Marketto Docs — 製品ドキュメント
+description: テンプレート20-D -Marketoドキュメント — 製品ドキュメント
 title: テンプレート20-D
+exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート20-D {#template-d}
 
