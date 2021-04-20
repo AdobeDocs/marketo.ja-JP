@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719410
-description: Webキャンペーンーの削除 — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンの削除 —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンの削除
+exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンの削除{#delete-a-web-campaign}
 
