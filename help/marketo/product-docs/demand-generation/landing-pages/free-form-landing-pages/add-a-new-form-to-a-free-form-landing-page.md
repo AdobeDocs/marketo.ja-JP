@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359705
-description: フリ追加ーフォームランディングページに対する新しいフォーム — Marketto Docs — 製品ドキュメント
+description: フリ追加ーフォームランディングページの新しいフォーム —Marketoドキュメント — 製品ドキュメント
 title: フ追加リーフォームランディングページへの新しいフォーム
+exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # フ追加リーフォームランディングページへの新しいフォーム{#add-a-new-form-to-a-free-form-landing-page}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. フォローアップページを選択する際には、次の3つのオプションがあります。
 
-   * **ランディングページ**  — マーケティングランディングページを選択
+   * **ランディングページ** -Marketoランディングページを選ぶ
    * **外部URL**  — 必要なURLを選択します。
    * **フォーム定義**  — フォームレベルで定義された設定を使用します。
 
