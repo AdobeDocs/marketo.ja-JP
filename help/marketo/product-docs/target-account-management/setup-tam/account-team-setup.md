@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384433
-description: アカウントチームのセットアップ — Marketto Docs — 製品ドキュメント
+description: アカウントチームのセットアップ —Marketoドキュメント — 製品ドキュメント
 title: アカウントチームの設定
+exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントチームのセットアップ{#account-team-setup}
 
@@ -49,8 +49,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* 異なるアカウントの所有者を持つ複数のCRMアカウントが指定されたアカウントに結合されると、マーケティング担当者は「アカウントの所有者」を1つ選択し、他のアカウントの所有者を「アカウントの共有者」として追加します
+   >* 異なるアカウント所有者を持つ複数のCRMアカウントが固有のアカウントに結合される場合、Marketoは「アカウント所有者」を1つ選択し、他のアカウント所有者を「アカウント共有者」として追加します
       >
       >
-   * 後でCRMの「役割」フィールドの名前を変更または削除した場合、ユーザーがTAMの設定を手動で更新するまで、Marketo Tamは更新された値の同期を停止します
+   * 後でCRMの「役割」フィールドの名前を変更または削除すると、MarketoTAMは、ユーザーが手動でTAMの設定を更新するまで、更新された値の同期を停止します
 
