@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352483
-description: Salesforceへ追加の電子メール — Marketto Docs — 製品ドキュメント
+description: Salesforceへ追加の電子メール —Marketoドキュメント — 製品ドキュメント
 title: Salesforceへ追加の電子メール
+exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce追加に電子メール{#add-email-to-salesforce}
 
