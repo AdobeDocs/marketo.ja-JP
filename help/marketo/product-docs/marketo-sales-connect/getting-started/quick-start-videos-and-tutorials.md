@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14746396
-description: クイック開始のビデオとTutorials- Marketto Docs — 製品ドキュメント
+description: クイック開始ビデオとTutorials-Marketoドキュメント — 製品ドキュメント
 title: クイック開始のビデオとTutorials
+exl-id: dd0df689-bcde-4568-aeb2-29b69e07d989
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-
 # クイック開始ビデオとTutorials{#quick-start-videos-and-tutorials}
 
 >[!NOTE]
 >
->Marketo Sales Engageは最近、Marketo Sales Connectという名称に変更されました。 すべてのビデオを更新中ですが、古い名前が表示される場合があります。
+>Marketo・セールス・ソンゲージは最近、Marketo・セールス・コネクトと改称されました。 すべてのビデオを更新中ですが、古い名前が表示される場合があります。
 
 ## マーケティングインサイトを有効にする{#enabling-marketing-insights}
 
