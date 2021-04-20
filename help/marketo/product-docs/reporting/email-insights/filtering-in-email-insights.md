@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099798
-description: 電子メールインサイトでのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
+description: 電子メールインサイトでのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: 電子メールインサイトでのフィルタリング
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 電子メールインサイトでのフィルタリング{#filtering-in-email-insights}
 
 電子メールインサイトには、データをフィルターする様々な方法があります。
 
-## 電子メールインサイト{#email-insights}
+## メールインサイト {#email-insights}
 
 「+」をクリックしてフィルターを追加する開始を選択します。 好き追加なだけ。
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 >
 >日付範囲は、Analyticsページと送信ページの両方に適用されます。 「**比較**」オプションは、Analyticsページにのみ適用できます。
 
-## アカウントベースのマーケティング{#account-based-marketing}
+## アカウントベースドマーケティング {#account-based-marketing}
 
 [ターゲットアカウント管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)を使用する場合は、特別なフィルターがあります。
 
