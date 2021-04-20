@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380785
-description: 固有のアカウントインサイト — Marketto Docs — 製品ドキュメント
+description: 固有のアカウントインサイト —Marketoドキュメント — 製品ドキュメント
 title: 名前付きアカウントインサイト
+exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 名前付きアカウントインサイト{#named-account-insights}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one-1.png)
 
-## ダッシュボード{#dashboard}
+## ダッシュボード {#dashboard}
 
 ダッシュボード集計は、指定されたアカウント内のすべての人から、アカウントレベルで主要なインサイトを受け取るので、各人に進捗状況を評価する必要がありません。 [電子メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用して、電子メールのアクティビティを詳しく調べることができます。
 
@@ -44,21 +44,21 @@ ht-degree: 0%
    <td>経時的なパイプラインを参照してください。 週単位で経時的にパイプラインを決定するために、最終日にパイプラインを使用します。</td> 
   </tr> 
   <tr> 
-   <td><strong>売上高</strong></td> 
+   <td><strong>収益</strong></td> 
    <td>経時的な売上高を表示します。 時間の経過に伴う売上高を週別に判断するには、その週の売上高の合計を受け取ります。</td> 
   </tr> 
  </tbody> 
 </table>
 
-**興味深い瞬間**
+**注目のアクション**
 
-Marketor Sales Insightのユーザーが利用できる、アカウントレベルでロールアップされた興味深い瞬間を確認できます。
+Marketoセールスインサイトのユーザーが利用できる、アカウントレベルでロールアップされた興味深い瞬間を確認できます。
 
 ![](assets/int-mom.png)
 
 **トップユーザー**
 
-これらの人々は、名前付きアカウント（Sales Insightの[Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）の人々が示す最新性または緊急性に基づく優先順位またはユーザーが定義したスコアに基づいて計算されます。 **** 優先度は、Marketon Sales Insightのユーザーのみが使用できます。
+これらの人々は、名前付きアカウント（Sales Insightの[Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）の人々が示す最新性または緊急性に基づく優先順位またはユーザーが定義したスコアに基づいて計算されます。 **** 優先度は、Marketoセールス・インサイトのユーザーのみが使用できます。
 
 ![](assets/top-ten.png)
 
@@ -72,19 +72,19 @@ Marketor Sales Insightのユーザーが利用できる、アカウントレベ�
 >
 >アカウントを選択する場合は、「すべて選択」を選択するか、個別に100個まで選択できます。
 
-## 階層{#hierarchy}
+## 階層 {#hierarchy}
 
 選択した名前付きアカウントが階層との関連でどこに存在するかを確認します。
 
 ![](assets/hierarchy.png)
 
-## オポチュニティ{#opportunities}
+## 商談 {#opportunities}
 
 すべてのオープンなオポチュニティをアカウントレベルでロールアップ表示し、マーケティングチームが特定のオポチュニティを閉じることに重点的に取り組むのに役立ちます。
 
 ![](assets/four-1.png)
 
-## 推定ユーザー{#potential-people}
+## 見込み顧客 {#potential-people}
 
 リード対アカウントの照合では、「推定ユーザー」タブで解決できる弱い一致を見つけるためのロジックが不鮮明です。
 
@@ -94,13 +94,13 @@ Marketor Sales Insightのユーザーが利用できる、アカウントレベ�
 >
 >一覧に表示された任意の人を追加するには、その人を選択し、「**人追加**」をクリックします。
 
-## {#used-by}が使用
+## 使用者 {#used-by}
 
 このタブには、特定の名前付きアカウントまたはアカウントリストを現在参照しているスマートキャンペーン、Webキャンペーン、スマートリストまたはレポートが表示されます。
 
 ![](assets/six-1.png)
 
-## アカウントチーム{#account-team}
+## アカウントチーム {#account-team}
 
 表示アカウントチームのメンバー、メンバーの追加と削除、このタブでアカウントの所有者の割り当ても行います。
 
@@ -110,7 +110,7 @@ Marketor Sales Insightのユーザーが利用できる、アカウントレベ�
 >
 >**アカウントチームアクション**&#x200B;ドロップダウンをクリックして、アカウントメンバーを追加/削除するか、アカウント所有者を割り当てます。
 
-## ICPインジケータ{#icp-indicators}
+## ICP 指標 {#icp-indicators}
 
 モデル](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)を調整したときに、エクスポートするICPインジケータを表示します。[
 
