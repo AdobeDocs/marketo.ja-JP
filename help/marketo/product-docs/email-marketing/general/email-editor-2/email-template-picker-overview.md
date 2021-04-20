@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10912237
-description: 電子メールテンプレートピッカーの概要 — Marketto Docs — 製品ドキュメント
+description: 電子メールテンプレートピッカーの概要 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールテンプレートピッカーの概要
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールテンプレートピッカーの概要{#email-template-picker-overview}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->マーケティング担当者のスターターテンプレートは、すべての顧客に無料で提供されます。 主要な電子メールクライアント（およびモバイルデバイス）向けに継続的に最適化されて更新されますが、ニーズを満たしているかどうかは必ず評価する必要があります。 Marketorの[電子メール配信品質ツール](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)では、様々な電子メールクライアントに対するテンプレートのレンダリングを表示できます。 残念ながら、Marketoは有料サービスのエンゲージメント以外でデザインリクエストを行うことはできません。
+>Marketoのスターターテンプレートは、すべてのお客様に無料で提供されます。 主要な電子メールクライアント（およびモバイルデバイス）向けに継続的に最適化されて更新されますが、ニーズを満たしているかどうかは必ず評価する必要があります。 Marketoの[Eメール配信品質ツール](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)では、様々なEメールクライアント上でのテンプレートのレンダリングを表示できます。 残念ながら、Marketoは有料サービスのエンゲージメント以外でデザインリクエストを行うことはできません。
 
 **マイテン** プレートは、作成したすべてのテンプレートで構成されます。フォルダーを持つこともできます。
 
