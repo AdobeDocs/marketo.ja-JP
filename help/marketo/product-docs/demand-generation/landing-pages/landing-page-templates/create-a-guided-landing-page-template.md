@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515401
-description: ガイド付きランディングページテンプレートの作成 — Marketto Docs — 製品ドキュメント
+description: ガイド付きランディングページテンプレートの作成 —Marketoドキュメント — 製品ドキュメント
 title: ガイド付きランディングページテンプレートの作成
+exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # ガイド付きランディングページテンプレートの作成{#create-a-guided-landing-page-template}
 
@@ -25,30 +25,30 @@ ht-degree: 0%
 
 ページ上の任意の要素を編集可能にする方法は2つあります。
 
-* オブジェクトを「要素」として宣言します。 ランディングページの作成者は、画像、テキストまたはマーケティング用のアセットを指定された地域に追加できます。
+* オブジェクトを「要素」として宣言します。 ランディングページの作成者は、画像、テキストまたはMarketoのアセットを指定された領域に追加できます。
 * 文字列を「変数」として宣言します。 ランディングページの作成者は、true/falseレバーからの文字列、色、またはブール値の状態に変数を置き換えることができます。
 
 ## 編集可能な要素{#editable-elements}
 
-要素は、通常のDOM要素をテンプレートに追加し、その後、Marketor固有のクラス名で要素を装飾することで宣言されます。
+要素は、通常のDOM要素をテンプレートに追加し、その後、Marketo固有のクラス名で要素を装飾することで宣言されます。
 
-## テキスト{#text}
+## テキスト {#text}
 
-地域をリッチテキストと定義すると、ユーザーは、マーケティング担当者のリッチテキストエディター](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツを[編集できます。
+地域をリッチテキストと定義すると、ユーザーは、Marketoのリッチテキストエディター](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)を使用して、そのコンテンツ[を編集できます。
 
 必須属性：\
 **class**:&quot;mktoText&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 mktoTextクラスを持つ要素のコンテンツ（指定されている場合）は、編集可能領域のデフォルト値として使用されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
-### 画像{#image}
+### 画像 {#image}
 
 編集可能な画像要素を定義するオプションは2つあります。 `<div>`(イメージを挿入するコンテナを指定)または`<img>`タグを使用できます。
 
@@ -60,10 +60,10 @@ mktoTextクラスを持つ要素のコンテンツ（指定されている場合
 id:ID文字列。 文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 mktoName :文字列。 これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 mktoImgClass:文字列。 ここでの値は、div内の`<img>`要素のclass属性に追加されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
@@ -74,10 +74,10 @@ mktoImgClass:文字列。 ここでの値は、div内の`<img>`要素のclass属
 id:ID文字列。 文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 mktoName :文字列。 これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 src:文字列URL これは、画像のデフォルト値として使用されます。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
@@ -85,7 +85,7 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 >
 >`<img>`バージョンを使用する場合、レンダリングされたHTMLには、生成されたdivラッパーが`<img>`タグの周りに含まれます。 クラスに設定されます。」mktoImg.mktoGen,&quot;と指定し、display:inline-blockにします。
 
-## フォーム{#form}
+## フォーム {#form}
 
 例：必須属性：\
 **class**:&quot;mktoForm&quot;\
@@ -94,73 +94,73 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 
 `<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
 
-## スニペット{#snippet}
+## スニペット {#snippet}
 
 必須属性：\
 **class**:&quot;mktoSnippet&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
 
-## 共有ボタン{#share-button}
+## 共有ボタン {#share-button}
 
 必須属性：\
 **class**:&quot;mktoShareButton&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
 
-## ビデオ{#video}
+## 動画 {#video}
 
 >[!NOTE]
 >
->ランディングページでビデオ要素を使用する場合、MarketoはYouTubeのビデオのみをサポートします。 別のサービスを使用する場合は、リッチテキストボックスを使用し、ビデオの埋め込みコードに貼り付けることをお勧めします。
+>ランディングページでビデオ要素を使用する場合、MarketoはYouTubeからのビデオのみをサポートします。 別のサービスを使用する場合は、リッチテキストボックスを使用し、ビデオの埋め込みコードに貼り付けることをお勧めします。
 
 必須属性：
 **クラス**:&quot;mktoVideo&quot;
 **id**:ID文字列。 文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
 
-## 投票{#poll}
+## 投票 {#poll}
 
 必須属性：\
 **class**:&quot;mktoPoll&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
 
-## 照会{#referral}
+## 参照元 {#referral}
 
 必須属性：\
 **class**:&quot;mktoReferral&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## 懸賞{#sweepstakes}
+## 懸賞 {#sweepstakes}
 
 必須属性：\
 **class**:&quot;mktoSweepstakes&quot;\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-例：
+例:
 
 `<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
 
@@ -168,7 +168,7 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 
 すべての変数型は、${ }の文字シーケンス内に含まれるid属性の値を参照することで使用されます。 変数は、他の変数宣言内を除き、ドキュメント内の任意の場所で使用できます。
 
-例：
+例:
 
 `<pre data-theme="Confluence">${var1}</pre>`
 
@@ -176,14 +176,14 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 
 変数は、テンプレートの`<head>`要素内でmetaタグとして宣言されます。 3種類の変数を使用できます。文字列、色、およびブール値。
 
-## 文字列{#string}
+## 文字列 {#string}
 
 必須属性：\
 **class** :&quot;mktoString&quot;,\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 **default**:属性の文字列値。何も指定しない場合は空白です。\
 **allowHtml**:&quot;true&quot;または&quot;false&quot;。値をHTMLエスケープせずに出力するかどうかを制御します。 デフォルトは、設定されていない場合は「false」です。
 
@@ -195,14 +195,14 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 
 `<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
 
-## 色{#color}
+## 色 {#color}
 
 必須属性：\
 **class** :&quot;mktoColor&quot;,\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 **default**:7桁の16進数文字のカラーコードです。例：&quot;#336699&quot;
 
 基本的な例：
@@ -213,14 +213,14 @@ src:文字列URL これは、画像のデフォルト値として使用されま
 
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
-## ブール値{#boolean}
+## ブール値 {#boolean}
 
 必須属性：\
 **class** :&quot;mktoBoolean&quot;,\
 **id**:ID文字列。文字、数字、ダッシュ「 — 」、下線「_」のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-オプション：\
+任意:\
 **default**:ブール文字列。&quot;true&quot;または&quot;false&quot;は、値の開始がオンまたはオフの位置にあるかどうかを制御します。 指定されない場合は「false」。\
 **false_value**:文字列。変数がオフの位置にあるときに変数に挿入する値です。 指定されない場合は「false」。\
 **true_value**:文字列。変数がオンの位置にあるときに変数に挿入される値です。 指定されない場合は「true」。\
