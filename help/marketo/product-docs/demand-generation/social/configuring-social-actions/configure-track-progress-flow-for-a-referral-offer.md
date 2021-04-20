@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950573
-description: 照会オファーの進捗フローの追跡の設定 — Marketto Docs — 製品ドキュメント
+description: 照会オファーの進捗フローの追跡の設定 —Marketoドキュメント — 製品ドキュメント
 title: 照会オファーの進捗フローの追跡の設定
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # リファラルオファーの進捗フローの追跡の設定{#configure-track-progress-flow-for-a-referral-offer}
 
