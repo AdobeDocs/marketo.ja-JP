@@ -1,20 +1,20 @@
 ---
 title: local-assets-expiration
 description: ローカルアセットの有効期限
+exl-id: 9a115a96-9cb6-4cd7-ab33-b737d27bc439
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # ローカルアセット：有効期限
 
 <br> 
 
-有効期限を設定して、ランディングページの非公開、トリガーキャンペーンの非アクティブ化、またはバッチキャンペーンの定期停止を行います。 この機能は、「**[!UICONTROL アセット]**」タブの「**[!UICONTROL 有効期限]**」セクションにあります。
+有効期限を設定して、ランディングページの非公開、トリガーキャンペーンの非アクティブ化、または定期的なバッチキャンペーンの停止を行います。 この機能は、「**[!UICONTROL アセット]**」タブの「**[!UICONTROL 有効期限]**」セクションにあります。
 
 ![イメージ1](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->アセットの有効期限が切れると、そのアセットは有効期限グリッドに表示されなくなります。 グリッドには、公開済みランディングページ、アクティブなトリガーキャンペーン、および定期バッチキャンペーンのみが表示されます。
+>アセットの有効期限が切れると、そのアセットは有効期限グリッドに表示されなくなります。 グリッドには、公開済みランディングページ、アクティブなトリガーキャンペーンおよび定期バッチキャンペーンのみが表示されます。
 
 ## 有効期限の削除
 
