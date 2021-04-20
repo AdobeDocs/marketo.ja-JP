@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949962
-description: フォームフィールドの表示/非表示を動的に切り替える — Marketto Docs — 製品ドキュメント
+description: フォームフィールドの表示/非表示の動的切り替え —Marketoドキュメント — 製品ドキュメント
 title: フォームフィールドの表示/非表示を動的に切り替える
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # フォームフィールドの表示/非表示を動的に切り替える{#dynamically-toggle-visibility-of-a-form-field}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [フ追加ォームの国選択リスト](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-Marketoフォームの非常に優れた機能の1つは、フォームフィールドまたは[フィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)を動的に非表示/表示できる点です。
+Marketoフォームの非常に素晴らしい機能の1つは、フォームフィールドや[フィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)を動的に非表示/表示できる点です。
 
 >[!NOTE]
 >
