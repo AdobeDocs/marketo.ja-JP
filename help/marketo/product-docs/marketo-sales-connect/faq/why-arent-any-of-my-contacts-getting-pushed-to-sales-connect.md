@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352486
-description: 連絡先がSales Connectに押し込まれないのはなぜですか。 - Marketto Docs — 製品ドキュメント
+description: 連絡先がSales Connectに押し込まれないのはなぜですか。 -Marketoドキュメント — 製品ドキュメント
 title: 連絡先がSales Connectに押し込まれないのはなぜですか。
+exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # 連絡先がSales Connectに押し込まれないのはなぜですか。{#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
