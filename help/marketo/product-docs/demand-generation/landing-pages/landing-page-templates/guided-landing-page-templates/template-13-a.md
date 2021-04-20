@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437783
 description: テンプレート13-A -Marketoドキュメント — 製品ドキュメント
-title: テンプレート13-C
+title: テンプレート13-A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
