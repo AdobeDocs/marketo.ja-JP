@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438258
-description: サマリレポートについて — Marketto Docs — 製品ドキュメント
+description: サマリレポートについて —Marketoドキュメント — 製品ドキュメント
 title: サマリレポートについて
+exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
 
 ---
-
 
 # サマリレポートについて{#understanding-the-summary-report}
 
@@ -53,4 +53,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketto Webパーソナライゼーションは、Webサイトで記入されたフォームのWeb訪問者ーの電子メールアドレスを取得します。 これは、ウェブパーソナライゼーションのリードページに表示され、サマリレポートで使用されるリードです。
+>Marketoウェブパーソナライゼーションは、Webサイトで記入されたフォームのWeb訪問者の電子メールアドレスを取り込みます。 これは、ウェブパーソナライゼーションのリードページに表示され、サマリレポートで使用されるリードです。
