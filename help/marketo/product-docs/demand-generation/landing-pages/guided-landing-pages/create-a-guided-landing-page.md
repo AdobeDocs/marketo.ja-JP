@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515266
-description: ガイド付きランディングページの作成 — Marketto Docs — 製品ドキュメント
+description: ガイド付きランディングページの作成 —Marketoドキュメント — 製品ドキュメント
 title: ガイド付きランディングページの作成
+exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
-
 
 # ガイド付きランディングページの作成{#create-a-guided-landing-page}
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 >
 >URLは、プログラム名とランディングページ名から自動的に構築されます。 URLを変更するには、**ページURL**&#x200B;フィールドを編集します。
 >
->「**作成**」をクリックした直後にエディターを開かない場合は、「&lt;a0/>エディターで開く&#x200B;**」チェックボックスをオフにします。**
+>「**作成**」をクリックした直後にエディターを開かない場合は、「**エディターで開く**」チェックボックスをオフにします。
