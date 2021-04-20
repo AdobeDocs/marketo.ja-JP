@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512448
-description: 開発者へのSDKコードの送信 — Marketto Docs — 製品ドキュメント
+description: SDKコードを開発者に送信 —Marketoドキュメント — 製品ドキュメント
 title: 開発者へのSDKコードの送信
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # SDKコードを開発者に送信{#send-sdk-code-to-a-developer}
 
