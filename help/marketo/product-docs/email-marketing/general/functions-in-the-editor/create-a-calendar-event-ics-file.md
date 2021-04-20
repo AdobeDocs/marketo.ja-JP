@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900563
-description: カレンダーイベント(.ics)ファイルの作成 — Marketto Docs — 製品ドキュメント
+description: 予定表イベント(.ics)ファイルの作成 —Marketoドキュメント — 製品ドキュメント
 title: 予定表イベント(.ics)ファイルの作成
+exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
 # 予定表イベント(.ics)ファイル{#create-a-calendar-event-ics-file}を作成する
 
-カレンダーファイルトークンを使用すると、Marketorの電子メールやランディングページにカレンダーイベント(.ics)リンクを追加できます。
+カレンダーファイルトークンを使用すると、Marketoの電子メールやランディングページにカレンダーイベント(.ics)リンクを追加できます。
 
 1. プログラムー内で、「**マイトークン**」タブに移動します。
 
