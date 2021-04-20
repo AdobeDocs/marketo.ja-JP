@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359537
-description: ランディングページ- Marketto Docs — 製品ドキュメ追加ントへのスニペット
+description: ランディングページ-追加Marketoドキュメント — 製品ドキュメントへのスニペット
 title: ランディングページ追加のスニペット
+exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページ追加{#add-a-snippet-to-a-landing-page}のスニペット
 
