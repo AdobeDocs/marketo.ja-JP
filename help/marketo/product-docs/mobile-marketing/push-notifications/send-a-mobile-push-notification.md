@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512457
-description: モバイルプッシュ通知の送信 — Marketto Docs — 製品ドキュメント
+description: モバイルプッシュ通知の送信 —Marketoドキュメント — 製品ドキュメント
 title: モバイルプッシュ通知の送信
+exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # モバイルプッシュ通知の送信{#send-a-mobile-push-notification}
 
