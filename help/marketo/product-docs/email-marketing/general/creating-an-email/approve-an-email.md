@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147342
-description: 電子メールの承認 — Marketto Docs — 製品ドキュメント
+description: 電子メールの承認 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの承認
+exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールの承認{#approve-an-email}
 
