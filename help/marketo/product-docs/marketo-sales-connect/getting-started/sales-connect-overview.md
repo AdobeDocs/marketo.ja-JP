@@ -1,19 +1,19 @@
 ---
 unique-page-id: 13796464
-description: Sales Connectの概要 — Marketto Docs — 製品ドキュメント
+description: Sales Connectの概要 —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectの概要
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
 # Sales Connectの概要{#sales-connect-overview}
 
-Marketo Sales Connectは、さまざまな機能を備えた多面的なセールス・サポート・ソリューションであり、セールス・サイクル全体を通じてエンゲージメントを促進します。
+Marketo・セールス・コネクトは、さまざまな機能を備えた多角的なセールス・サポート・ソリューションで、セールス・サイクル全体を通じてエンゲージメントを推進します。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +31,7 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## See Results in Your Markettoアクティビティログ{#see-results-in-your-marketo-activity-log}
+## Marketoアクティビティログの結果を参照{#see-results-in-your-marketo-activity-log}
 
 貴社の販売活動に見込み客がどのように関与しているかを確認する。
 
@@ -41,30 +41,30 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
  <tbody> 
   <tr> 
    <th>アクティビティタイプ</th> 
-   <th>説明</th> 
+   <th>詳細</th> 
   </tr> 
   <tr> 
-   <td><p>販売の電子メールの送信</p></td> 
+   <td><p>セールスメールの送信</p></td> 
    <td><p>ユーザーがMSEから販売の電子メールを送信しました。</p></td> 
   </tr> 
   <tr> 
-   <td><p>オープン販売の電子メール</p></td> 
+   <td><p>セールスメールの開封</p></td> 
    <td><p>リードがMSEから送信された販売用の電子メールを開きました。</p></td> 
   </tr> 
   <tr> 
-   <td><p>[販売の電子メール]をクリックします</p></td> 
+   <td><p>セールスメールをクリック</p></td> 
    <td><p>リードがMSEから送信された販売用電子メールのリンクをクリックしました。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>販売の電子メールを受信</p></td> 
+   <td colspan="1"><p>セールスメールの受信</p></td> 
    <td colspan="1"><p>リードがMSEから送信された電子メールを受信しました。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>販売呼び出しの受信</p></td> 
+   <td colspan="1"><p>セールス電話を受信</p></td> 
    <td colspan="1"><p>リードが、販売員から<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">販売店の電話</a>を使って電話を受け取りました。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>販売追加キャンペーン</p></td> 
+   <td colspan="1"><p>セールスキャンペーンに追加</p></td> 
    <td colspan="1"><p>MSEで作成された販売キャンペーン(キャンペーンページ)にリードが追加されました。</p></td> 
   </tr> 
   <tr> 
@@ -73,14 +73,14 @@ Marketo Sales Connectは、さまざまな機能を備えた多面的なセー�
   </tr> 
   <tr> 
    <td colspan="1"><p>面白い瞬間</p></td> 
-   <td colspan="1"><p>リードはマーケトで面白い瞬間を生み出した。</p></td> 
+   <td colspan="1"><p>リードはMarketoで面白い瞬間を生み出した。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## マーケティングキャンペーンを共有{#share-marketing-campaigns}
 
-シンプルなスマートキャンペーンを作成して、販売ユーザーに[Marketoキャンペーンデータ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)へのアクセスを与えます。
+[Marketo・キャンペーン・データ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)に対するアクセス権を販売ユーザに与えるシンプルなスマート・キャンペーンを作成します。
 
 ![](assets/campaign-is-requested.jpg)
 
