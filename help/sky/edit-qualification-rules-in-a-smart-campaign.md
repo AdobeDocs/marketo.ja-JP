@@ -1,20 +1,20 @@
 ---
 title: 編集資格ルール — スマートキャンペーン
 description: スマートキャンペーンでの資格ルールの編集
+exl-id: a76c1fbb-9f12-40be-bf88-4c194231f5a8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
 # スマートキャンペーンでの資格ルールの編集
 
 <br> 
 
-資格ルールは、スマートキャンペーン内のフローを何回実行できるかを制御します。 デフォルトでは、スマートキャンペーンを複数回トリガーした場合でも、フローを1回送信するだけです。 これらの設定を変更する方法を次に示します。
+資格ルールは、スマートキャンペーン内のフローを何回実行できるかを制御します。 デフォルトでは、誰かがスマートキャンペーンを複数回トリガーした場合でも、フローを1回だけ送信されます。 これらの設定を変更する方法を次に示します。
 
 1. キャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブに移動します。
 
@@ -40,6 +40,6 @@ ht-degree: 0%
 
 <br> 
 
-**Reminder**
+**リマインダ**
 
 通信の制限は、デフォルトではスマートキャンペーンに適用されません。 [スマートキャンペーン](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign)に通信制限を適用する方法を説明します。
