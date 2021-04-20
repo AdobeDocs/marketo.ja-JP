@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352585
-description: ドラフトに送信する予定の電子メール — Marketto Docs — 製品ドキュメント
+description: ドラフトに送信する予定の電子メール —Marketoドキュメント — 製品ドキュメント
 title: ドラフトに送信する予定の電子メール
+exl-id: 130f2779-0a1f-473d-9217-0450216a5c9e
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # ドラフトに送信する予定の電子メール{#scheduled-emails-going-to-drafts}
 
