@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512460
-description: モバイルプッシュ通知の編集 — Marketto Docs — 製品ドキュメント
-title: モバイルプッシュ通知の編集
+description: モバイルプッシュ通知の編集 —Marketoドキュメント — 製品ドキュメント
+title: モバイルプッシュ通知を編集
+exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-
-# モバイルプッシュ通知の編集{#edit-mobile-push-notification}
+# モバイルプッシュ通知を編集 {#edit-mobile-push-notification}
 
 1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
 
