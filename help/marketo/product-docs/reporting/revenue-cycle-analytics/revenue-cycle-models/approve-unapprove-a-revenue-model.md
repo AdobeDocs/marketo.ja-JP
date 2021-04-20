@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718687
-description: 売上高モデルの承認/未承認 — Marketto Docs — 製品ドキュメント
+description: 売上高モデルの承認/未承認 —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルの承認/未承認
+exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 売上高モデルの承認/未承認{#approve-unapprove-a-revenue-model}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[モデル全体を承認する前に、個々のステージを](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 承認し、ユーザーを追加する必要があります。
 
-## {#approve}を承認
+## {#approve} を承認
 
 1. 「**Analytics**」領域に移動します。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 モデルが稼働した！
 
-## {#unapprove}の未承認
+## 承認取消 {#unapprove}
 
 >[!CAUTION]
 >
