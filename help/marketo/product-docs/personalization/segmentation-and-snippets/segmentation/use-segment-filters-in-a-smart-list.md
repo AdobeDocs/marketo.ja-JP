@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359512
-description: スマートリスト- Marketto Docs — 製品ドキュメントでのセグメントフィルターの使用
+description: スマートリストでのセグメントフィルターの使用 —Marketoドキュメント — 製品ドキュメント
 title: スマートリストでのセグメントフィルターの使用
+exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # スマートリストでのセグメントフィルターの使用{#use-segment-filters-in-a-smart-list}
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
-素晴らしい！ セグメント化フィルターの検索方法がわかりました。
+OK！セグメント化フィルターの検索方法がわかりました。
