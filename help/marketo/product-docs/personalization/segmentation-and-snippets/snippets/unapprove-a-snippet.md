@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359516
-description: スニペット — Marketto Docs — 製品ドキュメントの未承認
+description: スニペットの未承認 —Marketoドキュメント — 製品ドキュメント
 title: スニペットの未承認
+exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # スニペット{#unapprove-a-snippet}を非承認
 
