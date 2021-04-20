@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37355758
-description: イベントプログラムへのメンバーの追加 — Marketto Docs — 製品ドキュメント
+description: イベントプログラムへのメンバーの追加 —Marketoドキュメント — 製品ドキュメント
 title: イベントプログラムへのメンバーの追加
+exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # イベントプログラムへのメンバの追加{#adding-members-to-an-event-program}
 
