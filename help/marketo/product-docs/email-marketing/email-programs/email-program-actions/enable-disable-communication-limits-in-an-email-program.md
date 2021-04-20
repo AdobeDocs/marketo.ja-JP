@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359596
-description: 電子メールプログラム- Marketto Docs — 製品ドキュメントでの通信制限の有効化/無効化
+description: 電子メールプログラム-Marketoドキュメント — 製品ドキュメントでの通信制限の有効化/無効化
 title: 電子メールプログラムの通信制限の有効化/無効化
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムの通信制限を有効化/無効化{#enable-disable-communication-limits-in-an-email-program}
 
