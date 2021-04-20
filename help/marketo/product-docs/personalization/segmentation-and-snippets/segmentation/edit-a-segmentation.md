@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359474
-description: セグメントの編集 — Marketto Docs — 製品ドキュメント
+description: セグメントの編集 —Marketoドキュメント — 製品ドキュメント
 title: セグメントの編集
+exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # セグメントの編集{#edit-a-segmentation}
 
