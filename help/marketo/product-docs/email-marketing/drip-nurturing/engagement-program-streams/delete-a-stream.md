@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359936
-description: ストリームの削除 — Marketto Docs — 製品ドキュメント
+description: ストリームの削除 —Marketoドキュメント — 製品ドキュメント
 title: ストリームの削除
+exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # ストリームの削除{#delete-a-stream}
 
