@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352628
-description: カテゴリ共有を有効にする — Marketto Docs — 製品ドキュメント
+description: カテゴリ共有を有効にする —Marketoドキュメント — 製品ドキュメント
 title: カテゴリ共有を有効にする
+exl-id: ee743354-b625-4c3f-8b4e-636906bb571a
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # カテゴリ共有を有効にする{#enable-category-sharing}
 
