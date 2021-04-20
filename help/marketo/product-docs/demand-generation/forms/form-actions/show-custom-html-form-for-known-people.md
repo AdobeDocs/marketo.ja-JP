@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359644
-description: 既知の人に対するカスタムHTMLフォームを表示 — Marketto Docs — 製品ドキュメント
+description: 既知の人に対するカスタムHTMLフォームを表示 —Marketoドキュメント — 製品ドキュメント
 title: 既知のユーザーにカスタムHTMLフォームを表示
+exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 既知のユーザーにカスタムHTMLフォームを表示{#show-custom-html-form-for-known-people}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    使用可能なトークン：
 
-   | トークン | 説明 |
+   | トークン | 詳細 |
    |---|---|
    | `{{lead.FirstName}}` | これにより、ユーザーの名が表示されます。 |
    | `{{lead.LastName}}` | これにより、ユーザーの姓が表示されます。 |
