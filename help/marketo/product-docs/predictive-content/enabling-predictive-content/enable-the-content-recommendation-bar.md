@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720108
-description: コンテンツレコメンデーションバー — マーケティングドキュメント — 製品ドキュメントを有効にする
+description: コンテンツレコメンデーションバー —Marketoドキュメント — 製品ドキュメントを有効にする
 title: コンテンツレコメンデーションバーの有効化
+exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # コンテンツレコメンデーションバーを有効にする{#enable-the-content-recommendation-bar}
 
