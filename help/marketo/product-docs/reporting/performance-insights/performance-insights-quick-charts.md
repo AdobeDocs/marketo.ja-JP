@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12980873
-description: パフォーマンスインサイトクイックグラフ — Marketto Docs — 製品ドキュメント
+description: パフォーマンスインサイトクイックグラフ —Marketoドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトクイックグラフ
+exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # パフォーマンスインサイトクイックグラフ{#performance-insights-quick-charts}
 
