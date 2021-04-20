@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11379622
-description: Facebookリード広告の設定 — Marketto Docs — 製品ドキュメント
-title: Facebookリード広告の設定
+description: facebookリード広告の設定 —Marketoドキュメント — 製品ドキュメント
+title: facebookリード広告の設定
+exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# facebookリード広告の設定{#set-up-facebook-lead-ads}
 
-# Facebookリード広告の設定{#set-up-facebook-lead-ads}
-
-[Facebookリード広告](https://www.facebook.com/business/a/lead-ads)を使用して、Facebookで広告キャンペーンを実行し、Marketoのリードを生成します。
+[Facebookリード広告](https://www.facebook.com/business/a/lead-ads)を使用して、Facebookで広告キャンペーンを実行し、Marketoのリードを生み出します。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Facebookのリード広告をインスタンスに追加するには、カスタマーサクセスマネージャーにお問い合わせください。
+>facebookのリード広告をインスタンスに追加するには、カスタマーサクセスマネージャーにお問い合わせください。
 
 1. Marketo **管理者**&#x200B;に移動します。
 
@@ -35,19 +35,19 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com)に移動します。 統合に使用するアカウントを使用してFacebookにログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com)に移動します。 統合に使用するアカウントを使用して、Facebookにログインします。
 
    >[!NOTE]
    >
-   >Facebookアカウントは、リード広告を取り込むFacebookのすべてのビジネスページにアクセスする必要があります。
+   >facebookアカウントは、リード広告を取り込むFacebookのビジネスページすべてにアクセスする必要があります。
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Facebookにログインした後、Marketoに戻り、「**許可**」をクリックします。
+1. facebookにログインした後、Marketoに戻り、**許可**&#x200B;をクリックします。
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. プロンプトが表示されたら、「**OK**」をクリックして、MarketoアプリケーションのFacebookへのインストールを受け入れます。
+1. プロンプトが表示されたら、「**OK**」をクリックして、FacebookへのMarketoアプリケーションのインストールを受け入れます。
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,15 +55,15 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. マーケティングでFacebookリード広告の取り込み元となるページを選択し、**次へ**&#x200B;をクリックします。
+1. MarketoがFacebookリード広告を取り込むページを選択し、**次へ**&#x200B;をクリックします。
 
    >[!TIP]
    >
-   >予期したページが表示されない場合は、認証に使用したFacebookアカウントがFacebookのページに追加されていることを確認して、もう一度お試しください。
+   >予期しているページが表示されない場合は、認証に使用したFacebookアカウントがFacebookのページに追加されていることを確認して、もう一度やり直してください。
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. デフォルトのFacebookとMarketoのフィールドマッピングを受け入れるには、「**作成**」をクリックします。
+1. デフォルトのFacebookとMarketoのフィールドのマッピングを受け入れるには、「**作成**」をクリックします。
 
    >[!TIP]
    >
@@ -71,16 +71,16 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketorは、2つのFacebookフィールドを1つのMarketoフィールドにマッピングする機能をサポートしていません。マッピング先は1 ～ 1の数です。 2を1にマッピングすると、リードはMarketoシステムに入るのに失敗する場合があります。
+   >Marketoは2つのFacebookフィールドを1つのMarketoフィールドにマッピングするのをサポートしていません。1対1の数です。 2を1にマッピングすると、リードはMarketoシステムに入らない場合があります。
 
    ![](assets/image2016-11-29-11-3a0-3a2.png)
 
-   うまくいった！ リードは、成功したFacebookリード広告キャンペーンを実行する際に、マーケティング担当者に開始を送ります。
+   うまくいった！ リードは、成功したFacebookリード広告キャンペーンを実行する際にMarketoに流れる開始です。
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
 >[!MORELIKETHIS]
 >
 >* [スマートキャンペーンでのリード広告のフィルターとトリガーの使用](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [カスタムフィールドのマーケティング担当者へのマッピング](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
+>* [カスタムフィールドのMarketoへのマッピング](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
