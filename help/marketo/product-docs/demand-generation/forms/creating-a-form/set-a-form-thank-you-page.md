@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359573
-description: フォーム「ありがとうございます」ページの設定 — Marketto Docs — 製品ドキュメント
-title: フォーム「ありがとうございます」ページの設定
+description: フォームありがとうございますページの設定 —Marketoドキュメント — 製品ドキュメント
+title: 「ありがとうございます」ページのフォーム設定
+exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # フォームの「ありがとうございます」ページの設定{#set-a-form-thank-you-page}
 
 誰かがフォームに入力するとどうなりますか。 彼らはどこに転送されますか。 設定方法を次に示します。
 
-## フォーム{#edit-form}を編集
+## フォームの編集 {#edit-form}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
-## 外部URL {#external-url}
+## 外部 URL {#external-url}
 
 「外部URL」設定を使用すると、任意のURLをフォローアップページとして定義できます。 ユーザーがフォームを送信すると、指定したURLに転送されます。
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 >
 >URLは、任意の場所でホストされているファイルのURLにすることができます。URLを指定すると、「送信」ボタンは「ダウンロード」ボタンのように動作します。
 
-## ランディングページ{#landing-page}
+## ランディングページ {#landing-page}
 
-承認された任意のマーケティングランディングページをフォローアップとして選択できます。
+承認された任意のMarketoランディングページをフォローアップとして選択できます。
 
 1. 「**フォローアップの対象**」を&#x200B;**ランディングページ**&#x200B;に設定します。
 
@@ -139,5 +139,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-素晴らしい仕事！
-
+OK！
