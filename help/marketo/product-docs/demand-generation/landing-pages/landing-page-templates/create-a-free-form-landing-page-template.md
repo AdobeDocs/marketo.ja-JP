@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097969
-description: フリーフォームランディングページテンプレートの作成 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページテンプレートの作成 —Marketoドキュメント — 製品ドキュメント
 title: 自由形式ランディングページテンプレートの作成
+exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 自由形式ランディングページテンプレートの作成{#create-a-free-form-landing-page-template}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo Supportは、カスタムHTMLのトラブルシューティングを支援するように設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
+   >Marketoサポートは、カスタムHTMLのトラブルシューティングを支援するためには設定されていません。 HTMLに関しては、Web開発者にお問い合わせください。
 
 1. 編集が完了したら、「**テンプレートアクション**」をクリックし、「**承認して閉じる**」を選択します。
 
