@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953444
-description: 期間原価の定義 — Marketto Docs — 製品ドキュメント
+description: 期間原価の定義 —Marketoドキュメント — 製品ドキュメント
 title: 期間原価の定義
+exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # 期間原価の定義{#define-period-costs}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >通貨（USD、EURなど） は、マーケティング担当者が管理するグローバル設定です。
+   >通貨（USD、EURなど） は、Marketo管理者が管理するグローバル設定です
 
 1. 説明的な&#x200B;**メモ**（オプション）を入力し、「**保存**」をクリックします。
 
