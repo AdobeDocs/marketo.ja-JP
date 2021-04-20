@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504238
-description: Google Universal Analytics - Marketto Docs -ダッシュボードドキュメントのカスタムRTP製品
+description: Google Universal Analytics -Marketoドキュメント — 製品ドキュメント内のカスタムRTPダッシュボード
 title: Google Universal AnalyticsでのカスタムRTPダッシュボード
+exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 0%
 
 ---
-
 
 # Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}でのカスタムRTPダッシュボード
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 ダッシュボードは3つの列で構成されます
 
 * トラフィックソース
-* セグメント
+* セグメンテーション
 * 最初のドリルダウン
 
 1. **RTP B2Bダッシュボード**&#x200B;という名前の新しいダッシュボードを作成し、次のウィジェットを定義します。
