@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515107
-description: ガイド付きランディングページ追加のフォーム — Marketto Docs — 製品ドキュメント
+description: ガイド付きランディングページ追加のフォーム —Marketoドキュメント — 製品ドキュメント
 title: ガイド付きランディングページ追加のフォーム
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # ガイド付きランディングページ追加のフォーム{#add-a-form-to-a-guided-landing-page}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. フォローアップページを選択する際には、次の3つのオプションがあります。
 
-   * ランディングページ — マーケティングランディングページの選択
+   * ランディングページ-Marketoランディングページを選択
    * 外部URL — 必要なURLを選択します。
    * Form Defined — フォームレベルで定義された設定を使用します。
 
