@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359707
-description: フリーフォームランディングページへの長方形の追加 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページへの長方形の追加 —Marketoドキュメント — 製品ドキュメント
 title: 自由形式ランディングページに長方形を追加する
+exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # 自由形式ランディングページへの長方形の追加{#adding-a-rectangle-to-a-free-form-landing-page}
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-おめでとう！ これで、自由形式のランディングページ上に長方形を作成できます。
+おめでとうございます！これで、自由形式のランディングページ上に長方形を作成できます。
