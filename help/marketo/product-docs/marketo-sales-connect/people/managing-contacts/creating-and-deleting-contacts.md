@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352516
-description: 連絡先の作成と削除 — Marketto Docs — 製品ドキュメント
+description: 連絡先の作成と削除 —Marketoドキュメント — 製品ドキュメント
 title: 連絡先の作成と削除
+exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # 連絡先の作成と削除{#creating-and-deleting-contacts}
 
