@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359701
-description: フリーフォームランディングページの作成 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページの作成 —Marketoドキュメント — 製品ドキュメント
 title: フリーフォームランディングページの作成
+exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
-
 
 # フリーフォームランディングページの作成{#create-a-free-form-landing-page}
 
