@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384645
-description: すべてのコンテンツについて — Marketto Docs — 製品ドキュメント
+description: すべてのコンテンツについて —Marketoドキュメント — 製品ドキュメント
 title: すべてのコンテンツについて
+exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # すべてのコンテンツについて{#understanding-all-content}
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [追加新しいコンテンツ](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
->* [コンテンツを削除](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [新規コンテンツ追加](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [コンテンツの削除](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [予測コンテンツのタイトルの未承認](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
