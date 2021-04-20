@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384438
-description: TAMレポートの設定 — Marketto Docs — 製品ドキュメント
+description: TAMレポートのセットアップ —Marketoドキュメント — 製品ドキュメント
 title: TAMレポートの設定
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # TAMレポートの設定{#tam-report-setup}
 
