@@ -1,15 +1,15 @@
 ---
 unique-page-id: 15368208
-description: Salesforceサンドボックスにカスタマイズをインストールする方法 — Marketto Docs — 製品ドキュメント
+description: Salesforceサンドボックスにカスタマイズをインストールする方法 —Marketoドキュメント — 製品ドキュメント
 title: Salesforceサンドボックスにカスタマイズをインストールする方法
+exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce Sandboxにカスタマイズをインストールする方法{#how-to-install-customizations-in-your-salesforce-sandbox}
 
