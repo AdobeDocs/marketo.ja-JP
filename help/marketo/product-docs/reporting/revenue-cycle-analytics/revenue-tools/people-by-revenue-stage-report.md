@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360418
-description: 売上高ステージ別人物レポート — Marketto Docs — 製品ドキュメント
+description: 売上高ステージ別ユーザーレポート —Marketoドキュメント — 製品ドキュメント
 title: 売上高ステージ別人物レポート
+exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 売上高ステージ別人物レポート{#people-by-revenue-stage-report}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能は、Marketoのすべてのエディションに適用されるわけではありません。 詳しくは、アカウントマネージャーにお問い合わせください。
+>この機能が含まれていないのはMarketoの全エディションです。 詳しくは、アカウントマネージャーにお問い合わせください。
 
 1. **Analytics**&#x200B;に移動します。
 
