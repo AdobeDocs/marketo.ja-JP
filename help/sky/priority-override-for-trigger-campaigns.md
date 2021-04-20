@@ -1,20 +1,20 @@
 ---
-title: priority-override-for-trigger-キャンペーン
-description: トリガーキャンペーンの優先度の上書き
+title: priority-override-for-トリガーキャンペーン
+description: トリガーキャンペーンの優先順位の上書き
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
-
-# トリガーキャンペーンの優先度の上書き
+# トリガーキャンペーンの優先順位の上書き
 
 <br> 
 
-管理者は、ビジネス目標に適した優先順位を設定するためのトリガーキャンペーンに対して、Marketorの決定された優先順位を上書きできます。
+管理者は、トリガーキャンペーンが決定したMarketoの優先順位を上書きして、ビジネス目標に適した優先順位を設定できます。
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 優先度をリセット
 
-1. キャンペーンの優先度をシステムのデフォルトに戻すには、トリガーキャンペーンの&#x200B;**[!UICONTROL スケジュール]**&#x200B;タブに移動し、**[!UICONTROL 優先度をリセット]**&#x200B;をクリックします。
+1. キャンペーンの優先度をデフォルトのシステムに戻すには、トリガーキャンペーンの「**[!UICONTROL スケジュール]**」タブに移動し、「**[!UICONTROL 優先度をリセット]**」をクリックします。
 
    ![画像4](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![画像8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
-## Marketo Classicの表示キャンペーンの優先度
+## Marketo Classicの表示キャンペーン優先
 
 トリガーキャンペーン内の「**[!UICONTROL スケジュール]**」タブをクリックして、[!DNL Classic]エクスペリエンスの表示キャンペーンの優先度を設定できます。
 
