@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360014
-description: 人々のパフォーマンスレポート — Marketto Docs — 製品ドキュメント
+description: 人物パフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
 title: 人物パフォーマンスレポート
+exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # 人物パフォーマンスレポート{#people-performance-report}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
 
-1. 素晴らしい！ これで、ユーザーのパフォーマンスレポートを調査する準備が整いました。 以下のリストで、さらに多くの情報を得る方法を説明します。
+1. OK！これで、ユーザーのパフォーマンスレポートを調査する準備が整いました。 以下のリストで、さらに多くの情報を得る方法を説明します。
 
    >[!NOTE]
    >
