@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504520
-description: 売上高エクスプローラレポートでのフィールドの削除 — Marketto Docs — 製品ドキュメント
+description: 売上高エクスプローラレポートでのフィールドの削除 —Marketoドキュメント — 製品ドキュメント
 title: 売上高エクスプローラ・レポートでのフィールドの削除
+exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # 売上高エクスプローラレポートでのフィールドの削除{#deleting-a-field-in-a-revenue-explorer-report}
 
