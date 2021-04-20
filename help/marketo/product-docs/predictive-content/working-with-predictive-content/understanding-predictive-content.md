@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384665
-description: 予測コンテンツについて — Marketto Docs — 製品ドキュメント
+description: 予測コンテンツについて —Marketoドキュメント — 製品ドキュメント
 title: 予測コンテンツについて
+exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 予測コンテンツについて{#understanding-predictive-content}
 
@@ -34,13 +34,13 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**有効なソース**
+**有効ソース**
 
 有効なコンテンツのタイプ別にフィルター：電子メール、リッチメディア、レコメンデーションバーを参照してください。
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**ソース別の分析**
+**ソース別分析**
 
 フィルターを有効にしたコンテンツ分析を使用すると、各ソースのパフォーマンスを確認できます。
 
