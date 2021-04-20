@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359770
-description: 調査の公開 — Marketto Docs — 製品ドキュメント
+description: 調査の投稿 —Marketoドキュメント — 製品ドキュメント
 title: ポールの公開
+exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # ポールの公開{#publish-a-poll}
 
-調査[を作成した後、](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)をMarketorランディングページ、Facebook、Webサイトに投稿できます。
+[投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)を作成した後、Marketoランディングページ、Facebook、Webサイトで投稿できます。
 
 1. ランディングページーに移動し、編集用に開きます。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >ここで調査を利用できるようにするには、調査を承認する必要があります。
 
-おめでとう！ ランディングページを承認すると、調査は実行中です。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[投稿したり、[投票をWebサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に投稿したりすることもできます。
+おめでとうございます！ランディングページを承認すると、調査は実行中です。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[公開したり、[調査をWebサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に配置したりすることもできます。
 
 >[!TIP]
 >
