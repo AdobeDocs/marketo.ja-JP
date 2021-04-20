@@ -1,14 +1,14 @@
 ---
-description: グローバル検索 — Marketto Docs — 製品ドキュメントの使用
+description: グローバル検索の使用 —Marketoドキュメント — 製品ドキュメント
 title: グローバル検索の使用
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 1%
 
 ---
-
 
 # グローバル検索の使用{#using-the-global-search}
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>すべての検索結果の最初（またはのみ）のページで、パンくずリストの任意の場所をクリックすると、その領域に直接移動します</td> 
   </tr>
   <tr>
@@ -66,7 +66,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>3</td> 
-   <td>検索する特定のメインマーケティングセクションを選択するか、またはすべてを一度に検索します</td> 
+   <td>検索する特定のメインMarketoセクションを選択するか、一度にすべてを検索します</td> 
   </tr>
   <tr>
    <td>4</td> 
