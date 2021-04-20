@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146999
-description: 興味深い瞬間のトークン — Marketto Docs — 製品ドキュメント
+description: 興味深い瞬間のトークン —Marketoドキュメント — 製品ドキュメント
 title: 興味深い瞬間のトークン
+exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '434'
-ht-degree: 0%
+ht-degree: 29%
 
 ---
-
 
 # 注目の瞬間のトークン{#tokens-for-interesting-moments}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>電子メール内のリンクをクリック</td> 
+   <td>メール内リンクをクリック</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -101,7 +101,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子メールのバウンス（ソフト）</td> 
+   <td>ソフトバウンスメール</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -135,7 +135,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子メールを開く</td> 
+   <td>メールの開封</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -152,7 +152,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>友達の電子メールに転送を受信</td> 
+   <td>友達への転送メール受信済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -169,7 +169,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>友達の電子メールに転送</td> 
+   <td>友達への転送メール送信済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -186,7 +186,7 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="（目盛り）"></td>
   </tr> 
   <tr> 
-   <td>電子メールから登録解除</td> 
+   <td>メール配信停止</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -243,7 +243,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>販売の電子メール内のクリック数リンク</td> 
+   <td>セールスメール内のリンクをクリック</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -260,7 +260,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>は販売の電子メールで送信</td> 
+   <td>送信済みセールスメール</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -277,7 +277,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールを開きます</td> 
+   <td>セールスメールの開封</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -294,7 +294,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールのバウンス</td> 
+   <td>セールスメールのバウンス</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -311,7 +311,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールを受信</td> 
+   <td>セールスメールを受信します</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -328,7 +328,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>オポチュニティが更新されました</td> 
+   <td>商談更新</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -362,7 +362,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>人がコンバージョンされる</td> 
+   <td>担当者を変換します</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -379,7 +379,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDCから削除されました</td> 
+   <td>担当者を SFDC から削除します</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -396,7 +396,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>ユーザーはSFDCと同期</td> 
+   <td>担当者を SFDC に同期します</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -413,7 +413,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>オポチュニティから削除</td> 
+   <td>商談から削除済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -430,7 +430,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDCキャンペーンから削除</td> 
+   <td>SFDC キャンペーンから削除済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -447,7 +447,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>アクティビティがログに記録される</td> 
+   <td>アクティビティが記録されました</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -481,7 +481,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>オポチュニティに追加</td> 
+   <td>商談に追加済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -498,7 +498,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDCキャンペーンに追加</td> 
+   <td>SFDC キャンペーンに追加済み</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -515,7 +515,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDCキャンペーンでステータスが変更された場合</td> 
+   <td>SFDC キャンペーンでステータスが変更されています</td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -572,7 +572,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>販売の電子メール内のクリック数リンク</td> 
+   <td>セールスメール内のリンクをクリック</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -589,7 +589,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>は販売の電子メールで送信</td> 
+   <td>送信済みセールスメール</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -606,7 +606,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールを開きます</td> 
+   <td>セールスメールの開封</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -623,7 +623,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールのバウンス</td> 
+   <td>セールスメールのバウンス</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -640,7 +640,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売の電子メールを受信</td> 
+   <td>セールスメールを受信します</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
@@ -657,7 +657,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>販売キャンペーンに追加</td> 
+   <td>セールスキャンペーンに追加しました</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -675,7 +675,7 @@ ht-degree: 0%
   </tr> 
   <tr>
    <td>所有者の変更</td> 
-   <td>販売キャンペーンから削除</td> 
+   <td>セールスキャンペーンから削除しました</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -692,7 +692,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>受信販売呼び出し</td> 
+   <td>セールス電話を受信しました</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -749,7 +749,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Fills Out Form</td> 
+   <td>フォームの入力</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -766,7 +766,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>訪問回数Webページ</td> 
+   <td>ウェブページにアクセス</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
@@ -783,7 +783,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Webページ上のリンクのクリック数</td> 
+   <td>ウェブページのリンクをクリック</td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><img src="assets/check.svg" alt="（目盛り）"></td> 
    <td><br></td> 
