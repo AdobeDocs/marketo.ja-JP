@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359876
-description: アップロードした画像またはファイルの置き換え — Marketto Docs — 製品ドキュメント
+description: アップロードした画像またはファイルの置き換え —Marketoドキュメント — 製品ドキュメント
 title: アップロードした画像またはファイルの置換
+exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # アップロードした画像またはファイルの置き換え{#replace-an-uploaded-image-or-file}
 
