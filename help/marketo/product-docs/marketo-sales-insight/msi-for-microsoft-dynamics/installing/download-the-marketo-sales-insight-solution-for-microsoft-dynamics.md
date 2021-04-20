@@ -1,23 +1,23 @@
 ---
 unique-page-id: 6849070
-description: Marketo Sales Insight Solution for Microsoft Dynamics - Marketto Docs — 製品ドキュメントをダウンロードします。
-title: Microsoft Dynamics用Marketo Sales Insight Solutionのダウンロード
+description: Microsoft Dynamics用Marketoセールスインサイトソリューション —Marketoドキュメント — 製品ドキュメントのダウンロード
+title: Microsoft Dynamics用Marketoセールスインサイトソリューションのダウンロード
+exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Marketo Sales Insight Solution for Microsoft Dynamicsのダウンロード{#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Microsoft Dynamics用Marketoセールスインサイトソリューションのダウンロード{#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-同期を開始するには、Microsoft DynamicsアカウントにMarketo Solution for Sales Insightをダウンロードしてインストールする必要があります。
+同期を開始するには、Microsoft DynamicsアカウントにSales Insight向けのMarketoソリューションをダウンロードしてインストールする必要があります。
 
 1. **管理者**&#x200B;領域に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3.png)
 
-1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
+1. 「**Marketoソリューション**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/msd-online.png)
 
-素晴らしい！ ソリューションのzipファイルがデバイスにダウンロードされます。
+OK！ソリューションのzipファイルがデバイスにダウンロードされます。
