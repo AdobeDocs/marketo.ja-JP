@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352581
-description: エラーのスロットリング — Marketto Docs — 製品ドキュメント
+description: エラーのスロットリング —Marketoドキュメント — 製品ドキュメント
 title: エラーの制限
+exl-id: d0abb42a-731f-401c-bf2b-590493cfae80
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # エラーのスロットリング{#throttling-errors}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 自分のサーバー経由で送信する場合、同時に送信できる電子メールの数に制限があります。 Sales Connect経由で送信する場合、多数の電子メールを送信できますが、すべて同時に送信しようとします。 したがって、サーバーが1分に100通のメールを受信できなくなることを知っている場合は、[Webアプリケーション](https://toutapp.com/login)を通じて最大100通のメールを送信する必要があります。 それ以外の場合は、サーバーで電子メールの制限が行われているため、電子メールが送信される可能性があります。
 
-## 認証エラー{#authentication-error}
+## 認証エラー {#authentication-error}
 
 これは、SMTPサーバーへの接続を認証できなかったことを意味します。 おそらく、パスワードが最近変更されたので、新しい資格情報を認証するだけで済みます。
 
