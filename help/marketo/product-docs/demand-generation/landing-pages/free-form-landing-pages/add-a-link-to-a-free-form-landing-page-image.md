@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359736
-description: フリ追加ーフォームランディングページの画像 — Marketto Docs — 製品ドキュメントへのリンク
+description: フリ追加ーフォームランディングページ画像 —Marketoドキュメント — 製品ドキュメントへのリンク
 title: フリ追加ーフォームのランディングページ画像へのリンク
+exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # フリ追加ーフォームランディングページ画像へのリンク{#add-a-link-to-a-free-form-landing-page-image}
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   素晴らしい仕事！ これで、Marketoランディングページに電子メールリンクとしての画像が作成されました。
+   すばらしい！ これで、Marketoランディングページにメールトックリンクの画像が表示されます。
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
