@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571735
-description: Microsoft Dynamics 2011 - Marketto Docs — 製品ドキュメントで、Marketto Sales Insightのインストールと設定を行います。
-title: Microsoft Dynamics 2011でのMarketo Sales Insightのインストールと構成
+description: Microsoft Dynamics 2011 -Marketoドキュメント — 製品ドキュメントで、Marketo販売インサイトをインストールおよび構成します
+title: Microsoft Dynamics 2011でのMarketo販売インサイトのインストールと構成
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
-# Microsoft Dynamics 2011のMarketo Sales Insightのインストールと設定{#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Microsoft Dynamics 2011でのMarketo販売インサイトのインストールと構成{#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insightは、セールスチームにとって素晴らしいツールです。 Microsoft Dynamics 2011オンプレミスでのインストールと構成の手順を説明します。
+Marketo・セールス・インサイトは、セールス・チームにとって素晴らしいツールです。 Microsoft Dynamics 2011オンプレミスでのインストールと構成の手順を説明します。
 
 >[!PREREQUISITES]
 >
->MarketoとMicrosoftの統合を完了します。
+>Marketoとマイクロソフトの統合を完了します。
 >
 >[お使いのバージョンのMicrosoft Dynamics CRMに適した](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) ソリューションをダウンロードしてください。
 
@@ -37,9 +37,9 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    >[!NOTE]
    >
-   >先に進む前に、Marketoソリューションを[インストールし、](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)設定しておく必要があります。
+   >先に進む前に、[Marketoソリューションをインストールし、](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)設定しておく必要があります。
 
-1. 「**参照**」をクリックします。 [ダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)したMarketo Sales Insightソリューションを選択します。 「**次へ**」をクリックします。
+1. 「**参照**」をクリックします。 [ダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)したMarketoセールスインサイトソリューションを選択します。 「**次へ**」をクリックします。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -59,21 +59,21 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    ![](assets/crmhand.png)
 
-1. Marketo Sales Insightがソリューションリストに表示されます。 やった！
+1. Marketoのセールス・インサイトが、ソリューション・リストに表示されます。 やった！
 
    ![](assets/image2015-5-4-11-3a2-3a37.png)
 
-1. 「Marketo Sales Insight」を選択し、「**すべてのカスタマイズを発行**(![](assets/image2015-5-4-11-3a7-3a8.png))」をクリックします。
+1. 「Marketo販売インサイト」を選択し、「**すべてのカスタマイズを発行**(![](assets/image2015-5-4-11-3a7-3a8.png))」をクリックします。
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
-## MarketoとSales Insightの接続{#connect-marketo-and-sales-insight}
+## MarketoとSales Insightを接続{#connect-marketo-and-sales-insight}
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. Marketorにログインし、**管理者**&#x200B;をクリックします。
+1. Marketoにログインし、**管理者**&#x200B;をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
@@ -81,7 +81,7 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 後の手順で使用するために、**Marketo Host**、**API URL**&#x200B;および&#x200B;**APIユーザーID**&#x200B;をコピーします。 任意の&#x200B;**API秘密キー**&#x200B;を入力し、「**保存**」をクリックします。
+1. 後の手順で使用する&#x200B;**Marketoホスト**、**API URL**、**APIユーザーID**&#x200B;をコピーします。 任意の&#x200B;**API秘密キー**&#x200B;を入力し、「**保存**」をクリックします。
 
    >[!CAUTION]
    >
@@ -91,20 +91,20 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    >[!NOTE]
    >
-   >Sales Insightを機能させるには、次のフィールドをMarketoと&#x200B;_リードと連絡先_&#x200B;の両方で同期する必要があります。
+   >Sales Insightを機能させるには、次のフィールドをMarketoと同期して、_リードと連絡先_&#x200B;の両方を行う必要があります。
    >
-   >* 優先度
+   >* 優先順位
    >* 緊急度
    >* 相対スコア
 
    >
-   >これらのフィールドのいずれかが見つからない場合は、Marketorに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
+   >これらのフィールドのいずれかが見つからない場合は、Marketoに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
 1. [ダイナミクス]に戻り、[**設定**]を選択します。
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. ツリーで「**Marketo API Config**」を選択します。
+1. ツリーで&#x200B;**MarketoAPI Config**&#x200B;を選択します。
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
@@ -112,7 +112,7 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
-1. 以前にマーケティング担当者から受け取った情報を入力します。
+1. 先ほどMarketoから受け取った情報を入力します。
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
@@ -140,7 +140,7 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. **Marketto Sales Insight**&#x200B;ロールを選択し、「**OK**」をクリックします。
+1. **Marketo販売インサイト**&#x200B;のロールを選択し、「**OK**」をクリックします。
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
@@ -148,7 +148,7 @@ Marketo Sales Insightは、セールスチームにとって素晴らしいツ�
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
 
-   おめでとう。 これで、Marketo Sales Insightの機能が解放されました。
+   おめでとう。 これで、Marketo・セールス・インサイトの機能が解放されました。
 
 >[!MORELIKETHIS]
 >
