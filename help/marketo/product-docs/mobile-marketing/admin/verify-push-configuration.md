@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7512445
-description: プッシュ設定の検証 — Marketto Docs — 製品ドキュメント
+description: プッシュ設定の検証 —Marketoドキュメント — 製品ドキュメント
 title: プッシュ設定の検証
+exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# プッシュ構成の確認{#verify-push-configuration}
+# プッシュ設定の検証 {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
->モバイルアプリには、モバイル開発者がMarketorのSDKコードを追加している必要があります。
+>モバイル開発者は、MarketoのSDKコードをモバイルアプリに追加している必要があります。
 
 すべての項目が適切に同期されるように、プッシュ設定を確認します。
 
