@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359530
-description: ランディングページに対する追加テキストとトークン — Marketto Docs — 製品ドキュメント
+description: ランディングページへ追加のテキストとトークン —Marketoドキュメント — 製品ドキュメント
 title: ランディングページ追加へのテキストとトークン
+exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページ追加へのテキストとトークン{#add-text-and-tokens-to-a-landing-page}
 
