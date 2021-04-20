@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147354
-description: 電子メールの操作 — Marketto Docs — 製品ドキュメント
+description: 電子メールによる操作 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールを操作可能にする
+exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールの操作{#make-an-email-operational}
 
