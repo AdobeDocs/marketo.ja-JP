@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10095554
-description: Webキャンペーンーにフォームを埋め込む — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンにフォームを埋め込む —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンーにフォームを埋め込む
+exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-
 # Webキャンペーンーにフォームを埋め込む{#embed-a-form-into-a-web-campaign}
 
-MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイアログ、ゾーンまたはウィジェット）を参照してください。
+WebキャンペーンーにMarketoフォームを埋め込む方法（ダイアログ、ゾーンまたはウィジェット）を参照してください。
 
 1. 承認されたフォームを右クリックします。 「**埋め込みコード**」を選択します。
 
@@ -45,7 +45,7 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 
    >[!NOTE]
    >
-   >フォームのフィールドに対する変更は、フォームの「ドラフトを編集」のマーケティングアクティビティ内で行う必要があります。
+   >フォームのフィールドに対する変更は、「フォームのドラフトを編集」のMarketoのマーケティングアクティビティ内で行う必要があります。
 
 ## フォームに追加対する背景画像の3つの方法{#three-ways-to-add-a-background-image-to-a-form}
 
@@ -85,5 +85,5 @@ MarkettoフォームをWebキャンペーンーに埋め込む方法（ダイア
 >
 >* [フォームテーマのCSSの編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [フォローアップランディングページなしで「ありがとうございます」メッセージを表示](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [フォーム 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
 
