@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359728
-description: フリーフォームランディングページデザインのガイドの使用 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページデザインのガイドの使用 —Marketoドキュメント — 製品ドキュメント
 title: フリーフォームランディングページデザインのガイドの使用
+exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # フリーフォームランディングページデザインのガイドを使用{#use-guides-for-free-form-landing-page-design}
 
