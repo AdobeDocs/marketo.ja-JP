@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097867
-description: ウェブパーソナライゼーションアクティビティのスマートリストの定義 — Marketto Docs — 製品ドキュメント
+description: ウェブパーソナライゼーションアクティビティ用のスマートリストの定義 —Marketoドキュメント — 製品ドキュメント
 title: Webパーソナライゼーションアクティビティ用のスマートリストの定義
+exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # ウェブパーソナライゼーションアクティビティ用のスマートリストの定義{#define-a-smart-list-for-web-personalization-activities}
 
