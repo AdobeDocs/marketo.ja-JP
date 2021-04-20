@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378845
-description: LaunchPointサービスとして追加のビブ — Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてのビブ —Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサー追加ビスとしての表示
+exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 追加LaunchPointサービス{#add-vibes-as-a-launchpoint-service}として表示
 
@@ -21,9 +21,9 @@ SMSメッセージは、Vibesリスト内のユーザーに送信し、SMSアク
 
 >[!NOTE]
 >
->この設定を完了するには、Marketorの管理者権限とアクティブなVibesアカウントの両方が必要です。 次の手順4で要求された資格情報は、Vibesアカウントからの資格情報です。
+>このセットアップを完了するには、Marketo管理者権限とアクティブなVibeアカウントの両方が必要です。 次の手順4で要求された資格情報は、Vibesアカウントからの資格情報です。
 
-1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**LaunchPoint**&#x200B;をクリックします。
+1. マイMarketoで、「**管理者**」をクリックし、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
