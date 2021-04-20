@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437556
-description: テンプレート11-A - Marketto Docs — 製品ドキュメント
+description: テンプレート11-A -Marketoドキュメント — 製品ドキュメント
 title: テンプレート11-A
+exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート11-A {#template-a}
 
