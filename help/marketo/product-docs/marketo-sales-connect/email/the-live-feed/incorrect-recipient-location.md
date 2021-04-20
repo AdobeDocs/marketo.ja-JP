@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352543
-description: 誤った受信者場所 — Marketto Docs — 製品ドキュメント
+description: 誤った受信者の場所 —Marketoドキュメント — 製品ドキュメント
 title: 受信者の場所が正しくありません
+exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 誤った受信者の場所{#incorrect-recipient-location}
 
