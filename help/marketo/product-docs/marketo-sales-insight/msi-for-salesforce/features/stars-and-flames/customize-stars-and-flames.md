@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360303
-description: 星と炎のカスタマイズ — Marketto Docs — 製品ドキュメント
+description: 星と炎のカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: 星と炎をカスタマイズ
+exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # 星と炎をカスタマイズ{#customize-stars-and-flames}
 
-Marketo Sales Insightは、星と炎を使用してリードに優先順位を付けます。 マーケトは自動的に1-2-3の星/炎を得る人を決定します ただし、数式を変更することはできます。 その方法を次に示します。
+Marketo・セールス・インサイトは、リードの優先順位を決めるために星や炎を使用します。 Marketoは自動的に1-2-3個の星/炎を得る人を決定する ただし、数式を変更することはできます。 その方法を次に示します。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Marketo Sales Insightは、星と炎を使用してリードに優先順位を�
 
    >[!TIP]
    >
-   >開始パーセントを編集するだけで、マーケティング担当者は終了パーセントを計算します。
+   >開始パーセントを編集するだけで、Marketoが終了パーセントを計算します。
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
