@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719336
-description: ユーザー設定 — Marketto Docs — 製品ドキュメント
-title: ユーザー設定
+description: ユーザー設定 —Marketoドキュメント — 製品ドキュメント
+title: ユーザ設定
+exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# ユーザー設定{#user-settings}
+# ユーザ設定 {#user-settings}
 
 タイムゾーンやウェブパーソナライゼーションの電子メールレポートなどの設定を変更します。
 
@@ -49,8 +49,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->「**保存**」をクリックしても、ユーザー設定からは終了しません。 終了するには、左上のMarketoロゴをクリックし、目的のロゴを選択します。
+>「**保存**」をクリックしても、ユーザー設定からは終了しません。 終了するには、左上のMarketoのロゴをクリックし、目的のロゴを選択します。
 
 >[!MORELIKETHIS]
 >
->[リージョンを編集](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
+>[地域の編集](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md)
