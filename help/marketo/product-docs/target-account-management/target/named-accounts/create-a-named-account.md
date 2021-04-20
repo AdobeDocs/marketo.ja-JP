@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12615781
-description: 名前付きアカウントの作成 — Marketto Docs — 製品ドキュメント
+description: 固有のアカウントの作成 —Marketoドキュメント — 製品ドキュメント
 title: 名前付きアカウントの作成
+exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 名前付きアカウントの作成{#create-a-named-account}
 
