@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352410
-description: 電子メール追加署名 — Marketto Docs — 製品ドキュメント
+description: 電子メール追加署名 —Marketoドキュメント — 製品ドキュメント
 title: 追加電子メール署名
+exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # 電追加子メール署名{#add-your-email-signature}
 
