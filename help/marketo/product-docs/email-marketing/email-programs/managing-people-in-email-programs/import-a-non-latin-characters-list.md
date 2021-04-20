@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472678
-description: ラテン文字以外のリストの読み込み — Marketto Docs — 製品ドキュメント
+description: 非ラテン文字リストの読み込み —Marketoドキュメント — 製品ドキュメント
 title: 非ラテン文字リストの読み込み
+exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # 非ラテン文字リストの読み込み{#import-a-non-latin-characters-list}
 
@@ -17,23 +17,23 @@ ht-degree: 0%
 
 ![](assets/image2015-2-10-9-3a34-3a57.png)
 
-ただし、Marketoに読み込むと、英語以外の文字が正しく取得されないことがあります。
+しかし、Marketoに読み込むと、英語以外の文字が正しく取り出されないことがわかります。
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-これは、ファイルがMarketorがラテン系以外の文字をすべて認識できるように適切に保存されないためです。 良い知らせは、いくつかの簡単な手順を実行して修正できることです。
+これは、Marketoがラテン系以外の文字を認識できるように、ファイルが正しく保存されないためです。 良い知らせは、いくつかの簡単な手順を実行して修正できることです。
 
 1. **名前を付けて保存を選択…Excelの**&#x200B;ファイル&#x200B;**メニューの**。
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. 「**形式**」オプションとして「**UTF-16 Unicodeテキスト(.txt)**」を選択します。 これにより、Marketorがファイルを表示できる方法でファイルがエンコードされます。
+1. 「**形式**」オプションとして「**UTF-16 Unicodeテキスト(.txt)**」を選択します。 これにより、Marketoがファイルを表示する方法でファイルがエンコードされます。
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
    >[!NOTE]
    >
-   >また、UTF-8、Shift-JIS、EUC-JPもサポートしています。
+   >Marketoは、UTF-8、Shift-JIS、またはEUC-JPもサポートしています。
 
 1. 新しいファイルは、.txt拡張子を持つテキストファイルとして保存されます。 また、ファイル内のすべてのカンマがタブに変換されます。 変えなきゃ。
 
