@@ -1,27 +1,27 @@
 ---
 unique-page-id: 3571900
-description: ウェブパーソナライゼーションの概要 — Marketto Docs — 製品ドキュメント
+description: ウェブパーソナライゼーションの概要 —Marketoドキュメント — 製品ドキュメント
 title: Webパーソナライゼーションの概要
+exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '833'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Webパーソナライゼーションの概要{#web-personalization-overview}
 
 ## はじめに{#introduction}
 
-新しいマーケティング担当者向けに、リアルタイムパーソナライゼーションは4つのアプリに分けられ、次の2つのタイルを使用してアクセスします。WebパーソナライゼーションとコンテンツAI
+新しいMarketoのお客様の場合、リアルタイムパーソナライゼーションは4つのアプリに分けられ、次の2つのタイルを使用してアクセスします。WebパーソナライゼーションとコンテンツAI
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->WebパーソナライゼーションとコンテンツAIは、マーケティング対象のすべての言語（英語、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語）で利用できます。
+>WebパーソナライゼーションとコンテンツAIは、Marketoがサポートするすべての言語（英語、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語）で利用できます。
 
 既存のお客様は、更新までリアルタイムパーソナライゼーションタイルを通じてアプリにアクセスし続け、その時点で上記のログインを使用します。
 
@@ -31,7 +31,7 @@ Webパーソナライゼーションタイルをクリックすると、ダッ�
 
 次の4つのアプリがあります。
 
-* Webパーソナライゼーション
+* ウェブパーソナライゼーション
 * アカウントベースのWebマーケティング
 * Webサイトの再ターゲット設定
 * ContentAI
@@ -48,7 +48,7 @@ Webパーソナライゼーションタイルをクリックすると、ダッ�
 >
 >アカウントベースのWebマーケティングまたはWebサイトの再ターゲティングにアクセスするには、Webパーソナライゼーションアプリを持っていない場合でも、「Webパーソナライゼーション」タイルをクリックする必要があります。
 
-## 組織{#organizations}
+## 組織 {#organizations}
 
 「組織」タブには、特定の期間にWebサイトを訪問した組織のすべての詳細(名前、場所、アクティビティおよびタイムスタンプ)が表示されます。 時間、場所、ドメイン、およびフリーテキスト検索を使用して、表を並べ替えたり、整理したりできます。
 
@@ -70,7 +70,7 @@ Webパーソナライゼーションタイルをクリックすると、ダッ�
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>スプレッドシートアイコン</strong>:パネルの右上にあるアイコンは、オフラインで使用するために、CSV形式で組織テーブルをダウンロードします</p><p><strong>電子メールアラートの設定</strong>:選択した組織がWebサイトを訪問するたびに、ログインしたユーザーに電子メールを送信します</p><p><strong>リード</strong>:選択した組織のリードテーブルを開きます</p><p><strong>共有</strong>:ポップアップウィンドウを開いて電子メールを送信し、Webページを訪問した組織の詳細を共有します</p><p><strong>ロケーションアイコン</strong>:選択した組織の国と市区町村を表示します</p><p><strong>リンク</strong>:Jigsaw、Whois、Linkedin、Google、Twitterが新しいウィンドウを開き、それぞれのWebページから追加情報が表示され、選択した組織に対する追加のインサイトを提供します</p><p><strong>検索</strong>:訪問者が検索エンジンを経由して到着した場合に使用するキーワードを表示します。</p><p><strong>転送者</strong>:トラフィックを貴社のサイトに導いたページのURLリンクを示します。</p><p><strong>訪問者</strong>:訪問数、選択した組織が閲覧したページ数、電子メールアドレス（送信フォームを完了した場合）、最後の訪問の日時が表示されます</p><p><strong>クリックストリーム</strong>:ユーザーアクティビティとサイト上のURLパスの表、および各ページの訪問時間</p></td> 
+   <td><p><strong>スプレッドシートアイコン</strong>:パネルの右上にあるアイコンは、オフラインで使用するために、CSV形式で組織テーブルをダウンロードします</p><p><strong>電子メールアラートの設定</strong>:選択した組織がWebサイトを訪問するたびに、ログインしたユーザーに電子メールを送信します</p><p><strong>リード</strong>:選択した組織のリードテーブルを開きます</p><p><strong>共有</strong>:ポップアップウィンドウを開いて電子メールを送信し、Webページを訪問した組織の詳細を共有します</p><p><strong>ロケーションアイコン</strong>:選択した組織の国と市区町村を表示します</p><p><strong>リンク</strong>:Jigsaw、Whois、Linkedin、Google、Twitterが新しいウィンドウを開き、それぞれのWebページから追加情報が表示され、選択した組織に対する詳細な情報を提供します</p><p><strong>検索</strong>:訪問者が検索エンジンを経由して到着した場合に使用するキーワードを表示します。</p><p><strong>転送者</strong>:トラフィックを貴社のサイトに導いたページのURLリンクを示します。</p><p><strong>訪問者</strong>:訪問数、選択した組織が閲覧したページ数、電子メールアドレス（送信フォームを完了した場合）、最後の訪問の日時が表示されます</p><p><strong>クリックストリーム</strong>:ユーザーアクティビティとサイト上のURLパスの表、および各ページの訪問時間</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -84,7 +84,7 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
-## 訪問者{#visitors}
+## 訪問者 {#visitors}
 
 ![](assets/wp-vis.jpg)
 
@@ -98,7 +98,7 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -115,11 +115,11 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
    <td colspan="1" rowspan="1">選択した訪問者に関連付けられたキャンペーンCTAを設定できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>場所</strong></td> 
+   <td colspan="1"><strong>ロケーション</strong></td> 
    <td colspan="1">訪問者の国、都道府県、市区町村を表示します</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
+   <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td> 
    <td colspan="1" rowspan="1">訪問者のアクティビティとサイト上のURLパス、および各ページの訪問時間の表を表示します</td> 
   </tr> 
  </tbody> 
@@ -139,7 +139,7 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -152,7 +152,7 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
    <td colspan="1" rowspan="1"> 1分あたりのサイトのクリック数を示すライブ折れ線グラフ</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>トップの組織</strong></td> 
+   <td colspan="1" rowspan="1"><strong>上位の組織</strong></td> 
    <td colspan="1" rowspan="1">組織テーブルの短いバージョン</td> 
   </tr> 
   <tr> 
@@ -160,11 +160,11 @@ Webサイト訪問者の情報を同僚と共有したい場合 組織をクリ�
    <td colspan="1">指定したセグメントに一致する、現在オンサイトの訪問者数</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>現在の参照</strong></td> 
+   <td colspan="1"><strong>現在参照中</strong></td> 
    <td colspan="1">オンサイト訪問者が現在閲覧中のページのURL</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>トップの照会</strong></td> 
+   <td colspan="1" rowspan="1"><strong>上位紹介</strong></td> 
    <td colspan="1" rowspan="1">訪問者をサイトに導いた参照URL</td> 
   </tr> 
  </tbody> 
