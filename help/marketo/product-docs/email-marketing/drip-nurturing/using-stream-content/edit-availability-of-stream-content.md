@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359910
-description: ストリームコンテンツの可用性の編集 — Marketto Docs — 製品ドキュメント
+description: ストリームコンテンツの可用性の編集 —Marketoドキュメント — 製品ドキュメント
 title: ストリームコンテンツの可用性の編集
+exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # ストリームコンテンツの可用性の編集{#edit-availability-of-stream-content}
 
