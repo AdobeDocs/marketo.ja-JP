@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13796475
-description: 個人詳細表示- Marketto Docs — 製品ドキュメント
+description: 個人詳細表示-Marketoドキュメント — 製品ドキュメント
 title: 個人の詳細表示
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # 個人の詳細表示{#person-detail-view}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 * テンプレートやキャンペーンで動的フィールドとして使用できるカスタムフィールドを削除します。
 
-**メモ**
+**注意**
 
 * カスタムメモの作成
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/engagement.jpg)
 
-**Sales Connectアクティビティ**
+**セールスコネクトアクティビティ**
 
 * 販売用の電子メールおよびキャンペーンからのエンゲージメントアクティビティの表示
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 ![](assets/history.jpg)
 
-**販売キャンペーン**
+**セールスキャンペーン**
 
 * このユーザーが属するアクティブなキャンペーンまたは完了したユーザーを確認する
 
@@ -84,11 +84,11 @@ ht-degree: 0%
 
 * このユーザーが属するマーケティングキャンペーンを確認する
 
-**販売の電子メール**
+**セールスメール**
 
 * この人に送信した電子メールおよびエンゲージメント指標を表示する
 
-**販売呼び出し**
+**セールス電話**
 
 * このユーザーに対して行った通話を確認する
 
@@ -107,11 +107,11 @@ ht-degree: 0%
 
 ## 「Sales Navigator」タブ{#sales-navigator-tab}
 
-表示LinkedInプロファイルデータとLinkedInの販売ナビゲーター。
+表示LinkedInのプロファイルデータをLinkedInのSales Navigatorと共有
 
 >[!NOTE]
 >
->Sales NavigatorはLinkedInを通じた有料のアドオンです。この機能を入手するには、担当者にお問い合わせください。
+>Sales NavigatorはLinkedIn経由の有料アドオンです。この機能を入手するには、担当者にお問い合わせください。
 
 ![](assets/linkedin.jpg)
 
