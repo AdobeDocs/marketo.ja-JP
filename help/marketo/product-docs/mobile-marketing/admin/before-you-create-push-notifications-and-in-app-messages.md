@@ -1,35 +1,35 @@
 ---
 unique-page-id: 11376159
-description: プッシュ通知とアプリ内メッセージを作成する前に、Marketo Docs — 製品ドキュメントを参照してください。
+description: プッシュ通知とアプリ内メッセージを作成する前に、Marketoドキュメント — 製品ドキュメントを参照してください。
 title: プッシュ通知とアプリ内メッセージを作成する前に
+exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-
 # プッシュ通知とアプリ内メッセージを作成する前に{#before-you-create-push-notifications-and-in-app-messages}
 
-プッシュ通知やアプリ内メッセージの作成は難しくありませんが、開始を行うには、準備が整っている必要があります。 マーケティング担当者およびモバイルアプリの開発者は、次の手順に従って必要な統合を準備する必要があります。
+プッシュ通知やアプリ内メッセージの作成は難しくありませんが、開始を行うには、準備が整っている必要があります。 Marketo管理者およびモバイルアプリの開発者は、次の手順に従って必要な統合を準備する必要があります。
 
-1. まず、マーケティング担当者[がモバイルアプリ](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)を追加します。
+1. まず、Marketo管理者[がモバイルアプリ](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)を追加します。
 
-1. 次に、マーケティング担当者は、コードスニペットを[開発者](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)に送信します。
+1. 次に、Marketo管理者は、コードスニペットを[開発者](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)に送信します。
 
 1. 開発者はSDKをダウンロードし、[Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)または[iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)のスニペットとその他のメソッドを含めます。
 
 1. デフォルトでは、アプリを開くとアプリ内メッセージがトリガーされます。 特定のページが表示されたり、特定のボタンが押されたりした場合など、他のイベント向けにメッセージをトリガーする場合は、カスタムイベントをコードに追加する必要があります(下の[アプリ内メッセージのカスタムイベント](#CustomEvents)を参照)。
 
-1. 開発者[は、Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/)または[iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)の認証とパスワード用のServer APIキーとプロジェクト番号を生成し、Marketor管理者に送信します。
+1. 開発者[は、Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/)または[iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)の認証とパスワード用のServer APIキーとプロジェクト番号を生成し、Marketo管理者に送信します。
 
-1. マーケティング担当者は、サーバーAPIキー(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)または[を使用して、プッシュ通知アクセス[を証明書(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)を設定します。
+1. Marketo管理者は、サーバーAPIキー(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)または[を使用して、プッシュ通知アクセス[を証明書(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)と共に設定します。
 
 >[!TIP]
 >
->マーケティング担当者は、プッシュ設定が検証済みかどうかを簡単に確認できます。 [ここ](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md)に行くだけ。
+>Marketoの管理者は、プッシュ設定が検証済みかどうかを簡単に確認できます。 [ここ](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md)に行くだけ。
 
 ## アプリ内メッセージのカスタムイベント{#custom-events-for-in-app-messages}
 
