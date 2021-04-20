@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360201
-description: 個人レポートの追加カスタム列 — Marketto Docs — 製品ドキュメント
+description: 個人レポートの追加カスタム列 —Marketoドキュメント — 製品ドキュメント
 title: 個人追加レポートのカスタム列
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # 人追加物レポートのカスタム列{#add-custom-columns-to-a-person-report}
 
