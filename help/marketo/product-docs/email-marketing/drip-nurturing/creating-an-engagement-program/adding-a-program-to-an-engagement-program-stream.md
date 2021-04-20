@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098134
-description: エンゲージメントプログラムストリームへのプログラムの追加 — Marketto Docs — 製品ドキュメント
+description: エンゲージメントプログラムストリームへのプログラムの追加 —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントプログラムストリームへのプログラムの追加
+exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
 
 ---
-
 
 # エンゲージメントプログラムストリームへのプログラムの追加{#adding-a-program-to-an-engagement-program-stream}
 
