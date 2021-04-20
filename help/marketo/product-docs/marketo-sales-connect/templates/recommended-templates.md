@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352510
-description: 推奨テンプレート — Marketto Docs — 製品ドキュメント
+description: 推奨テンプレート —Marketoドキュメント — 製品ドキュメント
 title: 推奨テンプレート
+exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
-
 
 # 推奨テンプレート{#recommended-templates}
 
@@ -33,13 +33,13 @@ Sales Connectの推奨テンプレートは、時間を節約しながら適切�
 
 次に、条件を選択します。 動的フィールドの条件が満たされると、テンプレートがレコメンデーションされます。 4つの異なる条件から選択します。
 
-**次に等しい**:値は完全に一致する必要があります（例：マーケティング担当者がマーケティング担当者と等しい）
+**次に等しい**:値は完全一致である必要があります(例：Marketo=Marketo)
 
 **次と等しくない**:値は完全一致以外にする必要があります（例： Marketing NationはMarketingと等しくありません）
 
-**次を含む**:値のみを含める必要があります(例： Marketo Rocks!Marketoを含む)
+**次を含む**:値のみを含める必要があります(例：Marketo岩！Marketoを含む)
 
-**次を含まない**:動的フィールドに値を入力しないでください(例： Marketo Rocks!はawesomeを含まない)
+**次を含まない**:動的フィールドに値を入力しないでください(例：Marketo岩！はawesomeを含まない)
 
 ## レコメンデーションテンプレートの外観{#what-a-recommended-template-looks-like}
 
