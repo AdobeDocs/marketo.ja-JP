@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951220
-description: モバイルプラットフォーム列 — Marketto Docs — 製品ドキュメントを含む人物パフォーマンスレポートの作成
+description: モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成 —Marketoドキュメント — 製品ドキュメント
 title: モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成
+exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # モバイルプラットフォーム列を使用した人物パフォーマンスレポートの作成{#build-a-people-performance-report-with-mobile-platform-columns}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorの自動提案で電子メールを見つけるには、1人以上のユーザーがiOSデバイスで電子メールの1つを開いている必要があります。 表示されない場合は、手動で入力して保存できます。
+   >Marketoの自動提案で電子メールを見つけるには、1人以上のユーザーがiOSデバイスで電子メールを開いている必要があります。 表示されない場合は、手動で入力して保存できます。
 
    次に、「Android」プラットフォーム用の2つ目のスマートリストを作成します。 これが終わったら、次のセクションに進みます。
 
