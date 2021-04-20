@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359510
-description: セグメントの削除 — Marketto Docs — 製品ドキュメント
+description: セグメントの削除 —Marketoドキュメント — 製品ドキュメント
 title: セグメントの削除
+exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # セグメントの削除{#delete-a-segmentation}
 
