@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11372299
-description: 電子メールエディタv2.0の概要 — Marketto Docs — 製品ドキュメント
+description: 電子メールエディタv2.0の概要 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールエディタv2.0の概要
+exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 電子メールエディタv2.0の概要{#email-editor-v-overview}
 
 電子メールエディタv2.0をアクティブにすると、いくつかの新機能が追加されました。
 
-**電子メールテンプレート選択**
+**メールテンプレートピッカー**
 
 新しい電子メールを作成すると、[電子メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)に移動します。
 
 ![](assets/starter-templates-1.png)
 
-**電子メールエディタ**
+**メールエディタ**
 
 電子メールの編集開始を見ると、エディターの外観が全く新しくなっているのがわかります。
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/three-4.png)
 
-**テキストバージョン**
+**テキスト バージョン**
 
 電子メールのHTMLバージョンとテキストバージョンを切り替えると、下部の便利なタブになりました。 [電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)のテキストバージョンを編集する方法を説明します。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ![](assets/preview3.png)
 
-**電子メールアクション**
+**メールアクション**
 
 **電子メールアクション**&#x200B;の下に、新機能がいくつかあります。 **画像またはファイルのアップロード**、Webから **画像を**&#x200B;グラブ。電子メール自体を新しい電子メールテンプレートとして保存することもできます。 名前と行き先を与えさえすればよい。
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 ![](assets/thirteen-1.png)
 
-**電子メールの設定**
+**メール設定**
 
 プリヘッダーを追加するオプションがあります。 「プリヘッダー」は、受信トレイで電子メールが表示されたときの件名行の後の短い概要テキストです。
 
