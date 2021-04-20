@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795510
-description: TAM階層 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: TAM階層 —Marketoドキュメント — 製品ドキュメント
 title: TAM階層
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # TAM階層{#tam-hierarchies}
 
@@ -33,7 +33,7 @@ TAM Hierarchiesを使用すると、[指定されたアカウント]ダッシュ
 
 >[!NOTE]
 >
->Marketing Toインターフェイスには、最大10レベル下に表示されます（親アカウントの子アカウントと孫アカウント）。ただし、作成できる子アカウントの数に制限はありません。
+>Marketoインターフェイスは、10レベルまで下に表示されます（親アカウントの子アカウントと孫アカウント）が表示されますが、作成できる子アカウントの数に制限はありません。
 
 [ワンクリック](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account)でターゲットと階層全体のレポートを作成します。
 
