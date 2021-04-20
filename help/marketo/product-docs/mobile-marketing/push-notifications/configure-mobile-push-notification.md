@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512454
-description: モバイルプッシュ通知の設定 — Marketto Docs — 製品ドキュメント
+description: モバイルプッシュ通知の設定 —Marketoドキュメント — 製品ドキュメント
 title: モバイルプッシュ通知の設定
+exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # モバイルプッシュ通知の設定{#configure-mobile-push-notification}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
    >
    >**アプリを起動** - **こ** れは、通知がタップされたときにアプリのホームページを表示します。**ディープリンクを** 使用して、アプリの他の領域、またはリンクを持つ他のアプリを開きます(詳しくは、下記の「 [ディープリンク](#Deeplink) URI」を参照)。
    >
-   >**ランディングページ**  — 指定したMarketorランディングページに移動します。
+   >**ランディングページ**  — 指定したMarketoランディングページに移動します。
    >
-   >**外部URL**  — マーケティング担当者以外のランディングページに移動します。
+   >**外部URL**  -Marketo以外のランディングページに移動します。
 
 1. カスタムのタップ操作用のディープリンクを挿入するには、「カスタム」をクリックし、フィールドに[ディープリンクURI](#Deeplink)を入力します。
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
-おめでとう！ これで、プッシュ通知を送信する準備が整いました。
+おめでとうございます！これで、プッシュ通知を送信する準備が整いました。
 
 ## ディープリンクURI {#deep-link-uris}
 
