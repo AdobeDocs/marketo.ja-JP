@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13796466
-description: Sales Connectの使用の手引き — Marketto Docs — 製品ドキュメント
+description: Sales Connectの使い始めに —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectの使い始めに
+exl-id: 8c5b1f65-449c-4304-b904-fc6442a47e5a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
 
 ---
-
 
 # Sales Connectの使い始めに{#getting-started-with-sales-connect}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 開始に必要なユーザー{#who-you-need-to-get-started}
 
-* マーケティング担当者の管理者ユーザー
+* Marketo管理者ユーザー
 * Sales Connect Adminユーザー
 * Salesforce管理者
 * Sales Connectユーザー
@@ -39,8 +39,8 @@ ht-degree: 0%
 セットアップを完了するには、次の操作を行う必要があります。
 
 * [Sales ConnectとSalesforceの接続](#sfdc)
-* [Sales ConnectをMarketorに接続する前に資格情報を取得](#acquire)
-* [Sales ConnectとMarketoの接続](#mkto)
+* [Sales ConnectをMarketoに接続する前に資格情報を取得](#acquire)
+* [Connect Sales Connect (Marketoとの接続)](#mkto)
 * [ユーザーの招待/プロビジョニング](#IPU)
 
 オプションで、次のこともできます。
@@ -55,11 +55,11 @@ Sales ConnectアカウントをSalesforceアカウントに接続するには、
 >
 >接続するSalesforceのインスタンスは、Marketoに接続されている（または接続される）のと同じインスタンスである必要があります。
 
-## Sales ConnectをMarketorに接続する前に資格情報を取得する{#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Sales ConnectをMarketoに接続する前に資格情報を取得する{#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Marketo内から資格情報のセットを取得する必要があります。 これらの資格情報は、後でSales Connect管理者がMarketoをSales Connectに接続する際に使用します。
+Marketo内から資格情報を取得する必要があります。 これらの資格情報は、後でSales Connect管理者がMarketoとSales Connectを接続する際に使用します。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
@@ -67,7 +67,7 @@ Marketo内から資格情報のセットを取得する必要があります。 
 
    ![](assets/two.png)
 
-1. 以下のマーケティング担当者の資格情報を選択し、Sales Connect管理者に送信します。Munchkin ID、Client ID、Client Secret。
+1. 以下のMarketo資格情報を選択し、Sales Connect管理者に送信します。Munchkin ID、Client ID、Client Secret。
 
    ![](assets/3.jpg)
 
@@ -75,25 +75,25 @@ Marketo内から資格情報のセットを取得する必要があります。 
    >
    >上記の情報をコピーして貼り付ける場合は、スペースが追加されていないことを確認してください。
 
-## Sales ConnectをMarketoに接続{#connect-sales-connect-to-marketo}
+## セールス・コネクトをMarketoに接続{#connect-sales-connect-to-marketo}
 
 1. 「Sales Connect」で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/four.png)
 
-1. 「管理者設定」で、「**マーケティング先**」を選択します。
+1. 「管理設定」で、**Marketo**&#x200B;を選択します。
 
    ![](assets/eight.png)
 
-1. Marketor管理者から提供されたMarketoの資格情報を入力し、「**接続**」をクリックします。
+1. Marketo管理者から提供されたMarketoの資格情報を入力し、**「接続**」をクリックします。
 
    ![](assets/credentials.png)
 
 ## ユーザーの招待/プロビジョニング{#invite-provision-users}
 
-お客様のアカウントに（以前のToutAppから）既に存在するユーザーが存在する場合は、Sales ConnectのMarketoセクションの&#x200B;**「チームアクセス**」タブに表示されます。
+お客様のアカウントに既に存在するユーザー（旧称ToutApp）は、Sales Connectの「Marketo」セクションの「**チームアクセス**」タブに表示されます。
 
-このページから、Marketo Sales Connect Userとしてチームをプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](https://docs.marketo.com/display/TOUT/Invite+Team+Members)の手順に従ってください。
+このページから、チームをMarketoのSales Connect Userとしてプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](https://docs.marketo.com/display/TOUT/Invite+Team+Members)の手順に従ってください。
 
 >[!CAUTION]
 >
@@ -107,7 +107,7 @@ Marketo内から資格情報のセットを取得する必要があります。 
 
    ![](assets/users.png)
 
-1. Marketor購読でワークスペースが有効になっている場合、各ユーザーまたは一連のユーザーにワークスペースを一括して割り当てることができます。 ワークスペースが選択されていない場合は、ワークスペースをデフォルトマーケティングワークスペースに割り当てます。
+1. Marketo購読でワークスペースが有効になっている場合、各ユーザーまたは一連のユーザーにワークスペースを一括して割り当てることができます。 ワークスペースが選択されていない場合は、デフォルトのMarketoワークスペースに割り当てます。
 
    ![](assets/nine.jpg)
 
@@ -123,8 +123,8 @@ Marketo内から資格情報のセットを取得する必要があります。 
 
 ## SandboxでのSales Connectのテスト{#test-sales-connect-in-your-sandbox}
 
-Marketo Sales ConnectをMarketo Sandboxを使用してテストしたいチームの場合は、リクエストに応じて追加のSales Connectアカウントをプロビジョニングできます。 これは、Marketo Sandboxを購入した顧客、またはMarketo Sandboxの一部として購入した顧客のみに対して行われます。 サンドボックスの取得に関心がある場合は、マーケティング担当者にお問い合わせください。
+MarketoセールスコンネクトをMarketoサンドボックスでテストしたいチームの場合は、リクエストに応じて追加のSales Connectアカウントをプロビジョニングできます。 これは、Marketoサンドボックスを購入したお客様、またはMarketoバンドルの一部として購入したお客様向けです。 サンドボックスの取得に関心がある場合は、Marketoのアカウントマネージャーにお問い合わせください。
 
 >[!NOTE]
 >
->同じ電子メールIDを持つSales Connectアカウントを複数のインスタンスにプロビジョニングすることはできません。 つまり、追加のSales Connectアカウントを持っていて、Marketo Sandboxインスタンスでテストを行う場合は、各アカウントで異なる電子メールIDを使用する必要があります。
+>同じ電子メールIDを持つSales Connectアカウントを複数のインスタンスにプロビジョニングすることはできません。 つまり、追加のSales Connectアカウントを使用して、MarketoSandboxインスタンスでテストを行う場合は、各アカウントで異なる電子メールIDを使用する必要があります。
