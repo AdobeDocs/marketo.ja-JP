@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352503
-description: 共有テンプレート — Marketto Docs — 製品ドキュメント
+description: 共有テンプレート —Marketoドキュメント — 製品ドキュメント
 title: 共有テンプレート
+exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # 共有テンプレート{#shared-templates}
 
