@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359798
-description: 追加追加のランディングページCNAME - Marketto Docs — 製品ドキュメント
+description: 追加追加ランディングページCNAME -Marketoドキュメント — 製品ドキュメント
 title: 追加追加のランディングページCNAME
+exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-
 # 追加追加のランディングページCNAME {#add-additional-landing-page-cnames}
 
-様々なURLがマーケティング担当者のランディングページを指すようにランディングページCNAMEを追加する必要がある場合があります。 次の手順に従って、複数のドメインを管理します。
+様々なURLがMarketoランディングページを指すようにランディングページCNAMEを追加する必要がある場合があります。 次の手順に従って、複数のドメインを管理します。
 
 >[!CAUTION]
 >
