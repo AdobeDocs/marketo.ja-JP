@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352473
-description: Salesforce - Marketto Docs — 製品ドキュメントのSales Connectボタンのインストール方法
+description: Salesforce -Marketoドキュメント — 製品ドキュメントの「Sales Connect」ボタンのインストール方法
 title: SalesforceにSales Connectボタンをインストールする方法
+exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-
 # SalesforceにSales Connectボタンをインストールする方法{#how-to-install-sales-connect-buttons-in-salesforce}
 
-Marketo Sales Connectとのコールのインストール、Marketo Sales Eメールの送信、キャンペーンへのコールの送信が簡単に行え追加ます。 これらのフィールドをインストールするには、Salesforceの管理者権限が必要です。
+Marketo・セールス・コネクトとの通話、Marketo・セールス・メールの送信、キャンペーンへの追加通話を簡単にインストールできます。 これらのフィールドをインストールするには、Salesforceの管理者権限が必要です。
 
 1. [Salesforce.comにログインします。](https://salesforce.com)
 1. 「**カスタマイズ**」をクリックします。
