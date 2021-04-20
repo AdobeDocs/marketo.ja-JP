@@ -1,23 +1,23 @@
 ---
 unique-page-id: 6095029
-description: 売上高モデル — Marketto Docs — 製品ドキュメントでのGoogle AdWordsコンバージョンの設定
+description: 売上高モデル —Marketoドキュメント — 製品ドキュメントでのGoogle AdWordsコンバージョンの設定
 title: 売上高モデルでのGoogle AdWordsコンバージョンの設定
+exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-
 # 売上高モデルでのGoogle AdWordsコンバージョンの設定{#set-google-adwords-conversions-in-the-revenue-model}
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
+Google AdWordsアカウントをMarketoにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
 
 >[!NOTE]
 >
->これは、MarkettoからGoogle AdWordsへのプッシュ統合です。 コンバージョンデータは、Google AdWordsポータルに&#x200B;_のみ_&#x200B;表示され、Marketo UI _には表示されません。_
+>これは、MarketoからGoogle AdWordsへのプッシュ統合です。 コンバージョンデータは、Google AdWordsポータルに&#x200B;__&#x200B;のみ&#x200B;_表示され、MarketoのUI_&#x200B;には表示されません。
 
 [Googleのオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)の詳細を表示します。 AdWordsのオフラインコンバージョンを売上高モデルの1つ以上のステージにマッピングします。 マッピングを行う方法は3つあります。
 
@@ -25,7 +25,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 * Stage Action
 * AdWordsマッピング
 
-Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラインコンバージョンを作成できます。
+Stage Actionを使用する場合は、Marketoから新しいAdWordsオフラインコンバージョンを作成できます。
 
 >[!PREREQUISITES]
 >
@@ -49,7 +49,7 @@ Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラ�
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Marketoステージにマップする&#x200B;**AdWordsコンバージョン**&#x200B;を選択します。
+1. Marketoのステージにマップする&#x200B;**AdWordsコンバージョン**&#x200B;を選択します。
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
@@ -89,7 +89,7 @@ Stage Actionを使用する場合は、MarketからAdWordsの新しいオフラ�
 
 >[!CAUTION]
 >
->Marketorから作成された新しいコンバージョンでは、「最適化」設定が有効になっています。 つまり、AdWords入札戦略では、これらのコンバージョンに対する入札を最適化できます。 この設定は、AdWordsアカウントで変更できます。
+>Marketoから作成された新しいコンバージョンでは、「最適化」設定が有効になっています。 つまり、AdWords入札戦略では、これらのコンバージョンに対する入札を最適化できます。 この設定は、AdWordsアカウントで変更できます。
 
 1. 「**ステージアクション**」ドロップダウンで、「**AdWordsコンバージョンを設定**」を選択します。
 
@@ -125,4 +125,4 @@ AdWordsのマッピングを使用して、すべてのモデルステージをA
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-オフラインコンバージョンデータを表示するには、AdWordsアカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketoからインポートしたオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。
+オフラインコンバージョンデータを表示するには、AdWordsアカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketoからインポートしたオフラインコンバージョンごとにコンバージョン数列を作成することをお勧めします。
