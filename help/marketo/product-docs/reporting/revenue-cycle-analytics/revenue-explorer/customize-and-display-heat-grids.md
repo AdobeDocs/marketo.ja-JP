@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514224
-description: ヒートグリッドのカスタマイズと表示 — Marketto Docs — 製品ドキュメント
+description: 熱グリッドのカスタマイズと表示 —Marketoドキュメント — 製品ドキュメント
 title: 熱グリッドのカスタマイズと表示
+exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 熱グリッドのカスタマイズと表示{#customize-and-display-heat-grids}
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   すごい！ これで&#x200B;**熱グリッド**&#x200B;が完成しました。
+   やりましたね！これで&#x200B;**熱グリッド**&#x200B;が完成しました。
