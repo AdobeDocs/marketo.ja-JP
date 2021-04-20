@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17727818
-description: パーソナルの使用 — Marketto Docs — 製品ドキュメント
+description: パーソナルの使用 —Marketoドキュメント — 製品ドキュメント
 title: 人物の使用
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # パーソナス{#using-personas}の使用
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 追加{#add-a-persona}
 
-1. 「マーケティング」で、**管理者**&#x200B;をクリックします。
+1. マイMarketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorインスタンスと同期された、タイプが「picklist」のSalesforceカスタムフィールドのみが、パーソナの作成時に「persona」フィールドドロップダウンで使用できます。
+   >個人の作成時に「個人」フィールドドロップダウンで使用できるのは、Marketoインスタンスと同期された、Salesforceカスタムフィールドタイプ「picklist」のみです。
 
 ## 表示ユーザー{#view-your-personas}
 
