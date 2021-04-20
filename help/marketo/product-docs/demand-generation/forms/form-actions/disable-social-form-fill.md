@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098242
-description: ソーシャルフォームの記入の無効化 — Marketto Docs — 製品ドキュメント
+description: ソーシャルフォームの入力を無効にする —Marketoドキュメント — 製品ドキュメント
 title: ソーシャルフォームの入力を無効にする
+exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルフォームの入力を無効にする{#disable-social-form-fill}
 
