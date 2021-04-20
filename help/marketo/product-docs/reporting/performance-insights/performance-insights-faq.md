@@ -1,21 +1,21 @@
 ---
 unique-page-id: 12979858
-description: パフォーマンスインサイトFAQ — マーケティングツールドキュメント — 製品ドキュメント
+description: パフォーマンスインサイトFAQ -Marketoドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトFAQ
+exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1357'
 ht-degree: 0%
 
 ---
 
-
 # パフォーマンスインサイトFAQ {#performance-insights-faq}
 
 ## 「エンゲージメント」タブの「成功」の定義は何ですか。{#what-is-the-definition-of-success-in-the-engagement-tab}
 
-成功とは、マーケティングにおける意味のあるインタラクションの尺度です。 プログラムの目的は、人や見込み客との有意義なインタラクションを作成することです。 成功は、その目標を達成したステータスに達したときにマークされます。 ウェビナーに参加したり、電子メール内のリンクをクリックしたり、Webフォームに入力したりできます。 成功は、プログラムのチャネルによって異なります。
+成功はMarketoでの有意義な交流の尺度です。 プログラムの目的は、人や見込み客との有意義なインタラクションを作成することです。 成功は、その目標を達成したステータスに達したときにマークされます。 ウェビナーに参加したり、電子メール内のリンクをクリックしたり、Webフォームに入力したりできます。 成功は、プログラムのチャネルによって異なります。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## MPIはどのCRMでも動作しますか。{#will-mpi-work-with-any-crm}
 
-はい。 技術的には、MPIはCRMと直接やり取りしてデータ同期を行いません。 MPIは、Marketo AnalyticsData Warehouseに保存されたデータを利用します。 CRMの同期はリード管理アプリケーションで行われるので、リード管理アプリケーションに統合されたマーケティング担当者がサポートするCRMには、データが正しく表示されます。 ただし、CRMのオポチュニティフィールドは、Marketoのオポチュニティフィールドに正しくマップされている必要があります。
+はい. 技術的には、MPIはCRMと直接やり取りしてデータ同期を行いません。 MPIは、Marketo分析Data Warehouseに保存されたデータを利用します。 CRMの同期はリード管理アプリケーションで行われるので、リード管理アプリケーションと統合されたMarketoでサポートされるCRMでは、データが正しく表示されます。 ただし、CRMオポチュニティフィールドは、Marketoオポチュニティフィールドに正しくマップする必要があります。
 
 ## 他のMarketing Analytics製品(ARB、RCE、RCA、プログラム分析)はありません。 MPIは私のために機能するの？{#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -31,7 +31,7 @@ MPIは、リード管理アプリケーションに対する独立したアド�
 
 ## RCAはプログラムのパフォーマンスデータも表示します。 MPIとRCAに表示されるデータに違いはありますか。{#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-いいえ。 MPIソースのデータは、RCAと同じデータウェアハウスから取得されます。 したがって、この2つのデータの違いは一切見られません。 RCAを使用すると、自分のレポートをその場で作成できます。 MPIを使用すると、わかりやすいビジュアルダッシュボードにアクセスできます。
+いいえ. MPIソースのデータは、RCAと同じデータウェアハウスから取得されます。 したがって、この2つのデータの違いは一切見られません。 RCAを使用すると、自分のレポートをその場で作成できます。 MPIを使用すると、わかりやすいビジュアルダッシュボードにアクセスできます。
 
 ## MPIでプログラム（運用環境など）の一部を表示したくない。 特定のプログラムの表示/非表示を制御する方法を教えてください。{#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -82,7 +82,7 @@ MPIは、すべてのオポチュニティが分析に含まれているかど�
 
 ## 標準のSalesforce Opportunity Amountフィールドではなく、売上高のレポートにカスタムのSalesforce Opportunityフィールドを使用したい。 MPIは私にそれを許可するのか？{#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-はい。 [マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support) サポートは、フィールドタイプが通貨である限り、マーケティング担当者の「Opportunity Amount」フィールドをカスタムのSalesforce Opportunityフィールドに再マップできます。MPIは「Marketo Opportunity amount」フィールドを指すので、MPIは、再マッピングされたカスタムSalesforceフィールドのデータを使用できます。
+はい. [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) サポートでは、フィールドタイプが通貨である限り、Marketoの「Opportunity Amount」フィールドをカスタムのSalesforce Opportunityフィールドに再マップできます。MPIは「Salesforce amount」フィールドを指すので、MPIは、再マッピングされたカスタムSalesforceフィールドのデータを使用できます。
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPIは、ファネルの上部から売上高への影響まで、プログラ�
 
 ## MPIでアカウント・ベースの戦略の成功を測定できますか。{#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-はい。 MPIは[Marketto TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)と統合され、ABMアカウントリストをMPIにシームレスに取り込みます。 「ABMアカウントリスト」フィルタを使用して、データをフィルタするABMリストを選択できます。
+はい. MPIは[MarketoTAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)と統合され、ABMアカウントリストをMPIにシームレスに取り込みます。 「ABMアカウントリスト」フィルタを使用して、データをフィルタするABMリストを選択できます。
 
 ## MPIを購入するとすぐにアトリビューションが利用できますか。{#is-attribution-instantly-available-when-i-purchase-mpi}
 
-マーケティングアトリビューション機能は、MPIを購入したお客様が利用できます。 ただし、オポチュニティとプログラムのデータがMPIに正しく流れるように、[適切なセットアップ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)が必要です。
+Marketoアトリビューション機能は、お客様がMPIを購入する際に利用できます。 ただし、オポチュニティとプログラムのデータがMPIに正しく流れるように、[適切なセットアップ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)が必要です。
 
 ## アトリビューションの設定に必要な作業は何ですか？{#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -113,7 +113,7 @@ MPIは、ファネルの上部から売上高への影響まで、プログラ�
    1. オポチュニティがCRMと同期されていることを確認する
    1. アトリビューション設定が「明示的」に設定されている場合は、オポチュニティに関する連絡先の役割が表示されていることを確認します
    1. アトリビューション設定をハイブリッドに変更することをお勧めします
-   1. プログラム設定
+   1. プログラムセットアップ
 
       1. プログラムにプログラムコストを含める
       1. 解析の動作を確認して、プログラムを解析に含めるかどうかを指定します
