@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718656
-description: 新しい売上高モデルの作成 — Marketto Docs — 製品ドキュメント
+description: 新しい売上高モデルの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しい売上高モデルの作成
+exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # 新しい売上高モデルの作成{#create-a-new-revenue-model}
 
-1. 新しい売上高サイクルモデルを作成するには、マイマーケティングホーム画面の「**Analytics**」ボタンをクリックします。
+1. 新しい売上高サイクルモデルを作成するには、マイMarketoホーム画面の「**Analytics**」ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
