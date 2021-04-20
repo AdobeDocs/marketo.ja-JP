@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377005
-description: Sales Insight - Marketto Docs — 製品ドキュメントでRSSを有効にする
+description: Sales Insight -Marketoドキュメント — 製品ドキュメントでRSSを有効にする
 title: Sales InsightでのRSSの有効化
+exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Sales Insight用のRSSを有効にする{#enable-rss-for-sales-insight}
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-MarketorユーザーがSalesforceだけでなくRSSフィードにもリードフィードを表示したい場合、まずMarketor管理者が有効にする必要があります。 簡単です。
+Marketoのユーザーが、SalesforceだけでなくRSSフィードでもリードフィードの表示を希望する場合、Marketoの管理者が最初に有効にする必要があります。 簡単です。
 
-1. 「マーケティング」で、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
+1. マイMarketoで、**管理者**&#x200B;をクリックし、**販売インサイト**&#x200B;をクリックします。
 
    ![](assets/set-up-rss-1-hands.png)
 
