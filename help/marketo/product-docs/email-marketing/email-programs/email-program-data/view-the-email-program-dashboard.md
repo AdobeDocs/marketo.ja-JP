@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359469
-description: 電子メールプログラムダッシュボードの表示- Marketto Docs — 製品ドキュメント
+description: 電子メールプログラムダッシュボードの表示-Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムダッシュボードの表示
+exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムダッシュボードの表示{#view-the-email-program-dashboard}
 
