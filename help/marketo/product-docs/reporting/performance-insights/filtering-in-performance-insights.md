@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12979012
-description: パフォーマンスインサイトでのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
+description: パフォーマンスインサイトでのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトでのフィルタリング
+exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '323'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # パフォーマンスインサイトでのフィルタリング{#filtering-in-performance-insights}
 
@@ -48,12 +48,12 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>ABMアカウントリスト</strong></td> 
-   <td colspan="1">Marketo ABMを使用している場合、すべてのアカウントリストはMPIと同期され、「ABMアカウントリスト」フィルターを使用して表示されます。 アカウントリストを選択して、そのアカウントに結果をフィルターできます。<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">ABMアカウントリストの詳細を表示します。</a></td> 
+   <td colspan="1"><strong>ABM アカウントリスト</strong></td> 
+   <td colspan="1">MarketoABMを使用している場合は、すべてのアカウントリストがMPIと同期され、「ABMアカウントリスト」フィルターを使用して表示されます。 アカウントリストを選択して、そのアカウントに結果をフィルターできます。<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">ABMアカウントリストの詳細を表示します。</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>ABM指定アカウント</strong></td> 
-   <td colspan="1">Marketo ABMを使用している場合は、すべての名前付きアカウントがMPIと同期され、「ABM名前付きアカウント」フィルターを使用して表示されます。 名前付きのアカウントを選択して、そのアカウントに結果をフィルターできます。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM名前付きアカウントの詳細を表示します。</a></td> 
+   <td colspan="1"><strong>ABM 重点顧客</strong></td> 
+   <td colspan="1">MarketoABMを使用している場合は、すべての名前付きアカウントがMPIと同期され、「ABM名付きアカウント」フィルターを使用して表示されます。 名前付きのアカウントを選択して、そのアカウントに結果をフィルターできます。<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM名前付きアカウントの詳細を表示します。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>カスタム属性</strong></td> 
@@ -64,7 +64,7 @@ ht-degree: 0%
    <td colspan="1"><p>プログラムコスト期間。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>オポチュニティタイプ</strong></p></td> 
+   <td colspan="1"><p><strong>商談のタイプ</strong></p></td> 
    <td colspan="1"><p>Salesforce(CRM)設定のOpportunityオブジェクトに設定されたオポチュニティタイプ。</p></td> 
   </tr> 
   <tr> 
@@ -72,8 +72,8 @@ ht-degree: 0%
    <td><p>タグは、プログラムを記述するために使用されます。 必要な数だけ作成でき、それぞれに一意の値を設定できます。 <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">プログラムタグの使い方を説明します。</a></p></td> 
   </tr> 
   <tr> 
-   <td><strong>Workspace</strong></td> 
-   <td><p>ワークスペースは、マーケティングアセットを保持するMarketorの別々の領域です。例えば、次のような領域があります。プログラム、ランディングページ、電子メールなど。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">ワークスペースについて詳しくは、こちらを参照してください。</a></p></td> 
+   <td><strong>ワークスペース</strong></td> 
+   <td><p>ワークスペースは、Marketoの次のようなマーケティングアセットを保持する別々の領域です。プログラム、ランディングページ、電子メールなど。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">ワークスペースについて詳しくは、こちらを参照してください。</a></p></td> 
   </tr> 
  </tbody> 
 </table>
