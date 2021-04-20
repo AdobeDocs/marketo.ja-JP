@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950561
-description: カスタムイベント- Marketto Docs — 製品ドキュメントのコンバージョンスクリプト
+description: カスタムイベント-Marketoドキュメント — 製品ドキュメントの変換スクリプト
 title: カスタムイベントのコンバージョンスクリプト
+exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # カスタムイベントの変換スクリプト{#conversion-script-for-custom-events}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >両方のスクリプトをコピーして貼り付けるのは、マーケティング担当者以外のWebサイトを対象とする場合に限ります。
+   >Marketo以外のWebサイトを使用する場合は、両方のスクリプトをコピーして貼り付けることを忘れないでください。
 
 ## ローダスクリプト{#retrieve-the-loader-script}を取得します
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 この例では、Webページに「#myButtonId」というIDのボタンがあります。 そのボタンをクリックすると、その人は目標を完了したと登録されます。
 
-すごい！ Webサイトで、Marketoを使用したカスタムソーシャルプロモーションの目標を捕捉するようになりました。
+やりましたね！Webサイトは、Marketoと共にソーシャルプロモーションのカスタム目標を捕捉しています。
 
 >[!MORELIKETHIS]
 >
