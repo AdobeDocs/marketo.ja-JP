@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360401
-description: チャネルの効果とプログラムアナライザーとの比較 — Marketto Docs — 製品ドキュメント
+description: チャネルの効果とプログラムアナライザとの比較 —Marketoドキュメント — 製品ドキュメント
 title: チャネルの効果とプログラムアナライザとの比較
+exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
-
 
 # チャネルの効果とプログラムアナライザとの比較{#compare-channel-effectiveness-with-the-program-analyzer}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[プログラム分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. **マイマーケティング**&#x200B;の&#x200B;**Analytics**&#x200B;をクリックします。
+1. **マイMarketo**&#x200B;の&#x200B;**Analytics**&#x200B;をクリックします。
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
