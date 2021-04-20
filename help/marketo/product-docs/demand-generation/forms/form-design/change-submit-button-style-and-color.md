@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359620
-description: 送信ボタンのスタイルと色の変更 — Marketto Docs — 製品ドキュメント
+description: 送信ボタンのスタイルと色の変更 —Marketoドキュメント — 製品ドキュメント
 title: 送信ボタンのスタイルと色の変更
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # 送信ボタンのスタイルと色を変更{#change-submit-button-style-and-color}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >送信ボタンを左右にドラッグして位置を変更できることをご存じでしたか。 それは簡単です。 試してみろ！
+   >送信ボタンを左右にドラッグして位置を変更できることをご存じですか。 それは簡単です。 試してみろ！
 
 1. 好みのボタンスタイルを選択します（上下にスクロール）。
 
