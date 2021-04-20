@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger — 送信元住所 — Markettoドキュメント — 製品ドキュメント
+description: Champion/Challenger — 送信元住所 —Marketoドキュメント — 製品ドキュメント
 title: チャンピオン/チャレンジャー — 住所から
+exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：送信元アドレス{#champion-challenger-from-address}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
-   進め！ 続けよう。
+   進捗! 続けよう。
 
    >[!MORELIKETHIS]
    >
