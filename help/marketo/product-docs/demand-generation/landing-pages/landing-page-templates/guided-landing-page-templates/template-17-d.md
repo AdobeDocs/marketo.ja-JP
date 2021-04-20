@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438200
-description: テンプレート17-D - Marketto Docs — 製品ドキュメント
+description: テンプレート17-D -Marketoドキュメント — 製品ドキュメント
 title: テンプレート17-D
+exl-id: 32ee7caa-3053-4375-9267-c25337f83901
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート17-D {#template-d}
 
