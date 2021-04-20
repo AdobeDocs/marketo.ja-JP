@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951640
-description: 興味深い瞬間の使用 — Marketto Docs — 製品ドキュメント
+description: 興味深い場面の使用 —Marketoドキュメント — 製品ドキュメント
 title: 興味深い瞬間の使用
+exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-
 # 興味深い瞬間の使用{#using-interesting-moments}
 
-興味深い瞬間は、Marketo Sales Insightアプリを通してセールスチームと連絡を取る上で重要です。
+興味深い瞬間が、MarketoのSales Insightアプリを通してセールスチームと連絡を取る上で重要なポイントです。
 
 >[!AVAILABILITY]
 >
->これらは、Marketo Sales Insightおよび[Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)のお客様のみ利用できます。
+>これらは、Marketo・セールス・インサイトと[Marketo・セールス・コネクト](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)のお客様のみ利用できます。
 
 ## 面白い瞬間って何？{#what-is-an-interesting-moment}
 
@@ -47,17 +47,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >また、発生した日付と、興味深い瞬間が追加された方法（リードアクション/フローステップ、SOAP API）も追加します。
+   >また、Marketoは、発生した日付と、興味深い瞬間が追加された方法（リードアクション/フローステップ、SOAP API）も追加します。
 
 ## どうすればもっと面白くなれる？ {#how-can-this-get-even-more-interesting}
 
-トークン！ リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
+トークン! リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
 
 >[!TIP]
 >
 >5つの興味深い時間がある開始の後、セールスチームと協力して、どの情報を見たいかを判断します。
 
-## マーケットで面白い瞬間はどんな感じに見えますか？ {#what-does-an-interesting-moment-look-like-in-marketo}
+## Marketoで面白い瞬間はどんな感じ？ {#what-does-an-interesting-moment-look-like-in-marketo}
 
 興味深い瞬間が[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)に表示されます。
 
@@ -65,12 +65,12 @@ ht-degree: 0%
 
 ## Salesforceで面白い瞬間はどのように見えますか。 {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をインストールすると、リード、連絡先、アカウント、またはオポチュニティページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
+[Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をインストールすると、リード、連絡先、アカウント、またはオポチュニティのページに興味深い瞬間が表示されます。 また、リードフィード、ベストベット、および視聴リストのSales Insightダッシュボードにも表示されます。
 
 ![](assets/six.png)
 
 ## Salesforce1での面白い瞬間はどのように見えますか。{#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-Marketo Sales Insight for Salesforce1をインストールまたは更新すると、リードの関連リンクの下に興味深い瞬間が表示されます。
+Salesforce1用のMarketo販売インサイトをインストールまたは更新した後、リードの関連リンクの下に興味深い瞬間が表示されます。
 
 ![](assets/seven.png)
