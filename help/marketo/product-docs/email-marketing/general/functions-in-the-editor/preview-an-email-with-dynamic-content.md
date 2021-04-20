@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900548
-description: 動的コンテンツを含む電子メールのプレビュー- Marketto Docs — 製品ドキュメント
+description: 電子メールと動的コンテンツのプレビュー-Marketoドキュメント — 製品ドキュメント
 title: 動的コンテンツを使用した電子メールのプレビュー
+exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # 動的コンテンツを含む電子メールのプレビュー{#preview-an-email-with-dynamic-content}
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-素晴らしい！ 電子メールをプレビューして、コンテンツが意図したとおりに表示されることを確認します。
+OK！電子メールをプレビューして、コンテンツが意図したとおりに表示されることを確認します。
