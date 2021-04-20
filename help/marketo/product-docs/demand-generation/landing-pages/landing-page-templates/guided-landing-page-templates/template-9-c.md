@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783987
-description: テンプレート9-C - Marketto Docs — 製品ドキュメント
+description: テンプレート9-C -Marketoドキュメント — 製品ドキュメント
 title: テンプレート9 ～ C
+exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート9-C {#template-c}
 
