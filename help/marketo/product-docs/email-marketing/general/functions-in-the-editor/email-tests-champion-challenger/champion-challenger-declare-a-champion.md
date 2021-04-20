@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger - Championの宣言 — Marketto Docs — 製品ドキュメント
+description: Champion/Challenger — チャンピオンの宣言 —Marketoドキュメント — 製品ドキュメント
 title: チャンピオン/チャレンジャー — チャンピオンを宣言
+exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：チャンピオンを宣言{#champion-challenger-declare-a-champion}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**日付の宣言**&#x200B;まで、マーケット氏は古いチャンピオンと挑戦者を送り続けます。 日時に達すると、新しいチャンピオンのみが送信されます。
+   >**日付宣言**&#x200B;まで、Marketoは古いチャンピオンと挑戦者を送り続ける。 日時に達すると、新しいチャンピオンのみが送信されます。
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
