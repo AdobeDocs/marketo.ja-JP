@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359801
-description: URLビルダーの使用 — マーケティングドキュメント — 製品ドキュメント
+description: URLビルダーの使用 —Marketoドキュメント — 製品ドキュメント
 title: URLビルダーの使用
+exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # URLビルダーの使用{#using-the-url-builder}
 
-URLビルダーは、Marketto非表示のフォームフィールドに値を入力できるURLの作成に役立ちます。
+URLビルダーは、Marketoの非表示フォームフィールドに入力できるURLの作成に役立ちます。
 
 >[!PREREQUISITES]
 >
@@ -31,4 +31,4 @@ URLビルダーは、Marketto非表示のフォームフィールドに値を入
    >
    >ビルダーに使用できるフィールドがない場合は、フォームに非表示のフィールドがあり、[URLパラメーター](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)を受け入れるように設定されていることを確認してください。
 
-素晴らしい仕事！ これで、URLをコピー&amp;ペーストしてWeb上で使用できるようになります。
+すばらしい！ これで、URLをコピー&amp;ペーストしてWeb上で使用できるようになります。
