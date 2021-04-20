@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359821
-description: ソーシャルシェア要件の設定 — Marketto Docs — 製品ドキュメント
+description: ソーシャルシェア要件の設定 —Marketoドキュメント — 製品ドキュメント
 title: ソーシャルシェアの要件を設定
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルシェア要件の設定{#set-social-share-requirement}
 
