@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352578
-description: Gmail追加からSalesforceへの電子メール — Marketto Docs — 製品ドキュメント
+description: Gmail追加からSalesforceへの電子メール —Marketoドキュメント — 製品ドキュメント
 title: GmailからSalesforce追加への電子メール
+exl-id: 0d7cd12e-3d68-4b0a-a3a0-97c8ac774537
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Gmail {#add-email-to-salesforce-from-gmail}追加からSalesforceへの電子メール
 
