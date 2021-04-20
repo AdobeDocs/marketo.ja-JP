@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356587
-description: 電子メールへ追加の添付ファイルまたは追跡可能なコンテンツ — Marketto Docs — 製品ドキュメント
+description: 電子メールへ追加の添付ファイルまたは追跡可能なコンテンツ —Marketoドキュメント — 製品ドキュメント
 title: 電子メ追加ールへの添付ファイルまたは追跡可能なコンテンツ
+exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # 電子メ追加ールへの添付ファイルまたは追跡可能なコンテンツ{#add-an-attachment-or-trackable-content-to-your-email}
 
