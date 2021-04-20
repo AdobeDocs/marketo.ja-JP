@@ -1,24 +1,24 @@
 ---
 title: override-person-restrictions-in-a-smart-キャンペーン
 description: スマートキャンペーンの個人制限の上書き
+exl-id: efdd6c68-a95e-4b2a-9249-e2e1f550b628
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
 # スマートキャンペーンの個人制限の上書き
 
 <br> 
 
-Marketorでは、スマートキャンペーンに振り分けられる最大人数を設定できます。これにより、データベース全体を誤って電子メールで送信するのを防ぐことができます。 この制限を上書きする場合は、次の方法を使用します。
+Marketoは、スマートキャンペーンに適合できる最大人数を設定できます。これにより、データベース全体を誤って電子メールで送信するのを防ぐことができます。 この制限を上書きする場合は、次の方法を使用します。
 
 >[!IMPORTANT]
 >
->Marketor [!UICONTROL 管理者]のスマートキャンペーン](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns)に対する個人制限を必ず[有効にしてください。
+>[Marketo[!UICONTROL 管理者]のスマートキャンペーン](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns)に対する個人制限を有効にしてください。
 
 1. スマートキャンペーンを探し、**[!UICONTROL スケジュール]**&#x200B;をクリックします。
 
