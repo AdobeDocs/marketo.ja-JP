@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718683
-description: ステージの承認とリードの売上高モデルへの割り当て — Marketto Docs — 製品ドキュメント
+description: ステージの承認と売上高モデルへのリードの割り当て —Marketoドキュメント — 製品ドキュメント
 title: ステージの承認と売上高モデルへのリードの割り当て
+exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
 
 ---
 
-
 # ステージの承認と売上高モデルへのリードの割り当て{#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 既存のリードを追加し、新しいリードの割り当てルールを作成して、**売上高モデル**&#x200B;を稼働させます。
 
-## 承認ステージ{#approving-stages}
+## 承認するステージ {#approving-stages}
 
 リードを追加する前に、モデルのステージを承認します。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 1. すべてのリードがモデルの様々なステージに割り当てられるまで繰り返します。
 
-素晴らしい！ 新規引合をステージに割り当てる方法を指定するには、割り当てルールを作成します。
+OK！新規引合をステージに割り当てる方法を指定するには、割り当てルールを作成します。
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 新規リード：割り当て規則の作成{#new-leads-create-assignment-rules}
 
-1. 「**マーケティング先ホーム**」を再度クリックし、「**解析**」を選択します。
+1. 「**Marketoホーム**」を再度クリックし、「**解析**」を選択します。
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
