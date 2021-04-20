@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359669
-description: ストリームコンテンツのアクティブ化と非アクティブ化 — Marketto Docs — 製品ドキュメント
+description: ストリームコンテンツのアクティブ化と非アクティブ化 —Marketoドキュメント — 製品ドキュメント
 title: ストリームコンテンツのアクティブ化と非アクティブ化
+exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # ストリームコンテンツのアクティブ化と非アクティブ化{#activate-and-deactivate-stream-content}
 
