@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359677
-description: ライトボックス — Marketto Docs — 製品ドキュメントでのフォームの使用
+description: ライトボックスでのフォームの使用 —Marketoドキュメント — 製品ドキュメント
 title: ライトボックスでのフォームの使用
+exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ライトボックスでのフォームの使用{#use-a-form-in-a-lightbox}
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 コードをWeb開発者に渡して、Webサイトに追加してもらいます。
 
-素晴らしい仕事！
+すばらしい！ 
