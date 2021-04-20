@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14746177
-description: 購読解除 — Marketto Docs — 製品ドキュメントの再登録
+description: 登録解除 —Marketoドキュメント — 製品ドキュメント
 title: 登録解除
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # 登録解除{#resubscribing-an-unsubscribe}
 
