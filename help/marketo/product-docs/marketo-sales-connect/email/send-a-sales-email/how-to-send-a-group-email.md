@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352520
-description: グループの電子メールの送信方法 — Marketto Docs — 製品ドキュメント
+description: グループの電子メールの送信方法 —Marketoドキュメント — 製品ドキュメント
 title: グループの電子メールの送信方法
+exl-id: 3f213b6f-0208-4c6a-a3d8-481faba6fb5b
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # グループ電子メールの送信方法{#how-to-send-a-group-email}
 
