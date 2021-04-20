@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359491
-description: A/追加Bテスト — Marketto Docs — 製品ドキュメント
+description: A追加/Bテスト —Marketoドキュメント — 製品ドキュメント
 title: A追加/Bテスト
+exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # 追加A/Bテスト{#add-an-a-b-test}
 
