@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360235
-description: オポチュニティ影響分析の作成 — Marketto Docs — 製品ドキュメント
+description: オポチュニティ影響分析の作成 —Marketoドキュメント — 製品ドキュメント
 title: オポチュニティ影響分析計の作成
+exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # オポチュニティ影響分析計の作成{#create-an-opportunity-influence-analyzer}
 
@@ -58,7 +58,7 @@ Opportunity Influence Analyzerを使用して、重要な案件に対するマ�
 
 >[!TIP]
 >
->[Marketo University](https://learn.marketo.com)のOpportunity Influence Analyzerに関するビデオも視聴できます。 （今は少し違うように見えますが、まだ学ぶべきことがたくさんあります。）
+>[Marketo大学](https://learn.marketo.com)のOpportunity Influence Analyzerに関するビデオもご覧いただけます。 （今は少し違うように見えますが、まだ学ぶべきことがたくさんあります。）
 
 >[!MORELIKETHIS]
 >
