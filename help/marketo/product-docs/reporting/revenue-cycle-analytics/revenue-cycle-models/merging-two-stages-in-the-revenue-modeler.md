@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718685
-description: 売上高モデル管理者 — Marketto Docs — 製品ドキュメントへの2つのステージのマージ
+description: 売上高モデラーでの2つのステージのマージ —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデラーでの2つのステージのマージ
+exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # 2つのステージを売上モデラーにマージする{#merging-two-stages-in-the-revenue-modeler}
 
 モデルを承認した後は、ドラフトの編集時にステージを削除できません。 代わりに、そのステージを別のステージとマージできます。
 
-1. 「**マーケティング先ホーム**」をクリックし、「**解析**」を選択します。
+1. **Marketoホーム**&#x200B;をクリックし、**分析**&#x200B;を選択します。
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
