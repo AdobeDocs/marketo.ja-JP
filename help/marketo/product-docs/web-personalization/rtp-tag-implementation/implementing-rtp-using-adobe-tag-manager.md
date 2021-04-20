@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720218
-description: Adobe Tag Managerを使用したRTPの実装 — Marketto Docs — 製品ドキュメント
+description: Adobe Tag Managerを使用したRTPの実装 —Marketoドキュメント — 製品ドキュメント
 title: Adobe Tag Managerを使用したRTPの実装
+exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Tag Manager{#implementing-rtp-using-adobe-tag-manager}を使用したRTPの実装
 
@@ -37,13 +37,13 @@ RTPタグを実装するには、次のインストール手順に従ってく�
 
 1. 次の情報を入力します。
 
-   1. 名前：**Marketo RTP**
+   1. 名前：**MarketoRTP**
    1. 条件（折りたたみ）:- **ページの先頭**&#x200B;のトリガールール
    1. JavaScript（折りたたみ）:**追加新しいスクリプト**&#x200B;をクリックします
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
-1. 新しいタグを呼び出します。**Marketo RTPタグ**
+1. 新しいタグを呼び出します。**MarketoRTPタグ**
 
 1. RTPタグから次のコードを削除します。
 
@@ -60,7 +60,7 @@ RTPタグを実装するには、次のインストール手順に従ってく�
 
 1. スクリプトエディターで「**コードを保存**」をクリックし、ルールエディターで「**ルールを保存**」をクリックします。
 
-1. ルールパネルで、Marketo RTPページ型ルールを見つけ、**アクション**&#x200B;ドロップダウンで&#x200B;**ルールをアクティブ化**&#x200B;を選択します。
+1. ルールパネルで、MarketoRTPページ読み込みルールを探し、**アクション**&#x200B;ドロップダウンで&#x200B;**ルールをアクティブ化**&#x200B;を選択します。
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
