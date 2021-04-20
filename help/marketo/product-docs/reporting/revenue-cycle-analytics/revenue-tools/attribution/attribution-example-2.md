@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514146
-description: アトリビューションの例2 - Marketto Docs — 製品ドキュメント
+description: アトリビューションの例2 -Marketoドキュメント — 製品ドキュメント
 title: アトリビューションの例2
+exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # アトリビューションの例2 {#attribution-example}
 
@@ -22,12 +22,12 @@ ht-degree: 0%
 * 4月25日 | Bill and Joan are associated with roles to **BOTH**&#x200B;オプティ
 * 4月29日 | （オポチュニティ1）は終了しました
 
-| プログラム名 | （トレードショー） | （ウェビナー） |
+| プログラム名 | (展示会) | (オンライン セミナ) |
 |---|---|---|
 | (FT)作成済みオプティ | `<pre>1</pre>` | `<pre>1</pre>` |
-| (FT)パイプラインが作成されました | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
+| （FT）創出されたパイプライン | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
 | (FT)オプティ・ウォン | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (FT)収益源 | `<pre>$3,000</pre>` | `<pre>$3,000</pre>` |
+| （FT）獲得した収益 | `<pre>$3,000</pre>` | `<pre>$3,000</pre>` |
 
 **回答を表示**
 
