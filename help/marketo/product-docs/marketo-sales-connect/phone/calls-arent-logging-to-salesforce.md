@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352435
-description: 呼び出しはSalesforceにログされません。Marketo Docs — 製品ドキュメント
+description: 呼び出しはSalesforceにログ記録されません —Marketoドキュメント — 製品ドキュメント
 title: 呼び出しがSalesforceにログに記録されない
+exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 呼び出しがSalesforceにログに記録されない{#calls-arent-logging-to-salesforce}
 
