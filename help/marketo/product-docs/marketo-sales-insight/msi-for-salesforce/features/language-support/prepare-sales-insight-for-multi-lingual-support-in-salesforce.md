@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516460
-description: Salesforceの多言語サポート用の販売インサイトの準備 — Marketo Docs — 製品ドキュメント
+description: Salesforceの多言語サポートのためのSales Insightの準備 —Marketoドキュメント — 製品ドキュメント
 title: Salesforceでの多言語サポートのための販売分析の準備
+exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Salesforceでの多言語サポートのためのSales Insightの準備{#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**必要な管理者権限**
 
-Marketor Sales Insightは、言語別に保存されます。 したがって、複数の言語で機能させる場合は、言語ごとに資格情報を個別に入力する必要があります。
+Marketoセールスインサイトは言語別に保存されています。 したがって、複数の言語で機能させる場合は、言語ごとに資格情報を個別に入力する必要があります。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketor Sales Insightは、言語別に保存されます。 したがって、
 >
 その他の言語はデフォルトで英語に設定されます。
 
-## マーケティング担当者向けの新しい言語の追加{#adding-a-new-language-for-marketo-sales-insight}
+## Marketo販売インサイト用の新しい言語の追加{#adding-a-new-language-for-marketo-sales-insight}
 
 1. Salesforceにログインします。 右上隅の自分の名前のドロップダウンで、「**セットアップ**」をクリックします。
 
@@ -53,11 +53,11 @@ Marketor Sales Insightは、言語別に保存されます。 したがって、
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. 「**Configure Marketto Sales Insight**（選択した言語で）」をクリックします。
+1. 「**Marketo販売インサイトを設定**」（選択した言語で）をクリックします。
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. 「Marketo」に移動します。 [Marketo Sales Insight **API configuration**&#x200B;の詳細](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)を探します。
+1. Marketo に移動. [Marketo販売インサイト&#x200B;**API構成**&#x200B;の詳細](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)を探します。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
