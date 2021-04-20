@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384659
-description: コンテンツの削除 — Marketto Docs — 製品ドキュメント
-title: コンテンツを削除
+description: コンテンツの削除 —Marketoドキュメント — 製品ドキュメント
+title: コンテンツの削除
+exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# コンテンツを削除{#delete-content}
+# コンテンツの削除 {#delete-content}
 
 コンテンツが不要になった場合は、簡単に削除できます。
 
