@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900589
-description: テキスト電子メールへの追加追跡されたリンク — Marketto Docs — 製品ドキュメント
+description: テキスト電子メールへの追加リンクの追跡 —Marketoドキュメント — 製品ドキュメント
 title: テキスト電子メ追加ールへの追跡されたリンク
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # テキスト電子メールへ追加の追跡されたリンク{#add-tracked-links-to-a-text-email}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >* [電子メール内の要素の編集](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-テキストの電子メールリンクは、Marketorで追跡できます。 どのように機能するか見てみましょう 1.電子メールを選択し、「ドラフトを編集」をクリックします。
+テキスト電子メールのリンクは、Marketoで追跡できます。 どのように機能するか見てみましょう 1.電子メールを選択し、「ドラフトを編集」をクリックします。
 
 ![](assets/one-9.png)
 
