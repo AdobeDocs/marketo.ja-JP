@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352615
-description: 「コンテンツ」タブ — Marketto Docs — 製品ドキュメントについて
+description: 「コンテンツ」タブ —Marketoドキュメント — 製品ドキュメントについて
 title: 「コンテンツ」タブについて
+exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # コンテンツタブについて{#understanding-the-content-tab}
 
