@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380734
-description: アカウントトリガー- Marketto Docs — 製品ドキュメント
+description: アカウントトリガー-Marketoドキュメント — 製品ドキュメント
 title: アカウントトリガー
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントトリガー{#account-triggers}
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[アカウントフィルター](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[アカウントフィルタ](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
