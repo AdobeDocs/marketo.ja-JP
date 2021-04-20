@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360429
-description: 売上高モデル — Marketto Docs — 製品ドキュメントに関するレポート
+description: 売上高モデルのレポート —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルのレポート
+exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデルに関するレポート{#report-on-your-revenue-model}
 
