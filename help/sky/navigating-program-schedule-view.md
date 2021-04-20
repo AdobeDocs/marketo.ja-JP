@@ -1,14 +1,14 @@
 ---
 title: navigating-プログラム — スケジュール —表示
 description: プログラムスケジュール表示のナビゲート
+exl-id: b921f460-c0f1-49f3-8a6a-6c4c66a0606f
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # プログラムスケジュール表示のナビゲート
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![イメージ3](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-3.png)
 
-## 表示設定
+## 設定の表示
 
 プログラムスケジュール表示の右上隅にある「[!UICONTROL 表示設定]」をクリックして、[!UICONTROL 仮名]、[!UICONTROL 確認済み]、[!UICONTROL 完了]で参加者をフィルターします。
 
