@@ -1,20 +1,20 @@
 ---
 title: ラベルの追加と削除
 description: ラベル追加の削除
+exl-id: 9a1664ac-d346-4c0d-badc-0cbca767e740
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ラベル追加の削除
 
 [!UICONTROL マーケティングアクティビティ]内の任意のアセットにラベルを割り当てると、アセットを簡単に整理して見つけることができます。
 
-## 追加ラベル
+## ラベルを追加
 
 アセットに新しいラベルを追加するには、アセットの[!UICONTROL 詳細]ページ（[!UICONTROL 概要]タブの下）に移動します。
 <br> 
