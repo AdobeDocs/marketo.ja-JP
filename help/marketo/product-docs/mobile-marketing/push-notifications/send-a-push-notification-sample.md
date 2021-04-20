@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783141
-description: プッシュ通知サンプルの送信 — Marketto Docs — 製品ドキュメント
+description: プッシュ通知サンプルの送信 —Marketoドキュメント — 製品ドキュメント
 title: プッシュ通知サンプルの送信
+exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # プッシュ通知サンプルの送信{#send-a-push-notification-sample}
 
