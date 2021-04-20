@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10099413
-description: 電子メールインサイトから概要が送信される — Marketto Docs — 製品ドキュメント
+description: 電子メールインサイトから概要が送信される —Marketoドキュメント — 製品ドキュメント
 title: 電子メールインサイトから概要が送信される
+exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールインサイトから概要{#email-insights-sends-overview}が送信される
 
