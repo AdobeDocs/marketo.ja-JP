@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352537
-description: 電子メール添付ファイルの追跡方法 — Marketto Docs — 製品ドキュメント
+description: 電子メール添付ファイルの追跡方法 —Marketoドキュメント — 製品ドキュメント
 title: 電子メール添付ファイルの追跡方法
+exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # 電子メール添付ファイルの追跡方法{#how-to-track-your-email-attachments}
 
