@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745611
-description: マーケティングキャンペーン追加向け — Marketto Docs — 製品ドキュメント
+description: マー追加ケティングキャンペーン-Marketoドキュメント — 製品ドキュメント
 title: マー追加ケティングキャンペーン
+exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # マ追加ーケティングキャンペーン{#add-to-marketing-campaign}へ
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
+>Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のMarketoリードIDが必要です。 [MarketoIDの取り込み方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 「**ユーザー**」タブをクリックします。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なワークスペースが表示されない場合は、管理者がマーケティング担当者のチームアクセスページでワークスペースをプロビジョニングする必要があります。
+   >必要なワークスペースが表示されない場合は、管理者がMarketoチームアクセスページでワークスペースをプロビジョニングしていることを確認してください。
 
 1. 目的のキャンペーンを選択し、「**次へ**」をクリックします。
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のマーケティング担当者IDが必要です。 [ここでは、Marketo IDを取り込む方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
+   >Sales ConnectからMarketoキャンペーンに人を追加するには、Sales Connectにその人のMarketoリードIDが必要です。 [MarketoIDの取り込み方法を説明します](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)。
 
 1. 「ワークスペース」ドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >必要なワークスペースが表示されない場合は、管理者がマーケティング担当者のチームアクセスページでワークスペースをプロビジョニングする必要があります。
+   >必要なワークスペースが表示されない場合は、管理者がMarketoチームアクセスページでワークスペースをプロビジョニングしていることを確認してください。
 
 1. 目的のキャンペーンを選択し、「**次へ**」をクリックします。
 
