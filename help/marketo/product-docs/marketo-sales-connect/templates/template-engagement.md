@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352504
-description: テンプレートエンゲージメント — Marketto Docs — 製品ドキュメント
+description: テンプレートエンゲージメント —Marketoドキュメント — 製品ドキュメント
 title: テンプレートの関与
+exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # テンプレートのアクション{#template-engagement}
 
