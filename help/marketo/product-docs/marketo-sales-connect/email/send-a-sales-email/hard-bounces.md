@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352524
-description: ハードバウンス — Marketto Docs — 製品ドキュメント
+description: ハードバウンス —Marketoドキュメント — 製品ドキュメント
 title: ハードバウンス
+exl-id: 903c8548-4d2e-469e-a147-25232fc8ed3e
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# ハードバウンス{#hard-bounces}
+# ハードバウンス {#hard-bounces}
 
 電子メールアドレスが無効なために電子メールが失敗した場合に、ハードバウンスが発生します。
 
