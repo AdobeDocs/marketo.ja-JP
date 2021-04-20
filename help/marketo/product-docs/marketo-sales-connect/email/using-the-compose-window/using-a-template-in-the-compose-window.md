@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356593
-description: 「構成」ウィンドウでのテンプレートの使用 — Marketto Docs — 製品ドキュメント
+description: 「構成」ウィンドウでのテンプレートの使用 — 「Marketoドキュメント」 — 「製品ドキュメント」
 title: 「構成」ウィンドウでのテンプレートの使用
+exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
-
 
 # 「構成」ウィンドウでのテンプレートの使用{#using-a-template-in-the-compose-window}
 
