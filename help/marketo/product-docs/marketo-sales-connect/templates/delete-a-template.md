@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352630
-description: テンプレートの削除 — Marketto Docs — 製品ドキュメント
+description: テンプレートの削除 —Marketoドキュメント — 製品ドキュメント
 title: テンプレートの削除
+exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # テンプレートの削除{#delete-a-template}
 
