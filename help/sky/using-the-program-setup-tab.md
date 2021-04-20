@@ -1,14 +1,14 @@
 ---
 title: using-the-プログラム-setup-tab
 description: 「プログラム設定」タブの使用
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # 「プログラム設定」タブの使用
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)でプログラムタグを[作成し、ドロップダウンで使用できるようにする方法を説明します。
+>[Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)でプログラムタグを作成し、ドロップダウンで使用可能にする方法を説明します。
 
 ## 追加期間原価
 
