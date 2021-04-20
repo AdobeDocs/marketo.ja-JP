@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4720125
-description: RTPとGoogle Universal Analyticsの統合 — Marketto Docs — 製品ドキュメント
+description: RTPをGoogle Universal Analyticsと統合 —Marketoドキュメント — 製品ドキュメント
 title: RTPとGoogle Universal Analyticsの統合
+exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # RTPとGoogle Universal Analytics {#integrate-rtp-with-google-universal-analytics}の統合
 
 ## 導入{#intro}
 
-Google Universal Analytics(GUA)とMarketo Real-Time Personalization(RTP)のファーストグラフィックおよびパーソナライゼーションデータを活用して、オンラインマーケティング活動をより良く測定および分析できます。
+Google Universal Analytics(GUA)とMarketoリアルタイムパーソナライゼーション(RTP)のファーストグラフィックおよびパーソナライゼーションデータを活用して、オンラインマーケティング活動をより良く測定および分析できます。
 
-この投稿では、Marketto Real-Time Personalization(RTP)プラットフォームをGoogle Universal Analytics(GUA)アカウントと組み合わせる方法を説明します。 RTPデータをGUAアカウントに追加して、Webサイトを訪問する組織、業界、ファームグラフィック、RTPセグメントのパフォーマンスを表示し、確認できるようにすることができます。
+この投稿では、Marketoリアルタイムパーソナライゼーション(RTP)プラットフォームをGoogle Universal Analytics(GUA)アカウントと組み合わせる方法を説明します。 RTPデータをGUAアカウントに追加して、Webサイトを訪問する組織、業界、ファームグラフィック、RTPセグメントのパフォーマンスを表示し、確認できるようにすることができます。
 
-**Google Universal Analytics**
+**Google ユニバーサルアナリティクス**
 
 Google Universal Analytics with RTP’s dataを使用すると、B2Bユーザーがオンラインコンテンツをどのように操作するかについてより深く理解し、パーソナライズキャンペーンからより良い結果を測定して得ることができます。 [Google Universal Analyticsについて詳しくは](https://support.google.com/analytics/answer/2790010/?hl=en&amp;authuser=1)、
 
