@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359732
-description: フリーフォームランディングページでの動的コンテンツの使用 — Marketto Docs — 製品ドキュメント
+description: フリーフォームランディングページでの動的コンテンツの使用 —Marketoドキュメント — 製品ドキュメント
 title: フリーフォームランディングページでの動的コンテンツの使用
+exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # フリーフォームランディングページでの動的コンテンツの使用{#use-dynamic-content-in-a-free-form-landing-page}
 
