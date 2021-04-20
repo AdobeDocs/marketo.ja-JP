@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504051
-description: 個人データの管理 — Marketto Docs — 製品ドキュメント
+description: 個人データの管理 —Marketoドキュメント — 製品ドキュメント
 title: 個人データの管理
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
-
 
 # 個人データの管理{#manage-person-data}
 
@@ -45,27 +45,27 @@ ht-degree: 0%
    >
    >* 個人データフィールドのみを含めることができます
    >* 最大30個の個人データフィールドを追加できます
-   >* 新しいフィールドの追加が有効になるまでに最大24時間かかる場合があります
-   >* 文字列型の最大長は255文字です
+   >* 新規フィールドを追加した場合、アクティベーションには最大で 24 時間かかります
+   >* 文字列タイプの上限は 255 文字です
    >* 非表示のフィールドは自動的に削除されます
 
 
 <table> 
  <tbody> 
   <tr> 
-   <th><p>REST API名</p></th> 
-   <th><p>SOAP API名</p></th> 
-   <th><p>わかりやすい名前</p></th> 
+   <th><p>REST API 名</p></th> 
+   <th><p>SOAP API 名</p></th> 
+   <th><p>フレンドリ名</p></th> 
   </tr> 
   <tr> 
    <td><p>department</p></td> 
-   <td><p>分野</p></td> 
-   <td><p>分野</p></td> 
+   <td><p>部門</p></td> 
+   <td><p>部門</p></td> 
   </tr> 
   <tr> 
-   <td><p>title</p></td> 
    <td><p>タイトル</p></td> 
-   <td><p>肩書</p></td> 
+   <td><p>件名</p></td> 
+   <td><p>職位</p></td> 
   </tr> 
   <tr> 
    <td><p>評価</p></td> 
@@ -83,19 +83,19 @@ ht-degree: 0%
    <td><p>ステータス</p></td> 
   </tr> 
   <tr> 
-   <td><p>priority</p></td> 
    <td><p>優先度</p></td> 
-   <td><p>優先度</p></td> 
+   <td><p>優先順位</p></td> 
+   <td><p>優先順位</p></td> 
   </tr> 
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>役割</p></td> 
+   <td><p>ロール</p></td> 
   </tr> 
   <tr> 
    <td><p>未登録</p></td> 
-   <td><p>登録解除</p></td> 
-   <td><p>登録解除</p></td> 
+   <td><p>配信停止完了</p></td> 
+   <td><p>配信停止完了</p></td> 
   </tr> 
  </tbody> 
 </table>
