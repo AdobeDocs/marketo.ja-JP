@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360240
-description: オポチュニティ影響分析の設定 — Marketto Docs — 製品ドキュメント
+description: オポチュニティ影響分析の設定 —Marketoドキュメント — 製品ドキュメント
 title: オポチュニティ影響分析計の構成
+exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # オポチュニティ影響分析計の構成{#configure-an-opportunity-influence-analyzer}
 
