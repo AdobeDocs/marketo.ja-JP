@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45417460
-description: チームメンバーへのタスクの割り当て — Marketto Docs — 製品ドキュメント
+description: チームメンバーへのタスクの割り当て —Marketoドキュメント — 製品ドキュメント
 title: チームメンバーへのタスクの割り当て
+exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # チームメンバーへのタスクの割り当て{#assigning-tasks-to-team-members}
 
