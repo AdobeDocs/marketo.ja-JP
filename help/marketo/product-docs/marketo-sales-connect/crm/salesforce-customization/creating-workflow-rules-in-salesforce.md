@@ -1,25 +1,25 @@
 ---
 unique-page-id: 14745823
-description: Salesforce - Marketto Docs — 製品ドキュメントでのワークフロールールの作成
+description: Salesforceでのワークフロールールの作成 —Marketoドキュメント — 製品ドキュメント
 title: Salesforceでのワークフロールールの作成
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
-
 # Salesforceでのワークフロールールの作成{#creating-workflow-rules-in-salesforce}
 
-Marketo Sales Insight(MSI)とMarketo Sales Connect(MSC)を並行して使用する場合、SalesforceのMSIベスト機能は更新されません。 その他すべてのMSI機能は通常どおり動作します(iFrameでの興味深い瞬間の表示、電子メールの送信、キャンペーンへの追加など)。 この記事では、ベストベット機能を再び動作させるための回避策をオファーします。
+Marketo販売インサイト(MSI)とMarketo販売接続(MSC)を並行して使用する場合、SalesforceのMSIベストベット機能は更新されません。 その他すべてのMSI機能は通常どおり動作します(iFrameでの興味深い瞬間の表示、電子メールの送信、キャンペーンへの追加など)。 この記事では、ベストベット機能を再び動作させるための回避策をオファーします。
 
 >[!NOTE]
 >
 >これは、**MSIとMSEの両方**&#x200B;を使用し、MSIのベストベット機能を使用するお客様にのみ影響します。 ベストベットを必要としない場合や使用しない場合は、無視することもできます。
 
-## はじめに{#getting-started}
+## 開始方法 {#getting-started}
 
 回避策として、新しいMSEフィールドから古いMSIフィールドに値をコピーする新しいワークフロールールを作成することができます。 連絡先オブジェクト用に4つのワークフロールールを作成し、独自のSalesforceインスタンス用に、リードオブジェクト用に同じ4つのワークフロールールを作成する必要があります。 これには、（CRMでの役割および設定に応じて）CRM管理者権限が必要になる場合があります。
 
@@ -33,24 +33,24 @@ Marketo Sales Insight(MSI)とMarketo Sales Connect(MSC)を並行して使用す�
  <tbody> 
   <tr> 
    <td>注目モーメントの説明フィールドを更新</td> 
-   <td><p>コピー元：最後のマーケティング先のエンゲージメント説明<br>コピー先：最後の注目モーメントの説明</p></td> 
+   <td><p>コピー元：最後のMarketo関与の説明<br>コピー先：最後の注目モーメントの説明</p></td> 
   </tr> 
   <tr> 
    <td>注目のモーメントタイプフィールドの更新</td> 
-   <td><p>コピー元：最後のマーケティング先のエンゲージメントタイプ<br>コピー先：最後の興味深いモーメントのタイプ</p></td> 
+   <td><p>コピー元：最後のMarketoエンゲージメントの種類<br>コピー先：最後の興味深いモーメントのタイプ</p></td> 
   </tr> 
   <tr> 
    <td>注目のモーメントソースフィールドの更新</td> 
-   <td><p>コピー元：最後のマーケティング先のエンゲージメントソース<br>コピー先：最後の興味深い瞬間の源</p></td> 
+   <td><p>コピー元：最後のMarketoエンゲージメントソース<br>コピー先：最後の興味深い瞬間の源</p></td> 
   </tr> 
   <tr> 
    <td>注目モーメントの日付フィールドの更新</td> 
-   <td><p>コピー元：最終マーケティング先のエンゲージメント日<br>コピー先：最後の興味深い瞬間の日付</p></td> 
+   <td><p>コピー元：最終Marketo関与日<br>コピー先：最後の興味深い瞬間の日付</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 説明{#instructions}
+## 入力ガイド {#instructions}
 
 1. 「**セットアップ**」をクリックした後、「**ワークフロー**」を検索し、「**ワークフロールール**」を選択します。
 
@@ -68,7 +68,7 @@ Marketo Sales Insight(MSI)とMarketo Sales Connect(MSC)を並行して使用す�
 
    ![](assets/four-1.png)
 
-1. 「フィールドを挿入」ポップアップで、「**最後のマーケティング先のエンゲージメントの説明**」を選択し、「**挿入**」をクリックします。
+1. 「フィールドを挿入」ポップアップで、「**最後のMarketoエンゲージメントの説明**」を選択し、「**挿入**」をクリックします。
 
    ![](assets/five-1.png)
 
@@ -88,7 +88,7 @@ Marketo Sales Insight(MSI)とMarketo Sales Connect(MSC)を並行して使用す�
 
    ![](assets/9a.png)
 
-1. 「**最後のマーケティング先のエンゲージメントの説明**」を選択し、「**挿入**」をクリックします。 次のページで、「**保存**」をクリックします。
+1. 「**最後のMarketoエンゲージメントの説明**」を選択し、「**挿入**」をクリックします。 次のページで、「**保存**」をクリックします。
 
    ![](assets/nine.png)
 
