@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359675
-description: フォームフィールドに対する事前入力の無効化 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: フォームフィールドの事前入力を無効にする —Marketoドキュメント — 製品ドキュメント
 title: フォームフィールドの事前入力を無効にする
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
 # フォームフィールドの事前入力を無効にする{#disable-pre-fill-for-a-form-field}
 
-Web訪問者が既知の（cookieが送信された）場合、Marketor Formsは、デフォルトでフィールドに情報を事前入力します。 これをオフにするには、次の方法を使用します。
+Web訪問者が既知の（cookieが送信された）場合、Marketoフォームはデフォルトで、フィールドに情報を事前入力します。 これをオフにするには、次の方法を使用します。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Web訪問者が既知の（cookieが送信された）場合、Marketor Formsは
 
    >[!CAUTION]
    >
-   >フォームの事前入力は、独自のページにフォームを埋め込む場合に機能しません。 これは、Marketoランディングページに対してのみ機能します。
+   >フォームの事前入力は、独自のページにフォームを埋め込む場合に機能しません。 Marketoランディングページでのみ機能します。
 
 1. いずれかのフィールドを選択し、「**フォームの事前入力**」を「**無効**」に設定します。
 
