@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12978647
-description: CRM Discovery用のカスタムフィールドの作成 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: CRM Discovery用のカスタムフィールドの作成 —Marketoドキュメント — 製品ドキュメント
 title: CRM検出用のカスタムフィールドの作成
+exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # CRM検出用のカスタムフィールドの作成{#create-a-custom-field-for-crm-discovery}
 
-カス追加タムフィールドをアカウントに対して設定し、CRMにマッピングして、MarketorのCRMアカウントの特定に使用します。
+カス追加タムフィールドをアカウントに割り当て、CRMにマッピングし、MarketoのCRMアカウントの検出に使用します。
 
 1. 「**管理者**」をクリックします。
 
