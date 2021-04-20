@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359722
-description: フリ追加ーフォームランディングページへのビデオ — Marketto Docs — 製品ドキュメント
+description: フリ追加ーフォームランディングページへのビデオ —Marketoドキュメント — 製品ドキュメント
 title: フ追加リーフォームランディングページへのビデオ
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # フリ追加ーフォームランディングページへのビデオ{#add-a-video-to-a-free-form-landing-page}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. 自由形式のランディングページに移動し、「**ドラフトを編集**」をクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >時間を節約するために、「**コピー元**」オプションを使用して、既存のビデオ共有からすべての設定をコピーできます。
 
-おめでとう！ 自由形式のランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebookに[投稿したり、[ビデオ共有をWebサイトに](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)投稿したりすることもできます。](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+おめでとうございます！自由形式のランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[公開したり、[ビデオ共有をWebサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に配置したりすることもできます。
 
 >[!MORELIKETHIS]
 >
