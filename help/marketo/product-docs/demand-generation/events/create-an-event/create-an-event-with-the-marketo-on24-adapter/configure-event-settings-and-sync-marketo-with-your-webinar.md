@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10096673
-description: イベントの設定を行い、マーケティングをウェビナー（Marketo Docs — 製品ドキュメント）と同期する
-title: イベント設定の指定とマーケティングとウェビナーとの同期
+description: イベントの設定を行い、Marketoをウェビナーと同期 —Marketoドキュメント — 製品ドキュメント
+title: イベント設定の指定とMarketoとウェビナーの同期
+exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
+# イベント設定を構成し、Marketoをウェビナーと同期{#configure-event-settings-and-sync-marketo-with-your-webinar}
 
-# イベント設定の指定とマーケティングのウェビナーとの同期{#configure-event-settings-and-sync-marketo-with-your-webinar}
-
-Marketorイベントを設定し、MarkettoとON24を接続するには、次の手順に従います。
+次の手順に従って、Marketoイベントを設定し、MarketoとON24を接続します。
 
 ## イベント{#set-the-event}を設定
 
@@ -35,7 +35,7 @@ Marketorイベントを設定し、MarkettoとON24を接続するには、次の
 
    >[!NOTE]
    >
-   >ピーク時には、ON24がイベント情報をMarketorに提供するまで15 ～ 20分かかる場合があります。 「セッションIDが無効です」というメッセージが表示された場合は、後でもう一度お試しください。
+   >ピーク時には、ON24がイベント情報をMarketoに提供するまで15 ～ 20分かかる場合があります。 「セッションIDが無効です」というメッセージが表示された場合は、後でもう一度お試しください。
 
 ## スケジュールを設定{#set-the-schedule}
 
@@ -57,4 +57,4 @@ ON24ウェビナーに関連付けられたイベントを設定すると、イ�
 
 >[!MORELIKETHIS]
 >
->[On24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[MarketoOn24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
