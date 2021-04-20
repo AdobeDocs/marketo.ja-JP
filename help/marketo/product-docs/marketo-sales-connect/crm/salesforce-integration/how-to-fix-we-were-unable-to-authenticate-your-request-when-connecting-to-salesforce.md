@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352484
-description: Salesforce - Marketo Docs — 製品ドキュメントに接続する際の「要求を認証できませんでした」の修正方法
+description: Salesforce -Marketoドキュメント — 製品ドキュメントに接続する際の「要求を認証できませんでした」の修正方法
 title: Salesforceに接続する際の「要求を認証できませんでした」の修正方法
+exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
-
 
 # Salesforceに接続する際の「要求を認証できませんでした」の修正方法{#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
