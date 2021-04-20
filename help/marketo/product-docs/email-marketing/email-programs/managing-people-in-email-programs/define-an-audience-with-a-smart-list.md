@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900595
-description: スマートリストを使用したオーディエンスの定義 — Marketto Docs — 製品ドキュメント
+description: スマートリストでのオーディエンスの定義 —Marketoドキュメント — 製品ドキュメント
 title: スマートリストを使用したオーディエンスの定義
+exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # スマートリスト{#define-an-audience-with-a-smart-list}でオーディエンスを定義
 
@@ -55,10 +55,10 @@ ht-degree: 0%
 >
 >禁止番号に気づいた？ この数字は、資格を満たし、次の理由でこの電子メールを送信できない人を表す人のサブセットです。
 >
->* 登録解除
->* マーケティングの中断
+>* 配信停止完了
+>* マーケティングを中断したリード
 >* ブロックリストに加える
->* 電子メールが無効です
+>* メール無効
 >* 空の電子メール
 
 >
