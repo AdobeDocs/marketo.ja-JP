@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360055
-description: ワークスペース全体での電子メール、キャンペーンのパフォーマンスのレポート — Marketto Docs — 製品ドキュメント
+description: ワークスペース全体での電子メール、キャンペーンのパフォーマンスのレポート —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのレポート、ワークスペース全体でのキャンペーンパフォーマンス
+exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールのレポート、ワークスペース間のキャンペーンのパフォーマンス{#report-email-campaign-performance-across-workspaces}
 
-「グローバルレポート」をオンにすると、[電子メールのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、[キャンペーンのアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のすべてのマーケティング先のワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータが含まれます。[
+「グローバルレポート」をオンにして、すべてのMarketo[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)のデータを[電子メールのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)、[電子メールのリンクのパフォーマンス](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)、[キャンペーンのアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)のレポートに含めます。
 
 1. **Analytics**(または&#x200B;**マーケティングアクティビティ**)領域に移動します。
 
