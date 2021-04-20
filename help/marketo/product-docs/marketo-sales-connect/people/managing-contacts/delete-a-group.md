@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352513
-description: グループの削除 — Marketto Docs — 製品ドキュメント
+description: グループの削除 —Marketoドキュメント — 製品ドキュメント
 title: グループの削除
+exl-id: 370454c3-3c3d-4c5d-a2fc-800bf1cb228a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
-
 
 # グループの削除{#delete-a-group}
 
