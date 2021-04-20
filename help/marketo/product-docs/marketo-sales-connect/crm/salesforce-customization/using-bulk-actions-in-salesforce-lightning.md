@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762825
-description: Salesforce Lightning - Marketto Docs — 製品ドキュメントでのバルクアクションの使用
+description: Salesforce Lightning -Marketoドキュメント — 製品ドキュメントでのバルクアクションの使用
 title: Salesforce Lightningでのバルクアクションの使用
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Salesforce Lightningでのバルクアクションの使用{#using-bulk-actions-in-salesforce-lightning}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->次の手順に従う前に、Marketo Sales Connectアカウントにログインしていることを確認してください。
+>次の手順に従う前に、MarketoのSales Connectアカウントにログインしていることを確認してください。
 
 ## バルク電子メール{#bulk-email}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-## Marketo Sales Connectへのプッシュ{#push-to-marketo-sales-connect}
+## Marketo セールスコネクトにプッシュ {#push-to-marketo-sales-connect}
 
 1. Salesforceで、「**Leads**」タブをクリックし、目的のリードのリストを選択します。
 
