@@ -1,31 +1,31 @@
 ---
 unique-page-id: 7511518
-description: プッシュ通知について — Marketto Docs — 製品ドキュメント
+description: プッシュ通知について —Marketoドキュメント — 製品ドキュメント
 title: プッシュ通知について
+exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-
 # プッシュ通知について{#understanding-push-notifications}
 
 >[!NOTE]
 >
->アプリ内メッセージは、アドオンのアプリです。 Marketorアカウントマネージャーに確認し、アクティブ化されていることを確認します。
+>アプリ内メッセージは、アドオンのアプリです。 Marketoのアカウントマネージャーに確認し、アクティブ化されていることを確認します。
 
-Marketo Mobileエンゲージメントを使用すると、電子メールの作成と同様に、通知を作成、設定および送信できます。  モバイルアプリからプッシュ通知を作成して送信する前に、設定を行うには、マーケティング担当者とモバイルアプリの開発者が必要です。
+Marketoのモバイルエンゲージメントを使用すると、電子メールの作成と同様に、通知を作成、設定および送信できます。  モバイルアプリからプッシュ通知を作成して送信する前に、いくつかの設定を行うには、Marketoの管理者とモバイルアプリ開発者が必要です。
 
 >[!CAUTION]
 >
->プッシュ通知はアドオンであり、開始する前にマーケティング担当者が有効にする必要があります。
+>プッシュ通知はアドオンであり、開始する前にMarketo管理者がオンにする必要があります。
 
 ## 手順1:管理者と開発者が初期設定を実行{#step-admin-and-developer-perform-initial-setups}
 
-マーケティング担当者とモバイルアプリの開発者は連携して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
+Marketo管理者とモバイルアプリの開発者が協力して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
 ## 手順2:プッシュ通知の作成{#step-create-a-push-notification}
 
