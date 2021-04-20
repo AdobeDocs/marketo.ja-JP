@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359398
-description: フォームの作成 — Marketto Docs — 製品ドキュメント
+description: フォームの作成 —Marketoドキュメント — 製品ドキュメント
 title: フォームの作成
+exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # フォームの作成{#create-a-form}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketorが[フォームを安全に保つ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)方法を説明します。
+>[フォームを安全に保つ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)ためにMarketoが何をしているかを学びます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
