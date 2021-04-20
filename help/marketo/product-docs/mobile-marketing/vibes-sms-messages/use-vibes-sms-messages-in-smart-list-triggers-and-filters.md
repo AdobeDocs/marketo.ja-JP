@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378871
-description: スマートリストのトリガーとフィルターでVibes SMSメッセージを使用する — Marketto Docs — 製品ドキュメント
+description: スマートリストトリガーおよびフィルターでVibes SMSメッセージを使用する —Marketoドキュメント — 製品ドキュメント
 title: スマートリストのトリガーとフィルターでVibe SMSメッセージを使用する
+exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-
 # スマートリストトリガーとフィルターでVibe SMSメッセージを使用{#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
 [Vibes SMSメッセージ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)を作成した後、スマートキャンペーン内でスマートリストトリガーとフィルターを使用して、メリットを得る必要があります。 これが方法です。
 
-1. 「マイマーケット」で、「**マーケティングアクティビティ**」をクリックします。
+1. マイMarketoで、「**マーケティングアクティビティ**」をクリックします。
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
