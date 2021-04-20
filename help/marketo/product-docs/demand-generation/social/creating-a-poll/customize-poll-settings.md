@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359774
-description: 調査設定のカスタマイズ — Marketto Docs — 製品ドキュメント
+description: 投票設定のカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: 投票設定のカスタマイズ
+exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 投票設定のカスタマイズ{#customize-poll-settings}
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**完了**/**承認して**&#x200B;閉じて[投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)を公開するか、続行してカスタマイズすることができます。 例えば、[after-shareプロンプト](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)を設定してみます。
+>**完了**/**承認して**&#x200B;閉じて[投票](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)を公開するか、カスタマイズを続行できます。 例えば、[after-shareプロンプト](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)を設定してみます。
