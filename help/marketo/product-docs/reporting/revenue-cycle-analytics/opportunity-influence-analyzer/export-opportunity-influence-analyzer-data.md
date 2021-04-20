@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360394
-description: Opportunity Influence Analyzerデータのエクスポート — Marketto Docs — 製品ドキュメント
+description: オポチュニティ影響分析データのエクスポート —Marketoドキュメント — 製品ドキュメント
 title: オポチュニティ影響分析データのエクスポート
+exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # オポチュニティ影響分析データのエクスポート{#export-opportunity-influence-analyzer-data}
 
