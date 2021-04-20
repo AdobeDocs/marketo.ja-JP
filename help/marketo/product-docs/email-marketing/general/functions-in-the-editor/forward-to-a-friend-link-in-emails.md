@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900581
-description: 電子メール — Marketto Docs — 製品ドキュメント内の友達リンクに転送
+description: 電子メール —Marketoドキュメント — 製品ドキュメント内の友達リンクに転送
 title: 電子メール内のフレンドリンクに転送
+exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールの友達リンクに転送{#forward-to-a-friend-link-in-emails}
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. 個人をIDで表示するには、**個人ID**&#x200B;をコピーしてURLの末尾に貼り付けます（このURLの先頭は、Marketorインスタンスに依存します）。
+1. IDで人物を表示するには、**人物ID**&#x200B;をコピーしてURLの末尾に貼り付けます(このURLの先頭は、Marketoのインスタンスに依存します)。
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
