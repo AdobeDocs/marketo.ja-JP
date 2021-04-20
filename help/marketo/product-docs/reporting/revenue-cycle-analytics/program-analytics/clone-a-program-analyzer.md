@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11383877
-description: プログラムアナライザーのコピー — Marketto Docs — 製品ドキュメント
+description: プログラムアナライザのコピー —Marketoドキュメント — 製品ドキュメント
 title: プログラムアナライザのコピー
+exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # プログラムアナライザのクローン{#clone-a-program-analyzer}
 
