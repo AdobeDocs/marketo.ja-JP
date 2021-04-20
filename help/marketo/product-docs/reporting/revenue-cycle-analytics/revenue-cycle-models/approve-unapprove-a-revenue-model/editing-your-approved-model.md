@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472402
-description: 承認されたモデルの編集 — Marketto Docs — 製品ドキュメント
+description: 承認済みモデルの編集 —Marketoドキュメント — 製品ドキュメント
 title: 承認済みモデルの編集
+exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # 承認されたモデルの編集{#editing-your-approved-model}
 
