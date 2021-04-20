@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359787
-description: a追加ストリーム — Marketto Docs — 製品ドキュメント
+description: a追加ストリーム —Marketoドキュメント — 製品ドキュメント
 title: 追加流れ
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # 追加ストリーム{#add-a-stream}
 
