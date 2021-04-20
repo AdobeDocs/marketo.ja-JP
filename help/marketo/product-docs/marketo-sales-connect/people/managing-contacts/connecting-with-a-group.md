@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081318
-description: グループとの接続 — Marketto Docs — 製品ドキュメント
+description: グループとの接続 —Marketoドキュメント — 製品ドキュメント
 title: グループとの接続
+exl-id: 8f11868c-9185-4070-881e-07dd1230bfef
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # グループとの接続{#connecting-with-a-group}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorキャンペーンに追加するオプションが表示される場合があります。 [それは別の記事です](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)。
+   >Marketoキャンペーンに追加するオプションが表示される場合があります。 [それは別の記事です](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)。
 
 1. キャンペーンを選択し(結果を絞り込むカテゴリを選択できます)、「**次へ**」をクリックします。
 
