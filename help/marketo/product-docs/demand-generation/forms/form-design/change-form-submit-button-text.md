@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359649
-description: フォーム送信ボタンのテキストを変更 — Marketto Docs — 製品ドキュメント
+description: フォーム送信ボタンのテキストを変更 —Marketoドキュメント — 製品ドキュメント
 title: フォーム送信ボタンテキストの変更
+exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # フォーム送信ボタンテキストの変更{#change-form-submit-button-text}
 
