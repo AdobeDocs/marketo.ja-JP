@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352522
-description: 認証失敗エラー — Marketto Docs — 製品ドキュメント
+description: 認証失敗エラー —Marketoドキュメント — 製品ドキュメント
 title: 認証失敗エラー
+exl-id: 62280471-8d2d-49b8-b4f3-fc331cef3ac3
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 認証失敗エラー{#authentication-unsuccessful-error}
 
