@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352604
-description: 失敗した配信でのエラーメッセージのスロットリング — Marketto Docs — 製品ドキュメント
+description: 失敗した配信でのエラーメッセージのスロットリング —Marketoドキュメント — 製品ドキュメント
 title: 失敗した配信でのエラーメッセージのスロットリング
+exl-id: ca63f73f-6512-40a3-8d92-9d32fb1469b8
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # 失敗した配信でのエラーメッセージのスロットリング{#throttling-error-message-in-a-failed-delivery}
 
