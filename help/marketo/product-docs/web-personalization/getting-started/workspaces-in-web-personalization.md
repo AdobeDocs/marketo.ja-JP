@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17727499
-description: Webパーソナライゼーション — Marketto Docs — 製品ドキュメント内のワークスペース
+description: Webパーソナライゼーション —Marketoドキュメント — 製品ドキュメント内のワークスペース
 title: Webパーソナライゼーションのワークスペース
+exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Webパーソナライゼーション{#workspaces-in-web-personalization}内のワークスペース
 
