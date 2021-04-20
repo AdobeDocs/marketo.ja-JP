@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745730
-description: Salesforce診断 — Marketto Docs — 製品ドキュメント
+description: Salesforce診断 —Marketoドキュメント — 製品ドキュメント
 title: Salesforce診断
+exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1427'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Salesforce診断{#salesforce-diagnostics}
 
@@ -74,7 +74,7 @@ Salesforce統合の一部には、Webアプリケーション内にSalesforce診
 **カテゴリ:** 断続的\
 **メッセージ：** ファイルの終わりに達しました\
 **現在の状況：お客様側の最適でないトリガーが原因の可能性が高い、** Salesforceのパフォーマンスの問題。\
-**トラブルシューティング手順：** 再試行ロジックで処理する必要があります。まだ機能していない場合は、Salesforce管理者と協力して、問題のあるトリガーのトラブルシューティングを行います。
+**トラブルシューティング手順：** 再試行ロジックで処理する必要があります。それでも動作しない場合は、Salesforce管理者と協力して、問題のあるトリガーのトラブルシューティングを行います。
 
 <br> 
 
@@ -145,12 +145,12 @@ Salesforce統合の一部には、Webアプリケーション内にSalesforce診
 **エラー：** INVALID_GRANT\
 **カテゴリ:** 認証\
 **メッセージ：** invalid_grant:ip制限\
-**何が起こっているか：Salesforceにアクセスしよ** うとしていますが、IP制限が設けられているので、アクセスできません。\
-**トラブルシューティング手順：Salesforce管理者** はIPの許可リストを行う必要があります。IPアドレスを取得するには、サポートに問い合わせる必要があります。
+**何が起こっているか：Salesforceにアクセスしよ** うとしていますが、IP制限が設けられているので、アドビはアクセスできません。\
+**トラブルシューティング手順：Salesforce管理者** がIPを許可リストする必要があります。IPアドレスを取得するには、サポートに問い合わせる必要があります。
 
 **エラー：** INVALID_TYPE\
 **カテゴリ:** アクセス/検証\
-**Message:** CreatedDate, (SELECT Id FROMタスク) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.カスタムオブジェクトを使用する場合は、エンティティ名の後に「__c」を必ず追加してください。 WSDLまたは適切な名前の説明の呼び出しを参照してください
+**Message:** CreatedDate, (SELECT Id FROMタスク) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。WSDLまたは適切な名前の説明の呼び出しを参照してください
 **現在の状況：**&#x200B;ユーザーがアクセスできないSalesforceのオブジェクトタイプをクエリしようとしています。 これは、ユーザーがリードオブジェクトに対する適切なアクセス権を持っていないことに関係している可能性が最も高いです。\
 **トラブルシューティング手順：Salesforceのリードオブジェクトに対して読み取りと更新のアクセス権を付与** するか、電子メールログと最新のアクティビティログを無効にしてリードレコードを記録します。
 
@@ -187,7 +187,7 @@ Salesforce統合の一部には、Webアプリケーション内にSalesforce診
 
 **エラー：** TXN_SECURITY_NO_ACCESS\
 **カテゴリ:** アクセス/検証\
-**メッセージ：** 要求した操作は、組織のセキュリティポリシーにより、許可されていません。管理者に問い合わせてください。<br/>
+**メッセージ：** 要求した操作は、組織のセキュリティポリシーにより、許可されていません。システム管理者にお問い合わせください。<br/>
 **何が起こっているか：** 何らかのセキュリティ制限が設定されています — https://developer.salesforce.com/forums/?id=「record ID」を参照してください。\
 **トラブルシューティング手順：Salesforce管理者に** 問い合わせて、具体的な制限事項を確認します。
 
