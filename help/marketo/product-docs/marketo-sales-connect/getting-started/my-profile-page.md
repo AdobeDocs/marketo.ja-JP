@@ -1,20 +1,20 @@
 ---
-description: マイプロファイルページ — Marketto Docs — 製品ドキュメント
+description: マイプロファイルページ —Marketoドキュメント — 製品ドキュメント
 title: マイプロファイルページ
+exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # マイプロファイルページ{#my-profile-page}
 
 [マイプロファイル]ページでは、名前、アカウントの言語、ロケール、タイムゾーンを更新したり、パスワードを変更したりできます。
 
-## アカウントの詳細{#account-details}
+## アカウンの詳細 {#account-details}
 
 ここで、名前やパスワードを更新できます。
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->電子メールアドレスが表示のみに設定されている。 変更が必要な場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>電子メールアドレスが表示のみに設定されている。 変更が必要な場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 このセクションでは、パスワードを変更することもできます。 このドキュメントでは、手順の概要を説明します。
 
-## 統合{#your-integrations}
+## 統合 {#your-integrations}
 
 ページの右側の「統合」セクションには、アカウントのすべての接続のステータスが表示されます。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 >
 >Sales ConnectとExchange On Premを使用している場合、配信チャネル（最初の行項目）または返信追跡（2番目の行項目）統合のヘルスチェックは更新されません。 今後のリリースでサポートする予定です。
 
-## タイムゾーン{#time-zone}
+## タイム ゾーン {#time-zone}
 
 アカウントの言語、ロケール、タイムゾーンを変更する方法を次に示します。
 
