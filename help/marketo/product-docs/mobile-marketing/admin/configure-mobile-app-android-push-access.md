@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512432
-description: モバイルアプリのAndroidプッシュアクセスの設定 — Marketto Docs — 製品ドキュメント
+description: モバイルアプリのAndroidプッシュアクセスの設定 —Marketoドキュメント — 製品ドキュメント
 title: モバイルアプリのAndroidプッシュアクセスの設定
+exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # モバイルアプリのAndroidプッシュアクセスの設定{#configure-mobile-app-android-push-access}
 
