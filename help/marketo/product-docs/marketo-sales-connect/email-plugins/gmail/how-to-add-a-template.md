@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352439
-description: テンプレート追加の使い方 — Marketto Docs — 製品ドキュメント
+description: テンプレート追加の使い方 —Marketoドキュメント — 製品ドキュメント
 title: テンプレート追加の使用方法
+exl-id: b88cbca8-117c-4100-819d-90666b26b275
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート追加の作成方法{#how-to-add-a-template}
 
