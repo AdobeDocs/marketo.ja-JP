@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783975
-description: テンプレート8-F - Marketto Docs — 製品ドキュメント
+description: テンプレート8-F -Marketoドキュメント — 製品ドキュメント
 title: テンプレート8 ～ F
+exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート8-F {#template-f}
 
