@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096523
-description: プッシュ通知ダッシュボードの表示- Marketto Docs — 製品ドキュメント
+description: 表示プッシュ通知ダッシュボード-Marketoドキュメント — 製品ドキュメント
 title: プッシュ通知ダッシュボードの表示
+exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # プッシュ通知ダッシュボードの表示{#view-the-push-notification-dashboard}
 
