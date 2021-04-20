@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352587
-description: キャンペーンは終了しました — Marketto Docs — 製品ドキュメント
+description: キャンペーンは終了しました —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンが終了しました
+exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンが終了しました{#campaign-has-ended}
 
