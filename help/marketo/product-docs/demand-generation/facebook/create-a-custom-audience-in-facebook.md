@@ -1,22 +1,22 @@
 ---
 unique-page-id: 4720275
-description: Facebook - Marketto Docs -オーディエンスドキュメントでのカスタム製品の作成
-title: Facebookでのカスタムオーディエンスの作成
+description: facebookでのカスタムオーディエンスの作成 —Marketoドキュメント — 製品ドキュメント
+title: facebookでカスタムオーディエンスを作成
+exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-
-# Facebookでのカスタムオーディエンスの作成{#create-a-custom-audience-in-facebook}
+# facebookでカスタムオーディエンスを作成する{#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [「追加管理者」セクションの「LaunchPointサー](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビス」としてのFacebookカスタムオーディエンス。
->* [Facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を承認します。
+>* [管理セクションのLaunchPointサー](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビスとしての追加Facebookカスタムオーディエンス。
+>* [facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) の条件に同意します。
 
 >
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Facebook](https://www.facebook.com/help/341425252616329)の[カスタムオーディエンスの詳細。
+>[Facebook](https://www.facebook.com/help/341425252616329)のカスタムオーディエンスの詳細。
 
 1. オーディエンスの作成元となるリードを含むスマートまたは静的なリストを探して選択します。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/222.png)
 
-1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
+1. **Facebook**&#x200B;を選択し、**次へ**&#x200B;をクリックします。
 
    ![](assets/two.png)
 
@@ -58,18 +58,18 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-   それだ！ Facebookでは、**広告マネージャー/オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
+   それだ！ facebookでは、**広告マネージャー/オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
    >[!NOTE]
    >
-   >Facebookにプッシュしたすべてのリストは静的になります。 Marketorのスマートリストは、Facebookのオーディエンスリストを自動更新せず、転送後に行われた変更を反映しません。
+   >facebookに押し出したリストはすべて静的になります。 Marketoのスマートリストは、Facebookのオーディエンスリストを自動的に更新して、転送後に行われた変更を反映しません。
 
    >[!TIP]
    >
-   >[Facebookのユーザー向けの学習パス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)を参照してください。 Facebookページの作成から、マーケティングの広告ネットワーク統合を使用したFacebook広告のターゲット設定まで、知る必要のあるすべてをカバーします。
+   >[Marketoのお客様向けのFacebook学習パス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)を参照してください。 これは、Facebookページの作成からMarketoの広告ネットワーク統合を使用したFacebook広告のターゲティングまで、知る必要のあるすべてをカバーします。
 
    >[!NOTE]
    >
-   >[Facebook追加でカスタムオーディエンスが発生](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[追加Facebookでカスタムオーディエンスが発生](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
