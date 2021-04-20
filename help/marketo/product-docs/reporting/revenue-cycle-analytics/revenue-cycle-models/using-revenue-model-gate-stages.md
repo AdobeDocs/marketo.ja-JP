@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718670
-description: 売上高モデルのゲートステージの使用 — Marketto Docs — 製品ドキュメント
+description: 売上高モデルのゲートステージの使用 —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルのゲート・ステージの使用
+exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデルのゲートステージの使用{#using-revenue-model-gate-stages}
 
