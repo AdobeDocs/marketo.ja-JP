@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385940
-description: リッチメディアの予測コンテンツの編集 — Marketto Docs — 製品ドキュメント
+description: リッチメディアの予測コンテンツの編集 —Marketoドキュメント — 製品ドキュメント
 title: リッチメディアの予測コンテンツの編集
+exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # リッチメディアの予測コンテンツの編集{#edit-predictive-content-for-rich-media}
 
