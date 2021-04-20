@@ -1,14 +1,14 @@
 ---
-description: アプリ内メッセージの作成 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージの作成 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージの作成
+exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 translation-type: tm+mt
-source-git-commit: b1cdd508e588af8b2af7f3d47804c460b48c8329
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージの作成{#create-an-in-app-message}
 
