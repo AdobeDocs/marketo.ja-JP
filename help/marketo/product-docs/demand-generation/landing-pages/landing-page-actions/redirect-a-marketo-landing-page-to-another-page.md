@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359740
-description: Marketorランディングページを別のページにリダイレクトする — Marketto Docs — 製品ドキュメント
-title: マーケティング先ランディングページを別のページにリダイレクト
+description: Marketoランディングページを別のページにリダイレクトする —Marketoドキュメント — 製品ドキュメント
+title: Marketoランディングページを別のページにリダイレクトする
+exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
-# 別のページへのマーケティングランディングページのリダイレクト{#redirect-a-marketo-landing-page-to-another-page}
+# Marketoランディングページを別のページにリダイレクト{#redirect-a-marketo-landing-page-to-another-page}
 
 ページのURLを更新した後で、古いURLを引き続き使用したい場合は、リダイレクトを試してみてください。 設定は簡単です。
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、マーケティング担当者[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)を選択します。
+1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、Marketo[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)を選択します。
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >リダイレクトできるのは、マーケティング先[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のURLだけです。
+   >リダイレクトできるのは、Marketo[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のURLだけです。
 
 1. 2つ目の&#x200B;**「元のURL**」フィールドで、リダイレクトするランディングページを選択します。
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketoの外部にあるWebページにリダイレクトするには、「**Use non-Markettoランディングページ**」をクリックします。
+   >Marketo以外のWebページにリダイレクトするには、「**Marketo以外のランディングページを使用**」をクリックします。
 
    >[!MORELIKETHIS]
    >
