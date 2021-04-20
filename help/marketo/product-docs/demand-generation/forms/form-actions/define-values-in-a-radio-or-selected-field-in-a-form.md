@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359614
-description: フォーム — Marketto Docs — 製品ドキュメントのラジオまたは選択したフィールドでの値の定義
+description: ラジオまたは選択したフィールドの値をフォームで定義する —Marketoドキュメント — 製品ドキュメント
 title: フォーム内のラジオまたは選択したフィールドの値の定義
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # フォーム{#define-values-in-a-radio-or-selected-field-in-a-form}のラジオまたは選択したフィールドで値を定義する
 
@@ -41,13 +41,13 @@ ht-degree: 0%
    >
    >**表示値：** 訪問者に表示する内容。
    >
-   >**保存値：マーケティング** で記録される値。
+   >**保管値：Marketo** で記録される値。
 
 1. 値追加を必要な数だけ保存し、**保存**&#x200B;をクリックします。
 
    >[!NOTE]
    >
-   >「保存値」を入力しない場合、マーケティング担当者は「表示値」を使用して保存します。
+   >[保存値]を入力しない場合、Marketoは[表示値]を使用して保存します。
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
