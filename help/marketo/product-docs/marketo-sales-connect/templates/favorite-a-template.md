@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352633
-description: テンプレートのお気に入り — Marketto Docs — 製品ドキュメント
+description: テンプレートのお気に入り —Marketoドキュメント — 製品ドキュメント
 title: テンプレートのお気に入り
+exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # テンプレートのお気に入り{#favorite-a-template}
 
