@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14746432
-description: カスタムフィールドをパフォーマンスインサイトに同期 — Marketto Docs — 製品ドキュメント
+description: カスタムフィールドをパフォーマンスインサイトと同期 —Marketoドキュメント — 製品ドキュメント
 title: カスタムフィールドをパフォーマンスインサイトに同期
+exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # カスタムフィールドをパフォーマンスインサイトに同期{#sync-custom-fields-to-performance-insights}
 
-MPI売上高とパイプラインダッシュボードは、カスタムマーケティングフィールドに対してフィルターを適用できます。 そのためには、同期するカスタムフィールドを設定する必要があります。
+MPI売上高とパイプラインダッシュボードは、カスタムMarketoフィールドに対してフィルターを適用できます。 そのためには、同期するカスタムフィールドを設定する必要があります。
 
 >[!NOTE]
 >
