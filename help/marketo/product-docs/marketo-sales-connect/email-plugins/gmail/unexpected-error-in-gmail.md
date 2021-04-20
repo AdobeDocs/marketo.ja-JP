@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352545
-description: Gmailで予期しないエラーが発生しました — Marketto Docs — 製品ドキュメント
+description: Gmailで予期しないエラーが発生しました —Marketoドキュメント — 製品ドキュメント
 title: Gmailで予期しないエラーが発生しました
+exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Gmail {#unexpected-error-in-gmail}で予期しないエラーが発生しました
 
