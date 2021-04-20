@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12980105
-description: アカウントインサイトにユーザーを招待する — Marketto Docs — 製品ドキュメント
+description: アカウントインサイトへのアクセスをユーザーに招待する —Marketoドキュメント — 製品ドキュメント
 title: アカウントインサイトにアクセスするユーザーの招待
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントインサイトにアクセスするユーザーの招待{#invite-users-to-access-account-insight}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >CRMユーザーリストを介して新しい（マーケティング担当者以外の）ユーザーを招待する場合、一度に複数の人を招待できます。 電子メールによる招待は1対1です。
+   >CRMユーザーリストを使用して新しい(Marketo以外の)ユーザーを招待する場合、一度に複数の人を招待できます。 電子メールによる招待は1対1です。
 
 1. **CRMユーザー**&#x200B;ドロップダウンをクリックし、目的のユーザーを選択します。
 
