@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950547
-description: ソーシャルアプリの人物キャプチャの設定 — Marketto Docs — 製品ドキュメント
+description: ソーシャルアプリ用の人物キャプチャの設定 —Marketoドキュメント — 製品ドキュメント
 title: Socialアプリ用の人物キャプチャの設定
+exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルアプリ用の人物キャプチャの設定{#configure-person-capture-for-a-social-app}
 
