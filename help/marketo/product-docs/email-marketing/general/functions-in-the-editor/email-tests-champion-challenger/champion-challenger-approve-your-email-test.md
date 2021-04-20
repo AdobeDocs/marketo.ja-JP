@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger — 電子メールテストの承認 — Marketto Docs — 製品ドキュメント
+description: Champion/Challenger — 電子メールテストの承認 —Marketoドキュメント — 製品ドキュメント
 title: Champion/Challenger — 電子メールテストの承認
+exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：電子メールテストの承認{#champion-challenger-approve-your-email-test}
 
