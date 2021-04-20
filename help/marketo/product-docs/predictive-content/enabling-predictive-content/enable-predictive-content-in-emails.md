@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385020
-description: 電子メール — Marketto Docs — 製品ドキュメントで予測コンテンツを有効にする
+description: 電子メール —Marketoドキュメント — 製品ドキュメントで予測コンテンツを有効にする
 title: 電子メールの予測コンテンツを有効にする
+exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールでの予測コンテンツの有効化{#enable-predictive-content-in-emails}
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ## 電子メール2.0エディターを使用しない場合の予測コンテンツの追加{#adding-predictive-content-when-not-using-the-email-editor}
 
-[電子メール2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)テンプレートを使用していない場合は、テンプレート内の画像を編集可能なMarketor画像要素としてタグ付けするだけで、予測コンテンツを電子メールに追加できます。
+[電子メール2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)テンプレートを使用していない場合は、テンプレート内の画像をMarketo編集可能な画像要素としてタグ付けするだけで、予測コンテンツを電子メールに追加できます。
 
 [Marketo固有の構文については、](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)を参照してください。
 
