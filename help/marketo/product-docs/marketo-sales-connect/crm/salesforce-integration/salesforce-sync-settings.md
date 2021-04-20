@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317669
-description: Salesforce同期設定 — Marketto Docs — 製品ドキュメント
-title: Salesforce同期設定
+description: Salesforce同期設定 —Marketoドキュメント — 製品ドキュメント
+title: Salesforce 同期設定
+exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Salesforce同期設定{#salesforce-sync-settings}
+# Salesforce 同期設定 {#salesforce-sync-settings}
 
 ## API {#logging-email-activity-to-salesforce-via-api}を介してSalesforceに電子メールアクティビティをログ記録する
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >SalesforceとSales Engageは関連付けられている必要があります。
 
-1. 「Sales Engage」で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. 「Sales Engage」で、右上のギアアイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 **電子メール(BCC)を使用してSalesforceに電子メールをログに記録するには**
 
-1. 「Sales Engage」で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. 「Sales Engage」で、右上のギアアイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 1. 「アクティブ」の横のチェックボックスをオンにします。
 1. 「**保存**」をクリックします。
 
-## 販売の関与タスク/リマインダをSalesforceタスクに同期{#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## セールスエンゲージタスク/Salesforce タスクのリマインダを同期 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
 1. 右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
