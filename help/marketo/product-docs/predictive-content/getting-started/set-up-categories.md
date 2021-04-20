@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11385057
-description: カテゴリの設定 — Marketto Docs — 製品ドキュメント
+description: カテゴリの設定 —Marketoドキュメント — 製品ドキュメント
 title: カテゴリの設定
+exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # カテゴリの設定{#set-up-categories}
 
