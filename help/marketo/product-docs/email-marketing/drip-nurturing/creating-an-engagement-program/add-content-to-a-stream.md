@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359659
-description: ストリ追加ームへのコンテンツ — Marketto Docs — 製品ドキュメント
+description: ストリ追加ームへのコンテンツ —Marketoドキュメント — 製品ドキュメント
 title: ストリ追加ームのコンテンツ
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ストリーム追加のコンテンツ{#add-content-to-a-stream}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
-**ドラッグ&amp;ドロップ**
+**ドラッグ＆ドロップ**
 
 1. ツリーから電子メールをストリーム内にドラッグするだけです。
 
@@ -101,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a46-3a54.png)
 
-**ドラッグ&amp;ドロップ**
+**ドラッグ＆ドロップ**
 
 1. 選択したプログラムをツリーからストリームにドラッグ&amp;ドロップします。
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a47-3a8.png)
 
-素晴らしい仕事！ プログラムストリームにコンテンツを追加する様々な方法を理解できるようになりました。 養追加うのに必要な数だけ 詳しくは、以下の関連記事を参照してください。
+OK！プログラムストリームにコンテンツを追加する様々な方法を理解できるようになりました。 養追加うのに必要な数だけ 詳しくは、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >
