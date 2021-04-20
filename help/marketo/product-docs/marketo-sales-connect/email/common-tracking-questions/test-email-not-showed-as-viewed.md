@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352538
-description: 表示されていない電子メールのテスト — Marketto Docs — 製品ドキュメント
+description: 表示されていない電子メールのテスト —Marketoドキュメント — 製品ドキュメント
 title: 表示されていない電子メールのテスト
+exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # 表示されていない電子メールのテスト{#test-email-not-showed-as-viewed}
 
