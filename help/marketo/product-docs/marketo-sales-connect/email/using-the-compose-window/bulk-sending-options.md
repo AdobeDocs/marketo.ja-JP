@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356575
-description: バルク送信オプション — Marketto Docs — 製品ドキュメント
+description: 一括送信オプション —Marketoドキュメント — 製品ドキュメント
 title: バルク送信オプション
+exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # バルク送信オプション{#bulk-sending-options}
 
