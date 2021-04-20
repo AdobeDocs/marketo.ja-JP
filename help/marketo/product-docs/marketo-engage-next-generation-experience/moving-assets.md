@@ -1,14 +1,14 @@
 ---
-description: アセットの移動 — Marketto Docs — 製品ドキュメント
+description: アセットの移動 —Marketoドキュメント — 製品ドキュメント
 title: アセットの移動
+exl-id: 3d4bd3ef-1889-4f44-abe0-6e78c757fc7e
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # アセットの移動{#moving-assets}
 
