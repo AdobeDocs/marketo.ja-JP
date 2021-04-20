@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359504
-description: 「送信者アドレス」のA/Bテスト — Marketto Docs — 製品ドキュメントを使用
+description: 「送信者アドレス」のA/Bテスト —Marketoドキュメント — 製品ドキュメントを使用
 title: 「送信者アドレス」のA/Bテストを使用
+exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # 「アドレスから」のA/Bテストを使用{#use-from-address-a-b-testing}
 
