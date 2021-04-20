@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571888
-description: 売上高サイクル分析 — Marketto Docs — 製品ドキュメントでのカスタムフィールドの同期の有効化
+description: 売上高サイクル分析 —Marketoドキュメント — 製品ドキュメントでのカスタムフィールドの同期の有効化
 title: 売上高サイクル分析でのカスタムフィールドの同期の有効化
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # 売上サイクル分析用のカスタムフィールドの同期を有効にする{#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
