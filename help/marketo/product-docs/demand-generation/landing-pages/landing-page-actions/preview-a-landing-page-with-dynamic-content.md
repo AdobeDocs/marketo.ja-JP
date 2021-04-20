@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359734
-description: 動的コンテンツ — Marketto Docs — 製品ドキュメントでのランディングページのプレビュー
+description: 動的コンテンツとのランディングページのプレビュー-Marketoドキュメント — 製品ドキュメント
 title: 動的コンテンツを使用したランディングページのプレビュー
+exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 動的コンテンツ{#preview-a-landing-page-with-dynamic-content}を使用したランディングページのプレビュー
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-すごい！ セグメント間でのランディングページの作業を、希望どおりに進めることができるようになりました。
+やりましたね！セグメント間でのランディングページの作業を、希望どおりに進めることができるようになりました。
