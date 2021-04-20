@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352638
-description: 新しいカテゴリの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいカテゴリの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいカテゴリの作成
+exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
-
 
 # 新しいカテゴリの作成{#create-a-new-category}
 
