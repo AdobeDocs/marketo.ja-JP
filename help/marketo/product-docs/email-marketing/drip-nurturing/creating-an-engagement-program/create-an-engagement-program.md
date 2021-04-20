@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359652
-description: エンゲージメントプログラムの作成 — Marketto Docs — 製品ドキュメント
+description: エンゲージメントプログラムの作成 —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントプログラムの作成
+exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # エンゲージメントプログラムの作成{#create-an-engagement-program}
 
-Marketingのエンゲージメントプログラムを使用すると、電子メールの育成を簡単に行うことができます。
+Marketoのエンゲージメントプログラムを使用して、電子メールの育成を簡単に行うことができます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -34,5 +34,5 @@ Marketingのエンゲージメントプログラムを使用すると、電子�
    >[!MORELIKETHIS]
    >
    >* [ストリ追加ームのコンテンツ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
-   >* [ストリームカデンスを設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [ストリーム ケイデンスの設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
