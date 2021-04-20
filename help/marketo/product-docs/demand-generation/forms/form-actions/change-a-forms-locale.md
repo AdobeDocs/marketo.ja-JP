@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359657
-description: フォームのロケールの変更 — Marketto Docs — 製品ドキュメント
+description: フォームのロケールの変更 —Marketoドキュメント — 製品ドキュメント
 title: フォームのロケールの変更
+exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # フォームのロケールの変更{#change-a-forms-locale}
 
-国際フォームを扱う場合は、日付/時間を正しい形式で表示する必要があります。 Marketoが自動的にこれを行うので、フォームのロケールを設定するだけで、残りの作業はアドビが行います。
+国際フォームを扱う場合は、日付/時間を正しい形式で表示する必要があります。 Marketoが自動的にこれを行うので、フォームのロケールを設定するだけで、残りの作業はデルが行います。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
