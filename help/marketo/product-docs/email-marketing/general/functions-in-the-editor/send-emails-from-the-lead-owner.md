@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147340
-description: リード所有者 — Marketto Docs — 製品ドキュメントからの電子メールの送信
+description: リード所有者からの電子メールの送信 —Marketoドキュメント — 製品ドキュメント
 title: リード所有者からの電子メールの送信
+exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # リードの所有者からの電子メールの送信{#send-emails-from-the-lead-owner}
 
