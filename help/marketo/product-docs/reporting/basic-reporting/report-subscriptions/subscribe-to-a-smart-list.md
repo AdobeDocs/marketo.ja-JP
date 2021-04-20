@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7505310
-description: スマートリストの購読 — Marketto Docs — 製品ドキュメント
+description: スマートリストの購読 —Marketoドキュメント — 製品ドキュメント
 title: スマートリストのサブスクリプションを購入
+exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
 
 ---
-
 
 # スマートリストの登録{#subscribe-to-a-smart-list}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 スマートリスト購読は、次の2つの場所に作成できます。
 
-* マーケティングアクティビティ
+* マーケティング活動
 * データベース
 
 購読は、購読の実行時に完全なリストのユーザーを使用します。
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->1つの購読、複数の購読、複数のワークスペース、1つのMarketoインスタンスにつき、100人のワークスペースと最大100,000人のユーザーに制限されます。 スマートリストに100,000を超える名前が含まれる場合、Marketorは最初の100,000に対して購読を実行します。
+>100人の購読と100,000人のユーザーに制限されます1人の購読、1つのワークスペース、1つのMarketoインスタンスに対して最大100,000人です スマートリストに100,000を超える名前が含まれる場合、Marketoは最初の100,000に対して購読を実行します。
 
 ## スマートリスト購読の作成{#create-a-smart-list-subscription}
 
@@ -76,11 +76,11 @@ ht-degree: 0%
 
 ## 電子メールメッセージ{#email-message}
 
-受信者は、レポートをダウンロードするオプションと、Marketorインスタンス内のリストに直接リンクするオプションを含む電子メールを受信します。 ダウンロードリンクは4日後に期限切れになります。
+受信者には、レポートをダウンロードするオプションと、Marketoインスタンス内のリストに直接リンクするオプションが記載された電子メールが届きます。 ダウンロードリンクは4日後に期限切れになります。
 
 >[!NOTE]
 >
->[セキュア購読管理者](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)設定が&#x200B;**はい**&#x200B;に設定されている場合、Marketorインスタンスにアクセスできる訪問者のみがレポートをダウンロードできます。
+>[セキュア購読管理者](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)の設定が&#x200B;**はい**&#x200B;に設定されている場合、Marketoインスタンスにアクセスできるユーザーのみがレポートをダウンロードできます。
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
