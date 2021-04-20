@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359953
-description: コンテンツを使い果たした人 — Marketo Docs — 製品ドキュメント
+description: コンテンツを使い果たした人 —Marketoドキュメント — 製品ドキュメント
 title: コンテンツを使い果たした人
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # コンテンツを使い果たした人{#people-who-have-exhausted-content}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    これにより、すべてのコンテンツを使い果たした訪問者と使用しなかった訪問者が表示されます。
 
-## ストリーム{#stream}
+## ストリーム {#stream}
 
 1. また、ストリーム自体の「Streams」タブに、コンテンツを使い果たした人の合計も表示されます。
 
