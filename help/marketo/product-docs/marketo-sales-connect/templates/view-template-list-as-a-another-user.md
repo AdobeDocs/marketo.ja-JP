@@ -1,15 +1,15 @@
 ---
 unique-page-id: 18317369
-description: 別のユーザーとしての表示テンプレートリスト- Marketto Docs — 製品ドキュメント
+description: 別のユーザーとしての表示テンプレートリスト-Marketoドキュメント — 製品ドキュメント
 title: 別の表示としてのユーザーテンプレートリスト
+exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # 別のユーザーとしての表示テンプレートリスト{#view-template-list-as-a-another-user}
 
