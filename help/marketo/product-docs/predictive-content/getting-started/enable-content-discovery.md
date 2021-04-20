@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719190
-description: コンテンツ検出を有効にする — Marketto Docs — 製品ドキュメント
+description: コンテンツ検出を有効にする —Marketoドキュメント — 製品ドキュメント
 title: コンテンツ検出を有効にする
+exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # コンテンツ探索を有効にする{#enable-content-discovery}
 
