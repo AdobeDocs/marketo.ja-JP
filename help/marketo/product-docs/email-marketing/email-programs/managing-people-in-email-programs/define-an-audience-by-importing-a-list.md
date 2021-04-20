@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900597
-description: リストのインポート — Marketto Docs -オーディエンスドキュメント
+description: リストの読み込みによるオーディエンスの定義 —Marketoドキュメント — 製品ドキュメント
 title: リストのインポートによるオーディエンスの定義
+exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # リストのインポートによるオーディエンスの定義{#define-an-audience-by-importing-a-list}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >今後のインポートで使用できるマッピングがマーケティング担当者に記憶されます。
+   >Marketoは将来の輸入の地図を思い出す！
 
 1. リストの&#x200B;**名前**&#x200B;を入力し、**読み込み**&#x200B;をクリックします。
 
@@ -63,10 +63,10 @@ ht-degree: 0%
 >
 >禁止番号に気づいた？ この数字は資格を持つ人のサブセットで、次の理由でこの電子メールを送信できない人を表します。
 >
->* 登録解除
->* マーケティングの中断
+>* 配信停止完了
+>* マーケティングを中断したリード
 >* ブロックリストに加える
->* 電子メールが無効です
+>* メール無効
 >* 空の電子メール
 
 >
