@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719402
-description: 新しいウィジェットWebキャンペーンの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいウィジェットWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいウィジェットWebキャンペーンの作成
+exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '632'
+ht-degree: 2%
 
 ---
-
 
 # 新しいウィジェットWebキャンペーンの作成{#create-a-new-widget-web-campaign}
 
@@ -41,7 +41,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -50,7 +50,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
    <td colspan="1">あらかじめ用意されているテンプレートから1つ選択します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>表示日</strong></td> 
+   <td colspan="1"><strong>表示場所</strong></td> 
    <td colspan="1">Webキャンペーンーの<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
   </tr> 
   <tr> 
@@ -62,7 +62,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
    <td colspan="1">ページ上でのウィジェットの位置に関する4つのオプションのいずれかを選択します。右、左、上、下。 位置%は、ウィジェットがブラウザーページに表示される位置に関する割合です（例：「50%下」はウィジェットをページの下半分に表示し、「10%左」はウィジェットをページの左上近くに表示しますなど）。<br></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>ウィジェットの色</strong></td> 
+   <td colspan="1" rowspan="1"><strong>ウィジェット色</strong></td> 
    <td colspan="1" rowspan="1"><p>カラーグラフからウィジェットの色を選択するか、RGBカラーコードとして入力します。 ウィジェットの背景の透明度のレベルは、下部のバーをどちらかの方向に動かして選択することもできます。</p></td> 
   </tr> 
   <tr> 
@@ -70,7 +70,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
    <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色を指定します。<br>カスタム：ホストされている画像のURLを挿入します。使用できるファイルタイプは、.JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMPです。<br>テキスト：ウィジェットにはテキストを使用でき、色、サイズ、フォントをカスタマイズできます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>定着</strong></td> 
+   <td colspan="1"><strong>固定</strong></td> 
    <td colspan="1">これを選択すると、訪問者のセッション中、ウィジェットがすべてのWebページに表示されます。</td> 
   </tr> 
   <tr> 
@@ -82,7 +82,7 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
    <td colspan="1">ウィジェットの色をデフォルトの透明なグレーのオプションに設定して、ウィジェットの元のデフォルト設定を復元します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>サイトでのプレビュー </strong></td> 
+   <td colspan="1"><strong>オンサイトのプレビュー </strong></td> 
    <td colspan="1">起動前のプレビューキャンペーン。<br> 
     <ul> 
      <li>URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
