@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359726
-description: ランディングページのタイトルとメタデータの編集 — Marketto Docs — 製品ドキュメント
+description: ランディングページのタイトルとメタデータを編集 —Marketoドキュメント — 製品ドキュメント
 title: ランディングページのタイトルとメタデータを編集
+exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
 # ランディングページのタイトルとメタデータを編集{#edit-landing-page-title-and-metadata}
 
-Marketorでは、SEOの目的に合わせてランディングページの[metaタグ](https://www.w3schools.com/tags/tag_meta.asp)を編集できるほか、HTMLの`<head>`部分をカスタマイズできます。
+Marketoでは、SEO用のランディングページ[metaタグ](https://www.w3schools.com/tags/tag_meta.asp)を編集したり、HTMLの`<head>`部分をカスタマイズしたりできます。
 
 1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
