@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359518
-description: スニペットの削除 — Marketo Docs — 製品ドキュメント
+description: スニペットの削除 —Marketoドキュメント — 製品ドキュメント
 title: スニペットの削除
+exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # スニペット{#delete-a-snippet}の削除
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >削除できるのは、未承認でアセットで使用されていないスニペットのみです。
 
-完了！ 取得できないので、削除ボタンをクリックする前に確認してください。
+完了! 取得できないので、削除ボタンをクリックする前に確認してください。
