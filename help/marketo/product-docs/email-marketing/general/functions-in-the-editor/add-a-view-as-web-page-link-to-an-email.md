@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900560
-description: 電子メ追加ールへのWebページリンクとしての表示- Marketto Docs — 製品ドキュメント
+description: 電子メールへ追加のWebページリンクとしての表示-Marketoドキュメント — 製品ドキュメント
 title: 電子メ追加ールへのWebページリンクとしての表示
+exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # 電子メ追加ール{#add-a-view-as-web-page-link-to-an-email}へのWebページリンクとしての表示
 
