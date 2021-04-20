@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472348
-description: 既存のフリーフォームランディングページテンプレートのモバイル互換性の確保 — Marketto Docs — 製品ドキュメント
+description: 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の確保 —Marketoドキュメント — 製品ドキュメント
 title: 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定
+exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # 既存のフリーフォームランディングページテンプレートとモバイルとの互換性の設定{#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
@@ -81,4 +81,4 @@ ht-degree: 0%
    >
    >モバイルバージョンのテンプレートをアクティブ化すると、それを使用するランディングページのドラフトが作成されます。
 
-すごい！ これで、このテンプレートを使用するすべてのランディングページのモバイル表示](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)を[カスタマイズできます。
+やりましたね！これで、このテンプレートを使用するすべてのランディングページのモバイル表示](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)を[カスタマイズできます。
