@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14746188
-description: Salesforceとの登録解除の同期 — Marketto Docs — 製品ドキュメント
+description: Salesforceとの登録解除 —Marketoドキュメント — 製品ドキュメント
 title: Salesforceとの登録解除の同期
+exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Salesforceとの登録解除{#syncing-unsubscribes-with-salesforce}
 
@@ -29,7 +29,7 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
 ## Salesforceへの登録解除同期の設定{#configure-unsubscribe-sync-to-salesforce}
 
-ユーザーは、購読解除をMarketorと同期できる標準の電子メールオプトアウトフィールドと同期するか、またはマーケティング担当者のセールスフィールドと同期してSalesの購読解除とMarketingの購読解除を区別できるオプトアウトかを決定できます。
+ユーザーは、登録解除とMarketoが同期できる標準の電子メールオプトアウトフィールドを同期するか、またはMarketo販売フィールドと同期して、販売登録取り消しとマーケティング登録取り消しを区別できるようにするかを決定できます。
 
 1. [Webアプリケーション](https://toutapp.com/login)に移動し、歯車アイコンをクリックして、**設定**&#x200B;を選択します。
 
@@ -47,14 +47,14 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    ![](assets/4.png)
 
-   | フィールド | 説明 |
+   | フィールド | 詳細 |
    |---|---|
-   | **Salesforceフオプトアウトィールドと同期** | デフォルトで選択されている場合は、Salesforceフオプトアウトィールドのみが更新されます。 |
-   | **マーケティング担当者の販売オプトアウトフィールドと同期** | 販売とマーケティングの購読を分割する場合は、このオプションを選択して、追加の[販売のオプトアウトマーケティングフィールドを更新します。](#msoo) |
+   | **Salesforce オプトアウトフィールドに同期** | デフォルトで選択されている場合は、Salesforceフオプトアウトィールドのみが更新されます。 |
+   | **Marketo セールスオプトアウトフィールドに同期** | 販売とマーケティングの登録解除を分割する場合は、このオプションを選択して、[Marketoの販売フィールドをオプトアウト追加更新します。](#msoo) |
 
 ## ページレイアウトオプトアウトのフィールドのインストール{#installing-the-opt-out-field-in-the-page-layout}
 
-**電子メオプトアウトール**
+**メールオプトアウト**
 
 電子メールは、Salesforceからインストールできる、Salesforceの標準フィールドです。 インストールするには、Salesforce管理者である必要があります。
 
@@ -90,8 +90,8 @@ Sales Connectで登録解除が収集されると、Salesforceにリアルタイ
 
    ![](assets/twelve.png)
 
-## マーケティンオプトアウトグ担当者{#marketo-sales-opt-out}
+## Marketo セールスオプトアウト {#marketo-sales-opt-out}
 
-「マーケティングオプトアウト先の販売」フィールドは、Marketo Sales Connectのカスタマイズをインストールしたユーザーが使用できるカスタムフィールドです。
+[Marketoオプトアウトの販売数]フィールドは、Marketoの販売数接続のカスタマイズをインストールしたユーザが使用できるカスタムフィールドです。
 
-「Marketo Sales Connect Customizations」のSalesforceへのインストールが完了すると、「Marketo Sales」フィールドが表示されオプトアウトます。
+[Marketo販売接続のカスタマイズ]をSalesforceに正しくインストールすると、[Marketo販売オプトアウト]フィールドが表示されます。
