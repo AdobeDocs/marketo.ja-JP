@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37355609
-description: 新しいアカウント検出 — Marketto Docs — 製品ドキュメント
+description: 新しいアカウント検出 —Marketoドキュメント — 製品ドキュメント
 title: 新しいアカウントの検出
+exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 新しいアカウント検出{#new-account-discovery}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >新しいアカウント検索を実行する前に、「**既存のアカウントを更新**」ボタンを押して、最新のデータが表示されていることを確認することをお勧めします。 この更新には最大24時間かかる場合があります。
 
-1. 「マーケティング」で、「**ターゲットアカウント管理**」をクリックします。
+1. [マイMarketo]で[**ターゲットアカウント管理**]をクリックします。
 
    ![](assets/new-account-discovery-1.png)
 
