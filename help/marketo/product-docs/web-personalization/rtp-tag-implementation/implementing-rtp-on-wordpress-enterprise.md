@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720215
-description: Wordpress EnterpriseでのRTPの実装 — Marketto Docs — 製品ドキュメント
+description: Wordpress EnterpriseでのRTPの実装 —Marketoドキュメント — 製品ドキュメント
 title: Wordpress EnterpriseでのRTPの実装
+exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Wordpress EnterpriseでのRTPの実装{#implementing-rtp-on-wordpress-enterprise}
 
