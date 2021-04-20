@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11375276
-description: 電子メールインサイトのカスタムDimension- Marketto Docs — 製品ドキュメント
+description: 電子メールインサイトのカスタムDimension-Marketoドキュメント — 製品ドキュメント
 title: 電子メールインサイトのカスタムDimension
+exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールインサイトのカスタムDimension{#custom-dimensions-for-email-insights}
 
-すべての標準的なMarketorディメンションが含まれますが、最大10個のカスタムディメンションを追加できます。 カスタムディメンションは、セグメントとプログラムタグで構成されます。 追加する方法を次に示します。
+標準のMarketoディメンションはすべて含まれますが、カスタムディメンションを10個まで追加することもできます。 カスタムディメンションは、セグメントとプログラムタグで構成されます。 追加する方法を次に示します。
 
 >[!NOTE]
 >
