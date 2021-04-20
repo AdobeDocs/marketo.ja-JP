@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12615798
-description: アカウントリスト追加に対する既存の名前付きアカウント — Marketto Docs — 製品ドキュメント
+description: アカウントリスト追加に対する既存の名前付きアカウント —Marketoドキュメント — 製品ドキュメント
 title: ア追加カウントリストに対する既存の名前付きアカウント
+exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # ア追加カウントリスト{#add-an-existing-named-account-to-an-account-list}に対する既存の名前付きアカウント
 
