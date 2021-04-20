@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14745793
-description: CRM用のSales Connectのカスタマイズ — Marketto Docs — 製品ドキュメント
+description: CRM用のSales Connectのカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: CRM向けの販売接続のカスタマイズ
+exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # CRM用のSales Connectのカスタマイズ{#sales-connect-customizations-for-crm}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **Marketto Sales Connect Customizations**&#x200B;をクリックします。
+1. [**Marketo販売接続のカスタマイズ**]をクリックします。
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-## カスタムアクティビティフィールド{#custom-activity-fields}
+## カスタムアクティビティフィールド {#custom-activity-fields}
 
-Marketorは、新しいフィールドの作成を検出し、1回限りのデータのバックフィル、再マッピング、および&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を実行します。 古いフィールドは更新されません。
+Marketoは、新しいフィールドの作成を検出し、1回限りのデータのバックフィル、再マッピング、および&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を行います。 古いフィールドは更新されません。
 
-| **フィールド名** | **説明** |
+| **フィールド名** | **詳細** |
 |---|---|
 | MSE Call Local Presence ID | ユーザーは、MSE Phoneからの呼び出し時に、「ローカルプレゼンス」をオプションとして選択できます。 着信呼び出しは、受信者のローカル番号を表示します。 |
 | MSE呼び出し記録URL | 呼び出しを記録し、記録のリンクをここに記録できます。 |
@@ -71,7 +71,7 @@ Marketorは、新しいフィールドの作成を検出し、1回限りのデ�
  <tbody> 
   <tr> 
    <td><strong>フィールド名</strong></td> 
-   <td><strong>説明</strong></td> 
+   <td><strong>詳細</strong></td> 
   </tr> 
   <tr> 
    <td>MSE — 最後のマーケティングエンゲージメント</td> 
@@ -116,9 +116,9 @@ Marketorは、新しいフィールドの作成を検出し、1回限りのデ�
  </tbody> 
 </table>
 
-## ボタン{#buttons}
+## ボタン {#buttons}
 
-| **ボタン名** | **説明** |
+| **ボタン名** | **詳細** |
 |---|---|
 | MSE電子メールの送信 | Salesforceから販売の電子メールを送信します。 |
 | MSE追加キャンペーン | をSalesforceの追加MSEキャンペーンに送信します。 |
@@ -127,7 +127,7 @@ Marketorは、新しいフィールドの作成を検出し、1回限りのデ�
 
 ## バルクアクションボタン{#bulk-action-buttons}
 
-| **ボタン名** | **説明** |
+| **ボタン名** | **詳細** |
 |---|---|
 | MSE追加キャンペーン | をSalesforceの追加MSEキャンペーンに送信します。 |
 | MSEにプッシュ | SalesforceからMSEに連絡を取る。 |
