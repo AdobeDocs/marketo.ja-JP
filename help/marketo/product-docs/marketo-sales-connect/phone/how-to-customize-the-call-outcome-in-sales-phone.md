@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352432
-description: 電話 — Marketto Docs — 製品ドキュメントでの通話結果のカスタマイズ方法
+description: 電話 —Marketoドキュメント — 製品ドキュメントでの通話結果のカスタマイズ方法
 title: 電話での通話結果のカスタマイズ方法
+exl-id: 8c6a2663-0c36-4c73-9afc-4ff1f664fe7b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # 販売用電話での通話結果のカスタマイズ方法{#how-to-customize-the-call-outcome-in-sales-phone}
 
