@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352437
-description: 会議録画をチームと共有 — Marketto Docs — 製品ドキュメント
+description: 会議録画をチームと共有 —Marketoドキュメント — 製品ドキュメント
 title: 通話記録をチームと共有
+exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # 通話記録をチームと共有{#share-call-recordings-with-your-team}
 
