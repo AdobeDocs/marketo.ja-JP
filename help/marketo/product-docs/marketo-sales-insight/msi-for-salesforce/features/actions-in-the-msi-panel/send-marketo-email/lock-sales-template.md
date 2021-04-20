@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12981050
-description: 販売テンプレートのロック — Marketto Docs — 製品ドキュメント
+description: 販売テンプレートのロック —Marketoドキュメント — 製品ドキュメント
 title: 販売テンプレートのロック
+exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
-
 
 # 販売テンプレートをロック{#lock-sales-template}
 
@@ -17,7 +17,7 @@ CRMユーザーが販売テンプレートを編集できないように、管�
 
 >[!CAUTION]
 >
->この機能はSalesforceでのみ動作し、Microsoft Dynamicsや他のCRMとは互換性がありません。 OutlookまたはGmailプラグインからアクセスしたテンプレートはロックされません。エディターはMarketoによって制御されません。
+>この機能はSalesforceでのみ動作し、Microsoft Dynamicsや他のCRMとは互換性がありません。 OutlookまたはGmailプラグインからアクセスしたテンプレートはロックされません。エディタはMarketoによって制御されません。
 
 ## テンプレートのロックを有効にする{#enable-lock-template}
 
@@ -55,7 +55,7 @@ CRMユーザーが販売テンプレートを編集できないように、管�
 
    ![](assets/6.png)
 
-1. まだ確認していない場合は、**Publish to Marketto Sales Insight**&#x200B;を確認します。 テンプレートをロックするために、**「CRMユーザーに電子メール**&#x200B;の編集を許可」のチェックを外せるようになりました。 「**保存**」をクリックします。
+1. まだチェックされていない場合は、**「Marketo販売インサイトへの投稿**」をチェックします。 テンプレートをロックするために、**「CRMユーザーに電子メール**&#x200B;の編集を許可」のチェックを外せるようになりました。 「**保存**」をクリックします。
 
    ![](assets/7.png)
 
