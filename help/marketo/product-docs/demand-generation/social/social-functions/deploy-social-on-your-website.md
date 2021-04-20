@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950524
-description: SocialをWebサイトにデプロイする — Marketto Docs — 製品ドキュメント
+description: SocialをWebサイトにデプロイする —Marketoドキュメント — 製品ドキュメント
 title: WebサイトにSocialを導入する
+exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # SocialをWebサイトに導入する{#deploy-social-on-your-website}
 
-ソーシャルアプリをマーケティング先以外のページに埋め込みます。
+ソーシャルアプリをMarketo以外のページに埋め込みます。
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 独自のWebサイトにソーシャルアプリをデプロイして、オーディエンスを惹きつけ、ソーシャルネットワーク上ですべてのユーザーをより大きな会話に誘導することができます。 訪問者がソーシャルネットワーク上の友達とプロモーションやコンテンツを共有すると、サイトへのトラフィック量が増えます。
 
-1. YouTubeビデオやソーシャルボタンなど、承認されたソーシャルアプリを選択します。
+1. YouTubeのビデオやソーシャルボタンなど、承認されたソーシャルアプリを選択します。
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/socialonsite-resizewidget2.png)
 
-   Marketor SocialアプリでWebサイトにコンテンツとインタラクティブ機能が追加され、ファン、訪問者および既存の顧客を招待して、ユーザーに関する情報を広めることができます。 同時に、データベースにプロファイルデータが追加され、ソーシャルな影響指標が追跡されます。
+   これで、Webサイトにコンテンツとインタラクティブ機能が追加され、ファン、訪問者および既存の顧客を招待して、ユーザーに関する情報を広めることができます。 同時に、データベースにプロファイルデータが追加され、ソーシャルな影響指標が追跡されます。
 
    >[!MORELIKETHIS]
    >
