@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949904
-description: ランディングページテストグループ — Marketto Docs — 製品ドキュメント
+description: ランディングページテストグループ —Marketoドキュメント — 製品ドキュメント
 title: ランディングページテストグループ
+exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-
 # ランディングページテストグループ{#landing-page-test-groups}
 
-マーケティング担当者は、テストグループ内のテスト済みの各ページにおけるページ表示数とフォームの完了数を追跡します。 テストグループの結果を使用して、どのランディングページが最も説得力のあるものかを判断できます。 次に、テストグループの作成方法を示します。
+Marketoは、テストグループ内の各テストページでのページ表示数とフォームの完了数を追跡します。 テストグループの結果を使用して、どのランディングページが最も説得力のあるものかを判断できます。 次に、テストグループの作成方法を示します。
 
 >[!PREREQUISITES]
 >
