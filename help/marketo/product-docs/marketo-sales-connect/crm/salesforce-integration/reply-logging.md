@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352480
-description: 返信ログ(SFDC) — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: 返信ログ(SFDC) -Marketoドキュメント — 製品ドキュメント
 title: 返信ログ(SFDC)
+exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # 応答ログ(SFDC) {#reply-logging-sfdc}
 
 Sales Connectは、Salesforceに対する見込み客の返信を自動的に記録する機能を備えています。 これを行うための構造は、アドビの電子メール返信追跡に基づいています。 見込み客の返信を追跡できる場合は、その返信をSalesforceに記録できます。
 
-## 要件{#requirements}
+## 要件 {#requirements}
 
 * APIログを使用して電子メールを記録する必要がある
 * [返信](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)を追跡できる必要がある
