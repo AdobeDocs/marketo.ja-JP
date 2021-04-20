@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11372054
-description: 電子メールのテキストバージョンの編集 — Marketto Docs — 製品ドキュメント
+description: 電子メールのテキストバージョンの編集 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのテキストバージョンの編集
+exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールのテキストバージョンの編集{#edit-the-text-version-of-an-email}
 
-電子メールを作成する際に、HTMLバージョンとは別のテキストバージョンを使用したい場合があります。 デフォルトでは、Marketorは、電子メールに含まれるリッチテキスト要素のテキストコンテンツを自動的にテキストバージョンにコピーします。 編集方法を次に示します。
+電子メールを作成する際に、HTMLバージョンとは別のテキストバージョンを使用したい場合があります。 デフォルトでは、Marketoは電子メール内のリッチテキスト要素のテキストコンテンツを自動的にテキストバージョンにコピーします。 編集方法を次に示します。
 
 >[!NOTE]
 >
