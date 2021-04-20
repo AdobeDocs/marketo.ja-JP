@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147352
-description: サンプルの電子メール — Marketto Docs — 製品ドキュメントの送信
+description: サンプルの電子メールの送信 —Marketoドキュメント — 製品ドキュメント
 title: サンプル電子メールの送信
+exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
-
 
 # サンプルの電子メールの送信{#send-a-sample-email}
 
