@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359757
-description: ランディングページ追加のソーシャルボタン — Marketto Docs — 製品ドキュメント
+description: ランディングページ追加のソーシャルボタン —Marketoドキュメント — 製品ドキュメント
 title: ランディングページ追加のソーシャルボタン
+exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # ランディングページ追加のソーシャルボタン{#add-a-social-button-on-a-landing-page}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. ランディングページーに移動し、「**ドラフトを編集**」をクリックします。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-おめでとう！ ランディングページにソーシャルボタンが追加されました。 必ずランディングページを承認してください。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[投稿したり、[Webサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)にソーシャルボタンを置いたりすることもできます。
+おめでとうございます！ランディングページにソーシャルボタンが追加されました。 必ずランディングページを承認してください。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[投稿したり、[ソーシャルボタンをWebサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に配置したりすることもできます。
 
 >[!TIP]
 >
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >完了ですが、必要に応じてソーシャルボタンの設定を変更できます。 [ボタンスタイル](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)のカスタマイズと[共有メッセージ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)の編集に関する開始。
-
