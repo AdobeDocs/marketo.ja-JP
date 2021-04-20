@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380789
-description: RCAの「Named Account」Dimension- Marketto Docs - Product Documentation
+description: RCAの「Named Account」Dimension-Marketoドキュメント — 製品ドキュメント
 title: RCAの「Named Account」Dimension
+exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # RCA {#named-account-dimension-in-rca}の名前付きアカウントDimension
 
@@ -27,14 +27,14 @@ TAM固有の名前付きアカウントディメンションを使用して、�
 
 次のレポートは、名前付きアカウントディメンションにアクセスできます。
 
-* 電子メール分析
+* メール分析
 * リード分析
-* オポチュニティ分析
+* 商談分析
 * プログラムメンバーシップ分析
 
 >[!NOTE]
 >
->以下は、売上高サイクル分析のマーケティング担当者TAMの例です。
+>以下は、売上高サイクル分析のMarketoTAMの例です。
 
 名前付きアカウント内のパイプラインの加速
 
