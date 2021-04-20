@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950617
-description: 電子メール — Marketto Docs — 製品ドキュメントでの動的コンテンツの使用
+description: 電子メールでの動的コンテンツの使用 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールでの動的コンテンツの使用
+exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールでの動的コンテンツの使用{#using-dynamic-content-in-an-email}
 
