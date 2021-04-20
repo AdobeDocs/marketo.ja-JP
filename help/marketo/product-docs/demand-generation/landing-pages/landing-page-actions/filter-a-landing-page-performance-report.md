@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359742
-description: ランディングページパフォーマンスレポートのフィルター — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: ランディングページパフォーマンスレポートのフィルタ —Marketoドキュメント — 製品ドキュメント
 title: ランディングページパフォーマンスレポートのフィルタリング
+exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページパフォーマンスレポートのフィルタ{#filter-a-landing-page-performance-report}
 
