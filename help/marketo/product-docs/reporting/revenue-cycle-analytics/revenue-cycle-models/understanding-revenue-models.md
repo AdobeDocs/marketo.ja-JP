@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718654
-description: 売上高モデルについて — Marketto Docs — 製品ドキュメント
+description: 売上高モデルについて —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルについて
+exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデルについて{#understanding-revenue-models}
 
