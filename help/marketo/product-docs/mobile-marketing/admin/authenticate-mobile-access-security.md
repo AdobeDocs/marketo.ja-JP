@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10096158
-description: モバイルアクセスセキュリティの認証 — Marketto Docs — 製品ドキュメント
+description: モバイルアクセスセキュリティの認証 —Marketoドキュメント — 製品ドキュメント
 title: モバイルアクセスセキュリティの認証
+exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-
 # モバイルアクセスセキュリティの認証{#authenticate-mobile-access-security}
 
-モバイルユーザーのセキュリティを強化するため、Marketorは2つの新しいIDを提供します。アクセスキーとアクセスシークレット。 これらのヘルプは、アプリにログインしたユーザーが実際にそのユーザーが何者であるかを確認するために役立ちます。
+モバイルユーザーのセキュリティを強化するため、Marketoには2つの新しいIDが用意されています。アクセスキーとアクセスシークレット。 これらのヘルプは、アプリにログインしたユーザーが実際にそのユーザーが何者であるかを確認するために役立ちます。
 
 IDを有効にするには、コードを取得してIT部門に提供し、IDが安全な一致をセットアップできるようにする必要があります。
 
