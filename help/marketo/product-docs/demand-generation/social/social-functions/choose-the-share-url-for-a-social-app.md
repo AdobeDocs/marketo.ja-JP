@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359811
-description: ソーシャルアプリの共有URL — マーケティングドキュメント — 製品ドキュメントを選択します
+description: ソーシャルアプリの共有URL -Marketoドキュメント — 製品ドキュメントを選択
 title: Socialアプリの共有URLの選択
+exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルアプリの共有URLを選択{#choose-the-share-url-for-a-social-app}
 
@@ -38,8 +38,8 @@ ht-degree: 0%
    >「投稿を共有」は、次の3つの場所にリンクできます。
    >
    >* **参照ページ**:アプリを含むページ。
-   >* **その他のランディングページ**:ドロップダウンのランディングページとは異なるMarketoです。
-   >* **外部URL**:マーケティング担当者以外のランディングページ。
+   >* **その他のランディングページ**:ドロップダウンのランディングページとは異なるMarketoのイメージです。
+   >* **外部URL**:Marketo以外のランディングページ。
 
 
 >[!MORELIKETHIS]
