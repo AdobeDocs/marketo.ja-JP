@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504923
-description: マネージャーアカウント — Marketto Docs — 製品ドキュメントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
+description: マネージャーアカウント —Marketoドキュメント — 製品ドキュメントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 title: マネージャーアカウントを使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
+exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
 
 ---
 
-
 # マネージャーアカウント{#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}を使用した売上高モデルでのGoogle AdWordsコンバージョンの設定
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
+Google AdWordsアカウントをMarketoにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。[
 
-複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、Marketoと統合できます。
+複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、それらをMarketoと統合できます。
 
 AdWordsのオフラインコンバージョンを、売上高モデルの1つ以上のステージにマッピングできます。 次の2つの方法があります。
 
@@ -64,7 +64,7 @@ AdWordsのオフラインコンバージョンを、売上高モデルの1つ以
 
 >[!CAUTION]
 >
->Marketorから作成された新しいコンバージョンでは、「最適化」設定が有効になっています。 つまり、AdWords入札戦略では、これらのコンバージョンに対する入札を最適化できます。 この設定は、AdWordsアカウントで変更できます。
+>Marketoから作成された新しいコンバージョンでは、「最適化」設定が有効になっています。 つまり、AdWords入札戦略では、これらのコンバージョンに対する入札を最適化できます。 この設定は、AdWordsアカウントで変更できます。
 
 1. 「**ステージアクション**」ドロップダウンで、「**AdWordsコンバージョンを設定**」を選択します。
 
@@ -100,4 +100,4 @@ AdWordsのマッピングを使用して、すべてのモデルステージをA
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-オフラインコンバージョンデータを表示するには、AdWordsアカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketoからインポートしたオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。
+オフラインコンバージョンデータを表示するには、AdWordsアカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketoからインポートしたオフラインコンバージョンごとにコンバージョン数列を作成することをお勧めします。
