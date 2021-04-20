@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359543
-description: フォーム追加のフィールド — Marketto Docs — 製品ドキュメント
+description: フォーム追加のフィールド —Marketoドキュメント — 製品ドキュメント
 title: フォーム追加のフィールド
+exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # フ追加ォームへのフィールド{#add-a-field-to-a-form}
 
