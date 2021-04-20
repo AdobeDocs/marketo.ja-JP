@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718681
-description: 売上高モデラー — Marketto Docs — 製品ドキュメントのアカウント別開始追跡
+description: 売上高モデラー —Marketoドキュメント — 製品ドキュメントのアカウント別開始追跡
 title: 売上高モデラーのアカウント別開始追跡
+exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデラー{#start-tracking-by-account-in-the-revenue-modeler}のアカウント別開始追跡
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**アカウント別開始トラッキング**&#x200B;がオンになっている状態で、承認されたモデルの成功パスにステージがあることを確認します
 
-1. 有用なデータを収集するのに十分な時間が経過したら、**マーケティング先ホーム**&#x200B;の下の&#x200B;**売上高エクスプローラ**&#x200B;を選択します。
+1. 有用なデータを収集するのに十分な時間が経過したら、**マイMarketoホーム**&#x200B;の下の「売上高エクスプローラ&#x200B;**」を選択します。**
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
