@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352512
-description: 2つのグループを結合する方法 — Marketto Docs — 製品ドキュメント
+description: 2つのグループを結合する方法 —Marketoドキュメント — 製品ドキュメント
 title: 2つのグループを結合する方法
+exl-id: 4e4fb462-5c7e-48d6-a314-32d2d7b4463b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # 2つのグループを結合する方法{#how-to-merge-two-groups-together}
 
