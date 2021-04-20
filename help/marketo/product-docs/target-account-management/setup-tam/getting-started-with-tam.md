@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255457
-description: TAM使用の手引き — Marketto Docs — 製品ドキュメント
+description: TAM使用の手引き —Marketoドキュメント — 製品ドキュメント
 title: TAM使用の手引き
+exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # TAMの使用の手引き{#getting-started-with-tam}
 
-Marketto TAMをインスタンスに追加しますか？ 素晴らしい！ これから何をすべきか見てみましょう。
+Marketo・タムをインスタンスに追加しますか？ OK！これから何をすべきか見てみましょう。
 
 >[!TIP]
 >
@@ -30,8 +30,8 @@ Marketto TAMをインスタンスに追加しますか？ 素晴らしい！ こ
 **手順5：名前付きアカウント** **_を作成_**  — 名前付きアカウントは、ターゲットとしている会社のユーザーを保持します。名前付きアカウントを作成するには、次の4つの方法があります。
 
 * [固有のアカウントのインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)  — 潜在的なターゲットアカウントのリストをTAMに直接アップロードします(これは、CRMからエクスポートしたリストの場合があります)。
-* [CRMアカウントの検出](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) - Markettorに同期されたすべてのCRMアカウントのリストを表示し、主要な属性（業界など）を使用してフィルタリングし、名前付きのアカウントを作成します。
-* [Discover Marketto会社](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - CRM以外のソースから会社のリストを表示し、主要属性を使用してフィルタリングし、名前付きアカウントを作成します。
+* [Discover CRMアカウント](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) -Marketoに同期されたすべてのCRMアカウントのリストを表示し、主要な属性（業界など）を使用してフィルタリングし、名前付きアカウントを作成します。
+* [Marketo会社の検出](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - CRM以外のソースから会社のリストを表示し、主要属性を使用してフィルタリングし、名前付きアカウントを作成します。
 * [名前付きアカウントを手動で作成](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)  — 名前付きアカウントを手動で作成する場合は、次の手順でユー [ザーを](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) 入力します
 
 **オプションの手順： [アカウントリストの作成および設定](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)**  — アカウントをリストにグループ化し、会社の業種、場所またはサイズ別にアカウント名をターゲットできます。
