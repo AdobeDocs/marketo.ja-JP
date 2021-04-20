@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11375827
-description: MarketorをDynamics - Marketto Docs — 製品ドキュメントと同期するための必須フィールド
-title: マーケティングとDynamicsを同期するための必須フィールド
+description: MarketoをDynamicsと同期するための必須フィールド —Marketoドキュメント — 製品ドキュメント
+title: Marketoとダイナミクスを同期するための必須フィールド
+exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# MarketoとDynamicsを同期するための必須フィールド{#required-fields-for-syncing-marketo-with-dynamics}
 
-# Dynamics {#required-fields-for-syncing-marketo-with-dynamics}とマーケティングを同期するための必須フィールド
+Sales Insightが機能するためには、これらのフィールド&#x200B;*は* Marketoと同期する必要があります。
 
-Sales Insightが機能するには、これらのフィールド&#x200B;*は、Marketorと*&#x200B;同期する必要があります。
-
-* 優先度
+* 優先順位
 * 緊急度
 * 相対スコア
 
-これらのフィールドのいずれかが見つからない場合は、Marketorに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、インスタンスをチェックインして、**リード**&#x200B;と&#x200B;**連絡先**&#x200B;の両方でフィールドが同期されていることを確認してください。 そうでない場合は、追加します。
+これらのフィールドのいずれかが見つからない場合は、Marketoに、見つからないフィールドの名前のエラーメッセージが表示されます。 この問題を修正するには、インスタンスをチェックインして、**リード**&#x200B;と&#x200B;**連絡先**&#x200B;の両方でフィールドが同期されていることを確認してください。 そうでない場合は、追加します。
 
 次に、同期フィールドを検証および追加する方法を示します。
 
