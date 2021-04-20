@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352594
-description: HTMLの使用 — Marketto Docs — 製品ドキュメント
+description: HTMLの使用 —Marketoドキュメント — 製品ドキュメント
 title: HTMLの使用
+exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # HTML {#using-html}を使用
 
-1. HTMLで電子メールを作成するために使用するツール（例：マーケティング担当者の電子メールエディター）の電子メールからソースコードをコピーします。
+1. HTMLで電子メールを作成するツール(Marketoの電子メールエディターなど)で、電子メールからソースコードをコピーします。
 
 1. テンプレートエディターの「**ソース**」ボタンをクリックします。
 
