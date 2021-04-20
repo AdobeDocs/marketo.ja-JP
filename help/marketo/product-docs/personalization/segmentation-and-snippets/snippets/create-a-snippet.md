@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359459
-description: スニペットの作成 — Marketto Docs — 製品ドキュメント
+description: スニペットの作成 —Marketoドキュメント — 製品ドキュメント
 title: スニペットの作成
+exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # スニペットの作成{#create-a-snippet}
 
