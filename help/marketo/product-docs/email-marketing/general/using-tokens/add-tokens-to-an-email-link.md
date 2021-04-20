@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147360
-description: 電子メールリンクへ追加のトークン — Marketto Docs — 製品ドキュメント
+description: 電子メールリンクへ追加のトークン —Marketoドキュメント — 製品ドキュメント
 title: 電子メ追加ールリンクへのトークン
+exl-id: b04d279a-b71a-4975-9992-23a51d075856
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールリンク追加へのトークン{#add-tokens-to-an-email-link}
 
