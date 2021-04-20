@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099408
-description: 電子メールインサイトの概要 — Marketto Docs — 製品ドキュメント
+description: 電子メールインサイトの概要 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールインサイトの概要
+exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 電子メールインサイトの概要{#email-insights-overview}
 
 電子メールインサイトは、電子メールマーケターにとっての履歴データから得られる強力なインサイトです。 2つのセクションが関連付けられています。解析と送信を参照してください。
 
-電子メールインサイトにアクセスするには、マイマーケティング（またはAnalyticsのホーム画面）でそのタイルをクリックします。
+電子メールインサイトにアクセスするには、マイMarketo（またはAnalyticsのホーム画面）にあるタイルをクリックします。
 
 ![](assets/icon.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >デフォルトでは、アクセス権を持つすべてのワークスペースのデータが表示されます。 表示したくないワークスペースは選択解除できます。 選択した内容は、今後も記憶されます。
 
-## 解析{#analytics}
+## アナリティクス {#analytics}
 
 [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)を使用して、電子メールの配信およびエンゲージメント指標の集計時系列データを調べます。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-## {#sends}を送信
+## 送信 {#sends}
 
 [Sends](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページで、最近の電子メール通信の特性を確認します。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## カスタムDimension{#custom-dimensions}
 
-すべての標準的なMarketorディメンションが含まれますが、最大10個のカスタムディメンションを追加できます。 [カスタム](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) ディメンションは、セグメントとプログラムタグで構成されます。
+標準のMarketoディメンションはすべて含まれますが、カスタムディメンションを10個まで追加することもできます。 [カスタム](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) ディメンションは、セグメントとプログラムタグで構成されます。
 
 >[!MORELIKETHIS]
 >
