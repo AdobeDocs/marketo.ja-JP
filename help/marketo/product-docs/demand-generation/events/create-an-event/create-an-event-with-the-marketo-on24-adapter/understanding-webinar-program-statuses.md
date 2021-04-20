@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096681
-description: ウェビナープログラムのステータスについて — Marketto Docs — 製品ドキュメント
+description: ウェビナープログラムのステータスについて —Marketoドキュメント — 製品ドキュメント
 title: ウェビナープログラムのステータスについて
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
 
 ---
-
 
 # ウェビナープログラムのステータスについて{#understanding-webinar-program-statuses}
 
@@ -41,18 +41,18 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->登録エラーが発生した場合は、プログラムの[メンバ]タブにある[状態の理由]列を参照して、そのユーザの追加情報を取得できます。 エラーを修正したら、ユーザーのプログラムステータスを手動で「マーケティング担当者内に登録済み」に変更できます。
+>登録エラーが発生した場合は、プログラムの[メンバ]タブにある[状態の理由]列を参照して、そのユーザの追加情報を取得できます。 エラーが修正されたら、ユーザーのプログラムステータスを手動で「Marketo内に登録済み」に変更できます。
 
-**出席**  — ウェビナーの終了時に、ON24は出席した人のリストを返します。このステータスは、Marketoに自動的に取り込まれます。
+**出席**  — ウェビナーの終了時に、ON24は出席した人のリストを返します。この状態は自動的にMarketoに引き込まれます。
 
 **出席オンデマンド**  — 以前のバージョンのウェビナーに参加した人が、このステータスを受け取ります。
 
-**No Show**  — ウェビナーの終了時、およびON24から出席データを取り込んだ後、登録したが出席しなかった人のステータスが「No Show」に更新されます。ON24が最終的な出欠情報を準備し、Marketoで利用できるようにするには、30分から3時間かかる場合があります。
+**No Show**  — ウェビナーの終了時、およびON24から出席データを取り込んだ後、登録したが出席しなかった人のステータスが「No Show」に更新されます。ON24が最終出席情報を準備し、Marketoで利用できるようにするには、30分から3時間かかる場合があります。
 
 >[!NOTE]
 >
->マーケット担当者が「No Show」ステータスを引き出すには、ユーザーがMarketo *に登録されている必要があります。* On24データフィードからの番組なしを取り込むことはできません。
+>Marketoが番組なしの状態を引き出すには、Marketo *に*&#x200B;登録されている必要があります。 On24データフィードからの番組なしを取り込むことはできません。
 
 >[!MORELIKETHIS]
 >
->[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[MarketoON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
