@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352468
-description: CSVでの連絡先のインポート — Marketto Docs — 製品ドキュメント
+description: CSV経由で連絡先をインポート —Marketoドキュメント — 製品ドキュメント
 title: CSVを使用した連絡先のインポート
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # CSVでの連絡先のインポート{#import-contacts-via-csv}
 
