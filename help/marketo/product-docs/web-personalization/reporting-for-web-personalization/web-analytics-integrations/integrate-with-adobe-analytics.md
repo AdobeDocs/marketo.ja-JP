@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949160
-description: Adobe Analyticsとの統合 — Marketto Docs — 製品ドキュメント
+description: Adobe Analyticsとの統合 —Marketoドキュメント — 製品ドキュメント
 title: Adobe Analyticsとの統合
+exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analyticsと統合{#integrate-with-adobe-analytics}
 
 ## 導入{#intro}
 
-Adobe Analyticsアカウント内の組織、業界、およびMarketo Real-Time Personalization(RTP)キャンペーンデータを表示し、B2Bの観点からWeb解析を分析します。
+Adobe Analyticsアカウント内の組織、業界、Marketoリアルタイムパーソナライゼーション(RTP)キャンペーンデータを表示し、B2Bの観点からウェブ解析を分析します。
 
-このドキュメントにより、Marketo Real-Time Personalization(RTP)とAdobeAdobe Analyticsの統合が可能になります。 RTPからのデータを使用すると、サイトを訪問する業界セグメントや組織のトレンドをすべて検出および分析し、RTPキャンペーンの有効性を測定でき、最適な結果を得るためのインサイトと分析を提供できます。
+このドキュメントは、Marketoリアルタイムパーソナライゼーション(RTP)とAdobeAdobe Analyticsの統合を可能にします。 RTPからのデータを使用すると、サイトを訪問する業界セグメントや組織のトレンドをすべて検出および分析し、RTPキャンペーンの有効性を測定でき、最適な結果を得るためのインサイトと分析を提供できます。
 
 これを達成するには、各セグメントの新規顧客数と再訪問者数などの指標を調べ、キャンペーンのクリック率を分析し、最もコンバージョン率の高いリードを生み出した業種やカスタマイズ済みセグメント、リアルタイムキャンペーンを特定します。 この機能を利用して、RTPアカウントから最大限のメリットを得ることができます。
 
@@ -33,7 +33,7 @@ RTP - AA統合では、Web分析インターフェイスに新しいディメン
 
 1. 送信チャネル
 1. コンテンツ
-1. 再ターゲット化
+1. 再ターゲティング
 
 ## チャネルレポート{#channel-report}
 
@@ -118,7 +118,7 @@ AAでこれらの変数を設定するには、次の手順を実行します。
 
 
 
-## Marketo Real-Time Personalization(RTP)での設定{#set-up-in-marketo-real-time-personalization-rtp}
+## Marketoリアルタイムパーソナライゼーション(RTP)で設定{#set-up-in-marketo-real-time-personalization-rtp}
 
 1. RTPプラットフォームで、**「アカウント設定**」に移動します。
 
@@ -161,7 +161,7 @@ AAでこれらの変数を設定するには、次の手順を実行します。
 >
 **これらのスロット番号が、AAで作成された変数およびイベント番号と一致していることを確認します。**
 
-## レポート{#reports}
+## レポート {#reports}
 
 組織名、業種、RTPセグメントおよびリアルタイムキャンペーンデータに従って、拡張SiteAdobe Analyticsレポートを作成します。
 
