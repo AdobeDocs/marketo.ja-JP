@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359578
-description: フォームの承認 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: フォームの承認 —Marketoドキュメント — 製品ドキュメント
 title: フォームの承認
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # フォームの承認{#approve-a-form}
 
