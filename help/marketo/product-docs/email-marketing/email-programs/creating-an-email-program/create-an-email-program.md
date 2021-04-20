@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900591
-description: 電子メールプログラムの作成 — Marketto Docs — 製品ドキュメント
+description: 電子メールプログラムの作成 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムの作成
+exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムの作成{#create-an-email-program}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-ナイス！ プログラムがツリーに表示され、使用できる状態になっていることに注意してください。 次のステップは、オーディエンスを定義することです。 以下のマーケティング関連記事を参照してください。
+ナイス！ プログラムがツリーに表示され、使用できる状態になっていることに注意してください。 次のステップは、オーディエンスを定義することです。 以下のMarketo関連記事を参照。
 
 >[!MORELIKETHIS]
 >
