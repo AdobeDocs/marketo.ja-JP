@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352517
-description: 連絡先グループの作成方法 — Marketto Docs — 製品ドキュメント
+description: 連絡先グループの作成方法 —Marketoドキュメント — 製品ドキュメント
 title: 連絡先グループの作成方法
+exl-id: 19113c15-bd28-4030-8d84-afa93303197d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # 連絡先グループの作成方法{#how-to-create-a-contact-group}
 
