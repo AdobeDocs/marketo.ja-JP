@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953373
-description: Marketto Sales Insight - Marketto Docs — 製品ドキュメントでの登録解除フッターの設定
-title: Marketor Sales Insightでの登録解除フッターの設定
+description: Marketo販売インサイト —Marketoドキュメント — 製品ドキュメントでの登録解除フッターの設定
+title: Marketo販売インサイトでの登録解除フッターの設定
+exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
-
-# Marketor Sales Insightでの登録解除フッターの設定{#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Marketo販売インサイトでの登録解除フッターの設定{#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 販売用の電子メールでは、自動的に登録解除フッターが下部に配置されます。 ただし、必要に応じて設定を調整できます。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >**定義**
 >
->**販売** 電子メールは、Sales Insightから送信されたものです（Marketo Outlookプラグインから送信されたものは含まれません）。
+>**販売** 電子メールは、Sales Insightから送信されたものです(MarketoOutlookプラグインから送信されたものは含まれません)。
 
 1. **管理者**&#x200B;領域に移動します。
 
