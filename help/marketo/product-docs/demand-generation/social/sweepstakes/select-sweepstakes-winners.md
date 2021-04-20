@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359805
-description: 「懸賞の勝者」を選択します。Marketto Docs — 製品ドキュメント
+description: Select Sweepstakes Winners -Marketoドキュメント — 製品ドキュメント
 title: 懸賞の勝者の選択
+exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # 懸賞の勝者を選択{#select-sweepstakes-winners}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -51,4 +51,4 @@ ht-degree: 0%
    >
    >「完了」をクリックする前に、勝者の資格を失うことができます。 この懸賞に含まれる場合、その他の図面に対する資格が残ります。
 
-おめでとう！ 懸賞オファーの実行が完了し、ランダムに勝者を選択して、電子メール通知を送信しました。
+おめでとうございます！懸賞オファーの実行が完了し、ランダムに勝者を選択して、電子メール通知を送信しました。
