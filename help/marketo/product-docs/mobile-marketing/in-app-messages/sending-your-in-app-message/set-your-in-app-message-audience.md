@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10617431
-description: アプリ内メッセージオーディエンスの設定 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージオーディエンスの設定 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージオーディエンスの設定
+exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージオーディエンスの設定{#set-your-in-app-message-audience}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
-1. スマートリストでは、「モバイルアプリを使用」アクティビティトリガーが自動的に設定されます。 ドロップダウンをクリックし、メッセージを配置するアプリを選択します。
+1. スマートリストでは、「モバイルアプリアクティビティを持つ」トリガーが自動的に入力されます。 ドロップダウンをクリックし、メッセージを配置するアプリを選択します。
 
    ![](assets/image2016-5-9-15-3a18-3a10.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >デフォルトのトリガー(App Open)と、開発者がコードに追加したカスタムトリガーは、自動的にアクションセレクターに表示されます。 カスタムイベントがない場合は、開発者に問い合わせて、カスタムイベントがアプリに追加されていることを確認してください。 カスタムイベントコーディングおよび承認プロセスの完了には、時間がかかる場合があることに注意してください。 詳しくは、[この記事](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
-1. 必要に応じて、**モバイルアプリアクティビティを持つ**&#x200B;トリガーに対して制約を使用できます。
+1. 必要に応じて、**モバイルアプリアクティビティ**&#x200B;を使用するトリガーの制約事項を利用できます。
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
