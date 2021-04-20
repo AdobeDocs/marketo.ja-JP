@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092730
-description: プレビューaプッシュ通知 — Marketto Docs — 製品ドキュメント
+description: プレビューaプッシュ通知 —Marketoドキュメント — 製品ドキュメント
 title: プレビュープッシュ通知
+exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # プレビューaプッシュ通知{#preview-a-push-notification}
 
