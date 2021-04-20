@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092902
-description: テンプレート19-E - Marketto Docs — 製品ドキュメント
+description: テンプレート19-E -Marketoドキュメント — 製品ドキュメント
 title: テンプレート19-E
+exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート19-E {#template-e}
 
