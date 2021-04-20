@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359637
-description: フォームの削除 — Marketto Docs — 製品ドキュメント
+description: フォームの削除 —Marketoドキュメント — 製品ドキュメント
 title: フォームの削除
+exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # フォームの削除{#delete-a-form}
 
