@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359718
-description: フリ追加ーフォームランディングページへのソーシャルボタン — Marketto Docs — 製品ドキュメント
+description: フ追加リーフォームランディングページへのソーシャルボタン —Marketoドキュメント — 製品ドキュメント
 title: フ追加リーフォームランディングページへのソーシャルボタン
+exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # フリ追加ーフォームランディングページへのソーシャルボタン{#add-a-social-button-to-a-free-form-landing-page}
 
-ソーシャルボタンを使用すると、ユーザーはコンテンツを友達と共有できます。 これをフリーフォームランディングページ、Facebook、Webサイトにドロップします。
+ソーシャルボタンを使用すると、ユーザーはコンテンツを友達と共有できます。 フリーフォームランディングページ、Facebook、Webサイトにドロップします。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. 自由形式のランディングページに移動し、「**ドラフトを編集**」をクリックします。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    [ランディングページをFacebookに投稿し、Webサイトの「](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [ソーシャル」ボタンを](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
-おめでとう！ ランディングページにソーシャルボタンが追加されました。 必ずランディングページを承認してください。
+おめでとうございます！ランディングページにソーシャルボタンが追加されました。 必ずランディングページを承認してください。
 
 >[!MORELIKETHIS]
 >
