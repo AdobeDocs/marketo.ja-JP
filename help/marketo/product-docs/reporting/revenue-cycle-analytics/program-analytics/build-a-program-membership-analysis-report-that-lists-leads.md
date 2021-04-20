@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360405
-description: リストがリード — Marketto Docs -プログラムドキュメントを示す製品メンバーシップ分析レポートの作成
+description: リストがリード —Marketoドキュメント —プログラムドキュメントを含む製品メンバーシップ分析レポートの作成
 title: リストがリードするプログラムメンバーシップ分析レポートの作成
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # リストがリード{#build-a-program-membership-analysis-report-that-lists-leads}を引くプログラムメンバーシップ分析レポートを作成します。
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. 売上高エクスプローラを起動します。
 
