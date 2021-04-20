@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359604
-description: フォーム内のラベル/フィールドの幅のサイズ変更 — Marketto Docs — 製品ドキュメント
+description: フォーム内のラベル/フィールドの幅のサイズ変更 —Marketoドキュメント — 製品ドキュメント
 title: フォーム内のラベル/フィールドの幅のサイズ変更
+exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # フォーム内のラベル/フィールドの幅のサイズを変更{#resize-label-field-width-in-a-form}
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-素晴らしい仕事！ 簡単だろ？
+OK！簡単だろ？
