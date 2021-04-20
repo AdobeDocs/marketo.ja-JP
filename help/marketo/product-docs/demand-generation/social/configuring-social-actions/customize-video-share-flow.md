@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950553
-description: ビデオ共有フローのカスタマイズ — Marketto Docs — 製品ドキュメント
+description: ビデオ共有フローのカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: ビデオ共有フローのカスタマイズ
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # ビデオ共有フローのカスタマイズ{#customize-video-share-flow}
 
