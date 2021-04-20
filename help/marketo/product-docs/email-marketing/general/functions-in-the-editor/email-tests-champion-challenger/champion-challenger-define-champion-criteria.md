@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Define Champion Criteria - Marketto Docs - Product Documentation
+description: Champion/Challenger - Champion基準の定義 —Marketoドキュメント — 製品ドキュメント
 title: チャンピオン/対抗 — チャンピオン条件の定義
+exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # チャンピオン/チャレンジャー：チャンピオン条件の定義{#champion-challenger-define-champion-criteria}
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketorは、この電子メールプログラムから電子メールを送信した人のトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
+   Marketoは、この電子メールプログラムから電子メールを送信した人のトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
 
 1. 「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   素晴らしい！ 次に、レポートのスケジュールを設定します。
+   OK！次に、レポートのスケジュールを設定します。
 
    >[!MORELIKETHIS]
    >
