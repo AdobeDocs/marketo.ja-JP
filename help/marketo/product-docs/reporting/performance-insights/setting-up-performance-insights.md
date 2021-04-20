@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12981145
-description: パフォーマンスインサイトの設定 — Marketto Docs — 製品ドキュメント
+description: パフォーマンスインサイトの設定 —Marketoドキュメント — 製品ドキュメント
 title: パフォーマンスインサイトの設定
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # パフォーマンスインサイトの設定{#setting-up-performance-insights}
 
@@ -45,15 +45,15 @@ MPIを設定するには、次の手順に従います。
    >
    >すべてのオポチュニティに適切なフィールドが入力されていることを確認します。
    >
-   >* 営業案件金額
-   >* 閉じている
-   >* 獲得
+   >* 商談額
+   >* クローズ済み
+   >* 獲得済み+
    >* 作成日（この設定はお客様の場合には使用できません）
    >* 終了日（お客様の場合は設定できません）
-   >* オポチュニティタイプ
+   >* 商談のタイプ
 
 
-## プログラムセットアップ{#program-setup}
+## プログラムセットアップ {#program-setup}
 
 12か月以上のプログラムコストを更新します。 これは、手動またはプログラムAPIを使用して行うことができます。 この例では、手動で設定します。
 
