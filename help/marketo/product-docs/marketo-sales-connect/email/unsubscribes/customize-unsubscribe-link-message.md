@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14746186
-description: 購読解除リンクメッセージのカスタマイズ — Marketto Docs — 製品ドキュメント
+description: 購読解除リンクメッセージのカスタマイズ —Marketoドキュメント — 製品ドキュメント
 title: 登録解除リンクメッセージのカスタマイズ
+exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
-
 
 # 登録解除リンクメッセージのカスタマイズ{#customize-unsubscribe-link-message}
 
