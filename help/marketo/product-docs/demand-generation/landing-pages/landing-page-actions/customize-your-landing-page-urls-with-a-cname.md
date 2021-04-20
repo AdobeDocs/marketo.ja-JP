@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359746
-description: CNAMEを使用したランディングページURLのカスタマイズ — Marketto Docs — 製品ドキュメント
+description: CNAMEでランディングページURLをカスタマイズする —Marketoドキュメント — 製品ドキュメント
 title: CNAMEを使用したランディングページURLのカスタマイズ
+exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
 
 ---
-
 
 # CNAME {#customize-your-landing-page-urls-with-a-cname}でランディングページURLをカスタマイズする
 
@@ -23,7 +23,7 @@ Marketoがランディングページをホストしている場合でも、URL�
 
 ## CNAMEを選択{#choose-a-cname}
 
-ランディングページのURLの先頭に移動する単語を選択します。 単語は1つで、比較的短くする必要があります。 例：
+ランディングページのURLの先頭に移動する単語を選択します。 単語は1つで、比較的短くする必要があります。 例: 
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
@@ -69,6 +69,6 @@ ITスタッフに次のCNAMEを設定するよう依頼します。（「[CNAME]
 
 >[!NOTE]
 >
->フォールバックページは、Marketorランディングページが利用できない場合、ページのリードがリダイレクトされます。
+>フォールバックページは、Marketoランディングページが使用できない場合に、ページのリードがリダイレクトされます。
 
 いい仕事！ これで、ランディングページに会社ドメインのブランドが付けられました。
