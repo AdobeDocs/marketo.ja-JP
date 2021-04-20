@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359949
-description: エンゲージメントプログラムでのユーザーの一時停止 — Marketto Docs — 製品ドキュメント
+description: エンゲージメントプログラムでのユーザーの一時停止 —Marketoドキュメント — 製品ドキュメント
 title: アクションプログラムでのユーザーの一時停止
+exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # アクションプログラムでユーザーを一時停止{#pause-people-in-an-engagement-program}
 
