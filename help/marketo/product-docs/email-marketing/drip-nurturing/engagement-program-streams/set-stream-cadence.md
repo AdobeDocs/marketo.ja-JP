@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359665
-description: Set Stream Cadence - Marketto Docs - Product Documentation
-title: ストリームカデンスを設定
+description: ストリームカデンスの設定 —Marketoドキュメント — 製品ドキュメント
+title: ストリーム ケイデンスの設定
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Set Stream Cadence {#set-stream-cadence}
+# ストリーム ケイデンスの設定 {#set-stream-cadence}
 
 エンゲージメントのコンテンツは、任意の間隔で送信できます。 次に例を示します。週に1回、または月の第3火曜日に1回。
 
-## カデンスを設定{#set-cadence}
+## ケイデンスを設定 {#set-cadence}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 1. カデンスを繰り返す頻度を選択します。 **週単位**&#x200B;または&#x200B;**月単位**&#x200B;を選択できます。
 
-## 週単位{#weekly}
+## 毎週{#weekly}
 
 1. 「**週単位**」を選択します。
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 それだ！ 月次カデンスを設定する場合は、読み続けてください。
 
-## 毎月{#monthly}
+## 毎月 {#monthly}
 
 1. **「月別**」を選択して、繰り返しの頻度を指定します。
 
