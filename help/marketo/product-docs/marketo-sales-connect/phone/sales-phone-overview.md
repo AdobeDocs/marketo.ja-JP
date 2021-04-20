@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352438
-description: 販売電話の概要 — Marketto Docs — 製品ドキュメント
+description: 販売電話の概要 —Marketoドキュメント — 製品ドキュメント
 title: 販売電話の概要
+exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
-
 
 # 販売電話の概要{#sales-phone-overview}
 
