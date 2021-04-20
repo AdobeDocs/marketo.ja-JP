@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746143
-description: 共有設定 — Marketto Docs — 製品ドキュメント
-title: 共有設定
+description: 共有設定 —Marketoドキュメント — 製品ドキュメント
+title: 設定の共有
+exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# 共有設定{#sharing-settings}
+# 設定の共有 {#sharing-settings}
 
 共有できるユーザーと共有するカテゴリを制限することで、テンプレートの管理を改善。
 
