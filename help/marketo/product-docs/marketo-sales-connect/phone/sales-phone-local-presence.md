@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352436
-description: 販売電話のローカルプレゼンス — Marketto Docs — 製品ドキュメント
+description: 販売電話のローカルプレゼンス —Marketoドキュメント — 製品ドキュメント
 title: 販売電話のローカルプレゼンス
+exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 販売店電話のローカルプレゼンス{#sales-phone-local-presence}
 
