@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352540
-description: 自己表示の防止 — Marketto Docs — 製品ドキュメント
+description: 自己表示の防止 —Marketoドキュメント — 製品ドキュメント
 title: 自己表示の防止
+exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # 自己表示を防ぐ{#preventing-self-views}
 
-## 概要{#overview}
+## 概要 {#overview}
 
 表示の追跡で偽陽性を発生させると、レポートの不一致を招く可能性があります。 これは、MSCのユーザーが電子メールクライアントから誤ってトラッキングピクセルを呼び出した場合によく発生します(これを自己表示と呼びます)。 以下に、自己表示を大幅に削減し、排除する方法に関するいくつかのヒントを示します。
 
