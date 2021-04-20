@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: アカウントリスト- Marketto Docs — 製品ドキュメント
-title: アカウントリスト
+description: アカウントリスト-Marketoドキュメント — 製品ドキュメント
+title: 顧客リスト
+exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# アカウントリスト{#account-lists}
+# 顧客リスト {#account-lists}
 
 アカウントリストは、複数のアカウントをターゲットにすることができる、名前付きのアカウントの集まりです。 アカウントリストを使用すると、会社の業種、場所またはサイズに基づいてアカウント名をターゲットできます。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketorターゲットのアカウント管理で作成したアカウントリストは、[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)でスマートリストとWebキャンペーンを構築する際に自動的に使用できます。
+>Marketoターゲットのアカウント管理で作成されたアカウントリストは、[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)でスマートリストとWebキャンペーンを構築する際に、自動的に使用できます。
 
 ## 新しいアカウントリストの作成{#create-a-new-account-list}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketorは、2,000個以下の名前付きアカウントを持つアカウントリストのインサイトのみを表示します。
+   >Marketoは、2,000人以下のアカウント名を持つアカウントリストのインサイトのみを表示します。
 
 ## 新しい動的アカウントリストの作成{#create-a-new-dynamic-account-list}
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >CRMアカウント表示は、8時間ごとに動的アカウントリストに同期します。 まだ同期されていない場合は、次のサイクル中にMarketoが同期します。
+   >CRMアカウント表示は、8時間ごとに動的アカウントリストに同期します。 まだ同期されていない場合は、Marketoは次のサイクル中に同期します。
 
 ## アカウントリストの削除{#delete-an-account-list}
 
