@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14746184
-description: 購読解除履歴カード — Marketto Docs — 製品ドキュメント
+description: 登録解除履歴カード —Marketoドキュメント — 製品ドキュメント
 title: 登録解除履歴カード
+exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 登録解除履歴カード{#unsubscribe-history-card}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>日付</strong></td> 
+   <td><strong>日</strong></td> 
    <td><p>登録解除/再登録が行われた日付を表示します。</p></td> 
   </tr> 
   <tr> 
