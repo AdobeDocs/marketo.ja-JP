@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352506
-description: テンプレートカテゴリの編集 — Marketto Docs — 製品ドキュメント
+description: テンプレートカテゴリの編集 —Marketoドキュメント — 製品ドキュメント
 title: テンプレートカテゴリの編集
+exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # テンプレートカテゴリの編集{#edit-a-template-category}
 
