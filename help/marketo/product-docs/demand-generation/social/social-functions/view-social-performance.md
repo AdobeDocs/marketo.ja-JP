@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359763
-description: 表示のソーシャルパフォーマンス — Marketto Docs — 製品ドキュメント
+description: 表示のソーシャルパフォーマンス —Marketoドキュメント — 製品ドキュメント
 title: 表示のソーシャルパフォーマンス
+exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '476'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 表示のソーシャルパフォーマンス{#view-social-performance}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
