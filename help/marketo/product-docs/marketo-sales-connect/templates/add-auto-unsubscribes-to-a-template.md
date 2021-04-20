@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352637
-description: テンプレート追加の自動登録解除 — Marketto Docs — 製品ドキュメント
+description: テンプレートの追加自動登録解除 —Marketoドキュメント — 製品ドキュメント
 title: テンプレートの追加自動購読解除
+exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート追加{#add-auto-unsubscribes-to-a-template}の自動登録解除
 
