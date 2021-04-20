@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352451
-description: OutlookからSales Connectをアンインストールする方法 — Marketto Docs — 製品ドキュメント
+description: OutlookからSales Connectをアンインストールする方法 —Marketoドキュメント — 製品ドキュメント
 title: OutlookからSales Connectをアンインストールする方法
+exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # OutlookからSales Connectをアンインストールする方法{#how-to-uninstall-sales-connect-from-outlook}
 
 >[!NOTE]
 >
->2019年5月19日に追加.Net-Inのサポートが終了しました。 [詳し](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) くは、こちらをクリックしてください。
+>2019年5月19日に追加.Net-Inのサポートが終了しました。 [こちら](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect)をクリックすると、詳細が表示されます。
 
 1. **開始**&#x200B;メニューをクリックします。
 
