@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380732
-description: アカウントフィルター- Marketto Docs — 製品ドキュメント
-title: アカウントフィルター
+description: アカウントフィルター-Marketoドキュメント — 製品ドキュメント
+title: アカウントフィルタ
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# アカウントフィルター{#account-filters}
+# アカウントフィルタ {#account-filters}
 
 新しいアカウント中心のフィルターを使用して、固有のアカウントとその中の個人を特定し、関与させます。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## アカウントリストのメンバ{#member-of-account-list}
+## 顧客リストのメンバー {#member-of-account-list}
 
 このフィルタを使用するには、アカウントリストドロップダウンをクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >アカウントリストのメンバーフィルターには、次の修飾子が1つだけあります。&quot;is&quot; — 追加の修飾子（「is not」や「is any」など）は使用できません。
 
-## 名前付きアカウントのメンバ{#member-of-named-account}
+## 重点顧客のメンバー {#member-of-named-account}
 
 まず、修飾子を選択します。 **特定の名前のアカウントに** 対しては **、または任意の名前のアカウント** に対しては何でも発生します。
 
