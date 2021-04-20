@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352478
-description: トラッキングアクティビティが表示されない — Marketto Docs — 製品ドキュメント
+description: トラッキングアクティビティが表示されない —Marketoドキュメント — 製品ドキュメント
 title: トラッキングアクティビティが表示されない
+exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 追跡アクティビティに{#tracking-activity-not-showing}が表示されません
 
