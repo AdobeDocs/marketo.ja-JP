@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359839
-description: エンゲージメントストリームのテスト — Marketto Docs — 製品ドキュメント
+description: エンゲージメントストリームのテスト —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントストリームのテスト
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# エンゲージメントストリームのテスト{#test-an-engagement-stream}
+# エンゲージメントストリームのテスト {#test-an-engagement-stream}
 
 すべてのコンテンツをストリームに追加したら、一度に1つずつテストできます。
 
