@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12979282
-description: アカウントインサイトプラグインの概要 — Marketto Docs — 製品ドキュメント
+description: アカウントインサイトプラグインの概要 —Marketoドキュメント — 製品ドキュメント
 title: アカウントインサイトプラグインの概要
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントインサイトプラグインの概要{#account-insight-plug-in-overview}
 
@@ -17,7 +17,7 @@ Account Insightは、すぐに使えるTAMやアカウントの洞察をセー�
 
 >[!AVAILABILITY]
 >
->アカウントインサイトは、TAMとMarketo Sales Insightの両方を持つすべてのお客様に対して提供されます。 TAMしか持っていないお客様の場合、購入したアドオンとしてアカウントインサイトを利用できます。 各顧客は、250個のアカウントインサイトシートに制限されています。 詳細については、担当営業にお問い合わせください。 TAMを持っていないお客様はご利用いただけません。
+>アカウントインサイトは、TAMとMarketoの両方を持つすべてのお客様を対象としています。 TAMしか持っていないお客様の場合、購入したアドオンとしてアカウントインサイトを利用できます。 各顧客は、250個のアカウントインサイトシートに制限されています。 詳細については、担当営業にお問い合わせください。 TAMを持っていないお客様はご利用いただけません。
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ Account Insightは、すぐに使えるTAMやアカウントの洞察をセー�
 >
 >アカウント、リード、または連絡先からプラグインを起動すると、SalesforceでCRMコンテキストが機能します。 アカウント、リード、または連絡先からプラグインを起動する場合、CRMコンテキストはDynamicsでは動作しません。 Dynamicsユーザーの場合は、アカウントインサイトプラグインを使用することをお勧めします。
 
-## 名前付きアカウント{#named-accounts}
+## 特定顧客 {#named-accounts}
 
 互いにランク順に名前付きのアカウントを表示します。 このリストは、アカウントの所有者のみが使用できます。 アカウントチームのサポートは、近日中に提供されます。
 
