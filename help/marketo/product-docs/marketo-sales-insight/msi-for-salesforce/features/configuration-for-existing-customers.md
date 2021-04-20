@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762519
-description: 既存顧客の設定 — Marketto Docs — 製品ドキュメント
+description: 既存顧客の設定 —Marketoドキュメント — 製品ドキュメント
 title: 既存のお客様の設定
+exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 既存のお客様の構成{#configuration-for-existing-customers}
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >Salesforceパッケージを最新バージョンにアップグレードしたことを確認してください
 
-## MarketorでのSales Insightの設定{#configure-sales-insight-in-marketo}
+## MarketoでのSales Insightの設定{#configure-sales-insight-in-marketo}
 
-1. ブラウザーで新しいタブを開き、MarketorアカウントからMarketor Sales Insightsの資格情報を取得します。
+1. ブラウザーで新しいタブを開き、MarketoアカウントからMarketoのSales Insights資格情報を取得します。
 
 1. **管理者**&#x200B;領域に移動します。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/sfdc-3.png)
 
-1. リモートサイト名（「MarketoRestAPI」など）とリモートサイトURL（MarketoのRest API設定パネルから取得したAPI URL）を入力します。
+1. リモートサイト名（「MarketoRestAPI」など）とリモートサイトURL(MarketoのRest API設定パネルのAPI URL)を入力します。
 
    ![](assets/sfdc-4.png)
 
@@ -61,9 +61,9 @@ ht-degree: 0%
 
    Rest APIのリモートサイト設定が作成されました。
 
-## Marketing to Sales Insight {#access-marketo-sales-insight}へのアクセス
+## Marketo Sales Insight にアクセス {#access-marketo-sales-insight}
 
-1. MarketorのSales Insight管理者ページのRest APIパネルから秘密鍵証明書をコピーします。 それらをSalesforceのSales Insight設定ページのRest APIセクションに貼り付けます。
+1. MarketoのSales Insight管理ページのRest APIパネルから秘密鍵証明書をコピーします。 それらをSalesforceのSales Insight設定ページのRest APIセクションに貼り付けます。
 
 1. API秘密鍵を入力します。
 
