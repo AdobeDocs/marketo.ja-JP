@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359955
-description: エンゲージメントストリームのパフォーマンスレポート — Marketto Docs — 製品ドキュメント
+description: エンゲージメントストリームのパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントストリームのパフォーマンスレポート
+exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # エンゲージメントストリームのパフォーマンスレポート{#engagement-stream-performance-report}
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    よし！ 次に、設定を確認します。
 
-## 設定の編集{#edit-settings}
+## 設定の編集 {#edit-settings}
 
 1. レポートを検索して選択します。
 
@@ -62,4 +62,4 @@ ht-degree: 0%
    >
    >図には示していませんが、エンゲージメントスコアはこのレポートの列です。 具体的な内容については、[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)についてを参照してください。
 
-   素晴らしい仕事！ レポートはエンゲージメントプログラム別にグループ化されています。
+   OK！レポートはエンゲージメントプログラム別にグループ化されています。
