@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352475
-description: アクティビティ履歴にSales Connectイベントフィールドをインストールする — Marketto Docs — 製品ドキュメント
+description: アクティビティ履歴にSales Connectイベントフィールドをインストールする —Marketoドキュメント — 製品ドキュメント
 title: アクティビティ履歴にSales Connectイベントフィールドをインストール
+exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # アクティビティ履歴にSales Connectイベントフィールドをインストール{#install-sales-connect-event-fields-on-activity-history}
 
