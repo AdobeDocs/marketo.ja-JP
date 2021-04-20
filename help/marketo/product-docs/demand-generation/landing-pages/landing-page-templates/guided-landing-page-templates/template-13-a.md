@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437783
-description: テンプレート13-A - Marketto Docs — 製品ドキュメント
+description: テンプレート13-A -Marketoドキュメント — 製品ドキュメント
 title: テンプレート13-A
+exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート13-A {#template-a}
 
