@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092890
-description: テンプレート19-E - Marketto Docs — 製品ドキュメント
+description: テンプレート19-E -Marketoドキュメント — 製品ドキュメント
 title: テンプレート19-A
+exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # テンプレート19-A {#template-a}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    * ヒーロータイトル、ヒーローテキストおよびボタンが含まれます
 
 * 5つのボディセクション（オプション）
-* フッター
+* フッタ
 
 **以下をクリックして、このテンプレートをダウンロードしてください。**
 
