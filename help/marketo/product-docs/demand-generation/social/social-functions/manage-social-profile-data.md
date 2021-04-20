@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2950578
-description: ソーシャルプロファイルデータの管理 — Marketto Docs — 製品ドキュメント
+description: ソーシャルプロファイルデータの管理 —Marketoドキュメント — 製品ドキュメント
 title: ソーシャルプロファイルデータの管理
+exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
 # ソーシャルプロファイルデータの管理{#manage-social-profile-data}
 
-誰かがMarketor [ソーシャルアプリ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)とやり取りするか、ソーシャルネットワークで[ソーシャルフォームの記入](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を事前入力することを承認すると、Marketoはソーシャルプロファイルから利用可能なすべてのデータを取り込みます。 [個人の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)でこの表示を行うか、スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)のカスタム表示[の列として追加します。
+誰かがMarketoの[ソーシャルアプリ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)と対話したり、ソーシャルネットワークで[ソーシャルフォームの記入](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を事前入力することを承認したりすると、Marketoはソーシャルプロファイルから使用可能なすべてのデータを取り込みます。 [個人の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)でこの表示を行うか、スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)のカスタム表示[の列として追加します。
 
 ソーシャルフォームの入力とソーシャルアプリでは、少し異なるフィールドのセットが取り込まれます。以下の各セクションを参照してください。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 ## Socialアプリでキャプチャ{#captured-via-social-app}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >ソーシャルネットワークからの追加情報は、個人が承認されてから約5分後に、個人の詳細ページに表示されます。
 
-## Twitterから：{#from-twitter}
+## twitter:{#from-twitter}
 
 * 名（表示名から解析）
 * 姓（表示名から解析）
@@ -41,9 +41,9 @@ ht-degree: 0%
 >
 >ソーシャルアプリでは、ユーザーの電子メールアドレスは取得されません。
 
-## Facebookから：{#from-facebook}
+## facebook:{#from-facebook}
 
-* 名
+* 名 
 * 姓
 * プロファイルURL
 * プロファイル写真のURL
@@ -58,20 +58,20 @@ ht-degree: 0%
 >
 >ソーシャルフォームの入力によって取り込まれたデータは、フォームレベル](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)でこれらのフィールドの更新を[ブロックしない限り、一致するフィールドを上書きします。
 
-## Twitterから：{#from-twitter-1}
+## twitter:{#from-twitter-1}
 
 * 名（表示名から解析）
 * 姓（表示名から解析）
-* 電子メール
+* メール
 
-## Facebookから：{#from-facebook-1}
+## facebook:{#from-facebook-1}
 
-* 名
+* 名 
 * 姓
-* 電子メール
+* メール
 * 生年月日
-* 肩書
-* 会社
+* 職位
+* 企業
 
 >[!NOTE]
 >
