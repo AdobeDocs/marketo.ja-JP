@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359999
-description: レポート列の並べ替え — Marketto Docs — 製品ドキュメント
+description: レポート列の並べ替え —Marketoドキュメント — 製品ドキュメント
 title: レポート列の並べ替え
+exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # レポート列の並べ替え{#reorder-report-columns}
 
