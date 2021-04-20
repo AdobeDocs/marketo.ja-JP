@@ -1,14 +1,14 @@
 ---
 title: save-smart-リストルール
 description: スマートリストルールの保存
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # スマートリストルールの保存
 
@@ -26,13 +26,13 @@ ht-degree: 0%
 
    ![イメージ2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
-1. 必要な追加フィルター/トリガーを設定します。
+1. 必要な追加フィルター/トリガー
 
    ![イメージ3](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-3.png)
 
    ![画像4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. フィルター/トリガーの追加が完了したら、「**[!UICONTROL スマートキャンペーンのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL スマートリストのルールを保存]**」を選択します。
+1. フィルター/トリガーの追加が完了したら、「**[!UICONTROL スマートキャンペーンの操作]**」ドロップダウンをクリックし、「**[!UICONTROL スマートリストの規則]**&#x200B;を保存」を選択します。
 
    ![画像5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -66,4 +66,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ルールを引き継ぐと、既存のトリガーまたはフィルターは置き換えられず、トリガーまたはトリガーに追加されます。
+>ルールを引き継ぐと、既存のトリガーやフィルターは置き換えられず、既存のユーザーやユーザーに追加されます。
