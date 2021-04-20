@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: トークンの概要 — Marketto Docs — 製品ドキュメント
+description: トークンの概要 —Marketoドキュメント — 製品ドキュメント
 title: トークンの概要
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # トークンの概要{#tokens-overview}
 
-トークンは、マーケティング担当者向けのスマートキャンペーンフローステップ、電子メール、ランディングページ、スニペット、Webキャンペーンで使用できる変数です。
+トークンは、Marketoのスマートキャンペーンフローステップ、電子メール、ランディングページ、スニペット、Webキャンペーンで使用できる変数です。
 
 ## デフォルト値について{#understanding-default-values}
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Marketoの電子メールエディターを使用している場合、プリヘッダーでトークンが機能しません。 プリヘッダーでトークンを使用するには、電子メールテンプレート内の独自のHTMLを使用する必要があります。
+>Marketoの電子メールエディターを使用している場合、プリヘッダーでトークンは機能しません。 プリヘッダーでトークンを使用するには、電子メールテンプレート内の独自のHTMLを使用する必要があります。
 
 >[!NOTE]
 >
->このリストは完全なものではありません。 また、Marketoにあるすべてのカスタムフィールドに対して、トークンが作成されます。
+>このリストは完全なものではありません。 また、Marketoにあるカスタムフィールドごとに、トークンも作成されます。
 
 ## 人物トークン{#person-tokens}
 
@@ -151,13 +151,13 @@ ht-degree: 0%
 >
 >スマートキャンペーンで使用されるトリガーに基づいて、興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の[トークンの詳細を見つけます。
 
-## プログラムトークン{#program-tokens}
+## プログラムトークン {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## マイトークン{#my-tokens}
+## マイトークン {#my-tokens}
 
 My Tokensはプログラム内で定義され、`{{my.`で始まり、トークンに対して作成した名前が続きます。 [プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)のマイトークンについての詳細。
 
