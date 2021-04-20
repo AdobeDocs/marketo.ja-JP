@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081250
-description: グループの管理 — マーケティングツールドキュメント — 製品ドキュメント
+description: グループの管理 —Marketoドキュメント — 製品ドキュメント
 title: グループの管理
+exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # グループの管理{#manage-groups}
 
