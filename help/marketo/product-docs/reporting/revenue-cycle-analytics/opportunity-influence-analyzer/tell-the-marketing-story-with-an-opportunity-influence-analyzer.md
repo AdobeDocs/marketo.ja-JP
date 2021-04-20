@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360237
-description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメントを使用してマーケティングの話を伝える
+description: Opportunity Influence Analyzer -Marketoドキュメント — 製品ドキュメントを使用してマーケティングの話を伝える
 title: Opportunity Influence Analyzerでマーケティング事例を伝える
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
-
 
 # オポチュニティへの影響分析{#tell-the-marketing-story-with-an-opportunity-influence-analyzer}でマーケティングの話をする
 
