@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12615802
-description: 名前付きアカウントの削除 — Marketto Docs — 製品ドキュメント
+description: 名前付きアカウントの削除 —Marketoドキュメント — 製品ドキュメント
 title: 名前付きアカウントの削除
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 名前付きアカウントの削除{#delete-a-named-account}
 
