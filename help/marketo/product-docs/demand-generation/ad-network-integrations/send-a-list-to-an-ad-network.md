@@ -1,26 +1,26 @@
 ---
-description: リストを広告ネットワーク — Marketto Docs — 製品ドキュメントに送信する
+description: リストを広告ネットワークに送信する —Marketoドキュメント — 製品ドキュメント
 title: 広告ネットワークへのリストの送信
+exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # リストを広告ネットワークに送信{#send-a-list-to-an-ad-network}
 
-静的なリストをLinkedIn、FacebookまたはGoogleに送信する方法を説明します。
+静的リストをLinkedIn、FacebookまたはGoogleに送信する方法を説明します。
 
 ## リストの送信方法{#how-to-send-a-list}
 
-1. Marketoで、リストーを選択し、「**リストアクション**」ドロップダウンをクリックし、「**広告ネットワークに送信**」を選択します。
+1. Marketoで、リストを選択し、「**リストの操作**」ドロップダウンをクリックし、「**広告ネットワークに送信**」を選択します。
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. LinkedIn、Facebook、Googleのいずれかを選択します（現時点では、他のオプションは使用できません）。 この例では、**LinkedIn**&#x200B;を選択しています。 「**次へ**」をクリックします。
+1. [LinkedIn]、[Facebook]、[Google]のいずれかを選択します（現時点では、他のオプションは使用できません）。 この例では、**LinkedIn**&#x200B;を選択します。 「**次へ**」をクリックします。
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >「継続的なオーディエンス同期を有効にする」を選択すると、Marketorは、リストのメンバーシップがMarketorインスタンス内で変更されると、選択した広告ネットワークでリストを最新の状態に保ちます。
+   >「継続的なオーディエンス同期を有効にする」を選択すると、Marketoは選択した広告ネットワークでリストを最新の状態に保ちます。これは、リストのメンバーシップがMarketoインスタンス内で変更された場合に発生します。
 
 1. それだ！ 「**OK**」をクリックして終了します。
 
