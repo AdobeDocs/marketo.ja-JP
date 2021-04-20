@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513771
-description: ログインとユーザー管理 — Marketto Docs — 製品ドキュメント
+description: ログインとユーザー管理 —Marketoドキュメント — 製品ドキュメント
 title: ログインとユーザー管理
+exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # ログインとユーザー管理{#login-and-user-management}
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 新たに有効にしたユーザーは、次回ログインしたときに、マイマーケティングに&#x200B;**Webパーソナライゼーション**&#x200B;タイルが表示されます。
+1. 新たに有効にしたユーザーは、次回ログインしたときに、マイMarketoに&#x200B;**Webパーソナライゼーション**&#x200B;タイルが表示されます。
 
    ![](assets/eight.png)
