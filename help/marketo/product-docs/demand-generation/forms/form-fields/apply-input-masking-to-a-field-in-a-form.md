@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359667
-description: フォーム — Marketto Docs — 製品ドキュメント内のフィールドへの入力マスキングの適用
+description: フォーム内のフィールドへの入力マスキングの適用 —Marketoドキュメント — 製品ドキュメント
 title: フォーム内のフィールドへの入力マスクの適用
+exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # フォーム内のフィールドへの入力マスキングの適用{#apply-input-masking-to-a-field-in-a-form}
 
