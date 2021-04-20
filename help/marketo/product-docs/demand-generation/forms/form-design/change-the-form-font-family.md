@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359608
-description: フォームフォントファミリー — Marketto Docs — 製品ドキュメントの変更
+description: フォームフォントファミリーの変更 —Marketoドキュメント — 製品ドキュメント
 title: フォームフォントファミリの変更
+exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # フォームフォントファミリーの変更{#change-the-form-font-family}
 
