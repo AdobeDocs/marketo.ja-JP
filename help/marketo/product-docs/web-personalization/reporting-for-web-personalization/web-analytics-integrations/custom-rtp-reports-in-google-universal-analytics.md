@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504218
-description: Google Universal Analytics - Marketto Docs — 製品ドキュメント内のカスタムRTPレポート
+description: Google Universal Analytics -Marketoドキュメント — 製品ドキュメントでのカスタムRTPレポート
 title: Google Universal AnalyticsでのカスタムRTPレポート
+exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}でのカスタムRTPレポート
 
@@ -203,16 +203,16 @@ ht-degree: 0%
  </thead> 
  <tbody> 
   <tr> 
-   <td><p>含める</p></td> 
+   <td><p>含む</p></td> 
    <td><p>イベントカテゴリ</p></td> 
-   <td>Regex</td> 
+   <td>正規表現</td> 
    <td>RTPキャンペーン|RTP-Recommendations|RTPセグメント</td> 
    <td colspan="1">RTPに関連しない他のカスタムイベントをすべてフィルタします。</td> 
   </tr> 
   <tr> 
-   <td>除外</td> 
+   <td>除外する</td> 
    <td>イベントラベル</td> 
-   <td>Regex</td> 
+   <td>正規表現</td> 
    <td>#</td> 
    <td colspan="1">キャンペーン名に#を使用して、レポートキャンペーンからフィルタできます。</td> 
   </tr> 
