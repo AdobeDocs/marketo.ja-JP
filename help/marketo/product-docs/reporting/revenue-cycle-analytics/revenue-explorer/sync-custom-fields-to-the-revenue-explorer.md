@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360341
-description: カスタムフィールドを売上高エクスプローラー — Marketto Docs — 製品ドキュメントに同期
+description: カスタムフィールドを売上高エクスプローラーと同期 —Marketoドキュメント — 製品ドキュメント
 title: カスタムフィールドを売上高エクスプローラに同期
+exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # カスタムフィールドを売上高エクスプローラに同期{#sync-custom-fields-to-the-revenue-explorer}
 
-売上高サイクル分析では、同期するカスタムフィールドを設定する必要があるため、カスタムマーケティングフィールドに関するレポートを作成できます。
+売上高サイクル分析では、カスタムのMarketoフィールドに関するレポートを作成できます。これを行うには、同期するカスタムフィールドを設定する必要があります。
 
 >[!NOTE]
 >
