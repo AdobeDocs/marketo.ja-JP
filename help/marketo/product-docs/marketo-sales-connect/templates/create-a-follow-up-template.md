@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352505
-description: フォローアップテンプレートの作成 — Marketto Docs — 製品ドキュメント
+description: フォローアップテンプレートの作成 —Marketoドキュメント — 製品ドキュメント
 title: フォローアップテンプレートの作成
+exl-id: 46f59d08-171b-4ce0-ac80-7a8e8632bfd0
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
-
 
 # フォローアップテンプレートの作成{#create-a-follow-up-template}
 
