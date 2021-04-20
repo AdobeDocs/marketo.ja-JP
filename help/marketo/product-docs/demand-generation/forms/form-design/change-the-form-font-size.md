@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359610
-description: フォームのフォントサイズの変更 — Marketto Docs — 製品ドキュメント
+description: フォームフォントサイズの変更 —Marketoドキュメント — 製品ドキュメント
 title: フォームのフォントサイズの変更
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # フォームのフォントサイズの変更{#change-the-form-font-size}
 
-Marketorでは、フォームの外観を簡単にカスタマイズできます。 フォントサイズを変更することもできます。 これが方法です。
+Marketoでは、フォームの外観と操作性を簡単にカスタマイズできます。 フォントサイズを変更することもできます。 これが方法です。
 
 >[!TIP]
 >
