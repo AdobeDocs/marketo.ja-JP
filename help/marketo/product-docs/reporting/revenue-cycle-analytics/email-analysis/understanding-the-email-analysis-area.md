@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718651
-description: 電子メール分析領域について — Marketto Docs — 製品ドキュメント
+description: 電子メール分析エリアについて —Marketoドキュメント — 製品ドキュメント
 title: 電子メール分析領域について
+exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 電子メール分析領域について{#understanding-the-email-analysis-area}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->これは、Select Editionまたは[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを使用するユーザーが利用できます。 詳細については、セールス担当者にお問い合わせください。
+>これは、Select Editionまたは[Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを使用するユーザーが利用できます。  詳細は、営業取引先責任者にお問い合わせください。
 
 ## 電子メールクリックアクティビティのヒートグリッド{#email-click-activity-heat-grid}
 
