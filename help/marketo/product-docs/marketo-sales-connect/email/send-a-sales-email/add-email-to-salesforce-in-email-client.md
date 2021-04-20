@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352596
-description: 電子メールクライアントの追加Salesforceへの電子メール — Marketto Docs — 製品ドキュメント
+description: 電子メールクライアントの追加Salesforceへの電子メール —Marketoドキュメント — 製品ドキュメント
 title: 電子メ追加ールクライアントのSalesforceへの電子メール
+exl-id: dbb7cbb4-3a50-430f-8af6-d45394de476d
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールクライアントの追加Salesforceに電子メール{#add-email-to-salesforce-in-email-client}
 
