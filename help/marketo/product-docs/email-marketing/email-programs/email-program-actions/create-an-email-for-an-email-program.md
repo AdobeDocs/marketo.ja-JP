@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1900593
-description: 電子メールプログラム用の電子メールの作成 — Marketto Docs — 製品ドキュメント
+description: 電子メールプログラム用の電子メールの作成 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラム用の電子メールの作成
+exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラム用の電子メールの作成{#create-an-email-for-an-email-program}
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-素晴らしい！ 送信する電子メールを作成しました。[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加するか、[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)のスケジュールを直接スキップします。
+OK！送信する電子メールを作成しました。[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加するか、[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)のスケジュールを直接スキップします。
