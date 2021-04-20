@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359594
-description: フ追加ォームに設定されたフィールド — Marketto Docs — 製品ドキュメント
+description: フ追加ォームに設定するフィールドセット —Marketoドキュメント — 製品ドキュメント
 title: フ追加ォームへのフィールドセット
+exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
-
 
 # フ追加ォーム{#add-a-fieldset-to-a-form}へのFieldSet
 
