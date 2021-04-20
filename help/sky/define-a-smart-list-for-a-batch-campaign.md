@@ -1,20 +1,20 @@
 ---
 title: define-a-smart-リスト-for-a-batch-キャンペーン
 description: バッチキャンペーンのスマートリストの定義
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-
 # バッチキャンペーンのスマートリストの定義
 
 <br> 
 
-スマートリストは、レポート、リスト、スマートキャンペーンのいずれを含めるかを定義する、マーケティング全体のメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
+スマートリストは、Marketo全体のメカニズムで、レポート、リスト、スマートキャンペーンのいずれであれ、誰を含めるかを定義するメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
 
 1. スマートキャンペーンを選択し、[**[!UICONTROL スマートリスト]**]をクリックします。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 >デフォルトでは、すべてのスマートリストルールを満たすユーザーは
 >資格を持つ これは、キャンペーンのニーズに合わせて変更できます。 詳しくは、[複雑なロジックのスマートリストルール](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic)を参照してください。
 >
->1人ずつライブイベント上でトリガーするには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |トリガー](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger)。
+>1人ずつライブイベントをトリガーするには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |トリガー](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger)。
