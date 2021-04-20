@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11379060
-description: SMSメッセージダッシュボード- Marketto Docs — 製品ドキュメント
+description: SMSメッセージダッシュボード-Marketoドキュメント — 製品ドキュメント
 title: SMSメッセージダッシュボード
+exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # SMSメッセージダッシュボード{#the-sms-message-dashboard}
 
