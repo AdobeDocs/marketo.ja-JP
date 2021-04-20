@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359590
-description: フォームの編集 — Marketto Docs — 製品ドキュメント
+description: フォームの編集 —Marketoドキュメント — 製品ドキュメント
 title: フォームの編集
+exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # フォームの編集{#edit-a-form}
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
    ![](assets/editform.png)
 
-簡単！
+簡易!
