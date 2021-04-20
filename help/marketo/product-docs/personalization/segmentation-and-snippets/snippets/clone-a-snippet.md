@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359514
-description: スニペットのコピー — Marketto Docs — 製品ドキュメント
+description: スニペットのコピー —Marketoドキュメント — 製品ドキュメント
 title: スニペットのコピー
+exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # スニペットのコピー{#clone-a-snippet}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
-すごい！ これで、必要に応じてコピーされたスニペットを変更できます。
+やりましたね！これで、必要に応じてコピーされたスニペットを変更できます。
 
 >[!MORELIKETHIS]
 >
