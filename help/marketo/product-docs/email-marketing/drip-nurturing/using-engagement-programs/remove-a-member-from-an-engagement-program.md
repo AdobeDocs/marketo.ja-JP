@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359951
-description: エンゲージメントプログラムからのメンバーの削除 — Marketto Docs — 製品ドキュメント
+description: エンゲージメントプログラムからのメンバーの削除 —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントプログラムからのメンバーの削除
+exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # エンゲージメントプログラムからのメンバーの削除{#remove-a-member-from-an-engagement-program}
 
-おっと！ どうやって入ったの？ **プログラムステータスの変更**&#x200B;フローステップを使用して、エンゲージメントプログラムからメンバーを削除できます。
+エラー！どうやって入ったの？ **プログラムステータスの変更**&#x200B;フローステップを使用して、エンゲージメントプログラムからメンバーを削除できます。
 
 >[!TIP]
 >
 >ユーザーのコンテンツを一時停止する場合は、これを使用しないでください。 これにより、Analyticsのすべてのアトリビューションが削除されます。 エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)でユーザーを[一時停止する方法の詳細を説明します。
 
-## フローステップ{#flow-step}
+## フローステップ {#flow-step}
 
 1. **プログラムステータスの変更**&#x200B;のフローステップ内をドラッグします。
 
