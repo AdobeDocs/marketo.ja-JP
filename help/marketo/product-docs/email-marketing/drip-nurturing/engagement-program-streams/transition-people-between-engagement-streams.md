@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359947
-description: エンゲージメントストリーム間のトランジション者 — Marketto Docs — 製品ドキュメント
+description: エンゲージメントストリーム間のトランジション者 —Marketoドキュメント — 製品ドキュメント
 title: エンゲージメントストリーム間のトランジションユーザー
+exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # エンゲージメントストリーム間のトランジションユーザー{#transition-people-between-engagement-streams}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   素晴らしい！ これで、エンゲージメントプログラム内でオポチュニティに追加されたすべてのユーザーが、中間ステージストリームに移動されます。
+   OK！これで、エンゲージメントプログラム内でオポチュニティに追加されたすべてのユーザーが、中間ステージストリームに移動されます。
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 
