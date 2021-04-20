@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352457
-description: .NET 追加-inの概要 — Marketto Docs — 製品ドキュメント
+description: .NET 追加-inの概要 —Marketoドキュメント — 製品ドキュメント
 title: .NET 追加-inの概要
+exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # .NET 追加-inの概要{#net-add-in-overview}
 
