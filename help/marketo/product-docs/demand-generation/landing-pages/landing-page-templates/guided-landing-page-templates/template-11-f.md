@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437571
-description: テンプレート11-B -Marketoドキュメント — 製品ドキュメント
+description: テンプレート11-F -Marketoドキュメント — 製品ドキュメント
 title: テンプレート11 ～ F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 translation-type: tm+mt
