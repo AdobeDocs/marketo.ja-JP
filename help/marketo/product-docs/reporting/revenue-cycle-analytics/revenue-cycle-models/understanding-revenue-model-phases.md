@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718660
-description: 売上高モデルのフェーズについて — Marketto Docs — 製品ドキュメント
+description: 売上高モデルのフェーズについて —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデルのフェーズについて
+exl-id: 036559ff-b576-4490-ab76-54092e909178
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # 売上高モデルのフェーズについて{#understanding-revenue-model-phases}
 
 フェーズは、複数のステージをグループ化する方法です。 モデル内の複数のステージがファネルの1つのフェーズを反映する場合があります。
 
-![—](assets/image2015-6-12-16-3a56-3a40.png)
+![--](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## モデルのフェーズを定義{#define-the-phases-of-the-model}
 
