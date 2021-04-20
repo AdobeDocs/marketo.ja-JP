@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359488
-description: セグメント別の電子メールレポートのグループ化 — Marketto Docs — 製品ドキュメント
+description: セグメント別の電子メールレポートのグループ化 —Marketoドキュメント — 製品ドキュメント
 title: セグメント別電子メールレポートのグループ化
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # セグメント別電子メールレポートのグループ化{#group-email-reports-by-segmentations}
 
