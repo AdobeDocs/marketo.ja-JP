@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953144
-description: 高度なプログラムレポートの概要 — Marketto Docs — 製品ドキュメント
+description: 高度なプログラムレポートの概要 —Marketoドキュメント — 製品ドキュメント
 title: 詳細プログラムレポートの概要
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
-
 
 # 高度なプログラムレポートの概要{#advanced-program-reporting-overview}
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->売上高サイクルエクスプローラーのデータは、Marketoのインスタンスから毎晩更新されます。 したがって、Marketer内での個人およびアカウントアクティビティに対する変更は、次の稼働日にRevenue Cycle Explorerに反映されます。
+>売上高サイクルエクスプローラのデータは、Marketoのインスタンスから毎晩更新されます。 そのため、Marketo内の個人およびアカウントアクティビティに対する変更は、次の営業日に売上高サイクルエクスプローラに反映されます。
 
 Revenue Analyticsの使用に慣れると、プログラムとその影響に関する十分な洞察を得ることができます。
