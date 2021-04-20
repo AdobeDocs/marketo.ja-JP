@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352590
-description: GmailまたはOutlookから送信する際にエラーが発生しました — Marketto Docs — 製品ドキュメント
+description: GmailまたはOutlookから送信する際にエラーが発生しました —Marketoドキュメント — 製品ドキュメント
 title: GmailまたはOutlookから送信する際のエラー
+exl-id: e1ab3a2b-6d72-4f06-9cd8-96f714471f1a
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # GmailまたはOutlookから送信する際にエラーが発生しました{#error-when-sending-from-gmail-or-outlook}
 
