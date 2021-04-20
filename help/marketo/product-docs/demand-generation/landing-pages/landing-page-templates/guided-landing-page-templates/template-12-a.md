@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **以下をクリックして、このテンプレートをダウンロードしてください。**
 
-[Template12-A.html](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Template11-A.html](https://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
