@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7515616
-description: ガイド付きランディングページテンプレートリスト- Marketto Docs — 製品ドキュメント
+description: ガイド付きランディングページテンプレートリスト-Marketoドキュメント — 製品ドキュメント
 title: ガイド付きランディングページテンプレートリスト
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # ガイド付きランディングページテンプレートリスト{#guided-landing-page-template-list}
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Supportは、HTMLのトラブルシューティングを支援するために設定されていません。 これらのテンプレートの変更に関して不明な点がある場合は、Web開発者にお問い合わせください。
+>Marketoサポートは、HTMLのトラブルシューティングを支援するためには設定されていません。 これらのテンプレートの変更に関して不明な点がある場合は、Web開発者にお問い合わせください。
 
-テンプレートをMarketorにインポートするには：
+テンプレートをMarketoに読み込むには：
 
 1. 大きい表示を表示するには、テンプレート名をクリックします。
 1. 選択したテンプレートをダウンロードします。
@@ -75,7 +75,7 @@ ht-degree: 0%
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [テンプレート12 ～ F](guided-landing-page-templates/template-12-f.md) | [テンプレート13-A](guided-landing-page-templates/template-13-a.md) | [テンプレート13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [テンプレート13-A](guided-landing-page-templates/template-13-c.md) | [テンプレート13-D](guided-landing-page-templates/template-13-d.md) | [テンプレート13-E](guided-landing-page-templates/template-13-e.md) |
+| [テンプレート13-C](guided-landing-page-templates/template-13-c.md) | [テンプレート13-D](guided-landing-page-templates/template-13-d.md) | [テンプレート13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [テンプレート14-A](guided-landing-page-templates/template-14-a.md) | [テンプレート14-B](guided-landing-page-templates/template-14-b.md) | [テンプレート14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
