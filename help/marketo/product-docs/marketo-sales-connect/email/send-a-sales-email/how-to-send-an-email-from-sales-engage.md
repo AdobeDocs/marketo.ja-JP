@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352528
-description: 販売の関与度 — Marketto Docs — 製品ドキュメントから電子メールを送信する方法
+description: 販売ソーシャルから電子メールを送信する方法 —Marketoドキュメント — 製品ドキュメント
 title: Sales Engagedから電子メールを送信する方法
+exl-id: e78ff972-ca1a-4633-9192-2851c116f2b8
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 販売の関与を促す電子メールの送信方法{#how-to-send-an-email-from-sales-engage}
 
