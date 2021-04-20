@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360227
-description: キャンペーンの電子メールレポートでのアセットのフィルター — Marketto Docs — 製品ドキュメント
+description: キャンペーンの電子メールレポートでのアセットのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンの電子メールレポートでのアセットのフィルタリング
+exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンの電子メールレポート内のアセットのフィルタ{#filter-assets-in-a-campaign-email-reports}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **キャンペーン**:Marketorアカウント内のアクティブなスマートキャンペーン。
+   * **キャンペーン**:Marketoアカウントのアクティブなスマートキャンペーン。
    * **アーカイブされたキャンペーン**:非アクティブでリタイアされたスマートキャンペーン。
 
 1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。
