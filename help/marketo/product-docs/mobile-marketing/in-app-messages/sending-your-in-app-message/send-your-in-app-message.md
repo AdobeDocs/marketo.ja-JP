@@ -1,14 +1,14 @@
 ---
-description: アプリ内メッセージの送信 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージの送信 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージの送信
+exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 translation-type: tm+mt
-source-git-commit: b1cdd508e588af8b2af7f3d47804c460b48c8329
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージを送信{#send-your-in-app-message}
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->App Openによってトリガーされるアプリ内メッセージをテストする場合は、アプリを電話にダウンロードし、開いて閉じてください。 これにより、SDKコードが初期化されます。 次回アプリを開くと、アプリ内メッセージが表示されます。 カスタムイベントは、アプリを初めて開いたときにトリガーされます。
+>App Openによってトリガーされるアプリ内メッセージをテストする場合は、アプリを電話にダウンロードし、開いて閉じてください。 これにより、SDKコードが初期化されます。 次回アプリを開くと、アプリ内メッセージが表示されます。 アプリを初めて開いたときのカスタムイベントトリガー。
 
 1. マーケティングアクティビティで、プログラムのライブ先のプログラムーをクリックし、「**新しいフォルダー**」を選択します。
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
    ![画像4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-準備は？ [オーディエンス](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)の設定との開始。
+準備完了? [オーディエンス](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)の設定との開始。
