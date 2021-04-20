@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504343
-description: 既知の人物データを使用したセグメントの作成 — Marketto Docs — 製品ドキュメント
+description: 既知の人物データを使用したセグメントの作成 —Marketoドキュメント — 製品ドキュメント
 title: 既知の人物データを使用したセグメントの作成
+exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 既知の人物データを使用したセグメントの作成{#create-a-segment-using-known-person-data}
 
