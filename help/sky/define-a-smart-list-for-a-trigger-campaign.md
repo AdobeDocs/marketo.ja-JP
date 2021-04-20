@@ -1,14 +1,14 @@
 ---
-title: define-a-smart-リスト-for-a-trigger-キャンペーン
+title: define-a-smart-リスト-for-a-トリガー-キャンペーン
 description: トリガーキャンペーンのスマートリストの定義
+exl-id: d5231df9-2b5b-40cc-b4f3-a43100abdc1e
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # トリガーキャンペーンのスマートリストの定義
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >トリガーを持つスマートキャンペーンは、トリガーモードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
 
-1. ドロップダウンをクリックし、演算子(**[!UICONTROL is]**、**[!UICONTROL is not]**&#x200B;など)。 選択したトリガーに対して。
+1. ドロップダウンをクリックし、演算子(**[!UICONTROL is]**、**[!UICONTROL is not]**&#x200B;など)。 選択したトリガーに対して
 
    ![イメージ3](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を備えたスマートキャンペーンでは、トリガーが一番上に表示され、トリガーがトリガーされると、フィルター条件を満たす訪問者のみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが最上位に移動し、トリガーされると、フィルター条件を満たすユーザーのみがフローを通過します。
 
 1. トリガーを定義します。
 
