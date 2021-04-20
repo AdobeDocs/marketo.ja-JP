@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359759
-description: ソーシャルアプリのカスタマイズボタン — Marketto Docs — 製品ドキュメント
+description: ソーシャルアプリのカスタマイズボタン —Marketoドキュメント — 製品ドキュメント
 title: Socialアプリのカスタマイズボタン
+exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # Socialアプリのカスタマイズボタン{#customize-social-app-button}
 
