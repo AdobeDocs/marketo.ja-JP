@@ -1,15 +1,15 @@
 ---
 unique-page-id: 17727591
-description: Outlookユーザーの電子メール接続 — Marketto Docs — 製品ドキュメント
+description: Outlookユーザー用の電子メール接続 —Marketoドキュメント — 製品ドキュメント
 title: Outlookユーザー用電子メール接続
+exl-id: e694915c-39a6-4476-a643-080acb758de7
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # Outlookユーザー用電子メール接続{#email-connection-for-outlook-users}
 
@@ -62,7 +62,7 @@ Outlookに接続すると、返信追跡、Outlook配信チャネルへのアク
 
    >[!NOTE]
    >
-   >現時点では、MarketoはExchangeハイブリッドアカウントをサポートしていません。
+   >現在、MarketoはExchangeハイブリッドアカウントをサポートしていません。
 
 1. 「**OK**」をクリックします。
 
