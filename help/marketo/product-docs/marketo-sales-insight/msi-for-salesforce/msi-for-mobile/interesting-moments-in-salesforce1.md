@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7511877
-description: Salesforce1 - Marketto Docs — 製品ドキュメントの興味深い瞬間
+description: Salesforce1 -Marketoドキュメント — 製品ドキュメントの興味深い場面
 title: Salesforce1の興味深い瞬間
+exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # Salesforce1の興味深い瞬間{#interesting-moments-in-salesforce}
 
-[興味深い](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) お問い合わせの使用は、Marketo Sales Insightアプリを通じてセールスチームと連絡を取るための鍵となります。Marketo Sales Insight for Salesforce1では、スマートフォンでも同じことができます。
+[興味深い](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) お問い合わせの使用は、MarketoのSales Insightアプリを通じて、セールスチームと連絡を取るための鍵となります。Marketo・セールス・インサイトのSalesforce1を使えば、スマートフォンでも同じことができます。
 
 >[!AVAILABILITY]
 >
->これらは、Marketor Sales Insightのお客様のみ利用できます。
+>これらは、Marketo販売インサイトのお客様のみ利用できます。
 
 1. スマートフォンで、Salesforceアプリを開きます。
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [面白い瞬間](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
+>* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
 >* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
