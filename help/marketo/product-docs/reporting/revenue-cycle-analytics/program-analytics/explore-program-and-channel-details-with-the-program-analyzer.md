@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360437
-description: プログラム分析 — Marketto Docs — 製品ドキュメントを使用して、プログラムとチャネルの詳細を調べます。
+description: プログラムアナライザ —Marketoドキュメント — 製品ドキュメントでプログラムとチャネルの詳細を調べる
 title: プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査
+exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # プログラムアナライザを使用してプログラムとチャネルの詳細を調べる{#explore-program-channel-details-with-the-program-analyzer}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能は、Marketoのすべてのエディションに適用されるわけではありません。 詳しくは、アカウントマネージャーにお問い合わせください。
+>この機能が含まれていないのはMarketoの全エディションです。 詳しくは、アカウントマネージャーにお問い合わせください。
 
 1. 「**解析**」をクリックします。
 
