@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950559
-description: ソーシャルアプリの再共有電子メールの設定 — Marketto Docs — 製品ドキュメント
+description: 再共有電子メールの設定とソーシャルアプリの入力を促す —Marketoドキュメント — 製品ドキュメント
 title: 再共有電子メールの設定とソーシャルアプリの入力を促す
+exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 再共有電子メールの設定とソーシャルアプリの入力を促す{#configure-re-share-email-and-prompt-for-a-social-app}
 
