@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11380787
-description: アカウントリストインサイト — Marketto Docs — 製品ドキュメント
+description: アカウントリストインサイト —Marketoドキュメント — 製品ドキュメント
 title: アカウントリストインサイト
+exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # アカウントリストインサイト{#account-list-insights}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->マーケティング担当者は、アカウントリスト内で、生成されたパイプラインまたはアカウントエンゲージメントスコアに基づいて、上位のアカウントを自動的に決定します。
+>MarketoTAMは、生成されたパイプラインまたはアカウントエンゲージメントスコアに基づいて、アカウントリスト内の上位のアカウントを自動的に決定します。
 
 ## アカウントリストダッシュボード{#account-list-dashboard}
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">経時的なパイプラインを参照してください。 週単位で経時的にパイプラインを決定するために、最終日にパイプラインを使用します。</td> 
   </tr> 
   <tr> 
-   <td><strong>売上高</strong></td> 
+   <td><strong>収益</strong></td> 
    <td><p>経時的な売上高を表示します。 時間の経過に伴う売上高を週別に判断するには、その週の売上高の合計を受け取ります。</p></td> 
   </tr> 
  </tbody> 
