@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359813
-description: 共有後の確認の設定 — Marketto Docs — 製品ドキュメント
+description: 共有後のプロンプトの設定 —Marketoドキュメント — 製品ドキュメント
 title: 共有後のプロンプトの設定
+exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # 共有後のプロンプトの構成{#configure-after-share-prompts}
 
