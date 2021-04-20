@@ -1,21 +1,21 @@
 ---
 unique-page-id: 37356578
-description: 選択して送信でバルク電子メールを構成する — Marketto Docs — 製品ドキュメント
+description: 選択して送信するバルク電子メールの構成 —Marketoドキュメント — 製品ドキュメント
 title: 選択と送信を使用したバルク電子メールの構成
+exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # 選択と送信によるバルク電子メールの構成{#composing-bulk-emails-with-select-and-send}
 
 「選択して送信」オプションを使用して電子メールを送信/編集する方法を次に示します。
 
-## 電子メールの送信{#sending-emails}
+## メール送信中 {#sending-emails}
 
 1. 「ユーザー」ページに移動します。
 
