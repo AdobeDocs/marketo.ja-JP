@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437586
-description: テンプレート12-E - Marketto Docs — 製品ドキュメント
+description: テンプレート12-E -Marketoドキュメント — 製品ドキュメント
 title: テンプレート12-E
+exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート12-E {#template-e}
 
