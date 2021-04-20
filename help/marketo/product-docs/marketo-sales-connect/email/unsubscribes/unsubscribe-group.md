@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14746167
-description: グループの登録解除 — Marketo Docs — 製品ドキュメント
+description: 登録解除グループ —Marketoドキュメント — 製品ドキュメント
 title: グループの登録解除
+exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # グループの登録解除{#unsubscribe-group}
 
