@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719406
-description: Webキャンペーンの起動/一時停止 — Marketto Docs — 製品ドキュメント
+description: Webキャンペーンの起動/一時停止 —Marketoドキュメント — 製品ドキュメント
 title: Webキャンペーンの起動/一時停止
+exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Webキャンペーンの起動/一時停止{#launch-pause-a-web-campaign}
 
