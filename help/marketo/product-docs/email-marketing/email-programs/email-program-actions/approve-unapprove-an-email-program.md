@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359462
-description: 電子メールプログラムの承認/未承認 — Marketto Docs — 製品ドキュメント
+description: 電子メールプログラムの承認/未承認 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムの承認/未承認
+exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールプログラムの承認/未承認{#approve-unapprove-an-email-program}
 
