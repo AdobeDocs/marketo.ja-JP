@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949283
-description: Markettoテンプレートを使用したOutlookからの送信と追跡 — Marketto Docs — 製品ドキュメント
-title: Marketorテンプレートを使用したOutlookからの送信と追跡
+description: OutlookからOutlookテンプレートを使用して送信および追跡する —Marketoドキュメント — 製品ドキュメント
+title: Marketoテンプレートを使用したOutlookからの送信と追跡
+exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# OutlookからMarketorテンプレートを使用して送信および追跡{#send-and-track-from-outlook-using-a-marketo-template}
+# OutlookからMarketoテンプレートを使用して送信および追跡する{#send-and-track-from-outlook-using-a-marketo-template}
 
 マーケティングチームがテンプレートを利用可能にしている場合は、それらを使用して電子メールの作成時に時間を節約できます。
 
-1. Microsoft Outlookを開き、「**Markettoメッセージ**」をクリックします。
+1. Microsoft Outlookを開き、**Marketoメッセージ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Marketorのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Marketoのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
