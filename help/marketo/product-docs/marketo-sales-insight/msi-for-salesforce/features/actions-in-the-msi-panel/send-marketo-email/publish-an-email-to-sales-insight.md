@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949718
-description: Sales Insight - Marketto Docs — 製品ドキュメントへの電子メールの投稿
+description: Sales Insightへの電子メールの投稿 —Marketoドキュメント — 製品ドキュメント
 title: Sales Insightへの電子メールの公開
+exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Sales Insightに電子メールを公開する{#publish-an-email-to-sales-insight}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **Publish to Marketto Sales Insight**&#x200B;を確認します。
+1. 「**Marketo販売インサイトへの投稿**」を確認します。
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >午後11時59分。(CST)有効期限日（設定した場合）に、利用可能にした電子メールとそのアドインがSales Insightに表示されなくなります。 もちろん、Marketoでもアクセスできます。
+   >午後11時59分。(CST)有効期限日（設定した場合）に、利用可能にした電子メールとそのアドインがSales Insightに表示されなくなります。 もちろんMarketoでは利用できます。
 
 1. 「**保存**」をクリックします。
 
