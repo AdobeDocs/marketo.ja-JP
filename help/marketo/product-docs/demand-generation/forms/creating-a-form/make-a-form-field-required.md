@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359569
-description: フォームフィールドを必須にする — Marketto Docs — 製品ドキュメント
+description: フォームフィールドを必須にする —Marketoドキュメント — 製品ドキュメント
 title: フォームフィールドを必須にする
+exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # フォームフィールドを必須にする{#make-a-form-field-required}
 
