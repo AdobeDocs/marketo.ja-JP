@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378816
-description: 特定追加のアカウントにアクセスした人 — Marketto Docs — 製品ドキュメント
+description: ユーザー追加に固有のアカウント —Marketoドキュメント — 製品ドキュメント
 title: 名前付き追加アカウントのユーザー
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 名前付き追加アカウントへのユーザー{#add-people-to-a-named-account}
 
 TAMの名前付きアカウントに手動でユーザーを追加する方法は3つあります。
 
-## 単一のフロー操作{#single-flow-action}
+## シングル フロー アクション {#single-flow-action}
 
 1. 「**Database**」をクリックします。
 
@@ -53,7 +53,7 @@ TAMの名前付きアカウントに手動でユーザーを追加する方法�
 
    それだ！ 次に、スマートキャンペーンのスケジュールを設定（またはアクティブ化）します。フローの手順では、指定した名前付きアカウントに適格な人を追加します。
 
-## リストインポート{#list-import}
+## リストのインポート {#list-import}
 
 1. リストを選択し、「**リストアクション**」ドロップダウンをクリックし、「**リストを読み込み**」を選択します。
 
