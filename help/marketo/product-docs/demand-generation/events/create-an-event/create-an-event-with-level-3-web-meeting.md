@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512328
-description: レベル3のWeb会議 — Marketto Docs — 製品ドキュメントを含むイベントを作成します
+description: レベル3 Web会議 —Marketoドキュメント — 製品ドキュメントでイベントを作成する
 title: レベル3 Web会議でイベントを作成する
+exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # レベル3 Web会議{#create-an-event-with-level-web-meeting}を使用してイベントを作成する
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
-まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、[Level 3 Resource Library](https://www.level3.com/en/resource-library/)をご覧ください。 BrightTalkと非常に似ています。  Marketorは、Level 3フィールドの小さなサブセットを使用します。
+まず、レベル3でウェビナーを作成します。 ヘルプが必要な場合は、[Level 3 Resource Library](https://www.level3.com/en/resource-library/)をご覧ください。 BrightTalkと非常に似ています。  Marketoは、Level 3フィールドの小さなサブセットを使用します。
 
 * **名前** - Webキャストの名前。
 * **開始日** - Webキャストの開始日。
