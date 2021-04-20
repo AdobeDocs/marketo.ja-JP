@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352547
-description: Sales ConnectプラグインがGmailに表示されない — Marketto Docs — 製品ドキュメント
+description: Sales ConnectプラグインがGmailに表示されない —Marketoドキュメント — 製品ドキュメント
 title: GmailにSales Connectプラグインが表示されない
+exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Sales ConnectプラグインがGmail {#sales-connect-plugin-not-showing-up-in-gmail}に表示されない
 
