@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718666
-description: 売上高モデルの在庫ステージの使用 — Marketto Docs — 製品ドキュメント
+description: 売上高モデル在庫ステージの使用 —Marketoドキュメント — 製品ドキュメント
 title: 売上高モデル在庫ステージの使用
+exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
-
 
 # 売上高モデルの在庫ステージの使用{#using-revenue-model-inventory-stages}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 追加在庫ステージ{#add-an-inventory-stage}
 
-1. 新しい売上サイクルモデルの在庫ステージを追加するには、**マイマーケティング先**&#x200B;ホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
+1. 新しい売上サイクルモデル在庫ステージを追加するには、**マイMarketo**&#x200B;ホーム画面の&#x200B;**Analytics**&#x200B;ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
