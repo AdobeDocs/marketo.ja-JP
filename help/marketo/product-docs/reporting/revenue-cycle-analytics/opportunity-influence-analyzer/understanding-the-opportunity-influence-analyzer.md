@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4718648
-description: オポチュニティへの影響分析 — Marketto Docs — 製品ドキュメント
+description: オポチュニティ影響分析について —Marketoドキュメント — 製品ドキュメント
 title: オポチュニティ影響分析について
+exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # オポチュニティ影響分析について{#understanding-the-opportunity-influence-analyzer}
 
@@ -29,7 +29,7 @@ Opportunity Influence Analyzerを使用すると、全体を確認できます�
 
 ## 一意のアカウントの識別{#identifying-unique-accounts}
 
-Marketing Suiteでは、CRM IDを使用してアカウントを一意に識別します。
+Marketoは、CRM IDを使用してアカウントを一意に識別します。
 
 以前は、同じ名前のアカウントは1つのアカウントと見なされていました。 例えば、ワシントン高校がアカウント名で、米国内にワシントン高校という名前のアカウントが複数ある場合、それらをすべて1つのアカウントに組み合わせました。 各学校は独立した存在であるため、不正確でした。
 
