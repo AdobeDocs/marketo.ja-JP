@@ -1,22 +1,22 @@
 ---
 title: セットストリームカデンス
-description: ストリームカデンスを設定
+description: ストリーム ケイデンスの設定
+exl-id: 1a52162f-ec1e-4f20-a640-68c16779456a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# ストリームカデンスを設定
+# ストリーム ケイデンスの設定
 
 <br> 
 
 エンゲージメントのコンテンツは、任意の間隔で送信できます。 次に例を示します。週に1回、または月の第3火曜日に1回。
 
-## カデンスを設定
+## ケイデンスを設定
 
 1. アクションプログラムを選択します。
 
