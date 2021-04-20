@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352631
-description: マージと重複除外のカテゴリ- Marketto Docs — 製品ドキュメント
+description: マージおよび重複解除カテゴリ-Marketoドキュメント — 製品ドキュメント
 title: カテゴリの結合と重複解除
+exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # 重複カテゴリの結合と削除{#merge-and-de-duplicate-categories}
 
