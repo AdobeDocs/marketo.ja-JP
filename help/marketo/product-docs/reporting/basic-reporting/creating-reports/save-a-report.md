@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7511980
-description: レポートの保存 — Marketto Docs — 製品ドキュメント
+description: レポートの保存 —Marketoドキュメント — 製品ドキュメント
 title: レポートの保存
+exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # レポートの保存{#save-a-report}
 
