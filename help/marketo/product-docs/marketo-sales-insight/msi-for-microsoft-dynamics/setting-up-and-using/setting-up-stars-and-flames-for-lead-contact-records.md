@@ -1,15 +1,15 @@
 ---
 unique-page-id: 42762244
-description: リード/連絡先レコードの星と炎の設定 — Marketto Docs — 製品ドキュメント
+description: リード/連絡先レコードの星と炎の設定 —Marketoドキュメント — 製品ドキュメント
 title: リード/接触レコードの星と炎の設定
+exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # リード/接触レコードの星と炎の設定{#setting-up-stars-and-flames-for-lead-contact-records}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. 左側のパネルで、「Marketto Sales Insight **」をクリックします。**&#x200B;右側のパネルで、フィルタードロップダウンをクリックし、「**カスタムフィールド**」を選択します。
+1. 左側のパネルで「**Marketo販売インサイト**」をクリックします。 右側のパネルで、フィルタードロップダウンをクリックし、「**カスタムフィールド**」を選択します。
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
