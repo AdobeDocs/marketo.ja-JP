@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100649
-description: アプリ内メッセージの背景の設定 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージのバックグラウンドの設定 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージの背景の設定
+exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージの背景の設定{#set-up-the-in-app-message-background}
 
