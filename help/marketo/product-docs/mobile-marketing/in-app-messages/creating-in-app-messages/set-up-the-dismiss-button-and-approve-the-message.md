@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10912178
-description: 「却下」ボタンを設定し、メッセージを承認してMarketo Docs — 製品ドキュメントを作成する
+description: 「却下」ボタンを設定し、メッセージを承認する —Marketoドキュメント — 製品ドキュメント
 title: 「却下」ボタンを設定し、メッセージを承認する
+exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
 
 ---
-
 
 # 「却下」ボタンを設定し、メッセージを承認する{#set-up-the-dismiss-button-and-approve-the-message}
 
