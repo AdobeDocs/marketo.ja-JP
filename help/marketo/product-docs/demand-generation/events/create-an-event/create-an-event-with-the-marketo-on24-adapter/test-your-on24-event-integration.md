@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096677
-description: ON24イベント統合のテスト — Marketto Docs — 製品ドキュメント
+description: ON24イベント統合のテスト —Marketoドキュメント — 製品ドキュメント
 title: ON24イベント統合のテスト
+exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # ON24イベント統合のテスト{#test-your-on-event-integration}
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 イベントの発生後にデータを更新する方法は次のとおりです。
 
-* 毎夜、ON24から出席者データを取得します。
-* 参加者のデータがMarketoとON24の間で同期されると、Marketorはメンバーシップのステータスを「出席済み」、「出席済みオンデマンド」または「ショーなし」に更新します。 イベントの「**概要**」タブで、イベントの状態が「**イベント完了**」に更新されます。
+* Marketoは毎夜ON24から出席者のデータを取得します。
+* 出席者のデータがMarketoとON24の間で同期されると、Marketoはメンバーシップのステータスを「出席済み」、「出席済み」、「出席済み」、「非表示」に更新します。 イベントの「**概要**」タブで、イベントの状態が「**イベント完了**」に更新されます。
 
 >[!MORELIKETHIS]
 >
 >* [ON24イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [MarketoON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
