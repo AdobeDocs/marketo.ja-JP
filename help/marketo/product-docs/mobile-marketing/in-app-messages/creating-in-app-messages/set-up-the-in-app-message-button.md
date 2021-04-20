@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100644
-description: アプリ内メッセージボタンの設定 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージボタンの設定 —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージボタンの設定
+exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージボタンの設定{#set-up-the-in-app-message-button}
 
