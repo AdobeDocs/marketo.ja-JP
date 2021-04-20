@@ -1,24 +1,24 @@
 ---
 title: 目標追跡と予測登録の理解
 description: 目標追跡と予測登録について
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
 
 ---
 
-
 # 目標追跡と予測登録について
 
 <br> 
 
-[イベント目標を設定](/help/sky/setting-event-goals.md)し、[スマートキャンペーン](/help/sky/create-a-smart-campaign.md)を通じて招待を送信した後、以下に目標の進行状況を追跡し、マーケティング担当者の予測を理解する方法を示します。
+[イベント目標](/help/sky/setting-event-goals.md)を設定し、[スマートキャンペーン](/help/sky/create-a-smart-campaign.md)を通じて招待を送信した後、次に目標の進捗を追跡し、Marketoの予測を理解する方法を示します。
 
 >[!NOTE]
 >
->Marketo Classicのエクスペリエンスでイベントプログラムを作成すると、イベント開始日は現在、イベント作成日がデフォルトになります。 登録予測では、イベントの開始日までの時間が考慮されるので、開始日と作成日が同じ場合は（意図的に設定しない限り）、これらの数字は正確ではない場合があります。
+>Marketo Classicエクスペリエンスでイベントプログラムを作成すると、イベント開始日は現在、イベント作成日にデフォルト設定されます。 登録予測では、イベントの開始日までの時間が考慮されるので、開始日と作成日が同じ場合は（意図的に設定しない限り）、これらの数字は正確ではない場合があります。
 
 ## 目標追跡と登録の予測
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![画像5](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-5.png)
 
-## Recommendations
+## レコメンデーション
 
 レポートページの上部では、進行状況に基づいたAI/ML主導のレコメンデーションを見つけることができます。 定期的に戻って役立つヒントとインサイトを確認してください。
 
