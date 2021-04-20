@@ -1,14 +1,14 @@
 ---
-description: 電子メール接続のスロットリング — Marketto Docs — 製品ドキュメント
+description: 電子メール接続のスロットリング —Marketoドキュメント — 製品ドキュメント
 title: 電子メール接続のスロットリング
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
 
 ---
-
 
 # 電子メール接続のスロットリング{#email-connection-throttling}
 
