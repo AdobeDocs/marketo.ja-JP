@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516390
-description: SalesforceAppExchange- Marketto Docs — 製品ドキュメントにMarketo Sales Insightパッケージをインストールします。
-title: SalesforceAppExchangeへのMarketo Sales Insightパッケージのインストール
+description: SalesforceAppExchange-Marketoドキュメント — 製品ドキュメントにMarketoSales Insightパッケージをインストールします。
+title: SalesforceAppExchangeでのMarketoSales Insightパッケージのインストール
+exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
+# SalesforceAppExchange{#install-marketo-sales-insight-package-in-salesforce-appexchange}にMarketoSales Insightパッケージをインストール
 
-# SalesforceAppExchange{#install-marketo-sales-insight-package-in-salesforce-appexchange}にMarketo Sales Insightパッケージをインストールします。
-
-Sales Insightが提供するあらゆる機能を活用するには、Marketo Sales InsightアプリをSalesforce購読にインストールする必要があります。 これが方法です。
+Sales Insightが提供するあらゆる機能を利用するには、Salesforce購読にMarketoSales Insightアプリをインストールする必要があります。 これが方法です。
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
 >[!NOTE]
 >
->Marketo Sales Insightは、Salesforce Platform(Shield)暗号化と互換性があります。
+>MarketoのSales Insightは、Salesforce Platform(Shield)暗号化と互換性があります。
 
-1. Marketo Sales Insightの[AppExchangeページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**今すぐ取得**」をクリックします。
+1. Marketo販売インサイト](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)の[AppExchangeページに移動し、**今すぐ取得**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
@@ -49,7 +49,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/six.png)
 
-1. **Marketo Sales Insight**&#x200B;がインストール済みパッケージに含まれていることを確認します。
+1. **Marketo販売インサイト**&#x200B;がインストール済みパッケージに含まれていることを確認します。
 
    ![](assets/seven.png)
 
@@ -61,7 +61,7 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. **デプロイ済み**&#x200B;が、すべてのMarketo Sales Insight項目についてチェックされていることを重複で確認します。
+1. **デプロイ済み**&#x200B;が、すべてのMarketo販売インサイトの項目をチェックしていることを重複チェックします。
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -73,11 +73,11 @@ Sales Insightが提供するあらゆる機能を活用するには、Marketo Sa
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
-素晴らしい仕事！ これで、Marketto Sales Insightがインストールされ、導入されました。 営業チームに合わせて設定を行い、販売の急増を見てください。
+OK！これで、Marketoセールスインサイトをインストールし、導入しました。 営業チームに合わせて設定を行い、販売の急増を見てください。
 
 >[!MORELIKETHIS]
 >
->* [Salesforce Professional EditionでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [Salesforce Enterprise/UnlimitedでのMarketor Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Salesforce Professional EditionでのMarketo販売インサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Salesforce EnterpriseでのMarketo販売インサイトの設定/無制限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >* [チーム向けのSales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
