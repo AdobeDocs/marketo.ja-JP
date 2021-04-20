@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10093159
-description: コンテンツ分析 — Marketto Docs — 製品ドキュメントについて
+description: コンテンツ分析について —Marketoドキュメント — 製品ドキュメント
 title: コンテンツ分析について
+exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # コンテンツ分析について{#understanding-content-analytics}
 
@@ -39,24 +39,24 @@ Analyticsテーブルには、次の詳細が表示されます。
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>タイトル</strong></td> 
+   <td colspan="1" rowspan="1"><strong>件名</strong></td> 
    <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。 「<strong>タイトル</strong>」をクリックして、新しいタブでコンテンツURLを開きます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>推奨 </strong><strong>アイコン</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1"><p><strong>推奨 </strong><strong>アイコン</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">コンテンツが<a href="#">コンテンツRecommendations</a>に追加されたかどうかを示します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>表示</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>参照</strong></p></td> 
    <td colspan="1" rowspan="1"><p>コンテンツアセットに対するWeb訪問者ーからの表示数です。 表示、開く、視聴またはダウンロードの回数。 「表示」列の「数」をクリックすると、詳細を表示し、誰がコンテンツを表示したかを確認できます</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>直接コンバージョン</strong></td> 
+   <td colspan="1" rowspan="1"><strong>ダイレクトコンバージョン</strong></td> 
    <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力したWeb訪問者</td> 
   </tr> 
   <tr> 
@@ -82,7 +82,7 @@ Analyticsテーブルには、次の詳細が表示されます。
 
 コンテンツ分析には、次のものも含まれます。
 
-**解析**
+**アナリティクス**
 
 * **表示**:選択した時間範囲に対するそのコンテンツの表示
 * **直接変換**:同じ訪問で、コンテンツを表示し、フォームに入力したWeb訪問者。
@@ -92,7 +92,7 @@ Analyticsテーブルには、次の詳細が表示されます。
 
 * **トレンド**&#x200B;グラフ。特定のコンテンツピースの過去30日間の表示を示します。 折れ線グラフの上にマウスポインターを置くと、特定の日のコンテンツ表示数が表示されます
 
-## コンテンツを削除{#delete-content}
+## コンテンツの削除 {#delete-content}
 
 ![](assets/six.png)
 
