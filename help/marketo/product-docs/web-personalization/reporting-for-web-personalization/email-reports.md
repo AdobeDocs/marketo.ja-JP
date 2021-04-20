@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719338
-description: 電子メールレポート — Marketto Docs — 製品ドキュメント
-title: 電子メールレポート
+description: 電子メールレポート —Marketoドキュメント — 製品ドキュメント
+title: メールレポート
+exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# レポートのメール送信{#email-reports}
+# メールレポート {#email-reports}
 
 ユーザーが受け取る自動電子メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照してください。
 
@@ -45,13 +45,13 @@ ht-degree: 0%
 
 パフォーマンスが最も高いアセットレポートは、パフォーマンスが最も高いコンテンツアセットを電子メールで送信し、アセット名と他のアセットとの比較に一致した割合を示します。
 
-## 推奨アセットレポート{#recommended-assets-report}
+## 推奨アセットレポート {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
 レコメンデーションされたアセットレポートは、コンテンツレコメンデーションエンジンに表示されているコンテンツに対するすべてのコンテンツとクリック数の電子メールをユーザーに送信します。
 
-## サマリレポート{#summary-report}
+## サマリレポート {#summary-report}
 
 ![](assets/six.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketto Webパーソナライゼーションは、Webサイトで記入されたフォームのWeb訪問者ーの電子メールアドレスを取得します。 これは、Webパーソナライゼーションの人ページに表示され、概要レポートで使用される人です。
+>Marketoウェブパーソナライゼーションは、Webサイトで記入されたフォームのWeb訪問者の電子メールアドレスを取り込みます。 これは、Webパーソナライゼーションの人ページに表示され、概要レポートで使用される人です。
 
 ユーザーが受け取る自動電子メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照してください。
