@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951167
-description: 表示電子メールプログラム結果 — Marketto Docs — 製品ドキュメント
+description: 表示電子メールプログラム結果 —Marketoドキュメント — 製品ドキュメント
 title: 表示電子メールプログラムの結果
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 表示電子メールプログラム結果{#view-email-program-results}
 
