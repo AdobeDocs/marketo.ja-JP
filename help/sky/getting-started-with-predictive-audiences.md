@@ -1,14 +1,14 @@
 ---
 title: はじめに — 予測オーディエンス
 description: 予測オーディエンスの使用の手引き
+exl-id: 18dd4bd3-4557-4c53-ae44-9cf8abce9f53
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 予測オーディエンスの使用の手引き
 
@@ -25,7 +25,7 @@ PAには、次の機能が含まれます。
 
 AI/MLモデルのパフォーマンスは、購読ー内のデータに依存します。 モデルが頻繁に使用されるほど、モデルが個々の購読データやビジネスに合わせて調整されます。
 
-## 可用性
+## アベイラビリティ
 
 PrimeまたはUltimateの価格バンドルを使用するインスタンスに対して、予測オーディエンスが自動的に含まれ、アクティブ化されます。 この機能へのアクセス方法の詳細については、カスタマーサクセスマネージャーにお問い合わせください。
 
