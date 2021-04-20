@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359793
-description: ソーシャルプロモーションでの電子メールの使用 — Marketto Docs — 製品ドキュメント
+description: ソーシャルプロモーションでの電子メールの使用 —Marketoドキュメント — 製品ドキュメント
 title: Social Promotionでの電子メールの使用
+exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
-
 
 # ソーシャルプロモーションでの電子メールの使用{#use-emails-in-social-promotions}
 
