@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352614
-description: 「Me」タブについて — Marketto Docs — 製品ドキュメント
+description: 「Me」タブについて —Marketoドキュメント — 製品ドキュメント
 title: '[自分]タブについて'
+exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Meタブについて{#understanding-the-me-tab}
 
