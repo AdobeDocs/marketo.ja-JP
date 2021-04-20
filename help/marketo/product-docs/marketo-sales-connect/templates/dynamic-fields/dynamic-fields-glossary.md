@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352509
-description: 動的フィールド用語集 — Marketto Docs — 製品ドキュメント
+description: 動的フィールド用語集 —Marketoドキュメント — 製品ドキュメント
 title: 動的フィールドの用語集
+exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # 動的フィールド用語集{#dynamic-fields-glossary}
 
@@ -17,10 +17,10 @@ Sales Connectでテンプレートを作成する場合は、**MSE動的フィ�
 
 このツールは`auto-personalize your email`に使われ、`pulling information from the People page`までに時間を節約できます。
 
-| 動的フィールド | 電子メールに表示する内容の例 |
+| ダイナミックフィールド | 電子メールに表示する内容の例 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Marketo 内 |
+| `{{company_friendly}}` | Marketo 内 |
 | `{{first_name}}` | キース |
 | `{{friendly_unsubscribe}}` | もし私からの連絡が来たくないのなら、こちらにお知らせください |
 | `{{my_name}}` | アラン・ブラドリー |
