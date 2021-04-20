@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100642
-description: アプリ内メッセージテキストの作成 — Marketto Docs — 製品ドキュメント
+description: アプリ内メッセージの作成テキスト —Marketoドキュメント — 製品ドキュメント
 title: アプリ内メッセージテキストの作成
+exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # アプリ内メッセージテキストの作成{#create-in-app-message-text}
 
