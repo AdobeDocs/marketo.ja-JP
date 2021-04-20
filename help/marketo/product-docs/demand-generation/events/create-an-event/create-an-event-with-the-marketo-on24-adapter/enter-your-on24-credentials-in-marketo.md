@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10096671
-description: Marketor - Marketto Docs — 製品ドキュメントにON24資格情報を入力します。
-title: MarketorにON24資格情報を入力します
+description: ON24資格情報をMarketo-Marketoドキュメント — 製品ドキュメントに入力してください
+title: ON24資格情報をMarketoに入力
+exl-id: a9615ac7-febd-4f16-b81a-53e39356cb80
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Marketor {#enter-your-on-credentials-in-marketo}にON24資格情報を入力します
+# ON24資格情報をMarketo{#enter-your-on-credentials-in-marketo}に入力
 
 ON24イベント統合を開始します。 資格情報を編集または削除する必要が生じた場合は、これらの手順も以下のとおりです。
 
-## 資格情報を入力{#enter-credentials}
+## 認証情報の入力 {#enter-credentials}
 
-1. Marketorにログインし、**管理者**&#x200B;をクリックします。
+1. Marketoにログインし、**管理者**&#x200B;をクリックします。
 
    ![](assets/admin.png)
 
@@ -31,7 +31,7 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
 1. New Serviceダイアログボックスで、次の情報を入力します。
 
-   * **表示名**  — マーケティング担当者で使用する名前を入力します。資格情報を共有する場合は、自分の名前、またはグループの名前を指定できます。
+   * **表示名** -Marketoで使用する名前を入力します。資格情報を共有する場合は、自分の名前、またはグループの名前を指定できます。
    * **サービス**  — ドロップダウンメニュー **から「On24** 」を選択します。
    * **クライアントキー**  — サインインに使用するON24クライアントキーを入力します。クライアントキーは、文字と数字を組み合わせた32桁の文字列です。
    * **クライアントID**  — サインインに使用する4桁のON24クライアントIDを入力します。ON24アカウントマネージャーからクライアントIDとクライアントキーを直接取得できます。
@@ -44,7 +44,7 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
 1. 資格情報は、検証が完了すると、インストール済みのサービスページに追加されます。 エラーが発生した場合は、資格情報を保存できません。
 
-## 資格情報の編集{#edit-credentials}
+## 認証情報の編集 {#edit-credentials}
 
 パスワードの有効期限が切れた場合や、既存の秘密鍵証明書を変更する必要がある場合は、秘密鍵証明書を編集できます。
 
@@ -70,4 +70,4 @@ ON24イベント統合を開始します。 資格情報を編集または削除
 
 >[!MORELIKETHIS]
 >
->[ON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[MarketoON24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
