@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352447
-description: Salesforce追加への電子メール(Office 365) - Marketto Docs — 製品ドキュメント
+description: Salesforce追加への電子メール(Office 365) -Marketoドキュメント — 製品ドキュメント
 title: Salesforce追加への電子メール(Office 365)
+exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce追加への電子メール(Office 365) {#add-email-to-salesforce-office}
 
