@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092890
-description: テンプレート19-E -Marketoドキュメント — 製品ドキュメント
+description: テンプレート19-A -Marketoドキュメント — 製品ドキュメント
 title: テンプレート19-A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 translation-type: tm+mt
