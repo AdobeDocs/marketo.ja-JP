@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385579
-description: コンテンツパターンの作成 — Marketto Docs — 製品ドキュメント
+description: コンテンツパターンの作成 —Marketoドキュメント — 製品ドキュメント
 title: コンテンツパターンの作成
+exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# コンテンツパターンを作成{#create-content-patterns}
+# コンテンツパターンの作成 {#create-content-patterns}
 
 コンテンツパターンを設定すると、Web訪問者がコンテンツパターンに関連するHTML Webページをクリックしたときに、コンテンツが自動検出されます。 HTMLページ（ブログ投稿、プレスリリース、ニュース記事）をコンテンツ要素として「すべてのコンテンツ」ページに追加するために使用します。 コンテンツパターンに基づいた自動検出では、Web訪問者ーがページへのリンクを表示またはクリックしたときに、定義済みのURLパターンに関連するHTMLページを検出して追跡します。 このコンテンツ部分（URL、ページ名、画像URLや説明を含むメタデータ）をすべてのコンテンツページに追加して、予測コンテンツを準備します。 PDFや埋め込みビデオなど、他のコンテンツを自動検出するには、[コンテンツ検出を有効にする](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)必要があります。
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 * URLパラメーターが見つからない（これにより、同じコンテンツURLで異なるパラメーターを持つ複数の項目を見つけることができます）
 
-## 例{#examples}
+## 例 {#examples}
 
 _domain.com_&#x200B;の場合：
 
@@ -71,7 +71,7 @@ _domain.com_&#x200B;の場合：
    <td><p>次のパターンに一致するすべてのコンテンツを見つけます：domain.com/article/2017/</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>「datasheets:」という語を含むURLを検出します。</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
