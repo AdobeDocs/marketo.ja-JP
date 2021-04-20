@@ -1,29 +1,29 @@
 ---
 unique-page-id: 4720917
-description: Facebookでのパーソナライズされたリマーケティング — Marketto Docs — 製品ドキュメント
-title: Facebookでのパーソナライズされたリマーケティング
+description: facebookでのパーソナライズされたリマーケティング —Marketoドキュメント — 製品ドキュメント
+title: facebookでのパーソナライズされたリマーケティング
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# facebookでの個人向けリマーケティング{#personalized-remarketing-in-facebook}
 
-# Facebookでのパーソナライズされたリマーケティング{#personalized-remarketing-in-facebook}
-
-パーソナライズされたリマーケティングを使用すると、RTPデータとFacebookリマーケティングの機能を利用して、ユーザーと再び関わりを持つことができます。
+Personalized Remarketingを使用すると、RTP DataとFacebookリマーケティングの機能を使用して、ユーザーと再び関わりを持つことができます。
 
 >[!PREREQUISITES]
 >
 >* [Webパーソナライゼーションデータを使用してリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)のセットアップを完了します
->* カスタムオーディエンス](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)とリマーケティングに関する[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebookのドキュメントを確認します。
+>* カスタムオーディエンス](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)とリマーケティングに関する[](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebookのドキュメントを確認してください。
 
 
-## Facebookでのオーディエンスの作成{#creating-an-audience-in-facebook}
+## facebookでのオーディエンスの作成{#creating-an-audience-in-facebook}
 
-1. Facebookで、広告マネージャーの[オーディエンスタブ](https://www.facebook.com/ads/audience_manager)に移動します。
+1. facebookで、広告マネージャーの[オーディエンスタブ](https://www.facebook.com/ads/audience_manager)に移動します。
 
 1. 「**ツール**」をクリックし、「**オーディエンス**」を選択します。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## FacebookのRTPデータポイント{#rtp-data-points-in-facebook}
+## facebook{#rtp-data-points-in-facebook}のRTPデータポイント
 
 <table> 
  <tbody> 
@@ -76,20 +76,20 @@ ht-degree: 0%
         <th>値</th> 
        </tr> 
        <tr> 
-        <td>ABMリスト</td> 
+        <td>ABM リスト</td> 
         <td>(口座開設リストの名称)</td> 
        </tr> 
        <tr> 
         <td colspan="1">カテゴリ</td> 
-        <td colspan="1"><p>フォーチュン500</p><p>Fortune 1000</p><p>グローバル2000</p></td> 
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">グループ</td> 
-        <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
+        <td colspan="1"><p>エンタープライズ</p><p>中小企業</p></td> 
        </tr> 
        <tr> 
         <td>業界</td> 
-        <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府機関</p><p>医療、製薬、バイオテク</p><p>ソフトウェアとインターネット</p><p>など（RTP Industryオプションに基づく）</p></td> 
+        <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府</p><p>医療、製薬、バイオテク</p><p>ソフトウェアとインターネット</p><p>など（RTP Industryオプションに基づく）</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">セグメント化されたオーディエンス</td> 
@@ -126,7 +126,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. これで、Facebookでパーソナライズされたリマーケティングキャンペーンが設定されました。
+1. これで、Facebookで個人リマーケティングキャンペーンが設定されました。
 
 >[!MORELIKETHIS]
 >
