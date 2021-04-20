@@ -1,15 +1,15 @@
 ---
 unique-page-id: 14352404
-description: 「管理設定」タブ — Marketto Docs — 製品ドキュメント
+description: 「管理設定」タブ —Marketoドキュメント — 製品ドキュメント
 title: 「管理設定」タブ
+exl-id: 26601f09-e454-4111-9406-157e52e48802
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # 管理設定タブ{#admin-settings-tab}
 
