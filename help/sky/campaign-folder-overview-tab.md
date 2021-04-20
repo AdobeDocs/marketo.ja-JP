@@ -1,14 +1,14 @@
 ---
 title: キャンペーンフォルダー — 概要 — タブ
 description: 「キャンペーンフォルダの概要」タブ
+exl-id: 3098658d-1345-4974-a81c-1b639af02b62
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # キャンペーンフォルダー：「概要」タブ
 
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
-[!UICONTROL ##詳細]
+[!UICONTROL ## 詳細]
 
 メイン[!UICONTROL 詳細]ページには、キャンペーンフォルダーに関する一般的な情報が表示されます。
 
 ![イメージ1](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-**[!UICONTROL フォルダの操作]**
+**[!UICONTROL フォルダアクション]**
 
 右上のフォルダアクションドロップダウンをクリックすると、基本的な機能にすばやくアクセスできます。
 
-[!UICONTROL ##レポート]
+[!UICONTROL ## レポート]
 
 「[!UICONTROL レポート]」セクションでは、フォルダー内の様々なキャンペーンーに関する主要な情報を確認できます。
 
