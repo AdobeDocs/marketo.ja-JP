@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359971
-description: ウェブページアクティビティレポート — Marketto Docs — 製品ドキュメント
+description: ウェブページアクティビティレポート —Marketoドキュメント — 製品ドキュメント
 title: ウェブページアクティビティレポート
+exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # ウェブページアクティビティレポート{#web-page-activity-report}
 
@@ -40,19 +40,19 @@ ht-degree: 0%
    >
    >サイトの訪問者を最も多く知るには、[「_ページ表示_」列でレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、「並べ替え」を降順選択します。
 
-   [Marketorは、](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイト訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
+   [Marketoは](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイトの訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
    [ウェブページのアクティビティレポートで](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
 
 <table> 
  <thead> 
   <tr> 
    <th>列</th> 
-   <th>説明</th> 
+   <th>詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>人</td> 
+   <td>担当者</td> 
    <td>訪問者の名前、タイトルおよび会社。<br><strong>表示</strong> 担当者の詳細とアクティビティの履歴をクリックします。</td> 
   </tr> 
   <tr> 
@@ -64,15 +64,15 @@ ht-degree: 0%
    <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">訪問されたページを</a></strong> クリックして表示します。</td> 
   </tr> 
   <tr> 
-   <td>HTTPリファラー</td> 
+   <td>HTTP 照会元</td> 
    <td>訪問者がページにアクセスしたリンクを含むページのURL。</td> 
   </tr> 
   <tr> 
-   <td>入口ページ</td> 
+   <td>エントリ ページ</td> 
    <td>訪問者が最初に訪問したページ </td> 
   </tr> 
   <tr> 
-   <td>推定会社またはISP</td> 
+   <td>推測される企業あるいは ISP</td> 
    <td>訪問者のIPアドレスから推測される会社。 <strong>太字の名前は、これが会社であり、ISPではありません。</strong>  </td> 
   </tr> 
   <tr> 
