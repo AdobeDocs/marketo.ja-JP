@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359803
-description: ランディングページ向けにパーソナライズされたURLを有効にする — Marketto Docs — 製品ドキュメント
+description: ランディングページ向けにパーソナライズされたURLを有効にする —Marketoドキュメント — 製品ドキュメント
 title: ランディングページ向けにパーソナライズされたURLを有効にする
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ランディングページのパーソナライズされたURLを有効にする{#enable-personalized-urls-for-a-landing-page}
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-素晴らしい！ これで、ランディングページに対してパーソナライズされたURLが有効になりました。 このURLを使用する訪問者は認識され、トークンは正しく機能します。
+OK！これで、ランディングページに対してパーソナライズされたURLが有効になりました。 このURLを使用する訪問者は認識され、トークンは正しく機能します。
