@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11384661
-description: 予測コンテンツのタイトルの承認 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: 予測コンテンツのタイトルの承認 —Marketoドキュメント — 製品ドキュメント
 title: 予測コンテンツのタイトルの承認
+exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # 予測コンテンツのタイトルの承認{#approve-a-title-for-predictive-content}
 
