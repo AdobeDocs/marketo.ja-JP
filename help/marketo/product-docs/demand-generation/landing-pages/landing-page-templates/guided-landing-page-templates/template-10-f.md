@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8784014
-description: テンプレート10 ～ F - Marketto Docs — 製品ドキュメント
+description: テンプレート10-F -Marketoドキュメント — 製品ドキュメント
 title: テンプレート10 ～ F
+exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # テンプレート10-F {#template-f}
 
