@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795734
-description: 階層の作成 — Marketto Docs — 製品ドキュメント
+description: 階層の作成 —Marketoドキュメント — 製品ドキュメント
 title: 階層の作成
+exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 階層の作成{#create-a-hierarchy}
 
