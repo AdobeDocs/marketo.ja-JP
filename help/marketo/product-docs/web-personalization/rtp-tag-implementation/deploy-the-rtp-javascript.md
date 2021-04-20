@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719332
-description: RTP JavaScript - Marketto Docs — 製品ドキュメントの導入
+description: RTP JavaScript -Marketoドキュメント — 製品ドキュメントのデプロイ
 title: RTP JavaScriptのデプロイ
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # RTP JavaScript {#deploy-the-rtp-javascript}をデプロイします。
 
 RTPタグを生成し、設定するには、次のインストール手順に従ってください
 
-## タグを生成{#generate-tag}
+## タグの生成 {#generate-tag}
 
 1. RTPアカウントにログインします。 「**アカウント設定**」に移動します。
 
