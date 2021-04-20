@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11381689
-description: アカウントベースのTAMによるウェブマーケティング — Marketto Docs — 製品ドキュメント
+description: TAMを使用したアカウントベースのウェブマーケティング —Marketoドキュメント — 製品ドキュメント
 title: TAMを使用したアカウントベースのウェブマーケティング
+exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
 # TAMを使用したアカウントベースのウェブマーケティング{#account-based-web-marketing-with-TAM}
 
-Marketorオファーは、[ターゲットアカウント管理](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)(TAM)アプリケーションを使用します。
+Marketoオファーは、[ターゲットアカウント管理](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)(TAM)アプリケーションを使用します。
 
-マーケティングツールのウェブパーソナライゼーションおよびターゲットアカウント管理(TAM)を使用する場合：
+Marketoウェブパーソナライゼーションおよびターゲットアカウント管理(TAM)を使用する場合：
 
 * TAMはアカウントリストのソースです。
 * アカウントリストはTAMで管理（作成、編集、削除）されます
