@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14746661
 description: コンテンツと添付ファイルに関するFAQ -Marketoドキュメント — 製品ドキュメント
-title: コンテンツと添付ファイルのFAQ
+title: コンテンツと添付ファイルに関するFAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
