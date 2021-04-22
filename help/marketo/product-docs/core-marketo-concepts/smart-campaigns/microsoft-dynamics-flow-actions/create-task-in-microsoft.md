@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356429
-description: Microsoft - Marketto Docs — 製品ドキュメントでタスクを作成する
+description: Microsoft -Marketoドキュメント — 製品ドキュメントでタスクを作成する
 title: Microsoftでタスクを作成する
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft {#create-task-in-microsoft}でタスクを作成
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sync Userがタスクを作成する場合、Microsoftでタスクを作成するには、**期限**&#x200B;が必須フィールドです。 値を入力しない場合、マーケティング担当者はデフォルトで5日間を入力します。
+>Marketo同期ユーザーがタスクを作成する場合、**期限**&#x200B;は、Microsoftでタスクを作成するための必須フィールドです。 値を入力しない場合、Marketoはデフォルトで5日間を入力します。
 
 すべてのフィールドをカスタマイズして、希望どおりにタスクを作成します。
 
