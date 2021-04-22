@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360333
-description: フィールドの非表示と再表示 — Marketto Docs — 製品ドキュメント
+description: フィールドの非表示と再表示 —Marketoドキュメント — 製品ドキュメント
 title: フィールドの非表示と再表示
+exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # フィールドの非表示と再表示{#hide-and-unhide-a-field}
 
-Marketoのフィールドを使用しなくなった場合は、UIから非表示にして、アプリに表示されなくすることができます。
+Marketoのフィールドを使用しなくなった場合は、UIから非表示にして、アプリに表示されないようにすることができます。
 
 ## フィールドを非表示{#hide-a-field}
 
@@ -37,7 +37,7 @@ Marketoのフィールドを使用しなくなった場合は、UIから非表�
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
-   お疲れさま！ これで、Marketoユーザーインターフェイスでフィールドを非表示にする方法を理解できました。
+   お疲れさま！ これで、Marketoのユーザーインターフェイスでフィールドを非表示にする方法がわかりました。
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
@@ -51,8 +51,8 @@ Marketoのフィールドを使用しなくなった場合は、UIから非表�
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
-   素晴らしい仕事！ これで、フィールドの再表示方法と、Marketoユーザーインターフェイスで再び表示する方法がわかりました。
+   すばらしい！ これで、フィールドの再表示方法と、再びMarketoのユーザインターフェイスに表示する方法がわかりました。
 
    >[!TIP]
    >
-   >一括非表示/非表示を実行する必要があるか？ Marketing Professional Servicesへのお問い合わせ：services@marketo.com
+   >一括非表示/非表示を実行する必要があるか？ Marketoプロフェッショナルサービスに連絡：services@marketo.com
