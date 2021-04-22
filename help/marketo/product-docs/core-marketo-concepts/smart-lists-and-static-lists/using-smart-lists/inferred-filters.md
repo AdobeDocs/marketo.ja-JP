@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953188
-description: 推定フィルター- Marketto Docs — 製品ドキュメント
+description: 推定フィルター-Marketoドキュメント — 製品ドキュメント
 title: 推定フィルター
+exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 推定フィルター{#inferred-filters}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-スマートリストでこれらのフィルターのいずれかを使用すると、その結果、推定された情報を持つ人々が生成されます。
+スマートリストでこれらのフィルターのいずれかを使用すると、その結果、推定された情報を持つユーザーが生成されます。
 
 >[!TIP]
 >
