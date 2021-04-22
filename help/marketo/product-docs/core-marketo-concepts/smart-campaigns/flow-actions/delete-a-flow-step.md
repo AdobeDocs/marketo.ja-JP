@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146987
-description: フローステップの削除 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: フロー手順の削除 —Marketoドキュメント — 製品ドキュメント
 title: フローステップの削除
+exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # フローステップの削除{#delete-a-flow-step}
 
