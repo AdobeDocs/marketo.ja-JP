@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2953465
-description: SFDC同期 — Salesforceの担当者へのリードの変換 — Marketto Docs — 製品ドキュメント
+description: SFDC同期 — Salesforceの担当者へのリードの変換 —Marketoドキュメント — 製品ドキュメント
 title: SFDC同期 — Salesforceでリードを連絡先に変換
+exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # SFDC同期：Salesforceのリードを連絡先に変換{#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Salesforceの3つの異なるシナリオを考えてみましょう。（Marketoでは、[人物をフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)に変換しない）
+Salesforceの3つの異なるシナリオを考えてみましょう。(Marketoの[人をフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)に変換を使用しない)
 
 1. リードを&#x200B;**新しい連絡先と新しいアカウントに変換**
 1. **既存のアカウント**&#x200B;の&#x200B;**新しい連絡先**&#x200B;にリードを変換する
 
 1. **既存のアカウント**&#x200B;の&#x200B;**既存の連絡先**&#x200B;へのリードの変換（[結合](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)と同じ）
 
-3つの場合はすべて、**1件の連絡先、Salesforceでは1件のリード、Marketoでは1件の連絡先、Marketoでは1人の人がいないという結果になります。**
+3つの場合は、すべて&#x200B;**1件の連絡先で、Salesforceでは1件のリード、Marketoでは1件の連絡先、そして1人の人はいません。**
 
 Marketoでは、レコードにSFDC Type = Contactと表示されます。
 
