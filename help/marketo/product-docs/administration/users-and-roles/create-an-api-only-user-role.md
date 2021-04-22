@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: APIのみのユーザーロールの作成 — Marketto Docs — 製品ドキュメント
+description: APIのみのユーザーロールの作成 —Marketoドキュメント — 製品ドキュメント
 title: APIのみのユーザーロールの作成
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # APIのみのユーザーロールの作成{#create-an-api-only-user-role}
 
-[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoとの統合を行う場合、ベストプラクティスは、[ユーザーにAPIのみのロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を割り当て、[ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)で使用するカスタムサービスを作成することです。 APIのみのユーザーロールの作成方法を次に示します。
+[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoとの統合を行う場合、[ユーザーにAPIのみのロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を割り当て、[ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)で使用するカスタムサービスを作成することをお勧めします。 APIのみのユーザーロールの作成方法を次に示します。
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-1. 「マーケティング」で、**管理者**&#x200B;をクリックします。
+1. [マイMarketo]で[**管理者**]をクリックします。
 
    ![](assets/adminhand-1.png)
 
