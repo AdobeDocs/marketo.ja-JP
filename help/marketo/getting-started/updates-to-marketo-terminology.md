@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11387674
-description: マーケティング用語 — マーケティングツールドキュメント — 製品ドキュメントの更新
-title: マーケティングの用語の更新
+description: Marketoの用語 —Marketoドキュメント — 製品ドキュメントの更新
+title: Marketo用語の更新
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# マーケティング用語{#updates-to-marketo-terminology}の更新
+# Marketo用語{#updates-to-marketo-terminology}の更新
 
-プラットフォームに変更を加えています。これは、何と呼ばれるかに影響を与えます。 2016年3月時点で新しいMarketoインスタンスがある場合、または2016年7月以降に会社が更新された場合は、現在新しい用語が表示されている可能性があります。
+プラットフォームに変更を加えています。これは、何と呼ばれるかに影響を与えます。 2016年3月現在、新しいMarketoインスタンスがある場合、または2016年7月以降に会社が更新された場合は、現在新しい用語が表示されている可能性があります。
 
 Marketoのドキュメントには様々な用語が記載されていますが、これらの変更を反映するために、すべての記事がすぐに更新されます。 すべての手順は同じです。
 
@@ -31,7 +31,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  <tbody> 
   <tr> 
    <td><strong>古い</strong></td> 
-   <td><strong>新規</strong></td> 
+   <td><strong>新規作成</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -56,7 +56,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  <tbody> 
   <tr> 
    <td><strong>古い</strong></td> 
-   <td><strong>新規</strong></td> 
+   <td><strong>新規作成</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -73,7 +73,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
 
 リードと人&#x200B;**は同じ**&#x200B;です。
 
-## トークン{#tokens}
+## トークン {#tokens}
 
 **にleadという単語を含むトークンは、**&#x200B;を変更しません。 ご混乱をおかけして申し訳ございません。ただし、新しい用語に一致するようにすべてのトークンを変更すると、現在使用中のトークンが大量に破棄されます。 そのため、「`{{lead.First Name}}`」などのトークンは引き続き表示されます。 個人固有のトークンはありません。
 
@@ -81,7 +81,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
 >
 >*は*「人物ノート」と呼ばれるトークンですが、そのトークンは常に存在していました。 この変数は、CRMの説明フィールドに使用されます（すべての場合）。
 
-## フィールド管理{#field-management}
+## フィールド管理 {#field-management}
 
 「Lead」という用語を含むフィールドは、「Person」で置き換えられたか、「Lead」という語がドロップされました。 ただし、「Lead Owner（リードの所有者）」フィールドは例外です。 現在は「Sales Owner（販売所有者）」と呼ばれています。
 
@@ -93,7 +93,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  <tbody> 
   <tr> 
    <td><strong>古い</strong></td> 
-   <td><strong>新規</strong></td> 
+   <td><strong>新規作成</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -122,7 +122,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  <tbody> 
   <tr> 
    <td><strong>古い</strong></td> 
-   <td><strong>新規</strong></td> 
+   <td><strong>新規作成</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -142,8 +142,8 @@ Marketoのドキュメントには様々な用語が記載されていますが�
 | ** [ウェブパーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
 |---|---|
 | ** [アカウントベースのWebマーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
-| ** [パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
-| ** [予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content)** | ホーム画面に独自のタイルを表示 |
+| ** [パーソナライズされた再ターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
+| ** [予想コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content)** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]
 >
