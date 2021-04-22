@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720476
-description: アイコンの用語集 — Marketto Docs — 製品ドキュメント
+description: アイコン用語集 —Marketoドキュメント — 製品ドキュメント
 title: アイコンの用語集
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
-
 # アイコンの用語集{#icon-glossary}
 
-Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
+以下はMarketo Classicのアイコンです。 新しいMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
 
 **一般的なアイコン**
 
@@ -30,7 +30,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
   <tr> 
    <td> 
     <div> 
-     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>フォルダ</span></td> 
   </tr> 
@@ -123,21 +123,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>購読情報</td> 
+   <td>サブスクリプション情報</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a49-3a41.png"> 
     </div></td> 
-   <td>カスタマーサポート</td> 
+   <td>カスタマ サポート</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a52-3a30.png"> 
     </div></td> 
-   <td>マーケティングについて</td> 
+   <td>Marketo について</td> 
   </tr> 
  </tbody> 
 </table>
@@ -176,7 +176,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-16-3a25-3a7.png"> 
     </div></td> 
-   <td>ユーザーと役割</td> 
+   <td>ユーザ&amp;ロール</td> 
   </tr> 
   <tr> 
    <td> 
@@ -190,7 +190,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </div></td> 
-   <td>場所</td> 
+   <td>ロケーション</td> 
   </tr> 
   <tr> 
    <td> 
@@ -204,14 +204,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>電子メール</td> 
+   <td>メール</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a40-3a3.png"> 
     </div></td> 
-   <td>通信の制限</td> 
+   <td>通信制限</td> 
   </tr> 
   <tr> 
    <td> 
@@ -239,7 +239,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>販売インサイト</td> 
+   <td>Sales Insight</td> 
   </tr> 
   <tr> 
    <td> 
@@ -253,14 +253,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td>マンチキン</td> 
+   <td>Munchkin</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td>Webサービス</td> 
+   <td>ウェブサービス</td> 
   </tr> 
   <tr> 
    <td> 
@@ -274,7 +274,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Webhooks</td> 
+   <td>ウェブフック</td> 
   </tr> 
   <tr> 
    <td> 
@@ -288,21 +288,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>売上高サイクル分析</td> 
+   <td>収益サイクルアナリティクス</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>宝箱</td> 
+   <td>アイデアスペース</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>管理者</td> 
+   <td>管理</td> 
   </tr> 
   <tr> 
    <td> 
@@ -341,21 +341,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>プログラムの読み込み</td> 
+   <td>プログラムのインポート</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>エンゲージメントの育成</td> 
+   <td>エンゲージメント育成</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a38-3a16.png"> 
     </div></td> 
-   <td>関与追加プログラム</td> 
+   <td>エンゲージメントプログラムに追加</td> 
   </tr> 
   <tr> 
    <td> 
@@ -383,7 +383,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>要求されたスマートなキャンペーン（Sales InsightまたはMarketo Flow Actionによる）</td> 
+   <td>要求されたスマートキャンペーン(Sales InsightまたはMarketo・フロー・アクション別)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -432,14 +432,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>スケジュール済みバッチキャンペーン</td> 
+   <td>予定されているバッチキャンペーン</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>フローアクション</td> 
+   <td>フロー アクション</td> 
   </tr> 
   <tr> 
    <td> 
@@ -460,14 +460,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>フォームをコピー</td> 
+   <td>フォームの複製</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a41-3a0.png"> 
     </div></td> 
-   <td>フォームを編集</td> 
+   <td>フォームの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -481,7 +481,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>Social</td> 
+   <td>ソーシャル</td> 
   </tr> 
   <tr> 
    <td> 
@@ -495,7 +495,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a44-3a8.png"> 
     </div></td> 
-   <td>ドラフトを編集</td> 
+   <td>下書きの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -509,7 +509,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a46-3a39.png"> 
     </div></td> 
-   <td>クローン</td> 
+   <td>複製</td> 
   </tr> 
   <tr> 
    <td> 
@@ -537,7 +537,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a54-3a36.png"> 
     </div></td> 
-   <td>ドラフトを編集</td> 
+   <td>下書きの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -558,7 +558,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-14-3a57-3a27.png"> 
     </div></td> 
-   <td>クローン</td> 
+   <td>複製</td> 
   </tr> 
   <tr> 
    <td> 
@@ -579,7 +579,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-15-3a16-3a27.png"> 
     </div></td> 
-   <td>ドラフトを編集</td> 
+   <td>下書きの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -600,7 +600,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-15-3a18-3a20.png"> 
     </div></td> 
-   <td>クローン</td> 
+   <td>複製</td> 
   </tr> 
   <tr> 
    <td> 
@@ -614,14 +614,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>勝者を選ぶ</td> 
+   <td>勝者の選定</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a1.png"> 
     </div></td> 
-   <td colspan="1">HTMLをダウンロード</td> 
+   <td colspan="1">HTML のダウンロード</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -642,21 +642,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a30.png"> 
     </div></td> 
-   <td colspan="1">クローン</td> 
+   <td colspan="1">複製</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a42.png"> 
     </div></td> 
-   <td colspan="1">未承認</td> 
+   <td colspan="1">承認取消</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a49.png"> 
     </div></td> 
-   <td colspan="1">サンプルを送信</td> 
+   <td colspan="1">サンプルの送信</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -670,14 +670,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a4.png"> 
     </div></td> 
-   <td colspan="1">新しいテスト</td> 
+   <td colspan="1">新規テスト</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">配信品質ツール</td> 
+   <td colspan="1">配信ツール</td> 
   </tr> 
  </tbody> 
 </table>
@@ -695,14 +695,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>ランディングページ。 ランディングページの操作</td> 
+   <td>ランディングページ. ランディングページのアクション</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-10-3a55-3a52.png"> 
     </div></td> 
-   <td>ドラフトを編集</td> 
+   <td>下書きの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -716,28 +716,28 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-12-10-3a57-3a25.png"> 
     </div></td> 
-   <td>未承認</td> 
+   <td>承認取消</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>Facebookへの投稿</td> 
+   <td>facebookへの投稿</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
-   <td>テストグループに変換</td> 
+   <td>テストグループにコンバート</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>クローンランディングページ</td> 
+   <td>ランディングページの複製</td> 
   </tr> 
   <tr> 
    <td> 
@@ -765,7 +765,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-12-11-3a15-3a18.png"> 
     </div></td> 
-   <td>パーソナライズされたURLの有効化</td> 
+   <td>パーソナライズ URL の有効化</td> 
   </tr> 
   <tr> 
    <td> 
@@ -828,7 +828,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-13-3a6-3a44.png"> 
     </div></td> 
-   <td>画像とファイル</td> 
+   <td>画像およびファイル</td> 
   </tr> 
   <tr> 
    <td> 
@@ -849,21 +849,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
-   <td colspan="1">新規</td> 
+   <td colspan="1">新規作成</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Webから画像を取得</td> 
+   <td colspan="1">ウェブから画像を取得</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a53.png"> 
     </div></td> 
-   <td colspan="1">画像またはファイルをアップロード</td> 
+   <td colspan="1">画像またはファイルのアップロード</td> 
   </tr> 
  </tbody> 
 </table>
@@ -881,7 +881,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>売上高サイクルモデル</td> 
+   <td>収益サイクルモデル</td> 
   </tr> 
   <tr> 
    <td> 
@@ -909,7 +909,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>レポートのアクション</td> 
+   <td>レポートアクション</td> 
   </tr> 
   <tr> 
    <td> 
@@ -923,7 +923,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>新しいレポート購読</td> 
+   <td>新規レポート配信登録</td> 
   </tr> 
   <tr> 
    <td> 
@@ -951,14 +951,14 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-9-13-3a35-3a23.png"> 
     </div></td> 
-   <td>すべてを展開</td> 
+   <td>すべて展開</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-13-3a36-3a11.png"> 
     </div></td> 
-   <td>すべてを折りたたむ</td> 
+   <td>すべて縮小表示</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1004,7 +1004,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-14-3a27-3a2.png"> 
     </div></td> 
-   <td>数値</td> 
+   <td>数字</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1071,7 +1071,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-16-3a10-3a6.png"> 
     </div></td> 
-   <td>資格ルールの編集</td> 
+   <td>クオリフィケーションルールの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1166,7 +1166,7 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>フィールドの整理</td> 
+   <td>フィールドオーガナイザ</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1187,22 +1187,21 @@ Marketo Classicのアイコンは次のとおりです。 新しいMarketo Engag
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1">新規</td> 
+   <td colspan="1">新規作成</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1">新しいセグメント</td> 
+   <td colspan="1">新規セグメンテーション</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </div></td> 
-   <td colspan="1">読み込み</td> 
+   <td colspan="1">インポート</td> 
   </tr> 
  </tbody> 
 </table>
-
