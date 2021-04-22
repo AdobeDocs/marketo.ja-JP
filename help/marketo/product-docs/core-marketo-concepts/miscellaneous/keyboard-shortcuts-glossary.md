@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147318
-description: キーボードショートカット用語集 — Marketto Docs — 製品ドキュメント
+description: キーボードショートカット用語集 —Marketoドキュメント — 製品ドキュメント
 title: キーボードショートカットの用語集
+exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
-
 
 # キーボードショートカット用語集{#keyboard-shortcuts-glossary}
 
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ## エリアナビゲーション：{#area-navigation}
 
-| キーボードショートカット | 領域 |
+| キーボードショートカット | エリア |
 |---|---|
-| Alt/Opt + A | 解析 |
+| Alt/Opt + A | アナリティクス |
 | Alt/Opt + C | カレンダー |
-| Alt/Opt + D | デザインスタジオ |
+| Alt/Opt + D | デザイン スタジオ |
 | Alt/Opt + F | グローバル検索 |
 | Alt/Opt + L | データベース |
-| Alt/Opt + M | マーケティングアクティビティ |
-| Opt + N | 管理者 |
-| Opt + O | マイマーケット |
+| Alt/Opt + M | マーケティング活動 |
+| Opt + N | 管理 |
+| Opt + O | My Marketo |
 | Alt/Opt + S | ドロップダウンスーパーボールメニュー |
 
 ## カレンダー/スケジュール表示のナビゲーション： {#calendar-schedule-view-navigation}
