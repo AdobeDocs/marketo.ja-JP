@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2950212
-description: リリースノート — 2014年8月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年8月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年8月
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：2014年8月{#release-notes-august}
 
-2014年8月リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
+2014年8月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
 ## マーケティングカレンダーライセンス{#marketing-calendar-licenses}
 
 2014年9月5日以降、マーケティングカレンダーに対する無料アクセス権を持つユーザーは5人のみです。 その前に、選択したユーザーに対して、[マーケティングカレンダーライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)の発行/取り消しを行って、中断のないアクセスを許可してください。
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
-## 新しいユーザー権限{#new-user-permissions}
+## 新規ユーザー権限 {#new-user-permissions}
 
 次の新しいユーザー権限が追加されました。
 
-| 権限 | 説明 |
+| 権限 | 詳細 |
 |---|---|
-| 売上高エクスプローラへのアクセス | RCAを購入した場合は、誰がアクセスできるかを制御できます。 |
-| リストの読み込み | リストがリード・データベースにインポートされるのを制限する。 |
+| 収益エクスプローラにアクセス | RCAを購入した場合は、誰がアクセスできるかを制御できます。 |
+| リストのインポート | リストがリード・データベースにインポートされるのを制限する。 |
 | リストのインポート | マーケティングアクティビティの下のプログラムを介してリストをインポートするのを制限する |
-| トリガーキャンペーンのアクティブ化 | トリガーキャンペーンをアクティブにできるユーザーとできないユーザーを制御します。 |
-| スケジュールバッチキャンペーン | バッチキャンペーンの実行をスケジュールできるユーザーとできないユーザーを制御します。 |
+| アクティブトリガー・キャンペーン | トリガーキャンペーンをアクティブにできるユーザーとできないユーザーを制御します。 |
+| バッチキャンペーンのスケジュール | バッチキャンペーンの実行をスケジュールできるユーザーとできないユーザーを制御します。 |
 
 ## 管理者{#export-users-and-roles-from-admin}からのユーザーとロールのエクスポート
 
-ユーザーとロールのリスト](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)をMarketoから[エクスポートできるようになりました。 エクスポートに含める「最後のログイン」タイムスタンプを含めることもできます。
+Marketoから[ユーザーとロールのリスト](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)をエクスポートできるようになりました。 エクスポートに含める「最後のログイン」タイムスタンプを含めることもできます。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
