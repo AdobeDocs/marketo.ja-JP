@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics Sync Filter -Merge - Marketto Docs — 製品ドキュメント
+description: Microsoft Dynamics Sync Filter -Merge -Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics同期フィルタ — 結合
+exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Microsoft Dynamics同期フィルタ：{#microsoft-dynamics-sync-filter-merge}を結合
 
@@ -19,9 +19,9 @@ Microsoft Dynamicsでリードをマージする際に、同期フィルター=�
 
 一つのレコードが真で、一つは偽の場合、それが難しくなります。
 
-| 失われるレコードの同期フィルタが次の場合： | 勝者レコードの同期フィルターは次のとおりです。 | これは、Marketo |
+| 失われるレコードの同期フィルタが次の場合： | 勝者レコードの同期フィルターは次のとおりです。 | これがMarketoの結果だ |
 |---|---|---|
-| True | True | 勝者レコードは引き続きマーケティング担当者と同期されます |
-| False | False | 勝者レコードは引き続き&#x200B;**Marketoと**&#x200B;同期されません |
-| False | True | 勝者レコードは、マーケティング担当者と同期されます |
-| True | False | 勝者レコードはマーケティング担当者と同期されません |
+| True | True | 勝者レコードはMarketoと同期し続ける |
+| False | False | 勝者レコードは&#x200B;**** Marketoと同期しません |
+| False | True | 勝者レコードはMarketoと同期します |
+| True | False | 勝者レコードはMarketoと同期しません |
