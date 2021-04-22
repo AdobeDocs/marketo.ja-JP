@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951093
-description: リリースノート — 2013年7月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年7月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年7月
+exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # リリースノート：2013年7月{#release-notes-july}
 
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a30-3a50.png)
 
-## 通信制限{#communication-limits}
+## 通信制限 {#communication-limits}
 
 リードのメール送信を停止する場合 個々のユーザに自動的に頻度を制限するのが簡単になりました。 1日および1週間の通信制限を設定すれば、残りの処理はシステムで行われます。 Select、Enterprise、Standardのお客様向けのオンパッケージで利用でき追加ます。
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## Cobaltユーザーインターフェイス{#cobalt-user-interface}
+## Cobalt ユーザ インターフェイス {#cobalt-user-interface}
 
 今後数か月間で、アプリケーションの様々な部分で新しいテーマが展開されていることに気付くでしょう。 機能は移動も削除もされません。
 
