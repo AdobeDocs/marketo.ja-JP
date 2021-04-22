@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359428
-description: ランディングページのリダイレクト — Marketto Docs — 製品ドキュメント
+description: ランディングページのリダイレクト —Marketoドキュメント — 製品ドキュメント
 title: ランディングページのリダイレクト
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # ランディングページをリダイレクト{#redirect-a-landing-page}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## 手順2:リダイレクト規則の定義{#step-define-the-redirect-rule}
 
-1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、マーケティング担当者のCNAMEを選択します。
+1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、MarketoCNAMEを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >忘れずに、マーケティング先[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始をランディングページにリダイレクトすることはできません。
+   >リダイレクトできるのは、Marketo[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のランディングページだけです。
 
 1. 2つ目の&#x200B;**「元のURL**」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## ミッション完了{#mission-complete}
 
-おめでとう！ ランディングページのリダイレクトに成功しました。
+おめでとうございます！ランディングページのリダイレクトに成功しました。
 
 <br> 
 
