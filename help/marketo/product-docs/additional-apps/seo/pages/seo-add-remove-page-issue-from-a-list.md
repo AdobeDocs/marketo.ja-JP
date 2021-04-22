@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949266
-description: SEO -リストからのページの問題の追加削除 — Marketto Docs — 製品ドキュメント
+description: SEO -リストからのページの問題の追加削除 —Marketoドキュメント — 製品ドキュメント
 title: SEO -追加/Remove Page Issue From aリスト
+exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # SEO -追加/Remove Page Issue From aリスト{#seo-add-remove-page-issue-from-a-list}
 
