@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147095
-description: プログラムの作成 — Marketto Docs — 製品ドキュメント
+description: プログラムの作成 —Marketoドキュメント — 製品ドキュメント
 title: プログラムの作成
+exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # プログラムの作成{#create-a-program}
 
-プログラムは、マーケティングにおける最も重要な要素の1つです。 よく使うぞ！
+プログラムはMarketoで最も重要な要素の一つです。 よく使うぞ！
 
 1. **マーケティングアクティビティに移動します。**
 
