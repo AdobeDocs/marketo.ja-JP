@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099363
-description: iPadまたはAndroidタブレットの設定 — Marketto Docs — 製品ドキュメント
+description: iPadまたはAndroidタブレットのセットアップ —Marketoドキュメント — 製品ドキュメント
 title: iPadまたはAndroidタブレットの設定
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # iPadまたはAndroidタブレットのセットアップ{#set-up-the-ipad-or-android-tablet}
 
 イベントの日にスムーズなエクスペリエンスを得るには、iPadまたはAndroidタブレットを準備し、イベントの前にMarketoイベントアプリをテストします。
 
-Marketorでイベントを作成すると、ログイン時にMarketorイベントのiPadまたはAndroidアプリに読み込まれます（次の場合）。
+Marketoでイベントを作成すると、ログイン時にMarketoイベントのiPadまたはAndroidアプリに読み込まれます（次の場合）。
 
 * アカウントはデータベースにアクセスできます
 * イベントは、現在の日付の1週間前から1週間後までの期間に開始がスケジュールされます
@@ -25,27 +25,27 @@ Marketorでイベントを作成すると、ログイン時にMarketorイベン�
 >
 >アプリをダウンロードするには、インターネットに接続している必要があります。
 
-## Markettoイベント用iPadアプリケーションのダウンロードとインストール{#download-and-install-the-marketo-events-ipad-app}
+## MarketoイベントiPad Appのダウンロードとインストール{#download-and-install-the-marketo-events-ipad-app}
 
-iPadにMarketoイベントアプリケーションがまだインストールされていない場合は、次の方法でアプリケーションを入手します。
+iPadにまだMarketoイベント版アプリケーションがインストールされていない場合は、次の方法で入手できます。
 
 1. iPadを開き、App Storeを起動します。
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. 検索ボックスに「**Marketo**」と入力し、「サーチクエリ」に「**marketoイベント**」をタップします。
+1. 検索ボックスに&#x200B;**Marketo**&#x200B;と入力し、「サーチクエリ」に&#x200B;**marketoイベント**&#x200B;をタップします。
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. 手順に従って、iPadにアプリケーションをダウンロードし、インストールします。
 
-## Marketorイベント用Androidアプリのダウンロードとインストール{#download-and-install-the-marketo-events-android-app}
+## MarketoイベントのAndroidアプリ{#download-and-install-the-marketo-events-android-app}をダウンロードしてインストール
 
-AndroidタブレットにMarketoイベントアプリがまだインストールされていない場合は、次の方法でアプリを取得します。
+AndroidタブレットにMarketoイベントアプリがまだインストールされていない場合は、次の方法でアプリを入手します。
 
 1. タブレットを開き、**Google Play Store**&#x200B;アプリをタップします。
-1. 「検索」ボックスに、「**Marketo**」と入力し、「**Return**」をタップします。
-1. 検索結果で、**Markettoイベント**&#x200B;アプリをタップします。
+1. 「検索」ボックスに&#x200B;**Marketo**&#x200B;と入力し、**戻る**&#x200B;をタップします。
+1. 検索結果で、**Marketoイベント**&#x200B;アプリをタップします。
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -53,7 +53,7 @@ AndroidタブレットにMarketoイベントアプリがまだインストール
 
 ## iPadおよびタブレットユーザー用のログイン資格情報の確認{#confirm-login-credentials-for-ipad-and-tablet-users}
 
-iPadまたはタブレットをトレードショースタッフに割り当てる前に、それらが正しく動作するようになるログイン情報と、イベントがアプリのホーム画面に表示されることを確認します。
+iPadまたはタブレットをトレードショースタッフに割り当てる前に、iPadまたはタブレットが正常に動作するようにログイン資格情報を確認し、イベントがアプリのホーム画面に表示されることを確認します。
 
 1. iPadまたはタブレットでログインする場合は、ログイン手順に従います。
 1. イベントがホーム画面に表示されることを確認します。 日付が現在の日付の1週間前から1週間後の場合にのみ表示されます。
@@ -85,7 +85,7 @@ iPadまたはタブレットをトレードショースタッフに割り当て�
 
 1. アプリで、[テストリードを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)で確認します。
 1. **同期**&#x200B;アイコンをタップして、アプリを同期します。
-1. Marketoで、イベントーを開き、「**Members**」をクリックします。
+1. Marketoで、イベントを開き、**メンバー**&#x200B;をクリックします。
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
