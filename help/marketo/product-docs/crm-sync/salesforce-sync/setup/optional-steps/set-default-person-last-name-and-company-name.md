@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719291
-description: デフォルトの個人の姓と会社名の設定 — Marketto Docs — 製品ドキュメント
+description: デフォルトの個人の姓と会社名の設定 —Marketoドキュメント — 製品ドキュメント
 title: デフォルトの個人の姓と会社名の設定
+exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # デフォルトの個人の姓と会社名を設定{#set-default-person-last-name-and-company-name}
 
@@ -29,6 +29,6 @@ Salesforceでは、リードと連絡先に姓と会社名が（最小）必要�
 
    >[!NOTE]
    >
-   >レコードが最初にSalesforceに同期されたとき、および必須フィールドのいずれかが空の場合にのみ、Marketoがデフォルト値を割り当てます。
+   >Marketoは、レコードが最初にSalesforceに同期されたとき、および必須フィールドのいずれかが空の場合にのみ、デフォルト値を割り当てます。
 
-それだ！ 人に姓や会社名がない場合は常に、レコードの同期時にデフォルト値が追加されます。
+それだ！ ユーザーに姓や会社名がない場合は常に、レコードの同期時にMarketoがデフォルト値を追加します。
