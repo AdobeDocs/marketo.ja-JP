@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953415
-description: 個人の詳細ページ — Marketto Docs — 製品ドキュメントの使用
+description: 個人の詳細ページの使用 —Marketoドキュメント — 製品ドキュメント
 title: 「個人詳細」ページの使用
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 50%
 
 ---
 
-
 # 個人の詳細ページの使用{#using-the-person-detail-page}
 
-個人の詳細ページには、Marketing担当者が個人について知っているすべての情報が含まれます。 このページからデータを直接編集できます。
+人物詳細ページには、Marketoが人物について知っているすべての情報が含まれています。 このページからデータを直接編集できます。
 
 ## 個人の詳細ページへのアクセス{#getting-to-person-detail-page}
 
@@ -39,24 +39,24 @@ ht-degree: 0%
 
 個人情報は、次のタブに分類されます。
 
-| タブ | 説明 |
+| タブ | 詳細 |
 |---|---|
 | 情報 | 連絡先情報およびユーザー設定のフィールド。 |
-| 会社情報 | 個人の会社情報と住所。 |
-| オポチュニティ情報 | Salesforceから同期されたオポチュニティ情報。 |
-| SFDCリードフィールド | 組み込みのSalesforceフィールド。 |
+| 企業情報 | 個人の会社情報と住所。 |
+| 商談情報 | Salesforceから同期されたオポチュニティ情報。 |
+| SFDC リードフィールド | 組み込みのSalesforceフィールド。 |
 | SFDCカスタムフィールド | カスタムのSalesforceフィールド。 |
 | アクティビティログ | その人に関連するすべてのアクティビティ。 |
 
 ## ページ構成 — Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| タブ | 説明 |
+| タブ | 詳細 |
 |---|---|
 | 情報 | 連絡先情報およびユーザー設定のフィールド。 |
-| 会社情報 | 個人の会社情報と住所。 |
-| オポチュニティ情報 | Microsoftから同期されたオポチュニティ情報。 |
-| Microsoftカスタムフィールド | ユーザー設定のMicrosoftフィールド |
-| Microsoftリードフィールド | 組み込みのMicrosoftフィールド |
+| 企業情報 | 個人の会社情報と住所。 |
+| 商談情報 | Microsoftから同期されたオポチュニティ情報。 |
+| Microsoft カスタムフィールド | ユーザー設定のMicrosoftフィールド |
+| Microsoft リードフィールド | 組み込みのMicrosoftフィールド |
 | アクティビティログ | その人に関連するすべてのアクティビティ。 |
 
 >[!NOTE]
@@ -69,28 +69,28 @@ ht-degree: 0%
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRM同期前のマーケティング担当者のデフォルトフィールド{#marketo-default-fields-prior-to-crm-sync}
+## CRM同期前のMarketoの既定のフィールド{#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| 住所 | 年間売上高 | 匿名IP | 請求先住所 | 請求先の市区町村 |
-| 請求国 | 請求先郵便番号 | 請求先の州 | 市区町村 | 会社名 |
-| 国 | 作成日 | 生年月日 | 分野 | 呼び出さない |
-| 原因を呼び出さない | 理由を呼び出さない | 電子メールアドレス | 電子メールが無効です | 電子メールの原因 |
-| 外部会社ID | 外部販売担当者ID | Fax番号 | 名 | フルネーム |
-| 業界 | 推定都市 | 推定会社 | 推定国 | 推定都市圏 |
-| 推定電話番号市外局番 | 推定郵便番号 | 推定状態領域 | 匿名 | お客様 |
-| パートナー | 肩書 | 姓 | 評価 | スコア |
-| 個人のソース | ステータス | メイン電話 | Marketor SocialのFacebookの表示名 | Marketor SocialのFacebook Id |
-| Marketor SocialのFacebook写真のURL | Marketto SocialのFacebookプロファイルURL | Marketor SocialのFacebookリーチ | Marketor SocialのFacebook参照登録 | Marketor SocialのFacebookが参照した訪問 |
-| Marketor Socialの性別 | Marketor Socialの最終参照登録 | Marketor Socialの最後の参照訪問 | Marketor SocialのLinkedIn表示名 | Marketor SocialのLinkedIn ID |
-| Marketor SocialのLinkedIn写真のURL | Marketor Social LinkedInプロファイルのURL | Marketor SocialのLinkedInリーチ | Marketor Social LinkedIn参照登録 | Marketor Social LinkedInからの訪問 |
-| Marketor SocialシンジケーションID | Marketor Socialの参照登録総数 | Marketor Socialの合計参照訪問回数 | Marketor SocialのTwitterの表示名 | Marketor SocialのTwitter Id |
-| Marketto SocialのTwitter写真のURL | Marketto SocialのTwitterプロファイルのURL | Marketor SocialのTwitterリーチ | Marketor SocialのTwitterによる参照登録 | Marketor SocialのTwitterが参照した訪問 |
+| 住所 | 年間収益 | 匿名 IP | 請求先住所 | 請求先住所 (都市) |
+| 請求先住所 (国) | 請求先住所 (郵便番号) | 請求先住所 (都道府県) | 都市 | 企業名 |
+| 国 | 作成時刻 | 生年月日 | 部門 | 連絡拒否 |
+| 電話連絡拒否の原因 | 電話連絡拒否の理由 | メールアドレス | メール無効 | メール無効の理由 |
+| 外部企業ID | 外部セールス担当者ID | ファックス番号 | 名 | 氏名 |
+| 業界 | 推測される都市 | 推測される企業 | 推測される国 | 推測される都市圏 |
+| 推測される市外局番 | 推測される郵便番号 | 推測される都道府県/地域 | 匿名 | 顧客 |
+| パートナー | 役職 | 姓 | 評価 | スコア |
+| リードソース | ステータス | 代表電話番号 | Marketo ソーシャル Facebook の表示名 | Marketo ソーシャル Facebook ID |
+| Marketo ソーシャル Facebook の画像 URL | Marketo ソーシャル Facebook のプロファイル URL | Marketo ソーシャル Facebook のリーチ | Marketo ソーシャル Facebook を参照元とする登録数 | Marketo ソーシャル Facebook を参照元とする訪問数 |
+| Marketo ソーシャルジェンダ | Marketo ソーシャルを最後の参照元とする登録 | Marketo ソーシャルを最後の参照元とする訪問 | Marketo ソーシャル LinkedIn の表示名 | Marketo ソーシャル LinkedIn Id |
+| Marketo ソーシャル LinkedIn の画像 URL | Marketo ソーシャル LinkedIn のプロファイル URL | Marketo ソーシャル LinkedIn のリーチ | Marketo ソーシャル LinkedIn を参照元とする登録数 | Marketo ソーシャル LinkedIn を参照元とする訪問数 |
+| Marketo ソーシャル Syndication ID | Marketo ソーシャルを参照元とする合計登録数 | Marketo ソーシャルを参照元とする合計訪問数 | Marketo ソーシャル Twitter の表示名 | Marketo ソーシャル Twitter Id |
+| Marketo ソーシャル Twitter の画像 URL | Marketo ソーシャル Twitter のプロファイル URL | Marketo ソーシャル Twitter のリーチ | Marketo ソーシャル Twitter を参照元とする登録数 | Marketo ソーシャル Twitter を参照元とする訪問数 |
 | ミドルネーム | 携帯電話番号 | 従業員数 | 電話番号 | 郵便番号 |
-| 優先度 | 相対スコア | 役割 | 挨拶 | SICコード |
-| サイト | 州 | 登録解除 | 登録解除の理由 | 更新日時 |
-| 緊急度 | Webサイト |  |  |  |
+| 優先順位 | 相対スコア | ロール | 敬称 | SIC コード |
+| サイト | 都道府県 | 配信停止完了 | 配信停止の理由 | 更新時刻 |
+| 緊急度 | ウェブサイト |  |  |  |
 
 >[!NOTE]
 >
@@ -99,7 +99,7 @@ ht-degree: 0%
 >* アクティビティログ
 >* 会社情報
 >* SFDCの連絡先のオポチュニティ
->* 「作成日」や「元のソースタイプ」など、マーケティング担当者に固有のフィールドがあります。
+>* 「作成日」や「元のソースの種類」など、Marketo固有のフィールドがあります。
 
 >
 >
