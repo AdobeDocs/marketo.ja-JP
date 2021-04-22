@@ -1,14 +1,14 @@
 ---
-description: Velocityスクリプティング — Marketto Docs — 製品ドキュメントでのカスタムオブジェクト取得制限の変更
+description: Velocityスクリプティング —Marketoドキュメント — 製品ドキュメントでのカスタムオブジェクト取得制限の変更
 title: Velocityスクリプティングでのカスタムオブジェクト取得制限の変更
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Velocityスクリプティング{#change-custom-object-retrieval-limits-in-velocity-scripting}でのカスタムオブジェクト取得制限の変更
 
@@ -16,7 +16,7 @@ Velocityスクリプトを使用して電子メールでカスタムオブジェ
 
 ## 速度{#what-is-velocity}とは
 
-[Apache Velocity](https://velocity.apache.org/)は、HTMLコンテンツのテンプレート化とスクリプティングを行うために設計された、Javaに基づいて構築された言語です。Marketorは、[スクリプティングトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用して、電子メールのコンテキストでMarketorを使用できます。 特に、カスタムオブジェクトに保存されたデータにアクセスできます。
+[Apache Velocity](https://velocity.apache.org/)は、HTMLコンテンツのテンプレート化とスクリプティングを行うために設計された、Javaに基づいて構築された言語です。Marketoは、[スクリプティングトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用して、電子メールのコンテキストでこのトークンを使用できます。 特に、カスタムオブジェクトに保存されたデータにアクセスできます。
 
 リードまたは連絡先に直接接続されているが、第3レベルのカスタムオブジェクトではない親および子のカスタムオブジェクトを参照できます。 各カスタムオブジェクトについて、個人または連絡先ごとに最も新しく更新された10個のレコードが実行時に使用でき、最も新しい(0)～最も古い(9)の順に並べられます。
 
