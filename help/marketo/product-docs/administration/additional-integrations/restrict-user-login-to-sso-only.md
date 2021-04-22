@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
-description: ユーザーログインのSSOのみに制限 — Marketto Docs — 製品ドキュメント
-title: ユーザーログインをSSOのみに制限
+description: ユーザーログインをSSOのみに制限 —Marketoドキュメント — 製品ドキュメント
+title: ユーザ ログインを SSO のみに制限
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# ユーザーログインをSSOのみに制限{#restrict-user-login-to-sso-only}
+# ユーザ ログインを SSO のみに制限 {#restrict-user-login-to-sso-only}
 
 SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)を使用して[お客様がSSOセキュリティを回避できないようにする場合は、次の手順に従ってください。
 
@@ -37,7 +37,7 @@ SSO](/help/marketo/product-docs/administration/additional-integrations/add-singl
 
 >[!TIP]
 >
->「**SSOを必須にする**」を選択した場合は、ロールの設定時に「**シングルサインオンをバイパス**」オプションをオンにすると、この制限から[ユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)を除外できます。 これにより、ユーザーは通常どおりにサインインできます。 例えば、管理者ユーザーは、引き続きログイン画面を使用してMarketorにログインする必要があります。
+>「**SSOを必須にする**」を選択した場合は、ロールの設定時に「**シングルサインオンをバイパス**」オプションをオンにすると、この制限から[ユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)を除外できます。 これにより、ユーザーは通常どおりにサインインできます。 例えば、管理者ユーザーは、引き続きログイン画面を使用してMarketoにログインする必要があります。
 
 >[!CAUTION]
 >
@@ -49,5 +49,5 @@ SSO](/help/marketo/product-docs/administration/additional-integrations/add-singl
 >
 >* [ポータル追加へのシングルサインオン](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [購読ログインでのユニバーサルIDの使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [ユニバーサルIDを持つ2つのインスタンスへのマーケティングユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [ユニバーサルIDを使用した2つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
