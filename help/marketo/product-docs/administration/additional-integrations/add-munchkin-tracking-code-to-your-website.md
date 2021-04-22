@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360354
-description: Munchkin追加追跡コードをWebサイト — Marketto Docs — 製品ドキュメントに送信
+description: Munchkin追加追跡コードをWebサイト —Marketoドキュメント — 製品ドキュメント
 title: Munchkin追加追跡コードをWebサイトに送信
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # 追跡コード追加をWebサイトにマンチキンする{#add-munchkin-tracking-code-to-your-website}
 
-Munchkinと呼ばれる、MarketoのカスタムJavaScriptトラッキングコードは、Webサイトを訪問するすべての個人を追跡するので、自動化されたマーケティングキャンペーンを使用して訪問に反応できます。 匿名訪問者でも、そのIPアドレスやその他の情報と共に追跡されます。 **このトラッキングコードがないと、Webサイト上の訪問や他のアクティビティを追跡できません**。
+MarketoのカスタムのJavaScriptトラッキングコードMunchkinは、Webサイトを訪問するすべての個人を追跡するので、自動マーケティングキャンペーンを使用して訪問に反応できます。 匿名訪問者でも、そのIPアドレスやその他の情報と共に追跡されます。 **このトラッキングコードがないと、Webサイト上の訪問や他のアクティビティを追跡できません**。
 
 >[!PREREQUISITES]
 >
->経験豊富なJavaScript開発者にアクセスできることを確認してください。 マーケティング担当者向けテクニカルサポートは、カスタムJavaScriptのトラブルシューティングを支援するように設定されていません。
+>経験豊富なJavaScript開発者にアクセスできることを確認してください。 Marketoテクニカルサポートは、カスタムJavaScriptのトラブルシューティングを支援するために設定されていません。
 
 ## Webサイト追加へのトラッキングコード{#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->また、Adobe Experience Cloudのお客様は、Adobe開始のMarketoの統合機能を使用して、MunchkinスクリプトをWebページに含めることもできます。 アプリ[を取得します。](https://www.adobeexchange.com/experiencecloud.details.101054.html)
+>また、Adobe Experience Cloudのお客様は、MarketoのAdobe開始統合機能を使用して、Munchkinスクリプトをウェブページに含めることもできます。 アプリ[を取得します。](https://www.adobeexchange.com/experiencecloud.details.101054.html)
 
 1. **管理者**&#x200B;に移動し、左のツリーで&#x200B;**マンチキン**&#x200B;をクリックします。
 
@@ -35,7 +35,7 @@ Munchkinと呼ばれる、MarketoのカスタムJavaScriptトラッキングコ�
 
    >[!NOTE]
    >
-   >ほとんどの場合は、非同期コードを使用する必要があります。 [詳細情報](#types-of-munchkin-tracking-codes)
+   >ほとんどの場合は、非同期コードを使用する必要があります。 [詳細はこちらをご覧ください。](#types-of-munchkin-tracking-codes)
 
    をクリックし、JavaScriptトラッキングコードをコピーしてWebサイトに配置します。
 
@@ -54,11 +54,11 @@ Munchkinと呼ばれる、MarketoのカスタムJavaScriptトラッキングコ�
 
 >[!TIP]
 >
->トラフィック量の多いサイト（1か月に何十万回もの訪問など）の場合は、匿名ユーザーを追跡しないように推奨します。 [詳細情報](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)。
+>トラフィック量の多いサイト（1か月に何十万回もの訪問など）の場合は、匿名ユーザーを追跡しないようにすることをお勧めします。 [詳細](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
 ## 追加複数のワークスペースを使用した場合のトラッキングコード{#add-tracking-code-when-using-multiple-workspaces}
 
-MarketorアカウントでWorkspacesを使用している場合は、ワークスペースに対応する個別のWebプレゼンスが存在する場合もあります。 この場合、マンチキン追跡JavaScriptを使用して、匿名ユーザーを正しいワークスペースとパーティションに割り当てることができます。
+MarketoアカウントでWorkspacesを使用している場合は、ワークスペースに対応する個別のWebプレゼンスも存在する可能性があります。 この場合、マンチキン追跡JavaScriptを使用して、匿名ユーザーを正しいワークスペースとパーティションに割り当てることができます。
 
 1. **管理者**&#x200B;に移動し、左のツリーで&#x200B;**マンチキン**&#x200B;をクリックします。
 
@@ -70,7 +70,7 @@ MarketorアカウントでWorkspacesを使用している場合は、ワーク�
 
 >[!NOTE]
 >
->特別なWorkspace Munchkinコードを使用しない場合、アカウントの設定時に作成された既定のパーティションにユーザーが割り当てられます。 最初は「デフォルト」という名前ですが、独自のMarketoアカウントで変更した可能性があります。
+>特別なWorkspace Munchkinコードを使用しない場合、アカウントの設定時に作成された既定のパーティションにユーザーが割り当てられます。 最初は「デフォルト」という名前ですが、自分のMarketoアカウントで変更した可能性があります。
 
 1. 「追跡コードタイプ」で「**非同期**」を選択します。
 
@@ -94,7 +94,7 @@ MarketorアカウントでWorkspacesを使用している場合は、ワーク�
 
 >[!NOTE]
 >
->Marketoで作成されたランディングページにはトラッキングコードが自動的に含まれるので、このコードを含める必要はありません。
+>Marketoで作成されたランディングページには自動的にトラッキングコードが含まれるので、このコードを記述する必要はありません。
 
 ## マンチキントラッキングコードのタイプ{#types-of-munchkin-tracking-codes}
 
