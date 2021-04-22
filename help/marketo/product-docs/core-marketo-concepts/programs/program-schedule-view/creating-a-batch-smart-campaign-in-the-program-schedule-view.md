@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147142
-description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントでのバッチスマートキャンペーンの作成
+description: プログラムスケジュール表示-Marketoドキュメント — 製品ドキュメントでのバッチスマートキャンペーンの作成
 title: プログラムスケジュール表示でのバッチスマートキャンペーンの作成
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # プログラムスケジュール表示でのバッチスマートキャンペーンの作成{#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ドロップダウンから既存のスマートキャンペーンを選択して、実行することもできます。
+   >ドロップダウンから既存のスマートキャンペーンを選択して実行することもできます。
 
    ![](assets/four.png)
 
