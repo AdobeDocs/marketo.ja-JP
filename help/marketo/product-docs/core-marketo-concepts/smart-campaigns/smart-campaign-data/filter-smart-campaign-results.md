@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147068
-description: スマートキャンペーン結果のフィルター — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーン結果のフィルタ —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーン結果のフィルター
+exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # スマートキャンペーン結果のフィルタ{#filter-smart-campaign-results}
 
