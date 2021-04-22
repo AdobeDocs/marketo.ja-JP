@@ -1,18 +1,18 @@
 ---
-description: リリースノート — 2021年1月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2021年1月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2021年1月
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：Jan 2021 {#release-notes-jan-21}
 
-1月22日リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+1月22日リリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 >[!AVAILABILITY]
 >
@@ -34,20 +34,20 @@ ht-degree: 0%
 
 ## ランディングページとForms{#landing-pages-and-forms}
 
-* **フォームAPI**:リード情報を取り込むか、トリガーはキャンペーンをはぐき、マーケティング担当者以外のフォームからデータを取り込みます。マーケティング担当者以外のフォームは、REST APIを介してMarketo Engageと統合できます。 新しいAPIでは、Marketo Engageフォームの送信と、関連するすべての機能を模倣できます。
+* **フォームAPI**:Marketo以外のフォームからデータを取り込みながら、リードキャンペーンまたはトリガーの育成情報を取り込みます。Marketo以外のフォームは、REST APIを通じてMarketo Engageと統合できます。 新しいAPIでは、Marketo Engageフォームの送信と、関連するすべての機能を模倣できます。
 * **ランディングページAPI**:新しいランディングページプレビューAPIを搭載した統合アプリケーションで、編集や翻訳のワークフローを効率化。サードパーティベンダーは、Marketo Engageにログインすることなく、完全にパーソナライズされたプレビューのランディングページをレンダリングできるようになりました。  ランディングページプレビューAPIを使用すると、サードパーティの統合アプリケーションでエンドツーエンドの編集およびローカライゼーションワークフローを行うことができます。
 
-## 電子メールマーケティング{#email-marketing}
+## メールマーケティング {#email-marketing}
 
 * **[Custom Objects Retrieval Limits Increased](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**:電子メール速度スクリプティングの開発者は、セルフサービスのオーバーライドを使用して、カスタムオブジェクトの数をすぐに100に増やすことができます。マーケターは、第1レベルおよび第2レベルのカスタムオブジェクトに多数アクセスすることで、スマートキャンペーンの効果を高めることができます。
 
-## Salesforce CRM統合{#salesforce-crm-integration}
+## Salesforce CRM の統合 {#salesforce-crm-integration}
 
-* [Salesforce CRM認証](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0プロトコルは、Marketo EngageとSalesforce CRMの間の操作を同期するために使用できます。新規サブスクライバーの場合、このオプションはデフォルトで有効になっています。 現在のサブスクリプションをご利用のお客様は、マーケティングサポートにご連絡いただくことで、この機能をリクエストできます。
+* [Salesforce CRM認証](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0プロトコルは、Marketo EngageとSalesforce CRMの間の操作を同期するために使用できます。新規サブスクライバーの場合、このオプションはデフォルトで有効になっています。 現在のサブスクリプションをご利用の場合は、Marketoサポートにご連絡ください。
 * [Salesforce CRM同期ダッシュボード](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):管理者は、ダッシュボードからSalesforce CRMの同期ステータスをすばやく確認できます。同期パフォーマンスレポートの期間が2時間から5日に延長されました。
 * **メタデータの書き出し**:名前付きアカウント、プログラムメンバーの標準フィールドおよびカスタムフィールドなど、オポチュニティオブジェクト属性をサポートするように強化されました。
 
-## 管理{#administration}
+## 管理 {#administration}
 
 * **マイアカウントページを更新しました**:マイアカウントページで重要な購読情報を確認します。任意のレベルのアクセス権を持つユーザは、購読名、データセンターID、およびMunchkin IDを表示できます。
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 次の機能は、四半期に属さないサイクルで提供され、今後数か月間にわたってリリースされます。
 
-## 販売インサイト{#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![（星形）](assets/star-yellow.svg)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 * **[ネイティブ以外のSalesforce CRM統合向けSales Insight](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**:カスタムSalesforce CRM統合を利用したGA購読は、Sales Insightパッケージをインストールし、販売チームが最も有望なリードやオポチュニティに優先順位をつけ、やり取りするのを支援します。
 * **[ベストベストの強化](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**:Marketo Engageキャンペーンに電子メールまたは追加して、「ベストベット」タブのホットリードにすばやく連絡します。Marketo Engageのリードを表示するか、ウォッチリストに追加します。 「ベストベット」タブのバルクアクションと並べ替えオプションにより、時間を節約し、セールスチームの効率を向上できます。
 
-## 販売用接続{#sales-connect}
+## セールスコネクト {#sales-connect}
 
 ![（星形）](assets/star-yellow.svg)
 
