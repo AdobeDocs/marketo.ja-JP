@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360313
-description: ワークスペースの削除 — Marketto Docs — 製品ドキュメント
+description: ワークスペースの削除 —Marketoドキュメント — 製品ドキュメント
 title: ワークスペースの削除
+exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
-
 
 # ワークスペースの削除{#delete-a-workspace}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketorのデフォルトのワークスペースを削除できません。
+>Marketoのデフォルトワークスペースを削除できません。
 
 1. 「管理者」で、「**ワークスペースとパーティション**」をクリックします。
 
