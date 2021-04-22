@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360331
-description: マーケティング先カスタムフィールドのタイプの変更 — マーケティング先ドキュメント — 製品ドキュメント
-title: マーケティング先カスタムフィールドのタイプの変更
+description: Marketoカスタムフィールドの種類の変更 —Marketoドキュメント — 製品ドキュメント
+title: Marketoカスタムフィールドの種類の変更
+exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# マーケティング先カスタムフィールドのタイプの変更{#change-the-type-of-a-marketo-custom-field}
+# Marketoカスタムフィールドのタイプの変更{#change-the-type-of-a-marketo-custom-field}
 
 カスタムフィールドのフィールドの種類を変更する方法を次に示します。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Marketorでのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Marketoでカスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
