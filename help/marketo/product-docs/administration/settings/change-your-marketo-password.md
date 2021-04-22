@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359916
-description: Markettoパスワードの変更 — Marketto Docs — 製品ドキュメント
-title: マーケティングパスワードの変更
+description: Marketoパスワードの変更 —Marketoドキュメント — 製品ドキュメント
+title: Marketoパスワードの変更
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Marketoパスワードの変更{#change-your-marketo-password}
 
-# マーケティング先のパスワードの変更{#change-your-marketo-password}
+以下の簡単な手順でMarketoのパスワードを変更します。
 
-以下の簡単な手順に従って、Marketorのパスワードを変更します。
-
-1. 任意のマーケティング担当者ユーザーが自分の名前をクリックし、**マイアカウント**&#x200B;をクリックします。
+1. 任意のMarketoユーザーは、名前と&#x200B;**マイアカウント**&#x200B;をクリックできます。
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
