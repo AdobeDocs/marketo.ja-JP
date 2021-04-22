@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: リリースノート — 2014年10月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年10月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年10月
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # リリースノート：2014年10月{#release-notes-october}
 
-Marketing Editionで機能が使用できるかどうかを確認します。 ドキュメントは、リリース時に提供されます。
+Marketo版で利用可能な機能を確認してください。 ドキュメントは、リリース時に提供されます。
 
 ## マーケティングカレンダーでのプログラムフォーカス{#program-focus-in-marketing-calendar}
 
@@ -21,7 +21,7 @@ Marketing Editionで機能が使用できるかどうかを確認します。 �
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## 新しいReST API呼び出し{#new-rest-api-calls}
+## 新規 ReST API コール {#new-rest-api-calls}
 
 APIを使用して、新しいアクティビティやリードへの変更を引き出します。
 
@@ -32,15 +32,15 @@ APIを使用して、新しいアクティビティやリードへの変更を�
 
 詳細は、[developers.marketo.com](https://developers.marketo.com/documentation/rest/)のリリース後に入手できます。
 
-## MSI - Microsoft Dynamics用のMarketor電子メールの送信{#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Microsoft Dynamics用のMarketo電子メールを送信{#msi-send-marketo-email-for-microsoft-dynamics}
 
 [Microsoft Dynamicsからのリードと連絡先に関する販売](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 電子メールを送信および追跡します。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Microsoft DynamicsのMarketoキャンペーン追加へ{#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - 追加 Microsoft DynamicsのMarketoキャンペーン{#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Microsoft Dynamics内から直接、Marketo Smart](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) キャンペーンにリ追加ードと連絡先を送信します。マーケティングでは、販売者が利用できるマーケティングキャンペーンを選択できます。
+[Microsoft Dynamics内から直接、Marketoスマート](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) キャンペーンにリ追加ードと連絡を取ります。マーケティングでは、どのMarketoキャンペーンを販売できるかを選択できます。
 
 ## Microsoft Dynamics Syncのカスタムエンティティサポート{#custom-entity-support-for-microsoft-dynamics-sync}
 
