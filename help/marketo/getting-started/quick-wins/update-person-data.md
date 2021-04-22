@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: 個人データの更新 — Marketto Docs — 製品ドキュメント
+description: 個人データの更新 —Marketoドキュメント — 製品ドキュメント
 title: 個人データの更新
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # 個人データの更新{#update-person-data}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketorで人物データを更新する方法は多数あります。 [ユーザーのリストを読み込む](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)および[データ値を変更する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)を参照してください。
+   >Marketoでは、人のデータを更新する方法がたくさんあります。 [ユーザーのリストを読み込む](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)および[データ値を変更する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)を参照してください。
 
 ## 個人データの更新{#update-the-person-data}
 
