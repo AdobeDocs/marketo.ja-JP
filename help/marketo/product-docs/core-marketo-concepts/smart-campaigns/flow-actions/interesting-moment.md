@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146956
-description: 興味深い瞬間 — Marketto Docs — 製品ドキュメント
-title: 面白い瞬間
+description: 注目の瞬間 —Marketoドキュメント — 製品ドキュメント
+title: 注目のアクション
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# 注目のアクション {#interesting-moment}
 
-# 注目の瞬間{#interesting-moment}
+## 概要 {#overview}
 
-## 概要{#overview}
-
-Marketo Sales Insightをお持ちの場合は、**注目の瞬間**&#x200B;のフローステップを使用して、担当者が行っているクールなことをセールスチームに明らかにすることができます。
+Marketoの販売インサイトをお持ちの場合は、**注目の瞬間**&#x200B;のフローステップを使用して、貴社の従業員が行っている素晴らしいことをセールスチームが明確に把握できます。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. 使用するおもしろい瞬間&#x200B;**タイプ**&#x200B;を選択します。
 
