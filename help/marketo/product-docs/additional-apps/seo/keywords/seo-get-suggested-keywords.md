@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO — 推奨キーワードの取得 — Marketto Docs — 製品ドキュメント
+description: SEO — 推奨キーワードの取得 —Marketoドキュメント — 製品ドキュメント
 title: SEO — 推奨キーワードの取得
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # SEO — 推奨キーワードの取得{#seo-get-suggested-keywords}
 
-Marketo SEOは、どのキーワードを追跡すべきかを提案できます。 キーワードまたはサイトのURLに基づいて提案を行うことができます。 やれ！
+MarketoのSEOは、どのキーワードを追跡すべきかを提案します。 キーワードまたはサイトのURLに基づいて提案を行うことができます。 やれ！
 
 ## キーワードを使用したサーチクエリの取得{#get-keyword-suggestions-using-a-keyword}
 
@@ -37,7 +37,7 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   素晴らしい！ キーワードが追加されました。
+   OK！キーワードが追加されました。
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
@@ -69,7 +69,7 @@ Marketo SEOは、どのキーワードを追跡すべきかを提案できます
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. 素晴らしい！ キーワードが追加されました。
+1. OK！キーワードが追加されました。
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
