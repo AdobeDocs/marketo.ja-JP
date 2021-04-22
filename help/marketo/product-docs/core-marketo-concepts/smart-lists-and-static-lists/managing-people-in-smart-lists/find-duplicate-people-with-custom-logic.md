@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2952636
-description: カスタムロジックを使用した重複の人物の検索 — Marketto Docs — 製品ドキュメント
+description: カスタムロジックを使用した重複ユーザーの検索 —Marketoドキュメント — 製品ドキュメント
 title: カスタムロジックを使用した重複ユーザーの検索
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-
 # カスタムロジックを使用した重複人物の検索{#find-duplicate-people-with-custom-logic}
 
-Marketoには、重複の電子メールアドレスを一致させて、ユーザーを見つけるシステムスマートリストがあります。 別のフィールドを使用して重複を検索する場合は、次のようにします。
+Marketoには、電子メールアドレスを照合して重複の人々を見つけるシステムスマートリストがあります。 別のフィールドを使用して重複を検索する場合は、次のようにします。
 
 >[!PREREQUISITES]
 >
@@ -33,10 +33,10 @@ Marketoには、重複の電子メールアドレスを一致させて、ユー�
 
 1. 次の4つのオプションから1つ選択します。
 
-   * 電子メールアドレス
-   * フルネーム
+   * メールアドレス
+   * 氏名
    * 姓
-   * 更新日時
+   * 更新時刻
 
    >[!NOTE]
    >
@@ -44,4 +44,4 @@ Marketoには、重複の電子メールアドレスを一致させて、ユー�
 
    ![](assets/four-2.png)
 
-   完了！ スマートリストを実行して、前に選択したフィールドに同じ値を持つ人を検索します。
+   完了! スマートリストを実行して、前に選択したフィールドに同じ値を持つ人を検索します。
