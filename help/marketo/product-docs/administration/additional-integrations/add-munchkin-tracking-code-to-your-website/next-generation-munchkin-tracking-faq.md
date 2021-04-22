@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: 次世代マンチキントラッキングFAQ - Marketto Docs — 製品ドキュメント
+description: 次世代マンチキントラッキングFAQ -Marketoドキュメント — 製品ドキュメント
 title: 次世代マンチキントラッキングFAQ
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # 次世代マンチキントラッキングFAQ {#next-generation-munchkin-tracking-faq}
 
@@ -21,23 +21,23 @@ ht-degree: 0%
 * 取り込むことのできるWebイベント（Webページにアクセス、Webページでのリンクのクリック）の数が増えています。
 * Munchkinコードは変更されないので、Webサイトの更新は必要ありません
 
-## Munchkin V2には、マーケティング購読はいつ配置されますか。{#when-will-my-marketo-subscription-be-on-munchkin-v}
+## 私のMarketo購読はいつマンチキンv2に来るの？{#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 正確な日付がまだありませんが、更新情報については、こちらを参照してください。
 
 ## ウェブサイトでのマンチキンの追跡に変更を加える必要がありますか。{#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-いいえ。 マンチキンのトラッキングコードは変わりません。 Webサイトに変更を加える必要はありません。
+いいえ. マンチキンのトラッキングコードは変わりません。 Webサイトに変更を加える必要はありません。
 
 >[!NOTE]
 >
 >この変更は、ウェブパーソナライゼーション（リアルタイムパーソナライゼーション）には影響しません。 匿名で既知のWeb訪問者を引き続き識別し、これらの訪問者にリアルタイムでコンテンツをパーソナライズします。
 
-## スマートリストから「匿名」フィルターが削除されたのはなぜですか？{#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+## Marketoがスマートリストから「匿名」フィルターを削除したのはなぜですか？{#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 私たちは匿名の人々がスマートキャンペーンとやり取りする方法を変えました 以前は、知られている人と同じように、賢いキャンペーンを通って流れていました。 「匿名」フィルターは、既知の人または匿名の人のみがキャンペーンを流れることを指定するために使用されました。
 
-Munchkin V2を使って、匿名アクティビティを追跡し続ける。しかし、匿名の人にフィルターを申し込むことはできなくなりました。 コンバージョンの時点（個人がマーケティング担当者についての情報が得られた時点）で、その個人が匿名であったときに発生したすべてのアクティビティが個人アクティビティログに追加され、この時点で、対象となるキャンペーンをフローします。
+Munchkin V2を使って、匿名アクティビティを追跡し続ける。しかし、匿名の人にフィルターを申し込むことはできなくなりました。 コンバージョンの時点(個人がMarketoで知られるとき)で、匿名の人物であったときに発生したすべてのアクティビティが個人アクティビティログに追加され、この時点で、対象となるキャンペーンをフローします。
 
 このフィルターをスマートリスト(スマートキャンペーンやレポートなど)で既に使用している場合、スマートリストから自動的に削除されるわけではありません。 詳しくは、以下を参照してください。
 
@@ -68,7 +68,7 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
 1. スマートリストに「Is Anonymous = False」というフィルターがある場合、何も起こりません。 無視する。
 1. スマートリストに「Is Anonymous = True」というフィルターがある場合、このキャンペーンは失敗し、通知が送信されます。
 
-## 私はしばらくマーケットを使っています。 「匿名」フィルターを使用しているキャンペーンを知る方法を教えてください。{#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
+## 私はしばらくMarketoを使っています。 「匿名」フィルターを使用しているキャンペーンを知る方法を教えてください。{#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
 この変更を行う前に、「匿名」フィルターを使用するスマートリスト、スマートキャンペーン、レポートのリストを含む週次通知を通知受信トレイに送信しました。 これらは、このフィルターを現在使用している場所の特定に役立ちます。
 
@@ -80,7 +80,7 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
 
 [匿名リードアップグレードの概要](https://nation.marketo.com/docs/DOC-2937)
 
-[匿名リードのアップグレード — Marketto UI内の変更点](https://nation.marketo.com/docs/DOC-2938)
+[匿名リードのアップグレード —MarketoUI内の変更点](https://nation.marketo.com/docs/DOC-2938)
 
 [匿名リードのアップグレード — お客様の対応が必要](https://nation.marketo.com/docs/DOC-2939)
 
@@ -94,4 +94,4 @@ Munchkin V2を使って、匿名アクティビティを追跡し続ける。し
 
 ## もっと質問がある！ どうやって答えを？{#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/welcome)にご連絡ください。 [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡することもできます。 彼らは喜んであなたの質問に答える。
+[コミュニティ](https://nation.marketo.com/welcome)にご連絡ください。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡することもできます。 彼らは喜んであなたの質問に答える。
