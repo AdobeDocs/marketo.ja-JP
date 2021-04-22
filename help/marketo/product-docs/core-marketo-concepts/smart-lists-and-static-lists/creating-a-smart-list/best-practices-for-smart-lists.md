@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: スマートリスト向けのベストプラクティス — Marketto Docs — 製品ドキュメント
+description: スマートリストのベストプラクティス —Marketoドキュメント — 製品ドキュメント
 title: スマートリストのベストプラクティス
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # スマートリストのベストプラクティス{#best-practices-for-smart-lists}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**顧客ごとに異なります。** データベースが大きいほど、処理が多くなります。保存したアクティビティが多いほど、検索に時間がかかります。
 >
->動作が遅い場合は、次のヒントを試してください。 問題が解決しない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>動作が遅い場合は、次のヒントを試してください。 問題が解決しない場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. **履歴の制限：** 履歴フィルター(アクティビティフィルターなど)は、リソースを最も多く消費し、時間のかかる処理の1つです。使用する必要がある場合は、日付範囲をできる限り短くするようにしてください。これにより、検索可能なデータセットが減少します。
 1. **ネストされたスマートリストの制限 — 新しいスマートリスト** を作成する場合は、使用する「スマートリストのメンバー」フィルターの数を制限します。これはスマートリストのネストと呼ばれ、参照される各スマートリストの処理時間が長くなります。 代わりに、静的なリストを参照するか、[segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)を利用します。
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketoは様々な方法で使用でき、お客様やビジネスにとって特定のテクニックが優れています。 [マーケティング担当者のプロサービス](https://pages2.marketo.com/72-hour-survival-guide.html)を検討し、投資を輝かしくします。
+>Marketoは様々な方法で使用でき、ある種のテクニックがあなたやあなたのビジネスにとって良いと思います。 [Marketoのプロサービス](https://pages2.marketo.com/72-hour-survival-guide.html)を検討して、投資を輝かしくします。
