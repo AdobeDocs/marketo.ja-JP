@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098433
-description: IPベースのAPIアクセスの許可リストの作成 — Marketto Docs — 製品ドキュメント
-title: IPベースのAPIアクセスの許可リストの作成
+description: IPベ許可リストースのAPIアクセス用のの作成 —Marketoドキュメント — 製品ドキュメント
+title: IPベ許可リストースのAPIアクセス用のの作成
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# IPベースのAPIアクセス用の許可リストの作成{#create-an-allowlist-for-ip-based-api-access}
+# IPベ許可リストースAPIアクセス用のの作成{#create-an-allowlist-for-ip-based-api-access}
 
 特定のIPアドレスまたはアドレスの範囲に対してのみAPIアクセスを許可したい場合があります。 これを行うには、まず制限を有効にしてから、APIの使用を許可するIPアドレスを指定します。
 
