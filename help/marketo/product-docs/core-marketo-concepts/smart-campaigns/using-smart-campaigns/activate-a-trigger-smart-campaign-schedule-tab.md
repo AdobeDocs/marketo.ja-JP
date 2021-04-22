@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146935
-description: トリガースマートキャンペーンのアクティブ化 |スケジュールタブ — Marketto Docs — 製品ドキュメント
+description: トリガースマートキャンペーンのアクティブ化 |スケジュールタブ —Marketoドキュメント — 製品ドキュメント
 title: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ
+exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # トリガースマートキャンペーンのアクティブ化 |スケジュールタブ{#activate-a-trigger-smart-campaign-schedule-tab}
 
