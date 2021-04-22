@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953384
-description: カスタムエンティティ — Marketto Docs — 製品ドキュメントの同期を有効にする
+description: カスタムエンティティの同期を有効にする —Marketoドキュメント — 製品ドキュメント
 title: カスタムエンティティの同期を有効にする
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # カスタムエンティティの同期を有効にする{#enable-sync-for-a-custom-entity}
 
-DynamicsのカスタムエンティティデータをMarketoで使用できるようにする必要がある場合、その同期を有効にする方法を次に示します。
+DynamicsのカスタムエンティティデータをMarketoで使用できるようにする必要がある場合、同期を有効にする方法を次に示します。
 
 >[!NOTE]
 >
