@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377945
-description: 監査証跡の概要 — Marketto Docs — 製品ドキュメント
+description: 監査証跡の概要 —Marketoドキュメント — 製品ドキュメント
 title: 監査証跡の概要
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # 監査証跡の概要{#audit-trail-overview}
 
-監査証跡を使用すると、Marketorインスタンス内で行われた変更の完全な履歴（6か月分の値）を取得できます。
+監査証跡を使用すると、Marketo・インスタンス内で行われた変更の完全な履歴（6ヶ月分の値）を取得できます。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 監査証跡とは{#what-is-audit-trail}
 
-監査証跡は、マーケティング・購読内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。 6か月のデータ履歴にアクセスして次のような質問に答えるセルフサービスを提供します。
+監査証跡は、Marketo購読内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。 6か月のデータ履歴にアクセスして次のような質問に答えるセルフサービスを提供します。
 
 このアセットまたは設定はどうなりましたか。また、最後に更新したのは誰ですか。
 
@@ -33,10 +33,10 @@ Xが何を企んでいるか
 
 ## 監査対象{#what-we-audit}
 
-Marketorは、次の[の作成、編集、削除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)アクションを監査します。
+Marketoは、[create, edit, and delete](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)アクションを監査します。
 
 * Design Studioアセット
-* すべてのマーケティングプログラム
+* 全Marketoプログラム
 * スマートキャンペーン
 * リスト（スマート/静的）
 * ユーザー(admin)
@@ -46,7 +46,7 @@ Marketorは、次の[の作成、編集、削除](/help/marketo/product-docs/adm
 
 >[!NOTE]
 >
->現時点では、Webパーソナライゼーション、予測コンテンツまたは販売インサイト内で行われた監査の変更は、Marketoは&#x200B;_ありません_。
+>現在、Marketoは、Webパーソナライゼーション、予測コンテンツ、Sales Insight内で行われた監査の変更は&#x200B;_行われません_。
 
 ## 監査証跡コンポーネント{#audit-trail-components}
 
@@ -68,7 +68,7 @@ Marketorは、次の[の作成、編集、削除](/help/marketo/product-docs/adm
 >
 >監査証跡を使用して監査できる量は非常に多いので、[フィルタ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を必ず利用してください。
 
-## データのエクスポート{#exporting-data}
+## データのエクスポート {#exporting-data}
 
 インスタンスでは、30日分のデータのみを表示できます。 6か月分の値を取得するには、エクスポートオプションを使用します。
 
@@ -78,7 +78,7 @@ Marketorは、次の[の作成、編集、削除](/help/marketo/product-docs/adm
 >
 >**定義**
 >
->**不明：監査証跡** に、ユーザーの名前と電子メールが「不明」と表示される場合があります。これは、CRMの選択リストの値を変更した場合に発生します。 これらの値は、Marketing Formsおよびランディングページに表示されます。 CRM側でこの更新を行うと、フォームを参照するランディングページが自動ドラフトされます。 監査証跡では、ランディングページがドラフトされたことをキャプチャしますが、CRM側からユーザー情報を取り込めないので、ユーザーの名前と電子メールには「不明」と表示されます。
+>**不明：監査証跡** に、ユーザーの名前と電子メールが「不明」と表示される場合があります。これは、CRMの選択リストの値を変更した場合に発生します。 これらの値は、Marketoのフォームおよびランディングページに表示されます。 CRM側でこの更新を行うと、フォームを参照するランディングページが自動ドラフトされます。 監査証跡では、ランディングページがドラフトされたことをキャプチャしますが、CRM側からユーザー情報を取り込めないので、ユーザーの名前と電子メールには「不明」と表示されます。
 
 >[!MORELIKETHIS]
 >
