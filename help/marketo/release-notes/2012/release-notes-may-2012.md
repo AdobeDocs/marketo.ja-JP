@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: リリースノート — 2012年5月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2012年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2012年5月
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # リリースノート：2012年5月{#release-notes-may}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## iPad用の新しいイベントチェックインアプリケーション{#new-event-check-in-app-for-ipad}
 
-新しいiPadアプリケーションを使用して、イベントのチェックインプロセスを簡単にできます。 イベントのチェックインアプリは、Marketoプログラムと同期し、登録者をイベントに簡単にチェックでき、その場で新しいリードを追加できます。
+新しいiPadアプリケーションを使用して、イベントのチェックインプロセスを簡単にできます。 イベントチェックインアプリは、Marketoプログラムと同期し、登録者をイベントに簡単にチェックできるほか、その場で新しいリードを追加できます。
 
 iOS 5.1以降が必要iPadのみ。
 
@@ -61,7 +61,7 @@ ON24とAdobe Connectで利用可能！ 新しい`{{member.webinar URL}}`トー�
 
 図6. ウェビナーにユーザーを招待する
 
-## テンプレートプレビュー{#template-preview}
+## テンプレートのプレビュー {#template-preview}
 
 電子メールやランディングページの作成中に、特定のテンプレートを探しているが、見た目が分からない場合 新しいテンプレートプレビュー機能を使用すると、新しいアセットを保存する前に、選択したテンプレートを検証できます。
 
@@ -81,9 +81,9 @@ ON24とAdobe Connectで利用可能！ 新しい`{{member.webinar URL}}`トー�
 
 図9. ランディングページ上のフォームの事前入力設定の編集
 
-## マーケット宝箱{#marketo-treasure-chest}
+## Marketo宝箱{#marketo-treasure-chest}
 
-マーケティングエンジニアが開発した試験的な機能を利用して、ユーザー体験を高めます。 このリリースには、電子メールによる元に戻す機能に加え、ランディングページ上の他のユーザーとのコメントの入力や共同作業が可能です。
+Marketoのエンジニアが開発した試験的な機能を利用して、ユーザ体験を向上させます。 このリリースには、電子メールによる元に戻す機能に加え、ランディングページ上の他のユーザーとのコメントの入力や共同作業が可能です。
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
@@ -91,13 +91,13 @@ ON24とAdobe Connectで利用可能！ 新しい`{{member.webinar URL}}`トー�
 
 ## Microsoft Dynamics® CRM統合{#microsoft-dynamics-crm-integration}
 
-新しい事前設計された統合を使用して、MarketoとMicrosoft Dynamics CRM Onlineの間でアカウント、連絡先、およびリードを同期します。
+新しい事前設計された統合機能を使用して、MarketoとMicrosoft Dynamics CRM Onlineの間でアカウント、連絡先、およびリードを同期します。
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
 図11. Microsoft Dynamicsの構成
 
-## Marketo Sales Insightの機能強化{#marketo-sales-insight-enhancements}
+## Marketoセールスインサイトの強化{#marketo-sales-insight-enhancements}
 
 **購読解除フッターオプション**
 
@@ -109,7 +109,7 @@ Sales Insight経由で送信される電子メールに対して、購読解除�
 
 ## 販売用電子メールテンプレートのフォルダ{#folders-for-sales-email-templates}
 
-Marketo Sales Insightと共有する電子メールテンプレートを指定されたフォルダに整理できるようになり、担当営業が適切な電子メールを簡単に見つけられるようになりました。
+Marketoセールス・インサイトと共有する電子メール・テンプレートを指定されたフォルダに整理できるようになり、担当営業が適切な電子メールを簡単に見つけられるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ Marketo Sales Insightと共有する電子メールテンプレートを指定�
 
 ## Sales InsightからOpportunity Analyzerにアクセス{#access-opportunity-analyzer-from-sales-insight}
 
-Marketo Sales InsightのOpportunity Analyzerに直接アクセスして、マーケティングアクティビティが関与を促進しているインサイトをセールス担当者に提供します。 注意： Analyticsの売上サイクルのライセンスが必要です。
+Marketo・セールス・インサイトのOpportunity Analyzerに直接アクセスして、マーケティング・アクティビティが関与を促進しているインサイトを担当営業に提供します。 注意. Analyticsの売上サイクルのライセンスが必要です。
 
 ## 連絡先ステータスのカスタムフィールド{#custom-field-for-contact-status}
 
