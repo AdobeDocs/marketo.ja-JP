@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951099
-description: リリースノート — 2013年4月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年4月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年4月
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # リリースノート：2013年4月{#release-notes-april}
 
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 ## ボックスの統合{#box-integration}
 
-MarketorをBoxアカウントに接続して、ファイルをdesign studioに簡単にコピーできます。
+MarketoをBoxアカウントに接続して、ファイルを簡単にdesign studioにコピーできます。
 
 ![](assets/image2014-9-22-15-3a47-3a56.png)
 
-## Gmailプラグイン{#gmail-plugin}
+## Gmail プラグイン {#gmail-plugin}
 
-GmailだけでなくMarketto Sales Insightを使用している場合は、ChromeストアからGmailの新しいプラグインをインストールできます。 このプラグインを使用すると、Marketoを使用してメッセージをログに記録し、Marketo電子メールテンプレートを読み込んで、Marketo追跡機能と共にメッセージを送信できます。
+Gmailだけでなく、Marketoセールスインサイトもお使いの場合は、Chromeストアから新しいGmailプラグインをインストールできます。 このプラグインを使用すると、Marketoとのメッセージのログ、Marketoの電子メールテンプレートの読み込み、Marketoの追跡機能と共にメッセージを送信できます。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
-## 電子メール分析{#email-analysis}
+## メール分析 {#email-analysis}
 
 クリックアクティビティヒートグリッドレポートなど、売上高エクスプローラでアドバンス電子メールレポートを作成します。 このレポートは、電子メール内のリンクをクリックする日時を明らかにします。
 
@@ -41,4 +41,4 @@ SOAP API呼び出しでのプログラムのサポート。プログラムデー
 
 ## ON24機能強化{#on-enhancement}
 
-「役職」と「会社名」は、Marketo登録フォームからON24と同期されます。
+ジョブタイトルと会社名は、Marketo登録フォームからON24に同期されます。
