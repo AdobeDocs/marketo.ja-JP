@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2951040
-description: リリースノート — 2014年7月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年7月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年7月
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # リリースノート：2014年7月{#release-notes-july}
 
-2014年7月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
+2014年7月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
-## マーケティングカレンダー{#marketing-calendar}
+## マーケティングカレンダー {#marketing-calendar}
 
-すべてのプログラムのイベント、電子メールなどを表示します。 [この新](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 製品は、マーケティング担当者のリード管理者または対話ユーザーが10人以下のお客様に無料でご利用いただけます。
+イベント、メール、プログラム全体のその他の項目が一目で確認できます。[この新](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 製品は、10人以下のMarketoリードマネジメントまたは対話ユーザーのお客様が無料で利用できます。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
 マーケティングカレンダーのドキュメントは、リリース時に提供されます。
 
-## 新しいルック&amp;フィール{#new-look-and-feel}
+## 新しい外観と機能 {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-マーケティング担当者のリード管理は、最新でスタイリッシュな新しいルック&amp;フィールで更新され、ナビゲーションも更新されます。
+Marketoリード管理は、最新でスタイリッシュな新しい外観と操作性で更新され、ナビゲーションも更新されます。
 
 ## 日付演算子{#date-operators}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## プログラムスケジュール表示{#program-schedule-view}
+## プログラムスケジュールビュー {#program-schedule-view}
 
 イベントおよびデフォルトのプログラムを管理するマーケティングカレンダーに加えて、プログラム上に新しいスケジュール表示が表示されます。
 
@@ -56,11 +56,11 @@ ReSTのリスト操作に関連して、以下の呼び出しを追加しまし�
 
 ## 高速リストインポート{#fast-list-import}
 
-**50倍以上の速さで**、ファイルがMarketoにズームインします。 古い「通常」および「新しいリードに対して最適化」のインポートオプションは、「デフォルト（高速インポート）」に置き換えられました。
+**50倍以上の速さで**、ファイルがMarketoにズームインします！ 古い「通常」および「新しいリードに対して最適化」のインポートオプションは、「デフォルト（高速インポート）」に置き換えられました。
 
 「新しいリードと更新をスキップ」オプションは変更されません。
 
-## 新しい改良マンチキン！{#new-improved-munchkin}
+## Munchkin新たに更新! {#new-improved-munchkin}
 
 展開は7月中旬に開始され、今後数カ月間続きます。
 
