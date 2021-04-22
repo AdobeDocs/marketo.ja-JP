@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983390
-description: Azureにアプリを登録して、クライアントID/アプリIDを取得します — Marketto Docs — 製品ドキュメント
+description: Azureにアプリを登録して、クライアントID/アプリIDを取得します —Marketoドキュメント — 製品ドキュメント
 title: Azureにアプリを登録して、クライアントID/アプリIDを取得する
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Azureにアプリを登録して、クライアントID/アプリID {#register-an-app-with-azure-to-acquire-your-client-id-app-id}を取得します
 
@@ -87,4 +87,3 @@ Azure Active Directoryは、オンプレミスのディレクトリをクラウ�
    終わった！
 
    ![](assets/fifteen.png)
-
