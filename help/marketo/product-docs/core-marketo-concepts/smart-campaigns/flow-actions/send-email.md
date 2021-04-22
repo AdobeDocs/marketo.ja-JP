@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146948
-description: 電子メールの送信 — Marketto Docs — 製品ドキュメント
-title: 電子メールの送信
+description: 電子メールの送信 —Marketoドキュメント — 製品ドキュメント
+title: メールの送信
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# メールの送信 {#send-email}
 
-# 電子メールの送信{#send-email}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 **電子メール**&#x200B;の送信フローステップは、キャンペーンの一部として、またはユーザーに電子メールを送信する単一のフローステップとして使用できます。
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 選択した電子メールは、フローステップから直接プレビューできます。
 
