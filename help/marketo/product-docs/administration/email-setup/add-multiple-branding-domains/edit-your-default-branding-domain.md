@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: デフォルトのブランドドメイン — Marketto Docs — 製品ドキュメントの編集
+description: デフォルトのブランドドメインの編集 —Marketoドキュメント — 製品ドキュメント
 title: デフォルトのブランドドメインの編集
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # デフォルトのブランドドメインの編集{#edit-your-default-branding-domain}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Marketoにブランディングドメインを追加する前に、DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)で[CNAMEを設定していることを確認してください。
+>Marketoでブランドドメインを追加する前に、DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)で[CNAMEを設定していることを確認してください。
 
 1. **管理者**&#x200B;に移動し、**電子メール**&#x200B;をクリックします。
 
