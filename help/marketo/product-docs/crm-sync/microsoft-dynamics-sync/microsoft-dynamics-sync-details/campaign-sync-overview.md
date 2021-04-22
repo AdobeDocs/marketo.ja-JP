@@ -1,14 +1,14 @@
 ---
-description: キャンペーン同期の概要 — Marketto Docs — 製品ドキュメント
+description: キャンペーン同期の概要 —Marketoドキュメント — 製品ドキュメント
 title: キャンペーン同期の概要
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 translation-type: tm+mt
-source-git-commit: c68fe240d9447f9c217dcb258f0dae63c17d37f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # キャンペーン同期の概要{#campaign-sync-overview}
 
@@ -25,14 +25,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Microsoft** キャンペーンから削除すると、Marketoのフローアクションを使用して追加されたユーザーのみが削除されます。
+>**Microsoft** Campaignから削除すると、Marketoのフローアクションを使用して追加されたユーザーのみが削除されます。
 
 次の2つのトリガーもあります。
 
 * Microsoftキャンペーンに追加
 * Microsoftキャンペーンから削除
 
-トリガーは、Marketo Flowアクション「To Microsoft 追加キャンペーン」および「Removed from Microsoftキャンペーン」のアクションに基づいて実行されます。
+トリガーは、Marketo・フロー・アクション「Microsoftキャンペーンへ」および「Microsoftキャンペーンから削除」追加のアクションに基づいて実行されます。
 
 >[!NOTE]
 >
@@ -40,6 +40,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーン同期を有効にする](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [キャンペーン同期の有効化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
 >* [Dynamicsキャンペーン追加からユーザーを削除する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
 
