@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7511477
-description: スマートリストでの無操作フィルターの使用 — Marketto Docs — 製品ドキュメント
+description: スマートリストでの無操作フィルターの使用 —Marketoドキュメント — 製品ドキュメント
 title: スマートリストでの無操作フィルターの使用
+exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # スマートリストで無操作フィルターを使用する{#use-inactivity-filters-in-a-smart-list}
 
