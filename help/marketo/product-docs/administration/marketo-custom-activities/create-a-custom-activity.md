@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098479
-description: カスタムアクティビティの作成 — Marketto Docs — 製品ドキュメント
+description: カスタムアクティビティの作成 —Marketoドキュメント — 製品ドキュメント
 title: カスタムアクティビティの作成
+exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # カスタムアクティビティの作成{#create-a-custom-activity}
 
