@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360217
-description: Analyticsのアトリビューション設定の変更 — Marketto Docs — 製品ドキュメント
+description: Analyticsのアトリビューション設定の変更 —Marketoドキュメント — 製品ドキュメント
 title: Analyticsのアトリビューション設定の変更
+exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
 # Analyticsのアトリビューション設定の変更{#change-attribution-settings-for-analytics}
 
-ファーストタッチとマルチタッチのアトリビューション、リードコンバージョン指標、およびマーケティングの影響を受けるオポチュニティフラグに関する連絡先の関連付け方法を変更できます。
+ファーストタッチおよびマルチタッチのアトリビューション、リードコンバージョン指標、およびマーケティングの影響を受けるオポチュニティフラグに対する、Marketoの連絡先とオポチュニティとの関係を変更できます。
 
 これらの設定は、[プログラム商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)、[商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)およびリードの分析領域の下の売上高エクスプローラレポートに影響を与えます。 これは、プログラムアナライザーレポートにも影響します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >この設定を変更しても、マーケティング担当者のデータは変更されません。レポートの実行方法を変更するだけです。 この状態は、いつでも元に戻すことができます。
+   >この設定を変更してもMarketoのデータは変更されません。レポートの実行方法を変更するだけです。 この状態は、いつでも元に戻すことができます。
 
 1. オプションを選択し、「**保存**」をクリックします。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->**暗黙的**&#x200B;を使用する場合、Marketorは、ロールに関係なく、常にアカウントに関連付けられたすべての連絡先を調べます。 **明示的モードの使用を強くお勧めします**。Implicitを使用すると、偽陽性が発生する場合があります。例えば、機会に実際に影響を与えないにもかかわらず、機会に対する信用を持つ人。 「暗黙的」は慎重に使用してください。
+>**暗黙的**&#x200B;を使用する場合、Marketoは、ロールに関係なく、常にアカウントに関連付けられたすべての連絡先を調べます。 **Marketoでは、明示的モードの使用を強くお勧めします**。Implicitを使用すると、偽陽性が発生する場合があります。例えば、機会に実際に影響を与えないにもかかわらず、機会に対する信用を持つ人。 「暗黙的」は慎重に使用してください。
