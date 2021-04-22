@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949212
-description: SEO — ターゲットキーワードを使用した特定ページの最適化 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: SEO — ターゲットキーワードを使用した特定ページの最適化 —Marketoドキュメント — 製品ドキュメント
 title: SEO — 特定ページをターゲットキーワードで最適化
+exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # SEO — ターゲットキーワードを使用して特定ページを最適化{#seo-optimize-specific-pages-with-targeted-keywords}
 
