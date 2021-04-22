@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094647
-description: デフォルトのカスタムフィールドプレフィックスの設定 — Marketto Docs — 製品ドキュメント
+description: デフォルトのカスタムフィールドプレフィックスの設定 —Marketoドキュメント — 製品ドキュメント
 title: デフォルトのカスタムフィールドプレフィックスの設定
+exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
-
 
 # デフォルトのカスタムフィールドプレフィックスの設定{#set-a-default-custom-field-prefix}
 
