@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: リリースノート — 2014年12月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年12月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年12月
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # リリースノート：2014年12月{#release-notes-december}
 
-2014年12月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
+2014年12月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
 
 ## 販売インサイトレポート{#sales-insight-reports}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebookカスタムオーディエンス{#facebook-custom-audiences}
+## Facebookカスタムオーディエンス {#facebook-custom-audiences}
 
-Marketor管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)を介して[Facebookを追加すると、Facebookカスタムオーディエンスを簡単に作成、更新または[置換して、Marketorの静的またはスマートリスト](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)からのリードに置き換えることができます。 静的またはスマートリストのリードグリッドの下部にある新しいFacebookアイコンを探します。
+Marketoの管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)を介して[Facebookを追加すると、Facebookのカスタムオーディエンスを簡単に作成、更新、または[Marketoの静的またはスマートリスト](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)のリードに置き換えることができます。 静的またはスマートリストのリードグリッドの下部にある新しいFacebookアイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -43,7 +43,7 @@ Marketor管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-gen
 
 [別のワークスペースと共有されるスマートリストは、スマートリストまたはフローを構築する際に](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 参照できます。
 
-## リスト読み込みの改善{#list-import-improvements}
+## リストのインポートの改善 {#list-import-improvements}
 
 [UTF-16、Shift-JISまたはEUC-JPでエンコードされた](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ファイルを読み込みます。アドビでは、UTF-8でエンコードされたファイルを引き続きサポートします。
 
@@ -55,13 +55,13 @@ Marketor管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-gen
 
 2015年3月にデフォルトで有効になる、自動的にHTMLエンコードされたトークンに対する新しいセキュリティ機能を展開しました。 それまでは、Field Managementでこの機能を切り替えて、事前に動作をテストします。 すべてのリードと会社のトークンは、電子メールやランディングページに挿入されるとエンコードされます。 個々のフィールドのオプションも使用できます。
 
-## 新しいReST API呼び出し{#new-rest-api-calls}
+## 新規 ReST API コール {#new-rest-api-calls}
 
 リード&amp;アクティビティReST APIの3つの新しい呼び出し：
 
 ・リードパーティションの取得
 
-・リードの関連付け
+· リードの関連付け
 
 ・リードの結合
 
