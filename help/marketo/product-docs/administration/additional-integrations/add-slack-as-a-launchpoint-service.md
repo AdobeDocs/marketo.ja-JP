@@ -1,22 +1,22 @@
 ---
 unique-page-id: 12983619
-description: LaunchPointサービスとしての追加Slack- Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてのSlack-Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサービス追加としてのSlack
+exl-id: 38c1501d-27ac-4c6c-967d-4decd10e0cb3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサ追加ービス{#add-slack-as-a-launchpoint-service}としてのSlack
 
 Slack統合には、次の2つの通知タイプが含まれます。
 
-* **システム通知**:現在のキャンペーンのステータスや、直ちに対処する必要がある問題に関するアラート（CRMエラーおよびAPIの制限）など、Marketingインスタンスの重要なイベントに関するSlack通知を取得します。
-* **興味深い瞬間**:Marketon Insightが営業アカウントから既知の個人によってトリガーされた場合、リードの所有者にはSlackを介して通知できます。通知には、リード情報と営業アカウントに関する詳細が含まれます。
+* **システム通知**:現在のキャンペーンのステータスや、直ちに注意を必要とする問題（CRMエラーおよびAPIの制限）に関するアラートなど、Marketoインスタンスの重要なイベントに関するSlack通知を取得します。
+* **興味深い瞬間**:Marketoインサイトが営業アカウントから既知の個人によってトリガーされた場合、リードの所有者にはSlack経由で通知できます。通知には、リード情報と営業アカウントに関する詳細が含まれます。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Slack統合には、次の2つの通知タイプが含まれます。
 
 >[!PREREQUISITES]
 >
->Slackシステム通知を既に有効にしていない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>Slackシステム通知が既に有効になっていない場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. **LaunchPoint**&#x200B;に移動し、**新しい**&#x200B;の下にある&#x200B;**新しいサービス**&#x200B;をクリックします。
 
@@ -34,7 +34,7 @@ Slack統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. 「**許可**」をクリックします。 Slackが新しいタブに開きます。このタブでは、認証を完了し、マーケティング担当者にSlackから情報を取得する権限を与えます。
+1. 「**許可**」をクリックします。 新しいタブにSlackが開き、認証を完了し、Slackから情報を取り込む権限をMarketoに付与します。
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
@@ -46,7 +46,7 @@ Slack統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. 「**投稿先**」ドロップダウンで、マーケティングからの通知を投稿するチャネルを選択します。 要求された権限を確認し、「**許可**」をクリックします。
+1. **投稿先**&#x200B;ドロップダウンで、Marketoからの通知を投稿するチャネルを選択します。 要求された権限を確認し、「**許可**」をクリックします。
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
@@ -54,7 +54,7 @@ Slack統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/image2017-11-27-15-3a51-3a57.png)
 
-1. 「マーケティング」タブを更新し、SlackがLaunchPointでアクティブなサービスとして表示されていることを確認します。
+1. 「Marketo」タブを更新し、SlackがLaunchPointでアクティブなサービスとして表示されていることを確認します。
 
    ![](assets/image2017-11-27-15-3a55-3a37.png)
 
