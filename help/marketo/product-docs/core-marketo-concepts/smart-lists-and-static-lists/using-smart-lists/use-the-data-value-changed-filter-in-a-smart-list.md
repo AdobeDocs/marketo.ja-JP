@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557324
-description: スマートリスト- Marketto Docs — 製品ドキュメントで、データ値の変更フィルターを使用します。
+description: スマートリスト-Marketoドキュメント — 製品ドキュメントで、データ値の変更フィルターを使用する
 title: スマートリストでのデータ値の変更フィルターの使用
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # スマートリスト{#use-the-data-value-changed-filter-in-a-smart-list}でのデータ値の変更フィルターの使用
 
-値は常に変化し、Marketoデータベース内で更新されます。 特定の値を探す代わりに、値が変化した人を探したい場合があります。 これが方法です。
+値は常に変化し、Marketoのデータベースで更新されています。 特定の値を探す代わりに、値が変化した人を探したい場合があります。 これが方法です。
 
 >[!PREREQUISITES]
 >
