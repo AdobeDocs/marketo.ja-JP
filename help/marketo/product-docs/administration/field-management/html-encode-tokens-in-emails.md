@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: 電子メール — Marketto Docs — 製品ドキュメント内のHTMLエンコードトークン
-title: 電子メール内のHTMLエンコードトークン
+description: 電子メール —Marketoドキュメント — 製品ドキュメント内のHTMLエンコードトークン
+title: メールでの HTML エンコードトークン
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-
-# 電子メール{#html-encode-tokens-in-emails}内のHTMLエンコードトークン
+# メールでの HTML エンコードトークン {#html-encode-tokens-in-emails}
 
 電子メールで使用されるユーザートークンと会社トークンを有効/無効にします。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->エンコードは、文字をHTMLコードバージョンに変換し、送信時の混乱を防ぎます(例：「&amp;」は`&amp;`に変更されます)。 詳しくは、Web開発者にお問い合わせください。
+>エンコーディングは、文字をHTMLコードバージョンに変換して、送信時の混乱を防ぎます(例：「&amp;」は`&amp;`に変更されます)。 詳しくは、Web開発者にお問い合わせください。
 
 1. **管理者**&#x200B;に移動します。
 
