@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146958
-description: アラートの送信 — Marketto Docs — 製品ドキュメント
+description: アラートの送信 —Marketoドキュメント — 製品ドキュメント
 title: アラートの送信
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# アラートの送信 {#send-alert}
 
-# アラートの送信{#send-alert}
+## 概要 {#overview}
 
-## 概要{#overview}
-
-Marketorは、販売所有者、パートナー、その他の人に、個人情報を含む電子メールアラートを送信できます。 **警告**&#x200B;の送信のフローステップを使用します。
+Marketoは、販売主、パートナー、その他の人に、個人情報を記載した電子メールアラートを誰にでも送信できます。 **警告**&#x200B;の送信のフローステップを使用します。
 
 ![](assets/one-1.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. 送信する電子メールを探して選択します。
 
