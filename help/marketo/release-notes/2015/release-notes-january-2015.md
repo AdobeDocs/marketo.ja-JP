@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: リリースノート — 2015年1月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2015年1月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2015年1月
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：2015年1月{#release-notes-january}
 
-2015年1月リリースには、次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
+2015年1月リリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
 
 ## マーケティング自動化の更新{#marketing-automation-updates}
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 また、より高速なAPI呼び出しのために、リードの変更を非同期に書き込むための新しい同期リードのオプションも追加されました。 詳細は、[developers.marketo.com](https://developers.marketo.com)のリリース後に提供されます。
 
-**電子メールスクリプティングカスタムオブジェクトのサポート**
+**メールスクリプトのカスタムオブジェクトサポート**
 
 電子メールスクリプト内から、Accountオブジェクトに関連付けられたカスタムオブジェクトにアクセスできるようになりました。
 
-## リアルタイムパーソナライゼーション{#real-time-personalization}
+## リアルタイムパーソナライズ {#real-time-personalization}
 
-**GoogleおよびFacebook向けのパーソナライズされたリマーケティング**
+**パーソナライズドリマーケティング(GoogleおよびFacebook)**
 
 リマーケティングは、Webサイトを訪問した人に広告を表示します。 リアルタイムパーソナライゼーションのデータを使用して、[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)と[Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)のリマーケティングキャンペーンをパーソナライズできるようになりました。 様々な業界のオーディエンスに再マーケティングし、アカウントリスト、会社の規模、または既知のリードからの任意のデータを指定します。
 
