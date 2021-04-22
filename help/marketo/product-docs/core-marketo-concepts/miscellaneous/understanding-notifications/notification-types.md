@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953243
-description: 通知タイプ — Marketto Docs — 製品ドキュメント
+description: 通知タイプ —Marketoドキュメント — 製品ドキュメント
 title: 通知タイプ
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # 通知の種類{#notification-types}
 
 通知の種類はいくつかあります。
 
-## キャンペーンエラー{#campaign-failure}
+## キャンペーン失敗  {#campaign-failure}
 
 キャンペーンの失敗により、スマートキャンペーンのエラーが通知されます。
 
-## CRM同期{#crm-sync}
+## CRM 同期 {#crm-sync}
 
 CRM同期通知では、権限の誤りや同期の停止など、CRM同期で見つかった重要な問題について警告します。
 
@@ -35,7 +35,7 @@ Salesforceを使用している場合、同期エラー通知は次のように�
 
 ![](assets/salesforcesyncerror.png)
 
-関与
+エンゲージメント
 
 リードがストリーム内で使い果たされると、通知を送信します。  通知には、使い果たされたリードの数や他の情報が含まれます。
 
@@ -45,17 +45,17 @@ Facebook
 
 利用規約に同意せずにFacebookにリードを送信しようとする場合、またはMarketoアプリを削除した後でFacebookにリードを送信しようとする場合。
 
-アイドルトリガーキャンペーンのクリーンアップ
+アイドルトリガーキャンペーン・クリーンアップ
 
 アクティビティを取得しなくなったトリガー済みスマートキャンペーンを非アクティブ化します。 [トリガーキャンペーンの自動クリーンアップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)の詳細を表示します。
 
 LinkedIn
 
-3回試行した後に、Marketing Inで新しいオーディエンスを作成できない場合、新しい電子メール、ログインまたはLinkedInへの電子メールのプッシュができない場合。
+Marketoが3回試行した後に、新しいオーディエンス、ログイン、またはLinkedInへの電子メールのプッシュを作成できない場合。
 
 ![](assets/linkedin.png)
 
-Webサービス
+ウェブサービス
 
 1日の割り当てに達すると、通知が送信されます。 クォータは毎夜、中部標準時の午前0時にリセットされます。
 
