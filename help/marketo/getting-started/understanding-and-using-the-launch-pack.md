@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098962
-description: Launch Packの理解と使用 — Marketto Docs — 製品ドキュメント
+description: Launch Packの理解と使用 —Marketoドキュメント — 製品ドキュメント
 title: Launch Packの理解と使用
 translation-type: tm+mt
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
