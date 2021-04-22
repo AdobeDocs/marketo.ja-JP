@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949178
-description: SEOダッシュボードについて —SEOスナップショット — Marketto Docs — 製品ドキュメント
+description: SEOダッシュボードについて —SEOスナップショット —Marketoドキュメント — 製品ドキュメント
 title: SEOダッシュボードについて — SEOスナップショット
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEOダッシュボードについて：SEOスナップショット{#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -25,10 +25,10 @@ SEOの改善に焦点を当てるべき点を知るには、このダッシュ�
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
-| カラー | ランク |
+| 色 | ランク |
 |---|---|
-| 緑 | 検索の最初の結果 |
-| 黄色 | 2番目～ 10番目の検索結果 |
+| グリーン | 検索の最初の結果 |
+| イエロー | 2番目～ 10番目の検索結果 |
 | グレー | 検索結果は11 ～ 20番目 |
 
 >[!TIP]
@@ -39,7 +39,7 @@ SEOの改善に焦点を当てるべき点を知るには、このダッシュ�
 
 ## 平均ページ最適化スコア{#average-page-optimization-score}
 
-平均ページ最適化スコアは、サイト上のすべてのページを1 ～ 100のスケールで測定する独自のマーケティングスコアです。
+平均ページ最適化スコアは、サイト上のすべてのページを1 ～ 100のスケールで測定する独自のMarketoスコアです。
 
 これは、数十件のベストプラクティスの集まりに基づいています。 スコアが70以上の場合は、サイトが適切に最適化されていることを示します。
 
