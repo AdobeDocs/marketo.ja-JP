@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147247
-description: カスタムエントリタイプ — Marketto Docs — 製品ドキュメントの表示/非表示を切り替える
+description: カスタムエントリタイプの表示/非表示 —Marketoドキュメント — 製品ドキュメント
 title: カスタムエントリタイプの非表示と非表示の切り替え
+exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # カスタムエントリタイプの非表示と非表示{#hiding-and-unhiding-custom-entry-types}
 
