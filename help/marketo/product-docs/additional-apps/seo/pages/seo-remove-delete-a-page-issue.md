@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949264
-description: SEO — ページの問題の削除/削除 — Marketto Docs — 製品ドキュメント
+description: SEO — ページの問題の削除/削除 —Marketoドキュメント — 製品ドキュメント
 title: SEO — ページ雑誌号の削除
+exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # SEO — ページの問題を削除/削除{#seo-remove-delete-a-page-issue}
 
