@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: リリースノート — 2012年1月/2月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2012年1月/2月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2012年1月/2月
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # リリースノート：2012年1月/2月{#release-notes-jan-feb}
 
-1月/2月のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
+1月/2月のリリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
 
 ## 高度な動的コンテンツ{#advanced-dynamic-content}
 
@@ -23,7 +23,7 @@ _ProおよびEnterpriseバージョンで利用可能_
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## セグメント{#segmentation}
+## セグメンテーション  {#segmentation}
 
 _ProおよびEnterpriseバージョンで利用可能_
 
@@ -31,7 +31,7 @@ _ProおよびEnterpriseバージョンで利用可能_
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## スニペット{#snippets}
+## スニペット {#snippets}
 
 _ProおよびEnterpriseバージョンで利用可能_
 
@@ -47,15 +47,15 @@ _ProおよびEnterpriseバージョンで利用可能_
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## EUプライバシー指令のサポート{#eu-privacy-directive-support}
+## EU 電子プライバシ指令に対応 {#eu-privacy-directive-support}
 
 ブラウザーの「追跡しない」設定に関する新機能には、匿名リードの追跡を無効にする機能が含まれます。これにより、EUのより厳しいプライバシー追跡規制への準拠が容易になる。
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
-## シングルサインオン{#single-sign-on}
+## シングル サインオン {#single-sign-on}
 
-会社のポータルからのシングルサインオンにSAML 2.0を使用したMarketorアプリケーションへのシームレスなログインをサポートできるようになりました。
+会社のポータルからのシングルサインオンにSAML 2.0を使用したMarketoアプリケーションへのシームレスなログインをサポートできるようになりました。
 
 ## 更新された電子メールエディターとランディングページエディター{#updated-email-and-landing-page-editors}
 
@@ -84,7 +84,7 @@ HTMLとテキストの表示を並べて表示
 
 これで、購読をレポートから直接登録解除できます。
 
-## Munchkinの更新{#munchkin-updates}
+## Munchkin の更新 {#munchkin-updates}
 
 新しいMunchkin呼び出しにより、Webページの読み込み時間が短縮され、クリックリンクイベントのパフォーマンスがより一貫して向上しました。
 
