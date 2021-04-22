@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360293
-description: フィールド名の変更 — Marketto Docs — 製品ドキュメント
+description: フィールド名の変更 —Marketoドキュメント — 製品ドキュメント
 title: フィールド名の変更
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # フィールド名の変更{#rename-a-field}
 
 >[!NOTE]
 >
->Marketoでは、カスタムフィールドの名前を変更できますが、1つのキャッチがあります。削除する前に、システムでの使用をすべて削除する必要があります。 フォーム、スマートリスト、スマートキャンペーンが含まれます。
+>Marketoではカスタムフィールドの名前を変更できますが、1つのキャッチがあります。削除する前に、システムでの使用をすべて削除する必要があります。 フォーム、スマートリスト、スマートキャンペーンが含まれます。
 
 >[!NOTE]
 >
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-14-2-55.png)
 
-いい仕事！ これで、Marketoのフィールド名を変更する方法がわかりました。
+いい仕事！ これで、Marketoのフィールド名の変更方法がわかりました。
 
 >[!CAUTION]
 >
->SalesforceでAPI名を変更すると、Marketorは新しいフィールドを作成し、古いフィールドは残します。
+>SalesforceでAPI名を変更すると、Marketoは新しいフィールドを作成し、古いフィールドは残します。
