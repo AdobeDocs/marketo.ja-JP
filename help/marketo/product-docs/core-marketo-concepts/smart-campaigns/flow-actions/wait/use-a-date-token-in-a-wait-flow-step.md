@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146997
-description: 待機フロー手順 — Marketto Docs — 製品ドキュメントでの日付トークンの使用
+description: ウェイトフロー手順 —Marketoドキュメント — 製品ドキュメントでの日付トークンの使用
 title: 待機フロー手順での日付トークンの使用
+exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # 待機フロー手順での日付トークンの使用{#use-a-date-token-in-a-wait-flow-step}
 
