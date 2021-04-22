@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO — ページについて — Marketto Docs — 製品ドキュメント
+description: SEO — ページについて —Marketoドキュメント — 製品ドキュメント
 title: SEO — ページについて
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # SEO — ページについて{#seo-understanding-pages}
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
-| 列名 | 説明 |
+| 列名 | 詳細 |
 |---|---|
-| タイトル | ドメイン上のすべてのページのタイトルとURL。 ドメインを確認します。 |
+| 件名 | ドメイン上のすべてのページのタイトルとURL。 ドメインを確認します。 |
 | 最適化スコア | 1 ～ 100の範囲で検索用にページがどの程度最適化されているかを示すのに使用される秘密ソースです。 |
 | リンク | サイトへのインバウンドリンクが1つ以上ある異なるドメインの数。 |
 | ターゲットキーワード | 各ページの最適化対象となるキーワード。 [入力が必要です](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)。 |
@@ -46,11 +46,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
-| 列名 | 説明 |
+| 列名 | 詳細 |
 |---|---|
 | 問題 | 最適化スコアの向上に役立つ、実行できる項目のリストです。 |
 | 影響 | スコア全体に対する重要度。 最初に大きな影響を与える項目を修正してください。 |
 | カテゴリ | 報告される問題のタイプ。 |
-| ステータス | タスクが完了したか、まだ開いているか。 サイト上の問題をWebマスターと共に修正すると、ステータスは解決済み（緑のチェック）に変わります。 |
+| ステータス | タスクが完了したか、まだ開いているか。 サイト上の問題をWebマスターと共に修正すると、ステータスは解決済み（緑色のチェック）に変わります。 |
 
 すごいね、ページの基本がわかったので、[ページの詳細ドリルダウンの記事](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)を見て、できることをもっと素晴らしく学んでください。
