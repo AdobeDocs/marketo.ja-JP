@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: 連結文字列（数式）フィールドの作成と使用 — Marketto Docs — 製品ドキュメント
+description: 連結文字列（数式）フィールドの作成と使用 —Marketoドキュメント — 製品ドキュメント
 title: 連結文字列（数式）フィールドの作成と使用
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # 連結文字列（数式）フィールドの作成と使用{#create-and-use-a-concatenated-string-formula-field}
 
-複数のフィールドの値を組み合わせたり、マーケティング先の数式フィールドを使用して条件付きの値を作成したりできます。
+複数のフィールドの値を組み合わせたり、Marketo数式フィールドを使用して条件付きの値を作成したりできます。
 
 1. **管理者**&#x200B;に移動し、**フィールド管理**&#x200B;をクリックします。
 
