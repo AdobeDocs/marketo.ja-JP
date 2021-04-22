@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514985
-description: プログラムスケジュール表示- Marketto Docs — 製品ドキュメントで、バッチスマートキャンペーンの再スケジュールを行います。
+description: プログラムスケジュール表示-Marketoドキュメント — 製品ドキュメントでバッチスマートキャンペーンを再スケジュールする
 title: プログラムスケジュール表示でのバッチスマートキャンペーンの再計画
+exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # プログラムスケジュール表示{#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}でバッチスマートキャンペーンを再スケジュールする
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 素晴らしい！ スマートキャンペーンが再スケジュールされました。 また、エントリの詳細にある&#x200B;**日付**&#x200B;ドロップダウンから時刻を変更することもできます。
+1. OK！スマートキャンペーンが再スケジュールされました。 また、エントリの詳細にある&#x200B;**日付**&#x200B;ドロップダウンから時刻を変更することもできます。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
