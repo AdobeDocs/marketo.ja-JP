@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: Marketo Solution for Microsoft Dynamics - Marketto Docs — 製品ドキュメントをアップグレードします。
-title: Microsoft Dynamics用Marketor Solutionをアップグレードする
+description: Microsoft Dynamics用Marketoソリューションのアップグレード —Marketoドキュメント — 製品ドキュメント
+title: Microsoft Dynamics用Marketoソリューションのアップグレード
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# Microsoft Dynamics用Marketo Solutionの更新{#update-the-marketo-solution-for-microsoft-dynamics}
+# Microsoft Dynamics用Marketoソリューションの更新{#update-the-marketo-solution-for-microsoft-dynamics}
 
 新しいMicrosoft Dynamicsソリューションがリリースされると、アカウントの[管理者]領域からアップグレードをダウンロードできます。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->_がアップグレードを実行する前に、最新のMarketo Solution_&#x200B;をダウンロードする必要があります。
+>_がアップグレードを実行する前に、最新のMarketoソリューション_&#x200B;をダウンロードする必要があります。
 
 1. **管理者**&#x200B;領域に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 「**Marketto Solution**&#x200B;をダウンロード」を選択します。
+1. 「**Marketoソリューション**&#x200B;をダウンロード」を選択します。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/msd-online.png)
 
-   すごい！ ソリューションのzipファイルがデバイスにダウンロードされます。 インストール手順に慣れていない場合は、Dynamics管理者に問い合わせてください。
+   やりましたね！ソリューションのzipファイルがデバイスにダウンロードされます。 インストール手順に慣れていない場合は、Dynamics管理者に問い合わせてください。
 
 ## 更新の実行{#performing-the-update}
 
