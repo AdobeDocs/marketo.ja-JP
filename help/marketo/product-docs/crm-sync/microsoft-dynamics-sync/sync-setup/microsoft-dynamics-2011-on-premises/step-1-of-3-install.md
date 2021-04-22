@@ -1,29 +1,29 @@
 ---
 unique-page-id: 3571805
-description: 手順1/3 - Marketto Solution(2011 On-Premises)のインストール — Marketto Docs — 製品ドキュメント
-title: 手順1/3 - Marketto Solution(2011 On-Premises)のインストール
+description: 手順1/3 -Marketoソリューション（2011オンプレミス）のインストール —Marketoドキュメント — 製品ドキュメント
+title: 手順1/3 -Marketoソリューションのインストール（2011オンプレミス）
+exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# 手順1/3:Marketoソリューション(2011 On-Premises)のインストール{#step-of-install-the-marketo-solution-on-premises}
 
-# 手順1/3:Marketo Solution(2011 On-Premises)のインストール{#step-of-install-the-marketo-solution-on-premises}
-
-Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarketo Solutionをインストールする必要があります。
+Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarketoソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
->マーケティングをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
+>MarketoをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
 
 >[!PREREQUISITES]
 >
 >[Active Directoryフェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0、2.1、または3.0 (ADFS)が構成された[インターネット対応の展開](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD)が必要です。 **注意**:IFDドキュメントは、リンクをクリックすると自動的にダウンロードします。
 >
->[開始する前に、Marketo Lead Management ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Solutionをダウンロードします。
+>[開始の前に、Marketoリード管理](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) ソリューションをダウンロードしてください。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 「**参照**」をクリックします。 [ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)マーケティングリード管理ソリューションを選択します。 「**次へ**」をクリックします。
+1. 「**参照**」をクリックします。 [ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketoリード管理ソリューションを選択します。 「**次へ**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -75,15 +75,15 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 
    >[!NOTE]
    >
-   >「Marketto Lead Management completed with warning」というメッセージが表示される場合があります。 これは完全に期待されています。
+   >「Marketoリード管理は警告付きで完了しました」というメッセージが表示される場合があります。 これは完全に期待されています。
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketto Lead Managementが&#x200B;**すべてのソリューション**&#x200B;ページに表示されます。
+1. Marketoリードの管理が&#x200B;**すべてのソリューション**&#x200B;ページに表示されます。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 「Marketo Lead Management」を選択し、「**Publish All Customizations.**」をクリックします。
+1. 「Marketoリード管理」を選択し、「**すべてのカスタマイズを発行」をクリックします。**
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -91,8 +91,8 @@ Microsoft Dynamics On-PremisesとMarketoを同期する前に、DynamicsにMarke
 
 >[!CAUTION]
 >
->Marketto SDKのメッセージングプロセスを無効にすると、インストールが中断されます。
+>MarketoSDKメッセージングプロセスを無効にすると、インストールが中断されます。
 
 >[!MORELIKETHIS]
 >
->[手順2/3:Dynamics (2011 On-Premises)でMarketo Syncユーザーを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[手順2/3:DynamicsでのMarketo同期ユーザーのセットアップ（2011オンプレミス）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
