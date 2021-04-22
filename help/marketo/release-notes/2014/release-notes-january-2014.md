@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951050
-description: リリースノート — 2014年1月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年1月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年1月
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # リリースノート：2014年1月{#release-notes-january}
 
-2014年1月リリースには、次の機能が含まれています。 利用可能な機能については、[Marketo Edition](https://www.marketo.com/pricing/)を確認してください。
+2014年1月リリースには、次の機能が含まれています。 [Marketo版](https://www.marketo.com/pricing/)で利用可能な機能を確認してください。
 
-## Forms2.0 {#forms}
+## フォーム 2.0 {#forms}
 
 上昇：Forms2.0のドキュメントは近日公開予定です。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **独自のランディングページにFormsを簡単に埋め込む：**
 
-Marketorランディングページに配置されたフォームからhtmlコードを取り出し、iFrameにドロップする日々はなくなりました。 埋め込みコードを取得し、フォームをレンダリングするランディングページ上に配置します。 通常とライトボックスの2つのモード — サイト上のMarketoフォームをより柔軟に使用できます。
+Marketoのランディングページに配置されたフォームからhtmlコードを取り出し、iFrameにドロップする時代はなくなりました。 埋め込みコードを取得し、フォームをレンダリングするランディングページ上に配置します。 標準モードとライトボックスモードの2つは、サイト上のMarketoフォームをより柔軟に操作できるモードです。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
@@ -45,7 +45,7 @@ Marketorランディングページに配置されたフォームからhtmlコ�
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## プログラムメンバーシップ分析の追加フィールド{#additional-fields-in-program-membership-analysis}
+## プログラムメンバーシップ分析の追加フィールド {#additional-fields-in-program-membership-analysis}
 
 これで、[プログラムメンバーシップ分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)指標をリードと会社の属性で追加およびグループ化できます。 例えば、[業種]フィールドを追加して、プログラムのメンバーと成功の分割を表示できます。
 
