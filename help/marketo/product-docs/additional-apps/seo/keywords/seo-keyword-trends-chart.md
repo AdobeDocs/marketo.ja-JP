@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949680
-description: SEO — キーワードトレンドグラフ — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: SEO — キーワードトレンドグラフ —Marketoドキュメント — 製品ドキュメント
 title: SEO — キーワードのトレンドグラフ
+exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # SEO — キーワードのトレンドグラフ{#seo-keyword-trends-chart}
 
-キーワード[SERPランク](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が経時的にトレンドを示している様子を監視することが重要です。 進行状況を監視するには、このクールグラフを確認してください。
+キーワード[SERPランク](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)が経時的にトレンドを示している様子を監視することが重要です。 進行状況を監視するには、このクールグラフをオンにします。
 
 1. 「**キーワード**」セクションに移動します。
 
