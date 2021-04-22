@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949238
-description: SEO — 検索エンジンでの表示キーワードの結果 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: SEO — 検索エンジンでの表示キーワードの結果 —Marketoドキュメント — 製品ドキュメント
 title: SEO — 検索エンジンでの表示キーワードの結果
+exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # SEO — 検索エンジンでの表示キーワードの結果{#seo-view-keyword-results-in-search-engine}
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a34-3a16.png)
 
-1. すごい！ これで、キーワードの検索結果が新しいウィンドウに表示されます。
+1. やりましたね！これで、キーワードの検索結果が新しいウィンドウに表示されます。
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
