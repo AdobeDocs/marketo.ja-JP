@@ -1,14 +1,14 @@
 ---
-description: すべてのオブジェクトメタデータの書き出し — Marketto Docs — 製品ドキュメント
+description: すべてのオブジェクトメタデータを書き出し —Marketoドキュメント — 製品ドキュメント
 title: すべてのオブジェクトメタデータを書き出し
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
-
 
 # すべてのオブジェクトメタデータを書き出し{#export-all-object-metadata}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 ## オブジェクト{#objects}
 
 * リードフィールド(個人/会社)
-* マーケティングカスタムオブジェクト
+* Marketo カスタムオブジェクト
 * 標準アクティビティ
 * カスタムアクティビティ
 * チャネル
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## オブジェクトメタデータの書き出し{#export-object-metadata}
 
-1. 「マイマーケティング」で、**管理者**&#x200B;をクリックします。
+1. マイMarketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ブラウザーがMarketoからのポップアップをブロックしていないことを確認します。
+>ブラウザーで、Marketoからのポップアップがブロックされていないことを確認してください。
 
 データがCSVとしてエクスポートされます。
 
