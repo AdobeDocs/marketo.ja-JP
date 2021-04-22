@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099680
-description: カスタムオブジェクトデータのインポート — Marketto Docs — 製品ドキュメント
-title: カスタムオブジェクトデータの読み込み
+description: カスタムオブジェクトデータのインポート —Marketoドキュメント — 製品ドキュメント
+title: カスタムオブジェクトデータのインポート
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# カスタムオブジェクトデータの読み込み{#import-custom-object-data}
+# カスタムオブジェクトデータのインポート {#import-custom-object-data}
 
 カスタムオブジェクトデータをデータベースにインポートするのは簡単です。 会社でカスタムオブジェクトを使用する場合、詳しくは[会社でのカスタムオブジェクトの使用](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)を参照してください。
 
-1. 「My Marketo」で、**Database**&#x200B;に移動します。
+1. マイMarketoで、**Database**&#x200B;に移動します。
 
    ![](assets/db-1.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >カスタムオブジェクトレコードを作成または更新する場合は、重複除外フィールドを一意の識別子として使用します。 次の例では、**car**&#x200B;カスタムオブジェクトvin（車両ID番号）のDedupeフィールドを使用しています。 カスタムオブジェクトレコードのみを更新する場合は、重複除外モードとしてMarketo Guidを選択できます。
+   >カスタムオブジェクトレコードを作成または更新する場合は、重複除外フィールドを一意の識別子として使用します。 次の例では、**car**&#x200B;カスタムオブジェクトvin（車両ID番号）のDedupeフィールドを使用しています。 カスタムオブジェクトレコードのみを更新する場合は、「Dedupe Mode」に「MarketoGUID」を選択できます。
 
-1. 各列を「マーケティング先」フィールドにマップし、ドロップダウンから選択します。
+1. 各列をMarketoフィールドにマップし、ドロップダウンから選択します。
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >「**アラートの送信先：**」フィールドに電子メールアドレスを入力すると、インポートが完了したら、Marketorから電子メールが送信されます。
+   >[**アラートの送信先：**]フィールドに電子メールアドレスを入力すると、インポートが完了した時にMarketoから電子メールが送信されます。
 
 1. 画面の右上隅には、インポートの実行中に通知が表示され、完了時に最終的な結果が表示されます。
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Marketoのカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
