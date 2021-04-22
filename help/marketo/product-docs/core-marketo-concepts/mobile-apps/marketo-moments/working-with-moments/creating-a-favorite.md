@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783555
-description: お気に入りの作成 — Marketto Docs — 製品ドキュメント
+description: お気に入りの作成 —Marketoドキュメント — 製品ドキュメント
 title: お気に入りの作成
+exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
-
 
 # お気に入りの作成{#creating-a-favorite}
 
