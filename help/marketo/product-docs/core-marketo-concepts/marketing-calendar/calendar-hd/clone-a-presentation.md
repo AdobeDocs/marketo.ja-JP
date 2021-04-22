@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504058
-description: プレゼンテーションのコピー — Marketto Docs — 製品ドキュメント
+description: プレゼンテーションのコピー —Marketoドキュメント — 製品ドキュメント
 title: プレゼンテーションのコピー
+exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # プレゼンテーションのコピー{#clone-a-presentation}
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
-   素晴らしい！ プレゼンテーションの正確なコピーが存在します。
+   OK！プレゼンテーションの正確なコピーが存在します。
