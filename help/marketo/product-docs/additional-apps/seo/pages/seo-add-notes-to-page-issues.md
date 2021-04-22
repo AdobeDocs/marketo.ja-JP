@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949220
-description: SEO — ページの追加問題に関する注意事項 — Marketto Docs — 製品ドキュメント
+description: SEO — ページの問題に関する追加注意事項 —Marketoドキュメント — 製品ドキュメント
 title: SEO -追加ページに関する注意事項
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # SEO — ページの追加問題に関する注意{#seo-add-notes-to-page-issues}
 
