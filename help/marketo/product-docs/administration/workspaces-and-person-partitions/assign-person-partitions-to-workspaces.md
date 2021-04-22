@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360317
-description: PersonパーティションのWorkspacesへの割り当て — Marketto Docs — 製品ドキュメント
+description: 個人パーティションのワークスペースへの割り当て —Marketoドキュメント — 製品ドキュメント
 title: PersonパーティションのWorkspacesへの割り当て
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # PersonパーティションをWorkspacesに割り当て{#assign-person-partitions-to-workspaces}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-おめでとう！ ワークスペースが正常に編集されました。
+おめでとうございます！ワークスペースが正常に編集されました。
 
 >[!MORELIKETHIS]
 >
