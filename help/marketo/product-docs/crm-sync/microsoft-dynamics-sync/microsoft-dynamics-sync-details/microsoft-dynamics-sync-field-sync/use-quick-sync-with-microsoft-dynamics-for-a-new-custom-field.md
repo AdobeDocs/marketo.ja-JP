@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098379
-description: Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールド — Marketto Docs — 製品ドキュメント
+description: Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する —Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamicsとのクイック同期を使用して新しいカスタムフィールドを作成する{#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 通常は、Quick Syncを使用して新しいフィールドを追加し、値を更新します。 ただし、既存のフィールドを同期する場合があります。 更新または作成した日付範囲に基づいて、フィールドの同期を制限できます。 詳しくは、[詳細な同期オプション](#Advanced_Sync_Options)を参照してください。
 
-Quick SyncはNULL値を同期できます。 例えば、AとBの値を使用し、DynamicsのBの値をnullに変更すると、Null値はMarketoに同期されます。
+Quick SyncはNULL値を同期できます。 例えば、AとBの値を使用し、DynamicsのBの値をnullに変更すると、null値はMarketoに同期されます。
 
 ## すべてのレコードのクイック同期{#quick-sync-for-all-records}
 
 クイック同期を使用して新しいフィールドを再同期する方法を次に示します。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -75,7 +75,7 @@ Quick SyncはNULL値を同期できます。 例えば、AとBの値を使用し
 
 ## 非同期フィールドの修正{#fixing-out-of-sync-fields}
 
-まれに、DynamicsとMarketoのフィールドが同期されない場合は、すばやく簡単に再同期できます。
+ダイナミクスとMarketoのフィールドが同期していない場合はまれに、再同期をすばやく簡単に行うことができます。
 
 1. フィールドの選択を解除し、「**保存**」をクリックします。
 
