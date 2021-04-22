@@ -1,23 +1,23 @@
 ---
 unique-page-id: 557339
-description: 重複人物の検索と結合 — Marketto Docs — 製品ドキュメント
+description: 重複ユーザーの検索と結合 —Marketoドキュメント — 製品ドキュメント
 title: 重複ユーザーの検索と結合
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
 # 重複ユーザーの検索と結合{#find-and-merge-duplicate-people}
 
-新しい人がシステムに入ると、重複が自動的に取り消されます。 ただし、CRMが最初に重複をMarketorに送信した可能性があります。 これらを統合する方法を次に示します。
+Marketoは、新しい人がシステムに入ると自動的に重複を取り消します。 ただし、CRMが最初に重複をMarketoに送信した可能性があります。 これらを統合する方法を次に示します。
 
 >[!NOTE]
 >
->Marketorは、SalesforceまたはMicrosoft Dynamicsの同期に対して、またはユーザーを手動で入力した場合に、自動的に重複除外を実行しません。
+>Marketoは、SalesforceまたはMicrosoft Dynamicsの同期に対する重複除外を自動的に行わないか、またはユーザーを手動で入力した場合に重複除外を行いません。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Salesforce個人アカウントを使用している場合、Marketorでのユーザーの結合が機能しない場合があります。 可能な場合は、Salesforceのレコードを結合してください。
+   >Salesforce個人アカウントを使用している場合、Marketoでのユーザーの結合は機能しない場合があります。 可能な場合は、Salesforceのレコードを結合してください。
 
 1. **可能な重複**&#x200B;システムスマートリストを選択し、「**人**」タブをクリックします。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ユーザーをマージする際、敗者にマーケティングのカスタムオブジェクトがある場合、****&#x200B;は勝者に再関連付けされません。 結合を実行する前に、カスタムオブジェクトの親を再度設定してください。
+>人を結合する際に、敗れた人物がMarketoのカスタムオブジェクトを持っている場合、その人物は勝者に再び関連付けられません。**** 結合を実行する前に、カスタムオブジェクトの親を再度設定してください。
 
 1. Ctrl/Commandキーを押しながらクリックし、「**人を結合**」をクリックして重複を選択します。
 
