@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: Marketo Sync - Marketto Docs — 製品ドキュメントに追加対する既存のSalesforceフィールド
-title: マーケティ追加ング担当者との同期に使用する既存のSalesforceフィールド
+description: Marketo同期 —追加Marketoドキュメント — 製品ドキュメントの既存のSalesforceフィールド
+title: Marketo同期追加の既存のSalesforceフィールド
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# Marketo Sync &lt;a0追加/>に対する既存のSalesforceフィールド{#add-an-existing-salesforce-field-to-the-marketo-sync}
+# 追加Marketo同期{#add-an-existing-salesforce-field-to-the-marketo-sync}に対する既存のSalesforceフィールド
 
 >[!NOTE]
 >
 >**必要な管理者権限**
 
-通常、Salesforceの新しいカスタムフィールドは、自動的にMarketoに同期されます。 そうでない場合は、Marketor Syncユーザーに対してこれらのフィールドが表示されない場合があります。 この問題を解決する方法を次に示します。
+通常、Salesforceの新しいカスタムフィールドは、自動的にMarketoに同期されます。 そうでない場合は、これらのフィールドはMarketo同期ユーザーに表示されない場合があります。 この問題を解決する方法を次に示します。
 
 1. 名前をクリックし、**セットアップ**&#x200B;を選択します。
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
-   甘い！ 次の同期サイクルで、Marketoはフィールドと開始に魔法を見せます。
+   甘い！ 次の同期サイクルで、Marketoはフィールドと開始に魔法を見る。
 
    >[!NOTE]
    >
-   > Salesforceにフィールドに既に値が含まれている場合、これらの値は、次のレコードが更新されるまで、Marketoに同期されません。
+   > Salesforceにフィールドに既に値が含まれている場合、これらの値は、次のレコードが更新されるまでMarketoに同期されません。
