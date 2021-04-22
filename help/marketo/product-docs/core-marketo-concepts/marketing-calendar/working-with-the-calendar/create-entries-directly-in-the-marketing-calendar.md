@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953348
-description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントに直接エントリを作成する
+description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメントでの直接エントリの作成
 title: マーケティングカレンダーでのエントリの直接作成
+exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # マーケティングカレンダーでの直接エントリの作成{#create-entries-directly-in-the-marketing-calendar}
 
-Marketing Targetでは、プログラムフォーカスモードを使用して、マーケティングカレンダーに直接エントリを作成できます。 次のエントリタイプを作成できます。
+Marketoでは、プログラムフォーカスモードを使用して、マーケティングカレンダーに直接エントリを作成できます。 次のエントリタイプを作成できます。
 
 * 基本エントリ
 * カスタムエントリ
-* 電子メールプログラム
+* メールプログラム
 * スマートキャンペーン
 
 これが方法です。
