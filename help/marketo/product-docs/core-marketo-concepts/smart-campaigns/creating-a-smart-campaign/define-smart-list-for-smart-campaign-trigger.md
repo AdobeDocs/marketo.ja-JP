@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146942
-description: スマートキャンペーンのスマートリストの定義 |トリガー- Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンのスマートリストの定義 |トリガー-Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンのスマートリストの定義 |トリガー
+exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # スマートキャンペーンのスマートリストの定義 |トリガー{#define-smart-list-for-smart-campaign-trigger}
 
