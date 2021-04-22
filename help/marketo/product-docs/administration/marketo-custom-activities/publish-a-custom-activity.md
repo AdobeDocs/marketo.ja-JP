@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100272
-description: カスタムアクティビティの公開 — Marketto Docs — 製品ドキュメント
+description: カスタムアクティビティの公開 —Marketoドキュメント — 製品ドキュメント
 title: カスタムアクティビティの公開
+exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # カスタムアクティビティの発行{#publish-a-custom-activity}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. **データベース管理**&#x200B;で、**カスタムアクティビティ**&#x200B;をクリックします。
+1. **データベース管理**&#x200B;で、**Marketoカスタムアクティビティ**&#x200B;をクリックします。
 
    ![](assets/two-2.png)
 
