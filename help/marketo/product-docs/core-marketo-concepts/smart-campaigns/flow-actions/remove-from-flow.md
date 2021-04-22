@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147084
-description: フローから削除 — Marketto Docs — 製品ドキュメント
+description: フローから削除 —Marketoドキュメント — 製品ドキュメント
 title: フローから削除
+exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# フローから削除{#remove-from-flow}
+# フローから削除 {#remove-from-flow}
 
 「アラートの送信」を使用して、販売担当者にホット・見込み客の呼び出しを促すスマートなキャンペーン・フローがあるとします。 担当者が通話を行うまで、毎日1つのメッセージが送信されます。 見込み客に連絡した後で、トリガーキャンペーンで「フローから削除」を使用して、それ以上のアラートを停止できます。 人にとってスマートなキャンペーンエジェクターシートのようです
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >これは通常、キャンペーンフローの待機ステップに座っている人に影響を与えます。
 
-## 概要{#overview}
+## 概要 {#overview}
 
 **フロー**&#x200B;から削除フローステップを使用すると、キャンペーンのフローからユーザーを削除できます。
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 ユーザーを削除するスマートキャンペーンを見つけて選択します。
 
