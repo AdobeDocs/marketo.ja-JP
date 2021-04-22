@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951097
-description: リリースノート — 2013年5月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年5月
+exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # リリースノート：2013年5月{#release-notes-may}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
-## モデルのメンバーシップタブ{#model-membership-tab}
+## モデル メンバーシップ タブ {#model-membership-tab}
 
 モデルメンバーのすべてのデータを1か所に表示し、監視とトラブルシューティングを容易に行う。 新しい「メンバー」タブは、承認済の収益サイクル・モデルを選択した場合に使用できる読取り専用表示です。
 
