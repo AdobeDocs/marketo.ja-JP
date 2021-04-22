@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951259
-description: カスタムフィールドタイプ用語集 — Marketto Docs — 製品ドキュメント
+description: カスタムフィールドタイプ用語集 —Marketoドキュメント — 製品ドキュメント
 title: カスタムフィールドタイプ用語集
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # カスタムフィールドタイプ用語集{#custom-field-type-glossary}
 
-マーケティングでカスタムフィールドを作成する場合は、タイプをリストして選択できます。
+Marketoでカスタムフィールドを作成する場合、タイプをリストできます。
 
 >[!PREREQUISITES]
 >
->[Marketorでのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Marketoでカスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >ほとんどのフィールドは、最大文字数ではなく、バイト数です。 そのため、各フィールドに最終的な文字制限を設けることはできません。 例外は&#x200B;**String**&#x200B;で、最大255文字です。
 
-## ブール値{#boolean}
+## ブール値 {#boolean}
 
 **名前の例：** is Customer — ユーザーに顧客のタグを付ける
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **演算子**:なし
 
-## 通貨{#currency}
+## 通貨 {#currency}
 
 **例名：** Budget -会社の予算に対する数値を格納する
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 **演算子**:が次の値を超える、次の値を超えない、次の値を超える、次よりも小さい、最低でも多い、最大でも空でない、
 
-## 日付{#date}
+## 日付 {#date}
 
 **名前の例：** 更新日 — 顧客の更新日を保存する
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 **演算子**:がIs、Not Between、Pess Between、Pess Before、Future In、In time frame、After、OnまたはBefore、Emptyの場合、空ではありません
 
-## 日時{#datetime}
+## 日時 {#datetime}
 
 **例名：** 作成日 — 人が作成された日時を格納します。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 **演算子**:がIs、Not Between、Pess Between、Pess Before、Future In、In time frame、After、OnまたはBefore、Emptyの場合、空ではありません
 
-## 電子メール{#email}
+## Email {#email}
 
 **例名：** 代替電子メール — ユーザーの代替電子メールアドレスを保持します（実際には、デフォルトの電子メールアドレスフィールドのように、特別な電子メールアドレスをこのフィールドに送信することはできません）
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 **演算子**:がis、is、not、がある開始、not開始と、contains、not contains、is empty、not empty
 
-## 浮動小数点{#float}
+## 浮動 {#float}
 
 **例名：** 等級ポイント平均 — 個人の等級ポイント平均または小数点を持つその他の数値を保持します。
 
@@ -75,13 +75,13 @@ ht-degree: 0%
 
 **演算子**:between、greater than、less、least than、lest、mast、empty、not empty
 
-## 数式{#formula}
+## 数式 {#formula}
 
 **例：** 挨拶 — この特別なフィールドを [ソリューションで使用して、性別に基づいて適切な](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 挨拶を得ます。
 
 **例の値：リンクされたソリューションの** 確認
 
-## 整数{#integer}
+## 整数 {#integer}
 
 **例名：従業員** 数 — 小数を必要としない数値を格納する
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 **演算子**:が次の値を超える、次の値を超えない、次の値を超える、次よりも小さい、最低でも多い、最大でも空でない、
 
-## パーセント{#percent}
+## パーセント {#percent}
 
 **例名：** 購入する可能性が高い — 割合の値を格納する（おそらくCRM側で計算される）
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
 **演算子**:が次の値を超える、次の値を超えない、次の値を超える、次よりも小さい、最低でも多い、最大でも空でない、
 
-## 電話{#phone}
+## 電話 {#phone}
 
 **例名：** 代替電話 — ユーザーに追加の電話番号を保存する
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 **演算子**:がis、is、not、がある開始、not開始と、contains、not contains、is empty、not empty
 
-## スコア{#score}
+## スコア {#score}
 
 **例名：** 行動スコア/人口統計スコア — 複数のスコアフィールドを作成して、異なる属性を追跡します。
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 **演算子**:が次の値を超える、次の値を超えない、次の値を超える、次よりも小さい、最低でも多い、最大でも空でない、
 
-## 文字列{#string}
+## 文字列 {#string}
 
 **例名：** ミドルネーム — 追加のテキスト属性を格納する
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 **演算子**:がis、is、not、がある開始、not開始と、contains、not contains、is empty、not empty
 
-## テキスト領域{#text-area}
+## テキストエリア {#text-area}
 
 **例名：** コメント — 複数行にわたるテキストの入力を許可するために、フォームにコメントフィールドを追加します。
 
