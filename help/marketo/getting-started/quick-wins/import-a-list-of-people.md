@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: 人物のリストの読み込み — Marketto Docs — 製品ドキュメント
+description: 人 —Marketoドキュメント — 製品ドキュメントのリストのインポート
 title: 人物のリストのインポート
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ユーザーのリストのインポート{#import-a-list-of-people}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >イベントプログラムは特定の日付に発生します。 [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)&#x200B;の詳細。
 
-## 手順3:スプレッドシートをMarketorにインポート{#step-import-your-spreadsheet-into-marketo}
+## 手順3:スプレッドシートをMarketoにインポート{#step-import-your-spreadsheet-into-marketo}
 
 1. **マイトレードショープログラム**&#x200B;で、**新規**&#x200B;をクリックし、**新規ローカルアセット**&#x200B;を選択します。
 
@@ -100,11 +100,11 @@ ht-degree: 0%
    >リストインポートモードで、「**新しい人をスキップして更新**」を選択すると、既存の人のレコードに影響を与えず、アクティビティを記録しません。 マーケティングアクティビティで使用する既存のユーザーを、事前にフィルタリングされた迅速な静的リストにしたい場合に、このモードを使用します。 このモードを選択すると、次の操作が行われます。
    >
    > * 新しい人物の作成をスキップ
-   > * 個人フィールドの更新をスキップ
-   > * アクティビティログをスキップ
+   > * 担当者フィールドの更新をスキップ
+   > * アクティビティログへの記録をスキップ
 
 
-1. リスト列のフィールドを対応するマーケティング先フィールドにマップし、**次へ**&#x200B;をクリックします。
+1. リスト列のフィールドをそれぞれのMarketoフィールドにマップし、**次へ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >インポートしないフィールドがある場合は、「マーケティング先フィールド」ドロップダウンメニューで「**無視**」を選択します。
+   >読み込まないフィールドがある場合は、[Marketoフィールド]ドロップダウンメニューの[**無視**]を選択します。
 
 1. ****&#x200B;獲得プログラム&#x200B;**に対して「マイトレードショープログラム**」を選択し、**インポート**&#x200B;をクリックします。
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 ## ミッション完了{#mission-complete}
 
-トレードショーの出席者は、Marketoプログラムのメンバーになりました。
+出席者はMarketoプログラムのメンバーです！
 
 <br> 
 
