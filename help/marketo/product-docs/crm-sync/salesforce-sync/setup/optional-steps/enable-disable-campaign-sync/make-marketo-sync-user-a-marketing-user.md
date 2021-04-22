@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782944
-description: マーケティングユーザーを同期させる — マーケティングユーザー向け — Markettoドキュメント — 製品ドキュメント
-title: マーケティングユーザーの同期をマーケティングユーザーにする
+description: Marketo同期ユーザーをマーケティングユーザーにする —Marketoドキュメント — 製品ドキュメント
+title: Marketo同期ユーザーをマーケティングユーザーにする
+exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
+# Marketo同期ユーザーをマーケティングユーザーにする{#make-marketo-sync-user-a-marketing-user}
 
-# マーケティングユーザーを同期するマーケティングユーザー{#make-marketo-sync-user-a-marketing-user}
-
-Salesforceキャンペーン同期が正しく機能するには、[ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)を同期するマーケティングユーザーである必要があります。 Salesforceでユーザをマーケティングユーザにする方法を次に示します。
+[Marketo同期ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)は、Salesforceキャンペーン同期が正しく動作するためには、マーケティングユーザーである必要があります。 Salesforceでユーザをマーケティングユーザにする方法を次に示します。
 
 >[!NOTE]
 >
@@ -35,4 +35,4 @@ Salesforceキャンペーン同期が正しく機能するには、[ユーザー
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
-   素晴らしい！ このマーケティングツールの同期ユーザーは、マーケティングユーザーになりました。
+   OK！このMarketo同期ユーザーは、現在マーケティングユーザーです。
