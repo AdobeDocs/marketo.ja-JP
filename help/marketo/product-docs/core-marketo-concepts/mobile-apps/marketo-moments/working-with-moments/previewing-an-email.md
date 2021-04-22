@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783563
-description: 電子メールのプレビュー — Marketto Docs — 製品ドキュメント
+description: 電子メールのプレビュー —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのプレビュー
+exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールのプレビュー{#previewing-an-email}
 
