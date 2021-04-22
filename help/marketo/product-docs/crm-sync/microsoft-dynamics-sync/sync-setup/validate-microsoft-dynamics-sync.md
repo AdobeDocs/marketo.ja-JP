@@ -1,25 +1,25 @@
 ---
 unique-page-id: 8783322
-description: Microsoft Dynamics Syncの検証 — Marketto Docs — 製品ドキュメント
+description: Microsoft Dynamics同期の検証 —Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics同期の検証
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics同期の検証{#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>Dynamics SyncでMulti-Factor Authentication (MFA)が有効になっている場合、DynamicsがMarketoと正しく同期するには、これを無効にする必要があります。 詳しくは、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-## マーケティングで「同期の検証」を実行{#run-validate-sync-in-marketo}
+## Marketoで同期の検証を実行{#run-validate-sync-in-marketo}
 
-同期の検証ツールを実行して、Microsoft Dynamics SyncとMarketorの最終的な接続を確立する前に、Microsoft Dynamics Syncが正しく設定されていることを確認することが非常に重要です。 このプロセスでは、問題が存在する場所を特定する7つの設定手順のチェックリストが生成されます。 これらが正しく行われたことを確認すると、後で多くの時間を節約できます。
+同期の検証ツールを実行して、Microsoft DynamicsとMarketoの同期が正しく設定されていることを確認してから、同期の検証ツールを実行することが非常に重要です。 このプロセスでは、問題が存在する場所を特定する7つの設定手順のチェックリストが生成されます。 これらが正しく行われたことを確認すると、後で多くの時間を節約できます。
 
 1. [**管理者**]タブをクリックし、[統合]領域の[**Microsoft Dynamics**]リンクをクリックします。
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >現在、Marketo Dynamics Syncのサンドボックス更新をサポートしていません。 Dynamics CRMサンドボックスを更新する必要がある場合は、新しいMarketo Sandboxが必要になります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+   >現在、Marketoダイナミクス同期のサンドボックス更新をサポートしていません。 Dynamics CRMサンドボックスを更新する必要がある場合は、新しいMarketoサンドボックスが必要です。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 >[!MORELIKETHIS]
 >
