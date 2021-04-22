@@ -1,18 +1,18 @@
 ---
-description: プログラムメンバーデータの変更 — Marketto Docs — 製品ドキュメント
-title: プログラムメンバデータの変更
+description: プログラムメンバーデータの変更 —Marketoドキュメント — 製品ドキュメント
+title: プログラムメンバーの変更
+exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
+# プログラムメンバーの変更 {#change-program-member-data}
 
-# プログラムメンバデータの変更{#change-program-member-data}
-
-マーケティング担当者は、データ値の変更フローアクションを利用してフィールドの値を更新できます。
+Marketoを使用して、Change Data Valueフローアクションを利用してフィールドの値を更新できます。
 
 >[!NOTE]
 >
