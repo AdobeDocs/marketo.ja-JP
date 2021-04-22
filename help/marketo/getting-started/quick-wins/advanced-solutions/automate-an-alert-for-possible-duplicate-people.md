@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: 考えられる重複者に対するアラートの自動化 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: 可能な重複者に対するアラートの自動化 —Marketoドキュメント — 製品ドキュメント
 title: 重複の可能性があるユーザーに対するアラートの自動化
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 考えられる重複の人に対するアラートの自動化{#automate-an-alert-for-possible-duplicate-people}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. [新しいスマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。次のスマートリストを定義します。
 
-* トリガー：**人物は作成されました**
+* トリガー:**人物は作成されました**
 * フィルタ：**重複フィールド。** Field Name  **is Full Name**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-それだ！ このスマートキャンペーンは、既存のフルネームを持つ新しいユーザーがMarketoで作成されるたびにトリガーされます。
+それだ！ このスマートキャンペーンは、既存のフルネームを持つ新しい人がMarketoで作成されるたびにトリガーを行います。
 
 >[!MORELIKETHIS]
 >
