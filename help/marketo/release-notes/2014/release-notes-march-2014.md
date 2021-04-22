@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951046
-description: リリースノート — 2014年3月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年3月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年3月
+exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # リリースノート：2014年3月{#release-notes-march}
 
-2014年3月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能のナレッジベース記事へのリンクに戻ってください。
+2014年3月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能のナレッジベース記事へのリンクに戻ってください。
 
 ## 電子メールプログラムダッシュボードの更新ボタン{#email-program-dashboard-refresh-button}
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
-## プログラムのパフォーマンスレポートのプログラムステータス列{#program-status-columns-in-program-performance-report}
+## プログラム効果レポートのプログラムステータス列 {#program-status-columns-in-program-performance-report}
 
 [プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)を使用すると、プログラムのステータスを示す人の数を確認できます。
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
-## Analyticsの包括的なプログラムと運用上の方法{#inclusive-and-operational-programs-for-analytics}
+## アナリティクス向けプログラムとアナリティクス向けオペレーショナル プログラムを含める {#inclusive-and-operational-programs-for-analytics}
 
 プログラムチャネルを編集する際に「Analyticsの動作」オプションを「包括的」に設定することで、売上高エクスプローラーおよびアナライザーで期間コストのかからないプログラムを[含めることができるようになりました。 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)また、「Operational」を選択して、オペレーショナル・プログラムをレポートからすべて除外することもできます。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## リードコンバージョンのハイブリッドおよび暗黙的なオプション{#hybrid-and-implicit-options-for-lead-conversion}
 
-リード分析のリードコンバージョン指標に関する連絡先やオポチュニティとマーケティング担当者との関係を変更できます。 アトリビューション設定[は、3つの選択肢の1つに](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)変更できます。 この設定を変更しても、MarketorまたはCRMのデータは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
+リード分析で、リードコンバージョン指標に関する連絡先やオポチュニティとMarketoとの関係を変更できます。 アトリビューション設定[は、3つの選択肢の1つに](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)変更できます。 この設定を変更しても、MarketoやCRMのデータは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
 
 「明示的」設定では、オポチュニティ内のロールを持つ連絡先は、コンバージョン済みリード（デフォルトの動作）としてのみ扱われます。 暗黙的に指定すると、ロールに関係なく、オポチュニティのアカウントに関連付けられているすべての連絡先が、コンバージョン済みとして扱われます。 ハイブリッドは、ロールを持つ連絡先がある場合、変換済みとして処理します。なしの場合は、アカウント内のすべての連絡先が変換済みとして扱われます。
 
@@ -51,12 +51,12 @@ ht-degree: 0%
 
 ## 追加のユーザー言語{#additional-user-language}
 
-[Marketo Application Language](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択します。 マーケティング担当者の管理インターフェイスをお好みの言語で表示し、日本語をサポートします。
+[Marketoアプリケーション言語](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択します。 Marketoリード管理インターフェイスをお客様の好みの言語で表示し、日本語をサポート。
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
-## マーケティング開発者ブログ{#marketo-developer-blog}
+## Marketo デベロッパブログ {#marketo-developer-blog}
 
-[Marketo Developerのブログ](https://developers.marketo.com/blog/)は、急速に発展する現代マーケターのニーズをサポートするWeb開発者やソフトウェアエンジニアに捧げています。 新しい統合オプション、APIバージョンの更新、およびMarketoプラットフォームとの統合に関するコードサンプルとベストプラクティスを含む新しいハウツー記事に関するお知らせを登録できます。
+[Marketo開発者ブログ](https://developers.marketo.com/blog/)は、急速に発展する現代マーケターのニーズを支援するウェブ開発者やソフトウェアエンジニアに捧げている。 新しい統合オプション、APIバージョンの更新、およびMarketoプラットフォームとの統合に関するコードサンプルとベストプラクティスを含む新しいハウツー記事のお知らせをサブスクライブできます。
 
-このシリーズの[最初の記事](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)では、APIを使用してMarketor内に保存されている人（顧客/連絡先/リード）に関する情報を効率的に取得する方法について説明します。
+このシリーズの[最初の記事](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)では、APIを使用して、Marketo内に保存されている人（顧客/連絡先/リード）の情報を効率的に取得する方法を紹介します。
