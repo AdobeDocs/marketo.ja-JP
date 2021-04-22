@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146933
-description: バッチスマートキャンペーンを今すぐ実行 |スケジュールタブ — Marketto Docs — 製品ドキュメント
+description: バッチスマートキャンペーンを今すぐ実行 |スケジュールタブ —Marketoドキュメント — 製品ドキュメント
 title: バッチスマートキャンペーンを今すぐ実行 | 「スケジュール」タブ
+exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # バッチスマートキャンペーンを今すぐ実行 |スケジュールタブ{#run-a-batch-smart-campaign-now-schedule-tab}
 
