@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2952292
-description: 通知について — Marketto Docs — 製品ドキュメント
+description: 通知について —Marketoドキュメント — 製品ドキュメント
 title: 通知について
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
 # 通知について{#understanding-notifications}
 
-通知により、Marketo購読で発生するシステムイベントを最新の状態に保ちます。 例えば、キャンペーンの失敗通知は、スマートキャンペーンのエラーを通知し、CRM同期通知は、誤った権限や同期が停止しているなど、CRM同期で見つかった重要な問題を通知します。
+通知を受け取ると、Marketo購読で発生しているシステムイベントを最新の状態に保つことができます。 例えば、キャンペーンの失敗通知は、スマートキャンペーンのエラーを通知し、CRM同期通知は、誤った権限や同期が停止しているなど、CRM同期で見つかった重要な問題を通知します。
 
-## 概要{#overview}
+## 概要 {#overview}
 
 1. 新しい通知は、Marketoの右上に表示されます。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
-## 通知のサブスクライブ{#subscribe-to-notifications}
+## 通知の配信登録 {#subscribe-to-notifications}
 
 通知を購読して、電子メールで受信できます。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->場合によっては、Microsoft Dynamics Sync Errorsファイルなど、通知にコンマ区切り値(CSV)ファイルをダウンロードするための「完全なリストを表示」リンクが表示されることがあります。 MarketorはこれらのCSVファイルを30日間保持します。 30日後にファイルをダウンロードしようとすると、404エラーが発生します。
+>場合によっては、Microsoft Dynamics Sync Errorsファイルなど、通知にコンマ区切り値(CSV)ファイルをダウンロードするための「完全なリストを表示」リンクが表示されることがあります。 MarketoはこれらのCSVファイルを30日間保持します。 30日後にファイルをダウンロードしようとすると、404エラーが発生します。
 
 >[!TIP]
 >
