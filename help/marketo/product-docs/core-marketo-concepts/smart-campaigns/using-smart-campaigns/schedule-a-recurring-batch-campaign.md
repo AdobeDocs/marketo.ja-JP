@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146972
-description: 定期バッチキャンペーンのスケジュール — Marketto Docs — 製品ドキュメント
+description: 定期バッチキャンペーンのスケジュール —Marketoドキュメント — 製品ドキュメント
 title: 定期バッチキャンペーンのスケジュール
+exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 定期バッチキャンペーンのスケジュール{#schedule-a-recurring-batch-campaign}
 
