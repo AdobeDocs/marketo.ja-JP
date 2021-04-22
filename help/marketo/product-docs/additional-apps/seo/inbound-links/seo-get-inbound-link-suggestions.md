@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949228
-description: SEO — インバウンドリンクの提案の取得 — Marketto Docs — 製品ドキュメント
+description: SEO — インバウンドリンクの提案の取得 —Marketoドキュメント — 製品ドキュメント
 title: SEO — 受信リンクの提案の取得
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # SEO — 受信リンクの提案の取得{#seo-get-inbound-link-suggestions}
 
-[オフページの最適化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)にとって、どのインバウンドリンクが有用かを提案できます。
+Marketoは、[オフページの最適化](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)にとってどのインバウンドリンクが役に立つかを提案できます。
 
 1. **Inbound Links**&#x200B;セクションに移動します。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >[新しいリストまたは既存のフォルダ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)にリンクを追加できることをご存じですか。 見ろ！
 
-1. すごい！ これらの追加されたリンクは、追跡されるようになります。
+1. やりましたね！これらの追加されたリンクは、追跡されるようになります。
 
    >[!NOTE]
    >
