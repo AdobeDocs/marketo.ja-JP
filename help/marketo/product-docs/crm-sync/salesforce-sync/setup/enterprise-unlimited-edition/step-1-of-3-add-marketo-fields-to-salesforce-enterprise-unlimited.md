@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360362
-description: 手順1/3追加 - Salesforce用のMarketoフィールド(Enterprise/Unlimited) - Marketto Docs — 製品ドキュメント
+description: 手順1/3 - Salesforceへ追加のMarketoフィールド(Enterprise/Unlimited) -Marketoドキュメント — 製品ドキュメント
 title: 手順1/3 - Salesforceに対する追加Marketoフィールド(Enterprise/Unlimited)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# 手順1/3:Salesforce追加に対するMarketoフィールド(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 手順1/3:Salesforce追加へのMarketoフィールド(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
 >MarketoとSalesforceを同期するには、Salesforce APIにアクセスできる必要があります。
 
-Marketorは一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。 Salesforceでこのデータを使用したい場合は、次の手順に従ってください。
+Marketoは一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。 Salesforceでこのデータを使用したい場合は、次の手順に従ってください。
 
 1. リードおよび連絡先オブジェクトに対して、Salesforceで次の3つのカスタムフィールドを作成します。スコア、獲得プログラムおよび獲得日を参照してください。
 1. Salesforceでのコンバージョン時に値が持ち越されるように、リードと連絡先の間にこれらのカスタムフィールドをマッピングします。
@@ -25,7 +25,7 @@ Marketorは一連のフィールドを使用して、特定の種類のマーケ
 
 これらのカスタムフィールドはすべてオプションで、MarketoとSalesforceを同期する必要はありません。 ベストプラクティスとして、「スコア」、「獲得プログラム」および「獲得日」のフィールドを作成することをお勧めします。
 
-## Salesforce追加に対するマーケティング先フィールド{#add-marketo-fields-to-salesforce}
+## Salesforce追加へのMarketoフィールド{#add-marketo-fields-to-salesforce}
 
 上記のSalesforceのリードおよび連絡先オブジェクトに追加3つのカスタムフィールドがあります。 さらに追加する場合は、この節の最後にある使用可能なフィールドの表を参照してください。
 
@@ -78,17 +78,17 @@ Marketorは一連のフィールドを使用して、特定の種類のマーケ
   <tr> 
    <td>スコア</td> 
    <td>mkto71_Lead_Score</td> 
-   <td>数値</td> 
+   <td>数字</td> 
    <td>長さ10<br>小数点以下0桁 </td> 
   </tr> 
   <tr> 
-   <td>獲得日</td> 
+   <td>取得日</td> 
    <td>mkto71_Acquisition_Date</td> 
-   <td>日付/時刻</td> 
+   <td>日時</td> 
    <td> </td> 
   </tr> 
   <tr> 
-   <td>獲得プログラム</td> 
+   <td>新規顧客獲得プログラム</td> 
    <td>mkto71_Acquisition_プログラム</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
@@ -158,77 +158,77 @@ Marketorは一連のフィールドを使用して、特定の種類のマーケ
   <tr> 
    <td>獲得プログラムID</td> 
    <td>mkto71_Acquisition_プログラム_Id</td> 
-   <td>数値</td> 
+   <td>数字</td> 
    <td>長さ18<br>小数点以下0桁 </td> 
   </tr> 
   <tr> 
-   <td>元の転送者</td> 
+   <td>訪問者の参照元</td> 
    <td>mkto71_Original_転送者</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>オリジナル検索エンジン</td> 
+   <td>参照元検索エンジン</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>オリジナルの検索フレーズ</td> 
+   <td>参照元検索フレーズ</td> 
    <td>mkto71_Original_Search_Phrase</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>元のソース情報</td> 
+   <td>参照元のソース情報</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>元のソースの種類</td> 
+   <td>参照元のソースのタイプ</td> 
    <td>mkto71_Original_Source_Type</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定都市</td> 
+   <td>推測される都市</td> 
    <td>mkto71_Inferred_City</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定会社</td> 
+   <td>推測される企業</td> 
    <td>mkto71_Inferred_会社</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定国</td> 
+   <td>推測される国</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定都市圏</td> 
+   <td>推測される都市圏</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定電話番号市外局番</td> 
+   <td>推測される市外局番</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定郵便番号</td> 
+   <td>推測される郵便番号</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推定状態領域</td> 
+   <td>推測される都道府県/地域</td> 
    <td>mkto71_Inferred_State_Region</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
@@ -268,4 +268,4 @@ Salesforceのリードオブジェクトのカスタムフィールドは、コ�
 
 >[!MORELIKETHIS]
 >
->[手順2/3:Marketor向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[手順2/3:Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
