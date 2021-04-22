@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095307
-description: 電子メールアドレスのカスタム同期フィルタールール — Marketto Docs — 製品ドキュメント
+description: 電子メールアドレス用のカスタム同期フィルタールール —Marketoドキュメント — 製品ドキュメント
 title: 電子メールアドレスのカスタム同期フィルター規則
+exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールアドレス{#custom-sync-filter-rules-for-an-email-address}のカスタム同期フィルター規則
 
