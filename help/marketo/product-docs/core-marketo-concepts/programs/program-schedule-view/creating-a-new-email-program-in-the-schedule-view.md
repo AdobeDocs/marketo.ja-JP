@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147144
-description: スケジュール表示- Marketto Docs — 製品ドキュメントでの新しい電子メールプログラムの作成
+description: スケジュール表示で新しい電子メールプログラムを作成する —Marketoドキュメント — 製品ドキュメント
 title: スケジュール表示での新しい電子メールプログラムの作成
+exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # スケジュール表示での新しい電子メールプログラムの作成{#creating-a-new-email-program-in-the-schedule-view}
 
