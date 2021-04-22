@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359920
-description: フォールバックページの設定 — Marketto Docs — 製品ドキュメント
+description: フォールバックページの設定 —Marketoドキュメント — 製品ドキュメント
 title: フォールバックページの設定
+exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
-
 
 # フォールバックページの設定{#set-a-fallback-page}
 
