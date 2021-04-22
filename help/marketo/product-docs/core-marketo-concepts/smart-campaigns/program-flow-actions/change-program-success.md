@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147009
-description: プログラムの成功の変更 — Marketto Docs — 製品ドキュメント
-title: 変更プログラムの成功
+description: プログラムの変更の成功 —Marketoドキュメント — 製品ドキュメント
+title: プログラム変更の成功
+exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# プログラム変更の成功 {#change-program-success}
 
-# プログラムの変更の成功{#change-program-success}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 誤ってプログラム成功とマークされた人のグループが存在する場合は、このフロー手順を使用して、successをtrueまたはfalseに設定できます。
 
 ![](assets/image2014-9-22-14-3a45-3a8.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. このフローステップでドラッグすると、プログラムは、編集中のスマートキャンペーンが含まれるプログラムに自動的に設定されます。
 
@@ -45,4 +45,4 @@ ht-degree: 0%
    >
    >フローステップを2回使用して、成功フラグと日付の両方を設定できます。
 
-素晴らしい！ これで、元に戻して成功を強制する方法が分かります。
+OK！これで、元に戻して成功を強制する方法が分かります。
