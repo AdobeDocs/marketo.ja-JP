@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359351
-description: セットアップとユーザー追加の設定 — Marketto Docs — 製品ドキュメント
+description: セットアップと人物追加-Marketoドキュメント — 製品ドキュメント
 title: 設定と追加人
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # 設定と追加ユーザー{#get-set-up-and-add-a-person}
 
 ミッションを開始する前に、いくつかの作業を行う必要があります。
 
-## 手順1:Marketorにログイン{#step-log-in-to-marketo}
+## 手順1:Marketoにログイン{#step-log-in-to-marketo}
 
 1. [電子メールで受け取った資格情報を使用して](https://app.marketo.com) Marketingにログインします。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 手順3:追加自分が{#step-add-yourself-as-a-person}
 
-テスト電子メールを後で自分に送信で追加きるように、Marketoの担当者として自分自身を送信します。
+後で自分にテストメール追加を送ることができるように、Marketoにいる自分自身。
 
 1. **Database**&#x200B;領域に移動します。
 
