@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951058
-description: リリースノート — 2013年8月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年8月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年8月
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
-
 
 # リリースノート：2013年8月{#release-notes-august}
 
 2013年8月リリースには次の機能が含まれています。
 
-**テキストのみの電子メール**
+**テキストのみのメール**
 
 これで、メールの[テキスト版](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)だけを送れます。 このオプションを使用する場合、リンクはデコレーションされません。
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
-## パーソナライズされた送信テスト{#personalized-send-test}
+## パーソナライズ送信テスト {#personalized-send-test}
 
-電子メールテストを送信する際、リードの名前を選択して、テスト用の電子メールをパーソナライズできます。
+メールテストを送信する際に、テストメールをパーソナライズするためのリード名が選択できます.
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
@@ -47,18 +47,18 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## トリガーキャンペーンの自動クリーンアップ{#automatic-trigger-campaign-cleanup}
+## 自動トリガーキャンペーンクリーンアップ {#automatic-trigger-campaign-cleanup}
 
-Marketoは定期的に通知を受け取り、過去6か月間実行されていないトリガーキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)を[自動的に非アクティブにします。
+Marketoは定期的にお客様に通知し、過去6か月間実行されていないトリガーキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)を[自動的に非アクティブにします。
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Marketo Financial Managementの機能強化{#marketo-financial-management-enhancement}
+## Marketo金融管理機能強化{#marketo-financial-management-enhancement}
 
 ### プログラムコストの更新{#program-cost-update}
 
 プログラムコストの同期により、複数のプラットフォームにわたるプログラムコストを追跡できます。
 
-### Cobaltユーザーインターフェイス{#cobalt-user-interface}
+### Cobalt ユーザ インターフェイス {#cobalt-user-interface}
 
-新しいCobaltインターフェースの展開を続けています。 このプロジェクトは、Marketoのすべてを超スナップにします。 今後も引き続き、アップグレードは年内行われます。
+新しいCobaltインターフェースの展開を続けています。 このプロジェクトはMarketoの全てを素早くする！ 今後も引き続き、アップグレードは年内行われます。
