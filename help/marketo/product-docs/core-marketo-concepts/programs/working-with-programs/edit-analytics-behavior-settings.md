@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953405
-description: Analyticsの動作設定の編集 — Marketto Docs — 製品ドキュメント
-title: Analyticsの動作設定の編集
+description: Analytics動作設定の編集 —Marketoドキュメント — 製品ドキュメント
+title: アナリティクス動作設定の編集
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Analytics動作設定の編集{#edit-analytics-behavior-settings}
+# アナリティクス動作設定の編集 {#edit-analytics-behavior-settings}
 
 [Analyticsの動作は、チャネル](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)の管理者レベルで設定できますが、プログラムレベルで編集することもできます。 これが方法です。
 
