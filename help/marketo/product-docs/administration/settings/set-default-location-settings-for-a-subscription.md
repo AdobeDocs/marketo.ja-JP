@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359902
-description: 購読のデフォルトの場所の設定 — Marketto Docs — 製品ドキュメント
+description: 購読のデフォルトの場所の設定 —Marketoドキュメント — 製品ドキュメント
 title: 購読のデフォルトの場所の設定
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 購読{#set-default-location-settings-for-a-subscription}の既定の場所の設定
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/)は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
+   >[Salesforce.com](https://salesforce.com/)Marketoセールスインサイトは、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
 
 ## 購読のデフォルトの通貨設定{#set-the-default-currency-settings-for-a-subscription}
 
-ユーザーのデフォルトロケールを変更する場合は、通貨形式の設定を変更することもできます。
+ユーザーのデフォルトロケールを変更する場合は、通貨形式の設定も変更する必要があります。
 
 1. 「購読通貨設定」で「**編集**」をクリックします。
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
-   おめでとう！ 購読の場所の設定が変更されました。
+   おめでとうございます！購読の場所の設定が変更されました。
 
 >[!MORELIKETHIS]
 >
