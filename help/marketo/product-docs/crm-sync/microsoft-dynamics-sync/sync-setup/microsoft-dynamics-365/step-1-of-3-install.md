@@ -1,33 +1,33 @@
 ---
 unique-page-id: 3571822
-description: 手順1/3 - Marketto Solution（オンライン）のインストール — Marketto Docs — 製品ドキュメント
-title: 手順1/3 - Marketto Solutionのインストール（オンライン）
+description: 手順1/3 -Marketoソリューションのインストール（オンライン） -Marketoドキュメント — 製品ドキュメント
+title: 手順1/3 -Marketoソリューションのインストール（オンライン）
+exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
+# 手順1/3:Marketoソリューションのインストール（オンライン） {#step-of-install-the-marketo-solution-online}
 
-# 手順1/3:Marketo Solutionのインストール（オンライン） {#step-of-install-the-marketo-solution-online}
-
-Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solutionをインストールする必要があります。 **Dynamics管理権限が必要です。**
+Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketoソリューションをインストールする必要があります。 **Dynamics管理権限が必要です。**
 
 >[!CAUTION]
 >
 >* 初期同期が完了する前に、カスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
->* Dynamics SyncでMulti-Factor Authentication(MFA)が有効になっている場合、DynamicsがMarketoと正しく同期されるように、これを無効にする必要があります。 詳しくは、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>* Dynamics SyncでMulti-Factor Authentication (MFA)が有効になっている場合、DynamicsがMarketoと正しく同期するには、これを無効にする必要があります。 詳しくは、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 
 >[!NOTE]
 >
->マーケティングをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
+>MarketoをCRMに同期した後は、インスタンスを置き換えないと、新しい同期を実行できません。
 
 >[!PREREQUISITES]
 >
->[Marketto Lead Management Solutionのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketoリード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. **[Microsoft Office 365](https://login.microsoftonline.com/)**&#x200B;にログインします。
 
@@ -45,7 +45,7 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 「**ファイルを選択」をクリックします。** ダウンロードしたマーケティング担当者管理ソリューション [を選択します](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。「**次へ**」をクリックします。
+1. 「**ファイルを選択」をクリックします。** ダウンロードしたMarketoリード管理ソリューションを選択 [します](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)。「**次へ**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -77,15 +77,15 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    >[!NOTE]
    >
-   >「Marketto Lead Management completed with warning」というメッセージが表示される場合があります。 これは完全に期待されています。
+   >「Marketoリード管理は警告付きで完了しました」というメッセージが表示される場合があります。 これは完全に期待されています。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. マーケティング担当者がソリューションのリストに表示されるようになりました。
+1. Marketoリードマネジメントは、ソリューションのリストに表示されます。
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 「**Marketto Lead Management**」を選択し、「**すべてのカスタマイズを発行」をクリックします。**
+1. **Marketoリード管理**&#x200B;を選択し、**「すべてのカスタマイズを発行」をクリックします。**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -93,4 +93,4 @@ Microsoft Dynamics 365とMarketoを同期する前に、DynamicsにMarketo Solut
 
    >[!MORELIKETHIS]
    >
-   >[手順2/3:DynamicsでのMarket Syncユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+   >[手順2/3:DynamicsでのMarketo同期ユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
