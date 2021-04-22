@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: Marketorユーザーの管理 — Marketto Docs — 製品ドキュメント
-title: マーケティングユーザーの管理
+description: Marketoユーザの管理 —Marketoドキュメント — 製品ドキュメント
+title: Marketoユーザの管理
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# マーケティングユーザーの管理{#managing-marketo-users}
+# Marketoユーザーの管理{#managing-marketo-users}
 
 ## ユーザーの作成{#create-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >有効期限は、短期間のみマーケティングへのアクセスを必要とする、外部の関係者またはコンサルタントに適しています。
+   >有効期限は、短期間のみMarketoにアクセスする必要がある、短期の外部の関係者またはコンサルタントに適しています。
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 これで、新しいユーザーが「ユーザー」タブに表示され、アカウントのアクティベーション方法に関する手順が記載された電子メールが届きます。
 
-## ユーザーの削除{#delete-users}
+## ユーザーの削除 {#delete-users}
 
 1. 「管理者」に移動し、「**ユーザーとロール**」をクリックします。
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Marketingの唯一の管理者である場合は、自分の管理者権限を削除しないように注意してください。
+>管理者がMarketoの唯一の管理者の場合は、自分の管理者権限を削除しないように注意してください。
 
 >[!NOTE]
 >
