@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146974
-description: スマートキャンペーンでの資格ルールの編集 — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンでの資格ルールの編集 —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンでの資格ルールの編集
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # スマートキャンペーンでの資格ルールの編集{#edit-qualification-rules-in-a-smart-campaign}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ルールを毎日1回設定すると、Marketorはそれを時間に変換します。 例えば、1日1回のルールを設定し、ある人が日曜日の夜の10時の資格を得た場合、月曜日の夜の10時まで再び資格を得ることはできません。 このロジックは、週または月を使用する場合にも適用されます。 1か月は常に30日とカウントされます。
+   >ルールを毎日1回設定すると、Marketoはそれを時間に変換します。 例えば、1日1回のルールを設定し、ある人が日曜日の夜の10時の資格を得た場合、月曜日の夜の10時まで再び資格を得ることはできません。 このロジックは、週または月を使用する場合にも適用されます。 1か月は常に30日とカウントされます。
 
    >[!NOTE]
    >
