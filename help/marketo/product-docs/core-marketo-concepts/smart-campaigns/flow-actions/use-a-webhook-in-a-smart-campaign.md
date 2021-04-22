@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147025
-description: スマートキャンペーン- Marketto Docs — 製品ドキュメントでのWebフックの使用
+description: スマートキャンペーン-Marketoドキュメント — 製品ドキュメントでのWebフックの使用
 title: スマートキャンペーンでのWebフックの使用
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # スマートキャンペーンでのWebフックの使用{#use-a-webhook-in-a-smart-campaign}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. [スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
