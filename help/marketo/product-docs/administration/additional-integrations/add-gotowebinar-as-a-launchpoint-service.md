@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: LaunchPointサ追加ービスとしてのGoToウェビナー — Marketto Docs — 製品ドキュメント
+description: LaunchPointサービス追加としてのGoToウェビナー —Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのGoToウェビナー
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサ追加ービスとしてのGoToWebinar {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketorは、GoToウェビナーの登録と出欠を管理します。
+Marketoは、GoToWebセミナーの登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
    >[!NOTE]
    >
-   >Marketoフォームの会社名とジョブタイトルをGoToWebinarに同期する場合は、「**追加のフィールドを有効にする**」ボックスを選択します。
+   >Marketoのフォームの会社名とジョブタイトルをGoToWebinarに同期する場合は、「**追加のフィールドを有効にする**」ボックスを選択します。
 
 1. GoToWebinarのサインインポップアップウィンドウで、**GoToWebinar**&#x200B;の電子メールとパスワードを入力し、**サインイン**&#x200B;をクリックします。
 
@@ -55,13 +55,13 @@ Marketorは、GoToウェビナーの登録と出欠を管理します。
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 素晴らしい！ **GoToWebinar**&#x200B;アカウントはMarketoと同期されます。
+1. OK！**GoToWebinar**&#x200B;アカウントは、Marketoと同期されました。
 
    ![](assets/goto-webinar.png)
 
 >[!CAUTION]
 >
->GoToWebセミナーでパスワードを更新する場合は、Marketorでもパスワードを更新する必要があります。
+>GoToWebセミナーでパスワードを更新する場合は、Marketoでもパスワードを更新する必要があります。
 
 >[!MORELIKETHIS]
 >
