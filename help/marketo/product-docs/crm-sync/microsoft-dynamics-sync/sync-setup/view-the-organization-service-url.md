@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504770
-description: 組織サービスのURL - Marketto Docs — 製品ドキュメントの表示
+description: 組織サービスURLの表示-Marketoドキュメント — 製品ドキュメント
 title: 組織サービスのURLの表示
+exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-
 # 組織サービスURLの表示{#view-the-organization-service-url}
 
-Marketing Toは、Dynamicsインスタンスと同期する組織サービスのURLが必要です。 Dynamicsでの検索方法を次に示します。
+Marketoは、Dynamicsインスタンスと同期する組織サービスURLが必要です。 Dynamicsでの検索方法を次に示します。
 
 1. Dynamicsにログインします。 設定アイコンをクリックし、「**詳細設定**」を選択します。
 
@@ -31,4 +31,4 @@ Marketing Toは、Dynamicsインスタンスと同期する組織サービスの
 
    ![](assets/four.png)
 
-1. そのURLをMarketorにコピー&amp;ペーストして、残りの同期を楽しみます。
+1. そのURLをコピーしてMarketoに貼り付け、残りの同期を楽しむ。
