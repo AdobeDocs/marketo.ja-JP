@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: プログラムメンバーのカスタムフィールド — Marketto Docs — 製品ドキュメント
+description: プログラムメンバのカスタムフィールド —Marketoドキュメント — 製品ドキュメント
 title: プログラムメンバのカスタムフィールド
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # プログラムメンバのカスタムフィールド{#program-member-custom-fields}
 
-プログラムメンバのカスタムフィールドを使用すると、各メンバのプログラム固有のデータを収集できます。 これらは、次の場所で使用できます。マーケティングフォーム、スマートリストフィルターおよびトリガー、スマートキャンペーンフローアクション。 データは、プログラムの「メンバー」タブで表示できます。
+プログラムメンバのカスタムフィールドを使用すると、各メンバのプログラム固有のデータを収集できます。 これらは、次の場所で使用できます。Marketoフォーム、スマートリストフィルターおよびトリガー、スマートキャンペーンフローアクション。 データは、プログラムの「メンバー」タブで表示できます。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## プログラムメンバのカスタムフィールドの作成{#create-a-program-member-custom-field}
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/one.png)
 
@@ -51,12 +51,12 @@ ht-degree: 0%
 
 ## オブジェクトの説明{#object-descriptions}
 
-| オブジェクト | 説明 |
+| オブジェクト | 詳細 |
 |---|---|
-| 会社 | 個人に関連付けられている会社の名前。 |
-| オポチュニティ | オポチュニティは、将来の潜在的なセールとして個人またはアカウントに関連付けることができます。 通常、CRM経由またはAPI経由でマーケティング担当者に入ります。 |
-| 人 | マーケティングキャンペーンを通して関与を果たす、Marketoデータベース内の個人。 |
-| プログラムメンバ | プログラムの一員である者 |
+| 企業 | 個人に関連付けられている会社の名前。 |
+| 商談 | オポチュニティは、将来の潜在的なセールとして個人またはアカウントに関連付けることができます。 通常、CRM経由またはAPI経由でMarketoに入ります。 |
+| 担当者 | マーケティングキャンペーンを通じて関与しているMarketoデータベースの個人。 |
+| プログラムメンバー | プログラムの一員である者 |
 
 ## トリガーとフィルター{#triggers-and-filters}
 
@@ -76,4 +76,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Marketorでのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Marketoでカスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
