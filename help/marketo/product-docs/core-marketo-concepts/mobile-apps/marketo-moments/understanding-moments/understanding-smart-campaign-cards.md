@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: スマートキャンペーンカードについて — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンカードについて —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンカードについて
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # スマートキャンペーンカードについて{#understanding-smart-campaign-cards}
 
-「Marketing Moments」を使用して、スマートフォンまたはiPadからスマートキャンペーンの各実行を表示します。 Marketo Momentsスマートキャンペーンカードは、キャンペーンの1回の実行を表します。スマートキャンペーンが実行されるたびに、新しいカードが表示されます。 スマートキャンペーンカードには、左上に電球が付いています。
+「Marketoの場面」を使用して、スマートフォンまたはiPadからスマートキャンペーンの各実行を表示します。 Marketo・モーメント・スマート・キャンペーン・カードはキャンペーンの一連を表し、スマートキャンペーンが実行されるたびに、新しいカードが表示されます。 スマートキャンペーンカードには、左上に電球が付いています。
 
-スケジュール済みでまだ実行されていない将来のスマートキャンペーンの場合、Marketo Momentsカードには、キャンペーンの統計はまだ表示されません。 今後のリリースで表示される予定です。
+スケジュール済みでまだ実行されていない将来のスマートキャンペーンの場合、Marketoモーメントカードには、まだキャンペーンの統計が表示されません。 今後のリリースで表示される予定です。
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 ## その他のスマートキャンペーン操作{#other-smart-campaign-actions}
 
-他のMarketo Momentsカードと同様に、スマートキャンペーンカードまたは詳細カードの3つのドットをタップすると、次のことができます。
+他のMarketoの場面カードと同様に、スマートキャンペーンカードまたは詳細カードの3つのドットをタップすると、次のことができます。
 
 * [お気に入りにする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [終わったと記す](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
