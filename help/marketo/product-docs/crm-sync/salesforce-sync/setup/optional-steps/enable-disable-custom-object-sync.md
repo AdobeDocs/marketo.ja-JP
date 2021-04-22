@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719297
-description: カスタムオブジェクト同期の有効化/無効化 — Marketto Docs — 製品ドキュメント
+description: カスタムオブジェクト同期の有効化/無効化 —Marketoドキュメント — 製品ドキュメント
 title: カスタムオブジェクト同期の有効化/無効化
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # カスタムオブジェクト同期の有効化/無効化{#enable-disable-custom-object-sync}
 
-Salesforceインスタンスで作成されたカスタムオブジェクトは、Marketoの一部にすることもできます。 設定方法を次に示します。
+Salesforceインスタンスで作成されたカスタムオブジェクトも、Marketoの一部にすることができます。 設定方法を次に示します。
 
 ## カスタムオブジェクト同期の有効化/無効化{#enable-disable-custom-object-sync-1}
 
@@ -49,7 +49,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトは�
 
    >[!TIP]
    >
-   >Marketorは、Salesforceのリード、連絡先、またはアカウントオブジェクトと直接関係がある場合にのみ、カスタムオブジェクトを同期できます。
+   >Marketoは、Salesforceのリード、連絡先、またはアカウントオブジェクトと直接関係がある場合にのみ、カスタムオブジェクトを同期できます。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
