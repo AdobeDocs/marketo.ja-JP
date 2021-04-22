@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: IPに基づいてマーケティングログインを制限 — マーケティング担当者向けドキュメント — 製品ドキュメント
-title: IPに基づいてマーケティングログインを制限する
+description: IPに基づいてMarketoログインを制限する —Marketoドキュメント — 製品ドキュメント
+title: IPに基づいてMarketoログインを制限する
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
+# IPに基づいてMarketoログインを制限する{#restrict-marketo-logins-based-on-ip}
 
-# IPに基づいてマーケティングログインを制限{#restrict-marketo-logins-based-on-ip}
-
-ユーザーのIPアドレスに基づいて、マーケティング担当者へのアクセスを制限または有効にできます。 これが方法です。
+ユーザーのIPアドレスに基づいて、Marketoへのアクセスを制限または有効にできます。 これが方法です。
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
    >**定義**
    >
    >* **許可されているIPアドレス**:許可されているIPアドレスの追加は含まれます。指定したIPアドレスがすべて含まれ、それ以外はすべて除外されます。
-   >* **ブロックIPアドレス**:特定のIPがマーケティング担当者にアクセスするのを防ぎます。
+   >* **ブロックIPアドレス**:特定のIPがMarketoにアクセスするのを防ぎます。
    >* **IP制限を無効にする**:このオプションを選択すると、すべてのまたはすべての制限ルールの機能が停止します。これはテスト用に使用します。
 
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a9-3a40.png)
 
-   マーケティングデータが以前より安全になりました。
+   マーケティングデータは、以前よりも安全です。
