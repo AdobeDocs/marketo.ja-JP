@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360325
-description: ワークスペースへのユーザーアクセスを許可する — Marketto Docs — 製品ドキュメント
+description: ワークスペースへのユーザーアクセスを許可する —Marketoドキュメント — 製品ドキュメント
 title: ワークスペースへのユーザーアクセスを許可
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # ワークスペースへのユーザーアクセスを許可{#allow-user-access-to-a-workspace}
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-素晴らしい！ ユーザーがログインすると、ユーザーにアクセス権を与えたすべてのワークスペースが表示されます。
+OK！ユーザーがログインすると、ユーザーにアクセス権を与えたすべてのワークスペースが表示されます。
