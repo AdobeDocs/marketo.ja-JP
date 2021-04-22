@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146940
-description: スマートキャンペーンのスマートリストの定義 |バッチ — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンのスマートリストの定義 |バッチ —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンのスマートリストの定義 |バッチ
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
-
 # スマートキャンペーンのスマートリストの定義 |バッチ{#define-smart-list-for-smart-campaign-batch}
 
-スマートリストは、レポート、リスト、スマートキャンペーンのいずれを含めるかを定義する、マーケティング全体のメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
+スマートリストは、Marketo全体のメカニズムで、レポート、リスト、スマートキャンペーンのいずれであれ、誰を含めるかを定義するメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
 
 1. スマートキャンペーンを選択し、[**スマートリスト**]をクリックします。
 
