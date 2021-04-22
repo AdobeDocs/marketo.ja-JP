@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728028
-description: LaunchPointサ追加ービスとしてズーム — Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてズームする —Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサー追加ビスとしてズーム
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサービス追加としてズーム{#add-zoom-as-a-launchpoint-service}
 
-マーケティング担当者がズームの登録と出欠を管理します。
+Marketoは、ズームの登録と出勤を管理します。
 
 >[!NOTE]
 >
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/create-1.png)
 
-   素晴らしい！ これで、ズームアカウントはMarketorと同期され、LaunchPoint領域に表示されます。
+   OK！これで、ズームアカウントはMarketoと同期され、LaunchPoint領域に表示されます。
 
 >[!CAUTION]
 >
->ズームでパスワードを更新する場合は、Marketoでもパスワードを更新する必要があります。
+>ズーム機能でパスワードを更新する場合は、Marketoでもパスワードを更新する必要があります。
 
 >[!MORELIKETHIS]
 >
