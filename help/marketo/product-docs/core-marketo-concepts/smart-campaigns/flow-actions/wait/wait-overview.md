@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146950
-description: 待機 — Marketto Docs — 製品ドキュメント
-title: Wait
+description: 待機 —Marketoドキュメント — 製品ドキュメント
+title: 待機
+exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# 待機 {#wait}
 
-# 待機{#wait}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 便利な&#x200B;**待機ステップ**&#x200B;を使用して、スマートキャンペーンフローで人を一時停止します。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >既に待機ステップに入っているユーザーが、待機期間が終了した後に進むことを望まない場合は、待機ステップの直後に[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)を挿入します。 [選択肢](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)を追加オプションを使用して、削除するユーザーを指定します。
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 待機フロー手順は、主に次の3つの方法で使用できます。
 
