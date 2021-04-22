@@ -1,20 +1,20 @@
 ---
-description: Dynamics - Marketto Docs — 製品ドキュメントでフィールドを削除する前に、同期するフィールドを編集する
+description: Dynamics -Marketoドキュメント — 製品ドキュメントで削除する前に、同期するフィールドを編集する
 title: Dynamicsで削除する前に、同期するフィールドを編集する
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-
 # Dynamics {#editing-fields-to-sync-before-deleting-them-in-dynamics}で削除する前に、同期するフィールドを編集する
 
-場合によっては、Dynamicsのフィールドを削除する必要があります。 Marketorは、フィールドリストを同期のベースとする参照として保持します。 同期がオンの間にDynamicsでフィールドを削除すると、同期でエラーが発生する可能性があります。 フィールドを削除する前に、次の手順に従ってください。
+場合によっては、Dynamicsのフィールドを削除する必要があります。 Marketoは、フィールドリストを、同期のベースとなる参照として保持します。 同期がオンの間にDynamicsでフィールドを削除すると、同期でエラーが発生する可能性があります。 フィールドを削除する前に、次の手順に従ってください。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
@@ -42,6 +42,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dynamicsでフィールドを削除する前に同期が停止しない場合は、同期でエラーが発生する可能性があります。 同期が終了すると、同期は停止します。 再開する前に、マーケティング担当者は、スキーマの変更を同期で受け入れるために、「同期するフィールドを選択」（上述）を確認し、「**保存**」をクリックする必要があります。
+>Dynamicsでフィールドを削除する前に同期が停止しない場合は、同期でエラーが発生する可能性があります。 同期が終了すると、同期は停止します。 再開する前に、Marketo管理者は、スキーマの変更を同期で受け入れるために、「同期するフィールドを選択」（上述）を確認し、「**保存**」をクリックする必要があります。
 
 変更が保存された後は、同期を必ず有効にしてください。
