@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: 監査証跡でのフィルタリング — マーケティングツールドキュメント — 製品ドキュメント
+description: 監査証跡でのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: 監査証跡でのフィルタリング
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 監査証跡でのフィルタリング{#filtering-in-audit-trail}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ワークスペースを有効にしている場合、すべてのワークスペースの監査データが表示されます。 ワークスペースフィルターを適用すると、監査証跡を使用するたびに、以前のワークスペース値がマーケティング担当者に記憶されます。 アセットレベルのワークスペース権限は適用されます。
+   >ワークスペースを有効にしている場合、すべてのワークスペースの監査データが表示されます。 ワークスペースフィルターを適用すると、監査証跡を使用するたびに、Marketoに以前のワークスペース値が記憶されます。 アセットレベルのワークスペース権限は適用されます。
 
    >[!MORELIKETHIS]
    >
