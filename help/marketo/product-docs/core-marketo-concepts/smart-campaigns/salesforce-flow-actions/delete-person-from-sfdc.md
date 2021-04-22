@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
-description: SFDCから人物を削除 — マーケティング担当者ドキュメント — 製品ドキュメント
-title: SFDCから人物を削除
+description: SFDCから人物を削除 —Marketoドキュメント — 製品ドキュメント
+title: SFDC からの担当者の削除
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
-# SFDCから人物を削除{#delete-person-from-sfdc}
+# SFDC からの担当者の削除 {#delete-person-from-sfdc}
 
 Salesforceから特定のリードのセットを削除し、Marketoの担当者のままにする必要がある場合は、SFDCフローアクションの「個人を削除」を使用できます。
 
@@ -27,7 +27,7 @@ Salesforceから特定のリードのセットを削除し、Marketoの担当者
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. 「Marketor **の**&#x200B;削除」設定が&#x200B;**false**&#x200B;であることを確認し、「**今すぐ実行**」をクリックします。
+1. 「Marketo **の**&#x200B;削除」設定が&#x200B;**false**&#x200B;になっていることを確認し、「**今すぐ実行**」をクリックします。
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +35,4 @@ Salesforceから特定のリードのセットを削除し、Marketoの担当者
 
    >[!CAUTION]
    >
-   >Marketor **の** Deleteを&#x200B;**true**&#x200B;に設定し、Marketoからの訪問者およびSalesforceからのリードを削除した場合、それらの訪問者は永久に消え去ります。 これは元に戻せません。
+   >Marketo **の**&#x200B;削除を&#x200B;**true**&#x200B;に設定し、Marketoの人々とSalesforceのリードを削除すると、それらは永遠に消え去ります。 これは元に戻せません。
