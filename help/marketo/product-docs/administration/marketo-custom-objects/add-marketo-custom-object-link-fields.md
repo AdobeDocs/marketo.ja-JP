@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
-description: 追加Marketoカスタムオブジェクトリンクフィールド — Marketto Docs — 製品ドキュメント
-title: 追加マーケティング先カスタムオブジェクトリンクフィールド
+description: 追加Marketoカスタムオブジェクトリンクフィールド —Marketoドキュメント — 製品ドキュメント
+title: 追加Marketoカスタムオブジェクトリンクフィールド
+exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-
-# 追加マーケティング先カスタムオブジェクトリンクフィールド{#add-marketo-custom-object-link-fields}
+# 追加Marketoカスタムオブジェクトリンクフィールド{#add-marketo-custom-object-link-fields}
 
 カスタムオブジェクトを作成する場合は、カスタムオブジェクトレコードを正しい親レコードに接続するためのリンクフィールドを指定する必要があります。
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 1対多の構造体用のカスタムオブジェクトにリンクフィールドを作成する方法を次に示します。
 
-1. 「**管理者**」をクリックし、「**データベース管理**」で「**マーケティング先カスタムオブジェクト**」を選択します。
+1. 「**管理者**」をクリックし、**データベース管理**&#x200B;で「**Marketoカスタムオブジェクト**」を選択します。
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 >
 >仲介オブジェクトと、その中間オブジェクトをリンクするカスタムオブジェクトを既に作成しておく必要があります。
 
-1. 「**管理者**」をクリックし、「**データベース管理**」で「**マーケティング先カスタムオブジェクト**」を選択します。
+1. 「**管理者**」をクリックし、**データベース管理**&#x200B;で「**Marketoカスタムオブジェクト**」を選択します。
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -122,8 +122,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [追加マーケティング先カスタムオブジェクトフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [マーケティングカスタムオブジェクトの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [マーケティング先カスタムオブジェクトフィールドの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [追加Marketoカスタムオブジェクトフィールド](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Marketoカスタムオブジェクトの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Marketoのカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Marketoカスタムオブジェクトフィールドの編集と削除](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
