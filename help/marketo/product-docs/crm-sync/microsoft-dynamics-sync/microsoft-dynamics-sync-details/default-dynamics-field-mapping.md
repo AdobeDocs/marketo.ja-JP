@@ -1,20 +1,20 @@
 ---
-description: 既定のDynamicsフィールドマッピング — Marketto Docs — 製品ドキュメント
+description: 既定のDynamicsフィールドマッピング —Marketoドキュメント — 製品ドキュメント
 title: 既定のダイナミクスフィールドマッピング
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 47%
 
 ---
 
-
 # 既定のダイナミックフィールドマッピング{#default-dynamics-field-mapping}
 
-Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは組み込みのDynamicsフィールドとMarketoフィールドを自動的に関連付けます。  また、マーケティング担当者は、リード、アカウント、オポチュニティ、連絡先のカスタムフィールドも同期します。
+MarketoアカウントをMicrosoftと最初に同期すると、Marketoは組み込みのDynamicsとMarketoのフィールドの間でこれらの関連付けを自動的に行います。  また、Marketoは、リード、アカウント、オポチュニティ、連絡先のカスタムフィールドも同期します。
 
-## リードフィールド{#lead-fields}
+## リードフィールド {#lead-fields}
 
 <table> 
  <colgroup> 
@@ -24,58 +24,58 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketoフィールド</th> 
+   <th>Marketo フィールド</th> 
    <th>MS Dynamicsフィールド</th> 
    <th>MS Dynamics API名</th> 
   </tr> 
   <tr> 
-   <td>Microsoft作成日</td> 
-   <td>作成日</td> 
+   <td>Microsoft が日付作成済み</td> 
+   <td>作成先</td> 
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>挨拶</td> 
-   <td>挨拶</td> 
+   <td>敬称</td> 
+   <td>敬称</td> 
    <td>挨拶</td> 
   </tr> 
   <tr> 
-   <td>最初</td> 
    <td>名</td> 
+   <td>名 </td> 
    <td>名</td> 
   </tr> 
   <tr> 
-   <td>中間</td> 
+   <td>ミドルネーム</td> 
    <td>ミドルネーム</td> 
    <td>middlename</td> 
   </tr> 
   <tr> 
-   <td>最後</td> 
+   <td>姓</td> 
    <td>姓</td> 
    <td>lastname</td> 
   </tr> 
   <tr> 
-   <td>電子メール</td> 
-   <td>電子メール</td> 
+   <td>メール</td> 
+   <td>メール</td> 
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>肩書</td> 
-   <td>肩書</td> 
+   <td>職位</td> 
+   <td>役職</td> 
    <td>jobtitle</td> 
   </tr> 
   <tr> 
    <td>電話</td> 
-   <td>勤務先の電話</td> 
+   <td>業務用電話番号</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
-   <td>モバイル</td> 
    <td>携帯電話</td> 
+   <td>携帯電話番号</td> 
    <td>mobilephone</td> 
   </tr> 
   <tr> 
-   <td>FAX</td> 
-   <td>FAX</td> 
+   <td>ファックス</td> 
+   <td>ファックス</td> 
    <td>ファックス</td> 
   </tr> 
   <tr> 
@@ -84,12 +84,12 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>市区町村</td> 
-   <td>市区町村</td> 
+   <td>都市</td> 
+   <td>都市</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>州</td> 
+   <td>都道府県</td> 
    <td>都道府県</td> 
    <td>address1_stateorprovince</td> 
   </tr> 
@@ -104,12 +104,12 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>個人のソース</td> 
    <td>リードソース</td> 
+   <td>リードのソース</td> 
    <td>leadsourcecode</td> 
   </tr> 
   <tr> 
-   <td>個人ステータス</td> 
+   <td>リードステータス</td> 
    <td>ステータス</td> 
    <td>statecode</td> 
   </tr> 
@@ -119,69 +119,69 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>statuscode</td> 
   </tr> 
   <tr> 
-   <td>個人メモ</td> 
-   <td>説明</td> 
-   <td>description</td> 
+   <td>担当者の注記</td> 
+   <td>詳細</td> 
+   <td>詳細</td> 
   </tr> 
   <tr> 
-   <td>呼び出さない</td> 
+   <td>連絡拒否</td> 
    <td>電話を許可しない</td> 
    <td>ドナ</td> 
   </tr> 
   <tr> 
-   <td>登録解除</td> 
+   <td>配信停止完了</td> 
    <td>電子メールを一括処理しない</td> 
    <td>donotbulkemail</td> 
   </tr> 
   <tr> 
-   <td>人物評価</td> 
+   <td>リード評価</td> 
    <td>評価</td> 
    <td>leadqualitycode</td> 
   </tr> 
   <tr> 
-   <td>Microsoftアドレス2</td> 
+   <td>Microsoft 住所 2</td> 
    <td>2番街</td> 
    <td>address1_line2</td> 
   </tr> 
   <tr> 
-   <td>Microsoftアドレス3</td> 
+   <td>Microsoft 住所 3</td> 
    <td>通り3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Do Not Email</td> 
+   <td>Microsoft メール送信除外</td> 
    <td>電子メールを許可しない</td> 
    <td>ドノメール</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Do Not Fax</td> 
+   <td>Microsoft ファックス送信除外</td> 
    <td>FAXを許可しない</td> 
    <td>ドノファクス</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Do Not Send Marketing Material</td> 
+   <td>Microsoft マーケティング資料の受領拒否</td> 
    <td>マーケティング資料</td> 
    <td>donotsendmm</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Home Phone</td> 
+   <td>Microsoft 自宅電話</td> 
    <td>自宅電話</td> 
    <td>telephone2</td> 
   </tr> 
   <tr> 
    <td>Microsoftが推奨する連絡方法</td> 
-   <td>好みの接触方法</td> 
+   <td>希望連絡方法</td> 
    <td>preferredcontactmethodcode</td> 
   </tr> 
   <tr> 
-   <td>Microsoftトピック</td> 
+   <td>Microsoft トピック</td> 
    <td>トピック</td> 
    <td>subject</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 連絡先フィールド{#contact-fields}
+## 取引先責任者フィールド {#contact-fields}
 
 <table> 
  <colgroup> 
@@ -191,72 +191,72 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketoフィールド</th> 
+   <th>Marketo フィールド</th> 
    <th>MS Dynamicsフィールド</th> 
    <th>MS Dynamics API名</th> 
   </tr> 
   <tr> 
-   <td>Microsoft作成日</td> 
-   <td>作成日</td> 
+   <td>Microsoft が日付作成済み</td> 
+   <td>作成先</td> 
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>挨拶</td> 
-   <td>挨拶</td> 
+   <td>敬称</td> 
+   <td>敬称</td> 
    <td>挨拶</td> 
   </tr> 
   <tr> 
-   <td>最初</td> 
    <td>名</td> 
+   <td>名 </td> 
    <td>名</td> 
   </tr> 
   <tr> 
-   <td>中間</td> 
+   <td>ミドルネーム</td> 
    <td>ミドルネーム</td> 
    <td>middlename</td> 
   </tr> 
   <tr> 
-   <td>最後</td> 
+   <td>姓</td> 
    <td>姓</td> 
    <td>lastname</td> 
   </tr> 
   <tr> 
-   <td>電子メール</td> 
-   <td>電子メール</td> 
+   <td>メール</td> 
+   <td>メール</td> 
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>肩書</td> 
-   <td>肩書</td> 
+   <td>職位</td> 
+   <td>職位</td> 
    <td>jobtitle</td> 
   </tr> 
   <tr> 
    <td>電話</td> 
-   <td>勤務先の電話</td> 
+   <td>業務用電話番号</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
-   <td>モバイル</td> 
    <td>携帯電話</td> 
+   <td>携帯電話番号</td> 
    <td>mobilephone</td> 
   </tr> 
   <tr> 
    <td>住所</td> 
-   <td>住所1:番地1</td> 
+   <td>住所 1：通り 1</td> 
    <td>address1_line1</td> 
    <tr> 
-   <td>市区町村</td> 
-   <td>住所1:市区町村</td> 
+   <td>都市</td> 
+   <td>住所 1：都市</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>州</td> 
-   <td>住所1:都道府県</td> 
+   <td>都道府県</td> 
+   <td>住所 1：都道府県</td> 
    <td>address1_stateorprovince</td> 
   </tr> 
   <tr> 
    <td>国</td> 
-   <td>住所1:国/地域</td> 
+   <td>住所 1：国/地域</td> 
    <td>address1_country</td> 
    <tr> 
    <td>郵便番号</td> 
@@ -264,7 +264,7 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>個人ステータス</td> 
+   <td>リードステータス</td> 
    <td>ステータス</td> 
    <td>statecode</td> 
   </tr> 
@@ -274,32 +274,32 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>statuscode</td> 
   </tr> 
    <tr> 
-   <td>呼び出さない</td> 
+   <td>連絡拒否</td> 
    <td>電話を許可しない</td> 
    <td>ドナ</td> 
   </tr> 
   <tr> 
-   <td>登録解除</td> 
+   <td>配信停止完了</td> 
    <td>電子メールを一括処理しない</td> 
    <td>donotbulkemail</td> 
   </tr> 
   <tr> 
-   <td>Microsoftアドレス2</td> 
-   <td>住所1:2番街</td> 
+   <td>Microsoft 住所 2</td> 
+   <td>住所 1：通り 2</td> 
    <td>address1_line2</td> 
   </tr> 
    <tr> 
-   <td>Microsoftアドレス3</td> 
-   <td>住所1:通り3</td> 
+   <td>Microsoft 住所 3</td> 
+   <td>住所 1：通り 3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Do Not Email</td> 
+   <td>Microsoft メール送信除外</td> 
    <td>電子メールを許可しない</td> 
    <td>ドノメール</td> 
   </tr> 
   <tr> 
-   <td>Microsoft Home Phone</td> 
+   <td>Microsoft 自宅電話</td> 
    <td>自宅電話</td> 
    <td>telephone2</td> 
   </tr> 
@@ -311,7 +311,7 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
  </tbody> 
 </table>
 
-## アカウントフィールド{#account-fields}
+## アカウントフィールド {#account-fields}
 
 <table> 
  <colgroup> 
@@ -321,48 +321,48 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketoフィールド</th> 
+   <th>Marketo フィールド</th> 
    <th>MS Dynamicsフィールド</th> 
    <th>MS Dynamics API名</th> 
   </tr> 
   <tr> 
-   <td>アカウント(a)</td> 
+   <td>アカウント（a）</td> 
    <td>アカウント</td> 
    <td>accountid</td> 
   </tr> 
   <tr> 
    <td>請求先住所</td> 
-   <td>住所1:番地1</td> 
+   <td>住所 1：通り 1</td> 
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>請求先の市区町村</td> 
-   <td>住所1:市区町村</td> 
+   <td>請求先住所 (都市)</td> 
+   <td>住所 1：都市</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>請求国</td> 
-   <td>住所1:国/地域</td> 
+   <td>請求先住所 (国)</td> 
+   <td>住所 1：国/地域</td> 
    <td>address1_country</td> 
   </tr> 
   <tr> 
-   <td>請求先郵便番号</td> 
+   <td>請求先住所 (郵便番号)</td> 
    <td>住所1:郵便番号</td> 
    <td>address1_postalcode</td> 
   </tr> 
   <tr> 
-   <td>Microsoft請求先住所2</td> 
-   <td>住所1:2番街</td> 
+   <td>Microsoft 請求先住所 2</td> 
+   <td>住所 1：通り 2</td> 
    <td>address1_line2</td> 
   </tr> 
   <tr> 
-   <td>Microsoft請求先住所3</td> 
-   <td>住所1:通り3</td> 
+   <td>Microsoft 請求先住所 3</td> 
+   <td>住所 1：通り 3</td> 
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>メイン電話</td> 
-   <td>メイン電話</td> 
+   <td>代表電話番号</td> 
+   <td>代表電話番号</td> 
    <td>telephone1</td> 
   </tr> 
   <tr> 
@@ -376,19 +376,19 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>accountnumber</td> 
   </tr> 
   <tr> 
-   <td>Microsoft会社の状態</td> 
+   <td>Microsoft 企業ステータス</td> 
    <td>ステータス</td> 
    <td>statecode</td> 
   </tr> 
   <tr> 
-   <td>年間売上高</td> 
-   <td>年間売上高</td> 
-   <td>売上高</td> 
+   <td>年間収益</td> 
+   <td>年間収益</td> 
+   <td>収益</td> 
   </tr> 
   <tr> 
-   <td>会社に関する注意</td> 
-   <td>説明</td> 
-   <td>description</td> 
+   <td>企業注記</td> 
+   <td>詳細</td> 
+   <td>詳細</td> 
   </tr> 
   <tr> 
    <td>業界</td> 
@@ -396,13 +396,13 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
    <td>産業コード</td> 
   </tr> 
   <tr> 
-   <td>SICコード</td> 
-   <td>SICコード</td> 
+   <td>SIC コード</td> 
+   <td>SIC コード</td> 
    <td>sic</td> 
   </tr> 
   <tr> 
-   <td>Webサイト</td> 
-   <td>Webサイト</td> 
+   <td>ウェブサイト</td> 
+   <td>ウェブサイト</td> 
    <td>webサイト</td> 
   </tr> 
  </tbody> 
@@ -419,20 +419,20 @@ Marketoのアカウントを最初にMicrosoftと同期すると、Marketorは�
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Marketoフィールド</th> 
-   <th>説明</th> 
+   <th>Marketo フィールド</th> 
+   <th>詳細</th> 
   </tr> 
   <tr> 
-   <td>Microsoftの種類</td> 
-   <td>リードまたは連絡先。 空の場合、リードはMarketoの担当者としてのみ存在します</td> 
+   <td>Microsoft タイプ</td> 
+   <td>リードまたは連絡先。 リードが空の場合、リードはMarketoの個人としてのみ存在します</td> 
   </tr> 
   <tr> 
-   <td>Microsoft作成日</td> 
-   <td>MS Dynamicsで作成された日付（Marketorで作成された日付と異なる場合があります）</td> 
+   <td>Microsoft が日付作成済み</td> 
+   <td>MS Dynamicsで作成された日付(Marketoで作成された日付と異なる可能性があります)</td> 
   </tr> 
   <tr> 
    <td>Microsoftが削除されました</td> 
-   <td>以前はMicrosoftにいた人が削除され、現在はMarketoにのみ住んでいます</td> 
+   <td>以前はマイクロソフトにいたが、削除され、現在はMarketoにしか住んでいない人</td> 
   </tr> 
  </tbody> 
 </table>
