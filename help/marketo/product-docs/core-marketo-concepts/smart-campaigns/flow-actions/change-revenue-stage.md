@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147080
-description: 売上高の変更段階 — Marketto Docs — 製品ドキュメント
-title: 売上高の変更段階
+description: 売上高の変更ステージ —Marketoドキュメント — 製品ドキュメント
+title: 収益ステージの変更
+exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
+# 収益ステージの変更 {#change-revenue-stage}
 
-# 売上高変更ステージ{#change-revenue-stage}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 Revenue Cycle Modelerを使用していて、承認済みのモデルがある場合は、あるステージから別のステージにリードを手動で移動することを決定できます。 このフローステップは役立ちます。
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. **モデル**&#x200B;を選択します。
 
