@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781911
-description: 電子メールプログラムカードについて — Marketto Docs — 製品ドキュメント
+description: 電子メールプログラムカードについて —Marketoドキュメント — 製品ドキュメント
 title: 電子メールプログラムカードについて
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールプログラムカードについて{#understanding-email-program-cards}
 
-「Marketing Moments」を使用して、電話またはiPadから電子メールプログラムを表示します。
+「Marketoの場面」を使用して、電話またはiPadから電子メールプログラムを表示します。
 
 ## 電子メールプログラムカード{#email-program-cards}
 
@@ -115,7 +115,7 @@ Eメールキャンペーンを見る上でのスクープです プロだ！
 
 >[!MORELIKETHIS]
 >
->* [マーケティングの場面について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketoの瞬間について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Analyticsカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
