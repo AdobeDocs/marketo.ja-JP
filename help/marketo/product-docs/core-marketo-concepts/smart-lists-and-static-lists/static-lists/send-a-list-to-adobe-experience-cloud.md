@@ -1,21 +1,21 @@
 ---
 unique-page-id: 37356194
-description: リストをAdobe Experience Cloudに送信 — Marketto Docs — 製品ドキュメント
+description: リストをAdobe Experience Cloudに送信 —Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Cloudにリストを送る
+exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '787'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # リストをAdobe Experience Cloudに送信{#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
->MarketorインスタンスのHIPAA対応の展開では、この機能を使用できません。
+>MarketoインスタンスのHIPAA対応の展開では、この機能を使用できません。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 静的なリストは静的です 手動で行わない限り、Adobe Experience Cloudのリストは変更されません。
 
-1. Marketorで、エクスポートするリストを探して選択します。
+1. Marketoで、書き出すリストを探して選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
 ## 同期リストの送信方法{#how-to-send-a-synced-list}
 
-リストを同期すると、Marketoのリストを更新したときに、その変更が自動的にAdobe Experience Cloudのオーディエンスに同期されます。
+リストを同期すると、Marketoでリストを更新したときに、その変更が自動的にAdobe Experience Cloudのオーディエンスに同期されます。
 
-1. Marketorで、同期するリストを探して選択します。
+1. Marketoで、同期するリストを探して選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 リストの同期はいつでも停止できます。
 
-1. Marketorで、同期を停止するリストを探して選択します。
+1. Marketoで、同期を停止するリストを探して選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -106,28 +106,28 @@ ht-degree: 0%
 
 **Adobe Analyticsとの共有**
 
-Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様の場合、この統合により、オーディエンスをMarketoからAdobe Analyticsのレポートスイートに共有できますが、これを有効にするにはAdobe Audience Managerで行う追加の設定手順がいくつかあります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Adobe Audience ManagerとAdobe Analyticsの両方を所有するお客様に対しては、この統合により、オーディエンスをMarketoからAdobe Analyticsレポートスイートに共有できるようになります。ただし、Adobe Audience Managerでこれを有効にするために、いくつかの追加の設定手順を行う必要があります。 この設定方法の詳細については、Adobe Audience Managerのドキュメントを参照してください。[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Adobe Audience Managerのお客様の特徴使用**
 
-Marketoでリストのエクスポートを開始すると、Adobe Audience Managerのインスタンスに次の変更が反映されています。
+Marketoでリストの書き出しを開始すると、Adobe Audience Managerのインスタンスに次の変更が反映されています。
 
-* エクスポートされたリスト内のすべてのリードに対して、Marketorは、リードのハッシュされた電子メールをCross-Device Identifierとして使用して、特性を記述します。 特性の名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
-* Marketoが管理しているすべてのECIDが、エクスポートされたリストのリードと一致するように、MarketorはECID Device Identifierを使用して特性を記述します。 特性の名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
-* また、ECID特性をセグメント化基準として使用し、Audience Managerインスタンスにセグメントを作成します。 セグメントの名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
+* エクスポートされたリスト内のすべてのリードについて、Marketoは、リードのハッシュされた電子メールをCross-Device Identifierとして使用して特性を書き込みます。 特性の名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
+* Marketoがエクスポートしたリストのリードと照合するために管理したすべてのECIDに対して、MarketoはECID Device Identifierを使用して特性を記述します。 特性の名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
+* また、Marketoは、ECID特性をセグメント化基準として使用し、Audience Managerインスタンスにセグメントを作成します。 セグメントの名前は、エクスポート時に指定した宛先オーディエンス名と一致します。
 
 ## FAQ {#faq}
 
-**マーケティングツールのリストサイズがAdobeのサイズと異なるのはなぜですか。**
+**MarketoのリストサイズとAdobeのサイズが異なるのはなぜですか。**
 
-内部では、オーディエンス統合は、Marketo Munchkinのcookieと対応するAdobeECID cookieを同期することで機能します。 Marketorは、ECIDを同期したリードのメンバーシップデータのみを共有できます。 最良の結果を得るために、マーケティングの目的でトラッキングするすべてのページのAdobeの訪問者.jsトラッキングコードと並行して、Marketoのmunchkin.jsトラッキングスクリプトを読み込むことをお勧めします。
+内部では、オーディエンス統合は、Marketoマンチキンcookieと対応するAdobeECID cookieを同期することで機能します。 Marketoは、MarketoがECIDを同期したリードのメンバーシップデータのみを共有できます。 最良の結果を得るために、マーケティングのためのトラッキングに関心のあるすべてのページに関するAdobeの訪問者.jsトラッキングコードと並行して、Marketoのmunchkin.jsトラッキングスクリプトを読み込むことをお勧めします。
 
 **cookieの同期はどのように行われますか。**
 
-Marketo購読でCookieの同期が有効になっている場合、Marketoのmunchkin.jsは、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketoのCookie識別子に一致させようとします。 これにより、Marketorの匿名ユーザープロファイルは、AdobeECIDを使用して利用できるようになります。
+Marketoのmunchkin.jsは、Marketo購読でcookie同期が有効になっている場合、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketocookie識別子に一致させようとします。 これにより、Marketoの匿名ユーザープロファイルは、AdobeECIDを使用してより多くの情報を得ることができます。
 
 匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 [](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)に記述されているとおり、この動作は正確に表示されます。
 
 **どの情報が共有されているか**
 
-この統合では、マーケティング担当者からAdobe(例えば、リードXがリストYのメンバーであるという知識)に対するリストのメンバーシップ情報のみが共有されます。 この統合を介して、追加のリード属性はAdobeに共有されません。
+この統合では、MarketoからAdobeにリストのメンバーシップ情報のみを共有します(例えば、リードXがリストYのメンバーであるという知識)。 この統合を介して、追加のリード属性はAdobeに共有されません。
