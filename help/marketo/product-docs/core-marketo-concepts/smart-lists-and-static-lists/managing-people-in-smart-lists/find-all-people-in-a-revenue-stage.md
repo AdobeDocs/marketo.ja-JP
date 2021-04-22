@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: 売上高の段階ですべての人を検索 — マーケティング担当者ドキュメント — 製品ドキュメント
+description: 売上高段階でのすべての人の検索 —Marketoドキュメント — 製品ドキュメント
 title: 売上高の段階ですべての人を検索
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 売上高段階ですべての人を検索{#find-all-people-in-a-revenue-stage}
 
