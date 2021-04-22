@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147023
-description: Webフック — Marketto Docs — 製品ドキュメントに電話する
-title: Webhookを呼び出す
+description: Webフックに電話 —Marketoドキュメント — 製品ドキュメント
+title: ウェブフックを呼び出し
+exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Webフック{#call-webhook}を呼び出す
+# ウェブフックを呼び出し {#call-webhook}
 
 >[!PREREQUISITES]
 >
 >[Webフックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
-## 概要{#overview}
+## 概要 {#overview}
 
 Webhookを使用すると、サードパーティのサービスとやり取りできます。 スマートキャンペーンフローでWebフックを呼び出して、情報を送受信します。
 
@@ -27,7 +27,7 @@ Webhookを使用すると、サードパーティのサービスとやり取り�
 >
 >[Webhooks](https://developers.marketo.com/documentation/webhooks/)があなたに役立つ素晴らしいことを学びましょう。
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 ドロップダウンから&#x200B;**Webhook**&#x200B;を選択します。
 
