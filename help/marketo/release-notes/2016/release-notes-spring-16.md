@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11370952
-description: リリースノート — Spring '16 - Marketto Docs — 製品ドキュメント
+description: リリースノート — Spring '16 -Marketoドキュメント — 製品ドキュメント
 title: リリースノート — Spring '16
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：春&#39;16 {#release-notes-spring}
 
 Spring 16リリースには次の機能が含まれています。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
-## [電子メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## [メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 電子メールインサイトは、集計データの新しい電子メール分析エクスペリエンスです。プロジェクトオリオンの一部として、驚異的な高速パフォーマンスを実現するようにエンドツーエンドに再設計されました。 電子メールマーケティング担当者のニーズやワークフローに合わせて最適化された、完全に新しいユーザーインターフェイスデザインが特徴です。
 
@@ -25,7 +25,7 @@ Spring 16リリースには次の機能が含まれています。 タイトル�
 
 ![](assets/two.png)
 
-## [電子メールテンプレート選択](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 新しいスターターテンプレートを使用して美しい電子メールを作成できます。 また、ライブサムネールからテンプレートをすばやく見つけます。
 
@@ -55,11 +55,11 @@ Marketo内でアプリ用の魅力的なアプリ内メッセージを作成で�
 
 ## [ランディングページ、ランディングページテンプレート、フォームAPI](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-Marketo REST APIで、マーケティングランディングページ、ランディングページテンプレートおよびフォームの制御がサポートされるようになりました。 ユーザーは、Marketor REST APIを使用して、これらのアセットを直接作成、コンテンツの更新、承認および削除できるようになりました。
+MarketoREST APIで、Marketoランディングページ、ランディングページテンプレート、フォームの制御がサポートされるようになりました。 ユーザーは、MarketoREST APIを使用して、これらのアセットを直接作成、コンテンツの更新、承認および削除できるようになりました。
 
-## [APIアクセスのIP許可リスト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## [APIアクセス用許可リストに加えるIP](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-MarketoユーザーログインのIP許可リスト機能と同様に、Marketorの管理者は、Marketo SOAPおよびREST APIにアクセスできるIPアドレスの許可リストを設定でき、許可されていないIPアドレスからのアクセスをブロックできるようになりました。 これにより、Marketoインスタンスのセキュリティが強化され、APIアクセスが組織のネットワーク内からのみ可能になります。 この設定方法の詳細については、[Marketoのドキュメントサイト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)を参照してください。
+Marketoユーザーログインに対するIP許可リストに加える機能と同様に、Marketo管理者はMarketoSOAPおよびREST APIにアクセスできる許可リストIPアドレスのを設定でき、許可されていないIPアドレスからのアクセスをブロックできるようになりました。 これにより、Marketoインスタンスにセキュリティの強化層が提供され、APIアクセスが組織のネットワーク内からのみ行えるようになります。 この設定方法の詳細は、[Marketoのドキュメントサイト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)で確認できます。
 
 ## [新しい高速Microsoft Dynamics同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -81,13 +81,13 @@ Orionアーキテクチャ上に構築された新しい高速ダイナミクス
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-現在、Marketoのインスタンス（サンドボックスインスタンスと実稼働インスタンスなど）を区別するのは困難です。 この機能を使用すると、現在作業中のインスタンスを確認できます。
+現在、Marketoインスタンス（サンドボックスインスタンスと実稼働インスタンスなど）を区別するのは難しくなっています。 この機能を使用すると、現在作業中のインスタンスを確認できます。
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [購読のアクセス時間制限](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-今日、ユーザーは無期限にマーケト購読に招待されます。 この機能を使用すると、管理者は、2週間や1か月など、限られた期間、購読にユーザーを招待できます。
+今日では、ユーザーがMarketo購読に無期限に招待されます。 この機能を使用すると、管理者は、2週間や1か月など、限られた期間、購読にユーザーを招待できます。
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -97,6 +97,6 @@ Orionアーキテクチャ上に構築された新しい高速ダイナミクス
 
 ![](assets/custom-objects-grid.png)
 
-## カスタムアクティビティ{#custom-activities}
+## カスタムアクティビティ {#custom-activities}
 
-マーケティング担当者は、カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。 Marketorカスタムオブジェクトモデラーと同様（および連携して）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。 この機能の使い方の詳細については、[Marketoのドキュメントサイト](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)を参照してください。
+Marketoの管理者は、Marketoカスタムアクティビティ定義モデラーを使用して、カスタムアクティビティの種類を定義および管理できるようになりました。 Marketoのカスタムオブジェクトモデラーと同様（および連携して）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。 この機能の使い方の詳細は、[Marketoのドキュメントサイト](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)で確認できます。
