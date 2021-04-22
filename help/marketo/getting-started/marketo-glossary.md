@@ -1,23 +1,23 @@
 ---
 unique-page-id: 12980733
-description: マーケティング用語集 — Marketto Docs — 製品ドキュメント
-title: マーケティング用語集
+description: Marketo用語集 —Marketoドキュメント — 製品ドキュメント
+title: Marketo用語集
+exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '4225'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
+# Marketo用語集{#marketo-glossary}
 
-# マーケティングツール用語集{#marketo-glossary}
+以下に、Marketoを使用する際に遭遇する可能性のある用語の多くを定義します。 キーワードの追加をリクエストするには、[メール](mailto:GRP-Marketo-articlefeedback@adobe.com)をお送りください。
 
-以下に、Marketoを使用する際に遭遇する可能性のある用語の多くについて説明します。 キーワードの追加をリクエストするには、[メール](mailto:GRP-Marketo-articlefeedback@adobe.com)をお送りください。
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
+| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[金](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[月](#M)** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[W](#W)** | **X** | **Y** | **Z** |
+| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[火](#T)** | **[U](#U)** | **V** | **[水](#W)** | **X** | **Y** | **Z** |
 
 ## {#a}
 
@@ -33,18 +33,18 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウント</strong></td> 
-   <td colspan="1">この用語は異なる意味を持つ場合があります。<br> — マーケティング担当者のインスタンス自体を、マーケティング担当者のアカウントと呼ぶことができます。<br>-  <strong>ABM</strong>( <strong>ABM</strong> )では、ユーザが決定したアカウントは、ターゲットが追跡したいアカウントです。<br>-ABMでは、CRMアカウントは、リンクされた <strong>CRM</strong> ( <strong>Salesforce</strong>、 <strong>MS Dynamics、</strong> APIのアカウント)からマップされたアカウント <strong></strong>です。<br>-CRMでは、アカウントはリードと連絡先が関連付けられるビジネス/会社です。</td> 
+   <td colspan="1">この用語は異なる意味を持つことがあります。<br>-MarketoのインスタンスそのものをMarketoのアカウントと呼ぶことができます。<br>-  <strong>ABM</strong>( <strong>ABM</strong> )では、ユーザが決定したアカウントは、ターゲットが追跡したいアカウントです。<br>-ABMでは、CRMアカウントは、リンクされた <strong>CRM</strong> ( <strong>Salesforce</strong>、 <strong>MS Dynamics、</strong> APIのアカウント)からマップされたアカウント <strong></strong>です。<br>-CRMでは、アカウントはリードと連絡先が関連付けられるビジネス/会社です。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">アカウントベースのマーケティング</a> (ABM)</strong></td> 
    <td colspan="1">主要アカウントのターゲットと関与を高度に調整できるアドオン機能です。</td> 
   </tr> 
   <tr> 
-   <td><strong>アカウントリスト</strong></td> 
+   <td><strong>顧客リスト</strong></td> 
    <td>主要なアカウント名/組織名のリスト。 アカウントベースマーケティング(<strong>ABM</strong>)リストとも呼ばれます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>アカウントのプロファイリング</strong></td> 
+   <td colspan="1"><strong>アカウントプロファイル</strong></td> 
    <td colspan="1">（以前のAccountAI）<strong>ABM</strong>では、理想的な顧客プロファイル(ICP)を使用して、データベース内の既存の会社がランク付けされ、ランクがアカウントのスコアとして追加されます。</td> 
   </tr> 
   <tr> 
@@ -52,16 +52,16 @@ ht-degree: 0%
    <td colspan="1"><strong>ABM</strong>では、アカウントに割り当てられたスコアで、エンゲージメントのレベルを判断するのに役立ちます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>獲得日</strong></td> 
-   <td colspan="1">人がマーケティング担当者に知られる日付。 この日付は、人物を取得した<strong>獲得プログラム</strong>に対応します。</td> 
+   <td colspan="1"><strong>取得日</strong></td> 
+   <td colspan="1">Marketoで知られる日。 この日付は、人物を取得した<strong>獲得プログラム</strong>に対応します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>獲得プログラム</strong></td> 
+   <td colspan="1"><strong>新規顧客獲得プログラム</strong></td> 
    <td colspan="1">人を取得する責任を負ったプログラム。 匿名の人物で、このプログラムが彼らを既知の人物に変える責任を負った。 これは、ファーストタッチアトリビューションの確立に役立ちます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>広告ネットワーク統合 </strong></a></td> 
-   <td colspan="1">（以前のAd Bridge）マーケティングの独自のオーディエンスデータを有料メディアシステムに接続し、ターゲットを絞り込んでパーソナライズしたデジタル広告キャンペーンを実行できます。</td> 
+   <td colspan="1">（旧称Ad Bridge）Marketo独自のオーディエンスデータを有料メディアシステムに接続し、ターゲットを絞り込んでパーソナライズしたデジタル広告キャンペーンを実行できます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">アラート</a></strong></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">API (Application Programming Interface</a> )</strong></td> 
-   <td colspan="1">オペレーティングシステムやアプリケーション（この場合、Marketo）で単一の機能または大量の機能を実行するために使用される、事前定義されたプロトコルのセットです。</td> 
+   <td colspan="1">オペレーティングシステムやアプリケーション(この場合はMarketo)で単一の機能または大量の機能を実行するために使用される、定義済みのプロトコルのセット。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>承認済み</strong></td> 
@@ -81,7 +81,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>アセット</strong></td> 
-   <td colspan="1">Marketoインスタンスのコンテンツとして機能する項目(例：<strong>電子メール</strong>、<strong>ランディングページ</strong>、<strong>スマートキャンペーン</strong>など)。</td> 
+   <td colspan="1">Marketoインスタンスでコンテンツとして機能する項目(例：<strong>email</strong>、<strong>ランディングページ</strong>、<strong>smartキャンペーン</strong>など)。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -111,21 +111,21 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>ブロックリストに加える</strong></a></td> 
-   <td> マーケティング資料(競合他社など)を受け取りたくないマーケティング担当者用のフィールド。 このフィブロックリストに加えるールドをtrueに設定すると、操作用電子メールを含む、Marketoインスタンスからの電子メールは受信されません。</td> 
+   <td> マーケティング資料(競合他社など)を受け取りたくないMarketoの人用のフィールド。 このフィブロックリストに加えるールドをtrueに設定すると、操作用電子メールを含む、Marketoインスタンスからの電子メールは受信されません。</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">バウンス</a></strong></p> 
     </div></td> 
-   <td>受信者に送信された電子メールが返されたとき。 弾力と弾力が強い。 ハードバウンスを行うと、電子メールサーバーが、その人の電子メールを配信できないとマーケティング担当者に指示した場合に、その人の電子メールアドレスが無効になる可能性があります。 ソフトバウンスとは、電子メールを相手に届ける際に何か故障が起こったことを意味します。これは自動的に解決されます。 ハードバウンスとソフトバウンスはどちらも<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">複数のカテゴリ</a>で構成されます。</td> 
+   <td>受信者に送信された電子メールが返されたとき。 弾力と弾力が強い。 ハードバウンスを行うと、メールサーバーが電子メールを配信できないとMarketoに伝えた場合に、その人の電子メールアドレスが無効になる可能性があります。 ソフトバウンスとは、電子メールを相手に届ける際に何か故障が起こったことを意味します。これは自動的に解決されます。 ハードバウンスとソフトバウンスはどちらも<a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">複数のカテゴリ</a>で構成されます。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->マーケティング担当者は、ブラックリストやホワイトリストなどの用語を、当社の製品のブロックリスト許可リストやに変更する過程にあります。 この更新中、UIとドキュメントのスクリーンショットには古い用語が表示され、ドキュメントのテキストには新しい用語が表示される場合があります。 ご混乱をおかけして申し訳ございません。
+>Marketoは、ブラックリストやホワイトリストなどの用語を、当社の製品でブロックリストや許可リストに変更する過程にあります。 この更新中、UIとドキュメントのスクリーンショットには古い用語が表示され、ドキュメントのテキストには新しい用語が表示される場合があります。 ご混乱をおかけして申し訳ございません。
 
 ## C {#c}
 
@@ -137,7 +137,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>キャンペーン</strong></td> 
-   <td colspan="1">「キャンペーン」とは、Marketoでいくつかのことを意味する場合があります。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">キャンペーン</a>は、スマートキャンペーンの短い用語です。 <strong>Marketo Sales Connect</strong>では、<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">キャンペーン</a>は一連の複数チャネルの通信手順です。 <strong>ウェブパーソナライゼーション</strong>では、ウェブ<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">キャンペーン</a>は、特定のセグメントに関連付けられたカスタマイズされた反応です。</td> 
+   <td colspan="1">「キャンペーン」はMarketoでいくつかのことを意味する。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">キャンペーン</a>は、スマートキャンペーンの短い用語です。 <strong>Marketoセールスコネクト</strong>では、<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">キャンペーン</a>は一連のマルチチャネル通信の手順です。 <strong>ウェブパーソナライゼーション</strong>では、ウェブ<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">キャンペーン</a>は、特定のセグメントに関連付けられたカスタマイズされた反応です。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">キャンペーンアクティビティレポート</a></strong></td> 
@@ -148,8 +148,8 @@ ht-degree: 0%
    <td colspan="1"><strong>スマートキャンペーン</strong>別にグループ化された電子メールのパフォーマンス指標を表示するレポートタイプ。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">キャンペーンフォルダー</a></strong></td> 
-   <td colspan="1">複数の<strong>プログラム</strong>や<strong>スマートキャンペーン</strong>を保持できる組織ユニット。 デスクトップ上のフォルダーと同様に、マーケティング内のフォルダーは組織やレポートに使用されます。</td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">キャンペーンフォルダ</a></strong></td> 
+   <td colspan="1">複数の<strong>プログラム</strong>や<strong>スマートキャンペーン</strong>を保持できる組織ユニット。 デスクトップ上のフォルダと同様に、Marketoのフォルダは整理やレポートに使用されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>キャスト</strong></a></td> 
@@ -160,27 +160,27 @@ ht-degree: 0%
    <td colspan="1"><strong>プログラム</strong>に関連付けられるマーケティングアクティビティのタイプ（例：電子メール、<strong>ウェビナー、</strong>トレードショー、ロードショー、オンライン広告など）。 </td> 
   </tr> 
   <tr> 
-   <td><strong>クリックして開く%</strong></td> 
+   <td><strong>クリックして開封 %</strong></td> 
    <td>電子メール内で開かれ、リンクがクリックされた電子メールの割合。 ここでは、個別クリック数を個別オープン数で割った値を100に乗算して割合として表示することで、電子メールの関連性とコンテキストを測定します。</td> 
   </tr> 
   <tr> 
-   <td><strong>クリック数</strong></td> 
+   <td><strong>クリック</strong></td> 
    <td>デフォルトでは、電子メール内のリンクにトラッキングが埋め込まれており、電子メール内のリンクは、誰がどのリンクをクリックしたか、合計クリックされた数などを確認できます。</td> 
   </tr> 
   <tr> 
-   <td><strong>Clickstream</strong></td> 
+   <td><strong>クリックストリーム</strong></td> 
    <td>訪問者のサイト上でのアクティビティとURLのパス、および各ページの訪問期間。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>クローン</strong></td> 
-   <td colspan="1">Marketing Cloudでは、インスタンス内で複数の異なるタイプのエンティティを重複できます。 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">プログラム</a>、プログラム</a>内の<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">アセット、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ストリーム</a>などをコピーできます。</a></td> 
+   <td colspan="1"><strong>複製</strong></td> 
+   <td colspan="1">Marketoでは、インスタンス内で複数のタイプのエンティティを重複できます。 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">プログラム</a>、プログラム</a>内の<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">アセット、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ストリーム</a>などをコピーできます。</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URLの前の部分。 1つ目の単語（プラスYourCompany.com）はCNAMEと呼ばれます(例：<em>info</em>.YourCompany.com/)。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong>会社Webアクティビティレポート</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong> 企業のウェブアクティビティレポート</strong></a></td> 
    <td colspan="1">Webサイトの訪問者を示すレポートタイプ。</td> 
   </tr> 
   <tr> 
@@ -201,7 +201,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>コンテンツエンゲージメントレベル</strong></td> 
-   <td colspan="1">0 ～ 100ポイントスコア。マーケティング担当者が<strong>エンゲージメントプログラム</strong>でコンテンツに与えます。 スコアは、<strong>opens</strong>、<strong>clicks</strong>、<strong>unsubscribes</strong>、プログラムの成功などを使用した高度な数式によって決定されます。</td> 
+   <td colspan="1">0 ～ 100ポイントスコア。Marketoが<strong>エンゲージメントプログラム</strong>でコンテンツを提供します。 スコアは、<strong>opens</strong>、<strong>clicks</strong>、<strong>unsubscribes</strong>、プログラムの成功などを使用した高度な数式によって決定されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cookie</strong></td> 
@@ -209,7 +209,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">カスタムオーディエンス</a></strong></td> 
-   <td colspan="1">Facebookで、ダイレクトターゲティングを目的として、（マーケティングデータベースの）特定の既存の人で構成されるリストを作成します。</td> 
+   <td colspan="1">facebookでは、(Marketoデータベースの)特定の既存の人々で構成されるリストを直接ターゲティングの目的で作成します。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">カスタムフィールド</a></strong></td> 
@@ -224,7 +224,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 顧客関係管理(CRM)</strong></p> 
     </div></td> 
-   <td colspan="1">顧客/見込み顧客に関連する情報を組織が管理できるシステム。 Marketing Cloudでは、次の2つのCRMとのネイティブ統合のみが可能です。<strong>Salesforce</strong>と<strong>Microsoft Dynamics</strong>。</td> 
+   <td colspan="1">顧客/見込み顧客に関連する情報を組織が管理できるシステム。 Marketoでは、次の2つのCRMとのネイティブ統合のみが可能です。<strong>Salesforce</strong>と<strong>Microsoft Dynamics</strong>。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -246,7 +246,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>重複除外</strong></td> 
-   <td>重複除外とも呼ばれます。 情報（例：人材）を特定・統合し、重複を排除するプロセス。 例えば、新しいユーザーがインスタンスに入ると、Marketorは自動的に重複を排除します。</td> 
+   <td>重複除外とも呼ばれます。 情報（例：人材）を特定・統合し、重複を排除するプロセス。 例えば、Marketoは、新しいユーザーがインスタンスに入ると自動的に重複排除を行います。</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -256,7 +256,7 @@ ht-degree: 0%
    <td colspan="1">Marketoのプログラムタイプ。 電子メール、イベント、またはアクションプログラムと関連がない場合に使用する汎用プログラム。 <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>配信品質</strong></td> 
+   <td colspan="1"><strong>到達率</strong></td> 
    <td colspan="1">電子メールメッセージが目的の受信者の受信トレイに届く機能。<strong>スパム</strong>やクライアント側のフィルターの影響を受ける可能性があります。 「配信済み」とは異なり、電子メールが受信者サーバーに受け渡されたことを示すだけです。</td> 
   </tr> 
   <tr> 
@@ -268,12 +268,12 @@ ht-degree: 0%
    <td colspan="1">肩書、売上高、ターゲット業界など、個人が持つ特定の属性に基づいて割り当てられるポイント値。 通常、ユーザの製品や会社に合った人数を測定するために使用します。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>デザインスタジオ</strong></td> 
+   <td colspan="1"><strong>デザイン スタジオ</strong></td> 
    <td colspan="1"><strong>Marketo Engage</strong>のコアセクションの1つ。 Design Studioは、次のように、<strong>アセット</strong>のホームページにあります。<strong>ランディングページ</strong>、フォーム、<strong>電子メール</strong>、<strong>スニペット</strong>、画像/ファイル。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
-   <td colspan="1">ドキュメントを除き、ドキュメントは顧客が商品をより深く理解できるよう支援記事です。 Marketorには、様々な種類のドキュメントがあります。製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a>ドキュメント、<a href="https://developers.marketo.com/" rel="nofollow">開発者</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメント。</td> 
+   <td colspan="1">ドキュメントを除き、ドキュメントは顧客が商品をより深く理解できるよう支援記事です。 Marketoには様々な種類のドキュメントがあります。製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a>ドキュメント、<a href="https://developers.marketo.com/" rel="nofollow">開発者</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメント。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポートおよび準拠(DMARC)</strong></td> 
@@ -284,7 +284,7 @@ ht-degree: 0%
    <td colspan="1">送信側のドメインを保護する認証メカニズム。送信者は、送信者のアドレスのドメイン名を特定の電子メールメッセージに関連付けることができます。 これにより、受信者は、ドメインの所有者が電子メールを正当に送信したことを知ることができます。 送信者は、電子署名を含む電子メールにメッセージヘッダーに署名します。 受信者は、ドメインの所有者がDNSで発行した公開鍵を使用して署名を復号化でき、ドメインの所有者がメールを正当に送信したことを確認できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>ドラフト</strong></td> 
+   <td colspan="1"><strong>下書き</strong></td> 
    <td colspan="1"><p>まだ<strong>承認</strong>されていない<strong>電子メール</strong>または<strong>ランディングページ</strong>。 ドラフトは、承認されるまで公開表示できません。 ドラフトをテスト電子メール（サンプル）として送信できますが、分析は記録されません。 <br></p></td> 
   </tr> 
   <tr> 
@@ -311,12 +311,12 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>電子メール</strong></td> 
-   <td colspan="1">Marketoでは、顧客との通信に使用できる<strong>アセット</strong>の1つ。 電子メールには、HTML（グラフィック、カスタムフォントなど）またはテキストのみ（特別な形式のないプレーンテキストメッセージ）を使用できます。 「開く」と記録できるのは、HTML電子メールのみです。</td> 
+   <td colspan="1"><strong>メール</strong></td> 
+   <td colspan="1">Marketoでは、お客様との通信に使用できる<strong>アセット</strong>の1つ。 電子メールには、HTML（グラフィック、カスタムフォントなど）またはテキストのみ（特別な形式のないプレーンテキストメッセージ）を使用できます。 「開く」と記録できるのは、HTML電子メールのみです。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>電子メールが無効です</strong></td> 
-   <td colspan="1"><strong>データベース</strong>内のユーザーの電子メールアドレスが配信可能かどうかを示す、Marketoのデフォルトフィールドです。</td> 
+   <td colspan="1"><strong>メール無効</strong></td> 
+   <td colspan="1"><strong>database</strong>内のユーザーの電子メールアドレスが配信可能かどうかを示す、Marketoのデフォルトのフィールドです。</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -326,13 +326,13 @@ ht-degree: 0%
    <td colspan="1">Marketoのプログラムタイプ。 電子メールプログラムは、1回限りの電子メール送信に使用されます。 <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B testing</a></strong>を利用して、電子メールの結果を追跡できます。<br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>電子メールの一時停止</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>メールの中断</strong></a></td> 
    <td colspan="1"><strong>ハードバウンス</strong>が発生してから24時間、電子メールの受信をブロックするステータス。 24時間が経つと、再びメール可能になります。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">アクションプログラム</a></strong></p> 
+     <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">エンゲージメントプログラム</a></strong></p> 
     </div></td> 
    <td colspan="1">Marketoのプログラムタイプ。 エンゲージメントプログラムを使用すると、コンテンツを系統的に配信(「エンゲージメントのプログラム」とも呼ばれます)することで、新しいユーザーにマーケティングを行うことができます。<br></td> 
   </tr> 
@@ -356,13 +356,13 @@ ht-degree: 0%
    <td colspan="1">Marketoのプログラムタイプ。 イベントプログラムは、<strong>イベント</strong>をオンとオフラインの両方で自動化するために使用します（ウェビナー、ミートップ、トレードショーなど）。  </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>疲れ果てた</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>消費済み</strong></a></td> 
    <td colspan="1">ある人がアクションストリーム内のすべてのコンテンツを受信したとき。 使い果たされたとマークされた人は、追加の<strong>コンテンツ</strong>が追加されるまで、そのまま残ります。</td> 
   </tr> 
  </tbody> 
 </table>
 
-## F {#f}
+## 金 {#f}
 
 <table> 
  <colgroup> 
@@ -375,7 +375,7 @@ ht-degree: 0%
    <td colspan="1">ISPが受信者の苦情を電子メールの送信元の組織に転送したとき。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>フィルタ</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>フィルター</strong></a></td> 
    <td><strong>スマートリスト</strong>で使用されるツール。オーディエンスを絞り込むことができます（例：カリフォルニアに住むデータベース内の全員）。 フィルターは、<strong>バッチ</strong>と<strong>トリガーキャンペーン</strong>の両方で使用できます。</td> 
   </tr> 
   <tr> 
@@ -407,7 +407,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>グローバルアセット</strong></td> 
-   <td><strong>Design Studio</strong>に作成され、Marketoインスタンス全体の<strong>プログラム</strong>で使用するアセット。 </td> 
+   <td><strong>Design Studio</strong>に作成されたアセット。Marketoインスタンス全体の<strong>プログラム</strong>で使用します。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ガイド付きランディングページ</strong></td> 
@@ -431,7 +431,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -440,13 +440,13 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>面白い瞬間</strong></a></td> 
-   <td><p><strong>Marketto Sales Insight</strong>で、特定の関連性があると思われる出現（例えば、サイトの特定のページを訪問したとき、電子メール内の特定のリンクをクリックしたときなど） セールス・チームに認識してもらいたい</p></td> 
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>注目のアクション</strong></a></td> 
+   <td><p><strong>Marketo販売インサイト</strong>で、特定の関連性があると思われる出現（例えば、誰かがサイトの特定のページを訪問したとき、電子メール内の特定のリンクをクリックしたときなど）。 セールス・チームに認識してもらいたい</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -455,8 +455,8 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>既知の人</strong></a></td> 
-   <td><p>Marketor <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。 データベースを使用するユーザーには、次のような様々な方法があります。CRM同期、フォームへの入力、リストの読み込み/手動入力、プログラム（REST API/パートナー統合）、その他。 Web訪問者は、最初はMarketoの<strong>Munchkin</strong>Webトラッキング経由で<strong>cookie</strong>され（匿名）、その後、特定可能なアクションが発生した場合に、対応する既知の人物レコードにマッピングされます。<a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a>と<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a>の両方の</p></td> 
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>認識済み担当者</strong></a></td> 
+   <td><p>Marketo<strong>データベース</strong>内の人物データは、既知の人物データと見なされます。 データベースを使用するユーザーには、次のような様々な方法があります。CRM同期、フォームへの入力、リストの読み込み/手動入力、プログラム（REST API/パートナー統合）、その他。 ウェブ訪問者は、最初はMarketo<strong>Munchkin</strong>ウェブトラッキング経由で<strong>cookie</strong>（匿名）で、次に、特定可能な行動が起きた場合に、対応する既知の人物レコードにマッピングされます。4/&gt;Munchkin</a>と<a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a><a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead"></a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -474,15 +474,15 @@ ht-degree: 0%
     <div> 
      <p><strong>ランディングページ</strong></p> 
     </div></td> 
-   <td><strong>コンテンツ</strong>を表示し、訪問者を追跡できる、マーケティング先がホストするページ。 次の2種類があります。フリーフォームとガイド付き。 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">自由形式のランディング</a> ページを使用すると、任意のコンテンツを任意の場所にドラッグ&amp;ドロップできます。<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">ガイド付きランディング</a> ページはより厳密で、事前に定義されたレイアウトや構造がテン <strong>プレートによって決まります</strong>。</td> 
+   <td><strong>コンテンツ</strong>を表示し、訪問者を追跡できる、Marketoがホストするページ。 次の2種類があります。フリーフォームとガイド付き。 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">自由形式のランディング</a> ページを使用すると、任意のコンテンツを任意の場所にドラッグ&amp;ドロップできます。<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">ガイド付きランディング</a> ページはより厳密で、事前に定義されたレイアウトや構造がテン <strong>プレートによって決まります</strong>。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
-   <td>数百のテクノロジーとデジタルサービスのパートナーを持つ、クラス最高のMarketo統合ソリューションを提供します。</td> 
+   <td>クラス最高のMarketo統合ソリューションを実現。数百のテクノロジーとデジタルサービスのパートナーを抱えます。</td> 
   </tr> 
   <tr> 
    <td><strong>リード</strong></td> 
-   <td><strong>Marketo Engage</strong>では、リードは、マーケティングキャンペーンを通じて関与しているマーケット担当者<strong>データベース</strong>の個人を表すのに使用される、前の用語です（<strong>人</strong>に置き換えられます）。 <strong>CRM</strong>では、リードは、マーケティング担当者の機能とは無関係に、異なる概念（<strong>オポチュニティ</strong>に関連付けられた個人など）を表す場合があります。</td> 
+   <td><strong>Marketo Engage</strong>では、リードは前の用語（<strong>人</strong>に置き換えられる）です。Marketo<strong>データベース</strong>の中で、マーケティングキャンペーンを通じて関与している人を表します。 <strong>CRM</strong>では、リードは、Marketoの機能とは無関係に、異なる概念（<strong>オポチュニティ</strong>に関連付けられた個人）を表す場合があります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>リードデータベース</strong></td> 
@@ -493,16 +493,16 @@ ht-degree: 0%
     <div> 
      <p><strong> リスト</strong></p> 
     </div></td> 
-   <td colspan="1">人の集まり。 Marketorには、スマートリストと静的リストがあります。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">スマートリスト</a>は、定義したフィルターに基づいて常に変化する人々の動的なリストです（例：カリフォルニアに住むデータベース内の全員）。 新しい人が条件に該当する（または既存の人が資格を失った）場合、リストは変わります。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静的なリスト</a>は静的です。 ユーザーを手動で追加/削除しない限り、この変数は変更されません。</td> 
+   <td colspan="1">人の集まり。 Marketoにはスマートリストと静的リストがあります。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">スマートリスト</a>は、定義したフィルターに基づいて常に変化する人々の動的なリストです（例：カリフォルニアに住むデータベース内の全員）。 新しい人が条件に該当する（または既存の人が資格を失った）場合、リストは変わります。 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">静的なリスト</a>は静的です。 ユーザーを手動で追加/削除しない限り、この変数は変更されません。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>ローカルアセット</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>ローカル アセット</strong></a></td> 
    <td><strong>特定の</strong> プログラム内でアセット化されました <strong></strong>。</td> 
   </tr> 
  </tbody> 
 </table>
 
-## M {#m}
+## 月 {#m}
 
 <table> 
  <colgroup> 
@@ -511,11 +511,11 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>マーケティングアクティビティ</strong></td> 
+   <td><strong>マーケティング活動</strong></td> 
    <td><p>Marketo Engageの中核部分の1つ。 <strong>キャンペーン</strong>オーケストレーションが発生する場所です。 <strong>プログラムー</strong>、キャンペーンー、<strong>キャンペーンーフォルダー</strong>（および<strong>ローカルアセット</strong>）はすべてここに保存されています。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>マーケティングの自動化</strong></a></td> 
+   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>マーケティングオートメーション</strong></a></td> 
    <td colspan="1">会社がマーケティングタスクやワークフローを合理化、自動化、測定できるテクノロジーのカテゴリ。これにより、運用効率を向上させ、収益をより早く伸ばすことができます。</td> 
   </tr> 
   <tr> 
@@ -523,44 +523,44 @@ ht-degree: 0%
    <td colspan="1">オーディエンスのセグメントを育成した後、一部の個人がマーケティング資格を持つリードになる可能性があります。つまり、フォローアップのために販売組織に渡すために、成功基準に合致する行動と特性を示しています。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティングの中断</strong></a></td> 
-   <td colspan="1">このフィールドは、<strong>user</strong>が手動で設定し、マーケティング担当者<strong>database</strong>を一時的にメール不能にします。</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティングを中断したリード</strong></a></td> 
+   <td colspan="1">このフィールドは、<strong>user</strong>が手動で設定し、Marketo<strong>database</strong>内の誰かを一時的にメール不能にします。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Adobe Experience Cloud内のすべてのマーケティング担当者の製品の集計を表す正式なブランド名。</td> 
+   <td colspan="1">Adobe Experience Cloud内のすべてのMarketo製品の集計に関する正式なブランド名。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>マーケティング担当リード管理(MLM)</strong></td> 
+   <td colspan="1"><strong>Marketoリード管理(MLM)</strong></td> 
    <td colspan="1">Marketoの従来のコアアプリケーションインターフェイスを表すのに使用される口語。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>マーケティングパフォーマンスインサイト(MPI)</strong></td> 
+   <td colspan="1"><strong>Marketoパフォーマンスインサイト(MPI)</strong></td> 
    <td colspan="1">（<strong><a href="#p">パフォーマンスインサイト</a></strong>を参照）</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo・セールス・コネクト</a> (MSC)</strong></td> 
    <td>マーケティング担当者が見込み客と関わり合い、パフォーマンスを追跡できるようにする、アドオンの多面的な販売ツールです。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketor Sales Insight(MSI)</strong></td> 
+   <td colspan="1"><strong>Marketo販売インサイト(MSI)</strong></td> 
    <td colspan="1">マーケティング担当者が、<strong>CRM</strong>から得たマーケティングの洞察を利用して、販売者に力を与えることができるアドオン機能です。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a></strong></td> 
-   <td colspan="1">（旧）次世代のMarketoインターフェイス。 新しいデザイン、ワークフロー、機能を利用して、Marketoをより多く活用できます。</td> 
+   <td colspan="1">（旧）Marketoインターフェースの次世代。 新しいデザイン、ワークフロー、機能を活用して、Marketoをさらに活用できます。</td> 
   </tr> 
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>MSDとも呼ばれます。 2つのCRMのうちの1つは、<a href="#c"><strong>CRM</strong></a>を参照してください。</td> 
+   <td>MSDとも呼ばれます。 2つのCRMMarketoのうちの1つは、（<a href="#c"><strong>CRM</strong></a>を参照）とネイティブに統合されています。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">マンチキン</a></strong></td> 
-   <td>マーケティング担当者向けのカスタムJavaScriptトラッキングコード。 Webサイトの訪問者をすべて追跡します。 匿名訪問者（IPアドレスやその他の情報と共に）も含まれます。 </td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td>MarketoのカスタムJavaScriptトラッキングコード。 Webサイトの訪問者をすべて追跡します。 匿名訪問者（IPアドレスやその他の情報と共に）も含まれます。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>マイマーケット</strong></td> 
-   <td colspan="1">Marketo Engageの標準セクションの1つ。 マーケティング担当者の「ホームページ」の役割を果たし、アクセス権を持つマーケティング担当者のすべてのセクションのタイルを表示します。</td> 
+   <td colspan="1"><strong>My Marketo</strong></td> 
+   <td colspan="1">Marketo Engageの標準セクションの1つ。 Marketoの「ホームページ」として、アクセスできるMarketoのすべてのセクションのタイルを表示します。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>マイトークン</strong></a></td> 
@@ -578,17 +578,17 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>固有のアカウント</strong></td> 
+   <td><strong>特定顧客</strong></td> 
    <td><p><strong>ABM</strong>では、ユーザーが決定したアカウントは、ターゲットが追跡したいアカウントです。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>プログラムをはぐくむ</strong></td> 
+   <td><strong>育成プログラム</strong></td> 
    <td>参照(<a href="#e" rel="nofollow">エンゲージメントプログラム</a>)</td> 
   </tr> 
  </tbody> 
 </table>
 
-## {#o}
+## O {#o}
 
 <table> 
  <colgroup> 
@@ -597,15 +597,15 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>開く</strong></td> 
-   <td><p><strong>電子メール</strong>に画像がダウンロードされると、オープンレジスタが登録されます。 画像を含めない場合でも、デフォルトでは、MarketorはすべてのHTML電子メールに1つのトラッキングピクセルを挿入します。 テキストのみの電子メールは、開いているユーザーを登録できません。</p></td> 
+   <td><strong>開封</strong></td> 
+   <td><p><strong>電子メール</strong>に画像がダウンロードされると、オープンレジスタが登録されます。 画像を含めない場合でも、デフォルトでは、MarketoはすべてのHTML電子メールに1つのトラッキングピクセルを挿入します。 テキストのみの電子メールは、開いているユーザーを登録できません。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">操作用電子メール</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">オペレーショナルメール</a></strong></td> 
    <td colspan="1"> 「<strong>登録解除</strong>」および「<strong>マーケティングの一時停止</strong>」のステータスを無視する電子メールです。 重要な電子メールまたは自動応答電子メールに使用する場合。 マーケティング向けではありません。 <strong>ブロックリストに加える</strong>または<strong>電子メールの無効</strong>のステータスを持つユーザーには、操作用の電子メールは送信されません。 <br></td> 
   </tr> 
   <tr> 
-   <td><strong>オポチュニティ</strong></td> 
+   <td><strong>商談</strong></td> 
    <td>オポチュニティは、将来の潜在的な販売として、<strong>人</strong>または<strong>アカウント</strong>に関連付けることができます。 通常、<strong>CRM</strong>経由、または<strong>API</strong>経由でMarketoに入ります。</td> 
   </tr> 
   <tr> 
@@ -632,45 +632,45 @@ ht-degree: 0%
    <td colspan="1">Marketoのレポートタイプ。 これにより、<strong>データベース</strong>の長さを経時的に測定できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>期間コスト</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>期間原価</strong></a></td> 
    <td colspan="1">特定の月に費やしたお金は、<strong>プログラム</strong>に費やします。</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> パフォーマンスの洞察</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> パフォーマンスインサイト</strong></a></p> 
     </div></td> 
-   <td colspan="1">以前は、マーケティングパフォーマンスインサイト(MPI)と呼ばれていました。 様々なツールを使用して傾向を発見し、一貫した勝者戦略を特定するアドオン分析機能。</td> 
+   <td colspan="1">以前はMarketoパフォーマンスインサイト(MPI)と呼ばれていました。 様々なツールを使用して傾向を発見し、一貫した勝者戦略を特定するアドオン分析機能。</td> 
   </tr> 
   <tr> 
-   <td><strong>人</strong></td> 
-   <td>マーケティングキャンペーンを通じて関与しているMarketor <strong>database</strong>の個人。</td> 
+   <td><strong>担当者</strong></td> 
+   <td>マーケティングキャンペーンを通じて関与している、Marketo<strong>データベース</strong>の個人。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">人物パーティション</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">担当者パーティション</a></strong></td> 
    <td colspan="1">個人パーティションは、別々の<strong>データベース</strong>のように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">Marketorの<strong>アカウントベースのマーケティング</strong>では、個人はオーディエンスのサブセットであり、より具体的なターゲティングを行うことができます。</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>ペルソナ</strong></a></td> 
+   <td colspan="1">Marketoの<strong>アカウントベースのマーケティング</strong>では、個人はオーディエンスのサブセットであり、より具体的なターゲット設定が可能です。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
-   <td colspan="1">マーケットでの調査は、通常の調査と同様です。 人が投票して、マーケット担当者<strong>ランディングページ</strong>、Webサイト、ソーシャルメディアで共有できるトピックを作成します。</td> 
+   <td colspan="1">Marketoの世論調査は、通常の調査と同じです。 投票する人や、自分のMarketo<strong>ランディングページ</strong>、自分のWebサイト、ソーシャルメディアで共有する人のためのトピックを作成します。</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><strong>予測コンテンツ</strong></p> 
+     <p><strong>予想コンテンツ</strong></p> 
     </div></td> 
-   <td>（旧称ContentAI）機械学習と予測分析を活用したレコメンデーションを使用し、MarketingユーザーがWeb訪問者ーや電子メール受信者と最も関連性の高い<strong>コンテンツ</strong>との関わりを高めるのに役立つアドオン機能です。</td> 
+   <td>（旧称ContentAI）機械学習と予測分析を活用したレコメンデーションを使用し、Marketoのユーザーが最も関連性の高い<strong>コンテンツ</strong>とWeb訪問者や電子メール受信者との関わりを高めるのに役立つアドオン機能です。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">プログラム</a></strong></td> 
    <td colspan="1">マーケティングイニシアチブを実行するために必要なすべてを保持するコンテナ。 次の4種類があります。<strong>イベントプログラム</strong>、<strong>アクションプログラム</strong>、<strong>電子メールプログラム</strong>、<strong>デフォルトプログラム</strong>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>プログラム月</strong></td> 
+   <td colspan="1"><strong>プログラムの月</strong></td> 
    <td colspan="1"> <strong>プログラム</strong>の<strong>期間に関連する月は、</strong>費用がかかります。</td> 
   </tr> 
   <tr> 
@@ -689,7 +689,7 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>資格ルール</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>クオリフィケーションルール</strong></a></td> 
    <td><strong>スマートキャンペーン</strong>で所定の条件を満たす人は、その条件に適合する。 条件ルールを設定して、そのスマートキャンペーン内の<strong>フロー</strong>を何回実行できるかを決定できます。</p></td> 
   </tr> 
  </tbody> 
@@ -716,16 +716,16 @@ ht-degree: 0%
    <td>アドオン機能には、インスタンス全体のレポートを強化するために設計された様々なツールが含まれています。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>売上高モデル</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>収益モデル</strong></a></td> 
    <td colspan="1"><strong>売上高サイクル分析(RCA)</strong>で使用されるツールで、一連のステージを使用します。これにより、<strong>リード</strong>がどこにあるかを、任意の時点で追跡できます。</td> 
   </tr> 
   <tr> 
-   <td><strong>役割</strong></td> 
+   <td><strong>ロール</strong></td> 
    <td>複数の権限をグループ化するユーザーに割り当てられるタイトル（管理者、マーケティングユーザーなど）。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ロールアカウント</strong></td> 
-   <td colspan="1">個々の人に属さない、部門または職階に属する電子メールアドレス（例：security@、sysadmin@など）。 Marketoは、個々の加入者に関連付けられない<a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">特定の役割のアカウント</a>にメールが送信されるのをブロックします。</td> 
+   <td colspan="1">個々の人に属さない、部門または職階に属する電子メールアドレス（例：security@、sysadmin@など）。 Marketoは、個々の加入者に関連付けられない<a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">特定の役割アカウント</a>にメールが送信されるのをブロックします。</td> 
   </tr> 
  </tbody> 
 </table>
@@ -740,7 +740,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Salesforce</strong></td> 
-   <td colspan="1">SFDCとも呼ばれます。 2つのCRMのうちの1つは、<a href="#c"><strong>CRM</strong></a>を参照してください。</td> 
+   <td colspan="1">SFDCとも呼ばれます。 2つのCRMMarketoのうちの1つは、（<a href="#c"><strong>CRM</strong></a>を参照）とネイティブに統合されています。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>電子メールのサンプル</strong></a></td> 
@@ -751,7 +751,7 @@ ht-degree: 0%
    <td>セグメント内のカテゴリ（「<strong>セグメント化</strong>」を参照）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">セグメント</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">セグメンテーション</a></strong></td> 
    <td colspan="1">指定した<strong>スマートリスト</strong>ルールに基づく、<strong>データベース</strong>内のユーザーのグループ。 例えば、Industryというセグメントを作成し、その中のカテゴリを次のように指定できます。医療、技術、金融など セグメント化機能を使用すると、選択した人口統計に基づいて、人々のグループ全体にマーケティングできます。</td> 
   </tr> 
   <tr> 
@@ -760,7 +760,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>スマートキャンペーン</strong></a></td> 
-   <td colspan="1">Marketoの最も重要なツールの1つ。 ユーザーは、決定した条件に基づいて指定したアクションを実行します。 (<strong><a href="#b">バッチキャンペーン</a></strong>および<strong><a href="#t">トリガーキャンペーン</a></strong>も参照)</td> 
+   <td colspan="1">Marketoで最も重要な道具の一つ。 ユーザーは、決定した条件に基づいて指定したアクションを実行します。 (<strong><a href="#b">バッチキャンペーン</a></strong>および<strong><a href="#t">トリガーキャンペーン</a></strong>も参照)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>スマートリスト</strong></td> 
@@ -776,7 +776,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>SaaS(Software as a Service)</strong></td> 
-   <td colspan="1">ダウンロードを必要としない、Webブラウザーとインターネット接続（例：Marketoなど）を持つ配信の方式。 </td> 
+   <td colspan="1">ダウンロードを必要としない、ウェブブラウザとインターネット接続(例：Marketo)を持つ配信だけのソフトウェア接続方式。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>スパム</strong></td> 
@@ -787,7 +787,7 @@ ht-degree: 0%
    <td colspan="1">ISPや電子メールセキュリティプロバイダーがスパム送信者をトラップするために特に監視する電子メールアドレスです。 これには、使用されないアドレス、タイプロドメイン、期限切れのドメインなどが含まれます。 スパムトラップの種類によって、フォームの問題（タイプスパムトラップ）からの取得に関する問題が異なることが示されます。データベースの適切な保守や、無効なアドレスの削除（期限切れのドメインスパムトラップ）、リストの購入による許可なしでの取得です。 これらのアドレスに送信されたメールは<strong>スパム</strong>としてマークされます。</td> 
   </tr> 
   <tr> 
-   <td><strong>テストの分割</strong></td> 
+   <td><strong>分割テスト</strong></td> 
    <td>2つ以上のバリエーションを使用してテストを行い、結果の違いを測定します。 目標は、関心のある結果を増やすか最大化するWebページに対する変更を識別することです。</td> 
   </tr> 
   <tr> 
@@ -801,7 +801,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## T {#t}
+## 火 {#t}
 
 <table> 
  <colgroup> 
@@ -819,11 +819,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">トークン</a></strong></td> 
-   <td colspan="1">パーソナライズされたデータを自動的に挿入できる、Marketing内の様々なアセット/関数で使用できる変数です。</td> 
+   <td colspan="1">パーソナライズされたデータを自動的に挿入できる、Marketo内の様々なアセット/機能で使用できる変数です。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>ツリー</strong></td> 
-   <td colspan="1">Marketorの左側の列。項目を階層構造で表示します。 Marketoインスタンス内のすべてを表示します(例：<strong>workspaces</strong>、<strong>プログラム</strong>、<strong>ローカルアセット</strong>など)。</td> 
+   <td colspan="1"><strong>樹木</strong></td> 
+   <td colspan="1">Marketoの左側の列。項目を階層構造で表示します。 これは、Marketoインスタンス内のすべてを表示します(例：<strong>workspaces</strong>、<strong>プログラム</strong>、<strong>ローカルアセット</strong>など)。</td> 
   </tr> 
   <tr> 
    <td><strong>トリガー</strong></td> 
@@ -850,22 +850,22 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> 登録解除</strong></p> 
+     <p><strong> 配信停止</strong></p> 
     </div></td> 
    <td colspan="1"><strong>人</strong>がマーケティング電子メールを受信しなくなった場合、別の「オプトアウト」を表す用語です。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">登録解除</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">配信停止完了</a></strong></td> 
    <td>受信者がマーケティング電子メールの受信を停止したことを示すステータス。 登録解除とマークされたユーザーは、<strong>操作用の電子メール</strong>を引き続き受信できます。</td> 
   </tr> 
   <tr> 
-   <td><strong>ユーザー</strong></td> 
-   <td>Marketoを使用する個人。</td> 
+   <td><strong>ユーザ</strong></td> 
+   <td>Marketoを使う人。</td> 
   </tr> 
  </tbody> 
 </table>
 
-## W {#w}
+## 水 {#w}
 
 <table> 
  <colgroup> 
@@ -885,20 +885,20 @@ ht-degree: 0%
    <td>Marketoのレポートタイプ。 Webサイトの既知の<i>または</i>匿名の人々を表示できます。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Webパーソナライゼーション</strong></td> 
-   <td>ターゲット設定とパーソナライゼーションのプラットフォームを提供するアドオン機能です。Marketorユーザーは、既知の匿名訪問者を、ユーザーであるユーザーと行動に基づいて、リアルタイムに関与させることができます。</td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">ウェブパーソナライゼーション</strong></td> 
+   <td>ターゲット設定とパーソナライゼーションのプラットフォームを提供するアドオン機能です。Marketoのユーザーは、既知の匿名訪問者を、ユーザーとその行動に基づいてリアルタイムに関与させることができます。</td> 
   </tr>
   <tr> 
-   <td><strong>ウェビナー</strong></td> 
-   <td>Webベースのセミナー。 Marketoでは、ウェビナーは様々な<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">イベントパートナーを介して実施できます。</a></strong></td> 
+   <td><strong>オンライン セミナ</strong></td> 
+   <td>Webベースのセミナー。 Marketoでは、ウェビナーは様々な<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">イベントパートナーを介して行うことができます。</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Webサイトの再ターゲット設定</a></strong></td> 
-   <td>Marketorユーザーが、業界、名前付きアカウント、既知のデータに基づいて、ターゲットの既知および匿名訪問者（FacebookやGoogle経由）に関連する広告を提供するのに役立つアドオン機能です。</td> 
+   <td>Marketoユーザーが、業界、名前付きアカウント、既知のデータに基づいて、ターゲットの既知の匿名訪問者(FacebookとGoogle経由)を関連広告で支援するアドオン機能です。</td> 
   </tr> 
   <tr> 
    <td><strong>What You See Is What You Get(WYSIWYG)</strong></td> 
-   <td>アプリケーションやエディターを指す一般的な用語で、作成時に<strong>コンテンツ</strong>の最終結果を確認できます。 MarketoにはWYSIWYGの編集者がいます。</td> 
+   <td>アプリケーションやエディターを指す一般的な用語で、作成時に<strong>コンテンツ</strong>の最終結果を確認できます。 MarketoはWYSIWYGの編集者です。</td> 
   </tr> 
   <tr> 
    <td><strong>ウィジェット</strong></td> 
@@ -909,10 +909,8 @@ ht-degree: 0%
    <td>文字列内の他の文字の代わりに使用する文字列の前または後に使用する文字(*)が<strong>Webパーソナライゼーション</strong>で使用されます。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Workspace</a></strong></td> 
-   <td>マーケティング<strong>アセット</strong>を保持する、Marketorの別の領域。 例えば、「北米」という名前のワークスペースをその地域へのマーケティングに厳密に使用できます。 ヨーロッパ、アジア等</td> 
+   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">ワークスペース</a></strong></td> 
+   <td><strong>アセット</strong>をマーケティングするMarketoの別の領域。 例えば、「北米」という名前のワークスペースをその地域へのマーケティングに厳密に使用できます。 ヨーロッパ、アジア等</td> 
   </tr>  
  </tbody> 
 </table>
-
-
