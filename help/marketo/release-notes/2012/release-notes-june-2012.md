@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951114
-description: リリースノート — 2012年6月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2012年6月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2012年6月
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：2012年6月{#release-notes-june}
 
-## Marketto Lead Managementの機能強化{#marketo-lead-management-enhancements}
+## Marketoリード管理の強化{#marketo-lead-management-enhancements}
 
-### {#rename}の名前を変更
+### 名前変更 {#rename}
 
 スマートリスト、静的リストおよびキャンペーンの名前を変更できます。 これらのアセットをフィルター、トリガーまたはフローで使用している場合は、そこでも名前が自動的に更新されます。 電子メール、フォーム、フォルダーの名前を常に変更できます。
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a10.png)
 
-## フィールドマッピングのインポート{#import-field-mapping}
+## フィールドマッピングのインポート {#import-field-mapping}
 
-リストのMarketoへのインポートが非常に簡単になりました。 インポート処理中に、「マーケティング先」フィールドの名前をインポートファイル内の列ヘッダー名にマップできます。 さらに、管理者では、Marketoのフィールド名にマップされるエイリアス名を設定でき、ユーザーが毎回正しいフィールドを選択するようになっています。
+リストをMarketoに輸入するのがずっと簡単になった！ 読み込み処理中に、Marketoフィールドの名前を読み込みファイルの列見出し名にマップできます。 さらに、管理者では、Marketoのフィールド名にマップされるエイリアス名を設定でき、ユーザーが毎回正しいフィールドを選択するようになっています。
 
-フィールドの読み込みとマッピングを続けると、読み込み中にマッピングが記憶され、表示され、使いやすくなります。 さらに作業を容易にするために、「サンプル値」ヘッダーをクリックして、フィールドに入力される値を確認できます。 これにより、毎回正しいフィールドを確実にマッピングできます。
+フィールドの読み込みとマッピングを続けると、Marketoは読み込み時にマッピングを記憶して表示し、使いやすくなります。 さらに作業を容易にするために、「サンプル値」ヘッダーをクリックして、フィールドに入力される値を確認できます。 これにより、毎回正しいフィールドを確実にマッピングできます。
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 Reminder:電子メールパフォーマンスレポートのアップグレードが進行中です。
 
-## Marketor売上高サイクル分析の機能強化{#marketo-revenue-cycle-analytics-enhancements}
+## Marketoの売上サイクル分析の機能強化{#marketo-revenue-cycle-analytics-enhancements}
 
 ### プログラムオポチュニティ分析の新しい指標{#new-metrics-in-program-opportunity-analysis}
 
