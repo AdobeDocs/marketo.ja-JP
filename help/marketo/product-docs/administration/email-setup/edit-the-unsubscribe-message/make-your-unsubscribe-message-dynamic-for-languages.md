@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: 購読解除メッセージを言語に対して動的にする — Marketo Docs — 製品ドキュメント
+description: 登録解除メッセージを言語に対して動的にする —Marketoドキュメント — 製品ドキュメント
 title: 登録解除メッセージを言語に対して動的にする
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 登録解除メッセージを言語に対して動的にする{#make-your-unsubscribe-message-dynamic-for-languages}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >以下に、この小さなチュートリアルを設定しました。 これはベストプラクティスですが、他の方法でも実行できます。
 
-## データの準備{#prepare-your-data}
+## データを準備 {#prepare-your-data}
 
 1. [「Preferred Language」という名前のカスタム](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) フィールドを作成します。（このフィールドを同期する場合は、CRMで設定します）。
 
