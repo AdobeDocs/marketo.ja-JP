@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: リリースノート — Winter '17 - Marketto Docs — 製品ドキュメント
+description: リリースノート — Winter '17 -Marketoドキュメント — 製品ドキュメント
 title: リリースノート — Winter '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # リリースノート：冬&#39;17 {#release-notes-winter}
 
-Winter &#39;17リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+Winter &#39;17リリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
@@ -21,13 +21,13 @@ Winter &#39;17リリースには、次の機能が含まれています。 Marke
 >
 >トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
 
-## [Facebookカスタムオーディエンスの高度な一致](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Facebook カスタムオーディエンスの詳細照合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 基本一致では電子メールアドレスのみが使用されますが、新しい高度一致では7つのフィールドが追加使用され、一致率が高くなり、コンバージョンが増えます。
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクト読み込みAPI](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [カスタムオブジェクトインポート API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 このAPIは、カスタムオブジェクトをMarketoに同期するための高速なインターフェイスを提供します。 CSV、TSVまたはSSVスプレッドシートファイルは、カスタムオブジェクトとしてMarketoに読み込むことができます。
 
@@ -37,7 +37,7 @@ Webキャンペーンーのすべての詳細と解析をCSV形式でエクス�
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## ローカライゼーション{#localization}
+## 多言語化対応 {#localization}
 
 Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケール](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択して、これらの言語でコンテンツを表示します。
 
@@ -45,7 +45,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
 
-**[名前付きアカウントのインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[重点顧客のインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 「固有のアカウントインポート」オプションを使用する場合は、CSVアップロードを使用して複数のレコードを一度に作成または更新します。
 
@@ -77,7 +77,7 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 ![](assets/predictive-content-editor.png)
 
-**[予測用の自動検出コンテンツ](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[予測のためのコンテンツ自動検出](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 コンテンツの自動検出プロセスで、画像URLとメタデータが使用されるようになりました。
 
@@ -93,6 +93,6 @@ Webパーソナライゼーション、予測コンテンツおよび電子メ�
 
 2017年8月1日以降、お客様は従来のリッチテキストエディターとフォームエディター1.0を引き続き使用している場合、新しいエクスペリエンスに自動的に移行します。
 
-## [MarkettoアクティビティAPI](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [Marketo アクティビティ API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-MarketoのアクティビティAPIに重要な変更が加えられました。 準備はできてる？
+Marketo のアクティビティ API に重要な変更が予定されています。準備はできてる？
