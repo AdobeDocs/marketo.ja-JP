@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10617187
-description: プライバシー設定について — Marketto Docs — 製品ドキュメント
+description: プライバシー設定について —Marketoドキュメント — 製品ドキュメント
 title: プライバシー設定について
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # プライバシー設定について{#understanding-privacy-settings}
 
-## 概要{#overview}
+## 概要 {#overview}
 
-マーケターに対して、Web訪問者の追跡に関する同意を得る方法を提供します。 匿名IPで追跡する方法は2つありオプトアウト、または匿名IPで追跡する方法を選択できます。
+Marketoは、マーケティング担当者に、Web訪問者の追跡に関する同意を得る方法を提供しています。 匿名IPで追跡する方法は2つありオプトアウト、または匿名IPで追跡する方法を選択できます。
 
 * Web訪問者ーは、ブラウザーで「追跡しない」(DNT)機能を選択します(マーケティング担当者は、追跡しないWeb訪問者の要求に従います)
 * Web訪問者ーは、Webサイト上のマーケティング担当者が提供オプトアウトするCookieを使用します。
 
 また、マーケティング担当者は、匿名IPを使用してユーザーを追跡できます。
 
-これらの方法は、特定の領域におけるマーケティング担当者の価値と機能に影響を与える可能性があります。 ただし、マーケター&#x200B;*がマーケティング担当者の設定内の変更を*&#x200B;行わない場合、Marketoの機能は変わりません。
+これらの方法は、特定の領域におけるMarketoの価値と機能に影響を与える可能性があります。 ただし、マーケター&#x200B;*がMarketoの設定内の変更を*&#x200B;行わない場合、Marketoの機能は変わりません。
 
 ## 追跡しないブラウザーの設定{#browser-settings-for-do-not-track}
 
@@ -50,7 +50,7 @@ Webパーソナライゼーションでは、マーケティング担当者が�
 
 ![](assets/opt-out-2.png)
 
-リンクをクリックすると、Marketorは訪問者のブラウザーに&#x200B;**mkto_opt_out**&#x200B;という名前のcookieを追加し、上記のパラメーターを含むリンクをクリックしたサイト訪問者のMunchkin追跡を無効にします。
+リンクをクリックすると、Marketoは&#x200B;**mkto_opt_out**&#x200B;というCookieを訪問者のブラウザに追加し、上記のパラメータを含むリンクをクリックしたサイト訪問者のMunchkin追跡を無効にします。
 
 Cookieが植え付け可能であることを検証するには、Cookieを使用していることを確認し、リンクをクリックします。 次に、ブラウザーのCookieを確認して、**mkto_opt_out** Cookieが追加されたことを確認します。
 
@@ -60,9 +60,9 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 >
 >これは現在、Munchkinバージョン152以降でのみ機能します。
 
-## オプトイン{#opt-in}
+## 参加 {#opt-in}
 
-マーケターは、電子メール、フォーム、ランディングページなどの方法でオプトインマーケティング担当者の機能を使用して、ユーザーに対して実行を許可できます。
+マーケターは、電子メール、フォーム、ランディングページなどの方法でオプトインMarketoの機能を使用することで、ユーザーが行えるようにすることができます。
 
 ## 匿名IPを使用した追跡{#tracking-using-an-anonymized-ip}
 
@@ -72,7 +72,7 @@ Cookieが植え付け可能であることを検証するには、Cookieを使�
 
    >[!NOTE]
    >
-   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 ご使用の購読で有効にするには、[マーケティング担当者](https://nation.marketo.com/community/support_solutions)にお問い合わせください。
+   >このパラメータを使用するには、Munchkin V2が有効になっている必要があります。 ご使用の購読で有効にするには、[Marketoサポート](https://nation.marketo.com/community/support_solutions)にお問い合わせください。
 
 * Webパーソナライゼーション(RTP)の場合、次をjavascriptに追加します。
 
