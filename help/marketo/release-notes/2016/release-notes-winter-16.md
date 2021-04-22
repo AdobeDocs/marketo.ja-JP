@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097199
-description: リリースノート — Winter '16 - Marketto Docs — 製品ドキュメント
+description: リリースノート — Winter '16 -Marketoドキュメント — 製品ドキュメント
 title: リリースノート — Winter '16
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # リリースノート：冬&#39;16 {#release-notes-winter}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Microsoft Edge ブラウザ](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
 Microsoft Edgeを、Marketoがサポートするブラウザー](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)の[リストに追加しました。
 
@@ -33,7 +33,7 @@ Microsoft Edgeを、Marketoがサポートするブラウザー](https://docs.ma
 
 [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) がサポートされるようになりました。
 
-## [電子メールプログラムヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## [メールプログラム優先スタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
 ヘッド開始を使用して、送信の処理を事前に行う必要があることを示します。 ヘッド開始は、リードの資格を特定し、プログラムの予定時刻に電子メールを準備する代わりに、これらのタスクが事前に行われていることを確認します。 これにより、オーディエンスは予定された時刻に電子メールを受信する開始になります。
 
@@ -47,19 +47,19 @@ Microsoft Edgeを、Marketoがサポートするブラウザー](https://docs.ma
 >
 >この機能は、16年冬のリリース以降、1週間、徐々に展開される予定です。 スマートキャンペーンまたはAPIでは使用できません。
 
-## [Mobile Marketingの機能強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## [モバイルマーケティングの強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGapのサポート：モバイルアプリ** のPhoneGapのサポートをオファーしました。[詳細情報](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)。
+**PhoneGapのサポート：モバイルアプリ** のPhoneGapのサポートをオファーしました。[詳細](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Sandboxアプリのサポート**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [プログラムAPI](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [プログラム API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
-REST APIを使用して、プログラムを作成、更新およびコピーします。 プログラム内でのスマートリストとスマートキャンペーンの作成または更新は含まれません。
+REST API を介したプログラムの作成、更新、複製. プログラム内でのスマートリストとスマートキャンペーンの作成または更新は含まれません。
 
-## [Microsoft Dynamicsの強化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Microsoft Dynamics の強化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
 **[同期の状態](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**:同期プロセスの現在のスループットとバックログのタブを維持する。挿入数とオブジェクト別の更新数で分割します。
 
@@ -69,15 +69,15 @@ REST APIを使用して、プログラムを作成、更新およびコピーし
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [カスタムオブジェクトの拡張](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## [カスタムオブジェクトの強化](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
 
 複数のリンクフィールドを持つ中間オブジェクトを使用して、リード/アカウントとカスタムオブジェクトとの間に多対多の関係を作成できるようになりました。
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebookリード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook リード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebookのリード](https://www.facebook.com/business/a/lead-ads) 広告は、ビジネスがFacebook上でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。ユーザーは製品やサービスに対する関心を表すためにフォームに入力するので、ビジネスはそれらを追跡できます。 MarketorとFacebookのリード広告の統合は、リードがリード広告フォーム内で提供する情報を自動的に取り込みます。 その後、新しい「Facebookリード広告の入力」トリガーを使用して、フォローアップアクションと通知を自動化できます。
+[Facebookのリード](https://www.facebook.com/business/a/lead-ads) 広告は、Facebookでリードジェネレーションキャンペーンを実行する企業にとって、より直接的な方法です。ユーザーは製品やサービスに対する関心を表すためにフォームに入力するので、ビジネスはそれらを追跡できます。 facebookリード広告とのMarketo統合では、リードがリード広告フォーム内で提供する情報を自動的に取得します。 その後、新しい「Facebookリード広告の記入」トリガーを使用して、フォローアップのアクションと通知を自動化できます。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
