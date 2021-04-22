@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: マーケティングの場面のパーソナライズ — マーケティング担当者向けドキュメント — 製品ドキュメント
-title: マーケティングの場面のパーソナライズ
+description: Marketoの場面の個人化 —Marketoドキュメント — 製品ドキュメント
+title: Marketoの瞬間の個人化
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# マーケティングの場面のパーソナライズ{#personalizing-marketo-moments}
+# Marketoの瞬間の個人設定{#personalizing-marketo-moments}
 
 マーケティングプログラムやスマートキャンペーンが多い場合は、すべてを見るのは素晴らしいことですが、自分の仕事に集中したい場合もあります。
 
