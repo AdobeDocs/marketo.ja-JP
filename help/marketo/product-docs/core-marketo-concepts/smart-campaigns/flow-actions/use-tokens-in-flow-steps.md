@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146995
-description: フローステップ — Marketto Docs — 製品ドキュメントでのトークンの使用
+description: フローステップ —Marketoドキュメント — 製品ドキュメントでのトークンの使用
 title: フローステップでのトークンの使用
+exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
-
 
 # フローステップでのトークンの使用{#use-tokens-in-flow-steps}
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 >[!PREREQUISITES]
 >
@@ -24,8 +24,8 @@ ht-degree: 0%
 トークンは変数です。 電子メール、ランディングページ、スマートキャンペーンで使用すると、生活が楽になります。 [マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（カスタムトークン）は、フローステップ、Webフック、電子メール、ランディングページで使用できます。 トークンを使用して、次のフロー手順に変数の内容を含めることができます。
 
 * データ値の変更
-* プログラムメンバデータの変更
-* 面白い瞬間
+* プログラムメンバーの変更
+* 注目のアクション
 * Salesforceキャンペーン手順（追加、削除、ステータスの変更）
 * タスクの作成
 * アラートの送信(トリガーキャンペーンのみ)
