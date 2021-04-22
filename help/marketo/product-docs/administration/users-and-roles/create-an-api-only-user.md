@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
-description: APIのみのユーザーの作成 — Marketto Docs — 製品ドキュメント
+description: APIのみのユーザーの作成 —Marketoドキュメント — 製品ドキュメント
 title: APIのみのユーザーの作成
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
 # APIのみのユーザーの作成{#create-an-api-only-user}
 
-[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoと統合する場合は、API専用のユーザーを作成する必要があります。 これが方法です。
+[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoとの統合を行う場合は、API専用のユーザーを作成する必要があります。 これが方法です。
 
 >[!PREREQUISITES]
 >
