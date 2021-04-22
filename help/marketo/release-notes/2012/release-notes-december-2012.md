@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951107
-description: リリースノート — 2012年12月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2012年12月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2012年12月
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # リリースノート：2012年12月{#release-notes-december}
 
 12月のリリースには、予想される&#x200B;**友達に転送**&#x200B;機能と、その他のいくつかの機能が含まれています。 アスタリスク(*)が付いている機能は、Select EditionとRCA(Revenue Cycle Analytics)でのみ使用できます。
 
-## フレンドに転送{#forward-to-friend}
+## 友達に転送 {#forward-to-friend}
 
 電子メールに&#x200B;**「フレンドに転送**」リンクを含めて、他のユーザーとのコンテンツの共有を有効にします。 新しいフィルターとトリガーを追加すると、電子メールを転送したユーザーおよび転送された電子メールを受信したユーザーを識別して、インフルエンサーを特定するのに役立ちます。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 詳細な管理権限{#granular-admin-permissions}
 
-最新リリースでは、各ロールの「マーケティング担当者」領域の様々な機能へのアクセスを制御できるので、管理者ロールへのアクセスと制御を強化しています。 新しいロールを作成する場合、ロールがアクセスできる特定の管理機能を割り当てることができます。
+最新リリースでは、各ロールのMarketo管理領域の様々な機能へのアクセスを制御できるので、管理者ロールへのアクセスと制御が容易になります。 新しいロールを作成する場合、ロールがアクセスできる特定の管理機能を割り当てることができます。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
 ## BrightTALKアダプタ{#brighttalk-adapter}
 
-Marketo BrightTALKアダプタを使用すると、ライブまたはオンデマンドのWebキャストからMarketoイベントに直接出席情報を取り込むことができます。
+Marketo・ブライトトーク・アダプタを使用すると、ライブまたはオンデマンドのWebキャストから、Marketoイベントに直接出席情報を取り込むことができます。
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## MarketoMicrosoft Dynamics向けセールスインサイト{#marketo-sales-insight-for-microsoft-dynamics}
 
 Microsoft Dynamicsのお客様は、Sales Insightを利用できるようになりました。
 
@@ -66,7 +66,7 @@ MarketoとMicrosoft Dynamicsの間でオポチュニティデータを同期し�
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## キャンペーン検査{#campaign-inspector}
+## キャンペーンインスペクタ {#campaign-inspector}
 
 スコアの変更やキャンペーンのリクエストなど、特定のフローアクションを使用しているキャンペーンを考えたことがありますか。 または、特定のフィルターが使用されている場所を教えてください。 新しいキャンペーン検査（宝庫から入手可能）では、これらのキャンペーン、アクティブなキャンペーン、エラーのあるキャンペーンを識別できます。
 
