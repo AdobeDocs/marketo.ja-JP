@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147055
-description: キャンペーンアクション — スマートキャンペーンの削除 — Marketto Docs — 製品ドキュメント
+description: キャンペーンの操作 — スマートキャンペーンの削除 —Marketoドキュメント — 製品ドキュメント
 title: キャンペーン処理 — スマートキャンペーンの削除
+exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # キャンペーンの操作：スマートキャンペーンの削除{#campaign-actions-delete-a-smart-campaign}
 
