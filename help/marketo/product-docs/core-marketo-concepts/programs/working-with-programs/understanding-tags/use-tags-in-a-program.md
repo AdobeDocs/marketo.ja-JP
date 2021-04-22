@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147150
-description: プログラムでのタグの使用 — Marketto Docs — 製品ドキュメント
+description: プログラムでのタグの使用 —Marketoドキュメント — 製品ドキュメント
 title: プログラムでのタグの使用
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # プログラムでタグを使用{#use-tags-in-a-program}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
-1. 素晴らしい！ 編集内容がキャンバスに反映されます。
+1. OK！編集内容がキャンバスに反映されます。
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
