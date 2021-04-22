@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949180
-description: SEOダッシュボードについて —SEORecommendations- Marketto Docs — 製品ドキュメント
+description: SEOダッシュボードについて —SEORecommendations-Marketoドキュメント — 製品ドキュメント
 title: SEOダッシュボードについて — SEORecommendations
+exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
-
 
 # SEOダッシュボードについて：SEORecommendations{#understanding-the-seo-dashboard-seo-recommendations}
 
@@ -21,7 +21,7 @@ Recommendationsの使い方も見つかります。 飛び込もう！
 
 ## トップページの最適化の問題{#top-page-optimization-issues}
 
-これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 [完全な](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)ページ詳細ドリルダウン&lt;a1/>の表示へのリンクをクリックするだけです。
+これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 [完全な](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)ページ詳細ドリルダウンの表示へのリンクをクリックするだけです。
 
 >[!TIP]
 >
