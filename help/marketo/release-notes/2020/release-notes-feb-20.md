@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: リリースノート — 2月20日 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2月20日 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 20年2月
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '650'
+ht-degree: 1%
 
 ---
 
-
 # リリースノート：2月20日{#release-notes-feb}
 
-2月20日リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+2月20日リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **_四半期別_** リリース2020 **年2月21日にリリースされた機能は次のとおりです**。
 
-## コアMarketo Engage{#core-marketo-engage}
+## コア Marketo エンゲージ {#core-marketo-engage}
 
 * **Microsoft Dynamics &quot;Microsoft&quot;のフロー操作の変更**:リード/連絡先の所有者をMarketo Engageから直接変更できる機能で、Microsoft Dynamics CRMデータの管理を維持します。これは、ネイティブCRM統合機能の強化です。
 * **User Management API**:外部のID管理システムと組織管理システムを通じて、ユーザーと役割の管理を自動化します。これは、API呼び出し機能の強化です。
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 次の機能は、四半期に属さないサイクルで提供され、今後数か月間にわたってリリースされます。
 
-## 奇妙な{#bizible}
+## Bizible {#bizible}
 
 ![（星形）](assets/star-yellow.svg)
 
@@ -43,16 +43,16 @@ ht-degree: 0%
 * **フィルターの保存**:各ダッシュボードに固有の固有のフィルターを保存し、ダッシュボードを迅速かつ一貫して分析します。
 * **PDFに書き出し**:BizibleダッシュボードをPDFとしてエクスポートすることで、組織全体で価値のあるインサイトを共有します。
 
-## 販売用接続{#sales-connect}
+## セールスコネクト {#sales-connect}
 
 * **ウィンドウの更新を作成**:Sales Connectを通じてテンプレートを選択し、電子メールを送信するプロセスを効率化しました。WebクライアントとSalesforceの「構成」ウィンドウを、販売者のワンストップショップとして使用し、テンプレートカテゴリの保存、電子メールのスケジュール設定、一括送信、表示付き電子メールの送信、クリック追跡機能を利用できます。
 * **コマンドセンターの更新**:Sales Connectコマンドセンターを再構築し、販売者がSales Connectから開始された電子メール、呼び出し、タスクのすべてに関する情報を提供します。また、電子メールの送信や配信品質などの表示情報を、すべてコマンドセンターから入手することもできます。
 
 <br> 
 
-## お知らせ{#announcements}
+## お知らせ {#announcements}
 
-* **Marketo Engageサクセスセンター**:2020年2月にマーケティングサクセスセンターを立ち上げます。サクセスセンターは製品内ヘルプセンターで、Marketo Engageインスタンスから直接、製品ドキュメントとコミュニティの検索、ハウツーガイドの開始、Marketo Universityなどの採用コンテンツやピアベストプラクティスビデオへのアクセスなどを行えます。 **注意**:この機能は、ANZのベータ版として開始され、四半期の終わりに北米に発売されます。
+* **Marketo Engageサクセスセンター**:2020年2月にMarketoサクセスセンターを立ち上げます。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの開始、Marketo大学などの導入コンテンツやピアベストプラクティスビデオへのアクセスなどを、お使いのMarketo Engageインスタンスから直接行うことができます。 **注意**:この機能は、ANZのベータ版として開始され、四半期の終わりに北米に発売されます。
 
 ## 廃止{#deprecations}
 
