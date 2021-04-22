@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360360
-description: Webフックの作成 — Marketto Docs — 製品ドキュメント
+description: Webフックの作成 —Marketoドキュメント — 製品ドキュメント
 title: Webフックの作成
+exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Webフックの作成{#create-a-webhook}
 
@@ -17,7 +17,7 @@ Webフックを使用して、サードパーティのWebサービスを利用�
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 1. 「**管理者**」に移動し、「**Webhooks**」をクリックします。
 
