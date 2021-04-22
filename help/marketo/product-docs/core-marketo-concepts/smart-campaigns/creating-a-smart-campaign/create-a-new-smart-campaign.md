@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146931
-description: 新しいスマートキャンペーンの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいスマートキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいスマートキャンペーンの作成
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # 新しいスマートキャンペーンの作成{#create-a-new-smart-campaign}
 
-スマートキャンペーンは、Marketoで最も重要なツールです。 ユーザーは1人のユーザーにトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップして、一連のフローステップを実行できます。
+スマートキャンペーンはMarketoで最も重要なツールです。 ユーザーは1人のユーザーにトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップして、一連のフローステップを実行できます。
 
 >[!NOTE]
 >
