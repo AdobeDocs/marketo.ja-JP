@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951103
-description: リリースノート — 2013年2月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年2月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年2月
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # リリースノート：2013年2月{#release-notes-february}
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## Apple Safariの公式サポート{#official-support-for-apple-safari}
 
-MacおよびWindows版Apple Safariの最新バージョンは、Marketo Lead Managementでの使用を完全にサポートしています。 注意：iOS上のSafariは完全な互換性がありません。
+MacおよびWindows用のApple Safariの最新バージョンは、Marketoリード管理での使用を完全にサポートしています。 注意：iOS上のSafariは完全な互換性がありません。
 
 ## Webhooksの機能強化{#webhooks-enhancements}
 
-Webhooksは、URL/ペイロード内のトークンをエスケープするように拡張されました。また、サードパーティのシステム（Spark SMB Editionでは利用できません）からXML/JSON応答を解析することで、Marketoのリードフィールドを更新することもできます。
+Webhooksは、URL/ペイロード内のトークンをエスケープするように拡張され、また、サードパーティ製システム（Spark SMB Editionでは利用できません）からのXML/JSON応答を解析することで、Marketoのリードフィールドを更新することもできます。
 
 ## SOAP APIエンドポイント{#updated-soap-api-endpoint}の更新
 
 推奨されるSOAP APIエンドポイントが更新されました。これは、管理者/SOAP APIに表示されます。 この新しいエンドポイントを使用するように呼び出しを更新してください。 古いエンドポイントへのAPI呼び出しは非推奨ですが、引き続き機能します。 （SOAP APIはSpark SMBエディションでは利用できません）
 
-## Facebookタブのモバイルサポート{#mobile-support-for-facebook-tabs}
+## facebookタブのモバイルサポート{#mobile-support-for-facebook-tabs}
 
-Marketoから公開されたFacebookのタブは、モバイルデバイスを検出し、ランディングページにルーティングします。 これにより、Facebookタブがサポートされていないモバイルデバイス上でユーザーが適切なコンテンツを取得できるようになります（Spark、Standard、Select SMB Editions、Marketor Social Marketingで利用可能）。
+Marketoから公開されたfacebookタブは、モバイルデバイスを検出し、ランディングページにルーティングします。 これにより、Facebookタブがサポートされていないモバイルデバイス(Spark、Standard、Select SMB Editions、およびMarketoソーシャルマーケティング)で、ユーザーが適切なコンテンツを取得できるようになります。
 
 ## 準備中：複数モデルのサポート{#coming-soon-support-for-multiple-models}
 
