@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359424
-description: 販売担当者に警告 — Marketto Docs — 製品ドキュメント
+description: 販売担当者に警告：Marketoドキュメント：製品ドキュメント
 title: 販売担当者に警告する
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
-
 
 # セールス担当者に警告{#alert-the-sales-rep}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. **ランディングページーで作成したマイプログラム**&#x200B;をフォーム[のクイックウィンドウで選択し、](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)新規&#x200B;**の下の「**&#x200B;新しいローカルアセット&#x200B;**」をクリックします。**
+1. [ランディングページで作成したマイプログラム&#x200B;**をフォーム](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)のクイックウィンドウで選択し、**&#x200B;新規&#x200B;**の下の「**&#x200B;新しいローカルアセット&#x200B;**」をクリックします。**
 
    ![](assets/two-6.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. 「**スマートリスト**」タブで、**Fills Out Form**&#x200B;トリガーを探し、キャンバスにドラッグします。
+1. 「**スマートリスト**」タブで、**Fills Out Form**&#x200B;トリガーを探してキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**クオリフィケーションルール**&#x200B;を&#x200B;**毎回**&#x200B;に設定し(スマートキャンペーンを編集)、同じ人が複数回アラートをトリガーできるようにします。
+   >**クオリフィケーションルール**&#x200B;を&#x200B;**毎回**&#x200B;に設定し(スマートキャンペーンを編集)、同じ人物が複数回トリガーアラートを受け取れるようにします。
 
 1. 確認画面で「**アクティブ化**」をクリックします。
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >連絡先情報を表示するには、マーケティングの「**人物情報**」タブをクリックします。
+   >連絡先情報を表示するには、Marketoの「**人物情報**」タブをクリックします。
 
 ## ミッション完了！{#mission-complete}
 
