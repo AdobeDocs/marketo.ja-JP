@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384018
-description: リリースノート — 16年秋 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 16年秋 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 16年秋
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：秋&#39;16 {#release-notes-fall}
 
-2016年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
+2016年秋のリリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
 
 ## 電子メール内の予測コンテンツ{#predictive-content-in-email}
 
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 ![](assets/predictive.png)
 
-## [Facebookオフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook オフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Facebookのオフラインコンバージョンの統合により、マーケティング担当者のコンバージョンデータ（リード広告のリード）は自動的にFacebookに送り返され、広告チームが広告費用をより最適化できるようになります。 このFacebook広告マネージャーレポートでは、オフラインコンバージョンが強調表示されます。
+facebookオフラインコンバージョンの統合により、Marketoのコンバージョンデータ（リード広告のリードの場合）は自動的にFacebookに送り返され、広告チームが広告費用を最適化できるようになります。 このFacebook広告マネージャーレポートでは、オフラインコンバージョンが強調表示されます。
 
 ![](assets/facebook.png)
 
-## [ユニバーサルID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [ユニバーサル ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
-ユニバーサルIDを使用すると、1回のログインで複数のMarketor購読にアクセスし、購読をすばやく切り替えることができます。 すべての購読に対して1つのコミュニティプロファイルを使用できます。
+ユニバーサルIDを使用すると、1回のログインで複数のMarketo購読にアクセスし、購読をすばやく切り替えることができます。 すべての購読に対して1つのコミュニティプロファイルを使用できます。
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
 >[!NOTE]
 >
->この機能を有効にするには、マーケティング担当者にお問い合わせください。
+>この機能を有効にするには、Marketoサポートにお問い合わせください。
 
-## Markettoアカウントベースのマーケティングの強化{#marketo-account-based-marketing-enhancements}
+## Marketoアカウントベースのマーケティングの強化{#marketo-account-based-marketing-enhancements}
 
 次に、アカウント所有者、販売開発担当者、ビジネス開発担当者、顧客サクセスマネージャーなど、アカウントチームをアカウントベースマーケティング(ABM)の指定されたアカウントに割り当てることができます。 また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別ABMレポートをアカウントチームに送信することもできます。
 
@@ -53,19 +53,19 @@ Facebookのオフラインコンバージョンの統合により、マーケテ
 
 **REST API**
 
-また、このリリースでは、Marketo REST APIを使用して、ABMで名前付きアカウント属性とアカウントスコアを管理できます。 API操作の詳細については、[Marketto DevelopersのWebサイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
+また、このリリースでは、ABMで、MarketoREST APIを使用して、名前付きアカウント属性とアカウントスコアを管理できます。 APIの操作の詳細については、[Marketo開発者のWebサイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)を参照してください。
 
 ## [監査証跡の機能強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-監査証跡は、マーケティング購読内で行われた変更の包括的な履歴を提供します。 プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、およびユーザーとロールに対する変更の重要な変更の詳細を提示する機能を追加しました。
+監査証跡は、Marketo購読内で行われた変更の包括的な履歴を示します。 プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、およびユーザーとロールに対する変更の重要な変更の詳細を提示する機能を追加しました。
 
-## [新しい権限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [新しく追加された権限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
-**電子メールを操作可能にする**
+**メールをオペレーショナルメールにする**
 
 サブスクライブを解除したユーザにトランザクション電子メールを送信するユーザについて心配する必要が生じる日々はなくなりました。 電子メールを操作可能にしたり、操作用電子メールを編集したりできるユーザーを指定できるようになりました。
 
-**キャンペーン制限の編集**
+**キャンペーン制限を編集**
 
 強制できない場合は、[キャンペーン制限](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)を設定するのはなぜですか？ 「キャンペーン制限の設定」で、1人のキャンペーンでターゲット設定できるユーザーの数を制限する場合、キャンペーンのスケジュール時に、これらの設定を上書きできるユーザーを制限できるようになりました。
 
@@ -87,12 +87,12 @@ Market Sales Insightは、Salesforce Shield Encryptionと互換性がありま�
 
 ## [名前付きアカウントAPI](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
-このリリースでは、Marketto ABMユーザーは、名前付きアカウントAPIを使用して名前付きアカウントを管理できます。 ユーザーは、名前付きアカウントの作成、更新、削除、およびABM名付きアカウントスコアの読み取りと更新を行うことができます。
+このリリースでは、MarketoABMユーザーは、名前付きアカウントAPIを使用して名前付きアカウントを管理できます。 ユーザーは、名前付きアカウントの作成、更新、削除、およびABM名付きアカウントスコアの読み取りと更新を行うことができます。
 
 ## [電子メールエディタv2.0 APIのサポート](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-Marketo REST APIを使用して、v2.0形式の電子メールの変数とモジュールを管理します。
+MarketoREST APIを使用して、v2.0形式の電子メールの変数とモジュールを管理します。
 
-## [Marketor Salesforceの同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [MarketoSalesforce同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-MarketorのSalesforce統合は、MarketorフィールドがSalesforceと同期される方法を改善するために進化しています。 これで、必要に応じて、または必要に応じて、必要に応じて異なる大きなフィールドのグループを同期する代わりに、どのフィールドを含めるかを選択できます。 詳しくは、次のドキュメントを参照してください。[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+MarketoのSalesforce統合は、MarketoフィールドがSalesforceと同期される方法を改善するために進化しています。 これで、必要に応じて、または必要に応じて、必要に応じて異なる大きなフィールドのグループを同期する代わりに、どのフィールドを含めるかを選択できます。 詳しくは、次のドキュメントを参照してください。[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
