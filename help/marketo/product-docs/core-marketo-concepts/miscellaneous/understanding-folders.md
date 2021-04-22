@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720779
-description: フォルダーについて — Marketto Docs — 製品ドキュメント
+description: フォルダについて —Marketoドキュメント — 製品ドキュメント
 title: フォルダについて
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # フォルダについて{#understanding-folders}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-素晴らしい！ これで、ローカルアセットを保存する新しいフォルダーが作成されました。
+OK！これで、ローカルアセットを保存する新しいフォルダーが作成されました。
 
 ## フォルダ名の変更{#rename-a-folder}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## フォルダのアーカイブ{#archive-a-folder}
 
-Marketingでは、既存のフォルダーをアーカイブフォルダーに変換できます。 アーカイブフォルダーは、Marketingアクティビティ、DatabaseおよびDesign Studioに存在します。
+Marketoでは、既存のフォルダーをアーカイブフォルダーに変換できます。 アーカイブフォルダーは、Marketingアクティビティ、DatabaseおよびDesign Studioに存在します。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
