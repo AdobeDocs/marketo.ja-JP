@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512270
-description: LaunchPointサ追加ービスとしてのAdobe Connect- Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてのAdobe Connect-Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのAdobe Connect
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサ追加ービスとしてのAdobe Connect{#add-adobe-connect-as-a-launchpoint-service}
 
-Marketorは、Adobe Connectウェビナーの登録と出席を管理します。
+Marketoは、Adobe Connectウェビナーの登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Marketorは、Adobe Connectウェビナーの登録と出席を管理します�
    >
    >Adobe Connectアカウントにログインしたら、「**セミナー**」タブを選択します。 特定のセミナーにドリルダウンしないで、ブラウザーバーから&#x200B;**会議フォルダーのURL**&#x200B;設定にURLをコピーします。
 
-Adobe ConnectサービスがMarketoと同期されました。
+Adobe ConnectサービスはMarketoと同期されました！
 
 ![](assets/adobe-connect-service.png)
 
