@@ -1,42 +1,42 @@
 ---
 unique-page-id: 15695939
-description: リリースノート — 18年秋 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 18年秋 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 18年秋
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '850'
+ht-degree: 3%
 
 ---
 
-
 # リリースノート：秋&#39;18 {#release-notes-fall}
 
-2018年秋のリリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+2018年秋のリリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 タイトルリンクをクリックすると、各機能の表示の詳細記事が表示されます（ある場合）。
 
-## コアプラットフォームの強化{#core-platform-enhancements}
+## 主要プラットフォームの機能拡張 {#core-platform-enhancements}
 
-**[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[ウェブパーソナライゼーション](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
-Webパーソナライゼーションで複数のワークスペースがサポートされるようになりました。
+ウェブパーソナライゼーションが複数のワークスペースに対応するようになりました。
 
-## マーケティング担当営業{#marketo-sales-engage}
+## Marketo セールスエンゲージ {#marketo-sales-engage}
 
 * **SFDC Lightningのサポート**:Lightningに移行中または現在移行中のユーザーは、MSEを利用して購入者のジャーニー全体で効率的なエンゲージメントを実現できます。
 
 * **サポートの拡張：Microsoft Office**
 
    * 配信チャネルとしてのOutlook:電子メールのエンゲージメントにOutlookを活用して、配信品質率と応答追跡を改善できるようになりました。
-   * Office 365 Eメールサポートの強化：Marketto Sales Sangageは、Outlook for Mac、Outlook for Windows、Office 365電子メールクライアント用のOutlookWeb アプリケーションで直接利用でき、Marketo Sales EngageをすべてのOfficeユーザーがより簡単に利用できるようにします。
+   * Office 365 Eメールサポートの強化：Outlook for Mac、Outlook for Windows、Office 365 Eメールクライアント用のOutlookWeb アプリケーションで、Marketoセールスソーシャルを直接利用できるため、MarketoセールスソーシャルをすべてのOfficeユーザーがより簡単に利用できます。
 
 * **管理者およびユーザーのログインエクスペリエンスの改善**
 
    * 管理ワークフローの向上：管理者は、一般的な管理者設定でチーム機能を有効にする際に、より効率的なワークフローを見つけることができます。
 
-## Marketo Sky{#marketo-sky}
+## Marketo Sky {#marketo-sky}
 
 詳細と更新情報については、[Skyリリースノート](https://help.marketo.com)をご覧ください。
 
@@ -58,7 +58,7 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 * **Marketo Sky**:Marketo Skyは、初期設定のプログラムをサポートするようになりました。これは、思い描く限りのキャンペーンを作成できる、用途の広いプログラムスタイルです。
 * **電子メールプログラム — フェーズ1**:Skyで電子メールプログラムを表示できるようになりました。新しいデザインを見て、[あなたの考えを教えてください。](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html)
 
-## 解析{#analytics}
+## アナリティクス {#analytics}
 
 **Bizible**
 
@@ -70,11 +70,11 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 
    * Discoverはベータ版ではなく、新規のお客様への展開を開始しました。 また、現在の顧客ベースをBizible MeasureからBizible Discoverに移行しています。 ベータ版からGA版に移行した後は、より効率的で複雑なクエリを実現するために、データベーススキーマを更新しました。
 
-* **シングルサインオン**
+* **シングル サインオン**
 
    * 会社のIDプロバイダーと資格情報を使用してBizible Webアプリケーションにサインインできるようになりました。これは企業のセキュリティ要件に準拠しています。
 
-**[Marketto Performance Insightsの機能強化](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketoパフォーマンスインサイトの強化](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **操作性の強化**
 
@@ -86,17 +86,17 @@ Webパーソナライゼーションで複数のワークスペースがサポ�
 * **アクティビティ日別のエンゲージメント**:ユーザーは、アクティビティ日またはコスト期間別に、表示エンゲージメント指標を選択できます。
 * **ABM指定アカウントフィルター**:特定の名前付きアカウントでパイプラインと売上高ダッシュボードをフィルターします。
 
-## 広告ネットワーク{#ad-networks}
+## アドネットワーク {#ad-networks}
 
-**[更新トークン](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[トークンを再読み込み](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-アドビのリターゲティングおよびLinkedInのリードジェネレーションフォームソリューションには更新トークンが実装されており、アクセス時間を1年に延長して再認証が必要になります。
+アドビは、リターゲティングとLinkedInリードジェネレーションフォームのソリューションに更新トークンを実装し、再認証が必要になる1年前までアクセス時間を延長しました。
 
 ## API {#api}
 
-**リードマップREST API**
+**リードマップ REST API**
 
-Marketorは、リードAPIに対する電子メール廃棄フィールド（ブラックリスト、マーケティングの一時停止、電子メールの停止、相対的な緊急性を含む）の使用をサポートするようになりました。
+Marketoは、リードAPIに対する電子メール廃棄フィールド（ブラックリスト、マーケティングの一時停止、電子メールの停止、相対的な緊急性を含む）の使用をサポートするようになりました。
 
 >[!NOTE]
 >
@@ -104,4 +104,4 @@ Marketorは、リードAPIに対する電子メール廃棄フィールド（ブ
 
 >[!NOTE]
 >
->また、IDと認証に関連するライブラリもアップグレードしています。 アップグレードが進行中で、アクティブなセッションが開いている場合は、断続的なエラーが発生する場合があります。 問題が発生した場合は、ログアウトしてから購読に戻ってください。
+>Marketoは、IDと認証に関連したライブラリもアップグレードしています。 アップグレードが進行中で、アクティブなセッションが開いている場合は、断続的なエラーが発生する場合があります。 問題が発生した場合は、ログアウトしてから購読に戻ってください。
