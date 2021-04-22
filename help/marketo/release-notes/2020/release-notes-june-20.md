@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37357276
-description: リリースノート — 20年6月21日 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 20年6月21日 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2010年6月
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：6月20日{#release-notes-june}
 
-6月21日リリースには次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+6月21日リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 >[!AVAILABILITY]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **_四半期別_** リリース次の機能が2020年6月5日にリリースさ **れます**。
 
-## コアMarketo Engage{#core-marketo-engage}
+## コア Marketo エンゲージ {#core-marketo-engage}
 
 * **[予測オーディエンス](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星形）](assets/star-yellow.svg):Adobe Senseiが提供する新しいスマートリストおよびスマートキャンペーンフィルターを使用すると、電子メール、イベント、ウェビナーマーケティングプログラム向けに、AIで提供されるオーディエンスセグメントを作成できます。AIを使用すると、リードがイベントに登録したり、イベントに参加したり、登録を取り消したりする可能性に基づいてオーディエンスをセグメント化できます。 過去の成功を効率的に再現するために、過去のプログラムに基づいて類似オーディエンスを構築。 予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのためのオーディエンスセグメントを絞り込む方法に関する推奨事項を得ます。
 * **Batch Email Boost** ![（星形）](assets/star-yellow.svg):1時間に最大300万個のバッチ電子メールを送信できるEメールマーケティング機能の強化。バッチキャンペーンおよび電子メールレポート処理を再設計し、電子メールプログラムとバッチ電子メールキャンペーンのパフォーマンスを向上しました。 これにより、送信するリードタイムが短くなり、完了時間も短縮されます。 通常どおりに電子メールの送信を設定します。複雑さは増しません。 この機能強化は、配信サービス起動パック、電子メール配信ツール、複数の専用IPアドレスなどの製品アドオンとして利用できます。
@@ -33,7 +33,7 @@ ht-degree: 0%
 * **APIを介した電子メールプリヘッダーの設定**:電子メールプリヘッダーフィールドの自動翻訳およびローカライゼーションを有効にします。APIの機能強化。
 * **イメージとファイルのキャッシュ**:60秒のキャッシュからMarketo Engageとファイルのアセットを提供することで、画像サーバの安定性を向上させています。
 
-## アカウントベースのマーケティング{#account-based-marketing}
+## アカウントベースドマーケティング {#account-based-marketing}
 
 ![（星形）](assets/star-yellow.svg)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 次の機能は、四半期に属さないサイクルで提供され、今後数か月間にわたってリリースされます。
 
-## 奇妙な{#bizible}
+## Bizible {#bizible}
 
 ![（星形）](assets/star-yellow.svg)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 * **Bizbile Discoverのフィルターと機能強化**:ダッシュボード間のチャネル、サブチャネル、キャンペーン、セグメントのフィルターでデータを分析します。ドリルダウン属性を増やして、データの視認性を高めます。 これは、Discoverボードの機能強化です。
 * **Microsoft Dynamics**&#x200B;用アクティビティ同期：Microsoft Dynamics CRMアクティビティをタッチポイントジャーニーに取り込み、リードや連絡先に関連付けられた呼び出し、予定、タスクなどのイベントを追跡することで、販売インタラクションを関連付けます。Microsoft Dynamics CRM統合の機能強化。
 
-## 販売インサイト{#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![（星形）](assets/star-yellow.svg)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 <br> 
 
-## お知らせ{#announcements}
+## お知らせ {#announcements}
 
 * **ITP 2.1+ RTPの更新**:SafariのCookieポリシーが変更されたため、同じドメインのセッション間でユーザーを追跡するRTP Cookieの機能は、訪問者が使用するブラウザーとブラウザーのバージョンに基づいて、ITPによって1日または7日に制限されます。この点を考慮して、HTTP応答を介してSet-CookieヘッダにRTP cookieを設定できるようにする新しいWebサービスを導入します。 詳細は、[](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603)を参照してください。
 
