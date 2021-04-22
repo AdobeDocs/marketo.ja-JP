@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: リリースノート — 10月20日 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 10月20日 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 10月20日
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # リリースノート：10月20日{#release-notes-oct}
 
-2010年10月21日リリースには、次の機能が含まれています。 Marketing Editionで機能が使用できるかどうかを確認します。
+2010年10月21日リリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * **アカウントスマートリスト（ベータ版）**:新しいアカウントスマートリスト機能でABM戦略を追加料金が発生します。目的のアカウントおよび個人属性を持つアカウントを動的に識別して、チャネル間のキャンペーンを実行し、セールス担当者にタイムリーなアラートを送信して、より迅速に案件を終了します。 注意：これは、[次世代のユーザーエクスペリエンス](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)にオンボードしたターゲットアカウント管理のお客様のみがご利用いただけます。
 
-## 電子メールマーケティング{#email-marketing}
+## メールマーケティング {#email-marketing}
 
 * **Batch Email Boost  ![（星形）](assets/star-yellow.svg)**:1時間あたり最大500万件のバッチ電子メールのスループットを向上させた、より多くの電子メールを送信します。拡張性の高い電子メール配信品質オプションにより、電子メールのバッチ間で待つ必要がなくなり、すべての電子メールを期限通りに、またスケジュール通りに送信できます。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * **Adobe Experience CloudからMarketo Engageへの継続的なオーディエンス同期**:Adobe Analytics、Adobe Audience Manager、またはAdobeのReal-Time CDPからのファースト・パーティの意図に基づくMarketo Engageでターゲットをリード。継続的な同期を通じてMarketo Engageの静的なリストを自動的に更新し、エンゲージメントや電子メールのプログラムにリードを追加し、リードの準備が整ったらSalesに警告を出します。
 
-## CRM統合{#crm-integration}
+## CRM 統合 {#crm-integration}
 
 * **Salesforce CRM同期**:2つの新しいSalesforce同期エラーとエラーダッシュボードを使用して、同期エラーと失敗を識別し、修正します。新しいレコードの更新、削除、失敗および同期処理の完了を監視します。 レポートは、日付、操作タイプまたはオブジェクトタイプでフィルタできます。
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
 ## 有料メディアターゲット設定{#paid-media-targeting}
 
-* **Facebookリード広告の統合**:Facebookのリード広告に対して、LaunchPointサービスを通じてFacebookフォームトラッキングパラメーターを取り込めるようになりました。これらの非表示のフィールドをマーケティング担当者のフィールドにマップできるようになり、マーケティング担当者は貴重なキャンペーン追跡データを保存し、そのデータに基づいて行動できます。
+* **Facebookリード広告の統合**:Facebookのリード広告に対して、LaunchPointサービスを使用して、facebookフォームトラッキングパラメーターを取り込めるようになりました。これらの非表示のフィールドをMarketoフィールドにマッピングできるようになり、マーケターは貴重なキャンペーン追跡データを保存し、そのデータに基づいて行動できるようになりました。
 
-## 管理{#administration}
+## 管理 {#administration}
 
 * **ロールと権限のエクスポート**:ロールと権限をスプレッドシートに書き出して、組織のチーム間で簡単に共有できます。ロールと権限の監査を容易かつ迅速に実行できます。
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 次の機能は、四半期に属さないサイクルで提供され、今後数か月間にわたってリリースされます。
 
-## 販売インサイト{#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![（星形）](assets/star-yellow.svg)
 
