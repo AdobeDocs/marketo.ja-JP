@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI用プラグインリリース — Marketto Docs — 製品ドキュメント
+description: Microsoft Dynamics MSI用プラグインリリース —Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics MSIのプラグインリリース
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-
 # Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}のプラグインリリース
 
-Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用の最新バージョンのプラグインをダウンロードしてインストールします。 定期的にMarketing Suiteでこれらのプラグインが更新されるので、同じ場所に戻って新しいバージョンをダウンロードできます。
+Microsoft Dynamicsとの同期を初めて行うときは、最新バージョンのMarketo販売インサイト(MSI)用プラグインをダウンロードしてインストールします。 定期的に、Marketoがこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
 [お使いのDynamicsリリースに対応する最新のプラグイン](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)をダウンロードしてください。
 
@@ -61,7 +61,7 @@ Microsoft Dynamicsとの最初の同期時には、Marketo Sales Insight(MSI)用
   <tr> 
    <th colspan="1">リリース日</th> 
    <th colspan="1">バージョン</th> 
-   <th colspan="1">メモ</th> 
+   <th colspan="1">注意</th> 
   </tr> 
   <tr> 
    <td colspan="1">10/1/20</td> 
