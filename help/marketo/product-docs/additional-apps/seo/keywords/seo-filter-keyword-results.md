@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949208
-description: SEO — キーワード結果のフィルター — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: SEO — フィルターキーワードの結果 —Marketoドキュメント — 製品ドキュメント
 title: SEO — キーワードの結果をフィルター
+exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # SEO — キーワード結果のフィルタ{#seo-filter-keyword-results}
 
