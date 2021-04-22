@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147051
-description: スマートキャンペーンチェックリスト — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンチェックリスト —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンチェックリスト
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # スマートキャンペーンチェックリスト{#smart-campaign-checklist}
 
@@ -59,8 +59,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Reminder**
+>**リマインダ**
 >
 >それでもスマートキャンペーンが失敗する場合は、[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)を理解し、何が問題になったのかを知り、それを修正する方法を学びます。
 
-素晴らしい仕事！ スマートキャンペーンを実行する前に、このチェックリストを手元に置いておきます。
+OK！スマートキャンペーンを実行する前に、このチェックリストを手元に置いておきます。
