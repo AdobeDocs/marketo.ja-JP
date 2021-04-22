@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: ユーザーの役割の作成、削除、編集、変更 — Marketto Docs — 製品ドキュメント
+description: ユーザーロールの作成、削除、編集、変更 —Marketoドキュメント — 製品ドキュメント
 title: ユーザーロールの作成、削除、編集および変更
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # ユーザーロールの作成、削除、編集、変更{#create-delete-edit-and-change-a-user-role}
 
-**Roles** グループは、複数の権限をまとめます。**権限** は、Marketoで何かを行う必要があります。ユーザーに&#x200B;**ロール**&#x200B;を割り当てます。 簡単。
+**Roles** グループは、複数の権限をまとめます。**Marketo** で何かをする権限を与えてくれ。ユーザーに&#x200B;**ロール**&#x200B;を割り当てます。 簡単。
 
 >[!NOTE]
 >
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->複数のロールを選択したままにした場合、Marketorは、最も厳しい権限をデフォルトに設定します。
+>複数のロールを選択したままにした場合、Marketoは、最も厳しい権限をデフォルトに設定します。
