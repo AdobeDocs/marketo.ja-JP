@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949216
-description: SEO -追加ページ — Marketto Docs — 製品ドキュメント
+description: SEO -追加ページ —Marketoドキュメント — 製品ドキュメント
 title: SEO -追加ページ
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # SEO -追加ページ{#seo-add-pages}
 
-ページがある！ Marketo Seoは、サイトを自動的にクロールし、追跡します。 いくつか見逃した場合は、次のようにSEOアプリで入手します。
+ページがある！ Marketo検索エンジン最適化(SEO)は、サイトを自動的にクロールし、追跡します。 いくつか見逃した場合は、次のようにSEOアプリで入手します。
 
 1. **「ページ**」セクションに移動します。
 
