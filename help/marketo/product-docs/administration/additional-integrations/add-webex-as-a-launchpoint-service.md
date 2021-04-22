@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: LaunchPointサ追加ービスとしてのWebEx - Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてのWebEx -Marketoドキュメント — 製品ドキュメント
 title: LaunchPoint追加サービスとしてのWebEx
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPoint追加サービスとしてのWebEx {#add-webex-as-a-launchpoint-service}
 
-Marketorは、WebExウェビナーの登録と出欠を管理します。
+Marketoは、WebExウェビナーの登録と出席率を管理します。
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Marketorは、WebExウェビナーの登録と出欠を管理します。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. 驚異的だ！ **WebEx**&#x200B;は、Marketoと同期されます。
+1. 驚異的だ！ **WebEx**&#x200B;は、今、Marketoと同期されます。
 
    ![](assets/webex.png)
 
