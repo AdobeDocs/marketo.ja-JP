@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360344
-description: MarketoとSalesforceの間の表示フィールドマッピング — Marketto Docs — 製品ドキュメント
+description: MarketoとSalesforceの間の表示フィールドマッピング —Marketoドキュメント — 製品ドキュメント
 title: MarketoとSalesforceの間の表示フィールドマッピング
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# MarketoとSalesforceの間の表示フィールドマッピング{#view-field-mappings-between-marketo-and-salesforce}
 
-# MarketoとSalesforce {#view-field-mappings-between-marketo-and-salesforce}の間の表示フィールドマッピング
-
-特定のMarketoフィールドがどのSalesforceフィールドに結び付けられているかを知りたい場合があります。 これを達成する方法を次に示します。
+特定のMarketoフィールドがどのSalesforceフィールドに関連付けられているかを知りたい場合があります。 これを達成する方法を次に示します。
 
 >[!NOTE]
 >
@@ -31,4 +31,4 @@ ht-degree: 0%
 >
 >これは、ラベル名ではなくSalesforce API名を表示しています。
 
-お疲れさま！ これで、MarketorフィールドがどのSalesforceフィールドに関連付けられているかを調べる方法がわかります。
+お疲れさま！ これで、MarketoのフィールドがどのSalesforceフィールドに関連付けられているかを知る方法がわかります。
