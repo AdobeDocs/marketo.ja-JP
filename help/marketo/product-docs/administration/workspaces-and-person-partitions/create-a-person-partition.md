@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360315
-description: 個人パーティションの作成 — Marketto Docs — 製品ドキュメント
+description: 個人パーティションの作成 —Marketoドキュメント — 製品ドキュメント
 title: 個人パーティションの作成
+exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Personパーティションの作成{#create-a-person-partition}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Personパーティションは複雑になる場合があります。 設定については、[Marketto Support](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>Personパーティションは複雑になる場合があります。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. 「管理者」で、「**ワークスペースとパーティション**」を選択します。
 
