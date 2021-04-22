@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360243
-description: スマートキャンペーン- Marketto Docs — 製品ドキュメントに対する個人制限の有効化
+description: スマートキャンペーンに対する個人制限の有効化 —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンに対する個人制限の有効化
+exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # スマートキャンペーンに対する個人制限の有効化{#enable-person-restrictions-for-smart-campaigns}
 
