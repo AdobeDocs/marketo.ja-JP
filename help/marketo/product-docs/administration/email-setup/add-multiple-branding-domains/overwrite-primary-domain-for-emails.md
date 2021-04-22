@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378051
-description: 電子メールのプライマリドメインを上書きする — Marketto Docs — 製品ドキュメント
+description: 電子メールのプライマリドメインを上書きする —Marketoドキュメント — 製品ドキュメント
 title: 電子メールのプライマリドメインを上書き
+exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # 電子メールのプライマリドメインを上書き{#overwrite-primary-domain-for-emails}
 
