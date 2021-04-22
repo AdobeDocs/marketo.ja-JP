@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11379928
-description: 監査証跡の詳細の変更 — Marketto Docs — 製品ドキュメント
+description: 監査証跡の詳細の変更 —Marketoドキュメント — 製品ドキュメント
 title: 監査証跡の詳細の変更
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
 # 監査証跡の詳細の変更{#change-details-in-audit-trail}
 
-監査証跡オファーは、マーケティング購読で誰が何を行っているかに関する多くの洞察を提供します。 詳しくは、
+監査証跡オファーは、Marketo購読で誰が何をしているかに関する多くの洞察を得られます。 詳しくは、
 
-## アセットの監査証跡{#asset-audit-trail}
+## アセット監査証跡 {#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -27,7 +27,7 @@ ht-degree: 0%
   <tr> 
    <th colspan="1">アセット/タイプ</th> 
    <th colspan="1">アクション</th> 
-   <th colspan="1">詳細の変更</th> 
+   <th colspan="1">変更の詳細</th> 
   </tr> 
   <tr> 
    <td rowspan="15"><strong>デフォルトプログラム</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
@@ -35,11 +35,11 @@ ht-degree: 0%
    <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラム"または"アクションフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
@@ -47,7 +47,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>編集チャネル</td> 
+   <td>チャネルの編集</td> 
    <td>新しいチャネル「新しいチャネル名」古いチャネル「古いチャネル名」 </td> 
   </tr> 
   <tr> 
@@ -84,14 +84,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
-   <td colspan="1">期間原価を削除します。 値「#」プログラム月「yyyy-mm」</td> 
+   <td colspan="1">期間原価を削除。値「#」プログラム月「yyyy-mm」</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>電子メール</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>メール</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>作成</td> 
    <td>テンプレート「template name」 <br>または<br>を使用して作成され、「asset name」からコピーされます。</td> 
   </tr> 
@@ -117,7 +117,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>セグメントの削除</td> 
+   <td>セグメンテーションを削除しました</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -125,7 +125,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>削除されたスニペット</td> 
+   <td>スニペットを削除しました</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -137,18 +137,18 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>モジュールの編集 <code>"<module name>" <attribute></code> を「value」に設定します。</td> 
+   <td>モジュールの編集 <module name><attribute> を「value」に設定します。</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>"Design studio"をフォルダー"foldername" <br>複製されたアセット名"name"<br>または<br>複製されたアセット名"name"をプログラムー"プログラム名"<br>複製されたアセット名"name"に複製されました</td> 
   </tr> 
   <tr> 
@@ -164,7 +164,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>ドラフト</td> 
+   <td>下書き</td> 
    <td>スニペット「snippet name」が承認された<br>または<br>電子メールはテンプレート「template name」が承認されたので、ドラフトされた電子メール</td> 
   </tr> 
    <td rowspan="17">電子メールプログラム</td> 
@@ -172,11 +172,11 @@ ht-degree: 0%
    <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
-   <td colspan="1">名前の変更</td> 
+   <td colspan="1">名前変更</td> 
    <td colspan="1">新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラムーまたはエンゲージメントフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
@@ -188,7 +188,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>編集チャネル</td> 
+   <td>チャネルの編集</td> 
    <td>新しいチャネル「新しいチャネル」古いチャネル「古いチャネル」</td> 
   </tr> 
   <tr> 
@@ -233,10 +233,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
-   <td colspan="1">期間原価を削除します。 値「#」プログラム月「yyyy-mm」</td> 
+   <td colspan="1">期間原価を削除。値「#」プログラム月「yyyy-mm」</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">電子メールテンプレート</td> 
+   <td rowspan="8">メールテンプレート</td> 
    <td>作成</td> 
    <td>空白または「テンプレート名」から複製</td> 
   </tr> 
@@ -253,11 +253,11 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>「folder name」 <br>に複製されたアセット名「name」</td> 
   </tr> 
   <tr> 
@@ -269,16 +269,16 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td rowspan="23">アクションプログラム</td> 
+   <td rowspan="23">エンゲージメントプログラム</td> 
    <td>作成</td> 
    <td>チャネルタイプ「チャネルタイプ」<br>または<br> 「プログラム名」から複製</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラムーまたはエンゲージメントフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
@@ -286,7 +286,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>編集チャネル</td> 
+   <td>チャネルの編集</td> 
    <td>新しいチャネル「新しいチャネル」古いチャネル「古いチャネル」</td> 
   </tr> 
   <tr> 
@@ -343,7 +343,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>プログラム設定の変更</td> 
-   <td>プログラムステータスの変更。 新しい値「on/off」古い値「off/on」</td> 
+   <td>プログラムをステータスを変更してください。新しい値「on/off」古い値「off/on」</td> 
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
@@ -355,10 +355,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
-   <td colspan="1">期間原価を削除します。 値「#」プログラム月「yyyy-mm」</td> 
+   <td colspan="1">期間原価を削除。値「#」プログラム月「yyyy-mm」</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
@@ -367,7 +367,7 @@ ht-degree: 0%
    <td>チャネルタイプ"チャネルタイプ"<br>または<br>"プログラム名"から複製</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -375,11 +375,11 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>ワークスペース"workspace name" <br>場所"キャンペーンプログラム"または"アクションフォルダー" <br>複製されたプログラム名"new name"</td> 
   </tr> 
   <tr> 
-   <td>編集チャネル</td> 
+   <td>チャネルの編集</td> 
    <td>新しいチャネル「新しいチャネル」古いチャネル「古いチャネル」 </td> 
   </tr> 
   <tr> 
@@ -424,14 +424,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
-   <td colspan="1">期間原価を削除します。 値「#」プログラム月「yyyy-mm」</td> 
+   <td colspan="1">期間原価を削除。値「#」プログラム月「yyyy-mm」</td> 
   </tr> 
   <tr> 
    <td colspan="1">プログラム設定の変更</td> 
    <td colspan="1">イベントパートナー「partner_name」を追加</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
@@ -456,16 +456,16 @@ ht-degree: 0%
    <td>削除されたトークン「token_name」</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Forms</td> 
+   <td rowspan="8">フォーム</td> 
    <td>作成</td> 
-   <td>準備中。 「フォーム名」から詳細を表示または複製</td> 
+   <td>近日開始。「フォーム名」から詳細を表示または複製</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -474,14 +474,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>フォーム設定の編集 </td> 
+   <td>フォーム設定を編集済み </td> 
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>フィールドの詳細の編集</td> 
+   <td>フィールド詳細を編集済み</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>"Design studio"をフォルダー"foldername" <br>複製されたアセット名"name"<br>または<br>複製されたアセット名"name"をプログラムー"プログラム名"<br>複製されたアセット名"name"に複製されました</td> 
   </tr> 
   <tr> 
@@ -489,7 +489,7 @@ ht-degree: 0%
    <td>「Design studio」を「フォルダー名」<br>または<br>「マーケティングアクティビティ」に移動し、「プログラムー名」に移動しました。</td> 
   </tr> 
   <tr> 
-   <td>Forms</td> 
+   <td>フォーム</td> 
    <td>承認</td> 
    <td>アセット#で使用 </td> 
   </tr> 
@@ -503,7 +503,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -519,7 +519,7 @@ ht-degree: 0%
    <td>「リッチテキスト」の追加、「リッチテキスト」の削除、編集されたリッチテキストコンポーネント</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>"Design studio"をフォルダー"foldername"<br>複製されたアセット名"name"<br>複製されたアセット名"www.url.com"<br>または<br>複製されたアセットURL ""をプログラムー"プログラム名" <br>複製されたアセット名"name"<br>複製されたアセットURL "www.url.com"</td> 
   </tr> 
   <tr> 
@@ -531,7 +531,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>ドラフト</td> 
+   <td>下書き</td> 
    <td>テンプレート「テンプレート名」が承認されたため、ランディングページがドラフトされました</td> 
   </tr> 
   <tr> 
@@ -548,7 +548,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -556,11 +556,11 @@ ht-degree: 0%
    <td>新しい説明「新しい説明」以前の説明「前の説明」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>「folder name」 <br>コピーされたアセット名「name」</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
@@ -577,11 +577,11 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>「Person Database」をフォルダー「foldername」<br>にコピーしました。アセット名「name」<br>または<br>コピー元のアセット名「name」をプログラムー「プログラム名」<br>コピー元のアセット名「name」</td> 
   </tr> 
   <tr> 
@@ -589,7 +589,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -598,11 +598,11 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>アクティブ化</td> 
+   <td>有効化</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>非アクティブ化</td> 
+   <td>無効化</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
@@ -614,7 +614,7 @@ ht-degree: 0%
    <td>「プログラム」に移動し、「プログラム名」<br>または<br>プログラムー「フォルダー名」に移動</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -626,7 +626,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>「プログラム」に複製され、プログラム「プログラム名」 <br>複製されたアセット名「名前」<br>または<br>複製されたアセット名「フォルダー」に複製され、「フォルダー名」<br>複製されたアセット名「名前」</td> 
   </tr> 
   <tr> 
@@ -647,11 +647,11 @@ ht-degree: 0%
    <td>「スマートリスト名」からコピー</td> 
   </tr> 
   <tr> 
-   <td>書き出し</td> 
+   <td>エクスポート</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -663,7 +663,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>「Person Database」をフォルダー「foldername」<br>にコピーしました。アセット名「name」<br>または<br>コピー元のアセット名「name」をプログラムー「プログラム名」<br>コピー元のアセット名「name」</td> 
   </tr> 
   <tr> 
@@ -681,7 +681,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>セグメントの削除</td> 
+   <td>セグメンテーションを削除しました</td> 
   </tr> 
   <tr> 
    <td>編集</td> 
@@ -692,7 +692,7 @@ ht-degree: 0%
    <td>該当なし</td> 
   </tr> 
   <tr> 
-   <td>名前の変更</td> 
+   <td>名前変更</td> 
    <td>新しい名前「新しい名前」、以前の名前「以前の名前」</td> 
   </tr> 
   <tr> 
@@ -700,7 +700,7 @@ ht-degree: 0%
    <td>新しい説明「新しい説明」以前の「前の説明」</td> 
   </tr> 
   <tr> 
-   <td>クローン</td> 
+   <td>複製</td> 
    <td>"folder name" <br>コピーされたスニペット名"name"</td> 
   </tr> 
   <tr> 
@@ -708,7 +708,7 @@ ht-degree: 0%
    <td>アセット#で使用</td> 
   </tr> 
   <tr> 
-   <td>ドラフトなしで承認</td> 
+   <td>下書きなしで承認</td> 
    <td>該当なし</td> 
   </tr> 
   <tr> 
@@ -718,7 +718,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## 管理監査証跡{#admin-audit-trail}
+## 管理監査証跡 {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -728,17 +728,17 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>管理領域</th> 
+   <th>管理エリア</th> 
    <th>アクション</th> 
-   <th>詳細の変更</th> 
+   <th>変更の詳細</th> 
   </tr> 
   <tr> 
-   <td>IPの制限</td> 
+   <td>IP 制限</td> 
    <td>編集</td> 
    <td>IP制限を次のように編集しました。許可/ブロックされた"ブロック"、IPアドレス"#"、無効なIP制限""</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">分割</td> 
+   <td rowspan="2">パーティション</td> 
    <td>作成</td> 
    <td>パーティション名"パーティション名"で作成されました</td> 
   </tr> 
@@ -747,12 +747,12 @@ ht-degree: 0%
    <td>"パーティション名"パーティションが削除されました</td> 
   </tr> 
   <tr> 
-   <td>パスワードの強度</td> 
+   <td>パスワード強度</td> 
    <td>編集</td> 
    <td>パスワードセキュリティがテンプレートに変更されました：標準セキュリティ、最小長：#, lower-upper:#, number:#、大文字と小文字の混在：# , expiration :#, session timeout:#</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">役割<br><br></td> 
+   <td rowspan="3">ロール<br><br></td> 
    <td>作成</td> 
    <td>「ロール名」で作成されたロール(注意：追加された権限に関する詳細が必要な場合は、サポートにお問い合わせください) - <br>ロールに割り当てられた権限のスナップショットを表示します</td> 
   </tr> 
@@ -770,7 +770,7 @@ ht-degree: 0%
    <td>SmarListがログイン用に編集され、ダウンロードできるようになりました："true or false"</td> 
   </tr> 
   <tr> 
-   <td rowspan="7">ユーザー<br><br><br><br></td> 
+   <td rowspan="7">ユーザ<br><br><br><br></td> 
    <td>作成（招待）</td> 
    <td>招待ユーザー：電子メール"電子メールアドレス"、名前"名前"姓"、アクセスの有効期限"空白"または日付"、APIユーザー"trueまたはfalse" - <br>には、ユーザーに割り当てられたロールとワークスペースのスナップショットが表示されます</td> 
   </tr> 
@@ -799,7 +799,7 @@ ht-degree: 0%
    <td>名前「name」と電子メール「email」のパスワードのリセット</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">Workspace</td> 
+   <td rowspan="2">ワークスペース</td> 
    <td>作成</td> 
    <td>「workspace name」という名前で作成されたワークスペース</td> 
   </tr> 
@@ -813,4 +813,3 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >[監査証跡でのフィルタリング](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
