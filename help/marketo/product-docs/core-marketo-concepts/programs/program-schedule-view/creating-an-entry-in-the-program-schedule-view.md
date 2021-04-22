@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: プログラムスケジュール表示でのエントリの作成 — Marketto Docs — 製品ドキュメント
+description: プログラムスケジュール表示でのエントリの作成 —Marketoドキュメント — 製品ドキュメント
 title: プログラムスケジュール表示でのエントリの作成
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # プログラムスケジュール表示でのエントリの作成{#creating-an-entry-in-the-program-schedule-view}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >TODOは[カスタムエントリ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)です。 To Doやその他のカスタムエントリを作成して、マーケティング担当者以外の議題を追跡するのに役立てることができます。
+   >TODOは[カスタムエントリ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)です。 TODOやその他のカスタムエントリを作成して、Marketo以外の議題を追跡するのに役立ちます。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
