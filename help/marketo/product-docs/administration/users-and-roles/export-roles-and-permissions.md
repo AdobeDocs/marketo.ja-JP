@@ -1,14 +1,14 @@
 ---
-description: ロールと権限のエクスポート — Marketto Docs — 製品ドキュメント
+description: ロールと権限のエクスポート —Marketoドキュメント — 製品ドキュメント
 title: ロールと権限のエクスポート
+exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # ロールと権限のエクスポート{#export-roles-and-permissions}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >必要な管理者権限
 
-1. 「マイマーケティング」で、**管理者**&#x200B;をクリックします。
+1. マイMarketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ブラウザーがMarketoからのポップアップをブロックしていないことを確認します。
+>ブラウザーで、Marketoからのポップアップがブロックされていないことを確認してください。
 
 データはCSVとしてエクスポートされ、ロール、権限、およびグループごとに有効にされた権限の数が含まれます。
 
