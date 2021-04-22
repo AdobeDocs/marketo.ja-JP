@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514821
-description: リリースノート — 2015年5月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2015年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2015年5月
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
 # リリースノート：2015年5月{#release-notes-may}
 
-2015年5月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
+2015年5月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
 
 ## 完全にレスポンシブなランディングページ
 
@@ -23,27 +23,27 @@ ht-degree: 0%
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## 電子メールプログラムの中止
+## メールプログラムの中止
 
-[電子メールプログラムの中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[メールプログラムの中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 電子メールプログラムが出かける前に「send」を押しましたか？ メールプログラムを中止する新しいボタンでブレーキを引きます。 これにより、フライト中の電子メールプログラムは、そのユーザーの追跡先で停止します。
 
-## 電子メールの配信品質{#email-deliverability}
+## メール配信  {#email-deliverability}
 
-Marketorは、追加されたドメインに対して、毎週自動化されたSPFおよびDKIMチェックを実行します。 通知を確認して、常にこの機能を使用します。
+Marketoは、追加されたドメインに対して、毎週自動化されたSPFとDKIMのチェックを実行します。 通知を確認して、常にこの機能を使用します。
 
-## 電子メールテンプレートの動作の変更{#email-template-behavior-change}
+## メールテンプレート動作の変更 {#email-template-behavior-change}
 
 このリリース以降、新しい電子メールを作成する際に有効なHTMLコメントが許可され、削除されなくなりました。
 
-## RTP:セグメントエディターのドラッグ&amp;ドロップ{#rtp-drag-and-drop-segment-editor}
+## RTP: セグメントエディタのドラッグアンドドロップ {#rtp-drag-and-drop-segment-editor}
 
 RTP:[ドラッグ&amp;ドロップセグメントエディター](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 条件をセグメントビルダーにドラッグ&amp;ドロップし、値を定義すると、リアルタイムセグメントを作成する準備が整います。
 
-## RTP:予測コンテンツRecommendations{#rtp-predictive-content-recommendations}
+## RTP: 予想コンテンツのお勧め {#rtp-predictive-content-recommendations}
 
 [予測コンテンツRecommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
