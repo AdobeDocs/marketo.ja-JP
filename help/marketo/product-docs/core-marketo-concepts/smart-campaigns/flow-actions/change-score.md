@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146962
-description: スコアの変更 — Marketto Docs — 製品ドキュメント
+description: スコアの変更 —Marketoドキュメント — 製品ドキュメント
 title: スコアの変更
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# スコアの変更 {#change-score}
 
-# スコアの変更{#change-score}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 スコア決定は、販売チームが優先順位を決定するのに役立つ、簡単で強力な人です。
 
 ![](assets/flowstep-changescore.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. 変更するスコアフィールドを選択します。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >複数のスコアフィールドを作成できます。 詳しくは、「Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)でのカスタムフィールドの作成」を参照してください。[
+   >複数のスコアフィールドを作成できます。 詳しくは、[Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)にカスタムフィールドを作成するを参照してください。
 
 1. 変更するスコアを入力します。
 
