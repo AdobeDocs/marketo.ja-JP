@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359414
-description: シンプルスコアリング — Marketto Docs — 製品ドキュメント
+description: シンプルスコアリング —Marketoドキュメント — 製品ドキュメント
 title: 単純スコア
+exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # 単純スコア{#simple-scoring}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    **体験版依頼フォーム**&#x200B;に記入するときは、必ずこのキャンペーンを実行してください。
 
-1. **Fills Out Form**&#x200B;トリガーを探して左のキャンバスにドラッグします。
+1. **Fills Out Form**&#x200B;トリガーを探して左のカンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -127,6 +127,6 @@ ht-degree: 0%
 
 ![](assets/twenty.png)
 
-**おめでとう！** スコアリングキャンペーンを作成しました。[エスケアミッション2:フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+**おめでとうございます！** スコアリングキャンペーンを作成しました。[エスケアミッション2:フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [ミッション4:電子メールの自動応答ï¿](/help/marketo/getting-started/quick-wins/email-auto-response.md)
