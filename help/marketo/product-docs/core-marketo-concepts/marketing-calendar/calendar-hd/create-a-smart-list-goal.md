@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504128
-description: スマートリスト目標の作成 — Marketto Docs — 製品ドキュメント
+description: スマートリスト目標の作成 —Marketoドキュメント — 製品ドキュメント
 title: スマートリスト目標の作成
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # スマートリスト目標の作成{#create-a-smart-list-goal}
 
-目標とは、進行状況を追跡し、チームの意欲を引き出す方法です。 スマートリストと組み合わせて、Marketoで様々な情報を追跡できます。 さらに、スマートリストの目標を設定すると、2時間ごとに自動的に更新されます。
+目標とは、進行状況を追跡し、チームの意欲を引き出す方法です。 スマートリストと組み合わせてMarketoの様々な状況を追跡できます さらに、スマートリストの目標を設定すると、2時間ごとに自動的に更新されます。
 
 プレゼンテーションと同様、目標は[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
 
