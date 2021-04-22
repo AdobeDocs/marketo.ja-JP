@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO — ページ詳細ドリルダウンの使用 — Marketto Docs — 製品ドキュメント
+description: SEO — ページ詳細ドリルダウンの使用 —Marketoドキュメント — 製品ドキュメント
 title: SEO — ページ詳細ドリルダウンの使用
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO — ページ詳細ドリルダウンを使用{#seo-using-the-page-detail-drill-down}
 
@@ -33,16 +33,16 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
-| 項目 | 説明 |
+| 項目 | 詳細 |
 |---|---|
 | 最適化スコア | 1 ～ 100の範囲で検索用にページがどの程度最適化されているかを示すのに使用される秘密ソースです。 |
 | タスクボックス | 現在閲覧中のページに関して未完了の問題の数が表示されます。 |
 | 受信リンクの合計 | Webサイトへの受信リンクの合計数です。 |
 | 受信リンク（一意のドメイン） | サイトへの受信リンクが1つ以上ある他のWebサイトの数。 |
 | アウトバウンドリンク | この特定のページから他のWebサイトに出て行くリンクの数。 |
-| Facebook共有 | このページがFacebookで共有された回数です。 |
+| Facebook株 | このページがFacebookで共有された回数。 |
 | Facebookの「いいね！」 | このページ共有がFacebookで「いいね！」された回数です。 |
-| Facebookクリック数 | Facebook共有からのクリック数。 |
+| Facebookクリック | facebook共有からのクリック数。 |
 
 ## ページが{#keyword-s-that-page-is-optimized-for}用に最適化されたキーワード
 
