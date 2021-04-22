@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO — キー追加ワード — マーケティングドキュメント — 製品ドキュメント
+description: SEO — キー追加ワード —Marketoドキュメント — 製品ドキュメント
 title: SEO -追加キーワード
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # SEO -追加キーワード{#seo-add-keywords}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->多数のキーワードがある場合は、[CSVファイル](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)を使用して&lt;a0/>インポートできます。
+>多数のキーワードがある場合は、[CSVファイル](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)を使用してインポートできます。
 
 1. 「**キーワード**」セクションに移動します。
 
