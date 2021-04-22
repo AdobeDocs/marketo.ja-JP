@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783559
-description: モーメントの共有 — Marketto Docs — 製品ドキュメント
+description: Sharing a Moment -Marketoドキュメント — 製品ドキュメント
 title: A.一瞬を共有する
+exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # モーメントの共有{#sharing-a-moment}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >共有は、携帯電話にインストールされているアプリに依存します。 Facebookを持っていない場合は、「瞬間」には表示されません。
+   >共有は、携帯電話にインストールされているアプリに依存します。 facebookがいなければ瞬間には見えません
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
-   素晴らしい仕事！
+   OK！
