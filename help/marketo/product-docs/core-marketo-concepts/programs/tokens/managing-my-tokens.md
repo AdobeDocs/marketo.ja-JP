@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: マイトークンの管理 — Marketto Docs — 製品ドキュメント
+description: マイトークンの管理 —Marketoドキュメント — 製品ドキュメント
 title: マイトークンの管理
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # マイトークンの管理{#managing-my-tokens}
 
-トークンを使用すると、Marketoの取り組みを簡略化できます。 [マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（カスタムトークン）は、フローステップ、Webフック、電子メール、ランディングページで使用できます。 作り方を見てみましょう
+トークンを使用すると、Marketoでの作業を簡略化できます。 [マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)（カスタムトークン）は、フローステップ、Webフック、電子メール、ランディングページで使用できます。 作り方を見てみましょう
 
 >[!TIP]
 >
