@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Microsoft Dynamics用Marketoプラグインリリース — Marketto Docs — 製品ドキュメント
-title: Microsoft Dynamics向けMarketoプラグインリリース
+description: Microsoft Dynamics用Marketoプラグインリリース —Marketoドキュメント — 製品ドキュメント
+title: Microsoft Dynamics用Marketoプラグインリリース
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
-
 # Microsoft Dynamics用Marketoプラグインリリース{#marketo-plugin-releases-for-microsoft-dynamics}
 
-Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新バージョンをダウンロードします。 定期的にMarketorはこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新バージョンをダウンロードします。 定期的に、Marketoがこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
 [ご使用のDynamicsリリースに対応する最新の](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) プラグインをダウンロードします。
 
@@ -38,7 +38,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   <tr> 
    <th colspan="1">バージョン</th> 
    <th colspan="1">リリース日</th> 
-   <th>メモ</th> 
+   <th>注意</th> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.0</td> 
@@ -53,7 +53,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">6/27/18</td> 
-   <td colspan="1">バグ修正：Dynamics 2013用Marketor Solutionsのインストール中にビジネスプロセスエラーが発生しました。</td> 
+   <td colspan="1">バグ修正：Dynamics 2013用Marketoソリューションのインストール中にビジネスプロセスエラーが発生しました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -93,7 +93,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">バグ修正：ログインユーザーがマーケティング先設定の権限を持っていないため、顧客はCRMでリードを作成できませんでした。</td> 
+   <td colspan="1">バグ修正：ログインユーザーがMarketo設定の権限を持っていないため、顧客はCRMでリードを作成できませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -103,16 +103,16 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">12/30/15</td> 
-   <td>バグ修正：Dynamicsの更新は、ステップと画像のためにMarketorに同期されませんでした。</td> 
+   <td>バグ修正：Dynamicsの更新が、ステップと画像のためにMarketoに同期されませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">バグ修正：同期フィルターがfalseに設定されている場合に、リードレコードがマーケティング担当者に同期されていました。</td> 
+   <td colspan="1">バグ修正：同期フィルターがfalseに設定されているときに、リードレコードがMarketoに同期されていました。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Marketto Lead Management Solutionのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketoリード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
