@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
-description: ReST API - Marketto Docs — 製品ドキュメントで使用するカスタムサービスの作成
+description: ReST APIで使用するカスタムサービスの作成 —Marketoドキュメント — 製品ドキュメント
 title: ReST APIで使用するカスタムサービスの作成
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # ReST APIで使用するカスタムサービスの作成{#create-a-custom-service-for-use-with-rest-api}
 
-ReST APIを介してMarketoと統合する場合は、カスタムサービスを作成する必要があります。 これが方法です。
+ReST APIを介してMarketoとの統合を行う場合は、カスタムサービスを作成する必要があります。 これが方法です。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
 >[!NOTE]
 >
->MarketoのSparkレベルを持っている場合は、カスタムサービスを作成できません。
+>SparkレベルがMarketoの場合は、カスタムサービスを作成できません。
 
 ## カスタムサービスの作成{#create-custom-service}
 
