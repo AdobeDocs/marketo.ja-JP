@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360189
-description: CNAMEを使用したランディングページURLのカスタマイズ（管理） - Marketto Docs — 製品ドキュメント
+description: CNAMEでランディングページURLをカスタマイズする（管理） -Marketoドキュメント — 製品ドキュメント
 title: CNAMEを使用したランディングページURLのカスタマイズ（管理）
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # CNAMEを使用したランディングページURLのカスタマイズ（管理） {#customize-your-landing-page-urls-with-a-cname-administration}
 
@@ -29,11 +29,11 @@ Marketoがランディングページをホストしている場合でも、URL�
 >
 >**必要な管理者権限**
 
-お前の準備を！
+さあ設定してみましょう!
 
 1. CNAMEを選択します。
 
-   URLの前の部分です。 例：
+   URLの前の部分です。 例: 
 
    * **go**.YourCompany.com/NameOfPage.html
    * **info**.YourCompany.com/NameOfPage.html
