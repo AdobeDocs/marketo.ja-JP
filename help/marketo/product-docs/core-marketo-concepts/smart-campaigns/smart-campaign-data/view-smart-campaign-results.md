@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146968
-description: 表示スマートキャンペーンの結果 — Marketto Docs — 製品ドキュメント
+description: 表示スマートキャンペーンの結果 —Marketoドキュメント — 製品ドキュメント
 title: 表示スマートキャンペーンの結果
+exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # 表示スマートキャンペーン結果{#view-smart-campaign-results}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。 [スマートキャンペーンの結果をフィルターする方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)を説明します。
+   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。 [スマートキャンペーンの結果をフィルターする方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)について説明します。
 
 1. **ID**&#x200B;をクリックすると、そのアクティビティの詳細を表示できます。
 
