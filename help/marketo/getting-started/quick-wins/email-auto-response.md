@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359416
-description: 電子メールの自動応答 — Marketto Docs — 製品ドキュメント
+description: 電子メールの自動応答 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの自動応答
+exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 自動応答のメール{#email-auto-response}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 「電子メール」をクリックします。
+1. メールをクリック.
 
    ![](assets/three-2.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    [**ランディングページで作成したフォームに、フォーム**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)&#x200B;で入力されるたびに、このキャンペーンが実行されるように設定しています。
 
-1. **Fills Out Form**&#x200B;トリガーを探して左のキャンバスにドラッグします。
+1. **Fills Out Form**&#x200B;トリガーを探して左のカンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 ## ミッション完了{#mission-complete}
 
-数分以内に、受信トレイに自動応答の電子メールが表示されます。 素晴らしい仕事！
+数分以内に、受信トレイに自動応答の電子メールが表示されます。 OK！
 
 <br> 
 
