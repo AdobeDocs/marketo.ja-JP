@@ -1,30 +1,30 @@
 ---
-description: オンプレム用Microsoft Dynamics CRMアプリのセットアップ — Marketto Docs — 製品ドキュメント
+description: オンプレム用Microsoft Dynamics CRMアプリのセットアップ —Marketoドキュメント — 製品ドキュメント
 title: オンプレミス用Microsoft Dynamics CRMアプリのセットアップ
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # オンプレム用Microsoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
-MarketoのクライアントID/クライアントシークレットベースのセットアップは、AD FSを使用したオンプレムで実行できます(上述 2016以降)。 古いバージョンのOn-premについては、[Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせの上、ユーザーIDとパスワードに基づく認証方法の変更を依頼してください。
+MarketoのクライアントID/クライアントシークレットベースのセットアップは、AD FSを使用したオンプレムで実行できます(ver. 2016以降)。 古いバージョンのOn-premについては、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせの上、ユーザーIDとパスワードのみに基づいて認証方法が変更されたことをご確認ください。
 
 ## Microsoft Dynamics CRMアプリ{#set-up-microsoft-dynamics-crm-app}のセットアップ
 
 [このMicrosoft記事](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従います。
 
-完了したら、次の手順は、**Dynamics CRMで生成されたクライアントIDとシークレットをMarketor**&#x200B;に入力します。
+完了したら、次の手順は&#x200B;**Dynamics CRMで生成されたクライアントIDとシークレットをMarketo**&#x200B;に入力します。
 
-## Dynamics CRMで生成されたクライアントIdとシークレットをマーケティング担当者{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}に入力
+## Dynamics CRMで生成されたクライアントIDとシークレットをMarketoに入力{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 次の手順は、オンラインバージョンとオンプレムバージョンに適用されます。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-on-prem-1.png)
 
