@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512278
-description: LaunchPointサ追加ービスとしてのReadyTalk - Marketto Docs — 製品ドキュメント
+description: LaunchPointサービスとしての追加ReadyTalk -Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサー追加ビスとしてのReadyTalk
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサ追加ービス{#add-readytalk-as-a-launchpoint-service}としてのReadyTalk
 
-ReadyTalkウェビナーの登録と出席状況は、Marketorが管理します。
+MarketoはReadyTalkウェビナーの登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ReadyTalkウェビナーの登録と出席状況は、Marketorが管理します
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-**ReadyTalk**&#x200B;アカウントは、Marketoと同期されます。
+**ReadyTalk**&#x200B;アカウントは、Marketoと同期されました。
 
 ![](assets/readytalk.png)
 
