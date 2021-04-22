@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: 電子メールの送信 — Marketto Docs — 製品ドキュメント
+description: 電子メールの送信 —Marketoドキュメント — 製品ドキュメント
 title: 電子メールの送信
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # 電子メールの送信{#send-an-email}
 
-みんなが最初にやりたいこと。 MarketoからEメールを送信します。
+みんなが最初にやりたいこと。 Marketoからメールを送ろう！
 
 >[!PREREQUISITES]
 >
@@ -109,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >起動前の電子メールの外観を簡単に確認するために、サンプルを自分に送信します。 上のメニューで「サンプルを送信&#x200B;**」を選択するか、「**&#x200B;電子メールアクション&#x200B;**」、「**&#x200B;サンプルを送信&#x200B;[**」の順にクリックします。**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
+   >起動前の電子メールの外観を簡単に確認するために、サンプルを自分に送信します。 上のメニューで「サンプルを送信&#x200B;**」を選択するか、「**&#x200B;電子メールアクション&#x200B;**」、「[**&#x200B;サンプルを送信&#x200B;**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)」の順にクリックします。**
 
 1. 左のツリーで[電子メール]プログラムを選択します。
 
