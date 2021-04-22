@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147226
-description: はじめに — Marketto Docs — 製品ドキュメント
-title: はじめに
+description: はじめに —Marketoドキュメント — 製品ドキュメント
+title: 開始方法
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
+# 開始方法 {#getting-started}
 
-# はじめに{#getting-started}
+## ステップ1Marketoとは{#what-is-marketo}
 
-## 手順1 Markettoとは{#what-is-marketo}
+Marketoに何を聞く？ 素晴らしい質問です！
 
-マーケットに何を聞く？ 素晴らしい質問です！
-
-[マーケティングの詳細](/help/marketo/getting-started/what-is-marketo.md)
+[Marketoを学ぶ](/help/marketo/getting-started/what-is-marketo.md)
 
 ## 手順2セットアップ{#get-set-up}
 
@@ -27,7 +27,7 @@ ITチームから少し手助けを受ければ、すぐに実現できます。
 
 ## 手順3：優先課題{#get-some-quick-wins}
 
-これらのミッションを完了して、Marketoの中核機能を学びます。
+Marketoの主な機能を学ぶために、このミッションを完了します。
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1.設定と追加ユーザー](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
