@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Managerでのアセットの読み込み — Marketto Docs — 製品ドキュメント
+description: Adobe Experience Managerでのアセットの読み込み —Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Managerでのアセットの読み込み
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager{#importing-assets-with-adobe-experience-manager}でのアセットの読み込み
 
-Asset Pickerを使用すると、Marketing TargetのユーザーはAEMアセットにアクセスし、選択して、Marketing Studioに読み込むことができます。 **管理者権限が必要です**。
+Asset Pickerを使用すると、Marketoのお客様はAEMアセットにアクセス、選択およびMarketoのDesign Studioへの読み込みを行うことができます。 **管理者権限が必要です**。
 
 >[!AVAILABILITY]
 >
@@ -66,4 +66,4 @@ Marketoは現在、Adobe Experience Managerバージョン6.4および6.5をサ�
 
 インスタンス内のすべてのユーザは、読み込んだ画像に表示したり、アクセスしたりできます。
 
-画像は自動的に更新されません。 Marketo Design Studioに読み込んだ画像がAEMで更新された場合は、Marketorに手動で再読み込みする必要があります。
+画像は自動的に更新されません。 MarketoDesign Studioに読み込んだイメージがAEMで更新された場合は、手動でMarketoに再読み込みする必要があります。
