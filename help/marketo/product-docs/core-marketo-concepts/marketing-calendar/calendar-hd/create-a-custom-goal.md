@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504130
-description: カスタム目標の作成 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: カスタム目標の作成 —Marketoドキュメント — 製品ドキュメント
 title: カスタム目標の作成
+exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # カスタム目標の作成{#create-a-custom-goal}
 
