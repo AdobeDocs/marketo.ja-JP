@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2953459
-description: SFDC同期 — アカウントの同期 — Marketto Docs — 製品ドキュメント
+description: SFDC同期 — アカウントの同期 —Marketoドキュメント — 製品ドキュメント
 title: SFDC同期 — アカウントの同期
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # SFDC同期：アカウントの同期{#sfdc-sync-account-sync}
 
-また、Marketorは、アカウント情報をSalesforceと同期します。 知っておくべきことがいくつかあります！
+また、Marketoは、アカウント情報をSalesforceと同期します。 知っておくべきことがいくつかあります！
 
 ## 情報の同期方法{#which-way-does-the-information-sync}
 
-次の1つの方法のみ：をSFDCからMarketoに送信します。
+次の1つの方法のみ：SFDCからMarketoに
 
 ## アップデートの動作{#how-do-the-updates-work}
 
-Marketorの担当者の「アカウント」フィールドを更新すると、Marketorのそのアカウントに属するすべての担当者の値が変更されます。 SFDCとは同期されません。 ただし、次回SFDCでアカウントが更新されたときは、Marketoのすべてのアカウント情報が変更によって上書きされます。
+Marketoの連絡先の[アカウント]フィールドを更新すると、Marketoのそのアカウントに属するすべての連絡先の値が変更されます。 SFDCとは同期されません。 ただし、次回SFDCでアカウントが更新されたときは、Marketoのすべてのアカウント情報が変更によって上書きされます。
 
 ## 連絡先は複数のアカウントに属することができますか？ {#can-a-contact-belong-to-multiple-accounts}
 
-いいえ。 アカウントには多数の連絡先を設定でき、連絡先には1つのアカウントしか設定できません。
+いいえ. アカウントには多数の連絡先を設定でき、連絡先には1つのアカウントしか設定できません。
 
 ## Marketoからアカウントを作成できますか。{#can-i-create-accounts-from-marketo}
 
