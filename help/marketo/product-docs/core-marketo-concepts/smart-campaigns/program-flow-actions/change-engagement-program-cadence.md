@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147013
-description: エンゲージメントプログラムカデンスの変更 — Marketto Docs — 製品ドキュメント
-title: アクションプログラムカデンスの変更
+description: エンゲージメントプログラムカデンスの変更 —Marketoドキュメント — 製品ドキュメント
+title: エンゲージメントプログラム・ケイデンスを変更
+exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-
-# エンゲージメントプログラムのカデンスを変更{#change-engagement-program-cadence}
+# エンゲージメントプログラム・ケイデンスを変更 {#change-engagement-program-cadence}
 
 1. 概要
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >ユーザーがプログラムのメンバーでなく、このフロー手順を実行する場合は、メンバーとして自動的に最初のストリームに追加されます。
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. アクションプログラムを選択します。
 
