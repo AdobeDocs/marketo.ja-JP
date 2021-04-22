@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095047
-description: 「追跡しない」ブラウザーサポート設定の編集 — Marketto Docs — 製品ドキュメント
+description: 「追跡しない」ブラウザーサポート設定の編集 —Marketoドキュメント — 製品ドキュメント
 title: 「追跡しない」ブラウザーサポート設定の編集
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # 「追跡しない」ブラウザーサポート設定の編集{#edit-do-not-track-browser-support-settings}
 
-「追跡しない」は、Marketoなどのシステムで追跡されないブラウザーリクエストです。 次の手順に従って、そのリクエストを受け入れることができます。
+「追跡しない」は、Marketoなどのシステムでは追跡しないブラウザーリクエストです。 次の手順に従って、そのリクエストを受け入れることができます。
 
 >[!NOTE]
 >
