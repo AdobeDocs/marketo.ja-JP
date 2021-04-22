@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949194
-description: SEO — サイト追加の削除 — Marketto Docs — 製品ドキュメント
+description: SEO — サイト追加の削除 —Marketoドキュメント — 製品ドキュメント
 title: SEO — サイト追加の削除
+exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # SEO — サイト追加の削除/サイトの削除{#seo-add-a-site-delete-a-site}
 
-Marketorがサイトのページに関連するデータ（インバウンドリンクとレコメンデーション）を引き出すには、ここでサイトのURLを定義する必要があります。
+Marketoがサイトのページに関連するデータ（インバウンドリンクとレコメンデーション）を取り込むには、ここでサイトのURLを定義する必要があります。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 ## 追加サイト{#add-a-site}
 
@@ -41,7 +41,7 @@ Marketorがサイトのページに関連するデータ（インバウンドリ
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   素晴らしい！ 別のサイトを追加しました。
+   OK！別のサイトを追加しました。
 
    ![](assets/four.png)
 
