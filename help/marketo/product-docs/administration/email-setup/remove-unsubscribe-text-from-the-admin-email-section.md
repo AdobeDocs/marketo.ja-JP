@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360245
-description: 「管理者の電子メール」セクションから「登録解除テキスト」を削除します。Marketo Docs — 製品ドキュメント
+description: 「管理者の電子メール」セクションから「登録解除テキスト」を削除 —Marketoドキュメント — 製品ドキュメント
 title: 「管理者の電子メール」セクションからの「登録解除テキスト」の削除
+exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # 管理者の電子メールセクション{#remove-unsubscribe-text-from-the-admin-email-section}から登録解除テキストを削除
 
