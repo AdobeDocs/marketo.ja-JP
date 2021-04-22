@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949218
-description: SEO -追加/リストからページを削除 — Marketto Docs — 製品ドキュメント
+description: SEO -追加/リストからページを削除 —Marketoドキュメント — 製品ドキュメント
 title: SEO - 追加/リストからページを削除
+exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # SEO -追加/リストからページを削除{#seo-add-remove-page-from-list}
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-完了。 ページがリストから削除されます。
+完了. ページがリストから削除されます。
