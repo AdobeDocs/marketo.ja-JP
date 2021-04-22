@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360185
-description: パスワードセキュリティ設定の変更 — Marketto Docs — 製品ドキュメント
+description: パスワードセキュリティ設定の変更 —Marketoドキュメント — 製品ドキュメント
 title: パスワードセキュリティ設定の変更
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # パスワードセキュリティ設定の変更{#change-your-password-security-settings}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/expiration.png)
 
-1. **非アクティブセッションタイムアウト**&#x200B;を設定します。 これにより、ユーザーが非アクティブになってから、Marketorに再ログインするまでの時間を決定します。
+1. **非アクティブセッションタイムアウト**&#x200B;を設定します。 これにより、ユーザーが非アクティブになってから、Marketoに再ログインするまでの時間が決まります。
 
    ![](assets/inactivesession.png)
 
