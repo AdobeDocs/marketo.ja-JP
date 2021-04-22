@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951048
-description: リリースノート — 2014年2月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年2月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年2月
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # リリースノート：2014年2月{#release-notes-february}
 
-2014年2月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクが必ず戻ってきてください。
+2014年2月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクが必ず戻ってきてください。
 
-## 勝者条件としてのエンゲージメントスコア{#engagement-score-as-winning-criteria}
+## 勝者条件のエンゲージメントスコア {#engagement-score-as-winning-criteria}
 
 [エンゲージメントスコアを使用して、A/B分割テストまたはChampion/Challengerテストでの勝者のバリアントを決定します。](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) 十分なエンゲージメントスコアを与えるために、テストは24時間以上実行する必要があります。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
-## 電子メール分析のプログラムの詳細{#program-details-in-email-analysis}
+## メールプログラムの詳細分析 {#program-details-in-email-analysis}
 
 [これで、電子メール指標をプログラム名、チャネル、タグ別にグループ化できます](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。電子メールがプログラムのローカルアセットである場合、プログラム名が「電子メール名」フィールドに追加されます。 新しいプログラム名フィールドには、電子メールを送信したスマートキャンペーンのプログラム名が表示されます。 電子メールが別のプログラムのローカルアセットである場合は、「電子メール名」フィールドのプログラムと異なる場合があります。
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 
-## Forms2.0の機能強化{#forms-enhancements}
+## フォーム 2.0 の強化 {#forms-enhancements}
 
 Forms2.0には、このリリースでの「Quality of Life」の更新がいくつかあります。 埋め込みフォームでプログレッシブプロファイルを有効にするほかに、表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、高度な「ありがとうございます」ページ、非表示フィールドなど、エディターのより高度な機能[を使いやすくするワークフローとUXの変更を行いました。
 
