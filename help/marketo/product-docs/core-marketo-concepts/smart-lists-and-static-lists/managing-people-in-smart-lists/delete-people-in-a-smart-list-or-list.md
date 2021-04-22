@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146897
-description: スマートリストまたはリストでの人の削除 — Marketto Docs — 製品ドキュメント
+description: スマートリストまたはリストでのユーザーの削除 —Marketoドキュメント — 製品ドキュメント
 title: スマートリストまたはリストのユーザーの削除
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # スマートリストまたはリストのユーザーの削除{#delete-people-in-a-smart-list-or-list}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >結果が複数のページにまたがる場合は、「**すべて選択**」をクリックすると、すべてのページのすべてのユーザーが選択されます。
 
-1. Marketoからユーザーを完全に削除するには、「**ユーザーを削除**」をクリックします。
+1. 人物をMarketoから完全に削除するには、「**人物を削除**」をクリックします。
 
    ![](assets/four-1.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >マーケティング担当者がCRMに関連付けられていない場合、スクリーンショットのようにオプションは灰色表示になっています。
+   >ご使用のMarketoがCRMに結び付けられていない場合、スクリーンショットのように、オプションは灰色表示になっています。
 
 1. 「**今すぐ実行**」をクリックします。
 
