@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146966
-description: スマートキャンペーンの表示資格を持つユーザー — Marketto Docs — 製品ドキュメント
+description: スマートキャンペーンの表示資格者 —Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンの表示資格者
+exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # スマートキャンペーンの表示資格者{#view-qualified-people-in-a-smart-campaign}
 
