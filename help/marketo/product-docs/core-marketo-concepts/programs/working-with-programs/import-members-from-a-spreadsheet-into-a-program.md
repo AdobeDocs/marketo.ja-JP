@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147120
-description: スプレッドシートからプログラムへのメンバーのインポート — Marketto Docs — 製品ドキュメント
+description: スプレッドシートからプログラムにメンバーをインポートする —Marketoドキュメント — 製品ドキュメント
 title: スプレッドシートからプログラムへのメンバーのインポート
+exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # スプレッドシートからプログラム{#import-members-from-a-spreadsheet-into-a-program}にメンバをインポート
 
@@ -25,7 +25,7 @@ ht-degree: 0%
    >
    >日付を日付フィールドにインポートする場合は、次の形式を使用します。9/29/13（月/日/年）
 
-## CSVをMarketorにインポート{#import-your-csv-into-marketo}
+## CSVをMarketoにインポート{#import-your-csv-into-marketo}
 
 1. プログラムーで、**Members**&#x200B;セクションに移動します。
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/importlist1.png)
 
-1. リストのデータ値を対応するマーケティング先フィールドにマップし、「**次へ**」をクリックします。
+1. リストのデータ値を対応するMarketoフィールドにマップし、「**次へ**」をクリックします。
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >インポートしたくないフィールドがある場合は、「マーケティング先フィールド」ドロップダウンメニューで「**IGNORE**」を選択します。
+   >読み込まないフィールドがある場合は、「Marketoフィールド」ドロップダウンメニューで「**無視**」を選択します。
 
 1. リストの&#x200B;**メンバーステータス**&#x200B;を選択します。
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
-1. マーケティングがインポートを終了するのを待ってから、確認ダイアログを閉じます。
+1. Marketoがインポートを終了するのを待ってから、確認ダイアログを閉じます。
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   素晴らしい！ 読み込んだ新しいメンバーが表示されます。
+   OK！読み込んだ新しいメンバーが表示されます。
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
