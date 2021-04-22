@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504893
-description: マネージャーアカウントを使用したLaunchpointサービスとしての追加Google AdWords - Marketto Docs — 製品ドキュメント
+description: マネージャーアカウントを持つLaunchpointサービスとしての追加Google AdWords -Marketoドキュメント — 製品ドキュメント
 title: マネージャーアカウントを追加持つLaunchpointサービスとしてのGoogle AdWords
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # マネージャーアカウント追加を持つLaunchpointサービスとしてのGoogle AdWords {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWordsアカウントをMarketorにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列[を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。 ](https://support.google.com/adwords/answer/3073556)この情報は、Marketo UIには表示されません。
+Google AdWordsアカウントをMarketoにリンクして、オフラインコンバージョンデータをMarketoからGoogle AdWordsに自動的にアップロードします。 次に、AdWords UIから、AdWordsにカスタム列](https://support.google.com/adwords/answer/3073556)を追加した後、条件を満たしたリード、オポチュニティ、新規顧客（または追跡したい任意の売上高ステージ）に導いたクリックを簡単に確認できます。 [この情報は、MarketoUIには表示されません。
 
-複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、Marketoと統合できます。
+複数のGoogle Adwordsアカウントがある場合は、[Google AdWords Managerアカウント](https://www.google.com/adwords/manager-accounts/)（旧称My Client Center）を使用して、それらをMarketoと統合できます。
 
 [Googleのオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)の詳細を表示します。
 
@@ -43,7 +43,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/new-service-google-1.png)
 
-1. 「**マーケティングを許可**」を選択します。
+1. 「**Marketoを許可**」を選択します。
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ Google AdWordsアカウントをMarketorにリンクして、オフラインコ�
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. MarkettoからGoogle AdWords **週別**&#x200B;または&#x200B;**日別**&#x200B;にオフラインコンバージョンをアップロードします。
+1. オフラインコンバージョンをMarketoからGoogle AdWords **週別**&#x200B;または&#x200B;**日別**&#x200B;にアップロードします。
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
