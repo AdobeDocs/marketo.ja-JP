@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719310
-description: Salesforce同期の有効化/無効化 — Marketto Docs — 製品ドキュメント
+description: Salesforce同期の有効化/無効化 —Marketoドキュメント — 製品ドキュメント
 title: Salesforce同期の有効化/無効化
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce同期を有効/無効{#enable-disable-the-salesforce-sync}
 
