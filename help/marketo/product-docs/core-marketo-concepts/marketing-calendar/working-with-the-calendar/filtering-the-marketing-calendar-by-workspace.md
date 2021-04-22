@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147306
-description: Workspaceでのマーケティングカレンダーのフィルタリング — Marketto Docs — 製品ドキュメント
+description: ワークスペースでのマーケティングカレンダーのフィルタリング —Marketoドキュメント — 製品ドキュメント
 title: Workspaceでのマーケティングカレンダーのフィルタリング
+exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # ワークスペースでのマーケティングカレンダーのフィルタリング{#filtering-the-marketing-calendar-by-workspace}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   素晴らしい！ 現在は、その特定のワークスペースに構築されたオブジェクトのみが表示されます。
+   OK！現在は、その特定のワークスペースに構築されたオブジェクトのみが表示されます。
 
    >[!NOTE]
    >
