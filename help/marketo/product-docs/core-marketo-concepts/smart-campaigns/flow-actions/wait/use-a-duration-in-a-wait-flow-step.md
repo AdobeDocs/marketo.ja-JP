@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146978
-description: 待機フローステップでの期間の使用 — Marketto Docs — 製品ドキュメント
+description: 待機フローステップでの期間の使用 —Marketoドキュメント — 製品ドキュメント
 title: 待機フローステップでの期間の使用
+exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # 待機フローステップでの期間の使用{#use-a-duration-in-a-wait-flow-step}
 
