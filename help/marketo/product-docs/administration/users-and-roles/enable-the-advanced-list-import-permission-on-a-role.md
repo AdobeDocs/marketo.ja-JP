@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360211
-description: ロールに対する高度なリストインポート権限を有効にする — Marketto Docs — 製品ドキュメント
+description: ロールに対するアドバンスリストインポート権限を有効にする —Marketoドキュメント — 製品ドキュメント
 title: ロールに対するアドバンスリストインポート権限の有効化
+exl-id: 8bbdd2ee-881f-4fc7-93bc-624b9f636f95
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # ロール{#enable-the-advanced-list-import-permission-on-a-role}に対する詳細リストインポート権限を有効にする
 
