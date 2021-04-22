@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
-description: 暫定/確認日について — Marketto Docs — 製品ドキュメント
+description: 暫定/確認日について —Marketoドキュメント — 製品ドキュメント
 title: 仮日/確認日について
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
-# 仮日/確認日について{#understanding-tentative-confirmed-dates}
+# 仮の日付と確認日付について{#understanding-tentative-confirmed-dates}
 
 スマートキャンペーンと電子メールプログラムには、**仮の**&#x200B;または&#x200B;**確認済み**&#x200B;としてマークする強力な機能があります。 これがその仕組みです
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## {#finished}を終了
+## 完了  {#finished}
 
 完了したエントリは既に実行されています。 過去のものしかない。 エントリが実行され、**完了**&#x200B;になったら、そのエントリを移動したり仮のエントリにしたりすることはできません。 （現実を変えず、時間流の連続体を妨げることはありません。）
 
