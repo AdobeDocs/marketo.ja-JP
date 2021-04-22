@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094188
-description: カスタムオブジェクトの承認 — Marketto Docs — 製品ドキュメント
+description: カスタムオブジェクトの承認 —Marketoドキュメント — 製品ドキュメント
 title: カスタムオブジェクトの承認
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # カスタムオブジェクトの承認{#approve-a-custom-object}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 新しいカスタムオブジェクトを作成しました。 承認方法を次に示します。
 
-1. 管理者で、「**カスタムオブジェクトをマーケティング**」をクリックし、ドラフト状態のオブジェクトを選択します。
+1. 管理者で、「**Marketoカスタムオブジェクト**」をクリックし、ドラフト状態のオブジェクトを選択します。
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >_中間オブジェクト_&#x200B;として使用されるカスタムオブジェクトには、リンクフィールド、リンクオブジェクト名、リンクフィールド名が必要ですが、**重複除外フィールドは必要ありません。**
    >
-   >詳しくは、[マーケティングカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)を参照してください。
+   >詳しくは、[Marketoのカスタムオブジェクトについて](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)を参照してください。
 
 それだ！ これで、キャンペーンで使用するフィルターやトリガーの制約事項に含まれるカスタムオブジェクトを選択できます。
 
