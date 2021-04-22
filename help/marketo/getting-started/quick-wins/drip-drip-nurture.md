@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359420
-description: Drip、Drip、Nurture - Marketto Docs — 製品ドキュメント
+description: Drip、Drip、Nurture -Marketoドキュメント — 製品ドキュメント
 title: ドリップ、ドリップ、ナーチャー
+exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
-
 # ドリップ、ドリップ、ナーチャ{#drip-drip-nurture}
 
 ## ミッション：最近のトレードショーに参加した人を育てる{#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
-Marketoでは、高度で高度なナチュレーションシステムを簡単に作成できます。 どうやって！
+Marketoでは、高度で高度なナチュレーションシステムを簡単に作り出すことができます。 どうやって！
 
 >[!PREREQUISITES]
 >
@@ -115,7 +115,7 @@ Marketoでは、高度で高度なナチュレーションシステムを簡単�
    >
    >承認しないとコンテンツをアクティブ化できません。
 
-   素晴らしい仕事！ もう1つの手順を実行し、エンゲージメントプログラムの準備が整います。
+   すばらしい！ もう1つの手順を実行し、エンゲージメントプログラムの準備が整います。
 
 ## 手順5:ストリームカデンスを設定{#step-set-the-stream-cadence}
 
