@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147112
-description: タグについて — Marketto Docs — 製品ドキュメント
+description: タグについて —Marketoドキュメント — 製品ドキュメント
 title: タグについて
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # タグについて{#understanding-tags}
 
-プログラムはマーケトの構成要素のようなものだと今ではお分かりでしょう タグやチャネルを使用すると、レポート目的でデータをフィルタリングできます。
+プログラムはMarketoの街区のようなものだと今ご存知でしょう タグやチャネルを使用すると、レポート目的でデータをフィルタリングできます。
 
 タグは、プログラムを記述するために使用されます。 必要な数だけ作成でき、それぞれに一意の値を設定できます。 チャネルは、ウェビナー、スポンサー、オンライン広告など、プログラム内の配信メカニズムを識別します。
 
-## タグの種類{#tag-type}
+## タグのタイプ {#tag-type}
 
 タグタイプは、並べ替えの基準となる情報の種類を示します。
 
 >[!TIP]
 >
->カスタムタグを作成する場合は、[マーケティング担当者](/help/marketo/product-docs/administration/tags/create-custom-tags.md)にお問い合わせください。
+>カスタムタグを作成する場合は、[Marketo管理者](/help/marketo/product-docs/administration/tags/create-custom-tags.md)にお問い合わせください。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## チャネル{#channel}
+## チャネル {#channel}
 
 チャネルは、[メンバー](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)がプログラム内をどのように移動したかを報告するのに使用します。 各チャネルには、一連の進行ステータスと、同じ成功に設定された1つのステータスがあります。
 
