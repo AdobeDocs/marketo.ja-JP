@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360346
-description: リストインポートのフィールドエイリアスを編集 — Marketto Docs — 製品ドキュメント
+description: リストインポートのフィールドエイリアスを編集 —Marketoドキュメント — 製品ドキュメント
 title: リストインポートのフィールドエイリアスの編集
+exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # リストインポートのフィールドエイリアスの編集{#edit-field-aliases-for-list-import}
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >
 >「**追加別の**」をクリックし、必要に応じて別のエイリアスを入力します。
 
-見ろ！ 現在は、「DOB」という名前の列を含むスプレッドシートを読み込むと、Marketorは自動的に「Date of Birth」と認識し、データを正しいフィールドに読み込みます。
+見ろ！ 現在は、「DOB」という名前の列を含むスプレッドシートを読み込むと、Marketoは自動的に「生年月日」と認識し、データを正しいフィールドに読み込みます。
 
 ![](assets/image2014-9-19-9-3a57-3a20.png)
