@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783561
-description: サンプルの送信 — Marketto Docs — 製品ドキュメント
+description: サンプルの送信 —Marketoドキュメント — 製品ドキュメント
 title: サンプルの送信
+exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # サンプルの送信{#sending-a-sample}
 
