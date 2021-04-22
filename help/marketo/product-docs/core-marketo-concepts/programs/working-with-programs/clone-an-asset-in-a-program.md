@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147152
-description: プログラム内のアセットのコピー — Marketto Docs — 製品ドキュメント
+description: プログラム内のアセットのコピー —Marketoドキュメント — 製品ドキュメント
 title: プログラム内のアセットのコピー
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # プログラム内のアセットのコピー{#clone-an-asset-in-a-program}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >アセットを別のプログラムにコピーすることもできます。 **プログラム**&#x200B;ドロップダウンを使用して選択します。
 
-1. 素晴らしい！ これで、新しいコピー済みアセットが表示されます。
+1. OK！これで、新しいコピー済みアセットが表示されます。
 
    ![](assets/report.jpg)
 
