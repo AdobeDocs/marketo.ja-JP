@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: リリースノート — 2015年7月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2015年7月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2015年7月
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # リリースノート：2015年7月{#release-notes-july}
 
-## マーケティングの瞬間{#marketo-moments}
+## Marketo注目の出来事 {#marketo-moments}
 
-昼食時に外出するが、メールのスケジュールを変更する必要があるか。 App StoreやGoogle Playから利用できるMarketo Momentsアプリを使用すると、電子メールやイベントのキャンペーンがリアルタイムでどのように動作しているか、および将来のiPhone、iPad、Androidのスマートフォンから何が起きるかを確認できます。
+昼食時に外出するが、メールのスケジュールを変更する必要があるか。 App StoreやGoogle Playから入手できるMarketo Momentsアプリを使用すると、電子メールやイベントのキャンペーンのリアルタイム表示や、将来のiPhone、iPad、Androidの携帯電話からの公開内容を確認できます。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## 電子メールの配信品質シングルサインオン{#email-deliverability-single-sign-on}
+## メール配信シングルサインオン {#email-deliverability-single-sign-on}
 
 電子メールの配信品質タイルをクリックすると、ログイン資格情報を入力する必要がなくなります。
 
-## キャンペーンの優先順位{#campaign-prioritization}
+## キャンペーン優先度の設定 {#campaign-prioritization}
 
 パーソナライズされたRTPキャンペーンをいくつか設定し、その一部が他のユーザーと重なり合う可能性があることに気付いたか。 先に進み、キャンペーンのRTPを他のユーザーより優先する優先度を設定します。
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 会社API {#company-api}
 
-**REST APIを介した会社オブジェクトアクセス**:REST APIでは、Marketo会社（アカウントなど）オブジェクトへのアクセスが提供されるようになりました。つまり、Marketing Targetで作成した会社オブジェクトを読み取り、更新および削除し、更新されたリードAPIを使用してリードをそのような会社に関連付けることができます。
+**REST APIを介した会社オブジェクトアクセス**:REST APIでは、Marketo会社（アカウント）オブジェクトへのアクセスが提供されるようになりました。つまり、Marketoで作成した会社オブジェクトを読み取り、更新および削除し、更新されたリードAPIを使用してリードをそのような会社に関連付けることができます。
 
 会社APIのリファレンスガイドで[詳細](https://developers.marketo.com/documentation/company-api/)を参照してください。
 
