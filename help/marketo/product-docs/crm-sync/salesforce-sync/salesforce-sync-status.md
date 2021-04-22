@@ -1,16 +1,16 @@
 ---
-description: Salesforce同期ステータス — Marketto Docs — 製品ドキュメント
-title: Salesforce同期ステータス
+description: Salesforce同期ステータス —Marketoドキュメント — 製品ドキュメント
+title: Salesforce 同期ステータス
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-
-# Salesforce同期ステータス{#salesforce-sync-status}
+# Salesforce 同期ステータス {#salesforce-sync-status}
 
 同期ステータスダッシュボードを使用して、同期ステータスとその成功ステータスの一部として、表示同期の統計を同期します。
 
@@ -63,27 +63,27 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th>フィールド</th> 
-   <th>説明</th> 
-   <th>列挙値</th> 
+   <th>詳細</th> 
+   <th>Enum 値</th> 
   </tr> 
   <tr> 
-   <td colspan="1">開始日</td> 
+   <td colspan="1">開始:</td> 
    <td colspan="1">同期サイクル開始の日付/時刻（ユーザーのタイムゾーン）</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">終了日：</td> 
+   <td colspan="1">終了:</td> 
    <td colspan="1">同期サイクルの終了日時（ユーザーのタイムゾーン）</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">オブジェクト</td> 
-   <td colspan="1">オブジェクトの種類</td> 
+   <td colspan="1">オブジェクトタイプ</td> 
    <td colspan="1">連絡先、担当者、タスク、オポチュニティ、リード、その他</td> 
   </tr>  
   <tr> 
    <td colspan="1">操作</td> 
-   <td colspan="1">操作の種類</td> 
+   <td colspan="1">操作のタイプ</td> 
    <td colspan="1">次の操作タイプ</td> 
   </tr>  
   <tr> 
@@ -92,7 +92,7 @@ ht-degree: 0%
    <td colspan="1">成功、失敗、不完全、処理中、クリーンアップ*</td> 
   </tr>
   <tr> 
-   <td colspan="1">新規</td> 
+   <td colspan="1">新規作成</td> 
    <td colspan="1">新しいレコードの数</td> 
    <td colspan="1"></td> 
   </tr>  
@@ -112,7 +112,7 @@ ht-degree: 0%
    <td colspan="1"><br></td> 
   </tr>  
   <tr> 
-   <td colspan="1">スキップ</td> 
+   <td colspan="1">スキップ済み</td> 
    <td colspan="1">同期に関心のあるフィールドに変更がなかったため、スキップされたレコードの数</td> 
    <td colspan="1"></td> 
   </tr>  
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 *同期ステップの失敗後、データは整合性の以前の状態に戻りました。
 
-## オブジェクトタイプ{#object-type}
+## オブジェクトのタイプ {#object-type}
 
 <table> 
  <colgroup> 
@@ -141,13 +141,13 @@ ht-degree: 0%
    <td colspan="1">キャンペーン</td> 
   </tr>  
   <tr> 
-   <td colspan="1">キャンペーンメンバーの状態</td> 
+   <td colspan="1">キャンペーンメンバステータス</td> 
   </tr>
   <tr> 
-   <td colspan="1">連絡先</td> 
+   <td colspan="1">取引先責任者</td> 
   </tr>  
   <tr> 
-   <td colspan="1">電子メールテンプレート</td> 
+   <td colspan="1">メールテンプレート</td> 
   </tr>  
   <tr> 
    <td colspan="1">イベント</td> 
@@ -156,21 +156,21 @@ ht-degree: 0%
    <td colspan="1">人（リーダー）</td> 
   </tr>  
   <tr> 
-   <td colspan="1">オポチュニティ</td> 
+   <td colspan="1">商談</td> 
   </tr>  
   <tr> 
-   <td colspan="1">商談の連絡先の役割</td> 
+   <td colspan="1">商談連絡先のロール</td> 
   </tr>  
   <tr> 
    <td colspan="1">タスク</td> 
   </tr>  
   <tr> 
-   <td colspan="1">ユーザー</td> 
+   <td colspan="1">ユーザ</td> 
   </tr>  
  </tbody> 
 </table>
 
-## 操作の種類{#operation-type}
+## 操作 タイプ {#operation-type}
 
 <table> 
  <colgroup> 
@@ -181,7 +181,7 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>操作の種類</th> 
+   <th>操作のタイプ</th> 
    <th>これらのオブジェクトに対して見つかりました</th> 
    <th>備考</th> 
    <th>操作の種類</th>
@@ -193,37 +193,37 @@ ht-degree: 0%
    <td colspan="1">更新</td>
   </tr>  
   <tr> 
-   <td colspan="1">プルコンバージョン</td> 
+   <td colspan="1">コンバージョンをプル</td> 
    <td colspan="1">人（リード）*</td> 
    <td colspan="1">SFDCからMarketoへのコンバージョンアクションを取り込みます。 数量（数値）はリードが連絡先に変換しています</td> 
    <td colspan="1">更新、失敗したアイテム、スキップ</td>
   </tr> 
   <tr> 
-   <td colspan="1">削除の取り込み</td> 
+   <td colspan="1">削除をプル</td> 
    <td colspan="1">連絡先，個人（リード），商談，キャンペーン,キャンペーンメンバー，商談連絡先，カスタムオブジェクト，キャンペーン,キャンペーンメンバーのステータス，商談連絡先ロール</td> 
-   <td colspan="1">Marketoと同期されるSFDCのレコードが削除されました</td> 
+   <td colspan="1">Marketoと同期中のSFDCのレコードを削除</td> 
    <td colspan="1">削除済み、失敗したアイテム、またはスキップ</td>
   </tr>  
   <tr> 
-   <td colspan="1">更新の取り込み</td> 
+   <td colspan="1">更新をプル</td> 
    <td colspan="1">タスク、個人（リード）、個人（リード）キュー、連絡先、イベント、営業案件、取引先企業、取引先企業、取引先企業タイプ、キャンペーンメンバー、カスタムオブジェクト、キャンペーン、キャンペーンメンバーのステータス、イベント、個人ステータス、商談、商談担当者の役割</td> 
-   <td colspan="1">SFDCでMarketorと同期された更新または新しいレコード、イベントをアクティビティとして取り込む</td> 
+   <td colspan="1">SFDCの更新または新しいレコードがMarketoに同期され、イベントをアクティビティとして取り込む</td> 
    <td colspan="1">新規、更新、失敗したアイテム、またはスキップ</td>
   </tr>  
   <tr> 
-   <td colspan="1">新規プッシュ</td> 
+   <td colspan="1">新規をプッシュ</td> 
    <td colspan="1">タスク、電子メールテンプレート</td> 
    <td colspan="1">プッシュタスク(アクティビティ)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
-   <td colspan="1">プッシュの更新</td> 
+   <td colspan="1">更新をプッシュ</td> 
    <td colspan="1">タスク，電子メールテンプレート，人，連絡先，キャンペーン</td> 
    <td colspan="1">SFDCに更新をプッシュして削除する</td> 
    <td colspan="1">更新、失敗したアイテム、スキップ</td>
   </tr>  
   <tr> 
-   <td colspan="1">同期スキーマ</td> 
+   <td colspan="1">スキーマを同期</td> 
    <td colspan="1">キャンペーンメンバー，カスタムオブジェクト，キャンペーン,キャンペーンメンバーのステータス，タスク，人，商談，商談担当者の役割，ユーザー</td> 
    <td colspan="1">異なるオブジェクトのメタデータを同期し、次のサイクルで同期する新しいフィールドを決定</td> 
    <td colspan="1"></td>
@@ -235,13 +235,13 @@ ht-degree: 0%
    <td colspan="1">新規、更新、失敗またはスキップ</td>
   </tr> 
   <tr> 
-   <td colspan="1">アクティビティの更新</td> 
+   <td colspan="1">アクティビティを更新</td> 
    <td colspan="1">タスク</td> 
    <td colspan="1">Salesforceからのアクティビティの取り込み</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
-   <td colspan="1">FKSの更新</td> 
+   <td colspan="1">FKS を更新</td> 
    <td colspan="1">すべて</td> 
    <td colspan="1">すべてのオブジェクトの外部キーを更新する</td> 
    <td colspan="1">該当なし</td>
