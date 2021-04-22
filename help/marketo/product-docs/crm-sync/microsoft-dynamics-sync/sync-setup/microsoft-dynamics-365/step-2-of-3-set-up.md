@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571827
-description: 手順2 / 3 - Dynamics - Marketto Docs — 製品ドキュメントでのユーザー同期の設定
-title: 手順2/3 - DynamicsでのMarketo Syncユーザーの設定
+description: 手順2 / 3 - Dynamics -Marketoドキュメント — 製品ドキュメントでのMarketo同期ユーザーのセットアップ
+title: 手順2/3 - DynamicsでのMarketo同期ユーザーの設定
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
 
-
-# 手順2/3:Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}でMarket Syncユーザーを設定
+# 手順2/3:Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}でMarketo同期ユーザーを設定
 
 まず、ユーザーアカウントを作成します。
 
 >[!PREREQUISITES]
 >
->[手順1/3:Marketor Solutionのインストール（オンライン）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>[手順1/3:Marketoソリューションのインストール（オンライン）](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## 新しいユーザーの作成{#create-a-new-user}
 
@@ -63,17 +63,17 @@ ht-degree: 0%
 
 ## 同期ユーザーロールの割り当て{#assign-sync-user-role}
 
-Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当てます。 他のユーザーに割り当てる必要はありません。
+Marketo同期ユーザーロールをMarketo同期ユーザーにのみ割り当てます。 他のユーザーに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketoバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketorをアップグレードするには、[Microsoft Dynamics用Marketing Solutionのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketoバージョン4.0.0.14以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketoをアップグレードするには、[Microsoft Dynamics用Marketoソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
 1. 「有効なユーザー」タブに戻り、ユーザーリストを更新します。
 
    ![](assets/ten.png)
 
-1. 新しく作成されたMarketo Syncユーザーの横にマウスポインターを置くと、チェックボックスが表示されます。 クリックして選択します。
+1. 新しく作成したMarketo同期ユーザーの横にマウスポインターを置くと、チェックボックスが表示されます。 クリックして選択します。
 
    ![](assets/eleven.png)
 
@@ -81,31 +81,31 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
    ![](assets/twelve.png)
 
-1. 「**ユーザーを同期するマーケティングツール**」を選択し、「**OK**」をクリックします。
+1. 「**Marketo同期ユーザー**」をチェックし、「**OK**」をクリックします。
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >同期ユーザーがCRMで行った更新は、Marketoに&#x200B;**同期**&#x200B;されません。
+   >同期ユーザーがCRMで行った更新は、**** Marketoには同期されません。
 
-## Marketto Solutionの設定{#configure-marketo-solution}
+## Marketoソリューションの構成{#configure-marketo-solution}
 
-もう少しで！ 後は、新しく作成したユーザーについてマーケティング担当者に知らせるだけです。
+もう少しで！ あとは、新しく作成したユーザーについてMarketoソリューションに知らせるだけです。
 
-1. 「詳細設定」セクションに戻り、「設定」の横の![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、「**Marketto Config**」を選択します。
+1. 「詳細設定」セクションに戻り、「設定」の横の![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、「**Marketo設定**」を選択します。
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >設定メニューに&#x200B;**Marketto Config**&#x200B;が表示されない場合は、ページを更新します。 問題が解決しない場合は、[Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)を再度公開するか、ログアウトしてから再度ログインしてください。
+   >[設定]メニューに&#x200B;**Marketo設定**&#x200B;が表示されない場合は、ページを更新します。 それでもうまくいかない場合は、[Marketoソリューション](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)を再度公開するか、ログアウトしてから再度ログインしてみてください。
 
 1. 「**デフォルト**」をクリックします。
 
    ![](assets/fifteen.png)
 
-1. 「**Marketto User**」フィールドの検索ボタンをクリックし、作成した同期ユーザーを選択します。
+1. 「**Marketoユーザー**」フィールドの検索ボタンをクリックし、作成した同期ユーザーを選択します。
 
    ![](assets/sixteen.png)
 
@@ -129,7 +129,7 @@ Marketor SyncユーザーロールをMarketor Syncユーザーにのみ割り当
 
     *同期するレコードの数を制限する場合は、[カスタム同期フィルタを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)を今すぐ行ってください。
     * [Microsoft Dynamics Syncの検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認できます。
-    * Microsoft Dynamics CRMのMarketto Sync Userにログインします。
+    * Microsoft Dynamics CRMのMarketo同期ユーザーにログインします。
 
 >[!MORELIKETHIS]
 >
