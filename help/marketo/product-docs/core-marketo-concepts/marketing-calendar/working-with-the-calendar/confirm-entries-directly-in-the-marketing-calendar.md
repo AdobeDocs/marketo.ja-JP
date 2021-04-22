@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953362
-description: マーケティングカレンダー — Marketto Docs — 製品ドキュメントで直接エントリを確認します。
+description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメントで直接エントリを確認
 title: マーケティングカレンダーでの入口の直接確認
+exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # マーケティングカレンダーでの直接参加者の確認{#confirm-entries-directly-in-the-marketing-calendar}
 
