@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504120
-description: プレゼンテーションの開始 — Marketto Docs — 製品ドキュメント
+description: プレゼンテーションの開始 —Marketoドキュメント — 製品ドキュメント
 title: プレゼンテーションの開始
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # プレゼンテーションの開始{#launch-a-presentation}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->この機能を購入していないお客様もいます。 詳細については、セールス担当者にお問い合わせください。
+>この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
 
 >[!PREREQUISITES]
 >
