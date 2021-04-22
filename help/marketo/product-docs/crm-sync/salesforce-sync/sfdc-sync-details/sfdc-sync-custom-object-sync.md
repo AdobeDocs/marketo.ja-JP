@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: SFDC同期 — カスタムオブジェクト同期 — Marketto Docs — 製品ドキュメント
+description: SFDC同期 — カスタムオブジェクト同期 —Marketoドキュメント — 製品ドキュメント
 title: SFDC同期 — カスタムオブジェクト同期
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-
 # SFDC同期：カスタムオブジェクト同期{#sfdc-sync-custom-object-sync}
 
-Salesforceインスタンスで作成されたカスタムオブジェクトは、Marketoの一部にすることもできます。  設定方法を次に示します。
+Salesforceインスタンスで作成されたカスタムオブジェクトも、Marketoの一部にすることができます。  設定方法を次に示します。
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトは�
 
    >[!NOTE]
    >
-   >カスタムオブジェクトには、一意の名前を付ける必要があります。 Marketorは、同じ名前を持つ2つの異なるカスタムオブジェクトをサポートしていません。
+   >カスタムオブジェクトには、一意の名前を付ける必要があります。 Marketoは、同じ名前を持つ2つの異なるカスタムオブジェクトをサポートしていません。
 
 1. 「**同期を有効にする**」をクリックします。
 
@@ -77,7 +77,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトは�
 
    >[!NOTE]
    >
-   >マーケティング担当者は、1 ～ 2レベルの深さの標準エンティティにリンクされたカスタムエンティティのみをサポートしています。
+   >Marketoは、1レベルまたは2レベルの深さの標準エンティティにリンクされたカスタムエンティティのみをサポートします。
 
 ### 次の作業：{#whats-next}
 
