@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557326
-description: リストまたはスマートリストでのクイック検索の使用 — Marketto Docs — 製品ドキュメント
+description: リストまたはスマートリストでのクイック検索の使用 —Marketoドキュメント — 製品ドキュメント
 title: リストまたはスマートリストでのクイック検索の使用
+exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # リストまたはスマートリストでクイック検索を使用{#use-quick-find-in-a-list-or-smart-list}
 
