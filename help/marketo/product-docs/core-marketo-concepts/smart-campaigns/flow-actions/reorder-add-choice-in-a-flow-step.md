@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557333
-description: フロー手順追加の選択項目の順序変更 — Marketto Docs — 製品ドキュメント
+description: フロー手順の追加順序変更 —Marketoドキュメント — 製品ドキュメント
 title: フローステップの追加選択肢の並べ替え
+exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # フロー手順追加の選択肢の並べ替え{#reorder-add-choice-in-a-flow-step}
 
