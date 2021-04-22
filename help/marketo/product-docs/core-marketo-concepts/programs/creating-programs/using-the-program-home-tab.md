@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147126
-description: プログラムホームタブの使用 — Marketto Docs — 製品ドキュメント
+description: プログラムホームタブ —Marketoドキュメント — 製品ドキュメントの使用
 title: プログラムホームタブの使用
+exl-id: 04c36190-d853-4900-b566-973d08316e37
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # プログラムのホームタブ{#using-the-program-home-tab}を使用
 
