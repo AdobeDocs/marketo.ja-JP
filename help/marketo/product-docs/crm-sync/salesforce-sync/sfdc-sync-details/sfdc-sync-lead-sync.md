@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953455
-description: SFDC同期 — リード同期 — マーケティング担当者向けドキュメント — 製品ドキュメント
+description: SFDC同期 — リード同期 —Marketoドキュメント — 製品ドキュメント
 title: SFDC同期 — リード同期
+exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-
 # SFDC同期：リード同期{#sfdc-sync-lead-sync}
 
-SalesforceデータベースからMarketoの同期を知っていましたか。 同期し、5分待ってから、再び同期します。 毎日、毎日。 ここでは、MarketoがSalesforceのリードを具体的にどのように扱うかについて詳しく説明します。
+SalesforceデータベースからのMarketo同期を知っていましたか？ 同期し、5分待ってから、再び同期します。 毎日、毎日。 ここでは、MarketoがSalesforceのリードを具体的にどのように扱うかについて詳しく説明します。
 
 ## 同期方向{#sync-direction}
 
@@ -21,13 +21,13 @@ SalesforceデータベースからMarketoの同期を知っていましたか。
 
 ## 両方のシステムで変更が同時に行われた場合はどうなりますか。{#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-マーケットが勝つ。 このようなデータの衝突が起きることはまれです。
+Marketoが勝つ。 このようなデータの衝突が起きることはまれです。
 
-## Marketoを使用してSalesforceでリードを作成できますか。{#can-i-create-a-lead-in-salesforce-using-marketo}
+## Marketoを使用してSalesforceのリードを作成できますか。{#can-i-create-a-lead-in-salesforce-using-marketo}
 
 はい、[人物をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用します。 これにより、リードが存在しない場合は、Salesforceにリードが作成されます。
 
-## Marketonの担当者を手動でSalesforceのリードに同期させることはできますか。{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
+## 手動でMarketoの人をSalesforceのリードに同期させることはできますか。{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
 はい、[人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)フローアクションを使用すると、リアルタイムで同期されます。
 
@@ -37,8 +37,8 @@ SalesforceデータベースからMarketoの同期を知っていましたか。
 
 >[!NOTE]
 >
->マーケティング担当者は、Salesforce同期ユーザーがアクセス権を持つフィールドのみを同期します。
+>Marketoは、Salesforce同期ユーザがアクセス権を持つフィールドのみを同期します。
 
-## Salesforceの検証ルールは、マーケティング担当者に適用されますか。{#will-marketo-respect-the-salesforce-validation-rules}
+## MarketoはSalesforce検証ルールを順守しますか。{#will-marketo-respect-the-salesforce-validation-rules}
 
-はい。 データ形式が正しくない場合、または必須フィールド情報がない場合、同期は失敗します。 これが発生した場合、Marketorはリードアクティビティログに結果を記録します。
+はい. データ形式が正しくない場合、または必須フィールド情報がない場合、同期は失敗します。 この場合、Marketoはリードアクティビティログに結果を記録します。
