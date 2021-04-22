@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146960
-description: データ値の変更 — Marketto Docs — 製品ドキュメント
+description: データ値の変更 —Marketoドキュメント — 製品ドキュメント
 title: データ値の変更
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# データ値の変更 {#change-data-value}
 
-# データ値の変更{#change-data-value}
+## 概要 {#overview}
 
-## 概要{#overview}
-
-マーケティングツールを使用して、フィールドの値を更新できます。 この場合、**データ値の変更**&#x200B;フローアクションを使用します。
+Marketoを使用して、フィールドの値を更新できます。 この場合、**データ値の変更**&#x200B;フローアクションを使用します。
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >また、フィールドの更新をブロックすることもできます。 詳しくは、[フィールドの更新をブロック](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)を参照してください。
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. 値を変更するフィールドを探して選択します。
 
