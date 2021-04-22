@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781988
-description: Analyticsカードについて — Marketto Docs — 製品ドキュメント
+description: Analyticsカードについて —Marketoドキュメント — 製品ドキュメント
 title: Analyticsカードについて
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Analyticsカードについて{#understanding-analytics-cards}
 
-毎月の最初に、Marketo Momentsには3つの異なるレポートカードが用意されています。獲得したリード、新規リードおよび登録解除。 それぞれの指標は、月別のパフォーマンスと6か月間の傾向を示します。
+毎月の最初に、Marketoモーメントには次の3つの異なるレポートカードが表示されます。獲得したリード、新規リードおよび登録解除。 それぞれの指標は、月別のパフォーマンスと6か月間の傾向を示します。
 
 ## Analyticsカード{#analytics-cards}
 
@@ -37,7 +37,7 @@ Analyticsカードをタップすると、以下が表示されます。
 
 ## 獲得リード数{#acquired-leads}
 
-**獲得したリード**&#x200B;カードは、新しいリード数の前月比トレンドレポートを示します。
+**獲得したリード**&#x200B;カードは、新規リード数の前月比トレンドレポートを示します。
 
 >[!NOTE]
 >
@@ -45,13 +45,13 @@ Analyticsカードをタップすると、以下が表示されます。
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## 新しいリード{#new-leads}
+## 新規リード {#new-leads}
 
 **New Leads**&#x200B;カードは、過去6か月間のインスタンス内の新規リードの総数に関する、前月比のトレンドを示します。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## 購読解除{#unsubscribes}
+## 配信停止 {#unsubscribes}
 
 **登録解除**&#x200B;カードは、過去6か月間の登録解除率を示す1か月間のトレンドレポートを表示します。
 
@@ -61,7 +61,7 @@ Analyticsカードをタップすると、以下が表示されます。
 
 >[!MORELIKETHIS]
 >
->* [マーケティングの場面について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketoの瞬間について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [電子メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
