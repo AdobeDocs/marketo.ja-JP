@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953207
-description: 新しいキャンペーンフォルダーの作成 — Marketto Docs — 製品ドキュメント
+description: 新しいキャンペーンフォルダーの作成 —Marketoドキュメント — 製品ドキュメント
 title: 新しいキャンペーンフォルダーの作成
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 translation-type: tm+mt
-source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # 新しいキャンペーンフォルダーの作成{#create-new-campaign-folder}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   すごい！ キャンペーンフォルダーを作成したとき。 ツリーで調べてみてください。
+   やりましたね！キャンペーンフォルダーを作成したとき。 ツリーで調べてみてください。
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
