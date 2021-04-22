@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147148
-description: プログラムの削除 — Marketto Docs — 製品ドキュメント
+description: プログラムの削除 —Marketoドキュメント — 製品ドキュメント
 title: プログラムの削除
+exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # プログラムの削除{#delete-a-program}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ![](assets/2017-05-05-15-04-15.png)
 
-完了。 プログラムは存在しなかったようです
+完了. プログラムは存在しなかったようです
 
 ## プログラムを削除できないのはなぜですか。{#why-cant-i-delete-my-program}
 
