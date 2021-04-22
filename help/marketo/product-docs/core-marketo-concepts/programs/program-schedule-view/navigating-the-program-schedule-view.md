@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147100
-description: プログラムスケジュール表示のナビゲーション — Marketto Docs — 製品ドキュメント
+description: プログラムスケジュール表示内を移動する —Marketoドキュメント — 製品ドキュメント
 title: プログラムスケジュール表示の操作
+exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # プログラムスケジュール表示の操作{#navigating-the-program-schedule-view}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
 
-素晴らしい！ プログラムを表示する方法を知ったら、他の素晴らしい方法を学びましょう。
+OK！プログラムを表示する方法を知ったら、他の素晴らしい方法を学びましょう。
 
 >[!MORELIKETHIS]
 >
