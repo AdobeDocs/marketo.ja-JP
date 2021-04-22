@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147124
-description: 「アセット」タブの使用 — Marketto Docs — 製品ドキュメント
+description: 「アセット」タブの使用 —Marketoドキュメント — 製品ドキュメント
 title: 「アセット」タブの使用
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # 「アセット」タブの使用{#using-the-assets-tab}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 | オレンジ | トリガーキャンペーン |
 |---|---|
-| 緑 | バッチキャンペーン |
+| グリーン | バッチキャンペーン |
 
 アセットを操作する場合は、ヘッダーを右クリックします。
 
