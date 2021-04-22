@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45417092
-description: フィールドのデータで使用されるエクスポート — Marketto Docs — 製品ドキュメント
+description: フィールドのデータで使用されるエクスポート —Marketoドキュメント — 製品ドキュメント
 title: フィールドのデータで使用されるエクスポート
+exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # フィールド{#export-used-by-data-for-a-field}のデータで使用されるエクスポート
 
