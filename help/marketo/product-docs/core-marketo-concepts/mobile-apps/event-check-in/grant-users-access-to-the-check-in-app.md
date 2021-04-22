@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516639
-description: チェックインアプリ — Marketto Docs — 製品ドキュメントへのアクセスをユーザーに許可する
+description: チェックインアプリ —Marketoドキュメント — 製品ドキュメントへのアクセスをユーザーに許可する
 title: チェックインアプリへのアクセス権をユーザーに付与
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # チェックインアプリへのユーザーアクセスを許可する{#grant-users-access-to-the-check-in-app}
 
-Marketorには、イベントのチェックインアプリに対する特別なユーザーの役割があります。 アプリを使用する権限を持つ新しいロールを作成する方法を次に示します。
+Marketoは、イベントのチェックインアプリに対して特別なユーザーロールを持っています。 アプリを使用する権限を持つ新しいロールを作成する方法を次に示します。
 
 ## モバイル用の新しいユーザーロールの作成{#create-a-new-user-role-for-mobile}
 
