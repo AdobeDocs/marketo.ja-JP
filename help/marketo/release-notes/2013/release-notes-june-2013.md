@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951095
-description: リリースノート — 2013年6月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年6月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年6月
+exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # リリースノート：2013年6月{#release-notes-june}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 追加のユーザー言語{#additional-user-languages}
 
-貴社の好みの言語でマーケティング担当者の管理インターフェイスを表示し、スペイン語とポルトガル語をサポートします。
+Marketoリード管理インターフェイスをお客様の好みの言語で表示できます。スペイン語とポルトガル語がサポートされるようになりました。
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
-## Cobaltユーザーインターフェイス{#cobalt-user-interface}
+## Cobalt ユーザ インターフェイス {#cobalt-user-interface}
 
 今後数か月の間に、新しいテーマがアプリのさまざまな部分で展開されているのが目に付きます。例えば、モーダルウィンドウに影響を与えます。
 
