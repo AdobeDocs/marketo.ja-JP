@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: 高度なスマートリストルールロジック — Marketto Docs — 製品ドキュメントの使用
+description: 高度なスマートリストルールロジックの使用 —Marketoドキュメント — 製品ドキュメント
 title: 高度なスマートリスト・ルール・ロジックの使用
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # 高度なスマートリストルールロジックの使用{#using-advanced-smart-list-rule-logic}
 
