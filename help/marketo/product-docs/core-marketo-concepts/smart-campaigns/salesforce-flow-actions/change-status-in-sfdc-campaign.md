@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147029
-description: SFDCキャンペーンのステータスの変更 — Marketto Docs — 製品ドキュメント
-title: SFDCキャンペーンのステータスの変更
+description: SFDCキャンペーンのステータスの変更 —Marketoドキュメント — 製品ドキュメント
+title: SFDC キャンペーン内のステータスの変更
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# SFDCキャンペーンのステータスの変更{#change-status-in-sfdc-campaign}
+# SFDC キャンペーン内のステータスの変更 {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
 >Salesforceと統合されている場合にのみ使用できます。
 
-## 概要{#overview}
+## 概要 {#overview}
 
 このフローステップにより、リードのSalesforceキャンペーンメンバーステータスを変更できます。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. 最初に、レコードが含まれるSalesforce **キャンペーン**&#x200B;を探して選択します。
 
