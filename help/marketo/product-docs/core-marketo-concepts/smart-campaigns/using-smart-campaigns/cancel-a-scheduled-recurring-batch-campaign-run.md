@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147060
-description: 定期的な定期バッチキャンペーンの実行のキャンセル — Marketto Docs — 製品ドキュメント
+description: 定期バッチキャンペーンの実行のキャンセル —Marketoドキュメント — 製品ドキュメント
 title: 定期バッチキャンペーンの実行の取消
+exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 定期バッチキャンペーンの実行のキャンセル{#cancel-a-scheduled-recurring-batch-campaign-run}
 
