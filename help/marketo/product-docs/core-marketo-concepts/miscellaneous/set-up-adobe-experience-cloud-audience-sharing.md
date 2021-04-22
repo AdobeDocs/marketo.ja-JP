@@ -1,25 +1,25 @@
 ---
 unique-page-id: 42762511
-description: Adobe Experience Cloudオーディエンス共有の設定 — Marketto Docs — 製品ドキュメント
+description: Adobe Experience Cloudオーディエンス共有のセットアップ —Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Cloudオーディエンス共有の設定
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Cloudオーディエンス共有のセットアップ{#set-up-adobe-experience-cloud-audience-sharing}
 
-オーディエンスデータをAdobeアプリケーションと共有するには、まずMarketorでAdobeのIMS組織の資格情報を入力する必要があります。 これが方法です。
+オーディエンスデータをAdobeアプリケーションと共有するには、まずMarketoでAdobeのIMS組織の資格情報を入力する必要があります。 これが方法です。
 
 >[!NOTE]
 >
->MarketorインスタンスのHIPAA対応の展開では、この統合を使用できません。
+>MarketoインスタンスのHIPAA対応の展開では、この統合を使用できません。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/one-2.png)
 
