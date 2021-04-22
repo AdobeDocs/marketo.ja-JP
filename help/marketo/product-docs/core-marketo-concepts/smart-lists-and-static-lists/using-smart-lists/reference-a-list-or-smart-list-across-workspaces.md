@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720377
-description: Workspaces全体でのリストまたはスマートリストの参照 — Marketto Docs — 製品ドキュメント
+description: Workspaces全体のリストまたはスマートリストの参照 —Marketoドキュメント — 製品ドキュメント
 title: Workspace間でのリストまたはスマートリストの参照
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # ワークスペース間でのリストまたはスマートリストの参照{#reference-a-list-or-smart-list-across-workspaces}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
-   すごい！ このリストは、両方のワークスペースで使用できるようになります。
+   やりましたね！このリストは、両方のワークスペースで使用できるようになります。
 
    >[!NOTE]
    >
