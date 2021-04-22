@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics Sync — カスタムエンティティ同期 — Marketto Docs — 製品ドキュメント
+description: Microsoft Dynamics Sync — カスタムエンティティ同期 —Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics Sync — カスタムエンティティ同期
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics同期：カスタムエンティティ同期{#microsoft-dynamics-sync-custom-entity-sync}
 
-DynamicsのデータをMarketoで使用できるようにするために、最初のカスタムエンティティ同期を有効にする必要がある場合は、次の方法を使用します。
+DynamicsのデータをMarketoで使用できるようにするために、初期のカスタムエンティティ同期を有効にする必要がある場合は、次の方法で行います。
 
 >[!NOTE]
 >
@@ -35,9 +35,9 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 [Microsoft Dynamics用のMarketoプラグインリリース](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+1. カスタムエンティティの同期（2_0_0_2の後）をサポートするバージョンのMicrosoft Dynamicsをインストールします。 [MIcrosoft DynamicsのMarketoプラグインリリース](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
-1. 同期する予定のエンティティに対する読み取りアクセス権を、マーケティング担当者に付与します。
+1. 同期するエンティティに対して、Marketo同期ユーザに読み取りアクセス権を与えます。
 
 1. [データベースの管理]で、**Dynamicsエンティティの同期**&#x200B;リンクをクリックします。
 
@@ -57,10 +57,10 @@ DynamicsのデータをMarketoで使用できるようにするために、最�
 
    >[!NOTE]
    >
-   >マーケティング担当者は、1 ～ 2レベルの深さの標準エンティティにリンクされたカスタムエンティティのみをサポートしています。
+   >Marketoは、1レベルまたは2レベルの深さの標準エンティティにリンクされたカスタムエンティティのみをサポートします。
 
    >[!NOTE]
    >
-   >エンティティ名は、**33文字(**)まで入力できます。
+   >エンティティ名は最大&#x200B;**33文字**&#x200B;まで入力できます。
 
 いいぞ！
