@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951044
-description: リリースノート — 2014年5月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2014年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2014年5月
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
 # リリースノート：2014年5月{#release-notes-may}
 
-2014年5月リリースには次の機能が含まれています。 Marketing Editionで機能が利用できるかどうかを確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクが必ず戻ってきてください。
+2014年5月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクが必ず戻ってきてください。
 
-## ワークスペースを削除{#delete-workspace}
+## ワークスペースの削除 {#delete-workspace}
 
 これで、未使用のワークスペース[を](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)削除できます。 ワークスペースを削除する前に、必ずすべてのアセットを別のワークスペースに移動してください。
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-11-3a57-3a54.png)
 
-## エンゲージメントプログラムの強化{#enhanced-engagement-programs}
+## 拡張エンゲージメントプログラム {#enhanced-engagement-programs}
 
 今では誰もが複数のプログラム、ストリーム、通信制限を受けます
 
 ## テキスト電子メールのリンクトラッキング{#link-tracking-in-text-emails}
 
-[電子メールのテキスト版の追加重複の正方形の](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 丸いURLは、リンクがいつ再転送されるべきかを示すために、リンクを再転送するMarketoトラッキングリンクに変換する必要があるかを示します
+[電子メールのテキスト版の追加重複の正方形の](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 丸いURLで、リンクを再転送されたMarketoトラッキングリンクに変換するタイミングを示します。
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 電子メール内のリンクが事前にどのように動作するかを確認する。 サンプルの電子メールに、リードに対して表示されるリンクが正確に表示されるようになりました。 どのリンクがトラッキングリンクに変換されたかをプレビューすると、受信者に対してメッセージが実際にどのように表示されるかをより深く把握できます。
 
-## キャンペーン{#abort-campaign}を中止
+## キャンペーンの中止 {#abort-campaign}
 
 パニックに陥るな！ 間違いを見つけた場合は、新しい[「キャンペーンを中止」](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)ボタンを使用して、トラック内のキャンペーンを直ちに停止します。 キャンペーンが停止した際に、各フローステップで保留中のリード数を示す通知を受け取ります。
 
@@ -81,4 +81,4 @@ AppExchangeからSales Insightの最新バージョンをダウンロードし�
 
 ## モバイルプラットフォーム情報{#mobile-platform-info}
 
-[リードのセグメント化と](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) トリガーオフ、およびリードがモバイルデバイスから電子メールを開いたりクリックしたりする。
+[リードのセグメントとトリガーオフ:モバイル機器からのメール開封とクリック.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
