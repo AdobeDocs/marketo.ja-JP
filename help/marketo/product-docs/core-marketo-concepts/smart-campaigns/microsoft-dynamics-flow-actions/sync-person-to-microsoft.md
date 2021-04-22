@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7514027
-description: 個人をMicrosoftと同期 — Marketto Docs — 製品ドキュメント
-title: ユーザーをMicrosoftに同期
+description: 個人をMicrosoftと同期 —Marketoドキュメント — 製品ドキュメント
+title: 担当者を Microsoft に同期
+exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
+# 担当者を Microsoft に同期 {#sync-person-to-microsoft}
 
-# ユーザーをMicrosoftに同期{#sync-person-to-microsoft}
+この機能は、MarketoとMicrosoft Dynamicsを統合しているユーザーのみが対象です。
 
-この機能は、MarketoをMicrosoft Dynamicsと統合しているユーザーのみが対象です。
+## 概要 {#overview}
 
-## 概要{#overview}
-
-このフロー手順により、Marketorが作成した人がDynamics CRMに挿入されます。
+このフローステップは、Marketoが作成した人をDynamics CRMに挿入します。
 
 ![](assets/one.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 Dynamicsユーザーを個人所有者として設定できます。
 
