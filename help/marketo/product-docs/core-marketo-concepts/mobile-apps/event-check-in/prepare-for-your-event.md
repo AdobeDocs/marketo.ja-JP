@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10099360
-description: イベント向けの準備 — Marketto Docs — 製品ドキュメント
+description: イベント対応の準備 —Marketoドキュメント — 製品ドキュメント
 title: イベントの準備
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # イベントの準備{#prepare-for-your-event}
 
 イベントの準備をするために必要なことがいくつかあります。
 
-## 新しいマーケティング担当者の役割の作成{#create-a-new-marketo-role}
+## 新しいMarketoの役割の作成{#create-a-new-marketo-role}
 
-Marketorには、イベントのチェックインアプリに対する特別なユーザーの役割があります。 [iPadまたはAndroidユーザー向けの新しいMarketor](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ロールを作成し、モバイルアプリケーションにアクセスする権限を付与します。
+Marketoは、イベントのチェックインアプリに対して特別なユーザーロールを持っています。 [iPadまたはAndroidユーザー向けの新しいMarketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ロールを作成し、モバイルアプリケーションにアクセスする権限を付与します。
 
 ## 新しいタブレットユーザーをイベントに招待{#invite-new-tablet-users-to-the-event}
 
 [新しいタブレットユーザーを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) イベントに招待し、新しい役割を割り当てます。
 
-## 新しいMarketorイベントプログラムの作成{#create-a-new-marketo-event-program}
+## 新しいMarketoイベントプログラムの作成{#create-a-new-marketo-event-program}
 
-[新しいマーケティングイベント](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) プログラムを作成して、様々な段階を進むにつれて訪問者のステータスを捕捉し、マーケティングイニシアチブのROIを正確に測定します。
+[新しいMarketoイベント](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) プログラムを作成して、異なる段階を進むにつれて訪問者のステータスを捕捉し、マーケティングイニシアチブのROIを正確に測定します。
 
 ## イベント日を指定{#specify-the-event-dates}
 
@@ -47,7 +47,7 @@ Marketorには、イベントのチェックインアプリに対する特別な
 
 *when*&#x200B;が分かったので、*who*&#x200B;を追加する時が来ました。
 
-1. ユーザーのリストが既に存在する場合は、「マイマーケット」で、**データベース**&#x200B;タイルをクリックします。
+1. 既にユーザーのリストをお持ちの場合は、[マイMarketo]の[**データベース**]タイルをクリックします。
 
    ![](assets/db.png)
 
