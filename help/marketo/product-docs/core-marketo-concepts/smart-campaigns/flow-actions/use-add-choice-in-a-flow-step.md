@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: フロー手順追加での選択肢の使用 — Marketto Docs — 製品ドキュメント
+description: フローステップでの追加選択の使用 —Marketoドキュメント — 製品ドキュメント
 title: フローステップでの追加選択の使用
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # フローステップでの追加選択の使用{#use-add-choice-in-a-flow-step}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-**フロ追加ー手順を使用して、詳細を選択する際に「次に依存する」と入力するように選択します。** 
+**フロ追加ー手順を使用して、詳細を選択する際に「依存する」と入力するように選択します。** 
 
 1. スマートキャンペーンの「**フロー**」タブで、フロー手順を追加し、「**追加選択**」をクリックします。
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >最初に一致した選択肢のみがフローステップに適用されます。 フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)の「追加選択」を[並べ替える方法を説明します。
 
-   素晴らしい！ 各選択肢に対して複数のスマートキャンペーンを作成する代わりに、フローステップの選択肢を持つ1つのスマートキャンペーンを作成できるようになりました。
+   OK！各選択肢に対して複数のスマートキャンペーンを作成する代わりに、フローステップの選択肢を持つ1つのスマートキャンペーンを作成できるようになりました。
 
    >[!MORELIKETHIS]
    >
