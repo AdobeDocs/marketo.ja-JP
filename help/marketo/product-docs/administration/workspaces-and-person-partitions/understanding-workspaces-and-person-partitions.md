@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360309
-description: ワークスペースと個人パーティションについて — Marketto Docs — 製品ドキュメント
+description: ワークスペースと個人パーティションについて —Marketoドキュメント — 製品ドキュメント
 title: ワークスペースと個人パーティションの理解
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # ワークスペースとユーザーパーティションについて{#understanding-workspaces-and-person-partitions}
 
-## ワークスペース{#workspaces}
+## ワークスペース {#workspaces}
 
 >[!CAUTION]
 >
->ワークスペースは複雑に設定できます。 [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して、お客様にとって適切かどうかを確認してください。
+>ワークスペースは複雑に設定できます。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて、お客様にとって正しいかどうかを確認してください。
 
-ワークスペースは、プログラム、ランディングページ、電子メールなどのマーケティングアセットを保持する、Marketorの別の領域です。 複数の人が使用できます。 各ユーザーは1つ以上のワークスペースにアクセスできます。
+ワークスペースは、プログラム、ランディングページ、電子メールなどのマーケティングアセットを保持するMarketoの別の領域です。 複数の人が使用できます。 各ユーザーは1つ以上のワークスペースにアクセスできます。
 
 >[!NOTE]
 >
@@ -72,12 +72,12 @@ ht-degree: 0%
 
 これらの項目は、複数のワークスペースで共有できます。
 
-* 電子メールテンプレート
+* メールテンプレート
 * ランディングページテンプレート
 * モデル
 * スマートキャンペーン
 * [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [セグメント](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* [セグメンテーション](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * スニペット
 
 ## ワークスペース間でのクローン作成{#cloning-across-workspaces}
@@ -85,9 +85,9 @@ ht-degree: 0%
 テンプレートではないアセットの場合は、プログラム内でローカルアセットとしてコピーするのが最適です。  適切なアクセスレベルで、次のアセットを別のワークスペースにドラッグ&amp;ドロップできます。
 
 * プログラム
-* 電子メール
+* メール
 * ランディングページ
-* Forms
+* フォーム
 
 >[!NOTE]
 >
@@ -101,9 +101,9 @@ ht-degree: 0%
 >
 >メンバーを含むプログラムをワークスペース間で移動することはできません。
 
-## 個人パーティション{#person-partitions}
+## 担当者パーティション {#person-partitions}
 
-個人パーティションは、個別のデータベースのように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。 同じ電子メールアドレスを持つ重複レコードが必要になる可能性があるビジネス用途がある場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+個人パーティションは、個別のデータベースのように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。 同じ電子メールアドレスを持つ重複レコードを使用する必要があるビジネス用途がある場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 次の設定では、ユーザーパーティションを[workspaces](create-a-new-workspace.md)に割り当てることができます。
 
