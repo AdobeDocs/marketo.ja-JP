@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951054
-description: リリースノート — 2013年10月 — Marketto Docs — 製品ドキュメント
+description: リリースノート — 2013年10月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2013年10月
+exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # リリースノート：2013年10月{#release-notes-october}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Marketoへの統合を構築する開発者向けのdevelopers.marketo.](https://developers.marketo.com) comisです。Munchkin JavaScript API、SOAP APIコードの例、Webhooks、電子メールスクリプティングなど、様々な統合オプションを参照できます。 Java SDKは、[GitHub](https://github.com/Marketo/SOAP-API-Java-Client)でも利用できます。
+[Marketoへの統合を構築する開発者向けのdevelopers.marketo.](https://developers.marketo.com) comis。Munchkin JavaScript API、SOAP APIコードの例、Webhooks、電子メールスクリプティングなど、様々な統合オプションを参照できます。 Java SDKは、[GitHub](https://github.com/Marketo/SOAP-API-Java-Client)でも利用できます。
 
-## 更新されたBrightTALKイベントアダプタ{#updated-brighttalk-event-adapter}
+## 更新された BrightTALK イベント アダプタ {#updated-brighttalk-event-adapter}
 
-会社名、肩書、業種、会社サイズなど、BrightTALKの追加フィールドをMarketorに同期します。
+BrightTALK から、企業名や職位、業界、企業サイズを含む多数のフィールドを Market に同期できます.
 
 ## Androidタブレットイベントチェックインアプリ{#android-tablet-event-check-in-app}
 
