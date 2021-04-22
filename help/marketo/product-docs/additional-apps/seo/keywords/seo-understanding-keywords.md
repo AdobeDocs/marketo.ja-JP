@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949182
-description: SEO — キーワードについて — Marketto Docs — 製品ドキュメント
+description: SEO — キーワードについて —Marketoドキュメント — 製品ドキュメント
 title: SEO — キーワードについて
+exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # SEO — キーワードについて{#seo-understanding-keywords}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">列名</th> 
-   <th colspan="1" rowspan="1">説明</th> 
+   <th colspan="1" rowspan="1">詳細</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -35,7 +35,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">ランクとトレンド</td> 
-   <td colspan="1" rowspan="1"><p>このキーワードのサイトのランク。 矢印は、キーワードランクが先週の傾向を示します。 </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  =ランクアップ</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> =ランクダウン</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">=ランクは同じ</p></td> 
+   <td colspan="1" rowspan="1"><p>このキーワードのサイトのランク。 矢印は、キーワードランクが先週の傾向を示します。 </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  =ランクアップ</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> =ランクダウン</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">=ランクは同じ</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">競合レベル</td> 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-素晴らしい！ キーワードの節を理解したら、ページとインバウンドリンクについて学びましょう。
+OK！キーワードの節を理解したら、ページとインバウンドリンクについて学びましょう。
 
 >[!MORELIKETHIS]
 >
