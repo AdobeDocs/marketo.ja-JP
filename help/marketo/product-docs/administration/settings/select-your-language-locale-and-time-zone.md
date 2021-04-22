@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359904
-description: 言語、ロケール、タイムゾーンを選択して、Marketo Docs — 製品ドキュメント
+description: 言語、ロケール、タイムゾーンを選択 —Marketoドキュメント — 製品ドキュメント
 title: 言語、ロケール、タイムゾーンの選択
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # 言語、ロケール、タイムゾーンを選択{#select-your-language-locale-and-time-zone}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## ユーザー言語、ロケール、タイムゾーンの変更{#change-user-language-locale-and-time-zone}
 
-1. Marketorにログインし、自分の名前で「**マイアカウント**」を選択します。
+1. Marketoにログインし、自分の名前の下で「**マイアカウント**」を選択します。
 
    ![](assets/myaccount.png)
 
