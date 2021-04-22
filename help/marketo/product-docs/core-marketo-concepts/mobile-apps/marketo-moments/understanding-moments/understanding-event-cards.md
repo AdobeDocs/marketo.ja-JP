@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781974
-description: イベントカードについて — Marketto Docs — 製品ドキュメント
+description: イベントカードについて —Marketoドキュメント — 製品ドキュメント
 title: イベントカードについて
+exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # イベントカードについて{#understanding-event-cards}
 
-「Marketing Moments」を使用して、携帯電話やiPadでイベントプログラムを表示します。
+「Marketoの場面」を使用して、イベントのプログラムを電話またはiPadで表示します。
 
 電子メールプログラムカードをタップすると、次のことができます。
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [マーケティングの場面について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketoの瞬間について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [電子メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [イベントプログラムについて](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
