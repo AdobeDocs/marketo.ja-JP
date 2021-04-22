@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512276
-description: LaunchPointサ追加ービスとしてのON24 - Marketto Docs — 製品ドキュメント
+description: LaunchPointサ追加ービスとしてのON24 -Marketoドキュメント — 製品ドキュメント
 title: LaunchPointサ追加ービスとしてのON24
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPointサ追加ービスとしてのON24 {#add-on-as-a-launchpoint-service}
 
-Marketorは、ON24ウェビナーの登録と出席を管理します。
+Marketoは、ON24ウェビナーの登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -39,10 +39,10 @@ Marketorは、ON24ウェビナーの登録と出席を管理します。
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. **ON24**&#x200B;アカウントはMarketoと同期されます。
+1. **ON24**&#x200B;アカウントは、Marketoと同期されます。
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->ON24[でウェビナーイベントを作成する方法を説明します。](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+>ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)でウェビナーイベントを作成する方法を説明します。[
