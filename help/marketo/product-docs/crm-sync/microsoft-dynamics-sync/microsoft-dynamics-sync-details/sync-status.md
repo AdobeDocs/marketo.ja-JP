@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097584
-description: 同期ステータス — Marketto Docs — 製品ドキュメント
-title: 同期の状態
+description: 同期ステータス —Marketoドキュメント — 製品ドキュメント
+title: 同期ステータス
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# 同期状態{#sync-status}
+# 同期ステータス {#sync-status}
 
 同期処理の現在のスループットとバックログは、[同期ステータス]タブと[同期エラー]タブでタブに表示できます。
 
