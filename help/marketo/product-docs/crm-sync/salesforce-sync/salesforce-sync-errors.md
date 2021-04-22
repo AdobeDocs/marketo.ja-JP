@@ -1,14 +1,14 @@
 ---
-description: Salesforce同期エラー — Marketto Docs — 製品ドキュメント
+description: Salesforce同期エラー —Marketoドキュメント — 製品ドキュメント
 title: Salesforce同期エラー
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Salesforce同期エラー{#salesforce-sync-errors}
 
@@ -32,15 +32,15 @@ ht-degree: 0%
 >
 >表示されるエラーは、現在の時刻から現在の同期の5日前までです。
 
-| フィールド | 説明 |
+| フィールド | 詳細 |
 |---|---|
-| 失敗日 | レコードレベル&#x200B;_または_&#x200B;ジョブレベル |
+| 失敗： | レコードレベル&#x200B;_または_&#x200B;ジョブレベル |
 | 失敗の日時 | エラーの詳細 |
 | エラータイプ | SFDC返信メッセージ |
 
 >[!TIP]
 >
->レコードレベルのレコードをクリックすると、関連オブジェクトのMarketo IDとSalesforce IDが表示されます。 レコードおよびジョブレベルのエラーに関するメッセージが、Salesforceから直接送信される場合があります。 オンラインで検索すると、詳細が表示される場合があります。
+>レコードレベルのレコードをクリックすると、関連オブジェクトのMarketoIDとSalesforce IDが表示されます。 レコードおよびジョブレベルのエラーに関するメッセージが、Salesforceから直接送信される場合があります。 オンラインで検索すると、詳細が表示される場合があります。
 
 ## フィルター同期エラー{#filter-sync-errors}
 
