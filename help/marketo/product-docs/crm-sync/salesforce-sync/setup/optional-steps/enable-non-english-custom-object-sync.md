@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719302
-description: 英語以外のカスタムオブジェクトの同期を有効にする — Marketto Docs — 製品ドキュメント
+description: 英語以外のカスタムオブジェクトの同期を有効にする —Marketoドキュメント — 製品ドキュメント
 title: 英語以外のカスタムオブジェクトの同期を有効にする
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # 英語以外のカスタムオブジェクトの同期を有効にする{#enable-non-english-custom-object-sync}
 
-Marketoの同期ユーザーが英語以外の言語に設定されている場合、カスタムオブジェクトの同期を有効にしようとするとエラーが発生する場合があります。
+Marketo同期ユーザが英語以外の言語に設定されている場合、カスタムオブジェクトの同期を有効にしようとするとエラーが発生する場合があります。
 
 ## エラー{#the-error}
 
