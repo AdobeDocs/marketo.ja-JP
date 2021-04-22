@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719071
-description: アカウント設定の編集 — Marketto Docs — 製品ドキュメント
+description: アカウント設定の編集 —Marketoドキュメント — 製品ドキュメント
 title: アカウント設定の編集
+exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-
-# アカウント設定の編集{#edit-account-settings}
+# アカウント設定の編集 {#edit-account-settings}
 
 アカウントの電子メールアドレス、名前、または電話番号を変更する必要がありますか？ 以下の手順を説明します。
 
