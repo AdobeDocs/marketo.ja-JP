@@ -1,14 +1,14 @@
 ---
-description: オンライン用Microsoft Dynamics CRMアプリのセットアップ — Marketto Docs — 製品ドキュメント
+description: オンライン用Microsoft Dynamics CRMアプリのセットアップ —Marketoドキュメント — 製品ドキュメント
 title: オンライン用Microsoft Dynamics CRMアプリのセットアップ
+exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
-
 
 # オンライン用Microsoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
 
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 1. https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registrationに移動します。
 
-1. すべての手順に従います。 手順3で、関連するアプリ名（「マーケティングツールの統合」など）を入力します。 [サポートされるアカウントの種類]で、[この組織のディレクトリにのみアカウントを作成]を選択します。
+1. すべての手順に従います。 手順3で、関連するアプリ名(「Marketo統合」など)を入力します。 [サポートされるアカウントの種類]で、[この組織のディレクトリにのみアカウントを作成]を選択します。
 
-1. アプリケーション ID(ClientId)を書き留めます。 後でMarketoに入力する必要があります。
+1. アプリケーション ID(ClientId)を書き留めます。 後でMarketoに入れる必要がある。
 
 1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketorは、grant_typeリソース所有者パスワード資格情報(ROPC)を使用して、OAuthを使用してAzure ADに認証します。 このシナリオでは、特定のアプリケーションに対してHome Realm Discoveryポリシーを作成する必要があります。 このポリシーを使用すると、Azure ADは、認証要求をフェデレーションサービスにリダイレクトします。 このためには、AD Connectでパスワードハッシュ同期を有効にする必要があります。 詳しくは、[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)および[アプリケーション](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)のhrdポリシーの設定を参照してください。
+Marketoは、grant_typeリソース所有者パスワード資格情報(ROPC)を使用して、OAuthを使用してAzure ADに認証します。 このシナリオでは、特定のアプリケーションに対してHome Realm Discoveryポリシーを作成する必要があります。 このポリシーを使用すると、Azure ADは、認証要求をフェデレーションサービスにリダイレクトします。 このためには、AD Connectでパスワードハッシュ同期を有効にする必要があります。 詳しくは、[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)および[アプリケーション](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)のhrdポリシーの設定を参照してください。
 
 [参照先は](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.)を参照してください。
 
 終了したら、**Dynamics CRMで生成されたクライアントIDとシークレットをMarketo**&#x200B;に入力します。
 
-## Dynamics CRMで生成されたクライアントIdとシークレットをマーケティング担当者{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}に入力
+## Dynamics CRMで生成されたクライアントIDとシークレットをMarketoに入力{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 次の手順は、オンライン&#x200B;_および_&#x200B;オンプレムバージョンに適用されます。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketoで、**管理者**&#x200B;をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
