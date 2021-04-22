@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950682
-description: プログラムチャネルの作成 — Marketto Docs — 製品ドキュメント
+description: プログラムチャネルの作成 —Marketoドキュメント — 製品ドキュメント
 title: プログラムチャネルの作成
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # プログラムチャネルの作成{#create-a-program-channel}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketoの最も重要な要素である[プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)についての詳細。
+>Marketoで最も重要な要素である[プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)の詳細を見る。
 
 1. 「**管理者**」セクションで、「**タグ**」をクリックします。
 
