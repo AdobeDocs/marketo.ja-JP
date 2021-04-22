@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360496
-description: 複数追加の値をスマートリストフィルター — Marketto Docs — 製品ドキュメントに変換
+description: 複数値をスマートリストフィルターに追加対して設定 —Marketoドキュメント — 製品ドキュメント
 title: ス追加マート・リスト・フィルタへの複数値
+exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # スマ追加ートリストフィルターの複数値{#add-multiple-values-to-a-smart-list-filter}
 
