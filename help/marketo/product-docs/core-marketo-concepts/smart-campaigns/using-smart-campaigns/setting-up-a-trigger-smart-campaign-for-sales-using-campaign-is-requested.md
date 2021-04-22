@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514898
-description: 「キャンペーンが要求された」を使用した販売用のトリガースマートキャンペーンの設定 — Marketto Docs — 製品ドキュメント
+description: 「キャンペーンは要求済み」を使用した販売用のトリガースマートキャンペーンの設定 —Marketoドキュメント — 製品ドキュメント
 title: 「キャンペーンは要求済」を使用した販売用のトリガースマートキャンペーンの設定
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-
 # 「キャンペーンは要求されました」を使用した販売用のトリガースマートキャンペーンの設定{#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
-Marketoの最も優れた機能の1つは、販売担当者がマーケティング活動に参加できることです。 彼らは第一線に立って人と交流しています 営業担当者は、マーケティングを適切な方向に導く能力が必要です。
+Marketoの最も素晴らしい特徴の1つは、販売員がマーケティング活動に参加できることです。 彼らは第一線に立って人と交流しています 営業担当者は、マーケティングを適切な方向に導く能力が必要です。
 
 >[!NOTE]
 >
