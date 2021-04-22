@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: マーケティング先のカスタムアクティビティフィールド — Marketto Docs — 製品ドキュメント追加の編集/削除
-title: カスタムアクティビティフィ追加ールドに対するマーケティングの編集/削除
+description: Marketoのカスタムアクティビティフィ追加ールドを編集/削除 —Marketoドキュメント — 製品ドキュメント
+title: Marketoのカスタムアクティビティフィ追加ールドの編集/削除
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# 追加/Edit/Delete Markettoカスタムアクティビティフィールド{#add-edit-delete-marketo-custom-activity-fields}
+# 追加/Marketoカスタムアクティビティフィールドを編集/削除{#add-edit-delete-marketo-custom-activity-fields}
 
 カスタムアクティビティフィールドを追加、変更、または削除する必要がある場合があります。 これが方法です。
 
 ## 追加カスタムアクティビティフィールド{#add-a-custom-activity-field}
 
-1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「Marketoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## カスタムアクティビティフィールドの編集{#edit-a-custom-activity-field}
 
-1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「Marketoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ## カスタムアクティビティフィールドの削除{#delete-a-custom-activity-field}
 
-1. 「Markettoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「Marketoのカスタムアクティビティ」で、「**フィールド**」をクリックします。
 
    ![](assets/one-3.png)
 
