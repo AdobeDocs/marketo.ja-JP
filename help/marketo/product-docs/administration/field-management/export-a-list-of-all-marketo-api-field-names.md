@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: すべてのMarketto APIフィールド名のリストの書き出し — Marketto Docs — 製品ドキュメント
-title: すべてのMarketor APIフィールド名のリストのエクスポート
+description: すべてのMarketoAPIフィールド名 —Marketoドキュメント — 製品ドキュメントのリストのエクスポート
+title: すべてのMarketoAPIフィールド名のリストのエクスポート
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# すべてのMarketor APIフィールド名のリストのエクスポート{#export-a-list-of-all-marketo-api-field-names}
+# すべてのMarketoAPIフィールド名のリストをエクスポート{#export-a-list-of-all-marketo-api-field-names}
 
 SOAP APIまたはMunchkin APIを使用している場合は、すべてのフィールドとAPI名のリストが必要です。 このリストの入手方法を示します。
 
