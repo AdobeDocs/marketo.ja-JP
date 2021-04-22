@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147058
-description: スケジュールされたバッチキャンペーンの実行のキャンセル — Marketto Docs — 製品ドキュメント
+description: スケジュールされたバッチキャンペーンの実行のキャンセル —Marketoドキュメント — 製品ドキュメント
 title: スケジュール済バッチキャンペーンの実行の取り消し
+exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # スケジュールされたバッチキャンペーンの実行{#cancel-a-scheduled-batch-campaign-run}をキャンセル
 
