@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147001
-description: 標準的なスマートリストルールロジックの使用 — Marketto Docs — 製品ドキュメント
+description: 標準スマートリストルールロジックの使用 —Marketoドキュメント — 製品ドキュメント
 title: 標準スマート・リスト・ルール・ロジックの使用
+exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # 標準的なスマートリストルールロジックの使用{#using-standard-smart-list-rule-logic}
 
