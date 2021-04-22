@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: スマートリスト- Marketto Docs — 製品ドキュメントからの単一フローステップの実行
+description: スマートリスト-Marketoドキュメント — 製品ドキュメントからの単一フローステップの実行
 title: スマート・リストからの単一フロー・ステップの実行
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # スマートリストからの単一フローステップの実行{#run-a-single-flow-step-from-a-smart-list}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/runaction-hands.png)
 
-1. 新しい値を入力します。 「**今すぐ実行**」をクリックします。
+1. 新しい値を入力. 「**今すぐ実行**」をクリックします。
 
    ![](assets/runactionnewvalue-hands.png)
 
