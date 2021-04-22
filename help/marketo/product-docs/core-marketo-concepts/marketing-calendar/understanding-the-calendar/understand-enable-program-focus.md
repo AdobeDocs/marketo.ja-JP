@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953364
-description: プログラムフォーカスを理解/有効化 — Marketto Docs — 製品ドキュメント
+description: プログラムフォーカスを理解/有効にする —Marketoドキュメント — 製品ドキュメント
 title: プログラムフォーカスの把握/有効化
+exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # プログラムフォーカスを理解/有効にする{#understand-enable-program-focus}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-すごい！ 次に、エントリの操作について学びます。
+やりましたね！次に、エントリの操作について学びます。
 
 >[!MORELIKETHIS]
 >
