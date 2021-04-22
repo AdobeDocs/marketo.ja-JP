@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147017
-description: タスクの作成 — Marketto Docs — 製品ドキュメント
+description: タスクの作成 —Marketoドキュメント — 製品ドキュメント
 title: タスクの作成
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# タスクの作成{#create-task}
+# タスクの作成 {#create-task}
 
 マーケティング担当者は、掘り出し物の成約を支援する情報を持っています。 タスクを作成して、何をすべきか、いつやるべきかを知らせることができます。
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sync Userがタスクを作成する場合、Salesforceでタスクを作成するには、**期限**&#x200B;が必須フィールドです。 値がない場合、マーケティング担当者はデフォルトで5日間を入力します。
+>Marketo同期ユーザがタスクを作成する場合、**期限**&#x200B;は、Salesforceでタスクを作成するための必須フィールドです。 値がない場合、Marketoはデフォルトで5日間を入力します。
 
 デフォルトでは、フローステップは次のようになります。
 
