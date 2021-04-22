@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147011
-description: エンゲ追加ージメントプログラム- Marketto Docs — 製品ドキュメント
-title: 関与追加プログラム
+description: エンゲージメ追加ントプログラム-Marketoドキュメント — 製品ドキュメント
+title: エンゲージメントプログラムに追加
+exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
+# エンゲージメントプログラムに追加 {#add-to-engagement-program}
 
-# エンゲージメ追加ントプログラム{#add-to-engagement-program}
-
-## 概要{#overview}
+## 概要 {#overview}
 
 このフロー手順で作成するスマートキャンペーンは、エンゲージメントプログラムのゲートウェイとなります。
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
-## 使用法{#usage}
+## 使用状況 {#usage}
 
 1. ユーザーを追加するエンゲージメントプログラムを選択します。
 
