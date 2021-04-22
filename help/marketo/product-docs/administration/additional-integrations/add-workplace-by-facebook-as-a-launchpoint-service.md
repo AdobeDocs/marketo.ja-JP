@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14745982
-description: LaunchPointサービスとしてのFacebook追加による職場 — Marketto Docs — 製品ドキュメント
-title: LaunchPointサービスとしてのFacebook追加による職場
+description: LaunchPointサービスとしての追加Facebookの職場 —Marketoドキュメント — 製品ドキュメント
+title: LaunchPointサービスとしての追加Facebookの職場
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-
-# LaunchPointサービスとしてのFacebook追加による職場{#add-workplace-by-facebook-as-a-launchpoint-service}
+# LaunchPointサービスとしての追加Facebookの職場{#add-workplace-by-facebook-as-a-launchpoint-service}
 
 Workplace統合には、次の2つの通知タイプが含まれます。
 
-* **システム通知**:現在のキャンペーンのステータスや、直ちに対処する必要のある問題に関するアラート（CRMエラーおよびAPIの制限）など、Marketorインスタンスの重要なイベントに関するワークプレース通知を取得します。
-* **興味深い瞬間**:Marketo Insightが営業アカウントから既知の個人によってトリガーされた場合、リードの所有者にはWorkplace経由で通知できます。通知には、リード情報と営業アカウントに関する詳細が含まれます。
+* **システム通知**:現在のキャンペーンのステータスや、直ちに注意を必要とする問題に関するアラート（CRMエラーおよびAPIの制限）など、Marketoインスタンスの重要なイベントに関するワークプレース通知を取得します。
+* **興味深い瞬間**:Marketoインサイトが営業アカウントの既知の個人によってトリガーされた場合、リードの所有者には、職場経由で通知できます。通知には、リード情報と営業アカウントに関する詳細が含まれます。
 
 >[!NOTE]
 >
@@ -24,13 +24,13 @@ Workplace統合には、次の2つの通知タイプが含まれます。
 
 >[!PREREQUISITES]
 >
->職場通知を既に有効にしていない場合は、[マーケティング担当者](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>職場通知が既に有効になっていない場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 1. **LaunchPoint**&#x200B;に移動し、**新しい**&#x200B;の下にある&#x200B;**新しいサービス**&#x200B;をクリックします。
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. 職場統合の表示名を入力します。 「**サービス**」ドロップダウンで、「**Facebookの職場**」を選択します。 「**作成**」をクリックします。
+1. 職場統合の表示名を入力します。 「**サービス**」ドロップダウンで、「**Facebook**&#x200B;の職場」を選択します。 「**作成**」をクリックします。
 
    ![](assets/newservice.png)
 
@@ -38,7 +38,7 @@ Workplace統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/create.png)
 
-1. 「**許可**」をクリックします。 これにより、新しいタブに職場が開きます。このタブで、認証を完了し、マーケティング担当者に職場から情報を取り込む権限を与えます。
+1. 「**許可**」をクリックします。 これにより、新しいタブに[職場]が開き、[職場]から情報を取り込むための承認を完了し、Marketoに許可を与えます。
 
    ![](assets/authorize.png)
 
@@ -50,7 +50,7 @@ Workplace統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/workplacelogininfo.png)
 
-1. 職場ポップアップで、マーケティングからの通知を投稿するFacebookグループを選択します（例：パートナー統合）。 **「**&#x200B;をインストール」をクリックします。
+1. 「Workplace（職場）」ポップアップで、Marketoからの通知を投稿するFacebookグループを選択します（例：パートナー統合）。 **「**&#x200B;をインストール」をクリックします。
 
    ![](assets/installmarketo.png)
 
@@ -58,10 +58,10 @@ Workplace統合には、次の2つの通知タイプが含まれます。
 
    ![](assets/success.png)
 
-1. 「マーケティング」タブを更新し、WorkplaceがLaunchPointでアクティブなサービスとして表示されていることを確認します。
+1. 「Marketo」タブを更新し、WorkplaceがLaunchPointでアクティブなサービスとして表示されていることを確認します。
 
    ![](assets/confirm.png)
 
-   手順7で選択したFacebookグループへの通知の投稿が開始されます。 次のようになります。
+   手順7で選択したFacebookグループに通知が投稿され始めます。 次のようになります。
 
    ![](assets/example.png)
