@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2949467
-description: Marketoとは何ですか。 - Marketto Docs — 製品ドキュメント
-title: Marketoとは何ですか。
+description: Marketoとは？ -Marketoドキュメント — 製品ドキュメント
+title: Marketoとは？
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# Marketoとは何ですか。{#what-is-marketo}
+# Marketoとは？{#what-is-marketo}
 
 これはマーケティングソフトウェアで、マーケティング自動化とも呼ばれます。 涼しい
 
 ## メール送風器？{#is-it-a-mail-blast-tool}
 
-マーケットでも同じことができます でももっとたくさんあります
+Marketoではそれが一つです でももっとたくさんあります
 
 ## 要点を言うと何が分かる？{#ok-get-to-the-point-whats-it-got}
 
-* フォームエディター
+* フォーム エディタ
 * ランディングページエディタ
 * ガイド付きランディングページテンプレート
-* 電子メールエディタ
-* 予測コンテンツ
+* メールエディタ
+* 予想コンテンツ
 * ウェビナーの統合
 * Mobile Marketing
 * CRMとの同期
 * Webサイトの統合
 * ワークフローエンジン
-* アカウントベースのマーケティング
+* アカウントベースドマーケティング
 * スコア
 * 営業担当者向けのCRM内ダッシュボード
 * プログラム分析
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## なんてこった！ 私はそれを全て学ぶ必要がありますか？{#holy-cow-do-i-need-to-learn-all-that}
 
-いや、全然。 Marketoは開始しやすく、今後の発展にも役立ちます。 時間の経過とともにピースを追加できます。
+いや、全然。 Marketoは始めるのが簡単で、あなたと一緒に進化する。 時間の経過とともにピースを追加できます。
 
 ## 何か設定が必要ですか。{#do-i-need-to-do-any-setup}
 
