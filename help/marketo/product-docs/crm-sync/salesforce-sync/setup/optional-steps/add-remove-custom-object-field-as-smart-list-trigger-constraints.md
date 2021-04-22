@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719300
-description: スマートリスト/トリガー制約 — Marketto Docs — 製品ドキュメントとしての追加カスタムオブジェクトフィールドの削除
+description: スマートリスト/トリガー制約 —Marketoドキュメント — 製品ドキュメントとしてのカスタムオブジェクトフィールド追加の削除
 title: スマートリスト/トリガー制約としての追加カスタムオブジェクトフィールドの削除
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # 追加/カスタムオブジェクトフィールドをスマートリスト/トリガー制約として削除{#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketorは、Salesforceカスタムオブジェクトの同期を細かく制御できます。 これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
+Marketoは、Salesforceカスタムオブジェクト同期を細かく制御します。 これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
 
 >[!NOTE]
 >
