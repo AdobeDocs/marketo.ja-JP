@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952484
-description: Markettor Asset - Marketto Docs - Product Documentationの名前の変更
-title: マーケティング先アセットの名前の変更
+description: Marketoアセットの名前の変更 —Marketoドキュメント — 製品ドキュメント
+title: Marketoアセットの名前の変更
+exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# マーケティング先アセットの名前の変更{#rename-a-marketo-asset}
+# Marketoアセットの名前を変更{#rename-a-marketo-asset}
 
 フォルダ、プログラム、ローカルアセットは、すべて簡単に名前を変更できます。
 
