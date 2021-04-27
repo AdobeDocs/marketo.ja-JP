@@ -4,9 +4,9 @@ description: カスタムエンティティの同期を有効にする —Market
 title: カスタムエンティティの同期を有効にする
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ DynamicsのカスタムエンティティデータをMarketoで使用できる�
 >[!NOTE]
 >
 >**必要な管理者権限**
+
+>[!NOTE]
+>
+>カスタムエンティティの同期を有効にすると、Marketoは初期同期を実行して、カスタムオブジェクトのすべてのデータを取り込みます。
 
 1. **管理者**&#x200B;セクションに移動します。
 
