@@ -3,7 +3,7 @@ description: リリースノート — 2021年1月 —Marketoドキュメント 
 title: リリースノート — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM の統合 {#salesforce-crm-integration}
 
-* [Salesforce CRM認証](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0プロトコルは、Marketo EngageとSalesforce CRMの間の操作を同期するために使用できます。新規サブスクライバーの場合、このオプションはデフォルトで有効になっています。 現在のサブスクリプションをご利用の場合は、Marketoサポートにご連絡ください。
+* [Salesforce CRM認証](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md):OAuth 2.0プロトコルは、Marketo EngageとSalesforce CRMの間の操作を同期するために使用できます。新規サブスクライバーの場合、このオプションはデフォルトで有効になっています。 現在のサブスクリプションをご利用の場合は、Marketoサポートにご連絡ください。
 * [Salesforce CRM同期ダッシュボード](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):管理者は、ダッシュボードからSalesforce CRMの同期ステータスをすばやく確認できます。同期パフォーマンスレポートの期間が2時間から5日に延長されました。
 * **メタデータの書き出し**:名前付きアカウント、プログラムメンバーの標準フィールドおよびカスタムフィールドなど、オポチュニティオブジェクト属性をサポートするように強化されました。
 
