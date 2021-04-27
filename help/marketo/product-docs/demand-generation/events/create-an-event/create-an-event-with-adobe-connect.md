@@ -4,9 +4,9 @@ description: Adobe Connectとのイベントの作成 —Marketoドキュメン�
 title: Adobe Connectとのイベントの作成
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,17 @@ Adobe Connectとの同期により、Marketo内でのウェビナーの登録と
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-まず、Adobe Connectで会議またはセミナーを作成済みであることを確認してください。 ヘルプが必要な場合は、『[Adobe Connectユーザガイド](https://help.adobe.com/en_US/connect/9.0/using/index.html)』を参照してください。 Adobe Connectで作成するミーティングとセミナーは、Marketoで資格情報を入力したときに指定したフォルダーの下に作成する必要があります。 会議やセミナーを作成した後、確認用の電子メールやICSファイルで使用する、関連するロジスティック情報（電話番号など）をメモしておきます。
+まず、Adobe Connectで会議またはセミナーを作成済みであることを確認してください。 ヘルプが必要な場合は、『[Adobe Connectユーザガイド](https://help.adobe.com/en_US/connect/9.0/using/index.html)』を参照してください。
+
+Adobe Connectで作成するミーティングとセミナーは、Marketoで資格情報を入力したときに指定したフォルダーの下に作成する必要があります。 会議やセミナーを作成した後、確認用の電子メールやICSファイルで使用する、関連するロジスティック情報（電話番号など）をメモしておきます。
+
+>[!CAUTION]
+>
+>イベントホストは必ずアプリ内から参加し、出席者に送信されるリンクを介して&#x200B;****&#x200B;に参加しないでください。
 
 >[!NOTE]
 >
->現時点では、Adobe Connectオンサイトを&#x200B;**サポートしていません。**
+>現時点では、Adobe Connectオンサイトをサポートしていません。
 
 1. 新しいイベントのホームで、「**イベントアクション**」を選択し、「**イベント設定**」を選択します。
 
@@ -59,6 +65,8 @@ Adobe Connectとの同期により、Marketo内でのウェビナーの登録と
    >
    >確認の電子メールを&#x200B;**操作**&#x200B;に設定し、登録済みで登録を取り消している可能性のあるユーザーが、確認情報を引き続き受け取るようにします。
 
+   ウェビナーにサインアップした人は、「新しいステータス」が「登録済み」に設定されている場合に、プログラムステータスの変更フローステップを通じてウェビナーのプロバイダーにプッシュされます。 その他の状態では、その人を押しのけることはありません。 また、プログラムステータスの変更のフロー手順#1と、電子メールの送信のフロー手順#2を必ず行ってください。
+
    ![](assets/adobe.png)
 
    >[!CAUTION]
@@ -71,8 +79,6 @@ Adobe Connectとの同期により、Marketo内でのウェビナーの登録と
 
    >[!MORELIKETHIS]
    >
-   > * [LaunchPointサ追加ービスとしてのAdobe Connect](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [イベントチャネルの編集](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   >* [LaunchPointサ追加ービスとしてのAdobe Connect](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [イベントチャネルの編集](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
-
-ウェビナーにサインアップした人は、「新しいステータス」が「登録済み」に設定されている場合に、プログラムステータスの変更フローステップを通じてウェビナーのプロバイダーにプッシュされます。 その他の状態では、その人を押しのけることはありません。 また、プログラムステータスの変更のフロー手順#1と、電子メールの送信のフロー手順#2を必ず行ってください。
