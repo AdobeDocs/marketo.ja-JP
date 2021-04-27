@@ -5,9 +5,9 @@ user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 316e194d9803b435dbf1fbc4dd6d931c4448778d
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '8002'
+source-wordcount: '8003'
 ht-degree: 4%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 4%
       + [確認事項：主なスキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 製品ドキュメント{#product-docs}
-   + ターゲットアカウント管理{#target-account-management}
+   + ターゲットアカウント管理 {#target-account-management}
       + セットアップ {#setup}
          + [ターゲットアカウント管理の概要](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM使用の手引き](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
@@ -265,7 +265,7 @@ ht-degree: 4%
          + [既存の人物パーティションの編集](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [ワークスペースとパーティション間でセグメントを共有](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + コアMarketoコンセプト{#core-marketo-concepts}
-      + スマートキャンペーン {#smart-campaigns}
+      + スマート キャンペーン {#smart-campaigns}
          + [スマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + スマートキャンペーンの作成{#creating-a-smart-campaign}
             + [バッチおよびトリガースマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
@@ -300,15 +300,15 @@ ht-degree: 4%
             + [ウェブフックを呼び出し](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [データ値の変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [フィールド値をクリア](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
-            + [担当者パーティションの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
+            + [顧客パーティションの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [収益ステージの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
             + [スコアの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
-            + [担当者の変換](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
+            + [顧客を変換](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [フローステップの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
-            + [担当者の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [顧客の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [参照元にクレジットを付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [注目のアクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-            + [フローから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
+            + [フローからの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [リストから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [フローステップの「追加選択」の並べ替え](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [キャンペーンのリクエスト](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
@@ -326,9 +326,9 @@ ht-degree: 4%
          + プログラムフローアクション{#program-flow-actions}
             + [エンゲージメントプログラムに追加](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
             + [エンゲージメントプログラム・ケイデンスを変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
-            + [エンゲージメントプログラム・ストリームを変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
+            + [エンゲージメントプログラム・ストリームの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [プログラムステータスの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
-            + [プログラム変更の成功](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
+            + [プログラムの成功を変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [プログラムメンバーの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Microsoft Dynamicsフロー操作{#microsoft-dynamics-flow-actions}
             + [Dynamicsキャンペーン追加からユーザーを削除する](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
@@ -340,9 +340,9 @@ ht-degree: 4%
             + [所有者の変更](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [SFDC キャンペーン内のステータスの変更](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [タスクの作成](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
-            + [SFDC からの担当者の削除](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
+            + [SFDC からの顧客の削除](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [SFDC キャンペーンからの削除](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
-            + [担当者を SFDC に同期](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+            + [顧客を SFDC に同期](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + スマートキャンペーンデータ{#smart-campaign-data}
             + [スマートキャンペーンの結果をExcelにエクスポート](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
             + [スマートキャンペーン結果のフィルター](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
@@ -600,7 +600,7 @@ ht-degree: 4%
          + [黙示的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [OAuth 2.0のセットアップ](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
+         + [OAuth 2.0を使用したログイン](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + 需要の生成{#demand-generation}
       + 広告ネットワーク統合{#ad-network-integrations}
          + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -678,7 +678,7 @@ ht-degree: 4%
             + [フォームのフォントサイズの変更](product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
             + [フォームテーマのCSSの編集](product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
             + [フォーム内のラベル/フィールドの幅のサイズ変更](product-docs/demand-generation/forms/form-design/resize-label-field-width-in-a-form.md)
-         + フォームフィールド {#form-fields}
+         + フォーム フィールド {#form-fields}
             + [フ追加ォームへのフィールドセット](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
             + [フ追加ォームフィールドに対するテキストのヒント表示](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
             + [フ追加ォームフィールドに対するツールチップの説明](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
@@ -698,11 +698,11 @@ ht-degree: 4%
          + [アップロードした画像またはファイルの置換](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [アップロードされた画像とファイルの検索](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Boxからの画像とファイルのアップロード](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + 件のランディングページ {#landing-pages}
+      + ランディングページ {#landing-pages}
          + ランディングページについて{#understanding-landing-pages}
             + [ランディングページの承認、未承認または削除](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [ランディングページパフォーマンスレポート](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [ランディングページテストグループ](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [ランディングページのテストグループ](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [フリーフォームとガイド付きランディングページについて](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + フリーフォームランディングページ{#free-form-landing-pages}
             + [フリ追加ーフォームのランディングページ画像へのリンク](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
@@ -732,7 +732,7 @@ ht-degree: 4%
             + [動的コンテンツを使用したランディングページのプレビュー](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [ランディングページのプレビュー](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Marketoランディングページを別のページにリダイレクトする](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + 件のランディングページテンプレート {#landing-page-templates}
+         + ランディングページ テンプレート {#landing-page-templates}
             + [自由形式ランディングページテンプレートの作成](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [ガイド付きランディングページテンプレートの作成](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Marketoランディングページテンプレートの編集](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -804,7 +804,7 @@ ht-degree: 4%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1134,7 +1134,7 @@ ht-degree: 4%
             + Office 365 追加-in {#office-365-add-in}
                + [Salesforce追加への電子メール(Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Office 365 Mac OS、Windows、オンライン用Sales Connectのインストール](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
-      + Email {#email}
+      + メール {#email}
          + コマンドセンター {#command-center}
             + [コマンドセンターの概要](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [アドバンス検索の概要](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
@@ -1210,10 +1210,10 @@ ht-degree: 4%
          + [Sales Connectに連絡先がすべて押し込まれないのはなぜですか。](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
       + 統合 {#integrations}
          + [電子メールを他のCRMにログする方法](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
-      + Marketo 内 {#marketo}
+      + Marketo {#marketo}
          + [MSCでの興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [キャンペーンをSales Connect Usersに表示する](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
-      + 担当者 {#people}
+      + リード {#people}
          + [個人の詳細表示](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales ConnectとGDPRのコンプライアンス](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 連絡先の管理{#managing-contacts}
@@ -1431,7 +1431,7 @@ ht-degree: 4%
             + [動的コンテンツでのスニペットの編集](product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
             + [スニペットのプレビュー](product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
             + [スニペットの未承認](product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
-   + 予想コンテンツ {#predictive-content}
+   + 予測コンテンツ {#predictive-content}
       + [予測コンテンツの概要](product-docs/predictive-content/the-predictive-content-summary.md)
       + [予測コンテンツアクティビティのためのスマートリストの定義](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [予測コンテンツ分析の概要](product-docs/predictive-content/predictive-content-analytics-overview.md)
@@ -1599,7 +1599,7 @@ ht-degree: 4%
             + フィールド主催者{#field-organizers}
                + [フィールドオーガナイザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [フィールドオーガナイザーを使用したカスタムフィールドグループの作成](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
-   + ウェブパーソナライゼーション {#web-personalization}
+   + ウェブパーソナライズ {#web-personalization}
       + アカウントベースのWebマーケティング{#account-based-web-marketing}
          + [TAMを使用したアカウントベースのウェブマーケティング](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [新しいアカウントリストの作成](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
