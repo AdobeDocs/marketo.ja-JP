@@ -4,9 +4,9 @@ description: 手順3/3 -MarketoとSalesforceの接続(Enterprise/Unlimited) -Mar
 title: 手順3/3 -MarketoとSalesforceの接続(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >[**フィールドを同期**]をクリックする前に、Marketoで不要な](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドをすべて非表示にしてください。 [[フィールドの同期]をクリックすると、ユーザーに表示されるすべてのフィールドがMarketoに完全に作成され、削除できません。
 
-1. Salesforce設定([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
+1. Salesforce設定（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)または[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）のパート2で作成したSalesforce Sandbox同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします(MarketoSandboxをForce Sandboxに同期する場合のみ&#x200B;**を確認します)。**
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >Salesforce SandboxにMarketoSandboxを同期する場合は、**Sandbox**&#x200B;を確認してください。
+   >「ユーザー名」、「パスワード」、「トークン」フィールドの代わりに「Salesforceにログイン」ボタンが表示される場合は、OAuthに対してMarketo購読が有効になっています。 [この記事](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)を参照してください。 同期が資格情報のセットを使用し始めるとすぐに、**Salesforceの資格情報または購読**&#x200B;を切り替えることはできません。 基本認証を使用する場合は、Customer Success Managerにお問い合わせください。
 
 1. 警告を読み、「**資格情報を確認**」をクリックします。
 
