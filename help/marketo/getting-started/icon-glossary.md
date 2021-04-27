@@ -4,7 +4,7 @@ description: アイコン用語集 —Marketoドキュメント — 製品ドキ
 title: アイコンの用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -30,7 +30,7 @@ ht-degree: 33%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>フォルダ</span></td> 
   </tr> 
@@ -58,7 +58,7 @@ ht-degree: 33%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="25" src="assets/share-to.png"> 
+     <img alt="--" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">別のワークスペースと共有したソースフォルダー</td> 
   </tr> 
@@ -197,7 +197,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td>スマートキャンペーン</td> 
+   <td>スマート キャンペーン</td> 
   </tr> 
   <tr> 
    <td> 
@@ -267,7 +267,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>LaunchPoint</td> 
+   <td>Launchpoint</td> 
   </tr> 
   <tr> 
    <td> 
@@ -432,7 +432,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>予定されているバッチキャンペーン</td> 
+   <td>予定されているバッチ キャンペーン</td> 
   </tr> 
   <tr> 
    <td> 
@@ -849,7 +849,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
-   <td colspan="1">新規作成</td> 
+   <td colspan="1">新規</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -1131,7 +1131,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td>スマートリスト</td> 
+   <td>スマート リスト</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1166,7 +1166,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>フィールドオーガナイザ</td> 
+   <td>フィールド オーガナイザ</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1187,7 +1187,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1">新規作成</td> 
+   <td colspan="1">新規</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
