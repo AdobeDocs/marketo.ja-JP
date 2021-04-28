@@ -3,10 +3,10 @@ description: 概要 —Marketoドキュメント — 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 2%
+source-wordcount: '463'
+ht-degree: 1%
 
 ---
 
@@ -41,13 +41,7 @@ ht-degree: 2%
 
 新しいインターフェイスでは、アイコンの作成と拡張が行われました。 詳しくは、次を参照してください。[新しいアイコンの用語集](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)。
 
-![](assets/overview-3.png)
-
-**樹木**
-
-木もアップグレードされました。
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **グローバルナビゲーション**
 
