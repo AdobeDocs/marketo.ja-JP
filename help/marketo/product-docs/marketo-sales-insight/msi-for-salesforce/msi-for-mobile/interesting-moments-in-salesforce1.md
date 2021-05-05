@@ -4,7 +4,7 @@ description: Salesforce1 -Marketoドキュメント — 製品ドキュメント
 title: Salesforce1の興味深い瞬間
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
@@ -32,5 +32,5 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
