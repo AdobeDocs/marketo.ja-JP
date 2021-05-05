@@ -4,7 +4,7 @@ description: 興味深い場面の使用 —Marketoドキュメント — 製品
 title: 興味深い瞬間の使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## どうすればもっと面白くなれる？ {#how-can-this-get-even-more-interesting}
 
-トークン! リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
+トークン! リ追加ードが開いた電子メールの件名行や、リードの送信者など、より具体的な情報をセールスチームに提供するための説明フィールドに入力します。 [注目する場面のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の用語集で使用できるトークンを調べます。
 
 >[!TIP]
 >
