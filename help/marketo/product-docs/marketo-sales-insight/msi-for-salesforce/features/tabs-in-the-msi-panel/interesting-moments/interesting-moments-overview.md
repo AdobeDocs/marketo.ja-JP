@@ -4,7 +4,7 @@ description: 興味深い瞬間の概要 —Marketoドキュメント — 製品
 title: 興味深い瞬間の概要
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -34,5 +34,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [興味深い瞬間の使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
