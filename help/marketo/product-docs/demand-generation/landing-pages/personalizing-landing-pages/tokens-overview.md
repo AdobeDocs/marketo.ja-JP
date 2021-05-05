@@ -4,7 +4,7 @@ description: トークンの概要 —Marketoドキュメント — 製品ドキ
 title: トークンの概要
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
@@ -149,7 +149,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->スマートキャンペーンで使用されるトリガーに基づいて、興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)の[トークンの詳細を見つけます。
+>スマートキャンペーンで使用されるトリガーに基づいて、興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の[トークンの詳細を見つけます。
 
 ## プログラムトークン {#program-tokens}
 
@@ -157,7 +157,7 @@ ht-degree: 1%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## マイトークン {#my-tokens}
+## マイ トークン {#my-tokens}
 
 My Tokensはプログラム内で定義され、`{{my.`で始まり、トークンに対して作成した名前が続きます。 [プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)のマイトークンについての詳細。
 
