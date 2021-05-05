@@ -5,9 +5,9 @@ user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 4%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 4%
          + [「表示をWebページとして」メッセージの編集](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [通信制限を有効にする](product-docs/administration/email-setup/enable-communication-limits.md)
          + [スマートキャンペーンに対する個人制限の有効化](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [電子メールボットアクティビティのフィルタ](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [「管理者 —>電子メール」セクションからの登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + フィールド管理 {#field-management}
          + [信頼できないソースからのリストインポート中にフィールドの更新をブロックする](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 4%
          + [フィールドのデータで使用されるエクスポート](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [フィールドの非表示と再表示](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [メールでの HTML エンコードトークン](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [フィールドを区別するフィールドとしてマーク](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [フィールド名の変更](product-docs/administration/field-management/rename-a-field.md)
          + [システム管理フィールドについて](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [MarketoとSalesforceの間の表示フィールドマッピング](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 4%
          + [購読設定の編集](product-docs/administration/settings/edit-subscription-settings.md)
          + [宝箱機能の有効化/無効化](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントに対してパーソナライズされたURLを有効にする（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [スパムフォームの送信をブロックする方法](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [IPに基づいてMarketoログインを制限する](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [言語、ロケール、タイムゾーンの選択](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [フォールバックページの設定](product-docs/administration/settings/set-a-fallback-page.md)
@@ -807,7 +810,7 @@ ht-degree: 4%
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
