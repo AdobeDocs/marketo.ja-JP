@@ -4,7 +4,7 @@ description: アイコン用語集 —Marketoドキュメント — 製品ドキ
 title: アイコンの用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 33%
@@ -17,7 +17,7 @@ ht-degree: 33%
 
 **一般的なアイコン**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ ht-degree: 33%
 
 ## 管理アイコン{#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -316,7 +316,7 @@ ht-degree: 33%
 
 ### マーケティングアクティビティのアイコン{#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -684,7 +684,7 @@ ht-degree: 33%
 
 ### Design Studioアイコン{#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -870,7 +870,7 @@ ht-degree: 33%
 
 ### Analyticsアイコン{#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -979,7 +979,7 @@ ht-degree: 33%
 
 ### マイトークンアイコン{#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -1046,7 +1046,7 @@ ht-degree: 33%
 
 ### キャンペーンメニュー{#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
@@ -1120,7 +1120,7 @@ ht-degree: 33%
 
 ### データベースアイコン{#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>アイコン</th> 
