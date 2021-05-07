@@ -4,7 +4,7 @@ description: リリースノート — 2020年1月 —Marketoドキュメント 
 title: リリースノート — 2020年1月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->星印(![(star)](assets/star-yellow.svg))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>星印(![(star)](assets/yellow-star.png))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別リリース_**
 
@@ -38,9 +38,9 @@ ht-degree: 1%
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
-* **[新しいアカウント検出（ベータ版）](https://docs.marketo.com/x/WQA6Ag) ![（星）](assets/star-yellow.svg)**:アカウントプロファイリングを使用して、AIを利用した理想的な顧客プロファイルモデルに基づいて、ABM戦略の新しいターゲットアカウントを検出します。ABMターゲット用のMarketo Engageリードおよびアカウントデータベース内にまだ存在しない、推奨される新規アカウントと、AIベースの適合指標および意図的なデータ指標を表示、選択およびインポートします。 適切なアカウントプロファイルを行うお客様に対しては、すぐに利用できます。
+* **[新しいアカウント検出（ベータ版）](https://docs.marketo.com/x/WQA6Ag) ![（星）](assets/yellow-star.png)**:アカウントプロファイリングを使用して、AIを利用した理想的な顧客プロファイルモデルに基づいて、ABM戦略の新しいターゲットアカウントを検出します。ABMターゲット用のMarketo Engageリードおよびアカウントデータベース内にまだ存在しない、推奨される新規アカウントと、AIベースの適合指標および意図的なデータ指標を表示、選択およびインポートします。 適切なアカウントプロファイルを行うお客様に対しては、すぐに利用できます。
 
 <br> 
 
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 ## Bizible {#bizible}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **Marketo Engageリードの統合**:BizibleとMarketo Engageのリードの統合表示と共に、SalesとMarketingを実現します。この更新により、Marketo Engageを追加のリードデータソースとして使用できるようになり、リードがCRMと同期してリードジェネレーションに関するレポートを作成するのを待つ必要がなくなりました。
 * **Discoverの機能強化**:タイルや属性からトランザクションレコードに掘り下げる機能、レコード数と対応するコストパー指標の追加、複数のダッシュボードのダッシュボードフィルターの追加/削除など、お客様のご意見を改良したDiscoverボードをご利用いただけます。また、ログイン時にデフォルトのダッシュボードに直接移動されます。
