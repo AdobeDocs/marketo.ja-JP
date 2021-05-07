@@ -4,9 +4,9 @@ description: 興味深い瞬間のトリガートークン —Marketoドキュ�
 title: 興味深い瞬間のトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 29%
 
 ---
@@ -68,10 +68,10 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>メール内リンクをクリック</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>電子メールのバウンス（ハード）</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>ソフトバウンスメール</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>電子メールが配信される</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>メールを開く</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ ht-degree: 29%
   </tr> 
     <tr> 
    <td>友達への転送メール受信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ ht-degree: 29%
   </tr> 
     <tr> 
    <td>友達への転送メール送信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ ht-degree: 29%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>メール配信停止</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメール内のリンクをクリック</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメール送信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールを開く</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールのバウンス</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールを受信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ ht-degree: 29%
   </tr> 
     <tr> 
    <td>商談更新</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ ht-degree: 29%
   </tr> 
     <tr> 
    <td>所有者の変更</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>顧客を変換</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>担当者を SFDC から削除します</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>担当者を SFDC に同期します</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>商談から削除</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>SFDC キャンペーンから削除</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>活動の記録</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>活動の更新</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>商談に追加</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>SFDC キャンペーンに追加</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメール内のリンクをクリック</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメール送信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールを開く</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールのバウンス</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスメールを受信</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールスキャンペーンに追加しました</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ ht-degree: 29%
   <tr>
    <td>所有者の変更</td> 
    <td>セールスキャンペーンから削除しました</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>セールス電話を受信しました</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>フォームの入力</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ ht-degree: 29%
   </tr> 
   <tr> 
    <td>ウェブページにアクセス</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>ウェブページのリンクをクリック</td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="（目盛り）"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ ht-degree: 29%
 
 >[!NOTE]
 >
->チェック![(tick)](assets/check.svg)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
+>チェック![(tick)](assets/)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
 
 *トリガー&#x200B;**訪問ウェブページ**&#x200B;には、次のトークンがいくつか追加されています。
 
@@ -816,4 +816,4 @@ ht-degree: 29%
 >
 >興味深い瞬間を必ずテストして、思いどおりにレンダリングされることを確認してください。
 >
->また、セールス担当者にとって、お客様だけでなく、おもしろいことを確認してください。 ![（ウィンク）](assets/wink.svg)>
+>また、セールス担当者にとって、お客様だけでなく興味深い点も確認してください。
