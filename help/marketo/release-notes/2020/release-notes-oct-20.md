@@ -4,10 +4,10 @@ description: リリースノート — 10月20日 —Marketoドキュメント �
 title: リリースノート — 10月20日
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
-ht-degree: 0%
+source-wordcount: '957'
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->星印(![(star)](assets/star-yellow.svg))で示される特徴は、有料のアドオンとして使用できます。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>星印(![](assets/yellow-star.png))で示される機能は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別_** リリース次の機能が2020年10月16 **日にリリースされます**。
 
-## ターゲットアカウント管理{#target-account-management}
+## ターゲットアカウント管理 {#target-account-management}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **アカウントスマートリスト（ベータ版）**:新しいアカウントスマートリスト機能でABM戦略を追加料金が発生します。目的のアカウントおよび個人属性を持つアカウントを動的に識別して、チャネル間のキャンペーンを実行し、セールス担当者にタイムリーなアラートを送信して、より迅速に案件を終了します。 注意：これは、[次世代のユーザーエクスペリエンス](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)にオンボードしたターゲットアカウント管理のお客様のみがご利用いただけます。
 
 ## メールマーケティング {#email-marketing}
 
-* **Batch Email Boost  ![（星形）](assets/star-yellow.svg)**:1時間あたり最大500万件のバッチ電子メールのスループットを向上させた、より多くの電子メールを送信します。拡張性の高い電子メール配信品質オプションにより、電子メールのバッチ間で待つ必要がなくなり、すべての電子メールを期限通りに、またスケジュール通りに送信できます。
+* **Batch Email Boost  ![（星形）](assets/yellow-star.png)**:1時間あたり最大500万件のバッチ電子メールのスループットを向上させた、より多くの電子メールを送信します。拡張性の高い電子メール配信品質オプションにより、電子メールのバッチ間で待つ必要がなくなり、すべての電子メールを期限通りに、またスケジュール通りに送信できます。
 
 ## Webサイトマーケティング{#website-marketing}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **APIの最適化と新しいガバナンス設定オプション**:APIの最適化の強化とガバナンス機能の追加により、Sales Insightのユーザーエクスペリエンスを改善。設定により、管理者は、キャンペーンやイベントをSales Insightダッシュボードに読み込む方法を定義できます。 柔軟なカレンダーアクティビティ表示オプションにより、APIの使用を削減し、全体的なエクスペリエンスを改善。
 
