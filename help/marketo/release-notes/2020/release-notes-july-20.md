@@ -4,7 +4,7 @@ description: リリースノート — 20年7月21日 —Marketoドキュメン�
 title: リリースノート — 2010年7月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->現在のパッケージに応じて、星(![(star)](assets/star-yellow.svg))を含む項目は、値のアドオンの購入が必要になる場合があります。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>現在のパッケージに応じて、星(![(star)](assets/yellow-star.png))を含む項目は、値のアドオンの購入が必要になる場合があります。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別_** リリース次の機能が2020 **年7月31日にリリースされます**。
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **アカウントプロファイルのUIが更新されました**:合理化された手順を1つの画面で行うことで、アカウントプロファイルでのターゲットアカウントリストの作成を簡単にします。
 
@@ -47,13 +47,13 @@ ht-degree: 1%
 
 ## Sales Insight {#sales-insight}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **[非ネイティブSalesforce CRM統合](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) （ベータ版）を使用するお客様向けのSales Insightの有効化**:ネイティブ以外のSalesforce CRM統合を使用するMarketo Engageのお客様は、Sales Insightを使用して、最も関与のあるリードやオポチュニティをセールスチームが理解し、優先順位を付け、やり取りを支援し、スマートな販売と迅速な取引を可能にします。
 
 ## セールスコネクト {#sales-connect}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **[販売呼び出しに対する二者パーティの同意の強化：](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 管理者が通話記録の設定をより詳細に制御できるようになりました。[双方の同意法に準拠していることを確認しながら、通話](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) 記録を有効にします。録音中の呼び出しの通知を自動化し、呼び出しの前に再生されるオーディオクリップをアクティブにします。
 
