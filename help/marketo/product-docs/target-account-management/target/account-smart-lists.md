@@ -4,10 +4,10 @@ description: アカウントスマートリスト-Marketoドキュメント — 
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '483'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この機能はオープンベータ版で、TAMとMarketoの次世代ユーザーエクスペリエンスの両方を有効にしているユーザーは誰でも利用できます。 ベータ版に参加したい場合は、CSMにお問い合わせください。
+>この機能は、対象となるすべてのMarketoインスタンスに対して、5月11日の火曜日の夕方に有効になります。
+
+>[!NOTE]
+>
+>この機能は、TAMとAdobeMarketo Engageの次世代ユーザーエクスペリエンスが有効になっている場合にのみ使用できます。
 
 ## アカウントスマートリストの作成{#create-an-account-smart-list}
 
@@ -43,7 +47,7 @@ ht-degree: 0%
 
 アカウントスマートリストが作成されました。 ルールの定義手順については、以下を参照してください。
 
-## アカウントスマートリストルール{#account-smart-list-rules}
+## アカウントスマートリストルール {#account-smart-list-rules}
 
 アカウント・スマート・リストは、標準的なスマート・リストと同様に機能しますが、顕著な例外があります。コンテナ
 
@@ -79,7 +83,7 @@ ht-degree: 0%
 >
 >標準的なスマートリストと同様に、高度なロジックを使用して、結果をさらに絞り込むことができます。 これを行うには、少なくとも3つのフィルターが必要です。また、アカウントスマートリストでは、1つのコンテナ(フィルター自体に含まれる要素の数に関係なく)が1つのフィルターと等しくなります。
 
-## アカウントのスマートリスト操作{#account-smart-list-actions}
+## アカウントスマートリストアクション {#account-smart-list-actions}
 
 アカウントスマートリストの「概要」タブに、いくつかの操作オプションが表示されています。
 
