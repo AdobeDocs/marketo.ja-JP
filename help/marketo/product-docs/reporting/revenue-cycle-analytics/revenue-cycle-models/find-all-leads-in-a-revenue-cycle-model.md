@@ -4,9 +4,9 @@ description: 売上高サイクルモデル —Marketoドキュメント — 製
 title: 売上高サイクルモデルでのすべてのリードの検索
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >両方のフィルターは必要ありません。必要なものを選択するだけです。 私たちはあなた達に徹底的に見せているだけだ。 ![（笑顔）](assets/smile.svg)
+   >両方のフィルターは必要ありません。必要なものを選択するだけです。 私たちはあなた達に徹底的に見せているだけだ。
 
    >[!CAUTION]
    >
