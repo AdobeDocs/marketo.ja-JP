@@ -4,9 +4,9 @@ description: フォームフィールドの事前入力を無効にする —Mar
 title: フォームフィールドの事前入力を無効にする
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,8 @@ Web訪問者が既知の（cookieが送信された）場合、Marketoフォー�
 >**フォームのプリ** 入力はデフォルトで有効になっています。ランディングページレベルの事前入力設定と管理者レベルの事前入力設定は、フォームレベルの設定に従います。
 >
 >フォーム/ランディングページ/管理者
+
+## 事前入力を無効にする方法{#how-to-disable-pre-fill}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -49,4 +51,8 @@ Web訪問者が既知の（cookieが送信された）場合、Marketoフォー�
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-いい仕事！
+## 機密フィールド{#sensitive-fields}
+
+フィールドを[慎重に](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md)マークし、フォームで値が事前入力されないようにすると、事前入力オプションにこのことが表示されます。
+
+![](assets/disable-pre-fill.png)
