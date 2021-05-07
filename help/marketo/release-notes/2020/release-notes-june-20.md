@@ -4,9 +4,9 @@ description: リリースノート — 20年6月21日 —Marketoドキュメン�
 title: リリースノート — 2010年6月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->星印(![(star)](assets/star-yellow.svg))で示される特徴は、有料のアドオンとして使用できます。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>星印(![](assets/yellow-star.png))で示される機能は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別_** リリース次の機能が2020年6月5日にリリースさ **れます**。
 
 ## コア Marketo エンゲージ {#core-marketo-engage}
 
-* **[予測オーディエンス](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星形）](assets/star-yellow.svg):Adobe Senseiが提供する新しいスマートリストおよびスマートキャンペーンフィルターを使用すると、電子メール、イベント、ウェビナーマーケティングプログラム向けに、AIで提供されるオーディエンスセグメントを作成できます。AIを使用すると、リードがイベントに登録したり、イベントに参加したり、登録を取り消したりする可能性に基づいてオーディエンスをセグメント化できます。 過去の成功を効率的に再現するために、過去のプログラムに基づいて類似オーディエンスを構築。 予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのためのオーディエンスセグメントを絞り込む方法に関する推奨事項を得ます。
-* **Batch Email Boost** ![（星形）](assets/star-yellow.svg):1時間に最大300万個のバッチ電子メールを送信できるEメールマーケティング機能の強化。バッチキャンペーンおよび電子メールレポート処理を再設計し、電子メールプログラムとバッチ電子メールキャンペーンのパフォーマンスを向上しました。 これにより、送信するリードタイムが短くなり、完了時間も短縮されます。 通常どおりに電子メールの送信を設定します。複雑さは増しません。 この機能強化は、配信サービス起動パック、電子メール配信ツール、複数の専用IPアドレスなどの製品アドオンとして利用できます。
+* **[予測オーディエンス](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![（星形）](assets/yellow-star.png):Adobe Senseiが提供する新しいスマートリストおよびスマートキャンペーンフィルターを使用すると、電子メール、イベント、ウェビナーマーケティングプログラム向けに、AIで提供されるオーディエンスセグメントを作成できます。AIを使用すると、リードがイベントに登録したり、イベントに参加したり、登録を取り消したりする可能性に基づいてオーディエンスをセグメント化できます。 過去の成功を効率的に再現するために、過去のプログラムに基づいて類似オーディエンスを構築。 予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのためのオーディエンスセグメントを絞り込む方法に関する推奨事項を得ます。
+* **Batch Email Boost** ![（星形）](assets/yellow-star.png):1時間に最大300万個のバッチ電子メールを送信できるEメールマーケティング機能の強化。バッチキャンペーンおよび電子メールレポート処理を再設計し、電子メールプログラムとバッチ電子メールキャンペーンのパフォーマンスを向上しました。 これにより、送信するリードタイムが短くなり、完了時間も短縮されます。 通常どおりに電子メールの送信を設定します。複雑さは増しません。 この機能強化は、配信サービス起動パック、電子メール配信ツール、複数の専用IPアドレスなどの製品アドオンとして利用できます。
 * **[Adobe Experience Cloudとのオーディエンス統合(AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**:新しいAdobe Experience Cloud(AEC)統合により、Marketo Engageからの既知のリードの静的なリストを複数のAECアプリケーションと同期して、既存のプログラムを強化し、新しい使用例をロック解除し、複数チャネルのキャンペーンを調整できます。この統合には、Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager、Adobe Advertising Cloudが含まれます。
 * **[プログラムメンバのカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**:プログラムメンバに関するカスタムフィールドの取得と利用。これらの新しいフィールドをMarketo Engageフォームで使用し、プログラムのメンバーリストに表示し、スマートリストフィルターとトリガーで活用し、新しいスマートキャンペーンフローアクションに含めて、自動化とより詳細なパーソナライゼーションを強化します。 これらは、UIやAPIを使用して読み込んだり書き出したりすることもできます。 カスタムデータオブジェクトおよびフィールド機能の強化。
 * **プログラムメンバーの説明**:プログラムメンバーのメタデータを取得し、REST APIを使用してプログラムメンバーのカスタムフィールドデータの読み込みと書き出しを行うことができます。APIの機能強化。
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **新しいアカウントの検出は一般的に利用可能**
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## Bizible {#bizible}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **Marketo Engageプログラムの統合**:プログラムデータをMarketo Engageから直接取り込み、Bizibleのアトリビューションジャーニーに沿ってタッチポイントを作成して、電子メールやエンゲージメントプログラムのクレジットを適切に配分します。Marketo Engage統合の強化。
 * **Marketo Engageアクティビティ統合（ベータ版）**:Marketo EngageアクティビティデータをBizibleに直接取り込んで、顧客ジャーニーとすべてのアトリビューションモデルにわたるタッチポイントを作成します。例としては、リードスコアの変更、興味深い瞬間、電子メールのクリック、任意のカスタムアクティビティなどがあります。 Marketo Engage統合の強化。
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **[Salesforce CRMのインサイトダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**:Sales Insightの機能を新たに考え直し、今後のマーケティングイベントやキャンペーンの注目度を新たに取り入れて、販売者のニーズや関心に基づいて、顧客や見込み客に対してより関連性の高いレコメンデーションを提供します。販売者は、タイムライン内の連絡先とアカウントのアクティビティの両方を表示して、追加のアクティビティの詳細に簡単にアクセスすることもできます。 パッケージのアップグレード方法の詳細は、[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)を参照してください。
 
