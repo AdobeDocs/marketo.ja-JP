@@ -4,7 +4,7 @@ description: リリースノート — 2月20日 —Marketoドキュメント �
 title: リリースノート — 20年2月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->星印(![(star)](assets/star-yellow.svg))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>星印(![(star)](assets/yellow-star.png))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別_** リリース2020 **年2月21日にリリースされた機能は次のとおりです**。
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 ## Bizible {#bizible}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **アカウントベースのセグメント**:アカウント属性に基づいてDiscoverボードのセグメントやフィルターを作成できるので、アカウントレベルでアトリビューションを分析します。これらのセグメントを使用して、アカウントベースのマーケティングパフォーマンスを掘り下げます。
 * **フィルターの保存**:各ダッシュボードに固有の固有のフィルターを保存し、ダッシュボードを迅速かつ一貫して分析します。
