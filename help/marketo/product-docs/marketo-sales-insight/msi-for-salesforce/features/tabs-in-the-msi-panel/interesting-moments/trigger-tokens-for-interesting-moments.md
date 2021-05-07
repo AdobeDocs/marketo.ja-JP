@@ -4,7 +4,7 @@ description: 興味深い瞬間のトリガートークン —Marketoドキュ�
 title: 興味深い瞬間のトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 29%
@@ -804,7 +804,7 @@ ht-degree: 29%
 
 >[!NOTE]
 >
->チェック![(tick)](assets/)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
+>チェック![(tick)](assets/check.png)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
 
 *トリガー&#x200B;**訪問ウェブページ**&#x200B;には、次のトークンがいくつか追加されています。
 
