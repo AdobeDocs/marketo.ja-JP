@@ -4,16 +4,16 @@ description: アイコン用語集 —Marketoドキュメント — 製品ドキ
 title: アイコンの用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 33%
 
 ---
 
 # アイコンの用語集{#icon-glossary}
 
-以下はMarketo Classicのアイコンです。 新しいMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
+以下はMarketo Classicのアイコンです。 新しいAdobeMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
 
 **一般的なアイコン**
 
