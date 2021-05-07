@@ -4,9 +4,9 @@ description: Marketo用語集 —Marketoドキュメント — 製品ドキュ�
 title: Marketo用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 4%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">アカウントスコア</a></strong></td> 
-   <td colspan="1"><strong>ABM</strong>では、アカウントに割り当てられたスコアで、エンゲージメントのレベルを判断するのに役立ちます。</td> 
+   <td colspan="1"><strong>TAM</strong>では、アカウントに割り当てられたスコアで、エンゲージメントのレベルを決定できます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>取得日</strong></td> 
@@ -62,6 +62,10 @@ ht-degree: 4%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>広告ネットワーク統合 </strong></a></td> 
    <td colspan="1">（旧称Ad Bridge）Marketo独自のオーディエンスデータを有料メディアシステムに接続し、ターゲットを絞り込んでパーソナライズしたデジタル広告キャンペーンを実行できます。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong></td> 
+   <td colspan="1">Adobe Experience Cloud内のすべてのMarketo製品の集計に関する正式なブランド名。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">アラート</a></strong></td> 
@@ -110,7 +114,7 @@ ht-degree: 4%
    <td colspan="1"><strong>スパム</strong>の送信に関連付けられたIPアドレスまたはドメインのリストです。</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>ブロックリストに加える</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>ブロックリスト掲載</strong></a></td> 
    <td> マーケティング資料(競合他社など)を受け取りたくないMarketoの人用のフィールド。 このフィブロックリストに加えるールドをtrueに設定すると、操作用電子メールを含む、Marketoインスタンスからの電子メールは受信されません。</td> 
   </tr> 
   <tr> 
@@ -148,7 +152,7 @@ ht-degree: 4%
    <td colspan="1"><strong>スマートキャンペーン</strong>別にグループ化された電子メールのパフォーマンス指標を表示するレポートタイプ。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">キャンペーンフォルダ</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">キャンペーン フォルダ</a></strong></td> 
    <td colspan="1">複数の<strong>プログラム</strong>や<strong>スマートキャンペーン</strong>を保持できる組織ユニット。 デスクトップ上のフォルダと同様に、Marketoのフォルダは整理やレポートに使用されます。</td> 
   </tr> 
   <tr> 
@@ -160,7 +164,7 @@ ht-degree: 4%
    <td colspan="1"><strong>プログラム</strong>に関連付けられるマーケティングアクティビティのタイプ（例：電子メール、<strong>ウェビナー、</strong>トレードショー、ロードショー、オンライン広告など）。 </td> 
   </tr> 
   <tr> 
-   <td><strong>クリックして開封 %</strong></td> 
+   <td><strong>クリック/開封率 %</strong></td> 
    <td>電子メール内で開かれ、リンクがクリックされた電子メールの割合。 ここでは、個別クリック数を個別オープン数で割った値を100に乗算して割合として表示することで、電子メールの関連性とコンテキストを測定します。</td> 
   </tr> 
   <tr> 
@@ -242,7 +246,7 @@ ht-degree: 4%
     <div> 
      <p><strong> データベース</strong></p> 
     </div></td> 
-   <td><strong>Marketo Engage</strong>のコアセクションの1つ。 データベースには、<strong>個人</strong>のすべてのレコードが保存されています。</td> 
+   <td><strong>AdobeMarketo Engage</strong>のコアセクションの1つ。 データベースには、<strong>個人</strong>のすべてのレコードが保存されています。</td> 
   </tr> 
   <tr> 
    <td><strong>重複除外</strong></td> 
@@ -251,7 +255,7 @@ ht-degree: 4%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> デフォルトプログラム</strong></p> 
+     <p><strong> デフォルトのプログラム</strong></p> 
     </div></td> 
    <td colspan="1">Marketoのプログラムタイプ。 電子メール、イベント、またはアクションプログラムと関連がない場合に使用する汎用プログラム。 <br></td> 
   </tr> 
@@ -269,7 +273,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td colspan="1"><strong>デザイン スタジオ</strong></td> 
-   <td colspan="1"><strong>Marketo Engage</strong>のコアセクションの1つ。 Design Studioは、次のように、<strong>アセット</strong>のホームページにあります。<strong>ランディングページ</strong>、フォーム、<strong>電子メール</strong>、<strong>スニペット</strong>、画像/ファイル。</td> 
+   <td colspan="1"><strong>AdobeMarketo Engage</strong>のコアセクションの1つ。 Design Studioは、次のように、<strong>アセット</strong>のホームページにあります。<strong>ランディングページ</strong>、フォーム、<strong>電子メール</strong>、<strong>スニペット</strong>、画像/ファイル。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
@@ -321,7 +325,7 @@ ht-degree: 4%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> 電子メールプログラム</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> メールプログラム</strong></a></p> 
     </div></td> 
    <td colspan="1">Marketoのプログラムタイプ。 電子メールプログラムは、1回限りの電子メール送信に使用されます。 <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B testing</a></strong>を利用して、電子メールの結果を追跡できます。<br></td> 
   </tr> 
@@ -337,7 +341,7 @@ ht-degree: 4%
    <td colspan="1">Marketoのプログラムタイプ。 エンゲージメントプログラムを使用すると、コンテンツを系統的に配信(「エンゲージメントのプログラム」とも呼ばれます)することで、新しいユーザーにマーケティングを行うことができます。<br></td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>エンゲージメントスコア</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>エンゲージメント スコア</strong></a></td> 
    <td>考慮に入れる独自のアルゴリズムに基づくスコア：関与した動作(<strong>opens</strong>、<strong>clicks</strong>、プログラムの成功)および非関与の動作(unsubscribes)。</td> 
   </tr> 
   <tr> 
@@ -477,12 +481,12 @@ ht-degree: 4%
    <td><strong>コンテンツ</strong>を表示し、訪問者を追跡できる、Marketoがホストするページ。 次の2種類があります。フリーフォームとガイド付き。 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">自由形式のランディング</a> ページを使用すると、任意のコンテンツを任意の場所にドラッグ&amp;ドロップできます。<a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">ガイド付きランディング</a> ページはより厳密で、事前に定義されたレイアウトや構造がテン <strong>プレートによって決まります</strong>。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
+   <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">Launchpoint</a></strong></td> 
    <td>クラス最高のMarketo統合ソリューションを実現。数百のテクノロジーとデジタルサービスのパートナーを抱えます。</td> 
   </tr> 
   <tr> 
    <td><strong>リード</strong></td> 
-   <td><strong>Marketo Engage</strong>では、リードは前の用語（<strong>人</strong>に置き換えられる）です。Marketo<strong>データベース</strong>の中で、マーケティングキャンペーンを通じて関与している人を表します。 <strong>CRM</strong>では、リードは、Marketoの機能とは無関係に、異なる概念（<strong>オポチュニティ</strong>に関連付けられた個人）を表す場合があります。</td> 
+   <td><strong>AdobeMarketo Engage</strong>では、リードは、マーケティングキャンペーンを通じて関与しているMarketo<strong>データベース</strong>の個人を表すのに使用される、前の用語です（<strong>人</strong>に置き換えられます）。 <strong>CRM</strong>では、リードは、Marketoの機能とは無関係に、異なる概念（<strong>オポチュニティ</strong>に関連付けられた個人）を表す場合があります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>リードデータベース</strong></td> 
@@ -512,7 +516,7 @@ ht-degree: 4%
  <tbody> 
   <tr> 
    <td><strong>マーケティング活動</strong></td> 
-   <td><p>Marketo Engageの中核部分の1つ。 <strong>キャンペーン</strong>オーケストレーションが発生する場所です。 <strong>プログラムー</strong>、キャンペーンー、<strong>キャンペーンーフォルダー</strong>（および<strong>ローカルアセット</strong>）はすべてここに保存されています。</p></td> 
+   <td><p>AdobeMarketo Engageの中核部分の1つ。 <strong>キャンペーン</strong>オーケストレーションが発生する場所です。 <strong>プログラムー</strong>、キャンペーンー、<strong>キャンペーンーフォルダー</strong>（および<strong>ローカルアセット</strong>）はすべてここに保存されています。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>マーケティングオートメーション</strong></a></td> 
@@ -525,10 +529,6 @@ ht-degree: 4%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティングを中断したリード</strong></a></td> 
    <td colspan="1">このフィールドは、<strong>user</strong>が手動で設定し、Marketo<strong>database</strong>内の誰かを一時的にメール不能にします。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Adobe Experience Cloud内のすべてのMarketo製品の集計に関する正式なブランド名。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketoリード管理(MLM)</strong></td> 
@@ -559,11 +559,11 @@ ht-degree: 4%
    <td>MarketoのカスタムJavaScriptトラッキングコード。 Webサイトの訪問者をすべて追跡します。 匿名訪問者（IPアドレスやその他の情報と共に）も含まれます。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>My Marketo</strong></td> 
-   <td colspan="1">Marketo Engageの標準セクションの1つ。 Marketoの「ホームページ」として、アクセスできるMarketoのすべてのセクションのタイルを表示します。</td> 
+   <td colspan="1"><strong>マイ Marketo</strong></td> 
+   <td colspan="1">AdobeMarketo Engageの標準セクションの1つ。 Marketoの「ホームページ」として、アクセスできるMarketoのすべてのセクションのタイルを表示します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>マイトークン</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>マイ トークン</strong></a></td> 
    <td colspan="1">誰でも作成できるカスタム変数。 これらは<strong>キャンペーンフォルダー</strong>または<strong>プログラムー</strong>に<a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">作成</a>されます。</td> 
   </tr> 
  </tbody> 
@@ -578,7 +578,7 @@ ht-degree: 4%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>特定顧客</strong></td> 
+   <td><strong>重点顧客</strong></td> 
    <td><p><strong>ABM</strong>では、ユーザーが決定したアカウントは、ターゲットが追跡したいアカウントです。</p></td> 
   </tr> 
   <tr> 
@@ -643,11 +643,11 @@ ht-degree: 4%
    <td colspan="1">以前はMarketoパフォーマンスインサイト(MPI)と呼ばれていました。 様々なツールを使用して傾向を発見し、一貫した勝者戦略を特定するアドオン分析機能。</td> 
   </tr> 
   <tr> 
-   <td><strong>担当者</strong></td> 
+   <td><strong>顧客</strong></td> 
    <td>マーケティングキャンペーンを通じて関与している、Marketo<strong>データベース</strong>の個人。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">担当者パーティション</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">顧客パーティション</a></strong></td> 
    <td colspan="1">個人パーティションは、別々の<strong>データベース</strong>のように機能します。 各パーティションには、重複を排除しない、または他のパーティションと混在しない独自のユーザーが存在します。</td> 
   </tr> 
   <tr> 
@@ -661,7 +661,7 @@ ht-degree: 4%
   <tr> 
    <td> 
     <div> 
-     <p><strong>予想コンテンツ</strong></p> 
+     <p><strong>予測コンテンツ</strong></p> 
     </div></td> 
    <td>（旧称ContentAI）機械学習と予測分析を活用したレコメンデーションを使用し、Marketoのユーザーが最も関連性の高い<strong>コンテンツ</strong>とWeb訪問者や電子メール受信者との関わりを高めるのに役立つアドオン機能です。</td> 
   </tr> 
@@ -759,11 +759,11 @@ ht-degree: 4%
    <td colspan="1"><p>特定のドメインのメール送信が許可される電子メールサーバーを識別する認証メカニズム。</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>スマートキャンペーン</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>スマート キャンペーン</strong></a></td> 
    <td colspan="1">Marketoで最も重要な道具の一つ。 ユーザーは、決定した条件に基づいて指定したアクションを実行します。 (<strong><a href="#b">バッチキャンペーン</a></strong>および<strong><a href="#t">トリガーキャンペーン</a></strong>も参照)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>スマートリスト</strong></td> 
+   <td colspan="1"><strong>スマート リスト</strong></td> 
    <td colspan="1">(<a href="#l"><strong>リスト</strong></a>を参照)</td> 
   </tr> 
   <tr> 
@@ -885,11 +885,11 @@ ht-degree: 4%
    <td>Marketoのレポートタイプ。 Webサイトの既知の<i>または</i>匿名の人々を表示できます。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">ウェブパーソナライゼーション</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">ウェブパーソナライズ</strong></td> 
    <td>ターゲット設定とパーソナライゼーションのプラットフォームを提供するアドオン機能です。Marketoのユーザーは、既知の匿名訪問者を、ユーザーとその行動に基づいてリアルタイムに関与させることができます。</td> 
   </tr>
   <tr> 
-   <td><strong>オンライン セミナ</strong></td> 
+   <td><strong>ウェビナー</strong></td> 
    <td>Webベースのセミナー。 Marketoでは、ウェビナーは様々な<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">イベントパートナーを介して行うことができます。</a></strong></td> 
   </tr> 
   <tr> 
