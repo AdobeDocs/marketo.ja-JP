@@ -3,7 +3,7 @@ description: リリースノート — 2021年1月 —Marketoドキュメント 
 title: リリースノート — 2021年1月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->星印(![(star)](assets/star-yellow.svg))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
+>星印(![(star)](assets/yellow-star.png))で示される特徴は有料のアドオンです。 詳しくは、Marketo Engageの担当者にお問い合わせください。
 
 **_四半期別リリース_**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **[テスト用電子メールワークフローの強化(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**:Sales Insightのテスト用電子メールワークフローが強化され、セールスチームの効率が向上します。販売者は、選択した電子メールアドレスにテスト用の電子メールを送信してから、最大200人の受信者にバルクメールを送信できます。
 * **[電子メールステータス(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**:ユーザーは、電子メールを送信する前に、無効な電子メールIDまたは登録解除された電子メールアドレスに電子メールを送信しようとすると、警告メッセージを表示します。 電子メール配信のステータスは、Sales Insightの「電子メール」タブで確認できます。
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## セールスコネクト {#sales-connect}
 
-![（星形）](assets/star-yellow.svg)
+![（星形）](assets/yellow-star.png)
 
 * **電子メール接続の制限（ベータ版）**:Eメールの配信品質を向上させ、Sales Connectの電子メール接続スロットリングを使用して1:1の販売コミュニケーションを拡大します。アドビの新しいスロットリングテクノロジーは、電子メールの送信タイミングを自動的に管理し、ExchangeおよびGmailユーザーにシームレスなエクスペリエンスを提供します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか、減らします。
 * **電子メール接続のバウンストラッキング**:新しい電子メールバウンスレポートを使用して、リードの質と電子メールテンプレートのパフォーマンスに関するインサイトを得ます。ExchangeおよびGmailのユーザーは、ライブフィード、電子メールフォルダー、テンプレート分析およびキャンペーン分析にロールアップされるバウンス通知の受信を選択できます。
