@@ -4,7 +4,7 @@ user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 4%
@@ -807,9 +807,9 @@ ht-degree: 4%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,8 +1050,8 @@ ht-degree: 4%
    + Marketo セールスの連携 {#marketo-sales-connect}
       + 開始方法 {#getting-started}
          + [Sales Connectの概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connectの使い始めに](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [マイプロファイルページ](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Sales Connectの使い始めに](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [マイプロファイルページ](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [クイック開始のビデオとTutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [販売用接続パスワードの変更](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + メール設定 {#email-settings}
@@ -1200,7 +1200,7 @@ ht-degree: 4%
             + [「構成」ウィンドウでのテンプレートの使用](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + FAQ {#faq}
          + [削除した連絡先またはグループを復元できますか？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
-         + [コンテンツと添付ファイルに関するFAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
+         + [コンテンツと添付ファイルのFAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales ConnectにはiPhoneまたはAndroidアプリがありますか。](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [サーバー上で許可リストSales Connectをする方法](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [私は自分のアカウントから締め出された。どうすればよいですか？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
