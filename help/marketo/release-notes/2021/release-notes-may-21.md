@@ -2,9 +2,9 @@
 description: リリースノート — 2021年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2021年5月
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 
 ## お知らせ {#announcements}
 
-* **Marketo製品ドキュメントの切り替えプラットフォーム**:5月7日の金曜日に、Marketo製品ドキュメントがAdobe Experience Leagueに入社する予定です。URLは引き続き使用できます。docs.marketo.comにリダイレクトされ、ブックマークを付けた既存の記事がある場合はリダイレクトされます。 現在のすべての製品ドキュメントは新しいプラットフォームで利用可能になり、今年後半に拡張が予定されています。
+* **Marketo製品ドキュメントの切り替えプラットフォーム**:5月7日金曜日の時点で、Marketo製品ドキュメントがAdobe Experience Leagueに参加したことをお知らせします。URLは引き続き使用できます。docs.marketo.comにリダイレクトされ、ブックマークを付けた既存の記事がある場合はリダイレクトされます。 すべての製品ドキュメントは新しいプラットフォームで提供され、今年後半に拡張が予定されています。
 
 * **合理化されたAdobe管理と、ユーザーIDシステムを利用したシングルサインオン**:2021年7月より、新しいAdobeMarketo Engageのお客様は、Adobeのユーザー資格情報を使用して登録されます。現在のお客様の統合IDシステムへの移行は、2022年の中頃まで行われません。お客様の対応は、追って通知があるまで必要ありません。 シングルサインオンを使用すると、IT管理者やセキュリティ管理者は、他のExperience Cloudソリューションと共に複数のAdobeMarketo Engage製品インスタンスを管理でき、共通のコンソールを介してSSO(Shared Services Organization)を構成できます。 管理者は、共通のAdmin Consoleを通じて、ユーザーグループとユーザー権利を適宜管理できます。
+
+**_製品リリースに関するウェビナー_**
+
+これらの機能および拡張機能の詳細をご覧になりますか？ 今すぐ[登録](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)して、5月13日午前9時（太平洋標準時間午後12時）に当社にご参加ください。当社の製品チームとのライブウェビナーで、これらの革新についてさらに詳しく検討してください。
