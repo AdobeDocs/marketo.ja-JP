@@ -4,9 +4,9 @@ description: Sales Connectの使い始めに —Marketoドキュメント — �
 title: Sales Connectの使い始めに
 exl-id: 8c5b1f65-449c-4304-b904-fc6442a47e5a
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '624'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,18 @@ ht-degree: 0%
 
 セットアップを完了するには、次の操作を行う必要があります。
 
-* [Sales ConnectとSalesforceの接続](#sfdc)
-* [Sales ConnectをMarketoに接続する前に資格情報を取得](#acquire)
-* [Connect Sales Connect (Marketoとの接続)](#mkto)
-* [ユーザーの招待/プロビジョニング](#IPU)
+* [Sales ConnectとSalesforceの接続](#connect-your-sales-connect-account-to-salesforce)
+* [Sales ConnectをMarketoに接続する前に資格情報を取得](#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo)
+* [Connect Sales Connect (Marketoとの接続)](#connect-sales-connect-to-marketo)
+* [ユーザーの招待/プロビジョニング](#invite-provision-users)
 
 オプションで、次のこともできます。
 
-* [SandboxでのSales Connectのテスト](#sandbox)
+* [SandboxでのSales Connectのテスト](#test-sales-connect-in-your-sandbox)
 
 ## Sales ConnectアカウントをSalesforceに接続{#connect-your-sales-connect-account-to-salesforce}
 
-Sales ConnectアカウントをSalesforceアカウントに接続するには、管理者または非管理者として、[この記事](https://docs.marketo.com/x/JwDb)の手順に従います。
+Sales ConnectアカウントをSalesforceアカウントに接続するには、管理者または非管理者として、[この記事](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)の手順に従います。
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Marketo内から資格情報を取得する必要があります。 これらの
 
 お客様のアカウントに既に存在するユーザー（旧称ToutApp）は、Sales Connectの「Marketo」セクションの「**チームアクセス**」タブに表示されます。
 
-このページから、チームをMarketoのSales Connect Userとしてプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](https://docs.marketo.com/display/TOUT/Invite+Team+Members)の手順に従ってください。
+このページから、チームをMarketoのSales Connect Userとしてプロビジョニングできます。 ToutAppを初めて使用した場合や、まだユーザーを招待していない場合は、[この記事](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)の手順に従ってください。
 
 >[!CAUTION]
 >
