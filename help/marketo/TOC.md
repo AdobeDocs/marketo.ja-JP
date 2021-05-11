@@ -4,9 +4,9 @@ user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 4%
 
 ---
@@ -807,7 +807,7 @@ ht-degree: 4%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1065,7 +1065,7 @@ ht-degree: 4%
          + [ブロック済みドメイン](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [コンテンツのロックダウン](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [サブチームの作成](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [チームメンバーの招待](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [ユーザーの招待](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Sales ConnectでのSAML 2.0を使用したSSOの設定](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [設定の共有](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [ユーザーアクセスの詳細](product-docs/marketo-sales-connect/admin/user-access-details.md)
