@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: アカウントスマートリスト-Marketoドキュメント — 製品ドキュメント
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 1%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 1%
 # アカウントスマートリスト{#account-smart-lists}
 
 ここでは、高価値のアカウントを迅速かつ正確に特定する方法を示します。
-
->[!NOTE]
->
->この機能は、対象となるすべてのMarketoインスタンスに対して、5月11日の火曜日の夕方に有効になります。
 
 >[!NOTE]
 >
