@@ -1,10 +1,9 @@
 ---
 description: リリースノート — 2021年5月 —Marketoドキュメント — 製品ドキュメント
 title: リリースノート — 2021年5月
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ ht-degree: 0%
 **_四半期別リリース_**
 
 次の機能は、**2021年5月7日**&#x200B;にリリースされます。
-
->[!NOTE]
->
->次の3つの機能は、5月11日の火曜日の夕方までに提供されます。
->
->* **アカウントスマートリスト**
->* **キャンペーンフローステップの実行**
->* **電子メールボットのフィルタアウトアクティビティ**
-
 
 ## アカウントベースのエクスペリエンス{#Account-based-eaperiences}
 
