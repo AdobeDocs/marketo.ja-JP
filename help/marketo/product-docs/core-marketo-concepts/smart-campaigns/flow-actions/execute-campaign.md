@@ -1,10 +1,9 @@
 ---
 description: キャンペーンの実行 —Marketoドキュメント — 製品ドキュメント
 title: キャンペーンの実行
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '711'
 ht-degree: 1%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 1%
 # キャンペーンの実行 {#execute-campaign}
 
 実行可能キャンペーンは、他のキャンペーンと同様、スマートリスト、フロー、スケジュールを含みます。 他のキャンペーンとは異なり、実際にスケジュールを設定したりアクティブにしたりすることはありません。 キャンペーンの実行フロー手順を介して別のキャンペーンから呼び出すことしかできません。 実行可能ファイルキャンペーンのフローステップは、親キャンペーンと直列に実行されます(別のトリガーキャンペーンで並行して実行される要求キャンペーンとは異なります)。
-
->[!NOTE]
->
->この機能は、5月11日火曜日の夕方に、すべてのMarketoインスタンスで有効になります。
 
 >[!NOTE]
 >
