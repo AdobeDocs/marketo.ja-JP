@@ -3,16 +3,15 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
-ht-degree: 4%
+source-wordcount: '8038'
+ht-degree: 5%
 
 ---
 
 
-# Marketoガイド{#using}
+# Marketoガイド {#using}
 
 + [ホーム](home.md)
 + Marketoの使い始めに{#getting-started-with-marketo}
@@ -38,7 +37,7 @@ ht-degree: 4%
       + [ランディングページのリダイレクト](getting-started/quick-wins/redirect-a-landing-page.md)
       + [重複の可能性があるユーザーに対するアラートの自動化](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketoインスタンスの継承{#inheriting-a-marketo-instance}
-      + [ヘルプ! 既存のMarketoインスタンスを継承しました](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [ヘルプ! I&#39;ve I&#39;ve Instance an existingMarketoInstance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [チェックオフする項目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [確認事項：主なスキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -311,7 +310,7 @@ ht-degree: 4%
             + [キャンペーンの実行](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [参照元にクレジットを付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [注目のアクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-            + [フローからの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
+            + [フローから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [リストから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [フローステップの「追加選択」の並べ替え](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [キャンペーンのリクエスト](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
@@ -807,7 +806,7 @@ ht-degree: 4%
                + [テンプレート12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [テンプレート12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [テンプレート12 ～ F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -978,7 +977,7 @@ ht-degree: 4%
                + [受信者のタイムゾーンでの電子メールプログラムのスケジュール](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [受信者のタイムゾーンについて](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + 電子メールプログラムデータ{#email-program-data}
-            + [電子メールリンクのパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+            + [メールリンクパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
             + [電子メールパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [電子メールプログラムダッシュボードをExcelにエクスポート](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [電子メールプログラムダッシュボードの使用](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
@@ -1050,7 +1049,8 @@ ht-degree: 4%
    + Marketo セールスの連携 {#marketo-sales-connect}
       + 開始方法 {#getting-started}
          + [Sales Connectの概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connectの使い始めに](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [新しいSales Connectインスタンスへのアクセス](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Sales Connectの設定](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [マイプロファイルページ](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [クイック開始のビデオとTutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [販売用接続パスワードの変更](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1100,7 +1100,7 @@ ht-degree: 4%
             + [Salesforce IDのSales Connectへのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴にSales Connectイベントフィールドをインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Editionのお客様向けSalesforceカスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [Sales Connectにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforceのレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM向けの販売接続のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classicでのバルクアクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1203,7 +1203,7 @@ ht-degree: 4%
          + [コンテンツと添付ファイルのFAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales ConnectにはiPhoneまたはAndroidアプリがありますか。](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [サーバー上で許可リストSales Connectをする方法](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [私は自分のアカウントから締め出された。どうすればよいですか？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [私は自分のアカウントから締め出された。 どうすれば？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales ConnectはSalesforce Lightningと互換性がありますか。](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [最新のクライアントバージョン](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Sales Connect Terms of Serviceとは何ですか。](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 4%
       + 統合 {#integrations}
          + [電子メールを他のCRMにログする方法](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [手動でのMarketo接続の設定](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [ユーザーへのアクセスの許可](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSCでの興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [キャンペーンをSales Connect Usersに表示する](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + リード {#people}
