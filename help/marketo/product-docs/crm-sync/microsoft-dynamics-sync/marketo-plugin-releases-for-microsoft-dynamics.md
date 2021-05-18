@@ -3,8 +3,7 @@ unique-page-id: 10099389
 description: Microsoft Dynamics用Marketoプラグインリリース —Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics用Marketoプラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 7%
@@ -41,7 +40,7 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
    <th>注意</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
    <td colspan="1">MS Dynamicsとのキャンペーン同期のサポートが追加されました。</td> 
   </tr> 
@@ -114,5 +113,5 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
 </table>
 
 >[!MORELIKETHIS]
+[Marketoリード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Marketoリード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
