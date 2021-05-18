@@ -3,10 +3,9 @@ unique-page-id: 13796464
 description: Sales Connectの概要 —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectの概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 9%
 
 ---
@@ -40,15 +39,15 @@ Marketo・セールス・コネクトは、さまざまな機能を備えた多�
 <table> 
  <tbody> 
   <tr> 
-   <th>アクティビティタイプ</th> 
-   <th>詳細</th> 
+   <th>アクティビティのタイプ</th> 
+   <th>説明</th> 
   </tr> 
   <tr> 
    <td><p>セールスメールの送信</p></td> 
    <td><p>ユーザーがMSEから販売の電子メールを送信しました。</p></td> 
   </tr> 
   <tr> 
-   <td><p>セールスメールの開封</p></td> 
+   <td><p>セールスメールを開く</p></td> 
    <td><p>リードがMSEから送信された販売用の電子メールを開きました。</p></td> 
   </tr> 
   <tr> 
@@ -87,5 +86,5 @@ Marketo・セールス・コネクトは、さまざまな機能を備えた多�
 開始する準備はできていますか？ 設定手順については、下のリンクをクリックしてください。
 
 >[!MORELIKETHIS]
+[Sales Connectの設定](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Sales Connectの使い始めに](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
