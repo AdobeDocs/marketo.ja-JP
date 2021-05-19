@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 5%
 
 ---
@@ -712,7 +712,7 @@ ht-degree: 5%
             + [フ追加リーフォームランディングページ用のモバイル表示](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [フ追加リーフォームランディングページへの新しいフォーム](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
             + [フ追加リーフォームランディングページへのソーシャルボタン](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-            + [フ追加リーフォームランディングページへのビデオ](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
+            + [フリ追加ーフォームランディングページへのビデオ](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [フ追加リーフォームランディングページへの画像](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [自由形式ランディングページに長方形を追加する](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
             + [自由形式ランディングページへのカスタムHTMLの追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
@@ -1214,7 +1214,7 @@ ht-degree: 5%
       + 統合 {#integrations}
          + [電子メールを他のCRMにログする方法](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [手動でのMarketo接続の設定](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Marketo接続の設定](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [ユーザーへのアクセスの許可](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSCでの興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [キャンペーンをSales Connect Usersに表示する](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
