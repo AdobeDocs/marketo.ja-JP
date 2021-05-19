@@ -1,9 +1,9 @@
 ---
 description: Sales Connectの設定 —Marketoドキュメント — 製品ドキュメント
 title: Sales Connectの設定
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 このドキュメントでは、新しいSales Connectインスタンスを設定するための最初の手順を説明します。 これらの手順の一部では、Marketo管理者、Salesforce管理者、Sales Connect管理者としてアクセスする必要があります。 以下のガイドに従って、インスタンスの設定を完了します。
 
+>[!NOTE]
+>
+>**管理者権限が必要です。**
+
 ## 新しいMarketoセールスコネクトアカウントにアクセス{#accessing-your-new-marketo-sales-connect-account}
 
-Marketoセールスコネクトを購入した場合は、Marketoの管理セクションからインスタンスへのアクセスがプロビジョニングされます。 Marketoの管理者が新しいインスタンスへのアクセスをプロビジョニングする方法については、ここをクリックしてください。
+Marketoセールスコネクトを購入した場合は、Marketoの管理セクションからインスタンスへのアクセスがプロビジョニングされます。 [ここをクリック](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) すると、Marketo管理者が新しいインスタンスへのアクセスをプロビジョニングする方法に関する手順が表示されます。
 
 ![](assets/set-up-sales-connect-1.png)
 
