@@ -1,60 +1,59 @@
 ---
-description: オンライン用Microsoft Dynamics CRMアプリのセットアップ —Marketoドキュメント — 製品ドキュメント
-title: オンライン用Microsoft Dynamics CRMアプリのセットアップ
+description: オンライン用のMicrosoft Dynamics CRMアプリのセットアップ — Marketoドキュメント — 製品ドキュメント
+title: オンライン用のMicrosoft Dynamics CRMアプリのセットアップ
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 577444d0fc23a436494e8314dd24a59434476a99
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
-# オンライン用Microsoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
+# オンライン用のMicrosoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
 
-## オンライン用Microsoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
+## オンライン用のMicrosoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
 
 1. https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registrationに移動します。
 
-1. すべての手順に従います。 手順3で、関連するアプリ名(「Marketo統合」など)を入力します。 [サポートされるアカウントの種類]で、[この組織のディレクトリにのみアカウントを作成]を選択します。
+1. すべての手順に従います。 手順3で、関連するアプリ名(例：「Marketo統合」)を入力します。 「サポートされているアカウントの種類」で、「この組織のディレクトリにのみアカウントを選択します。
 
-1. アプリケーション ID(ClientId)を書き留めます。 後でMarketoに入れる必要がある。
+1. アプリケーションID(ClientId)を書き留めます。 後でMarketoに入力する必要があります。
 
 1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
 
-1. 管理センターで[**証明書とシークレット**]をクリックして、クライアントシークレットを生成します。
+1. 「**証明書と秘密**」をクリックして、管理センターでクライアント秘密鍵を生成します。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-1.png)
 
-1. [**新しいクライアントシークレット**]をクリックします。
+1. 「**新しいクライアントシークレット**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-2.png)
 
-1. 追加クライアントシークレットの説明を入力し、**追加**&#x200B;をクリックします。
+1. クライアントシークレットの説明を追加し、「**追加**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-3.png)
 
    >[!CAUTION]
    >
-   >後で必要になるので、クライアントシークレットの値（下のスクリーンショットに表示されています）を必ず書き留めてください。 1回しか表示されず、再度取得することはできません。
+   >後で必要になるので、クライアントシークレットの値（下のスクリーンショットに示す）を必ずメモしておきます。 これは1回だけ表示され、再度取得することはできません。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketoは、grant_typeリソース所有者パスワード資格情報(ROPC)を使用して、OAuthを使用してAzure ADに認証します。 このシナリオでは、特定のアプリケーションに対してHome Realm Discoveryポリシーを作成する必要があります。 このポリシーを使用すると、Azure ADは、認証要求をフェデレーションサービスにリダイレクトします。 このためには、AD Connectでパスワードハッシュ同期を有効にする必要があります。 詳しくは、[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)および[アプリケーション](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)のhrdポリシーの設定を参照してください。
+Marketoは、grant_type Resource Owner Password Credentials(ROPC)を使用して、OAuthでAzure ADに対して認証をおこないます。 このシナリオでは、特定のアプリケーション用にHome Realm Discoveryポリシーを作成する必要があります。 このポリシーを使用すると、Azure ADは認証要求をフェデレーションサービスにリダイレクトします。 このためには、AD Connectでパスワードハッシュの同期を有効にする必要があります。 詳しくは、[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)および[アプリケーションのhrdポリシーの設定](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)を参照してください。
 
-[参照先は](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.)を参照してください。
+追加の参照[は、](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.)にあります。
 
-終了したら、**Dynamics CRMで生成されたクライアントIDとシークレットをMarketo**&#x200B;に入力します。
+完了したら、Dynamics CRMで生成されたクライアントIDとシークレットをMarketo **に入力します。**
 
-## Dynamics CRMで生成されたクライアントIDとシークレットをMarketoに入力{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Dynamics CRMで生成されたクライアントIdとシークレットをMarketoに入力{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-次の手順は、オンライン&#x200B;_および_&#x200B;オンプレムバージョンに適用されます。
+次の手順は、オンライン版&#x200B;_および_&#x200B;オンプレミス版に適用されます。
 
-1. Marketoで、**管理者**&#x200B;をクリックします。
+1. Marketoで、「**管理者**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
-1. **Microsoft Dynamics**&#x200B;をクリックします。
+1. 「**Microsoft Dynamics**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-6.png)
 
@@ -62,11 +61,11 @@ Marketoは、grant_typeリソース所有者パスワード資格情報(ROPC)を
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-7.png)
 
-1. 「資格情報」の横の「**編集**」をクリックします。
+1. 資格情報の横にある「**編集**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-8.png)
 
-1. 以前に取得した&#x200B;**クライアントID**&#x200B;と&#x200B;**クライアントシークレット**&#x200B;を入力し、**保存**&#x200B;を押します。
+1. 前に取得した&#x200B;**クライアントID**&#x200B;と&#x200B;**クライアントシークレット**&#x200B;を入力し、**保存**&#x200B;を押します。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-9.png)
 
@@ -78,16 +77,16 @@ Marketoは、grant_typeリソース所有者パスワード資格情報(ROPC)を
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-11.png)
 
-1. すべての緑のチェックマークが表示されます。 「**閉じる**」をクリックします。
+1. すべての緑色のチェックマークが表示されます。 「**閉じる**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-12.png)
 
    >[!NOTE]
    >
-   >緑のチェックマークの中に赤いX印が表示される場合は、[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)で修正オプションを参照してください。
+   >緑のチェックマークの中に赤いXが表示される場合は、[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照して修正オプションを確認してください。
 
 1. 「**同期を有効にする**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-13.png)
 
-それだ！
+それで終わりだ！
