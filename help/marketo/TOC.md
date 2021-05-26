@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 5%
@@ -81,10 +81,10 @@ ht-degree: 5%
          + [RCAの名前付きアカウントDimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [名前付きアカウントインサイト](product-docs/target-account-management/measure/named-account-insights.md)
          + [ペルソナの使用](product-docs/target-account-management/using-personas.md)
-   + アカウントプロファイル {#account-profiling}
-      + [アカウント・プロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + アカウントプロファイル {#account-profiling}
+         + [アカウント・プロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 追加のアプリ{#additional-apps}
       + SEO {#seo}
          + SEO {#understanding-seo}について
@@ -808,7 +808,7 @@ ht-degree: 5%
                + [テンプレート12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [テンプレート13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [テンプレート13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [テンプレート13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [テンプレート13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [テンプレート13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [テンプレート14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
