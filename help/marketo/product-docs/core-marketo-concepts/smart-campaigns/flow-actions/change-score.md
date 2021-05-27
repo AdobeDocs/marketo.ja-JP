@@ -1,10 +1,9 @@
 ---
 unique-page-id: 1146962
-description: スコアの変更 —Marketoドキュメント — 製品ドキュメント
+description: 変更スコア — Marketoドキュメント — 製品ドキュメント
 title: スコアの変更
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -15,7 +14,7 @@ ht-degree: 6%
 
 ## 概要 {#overview}
 
-スコア決定は、販売チームが優先順位を決定するのに役立つ、簡単で強力な人です。
+スコアリング担当者は、セールスチームの優先順位付けに役立つ、簡単で強力です。
 
 ![](assets/flowstep-changescore.png)
 
@@ -27,16 +26,17 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >複数のスコアフィールドを作成できます。 詳しくは、[Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)にカスタムフィールドを作成するを参照してください。
+   >複数のスコアフィールドを作成できます。 詳しくは、Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)でのカスタムフィールドの作成[を参照してください。
 
-1. 変更するスコアを入力します。
+1. スコアの変更を入力します。
 
    ![](assets/flowstep-changescoretype.png)
 
-   変更：
+   変更点：
 
    * **+5** で増分
-   * **-5** はデクリメントします（負の数を指定できます）
-   * **=5** は、正確な数値になる
-   * **=-5** は、正の負の数のスコアになります
-   基本的なスコアをすばやく決め、時間の経過とともに結果を調整します。 そうしたの！
+   * **-5** は減少します（負の数も可）
+   * **=5** の場合は、正確な数になります
+   * **=-5** の場合は、正の負の数になります。
+
+基本的なスコアをすばやく取得し、時間の経過と共に結果を調整します。 そうしたの！
