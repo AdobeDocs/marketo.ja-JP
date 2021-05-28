@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 5%
 
 ---
@@ -1044,7 +1044,6 @@ ht-degree: 5%
    + Marketo Engageの次世代エクスペリエンス{#marketo-engage-next-generation-experience}
       + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [新しいアイコン用語集](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [アセットの移動](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo セールスの連携 {#marketo-sales-connect}
       + 開始方法 {#getting-started}
