@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
+source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
 workflow-type: tm+mt
-source-wordcount: '8028'
+source-wordcount: '8023'
 ht-degree: 5%
 
 ---
@@ -1051,7 +1051,6 @@ ht-degree: 5%
          + [新しいSales Connectインスタンスへのアクセス](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect管理者向けスタートガイド](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [プロファイルの管理](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [クイックスタートのビデオとTutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Sales Connectパスワードの変更](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + メール設定 {#email-settings}
             + [ID を追加](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
