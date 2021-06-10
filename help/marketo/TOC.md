@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
+source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
 workflow-type: tm+mt
 source-wordcount: '8023'
 ht-degree: 5%
@@ -623,16 +623,16 @@ ht-degree: 5%
             + [レベル3のWeb会議でイベントを作成する](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [ReadyTalkを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Marketo ON24アダプタを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-            + [イベントの設定とMarketoとウェビナーの同期](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-            + [Marketoでのイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-            + [子キャンペーンとローカルアセットの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-            + [ON24でのウェビナーイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-            + [MarketoでのON24資格情報の入力](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-            + [ON24イベント統合の例](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-            + [ON24イベント登録の更新](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-            + [ON24イベント統合のテスト](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-            + [Marketo On24アダプタイベントについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
-            + [ウェビナープログラムのステータスについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+               + [イベントの設定とMarketoとウェビナーの同期](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+               + [Marketoでのイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
+               + [子キャンペーンとローカルアセットの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [ON24でのウェビナーイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+               + [MarketoでのON24資格情報の入力](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
+               + [ON24イベント統合の例](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+               + [ON24イベント登録の更新](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+               + [ON24イベント統合のテスト](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+               + [Marketo On24アダプタイベントについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+               + [ウェビナープログラムのステータスについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
             + [WebExを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [ズームを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
