@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
+source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8033'
 ht-degree: 5%
 
 ---
@@ -622,7 +622,8 @@ ht-degree: 5%
             + [GotoWebセミナーを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [レベル3のWeb会議でイベントを作成する](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [ReadyTalkを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + [Marketo ON24アダプタを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+            + Marketo ON24アダプタを使用したイベントの作成(#create-an-event-with-the-marketo-on24-adapter)
+               + [Marketo ON24アダプタを使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [イベントの設定とMarketoとウェビナーの同期](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Marketoでのイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [子キャンペーンとローカルアセットの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
