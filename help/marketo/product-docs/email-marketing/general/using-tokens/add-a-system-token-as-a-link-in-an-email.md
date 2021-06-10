@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1900573
-description: 電子メ追加ール —Marketoドキュメント — 製品ドキュメント内のリンクとしてのシステムトークン
-title: 電子メ追加ール内のリンクとしてのシステムトークン
+description: システムトークンを電子メールにリンクとして追加する — Marketoドキュメント — 製品ドキュメント
+title: システムトークンを電子メールのリンクとして追加
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 電子メ追加ール{#add-a-system-token-as-a-link-in-an-email}内のリンクとしてのシステムトークン
+# 電子メール{#add-a-system-token-as-a-link-in-an-email}にシステムトークンをリンクとして追加する
 
-これらのシステムトークンを使用して、電子メール内の特別なリンクの位置をカスタマイズできます。
+これらのシステムトークンを使用して、Eメール内の特別なリンクの位置をカスタマイズできます。
 
-次のトークンは、電子メールまたは電子メールテンプレート内のリンクとして使用できます。
+次のトークンは、EメールまたはEメールテンプレート内のリンクとして使用できます。
 
 * `{{system.forwardToFriendLink}}`
 * `{{system.unsubscribeLink}}`
@@ -23,36 +22,40 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これらのトークンは、アンカーリンク内でない限り&#x200B;****&#x200B;クリックできません。 また、マイトークンに&#x200B;****&#x200B;を埋め込むことはできません。
+>これらのトークンは、アンカーリンク内にない限り、クリックできません。**** また、マイトークンに&#x200B;**埋め込むことはできません**。
 
-電子メールに追加する方法を次に示します。
+Eメールに追加する方法を次に示します。
 
 1. 電子メールを探して選択し、「**ドラフトを編集**」をクリックします。
 
    ![](assets/one-1.png)
 
-1. 編集可能な領域内で重複を押しながらクリック
+1. 編集可能な領域をダブルクリックします。
 
    ![](assets/two-1.png)
 
-1. トークンを持つリンクに変換するテキストをハイライト表示し、「**リンクを挿入/編集**」ボタンをクリックします。
+1. トークンを含むリンクに変換するテキストをハイライト表示し、「**リンクを挿入/編集**」ボタンをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「リンクURL」にトークンを入力し、「**挿入**」をクリックします。
+1. 「リンクURL 」にトークンを入力し、「**挿入**」をクリックします。
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >必要なトークンをコピー/貼り付けます。**`{{system.forwardToFriendLink}}`**&#x200B;または&#x200B;**`{{system.unsubscribeLink}}`**&#x200B;または&#x200B;**`{{system.viewAsWebpageLink}}`**
+   >目的のトークンをコピー/貼り付けます。**`{{system.forwardToFriendLink}}`**、**`{{system.unsubscribeLink}}`**、**`{{system.viewAsWebpageLink}}`**&#x200B;のいずれか
 
 1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
+>[!IMPORTANT]
+>
+>この方法を使用して「viewAsWebpageLink」システムトークンを追加する場合、トークンを使用して&#x200B;**上書きできません**。 代わりに、[Add a View as Web Page Link to an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)アプローチを使用して、トークンを使用して「viewAsWebPageLink」を上書きできます。
+
 >[!NOTE]
 >
->終了したら[メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認するのを忘れないでください。
+>完了したら、[電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)を承認することを忘れないでください。
 
-うまくいった！ これで、システムトークンを電子メール内のリンクとして追加する方法がわかりました。
+うまくいった！ これで、システムトークンをリンクとしてEメールに追加する方法がわかりました。
