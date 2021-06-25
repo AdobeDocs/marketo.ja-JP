@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2949874
-description: GotoWebセミナー —Marketoドキュメント — 製品ドキュメントでイベントを作成する
-title: GotoWebセミナーでのイベントの作成
+description: GotoWebセミナーを使用したイベントの作成 — Marketoドキュメント — 製品ドキュメント
+title: GotoWebセミナーを使用したイベントの作成
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
 
 ---
 
-# GotoWebinar {#create-an-event-with-gotowebinar}を使用してイベントを作成
+# GotoWebセミナーを使用したイベントの作成 {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
->* [LaunchPointサービス追加としてのGoToWebセミナー](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
+>* [GoToWebセミナーをLaunchPointサービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントを追跡します。
 
 
-まず、GoToWebinarでウェビナーを作成します。 GoToWebinarの作成時の設定は、Marketoが使用する設定と、GoToWebinarのみが使用する設定があります。
+まず、GoToWebセミナーでウェビナーを作成します。 GoToWebセミナーの作成時の特定の設定はMarketoで使用され、一部はGoToWebinarでのみ使用されます。
 
-Marketoイベントを作成し、GoToWebセミナーを関連付けると、登録情報と出席情報を共有できるようになります。
+Marketoイベントを作成し、GoToWebセミナーを関連付けると、登録情報と出席情報をシステムで共有できるようになります。
 
-以下はMarketoが使用する設定のリストです。
+以下に、Marketoで使用される設定の一覧を示します。
 
-## タイトルと説明{#title-and-description}
+## タイトルと説明 {#title-and-description}
 
-**ウェビナー名**  — ウェビナー名を入力します。この名前はMarketoで表示できます。
+**ウェビナー名**  — ウェビナーの名前を入力します。この名前はMarketoで表示できます。
 
 **説明** （オプション） — ウェビナーの説明を入力します。説明はMarketoで表示できます。
 
@@ -36,39 +35,36 @@ Marketoイベントを作成し、GoToWebセミナーを関連付けると、登
 
 ## 日時 {#date-time}
 
-ウェビナーの次の情報を入力すると、アダプタを介してMarketoに取り込まれます。 この情報に変更を加えた場合、Marketoが変更を確認できるようにするには、**イベントアクション**&#x200B;の下の「ウェビナープロバイダーから更新&#x200B;**」リンクをクリックする必要があります。**
+ウェビナーの次の情報を入力すると、アダプターを介してMarketoに取り込まれます。 この情報に変更を加えた場合、Marketoに変更を表示するには、**イベントアクション**&#x200B;の下の「**ウェビナープロバイダーから更新**」リンクをクリックする必要があります。
 
-**開始日** -開始日を入力します。これはMarketoで見ることができます。
+**開始日**  — 開始日を入力します。これはMarketoで表示できます。
 
-**開始時刻** -開始時刻を入力します。これはMarketoで見ることができます。
+**開始時間**  — 開始時間を入力します。これはMarketoで表示できます。
 
-**終了時間**  — 終了時間を入力します。これはMarketoで見ることができます。
+**終了時間**  — 終了時間を入力します。これはMarketoで表示できます。
 
-**タイムゾーン**  — 該当するタイムゾーンを選択します。Marketoで見ることができます。
+**タイムゾーン**  — 適切なタイムゾーンを選択します。Marketoで表示できます。
 
-**「 —** set」を「 **One Session**」に設定します。
+**「 —** 」を「 **One Session**」に設定します。
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
 >[!NOTE]
->
->Marketoは現在、ウェビナーの定期的な使用をサポートしていません。 各MarketoイベントとGoToWebセミナーの間に、1回のセッションを設定する必要があります。
+Marketoは、現在、繰り返しウェビナーをサポートしていません。 Marketo EventとGoToWebセミナーの各ウェビナー間で1回のセッションを設定する必要があります。
 
 >[!TIP]
->
->追加のGoToWebセミナーのヘルプが必要な場合は、[ヘルプサイト](https://support.logmeininc.com/gotowebinar)を参照してください。
+追加のGoToウェビナーのヘルプが必要な場合は、[ヘルプサイト](https://support.logmeininc.com/gotowebinar)を参照してください。
 
-さあMarketoに飛び込もう！
+さあ、Marketoに飛び込もう！
 
 1. イベントを選択します。 「**イベントアクション**」をクリックし、「**イベント設定**」を選択します。
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
-   >
-   >選択するイベントのチャネルタイプは、**ウェビナー**&#x200B;でなければなりません。
+   選択するイベントのチャネルタイプは、**ウェビナー**&#x200B;にする必要があります。
 
-1. **イベントパートナー**&#x200B;リストから&#x200B;**GoToWebinar**&#x200B;を選択します。
+1. 「**イベントパートナー**」リストから「**GoToWebinar**」を選択します。
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -89,33 +85,27 @@ Marketoイベントを作成し、GoToWebセミナーを関連付けると、登
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
    >[!NOTE]
-   >
-   >Marketoが送り込むフィールドは次のとおりです。名、姓、電子メールアドレス。 これらのフィールドは必須で、空にすることはできません。
+   Marketoが送信するフィールドは次のとおりです。名、姓、電子メールアドレス。 これらのフィールドは必須で、空にすることはできません。
 
    >[!TIP]
-   >
-   >この一意のURLを確認電子メールに入力するには、電子メールで次のトークンを使用します。`{{member.webinar url}}`. 確認URLが送信されると、このトークンは、ユーザー固有の確認URLに自動的に解決されます。
-   >
-   >確認の電子メールを&#x200B;**操作**&#x200B;に設定し、登録済みで登録を取り消している可能性のあるユーザーが、確認情報を引き続き受け取るようにします。
+   この一意のURLを確認Eメールに入力するには、Eメールで次のトークンを使用します。`{{member.webinar url}}`. 確認URLが送信されると、このトークンは自動的にユーザーの一意の確認URLに解決されます。
+   確認メールを&#x200B;**Operational**&#x200B;に設定して、登録者および購読解除の可能性があるユーザーが引き続き確認情報を受け取るようにします。
 
    ![](assets/goto-webinar.png)
 
    >[!CAUTION]
-   >
-   >確認電子メールを送信する際に、ネストされた電子メールプログラムを使用しないでください。 代わりに、イベントプログラムのスマートキャンペーンを使用します。
+   ネストされた電子メールプログラムを使用して確認電子メールを送信しないでください。 上に示すように、代わりに、イベントプログラムのスマートキャンペーンを使用します。
 
    >[!TIP]
-   >
-   >データがMarketoに表示されるまで、最大48時間かかる場合があります。 それでも何も表示されない状態が続くのを待った後で、イベントーの&#x200B;**概要**&#x200B;タブにあるイベントの操作メニューから、「ウェビナープロバイダーから更新&#x200B;**」を選択します。**
+   データがMarketoに表示されるまでに最大48時間かかる場合があります。 その時間待っても何も表示されない場合は、イベントの「**概要**」タブのイベントアクションメニューで「**ウェビナープロバイダーから更新**」を選択します。
 
-ウェビナーにサインアップした人は、「新しいステータス」が「登録済み」に設定されている場合に、プログラムステータスの変更フローステップを通じてウェビナーのプロバイダーにプッシュされます。 その他の状態では、その人を押しのけることはありません。 また、プログラムステータスの変更のフロー手順#1と、電子メールの送信のフロー手順#2を必ず行ってください。
+「新しいステータス」が「登録済み」に設定されている場合、ウェビナーに登録した人は、プログラムステータスの変更フローステップを通じてウェビナープロバイダーにプッシュされます。 他のステータスでは、ユーザーを押し越すことはできません。 また、プログラムステータスの変更のフロー手順#1、電子メールの送信のフロー手順#2を必ず実行してください。
 
-## スケジュールの表示{#viewing-the-schedule}
+## スケジュールの表示  {#viewing-the-schedule}
 
-プログラムスケジュール表示で、イベントのカレンダーエントリをクリックします。 スケジュールは、画面の右側に表示されます。
+プログラムスケジュールビューで、イベントのカレンダーエントリをクリックします。 画面の右側にスケジュールが表示されます。
 
 >[!NOTE]
->
->イベントのスケジュールを変更するには、GoToWebinarでウェビナーを編集する必要があります。
+イベントのスケジュールを変更するには、GoToWebセミナーでウェビナーを編集する必要があります。
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)
