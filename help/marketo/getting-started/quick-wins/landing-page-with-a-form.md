@@ -189,4 +189,4 @@ ht-degree: 0%
 
 [Send an Email Blast](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[シンプルスコアリング`jp](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[シンプルスコアリング&grave;jp](/help/marketo/getting-started/quick-wins/simple-scoring.md)
