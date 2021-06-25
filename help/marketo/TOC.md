@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
+source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
 workflow-type: tm+mt
-source-wordcount: '8031'
+source-wordcount: '8043'
 ht-degree: 5%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 5%
             + [階層の作成](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [顧客リスト](product-docs/target-account-management/target/account-lists.md)
          + [アカウントのスマートリスト](product-docs/target-account-management/target/account-smart-lists.md)
-         + [LinkedInでの一致するオーディエンスの作成](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [LinkedInでのアカウントと一致するオーディエンスの作成](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + エンゲージ{#engage}
          + [アカウントフィルタ](product-docs/target-account-management/engage/account-filters.md)
          + [アカウントトリガー](product-docs/target-account-management/engage/account-triggers.md)
@@ -392,6 +392,7 @@ ht-degree: 5%
          + 静的リスト {#static-lists}
             + [静的リストの作成](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Adobe Experience Cloudへのリストの送信](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [Adobe Experience CloudセグメントのMarketo静的リストへの追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
             + [静的リストについて](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + プログラム {#programs}
          + プログラムの作成{#creating-programs}
@@ -1310,6 +1311,7 @@ ht-degree: 5%
          + 構成 {#configuration}
             + [Salesforce Enterprise/無制限でのMarketo Sales Insightの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional EditionでのMarketo Sales Insightの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforceの「Marketo Sales Insight Configuration」タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo管理者向けのSales Insightページ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [チーム向けの販売インサイトの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1325,7 +1327,6 @@ ht-degree: 5%
                + [Marketo Sales InsightのタブとボタンのSalesforceへの追加](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightningのバルクアクション](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Marketo Sales Insightの複数レコードへの電子メールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + 言語サポート{#language-support}
                + [Salesforceでの多言語サポートのための販売インサイトの準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
