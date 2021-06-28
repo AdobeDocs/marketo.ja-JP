@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/UnlimitedでのMarketo Sales Insightの設定 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce Enterprise/無制限でのMarketo Sales Insightの設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
-ht-degree: 5%
+source-wordcount: '824'
+ht-degree: 6%
 
 ---
 
@@ -24,9 +24,7 @@ Salesforce Enterprise/Unlimited EditionsでMarketo Sales Insightを設定する�
 
 ## Marketoでの販売インサイトの設定 {#configure-sales-insight-in-marketo}
 
-1. 新しいブラウザーウィンドウを開き、MarketoアカウントからMarketo Sales Insightの資格情報を取得します。
-
-1. 「管理者」領域に移動し、「**販売インサイト**」を選択します。
+1. MarketoでMSI資格情報を取得します。 「管理者」領域に移動し、「**販売インサイト**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Salesforce Enterprise/Unlimited EditionsでMarketo Sales Insightを設定する�
 1. 確認ポップアップが表示されます。 「**OK**」をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   このウィンドウは開いたままにしておきます。 この情報は、後でSalesforceで必要になります。
 
 ## Salesforceでの販売インサイトの設定 {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Salesforce Enterprise/Unlimited EditionsでMarketo Sales Insightを設定する�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. リモートサイト名を入力します（「MarketoRestAPI」など）。 「リモートサイトURL」に、MarketoのRest API設定パネルのAPI URLを入力します。 「**保存**」をクリックします。 Rest API用のリモートサイト設定が作成されました。
-
-## Marketo Sales Insightの設定 {#set-up-marketo-sales-insight}
-
-1. Marketoインスタンスにログインし、「**管理者**」をクリックします。
-
-   ![](assets/login-admin.png)
-
-1. 「**Sales Insight**」をクリックします。
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. 「**API設定を編集**」をクリックします。
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. **API秘密鍵**&#x200B;を入力し、「**保存**」をクリックします。
-
-   >[!CAUTION]
-   API秘密鍵にはアンパサンド(&amp;)を使用しないでください。
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   このウィンドウは開いたままにしておきます。 この情報は、後でSalesforceで必要になります。
-
-1. Salesforceに戻り、「**設定**」をクリックします。
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. 「リモートサイト」を検索し、**セキュリティコントロール**&#x200B;の下の「**リモートサイト設定**」をクリックします。
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. 「**新しいリモートサイト**」をクリックします。
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. 「**リモートサイト名**」と「**リモートサイトURL**」を入力し、「**保存**」をクリックします。
-
-   ![](assets/remote-site.png)
+1. リモートサイト名を入力します（「MarketoAPI」など）。 「リモートサイトURL」に、MarketoのRest API設定パネルのAPI URLを入力します。 「**保存**」をクリックします。 Rest API用のリモートサイト設定が作成されました。
 
    >[!NOTE]
-   **リモートサイト名**&#x200B;を選択します（MarketoAPIはここで使用します）。 **リモートサイトのURL**&#x200B;は、手順4のAPI設定を編集ダイアログボックスの「Marketoホスト」フィールドにあります。
+   __ リモートサ **イト名を選択します** （ここではMarketoAPIを使用します）。**リモートサイトURL**&#x200B;は、「MarketoでのSales Insightの設定」セクションの手順3の「API設定を編集」ダイアログボックスの「Marketoホスト」フィールドにあります。
 
 ## ページレイアウトのカスタマイズ {#customize-page-layouts}
 
