@@ -2,9 +2,9 @@
 description: Adobe Experience CloudセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience CloudセグメントのMarketo静的リストへの追加
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. ユーザーを識別するEメールアドレスを含む関連フィールドを選択します。 終了したら「**選択**」をクリックします。
+1. 「**属性を選択**」または「**ID名前空間を選択**」ラジオボタンを選択します（この例では、属性を選択します）。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >「**ID名前空間**&#x200B;を選択」を選択した場合は、選択を行った後、手順15に進みます。
+
+1. ユーザーを識別するEメールアドレスを含む関連フィールドを選択します。 終了したら「**選択**」をクリックします。
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ ht-degree: 0%
 
 1. マッピングアイコンをクリックします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. ターゲットフィールドを選択し、「**選択**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. 「**次へ**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _Marketo_&#x200B;で、静的リストを作成するか、既に作成した静的リストを探して選択します。URLの末尾からマッピングIDをコピーします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ ht-degree: 0%
 
 1. Adobe Experience Platformに戻り、コピーしたIDを入力します。 「開始日」を選択します。 ユーザーは、選択された終了日まで同期を続けます。 無期限同期の場合は、終了日を空白のままにします。 終了したら「**次へ**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. 変更を確認し、「**完了**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
