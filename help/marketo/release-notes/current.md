@@ -1,16 +1,16 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
 
 # リリースノート：2021年8月 {#release-notes-aug-21}
 
-8月22日リリースには、次の機能が含まれています。 Marketo版の機能の可用性を確認します。
+8月22日リリースには、次の機能が含まれています。 機能の可用性をMarketo Engageエディションで確認します。
 
 >[!AVAILABILITY]
 >
