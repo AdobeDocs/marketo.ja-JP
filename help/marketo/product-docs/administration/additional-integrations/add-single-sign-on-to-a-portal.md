@@ -1,61 +1,60 @@
 ---
 unique-page-id: 2360356
-description: ポータルへ追加のシングルサインオン —Marketoドキュメント — 製品ドキュメント
-title: ポータル追加へのシングルサインオン
+description: ポータルへのシングルサインオンの追加 — Marketoドキュメント — 製品ドキュメント
+title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 1%
 
 ---
 
-# ポータルへ追加のシングルサインオン{#add-single-sign-on-to-a-portal}
+# ポータルへのシングルサインオンの追加 {#add-single-sign-on-to-a-portal}
 
-ユーザーを認証するディレクトリサービスがある場合は、Marketoへのシングルサインオン(SSO)を許可できます。 Security Assertion Markup Language(SAML)バージョン2.0以降を使用して、この機能をサポートしています。
+ユーザーを認証するディレクトリサービスがある場合は、Marketoへのシングルサインオン(SSO)を許可できます。 この機能は、Security Assertion Markup Language(SAML)バージョン2.0以降を使用してサポートされています。
 
-MarketoはSAMLサービスプロバイダー(SP)として機能し、外部IDプロバイダー(IdP)に依存してユーザーを認証します。
+MarketoはSAMLサービスプロバイダー(SP)として機能し、外部のIDプロバイダー(IdP)に依存してユーザーを認証します。
 
-SSOを有効にすると、IdPはユーザーの秘密鍵証明書を検証できます。 ユーザーがMarketoソフトウェアを使用したい場合、IdPは署名済みのSAMLメッセージをMarketoに送信し、SPとして機能します。 このメッセージは、ユーザーがMarketoソフトウェアの使用を承認されたことをMarketoに伝えます。
-
->[!NOTE]
->
->**必要な管理者権限**
+SSOが有効になると、IdPはユーザーの資格情報を検証できます。 ユーザーがMarketoソフトウェアを使用する場合、IdPは署名済みのSAMLメッセージをMarketoに送信し、SPとして機能します。 このメッセージは、ユーザーがMarketoソフトウェアを使用する権限を持っていることをMarketoに伝えます。
 
 >[!NOTE]
 >
->Microsoft Azureユーザーですか？ [統合チュートリアル](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)を見てください。
-
-## リクエストの送信方法{#how-to-send-the-request}
-
-* SAML応答であるSSO要求を`https://login.marketo.com/saml/assertion/<your-munchkin-id>`に送信します
-* SPのオーディエンスURLとして使用する。 使用 `https://saml.marketo.com/sp`
-* SPNameQualifier属性を使用する場合、SubjectのNameID要素を`https://saml.marketo.com/sp`に設定します
-* 複数のMarketo・購読を同じSSOプロバイダに統合する場合は、各Marketo・サブに対して`https://saml.marketo.com/sp/<munchkin_id>`の形式で一意のSP URLを使用できます
+>**管理者権限が必要**
 
 >[!NOTE]
 >
->Marketoは、IDプロバイダが開始する（IdPが開始するとも呼ばれる）もののみをサポートしています。この場合、ユーザーは最初にIdpログインページを起動し、認証してからマイMarketoに移動します。
+>Microsoft Azureユーザーですか？ [統合のチュートリアル](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)をご覧ください。
 
-## 追加のメモ{#additional-notes}
+## リクエストの送信方法 {#how-to-send-the-request}
 
-* **同期アップ時間**  — 新規ユーザーの場合、最初のSSO要求が処理されるまでに約10分の遅延があります。
-* **ユーザープロビジョニング**  — ユーザーは、Marketoによって手動でプロビジョニングされます。
-* **認証**  — ユーザー権限はMarketo内で保持されます。
-* **OAuthサポート** -Marketoは現在OAuthをサポートしていません。
-* **ユーザーの自動伝播** - 「ジャストインタイムプロビジョニング」とも呼ばれます。これは、ユーザーの最初のSAMLログインが、アクセスしているWebアプリケーション(例：Marketo)でユーザーを作成でき、手動の管理操作が不要な場合です。現時点では、Marketoではサポートされていません。
-* **暗号化** -Marketoは現在暗号化をサポートしていません。
+* SAML応答であるSSOリクエストを`https://login.marketo.com/saml/assertion/<your-munchkin-id>`に送信します。
+* SPのオーディエンスURL。 使用 `http://saml.marketo.com/sp`
+* SPNameQualifier属性を使用する場合は、SubjectのNameID要素を`http://saml.marketo.com/sp`に設定します。
+* 複数のMarketoサブスクリプションを同じSSOプロバイダーに統合する場合は、各Marketoサブに対して`http://saml.marketo.com/sp/<munchkin_id>`という形式の一意のSP URLを使用できます
 
 >[!NOTE]
 >
->起動する前に、IDプロバイダ証明書をX.509形式、.crt、.der、または.cer拡張子で入手してください。
+>Marketoは、IDプロバイダーが開始する（IdP開始とも呼ばれます）のみをサポートします。このIDプロバイダーでは、ユーザーが最初にIdpログインページを起動し、認証してからMy Marketoに移動します。
 
-## SAML設定の更新{#update-saml-settings}
+## 追加情報 {#additional-notes}
+
+* **同期アップ時間**  — 新しいユーザーの場合、最初のSSOリクエストが処理されるまでに約10分の遅延があります。
+* **ユーザープロビジョニング**  — ユーザーはMarketoによって手動でプロビジョニングされます。
+* **認証**  — ユーザー権限はMarketo内で維持されます。
+* **OAuthのサポート**  - Marketoは現在OAuthをサポートしていません。
+* **自動ユーザー伝播**  - 「ジャストインタイムプロビジョニング」とも呼ばれ、ユーザーの最初のSAMLログインが、アクセスしているWebアプリケーション(Marketoなど)でユーザーを作成でき、手動の管理操作は不要です。現時点では、Marketoではサポートされていません。
+* **暗号化**  - Marketoは現在暗号化をサポートしていません。
+
+>[!NOTE]
+>
+>開始する前に、IDプロバイダー証明書をX.509形式で、.crt、.der、または.cer拡張子で入手します。
+
+## SAML設定の更新 {#update-saml-settings}
 
 SSOはデフォルトで無効になっています。 SAMLを有効にして設定するには、次の手順に従います。
 
-1. **管理者**&#x200B;に移動し、**シングルサインオン**&#x200B;をクリックします。
+1. **管理**&#x200B;に移動し、「**シングルサインオン**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
@@ -71,11 +70,11 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. **発行者ID**、**エンティティID**&#x200B;を入力し、**ユーザーIDの場所**&#x200B;を選択して、**参照**&#x200B;をクリックします。
+1. **発行者ID**、**エンティティID**&#x200B;を入力し、**ユーザーIDの場所**&#x200B;を選択して、「**参照**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. **IDプロバイダー証明書**&#x200B;ファイルを選択します。
+1. **IDプロバイダーの証明書**&#x200B;ファイルを選択します。
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
@@ -83,7 +82,7 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
-## リダイレクトページ設定の更新{#update-redirect-page-settings}
+## リダイレクトページ設定の更新 {#update-redirect-page-settings}
 
 1. 「**ページをリダイレクト**」セクションで、「**編集**」をクリックします。
 
@@ -93,21 +92,21 @@ SSOはデフォルトで無効になっています。 SAMLを有効にして設
    >
    >ユニバーサルIDとSSOを使用するお客様は、IDプロバイダーのログインURLを&#x200B;**Login URL**&#x200B;フィールドに入力する必要があります。
 
-1. **ログアウトURL**&#x200B;を入力します。 これは、ユーザーがMarketoからログアウトしたときに表示するURLです。
+1. **ログアウトURL**&#x200B;を入力します。 これは、ユーザーがMarketoからログアウトしたときに表示されるURLです。
 
    ![](assets/eight.png)
 
-1. **エラーURL**&#x200B;を入力します。 これは、Marketoへのログインに失敗した場合にユーザーに表示するURLです。 「**保存**」をクリックします。
+1. **エラーURL**&#x200B;を入力します。 Marketoへのログインに失敗した場合にユーザーに表示するURLです。 「**保存**」をクリックします。
 
    ![](assets/nine.png)
 
    >[!NOTE]
    >
-   >これらのページはどちらも公開されている必要があります。
+   >これらのページは両方とも公開されている必要があります。
 
 >[!MORELIKETHIS]
 >
 >* [購読ログインでのユニバーサルIDの使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [ユーザ ログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [ユニバーサルIDを使用した2つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+* [ユーザ ログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+* [ユニバーサルIDを使用した2つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
