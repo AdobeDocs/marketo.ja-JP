@@ -3,14 +3,14 @@ unique-page-id: 5472490
 description: リリーススケジュール — Marketoドキュメント — 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
 
 ---
 
-# リリーススケジュール{#release-schedule}
+# リリーススケジュール {#release-schedule}
 
 **リリース**:Marketoは、四半期別のメジャーリリーススケジュールを使用します。各リリースノートが利用可能になると、以下の表にリンクされます。
 
@@ -48,7 +48,7 @@ _リリース日は変更される場合があります_
   </tr> 
   <tr> 
    <td colspan="1">2021年8月</td> 
-   <td colspan="1">2021年8月14日</td> 
+   <td colspan="1">2021年8月21日</td> 
    <td colspan="1">進行中</td> 
   </tr> 
   <tr> 
