@@ -1,7 +1,7 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ ht-degree: 0%
 * **新しいコホートウォーターフォールジャーニーダッシュボード**:これにより、マーケティング担当者は、従来の「デマンドウォーターフォール」段階を通じて、選択したコホートの進行状況を把握でき、コンバージョン率と暗黙の段階的な段階的コンバージョンの因果関係を迅速に把握できます。
 
 ## Adobe Experience CloudとのBizible統合 {#bizible-integration-with-adobe-experience-cloud}
- 
+
 この節では、AdobeIdentity Managementシステム(IMS)の移行を完了したBizibleユーザー向けの新機能について説明します。 移行済みの場合は、新しいAdobe IDが「Adobe ID」タブのBizible設定に表示されます。 2021年末までに、すべてのアカウントを移行する必要があります。
 
 * **BizibleとAdobePrivacy Service**:BizibleとAdobePrivacy Serviceの統合により、Adobe Experience Cloudアプリケーション全体で重要なデータプライバシー規制（GDPRなど）への準拠が一元化されます。このサービスを活用し、すべてのプライバシーリクエストを一元的に管理して、Bizibleや他のAdobe製品に対する変更リクエストをアプリケーション間で反映できるようになりました。
