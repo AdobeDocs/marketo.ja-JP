@@ -1,10 +1,10 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
-ht-degree: 0%
+source-wordcount: '1067'
+ht-degree: 2%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 0%
 
 * **電子メールAPI**:チャンピオンまたはチャレンジャーのEメールアセットを取得します。
 
-**_四半期を通じてリリース_**
+**_四半期を通した段階的リリース_**
 
-次の機能は、四半期以外のサイクルで提供され、今後数か月間にわたってリリースされます。
+以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
 
 ## Sales Insight {#sales-insight}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 * **Salesforce CRMユーザー向けのリード、連絡先、アカウント、オポチュニティのアクティビティの可視性の向上**:Sales Insightのエンゲージメントレコード数が増加し、長い販売サイクルの間の見込み客とのエンゲージメントに関する情報が得られます。興味深い瞬間、Webアクティビティ、Eメール、スコアの各タブには、リード、連絡先、アカウント、オポチュニティの各オブジェクトにわたる最大400個のアクティビティが表示されます。
 
-## セールスコネクト {#sales-connect}
+## Sales Connect {#sales-connect}
 
 ![（星）](assets/yellow-star.png)
 
@@ -77,9 +77,9 @@ ht-degree: 0%
 
 ## Adobe Experience CloudとのBizible統合 {#bizible-integration-with-adobe-experience-cloud}
 
-この節では、AdobeIdentity Managementシステム(IMS)の移行を完了したBizibleユーザー向けの新機能について説明します。 移行済みの場合は、新しいAdobe IDが「Adobe ID」タブのBizible設定に表示されます。 2021年末までに、すべてのアカウントを移行する必要があります。
+この節では、AdobeIdentity Managementシステム(IMS)の移行を完了したBizibleユーザー向けの新機能について説明します。 移行済みの場合は、新しいAdobe IDが「Adobe ID」タブのBizible設定に表示されます。 2021年末までにすべてのアカウントを移行する必要があります。
 
-* **BizibleとAdobePrivacy Service**:BizibleとAdobePrivacy Serviceの統合により、Adobe Experience Cloudアプリケーション全体で重要なデータプライバシー規制（GDPRなど）への準拠が一元化されます。このサービスを活用し、すべてのプライバシーリクエストを一元的に管理して、Bizibleや他のAdobe製品に対する変更リクエストをアプリケーション間で反映できるようになりました。
+* **BizibleとAdobePrivacy Serviceの統合** （2021年9月から利用可能）:BizibleとAdobePrivacy Serviceの統合により、Adobe Experience Cloudアプリケーション全体で重要なデータプライバシー規制（GDPRなど）への準拠が一元化されます。このサービスを活用し、すべてのプライバシーリクエストを一元的に管理して、Bizibleや他のAdobe製品に対する変更リクエストをアプリケーション間で反映できるようになりました。
 
 * **BizibleのAdobe統合シェル**:BizibleのAdobe統合シェルの採用により、Bizibleアプリケーションヘッダーバーに表示され、リソースやアプリケーションの切り替えをサポートするためのより優れたアクセスを含む新しい機能がユーザーに提供されます。Adobe統合シェルは、Bizibleと他のAdobe Experience Cloudアプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
 
