@@ -1,53 +1,50 @@
 ---
 unique-page-id: 2949413
-description: スマートリストフィルタ追加ーに対する制約 —Marketoドキュメント — 製品ドキュメント
-title: スマートリストフィルター追加の制約
+description: スマートリストフィルターへの制約の追加 - Marketo ドキュメント - 製品ドキュメント
+title: スマートリストフィルターへの制約の追加
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# スマ追加ートリストフィルターに対する制約{#add-a-constraint-to-a-smart-list-filter}
+# スマートリストフィルターへの制約の追加 {#add-a-constraint-to-a-smart-list-filter}
 
-スマートリストを作成する場合、一部のフィルターには「制約」と呼ばれる高度なオプションがあります。 これらは、フィルターやトリガーに追加して、検索をさらに絞り込むための追加条件です。
+スマートリストを作成する際に利用するフィルターの一部には、「制約」と呼ばれる高度なオプションが含まれています。制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
 
-この例では、**[Data Value Changed](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**&#x200B;フィルターに制約を追加して、MQLからSQLにステータスが変化した人を探します。
+以下に紹介する例では、「**[データ値変更済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)**」フィルターにいくつかの制約を追加して、リードステータスが MQL から SQL に変更されたリードを特定します。
 
 >[!PREREQUISITES]
 >
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [スマートリストでの「データ値の変更」フィルタの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
-
->
+* [スマートリストで「データ値変更済み」フィルターを使用します。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」エリアに移動します。
 
    ![](assets/ma-1.png)
 
-1. 制約を追加するフィルターを持つスマートリストを選択し、「**スマートリスト**」タブをクリックします。
+1. 制約を追加するフィルターが設定されているスマートリストを選択して、「**スマートリスト**」タブをクリックします。
 
    ![](assets/two-3.png)
 
-1. 「**追加制約**」で、「**以前の値**」を選択します。
+1. 「**制約を追加**」から「**前回の値**」を選択します。
 
    ![](assets/three-3.png)
 
-1. **以前の値**&#x200B;を入力します。 この例では、MQLを使用しています。
+1. 「**前回の値**」に入力します。この例では、「MQL」と入力します。
 
    ![](assets/four-2.png)
 
-1. 「**追加制約**」で、「**新しい値**」を選択します。
+1. 「**制約を追加**」から「**新しい値**」を選択します。
 
    ![](assets/five.png)
 
-1. **新しい値**&#x200B;を入力します。 この例では、SQLを使用しています。
+1. 「**新しい値**」に入力します。この例では、「SQL」と入力します。
 
    ![](assets/six.png)
 
-1. うまくいった！ 「**ユーザー**」タブをクリックすると、過去30日間に&#x200B;**ステータス**&#x200B;が&#x200B;**MQL**&#x200B;から&#x200B;**SQL**&#x200B;に変更されたすべてのユーザーが表示されます。
+1. これで完了です。「**リード**」タブをクリックすると、過去 30 日間に「**ステータス**」が **MQL** から **SQL** に変わったすべての対象者が表示されます。
