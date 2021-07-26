@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146962
-description: 変更スコア — Marketoドキュメント — 製品ドキュメント
+description: スコアの変更 - Marketo ドキュメント - 製品ドキュメント
 title: スコアの変更
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -14,29 +14,29 @@ ht-degree: 6%
 
 ## 概要 {#overview}
 
-スコアリング担当者は、セールスチームの優先順位付けに役立つ、簡単で強力です。
+リードのスコアリングは、簡単に使える優れた機能であり、セールスチームがリードの優先順位付けをするのに役立ちます。
 
 ![](assets/flowstep-changescore.png)
 
-## 使用状況 {#usage}
+## 使用方法 {#usage}
 
-1. 変更するスコアフィールドを選択します。
+1. 変更するスコアのフィールドを選択します。
 
    ![](assets/image2014-9-22-11-3a7-3a31.png)
 
    >[!TIP]
    >
-   >複数のスコアフィールドを作成できます。 詳しくは、Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)でのカスタムフィールドの作成[を参照してください。
+   >さらにスコアのフィールドを作成することができます。詳細については、「[Marketo のカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)」を参照してください。
 
 1. スコアの変更を入力します。
 
    ![](assets/flowstep-changescoretype.png)
 
-   変更点：
+   変更：
 
-   * **+5** で増分
-   * **-5** は減少します（負の数も可）
-   * **=5** の場合は、正確な数になります
-   * **=-5** の場合は、正の負の数になります。
+   * 増やすには「**+5**」のように入力します
+   * 減らすには「**-5**」のように入力します（マイナスの値を入力できます）
+   * 値を指定するには「**=5**」のように入力します
+   * マイナスの値を指定するには「**=-5**」のように入力します
 
-基本的なスコアをすばやく取得し、時間の経過と共に結果を調整します。 そうしたの！
+最初は基本的なスコアリングを設定しておき、時間をかけて結果を調整します。Marketo での設定はこれだけです。
