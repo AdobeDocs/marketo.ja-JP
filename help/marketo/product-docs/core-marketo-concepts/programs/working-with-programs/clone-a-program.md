@@ -1,56 +1,55 @@
 ---
 unique-page-id: 1147110
-description: プログラムのコピー —Marketoドキュメント — 製品ドキュメント
-title: プログラムのコピー
+description: プログラムのクローン - Marketo ドキュメント - 製品ドキュメント
+title: プログラムのクローン
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プログラムのクローン{#clone-a-program}
+# プログラムのクローン {#clone-a-program}
 
-すべてのアセットを手動で再構築する代わりに、プログラム全体とそのすべてのアセットをすばやく簡単にコピーします。
+プログラム全体とそのアセットすべてを手軽に素早くクローンします。一から構築しなおす必要はありません。
 
 >[!PREREQUISITES]
 >
->ダイビングインする前に、[コピーされたアセットの破損を回避するためのベストプラクティス](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729)について学びます。
+>進む前に、[クローンアセットの破損を回避するためのベストプラクティス](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729)について学びます。
 
-1. コピーするプログラムを探して選択し、**プログラムアクション**&#x200B;の下の&#x200B;**コピー**&#x200B;をクリックします。
+1. クローンしたいプログラムを選択して、「**プログラムアクション**」から「**クローン**」をクリックします。
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
-1. プログラムのコピー先を選択します。
+1. プログラムのクローン先を選択します。
 
    >[!NOTE]
    >
-   >プログラムは、[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。 基になるすべての依存アセット(電子メール、スニペット、ランディングページテンプレートなど)を をコピーする前にコピー先のワークスペースに置き換えます。
+   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)にクローンできます。クローンする前に、基になるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）をクローン先のワークスペースと共有します。
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >上のスクリーンショットに注記が表示されていますか？ つまり、1つのリストに1000人以上の人々がいるプログラムをコピーした場合、リスト自体はコピーされますが、空になります。 999人以下の人を含むリストを使用してプログラムのクローンを作成すると、そのリストとそのすべてのメンバーが、コピーされたプログラムに表示されます。
+   >上のスクリーンショットの「メモ」を参照してください。つまり、リスト内の 1000 人以上のユーザーを含むプログラムをクローンすると、リスト自体はクローンされますが、空になります。999 人以下のリストを含むプログラムをクローンすると、そのリストはそのメンバーと共にクローンされたプログラムに表示されます。
 
 1. 名前を入力します。
 
    ![](assets/cloneprogramname.png)
 
-1. プログラムのコピー先のフォルダを選択します。
+1. プログラムのクローン先のフォルダーを選択します。
 
    ![](assets/choosefolderclone.png)
 
-1. オプション追加で説明を入力し、「**作成**」をクリックします。 新しいプログラムを作成するのに、そのアセットがすべて準備できたのは、なんて素早かったでしょう。
+1. オプションで説明を追加し、「**作成**」をクリックします。このテクニックをトークンと合わせて活用すると、新規プログラムを一瞬で作成できます。
 
    ![](assets/createclone.png)
 
    >[!TIP]
    >
-   >この方法は、トークンと共に使用し、新しいプログラムの作成をスナップにします。
+   >この方法をトークンと共に使用して、新しいプログラムの作成をスナップにします。
 
    >[!CAUTION]
    >
-   >期間のコストは繰り返されないので、元のプログラムに期間のコストが設定されている場合は、クローンを作成したフォルダにその期間を必ず追加してください。
+   >期間原価は引き継がれませんので、元のプログラムに設定されている場合は、クローンされたプログラムに改めて追加してください。
