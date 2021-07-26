@@ -1,29 +1,28 @@
 ---
 unique-page-id: 1147154
-description: SFDCキャンペーンとプログラムの同期 —Marketoドキュメント — 製品ドキュメント
-title: SFDCキャンペーンとプログラムの同期
+description: SFDC キャンペーンとプログラムの同期 - Marketo ドキュメント - 製品ドキュメント
+title: SFDC キャンペーンとプログラムの同期
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# SFDCキャンペーンとプログラム{#sync-an-sfdc-campaign-with-a-program}を同期する
+# SFDC キャンペーンとプログラムの同期 {#sync-an-sfdc-campaign-with-a-program}
 
-Marketoでは、プログラムをSalesforceキャンペーンと同期して、ステータスを含む両方のシステムで同じリストを維持できます。 さあ始めましょう！ 
+Marketo を使用すると、プログラムを Salesforce キャンペーンと同期して、両方のシステムの同じリスト（ステータスを含む）を維持できます。それでは始めましょう。
 
 >[!PREREQUISITES]
 >
->最初にSalesforceキャンペーン同期](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)を[有効にする必要があります。
+>まず、[Salesforce キャンペーンの同期を有効にする](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)必要があります。
 
 >[!CAUTION]
 >
->SFDCキャンペーンをMarketoプログラムと同期する場合、黙示的なSFDCの操作(SFDCキャンペーンに追加、SFDCに同期など)は、プログラムの子キャンペーンに対して無効になります。
+>SFDC キャンペーンを Marketo プログラムと同期する場合、プログラムの子キャンペーンに対して、暗黙の SFDC アクション（例：SFDC キャンペーンへの追加、SFDC への同期）が無効になります。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」エリアに移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,22 +30,22 @@ Marketoでは、プログラムをSalesforceキャンペーンと同期して、
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. 「**プログラムアクション**」をクリックし、「**Salesforceキャンペーン同期**」を選択します。
+1. 「**プログラムアクション**」をクリックし、「**Salesforce キャンペーン同期**」を選択します。
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 「**新規作成**」を選択するか、既存のSalesforceキャンペーンを選択します。
+1. 「**新規作成**」を選択します。既存の SFDC キャンペーンを選択することもできます。
 
    >[!TIP]
    >
-   >既存のSalesforceキャンペーンを選択する場合は、[がSalesforceキャンペーンとMarketoプログラム](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)のプログラムステータスと一致していることを確認してください。
+   >既存の Salesforce キャンペーンを選択する場合は、[Salesforce キャンペーンと Marketo プログラムのプログラムステータスが一致していること](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)を確認してください。
 
 1. 新しいキャンペーンの名前を入力し、「**保存**」をクリックします。
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 
-1. これで、キャンペーンの同期の詳細をプログラムの概要ページで確認できます。
+1. 進行状況が Marketo プログラムのステータスと一致していることを確認します。
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   素晴らしい！ 現在は、Marketoでのプログラムステータスの変更はすべてSFDCキャンペーンと同期され、その逆も同期されます。
+   これで完了です。Marketo で変更されたプログラムステータスが常に SFDC キャンペーンに同期され、また逆方向にも同期されるようになりました。
