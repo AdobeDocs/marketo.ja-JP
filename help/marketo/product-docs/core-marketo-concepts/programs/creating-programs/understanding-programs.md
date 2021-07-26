@@ -1,43 +1,42 @@
 ---
 unique-page-id: 1147089
-description: プログラムについて —Marketoドキュメント — 製品ドキュメント
+description: プログラムについて - Marketo ドキュメント - 製品ドキュメント
 title: プログラムについて
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# プログラムについて{#understanding-programs}
+# プログラムについて {#understanding-programs}
 
-プログラムは単一のマーケティングイニシアチブを表します。 プログラムを動かすのに必要なすべての要素をコンテナと考えることができます。これらはローカルアセットと呼ばれ、**ランディングページ**、**電子メール**、**スマートキャンペーン**&#x200B;などが含まれます。 プログラムは多くのことを行いますが、始めるのは簡単です。
+プログラムは、単一のマーケティング施策を表します。これは、ローカルアセットと呼ばれ、**ランディングページ**、**メール**、**スマートキャンペーン**&#x200B;などを含む、プログラムの動作に必要なすべての要素を含むコンテナと考えることができます。プログラムは多くのことを行いますが、簡単に始めることができます。
 
-プログラムには次の4種類があります。
+プログラムには、次の 4 種類があります。
 
 **イベントプログラム**
 
-**[イベ](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** ントには、特定の日時を指定します。Adobe Client Cloudは、ライブイベントとオンラインユーザーを調整、容易に、追跡するのに役立ちます。
+**[イベント](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)**&#x200B;には、特定の日時を指定します。ライブイベントやオンラインイベントの調整、容易化、トラックに役立ちます。
 
 **エンゲージメントプログラム**
 
-**[ドリップ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** ナーチュリングは、定期的なスケジュールで人を育てるのに使われます。
+**[ドリップナーチャリング](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)**&#x200B;は、定期的なスケジュールでリードを育てるために使用されます。
 
 **メールプログラム**
 
-**[従来のメールブラスト](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**。 A/Bテストや&#x200B;**[電子メールヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**&#x200B;など、組み込みの機能が組み込まれています。
+**[従来のメールブラスト](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**。A/B テストや&#x200B;**[メールヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**&#x200B;など、素晴らしい組み込み機能を備えています。
 
-**デフォルトのプログラム**
+**デフォルトプログラム**
 
-デフォルトのプログラムは、イベント、アクション、電子メールプログラム以外の任意のです。 クリエイティブに。
+デフォルトプログラムとは、イベント、エンゲージメント、メールプログラム以外のものです。クリエイティブになりましょう。
 
-さあ始めましょう！ 
+さあ始めましょう。
 
 >[!MORELIKETHIS]
 >
 >* [プログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
->* [プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+* [タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
+* [プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
