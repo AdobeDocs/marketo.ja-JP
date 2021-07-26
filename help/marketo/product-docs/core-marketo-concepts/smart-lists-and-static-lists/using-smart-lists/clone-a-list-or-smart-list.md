@@ -1,34 +1,33 @@
 ---
 unique-page-id: 557320
-description: リストまたはスマートリストのコピー —Marketoドキュメント — 製品ドキュメント
-title: リストまたはスマートリストのコピー
+description: リストまたはスマートリストの複製 - Marketo ドキュメント - 製品ドキュメント
+title: リストまたはスマートリストの複製
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# リストまたはスマートリストのコピー{#clone-a-list-or-smart-list}
+# リストまたはスマートリストの複製 {#clone-a-list-or-smart-list}
 
-スマートリストを一から作成する代わりに、同様の画像をコピーして変更を加えることで、時間を節約できます。 これが方法です。
+新規のスマートリストを一から作成する代わりに、既存のリストを複製し、内容を変更して使用することで、時間を節約できます。ここでは、その方法を説明します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」エリアに移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. コピーするスマートリストを選択します。
+1. 複製するスマートリストを選択します。
 
    ![](assets/smartlist-find.png)
 
-1. 「**リストアクション**」で、「**スマートリストのコピー**」をクリックします。
+1. 「**リストアクション**」で「**スマートリストの複製**」をクリックします。
 
    ![](assets/clonesmartlist-hands.png)
 
-1. **名前**&#x200B;を入力し、**クローン**&#x200B;をクリックします。
+1. **名前**&#x200B;を入力して「**複製**」をクリックします。
 
    ![](assets/supersmartlist-clonewindow.png)
 
-いい仕事！ 同様に、正規リストをコピーすることもできます。
+できましたね。通常のリストも同じ方法で複製できます。
