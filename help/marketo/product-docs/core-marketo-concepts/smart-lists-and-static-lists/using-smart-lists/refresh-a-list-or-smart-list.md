@@ -1,34 +1,33 @@
 ---
 unique-page-id: 557318
-description: リストまたはスマートリストの更新 —Marketoドキュメント — 製品ドキュメント
+description: リストまたはスマートリストの更新 - Marketo ドキュメント - 製品ドキュメント
 title: リストまたはスマートリストの更新
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# リストまたはスマートリストの更新{#refresh-a-list-or-smart-list}
+# リストまたはスマートリストの更新 {#refresh-a-list-or-smart-list}
 
-スマートリストを実行してから数分が経過した場合は、結果が今は異なる場合があります。更新して確認してください。
+スマートリストを実行してから数分が経過している場合、結果が変わっている可能性があるため、更新して確認します。
 
-## 結果を更新{#refresh-results}
+## 結果の更新 {#refresh-results}
 
-1. スマートリストの&#x200B;**「ユーザー**」タブのデータを更新するには、更新アイコンをクリックします。
+1. スマートリストの「**リード**」タブで、古くなっている可能性があるデータを参照している状態で更新ボタンをクリックします。
 
    ![](assets/refreshbutton.png)
 
-1. スマートリストが再実行され、より最新の結果セットが表示されます。
+1. スマートリストが再実行され、より新しい結果が表示されます。
 
    ![](assets/loadingrefresh.png)
 
 >[!TIP]
 >
->スマートリストを実行して後で戻ってきたときに、右下隅の人数の前に「説明」という単語が表示されることがあります。 これは、数がおおよその数であることを示しています。数自体をクリックして更新し、更新された正確な数を取得します。
+>件数を更新するスマートリストを実行し、後で再び表示すると、右下のリード数の前に「◆約◆」と表示されていることがあります。件数を更新するには、件数の表示そのものをクリックします。最新の正確な件数が表示されます。
 
 >[!MORELIKETHIS]
+[リストまたはスマートリストからリードを Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)>
 >
->[リストまたはスマートリストからExcelにユーザーをエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
