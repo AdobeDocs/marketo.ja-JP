@@ -1,42 +1,41 @@
 ---
 unique-page-id: 1147060
-description: 定期バッチキャンペーンの実行のキャンセル —Marketoドキュメント — 製品ドキュメント
-title: 定期バッチキャンペーンの実行の取消
+description: 繰り返し予定されているバッチキャンペーンの実行のキャンセル - Marketo ドキュメント - 製品ドキュメント
+title: 繰り返し予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 定期バッチキャンペーンの実行のキャンセル{#cancel-a-scheduled-recurring-batch-campaign-run}
+# 繰り返し予定されているバッチキャンペーンの実行のキャンセル {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-これ以上必要のない定期バッチキャンペーンがある場合は、今後の実行をキャンセルできます。 これが方法です。
+不要な繰り返しバッチキャンペーンがある場合は、以降の実行をキャンセルできます。ここでは、その方法を説明します。
 
 1. スマートキャンペーンをクリックし、「**スケジュール**」タブをクリックします。
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. [**繰り返しのスケジュール**]をクリックします。
+1. 「**繰り返しのスケジュール**」をクリックします。
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >横の![赤いx](assets/image2014-9-22-16-3a45-3a42.png)をクリックすると、1回の実行をキャンセルできます。 スケジュールされたバッチキャンペーンを[キャンセルする方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)を説明します。
+   >横の赤い「![x](assets/image2014-9-22-16-3a45-3a42.png)」をクリックして、1 回の実行をキャンセルできます。[予定されているバッチキャンペーンの実行をキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)する方法を説明します。
 
-1. スケジュールを&#x200B;**なし**&#x200B;に設定し、次に&#x200B;**保存**&#x200B;に設定します。
+1. 「スケジュール」を「**なし**」に設定してから、「**保存**」に設定します。
 
    ![](assets/image2014-9-22-16-3a45-3a56.png)
 
-   よし！ スマートキャンペーンは、もう実行されません。
+   これで完成です。スマートキャンペーンは実行されなくなります。
 
    >[!CAUTION]
    >
-   >これにより、今後の実行がキャンセルされますが、スマートキャンペーンが実行中の場合はキャンセルできません。
+   >これにより、以降の実行がキャンセルされますが、スマートキャンペーンの実行中はキャンセルできません。
 
    >[!MORELIKETHIS]
+[予定されているバッチキャンペーンの実行のキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)>
    >
-   >[スケジュール済バッチキャンペーンの実行の取り消し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
