@@ -1,10 +1,10 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
-ht-degree: 2%
+source-wordcount: '974'
+ht-degree: 3%
 
 ---
 
@@ -14,15 +14,13 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->星(![](assets/yellow-star.png))で示される機能は有料アドオンです。 詳しくは、AdobeMarketo Engage担当者にお問い合わせください。
+>星印（![](assets/yellow-star.png)）がついている機能は有償オプションになります。詳しくは、AdobeMarketo Engage担当者にお問い合わせください。
 
-**_四半期別リリース_**
+**_四半期リリース_**
 
 次の機能は、2021年8月20日にリリースされます。****
 
 ## Adobe Experience Platform統合 {#adobe-experience-platform-integration}
-
-* **オーディエンスをMarketo Engageに共有するためのネイティブAdobe Experience Platformコネクタ**:ネイティブの宛先コネクタを介してAdobe Experience Cloudで作成されたオーディエンスセグメントに対して、Marketo Engageでのマルチチャネルキャンペーンオーケストレーションを有効にします。コネクタは、Eメールアドレスを使用してAdobe Experience PlatformプロファイルをMarketo Engageリードプロファイルと照合するので、アプリケーション間での非常に正確なセグメント共有が可能になります。 静的なMarketo Engageリストが自動的に作成され、マーケターは、高度にパーソナライズされたメッセージを使用してターゲットオーディエンスにリーチしたり、ワークフローを開始したりできます。 アカウントとオポチュニティのコンテキスト、より完全でリアルタイムのデータをExperience Platformで活用して、ユーザーオーディエンスをアクティブ化します。
 
 * **Marketo EngageIDを使用したAdobeユーザー認証**:2021年9月より、Enterpriseパッケージを持つ新しいMarketo Engageユーザーは、Adobe IDのユーザー資格情報を使用してオンボーディングされます。統合IDシステムへの現在のユーザーの移行は、2022年半ばまでおこなわれず、追加の通知がおこなわれるまでは、何の操作も必要ありません。 AdobeIDExperience Cloudを使用すると、IT/セキュリティ管理者は、他のユーザーソリューションと共に複数のMarketo Engage製品インスタンスを管理し、共通のコンソールを使用してSSOを設定できます。 管理者は、ユーザーグループとユーザー使用権限を1か所で管理できます。
 
@@ -53,13 +51,13 @@ ht-degree: 2%
 
 ## Sales Insight {#sales-insight}
 
-![（星）](assets/yellow-star.png)
+![（星印）](assets/yellow-star.png)
 
 * **Salesforce CRMユーザー向けのリード、連絡先、アカウント、オポチュニティのアクティビティの可視性の向上**:Sales Insightのエンゲージメントレコード数が増加し、長い販売サイクルの間の見込み客とのエンゲージメントに関する情報が得られます。興味深い瞬間、Webアクティビティ、Eメール、スコアの各タブには、リード、連絡先、アカウント、オポチュニティの各オブジェクトにわたる最大400個のアクティビティが表示されます。
 
 ## Sales Connect {#sales-connect}
 
-![（星）](assets/yellow-star.png)
+![（星印）](assets/yellow-star.png)
 
 * **Eメール接続のスロットリング(GA)**:Sales Connectの電子メール接続のスロットリングを使用して、電子メールの配信品質を向上し、パーソナライズされた販売コミュニケーションを拡大/縮小します。この新しいテクノロジーは、Eメールの送信タイミングを自動的に管理し、ExchangeおよびGmailユーザーに対してシームレスなエクスペリエンスを作成します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか、減らすか、減らすと、Sales Connectから確実にすべての電子メールを送信できます。
 
