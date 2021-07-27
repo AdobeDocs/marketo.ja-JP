@@ -1,40 +1,39 @@
 ---
 unique-page-id: 1147237
-description: 期間コスト —Marketoドキュメント —プログラムドキュメントで製品レポートをフィルター
-title: 期間コストによるプログラムレポートのフィルタリング
+description: プログラムレポートを期間原価でフィルター - Marketo ドキュメント - 製品ドキュメント
+title: プログラムレポートを期間原価でフィルター
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 期間コストでプログラムレポートをフィルター{#filter-a-program-report-by-period-cost}
+# プログラムレポートを期間原価でフィルター {#filter-a-program-report-by-period-cost}
 
-[プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を、特定の期間のコスト枠に絞り込みます。
+[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定の期間の期間原価に絞り込みます。
 
-1. **マーケティングアクティビティ**（または&#x200B;**Analytics**）に移動します。
+1. 「**マーケティングアクティビティ**」（または「**分析**」）に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. プログラムのパフォーマンスレポートを選択します。
+1. プログラム効果レポートを選択します。
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. 「**セットアップ**」タブをクリックし、「**期間コスト**」上にドラッグします。
+1. 「**セットアップ**」タブをクリックし、「**期間原価**」の上にドラッグします。
 
    ![](assets/lm-86194-1.png)
 
-1. 「**開始日**」と「**終了日**」に発生費用の日付を入力し、「**適用**」をクリックします。
+1. 発生したコストの&#x200B;**開始日**&#x200B;と&#x200B;**終了日**&#x200B;を入力し、「**適用**」をクリックします。
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 終わった！ 「**レポート**」タブをクリックすると、指定した期間のコスト期間内のプログラムのみが表示されます。
+1. 完了です。「**レポート**」タブをクリックすると、指定した期間原価の期間に該当するプログラムのみが表示されます。
 
    ![](assets/lm-86194-report-tab.png)
 
    >[!NOTE]
+[プログラムレポートをプログラムでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)>
    >
-   >[プログラムによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
