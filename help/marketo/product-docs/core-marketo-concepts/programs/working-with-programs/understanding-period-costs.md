@@ -1,70 +1,66 @@
 ---
 unique-page-id: 7504676
-description: 期間原価について —Marketoドキュメント — 製品ドキュメント
-title: 期間原価の理解
+description: 期間原価について - Marketo ドキュメント - 製品ドキュメント
+title: 期間原価について
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 期間のコストについて{#understanding-period-costs}
+# 期間原価について {#understanding-period-costs}
 
 ## 概要 {#overview}
 
-期間のコストとは、あるプログラムに対して特定の月に費やした費用のことです。
+期間原価とは、ある特定の月にプログラムのために費やしたコストのことです。
 
 >[!NOTE]
 >
 >**例**
 >
->7月に開始するeBookのイラストレータを1,000ドルで雇用すると、eBookプログラムの期間コストは7月に1,000ドルになります。
+>7 月に公開する eBook 用のイラストレーターに 1000 ドルを支払ったとします。この場合、この eBook プログラムの 7 月の期間原価は 1000 ドルとなります。
 >
->Google Adwordsで1か月に$200を費やすと、Google Adwordsプログラムの期間コストは$200 **毎月**&#x200B;となります。
+>また Google Adwords に 1 か月 200 ドルを費やしている場合、この Google Adwords プログラムの期間原価は&#x200B;**毎月** 200 ドルです。
 
 >[!NOTE]
+[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)>
 >
->[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
-## 期間のコストの計算方法{#how-period-costs-are-calculated}
+## 期間原価の計算方法 {#how-period-costs-are-calculated}
 
-例えば3月にウェビナーが起きるイベントを想像してみて下さい 1月と2月の広告では、あらかじめ新しい人材が獲得される。 4月と5月にウェビナーをダウンロードした場合、イベント後に新しい連絡先も取得されます。
+ここでは 3 月に開催されるウェビナーを例に考えてみましょう。新規リードは事前の 1 月と 2 月の宣伝によって獲得されます。またイベント後の 4 月と 5 月にも、ウェビナーのダウンロードを通じて新規連絡先が獲得されます。
 
-1. 3月に起因する単一期間のコストで…
+1. 期間原価を 3 月の 1 期間に計上した場合…
 
    ![](assets/graph1.png)
 
-   ...前後の月に追加された連絡先は、3月に対して&#x200B;*のみ*&#x200B;カウントされます。
+   …その前と後の月に獲得された連絡先&#x200B;*のみ*&#x200B;が 3 月分に計上されます。
 
    ![](assets/graph2.png)
 
-1. 1月、2月、3月に分類される期間コストを含む場合…
+1. 1 月、2 月、3 月に期間原価を計上した場合…
 
    ![](assets/graph3.png)
 
-   ...3月以降の数か月に追加された連絡先は、3月に対してカウントされます。
+   …3 月以降に獲得された連絡先のみが 3 月分に計上されます。
 
    ![](assets/graph4.png)
 
-1. 1月と4月の期間原価が原因で…
+1. 1 月と 4 月に期間原価を計上した場合…
 
    ![](assets/graph5.png)
 
-   ...1月から3月に追加された取引先は、1月にカウントされます。 4月と5月に追加された取引先は、4月にカウントされる。
+   ...1 月から 3 月に追加された連絡先は、1 月分に計上されます。…4 月と 5 月に追加した連絡先は、4 月分に計上されます。
 
    ![](assets/graph6.png)
 
    >[!NOTE]
-   >
-   >要約すると、期間コストが定義されていない月は、最後に定義された月に「後ろ向き」に移動します。 前期間の原価がない場合、月は、定義済の次の月に「転送」されます。 期間のコストが&#x200B;_いずれか_&#x200B;か月に対して定義されていない場合、RCEのレポートはプログラムに対して使用できません。
+   まとめ：期間原価のない月分は、期間原価の計上された直前の月にさかのぼって計上されます。もしそれ以前に期間原価のある月が存在しなければ、その月以降で最初に期間原価が計上された月に繰り越して計上されます。期間原価が&#x200B;_どの_&#x200B;月にも計上されていない場合、そのプログラムの RCE レポートは利用できません。
 
    >[!MORELIKETHIS]
-   >
-   >* [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [期間コストによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   * [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   * [プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
