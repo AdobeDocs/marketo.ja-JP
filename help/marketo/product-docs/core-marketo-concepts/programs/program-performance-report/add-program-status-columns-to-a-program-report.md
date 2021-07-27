@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1147239
-description: プログラムレポートの追加プログラムステータス列 —Marketoドキュメント — 製品ドキュメント
-title: プログラム追加ステータス列とプログラムレポート
+description: プログラムレポートへのプログラムステータス列の追加 - Marketo ドキュメント - 製品ドキュメント
+title: プログラムレポートへのプログラムステータス列の追加
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プログラム追加ステータス列からプログラムレポート{#add-program-status-columns-to-a-program-report}
+# プログラムレポートへのプログラムステータス列の追加 {#add-program-status-columns-to-a-program-report}
 
-[プログラムのパフォーマンスレポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)へのプログラムステータスに関する追加統計です。
+[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)にプログラムステータスに関する統計を追加しましょう。
 
-1. 「マーケティングアクティビティ（またはAnalytics）」に移動します。
+1. マーケティングアクティビティ（または分析）エリアに移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,30 +22,30 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 「**セットアップ**」タブをクリックし、チャネルタグの上にドラッグします。
+1. 「**セットアップ**」タブをクリックして、「チャネル」タグをドラッグします。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. フィルタに使用するチャネルを選択します。
+1. フィルターするチャネルを 1 つ選択します。
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >プログラムステータス列を表示するには、レポートを&#x200B;_1つの_&#x200B;チャネルでフィルタする必要があります。
+   >プログラムステータス列を表示するには、チャネル _1 つのみ_&#x200B;でレポートをフィルターする必要があります。
 
-1. [プログラムステータス列を表示する]オプションをオンにします。 「**適用**」をクリックします。
+1. 「プログラムステータス列を表示」オプションにチェックを入れます。次に「**適用**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. やった！ [レポート]タブをクリックすると、レポートの[プログラムステータス]列が表示されます。
+1. これで完了です。「レポート」タブをクリックすると、レポートにプログラムステータス列が表示されています。
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->プログラムに各ステータスの列が表示されない場合は、[選択した列がレポートに](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)と表示されていることを確認してください。
+>プログラムの各ステータスの列が表示されない場合は、レポートに[表示する列を選択したこと](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)を確認してください。
 
 >[!MORELIKETHIS]
+[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)>
 >
->[タグによるプログラムレポートのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
