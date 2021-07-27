@@ -1,59 +1,58 @@
 ---
 unique-page-id: 1147122
-description: 管理および表示メンバー —Marketoドキュメント — 製品ドキュメント
-title: メンバーの管理と表示
+description: メンバーの管理および表示 - Marketo ドキュメント - 製品ドキュメント
+title: メンバーの管理および表示
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 管理および表示メンバ{#manage-and-view-members}
+# メンバーの管理および表示 {#manage-and-view-members}
 
-「メンバー」タブを使用して、プログラムでメンバーを管理および表示できます。
+プログラムのメンバーは、「メンバー」タブで管理・表示できます。
 
 >[!NOTE]
 >
->[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)を詳しく調べます。
+>[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)についてさらに深く学びましょう。
 
-## メンバの検索{#search-for-a-member}
+## メンバーの検索 {#search-for-a-member}
 
-「Members」セクションの下部にある検索フィールドを使用して、名前、電子メール、肩書または会社でプログラムメンバーを検索します。
+「メンバー」タブの下部にある「検索」フィールドでは、プログラムのメンバーを名前、メール、職位、企業から検索できます。
 
-1. プログラムーの&#x200B;**「Members**」タブをクリックします。
+1. プログラムの「**メンバー**」タブをクリックして移動します。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
-1. 検索フィールドを使用して、メンバーのリストを検索します。
+1. 検索フィールドからメンバーのリストを検索します。
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## メンバー・グリッドのエクスポート{#export-the-members-grid}
+## メンバーグリッドのエクスポート {#export-the-members-grid}
 
-検索フィールドの横にあるExcelアイコンをクリックして、メンバーリストをエクスポートできます。
+検索フィールドの横の Excel アイコンをクリックすると、プログラムのメンバーリストをエクスポートできます。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
-## メンバー・グリッドの列の管理{#manage-columns-in-the-members-grid}
+## メンバーグリッドの列の管理 {#manage-columns-in-the-members-grid}
 
-列の順序を変更するには、列をドラッグ&amp;ドロップします。 青い矢印のペアは、列の移動先を示します。
+列をドラッグ＆ドロップすると、列の並び順を変更できます。青の矢印は列の移動先を示します。
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-列見出しを右クリックして、アルファベット順（昇順または降順）に並べ替えます。
+列ヘッダーを右クリックすると、アルファベット順（昇順または降順）でソートできます。
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## グリッドに表示する列を選択{#choose-which-columns-are-visible-in-the-grid}
+## グリッドに表示する列の選択 {#choose-which-columns-are-visible-in-the-grid}
 
-1. **表示**&#x200B;ドロップダウンをクリックし、「**表示を作成**」を選択します。
+1. 「**表示**」ドロップダウンをクリックして、「**表示の作成**」を選択します。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. カスタム表示に名前を付けます。 列タイトルを選択します。 **追加**&#x200B;と&#x200B;**削除**&#x200B;をクリックして、列を移動し、表示を作成します。
+1. カスタム表示に名前を付けます。列タイトルを選択します。列タイトルを選択し、「**追加**」または「**削除**」をクリックして表示を作成します。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -61,30 +60,30 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## メンバー・グリッドのフィルタ{#filter-the-members-grid}
+## メンバーグリッドへのフィルターの適用  {#filter-the-members-grid}
 
-1. **フィルター**&#x200B;ドロップダウンをクリックし、並べ替えの基準となる進行手順を選択します。
+1. 「**フィルター**」ドロップダウンを選択して、並び替えする進行状況ステップを選択します。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## メンバー・グリッドの個人ステータスの管理{#manage-person-status-in-the-members-grid}
+## メンバーグリッドのリードステータスの管理 {#manage-person-status-in-the-members-grid}
 
-メンバーグリッド内でユーザーのステータスを変更できます。
+メンバーグリッド内のリードのステータスを変更できます。
 
-1. **Ctrl/Cmd**&#x200B;キーを押しながら人を選択します。
+1. **Ctrl/Cmd** キーを押しながらリードを選択します。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. **ステータスの変更**&#x200B;ドロップダウンをクリックし、ステータスを選択します。
+1. 「**ステータスの変更**」ドロップダウンをクリックして、ステータスを選択します。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   これには少し時間がかかるかもしれません。 完了すると、以下のメッセージが表示されます。
+   少し時間がかかる場合があります。このメッセージが表示されたら変更完了です。
 
    ![](assets/changestatusconfirm.png)
 
-多くの特徴はありますが全てとても単刀直入です 楽しんで！
+機能は様々ですが、どれも簡単に使えるものばかりです。お試しください。
 
 >[!MORELIKETHIS]
+[プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)>
 >
->[プログラムパフォーマンスレポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
