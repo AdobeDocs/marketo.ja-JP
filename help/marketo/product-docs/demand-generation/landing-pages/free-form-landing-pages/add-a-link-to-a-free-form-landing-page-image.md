@@ -1,34 +1,32 @@
 ---
 unique-page-id: 2359736
-description: フリ追加ーフォームランディングページ画像 —Marketoドキュメント — 製品ドキュメントへのリンク
-title: フリ追加ーフォームのランディングページ画像へのリンク
+description: フリーフォームランディングページ画像へのリンクの追加 - Marketo ドキュメント - 製品ドキュメント
+title: フリーフォームランディングページ画像へのリンクの追加
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# フリ追加ーフォームランディングページ画像へのリンク{#add-a-link-to-a-free-form-landing-page-image}
+# フリーフォームランディングページ画像へのリンクの追加 {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
+[フリーフォームランディングページへの画像の追加](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)>
 >
->[フ追加リーフォームランディングページへの画像](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
->
->これはフリーフォームランディングページにのみ適用されます。
+これが該当するのは、フリーフォームランディングページだけです。
 
-1. ランディングページに追加した画像を選択し、**プロパティシートを展開します。**
+1. ランディングページに追加した画像を選択し、**プロパティシート**&#x200B;を展開します。
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 「**リンクURL」にmailtoリンクを入力します。**
+1. 「**リンク URL**」に mailto リンクを入力します。
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   すばらしい！ これで、Marketoランディングページにメールトックリンクの画像が表示されます。
+   これで完了です。Marketo ランディングページの画像に mailto リンクが設定されました。
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
