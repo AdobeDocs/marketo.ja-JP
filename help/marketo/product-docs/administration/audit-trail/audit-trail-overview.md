@@ -1,76 +1,75 @@
 ---
 unique-page-id: 11377945
-description: 監査証跡の概要 —Marketoドキュメント — 製品ドキュメント
+description: 監査証跡の概要 - Marketo ドキュメント - 製品ドキュメント
 title: 監査証跡の概要
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 監査証跡の概要{#audit-trail-overview}
+# 監査証跡の概要 {#audit-trail-overview}
 
-監査証跡を使用すると、Marketo・インスタンス内で行われた変更の完全な履歴（6ヶ月分の値）を取得できます。
+監査証跡は、Marketo インスタンスで行った変更の詳細な履歴（6 か月分）を取得する機能です。
 
 >[!NOTE]
 >
->監査証跡データ履歴は、2016年9月14日から開始されました。
+>監査証跡のデータ履歴は、2016 年 9 月 14 日（PT）に始まります。
 
 ![](assets/one.png)
 
-## 監査証跡とは{#what-is-audit-trail}
+## 監査証跡とは {#what-is-audit-trail}
 
-監査証跡は、Marketo購読内で発生するアクションとイベントの包括的なリストをリアルタイムでキャプチャします。 6か月のデータ履歴にアクセスして次のような質問に答えるセルフサービスを提供します。
+監査証跡は、Marketo サブスクリプションで発生するアクションとイベントの総合的なリストをリアルタイムで取得します。セルフサービス方式で、6 か月の履歴データにアクセスし、以下のような質問に答えることに役立ちます。
 
-このアセットまたは設定はどうなりましたか。また、最後に更新したのは誰ですか。
+このアセットまたは設定に何が起きたか、最後に更新したのは誰か。
 
-Xが何を企んでいるか
+ユーザー X は何をしているか。
 
-アカウントにログインしているユーザー
+アカウントにログインしているのは誰か。
 
-## 監査対象{#what-we-audit}
+## 監査の対象 {#what-we-audit}
 
-Marketoは、[create, edit, and delete](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)アクションを監査します。
+Marketo は、次のものについて[作成、編集、削除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)のアクションを監査します。
 
-* Design Studioアセット
-* 全Marketoプログラム
+* デザインスタジオのアセット
+* すべての Marketo プログラム
 * スマートキャンペーン
-* リスト（スマート/静的）
-* ユーザー(admin)
-* ロールと権限(admin)
-* ワークスペースとパーティション(admin)
+* リスト（スマート／静的）
+* ユーザー（管理）
+* 役割と権限（管理）
+* ワークスペースとパーティション（管理）
 * ユーザーログイン履歴
 
 >[!NOTE]
 >
->現在、Marketoは、Webパーソナライゼーション、予測コンテンツ、Sales Insight内で行われた監査の変更は&#x200B;_行われません_。
+>Marketo は、現時点で web パーソナライズ機能、予測コンテンツ、Sales Insight 内で行われた変更を監査するのには&#x200B;_役立ちません_。
 
-## 監査証跡コンポーネント{#audit-trail-components}
+## 監査証跡のコンポーネント {#audit-trail-components}
 
-監査証跡は、3つのコンポーネントで構成されます。
+監査証跡は、次の 3 つのコンポーネントで構成されます。
 
-**(1) [資産監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [アセット監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
-特定のアセットに対するアクティビティの実行を参照してください。
+特定のアセットに対して実行されたアクティビティを確認します。
 
-**2) [管理監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**2）[管理監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 ユーザーベースの詳細を監視します。
 
-**3) [ユーザログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3）[ユーザーログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-購読にログインしているユーザーとログインしているタイミングを確認する。 失敗したログイン試行も含まれます。
+自分のサブスクリプションに誰が、いつログインしたのかを確認します。ログイン試行の失敗も含まれます。
 
 >[!TIP]
 >
->監査証跡を使用して監査できる量は非常に多いので、[フィルタ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を必ず利用してください。
+>監査証跡を使って監査できることはたくさんあります。必ず[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を使用してください。
 
 ## データのエクスポート {#exporting-data}
 
-インスタンスでは、30日分のデータのみを表示できます。 6か月分の値を取得するには、エクスポートオプションを使用します。
+表示できるのは、インスタンスの 30 日分のデータだけです。最大で 6 か月分のデータを取得するには、エクスポートオプションを使用してください。
 
 ![](assets/two.png)
 
@@ -78,8 +77,8 @@ Marketoは、[create, edit, and delete](/help/marketo/product-docs/administratio
 >
 >**定義**
 >
->**不明：監査証跡** に、ユーザーの名前と電子メールが「不明」と表示される場合があります。これは、CRMの選択リストの値を変更した場合に発生します。 これらの値は、Marketoのフォームおよびランディングページに表示されます。 CRM側でこの更新を行うと、フォームを参照するランディングページが自動ドラフトされます。 監査証跡では、ランディングページがドラフトされたことをキャプチャしますが、CRM側からユーザー情報を取り込めないので、ユーザーの名前と電子メールには「不明」と表示されます。
+>**不明**：監査記録に、ユーザーの名前とメールが「不明」と表示される場合があります。これは、CRM の選択リスト値を変更すると発生します。これらの値は、Marketo フォームとランディングページに表示されます。CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフト化されます。監査記録では、ランディングページが作成されたことを捕捉しますが、CRM 側からユーザー情報を取り込めないので、ユーザー名とメールは「不明」と表示されます。
 
 >[!MORELIKETHIS]
+[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)>
 >
->[監査証跡の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
