@@ -1,27 +1,26 @@
 ---
 unique-page-id: 37355569
-description: プログラムメンバのカスタムフィールド —Marketoドキュメント — 製品ドキュメント
-title: プログラムメンバのカスタムフィールド
+description: プログラムメンバーカスタムフィールド - Marketo ドキュメント - 製品ドキュメント
+title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '382'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# プログラムメンバのカスタムフィールド{#program-member-custom-fields}
+# プログラムメンバーカスタムフィールド {#program-member-custom-fields}
 
-プログラムメンバのカスタムフィールドを使用すると、各メンバのプログラム固有のデータを収集できます。 これらは、次の場所で使用できます。Marketoフォーム、スマートリストフィルターおよびトリガー、スマートキャンペーンフローアクション。 データは、プログラムの「メンバー」タブで表示できます。
+プログラムメンバーカスタムフィールドを使用すると、各メンバーのプログラム固有のデータを収集することができます。このフィールドは、Marketo フォーム、スマートリストのフィルターとトリガー、スマートキャンペーンのフローアクションで使用できます。データは、プログラムの「メンバー」タブで確認できます。
 
 >[!NOTE]
 >
->現時点では、プログラムメンバのカスタムフィールドは、Salesforceキャンペーンメンバのフィールドとの統合を備えていません。
+>現時点では、プログラムメンバーカスタムフィールドは、Salesforce キャンペーンメンバーフィールドと連携されていません。
 
-## プログラムメンバのカスタムフィールドの作成{#create-a-program-member-custom-field}
+## プログラムメンバーカスタムフィールドの作成 {#create-a-program-member-custom-field}
 
-1. Marketoで、**管理者**&#x200B;をクリックします。
+1. Marketo で、「**管理**」をクリックします。
 
    ![](assets/one.png)
 
@@ -29,7 +28,7 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. 「**新しいカスタムフィールド**」をクリックします。
+1. 「**新規カスタムフィールド**」をクリックします。
 
    ![](assets/three.png)
 
@@ -39,7 +38,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >[個人]と[プログラムメンバ]のカスタムフィールドは、同じ名前を共有できません。
+   >リードとプログラムメンバーのカスタムフィールドは、同じ名前を共有できません。
 
 1. 残りのフィールドに入力し、「**作成**」をクリックします。
 
@@ -47,33 +46,33 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >プログラムメンバのカスタムフィールドでサポートされる型は次のとおりです。boolean、date、datetime、float、integer、string、URL。 [フィールドの種類の詳細を表示します](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
+   >プログラムメンバーカスタムフィールドでサポートされている型は、boolean（ブール値）、date（日）、datetime（日時）、float（浮動小数点数）、integer（整数）、string（文字列）、URL です。[フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)。
 
-## オブジェクトの説明{#object-descriptions}
+## オブジェクトの詳細 {#object-descriptions}
 
-| オブジェクト | 詳細 |
+| オブジェクト | 説明 |
 |---|---|
-| 企業 | 個人に関連付けられている会社の名前。 |
-| 商談 | オポチュニティは、将来の潜在的なセールとして個人またはアカウントに関連付けることができます。 通常、CRM経由またはAPI経由でMarketoに入ります。 |
-| 担当者 | マーケティングキャンペーンを通じて関与しているMarketoデータベースの個人。 |
-| プログラムメンバー | プログラムの一員である者 |
+| 企業 | リードに紐付いている企業名 |
+| 商談 | 商談は、潜在的な将来の販売として個人またはアカウントに関連付けることができます。通常、CRM 経由または API 経由で Marketo に入ります。 |
+| リード | マーケティングキャンペーンを実施している Marketo データベース内の個人。 |
+| プログラムメンバー | プログラムに参加しているリード |
 
-## トリガーとフィルター{#triggers-and-filters}
+## トリガーとフィルター {#triggers-and-filters}
 
-[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)や[フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)を介して、スマートリストでこのプログラム固有のデータを活用できます。
+このプログラム固有のデータは、[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)や[フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)を使ってスマートリストで活用することができます。
 
 ![](assets/six.png)
 
-## {#things-to-know}の知り合い
+## 留意事項 {#things-to-know}
 
-* プログラムメンバーのカスタムフィールドは、ローカルアセットでのみ使用できます。 特定のプログラムに関連付ける方法がないので、Design Studioではサポートされません。
-* プログラムメンバーカスタムフィールドを含むフォーム(またはフォームを含むランディングページ)をDesign Studioにコピーまたは移動することはできません。
-* プログラムメンバオブジェクトには、最大20個のカスタムフィールドを含めることができます。 これらのフィールドは、どのプログラムでも使用できます。
-* プログラムのメンバを削除すると、そのユーザの[プログラムメンバ]カスタムフィールドにデータがある場合、そのフィールドからデータがスクラブされます。
-* データを表示するには、プログラムの「Members」タブをクリックし、該当するフィールドを含むカスタム表示を作成します。
-* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と[API](https://developers.marketo.com/)を介した読み込みと書き出しがサポートされています。
-* 2人のユーザーを結合すると、推奨結果のプログラムメンバーのカスタムフィールドデータが使用されます。 ただし、勝者に何もない場合は、敗者の値が使用されます。
+* プログラムメンバーカスタムフィールドは、ローカルアセットでのみ利用可能です。特定のプログラムに結びつけることができないため、デザインスタジオではサポートされていません。
+* プログラムメンバーカスタムフィールドを含むフォーム（またはフォームを持つランディングページ）をデザインスタジオにクローン／移動することはできません。
+* プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
+* プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
+* データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
+* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と [API](https://developers.marketo.com/) によるインポートとエクスポートが可能です。
+* 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 
 >[!MORELIKETHIS]
+[Marketo でのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)>
 >
->[Marketoでカスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
