@@ -27,5 +27,6 @@ ht-degree: 100%
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
-[スケジュール表示からのプログラム全体の再スケジュール](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)>
+>
+>[スケジュール表示からのプログラム全体の再スケジュール](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)>
 >

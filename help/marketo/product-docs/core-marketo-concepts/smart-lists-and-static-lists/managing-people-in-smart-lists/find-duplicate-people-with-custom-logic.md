@@ -15,7 +15,8 @@ ht-degree: 100%
 Marketo には、メールアドレスを照合して重複するリードを見つけるシステムスマートリストがあります。別のフィールドを使用して重複を検索する方法を次に示します。
 
 >[!PREREQUISITES]
-[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
+>
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
 >
 
 1. 「**マーケティングアクティビティ**」エリアに移動します。
@@ -38,7 +39,8 @@ Marketo には、メールアドレスを照合して重複するリードを見
    * 更新時刻
 
    >[!NOTE]
-   「メールアドレス」を除くすべてのフィールドでは、大文字と小文字が区別されます。したがって、「姓名」フィールドに「john doe」と入力すると、「John Doe」は結果に&#x200B;_返されません_。
+   >
+   >「メールアドレス」を除くすべてのフィールドでは、大文字と小文字が区別されます。したがって、「姓名」フィールドに「john doe」と入力すると、「John Doe」は結果に&#x200B;_返されません_。
 
    ![](assets/four-2.png)
 

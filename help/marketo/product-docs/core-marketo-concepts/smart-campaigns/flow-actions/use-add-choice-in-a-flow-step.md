@@ -13,7 +13,8 @@ ht-degree: 100%
 # フローステップでの「選択肢を追加」の使用 {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
-[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)>
+>
+>[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)>
 >
 
 「**選択肢を追加**」を使用すると、フローステップで「条件に応じた」詳細の選択が可能になります。
@@ -35,19 +36,23 @@ ht-degree: 100%
    ![](assets/image2014-9-22-11-3a58-3a57.png)
 
    >[!CAUTION]
-   選択肢のフローステップの条件部分では、トークンは正しく&#x200B;**機能しません**。
+   >
+   >選択肢のフローステップの条件部分では、トークンは正しく&#x200B;**機能しません**。
 
 1. 上記の手順を繰り返して複数の選択肢を追加したら、デフォルト値を追加／調整します。
 
    ![](assets/image2014-9-22-11-3a58-3a59.png)
 
    >[!TIP]
-   その選択肢に対して何も実行したくなければ、フローステップを「--何もしない--」に設定することも可能です。
+   >
+   >その選択肢に対して何も実行したくなければ、フローステップを「--何もしない--」に設定することも可能です。
 
    >[!CAUTION]
-   フローステップに適用されるのは、最初に一致した選択肢だけです。[フローアクションの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)を参照してください。
+   >
+   >フローステップに適用されるのは、最初に一致した選択肢だけです。[フローアクションの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)を参照してください。
 
    これで完了です。選択肢ごとに複数のスマートキャンペーンを作ることなく、フローステップ選択肢を用いた単一のスマートキャンペーンを作成できました。
 
    >[!MORELIKETHIS]
-[フローステップの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
+   >
+   >[フローステップの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)

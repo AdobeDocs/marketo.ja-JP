@@ -49,5 +49,6 @@ ht-degree: 100%
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
-[プログラムスケジュール表示でのカスタムオーバーレイの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)>
+   >
+   >[プログラムスケジュール表示でのカスタムオーバーレイの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)>
    >

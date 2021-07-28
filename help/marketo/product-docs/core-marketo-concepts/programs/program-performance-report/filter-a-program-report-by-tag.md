@@ -39,5 +39,6 @@ ht-degree: 100%
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
-[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)>
+   >
+   >[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)>
    >

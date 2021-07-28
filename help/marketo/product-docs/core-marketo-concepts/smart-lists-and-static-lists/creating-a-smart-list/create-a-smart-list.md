@@ -37,5 +37,6 @@ ht-degree: 100%
    お疲れさまでした。これで、フィルターを追加して定義する準備が整いました。
 
    >[!MORELIKETHIS]
-[フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)>
+   >
+   >[フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)>
    >

@@ -35,5 +35,6 @@ ht-degree: 100%
    ![](assets/lm-86194-report-tab.png)
 
    >[!NOTE]
-[プログラムレポートをプログラムでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)>
+   >
+   >[プログラムレポートをプログラムでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)>
    >

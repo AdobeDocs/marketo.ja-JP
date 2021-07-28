@@ -47,5 +47,6 @@ ht-degree: 100%
 >プログラムの各ステータスの列が表示されない場合は、レポートに[表示する列を選択したこと](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)を確認してください。
 
 >[!MORELIKETHIS]
-[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)>
+>
+>[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)>
 >

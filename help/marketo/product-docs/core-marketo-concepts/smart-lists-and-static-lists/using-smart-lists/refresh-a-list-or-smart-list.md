@@ -29,5 +29,6 @@ ht-degree: 100%
 >件数を更新するスマートリストを実行し、後で再び表示すると、右下のリード数の前に「◆約◆」と表示されていることがあります。件数を更新するには、件数の表示そのものをクリックします。最新の正確な件数が表示されます。
 
 >[!MORELIKETHIS]
-[リストまたはスマートリストからリードを Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)>
+>
+>[リストまたはスマートリストからリードを Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)>
 >

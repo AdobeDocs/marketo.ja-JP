@@ -13,7 +13,8 @@ ht-degree: 100%
 # スマートキャンペーン結果のフィルタリング {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
-[スマートキャンペーンメンバーシップの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)>
+>
+>[スマートキャンペーンメンバーシップの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)>
 >
 
 スマートキャンペーンの結果をフィルタリングして、重要な特定のアクティビティを確認します。
@@ -25,7 +26,8 @@ ht-degree: 100%
    ![](assets/resultsfilter-hands.png)
 
    >[!NOTE]
-   デフォルトでは、フィルターは適用されておらず、結果にすべてのアクティビティが表示されます。
+   >
+   >デフォルトでは、フィルターは適用されておらず、結果にすべてのアクティビティが表示されます。
 
 ## カスタムフィルターの作成 {#create-a-custom-filter}
 
@@ -38,7 +40,8 @@ ht-degree: 100%
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
-   「**適用**」をクリックすると、カスタムフィルターを保存せずに結果に直接適用できます。
+   >
+   >「**適用**」をクリックすると、カスタムフィルターを保存せずに結果に直接適用できます。
 
 1. フィルター名を入力し、「**保存**」をクリックします。
 

@@ -80,5 +80,6 @@ Marketo は、次のものについて[作成、編集、削除](/help/marketo/p
 >**不明**：監査記録に、ユーザーの名前とメールが「不明」と表示される場合があります。これは、CRM の選択リスト値を変更すると発生します。これらの値は、Marketo フォームとランディングページに表示されます。CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフト化されます。監査記録では、ランディングページが作成されたことを捕捉しますが、CRM 側からユーザー情報を取り込めないので、ユーザー名とメールは「不明」と表示されます。
 
 >[!MORELIKETHIS]
-[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)>
+>
+>[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)>
 >

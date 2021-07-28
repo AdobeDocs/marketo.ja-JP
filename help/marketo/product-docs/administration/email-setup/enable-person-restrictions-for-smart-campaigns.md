@@ -49,5 +49,6 @@ Marketo には、スマートキャンペーンの条件を満たすリードの
 これで完了です。安全スイッチを ON にできるのは、いい考えだと思いませんか？
 
 >[!MORELIKETHIS]
-[スマートキャンペーンでのリード制限数の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)>
+>
+>[スマートキャンペーンでのリード制限数の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)>
 >

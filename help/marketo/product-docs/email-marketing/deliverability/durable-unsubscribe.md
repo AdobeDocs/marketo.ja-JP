@@ -57,5 +57,6 @@ SOAP API を介して既存のリードを更新します。
 _updateLeadEmailStatus_ と _resetLeadEmailStatus_ のデータ値変更の定義は、[このコミュニティの記事](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)に記載されています。
 
 >[!MORELIKETHIS]
-[登録解除について](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)>
+>
+>[登録解除について](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)>
 >

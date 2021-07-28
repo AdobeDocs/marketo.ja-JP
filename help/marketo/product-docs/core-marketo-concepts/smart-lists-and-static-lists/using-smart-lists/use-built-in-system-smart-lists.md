@@ -50,5 +50,6 @@ Marketo にはとても便利な組み込み済みのスマートリストがあ
 >システムスマートリストは削除できません。「重複の可能性」リストを除き、編集することもできません。
 
 >[!MORELIKETHIS]
-[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
+>
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
 >

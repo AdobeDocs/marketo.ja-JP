@@ -27,9 +27,8 @@ ht-degree: 100%
    >Salesforce では連絡先をリードのキューに割り当てることはできません。SFDC 連絡先のレコードの場合：
    >
    >1. Marketo は、連絡先が Salesforce に同期された&#x200B;**場合のみ**、リードを重複して作成します。つまり、**[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローステップを `AssignTo=<a lead queue>` と共に使用すると、Marketo は Salesforce で重複したリードを作成し、リードキューに割り当てます。
-      >
-      >
-   1. 連絡先に&#x200B;**所有者を変更**&#x200B;フローステップを使おうとしても、Salesforce で重複が作成されることはありません。
+   >
+   >1. 連絡先に&#x200B;**所有者を変更**&#x200B;フローステップを使おうとしても、Salesforce で重複が作成されることはありません。
 
 
    >[!NOTE]

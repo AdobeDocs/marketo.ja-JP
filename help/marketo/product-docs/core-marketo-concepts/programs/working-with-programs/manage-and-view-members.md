@@ -85,5 +85,6 @@ ht-degree: 100%
 機能は様々ですが、どれも簡単に使えるものばかりです。お試しください。
 
 >[!MORELIKETHIS]
-[プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)>
+>
+>[プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)>
 >

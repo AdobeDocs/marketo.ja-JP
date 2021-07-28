@@ -25,9 +25,9 @@ ht-degree: 100%
 >また Google Adwords に 1 か月 200 ドルを費やしている場合、この Google Adwords プログラムの期間原価は&#x200B;**毎月** 200 ドルです。
 
 >[!NOTE]
-[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)>
 >
-[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)>
+>[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間原価の計算方法 {#how-period-costs-are-calculated}
 
@@ -58,9 +58,11 @@ ht-degree: 100%
    ![](assets/graph6.png)
 
    >[!NOTE]
-   まとめ：期間原価のない月分は、期間原価の計上された直前の月にさかのぼって計上されます。もしそれ以前に期間原価のある月が存在しなければ、その月以降で最初に期間原価が計上された月に繰り越して計上されます。期間原価が&#x200B;_どの_&#x200B;月にも計上されていない場合、そのプログラムの RCE レポートは利用できません。
+   >
+   >まとめ：期間原価のない月分は、期間原価の計上された直前の月にさかのぼって計上されます。もしそれ以前に期間原価のある月が存在しなければ、その月以降で最初に期間原価が計上された月に繰り越して計上されます。期間原価が&#x200B;_どの_&#x200B;月にも計上されていない場合、そのプログラムの RCE レポートは利用できません。
 
    >[!MORELIKETHIS]
-   * [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   * [プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >
+   >* [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
