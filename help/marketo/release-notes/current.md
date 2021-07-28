@@ -1,10 +1,10 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 3%
+source-wordcount: '983'
+ht-degree: 4%
 
 ---
 
@@ -59,7 +59,11 @@ ht-degree: 3%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Eメール接続のスロットリング(GA)**:Sales Connectの電子メール接続のスロットリングを使用して、電子メールの配信品質を向上し、パーソナライズされた販売コミュニケーションを拡大/縮小します。この新しいテクノロジーは、Eメールの送信タイミングを自動的に管理し、ExchangeおよびGmailユーザーに対してシームレスなエクスペリエンスを作成します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか、減らすか、減らすと、Sales Connectから確実にすべての電子メールを送信できます。
+* **Eメール接続のスロットリング（ベータ版）**:Sales Connectの電子メール接続のスロットリングを使用して、電子メールの配信品質を向上し、パーソナライズされた販売コミュニケーションを拡大/縮小します。この新しいテクノロジーは、Eメールの送信タイミングを自動的に管理し、ExchangeおよびGmailユーザーに対してシームレスなエクスペリエンスを作成します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか、減らすか、減らすと、Sales Connectから確実にすべての電子メールを送信できます。
+
+>[!NOTE]
+>
+>ベータ版では、Eメールのスロットリングを利用できるようになりました。 [詳細情報](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
 * **販売アクティビティのインサイトの強化**:セールスチームの事前の活動に基づいて、パーソナライズされたエンゲージメントをキャプチャし、アクティブ化します。Marketo Engageのスマートリストで、販売呼び出しの記録リンク、販売キャンペーン名、販売電子メールの件名などの新しい属性を使用できます。  これらのアクティビティは、Marketo EngageのREST APIまたは一括書き出しを通じて書き出しおよびレポートでき、スマートリストの追加制約としてフィルターおよびトリガーで使用できます。
 
