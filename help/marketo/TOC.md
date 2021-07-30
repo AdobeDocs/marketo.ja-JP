@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '8048'
+ht-degree: 11%
 
 ---
 
@@ -1216,7 +1216,7 @@ ht-degree: 0%
       + Marketo {#marketo}
          + [Marketo接続の設定](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [ユーザーへのアクセス権の付与](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [MSCでの興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+         + [Sales Connectの興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sales Connectユーザーにキャンペーンを表示](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + リード {#people}
          + [ユーザーの詳細表示](product-docs/marketo-sales-connect/people/person-detail-view.md)
