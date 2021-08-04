@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
 workflow-type: tm+mt
-source-wordcount: '8048'
+source-wordcount: '8052'
 ht-degree: 11%
 
 ---
@@ -134,6 +134,7 @@ ht-degree: 11%
          + [必要システム構成](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [サポートされているブラウザー](product-docs/administration/setup-administration/supported-browsers.md)
+         + [グローバルフォーム検証ルール](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 追加の統合{#additional-integrations}
          + [Adobe Connect as a LaunchPoint Serviceの追加](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [マネージャーアカウントを使用したGoogle AdWords as a Launchpoint Serviceの追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
