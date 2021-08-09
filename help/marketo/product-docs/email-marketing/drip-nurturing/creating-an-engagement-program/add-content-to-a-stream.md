@@ -113,5 +113,6 @@ ht-degree: 100%
 完成です。これでプログラムのストリームにコンテンツを追加するさまざまな方法がわかりましたね。ナーチャリングに必要なコンテンツを好きなだけ追加しましょう。詳しくは、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
-[エンゲージメントプログラムストリームへのプログラムの追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)>
+>
+>[エンゲージメントプログラムストリームへのプログラムの追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)>
 >
