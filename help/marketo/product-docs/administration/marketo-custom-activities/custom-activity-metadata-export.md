@@ -3,16 +3,16 @@ description: カスタムアクティビティメタデータの書き出し —
 title: カスタムアクティビティメタデータの書き出し
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # カスタムアクティビティメタデータの書き出し {#custom-activity-metadata-export}
 
-アドビのSOAP APIまたはMunchkin APIを使用している場合は、カスタムアクティビティメタデータスキーマを書き出すことができます。 手に入れる方法をご紹介します。
+次の手順に従って、カスタムアクティビティメタデータスキーマを書き出します。
 
 1. My Marketoで、「**管理者**」をクリックします。
 
