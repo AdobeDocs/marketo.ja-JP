@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 13%
@@ -204,7 +204,7 @@ ht-degree: 13%
          + [カスタムアクティビティの作成](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [カスタムアクティビティの編集](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [カスタムアクティビティの公開](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [カスタムアクティビティメタデータの書き出し](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [カスタムアクティビティメタデータの書き出し](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo カスタムオブジェクト {#marketo-custom-objects}
          + [Marketoカスタムオブジェクトについて](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Marketoカスタムオブジェクトフィールドの追加](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
