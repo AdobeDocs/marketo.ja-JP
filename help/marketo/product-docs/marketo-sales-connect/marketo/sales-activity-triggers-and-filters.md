@@ -3,9 +3,9 @@ description: 販売活動のトリガーとフィルター — Marketoドキュ�
 title: 販売活動のトリガーとフィルタ
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[！注記
+>[!NOTE]
 >
 >アクティビティ、制約、定義の完全なリストについては、[販売アクティビティの用語集](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)を参照してください。
