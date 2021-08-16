@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2360276
-description: プログラムチャネルを非表示/再表示 —Marketoドキュメント — 製品ドキュメント
-title: プログラムチャネルを非表示/再表示
+description: プログラムチャネルの表示設定を切り替える — Marketo ドキュメント — 製品ドキュメント
+title: プログラムチャネルの表示設定を切り替える
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プログラムチャネルを非表示/再表示{#hide-unhide-a-program-channel}
+# プログラムチャネルの表示設定を切り替える {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要です**
 
-プログラムチャネル[がプログラムで使用されていない場合は、](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)削除できます。  しかし、一度使えば、そのままにしておく必要があります。  ただし、不要になった場合は非表示にすることができます。
+どのプログラムにも使用されていないプログラムチャネルがは[削除](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)できます。  一度使用したプログラムチャネルは削除できませんが、不要になった場合は非表示にできます。
 
-## プログラムチャネルを非表示にする{#hide-a-program-channel}
+## プログラムチャネルを非表示にする {#hide-a-program-channel}
 
 1. 「**管理者**」で、「**タグ**」をクリックします。
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. **チャネル**&#x200B;ドロップダウンをクリックし、非表示にする&#x200B;**チャネル**&#x200B;を選択します。
+1. **チャネル**&#x200B;ドロップダウンをクリックし、非表示にする「**チャネル**」を選択します。
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. 「**タグのアクション**」で、「**隠す**」をクリックします。
+1. 「**タグアクション**」で「**非表示**」をクリックします。
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
-落ち着け、落ち着け！
+簡単ですね。
 
-## プログラムチャネルの再表示{#unhide-a-program-channel}
+## プログラムチャネルを再表示する {#unhide-a-program-channel}
 
-1. 「非表示を表示」チェックボックスをオンにして、プログラムチャネルを再表示します。
+1. プログラムチャネルを再表示するには、「非表示項目の表示」チェックボックスにチェックを入れます。
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
