@@ -1,53 +1,52 @@
 ---
 unique-page-id: 11380986
-description: ワークスペースの編集 —Marketoドキュメント — 製品ドキュメント
-title: ワークスペースの編集
+description: ワークスペースを編集する - Marketo ドキュメント - 製品ドキュメント
+title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ワークスペースの編集{#edit-a-workspace}
+# ワークスペースを編集する {#edit-a-workspace}
 
-場合によっては、ワークスペースで変更が必要になります。 簡単です。
-
->[!NOTE]
->
->**必要な管理者権限**
+ときには、ワークスペースで変更が必要になる場合があります。方法は簡単です。
 
 >[!NOTE]
 >
->[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を使用してワークスペースをブラッシュアップします。
+>**管理者権限が必要です**
 
-1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
+>[!NOTE]
+>
+>「[ワークスペースとユーザーパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)」でワークスペースについて学んでください。
+
+1. 「**管理**」で「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. 編集するワークスペースを選択し、「**ワークスペースを編集**」をクリックします。
+1. 編集するワークスペースを選択し、「**ワークスペースの編集**」をクリックします。
 
    ![](assets/two-7.png)
 
-1. 別のリード・パーティションを選択し、ドロップダウンから別の主要人物パーティションを選択できます。
+1. 別のリードパーティションを選択し、ドロップダウンから別のプライマリリードパーティションを選択できます。
 
    >[!NOTE]
    >
-   >必要なら、[もっと人のパーティション](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)を作成できます。
+   >必要に応じて、さらに[リードパーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)できます。
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >「**すべての個人パーティション**」チェックボックスは、このワークスペースがシステム内のすべてのリードパーティションを使用できることを意味します。
+   >「**すべてのリードパーティション（現在および今後）**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
 
    >[!NOTE]
    >
-   >**主要人物パーティション**&#x200B;がデフォルトとして機能し、すべての人が割り当てられます。
+   >**プライマリリードパーティション**&#x200B;がデフォルトとして機能し、すべてのリードが割り当てられます。
 
-   複数のブランドドメインを有効にした場合は、別のプライマリブランドドメインに変更できます。 「**保存**」をクリックします。
+   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。「**保存**」をクリックします。
 
    ![](assets/four-6.png)
 
@@ -57,6 +56,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
->* [ワークスペースと個人パーティションの理解](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+>* [新しいワークスペースを作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+* [ワークスペースとユーザーパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
