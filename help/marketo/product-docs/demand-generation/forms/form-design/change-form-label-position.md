@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359612
-description: フォームラベルの位置の変更 —Marketoドキュメント — 製品ドキュメント
+description: フォームラベルの位置の変更 — Marketoドキュメント — 製品ドキュメント
 title: フォームラベルの位置の変更
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フォームラベルの位置を変更{#change-form-label-position}
+# フォームラベルの位置の変更 {#change-form-label-position}
 
-[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成するとき、フォームフィールドラベルの位置を簡単に変更できます。 これが方法です。
+[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合、フォームフィールドラベルの位置を簡単に変更できます。 どうやって。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -33,27 +32,27 @@ ht-degree: 0%
 
    現在、次の2つのオプションがあります。
 
-   * Left（デフォルト）
+   * 左（デフォルト）
    * 上
 
 1. 「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. 「**承認して**&#x200B;を閉じる」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    >[!NOTE]
    >
-   >フォームをランディングページで使用するには、承認する必要があります。
+   >ランディングページでフォームを使用するには、承認が必要です。
 
    ![](assets/image2014-9-15-16-3a17-3a12.png)
 
    >[!NOTE]
    >
-   >フォームの変更によって作成されたランディングページのドラフトを必ず承認してください。
+   >必ず、フォームの変更によって作成されたランディングページのドラフトを承認してください。
 
-よくやった！ フォーム上のラベルの位置を簡単に変更できた方法を確認する フォームラベルのフォントを変更する際に何ができるか見てみましょう
+よくやった！ フォーム上のラベルの位置を簡単に変更する方法 フォームラベルのフォントを変更する場合に実行できる操作を見てみましょう。
 
 >[!MORELIKETHIS]
+[フォームフォントファミリの変更](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)>
 >
->[フォームフォントファミリの変更](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
