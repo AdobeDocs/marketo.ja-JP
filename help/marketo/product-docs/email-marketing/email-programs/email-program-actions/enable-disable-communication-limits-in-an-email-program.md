@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359596
-description: 電子メールプログラム-Marketoドキュメント — 製品ドキュメントでの通信制限の有効化/無効化
-title: 電子メールプログラムの通信制限の有効化/無効化
+description: メールプログラムの通信制限を有効化／無効化する — Marketo ドキュメント — 製品ドキュメント
+title: メールプログラムの通信制限を有効化／無効化する
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールプログラムの通信制限を有効化/無効化{#enable-disable-communication-limits-in-an-email-program}
+# メールプログラムの通信制限を有効化／無効化する {#enable-disable-communication-limits-in-an-email-program}
 
-電子メールプログラムを実行する際、[管理レベルの通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)を無視または適用するよう選択できます。 その方法を次に示します。
+メールプログラムを実行する際に、[管理レベルの通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)を無視または適用するように選択できます。その方法を説明しましょう。
 
 >[!NOTE]
 >
->通信制限は、管理者セクション](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)に[設定され、1人のユーザーに過多の電子メールを送信しないようにします。
+>通信の制限は[管理者](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)セクションで設定され、1 人のリードに送信されるメールが多すぎないようにします。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 電子メールプログラムを探して選択します。
+1. メールプログラムを選択します。
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. 「**セットアップ**」タブで、重複を押しながら通信制限行項目をクリックします。
+1. 「**セットアップ**」タブで、通信制限の行をダブルクリックします。
 
    ![](assets/blockoperational.png)
 
-1. デフォルトでは、通信の制限に達すると操作不可能な電子メールはブロックされますが、それらをバイパスする場合は、チェックボックスをオフにして「**保存**」をクリックします。
+1. デフォルトでは、通信制限に達すると非オペレーショナルのメールをブロックする設定になっています。この設定を回避するには、チェックを外して「**保存**」をクリックします。
 
    ![](assets/ifaperson.jpg)
 
-   「**操作不能な電子メール**&#x200B;をブロック」をオンにしたままにすると、管理者設定で許可されている以上の電子メールを受信したユーザーに電子メールを送信できなくなります。
+   「**非オペレーショナルなメールをブロック** 」をオンにしたままにすると、管理者の設定で許可されている数を超えるメールを受信したユーザーにメールを送信できなくなります。
