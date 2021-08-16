@@ -1,43 +1,42 @@
 ---
 unique-page-id: 11382122
-description: 監査証跡を有効にする —Marketoドキュメント — 製品ドキュメント
-title: 監査証跡の有効化
+description: 監査記録の有効化 — Marketo ドキュメント — 製品ドキュメント
+title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 監査証跡を有効にする{#enable-audit-trail}
+# 監査記録の有効化 {#enable-audit-trail}
 
-監査証跡は、すべてのお客様が利用でき、2つの管理者権限で制御します。
+監査記録は、すべてのお客様が使用でき、2 つの管理権限で管理されます。
 
 >[!NOTE]
 >
->デフォルトでは、すべてのシステム管理者ロールで、両方の権限が有効になっています。
+>デフォルトでは、すべてのシステム管理者の役割で、両方の権限が有効になっています。
 
-## ロールの監査証跡を有効にする{#enable-audit-trail-for-a-role}
+## 役割の監査記録を有効にする {#enable-audit-trail-for-a-role}
 
-1. 「**管理者**」をクリックします。
+1. 「**管理**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. 「**ユーザーとロール**」を選択し、「**ロール**」をクリックします。
+1. 「**ユーザーと役割**」を選択し、「**役割**」をクリックします。
 
    ![](assets/two-2.png)
 
-1. 監査証跡を有効にするロールを選択し、**ロールを編集**&#x200B;をクリックします。
+1. 監査記録を有効にする役割を選択し、「**役割の編集**」をクリックします。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >また、新しいロールを作成し、そのロールに「監査証跡」アクセス権を付与するオプションもあります。
+   >また、新しい役割を作成し、監査記録アクセス権を付与するオプションも表示されます。
 
-1. **アクセス管理者**&#x200B;権限を展開します。 必要に応じて、「**監査証跡**&#x200B;にアクセス」または「**ログイン履歴**&#x200B;にアクセス」を選択します。 「**保存**」をクリックします。
+1. **管理アクセス**&#x200B;権限を展開します。必要に応じて、「**監査記録にアクセス**」と「**ログイン履歴にアクセス**」のいずれかまたは両方を選択します。「**保存**」をクリックします。
 
    ![](assets/four-1.png)
 
@@ -45,35 +44,35 @@ ht-degree: 0%
    >
    >**定義**
    >
-   >**監査証跡へのアクセス：ユーザー** に、「Asset Audit Trail」と「Admin Audit Trail」の両方へのアクセス権を与えます。
+   >**監査記録にアクセス**：「アセット監査記録」と「管理監査記録」両方の権限をユーザーに付与します。
    >
-   >**アクセスログイン履歴：ユーザー** に [ユーザーログイン履歴へのアクセスを許可します](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)。
+   >**ログイン履歴にアクセス**：[ユーザーログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)への権限をユーザーに付与します。
 
-## 監査証跡ロールのユーザーへの割り当て{#assign-audit-trail-role-to-a-user}
+## 監査記録の役割をユーザーに割り当てる {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[既存のロールを](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 作成または [](#enable-audit-trail) 有効にし、監査証跡権限を付与します。
+>役割を[作成](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role)するか、既存の役割を[有効](#enable-audit-trail)にし、監査記録の権限を付与します。
 
-1. **ユーザーとロール**&#x200B;で、**ユーザー**&#x200B;をクリックします。
+1. **ユーザーと役割**&#x200B;で、「**ユーザー**」をクリックします。
 
    ![](assets/five-1.png)
 
-1. 監査証跡にアクセス権を付与するユーザーを選択し、「**ユーザーを編集**」をクリックします。
+1. 監査記録の権限を付与したいユーザーを選択し「**ユーザーの編集**」をクリックします。
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >このプロセスは、新しいユーザーを作成する場合にも適用されます。
+   >この手順は、新規ユーザーを作成している場合でも同様です。
 
-1. 作成した監査証跡ロールを選択します。 この例では、「Audit Trail - Asset and Admin」と「Audit Trail - With Login History」を作成しました。
+1. 作成した監査記録の役割を選択します。ここでは、「監査記録 - アセットと管理」と「監査記録 - ログイン履歴」を作成しています。
 
    ![](assets/seven-1.png)
 
    >[!CAUTION]
    >
-   >ワークスペースを有効にしている場合は、ロールのチェックボックスを必ずオンにして、すべてのワークスペースを選択します。 個々のワークスペースの選択を解除すると、監査証跡が非表示になります。 つまり、すべてのワークスペースに監査証跡データが表示されます。 [フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用するときに、ワークスペースを非表示にするオプションがあります。
+   >ワークスペースを有効にしている場合は、必ず役割のチェックボックスを選択し、ワークスペースをすべて選択してください。個々のワークスペースの選択を解除すると、「監査記録」が非表示になります。つまり、すべてのワークスペースの「監査記録」データが表示されます。[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
 
 1. 「**保存**」をクリックします。
 
