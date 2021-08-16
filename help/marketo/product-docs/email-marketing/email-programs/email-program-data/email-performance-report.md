@@ -1,68 +1,67 @@
 ---
 unique-page-id: 2359467
-description: 電子メールパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
-title: 電子メールパフォーマンスレポート
+description: メールの効果レポート — Marketo ドキュメント — 製品ドキュメント
+title: メールの効果レポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# 電子メールパフォーマンスレポート{#email-performance-report}
+# メールの効果レポート {#email-performance-report}
 
-配信、開封、クリックなどの統計に関する電子メールのパフォーマンスを確認するには、電子メールのパフォーマンスレポートを作成します。
+配信、開封、クリックなどの統計を使用したメールの効果を確認するには、メールの効果レポートを作成します。
 
-1. [プ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、「 **電子メール** [パフォーマンスレポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)」を選択します。
-1. [レポート時間](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 枠を変更し、「レポート」 **** タブをクリックします。
-1. そこだ！ 次に、レポートを調べて、電子メールのパフォーマンスを確認します。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**メール効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポート時間枠を変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
+1. レポートが表示されました。次に、レポートを表示して、メールの効果を確認します。
 
    >[!NOTE]
    >
-   >送信日フィルターは、電子メールが最初に送信された日付に基づきます。
+   >「送信日」フィルターは、メールが最初に送信された日付に基づきます。
 
    ![](assets/email-performance-report.png)
 
    >[!TIP]
    >
-   >電子メールの名前をクリックして、電子メールプレビューで開きます。
+   >メールの名前をクリックして、メールプレビューツールで開きます。
 
    >[!NOTE]
    >
-   >電子メールのパフォーマンスレポートには、電子メールの送信後に削除されたユーザーを含む、すべてのユーザーのアクティビティが含まれます。 場合によっては、アクティブなユーザーのアクティビティのみを表示したい場合があります。 その場合は、削除したユーザーをレポートから除外する必要があります。 **スマートリスト**&#x200B;タブを使用して、[レポート用のスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)を作成します。 特定のフィールドに対してフィルタを適用しない場合は、電子メールアドレスフィルタを次のように設定します。**が空ではありません**。
+   >メール効果レポートには、メール配信後に削除されたリードも含まれます。アクティブなリードのアクティビティのみを表示したい場合があります。その場合は、削除したユーザーをレポートから除外する必要があります。「**スマートリスト**」タブを使用して、レポートの[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)します。特定のフィールドに対してフィルターを適用しない場合は、「メールアドレス」フィルターを&#x200B;**空でない**&#x200B;に設定します。
 
-   [電子メールパフォーマンスレポートのレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 列を選択します。次に例を示します。
+   以下のレポート列から、キャンペーンメール効果レポートに含める[レポート列を選択](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)します。
 
-   | 縦棒 | 詳細 |
+   | 列 | 説明 |
    |---|---|
-   | ハードバウンス | 電子メールアドレスが存在しないなどの恒久的な条件が原因で、電子メールが拒否されました。 |
-   | ソフト バウンス | サーバーがダウンしているか、受信トレイがいっぱいであるなど、一時的な状態が原因で電子メールが拒否されました。 |
-   | 保留中 | この数は、送信された電子メールの合計数から、配信済み、バウンス済み、ソフトバウンスの各電子メールの数を引いて計算されます。 |
-   | クリック済みリンク | 電子メール内のリンクをクリックした電子メール受信者の数。 |
-   | 配信停止完了 | 電子メール内の&#x200B;**購読解除**&#x200B;リンクをクリックし、フォームに入力した電子メール受信者の数です。 |
+   | ハードバウンス | メールアドレスが存在しないなどの恒久的な状態が原因で、メールが拒否されました。 |
+   | ソフトバウンス | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状態が原因で、メールが拒否されました。 |
+   | 保留中 | この数は、送信合計数から、配信済み、バウンス、ソフトバウンスのメール数を引くことで計算されます。 |
+   | クリック済みリンク | メール内のリンクをクリックしたメール受信者の数。 |
+   | 配信停止完了 | メールの&#x200B;**登録解除**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
 
    >[!NOTE]
    >
-   >登録を解除したリンクと電子メールアドレスが電子メールでクリックされても、レポートの「クリックされたリンク」に登録されません。
+   >メールでクリックされた登録解除リンクおよびメールアドレスは、レポートの「クリックされたリンク」に登録されません。
 
-一般的に、私たちは常識を使って統計を記録しようとします。 例えば、電子メール内のリンクをクリックした訪問者は、明らかに最初に電子メールを開いています。 電子メールパフォーマンスレポートでは、次の特定のルールに従います。
+全般的に、これらの統計を記録するには常識を使おうとしています。例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。メールの効果レポートでは、次の特定のルールに従います。
 
-* **ルール1**:各電子メールアクティビティレコードは、次のうち1つ（1つのみ）に設定されます。 _配信済み_、 _ハードバウンス_、 _ソフトバウンス_、 _保留_。
+* **ルール 1**：各メールアクティビティレコードは、 _配信済み_、 _ハードバウンス_、 _ソフトバウンス_、 _保留中_&#x200B;のいずれか 1 つのみに設定されます。
 
-* **規則2**:電子メールレコードに「 *開封済み*」と表示されている場合は *、「*&#x200B;配信済み」とカウントされます。
+* **ルール 2**：メールのレコードが&#x200B;*開封済み*&#x200B;を示したら、*配信済み*&#x200B;としてカウントされます。
 
-* **規則3**:電子メールレコードに _「_ クリックされた電子メール _」または「登録解除_&#x200B;済み __ 」と表示される場合は、「配信済みで _開いています_」とカウントされます。
+* **ルール 3**：メールのレコードが&#x200B;_クリック済みメール_&#x200B;あるいは&#x200B;_登録解除_&#x200B;を示したら、_配信済み_&#x200B;あるいは&#x200B;_開封済み_&#x200B;としてカウントされます。
 
-* **規則4**:電子メールが「 _開く_」の場合、バウンスは無視されます。電子メールが開かれていない場合は、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信済み_&#x200B;より優先されます。
+* **ルール 4**：メールが&#x200B;_開封済み_&#x200B;の場合、バウンスは無視されます。メールが開封されていない場合、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信_&#x200B;よりも優先されます。
 
 >[!NOTE]
 >
->同じキャンペーンから同じ人に対する複数の送信が1回だけカウントされます。
+>メールプログラムやスマートキャンペーンから顧客に複数回同じメールアセットを送信した場合、メールの効果を測定するための本レポートでは 1 回の送信としてカウントします。
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンの電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [電子メールリンクのパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [キャンペーンメールレポートでアセットをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
