@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359936
-description: ストリームの削除 —Marketoドキュメント — 製品ドキュメント
-title: ストリームの削除
+description: ストリームを削除する - Marketo ドキュメント - 製品ドキュメント
+title: ストリームを削除する
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ストリームの削除{#delete-a-stream}
+# ストリームを削除する {#delete-a-stream}
 
-エンゲージメントプログラムからストリームを削除する必要が生じた場合は、次の手順に従って、簡単に操作できます。
+エンゲージメントプログラムからストリームを削除する必要がある場合は、次の手順を実行します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. エンゲージメントプログラムを選択し、**Streams**&#x200B;に移動します。
+1. エンゲージメントプログラムを選択して、「**ストリーム**」に移動します。
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -37,4 +36,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ストリームに人が含まれている場合は、まず[](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)人を外に出すよう求められます。
+   >ストリームにリードが含まれている場合は、まずリードを[移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)するように求められます。
