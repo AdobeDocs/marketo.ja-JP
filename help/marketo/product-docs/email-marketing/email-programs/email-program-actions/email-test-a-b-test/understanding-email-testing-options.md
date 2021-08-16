@@ -1,26 +1,25 @@
 ---
 unique-page-id: 2359483
-description: 電子メールテストオプションについて —Marketoドキュメント — 製品ドキュメント
-title: 電子メールテストオプションについて
+description: メールテストのオプションについて — Marketo ドキュメント — 製品ドキュメント
+title: メールテストのオプションについて
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールテストオプションについて{#understanding-email-testing-options}
+# メールテストのオプションについて {#understanding-email-testing-options}
 
-電子メールをテストして、エンゲージメントスコアを改善します。 Marketoでは2種類の電子メールテストが行われています。
+メールをテストして、エンゲージメントスコアを向上させましょう。Marketo では 2 種類のメールテストがあります。
 
-## A/Bテスト{#a-b-testing}
+## A/B テスト {#a-b-testing}
 
-これは、電子メールプログラムを使用する1回限りの電子メールに対するものです。 &lt;追加a0/>A/B testing](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)と小さなグループがテストを受け、残りのグループが勝者になります。[
+これは、メールプログラムを使用する 1 回限りのメール用です。[A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加すると、小さなグループがテストを受け取り、残りのグループが勝者になります。
 
-## Eメールチャンピオン/対抗{#email-champion-challenger}
+## メールチャンピオン／挑戦者 {#email-champion-challenger}
 
-トリガースマートキャンペーンやアクションプログラムで使用される継続的な電子メールの場合は、[電子メールチャンピオン/チャレンジャー](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)テストを追加できます。 これにより、受信者の進行中の割合に変動が生じます。
+トリガーされた進行中のスマートキャンペーンやエンゲージメントプログラムに対しては、[メールチャンピオン／挑戦者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)テストを追加できます。現在の受信者の割合にバリエーションを加えられます。
 
-テストの成功
+さっそくテストしてみてください。
