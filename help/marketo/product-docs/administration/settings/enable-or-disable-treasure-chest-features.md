@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360307
-description: 財宝箱機能の有効化/無効化 —Marketoドキュメント — 製品ドキュメント
-title: 宝箱機能の有効化/無効化
+description: アイデアスペースの機能を有効または無効にする — Marketo ドキュメント — 製品ドキュメント
+title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 宝箱機能の有効化/無効化{#enable-or-disable-treasure-chest-features}
+# アイデアスペースの機能を有効または無効にする {#enable-or-disable-treasure-chest-features}
 
-宝箱には、完全にはサポートされていない、楽しい実験機能が入っている。
+アイデアスペースは、完全にはサポートされていない楽しい実験機能を保持しています。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要です**
 
-1. **管理者**&#x200B;の下にある&#x200B;**宝箱**&#x200B;をクリックします。
+1. 「**管理**」で「**アイデアスペース**」をクリックします。
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -27,10 +26,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. 「**有効**」ボックスをオンにして有効にするか、オフにして無効にし、「**保存**」をクリックします。
+1. 有効にする場合は「**有効化**」ボックスにチェックをつけ、無効にする場合はチェックを外してます。その後、「**保存**」をクリックします。
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
    >[!TIP]
    >
-   >変更が有効になるように、ログアウトしてからMarketoに戻る必要がある場合があります。
+   >変更が有効になるように、場合によっては、ログアウトしてから Marketo に戻る必要があります。
