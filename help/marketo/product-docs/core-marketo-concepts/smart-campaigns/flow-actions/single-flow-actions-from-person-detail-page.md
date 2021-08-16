@@ -3,9 +3,9 @@ description: 個人の詳細ページからの単一フローアクション —
 title: 「個人詳細」ページからの単一フロー・アクション
 hide: true
 hidefromtoc: true
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 48883450e089d137856f7e8f80a0c212dcd4b307
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 1. 「**データベース**」をクリックします。
 
-   ![](assets/single-flow-action-from-person-detail-page-1.png)
+   ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
 1. 目的の人を見つけます。
 
-   ![](assets/single-flow-action-from-person-detail-page-2.png)
+   ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
 1. **個人アクション**&#x200B;ドロップダウンをクリックし、目的のフローステップを選択します。 この例では、[Send Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)を使用します。
 
-   ![](assets/single-flow-action-from-person-detail-page-3.png)
+   ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
 1. 目的の電子メールを選択し、「**今すぐ実行**」をクリックします。
 
-   ![](assets/single-flow-action-from-person-detail-page-4.png)
+   ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->ワークスペースに関連付けられたページ/アセットからではなく、直接（つまりリンク経由で）個人の詳細ページに移動する場合は、手順4でワークスペースを選択する必要があります。
+>インスタンスにワークスペース/パーティションが含まれ、ワークスペースに関連付けられたページ/アセットからではなく、直接（リンクを介して）個人の詳細ページに移動する場合は、手順4でワークスペースも選択する必要があります。
