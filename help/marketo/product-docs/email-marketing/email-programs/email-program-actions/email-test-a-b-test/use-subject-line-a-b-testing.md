@@ -1,50 +1,45 @@
 ---
 unique-page-id: 2359494
-description: 「件名」のA/Bテスト —Marketoドキュメント — 製品ドキュメントを使用
-title: 「件名」のA/Bテストを使用
+description: 「件名ライン」A/B テストを使用する — Marketo ドキュメント — 製品ドキュメント
+title: 「件名ライン」A/B テストを使用する
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 「件名」A/Bテストを使用{#use-subject-line-a-b-testing}
+# 「件名ライン」A/B テストを使用する {#use-subject-line-a-b-testing}
 
-電子メールのA/Bテストは簡単に行えます。 最も一般的なテストの1つは、**件名行**&#x200B;テストです。
+メールの A/B テストはとても簡単に実施できます。なかでも最も一般的なのが、「**件名ライン**」テストです。
 
 >[!PREREQUISITES]
+[A/B テストを追加する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)>
 >
->[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 「電子メール」タイルで、電子メールを選択した状態で「追加A/Bテスト」をクリックします。
+1. 「メール」タイルで、目的のメールを選択して「A/B テストの追加」をクリックします。
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
-1. テストエディターウィンドウが開きます。 1つ以上の新しい件名を入力します。
+1. テストエディターウィンドウが開きます。1 つ以上の新しい件名行を入力します。
 
    >[!NOTE]
-   >
-   >選択肢&#x200B;****&#x200B;は、選択した電子メールに含まれる情報を事前入力します。
+   選択肢 **A** には、選択したメールに含まれる情報が事前入力されます。
 
    ![](assets/image2014-9-12-15-3a9-3a14.png)
 
    >[!TIP]
-   >
-   >**+**&#x200B;をクリックすると、さらに件名を追加できます。
+   「**+**」をクリックすると、件名ラインを追加できます。
 
-1. スライダーを使用してA/Bテストを受け取るオーディエンスの割合を選択し、「**次へ**」をクリックします。
+1. A/B テストを送信したい対象ユーザーの割合をスライダーで選択して、「**次へ**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 
    >[!CAUTION]
-   >
-   >**サンプルサイズを100%に設定しないことをお勧めし**&#x200B;ます。静的なリストを使用している場合は、サンプルサイズを100%に設定すると、オーディエンス内の全員に電子メールが送信され、推奨結果は誰にも送信されません。 スマートリストを使用している場合、サンプルサイズを100%に設定すると、その時点&#x200B;_でオーディエンス_&#x200B;内の全員に電子メールが送信されます。 また、電子メールプログラムが後日再び実行されると、スマートリストに振り分けられた新しい人も、オーディエンスに追加されたので、電子メールを受け取ります。
+   **サンプルサイズを 100% に設定しないことをお勧めします**。静的リストを使用している場合、サンプルサイズを 100% に設定すると、オーディエンスの全員にメールが送信され、だれも勝者になりません。スマートリストを使用している場合、サンプルサイズを 100% に設定すると、_その時点で_&#x200B;オーディエンスの全員にメールが送信されます。メールプログラムが後日再実行されると、スマートリストに振り分けられた新しいリードも、オーディエンスに含まれるようになっているのでメールを受け取ります。
 
    >[!NOTE]
-   >
-   >サブジェクトのバリエーションが異なる場合は、選択したテストサンプルサイズの一部を使用します。
+   それぞれの件名バリエーションの割合は、ここで選択した［テストサンプルサイズ］を等分したものとなります。
 
-   もう少しで着く。 次に、A/Bテストの推奨結果条件](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)を[定義する必要があります。
+   ここまで来れば、あと一歩です。続いて、[A/B テストの勝者の条件を定義](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)する必要があります。
