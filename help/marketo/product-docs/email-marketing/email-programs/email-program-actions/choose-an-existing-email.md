@@ -1,50 +1,47 @@
 ---
 unique-page-id: 2359451
-description: 既存の電子メールの選択 —Marketoドキュメント — 製品ドキュメント
-title: 既存の電子メールの選択
+description: 既存のメールを選択する - Marketo ドキュメント - 製品ドキュメント
+title: 既存のメールを選択する
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 既存の電子メールの選択{#choose-an-existing-email}
+# 既存のメールを選択する {#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
->* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Listorを使用したオーディエンスの定義オーディエンスのインポートによるリストの [定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [メールプログラムを作成する](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+* [スマートリストを使用してオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)または[リストをインポートしてオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 
-[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成し、オーディエンスを定義したら、送信する電子メールを決定します。 [電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)用の電子メールを最初から作成するか、既に存在する電子メールを選択することができます。 既に存在するものを選ぶ方法を次に示します。
+[メールプログラムを作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)してオーディエンスを定義したら、どのようなメールを送信するかを決定します。メールプログラム内で[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するか、既存のメールから選択することができます。既存のメールを選ぶ方法は次の通りです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 電子メールプログラムを探して選択します。
+1. メールプログラムを選択します。
 
    ![](assets/selectemailprogram.jpg)
 
-1. **電子メール**&#x200B;タイルの下で、送信する電子メールを選択します。
+1. 「**メール**」タイルで、送信するメールを選択します。
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
-   >
-   >ローカル電子メールのみ選択できます。 プログラム間で電子メールを移動する必要があるか [こちらをご覧ください](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)。
+   ローカルのメールのみを選択できます。プログラム間でメールを移動したい場合は、[こちらを確認してください](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)。
 
-   甘い！
+   できましたね。
 
    ![](assets/image2014-9-12-11-3a28-3a51.png)
 
-送信する電子メールの種類が決まったので、A/Bテストを設定するか、このテストをスキップして電子メールプログラムをスケジュールできます。
+送信するメールを決定したので、A/B テストを設定するか、スキップしてメールプログラムのスケジュールを設定します。
 
 >[!MORELIKETHIS]
->
->* [A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
->* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+* [A/B テストを追加する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+* [メールプログラムのスケジュールを設定する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
