@@ -1,70 +1,69 @@
 ---
 unique-page-id: 10912163
-description: 電子メールの作成 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールの作成
+description: メールを作成する - Marketo ドキュメント - 製品ドキュメント
+title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールの作成{#create-an-email}
+# メールを作成する {#create-an-email}
 
-Marketoで電子メールを作成する主な方法は2つあります。 二つを見てみよう。
+Marketo でメールを作成する方法は主に 2 つあります。両方を見てみましょう。
 
-## Design Studioでの電子メールの作成{#create-an-email-in-the-design-studio}
+## Design Studio でメールを作成する {#create-an-email-in-the-design-studio}
 
-1. **Design Studio**&#x200B;に移動します。
+1. **Design Studio** に移動します。
 
    ![](assets/one-4.png)
 
-1. 「**新規**」ドロップダウンをクリックし、「**新しい電子メール**」を選択します。
+1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規メール**」を選択します。
 
    ![](assets/two-4.png)
 
    >[!NOTE]
    >
-   >Design Studioで電子メールを作成すると、ツリーの「Emails」の下に表示されます。
+   >Design Studio でメールを作成すると、「メール」の下のツリーに表示されます。
 
-簡易! 逆の方は…
+シンプルです。もう 1 つは…
 
-## マーケティングアクティビティでの電子メールの作成{#create-an-email-in-marketing-activities}
+## マーケティングアクティビティでメールを作成する {#create-an-email-in-marketing-activities}
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/three-3.png)
 
-1. 電子メールの追加先のプログラムを選択し、**新規**&#x200B;ドロップダウンをクリックして、**新規ローカルアセット**&#x200B;を選択します。
+1. メールを追加するプログラムを選択し、**新規**&#x200B;ドロップダウンをクリックして、「**新規ローカルアセット**」を選択します。
 
    ![](assets/four-3.png)
 
-1. 「**電子メール**」をクリックします。
+1. 「**メール**」をクリックします。
 
    ![](assets/five-2.png)
 
-   それだ！
+   これで手順は完了です。
 
-どの方法を選択しても、テンプレートピッカーが表示されます。
+どの方法を選択しても、テンプレート選択ツールが表示されます。
 
-1. 電子メールに名前を付け、使用するテンプレートをクリックして、「**作成**」をクリックします。
+1. メールに名前を付け、使用するテンプレートをクリックして、「**作成**」をクリックします。
 
    ![](assets/six-2.png)
 
    >[!NOTE]
    >
-   >すぐに使えるレスポンシブ電子メールテンプレートのコレクション、または&#x200B;**マイテンプレート**&#x200B;を選択し、同じ手順に従って保存したテンプレートから選択できます。
+   >すぐに使えるレスポンシブメールテンプレートのコレクションか、まず「**マイテンプレート**」を選択し、同じ手順に従って保存したテンプレートから選択できます。
 
-1. 件名を入力します。 推奨最大50文字未満の場合は、右側にカウンターが表示されます。
+1. 件名を入力します。お勧めの最大 50 文字を下回っている場合は、右側にカウンターが表示されます。
 
    ![](assets/seven-1.png)
 
-   選択したテンプレートに応じて、電子メールを編集するための様々なオプションが用意されています。 モジュールを含む電子メールの場合は、[電子メール](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)へ追加のモジュールをチェックアウトします。
+   選択したテンプレートに応じて、メールを編集するための様々なオプションが表示されます。モジュールを含むメールの場合は、「[モジュールをメールに追加する](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)」を参照してください。
 
-電子メールが作成されました。編集してください。
+これでメールが作成されたので、編集します。
 
 >[!MORELIKETHIS]
+[メールヘッダーを編集する](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)>
 >
->[電子メールヘッダーの編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
