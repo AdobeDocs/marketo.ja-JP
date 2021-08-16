@@ -1,46 +1,45 @@
 ---
 unique-page-id: 2359594
-description: フ追加ォームに設定するフィールドセット —Marketoドキュメント — 製品ドキュメント
-title: フ追加ォームへのフィールドセット
+description: フォームにフィールドセットを追加する - Marketo ドキュメント - 製品ドキュメント
+title: フォームにフィールドセットを追加する
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フ追加ォーム{#add-a-fieldset-to-a-form}へのFieldSet
+# フォームにフィールドセットを追加する {#add-a-fieldset-to-a-form}
 
-フィールドセットは涼しい。 複数のフィールドをグループ化します。 ブロック全体も一度にコントロールできる！
+フィールドセットは素晴らしいです。フィールドセットは多くのフィールドをグループ化します。グループ全体を一度に制御することもできます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. フォームを選択し、「**フォームを編集**」をクリックします。
+1. フォームを選択し、「**フォームの編集**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. **+**&#x200B;記号をクリックし、「**フィールドセット**」を選択します。
+1. **+** 記号をクリックし、「**フィールドセット**」を選択します。
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. **フィールドセット**&#x200B;を選択し、**ラベル**&#x200B;を入力します。
+1. 追加した&#x200B;**フィールドセット**&#x200B;を選択し、「**ラベル**」に値を入力します。
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. 目的のフィールドを&#x200B;**フィールドセット**&#x200B;にドラッグします。
+1. この&#x200B;**フィールドセット**&#x200B;に含めるフィールドをドラッグします。
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. これが終わったら次のようになります。
+1. 次の図は、この操作をおこなった状態を表します。
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-あった！
+これで手順は完了です。
 
 >[!TIP]
 >
->別のフィールドに応じて、フィールドセット全体の表示/非表示を動的に切り替えることができます。 [表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)について説明します。
+>他のフィールドの値に応じて、フィールドセット全体の表示設定を動的に変えることができます。詳細は、「[表示設定ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)」を参照してください。
