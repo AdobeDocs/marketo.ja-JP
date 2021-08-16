@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
-ht-degree: 13%
+source-wordcount: '8071'
+ht-degree: 15%
 
 ---
 
@@ -170,7 +170,7 @@ ht-degree: 13%
             + [ブランディングドメインの削除](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
             + [Workspacesを使用したデフォルトのブランディングドメインの編集](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
             + [デフォルトのブランディングドメインの編集](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
-            + [電子メールのプライマリドメインを上書き](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+            + [メールのプライマリドメインを上書きする](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
          + [Velocityスクリプティングでのカスタムオブジェクト取得制限の変更](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [デフォルトの「電子メールから」と「ラベルから」の変更](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [購読解除メッセージの編集](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
@@ -195,7 +195,7 @@ ht-degree: 13%
          + [フィールドの表示/非表示](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [メールでの HTML エンコードトークン](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [フィールドを機密にする](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [フィールド名の変更](product-docs/administration/field-management/rename-a-field.md)
+         + [フィールドの名前変更をおこなう](product-docs/administration/field-management/rename-a-field.md)
          + [システム管理のフィールドについて](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [MarketoとSalesforceの間のフィールドマッピングの表示](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
       + Marketo カスタムアクティビティ {#marketo-custom-activities}
@@ -224,10 +224,10 @@ ht-degree: 13%
          + [CNAMEによるランディングページURLのカスタマイズ（管理）](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
          + [アカウント設定の編集](product-docs/administration/settings/edit-account-settings.md)
          + [「追跡しない」ブラウザのサポート設定を編集](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
-         + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
+         + [ランディングページ設定を編集する](product-docs/administration/settings/edit-landing-page-settings.md)
          + [レポートとアラートでのリンクの有効期限の編集](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
          + [購読設定の編集](product-docs/administration/settings/edit-subscription-settings.md)
-         + [宝箱機能の有効化/無効化](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
+         + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントのパーソナライズされたURLの有効化（管理）](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [スパムフォームの送信をブロックする方法](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [IPに基づくMarketoログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
@@ -242,10 +242,10 @@ ht-degree: 13%
          + [カスタムタグの作成](product-docs/administration/tags/create-custom-tags.md)
          + [プログラムチャネルの削除](product-docs/administration/tags/delete-a-program-channel.md)
          + [プログラムチャネルからプログラムステータスを削除する](product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)
-         + [プログラムチャネルの表示/非表示](product-docs/administration/tags/hide-unhide-a-program-channel.md)
+         + [プログラムチャネルの表示設定を切り替える](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [タグ値の管理](product-docs/administration/tags/managing-tag-values.md)
       + ユーザーとロール{#users-and-roles}
-         + [APIのみのユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [API のみのユーザーの役割を作成する](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [APIのみのユーザーの作成](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [ユーザーロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [ロールに対する詳細リストのインポート権限の有効化](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
@@ -256,16 +256,16 @@ ht-degree: 13%
          + [ロールの権限の説明](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [スニペットのドラフトなしを有効にする](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + ワークスペースとユーザーパーティション{#workspaces-and-person-partitions}
-         + [ワークスペースとユーザー・パーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+         + [ワークスペースとユーザーパーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [ワークスペースへのユーザーアクセス権を設定する](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [ワークスペースへの個人パーティションの割当](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [割当ルールを使用した個人パーティションの割当て](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
          + [ワークスペースの名前を変更する](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
          + [新しいワークスペースを作成する](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
-         + [ユーザーパーティションの作成](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+         + [リードパーティションを新規作成する](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [ワークスペースの削除](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [ワークスペースの編集](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
-         + [既存のPersonパーティションの編集](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
+         + [ワークスペースを編集する](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [既存のリードパーティションを編集する](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [ワークスペースとパーティション間でのセグメント化の共有](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Marketoの中心概念{#core-marketo-concepts}
       + スマートキャンペーン {#smart-campaigns}
@@ -318,6 +318,7 @@ ht-degree: 13%
             + [キャンペーンのリクエスト](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [アラートの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [メールの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [「個人詳細」ページからの単一フロー・アクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [モバイルスマートキャンペーンのトリガーとフィルター](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [スマートキャンペーンでのWebhookの使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [フローステップでの「選択肢を追加」の使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
@@ -660,7 +661,7 @@ ht-degree: 13%
             + [フォームフィールドを必須にする](product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
             + [フォームのプレビュー](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [フォームのテーマを選択する](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
-            + [フォームの「ありがとうございました」ページの設定](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
+            + [フォームの「ありがとうございました」ページを設定する](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
          + フォーム アクション {#form-actions}
             + [フォームに国選択リストを追加する](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [フォームへのリッチテキストの追加](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
@@ -927,7 +928,7 @@ ht-degree: 13%
             + [エンゲージメントプログラムの作成](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [エンゲージメントプログラムについて](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
          + エンゲージメントプログラムストリーム{#engagement-program-streams}
-            + [ストリームのクローン](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+            + [ストリームのクローンを作成する](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
             + [ストリームを削除する](product-docs/email-marketing/drip-nurturing/engagement-program-streams/delete-a-stream.md)
             + [ストリーム名の変更](product-docs/email-marketing/drip-nurturing/engagement-program-streams/rename-a-stream.md)
             + [ストリーム ケイデンスの設定](product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
@@ -950,7 +951,7 @@ ht-degree: 13%
             + [ストリームコンテンツのアクティベートとアクティベート解除](product-docs/email-marketing/drip-nurturing/using-stream-content/activate-and-deactivate-stream-content.md)
             + [ストリームコンテンツのアーカイブとアーカイブ解除](product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
             + [ストリームコンテンツの可用性の編集](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-            + [ストリームコンテンツの優先順位](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+            + [ストリームコンテンツの優先順位を決める](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [ストリームコンテンツの削除](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + メールプログラム {#email-programs}
          + 電子メールプログラムの作成{#creating-an-email-program}
@@ -958,8 +959,8 @@ ht-degree: 13%
             + [電子メールプログラムについて](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
          + 電子メールプログラムアクション{#email-program-actions}
             + [メールプログラムの中止](product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
-            + [電子メールプログラムの承認/未承認](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-            + [既存のメールの選択](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+            + [メールプログラムを承認／承認取消する](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+            + [既存のメールを選択する](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
             + [メールプログラム向け新規メールの作成](product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
             + 電子メールテスト — A/Bテスト{#email-test-a-b-test}
                + [A/B テストを追加する](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
@@ -968,18 +969,18 @@ ht-degree: 13%
                + [A/Bテストのスケジュール設定](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)
                + [メールテストのオプションについて](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md)
                + [「日付/時間」A/Bテストの使用](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
-               + [「差出人アドレス」 A/Bテストを使用](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+               + [「送信元アドレス」A/B テストを使用する](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
                + [「件名ライン」A/B テストを使用する](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
                + [メールプログラムのダッシュボードを使用する - A/B テストビュー](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-               + [「電子メール全体」のA/Bテストを使用](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-            + [電子メールプログラムの通信制限の有効化/無効化](product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)
+               + [「メール全体」A/B テストを使用する](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+            + [メールプログラムの通信制限を有効化／無効化する](product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)
             + [メールプログラムのヘッドスタート](product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
             + [Eメールの移動](product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)
             + [メールプログラムのスケジュールを設定する](product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
             + 受信者のタイムゾーン{#scheduling-with-recipient-time-zone}でのスケジュール
-               + [受信者のタイムゾーンでスケジュールされた電子メールプログラムの配信の中止](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
+               + [受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
                + [受信者タイムゾーンを使用してメールプログラムをスケジュールする](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
-               + [受信者のタイムゾーンについて](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+               + [受信者タイムゾーンを理解する](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + 電子メールプログラムデータ{#email-program-data}
             + [メールリンクパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
             + [メールの効果レポート](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
@@ -989,7 +990,7 @@ ht-degree: 13%
             + [電子メールプログラムダッシュボードの表示](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
          + 電子メールプログラムでのユーザーの管理{#managing-people-in-email-programs}
             + [リストインポートによる対象ユーザーの定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-            + [スマートリストを使用したオーディエンスの定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+            + [スマートリストを使用してオーディエンスを定義する](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [非ラテン文字リストの読み込み](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + 一般 {#general}
          + Eメールエディターについて{#understanding-the-email-editor}
@@ -997,12 +998,12 @@ ht-degree: 13%
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + 電子メールの作成{#creating-an-email}
             + [電子メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
-            + [テキストのみの電子メールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
-            + [電子メールの作成](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+            + [テキストのみのメールを作成する](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+            + [メールを作成する](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
             + [電子メールのテキストバージョンの編集](product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
-            + [Eメールヘッダーの編集](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
-            + [サンプル電子メールの送信](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
-            + [Eメールエディターで元に戻す](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
+            + [メールヘッダーを編集する](product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+            + [サンプルメールを送信する](product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
+            + [メールエディターで取り消しを実行する](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
          + Eメールエディタ2 {#email-editor-2}
             + [電子メールへのモジュールの追加](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
             + [メールテンプレートを作成する](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
@@ -1038,9 +1039,9 @@ ht-degree: 13%
                + [チャンピオン/チャレンジャー：電子メール全体](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
          + トークン{#using-tokens}の使用
             + [システムトークンを電子メールのリンクとして追加](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
-            + [電子メールへの電子メールスクリプトトークンの追加](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+            + [メールにメールスクリプトトークンを追加する](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
             + [電子メールリンクへのトークンの追加](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
-            + [電子メールスクリプトトークンの作成](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
+            + [メールスクリプトトークンを作成する](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
             + [システムトークンの用語集](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
             + [アラート情報トークンの送信の使用](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [マイトークンでの URL の使用](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
