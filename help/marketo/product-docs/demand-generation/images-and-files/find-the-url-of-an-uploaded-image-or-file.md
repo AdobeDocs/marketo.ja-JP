@@ -29,5 +29,6 @@ ht-degree: 100%
 うまくいきましたね。
 
 >[!MORELIKETHIS]
-[アップロードした画像またはファイルの置き換え](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)>
+>
+>[アップロードした画像またはファイルの置き換え](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)>
 >

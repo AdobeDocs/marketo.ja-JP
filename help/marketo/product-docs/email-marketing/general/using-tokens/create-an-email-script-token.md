@@ -64,5 +64,6 @@ ht-degree: 100%
 これで、このトークンをメールで使用できます。メールが送信されるたびにスクリプトが実行されます。
 
 >[!MORELIKETHIS]
-[メールにメールスクリプトトークンを追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)>
+>
+>[メールにメールスクリプトトークンを追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)>
 >

@@ -69,5 +69,6 @@ ht-degree: 100%
 メールテンプレートをカスタマイズするには、以下の記事を参照してください。
 
 >[!MORELIKETHIS]
-[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)>
+>
+>[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)>
 >

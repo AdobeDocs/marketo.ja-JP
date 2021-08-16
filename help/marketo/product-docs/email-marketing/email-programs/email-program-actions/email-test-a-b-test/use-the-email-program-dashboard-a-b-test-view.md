@@ -43,5 +43,6 @@ ht-degree: 100%
 素敵なダッシュボードだと思いませんか。
 
 >[!MORELIKETHIS]
-[メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)>
+>
+>[メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)>
 >

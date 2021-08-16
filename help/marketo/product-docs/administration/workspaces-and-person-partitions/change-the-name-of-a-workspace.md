@@ -17,13 +17,15 @@ ht-degree: 100%
 >**管理者権限が必要です**
 
 >[!PREREQUISITES]
-[新しいワークスペースを作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)>
+>
+>[新しいワークスペースを作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)>
 >
 
 ワークスペースの名前はユーザーが変更できます。手順はとても簡単です。
 
 >[!NOTE]
-まず「[ワークスペースとリードパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)」を確認してください。
+>
+>まず「[ワークスペースとリードパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)」を確認してください。
 
 1. 「**管理**」で「**ワークスペースとパーティション**」をクリックします。
 

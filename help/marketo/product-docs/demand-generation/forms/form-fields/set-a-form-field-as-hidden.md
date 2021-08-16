@@ -31,5 +31,6 @@ ht-degree: 100%
 >Ctrl＋Alt＋H のキーボードショートカットでフィールドを非表示にできます。
 
 >[!MORELIKETHIS]
-[非表示フォームフィールドの値を設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)>
+>
+>[非表示フォームフィールドの値を設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)>
 >

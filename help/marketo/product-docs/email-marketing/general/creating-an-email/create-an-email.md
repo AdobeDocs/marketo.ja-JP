@@ -65,5 +65,6 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 これでメールが作成されたので、編集します。
 
 >[!MORELIKETHIS]
-[メールヘッダーを編集する](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)>
+>
+>[メールヘッダーを編集する](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)>
 >

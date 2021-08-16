@@ -105,5 +105,6 @@ Email Editor v2.0 を有効化すると、いくつかの新機能に気づか�
 >さらに深く掘り下げたい場合は、[便利なビデオ](https://nation.marketo.com/videos/1463)をご覧ください。
 
 >[!MORELIKETHIS]
-[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)>
+>
+>[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)>
 >

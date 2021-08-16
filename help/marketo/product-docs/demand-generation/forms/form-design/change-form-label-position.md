@@ -54,5 +54,6 @@ ht-degree: 100%
 よくやった！ フォーム上のラベルの位置を簡単に変更する方法 フォームラベルのフォントを変更する場合に実行できる操作を見てみましょう。
 
 >[!MORELIKETHIS]
-[フォームフォントファミリの変更](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)>
+>
+>[フォームフォントファミリの変更](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)>
 >

@@ -19,7 +19,8 @@ ht-degree: 100%
 >**管理者権限が必要です**
 
 >[!PREREQUISITES]
-[リードパーティションを新規作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)>
+>
+>[リードパーティションを新規作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)>
 >
 
 1. 「**管理**」で「**ワークスペースとパーティション**」をクリックします。
@@ -41,4 +42,5 @@ ht-degree: 100%
 作業は以上です。このような強力な機能は複雑だと思われそうですが、そうではありません。
 
 >[!CAUTION]
-実行に移す前に、念には念を入れましょう。間違ったワークスペースにパーティションを割り当てるのは避けるべきです。
+>
+>実行に移す前に、念には念を入れましょう。間違ったワークスペースにパーティションを割り当てるのは避けるべきです。

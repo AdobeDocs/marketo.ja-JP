@@ -15,7 +15,8 @@ ht-degree: 100%
 非表示のフィールドは、通常、動的に設定されます。フォームの入力者には表示されません。その値の設定方法を説明しましょう。
 
 >[!PREREQUISITES]
-[フォームフィールドを非表示に設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)>
+>
+>[フォームフィールドを非表示に設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)>
 >
 
 ## フィールドの選択 {#select-the-field}
@@ -35,7 +36,8 @@ ht-degree: 100%
 ユーザーがフォームの入力時に閲覧しているページから URL パラメーター（クエリー文字列）を取り込む場合は、**URL パラメーター**&#x200B;を使用して非表示のフィールドに値を入力できます。
 
 >[!NOTE]
-パラメーターは少し専門的に思えますが、一度使えるようになれば、強力なものです。この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
+>
+>パラメーターは少し専門的に思えますが、一度使えるようになれば、強力なものです。この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
 
 1. **取得値のタイプ**&#x200B;として「**URL パラメーター**」を選択します。
 
@@ -46,7 +48,8 @@ ht-degree: 100%
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
 >[!TIP]
-URL パラメーターが見つからない場合に備えて「デフォルト値」を入力することも可能です。
+>
+>URL パラメーターが見つからない場合に備えて「デフォルト値」を入力することも可能です。
 
 ## Cookie 値 {#cookie-value}
 
@@ -61,7 +64,8 @@ Cookie にデータを保存する場合は、**Cookie 値**&#x200B;を使用し
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
    >[!TIP]
-   URL パラメーターが見つからない場合に備えて「デフォルト値」を入力することも可能です。
+   >
+   >URL パラメーターが見つからない場合に備えて「デフォルト値」を入力することも可能です。
 
 ## リファラーパラメーター {#referrer-parameter}
 
@@ -76,7 +80,8 @@ Cookie にデータを保存する場合は、**Cookie 値**&#x200B;を使用し
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
-   URL パラメーターが見つからない場合に備えて「**デフォルト値**」を入力することも可能です。
+   >
+   >URL パラメーターが見つからない場合に備えて「**デフォルト値**」を入力することも可能です。
 
 1. 「**終了**」をクリックします。
 
