@@ -1,52 +1,48 @@
 ---
 unique-page-id: 2949962
-description: フォームフィールドの表示/非表示の動的切り替え —Marketoドキュメント — 製品ドキュメント
-title: フォームフィールドの表示/非表示を動的に切り替える
+description: フォームフィールドの表示設定を動的に切り替える — Marketo ドキュメント — 製品ドキュメント
+title: フォームフィールドの表示設定を動的に切り替える
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フォームフィールドの表示/非表示を動的に切り替える{#dynamically-toggle-visibility-of-a-form-field}
+# フォームフィールドの表示設定を動的に切り替える {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
->* [フ追加ォームの国選択リスト](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [フォームに国選択リストを追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-Marketoフォームの非常に素晴らしい機能の1つは、フォームフィールドや[フィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)を動的に非表示/表示できる点です。
+Marketo フォームの素晴らしい機能の 1 つは、フォームフィールドや[フィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)の表示設定を動的に切り替えられることです。
 
 >[!NOTE]
->
->**例**
->
->この例では、「**国**」が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
+**例**
+この例では、**国**&#x200B;が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. フォームを選択し、「**フォームを編集**」をクリックします。
+1. フォームを選択し、「**フォームの編集**」をクリックします。
 
    ![](assets/editform-1.png)
 
-1. 動的に表示/非表示にするフィールドを選択し、「**表示ルール**」のリンクをクリックします。
+1. 表示設定を動的に切り替えるフィールドを選択し、「**表示設定ルール**」リンクをクリックします。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
-1. 条件を作成するフィールドを探して選択します。
+1. 条件として指定するフィールドを検索して選択します。
 
    ![](assets/image2014-9-15-15-3a16-3a12.png)
 
 1. 演算子を選択します。
 
    >[!TIP]
-   >
-   >「開始」のようなあいまいなマッチを選ぶので、これは格好いいです。
+   「次の語句で始まる」のようなあいまい一致を選択できるので、これは素晴らしいです。
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -55,15 +51,13 @@ Marketoフォームの非常に素晴らしい機能の1つは、フォームフ
    ![](assets/image2014-9-15-15-3a17-3a4.png)
 
    >[!TIP]
-   >
-   >ドロップダウンを開いているときに複数の値をクリックすると、複数の値を選択できます。 例えば、「United States」と「Canada」を選択できます。
+   ドロップダウンを開いた状態で複数の値をクリックして選択できます。例えば、「米国」と「カナダ」を選択できます。
 
    >[!NOTE]
-   >
-   >以前は、「国」を「ピックリスト」フィールドタイプに変換し、[すべての国を値](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)として追加していました。
+   すでに、「国」のフィールドタイプを候補リストに変換し、[すべての国を値として追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)作業を完了しているものとします。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-それだ！ 現在は、ユーザーがこのフォームに入力し、「国別」で「米国」を選択すると、指定した選択肢と共に「州」フィールドが動的に表示されます。
+これで手順は完了です。訪問者がこのフィールドに入力し、「国」で「米国」を選択すると、選択肢が指定された状態で「州」フィールドが動的に表示されます。
