@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2360203
-description: APIのみのユーザーロールの作成 — Marketoドキュメント — 製品ドキュメント
-title: APIのみのユーザーロールの作成
+description: API のみのユーザーの役割を作成する — Marketo ドキュメント — 製品ドキュメント
+title: API のみのユーザーの役割を作成する
 source-git-commit: 1cb8541afadb9a2c049d815fbc8d35a5e1bf01f6
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# APIのみのユーザーロールの作成 {#create-an-api-only-user-role}
+# API のみのユーザーの役割を作成する {#create-an-api-only-user-role}
 
-[REST API](https://developers.marketo.com/documentation/rest/)を使用してMarketoと統合する場合、ベストプラクティスは[ユーザーにAPIのみの役割](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を割り当て、[ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)で使用するカスタムサービスを作成することです。 APIのみのユーザーロールを作成する方法を以下に示します。
+[REST API](https://developers.marketo.com/documentation/rest/) を使用して Marketo と統合する場合、ベストプラクティスは[ユーザーに API のみの役割](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を割り当て、使用するカスタムサービスを [REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) で作成することです。API のみのユーザーの役割を作成する方法を以下に示します。
 
 >[!NOTE]
 >
->**管理者権限が必要**
+>**管理者権限が必要です**
 
-1. My Marketoで、「**管理者**」をクリックします。
+1. My Marketo で、「**管理者**」をクリックします。
 
    ![](assets/adminhand-1.png)
 
-1. 「セキュリティ」で、「**ユーザーとロール**」をクリックします。
+1. 「セキュリティ」で「**ユーザーと役割**」をクリックします。
 
    ![](assets/two.png)
 
-1. 「**役割**」タブをクリックし、「**新しい役割**」をクリックします。
+1. 「**役割**」タブをクリックしてから、「**新規の役割**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
-1. ロール名を入力し、与えるAPIアクセス権限を選択して、「**作成**」をクリックします。
+1. 「役割名」を入力し、付与する API 権限を「権限」から選択して、「**作成**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a47-3a36.png)
 
@@ -40,4 +40,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->よしよし！ 次に、[APIのみのユーザー](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を作成します。
+>できましたね。次に、[API のみのユーザー](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を作成します。
