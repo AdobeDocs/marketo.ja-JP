@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2360325
-description: ワークスペースへのユーザーアクセスを許可する —Marketoドキュメント — 製品ドキュメント
-title: ワークスペースへのユーザーアクセスを許可
+description: ワークスペースへのユーザーアクセス権を設定する — Marketo ドキュメント — 製品ドキュメント
+title: ワークスペースへのユーザーアクセス権を設定する
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ワークスペースへのユーザーアクセスを許可{#allow-user-access-to-a-workspace}
+# ワークスペースへのユーザーアクセス権を設定する {#allow-user-access-to-a-workspace}
 
-ワークスペースは、どのような理由でも使用できます（事業単位や地域の分離など）。 アセット(スマートリスト、プログラムなど)を 各チームの 1つ以上のワークスペースにユーザーアクセスを与える方法を次に示します。
-
->[!NOTE]
->
->**必要な管理者権限**
+ワークスペースは、任意の理由（ビジネスユニットや地域の分離など）で使用できます。各チームのアセット（スマートリスト、プログラムなど）を分離します。以下の手順を実行すると、1 つまたは複数のワークスペースに対するユーザーのアクセス権を設定することができます。
 
 >[!NOTE]
 >
->[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)の詳細を表示します。
+>**管理者権限が必要です**
 
-1. 「管理者」で、「ユーザーとロール」をクリックします。
+>[!NOTE]
+>
+>[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)の詳細はこちらです。
+
+1. 「管理」で「ユーザーと役割」をクリックします。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 「**ユーザー**」タブで、ユーザーを選択し、「**ユーザーを編集**」をクリックします。
+1. 「**ユーザ**」タブでユーザーを選択し、「**ユーザの編集**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. ユーザーにアクセス権を与える&#x200B;**ロールとワークスペース**&#x200B;を選択します。
+1. ユーザーにアクセス権を付与する&#x200B;**役割およびワークスペース**&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >ユーザーにワークスペースへのアクセスを任意の組み合わせで許可できます。
+   >ユーザーに任意の組み合わせでワークスペースにアクセスを許可できます。
 
    ![](assets/image2014-9-17-11-3a3-3a16.png)
 
@@ -43,4 +42,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-OK！ユーザーがログインすると、ユーザーにアクセス権を与えたすべてのワークスペースが表示されます。
+完成です。ユーザーがログインすると、アクセス権が付与されたすべてのワークスペースが表示されます。
