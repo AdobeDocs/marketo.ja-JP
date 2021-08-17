@@ -1,32 +1,30 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Managerでのアセットの読み込み —Marketoドキュメント — 製品ドキュメント
+description: Adobe Experience Managerでのアセットの読み込み — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Managerでのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 
-# Adobe Experience Manager{#importing-assets-with-adobe-experience-manager}でのアセットの読み込み
+# Adobe Experience Managerでのアセットの読み込み {#importing-assets-with-adobe-experience-manager}
 
-Asset Pickerを使用すると、Marketoのお客様はAEMアセットにアクセス、選択およびMarketoのDesign Studioへの読み込みを行うことができます。 **管理者権限が必要です**。
+アセットセレクターを使用すると、Marketoのお客様は、AEMアセットにアクセスし、選択し、Marketo Design Studioに読み込むことができます。 **管理者権限が必要です**。
 
 >[!AVAILABILITY]
 >
->
->この機能を購入した顧客はいません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>すべてのお客様がこの機能を購入したわけではありません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 >[!PREREQUISITES]
 >
->[AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)を既に実行済みであることを確認してください。
+>[AEM設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)を既に実行済みであることを確認します。
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->現在、この機能はFirefoxでのみ完全にサポートされています。 Safariではサポートされていないため、SameSite Cookieの設定によっては、最新バージョンのChrome(v. 80)では動作しない場合があります。
+>この機能は、現在のバージョンのFirefox、Chrome、Edgeで完全にサポートされています。 Safariではサポートされていません。
 
 1. 「**Design Studio**」をクリックします。
 
@@ -44,7 +42,7 @@ Asset Pickerを使用すると、Marketoのお客様はAEMアセットにアク�
 
    ![](assets/four-1.png)
 
-1. フォルダーを選択します。 次に、サムネールをクリックして目的の画像を選択します（10個まで選択できます）。 終了したら「****&#x200B;を選択」をクリックします。
+1. フォルダーを選択します。 次に、サムネールをクリックして目的の画像を選択します（最大10個選択できます）。 終了したら「**選択**」をクリックします。
 
    ![](assets/five.png)
 
@@ -56,14 +54,14 @@ Asset Pickerを使用すると、Marketoのお客様はAEMアセットにアク�
 
    ![](assets/six-1.png)
 
-   それだ！ 「**閉じる**」をクリックしてDesign Studioに戻ります。
+   これで手順は完了です。**閉じる**&#x200B;をクリックして、Design Studioに戻ります。
 
    ![](assets/seven-1.png)
 
-## 注意事項{#things-to-note}
+## 注意事項 {#things-to-note}
 
 Marketoは現在、Adobe Experience Managerバージョン6.4および6.5をサポートしています。
 
-インスタンス内のすべてのユーザは、読み込んだ画像に表示したり、アクセスしたりできます。
+インスタンス内のすべてのユーザーが、読み込んだ画像を表示/アクセスできます。
 
-画像は自動的に更新されません。 MarketoDesign Studioに読み込んだイメージがAEMで更新された場合は、手動でMarketoに再読み込みする必要があります。
+画像は自動的には更新されません。 Marketo Design Studioに読み込んだ画像がAEMで更新された場合は、手動でMarketoに再読み込みする必要があります。
