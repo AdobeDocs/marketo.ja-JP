@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 15%
@@ -493,18 +493,18 @@ ht-degree: 15%
                + [Eメールのプレビュー](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [サンプルの送信](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [B.一瞬を共有する](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + その他{#miscellaneous}
-            + [Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [新しいキャンペーンフォルダーの作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [Adobe Experience Managerでのアセットの読み込み](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [キーボードショートカットの用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [Marketo Assetの名前の変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Adobe Experience Cloudオーディエンス共有のセットアップ](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [Adobe Experience Cloudからのオーディエンスの同期](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [通知タイプ](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + その他{#miscellaneous}
+         + [Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [新しいキャンペーンフォルダーの作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Adobe Experience Managerでのアセットの読み込み](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [キーボードショートカットの用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Marketo Sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [Marketo Assetの名前の変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [Adobe Experience Cloudオーディエンス共有のセットアップ](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [Adobe Experience Cloudからのオーディエンスの同期](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [通知タイプ](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + CRM 同期 {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Microsoft Dynamics同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
