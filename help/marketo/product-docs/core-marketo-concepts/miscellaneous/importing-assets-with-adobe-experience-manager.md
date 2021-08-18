@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Adobe Experience Managerでのアセットの読み込み — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Managerでのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -60,8 +60,8 @@ ht-degree: 2%
 
 ## 注意事項 {#things-to-note}
 
-Marketoは現在、Adobe Experience Managerバージョン6.4および6.5をサポートしています。
+* Marketoは現在、Adobe Experience Managerバージョン6.4および6.5をサポートしています。
 
-インスタンス内のすべてのユーザーが、読み込んだ画像を表示/アクセスできます。
+* インスタンス内のすべてのユーザーが、読み込んだ画像を表示/アクセスできます。
 
-画像は自動的には更新されません。 Marketo Design Studioに読み込んだ画像がAEMで更新された場合は、手動でMarketoに再読み込みする必要があります。
+* 画像は自動的には更新されません。 Marketo Design Studioに読み込んだ画像がAEMで更新された場合は、手動でMarketoに再読み込みする必要があります。
