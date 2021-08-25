@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: リリーススケジュール — Marketoドキュメント — 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 4%
+source-wordcount: '130'
+ht-degree: 5%
 
 ---
 
@@ -49,12 +49,12 @@ _リリース日は変更される場合があります_
   <tr> 
    <td colspan="1">2021年8月</td> 
    <td colspan="1">2021年8月21日</td> 
-   <td colspan="1">進行中</td> 
+   <td colspan="1">発送済み</td> 
   </tr> 
   <tr> 
    <td colspan="1">21年10月</td> 
-   <td colspan="1">2021年10月16日</td> 
-   <td colspan="1">スケジュールに従う</td> 
+   <td colspan="1">2021年10月23日</td> 
+   <td colspan="1">進行中</td> 
   </tr> 
  </tbody> 
 </table>
