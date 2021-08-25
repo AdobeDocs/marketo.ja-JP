@@ -1,9 +1,9 @@
 ---
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
-source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
+source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '904'
 ht-degree: 4%
 
 ---
@@ -20,11 +20,9 @@ ht-degree: 4%
 
 次の機能は、2021年8月20日にリリースされます。****
 
-## Adobe Experience Platform統合 {#adobe-experience-platform-integration}
+## エクスペリエンスの自動化 {#experience-automation}
 
 * **Marketo EngageIDを使用したAdobeユーザー認証**:2021年9月より、Enterpriseパッケージを持つ新しいMarketo Engageユーザーは、Adobe IDのユーザー資格情報を使用してオンボーディングされます。統合IDシステムへの現在のユーザーの移行は、2022年半ばまでおこなわれず、追加の通知がおこなわれるまでは、何の操作も必要ありません。 AdobeIDExperience Cloudを使用すると、IT/セキュリティ管理者は、他のユーザーソリューションと共に複数のMarketo Engage製品インスタンスを管理し、共通のコンソールを使用してSSOを設定できます。 管理者は、ユーザーグループとユーザー使用権限を1か所で管理できます。
-
-## エクスペリエンスの自動化 {#experience-automation}
 
 * **実行可能なキャンペーンのネスト**:実行可能なキャンペーンが、他の実行可能なキャンペーンを呼び出して、最大3レベルの深さまでネストできるようになりました。これにより、一般的な運用フローをさらに統合し、スマートキャンペーン管理を改善できます。
 
