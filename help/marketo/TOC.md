@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 15%
@@ -562,51 +562,51 @@ ht-degree: 15%
          + [アプリをAzureに登録して、クライアントID/アプリIDを取得する](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [リードまたは連絡先の削除](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce 同期 {#salesforce-sync}
-      + [Salesforce同期について](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-      + セットアップ {#setup}
-         + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
-            + [手順1/3:SalesforceへのMarketoフィールドの追加（エンタープライズ/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-            + [手順2 / 3:Marketo向けSalesforceユーザーの作成（エンタープライズ/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-            + [手順3/3:MarketoとSalesforceの接続（Enterprise/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-         + Professional Edition {#professional-edition}
-            + [手順1/3:MarketoフィールドのSalesforce(Professional)への追加](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-            + [手順2 / 3:Marketo(Professional)用Salesforceユーザーの作成](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-            + [手順3/3:MarketoとSalesforce(Professional)の接続](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
-         + オプションの手順{#optional-steps}
-            + [スマートリスト/オブジェクト制約としてのカスタムオブジェクトフィールドの追加/トリガーの削除](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-            + [アクティビティ同期のカスタマイズ](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
-            + [初期フィールドマッピングの編集](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
-            + [キャンペーン同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
-            + [Marketo Syncユーザーをマーケティングユーザーにする](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
-            + [カスタムオブジェクト同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
-            + [英語以外のカスタムオブジェクト同期の有効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
-            + [既定のユーザーの姓と会社名の設定](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
-            + [リード所有者への電子メール通知を無効にする](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + SFDC同期の詳細{#sfdc-sync-details}
-            + [同期前のプログラムステータスとSalesforceキャンペーンステータスの照合方法](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-            + [SFDC同期：アカウントの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-            + [個人アカウントの使用](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-            + [SFDC同期：アクティビティ同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-            + [SFDC同期：キャンペーンの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-            + [SFDC同期：連絡先の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [SFDC同期：Salesforceでのリードの連絡先への変換](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-            + [SFDC同期：カスタムオブジェクト同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-            + [SFDC同期：リード/連絡先の削除](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-            + [SFDC同期：フィールド同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-            + [既存のSalesforceフィールドのMarketo Syncへの追加](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-            + [デフォルトのSalesforceフィールドマッピング](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-            + [Marketo Syncに対するSalesforceフィールドの非表示](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-            + [SFDC同期：リード/アカウントの所有者の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-            + [SFDC同期：リードキュー](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-            + [SFDC同期：リード同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-            + [SFDC同期：リード/連絡先/個人のマージ](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-            + [SFDC同期：オポチュニティ同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-         + [選択リスト値の追加/削除](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [Salesforce同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-         + [暗黙的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-         + [Salesforce同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-         + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [OAuth 2.0を使用したログイン](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce同期について](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + セットアップ {#setup}
+            + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
+               + [手順1/3:SalesforceへのMarketoフィールドの追加（エンタープライズ/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+               + [手順2 / 3:Marketo向けSalesforceユーザーの作成（エンタープライズ/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+               + [手順3/3:MarketoとSalesforceの接続（Enterprise/無制限）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+            + Professional Edition {#professional-edition}
+               + [手順1/3:MarketoフィールドのSalesforce(Professional)への追加](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+               + [手順2 / 3:Marketo(Professional)用Salesforceユーザーの作成](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+               + [手順3/3:MarketoとSalesforce(Professional)の接続](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+            + オプションの手順{#optional-steps}
+               + [スマートリスト/オブジェクト制約としてのカスタムオブジェクトフィールドの追加/トリガーの削除](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+               + [アクティビティ同期のカスタマイズ](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
+               + [初期フィールドマッピングの編集](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
+               + [キャンペーン同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
+               + [Marketo Syncユーザーをマーケティングユーザーにする](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
+               + [カスタムオブジェクト同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+               + [英語以外のカスタムオブジェクト同期の有効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
+               + [既定のユーザーの姓と会社名の設定](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+               + [リード所有者への電子メール通知を無効にする](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
+            + SFDC同期の詳細{#sfdc-sync-details}
+               + [同期前のプログラムステータスとSalesforceキャンペーンステータスの照合方法](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+               + [SFDC同期：アカウントの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+               + [個人アカウントの使用](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+               + [SFDC同期：アクティビティ同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+               + [SFDC同期：キャンペーンの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+               + [SFDC同期：連絡先の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+               + [SFDC同期：Salesforceでのリードの連絡先への変換](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+               + [SFDC同期：カスタムオブジェクト同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+               + [SFDC同期：リード/連絡先の削除](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+               + [SFDC同期：フィールド同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+               + [既存のSalesforceフィールドのMarketo Syncへの追加](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+               + [デフォルトのSalesforceフィールドマッピング](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
+               + [Marketo Syncに対するSalesforceフィールドの非表示](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
+               + [SFDC同期：リード/アカウントの所有者の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+               + [SFDC同期：リードキュー](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+               + [SFDC同期：リード同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+               + [SFDC同期：リード/連絡先/個人のマージ](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+               + [SFDC同期：オポチュニティ同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+            + [選択リスト値の追加/削除](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+            + [Salesforce同期の有効化/無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+            + [暗黙的なSalesforceアクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+            + [Salesforce同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+            + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+            + [OAuth 2.0を使用したログイン](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + 需要生成{#demand-generation}
       + 広告ネットワーク統合{#ad-network-integrations}
          + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
