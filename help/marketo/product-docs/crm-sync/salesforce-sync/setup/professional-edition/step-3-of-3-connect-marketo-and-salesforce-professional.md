@@ -1,37 +1,36 @@
 ---
 unique-page-id: 3571800
-description: 手順3/3 -MarketoとSalesforceの接続(Professional) -Marketoドキュメント — 製品ドキュメント
-title: 手順3/3 -MarketoとSalesforceの接続（プロフェッショナル）
+description: 手順3 / 3 -MarketoとSalesforceの接続(Professional) - Marketoドキュメント — 製品ドキュメント
+title: 手順3 / 3 -MarketoとSalesforceの接続(Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-# 手順3/3:MarketoとSalesforce (Professional)を接続{#step-of-connect-marketo-and-salesforce-professional}
+# 手順3/3:MarketoとSalesforce(Professional)の接続 {#step-of-connect-marketo-and-salesforce-professional}
 
-この記事では、設定したSalesforceインスタンスと同期するようにMarketoを設定します。
+この記事では、Marketoを設定済みのSalesforceインスタンスと同期するように設定します。
 
 >[!PREREQUISITES]
 >
->* [手順1/3:Salesforce追加 (Professional)に対するMarketoフィールド](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [手順2/3:Marketo(Professional)用Salesforceユーザーの作成](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>* [手順1/3:MarketoフィールドのSalesforce(Professional)への追加](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [手順2 / 3:Marketo(Professional)用Salesforceユーザーの作成](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
-## 同期ユーザーセキュリティトークンの取得{#retrieve-sync-user-security-token}
+## 同期ユーザーセキュリティトークンの取得 {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
->既にセキュリティトークンをお持ちの場合は、準備のために「同期ユーザー資格情報とKDを設定」に直接進みます。
+>既にセキュリティトークンを持っている場合は、Set Sync User Credentials and Kudosに直接進んで準備します。
 
-1. Marketo同期ユーザーを使用してSalesforceにログインし、同期ユーザーの名前をクリックして、**マイ設定**&#x200B;をクリックします。
+1. Marketo Sync UserでSalesforceにログインし、同期ユーザーの名前をクリックしてから、**My Settings**&#x200B;をクリックします。
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. ナビゲーション検索バーで「reset」と入力し、「**Reset My Security Token**」をクリックします。
+1. ナビゲーション検索バーに「reset」と入力し、「**Reset My Security Token**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
@@ -41,23 +40,23 @@ ht-degree: 0%
 
    セキュリティトークンは電子メールで送信されます。
 
-## 同期ユーザー資格情報の設定{#set-sync-user-credentials}
+## ユーザーの資格情報の同期の設定 {#set-sync-user-credentials}
 
-1. Marketoで、**管理者**&#x200B;に移動し、**CRM**&#x200B;を選択し、**Salesforce.com](https://Salesforce.com)**&#x200B;と同期をクリックします。[
+1. Marketoで、「**管理**」に移動し、「**CRM**」を選択して、「**[Salesforce.com](https://Salesforce.com)**&#x200B;と同期」をクリックします。
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >[**フィールドを同期**]をクリックする前に、Marketoで不要な](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドをすべて非表示にしてください。 [[フィールドの同期]をクリックすると、ユーザーに表示されるすべてのフィールドがMarketoに完全に作成され、削除できません。
+   >**「フィールドを同期**」をクリックする前に、Marketoで不要な](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)フィールドをすべて同期ユーザーから非表示にしてください。 [「フィールドを同期」をクリックすると、ユーザーに表示されるすべてのフィールドがMarketoに完全に作成され、削除できなくなります。
 
-1. Salesforce設定([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))のパート2で作成したSalesforce同期ユーザー資格情報を入力し、「**フィールドを同期**」をクリックします。
+1. Salesforce設定のパート2で作成したSalesforce Syncユーザーの資格情報([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))を入力し、「**フィールドを同期**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >Salesforce SandboxにMarketoSandboxを同期する場合は、**Sandbox**&#x200B;を確認してください。
+   >MarketoサンドボックスをSalesforceサンドボックスに同期する場合は、**Sandbox**&#x200B;をオンにします。
 
 1. 警告を読み、「**資格情報を確認**」をクリックします。
 
@@ -65,35 +64,35 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)したい場合は、これが唯一の方法です！ 「開始」「Salesforce同期」をクリックすると、同期が完了します。
+   >[マッピングを調べてカスタマイズしたい場合は](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)、これが唯一のチャンスです。 「Salesforce同期を開始」をクリックすると、完了です。
 
 ## Salesforce 同期の開始 {#start-salesforce-sync}
 
-1. 「**開始Salesforce Sync**」をクリックして、永続的なMarketo-Salesforce同期を開始します。
+1. 「**Salesforce同期を開始**」をクリックして、永続的なMarketo-Salesforce同期を開始します。
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
    >[!CAUTION]
    >
-   >Marketoは、Salesforce同期に対して、または手動でリードを入力した場合、自動的に重複を排除しません。
+   >Marketoは、Salesforceの同期や、リードを手動で入力した場合、自動的に重複排除をおこないません。
 
-1. **開始同期**&#x200B;をクリックします。
+1. 「**同期を開始**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
    >[!NOTE]
    >
-   >初期同期が完了するまでの時間は、データベースのサイズと複雑さに応じて異なります。
+   >初期同期が完了するまでの時間は、データベースのサイズと複雑さによって異なります。
 
-## 同期の確認{#verify-sync}
+## 同期の検証 {#verify-sync}
 
-Marketoは、管理領域にSalesforce同期のステータスメッセージを表示します。 次の手順に従って、同期が正しく動作していることを確認できます。
+Marketoの「管理」領域に、Salesforce同期のステータスメッセージが表示されます。 次の手順に従うことで、同期が正しく機能していることを確認できます。
 
-1. Marketoで、**管理者**&#x200B;をクリックし、**Salesforce**&#x200B;をクリックします。
+1. Marketoで、「**管理者**」をクリックし、「**Salesforce**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 同期ステータスは、右上隅に表示されます。 次の3つのメッセージのいずれかが表示されます。**前回同期**、**同期中**、または&#x200B;**失敗**。
+1. 同期ステータスは右上隅に表示されます。 次の3つのメッセージのいずれかが表示されます。**最後に同期された**、**処理中の同期**、または&#x200B;**失敗**。
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
@@ -105,6 +104,6 @@ Marketoの最も強力な機能の1つの設定が完了しました。
 
 >[!MORELIKETHIS]
 >
->* [SalesforceAppExchangeでのMarketoSales Insightパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Salesforce Professional EditionでのMarketo販売インサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Marketo Sales InsightパッケージのSalesforceAppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Salesforce Professional EditionでのMarketo Sales Insightの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
