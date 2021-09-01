@@ -1,39 +1,38 @@
 ---
 unique-page-id: 11381689
-description: TAMを使用したアカウントベースのウェブマーケティング —Marketoドキュメント — 製品ドキュメント
-title: TAMを使用したアカウントベースのウェブマーケティング
+description: TAM によるアカウントベース Web マーケティング — Marketo ドキュメント — 製品ドキュメント
+title: TAM によるアカウントベース Web マーケティング
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# TAMを使用したアカウントベースのウェブマーケティング{#account-based-web-marketing-with-TAM}
+# TAM によるアカウントベース Web マーケティング {#account-based-web-marketing-with-TAM}
 
-Marketoオファーは、[ターゲットアカウント管理](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)(TAM)アプリケーションを使用します。
+Marketo に、新しく[ターゲットアカウント管理](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)（TAM）アプリケーションが導入されました。
 
-Marketoウェブパーソナライゼーションおよびターゲットアカウント管理(TAM)を使用する場合：
+Marketo Web パーソナライゼーションとターゲットアカウント管理（TAM）の併用には、次のような特徴があります。
 
-* TAMはアカウントリストのソースです。
-* アカウントリストはTAMで管理（作成、編集、削除）されます
-* アカウントリストはWebパーソナライゼーションと同期され、セグメントで使用できます。 ドロップダウンから選択します
+* TAM が顧客リストのソースになります。
+* 顧客リストは TAM で管理（作成、編集、削除）されます。
+* 顧客リストは、セグメント化で使用できるように Web パーソナライゼーションに同期されます。ドロップダウンから選択してください
 
-   * **注意**:同期には最大5分かかる場合があります
+   * **注**：同期には、最大で 5 分かかります。
 
-* ウェブパーソナライゼーションでは、TAMで作成したアカウントリスト](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)からアカウントをターゲットにした[セグメントを作成し、これらのアカウント用にコンテンツをパーソナライズできます。
+* Web パーソナライゼーションでは、Web TAM で作成した[顧客リストから、顧客をターゲットにしたセグメント](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)を作成し、その顧客に向けてコンテンツをパーソナライズすることができます。
 
-## 既存のABWMのお客様の場合{#for-existing-abwm-customers}
+## 既存の ABWM の顧客 {#for-existing-abwm-customers}
 
-既にABWMを使用している場合：
+すでに ABWM を使用している場合は、次のようになります。
 
-* TAMのABWM _および_&#x200B;にアカウントリストを作成できます
-* ABWMのTAM _および_&#x200B;で、アカウントリストを作成、編集、削除できます。
-* アカウントリスト（ABWMとTAMの両方から）は、Webパーソナライゼーションと同期され、セグメント化で使用
+* ABWM _および_ TAM に顧客リストを作成できます
+* ABWM の TAM _および_ ABWM に顧客リストを作成、編集、削除できます
+* 顧客リスト（ABWM と TAM の両方から）は、セグメント化で使用するために Web パーソナライゼーションと同期されます
 
-   * **注意**:同期には最大5分かかる場合があります
+   * **注**：同期には、最大で 5 分かかります。
 
-* Webパーソナライゼーションでは、_ABWMとTAMの両方で作成されたアカウントリストから、ターゲットアカウントのセグメントを作成し、これらのアカウント用にコンテンツをパーソナライズできます_
-* CSVファイルは、ウェブパーソナライゼーションのアカウントリストページでアップロードできます
+* Web パーソナライゼーションでは、ABM と ABM の&#x200B;_両方_&#x200B;で作成した顧客リストから、顧客をターゲットにしたセグメントを作成し、その顧客に向けてコンテンツをパーソナライズすることができます。
+* Web パーソナライゼーションの顧客リストページから、CSV ファイルをアップロードできます。
