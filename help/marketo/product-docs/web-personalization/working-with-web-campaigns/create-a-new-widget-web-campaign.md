@@ -1,39 +1,38 @@
 ---
 unique-page-id: 4719402
-description: 新しいウィジェットWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
-title: 新しいウィジェットWebキャンペーンの作成
+description: 新しいウィジェット Web キャンペーンを作成する — Marketo ドキュメント — 製品ドキュメント
+title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '632'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# 新しいウィジェットWebキャンペーンの作成{#create-a-new-widget-web-campaign}
+# 新しいウィジェット Web キャンペーンを作成する {#create-a-new-widget-web-campaign}
 
-Webキャンペーンーは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)の[、ウィジェット機能、電子メールアラートのいずれかになります。 ウィジェットのWebキャンペーンは、Webページの垂直側に表示されるテキストまたはバナーで、拡大や縮小が可能ですが、訪問中はWebサイトページ上で固定されたままになります。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、Web サイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。ウィジェット Web キャンペーンは、Web ページの縦枠に表示されるテキストまたはバナーで、拡張と縮小は可能ですが、訪問している間ずっと Web サイトのページ上に固定されたままです。
 
-## ウィジェットウェブキャンペーンの作成{#create-a-widget-web-campaign}
+## ウィジェット Web キャンペーンを作成する {#create-a-widget-web-campaign}
 
-1. **Webキャンペーン**&#x200B;に移動します。
+1. 「**Web キャンペーン**」に移動します
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 「**新しいWebキャンペーンーを作成**」を選択します。
+1. 「**Web キャンペーンの新規作成**」を選択します。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. **ウィジェット**&#x200B;キャンペーンタイプを選択します。
+1. キャンペーンタイプとして「**ウィジェット**」を選択します。
 
    ![](assets/3.png)
 
-1. 複数のオプションを使用してウィジェットをカスタマイズします。
+1. 複数のオプションからウィジェットをカスタマイズします。
 
    ![](assets/4.png)
 
-1. **プレビュー**&#x200B;をクリックして、Webキャンペーンの反応を確認します。
+1. 「**プレビュー**」をクリックして、この Web キャンペーンがサイトでどう応答するかを確認します。
 
    ![](assets/preview.png)
 
@@ -41,53 +40,53 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">詳細</th> 
+   <th colspan="1" rowspan="1">説明</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>テンプレート</strong></td> 
-   <td colspan="1">あらかじめ用意されているテンプレートから1つ選択します。</td> 
+   <td colspan="1">事前作成済みのテンプレートの中から 1 つを選択します。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>表示場所</strong></td> 
-   <td colspan="1">Webキャンペーンーの<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">表示のタイミングと方法をカスタマイズできます。</a></td> 
+   <td colspan="1">Web キャンペーンを表示する<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">タイミングと方法をカスタマイズ</a>できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>イン/アウトをアニメート</strong></td> 
-   <td colspan="1">ダイアログの入口または終了時に設定 効果（ドロップ、ブラインド、スライド、フェード、効果なし）、時間（秒）、方向（上、下、左、右）を選択します。</td> 
+   <td colspan="1"><strong>アニメートイン／アウト</strong></td> 
+   <td colspan="1">ダイアログの入力時や終了時に設定します。効果（ドロップ、ブラインド、スライド、フェード、効果なし）、時間（秒）、方向（上下左右）を選択します。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>位置</strong></td> 
-   <td colspan="1">ページ上でのウィジェットの位置に関する4つのオプションのいずれかを選択します。右、左、上、下。 位置%は、ウィジェットがブラウザーページに表示される位置に関する割合です（例：「50%下」はウィジェットをページの下半分に表示し、「10%左」はウィジェットをページの左上近くに表示しますなど）。<br></td> 
+   <td colspan="1">ページ上でのウィジェットの位置に関する 4 つのオプション（上下左右）のいずれかを選択します。位置 % は、ウィジェットがブラウザーページで表示される位置を示す割合です（例：「50% 下」ではウィジェットをページの下半分に表示し、「10% 左」ではウィジェットをページの左上近くに表示します）。<br></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>ウィジェット色</strong></td> 
-   <td colspan="1" rowspan="1"><p>カラーグラフからウィジェットの色を選択するか、RGBカラーコードとして入力します。 ウィジェットの背景の透明度のレベルは、下部のバーをどちらかの方向に動かして選択することもできます。</p></td> 
+   <td colspan="1" rowspan="1"><p>ウィジェットの色を、カラーチャートから選択するか、RGB の色コードで入力します。下部にあるバーをいずれかの方向に動かして、ウィジェット背景の透明性も選択できます。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>ウィジェットボタン</strong><br></p></td> 
-   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色を指定します。<br>カスタム：ホストされている画像のURLを挿入します。使用できるファイルタイプは、.JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMPです。<br>テキスト：ウィジェットにはテキストを使用でき、色、サイズ、フォントをカスタマイズできます。</td> 
+   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右側のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色が決まります。<br>カスタム：ホストされている画像の URL を挿入します。受け入れられるファイルタイプ — .JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMP。<br>テキスト：ウィジェットはテキストにすることができます。色、サイズ、フォントをカスタマイズします。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>固定</strong></td> 
-   <td colspan="1">これを選択すると、訪問者のセッション中、ウィジェットがすべてのWebページに表示されます。</td> 
+   <td colspan="1">これを選択すると、訪問者のセッションを通じて、すべての Web ページにウィジェットが表示されます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>キャンペーン表示でウィジェットを最小化</strong></td> 
-   <td colspan="1">ウィジェットを挿入しますが、最小化したままにします。そのため、ユーザーはウィジェットをクリックして最大化する必要があります。</td> 
+   <td colspan="1"><strong>キャンペーンディスプレイ上のウィジェットを最小化</strong></td> 
+   <td colspan="1">ウィジェットを挿入しますが、最小化したままにします。最大化するには、ウィジェットをクリックする必要があります。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>デフォルトに戻す </strong></td> 
-   <td colspan="1">ウィジェットの色をデフォルトの透明なグレーのオプションに設定して、ウィジェットの元のデフォルト設定を復元します。</td> 
+   <td colspan="1"><strong>既定値に戻す </strong></td> 
+   <td colspan="1">ウィジェットの設定をオリジナルの設定に戻し、ウィジェットの色もデフォルトの透明灰色にします。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>オンサイトのプレビュー </strong></td> 
-   <td colspan="1">起動前のプレビューキャンペーン。<br> 
+   <td colspan="1">公開する前にキャンペーンをプレビューします。<br> 
     <ul> 
-     <li>URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
-     <li>プレビュー- <strong>プレビュー</strong>をクリックして、例のURLの新しいウィンドウを開き、キャンペーンの反応を確認します(最適なWebキャンペーンプレビュー体験を得るには、<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome拡張子追加</a>を参照)。 </li> 
-     <li>共有 — [共有]ボタンを使用して、プロキシキャンペーンを表示するためのリンクを持つ同僚に電子メールを送信します。</li> 
+     <li>URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li> 
+     <li>プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます（最高の Web キャンペーンプレビューエクスペリエンスのために <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome 拡張機能</a>を追加します）。 </li> 
+     <li>共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -95,38 +94,38 @@ Webキャンペーンーは、特定のセグメントに関連付けられた�
 
 >[!NOTE]
 >
->**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)ます。自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
+>**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)自動チューニング機能によって、パフォーマンスの良いキャンペーンが自動的に認識され、最もコンバージョンの高いキャンペーンが続行されて他のキャンペーンは一時停止されます。
 
-## Webキャンペーンの編集{#edit-a-web-campaign}
+## Web キャンペーンを編集する {#edit-a-web-campaign}
 
-Webキャンペーンページで、キャンペーンの「**編集**」をクリックします。
+Web キャンペーンページで、キャンペーンの「**編集**」をクリックします。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+>目的のキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-## Webキャンペーンのコピー{#clone-a-web-campaign}
+## Web キャンペーンを複製する {#clone-a-web-campaign}
 
-[Webキャンペーンーのコピー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
+[Web キャンペーンを複製する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
 
-## Webキャンペーンのプレビュー{#preview-a-web-campaign}
+## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-Webキャンペーンページで、プレビューするWebキャンペーンーの&#x200B;**プレビュー**&#x200B;をクリックします
+Web キャンペーンページで、確認したい Web キャンペーンの「**プレビュー**」をクリックします
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Webキャンペーンの削除{#delete-a-web-campaign}
+## Web キャンペーンを削除する {#delete-a-web-campaign}
 
-1. Webキャンペーンページで、削除するWebキャンペーンーの&#x200B;**削除**&#x200B;をクリックします。
+1. Web キャンペーンページで、削除したい Web キャンペーンの「**削除**」をクリックします。
 
    ![](assets/widget-campaign-delete-hand.png)
 
-1. Webキャンペーンーを削除するかどうかを確認する確認メッセージが表示されます。
+1. Web キャンペーンを削除するかどうかを確認する確認メッセージが表示されます。
 
 >[!MORELIKETHIS]
 >
->* [ゾーン内の新しいWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [新しいダイアログWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [新しいゾーン内 Web キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [新しいダイアログ Web キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
