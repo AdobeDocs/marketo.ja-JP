@@ -1,68 +1,67 @@
 ---
 unique-page-id: 10099408
-description: 電子メールインサイトの概要 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールインサイトの概要
+description: メールインサイトの概要 — Marketo ドキュメント — 製品ドキュメント
+title: メールインサイトの概要
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 電子メールインサイトの概要{#email-insights-overview}
+# メールインサイトの概要 {#email-insights-overview}
 
-電子メールインサイトは、電子メールマーケターにとっての履歴データから得られる強力なインサイトです。 2つのセクションが関連付けられています。解析と送信を参照してください。
+メールインサイトでは、メールマーケターが履歴データから強力なインサイトを引き出すことができます。メールインサイトは独立しつつ関連性のある 2 つのセクション（アナリティクスと送信）で構成されています。
 
-電子メールインサイトにアクセスするには、マイMarketo（またはAnalyticsのホーム画面）にあるタイルをクリックします。
+メールインサイトを開くには、「My  Marketo」（またはアナリティクスホーム画面）から、「メールインサイト」のタイルをクリックするだけです。
 
 ![](assets/icon.png)
 
 >[!NOTE]
 >
->デフォルトでは、アクセス権を持つすべてのワークスペースのデータが表示されます。 表示したくないワークスペースは選択解除できます。 選択した内容は、今後も記憶されます。
+>デフォルトでは、アクセスできる各ワークスペースについてデータが表示されます。表示する必要のないワークスペースは、選択を解除することができます。選択した内容は、これ以降も記憶されます。
 
 ## アナリティクス {#analytics}
 
-[Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)を使用して、電子メールの配信およびエンゲージメント指標の集計時系列データを調べます。
+[アナリティクス](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)では、メール配信とエンゲージメントの指標について集計時系列データを調べます。
 
 ![](assets/emailanalytics.jpg)
 
 **フィルター**
 
-高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、またはプラットフォームで結果を分類しました。 同じフィルターがAnalyticsとSendsの両方に適用されます。
+高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが、アナリティクスと送信のどちらにも適用されます。
 
 ![](assets/filter.png)
 
-**クイックグラフ**
+**クイックチャート**
 
-[クイック](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) グラフは、作成して保存するサムネールで、重要なグラフの表示を簡単に示します。
+[クイックチャート](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)はユーザーが作成して保存するサムネイルで、重要なチャートを簡単に表示できます。
 
 ![](assets/three.png)
 
 ## 送信 {#sends}
 
-[Sends](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページで、最近の電子メール通信の特性を確認します。
+[送信](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページでは、最近のメール通信の特性を調べます。
 
 ![](assets/two.png)
 
 **指標**
 
-[指標]バーをクリックして色を数値に変換します。
+「指標」バーをクリックすると、色が数値に変換されます。
 
 ![](assets/delivery-metrics.png)
 
 >[!NOTE]
 >
->電子メールインサイトにデータが反映されるまで、最大8時間かかる場合があります。
+>メールインサイトへのデータ反映には、最大 8 時間を要する可能性があります。
 
-## カスタムDimension{#custom-dimensions}
+## カスタムディメンション {#custom-dimensions}
 
-標準のMarketoディメンションはすべて含まれますが、カスタムディメンションを10個まで追加することもできます。 [カスタム](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) ディメンションは、セグメントとプログラムタグで構成されます。
+メールインサイトには、標準的な Marketo のディメンションはすべて含まれていますが、オプションで最大 10 個までカスタムディメンションを追加することができます。[カスタムディメンション](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)は、セグメント化とプログラムタグで構成されます。
 
 >[!MORELIKETHIS]
 >
->* [電子メールインサイト分析の概要](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [電子メールインサイトから概要が送信される](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [メールインサイトのアナリティクスの概要](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [メールインサイトの送信の概要](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
 
