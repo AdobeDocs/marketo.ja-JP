@@ -3,10 +3,10 @@ unique-page-id: 5472404
 description: リードのアクティビティログの検索 - Marketo ドキュメント - 製品ドキュメント
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 59%
 
 ---
 
@@ -16,23 +16,35 @@ ht-degree: 100%
 
 1. 「**データベース**」に移動します。
 
-   ![](assets/db-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-1.png)
 
 1. 「**すべてのリード**」を選択します。
 
-   ![](assets/two-6.png)
+   ![](assets/locate-the-activity-log-for-a-person-2.png)
 
 1. 「**リード**」タブをクリックします。リードの **ID** 番号を選択します。
 
-   ![](assets/three-5.png)
+   ![](assets/locate-the-activity-log-for-a-person-3.png)
 
 1. 「**アクティビティログ**」をクリックします。
 
-   ![](assets/four-3.png)
+   ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   ご覧ください。これがアクティビティログです。これまでリードに起こった情報をすべて集めたものです。
+   これで、ある人の時間の経過に伴って発生するすべての情報のコレクションが作成されました。
 
-   ![](assets/five-2.png)
+   ![](assets/locate-the-activity-log-for-a-person-5.png)
+
+## アクティビティログの書き出し {#export-activity-log}
+
+ユーザーのアクティビティログをExcelに書き出す必要がある場合
+
+1. 上記の手順に従った後、ページの下部までスクロールし、「書き出し」アイコンを選択します。
+
+   ![](assets/locate-the-activity-log-for-a-person-6.png)
+
+1. Excelファイルがブラウザーにダウンロードされます。
+
+   ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
