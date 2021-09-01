@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2359705
-description: フリ追加ーフォームランディングページの新しいフォーム —Marketoドキュメント — 製品ドキュメント
-title: フ追加リーフォームランディングページへの新しいフォーム
+description: フリーフォームランディングページに新しいフォームを追加する - Marketo ドキュメント - 製品ドキュメント
+title: フリーフォームランディングページに新しいフォームを追加する
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フ追加リーフォームランディングページへの新しいフォーム{#add-a-new-form-to-a-free-form-landing-page}
+# フリーフォームランディングページに新しいフォームを追加する {#add-a-new-form-to-a-free-form-landing-page}
 
-フォーム、ランディングページを満たす。 ランディングページ、形式を満たす。
+ランディングページをフォームに紹介するフォームをランディングページに紹介する
 
 >[!PREREQUISITES]
 >
->* [フォームの作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [フォームを作成する](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [フリーフォームランディングページを作成する](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. ランディングページを探し、「**ドラフトを編集**」をクリックします。
+1. ランディングページを選択して、「**ドラフトの編集**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -33,26 +32,26 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
-1. 追加するフォームを見つけて選択します。
+1. 追加するフォームを探して選択します。
 
    ![](assets/image2014-9-16-14-3a44-3a30.png)
 
-1. フォローアップページを選択する際には、次の3つのオプションがあります。
+1. フォローアップページを選択するときには、3 つのオプションがあります。
 
-   * **ランディングページ** -Marketoランディングページを選ぶ
-   * **外部URL**  — 必要なURLを選択します。
-   * **フォーム定義**  — フォームレベルで定義された設定を使用します。
+   * **ランディングページ** - Marketo ランディングページを選択する場合
+   * **外部 URL**  - 使用したい任意の URL を選択する場合
+   * **定義済みのフォーム** - フォームレベルで定義されている設定を使用します。
 
    >[!NOTE]
    >
    >**定義**
    >
-   >フォローアップページは、訪問者がフォームを送信した後に表示されるページです。
+   >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. 「**挿入**」をクリックします。
+1. 次に「**挿入**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   うまくいった！
+   うまくいきました。
 
-ランディングページエディターを閉じて、[ランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を承認します。
+ランディングページエディターを閉じて、[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。
