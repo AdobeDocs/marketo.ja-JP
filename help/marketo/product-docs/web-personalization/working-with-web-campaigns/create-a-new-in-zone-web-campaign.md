@@ -1,78 +1,77 @@
 ---
 unique-page-id: 4719400
-description: ゾーン内の新しいWebキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
-title: ゾーン内の新しいWebキャンペーンの作成
+description: 新しいゾーン内 Web キャンペーンを作成する — Marketo ドキュメント — 製品ドキュメント
+title: 新しいゾーン内 Web キャンペーンを作成する
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '693'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# ゾーン内の新しいWebキャンペーンの作成{#create-a-new-in-zone-web-campaign}
+# 新しいゾーン内 Web キャンペーンを作成する {#create-a-new-in-zone-web-campaign}
 
-Webキャンペーンは、特定のセグメントに関連付けられたカスタマイズされた反応で、Webサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置き換え、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、電子メールアラートのいずれかになります。 ゾーン内Webキャンペーンは、ゾーンIDに基づくWebサイトの要素を、コンテンツまたはグラフィカルバナーで置き換えます。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、Web サイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置換、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかです。ゾーン内 Web キャンペーンは、 ゾーン ID に基づいて、Web サイトの要素をコンテンツやグラフィカルバナーに置き換えます。
 
-## ゾーン内Webキャンペーンの作成{#create-an-in-zone-web-campaign}
+## ゾーン内 Web キャンペーンを作成する {#create-an-in-zone-web-campaign}
 
-1. **Webキャンペーン**&#x200B;に移動します。
+1. 「**Web キャンペーン**」に移動します
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. 「**新しいWebキャンペーンーを作成」を選択します。**
+1. 「**Web キャンペーンの新規作成**」を選択します。
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. 「**ゾーン**&#x200B;内」キャンペーンタイプを選択します。 **ゾーンIDをカスタマイズして追加します。** キャンペーンを「ス **** ティッキー」に設定し、エディターでクリエイティブを追加します。プレビュー追加へのページのURLを指定し、「**プレビュー**」をクリックして、キャンペーンがサイト上でどのように反応するかを確認します。
+1. キャンペーンタイプとして「**ゾーン内**」を選択します。**ゾーン ID をカスタマイズして追加します。**&#x200B;キャンペーンを「**固定**」に設定し、エディターでクリエイティブを追加します。プレビューするページの URL を追加して「**プレビュー**」をクリックし、このキャンペーンがサイトでどう応答するかを確認します。
 
    ![](assets/new-3-1.png)
 
    >[!NOTE]
    >
-   >**ゾーンIDとは**
+   >**ゾーン ID とは**
    >
-   >ゾーンIDは、「ゾーン内」Webキャンペーンをオンサイトに配置する場所です。 「ゾーンID」を見つけるには、Webサイトにアクセスし、Webキャンペーンーで置き換える領域を選択して右クリックします。 Chromeでは「Inspect要素」を選択できますが、他のブラウザーでは異なる場合があります。
+   >ゾーン ID とは、「ゾーン内」 Web キャンペーンをサイトのどこに配置するかを示す情報です。ゾーン ID は、Web サイトに移動して Web キャンペーンで置き換えたいエリアを選択して右クリックするだけで見つけることができます。Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
    >
-   >次に、Webサイトのこのセクションに関連付けられた「id」を探します。この「id」は、その要素を検査しているので強調表示されます。 例えば、Chromeで右クリックすると、強調表示されているテキストに`<div id="featured-slider">`と表示される場合は、「ゾーンID」セクションに「featured-slider」と入力する必要があります。 通常は&quot;div id&quot;が使用されますが、h1 id、p idなどの任意のIDも使用できます。
+   >次に、Web サイトで該当するセクションの「id」を探します。検証中の要素なので、ハイライトされます。たとえば、Chrome で右クリックして、ハイライトされたテキストが `<div id="featured-slider">` であれば、ゾーン ID セクションで入力するのは「featured-slider」です。通常、「div id」が使用されますが、「h1 id」、「p id」などの任意の ID が使用されることもあります。
 
 <table> 
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">詳細</th> 
+   <th colspan="1" rowspan="1">説明</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>キャンペーンが置き換えるWebサイト要素のHTMLコードにあるIDの名前を入力します。</p></td> 
+   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい Web サイト要素の HTML コードで見つかった id の名前を入力します。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td> 
-   <td colspan="1" rowspan="1">「ゾーン内」キャンペーンではデフォルトで「固定」チェックボックスが選択されており、Webサイト上の訪問者のセッション全体で、ゾーン内キャンペーンがゾーンIDの位置を維持します。 常に「インゾーン」を「固定」に設定することをお勧めします。</td> 
+   <td colspan="1" rowspan="1">ゾーン内キャンペーンでは、「固定」チェックボックスがデフォルトで選択されており、ゾーン内キャンペーンは、Web サイトでの訪問者のセッション中ずっとゾーン ID の位置に固定されます。ゾーン内の設定は常に「固定」にしておくことをお勧めします。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> フェーディング</strong> </p></td> 
-   <td colspan="1" rowspan="1">「効果を使用」チェックボックスと「フェード」を選択すると、WebサイトのゾーンID領域にフェード効果を適用できます。 「インゾーン」がグラフィカルバナーの場合、ページが最初に読み込まれ、次にキャンペーンがフェード効果でアクティブになります。</td> 
+   <td colspan="1" rowspan="1">「効果の使用」チェックボックスと「フェード」を選択すると、Web サイトでゾーン ID のエリアにフェード効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、フェード効果付きでキャンペーンがアクティブになります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>スライディング</strong></td> 
-   <td colspan="1">「効果を使用」チェックボックスと「スライディング」オプションを選択すると、Webサイトの「ゾーンID」領域にスライディングが有効になります。 「インゾーン」がグラフィカルバナーの場合、ページが最初に読み込まれ、次にキャンペーンが左から右にスライドする効果でアクティブになります。</td> 
+   <td colspan="1">「効果の使用」チェックボックスと「スライド」オプションを選択すると、Web サイトでゾーン ID のエリアにスライド効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、左から右へのスライド効果付きでキャンペーンがアクティブになります。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong> リッチ テキスト エディタ  </strong></td> 
-   <td colspan="1">リッチテキストエディターでは、テキストの書式設定、リンク、および画像の挿入が可能です。 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">詳しくはこちら</a> 。</td> 
+   <td colspan="1"><strong> リッチテキストエディター  </strong></td> 
+   <td colspan="1">リッチテキストエディターを使うと、テキストの書式設定、リンク指定、画像の挿入が可能です。詳細は<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">こちら</a>をご覧ください。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> オンサイトのプレビュー   </strong></td> 
-   <td colspan="1">プレビューキャンペーンを起動する前に実行する必要があります。<br> 
+   <td colspan="1">公開する前にキャンペーンをプレビューします。<br> 
     <ul> 
-     <li> URL -キャンペーンが実行されるURLの例を入力し、キャンペーンがライブに見えるプレビューの例を確認します。</li> 
-     <li>デバイス — デバイス別のキャンペーンの表示プレビュー:デスクトップ、モバイル向け縦置き、モバイル向け横置き、タブレット向け縦置き、縦置き</li> 
-     <li> プレビュー- [<strong>プレビュー</strong>]をクリックすると、例のURLの新しいウィンドウが開き、キャンペーンがどのように反応するかが表示されます。</li> 
-     <li> 共有 — [共有]ボタンを使用して、プロキシキャンペーンを表示するためのリンクを持つ同僚に電子メールを送信します。</li> 
+     <li> URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li> 
+     <li>デバイス - デスクトップ、モバイル（縦置き）、モバイル（横置き）、タブレット（縦置き）、タブレット（横置き）の各デバイスでキャンペーンがどのように表示されるかをプレビューします。</li> 
+     <li> プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます。</li> 
+     <li> 共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li> 
     </ul></td> 
   </tr> 
  </tbody> 
@@ -80,42 +79,42 @@ Webキャンペーンは、特定のセグメントに関連付けられたカ�
 
 >[!TIP]
 >
->組み込みのテンプレート](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を使用するか、既存のキャンペーン](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を再利用用のテンプレートとして保存することで、キャンペーンの作成プロセスを迅速化し、シンプル化します。[[
+>[組み込みのテンプレート](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)を使うか、[既存のキャンペーンをテンプレートとして保存](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)して再利用すると、キャンペーン作成の時間を短縮したり、プロセスを簡略化したりできます。
 
 >[!NOTE]
 >
->**WebキャンペーンーのA/Bテストを行う場合** 最適な結果を得るために、1つ以上のWebキャンペーンを [A/Bテストでき](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)ます。自動調整機能を使用すると、プラットフォームは自動的にパフォーマンスの高いキャンペーンを認識し、コンバージョン率が最も高いキャンペーンを引き続き認識し、他のを一時停止します。
+>**Web キャンペーンの A/B テストを実施する最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)自動チューニング機能によって、パフォーマンスの良いキャンペーンが自動的に認識され、最もコンバージョンの高いキャンペーンが続行されて他のキャンペーンは一時停止されます。
 
-## Webキャンペーンの編集{#edit-a-web-campaign}
+## Web キャンペーンを編集する {#edit-a-web-campaign}
 
-**Webキャンペーンー**&#x200B;ページから、キャンペーンーの&#x200B;**編集**&#x200B;をクリックします。
+**Web キャンペーン**&#x200B;ページで、キャンペーンの「**編集**」をクリックします。
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+>目的のキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-## Webキャンペーンのプレビュー{#preview-a-web-campaign}
+## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-1. Webキャンペーンページで、表示するWebキャンペーンーの&#x200B;**プレビュー**&#x200B;をクリックします。
+1. Web キャンペーンページで、確認したい Web キャンペーンの「**プレビュー**」をクリックします。
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## Webキャンペーンのコピー{#clone-a-web-campaign}
+## Web キャンペーンを複製する {#clone-a-web-campaign}
 
-[Webキャンペーンーのコピー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
+[Web キャンペーンを複製する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
 
-## Webキャンペーンの削除{#delete-a-web-campaign}
+## Web キャンペーンを削除する {#delete-a-web-campaign}
 
-1. Webキャンペーンページで、削除するキャンペーンの&#x200B;**削除**&#x200B;をクリックします。
+1. Web キャンペーンページで、確認したい Web キャンペーンの「**削除**」をクリックします。
 
    ![](assets/in-zone-web-campaign-delete.png)
 
-1. キャンペーンを削除するかどうかを確認するメッセージが表示されます。
+1. キャンペーンを削除するかどうかを確認する確認メッセージが表示されます。
 
 >[!MORELIKETHIS]
 >
->* [新しいウィジェットWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
->* [新しいダイアログWebキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [新しいウィジェット Web キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [新しいダイアログ Web キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
