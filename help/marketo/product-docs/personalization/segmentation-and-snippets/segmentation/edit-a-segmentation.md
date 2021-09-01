@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2359474
-description: セグメントの編集 —Marketoドキュメント — 製品ドキュメント
-title: セグメントの編集
+description: セグメント化を編集する - Marketo ドキュメント - 製品ドキュメント
+title: セグメント化を編集する
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# セグメントの編集{#edit-a-segmentation}
+# セグメント化を編集する {#edit-a-segmentation}
 
-既存のセグメントに簡単に変更を加えることができます。 これが低い。
+既存のセグメント化に変更を加える作業は簡単です。これが不利な点です。
 
-## セグメントドラフトの作成{#create-a-segmentation-draft}
+## セグメント化のドラフトを作成する {#create-a-segmentation-draft}
 
 1. **データベース**&#x200B;に移動します。
 
    ![](assets/db.png)
 
-1. セグメントで、「**セグメント化アクション**」をクリックし、「**ドラフトを作成**」をクリックします。
+1. 「セグメント化」で、「**セグメント化アクション**」をクリックし、「**ドラフトの作成**」をクリックします。
 
    ![](assets/two.png)
 
-1. **ステータス**&#x200B;が「ドラフト付き承認済み」に変わります。 セグメント内に&#x200B;**ドラフト**&#x200B;フォルダーが作成されます。
+1. 「**ステータス**」が「ドラフトで承認済み」に変わります。セグメント化に&#x200B;**ドラフト**&#x200B;フォルダーが作成されます。
 
    ![](assets/three.png)
 
-## セグメント追加の編集、削除{#add-edit-or-delete-segments}
+## セグメントの追加、編集、削除 {#add-edit-or-delete-segments}
 
-1. セグメント内で、**セグメント化アクション**&#x200B;をクリックし、**セグメントの編集**&#x200B;をクリックします。
+1. セグメント化で、「**セグメント化アクション**」をクリックし、「**セグメントを編集**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >ドラフトのセグメントの編集のみ可能で、承認済みセグメントは不可。
+   >ドラフトのセグメントのみを編集でき、承認済みセグメントは編集できません。
 
-1. **セグメント**、編集(順序の変更追加)、または ****  **** 任意のセグメントの削除を行います。
+1. **セグメントの追加**、****&#x200B;編集（名前を変更または順序を変更）、または&#x200B;****&#x200B;セグメントの削除。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,24 +48,24 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >削除すると、電子メール、ランディングページおよびスニペット内の関連するすべての動的コンテンツに影響します。 **取り消しはできません**。「**使用者**」タブをチェックして、そのセグメントの用途を確認します。
+   >削除すると、メール、ランディングページ、スニペット内のすべての動的コンテンツに影響します。**元に戻すことはできません**。セグメントが何によって使用されているかを確認するには、「**使用者**」タブをチェックしてください。
 
-## セグメントルールの編集{#edit-segment-rules}
+## セグメントルールを編集する {#edit-segment-rules}
 
-1. ドラフト&#x200B;**セグメント**&#x200B;で、**スマートリスト**&#x200B;に移動します。 [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)に類似したルールを適用します。
+1. ドラフトの&#x200B;**セグメント**&#x200B;で、「**スマートリスト**」に移動します。[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)と同様のルールを適用します。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >承認済みのセグメントは編集できません。 ドラフトフォルダーのセグメントをクリックして編集します。
+   >承認済みセグメントは編集できません。ドラフトフォルダーにあるセグメントをクリックして編集してください。
 
    >[!NOTE]
    >
-   >セグメントのドラフトを忘れずに承認してください。
+   >必ずセグメントのドラフトを承認してください。
 
-動的コンテンツで使用されないセグメントを自由に試してみてください。
+動的コンテンツでは使用しないセグメント化を自由に試してみてください。
 
 >[!MORELIKETHIS]
 >
->[セグメントの削除](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
+>[セグメント化の削除](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
