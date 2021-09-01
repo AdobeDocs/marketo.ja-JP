@@ -26,10 +26,8 @@ ht-degree: 100%
 >* YT／MO
 >* カスタム変数
 >* ユーザー定義変数
-
 >
->
-[Web パーソナライゼーションをユニバーサル分析と連携する方法](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)を参照してください。
+>[Web パーソナライゼーションをユニバーサル分析と連携する方法](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)を参照してください。
 
 ## はじめに {#introduction}
 
