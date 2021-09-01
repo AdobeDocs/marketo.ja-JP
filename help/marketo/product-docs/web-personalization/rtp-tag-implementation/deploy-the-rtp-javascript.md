@@ -1,44 +1,43 @@
 ---
 unique-page-id: 4719332
-description: RTP JavaScript -Marketoドキュメント — 製品ドキュメントのデプロイ
-title: RTP JavaScriptのデプロイ
+description: RTP JavaScript をデプロイする — Marketo ドキュメント — 製品ドキュメント
+title: RTP JavaScript をデプロイする
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# RTP JavaScript {#deploy-the-rtp-javascript}をデプロイします。
+# RTP JavaScript をデプロイする {#deploy-the-rtp-javascript}
 
-RTPタグを生成し、設定するには、次のインストール手順に従ってください
+RTP タグを生成して設定するには、以下のインストール手順に従ってください
 
 ## タグの生成 {#generate-tag}
 
-1. RTPアカウントにログインします。 「**アカウント設定**」に移動します。
+1. RTP アカウントにログインします。「**アカウント設定**」に移動します。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. **ドメイン**&#x200B;と&#x200B;**ドメイン構成**&#x200B;で、関連するドメインを探し、**タグを生成**&#x200B;をクリックします。
+1. 「**ドメイン**」と「**ドメイン設定**」で、関連するドメインを探し、「**タグを生成**」をクリックします。
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
-1. Webパーソナライゼーション(RTP)タグをコピーしてWebサイトに貼り付けます。
+1. 「Web パーソナライゼーション（RTP）」タグをコピーして Web サイトにペーストします。
 
    ![](assets/web-personalization-tag.png)
 
    >[!NOTE]
    >
-   >RTP JavaScriptタグをコピーし、ページのヘッダー内の最初のスクリプトとして`<head> </head>`タグの間に貼り付けます。
+   >「RTP JavaScript」タグをコピーし、ページのヘッダー内の最初のスクリプトとして、`<head> </head>` タグの間に貼り付けます。
 
-   タグがランディングページやサブドメインを含むすべてのページに表示されることを確認します。 Webサイトのページを右クリックして、これを確認します。 Webブラウザーで「表示ページソース」に移動します。 検索：「RTP」
+   ランディングページとサブドメインも含めて、すべてのページにタグがあることを確認してください。Web サイトのページを右クリックして、これを確認します。Web ブラウザーで「ページソースを表示」に移動します。「RTP」を検索します。
 
-1. タグの切り替えを&#x200B;**ON**&#x200B;に設定します。
+1. タグの切り替え設定を&#x200B;**オン**&#x200B;にします。
 
-   「タグ」トグルが「オン」に設定されていることを確認します。 「組織」タブにデータフローが表示されていることを開始に確認する必要があります。
+   タグの切り替え設定が「オン」になっていることを確認してください。「組織」タブにデータが入り始めます。
 
-   これで、RTPタグが設定され、[セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)とリアルタイムキャンペーンの作成を開始する準備ができました。
+   これで、RTP タグが設定され、[セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)とリアルタイムキャンペーンの作成を開始する準備が整いました。
 
 1. タグがすべてのページにあることを確認します。
