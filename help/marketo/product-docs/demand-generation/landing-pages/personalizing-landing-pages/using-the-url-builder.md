@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2359801
-description: URLビルダーの使用 —Marketoドキュメント — 製品ドキュメント
-title: URLビルダーの使用
+description: URL ビルダーの使用 - Marketo ドキュメント - 製品ドキュメント
+title: URL ビルダーの使用
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# URLビルダーの使用{#using-the-url-builder}
+# URL ビルダーの使用 {#using-the-url-builder}
 
-URLビルダーは、Marketoの非表示フォームフィールドに入力できるURLの作成に役立ちます。
+URL ビルダーを使用すると、URL を作成して Marketo の非表示フォームフィールドに値を入力できます。
 
 >[!PREREQUISITES]
 >
->フォーム内に非表示のフィールドを作成し、その設定を編集する方法については、[フォームフィールドを非表示](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)に設定するを参照してください。
+>フォームで非表示のフィールドを作成し、その設定を編集する方法については、[フォームフィールドを非表示に設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)を参照してください。
 
-1. ランディングページを選択し、「**ランディングページアクション**」をクリックし、「**URLツール**」にマウスポインターを置いて、「**URLビルダー**」をクリックします。
+1. ランディングページを選択して「**ランディングページアクション**」をクリックし、「**URL ツール**」にカーソルを置いて「**URL ビルダー**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. 使用するフィールドを選択し、値を入力して、「**URLを更新**」をクリックします。
+1. 使用するフィールドを選択し、値を入力して、「**URL を更新**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 
    >[!NOTE]
    >
-   >ビルダーに使用できるフィールドがない場合は、フォームに非表示のフィールドがあり、[URLパラメーター](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)を受け入れるように設定されていることを確認してください。
+   >ビルダーで使用できるフィールドが表示されない場合は、フォームに非表示のフィールドがあり、そのフィールドが[パラメーター URL を入力できるように設定](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)されていることを確認してください。
 
-すばらしい！ これで、URLをコピー&amp;ペーストしてWeb上で使用できるようになります。
+これで完了です。これで、URL をコピーしてペーストし、Web で使用できるようになりました。
