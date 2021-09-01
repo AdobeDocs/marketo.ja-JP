@@ -1,33 +1,32 @@
 ---
 unique-page-id: 10096420
-description: 販売インテリジェンス —Marketoドキュメント — 製品ドキュメント
-title: 販売情報
+description: セールスインテリジェンス — Marketo ドキュメント — 製品ドキュメント
+title: セールスインテリジェンス
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 販売情報{#sales-intelligence}
+# セールスインテリジェンス {#sales-intelligence}
 
-Marketoウェブパーソナライゼーションは、Webサイトを訪問する匿名で既知のWeb訪問者ーや組織に関する貴重な情報を提供します。 セールス・エグゼクティブは、このレポートを使用して、特定の地域に応じて主要な組織やアカウントに関するアラートを追跡、監視、受信できます。
+Marketo Web パーソナライゼーションは、Web サイトを訪問する匿名の Web 訪問者や既知の Web 訪問者や組織に関する価値ある情報を提供します。営業担当者は、この機能を使用して、特定の地域に応じて、主要な組織やアカウントに関するアラートを追跡、監視、受け取ることができます。
 
-Marketoウェブパーソナライゼーションプラットフォームにログインするか、日別/週別の電子メールレポートを使用するか、モバイルアプリで表示してアクセスします。
+日次／週次のメールレポートを使用して、またはモバイルアプリで表示して、Marketo Web パーソナライゼーションプラットフォームにログインし、アクセスします。
 
-## ユーザーの地域の定義{#define-the-users-region}
+## ユーザーの地域を定義する {#define-the-users-region}
 
-MarketoWebパーソナライゼーションに表示される組織と訪問者のデータを地域、国、都道府県ごとに定義するには、[ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)に移動し、国または州を選択します。
+Marketo Web パーソナライゼーションに表示される組織データと訪問者データを地域、国または州ごとに定義するには、[ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)に移動し、国または州を選択します。
 
-## 日別または週別の電子メールレポートの設定{#set-up-daily-or-weekly-email-reports}
+## 日次または週次のメールレポートの設定 {#set-up-daily-or-weekly-email-reports}
 
-[ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)では、早朝に送信される日次または週次の電子メールレポートを受信するように設定できます。 営業幹部にとって関心の主要なレポートには、「組織」レポートと「リード」レポートが含まれます。このレポートには、訪問された上位の組織と、訪問者の行動を含む、ユーザーの特定の地域から発行されたリードが表示されます。
+[ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)では、早朝に送信される毎日または毎週のメールレポートを受信するように設定できます。営業担当者が関心を持つ主要レポートには、訪問した上位の組織と、その行動を含めてユーザーの特定の地域から送信されたリードを表示する「組織」レポートと「リード」レポートが含まれます。
 
 >[!NOTE]
 >
->Marketoのウェブパーソナライゼーションで、表示のみの権限を持つ営業担当者をセットアップすることをお勧めします。 つまり、すべてのページを表示できますが、機能の作成、編集、削除はできません。
+>Marketo パーソナライゼーションで表示専用権限を持つ営業担当者を設定することをお勧めします。つまり、すべてのページを表示できますが、機能の作成、編集、削除はできません。
 
 >[!MORELIKETHIS]
 >
