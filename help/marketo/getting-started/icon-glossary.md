@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4720476
-description: アイコン用語集 —Marketoドキュメント — 製品ドキュメント
-title: アイコンの用語集
+description: アイコンの用語集 — Marketo ドキュメント — 製品ドキュメント
+title: アイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# アイコンの用語集{#icon-glossary}
+# アイコン用語集 {#icon-glossary}
 
-以下はMarketo Classicのアイコンです。 新しいAdobeMarketo Engageインターフェイスに切り替えた場合は、アイコンの用語集[を](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)から参照できます。
+以下に、Marketo Classic のアイコンを示します。新しい Adobe Marketo Engage インターフェイスに切り替えた場合、アイコン用語集は[こちら](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)にあります。
 
-**一般的なアイコン**
+**一般アイコン**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -32,28 +31,28 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
-   <td><span>フォルダ</span></td> 
+   <td><span>フォルダー</span></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/open-icon.png" > 
     </div></td> 
-   <td>新しいフォルダの作成</td> 
+   <td>新規フォルダーの作成</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a16-3a28.png"> 
     </div></td> 
-   <td>フォルダの削除</td> 
+   <td>フォルダーの削除</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td>フォルダ名の編集/名前変更</td> 
+   <td>フォルダー名の編集／名前変更</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -65,35 +64,35 @@ ht-degree: 33%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">別のワークスペース<br>から共有された宛先フォルダー（padlockは編集できないことを示します）</td> 
+   <td colspan="1">別のワークスペースから共有された宛先フォルダー<br>（南京錠アイコンは編集できないことを示します）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>アーカイブフォルダーまたはアーカイブプログラムーに変換（任意のフォルダーおよびアーカイブフォルダーに対して表示可能）</td> 
+   <td>アーカイブフォルダーまたはアーカイブフォルダーに変換（任意のフォルダーおよびアーカイブされたプログラムで表示可能）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>成功！(プログラムの成功、成功した実行、アクティブとして頻繁に表示される)</td> 
+   <td>成功（「プログラムの成功」、「成功した実行」、「アクティブ」として頻繁に表示）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a34-3a57.png"> 
     </div></td> 
-   <td>フィルタ、表示、表示、すべて</td> 
+   <td>フィルター、表示、すべて表示</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">トリガー</td> 
   </tr> 
@@ -123,14 +122,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>サブスクリプション情報</td> 
+   <td>配信登録情報</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a49-3a41.png"> 
     </div></td> 
-   <td>カスタマ サポート</td> 
+   <td>カスタマーサポート</td> 
   </tr> 
   <tr> 
    <td> 
@@ -142,7 +141,7 @@ ht-degree: 33%
  </tbody> 
 </table>
 
-## 管理アイコン{#admin-icons}
+## 管理アイコン {#admin-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -169,14 +168,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>セキュリティ/ログアウト</td> 
+   <td>セキュリティ／ログアウト</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a25-3a7.png"> 
     </div></td> 
-   <td>ユーザ&amp;ロール</td> 
+   <td>ユーザーと役割</td> 
   </tr> 
   <tr> 
    <td> 
@@ -197,7 +196,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td>スマート キャンペーン</td> 
+   <td>スマートキャンペーン</td> 
   </tr> 
   <tr> 
    <td> 
@@ -232,7 +231,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-8-17-3a45-3a44.png"> 
     </div></td> 
-   <td>Salesforce(SFDC)</td> 
+   <td>Salesforce（SFDC）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -260,35 +259,35 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td>ウェブサービス</td> 
+   <td>Web サービス</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>Launchpoint</td> 
+   <td>LaunchPoint</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>ウェブフック</td> 
+   <td>Webhook</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>タグ —プログラム属性</td> 
+   <td>タグ — プログラム属性</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>収益サイクルアナリティクス</td> 
+   <td>売上高サイクル分析</td> 
   </tr> 
   <tr> 
    <td> 
@@ -309,12 +308,12 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>通知 — システム全体で重要な警告</td> 
+   <td>通知 — システム全体にわたる重要なアラート</td> 
   </tr> 
  </tbody> 
 </table>
 
-### マーケティングアクティビティのアイコン{#marketing-activities-icons}
+### マーケティングアクティビティアイコン {#marketing-activities-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -334,21 +333,21 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>プログラム — デフォルトのタイプ</td> 
+   <td>プログラム — デフォルトタイプ</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>プログラムのインポート</td> 
+   <td>プログラムの読み込み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>エンゲージメント育成</td> 
+   <td>エンゲージメントナーチャリング</td> 
   </tr> 
   <tr> 
    <td> 
@@ -362,42 +361,42 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>エンゲージメントカデンスを変更（一時停止、標準）</td> 
+   <td>エンゲージメントサイクルの変更（一時停止、通常）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>アクションストリームの変更</td> 
+   <td>エンゲージメントストリームの変更</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>スマートキャンペーン — アクティブでトリガー</td> 
+   <td>スマートキャンペーン — アクティブでトリガー済み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>要求されたスマートキャンペーン(Sales InsightまたはMarketo・フロー・アクション別)</td> 
+   <td>リクエストされるスマートキャンペーン（Sales Insight または Marketo フローアクション）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>スマートキャンペーン — バッチ（以前に実行された）</td> 
+   <td>スマートキャンペーン — バッチ（以前に実行されたことがある）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>スマートキャンペーン — 非アクティブ、または実行なし</td> 
+   <td>スマートキャンペーン — 非アクティブ、または実行されたことがない</td> 
   </tr> 
   <tr> 
    <td> 
@@ -411,35 +410,35 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>電子メールプログラム<br>（赤いフラグダウン=電子メールがまだ送信されていません）</td> 
+   <td>メールプログラム<br>（赤いフラグダウン = メールがまだ送信されていない）</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">ヘッド開始でスケジュールされた電子メールプログラム</td> 
+   <td colspan="1">ヘッドスタートでスケジュールされたメールプログラム</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>スマートキャンペーン — スケジュール済バッチ（チェック・マークは、以前に実行されたことを示します）</td> 
+   <td>スマートキャンペーン — スケジュールされたバッチ（チェックマークは以前に実行されたことを示す）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>予定されているバッチ キャンペーン</td> 
+   <td>予定されているバッチキャンペーン</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>フロー アクション</td> 
+   <td>フローアクション</td> 
   </tr> 
   <tr> 
    <td> 
@@ -460,7 +459,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>フォームの複製</td> 
+   <td>フォームのクローン作成</td> 
   </tr> 
   <tr> 
    <td> 
@@ -474,7 +473,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a41-3a30.png"> 
     </div></td> 
-   <td>承認されたフォーム</td> 
+   <td>承認済みフォーム</td> 
   </tr> 
   <tr> 
    <td> 
@@ -488,14 +487,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>ソーシャルボタンのアクション</td> 
+   <td>ソーシャルボタンアクション</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a44-3a8.png"> 
     </div></td> 
-   <td>下書きの編集</td> 
+   <td>ドラフトの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -509,7 +508,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a46-3a39.png"> 
     </div></td> 
-   <td>複製</td> 
+   <td>クローン作成</td> 
   </tr> 
   <tr> 
    <td> 
@@ -530,14 +529,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a40.png"> 
     </div></td> 
-   <td>Youtubeビデオアクション</td> 
+   <td>Youtube ビデオアクション</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-14-3a54-3a36.png"> 
     </div></td> 
-   <td>下書きの編集</td> 
+   <td>ドラフトの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -558,7 +557,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-14-3a57-3a27.png"> 
     </div></td> 
-   <td>複製</td> 
+   <td>クローン作成</td> 
   </tr> 
   <tr> 
    <td> 
@@ -579,7 +578,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-15-3a16-3a27.png"> 
     </div></td> 
-   <td>下書きの編集</td> 
+   <td>ドラフトの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -600,7 +599,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-15-3a18-3a20.png"> 
     </div></td> 
-   <td>複製</td> 
+   <td>クローン作成</td> 
   </tr> 
   <tr> 
    <td> 
@@ -642,7 +641,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a30.png"> 
     </div></td> 
-   <td colspan="1">複製</td> 
+   <td colspan="1">クローン作成</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -682,7 +681,7 @@ ht-degree: 33%
  </tbody> 
 </table>
 
-### Design Studioアイコン{#design-studio-icons}
+### Design Studio アイコン {#design-studio-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -695,14 +694,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>ランディングページ. ランディングページのアクション</td> 
+   <td>ランディングページランディングページのアクション</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-10-3a55-3a52.png"> 
     </div></td> 
-   <td>下書きの編集</td> 
+   <td>ドラフトの編集</td> 
   </tr> 
   <tr> 
    <td> 
@@ -723,21 +722,21 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>facebookへの投稿</td> 
+   <td>Facebook に公開</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
-   <td>テストグループにコンバート</td> 
+   <td>テストグループに変換</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>ランディングページの複製</td> 
+   <td>ランディングページのクローン作成</td> 
   </tr> 
   <tr> 
    <td> 
@@ -751,7 +750,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-12-11-3a10-3a10.png"> 
     </div></td> 
-   <td>URLツール/URLビルダー</td> 
+   <td>URL ツール／URL ビルダー</td> 
   </tr> 
   <tr> 
    <td> 
@@ -779,28 +778,28 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>ランディングページ/電子メールテンプレート — 未承認</td> 
+   <td>ランディングページ／メールテンプレート — 未承認</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>ランディングページ/電子メールテンプレート — 承認済み</td> 
+   <td>ランディングページ／メールテンプレート — 承認済み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>電子メール — 未承認またはドラフト</td> 
+   <td>メール — 未承認またはドラフト</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a46-3a24.png"> 
     </div></td> 
-   <td>承認済みの電子メール</td> 
+   <td>承認済みメール</td> 
   </tr> 
   <tr> 
    <td> 
@@ -821,7 +820,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>承認済みアセットのドラフト（ドラフトが承認されるまで有効ではありません）</td> 
+   <td>承認済みアセットのドラフト（ドラフトが承認されるまで公開されない）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -856,7 +855,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">ウェブから画像を取得</td> 
+   <td colspan="1">Web から画像を取得</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -868,7 +867,7 @@ ht-degree: 33%
  </tbody> 
 </table>
 
-### Analyticsアイコン{#analytics-icons}
+### Analytics アイコン {#analytics-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -881,28 +880,28 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>収益サイクルモデル</td> 
+   <td>売上高サイクルモデル</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>売上高サイクルモデル(RCM) — 未承認</td> 
+   <td>売上高サイクルモデル（RCM）- 未承認</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>売上高サイクルモデル(RCM) — 承認済み</td> 
+   <td>売上高サイクルモデル（RCM）- 承認済み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>売上高サイクルモデル(RCM) — ドラフトで承認済み</td> 
+   <td>売上高サイクルモデル（RCM）- ドラフトで承認済み</td> 
   </tr> 
   <tr> 
    <td> 
@@ -937,14 +936,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>表示認定リード</td> 
+   <td>適格リードの表示</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>興味深い瞬間の概要</td> 
+   <td>注目のアクション概要</td> 
   </tr> 
   <tr> 
    <td> 
@@ -965,7 +964,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>リードのグループ化基準</td> 
+   <td>リードのグループ化</td> 
   </tr> 
   <tr> 
    <td> 
@@ -977,7 +976,7 @@ ht-degree: 33%
  </tbody> 
 </table>
 
-### マイトークンアイコン{#my-tokens-icons}
+### マイトークンアイコン {#my-tokens-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -990,14 +989,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>予定表ICS - iCalendars、（統合予定表）</td> 
+   <td>カレンダー ICS - iCalendars、（統合カレンダー）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>リッチテキスト(ランディングページではない)</td> 
+   <td>リッチテキスト（ランディングページ以外）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1011,14 +1010,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（また、すべてのSFDC関連アイテムで）</td> 
+   <td>Salesforce （また、すべての SFDC 関連項目）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>スマートキャンペーンを1回だけ実行するようにスケジュールする</td> 
+   <td>スマートキャンペーンの実行スケジュールの設定（1 回）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1032,19 +1031,19 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>更新(通常実行回数、レポート、スマートリスト)</td> 
+   <td>更新（通常は実行回数、レポート、スマートリスト）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>表示スマートメンバー（以前の資格および現在の資格）</td> 
+   <td>スマートメンバーの表示（以前に認定され、現在）</td> 
   </tr> 
  </tbody> 
 </table>
 
-### キャンペーンメニュー{#campaign-menus}
+### キャンペーンメニュー {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1057,14 +1056,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>キャンペーンの繰り返しのスケジュール（複数実行）</td> 
+   <td>キャンペーンの繰り返しスケジュール（複数実行）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>実行、アクション、または削除のキャンセル</td> 
+   <td>実行、アクションまたは削除のキャンセル</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1078,7 +1077,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce（また、すべてのSFDC関連アイテムで）</td> 
+   <td>Salesforce （また、すべての SFDC 関連項目）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1092,7 +1091,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>相対スコア（すべてのスコアリングフローアクションでも表示）</td> 
+   <td>相対スコア（すべてのスコアリングフローアクションにも表示）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1106,7 +1105,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>電子メールスクリプト（Velocityのみ）</td> 
+   <td>メールスクリプト（Velocity のみ）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1118,7 +1117,7 @@ ht-degree: 33%
  </tbody> 
 </table>
 
-### データベースアイコン{#database-icons}
+### データベースアイコン {#database-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1131,7 +1130,7 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td>スマート リスト</td> 
+   <td>スマートリスト</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1166,14 +1165,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>フィールド オーガナイザ</td> 
+   <td>フィールドオーガナイザー</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>電子メールスクリプト（Velocityのみ）</td> 
+   <td>メールスクリプト（Velocity のみ）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1194,14 +1193,14 @@ ht-degree: 33%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1">新規セグメンテーション</td> 
+   <td colspan="1">新規セグメント化</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </div></td> 
-   <td colspan="1">インポート</td> 
+   <td colspan="1">読み込み</td> 
   </tr> 
  </tbody> 
 </table>
