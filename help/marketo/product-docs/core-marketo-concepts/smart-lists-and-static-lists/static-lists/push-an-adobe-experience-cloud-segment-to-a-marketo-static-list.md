@@ -1,25 +1,26 @@
 ---
-description: Adobe Experience CloudセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
-title: Adobe Experience CloudセグメントのMarketo静的リストへの追加
+description: Adobe Experience Cloud セグメントの Marketo 静的リストへのプッシュ — Marketo ドキュメント — 製品ドキュメント
+title: Adobe Experience Cloud セグメントの Marketo 静的リストへのプッシュ
 hidefromtoc: true
-source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
+exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 92%
 
 ---
 
-# Adobe Experience CloudセグメントのMarketo静的リストへの追加 {#push-an-adobe-experience-cloud-segment-to-a-marketo-static-list}
+# Adobe Experience Cloud セグメントの Marketo 静的リストへのプッシュ {#push-an-adobe-experience-cloud-segment-to-a-marketo-static-list}
 
-この機能を使用すると、Adobe Experience Platformにあるセグメントを静的リストの形式でMarketoにプッシュできます。
+この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo にプッシュできます。
 
 >[!PREREQUISITES]
 >
->* [MarketoでAPIユーザーを](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) 作成します。
->* 次に、**管理者** > **Launchpoint**&#x200B;に移動します。 作成したロールの名前を探し、「**詳細を表示**」をクリックします。 この機能に必要なので、情報を&#x200B;**クライアントID**&#x200B;と&#x200B;**クライアントシークレット**&#x200B;にコピーして保存します。
+>* Marketo で [API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
+>* 次に、**管理**／ **Launchpoint** に移動します。作成した役割の名前を探し、「**詳細を表示**」をクリックします。この機能に必要なので、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
 
 
-1. [Adobe Experience Platform](https://experience.adobe.com/)にログインします。
+1. [Adobe Experience Platform](https://experience.adobe.com/) にログインします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-1.png)
 
@@ -35,27 +36,27 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-4.png)
 
-1. Marketo Engageタイルを見つけ、「**アクティブ化**」をクリックします。
+1. Marketo Engage タイルを見つけ、「**アクティブ化**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-5.png)
 
-1. 「アカウントタイプ」で、「**新しいアカウント**」ラジオボタンをクリックします。 Marketoの資格情報を入力し、「**宛先に接続**」をクリックします。
+1. アカウントタイプで、「**新規アカウント**」ラジオボタンをクリックします。Marketo の資格情報を入力し、「**宛先に接続**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-6.png)
 
    >[!NOTE]
    >
-   >**管理者** / **Munchkin**&#x200B;に移動すると、Munchkin IDを見つけることができます(ログイン後のMarketo URLの一部でもあります)。 この記事の最上部にある前提条件に従って作成する必要があるクライアントID/シークレット。
+   >**管理**／ **Munchkin** に移動すると、Munchkin ID を見つけることができます（ログイン後の Marketo URL の一部でもあります）。この記事の最上部にある前提条件に従って作成する必要があるクライアント ID／シークレット。
 
-1. 「接続済み」が資格情報の下に表示されます。 右上隅の「**次へ**」をクリックします。
+1. 「接続済み」が資格情報の下に表示されます。右上隅の「**次へ**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-7.png)
 
-1. **名前**&#x200B;と&#x200B;_オプションの_&#x200B;説明を入力します。 「**宛先を作成**」をクリックします。
+1. **名前**&#x200B;と&#x200B;_オプションの_&#x200B;説明を入力します。「**宛先を作成**」をクリックします。
 
    >[!NOTE]
    >
-   >マーケティングアクションからの選択もオプションです。 Marketoは、現時点ではその情報を活用していませんが、近日中に利用される可能性が高くなります。
+   >マーケティングアクションからの選択もオプションです。Marketo では、現時点ではその情報を活用していませんが、近日中に活用するようになる可能性が高いです。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-8.png)
 
@@ -69,9 +70,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >静的リストへのセグメントは1対1です。 ここで複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
+   >セグメントと静的リストは 1 対 1 です。ここで複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
 
-1. 「**新しいマッピングを追加**」をクリックします。
+1. 「**新規マッピングを追加**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-11.png)
 
@@ -87,7 +88,7 @@ ht-degree: 0%
    >
    >「**ID名前空間**&#x200B;を選択」を選択した場合は、選択を行った後、手順15に進みます。
 
-1. ユーザーを識別するEメールアドレスを含む関連フィールドを選択します。 終了したら「**選択**」をクリックします。
+1. ユーザーを識別するメールアドレスを含む関連フィールドを選択します。終了したら「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
@@ -95,7 +96,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >選択した例は、選択した例とは大きく異なる場合があります。
+   >選択した例は、実際のものとは大きく異なる場合があります。
 
 1. マッピングアイコンをクリックします。
 
@@ -109,15 +110,15 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
-1. _Marketo_&#x200B;で、静的リストを作成するか、既に作成した静的リストを探して選択します。URLの末尾からマッピングIDをコピーします。
+1. _Marketo_ で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。URL の末尾からマッピング ID をコピーします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
-   >最良の結果を得るには、Marketoで参照するリストが空であることを確認してください。
+   >最良の結果を得るには、Marketo で参照するリストが空であることを確認してください。
 
-1. Adobe Experience Platformに戻り、コピーしたIDを入力します。 「開始日」を選択します。 ユーザーは、選択された終了日まで同期を続けます。 無期限同期の場合は、終了日を空白のままにします。 終了したら「**次へ**」をクリックします。
+1. Adobe Experience Platform に戻り、コピーした ID を入力します。「開始日」を選択します。選択された終了日まで同期が続きます。無期限同期の場合は、終了日を空白のままにします。終了したら「**次へ**」をクリックします。
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
