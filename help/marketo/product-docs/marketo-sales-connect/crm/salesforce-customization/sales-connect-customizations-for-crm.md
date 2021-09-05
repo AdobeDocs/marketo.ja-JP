@@ -1,67 +1,66 @@
 ---
 unique-page-id: 14745793
-description: CRM用のSales Connectのカスタマイズ —Marketoドキュメント — 製品ドキュメント
-title: CRM向けの販売接続のカスタマイズ
+description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '626'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# CRM用のSales Connectのカスタマイズ{#sales-connect-customizations-for-crm}
+# CRM 用の Sales Connect のカスタマイズ {#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRMのメタデータAPIによって作成されます。 フィールドを作成したら、管理者はCRMにページレイアウトを設定して、それらを公開する必要があります。 説明は[ここ](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
+以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[ここ](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
 
 >[!NOTE]
 >
->これは、ToutAppとSales Connectの両方のお客様に影響を与えます。
+>これは、ToutApp と Sales Connect の両方の顧客に影響を与えます。
 
-## Salesforceでのカスタマイズのインストール方法{#how-to-install-customizations-in-salesforce}
+## Salesforce でのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
 
-1. 「Sales Connect」で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「管理設定」で、「**Salesforce**」を選択します。
+1. 管理設定で、**Salesforce** を選択します。
 
    ![](assets/two.png)
 
-1. [**Marketo販売接続のカスタマイズ**]をクリックします。
+1. 「**Marketo Sales Connect のカスタマイズ**」をクリックします。
 
    ![](assets/three.png)
 
-1. **Salesforce**&#x200B;に接続をクリックします。
+1. 「**Salesforce に接続**」をクリックします。
 
    ![](assets/four.png)
 
-1. Salesforceにログインします。
+1. Salesforce にログインします。
 
    ![](assets/five.png)
 
 ## カスタムアクティビティフィールド {#custom-activity-fields}
 
-Marketoは、新しいフィールドの作成を検出し、1回限りのデータのバックフィル、再マッピング、および&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を行います。 古いフィールドは更新されません。
+Marketo は、新しいフィールドの作成を検出し、1 回限りのデータのバックフィル、再マッピングおよび&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を実行します。古いフィールドは更新されません。
 
-| **フィールド名** | **詳細** |
+| **フィールド名** | **説明** |
 |---|---|
-| MSE Call Local Presence ID | ユーザーは、MSE Phoneからの呼び出し時に、「ローカルプレゼンス」をオプションとして選択できます。 着信呼び出しは、受信者のローカル番号を表示します。 |
-| MSE呼び出し記録URL | 呼び出しを記録し、記録のリンクをここに記録できます。 |
-| MSEキャンペーン | 連絡先/リードが属するMSEキャンペーンの名前をログに記録します。 |
-| MSEキャンペーンURL | MSEで作成されたキャンペーンのURLをログに記録します。 これをクリックすると、MSE Webアプリでキャンペーンが開きます。 |
-| MSEキャンペーンの現在の手順 | 連絡先/リードがキャンペーンの一部である場合、このフィールドには、リード/担当者が現在オンにしているステップの名前が記録されます。 |
-| MSE電子メール添付ファイルの表示 | 電子メールが添付ファイルと共に送信され、添付ファイルが受信者によって表示された場合に、データをログに記録します。 |
-| MSE電子メールがクリックされました | 受信者が電子メール内のリンクをクリックしたときにチェックマークを記録します。 |
-| MSE電子メール返信済み | 受信者が電子メールに返信したときにチェックマークを記録します。 |
-| MSE電子メールの状態 | 電子メールが送信、処理中、またはバウンス済みかどうかを表示します(バウンスされた電子メールの追跡は、使用する配信のチャネルに応じて異なります)。 |
-| MSE電子メールテンプレート | リード/連絡先に送信された電子メールで使用されたMSEテンプレートのログ名です。 |
-| MSE電子メールテンプレートURL | MSEで作成されたテンプレートのURLをログに記録します。 これをクリックすると、MSE Webアプリでテンプレートが開きます。 |
-| MSE電子メールURL | このURLをクリックすると、MSEのコマンドセンターが開き、[人物の詳細表示の履歴]タブが展開され、送信された電子メールが表示されます。 |
-| MSE電子メールの表示 | 受信者が電子メールを表示したときにチェックマークを記録します。 |
+| MSE 電話ローカルプレゼンス ID | ユーザーは、MSE 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します。 |
+| MSE 電話録音 URL | 通話は録音され、録音のリンクはここに記録されます。 |
+| MSE キャンペーン | 連絡先／リードがメンバーの MSE キャンペーンの名前を記録します。 |
+| MSE キャンペーン URL | MSE で作成されたキャンペーンの URL を記録します。これをクリックすると、MSE web アプリでキャンペーンが開きます。 |
+| MSE キャンペーンの現在のステップ | 連絡先／リードがキャンペーンの一部である場合、このフィールドには、リード／連絡先が現在参加しているステップの名前が記録されます。 |
+| MSE メール添付ファイルの閲覧 | ファイルが添付されたメールが送信され、受信者が添付ファイルを閲覧した場合に、データを記録します。 |
+| MSE メールのクリック | 受信者がメール内のリンクをクリックしたときにチェックマークを記録します。 |
+| MSE メールの返信 | 受信者がメールに返信したときにチェックマークを記録します。 |
+| MSE メールのステータス | メールが送信済み／処理中／バウンスされたかどうかを表示します（バウンスメールのトラッキングは、使用する配信チャネルに依存します）。 |
+| MSE メールテンプレート | リード／連絡先に送信されたメールで使用された MSE テンプレートの名前を記録します。 |
+| MSE メールテンプレート URL | MSE で作成されたテンプレートの URL を記録します。これをクリックすると、MSE web アプリでテンプレートが開きます。 |
+| MSE メール URL | この URL をクリックすると、MSE でコマンドセンターが開き、「リード詳細表示の履歴」タブが前面表示され、送信されたメールを確認できます。 |
+| MSE メールの表示 | 受信者がメールを表示したときにチェックマークを記録します。 |
 
-## ロールアップログのフィールド{#roll-up-logging-fields}
+## ログフィールドのロールアップ {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -71,46 +70,46 @@ Marketoは、新しいフィールドの作成を検出し、1回限りのデー
  <tbody> 
   <tr> 
    <td><strong>フィールド名</strong></td> 
-   <td><strong>詳細</strong></td> 
+   <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
-   <td>MSE — 最後のマーケティングエンゲージメント</td> 
-   <td>マーケティングからの最後の着信エンゲージメント。 </td> 
+   <td>MSE - 最終マーケティングエンゲージメント</td> 
+   <td>マーケティングから最後に入ってきたエンゲージメント。 </td> 
   </tr> 
   <tr> 
-   <td>MSE — 最終マーケティングエンゲージメント日</td> 
+   <td>MSE - 最終マーケティングエンゲージメント日</td> 
    <td>マーケティングからのエンゲージメントのタイムスタンプ。</td> 
   </tr> 
   <tr> 
-   <td>MSE — 最後のマーケティングエンゲージメントの説明</td> 
+   <td>MSE - 最終マーケティングエンゲージメントの説明</td> 
    <td>エンゲージメントの説明。</td> 
   </tr> 
   <tr> 
-   <td>MSE — 最後のマーケティングエンゲージメントソース</td> 
+   <td>MSE - 最終マーケティングエンゲージメントソース</td> 
    <td>マーケティングエンゲージメントのソース。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 最後のマーケティングエンゲージメントのタイプ</td> 
-   <td colspan="1">アクションのタイプ。</td> 
+   <td colspan="1">MSE - 最終マーケティングエンゲージメントのタイプ</td> 
+   <td colspan="1">エンゲージメントのタイプ。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 販売別最終アクティビティ<br></td> 
-   <td colspan="1">営業チームが実行した最後の発信アクティビティ。</td> 
+   <td colspan="1">MSE - セールスによる最終アクティビティ<br></td> 
+   <td colspan="1">セールスチームが最後に実行した外部アクティビティ。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 最後の返信</td> 
-   <td colspan="1">販売の電子メールに対する最後の電子メールの返信</td> 
+   <td colspan="1">MSE - 最終返信</td> 
+   <td colspan="1">セールスメールに最後に返信したメール。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 現在の販売キャンペーン</td> 
-   <td colspan="1">リード/連絡先が所属するMSEキャンペーンの名前をログに記録します。</td> 
+   <td colspan="1">MSE - 現在のセールスキャンペーン</td> 
+   <td colspan="1">リード／連絡先がメンバーの MSE キャンペーンの名前を記録します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE — 最終販売エンゲージメント</td> 
-   <td colspan="1">販売からの最後の関与。 </td> 
+   <td colspan="1">MSE - 最終セールスエンゲージメント</td> 
+   <td colspan="1">セールスから最後に入ってきたエンゲージメント。 </td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE -オプトアウト</td> 
+   <td colspan="1">MSE - オプトアウト</td> 
    <td colspan="1">オプトアウトフィールド。</td> 
   </tr> 
  </tbody> 
@@ -118,24 +117,24 @@ Marketoは、新しいフィールドの作成を検出し、1回限りのデー
 
 ## ボタン {#buttons}
 
-| **ボタン名** | **詳細** |
+| **ボタン名** | **説明** |
 |---|---|
-| MSE電子メールの送信 | Salesforceから販売の電子メールを送信します。 |
-| MSE追加キャンペーン | をSalesforceの追加MSEキャンペーンに送信します。 |
-| MSEにプッシュ | SalesforceからMSEに連絡を取る。 |
-| MSEでの通話 | Salesforceからの販売呼び出し。 |
+| MSE メールを送信 | Salesforce からセールスメールを送信します。 |
+| MSE キャンペーンに追加 | Salesforce から MSE キャンペーンに追加します。 |
+| MSE にプッシュ | Salesforce から MSE に連絡先をプッシュします。 |
+| MSE で電話 | Salesforce からセールス電話をかけます。 |
 
-## バルクアクションボタン{#bulk-action-buttons}
+## 一括アクションボタン {#bulk-action-buttons}
 
-| **ボタン名** | **詳細** |
+| **ボタン名** | **説明** |
 |---|---|
-| MSE追加キャンペーン | をSalesforceの追加MSEキャンペーンに送信します。 |
-| MSEにプッシュ | SalesforceからMSEに連絡を取る。 |
+| MSE キャンペーンに追加 | Salesforce から MSE キャンペーンに追加します。 |
+| MSE にプッシュ | Salesforce から MSE に連絡先をプッシュします。 |
 
-## ユーザーガイド{#user-guides}
+## ユーザーガイド {#user-guides}
 
-[SalesforceのMSEカスタムレポート](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforce の MSE カスタムレポート](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce用MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce 用の MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning用MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightning 用の MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
