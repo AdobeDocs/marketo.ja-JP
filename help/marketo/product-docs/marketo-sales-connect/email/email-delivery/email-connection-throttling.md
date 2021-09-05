@@ -1,51 +1,50 @@
 ---
-description: 電子メール接続のスロットリング —Marketoドキュメント — 製品ドキュメント
-title: 電子メール接続のスロットリング
+description: メール接続のスロットリング - Marketo ドキュメント - 製品ドキュメント
+title: メール接続のスロットリング
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メール接続のスロットリング{#email-connection-throttling}
+# メール接続のスロットリング {#email-connection-throttling}
 
-Sales Connectアカウントを統合してExchangeまたはGmailの電子メールプロバイダー経由で送信するオファーは、合理化されたセットアップを行い、1:1の販売コミュニケーションのための電子メール配信品質を最適化します。 ただし、システムの健全性とアカウントの安全性を維持するために、GmailとExchangeでは電子メールの送信制限が適用されます。 これらの制限は、プロバイダの判断で増減できます。
+Sales Connect アカウントを統合して、Exchange または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信のための合理化された設定とメール配信品質の最適化が可能です。ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
 
-## 電子メール接続の制限（ベータ） {#email-connection-throttling-beta}
+## メール接続のスロットリング（ベータ版） {#email-connection-throttling-beta}
 
 >[!AVAILABILITY]
 >
->この機能は、現在ベータ版リリース中です。 このベータ版に参加するには、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能は現在ベータ版リリースです。このベータ版に参加するには、カスタマーサクセスマネージャーにお問い合わせください。
 
-電子メール接続のスロットリングを使用すると、Sales Connect管理者は、GmailまたはExchangeを配信チャネルとして使用する場合に、電子メールが配信チャネルプロバイダーに引き渡される速度が強制的な制限を超えないように、電子メールの送信率を設定できます。
+メール接続のスロットリングを使用すると、Sales Connect 管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えないように、メールの送信率を設定できます。
 
-制限を常に超える場合は、配信チャネルプロバイダーからの不審な動作と見なされ、電子メールの失敗やアカウントの無効化が発生する場合があります。
+制限を継続的に超えると、配信チャネルプロバイダーが疑わしい動作と見なし、メール送信が失敗したり、アカウントが無効になったりする場合があります。
 
-**メモ/ハイライト**
+**メモ／ハイライト**
 
-* ユーザーがGmailまたはExchangeに接続すると自動的に有効になる
-* ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズできます。
-* GmailまたはExchange経由で送信される電子メールの制限のみが行われ、カスタム配信チャネルの制限は行われません。
-* 電子メール接続のスロットリングは、各ユーザーが自分の電子メールプロバイダーと独自の接続を持つので、各ユーザーの電子メールを個別にキューに入れます
+* ユーザーが Gmail または Exchange に接続すると自動的に有効化されます
+* ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズ可能です
+* Gmail または Exchange を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません
+* メール接続のスロットルは、各ユーザーがメールプロバイダーと独自に接続しているため、各ユーザーのメールを個別にキューイングします
 
-**電子メール接続のスロットリング設定の指定**
+**メール接続のスロットリングの設定**
 
-1. 歯車アイコンをクリックし、**設定**&#x200B;を選択します。
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. [**一般**]をクリックします。
+1. 「**一般**」をクリックします。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 「電子メールチャネルのスロットリング」カードで、電子メール接続プロバイダーに送信する電子メールのバッチサイズを入力します。
+1. 「メール接続のスロットリング」カードで、メールチャネルプロバイダーに送信するメールのバッチサイズを入力します。
 
    ![](assets/email-connection-throttling-3.png)
 
-1. 各バッチが送信されるまでの待機時間を設定します。 この例では、45秒ごとに25件の電子メールを選択しています。
+1. 各バッチが送信されるまでの待機時間を設定します。この例では、45 秒ごとに 25 通のメールを選択します。
 
    ![](assets/email-connection-throttling-4.png)
 
@@ -53,35 +52,35 @@ Sales Connectアカウントを統合してExchangeまたはGmailの電子メー
 
    ![](assets/email-connection-throttling-5.png)
 
-変更を保存すると、すべてのユーザーは、接続されているGmailまたはExchangeアカウントに、配信用に電子メールをバッチで送信できます。
+変更を保存すると、すべてのユーザーは、接続された Gmail または Exchange アカウントに一括でメールを送信して配信できます。
 
-## 電子メールプロバイダーの制限{#email-provider-limits}
+## メールプロバイダーの制限 {#email-provider-limits}
 
 **Outlook 365**
 
-Business/Enterprise
+ビジネス／エンタープライズ
 
-* 1日に10,000
-* 30/分
-* 電子メールあたり500受信者
+* 1 日あたり 10,000 件
+* 1 分あたり 30 件
+* 1 件のメールあたり 500 人の受信者
 
-[詳細は](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)を参照してください。
+詳しくは[こちら](https://docs.microsoft.com/ja-jp/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)をご覧さい。
 
 **Gmail**
 
-* 1日あたり2,000件（体験版およびフラグ付きのアカウントの場合は500件）
-* 1秒あたり2件の電子メール（APIの制限）
-* メッセージあたり2,000受信者(外部受信者の場合は最大500)
+* 1 日あたり 2,000 件（体験版およびフラグ付きアカウントの場合は 500 件）
+* 1 秒あたり 2 件のメール（API の上限）
+* 1 メッセージあたり 2,000 人（外部受信者の場合は最大 500 人）
 
-[詳細は](https://support.google.com/a/answer/166852?hl=en)を参照してください。
+詳しくは[こちら](https://support.google.com/a/answer/166852?hl=jp)をご覧さい。
 
-**Microsoft Exchange Server (2010、2013)**
+**Microsoft Exchange Server（2010、2013）**
 
-制限は、組織のIT部門が設定します。これは、サーバが組織でホストされているためです。 詳細については、ネットワーク管理者またはシステム管理者に問い合わせてください。
+サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
 
 >[!MORELIKETHIS]
 >
 >* [配信チャネルの概要](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmailユーザーの電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlookユーザー用電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
