@@ -1,20 +1,19 @@
 ---
 unique-page-id: 10098962
-description: Launch Packの理解と使用 —Marketoドキュメント — 製品ドキュメント
-title: Launch Packの理解と使用
-translation-type: tm+mt
+description: Launch Pack の説明と使用 - Marketo ドキュメント - 製品ドキュメント
+title: Launch Pack の説明と使用
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Launch Packの理解と使用{#understanding-and-using-the-launch-pack}
+# Launch Pack の説明と使用 {#understanding-and-using-the-launch-pack}
 
 ![](assets/coming-soon.png)
 
-ドキュメントチームは現在、この記事で作業を行っています。
+ドキュメントチームは現在、この記事に取り組んでいます。
 
-準備が整ったらすぐに公開すると約束します。
+準備が整ったらすぐに公開することをお約束します。
