@@ -1,33 +1,32 @@
 ---
 unique-page-id: 30081230
-description: 人物に対するバルクアクション —Marketoドキュメント — 製品ドキュメント
-title: ユーザーに対するバルクアクション
+description: リードに対する一括アクション - Marketo ドキュメント - 製品ドキュメント
+title: リードに対する一括アクション
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# ユーザーのバルクアクション{#bulk-actions-on-people}
+# リードに対する一括アクション {#bulk-actions-on-people}
 
-連絡先を一括処理して管理し、時間を節約することができます。
+連絡先を一括で使用して時間を節約するには、いくつかの操作が可能です。
 
-使用可能なすべてのバルクアクションの最初の手順は、2つ以上の接触を選択し、dota（3つの垂直なドット）をクリックすることです。
+使用可能な一括アクションの最初の手順は、2 つ以上の連絡先を選択し、縦並びの 3 つのドットをクリックすることです。
 
 ![](assets/one-3.png)
 
-## 担当者をグループに追加 {#add-people-to-group}
+## リードをグループに追加 {#add-people-to-group}
 
-複数追加のユーザーを同時にグループに追加する。
+複数のリードを 1 つのグループに同時に追加します。
 
 ![](assets/add-to-group.png)
 
 ## ソース {#source}
 
-データベースに入るすべての連絡先にソースを自動的に割り当てます。 この手順を使用して、そのソースを更新します。
+データベースに入るすべての連絡先に、ソースを自動的に割り当てます。この手順を使用して、そのソースを更新します。
 
 ![](assets/source.png)
 
@@ -37,18 +36,18 @@ ht-degree: 5%
 
 ## 認証 {#authorization}
 
-[GDPR](https://eugdpr.org/)に準拠して、認証を使用して、これらの連絡先との関与に関する権限を受け取った方法を示します。
+[GDPR](https://eugdpr.org/) に準拠して、認証を使用してこれらの連絡先と関与する権限を受け取る方法を示します。
 
 ![](assets/authorization.png)
 
 ## 配信停止 {#unsubscribe}
 
-通信の受信を希望しなくなった連絡先に対して、一括登録解除を実行します。
+今後連絡を希望しない連絡先に対して、一括登録解除を実行します。
 
 ![](assets/unsubscribe.png)
 
-## {#delete} の削除
+## 削除 {#delete}
 
-連絡先を一括で削除します。 [ここ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)に完全な手順があります。
+連絡先を一括で削除します。完全な手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)にあります。
 
 ![](assets/delete.png)
