@@ -1,30 +1,29 @@
 ---
-description: Sales Connectのパスワードの変更 —Marketoドキュメント — 製品ドキュメント
-title: 販売用接続パスワードの変更
+description: Sales Connect のパスワードの変更 - Marketo ドキュメント - 製品ドキュメント
+title: Sales Connect のパスワードの変更
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 販売用接続パスワードの変更{#change-your-sales-connect-password}
+# Sales Connect のパスワードの変更 {#change-your-sales-connect-password}
 
-パスワードの変更が必要ですか？ これが方法です。
+パスワードを変更する必要がある場合、手順は以下のとおりです。
 
-## {#change-your-password-while-signed-in}へのサインイン時にパスワードを変更
+## サインイン中のパスワード変更 {#change-your-password-while-signed-in}
 
-1. 歯車アイコンをクリックし、**設定**&#x200B;を選択します。
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. デフォルトで[マイプロファイル]ページが開きます。 「アカウントの詳細」で、「**パスワードを変更**」チェックボックスを選択します。
+1. デフォルトでマイプロファイルページが開きます。「アカウントの詳細」で、「**パスワードを変更**」チェックボックスを選択します。
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. 現在のパスワードを入力します。 次に、新しい名前を入力し、一致することを確認して再入力します。 終了したら「**保存**」をクリックします。
+1. 現在のパスワードを入力します。次に、新しいパスワードを入力し、再度入力して一致することを確認します。終了したら「**保存**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -32,30 +31,30 @@ ht-degree: 0%
 >
 >パスワードは次の条件を満たす必要があります。
 >
->* 9文字以上含むこと
->* 大文字と小文字を混在させる（UPPERとlowerの両方）
+>* 9 文字以上含む
+>* 大文字と小文字を混在させる
 >* 数値を含める
 >* 特殊文字を使用する
 
 
-## サインアウト中にパスワードを変更する{#change-your-password-while-signed-out}
+## サインアウト中のパスワード変更 {#change-your-password-while-signed-out}
 
-1. [Sales Connect log-in](https://toutapp.com/login)ページに移動し、**パスワードを忘れた場合**&#x200B;をクリックします。
+1. [Sales Connect ログイン](https://toutapp.com/login)ページに移動し、「**パスワードを忘れた場合**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. アカウントに関連付けられている電子メールアドレスを入力し、「**リセット用電子メールを送信**」をクリックします。
+1. アカウントに関連付けられているメールアドレスを入力し、「**リセット用メールを送信**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. アカウントの所有者がパスワードの変更を希望していることを確認する電子メールを送信します。 「**パスワードをリセット**」をクリックします。
+1. アカウントの所有者がパスワードを変更することを確認するメールが送信されます。「**パスワードをリセット**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-6.png)
 
    >[!NOTE]
    >
-   >スパムフォルダーも必ず確認してください。この電子メールが送信される場合があります。
+   >スパムフォルダーも必ず確認してください。このメールがスパムフォルダーに入ってしまう場合があります。
 
-1. 新しいパスワードを入力し、確認します。 完了したら、「**パスワード**&#x200B;を設定」をクリックします。
+1. 新しいパスワードを入力し、確認します。入力したら、「**パスワードを設定**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-7.png)
