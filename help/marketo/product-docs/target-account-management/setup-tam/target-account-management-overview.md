@@ -1,64 +1,63 @@
 ---
 unique-page-id: 11381917
-description: ターゲットアカウント管理 —Marketoドキュメント — 製品ドキュメント
+description: ターゲットアカウント管理 - Marketo ドキュメント - 製品ドキュメント
 title: ターゲットアカウント管理
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '239'
+ht-degree: 100%
 
 ---
 
-# ターゲットアカウント管理{#target-account-management-overview}
+# ターゲットアカウント管理 {#target-account-management-overview}
 
-マーケティング担当者は、ターゲットのアカウント管理にお問い合わせください。 ターゲットのアカウント管理を参照してください。
+マーケターの皆さんに、ターゲットアカウント管理を紹介します。ターゲットアカウント管理を大いにご活用ください。
 
 ![](assets/photo-collage.png)
 
-Marketoターゲットアカウント管理とは
+Marketo ターゲットアカウント管理とは
 
-Marketoターゲットのアカウント管理は、1つのプラットフォーム内で、セールスチームとマーケティングチームをターゲットに統合し、主要なアカウントとの連携を高く調整し、アカウント中心の戦略、実行、成功のギャップを埋めます。
+Marketo ターゲットアカウント管理では、1 つのプラットフォーム内で、セールスとマーケティングチームが連携し、アカウント中心の戦略、実行、成功のギャップを埋め、高度に調整された方法で主要アカウントをターゲットし、エンゲージします。
 
-Marketoターゲットアカウント管理を使用する理由
+Marketo ターゲットアカウント管理を使用する理由
 
-Marketoは、TAMとリード管理を1つのソリューションに統合し、マーケターがアカウントとリードの両方に対して、パーソナライズされたキャンペーンを1回のモーションで簡単に実行できるようにします。 また、主要な意思決定者に連絡し、影響力のある人と取り引くこともメリットとなります。
+Marketo は、TAM とリード管理を 1 つのソリューションに統合し、マーケターがアカウントとリードの両方に対してパーソナライズされたキャンペーンを 1 回の動作で簡単に実行できるようにします。また、主要な意思決定者に連絡して、影響力のある人に対処することもできます。
 
-MarketoTAMは、次の3つのコンポーネントで構成されています。
+Marketo TAM は、次の 3 つのコンポーネントで構成されています。
 
-**（一）ターゲット**
+**1) ターゲット**
 
 * アカウントの検出
-* リード対アカウントの照合
-* 固有のアカウントリスト
+* リードとアカウントの照合
+* 重点顧客の一覧
 
-**2)関与**
+**2) エンゲージ**
 
 * アカウントベースのパーソナライゼーション
-* チャネル間の関与
+* クロスチャネルのエンゲージメント
 * アカウント固有のワークフロー
 
-**(3)測定**
+**3) 測定**
 
 * アカウントとリストレベルのインサイト
 * アカウントエンゲージメントスコア
 * パイプラインと売上高への影響
 
-Marketoアカウントベースのマーケティングでは、様々なツールをオファーして、チャネル間で名前付きのアカウントエクスペリエンスをパーソナライズすることもできます。
+Marketo Account Based Marketing は、チャネルをまたいで重点顧客のエクスペリエンスをパーソナライズするための様々なツールも提供します。
 
-* 電子メール&amp;ランディングページのパーソナライゼーション
-* ウェブパーソナライゼーション
+* メールとランディングページのパーソナライゼーション
+* Web パーソナライゼーション
 * URL [パーソナライゼーション](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * 広告[パーソナライゼーション](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [PersonalizedRemarketing](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 
+* [パーソナライズされた](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)リマーケティング
 
-入った！ 使用を開始する方法
+使用してみたいと思うのですが、どのように始めるのですか？
 
-お前に聞かれないと思った！ TAMは、Marketo購読のアドオンとしてご利用いただけます。導入を依頼するには、担当の営業担当者にお問い合わせください。 取得したら、次の記事を確認します。[TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)使用の手引き。
+興味を持っていただき、嬉しく思います。TAM は Marketo サブスクリプションのアドオンとして利用できるので、実装するには営業担当にお問い合わせください。実装が完了したら、こちらの [TAM の概要](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md)記事を参照してください。
 
 >[!NOTE]
 >
->MarketoTAMで管理する名前付きアカウントは、ウェブTAMから直接アクセスし、ウェブパーソナライゼーションのニーズに対応できます。 詳細[こちら](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)。
+>Marketo TAM で管理される重点顧客は、web TAM から直接アクセスして、web パーソナライゼーションのニーズに対応することができます。詳細は[こちら](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)を参照してください。
 
-MarketoTAMへようこそ。ターゲットマーケティングを楽しんでください。
+Marketo TAM へようこそ。ターゲットマーケティングをお楽しみください。
