@@ -1,25 +1,24 @@
 ---
-description: 新しいアイコンの用語集 —Marketoドキュメント — 製品ドキュメント
-title: 新しいアイコンの用語集
+description: 新規アイコン用語集 - Marketo ドキュメント - 製品ドキュメント
+title: 新規アイコン用語集
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-translation-type: tm+mt
 source-git-commit: 507ec14831e92b7ae4f30919758a890a3f6447b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '241'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
-# 新しいアイコンの用語集{#new-icon-glossary}
+# 新規アイコン用語集 {#new-icon-glossary}
 
-新しいAdobeMarketo Engageインターフェイスの新しいアイコンは、次のとおりです。 まだMarketo Classicを使っている場合は、[ここ](/help/marketo/getting-started/icon-glossary.md)にアイコンの用語集があります。
+以下に、新しい Adobe Marketo Engage インターフェイスの新規アイコンを示します。まだ Marketo Classic を実行している場合は、アイコン用語集は[こちら](/help/marketo/getting-started/icon-glossary.md)にあります。
 
-## 一般的なアイコン{#general-icons}
+## 一般アイコン {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -31,12 +30,12 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>バッチキャンペーン — アクティブ</td> 
+   <td>バッチキャンペーン - アクティブ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
    <td><img src="assets/batch-inactive.png"></td> 
-   <td>バッチキャンペーン — 非アクティブ</td> 
+   <td>バッチキャンペーン - 非アクティブ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td> 
@@ -46,7 +45,7 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-email.png"></td> 
    <td><img src="assets/email.png"></td> 
-   <td>メール</td> 
+   <td>電子メール</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -71,12 +70,12 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td> 
    <td><img src="assets/executable-campaign.png"></td> 
-   <td>Executable Campaign</td> 
+   <td>実行可能なキャンペーン</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
    <td><img src="assets/field-organizer.png"></td> 
-   <td>フィールド オーガナイザ</td> 
+   <td>フィールドオーガナイザ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
@@ -86,22 +85,22 @@ ht-degree: 51%
   <tr>
    <td><strong>該当なし</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
-   <td>フィルタ — アクティブ</td> 
+   <td>フィルター - アクティブ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td> 
    <td><img src="assets/folder.png"></td> 
-   <td>フォルダ</td> 
+   <td>フォルダー</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
-   <td>フォルダ — アーカイブ済み</td> 
+   <td>フォルダー - アーカイブ済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
    <td><img src="assets/folder-locked.png"></td> 
-   <td>フォルダ — ロック</td> 
+   <td>フォルダー - ロック済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td> 
@@ -111,7 +110,7 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td> 
    <td><img src="assets/images.png"></td> 
-   <td>画像（およびファイル）</td> 
+   <td>画像（とファイル）</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td> 
@@ -131,7 +130,7 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td> 
    <td><img src="assets/landing-page-template.png"></td> 
-   <td>ランディングページ テンプレート</td> 
+   <td>ランディングページテンプレート</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td> 
@@ -171,12 +170,12 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-smart-list.png"></td> 
    <td><img src="assets/smart-list.png"></td> 
-   <td>スマート リスト</td> 
+   <td>スマートリスト</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td> 
    <td><img src="assets/smart-list-cached.png"></td> 
-   <td>スマートリスト — キャッシュ</td> 
+   <td>スマートリスト - キャッシュ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td> 
@@ -206,17 +205,17 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-test-group.png"></td> 
    <td><img src="assets/test-group.png"></td> 
-   <td>テスト グループ</td> 
+   <td>テストグループ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
    <td><img src="assets/trigger-active.png"></td> 
-   <td>トリガー — アクティブ</td> 
+   <td>トリガー - 有効化済み</td> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
    <td><img src="assets/trigger-inactive.png"></td> 
-   <td>トリガー — 非アクティブ</td> 
+   <td>トリガー - 無効化済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
@@ -231,12 +230,12 @@ ht-degree: 51%
  </tbody>
 </table>
 
-## バッチ キャンペーン {#batch-campaigns}
+## バッチキャンペーン {#batch-campaigns}
 
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -268,12 +267,12 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td> 
    <td><img src="assets/scheduled-to-run-again.png"></td> 
-   <td>再実行のスケジュール</td> 
+   <td>再実行をスケジュール済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>Nurtureで使用</td> 
+   <td>ナーチャリングで使用</td> 
   </tr>
  </tbody>
 </table>
@@ -283,7 +282,7 @@ ht-degree: 51%
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -295,7 +294,7 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td> 
    <td><img src="assets/is-requested.png"></td> 
-   <td>要求済み</td> 
+   <td>リクエスト済み</td> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
@@ -315,7 +314,7 @@ ht-degree: 51%
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -342,19 +341,19 @@ ht-degree: 51%
  </tbody>
 </table>
 
-## エンゲージメント プログラム {#engagement-programs}
+## エンゲージメントプログラム {#engagement-programs}
 
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
    <td><img src="assets/off.png"></td> 
-   <td>Off</td> 
+   <td>オフ</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-on.png"></td> 
@@ -369,7 +368,7 @@ ht-degree: 51%
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -381,12 +380,12 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td> 
    <td><img src="assets/not-configured-yet.png"></td> 
-   <td>Not Configured Yet</td> 
+   <td>未設定</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-paused.png"></td> 
    <td><img src="assets/paused.png"></td> 
-   <td>Paused</td> 
+   <td>一時停止</td> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
@@ -406,7 +405,7 @@ ht-degree: 51%
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
@@ -423,7 +422,7 @@ ht-degree: 51%
   <tr>
    <td><img src="assets/classic-email-approved-with-draft.png"></td> 
    <td><img src="assets/approved-with-draft.png"></td> 
-   <td>承認済み 下書き</td> 
+   <td>承認済みドラフト付き</td> 
   </tr>
  </tbody>
 </table>
@@ -433,24 +432,24 @@ ht-degree: 51%
 <table> 
  <tbody>
   <tr>
-   <th>古いアイコン</th> 
+   <th>以前のアイコン</th> 
    <th> 新規アイコン</th> 
    <th>説明</th> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
-   <td>承認済み — 計算中</td> 
+   <td>承認済み - 計算中</td> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
-   <td>承認済 — 再計算中</td> 
+   <td>承認済み - 再計算中</td> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
    <td><img src="assets/draft-under-calculation.png"></td> 
-   <td>ドラフト — 計算中</td> 
+   <td>ドラフト - 計算中</td> 
   </tr>
  </tbody>
 </table>
