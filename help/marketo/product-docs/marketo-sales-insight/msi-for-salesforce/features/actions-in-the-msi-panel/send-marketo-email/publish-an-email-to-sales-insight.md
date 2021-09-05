@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2949718
-description: Sales Insightへの電子メールの投稿 —Marketoドキュメント — 製品ドキュメント
-title: Sales Insightへの電子メールの公開
+description: Sales Insight への電子メールの公開 - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight への電子メールの公開
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Sales Insightに電子メールを公開する{#publish-an-email-to-sales-insight}
+# Sales Insight への電子メールの公開 {#publish-an-email-to-sales-insight}
 
-「Sales Insightに公開」設定を有効にすると、Sales Insight、Outlook、Gmail 追加-Inの両方のセールスチームに電子メールを提供できます。 有効期限を設定することもできます。
+Sales Insight に公開する設定を有効にして、セールスチームが Sales Insight だけでなく、Outlook および Gmail アドインでも電子メールを利用できるようにします。また、有効期限を指定することもできます。
 
-1. 電子メールを探し、選択して「**ドラフトを編集**」をクリックします。
+1. 目的のメールを選択して、「**ドラフトを編集**」をクリックします。
 
    ![](assets/one.png)
 
-1. エディターが開いたら、「**電子メール設定**」をクリックします。
+1. エディターが開いたら、「**メール設定**」をクリックします。
 
    ![](assets/two.png)
 
-1. 「**Marketo販売インサイトへの投稿**」を確認します。
+1. 「**Marketo Sales Insight に公開**」をオンにします。
 
    ![](assets/three.png)
 
-1. 有効期限を設定するには（オプション）、[**有効期限を設定**]をオンにして日付を選択します。
+1. 有効期限を設定するには（オプション）、「**有効期限を設定**」をオンにして日付を選択します。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >午後11時59分。(CST)有効期限日（設定した場合）に、利用可能にした電子メールとそのアドインがSales Insightに表示されなくなります。 もちろんMarketoでは利用できます。
+   >（設定した場合）有効期限日の午後 11:59（CST）に、使用可能にしたメールが Sales Insight およびアドインから削除されます。もちろん、Marketo では引き続きアクセス可能です。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/five.png)
 
-いい仕事！ これで、セールスチームがCRM側で送信できる電子メールを作成し、必要に応じてその電子メールの利用時間を制限する方法がわかりました。
+これで完了です。セールスチームが CRM 側で送信するメールを使用できるようにし、必要に応じて利用可能な期間を制限する方法が理解できました。
 
 >[!NOTE]
 >
->[Microsoft ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) DynamicsまたはSalesforceに関するSales Insightから電子メールを送信する際に、My Tokensが解決しません。標準のトークンのみが設定されます(リード、会社など)。ただし、トークンのデフォルト値は有効です。
+>Microsoft Dynamics または Salesforce の Sales Insight からメールを送信しても、[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)は解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は機能します。
 
 >[!TIP]
 >
->変更を有効にするために、この電子メールを承認するのを忘れないでください。 [電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)の承認方法を説明します。
+>変更を有効にするために、忘れずにこのメールを承認してください。[電子メールの承認](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)方法を参照してください。
