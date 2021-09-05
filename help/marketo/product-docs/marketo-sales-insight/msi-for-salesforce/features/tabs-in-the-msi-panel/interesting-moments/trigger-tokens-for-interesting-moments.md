@@ -1,35 +1,34 @@
 ---
 unique-page-id: 1146999
-description: 興味深い瞬間のトリガートークン —Marketoドキュメント — 製品ドキュメント
-title: 興味深い瞬間のトリガートークン
+description: 注目のアクションのトリガートークン - Marketo ドキュメント - 製品ドキュメント
+title: 注目のアクションのトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '436'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
-# 興味深い瞬間のトリガートークン{#trigger-tokens-for-interesting-moments}
+# 注目のアクションのトリガートークン {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->[注目のモーメントフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使用を学びます。
+>[注目のアクションのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)の使い方を説明します。
 
-## 使用可能なトークン{#available-tokens}
+## 使用可能なトークン {#available-tokens}
 
-[Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を調べて、おもしろい瞬間に使えるすべてのトークンを確認します。
+[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を見て、注目のアクションに置くことができるトークンを確認してください。
 
-## トリガートークン{#trigger-tokens}
+## トリガートークン {#trigger-tokens}
 
 スマートキャンペーンで使用されるトリガーに基づいて、追加のトリガートークンが使用可能になります。
 
-* `{{trigger.Trigger Name}}` それは常に実際のトリガーそのものです次に例を示します。電子メール内のリンクをクリックします。
-* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。次に例を示します。「Webページ上のクリック数リンク」はURLであり、Salesforceトリガーなどの件名です。
-* 制約に基づいて追加のトリガーを使用できます。以下に示します。
+* `{{trigger.Trigger Name}}` は常に実際のトリガーそのものです。例：メール内のリンクをクリック。
+* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。例：「Web ページのリンクをクリック」は、URL 自体、Salesforce トリガーの件名などです。
+* その他のトリガーは、制約に基づいて使用できます。以下に示します。
 
-**電子メールトリガー**
+**メールトリガー**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -84,7 +83,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子メールのバウンス（ハード）</td> 
+   <td>ハードバウンスメール</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -118,7 +117,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>電子メールが配信される</td> 
+   <td>メール配信完了</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -205,7 +204,7 @@ ht-degree: 29%
  </tbody> 
 </table>
 
-**Salesforceトリガー**
+**Salesforce トリガー**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -362,7 +361,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>顧客を変換</td> 
+   <td>リードのコンバージョン</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -379,7 +378,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>担当者を SFDC から削除します</td> 
+   <td>リードを SFDC から削除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -396,7 +395,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>担当者を SFDC に同期します</td> 
+   <td>リードを SFDC に同期</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -447,7 +446,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>活動の記録</td> 
+   <td>アクティビティの記録</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -464,7 +463,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>活動の更新</td> 
+   <td>アクティビティの更新</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -534,7 +533,7 @@ ht-degree: 29%
  </tbody> 
 </table>
 
-**Sales Connectトリガー**
+**Sales Connect トリガー**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -657,7 +656,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>セールスキャンペーンに追加しました</td> 
+   <td>セールスキャンペーンに追加</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -675,7 +674,7 @@ ht-degree: 29%
   </tr> 
   <tr>
    <td>所有者の変更</td> 
-   <td>セールスキャンペーンから削除しました</td> 
+   <td>セールスキャンペーンから削除</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -692,7 +691,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>セールス電話を受信しました</td> 
+   <td>セールス電話を受信</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -766,7 +765,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>ウェブページにアクセス</td> 
+   <td>Web ページにアクセス</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -783,7 +782,7 @@ ht-degree: 29%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>ウェブページのリンクをクリック</td> 
+   <td>Web ページのリンクをクリック</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -804,9 +803,9 @@ ht-degree: 29%
 
 >[!NOTE]
 >
->チェック![(tick)](assets/check.png)がない場合は、おもしろい瞬間に空の文字列（何もない）が返されます。
+>チェック![（tick）](assets/check.png)がない場合は、注目のアクションに空の（何も入っていない）文字列が返されます。
 
-*トリガー&#x200B;**訪問ウェブページ**&#x200B;には、次のトークンがいくつか追加されています。
+*トリガーの **web ページにアクセス**&#x200B;には、次のトークンが追加されています。
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -814,6 +813,6 @@ ht-degree: 29%
 
 >[!TIP]
 >
->興味深い瞬間を必ずテストして、思いどおりにレンダリングされることを確認してください。
+>常に注目のアクションをテストして、意図したとおりにレンダリングできるようにします。
 >
->また、セールス担当者にとって、お客様だけでなく興味深い点も確認してください。
+>また、自分だけでなく、営業担当者にとっても興味深いアクションであることを確認してください。
