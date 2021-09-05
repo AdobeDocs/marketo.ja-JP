@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11387674
-description: Marketoの用語 —Marketoドキュメント — 製品ドキュメントの更新
-title: Marketo用語の更新
-translation-type: tm+mt
+description: Marketo 用語のアップデート - Marketo ドキュメント - 製品ドキュメント
+title: Marketo 用語のアップデート
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '358'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Marketo用語{#updates-to-marketo-terminology}の更新
+# Marketo 用語のアップデート {#updates-to-marketo-terminology}
 
-プラットフォームに変更を加えています。これは、何と呼ばれるかに影響を与えます。 2016年3月現在、新しいMarketoインスタンスがある場合、または2016年7月以降に会社が更新された場合は、現在新しい用語が表示されている可能性があります。
+プラットフォームに変更が加えられているため、一部の用語への影響があります。2016 年 3 月時点で新しい Marketo インスタンスを使用している場合、または 2016 年 7 月以降に会社が更新した場合は、現在新しい用語が表示されている可能性があります。
 
-Marketoのドキュメントには様々な用語が記載されていますが、これらの変更を反映するために、すべての記事がすぐに更新されます。 すべての手順は同じです。
+Marketo のドキュメントには様々な用語が記載されていますが、これらの変更を反映するために、すべての記事が近日中に更新されます。すべての手順は同じです。
 
-何が変わったの？
+何が変わったのでしょうか。
 
-## リードは現在人物{#lead-is-now-person}
+## 「リード」が「人物」に {#lead-is-now-person}
 
-最大の変更点は、個人/人に対するリード/リードの名前変更です。
+最大の変更点は、「リード」が「人物」に名前変更されたことです。
 
 <table> 
  <colgroup> 
@@ -30,8 +29,8 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>古い</strong></td> 
-   <td><strong>新規作成</strong></td> 
+   <td><strong>前</strong></td> 
+   <td><strong>新規</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -46,7 +45,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </tbody> 
 </table>
 
-場合によっては、「Lead」という単語が単に削除されることがあります。
+場合によっては、「Lead」という単語が単に削除されます。
 
 <table> 
  <colgroup> 
@@ -55,8 +54,8 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>古い</strong></td> 
-   <td><strong>新規作成</strong></td> 
+   <td><strong>前</strong></td> 
+   <td><strong>新規</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -71,19 +70,19 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </tbody> 
 </table>
 
-リードと人&#x200B;**は同じ**&#x200B;です。
+「リード」と「人物」は&#x200B;**同じ**&#x200B;です。
 
 ## トークン {#tokens}
 
-**にleadという単語を含むトークンは、**&#x200B;を変更しません。 ご混乱をおかけして申し訳ございません。ただし、新しい用語に一致するようにすべてのトークンを変更すると、現在使用中のトークンが大量に破棄されます。 そのため、「`{{lead.First Name}}`」などのトークンは引き続き表示されます。 個人固有のトークンはありません。
+Lead という単語を含むトークンは、変更&#x200B;**されません**。混乱が起きたことをお詫び申し上げます。ただし、すべてのトークンを新しい用語に合わせて変更すれば、現在使用中のトークンが大量に機能しなくなってしまうでしょう。したがって、「`{{lead.First Name}}`」などのトークンはそのままになります。人物固有のトークンはありません。
 
 >[!NOTE]
 >
->*は*「人物ノート」と呼ばれるトークンですが、そのトークンは常に存在していました。 この変数は、CRMの説明フィールドに使用されます（すべての場合）。
+>「人物のメモ」と呼ばれるトークンが&#x200B;*あります*&#x200B;が、そのトークンは以前から存在します。これは、通常、CRM の説明フィールドに使用されますが、使用されるのはまれです。
 
 ## フィールド管理 {#field-management}
 
-「Lead」という用語を含むフィールドは、「Person」で置き換えられたか、「Lead」という語がドロップされました。 ただし、「Lead Owner（リードの所有者）」フィールドは例外です。 現在は「Sales Owner（販売所有者）」と呼ばれています。
+フィールドに「リード」という用語が含まれていた場合、これは「人物」に置き換えられたか、「リード」という単語が削除されました。ただし、「リード所有者」フィールドは例外です。現在は「営業所有者」と呼ばれています。
 
 <table> 
  <colgroup> 
@@ -92,8 +91,8 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>古い</strong></td> 
-   <td><strong>新規作成</strong></td> 
+   <td><strong>前</strong></td> 
+   <td><strong>新規</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -112,7 +111,7 @@ Marketoのドキュメントには様々な用語が記載されていますが�
 >
 >影響を受けるフィールド名の完全なリストについては、[サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)を参照してください。
 
-## リアルタイムパーソナライゼーション(RTP)は、ウェブパーソナライゼーションに変更されました{#real-time-personalization-rtp-is-now-web-personalization}
+## リアルタイムパーソナライゼーション（RTP）が Web パーソナライゼーションに {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -121,8 +120,8 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>古い</strong></td> 
-   <td><strong>新規作成</strong></td> 
+   <td><strong>前</strong></td> 
+   <td><strong>新規</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -137,16 +136,16 @@ Marketoのドキュメントには様々な用語が記載されていますが�
  </tbody> 
 </table>
 
-名前の変更に加え、4つの個別のアプリで構成されるようになりました。
+名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| ** [ウェブパーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
+| ** [Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
 |---|---|
-| ** [アカウントベースのWebマーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
-| ** [パーソナライズされた再ターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Webパーソナライゼーションタイルを使用してアクセス可能 |
-| ** [予想コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content)** | ホーム画面に独自のタイルを表示 |
+| ** [アカウントベースの Web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Web パーソナライゼーションタイルからアクセス可能 |
+| ** [パーソナライズされた再ターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Web パーソナライゼーションタイルからアクセス可能 |
+| ** [予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content)** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]
 >
 >ホーム画面に表示されるタイルには、購入したモジュールが反映されます。
 
-更新中、ご辛抱ありがとうございました。
+アップデートの間、ご迷惑をおかけしますがご協力お願いいたします。
