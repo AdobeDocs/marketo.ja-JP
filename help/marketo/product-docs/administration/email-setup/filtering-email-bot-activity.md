@@ -1,26 +1,26 @@
 ---
-description: 電子メールボットアクティビティのフィルタ —Marketoドキュメント — 製品ドキュメント
-title: 電子メールボットアクティビティのフィルタ
+description: メールボットアクティビティのフィルター - Marketo ドキュメント - 製品ドキュメント
+title: メールボットアクティビティのフィルター
 source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールボットアクティビティのフィルタ{#filtering-email-bot-activity}
+# メールボットアクティビティのフィルター {#filtering-email-bot-activity}
 
-電子メールボットアクティビティが電子メールの開封回数を誤って水増しし、データをクリックする場合があります。 それの修正方法を次に示します。
+メールボットアクティビティによって、メールの開封数とクリック数のデータが誤って水増しされる場合があります。これは次のように修正できます。
 
 >[!NOTE]
 >
->[IAB/ABC International Spiders and Botsリスト](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/)を使用すると、IPまたはリストエージェントが一致するすべての開いた/クリックアクティビティは、ボットアクティビティとして識別され、Marketoにログインされません。
+>[IAB/ABC International Spiders and Bots List](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/) を使用すると、このリストに記載されている IP またはユーザーエージェントを含むすべての開封／クリックアクティビティは、ボットアクティビティとして識別され、Marketo にはログインされません。
 
-1. 「**管理者**」をクリックします。
+1. 「**管理**」をクリックします。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 「**電子メール**」をクリックします。
+1. 「**メール**」をクリックします。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
@@ -28,12 +28,12 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 「**電子メールボットアクティビティのフィルタを有効にする**」チェックボックスを選択します。
+1. 「**メールボットアクティビティのフィルターを有効にする**」チェックボックスをオンにします。
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->この機能を有効にすると、電子メールの開封とクリックがドロップされ、誤った数値が除外されると表示される場合があります。
+>この機能を有効にすると、不正な数は除外されるので、メールの開封数とクリック数が減少する場合があります。
 
-**オプションの手順**:この機能を無効にするには、チェックボックスの選択を解除します。無効にした場合、「過去90日間のボットアクティビティ」データは&#x200B;**リセットされません**。
+**オプションの手順**：チェックボックスをオフにすればこの機能は無効になります。無効にした場合、「過去 90 日間のボットアクティビティ」データはリセット&#x200B;**されません**。
