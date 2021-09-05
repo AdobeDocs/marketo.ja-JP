@@ -1,17 +1,16 @@
 ---
 unique-page-id: 557074
-description: コアMarketoコンセプト —Marketoドキュメント — 製品ドキュメント
-title: コアMarketoコンセプト
-translation-type: tm+mt
+description: Marketo の中心概念 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo の中心概念
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# コアMarketoコンセプト{#core-marketo-concepts}
+# Marketo の中心概念 {#core-marketo-concepts}
 
-Marketoを学ぶための重要な要素がいくつかあります。 これを学ぶと、Marketoを習得する途中で終わる。
-** ![スマートキャンペーン](assets/seo-01.png)スマートキャンペーン** [スマートリストで使用されるスマートキャンペーンを使用すると、ほとんどすべての操作を自動化できます。](https://docs.marketo.com/display/DOCS/Smart+Campaigns)     ** ![スマートリストと静的リストスマートリストと静的リスト**](assets/office-35.png) [スマートリストと静的リストデータベースに一連の人を定義し、特定の動作をリッスンします。](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Static+Lists)     **  ![](assets/office-02.png)ProgramsPrograms** [プログラムはフォルダと同じです。あなたがすることのほとんどがプログラムの中に入る。](https://docs.marketo.com/display/DOCS/Programs)     **  ![Marketing ](assets/office-10.png) [Calendarマーケティングカレンダー**マーケティングカレンダーは、マーケティングチームがカレンダー表示内でアクティビティを調整するのに役立ちます。](https://docs.marketo.com/display/DOCS/Marketing+Calendar)     ** ![モバイルア](assets/mobile-apps.png)プリモバイルアプリ** [モバイルアプリはMarketoを外出先で利用！](core-marketo-concepts/mobile-apps.md)     **  ![](assets/party-11.png)MiscellaneousMiscellaneous**お知らせするべき [と思ったその他の情報](https://docs.marketo.com/display/DOCS/Miscellaneous)
+Marketo の学習には、いくつかの重要な要素があります。これらを学べば、Marketo は半分マスターできています。
+** ![スマートキャンペーン](assets/seo-01.png)スマートキャンペーン** [スマートキャンペーン スマートリストと使用すると、ほぼすべてのアクションフローを自動化できます。](https://docs.marketo.com/display/DOCS/Smart+Campaigns)     ** ![スマートリストと静的リスト](assets/office-35.png)スマートリストと静的リスト**[スマートリストと静的リスト データベース内の一連のリードを定義し、特定の動作をリッスンします。](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Static+Lists)     ** ![プログラム](assets/office-02.png)プログラム** [プログラム これらはフォルダーに似ています。ほとんどすべてのアクションはプログラム内でおこなわれます。](https://docs.marketo.com/display/DOCS/Programs)     ** ![マーケティングカレンダー](assets/office-10.png)マーケティングカレンダー** [マーケティングカレンダー マーケティングチームがカレンダービュー内でアクティビティを調整するのに役立ちます。](https://docs.marketo.com/display/DOCS/Marketing+Calendar)     ** ![モバイルアプリ](assets/mobile-apps.png)モバイルアプリ** [モバイルアプリ Marketo を外出先で利用できます。](core-marketo-concepts/mobile-apps.md)     ** ![その他](assets/party-11.png)その他** [その他 知っておいていただきたいこと。](https://docs.marketo.com/display/DOCS/Miscellaneous)
