@@ -1,116 +1,115 @@
 ---
 unique-page-id: 18317669
-description: Salesforce同期設定 —Marketoドキュメント — 製品ドキュメント
+description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '438'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # Salesforce 同期設定 {#salesforce-sync-settings}
 
-## API {#logging-email-activity-to-salesforce-via-api}を介してSalesforceに電子メールアクティビティをログ記録する
+## メールアクティビティのログを API 経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-api}
 
-この機能を使用するには、SalesforceのEnterprise/Unlimitedエディション、またはWeb Services API経由で統合を購入している場合はProfessionalエディションを使用する必要があります。
+この機能を使用するには、Salesforce の Enterprise/Unlimited エディション、または Web Services API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
 
 >[!PREREQUISITES]
 >
->SalesforceとSales Engageは関連付けられている必要があります。
+>Salesforce と Sales Engage を接続する必要があります。
 
-1. 「Sales Engage」で、右上のギアアイコンをクリックし、「**設定**」を選択します。
+1. Sales Engage で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
+1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「**設定を同期**」タブをクリックします。
+1. 「**同期設定**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「Log Email」アクティビティの横にある矢印をクリックしてSalesforceに送信します。
+1. 「メールアクティビティのログを Salesforce に記録」の横の矢印をクリックします。
 
    ![](assets/four-1.png)
 
-1. 「**Salesforce API**」タブをクリックします。 このカードでは、Salesforceに情報を記録する環境設定を設定できます。 終了したら「**保存**」をクリックします。
+1. 「**Salesforce API**」タブをクリックします。このカードでは、Salesforce に情報を記録する際の環境設定を設定できます。終了したら「**保存**」をクリックします。
 
    ![](assets/five.png)
 
-## 電子メールを使用したSalesforceへの電子メールアクティビティのSalesforceへのログ(BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## メールアクティビティのログを Salesforce にメール送信（BCC）して Salesforce に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-「Email to Salesforce (BCC)」をアクティブにすると、販売用電子メールのBCCが送信され、電子メールは商談、リード、連絡先に関するアクティビティとして記録されます。
+「Salesforce にメールを送信（BCC）」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、連絡先に関するアクティビティとして記録されます。
 
 >[!PREREQUISITES]
 >
->SalesforceとSales Engageは関連付けられている必要があります。
+>Salesforce と Sales Engage を接続する必要があります。
 
-**電子メール(BCC)を使用してSalesforceに電子メールをログに記録するには**
+**メール（BCC）を使用して Salesforce にメールを記録するには**
 
-1. 「Sales Engage」で、右上のギアアイコンをクリックし、「**設定**」を選択します。
+1. Sales Engage で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
+1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「**設定を同期**」タブをクリックします。
+1. 「**同期設定**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「**Salesforceへの電子メール(BCC)**」タブをクリックし、「****&#x200B;アクティブ化」をクリックします。
+1. 「**Salesforce にメールを送信（BCC）**」タブをクリックし、「**有効化**」をクリックします。
 
    ![](assets/six-2.png)
 
-何らかの理由でSalesforce宛ての電子メールアドレスが引き込まれない場合は、次の手順に従ってSalesforceアカウントのBCC機能を有効にします。
+何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、次の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
 
-1. Salesforceインスタンスにログインします。
-1. 右上隅にユーザー名が表示されている場合は、ドロップダウンバーを選択します。
+1. Salesforce インスタンスにログインします。
+1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
 1. 「**マイ設定**」を選択します。
-1. 「**電子メール**」を選択します。
-1. **Salesforceへの電子メール**&#x200B;を選択します。
-1. このページには、「Salesforceアドレスへの電子メール送信」というフィールドが表示されます。 横に何も入力されていない場合は、「My Acceptable Email Addresses」まで下にスクロールします。
-1. BCCに含める電子メールアドレスを入力します。
+1. 「**メール**」を選択します。
+1. 「**メールを Salesforce に送信**」を選択します。
+1. このページに、「Salesforce アドレス宛てにメールを送信」というラベルの付いたフィールドが表示されます。横に何も入力されていない場合は、「アクセス可能なメールアドレス」までスクロールします。
+1. BCC を送信するメールアドレスを入力します。
 1. 「**変更を保存**」をクリックします。
 
-**設定にSalesforceへの電子メールが見つかりません**
+**マイ設定で Salesforce へのメール送信が見つからない**
 
-「設定」の下に「Salesforce宛ての電子メール」が表示されない場合は、管理者がこの機能を有効にしていない可能性があります。 これは、Salesforceを初めて使用するチームや、Salesforceが提供するBCCアドレスをチームが使用したことがない場合に発生する可能性があります。
+「設定」に「Salesforce へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。これは、チームが Salesforce を初めて使用した場合や、チームが Salesforce が提供する BCC アドレスを使用したことがない場合に発生する可能性があります。
 
 >[!NOTE]
 >
->この設定を行うには、管理者権限が必要です。
+>これを設定するには、管理者権限が必要です。
 
-1. 「**セットアップ**」をクリックします。
-1. 「**電子メール管理**」をクリックします。
-1. **Salesforce**&#x200B;に電子メールを送信をクリックします。
+1. 「**設定**」をクリックします。
+1. 「**メール管理**」をクリックします。
+1. 「**Salesforce にメール送信**」をクリックします。
 1. 「**編集**」をクリックします。
-1. 「アクティブ」の横のチェックボックスをオンにします。
+1. 「アクティブ」の横のボックスをオンにします。
 1. 「**保存**」をクリックします。
 
-## セールスエンゲージタスク/Salesforce タスクのリマインダを同期 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## セールスエンゲージタスク／Salesforce タスクのリマインダーを同期 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
 1. 右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
-1. [マイアカウント] （管理者の場合は[管理設定]）で、[**Salesforce**]をクリックします。
+1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「**設定を同期**」タブをクリックします。
+1. 「**同期設定**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「Sync Sales Sales Sengageタスク/リマインダーをSalesforceタスクに同期」の横の矢印をクリックします。
+1. 「セールスエンゲージタスク／Salesforce タスクのリマインダーを同期」の横の矢印をクリックします。
 
    ![](assets/seven-2.png)
 
-1. 目的のオプションを選択します(「Salesforceタスクと同期しない」がデフォルトで選択されます)。
+1. 目的のオプションを選択します（「Salesforce タスクに同期しない」がデフォルトで選択されています）。
 
    ![](assets/eight.png)
