@@ -1,28 +1,28 @@
 ---
 unique-page-id: 42762511
-description: Adobe Experience Cloudオーディエンス共有のセットアップ — Marketoドキュメント — 製品ドキュメント
-title: Adobe Experience Cloudオーディエンス共有のセットアップ
+description: Adobe Experience Cloud オーディエンス共有のセットアップ - Marketo ドキュメント - 製品ドキュメント
+title: Adobe Experience Cloud オーディエンス共有のセットアップ
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloudオーディエンス共有のセットアップ{#set-up-adobe-experience-cloud-audience-sharing}
+# Adobe Experience Cloud オーディエンス共有のセットアップ {#set-up-adobe-experience-cloud-audience-sharing}
 
-オーディエンスデータをAdobeアプリケーションと共有するには、まずMarketoにAdobeのIMS Org資格情報を入力する必要があります。 どうやって。
+オーディエンスデータを Adobe アプリケーションと共有するには、まず Marketo に Adobe の IMS 組織資格情報を入力する必要があります。手順は以下のとおりです。
 
 >[!NOTE]
 >
->MarketoインスタンスのHIPAA対応のデプロイメントでは、この統合を使用できません。
+>Marketo インスタンスの HIPAA 対応デプロイメントでは、この統合を使用できません。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketo で、「**管理**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. 「統合」で、「Adobe組織マッピング&#x200B;**」をクリックします。**
+1. 統合で、「**Adobe 組織マッピング**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. AdobeのIMS Org IDを入力し（[ここ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)を参照）、「**OK**」をクリックします。
+1. Adobe の IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)を参照して特定）、「**OK**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >セキュリティ上の理由から、マッピング先のAdobe組織の組織管理者である必要があります。 そうでない場合、アクションは失敗します。
+   >セキュリティ上の理由から、マッピング先の Adobe 組織の組織管理者である必要があります。さもないと、アクションは失敗します。
 
-1. _まだログインしていない_&#x200B;場合は、新しいタブ/ウィンドウにポップアップが表示されます。 Adobe組織にログインします（このアクションは組織アクセスを検証します）。
+1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。Adobe 組織にログインします（このアクションで組織アクセスが検証されます）。
 
-それで終わりだ！ Adobe Experience Cloudからオーディエンス](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)を[共有するか、[同期することができるようになりました。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+これで完了です。Adobe Experience Cloud から[オーディエンスデータを共有する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)または[同期する](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)ことができるようになります。
