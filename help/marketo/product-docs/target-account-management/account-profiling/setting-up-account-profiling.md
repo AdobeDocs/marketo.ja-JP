@@ -22,10 +22,8 @@ ht-degree: 100%
 >* 会社
 >* 電子メール
 >* 国
-
 >
->
-フィールドを再表示する方法は、[こちら](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)を参照してください。
+>フィールドを再表示する方法は、[こちら](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)を参照してください。
 
 1. My Marketo で、**ターゲットアカウント管理**&#x200B;を開きます。
 
