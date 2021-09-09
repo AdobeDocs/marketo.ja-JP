@@ -3,24 +3,26 @@ description: システム管理者の設定 — Marketoドキュメント — �
 title: システム管理者の設定
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 0%
 
 ---
 
 # システム管理者の設定 {#set-up-system-admin}
 
+## 製品プロファイルの作成 {#create-a-product-profile}
+
 テキスト
 
-Marketoシステム管理者として( an?) Adobe組織の場合、設定を完了するために必要な手順がいくつかあります。
+Adobe組織にMarketoシステム管理者として追加されたら、設定を完了するためにいくつかの手順を実行する必要があります。
 
-1. 受信した電子メール（受信方法）で、「**開始**」をクリックします。
+1. Adobe組織が確立されると、指定されたシステム管理者にお知らせメールが届きます。 この電子メールで、「**使ってみる**」をクリックします。
 
 PICC
 
-1. AdobeID?
+1. AdobeID? 既存のドキュメントへのリンク — 設定が完了した場合、「手順に進みますか？」
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. テキスト.
+1. （購読を選択 — 各サブで次の手順を実行する必要があります）
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(ユーザーを追加する製品プロファイルを複数設定した場合、そのユーザーはMarketoに同じアクセス権を持ちます)。
+
 ## 製品管理者の追加 {#add-a-product-admin}
 
 1. 上記の手順に従った後、「**管理者**」タブをクリックします。
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. 追加するユーザーを見つけます。 姓と名はオプションです。
+1. 追加するユーザーを見つけます。 姓と名はオプションです。 事前入力を気にしない
+
+PICC
