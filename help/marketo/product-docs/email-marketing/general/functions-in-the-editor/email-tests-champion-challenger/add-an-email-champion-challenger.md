@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359553
-description: 電子メ追加ールチャンピオン/対抗製品 —Marketoドキュメント — 製品ドキュメント
-title: Eメール追加チャンピオン/対抗者
+description: メールチャンピオン／挑戦者の追加 — Marketo ドキュメント — 製品ドキュメント
+title: メールチャンピオン／挑戦者の追加
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Eメール追加チャンピオン/チャレンジャー{#add-an-email-champion-challenger}
+# メールチャンピオン／挑戦者の追加 {#add-an-email-champion-challenger}
 
-頻繁に使用する電子メールをテストして、電子メールが機能しているかどうかを確認することをお勧めします。 1つの方法は、電子メールの効果を他のバージョン（対抗製品）と比較することです。 チャンピオン/チャレンジャーテストでは、電子メール全体、件名、または差出人の住所をテストできます。
+頻繁に使用するメールをテストして、メールが機能していることを確認することをお勧めします。ひとつの方法は、メールの有効性を他のバージョンや挑戦者と比較する方法です。チャンピオン／挑戦者テストでは、メール全体、件名または送信元アドレスをテストできます。
 
-テスト中の既存の電子メールはチャンピオンと見なされます。 テスト内で作成したバリアントは、対抗と見なされます。 チャンピオンコンテンツまたは対抗コンテンツを受け取る人の割合を決定します。 複数の挑戦者を定義した場合、それらは対抗グループに均等に配分されます。
+テスト中の既存のメールは、チャンピオンと見なされます。テスト内で作成するバリエーションは、すべて挑戦者と見なされます。チャンピオンコンテンツまたは挑戦者コンテンツを受け取るユーザーの割合を決定します。複数の挑戦者を定義した場合、それらは挑戦者グループに均等に配分されます。
 
-開始方法を次に示します。
+次に開始方法を示します。
 
 >[!PREREQUISITES]
 >
 >* [プログラムの作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [電子メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 
 >[!CAUTION]
 >
->Champion/Chalenger電子メールは、トリガーキャンペーンとエンゲージメントプログラムストリームでのみ機能します。 バッチメーリングの場合は、電子メールプログラムの[A/Bテスト機能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を使用します。
+>チャンピオン／挑戦者メールは、トリガーキャンペーンとエンゲージメントプログラムストリームでのみ機能します。バッチメールの場合は、メールプログラムの [A/B テスト機能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を使用します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **マーケティング活動**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 電子メールを検索して選択します。
+1. メールを検索して選択します。
 
    ![](assets/champion1.jpg)
 
    >[!NOTE]
    >
-   >1回限りのメールの送信の場合は、[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)の詳細をご覧ください。
+   >1 回限りのメール配信について詳しくは、[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を参照してください。
 
-1. 「**電子メールアクション**」で、「**新しいテスト**」をクリックします。
+1. 「**メールアクション**」で、「**新規テスト**」をクリックします。
 
    ![](assets/chmapion2.jpg)
 
-1. 新しいウィンドウが開き、異なるテストタイプオプションが表示されます。 各関連記事については、以下の関連記事を参照してください。
+1. 新しいウィンドウが開き、異なるテストタイプのオプションが表示されます。それぞれについて詳しくは、次の関連記事を参照してください。
 
    >[!MORELIKETHIS]
    >
-   >* [チャンピオン/チャレンジャー：電子メール全体](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [チャンピオン/チャレンジャー：件名行](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [チャンピオン/チャレンジャー：送信元アドレス](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [チャンピオン／挑戦者：メール全体](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [チャンピオン／挑戦者：件名](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [チャンピオン／挑戦者：送信元アドレス](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
 
