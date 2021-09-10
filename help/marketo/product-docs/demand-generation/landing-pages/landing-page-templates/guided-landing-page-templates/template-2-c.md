@@ -1,32 +1,31 @@
 ---
 unique-page-id: 7516475
-description: テンプレート2-C -Marketoドキュメント — 製品ドキュメント
-title: テンプレート2 ～ C
+description: テンプレート 2-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 2-C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# テンプレート2-C {#template-c}
+# テンプレート 2-C {#template-c}
 
-[テンプレート2 ～ Cをダウンロード](https://docs.marketo.com/download/attachments/7516475/template2-c.html?version=1&amp;modificationdate=1433229240000&amp;api=v2)
+[テンプレート 2-C をダウンロード](https://docs.marketo.com/download/attachments/7516475/template2-c.html?version=1&amp;modificationdate=1433229240000&amp;api=v2)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
 このテンプレートには、次の内容が含まれます。
 
-* ロゴとボタンを含むヘッダー（オプション）
-* 主なセクション
+* ロゴおよびボタンを含むヘッダー（オプション）
+* プライマリセクション
 
-   * ヒーローの背景画像、ヘッダー、タグライン、バレットリスト、ビデオが含まれます。
+   * ヒーローの背景画像、ヘッダー、タグライン、箇条書きリストおよびビデオが含まれます。
 
-* テキストとフォームを含む1つのボディセクション（オプション）
+* テキストおよびフォームを含む 1 つの本文セクション（オプション）
 * フッター（オプション）
 
-**以下をクリックして、このテンプレートをダウンロードしてください。**
+**このテンプレートをダウンロードするには、次をクリックします。**
 
 [Template2-C.html](https://docs.marketo.com/download/attachments/7516475/template2-c.html?version=1&amp;modificationdate=1433229240000&amp;api=v2)
