@@ -1,32 +1,31 @@
 ---
 unique-page-id: 9437559
-description: テンプレート11-B -Marketoドキュメント — 製品ドキュメント
-title: テンプレート11-B
+description: テンプレート 11-B — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 11-B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# テンプレート11-B {#template-b}
+# テンプレート 11-B {#template-b}
 
-[テンプレート11-Bのダウンロード](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
+[テンプレート 11-B をダウンロード](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
 このテンプレートには、次の内容が含まれます。
 
 * ヘッダー（オプション）
-* 主なセクション
+* プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよびヒーロー画像を含む
+   * ヒーロータイトル、ヒーローテキストおよびヒーロー画像が含まれます
 
-* 4つのボディセクション（オプション）
+* 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**以下をクリックして、このテンプレートをダウンロードしてください。**
+**このテンプレートをダウンロードするには、次をクリックします。**
 
 [Template11-B.html](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
