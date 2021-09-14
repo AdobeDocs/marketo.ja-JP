@@ -3,10 +3,10 @@ unique-page-id: 2359659
 description: ストリームにコンテンツを追加する - Marketo ドキュメント - 製品ドキュメント
 title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '310'
-ht-degree: 100%
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 54%
 
 ---
 
@@ -14,105 +14,42 @@ ht-degree: 100%
 
 エンゲージメントプログラムを作成したら、ストリームにコンテンツを追加する必要があります。ストリームにメールまたはプログラムを追加できます。
 
-## ストリームにメールを追加する {#add-an-email-to-a-stream}
-
 1. 「**マーケティングアクティビティ**」に移動します。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/add-content-to-a-stream-1.png)
 
 1. エンゲージメントプログラムを選択し、「**ストリーム**」タブに移動します。
 
-   ![](assets/streamstab.jpg)
+   ![](assets/add-content-to-a-stream-2.png)
 
-   最初のメールを追加するには、3 通りの方法があります。
+   コンテンツは、次の2つの方法で追加できます。
 
 **「コンテンツの追加」ボタン**
 
 1. 「**コンテンツの追加**」ボタンをクリックします。
 
-   ![](assets/addcontentbutton.jpg)
+   ![](assets/add-content-to-a-stream-3.png)
 
-1. 「**タイプ**」は「**メール**」のままにして、追加したいメールを選択します。
+1. **Eメール** _または_ **プログラム**&#x200B;を選択し、追加する電子メールまたはプログラム/スマートキャンペーンを選択します。
 
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
    >このエンゲージメントプログラムのローカルのメールは、上に並べ替えられます。
 
-**ストリームの「+」アイコン**
+**+ アイコン**
 
-1. ストリームの「**+**」アイコンをクリックします。「**タイプ**」は「**メール**」のままにして、追加したいメールを選択します。
+1. **+**&#x200B;アイコンをクリックし、「**Eメール** _」または「_ **プログラム**」を選択して、追加する電子メールまたはプログラム/スマートキャンペーンを選択します。
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**ドラッグ＆ドロップ**
-
-1. メールをツリーからストリームまでドラッグします。
-
-   ![](assets/dragstreamcontent.jpg)
-
-## ストリームにプログラムを追加する {#add-a-program-to-a-stream}
-
-1. 「**マーケティングアクティビティ**」に移動します。
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. エンゲージメントプログラムを選択し、「**ストリーム**」タブに移動します。
-
-   ![](assets/streamstab.jpg)
-
-   ストリームにプログラムを追加するには、3 通りの方法があります。
-
-**「コンテンツの追加」ボタン**
-
-1. 「**コンテンツの追加**」ボタンをクリックします。
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. 「**タイプ**」を「プログラム」に変更します。
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. プログラムを選択します。
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. 次に、ユーザーに実行してもらいたいプログラムのスマートキャンペーンを選択します。
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >正しく機能させるには、スマートキャンペーンに「**エンゲージメントプログラムのメンバー**」フィルターが必要です。
+   >スマートキャンペーンが正しく機能するには、**エンゲージメントプログラムのメンバー**&#x200B;フィルターがスマートキャンペーンに含まれている必要があります。
 
-**ストリームの「+」アイコン**
-
-1. ストリームの「**+**」アイコンをクリックして、「**タイプ**」を「プログラム」に変更します。
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. プログラムを選択します。
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. リードを処理するスマートキャンペーンを選択します。
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**ドラッグ＆ドロップ**
-
-1. 目的のプログラムをツリーからストリームまでドラッグ＆ドロップします。
-
-   ![](assets/streamcadence.jpg)
-
-1. リードに適用したいスマートキャンペーンを選択します。
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-完成です。これでプログラムのストリームにコンテンツを追加するさまざまな方法がわかりましたね。ナーチャリングに必要なコンテンツを好きなだけ追加しましょう。詳しくは、以下の関連記事を参照してください。
+完成です。これで、コンテンツをプログラムストリームに追加する方法がわかります。 必要な分だけ養育を加えなさい。 詳しくは、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >
->[エンゲージメントプログラムストリームへのプログラムの追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)>
->
+>[エンゲージメントプログラムストリームへのプログラムの追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
