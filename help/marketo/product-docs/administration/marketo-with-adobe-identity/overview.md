@@ -3,9 +3,9 @@ description: 概要 — Marketoドキュメント — 製品ドキュメント
 title: 概要
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Sales ConnectのACには製品カードがありますが、ACを使用してユ
 
 **引き続きMarketoの「管理者」セクションに移動して、アカウントに変更を加えますか？**
 
-いいえ。[account.adobe.com](account.adobe.com)に移動する必要があります。
+いいえ。[account.adobe.com](https://account.adobe.com)に移動する必要があります。
 
 **これはMarketoのユニバーサルIDとどのように連携しますか。**
 
