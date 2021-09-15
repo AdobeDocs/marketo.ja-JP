@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437840
-description: テンプレート16C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート16C
+description: テンプレート 16-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 16-C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
-# テンプレート16C {#template-16c}
+# テンプレート 16-C {#template-c}
 
-[テンプレート16Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+[テンプレート 16-C をダウンロード](https://docs.marketo.com/download/attachments/9437840/template-16c.html?version=1&amp;modificationdate=1438980731000&amp;api=v2)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+[Template16-C.html](https://docs.marketo.com/download/attachments/9437840/template-16c.html?version=1&amp;modificationdate=1438980731000&amp;api=v2)

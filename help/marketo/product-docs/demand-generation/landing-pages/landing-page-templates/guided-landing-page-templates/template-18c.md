@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438212
-description: テンプレート18C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート18C
+description: テンプレート 18-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 18-C
 exl-id: 0f70ec63-0621-42d8-8229-4b32de27ce8b
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 92%
 
 ---
 
-# テンプレート18C {#template-18c}
+# テンプレート 18-C {#template-c}
 
-[テンプレート18Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+[テンプレート 18-C をダウンロード](https://docs.marketo.com/download/attachments/9438212/template-18c.html?version=1&amp;modificationdate=1439843246000&amp;api=v2)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+[Template18-C.html](https://docs.marketo.com/download/attachments/9438212/template-18c.html?version=1&amp;modificationdate=1439843246000&amp;api=v2)

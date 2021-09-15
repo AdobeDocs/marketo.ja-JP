@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783920
-description: テンプレート5C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート5C
+description: テンプレート 5-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 5-C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 38%
+source-wordcount: '68'
+ht-degree: 86%
 
 ---
 
-# テンプレート5C {#template-5c}
+# テンプレート 5-C {#template-c}
 
-[テンプレート5Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+[テンプレート 5-C をダウンロード](https://docs.marketo.com/download/attachments/8783920/template-5c.html?version=1&amp;modificationdate=1437692983000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -28,4 +28,4 @@ ht-degree: 38%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+[Template5-C.html](https://docs.marketo.com/download/attachments/8783920/template-5c.html?version=1&amp;modificationdate=1437692983000&amp;api=v2)

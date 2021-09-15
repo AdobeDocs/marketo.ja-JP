@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437819
-description: テンプレート15B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート15B
+description: テンプレート 15-B — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 15-B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 91%
 
 ---
 
-# テンプレート15B {#template-15b}
+# テンプレート 15-B {#template-b}
 
-[テンプレート15Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[テンプレート 15-B をダウンロード](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)

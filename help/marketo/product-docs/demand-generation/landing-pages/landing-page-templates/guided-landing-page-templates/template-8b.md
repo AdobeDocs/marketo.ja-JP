@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783963
-description: テンプレート8B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート8B
+description: テンプレート 8-B — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 8-B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 39%
+source-wordcount: '70'
+ht-degree: 85%
 
 ---
 
-# テンプレート8B {#template-8b}
+# テンプレート 8-B {#template-b}
 
-[テンプレート8Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+[テンプレート 8-B をダウンロード](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -28,4 +28,4 @@ ht-degree: 39%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+[Template8-B.html](https://docs.marketo.com/download/attachments/8783963/template-8b.html?version=1&amp;modificationdate=1482174993000&amp;api=v2)

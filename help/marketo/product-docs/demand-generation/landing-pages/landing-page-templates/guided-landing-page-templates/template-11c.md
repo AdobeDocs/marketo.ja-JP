@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437562
-description: テンプレート11C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート11C
+description: テンプレート 11-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 11-C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 34%
+source-wordcount: '70'
+ht-degree: 81%
 
 ---
 
-# テンプレート11C {#template-11c}
+# テンプレート 11-C {#template-c}
 
-[テンプレート11Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[テンプレート 11-C をダウンロード](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -25,4 +25,4 @@ ht-degree: 34%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)

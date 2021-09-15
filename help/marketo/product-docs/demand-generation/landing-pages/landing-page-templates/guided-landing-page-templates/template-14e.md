@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437813
-description: テンプレート14E - Marketoドキュメント — 製品ドキュメント
-title: テンプレート14E
+description: テンプレート 14-E — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 14-E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 89%
 
 ---
 
-# テンプレート14E {#template-14e}
+# テンプレート 14-E {#template-e}
 
-[テンプレート14Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+[テンプレート 14-E をダウンロード](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+[Template14-E.html](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)

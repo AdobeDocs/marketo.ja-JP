@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783960
-description: テンプレート8A - Marketoドキュメント — 製品ドキュメント
-title: テンプレート8A
+description: テンプレート 8-A — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 8-A
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 89%
 
 ---
 
-# テンプレート8A {#template-8a}
+# テンプレート 8-A {#template-a}
 
-[テンプレート8Aのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+[テンプレート 8-A をダウンロード](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
+[Template8-A.html](https://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)

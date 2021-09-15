@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437822
-description: テンプレート15C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート15C
+description: テンプレート 15-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 15-C
 exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 100%
 
 ---
 
-# テンプレート15C {#template-15c}
+# テンプレート 15-C {#template-c}
 
-[テンプレート15Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+[テンプレート 15-C をダウンロード](https://docs.marketo.com/download/attachments/9437822/template-15c.html?version=1&amp;modificationdate=1438980471000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[テンプレート15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+[Template15-C.html](https://docs.marketo.com/download/attachments/9437822/template-15c.html?version=1&amp;modificationdate=1438980471000&amp;api=v2)

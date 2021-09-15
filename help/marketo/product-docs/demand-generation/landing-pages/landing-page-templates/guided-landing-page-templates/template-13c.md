@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437792
-description: テンプレート13C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート13C
+description: テンプレート 13-C — Marketo ドキュメント — 製品ドキュメント
+title: テンプレート 13-C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 91%
 
 ---
 
-# テンプレート13C {#template-13c}
+# テンプレート 13-C {#template-c}
 
-[テンプレート13Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[テンプレート 13-C をダウンロード](https://docs.marketo.com/download/attachments/9437792/template-13c.html?version=1&amp;modificationdate=1438980021000&amp;api=v2)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[Template13-C.html](https://docs.marketo.com/download/attachments/9437792/template-13c.html?version=1&amp;modificationdate=1438980021000&amp;api=v2)
