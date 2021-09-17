@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8090'
 ht-degree: 26%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 26%
          + [ON24をLaunchPointサービスとして追加](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [LaunchPointサービスとしてのReadyTalkの追加](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [ポータルへのシングルサインオンの追加](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [SlackをLaunchPointサービスとして追加する](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [WebExをLaunchPointサービスとして追加する](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [facebook as a LaunchPoint Serviceによるワークスペースの追加](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [LaunchPoint サービスとしてのズームの追加](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -619,6 +618,10 @@ ht-degree: 26%
          + [GoogleカスタマーマッチをLaunchPointサービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + ダイナミックチャット{#dynamic-chat}
+         + [ダイナミックチャットの概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [ダイアログ](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [構成](product-docs/demand-generation/dynamic-chat/configuration.md)
       + イベント {#events}
          + イベント{#understanding-events}について
             + [イベント・プログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
