@@ -3,7 +3,7 @@ description: ダイアログ — Marketoドキュメント — 製品ドキュ�
 title: ダイアログ
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ ANONのリードをキャプチャする方法
 
 情報キャプチャ：は、情報を収集する場合に使用します。 選択できるフィールドは、「電子メールアドレス」、「電話番号」および「テキスト」（訪問者が独自のメッセージを書き込めるようにする）の3つです。
 
-予定スケジューラ：訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。 カレンダーの可用性は、](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)行の次のエージェント[を反映します。
+予定スケジューラ：訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。 カレンダーの可用性は、](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)行の次のエージェント[を反映します。
 
 目標：これは、訪問者に表示されない唯一のカードです。 特定のチャット内で目標を達成した時点を決定する必要があります(例：訪問者のeメールを収集することが目標の場合は、ストリームの情報キャプチャの後に目標カードを配置します)。
 
