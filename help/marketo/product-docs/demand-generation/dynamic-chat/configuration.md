@@ -3,9 +3,9 @@ description: 設定 — Marketoドキュメント — 製品ドキュメント
 title: 構成
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ PICC
 
 **エージェントの設定**
 
-エージェントの設定で、chatbotに固有の名前を割り当てます（上部に表示されます）。 また、応答遅延（秒）を決定し、チャットのアバターを変更することもできます。
+エージェントの設定で、チャットボックスにラベルを追加できます(例：「Adobeボット」)が表示されます。 また、応答遅延（秒）を決定し、チャットのアバターを変更することもできます。
 
 設定名のPICC
 

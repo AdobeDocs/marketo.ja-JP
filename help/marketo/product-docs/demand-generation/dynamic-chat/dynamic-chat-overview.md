@@ -3,10 +3,10 @@ description: Dynamic Chatの概要 — Marketoドキュメント — 製品ド�
 title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '323'
+ht-degree: 0%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 1%
 
 導入テキスト
 
+>[!NOTE]
+>
+>Dynamic Chatは展開中で、すべての購読はDATEでアクセスできます。
+
 ## ダイナミックチャットの設定 {#access-dynamic-chat}
 
-テキスト
+初期設定の手順は次のとおりです。
 
 1. マイMarketoで、**ダイナミックチャット**&#x200B;タイルをクリックします。
 
@@ -24,7 +28,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Marketo管理者がまだタイルをオンにしていない場合は、[こちら](https://experience.adobe.com/dynamic-chat/)からダイナミックチャットにアクセスすることもできます。
+   >見えなければ…Marketoの管理者に問い合わせてください)。
 
 1. 以前にAdobe IDでアプリにアクセスしたことがある場合は、Dynamic Chatに直接アクセスできます。 そうでない場合は、[Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)を設定します。
 
@@ -32,19 +36,19 @@ ht-degree: 1%
 
 1. Marketoインスタンスに接続するには、「**統合**」を選択します。
 
-PICC
+   PICC
 
 1. ?INSERT TEXT HERE？をクリックします。
 
-PICC
+   PICC
 
->[!NOTE]
->
->データベースのサイズに応じて、同期が完了するまでに5分から8時間かかる場合があります。 平均同期時間は60分です。
+   >[!NOTE]
+   >
+   >データベースのサイズに応じて、同期が完了するまでに5分から8時間かかる場合があります。 平均同期時間は60分です。
 
 ## 統合 {#integrations}
 
-統合は、Dynamic Chatにアクセスする際に最初にアクセスするタブです。 Marketoサブスクリプションを同期する場所で、データベースデータを利用してサイト/チャットの訪問者を識別できます（[上記の手順3](#access-dynamic-chat)を参照）。
+統合は、Dynamic Chatにアクセスする際に最初にアクセスするタブです。 Marketoサブスクリプションを同期する場所で、Marketoデータベースのデータを利用してサイト/チャットの訪問者を識別できます（[上記の手順3](#access-dynamic-chat)を参照）。
 
 ## ダイアログ {#dialogues}
 
