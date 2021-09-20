@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784005
-description: テンプレート 10-C — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 10-C
+description: テンプレート10C - Marketoドキュメント — 製品ドキュメント
+title: テンプレート10C
 exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 85%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 
-# テンプレート 10-C {#template-c}
+# テンプレート10C {#template-10c}
 
-[テンプレート 10-C をダウンロード](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&amp;modificationdate=1438210917000&amp;api=v2)
+[テンプレート10Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -27,4 +27,4 @@ ht-degree: 85%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template10-C.html](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&amp;modificationdate=1438210917000&amp;api=v2)
+[テンプレート10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)

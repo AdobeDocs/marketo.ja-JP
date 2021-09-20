@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516478
-description: テンプレート 2-D — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 2-D
+description: テンプレート2D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 63%
+source-wordcount: '71'
+ht-degree: 47%
 
 ---
 
-# テンプレート 2-D {#template-d}
+# テンプレート2D {#template-2d}
 
-[テンプレート 2-D をダウンロード](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
+[テンプレート2Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -28,4 +28,4 @@ ht-degree: 63%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template2-D.html](https://docs.marketo.com/download/attachments/7516478/template2-d.html?version=1&amp;modificationdate=1433229358000&amp;api=v2)
+[テンプレート2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

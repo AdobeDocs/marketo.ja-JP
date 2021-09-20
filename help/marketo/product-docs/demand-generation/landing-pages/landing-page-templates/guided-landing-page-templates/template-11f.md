@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437571
-description: テンプレート 11-F — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 11-F
+description: テンプレート11F - Marketoドキュメント — 製品ドキュメント
+title: テンプレート11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 95%
+source-wordcount: '56'
+ht-degree: 42%
 
 ---
 
-# テンプレート 11-F {#template-f}
+# テンプレート11F {#template-11f}
 
-[テンプレート 11-F をダウンロード](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&amp;modificationdate=1438211465000&amp;api=v2)
+[テンプレート11Fのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -28,4 +28,4 @@ ht-degree: 95%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template11-F.html](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&amp;modificationdate=1438211465000&amp;api=v2)
+[テンプレート11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

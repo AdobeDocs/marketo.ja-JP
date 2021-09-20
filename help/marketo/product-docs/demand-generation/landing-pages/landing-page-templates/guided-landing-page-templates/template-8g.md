@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783978
-description: テンプレート8-G - Marketoドキュメント — 製品ドキュメント
-title: テンプレート8-G
+description: テンプレート8G - Marketoドキュメント — 製品ドキュメント
+title: テンプレート8G
 exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 37%
+source-wordcount: '61'
+ht-degree: 40%
 
 ---
 
-# テンプレート8-G {#template-g}
+# テンプレート8G {#template-8g}
 
-[テンプレート8-Gのダウンロード](https://docs.marketo.com/download/attachments/8783978/template-8g.html?version=1&amp;modificationdate=1482175213000&amp;api=v2)
+[テンプレート8Gのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -28,4 +28,4 @@ ht-degree: 37%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template8-G.html](https://docs.marketo.com/download/attachments/8783978/template-8g.html?version=1&amp;modificationdate=1482175213000&amp;api=v2)
+[テンプレート8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)

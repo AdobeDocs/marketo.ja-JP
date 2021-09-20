@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8159325
-description: テンプレート 3-B — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 3-B
+description: テンプレート3B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 63%
+source-wordcount: '62'
+ht-degree: 45%
 
 ---
 
-# テンプレート 3-B {#template-b}
+# テンプレート3B {#template-3b}
 
-[テンプレート 3-B をダウンロード](https://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&amp;modificationdate=1434063541000&amp;api=v2)
+[テンプレート3Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -28,4 +28,4 @@ ht-degree: 63%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template3-B.html](https://docs.marketo.com/download/attachments/8159325/template3-b.html?version=1&amp;modificationdate=1434063541000&amp;api=v2)
+[テンプレート3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)

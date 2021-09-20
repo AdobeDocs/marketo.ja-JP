@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783993
-description: テンプレート 9-E — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 9-E
+description: テンプレート9E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 85%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 
-# テンプレート 9-E {#template-e}
+# テンプレート9E {#template-9e}
 
-[テンプレート 9-E をダウンロード](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&amp;modificationdate=1438210788000&amp;api=v2)
+[テンプレート9Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -27,4 +27,4 @@ ht-degree: 85%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template9-E.html](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&amp;modificationdate=1438210788000&amp;api=v2)
+[テンプレート9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)

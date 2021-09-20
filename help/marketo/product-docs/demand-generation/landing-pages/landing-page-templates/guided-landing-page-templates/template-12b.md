@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437577
-description: テンプレート 12-B — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 12-B
+description: テンプレート12B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート12B
 exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 52%
 
 ---
 
-# テンプレート 12-B {#template-b}
+# テンプレート12B {#template-12b}
 
-[テンプレート 12-B をダウンロード](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[テンプレート12Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template12-B.html](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[テンプレート12B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)

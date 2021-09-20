@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783996
-description: テンプレート 9-F — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 9-F
+description: テンプレート9F - Marketoドキュメント — 製品ドキュメント
+title: テンプレート9F
 exl-id: 4a24d5fa-7e3d-4832-8946-0c61e965fd5a
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 85%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 
-# テンプレート 9-F {#template-f}
+# テンプレート9F {#template-9f}
 
-[テンプレート 9-F をダウンロード](https://docs.marketo.com/download/attachments/8783996/template-9f.html?version=2&amp;modificationdate=1438210809000&amp;api=v2)
+[テンプレート9Fのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -27,4 +27,4 @@ ht-degree: 85%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template9-F.html](https://docs.marketo.com/download/attachments/8783996/template-9f.html?version=2&amp;modificationdate=1438210809000&amp;api=v2)
+[テンプレート9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)

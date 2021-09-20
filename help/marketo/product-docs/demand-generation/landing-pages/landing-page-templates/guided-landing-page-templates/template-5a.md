@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162243
-description: テンプレート 5-A — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 5-A
+description: テンプレート5A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 80%
+source-wordcount: '61'
+ht-degree: 39%
 
 ---
 
-# テンプレート 5-A {#template-a}
+# テンプレート5A {#template-5a}
 
-[Template-5Aのダウンロード](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
+[ダウンロードテンプレート5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -28,4 +28,4 @@ ht-degree: 80%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template-5A.html](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
+[テンプレート5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

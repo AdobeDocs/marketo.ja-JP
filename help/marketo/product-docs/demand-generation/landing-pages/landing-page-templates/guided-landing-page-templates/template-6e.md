@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783938
-description: テンプレート 6-E — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 6-E
+description: テンプレート6E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート6E
 exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 47%
 
 ---
 
-# テンプレート 6-E {#template-e}
+# テンプレート6E {#template-6e}
 
-[テンプレート 6-E をダウンロード](https://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)
+[テンプレート6Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template6-E.html](https://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)
+[テンプレート6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)

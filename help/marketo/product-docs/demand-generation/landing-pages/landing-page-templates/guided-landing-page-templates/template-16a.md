@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437834
-description: テンプレート 16-A — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 16-A
+description: テンプレート16A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 50%
 
 ---
 
-# テンプレート 16-A {#template-a}
+# テンプレート16A {#template-16a}
 
-[テンプレート 16-A をダウンロード](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&amp;modificationdate=1438980648000&amp;api=v2)
+[テンプレート16Aのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template16-A.html](https://docs.marketo.com/download/attachments/9437834/template-16a.html?version=1&amp;modificationdate=1438980648000&amp;api=v2)
+[テンプレート16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)

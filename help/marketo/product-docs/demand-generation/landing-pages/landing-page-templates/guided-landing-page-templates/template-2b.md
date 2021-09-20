@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516470
-description: テンプレート 2-B — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 2-B
+description: テンプレート2B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 63%
+source-wordcount: '71'
+ht-degree: 47%
 
 ---
 
-# テンプレート 2-B {#template-b}
+# テンプレート2B {#template-2b}
 
-[テンプレート 2-B をダウンロード](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
+[テンプレート2Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -28,4 +28,4 @@ ht-degree: 63%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template2-B.html](https://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
+[テンプレート2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

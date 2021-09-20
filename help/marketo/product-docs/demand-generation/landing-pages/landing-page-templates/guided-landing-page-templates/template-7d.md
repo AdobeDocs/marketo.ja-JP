@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783950
-description: テンプレート 7-D — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 7-D
+description: テンプレート7D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 51%
 
 ---
 
-# テンプレート 7-D {#template-d}
+# テンプレート7D {#template-7d}
 
-[テンプレート 7-D をダウンロード](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
+[テンプレート7Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template7-D.html](https://docs.marketo.com/download/attachments/8783950/template-7d.html?version=1&amp;modificationdate=1437693396000&amp;api=v2)
+[テンプレート7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)

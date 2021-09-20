@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783954
-description: テンプレート 7-E — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 7-E
+description: テンプレート7E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート7E
 exl-id: 5f15e2c5-8206-4de1-b952-0e85f8864715
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 90%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
-# テンプレート 7-E {#template-e}
+# テンプレート7E {#template-7e}
 
-[テンプレート 7-E をダウンロード](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
+[テンプレート7Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -28,4 +28,4 @@ ht-degree: 90%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template7-E.html](https://docs.marketo.com/download/attachments/8783954/template-7e.html?version=1&amp;modificationdate=1437693434000&amp;api=v2)
+[テンプレート7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092899
-description: テンプレート 19-D — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 19-D
+description: テンプレート19D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 49%
 
 ---
 
-# テンプレート 19-D {#template-d}
+# テンプレート19D {#template-19d}
 
-[テンプレート 19-D をダウンロード](https://docs.marketo.com/download/attachments/10092899/template-19d.html?version=1&amp;modificationdate=1441750473000&amp;api=v2)
+[テンプレート19Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template19-D.html](https://docs.marketo.com/download/attachments/10092899/template-19d.html?version=1&amp;modificationdate=1441750473000&amp;api=v2)
+[テンプレート19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)

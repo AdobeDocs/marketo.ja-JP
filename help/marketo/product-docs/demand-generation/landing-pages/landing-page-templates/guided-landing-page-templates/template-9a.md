@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783981
-description: テンプレート 9-A — Marketo ドキュメント — 製品ドキュメント
-title: テンプレート 9-A
+description: テンプレート9A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 53%
 
 ---
 
-# テンプレート 9-A {#template-a}
+# テンプレート9A {#template-9a}
 
-[テンプレート 9-A をダウンロード](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)
+[テンプレート9Aのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、次をクリックします。**
 
-[Template9-A.html](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)
+[テンプレート9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
