@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2360362
-description: 手順1/3 - Salesforceへ追加のMarketoフィールド(Enterprise/Unlimited) -Marketoドキュメント — 製品ドキュメント
-title: 手順1/3 - Salesforceに対する追加Marketoフィールド(Enterprise/Unlimited)
+description: 手順1 / 3 - SalesforceへのMarketoフィールドの追加(Enterprise/Unlimited) - Marketoドキュメント — 製品ドキュメント
+title: 手順1 / 3 - SalesforceへのMarketoフィールドの追加（エンタープライズ/無制限）
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 9%
+source-wordcount: '784'
+ht-degree: 11%
 
 ---
 
-# 手順1/3:Salesforce追加へのMarketoフィールド(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->MarketoとSalesforceを同期するには、Salesforce APIにアクセスできる必要があります。
+>MarketoとSalesforceの間で同期するには、Salesforce APIへのアクセス権が必要です。
 
-Marketoは一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。 Salesforceでこのデータを使用したい場合は、次の手順に従ってください。
+Marketoは、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。 Salesforceでこのデータを使用する場合は、以下の手順に従ってください。
 
-1. リードおよび連絡先オブジェクトに対して、Salesforceで次の3つのカスタムフィールドを作成します。スコア、獲得プログラムおよび獲得日を参照してください。
-1. Salesforceでのコンバージョン時に値が持ち越されるように、リードと連絡先の間にこれらのカスタムフィールドをマッピングします。
-1. 必要に応じて、その他のフィールドも作成できます（下の表を参照）。
+1. リードおよびコンタクトオブジェクトのSalesforceで、次の3つのカスタムフィールドを作成します。スコア、獲得プログラムおよび獲得日。
+1. リードと連絡先の間でこれらのカスタムフィールドをマッピングし、Salesforceでのコンバージョン時に値が持ち越されるようにします。
+1. 必要に応じて、その他のフィールドを作成できます（以下の表を参照）。
 
-これらのカスタムフィールドはすべてオプションで、MarketoとSalesforceを同期する必要はありません。 ベストプラクティスとして、「スコア」、「獲得プログラム」および「獲得日」のフィールドを作成することをお勧めします。
+これらのカスタムフィールドはすべてオプションで、MarketoとSalesforceを同期するために必要なものではありません。 ベストプラクティスとして、「スコア」、「獲得プログラム」、「獲得日」のフィールドを作成することをお勧めします。
 
-## Salesforce追加へのMarketoフィールド{#add-marketo-fields-to-salesforce}
+## SalesforceへのMarketoフィールドの追加 {#add-marketo-fields-to-salesforce}
 
-上記のSalesforceのリードおよび連絡先オブジェクトに追加3つのカスタムフィールドがあります。 さらに追加する場合は、この節の最後にある使用可能なフィールドの表を参照してください。
+上記のSalesforceのリードおよびコンタクトオブジェクトに3つのカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能なフィールドのテーブルを参照してください。
 
-3つのカスタムフィールドのそれぞれに対して次の手順を実行し、追加します。 スコア付き開始。
+3つのカスタムフィールドのそれぞれに対して次の手順を実行して追加します。 「スコア」で始まります。
 
-1. Salesforceにログインし、**セットアップ**&#x200B;をクリックします。
+1. Salesforceにログインし、「**設定**」をクリックします。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 左側のBuildメニューで、「**Customize**」をクリックし、「**Leads**」を選択します。 「**フィールド**」をクリックします。
+1. 左側のビルドメニューで、「**カスタマイズ**」をクリックし、「**リード**」を選択します。 「**フィールド**」をクリックします。
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. ページの下部にある「カスタムフィールドとリレーションシップ」セクションで、「**新規**」をクリックします。
+1. ページ下部の「カスタムフィールドと関係」セクションで「**新規**」をクリックします。
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 適切なフィールドタイプを選択します(スコアの場合は数値、獲得プログラム — テキスト；獲得日 — 日付/時刻)。
+1. 適切なフィールドタイプを選択します（「スコア」の場合は数値）。獲得プログラム — テキスト；「取得日」 — 日時)。
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -51,7 +50,7 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 次の表に示すように、フィールドのフィールドラベル、長さ、フィールド名を入力します。
+1. 次の表に示すように、フィールドの「フィールドラベル」、「長さ」、「フィールド名」を入力します。
 
 <table> 
  <thead> 
@@ -79,7 +78,7 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
    <td>スコア</td> 
    <td>mkto71_Lead_Score</td> 
    <td>数字</td> 
-   <td>長さ10<br>小数点以下0桁 </td> 
+   <td>長さ10<br>小数点第0位 </td> 
   </tr> 
   <tr> 
    <td>取得日</td> 
@@ -89,7 +88,7 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
   </tr> 
   <tr> 
    <td>新規顧客獲得プログラム</td> 
-   <td>mkto71_Acquisition_プログラム</td> 
+   <td>mkto71_Acquisition_Program</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
@@ -98,7 +97,7 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
 
 >[!NOTE]
 >
->Salesforceは、フィールド名を使用してAPI名を作成する際に、フィールド名に__cを追加します。
+>Salesforceは、API名の作成に使用する際に__cをフィールド名に追加します。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -112,12 +111,12 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
 
 1. アクセス設定を指定し、「**次へ**」をクリックします。
 
-   * すべてのロールを&#x200B;**表示**&#x200B;と&#x200B;**読み取り専用**&#x200B;に設定
+   * すべてのロールを&#x200B;**Visible**&#x200B;および&#x200B;**Read-Only**&#x200B;に設定します。
 
-   * 同期ユーザーのプロファイルの&#x200B;**読み取り専用**&#x200B;チェックボックスをオフにします。
+   * 同期ユーザーのプロファイルの「**読み取り専用**」チェックボックスをオフにします。
 
-      * _システム管理者_&#x200B;のプロファイルを同期ユーザーとして持つユーザーがいる場合は、「システム管理者」プロファイルの「**読み取り専用**」チェックボックスをオフにします（以下を参照）
-      * 同期ユーザーに対して&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、そのカスタムプロファイルの&#x200B;**読み取り専用**&#x200B;チェックボックスをオフにします
+      * _System Administrator_&#x200B;のプロファイルを同期ユーザーとして持つユーザーがいる場合は、以下に示すように、「**読み取り専用**」チェックボックスをオフにします
+      * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、そのカスタムプロファイルの「**読み取り専用**」チェックボックスをオフにします
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,12 +124,12 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. [**保存して新規作成**]をクリックすると、前のページに戻り、他の2つのカスタムフィールドがそれぞれ作成されます。 「**保存**」をクリックします。3つすべての作業は終了です。
+1. 「**保存して新規**」をクリックして戻り、他の2つのカスタムフィールドをそれぞれ作成します。 3つの操作が完了したら、「**保存**」をクリックします。
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 左側のビルドメニューで、「**カスタマイズ**」をクリックし、「連絡先」を選択します。 「フィールド」をクリックします。
-1. リードオブジェクトと同様に、連絡先オブジェクトの「スコア」、「獲得日」、「獲得プログラム」の各フィールドに対して手順3 ～ 10を実行します。
+1. 左側のBuildメニューで、**Customize**&#x200B;をクリックし、「Contacts」を選択します。 「フィールド」をクリックします。
+1. リードオブジェクトの場合と同様に、コンタクトオブジェクトの「スコア」、「獲得日」、「獲得プログラム」フィールドの手順3 ～ 10を実行します。
 1. 必要に応じて、このテーブルの追加のカスタムフィールドに対して上記の手順を実行します。
 
 <table> 
@@ -157,13 +156,13 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
  <tbody> 
   <tr> 
    <td>獲得プログラムID</td> 
-   <td>mkto71_Acquisition_プログラム_Id</td> 
+   <td>mkto71_Acquisition_Program_Id</td> 
    <td>数字</td> 
-   <td>長さ18<br>小数点以下0桁 </td> 
+   <td>長さ18<br>小数点第0位 </td> 
   </tr> 
   <tr> 
    <td>訪問者の参照元</td> 
-   <td>mkto71_Original_転送者</td> 
+   <td>mkto71_Original_Referrer</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
@@ -192,14 +191,14 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推測される都市</td> 
-   <td>mkto71_Inferred_City</td> 
+   <td>推測される市区町村</td> 
+   <td>mkto71_Inderred_City</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
   <tr> 
    <td>推測される企業</td> 
-   <td>mkto71_Inferred_会社</td> 
+   <td>mkto71_Inferred_Company</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
@@ -217,7 +216,7 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
   </tr> 
   <tr> 
    <td>推測される市外局番</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
+   <td>mkto71_Inderred_Phone_Area_Code</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
@@ -228,27 +227,31 @@ Marketoは一連のフィールドを使用して、特定の種類のマーケ�
    <td>長さ255</td> 
   </tr> 
   <tr> 
-   <td>推測される都道府県/地域</td> 
-   <td>mkto71_Inferred_State_Region</td> 
+   <td>推測される都道府県／地域</td> 
+   <td>mkto71_Inderred_State_Region</td> 
    <td>テキスト</td> 
    <td>長さ255</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 変換用のカスタムフィールドのマッピング{#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>Marketoによって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときにSalesforceですぐに使用できるわけではありません。 Marketoは、次にいずれかのシステム上のレコードを更新すると(つまり、MarketoとSalesforceの間で同期されているフィールドのいずれかに対する更新)、Salesforceにデータを同期します。
 
-Salesforceのリードオブジェクトのカスタムフィールドは、コンバージョンの発生時にデータが持ち越されるように、コンタクトオブジェクトのコンタクトフィールドにマップする必要があります。
+## コンバージョンのカスタムフィールドのマッピング {#map-custom-fields-for-conversions}
 
-1. 右上隅の「**セットアップ**」をクリックします。
+変換が発生したときにデータが引き継がれるように、Salesforceのリードオブジェクトのカスタムフィールドを、コンタクトオブジェクトのコンタクトフィールドにマッピングする必要があります。
+
+1. 右上隅の「**設定**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. ナビゲーション検索でEnterキーを押さずに「Fields」と入力します。 フィールドは別のオブジェクトの下に表示されます。「Leads」の下の「**Fields**」をクリックします。
+1. ナビゲーション検索にEnterキーを押さずに「Fields」と入力します。 フィールドは別のオブジェクトの下に表示されます。「リード」の下の「**フィールド**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 「Lead Custom Fields &amp; Relationships」セクションに移動し、「**Map Lead Fields**」をクリックします。
+1. 「リードのカスタムフィールドと関係」セクションに移動し、「**リードフィールドをマップ**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -262,10 +265,10 @@ Salesforceのリードオブジェクトのカスタムフィールドは、コ�
 
 1. 作成した他のフィールドに対して、上記の手順を繰り返します。
 
-1. 終了したら「**保存**」をクリックします。
+1. 完了したら、「**保存**」をクリックします。
 
    簡単だろ？
 
 >[!MORELIKETHIS]
 >
->[手順2/3:Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[手順 2／3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
