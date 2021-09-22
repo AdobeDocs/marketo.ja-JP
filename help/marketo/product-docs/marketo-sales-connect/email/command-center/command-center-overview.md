@@ -1,27 +1,26 @@
 ---
 unique-page-id: 14352530
-description: コマンドセンターの概要 —Marketoドキュメント — 製品ドキュメント
+description: コマンドセンターの概要 - Marketo ドキュメント - 製品ドキュメント
 title: コマンドセンターの概要
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# コマンドセンターの概要{#command-center-overview}
+# コマンドセンターの概要 {#command-center-overview}
 
-Commend Centerは単一の統一された表示で、次のステップを見つけるのに役立ち、亀裂から何も落ちないようにします。
+コメンドセンターは単一の統合ビューで、何も抜け落ちがないように確認しながら、次のステップを考え出すのに役立ちます。
 
-## 電子メールの管理{#manage-emails}
+## メールの管理 {#manage-emails}
 
-コマンドセンターの電子メールセクションでは、すべての電子メールアクティビティを管理できます。 Sales Connectから送信された電子メールを確認するための電子メール送信トレイと考えてください。 スケジュールされた電子メールの管理、電子メールに関与しているユーザーの確認、電子メールの配信に問題があるかどうかの確認などを行います。
+コマンドセンターのメールセクションでは、すべてのメールアクティビティを管理できます。Sales Connect から送信されたメールを確認するためのメール送信ボックスと考えてください。スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
 
 ![](assets/command-center-overview-1.png)
 
-「電子メール」セクションでは、すべての電子メールに目を通す表示を提供し、プライマリタブとサブタブを使用して組織を簡素化できます。プライマリタブとサブタブは、電子メールがステータスに基づいて自動的に保存されるフォルダーです。
+メールセクションでは、すべてのメールを俯瞰して、プライマリタブとサブタブを使用して組織を簡素化できます。プライマリタブとサブタブは、メールがステータスに基づいて自動的に保存されるフォルダーの役割を果たします。
 
 <table> 
  <colgroup> 
@@ -31,70 +30,70 @@ Commend Centerは単一の統一された表示で、次のステップを見つ
  </colgroup> 
  <tbody> 
   <tr> 
-   <td title="背景色：グレー"><p title=""><strong><span>プライマリー</span> </strong></p></td> 
-   <td title="背景色：グレー"><p title=""><strong><span>セカンダリ</span> </strong></p></td> 
-   <td title="背景色：グレー"><p title=""><strong><span>詳細</span> </strong></p></td> 
+   <td title="背景色：グレー"><p title=""><strong><span>プライマリ</span> </strong></p></td> 
+   <td title="背景色：グレー"><p title=""><strong><span>サブ</span> </strong></p></td> 
+   <td title="背景色：グレー"><p title=""><strong><span>説明</span> </strong></p></td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><strong title="">送信済み</strong></td> 
-   <td title="背景色：青">メール到着</td> 
-   <td title="背景色：青">受信者に配信された電子メール。</td> 
+   <td title="背景色：青">配信済み</td> 
+   <td title="背景色：青">受信者に配信されたメール。</td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><br></td> 
-   <td title="背景色：青">アーカイブ済</td> 
-   <td title="背景色：青">ユーザーがアーカイブした電子メール（電子メールの追跡を無効にするため）。</td> 
+   <td title="背景色：青">アーカイブ済み</td> 
+   <td title="背景色：青">メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td> 
   </tr> 
   <tr> 
    <td title="背景色：グレー"><strong title="">保留中</strong></td> 
-   <td title="背景色：グレー">予定されています</td> 
-   <td title="背景色：グレー">現在外出が予定されている電子メール。 電子メールが送信されると、その電子メールは配信済みフォルダーに移動されます。</td> 
+   <td title="背景色：グレー">スケジュール済み</td> 
+   <td title="背景色：グレー">現在配信がスケジュールされているメール。メールが送信されると、配信済みフォルダーに移動します。</td> 
   </tr> 
   <tr> 
    <td title="背景色：グレー"><br></td> 
    <td title="背景色：グレー">下書き</td> 
-   <td title="背景色：グレー"><p>ドラフトとして保存された電子メール。<br><strong>注意：ドラフトとして保存できる電子メールは1つ</strong> だけです。バルク電子メール（電子メールの選択と送信およびグループ電子メール）は、ドラフトとして保存されません。</p></td> 
+   <td title="背景色：グレー"><p>下書きとして保存されたメール。<br><strong>注意：</strong>下書きとして保存できるメールは 1 つだけです。一括メール（「メールを選択して送信」と「メールをグループ化」）は下書きとして保存されません。</p></td> 
   </tr> 
   <tr> 
    <td title="背景色：グレー"><br></td> 
    <td title="背景色：グレー">進行中</td> 
-   <td title="背景色：グレー">これは、電子メールが送信モーションに入ると、その電子メールが途中に入る状態です。 電子メールは、しばらくの間処理中である必要があります。</td> 
+   <td title="背景色：グレー">これは、送信モーション中にメールが処理される中間の状態を示します。メールが処理中であるのは、わずかの間です。</td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><strong title="">未配信</strong></td> 
    <td title="背景色：青">失敗</td> 
-   <td title="背景色：青">配信に失敗した電子メール。</td> 
+   <td title="背景色：青">配信に失敗したメール。</td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><br></td> 
    <td title="背景色：青">バウンス</td> 
-   <td title="背景色：青"><p>受信者の電子メールサーバーから拒否された電子メール。 <br><strong>注意：</strong> これは、従来のToutAppユーザーで、配信チャネルとしてMSCサーバーにアクセスできる場合にのみ検出されます。</p></td> 
+   <td title="背景色：青"><p>受信者のメールサーバーから拒否されたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td> 
   </tr> 
   <tr> 
    <td title="背景色：青"><br></td> 
    <td title="背景色：青">スパム</td> 
-   <td title="背景色：青"><p>受信者が手動でスパムとしてマークした電子メールです。<br><strong>注意：</strong> これは、従来のToutAppユーザーで、配信チャネルとしてMSCサーバーにアクセスできる場合にのみ検出されます。</p></td> 
+   <td title="背景色：青"><p>受信者によって手動でスパムとマークされたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## タスクの管理{#manage-tasks}
+## タスクの管理 {#manage-tasks}
 
-「タスク」セクションは、タスクの管理と完了を行うワンストップショップです。 タスクをシームレスに管理し、生産性を向上させ、最も重要な項目に集中できます。
+タスクセクションでは、タスクの管理と完了をすべて行うことができます。タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
 
 ![](assets/command-center-overview-2.png)
 
-## 関与した見込み客のフォローアップ{#follow-up-with-engaged-prospects}
+## エンゲージした見込客のフォローアップ {#follow-up-with-engaged-prospects}
 
-作成ウィンドウまたはキャンペーンを使用して見込み客との関わりを開始したら、アドバンス検索機能を利用して、最も関与のある見込み客を再ターゲットする開始が得られます。
+作成ウィンドウまたはキャンペーンを使用して見込客のエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込客の再ターゲティングを開始できます。
 
-例えば、MSCのキャンペーンに100人のユーザーを追加した場合、電子メールを表示およびクリックしたが、返信しなかったユーザーを再ターゲットする必要があります。 これを行うには、表示およびクリックステータスアクティビティフィルターと共にキャンペーンフィルターを利用して、再ターゲットする人のリストを特定します。
+例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが、返信しなかった人を再度ターゲティングしたいと考えるでしょう。そのためには、表示およびクリックステータスアクティビティフィルターと共にキャンペーンフィルターを利用して、再度ターゲティングする人のリストを特定します。
 
-賞与：アドバンス検索を保存すると、動的なリストとして機能し、受信者表示または電子メールのクリック後に、エンゲージメント条件を満たす電子メールが追加されます。
+ボーナス：詳細検索を保存すると、動的リストとして機能し、受信者がメールを表示またはクリックすると、エンゲージメント条件を満たすメールが追加されます。
 
 >[!MORELIKETHIS]
 >
 >* [タスク](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [アドバンス検索の概要](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [選択と送信を使用したバルク電子メールの構成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [詳細検索の概要](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [選択および送信による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
