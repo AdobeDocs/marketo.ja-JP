@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2953362
-description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメントで直接エントリを確認
-title: マーケティングカレンダーでの入口の直接確認
+description: マーケティングカレンダーでエントリを直接確認 - Marketo ドキュメント - 製品ドキュメント
+title: マーケティングカレンダーでエントリを直接確認
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# マーケティングカレンダーでの直接参加者の確認{#confirm-entries-directly-in-the-marketing-calendar}
+# マーケティングカレンダーでエントリを直接確認 {#confirm-entries-directly-in-the-marketing-calendar}
 
-スマートキャンペーンと電子メールプログラムは、仮のエントリとして作成でき、実際に発生するあらゆる点で確認する必要があります。 これが方法です。
+スマートキャンペーンとメールプログラムは、仮のエントリとして作成でき、実際に何が起こるかを確認する必要があります。手順は以下のとおりです。
 
 1. **カレンダー**&#x200B;に移動します。
 
@@ -23,10 +22,10 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. 先に行って、入力を確認します。
+1. 先に進み、エントリを確認します。
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 
-   確認は一連の検証プロセスを実行し、すべてがチェックアウトした場合に、入力が確認されます。
+   確認では一連の検証プロセスが実行され、すべてがチェックアウトされた場合、エントリが確認されます。
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
