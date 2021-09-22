@@ -1,82 +1,81 @@
 ---
 unique-page-id: 10099360
-description: イベント対応の準備 —Marketoドキュメント — 製品ドキュメント
+description: イベントの準備 - Marketo ドキュメント - 製品ドキュメント
 title: イベントの準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# イベントの準備{#prepare-for-your-event}
+# イベントの準備 {#prepare-for-your-event}
 
-イベントの準備をするために必要なことがいくつかあります。
+イベントの準備をするためには、必要なことがいくつかあります。
 
-## 新しいMarketoの役割の作成{#create-a-new-marketo-role}
+## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketoは、イベントのチェックインアプリに対して特別なユーザーロールを持っています。 [iPadまたはAndroidユーザー向けの新しいMarketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ロールを作成し、モバイルアプリケーションにアクセスする権限を付与します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を使用して、iPad または Android ユーザー向けに[新しい Marketo ロールを作成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)します。
 
-## 新しいタブレットユーザーをイベントに招待{#invite-new-tablet-users-to-the-event}
+## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 
-[新しいタブレットユーザーを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) イベントに招待し、新しい役割を割り当てます。
+[新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)し、新しい役割を割り当てます。
 
-## 新しいMarketoイベントプログラムの作成{#create-a-new-marketo-event-program}
+## 新しい Marketo イベントプログラムの作成 {#create-a-new-marketo-event-program}
 
-[新しいMarketoイベント](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) プログラムを作成して、異なる段階を進むにつれて訪問者のステータスを捕捉し、マーケティングイニシアチブのROIを正確に測定します。
+[新しい Marketo イベントプログラムを作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)して、様々なステージを進むユーザーのステータスを把握し、マーケティングイニシアチブの ROI を正確に測定します。
 
-## イベント日を指定{#specify-the-event-dates}
+## イベントの日付の指定 {#specify-the-event-dates}
 
-イベントの日付を設定するのは簡単です。
+イベントの日付は簡単に設定できます。
 
-1. スケジュール上のイベントをクリックし、開始と終了日時を設定します。
+1. スケジュールのイベントをクリックし、開始日時と終了日時を設定します。
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. **仮の**&#x200B;を&#x200B;**確認済み**&#x200B;に変更するには、スライドオーバーします。
+1. 「**仮**」から「**確定**」に変更します。
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >イベントの日付が現在の日付の1週間前またはそれ以降の場合、イベントはアプリに表示されません。 **ヒント**:テストするには、一時的に日付を今日から1週間以内に設定します。イベントをテストした後は、必ず正しい日付に戻してください。
+   >イベントの日付が現在の日付の 1 週間前または 1 週間後以降の場合、イベントはアプリに表示されません。**ヒント**：テストするには、日付を一時的に、今日から 1 週間以内に設定します。テスト後は、必ず正しい日付にイベントを返してください。
 
-## イベント追加へのユーザー{#add-people-to-your-event}
+## イベントにユーザーを追加 {#add-people-to-your-event}
 
-*when*&#x200B;が分かったので、*who*&#x200B;を追加する時が来ました。
+*タイミング*&#x200B;がわかったので、*対象ユーザー*&#x200B;を追加します。
 
-1. 既にユーザーのリストをお持ちの場合は、[マイMarketo]の[**データベース**]タイルをクリックします。
+1. 既にユーザーのリストがある場合は、「マイ Marketo」で、「**データベース**」タイルをクリックします。
 
    ![](assets/db.png)
 
-1. ユーザーのあるリストを選択し、「**ユーザー**」タブをクリックします。
+1. ユーザーを含むリストを選択し、「**ユーザー**」タブをクリックします。
 
    ![](assets/four.png)
 
-1. リストからイベントのユーザーを選択します。 複数の人をクリックするには、**Ctrl**（Macでは&#x200B;**Command**）を使用します。すべてをマークするには、**「すべて**」を選択します。
+1. リストからイベントのユーザーを選択します。複数のユーザーをクリックするには、**Ctrl**（Mac の場合は **Command**）を使用します。すべてのユーザーをマークするには、「**すべて**」を選択します。
 
    ![](assets/five.png)
 
-1. 「**個人アクション**」をクリックし、**プログラム**&#x200B;の上にマウスポインターを置いて、「**プログラムステータスを変更**」を選択します。
+1. 「**ユーザーのアクション**」をクリックし、「**プログラム**」の上にマウスポインターを置いて、「**プログラムステータスを変更**」を選択します。
 
    ![](assets/six.png)
 
-1. **プログラム**&#x200B;ドロップダウンリストをクリックし、イベントを選択します。
+1. 「**プログラム**」ドロップダウンリストをクリックし、イベントを選択します。
 
    ![](assets/seven.png)
 
-1. 「**新しいステータス**」ドロップダウンをクリックし、**ロードショー>登録済み**&#x200B;を選択します。 「**今すぐ実行**」をクリックします。
+1. 「**新しいステータス**」ドロップダウンをクリックし、**ロードショー／登録済み**&#x200B;を選択します。「**今すぐ実行**」をクリックします。
 
    ![](assets/eight.png)
 
-1. 小さいウィンドウに進行状況が表示されます。
+1. 小さなウィンドウに進行状況が表示され...
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...とは、タスクがいつ完了したかを示します。
+1. ...タスクが完了したら表示されます。
 
    ![](assets/ten.png)
 
-   選択したユーザーがイベントに登録され、トレードショーのフロアにあるタブレットアプリを使用してチェックインできる状態になります。
+   これで選択したユーザーがイベントに参加し、トレードショーフロアでタブレットアプリを使用してチェックインする準備が整いました。
