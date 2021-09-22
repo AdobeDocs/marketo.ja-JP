@@ -1,64 +1,63 @@
 ---
 unique-page-id: 7516419
-description: Marketo追加のSales InsightタブとSalesforce -Marketoドキュメント — 製品ドキュメント
-title: 追加MarketoのSales InsightタブとSalesforceのボタン
+description: Marketo Sales Insight のタブとボタンの Salesforce への追加 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo Sales Insight のタブとボタンの Salesforce への追加
 exl-id: 9d76d4c8-ecb4-4159-84d1-9cdd3ec02221
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Marketo追加のSales InsightタブとSalesforceのボタン{#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+# Marketo Sales Insight のタブとボタンの Salesforce への追加 {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
-Salesforce表示には、カスタムの「Sales Insight」タブとボタンを追加して、容易にアクセスできます。 興味が？ これが方法です。
+カスタマイズした Marketo Sales Insight のタブとボタンを Salesforce ビューに追加すると、アクセスが簡単になります。興味はありますか？手順は以下のとおりです。
 
-## Marketoタブの追加{#adding-the-marketo-tab}
+## 「Marketo」タブの追加  {#adding-the-marketo-tab}
 
-1. 「**+**」をクリックし、「**マイタブをカスタマイズ**」をクリックします。
+1. 「**+**」をクリックして、「**タブをカスタマイズ**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. 左のリストでMarketoを選択します。 次に、**追加**&#x200B;をクリックして、**選択されたタブ**&#x200B;に追加します。
+1. 左側のリストで「Marketo 」を選択します。次に、「**追加**」をクリックして、「**選択されたタブ**」に追加します。
 
    >[!TIP]
    >
-   >**上**&#x200B;と&#x200B;**下**&#x200B;の矢印を使用して、タブの順序を変更します。
+   >**上**&#x200B;矢印と&#x200B;**下**&#x200B;矢印を使用して、タブを並べ替えます。
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
-   Marketoのタブだ！
+   これで、「Marketo」タブが追加されました。
 
    ![](assets/three-1.png)
 
-## Marketoボタンの追加{#adding-marketo-buttons}
+## Marketo ボタンの追加 {#adding-marketo-buttons}
 
-Salesforceレイアウトには、Marketoボタンを追加できます。 次に例を示します。
+Salesforce レイアウトに Marketo ボタンを追加できます。次に例を示します。
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. 「**セットアップ**」をクリックします。 「search layout」を検索し、「**Leads**」の下の「Search Layouts **」をクリックします。**
+1. 「**設定**」をクリックします。「検索レイアウト」を検索し、「**リード**」の下の「**検索レイアウト**」をクリックします。
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. **リードリスト表示**&#x200B;行の&#x200B;**編集**&#x200B;をクリックします。
+1. 「**リードリストビュー**」行で「**編集**」をクリックします。
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. **追加Marketoキャンペーン**、**Marketo電子メール**、追加&#x200B;**を**&#x200B;選択されたボタン&#x200B;**と**&#x200B;保存&#x200B;**にリスト**&#x200B;ボタンを監視するように送信します。
+1. 「**Marketo キャンペーンに追加**」、「**Marketo メールを送信**」、「**ウォッチリストに追加**」ボタンを「**選択したボタン**」に追加し、「**保存**」します。
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
    >[!TIP]
    >
-   >Shiftキーを押しながら3つのボタンをすべて同時に選択します。
+   >Shift キーを押しながら 3 つのボタンを同時に選択します。
 
-1. 連絡先（3つのボタンすべて）とアカウント（1つのボタンのみ）に対して、次の手順を繰り返します。リスト追加の監視)。
+1. 連絡先（3 つのボタンすべて）とアカウント（1 つのボタン「ウォッチリストに追加」のみ）に対して、次の手順を繰り返します。
 
    >[!NOTE]
    >
-   >「Opportunities」にMarketoボタンを追加することはできません。
+   >商談に Marketo ボタンを追加することはできません。
 
-OK！
+これで完了です。
