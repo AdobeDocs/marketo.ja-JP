@@ -1,98 +1,97 @@
 ---
 unique-page-id: 12255606
-description: リリースノート — Winter '17 -Marketoドキュメント — 製品ドキュメント
-title: リリースノート — Winter '17
+description: リリースノート - 17年冬 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '387'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# リリースノート：冬&#39;17 {#release-notes-winter}
+# リリースノート：17年冬 {#release-notes-winter}
 
-Winter &#39;17リリースには、次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。
+17年冬リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
 
-タイトルリンクをクリックすると、各機能に関する表示の詳細記事が表示されます。
+各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
 >[!NOTE]
 >
->トピックに複数のサブ見出しが含まれる場合は、そこにリンクが配置されます。
+>トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
 ## [Facebook カスタムオーディエンスの詳細照合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
-基本一致では電子メールアドレスのみが使用されますが、新しい高度一致では7つのフィールドが追加使用され、一致率が高くなり、コンバージョンが増えます。
+「基本的な一致」ではメールアドレスのみが使用されますが、新しい「高度な一致」では 7 つのフィールドが追加され、コンバージョン率が向上します。
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクトインポート API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [カスタムオブジェクト読み込み API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-このAPIは、カスタムオブジェクトをMarketoに同期するための高速なインターフェイスを提供します。 CSV、TSVまたはSSVスプレッドシートファイルは、カスタムオブジェクトとしてMarketoに読み込むことができます。
+この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
-## [Webパーソナライゼーションキャンペーンのエクスポート](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Web パーソナライゼーションキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
-Webキャンペーンーのすべての詳細と解析をCSV形式でエクスポートします。 その後、データを便利なレイアウトで表示できます。
+すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。その後、データを便利なレイアウトで表示できます。
 
 ![](assets/web-personalization-csv-download-hand.png)
 
 ## 多言語化対応 {#localization}
 
-Webパーソナライゼーション、予測コンテンツおよび電子メールのインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケール](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択して、これらの言語でコンテンツを表示します。
+Web パーソナライゼーション、予測コンテンツ、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
-## アカウントベースのマーケティングの強化{#account-based-marketing-enhancements}
+## アカウントベースのマーケティングの強化 {#account-based-marketing-enhancements}
 
 **[重点顧客のインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-「固有のアカウントインポート」オプションを使用する場合は、CSVアップロードを使用して複数のレコードを一度に作成または更新します。
+「重点顧客のインポート」オプションを使用する場合、CSV アップロードを使用して複数のレコードを一度に作成または更新します。
 
 ![](assets/inatwo.png)
 
-**[電子メールインサイトのサポート](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
+**[メールインサイトのサポート](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-電子メールインサイトで、指定されたアカウントまたはアカウントリストをディメンションとして使用します。
+メールインサイトのディメンションとして重点顧客または顧客リストを使用します。
 
 ![](assets/ei.png)
 
-## 予測コンテンツの強化{#predictive-content-enhancements}
+## 予測コンテンツの強化 {#predictive-content-enhancements}
 
-**[有効なソースでフィルター](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[有効なソースでフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-電子メール、リッチメディア、またはレコメンデーションバーで有効になっている予測コンテンツの部分をフィルターします。
+メール、リッチメディアまたはレコメンデーションバーで有効化されている、予測コンテンツの要素をフィルタリングします。
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[ソースによる分析のフィルター](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[ソース別に分析をフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（電子メール、リッチメディア、レコメンデーションバー）に対する予測コンテンツ分析のフィルター。
+特定のソース（メール、リッチメディア、レコメンデーションバー）に対する予測コンテンツ分析をフィルタリングします。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **予測コンテンツエディター**
 
-ソース別にコンテンツの準備（電子メール、リッチメディア、レコメンデーションバー）を分割する、編集操作とレイアウトが改善されました。
+編集エクスペリエンスとレイアウトが向上し、ソース別（電子メール、リッチメディア、レコメンデーションバーにコンテンツの準備）を分割できるようになりました。
 
 ![](assets/predictive-content-editor.png)
 
 **[予測のためのコンテンツ自動検出](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
-コンテンツの自動検出プロセスで、画像URLとメタデータが使用されるようになりました。
+コンテンツの自動検出プロセスで、画像 URL とメタデータが使用されるようになりました。
 
-## [SDKの強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK の強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-開発者は、新しいSDK API呼び出しを追加し、プッシュ通知の配信を追加制御できるようになりました。このAPI呼び出しにより、開発者はプッシュトークンを削除できます。
+開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 
-## [SMS LaunchPoint統合を表示](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 
-新しいフィルターオプション「Member of Vibesリスト」を使用して、ターゲット設定を改善します。
+新しいフィルターオプション「Vibes リストのメンバー」でターゲティングを強化します。
 
-## [レガシーリッチテキストエディターおよびフォームエディター1.0の廃止](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [レガシーリッチテキストエディターおよびフォームエディター 1.0 の廃止](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
-2017年8月1日以降、お客様は従来のリッチテキストエディターとフォームエディター1.0を引き続き使用している場合、新しいエクスペリエンスに自動的に移行します。
+2017年8月1日以降、従来のリッチテキストエディターとフォームエディター 1.0 をまだ使用しているお客様は、新しいエクスペリエンスに自動的に移行されます。
 
 ## [Marketo アクティビティ API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Marketo のアクティビティ API に重要な変更が予定されています。準備はできてる？
+Marketo のアクティビティ API に重要な変更が予定されています。準備はよろしいでしょうか。
