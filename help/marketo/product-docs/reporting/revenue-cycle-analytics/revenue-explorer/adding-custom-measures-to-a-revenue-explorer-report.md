@@ -1,52 +1,51 @@
 ---
 unique-page-id: 10097747
-description: 売上高エクスプローラレポートへのカスタムメジャーの追加 —Marketoドキュメント — 製品ドキュメント
-title: 売上高エクスプローラ・レポートへのカスタム・メジャーの追加
+description: 売上高エクスプローラーレポートへのカスタム測定の追加 - Marketo ドキュメント - 製品ドキュメント
+title: 売上高エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 売上高エクスプローラレポートへのカスタムメジャーの追加{#adding-custom-measures-to-a-revenue-explorer-report}
+# 売上高エクスプローラーレポートへのカスタム測定の追加 {#adding-custom-measures-to-a-revenue-explorer-report}
 
-レポート内でカスタムメジャーが必要になる場合があります。 自分で作るのは簡単です。
+レポートにカスタムの測定が必要な場合があります。自分で簡単に作成できます。
 
-次の例では、ソフトバウンスの計算指標を作成しています。この計算指標は、レポートに既に含まれている指標を使用し、基本的な計算を使用して新しい指標を作成します。 他のタイプのメジャーも作成できます。
+以下の例では、ソフトバウンスについて計算した測定を作成しています。レポートの既存の指標を取得し、基本的な数学を用いて新しい指標を作成します。他のタイプの測定も作成できます。
 
 >[!PREREQUISITES]
 >
->レポートには少なくとも1つの指標が必要ですが、カスタムメジャーを定義する際に使用する指標の1つである必要はありません。
+>レポートには 1 つ以上の指標が必要ですが、カスタム測定を定義する際に使用する測定の 1 つである必要はありません。
 
-1. レポートに必要なフィールドを引き出します。 詳しくは、[売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
+1. レポートに必要なフィールドを取り込みます。詳しくは、[売上高エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
 
-1. 既存の指標（青いセル）を右クリックし、「**ユーザー定義のメジャー**」をクリックして、「**計算済みメジャー**」を選択します。
+1. 既存の指標（青色のセル）を右クリックし、「**ユーザー定義の測定**」をクリックして、「**計算済み測定**」を選択します。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
-1. カスタム・メジャーに名前を付け、フォーマットを選択します。
+1. カスタム測定に名前を付け、形式を選択します。
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. 左側で必要な項目をクリックし、矢印をクリックして上に移動します。 必要に応じて追加数学記号を入力します。
+1. 左側の必要な項目をクリックし、矢印をクリックして上に移動します。必要に応じて数学記号を追加します。
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
    >[!TIP]
    >
-   >数学記号を自分で入力するか、選択ボックスを使用します。
+   >数学記号は、自分で入力するか、選択ボックスを使用します。
 
-1. 終了したら、「**OK**」をクリックします。
+1. 完了したら、「**OK**」をクリックします。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
-   新しいカスタムメジャーは、レポートに新しい列として表示されます。
+   新しいカスタム測定が、レポートに新しい列として表示されます。
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
    >[!MORELIKETHIS]
    >
-   >[売上高エクスプローラレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[売上高エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
