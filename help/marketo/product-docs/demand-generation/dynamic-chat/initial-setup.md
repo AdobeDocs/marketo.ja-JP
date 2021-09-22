@@ -3,9 +3,9 @@ description: 初期設定 — Marketoドキュメント — 製品ドキュメ�
 title: 初期設定
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 1. Marketoインスタンスに対してDynamic Chatを有効にすると、指定されたシステム管理者にお知らせメールが届きます。 この電子メールで、「**使ってみる**」をクリックします。
 
-   ![](assets/picture.png)
+   PICC
 
 1. 以前にAdobe IDを使用してアプリにアクセスしたことがある場合は、Adobe Admin Consoleに直接移動します。 そうでない場合は、[Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)を設定します。
 
-   ![](assets/picture.png)
+   PICC
 
 1. ユーザーの追加（手順）
 
