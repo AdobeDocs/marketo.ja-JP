@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2360399
-description: プログラムアナライザの作成 —Marketoドキュメント — 製品ドキュメント
-title: プログラム分析計の作成
+description: プログラムアナライザーの作成 - Marketo ドキュメント - 製品ドキュメント
+title: プログラムアナライザーの作成
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プログラムアナライザの作成{#create-a-program-analyzer}
+# プログラムアナライザーの作成 {#create-a-program-analyzer}
 
-どのプログラムとチャネルが貴社のマーケティングコストに最も大きな効果をもたらしているかを見つけ出します。 プログラムアナライザを使用して、すべてのコストとリターンを詳細、プログラム別、またはチャネル別に詳細に調査、比較します。
+マーケティング売上高に最も貢献しているプログラムやチャネルを見つけましょう。プログラムアナライザーを使用して、すべてのコストとリターンの詳細を、プログラム別やチャネル別に調べ、比較します。
 
 >[!NOTE]
 >
->プログラム分析計から適切なデータを取得するには、CRM担当者にオポチュニティの役割があり、Marketoプログラムが[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
+>プログラムアナライザーから適切なデータを取得するには、CRM の連絡先に商談の役割があり、Marketo プログラムが完全に設定され、[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)、プログラムステータス、成功が定義されていることを確認します。
 
 >[!TIP]
 >
->コストのかからないプログラムをプログラムアナライザーに表示させるには、[期間のコスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)を$0に設定します。
+>コストのかからないプログラムをプログラムアナライザーに表示させるには、[期間コスト](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)を $0 に設定します。
 
-1. **Analytics**&#x200B;タイルをクリックします。
+1. 「**分析**」タイルをクリックします。
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. **プログラムアナライザー**&#x200B;タイルをクリックします。
+1. 「**プログラムアナライザー**」タイルをクリックします。
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. 標準のプログラムアナライザが表示されます。 必要に応じて変更を加えます。
+1. 標準のプログラムアナライザーが表示されます。必要な変更を加えます。
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. 「**セットアップ**」タブをクリックして、フィルターを追加およびカスタマイズします。
+1. 「**設定**」タブをクリックして、フィルターを追加およびカスタマイズします。
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. 例えば、期間のコストフィルターをカスタマイズするには、重複を押しながらフィルターをクリックします。
+1. 例えば、「期間コスト」フィルターをカスタマイズするには、そのフィルターをダブルクリックします。
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
@@ -49,28 +48,28 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >特定の範囲を選択するには、「**カスタム**」を選択し、「**開始日**」と「**終了日**」の各フィールドを使用します。
+   >特定の範囲を選択するには、「**カスタム**」を選択し、「**開始**」および「**終了**」フィールドを使用します。
 
-1. 新しいカスタムアナライザを保存する場合は、[Analyzerのアクション]ドロップダウンで[**名前を付けて保存**]を選択します。
+1. 新しいカスタムアナライザーを保存する場合は、「アナライザーのアクション」ドロップダウンで、「**名前を付けて保存**」を選択します。
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. [保存先]ドロップダウンと[フォルダ]ドロップダウンを使用して、カスタムアナライザを保存する場所を選択します。 新しいカスタムアナライザに名前を付けます。 説明はオプションです。 「**保存**」をクリックします。
+1. 「保存先」ドロップダウンと「フォルダー」ドロップダウンを使用して、カスタムアナライザーを保存する場所を選択します。新しいカスタムアナライザーに名前を付けます。説明はオプションです。「**保存**」をクリックします。
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
-1. やった！ メインタブをクリックして、プログラムとチャネルを調査および比較します。
+1. これで完了です。メインのタブをクリックすると、プログラムとチャネルの調査と比較が始まります。
 
 ![](assets/november-custom-report.png)
 
 >[!NOTE]
 >
->プログラムアナライザーで選択できる指標の多くは、ファーストタッチ(FT)およびマルチタッチ(MT)の計算で使用できます。 FTとMTのアトリビューション](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)の[の違いを理解することが重要です。
+>プログラムアナライザーで選択できる指標の多くは、ファーストタッチ（FT）計算とマルチタッチ（MT）計算で利用できます。[FT と MT のアトリビューションの違い](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)を理解することが重要です。
 
 >[!MORELIKETHIS]
 >
->* [チャネルの効果とプログラムアナライザとの比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [プログラムの効果とプログラムアナライザとの比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [プログラムアナライザを使用したプログラムおよびチャネルの詳細の調査](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [プログラムアナライザのコピー](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [プログラムアナライザーを使用したチャネルの効果の比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [プログラムアナライザーを使用したプログラムの効果の比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [プログラムアナライザーの複製](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
 
