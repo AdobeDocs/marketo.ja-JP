@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147304
-description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメントでのフィルター定義の共有
+description: マーケティングカレンダーでのフィルター定義の共有 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーでのフィルター定義の共有
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# マーケティングカレンダーでのフィルター定義の共有{#sharing-a-filter-definition-in-the-marketing-calendar}
+# マーケティングカレンダーでのフィルター定義の共有 {#sharing-a-filter-definition-in-the-marketing-calendar}
 
-フィルターは、異なるユーザー間で共有できます。
+フィルターは、様々なユーザー間で共有できます。
 
 >[!PREREQUISITES]
 >
@@ -23,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 保存されたフィルターに変更を加えた場合は、再共有してください。編集を行うまで、他のユーザーに対しては編集が反映されません。
+> 保存したフィルターに変更を加える場合は、必ず再共有してください。再共有するまで、他のユーザーに編集内容が反映されません。
 
-1. 共有するフィルタを選択します。
+1. 共有するフィルターを選択します。
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 
@@ -33,10 +32,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. URLをコピーして、他のMarketoユーザーと共有します。
+1. URL をコピーして、他の Marketo ユーザーと共有します。
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
    >[!NOTE]
    >
-   >ユーザー権限は表示に影響します。
+   >ユーザー権限は表示に影響を与えます。
