@@ -1,25 +1,24 @@
 ---
 unique-page-id: 18317338
-description: ブロックされたドメイン —Marketoドキュメント — 製品ドキュメント
+description: ブロック済みドメイン - Marketo ドキュメント - 製品ドキュメント
 title: ブロック済みドメイン
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 # ブロック済みドメイン {#blocked-domains}
 
-競合他社や既知のスパムトラップなど、連絡を必要としないドメインを誤ってメールで送信するのを防ぐことで、販売チームの成功を支援します。
+セールスチームが誤って競合相手にメールを送信したり、既知のスパムトラップや、連絡を希望しないその他のドメインに送信したりするのを防ぎ、成功を収める支援をします。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. Webアプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Web アプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
@@ -33,4 +32,4 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >[グループ電子メール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)の送信に含まれる電子メールで、ブロックされた電子メールドメインに送信されたことが原因で失敗した電子メールは、通知なしで失敗し、失敗した電子メールフォルダーには表示されません。
+   >[グループメール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)送信に含まれるメールは、ブロック済みメールドメインに送信されたことで送信失敗になりますが、送信失敗メールフォルダーには表示されず、警告もされません。
