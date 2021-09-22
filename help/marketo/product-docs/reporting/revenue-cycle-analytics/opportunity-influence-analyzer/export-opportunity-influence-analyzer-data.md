@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2360394
-description: オポチュニティ影響分析データのエクスポート —Marketoドキュメント — 製品ドキュメント
-title: オポチュニティ影響分析データのエクスポート
+description: 商談の影響アナライザーのデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: 商談の影響アナライザーのデータのエクスポート
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# オポチュニティ影響分析データのエクスポート{#export-opportunity-influence-analyzer-data}
+# 商談の影響アナライザーのデータのエクスポート {#export-opportunity-influence-analyzer-data}
 
-売上高サイクルエクスプローラのレポートから更新を受け取り、それを共有するには、任意の電子メールアドレスを既存のレポートに登録します。
+売上高サイクルエクスプローラーレポートから更新を受け取り、共有するには、既存のレポートにメールアドレスを配信登録することができます。
 
-1. **Analytics**&#x200B;に移動し、**新しい**/**新しいレポート購読**&#x200B;を選択します。
+1. **分析**&#x200B;に移動し、**新規**／**新規レポートの配信登録**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >プログラムで作成した基本レポートを購読するには、[基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)を参照してください。
+   >プログラムで作成した基本レポートを配信登録するには、「[基本レポートの配信登録](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)」を参照してください。
 
-1. 「レポートソース」で、「**売上高エクスプローラ**」を選択します。
+1. 「レポートソース」で、「**売上高エクスプローラー**」を選択します。
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
-1. フォルダツリーに移動し、レポートを選択します。
+1. フォルダーツリーに移動し、レポートを選択します。
 
    ![](assets/image2014-9-17-12-3a42-3a24.png)
 
-1. 電子メールアドレスを入力し、レポート電子メールの頻度を設定します。
+1. メールアドレスを入力し、レポートメールの頻度を設定します。
 
    ![](assets/image2014-9-17-12-3a42-3a29.png)
 
    >[!NOTE]
    >
-   >受信した電子メール内のレポートを誰でも登録解除できます。
+   >配信の停止は、受信したメールから誰でも行うことができます。
 
-1. 購読が設定された！ 自分の電子メールアドレスを含めると、レポートを電子メールで受信します。
+1. 配信登録が設定されました。自分自身のメールアドレスを追加した場合は、レポートメールが届きます。
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
 >[!MORELIKETHIS]
 >
->[すべてのレポート購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)を1か所で管理する方法を説明します。
+>1 か所で[レポートの配信登録をすべて管理する](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)方法を参照してください。
