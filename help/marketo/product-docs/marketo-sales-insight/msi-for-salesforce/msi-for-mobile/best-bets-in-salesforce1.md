@@ -1,28 +1,27 @@
 ---
 unique-page-id: 7511959
-description: Salesforce1 -Marketoドキュメント — 製品ドキュメントのベストベット
-title: Salesforceのベストベット1
+description: Salesforce1 での最有望見込客 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce1 での最有望見込客
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforce1のベストベット{#best-bets-in-salesforce}
+# Salesforce1 での最有望見込客 {#best-bets-in-salesforce}
 
-[ベストベット](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)はリードであり、緊急度が最も高く、相対スコアが高い連絡先です。 そのリストには自分が所有するリードのみが表示され、リードスコアの変化に応じてリストが更新されます。
+[最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)は、緊急度スコアと相対スコアが最も高いリードと連絡先です。このリストに表示されるのは、自分が所有者であるリードだけで、リードのスコアが変化するとリストも更新されます。
 
-1. SalesforceアプリのMarketoエリアに移動します。
+1. Salesforce アプリで、Marketo に移動します。
 
-   ドロップダウンで、「最良のベスト」、「監視リストー」、「Webアクティビティー」、「匿名Webアクティビティー」または「電子メール」を選択できます。
+   ドロップダウンで、「マイ最有望見込客」、「マイウォッチリスト」、「Web アクティビティ」、「匿名 web アクティビティ」または「マイ電子メール」を選択できます。
 
    ![](assets/one-2.png)
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1の興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [SalesforceでのMarketo電子メール、キャンペーンおよびウォッチリストのアクションの送信1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce1 での注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
