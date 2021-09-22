@@ -1,63 +1,62 @@
 ---
 unique-page-id: 7514956
-description: Webリッチメディアの予測コンテンツを有効にする —Marketoドキュメント — 製品ドキュメント
-title: Webリッチメディアの予測コンテンツを有効にする
+description: Web リッチメディアの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
+title: Web リッチメディアの予測コンテンツを有効にする
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: ''
+workflow-type: ht
+source-wordcount: '278'
+ht-degree: 100%
 
 ---
 
-# Webリッチメディアの予測コンテンツを有効にする{#enable-predictive-content-for-web-rich-media}
+# Web リッチメディアの予測コンテンツを有効にする {#enable-predictive-content-for-web-rich-media}
 
-予測コンテンツは、機械学習や予測分析など、Web訪問者に最も関連のあるコンテンツを提供します。 Webリッチメディアでは、テキストの説明や画像を使用してコンテンツを強調し、Webサイトに複数の予測コンテンツのレコメンデーションを埋め込むことができます。
+Web リッチメディアは、機械学習と予測分析を利用して、最も関連性の高いコンテンツで web 訪問者を引きつける機能です。Web リッチメディアを使用すると、テキストの説明や画像を使用してコンテンツを強化し、web サイトに複数の予測コンテンツのレコメンデーションを埋め込むことができます。
 
 >[!PREREQUISITES]
 >
->予測コンテンツを有効にする前に、次の操作を行う必要があります。
+>予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
    >
    >   
-   * [電子メールの予測コンテンツの](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 編集
-   >   * [リッチ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) メディアの予測コンテンツの編集
+   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
+   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
    >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-リッチメディア向けにコンテンツのタイトル、説明、画像を準備したら、個々のコンテンツまたは複数のコンテンツを有効にできます。
+リッチメディアのコンテンツタイトル、説明、画像を準備できたら、コンテンツピースを 1 つずつ、または複数まとめて有効にすることができます。
 
-1. 個々のタイトルを有効にするには、タイトルをクリックしてエディターを開きます。 「リッチメディア」をクリックし、「**リッチメディアの予測コンテンツに対して有効にする**」ボックスをオンにして、「**保存**」をクリックします。
+1. 個々のタイトルを有効にするには、タイトルをクリックしてエディターを開きます。「リッチメディア」をクリックし、「**リッチメディアでの予測コンテンツを有効にする**」ボックスをオンにして、「**保存**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 複数のコンテンツの場合は、**予測コンテンツ**&#x200B;ページで、タイトルの横のボックスをオンにします。
+1. 複数のコンテンツがある場合は、**予測コンテンツ**&#x200B;ページで、タイトルの横にあるチェックボックスをオンにします。
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 「**コンテンツアクション**」ドロップダウンをクリックし、「**Webリッチメディアを有効にする**」を選択します。
+1. 「**コンテンツアクション**」ドロップダウンをクリックし、「**Web リッチメディアを有効にする**」を選択します。
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## JavaScriptコードのカスタマイズとWebサイトへの埋め込み{#customize-the-javascript-code-and-embed-it-into-your-website}
+## JavaScript コードのカスタマイズと web サイトへの埋め込み  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Marketo開発者サイトのリッチメディアレコメンデーションテンプレート[のドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、Webサイトのテンプレートをカスタマイズする方法について説明します。
+[Marketo Developers サイトのリッチメディアレコメンデーションテンプレートのドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
 
-テンプレートを表示する場所のWebサイトにJavaScriptコードを貼り付けます。
+Web サイトでテンプレートを表示したい場所に JavaScript コードを貼り付けます。
 
 **テンプレートの例**
 
-* テンプレート1:画像、ヘッダーおよび説明を含む3つの横置きコンテンツ要素
-* テンプレート2:画像、ヘッダーおよび説明を含む3つの縦長コンテンツ部分
+* テンプレート 1：画像、ヘッダー、説明を含む 3 つの水平コンテンツ
+* テンプレート 2：画像、ヘッダー、説明を含む 3 つの垂直コンテンツ
 
-リッチメディアレコメンデーションテンプレートの例を次に示します。1
+リッチメディアレコメンデーションテンプレート 1 の例を次に示します。
 
 ![](assets/image2015-6-1-17-3a8-3a33.png)
 
-リッチメディアレコメンデーションテンプレートの例を次に示します。2
+リッチメディアレコメンデーションテンプレート 2 の例を次に示します。
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
