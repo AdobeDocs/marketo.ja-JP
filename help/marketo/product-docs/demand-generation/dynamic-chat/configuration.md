@@ -3,10 +3,10 @@ description: 設定 — Marketoドキュメント — 製品ドキュメント
 title: 構成
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 4%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ PICC （チャットボックス全体）
 
 **スタイル**
 
-「スタイル」では、目的の色、チャットボックスのアンカーの位置/パディング、フォントのタイプ/サイズを選択できます。
+ここで、ダイアログを表示するチャットボットのルックアンドフィールを定義します。例：ボットウィジェットの色、フォント、配置、およびchatbotの名前/アバター。
 
 各カテゴリの色は、[16進数の色値](https://color.adobe.com/create/color-wheel)(例えば、白= #ffffff、赤= #bf1932など)で決まります。
 
@@ -50,13 +50,13 @@ PICC
 
 ## 「プライバシー」タブ {#privacy-tab}
 
-「**プライバシー**」タブをクリックして、サイトのプライバシーポリシーのURLを追加または編集します。
+「**プライバシー**」タブをクリックして、サイトのプライバシーポリシーのURLを追加または編集します（オプション）。
 
 PICC
 
 ## 「インストール」タブ {#installation-tab}
 
-「**インストール**」タブをクリックして、Web開発チームがWebサイトに配置する必要があるスクリプトを取得します。
+Webサイトにチャットボットを表示するには、まずDynamic Chat JavaScriptスニペットをインストールする必要があります。 必要なコードを検索/コピーするには、このタブをクリックします。 この操作に慣れていない場合は、WebチームまたはIT部門に問い合わせてください。
 
 PICC
 

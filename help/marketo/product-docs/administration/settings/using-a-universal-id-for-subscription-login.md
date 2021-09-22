@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10100311
 description: 購読ログインでのユニバーサルIDの使用 — Marketoドキュメント — 製品ドキュメント
-title: 購読ログインでのユニバーサルIDの使用
+title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 1%
+source-wordcount: '586'
+ht-degree: 7%
 
 ---
 
-# 購読ログインでのユニバーサルIDの使用 {#using-a-universal-id-for-subscription-login}
+# サブスクリプションログインでのユニバーサル ID の使用 {#using-a-universal-id-for-subscription-login}
 
 ユニバーサルIDを使用すると、1回のログインで複数のMarketo購読にアクセスし、すばやく購読を切り替えることができます。 ただし、必要に応じて、購読に異なるログインを使用できます。
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## ユニバーサルIDの設定 {#setting-up-a-universal-id}
 
-各個々のインスタンスから、Marketo管理者が同じログインを使用して、異なる各購読に招待する必要があります。 Marketoは、既存のログインを自動的に結合できません。 ユニバーサルIDを有効にすると、Marketoインスタンスは最大30分間使用できなくなります。****&#x200B;ユーザーベースが大きい場合は、長くなる可能性があります。
+すべてのMarketoサブスクリプションには、オプションのユニバーサルID機能が付属しています。 各個々のインスタンスから、Marketo管理者が同じログインを使用して、異なる各購読に招待する必要があります。 Marketoは、既存のログインを自動的に結合できません。
 
 >[!NOTE]
 >
@@ -65,6 +65,6 @@ ht-degree: 1%
 >[!MORELIKETHIS]
 >
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [ユーザ ログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [ユニバーサルIDを使用した2つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
