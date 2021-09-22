@@ -1,65 +1,64 @@
 ---
 unique-page-id: 2360237
-description: Opportunity Influence Analyzer -Marketoドキュメント — 製品ドキュメントを使用してマーケティングの話を伝える
-title: Opportunity Influence Analyzerでマーケティング事例を伝える
+description: 商談の影響アナライザーでマーケティング事例を伝える - Marketo ドキュメント - 製品ドキュメント
+title: 商談の影響アナライザーでマーケティング事例を伝える
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# オポチュニティへの影響分析{#tell-the-marketing-story-with-an-opportunity-influence-analyzer}でマーケティングの話をする
+# 商談の影響アナライザーでマーケティング事例を伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Opportunity Influence Analyzerを使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 ファーストタッチからオポチュニティの作成や勝利、その他に、マーケティングがオポチュニティにどのような影響を与えたかを示します。
+商談の影響アナライザーを使用して、重要な商談に対するマーケティングの役割を説明します。マーケティングが、ファーストタッチから商談の創出や成立、その他の機会にどのように影響したのかを示します。
 
 >[!PREREQUISITES]
 >
->[オポチュニティ影響分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[商談の影響アナライザーの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. **Analytics**&#x200B;に移動し、**オポチュニティの影響分析**&#x200B;を選択します。
+1. **分析**&#x200B;に移動し、「**商談の影響アナライザー**」を選択します。
 
    ![](assets/analytics-opportunityhand.png)
 
-   Opportunity Influence Analyzerは、そのオポチュニティに関与するインタラクション、プログラム、イベントの成功を視覚的に表したものです。 グラフを見てみましょう。
+   商談の影響アナライザーは、その商談に関わるインタラクションやプログラム、イベントの成功を視覚的に表現したものです。グラフを参照してみましょう。
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色の** ドットは、オポチュニティの中で興味深い瞬間を表します（電子メールの開封、トレードショーの訪問、ホワイトペーパーのダウンロードなど）。大きい点は、より多くの相互作用を示します。
+   * ![--](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色のドット**&#x200B;は、商談の中の注目のアクションを表します（電子メールの開封、展示会への訪問、ホワイトペーパーのダウンロードなど）。ドットが大きいほど、インタラクションが多くなります。
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **バインダー** アイコンはプログラムの成功を示します。
+   * ![--](assets/image2014-10-3-13-3a44-3a9.png) **バインダーアイコン**&#x200B;は、プログラムの成功を示します。
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **カレンダー** アイコンはイベントの成功を示します。
+   * ![--](assets/image2014-10-3-13-3a44-3a40.png) **カレンダーアイコン**&#x200B;は、イベントの成功を示します。
 
-   * **商談期間**。緑色の領域は、オポチュニティの作成からオポチュニティのクローズ（勝者または敗者）まで、オポチュニティ自体を表します。
+   * **商談期間**。緑の領域は、商談の創出から商談のクローズ（成立または不成立）まで、商談自体を表します。
 
-   * **オポチュニティのライフサイクル**。緑色のオポチュニティ期間の前後の灰色の領域には、オポチュニティに導いたり、オポチュニティに従ったインタラクションが表示されます。
+   * **商談のライフサイクル**。緑色の商談期間の前後の灰色の領域に、商談に導いたインタラクションとその後のインタラクションが表示されます。
 
-   **設定**&#x200B;パネルには、アカウントのユーザーがリストされます。
+   **設定**&#x200B;パネルには、アカウントのリードが一覧表示されます。
 
-   * 括弧&#x200B;**内の**&#x200B;数字は、その連絡先との対話数です。
+   * **括弧内の数**&#x200B;は、その連絡先とのインタラクション数です。
 
-   * ![-](assets/image2014-10-3-13-3a45-3a9.png)黄色 **の** 星は主接触を示します。
+   * ![--](assets/image2014-10-3-13-3a45-3a9.png) **黄色の星**&#x200B;は、メインの連絡先を示します。
 
 
-1. 名前の上にマウスポインターを置くと、その人の肩書とオポチュニティとの関与源が表示されます。
+1. 名前の上にカーソルを置くと、その人の肩書きと商談に関与したソースが表示されます。
 
    ![](assets/image2015-6-23-14-3a43-3a1.png)
 
-1. その人のインタラクションをグラフに含める場合は、チェックボックスを選択します。
+1. その人のインタラクションをグラフに含めるには、このチェックボックスを選択します。
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   グラフは、オポチュニティ内でのインタラクションを表示するように自動調整されます。 この例では、MegaCorpのCEOであるSarah Gellerがこの機会に深く関与していることがすぐにわかります。ただし、この機会にCRMに割り当てられていないSarah Gellerも関与しています。
+   商談でのインタラクションが表示されるようにグラフが自動調整されます。この例では、MegaCorp の CEO である Sarah Geller 氏がこの商談に深く関わっていることがすぐにわかります。ただし、この商談に関する同氏の役割は CRM に割り当てられていませんでした。
 
-1. インタラクションの詳細を表示するには、オレンジ色の点をクリックします。
+1. オレンジ色のドットをクリックすると、インタラクションの詳細が表示されます。
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   この例では、CEOのSarah GellerがWebサイトを何度も訪問し、ブログを購読していることがわかります。 これは、MegaCorpがこの機会に対する関心を、大部分はマーケティングプログラムや資産によって引き起こしたことを示している。
+   この例では、CEO の Sarah Geller 氏が web サイトを複数回訪問し、ブログを購読したことがわかります。これは、MegaCorp のこの商談の中の関心が、マーケティングプログラムやアセットによって大きく動かされたことを示しています。
 
-   タイムライン上のオレンジ色の点をクリックして、オポチュニティの作成と終了に役立ったイベント、プログラム、おもしろい瞬間のストーリーを埋めます。
+   タイムラインに沿ってオレンジ色のドットをクリックして、商談を創出し、クローズに役立ったイベント、プログラム、注目のアクションのストーリーを埋めていきます。
 
    >[!MORELIKETHIS]
    >
-   >[オポチュニティ影響分析計の構成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[商談の影響アナライザーの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
