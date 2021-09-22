@@ -1,24 +1,23 @@
 ---
 unique-page-id: 2360350
-description: ReST APIで使用するカスタムサービスの作成 —Marketoドキュメント — 製品ドキュメント
-title: ReST APIで使用するカスタムサービスの作成
+description: ReST API で使用するカスタムサービスの作成 - Marketo ドキュメント - 製品ドキュメント
+title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ReST APIで使用するカスタムサービスの作成{#create-a-custom-service-for-use-with-rest-api}
+# ReST API で使用するカスタムサービスの作成 {#create-a-custom-service-for-use-with-rest-api}
 
-ReST APIを介してMarketoとの統合を行う場合は、カスタムサービスを作成する必要があります。 これが方法です。
+Marketo との統合に ReST API を使用する場合、カスタムサービスの作成をお勧めします。手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->* [APIのみのユーザーロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [APIのみのユーザーの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [API のみのユーザーの役割を作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [API のみのユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -26,31 +25,31 @@ ReST APIを介してMarketoとの統合を行う場合は、カスタムサー�
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
 >[!TIP]
 >
->[ReST API](https://developers.marketo.com/documentation/rest/)の詳細については、開発者向けのドキュメントを参照してください。 また、必要に応じて、[SOAP API](https://developers.marketo.com/documentation/soap/)も用意しています。
+>[ReST API](https://developers.marketo.com/documentation/rest/) の詳細については、開発者向けドキュメントを参照してください。必要に応じて、[SOAP API](https://developers.marketo.com/documentation/soap/) も用意しています。
 
 >[!NOTE]
 >
->SparkレベルがMarketoの場合は、カスタムサービスを作成できません。
+>Spark レベルの Marketo の場合、カスタムサービスを作成することはできません。
 
-## カスタムサービスの作成{#create-custom-service}
+## カスタムサービスの作成 {#create-custom-service}
 
-1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;をクリックします。
+1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. 「**新しい**」で、「**新しいサービス**」をクリックします。
+1. 「**新規作成**」の下の「**新規サービス**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. サービスの&#x200B;**表示名**&#x200B;を入力します。 **APIのみユーザー** [以前に作成した](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を選択します。
+1. サービスの「**表示名**」を入力します。**先ほど作成した**「[API のみのユーザー](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
 
    >[!NOTE]
    >
-   >一般的なウェビナーサービスには、既にネイティブ統合が用意されています。
+   >一般的なウェビナーサービスに対しては、既にネイティブ統合が行われています。
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
@@ -58,15 +57,15 @@ ReST APIを介してMarketoとの統合を行う場合は、カスタムサー�
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
-   ああ！ サービスが作成されました。次に、アクセスを提供するためのすべての資格情報を取得します。
+   これでサービスが作成されました。次に、アクセス用の認証情報をすべて取得します。
 
-## APIアクセスの資格情報{#credentials-for-api-access}
+## API アクセスの認証情報 {#credentials-for-api-access}
 
-1. **管理者**&#x200B;に移動し、**LaunchPoint**&#x200B;をクリックします。
+1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. 上記で作成したカスタムLaunchPointサービスの&#x200B;**表示の詳細**&#x200B;をクリックします。
+1. 上記で作成したカスタム LaunchPoint サービスの「**詳細を表示**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -74,10 +73,10 @@ ReST APIを介してMarketoとの統合を行う場合は、カスタムサー�
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. 接続の確立の担当者に、**クライアントID**、**クライアントシークレット**、**許可されたユーザー**、**トークン**&#x200B;を提供します。
+1. 接続を確立する担当者に、**クライアント ID**、**クライアントシークレット**、**許可されたユーザー**、**トークン**&#x200B;を提供します。
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
->この情報は共有しないでください。データのバックドアです。 安全に！
+>これらの情報は共有しないでください。データの裏の侵入経路になります。安全な取り扱いを心がけてください。
