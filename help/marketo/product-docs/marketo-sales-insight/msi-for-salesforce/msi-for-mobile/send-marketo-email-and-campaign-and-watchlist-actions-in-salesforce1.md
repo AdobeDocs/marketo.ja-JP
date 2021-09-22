@@ -1,41 +1,40 @@
 ---
 unique-page-id: 7511931
-description: Salesforce1 -Marketoドキュメント — 製品ドキュメントで、Marketoの電子メール、キャンペーン、およびウォッチリストのアクションを送信する
-title: SalesforceでのMarketo電子メール、キャンペーンおよびウォッチリストのアクションの送信1
+description: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforce1でのMarketo電子メール、キャンペーン、ウォッチリストのアクションの送信{#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Salesforce1の「Lead Detail」領域に移動し、「**Related**」タブをクリックします。
+1. Salesforce1 の「リードの詳細」エリアに移動し、「**関連**」タブをクリックします。
 
    ![](assets/one-1.png)
 
-1. dota（小さな3つの点）をクリックします。 下部では、次の中から選択できます。&quot;Marketo追加キャンペーンに&quot;、&quot;Marketo電子メールを送信&quot;、&quot;Marketoの表示&quot;、&quot;追加/Remove from Watchlist&quot;
+1. 縦並びの 3 つのドットをクリックします。画面下部で、「Marketo キャンペーンに追加」、「Marketo メールを送信」、「Marketo で表示」、「ウォッチリストに追加／削除」から選択できます。
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >どのスマートキャンペーンが表示されますか。 「キャンペーンは要求済み」トリガーを持つもの。 「キャンペーンは要求されました](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)」を使用して[トリガーされたキャンペーンを設定する方法を説明します。
+   >どのスマートキャンペーンが表示されるでしょうか。「キャンペーンをリクエスト」トリガーが設定されているキャンペーンです。[「キャンペーンをリクエスト」を使ったトリガー付きスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)を設定する方法を確認してください。
 
-これで、販売員はマーケティング活動に積極的に参加できます。
+これで、セールスチームはマーケティング活動に積極的に参加できるようになります。
 
 >[!NOTE]
 >
 >**例**
 >
->要求に適したスマートキャンペーンは次のように聞こえます。
+>リクエストするものとして適切なスマートキャンペーンには、次のような特徴があります。
 >
->1. 長期的な育成 — 今年予算がない場合
->1. 有効な販売サイクル — 販売員が、自分のメッセージ以外のリードに対するメッセージを望まない場合（マーケティングの一時停止フラグを使用して一時的に登録を解除）。
+>1. 長期のナーチャリング - 今年度は予算がない場合
+>1. アクティブな営業サイクル - セールス担当者が、自分のメッセージのみをリードに送りたい場合（一時的に配信を停止する場合は、マーケティング中断のフラグを使用）
 
 >
 >
-創造力を持って。 販売員は何を自動化したいと思いますか。 彼らに聞いて、電報を打て！
+クリエイティブになりましょう。セールス担当者は何を自動化したいと考えているでしょうか？直接質問してつながりを持ちましょう。
