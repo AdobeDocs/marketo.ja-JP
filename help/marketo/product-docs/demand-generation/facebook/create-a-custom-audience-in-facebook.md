@@ -1,22 +1,21 @@
 ---
 unique-page-id: 4720275
-description: facebookでのカスタムオーディエンスの作成 —Marketoドキュメント — 製品ドキュメント
-title: facebookでカスタムオーディエンスを作成
+description: Facebook でのカスタムオーディエンスの作成- Marketo ドキュメント - 製品ドキュメント
+title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# facebookでカスタムオーディエンスを作成する{#create-a-custom-audience-in-facebook}
+# Facebook でのカスタムオーディエンスの作成 {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [管理セクションのLaunchPointサー](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) ビスとしての追加Facebookカスタムオーディエンス。
->* [facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) の条件に同意します。
+>* 管理者セクションで、[Facebook カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)します。
+>* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約を承認します](https://www.facebook.com/ads/manage/customaudiences/tos.php)。
 
 >
 
@@ -24,52 +23,52 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[Facebook](https://www.facebook.com/help/341425252616329)のカスタムオーディエンスの詳細。
+>詳細については、[Facebook でのカスタムオーディエンス](https://www.facebook.com/help/341425252616329)を参照してください。
 
-1. オーディエンスの作成元となるリードを含むスマートまたは静的なリストを探して選択します。
+1. オーディエンスを作成するリードを含むスマートリストまたは静的リストを探して選択します。
 
    ![](assets/1.png)
 
-1. 「**リード**」タブを選択し、下部の「**Ad Bridge**&#x200B;経由で送信」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部にある「**Ad Bridge を介して送信**」アイコンをクリックします。
 
    ![](assets/222.png)
 
-1. **Facebook**&#x200B;を選択し、**次へ**&#x200B;をクリックします。
+1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/two.png)
 
-1. **オーディエンス**&#x200B;ドロップダウンをクリックし、「**+新規オーディエンス**」を選択します。
+1. 「**オーディエンス**」ドロップダウンをクリックし、「**+ 新規オーディエンス**」を選択します。
 
    ![](assets/four.png)
 
-1. **オーディエンス名**&#x200B;を入力します。 「**更新**」をクリックします。
+1. 「**オーディエンス名**」を入力します。「**更新**」をクリックします。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >複数のFacebook広告アカウントを持っている場合は、追加のドロップダウンが表示され、このオーディエンスを作成する広告アカウントを選択できます。
+   >複数の Facebook 広告アカウントがある場合は、追加のドロップダウンが表示され、このオーディエンスを作成する広告アカウントを選択できます。
 
    >[!TIP]
    >
-   >新しいオーディエンスを、広告セットまたはグループに現在関連付けられている既存の広告と入れ替えますか？ 「**既存のオーディエンスを置き換える**」チェックボックスを選択します。 これを行うと、置き換えられるオーディエンスは&#x200B;****&#x200B;削除されません。
+   >広告セットまたはグループと現在関連付けられている既存のオーディエンスを、新しいオーディエンスに入れ替える場合は、「**既存のオーディエンスを置換**」チェックボックスを選択します。これを行っても、置換されるオーディエンスは&#x200B;**削除されません**。
 
 1. 完了すると、ステータスダイアログが更新されます。
 
    ![](assets/six.png)
 
-   それだ！ facebookでは、**広告マネージャー/オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
+   これで完了です。Facebook では、**広告マネージャ／オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
    >[!NOTE]
    >
-   >facebookに押し出したリストはすべて静的になります。 Marketoのスマートリストは、Facebookのオーディエンスリストを自動的に更新して、転送後に行われた変更を反映しません。
+   >Facebook にプッシュしたすべてのリストは静的になります。Marketo のスマートリストは、Facebook のオーディエンスリストを自動更新しないので、転送後に行われた変更は反映されません。
 
    >[!TIP]
    >
-   >[Marketoのお客様向けのFacebook学習パス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)を参照してください。 これは、Facebookページの作成からMarketoの広告ネットワーク統合を使用したFacebook広告のターゲティングまで、知る必要のあるすべてをカバーします。
+   >詳細は、[Marketo ユーザー向け Facebook ラーニングパス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)を参照してください。Facebook ページの作成から、Marketo の広告ネットワーク統合を使用した Facebook 広告のターゲティングまで、知っておくべきあらゆる情報をカバーしています。
 
    >[!NOTE]
    >
-   >[追加Facebookでカスタムオーディエンスが発生](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Facebook でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
