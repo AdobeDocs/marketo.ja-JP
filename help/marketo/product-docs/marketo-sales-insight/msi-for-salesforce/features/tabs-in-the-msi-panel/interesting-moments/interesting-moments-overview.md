@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2949720
-description: 興味深い瞬間の概要 —Marketoドキュメント — 製品ドキュメント
-title: 興味深い瞬間の概要
+description: 注目のアクションの概要 - Marketo ドキュメント - 製品ドキュメント
+title: 注目のアクションの概要
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 興味深い瞬間の概要{#interesting-moments-overview}
+# 注目のアクションの概要 {#interesting-moments-overview}
 
-おもしろいモーメントフローステップを使用して、リードがスマートキャンペーンで行っているクールなことをセールスチームが明確に把握できます。
+注目のアクションフローステップを使用して、スマートキャンペーンでリードが行っている注目のアクションをセールスチームが把握できるようにします。
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
-1. 使用する注目のモーメントのタイプを選択します。
+1. 使用する注目のアクションのタイプを選択します。
 
    ![](assets/image2014-9-23-16-3a30-3a33.png)
 
-1. 営業チームに表示するテキストを定義します。
+1. セールスチームに表示するテキストを定義します。
 
    ![](assets/image2014-9-23-16-3a30-3a53.png)
 
 >[!TIP]
 >
->**少ない方が多い**。セールスチームと協力して、興味深い瞬間が実際に興味深いものであることを確認します。
+>**少ないほうが効果的です**。セールスチームと協力して、注目のアクションが実際に注目するべきものであることを確認します。
 
-また、興味深い瞬間にトークンを使用して、非常に役立つ動的な説明を作成することもできます。
+また、注目のアクションにトークンを使用して動的な説明を作成すると、大いに役立ちます。
 
 >[!MORELIKETHIS]
 >
->* [興味深い瞬間の使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [注目のアクションの使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
