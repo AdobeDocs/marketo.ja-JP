@@ -1,31 +1,30 @@
 ---
 unique-page-id: 4720314
-description: Sales Insight電子メールパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
-title: セールスインサイトのメール効果レポート
+description: Sales Insight のメール効果レポート - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight のメール効果レポート
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# セールスインサイトのメール効果レポート {#sales-insight-email-performance-report}
+# Sales Insight のメール効果レポート {#sales-insight-email-performance-report}
 
-Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で送信される電子メールのパフォーマンスを表示します。
+Salesforce、Microsoft Dynamics、Gmail または Outlook プラグインを通じて送信されるメールのパフォーマンスを表示します。
 
-## レポートの生成{#generate-a-report}
+## レポートの生成 {#generate-a-report}
 
-1. 「**解析**」をクリックします。
+1. 「**分析**」をクリックします。
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. [**Sales Insight電子メールのパフォーマンス**]をクリックします。
+1. 「**Sales Insight のメール効果**」をクリックします。
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. 「**セットアップ**」タブをクリックし、必要な値を選択します。
+1. 「**設定**」タブをクリックし、必要な値を選択します。
 
    ![](assets/three.png)
 
@@ -33,25 +32,25 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   OK！これで、営業チームから送信された電子メールのパフォーマンスを確認できます。
+   これで完了です。セールスチームから送信されたメールの効果を確認できます。
 
    >[!NOTE]
    >
-   >Sales Insight経由で送信された電子メールの配信ステータスはキャプチャされず、このレポートやアクティビティログには含まれません。
+   >配信ステータスは、Sales Insight を通じて送信されたメールに対しては取得されず、このレポートやアクティビティログには含まれません。
 
 >[!TIP]
 >
->電子メールの名前をクリックして、電子メールプレビューで開きます。
+>メールの名前をクリックして、メールプレビューツールで開きます。
 
-## 販売担当者別のグループ{#group-by-sales-rep}
+## セールス担当者別グループ {#group-by-sales-rep}
 
-設定を変更することで、このレポートを販売担当者別にグループ化して表示できます。
+設定を変更すると、このレポートをセールス担当者別グループで表示できます。
 
-1. 「**セットアップ**」をクリックします。 **電子メール**&#x200B;を重複クリックします。
+1. 「**設定**」をクリックします。「**電子メール**」をダブルクリックします。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 「Group Emails by **Sales Rep**」を選択します。
+1. 「**セールス担当者**&#x200B;別グループ」を選択します。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -63,4 +62,4 @@ Salesforce、Microsoft Dynamics、GmailまたはOutlookプラグイン経由で�
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
-   かっこいいだろ？ これで、販売担当者別にグループ化された電子メールのパフォーマンスを確認できます。
+   簡単ですね。これで、セールス担当者別にグループ化されたメールの効果を確認できます。
