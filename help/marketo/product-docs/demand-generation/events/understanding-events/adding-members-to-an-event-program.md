@@ -1,33 +1,32 @@
 ---
 unique-page-id: 37355758
-description: イベントプログラムへのメンバーの追加 —Marketoドキュメント — 製品ドキュメント
+description: イベントプログラムへのメンバーの追加 - Marketo ドキュメント - 製品ドキュメント
 title: イベントプログラムへのメンバーの追加
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# イベントプログラムへのメンバの追加{#adding-members-to-an-event-program}
+# イベントプログラムへのメンバーの追加 {#adding-members-to-an-event-program}
 
-この記事は、イベントの上限またはイベントの目標を利用しているユーザーにのみ適用されます。
+この記事は、イベント上限またはイベントゴールを利用するユーザーにのみ適用されます。
 
 >[!CAUTION]
 >
->人のリストをイベントプログラムに直接インポートすると、目標追跡レポートおよびイベント上限の進行状況レポートで、これらのレコードが実際の登録数にカウントされなくなります。 次の手順に従って、レコードが確実にカウントされるようにします。
+>イベントプログラムにユーザーのリストを直接インポートすると、これらのレコードがゴールトラッキングレポートおよびイベント上限進行状況レポートの実際の登録でカウントされなくなります。以下の手順に従って、レコードが確実にカウントされるようにします。
 
-1. ユーザーを作成して[静的なリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)に追加します。
+1. リードを作成し、[静的リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)します。
 
 1. [スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 手順2で作成したスマートキャンペーンのスマートリストで、**リストのメンバー**&#x200B;フィルターを探して追加します。
+1. 手順 2 で作成したスマートキャンペーンのスマートリストで、**リストのメンバー**&#x200B;フィルターを探して追加します。
 
    ![](assets/three.png)
 
-1. 手順1で作成したリストを探して選択します。
+1. 手順 1 で作成したリストを見つけて選択します。
 
    ![](assets/four.png)
 
@@ -35,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. イベントプログラムを探して選択します。
+1. イベントプログラムを見つけて選択します。
 
    ![](assets/six.png)
 
-1. ステータスを選択します。
+1. 目的のステータスを選択します。
 
    ![](assets/seven.png)
 
-1. 「スケジュール」タブで、「**1回実行**」をクリックします。
+1. 「スケジュール」タブで、「**1 回実行**」をクリックします。
 
    ![](assets/eight.png)
 
@@ -51,4 +50,4 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. スマート・キャンペーンの実行後、メンバーはプログラムに追加され、目標追跡とイベント上限の進行状況の計算でカウントされます。
+1. スマートキャンペーンの実行後に、メンバーがプログラムに追加されます。ゴールトラッキングやイベント上限進行状況が正しく計測されるようになります。
