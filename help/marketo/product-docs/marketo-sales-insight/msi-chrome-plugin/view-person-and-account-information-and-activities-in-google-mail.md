@@ -1,52 +1,51 @@
 ---
 unique-page-id: 10095358
-description: Googleメール —Marketoドキュメント — 製品ドキュメントの表示担当者とアカウントアクティビティ
-title: Googleメールの表示担当者とアカウント情報およびアクティビティ
+description: Google メールでリードとアカウントの情報とアクティビティを表示 - Marketo ドキュメント - 製品ドキュメント
+title: Google メールでリードとアカウントの情報とアクティビティを表示
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Googleメールの表示担当者とアカウント情報およびアクティビティ{#view-person-and-account-information-and-activities-in-google-mail}
+# Google メールでリードとアカウントの情報とアクティビティを表示 {#view-person-and-account-information-and-activities-in-google-mail}
 
-## Googleメール{#view-activities-in-google-mail}の表示アクティビティ
+## Google メールでのアクティビティの表示 {#view-activities-in-google-mail}
 
-コンテキストMarketoインサイトペインを使用して、アカウント情報と最近のアクティビティを表示します。
+コンテキスト情報の豊富な Marketo Insights ペインを使って、リードアカウントの情報と最近のアクティビティを確認できます。
 
-このウィンドウは、フルスクリーン構成ウィンドウと、通常のGoogleメール閲覧ウィンドウの両方に表示されます。 構成表示では、ペインに、「宛先」行に最初に入力されたユーザーの情報とアクティビティが表示されます。 閲覧表示のパネルには、閲覧中の電子メールの送信者に関する情報とアクティビティが表示されます。
+このペインは、全画面モードのメール作成ウィンドウでも、通常の Google メール閲覧モードでも表示されます。作成ウィンドウの場合は、「宛先」フィールドに入力されている最初の人に関する情報とアクティビティが表示され、閲覧モードの場合は、今読んでいるメールの送信者に関する情報とアクティビティが表示されます。
 
-[人物のアクティビティ]タブには、名前、タイトル、画像など、人物に関する関連情報が表示されます。 また、Webページへのアクセス、フォームの入力、リンクのクリック、イベントへの参加、電子メールの開封など、電子メールの送信後に発生した最新のアクティビティを確認することもできます。
+「リードのアクティビティ」タブには、名前、肩書き、写真など、リードに関する関連情報が表示されます。Web ページへの訪問、フォームの入力、リンクのクリック、イベント参加、メールの開封など、メール送信後に発生した最新のアクティビティについても確認できます。
 
 ![](assets/1.png)
 
-「アカウントのアクティビティ」タブに、会社名、WebサイトのURL、場所など、関連するアカウント情報が表示されます。 タブには、最新のアカウントアクティビティも表示されます。 アカウントは、個人ドメインで識別されます。 購読内のSales Insightユーザーが、それらに対応したことがある場合、そのリストにアクティビティが表示されます。
+「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。同じタブに、アカウントの最新のアクティビティも示されます。アカウントは、リードのドメイン別に識別されます。サブスクリプションにおけるセールスインサイトのユーザーが、既にメールをやりとりしている場合には、アクティビティがリストに表示されます。
 
 ![](assets/2.png)
 
-チームが販売の電子メールをそのユーザーと交換したことがない場合、アクティビティは表示されません。
+まだリードとセールスメールをやり取りしていない場合、アクティビティは表示されません。
 
 ![](assets/3.png)
 
-アイコンをクリックして、パネルを折りたたむ。
+アイコンをクリックすると、ペインが縮小されます。
 
 ![](assets/4.png)
 
-Marketoアイコンをクリックして、パネルを展開します。
+Marketo アイコンをクリックすると、ペインが拡大されます。
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Google Chromeの表示アクティビティ{#view-activities-in-google-chrome}
+## Google Chrome でのアクティビティの表示 {#view-activities-in-google-chrome}
 
-また、Google Chromeのグローバルアクティビティペインを使用すると、最近対応したすべてのユーザーに対して発生した最新のアクティビティの完全なリストを確認できます。 これは、アイコン上の未読アクティビティの数を継続的に表示する、リアルタイムに更新されたフィードです。
+また、Google Chrome のグローバルアクティビティペインを使用して、最近やり取りしたすべての人に対して発生した最新のアクティビティの完全なリストを確認できます。これは、アイコンに未読のアクティビティの数を継続的に表示する、リアルタイムに更新されたフィードです。
 
-Marketoアイコンをクリックして、パネルを開きます。
+Marketo アイコンをクリックして、ペインを開きます。
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
 >[!MORELIKETHIS]
 >
->[Google ChromeでのMarketoインサイトの使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Google Chrome への Marketo Insights の使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
