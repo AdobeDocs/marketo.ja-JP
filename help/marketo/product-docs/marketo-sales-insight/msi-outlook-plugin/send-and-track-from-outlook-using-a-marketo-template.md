@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2949283
-description: OutlookからOutlookテンプレートを使用して送信および追跡する —Marketoドキュメント — 製品ドキュメント
-title: Marketoテンプレートを使用したOutlookからの送信と追跡
+description: Marketo テンプレートを使用した Outlook からの送信とトラック - Marketo ドキュメント - 製品ドキュメント
+title: Marketo テンプレートを使用した Outlook からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# OutlookからMarketoテンプレートを使用して送信および追跡する{#send-and-track-from-outlook-using-a-marketo-template}
+# Marketo テンプレートを使用した Outlook からの送信とトラック {#send-and-track-from-outlook-using-a-marketo-template}
 
-マーケティングチームがテンプレートを利用可能にしている場合は、それらを使用して電子メールの作成時に時間を節約できます。
+マーケティングチームがテンプレートを利用できるようにしている場合、この機能を使用してメールを作成する際の時間を節約できます。
 
-1. Microsoft Outlookを開き、**Marketoメッセージ**&#x200B;をクリックします。
+1. Microsoft Outlook を開き、「**Marketo メッセージ**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 使用するテンプレートを選択し、プレビューして、「**OK**」をクリックします。
+1. 目的のテンプレートを選択し、プレビューして、「**OK**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. すべての編集を行い、「**送信して追跡**」をクリックします。
+1. 必要な編集をすべて行ってから、「**送信してトラック**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
    >[!NOTE]
    >
-   >トークンは、アドインではサポートされていません。 テンプレート内にある可能性のある要素をすべて削除します。
+   >アドインでは、トークンはサポートされません。テンプレートにトークンがある場合は、削除してください。
 
-1. プレビューをチェックアウトし、正しく表示されることを確認して、[**送信**]をクリックします。
+1. プレビューを確認し、問題がないことを確認して、「**送信**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   それで行け！ 最高のマーケティングチームが作ったテンプレートを使って、多くの時間を節約できました。
+   完成です。マーケティングチームが作成した便利なテンプレートを使うことで、多くの時間を節約することができました。
 
 >[!MORELIKETHIS]
 >
->[Marketoのリードからの受信メールのログ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[リードから着信したメールを Marketo でログに記録](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
