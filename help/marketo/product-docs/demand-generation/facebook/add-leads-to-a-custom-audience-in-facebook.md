@@ -1,38 +1,37 @@
 ---
 unique-page-id: 11376700
-description: facebook追加でのカスタムオーディエンス-Marketoドキュメント — 製品ドキュメントへ
-title: 追加Facebookでカスタムオーディエンスが発生
+description: Facebook でのカスタムオーディエンスへのリードの追加 - Marketo ドキュメント - 製品ドキュメント
+title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 追加Facebookにカスタムオーディエンス{#add-leads-to-a-custom-audience-in-facebook}を導く
+# Facebook でのカスタムオーディエンスへのリードの追加 {#add-leads-to-a-custom-audience-in-facebook}
 
-facebookには既にカスタムオーディエンスがあり、さらにリードを追加したい場合は、 これが方法です。
+既に Facebook にカスタムオーディエンスがあり、その他のリードを追加する場合、手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->* [facebookでカスタムオーディエンスを作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [facebookアカウント内でFacebookのカスタムオーディエンス](https://www.facebook.com/ads/manage/customaudiences/tos.php) 条件を受け入れます。
+>* [Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約](https://www.facebook.com/ads/manage/customaudiences/tos.php)を承認します。
 
 >
 
 
 
-1. 追加するリードを含むスマートまたは静的なリストを探して選択します。
+1. 追加するリードを含むスマートリストまたは静的リストを探して選択します。
 
    ![](assets/one.png)
 
-1. 「**リード**」タブを選択し、下部の「**Ad Bridge**&#x200B;経由で送信」アイコンをクリックします。
+1. 「**リード**」タブを選択し、下部にある「**Ad Bridge を介して送信**」アイコンをクリックします。
 
    ![](assets/two-1.png)
 
-1. **Facebook**&#x200B;を選択し、**次へ**&#x200B;をクリックします。
+1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/three.png)
 
@@ -42,15 +41,15 @@ facebookには既にカスタムオーディエンスがあり、さらにリー
 
    >[!NOTE]
    >
-   >**オーディエンス追加につながり**:カスタムサブタイプを持つFacebookオーディエンスのみが使用できます。\
-   >**オーディエンス**：からリードを削除facebookオーディエンスから静的リストまたはスマートのリードを削除します。
+   >**オーディエンスにリードを追加**：カスタムサブタイプを持つ Facebook オーディエンスのみを使用できます。\
+   >**オーディエンスからリードを削除**：静的リストまたはスマートリストのリードを Facebook オーディエンスから削除します。
 
 1. 完了すると、ステータスが更新されます。
 
    ![](assets/five-1.png)
 
-   それだけだ！
+   以上です。
 
    >[!NOTE]
    >
-   >[facebookでカスタムオーディエンスを作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
