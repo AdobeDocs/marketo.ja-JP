@@ -1,50 +1,49 @@
 ---
 unique-page-id: 7504128
-description: スマートリスト目標の作成 —Marketoドキュメント — 製品ドキュメント
-title: スマートリスト目標の作成
+description: スマートリストゴールの作成 - Marketo ドキュメント - 製品ドキュメント
+title: スマートリストゴールの作成
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# スマートリスト目標の作成{#create-a-smart-list-goal}
+# スマートリストゴールの作成 {#create-a-smart-list-goal}
 
-目標とは、進行状況を追跡し、チームの意欲を引き出す方法です。 スマートリストと組み合わせてMarketoの様々な状況を追跡できます さらに、スマートリストの目標を設定すると、2時間ごとに自動的に更新されます。
+ゴールとは、進行状況を追跡し、チームを動機付けるための機能です。スマートリストと組み合わせて、Marketo で様々な操作をトラックできます。さらに、スマートリストゴールを設定すると、プレゼンテーションで使用されると 2 時間ごとに自動的に更新されます。
 
-プレゼンテーションと同様、目標は[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
+プレゼンテーションと同様、ゴールも[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
 
 1. **カレンダー**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 右下の&#x200B;**プレゼンテーション**&#x200B;をクリックします。
+1. 右下隅の「**プレゼンテーション**」をクリックします。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 「**目標**」タブを選択します。
+1. 「**ゴール**」タブを選択します。
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. **スマートリスト目標**&#x200B;をキャンバスにドラッグ&amp;ドロップします。
+1. 「**スマートリストゴール**」をキャンバスにドラッグ&amp;ドロップします。
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. 目標の名前を入力し、**目標ターゲット**&#x200B;を入力します。 「**作成**」をクリックします。
+1. ゴールの名前を入力し、「**ゴールターゲット**」を入力します。「**作成**」をクリックします。
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [スマートリストを定義します](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)。可能性は無限だ！
+1. [スマートリストの定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)を参照してください。可能性は無限です。
 
    ![](assets/mql.png)
 
-1. スマートリストの設定が完了したら、「**閉じる**」ボタンをクリックして、前のタブに戻ります。
+1. スマートリストがすべて設定されたら、「**閉じる**」ボタンをクリックし、前のタブに戻ります。
 
    ![](assets/mql2.png)
 
-   見ろ！ スマートリストの目標が作成されました。
+   確認してみてください。スマートリストゴールが作成されました。
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)
