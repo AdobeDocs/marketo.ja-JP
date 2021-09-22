@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10097873
-description: 予測コンテンツアクティビティ用のスマートリストの定義 —Marketoドキュメント — 製品ドキュメント
-title: 予測コンテンツアクティビティのためのスマートリストの定義
+description: 予測コンテンツアクティビティのスマートリストの定義 - Marketo ドキュメント - 製品ドキュメント
+title: 予測コンテンツアクティビティのスマートリストの定義
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+source-git-commit: ''
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 予測コンテンツアクティビティ用のスマートリストの定義{#define-a-smart-list-for-predictive-content-activities}
+# 予測コンテンツアクティビティのスマートリストの定義 {#define-a-smart-list-for-predictive-content-activities}
 
-スマートキャンペーンでスマートリストを定義する際に、トリガーやフィルターで予測コンテンツアクティビティを使用できます。 [リッチメディアテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[コンテンツレコメンデーションバー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)、または[電子メール](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を使用して、予測コンテンツをクリックしたユーザーに対するアクションをトリガーできます。
+スマートキャンペーンでスマートリストを定義するとき、「予測コンテンツ」の活動をトリガーとフィルターで使用できます。[リッチメディアテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[コンテンツレコメンデーションバー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)、または[メール](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を使用して、予測コンテンツをクリックするすべての人に対してアクションをトリガーできます。
 
 1. スマートキャンペーンで、「**スマートリスト**」タブに移動します。
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >賢いリストは素晴らしい事をできます 詳しくは、[スマートリストディープダイブ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+   >スマートリストはとても便利です。詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
 1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
@@ -29,9 +28,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >トリガーを持つスマートキャンペーンは、トリガーモードで実行されます。 このイベントは、トリガーされたイベントと追加されたフィルターに基づいて、一度に1人のユーザーに対して実行されます。
+   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
 
-1. **名前**&#x200B;ドロップダウンをクリックし、演算子を選択します。
+1. 「**名前**」ドロップダウンをクリックし、演算子を選択します。
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. 追加&#x200B;**型**&#x200B;制約。
+1. **タイプ**&#x200B;の制約を追加します。
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,29 +46,29 @@ ht-degree: 0%
 
    ![](assets/pc-add-constraint.png)
 
-1. 予測コンテンツに電子メールソースを使用している場合は、「電子メール&#x200B;**」トリガーに**「リンクをクリック」を追加します。 電子メールを選択し、**true**&#x200B;として定義された&#x200B;**Is Predictive**&#x200B;制約を追加します。
+1. 予測コンテンツにメールソースを使用する場合は、「**メール内リンクをクリック**」トリガーを追加します。メールを選択し、「**予測である**」制約（**true** と定義）を追加します。
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
-1. 必要に応じ追加て、その他のフィルター。
+1. 必要に応じて、その他のフィルターを追加します。
 
    ![](assets/clicked-predictive-content-filter.png)
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方があるスマートキャンペーンでは、トリガーが一番上に表示されます。 トリガーされると、フィルター条件を満たすユーザーのみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。トリガーされると、フィルター条件を満たす人のみがフローを通過します。
 
    >[!NOTE]
    >
-   >複数のトリガーを使用する場合、トリガーのいずれか1つが有効になると、人はフローに入ります。
+   >複数のトリガーを使用する場合、いずれかのトリガーが有効化されると、フローに進みます。
 
-   一連のユーザーに対してキャンペーンを同時に実行するには、[バッチスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)のスマートリストを定義する方法を学びます。
+   一連のリードに対してキャンペーンを同時に実行するには、[バッチスマートキャンペーンのスマートリストを定義する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)方法を参照してください。
 
    >[!MORELIKETHIS]
    >
-   >* [スマートキャンペーンのスマートリストの定義 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Webパーソナライゼーションアクティビティ用のスマートリストの定義](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >* [Webリッチメディアの予測コンテンツを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >* [コンテンツレコメンデーションバーの有効化](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Web パーソナライゼーションアクティビティのスマートリストの定義](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [Web リッチメディアの予測コンテンツを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [コンテンツレコメンデーションバーを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 
