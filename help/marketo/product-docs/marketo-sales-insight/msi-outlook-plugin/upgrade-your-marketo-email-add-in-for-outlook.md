@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2949279
-description: Outlook用のMarketo電子メールイ追加ンをアップグレードする —Marketoドキュメント — 製品ドキュメント
-title: Outlook用のMarketo電子メールイ追加ンをアップグレードする
+description: Outlook 用 Marketo メールアドインのアップグレード - Marketo ドキュメント - 製品ドキュメント
+title: Outlook 用 Marketo メールアドインのアップグレード
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '405'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Outlook用のMarketo電子メールイ追加ンをアップグレードする{#upgrade-your-marketo-email-add-in-for-outlook}
+# Outlook 用 Marketo メールアドインのアップグレード {#upgrade-your-marketo-email-add-in-for-outlook}
 
-Outlook用のMarketo電子メールインの新しいバージョンが利用可能にな追加ったら、次の手順に従ってアップグレードします。
+Outlook 用 Marketo メールアドインの新しいバージョンが利用可能になったら、次の手順に従ってアップグレードします。
 
 >[!NOTE]
 >
->2010年10月1日現在、Outlookプラグインの最新バージョンでは、オフラインモードがサポートされなくなりました。 これは、10/1以降にインストール/アップグレードした後に有効になります。
+>2020年10月1日時点で、最新バージョンの Outlook プラグインはオフラインモードのサポートを停止しました。これは、10月1日以降にインストール／アップグレードした後に有効になります。
 
-## インストーラーのダウンロード{#download-installer}
+## インストーラーのダウンロード {#download-installer}
 
-お使いのバージョンのMicrosoft Outlookに適したインストーラーをダウンロードします。
+お使いのバージョンの Microsoft Outlook に適したインストーラーをダウンロードします。
 
 <table> 
  <colgroup> 
@@ -34,36 +33,36 @@ Outlook用のMarketo電子メールインの新しいバージョンが利用可
  <tbody> 
   <tr> 
    <th><br></th> 
-   <th colspan="2">単一ユーザー招待インストール</th> 
-   <th colspan="2">エンタープライズキーのインストール</th> 
+   <th colspan="2">シングルユーザー招待によるインストール</th> 
+   <th colspan="2">エンタープライズキーによるインストール</th> 
   </tr> 
   <tr> 
-   <td><strong>Outlookバージョン</strong></td> 
-   <td><strong>32ビット</strong></td> 
-   <td><strong>64ビット</strong></td> 
-   <td><strong>32ビット</strong></td> 
-   <td><strong>64ビット</strong></td> 
+   <td><strong>Outlook バージョン</strong></td> 
+   <td><strong>32 ビット</strong></td> 
+   <td><strong>64 ビット</strong></td> 
+   <td><strong>32 ビット</strong></td> 
+   <td><strong>64 ビット</strong></td> 
   </tr> 
   <tr> 
    <td>Outlook 2000</td> 
-   <td>非対応</td> 
-   <td>該当なし</td> 
-   <td>非対応</td> 
-   <td>該当なし</td> 
+   <td>サポート対象外</td> 
+   <td>なし</td> 
+   <td>サポート対象外</td> 
+   <td>なし</td> 
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td>該当なし</td> 
-   <td>非対応</td> 
-   <td>該当なし</td> 
+   <td>なし</td> 
+   <td>サポート対象外</td> 
+   <td>なし</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td>該当なし</td> 
-   <td>非対応</td> 
-   <td>該当なし</td> 
+   <td>なし</td> 
+   <td>サポート対象外</td> 
+   <td>なし</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
@@ -95,17 +94,17 @@ Outlook用のMarketo電子メールインの新しいバージョンが利用可
   </tr> 
   <tr> 
    <td>Outlook for Mac</td> 
-   <td>非対応</td> 
-   <td>非対応</td> 
-   <td>非対応</td> 
-   <td>非対応</td> 
+   <td>サポート対象外</td> 
+   <td>サポート対象外</td> 
+   <td>サポート対象外</td> 
+   <td>サポート対象外</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook Web App</td> 
-   <td colspan="1">非対応</td> 
-   <td colspan="1">非対応</td> 
-   <td colspan="1">非対応</td> 
-   <td colspan="1">非対応</td> 
+   <td colspan="1">Outlook web アプリケーション</td> 
+   <td colspan="1">サポート対象外</td> 
+   <td colspan="1">サポート対象外</td> 
+   <td colspan="1">サポート対象外</td> 
+   <td colspan="1">サポート対象外</td> 
   </tr> 
   <tr> 
    <td colspan="1">Office 365*</td> 
@@ -117,13 +116,13 @@ Outlook用のMarketo電子メールインの新しいバージョンが利用可
  </tbody> 
 </table>
 
-*Office 365バージョン：Windowsクライアントのみ（Windows 10、EnterpriseまたはProの場合）。
+*Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
 
 ## アップグレード {#upgrade}
 
-1. [Microsoft Outlookのバージョン](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)を特定します。
+1. [Microsoft Outlook のバージョン](https://support.microsoft.com/ja-jp/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)を特定します。
 
-1. 上のリストからバージョンを選択します。
+1. 上のリストからお使いのバージョンを選択します。
 
 1. インストーラーを実行します。
 
@@ -135,19 +134,19 @@ Outlook用のMarketo電子メールインの新しいバージョンが利用可
 
    >[!NOTE]
    >
-   >場合によっては、データが欠落することがあります。 登録電子メールからコピーして、Outlookを閉じます。
+   >場合によっては、データが不足していることがあります。登録メールからコピーして、Outlook を閉じます。
 
-1. Microsoft Outlookを閉じます。
+1. Microsoft Outlook を閉じます。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. すべての情報が事前入力されていることに注意してください。 [**次へ**]をクリックします。
+1. 情報はすべて事前入力されています。**次へ**&#x200B;をクリックします。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
    >[!TIP]
    >
-   >インストールに失敗した場合は、IT部門と協力して、HTTPSトラフィックがブロックされないようにします。 インストーラーでHTTPSトラフィックが開いている必要があります。
+   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないかどうか確認してください。インストーラーを実行するには HTTPS トラフィックが必要です。
 
 1. 「**次へ**」をクリックして、デフォルトの場所にインストールします。
 
@@ -157,16 +156,16 @@ Outlook用のMarketo電子メールインの新しいバージョンが利用可
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. インストールが完了しました。 「**閉じる**」をクリックします。
+1. インストールが完了しました。「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. 次に、Microsoft Outlookを開いて、[Marketo]ボタンの最新バージョンを表示します。
+1. Microsoft Outlook を開くと、Marketo ボタンの最新バージョンが表示されます。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketo電子メールインを使用した電子メールの送信追加と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketoテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
