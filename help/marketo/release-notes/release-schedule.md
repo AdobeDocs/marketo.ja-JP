@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: リリーススケジュール - Marketo ドキュメント - 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 85%
@@ -37,17 +37,17 @@ _リリース日は変更される場合があります_
    <th width="250px">進捗</th> 
   </tr> 
   <tr> 
-   <td colspan="1">1月21日</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">1月21日</a></td> 
    <td colspan="1">2021年1月15日</td> 
    <td colspan="1">発送済み</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21年5月</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">21年5月</a></td> 
    <td colspan="1">2021年5月7日</td> 
    <td colspan="1">発送済み</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21年8月</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">21年8月</a></td> 
    <td colspan="1">2021年8月20日</td> 
    <td colspan="1">発送済み</td> 
   </tr> 
