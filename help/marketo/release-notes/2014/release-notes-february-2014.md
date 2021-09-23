@@ -1,66 +1,65 @@
 ---
 unique-page-id: 2951048
-description: リリースノート — 2014年2月 —Marketoドキュメント — 製品ドキュメント
-title: リリースノート — 2014年2月
+description: リリースノート - 2014年2月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '358'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2014年2月{#release-notes-february}
+# リリースノート：2014年2月 {#release-notes-february}
 
-2014年2月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクが必ず戻ってきてください。
+2014年2月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
 
 ## 勝者条件のエンゲージメントスコア {#engagement-score-as-winning-criteria}
 
-[エンゲージメントスコアを使用して、A/B分割テストまたはChampion/Challengerテストでの勝者のバリアントを決定します。](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) 十分なエンゲージメントスコアを与えるために、テストは24時間以上実行する必要があります。
+[エンゲージメントスコアを使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)して、A/B 分割テストまたはチャンピオン／挑戦者テストの勝者バリアントを決定します。適切なエンゲージメントスコアを得るには、テストを 24 時間以上実行する必要があります。
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## 電子メールプログラム結果タブ{#email-program-results-tab}
+## 「メールプログラム結果」タブ {#email-program-results-tab}
 
-[電子メールプログラム用に記録された](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) 結果とアクティビティの表示。
+メールプログラムに記録された[結果とアクティビティを表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)します。
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## {#people-leads-blocked-from-mailing}メール送信をブロックした人/リード
+## メーリングからブロックされたリード {#people-leads-blocked-from-mailing}
 
-[電子メール番号の受信をブロックする人/リードをクリックして、登録解除、黒色で表示、電子メールアドレスが無効または空白である、またはマーケティングの一時停止により、電子メールを受信しないユーザーを確認します。](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 
+[メーリング番号からブロックされたリードをクリックして](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)、購読解除、ブロックリストへの登録、無効な電子メールアドレスや空白の電子メールアドレス、またはマーケティングの中断が原因でメールを受信しないユーザーを確認します。
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
-## 電子メールプログラムデータのエクスポート{#export-email-program-data}
+## メールプログラムデータのエクスポート {#export-email-program-data}
 
-[ABテストのバリアントデータを含む電子メール指標をExcel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)にエクスポートします。
+AB テストバリアントデータを含む[メール指標を Excel にエクスポートします](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)。
 
-## エンゲージメントストリームのパフォーマンスレポートのエンゲージメントスコア{#engagement-score-in-engagement-stream-performance-report}
+## エンゲージメントストリーム効果レポートのエンゲージメントスコア {#engagement-score-in-engagement-stream-performance-report}
 
-エンゲージメントプログラムのコンテンツがどの程度効果的かを確認できるように、エンゲージメントスコアを[エンゲージメントストリームのパフォーマンスレポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)に追加しました。
+エンゲージメントプログラム内のコンテンツの効果を確認できるように、エンゲージメントスコアを[エンゲージメントストリーム効果レポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)に追加しました。
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## メールプログラムの詳細分析 {#program-details-in-email-analysis}
 
-[これで、電子メール指標をプログラム名、チャネル、タグ別にグループ化できます](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。電子メールがプログラムのローカルアセットである場合、プログラム名が「電子メール名」フィールドに追加されます。 新しいプログラム名フィールドには、電子メールを送信したスマートキャンペーンのプログラム名が表示されます。 電子メールが別のプログラムのローカルアセットである場合は、「電子メール名」フィールドのプログラムと異なる場合があります。
+[プログラム名、チャネル、タグ別にメール指標をグループ化できます](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)。電子メールがプログラムのローカルアセットの場合、プログラム名が「電子メール名」フィールドに追加されます。新しい「プログラム名」フィールドに、メールを送信したスマートキャンペーンのプログラム名が表示されます。このプログラム名は、電子メールが別のプログラムのローカルアセットである場合、「電子メール名」フィールドのプログラムとは異なる可能性があります。
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
-## クリックリンクフィルターとトリガーの更新{#update-to-clicks-link-filters-and-trigger}
+## 「リンクをクリック」フィルターとトリガーのアップデート {#update-to-clicks-link-filters-and-trigger}
 
-次のフィルター名とトリガー名が更新されました。
+次のフィルター名とトリガー名がアップデートされました。
 
-* Webページ上のリンクをクリックするためのリンクのクリック数
-* Webページ上のクリックされたリンクへのクリックされたリンク
-* Webページ上のクリックされないリンクへのリンクがクリックされていない
+* 「リンクをクリック」から「Web ページのリンクをクリック」に更新
+* 「クリック済みリンク」から「Web ページのクリック済みリンク」に更新
+* 「クリック済みリンクでない」から「Web ページのクリック済みリンクでない」に更新
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 
-## フォーム 2.0 の強化 {#forms-enhancements}
+## Forms 2.0 の強化 {#forms-enhancements}
 
-Forms2.0には、このリリースでの「Quality of Life」の更新がいくつかあります。 埋め込みフォームでプログレッシブプロファイルを有効にするほかに、表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、高度な「ありがとうございます」ページ、非表示フィールドなど、エディターのより高度な機能[を使いやすくするワークフローとUXの変更を行いました。
+このリリースでは、Forms 2.0 の品質まわりのアップデートをいくつか行いました。埋め込みフォームでプログレッシブプロファイリングを有効にするほか、[表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、高度な「ありがとうございます」ページ、非表示フィールドなど、エディターの高度な機能を使いやすくするワークフローと UX の変更を加えました。
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)
