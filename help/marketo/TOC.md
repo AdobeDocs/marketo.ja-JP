@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9ebfc04a9c9d81137cd9dfdd8f19dde895592c7c
+source-git-commit: ff87419faf7a8cbe59ce781b892083475476ce61
 workflow-type: tm+mt
 source-wordcount: '8099'
 ht-degree: 40%
