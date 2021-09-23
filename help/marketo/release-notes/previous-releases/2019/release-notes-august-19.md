@@ -3,10 +3,10 @@ unique-page-id: 27656786
 description: リリースノート - 2019年8月20日 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2019年8月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## コア Marketo エンゲージ {#core-marketo-engage}
 
-* **拡張可能なウェビナーフレームワーク**：Marketo の新しい標準搭載ウェビナーフレームワーク（[2019 年冬季リリースノート](/help/marketo/release-notes/2019/release-notes-winter-19.md)で導入）により、時間を節約できます。このフレームワークは、ウェビナープロバイダーから Marketo に、またその逆にシームレスにデータを渡します。この新しいフレームワークで、Cvent と Zoom がご利用いただけるようになりました。
+* **拡張可能なウェビナーフレームワーク**:Marketoの標準搭載ウェビナーフレームワーク（Winter &#39;19リリースノートで導入）により、ウェビナープロバイダーからMarketoに、またはその逆にシームレスにデータを渡すので、時間を節約できます。 この新しいフレームワークで、Cvent と Zoom がご利用いただけるようになりました。
 * **スマートキャンペーン API のアップデート**：CRUD（作成、読み取り、更新、削除）インターフェイスを完成させながら、スマートキャンペーンのライフサイクル機能を管理します。
 * **メールヘッダー更新 API の変更**：メールヘッダー更新 API では、件名行などのヘッダーフィールドを更新するためのテンプレートをメールに添付する必要がなくなりました。
 
