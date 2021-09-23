@@ -1,79 +1,78 @@
 ---
 unique-page-id: 4720253
-description: リリースノート — 2014年12月 —Marketoドキュメント — 製品ドキュメント
-title: リリースノート — 2014年12月
+description: リリースノート - 2014年12月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2014年12月{#release-notes-december}
+# リリースノート：2014年12月 {#release-notes-december}
 
-2014年12月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 リリース後は、各機能の詳細記事へのリンクを必ず戻して参照してください。
+2014年12月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
-## 販売インサイトレポート{#sales-insight-reports}
+## Sales Insight レポート {#sales-insight-reports}
 
-[Sales Insight電子メールパフォーマンスレポート](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)では、電子メールおよび販売担当者別の電子メール指標を表示できます。 Salesforce、Microsoft Dynamics、Outlookプラグイン、Gmailプラグイン経由で送信される電子メールをサポートします。
+[Sales Insight のメール効果レポート](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)では、メールおよびセールス担当者別にメール指標を確認できます。Salesforce、Microsoft Dynamics、Outlook プラグイン、Gmail プラグインを使用して送信されるメールをサポートします。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebookカスタムオーディエンス {#facebook-custom-audiences}
+## Facebook カスタムオーディエンス {#facebook-custom-audiences}
 
-Marketoの管理者が管理者/Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)を介して[Facebookを追加すると、Facebookのカスタムオーディエンスを簡単に作成、更新、または[Marketoの静的またはスマートリスト](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)のリードに置き換えることができます。 静的またはスマートリストのリードグリッドの下部にある新しいFacebookアイコンを探します。
+Marketo 管理者が、[管理／Launchpoint で Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) を追加したら、[Facebook カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。静的またはスマートリストのリードグリッドの下部にある新しい Facebook アイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## ワークスペース間でのクローン作成の改善{#improved-cloning-across-workspaces}
+## ワークスペース間での複製の向上  {#improved-cloning-across-workspaces}
 
-[別のワークスペースに](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) プログラムを複製するのは、これまで以上に簡単でした。「コピー」をクリックすると、コピー先のワークスペースが選択されます。 フォルダーに複製してからフォルダーを移動する必要はなくなりました。
+別のワークスペースへの[プログラム複製](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)が、これまで以上に簡単になりました。「複製」をクリックして、複製先のワークスペースを選択します。フォルダーに複製を作成してからフォルダーを移動する必要はありません。
 
 >[!NOTE]
 >
->この新しいクローン機能は、現時点ではプログラムに対してのみ使用できます。
+>この新しい複製機能は、現時点ではプログラムでのみ使用できます。
 
 ![](assets/image2014-12-5-11-3a7-3a13.png)
 
-## スマートリストの参照{#reference-smart-list}
+## スマートリストの参照 {#reference-smart-list}
 
-[別のワークスペースと共有されるスマートリストは、スマートリストまたはフローを構築する際に](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 参照できます。
+スマートリストまたはフローの作成時に、[別のワークスペースと共有されているスマートリストを参照できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)。
 
-## リストのインポートの改善 {#list-import-improvements}
+## リストのインポートの向上 {#list-import-improvements}
 
-[UTF-16、Shift-JISまたはEUC-JPでエンコードされた](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ファイルを読み込みます。アドビでは、UTF-8でエンコードされたファイルを引き続きサポートします。
+UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。UTF-8 でエンコードされたファイルも引き続きサポートします。
 
-## 電子メールスクリプティング{#link-tracking-in-email-scripting}でのリンクトラッキング
+## メールスクリプティングでのリンクトラッキング {#link-tracking-in-email-scripting}
 
-電子メールスクリプト内のリンクが追跡され、電子メールリンクのパフォーマンスレポート内で使用できるようになります。
+メールスクリプト内のリンクがトラックされ、メールリンクの効果レポート内で使用できるようになりました。
 
-## トークンエンコーディング設定{#token-encoding-setting}
+## トークンエンコーディング設定 {#token-encoding-setting}
 
-2015年3月にデフォルトで有効になる、自動的にHTMLエンコードされたトークンに対する新しいセキュリティ機能を展開しました。 それまでは、Field Managementでこの機能を切り替えて、事前に動作をテストします。 すべてのリードと会社のトークンは、電子メールやランディングページに挿入されるとエンコードされます。 個々のフィールドのオプションも使用できます。
+自動 HTML エンコードトークンに対する新しいセキュリティ機能をロールアウトしました。これは 2015年3月にデフォルトで有効になります。それまでは、フィールド管理でこの機能を切り替えて、事前に動作をテストします。リードと会社のトークンはすべて、メールやランディングページに挿入するときにエンコードされます。個々のフィールドに対してもオプションが使用できます。
 
-## 新規 ReST API コール {#new-rest-api-calls}
+## 新規 ReST API 呼び出し {#new-rest-api-calls}
 
-リード&amp;アクティビティReST APIの3つの新しい呼び出し：
+リードおよびアクティビティ ReST API の 3 つの新しい呼び出し：
 
-・リードパーティションの取得
+ リードパーティションの取得
 
-· リードの関連付け
+ リードの関連付け
 
-・リードの結合
+ リードの結合
 
-詳細は、[developers.marketo.com](https://developers.marketo.com/)のリリース後に提供されます。
+詳細は、リリース後に [developers.marketo.com](https://developers.marketo.com/) で確認できます
 
-## Munchkin Javascript互換性拡張{#munchkin-javascript-compatibility-enhancements}
+## Munchkin JavaScript の互換性強化 {#munchkin-javascript-compatibility-enhancements}
 
-Munchkinでは、ページ上の他のJavaScriptの場合に、引き続き迅速に読み込みを行い、必要に応じて機能するように、いくつかの小さな機能を強化しました。
+Munchkin に対して、ページ上の他の JavaScript を使用した場合に、引き続き素早く読み込み、必要に応じて機能するように、小規模な機能強化をいくつか行いました。
 
-12月半ばから開始され、今後数カ月間続きます。
+ロールアウトは 12 月中旬に開始し、今後数か月間続きます。
 
-## アップグレードされたルック&amp;フィールの売上高{#revenue-explorer-upgraded-look-and-feel}
+## 売上高エクスプローラーのアップグレードされたルックアンドフィール {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -81,16 +80,16 @@ Munchkinでは、ページ上の他のJavaScriptの場合に、引き続き迅�
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP:名前付きアカウントリストモジュール{#rtp-named-account-list-module}
+## RTP：重点顧客リストモジュール {#rtp-named-account-list-module}
 
-新しい「固有のアカウント」ページで、主要な高利益アカウントを管理および監視します。 名前付きアカウントの新しいリストをアップロードして、これらの組織を識別しターゲットします。 アドビでは、様々なチャネル（Webおよび広告）にわたって、アカウントベースのマーケティングプランと主要アカウントのターゲットをより詳細に管理および柔軟に実装できるプロセスを自動化しました。
+新しい重点顧客ページで、利益率の高い主要なアカウントを管理およびモニターします。これらの組織を特定し、ターゲティングするには、重点顧客リストをアップロードします。アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲティングするための、より高い制御性と柔軟性を提供するプロセスを自動化しました。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP:ゾーン内キャンペーンのスライド効果{#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP：ゾーン内キャンペーンのスライド効果 {#rtp-sliding-effect-for-in-zone-campaigns}
 
-「ゾーン内」キャンペーンに新しいスライディング効果が追加され、パーソナライズされたコンテンツをページの読み込み時にスライドインできるようになりました。
+ページ読み込み時にパーソナライズされたコンテンツをスライドして配置できるように、ゾーン内キャンペーンのスライド効果が新たに追加されました。
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
