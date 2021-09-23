@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2951040
-description: リリースノート — 2014年7月 —Marketoドキュメント — 製品ドキュメント
-title: リリースノート — 2014年7月
+description: リリースノート - 2014年7月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '425'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2014年7月{#release-notes-july}
+# リリースノート：2014年7月 {#release-notes-july}
 
-2014年7月リリースには次の機能が含まれています。 Marketo版で利用可能な機能を確認してください。 機能に関する詳細なドキュメントへのリンクは、リリース後にもう一度参照してください。
+2014年7月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後に、機能に関する詳細なドキュメントへのリンクを参照してください。
 
 ## マーケティングカレンダー {#marketing-calendar}
 
-イベント、メール、プログラム全体のその他の項目が一目で確認できます。[この新](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 製品は、10人以下のMarketoリードマネジメントまたは対話ユーザーのお客様が無料で利用できます。
+イベント、メール、プログラム全体のその他の項目が一目で確認できます。[この新しい製品](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)は、Marketo リード管理またはダイアログのユーザーが 10 人以下のお客様に対し、無料で提供されます。
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
-マーケティングカレンダーのドキュメントは、リリース時に提供されます。
+マーケティングカレンダーのドキュメントは、リリース時に利用できます。
 
 ## 新しい外観と機能 {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketoリード管理は、最新でスタイリッシュな新しい外観と操作性で更新され、ナビゲーションも更新されます。
+Marketo リード管理は、最新でスタイリッシュな新しい外観と機能でアップデートされ、ナビゲーションが更新されます。
 
-## 日付演算子{#date-operators}
+## 日付演算子 {#date-operators}
 
-[「以前」、「将来」および「将来」の高度な](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) フィルター。例えば、今後3か月以内に生年月日が設定されたリードや、6か月後に期限切れになる契約を検索できます。
+「これより以前の過去」、「将来」、「これより先の将来」の[高度なフィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -39,49 +38,49 @@ Marketoリード管理は、最新でスタイリッシュな新しい外観と�
 
 ## プログラムスケジュールビュー {#program-schedule-view}
 
-イベントおよびデフォルトのプログラムを管理するマーケティングカレンダーに加えて、プログラム上に新しいスケジュール表示が表示されます。
+イベントとデフォルトプログラムを管理するマーケティングカレンダーに加えて、プログラムに関する新しいスケジュールビューが追加されました。
 
 * すべての日付を一度に再スケジュール
-* 新しい仮の日付 — 鉛筆を入れてください！
-* カスタムエントリタイプ — TODO、プレスリリース、任意の
+* 新しい暫定的日付 - 予定の書き込み
+* カスタムエントリの種類 - ToDo、プレスリリース、任意の項目
 
-## ReST APIのリスト操作{#list-operations-in-the-rest-api}
+## ReST API のリスト操作 {#list-operations-in-the-rest-api}
 
-ReSTのリスト操作に関連して、以下の呼び出しを追加しました。 完全なドキュメントについては、[developers.marketo.com](https://developers.marketo.com/documentation/rest/)を参照してください。
+ReST のリスト操作に関連する以下の呼び出しを追加しました。完全なドキュメントについては、[developers.marketo.com](https://developers.marketo.com/documentation/rest/) を参照してください。
 
-* IDによるリストの取得
+* ID によるリストの取得
 * 複数のリストの取得
-* リストに読み込み
-* リストへのインポートの状態の取得
+* リストにインポート
+* リストステータスへのインポートの取得
 
-## 高速リストインポート{#fast-list-import}
+## 高速リストインポート {#fast-list-import}
 
-**50倍以上の速さで**、ファイルがMarketoにズームインします！ 古い「通常」および「新しいリードに対して最適化」のインポートオプションは、「デフォルト（高速インポート）」に置き換えられました。
+**50 倍の速さで**、ファイルが Marketo にズームインします。従来の「通常」および「新規リード用に最適化」のインポートオプションは、「デフォルト（高速インポート）」に置き換えられました。
 
-「新しいリードと更新をスキップ」オプションは変更されません。
+「新規リードと更新をスキップ」オプションは変更されません。
 
-## Munchkin新たに更新! {#new-improved-munchkin}
+## 新たに向上した Munchkin {#new-improved-munchkin}
 
-展開は7月中旬に開始され、今後数カ月間続きます。
+ロールアウトは 7 月中旬に開始し、今後数か月間続きます。
 
-* jQueryの依存関係を削除して完全な互換性と将来の互換性を確保
-* サイト上の他のJavaScriptとの互換性の向上
-* 過去1年間に多数のサイトで十分なテストを実施！
+* 完全な互換性と将来の互換性のために jQuery 依存関係を削除
+* サイト上の他の JavaScript との互換性の向上
+* 過去 1 年間に多くのサイトで十分にテストされました。
 
-## RTP:リアルタイムパーソナライゼーションキャンペーンテンプレート{#rtp-real-time-personalization-campaign-templates}
+## RTP：リアルタイムパーソナライゼーションキャンペーンテンプレート {#rtp-real-time-personalization-campaign-templates}
 
-RTPセットキャンペーンページに、[既製のテンプレート](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)が含まれるようになりました。 ウェビナー、導入事例、eBookなど、様々なスタイルから選択できます。
+RTP 設定キャンペーンページに、[既製のテンプレートが含まれるようになりました](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)。ウェビナー、ケーススタディ、ebook など、様々なスタイルから選択できます。
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
 ![](assets/image2014-9-22-14-3a25-3a47.png)
 
-## RTP:JavaScript APIの拡張{#rtp-javascript-api-enhancements}
+## RTP：JavaScript API の機能強化 {#rtp-javascript-api-enhancements}
 
-組織、業界、場所、セグメントコードの一致などのリアルタイムの訪問者データを取得する新しいRTP API呼び出し。 また、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。 詳細なドキュメントについては、[開発者サイト](https://developers.marketo.com/documentation/websites/rtp-js-api/)を参照してください。
+組織、業界、場所、セグメントコードの一致など、リアルタイムの訪問者データを取得する、新しい RTP API 呼び出し。さらに、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。詳細なドキュメントについては、[開発者向けサイト](https://developers.marketo.com/documentation/websites/rtp-js-api/)を参照してください。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP:キャンペーンコンテンツエディター{#rtp-html-support-in-campaign-content-editor}でのHTML5のサポート
+## RTP：キャンペーンコンテンツエディターの HTML5 サポート {#rtp-html-support-in-campaign-content-editor}
 
-キャンペーンを設定ページのコンテンツWYSIWYGエディターで、HTML5との完全な互換性が確保されました。 エディター内で「HTML」アイコンをクリックし、HTML5コードを挿入します。
+キャンペーンを設定ページのコンテンツ WYSIWYG エディターが、HTML5 との完全な互換性を持つようになりました。エディター内の「HTML」アイコンをクリックして、HTML5 コードを挿入します。
