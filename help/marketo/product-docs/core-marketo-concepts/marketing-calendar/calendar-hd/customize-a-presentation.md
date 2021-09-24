@@ -22,9 +22,8 @@ ht-degree: 100%
 >[!PREREQUISITES]
 >
 >* [カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)の作成
-   >
-   >
-* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>
+>* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## ビューの選択 {#choosing-the-views}

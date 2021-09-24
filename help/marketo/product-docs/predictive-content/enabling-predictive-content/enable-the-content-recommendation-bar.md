@@ -19,11 +19,10 @@ ht-degree: 100%
 >予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
-   >
-   >   
-   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
-   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
-   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
+>   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
+>   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
@@ -53,9 +52,9 @@ ht-degree: 100%
    >* 表示 URL はドメインのパスにする必要があります
    >* https:// や https:// は含めません
    >* ワイルドカードには * を指定します
-   * セミコロンを区切り文字として使用します
-   * 例：/contact_us*、*action=logout*
-   * このフィールドでは大文字と小文字が区別されます
+   >* セミコロンを区切り文字として使用します
+   >* 例：/contact_us*、*action=logout*
+   >* このフィールドでは大文字と小文字が区別されます
 
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}
@@ -66,4 +65,5 @@ ht-degree: 100%
 * レコメンデーション用に有効にするコンテンツには、RTP JavaScript タグを含める必要があります。これは、アルゴリズムが推奨コンテンツを追跡し、最適化するのに役立ちます。
 
 >[!MORELIKETHIS]
-[Web リッチメディアの予測コンテンツを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>
+>[Web リッチメディアの予測コンテンツを有効にする](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

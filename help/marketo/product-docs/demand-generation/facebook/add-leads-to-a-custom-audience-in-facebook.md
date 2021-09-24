@@ -18,7 +18,6 @@ ht-degree: 100%
 >
 >* [Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約](https://www.facebook.com/ads/manage/customaudiences/tos.php)を承認します。
-
 >
 
 

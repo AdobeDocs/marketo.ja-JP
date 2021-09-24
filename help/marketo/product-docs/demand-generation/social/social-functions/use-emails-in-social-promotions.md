@@ -66,7 +66,6 @@ ht-degree: 100%
 >
 >* **目標に応じて自動**：各参加者が目標を達成すると、フルフィルメントメールが自動的に送信されます。
 >* **手動で送信**：ユーザーが目標を達成し始めたら、紹介オファーに戻って、[フルフィルメントメールを手動で送信](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)します。
-
 >
 
 
