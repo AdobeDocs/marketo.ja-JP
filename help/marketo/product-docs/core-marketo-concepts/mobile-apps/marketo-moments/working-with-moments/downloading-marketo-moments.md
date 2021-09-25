@@ -30,7 +30,7 @@ Marketo Moments を App Store または Google Play からダウンロードし�
 
 ## Android の場合 {#for-android}
 
-1. [Google Play](https：//play.google.com/store?hl=en) に移動します。
+1. [Google Play](https://play.google.com/store?hl=en) に移動します。
 
 1. 「Marketo Moments」を検索し、をタップしてダウンロードします。
 
