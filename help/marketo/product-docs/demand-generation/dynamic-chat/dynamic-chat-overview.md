@@ -3,9 +3,9 @@ description: Dynamic Chatの概要 — Marketoドキュメント — 製品ド�
 title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ PICC?
 
  — イエスは？ 笑 —
 
-**チャットボットをCSSでスタイル設定できますか？**
-
-現時点では、chatbotをCSSでスタイル設定することはできません。
-
-**カスタムフォントオプションを使用できますか？**
-
-現時点では、プリセットフォントオプションのみ使用できます。
-
 **Dynamic Chatではライブチャットが可能ですか？**
 
-いいえ。事前に決定された応答のみ。
+いいえ、事前に決定された応答のみを利用します。
 
 **AI/NLP機能をサポートしていますか。**
 

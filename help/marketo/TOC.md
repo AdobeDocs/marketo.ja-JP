@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ff87419faf7a8cbe59ce781b892083475476ce61
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
 source-wordcount: '8099'
 ht-degree: 40%
@@ -399,7 +399,7 @@ ht-degree: 40%
          + 静的リスト {#static-lists}
             + [静的リストの作成](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Adobe Experience Cloudへのリストの送信](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
-            + [Adobe Experience Cloud セグメントの Marketo 静的リストへのプッシュ](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
+            + [Adobe Experience PlatformセグメントのMarketo静的リストへの追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
             + [静的リストについて](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + プログラム {#programs}
          + プログラムの作成{#creating-programs}
