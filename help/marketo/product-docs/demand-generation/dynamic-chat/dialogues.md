@@ -3,9 +3,9 @@ description: ダイアログ — Marketoドキュメント — 製品ドキュ�
 title: ダイアログ
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -140,7 +140,9 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
 **ストリームの作成**
 
-作成するストリームの組み合わせは _多数_ です。 この例では、質問と準備をします。
+作成するストリームの組み合わせは _多数_ です。 この例では、はい/いいえの質問をし、いくつかの回答を用意します。
+
+例
 
 ## レポート {#reports}
 
