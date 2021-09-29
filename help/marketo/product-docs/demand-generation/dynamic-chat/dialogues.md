@@ -3,9 +3,9 @@ description: ダイアログ — Marketoドキュメント — 製品ドキュ�
 title: ダイアログ
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->優先度レベルは、リスト上でダイアログが表示される場所を決定します ( 例：優先度 1 は、それが最上位にあることを意味します )。
+>優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
 
 ## オーディエンス条件 {#audience-criteria}
 

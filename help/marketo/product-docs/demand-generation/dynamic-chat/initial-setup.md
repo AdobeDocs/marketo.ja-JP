@@ -3,9 +3,9 @@ description: 初期設定 — Marketoドキュメント — 製品ドキュメ�
 title: 初期設定
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 2%
 
 ## Marketoでの権限の追加 {#add-permissions-in-marketo}
 
-でユーザーを追加した後、MarketoでAdmin Consoleを付与する必要があります。
+Admin Consoleでユーザーを追加した後、Marketoで権限を付与して、Marketoから Dynamic Chat ショートカットにアクセスできるようにする必要があります。
 
 1. Marketo で、「**管理者**」をクリックします。
 
@@ -46,4 +46,4 @@ ht-degree: 2%
 >
 >必ず上記の手順に従ってください。 最初にMarketoで権限を付与されたユーザーは、Dynamic Chat タイルを表示しますが、ユーザーアクセス権はありません。
 
-次のステップは [ ダイナミックチャット ](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) にアクセスすることです。
+次の手順は、[Dynamic Chat をMarketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) に接続することです。

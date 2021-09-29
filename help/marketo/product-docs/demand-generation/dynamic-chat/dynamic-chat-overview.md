@@ -3,9 +3,9 @@ description: Dynamic Chat の概要 — Marketoドキュメント — 製品ド�
 title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,17 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、�
 
 >[!NOTE]
 >
->現在、Dynamic Chat は展開中で、DATE でアクセスできるため、すべてのサブスクリプションを含みます。
+>2022 年春までにアクセスできるため、Dynamic Chat は徐々に展開される過程にあります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketoサブスクリプションとネイティブにインターフェイスする機能です。 この統合の完全な機能を活用するには、まずデータ同期を開始する必要があります。 最初の [1 回限りの同期 ](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) が完了するまでに最大 24 時間かかる場合があります。
+Dynamic Chat の主要な要素は、Marketoサブスクリプションとネイティブにインターフェイスする機能です。 この統合の完全な機能を活用するには、まずデータ同期を開始する必要があります。 Marketoデータベースのサイズによっては、最初の [1 回の同期 ](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) が完了するまで、データが 24 時間かかる場合があります。 平均同期時間が 2 時間未満です。
+
+以下が同期されます。
+
+* リードフィールドデータ
+* 会社フィールドデータ
+* アクティビティデータ
 
 ## ダイアログ {#dialogues}
 
