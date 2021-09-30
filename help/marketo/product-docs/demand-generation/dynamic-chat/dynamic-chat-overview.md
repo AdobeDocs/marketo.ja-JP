@@ -3,9 +3,9 @@ description: Dynamic Chat の概要 — Marketoドキュメント — 製品ド�
 title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、�
 
 >[!NOTE]
 >
->2022 年春までにアクセスできるため、Dynamic Chat は徐々に展開される過程にあります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>Dynamic Chat は徐々に展開中で、現在は使用が制限されています。 このページは、利用可能になると GA(General Availability) の詳細で更新されます。
 
 ## 統合 {#integrations}
 
