@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437831
-description: テンプレート15E - Marketoドキュメント — 製品ドキュメント
-title: テンプレート15E
+description: テンプレート 15E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 15E
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 36%
+source-wordcount: '60'
+ht-degree: 25%
 
 ---
 
-# テンプレート15E {#template-15e}
+# テンプレート 15E {#template-15e}
 
-[テンプレート15Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+右クリックして [Template 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html) をダウンロード
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 * プライマリセクション
 
-   * には、ヒーロー画像と「詳細」ボタンが含まれています
+   * には、ヒーロー画像と「詳細」ボタンが含まれています。
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+[テンプレート 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)

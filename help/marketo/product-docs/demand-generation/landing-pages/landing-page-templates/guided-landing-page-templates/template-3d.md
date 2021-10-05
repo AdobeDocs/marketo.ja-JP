@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8160090
-description: テンプレート3D - Marketoドキュメント — 製品ドキュメント
-title: テンプレート3D
+description: テンプレート 3D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 46%
+source-wordcount: '62'
+ht-degree: 35%
 
 ---
 
-# テンプレート3D {#template-3d}
+# テンプレート 3D {#template-3d}
 
-[テンプレート3Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+右クリックして [Template 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html) をダウンロード
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -26,6 +26,6 @@ ht-degree: 46%
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[テンプレート 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

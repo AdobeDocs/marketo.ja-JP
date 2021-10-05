@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516002
-description: テンプレート1D - Marketoドキュメント — 製品ドキュメント
-title: テンプレート1D
+description: テンプレート 1D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 36%
+source-wordcount: '60'
+ht-degree: 25%
 
 ---
 
-# テンプレート1D {#template-1d}
+# テンプレート 1D {#template-1d}
 
-[テンプレート1Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+右クリックして [Template 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html) をダウンロード
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -25,6 +25,6 @@ ht-degree: 36%
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
 [Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438209
-description: テンプレート18B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート18B
+description: テンプレート 18B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 40%
+source-wordcount: '61'
+ht-degree: 29%
 
 ---
 
-# テンプレート18B {#template-18b}
+# テンプレート 18B {#template-18b}
 
-[テンプレート18Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+右クリックして [Template 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html) をダウンロード
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -26,6 +26,6 @@ ht-degree: 40%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+[テンプレート 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)

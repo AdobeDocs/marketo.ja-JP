@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437807
-description: テンプレート14C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート14C
+description: テンプレート 14C - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 33%
+source-wordcount: '62'
+ht-degree: 22%
 
 ---
 
-# テンプレート14C {#template-14c}
+# テンプレート 14C {#template-14c}
 
-[テンプレート14Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+右クリックして [Template 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html) をダウンロード
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
@@ -21,11 +21,11 @@ ht-degree: 33%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよび調査が含まれます。
+   * ヒーロータイトル、ヒーローテキスト、調査が含まれます。
 
-* ボディセクションを作成（オプション）
+* ボディセクションを保存（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+[テンプレート 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

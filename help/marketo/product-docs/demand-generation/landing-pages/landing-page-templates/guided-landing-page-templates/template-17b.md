@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438194
-description: テンプレート17B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート17B
+description: テンプレート 17B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 36%
+source-wordcount: '59'
+ht-degree: 25%
 
 ---
 
-# テンプレート17B {#template-17b}
+# テンプレート 17B {#template-17b}
 
-[テンプレート17Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+右クリックして [Template 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html) をダウンロード
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -25,6 +25,6 @@ ht-degree: 36%
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+[テンプレート 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)

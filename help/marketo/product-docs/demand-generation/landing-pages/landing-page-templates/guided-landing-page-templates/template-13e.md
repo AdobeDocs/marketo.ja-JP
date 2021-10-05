@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437798
-description: テンプレート13E - Marketoドキュメント — 製品ドキュメント
-title: テンプレート13E
+description: テンプレート 13E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 36%
+source-wordcount: '59'
+ht-degree: 25%
 
 ---
 
-# テンプレート13E {#template-13e}
+# テンプレート 13E {#template-13e}
 
-[テンプレート13Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+右クリックして [Template 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html) をダウンロード
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -25,6 +25,6 @@ ht-degree: 36%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[テンプレート 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)

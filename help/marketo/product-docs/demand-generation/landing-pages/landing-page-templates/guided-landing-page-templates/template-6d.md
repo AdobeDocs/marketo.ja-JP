@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783935
-description: テンプレート6D - Marketoドキュメント — 製品ドキュメント
-title: テンプレート6D
+description: テンプレート 6D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 50%
+source-wordcount: '61'
+ht-degree: 39%
 
 ---
 
-# テンプレート6D {#template-6d}
+# テンプレート 6D {#template-6d}
 
-[テンプレート6Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+右クリックして [Template 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html) をダウンロード
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -25,6 +25,6 @@ ht-degree: 50%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+[テンプレート 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)

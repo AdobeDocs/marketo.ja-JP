@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092916
-description: テンプレート20C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート20C
+description: テンプレート 20C - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 38%
+source-wordcount: '57'
+ht-degree: 26%
 
 ---
 
-# テンプレート20C {#template-20c}
+# テンプレート 20C {#template-20c}
 
-[テンプレート20Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+右クリックして [Template 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html) をダウンロード
 
 ![](assets/template-20c.png)
 
@@ -25,6 +25,6 @@ ht-degree: 38%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[テンプレート 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)

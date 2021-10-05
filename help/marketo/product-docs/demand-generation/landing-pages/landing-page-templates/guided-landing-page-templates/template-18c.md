@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438212
-description: テンプレート18C - Marketoドキュメント — 製品ドキュメント
-title: テンプレート18C
+description: テンプレート 18C - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 18C
 exl-id: 0f70ec63-0621-42d8-8229-4b32de27ce8b
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 41%
+source-wordcount: '60'
+ht-degree: 30%
 
 ---
 
-# テンプレート18C {#template-18c}
+# テンプレート 18C {#template-18c}
 
-[テンプレート18Cのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+右クリックして [Template 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html) をダウンロード
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -21,11 +21,11 @@ ht-degree: 41%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーローテキストを含む投票
+   * ヒーローテキストと投票を含む
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+[テンプレート 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)

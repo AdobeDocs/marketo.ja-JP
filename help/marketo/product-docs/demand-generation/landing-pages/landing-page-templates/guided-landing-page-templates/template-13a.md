@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437783
-description: テンプレート13A - Marketoドキュメント — 製品ドキュメント
-title: テンプレート13A
+description: テンプレート 13A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 37%
+source-wordcount: '58'
+ht-degree: 25%
 
 ---
 
-# テンプレート13A {#template-13a}
+# テンプレート 13A {#template-13a}
 
-[テンプレート13Aのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+右クリックして [Template 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html) をダウンロード
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -20,11 +20,11 @@ ht-degree: 37%
 
 * プライマリセクション
 
-   * ヒーローのタイトルと画像が含まれる
+   * ヒーローのタイトルと画像を含む
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[テンプレート 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)

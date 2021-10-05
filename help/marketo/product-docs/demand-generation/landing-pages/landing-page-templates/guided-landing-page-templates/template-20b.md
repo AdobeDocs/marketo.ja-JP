@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092913
-description: テンプレート20B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート20B
+description: テンプレート 20B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 47%
+source-wordcount: '57'
+ht-degree: 35%
 
 ---
 
-# テンプレート20B {#template-20b}
+# テンプレート 20B {#template-20b}
 
-[テンプレート20Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+右クリックして [Template 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html) をダウンロード
 
 ![](assets/template-20b.png)
 
@@ -25,6 +25,6 @@ ht-degree: 47%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[テンプレート 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

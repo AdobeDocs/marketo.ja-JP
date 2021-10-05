@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162237
-description: テンプレート4A - Marketoドキュメント — 製品ドキュメント
-title: テンプレート4A
+description: テンプレート 4A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 50%
+source-wordcount: '61'
+ht-degree: 39%
 
 ---
 
-# テンプレート4A {#template-4a}
+# テンプレート 4A {#template-4a}
 
-[ダウンロードテンプレート4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+右クリックして [Template 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html) をダウンロード
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -26,6 +26,6 @@ ht-degree: 50%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[テンプレート 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

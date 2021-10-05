@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783944
-description: テンプレート7B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート7B
+description: テンプレート 7B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 7B
 exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 51%
+source-wordcount: '62'
+ht-degree: 40%
 
 ---
 
-# テンプレート7B {#template-7b}
+# テンプレート 7B {#template-7b}
 
-[テンプレート7Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+右クリックして [Template 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html) をダウンロード
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -26,6 +26,6 @@ ht-degree: 51%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
 [Template 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)

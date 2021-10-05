@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516017
-description: テンプレート1E - Marketoドキュメント — 製品ドキュメント
-title: テンプレート1E
+description: テンプレート 1E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 36%
+source-wordcount: '60'
+ht-degree: 25%
 
 ---
 
-# テンプレート1E {#template-1e}
+# テンプレート 1E {#template-1e}
 
-[テンプレート1Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+右クリックして [Template 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html) をダウンロード
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -25,6 +25,6 @@ ht-degree: 36%
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
+[テンプレート 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

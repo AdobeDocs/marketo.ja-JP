@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092902
-description: テンプレート19E - Marketoドキュメント — 製品ドキュメント
-title: テンプレート19E
+description: テンプレート 19E - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 19E
 exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 39%
+source-wordcount: '55'
+ht-degree: 27%
 
 ---
 
-# テンプレート19E {#template-19e}
+# テンプレート 19E {#template-19e}
 
-[テンプレート19Eのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+右クリックして [Template 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html) をダウンロード
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -25,6 +25,6 @@ ht-degree: 39%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+[テンプレート 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)

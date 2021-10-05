@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437804
-description: テンプレート14B - Marketoドキュメント — 製品ドキュメント
-title: テンプレート14B
+description: テンプレート 14B - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 14B
 exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 40%
+source-wordcount: '62'
+ht-degree: 29%
 
 ---
 
-# テンプレート14B {#template-14b}
+# テンプレート 14B {#template-14b}
 
-[テンプレート14Bのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
+右クリックして [Template 14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html) をダウンロード
 
 ![](assets/image2015-8-11-15-3a42-3a35.png)
 
@@ -26,6 +26,6 @@ ht-degree: 40%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
+[テンプレート 14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)

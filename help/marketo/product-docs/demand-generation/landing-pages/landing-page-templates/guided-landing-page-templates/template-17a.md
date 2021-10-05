@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438191
-description: テンプレート17A - Marketoドキュメント — 製品ドキュメント
-title: テンプレート17A
+description: テンプレート 17A - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 36%
+source-wordcount: '60'
+ht-degree: 25%
 
 ---
 
-# テンプレート17A {#template-17a}
+# テンプレート 17A {#template-17a}
 
-[テンプレート17Aのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+右クリックして [Template 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html) をダウンロード
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよび2つのボタンが含まれます。
+   * ヒーロータイトル、ヒーローテキストおよび 2 つのボタンが含まれます。
 
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+[テンプレート 17A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

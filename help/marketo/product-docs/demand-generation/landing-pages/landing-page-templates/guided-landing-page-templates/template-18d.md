@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438215
-description: テンプレート18D - Marketoドキュメント — 製品ドキュメント
-title: テンプレート18D
+description: テンプレート 18D - Marketoドキュメント — 製品ドキュメント
+title: テンプレート 18D
 exl-id: db998446-12a1-4fd9-9709-3ac08b8ceefa
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 41%
+source-wordcount: '60'
+ht-degree: 30%
 
 ---
 
-# テンプレート18D {#template-18d}
+# テンプレート 18D {#template-18d}
 
-[テンプレート18Dのダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+右クリックして [Template 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html) をダウンロード
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -26,6 +26,6 @@ ht-degree: 41%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、次をクリックします。**
+**下の右クリックでこのテンプレートをダウンロード：**
 
-[テンプレート18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+[テンプレート 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
