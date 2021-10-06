@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8029'
 ht-degree: 40%
 
 ---
@@ -1169,23 +1169,9 @@ ht-degree: 40%
             + [メール接続のスロットリング](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [カスタム配信チャネルの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 販売の電子メール {#send-a-sales-email} を送信
-            + [テンプレートまたはキャンペーンの追加](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [Gmail から Salesforce への電子メールの追加](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [電子メールクライアントでの Salesforce への電子メールの追加](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [コンテンツの追加](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [認証失敗エラー](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [電子メール内の CC または BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [スパムとしてマークされた電子メール](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [選択した電子メールと電子メールグループ](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [スパムに送られる E メール](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Gmail または Outlook から送信する際のエラー](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [Web アプリケーションから送信する際のエラー](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [ハードバウンス](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [電子メールのスケジュール方法](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [グループの電子メールの送信方法](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Sales Engage からの電子メールの送信方法](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [ドラフトに送信される予定の電子メール](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [電子メールでの添付ファイルの送信](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
             + [失敗した配信のジョブ数制限エラーメッセージ](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
             + [エラーのスロットリング](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
