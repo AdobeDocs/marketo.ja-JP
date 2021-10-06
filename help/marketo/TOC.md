@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 40%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 40%
    + [開始方法](getting-started.md)
    + [AdobeMarketo Engageとは](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo用語集](getting-started/marketo-glossary.md)
-   + [アイコン用語集](getting-started/icon-glossary.md)
+   + [クラシックアイコンの用語集](getting-started/classic-icon-glossary.md)
    + セットアップ {#setup}
       + [設定手順](getting-started/setup-steps.md)
       + [設定チェックリスト](getting-started/setup-steps/setup-checklist.md)
@@ -137,7 +137,7 @@ ht-degree: 40%
          + [グローバルフォーム検証ルール](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 追加の統合 {#additional-integrations}
          + [Adobe Connect を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-         + [Manager アカウントを使用した Google AdWords as a Launchpoint Service の追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+         + [Google AdWords を Manager アカウントを使用した Launchpoint サービスとして追加する](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
          + [Google AdWords を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [GoToWebinar を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Level 3 Web Meeting を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
@@ -339,7 +339,7 @@ ht-degree: 40%
             + [プログラムステータスの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [プログラムの成功を変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [プログラムメンバーの変更](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Microsoft Dynamics フローアクション {#microsoft-dynamics-flow-actions}
+         + Microsoft Dynamics のフローアクション {#microsoft-dynamics-flow-actions}
             + [Dynamics Campaign での人物の追加または削除](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Microsoft の所有者の変更](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Microsoft でのタスクの作成](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
@@ -481,7 +481,7 @@ ht-degree: 40%
             + [タブレットからイベントにユーザーをチェックイン](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [チェックインアプリに対するアクセス権をユーザーに付与する](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [イベントの準備](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [iPad または Android タブレットのセットアップ](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+            + [iPadまたは Android タブレットのセットアップ](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo注目の出来事 {#marketo-moments}
             + モーメント {#understanding-moments} について
                + [Marketo Moments について](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -512,8 +512,8 @@ ht-degree: 40%
    + CRM 同期 {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
-         + [Microsoft Dynamics 用Marketo Plugin リリース](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
-         + [Microsoft Dynamics MSI 用プラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
+         + [Microsoft Dynamics 向けMarketo Plugin リリース](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
+         + [Microsoft Dynamics MSI のプラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Dynamics 検証の同期の問題を修正](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 同期設定 {#sync-setup}
             + [Marketo Lead Management Solution のダウンロード](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
@@ -523,12 +523,12 @@ ht-degree: 40%
             + Microsoft Dynamics 2011 オンプレミス {#microsoft-dynamics-2011-on-premises}
                + [手順 1/3:Marketoソリューション（2011 年オンプレミス）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [手順 3/3:Microsoft Dynamics とMarketo (2011 On-Premises) の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+               + [手順 3/3:Microsoft Dynamics とMarketo(2011 On-Premises) の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013 オンプレミス {#microsoft-dynamics-2013-on-premises}
                + [手順 1/3:Dynamics (2013 On-Premises) にMarketoソリューションをインストールする](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [手順 2 / 3:Marketo (2013 On-Premises) の同期ユーザーの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
                + [手順 3/3:Marketoと Dynamics （2013 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2015 オンプレミス/2016 Dynamics 365 オンプレミス {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
+            + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [手順 1/3:Marketoソリューションのインストール — 2015 オンプレミス/ 2016 Dynamics 365 オンプレミス](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [手順 2 / 3:オンプレミス/2016 Dynamics 365 オンプレミスでのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [手順 3/3:オンプレミス/2016 Dynamics 365 オンプレミスのMarketoと Dynamics 2015 の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
@@ -538,8 +538,8 @@ ht-degree: 40%
                + [手順 3/3:Microsoft Dynamics とMarketoの接続（オンライン）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Dynamics 用の OAuth 認証の設定 {#set-up-oauth-authentication-for-dynamics}
                + [クライアント ID とアプリ登録に対する同意の付与](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
-               + [オンライン用 Microsoft Dynamics CRM アプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [オンプレミス用の Microsoft Dynamics CRM アプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [オンライン用のMicrosoft Dynamics CRM アプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
+               + [オンプレミス用のMicrosoft Dynamics CRM アプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [AD FS オンプレミス、テナントおよび Microsoft Online でフェデレーションされた Azure AD 用の MSD の設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics 同期の詳細 {#microsoft-dynamics-sync-details}
             + [既定の Dynamics フィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
@@ -548,7 +548,7 @@ ht-degree: 40%
             + [Microsoft Dynamics Sync:カスタムエンティティ同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
             + [カスタムエンティティの同期の有効化](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics Sync:フィールド同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
-            + [Microsoft Dynamics とのクイック同期を新しいカスタムフィールドに使用する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [新しいカスタムフィールドにMicrosoft Dynamics とのクイック同期を使用する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Dynamics で削除する前に同期するフィールドを編集する](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics Sync:リード同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Microsoft Dynamics での連絡先の作成](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
@@ -615,7 +615,7 @@ ht-degree: 40%
       + 広告ネットワーク統合 {#ad-network-integrations}
          + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [facebookカスタムオーディエンスの LaunchPoint サービスとしての追加](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [Google カスタマーマッチを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [Google Customer Match を LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [リストの広告ネットワークへの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + ダイナミックチャット {#dynamic-chat}
@@ -686,7 +686,7 @@ ht-degree: 40%
             + [Web サイトにフォームを埋め込む](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [フォームでのソーシャルフォームの入力の有効化](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + [linkedIn Social フォーム入力に関する FAQ](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [既知のユーザーに対するカスタム HTML フォームの表示](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [既知のユーザーのカスタムHTMLフォームを表示する](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Lightbox でのフォームの使用](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + フォームデザイン {#form-design}
             + [フォームラベルの位置の変更](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -731,7 +731,7 @@ ht-degree: 40%
             + [自由形式のランディングページへのビデオの追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [フリーフォームランディングページへの画像の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [自由形式のランディングページに長方形を追加する](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [カスタム HTML を自由形式のランディングページに追加する](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [カスタムHTMLを自由形式のランディングページに追加する](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [フリーフォームランディングページを作成する](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [自由形式のランディングページのモバイル表示のカスタマイズ](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [自由形式のランディングページでの動的コンテンツの使用](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -1036,8 +1036,8 @@ ht-degree: 40%
             + [トラッキングするリンクをテキスト電子メールに追加](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [カレンダーイベント（.ics）ファイルを作成する](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [メールリンクのトラッキングを無効にする](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [電子メールの HTML のダウンロード](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [電子メールの HTML の編集](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [電子メールのHTMLのダウンロード](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [電子メールのHTMLの編集](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + E メールテスト — Champion-Challenger {#email-tests-champion-challenger}
                + [メールチャンピオン／挑戦者の追加](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [チャンピオン／挑戦者：メールテストの承認](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1059,7 +1059,7 @@ ht-degree: 40%
          + [電子メール CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engageの次世代エクスペリエンス {#marketo-engage-next-generation-experience}
       + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [新規アイコン用語集](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [アイコン用語集](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo セールスの連携 {#marketo-sales-connect}
       + 開始方法 {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 40%
             + [メールを確認](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + 管理 {#admin}
          + [その他の管理者](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [「管理設定」タブ](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [ブロック済みドメイン](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [コンテンツのロックダウン](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [サブチームの作成](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1215,7 +1214,7 @@ ht-degree: 40%
       + FAQ {#faq}
          + [削除した連絡先またはグループを復元できますか？](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [コンテンツと添付ファイルに関する FAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
-         + [Sales Connect は iPhone または Android アプリを持っていますか。](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
+         + [Sales Connect は、iPhoneまたは Android アプリを持っていますか。](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [サーバーで Sales Connect を許可リストする方法を教えてください。](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [私は自分のアカウントから締め出された。 どうすればいい？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect は Salesforce Lightning と互換性がありますか。](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
@@ -1287,7 +1286,7 @@ ht-degree: 40%
          + [推奨テンプレート](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [共有テンプレート](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [テンプレートのアクション](product-docs/marketo-sales-connect/templates/template-engagement.md)
-         + [HTML の使用](product-docs/marketo-sales-connect/templates/using-html.md)
+         + [HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [テンプレートリストを別のユーザーとして表示](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
          + 動的フィールド {#dynamic-fields}
             + [カスタム動的フィールドの作成](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
@@ -1581,7 +1580,7 @@ ht-degree: 40%
             + [売上高サイクルモデルですべてのリードを検索する](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [売上高モデラーで 2 つのステージを結合する](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [売上高モデルのレポート](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Manager アカウントを使用した売上高モデルでの Google AdWords コンバージョンの設定](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [Manager アカウントを使用した売上高モデルでのGoogle AdWords コンバージョンの設定](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [売上高モデルでの Google AdWords コンバージョンの設定](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [収益モデラーでのアカウント別追跡の開始](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [収益モデル・フェーズの理解](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
@@ -1670,7 +1669,7 @@ ht-degree: 40%
          + [Web セグメント](product-docs/web-personalization/using-web-segments/web-segments.md)
       + Web サイトのリターゲティング {#website-retargeting}
          + [facebookでのパーソナライズされたリマーケティング](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-         + [Google でのパーソナライズされたリマーケティング](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+         + [Googleでのパーソナライズされたリマーケティング](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Web パーソナライゼーションデータによるリターゲティング](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Web キャンペーンの操作 {#working-with-web-campaigns}
          + [Web キャンペーンで A/B テストを実施する](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
