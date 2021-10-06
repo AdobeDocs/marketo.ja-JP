@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 人物のリストの読み込み — Marketo ドキュメント — 製品ドキュメント
 title: 人物のリストの読み込み
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '496'
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
 
-1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)）を PC にダウンロードしてください。
+1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)）を PC にダウンロードしてください。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -135,7 +135,7 @@ ht-degree: 100%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
