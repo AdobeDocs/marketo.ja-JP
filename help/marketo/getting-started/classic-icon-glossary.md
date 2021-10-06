@@ -3,7 +3,7 @@ unique-page-id: 4720476
 description: クラシックアイコンの用語集 — Marketoドキュメント — 製品ドキュメント
 title: クラシックアイコンの用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 94%
@@ -12,7 +12,7 @@ ht-degree: 94%
 
 # クラシックアイコンの用語集 {#classic-icon-glossary}
 
-以下はMarketo Classicの古いアイコンです。 新しいアイコン用語集は [ こちら ](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md) にあります。
+以下はMarketo Classicの古いアイコンです。 新しいアイコン用語集は [ こちら ](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md) にあります。
 
 **一般アイコン**
 
