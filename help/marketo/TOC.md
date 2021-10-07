@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 40%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 40%
             + [連絡先の作成と削除](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [グループタイプ](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect による電子メールの重複排除の処理方法](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [連絡先グループの作成方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [自動購読解除のフォーマット方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [Salesforce から連絡先をインポートする方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [2 つのグループを結合する方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [グループを共有する方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [CSV を使用した連絡先のインポート](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [グループの管理](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [人物ページの列](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 40%
       + タスク {#tasks}
          + [初めて Sales Connect タスクを Salesforce と同期](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + テンプレート {#templates}
-         + [添付ファイルの追加](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [画像の追加](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [自動購読解除のテンプレートへの追加](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [ハイパーリンクテキストの追加](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [ビデオコンテンツの追加](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [テンプレートのアーカイブ保存](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [フォローアップ E メールの作成](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [フォローアップテンプレートの作成](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [新しいカテゴリの作成](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [新しいテンプレートの作成](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [テンプレートビューのカスタマイズ](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [テンプレートカテゴリの削除](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [テンプレートの削除](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [テンプレートカテゴリの編集](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [カテゴリ共有の有効化](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [テンプレートのお気に入り](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [カテゴリの結合と重複排除](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [推奨テンプレート](product-docs/marketo-sales-connect/templates/recommended-templates.md)
