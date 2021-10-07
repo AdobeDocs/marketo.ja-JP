@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8029'
+source-wordcount: '8001'
 ht-degree: 40%
 
 ---
@@ -1173,11 +1173,8 @@ ht-degree: 40%
             + [電子メール内の CC または BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [スパムとしてマークされた電子メール](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [電子メールでの添付ファイルの送信](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [失敗した配信のジョブ数制限エラーメッセージ](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [エラーのスロットリング](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + ライブフィード {#the-live-feed}
             + [受信者の場所が正しくありません](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [ライブフィードアイコンの用語集](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [ライブフィードの概要](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + 配信停止 {#unsubscribes}
             + [購読解除リンクメッセージのカスタマイズ](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1224,10 +1221,7 @@ ht-degree: 40%
          + [Sales Connect と GDPR への準拠](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 連絡先の管理 {#managing-contacts}
             + [リードに対する一括アクション](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Sales Connect のリードでMarketoのリードを結び付ける](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [グループとの接続](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [連絡先の作成と削除](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [グループの削除](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [グループタイプ](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect による電子メールの重複排除の処理方法](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [連絡先グループの作成方法](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
