@@ -2,7 +2,7 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 4%
@@ -49,7 +49,7 @@ ht-degree: 4%
 
 **新しい電子メール、Web アクティビティ、匿名 Web アクティビティダッシュボード**:販売者にリードと連絡先の最新の E メールおよび Web アクティビティを知らせるための新しい販売ダッシュボードを追加しました。新しいフィルタリング機能により、ダッシュボードで、アカウントの完全なリストまたは特定のアカウントに関する電子メールの開封数、クリック数、Web ページの訪問回数を把握できるようになりました。 Marketo Engageは、すべての Web アクティビティを追跡し、売上に重要な情報を提供し、匿名トラフィックをリードに変えます。 販売者は、エンゲージメントをパーソナライズし、リード行動に関する情報がより深く、すべてのタッチポイントの関連性に基づいて行動するので、リードをより迅速に販売に変換できます。
 
-**Salesforce CRM 向け Sales Insight**
+**Salesforce 向け販売インサイト**
 
 **アカウントおよびオポチュニティレベルのベスト**:Sales Insight では、担当者が別のチーム・メンバーに割り当てられている場合でも、担当するアカウントまたはオポチュニティ上のすべての担当者のベスト・ベットを確認できるようになりました。これにより、アカウントとオポチュニティの所有者は、関連する連絡先のアクティビティを完全に把握し、アカウントやオポチュニティのより包括的な視点に基づいて行動できるようになります。
 
@@ -71,4 +71,4 @@ ht-degree: 4%
 
 ## お知らせ {#announcements}
 
-**リード廃止/Munchkin Beta 161 アップデートの関連付け**:2021 年 9 月 7 日、Munchkin のバージョン 161 は、Munchkin Beta を有効にした購読者の 10%に、続いて 9 月 16 日に 50%、9 月 30 日に 100%を展開し始めました。この変更は、Marketo Engageのランディングページと、最新バージョンのロールアウト先のサブスクリプションから読み込まれる外部ランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。 このバージョンは、Munchkin Associate Lead メソッドを完全に廃止します。これは、Marketo Engageサブスクリプションに個人のデータを送信し、既知の人物レコードと関連する Web 閲覧履歴を送信できる機能です。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より新しく安全な代替手段に代わって、アソシエイトリードは削除されています。 [この廃止について詳しくは、](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。
+**リード廃止/Munchkin Beta 161 アップデートの関連付け**:2021 年 9 月 7 日、Munchkin のバージョン 161 は、Munchkin Beta を有効にした購読者の 10%に、続いて 9 月 16 日に 50%、9 月 30 日に 100%を展開し始めました。この変更は、Marketo Engageのランディングページと、最新バージョンのロールアウト先のサブスクリプションから読み込まれる外部ランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。 このバージョンは、Munchkin Associate Lead メソッドを完全に廃止します。これは、Marketo Engageサブスクリプションに個人のデータを送信し、既知の人物レコードと関連する Web 閲覧履歴を送信できる機能です。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より新しく安全な代替手段に代わって、アソシエイトリードは削除されています。 [この廃止について詳しくは、こちら](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。

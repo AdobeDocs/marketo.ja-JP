@@ -3,10 +3,10 @@ unique-page-id: 2952292
 description: 通知について - Marketo ドキュメント - 製品ドキュメント
 title: 通知について
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '177'
-ht-degree: 100%
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 75%
 
 ---
 
@@ -18,27 +18,29 @@ ht-degree: 100%
 
 1. 新しい通知は、Marketo の右上に表示されます。
 
-   ![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/understanding-notifications-1.png)
 
 1. 「通知」をクリックすると、すべての通知が表示されます。
 
-   ![](assets/image2014-10-10-11-3a55-3a44.png)
+   ![](assets/understanding-notifications-2.png)
 
 ## 通知の配信登録 {#subscribe-to-notifications}
 
 配信登録すると、通知をメールで受信できます。
 
-1. 「通知」に移動し、「配信登録」をクリックします。
+1. 「通知」に移動し、「**購読**」をクリックします。
 
-![](assets/image2014-10-10-12-3a3-3a29.png)
+   ![](assets/understanding-notifications-3.png)
 
-1. 「通知タイプ」を選択し、通知の送信先のメールアドレスを入力します。
+1. 「通知タイプ」を選択し、通知の送信先の電子メールアドレス（コンマ区切り）を入力します。 終了したら「**購読**」をクリックします。
 
-   ![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->場合によっては、Microsoft Dynamics 同期エラーファイルなど、コンマ区切り値（CSV）ファイルをダウンロードするための「完全なリストを表示」リンクが通知に表示されることがあります。これらの CSV ファイルは Marketo で 30 日間保持されます。それ以降にファイルをダウンロードしようとすると、404 エラーが発生します。
+>**「** に送信」領域は、E メールを入力する場合にのみ使用でき、既存の購読者のリストは表示されません。
+
+場合によっては、Microsoft Dynamics 同期エラーファイルなど、コンマ区切り値（CSV）ファイルをダウンロードするための「完全なリストを表示」リンクが通知に表示されることがあります。これらの CSV ファイルは Marketo で 30 日間保持されます。それ以降にファイルをダウンロードしようとすると、404 エラーが発生します。
 
 >[!TIP]
 >
