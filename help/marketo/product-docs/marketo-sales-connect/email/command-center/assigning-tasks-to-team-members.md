@@ -1,29 +1,28 @@
 ---
 unique-page-id: 45417460
-description: チームメンバーへのタスクの割り当て —Marketoドキュメント — 製品ドキュメント
-title: チームメンバーへのタスクの割り当て
+description: チームメンバーへのタスクの割り当て — Marketoドキュメント — 製品ドキュメント
+title: チーム・メンバーへのタスクの割当
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# チームメンバーへのタスクの割り当て{#assigning-tasks-to-team-members}
+# チーム・メンバーへのタスクの割当 {#assigning-tasks-to-team-members}
 
-他のチームメンバーと共同作業を行う場合は、タスクの割り当てを行うことで、試掘作業を調整するのに最適な方法です。
+他のチームメンバーと共同作業を行う場合は、タスクを割り当てることが、今後の試掘作業を調整する優れた方法となります。
 
 >[!NOTE]
 >
->タスクを割り当てることができるのは、共有の連絡先に対してのみです。 共有タスクと共同作業する前に、チームメンバーと[連絡先のグループ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)を共有する必要があります。
+>タスクの割り当ては、共有の連絡先に対してのみ可能です。
 
-1. **コマンドセンター**&#x200B;をクリックします。
+1. **コマンドセンター** をクリックします。
 
    ![](assets/one-1.png)
 
-1. **追加タスク**&#x200B;をクリックします。
+1. 「**タスクを追加**」をクリックします。
 
    ![](assets/two-1.png)
 
@@ -35,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. チーム上でタスクを割り当てる人を[タスクの割り当て]フィールドで選択します。
+1. 「タスクの割り当て」フィールドで、タスクを割り当てるチームの担当者を選択します。
 
    ![](assets/five.png)
 
-1. [人追加]フィールドで連絡先にする人。
+1. 「ユーザー」フィールドで、連絡先のユーザーを追加します。
 
    ![](assets/six.png)
 
-1. 「期日」を選択します。
+1. 期限を選択します。
 
    ![](assets/seven.png)
 
@@ -51,10 +50,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. チームメ追加ートに関連する重要な詳細情報（オプション）を入力し、[**作成**]をクリックします。
+1. チームメイトに関連する重要な情報を追加し（オプション）、[**作成**] をクリックします。
 
    ![](assets/nine.png)
-
->[!MORELIKETHIS]
->
->[グループを共有する方法](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
