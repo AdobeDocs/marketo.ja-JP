@@ -2,10 +2,10 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
+source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 5%
+source-wordcount: '1017'
+ht-degree: 6%
 
 ---
 
@@ -74,3 +74,5 @@ ht-degree: 5%
 ## お知らせ {#announcements}
 
 **リード廃止/Munchkin Beta 161 アップデートの関連付け**:2021 年 9 月 7 日、Munchkin のバージョン 161 は、Munchkin Beta を有効にした購読者の 10%に、続いて 9 月 16 日に 50%、9 月 30 日に 100%を展開し始めました。この変更は、Marketo Engageのランディングページと、最新バージョンのロールアウト先のサブスクリプションから読み込まれる外部ランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。 このバージョンは、Munchkin Associate Lead メソッドを完全に廃止します。これは、Marketo Engageサブスクリプションに個人のデータを送信し、既知の人物レコードと関連する Web 閲覧履歴を送信できる機能です。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より新しく安全な代替手段に代わって、アソシエイトリードは削除されています。 [この廃止について詳しくは、こちら](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。
+
+これらの機能および機能強化の詳細を確認するには、2021 年 10 月 28 日の午前 9:00 PT /午後 12:00 ET で、製品チームとのライブウェビナーで、これらの革新に深く掘り下げるために、ぜひ [ 今すぐ登録 ](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) してください。
