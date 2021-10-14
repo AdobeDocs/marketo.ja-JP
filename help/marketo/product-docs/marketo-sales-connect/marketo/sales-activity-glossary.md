@@ -2,9 +2,9 @@
 description: 販売活動の用語集 — Marketoドキュメント — 製品ドキュメント
 title: 販売活動の用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 12%
 
 ---
@@ -121,7 +121,7 @@ Sales Connect で、販売者が次の操作を実行したとき。リードを
   <td>ソース</td>
  </tr>
  <tr>
-  <td>ユーザー ID(MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="11">セールス電話を受信</th>
@@ -155,7 +155,7 @@ Sales Connect で、販売者が次の操作を実行したとき。リードを
   <td>セールス電話対応者</td>
  </tr>
  <tr>
-  <td>Marketoの販売担当者 ID(MSC)</td>
+  <td>Marketo Sales Person ID</td>
  </tr>
  <tr>
   <th rowspan="6">セールスキャンペーンに追加</th>
@@ -216,6 +216,10 @@ Sales Connect で、販売者が次の操作を実行したとき。リードを
   <tr> 
    <td><strong>リンク</strong></td> 
    <td>クリックされた URL。</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Sales Person ID</strong></td> 
+   <td>Sales Connect のユーザーレコードの一意の ID。</td> 
   </tr> 
   <tr> 
    <td><strong>受信者</strong></td> 
