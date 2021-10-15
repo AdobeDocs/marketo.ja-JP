@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 5%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 5%
 ## Sales Connect {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
-
-**E メール接続のスロットリング (GA)**:E メールの配信品質を向上し、Sales Connect 用の E メール接続のスロットリングを使用して、パーソナライズされた販売コミュニケーションを拡大/縮小します。この革新的なテクノロジーは、E メールの送信タイミングを自動的に管理し、Exchange および Gmail ユーザーのシームレスなエクスペリエンスを実現します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか、減らすか、減らして、Sales Connect から確実にすべての電子メールを送信します。
 
 **販売活動インサイトの強化**:新しい電子メール返信トラッキングアクティビティ「返信済みの販売」は、Marketo Engageと自動的に同期された電子メールを使用した受信者のインタラクションを追跡します。さらに、「ソース」属性が「Tout」から「Sales App」に更新されました。 このアクティビティは、Marketo Engageの REST API または一括エクスポートを通じてエクスポートおよびレポートでき、スマートリストの追加制約としてフィルターおよびトリガーで使用でき、スマートキャンペーンのパーソナライゼーションオプションを拡張できます。
 
