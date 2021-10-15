@@ -2,10 +2,10 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
-ht-degree: 6%
+source-wordcount: '1178'
+ht-degree: 5%
 
 ---
 
@@ -40,6 +40,10 @@ ht-degree: 6%
 **_四半期を通した段階的リリース_**
 
 以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
+
+**オーディエンスをMarketo Engageに共有するためのネイティブAdobe Experience Platform Connector**:ネイティブの宛先コネクタを介してAdobe Experience Platformで作成されたオーディエンスセグメントに対して、Marketo Engageでの複数チャネルのキャンペーンオーケストレーションを有効にします。コネクタは、電子メールアドレスまたは ECID を使用して、Adobe Experience PlatformプロファイルをMarketo Engageの個人レコードと照合し、アプリケーション間でセグメントを共有します。 Marketo Engageの静的リストは自動的に入力され、マーケターは、高度にパーソナライズされたメッセージングを使用してターゲットオーディエンスにリーチしたり、ワークフローを開始したりできます。 アカウントとオポチュニティのコンテキストを活用して、人々のオーディエンスをアクティブ化します。また、より完全なリアルタイムの統合プロファイルをExperience Platformで利用できます。
+
+**Adobe Experience Platform Marketo Data Source Connector**:Adobe Experience PlatformとMarketo Engageの両方のユーザーが、Marketo Source Connector を利用してMarketoから AEP にデータを取り込むことができます。AEP 内でMarketoからデータ（およびその変更）をストリーミングして、2 つの製品間でデータの一貫性を維持できます。 Marketoコネクタは、ソースカタログの「Adobeアプリケーション」の下に表示されます。
 
 ## Sales Insight {#sales-insight}
 

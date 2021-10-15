@@ -3,9 +3,9 @@ description: ダイアログ — Marketoドキュメント — 製品ドキュ�
 title: ダイアログ
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 1%
 
 ---
@@ -44,7 +44,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis はデフォルトで設定されます。「値の選択」フィールドに「 CA 」と入力します（ドロップダウンをクリックして、リストから「 」を選択することもできます）。
+1. __ デフォルトで設定される Isis。「値の選択」フィールドに「 CA 」と入力します（ドロップダウンをクリックして、リストから「 」を選択することもできます）。
 
    ![](assets/dialogues-5.png)
 
@@ -84,15 +84,17 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
    >
    >誰かが Web サイトを訪問したとき、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) はそれらを cookie でクッキングし、システムに格納します。 私たちは彼らの IP を特別なデータベースで調べ、あらゆる種類の良い情報を推測する。
 
-1. __ Isis はデフォルトで設定されます。「値の選択」フィールドに「 NY 」と入力します（ドロップダウンをクリックして、リストから「 」を選択することもできます）。
+1. __ デフォルトで設定される Isis。「値の選択」フィールドに「 NY 」と入力します（ドロップダウンをクリックして、リストから「 」を選択することもできます）。
 
    ![](assets/dialogues-12.png)
 
 ## グループの追加 {#add-groups}
 
-特定の属性をすべて他の属性の「いずれか」と共に持つ場合に備えて、属性をグループ化することもできます。
+特定の属性をすべて他の属性の「すべてまたは任意」と共に持つ場合は、属性をグループ化するオプションもあります。 複数のグループを追加できます。
 
-これを終える
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## ターゲット {#target}
 
@@ -107,7 +109,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
 >[!NOTE]
 >
->アスタリスクを使用すると包括的なワイルドカードとして機能します。 したがって、`https://*.website.com` は、サブドメインを含むサイトのすべてのページにダイアログを配置します ( 例：`support.website.com`) に置き換えます。 `https://website.com/folder/*` は、次のフォルダーのすべての HTML ページにダイアログを配置します ( 例：この場合、フォルダーが「sports」であるとします。そのため、次のようになります。website.com/sports/baseball.html、website.com/sports/football.htmlなど )。
+>アスタリスクを使用すると包括的なワイルドカードとして機能します。 したがって、`https://*.website.com` は、サブドメインを含むサイトのすべてのページにダイアログを配置します ( 例：`support.website.com`) に置き換えます。 `https://website.com/folder/*` は、後続のフォルダ内のすべてのHTMLページにダイアログを配置します ( 例：この場合、フォルダーが「sports」であるとします。そのため、次のようになります。website.com/sports/baseball.html、website.com/sports/football.htmlなど )。
 
 ## ストリームデザイナー {#stream-designer}
 
@@ -140,9 +142,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
 **ストリームの作成**
 
-作成するストリームの組み合わせは _多数_ です。 この例では、はい/いいえの質問をし、いくつかの回答を用意します。
-
-例
+作成するストリームの組み合わせは _多数_ です。 この記事 ](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) の例を 1 つ見てみましょう。[
 
 ## レポート {#reports}
 

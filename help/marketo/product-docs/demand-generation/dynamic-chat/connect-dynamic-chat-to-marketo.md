@@ -3,9 +3,9 @@ description: Dynamic Chat をMarketoに接続 — Marketoドキュメント — 
 title: Dynamic Chat をMarketoに接続
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,9 @@ ht-degree: 0%
 
 1. 以前にAdobe IDでアプリにアクセスしたことがある場合は、Dynamic Chat に直接アクセスできます。 そうでない場合は、[Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) を設定します。
 
-   PICC （左のナビゲーションが固定された場合のスクリーンショット）
-
 1. Marketoインスタンスに接続するには、「**統合**」を選択します。
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. Marketoカードで、「**同期を開始**」をクリックします。
 
