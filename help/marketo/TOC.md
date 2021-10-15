@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 78fc4dd6325abbebcad8446672159c9b75bf8470
+source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
 workflow-type: tm+mt
-source-wordcount: '7959'
+source-wordcount: '7968'
 ht-degree: 96%
 
 ---
@@ -1272,7 +1272,12 @@ ht-degree: 96%
          + [Google Chrome 用 Marketo Insights の使用](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Googleメールでの個人情報とアカウント情報の表示およびアクティビティ](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics用MSI {#msi-for-microsoft-dynamics}
-         + [機能概要](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+         + 機能 {#features}
+            + [機能概要](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+            + Marketoタブ{#marketo-tab}
+               + [最優先](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+               + [電子メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [Web アクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + インストール中 {#installing}
             + [Microsoft Dynamics用Marketo Sales Insight Solutionのダウンロード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 2011でのMarketo Sales Insightのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)

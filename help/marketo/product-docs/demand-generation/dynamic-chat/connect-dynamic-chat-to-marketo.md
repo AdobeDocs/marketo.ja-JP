@@ -3,7 +3,7 @@ description: Dynamic Chat をMarketoに接続 — Marketoドキュメント — 
 title: Dynamic Chat をMarketoに接続
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ ht-degree: 0%
 
    PICC （新しいサブを手に入れたときのスクリーンショット）
 
-   >[!NOTE]
-   >
-   >データベースのサイズに応じて、同期が完了するまでに 5 分から 8 時間かかる場合があります。 平均同期時間は 60 分です。 時間枠の確認
+>[!NOTE]
+>
+>データベースのサイズに応じて、同期が完了するまでに 5 分から 8 時間かかる場合があります。 平均同期時間は 60 分です。 時間枠の確認
 
-関連記事
+>[!MORELIKETHIS]
+>
+>[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

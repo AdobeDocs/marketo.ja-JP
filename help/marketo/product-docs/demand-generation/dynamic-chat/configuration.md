@@ -3,9 +3,9 @@ description: 設定 — Marketoドキュメント — 製品ドキュメント
 title: 構成
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 4%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 4%
 
 **エージェントの設定**
 
-エージェントの設定で、チャットボックスにラベルを追加できます ( 例：「Adobeボット」) が最上部に表示されます。 また、応答遅延（秒単位）を決定し、チャットのアバターを変更することもできます。
+エージェントの設定で、チャットボックスにラベルを追加できます ( 例：「Adobeボット」) が表示されます。 また、応答遅延（秒単位）を決定し、チャットのアバターを変更することもできます。
 
 ![](assets/configuration-5.png)
 
@@ -60,4 +60,4 @@ Web サイトにチャットボットを表示するには、まず Dynamic Chat
 
 >[!NOTE]
 >
->Marketoサポートは、HTML のトラブルシューティングを支援するように設定されていません。 HTML のサポートについては、Web 開発者にご相談ください。
+>Marketoサポートは、トラブルシューティングHTMLを支援するように設定されていません。 HTML のサポートについては、Web 開発者にご相談ください。

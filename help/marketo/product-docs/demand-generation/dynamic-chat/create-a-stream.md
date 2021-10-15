@@ -3,18 +3,18 @@ description: ストリームの作成 — Marketoドキュメント — 製品�
 title: ストリームの作成
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 1%
 
 ---
 
 # ストリームの作成 {#create-a-stream}
 
-作成するストリームの組み合わせは _多数_ です。 マーケターがサイト訪問者に質問する例を以下に示します。 設定されている場合、訪問者は予定をスケジュールできます。 いいえの場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。 目標は、予定をスケジュールするか、訪問者の E メールを収集することです。
+_多数の_ ストリームの組み合わせを作成できます。 以下は、マーケターがサイト訪問者に製品に関する質問をする例です。 設定されている場合、訪問者は予定をスケジュールできます。 いいえの場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。 目標は、予定をスケジュールするか、訪問者の E メールを収集することです。
 
-1. [ ダイアログ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) を作成した後、「ストリームデザイナー」タブをクリックします。
+1. [ ダイアログ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) を作成したら、「**ストリームデザイナー**」タブをクリックします。
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ ht-degree: 1%
      <td>情報の提供を促すメッセージが訪問者に表示されます。</td>
     </tr>
     <tr>
-     <td><strong>訪問者が何を入力するかを確認するのに役立つサンプルテキスト。</strong></td>
-     <td>テキスト</td>
+     <td><strong>プレースホルダー</strong></td>
+     <td>訪問者が何を入力するかを確認するのに役立つサンプルテキスト。</td>
     </tr>
     <tr>
      <td><strong>応答を属性にマッピング</strong></td>
@@ -116,3 +116,7 @@ ht-degree: 1%
 >[!NOTE]
 >
 >「公開」をクリックする前に、必ず [ ターゲット URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) を入力してください。
+
+>[!MORELIKETHIS]
+>
+>[ダイアログ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)
