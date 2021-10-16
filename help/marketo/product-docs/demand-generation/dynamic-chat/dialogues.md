@@ -1,11 +1,11 @@
 ---
-description: ダイアログ — Marketoドキュメント — 製品ドキュメント
-title: ダイアログ
+description: Dialogues - Marketo Docs - Product Documentation
+title: Dialogues
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
    ![](assets/dialogues-1.png)
 
-1. 「**新規作成**」ボタンをクリックします。
+1. Click the **Create New** button.
 
    ![](assets/dialogues-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
+>Priority determines which Dialogue will be shown to a visitor when they qualify for multiple Dialogues simultaneously.
 
 ## オーディエンス条件 {#audience-criteria}
 
@@ -54,7 +54,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
    >[!NOTE]
    >
-   >**+** アイコンをクリックして、属性を選択することもできます。
+   >You can also choose an attribute by clicking its **+** icon.
 
 1. 演算子のドロップダウンをクリックし、「**次よりも大きい**」を選択します。
 
@@ -63,6 +63,8 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 1. 「 50 」と入力し、画面の別の場所をクリックして保存します。
 
    ![](assets/dialogues-8.png)
+
+これで完了です。
 
 **匿名担当者**
 
@@ -76,7 +78,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
    ![](assets/dialogues-10.png)
 
-1. **推定状態** 属性を取得し、_ここに属性をドラッグ&amp;ドロップ_ します。
+1. Grab the **Inferred State** attribute and drag it to where it says _drag and drop an attribute here_.
 
    ![](assets/dialogues-11.png)
 
@@ -113,7 +115,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
 ## ストリームデザイナー {#stream-designer}
 
-ストリームデザイナーは、チャットの会話を形成するために追加できる様々なカードを含んでいます。
+The stream designer contains different cards you can add to shape the chat conversation.
 
 <table>
  <tr>
@@ -124,14 +126,14 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
  </tr>
  <tr>
   <td><strong>質問</strong></td>
-  <td>複数選択の質問に対して、利用可能な回答を提供する場合に使用します ( 例：あなたはどのような車に興味がありますか？ 応答= SUV、コンパクト、トラックなど )。</td>
+  <td>Use when you want to ask a multiple choice question, of which you supply the available responses (ex: What type of vehicle are you interested in? 応答= SUV、コンパクト、トラックなど )。</td>
  </tr>
  <tr>
-  <td><strong>情報キャプチャ</strong></td>
+  <td><strong>Information Capture</strong></td>
   <td>情報を収集する場合は、を使用します。 選択できるフィールドは、「電子メールアドレス」、「電話番号」および「テキスト」（訪問者が独自のメッセージを書き込めるようにする）の 3 つです。</td>
  </tr>
  <tr>
-  <td><strong>予定スケジューラ</strong></td>
+  <td><strong>Appointment Scheduler</strong></td>
   <td>訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。 カレンダーの可用性は、<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing"> 行 </a> の次のエージェントを反映しています。</td>
  </tr>
  <tr>
@@ -142,7 +144,7 @@ _多くの_ 属性の組み合わせから選択できます。 この例では�
 
 **ストリームの作成**
 
-_多くの_ ストリームの組み合わせが考えられます。 この記事 ](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md) の例を見てみましょう。[
+_多くの_ ストリームの組み合わせが考えられます。 Let&#39;s look at one example [in this article](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## レポート {#reports}
 
@@ -156,18 +158,18 @@ _多くの_ ストリームの組み合わせが考えられます。 この記�
  </tr>
  <tr>
   <td><strong>エンゲージ済</strong></td>
-  <td>訪問者がチャットボットのアンカーをクリックするたびに増分され、ダイアログが開きます。</td>
+  <td>Increments every time a visitor clicks on the chatbot anchor to open the Dialogue.</td>
  </tr>
  <tr>
   <td><strong>完了済み</strong></td>
-  <td>訪問者がダイアログ内のブランチの終わりに到達するたびに増分されます。</td>
+  <td>Increments every time a visitor reaches the end of any branch in a Dialogue.</td>
  </tr>
  <tr>
-  <td><strong>キャプチャされた人</strong></td>
+  <td><strong>People Captured</strong></td>
   <td>訪問者がダイアログフローで有効な電子メールアドレスを入力するたびに増分されます。</td>
  </tr>
  <tr>
-  <td><strong>会議の予約</strong></td>
+  <td><strong>Meetings Booked</strong></td>
   <td>訪問者がチャットボットを介して予定のスケジュールに成功するたびに増分します。</td>
  </tr>
  <tr>
