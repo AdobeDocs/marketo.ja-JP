@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketoガイド
 user-guide-description: Marketo製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '7968'
-ht-degree: 96%
+source-wordcount: '7972'
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
       + [セットアップチェックリスト](getting-started/setup-steps/setup-checklist.md)
       + [Marketoのプロトコルの設定](getting-started/setup-steps/configure-protocols-for-marketo.md)
    + クイック勝ち{#quick-wins}
-      + [セットアップとユーザーの追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
+      + [設定とユーザーの追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
       + [フォームを含むランディングページ](getting-started/quick-wins/landing-page-with-a-form.md)
       + [シンプルスコア](getting-started/quick-wins/simple-scoring.md)
@@ -481,7 +481,7 @@ ht-degree: 96%
             + [タブレットからイベントにユーザーをチェックインする](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [チェックインアプリへのアクセス権の付与](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [イベントの準備](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [iPadまたはAndroidタブレットのセットアップ](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+            + [iPadまたは Android タブレットのセットアップ](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo注目の出来事 {#marketo-moments}
             + モーメント{#understanding-moments}について
                + [Marketo Momentsについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -522,7 +522,7 @@ ht-degree: 96%
             + [組織サービスのURLの表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011オンプレミス{#microsoft-dynamics-2011-on-premises}
                + [手順1/3:Marketo Solution（2011年オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [手順2 / 3:Dynamics (2011 On-Premises)でのMarketo Syncユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+               + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
                + [手順3/3:Microsoft DynamicsとMarketo（2011オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013オンプレミス{#microsoft-dynamics-2013-on-premises}
                + [手順1/3:Dynamics (2013 On-Premises)にMarketoソリューションをインストールする](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
@@ -530,7 +530,7 @@ ht-degree: 96%
                + [手順3/3:MarketoとDynamics (2013 On-Premises)の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2015オンプレミス/2016 Dynamics 365オンプレミス{#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [手順1/3:Marketo Solution - 2015オンプレミス/ 2016 Dynamics 365オンプレミスのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [手順2 / 3:オンプレミス/オンプレミスのDynamics 2015 / 2016 Dynamics 365でのMarketo Syncユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [手順 2 / 3:オンプレミス/2016 Dynamics 365 オンプレミスでのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [手順3/3:MarketoとDynamics 2015のオンプレミス/ 2016 Dynamics 365のオンプレミス接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [手順1/3:Marketo Solutionのインストール（オンライン）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
@@ -657,9 +657,9 @@ ht-degree: 96%
          + [facebookでのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [facebookのリッチ投稿設定の編集](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [facebookへのランディングページの公開](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [facebook Lead Adsの設定](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [facebook Lead Ads の設定](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [カスタムフィールドのMarketoへのマッピング](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [facebook Offline Conversionsの設定](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [facebookオフライン変換の設定](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
          + [facebookとMarketoのデスクトップ統合のためのLead Adsのテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Marketoとのモバイル統合のためのFacebookリード広告のテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Facebook のオフラインコンバージョンについて](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
@@ -1275,6 +1275,7 @@ ht-degree: 96%
          + 機能 {#features}
             + [機能概要](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
             + Marketoタブ{#marketo-tab}
+               + [MSI ビューの設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [最優先](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [電子メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [Web アクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)

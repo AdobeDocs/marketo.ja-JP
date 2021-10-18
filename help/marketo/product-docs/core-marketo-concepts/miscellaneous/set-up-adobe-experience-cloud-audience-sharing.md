@@ -1,16 +1,16 @@
 ---
 unique-page-id: 42762511
-description: Adobe Experience Cloud オーディエンス共有のセットアップ - Marketo ドキュメント - 製品ドキュメント
-title: Adobe Experience Cloud オーディエンス共有のセットアップ
+description: Adobe Experience Cloudオーディエンス共有のセットアップ — Marketoドキュメント — 製品ドキュメント
+title: Adobe Experience Cloudオーディエンス共有のセットアップ
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
-workflow-type: ht
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
-# Adobe Experience Cloud オーディエンス共有のセットアップ {#set-up-adobe-experience-cloud-audience-sharing}
+# Adobe Experience Cloudオーディエンス共有のセットアップ {#set-up-adobe-experience-cloud-audience-sharing}
 
 オーディエンスデータを Adobe アプリケーションと共有するには、まず Marketo に Adobe の IMS 組織資格情報を入力する必要があります。手順は以下のとおりです。
 
