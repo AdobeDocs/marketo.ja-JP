@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352490
-description: Salesforceにログインしませんでした —Marketoドキュメント — 製品ドキュメント
-title: Salesforceにログインしなかった
+description: Salesforce に記録されなかった - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce に記録されなかった
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforceにログインしませんでした{#didnt-log-to-salesforce}
+# Salesforce に記録されなかった {#didnt-log-to-salesforce}
 
-Salesforceへの呼び出しログが表示されない場合は、Salesforceでリード/連絡先が見つからない可能性があります。
+Salesforce に通話記録が表示されない場合は、Salesforce でリード／連絡先が見つからないことが原因である可能性があります。
 
-正しいリード/連絡先に対する呼び出しの場合、Sales ConnectにSalesforce IDが必要です。 Salesforce IDをSales Connectに追加する最良の方法は、Sales Connectにプッシュ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)機能を使用することです。 [Push to Sales Connectを使用する場合、連絡先の移行にSalesforce IDが含まれます。
+正しいリード／連絡先に対する通話を記録するには、Sales Connect で Salesforce ID が必要です。Salesforce ID を Sales Connect に追加する最もいい方法は、[Sales Connect にプッシュ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)機能を使用することです。Sales Connect にプッシュを使用する場合、連絡先の移行データに Salesforce ID が含められます。
