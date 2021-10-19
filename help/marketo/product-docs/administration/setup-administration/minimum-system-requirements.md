@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359900
-description: 必要システム構成 —Marketoドキュメント — 製品ドキュメント
+description: 必要システム構成 - Marketo ドキュメント - 製品ドキュメント
 title: 必要システム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 最小システム要件{#minimum-system-requirements}
+# 必要システム構成 {#minimum-system-requirements}
 
-ログインしてMarketoを使用する必要がある場合は、次の情報をご覧ください。
+Marketo にログインして使用するために必要なものをご紹介します。
 
 >[!NOTE]
 >
->iOSとAndroidはまだサポートされていません。
+>iOS および Android はまだサポートされていません。
 
-* Windows、OS X、またはLinuxを実行するコンピューターまたはラップトップ
+* Windows、OS X または Linux を実行するコンピューターまたはラップトップ
 * キーボードとマウス
-* 最低解像度1280 x 768のモニタ
-* 最新のブラウザーについて詳しくは、[サポートされているブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)を参照してください
+* 解像度 1280 x 768 以上のモニター
+* 最新のブラウザーについて詳しくは、「[サポートされているブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)」を参照してください。
 * インターネット接続
 
 >[!NOTE]
 >
->ITチームがMarketoを使用したWebアクセスを制限し許可リストている場合は、`*.marketo.com`を追加して、すべてのリソースとWebソケットを許可するように依頼してください。
+>IT チームが許可リストを使用して web アクセスを制限している場合は、`*.marketo.com` を追加してすべての Marketo リソースと web ソケットを許可するように依頼します。
