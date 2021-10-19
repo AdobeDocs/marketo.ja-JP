@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352411
-description: 検証用の電子メールを受信しない —Marketoドキュメント — 製品ドキュメント
-title: 確認用の電子メールを受信しない
+description: 確認メールを受信していない場合 - Marketo ドキュメント - 製品ドキュメント
+title: 確認メールを受信していない場合
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 検証用電子メールを受信しない{#never-received-a-verification-email}
+# 確認メールを受信していない場合 {#never-received-a-verification-email}
 
-私たちから確認メールを受け取ってない？
+確認メールを受信していない場合は、以下を確認してください。
 
-まず、スパムフォルダー内にないことを確認します。
+最初に、スパムフォルダーにないことを確認します。
 
-Eメールが見つからない場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+そこでメールが見つからない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
