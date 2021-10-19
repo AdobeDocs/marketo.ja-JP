@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352437
-description: 会議録画をチームと共有 —Marketoドキュメント — 製品ドキュメント
-title: 通話記録をチームと共有
+description: 通話録音をチームと共有する - Marketo Docs - 製品ドキュメント
+title: 通話録音をチームと共有する
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 通話記録をチームと共有{#share-call-recordings-with-your-team}
+# 通話録音をチームと共有する {#share-call-recordings-with-your-team}
 
-Sales Phoneを使用すると、通話記録を記録および保存できます。 他のチームメンバーと通話の記録を共有する場合は、リンクのコピー元となる場所が2つあります。
+Sales Phone を使用すると、通話録音を記録および保存できます。他のチームメンバーと通話録音を共有する場合は、リンクは次の 2 箇所からコピーできます。
 
-## Web アプリケーション{#copy-recording-link-from-the-person-details-in-the-web-application}の個人の詳細から記録リンクをコピー
+## Web アプリケーションのユーザーの詳細から録音リンクをコピーする {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. [Webアプリケーション](https://toutapp.com/login)に移動します。
+1. [Web アプリケーション](https://toutapp.com/login)に移動します。
 
-1. 個人の詳細を開きます。
+1. ユーザーの詳細を開きます。
 
-1. アクティビティリストの下の呼び出しアクティビティを探します。
+1. アクティビティリストで「通話アクティビティ」を見つけます。
 
-1. 通話の記録を右クリックし、リンクURLをコピーします。
+1. 通話録音を右クリックし、リンク URL をコピーします。
 
-## Salesforceタスクから記録リンクをコピー{#copy-recording-link-from-the-salesforce-task}
+## Salesforce タスクからの録音リンクのコピー {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->このリンクを取得するには、Salesforceへの呼び出しログが必要です。
+>このリンクを取得するには、通話を Salesforce に記録する必要があります。
 
-1. 呼び出し用にSalesforceで作成されたタスクに移動します。
+1. その通話用に Salesforce で作成したタスクに移動します。
 
-1. 「Sales Call Recording」フィールドに一覧表示されたリンクをコピーします。
+1. 「セールス通話録音」フィールドに一覧表示されているリンクをコピーします。
 
 >[!CAUTION]
 >
->URLを通話記録からコピーしないでください。 この記録リンクには有効期限があり、約10分後にエラーページが表示されます。
+>通話録音から URL をコピーしないでください。この録音リンクには有効期限があり、約 10 分が経過するとエラーページが表示されます。
