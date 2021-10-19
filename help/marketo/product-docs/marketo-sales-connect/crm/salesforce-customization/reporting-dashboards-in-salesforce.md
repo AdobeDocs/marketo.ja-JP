@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352464
-description: Salesforce -Marketoドキュメント — 製品ドキュメントのレポートダッシュボード
-title: Salesforceのレポートダッシュボード
+description: Salesforce のレポートダッシュボード - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce のレポートダッシュボード
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforceのレポートダッシュボード{#reporting-dashboards-in-salesforce}
+# Salesforce のレポートダッシュボード {#reporting-dashboards-in-salesforce}
 
-以下で、ダッシュボードの設定方法を説明します。
+以下に、ダッシュボードの設定方法を示します。
 
-## 開いて「レポート{#open-and-click-report}」をクリックします。
+## Open and Click レポート {#open-and-click-report}
 
-1. **タスクとイベント**&#x200B;のレコードタイプを選択します。
-1. 目的の期間と階層構造に基づいて、レポートのパラメーターを定義します。
-1. Salesforceに記録され追加る内部電子メール(例：会社/アカウントがMarketoと等しくない場合)を削除するフィルタ。
-1. **サマリ**&#x200B;レポートの形式を選択します。
-1. 「件追加名」、「割り当て済み」、「Marketo販売クリック数/Marketo販売閲覧数」の各フィールドがレポートに表示されます。
-1. [フィールド]ペインの[**追加数式**]を重複がクリックします。
-1. 数式追加の名前を指定し、形式で「**パーセント**」を選択し、「**グループ1**」を選択します。
-1. 「概要」フィールドで、「**Marketo販売クリック数/Marketo販売閲覧数、**」、「**合計**」の順に選択します。
-1. 数式追加に除算記号を付け、「概要」フィールドで「**レコード数**」を選択します。_名前を付けて保存_
+1. **Tasks and Events** レコードタイプを選択します。
+1. 目的の時間枠や階層構造に基づいて、レポートのパラメーターを定義します。
+1. Salesforce に記録された内部メールを削除するためのフィルターを追加します（例：企業／アカウントが Marketo と等しくない）。
+1. **Summary** レポート形式を選択します。
+1. 「Subject」、「Assigned」および「Marketo Sales Clicked/Marketo Sales Viewed」フィールドをレポートに追加します。
+1. Fields ペイン内の「**Add Formula**」をダブルクリックします。
+1. 数式に名前を追加し、形式に「**Percent**」を選択して、「**Grouping 1**」を選択します。
+1. 「**Marketo Sales Clicked/Marketo Sales Viewed**」を選択して、Summary フィールドで「**Sum**」を選択します。
+1. 数式に除算記号を追加してから、「Summary」フィールドの「**Record Count**」を選択して、_名前を付けて保存_&#x200B;します。
 
-## テンプレートパフォーマンスレポート{#template-performance-report}
+## Template Performance レポート {#template-performance-report}
 
-1. [開く]と[クリック]レポートをカスタマイズして、_[名前を付けて保存]_&#x200B;のフィールドを含めます。
+1. 以下のフィールドを含めるように Open and Click レポートをカスタマイズして、_名前を付けて保存_&#x200B;します。
 
-## テンプレートボリュームレポート{#template-volume-report}
+## Template Volume レポート {#template-volume-report}
 
-1. テンプレートのパフォーマンスレポートを変更し、「Marketoの販売テンプレートが空白ではありません」というフィルタを含めます。
-1. [Marketo販売クリック数]フィールド&#x200B;_名前を付けて保存_&#x200B;を削除します。
+1. Template Performance レポートを修正し、「Marketo Sales Template が空に等しくない」というフィルターを含めます。
+1. 「Marketo Sales Clicked」フィールドを削除して、_名前を付けて保存_&#x200B;します。
 
-## アカウントのトレンドレポート{#trending-accounts-report}
+## Trending Accounts レポート {#trending-accounts-report}
 
-1. 「勘定科目」レコード・タイプを持つアクティビティを選択します。
-1. 次に示すように、レポートのパラメーターとフィールドを設定します。_名前を付けて保存_。
+1. Accounts レコードタイプのアクティビティを選択します。
+1. レポートのパラメーターとフィールドを以下のように設定して、_名前を付けて保存_&#x200B;します。
