@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14746661
-description: コンテンツと添付ファイルに関するFAQ -Marketoドキュメント — 製品ドキュメント
-title: コンテンツと添付ファイルに関するFAQ
+description: コンテンツと添付ファイルに関する FAQ - Marketo ドキュメント - 製品ドキュメント
+title: コンテンツと添付ファイルに関する FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# コンテンツと添付ファイルに関するFAQ {#content-and-file-attachment-faq}
+# コンテンツと添付ファイルに関する FAQ {#content-and-file-attachment-faq}
 
-## コンテンツと添付ファイルの違いについて教えてください。{#what-is-the-difference-between-content-and-a-file-attachment}
+## コンテンツと添付ファイルの違いは何ですか？ {#what-is-the-difference-between-content-and-a-file-attachment}
 
 **添付ファイル**&#x200B;は、通常の電子メールクライアントで使用する添付ファイルと同じです。
 
-**** コンテンツは、任意のファイル（PPT、PDF、Wordドキュメントなど）の説明に使用する内容です。Sales Connectで追跡する必要がある。
+**コンテンツ**&#x200B;は、Sales Connect でトラックするあらゆるファイル（PPT、PDF、Word doc など）を説明するために使用するものです。
 
-このボタンをクリックすると、既にアップロード済みのファイルを選択したり、新しくアップロードして追跡するファイルを選択したりできます。 その後、使用している電子メールまたはテンプレートにリンクを挿入します。
+このボタンをクリックすると、既にアップロード済みのファイルを選択するか、新しいファイルをアップロードしてトラックできます。使用するメールまたはテンプレートにリンクが挿入されます。
 
-受信側で受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。 これにより、各ページ表示を追跡し、ライブフィードのSales Connectユーザーに報告できます。
+受信側で、受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。これにより、各ページビューをトラックし、ライブフィード内の Sales Connect ユーザーにレポートできます。
 
-ファイルとコンテンツのオプションは、次の場所で使用できます。1回限りの電子メール、テンプレート、キャンペーン、Outlook（WindowsとMacの両方）、Gmail、OWA。
+ファイルとコンテンツのオプションは、1 回限りのメール、テンプレート、キャンペーン、Outlook（Windows と Mac の両方）、Gmail、OWA で使用できます。
 
-## コンテンツの管理者、および保存場所{#who-manages-the-content-and-where-is-it-stored}
+## コンテンツは誰が管理し、どこに保存されますか？ {#who-manages-the-content-and-where-is-it-stored}
 
-テンプレートを作成できる任意のユーザーが、Sales Connectリポジトリにコンテンツをアップロードできます。 つまり、ユーザーは選択したコンテンツをアップロードできます。
+テンプレートを作成できる任意のユーザーが、Sales Connect リポジトリーにコンテンツをアップロードできます。つまり、ユーザーは選択したコンテンツをアップロードできます。
 
-## コンテンツ、実践ブック、テンプレートなどをチームで作成/整理できますか。{#can-content-playbooks-templates-etc-be-created-organized-by-teams}
+## コンテンツ、プレイブック、テンプレートなどをチームで作成／整理できますか？ {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
-ユーザーは独自のテンプレートを作成でき、チーム別に整理できます。 これを行うには、[チームの管理]ページでチームを作成します。 その後、チームがテンプレート、実践ブック、グループを共有する際に、ユーザーの購読全体ではなく、それらのグループとのみ共有できるようになります。
+ユーザーは独自のテンプレートを作成でき、チーム別に整理できます。それを行うには、チーム管理ページからチームを作成します。その後、チームがテンプレート／プレイブック／グループを共有するときに、ユーザーの全サブスクリプションではなく、グループとのみ共有できるようになります。
 
 コンテンツは組織全体で共有できます。
