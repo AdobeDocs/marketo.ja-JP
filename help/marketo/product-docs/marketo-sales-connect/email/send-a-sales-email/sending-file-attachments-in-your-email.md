@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352523
-description: 電子メールでの添付ファイルの送信 —Marketoドキュメント — 製品ドキュメント
-title: Eメール内の添付ファイルの送信
+description: メールでの添付ファイル送信 - Marketo ドキュメント - 製品ドキュメント
+title: メールでの添付ファイル送信
 exl-id: 6115b692-169b-457c-af58-437651bc48cc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールに添付ファイルを送信する{#sending-file-attachments-in-your-email}
+# メールでの添付ファイル送信 {#sending-file-attachments-in-your-email}
 
-添付ファイルを送信すると、電子メールを短くして、マーケティングチームが話し合うのに役立ちます。 ただし、大きなファイルを含む電子メールを送信すると、受信者が送信できなくなる可能性があります。
+添付ファイルの送信は、メールの文面を短く保ち、マーケティングチームの説明を伝えるのに最適です。ただし、大きなファイルを含むメールを送信すると、受信者がメールを送信できなくなる可能性があります。
 
-通常、20 MBを超えるファイルは大きすぎて配信できません。 電子メールで送信できる添付ファイルのサイズは、使用している電子メール配信チャネルによって異なります。
+通常、20 MB を超えるファイルは大きすぎて配信できません。メールで送信できる添付ファイルのサイズは、使用しているメール配信チャネルによって異なります。
 
 >[!TIP]
 >
->Toutを電子メール配信チャネルとして使用する場合、電子メールを送信する際に19 MB以下のファイルを使用することをお勧めします。
+>Tout をメール配信チャネルとして使用する場合、メールを送信する際に 19 MB 以下のファイルを使用することをお勧めします。
 
-サイズの大きいファイルを送信する必要がある場合は、最初にzipファイルを圧縮するか、[Webアプリケーション](https://toutapp.com/login)に[追跡可能な添付ファイル](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)としてアップロードしてみてください。
+サイズの大きいファイルを送信する必要がある場合は、まず圧縮するか、[web アプリケーション](https://toutapp.com/login)で[トラック可能な添付ファイル](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)としてアップロードしてみてください。
