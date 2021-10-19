@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352438
-description: 販売電話の概要 —Marketoドキュメント — 製品ドキュメント
-title: 販売電話の概要
+description: セールス電話の概要 - Marketo ドキュメント - 製品ドキュメント
+title: セールス電話の概要
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 販売電話の概要{#sales-phone-overview}
+# セールス電話の概要 {#sales-phone-overview}
 
-## 販売の電話を使う理由{#why-sales-phone}
+## なぜセールス電話をかけるのですか？ {#why-sales-phone}
 
-* 電話をかける時間を大幅に節約。 1回の電話を行うのに2回クリックするだけで、すべてがSalesforceに自動的に記録されます。
-* 地域プレゼンスを利用して、誰かと接続する可能性を高めます。
-* 営業担当者をコーチし、コール記録を利用して、何が効果があり何が効果がないかを把握することで、チームのパフォーマンスを向上させます。
+* 電話をかけることで大幅に時間が節約できます。クリック 2 回で電話をかけることができ、すべて自動的に Salesforce に記録されます。
+* ローカルプレゼンスを利用して、人と結びつく可能性を高めます。
+* 担当者をコーチして、何がうまく行き何がうまく行かないのかを、通話記録を活用して理解し、チームのパフォーマンスを向上させます。
 
-## Sales Phoneのセットアップ方法を教えてください。{#how-do-i-quickly-get-set-up-with-sales-phone}
+## セールス電話の設定を迅速に行う方法を教えてください。 {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**電話番号：1回** だけ入力する必要があります。Sales Connectには、今後のすべての通話に対してユーザーの番号が記憶されます。
+**電話番号：**&#x200B;入力する必要があるのは 1 回のみです。Sales Connect は、今後すべての通話に対する電話番号を記憶します。
 
-**ローカル配置：** 必要なのは、「ローカル配置を使用」をチェックし、最初の呼び出しの呼び出しを記録することだけです。Sales Connectには、今後のすべての通話に対して設定が記憶されます。
+**ローカルプレゼンス：** 「ローカルプレゼンスを使用」をオンにして、最初の通話に向けて通話を記録するだけです。Sales Connect は、今後すべての通話に対する設定を記憶します。
 
-Sales ConnectでSalesforceで自動的に呼び出しアクティビティを作成する場合は、[この記事](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)を参照してください。
+Sales Connect で、Salesforce が自動的に通話アクティビティを作成するようにしたい場合は、[この記事](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)を参照してください。
 
-## Sales Phoneとの通話方法を教えてください。{#how-do-i-make-a-call-with-sales-phone}
+## セールス電話で電話をかける方法を教えてください。 {#how-do-i-make-a-call-with-sales-phone}
 
-Gmail/Outlookのライブフィード、およびWebアプリケーションのコマンドセンター([呼び出しと呼び出し]ボタン、およびSales Connectの任意の連絡先から直接呼び出すことができます。
+Gmail／Outlook のライブフィードおよび web アプリケーションのコマンドセンターから呼び出すことができます（「通話」ボタンおよび「電話をかける」ボタンや、直接 Sales Connect の任意の連絡先から）。
 
-ニコから電話はできますが、まだコールの録音や地元のプレゼンスはサポートしていません。
+Niko から通話できますが、通話の録音やローカルプレゼンスはまだサポートしていません。
 
-コマンドセンターでは、[送信]タブの[コールリスト]を使用できます。
+コマンドセンターでは、「送信済み」タブの「通話リスト」を使用できます。
 
-通話をヒットしたり電話をかけたりすると、Sales ConnectはSalesforceからリード/連絡先の電話番号を取り込みます。 Salesforceに番号が表示されない場合、Sales Connectは、アカウントレコードの電話番号を取り込みます。
+「通話」または「電話をかける」をクリックすると、Sales Connect は Salesforce からリード／連絡先の電話番号を取り込みます。Salesforce に番号が表示されない場合、Sales Connect はアカウントレコードの電話番号を取り込みます。
 
-他のCRMSを使用するチームの場合、Sales ConnectはSales Connectのレコードの番号から電話番号を引き出します。 このデータは[CSVアップロード](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)で簡単に入手できます。
+他の CRMS を使用するチームの場合、Sales Connect は Sales Connect のレコードの番号から電話番号を取り込みます。このデータは、[CSV アップロード](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)で簡単に入手できます。
 
-大きい緑色の&#x200B;**「**&#x200B;を呼び出す」ボタンを押します。 その後、開始が鳴る。 電話を取り上げると、Sales Connectが自動的にリード/連絡先に電話します。
+大きな緑色の「**通話**」ボタンを押します。電話が鳴り始めます。電話を取ると、Sales Connect が自動的にリード／連絡先に電話をかけます。
