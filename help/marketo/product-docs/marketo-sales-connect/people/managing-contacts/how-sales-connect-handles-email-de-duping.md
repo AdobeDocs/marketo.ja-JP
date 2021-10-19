@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352514
-description: Sales Connectが電子メールの重複排除をどのように扱うか —Marketoドキュメント — 製品ドキュメント
-title: Sales Connectが電子メールの重複排除をどのように処理するか
+description: Sales Connect でのメールの重複排除の処理方法 - Marketo ドキュメント - 製品ドキュメント
+title: Sales Connect でのメールの重複排除の処理方法
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Sales ConnectがEメールの重複排除をどのように扱うか{#how-sales-connect-handles-email-de-duping}
+# Sales Connect でのメールの重複排除の処理方法 {#how-sales-connect-handles-email-de-duping}
 
-CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)ファイルをSales Connectに[アップロードする場合、インポートが行われる前に、CSV内のすべての「いいね！」の連絡先を結合します。
+Sales Connect に [CSV ファイルをアップロード](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)する場合、インポートが実行される前に、CSV に含まれるすべての類似の連絡先がマージされます。
 
-同様の電子メールアドレスに基づいて行います。 同じ電子メールアドレスが2つある場合は、それらを1人の連絡先に結合します。
+これは、同じメールアドレスに基づいて行われます。つまり、2 つの同じメールアドレスがある場合、それらを 1 つの連絡先に統合します。
 
-後で同じ連絡先を手動で追加/アップロードしようとした場合、この連絡先は結合されません。
+後から同じ連絡先を手動で追加／アップロードしようとしても、マージされません。
 
-データベースに既に存在する連絡先を追加しようとすると、その連絡先を追加できなくなります。
+既にデータベースにある連絡先を追加しようとしても、追加できないようにします。
