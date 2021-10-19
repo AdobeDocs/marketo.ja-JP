@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352539
-description: カスタムドメイントラッキングの設定方法 —Marketoドキュメント — 製品ドキュメント
-title: カスタムドメイン追跡の設定方法
+description: カスタムドメイントラッキングを設定する方法 - Marketo ドキュメント - 製品ドキュメント
+title: カスタムドメイントラッキングを設定する方法
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# カスタムドメイン追跡の設定方法{#how-to-set-up-custom-domain-tracking}
+# カスタムドメイントラッキングを設定する方法 {#how-to-set-up-custom-domain-tracking}
 
-リンクのカスタムドメイントラッキングを設定するオプションが与えられたので、リンク上にカーソルを置くと、「go.toutapp.com」ではなく「go.yourcompany.com」と表示されます。
+リンクのカスタムドメイントラッキングを設定するオプションが用意されています。リンクにマウスポインターを置くと、「go.toutapp.com」ではなく「go.yourcompany.com」が読み取られます。
 
-この設定を行うには、IT管理者が[設定ページ](https://toutapp.com/custom_tracking_domain)に記載されている手順に従う必要があります。
+これを設定するには、IT 管理者が[設定ページ](https://toutapp.com/custom_tracking_domain)に示す手順に従う必要があります。
 
-この設定が完了すると、電子メールに含まれ許可リストるリンクが「go.yourcompany.com」と表示されます。
+この設定が完了すると、メールに含まれているリンクが許可リストに加えられ、「go.yourcompany.com」と表示されるようになります。
