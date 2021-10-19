@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352489
-description: アクティビティの履歴にログインしませんでした —Marketoドキュメント — 製品ドキュメント
-title: アクティビティの履歴にログインしませんでした
+description: アクティビティ履歴にログが記録されなかった - Marketo ドキュメント - 製品ドキュメント
+title: アクティビティ履歴にログが記録されなかった
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# アクティビティの履歴{#didnt-log-to-activity-history}にログインしませんでした
+# アクティビティ履歴にログが記録されなかった {#didnt-log-to-activity-history}
 
-Salesforceへの呼び出しログが表示されない場合は、Salesforceでリード/連絡先が見つからない可能性があります。
+Salesforce に通話のログが記録されない場合、Salesforce でリード／連絡先が見つかっていない可能性があります。
 
-正しいリード/連絡先に対する呼び出しの場合、Sales ConnectにSalesforce IDが必要です。 Salesforce IDをSales Connectに追加する最良の方法は、Sales Connectにプッシュ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)機能を使用することです。 [Sales Connectへのプッシュを使用する場合、連絡先の移行にSalesforce IDが含まれます。
+通話が正しいリード／連絡先に対してログ記録されるには、Sales Connect には Salesforce ID が必要です。Salesforce ID を Sales Connect に追加する最善の方法は、](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)Sales Connect にプッシュ[機能を使用することです。「Sales Connect にプッシュ」を使用すると、連絡先移行に Salesforce ID が含まれます。
