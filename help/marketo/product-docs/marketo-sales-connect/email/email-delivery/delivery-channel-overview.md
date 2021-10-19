@@ -1,60 +1,59 @@
 ---
 unique-page-id: 14352407
-description: 配信チャネルの概要 —Marketoドキュメント — 製品ドキュメント
+description: 配信チャネルの概要 - Marketo ドキュメント - 製品ドキュメント
 title: 配信チャネルの概要
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 配信チャネルの概要{#delivery-channel-overview}
+# 配信チャネルの概要 {#delivery-channel-overview}
 
-Marketoセールスコネクトには、電子メールを配信する複数のオプションが用意されています。 この記事では、活用できる配信チャネル、選択方法、および選択方法について説明します。
+Marketo Sales Connect には、メールを配信するための複数のオプションが用意されています。この記事では、活用できる配信チャネル、それらの選択方法、そのチャネルを選択するタイミングを確認します。
 
-## 推奨：Eメール接続を介したGmailまたはExchange {#recommended-gmail-or-exchange-via-email-connection}
+## 推奨：メール接続を介した Gmail または Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connectを使用すると、Email Connectionサービスを通じて、セットアップの合理化と配信品質の向上が可能です。 Email Connectionを使用すると、各ユーザは[Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)または[Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)アカウントに接続して、Sales ConnectのすべてのSales Connect電子メールの配信チャネルとして利用できます。
+Sales Connect を使用すると、メール接続サービスを通じて、合理的な設定および強化された到達率を実現できます。メール接続では、各ユーザーの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを Sales Connect に接続し、すべての Sales Connect メールの配信チャネルとして利用できます。
 
-GmailまたはExchangeの利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。
+Gmail または Exchange の利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。0
 
-* これは、信頼性が確立され、配信品質を高く保つための実証済みの配信チャネルです。
-* SPFやDKIMなどの認証方法は、ITチームによって既に構成および管理されているので、追加の設定は必要ありません。
-* 特定の電子メールネットワーク内で電子メールを送信する(Exchange経由で電子メールを受信する会社にExchangeユーザーとして電子メールを送信する)ことで、配信品質をさらに向上できます。
+* これは、定評のある配信チャネルなので、到達率を高く保つことができます。
+* SPF や DKIM などの認証方法は、既に IT チームによって設定および管理されているので、追加の設定が必要ありません。
+* 特定のメールネットワーク内でメールを送信すると（例：Exchange でメールを受信している企業に Exchange ユーザーとしてメールを送信する）、到達率をさらに高めることができます。
 
-これらの配信チャネルには、MicrosoftやGoogleによって適用される送信制限が独自に設けられていることに注意してください。 この問題に対処するために、スロットリングメカニズムを利用して、ユーザーがその制限内にとどまるのを支援します。 [電子メールのスロットリングについて詳しくは、](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
+これらの配信チャネルには、Microsoft や Google によって強制される独自の送信制限があることに注意する必要があります。この問題に対処するために、調整メカニズムを利用して、ユーザーが制限内に収まるようにしています。メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
->デフォルトでは、O365プラグインは常にexchange配信チャネルを使用し、Gmailプラグインは常にGmail配信チャネルを利用してプラグインからの電子メールを配信します。
+>デフォルトでは、O365 プラグインは常に Exchange 配信チャネルを使用し、Gmail プラグインは常に Gmail 配信チャネルを利用して、プラグインからのメールを配信します。
 
-**バウンスの追跡**:MSCでは、送信者の受信トレイに送信されるバウンスメッセージを検出することで、Exchange OnlineまたはGmailユーザーのバウンスを検出できます。これらのバウンス通知は、テンプレートの分析、キャンペーンの分析およびライブフィードの通知にロールアップされます。 バウンスの追跡は、Exchange On-Premのお客様にはサポートされていません。
+**バウンストラッキング**：MSC は、送信者の受信トレイに送信されるバウンスメッセージを検出することで、Exchange Online または Gmail ユーザーのバウンスを検出できます。これらのバウンス通知は、テンプレート分析、キャンペーン分析およびユーザーへのライブフィード通知にまとめて表示されます。Exchange オンプレミスのお客様の場合、バウンストラッキングはサポートされていません。
 
-## SMTP {#custom-delivery-channel-via-smtp}を介したカスタム配信チャネル
+## SMTP によるカスタム配信チャネル {#custom-delivery-channel-via-smtp}
 
-Sales Connectオファーは、サードパーティのSMTPサーバーを接続して、営業チームの優先配信チャネルとして使用する追加のオプションです。
+Sales Connect には、サードパーティの SMTP サーバーを接続して、セールスチームの希望する配信チャネルとして使用するオプションも用意されています。
 
-サードパーティのSMTPプロバイダーの利用は、電子メールの量が最も優先度の高い営業チームにとって非常に優れた選択肢です。 SendgridやSparkpostなどのSMTPプロバイダーは、一括電子メール配信のニーズに対応するように最適化されており、大量の電子メールをデプロイしたいユーザーのニーズに合わせて拡張できます。
+サードパーティの SMTP プロバイダーを利用することは、メールのボリュームを最優先するセールスチームに適したオプションです。SendGrid や SparkPost などの SMTP プロバイダーは、一括メール配信のニーズに対応するように最適化されており、大量の電子メールを展開したいというニーズに合わせて拡張できます。
 
-さらに、サードパーティのSMTPプロバイダは、チームの配信品質のニーズ(電子メール配信レポートや専用のIPアドレスなど)をサポートするために多数の機能をオファーしており、販売用電子メール配信チャネルに関するより詳細な制御と可視性を求めるお客様にとって優れた選択肢です。
+さらに、サードパーティの SMTP プロバイダーは、チームの配信ニーズ（メール配信レポートや専用 IP アドレスなど）をサポートするための様々な機能を提供しており、セールスメールの配信チャネルをより詳細にコントロールし、可視化したいと考えている方には最適な選択肢となります。
 
-## MSCサーバー（レガシー） {#msc-servers-legacy}
+## MSC サーバー（レガシー） {#msc-servers-legacy}
 
-MSCサーバは、一部のレガシーToutAppのお客様でのみ使用できます。 該当するユーザーの電子メール設定にMSCサーバーが表示されます。 レガシーでないお客様の場合は、MSCを選択肢として認識しないため、GmailまたはOutlookのアカウントをSales Connectに接続して、配信チャネルのロックを解除する必要があります。
+MSC サーバーは、一部のレガシー ToutApp のお客様のみ使用できます。これらのお客様は、メール設定に MSC サーバーが表示されます。レガシー版以外のすべてのお客様には、MSC サーバーがオプションとして表示されないので、配信チャネルのロックを解除するには、Gmail や Outlook のアカウントを Sales Connect に接続する必要があります。
 
-MSCサーバーは、DKIMおよびSPF認証方式をサポートしていないため、配信品質が低下する可能性があります。 このため、最高の配信品質を得るには、すべてのお客様にGmailまたはOutlookに接続することをお勧めします。
+MSC サーバーは、DKIM および SPF 認証方式をサポートしていないので、到達率が低下する可能性があります。このため、最高の到達率を得るために、すべてのお客様に Gmail または Outlook に接続することをお勧めします。
 
-## Marketoサーバ{#marketo-servers}
+## Marketo サーバー {#marketo-servers}
 
-Marketoの電子メールサーバーは、Sales Connectと統合できません。 Marketoのサーバーは、一括配信用に最適化されており、マーケターのニーズに合わせて拡張できます。 ただし、GmailとExchangeでは、1:1の販売コミュニケーションの成功率が高いので、販売コミュニケーションにこれらのサーバーを使用することをお勧めします。
+Marketo のメールサーバーは、Sales Connect と統合されていません。Marketo サーバーは、マーケターのニーズに合わせて拡張できるよう、一括配信に最適化されています。ただし、Gmail および Exchange は、1 対 1 のセールスコミュニケーションの成功率が高いので、セールスコミュニケーションにはこれらのサーバーを使用することをお勧めします。
 
 >[!MORELIKETHIS]
 >
->* [Gmailユーザーの電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlookユーザー用電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [カスタム配信チャネルの設定](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [電子メール接続のスロットリング](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [メール接続の調整](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
