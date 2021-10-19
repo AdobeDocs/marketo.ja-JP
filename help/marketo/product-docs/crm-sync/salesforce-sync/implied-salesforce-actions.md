@@ -1,53 +1,52 @@
 ---
 unique-page-id: 4719304
-description: 黙示的なSalesforceアクション —Marketoドキュメント — 製品ドキュメント
-title: 黙示的なSalesforceアクション
+description: 暗黙的な Salesforce アクション - Marketo ドキュメント - 製品ドキュメント
+title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
-# 黙示的なSalesforceアクション{#implied-salesforce-actions}
+# 暗黙的な Salesforce アクション {#implied-salesforce-actions}
 
-Salesforce固有のフローステップが実行される場合、追加のステップが自動的に実行されることがあります。 次にルールを示します。
+Salesforce 固有のフローステップが実行されると、追加の手順が自動的に実行される場合があります。ルールは次のとおりです。
 
-[Salesforce.com](https://Salesforce.com)_に現在連絡先またはリードがいない場合、_&#x200B;ルールが適用されます。
+これらのルールは、_個人が現在 [Salesforce.com ](https://Salesforce.com)_&#x200B;に連絡先またはリードとして存在しない場合に適用されます。
 
 <table> 
  <thead> 
   <tr> 
-   <th>Marketoフローステップ</th> 
+   <th>Marketo フローステップ</th> 
    <th>自動アクション</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>SFDC キャンペーンに追加</td> 
-   <td>担当者を SFDC に同期</td> 
+   <td>SFDC キャンペーンに追加する</td> 
+   <td>個人を SFDC に同期する</td> 
   </tr> 
   <tr> 
-   <td>SFDC キャンペーン内のステータスの変更</td> 
-   <td>担当者をSFDC<br>追加とSFDCキャンペーンに同期</td> 
+   <td>SFDC キャンペーン内のステータスを変更する</td> 
+   <td>個人を SFDC に同期する<br>SFDC キャンペーンに追加する</td> 
   </tr> 
   <tr> 
-   <td>所有者の変更</td> 
-   <td><p>担当者を SFDC に同期</p></td> 
+   <td>所有者を変更する</td> 
+   <td><p>個人を SFDC に同期する</p></td> 
   </tr> 
   <tr> 
-   <td>担当者の変換</td> 
-   <td><p>担当者を SFDC に同期</p></td> 
+   <td>個人をコンバージョンする</td> 
+   <td><p>個人を SFDC に同期する</p></td> 
   </tr> 
   <tr> 
-   <td>タスクの作成</td> 
-   <td>担当者を SFDC に同期</td> 
+   <td>タスクを作成する</td> 
+   <td>個人を SFDC に同期する</td> 
   </tr> 
  </tbody> 
 </table>
 
-**SFDC Type** Filterを使用して、スマートリスト内のSFDCレコードをフィルターで除外できます。演算子は「空ではありません」に設定します。 すべてのSFDCレコードは、このフィールドに値を持ちます。
+**SFDC Type** フィルターを演算子を「空でない」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
 
-これらの自動アクションは、リードが現在[Salesforce.com](https://salesforce.com)にない場合にのみ発生します。
+これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com) に存在しない場合にのみ発生します。
