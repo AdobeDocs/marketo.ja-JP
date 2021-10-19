@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2953457
-description: SFDC同期 — 連絡先の同期 —Marketoドキュメント — 製品ドキュメント
-title: SFDC同期 — 連絡先の同期
+description: SFDC 同期 - 連絡先の同期 - Marketo ドキュメント - 製品ドキュメント
+title: SFDC 同期 - 連絡先の同期
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SFDC同期：連絡先同期{#sfdc-sync-contact-sync}
+# SFDC 同期：連絡先の同期 {#sfdc-sync-contact-sync}
 
-Marketoがデータベース全体をSalesforceと同期したのを知っていましたか？ 同期して5分待ち、その後、毎日、再び同期します。 ここでは、MarketoがSalesforce連絡先を具体的に扱う方法について詳しく説明します。
+Marketo は、データベース全体を Salesforce と同期しています。同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Salesforce の連絡先をどのように扱っているかを詳しく説明します。
 
-## 同期方向{#sync-direction}
+## 同期の方向 {#sync-direction}
 
-連絡先の同期は双方向です。 SalesforceまたはMarketoの連絡先を変更すると、両方のシステムに更新が反映されます。
+連絡先の同期は、双方向です。Salesforce または Marketo で連絡先に変更を加えると、更新内容が両方のシステムに反映されます。
 
-## 両方のシステムで変更が同時に行われた場合はどうなりますか。{#what-if-changes-are-made-in-both-systems-at-the-same-time}
+## 両方のシステムで同時に変更が加えられた場合の動作 {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-私たちは優しく、セールスフォースに勝たせています。 このようなデータの衝突が起きることはまれです。
+Salesforce での変更を優先します。このようなデータの競合が発生することは、ほとんどありません。
 
-## Marketoの連絡先に変えてもいい？{#can-i-convert-a-person-into-a-contact-in-marketo}
+## 人物の Marketo の連絡先への変換 {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-はい、**[人](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&#x200B;をコンバートフローアクションを使用します。
+**[顧客を変換](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&#x200B;フローアクションを使用することで実現できます。
 
 >[!CAUTION]
 >
->Marketoの人をコンバージョンすると、Salesforceで新しいアカウントとオポチュニティが作成されます。 重複アカウントが不要な場合は、Salesforceを使用して変換します。
+>Marketo で人物を変換すると、Salesforce で新しいアカウントと商談が作成されます。アカウントを重複させたくない場合は、Salesforce を使用して変換します。
 
-## 手動で連絡先の同期を強制できますか？{#can-i-manually-force-a-sync-of-a-contact}
+## 手動での連絡先の同期の強制 {#can-i-manually-force-a-sync-of-a-contact}
 
-はい、**[人をSFDCに同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローアクションを使用すると、リアルタイムで同期されます。
+**[顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローアクションを使用して、リアルタイムで同期できます。
 
-## すべての標準フィールドはMarketoと同期しますか。{#does-every-single-standard-field-sync-to-marketo}
+## すべての標準フィールドの Marketo への同期 {#does-every-single-standard-field-sync-to-marketo}
 
-いいえ。すべての標準フィールドが役に立つとは限りません。 すべてのカスタムフィールドを同期の一部とすることができます。
+すべての標準フィールドが有用というわけではなく、すべて同期されるわけではありません。すべてのカスタムフィールドを同期することはできます。
 
 >[!NOTE]
 >
->Marketoは、Marketo同期ユーザがアクセスできるフィールドのみを同期します。
+>Marketo は、Marketo 同期ユーザーがアクセスできるフィールドのみを同期します。
 
-## MarketoはSalesforce検証ルールを順守しますか。{#will-marketo-respect-the-salesforce-validation-rules}
+## Marketo による Salesforce の検証ルールの尊重 {#will-marketo-respect-the-salesforce-validation-rules}
 
-はい、競合がある場合は、リードアクティビティログに結果を記録します。
+検証ルールが尊重され、競合が発生した場合、結果がリードのアクティビティログに記録されます。
