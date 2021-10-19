@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2953465
-description: SFDC同期 — Salesforceの担当者へのリードの変換 —Marketoドキュメント — 製品ドキュメント
-title: SFDC同期 — Salesforceでリードを連絡先に変換
+description: SFDC 同期 - Salesforce でリードを連絡先に変換 - Marketo ドキュメント - 製品ドキュメント
+title: SFDC 同期 - Salesforce でリードを連絡先に変換
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SFDC同期：Salesforceのリードを連絡先に変換{#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
+# SFDC 同期：Salesforce でリードを連絡先に変換 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Salesforceの3つの異なるシナリオを考えてみましょう。(Marketoの[人をフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)に変換を使用しない)
+Salesforce で次の 3 つのシナリオを考えてみます（Marketo の[リードを変換フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)は使用しません）。
 
-1. リードを&#x200B;**新しい連絡先と新しいアカウントに変換**
-1. **既存のアカウント**&#x200B;の&#x200B;**新しい連絡先**&#x200B;にリードを変換する
+1. リードを&#x200B;**新しい連絡先と新しいアカウント**&#x200B;に変換
+1. リードを&#x200B;**既存アカウント**&#x200B;の&#x200B;**新しい連絡先**&#x200B;に変換
 
-1. **既存のアカウント**&#x200B;の&#x200B;**既存の連絡先**&#x200B;へのリードの変換（[結合](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)と同じ）
+1. リードを&#x200B;**既存アカウント**&#x200B;の&#x200B;**既存連絡先**&#x200B;に変換（[マージ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)と同じ）
 
-3つの場合は、すべて&#x200B;**1件の連絡先で、Salesforceでは1件のリード、Marketoでは1件の連絡先、そして1人の人はいません。**
+3 つのケースはどれも、**Salesforce で 1 件の連絡先と 0 件のリード、Marketo で 1 件の連絡先と 0 件のリード**&#x200B;という結果になります。
 
-Marketoでは、レコードにSFDC Type = Contactと表示されます。
+Marketo では、レコードの SFDC タイプが連絡先になります。
 
 >[!TIP]
 >
->Salesforceでの変換時に、[リードのカスタムフィールドが適切にマッピングされていることを確認してください](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)。 データを失いたくない。
+>Salesforce で変換する場合は、[リードのカスタムフィールドが適切にマッピングされていること](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)を確認します。データは失いたくありません。
 
-次を使用して、トリガーとフィルターを行うことができます。&quot;リードはコンバートされました&quot;と&quot;リードはコンバートされました。&quot;
+「変換済みのリード」および「リード変換済み」を使用して、トリガーおよびフィルタリングできます。
