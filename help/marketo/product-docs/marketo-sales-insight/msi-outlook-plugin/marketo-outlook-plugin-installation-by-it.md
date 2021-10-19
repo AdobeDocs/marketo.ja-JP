@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11382815
-description: IT部門別MarketoOutlookプラグインのインストール —Marketoドキュメント — 製品ドキュメント
-title: IT部門によるMarketoOutlookプラグインのインストール
+description: IT による Marketo Outlook プラグインのインストール - Marketo ドキュメント - 製品ドキュメント
+title: IT による Marketo Outlook プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# IT部門によるMarketoOutlookプラグインのインストール{#marketo-outlook-plugin-installation-by-it}
+# IT による Marketo Outlook プラグインのインストール {#marketo-outlook-plugin-installation-by-it}
 
-企業のポリシーによっては、ITチームが従業員のコンピュータにすべてのソフトウェアをインストールする必要がある場合があります。 このような場合、IT部門は、多くの場合、独自の導入ソフトウェアを使用してリモートでこれを実行します。 このドキュメントは、Outlookプラグインをリモートでインストールする展開プロセスで入力として使用するコマンドラインを提供します。
+企業のポリシーにより、IT チームが従業員のコンピューターにすべてのソフトウェアをインストールすることが要求される場合があります。このような場合、IT 部門はしばしば独自の導入ソフトウェアを使用してリモートでこれを実行します。このドキュメントでは、Outlook プラグインをリモートでインストールするためのデプロイメントプロセスで入力として使用するコマンドラインを提供します。
 
 >[!PREREQUISITES]
 >
->[エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) を設定します。
+>エンタープライズキーを[設定](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)します。
 
-次のコマンドラインを、「システム」または/iスイッチを指定した管理ユーザーアカウントで実行してインストールします。
+次のコマンドを、「System」または管理ユーザーアカウントとして実行し、/i スイッチを指定してインストールします。
 
 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -29,7 +28,7 @@ ht-degree: 1%
 >
 >`<pre>msiexec.exe /i MarketoAddInSetup64.msi /qn REG=ABC9-123y-WXYZ-4321</pre>`
 
-トラブルシューティングのために、ログを有効にして出力ログファイルを作成できます。
+トラブルシューティングのためには、ログを有効にして出力ログファイルを作成できます。
 
 `<pre>msiexec.exe /i [File Name] /qn /L*v MarketoAddin.log REG=[Enterprise Key]</pre>`
 
@@ -51,10 +50,10 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->ログファイルのストレージの場所が存在する必要があります。存在しない場合は、インストールが中止されます。
+>ログファイルの保存場所が存在する必要があります。存在しない場合、インストールは中止されます。
 
-異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoftのスイッチの完全なリスト](https://support.microsoft.com/en-us/kb/227091)を参照してください。
+異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/en-us/kb/227091)を参照してください。
 
 >[!MORELIKETHIS]
 >
->[IT部門によるMarketoOutlookプラグインのアンインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[IT による Marketo Outlook プラグインのアンインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
