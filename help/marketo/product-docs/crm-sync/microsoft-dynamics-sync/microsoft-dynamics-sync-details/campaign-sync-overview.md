@@ -1,45 +1,44 @@
 ---
-description: キャンペーン同期の概要 —Marketoドキュメント — 製品ドキュメント
+description: キャンペーン同期の概要 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーン同期の概要
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# キャンペーン同期の概要{#campaign-sync-overview}
+# キャンペーン同期の概要 {#campaign-sync-overview}
 
-キャンペーン同期の一環として、Dynamicsキャンペーンのメンバーシップで動作するように自動化を設定できます。 特定の行動や人口統計に適したリードは、Microsoftキャンペーンの一部として作成できます。
+キャンペーン同期の一環として、Dynamics キャンペーンのメンバーシップを操作するための自動処理を設定できます。特定の行動やデモグラフィックの条件を満たすリードを Microsoft キャンペーンの一部にできます。
 
 >[!PREREQUISITES]
 >
->Marketo用Dynamicsプラグインの最新バージョンに更新します。
+>Marketo 用 Dynamics プラグインを最新バージョンに更新します。
 
 次のフローアクションを使用できます。
 
-* Microsoft追加キャンペーン
-* Microsoftキャンペーンから削除
+* Microsoft キャンペーンに追加
+* Microsoft キャンペーンから削除
 
 >[!NOTE]
 >
->**Microsoft** Campaignから削除すると、Marketoのフローアクションを使用して追加されたユーザーのみが削除されます。
+>**Microsoft キャンペーンから削除**&#x200B;では、Marketo のフローアクションを使用して追加された人のみが削除されます。
 
-次の2つのトリガーもあります。
+また、次の 2 つのトリガーがあります。
 
-* Microsoftキャンペーンに追加
-* Microsoftキャンペーンから削除
+* Microsoft キャンペーンに追加済み
+* Microsoft キャンペーンから削除済み
 
-トリガーは、Marketo・フロー・アクション「Microsoftキャンペーンへ」および「Microsoftキャンペーンから削除」追加のアクションに基づいて実行されます。
+トリガーは、Marketo のフローアクション「Microsoft キャンペーンに追加」および「Microsoft キャンペーンから削除」アクションに基づいて実行されます。
 
 >[!NOTE]
 >
->キャンペーンの同期が機能していて、キャンペーンがMicrosoft Dynamicsで非アクティブでないことを確認してください。
+>キャンペーンの同期が機能し、キャンペーンが Microsoft Dynamics で非アクティブでないことを確認します。
 
 >[!MORELIKETHIS]
 >
 >* [キャンペーン同期の有効化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Dynamicsキャンペーン追加からユーザーを削除する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [Dynamics キャンペーンでのユーザーの追加または削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
 
