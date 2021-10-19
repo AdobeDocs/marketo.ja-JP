@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352484
-description: Salesforce -Marketoドキュメント — 製品ドキュメントに接続する際の「要求を認証できませんでした」の修正方法
-title: Salesforceに接続する際の「要求を認証できませんでした」の修正方法
+description: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce に接続するf際の「リクエストを認証できませんでした」の修正方法
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforceに接続する際の「要求を認証できませんでした」の修正方法{#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# Salesforce に接続するf際の「リクエストを認証できませんでした」の修正方法 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Sales ConnectをSalesforceに接続しようとしたときに「要求を認証できませんでした」というエラーメッセージが表示された場合は、SalesforceのAPIへのアクセスに制限がある可能性があります。 Salesforce管理者に問い合わせて、以下の項目が正しいことを確認してください。
+Sales Connect を Salesforce に接続しようとしたときに「リクエストを認証できませんでした」というエラーメッセージが表示された場合は、Salesforce の API へのアクセスに制約がある可能性があります。Salesforce 管理者に次の点を確認してください。
 
-## ユーザー権限でAPIを有効にする{#enable-api-in-user-permissions}
+## ユーザー権限での API が有効化されている {#enable-api-in-user-permissions}
 
-1. Salesforce管理者にSFDCにログインしてもらいます。
-1. 「**セットアップ**」を選択します。
+1. Salesforce 管理者が SFDC にログインしている
+1. 「**設定**」を選択します。
 1. 「**ユーザーを管理**」を選択します。
-1. **プロファイル**&#x200B;を選択します。
-1. ToutAppユーザーが属するプロファイルを探し、**編集**&#x200B;をクリックします。
-1. 「**管理権限**」まで下にスクロールし、「**APIが有効**」がオンになっていることを確認します。
+1. 「**プロファイル**」を選択します。
+1. ToutApp ユーザーが属するプロファイルを探し、「**編集**」をクリックします。
+1. 下の「**管理権限**」までスクロールし、「**API 有効**」がオンになっていることを確認します。
 
-## SalesforceがSales Connectが{#check-if-salesforce-is-blocking-sales-connect-from-connecting}の接続からブロックしているかどうかを確認
+## Salesforce によって Sales Connect の接続がブロックされているかどうかを確認する {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
-1. Salesforce管理者にSFDCにログインしてもらいます。
-1. 「**セットアップ**」を選択します。
-1. 「**アプリを管理**」を選択します。
-1. 「**Connected Apps OAuth Usage**」を選択します。
-1. Sales Connectの横に「ブロック」と表示されていることを確認します。 「ブロック解除」が表示された場合は、ボタンをクリックして、Sales ConnectのSalesforceへのアクセスをブロック解除します。
+1. Salesforce 管理者に SFDC にログインしてもらいます。
+1. 「**設定**」を選択します。
+1. 「**アプリの管理**」を選択します。
+1. 「**接続済みのアプリケーションの OAuth 使用状況**」を選択します。
+1. Sales Connect の横に「ブロック」と表示されていることを確認します。「ブロック解除」が表示されたらボタンをクリックして、Sales Connect の Salesforce へのアクセスのブロックを解除します。
