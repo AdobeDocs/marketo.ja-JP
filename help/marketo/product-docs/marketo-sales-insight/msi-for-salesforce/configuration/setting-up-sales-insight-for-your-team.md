@@ -1,78 +1,78 @@
 ---
-description: チーム向けのSales Insightの設定 — Marketoドキュメント — 製品ドキュメント
-title: チーム向けの販売インサイトの設定
+description: チーム向けの Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
+title: チーム向けの Sales Insight の設定
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# チーム向けの販売インサイトの設定{#setting-up-sales-insight-for-your-team}
+# チーム向けの Sales Insight の設定 {#setting-up-sales-insight-for-your-team}
 
-ここでは、他のプロファイルのアクセスを削除しながら、Sales Insightにアクセスできるプロファイルを作成する方法を説明します。 これは、[Sales InsightAppExchangeパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)を既にインストール済みのユーザー向けです。
+ここでは、Sales Insight へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法を説明します。これは、[Sales Insight AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)を既にインストール済みのユーザー向けです。
 
-## 販売インサイト用の新しいプロファイルの作成{#create-a-new-profile-for-sales-insight}
+## Sales Insight 用の新しいプロファイルの作成 {#create-a-new-profile-for-sales-insight}
 
-Sales Insightユーザー専用のプロファイルがある場合は、この手順をスキップできます。
+Sales Insight ユーザー専用のプロファイルがある場合は、この手順をスキップできます。
 
-1. Salesforceで、設定ページに移動します。
+1. Salesforce で、Setup ページに移動します。
 
-1. クイック検索でプロファイルを検索し、「**プロファイル**」オプションを選択します。
+1. クイック検索でプロファイルを検索し、「**Profile**」オプションを選択します。
 
-1. ページ上部の「**新しいプロファイル**」ボタンをクリックします。
+1. ページの上部にある「**New Profile**」ボタンをクリックします。
 
-1. コピーするプロファイルを選択し、名前を付けます(例：Sales Insightユーザー)。
+1. 複製するプロファイルを選択して、名前を付けます（例：Sales Insight User）。
 
 1. 終了したら「**保存**」をクリックします。
 
-## 販売インサイト権限の追加{#add-sales-insight-permissions}
+## Sales Insight 権限の追加 {#add-sales-insight-permissions}
 
 1. プロファイルリストに戻ります。
 
-1. 先ほど作成した新しいプロファイル（またはSales Insightにアクセス権を付与したい他の既存のプロファイル）の「**編集**」リンクをクリックします。
+1. 作成した新規プロファイル（または Sales Insight のアクセス権を付与したい既存のプロファイル）の「**編集**」リンクをクリックします。
 
-1. 編集ページで、いくつかの設定を変更する必要があります。
+1. 編集ページでは、いくつかの設定を変更する必要があります。
 
-   **Sales Insightへのアクセスが許可されているプロファイルの場合**:
+   **Sales Insight へのアクセスが許可されているプロファイルの場合**：
 
-   * 「タブ設定」で、「 Marketo 」タブを「デフォルト」に変更します。
-   * 「カスタムオブジェクト権限」で、「 Marketo Sales Insight設定」の「読み取り」、「作成」、「編集」、「削除」をオンにします（ユーザーが通常管理者に使用される設定にアクセスできる場合）。
+   * 「Tab Settings」で、Marketo タブを「Default On」に変更します
+   * 「Custom Object Permissions」で、「Marketo Sales Insight Config」の「Read」、「Create」、「Edit」、「Delete」チェックボックスをオンにします（ユーザーが構成設定にアクセスする必要がある場合。通常は管理者に使用されます）
 
-   **Sales Insightへのアクセスが許可されていないプロファイルの場合**:
+   **Sales Insight へのアクセスが許可されていないプロファイルの場合**：
 
-   * 「タブ設定」で、「 Marketo 」タブを「非表示」タブに変更します
-   * 「カスタムオブジェクト権限」で、「 Marketo Sales Insight設定」の「読み取り」、「作成」、「編集」、「削除」のチェックを外します。
+   * 「Tab Settings」で、Marketo タブを「Tab Hidden」に変更します
+   * 「Custom Object Permissions」で、「Marketo Sales Insight Config」の「Read」、「Create」、「Edit」、「Delete」チェックボックスをオフにします
 
-
-1. 終了したら「**保存**」をクリックします。
-
-## 販売インサイトのレイアウトの作成{#create-layout-for-sales-insight}
-
-1. 設定ページに移動し、**アプリ設定** / **カスタマイズ** / **リード** / **ページレイアウト**&#x200B;をクリックします。 次に、「**新規**」ボタンをクリックします。
-
-1. 選択したレイアウトのコピーを作成し、適切な名前を付けます(例：「販売インサイトのレイアウト」を参照)。
 
 1. 終了したら「**保存**」をクリックします。
 
-1. 連絡先、オポチュニティ、およびアカウントのページレイアウトに対して、これらの手順を繰り返します。
+## Sales Insight のレイアウトの作成 {#create-layout-for-sales-insight}
 
-## 縦断をレイアウトに割り当て{#assign-profile-to-layout}
+1. Setup ページに移動して、**App Setup**／**Customize**／**Leads**／**Page Layouts** をクリックします。次に、「**New**」ボタンをクリックします。
 
-1. 「ページレイアウト」セクションに戻り、「**ページレイアウトの割り当て**」ボタンをクリックします。
-
-1. 「**割り当てを編集**」を選択します。
-
-1. リストからSales Insightプロファイルを選択し、「ページレイアウトの選択」ドロップダウンからSales Insightレイアウトを選択します。
+1. お好みのレイアウトを複製し、レイアウトに適切な名前を付けます（例：Sales Insight Layout）。
 
 1. 終了したら「**保存**」をクリックします。
 
-1. 連絡先、オポチュニティ、およびアカウントのページレイアウトに対して、これらの手順を繰り返します。
+1. 「Contacts」、「Opportunities」、「Accounts」のページレイアウトについても、この手順を繰り返します。
 
-## その他の変更{#other-changes}
+## プロファイルのレイアウトへの割り当て {#assign-profile-to-layout}
 
-ここでは、他にもSales Insightの項目が表示される場所がいくつかあります。 プロファイルを使用してアクセスを制限できないので、それらを直ちに削除する必要があります。
+1. 「Page Layouts」セクションに戻り、「**Page Layout Assignment**」ボタンをクリックします。
 
-* 連絡先、リード、およびアカウントの検索レイアウトから「販売インサイト」ボタンを削除します。
-* 連絡先リストとリードリストから販売インサイト列を削除
+1. 「**Edit Assignment**」を選択します。
+
+1. リストから Sales Insight プロファイルを選択して、「Select Page Layout」ドロップダウンから Sales Insight レイアウトを選択します。
+
+1. 終了したら「**保存**」をクリックします。
+
+1. 「Contacts」、「Opportunities」、「Accounts」のページレイアウトについても、この手順を繰り返します。
+
+## その他の変更点 {#other-changes}
+
+以下に、Sales Insight 項目が表示される可能性のあるその他の場所を示します。プロファイルを使用してアクセスを制限することはできないので、これらの項目を完全に削除する必要があります。
+
+* 「Contacts」、「Leads」、「Accounts」の「Search Layouts」から「Sales Insight」ボタンを削除
+* Contact および Lead リストから Sales Insight 列を削除
