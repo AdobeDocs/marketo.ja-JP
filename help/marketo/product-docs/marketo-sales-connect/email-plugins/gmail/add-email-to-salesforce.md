@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14352483
-description: Salesforceへ追加の電子メール —Marketoドキュメント — 製品ドキュメント
-title: Salesforceへ追加の電子メール
+description: Salesforce にメールを追加する - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce にメールを追加する
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforce追加に電子メール{#add-email-to-salesforce}
+# Salesforce にメールを追加する {#add-email-to-salesforce}
 
-Salesforceへ追加の電子メールは、OutlookまたはGmailで受信した電子メールをSalesforceアカウントにプッシュする場合に使用します。 電子メールの送信者に基づいて検索を行うので、現在、このボタンは受信した電子メールに対してのみ使用でき、送信した電子メールには使用できません。
+Salesforce にメールを追加すると、Outlook または Gmail で受信したメールを Salesforce アカウントにプッシュできます。検索はメールの送信者に基づいておこなわれるため、現在、このボタンは受信したメールにのみ使用でき、送信したメールには使用できません。
 
-Salesforceへ追加の電子メールは、電子メールをリード、連絡先、アカウント、オポチュニティレベルに記録するのに役立ちます。 Opportunityにログを記録すると、連絡先が関連付けられているすべてのOpportunitiesにログが記録されます。
+Salesforce へのメールの追加は、リード、連絡先、アカウント、商談のレベルにメールを記録する際に役立ちます。商談にログを記録すると、連絡先が関連付けられているすべての商談がログに記録されます。
 
-既に送信済みの電子メールをログに記録できるように機能を変更する作業を進めています。 ただし、その間、送信時に自動的にログに記録されなかった場合や、失敗したアクティビティがアクティビティログに表示された場合は、Salesforce BCC電子メールアドレスに転送できます。
+既に送信したメールをログに記録できるように、機能を変更する作業を進めています。ただし、それまでの間、メールが送信時に自動的にログに記録されなかった場合や、失敗したアクティビティがアクティビティログに表示されない場合は、Salesforce の BCC メールアドレスに転送できます。
