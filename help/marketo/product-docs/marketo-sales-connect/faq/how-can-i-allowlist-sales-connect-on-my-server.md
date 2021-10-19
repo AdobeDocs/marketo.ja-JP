@@ -1,16 +1,15 @@
 ---
 unique-page-id: 14352408
-description: サーバー上で許可リストSales Connectをする方法 -Marketoドキュメント — 製品ドキュメント
-title: サーバー上で許可リストSales Connectをする方法
+description: サーバーで Sales Connect を許可リストに加える方法を教えてください。- Marketo ドキュメント - 製品ドキュメント
+title: サーバーで Sales Connect を許可リストに加える方法を教えてください。
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# サーバー上で許可リストSales Connectをする方法{#how-can-i-allowlist-sales-connect-on-my-server}
+# サーバーで Sales Connect を許可リストに加える方法を教えてください。 {#how-can-i-allowlist-sales-connect-on-my-server}
 
-残念ながら、静的IPアドレスを1つ指定する方法はありません。 Sales Connectはクラウドに導入され、200を超えるサーバーを利用して電子メールやユーザーリクエストを処理します。 非常に広い範囲を提供すると、これ以上安全ではありません。
+残念ながら、1 つの静的 IP アドレスを提供する方法はありません。Sales Connect はクラウドにデプロイされ、200 を超えるサーバーを利用してメールやユーザーリクエストを処理します。非常に広い範囲が提供されるので、これ以上の安心感はありません。
