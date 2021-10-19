@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352430
-description: 電子メールを他のCRMにログ記録する方法 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールを他のCRMにログする方法
+description: 他の CRM へのメールを記録する方法 — Marketo ドキュメント — 製品ドキュメント
+title: 他の CRM へのメールを記録する方法
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールを他のCRMにログする方法{#how-to-log-emails-to-other-crms}
+# 他の CRM へのメールを記録する方法 {#how-to-log-emails-to-other-crms}
 
-CRMからBCCアドレスが届いた場合は、「その他」のCRMセクションを使用して電子メールログを設定できます。 設定が完了すると、送信した電子メールはCRMに自動的に記録されます。
+CRM が BCC アドレスを提供する場合は、CRM のその他セクションを使用してメールのログを設定できます。設定が完了すると、送信したメールが CRM に自動的に記録されます。
 
-## {#crms-we-integrate-with}と統合するCRM
+## 統合対象 CRM {#crms-we-integrate-with}
 
-**ほとんどすべてのCRM**:
+**ほとんどすべての CRM**：
 
-* アドビの自動BCC機能は、Sales Connectと共にリードに送信した電子メールのほとんどすべてに対応しています。 CRMからご希望のBCCアドレスが提供されていることを確認してください。
+* アドビの自動 BCC 機能は、Sales Connect でリードに送信したほとんどすべての CRM レコードメールで機能します。活用するには、CRM が BCC アドレスを提供していることを確認してください。
 
-**Salesforce**:
+**Salesforce**：
 
-* 我々は上のことを何度もやる！
+* 上記以外にもいろいろな機能があります。
 
-## 他のCRMへの接続方法{#how-to-connect-to-other-crms}
+## 他の CRM への接続方法 {#how-to-connect-to-other-crms}
 
 1. 「**設定**」をクリックします。
 1. 「**CRM**」をクリックします。
-1. 「その他のCRM」の下の「**接続**」をクリックします。
-1. [**設定**]をクリックし、[BCCへの電子メール]の下にBCCアドレスを貼り付けます。
-1. [**保存**]をクリックすると、BCCアドレスがSales Connectに保存されます。
+1. その他の CRM の下の「**接続**」をクリックします。
+1. 「**設定**」をクリックし、「BCC にメールを送信」の下に BCC アドレスを貼り付けます。
+1. 「**保存**」をクリックすると、BCC アドレスが Sales Connect に保存されます。
 
-   BCCを介して電子メールがCRMにログに記録されるようになります。
+   メールが BCC 経由で CRM に記録されるようになります。
