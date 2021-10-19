@@ -1,18 +1,17 @@
 ---
 unique-page-id: 7504874
-description: Munchkin -Marketoドキュメント — 製品ドキュメント
+description: Munchkin - Marketo ドキュメント — 製品ドキュメント
 title: Munchkin
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 # Munchkin {#munchkin}
 
-Munchkinは、ウェブサイトに配置するJavaScriptのスニペットです。 訪問数、クリック数、およびフォームの入力数を追跡します。 また、あらゆる巧妙なトリックを行う豊富なAPIも備えています。
+Munchkin は、Web サイトに配置する JavaScript スニペットです。訪問回数、クリック数、フォームの入力回数が追跡されます。また、あらゆる巧みなトリックをおこなうための豊富な API を備えています。
 
-Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)の[開発者向けページを見てみてください。
+](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)Munchkin の開発者ページ[を参照してください。
