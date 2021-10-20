@@ -10,7 +10,7 @@ ht-degree: 100%
 
 ---
 
-#  Sales Connect にプッシュ {#push-to-sales-connect}
+# Sales Connect にプッシュ {#push-to-sales-connect}
 
 「Tout にプッシュ」ボタンをクリックすると、Salesforce のリード／連絡先のリストが表示され、Sales Connect のグループにプッシュされます。その後、Tout のトラッキングを添付して、カスタマイズ可能なグループメールをすばやく送信できます。
 
