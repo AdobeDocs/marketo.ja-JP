@@ -3,7 +3,7 @@ description: MSI ビューの設定-Marketo Docs-製品マニュアル
 title: MSI ビューの設定
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 1. 「ダイナミック」で、ギアアイコンをクリックして、 **ドロップダウンリストから「詳細設定」を選択し** ます。
 
-1. 画面の左上にある「設定」をクリック **し** ます。 「カスタマイズ」を選択します。
+1. 画面の左上にある「設定」をクリック **し** ます。 「カスタマイズ」を選択 **** します。
 
 1. 「**システムをカスタマイズ**」をクリックします。
 
