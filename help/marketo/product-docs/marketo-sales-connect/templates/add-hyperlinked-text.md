@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352597
-description: ハイパーリンク追加テキスト —Marketoドキュメント — 製品ドキュメント
-title: ハイパーリンク追加テキスト
+description: ハイパーリンクテキストの追加 — Marketo ドキュメント — 製品ドキュメント
+title: ハイパーリンクテキストの追加
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ハイパーリンク追加テキスト{#add-hyperlinked-text}
+# ハイパーリンクテキストの追加 {#add-hyperlinked-text}
 
-1. ハイパーリンクするテキスト（「ここをクリック」など）を入力します。
+1. ハイパーリンクするテキスト（「ここをクリック」）を入力します。
 
 1. テキストを選択します。
 
-1. エディターでリンクボタンをクリックします。
+1. エディターで「リンク」ボタンをクリックします。
 
-1. リンク先のURL(例：&quot;https://www.mywebsite.com&quot;)。
+1. リンク先の URL を入力します(例：「https://www.mywebsite.com」)。
 
 1. 「**OK**」をクリックします。
