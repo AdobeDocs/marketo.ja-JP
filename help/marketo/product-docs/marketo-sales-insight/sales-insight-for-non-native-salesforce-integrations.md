@@ -1,37 +1,37 @@
 ---
 unique-page-id: 45417125
-description: ネイティブ以外のSalesforce統合向けのSales Insight - Marketoドキュメント — 製品ドキュメント
-title: ネイティブ以外のSalesforce統合に関するセールス・インサイト
+description: 非ネイティブ Salesforce 統合用 Sales Insight - Marketo ドキュメント - 製品ドキュメント
+title: 非ネイティブ Salesforce 統合用 Sales Insight
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 source-git-commit: 73c5375c6e2ec3b2dce09595be1f61f302ff4c25
 workflow-type: tm+mt
 source-wordcount: '1300'
-ht-degree: 0%
+ht-degree: 96%
 
 ---
 
-# ネイティブ以外のSalesforce統合に関するセールス・インサイト {#sales-insight-for-non-native-salesforce-integrations}
+# 非ネイティブ Salesforce 統合用 Sales Insight {#sales-insight-for-non-native-salesforce-integrations}
 
-Marketoアカウントが、カスタマイズされた、または非ネイティブの統合を通じてSalesforceに接続されている場合は、このドキュメントを使用してSales Insightを設定します。
+Marketo アカウントが、カスタマイズされた統合または非ネイティブ統合によって Salesforce に接続されている場合は、このドキュメントを使用して Sales Insight を設定してください。
 
 >[!PREREQUISITES]
 >
->* MSIの設定を開始する前に、Marketoインスタンスに対して有効になっている「MSI非ネイティブ」機能(まだ購入していない場合は、[Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能をまだ購入していない場合は、カスタマーサクセスマネージャーにお問い合わせください)。
->* [MSIパッケージが設定されたSalesforceアカウント](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)。
->* Marketo REST API [が正常にセットアップされました](https://developers.marketo.com/rest-api/)。 公開されたCRUD APIは、非ネイティブ同期の実行の基礎となります。
->* オブジェクトと関係を理解するために、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を読んでください。
->* Salesforceオブジェクトを設定して、大文字と小文字を区別する15文字のグローバル一意識別子ではなく、大文字と小文字を区別しないグローバル一意識別子を18文字で表示するようにします。
+>* Marketo インスタンスに対して有効になっている MSI 非ネイティブ機能が有効になっていない場合は、MSI の設定を開始する前に (この機能を購入した場合は、Marketo サポートまでご連絡ください [ ](https://nation.marketo.com/t5/support/ct-p/Support) 。この機能がまだ購入されていない場合は、カスタマーの成功管理者にお問い合わせください)。
+>* [MSI パッケージが設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)された Salesforce アカウント。
+>* Marketo REST API が[正常に設定](https://developers.marketo.com/rest-api/)されている。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
+>* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を参照してください。
+>* 15 文字の大文字と小文字を区別するグローバルな一意の ID ではなく、18 文字の大文字と小文字を区別しないグローバルな一意の ID を表示するように Salesforce オブジェクトを設定します。
 
 
 >[!NOTE]
 >
->Marketo MSI AdminパネルのREST API設定は、非ネイティブ同期には使用できません。
+>Marketo MSI 管理者パネルの REST API 設定は、非ネイティブ同期には使用できません。
 
-## MSIの非ネイティブ同期が正常に行われるには、次の条件が必要です {#successful-non-native-sync-for-msi-requires-the-following}
+## MSI の非ネイティブ同期を成功させるには、以下が必要です {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. Salesforce Sales UserをMarketoに同期します。
+1. Salesforce Sales User を Marketo に同期します。
 
-   Salesforce Sales Userは、Salesforceでリード/連絡先を所有する外部ユーザーです。 Salesforce Sales User用にMarketoの営業担当者を更新する必要があります。 *externalSalesPersonId*&#x200B;フィールドは、営業担当者のアップサート用に必須です。
+   Salesforce Sales User は、Salesforce のリード／連絡先を所有する外部ユーザーです。この Salesforce Sales User 用に Marketo セールス担当者をアップサートする必要があります。セールス担当者のアップサートには、「*externalSalesPersonId*」フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -41,24 +41,24 @@ Marketoアカウントが、カスタマイズされた、または非ネイテ�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Sales Person Field</strong></td> 
-   <td><strong>Salesforceの「Sales User」フィールド</strong></td> 
+   <td><strong>Marketo「セールス担当者」フィールド</strong></td> 
+   <td><strong>Salesforce「Sales User」フィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
-   <td>Salesforce Salesユーザーは、大文字と小文字を区別しないグローバル一意の識別子を使用します。</td> 
-   <td><p>外部のSalesforce Sales Userオブジェクトに対するMarketoのSales Personレコードを識別します。</p><p>適切な関係を作成するために、他のオブジェクトを同期する前に、営業担当者を最初に同期する必要があります。</p></td> 
+   <td>Salesforce Sales User の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td><p>外部 Salsforce Sales User オブジェクトに対する Marketo セールス担当者レコードを特定します。</p><p>適切な関係が作成されるように、他のオブジェクトを同期する前に、まずセールス担当者を同期させる必要があります。</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-営業担当者向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-営業担当者を同期するためのAPIドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+セールス担当者向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+セールス担当者を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
 
-1. SalesforceアカウントをMarketoに同期します。
+1. Salesforce アカウントを Marketo に同期します。
 
-   Marketoの会社は、Salesforceアカウント用に更新する必要があります。 _externalCompanyId_&#x200B;と&#x200B;_externalSalesPersonId_&#x200B;フィールドは、会社のアップサート用に必須です。
+   この Salesforce アカウント用に Marketo の企業をアップサートする必要があります。企業のアップサートには、「_externalCompanyId_」および「_externalSalesPersonId_」フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -68,29 +68,29 @@ Marketoアカウントが、カスタマイズされた、または非ネイテ�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Company Field</strong></td> 
-   <td><strong>Salesforceアカウントフィールド</strong></td> 
+   <td><strong>Marketo「企業」フィールド</strong></td> 
+   <td><strong>Salesforce「アカウント」フィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
-   <td>Salesforceアカウントで大文字と小文字を区別しないグローバル一意の識別子</td> 
-   <td>外部のSalesforceアカウントオブジェクトに対するMarketo会社レコードを識別します。</td> 
+   <td>Salesforce アカウントの大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>外部 Salsforce アカウントオブジェクトに対する Marketo 企業レコードを特定します。</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
-   <td>Salesforce Salesユーザーは、大文字と小文字を区別しないグローバル一意の識別子を使用します。</td> 
-   <td>Marketo会社レコードを、アカウント所有者の外部Salesforce Sales Userオブジェクトに対して識別します。<br><br>また、Marketo内で会社を会社レコードを所有する営業担当者に関連付けるためにも使用します。このフィールドを設定する前に、販売担当者を最初に同期する必要があります。</td> 
+   <td>Salesforce Sales User の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>アカウント所有者である外部 Salesforce Sales User オブジェクトに対する Marketo 企業レコードを特定します。<br><br>また、Marketo 内で企業レコードを所有するセールス担当者に企業を関連付けるためにも使用されます。このフィールドを設定する前に、まずセールス担当者を同期させる必要があります。</td> 
   </tr> 
  </tbody> 
 </table>
 
-会社向けAPIドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
+企業向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
 `API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
-1. Salesforceのリード/連絡先をMarketoに同期します。
+1. Salesforce のリード／連絡先を Marketo に同期します。
 
-   Salesforceのリード/連絡先にMarketoリードを挿入する必要があります。 _externalPersonId_、_externalSalesPersonId_、_externalCompanyId_&#x200B;の各フィールドは、リードのアップサート用に必須です。
+   この Salesforce のリード／連絡先用に Marketo のリードをアップサートする必要があります。リードのアップサートには、「_externalPersonId_」、「_externalSalesPersonId_」および「_externalCompanyId_」フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -100,34 +100,34 @@ Marketoアカウントが、カスタマイズされた、または非ネイテ�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketoリードフィールド</strong></td> 
-   <td><strong>Salesforceのリード/連絡先フィールド</strong></td> 
+   <td><strong>Marketo「リード」フィールド</strong></td> 
+   <td><strong>Salesforce「リード」／「連絡先」フィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
    <td>externalPersonId</td> 
-   <td>Salesforceリード/連絡先で大文字と小文字を区別しないグローバル一意の識別子</td> 
-   <td>外部のSalesforceリード/連絡先オブジェクトへのMarketoリードレコードを識別します。<br><br>これは、MSI Non-Native用に導入された新しいフィールドです。</td> 
+   <td>Salesforce のリード／連絡先の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>外部 Salsforce リード／連絡先オブジェクトに対する Marketo リードレコードを特定します。<br><br>これは、MSI 非ネイティブ用に導入された新しいフィールドです。</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
-   <td>Salesforce Salesユーザーは、大文字と小文字を区別しないグローバル一意の識別子を使用します。</td> 
-   <td>このリード/連絡先を所有する外部のSalesforce Sales Userオブジェクトを識別します。<br><br>また、リードとMarketoの営業担当者を関連付けます。営業担当者を最初に正しく同期する必要があります。</td> 
+   <td>Salesforce Sales User の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>このリード／連絡先を所有する外部 Salesforce Sales User オブジェクトを特定します。<br><br>また、このリードを Marketo のセールス担当者と関連付けます。最初にセールス担当者を正しく同期させる必要があります。</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
-   <td>Salesforceアカウントで大文字と小文字を区別しないグローバル一意の識別子</td> 
-   <td>リード/連絡先が属する外部Salesforce Accountオブジェクトを識別します。<br><br>また、リードレコードをMarketoの会社に関連付けます。Salesforceアカウントを最初に正しく同期する必要があります。</td> 
+   <td>Salesforce アカウントの大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>リード／連絡先が属する外部 Salesforce アカウントオブジェクトを特定します。<br><br>また、このリードレコードを Marketo の企業と関連付けます。最初に Salesforce アカウントを正しく同期させる必要があります。</td> 
   </tr> 
  </tbody> 
 </table>
 
-リード向けAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
-リードを同期するためのAPIドキュメント： [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+リード向け API ドキュメント：[`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
+リードを同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
-1. Salesforce OpportunitiesをMarketoに同期します。
+1. Salesforce の商談を Marketo に同期します。
 
-   Salesforce Opportunity用にMarketo Opportunityをアップサートする必要があります。 Opportunityのアップサートに対して、 _externalOpportunityId_ 、 _externalCompanyId_ 、 _externalSalesPersonId_&#x200B;の各フィールドが必須です。
+   この Salesforce の商談用に Marketo の商談をアップサートする必要があります。商談のアップサートには、「_externalOpportunityId_」、「_externalCompanyId_」および「_externalSalesPersonId_&#x200B;フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -137,34 +137,34 @@ Marketoアカウントが、カスタマイズされた、または非ネイテ�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Opportunity Object Field</strong></td> 
-   <td><strong>Salesforce Opportunity Objectフィールド</strong></td> 
+   <td><strong>Marketo「商談」オブジェクトフィールド</strong></td> 
+   <td><strong>Salesforce 「商談」オブジェクトフィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
-   <td>Salesforceリード/連絡先で大文字と小文字を区別しないグローバル一意の識別子</td> 
-   <td>外部のSalesforce Opportunityオブジェクトに対するMarketo Opportunityレコードを識別します。</td> 
+   <td>Salesforce のリード／連絡先の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>外部 Salsforce 商談オブジェクトに対する Marketo 商談レコードを特定します。</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
-   <td>Salesforceアカウントで大文字と小文字を区別しないグローバル一意の識別子</td> 
-   <td>このオポチュニティが属する外部Salesforce Accountオブジェクトを識別します。 <br><br>Salesforceアカウントを最初に正しく同期する必要があります。</td> 
+   <td>Salesforce アカウントの大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>この商談が属する外部 Salesforce アカウントオブジェクトを特定します。<br><br>最初に Salesforce アカウントを正しく同期させる必要があります。</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
-   <td>Salesforce Salesユーザーは、大文字と小文字を区別しないグローバル一意の識別子を使用します。</td> 
-   <td>このオポチュニティを所有する外部のSalesforce Sales Userオブジェクトを識別します。 </td> 
+   <td>Salesforce Sales User の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>この商談を所有する外部 Salesforce Sales User オブジェクトを特定します。 </td> 
   </tr> 
  </tbody> 
 </table>
 
-Opportunity向けAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+商談向け API ドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
 `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
-1. Salesforceの連絡先ロールをMarketoに同期します。
+1. Salesforce の連絡先ロールを Marketo に同期します。
 
-   Salesforce OpportunityのSalesforce Contact Rolesは、Marketo Opportunity Roleを介して同期できます。 Opportunity Roleレコードは、_externalOpportunityId_、_role_、_leadId_&#x200B;の各フィールドを指定します。
+   次に、Salesforce の商談の Salesforce 連絡先ロールは、Marketo 商談ロールを介して同期できます。商談ロールレコードには、「_externalOpportunityId_」、「_role_」および「_leadId_」フィールドが必須です。
 
 <table> 
  <colgroup> 
@@ -174,41 +174,41 @@ Opportunity向けAPIドキュメント：[`https://developers.marketo.com/rest-a
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketo Opportunity Role Field</strong></td> 
-   <td><strong>Salesforce連絡先役割フィールド</strong></td> 
+   <td><strong>Marketo「商談ロール」フィールド</strong></td> 
+   <td><strong>Salesforce「連絡先ロール」フィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
-   <td>Salesforce Opportunityでは、大文字と小文字が区別されないグローバル一意の識別子</td> 
-   <td>外部のSalesforce Opportunityオブジェクトに対するMarketo Opportunity Roleを識別します。<br><br>Salesforce Opportunityを最初に正しく同期する必要があります。</td> 
+   <td>Salesforce の商談の大文字小文字を区別しないグローバルな一意の ID</td> 
+   <td>外部 Salsforce 商談オブジェクトに対する Marketo 商談ロールを特定します。<br><br>最初に Salesforce の商談を正しく同期させる必要があります。</td> 
   </tr> 
   <tr> 
    <td>leadId</td> 
-   <td>該当なし(これはMarketoリードIDになります)</td> 
-   <td>これは、Salesforceと同期された連絡先のMarketoリードIDです。<br><br>連絡先がMarketoで同期されたら、Marketo REST APIを使用して、Salesforce Contactの大文字と小文字を区別しないグローバル一意の識別子をexternalPersonIdとして使用し、Marketo Leadのクエリを実行できます。</td> 
+   <td>該当なし、これは Marketo のリード ID になります</td> 
+   <td>これは、同期された Salesforce 連絡先の Marketo リード ID になります。<br><br>連絡先が Marketo で同期されると、Salesforce の連絡先の大文字と小文字を区別しないグローバルな一意の ID を externalPersonId として使用し、Marketo REST API を使用して Marketo のリードをクエリできます。</td> 
   </tr> 
   <tr> 
-   <td>役割</td> 
-   <td>Salesforce連絡先の「役割」フィールド</td> 
-   <td>この営業案件の連絡先の役割を説明します。</td> 
+   <td>role</td> 
+   <td>Salesforce の連絡先の「ロール」フィールド</td> 
+   <td>この商談の連絡先のロールを記述します。</td> 
   </tr> 
  </tbody> 
 </table>
 
-Opportunity向けAPIドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+商談向け API ドキュメント：[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
 `API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
-1. 最後の注目の瞬間/MSIスコアリングフィールドをSFDCに同期します。
+1. 「最新の注目のアクション」／「MSI スコア」フィールドを SFDC に同期します。
 
-   SalesforceオブジェクトがMarketoに正しく同期されたら、MSI機能を利用できます。 MSI Last Intersit Moment/Scoringフィールドは、リードのREST APIで公開されます。 これらのフィールドはMSIによって計算され、読み取り専用です。
+   Salesforce オブジェクトが Marketo に正しく同期されると、MSI 機能を活用できるようになります。MSI の「最新の注目のアクション」／「スコア」フィールドは、リードの REST API で公開されます。これらのフィールドは、MSI によって計算され、読み取り専用です。
 
-   Marketoリードの最後の興味深いモーメント/スコアリングフィールドは、REST APIリードエンドポイントを使用して、Salesforceに定期的に同期する必要があります。 _externalPersonId_&#x200B;をfilterTypeとして使用し、Salesforce Lead GUIDをfilterValueとして渡して、Marketoリードに対してこのエンドポイントをクエリします。
+   Marketo のリードの「最新の注目のアクション」／「スコア」フィールドは、REST API リードエンドポイントを使用することで、定期的に Salesforce に同期される必要があります。_externalPersonId_ を filterType として使用し、Salesforce リード GUID に filterValue として渡して、このエンドポイントに Marketo リードをクエリします。
 
-   | GET/rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
+   | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
 
-   これらのフィールドの値を使用して、Salesforceのリード/連絡先オブジェクトと同期できます。
+   これで、これらのフィールドの値を使用して、Salesforce のリード／連絡先オブジェクトに同期させることができます。
 
 <table> 
  <colgroup> 
@@ -218,48 +218,48 @@ Opportunity向けAPIドキュメント：[`https://developers.marketo.com/rest-a
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Marketoリードフィールド</strong></td> 
-   <td><strong>Salesforceのリード/連絡先フィールド</strong></td> 
+   <td><strong>Marketo「リード」フィールド</strong></td> 
+   <td><strong>Salesforce「リード」／「連絡先」フィールド</strong></td> 
    <td><strong>説明</strong></td> 
   </tr> 
   <tr> 
-   <td>msiLastIntersitiveMomentType</td> 
-   <td>ラベル：最後の注目モーメントタイプ<br>名前：Last_Interestive_Moment_Type__c</td> 
-   <td>リードの最後の興味深い瞬間のタイプ</td> 
+   <td>msiLastInterestingMomentType</td> 
+   <td>ラベル：最新の注目のアクションのタイプ<br>名前：Last_Interesting_Moment_Type__c</td> 
+   <td>リードの最新の注目のアクションのタイプ</td> 
   </tr> 
   <tr> 
-   <td>msiLastIntertiveMomentDate</td> 
-   <td><p>ラベル：最後の興味深い瞬間の日付</p><p>名前：Last_Interestive_Moment_Date__c</p></td> 
-   <td>リードの最後の興味深い瞬間の日付</td> 
+   <td>msiLastInterestingMomentDate</td> 
+   <td><p>ラベル：最新の注目のアクション発生日</p><p>名前：Last_Interesting_Moment_Date__c</p></td> 
+   <td>リードの最新の注目のアクションの日付</td> 
   </tr> 
   <tr> 
-   <td>msiLastIntersitMomentDesc</td> 
-   <td><p>ラベル：最後の興味深い瞬間の説明</p><p>名前：Last_Interest_Moment_Desc__c</p></td> 
-   <td>リードの最後の興味深い瞬間の説明</td> 
+   <td>msiLastInterestingMomentDesc</td> 
+   <td><p>ラベル：最新の注目のアクションの詳細</p><p>名前：Last_Interesting_Moment_Desc__c</p></td> 
+   <td>リードの最新の注目のアクションの説明</td> 
   </tr> 
   <tr> 
-   <td>msiLastIntersitiveMomentSource</td> 
-   <td><p>ラベル：最後の興味深い瞬間の源</p><p>名前：Last_Interestive_Moment_Source__c</p></td> 
-   <td>リードの最後の興味深い瞬間の源</td> 
+   <td>msiLastInterestingMomentSource</td> 
+   <td><p>ラベル：最新の注目のアクションのソース</p><p>名前：Last_Interesting_Moment_Source__c</p></td> 
+   <td>リードの最新の注目のアクションのソース</td> 
   </tr> 
   <tr> 
    <td>優先度</td> 
-   <td><p>ラベル：エンゲージメント</p><p>名前：優先度__c</p></td> 
-   <td>リードの優先順位</td> 
+   <td><p>ラベル：エンゲージメント</p><p>名前：Priority__c</p></td> 
+   <td>リードの優先度</td> 
   </tr> 
   <tr> 
-   <td>relativeEkmensity</td> 
-   <td><p>ラベル：相対的緊急度の値</p><p>名前：緊急度_値__c</p></td> 
-   <td>リードの相対的緊急性</td> 
+   <td>relativeUrgency</td> 
+   <td><p>ラベル：相対的緊急度の値</p><p>名前：Urgency_Value__c</p></td> 
+   <td>リードの相対的緊急度</td> 
   </tr> 
   <tr> 
    <td>relativeScoring</td> 
-   <td><p>ラベル：相対スコア値</p><p>名前：Relative_Score_Value__c</p></td> 
+   <td><p>ラベル：相対スコアの値</p><p>名前：Relative_Score_Value__c</p></td> 
    <td>リードの相対スコア</td> 
   </tr> 
  </tbody> 
 </table>
 
-リードREST APIのドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET)
+リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
-ネイティブでない同期を成功させるには、外部フィールドを適切に使用することが重要です。 一部のビューでデータを表示できなかった場合は、特定のフィールドが正しく同期されていなかった可能性があります。 例えば、リードのアクティビティと興味深い瞬間が、そのアカウントの下のMSIウィジェットを調べる際に表示されない場合、リードの会社またはアカウントが正しく同期されなかった可能性があります。 外部フィールドを指定してこのリードに対してGETリクエストを実行すると、リードが正しく同期されたかどうかを確認できます。 また、Marketoの外部の営業担当者の電子メールは、Salesforceのそのユーザーの電子メールと一致する必要があります。 電子メールが一致しない場合、Salesforceの「Marketo」タブにデータが表示されないことがあります。
+非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、アカウントの下にある MSI ウィジェットにリードのアクティビティや注目のアクションが表示されない場合、リードの企業かアカウントのどちらかが正しく同期されていない可能性があります。外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、Salesforce のそのユーザーのメールと一致する必要があります。メールが一致しない場合、Salesforce の「Marketo」タブにデータが表示されないことがあります。
