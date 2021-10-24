@@ -1,21 +1,20 @@
 ---
 unique-page-id: 37356575
-description: 一括送信オプション —Marketoドキュメント — 製品ドキュメント
-title: バルク送信オプション
+description: 一括送信オプション - Marketo ドキュメント - 製品ドキュメント
+title: 一括送信オプション
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# バルク送信オプション{#bulk-sending-options}
+# 一括送信オプション {#bulk-sending-options}
 
-メールの一括送信は、見込み客の関与を促進する優れた方法です。 Sales Connectオファーは、次の2つの方法で電子メールを一括送信できます。**グループ電子メール**&#x200B;と&#x200B;**選択して送信**。 グループ電子メールは、ターゲットグループに数百通の電子メールをすばやく送信する優れた方法です。 「選択して送信」を使用すると、電子メールの制限が小さくなりますが、ユーザーに対してより多くのカスタマイズの機会をオファーできます。
+メールを一括で送信すると、見込み客のエンゲージメントを促進できます。Sales Connect では、**グループメール**&#x200B;と&#x200B;**選択して送信**&#x200B;の 2 通りの方法でメールを一括送信できます。グループメールは、ターゲットグループに数百通のメールをすばやく送信する優れた方法です。「選択して送信」を使用すると、メール数の上限が小さくなりますが、ユーザーに対してより多くのカスタマイズの機会が提供されます。
 
-**電子メールのグループ化と選択して送信**
+**グループメール vs. 選択して送信**
 
 <table> 
  <colgroup> 
@@ -28,25 +27,25 @@ ht-degree: 3%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span></span><span> SendType</span> </p></th> 
-   <th><p><span>最大 </span><span></span><span>電子メール数</span> </p></th> 
-   <th><p><span>開始された </span><span>送信者</span></p></th> 
-   <th><p><span>電子メールの一括 </span><span>編集</span> </p></th> 
-   <th><p><span></span><span> 編集各電子メール </span><span>を一意に</span> </p></th> 
-   <th><p><span>テンプレートと </span><span>動的フィールドのサポート</span> </p></th> 
+   <th><p><span>送信の</span><span>タイプ</span> </p></th> 
+   <th><p><span>メールの</span><span></span><span>最大数</span> </p></th> 
+   <th><p><span>送信</span><span>開始者</span></p></th> 
+   <th><p><span>メールを</span><span>一括編集</span> </p></th> 
+   <th><p><span></span><span>各メールを一意に</span><span>編集</span> </p></th> 
+   <th><p><span>テンプレートおよび</span><span>動的フィールドのサポート</span> </p></th> 
   </tr> 
   <tr> 
-   <td><p><span>グループ電子メール</span> </p></td> 
+   <td><p><span>グループメール</span> </p></td> 
    <td><p><span>1,000</span> </p></td> 
-   <td><p><span>グループを選択し、「グループアクション」ボタン</span><span> をクリック </span><span>するか</span><span>、グループ名を「宛先」フィールドに入力します。  </span> </p></td> 
+   <td><p><span>グループを選択して</span><span>「グループアクション」</span><span>ボタンを</span><span>クリックするか、「宛先」フィールドにグループ名を入力します。</span> </p></td> 
    <td><p><span>はい</span> </p></td> 
    <td><p><span>いいえ</span> </p></td> 
    <td><p><span>はい</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>選択 </span><span>して </span><span>送信</span> </p></td> 
+   <td><p><span>選択</span><span>して</span><span>送信</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>グリッド内のユーザーを選択し、アクションバーの「選択した電子メールを送信」ボタンをクリックする</span><span>か</span><span>、バルク電子メール </span><span>サイドバーに受信者を入力します</span><span>。</span></p></td> 
+   <td><p><span>グリッド内のユーザーを選択し、アクションバーの「選択したメール」ボタンをクリックする</span><span>か、一括メールサイドバーに</span><span>受信者を</span><span></span><span>入力します。</span></p></td> 
    <td><p><span>はい</span> </p></td> 
    <td><p><span>はい</span> </p></td> 
    <td><p><span>はい</span> </p></td> 
@@ -54,16 +53,16 @@ ht-degree: 3%
  </tbody> 
 </table>
 
-**グループ電子メールの使用**
+**グループメールの使用**
 
-リスト内の各電子メールにプレビューを付けて、動的フィールドに正しく入力されているかどうかを確認し、送信するテンプレートを一括編集できます。 ただし、「ユーザーごと」に一意の編集を行うことはできません。
+リスト内の各メールをプレビューして、動的フィールドに正しく入力されているかどうかを確認し、送信するテンプレートを一括編集できます。ただし、「ユーザーごと」に一意の編集をおこなうことはできません。
 
-**選択と送信の使用**
+**「選択して送信」の使用**
 
-デフォルトでは、すべての受信者を編集します。 ただし、個々の電子メールを選択してカスタム編集を行うこともできます。 これは、よりパーソナライズされたアプローチを使用する受信者に、1つ以上の独自のカスタマイズ行を追加する場合に便利です。
+デフォルトでは、すべての受信者を編集します。ただし、個々のメールを選択してカスタム編集をおこなうこともできます。これは、よりパーソナライズされたアプローチを取りたい受信者に、1 つ以上の一意のカスタマイズ行を追加する場合に便利です。
 
 >[!MORELIKETHIS]
 >
->* [選択と送信を使用したバルク電子メールの構成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [グループ電子メールを使用した電子メールの送信](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [グループメールによるメールの送信](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
