@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352549
-description: GmailがSales Connect Signatureを引き込まない —Marketoドキュメント — 製品ドキュメント
-title: GmailがSales Connect署名を取り込まない
+description: Gmail が Sales Connect 署名を取り込んでいない — Marketo ドキュメント — 製品ドキュメント
+title: Gmail が Sales Connect 署名を取り込んでいない
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# GmailがSales Connect Signatureを取り込みません{#gmail-not-pulling-in-sales-connect-signature}
+# Gmail が Sales Connect 署名を取り込んでいない {#gmail-not-pulling-in-sales-connect-signature}
 
-[Sales Connectの署名](https://toutapp.com/next#settings)を挿入するのとは対照的に、GmailではGmailの署名を実際に使用しています。
+[Sales Connect 署名](https://toutapp.com/next#settings)を挿入するのではなく、Gmail で Gmail 署名を実際に使用します。
 
-Gmail [ここ](https://mail.google.com/mail/u/0/#settings/general)で署名を編集できます。
+Gmail の署名は[こちら](https://mail.google.com/mail/u/0/#settings/general)で編集できます。
