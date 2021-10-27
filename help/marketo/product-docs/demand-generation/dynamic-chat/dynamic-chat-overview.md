@@ -3,9 +3,9 @@ description: Dynamic Chat の概要 — Marketoドキュメント — 製品ド�
 title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dynamic Chat を使用すると、使いやすいインターフェイスを利�
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketoサブスクリプションとネイティブにインターフェイスする機能です。 この統合の完全な機能を活用するには、まずデータ同期を開始する必要があります。 Marketoデータベースのサイズによっては、最初の [1 回の同期 ](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) が完了するまで、データが 24 時間かかる場合があります。 平均同期時間が 2 時間未満です。
+Dynamic Chat の主要な要素は、Marketoサブスクリプションとネイティブにインターフェイスする機能です。 この統合の完全な機能を活用するには、まずデータ同期を開始する必要があります。 Marketoデータベースのサイズによっては、最初の [1 回の同期](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 」と入力します。
 
 以下が同期されます。
 
@@ -30,11 +30,11 @@ Dynamic Chat の主要な要素は、Marketoサブスクリプションとネイ
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。 Web サイト訪問者に魅力的なチャットダイアログを開くのに必要なすべてのものを含むコンテナと考えてください。 各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。 [ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)。
+ダイアログは、単一のチャットエンゲージメントを表します。 Web サイト訪問者に魅力的なチャットダイアログを開くのに必要なすべてのものを含むコンテナと考えてください。 各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。 [ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
-## 構成 {#configuration}
+## 設定 {#configuration}
 
-「設定」タブで、様々なダイアログの外観をカスタマイズします。 フォント、色、応答時間などを変更します。 [設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)を説明します。
+「設定」タブで、様々なダイアログの外観をカスタマイズします。 フォント、色、応答時間などを変更します。 [設定の詳細を説明します](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## カレンダー {#calendar}
 
@@ -50,7 +50,7 @@ Web サイトの訪問者が様々なダイアログを通じてスケジュー�
 
 ここでは、カレンダーに接続したすべてのエージェントのリストと、Web サイトの訪問者に表示される順序を確認できます。 会議はラウンドロビン方式なので、最後の会議を 5 人、エージェント 3 人が取った場合、エージェント 4 が次の会議を取得し、次にエージェント 5 が取得され、エージェント 1 に戻ります。
 
-## FAQ {#faq}
+## よくある質問 {#faq}
 
 **Dynamic Chat ではライブチャットが可能ですか？**
 
@@ -58,7 +58,7 @@ Web サイトの訪問者が様々なダイアログを通じてスケジュー�
 
 **匿名の人々をターゲットにするにはどうすればよいですか？**
 
-ダイアログで、「_Person Email is Empty_」属性を使用する必要があります。
+ダイアログで、 _ユーザーの電子メールが空です_ 属性。
 
 **AI/NLP 機能をサポートしていますか。**
 
