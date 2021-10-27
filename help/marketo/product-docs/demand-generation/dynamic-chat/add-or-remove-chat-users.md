@@ -3,10 +3,10 @@ description: チャットユーザーの追加または削除 — Marketoドキ�
 title: チャットユーザーの追加または削除
 hide: true
 hidefromtoc: true
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 5%
+source-wordcount: '233'
+ht-degree: 4%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 5%
 
 ## チャットユーザーの追加 {#add-a-chat-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/) にログインします。
+1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. **ダイナミックチャット** をクリックします。
+1. クリック **ダイナミックチャット**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 5%
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 「**ユーザーを追加**」ボタンをクリックします。
+1. 「 **ユーザーの追加** ボタンをクリックします。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -40,7 +40,7 @@ ht-degree: 5%
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. **+** アイコンをクリックし、目的の製品プロファイルを選択します。
+1. 「 **+** アイコンをクリックし、目的の製品プロファイルを選択します。
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -48,17 +48,35 @@ ht-degree: 5%
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-その後、Marketoにログインするための電子メールがユーザーに送信されます。
+## ダイナミックチャットアクセスをMarketoロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
-## チャットユーザーの削除 {#remove-a-chat-user}
+新しく追加したチャットユーザーのMarketoの役割に Dynamic Chat の権限がまだない場合は、それを追加する方法を次に示します。
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/) にログインします。
+1. Marketoで、 **管理者** を選択します。 **ユーザーとロール**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. **ダイナミックチャット** をクリックします。
+1. 「 **役割** タブに移動します。
 
    ![](assets/add-or-remove-chat-users-9.png)
+
+1. リストから、変更するロールを選択し、「 」をクリックします。 **役割の編集**.
+
+   ![](assets/add-or-remove-chat-users-10.png)
+
+1. 選択 **ダイナミックチャットにアクセス** をクリックします。 **保存**.
+
+   ![](assets/add-or-remove-chat-users-11.png)
+
+## チャットユーザーの削除 {#remove-a-chat-user}
+
+1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/).
+
+   ![](assets/add-or-remove-chat-users-12.png)
+
+1. クリック **ダイナミックチャット**.
+
+   ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
@@ -66,19 +84,19 @@ ht-degree: 5%
 
 1. 「**ユーザー**」タブをクリックします。
 
-   ![](assets/add-or-remove-chat-users-10.png)
+   ![](assets/add-or-remove-chat-users-14.png)
 
 1. 削除するユーザーを選択します。
 
-   ![](assets/add-or-remove-chat-users-11.png)
+   ![](assets/add-or-remove-chat-users-15.png)
 
-1. 「**ユーザーを削除**」ボタンをクリックします。
+1. 「 **ユーザーの削除** ボタン
 
-   ![](assets/add-or-remove-chat-users-12.png)
+   ![](assets/add-or-remove-chat-users-16.png)
 
-1. 「**ユーザーを削除**」をクリックして確定します。
+1. クリック **ユーザーの削除** をクリックして確定します。
 
-   ![](assets/add-or-remove-chat-users-13.png)
+   ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >
