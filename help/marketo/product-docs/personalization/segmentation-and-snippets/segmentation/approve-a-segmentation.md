@@ -1,58 +1,61 @@
 ---
 unique-page-id: 2359457
-description: セグメントの承認 —Marketoドキュメント — 製品ドキュメント
-title: セグメントの承認
+description: セグメント化の承認 — Marketoドキュメント — 製品ドキュメント
+title: セグメント化の承認
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 12%
 
 ---
 
-# セグメントの承認{#approve-a-segmentation}
+# セグメント化の承認 {#approve-a-segmentation}
 
-セグメントを使用するには、セグメントを承認する必要があります。
+セグメントを使用するには、セグメント化の承認が必要です。
 
 >[!PREREQUISITES]
 >
->* [セグメントの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
+
+>[!NOTE]
+>
+>一度に承認できるセグメントは最大 20 個です。
 
 1. **データベース**&#x200B;に移動します。
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. セグメント化で、「**セグメント化アクション**」をクリックし、「**承認**」をクリックします。
+1. セグメントで、 **セグメント化アクション**、 **承認**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >承認の処理中に、ステータスが「紡ぎ車での承認(![](assets/image2014-9-15-15-3a31-3a43.png))」に変わります。
+   >「ステータス」が「スピンホイールを使用した承認」( ![](assets/image2014-9-15-15-3a31-3a43.png)) をクリックします。
 
    >[!CAUTION]
    >
-   >データベースのサイズに応じて、承認が完了するまでに数分かかる場合があります。1日以上かかる場合があります。
+   >データベースのサイズによっては、承認が完了するまでに数分かかり、1 日以上かかる場合があります。
 
-   承認されると、ステータスが「承認」から「承認済み」に変わります。
+   承認が完了すると、「ステータス」は「承認中」から「承認済み」に変わります。
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
-   >各セグメント内の人数は、セグメント名の横の角括弧で囲まれて表示されます。
+   >各セグメントのユーザー数は、括弧で囲まれてセグメント名の横に表示されます。
 
-1. **セグメント**&#x200B;の&#x200B;**人**&#x200B;タブに、セグメントに対する人の最終リストが表示されるようになりました。
+1. この **人** 」タブをクリックします。 **セグメント** では、セグメントの最終的なリストが表示されます。
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
 >[!CAUTION]
 >
->セグメントで作成できるセグメントの合計数は、使用するフィルターの数とタイプ、およびセグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大100個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバ、リード所有者フィールド、および売上高ステージ。
+>セグメントで作成できるセグメントの合計数は、使用するフィルターの数と種類と、セグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大 100 個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバー、リード所有者フィールド、収益ステージ。
 >
->承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>承認中にエラーメッセージが表示され、セグメント化の複雑さを軽減するためにサポートが必要な場合は、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >

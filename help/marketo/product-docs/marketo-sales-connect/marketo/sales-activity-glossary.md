@@ -1,23 +1,23 @@
 ---
-description: セールス Activity グロッサリ-Marketo Docs-製品マニュアル
+description: セールス活動用語集 — Marketoドキュメント — 製品ドキュメント
 title: セールス活動用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 12%
+source-wordcount: '510'
+ht-degree: 11%
 
 ---
 
 # セールス活動用語集 {#sales-activity-glossary}
 
-セールス担当者は、セールスリズムにリードを追加したり、そのリードを電子メールで送信したり、アクティビティを呼び出すことができます。これは、Marketo アクティビティ履歴に記録されます。 さらに、リードに電子メールが追加されると、が開き、クリックが開始され、応答にもログが記録されます。
+セールスコネクトで、販売者が以下を実行したとき：セールスケイデンスにリードを追加したり、メールを送信したり、通話をアクティビティに送信したりすると、Marketoのアクティビティ履歴に記録されます。 さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
 
-以下のアクティビティは、セールス接続から Marketo に記録されます。
+以下のアクティビティは、セールスコネクトからMarketoに記録されます。
 
 >[!NOTE]
 >
->このようなアクティビティと属性は、REST および Bulk API で使用できます。
+>これらのアクティビティと属性は、アドビの REST および Bulk API から使用できます。
 
 ## アクティビティ {#activities}
 
@@ -28,7 +28,7 @@ ht-degree: 12%
  </tr>
  <tr>
   <th rowspan="9">セールスメール送信</th>
-  <td>から送信された</td>
+  <td>送信者</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -37,26 +37,26 @@ ht-degree: 12%
   <td>テンプレート ID</td>
  </tr>
  <tr>
-  <td>販売テンプレートの URL</td>
+  <td>セールステンプレート URL</td>
  </tr>
  <tr>
-  <td>販売キャンペーン URL</td>
+  <td>セールスキャンペーン URL</td>
  </tr>
  <tr>
-  <td>販売テンプレート名</td>
+  <td>セールステンプレート名</td>
  </tr>
  <tr>
   <td>電子メールの件名</td>
  </tr>
  <tr>
-  <td>セールスキャンペーンの名前</td>
+  <td>セールスキャンペーン名</td>
  </tr>
  <tr>
-  <td>Marketo 販売員 ID</td>
+  <td>Marketoセールス担当者 ID</td>
  </tr>
  <tr>
   <th rowspan="9">セールスメール開封</th>
-  <td>から送信された</td>
+  <td>送信者</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -65,29 +65,29 @@ ht-degree: 12%
   <td>テンプレート ID</td>
  </tr>
  <tr>
-  <td>販売テンプレートの URL</td>
+  <td>セールステンプレート URL</td>
  </tr>
  <tr>
-  <td>販売キャンペーン URL</td>
+  <td>セールスキャンペーン URL</td>
  </tr>
  <tr>
-  <td>販売テンプレート名</td>
+  <td>セールステンプレート名</td>
  </tr>
  <tr>
   <td>電子メールの件名</td>
  </tr>
  <tr>
-  <td>セールスキャンペーンの名前</td>
+  <td>セールスキャンペーン名</td>
  </tr>
  <tr>
-  <td>Marketo 販売員 ID</td>
+  <td>Marketoセールス担当者 ID</td>
  </tr>
  <tr>
-  <th rowspan="10">「販売メール」をクリックします。</th>
+  <th rowspan="10">セールスメールをクリック済み</th>
   <td>リンク</td>
  </tr>
  <tr>
-  <td>から送信された</td>
+  <td>送信者</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -96,57 +96,57 @@ ht-degree: 12%
   <td>テンプレート ID</td>
  </tr>
  <tr>
-  <td>販売テンプレートの URL</td>
+  <td>セールステンプレート URL</td>
  </tr>
  <tr>
-  <td>販売キャンペーン URL</td>
+  <td>セールスキャンペーン URL</td>
  </tr>
  <tr>
-  <td>販売テンプレート名</td>
+  <td>セールステンプレート名</td>
  </tr>
  <tr>
   <td>電子メールの件名</td>
  </tr>
  <tr>
-  <td>セールスキャンペーンの名前</td>
+  <td>セールスキャンペーン名</td>
  </tr>
  <tr>
-  <td>Marketo 販売員 ID</td>
+  <td>Marketoセールス担当者 ID</td>
  </tr>
 <tr>
-  <th rowspan="3">返信した販売電子メール</th>
+  <th rowspan="3">セールスメールに返信済み</th>
   <td>受信者</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>Marketo 販売員 ID</td>
+  <td>Marketoセールス担当者 ID</td>
  </tr>
  <tr>
   <th rowspan="11">セールス電話を受信</th>
   <td>セールス電話発信者</td>
  </tr>
  <tr>
-  <td>販売の状況</td>
+  <td>セールス電話のステータス</td>
  </tr>
  <tr>
-  <td>販売通話の対象</td>
+  <td>セールス電話の件名</td>
  </tr>
  <tr>
-  <td>セールスキャンペーンの名前</td>
+  <td>セールスキャンペーン名</td>
  </tr>
  <tr>
-  <td>販売キャンペーン URL</td>
+  <td>セールスキャンペーン URL</td>
  </tr>
  <tr>
-  <td>電話番号</td>
+  <td>電話番号の受信</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>販売の通話時間</td>
+  <td>営業電話の期間</td>
  </tr>
  <tr>
   <td>セールス電話録音 URL</td>
@@ -155,49 +155,49 @@ ht-degree: 12%
   <td>セールス電話対応者</td>
  </tr>
  <tr>
-  <td>Marketo 販売員 ID</td>
+  <td>Marketoセールス担当者 ID</td>
  </tr>
  <tr>
   <th rowspan="6">セールスキャンペーンに追加</th>
-  <td>セールスキャンペーンの名前</td>
+  <td>セールスキャンペーン名</td>
  </tr>
  <tr>
-  <td>販売の状況</td>
+  <td>セールス電話のステータス</td>
  </tr>
  <tr>
-  <td>販売キャンペーン URL</td>
+  <td>セールスキャンペーン URL</td>
  </tr>
  <tr>
-  <td>から送信された</td>
- </tr>
- <tr>
-  <td>ソース</td>
- </tr>
- <tr>
-  <td>販売キャンペーン ID</td>
- </tr>
- <tr>
-  <th rowspan="6">販売キャンペーンから削除</th>
-  <td>セールスキャンペーンの名前</td>
- </tr>
- <tr>
-  <td>販売の状況</td>
- </tr>
- <tr>
-  <td>販売キャンペーン URL</td>
- </tr>
- <tr>
-  <td>から送信された</td>
+  <td>送信者</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>販売キャンペーン ID</td>
+  <td>セールスキャンペーン ID</td>
+ </tr>
+ <tr>
+  <th rowspan="6">セールスキャンペーンから削除</th>
+  <td>セールスキャンペーン名</td>
+ </tr>
+ <tr>
+  <td>セールス電話のステータス</td>
+ </tr>
+ <tr>
+  <td>セールスキャンペーン URL</td>
+ </tr>
+ <tr>
+  <td>送信者</td>
+ </tr>
+ <tr>
+  <td>ソース</td>
+ </tr>
+ <tr>
+  <td>セールスキャンペーン ID</td>
  </tr>
 </table>
 
-## 内容 {#descriptions}
+## 説明 {#descriptions}
 
 <table> 
  <tr>
@@ -207,87 +207,87 @@ ht-degree: 12%
  <tbody> 
  <tr> 
    <td><strong>詳細</strong></td> 
-   <td>エラーメッセージの詳細を表示します。</td> 
+   <td>バウンスエラーメッセージの詳細。</td> 
   </tr> 
   <tr> 
    <td><strong>メール</strong></td> 
-   <td>バウンスされた電子メールアドレス。</td> 
+   <td>バウンスした電子メールアドレス。</td> 
   </tr> 
   <tr> 
    <td><strong>リンク</strong></td> 
-   <td>クリックされた URL を指定します。</td> 
+   <td>クリックされた URL。</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo 販売員 ID</strong></td> 
-   <td>販売の接続にある人物レコードの一意の ID です。</td> 
+   <td><strong>Marketoセールス担当者 ID</strong></td> 
+   <td>セールスコネクトの人物レコードの一意の ID。</td> 
   </tr> 
   <tr> 
    <td><strong>受信者</strong></td> 
-   <td>電子メールを送信した人物の電子メールアドレス。</td> 
+   <td>電子メールを送信した人の電子メールアドレス。</td> 
   </tr>
   <tr> 
    <td><strong>セールス電話対応者</strong></td> 
-   <td>通話に応答した人物の名前。</td> 
+   <td>電話に出た人の名前。</td> 
   </tr>
   <tr> 
-   <td><strong>販売の通話時間</strong></td> 
-   <td>呼び出しの長さ (秒)。</td> 
+   <td><strong>営業電話の期間</strong></td> 
+   <td>呼び出しの長さ（秒）。</td> 
   </tr>
   <tr> 
    <td><strong>セールス電話発信者</strong></td> 
-   <td>電話をかけた販売員の電子メールアドレス。</td> 
+   <td>電話をした販売担当者のメールアドレス。</td> 
   </tr>
   <tr> 
    <td><strong>セールス電話録音 URL</strong></td> 
-   <td>通話の記録の URL です。</td> 
+   <td>通話記録の URL。</td> 
   </tr>
   <tr> 
-   <td><strong>販売の状況</strong></td> 
-   <td>によって、通話の最終的な呼び出し状態が保存されます。この場合は、completed、answer、failed、failed などが表示されます。</td> 
+   <td><strong>セールス電話のステータス</strong></td> 
+   <td>呼び出しの最終的な呼び出しステータスを保存します。このステータスには次が含まれます。完了、回答なし、キャンセル、失敗。</td> 
   </tr>
   <tr> 
-   <td><strong>販売通話の対象</strong></td> 
-   <td>ダイヤラーのセールスユーザーによって選択された結果を呼び出します。</td> 
+   <td><strong>セールス電話の件名</strong></td> 
+   <td>ダイヤラ内のセールスユーザーによって選択されたコールの結果。</td> 
   </tr>
   <tr> 
-   <td><strong>販売キャンペーン ID</strong></td> 
-   <td>販売結合の販売キャンペーン資産用の一意の ID です。</td> 
+   <td><strong>セールスキャンペーン ID</strong></td> 
+   <td>セールスコネクトのセールスキャンペーンアセットの一意の ID。</td> 
   </tr>
   <tr> 
-   <td><strong>セールスキャンペーンの名前</strong></td> 
-   <td>販売キャンペーンの名前を指定します。</td> 
+   <td><strong>セールスキャンペーン名</strong></td> 
+   <td>セールスキャンペーンの名前。</td> 
   </tr>
   <tr> 
-   <td><strong>販売キャンペーン URL</strong></td> 
-   <td>販売キャンペーン用の営業用接続 URL です。</td> 
+   <td><strong>セールスキャンペーン URL</strong></td> 
+   <td>セールスキャンペーンのセールスコネクト URL。</td> 
   </tr>
   <tr> 
-   <td><strong>販売電子メールの件名</strong></td> 
-   <td>電子メールの件名の行です。</td> 
+   <td><strong>セールスメールの件名</strong></td> 
+   <td>電子メールの件名行。</td> 
   </tr>
   <tr> 
-   <td><strong>電話番号</strong></td> 
-   <td>販売によって呼び出された電話番号です。</td> 
+   <td><strong>電話番号の受信</strong></td> 
+   <td>セールスから呼び出された電話番号。</td> 
   </tr>
   <tr> 
-   <td><strong>販売テンプレート名</strong></td> 
-   <td>販売の接続での電子メールテンプレートの名前を指定します。</td> 
+   <td><strong>セールステンプレート名</strong></td> 
+   <td>セールスコネクトのメールテンプレートの名前。</td> 
   </tr>
   <tr> 
-   <td><strong>販売テンプレートの URL</strong></td> 
-   <td>電子メールテンプレートの営業用接続 URL です。</td> 
+   <td><strong>セールステンプレート URL</strong></td> 
+   <td>メールテンプレートのセールスコネクト URL。</td> 
   </tr>
   <tr> 
-   <td><strong>から送信された</strong></td>
-   <td>電子メールを送信した人物の電子メールアドレス。</td> 
+   <td><strong>送信者</strong></td>
+   <td>電子メールを送信した人の電子メールアドレス。</td> 
   </tr> 
   <tr> 
    <td><strong>ソース</strong></td> 
-   <td>アクティビティーのソースです。 販売用の接続活動については、"Tout" として設定されます。</td> 
+   <td>アクティビティのソース。 2022 年 1 月のリリースより前のセールスコネクトアクティビティでは、「Tout」に設定されます。 2022 年 1 月のリリース以降、セールスコネクトアクティビティの「セールスアプリ」になります。</td>
   </tr> 
   <tr> 
    <td><strong>テンプレート ID</strong></td> 
-   <td>ソースが Tout の場合、テンプレート ID は Marketo Sales Connect テンプレート ID になります。 これを使用すると、複数のテンプレートに含まれる題名行ではなく特定のテンプレートを対象とすることができます。
+   <td>ソースが Tout の場合、テンプレート ID はMarketoセールスコネクトテンプレート ID になります。 複数のテンプレートに存在する可能性のある、件名の代わりに特定のテンプレートをターゲットにする場合に使用します。
 </td> 
   </tr> 
  </tbody> 
