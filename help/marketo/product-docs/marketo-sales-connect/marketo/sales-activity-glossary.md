@@ -2,9 +2,9 @@
 description: セールス活動用語集 — Marketoドキュメント — 製品ドキュメント
 title: セールス活動用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 11%
 
 ---
@@ -263,7 +263,7 @@ ht-degree: 11%
   </tr>
   <tr> 
    <td><strong>セールスメールの件名</strong></td> 
-   <td>電子メールの件名行。</td> 
+   <td>電子メールの件名行に一意の ID を付ける ( 例：件名 (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>電話番号の受信</strong></td> 
@@ -283,7 +283,7 @@ ht-degree: 11%
   </tr> 
   <tr> 
    <td><strong>ソース</strong></td> 
-   <td>アクティビティのソース。 2022 年 1 月のリリースより前のセールスコネクトアクティビティでは、「Tout」に設定されます。 2022 年 1 月のリリース以降、セールスコネクトアクティビティの「セールスアプリ」になります。</td>
+   <td>アクティビティのソース。 2021 年 10 月のリリースより前に、セールスコネクトアクティビティの「Tout」に設定されます。 2021 年 10 月のリリース以降、セールスコネクトアクティビティの「セールスアプリ」になります。</td>
   </tr> 
   <tr> 
    <td><strong>テンプレート ID</strong></td> 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '7972'
+source-wordcount: '7974'
 ht-degree: 94%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 94%
    + [はじめに](getting-started.md)
    + [AdobeMarketo Engageとは](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo 用語集](getting-started/marketo-glossary.md)
-   + [クラシックアイコンの用語集](getting-started/classic-icon-glossary.md)
+   + [クラシックアイコン用語集](getting-started/classic-icon-glossary.md)
    + セットアップ {#setup}
       + [設定手順](getting-started/setup-steps.md)
       + [セットアップチェックリスト](getting-started/setup-steps/setup-checklist.md)
       + [Marketo のプロトコルの設定](getting-started/setup-steps/configure-protocols-for-marketo.md)
    + クイックウィン {#quick-wins}
-      + [設定とユーザーの追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
+      + [設定と担当者の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
       + [フォームを含むランディングページ](getting-started/quick-wins/landing-page-with-a-form.md)
       + [単純スコア](getting-started/quick-wins/simple-scoring.md)
@@ -322,7 +322,7 @@ ht-degree: 94%
             + [キャンペーンのリクエスト](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [アラートの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [メールの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + [「個人詳細」ページからの単一フロー・アクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
+            + [担当者詳細ページからの単一フローアクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [モバイルスマートキャンペーンのトリガーとフィルター](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [スマートキャンペーンでの Webhook の使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [フローステップでの「選択肢を追加」の使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
@@ -504,7 +504,7 @@ ht-degree: 94%
          + [キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo サンドボックス](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Marketo アセットの名前変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe Experience Cloudオーディエンス共有のセットアップ](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Adobe Experience Cloudオーディエンス共有を設定する](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
          + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
@@ -522,7 +522,7 @@ ht-degree: 94%
             + [組織サービス URL の表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 オンプレミス {#microsoft-dynamics-2011-on-premises}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+               + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
                + [手順 3 / 3：Microsoft Dynamics と Marketo（2011 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013 オンプレミス {#microsoft-dynamics-2013-on-premises}
                + [手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
@@ -530,7 +530,7 @@ ht-degree: 94%
                + [手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミス {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [手順 1 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [手順 2 / 3:オンプレミス/2016 Dynamics 365 オンプレミスでのMarketo Sync ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [手順 2 / 3:Dynamics 2015 オンプレミス/2016 Dynamics 365 オンプレミスでのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [手順 3 / 3：Marketo と Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスの接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [手順 1 / 3：Marketo ソリューション（オンライン）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
@@ -618,7 +618,7 @@ ht-degree: 94%
          + [Google カスタマーマッチを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + ダイナミックチャット {#dynamic-chat}
+      + Dynamic Chat {#dynamic-chat}
          + [ダイナミックチャットの概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初期設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Dynamic Chat をMarketoに接続](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
@@ -657,9 +657,9 @@ ht-degree: 94%
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [Facebook リッチ投稿設定の編集](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [ランディングページの Facebook への公開](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [facebook Lead Ads の設定](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [facebookリード広告の設定](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [カスタムフィールドの Marketo へのマッピング](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [facebookオフライン変換の設定](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [facebookオフラインコンバージョンの設定](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
          + [Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Marketo とのモバイル統合に向けた Facebook リード広告のテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Facebook オフラインコンバージョンについて](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
@@ -887,7 +887,7 @@ ht-degree: 94%
             + [ソーシャルボタンを開くタイミングの設定](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [ソーシャルアプリボタンのカスタマイズ](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [ビデオ共有のフローのカスタマイズ](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-            + [デジタル広告キャンペーンの売上高アトリビューションの設定](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
+            + [デジタル広告キャンペーンの売上高属性の設定](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
          + 投票の作成 {#creating-a-poll}
             + [投票の作成](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [投票設定のカスタマイズ](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
@@ -908,7 +908,7 @@ ht-degree: 94%
             + [フォーム（ソーシャル）でのソーシャルフォームの入力の有効化](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [ソーシャルプロファイルデータの管理](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [ソーシャル共有要件の設定](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [LinkedInリードジェンFormsの設定](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [LinkedInリード生成Formsの設定](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [ソーシャルアクティビティのトリガーとフィルター](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [ソーシャルプロモーションでのメールの使用](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
@@ -1062,6 +1062,7 @@ ht-degree: 94%
       + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [アイコン用語集](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
+      + [切り替えスイッチ](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo セールスの連携 {#marketo-sales-connect}
       + はじめに {#getting-started}
          + [Sales Connect の概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1213,10 +1214,10 @@ ht-degree: 94%
       + Marketo {#marketo}
          + [Marketo 接続の設定](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [ユーザーへのアクセス権の付与](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [Sales Connect の興味深い瞬間](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
+         + [セールスコネクトの注目のアクション](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sales Connect ユーザーにキャンペーンを表示](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
-         + [販売活動の用語集](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
-         + [販売活動のトリガーとフィルタ](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
+         + [セールス活動用語集](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [セールスアクティビティのトリガーとフィルタ](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + リード {#people}
          + [リードの詳細表示](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect と GDPR への準拠](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
@@ -1277,8 +1278,8 @@ ht-degree: 94%
             + Marketo タブ{#marketo-tab}
                + [MSI ビューの設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [最有望見込客](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
-               + [電子メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
-               + [Web アクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
+               + [メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [ウェブアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + インストール {#installing}
             + [Microsoft Dynamics 用 Marketo Sales Insight Solution のダウンロード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
@@ -1677,7 +1678,7 @@ ht-degree: 94%
       + 2021年 {#2021}
          + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [リリースノート：21 年 8 月](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [リリースノート：2021 年 8 月](release-notes/previous-releases/2021/release-notes-aug-21.md)
       + 2020年 {#2020}
          + [リリースノート：2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [リリースノート：2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
