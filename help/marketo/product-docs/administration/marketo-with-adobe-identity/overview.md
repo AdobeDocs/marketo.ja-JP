@@ -3,32 +3,36 @@ description: 概要 — Marketoドキュメント — 製品ドキュメント
 title: 概要
 hide: true
 hidefromtoc: true
-source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '809'
 ht-degree: 1%
 
 ---
 
 # 概要 {#overview}
 
-AdobeMarketo Engageサブスクリプションが10/4/21以降にプロビジョニングされた場合、AdobeIdentity Management System と統合されます。 AIMS では、ユーザーが共通のMarketo EngageID を使用して、Experience Cloudや他のAdobeアプリケーションにログインできます。
+AdobeMarketo Engageサブスクリプションが10/4/21以降にプロビジョニングされた場合、AdobeIdentity Management System と統合されます。 この統合により、ユーザーは、共通のMarketo EngageID を使用して、Experience Cloudやその他のAdobeアプリケーションにログインできます。
 
 ## プロファイルレベル
 
-3 つのプロファイルレベルがあります。
+AdobeMarketo EngageをAdobeIdentity Management System に転送した場合、様々なプロファイルがサポートされます。 この統合に関連するユーザープロファイルのタイプは次のとおりです。
 
 <table>
  <tr>
-  <td><strong>システム管理者</strong></td>
-  <td>Adobe Admin ConsoleでAdobe組織とMarketo Engage製品の ID 概念を設定します。</td>
+  <td><strong>Adobe Admin Console System Admin</strong></td>
+  <td>Adobe Admin ConsoleでAdobe組織とMarketo Engage製品の ID 概念を設定します。 ロールをAdobe組織設定で付与</td>
  </tr>
  <tr>
-  <td><strong>製品管理者</strong></td>
-  <td>Adobe Admin Consoleでのユーザー製品に対するMarketo Engageの権限を付与します。</td>
+  <td><strong>Adobe Admin Console製品管理者</strong></td>
+  <td>Adobe Admin Consoleでのユーザー製品に対するMarketo Engageの権限を付与します。 Adobe Admin Consoleでの役割を付与しました。</td>
  </tr>
  <tr>
-  <td><strong>ユーザー</strong></td>
+  <td><strong>Marketo Engage製品管理者</strong></td>
+  <td>管理者権限を持つMarketo Engageへのアクセス権を付与された人。 Adobe Admin Consoleではなく、Marketo Engageでの役割を付与しました。</td>
+ </tr>
+ <tr>
+  <td><strong>Marketo Engageユーザ</strong></td>
   <td>Marketo Engageへのアクセス権を付与された人。 管理者権限がありません。</td>
  </tr>
 </table>
@@ -48,12 +52,14 @@ AdobeIdentity Management System は、3 つのコンポーネントで構成さ�
 **製品管理者とAdobe管理者の違いは何ですか。**
 
 * Adobe製品管理者は、Marketoプラットフォームの新しい役割です。
-* これは読み取り専用の役割で、Marketoからは編集や削除はできません。
-* 標準のMarketo Admin と同じ権限と権限を持ちます。
+* Adobe製品管理者の役割は、Adobe Admin Consoleで製品管理者として追加されたユーザーに付与されます。
+* Adobe製品管理者は読み取り専用のロールで、Marketo Engageから編集または削除することはできません。
+* Adobe製品管理者は、標準のMarketo管理者と同じ権限を持っています。
+* Marketo Engage管理者の役割は、引き続き管理者で、ユーザーに付与されます。Marketo Engage。
 
 **API クライアントのサポートに何か変更はありますか？**
 
-はい.。Adobe IMSに転送されたユーザーは、既存のMarketo User Management API を利用できません。 この場合、 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
+はい.。Adobe IMSに転送されたユーザーは、既存のMarketo User Management API をすべて利用できません。 ユーザーの招待、更新、削除のアクションの場合、 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) を使用する必要があります。 ロール管理の場合、Marketo User Management API は引き続き適用されます。
 
 **サポートを受けるには誰に問い合わせますか？**
 
@@ -61,15 +67,15 @@ AdobeIdentity Management System は、3 つのコンポーネントで構成さ�
 
 **Marketoのユーザーの役割（ワークスペース内）はAdobe Admin Consoleで管理されますか？**
 
-いいえ.（ワークスペース内の）ユーザーロール管理は、Marketoで完了します。
+いいえ.（ワークスペース内の）ユーザーロール管理は、Marketo Engageで完了します。
 
 **私はMarketo管理者で、このAdmin Consoleへのアクセス権を持っていません。 アクセス権を取得する方法を教えてください。**
 
-組織のシステムへのアクセス権を持つシステム管理者または製品Admin Consoleが、ユーザーにアクセス権を付与できます。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、にお問い合わせください。 [Adobeカスタマーケア](https://helpx.adobe.com/contact.html).
+組織のAdobeにアクセスできるAdmin Consoleシステム管理者または製品管理者が、ユーザーにアクセス権を付与できます。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、にお問い合わせください。 [Adobeカスタマーケア](https://helpx.adobe.com/contact.html).
 
 **管理者はMarketo Sales Connect にユーザーを追加しますか。**
 
-セールスコネクトの AC には製品カードがありますが、AC を使用してユーザーを追加/管理することはできません。 次のリンクをクリックすると、管理者はMarketo Sales Connect を使用してユーザーを管理できます。 [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
+セールスコネクトのAdmin Consoleには製品カードがありますが、Admin Consoleを使用してユーザーを追加/管理することはできません。 次のリンクをクリックすると、管理者はMarketo Sales Connect を使用してユーザーを管理できます。 [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **Adobe Admin Consoleの詳細はどこで確認できますか？**
 
@@ -97,7 +103,7 @@ Adobe IMSは、現在、Marketoのデバイス認証機能などをサポート�
 
 **Adobe IMSの場合、Adobe ID、Enterprise ID、Federated IDのどちらを使用できますか。**
 
-はい、組織がサポートする ID のタイプを決定します。 詳細情報 [ここ](https://helpx.adobe.com/enterprise/using/identity.html) および [ここ](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+はい、組織がサポートする ID のタイプを決定します。 詳しくは、以下を参照してください。 [ID の概要](https://helpx.adobe.com/enterprise/using/identity.html) そしてここに [ID の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >

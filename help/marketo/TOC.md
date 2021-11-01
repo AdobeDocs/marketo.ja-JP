@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '7974'
+source-wordcount: '7977'
 ht-degree: 94%
 
 ---
@@ -218,6 +218,7 @@ ht-degree: 94%
       + MarketoとAdobeID {#marketo-with-adobe-identity}
          + [概要](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 設定 {#settings}
