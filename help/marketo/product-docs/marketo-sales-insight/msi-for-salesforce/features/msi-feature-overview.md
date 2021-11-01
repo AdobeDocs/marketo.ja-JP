@@ -3,10 +3,10 @@ unique-page-id: 37356893
 description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュメント
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '908'
-ht-degree: 100%
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+workflow-type: tm+mt
+source-wordcount: '926'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,7 @@ MSI Visualforce パネルには、次の機能が含まれています。
 * アクション
 
    * Marketo キャンペーンに追加
-   * Marketo メールの送信 
+   * Marketo メールの送信
    * ウォッチリストに追加／ウォッチリストから変更
 
 * 星と炎
@@ -99,7 +99,7 @@ Visualforce ページ：
 アクション：
 
 * Marketo キャンペーンに追加
-* Marketo メールの送信 
+* Marketo メールの送信
 * ウォッチリストに追加／ウォッチリストから変更
 
 次の機能は、アカウントのレイアウトページでは&#x200B;**使用できません**。
@@ -192,3 +192,7 @@ MSI 機能は、Salesforce モバイルアプリケーションでサポート�
 ## 言語サポート {#language-support}
 
 Marketo Sales Insight は言語別に保存されます。したがって、複数の言語を扱う場合は、言語ごとに別個に認証情報を入力する必要があります。
+
+>[!NOTE]
+>
+>ウォッチリストに追加するには、連絡先/リードがデフォルトパーティションに存在する必要があります。
