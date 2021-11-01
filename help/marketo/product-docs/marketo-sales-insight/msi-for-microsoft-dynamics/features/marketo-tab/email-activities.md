@@ -1,17 +1,15 @@
 ---
-description: 電子メールアクティビティ — Marketoドキュメント — 製品ドキュメント
-title: 電子メールアクティビティ
-hide: true
-hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+description: メールアクティビティ — Marketoドキュメント — 製品ドキュメント
+title: メールアクティビティ
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# 電子メールアクティビティ {#email-activities}
+# メールアクティビティ {#email-activities}
 
-「電子メールアクティビティ」タブには、Sales が Sales 所有者の下のリードおよび連絡先に送信したすべての電子メールが表示されます。 送信日、および E メールが受信者によって開封されたかクリックされたかを確認します。
+「メールアクティビティ」タブには、セールスがセールス所有者の下のリードおよび連絡先に送信したすべてのメールが表示されます。 レビューの送信日と、受信者が E メールを開封したかクリックしたかを確認します。
 
 ![](assets/email-activities-1.png)

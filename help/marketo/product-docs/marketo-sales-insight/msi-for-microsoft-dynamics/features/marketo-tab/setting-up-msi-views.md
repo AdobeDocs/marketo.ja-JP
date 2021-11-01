@@ -1,9 +1,7 @@
 ---
-description: MSI ビューの設定-Marketo Docs-製品マニュアル
+description: MSI ビューの設定 — Marketoドキュメント — 製品ドキュメント
 title: MSI ビューの設定
-hide: true
-hidefromtoc: true
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 3%
@@ -12,46 +10,46 @@ ht-degree: 3%
 
 # MSI ビューの設定 {#setting-up-msi-views}
 
-セールス用の見識プラグインをダイナミクスにインストールすると、おすすめコンテンツと関連するダッシュボードがサイトマップに自動的に追加されます。 何らかの理由でダッシュボードが追加されていない場合は、次の手順を使用して手動で追加します。
+Dynamics に Sales Insight プラグインをインストールすると、サイトマップに Best Bets と関連するダッシュボードが自動的に追加されます。 何らかの理由でダッシュボードが追加されない場合は、手動で追加する方法を次に示します。
 
-1. 「ダイナミック」で、ギアアイコンをクリックして、 **ドロップダウンリストから「詳細設定」を選択し** ます。
+1. Dynamics で、歯車アイコンをクリックし、 **詳細設定** 」をクリックします。
 
-1. 画面の左上にある「設定」をクリック **し** ます。 「カスタマイズ」を選択 **** します。
+1. 画面の左上で、 **設定**. 「カスタマイズ」で、 **カスタマイズ**.
 
 1. 「**システムをカスタマイズ**」をクリックします。
 
-1. 左側のツリーで、「クライアント拡張機能」をクリックし、「 **** サイトマップ」をダブルクリックし **** ます。
+1. 左側のツリーで、 **クライアント拡張** をクリックし、ダブルクリックします。 **サイトマップ**.
 
-1. 右向きの矢印をクリックして、次のページに進みます。 「販売」で、Marketo を参照してください。 このようにしていない場合は、パッケージが適切に読み込まれているかどうかを確認してください。
+1. 右向き矢印をクリックして次のページに移動します。 「Sales」の下に、「Marketo」が表示されます。 表示されない場合は、パッケージが正しく読み込まれていることを確認してください。
 
    >[!NOTE]
    >
-   >Marketo では、おすすめコンテンツ、電子メール、Web アクティビティ、匿名 Web アクティビティを指定する必要がありました。 これらのダッシュボードが見つからない場合は、「+」のプラス記号をクリックしてサブエリアとして追加します。
+   >Marketoでは、次の操作をおこなう必要があります。最優先、マイメール、ウェブアクティビティ、匿名ウェブアクティビティ。 これらのダッシュボードが見つからない場合は、「Sales」の上の「+」記号をクリックし、サブ領域として追加します。
 
-1. ダッシュボードのをクリックして選択します。 右側の列に、各列に対応する情報を入力します。 リストに表示されていないカテゴリは無視してかまいません。
+1. ダッシュボードをクリックして選択します。 右側の列に、それぞれの情報を以下に入力します。 一覧に表示されていないカテゴリは無視できます。
 
-   **おすすめコンテンツ**</br>
-URL: MainviewBestbets </br>
-Icon:/Web Resources/mkt_/_MainView/_imgs の/icons/bestbets.svg </br>
-ID: marketo_bestbets </br>
-タイトル: おすすめコンテンツ
+   **最優先**</br>
+URL:MainviewBestbets.html</br>
+アイコン：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID:marketo_bestbets</br>
+タイトル：最優先
 
-   **電子メール**</br>
-URL: mkt_/Web viewmyemail¥ html </br>
-Icon:/Webresources/mkt_/_MainView/_imgs/個人用 svg </br>
-ID: marketo_myemail </br>
-タイトル: My Email
+   **マイメール**</br>
+URL:mkt_/MainViewMyEmail.html</br>
+アイコン：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID:marketo_myemail</br>
+タイトル：マイメール
 
-   **Web アクティビティ**</br>
-URL: mkt_/Web viewwebactivityhtml </br>
-Icon:/Webresources/mkt_/_MainView/_imgs/icons/web_activity </br>
-ID: marketo_webactivity </br>
-タイトル: Web アクティビティ
+   **ウェブアクティビティ**</br>
+URL:mkt_/MainViewWebActivity.html</br>
+アイコン：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID:marketo_webactivity</br>
+タイトル：ウェブアクティビティ
 
-   **匿名 Web アクティビティ**</br>
-URL: mkt_/Web viewwebactivityhtml </br>
-Icon:/Webresources/mkt_/_MainView/_imgs/icons/anonymous_web_activity </br>
-ID: marketo_anonymous_webactivity </br>
-タイトル: 匿名 Web アクティビティ
+   **匿名のウェブアクティビティ**</br>
+URL:mkt_/MainViewWebActivity.html</br>
+アイコン：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID:marketo_anonymous_webactivity</br>
+タイトル：匿名のウェブアクティビティ
 
 1. 終了したら「**保存**」をクリックします。

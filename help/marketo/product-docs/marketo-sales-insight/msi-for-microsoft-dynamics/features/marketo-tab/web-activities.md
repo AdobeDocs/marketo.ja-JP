@@ -1,22 +1,20 @@
 ---
 description: Web アクティビティ — Marketoドキュメント — 製品ドキュメント
-title: Web アクティビティ
-hide: true
-hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+title: ウェブアクティビティ
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Web アクティビティ {#web-activities}
+# ウェブアクティビティ {#web-activities}
 
-「 Web アクティビティ」タブには、リード/連絡先の Web アクティビティが表示されます。
-ページ訪問回数と各アカウントを編集して、リードの最新の Web アクティビティを確認します。 結果をフィルターして、指定したページ数に制限できます。
+「ウェブアクティビティ」タブには、リード/連絡先のウェブアクティビティが表示されます。
+リードの最新の Web アクティビティをレビューし、ページ訪問数と各アカウントを編集します。 結果をフィルタリングして、指定したページ数に制限できます。
 
 ![](assets/web-activities-1.png)
 
-## 匿名 Web アクティビティ {#anonymous-web-activities}
+## 匿名のウェブアクティビティ {#anonymous-web-activities}
 
-「匿名 Web アクティビティ」タブには、 **匿名** web ページ訪問者の web アクティビティ。 ページ訪問回数を編集して、最新の Web アクティビティを確認します。
+「匿名 Web アクティビティ」タブには、 **匿名** web ページ訪問者の web アクティビティ。 ページ訪問数を編集して、最新の Web アクティビティを確認します。
