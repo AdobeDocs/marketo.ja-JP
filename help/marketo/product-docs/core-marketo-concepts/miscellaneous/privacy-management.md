@@ -1,9 +1,9 @@
 ---
 description: プライバシー管理 — Marketoドキュメント — 製品ドキュメント
 title: プライバシー管理
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Marketo Engageの機能は、次の規制の遵守に役立ちます。
 * この **アクセス権** は、データ主体がデータ管理者に対し、自分に関する個人データが処理されているかどうか、また処理されている場所と目的について確認する権利です。 データ管理者は、個人データのコピーを電子形式で無償提供する必要があります。
 * データ消去とも呼ばれ、 **忘れられる権利** （削除リクエスト）は、データ主体に対し、データ管理者に個人データの消去やデータの拡散の中止を求めたり、サードパーティにデータの処理を停止させたりする権限を与えます。
 
-アクセス要求と削除要求の作成方法、およびそれらの処理方法については、 [実装手順](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+アクセス/削除のリクエストの作成方法と処理方法については、 [この記事](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
