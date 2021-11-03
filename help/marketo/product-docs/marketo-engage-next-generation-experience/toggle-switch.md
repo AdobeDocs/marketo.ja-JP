@@ -1,9 +1,7 @@
 ---
 description: 切り替えスイッチ — Marketoドキュメント — 製品ドキュメント
 title: 切り替えスイッチ
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,35 +18,33 @@ ht-degree: 0%
 
 ## ランディングページのリスト表示 {#landing-page-list-view}
 
-Marketoで、 **デザインスタジオ**.
+次世代のランディングページのリストビューでは、検索フィルターと、大量のランディングページアクションを実行できます。
 
-![](assets/toggle-switch-1.png)
+1. Marketoで、 **デザインスタジオ**.
 
-選択 **ランディングページ**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. 選択 **ランディングページ**.
 
-ページの右下で、 **新しいエクスペリエンス** 切り替え
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. ページの右下で、 **新しいエクスペリエンス** 切り替え
+
+   ![](assets/toggle-switch-3.png)
 
 新しいエクスペリエンスが読み込まれます。
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->新しいランディングページのリストビューでは、検索フィルターと、大量のランディングページアクションを実行できます。
-
 ## フォームの詳細ページ {#form-details-page}
 
-Marketoで、フォームを検索して選択します。
+1. Marketoで、フォームを検索して選択します。
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-ページの右下で、 **新しいエクスペリエンス** 切り替え
+1. ページの右下で、 **新しいエクスペリエンス** 切り替え
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 新しいエクスペリエンスが読み込まれます。
 
@@ -58,10 +54,10 @@ Marketoで、フォームを検索して選択します。
 
 現在および今後提供されるすべての機能に対して、Marketoの次世代インターフェイスを有効にするオプションがあります。
 
-現在切り替えスイッチを持つ領域 ( この例では、 [フォームの詳細ページ](#form-details-page))、ページの右下にある歯車アイコンをクリックします。
+1. 現在切り替えスイッチを持つ領域 ( この例では、 [フォームの詳細ページ](#form-details-page))、ページの右下にある歯車アイコンをクリックします。
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-選択 **使用可能なすべての機能を有効にする** をクリックし、 **OK**.
+1. 選択 **使用可能なすべての機能を有効にする** をクリックし、 **OK**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)

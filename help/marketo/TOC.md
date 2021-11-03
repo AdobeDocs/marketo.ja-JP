@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '7977'
+source-wordcount: '7981'
 ht-degree: 94%
 
 ---
@@ -504,6 +504,8 @@ ht-degree: 94%
          + [Adobe Experience Manager でのアセットの読み込み](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo サンドボックス](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [プライバシー管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [プライバシーリクエスト](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo アセットの名前変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [Adobe Experience Cloudオーディエンス共有を設定する](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
          + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
