@@ -1,9 +1,9 @@
 ---
 description: プライバシーリクエスト — Marketoドキュメント — 製品ドキュメント
 title: プライバシーリクエスト
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,14 +12,16 @@ ht-degree: 0%
 
 このドキュメントでは、Privacy ServiceUI および **Privacy ServiceAPI**.
 
+>[!NOTE]
+>
+>Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、Marketo Engage+ RT-CDP、B2B および B2P エディションを持つユーザーにのみ適用されます。
+
 消費者データにアクセスしてMarketo Engageから削除する個々のリクエストを送信するには、次の 2 つの方法があります。
 
 * を通じて [Privacy ServiceUI](https://privacyui.cloud.adobe.io/). ドキュメントを参照してください [ここ](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
 * を通じて **Privacy ServiceAPI**. ドキュメントを参照してください [ここ](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) と API リファレンス [ここ](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
 この [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) は、次の 2 種類のリクエストをサポートします。データアクセスとデータ削除に関する情報です。
-
-注意：Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、Marketo Engage+ RT-CDP、B2B および B2P エディションを持つお客様にのみ適用されます。
 
 ここでは、アクセスリクエストと削除リクエストの作成方法について説明します。
 
@@ -45,7 +47,6 @@ b.行動を起こす人のメールアドレス
 
 “ユーザー”:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   （オプション）
 * &quot;action&quot;:どちらか **アクセス** または **削除**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **電子メール**
@@ -58,7 +59,7 @@ b.行動を起こす人のメールアドレス
 
 &quot;regulation&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**&#x200B;または **nzpa**  （リクエストに適用されるプライバシー規則）
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**&#x200B;または **nzpa_nzl**  （リクエストに適用されるプライバシー規則）
 
 ## 例 1:GDPR 削除要求 {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON リクエスト
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON 応答
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON リクエスト
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON 応答
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
