@@ -1,7 +1,7 @@
 ---
 description: プライバシー管理 — Marketoドキュメント — 製品ドキュメント
 title: プライバシー管理
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engageは、プライバシー規制を遵守するのに役立つ一連
 
 >[!NOTE]
 >
->Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、Marketo Engage+ RT-CDP、B2B および B2P エディションを持つお客様にのみ適用されます。
+>Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、Marketo Engage+ RT-CDP、B2B および B2P エディションを持つユーザーにのみ適用されます。
 
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
 
