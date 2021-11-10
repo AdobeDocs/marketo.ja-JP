@@ -3,10 +3,10 @@ description: 電子メールトラッキングの概要 — Marketoドキュメ�
 title: メールトラッキングの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 46%
+source-wordcount: '194'
+ht-degree: 48%
 
 ---
 
@@ -24,9 +24,14 @@ ht-degree: 46%
 
 つまり、flynn@flynnsarcade.comに電子メールを送信し、kevinf@flynnsarcade.comで返信した場合、返信を追跡できます。 さらに、flynn@flynnsarcade.com と CC alan@encom.com にメールを送信し、Alan が返信すると、同様に返信が検出され、キャンペーンが終了します。
 
-## 返信トラッキングの動作方法 {#how-reply-tracking-works}
+## メールの添付ファイルのトラック方法 {#how-to-track-your-email-attachments}
 
 テキスト
 
-## メールの添付ファイルのトラック方法 {#how-to-track-your-email-attachments}
+## トラッキング動作の表示方法 {#how-view-tracking-works}
 
+テキスト
+
+## テストメールが表示済みとされていない {#test-email-not-showed-as-viewed}
+
+テキスト
