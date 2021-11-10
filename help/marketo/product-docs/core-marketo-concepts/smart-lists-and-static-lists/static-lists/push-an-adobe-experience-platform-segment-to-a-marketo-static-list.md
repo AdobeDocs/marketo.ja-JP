@@ -1,16 +1,16 @@
 ---
 description: Adobe Experience PlatformセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
-title: Adobe Experience PlatformセグメントのMarketo静的リストへの追加
+title: Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ
 hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 74%
+source-wordcount: '515'
+ht-degree: 66%
 
 ---
 
-# Adobe Experience PlatformセグメントのMarketo静的リストへの追加 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo にプッシュできます。
 
@@ -36,11 +36,11 @@ ht-degree: 74%
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
 
-1. Marketo Engageタイルを見つけ、「**セグメントをアクティブ化**」をクリックします。
+1. 「Marketo Engage」タイルを探し、 **セグメントのアクティブ化**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
 
-1. 「**Configure New Destination**」をクリックします。
+1. クリック **新しい宛先の設定**.
 
    PICC
 
@@ -84,13 +84,13 @@ ht-degree: 74%
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
 
-1. 「**属性を選択**」または「**ID名前空間を選択**」ラジオボタンを選択します（この例では、属性を選択します）。
+1. 次のいずれかを選択します。 **属性を選択** または **ID 名前空間を選択** ラジオボタン（この例では、「属性」を選択します）。
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
 
    >[!NOTE]
    >
-   >「**ID名前空間**&#x200B;を選択」を選択した場合は、選択を行った後、手順15に進みます。
+   >次を選択した場合： **ID 名前空間を選択**&#x200B;を選択した後、手順 15 に進みます。
 
 1. ユーザーを識別するメールアドレスを含む関連フィールドを選択します。終了したら「**選択**」をクリックします。
 
@@ -106,21 +106,29 @@ ht-degree: 74%
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
 
-1. ターゲットフィールドを選択し、「**選択**」をクリックします。
+1. 選択 **ID 名前空間を選択**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
 
-1. 「**次へ**」をクリックします。
+   >[!IMPORTANT]
+   >
+   >マッピング属性はオプションです。 電子メールや ECID の **ID 名前空間** 「 」タブは、Marketoでユーザーが一致するようにするための最も重要な操作です。 マッピングメールは、最も高い一致率を保証します。
+
+1. 「ECID」か「電子メール」のどちらかを選択します。 この例では、を選択しています。 **電子メール**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
 
+1. 「**次へ**」をクリックします。
+
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+
    >[!NOTE]
    >
-   >IDは、Marketoで一致を検索するために使用されます。 一致が見つかった場合、そのユーザーは静的リストに追加されます。 一致が見つからない場合、そのユーザーは削除されます(つまり、Marketoに作成されません)。
+   >ID は、Marketoで一致を検索するために使用されます。 一致が見つかった場合、そのユーザーは静的リストに追加されます。 一致が見つからない場合、そのユーザーは削除されます ( つまり、Marketoで作成されません )。
 
 1. _Marketo_ で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。URL の末尾からマッピング ID をコピーします。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
    >[!NOTE]
    >
@@ -128,8 +136,8 @@ ht-degree: 74%
 
 1. Adobe Experience Platform に戻り、コピーした ID を入力します。「開始日」を選択します。選択された終了日まで同期が続きます。無期限同期の場合は、終了日を空白のままにします。終了したら「**次へ**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
 
 1. 変更を確認し、「**完了**」をクリックします。
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
