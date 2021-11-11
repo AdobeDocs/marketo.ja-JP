@@ -1,12 +1,11 @@
 ---
 description: Adobe Experience PlatformセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
-ht-degree: 66%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +41,6 @@ ht-degree: 66%
 
 1. クリック **新しい宛先の設定**.
 
-   PICC
 
 1. アカウントタイプで、「**新規アカウント**」ラジオボタンをクリックします。Marketo の資格情報を入力し、「**宛先に接続**」をクリックします。
 
