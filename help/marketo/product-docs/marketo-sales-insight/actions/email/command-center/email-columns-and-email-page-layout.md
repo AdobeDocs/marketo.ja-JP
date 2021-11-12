@@ -1,12 +1,12 @@
 ---
-description: null
-title: null
+description: 電子メール列と電子メールページのレイアウト — Marketoドキュメント — 製品ドキュメント
+title: メール列とメールページのレイアウト
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: 8dccd250f5006b70f07b8179134b1db688380260
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
