@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: ガイド付きランディングページテンプレートの作成 — Marketoドキュメント — 製品ドキュメント
 title: ガイド付きランディングページテンプレートの作成
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 3%
@@ -41,7 +41,7 @@ mktoText クラスを持つ要素のコンテンツ（指定されている場�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## 画像 {#image}
 
@@ -60,7 +60,7 @@ mktoImgClass:文字列。 この値は、 `<img>` div 内の要素
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## オプション 2 - a の使用 `<img>` {#option-use-a-img}
 
@@ -74,7 +74,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 **id**:ID 文字列。 文字、数字、ダッシュ (-)、アンダースコア (_) のみが含まれます。 スペースは使用できません。 一意である必要があります。\
 **mktoName** :文字列。 これは、ランディングページエディターに表示される表示名です。 ベストプラクティスは、わかりやすい名前を使用することです。
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## スニペット {#snippet}
 
@@ -98,7 +98,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## 共有ボタン {#share-button}
 
@@ -109,7 +109,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## 動画 {#video}
 
@@ -124,7 +124,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## 投票 {#poll}
 
@@ -135,7 +135,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## 参照元 {#referral}
 
@@ -146,7 +146,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## 懸賞 {#sweepstakes}
 
@@ -157,7 +157,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 編集可能な変数 {#editable-variables}
 
@@ -165,7 +165,7 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 例:
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **宣言：**
 
@@ -184,11 +184,11 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 基本的な例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 すべての属性の例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## 色 {#color}
 
@@ -202,11 +202,11 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 基本的な例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>`
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
 すべての属性の例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## ブール値 {#boolean}
 
@@ -224,15 +224,15 @@ src:文字列 URL。 これは、画像のデフォルト値として使用さ�
 
 基本的な例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 すべての属性の例：
 
 この例は、CSS で要素を ID で表示/非表示にする CSS 表示プロパティの値を「block」または「none」に設定して、ブール変数が CSS 要素の表示/非表示を制御する一般的な使用例を示しています。 ランディングページエディターでは、「オフ」/「オン」の代わりに、「表示/非表示」という表示名が使用されます。
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 94%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 94%
             + [動的フィールドが入力されない場合の対処](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [動的フィールドでの自己参照](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + アクション {#actions}
+         + 管理 {#admin}
+            + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [チームの作成](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [カスタムドメイントラッキングを設定する方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + メール {#email}
+            + コマンドセンター {#command-center}
+               + [詳細検索の概要](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [チームメンバーへのタスクの割り当て](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [コマンドセンターの概要](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [メール列とメールページのレイアウト](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [コマンドセンターのクイックアクション](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + メール設定 {#email-settings}
+            + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + セールスメールの送信 {#send-a-sales-email}
+            + [メールトラッキングの概要](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI の使用 {#using-msi}
          + [リードから着信したメールを Marketo でログに記録](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome プラグイン{#msi-chrome-plugin}
