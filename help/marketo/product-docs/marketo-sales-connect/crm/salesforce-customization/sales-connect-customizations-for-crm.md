@@ -3,10 +3,10 @@ unique-page-id: 14745793
 description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '626'
-ht-degree: 100%
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+workflow-type: tm+mt
+source-wordcount: '726'
+ht-degree: 86%
 
 ---
 
@@ -39,6 +39,38 @@ ht-degree: 100%
 1. Salesforce にログインします。
 
    ![](assets/five.png)
+
+## Salesforce カスタマイズの更新 {#update-salesforce-customization}
+
+Salesforce カスタマイズパッケージのアップデートには、機能強化とバグ修正が含まれます。 更新が利用可能かどうか、または更新を実行するには、次の手順に従います。
+
+>[!NOTE]
+>
+>**管理者権限が必要です。**
+
+1. 内 [web アプリケーション](https://www.toutapp.com)、歯車アイコンをクリックし、「 **設定**.
+
+   ![](assets/sales-connect-customizations-for-crm-6.png)
+
+1. 管理設定で、**Salesforce** をクリックします。
+
+   ![](assets/sales-connect-customizations-for-crm-7.png)
+
+1. 更新が利用可能な場合は、セールスコネクトカスタマイズカードが表示されます。 クリック **カスタマイズを更新**.
+
+   ![](assets/sales-connect-customizations-for-crm-8.png)
+
+1. クリック **アップグレード**.
+
+   ![](assets/sales-connect-customizations-for-crm-9.png)
+
+1. 更新プログラムがインストールされるまで待ちます。 必要なバージョン番号の数に応じて、インストール時間は異なります。
+
+   ![](assets/sales-connect-customizations-for-crm-10.png)
+
+完了すると、カードに「セールスコネクトのカスタマイズは最新です」と表示されます。
+
+![](assets/sales-connect-customizations-for-crm-11.png)
 
 ## カスタムアクティビティフィールド {#custom-activity-fields}
 

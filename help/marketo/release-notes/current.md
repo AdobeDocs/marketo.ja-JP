@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 5%
 
 ---
@@ -76,6 +76,8 @@ ht-degree: 5%
 ## お知らせ {#announcements}
 
 **リード廃止/Munchkin Beta 161 アップデートの関連付け**:2021 年 9 月 7 日に、Munchkin のバージョン 161 は、Munchkin Beta を有効にしてサブスクリプションの 10%に、次いで 9 月 16 日に 50%、9 月 30 日に 100%を展開し始めました。 この変更は、Marketo Engageのランディングページと、最近のバージョンがロールアウトされたサブスクリプションから読み込まれる外部のランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。 このバージョンは、Munchkin Associate Lead メソッドを完全に廃止します。これは、Marketo Engageサブスクリプションに個人のデータを送信し、既知の人物レコードと関連する Web 閲覧履歴を送信できる機能です。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より最新でセキュアな代替手段のために、「リードの関連付け」は削除されています。 [この廃止について詳しくは、こちらを参照してください。](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**セールスコネクトの更新**:セールスコネクトの最近の UI の変更により、Salesforce の一部のモデルが中断されました。 この問題を修正するには、 [パッケージの更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_製品リリースウェビナー_**
 
