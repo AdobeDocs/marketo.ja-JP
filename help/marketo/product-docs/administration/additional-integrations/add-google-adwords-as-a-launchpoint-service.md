@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Google AdWords を LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
 title: Google AdWords を LaunchPoint サービスとして追加
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: ''
-workflow-type: ht
-source-wordcount: '300'
+source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
+workflow-type: tm+mt
+source-wordcount: '315'
 ht-degree: 100%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 100%
 Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、AdWords の UI から、どのクリックがクオリファイドリードや商談、新規顧客（またはトラックしたいあらゆる売上高ステージ）につながったのかを簡単に確認できるようになります。この情報は、Marketo UI には表示されません。
 
 詳細は、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja)に関する説明を参照してください。
+
+>[!AVAILABILITY]
+>
+>すべての顧客がこの機能を購入したわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 >[!NOTE]
 >
