@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 94%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 94%
          + 管理 {#admin}
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [チームの作成](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [チームの作成](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [カスタムドメイントラッキングを設定する方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 94%
                + [コマンドセンターのクイックアクション](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + メール設定 {#email-settings}
             + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [Marketoへのアクセス権のユーザーへの付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + セールスメールの送信 {#send-a-sales-email}
             + [メールトラッキングの概要](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI の使用 {#using-msi}
