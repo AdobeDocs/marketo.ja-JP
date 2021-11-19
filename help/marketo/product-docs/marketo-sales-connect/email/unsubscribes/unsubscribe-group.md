@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14746167
-description: 登録解除グループ —Marketoドキュメント — 製品ドキュメント
-title: グループの登録解除
+description: グループの購読解除 — Marketoドキュメント — 製品ドキュメント
+title: グループの配信停止
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# グループの登録解除{#unsubscribe-group}
+# グループの配信停止 {#unsubscribe-group}
 
-登録済みでないユーザーを1か所ですべて表示および管理します。
+配信停止済みの担当者をすべて 1 か所で表示および管理します。
 
-![](assets/1.png)
+![](assets/-1.png)
 
-購読を取り消したユーザーを検索するには、検索バーを使用します。
+購読解除済みの担当者を検索するには、検索バーを使用します。
 
-![](assets/2.png)
+![](assets/-2.png)
 
-管理者の場合は、登録解除グループに移動して、「アカウントの登録解除」でフィルターし、ユーザーデータベースで収集されたすべての登録解除を表示できます。
+管理者の場合は、配信停止グループに移動して、「アカウント配信停止」でフィルタリングし、ユーザーデータベースで収集された配信停止をすべて表示できます。
 
-![](assets/3.png)
+![](assets/-3.png)

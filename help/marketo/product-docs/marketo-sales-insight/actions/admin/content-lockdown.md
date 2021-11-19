@@ -3,10 +3,10 @@ description: コンテンツのロックダウン — Marketoドキュメント 
 title: コンテンツのロックダウン
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 11%
+source-wordcount: '100'
+ht-degree: 16%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 11%
 >
 >ユーザーは、送信時、またはキャンペーンの開始時に、E メールのコンテンツを編集できます。
 
-1. 内 [web アプリケーション](https://toutapp.com/login)、歯車アイコンをクリックし、「 **設定**.
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/content-lockdown-1.png)
 
