@@ -3,8 +3,8 @@ unique-page-id: 7516390
 description: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: ''
-workflow-type: ht
+source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 
 1. [Marketo Sales Insight の AppExchange ページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**今すぐ取得**」をクリックします。
 
-   ![](assets/one.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
 1. 「**AppExchange にログイン**」ボタンをクリックし、Salesforce の認証情報を使用してログインします。
 
@@ -78,5 +78,5 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 >
 >* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [チーム向け Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [チーム向けの Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 

@@ -1,80 +1,79 @@
 ---
 unique-page-id: 2359449
-description: セグメントルールの定義 —Marketoドキュメント — 製品ドキュメント
+description: セグメントルールの定義 — Marketoドキュメント — 製品ドキュメント
 title: セグメントルールの定義
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 0%
+source-wordcount: '379'
+ht-degree: 4%
 
 ---
 
-# セグメントルールの定義{#define-segment-rules}
+# セグメントルールの定義 {#define-segment-rules}
 
-セグメントルールを定義すると、訪問者を様々な相互排他的なグループに分類できます。
+セグメントルールを定義すると、顧客を異なる相互に排他的なグループに分類できます。
 
 >[!PREREQUISITES]
 >
->[セグメントの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. **データベースに移動します。**
+1. 次に移動： **データベース。**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. ツリーの&#x200B;**セグメント**&#x200B;をクリックし、特定の&#x200B;**セグメント**&#x200B;をクリックします。
+1. 選択 **セグメント化** ツリーから、特定の **セグメント**.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. **スマートリスト**&#x200B;をクリックし、フィルターを追加します。
+1. クリック **スマートリスト** フィルターを追加します。
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
    >[!CAUTION]
    >
-   >現在、セグメントでは、フィルターの&#x200B;_過去_&#x200B;および&#x200B;_時間枠_&#x200B;内演算子がサポートされていません。 これは、変更データ値がログに記録されるときにのみ、セグメント化で更新がチェックされるからです。 数式のフィールドや日付など、自動的に変更される値に対しては、__&#x200B;ログに記録されません。 また、相対的な日付範囲を持つ日付演算子は、データ値の変更アクティビティの時ではなく、セグメント化の承認時に計算されるので、サポートされません。
+   >セグメントは現在サポートされていません _過去_ および _期間内_  演算子を使用します。 これは、セグメント化では、変更データ値がログに記録されたときにのみ更新を確認するためです。 これらの値は次のとおりです。 _not_ 数式フィールドや日付など、自動的に変更される項目に対してログに記録されます。 また、相対的な日付範囲を持つ日付演算子は、データ値の変更アクティビティの時点ではなく、セグメント化の承認時に計算されるので、サポートされません。
 
    >[!NOTE]
    >
-   >「SFDC Type」と「Microsoft Type」のフィルターは、現在、セグメントスマートリストではサポートされていません。
+   >「SFDC タイプ」および「Microsoftタイプ」フィルターは、現在、セグメント化スマートリストではサポートされていません。
 
 1. フィルターに適切な値を入力します。
 
    ![](assets/image2017-3-28-14-3a18-3a33.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >スマートリストは素晴らしい。 [詳しくは、こちらを参照してください](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)。
+   >アドバイス _対して_ セグメントルールを定義する際にアカウントフィールドを使用すると、アクティビティログに問題が発生する可能性があります。
 
-1. 「**人（ドラフト）**」タブをクリックして、このセグメントのメンバーになる資格を持つ人を表示します。
+1. 次をクリック： **担当者（下書き）** タブをクリックして、このセグメントのメンバーになる資格のある人を表示します。
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. **セグメント化アクション**&#x200B;に移動します。 「**承認**」をクリックします。
+1. に移動します。 **セグメント化アクション**. クリック **承認**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
    >[!CAUTION]
    >
-   >セグメントで作成できるセグメントの合計数は、使用するフィルターの数とタイプ、およびセグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大100個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバ、リード所有者フィールド、および売上高ステージ。
+   >セグメントで作成できるセグメントの合計数は、使用するフィルターの数と種類と、セグメントのロジックの複雑さによって異なります。 標準フィールドを使用して最大 100 個のセグメントを作成できますが、他のタイプのフィルターを使用すると複雑さが増し、セグメントを承認できない場合があります。 次に例を示します。カスタムフィールド、リストのメンバー、リード所有者フィールド、収益ステージ。
    >
-   >承認中にエラーメッセージが表示され、セグメントの複雑さを軽減するために支援が必要な場合は、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+   >承認中にエラーメッセージが表示され、セグメント化の複雑さを軽減するためにサポートが必要な場合は、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. 円グラフでセグメントの概要を簡単に確認するには、ダッシュボードと適用されるルールを確認します。
+1. ダッシュボードでは、円グラフでのセグメントおよび適用されたルールの概要をすばやく確認できます。
 
    ![](assets/image2014-9-15-11-3a36-3a19.png)
 
-お疲れさまでした！ これらのセグメントはMarketoの多くの場所で役に立つでしょう。
+お疲れさまでした。 これらのセグメントはMarketoの多くの場所で役に立つでしょう。
 
 >[!NOTE]
 >
->1人の訪問者が異なるセグメントに属する可能性はありますが、最終的には、セグメント](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)の[優先順位に依存するセグメントに属するだけです。
+>ユーザーは様々なセグメントに適合する場合がありますが、最終的には、 [セグメントの優先順位](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >
->人（ドラフト）画面には、会員資格を持つすべての人が表示され、必ずしも人の最終リストとは限りません。 セグメントを承認して、最終リストを確認します。
+>人（下書き）画面には、メンバーとして認定されるすべての人が表示され、必ずしも人の最終リストとは限りません。 セグメントを承認して、最終リストを確認します。
 
 >[!MORELIKETHIS]
 >
->[セグメントの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
+>[セグメント化の承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
