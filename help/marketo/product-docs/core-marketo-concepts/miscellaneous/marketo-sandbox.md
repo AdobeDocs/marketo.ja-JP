@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo サンドボックス - Marketo ドキュメント - 製品ドキュメント
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '313'
 ht-degree: 100%
 
 ---
@@ -38,6 +38,4 @@ Marketo サンドボックスが既に実稼動インスタンスと同期され
 
 >[!NOTE]
 >
->* ソースインスタンスが Microsoft Dynamics と統合されている場合、インスタンスコピーは&#x200B;**サポートされません**。
->* ネイティブ CRM を変更する場合は、新しい Marketo インスタンスが必要になり、新しい Marketo インスタンスへのインスタンスコピーはできなくなります。代わりに、 Marketo サポートに問い合わせて、プログラムの読み込み機能を確認してください。
-
+>ネイティブ CRM を変更する場合は、新しい Marketo インスタンスが必要になり、新しい Marketo インスタンスへのインスタンスコピーはできなくなります。代わりに、 Marketo サポートに問い合わせて、プログラムの読み込み機能を確認してください。
