@@ -3,10 +3,10 @@ description: テンプレートの管理 — Marketoドキュメント — 製�
 title: 'テンプレートを管理 '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 46%
+source-wordcount: '523'
+ht-degree: 37%
 
 ---
 
@@ -33,6 +33,31 @@ ht-degree: 46%
 >[!TIP]
 >
 >常にテンプレートにテキストを直接入力するか、プレーンテキストエディター（メモ帳、TextEdit など）からコピーします。 リッチテキストエディター（MS Word など）からコピー&amp;ペーストすると、書式が不規則になる場合があります。
+
+## テンプレートの詳細を表示 {#view-template-details}
+
+「テンプレートの詳細」領域には、複数のタブが含まれています。
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>テンプレート</strong></td>
+  <td>レビューと編集、条件の設定、テンプレートを推奨テンプレートにする、メモの追加</td>
+ </tr>
+ <tr>
+  <td><strong>アナリティクス</strong></td>
+  <td>テンプレートのエンゲージメント分析を確認します。 フィルターを適用した検索を実行します。</td>
+ </tr>
+ <tr>
+  <td><strong>メール</strong></td>
+  <td>このテンプレートを使用して送信されたすべてのメールを表示します。 フィルターを適用した検索を実行します。</td>
+ </tr>
+ <tr>
+  <td><strong>キャンペーン</strong></td>
+  <td>テンプレートが使用されているキャンペーンを確認します。</td>
+ </tr>
+</table>
 
 ## テンプレートの共有 {#share-a-template}
 
@@ -92,9 +117,17 @@ ht-degree: 46%
 
 テンプレートをアーカイブして、テンプレートデータを失うことなく、セールスコンテンツを整理し、集中的に保ちます。
 
-テンプレートの横にあるボックスをオンにして、「**アーカイブ**」をクリックします。
+1. アーカイブするテンプレートの横にあるチェックボックスをオンにします。
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. クリック **アーカイブ**.
+
+   ![](assets/manage-templates-15.png)
+
+1. クリック **アーカイブ** をクリックして確定します。
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ PICC
 >
 >テンプレートを削除すると、そノテンプレートに関連付けられているすべてのトラッキングと分析も削除されます。
 
-1. 削除するテンプレートを選択します。
+1. 削除するテンプレートの横にあるチェックボックスをオンにします。
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. 右上のメニュードロップダウンをクリックし、「**削除**」をクリックします。
+1. 「**削除**」をクリックします。
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. 「**削除**」をクリックして確定します。
 
-PICC
+   ![](assets/manage-templates-19.png)
