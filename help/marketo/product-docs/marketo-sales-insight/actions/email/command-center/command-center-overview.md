@@ -3,9 +3,9 @@ description: コマンドセンターの概要 - Marketo ドキュメント - �
 title: コマンドセンターの概要
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 72%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 72%
 
 コマンドセンターのメールセクションでは、すべてのメールアクティビティを管理できます。Sales Connect から送信されたメールを確認するためのメール送信ボックスと考えてください。スケジュールされたメールを管理し、メールに関心を持っている人を確認し、メールの配信に問題があるかどうかを確認します。
 
-PICC
+![](assets/command-center-overview-1.png)
 
 メールセクションでは、すべてのメールを俯瞰して、プライマリタブとサブタブを使用して組織を簡素化できます。プライマリタブとサブタブは、メールがステータスに基づいて自動的に保存されるフォルダーの役割を果たします。
 
@@ -73,7 +73,7 @@ PICC
 
 タスクセクションでは、タスクの管理と完了をすべて行うことができます。タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## 関与した見込み客のフォローアップ {#follow-up-with-engaged-prospects}
 
