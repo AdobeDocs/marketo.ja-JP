@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 94%
@@ -1295,9 +1295,9 @@ ht-degree: 94%
                + [Marketo 配信停止チェック](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + メール配信 {#email-delivery}
-            + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
+            + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + メール設定 {#email-settings}
             + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
