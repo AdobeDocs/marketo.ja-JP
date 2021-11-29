@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: セグメントルールの定義 — Marketoドキュメント — 製品ドキュメント
 title: セグメントルールの定義
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 4%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >アドバイス _対して_ セグメントルールを定義する際にアカウントフィールドを使用すると、アクティビティログに問題が発生する可能性があります。
+   >アカウントフィールドのアクティビティログの動作は、認定に影響を与える可能性があります。 したがって、セグメントルールを定義する際には、 Account フィールドを使用しないことをお勧めします。
 
 1. 次をクリック： **担当者（下書き）** タブをクリックして、このセグメントのメンバーになる資格のある人を表示します。
 

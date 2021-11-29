@@ -3,10 +3,10 @@ description: 配信チャネルの概要 - Marketo ドキュメント - 製品�
 title: 配信チャネルの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 70%
+source-wordcount: '668'
+ht-degree: 73%
 
 ---
 
@@ -45,6 +45,12 @@ Marketo Sales には、サードパーティの SMTP サーバーを接続して
 Marketoセールスサーバーは、一部のレガシー ToutApp のお客様のみご利用いただけます。 これらのお客様の電子メール設定には、Marketo Sales サーバーが表示されます。 従来のお客様以外のお客様は、Marketo Sales をオプションとして見なされず、Gmail または Outlook アカウントをMarketo Sales に接続して、配信チャネルのロックを解除する必要があります。
 
 Marketoセールスサーバーは、DKIM および SPF 認証方式をサポートしていないので、配信品質の割合が低下する可能性があります。 このため、最高の到達率を得るために、すべてのお客様に Gmail または Outlook に接続することをお勧めします。
+
+## MSC サーバー（レガシー） {#msc-servers-legacy}
+
+MSC サーバーは、一部のレガシー ToutApp のお客様のみ使用できます。これらのお客様は、メール設定に MSC サーバーが表示されます。レガシー版以外のすべてのお客様には、MSC サーバーがオプションとして表示されないので、配信チャネルのロックを解除するには、Gmail や Outlook のアカウントを Sales Connect に接続する必要があります。
+
+MSC サーバーは、DKIM および SPF 認証方式をサポートしていないので、到達率が低下する可能性があります。このため、最高の到達率を得るために、すべてのお客様に Gmail または Outlook に接続することをお勧めします。
 
 ## Marketo サーバー {#marketo-servers}
 

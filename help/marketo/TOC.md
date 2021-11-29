@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '8083'
+source-wordcount: '8097'
 ht-degree: 94%
 
 ---
@@ -1294,6 +1294,10 @@ ht-degree: 94%
                + [配信停止リンクメッセージのカスタマイズ](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 配信停止チェック](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+         + メール配信 {#email-delivery}
+            + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
          + メール設定 {#email-settings}
             + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
