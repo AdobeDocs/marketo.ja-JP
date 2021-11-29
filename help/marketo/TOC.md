@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 94%
@@ -1296,7 +1296,7 @@ ht-degree: 94%
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + メール配信 {#email-delivery}
             + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + メール設定 {#email-settings}
             + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
