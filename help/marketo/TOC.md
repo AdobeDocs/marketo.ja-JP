@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 94%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 94%
             + [動的フィールドでの自己参照](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + アクション {#actions}
+         + はじめに {#getting-started}
+            + メール設定 {#email-settings}
+               + [メールを確認](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + 管理 {#admin}
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 94%
                + [配信停止リンクメッセージのカスタマイズ](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 配信停止チェック](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + メール配信 {#email-delivery}
-            + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + メール設定 {#email-settings}
-            + [メールを確認](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + メール配信 {#email-delivery}
+               + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [Marketoへのアクセス権のユーザーへの付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + セールスメールの送信 {#send-a-sales-email}
