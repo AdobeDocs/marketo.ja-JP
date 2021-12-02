@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8119'
 ht-degree: 94%
 
 ---
@@ -1273,6 +1273,9 @@ ht-degree: 94%
          + はじめに {#getting-started}
             + メール設定 {#email-settings}
                + [メールを確認](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+               + [電子メール署名の追加または更新](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [ID を追加](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+            + [Marketoセールスパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 管理 {#admin}
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1281,6 +1284,8 @@ ht-degree: 94%
             + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + キャンペーン {#campaigns}
+            + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce の連携 {#salesforce-integration}
                + [Marketoセールスアカウントを Salesforce に接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1300,7 +1305,7 @@ ht-degree: 94%
             + メール配信 {#email-delivery}
                + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [カスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+               + [チーム用のカスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
          + Marketo {#marketo}
             + [Marketoへのアクセス権のユーザーへの付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + セールスメールの送信 {#send-a-sales-email}
