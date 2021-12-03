@@ -3,17 +3,39 @@ description: カスタムドメイントラッキングを設定する方法 - M
 title: カスタムドメイントラッキングを設定する方法
 hide: true
 hidefromtoc: true
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 45%
+source-wordcount: '198'
+ht-degree: 16%
 
 ---
 
 # カスタムドメイントラッキングを設定する方法 {#how-to-set-up-custom-domain-tracking}
 
-リンクのカスタムドメイントラッキングを設定するオプションが用意されているので、誰かがリンクにカーソルを合わせると、次のように読み取られます。 `go.yourcompany.com` の代わりに `go.toutapp.com`.
+カスタムドメイントラッキングを使用すると、チームはセールスメールに追加された追跡可能なすべてのリンクで、自分の会社名を使用できます。 この設定が完了したら、メールに含まれているリンクが go.yourcompany.com と表示されるようにしま許可リストす。そのため、誰かがリンクにマウスポインターを置いたときに、go.toutapp.com ではなく go.yourcompany.com と表示されます。
 
-これを設定するには、IT 管理者が[設定ページ](https://toutapp.com/next#settings/admin/tracking)に示す手順に従う必要があります。
+go.toutapp.com を指すドメインの CNAME レコードを設定するには、IT チームのサポートが必要です。 この CNAME は、すべてのトラッキングリンク（例：go.yourcompany.com）に表示されます。
 
-設定が完了したら、メールに含まれ許可リストるリンクをし、 `go.yourcompany.com`.
+CNAME が正しく設定されていることを IT チームに確認したら、「アクション」のカスタムドメイントラッキングページに追加できます。
+
+>[!NOTE]
+>
+>CNAME が適切に設定されておらず、アクションでカスタムドメインとしてアクティブ化すると、トラッキングリンクとピクセルが壊れる場合があります。
+
+## カスタムドメイン追跡の有効化 {#enable-custom-domain-tracking}
+
+>[!NOTE]
+>
+>**管理者権限が必要です。**
+
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
+
+   ![](assets/how-to-set-up-custom-domain-tracking-1.png)
+
+1. 「管理者設定」で、「 **トラッキング**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-2.png)
+
+1. 「カスタムドメイントラッキング」タブで、CNAME を入力し、「 **接続**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-3.png)
