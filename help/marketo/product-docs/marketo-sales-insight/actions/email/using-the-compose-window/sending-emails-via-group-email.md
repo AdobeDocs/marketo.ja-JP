@@ -3,10 +3,10 @@ description: グループ電子メールを使用した電子メールの送信 
 title: グループメールによるメールの送信
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '168'
+ht-degree: 14%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 15%
 
 1. 「**リード**」タブをクリックします。
 
-   ![](assets/one-3.png)
+   PICC
 
 1. 電子メールを送信するグループを選択します。
 
-   ![](assets/two-3.png)
+   PICC
 
 1. 「 Group Actions 」ボタンをクリックし、「 」を選択します。 **メールグループ**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. E メールを入力し（またはテンプレートを選択）、送信（またはスケジュール）します。
 
-   ![](assets/four-3.png)
+   PICC
 
 ## グループメールの編集 {#editing-a-group-email}
 
@@ -38,19 +38,19 @@ ht-degree: 15%
 
 1. テンプレートを選択するか、メールを入力します。
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. E メールが完了したら、リスト内の各 E メールをプレビューして、動的フィールドに正しく入力されているかどうかを確認できるようになりました。
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. 目的の受信者を選択します。
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. クリック **ダイナミックフィールドをプレビュー**&#x200B;をクリックし、右側にプレビューを表示します。
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
