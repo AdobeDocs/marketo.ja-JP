@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '8119'
+source-wordcount: '8147'
 ht-degree: 94%
 
 ---
@@ -1177,7 +1177,6 @@ ht-degree: 94%
             + [キャンペーンは終了しました](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [メールの CC または BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [スパムとしてマークされたメール](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [メールでの添付ファイル送信](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
          + ライブフィード {#the-live-feed}
             + [誤った受信者の場所](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [ライブフィードの概要](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1297,15 +1296,21 @@ ht-degree: 94%
                + [コマンドセンターの概要](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [メール列とメールページのレイアウト](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [コマンドセンターのクイックアクション](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + メール配信 {#email-delivery}
+               + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [チーム用のカスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + 配信停止 {#unsubscribes}
                + [配信停止の概要](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [配信停止リンクメッセージのカスタマイズ](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 配信停止チェック](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + メール配信 {#email-delivery}
-               + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [チーム用のカスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + 作成ウィンドウの使用 {#using-the-compose-window}
+               + [メールへの添付ファイルまたはトラック可能なコンテンツの追加](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+               + [メールへの Highspot コンテンツの追加](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+               + [一括電子メールオプション](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+               + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [グループメールによるメールの送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
          + Marketo {#marketo}
             + [Marketoへのアクセス権のユーザーへの付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + セールスメールの送信 {#send-a-sales-email}
