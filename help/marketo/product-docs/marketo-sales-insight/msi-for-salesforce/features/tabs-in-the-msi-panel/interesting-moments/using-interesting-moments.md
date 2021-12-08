@@ -3,10 +3,10 @@ unique-page-id: 2951640
 description: 注目のアクションの使用 - Marketo ドキュメント - 製品ドキュメント
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 100%
+source-wordcount: '418'
+ht-degree: 79%
 
 ---
 
@@ -30,19 +30,19 @@ ht-degree: 100%
 
 1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を選択します。トリガーされた場合にセールスチームが興味を持つものがいいでしょう。
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
 1. **注目のアクション**&#x200B;フローステップをドラッグします。
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
 1. **タイプ**&#x200B;を選択します（メール、マイルストーン、web）。
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
 1. このアクションが重要である理由として、セールスチームへのメッセージを「**説明**」フィールドに記入します。
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -60,16 +60,30 @@ ht-degree: 100%
 
 注目のアクションは、[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)に表示されます。
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## 注目のアクションは、Salesforce でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
 [Marketo Sales Insight アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、連絡先、アカウント、または商談ページに表示されます。また、Sales Insight ダッシュボードで、「リードフィード」、「最有望見込客」、「ウォッチリスト」にも表示されます。
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## 注目のアクションは、Salesforce1 でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 Marketo Sales Insight for Salesforce1 をインストールまたは更新すると、リードの関連リンクの下に注目のアクションが表示されます。
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## 注目のアクションを購読 {#subscribe-to-interesting-moments}
+
+「注目のアクション」タブまたはリードフィードで「購読」ボタンをクリックすると、注目のアクションを購読できます。 以下の手順は両方で同じです。
+
+1. 「購読」アイコンをクリックします。 その後、「 E メール配信登録」タブに移動します。
+
+1. 受け取る電子メールアラートの種類を、名前、アカウント、種類、説明のいずれかに基づいて選択できます。
+
+1. アラートを送信する電子メールアドレスを選択します（自分/チームメンバー）
+
+1. クリック **購読**.
+
+![](assets/using-interesting-moments-8.png)
