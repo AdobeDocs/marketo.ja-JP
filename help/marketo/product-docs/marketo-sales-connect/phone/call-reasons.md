@@ -4,9 +4,9 @@ title: 通話理由
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ ht-degree: 0%
 
 1. コールボタンをクリックして、ダイヤラを起動します。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. ダイヤラにコール情報を入力します。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 呼び出しをクリックします。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 呼び出しに最も適した呼び出し理由を選択します。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 通話を終了します。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. 呼び出しをログに記録します。
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
