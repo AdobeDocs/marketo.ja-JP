@@ -3,9 +3,10 @@ description: 通話の結果 — Marketoドキュメント — 製品ドキュ�
 title: 通話結果
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ ht-degree: 0%
 
 1. 歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. 「管理設定」で、を選択します。 **ダイヤラ**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. 選択 **通話結果の有効化**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. 目的の呼び出し結果要件を選択します。
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## 通話の結果を作成 {#create-call-outcomes}
 
 1. 歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. 「管理設定」で、を選択します。 **ダイヤラ**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. クリック **通話の結果の管理**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. テキストフィールドに目的の呼び出し結果名を入力します。
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. 「回答済み」ドロップダウンをクリックして、結果のタイプを選択します（この例では、「回答済み」を選択しています）。 次に、 **追加**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## 通話の結果を選択 {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Salesforce に通話理由と通話結果を記録](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [通話理由](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+

@@ -3,7 +3,8 @@ description: 購読解除の概要 — Marketoドキュメント — 製品ド�
 title: 配信停止の概要
 hide: true
 hidefromtoc: true
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 5%

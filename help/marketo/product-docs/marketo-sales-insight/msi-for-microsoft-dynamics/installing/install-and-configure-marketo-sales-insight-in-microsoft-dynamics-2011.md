@@ -2,13 +2,13 @@
 unique-page-id: 3571735
 description: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定
-source-git-commit: ''
-workflow-type: ht
+exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 100%
 
 ---
-
 
 # Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
@@ -95,6 +95,7 @@ Marketo Sales Insight は、セールスチームが使えるとても便利な�
    >* 優先度
    >* 緊急度
    >* 相対スコア
+
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 

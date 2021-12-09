@@ -2,13 +2,13 @@
 unique-page-id: 10093688
 description: Marketo カスタムオブジェクトフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトフィールドの追加
-source-git-commit: ''
-workflow-type: ht
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
 ---
-
 
 # Marketo カスタムオブジェクトフィールドの追加 {#add-marketo-custom-object-fields}
 
