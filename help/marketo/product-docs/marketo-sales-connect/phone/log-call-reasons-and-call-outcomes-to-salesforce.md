@@ -4,9 +4,9 @@ title: Salesforce に通話理由と通話結果を記録
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 4%
 
 ---
@@ -66,6 +66,10 @@ ht-degree: 4%
 
 ### Salesforce Classic のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>上記の手順 9 で目的のページレイアウトを選択しなかった場合にのみ、これらの手順に従う必要があります。
+
 1. Salesforce で、 **設定**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ ht-degree: 4%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. フィールドをタスクページレイアウトにドラッグ&amp;ドロップします。
+1. フィールドをタスクページレイアウトの目的のセクションにドラッグ&amp;ドロップします。
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. 「**保存**」をクリックします。
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Salesforce Lightning でカスタムアクティビティフィールドを作成 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Salesforce で、右上の歯車アイコンをクリックします。
+1. Salesforce で、右上の歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
-PICC
-
-1. クリック **設定**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. クリック **オブジェクトマネージャ**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 「クイック検索」ボックスに「アクティビティ」と入力し、アクティビティラベルをクリックして、オブジェクトの設定を開きます。
+1. クイック検索ボックスに&quot;Activity&quot;と入力します。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 左側で、 **フィールドと関係**.
+1. 次をクリック： **アクティビティ** ラベル
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. クリック **フィールドと関係**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. 「**新規**」をクリックします。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Salesforce Lightning のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Salesforce で、右上の歯車アイコンをクリックします。
+1. Salesforce で、右上の歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. クリック **設定**.
+1. クリック **オブジェクトマネージャ**.
 
-PICC
-
-1. セットアップに移動します。?????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. [ クイック検索 ] ボックスに&quot;タスク&quot;と入力します。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. [ タスク ] をクリックします。
+1. 次をクリック： **タスク** ラベル
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 「ページレイアウト」をクリックします。
+1. 「**ページレイアウト**」をクリックします。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. このフィールドを追加するタスクページレイアウトを pn ボタンでクリックします。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. フィールドをタスクページレイアウトにドラッグ&amp;ドロップします。
+1. フィールドをタスクページレイアウトの目的のセクションにドラッグ&amp;ドロップします。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 「保存」をクリックします。
+1. 「**保存**」をクリックします。
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
