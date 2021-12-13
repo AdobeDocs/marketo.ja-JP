@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
-ht-degree: 94%
+source-wordcount: '8174'
+ht-degree: 93%
 
 ---
 
@@ -504,7 +504,7 @@ ht-degree: 94%
          + [Adobe Experience Manager でのアセットの読み込み](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo サンドボックス](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-         + [Privacy Management](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [プライバシー管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [プライバシーリクエスト](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo アセットの名前変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [Adobe Experience Cloudオーディエンス共有を設定する](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
@@ -660,9 +660,9 @@ ht-degree: 94%
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [Facebook リッチ投稿設定の編集](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [ランディングページの Facebook への公開](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [Set up Facebook Lead Ads](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [facebookリード広告の設定](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [カスタムフィールドの Marketo へのマッピング](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [Set up Facebook Offline Conversions](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [facebookオフラインコンバージョンの設定](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
          + [Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Marketo とのモバイル統合に向けた Facebook リード広告のテスト](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Facebook オフラインコンバージョンについて](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
@@ -781,7 +781,7 @@ ht-degree: 94%
                + [テンプレート 4C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md)
                + [テンプレート 5A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5a.md)
                + [テンプレート 5B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5b.md)
-               + [Template 5C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md)
+               + [テンプレート 5C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md)
                + [テンプレート 5D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5d.md)
                + [テンプレート 5E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md)
                + [テンプレート 6A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6a.md)
@@ -792,7 +792,7 @@ ht-degree: 94%
                + [テンプレート 7A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7a.md)
                + [テンプレート 7B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7b.md)
                + [テンプレート 7C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md)
-               + [Template 7D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md)
+               + [テンプレート 7D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md)
                + [テンプレート 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
                + [テンプレート 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
                + [テンプレート 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
@@ -834,16 +834,16 @@ ht-degree: 94%
                + [テンプレート 14A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14a.md)
                + [テンプレート 14B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14b.md)
                + [テンプレート 14C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14c.md)
-               + [Template 14D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14d.md)
+               + [テンプレート 14D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14d.md)
                + [テンプレート 14E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14e.md)
                + [テンプレート 15A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15a.md)
-               + [Template 15B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15b.md)
+               + [テンプレート 15B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15b.md)
                + [テンプレート 15C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15c.md)
                + [テンプレート 15D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15d.md)
                + [テンプレート 15E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-15e.md)
                + [テンプレート 16A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16a.md)
                + [テンプレート 16B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16b.md)
-               + [Template 16C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16c.md)
+               + [テンプレート 16C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16c.md)
                + [テンプレート 16D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16d.md)
                + [テンプレート 16E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-16e.md)
                + [テンプレート 17A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-17a.md)
@@ -860,10 +860,10 @@ ht-degree: 94%
                + [テンプレート 19B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19b.md)
                + [テンプレート 19C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19c.md)
                + [テンプレート 19D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md)
-               + [Template 19E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md)
-               + [Template 20A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md)
+               + [テンプレート 19E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md)
+               + [テンプレート 20A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md)
                + [テンプレート 20B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md)
-               + [Template 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
+               + [テンプレート 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
                + [テンプレート 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [テンプレート 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + ランディングページのパーソナライズ {#personalizing-landing-pages}
@@ -1065,7 +1065,7 @@ ht-degree: 94%
       + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [アイコン用語集](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [Toggle Switch](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+      + [切り替えスイッチ](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo セールスの連携 {#marketo-sales-connect}
       + はじめに {#getting-started}
          + [Sales Connect の概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1124,6 +1124,7 @@ ht-degree: 94%
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Salesforce Lightning での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce の連携 {#salesforce-integration}
+            + [Salesforce アクティビティ詳細のカスタマイズの設定](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Sales Connect アカウントの Salesforce への接続](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Salesforce を Sales Connect アカウントから切断](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Salesforce に接続する際の「要求を認証できませんでした」の修正方法](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 94%
          + [チームとの通話記録の共有](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [二者間による同意の設定](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + タスク {#tasks}
+         + [リマインダータスクの作成と割り当て](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [初めての Sales Connect タスクの Salesforce との同期](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + テンプレート {#templates}
          + [自動配信停止のテンプレートへの追加](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
@@ -1275,7 +1278,7 @@ ht-degree: 94%
          + はじめに {#getting-started}
             + メール設定 {#email-settings}
                + [メールを確認](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
-               + [Add or Update Your Email Signature](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [電子メール署名の追加または更新](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID を追加](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
             + [Marketoセールスパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 管理 {#admin}
@@ -1334,7 +1337,7 @@ ht-degree: 94%
                + [MSI ビューの設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [最有望見込客](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
-               + [Web Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
+               + [ウェブアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + インストール {#installing}
             + [Microsoft Dynamics 用 Marketo Sales Insight Solution のダウンロード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
@@ -1728,12 +1731,12 @@ ht-degree: 94%
          + [特定のラベルからの web キャンペーンの表示](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
-   + [Current Release](release-notes/current.md)
-   + Previous Releases {#previous-releases}
+   + [最新のリリース](release-notes/current.md)
+   + 以前のリリース {#previous-releases}
       + 2021年 {#2021}
          + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [Release Notes: August &#39;21](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [リリースノート：2021 年 8 月](release-notes/previous-releases/2021/release-notes-aug-21.md)
       + 2020年 {#2020}
          + [リリースノート：2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [リリースノート：2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)

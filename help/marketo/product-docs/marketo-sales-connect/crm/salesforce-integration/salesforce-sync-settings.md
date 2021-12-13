@@ -3,10 +3,10 @@ unique-page-id: 18317669
 description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Salesforce と Sales Engage を接続する必要があります。
+>Salesforce とセールスコネクトを連携する必要があります。
 
-1. Sales Engage で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
@@ -46,11 +46,11 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Salesforce と Sales Engage を接続する必要があります。
+>Salesforce とセールスコネクトを連携する必要があります。
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
-1. Sales Engage で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-3.png)
 
@@ -92,7 +92,7 @@ ht-degree: 100%
 1. 「アクティブ」の横のボックスをオンにします。
 1. 「**保存**」をクリックします。
 
-## セールスエンゲージタスク／Salesforce タスクのリマインダーを同期 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## セールスコネクトタスク/Salesforce タスクのリマインダを同期 {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
 1. 右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -106,7 +106,7 @@ ht-degree: 100%
 
    ![](assets/three-1.png)
 
-1. 「セールスエンゲージタスク／Salesforce タスクのリマインダーを同期」の横の矢印をクリックします。
+1. [ セールスコネクトタスク/Salesforce タスクのリマインダを同期 ] の横の矢印をクリックします。
 
    ![](assets/seven-2.png)
 
