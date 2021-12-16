@@ -3,7 +3,8 @@ description: Salesforce Lightning カスタマイズパッケージのアンイ�
 title: Salesforce Lightning カスタマイズパッケージのアンインストール
 hide: true
 hidefromtoc: true
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+exl-id: 85966da3-1e20-4b87-b140-30523092b2e4
+source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 10%
