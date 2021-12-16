@@ -2,10 +2,10 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '948'
-ht-degree: 7%
+source-wordcount: '1050'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 以下の機能は **2022 年 1 月 21 日**（PT）にリリースされます。
 
-## 次世代のエクスペリエンス {#next-generation-experience}
+## 次世代のエクスペリエンス {#next-generation-experience}
 
 * **次世代のエクスペリエンスの画面の更新**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
 
@@ -51,7 +51,7 @@ ht-degree: 7%
 
 以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
 
-## AEPMarketo Engage宛先コネクタ — 見つからないリードを新しく作成 {#aep-marketo-engage-destination-connector}
+## AEPMarketo Engage宛先コネクタ — 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
 Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AEP の宛先コネクタを介して新しい人物レコードを AEP からMarketo Engageにプッシュできるので、データベースを最大化できます。 AEP からMarketo Engageにオーディエンスセグメントを送信する際、Marketo Engageデータベースにまだ存在しないセグメント内のユーザーが自動的に追加されます。
 
@@ -59,7 +59,7 @@ Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AE
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce CRM 用 Sales Insight**
+**Salesforce CRM 用 Sales Insight**
 
 * **最優先の新しいタイプ列**:販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最優先」ページのリードと連絡先を区別し、より迅速にインサイトを得ることができます。
 
@@ -85,6 +85,8 @@ Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AE
 
 * **フォームエンドポイントの廃止**:leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engageフォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **メールの検証**:このリリース以降、Marketo Engage購読では、「非 API のみ」のユーザーが電子メールアドレスを確認するようになります。 ディレクトリサービスの認証済みユーザーは、電子メールの検証でサブスクリプションが有効になっている場合、自動的に電子メールを検証します。 「ユーザーを招待ダイアログでログイン」機能を使用しているユーザーや、購読内の複数のユーザーに関連付けられた単一の E メールを持つ購読者のメール検証は、3 月に廃止される機能と一致して延期されます。
+* **メールの検証**:このリリース以降、Marketo Engage購読では、「非 API のみ」のユーザーが電子メールアドレスを確認するようになります。 ディレクトリサービスの認証済みユーザーは、電子メールの検証でサブスクリプションが有効になっている場合、自動的に電子メールを検証します。 「ユーザーを招待ダイアログでログイン」機能を使用しているユーザーや、購読内の複数のユーザーに関連付けられた単一の E メールを持つ購読者のメール検証は、3 月に廃止される機能と一致して延期されます。
 
 * **ユーザーを招待ダイアログにログイン**:3 月には、既存のオプション機能「ユーザーを招待ダイアログでログイン」は廃止されます。 「Login in Invite User Dialog」機能は、今後のAdobeIdentity Management System Integration に必要なユニバーサル ID 機能によって上書きされ、2021 年 8 月にすべてのサブスクリプションで有効になりました。 廃止の結果、Marketo Engageは、ユーザーの電子メールアドレスに一致するすべてのユーザー ID（ログイン）を強制し、サブスクリプション内の電子メールアドレスごとに 1 人のユーザーのみを関連付けることができます。
+
+**Marketo Engageドメイン — Sales Insight 設定**:SSL 証明書がプロビジョニングされていないMarketo Engageドメインおよびhttps://の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザーは、リード、連絡先、アカウント、商談パネル、またはMarketoグローバルページでシステムコールアウトエラーが発生する可能性があります。 お勧めの [Marketo Engage設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce で、このエラーが発生した場合。 ドキュメントの「Marketo Sales Insight 設定」セクションでハイライト表示されたMarketo Engage資格情報のみを更新する必要があります。

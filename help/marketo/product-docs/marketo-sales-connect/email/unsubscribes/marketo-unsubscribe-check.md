@@ -1,47 +1,47 @@
 ---
 unique-page-id: 18317340
-description: Marketo登録解除チェック —Marketoドキュメント — 製品ドキュメント
+description: Marketo配信停止の確認 — Marketoドキュメント — 製品ドキュメント
 title: Marketo 配信停止チェック
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 4%
+source-wordcount: '192'
+ht-degree: 11%
 
 ---
 
 # Marketo 配信停止チェック {#marketo-unsubscribe-check}
 
-Marketo登録解除チェックは、チームのMarketoへの接続を使用して、Marketoのリード管理システムで登録解除されたユーザーに電子メールが送信されるのを防ぎます。 販売ユーザーがSales Connectの電子メールを送信すると、電子メールIDが登録解除されたかどうかを確認するために、MarketoにAPI呼び出しが行われます。 メールが送信されている場合は、メールの送信をブロックします。
+Marketo配信停止チェックは、チームのMarketoへの接続を使用して、Marketoのリード管理システムで配信停止になったユーザーにメールが送信されるのを防ぎます。 セールスユーザーが Sales Connect の電子メールを送信すると、電子メール ID が配信停止になっているかどうかを確認するために、Marketoに対する API 呼び出しがおこなわれます。 その場合、E メールの送信がブロックされます。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-## {#turning-it-on}をオンにする
+## オンにする {#turning-it-on}
 
-1. Webアプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Web アプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one-2.png)
 
-1. 「管理者設定」で、「**購読解除**」をクリックします。
+1. 管理者設定で、 **配信停止**.
 
    ![](assets/two-3.png)
 
-1. 「**統合**」をクリックします。
+1. クリック **統合**.
 
    ![](assets/three-3.png)
 
-1. [Marketo登録解除チェック]セクションで、スライダをクリックしてチェックをアクティブにします。
+1. 「 Marketo Unsubscribe Check 」セクションで、スライダーをクリックしてチェックを有効にします。
 
    ![](assets/four-2.png)
 
-## {#things-to-know}の知り合い
+## 留意事項 {#things-to-know}
 
-Marketoの登録解除のチェック…
+Marketo配信停止の確認…
 
-* APIの制限に対してカウントされません。
-* Marketo接続の確立が必要です
+* API の制限に対してはカウントされません
+* Marketo接続が確立されている必要があります
 * グローバル設定です
-* Webアプリケーション、電子メールクライアントおよびSalesforceから送信される電子メールをブロックします。
+* Web アプリケーション、メールクライアント、Salesforce から送信されるメールをブロックします
+* 失敗した電子メールをログに記録するか、以外のすべてのワークフロー（電子メールプラグインの送信、個別の送信、セールスキャンペーンの送信、複数の選択と送信）でユーザーが送信しようとした場合に送信を防ぎます。 [グループメール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md):E メールが黙って送信されるのを防ぎます。
