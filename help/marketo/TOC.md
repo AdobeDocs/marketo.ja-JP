@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
 workflow-type: tm+mt
-source-wordcount: '8189'
+source-wordcount: '8195'
 ht-degree: 93%
 
 ---
@@ -1287,6 +1287,7 @@ ht-degree: 93%
             + [チームの作成](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [カスタムドメイントラッキングを設定する方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [セールスアクティビティ属性の Salesforce への記録](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + キャンペーン {#campaigns}
