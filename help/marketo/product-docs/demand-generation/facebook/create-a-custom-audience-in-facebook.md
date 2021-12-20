@@ -3,8 +3,8 @@ unique-page-id: 4720275
 description: Facebook でのカスタムオーディエンスの作成- Marketo ドキュメント - 製品ドキュメント
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
@@ -16,8 +16,8 @@ ht-degree: 100%
 >
 >* 管理者セクションで、[Facebook カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)します。
 >* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約を承認します](https://www.facebook.com/ads/manage/customaudiences/tos.php)。
->
 
+>
 
 
 >[!TIP]
@@ -26,23 +26,23 @@ ht-degree: 100%
 
 1. オーディエンスを作成するリードを含むスマートリストまたは静的リストを探して選択します。
 
-   ![](assets/1.png)
+   ![](assets/create-a-custom-audience-in-facebook-1.png)
 
 1. 「**リード**」タブを選択し、下部にある「**Ad Bridge を介して送信**」アイコンをクリックします。
 
-   ![](assets/222.png)
+   ![](assets/create-a-custom-audience-in-facebook-2.png)
 
 1. 「**Facebook**」を選択し、「**次へ**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-audience-in-facebook-3.png)
 
 1. 「**オーディエンス**」ドロップダウンをクリックし、「**+ 新規オーディエンス**」を選択します。
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-audience-in-facebook-4.png)
 
 1. 「**オーディエンス名**」を入力します。「**更新**」をクリックします。
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
@@ -54,11 +54,11 @@ ht-degree: 100%
 
 1. 完了すると、ステータスダイアログが更新されます。
 
-   ![](assets/six.png)
+   ![](assets/create-a-custom-audience-in-facebook-6.png)
 
    これで完了です。Facebook では、**広告マネージャ／オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
 
-   ![](assets/image2014-12-10-11-3a38-3a32.png)
+   ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >

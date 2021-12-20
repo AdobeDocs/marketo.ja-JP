@@ -2,10 +2,10 @@
 description: Adobe Experience PlatformセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '509'
+ht-degree: 66%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >セグメントと静的リストは 1 対 1 です。ここで複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
+   >ここで複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
 
 1. 「**新規マッピングを追加**」をクリックします。
 
