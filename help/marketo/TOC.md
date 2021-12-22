@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
+source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
 workflow-type: tm+mt
-source-wordcount: '8209'
+source-wordcount: '8214'
 ht-degree: 93%
 
 ---
@@ -1285,6 +1285,7 @@ ht-degree: 93%
                + [ID を追加](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 管理 {#admin}
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [新しい管理者をMarketoに接続](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
             + [チームの作成](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [カスタムドメイントラッキングを設定する方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
