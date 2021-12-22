@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
 workflow-type: tm+mt
 source-wordcount: '8208'
 ht-degree: 93%
@@ -548,7 +548,7 @@ ht-degree: 93%
             + [デフォルトの Dynamics フィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics 同期：アカウントの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics 同期：連絡先の同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [カスタムエンティティの同期の有効化](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
+            + [カスタムエンティティの同期の有効化](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics 同期：フィールドの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [新しいカスタムフィールドに対する Microsoft Dynamics とのクイック同期の使用](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Dynamics で削除する前に同期するフィールドを編集](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
