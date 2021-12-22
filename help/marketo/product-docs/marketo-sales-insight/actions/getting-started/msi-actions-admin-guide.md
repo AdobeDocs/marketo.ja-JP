@@ -3,10 +3,10 @@ description: MSI アクション管理ガイド — Marketoドキュメント �
 title: MSI アクション管理ガイド
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
-ht-degree: 6%
+source-wordcount: '491'
+ht-degree: 7%
 
 ---
 
@@ -57,11 +57,11 @@ ht-degree: 6%
 
 1. Marketo で、「**管理者**」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. クリック **Sales Insight**&#x200B;を、 **アクション設定**. 招待するMarketo管理者のリストから選択し、 **招待の送信**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 アカウントにアクセスする手順が記載された電子メールがユーザーに送信されます。
 
@@ -73,19 +73,19 @@ PICC
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. 管理設定で、**Salesforce** をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. 「接続とカスタマイズ」タブで、「**接続**」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. 「**OK**」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 既に Salesforce にログインしている場合は、連携します。 ログインしていない場合は、ログインするように求められます。
 
@@ -93,13 +93,15 @@ PICC
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. 管理者設定で、 **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. クリック **接続**. アカウントが接続されます。
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## データ同期の開始 {#initiate-data-sync}
 
-1. Marketo で、「管理者」をクリックします。
+1. Marketo で、「**管理者**」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. 「Sales Insight」、「Actions Config」の順にクリックします。
+1. 「Sales Insight」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. 「アクションフィールドの同期」カードで、 **同期**.
+1. 「アクション設定」タブをクリックします。 「アクションフィールドの同期」カードで、 **同期**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. 同期されるフィールドのプレビューが表示されます。 「**同期の開始**」をクリックします。
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Marketoと Salesforce に存在する担当者レコードは、Marketoセールスアプリアカウントと同期されます。
 
@@ -129,17 +131,19 @@ Marketoと Salesforce に存在する担当者レコードは、Marketoセール
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. 「管理者設定」で、「 **ユーザー管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. クリック **アクション** を選択し、 **ユーザーの招待**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. 電子メールアドレスを入力し、 **招待**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ PICC
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、 **設定**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. 「管理者設定」で、「 **ユーザー管理**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. クリック **アクション** を選択し、 **CSV でユーザーを招待**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. コンピューター上の CSV を参照し、選択して、 **次へ**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. フィールドが正しくマッピングされていることを確認し、 **招待**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 招待が送信されると、確認メッセージが表示されます。
 
