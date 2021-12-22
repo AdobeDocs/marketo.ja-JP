@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: リリースノート - 2014年10月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 100%
@@ -43,7 +43,7 @@ Microsoft Dynamics 内から直接 [Marketo スマートキャンペーンにリ
 
 ## Microsoft Dynamics Sync のカスタムエンティティサポート {#custom-entity-support-for-microsoft-dynamics-sync}
 
-スマートリスト、スマートキャンペーン、プログラムでのフィルタリングとトリガーに、Microsoft Dynamics の[カスタムオブジェクトデータを使用します](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)。
+スマートリスト、スマートキャンペーン、プログラムでのフィルタリングとトリガーに、Microsoft Dynamics の[カスタムオブジェクトデータを使用します](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)。
 
 ## Microsoft Dynamics Sync の株主サポート {#shareholder-support-for-microsoft-dynamics-sync}
 
