@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 手順 2 / 3 - Dynamics でのMarketo同期ユーザーのセットアップ（2011 オンプレミス） - Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 - Dynamics でのMarketo同期ユーザーのセットアップ（2011 オンプレミス）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+source-git-commit: e55f3ea02c64410bab92a9123289bac6e859022a
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 5%
@@ -52,11 +52,10 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
    >[!TIP]
    >
-   >の役割が表示されない場合は、に戻ります。 [手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) ソリューションを読み込みます。
+   >の役割が表示されない場合は、に戻ります。 [手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) ソリューションを読み込みます。
 
    >[!NOTE]
-   >
-   >同期ユーザーが CRM でおこなった更新はすべて次のとおりです **not** をMarketoに同期し直します。
+   同期ユーザーが CRM でおこなった更新はすべて次のとおりです **not** をMarketoに同期し直します。
 
 ## Marketo Solution の設定 {#configure-marketo-solution}
 
@@ -67,8 +66,7 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   >
-   >Marketo Config が見つからない場合は、ページを更新してみてください。 問題が解決しない場合は、 [Marketoソリューションを再度公開する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) またはログアウトしてから再度ログインします。
+   Marketo Config が見つからない場合は、ページを更新してみてください。 問題が解決しない場合は、 [Marketoソリューションを再度公開する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) またはログアウトしてから再度ログインします。
 
 1. クリック **デフォルト**.
 
@@ -99,5 +97,4 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 これで完了です。
 
 >[!MORELIKETHIS]
->
->[手順 3 / 3：Microsoft Dynamics と Marketo（2011 オンプレミス）の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+[手順 3 / 3：Microsoft Dynamics と Marketo（2011 オンプレミス）の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
