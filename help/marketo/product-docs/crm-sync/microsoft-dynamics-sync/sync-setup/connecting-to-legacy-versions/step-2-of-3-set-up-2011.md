@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 手順 2 / 3 - Dynamics でのMarketo同期ユーザーのセットアップ（2011 オンプレミス） - Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 - Dynamics でのMarketo同期ユーザーのセットアップ（2011 オンプレミス）
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 5%
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>[手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
 
 ## 同期ユーザーロールの割り当て {#assign-sync-user-role}
 

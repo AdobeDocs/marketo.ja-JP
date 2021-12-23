@@ -3,7 +3,7 @@ unique-page-id: 3571819
 description: 手順 3/3 -Marketoと Dynamics の接続（2013 オンプレミス） - Marketoドキュメント — 製品ドキュメント
 title: 手順 3/3 -Marketoと Dynamics の接続（2013 オンプレミス）
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 30%
@@ -16,8 +16,8 @@ ht-degree: 30%
 
 >[!PREREQUISITES]
 >
->* [手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [手順 2 / 3：Marketo（2013 オンプレミス）の同期ユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+>* [手順 2 / 3：Marketo（2013 オンプレミス）の同期ユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
 
 
 >[!NOTE]
