@@ -3,7 +3,7 @@ unique-page-id: 3571805
 description: 手順 1/3 - Marketoソリューション（2011 オンプレミス）のインストール — Marketoドキュメント — 製品ドキュメント
 title: 手順 1/3 - Marketoソリューション（2011 オンプレミス）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 13%
@@ -94,4 +94,4 @@ Microsoft Dynamics On-Premises とMarketoを同期する前に、Dynamics にMar
 
 >[!MORELIKETHIS]
 >
->[手順 2 / 3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up.md)
+>[手順 2 / 3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
