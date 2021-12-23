@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 手順 2 / 3 - Marketo (2013 On-Premises) の同期ユーザーを設定する — Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 - Marketo (2013 On-Premises) の同期ユーザーを設定
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 8%
@@ -52,7 +52,7 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
    >[!TIP]
    >
-   >の役割が表示されない場合は、に戻ります。 [手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) ソリューションを読み込みます。
+   >の役割が表示されない場合は、に戻ります。 [手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) ソリューションを読み込みます。
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
    >[!NOTE]
    >
-   >If **Marketo Config** が見つかりません。ページを更新してみてください。 問題が解決しない場合は、 [Marketoソリューションの公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) もう一度試すか、ログアウトしてから再度ログインしてください。
+   >If **Marketo Config** が見つかりません。ページを更新してみてください。 問題が解決しない場合は、 [Marketoソリューションの公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) もう一度試すか、ログアウトしてから再度ログインしてください。
 
 1. クリック **デフォルト**.
 
@@ -96,4 +96,4 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
 >[!MORELIKETHIS]
 >
->[手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
