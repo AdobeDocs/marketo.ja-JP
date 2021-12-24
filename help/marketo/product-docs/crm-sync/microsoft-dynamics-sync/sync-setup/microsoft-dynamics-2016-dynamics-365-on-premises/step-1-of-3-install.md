@@ -1,9 +1,7 @@
 ---
-unique-page-id: 7504736
 description: Microsoft Dynamics 2016/Dynamics 365 オンプレミス 1/3 - Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics 2016/Dynamics 365 オンプレミスステップ 1/3 のMarketoのインストール
-exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 2%
@@ -94,4 +92,4 @@ Microsoft Dynamics 2015 On-Premises または 2016 (Dynamics 365) をMarketoと�
 
    >[!MORELIKETHIS]
    >
-   >[Dynamics 2015 オンプレミスおよび 2016 365 オンプレミス用Marketoのインストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises/step-2-of-3-set-up.md)
+   >[Dynamics 2015 オンプレミスおよび 2016 365 オンプレミス用Marketoのインストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
