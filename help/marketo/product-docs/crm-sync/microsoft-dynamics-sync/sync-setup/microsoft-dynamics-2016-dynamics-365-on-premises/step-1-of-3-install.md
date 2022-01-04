@@ -1,16 +1,17 @@
 ---
 description: Microsoft Dynamics 2016/Dynamics 365 オンプレミス 1/3 - Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics 2016/Dynamics 365 オンプレミスステップ 1/3 のMarketoのインストール
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 
 # 手順 1/3:Marketo (2016 On-Prem/Dynamics 365 On-Premises) の同期ユーザーを構成する {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-Microsoft Dynamics 2015 On-Premises または 2016 (Dynamics 365) をMarketoと同期する前に、Dynamics にMarketoソリューションをインストールする必要があります。
+Microsoft Dynamics 2016 On-Prem/Dynamics 365 をMarketoと同期する前に、Dynamics にMarketoソリューションをインストールする必要があります。
 
 >[!NOTE]
 >

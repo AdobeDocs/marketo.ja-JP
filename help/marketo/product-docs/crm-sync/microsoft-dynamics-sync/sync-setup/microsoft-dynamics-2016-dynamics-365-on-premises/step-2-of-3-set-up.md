@@ -1,9 +1,10 @@
 ---
 description: Microsoft Dynamics 2016/Dynamics 365 オンプレミスステップ 2 / 3 - Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics 2016/Dynamics 365 オンプレミスステップ 2/3 のMarketoのインストール
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 2%
 
 ---
@@ -15,6 +16,52 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >[Microsoft Dynamics 2016/Dynamics 365 オンプレミスステップ 1/3 のMarketoのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## 新しいユーザーの作成 {#create-a-new-user}
+
+1. Dynamics にログインします。 設定アイコンをクリックし、「詳細設定」を選択します。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. クリック **設定** を選択し、 **セキュリティ**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. 「**ユーザー**」をクリックします。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. 「**新規**」をクリックします。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. クリック **ユーザーの追加とライセンス**. 新しいタブが開きます。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. クリック **管理者** をクリックします。 別の新しいタブが開きます。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. クリック **ユーザーの追加**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. すべての情報を入力します。 完了したら、「 **追加**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >この名前は、既存の CRM ユーザーアカウントではなく、専用の同期ユーザーである必要があります。 実際の電子メールアドレスである必要はありません。
+
+1. 新しいユーザー資格情報を受け取る電子メールアドレスを入力し、「電子メールを送信して閉じる」をクリックします。
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## 新しいクライアントアプリケーションを作成 {#create-a-new-client-application}
+
+詳しくは、 [このMicrosoft記事](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) をクリックして、新しいクライアントアプリケーションを作成し、権限を付与します。 Dynamics クライアントアプリケーションのクライアント ID/シークレットをメモしておいてください。
 
 ## 同期ユーザーロールの割り当て {#assign-sync-user-role}
 
