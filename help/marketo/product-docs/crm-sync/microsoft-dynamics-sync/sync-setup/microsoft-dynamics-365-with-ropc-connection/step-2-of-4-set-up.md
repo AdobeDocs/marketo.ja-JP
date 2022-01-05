@@ -1,9 +1,9 @@
 ---
 description: 手順 2 / 3 — リソース所有者のパスワード制御接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 — リソース所有者のパスワード制御接続を使用してMarketoソリューションをセットアップする
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -128,10 +128,10 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
-    *同期するレコードの数を制限する場合は、[ カスタム同期フィルターを設定 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) を今すぐお使いください。
-    * [Microsoft Dynamics Sync の検証 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) プロセスを実行します。 初期設定が正しく行われたことを確認します。
-    * Microsoft Dynamics CRM でMarketo同期ユーザーにログインします。
+* 同期するレコード数を制限する場合は、 [カスタム同期フィルターの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 今すぐ。
+* を実行します。 [Microsoft Dynamics 同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) プロセス。 初期設定が正しく行われたことを確認します。
+* Microsoft Dynamics CRM でMarketo同期ユーザーにログインします。
 
->[!MORELIKETHIS]
->
->[手順 3/4:Marketoソリューションとリソース所有者のパスワード制御接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
+   >[!MORELIKETHIS]
+   >
+   >[手順 3/4:Marketoソリューションとリソース所有者のパスワード制御接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

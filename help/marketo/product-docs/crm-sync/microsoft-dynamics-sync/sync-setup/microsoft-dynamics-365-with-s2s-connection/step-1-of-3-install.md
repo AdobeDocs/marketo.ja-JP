@@ -1,10 +1,10 @@
 ---
 description: 手順 1/3 - S2S 接続を使用したMarketoソリューションのインストール — Marketoドキュメント — 製品ドキュメント
 title: 手順 1/3 - S2S 接続を使用したMarketoソリューションのインストール
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 8%
+source-wordcount: '263'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,6 @@ Microsoft Dynamics 365 とMarketoを同期する前に、まず Dynamics にMark
 >[!CAUTION]
 >
 >* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
->* Dynamics 同期で多要素認証 (MFA) を有効にしている場合、Dynamics がMarketoと正しく同期するには、無効にする必要があります。 詳しくは、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]

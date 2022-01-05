@@ -3,8 +3,8 @@ unique-page-id: 3571844
 description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ Marketo ではなく、Dynamics で商談を作成する必要があります。
 
 ## Marketo に同期されるフィールド {#what-fields-will-sync-to-marketo}
 
-設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)できます。
+設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync)できます。

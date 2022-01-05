@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Microsoft Dynamics 同期について - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
@@ -42,7 +42,7 @@ Marketo と Dynamics の間の同期は、リードと連絡先が双方向で�
 * [商談](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [カスタムエンティティ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-[Dynamics 用に Marketo で入力した認証情報](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)は、データの同期に使用されます。
+[Dynamics 用に Marketo で入力した認証情報](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)は、データの同期に使用されます。
 
 >[!NOTE]
 >
