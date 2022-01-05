@@ -1,55 +1,55 @@
 ---
-description: オンライン用のMicrosoft Dynamics CRMアプリのセットアップ — Marketoドキュメント — 製品ドキュメント
-title: オンライン用のMicrosoft Dynamics CRMアプリのセットアップ
+description: オンライン用のMicrosoft Dynamics CRM アプリをセットアップする — Marketoドキュメント — 製品ドキュメント
+title: オンライン用 Microsoft Dynamics CRM アプリの設定
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-source-git-commit: 4283f1b6936316f3053543e06e7eaee45a7f2436
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
-# オンライン用のMicrosoft Dynamics CRMアプリのセットアップ{#set-up-microsoft-dynamics-crm-app-for-online}
+# オンライン用 Microsoft Dynamics CRM アプリの設定 {#set-up-microsoft-dynamics-crm-app-for-online}
 
-## {#set-up}の設定
+## 設定 {#set-up}
 
-1. https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registrationに移動します。
+1. https://docs.microsoft.com/ja-jp/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration に移動します。
 
-1. すべての手順に従います。 手順3で、関連するアプリ名(例：「Marketo統合」)を入力します。 「サポートされているアカウントの種類」で、「この組織のディレクトリにのみアカウントを選択します。
+1. すべての手順に従います。手順 3 で、関連するアプリケーション名（例：「Marketo 統合」）を入力します。「Supported Account Types」で、「Account in this organizational directory only」を選択します。
 
-1. アプリケーションID(ClientId)を書き留めます。 後でMarketoに入力する必要があります。
+1. アプリケーション ID（ClientId）を書き留めます。後で Marketo に入力する必要があります。
 
-1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
+1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
 
-1. 「**証明書と秘密**」をクリックして、管理センターでクライアント秘密鍵を生成します。
+1. 「**Certificates &amp; secrets**」をクリックして、管理センターでクライアントシークレットを生成します。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-1.png)
 
-1. 「**新しいクライアントシークレット**」をクリックします。
+1. 「**New client secret**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-2.png)
 
-1. クライアントシークレットの説明を追加し、「**追加**」をクリックします。
+1. クライアントシークレットの説明を追加して、「**Add**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-3.png)
 
    >[!CAUTION]
    >
-   >後で必要になるので、クライアントシークレットの値（下のスクリーンショットに示す）を必ずメモしておきます。 これは1回だけ表示され、再度取得することはできません。
+   >後で必要になるので、クライアントシークレットの値（次のスクリーンショットを参照）を必ずメモしておきます。これは 1 回だけ表示され、再度取得することはできません。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketoは、grant_type Resource Owner Password Credentials(ROPC)を使用して、OAuthでAzure ADに対して認証をおこないます。 このシナリオでは、特定のアプリケーション用にHome Realm Discoveryポリシーを作成する必要があります。 このポリシーを使用すると、Azure ADは認証要求をフェデレーションサービスにリダイレクトします。 このためには、AD Connectでパスワードハッシュの同期を有効にする必要があります。 詳しくは、[OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)および[アプリケーションのhrdポリシーの設定](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)を参照してください。
+Marketo は、grant_type Resource Owner Password Credentials（ROPC）を使用して、OAuth で Azure AD に対して認証を行います。このシナリオでは、特定のアプリケーション用に Home Realm Discovery ポリシーを作成する必要があります。このポリシーを使用すると、Azure AD は認証リクエストをフェデレーションサービスにリダイレクトします。このためには、AD Connect でパスワードハッシュの同期を有効にする必要があります。詳しくは、[ROPC による OAuth](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/v2-oauth-ropc) および[アプリケーション用の HRD ポリシーを設定する](https://docs.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)を参照してください。
 
-追加の参照[は、](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.)にあります。
+その他のリファレンスは、[こちら](https://docs.microsoft.com/ja-jp/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=%E5%AF%BE%E8%A9%B1%E5%9E%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%AF%E3%80%81%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%20Azure%20AD%20%E3%81%AB%E8%AA%8D%E8%A8%BC%E8%A6%81%E7%B4%A0%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%81%8B%E3%80%81Azure%20AD%20%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%98%E3%83%AB%E3%83%91%E3%83%BC%20%E3%82%A2%E3%83%97%E3%83%AA%20%28Microsoft%20Authenticator%20%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AA%E3%81%A9%29%20%E3%81%A8%E7%9B%B4%E6%8E%A5%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A%E3%81%99%E3%82%8B%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82&amp;text=%E3%81%93%E3%81%AE%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%AF%E3%80%81Azure%20AD%20%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%20ID%20%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%83%95%E3%82%A7%E3%83%87%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%82%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82)を参照してください。
 
-完了したら、Dynamics CRMで生成されたクライアントIDとシークレットをMarketo **に入力します。**
+完了したら、**Dynamics CRM で生成されたクライアント ID とシークレットの Marketo への入力**&#x200B;に進みます。
 
-## Dynamics CRMで生成されたクライアントIdとシークレットをMarketoに入力{#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Dynamics CRM で生成されたクライアント ID とシークレットの Marketo への入力 {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-次の手順は、オンライン版&#x200B;_および_&#x200B;オンプレミス版に適用されます。
+次の手順は、オンラインに適用されます _および_ オンプレミスバージョン。
 
-1. Marketoで、「**管理者**」をクリックします。
+1. Marketo で、「**管理**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
@@ -57,15 +57,15 @@ Marketoは、grant_type Resource Owner Password Credentials(ROPC)を使用して
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-6.png)
 
-1. 「**同期を無効にする**」をクリックします。
+1. 「**同期の無効化**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-7.png)
 
-1. 資格情報の横にある「**編集**」をクリックします。
+1. 認証情報の横にある「**編集**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-8.png)
 
-1. 前に取得した&#x200B;**クライアントID**&#x200B;と&#x200B;**クライアントシークレット**&#x200B;を入力し、**保存**&#x200B;を押します。
+1. 前に取得した&#x200B;**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;を入力して、「**保存**」を押します。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-9.png)
 
@@ -77,16 +77,16 @@ Marketoは、grant_type Resource Owner Password Credentials(ROPC)を使用して
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-11.png)
 
-1. すべての緑色のチェックマークが表示されます。 「**閉じる**」をクリックします。
+1. すべての緑色のチェックマークが表示されます。「**閉じる**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-12.png)
 
    >[!NOTE]
    >
-   >緑のチェックマークの中に赤いXが表示される場合は、[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照して修正オプションを確認してください。
+   >緑のチェックマークの中に赤い X が表示される場合は、修正オプションについて[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。
 
-1. 「**同期を有効にする**」をクリックします。
+1. 「**同期の有効化**」をクリックします。
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-13.png)
 
-それで終わりだ！
+これで手順は完了です。
