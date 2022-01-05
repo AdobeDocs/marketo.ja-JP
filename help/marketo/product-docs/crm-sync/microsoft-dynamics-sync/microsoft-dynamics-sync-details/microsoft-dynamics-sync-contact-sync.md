@@ -3,10 +3,10 @@ unique-page-id: 3571833
 description: Microsoft Dynamics 同期 - 連絡先の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期 - 連絡先の同期
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,7 @@ Marketo は、データベース全体を Dynamics と同期しています。�
 
 ## Marketo に同期されるフィールド {#what-fields-will-sync-to-marketo}
 
-設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync)できます。ただし、Marketo は、Dynamics 同期ユーザーがアクセスできるフィールドのみを同期します。
+設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。ただし、Marketo は、Dynamics 同期ユーザーがアクセスできるフィールドのみを同期します。
 
 ## Marketo による Dynamics の検証ルールの尊重 {#will-marketo-respect-the-dynamics-validation-rules}
 

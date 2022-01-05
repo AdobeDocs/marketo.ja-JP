@@ -3,7 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics 同期 - リード同期 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期 - リード同期
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 100%
@@ -40,7 +40,7 @@ Marketo と Dynamics の同期は非常に強力です。詳細は次のとお�
 
 ## Marketo と同期するフィールド {#what-fields-will-sync-to-marketo}
 
-設定時に[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync)できます。
+設定時に[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。
 
 ## Marketo は Dynamics 検証ルールを遵守しますか？ {#will-marketo-respect-the-dynamics-validation-rules}
 
