@@ -1,9 +1,7 @@
 ---
-unique-page-id: 3571827
 description: 手順 2 / 3 — リソース所有者のパスワード制御接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 — リソース所有者のパスワード制御接続を使用してMarketoソリューションをセットアップする
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -136,4 +134,4 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
 >[!MORELIKETHIS]
 >
->[手順 3/3:Marketoソリューションとリソース所有者のパスワード制御接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[手順 3/4:Marketoソリューションとリソース所有者のパスワード制御接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
