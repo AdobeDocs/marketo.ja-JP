@@ -2,8 +2,8 @@
 description: AD FS オンプレミス、テナントおよび Microsoft Online でフェデレーションされた Azure AD 用の MSD の設定 — Marketo ドキュメント — 製品ドキュメント
 title: AD FS オンプレミス、テナントおよび Microsoft Online でフェデレーションされた Azure AD 用の MSD の設定
 exl-id: b6c10048-d27e-4135-beef-232deddc2984
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 91ce0914755b578c896996fae1805022cb11c438
+workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 1. アプリケーション ID（ClientId）を書き留めます。後で Marketo に入力する必要があります。
 
-1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
+1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)の手順に従って、管理者の同意を得ます。
 
 1. 「**Certificates &amp; secrets**」をクリックして、管理センターでクライアントシークレットを生成します。
 
