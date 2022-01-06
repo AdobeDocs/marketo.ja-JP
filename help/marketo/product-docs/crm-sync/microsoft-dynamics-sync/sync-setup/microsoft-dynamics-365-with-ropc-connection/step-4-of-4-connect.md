@@ -1,10 +1,11 @@
 ---
 description: 手順 4/4 - Marketoソリューションとリソース所有者のパスワード制御接続を接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 4/4 - Marketoソリューションをリソース所有者のパスワード制御接続に接続する
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 21%
+source-wordcount: '456'
+ht-degree: 18%
 
 ---
 
@@ -22,6 +23,10 @@ ht-degree: 21%
 >[!NOTE]
 >
 >**管理者権限が必要**
+
+>[!IMPORTANT]
+>
+>基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support) を参照してください。 この機能を有効にすると、新しい資格情報が入力され、同期が再度有効になるまで、同期が一時的に停止されます。 この機能は、古い認証モードに戻す際に（2022 年 4 月まで）無効にすることができます。
 
 ## Dynamics 同期ユーザー情報を入力 {#enter-dynamics-sync-user-information}
 
@@ -43,18 +48,19 @@ ht-degree: 21%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。 間違った資格情報が保存されている場合は、新しいMarketoサブスクリプションを取得する必要があります。
-
-1. 次を入力します。 **ユーザー名**, **パスワード**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
-
-   ![](assets/five-1.png)
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。 誤った組織 URL が使用されている場合は、新しいMarketoサブスクリプションを取得する必要があります。 URL がわからない場合は、 [ここで見つける方法を学ぶ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
    >[!NOTE]
    >
-   >* 2020 年 10 月より前にMarketoがプロビジョニングされている場合、「クライアント ID 」と「暗号鍵」はオプションのフィールドです。 それ以外の場合は、必須です。 この情報の取得方法は、使用している MSD のバージョンによって異なります。
-   >* Marketoのユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、 `user@domain.com` または DOMAIN\user.
-   >* URL がわからない場合は、 [ここで見つける方法を学ぶ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >新しい資格情報を入力する前に、次の操作を実行できます。 [ここでそれらを検証する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
+1. 次を入力します。 **ユーザー名**, **パスワード**, **クライアント ID**, **クライアント秘密鍵**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
+
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+
+   >[!NOTE]
+   >
+   >Marketoのユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、 `user@domain.com` または DOMAIN\user.
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 

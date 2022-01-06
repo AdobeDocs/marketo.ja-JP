@@ -3,14 +3,14 @@ unique-page-id: 3571830
 description: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 22%
+source-wordcount: '376'
+ht-degree: 24%
 
 ---
 
-# 手順 3/3:Marketoソリューションと S2S 接続の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 手順 3 / 3:Marketoソリューションと S2S 接続の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 これが同期の最後のステップです。 もう少しで着く！
 
@@ -30,7 +30,7 @@ ht-degree: 22%
 
 ## Dynamics 同期ユーザー情報を入力 {#enter-dynamics-sync-user-information}
 
-1. Marketoにログインし、 **管理者**.
+1. Marketo にログインし、**管理**&#x200B;をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -52,7 +52,7 @@ ht-degree: 22%
 
 1. 次を入力します。 **ユーザー名**, **パスワード**, **クライアント ID**, **クライアント秘密鍵**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
 
-   ![](assets/five-1.png)
+   ![](assets/step-3-of-3-s2s-5.png)
 
    >[!NOTE]
    >
