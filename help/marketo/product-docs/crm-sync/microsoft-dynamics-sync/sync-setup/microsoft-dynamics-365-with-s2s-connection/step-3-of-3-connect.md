@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '375'
 ht-degree: 22%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 22%
 >[!NOTE]
 >
 >**管理者権限が必要**
+
+>[!NOTE]
+>
+>新しい資格情報を入力する前に、次の操作を実行できます。 [ここでそれらを検証する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## Dynamics 同期ユーザー情報を入力 {#enter-dynamics-sync-user-information}
 
@@ -44,18 +48,15 @@ ht-degree: 22%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。 間違った資格情報が保存されている場合は、新しいMarketoサブスクリプションを取得する必要があります。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。 誤った組織 URL が使用されている場合は、新しいMarketoサブスクリプションを取得する必要があります。 URL がわからない場合は、 [ここで見つける方法を学ぶ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 次を入力します。 **ユーザー名**, **パスワード**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
+1. 次を入力します。 **ユーザー名**, **パスワード**, **クライアント ID**, **クライアント秘密鍵**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* 2020 年 10 月より前にMarketoがプロビジョニングされている場合、「クライアント ID 」と「暗号鍵」はオプションのフィールドです。 それ以外の場合は、必須です。 この情報の取得方法は、使用している MSD のバージョンによって異なります。
-   >* Marketoのユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、 `user@domain.com` または DOMAIN\user.
-   >* URL がわからない場合は、 [ここで見つける方法を学ぶ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >Marketoのユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、 `user@domain.com` または DOMAIN\user.
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
