@@ -2,16 +2,16 @@
 description: 手順 4/4 - Marketoソリューションとリソース所有者のパスワード制御接続を接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 4/4 - Marketoソリューションをリソース所有者のパスワード制御接続に接続する
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
 # 手順 4 / 4:Marketoソリューションとリソース所有者のパスワード制御接続の接続 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-これが同期の最後のステップです。 もう少しで着く！
+これが同期の最後のステップです。 もう少しです！
 
 >[!PREREQUISITES]
 >
