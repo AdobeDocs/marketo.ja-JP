@@ -3,10 +3,10 @@ unique-page-id: 3571830
 description: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 24%
+source-wordcount: '438'
+ht-degree: 21%
 
 ---
 
@@ -23,6 +23,10 @@ ht-degree: 24%
 >[!NOTE]
 >
 >**管理者権限が必要**
+
+>[!IMPORTANT]
+>
+>基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support) を参照してください。 この機能を有効にすると、新しい資格情報が入力され、同期が再度有効になるまで、同期が一時的に停止されます。 この機能は、古い認証モードに戻す際に（2022 年 4 月まで）無効にすることができます。
 
 >[!NOTE]
 >

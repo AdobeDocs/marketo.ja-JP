@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '8287'
+source-wordcount: '8250'
 ht-degree: 92%
 
 ---
@@ -536,11 +536,7 @@ ht-degree: 92%
             + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3:S2S 接続を使用したMarketoソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-               + [手順 3 / 3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + Dynamics 向け OAuth 認証の設定 {#set-up-oauth-authentication-for-dynamics}
-               + [オンライン用 Microsoft Dynamics CRM アプリの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [オンプレミス用 Microsoft Dynamics CRM アプリの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [AD FS オンプレミス、テナントおよび Microsoft Online でフェデレーションされた Azure AD 用の MSD の設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+               + [手順 3/3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + レガシーバージョンへの接続 {#connecting-to-legacy-versions}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
