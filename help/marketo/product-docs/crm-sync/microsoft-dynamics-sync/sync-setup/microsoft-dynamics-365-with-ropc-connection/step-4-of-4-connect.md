@@ -2,10 +2,10 @@
 description: 手順 4/4 - Marketoソリューションとリソース所有者のパスワード制御接続を接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 4/4 - Marketoソリューションをリソース所有者のパスワード制御接続に接続する
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 19%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 19%
 
 1. 次を入力します。 **ユーザー名**, **パスワード**, **クライアント ID**, **クライアント秘密鍵**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
