@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する — Marketoドキュメント — 製品ドキュメント
-title: 手順 3 / 3 - Marketoソリューションを S2S 接続に接続する
+description: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する — Marketoドキュメント — 製品ドキュメント
+title: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '443'
+ht-degree: 20%
 
 ---
 
-# 手順 3 / 3:Marketoソリューションと S2S 接続の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 手順 3/3:Marketo Solution とサーバー間の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 これが同期の最後のステップです。 もう少しで着く！
 
 >[!PREREQUISITES]
 >
->* [手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [手順 2 / 3:S2S 接続を使用したMarketoソリューションのセットアップ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [手順 1/3:Marketo Solution とサーバー間接続のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [手順 2 / 3:Marketoソリューションをサーバー間接続でセットアップする](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]

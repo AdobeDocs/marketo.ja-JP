@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: 手順 2 / 3 - S2S 接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
-title: 手順 2 / 3 - S2S 接続を使用したMarketoソリューションのセットアップ
+description: 手順 2 / 3 — サーバー間接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
+title: 手順 2 / 3 — サーバー間接続を使用してMarketoソリューションをセットアップする
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '661'
 ht-degree: 24%
 
 ---
 
-# 手順 2 / 3:S2S 接続を使用した Dynamics でのMarketo同期ユーザーのセットアップ{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# 手順 2 / 3:Marketo Solution をサーバー間接続でセットアップする {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[手順 1/3:Marketo Solution とサーバー間接続のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Azure AD でクライアントアプリケーションを作成 {#create-client-application-in-azure-ad}
 
@@ -124,4 +124,4 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 
 >[!MORELIKETHIS]
 >
->[手順 3 / 3:Marketoソリューションと S2S 接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[手順 3 / 3:Marketo Solution とサーバー間の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)

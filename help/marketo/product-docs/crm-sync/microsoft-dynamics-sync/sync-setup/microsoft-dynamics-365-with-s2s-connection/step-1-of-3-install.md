@@ -1,14 +1,15 @@
 ---
-description: 手順 1/3 - S2S 接続を使用したMarketoソリューションのインストール — Marketoドキュメント — 製品ドキュメント
-title: 手順 1/3 - S2S 接続を使用したMarketoソリューションのインストール
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: 手順 1/3 — サーバー間接続を使用したMarketoソリューションのインストール — Marketoドキュメント — 製品ドキュメント
+title: 手順 1/3 — サーバー間接続を使用してMarketoソリューションをインストールする
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 7%
 
 ---
 
-# 手順 1/3:S2S 接続を使用したMarketoソリューションのインストール {#step-1-of-3-install-the-marketo-solution-s2s}
+# 手順 1/3:Marketo Solution とサーバー間接続のインストール {#step-1-of-3-install-the-marketo-solution-s2s}
 
 Microsoft Dynamics 365 とMarketoを同期する前に、まず Dynamics にMarketoソリューションをインストールする必要があります。 **Dynamics 管理権限が必要です。**
 

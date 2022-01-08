@@ -1,14 +1,15 @@
 ---
-description: 手順 1/3 — リソース所有者のパスワード制御接続を使用したMarketoソリューションのインストール — Marketoドキュメント — 製品ドキュメント
-title: 手順 1/3 — リソース所有者のパスワード制御接続を使用してMarketoソリューションをインストールする
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+description: 手順 1/4 — リソース所有者のパスワード制御接続を使用したMarketoソリューションのインストール — Marketoドキュメント — 製品ドキュメント
+title: 手順 1/4 — リソース所有者のパスワード制御接続を使用してMarketoソリューションをインストールする
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 8%
 
 ---
 
-# 手順 1/3:リソース所有者のパスワード制御接続を使用したMarketoソリューションのインストール {#step-1-of-3-install-the-marketo-solution-ropc}
+# 手順 1/4:リソース所有者のパスワード制御接続を使用したMarketoソリューションのインストール {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Microsoft Dynamics 365 とMarketoを同期する前に、まず Dynamics にMarketoソリューションをインストールする必要があります。 **Dynamics 管理権限が必要です。**
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '8250'
+source-wordcount: '8252'
 ht-degree: 92%
 
 ---
@@ -253,6 +253,7 @@ ht-degree: 92%
          + [API のみのユーザーの役割を作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API のみのユーザーを作成](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [ユーザーの役割の作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [メールの検証](product-docs/administration/users-and-roles/email-verification.md)
          + [役割に対する詳細リストのインポート権限を有効にする](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [ユーザーと役割のリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo ユーザーの管理](product-docs/administration/users-and-roles/managing-marketo-users.md)
@@ -536,7 +537,7 @@ ht-degree: 92%
             + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3:S2S 接続を使用したMarketoソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-               + [手順 3/3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+               + [手順 3 / 3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + レガシーバージョンへの接続 {#connecting-to-legacy-versions}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

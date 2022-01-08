@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1028'
 ht-degree: 7%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 7%
 
    * デザインスタジオでのランディングページアセットの詳細
    * マーケティングアクティビティのランディングページアセットの詳細
-   * Design Studio の電子メールリスト表示（新しいバルクアクションを含む）
 
 * **次世代エクスペリエンストグルスイッチの管理制御**:管理者は、次世代のエクスペリエンスで、切り替えスイッチにアクセスして画面を表示できるユーザーの種類を選択できます。
 
