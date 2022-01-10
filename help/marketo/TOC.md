@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8255'
 ht-degree: 92%
 
 ---
@@ -42,49 +42,6 @@ ht-degree: 92%
       + [確認するべきこと：主要スキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 製品ドキュメント {#product-docs}
-   + ターゲットアカウント管理 {#target-account-management}
-      + セットアップ {#setup}
-         + [ターゲットアカウント管理の概要](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
-         + [TAM の概要](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [ライセンスの発行](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [権限](product-docs/target-account-management/setup-tam/permissions.md)
-         + [アカウントスコア](product-docs/target-account-management/setup-tam/account-score.md)
-         + [アカウントチームの設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
-         + [CRM 検出用のカスタムフィールドの作成](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [顧客インサイトの設定](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [顧客インサイトプラグインの概要](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [顧客インサイトにアクセスするユーザーを招待](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + ターゲット {#target}
-         + 重点顧客 {#named-accounts}
-            + [重点顧客の概要](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-            + [重点顧客のインポート](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
-            + [既存の重点顧客をアカウントリストに追加](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [重点顧客の作成](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [重点顧客にリードを追加](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [アカウントの検出](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [リードとアカウントの照合](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [重点顧客でのフィルタリング](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [重点顧客の削除](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [TAM 階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
-            + [階層の作成](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [顧客リスト](product-docs/target-account-management/target/account-lists.md)
-         + [アカウントスマートリスト](product-docs/target-account-management/target/account-smart-lists.md)
-         + [LinkedIn のアカウントと一致するオーディエンスの作成](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
-      + エンゲージ {#engage}
-         + [アカウントフィルター](product-docs/target-account-management/engage/account-filters.md)
-         + [アカウントトリガー](product-docs/target-account-management/engage/account-triggers.md)
-      + 測定 {#measure}
-         + [TAM メインダッシュボード](product-docs/target-account-management/measure/tam-main-dashboard.md)
-         + [TAM レポートの設定](product-docs/target-account-management/measure/tam-report-setup.md)
-         + [TAM セールスレポート](product-docs/target-account-management/measure/tam-sales-report.md)
-         + [アカウントリストインサイト](product-docs/target-account-management/measure/account-list-insights.md)
-         + [RCA の重点顧客ディメンション](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
-         + [重点顧客インサイト](product-docs/target-account-management/measure/named-account-insights.md)
-         + [ペルソナの使用](product-docs/target-account-management/using-personas.md)
-      + アカウントプロファイリング {#account-profiling}
-         + [アカウントプロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-         + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-         + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
          + SEO について {#understanding-seo}
@@ -235,6 +192,7 @@ ht-degree: 92%
          + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントでパーソナライズ URL を有効にする（管理)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [スパムフォームの送信ブロック方法](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
+         + [ランディングページのヘッダー](product-docs/administration/settings/landing-page-headers.md)
          + [IP に基づく Marketo ログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [言語、ロケール、タイムゾーンの選択](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [フォールバックページの設定](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1665,6 +1623,49 @@ ht-degree: 92%
             + フィールドオーガナイザー {#field-organizers}
                + [フィールドオーガナイザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [フィールドオーガナイザーを使用したカスタムフィールドグループの作成](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+   + ターゲットアカウント管理 {#target-account-management}
+      + セットアップ {#setup}
+         + [ターゲットアカウント管理の概要](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
+         + [TAM の概要](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
+         + [ライセンスの発行](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [権限](product-docs/target-account-management/setup-tam/permissions.md)
+         + [アカウントスコア](product-docs/target-account-management/setup-tam/account-score.md)
+         + [アカウントチームの設定](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [CRM 検出用のカスタムフィールドの作成](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [顧客インサイトの設定](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [顧客インサイトプラグインの概要](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [顧客インサイトにアクセスするユーザーを招待](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+      + ターゲット {#target}
+         + 重点顧客 {#named-accounts}
+            + [重点顧客の概要](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [重点顧客のインポート](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [既存の重点顧客をアカウントリストに追加](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [重点顧客の作成](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [重点顧客にリードを追加](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [アカウントの検出](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [リードとアカウントの照合](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [重点顧客でのフィルタリング](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [重点顧客の削除](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [TAM 階層](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [階層の作成](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [顧客リスト](product-docs/target-account-management/target/account-lists.md)
+         + [アカウントスマートリスト](product-docs/target-account-management/target/account-smart-lists.md)
+         + [LinkedIn のアカウントと一致するオーディエンスの作成](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+      + エンゲージ {#engage}
+         + [アカウントフィルター](product-docs/target-account-management/engage/account-filters.md)
+         + [アカウントトリガー](product-docs/target-account-management/engage/account-triggers.md)
+      + 測定 {#measure}
+         + [TAM メインダッシュボード](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM レポートの設定](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM セールスレポート](product-docs/target-account-management/measure/tam-sales-report.md)
+         + [アカウントリストインサイト](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCA の重点顧客ディメンション](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [重点顧客インサイト](product-docs/target-account-management/measure/named-account-insights.md)
+         + [ペルソナの使用](product-docs/target-account-management/using-personas.md)
+      + アカウントプロファイリング {#account-profiling}
+         + [アカウントプロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Web パーソナライゼーション {#web-personalization}
       + アカウントベースの web マーケティング {#account-based-web-marketing}
          + [TAM によるアカウントベース web マーケティング](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
