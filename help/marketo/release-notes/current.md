@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1039'
 ht-degree: 7%
 
 ---
@@ -87,3 +87,7 @@ Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AE
 * **ユーザーを招待ダイアログにログイン**:3 月には、既存のオプション機能「ユーザーを招待ダイアログでログイン」は廃止されます。 「Login in Invite User Dialog」機能は、今後のAdobeIdentity Management System Integration に必要なユニバーサル ID 機能によって上書きされ、2021 年 8 月にすべてのサブスクリプションで有効になりました。 廃止の結果、Marketo Engageは、サブスクリプション内の E メールアドレスごとに関連付けられるユーザーを 1 つだけ強制します。
 
 **Marketo Engageドメイン — Sales Insight 設定**:SSL 証明書がプロビジョニングされていないMarketo Engageドメインおよびhttps://の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザーは、リード、連絡先、アカウント、商談パネル、またはMarketoグローバルページでシステムコールアウトエラーが発生する可能性があります。 お勧めの [Marketo Engage設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce で、このエラーが発生した場合。 ドキュメントの「Marketo Sales Insight 設定」セクションでハイライト表示されたMarketo Engage資格情報のみを更新する必要があります。
+
+**_製品リリースウェビナー_**
+
+2022 年 1 月 27 日 (PT) 午前 9 時/午後 12 時 (ET) にご参加ください。 [ライブウェビナー](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) アドビの製品チームが主催し、最新の製品イノベーションの使用方法を学ぶことができます。

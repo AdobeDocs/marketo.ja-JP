@@ -4,13 +4,21 @@ title: メールの検証
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 0%
 
 ---
 
 # メールの検証 {#email-verification}
 
-テキスト
+ユーザー向けのメール検証を含む新しいページを作成すると言ったと思います
+
+ユーザー招待管理者がユーザーを招待した場合、UI やユーザーのエクスペリエンスは変更されません。ユーザーが招待リンクをクリックすると、ユーザーの電子メールが自動的に検証されます。 SSO を使用したユーザーは自動的に検証されます
+
+ユーザーアカウント画面に、検証した電子メールアドレスが表示されます。電子メールアドレスが更新されると、UI は、アカウントの電子メールが未検証で、電子メールが送信されたことを反映します（添付の電子メールを参照）
+
+Admin - Users and Roles ページユーザーの検証ステータスを示す新しい列新規ボタンユーザーの電子メール検証を再度トリガーする
+
+MyMarketo 未確認のメールを持つユーザーがログインすると、マイMarketoページにバナーが表示されます（のみ）。
