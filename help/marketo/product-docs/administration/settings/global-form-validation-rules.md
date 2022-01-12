@@ -3,9 +3,10 @@ description: グローバルフォーム検証ルール — Marketoドキュメ�
 title: グローバルフォーム検証ルール
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 6%
 
 ---
@@ -20,46 +21,46 @@ ht-degree: 6%
 
 1. Marketo で、「**管理者**」をクリックします。
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. 「**ユーザーと役割**」をクリックします。
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. 次をクリック： **役割** タブをクリックします。
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. 権限を付与する役割をダブルクリックします。
 
-PICC
+   PICC
 
 1. 次をクリック： **+** 「管理者にアクセス」の横に「 」を入力します。
 
-PICC
+   PICC
 
 1. 下にスクロールして、「 」を選択します。 **フォーム検証ルールにアクセス** をクリックし、 **保存**.
 
-PICC
+   PICC
 
 ## 新規フォーム検証ルールの作成 {#create-new-form-validation-rule}
 
 1. Marketo で、「**管理者**」をクリックします。
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. クリック **グローバルフォーム検証ルール**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. クリック **新規フォームの検証ルール**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >フォーム検証ルールのアクションドロップダウンを使用して、既存のルールを削除または編集できます。
 
 1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。 ブロックするドメインを [ ルール ] ボックスに入力し、[ **ルールをアクティブ化**&#x200B;をクリックし、 **作成**.
 
-PICC
-
->[!NOTE]
->
->フォーム検証ルールのアクションドロップダウンを使用して、既存のルールを削除または編集できます。
+   ![](assets/global-form-validation-rules-10.png)
