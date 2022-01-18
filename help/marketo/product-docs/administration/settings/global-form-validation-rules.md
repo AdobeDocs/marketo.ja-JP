@@ -4,10 +4,10 @@ title: グローバルフォーム検証ルール
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 6%
+source-wordcount: '156'
+ht-degree: 7%
 
 ---
 
@@ -33,15 +33,15 @@ ht-degree: 6%
 
 1. 権限を付与する役割をダブルクリックします。
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. 次をクリック： **+** 「管理者にアクセス」の横に「 」を入力します。
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. 下にスクロールして、「 」を選択します。 **フォーム検証ルールにアクセス** をクリックし、 **保存**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## 新規フォーム検証ルールの作成 {#create-new-form-validation-rule}
 
