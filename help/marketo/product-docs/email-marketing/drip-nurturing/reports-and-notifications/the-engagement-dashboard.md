@@ -1,74 +1,73 @@
 ---
 unique-page-id: 2359685
-description: エンゲージメントダッシュボード-Marketoドキュメント — 製品ドキュメント
-title: アクションダッシュボード
+description: エンゲージメントダッシュボード — Marketoドキュメント — 製品ドキュメント
+title: エンゲージメントダッシュボード
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 0%
+source-wordcount: '272'
+ht-degree: 5%
 
 ---
 
-# アクションダッシュボード{#the-engagement-dashboard}
+# エンゲージメントダッシュボード {#the-engagement-dashboard}
 
-エンゲージメントダッシュボードは、エンゲージメントプログラムのコンテンツがどのように機能しているかを確認する最も簡単な方法です。
+エンゲージメントダッシュボードを使用すると、エンゲージメントプログラムのコンテンツの効果を簡単に確認できます。
 
 >[!NOTE]
 >
->エンゲージメントスコアは、キャストが行われるたびに72時間後に計算されます。 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の詳細を表示します。
+>エンゲージメントスコアには、最近 3 回のキャストのデータが含まれます。 新しいキャストは、各キャストの 72 時間後に計算されます。 詳しくは、 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## エンゲージメントダッシュボードの表示{#view-the-engagement-dashboard}
+## エンゲージメントダッシュボードの表示 {#view-the-engagement-dashboard}
 
-エンゲージメントプログラムを選択し、**表示**/**ダッシュボード**&#x200B;をクリックします。
+エンゲージメントプログラムを選択し、 **表示** > **ダッシュボード**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->詳細な統計については、[エンゲージメントストリームのパフォーマンスレポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)を参照してください。
+>以下を確認します。 [エンゲージメントストリームパフォーマンスレポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 詳細な統計を参照してください。
 
-## 消耗ウィジェットを理解する{#understand-the-exhaustion-widget}
+## 消費ウィジェットについて {#understand-the-exhaustion-widget}
 
-このウィジェットは、リードがすべてのコンテンツを使い果たすタイミングを予測するのに役立ちます。 消耗スコアは、各キャストの直後に計算されます。 次の例は、1キャストでは、195リードがすべてのコンテンツを使い果たすことを示しています。
+このウィジェットは、リードがすべてのコンテンツを消費したタイミングを予測するのに役立ちます。 消費スコアは、各キャストの直後に計算されます。 次の例は、1 キャストで、195 名のリードがすべてのコンテンツを消費したことを示しています。
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->上のグラフを表示するには、「設定」タブに移動し、「使い果たされたコンテンツ通知」が&#x200B;**On**&#x200B;であることを確認する必要があります。 オフの場合、グラフの表示が異なります。
+>「設定」タブを開き、「消費済みコンテンツ通知」が **オン** をクリックして、上のグラフを表示します。 オフの場合、グラフは異なるように見えます。
 
 >[!CAUTION]
 >
->「疲れ果てた」人は、次のキャストではコミュニケーションを受け取りません。
+>「消費済み」の担当者は、次のキャストでは何の通信も受信しません。
 
-## エンゲージメントを時系列で把握ウィジェット{#understand-the-engagement-over-time-widget}
+## エンゲージメントウィジェットの理解 {#understand-the-engagement-over-time-widget}
 
-時間の経過に伴う平均エンゲージメントスコアと、コンテンツ編集の影響を表示します。
+平均エンゲージメントスコアの推移と、コンテンツ編集の影響を示します。
 
 >[!AVAILABILITY]
 >
->この機能は、Marketoの売上高サイクルエクスプローラーを利用するお客様向けのアドオンとして利用できます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能は、Marketoの収益サイクルエクスプローラを利用するお客様向けのアドオンとして利用できます。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-平均ではなくコンテンツの1つの部分を表示するには、歯車アイコンをクリックし、コンテンツの1つを選択します。
+平均ではなくコンテンツの 1 つの部分を表示するには、歯車アイコンをクリックして、コンテンツの一部を選択します。
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## 最高のエンゲージメントウィジェットを理解する{#understand-the-highest-engagement-widget}
+## 最も高いエンゲージメントウィジェットについて {#understand-the-highest-engagement-widget}
 
-エンゲージメントスコアが最も高い順に並べられた、すべてのコンテンツのリスト。
+最も高いエンゲージメントスコアで並べられた、すべてのコンテンツのリスト。
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
-並べ替え順を変更するには、歯車アイコンをクリックし、並べ替え順を選択します。
+並べ替えを変更するには、歯車アイコンをクリックして、並べ替え順を選択します。
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-__ Newestand __  Oldestareは、前回の承認時刻に基づきます。
+_新しい_ および _最も古い_ は、最後の承認の時間に基づきます。
 
 >[!NOTE]
 >
->詳しくは、[エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)の深い解説を参照してください。
+>詳しくは、 [エンゲージメントプログラムの作成](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 深く潜る。
