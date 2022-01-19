@@ -3,10 +3,10 @@ description: プッシュ複製 — Marketoドキュメント — 製品ドキ�
 title: 複製をプッシュ
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 38%
+source-wordcount: '460'
+ht-degree: 25%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 38%
 >
 >* Marketo で [API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
 >* 次に、**管理**／ **Launchpoint** に移動します。作成した役割の名前を探し、「**詳細を表示**」をクリックします。この機能に必要なので、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
+>* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 
 
 1. [Adobe Experience Platform](https://experience.adobe.com/) にログインします。
@@ -53,15 +54,13 @@ ht-degree: 38%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-次に、既存のMarketoの人物のみを照合するか、既存のMarketoの人物と照合してMarketoで足りない人物を作成するかを選択する必要があります。 以下に、それぞれの方法を説明する節を示します。
-
-## 既存のMarketoの担当者の照合とMarketoでの見つからない担当者の作成 {#match-existing-marketo-people-create-missing-people}
-
-上記の手順 1～8 に従った後、
-
-1. 宛先を入力 **名前** およびオプションの説明。 ユーザーの作成ドロップダウンをクリックし、 **既存のMarketoの担当者の照合とMarketoでの見つからない担当者の作成**.
+1. 宛先を入力 **名前** およびオプションの説明。 「人物の作成」ドロップダウンをクリックし、「既存のMarketoの人物を照合」および「Marketoで見つからない人物を作成」を選択します。 _または_ 「既存のMarketoの担当者のみに一致」 この例では、前者を選択しています。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >「既存のMarketoのユーザーのみを一致」を選択した場合は、電子メールや ECID のマッピングのみが必要なので、手順 13 ～ 16 をスキップできます。
 
 1. この節はオプションです。 クリック **作成** スキップします。
 
@@ -87,7 +86,7 @@ ht-degree: 38%
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. 「 **新しいマッピングを追加** を繰り返し、手順 7 を 2 回繰り返します。lastName を選択し、次に companyName を選択します。
+1. 「 **新しいマッピングを追加** を繰り返し、手順 15 を 2 回繰り返し、選択 **lastName** その後 **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ ht-degree: 38%
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. 「会社名」ソースフィールドを選択するには、行のカーソルアイコンをクリックします。
 
-## 既存のMarketo担当者のみに一致 {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->ID は、Marketoで一致を検索するために使用されます。 一致が見つかった場合、そのユーザーは静的リストに追加されます。 一致が見つからない場合、そのユーザーは削除されます ( つまり、Marketoで作成されません )。
+1. 「属性を選択」ラジオボタンは選択したままにします。 「company」を検索し、「 **companyName**&#x200B;を選択し、「 **選択**.
 
-1. _Marketo_ で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。URL の末尾からマッピング ID をコピーします。
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. それぞれのカーソルアイコンをクリックし、手順 23 を 2 回繰り返して、姓と名のソースフィールドをマッピングします。次に、 **lastName** その後 **firstName**.
 
->[!NOTE]
->
->最良の結果を得るには、Marketo で参照するリストが空であることを確認してください。
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Adobe Experience Platform に戻り、コピーした ID を入力します。「開始日」を選択します。選択された終了日まで同期が続きます。無期限同期の場合は、終了日を空白のままにします。終了したら「**次へ**」をクリックします。
+1. 「**次へ**」をクリックします。
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 変更を確認し、「**完了**」をクリックします。
+1. 次に、リストの ID が必要になります。 ブラウザーでMarketo静的リストを開いているタブをクリックします（または新しいタブを開いて、目的の静的リストを選択します）。
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. URL の末尾にあるリスト ID をハイライトしてコピーします。
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. コピーした ID を「マッピング ID 」の下に貼り付け、「 」をクリックします。 **次へ**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. 「**終了**」をクリックします。
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
