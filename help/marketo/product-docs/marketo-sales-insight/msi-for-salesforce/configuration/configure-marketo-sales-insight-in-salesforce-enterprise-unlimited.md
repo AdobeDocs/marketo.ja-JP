@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
+source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
 workflow-type: tm+mt
-source-wordcount: '824'
-ht-degree: 93%
+source-wordcount: '820'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 ## Marketo での Sales Insight の設定 {#configure-sales-insight-in-marketo}
 
-1. MarketoでMSI資格情報を取得します。 管理エリアに移動し、「**Sales Insight**」を選択します。
+1. Marketoで MSI 資格情報を取得します。 管理エリアに移動し、「**Sales Insight**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -51,7 +51,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    >[!TIP]
    >
-   >このウィンドウは開いたままにしておきます。この情報は、後でSalesforceで必要になります。
+   >このウィンドウは開いたままにしておきます。この情報は、後で Salesforce で必要になります。
 
 ## Salesforce での Sales Insight の設定 {#configure-sales-insight-in-salesforce}
 
@@ -79,7 +79,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    >[!NOTE]
    >
-   >__「**リモートサイト名**」を選択します（MarketoAPI はここで使用されます）。**リモートサイトURL**&#x200B;は、「MarketoでのSales Insightの設定」セクションの手順3の「API設定を編集」ダイアログボックスの「Marketoホスト」フィールドにあります。
+   >__「**リモートサイト名**」を選択します（MarketoAPI はここで使用されます）。この **リモートサイトの URL** は、「Marketoでの Sales Insight の設定」セクションの手順 3 の「API 設定を編集」ダイアログボックスの「Marketoホスト」フィールドにあります。
 
 ## ページレイアウトのカスタマイズ {#customize-page-layouts}
 
@@ -261,6 +261,6 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Marketo Sales Insight のタブとボタンの Salesforce への追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
->* [チーム向け Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [Marketoタブを Salesforce に追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [チーム向けの Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 

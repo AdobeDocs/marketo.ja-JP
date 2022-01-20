@@ -1,48 +1,47 @@
 ---
 unique-page-id: 5472672
-description: Marketo販売インサイト —Marketoドキュメント — 製品ドキュメントの複数のレコードへの電子メールの送信
-title: Marketo販売インサイトの複数のレコードへの電子メールの送信
+description: Marketo Sales Insight で複数のレコードにメールを送信する — Marketoドキュメント — 製品ドキュメント
+title: Marketo Sales Insight の複数レコードへのメール送信
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Marketo販売インサイトの複数のレコードへの電子メールの送信{#send-an-email-to-multiple-records-in-marketo-sales-insight}
+# Marketo Sales Insight の複数レコードへのメール送信 {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-Marketo・セールス・インサイトを使って複数の人にMarketoの電子メールを送るのは非常に簡単です。 始めましょう。
+Marketo Sales Insight を使用して、Marketoの E メールを複数の人に簡単に送信できます。 それでは始めましょう。
 
-1. Salesforceで、**リード**&#x200B;または&#x200B;**連絡先**&#x200B;をクリックします。
+1. Salesforce で、 **リード** または **連絡先**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. 「**Go**」をクリックして、開いているすべてのリードを表示します。
+1. クリック **移動** をクリックして、開いているすべてのリードを表示します。
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. リスト表示で、電子メールの送信先のリード/連絡先をすべて確認し、**Marketo電子メールの送信（クラシック）**&#x200B;をクリックします。
+1. リスト表示で、メールを送信するすべてのリード/連絡先を確認し、 **Marketoメールの送信（クラシック）**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Salesforce Lightningを使用している場合、ボタンに「**Marketo電子メールを送信（稲妻）**」と表示されます。
+   >Salesforce Lightning を使用している場合、ボタンは次のように表示されます。 **Marketo E メールの送信 (lightning)**.
 
    >[!TIP]
    >
-   >ボタンが見えない？ [リスト表示](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)にMarketoボタンを追加したことを確認します。
+   >ボタンが表示されない場合 次の条件を満たしていることを確認します。 [リスト表示にMarketoボタンを追加しました。](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
-1. 先に進み、メールを作成します。 終了したら、「**Marketo**&#x200B;と共に送信」をクリックします。
+1. メールを作成してください。 クリック **Marketoで送信** 終了したとき。
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)に電子メールを[公開し、それらの電子メールから選択できます。
+   >以下が可能です。 [Sales Insight にメールを公開](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) そして、そのメールから選択して下さい。
 
    >[!NOTE]
    >
-   >一度に200件までのMarketoメールを送信できます。
+   >一度に最大 200 個のMarketo E メールを送信できます。
