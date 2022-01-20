@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '8255'
+source-wordcount: '8254'
 ht-degree: 92%
 
 ---
@@ -1329,6 +1329,8 @@ ht-degree: 92%
          + インストール {#installation}
             + [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
+            + [Salesforce Classic に一括アクションボタンを追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Marketoタブを Salesforce に追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1339,13 +1341,12 @@ ht-degree: 92%
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + MSI パネルのアクション {#actions-in-the-msi-panel}
-               + [Salesforce から Marketo キャンペーンへのリード／連絡先の追加](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
+               + [Sales Insight でのアクションの選択](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight での配信停止フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [セールステンプレートのロック](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insight へのメールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [テストメールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 一括アクション {#bulk-actions}
-               + [Marketo Sales Insight のタブとボタンの Salesforce への追加](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + 言語サポート {#language-support}

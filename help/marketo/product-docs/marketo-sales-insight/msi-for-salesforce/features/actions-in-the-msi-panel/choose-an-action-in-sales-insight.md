@@ -5,7 +5,7 @@ title: Sales Insight でのアクションの選択
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 5%
 
 ---
@@ -27,27 +27,28 @@ Salesforce Classic と Lightning の Sales Insight ドロップダウンから�
 * リードレイアウトボタン：単一のアクション。ユーザープロファイルでは制御できません
 * 連絡先レイアウトボタン：単一のアクション。ユーザープロファイルでは制御できません
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **グループアクションを含むページレイアウト**
 
-アカウントレイアウトパネル：グループアクションとユーザープロファイル商談レイアウトパネルによって制御可能：グループアクションとユーザープロファイルによる制御が可能
+* アカウントレイアウトパネル：グループアクションと、ユーザープロファイルで制御可能
+* 商談のレイアウトパネル：グループアクションと、ユーザープロファイルで制御可能
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **「最優先」タブ**
 
-* 最優先バルクアクションタブ：グループアクションとユーザープロファイルによる制御が可能
+* 最優先バルクアクションタブ：グループアクションと、ユーザープロファイルで制御可能
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* 最優先のインラインアクションタブ：単一のアクションと、ユーザープロファイルによる制御が可能
+* 最優先のインラインアクションタブ：単一のアクションで、ユーザープロファイルで制御可能
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **一括アクションによるリスト表示**
 
-* リードリスト表示：一括アクションはユーザープロファイルでは制御できません
-* 連絡先リスト表示：一括アクションはユーザープロファイルでは制御できません
+* リードリスト表示：一括アクション。ユーザープロファイルでは制御できません
+* 連絡先リスト表示：一括アクション。ユーザープロファイルでは制御できません
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)

@@ -1,48 +1,43 @@
 ---
 unique-page-id: 42762409
-description: Marketo管理者向けのSales Insightページ —Marketoドキュメント — 製品ドキュメント
-title: Marketo管理者向けのSales Insightページ
+description: Marketo管理者向け Sales Insight ページ — Marketoドキュメント — 製品ドキュメント
+title: Marketo 管理者向け Sales Insight ページ
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 3%
+source-wordcount: '417'
+ht-degree: 9%
 
 ---
 
-# Marketo管理者向けのSales Insightページ{#sales-insight-page-for-marketo-admins}
+# Marketo 管理者向け Sales Insight ページ {#sales-insight-page-for-marketo-admins}
 
-Marketo管理者は、Sales Insightの特定の権限を持っています。 以下の内容を学びます。
+Marketo管理者には、Sales Insight に関する特定の権限があります。 以下の内容を学びます。
 
-## SOAP API設定{#soap-api-configuration}
+## SOAP API 設定 {#soap-api-configuration}
 
-これらの資格情報は、SalesforceのMSIを使用するために、SalesforceアカウントをMarketoインスタンスに接続するために使用されます。
+Salesforce で MSI を使用するために、これらの資格情報を使用して Salesforce アカウントをMarketoインスタンスに接続します。
 
 ![](assets/one-1.png)
 
-## REST APIの設定{#rest-api-configuration}
+## Rest API 設定 {#rest-api-configuration}
 
-これらの資格情報は、SalesforceでMSI Insightsダッシュボードを使用するために、SalesforceアカウントをMarketoインスタンスに接続するために使用されます。
+Salesforce で MSI インサイトダッシュボードを使用するために、これらの資格情報を使用して Salesforce アカウントをMarketoインスタンスに接続します。
 
 ![](assets/two-1.png)
 
-SFDCでRest API証明書を削除し、Soap APIのみを使用するように選択できます。 これにより、インサイトダッシュボードが無効になります
+## 担当者スコア設定 {#person-score-settings}
 
-![](assets/three-1.png)
+* **星**:星は、他のリードと比較した合計リードスコアを表します。
+* **炎**:炎は緊急度を表し、リードのスコアが最近どの程度変化したかを示します。
 
-## 人物スコアの設定{#person-score-settings}
+デフォルトでは、Marketo Sales Insight は「リードスコア」フィールドを使用して星と炎を計算します。 別のフィールドを選択する場合は、次の方法を使用できます。
 
-* **星**:星は、他のリードと比較したリードスコアの合計を表します。
-* **炎**:炎は緊急性を表し、最近リードのスコアがどの程度変更されたかを示します。
-
-デフォルトでは、Marketo販売インサイトは、「リードスコア」フィールドを使用して星と炎を計算します。 しかし、別のフィールドを選択する場合は、次のようにします。
-
-1. Marketoの&#x200B;**管理者**&#x200B;領域で、**販売インサイト**&#x200B;をクリックします。
+1. 内 **管理者** 「Marketo」領域で、「 **Sales Insight**.
 
    ![](assets/four.png)
 
-1. 「リードスコアリング設定」で、「**編集**」をクリックします。
+1. 「リードスコア設定」で、 **編集**.
 
    ![](assets/five.png)
 
@@ -54,13 +49,13 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
    ![](assets/seven.png)
 
-1. 「**保存**」をクリックします。 販売インサイトの再計算には、多少時間がかかります。 CRMを後で確認して、星や炎を確認できます。
+1. 「**保存**」をクリックします。セールスインサイトの再計算には時間がかかります。 後で CRM をチェックして星と炎を確認できます。
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >カスタムスコアフィールドをまだ持っていない場合は、次のようにして[作成します](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)。
+   >カスタムスコアフィールドがまだない場合は、次の方法を使用します。 [作成する](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -72,27 +67,27 @@ SFDCでRest API証明書を削除し、Soap APIのみを使用するように選
 
 **配信停止設定:**
 
-テンプレートなし、標準電子メール、および運用電子メールに対する次の登録解除設定から選択できます
+テンプレートなし、標準メール、オペレーショナルメールに対して、次の配信停止設定から選択できます
 
-* 登録解除設定を優先
-* 1つ以上の受信者の場合に登録解除設定を適用
-* 5受信者以上の場合に登録解除設定を適用
+* 配信停止設定を優先
+* 1 人以上の受信者の場合に配信停止設定を優先
+* 受信者が 5 人以上の場合に配信停止設定を優先
 * 配信停止設定を無視
 
 **テンプレートをロックする機能を有効化:**
 
-有効にすると、MSIユーザーはSalesforceからの電子メールの送信中にテンプレートを編集できなくなります
+有効にすると、Salesforce からメールを送信する際に、MSI ユーザはテンプレートを編集できなくなります
 
 **RSS フィードの有効化:**
 
-有効にすると、MSIユーザーは（Salesforceのリードフィードに加えて）RSSフィードにリードフィードを表示できます。 RSSフィードは、「トークン有効期限」機能が無効になっている場合にのみ機能します。
+有効にすると、MSI ユーザは（Salesforce のリードフィードに加えて）RSS フィードでリードフィードを表示できます。 RSS フィードは、「トークンの有効期限」機能が無効な場合にのみ機能します。
 
 **トークンの有効期限:**
 
-トークンの有効期限は、機能マネージャで制御します。 有効/無効にするには、[Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にご連絡ください。 有効にすると、すべてのMarketoトークンは10分以内に期限切れになります。 無効にすると、Marketoトークンは期限切れになりません。
+トークンの有効期限は、機能マネージャで制御します。 有効/無効を切り替えるには、次の場所にお問い合わせください： [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support). 有効にした場合、すべてのMarketoトークンは 10 分以内に期限切れになります。 無効にした場合、Marketoトークンは期限切れになりません。
 
-トークンの有効期限を有効にする前に生成されたトークンには、検証の有効期限がないので、その機能が現在有効になっている場合でも期限は切れません。
+トークンの有効期限を有効にする前に生成されたトークンには、検証の有効期限がないので、この機能が現在有効になっていても期限切れになりません。
 
-トークンの有効期限を有効にした後に生成されるトークンの有効期限は10分なので、この機能を無効にした後も10分で期限が切れます。
+トークンの有効期限を有効にした後に生成されたトークンの有効期限は 10 分になるので、無効化後も 10 分で有効期限が切れます。
 
-トークンの動作は、生成されたタイミング（トークンの有効期限機能が有効/無効になった場合）に基づき、現在の機能のステータスではなくなります。
+トークンの動作は、生成された日時（トークンの有効期限機能が有効/無効の場合、現在の機能のステータスではなく）に基づいておこなわれます。
