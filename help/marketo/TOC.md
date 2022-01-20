@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 92%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 92%
          + [必要なシステム構成](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [サポートされているブラウザー](product-docs/administration/setup-administration/supported-browsers.md)
-         + [グローバルフォーム検証ルール](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 追加的な統合{#additional-integrations}
          + [Adobe Connect を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 92%
             + [静的リストの作成](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Adobe Experience Cloud へのリストの送信](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [複製をプッシュ](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [静的リストについて](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + プログラム {#programs}
          + プログラムの作成 {#creating-programs}
@@ -497,7 +495,7 @@ ht-degree: 92%
             + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3:S2S 接続を使用したMarketoソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-               + [手順 3 / 3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+               + [手順 3/3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + レガシーバージョンへの接続 {#connecting-to-legacy-versions}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
