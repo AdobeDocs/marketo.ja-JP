@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
 workflow-type: tm+mt
 source-wordcount: '8254'
 ht-degree: 92%
@@ -495,7 +495,7 @@ ht-degree: 92%
             + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1/3:S2S 接続を使用したMarketoソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3:S2S 接続を使用したMarketoソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-               + [手順 3/3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+               + [手順 3 / 3:Marketoソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + レガシーバージョンへの接続 {#connecting-to-legacy-versions}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [手順 2 / 3:Dynamics (2011 On-Premises) でのMarketo同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
@@ -1331,6 +1331,7 @@ ht-degree: 92%
          + 設定 {#configuration}
             + [Salesforce Classic に一括アクションボタンを追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Marketoタブを Salesforce に追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1347,7 +1348,6 @@ ht-degree: 92%
                + [Sales Insight へのメールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [テストメールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 一括アクション {#bulk-actions}
-               + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + 言語サポート {#language-support}
                + [Salesforce での多言語サポートに向けた Sales Insight の準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
