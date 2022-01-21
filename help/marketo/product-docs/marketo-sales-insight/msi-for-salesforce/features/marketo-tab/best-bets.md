@@ -2,7 +2,7 @@
 description: ベストベット — Marketoドキュメント — 製品ドキュメント
 title: 最有望見込客
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 9%
@@ -37,6 +37,8 @@ ht-degree: 9%
 * Marketo 内に表示  
 * ウォッチリストに追加
 
+![](assets/best-bets-1.png)
+
 **一括アクション**
 
 チェックボックスを使用して、1 つ以上のリードまたは連絡先をベストベットページから選択し、次のエンゲージメントオプションを使用してグループとして連絡できます。
@@ -45,7 +47,7 @@ ht-degree: 9%
 * Marketo キャンペーンに追加
 * ウォッチリストに追加
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

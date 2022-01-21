@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f5b755fb31aed9ddf03204502ad9bb8f79546bca
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
-source-wordcount: '8254'
+source-wordcount: '8252'
 ht-degree: 92%
 
 ---
@@ -1341,14 +1341,13 @@ ht-degree: 92%
          + 機能 {#features}
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI パネルのアクション {#actions-in-the-msi-panel}
                + [Sales Insight でのアクションの選択](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight での配信停止フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [セールステンプレートのロック](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insight へのメールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [テストメールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
-            + 一括アクション {#bulk-actions}
-               + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + 言語サポート {#language-support}
                + [Salesforce での多言語サポートに向けた Sales Insight の準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo タブ{#marketo-tab}

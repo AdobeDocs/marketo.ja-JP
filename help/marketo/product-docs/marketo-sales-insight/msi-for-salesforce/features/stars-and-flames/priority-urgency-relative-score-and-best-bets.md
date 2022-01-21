@@ -3,8 +3,8 @@ unique-page-id: 2950396
 description: 優先度、緊急度、相対スコア、最有望見込客 - Marketo ドキュメント - 製品ドキュメント
 title: 優先度、緊急度、相対スコア、最有望見込客
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 Marketo Sales Insight は、優先度に基づいて最適なリードと連絡先を選択します。リードまたはコンタクトの優先度には、緊急度と相対スコアの 2 つの要素があります。
 
-![](assets/one.png)
+![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
 これらはリードスコア（製品に対する人の興味を示す尺度）から得られます。スコアが高いほど、セールスチームからの電話に積極的に反応する可能性が高くなります。
 
@@ -28,7 +28,7 @@ Marketo Sales Insight は、優先度に基づいて最適なリードと連絡�
 
 例えば、デモをリクエストして複数の web ページを訪問したリードは、緊急度が特に高くなるでしょう。Web ページにアクセスしていない、メールも開いていないリードは、緊急度が低くなります。緊急度を利用して、次に連絡する必要がある相手の優先順位を決定します。
 
-![](assets/two.png)
+![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
 ## 相対スコア {#relative-score}
 
