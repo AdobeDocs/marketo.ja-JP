@@ -4,10 +4,10 @@ title: グローバルフォーム検証ルール
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
+source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '195'
+ht-degree: 5%
 
 ---
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engageは、事前に読み込まれた「消費者の E メールドメインブロックリスト」ルールの使用時にブロックされる、無料の消費者の E メールドメインの定義されたブロックリストを提供します。 [ここにリストを表示](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engageには、事前に読み込まれた「消費者の E メールドメインブロックリスト」ルールを使用する際にブロックされる、消費者の E メールドメインの無料ドメインが定義さブロックリストれています。 [ここにリストを表示](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
