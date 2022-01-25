@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1067'
 ht-degree: 6%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 6%
 
 ## AEPMarketo Engage宛先コネクタ — 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
-Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AEP の宛先コネクタを介して新しい人物レコードを AEP からMarketo Engageにプッシュできるので、データベースを最大化できます。 AEP からMarketo Engageにオーディエンスセグメントを送信する際、Marketo Engageデータベースにまだ存在しないセグメント内のユーザーが自動的に追加されます。
+Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AEP の宛先コネクタを介して新しい人物レコードを AEP からMarketo Engageにプッシュできるので、データベースを最大化できます。 オーディエンスセグメントを AEP からMarketo Engageに送信する際、セグメント内のユーザーのうち、Marketo Engageデータベースにまだ存在しないユーザー [は、自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Sales Insight {#sales-insight}
 
@@ -78,7 +78,7 @@ Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AE
 
 ## お知らせ {#announcements}
 
-* **Marketo Sky日没**:3 月 11 日には、Marketo Skyは利用できなくなります。これは、リソースが次世代のユーザーエクスペリエンスを提供することに注力しているためです。 今日、Marketo Sky専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。
+* **Marketo Skyの廃止**:3 月 11 日には、Marketo Skyは利用できなくなります。これは、リソースが次世代のユーザーエクスペリエンスを提供することに注力しているためです。 今日、Marketo Sky専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 * **フォームエンドポイントの廃止**:leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engageフォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
