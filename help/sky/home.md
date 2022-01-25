@@ -2,11 +2,10 @@
 title: 概要
 description: 概要
 exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 
@@ -14,19 +13,23 @@ ht-degree: 7%
 
 ![バナー](/help/sky/assets/images/alt-sky-banner.png)
 
-[!DNL Marketo Sky]インターフェイスは、新しい設計、ワークフロー、および機能を利用して、[!DNL Marketo]をさらに活用します。
+この [!DNL Marketo Sky] インターフェイスは、新しいデザイン、ワークフロー、機能を利用して、より多くの機能を活用します [!DNL Marketo].
 
-## 開始方法
+>[!IMPORTANT]
+>
+>Marketo Skyは 2022 年 3 月に廃止されます。 [詳細はこちら](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33)を参照してください。
 
-* [Marketo Skyで利用可能な機能](/help/sky/marketo-sky-features.md)
+## はじめに
 
-* [使い始める方法](/help/sky/how-to-enable-roles-for-marketo-sky.md)
+* [Marketo Sky](/help/sky/marketo-sky-features.md)
 
-## 人気のある記事
+* [使用の手引き](/help/sky/how-to-enable-roles-for-marketo-sky.md)
 
-* [Marketo画像エディタ](/help/sky/marketo-image-editor.md)
+## 人気の記事
 
-* [フローアクションの保存](/help/sky/save-flow-actions.md)
+* [Marketo Image Editor](/help/sky/marketo-image-editor.md)
+
+* [フローアクションを保存](/help/sky/save-flow-actions.md)
 
 * [スマートリストルールの保存](/help/sky/save-smart-list-rules.md)
 
