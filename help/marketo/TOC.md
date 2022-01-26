@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 92%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 92%
          + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントでパーソナライズ URL を有効にする（管理)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [グローバルフォーム検証ルール](product-docs/administration/settings/global-form-validation-rules.md)
-         + [スパムフォームの送信ブロック方法](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [ランディングページのヘッダー](product-docs/administration/settings/landing-page-headers.md)
          + [IP に基づく Marketo ログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [言語、ロケール、タイムゾーンの選択](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
