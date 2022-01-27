@@ -4,10 +4,10 @@ title: Salesforce に通話理由と通話結果を記録
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 4%
 
 ### Salesforce Classic でカスタムアクティビティフィールドを作成  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Salesforce で、 **設定**.
+1. Salesforce で、「**設定**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ ht-degree: 4%
 >
 >上記の手順 9 で目的のページレイアウトを選択しなかった場合にのみ、これらの手順に従う必要があります。
 
-1. Salesforce で、 **設定**.
+1. Salesforce で、「**設定**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ ht-degree: 4%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 次をクリック： **アクティビティ** ラベル
+1. 次をクリック： **アクティビティ** ラベル
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. クリック **フィールドと関係**.
+1. クリック **フィールドと関係**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
