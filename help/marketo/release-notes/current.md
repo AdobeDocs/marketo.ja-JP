@@ -2,7 +2,7 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 **_四半期リリース_**
 
-以下の機能のリリースは、 **2022 年 1 月 22 日**（特に指定のない限り）次の週に各機能を段階的にロールアウトします。
+以下の機能のリリースは、 **2022 年 1 月 22 日**（特に指定のない限り）次の週間にわたって各機能を段階的に展開する場合。
 
 ## 次世代のエクスペリエンス {#next-generation-experience}
 

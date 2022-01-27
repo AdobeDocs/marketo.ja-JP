@@ -3,10 +3,10 @@ unique-page-id: 2949863
 description: WebEx を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: WebEx を使用したイベントの作成
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: ''
-workflow-type: ht
-source-wordcount: '927'
-ht-degree: 100%
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 96%
 
 ---
 
@@ -17,9 +17,14 @@ ht-degree: 100%
 >* [WebEx を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
+>* Webex イベント（クラシック）を使用していることを確認する
 
 
 まず、WebEx イベントセンターで Webex イベントを作成します。Marketo は、統合用に特定の設定およびフィールドのみを使用します（後ほど説明します）。WebEx 用に設定する他のフィールドについては、『[WebEx イベントセンターユーザーガイド](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)』で説明しています。
+
+>[!IMPORTANT]
+>
+>Marketo Engageは、Webex イベント（クラシック）で作成されたイベントのみをサポートします。 現時点では、Marketoは Webex Events（新規）で作成されたイベントをサポートしていません。
 
 ## 基本情報 {#basic-information}
 
