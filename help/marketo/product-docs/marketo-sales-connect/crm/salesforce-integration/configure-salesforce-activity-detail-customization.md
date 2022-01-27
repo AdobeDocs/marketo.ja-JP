@@ -4,10 +4,10 @@ title: Salesforce アクティビティ詳細のカスタマイズの設定
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '675'
+ht-degree: 2%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 アクティビティの詳細のカスタマイズを使用すると、管理者は、セールスコネクトのアクティビティ/リマインダータスクが Salesforce に同期されたときに、Salesforce タスク — 件名フィールドに記録する情報を設定できます。
+
+>[!NOTE]
+>
+>リマインダータスクの [ セールスコネクト ] の [ 件名 ] フィールドに対して行われた更新は、対応する Salesforce タスクの [ 件名 ] フィールドに反映されます ( `{{activity_subject}}` 動的フィールド（アクティビティの詳細のカスタマイズ）を使用できます。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ ht-degree: 0%
 * 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、セールスコネクトのアクティビティを他のメールアクティビティ、通話アクティビティ、タスクと簡単に識別し、区別できます。
 * カスタムアクティビティフィールドの必要性を減らします。 Salesforce では、カスタムアクティビティフィールドの数に制限が適用されるので、レポートで使用できるデータを制限できます。 アクティビティの動的フィールドを使用して主要データを件名行に追加することで、Salesforce インスタンスで作成する必要のあるカスタムアクティビティフィールドの数を減らすことができます。
 * アクティビティとタスクの件名フィールドは、セールスコネクト管理者が定義した一貫したパターンに従います。
+
+>[!NOTE]
+>
+>メール返信をアクティビティとして Salesforce に記録する場合、Salesforce のアクティビティ詳細カスタマイズ設定は使用されません。 代わりに、は「返信：メールの件名。」
 
 ## サポートされるアクティビティの動的フィールド {#activity-dynamic-fields-supported}
 

@@ -4,10 +4,10 @@ title: Salesforce とのリマインダータスク同期
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 54%
+source-wordcount: '564'
+ht-degree: 48%
 
 ---
 
@@ -79,3 +79,7 @@ Sales Connect と SFDC のタスクを同期すると、次の処理がおこな
 初回同期の後、Sales Connect で作成、編集、完了または削除したタスクは、Salesforce のタスクリストに同期されます。また、Salesforce でタスクが作成、編集、完了、削除されると、Sales Connect のタスクリストがアップデートされます。
 
 この同期を有効にするには、Web アプリケーションの[設定ページ](https://toutapp.com/login)で同期ボックスをオンにします。
+
+>[!NOTE]
+>
+>タスクの件名フィールドをセールスコネクトで更新すると、対応する同期済みタスクの Salesforce 件名フィールドで更新が同期されます ( `{{activity_subject}}` 動的フィールドを [アクティビティの詳細のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 設定。 反対に、Salesforce の件名フィールドに対して行われた更新は、 _not_ [ セールスコネクトリマインダータスクの件名 ] フィールドに同期します。
