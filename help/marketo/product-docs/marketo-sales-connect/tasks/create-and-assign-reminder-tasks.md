@@ -4,9 +4,9 @@ title: リマインダータスクの作成と割り当て
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ ht-degree: 0%
 
 1. クリック **コマンドセンター**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. クリック **タスク**.
+1. デフォルトでタスクが開きます。 クリック **タスクを追加**.
 
-PICC
-
-1. クリック **タスクを追加**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. タスクの種類を [ 電子メール ]、[ 呼び出し ]、[ 電子メール ]、または [ カスタムタスク ] から選択します。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. タスクに名前を付けます。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. タスクの割り当て先を自分自身に保つか、タスクの割り当て先となる別のユーザーを選択するかを選択します。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. このリマインダータスクを使用して、フォローアップ先の人を追加します。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. タスクの期限を選択します。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. タスクの優先度を選択します。
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 通話メモ、InMail メッセージテンプレート、人物に関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。
+1. 通話メモ、InMail メッセージテンプレート、人物に関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。 クリック **作成** 完了したら、
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)

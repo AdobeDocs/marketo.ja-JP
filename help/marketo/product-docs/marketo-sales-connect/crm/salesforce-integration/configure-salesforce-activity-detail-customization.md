@@ -4,10 +4,10 @@ title: Salesforce アクティビティ詳細のカスタマイズの設定
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -102,25 +102,39 @@ ht-degree: 3%
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. クリック **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. クリック **同期設定**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. アクティビティ詳細のカスタマイズエディタで、任意のフリーテキストを追加します。Salesforce に同期されたすべてのタスクの件名フィールドは変更されません。
+1. アクティビティの詳細のカスタマイズエディターで、必要なフリーテキストを追加します。 追加したテキストは動的ではなく、Salesforce に同期されたすべてのタスクの件名フィールドに対して変更されません。
 
-1. 追加するダイナミックフィールドを追加するには、ダイナミックフィールドボタンをクリックし、使用するダイナミックフィールドをリストから選択します。
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >必須ではありませんが、追加したテキストを角括弧で囲むと、Salesforce の件名フィールドにデータを入力する際に、データ間の識別が容易になります。 例: `[Sales Connect] - {{Activity_type}}`
+
+1. 必要に応じて、 **ダイナミックフィールドを追加** 」ボタンをクリックします。
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. 目的の動的フィールドを選択します。
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. 「**保存**」をクリックします。
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce では 255 文字の制限が適用されます。 アクティビティの詳細がこれを超えると、情報を Salesforce 件名フィールドに保存できるように切り捨てられます。
+>Salesforce では 255 文字の制限が適用されます。 アクティビティの詳細がそれを超えると、情報が Salesforce 件名フィールドに保存されるように切り捨てられます。
 
 >[!MORELIKETHIS]
 >
