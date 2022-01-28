@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 92%
 
 ---
@@ -1199,7 +1199,6 @@ ht-degree: 92%
          + [アクティビティ履歴に記録されなかった](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Salesforce に記録されなかった](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [通話記録の有効化](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [セールス電話での通話結果のカスタマイズ方法](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Salesforce に通話理由と通話結果を記録](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [国際電話](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [セールス電話のローカルプレゼンス](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
