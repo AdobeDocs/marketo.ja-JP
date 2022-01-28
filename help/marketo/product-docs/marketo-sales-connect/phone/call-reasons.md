@@ -1,90 +1,88 @@
 ---
-description: Call Reasons - Marketo Docs - Product Documentation
-title: Call Reasons
-hide: true
-hidefromtoc: true
+description: 通話理由 — Marketoドキュメント — 製品ドキュメント
+title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Call Reasons {#call-reasons}
+# 通話理由 {#call-reasons}
 
-Allow your sales teams to select call reasons when making calls so your team can understand the why calls are being made.
+営業チームが電話をかける際に通話理由を選択できるようにし、チームが通話の理由を把握できるようにします。
 
 >[!NOTE]
 >
->****
+>**管理者権限が必要です**
 
-## Enable Call Reasons {#enable-call-reasons}
+## 呼び出し理由の有効化 {#enable-call-reasons}
 
-1. ****
+1. 歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
    ![](assets/call-reasons-1.png)
 
-1. ****
+1. 「管理設定」で、を選択します。 **ダイヤラ**.
 
    ![](assets/call-reasons-2.png)
 
-1. ****
+1. 選択 **呼び出し理由の有効化**.
 
    ![](assets/call-reasons-3.png)
 
-1. Choose your desired call reason requirement.
+1. 目的の通話理由要件を選択します。
 
    ![](assets/call-reasons-4.png)
 
-## Create Call Reason {#create-call}
+## 通話理由の作成 {#create-call}
 
 >[!NOTE]
 >
->You can create a maximum of 15 Call Reasons.
+>呼び出し理由は最大で 15 個作成できます。
 
-1. ****
+1. 歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
    ![](assets/call-reasons-5.png)
 
-1. ****
+1. 「管理設定」で、を選択します。 **ダイヤラ**.
 
    ![](assets/call-reasons-6.png)
 
-1. ****
+1. クリック **通話理由の管理**.
 
    ![](assets/call-reasons-7.png)
 
-1. ****
+1. 目的の通話理由名をテキストフィールドに入力し、 **追加**.
 
    ![](assets/call-reasons-8.png)
 
-## Select a Call Reason {#select-a-call-reason}
+## 通話理由を選択 {#select-a-call-reason}
 
-Once call reasons have been enabled. Users can select one while making a call.
+呼び出しの理由が有効になったら、 ユーザーは、呼び出しをおこなう際に 1 つを選択できます。
 
-1. Click the call button to launch the dialer.
+1. コールボタンをクリックして、ダイヤラを起動します。
 
    ![](assets/call-reasons-9.png)
 
-1. ****
+1. ダイヤラで通話情報を入力し、 **呼び出し**.
 
    ![](assets/call-reasons-10.png)
 
-1. Select the call reason that best describes the call.
+1. 呼び出しに最も適した呼び出し理由を選択します。
 
    ![](assets/call-reasons-11.png)
 
-1. End the call.
+1. 通話を終了します。
 
    ![](assets/call-reasons-12.png)
 
-1. Log the call.
+1. 呼び出しをログに記録します。
 
    ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [Salesforce に通話理由と通話結果を記録](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [通話結果](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
 

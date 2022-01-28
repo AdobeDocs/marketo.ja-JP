@@ -1,10 +1,8 @@
 ---
 description: Salesforce に対するログ呼び出し理由と呼び出し結果 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce に通話理由と通話結果を記録
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 6%
@@ -122,7 +120,7 @@ ht-degree: 6%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## Salesforce Lightning のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Salesforce Lightning のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. Salesforce で、右上の歯車アイコンをクリックし、「 」を選択します。 **設定**.
 
