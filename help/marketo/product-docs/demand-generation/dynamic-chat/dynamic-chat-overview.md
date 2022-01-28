@@ -4,9 +4,9 @@ title: ダイナミックチャットの概要
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Dynamic Chat を使用すると、使いやすいインターフェイスを利�
 >[!NOTE]
 >
 >Dynamic Chat は徐々に展開される過程にあり、現在は限られた可用性になっています。 このページは、利用可能になると GA(General Availability) の詳細で更新されます。
+
+>[!TIP]
+>
+>訪問 [このページ](https://dcweb.z20.web.core.windows.net/) をクリックして、チュートリアルビデオと Dynamic Chat の記録済みデモを表示します。
 
 ## 統合 {#integrations}
 
