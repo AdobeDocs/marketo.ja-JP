@@ -2,9 +2,9 @@
 description: Salesforce アクティビティ詳細のカスタマイズの設定 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '707'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->リマインダータスクの [ セールスコネクト ] の [ 件名 ] フィールドに対して行われた更新は、対応する Salesforce タスクの [ 件名 ] フィールドに反映されます ( `{{activity_subject}}` 動的フィールド（アクティビティの詳細のカスタマイズ）を使用できます。
+>* リマインダータスクの [ セールスコネクト ] の [ 件名 ] フィールドに対して行われた更新は、対応する Salesforce タスクの [ 件名 ] フィールドに反映されます ( `{{activity_subject}}` 動的フィールド（アクティビティの詳細のカスタマイズ）を使用できます。
+>* 情報を Salesforce 件名フィールドに記録する場合、改行はサポートされません。 セールスタスクの件名が更新されると、アクティビティの詳細のカスタマイズエディターで改行が削除されます。
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
