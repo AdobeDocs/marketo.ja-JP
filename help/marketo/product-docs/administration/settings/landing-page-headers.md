@@ -1,17 +1,15 @@
 ---
 description: ランディングページのヘッダー — Marketoドキュメント — 製品ドキュメント
-title: ランディングページのヘッダー
-hide: true
-hidefromtoc: true
+title: ランディングページヘッダー
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# ランディングページのヘッダー {#landing-page-headers}
+# ランディングページヘッダー {#landing-page-headers}
 
 次の手順に従って、ランディングページドメインの HTTP ヘッダーの一部をカスタマイズします。
 
