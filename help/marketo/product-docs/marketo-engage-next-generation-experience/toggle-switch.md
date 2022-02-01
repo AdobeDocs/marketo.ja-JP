@@ -2,10 +2,10 @@
 description: 切り替えスイッチ — Marketoドキュメント — 製品ドキュメント
 title: 切り替えスイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 1%
 
 ---
 
@@ -36,6 +36,20 @@ ht-degree: 0%
 新しいエクスペリエンスが読み込まれます。
 
 ![](assets/toggle-switch-4.png)
+
+## ランディングページの詳細ページ {#landing-page-details-page}
+
+1. Marketoで、ランディングページを探して選択します。
+
+   ![](assets/toggle-switch-5.png)
+
+1. ページの右下で、 **新しいエクスペリエンス** 切り替え
+
+   ![](assets/toggle-switch-6.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-7.png)
 
 ## フォームの詳細ページ {#form-details-page}
 
