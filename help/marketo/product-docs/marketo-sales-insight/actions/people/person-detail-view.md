@@ -3,9 +3,9 @@ description: 担当者詳細表示 — Marketoドキュメント — 製品ド�
 title: リードの詳細表示
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 8%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 PICC
 
-1. 目的の人物をクリックします。
+1. 目的の人物を選択します。
 
 PICC
 
