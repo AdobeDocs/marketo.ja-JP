@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8240'
+source-wordcount: '8247'
 ht-degree: 99%
 
 ---
@@ -1282,6 +1282,7 @@ ht-degree: 99%
                + [一括メール送信オプション](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [グループメールを使用したメール送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [作成ウィンドウでのテンプレートの使用](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での MSI アクションの設定](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
