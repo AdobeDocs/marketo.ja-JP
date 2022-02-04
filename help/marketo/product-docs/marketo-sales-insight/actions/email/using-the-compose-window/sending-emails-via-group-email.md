@@ -1,17 +1,17 @@
 ---
 description: グループ電子メールを使用した電子メールの送信 — Marketoドキュメント — 製品ドキュメント
-title: グループメールによるメールの送信
+title: グループメールを使用したメール送信
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '160'
+ht-degree: 15%
 
 ---
 
-# グループメールによるメールの送信 {#sending-emails-via-group-email}
+# グループメールを使用したメール送信 {#sending-emails-via-group-email}
 
 ここでは、「グループ電子メール」オプションを使用して電子メールを送信または編集する方法を説明します。
 
@@ -19,39 +19,35 @@ ht-degree: 14%
 
 1. 「**リード**」タブをクリックします。
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. 電子メールを送信するグループを選択します。
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. 「 Group Actions 」ボタンをクリックし、「 」を選択します。 **メールグループ**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
 1. E メールを入力し（またはテンプレートを選択）、送信（またはスケジュール）します。
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
 ## グループメールの編集 {#editing-a-group-email}
 
 1. 次を使用してグループメールを作成 [上記の手順 1～3](#sending-a-group-email).
 
-1. テンプレートを選択するか、メールを入力します。
+1. [テンプレートを選択](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)または電子メールを入力してください。
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. E メールが完了したら、リスト内の各 E メールをプレビューして、動的フィールドに正しく入力されているかどうかを確認できるようになりました。
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. 目的の受信者を選択します。
+1. 目的の受信者を選択し、 **ダイナミックフィールドをプレビュー**. 右側にプレビューが表示されます。
 
-   PICC
-
-1. クリック **ダイナミックフィールドをプレビュー**&#x200B;をクリックし、右側にプレビューを表示します。
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
@@ -59,6 +55,6 @@ ht-degree: 14%
 
 >[!MORELIKETHIS]
 >
->* [一括送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [作成ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [一括送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [作成ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 

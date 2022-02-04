@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b6360de280547ba0fa486da094c467853b442621
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '8237'
-ht-degree: 100%
+source-wordcount: '8240'
+ht-degree: 99%
 
 ---
 
@@ -273,6 +273,7 @@ ht-degree: 100%
             + [フローステップの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [顧客の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [キャンペーンの実行](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+            + [フローステップサービス](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [リファラーへのクレジット付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [注目のアクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [フローから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
