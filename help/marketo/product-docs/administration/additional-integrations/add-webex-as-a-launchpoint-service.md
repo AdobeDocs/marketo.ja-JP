@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512272
-description: WebEx を LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
-title: WebEx を LaunchPoint サービスとして追加
+description: Webex を LaunchPoint サービスとして追加する — Marketoドキュメント — 製品ドキュメント
+title: Webex を LaunchPoint サービスとして追加
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 34%
 
 ---
 
-# WebEx を LaunchPoint サービスとして追加 {#add-webex-as-a-launchpoint-service}
+# Webex を LaunchPoint サービスとして追加 {#add-webex-as-a-launchpoint-service}
 
-Marketo は、WebEx のウェビナー登録と出席を管理します。
+Marketo Engageが Webex のウェビナー登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -20,15 +20,15 @@ Marketo は、WebEx のウェビナー登録と出席を管理します。
 
 >[!NOTE]
 >
->この手順を実行するには、WebEX のサブスクリプションと管理者権限が必要です。ユーザー名、パスワード、サイト名の各設定をお手元にご用意ください。
+>この手順では、Webex と管理権限の既存の購読が必要です。 ユーザー名、パスワード、サイト名の各設定をお手元にご用意ください。
 
 >[!NOTE]
 >
->サイト名は、WebEX にログインするときに使用する URL の末尾を見るとわかります。例：
+>サイト名は、Webex へのログインに使用する URL の末尾にあります。 例：
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->注意：このフィールドに URL 全体を入力しないでください。サイト名のみを入力します。
+>**注意：** このフィールドに URL 全体を入力しないでください。サイト名のみを入力してください。
 
 1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
 
@@ -38,7 +38,7 @@ Marketo は、WebEx のウェビナー登録と出席を管理します。
 
    ![](assets/webex-new-service.png)
 
-1. **表示名**&#x200B;を入力します。「**サービス**」で、「**WebEx**」を選択します。
+1. **表示名**&#x200B;を入力します。の下 **サービス**&#x200B;を選択します。 **Webex**.
 
    ![](assets/new-service-webex.png)
 
@@ -50,10 +50,10 @@ Marketo は、WebEx のウェビナー登録と出席を管理します。
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. これで完了です。**WebEx** が Marketo と同期されました。
+1. これで完了です。お使いの **Webex** はMarketoと同期されました。
 
    ![](assets/webex.png)
 
 >[!MORELIKETHIS]
 >
->[WebEx でイベントを作成する](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)方法を参照してください。
+>方法を学ぶ [Webex でのイベントの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
