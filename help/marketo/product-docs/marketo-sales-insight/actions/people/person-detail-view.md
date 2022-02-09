@@ -3,9 +3,9 @@ description: 担当者詳細表示 — Marketoドキュメント — 製品ド�
 title: リードの詳細表示
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 8%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 8%
 
 1. 担当者の詳細ビューにアクセスするには、 **人** タブをクリックします。
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. 目的の人物を選択します。
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->人物の名前が表示される場所のほとんどをクリックすると、その人物の詳細ビューに移動できます。
+   >[!TIP]
+   >
+   >人物の名前が表示される場所のほとんどをクリックすると、その人物の詳細ビューに移動できます。
 
 ## 「情報」タブ {#about-tab}
 
 担当者の連絡先情報をすべて含みます。
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **連絡先カード**
 

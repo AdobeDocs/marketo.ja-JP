@@ -4,10 +4,10 @@ title: Salesforce 同期設定
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 76%
+source-wordcount: '443'
+ht-degree: 75%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 76%
 
 >[!PREREQUISITES]
 >
->Salesforce とMarketo Sales を連携する必要があります。
+>Salesforce と Sales Insight のアクションを連携する必要があります。
 
-1. Marketo Sales で、歯車アイコンをクリックし、 **設定**.
+1. 「Sales Insight Actions」で、歯車アイコンをクリックし、 **設定**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 76%
 
 >[!PREREQUISITES]
 >
->Salesforce とMarketo Sales を連携する必要があります。
+>Salesforce と Sales Insight のアクションを連携する必要があります。
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
@@ -93,9 +93,9 @@ ht-degree: 76%
 1. 「アクティブ」の横のボックスをオンにします。
 1. 「**保存**」をクリックします。
 
-## Marketoセールスタスク/Salesforce タスクのリマインダーを同期 {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Sales Insight アクションタスク/Salesforce タスクへのリマインダーを同期 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Marketo Sales で、歯車アイコンをクリックし、 **設定**.
+1. 「Sales Insight Actions」で、歯車アイコンをクリックし、 **設定**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
