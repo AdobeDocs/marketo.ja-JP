@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
+source-git-commit: 5df9b122cb340363a19a833b94d501cc5a766485
 workflow-type: tm+mt
-source-wordcount: '8275'
+source-wordcount: '8268'
 ht-degree: 99%
 
 ---
@@ -1284,21 +1284,19 @@ ht-degree: 99%
                + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [グループメールを使用したメール送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [作成ウィンドウでのテンプレートの使用](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Marketo {#marketo}
+            + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + リード {#people}
+            + [リードの詳細表示](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight のアクションと GDPR コンプライアンス](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-         + タスク {#tasks}
-            + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での MSI アクションの設定](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Salesforce Lightning カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Marketo {#marketo}
-            + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + リード {#people}
-         + [リードの詳細表示](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-         + [Sales Insight のアクションと GDPR コンプライアンス](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + セールスメールの送信 {#send-a-sales-email}
             + [メールトラッキングの概要](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + タスク {#tasks}
+            + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + テンプレート {#templates}
             + [テンプレートの管理](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [テンプレートカテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
