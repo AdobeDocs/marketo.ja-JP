@@ -3,7 +3,7 @@ description: Sales Insight のアクションと GDPR への準拠 — Marketo�
 title: Sales Insight のアクションと GDPR コンプライアンス
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
@@ -101,7 +101,7 @@ Sales Insight Actions には、担当者詳細ビューのコンプライアン�
 
 人物ページから 1 つ以上の連絡先を選択すると、右側にドット（3 ドットメニュー）が表示されます。 クリックすると、[Authorization] と [Source] がオプションになります。 複数の連絡先の認証またはソースを同時に設定できます。
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 「認証」モーダルをクリックすると、「コンプライアンスカード」のドロップダウンオプションに一致するポップアップが表示されます。
 
