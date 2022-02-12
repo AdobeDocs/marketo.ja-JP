@@ -1,20 +1,21 @@
 ---
 description: MSI アクション管理ガイド — Marketoドキュメント — 製品ドキュメント
-title: MSI アクション管理ガイド
+title: MSI アクション管理者ガイド
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 7%
+source-wordcount: '492'
+ht-degree: 9%
 
 ---
 
-# MSI アクション管理ガイド {#msi-actions-admin-guide}
+# MSI アクション管理者ガイド {#msi-actions-admin-guide}
 
 >[!PREREQUISITES]
 >
->* Marketoアカウントで MSI アクションが有効になっていることをカスタマーサクセスマネージャーに確認してください (CSM をお持ちでない場合は、 [サポートに連絡](https://nation.marketo.com/t5/support/ct-p/Support)) をクリックします。
+>* Marketoアカウントで MSI アクションが有効になっていることをカスタマーサクセスマネージャーに確認してください (CSM をお持ちでない場合は、 [Marketoサポートに連絡](https://nation.marketo.com/t5/support/ct-p/Support)) をクリックします。
 >* Marketo/Salesforce 同期を設定する必要があります。
 
 

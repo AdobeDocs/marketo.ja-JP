@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '8272'
+source-wordcount: '8282'
 ht-degree: 99%
 
 ---
@@ -1245,6 +1245,8 @@ ht-degree: 99%
                + [メール署名の追加または更新](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID を追加](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 管理 {#admin}
+            + [アクションデータ同期の FAQ](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
+            + [Salesforce から自動ログイン](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [新しい管理者を Marketo に接続](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [コンテンツのロックダウン](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1252,6 +1254,7 @@ ht-degree: 99%
             + [カスタムドメイントラッキングの設定方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [セールスアクティビティ属性の Salesforce への記録](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [ログイン管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + キャンペーン {#campaigns}
