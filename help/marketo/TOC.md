@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8273'
 ht-degree: 99%
 
 ---
@@ -211,7 +211,6 @@ ht-degree: 99%
          + [API のみのユーザーを作成](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [ユーザーの役割の作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [メールの検証](product-docs/administration/users-and-roles/email-verification.md)
-         + [役割に対する詳細リストのインポート権限を有効にする](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [ユーザーと役割のリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo ユーザーの管理](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [ユーザーの役割と権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
