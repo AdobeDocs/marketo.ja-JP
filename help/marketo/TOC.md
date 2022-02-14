@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
+source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
 workflow-type: tm+mt
-source-wordcount: '8273'
+source-wordcount: '8282'
 ht-degree: 99%
 
 ---
@@ -175,6 +175,7 @@ ht-degree: 99%
          + [概要](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理者の設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
+         + [API 専用ユーザを追加し、Adobe IMSが有効な購読](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 設定 {#settings}
