@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce の「Marketo Sales Insight 設定」タブ — Marketoドキュメント — 製品ドキュメント
 title: Salesforce の Marketo Sales Insight 設定タブ
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 4%
 
 ---
@@ -68,6 +68,10 @@ SFDC で Sales Insight を使用するには、この設定が必要です。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
+>[!IMPORTANT]
+>
+>セールスインサイトアクション機能を使用していない場合は、[MSI アクションを有効にする ] チェックボックスをオンにしないでください。
+
 >[!MORELIKETHIS]
 >
->[チーム向けの Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[チーム向け Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
