@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8281'
 ht-degree: 99%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 99%
             + [イベントプログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [新しいイベントプログラムの作成](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
             + [イベントチャネルの編集](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-            + [LaunchPoint イベントパートナー](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+            + [イベントパートナー](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [イベントプログラムについて](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
          + イベントの作成 {#create-an-event}
             + [Adobe Connect を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

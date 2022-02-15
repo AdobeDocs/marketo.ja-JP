@@ -4,10 +4,10 @@ title: MSI アクション管理者ガイド
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 9%
+source-wordcount: '556'
+ht-degree: 8%
 
 ---
 
@@ -110,15 +110,17 @@ ht-degree: 9%
 
 ## データ同期の開始 {#initiate-data-sync}
 
+Sales Insight Actions のデータ統合フィールドの同期により、Marketo Engageデータベースから Sales Insight Actions データベースに個人情報を取り込み、個人データを最新の状態に保ち、Marketoと Salesforce で適切なレコードにアクティビティを記録できます。
+
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. 「Sales Insight」をクリックします。
+1. 「**Sales Insight**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 「アクション設定」タブをクリックします。 「アクションフィールドの同期」カードで、 **同期**.
+1. 次をクリック： **アクション設定** タブをクリックします。 「アクションフィールドの同期」カードで、 **同期**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ ht-degree: 9%
    ![](assets/msi-actions-admin-guide-13.png)
 
 Marketoと Salesforce に存在する担当者レコードは、Marketoセールスアプリアカウントと同期されます。
+
+>[!NOTE]
+>
+>Sales Insight Actions、Marketo、Salesforce 間のユーザーとアクティビティのデータの同期の詳細 [ここをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## 個々のユーザを MSI アクションに招待する {#invite-individual-users-to-msi-actions}
 
