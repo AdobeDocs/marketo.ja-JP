@@ -4,10 +4,10 @@ title: ユーザーの追加または削除
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 4%
+source-wordcount: '240'
+ht-degree: 8%
 
 ---
 
@@ -43,15 +43,19 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >ユーザー **必須** を製品プロファイルに追加して、Marketo Engageにアクセスできるようにします。
+
 1. 「**保存**」をクリックします。
 
    ![](assets/add-or-remove-a-user-8.png)
 
-その後、Marketoにログインするための電子メールがユーザーに送信されます。
+その後、ユーザーに、Marketo Engageへのログイン用の電子メールが送信されます。
 
 >[!NOTE]
 >
->Adobe Admin Consoleを使用してMarketo Engageに追加されたユーザーには、購読のデフォルトワークスペース内で「標準ユーザー」の役割が付与されます。 ワークスペース内でのユーザーの役割を調整する必要がある場合は、Marketo Engageで行います。 [ここで説明するように](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Adobe Admin Consoleを使用してMarketo Engageに追加されたユーザーには、購読のデフォルトワークスペース内で「標準ユーザー」の役割が付与されます。 ワークスペース内でのユーザーの役割を調整する必要がある場合は、Marketo Engageでおこないます。 [ここで説明するように](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## ユーザーの削除 {#remove-a-user}
 
@@ -79,7 +83,7 @@ ht-degree: 4%
 
    ![](assets/add-or-remove-a-user-14.png)
 
-その後、ユーザーに、製品管理者が製品にアクセスできなくなったことを知らせる電子メールが送信されます。Marketo Engage
+その後、ユーザーに、Marketo Engageへのアクセス権がなくなったことを知らせる電子メールが送信されます。
 
 >[!MORELIKETHIS]
 >

@@ -1,17 +1,17 @@
 ---
 description: 管理者の設定 — Marketoドキュメント — 製品ドキュメント
-title: 管理設定
+title: 管理者の設定
 hide: true
 hidefromtoc: true
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 4%
 
 ---
 
-# 管理設定 {#admin-setup}
+# 管理者の設定 {#admin-setup}
 
 Adobeシステム管理者としてAdobe組織のMarketo Engageに追加されたら、初期設定を完了するためにいくつかの手順を実行する必要があります。
 
@@ -29,7 +29,7 @@ Adobeシステム管理者としてAdobe組織のMarketo Engageに追加され�
 
 システム管理者がAdmin Consoleにアクセスしたら、次に製品プロファイルを作成します。 この方法で、ユーザーや管理者はMarketo Engageにアクセスできます。
 
-1. 「製品とサービス」で、「 **Marketo Engage**.
+1. 概要ページの「製品とサービス」で、 **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
