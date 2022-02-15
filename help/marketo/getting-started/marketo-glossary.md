@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
 source-wordcount: '4205'
 ht-degree: 100%
@@ -344,7 +344,7 @@ ht-degree: 100%
    <td>顧客および見込み客とコミュニケーションをとるために発生するもの。オフラインイベントは、通常、集会や展示会で構成され、オンラインイベントは、通常、<strong>ウェビナー</strong>です。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">イベントパートナー</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">イベントパートナー</a></strong></td> 
    <td colspan="1">オンラインイベントの自動化を支援するサードパーティ統合。</td> 
   </tr> 
   <tr> 
@@ -885,7 +885,7 @@ ht-degree: 100%
   </tr>
   <tr> 
    <td><strong>ウェビナー</strong></td> 
-   <td>ウェブベースのセミナー。Marketo では、様々な<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">イベントパートナー</a></strong>を通じてウェビナーを実施できます。</td> 
+   <td>ウェブベースのセミナー。Marketo では、様々な<strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">イベントパートナー</a></strong>を通じてウェビナーを実施できます。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">ウェブサイトの再ターゲティング</a></strong></td> 

@@ -4,9 +4,9 @@ title: アクションデータ同期の FAQ
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1045'
 ht-degree: 3%
 
 ---
@@ -37,7 +37,7 @@ Sales Insight Actions のデータ統合フィールド同期を使用すると�
 
 リード/連絡先に Salesforce 内のセールス所有者が存在するかどうかを確認するには、存在する標準所有者フィールドを確認します。
 
-販売所有者は、Marketo同期ユーザー、または特定の Salesforce または販売ユーザーである必要はありません。 標準所有者フィールドにユーザーが表示されている限り、セールスアクションに同期されるリード/連絡先を含め、そのリードに対して行われる同期済みフィールドの更新に含めます。
+販売所有者は、Marketo同期ユーザー、または特定の Salesforce または販売ユーザーである必要はありません。 必要なのは、Salesforce のリード所有者と連絡先所有者フィールドにユーザーがリストされているだけです。これにより、リードとして識別して Sales Insight アクションに同期できます。 同期するフィールドの更新は、Sales Insight のアクションでも検出され、更新されます。
 
 ## Sales Insight スマートグリッドに表示されるアクティビティデータは、どこから入手しますか？ {#where-does-the-activity-data-get-sourced-from}
 
@@ -120,4 +120,5 @@ Sales Insight アクションを使用すると、管理者は、Salesforce に�
 >* [Marketo 配信停止チェック](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
 
