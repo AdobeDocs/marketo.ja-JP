@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: プログラムメンバーシップについて — Marketoドキュメント — 製品ドキュメント
 title: プログラムメンバーシップについて
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 6%
@@ -31,7 +31,7 @@ ht-degree: 6%
    1. 担当者は、自動的に進行の最初のステータスになります。
 
 1. 次を使用する [プログラムステータスの変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) フローステップ。
-1. 人が [イベントプログラムと同期されたウェビナー](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. 人が [イベントプログラムと同期されたウェビナー](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. 人は [Marketo iPadチェックインアプリケーションを使用して作成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. 担当者が SFDC キャンペーン ( [プログラムに同期済み](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
