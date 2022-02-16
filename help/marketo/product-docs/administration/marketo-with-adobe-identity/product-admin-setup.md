@@ -1,13 +1,11 @@
 ---
 description: 製品管理者の設定 — Marketoドキュメント — 製品ドキュメント
 title: 製品管理者の設定
-hide: true
-hidefromtoc: true
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
