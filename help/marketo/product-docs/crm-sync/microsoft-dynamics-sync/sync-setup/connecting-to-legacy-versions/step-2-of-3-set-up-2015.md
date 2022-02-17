@@ -3,10 +3,10 @@ unique-page-id: 7504739
 description: Microsoft Dynamics 2015 オンプレミス向けMarketoのインストール手順 2 / 3 - Marketoドキュメント — 製品ドキュメント
 title: Microsoft Dynamics 2015 オンプレミスステップ 2/3 のMarketoのインストール
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '363'
+ht-degree: 1%
 
 ---
 
@@ -46,9 +46,13 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 
    ![](assets/assign4.png)
 
-   「 Marketo Sync User 」をオンにし、「 OK 」をクリックします。
+1. 「 Marketo Sync User 」をオンにし、 **OK**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >同期ユーザーには、Marketo設定に対する読み取り権限が必要です。
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当
 1. クリック **すべてのカスタマイズを公開**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >同期ユーザーには、Marketo設定に対する読み取り権限が必要です。
 
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
