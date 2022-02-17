@@ -1,20 +1,21 @@
 ---
 description: Adobe Experience PlatformセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
-title: Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ
+title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 22%
+source-wordcount: '658'
+ht-degree: 21%
 
 ---
 
-# Adobe Experience PlatformセグメントをMarketo静的リストにプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo にプッシュできます。
 
 >[!PREREQUISITES]
 >
+>* [API ロールの編集](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 確かに **読み取り/書き込み担当者** 権限（アクセス API ドロップダウンの下）
 >* Marketo で [API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
 >* に移動します。 **管理者** > **Launchpoint**. 作成した役割の名前を探し、「**詳細を表示**」をクリックします。情報をにコピーして保存します。 **クライアント ID** および **クライアント秘密鍵**&#x200B;手順 7 に必要な場合に使用します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
@@ -36,7 +37,7 @@ ht-degree: 22%
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. 「Marketo Engage」タイルを探し、 **セグメントのアクティブ化**.
+1. Marketo Engage タイルを見つけ、「**アクティブ化**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ ht-degree: 22%
 
    >[!NOTE]
    >
-   >ここで複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
+   >複数のセグメントを選択する場合は、「セグメントスケジュール」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
+
+   >[!IMPORTANT]
+   >
+   >セグメントがMarketoの宛先に対して初めてアクティブ化された後は、Marketoの宛先のアクティブ化以前にセグメントに既に存在していたプロファイルのバックフィルに要する場合があります **最大 24 時間**. 今後、プロファイルがセグメントに追加されるたびに、即座にMarketoに追加されます。
 
 1. 「**新規マッピングを追加**」をクリックします。
 
