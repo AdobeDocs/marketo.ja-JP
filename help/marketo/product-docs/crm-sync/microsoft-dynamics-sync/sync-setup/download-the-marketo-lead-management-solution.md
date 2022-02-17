@@ -1,50 +1,49 @@
 ---
 unique-page-id: 6848922
-description: Marketoリード管理ソリューション —Marketoドキュメント — 製品ドキュメントのダウンロード
-title: Marketoリード管理ソリューションのダウンロード
+description: Marketoリード管理ソリューションのダウンロード — Marketoドキュメント — 製品ドキュメント
+title: Marketo リード管理ソリューションのダウンロード
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
-# Marketoリード管理ソリューションのダウンロード{#download-the-marketo-lead-management-solution}
+# Marketo リード管理ソリューションのダウンロード {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-同期を開始するには、Microsoft DynamicsアカウントにMarketoソリューションをダウンロードしてインストールする必要があります。
+同期を開始するには、 Microsoft Dynamics アカウントにMarketoソリューションをダウンロードしてインストールする必要があります。
 
 >[!CAUTION]
 >
->_のアップグレードを実行する前に、最新のMarketoソリューション_&#x200B;をダウンロードする必要があります。
+>最新のMarketoソリューションを必ずダウンロードしてください _前_ アップグレードを実行します。
 
 >[!NOTE]
 >
->Marketoでは、現時点でJava 7と互換性のあるSSL証明書のみがサポートされています。
+>Marketo は、現時点では、Java 7  と互換性のある SSL 証明書のみをサポートしています。
 
-1. **管理者**&#x200B;領域に移動します。
+1. 次に移動： **管理者** 領域
 
-   ![](assets/admin-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. **CRM**&#x200B;をクリックします。
+1. クリック **CRM**.
 
-   ![](assets/image2015-3-11-13-3a7-3a11.png)
+   ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 「**Microsoft**」を選択します。
+1. 選択 **Microsoft**.
 
-   ![](assets/image2015-3-11-13-3a9-3a7.png)
+   ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 「**Marketoソリューション**&#x200B;をダウンロード」を選択します。
+1. 選択 **Marketo Solution のダウンロード**.
 
-   ![](assets/image2015-3-11-13-3a10-3a4.png)
+   ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. お使いのMicrosoft Dynamicsバージョンに適したソリューションを選択してください。
+1. Microsoft Dynamics のバージョンに適したソリューションを選択します。
 
-   ![](assets/msd-online-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-   やりましたね！ソリューションのzipファイルがデバイスにダウンロードされます。
+これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。

@@ -1,36 +1,36 @@
 ---
 unique-page-id: 10099389
-description: Microsoft Dynamics用Marketoプラグインリリース —Marketoドキュメント — 製品ドキュメント
-title: Microsoft Dynamics用Marketoプラグインリリース
+description: Microsoft Dynamics のMarketo Plugin リリース — Marketoドキュメント — 製品ドキュメント
+title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 7%
+source-wordcount: '419'
+ht-degree: 12%
 
 ---
 
-# Microsoft Dynamics用Marketoプラグインリリース{#marketo-plugin-releases-for-microsoft-dynamics}
+# Microsoft Dynamics 向け Marketo プラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
 
-Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新バージョンをダウンロードします。 定期的に、Marketoがこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+最初にMicrosoft Dynamics と同期するときは、Marketo用のプラグインの最新バージョンをダウンロードします。 Marketoは定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[ご使用のDynamicsリリースに対応する最新の](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) プラグインをダウンロードします。
+[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Dynamics リリースに対応しています。
 
-![](assets/lead-management-solution.png)
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Dynamics Solutionを更新しています{#updating-your-dynamics-solution}
+## Dynamics ソリューションの更新 {#updating-your-dynamics-solution}
 
-1. Dynamics CRMの既存のバージョンを使用して、ソリューションの最新バージョンをインポートします(例：Dynamics CRMにバージョン1.4があり、最新バージョンが1.5の場合は、_over_&#x200B;バージョン1.4)をインポートします。
+1. Dynamics CRM の既存のバージョンに対して、ソリューションの最新バージョンをインポートします ( 例：Dynamics CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、 _over_ バージョン 1.4)。
 
-1. 次のポップアップが表示されます。 「**更新**」および「**カスタマイズを維持**」を選択し、「**読み込み**」をクリックします。
+1. 次のポップアップが表示されます。 選択 **更新** および **カスタマイズの管理**&#x200B;を選択し、「 **インポート**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
-## 最新バージョン{#latest-versions}
+## 最新バージョン {#latest-versions}
 
 >[!NOTE]
 >
->これらのバージョンは、オンプレミスとオンラインの両方のDynamicsで機能します。
+>これらのバージョンは、Dynamics のオンプレミスバージョンとオンラインバージョンの両方で機能します。
 
 <table> 
  <tbody> 
@@ -40,19 +40,24 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
    <th>注意</th> 
   </tr> 
   <tr> 
+   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">02/04/21</td> 
+   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。.</td> 
+  </tr> 
+  <tr> 
    <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
-   <td colspan="1">MS Dynamicsとのキャンペーン同期のサポートが追加されました。</td> 
+   <td colspan="1">MS Dynamics との Campaign 同期のサポートを追加しました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">8/22/18</td> 
-   <td colspan="1">Microsoft Dynamics Version 9.xの問い合わせプロセスに、すぐに利用できる条件を満たすリードのサポートが追加されました。</td> 
+   <td colspan="1">Microsoft Dynamics バージョン 9.x の連絡プロセスに対する、標準で認定されたリードのサポートが追加されました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">6/27/18</td> 
-   <td colspan="1">バグ修正：Dynamics 2013用Marketoソリューションのインストール中にビジネスプロセスエラーが発生しました。</td> 
+   <td colspan="1">バグ修正：Dynamics 2013 用Marketoソリューションのインストール中にビジネスプロセスエラーが発生しました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -62,56 +67,56 @@ Microsoft Dynamicsとの初回同期時に、Marketo用プラグインの最新�
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトの状態変更をキャプチャするイベントをサブスクライブしませんでした。 この修正は、Dynamics CRM On Premise 2011に固有のものです。 </td> 
+   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトの状態変更をキャプチャするイベントをサブスクライブしませんでした。 この修正は、Dynamics CRM On Premise 2011 に固有です。 </td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
    <td colspan="1">7/22/16</td> 
-   <td colspan="1">バグ修正：オポチュニティ連絡先の役割の更新が完全にキャプチャされませんでした。</td> 
+   <td colspan="1">バグ修正：オポチュニティ連絡先の役割の更新が完全にキャプチャされていませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>バグ修正：オポチュニティが作成された時点で、マーケティングログのcustomeropportunityroleに不要な更新トランザクションが記録されていました。 </p><p>バグ修正：customeropportunityroleエンティティの削除時に、余分な削除トランザクションがログに記録されていました。</p></td> 
+   <td colspan="1"><p>バグ修正：オポチュニティが作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。 </p><p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
    <td colspan="1">5/31/16</td> 
-   <td colspan="1">バグ修正： カスタムオブジェクトの更新と削除を非同期にしました。</td> 
+   <td colspan="1">バグ修正：カスタムオブジェクトの更新と削除を非同期にしました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">2016年4月8日</td> 
-   <td colspan="1">バグ修正：リードの同期フィルタが「NO」に設定され、オポチュニティと連絡先に同期フィルタがない場合、リードが条件を満たしたときに、連絡先とオポチュニティに対して「ログを作成」が生成されませんでした。</td> 
+   <td colspan="1">4/8/16</td> 
+   <td colspan="1">バグ修正：リードの同期フィルタが [ いいえ ] に設定され、商談と連絡先に同期フィルタが設定されていない場合、リードが選定された際に連絡先と商談に対してログの作成が生成されませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
-   <td>バグ修正：同期フィルタがオフになった場合に割り当てイベントがログに記録されました。</td> 
+   <td>バグ修正：同期フィルターがオフになったときに、割り当てイベントがログに記録されました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">バグ修正：ログインユーザーがMarketo設定の権限を持っていないため、顧客はCRMでリードを作成できませんでした。</td> 
+   <td colspan="1">バグ修正：ログインユーザーにはMarketo Config の権限がないので、顧客は CRM でリードを作成できませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
    <td colspan="1">1/18/16</td> 
-   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常のDynamicsユーザーのアクセス制限を作成しました。</td> 
+   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザーのアクセス制限を作成しました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">12/30/15</td> 
-   <td>バグ修正：Dynamicsの更新が、ステップと画像のためにMarketoに同期されませんでした。</td> 
+   <td>バグ修正：Dynamics の更新が、ステップと画像のMarketoに同期されませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">バグ修正：同期フィルターがfalseに設定されているときに、リードレコードがMarketoに同期されていました。</td> 
+   <td colspan="1">バグ修正：同期フィルターが false に設定されている場合、リードレコードがMarketoに同期されていました。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
-[Marketoリード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
+>[Marketo リード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
