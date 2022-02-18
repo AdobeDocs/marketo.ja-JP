@@ -3,10 +3,10 @@ unique-page-id: 2951640
 description: 注目のアクションの使用 - Marketo ドキュメント - 製品ドキュメント
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 79%
+source-wordcount: '450'
+ht-degree: 74%
 
 ---
 
@@ -85,5 +85,9 @@ Marketo Sales Insight for Salesforce1 をインストールまたは更新する
 1. アラートを送信する電子メールアドレスを選択します（自分/チームメンバー）
 
 1. クリック **購読**.
+
+>[!NOTE]
+>
+>注目のアクションのタイプまたは説明を購読する場合、ユーザーは、そのタイプまたは説明に一致する注目のアクションをトリガーする際に、所有する人（リード/連絡先）に関する電子メール通知を受け取ります。
 
 ![](assets/using-interesting-moments-8.png)

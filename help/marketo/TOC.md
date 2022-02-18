@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '8281'
+source-wordcount: '8285'
 ht-degree: 99%
 
 ---
@@ -481,6 +481,7 @@ ht-degree: 99%
             + [Marketo リード管理ソリューションのダウンロード](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [クライアント ID とアプリ登録に対する同意の付与](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Microsoft Dynamics 向け Marketo ソリューションのアップデート](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Dynamics 認証方法の再設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Microsoft Dynamics 同期の検証](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [組織サービス URL の表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2016／Dynamics 365 オンプレミス {#microsoft-dynamics-2016-dynamics-365-on-premises}
