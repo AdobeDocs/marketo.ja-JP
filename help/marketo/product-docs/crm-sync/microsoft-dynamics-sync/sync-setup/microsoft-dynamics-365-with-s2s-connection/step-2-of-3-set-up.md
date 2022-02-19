@@ -3,10 +3,10 @@ unique-page-id: 3571827
 description: 手順 2 / 3 — サーバー間接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 — サーバー間接続を使用してMarketoソリューションをセットアップする
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 24%
+source-wordcount: '601'
+ht-degree: 26%
 
 ---
 
@@ -44,7 +44,13 @@ ht-degree: 24%
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. 次のリンクから次の手順に従います： [Microsoftでのアプリケーションユーザーの設定](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). アプリケーションユーザーに権限を付与する際に、「Marketo同期ユーザーロール」に割り当てます。
+## Microsoftでのアプリケーションユーザーの作成 {#create-application-user-in-microsoft}
+
+1. 次のリンクから次の手順に従います： [Microsoftでのアプリケーションユーザーの設定](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >アプリケーションユーザーに権限を付与する際は、必ず「Marketo同期ユーザーロール」に割り当ててください。
 
 ## AD FS をオンプレミスで使用した Azure AD Federated {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -52,37 +58,13 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 
 その他のリファレンスは、[こちら](https://docs.microsoft.com/ja-jp/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=%E5%AF%BE%E8%A9%B1%E5%9E%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%AF%E3%80%81%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%8C%20Azure%20AD%20%E3%81%AB%E8%AA%8D%E8%A8%BC%E8%A6%81%E7%B4%A0%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%81%8B%E3%80%81Azure%20AD%20%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%98%E3%83%AB%E3%83%91%E3%83%BC%20%E3%82%A2%E3%83%97%E3%83%AA%20%28Microsoft%20Authenticator%20%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AA%E3%81%A9%29%20%E3%81%A8%E7%9B%B4%E6%8E%A5%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A%E3%81%99%E3%82%8B%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82&amp;text=%E3%81%93%E3%81%AE%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%AF%E3%80%81Azure%20AD%20%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%20ID%20%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E3%83%95%E3%82%A7%E3%83%87%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%82%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82)を参照してください。
 
-## 同期ユーザーロールの割り当て {#assign-sync-user-role}
-
-1. Marketo同期ユーザーの役割をMarketo同期ユーザーにのみ割り当てます。
-
->[!NOTE]
->
->これは、Marketoバージョン 4.0.0.14 以降に当てはまります。 以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。 Marketoソリューションをアップグレードするには、 [この記事を参照](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. 「アプリケーションユーザー」タブに戻り、ユーザーリストを更新します。
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. 新しく作成したアプリケーションユーザーの横にマウスポインターを置くと、チェックボックスが表示されます。 クリックして選択します。
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. クリック **役割の管理**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. チェック **Marketo同期ユーザー** をクリックし、 **OK**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## Marketo Solution の設定 {#configure-marketo-solution}
 
 もう少しです！ あとは、作成した新しいユーザーについてMarketo Solution に知らせるだけです。
 
 >[!IMPORTANT]
 >
->基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support) を参照してください。 この機能を有効にすると、新しい資格情報が入力され、同期が再度有効になるまで、同期が一時的に停止されます。 この機能は、古い認証モードに戻す際に（2022 年 4 月まで）無効にすることができます。
+>基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support) を参照してください。 デフォルト同期ユーザーに対する設定変更を実行すると、新しい資格情報が入力され、同期が再度有効になるまで、同期が一時的に停止されます。 リクエストに応じて、Marketoサポートは、古い認証方法に戻す必要がある場合に、この機能を（2022 年 4 月まで）無効にできます。
 
 1. 「詳細設定」セクションに戻り、 ![](assets/image2015-5-13-15-3a49-3a19.png) [ 設定 ] の横にあるアイコンをクリックし、 **Marketo Config**.
 
@@ -124,4 +106,6 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 
 >[!MORELIKETHIS]
 >
->[手順 3 / 3:Marketo Solution とサーバー間の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [手順 3 / 3:Marketo Solution とサーバー間の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Dynamics 認証方法の再設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+
