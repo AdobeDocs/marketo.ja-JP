@@ -1,13 +1,11 @@
 ---
 description: チャットユーザーの追加または削除 — Marketoドキュメント — 製品ドキュメント
 title: チャットユーザーの追加または削除
-hide: true
-hidefromtoc: true
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 

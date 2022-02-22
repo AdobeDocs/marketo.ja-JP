@@ -1,17 +1,15 @@
 ---
 description: Dynamic Chat をMarketoに接続する — Marketoドキュメント — 製品ドキュメント
-title: Dynamic Chat をMarketoに接続
-hide: true
-hidefromtoc: true
+title: 動的チャットの Marketo 接続
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Dynamic Chat をMarketoに接続 {#connect-dynamic-chat-to-marketo}
+# 動的チャットの Marketo 接続 {#connect-dynamic-chat-to-marketo}
 
 完了後、 [初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)、Dynamic Chat をMarketoサブスクリプションに接続する 1 回限りの同期を実行する時間です。
 

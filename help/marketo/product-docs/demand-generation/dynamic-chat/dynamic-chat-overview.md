@@ -1,17 +1,15 @@
 ---
 description: Dynamic Chat の概要 — Marketoドキュメント — 製品ドキュメント
-title: ダイナミックチャットの概要
-hide: true
-hidefromtoc: true
+title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# ダイナミックチャットの概要 {#dynamic-chat-overview}
+# 動的チャットの概要 {#dynamic-chat-overview}
 
 Dynamic Chat を使用すると、使いやすいインターフェイスを利用して、Web サイトを訪問する人とアカウントの両方をターゲットに設定できます。 名前、連絡先情報、フリーテキストなど、関連するコンテンツを収集します。 サイト訪問者は、セールスチームとのミーティングを予約することもできます。 Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketoプログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーにすることができます。
 
