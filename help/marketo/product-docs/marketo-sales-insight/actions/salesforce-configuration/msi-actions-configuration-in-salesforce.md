@@ -1,27 +1,46 @@
 ---
 description: Salesforce での MSI アクション設定 — Marketo Docs — 製品ドキュメント
-title: Salesforce での MSI アクション設定
+title: Salesforce での MSI アクションの設定
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
+source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 9%
 
 ---
 
-# Salesforce での MSI アクション設定 {#msi-actions-configuration-in-salesforce}
+# Salesforce での MSI アクションの設定 {#msi-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->のインストールとアップグレード [MSI アクションパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) を Salesforce インスタンスに追加します。
+>* [インストール]() または [アップグレード]() Salesforce インスタンスの Sales Insight パッケージのインストール/アップグレード [MSI アクションパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) を Salesforce インスタンスに追加します。
+>* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定]()
+
+
+## Salesforce に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
+
+1. Salesforce で、 **設定**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. 「リモートサイト」を検索し、を選択します。 **リモートサイト設定**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. クリック **新規リモートサイト**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. リモートサイト名を入力します（「MarketoSalesInsight」など）。 リモートサイトの URL (https://ims-na1-stg1.adobelogin.com) を入力し、 **保存**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## CRM 全体で MSI-Actions を有効にする {#enabling-msi-actions-across-the-crm}
 
 1. Salesforce で、 **Marketo Sales Insight 設定** タブをクリックします。
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -29,11 +48,11 @@ ht-degree: 0%
 
 1. を選択します。 **MSI アクションを有効にする** チェックボックス。
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. API 秘密鍵を入力します。
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -51,11 +70,11 @@ ht-degree: 0%
 
 1. 今後のセクションで、セールスキャンペーンや「タスク」タブを無効にすることができます。 これは、リード、連絡先、アカウント、商談の各パネルに適用されます。
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. MSI アクションを無効にするには、[ アクション ] 設定で対応する機能をオフにします。
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
