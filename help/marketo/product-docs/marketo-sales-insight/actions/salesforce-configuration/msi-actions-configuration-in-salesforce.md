@@ -4,9 +4,9 @@ title: Salesforce での MSI アクションの設定
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
+source-git-commit: ea7a5892f121873483909ff7ad3067423710371a
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '229'
 ht-degree: 9%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 9%
 
 >[!PREREQUISITES]
 >
->* [インストール]() または [アップグレード]() Salesforce インスタンスの Sales Insight パッケージのインストール/アップグレード [MSI アクションパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) を Salesforce インスタンスに追加します。
->* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定]()
+>* [インストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) または [アップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce インスタンス内の Sales Insight パッケージ
+>* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## Salesforce に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
