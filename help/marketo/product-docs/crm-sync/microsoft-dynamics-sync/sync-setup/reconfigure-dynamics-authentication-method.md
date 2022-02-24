@@ -2,9 +2,9 @@
 description: Dynamics 認証方法の再設定 — Marketo Docs — 製品ドキュメント
 title: Dynamics 認証方法の再設定
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ ht-degree: 0%
 
 1. クリック **確認** 再び
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. 「**OK**」をクリックします。
 
    >[!IMPORTANT]
    >
-   >忘れずに同期を再度有効にしてください。
+   >新しい認証モードを受け入れるまでに 15 分かかります。 同期を再度有効にする前に、スイッチの時刻から 15 分待ってください。

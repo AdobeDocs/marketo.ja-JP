@@ -3,7 +3,7 @@ description: トリガーキャンペーンの優先度の上書き — Marketo�
 title: トリガーキャンペーンの優先度の上書き
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 1%
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 優先度上書きアクセスを許可 {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >管理者または管理者の責任を持つユーザーのみが、キャンペーンの優先順位でアクセス権を上書きする必要があります。
 
@@ -40,7 +40,7 @@ ht-degree: 1%
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
-## 優先順位のオーバーライド {#override-priority}
+## 優先順位の上書き {#override-priority}
 
 1. トリガーキャンペーン 右クリックし、「 」を選択します。 **[!UICONTROL キャンペーン優先度の上書き]**.
 

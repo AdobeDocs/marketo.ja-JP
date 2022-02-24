@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Dynamics 検証同期の問題を修正 — Marketoドキュメント — 製品ドキュメント
 title: Dynamics 検証同期に対する問題の修正
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '454'
 ht-degree: 10%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 10%
 
 ## 同期ユーザーがMarketo同期ユーザーロールに割り当てられています {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-次の場合、 ![x](assets/delete.png) ここでは、以下の 2 つの理由の 1 つになる可能性があります。
+次の場合、 ![x](assets/delete.png) ここでは、以下の 3 つの問題の 1 つになる可能性があります。
 
 **オプション 1 - Microsoft Dynamics でMarketo Sync ユーザーの役割がオンになっていることを確認します**:
 
@@ -75,6 +75,10 @@ ht-degree: 10%
 **オプション 2 — 許可の同意を確認**:
 
 1. 以下を確認します。 [クライアント ID とアプリ登録に対する同意の付与](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) ：アプリが API を呼び出す管理者の同意を得ていることを確認します。
+
+**オプション 3 — ユーザーの同期**:
+
+1. 「同期ユーザー」がMarketo設定に追加されていることを確認します。
 
 ## Marketo ソリューションが正常にインストールされました {#marketo-solution-is-properly-installed}
 
