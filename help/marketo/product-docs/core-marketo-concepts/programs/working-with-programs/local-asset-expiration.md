@@ -3,10 +3,10 @@ description: ローカルアセットの有効期限 — Marketoドキュメン�
 title: ローカルアセットの有効期限
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,15 +24,15 @@ ht-degree: 2%
 
 1. 内 [!UICONTROL 管理者] 領域、クリック **[!UICONTROL ユーザーとロール]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. 次をクリック： **[!UICONTROL 役割]** 」タブで、アクセスを許可するユーザーを選択し、 **[!UICONTROL ロールの編集]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. の下 [!UICONTROL マーケティング活動にアクセス]を選択します。 **[!UICONTROL アセットの有効期限のスケジュール]**. 「**[!UICONTROL 保存]**」をクリックします。
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## 有効期限の設定 {#set-an-expiration-date}
 
