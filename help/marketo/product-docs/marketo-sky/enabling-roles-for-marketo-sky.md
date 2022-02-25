@@ -1,34 +1,39 @@
 ---
 unique-page-id: 17728184
-description: Marketo Skyのロールを有効にする —Marketoドキュメント — 製品ドキュメント
-title: Marketo Skyのロールの有効化
+description: Marketo Skyの役割を有効にする — Marketoドキュメント — 製品ドキュメント
+title: Marketo Sky の役割の有効化
+hide: true
+hidefromtoc: true
 exl-id: 0a518449-8acf-4917-8153-c7ef5fee5590
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 22%
 
 ---
 
-# Marketo Skyのロールを有効にする{#enabling-roles-for-marketo-sky}
+# Marketo Sky の役割の有効化 {#enabling-roles-for-marketo-sky}
 
 Marketo Skyを利用するには、目的のユーザーの役割を有効にする必要があります。
 
+>[!IMPORTANT]
+>
+>Marketo Skyは 2022 年 3 月に廃止されます。 [こちら](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. Marketo Classicで、**管理者**&#x200B;をクリックします。
+1. Marketo Classicで、 **管理者**.
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. ツリーで、**Marketo Sky**&#x200B;を選択します。
+1. ツリーで、「 」を選択します。 **Marketo Sky**.
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
-1. 目的のロールを選択します。
+1. 目的の役割を選択します。
 
    ![](assets/enabling-roles-for-marketo-sky-3.png)
 
-これで、選択したロールでMarketo Skyを使用できるようになります。
+これで、選択した役割でMarketo Skyを使用できます。
