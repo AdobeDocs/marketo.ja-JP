@@ -3,10 +3,10 @@ description: ローカルアセットの有効期限 — Marketoドキュメン�
 title: ローカルアセットの有効期限
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-2.png)
 
-1. の下 [!UICONTROL マーケティング活動にアクセス]を選択します。 **[!UICONTROL アセットの有効期限のスケジュール]**. 「**[!UICONTROL 保存]**」をクリックします。
+1. の下 [!UICONTROL マーケティング活動にアクセス]を選択します。 **[!UICONTROL ローカルアセットの有効期限のスケジュール設定]** をクリックし、 **[!UICONTROL 保存]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## 有効期限の設定 {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* 既存の有効期限を編集するには、アセットを確認し、 **[!UICONTROL 有効期限を設定]**.
 >* 有効期限が切れたアセットは、有効期限グリッドに表示されなくなります。 グリッドには、公開済みのランディングページ、アクティブなトリガーキャンペーン、および繰り返し発生するバッチキャンペーンのみが表示されます。
+>* アセットが別のプログラムに移動されると、スケジュールされた有効期限は削除されます。
 
 
 ## 有効期限の削除 {#remove-an-expiration-date}
