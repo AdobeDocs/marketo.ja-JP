@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 6%
 
 ---
@@ -64,6 +64,12 @@ ht-degree: 6%
 ![（星印）](assets/yellow-star.png)
 
 * **BI テンプレート**:Bizible は、Tableau およびPower BI用のダウンロード可能な基本的なレポートアーティファクトとサンプルレポートを提供し、お客様のビジネスニーズに合わせてカスタマイズされたカスタムレポートを迅速に開発できるようになります。
+
+## Sales Connect {#sales-connect}
+
+![（星印）](assets/yellow-star.png)
+
+* **E メール接続の制限 (GA)**:メール接続の制限を使用すると、セールスコネクトの管理者は、Gmail または Exchange を配信チャネルとして使用する際に、メールの送信率を設定して、配信チャネルプロバイダーにメールが引き渡される率が適用される制限を超えないようにすることができます。
 
 ## お知らせ {#announcements}
 
