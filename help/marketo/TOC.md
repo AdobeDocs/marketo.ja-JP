@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
 workflow-type: tm+mt
 source-wordcount: '8334'
 ht-degree: 99%
@@ -1295,10 +1295,10 @@ ht-degree: 99%
          + リード {#people}
             + [リードの詳細表示](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight のアクションと GDPR コンプライアンス](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-               + 連絡先の管理 {#managing-contacts}
-                  + [リードに対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-                  + [連絡先の作成と削除](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-                  + [CSV を使用した連絡先のインポート](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+            + 連絡先の管理 {#managing-contacts}
+               + [リードに対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+               + [連絡先の作成と削除](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+               + [CSV を使用した連絡先のインポート](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での MSI アクションの設定](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
