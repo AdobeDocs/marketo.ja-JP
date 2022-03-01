@@ -2,7 +2,7 @@
 description: 概要 — Marketoドキュメント — 製品ドキュメント
 title: 概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >Marketoサポートでは、Adobe IMSの移行に関する更新を提供できません。 カスタマーサクセスマネージャーは、今後数ヶ月の予定タイムラインを提示します。
 
-## プロファイルレベル
+## プロファイルレベル {#profile-levels}
 
 AdobeMarketo EngageをAdobeIdentity Management System に転送した場合、様々なプロファイルがサポートされます。 この統合に関連するユーザープロファイルのタイプは次のとおりです。
 
@@ -42,7 +42,7 @@ AdobeMarketo EngageをAdobeIdentity Management System に転送した場合、�
  </tr>
 </table>
 
-## よくある質問
+## よくある質問 {#faq}
 
 **AdobeID とは**
 
