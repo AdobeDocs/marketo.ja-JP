@@ -3,10 +3,10 @@ unique-page-id: 10095429
 description: Dynamics 検証同期の問題を修正 — Marketoドキュメント — 製品ドキュメント
 title: Dynamics 検証同期に対する問題の修正
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 10%
+source-wordcount: '493'
+ht-degree: 9%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 10%
 
 ## ユーザ名とパスワードが有効です {#username-and-password-are-valid}
 
-次の場合、 ![x](assets/delete.png) ここで、Microsoft Dynamics のユーザー名とパスワードが有効であることを確認します。
+次の場合、 ![x](assets/delete.png) ここで、Microsoft Dynamics の資格情報が有効であることを確認します。 Web API S2S 認証の場合、Marketoのユーザー名は [電子メールアドレス](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 」と入力します。 他のタイプの場合は、Sync User のユーザー名と一致する必要があります。
 
 ## 同期ユーザーがMarketo同期ユーザーロールに割り当てられています {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

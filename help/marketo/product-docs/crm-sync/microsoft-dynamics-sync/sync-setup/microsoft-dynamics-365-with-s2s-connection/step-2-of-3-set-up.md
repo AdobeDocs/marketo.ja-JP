@@ -3,10 +3,10 @@ unique-page-id: 3571827
 description: 手順 2 / 3 — サーバー間接続を使用したMarketoソリューションのセットアップ — Marketoドキュメント — 製品ドキュメント
 title: 手順 2 / 3 — サーバー間接続を使用してMarketoソリューションをセットアップする
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 26%
+source-wordcount: '643'
+ht-degree: 25%
 
 ---
 
@@ -50,7 +50,9 @@ ht-degree: 26%
 
    >[!IMPORTANT]
    >
-   >アプリケーションユーザーに権限を付与する際は、必ず「Marketo同期ユーザーロール」に割り当ててください。
+   >* アプリケーションユーザーに権限を付与する際は、必ず「Marketo同期ユーザーロール」に割り当ててください。
+   >* アプリケーションユーザーの電子メールアドレスを [「詳細を表示」オプション](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) （Power Platform 上） この電子メールアドレスは、Marketo内で MS Dynamics への接続を設定する際のユーザー名として使用されます。
+
 
 ## AD FS をオンプレミスで使用した Azure AD Federated {#azure-ad-federated-with-ad-fs-on-prem}
 

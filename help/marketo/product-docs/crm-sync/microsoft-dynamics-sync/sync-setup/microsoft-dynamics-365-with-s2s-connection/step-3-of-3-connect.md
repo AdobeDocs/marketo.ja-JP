@@ -3,14 +3,14 @@ unique-page-id: 3571830
 description: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する — Marketoドキュメント — 製品ドキュメント
 title: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 20%
 
 ---
 
-# 手順 3/3:Marketo Solution とサーバー間の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 手順 3 / 3:Marketo Solution とサーバー間の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 これが同期の最後のステップです。 もう少しで着く！
 
@@ -60,7 +60,7 @@ ht-degree: 20%
 
    >[!NOTE]
    >
-   >Marketoのユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、 `user@domain.com` または DOMAIN\user.
+   >Marketoのユーザー名は、 [電子メールアドレス](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 」と入力します。 形式は、 `user@domain.com` または DOMAIN\user.
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
