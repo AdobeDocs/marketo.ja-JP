@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
-workflow-type: ht
-source-wordcount: '820'
-ht-degree: 100%
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+workflow-type: tm+mt
+source-wordcount: '877'
+ht-degree: 93%
 
 ---
 
@@ -16,8 +16,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 >[!PREREQUISITES]
 >
->* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
    >
    >オブジェクトがアカウントと商談の場合、推奨値は 410 ピクセルです。
 
-1. 左側の「**フィールド**」をクリックします。次に、「**エンゲージメント**」ラベルを検索して、**Marketo Sales Insight** レイアウトにドラッグします。
+1. 左側の「**フィールド**」をクリックします。次に、 **緊急度** ラベルを **Marketo Sales Insight** レイアウト。
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. 以下のフィールドについても、上記の手順を繰り返します。
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">エンゲージメント</td> 
+      <td>最新の注目のアクション</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>相対スコア値</p></td> 
+      <td>最新の注目のアクション発生日</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>緊急度の値</p></td> 
+      <td>最新の注目のアクションの詳細</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最新の注目のアクション発生日</p></td> 
+      <td>最新の注目のアクションのソース</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最新の注目のアクションの詳細</p></td> 
+      <td>最新の注目のアクションのタイプ</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最新の注目のアクションのソース</p></td> 
+      <td>セールスによる最後の Marketo アクティビティ</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>最新の注目のアクションのタイプ</p></td> 
+      <td>セールスによる最後の Marketo エンゲージメント</td> 
+     </tr> 
+     <tr> 
+      <td>MSI 連絡先 ID</td> 
+     </tr> 
+     <tr> 
+      <td>相対スコア</td> 
+     </tr> 
+     <tr> 
+      <td>相対スコア値</td> 
+     </tr> 
+     <tr> 
+      <td>緊急度</td> 
+     </tr> 
+     <tr> 
+      <td>緊急度の値</td> 
+     </tr> 
+     <tr> 
+      <td>Marketo 内に表示  </td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. この手順を繰り返して、**連絡先**、**アカウント**&#x200B;および&#x200B;**商談**&#x200B;の Visualforce ページセクションと Sales Insight フィールドを追加します。
+1. 手順 5～7 を繰り返して、次の用の Visualforce ページセクションと Sales Insight フィールドを追加します。 **連絡先**, **アカウント** および **商談**.
 
-1. 手順 5〜7 を繰り返して、連絡先、アカウント、商談のそれぞれについて Visualforce ページセクションを追加します。次に、手順 8〜10 を繰り返して、**連絡先**&#x200B;に Sales Insight のフィールドを追加します。変更したら必ず保存します。
+1. 手順 8 ～ 10 を繰り返して、以下のリストから Sales Insight フィールドを追加し、 **連絡先**. 必ず変更を保存してください。
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>最新の注目のアクション</td> 
+     </tr> 
+     <tr> 
+      <td>最新の注目のアクション発生日</td> 
+     </tr> 
+     <tr> 
+      <td>最新の注目のアクションの詳細</td> 
+     </tr> 
+     <tr> 
+      <td>最新の注目のアクションのソース</td> 
+     </tr> 
+     <tr> 
+      <td>最新の注目のアクションのタイプ</td> 
+     </tr> 
+     <tr> 
+      <td>セールスによる最後の Marketo アクティビティ</td> 
+     </tr> 
+     <tr> 
+      <td>セールスによる最後の Marketo エンゲージメント</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO リードスコア</td> 
+     </tr> 
+     <tr> 
+      <td>相対スコア</td> 
+     </tr> 
+     <tr> 
+      <td>相対スコア値</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - 取引先責任者の完全なリストページを開きます</td> 
+     </tr> 
+     <tr> 
+      <td>緊急度</td> 
+     </tr> 
+     <tr> 
+      <td>緊急度の値</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## カスタムユーザーフィールドのマッピング {#map-custom-person-fields}
 
