@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
-ht-degree: 99%
+source-wordcount: '8382'
+ht-degree: 98%
 
 ---
 
@@ -1229,7 +1229,7 @@ ht-degree: 99%
          + [共有テンプレート](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [テンプレートエンゲージメント](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [HTML の使用](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [テンプレートリストを別のユーザーとして表示](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [別のユーザーとしてテンプレートリストを表示](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + 動的フィールド {#dynamic-fields}
             + [カスタム動的フィールドの作成](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [動的フィールド用語集](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 99%
             + [ログイン管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + 分析 {#analytics}
+            + [テンプレートエンゲージメント](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + キャンペーン {#campaigns}
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 99%
                + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [グループメールを使用したメール送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [作成ウィンドウでのテンプレートの使用](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + よくある質問 {#faq}
+            + [CC/BCC を使用して複数の受信者を追跡できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [セルフビューを防ぐ方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [場所の追跡の仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Sales Insight のアクションは、メールの重複排除をどのように処理しますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + リード {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 99%
                + [リードに対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [連絡先の作成と削除](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [CSV を使用した連絡先のインポート](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [リードページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での MSI アクションの設定](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 99%
          + タスク {#tasks}
             + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + テンプレート {#templates}
+            + [ハイパーリンクテキストの追加](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [テンプレートの管理](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [テンプレートカテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [おすすめテンプレート](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [HTML の使用](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [別のユーザーとしてテンプレートリストを表示](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + MSI の使用 {#using-msi}
          + [リードから着信したメールを Marketo でログに記録](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome プラグイン{#msi-chrome-plugin}

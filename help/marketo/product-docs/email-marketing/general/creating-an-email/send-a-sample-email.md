@@ -3,10 +3,10 @@ unique-page-id: 1147352
 description: サンプルメールを送信する - Marketo ドキュメント - 製品ドキュメント
 title: サンプルメールを送信する
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '289'
-ht-degree: 100%
+source-git-commit: 1586b71ec9f9c4f8abc4fd9a3277d5a5f5b88080
+workflow-type: tm+mt
+source-wordcount: '323'
+ht-degree: 83%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 100%
    >
    >マイトークンは、メールのプログラムに適した値に解決されます。
 
-1. 配信用のメールアドレスを入力して「**送信**」をクリックします。
+1. 配信する E メールアドレスを 1 つ以上入力します。 複数の電子メールアドレスの場合は、コンマで区切ります。 クリック **送信** 完了したら、
 
    ![](assets/two.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >複数のメールアドレスを入力する場合は、コンマで区切ります。
+   >複数の電子メールアドレスを入力すると、すべての受信者に表示されます。 最初に入力した受信者はメイン受信者で、その後に続く E メールアドレスは CC 受信者です。
 
    >[!TIP]
    >
