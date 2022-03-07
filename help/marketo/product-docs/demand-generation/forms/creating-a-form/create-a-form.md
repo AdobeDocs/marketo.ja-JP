@@ -46,6 +46,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [フォームのテーマを選択する](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
-* [フォームにフィールドセットを追加する](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+>* [フォームのテーマの選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [フォームへのフィールドセットの追加](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
