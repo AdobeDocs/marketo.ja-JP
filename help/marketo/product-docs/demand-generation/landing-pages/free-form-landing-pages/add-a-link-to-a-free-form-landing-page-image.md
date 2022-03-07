@@ -14,8 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[フリーフォームランディングページへの画像の追加](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)>
->
+>[フリーフォームランディングページへの画像の追加](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
