@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359876
-description: アップロードした画像またはファイルの置き換え —Marketoドキュメント — 製品ドキュメント
-title: アップロードした画像またはファイルの置換
+description: アップロードした画像またはファイルの置き換え - Marketo ドキュメント - 製品ドキュメント
+title: アップロードした画像またはファイルの置き換え
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# アップロードした画像またはファイルの置き換え{#replace-an-uploaded-image-or-file}
+# アップロードした画像またはファイルの置き換え {#replace-an-uploaded-image-or-file}
 
-1. **Design Studio**&#x200B;に移動します。
+1. **Design Studio** に移動します。
 
    ![](assets/designstudio-6.png)
 
@@ -23,32 +22,32 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >アップロードした画像やファイル](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)を[検索することもできます。
+   >また、[アップロードされた画像またはファイルを検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)することもできます。
 
-1. 「**ファイルのアクション**」をクリックし、「**画像を置換」または「ファイル**」を選択します。
+1. 「**ファイルアクション**」をクリックし、「**画像またはファイルを置換**」を選択します。
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
-1. 現在のファイルを置き換えるコンピューター上のファイルを参照し、選択します。
+1. 現在のファイルを置き換えるファイルをコンピューター上で参照し、選択します。
 
    ![](assets/image2014-9-16-11-3a22-3a2.png)
 
    >[!NOTE]
    >
-   >共有フォルダーからファイルを選択できない場合は、そのファイルをハードドライブに保存し、そこから選択してください。
+   >共有フォルダーからファイルを選択できない場合は、そのファイルを自分のハードドライブに保存し、そこから選択してください。
 
-1. **「ファイル**&#x200B;を選択」の横に表示されるファイルが正しいことを確認し、「**置換**」をクリックします。
+1. 「**ファイルを選択**」の横に表示されているファイルが正しいことを確認して、「**置換**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
 >[!NOTE]
 >
->置き換えるファイルの名前は、前のファイル名に合わせて変更されます。
+>置き換えるファイルの名前は、以前のファイル名に合わせて変更されます。
 
-やった！
+これで完了です。
 
 >[!MORELIKETHIS]
 >
 >* [アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [アップロードされた画像またはファイルのURLの検索](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [アップロードされた画像またはファイルの URL を見つける](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
