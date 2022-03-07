@@ -3,7 +3,7 @@ unique-page-id: 2949857
 description: イベントチャネルの編集 - Marketo ドキュメント - 製品ドキュメント
 title: イベントチャネルの編集
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '186'
 ht-degree: 100%
