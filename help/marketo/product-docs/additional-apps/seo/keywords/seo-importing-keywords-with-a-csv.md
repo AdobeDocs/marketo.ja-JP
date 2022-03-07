@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949206
-description: SEO - CSVを使用したキーワードのインポート —Marketoドキュメント — 製品ドキュメント
-title: SEO - CSVを使用したキーワードのインポート
+description: SEO - CSV を使用したキーワードのインポート - Marketo ドキュメント - 製品ドキュメント
+title: SEO - CSV を使用したキーワードのインポート
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SEO - CSVを含むキーワードのインポート{#seo-importing-keywords-with-a-csv}
+# SEO - CSV を使用したキーワードのインポート {#seo-importing-keywords-with-a-csv}
 
-1. [キーワード](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)を手動で追加したり、[キーワードの提案](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)を取得したり、CSVファイルからキーワードをインポートしたりできます。 インポートの実行方法を次に示します。
+1. 手動で[キーワードを追加](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)したり、[キーワードの候補を取得](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)したり、CSV ファイルからキーワードをインポートすることもできます。インポートの実行方法を次に示します。
 
 1. 「**キーワード**」セクションに移動します。
 
@@ -23,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
-1. インポートするExcelファイルを選択します。
+1. インポートする Excel ファイルを選択します。
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
@@ -33,20 +32,20 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >読み込みの制限は、購読によって異なります。 詳細については、担当営業にお問い合わせください。
+   >インポート制限は、サブスクリプションによって異なります。詳しくは、セールス担当者にお問い合わせください。
 
 1. 「**インポート**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
-   新しいキーワードがキーワードリストにアルファベット順に表示されます。
+   新しいキーワードが、アルファベット順にキーワードリストに表示されます。
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   各キーワードに関連付けられたすべてのデータを読み込むのに数分かかる場合があります。 人生の意味を考える。
+   各キーワードに関連付けられたデータをすべて読み込むには、数分かかる場合があります。のんびりお待ちください。
 
    >[!MORELIKETHIS]
    >
-   >* [キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [リストから追加のキーワードの削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [リストに対するキーワードの追加／削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
