@@ -1,46 +1,45 @@
 ---
 unique-page-id: 2949180
-description: SEOダッシュボードについて —SEORecommendations-Marketoドキュメント — 製品ドキュメント
-title: SEOダッシュボードについて — SEORecommendations
+description: SEO ダッシュボードについて - SEO レコメンデーション - Marketo ドキュメント - 製品ドキュメント
+title: SEO ダッシュボードについて - SEO レコメンデーション
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SEOダッシュボードについて：SEORecommendations{#understanding-the-seo-dashboard-seo-recommendations}
+# SEO ダッシュボードについて：SEO レコメンデーション {#understanding-the-seo-dashboard-seo-recommendations}
 
-このダッシュボードを使用して、キーワードのランクの傾向、およびサイトのSEOに対する最適化の程度を高レベルで表示できます。
+ダッシュボードを使用すると、キーワードのランクの傾向と SEO に対するサイトの最適化状況を大まかに把握できます。
 
-Recommendationsの使い方も見つかります。 飛び込もう！
+また、「レコメンデーション」セクションを使用して改善方法を確認できます。それでは始めましょう。
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## トップページの最適化の問題{#top-page-optimization-issues}
+## ページの最適化に関する主な問題 {#top-page-optimization-issues}
 
-これは、サイトを最適化するための5つの大きな影響を与える方法をすぐに示します。 [完全な](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)ページ詳細ドリルダウンの表示へのリンクをクリックするだけです。
+サイトを最適化するためにすぐに始められる、影響の大きい 5 つの方法が表示されます。リンクをクリックするだけで、完全な[ページ詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)が表示されます。
 
 >[!TIP]
 >
->[トップページの最適化の問題]をクリックすると、完全なリストが表示されます。
+>「ページの最適化に関する主な問題」をクリックすると、完全なリストが表示されます。
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## トップリンクオポチュニティ{#top-link-opportunities}
+## 主なリンク機会 {#top-link-opportunities}
 
-評判の良いサイトがコンテンツにリンクされていると、ページのランクが高くなる可能性があります。 ここでは、お客様のサイトで最も優先度の高いオポチュニティをいくつか示します。
+評判の良いサイトをコンテンツにリンクさせると、ページランキングが向上します。自社サイトで最も優先度の高い機会が表示されます。
 
 >[!TIP]
 >
->[トップリンクの最適化]をクリックすると、完全なリストを表示できます。
+>「主なリンク機会」をクリックすると、完全なリストが表示されます。
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
-すぐに！ もっと深く掘り下げなさい。
+以上です。さらに深く掘り下げてください。
 
 >[!MORELIKETHIS]
 >
->[ページの詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[ページ詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
