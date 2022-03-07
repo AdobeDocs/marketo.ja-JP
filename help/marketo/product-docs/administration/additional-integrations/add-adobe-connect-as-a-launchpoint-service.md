@@ -26,7 +26,7 @@ Marketo は、Adobe Connect のウェビナー登録と参加を管理します�
 >
 >Adobe Connect On Site は現在サポートされていません。
 
-1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
+1. 「**管理者**」に移動し、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
