@@ -1,33 +1,32 @@
 ---
 unique-page-id: 11377406
-description: デフォルトのブランディングドメインをWorkspaces -Marketoドキュメント — 製品ドキュメントで編集
-title: デフォルトのブランドドメインのWorkspacesでの編集
+description: ワークスペースを使用したデフォルトのブランディングドメインの編集 - Marketo ドキュメント - 製品ドキュメント
+title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ワークスペースを使用したデフォルトのブランドドメインの編集{#edit-your-default-branding-domain-with-workspaces}
+# ワークスペースを使用したデフォルトのブランディングドメインの編集 {#edit-your-default-branding-domain-with-workspaces}
 
-1. **管理者**&#x200B;に移動し、**電子メール**&#x200B;をクリックします。
+1. 「**管理者**」に移動し、「**メール**」を選択します。
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. ブランドドメインテーブルで、現在の汎用ドメインを選択し、「編集」をクリックして、会社のブランドドメインに変更します。
+1. ブランディングドメインテーブルで、現在の汎用ドメインを選択し、「編集」をクリックして、会社のブランディングドメインに変更します。
 
    ![](assets/image2016-8-12-10-3a30-3a34.png)
 
    >[!NOTE]
    >
-   >**汎用ドメ** インを編集するまで、アドは機能しません。**** 削除は、2つ目のドメインを追加するまで機能しません。
+   >「**追加**」は、汎用ドメインを編集するまで機能しません。「**削除**」は、2 番目のドメインを追加するまで機能しません。
    >
-   >汎用ドメインを最初に編集するまで、追加のドメインを追加することはできません。
+   >最初に汎用ドメインを編集するまで、ドメインは追加できません。
 
-1. デフォルトドメインの名前を入力し、「**次へ**」をクリックします。
+1. デフォルトのドメイン名を入力し、「**次へ**」をクリックします。
 
    ![](assets/image2016-8-12-10-3a32-3a31.png)
 
@@ -37,6 +36,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ブランディングドメインを追加する場合、1つ以上のワークスペースのプライマリドメインを選択できます。既存の未送信の電子メールはすべて「デフォルト」に設定され、新しく作成されたすべての電子メールはデフォルトでプライマリドメインに設定されます。 この設定は、電子メールごとに上書きできます。
+>ブランディングドメインを追加する際に、1 つ以上のワークスペースに対してこれをプライマリドメインに設定できます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。これは、メールごとに上書きできます。
 
-これで、ワークスペースに必要な追加のブランディングドメイン[を追加できます。](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
+これで、ワークスペースに必要な[付加的なブランディングドメインを追加](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)できます。
