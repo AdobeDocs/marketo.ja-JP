@@ -4,7 +4,7 @@ description: Google AdWords を LaunchPoint サービスとして追加 - Market
 title: Google AdWords を LaunchPoint サービスとして追加
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Google AdWords アカウントを Marketo にリンクすることで、オフ�
 >
 >また、[Google AdWords を Launchpoint のサービスとしてマネージャーアカウントと統合する](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)こともできます。
 
-1. **管理**&#x200B;セクションに移動します。
+1. 「**管理者**」セクションに移動します。
 
    ![](assets/login-admin.png)
 
