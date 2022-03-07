@@ -1,35 +1,34 @@
 ---
-description: すべてのオブジェクトメタデータを書き出し —Marketoドキュメント — 製品ドキュメント
-title: すべてのオブジェクトメタデータを書き出し
+description: すべてのオブジェクトメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: すべてのオブジェクトメタデータのエクスポート
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# すべてのオブジェクトメタデータを書き出し{#export-all-object-metadata}
+# すべてのオブジェクトメタデータのエクスポート {#export-all-object-metadata}
 
-この機能を使用すると、すべてのオブジェクトとそのメタデータを書き出すことができます。
+この機能を使用すると、すべてのオブジェクトとそのメタデータをエクスポートできます。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-## オブジェクト{#objects}
+## オブジェクト {#objects}
 
-* リードフィールド(個人/会社)
+* リードフィールド（人物／会社）
 * Marketo カスタムオブジェクト
 * 標準アクティビティ
 * カスタムアクティビティ
 * チャネル
 * タグ
 
-## オブジェクトメタデータの書き出し{#export-object-metadata}
+## オブジェクトメタデータのエクスポート {#export-object-metadata}
 
-1. マイMarketoで、**管理者**&#x200B;をクリックします。
+1. My Marketo で、「**管理者**」をクリックします。
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -37,14 +36,14 @@ ht-degree: 9%
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 「**すべてのオブジェクトを書き出し**」をクリックします。
+1. 「**すべてのオブジェクトをエクスポート**」をクリックします。
 
    ![](assets/export-all-object-metadata-3.png)
 
 >[!NOTE]
 >
->ブラウザーで、Marketoからのポップアップがブロックされていないことを確認してください。
+>ブラウザーが Marketo からのポップアップをブロックしていないことを確認します。
 
-データがCSVとしてエクスポートされます。
+データは CSV としてエクスポートされます。
 
 ![](assets/export-all-object-metadata-4.png)
