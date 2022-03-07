@@ -1,41 +1,40 @@
 ---
-description: Velocityスクリプティング —Marketoドキュメント — 製品ドキュメントでのカスタムオブジェクト取得制限の変更
-title: Velocityスクリプティングでのカスタムオブジェクト取得制限の変更
+description: Velocity スクリプティングのカスタムオブジェクト取得制限の変更 - Marketo ドキュメント - 製品ドキュメント
+title: Velocity スクリプティングでのカスタムオブジェクト取得制限の変更
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Velocityスクリプティング{#change-custom-object-retrieval-limits-in-velocity-scripting}でのカスタムオブジェクト取得制限の変更
+# Velocity スクリプティングでのカスタムオブジェクト取得制限の変更 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
-Velocityスクリプトを使用して電子メールでカスタムオブジェクトデータを表示する場合、この機能はユーザーにとって役立つ場合があります。 デフォルトでは、Velocityスクリプトから10個の親カスタムオブジェクトにアクセスできます。 詳細情報にアクセスする必要がある場合は、以下を参照してください。
+Velocity スクリプトを使用してメールにカスタムオブジェクトデータを表示する場合、この機能が役に立つでしょう。デフォルトでは、Velocity スクリプトから 10 個の親カスタムオブジェクトにアクセスできます。詳しくは、以下を参照してください。
 
-## 速度{#what-is-velocity}とは
+## Velocity とは {#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/)は、HTMLコンテンツのテンプレート化とスクリプティングを行うために設計された、Javaに基づいて構築された言語です。Marketoは、[スクリプティングトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用して、電子メールのコンテキストでこのトークンを使用できます。 特に、カスタムオブジェクトに保存されたデータにアクセスできます。
+[Apache Velocity](https://velocity.apache.org/) は、テンプレート化とスクリプティング HTML コンテンツの作成に使用する Java で構築された言語です。Marketo では、[スクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)の使用を通じて、メールのコンテキストで使用できます。これにより、カスタムオブジェクトに保存されたデータにアクセスできます。
 
-リードまたは連絡先に直接接続されているが、第3レベルのカスタムオブジェクトではない親および子のカスタムオブジェクトを参照できます。 各カスタムオブジェクトについて、個人または連絡先ごとに最も新しく更新された10個のレコードが実行時に使用でき、最も新しい(0)～最も古い(9)の順に並べられます。
+リードや連絡先に直接接続されているが、第 3 レベルのカスタムオブジェクトには接続していない、親および子のカスタムオブジェクトを参照できます。各カスタムオブジェクトに対して、人物／連絡先ごとの最近更新された 10 個のレコードが実行時に使用可能で、最新の更新（0 番目）から最も古い更新（9 番目）まで順番に並べられます。
 
-## 制限の変更方法{#how-to-change-the-limit}
+## 制限の変更方法 {#how-to-change-the-limit}
 
-1. **管理者**&#x200B;セクションに移動します。
+1. 「**管理者**」セクションに移動します。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-1.png)
 
-1. 「**電子メール**」をクリックします。
+1. 「**メール**」をクリックします。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. 「Custom Object Retrieval Limits」テーブルで、新しい親取得制限を入力し、「**変更の保存**」をクリックします。
+1. カスタムオブジェクト取得制限テーブルで、新しい親取得制限を入力し、「**変更を保存**」をクリックします。
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->親の取得制限の値は、10 ～ 100の範囲にする必要があります。 子の取得制限は自動的に設定されます。 これは、1,000を親の取得制限で割って行います。 例えば、親の制限を50に設定した場合、子の制限は20になります(1000÷ 50 = 20)。
+>親取得制限値は 10 ～ 100 の範囲にする必要があります。「子の取得制限」が自動的に設定されます。これは、1000 を親取得制限で割ることで行われます。例えば、親の制限を 50 に設定した場合、子の制限は 20 になります（1000 ÷ 50 = 20）。
 
-甘い！ Velocityスクリプトから、より多くのカスタムオブジェクトにアクセスできるようになりました。
+できましたね。これで、Velocity スクリプトからより多くのカスタムオブジェクトにアクセスできます。
