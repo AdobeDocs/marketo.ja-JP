@@ -18,7 +18,6 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 >
 >* [API のみのユーザーの役割を作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [API のみのユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
-
 >
 
 
