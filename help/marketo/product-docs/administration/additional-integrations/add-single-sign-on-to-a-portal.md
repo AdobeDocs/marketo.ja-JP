@@ -4,7 +4,7 @@ description: ポータルへのシングルサインオンの追加 - Marketo �
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '530'
 ht-degree: 100%
 
@@ -62,7 +62,7 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
    >
    >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-1. **SAML 設定**&#x200B;セクションで、「**編集**」をクリックします。
+1. 「**SAML 設定**」セクションで、「**編集**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
@@ -84,7 +84,7 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 
 ## リダイレクトページ設定の更新 {#update-redirect-page-settings}
 
-1. **ページをリダイレクト**&#x200B;セクションで、「**編集**」をクリックします。
+1. 「**ページをリダイレクト**」セクションで、「**編集**」をクリックします。
 
    ![](assets/seven.png)
 
