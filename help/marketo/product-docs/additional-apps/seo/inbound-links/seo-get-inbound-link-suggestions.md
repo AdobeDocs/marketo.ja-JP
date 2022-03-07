@@ -32,9 +32,9 @@ Marketo は、[オフページの最適化](/help/marketo/product-docs/additiona
 
    >[!TIP]
    >
-   >[新しいリストまたは既存のリストにリンクを追加](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)できることをご存知でしょうか。ご確認ください。
+   >[新しいリストまたは既存のリストにリンクを追加](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)できることをご存知ですか？ご確認ください。
 
-1. これで完成です。追加されたこれらのリンクは、追跡されるようになりました。
+1. これで完成です。追加されたリンクがトラックされるようになりました。
 
    >[!NOTE]
    >
