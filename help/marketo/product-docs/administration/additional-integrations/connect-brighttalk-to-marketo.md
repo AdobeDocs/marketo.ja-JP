@@ -1,38 +1,37 @@
 ---
 unique-page-id: 15695874
-description: BrightTALKをMarketoに接続 —Marketoドキュメント — 製品ドキュメント
-title: BrightTALKをMarketoに接続
+description: BrightTALK の Marketo 接続 - Marketo ドキュメント - 製品ドキュメント
+title: BrightTALK の Marketo 接続
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# BrightTALKをMarketoに接続{#connect-brighttalk-to-marketo}
+# BrightTALK の Marketo 接続 {#connect-brighttalk-to-marketo}
 
-BrightTALKチャネルをMarketoインスタンスに接続する方法を説明します。 これを行うには、両方の管理者である必要があります。
-
->[!NOTE]
->
->**必要な管理者権限**
-
-## BrightTALK {#steps-in-brighttalk}のステップ
-
-1. [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)にログインし、**今すぐ接続**&#x200B;をクリックします。
-1. 「詳細なMarketoコネクタ」で、「**接続**」をクリックします。
-1. 資格情報画面が開き、次の項目を確認します。クライアントID、クライアントシークレット、IDサービスURL、RESTサービスURL。 この情報を取得するには、Marketoにログインします。
-
-## Marketo{#steps-in-marketo}のステップ
+BrightTALK チャネルを Marketo インスタンスに接続する方法を説明します。これを行うには、両方の管理者である必要があります。
 
 >[!NOTE]
 >
->この時点で、BrightTALKがMarketoインスタンスに持つ権限を制限するために、APIのみのユーザーロールとAPIユーザーを設定する必要があります。 この手順の記事は既にあるので、リンクします。
+>**管理者権限が必要**
 
-1. [APIのみのユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)を作成します。
-1. [手順4で作成したBrightTALK APIロールを使用して](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)、APIユーザーを作成します。
+## BrightTALK での手順 {#steps-in-brighttalk}
+
+1. [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) にログインし、「**今すぐ接続**」をクリックします。
+1. 「Marketo コネクタの詳細設定」で、「**接続**」をクリックします。
+1. 資格情報画面が表示され、次の情報が求められます。クライアント ID、クライアントシークレット、ID サービス URL、REST サービス URL。この情報を取得するには、Marketo にログインします。
+
+## Marketo での手順 {#steps-in-marketo}
+
+>[!NOTE]
+>
+>この時点で、BrightTALK が Marketo インスタンスに持つ権限を制限するために、API のみのユーザー役割と API ユーザーを設定する必要があります。これらの手順に関する記事が既にあり、以下が記事のリンクです。
+
+1. [API のみのユーザー役割を作成する](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)。
+1. 手順 4 で作成した BrightTALK API の役割を使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
 1. 管理領域に戻ります。
 
    ![](assets/one.png)
@@ -41,40 +40,40 @@ BrightTALKチャネルをMarketoインスタンスに接続する方法を説明
 
    ![](assets/two.png)
 
-1. 「**新規**」ドロップダウンをクリックし、「**新規サービス**」を選択します。
+1. 「**新規**」ドロップダウンをクリックして、「**新規サービス**」を選択します。
 
    ![](assets/three.png)
 
-1. 任意の表示名を入力します。 「サービス」ドロップダウンをクリックし、「カスタム&#x200B;**」を選択します（「BrightTALK」を選択しないで&#x200B;__ください）。**
+1. 任意の表示名を入力します。「サービス」ドロップダウンをクリックし、「**カスタム**」を選択します（BrightTALK は&#x200B;_選択しません_）。
 
    ![](assets/four.png)
 
    >[!CAUTION]
    >
-   >ドロップダウンでBrightTALKを選択しないでください。 これは、現在、削除中のフィールドです。これを選択すると、Marketo/BrightTALK統合に重大な問題が発生する可能性があります。
+   >ドロップダウンの「BrightTALK」は選択しないでください。これは削除中のフィールドで、選択すると、Marketo／BrightTALK 統合に重大な問題が発生する可能性があります。
 
-1. 選択した説明を入力します。 「APIのみのユーザー」ドロップダウンをクリックし、手順5で作成したBrightTALK APIユーザーを選択します。 「**作成**」をクリックします。
+1. 任意の「説明」を入力します。「API のみのユーザー」ドロップダウンをクリックし、手順 5 で作成した BrightTALK API ユーザーを選択します。「**作成**」をクリックします。
 
    ![](assets/five.png)
 
-1. 先ほど作成したカスタムサービスの「**表示の詳細**」をクリックします。
+1. 先ほど作成したカスタムサービスの「**詳細を表示**」をクリックします。
 
    ![](assets/six.png)
 
-1. **クライアントID**&#x200B;と&#x200B;**クライアントシークレット**&#x200B;をコピー（保存）します。 「**閉じる**」をクリックします。
+1. **クライアント ID** および&#x200B;**クライアントシークレット**&#x200B;をコピー（および保存）します。「**閉じる**」をクリックします。
 
    ![](assets/eight-1.png)
 
-1. 「Integration」で、「**Web Services**」を選択します。
+1. 「統合」で、「**Web サービス**」を選択します。
 
    ![](assets/nine-1.png)
 
-1. Rest APIの下で、**エンドポイント**&#x200B;と&#x200B;**ID**&#x200B;をコピー（および保存）します。
+1. Rest API で、**エンドポイント**&#x200B;および **ID** をコピー（および保存）します。
 
    ![](assets/ten.png)
 
-## BrightTALK {#additional-steps-in-brighttalk}の追加手順
+## BrightTALK での追加手順 {#additional-steps-in-brighttalk}
 
-1. 手順3からBrightTALKコネクタの設定画面に戻り、手順12と14で保存した資格情報を入力します。
+1. 手順 3 の BrightTALK コネクタの設定画面に戻り、手順 12 および 14 で保存した資格情報を入力します。
 
-   秘密鍵証明書が認証されると、BrightTALKが正式にMarketoに接続されます。 次のステップは、[同期するデータフィールドを](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)決定することです。
+   資格情報が認証されたら、BrightTALK が Marketo に正式に接続されます。次の手順では、[同期するデータフィールド](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync)を定義します。
