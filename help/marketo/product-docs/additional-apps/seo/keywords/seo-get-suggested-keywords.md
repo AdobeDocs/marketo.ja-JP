@@ -1,82 +1,81 @@
 ---
 unique-page-id: 2949202
-description: SEO — 推奨キーワードの取得 —Marketoドキュメント — 製品ドキュメント
-title: SEO — 推奨キーワードの取得
+description: SEO - 推奨キーワードの取得 - Marketo ドキュメント - 製品ドキュメント
+title: SEO - 推奨キーワードの取得
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# SEO — 推奨キーワードの取得{#seo-get-suggested-keywords}
+# SEO - 推奨キーワードの取得 {#seo-get-suggested-keywords}
 
-MarketoのSEOは、どのキーワードを追跡すべきかを提案します。 キーワードまたはサイトのURLに基づいて提案を行うことができます。 やれ！
+Marketo SEO は、どのキーワードをトラックするべきか推奨できます。キーワードまたはサイトの URL に基づいて推奨することができます。お試しください。
 
-## キーワードを使用したサーチクエリの取得{#get-keyword-suggestions-using-a-keyword}
+## キーワードを使用したキーワード推奨を取得する {#get-keyword-suggestions-using-a-keyword}
 
 1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. 「**サーチクエリの取得**」をクリックします。
+1. 「**候補を取得**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. **キーワード**&#x200B;を入力します。 「**キーワードを提案**」をクリックします。
+1. **キーワード**&#x200B;を入力します。「**推奨キーワード**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >ここに新しいキーワードまたは既存のリスト](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
+   >[新しいリストまたは既存のリストに、キーワードを追加](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)できることをご存知ですか？
 
-1. 推奨キーワードを選択します。 「**選択追加**」をクリックします。
+1. 推奨キーワードを選択します。「**選択項目を追加**」をクリックします。
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   OK！キーワードが追加されました。
+   これで完了です。キーワードが追加されました。
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   イーハー！ キーワードに基づくサーチクエリの取得方法がわかったら、URLに基づくサーチクエリの取得を試してみてください。
+   簡単ですね。キーワードに基づいて推奨キーワードを取得する方法を理解できたので、URL に基づいて推奨を取得してみてください。
 
-## URLからのキーワードの提案の取得{#get-keyword-suggestions-from-a-url}
+## URL からのキーワード推奨の取得  {#get-keyword-suggestions-from-a-url}
 
 1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. 「**サーチクエリの取得**」をクリックします。
+1. 「**候補を取得**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. **Suggest by**&#x200B;を&#x200B;**URL**&#x200B;に設定します。
+1. 「**推奨元**」に「**URL**」を設定します。
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. **URL**&#x200B;を入力し、**キーワードの提案**&#x200B;をクリックします。
+1. **URL** を入力し、「**推奨キーワード**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >ここに新しいキーワードまたは既存のリスト](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)を[追加できるのをご存じですか。
+   >[新しいリストまたは既存のリストに、キーワードを追加](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)できることをご存知ですか？
 
-1. 推奨キーワードを選択します。 「**選択追加**」をクリックします。
+1. 推奨キーワードを選択します。「**選択項目を追加**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. OK！キーワードが追加されました。
+1. これで完了です。キーワードが追加されました。
 
    ![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   これを揺らしている。 続けろ！
+   順調ですね。その調子です。
 
    >[!MORELIKETHIS]
    >
-   >* [キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [リストから追加のキーワードの削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [リストに対するキーワードの追加／削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
