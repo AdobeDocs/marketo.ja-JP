@@ -1,54 +1,53 @@
 ---
 unique-page-id: 2359866
-description: Webページから画像を取得する —Marketoドキュメント — 製品ドキュメント
-title: Webページから画像を取得する
+description: Web ページからの画像の取得 - Marketo ドキュメント - 製品ドキュメント
+title: Web ページからの画像の取得
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webページから画像を取得する{#grab-the-images-from-a-web-page}
+# Web ページからの画像の取得 {#grab-the-images-from-a-web-page}
 
-Webページから画像を追加するには、目的の画像が含まれているページのWebアドレス(URL)をコピーし、次の簡単な手順に従います。
+Web ページから画像を追加するには、目的の画像が含まれているページの Web アドレス（URL）をコピーし、次の簡単な手順に従います。
 
-1. **Design Studio**&#x200B;に移動します。
+1. 「**Design Studio**」に移動します。
 
    ![](assets/designstudio-2.png)
 
-1. 「**新しい**」と「**Webから画像をグラブ**」をクリックします。
+1. **新規**／**Web から画像を取得**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. **画像とファイル**&#x200B;フォルダーを選択し、Webアドレス(URL)を「URL」テキストボックスに貼り付けて、**次へ**&#x200B;をクリックします。
+1. **画像とファイル**&#x200B;フォルダーを選択して、「URL」テキストボックスに Web アドレス（URL）を貼り付けて、「**次へ**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
    >[!NOTE]
    >
-   >この機能は、画像を直接指すURLには対応していません。 画像を含むWebページのURLを使用します。
+   >この機能は、画像を直接指す URL では機能しません。画像を含む Web ページの URL を使用します。
 
-1. 追加する画像を選択し、「**読み込み**」をクリックします。
+1. 追加する画像を選択し、「**インポート**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
-1. これで、画像が読み込まれ、電子メールやランディングページで使用できるようになります。
+1. 画像がインポートされ、メールやランディングページで使用できるようになりました。
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. **画像とファイル**&#x200B;にある利用可能なすべての画像が表示されます。
+1. 使用可能な画像はすべて、**画像とファイル**&#x200B;で確認できます。
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-いい仕事だイメージマスター！
+お疲れさまでした。
 
 >[!MORELIKETHIS]
 >
->* [Marketo追加への画像とファイル](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [フォルダを使用した画像とファイルの整理](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [アップロードされた画像またはファイルのURLの検索](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Boxからの画像とファイルのアップロード](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [画像とファイルを Marketo に追加](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [フォルダーを使用した画像とファイルの整理](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [アップロードされた画像またはファイルの URL を見つける](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Box からの画像とファイルのアップロード](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
 
