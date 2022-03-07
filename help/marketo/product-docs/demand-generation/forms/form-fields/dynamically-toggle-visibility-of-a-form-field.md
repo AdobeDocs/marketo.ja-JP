@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [フォームに国選択リストを追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [フォームへの国選択リストの追加](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
 Marketo フォームの素晴らしい機能の 1 つは、フォームフィールドや[フィールドセット](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)の表示設定を動的に切り替えられることです。
@@ -22,6 +22,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 >[!NOTE]
 >
 >**例**
+>
 >この例では、**国**&#x200B;が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
 
 1. 「**マーケティングアクティビティ**」に移動します。
