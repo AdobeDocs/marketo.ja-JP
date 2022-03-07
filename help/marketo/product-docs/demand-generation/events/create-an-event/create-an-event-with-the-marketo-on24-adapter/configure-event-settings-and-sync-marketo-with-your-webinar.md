@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10096673
-description: イベントの設定を行い、Marketoをウェビナーと同期 —Marketoドキュメント — 製品ドキュメント
-title: イベント設定の指定とMarketoとウェビナーの同期
+description: イベントの設定と Marketo とウェビナーの同期 - Marketo ドキュメント - 製品ドキュメント
+title: イベントの設定と Marketo とウェビナーの同期
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# イベント設定を構成し、Marketoをウェビナーと同期{#configure-event-settings-and-sync-marketo-with-your-webinar}
+# イベントの設定と Marketo とウェビナーの同期 {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
-次の手順に従って、Marketoイベントを設定し、MarketoとON24を接続します。
+Marketo イベントを設定して Marketo と ON24 を接続するには、次の手順に従います。
 
-## イベント{#set-the-event}を設定
+## イベントの設定 {#set-the-event}
 
-1. ON24ウェビナーに関連付けるイベントを選択し、**イベントアクション**&#x200B;ドロップダウンをクリックして、**イベント設定**&#x200B;を選択します。
+1. ON24 ウェビナーに関連付けるイベントを選択し、**イベントアクション**&#x200B;ドロップダウンをクリックして、「**イベントの設定**」を選択します。
 
    ![](assets/one.png)
 
-1. イベントパートナーとしてON24を選択します。
+1. 「イベントパートナー」として「ON24」を選択します。
 
    ![](assets/two.png)
 
@@ -29,32 +28,32 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. イベントIDを入力します（ON24から取得します）。 「**保存**」をクリックします。
+1. イベント ID を入力します（ON24 から取得）。「**保存**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >ピーク時には、ON24がイベント情報をMarketoに提供するまで15 ～ 20分かかる場合があります。 「セッションIDが無効です」というメッセージが表示された場合は、後でもう一度お試しください。
+   >ON24 が Marketo でイベント情報を利用できるようになるまでには、ピーク時で 15 ～ 20 分かかる場合があります。「無効なセッション ID」というメッセージが表示された場合は、後でもう一度やり直してください。
 
-## スケジュールを設定{#set-the-schedule}
+## スケジュールを設定 {#set-the-schedule}
 
-ON24ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールにON24からのデータが入力されます。 [イベントスケジュール]ダイアログボックスにアクセスするには、次の手順に従います。
+ON24 ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールに ON24 のデータが入力されます。イベントスケジュールダイアログボックスにアクセスするには、次の手順に従います。
 
-1. イベントを選択します。 **イベントアクション**&#x200B;ドロップダウンをクリックし、**スケジュールを選択します。**
+1. イベントを選択します。**イベントアクション**&#x200B;ドロップダウンをクリックして「**スケジュール**」を選択します。
 
    ![](assets/five.png)
 
-1. **開始日、終了日**、**タイムゾーン**&#x200B;を選択します。 「**保存**」をクリックします。
+1. **開始日、終了日**、**タイムゾーン**&#x200B;を選択します。「**保存**」をクリックします。
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >ON24でイベント情報を更新する場合、新しいデータの入力を確認するには、[イベントの操作]メニューの[ウェビナープロバイダから&#x200B;**更新**]をクリックする必要があります。
+   >ON24 でイベント情報をアップデートする場合は、「**ウェビナープロバイダから更新**」をクリックし、新しいデータが入力されていることを確認します。
 
-次の手順に進むことができます。[子キャンペーンーとローカルアセットの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)。
+次の[子キャンペーンとローカルアセットの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)手順に進むことができます。
 
 >[!MORELIKETHIS]
 >
->[MarketoOn24アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
