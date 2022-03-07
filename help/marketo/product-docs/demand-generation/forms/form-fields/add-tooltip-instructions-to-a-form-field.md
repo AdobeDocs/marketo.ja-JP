@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359673
-description: フ追加ォームフィールドに対するツールチップの説明 —Marketoドキュメント — 製品ドキュメント
-title: フ追加ォームフィールドに対するツールチップの説明
+description: フォームフィールドへのツールチップ説明の追加 - Marketo ドキュメント - 製品ドキュメント
+title: フォームフィールドへのツールチップ説明の追加
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フ追加ォームフィールドに対するツールチップの説明{#add-tooltip-instructions-to-a-form-field}
+# フォームフィールドへのツールチップ説明の追加 {#add-tooltip-instructions-to-a-form-field}
 
-[](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) ヒントと説明は、ユーザーがフォームを入力する際に役立ちます。ツールチップの説明を追加する方法を次に示します。
+[ヒント](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)と説明は、フォームに記入するのに役立ちます。ツールチップの手順を追加する方法を次に示します。
 
 >[!NOTE]
 >
 >**定義**
 >
->「**ヒント**」の形式は、訪問者がフィールドへの入力を開始すると非表示になるフィールド内のテキストです。
+>フォーム&#x200B;**ヒント**&#x200B;は、フィールドに入力を始めると表示されなくなる、フィールド内のテキストです。
 >
->フォーム&#x200B;**説明**&#x200B;は、訪問者をフィールドの上に置くとポップアップする小さなツールチップです。
+>フォーム&#x200B;**説明**&#x200B;は、フィールドの上にマウスポインターを置くとポップアップする小さなツールチップです。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. **フォーム**&#x200B;を選択し、「**フォームを編集**」をクリックします。
+1. **フォーム**&#x200B;を選択して、「**フォームを編集**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
@@ -35,18 +34,18 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 「**完了**」をクリックします。
+1. 「**終了**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 「**承認して**&#x200B;を閉じる」をクリックします。
+1. 「**承認して終了**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >フォームの変更によって作成されたランディングページドラフト](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)を[承認するのを忘れないでください。
+   >必ず、フォームの変更によって作成された[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)してください。
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-すごい仕事！ 訪問者をフィールドの上に置くと、ツールチップが表示されます。
+素晴らしいです。訪問者がフィールドにカーソルを合わせると、ツールチップが表示されます。
