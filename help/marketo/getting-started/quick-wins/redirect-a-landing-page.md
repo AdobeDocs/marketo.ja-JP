@@ -1,66 +1,65 @@
 ---
 unique-page-id: 2359428
-description: ランディングページのリダイレクト —Marketoドキュメント — 製品ドキュメント
+description: ランディングページのリダイレクト - Marketo ドキュメント - 製品ドキュメント
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ランディングページをリダイレクト{#redirect-a-landing-page}
+# ランディングページのリダイレクト {#redirect-a-landing-page}
 
-## ミッション：ランディングページを別のWebページにリダイレクトする{#mission-redirect-a-landing-page-to-a-different-web-page}
+## ミッション：ランディングページを別の web ページにリダイレクトする {#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
 >[!PREREQUISITES]
 >
->* [フォームとのランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
->* [CNAMEを使用したランディングページURLのカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
+>* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [CNAME を使用したランディングページ URL のカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
-## 手順1:新しいリダイレクト規則の開始{#step-start-a-new-redirect-rule}
+## 手順 1：新しいリダイレクトルールを開始する {#step-start-a-new-redirect-rule}
 
-1. **管理者**&#x200B;領域に移動します。
+1. 「**管理者**」領域に移動します。
 
    ![](assets/admin.png)
 
-1. **ランディングページ**&#x200B;に移動します。
+1. 「**ランディングページ**」に移動します。
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
-1. 「**ルール**」タブをクリックし、「**新しい**」および「**新しいリダイレクトルール**」をクリックします。
+1. 「**ルール**」タブをクリックし、「**新規**」および「**新規リダイレクトルール**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a28-3a59.png)
 
-## 手順2:リダイレクト規則の定義{#step-define-the-redirect-rule}
+## 手順 2：リダイレクトルールを定義する {#step-define-the-redirect-rule}
 
-1. 最初の&#x200B;**元のURL**&#x200B;ドロップダウンをクリックし、MarketoCNAMEを選択します。
+1. 最初の「**オリジナル URL**」ドロップダウンリストから、「Marketo CNAME」 を選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >リダイレクトできるのは、Marketo[CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)との開始のランディングページだけです。
+   >Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).で開始するランディングページのみリダイレクトできます。
 
-1. 2つ目の&#x200B;**「元のURL**」ドロップダウンをクリックし、リダイレクトするランディングページを選択します。
+1. 2 つ目の「**オリジナル URL**」ドロップダウンリストから、リダイレクトするランディングページを選択します。
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. **リダイレクトURL**&#x200B;に対して、リダイレクト先のページを選択し、「**作成**」をクリックします。
+1. 「**リダイレクト URL**」から、リダイレクト先のページを選択し、「**作成**」をクリックします。
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
-## ミッション完了{#mission-complete}
+## ミッション完了 {#mission-complete}
 
-おめでとうございます！ランディングページのリダイレクトに成功しました。
+おめでとうございます！ランディングページが正常にリダイレクトされました。
 
 <br> 
 
-[エスカン・ミッション9:リードデータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ミッション 9：リードデータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)
