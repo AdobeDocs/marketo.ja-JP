@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2949678
-description: SEO - 追加/Remove Keywords from aリスト-Marketoドキュメント — 製品ドキュメント
-title: SEO - 追加/Remove Keywords from aリスト
+description: SEO - リストからのキーワードの追加／削除 - Marketo ドキュメント - 製品ドキュメント
+title: SEO - リストに対するキーワードの追加／削除
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SEO -追加/リストからキーワードを削除{#seo-add-remove-keywords-from-a-list}
+# SEO - リストに対するキーワードの追加／削除 {#seo-add-remove-keywords-from-a-list}
 
-リストを使用すると、すべてのキーワードを整理しておくことができます。 これにより、特定のキーワードのデータを簡単に円グラフで検索できます。
+リストを使用して、すべてのキーワードを適切かつ整理した状態に保つことができます。これにより、特定のキーワードに関するデータを簡単に検索できます。
 
-## リスト追加{#add-to-a-list}
+## リストに追加する {#add-to-a-list}
 
 1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. リストに追加するキーワードの上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
+1. リストに追加するキーワードにポインタを合わせます。「**リストに追加／リストから削除**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,13 +30,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >また、キーワードに新しいリストを作成することもできます。 [新しいリストの作成]に名前を入力します。
+   >また、キーワードの新しいリストを作成することもできます。「リストを新規作成」に名前を入力します。
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-ウーッ！ リストを選択して、新しいキーワードを表示します。
+リストを選択して、新しいキーワードを表示します。
 
-## リストからキーワードを削除{#remove-keyword-from-list}
+## リストからキーワードを削除する {#remove-keyword-from-list}
 
 リストからキーワードを削除することもできます。
 
@@ -45,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. リストから削除するキーワードの上にカーソルを置きます。 「**追加/リストから削除**」をクリックします。
+1. リストから削除するキーワードにポインタを合わせます。「**リストに追加／リストから削除**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,12 +52,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >現在そのリストが属しているすべてのキーワードにはチェックマークが付きます。 リストから削除すると、チェックが消えます。
+   >キーワードが現在属しているすべてのリストに、チェックマークが付きます。リストから削除すると、チェックが消えます。
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
-   完璧です。キーワードはこのリスト上にありません。 ページを更新して表示を更新します。
+   キーワードがこのリストに表示されなくなりました。ページを更新して、表示を更新します。
 
    >[!MORELIKETHIS]
    >
-   >[キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
