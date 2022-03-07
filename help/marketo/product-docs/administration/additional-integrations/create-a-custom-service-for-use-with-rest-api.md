@@ -18,8 +18,8 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 >
 >* [API のみのユーザーの役割を作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [API のみのユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
->
 
+>
 
 
 >[!NOTE]
@@ -36,7 +36,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 ## カスタムサービスの作成 {#create-custom-service}
 
-1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
+1. 「**管理者**」に移動し、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
@@ -60,7 +60,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 ## API アクセスの認証情報 {#credentials-for-api-access}
 
-1. **管理**&#x200B;に移動し、「**LaunchPoint**」をクリックします。
+1. 「**管理者**」に移動し、「**LaunchPoint**」をクリックします。
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
