@@ -3,7 +3,7 @@ unique-page-id: 11376700
 description: Facebook でのカスタムオーディエンスへのリードの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
@@ -18,8 +18,8 @@ ht-degree: 100%
 >
 >* [Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約](https://www.facebook.com/ads/manage/customaudiences/tos.php)を承認します。
->
 
+>
 
 
 1. 追加するリードを含むスマートリストまたは静的リストを探して選択します。
