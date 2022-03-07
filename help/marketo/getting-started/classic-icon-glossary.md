@@ -1,18 +1,18 @@
 ---
 unique-page-id: 4720476
-description: クラシックアイコンの用語集 — Marketoドキュメント — 製品ドキュメント
-title: クラシックアイコンの用語集
+description: クラシックアイコン用語集 - Marketo ドキュメント - 製品ドキュメント
+title: クラシックアイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '562'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# クラシックアイコンの用語集 {#classic-icon-glossary}
+# クラシックアイコン用語集 {#classic-icon-glossary}
 
-以下はMarketo Classicの古いアイコンです。 新しいアイコン用語集は [ こちら ](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md) にあります。
+以下は Marketo Classic の古いアイコンです。新しいアイコン用語集は、[ここにあります](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
 
 **一般アイコン**
 
@@ -64,7 +64,7 @@ ht-degree: 94%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">別のワークスペースから共有された宛先フォルダー<br>（南京錠アイコンは編集できないことを示します）</td> 
   </tr> 
@@ -92,7 +92,7 @@ ht-degree: 94%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">トリガー</td> 
   </tr> 
@@ -280,7 +280,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>タグ — プログラム属性</td> 
+   <td>タグ - プログラム属性</td> 
   </tr> 
   <tr> 
    <td> 
@@ -308,7 +308,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>通知 — システム全体にわたる重要なアラート</td> 
+   <td>通知 - システム全体にわたる重要なアラート</td> 
   </tr> 
  </tbody> 
 </table>
@@ -333,7 +333,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>プログラム — デフォルトタイプ</td> 
+   <td>プログラム - デフォルトタイプ</td> 
   </tr> 
   <tr> 
    <td> 
@@ -375,7 +375,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>スマートキャンペーン — アクティブでトリガー済み</td> 
+   <td>スマートキャンペーン - アクティブでトリガー済み</td> 
   </tr> 
   <tr> 
    <td> 
@@ -389,14 +389,14 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>スマートキャンペーン — バッチ（以前に実行されたことがある）</td> 
+   <td>スマートキャンペーン - バッチ（以前に実行されたことがある）</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>スマートキャンペーン — 非アクティブ、または実行されたことがない</td> 
+   <td>スマートキャンペーン - 非アクティブ、または実行されたことがない</td> 
   </tr> 
   <tr> 
    <td> 
@@ -415,7 +415,7 @@ ht-degree: 94%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">ヘッドスタートでスケジュールされたメールプログラム</td> 
   </tr> 
@@ -424,7 +424,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>スマートキャンペーン — スケジュールされたバッチ（チェックマークは以前に実行されたことを示す）</td> 
+   <td>スマートキャンペーン - スケジュールされたバッチ（チェックマークは以前に実行されたことを示す）</td> 
   </tr> 
   <tr> 
    <td> 
@@ -771,28 +771,28 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>ランディングページ — 承認済み</td> 
+   <td>ランディングページ - 承認済み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>ランディングページ／メールテンプレート — 未承認</td> 
+   <td>ランディングページ／メールテンプレート - 未承認</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>ランディングページ／メールテンプレート — 承認済み</td> 
+   <td>ランディングページ／メールテンプレート - 承認済み</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>メール — 未承認またはドラフト</td> 
+   <td>メール - 未承認またはドラフト</td> 
   </tr> 
   <tr> 
    <td> 
@@ -806,14 +806,14 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
-   <td>Forms — 未承認</td> 
+   <td>Forms - 未承認</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a52-3a44.png"> 
     </div></td> 
-   <td>テンプレート — ドラフトで承認済み</td> 
+   <td>テンプレート - ドラフトで承認済み</td> 
   </tr> 
   <tr> 
    <td> 
@@ -834,14 +834,14 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>スニペット — 未承認またはドラフト</td> 
+   <td>スニペット - 未承認またはドラフト</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>スニペット — 承認済み</td> 
+   <td>スニペット - 承認済み</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -1112,7 +1112,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>日付 — 形式は「MM-DD-YYYY」</td> 
+   <td>日付 - 形式は「MM-DD-YYYY」</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1137,28 +1137,28 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>スマートリスト — キャッシュ</td> 
+   <td>スマートリスト - キャッシュ</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </div></td> 
-   <td>セグメント化またはセグメント — 未承認</td> 
+   <td>セグメント化またはセグメント - 未承認</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>セグメント化またはセグメント — 承認済みまたはドラフト</td> 
+   <td>セグメント化またはセグメント - 承認済みまたはドラフト</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a40-3a49.png"> 
     </div></td> 
-   <td>セグメント化またはセグメント — 承認済み</td> 
+   <td>セグメント化またはセグメント - 承認済み</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1200,7 +1200,7 @@ ht-degree: 94%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a47.png"> 
     </div></td> 
-   <td colspan="1">読み込み</td> 
+   <td colspan="1">インポート</td> 
   </tr> 
  </tbody> 
 </table>
