@@ -32,5 +32,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[非表示フォームフィールドの値を設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)>
->
+>[非表示フォームフィールドの値の設定](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
