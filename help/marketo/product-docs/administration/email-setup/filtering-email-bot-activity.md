@@ -1,7 +1,8 @@
 ---
 description: メールボットアクティビティのフィルター - Marketo ドキュメント - 製品ドキュメント
 title: メールボットアクティビティのフィルター
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
@@ -16,7 +17,7 @@ ht-degree: 100%
 >
 >[IAB/ABC International Spiders and Bots List](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/) を使用すると、このリストに記載されている IP またはユーザーエージェントを含むすべての開封／クリックアクティビティは、ボットアクティビティとして識別され、Marketo にはログインされません。
 
-1. 「**管理**」をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
