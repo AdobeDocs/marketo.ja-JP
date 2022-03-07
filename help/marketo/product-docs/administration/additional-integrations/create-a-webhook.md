@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: Webhook の作成 - Marketo ドキュメント - 製品ドキュメント
 title: Webhook の作成
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Webhook の作成 {#create-a-webhook}
 
-Webhook を使用すると、サードパーティーの web サービスを活用して、テキストメッセージの送信、リードデータの拡張などを行うことができます。
+Webhook を使用すると、サードパーティの web サービスを活用して、テキストメッセージの送信、リードデータの拡張などを行うことができます。
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ Webhook を使用すると、サードパーティーの web サービスを活�
 
    >[!NOTE]
    >
-   >多くの場合、使用するサードパーティーのサービス証明書を、URL パラメーターまたは POST テンプレートとして入力します。
+   >多くの場合、使用するサードパーティのサービス証明書を、URL パラメーターまたは POST テンプレートとして入力します。
 
    * **URL**：Web サービスに対するリクエストを POST する際に使用する URL を入力します。リードのメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**トークンを挿入**」をクリックします。
 
