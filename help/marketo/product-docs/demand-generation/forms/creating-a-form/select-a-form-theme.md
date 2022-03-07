@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359400
-description: フォームテーマの選択 —Marketoドキュメント — 製品ドキュメント
-title: フォームテーマの選択
+description: フォームのテーマの選択 - Marketo ドキュメント - 製品ドキュメント
+title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# フォームテーマを選択{#select-a-form-theme}
+# フォームのテーマの選択 {#select-a-form-theme}
 
-私たちはあなたのフォームに素敵なテーマをたくさん作りました。 あなたはどちらが一番好きですか。
+フォームのために素敵なテーマをたくさん作りました。どちらが一番お好きですか。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **マーケティング活動**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. フォームを選択し、「**フォームを編集**」をクリックします。
+1. フォームを選択して、「**フォームの編集**」をクリックします。
 
    ![](assets/editform.png)
 
-1. 「**フォーム設定**」に移動します。
+1. 「**フォームの設定**」に移動します。
 
    ![](assets/image2014-9-15-17-7-7.png)
 
@@ -31,7 +30,7 @@ ht-degree: 5%
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
-   現在、7つの組み込みテーマがあります。
+   現在、7 つの組み込みテーマがあります。
 
    * 簡易
    * インセット
@@ -43,16 +42,16 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >また、フォームテーマ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)のCSSを[編集することもできます。
+   >また、[フォームテーマの CSS を編集する](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)こともできます。
 
-1. 「**次へ**」をクリックして他のフォームオプションを設定するか、フォームテーマを変更する場合は「**完了**」をクリックします。
+1. 他のフォームオプションを設定するには「**次へ**」をクリックします。フォームのテーマを変更するのみの場合は、「**完了**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-あれは何て簡単だったの？!HTML/CSSの本でゴミを集めるようにできます。
+簡単でしたね。HTML／CSS の本は読まなくても大丈夫です。
 
 >[!MORELIKETHIS]
 >
->* [フォームテーマのCSSの編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [フォーム追加のフィールド](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+>* [フォームテーマの CSS の編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [フォームへのフィールドの追加](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 
