@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2949253
-description: SEO — 受信リンクURLの削除/削除 —Marketoドキュメント — 製品ドキュメント
-title: SEO — 受信リンクURLの削除/削除
+description: SEO - インバウンドリンク URL の削除 - Marketo ドキュメント - 製品ドキュメント
+title: SEO - インバウンドリンク URL の削除
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SEO — 受信リンクURLの削除/削除{#seo-remove-delete-an-inbound-link-url}
+# SEO - インバウンドリンク URL の削除 {#seo-remove-delete-an-inbound-link-url}
 
-受信リンクを削除する場合があります。 その方法を次に示します。
+インバウンドリンクを削除する手順は次のとおりです。
 
-1. **Inbound Links**&#x200B;セクションに移動します。
+1. 「**インバウンドリンク**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
-1. 削除するインバウンドリンクURLの上にカーソルを置きます。
+1. 削除するインバウンドリンク URL にポインタを合わせます。
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
@@ -27,4 +26,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-この受信リンクは削除されました。
+インバウンドリンクを削除しました。
