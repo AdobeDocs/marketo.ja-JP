@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2360364
-description: 手順2/3 -Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited) -Marketoドキュメント — 製品ドキュメント
-title: ステップ2/3 -Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited)
+description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）- Marketo ドキュメント - 製品ドキュメント
+title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# 手順2/3:Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 手順 2／3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited） {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->これらの手順は、Salesforce管理者が実行する必要があります
+>これらの手順は、Salesforce 管理者が実行する必要があります
 
 >[!PREREQUISITES]
 >
->[手順1/3:Salesforce追加へのMarketoフィールド(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-この記事では、Salesforceプロファイルでユーザー権限を設定し、MarketoとSalesforceの統合アカウントを作成します。
+この記事では、Salesforce プロファイルでユーザー権限を設定し、Marketo-Salesforce 統合アカウントを作成します。
 
-## プロファイルの作成{#create-a-profile}
+## プロファイルの作成 {#create-a-profile}
 
-1. 「**セットアップ**」をクリックします。
+1. 「**設定**」をクリックします。
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
@@ -37,42 +36,42 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. 「**標準ユーザー**」を選択し、プロファイルに「Marketo-Salesforce Sync」という名前を付けて、「**保存**」をクリックします。
+1. 「**標準ユーザー**」を選択して、プロファイルに「Marketo-Salesforce 同期」という名前を付け、「**保存**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
-## プロファイル権限の設定{#set-profile-permissions}
+## プロファイル権限の設定 {#set-profile-permissions}
 
-1. 「**編集**」をクリックして、セキュリティ権限を設定します。
+1. 「**編集**」をクリックしてセキュリティ権限を設定します。
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. 「**管理権限**」セクションで、次のチェックボックスがオンになっていることを確認します。
+1. **管理権限**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
 
-   * API有効
-   * HTMLテンプレートの編集
-   * パブリックドキュメントの管理
-   * 公開テンプレートの管理
+   * API 有効
+   * HTML テンプレートを編集
+   * 公開ドキュメントを管理
+   * 公開テンプレートを管理
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
    >[!TIP]
    >
-   >「**パスワードの有効期限が切れない**」ボックスを必ずチェックしてください。
+   >**パスワードの有効期限なし**&#x200B;ボックスのチェックは必ずオンにしてください。
 
-1. 「一般的なユーザー権限」セクションで、次のチェックボックスがオンになっていることを確認します。
+1. 一般ユーザー権限セクションで、次のボックスがオンになっていることを確認します。
 
-   * リードのコンバージョン
-   * イベントの編集
-   * タスクの編集
+   * リードをコンバート
+   * イベントを編集
+   * タスクを編集
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 「標準オブジェクト権限」セクションで、「読み取り」、「作成」、「編集」、「削除」の権限が次の対象になっていることを確認します。
+1. 標準オブジェクト権限セクションで、読み取り、作成、編集、削除の権限が次の項目に対して有効になっていることを確認します。
 
    * アカウント
    * キャンペーン
-   * 連絡先
+   * 取引先責任者
    * リード
    * 商談
 
@@ -86,15 +85,15 @@ ht-degree: 3%
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
-## フィールド権限の設定{#set-field-permissions}
+## フィールド権限の設定 {#set-field-permissions}
 
-1. 同期に必要なカスタムフィールドを調べるには、マーケターと相談してください。
+1. 同期に必要なカスタムフィールドをマーケターと話し合います。
 
    >[!NOTE]
    >
-   >この手順により、不要なフィールドがMarketoに表示されるのを防ぎ、混乱を軽減し、同期を高速化します。
+   >この手順を実行すると、Marketo に表示する必要のないフィールドが防止され、混乱が軽減され、同期が高速化されます。
 
-1. プロファイルの詳細ページで、「**フィールドレベルセキュリティ**」セクションに移動します。 **表示**&#x200B;をクリックして、オブジェクトのアクセシビリティを編集します。
+1. プロファイルの詳細ページで、**フィールドレベルのセキュリティ**&#x200B;セクションに移動します。オブジェクトのアクセシビリティを編集するには、「**表示**」をクリックします。
 
    * リード
    * 取引先責任者
@@ -111,15 +110,15 @@ ht-degree: 3%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 不要なフィールドを探し、「**読み取りアクセス**」と「**アクセスを編集**」がオフになっていることを確認します。 終了したら「**保存**」をクリックします。
+1. 不要なフィールドを見つけ、**読み取りアクセス**&#x200B;と&#x200B;**編集アクセスを**&#x200B;がオフになっていることを確認してください。完了したら、「**保存**」をクリックします。
 
    >[!NOTE]
    >
-   >カスタムフィールドのアクセシビリティの編集のみを行います。
+   >カスタムフィールドのアクセシビリティのみを編集します。
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 不要なフィールドをすべて無効にした後、次のオブジェクトフィールドについて、**読み取りアクセスと編集アクセス**&#x200B;をチェックする必要があります。 終了したら「**保存**」をクリックします。
+1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**読み取りアクセスと編集アクセス**&#x200B;のチェックをオンにします。完了したら、「**保存**」をクリックします。
 
 <table> 
  <tbody> 
@@ -129,7 +128,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>アカウント</p></td> 
-   <td colspan="1" rowspan="1"><p>タイプフィールド</p></td> 
+   <td colspan="1" rowspan="1"><p>Type フィールド</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>イベント</p></td> 
@@ -144,22 +143,22 @@ ht-degree: 3%
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Marketo-Salesforce同期アカウントを作成{#create-marketo-salesforce-sync-account}
+## Marketo-Salesforce 同期アカウントを作成 {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
->専用のSalesforceアカウント(marketo@yourcompany.comなど)を作成し、Marketoが行った変更と他のSalesforceユーザーが行った変更を区別します。
+>Marketo が加えた変更と他の Salesforce ユーザーが加えた変更を区別するために、専用の Salesforce アカウント（marketo@yourcompany.com など）を作成します。
 
-1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**ユーザー**」をクリックします。 「**新しいユーザー**」をクリックします。
+1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**ユーザー**」をクリックします。「**新規ユーザー**」をクリックします。
 
    ![](assets/sfdc-new-users.png)
 
-1. 必須フィールドに入力します。 次に、**ユーザーライセンスを選択します。Salesforce**&#x200B;と、以前に作成したプロファイル。 終了したら「**保存**」をクリックします。
+1. 必須フィールドに入力します。次に、「**ユーザライセンス：Salesforce**」と、以前に作成したプロファイルを選択します。完了したら、「**保存**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-ステップ2/2が完了。
+手順 2／2 が完了しました。
 
 >[!NOTE]
 >
->[手順3/3:MarketoとSalesforceの接続(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
