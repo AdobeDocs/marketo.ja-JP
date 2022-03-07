@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11382122
-description: 監査記録の有効化 — Marketo ドキュメント — 製品ドキュメント
+description: 監査記録の有効化 - Marketo ドキュメント - 製品ドキュメント
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## 役割の監査記録を有効にする {#enable-audit-trail-for-a-role}
 
-1. 「**管理**」をクリックします。
+1. 「**管理者**」をクリックします。
 
    ![](assets/one-2.png)
 
