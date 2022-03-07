@@ -1,17 +1,15 @@
 ---
 unique-page-id: 557076
-description: 電子メールマーケティング — Marketto Docs — 製品ドキュメント
-title: 電子メールマーケティング
-translation-type: tm+mt
+description: メールマーケティング - Marketo ドキュメント - 製品ドキュメント
+title: メールマーケティング
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 電子メールマーケティング{#email-marketing}
+# メールマーケティング {#email-marketing}
 
-デスクトップ、タブレット、スマートフォンに電子メールを送信するかどうかに関係なく、Marketorはこの情報を提供します。
-** ![一般的な電子メールマーケティング](assets/office-27.png)一般的な電子メールマーケティング** [一般的な電子メールマーケティング全般的な電子メールマーケティング — すべてのものを電子メールで送信します。 ウーッ！](https://docs.marketo.com/display/DOCS/General)     **  ![Email ](assets/chat-messages-10.png)Programs電子メールプログラム** [電子メールプログラムA/Bテストを行い、簡単な4クリックウィザードで起動します。](https://docs.marketo.com/display/DOCS/Email+Programs)     **  ![Drip ](assets/ecology-14.png)NurturingDrip Nurturing**  [Drip Nurturingコンテンツストリームとカデンスを強力なエンゲージメントプログラムで設定します。](https://docs.marketo.com/display/DOCS/Drip+Nurturing)
+デスクトップ、タブレット、携帯電話のいずれにメールを送信する場合でも、Marketo が対応しています。** ![一般的なメールマーケティング](assets/office-27.png)一般的なメールマーケティング** [一般的なメールマーケティング あらゆることをメールで。ご確認ください。](https://docs.marketo.com/display/DOCS/General)     ** ![メールプログラム](assets/chat-messages-10.png)メールプログラム** [メールプログラム A/B テストと簡単な 4 クリックウィザードで一斉配信。](https://docs.marketo.com/display/DOCS/Email+Programs)     ** ![ドリップナーチャリング](assets/ecology-14.png)ドリップナーチャリング** [ドリップナーチャリング 強力なエンゲージメントプログラムを使用して、コンテンツストリームとケイデンスを設定します。](https://docs.marketo.com/display/DOCS/Drip+Nurturing)
