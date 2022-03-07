@@ -4,7 +4,7 @@ description: Facebook でのカスタムオーディエンスの作成- Marketo 
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '277'
 ht-degree: 100%
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 >
 >* 管理者セクションで、[Facebook カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)します。
 >* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約を承認します](https://www.facebook.com/ads/manage/customaudiences/tos.php)。
+
 >
 
 
