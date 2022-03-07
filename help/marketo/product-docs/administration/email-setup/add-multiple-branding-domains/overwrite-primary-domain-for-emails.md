@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11378051
-description: メールのプライマリドメインを上書きする — Marketo ドキュメント — 製品ドキュメント
+description: メールのプライマリドメインを上書きする - Marketo ドキュメント - 製品ドキュメント
 title: メールのプライマリドメインを上書きする
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
