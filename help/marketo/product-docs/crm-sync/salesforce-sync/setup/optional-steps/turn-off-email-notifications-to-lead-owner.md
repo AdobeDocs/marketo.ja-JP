@@ -1,25 +1,24 @@
 ---
 unique-page-id: 13795802
-description: リード所有者への電子メール通知を無効にする —Marketoドキュメント — 製品ドキュメント
-title: リードの所有者への電子メール通知を無効にする
+description: リード所有者へのメール通知をオフにする - Marketo ドキュメント - 製品ドキュメント
+title: リード所有者へのメール通知をオフにする
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# リードの所有者への電子メール通知を無効にする{#turn-off-email-notifications-to-lead-owner}
+# リード所有者へのメール通知をオフにする {#turn-off-email-notifications-to-lead-owner}
 
-リードの割り当て時にSalesforceのリード所有者に送信される自動電子メール通知を無効にできます。 これが方法です。
+リード割り当て時に Salesforce のリード所有者に送信される自動メール通知をオフにできます。手順は以下のとおりです。
 
-1. **管理者**&#x200B;に移動します。
+1. 「**管理**」に移動します。
 
    ![](assets/admin-1.png)
 
-1. **Salesforce**&#x200B;をクリックします。
+1. 「**Salesforce**」をクリックします。
 
    ![](assets/adminsalesforce.png)
 
@@ -27,6 +26,6 @@ ht-degree: 0%
 
    ![](assets/salesforcesummary2.jpg)
 
-1. **Salesforceの「Send email notification to owner in Salesforce of lead assignment**」ボックスのチェックを外します。 「**保存**」をクリックします。
+1. 「**リード割り当て時に Salesforce で所有者にメール通知を送信**」のチェックをオフにします。「**保存**」をクリックします。
 
    ![](assets/new-screen.png)
