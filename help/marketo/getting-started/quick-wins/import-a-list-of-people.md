@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2359418
-description: 人物のリストの読み込み — Marketo ドキュメント — 製品ドキュメント
-title: 人物のリストの読み込み
+description: 人物のリストのインポート - Marketo ドキュメント - 製品ドキュメント
+title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# 人物のリストの読み込み {#import-a-list-of-people}
+# 人物のリストのインポート {#import-a-list-of-people}
 
 ## ミッション：トレードショーの出席者のスプレッドシートリストをデータベースに読み込む {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
@@ -34,13 +34,13 @@ ht-degree: 91%
    >
    >読み込まれる日時フィールドは、すべて米中央時間として扱われます。日時フィールドのタイムゾーンが異なる場合、Excel の数式を使用して、中央時刻（米国／シカゴ）に変換できます。
 
-1. 自分の姓、名、実際のメールアドレス（次のミッションで送信する育成メールを受け取れるように）、役職を追加します。 ファイルをコンピューターに保存します。
+1. 自分の姓、名、実際のメールアドレス（次のミッションで送信するメールを受け取れるように）、役職を追加します。ファイルをコンピューターに保存します。
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
    >[!CAUTION]
    >
-   >Marketo **not** は、絵文字を含む電子メールアドレスをサポートします。
+   >Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
@@ -90,7 +90,7 @@ ht-degree: 91%
    >
    >CSV ファイルのサイズの上限は 100MB です。
 
-1. **PC  上の****tradeshow-attendees.csv** スプレッドシートファイルを参照し、「**次へ**」をクリックします。
+1. PC 上の **tradeshow-attendees.csv** スプレッドシートファイルを&#x200B;**参照**&#x200B;し、「**次へ**」をクリックします。
 
    ![](assets/eleven-2.png)
 
@@ -135,7 +135,7 @@ ht-degree: 91%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
