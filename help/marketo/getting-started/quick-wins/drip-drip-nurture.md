@@ -19,7 +19,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 >[!PREREQUISITES]
 >
 >* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [人物のリストの読み込み](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## 手順 1：エンゲージメントプログラムを作成する {#step-create-an-engagement-program}
