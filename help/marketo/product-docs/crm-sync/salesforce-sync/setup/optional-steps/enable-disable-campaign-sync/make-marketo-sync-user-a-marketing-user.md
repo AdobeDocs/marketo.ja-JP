@@ -1,29 +1,28 @@
 ---
 unique-page-id: 8782944
-description: Marketo同期ユーザーをマーケティングユーザーにする —Marketoドキュメント — 製品ドキュメント
-title: Marketo同期ユーザーをマーケティングユーザーにする
+description: Marketo 同期ユーザーをマーケティングユーザーにする — Marketo ドキュメント — 製品ドキュメント
+title: Marketo 同期ユーザーをマーケティングユーザーにする
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Marketo同期ユーザーをマーケティングユーザーにする{#make-marketo-sync-user-a-marketing-user}
+# Marketo 同期ユーザーをマーケティングユーザーにする {#make-marketo-sync-user-a-marketing-user}
 
-[Marketo同期ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)は、Salesforceキャンペーン同期が正しく動作するためには、マーケティングユーザーである必要があります。 Salesforceでユーザをマーケティングユーザにする方法を次に示します。
+Salesforce キャンペーン同期が正しく機能するには、[Marketo 同期ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)はマーケティングユーザーである必要があります。次に、Salesforce でユーザーをマーケティングユーザーにする方法を示します。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. Salesforceにログインします。 左の検索バーでユーザーを検索し、「**ユーザーの管理**」の下の「**ユーザー**」をクリックします。
+1. Salesforce にログインします。左の検索バーでユーザーを検索し、「**ユーザーを管理**」で「**ユーザー**」をクリックします。
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
-1. 同期ユーザーを探し、名前をクリックします。
+1. 同期ユーザーを見つけて、名前をクリックします。
 
    ![](assets/image2015-7-8-14-3a27-3a32.png)
 
@@ -31,8 +30,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. 「**マーケティングユーザー**」チェックボックスをオンにし、「**保存**」をクリックします。
+1. **マーケティングユーザー**&#x200B;チェックをオンにして、「**保存**」をクリックします。
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
-   OK！このMarketo同期ユーザーは、現在マーケティングユーザーです。
+   、この Marketo 同期ユーザーは、マーケティングユーザーになっています。
