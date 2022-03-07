@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: スマートキャンペーンでのリード広告フィルターとトリガーの使用 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンでのリード広告のフィルターとトリガーの使用
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
