@@ -3,7 +3,7 @@ unique-page-id: 2949870
 description: ReadyTalk を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ReadyTalk を使用したイベントの作成
 exl-id: 69967aba-d354-45f9-a25b-77f733a50225
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '431'
 ht-degree: 100%
