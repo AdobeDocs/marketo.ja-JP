@@ -60,4 +60,4 @@ Marketo アカウントを LinkedIn 一致オーディエンスに接続し、Ma
 
 >[!MORELIKETHIS]
 >
->[LinkedIn のオーディエンスセグメントとして Marketo リストまたはスマートリストを使用する。](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
