@@ -1,21 +1,21 @@
 ---
-description: フィールドを慎重に扱う —Marketoドキュメント — 製品ドキュメント
-title: フィールドを区別するフィールドとしてマーク
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
-workflow-type: tm+mt
+description: フィールドを機密としてマークする - Marketo ドキュメント - 製品ドキュメント
+title: フィールドを機密としてマークする
+exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フィールドを区別する{#mark-a-field-as-sensitive}
+# フィールドを機密としてマークする {#mark-a-field-as-sensitive}
 
-Marketo管理者は、特定のフィールドを「機密性の高い」マークを付けることができるので、フォームに値が事前入力されることがなく、ユーザーの機密データを保護できます。
+Marketo の管理者は、特定のフィールドを「機密」としてマークできます。値がフォームに事前入力されることがないので、ユーザーの機密データを保護できます。
 
 >[!NOTE]
 >
->この機能は、5月11日火曜日の夕方に、すべてのMarketoインスタンスで有効になります。
+>この機能は、5月11日（火）（PT）の夜に、すべての Marketo インスタンスで有効になります。
 
 1. 「**管理者**」をクリックします。
 
@@ -25,12 +25,12 @@ Marketo管理者は、特定のフィールドを「機密性の高い」マー�
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
-1. 目的のフィールドを探して選択します。
+1. 目的のフィールドを検索して選択します。
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. 「**フィールドを機密にする**」チェックボックスを選択します。
+1. 「**フィールドを機密としてマークする**」チェックボックスを選択します。
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 
-それだ！ 今後、事前入力が有効になっているMarketoフォームでは、選択したフィールドのデータは表示されません。
+これで完了です。今後、事前入力が有効になっている Marketo のフォームに、選択したフィールドのデータが表示されなくなります。
