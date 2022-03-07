@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359880
-description: フォルダを使用した画像とファイルの整理 —Marketoドキュメント — 製品ドキュメント
-title: フォルダを使用した画像とファイルの整理
+description: フォルダーを使用した画像とファイルの整理 - Marketo ドキュメント - 製品ドキュメント
+title: フォルダーを使用した画像とファイルの整理
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# フォルダーを使用して画像とファイルを整理する{#organize-your-images-and-files-using-folders}
+# フォルダーを使用した画像とファイルの整理 {#organize-your-images-and-files-using-folders}
 
-フォルダを作成すると、画像やファイルを移動したり、必要な画像のセットのみを表示したり、特定のフォルダに直接アップロードしたりできます。
+フォルダーを作成すると、画像やファイルを移動したり、必要な画像のセットのみを表示したり、特定のフォルダーに直接アップロードしたりできます。
 
-1. **Design Studio**&#x200B;に移動します。
+1. **Design Studio** に移動します。
 
    ![](assets/designstudio-7.png)
 
-1. 左のメニューで[**イメージとファイル**]を右クリックし、[**新しいフォルダ**]を選択します。
+1. **画像とファイル**&#x200B;を右クリックして、左側のメニューで、「**新規フォルダー**」を選択します。
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. 「**画像とファイル**」に移動します。これで、目的のフォルダーにドラッグ&amp;ドロップできます。
+1. **画像とファイル**&#x200B;に移動すると、目的のフォルダーにドラッグ＆ドロップできます。
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-ハイフィーブ！ フォルダーutopiaに設定されました。
+完成です。フォルダーをお楽しみください。
 
 >[!MORELIKETHIS]
 >
