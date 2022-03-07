@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2949204
-description: SEO — キー追加ワード —Marketoドキュメント — 製品ドキュメント
-title: SEO -追加キーワード
+description: SEO - キーワードの追加 - Marketo ドキュメント - 製品ドキュメント
+title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SEO -追加キーワード{#seo-add-keywords}
+# SEO - キーワードの追加 {#seo-add-keywords}
 
-キーワードとは、検索エンジンに入力する語句を指します。 貴社追加のビジネスに最も関連のあるキーワード。
+キーワードは、検索エンジンに入力するフレーズです。ビジネスに最も関連性の高いキーワードを追加します。
 
 >[!NOTE]
 >
->多数のキーワードがある場合は、[CSVファイル](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)を使用してインポートできます。
+>多くのキーワードがある場合、[CSV ファイルでインポート](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)できます。
 
 1. 「**キーワード**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. ターゲットするキーワードを入力し、「**保存**」をクリックします。
+1. ターゲットにするキーワードを入力し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -35,6 +34,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[キーワードについて(概要表示)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
-お疲れさま！ これで、キーワードリストに新しく追加したものが表示されます。
+これで完了です。キーワードリストに新しく追加された項目が表示されます。
