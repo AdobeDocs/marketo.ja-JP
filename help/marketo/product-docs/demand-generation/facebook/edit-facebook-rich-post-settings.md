@@ -3,7 +3,7 @@ unique-page-id: 2950555
 description: Facebook リッチ投稿設定の編集 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook リッチ投稿設定の編集
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '310'
 ht-degree: 100%
