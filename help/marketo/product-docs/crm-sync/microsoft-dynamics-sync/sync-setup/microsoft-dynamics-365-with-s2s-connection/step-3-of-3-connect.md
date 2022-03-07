@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する — Marketoドキュメント — 製品ドキュメント
-title: 手順 3 / 3 - Marketoソリューションをサーバー間接続で接続する
+description: 手順 3／3 - サーバー間接続を使用した Marketo ソリューションの接続 - Marketo ドキュメント - 製品ドキュメント
+title: 手順 3／3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '451'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 手順 3 / 3:Marketo Solution とサーバー間の接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 手順 3／3：サーバー間接続を使用した Marketo ソリューションの接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-これが同期の最後のステップです。 もう少しで着く！
+これが同期の最後のステップです。もう少しです。
 
 >[!PREREQUISITES]
 >
->* [手順 1/3:Marketo Solution とサーバー間接続のインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [手順 2 / 3:Marketoソリューションをサーバー間接続でセットアップする](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -26,11 +26,11 @@ ht-degree: 20%
 
 >[!IMPORTANT]
 >
->基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support) を参照してください。 この機能を有効にすると、新しい資格情報が入力され、同期が再度有効になるまで、同期が一時的に停止されます。 この機能は、古い認証モードに戻す際に（2022 年 4 月まで）無効にすることができます。
+>基本認証から OAuth にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能を有効にすると、新しい認証情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022 年 4 月まで）無効にすることができます。
 
 >[!NOTE]
 >
->新しい資格情報を入力する前に、次の操作を実行できます。 [ここでそれらを検証する](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+>新しい認証情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)できます。
 
 ## Dynamics 同期ユーザー情報を入力 {#enter-dynamics-sync-user-information}
 
@@ -38,37 +38,37 @@ ht-degree: 20%
 
    ![](assets/login-admin.png)
 
-1. クリック **CRM**.
+1. 「**CRM**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 選択 **Microsoft**.
+1. 「**Microsoft**」を選択します。
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. クリック **編集** in **手順 1:資格情報を入力**.
+1. **手順 1:資格情報を入力**&#x200B;で「**編集**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。 誤った組織 URL が使用されている場合は、新しいMarketoサブスクリプションを取得する必要があります。 URL がわからない場合は、 [ここで見つける方法を学ぶ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
-1. 次を入力します。 **ユーザー名**, **パスワード**, **クライアント ID**, **クライアント秘密鍵**、およびMicrosoft Dynamics **URL**. 終了したら「**保存**」をクリックします。
+1. **ユーザー名**、**パスワード**、**クライアント ID**、**クライアント秘密鍵**、Microsoft Dynamics **URL** を入力します。終了したら「**保存**」をクリックします。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketoのユーザー名は、 [電子メールアドレス](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 」と入力します。 形式は、 `user@domain.com` または DOMAIN\user.
+   >Marketoのユーザー名は、 [電子メールアドレス](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 」と入力します。 形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
-1. クリック **編集** in **手順 2:同期するフィールドを選択**.
+1. **手順 2：同期するフィールドを選択**&#x200B;で「**編集**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketoと同期するフィールドを選択し、事前に選択されます。 「**保存**」をクリックします。
+1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。「**保存**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -78,9 +78,9 @@ ht-degree: 20%
 
 ## カスタムフィルターのフィールドの同期 {#sync-fields-for-a-custom-filter}
 
-カスタムフィルターを作成した場合は、に入り、Marketoと同期する新しいフィールドを選択してください。
+カスタムフィルターを作成した場合は、中に入って、Marketo と同期する新しいフィールドを選択してください。
 
-1. 管理者に移動し、「 」を選択します。 **Microsoft Dynamics**.
+1. 「管理」に移動し、「**MIcrosoft Dynamics**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -94,19 +94,19 @@ ht-degree: 20%
 
 ## 同期の有効化 {#enable-sync}
 
-1. クリック **編集** in **手順 3:同期の有効化**.
+1. **手順 3：同期の有効化**&#x200B;で「**編集**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >Marketoは、Microsoft Dynamics の同期に対して、またはユーザーやリードを手動で入力した場合に、自動的に重複を排除しません。
+   >Marketo は、Microsoft Dynamics の同期や、手動で入力されたリードの場合には、自動的に重複排除をおこないません。
 
-1. ポップアップの内容をすべて読み、メールアドレスを入力して、 **同期を開始**.
+1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**同期を開始**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. 最初の同期には数時間かかる場合があります。 完了したら、電子メール通知が届きます。
+1. 初回の同期には数時間かかる場合があります。完了したら、電子メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
