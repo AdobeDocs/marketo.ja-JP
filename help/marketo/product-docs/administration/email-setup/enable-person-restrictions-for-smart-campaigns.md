@@ -50,5 +50,4 @@ Marketo には、スマートキャンペーンの条件を満たすリードの
 
 >[!MORELIKETHIS]
 >
->[スマートキャンペーンでのリード制限数の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)>
->
+>[スマートキャンペーンでのリード制限数の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
