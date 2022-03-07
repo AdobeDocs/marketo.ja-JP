@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2953471
-description: SFDC同期 — カスタムオブジェクト同期 —Marketoドキュメント — 製品ドキュメント
-title: SFDC同期 — カスタムオブジェクト同期
+description: SFDC 同期 - カスタムオブジェクトの同期  - Marketo ドキュメント - 製品ドキュメント
+title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SFDC同期：カスタムオブジェクト同期{#sfdc-sync-custom-object-sync}
+# SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-Salesforceインスタンスで作成されたカスタムオブジェクトも、Marketoの一部にすることができます。  設定方法を次に示します。
+Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。その設定方法を説明しましょう。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、Salesforceの[リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)、[連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)、または[アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)オブジェクトに関連付ける必要があります。
+>カスタムオブジェクトを使用するには、カスタムオブジェクトは Salesforce で[リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)、[連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)、[アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)オブジェクトのいずれかに関連付けられている必要があります。
 
-## カスタムオブジェクトを有効にする{#enable-custom-object}
+## カスタムオブジェクトの有効化  {#enable-custom-object}
 
-1. 「**管理者**」をクリックし、「**Salesforceオブジェクト同期**」リンクをクリックします。
+1. **管理者**／**Salesforce オブジェクト同期**&#x200B;リンクをクリックします。
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. これが最初のカスタムオブジェクトの場合は、[**スキーマを同期**]をクリックします。
+1. これが最初のカスタムオブジェクトの場合は、「**スキーマを同期**」をクリックします。
 
    ![](assets/rtaimage-2.png)
 
@@ -39,7 +38,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトも�
 
    >[!NOTE]
    >
-   >Salesforceカスタムオブジェクトスキーマの初期同期には、数分かかる場合があります。
+   >Salesforce カスタムオブジェクトスキーマの初期同期には、数分かかる場合があります。
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -49,7 +48,7 @@ Salesforceインスタンスで作成されたカスタムオブジェクトも�
 
    >[!NOTE]
    >
-   >カスタムオブジェクトには、一意の名前を付ける必要があります。 Marketoは、同じ名前を持つ2つの異なるカスタムオブジェクトをサポートしていません。
+   >カスタムオブジェクトには一意の名前が必要です。Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
 
 1. 「**同期を有効にする**」をクリックします。
 
@@ -61,9 +60,9 @@ Salesforceインスタンスで作成されたカスタムオブジェクトも�
 
    >[!NOTE]
    >
-   >グローバル同期を再度有効にするのを忘れないでください。
+   >忘れずにグローバル同期を再度有効にしてください。
 
-1. **Salesforce**&#x200B;タブに戻ります。
+1. 「**Salesforce**」タブに戻ります。
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -71,16 +70,16 @@ Salesforceインスタンスで作成されたカスタムオブジェクトも�
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. すべてのSalesforceカスタムオブジェクトを表示するには、**管理者**&#x200B;をクリックし、**Salesforceオブジェクト同期**&#x200B;リンク（上記の手順1と同じ）をクリックします。
+1. すべての Salesforce カスタムオブジェクトを表示するには、**管理者**／**Salesforce オブジェクト同期**&#x200B;リンクをクリックします（上記の手順 1 と同じ）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >Marketoは、1レベルまたは2レベルの深さの標準エンティティにリンクされたカスタムエンティティのみをサポートします。
+   >Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
 
-### 次の作業：{#whats-next}
+### 次の手順： {#whats-next}
 
-[スマートリスト/トリガー制約としての追加カスタムオブジェクトフィールドの削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
-素晴らしい！ このカスタムオブジェクトのデータをスマートキャンペーンおよびスマートリストで使用できるようになりました。
+これで完了です。これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
