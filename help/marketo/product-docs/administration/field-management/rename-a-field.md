@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360293
-description: フィールドの名前変更をおこなう - Marketo ドキュメント - 製品ドキュメント
-title: フィールドの名前変更をおこなう
+description: フィールドの名前を変更する - Marketo ドキュメント - 製品ドキュメント
+title: フィールドの名前を変更する
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,7 +10,7 @@ ht-degree: 100%
 
 ---
 
-# フィールドの名前変更をおこなう {#rename-a-field}
+# フィールドの名前を変更する {#rename-a-field}
 
 >[!NOTE]
 >
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
-1. 「管理」に移動し、「**フィールド管理**」をクリックします。
+1. 「管理者」に移動し、「**フィールド管理**」をクリックします。
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
