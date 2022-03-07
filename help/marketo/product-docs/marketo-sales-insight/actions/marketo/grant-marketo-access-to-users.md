@@ -1,25 +1,25 @@
 ---
 description: Marketoに対するユーザーアクセスの許可 — Marketoドキュメント — 製品ドキュメント
-title: Marketoへのアクセス権のユーザーへの付与
+title: ユーザーへの Marketo アクセス権の付与
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 3%
+source-wordcount: '221'
+ht-degree: 7%
 
 ---
 
-# Marketoへのアクセス権のユーザーへの付与 {#grant-marketo-access-to-users}
+# ユーザーへの Marketo アクセス権の付与 {#grant-marketo-access-to-users}
 
-この記事の手順に従って、MarketoのセールスユーザーにMarketo接続へのアクセス権を付与します。 これにより、ライブフィードの注目のアクションなどの機能がロック解除され、マーケティングキャンペーンにアクセスできます。
+この記事の手順に従って、Sales Insight アクションのユーザーにMarketo接続へのアクセス権を付与します。 これにより、ライブフィードの注目のアクションなどの機能がロック解除され、マーケティングキャンペーンにアクセスできます。
 
-次の操作が必要になります。 [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) (Marketoセールスの )Marketo/チームアクセスページに表示される前に、Marketo接続へのアクセス権が付与されます。
+ユーザーを [Sales Insight アクション](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) Marketo接続へのアクセス権が付与されたMarketo/[ チームアクセス ] ページ（Sales Insight アクション内）に表示される前に、このページに表示されます。
 
 >[!CAUTION]
 >
->Marketo Sales をMarketoに接続してから 10 分待ってから、これらの手順を実行してください。
+>Sales Insight のアクションをMarketoに接続してから、これらの手順を実行する前に 10 分お待ちください。
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 

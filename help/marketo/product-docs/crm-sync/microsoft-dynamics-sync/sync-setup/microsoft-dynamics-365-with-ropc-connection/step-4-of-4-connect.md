@@ -2,10 +2,10 @@
 description: 手順 4／4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 4／4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '415'
+ht-degree: 92%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 0%
 >
 >**管理者権限が必要**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->基本認証から OAuth にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能を有効にすると、新しい認証情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022 年 4 月まで）無効にすることができます。
+>基本認証から OAuth にアップグレードする場合は、 [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 認証を再設定します。
 
 ## Dynamics 同期ユーザー情報を入力 {#enter-dynamics-sync-user-information}
 

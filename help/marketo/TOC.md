@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 98%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 98%
          + 分析 {#analytics}
             + [テンプレートエンゲージメント](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + キャンペーン {#campaigns}
+            + [マーケティングキャンペーンへの追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce の連携 {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 98%
             + [Sales Insight のアクションは、メールの重複排除をどのように処理しますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Sales Connect ユーザーにキャンペーンを表示](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + リード {#people}
             + [リードの詳細表示](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight のアクションと GDPR コンプライアンス](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
