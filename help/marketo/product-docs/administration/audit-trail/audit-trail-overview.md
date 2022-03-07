@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->監査証跡のデータ履歴は、2016 年 9 月 14 日（PT）に始まります。
+>監査証跡のデータ履歴は、2016年9月14日（PT）に始まります。
 
 ![](assets/one.png)
 
@@ -81,5 +81,4 @@ Marketo は、次のものについて[作成、編集、削除](/help/marketo/p
 
 >[!MORELIKETHIS]
 >
->[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)>
->
+>[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
