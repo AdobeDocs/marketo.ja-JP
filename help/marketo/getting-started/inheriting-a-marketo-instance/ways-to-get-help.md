@@ -1,24 +1,23 @@
 ---
 unique-page-id: 7516931
-description: ヘルプの入手方法 —Marketoドキュメント — 製品ドキュメント
+description: ヘルプの入手方法 - Marketo ドキュメント - 製品ドキュメント
 title: ヘルプの入手方法
 exl-id: 4ad05a40-55d5-415b-b5e3-7766eb8c3e1c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# ヘルプを表示する方法{#ways-to-get-help}
+# ヘルプの入手方法 {#ways-to-get-help}
 
 ![](assets/life-preserver.jpg)
 
-まだ必要なものが見つからないの？ 何を知らないの？ 我々と繋がれ！ サポートを提供します。
+必要なものが見つけらない場合や、何を知らないのかわからない場合は、お問い合わせください。サポートを提供します。
 
-![—](assets/seo-29.png) 動作していない技術的なサポートが必要な場合は、 [**Marketoカスタマーサポートにお問い合わせください**](https://nation.marketo.com/t5/Support/ct-p/Support)。
+![-](assets/seo-29.png) 機能していないものに関する技術的なサポートは、[**Marketo カスタマーサポート**](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-![ — アドビのプロ](assets/seo-30.png) フェッショナルサービスチームとの連携については、marketoservices@adobe.comにご連絡く **ださい**。
+![-](assets/seo-30.png) アドビの Professional Services へのお問い合わせは、**marketoservices@adobe.com** にご連絡ください。
 
-![—Marketo](assets/education-science-08.png) の技術を身に付けるには、 [**Marketo大学に行ってください**](https://learn.marketo.com)。
+![-](assets/education-science-08.png) Marketo のスキルを構築するには、[**Marketo University**](https://learn.marketo.com) にアクセスしてください。
