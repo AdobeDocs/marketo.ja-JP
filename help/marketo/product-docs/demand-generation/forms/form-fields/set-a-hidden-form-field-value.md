@@ -16,8 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[フォームフィールドを非表示に設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)>
->
+>[フォームフィールドを非表示に設定](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## フィールドの選択 {#select-the-field}
 
@@ -59,7 +58,7 @@ Cookie にデータを保存する場合は、**Cookie 値**&#x200B;を使用し
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. 目的の Cookieの「パラメーター名」を入力し、「**保存**」をクリックします。
+1. 目的の Cookie の「パラメーター名」を入力し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
