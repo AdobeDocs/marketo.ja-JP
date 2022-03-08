@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8395'
 ht-degree: 98%
 
 ---
@@ -1238,7 +1238,7 @@ ht-degree: 98%
             + [動的フィールドでの自己参照](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + アクション {#actions}
-         + [MSI アクション機能の概要](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Sales Insight アクション機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + はじめに {#getting-started}
             + [MSI アクションユーザーのオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [MSI アクション管理者ガイド](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
