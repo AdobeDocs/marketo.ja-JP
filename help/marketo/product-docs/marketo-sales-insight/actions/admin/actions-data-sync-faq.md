@@ -4,10 +4,10 @@ title: アクションデータ同期の FAQ
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
+source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Sales Insight Actions のデータ統合フィールド同期を使用すると�
 
 これにより、Sales Insight Actions Web アプリで最新の人物データを提供し、Marketoの対応する人物レコードと Salesforce のリード/連絡先/アカウント/商談レコードの一意の ID を収集できるので、レコードをログデータに正しく参照できます。
 
-この同期は、Marketo Engageの「管理」セクションの「Sales Insight アクション設定」タブで有効にできます。 詳しくは、 [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
+この同期は、Marketo Engageの「管理」セクションの「Sales Insight アクション設定」タブで有効にできます。 詳しくは、 [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -59,7 +59,7 @@ Marketo Engageから Sales Insight アクションに同期する 11 のフィ�
 * Salesforce リード ID
 * Marketo ID
 * 企業
-* 職位
+* タイトル
 * メール
 * 電話番号
 * Linkedin URL
@@ -120,5 +120,5 @@ Sales Insight アクションを使用すると、管理者は、Salesforce に�
 >* [Marketo 配信停止チェック](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
 
