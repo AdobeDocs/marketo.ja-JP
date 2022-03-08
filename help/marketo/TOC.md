@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
+source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
 workflow-type: tm+mt
-source-wordcount: '8396'
+source-wordcount: '8397'
 ht-degree: 98%
 
 ---
@@ -1241,7 +1241,7 @@ ht-degree: 98%
          + [Sales Insight アクション機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + はじめに {#getting-started}
             + [Sales Insight Actions ユーザーオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [MSI アクション管理者ガイド](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+            + [MSI アクション管理者ガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
             + [Marketo Sales のパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + メール設定 {#email-settings}
                + [メールを確認](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1311,7 +1311,7 @@ ht-degree: 98%
                + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [リードページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce の設定 {#salesforce-configuration}
-            + [Salesforce での MSI アクションの設定](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Salesforce での Sales Insight アクション構成](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Salesforce Lightning カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + セールスメールの送信 {#send-a-sales-email}
