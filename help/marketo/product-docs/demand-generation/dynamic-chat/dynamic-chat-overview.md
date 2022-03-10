@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketoドキュメント — 製品ドキュメント
 title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 2%
+source-wordcount: '735'
+ht-degree: 3%
 
 ---
 
@@ -74,3 +74,71 @@ AI/NLP 機能はサポートしていません。
 **Dynamic Chat は英語以外の言語を提供していますか？**
 
 現時点ではありません。
+
+## ダイナミックチャットの制限 {#limits-in-dynamic-chat}
+
+<table>
+  <th>パラメータ</th>
+  <th>説明</th>
+  <th>制限</th>
+ <tr>
+  <td>合計ダイアログ</td>
+  <td>ダイアログの合計数（公開および下書き）</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>公開済みダイアログ</td>
+  <td>保存された公開済みダイアログの数</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>ダイアログごとの Target URL</td>
+  <td>単一のダイアログに追加できる Target URL の数</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>ダイアログごとの属性</td>
+  <td>単一のダイアログのオーディエンス条件に追加できる属性の数</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>グループ</td>
+  <td>単一のダイアログに追加できるグループの数</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>グループごとの属性</td>
+  <td>グループに追加できる属性の数</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>カード</td>
+  <td>ダイアログごとにキャンバスに追加できるカードの数</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>匿名リードデータ保持期間</td>
+  <td>エンゲージメントのない匿名リードの情報が保持される期間</td>
+  <td>90 日</td>
+ </tr>
+ <tr>
+  <td>目標アクティビティ保持期間</td>
+  <td>目標アクティビティデータの保持期間</td>
+  <td>24 か月</td>
+ </tr>
+ <tr>
+  <td>ドキュメントアクティビティ保持期間</td>
+  <td>ドキュメントの活動データが保持される時間</td>
+  <td>24 か月</td>
+ </tr>
+ <tr>
+  <td>ダイアログアクティビティ保持期間に関するインタラクション</td>
+  <td>ダイアログアクティビティデータとやり取りした時間が保持されます</td>
+  <td>90 日</td>
+ </tr>
+ <tr>
+  <td>会議予約アクティビティ保持期間</td>
+  <td>会議の予約アクティビティがダイナミックチャットに保存される時間</td>
+  <td>24 か月</td>
+ </tr>
+</table>
