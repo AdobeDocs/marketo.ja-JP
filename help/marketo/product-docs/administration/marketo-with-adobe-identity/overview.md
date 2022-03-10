@@ -2,9 +2,9 @@
 description: 概要 — Marketoドキュメント — 製品ドキュメント
 title: 概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ AdobeMarketo EngageをAdobeIdentity Management System に転送した場合、�
  <tr>
   <td><strong>Adobe Admin Console製品管理者</strong></td>
   <td>Adobe Admin Consoleでのユーザー製品に対するMarketo Engageの権限を付与します。 Adobe Admin Consoleでの役割を付与しました。</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console製品プロファイル管理</strong></td>
+  <td>管理者および関連するすべての管理機能に割り当てられている製品プロファイルの説明を管理します。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage製品管理者</strong></td>
@@ -68,7 +72,7 @@ AdobeIdentity Management System は、3 つのコンポーネントで構成さ�
 
 **User Management API クライアントのサポートに何か変更はありますか？**
 
-はい.。Adobe IMSに転送されたユーザーは、既存のMarketo User Management API をすべて利用できません。 ユーザーの招待、更新、削除のアクションの場合は、Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) を使用する必要があります。 ロール管理の場合、Marketo User Management API は引き続き適用されます。 これ以外に、Marketo REST API クライアントのサポートに対する他の変更はありません。
+はい。Adobe IMSに転送されたユーザーは、既存のMarketo User Management API をすべて利用できません。 ユーザーの招待、更新、削除のアクションの場合は、Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) を使用する必要があります。 ロール管理の場合、Marketo User Management API は引き続き適用されます。 これ以外に、Marketo REST API クライアントのサポートに対する他の変更はありません。
 
 **IMS と統合されている場合、サポートに問い合わせる相手は誰ですか？**
 
@@ -100,7 +104,7 @@ AdobeID に転送されたユーザーは、製品の購読切り替えボタン
 
 **これは SSO で機能しますか？**
 
-はい.。MarketoとAdobe IMSの統合では、ユニバーサル ID ユーザーと SSO がサポートされます。 SSO はAdobe IMSによって駆動され、Adobe Admin Consoleで組織レベルで設定されます。 [詳細はこちら](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を参照してください。
+はい。MarketoとAdobe IMSの統合では、ユニバーサル ID ユーザーと SSO がサポートされます。 SSO はAdobe IMSによって駆動され、Adobe Admin Consoleで組織レベルで設定されます。 [詳細はこちら](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を参照してください。
 
 **デバイス認証はどのように機能しますか？**
 
