@@ -2,9 +2,9 @@
 description: Dynamic Chat の概要 — Marketoドキュメント — 製品ドキュメント
 title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 3%
 
 ---
@@ -55,6 +55,10 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## よくある質問 {#faq}
 
+**レポート用にデータはどのくらいの期間保存されますか？**
+
+90 日（制限の完全なリストを参照） [下](#limits-in-dynamic-chat)) をクリックします。
+
 **Dynamic Chat はライブチャットを許可していますか？**
 
 いいえ、事前に決定された応答のみを利用します。
@@ -66,10 +70,6 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 **AI/NLP 機能をサポートしていますか。**
 
 AI/NLP 機能はサポートしていません。
-
-**レポート用にデータはどのくらいの期間保存されますか？**
-
-90 日.
 
 **Dynamic Chat は英語以外の言語を提供していますか？**
 
