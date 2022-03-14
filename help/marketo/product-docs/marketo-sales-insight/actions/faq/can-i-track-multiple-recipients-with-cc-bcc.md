@@ -1,12 +1,12 @@
 ---
-description: CC/BCC を使用して複数の受信者を追跡できますか？ Marketoドキュメント — 製品ドキュメント
+description: CC/BCC を使用して複数の受信者を追跡できますか - Marketo ドキュメント — 製品ドキュメント
 title: CC/BCC を使用して複数の受信者を追跡できますか
 hide: true
 hidefromtoc: true
 source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
