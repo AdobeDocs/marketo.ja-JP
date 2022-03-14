@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095389
-description: Microsoft Dynamics での連絡先の作成 -  Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamics での連絡先の作成 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics での連絡先の作成
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「人物を Microsoft に同期」フローアクション（トリガーキャンペーン内のみ）を使用した場合、リード／連絡先は Dynamics でリアルタイムに作成されます。
+   >「人物を Microsoft に同期」フローアクション（トリガーキャンペーン内のみ）を使用すると、Dynamics でリード／連絡先がリアルタイムで作成されます。
 
 1. Marketo は、Dynamics のリードレコードを、Dynamics のどのアカウントにも関連付けられていない連絡先に限定します。
 
