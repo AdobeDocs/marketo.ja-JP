@@ -4,9 +4,9 @@ description: リードのアクティビティログの検索 - Marketo ドキ�
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -30,19 +30,19 @@ ht-degree: 59%
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   これで、ある人の時間の経過に伴って発生するすべての情報のコレクションが作成されました。
+   これまで人物に起こった情報をすべて集めたものです。
 
    ![](assets/locate-the-activity-log-for-a-person-5.png)
 
-## アクティビティログの書き出し {#export-activity-log}
+## アクティビティログをエクスポートする {#export-activity-log}
 
-ユーザーのアクティビティログをExcelに書き出す必要がある場合
+人物のアクティビティログを Excel にエクスポートする必要がありますか？
 
-1. 上記の手順に従った後、ページの下部までスクロールし、「書き出し」アイコンを選択します。
+1. 上記の手順に従った後、ページの下部までスクロールし、「エクスポート」アイコンを選択します。
 
    ![](assets/locate-the-activity-log-for-a-person-6.png)
 
-1. Excelファイルがブラウザーにダウンロードされます。
+1. Excel ファイルがブラウザーにダウンロードされます。
 
    ![](assets/locate-the-activity-log-for-a-person-7.png)
 
