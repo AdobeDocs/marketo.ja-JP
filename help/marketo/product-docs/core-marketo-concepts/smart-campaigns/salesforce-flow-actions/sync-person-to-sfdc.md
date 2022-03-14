@@ -1,44 +1,43 @@
 ---
 unique-page-id: 1147027
-description: 担当者をSFDCに同期 —Marketoドキュメント — 製品ドキュメント
-title: 担当者を SFDC に同期
+description: 個人を SFDC に同期する - Marketo ドキュメント - 製品ドキュメント
+title: 個人を SFDC に同期する
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# 担当者を SFDC に同期 {#sync-person-to-sfdc}
+# 個人を SFDC に同期する {#sync-person-to-sfdc}
 
 >[!NOTE]
 >
->Salesforceと統合されている場合にのみ使用できます。
+>Salesforce との連携時にのみ有効です。
 
 ## 概要 {#overview}
 
-このフローステップは、Marketoが作成した人々をリードとしてSalesforce CRMに挿入します。
+このフローステップは、Marketo が作成した人物を Salesforce CRM に挿入するものです。
 
 ![](assets/sync-person-to-sfdc.png)
 
-## 使用状況 {#usage}
+## 使用方法 {#usage}
 
-1. デフォルトでは、このフロー手順は、Salesforce自動割り当てルールに基づいて、リードの所有者に割り当てられます。
+1. デフォルトでは、このフローステップは、Salesforce 自動割り当てルールに基づいてリード所有者に割り当てます。
 
    ![](assets/sync-person-to-sfdc.png)
 
    >[!TIP]
    >
-   >Salesforceでは、会社と姓のフィールドに入力する必要があります。 それ以外の場合は、リードレコードが拒否されます。
+   >Salesforce では、人物の「会社」と「姓」のフィールドが入力されている必要があります。入力されていない場合、リードレコードは拒否されます。
 
-1. 特定のSalesforceユーザーまたはリードキューをリード所有者として設定できます。
+1. 特定の Salesforce ユーザーまたはリードのキューをリード所有者として設定できます。
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   このフローステップを使用する場合、担当者はSalesforceのリードとして即座に同期され、通常の同期を待つ必要はありません。
+   このフローステップを使用する場合、人物は Salesforce のリードとして即座に同期され、通常の同期を待つ必要はありません。
 
    >[!CAUTION]
    >
-   >Salesforceでは、「連絡先」をリードキューに割り当てることはできません。 この場合、MarketoはSalesforceで重複「リード」を作成します。
+   >Salesforce では「連絡先」をリードのキューに割り当てることはできません。この場合、Marketo は Salesforce で「リード」を重複して作成します。
