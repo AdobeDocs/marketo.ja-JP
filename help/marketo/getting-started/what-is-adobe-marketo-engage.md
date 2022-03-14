@@ -1,52 +1,52 @@
 ---
 unique-page-id: 2949467
-description: AdobeMarketo Engageとは - Marketoドキュメント — 製品ドキュメント
-title: AdobeMarketo Engageとは
+description: Adobe Marketo Engage とは- Marketo ドキュメント — 製品ドキュメント
+title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# AdobeMarketo Engageとは {#what-is-adobe-marketo-engage}
+# Adobe Marketo Engage とは {#what-is-adobe-marketo-engage}
 
-AdobeMarketo Engage(Marketo Engage、または単にMarketoとも呼ばれる)は、マーケティング自動化ソフトウェアです。 マーケティングの自動化により、マーケティングタスクとワークフローを合理化、自動化、測定し、運用効率を高め、収益をより迅速に増やすことができます。
+Adobe Marketo Engage（Marketo Engage、または単に Marketo とも呼ばれます）は、マーケティング自動処理ソフトウェアです。マーケティングの自動処理により、マーケティングタスクとワークフローを合理化、自動化、測定できるので、運用効率を高め、収益をより迅速に伸ばすことができます。
 
-## Marketo Engage {#what-can-i-do-in-marketo-engage}
+## Marketo Engage でできること {#what-can-i-do-in-marketo-engage}
 
-Marketo Engageには、マーケティング目標の達成に役立つ優れた機能が数多く用意されています。 例えば…
+Marketo Engage には、マーケティング目標の達成に役立つ多くの優れた機能があります。例えば…
 
-* フォーム エディタ
-* ランディングページエディタ
+* フォームエディター
+* ランディングページエディター
 * ガイド付きランディングページテンプレート
-* メールエディタ
-* メール送風ツール
+* メールエディター
+* 一括メール送信ツール
 * セグメンテーション
 * 予測コンテンツ
 * ウェビナー統合
 * モバイルマーケティング
-* CRMと同期（SalesforceまたはDynamics）
-* Webサイトの統合
+* お使いの CRM との同期（Salesforce または Dynamics）
+* Web サイト統合
 * ワークフローエンジン
 * ユーザースコア
-* 営業担当向けのCRM内ダッシュボード
+* セール担当者向け CRM 内ダッシュボード
 * プログラム分析
 * ターゲットアカウント管理
 
-...その他多く！
+...その他多数
 
-## 私はそれを全て学ぶ必要がありますか？ {#do-i-need-to-learn-all-of-that}
+## すべて学ぶ必要があるのでしょうか？ {#do-i-need-to-learn-all-of-that}
 
-お前は違う！ Marketo Engageを始めるのは簡単で、あなたと共に進化します。 好きなら何でも学べるし、好きなだけ使える。
+ありません。Marketo Engage は簡単に使い始められます。Marketo Engage はあなたと共に進化します。すべてを学びたければ学び、それでなければ必要な部分を使うだけです。
 
 ## 何か設定が必要ですか？ {#do-i-need-to-do-any-setup}
 
-はい、](/help/marketo/getting-started/setup-steps/setup-checklist.md)を行うための[チェックリストを作成しました。
+はい、[するべきことのチェックリスト](/help/marketo/getting-started/setup-steps/setup-checklist.md)があります。
 
-## 設定が完了するまで待たなければなりませんか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## 学習を完了するまで設定を待たなければなりませんか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-いや！ 私たちは簡単なチュートリアルをたくさん作りました。 [こちらから始めます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。彼らは約1時間かかるはずです。 いつでも開始できます。
+いいえ。簡単なチュートリアルがたくさんあります。[こちらから開始できます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)。所要時間は 1 時間ほどです。いつでも開始できます。
 
-Marketo Engage へようこそ! 私たちはあなたがここに来てくれて嬉しい。
+Marketo Engage へようこそ! ご訪問ありがとうございます。
