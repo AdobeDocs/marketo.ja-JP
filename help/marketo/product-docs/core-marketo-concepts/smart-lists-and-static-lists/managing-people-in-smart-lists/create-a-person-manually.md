@@ -4,9 +4,9 @@ description: リードの手動作成 - Marketo ドキュメント - 製品ド�
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 88%
 
 >[!CAUTION]
 >
->Marketo **not** は、絵文字を含む電子メールアドレスをサポートします。
+>Marketo は、絵文字を含む電子メールアドレスを&#x200B;**サポートしていません**。
 
-1. **データベース**&#x200B;に移動します。
+1. 「**データベース**」に移動します。
 
    ![](assets/db-1.png)
 
