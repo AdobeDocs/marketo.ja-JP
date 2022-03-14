@@ -1,55 +1,55 @@
 ---
 unique-page-id: 12983291
-description: 受信者のタイムゾーンについて — Marketoドキュメント — 製品ドキュメント
-title: 受信者タイムゾーンを理解する
+description: 受信者タイムゾーンについて — Marketo ドキュメント — 製品ドキュメント
+title: 受信者タイムゾーンについて
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '391'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# 受信者タイムゾーンを理解する {#understanding-recipient-time-zone}
+# 受信者タイムゾーンについて {#understanding-recipient-time-zone}
 
-Eメールおよびエンゲージメントプログラムは、受信者のタイムゾーンに従って配信するように設定できるので、複数のプログラムを作成する必要がなくなり、1回送信するだけで、Marketoはローカル時間が正しくなるまでEメールを自動的に保持します。
+メールおよびエンゲージメントプログラムは、受信者のタイムゾーンに従って配信するように設定できるので、複数のプログラムを作成する必要がなくなります。1 度送信すると、メールは自動的にローカルで正しい時間まで保持されます。
 
 >[!NOTE]
 >
->受信者のタイムゾーンは、現在、電子メールコンテンツで&#x200B;**のみ**&#x200B;機能します。 デフォルトのエンゲージメントプログラムでは機能しません。
+>受信者タイムゾーンは現在&#x200B;**メールコンテンツのみ**&#x200B;で機能します。デフォルトのエンゲージメントプログラムに対しては機能しません。
 
 ## メールプログラム {#email-programs}
 
-[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)をスケジュールする場合、主に次の2つのシナリオが考えられます。
+[メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)には、次の 2 つの主なシナリオが考えられます。
 
-1. 次の25時間以内に実行するようにプログラムをスケジュールします。
-1. 25時間以上後（例：来週）に実行するようにプログラムをスケジュールします。
+1. 今後 25 時間以内に実行するようにプログラムをスケジュールする。
+1. 25 時間以上後（例：来週）に実行するようにプログラムをスケジュールする。
 
-各タイムゾーンに対応するために、受信者のタイムゾーンでスケジュールされた電子メールプログラムは、世界の&#x200B;**最初/最も早い**&#x200B;タイムゾーンの午前0時(UTC +14:00)に開始されます。
+各タイムゾーンに対応するために、受信者タイムゾーンでスケジュールされたメールプログラムの実行は、世界で&#x200B;**一番早い／最初の**&#x200B;タイムゾーン（UTC +14:00）で開始されます。
 
 ## エンゲージメントプログラム {#engagement-programs}
 
-[スケジュールを設定し、エンゲージメントプログラムストリーム](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)と受信者のタイムゾーンがアクティブになると、プログラムキャストはUTC +14:00の真夜中に実行を開始します。 ユーザーは世界中のすべてのタイムゾーンでキャストの資格を得る可能性があるので、最初のキャストを少なくとも25時間（24時間+キャンペーンを開始する時間）後にスケジュールする必要があります。 この時点での処理をUTC +14:00に開始すると、このキャストの資格を持つすべての人に対して、スケジュールされた日時にEメールを送信することが保証されます。
+[エンゲージメントプログラムストリームをスケジュール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)して受信者のタイムゾーンがアクティブな場合、プログラムキャストは午前 0 時（UTC +14:00）に実行を開始します。ユーザーは世界中のすべてのタイムゾーンでキャストの対象として認定される可能性があるので、最初のキャストを少なくとも 25 時間後（24 時間+キャンペーンの開始までしばらく）にスケジュールする必要があります。UTC +14:00 で処理を開始すると、キャストに該当するすべてのユーザーに対して、スケジュールされた日時にメールが送信されることが保証されます。
 
 ## タイムゾーンの計算 {#calculating-time-zone}
 
-Marketoは、人の市区町村、都道府県、国または郵便番号に基づいてタイムゾーンを計算します。 これらの値から他のユーザーのタイムゾーンを計算できない場合は、「推定都市」、「推定州」、「推定国」および「推定郵便番号」の各フィールドに戻ります。
+Marketo は、ユーザーの市区町村、都道府県、国または郵便番号に基づいてタイムゾーンを計算します。これらの値からタイムゾーンを計算できない場合は、推測される市区町村、推測される都道府県、推測される国、推測される郵便番号の各フィールドが使用されます。
 
-**唯一の**&#x200B;国または&#x200B;**のみ**&#x200B;の州がある場合：
+国&#x200B;**のみ**&#x200B;または州&#x200B;**のみ**&#x200B;の場合は、次のようになります。
 
-* タイムゾーンが3つ以下の国の場合は、中間タイムゾーンを選択します。
-* 2つのタイムゾーンのある状態の場合、前の2つを選択します。
+* 3 つ以下のタイムゾーンを持つ国の場合は、真ん中のタイムゾーンが選択されます。
+* 2 つのタイムゾーンを持つ州の場合は、2 つのうち早いほうが選択されます。
 
-これらのフィールドの組み合わせでもタイムゾーンが判断できない場合は、タイムゾーンを割り当てません。****&#x200B;電子メールはMarketoのサブスクリプションタイムゾーンに基づいて送信されます。 したがって、プログラムが午前9時にPDTに予約されている場合、タイムゾーンが割り当てられていない人は、午前9時に電子メールを送信します。
+これらのフィールドの組み合わせによってもユーザーのタイムゾーンを判断できない場合、タイムゾーンは割り当て&#x200B;**られず**、メールは Marketo サブスクリプションのタイムゾーンに基づいて送信されます。したがって、プログラムが午前 9 時（PDT）にスケジュールされている場合、タイムゾーンが割り当てられていないユーザーへのメールは午前 9 時（PDT）に送信されます。
 
 >[!NOTE]
 >
->Marketoは、上記の入力フィールドのいずれかが変更された場合、自動的にタイムゾーンを再計算します。
+>上記の入力フィールドのいずれかが変更された場合、ユーザーのタイムゾーンは自動的に再計算されます。
 
 >[!MORELIKETHIS]
 >
->* [受信者タイムゾーンを使用してメールプログラムをスケジュールする](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [受信者タイムゾーンを使用したメールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [メールプログラムのヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
->* [受信者のタイムゾーンに対するエンゲージメントプログラムのスケジュール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
