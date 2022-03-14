@@ -1,29 +1,28 @@
 ---
 unique-page-id: 1146931
-description: 新しいスマートキャンペーンの作成 —Marketoドキュメント — 製品ドキュメント
-title: 新しいスマートキャンペーンの作成
+description: 新規スマートキャンペーンの作成 - Marketo ドキュメント - 製品ドキュメント
+title: 新規スマートキャンペーンの作成
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 新しいスマートキャンペーンの作成{#create-a-new-smart-campaign}
+# 新規スマートキャンペーンの作成 {#create-a-new-smart-campaign}
 
-スマートキャンペーンはMarketoで最も重要なツールです。 ユーザーは1人のユーザーにトリガーし、アクションを実行できます。また、数百万人のユーザーをロールアップして、一連のフローステップを実行できます。
+スマートキャンペーンは、Marketo で最も重要なツールです。1 人の人物に対してトリガーを設定してアクションを実行したり、まとめて数百万人に一連のフローステップを実行したりできます。
 
 >[!NOTE]
 >
->スマートキャンペーンはとても格好良い。 詳しくは、[ここ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+>スマートキャンペーンはとても便利です。詳しくは、[こちら](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. **プログラム**&#x200B;を選択し、**新しい**&#x200B;の下の「**新しいローカルアセット**」をクリックします。
+1. **プログラム**&#x200B;を選択し、「**新規**」で「**新規ローカルアセット**」をクリックします。
 
    ![](assets/program-localassethands.png)
 
@@ -31,7 +30,7 @@ ht-degree: 0%
    >
    >スマートキャンペーンは、任意のプログラムのローカルアセットとして作成できます。
 
-1. **スマートキャンペーン**&#x200B;をクリックします。
+1. 「**スマートキャンペーン**」をクリックします。
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
@@ -39,10 +38,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 
-   クール！ 次に、スマートリストを使用して、スマートキャンペーンを実行するユーザーを定義する方法を説明します。
+   これで完了です。次に、スマートリストを使用してスマートキャンペーンを実行する人物を定義する方法を説明します。
 
    >[!MORELIKETHIS]
    >
-   >* [スマートキャンペーンのスマートリストの定義 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [スマートキャンペーンのスマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
