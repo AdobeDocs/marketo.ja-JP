@@ -1,31 +1,30 @@
 ---
 unique-page-id: 1147001
-description: 標準スマートリストルールロジックの使用 —Marketoドキュメント — 製品ドキュメント
-title: 標準スマート・リスト・ルール・ロジックの使用
+description: 標準スマートリストルールロジックの使用 - Marketo ドキュメント - 製品ドキュメント
+title: 標準スマートリストルールロジックの使用
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 標準的なスマートリストルールロジックの使用{#using-standard-smart-list-rule-logic}
+# 標準スマートリストルールロジックの使用 {#using-standard-smart-list-rule-logic}
 
-キャンペーンのスマートリストを構築する際に、「フィルターを使用」オプションが表示されている可能性があります。 この設定を使用すると、フィルターをANDまたはOR演算子で評価する必要があるかどうかを判断できます。
+キャンペーンスマートリストを作成する際に、「フィルターを使用」オプションがあることに気づいたかもしれません。この設定を使用すると、フィルターを AND または OR 演算子で評価する必要があるかどうかを決定できます。
 
 ![](assets/image2014-9-22-14-3a12-3a42.png)
 
 >[!NOTE]
 >
->スマートリストのルールロジックの変更は、フィルター&#x200B;**にのみ適用され、**&#x200B;トリガーには適用されません。
+>スマートリストルールロジックの変更は、フィルターのみに適用され、トリガーには&#x200B;**適用されません**。
 
-上記の設定がALLに設定されている場合でも、トリガーは常にORとして評価されます。  次に例を示します。
+トリガーは、上記の設定が ALL に設定されている場合でも、常に OR として評価されます。次に例を示します。
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
-上記のスマートリスト（単語）:
+上記のスマートリストを言葉にすると、次のようになります。
 
 ```box
 IF person fills out My Form
@@ -38,8 +37,8 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-したがって、ユーザーが&#x200B;**または**&#x200B;の形式でページを訪問した場合、キャンペーンは、使用された設定に応じて、**すべての**&#x200B;または&#x200B;**任意の**&#x200B;に基づいてそのフィルターを評価します。
+したがって、人物がフォームに入力する&#x200B;**または**&#x200B;ページを訪問すると、キャンペーンは、後続のフィルターの&#x200B;**すべて**&#x200B;または&#x200B;**いずれか**&#x200B;を基に人物を評価します（使用する設定に応じます）。
 
 >[!MORELIKETHIS]
 >
->[高度なスマートリスト・ルール・ロジックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[高度なスマートリストルールロジックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
