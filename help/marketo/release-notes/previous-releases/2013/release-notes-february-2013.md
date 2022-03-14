@@ -4,32 +4,32 @@ description: リリースノート - 2013年2月 - Marketo ドキュメント - 
 title: リリースノート - 2013年2月
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2013年2月 {#release-notes-february}
 
-2月リリースには、強くリクエストされた機能、Apple Safariのサポートおよびその他の小規模な機能強化が含まれています。
+2月のリリースには、要望が多かった機能、Apple Safari のサポートおよびその他の小規模な機能強化が含まれています。
 
-## Apple Safariの公式サポート {#official-support-for-apple-safari}
+## Apple Safari に対する正式なサポート {#official-support-for-apple-safari}
 
-Marketo Lead Managementでの使用は、MacおよびWindows用Apple Safariの最新バージョンが完全にサポートされています。 注意：iOS上のSafariは完全な互換性がありません。
+Mac 版 Apple Safari および Windows 版の最新バージョンでは、Marketo リード管理での使用が完全にサポートされています。注釈：iOS 上の Safari は完全には互換していません。
 
-## Webフックの強化 {#webhooks-enhancements}
+## Web フックの機能強化 {#webhooks-enhancements}
 
-Webフックは、URL/ペイロード内のトークンをエスケープするように拡張され、サードパーティシステムからのXML/JSON応答を解析することで、Marketoリードフィールドを更新することもできます（Spark SMBエディションでは利用できません）。
+Web フックは、URL／ペイロード内のトークンをエスケープするように拡張され、サードパーティシステムからの XML／JSON 応答を解析することで、Marketo リードフィールドを更新することもできます（Spark SMB エディションでは利用できません）。
 
-## SOAP APIエンドポイントの更新 {#updated-soap-api-endpoint}
+## SOAP API エンドポイントの更新 {#updated-soap-api-endpoint}
 
-優先するSOAP APIエンドポイントが更新されました。これは、管理/SOAP APIに表示されます。 この新しいエンドポイントを使用するように呼び出しを更新してください。 古いエンドポイントに対するAPI呼び出しは非推奨ですが、引き続き機能します。 （Spark SMBエディションではSOAP APIは使用できません）
+優先する SOAP API エンドポイントが更新されました（管理／SOAP API に表示されます）。この新しいエンドポイントを使用するには、呼び出しを更新してください。古いエンドポイントに対する API 呼び出しは非推奨ですが、引き続き機能します。（Spark SMB エディションでは SOAP API は使用できません）
 
-## facebookタブのモバイルサポート {#mobile-support-for-facebook-tabs}
+## Facebook タブのモバイルサポート {#mobile-support-for-facebook-tabs}
 
-Marketoから公開されたfacebookタブは、モバイルデバイスを検出し、ランディングページにルーティングします。 これにより、Facebookのタブがサポートされていないモバイルデバイス(Spark、Standard、Select SMB EditionsおよびMarketo Social Marketingで利用可能)で適切なコンテンツをユーザーが取得できます。
+Marketo から公開された Facebook タブは、モバイルデバイスを検出してランディングページにルーティングします。これにより、Facebook タブがサポートされていないモバイルデバイス（Spark、Standard、Select SMB エディションおよび Marketo ソーシャルマーケティングで利用可能）で適切なコンテンツをユーザーが取得できます。
 
 ## 準備中：複数モデルのサポート {#coming-soon-support-for-multiple-models}
 
-複数の収益サイクルモデルをサポートするための基盤を築き、#1 RCAのアイデアをコミュニティで投票し、将来のリリースで実現します。 このリリースでは、モデルとステージの選択をサポートする[スマートリストフィルターやフローステップに選択肢を追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)など、いくつかの変更が加えられています。 また、「スマートリストリード・グリッド」タブから「リード収益ステージ」フィールドと「リード収益サイクル・モデル」フィールドを移動します。
+アドビは、コミュニティでの RCA に対するアイデアとして得票数が最も多かった、複数の収益サイクルモデルを将来のリリースでサポートしようと取り組んでいます。このリリースでは、モデルとステージの選択をサポートする[スマートリストフィルターやフローステップへの選択肢の追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)など、いくつかの変更が加えられています。また、「スマートリストリードグリッド」タブから「リード収益ステージ」フィールドと「リード収益サイクルモデル」フィールドを移動します。
