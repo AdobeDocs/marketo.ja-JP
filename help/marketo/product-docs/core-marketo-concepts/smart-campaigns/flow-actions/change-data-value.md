@@ -43,5 +43,5 @@ Marketo を使用して、フィールドの値を更新できます。更新す
    >[!NOTE]
    >
    >* [フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-   * [フィールドへのデータ追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+   >* [フィールドへのデータ追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
 
