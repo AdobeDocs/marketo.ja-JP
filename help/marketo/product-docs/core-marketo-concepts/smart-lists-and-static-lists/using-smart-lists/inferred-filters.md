@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2953188
-description: 推定フィルター-Marketoドキュメント — 製品ドキュメント
-title: 推定フィルター
+description: 推測フィルター - Marketo ドキュメント - 製品ドキュメント
+title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 推定フィルター{#inferred-filters}
+# 推測フィルター {#inferred-filters}
 
-誰かが貴社のウェブサイトを訪れた時、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)はCookieを作り、システムに入れます。 IPを特別なデータベースで調べ、あらゆる良い情報を推測します。 見て。
+web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、システムに格納されます。訪問者の IP を特別なデータベースで調べて、有益な情報を推測することができます。確認してみてください。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -27,18 +26,18 @@ ht-degree: 0%
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-スマートリストでこれらのフィルターのいずれかを使用すると、その結果、推定された情報を持つユーザーが生成されます。
+スマートリストでこれらのフィルターのいずれかを使用すると、推測される情報を持つ人物が表示されます。
 
 >[!TIP]
 >
->これらのフィルターは、Webアクティビティレポートで使用します。 販売担当者の担当地域を使用し、過去24時間のWebサイト訪問者を含むカスタム日次レポートに登録します。 彼らはそれを愛する！
+>これらのフィルターを web アクティビティレポートで使用します。セールス担当の担当地域を使用して、過去 24 時間以内に web サイトの訪問者を含むカスタム日次レポートに登録します。きっと気に入ることでしょう。
 >
->* 訪問済みWebページ — 過去24時間
->* 推定状態は[自分の領土]を選択します
+>* Web ページにアクセス - 過去 24 時間
+>* 推測される都道府県／地域に、[担当地域を選択]します。
 
 
-これらの匿名訪問者は、電子メールリンクをクリックしたりフォームに入力したりすると、自動的に人に変換されます。 ただし、推測された情報はすべて保持されます。
+匿名の訪問者は、メールリンクをクリックしたりフォームに入力したりすると、自動的に人物に変換されます。ただし、推測される情報はすべて保持されます。
 
 >[!NOTE]
 >
->[匿名アクティビティとリード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)の詳細を確認します。
+>詳しくは、[匿名のアクティビティとリード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)を参照してください。
