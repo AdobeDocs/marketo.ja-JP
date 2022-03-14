@@ -1,5 +1,5 @@
 ---
-description: Dynamics Campaign での人物の追加または削除 — Marketo ドキュメント — 製品ドキュメント
+description: Dynamics Campaign での人物の追加または削除 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamics Campaign での人物の追加または削除
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
