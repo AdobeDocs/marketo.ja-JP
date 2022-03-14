@@ -3,7 +3,7 @@ unique-page-id: 14352615
 description: 「コンテンツ」タブについて - Marketo ドキュメント - 製品ドキュメント
 title: 「コンテンツ」タブについて
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '185'
 ht-degree: 100%
