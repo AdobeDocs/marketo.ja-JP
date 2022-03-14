@@ -16,7 +16,7 @@ Marketo にはとても便利な組み込み済みのスマートリストがあ
 
 >[!NOTE]
 >
->Marketo は、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新段階で、UI やドキュメントのスクリーンショットに古い用語が表示され、ドキュメントの文章に新しい用語が表示される場合があります。ご迷惑をおかけして申し訳ございません。
+>Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
 
 1. 「**データベース**」に移動します。
 
@@ -51,5 +51,4 @@ Marketo にはとても便利な組み込み済みのスマートリストがあ
 
 >[!MORELIKETHIS]
 >
->[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
->
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
