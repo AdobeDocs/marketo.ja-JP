@@ -99,10 +99,10 @@ ht-degree: 100%
 >* 会社情報
 >* SFDC 連絡先の商談
 >* 作成日や元のソースタイプなど、Marketo 固有の特定のフィールド。
+
 >
 >詳細は[システム管理フィールド](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)をご覧ください。
 
 >[!MORELIKETHIS]
 >
->[ユーザーの詳細ページ用のカスタムタブの作成](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)>
->
+>[ユーザーの詳細ページ用のカスタムタブの作成](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
