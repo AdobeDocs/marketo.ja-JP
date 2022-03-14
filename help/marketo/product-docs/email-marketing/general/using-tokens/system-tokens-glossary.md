@@ -1,77 +1,76 @@
 ---
 unique-page-id: 1147344
-description: システムトークン用語集 —Marketoドキュメント — 製品ドキュメント
-title: システムトークン用語集
+description: システムトークンの用語集 — Marketo ドキュメント — 製品ドキュメント
+title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# システムトークン用語集{#system-tokens-glossary}
+# システムトークンの用語集 {#system-tokens-glossary}
 
-personトークンに加えて、非常にクールなシステムトークンを使用できます。 はい。
+ユーザートークンに加えて、本当にクールなシステムトークンを使用できます。こちらです。
 
 >[!NOTE]
 >
->アカウントのタイムゾーンの設定は、日時トークンの実行時期に影響します。
+>アカウントのタイムゾーン設定は、日時トークンが実行されるタイミングに影響します。
 
 ## system.date {#system-date}
 
-`{{system.date}}`トークンは、次のように実行時に現在の日付をレンダリングします。**2013年8月8日**
+`{{system.date}}` トークンは、実行時に現在の日付を **Aug 08, 2013** のようにレンダリングします。
 
-**機能：**
+**使用場所：**
 
-* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
-* 電子メールまたはテンプレートの本文
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
+* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* メールまたはテンプレートの本文
 
 ## system.time {#system-time}
 
-`{{system.time}}`トークンは、次のように実行時に現在時間をレンダリングします。**04:34 PM (GMT -0700)**
+`{{system.time}}` トークンは、実行時に現在時刻を **04:34 PM (GMT -0700)** のようにレンダリングします。
 
-**機能：**
+**使用場所：**
 
-* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
-* 電子メールまたはテンプレートの本文
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
+* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* メールまたはテンプレートの本文
 
 ## system.dateTime {#system-datetime}
 
-`{{system.dateTime}}`トークンは、次のように実行時に現在の日時をレンダリングします。**2013-08-08 16:36:13**
+`{{system.dateTime}}` トークンは、実行時に現在の日時を **2013-08-08 16:36:13** のようにレンダリングします。
 
-**機能：**
+**使用場所：**
 
-* [データ値の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) フロー手順の変更
-* [注目の](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) モーメントフローのステップ
-* [タスクフ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ロー手順の作成
-* 電子メールまたはテンプレートの本文
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
+* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* メールまたはテンプレートの本文
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}`トークンを使用すると、電子メール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)内の[&#39;Friend Linkに転送&#39;の配置を制御できます。
+`{{system.forwardToFriendLink}}` トークンを使用すると、[メール内の「友達に転送リンク」](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)の配置を制御できます。
 
-**機能：**
+**使用場所：**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
+* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-`{{system.unsubscribLink}}`トークンを使用すると、電子メール内での登録解除リンクの配置を制御できます。
+`{{system.unsubscribLink}}` トークンを使用すると、メール内の登録解除リンクの配置を制御できます。
 
-**機能：**
+**使用場所：**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
+* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-`{{system.viewAsWebpageLink}}`トークンを使用すると、電子メール内のWebページリンクとして表示の配置を制御できます。
+`{{system.viewAsWebpageLink}}` トークンを使用すると、メール内の「Web ページとして表示」リンクの配置を制御できます。
 
-**次と連携します。**
+**使用場所：**
 
-* [電子メー追加ルテンプレート内のリンクとしてのシステムトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 
+* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
