@@ -1271,7 +1271,7 @@ ht-degree: 98%
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce のカスタマイズ {#salesforce-customization}
-               + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
             + Salesforce の連携 {#salesforce-integration}
                + [Salesforce アクティビティ詳細のカスタマイズ設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Marketo Sales アカウントの Salesforce への接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
