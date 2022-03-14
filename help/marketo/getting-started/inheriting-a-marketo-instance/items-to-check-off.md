@@ -1,30 +1,29 @@
 ---
 unique-page-id: 7516605
-description: チェックオフ項目 —Marketoドキュメント — 製品ドキュメント
-title: チェックオフする項目
+description: 実行するべきこと - Marketo ドキュメント - 製品ドキュメント
+title: 実行するべきこと
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# チェックオフする項目{#items-to-check-off}
+# 実行するべきこと {#items-to-check-off}
 
 ![](assets/life-preserver.jpg)
 
-適切な種類のアクセスと情報が適切に設定されていることを確認します。 次の簡単な手順を実行して、TODOリストからすぐにいくつかのことを確認できます。
+適切な種類のアクセスと情報で適切に設定されていることを確認します。これらの簡単な手順を実行すると、TODO リストのいくつかの項目にすぐにチェックマークを入れることができます。
 
-* [**Marketoの**](https://pages2.marketo.com/demoFull.html)の動作を簡単に見てみましょう。
+* [**Marketo について**](https://pages2.marketo.com/demoFull.html)の簡単な概要を見る。
 
-* **Marketing** Nationsコミュニティで [****](https://nation.marketo.com/) プロファイルを設定します（ユーザー名とパスワードが必要）。
+* [**Marketing Nation**](https://nation.marketo.com/) コミュニティの&#x200B;**プロファイルを設定**&#x200B;する（ユーザー名とパスワードが必要です）。
 
-* [**マーケティングの国**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)コミュニティと連携して、ご質問に対する回答を得る方法を説明します。
+* [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) コミュニティで、質問に対する回答を取得する。
 
-* **Marketo民族コミュニティプロファイルの[**]をクリックして、会社のアカウントページをチェックアウトします。
+* Marketo Nation コミュニティプロファイルの「**場所**」をクリックして、会社のアカウントページを確認する。
 
-* [**サポートケース**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201)を送信する方法（および&#x200B;[**認定サポート連絡先**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)として設定されていることを確認する）を説明します。
+* [**サポートケースを提出する**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201)方法を学ぶ（また、[**認証済みのサポート担当者として設定**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)されていることを確認する）。
 
-* [**ユー**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) ザーを管理し、会社ーを離れたユーザーを削除します。
+* [**ユーザーを管理**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)&#x200B;し、会社を離れたユーザーを削除する。
