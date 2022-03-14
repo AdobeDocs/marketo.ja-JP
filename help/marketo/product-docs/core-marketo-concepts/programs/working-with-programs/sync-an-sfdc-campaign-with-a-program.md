@@ -4,7 +4,7 @@ description: SFDC キャンペーンとプログラムの同期 - Marketo ドキ
 title: SFDC キャンペーンとプログラムの同期
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ Marketo を使用すると、プログラムを Salesforce キャンペーンと
 >
 >SFDC キャンペーンを Marketo プログラムと同期する場合、プログラムの子キャンペーンに対して、暗黙の SFDC アクション（例：SFDC キャンペーンへの追加、SFDC への同期）が無効になります。
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
