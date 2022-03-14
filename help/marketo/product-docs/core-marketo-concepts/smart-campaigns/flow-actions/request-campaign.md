@@ -1,46 +1,45 @@
 ---
 unique-page-id: 2951703
-description: リクエストキャンペーン-Marketoドキュメント — 製品ドキュメント
+description: キャンペーンのリクエスト - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーンのリクエスト
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # キャンペーンのリクエスト {#request-campaign}
 
-**リクエストキャンペーン**&#x200B;の単一フローステップを使用して、特定のキャンペーンにユーザーを配置できます。
+特定のキャンペーンに人物を配置するには、「**キャンペーンのリクエスト**」単一フローステップを使用できます。
 
 >[!NOTE]
 >
->担当者を配置するキャンペーンはアクティブで、**[キャンペーンが要求済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**&#x200B;トリガーである必要があります。
+>人物を配置するキャンペーンはアクティブで、「**[キャンペーンをリクエスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**」トリガーが設定されている必要があります。
 
-1. **データベース**&#x200B;で、目的のユーザーを探して選択します。
+1. **データベース**&#x200B;で、目的の人物を検索して選択します。
 
    ![](assets/one-5.png)
 
-1. 「**個人アクション**」をクリックし、「**特別な**」の上にマウスポインターを置いて、「**キャンペーンをリクエスト**」を選択します。
+1. 「**人物のアクション**」をクリックし、「**特別**」にポインタを合わせ、「**キャンペーンのリクエスト**」を選択します。
 
    ![](assets/two-5.png)
 
-1. ユーザーを配置するキャンペーンを選択し、「**今すぐ実行**」をクリックします。
+1. 人物を配置するキャンペーンを選択し、「**今すぐ実行**」をクリックします。
 
    ![](assets/three-4.png)
 
-1. 画面の右上に、いつ表示されるかがわかります。 「**表示結果**」をクリックします。
+1. 完了すると、画面の右上に表示されます。「**結果を表示**」をクリックします。
 
    ![](assets/four-4.png)
 
-   これで、ユーザーは「要求された」キャンペーンに入ります。
+   キャンペーンのリクエストに人物が追加されました。
 
    ![](assets/five-1.png)
 
-   すごい仕事！
+   これで完了です。
 
 >[!TIP]
 >
->**キャンペーンは要求済み**&#x200B;トリガーまたはフィルターを使用して、このフロー手順の影響を受ける人を探します。
+>「**キャンペーンをリクエスト**」トリガーまたはフィルターを使用して、このフローステップの影響を受ける人を検索します。
