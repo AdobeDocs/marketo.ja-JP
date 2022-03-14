@@ -4,9 +4,9 @@ description: 非ネイティブ Salesforce 統合用 Sales Insight - Marketo ド
 title: 非ネイティブ Salesforce 統合用 Sales Insight
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 source-git-commit: 73c5375c6e2ec3b2dce09595be1f61f302ff4c25
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1300'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ Marketo アカウントが、カスタマイズされた統合または非ネイ
 
 >[!PREREQUISITES]
 >
->* Marketo インスタンスに対して有効になっている MSI 非ネイティブ機能が有効になっていない場合は、MSI の設定を開始する前に (この機能を購入した場合は、Marketo サポートまでご連絡ください [ ](https://nation.marketo.com/t5/support/ct-p/Support) 。この機能がまだ購入されていない場合は、カスタマーの成功管理者にお問い合わせください)。
+>* MSI の設定を開始する前に、Marketo　インスタンスに対して「MSI 非ネイティブ」機能が有効になっています（既に購入済みであるが有効になっていない場合は、[Marketo　サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能をまだ購入していない場合は、カスタマーサクセスマネージャーにお問い合わせください）。
 >* [MSI パッケージが設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)された Salesforce アカウント。
 >* Marketo REST API が[正常に設定](https://developers.marketo.com/rest-api/)されている。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を参照してください。
@@ -54,7 +54,7 @@ Marketo アカウントが、カスタマイズされた統合または非ネイ
 </table>
 
 セールス担当者向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-セールス担当者を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST)
+セールス担当者を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Sales_Persons/syncSalesPersonsUsingPOST)
 
 1. Salesforce アカウントを Marketo に同期します。
 
@@ -123,7 +123,7 @@ Marketo アカウントが、カスタマイズされた統合または非ネイ
 </table>
 
 リード向け API ドキュメント：[`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
-リードを同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+リードを同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/syncLeadUsingPOST)
 
 1. Salesforce の商談を Marketo に同期します。
 
@@ -260,6 +260,6 @@ Marketo アカウントが、カスタマイズされた統合または非ネイ
  </tbody> 
 </table>
 
-リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/getLeadByIdUsingGET).
 
 非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、アカウントの下にある MSI ウィジェットにリードのアクティビティや注目のアクションが表示されない場合、リードの企業かアカウントのどちらかが正しく同期されていない可能性があります。外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、Salesforce のそのユーザーのメールと一致する必要があります。メールが一致しない場合、Salesforce の「Marketo」タブにデータが表示されないことがあります。
