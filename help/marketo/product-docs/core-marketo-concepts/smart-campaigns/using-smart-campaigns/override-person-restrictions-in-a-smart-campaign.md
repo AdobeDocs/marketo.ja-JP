@@ -18,7 +18,7 @@ Marketo では、スマートキャンペーンに振り分けられる最大リ
 >
 >Marketo 管理で、[スマートキャンペーンに対するリード制限を有効](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)にします。
 
-1. マーケティングアクティビティで、スマートキャンペーンに移動し、「**スケジュール**」をクリックします。
+1. 「マーケティング活動」で、スマートキャンペーンに移動し、「**スケジュール**」をクリックします。
 
    ![](assets/one.png)
 
