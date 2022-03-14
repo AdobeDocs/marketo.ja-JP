@@ -16,10 +16,9 @@ Marketo には、メールアドレスを照合して重複するリードを見
 
 >[!PREREQUISITES]
 >
->[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)>
->
+>[スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」領域に移動します。
 
 ![](assets/ma-2.png)
 
