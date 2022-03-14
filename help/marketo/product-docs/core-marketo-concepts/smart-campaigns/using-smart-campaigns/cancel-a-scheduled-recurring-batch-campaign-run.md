@@ -38,5 +38,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[予定されているバッチキャンペーンの実行のキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)>
-   >
+   >[予定されているバッチキャンペーンの実行のキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
