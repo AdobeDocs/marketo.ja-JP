@@ -1,16 +1,16 @@
 ---
-description: 場所の追跡の仕組み — Marketoドキュメント — 製品ドキュメント
-title: 場所の追跡の仕組み
+description: 位置トラッキングの仕組み — Marketo ドキュメント — 製品ドキュメント
+title: 位置トラッキングの仕組み
 hide: true
 hidefromtoc: true
 source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# 場所の追跡の仕組み {#how-does-location-tracking-work}
+# 位置トラッキングの仕組み {#how-does-location-tracking-work}
 
 受信者の場所が正しくない場合は、次の 3 つの可能性があります。
 
