@@ -4,9 +4,9 @@ description: サポートされているブラウザー — Marketo ドキュメ
 title: サポートされているブラウザー
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 source-git-commit: c1dbd244fe113a4cd7f6d72d68ae8f673d01117e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
