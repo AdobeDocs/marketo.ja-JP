@@ -64,5 +64,5 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [カスタムタグの作成](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
-* [プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
