@@ -1,140 +1,139 @@
 ---
 unique-page-id: 12979858
-description: パフォーマンスインサイトFAQ -Marketoドキュメント — 製品ドキュメント
-title: パフォーマンスインサイトFAQ
+description: パフォーマンスインサイトに関する FAQ — Marketo ドキュメント — 製品ドキュメント
+title: パフォーマンスインサイトに関する FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1357'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# パフォーマンスインサイトFAQ {#performance-insights-faq}
+# パフォーマンスインサイトに関する FAQ {#performance-insights-faq}
 
-## 「エンゲージメント」タブの「成功」の定義は何ですか。{#what-is-the-definition-of-success-in-the-engagement-tab}
+## 「エンゲージメント」タブの「成功」の定義は何ですか？ {#what-is-the-definition-of-success-in-the-engagement-tab}
 
-成功はMarketoでの有意義な交流の尺度です。 プログラムの目的は、人や見込み客との有意義なインタラクションを作成することです。 成功は、その目標を達成したステータスに達したときにマークされます。 ウェビナーに参加したり、電子メール内のリンクをクリックしたり、Webフォームに入力したりできます。 成功は、プログラムのチャネルによって異なります。
-
->[!NOTE]
->
->ウェビナープログラムでは、次のような複数のステータスがある場合があります。招待、登録および参加。 招待や登録は、実際にウェビナーを見ないので、意味のあるインタラクションではありません。 この場合、「出席」は成功と見なされます。
-
-## MPIはどのCRMでも動作しますか。{#will-mpi-work-with-any-crm}
-
-はい. 技術的には、MPIはCRMと直接やり取りしてデータ同期を行いません。 MPIは、Marketo分析Data Warehouseに保存されたデータを利用します。 CRMの同期はリード管理アプリケーションで行われるので、リード管理アプリケーションと統合されたMarketoでサポートされるCRMでは、データが正しく表示されます。 ただし、CRMオポチュニティフィールドは、Marketoオポチュニティフィールドに正しくマップする必要があります。
-
-## 他のMarketing Analytics製品(ARB、RCE、RCA、プログラム分析)はありません。 MPIは私のために機能するの？{#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
-
-MPIは、リード管理アプリケーションに対する独立したアドオンです。 他の解析製品を使用する必要はありません。
-
-## RCAはプログラムのパフォーマンスデータも表示します。 MPIとRCAに表示されるデータに違いはありますか。{#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
-
-いいえ. MPIソースのデータは、RCAと同じデータウェアハウスから取得されます。 したがって、この2つのデータの違いは一切見られません。 RCAを使用すると、自分のレポートをその場で作成できます。 MPIを使用すると、わかりやすいビジュアルダッシュボードにアクセスできます。
-
-## MPIでプログラム（運用環境など）の一部を表示したくない。 特定のプログラムの表示/非表示を制御する方法を教えてください。{#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
-
-プログラムのAnalytics動作を「運用」に設定することで、プログラムの表示を制御できます。 これにより、プログラムが分析の計算から除外されます。
+成功は、Marketo での有意義なインタラクションの尺度です。プログラムの目的は、リードまたは見込み客との有意義なインタラクションを作成することです。成功は、その目標を達成したステータスに達したときにマークされます。オンラインセミナーへの参加、メールリンクのクリックし、Web フォームへの記入が例です。成功は、プログラムチャネルによって異なります。
 
 >[!NOTE]
 >
->解析動作の設定について詳しくは、[ここ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)を参照してください。
+>ウェビナープログラムには、招待済み、登録済み、出席済みのような複数のステータスがあります。「招待済み」や「登録済み」は、実際にウェビナーが視聴されたわけではないので、意味のあるインタラクションではありません。この場合、「出席済み」は成功と見なされます。
 
-## 新製品の発売時にマルチチャネルキャンペーンを実行しています。 このキャンペーンのパフォーマンスを、様々なチャネル全体で1か所に表示する方法を教えてください。{#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
+## MPI は任意の CRM で動作しますか？ {#will-mpi-work-with-any-crm}
 
-このようなキャンペーンのプログラムには、プログラムタグを使用することをお勧めします。 プログラムタグはMPIに自動的に同期され、すべてのMPIダッシュボードでフィルタリングして、マルチチャネルキャンペーンのパフォーマンスを表示できます。
+はい。技術的には、MPI はデータ同期用に CRM と直接やり取りしません。MPI では、Marketo AnalyticsData Warehouse に保存されたデータが利用されます。リード管理アプリケーションで CRM 同期がおこなわれるので、Marketo でサポートされているリード管理アプリケーションと統合された CRM では、データが正しく表示されます。ただし、CRM 商談フィールドを Marketo 商談フィールドに正しくマッピングする必要があります。
 
-## RCAがない場合、アトリビューション設定にアクセスできますか？{#will-i-have-access-to-attribution-settings-if-i-do-not-have-rca}
+## 他のマーケティング分析製品（ARB、RCE、RCA、プログラム分析）を持っていません。MPI を使用できますか？ {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
-MPIを使用している場合は、RCAの有無に関係なく、アトリビューション設定にアクセスできます。
+MPI は、リード管理アプリケーションへの独立したアドオンです。他の Analytics 製品を使用する必要はありません。
 
-## MPIでログイン時に、属性設定が正しくないという警告が表示されます。 何か問題が？{#i-get-an-alert-in-mpi-when-i-log-in-telling-me-that-my-attribution-settings-are-incorrect-what-s-wrong}
+## RCA はプログラムのパフォーマンスデータも表示します。MPI と RCA に示されるデータに違いはありますか？ {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-MPIは、すべてのオポチュニティが分析に含まれているかどうかを計算します。 そうでない場合は、より多くのオポチュニティを含めるためにアトリビューション設定（明示的、暗黙的、ハイブリッド）の変更を検討するよう求められます。
+いいえ。MPI は RCA と同じデータウェアハウスからデータをソースします。したがって、2 つの間のデータの違いは一切見られません。RCA を使用すると、すぐに独自のレポートを作成できます。MPI を使用すると、わかりやすいビジュアルダッシュボードにアクセスできます。
 
-また、プログラムにプログラムコストがないためにオポチュニティが見つからない場合もあります。 プログラムのAnalyticsの動作を確認してください。 次のように指定できます。
+## MPI に一部のプログラム（オペレーショナルなど）を表示させたくありません。特定のプログラムの表示を制御するには、どうすればよいですか？ {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
-1. デフォルト — MPI ONLYに含まれるプログラムは、期間コストが1つ以上の場合（ドルがゼロの場合も含む）のみです。
-
-1. 包括的 — このオプションは、期間のコストが含まれているかどうかに関係なく、MPIでプログラムを使用できるようにします。
-
-1. [操作](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  — このオプションを選択すると、MPIにプログラムが表示されません。
+プログラムの Analytics 動作を「オペレーショナル」に設定することで、プログラムの表示を制御できます。これにより、分析の計算からプログラムが除外されます。
 
 >[!NOTE]
 >
->期間コスト&#x200B;**には、エンゲージメントダッシュボードの成功と新しい名前のレポート用に**&#x200B;が設定されています。 このダッシュボードでは、集計の成功や新しい名前に期間コストのデータを利用します。 期間コストが設定されていない場合、上記のAnalyticsの動作設定に関係なく、エンゲージメントダッシュボードは正しくレポートされません。
+>分析動作の設定の詳細については[こちら](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)をご覧ください。
 
-## MPIで機会が欠けているのはなぜですか。{#why-am-i-missing-some-opportunities-in-mpi}
+## 新しい製品ローンチ用にマルチチャネルキャンペーンを実行しています。すべての様々なチャネルにわたって、このキャンペーンのパフォーマンスを 1 か所で表示するにはどうすればよいですか？ {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
-MPIでオポチュニティが見つからない主な理由は次の2つです。
+このようなキャンペーンの一部となるプログラムには、プログラムタグを利用することをお勧めします。プログラムタグは MPI に自動的に同期され、すべての MPI ダッシュボードでフィルタリングして、マルチチャネルキャンペーンのパフォーマンスを表示できます。
 
-1. アトリビューション設定が「明示的」に設定されているが、オポチュニティに連絡先ロールが割り当てられていない
-1. 期間コストはプログラムに含まれません
+## RCA がない場合、属性設定にアクセスできますか？ {#will-i-have-access-to-attribution-settings-if-i-do-not-have-rca}
 
-MPIは、すべてのオポチュニティが分析に含まれているかどうかを計算します。 そうでない場合は、より多くのオポチュニティを含めるためにアトリビューション設定（明示的、暗黙的、ハイブリッド）の変更を検討するよう求められます。
+RCA を持っているかどうかに関係なく、MPI を持っている場合は、属性設定にアクセスできます。
 
-また、プログラムにプログラムコストがないためにオポチュニティが見つからない場合もあります。 警告が表示されますが、コストの不足しているプログラムは示されません。 プログラムの設定を確認してコストを含め、プログラムとオポチュニティがすべてMPIに含まれていることを確認してください。
+## ログイン時に、属性設定が正しくないことを示す警告が MPI に表示されます。何が問題なのですか？ {#i-get-an-alert-in-mpi-when-i-log-in-telling-me-that-my-attribution-settings-are-incorrect-what-s-wrong}
 
-## アクションダッシュボードにカスタムフィールド、オポチュニティタイプ、ABMフィルターが表示されないのはなぜですか。{#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
+MPI は、すべての商談が分析に含まれているかどうかを計算します。含まれていない場合は、より多くの商談を含めるために、属性設定（明示的、暗黙的、ハイブリッド）の変更を検討するよう求められます。
 
-カスタムフィールド、オポチュニティタイプ、ABMフィルターは、すべてオポチュニティに関連する属性です。 「エンゲージメント」ダッシュボードを使用すると、エンゲージメントおよびリードの獲得を、オポチュニティに関連付けられているかどうかに関係なく測定できます。 エンゲージメントダッシュボードではオポチュニティが考慮されないので、「カスタムフィールド」、「オポチュニティタイプ」および「ABM」フィルターは適用されません。
+また、プログラムのコストが見つからないため、商談が見つからない場合もあります。プログラムの Analytics の動作を確認してください。次のことが可能です。
 
-## 標準のSalesforce Opportunity Amountフィールドではなく、売上高のレポートにカスタムのSalesforce Opportunityフィールドを使用したい。 MPIは私にそれを許可するのか？{#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+1. デフォルト — デフォルトの動作は、1 つ以上の期間原価がある場合に MPI にのみ含まれます（0 ドルが割り当てられている場合も含む）。
 
-はい. [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) サポートでは、フィールドタイプが通貨である限り、Marketoの「Opportunity Amount」フィールドをカスタムのSalesforce Opportunityフィールドに再マップできます。MPIは「Salesforce amount」フィールドを指すので、MPIは、再マッピングされたカスタムSalesforceフィールドのデータを使用できます。
+1. 含む — このオプションは、期間原価を含めているかどうかに関係なく、MPI でプログラムを使用できるようにします。
+
+1. [オペレーショナル](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  — このオプションを選択すると、プログラムが MPI に表示されなくなります。
 
 >[!NOTE]
 >
->再マッピング後、MPIはデータを今後表示します。 履歴金額は変更されません。
+>期間原価は、成功名と新しい名前のレポートをエンゲージメントダッシュボードで設定する&#x200B;**必要**&#x200B;があります。このダッシュボードでは、期間原価データを使用して、成功と新しい名前を集計します。期間原価が設定されていない場合、上記の Analytics の動作設定に関係なく、エンゲージメントダッシュボードは正しくレポートされません。
 
-## オポチュニティを使用しない場合でもMPIを使用できますか。{#if-i-don-t-use-opportunities-can-i-still-use-mpi}
+## MPI からいくつかの商談が欠落しているのはなぜですか？ {#why-am-i-missing-some-opportunities-in-mpi}
 
-MPIは、ファネルの上部から売上高への影響まで、プログラムのパフォーマンスを測定できるように設計されています。 オポチュニティを使用しない場合でも、次のことが可能です。
+MPI で商談が欠落している主な理由は次の 2 つです。
 
-* オーディエンス関与のための育成プログラムの表示パフォーマンス。
-* リード獲得プログラムの表示パフォーマンス。
-* プログラムタグを使用したマルチチャネルキャンペーンの表示パフォーマンス。
-* 過去12か月間のオーディエンス関与の傾向を確認。
-* PowerPointでパフォーマンスデータを保存およびエクスポートします。
+1. 属性設定は「明示」に設定されているが、商談に連絡先の役割が割り当てられていない
+1. 期間原価がプログラムに含まれていない
 
-## MPIでアカウント・ベースの戦略の成功を測定できますか。{#can-i-measure-the-success-of-account-based-strategies-in-mpi}
+MPI は、すべての商談が分析に含まれているかどうかを計算します。含まれていない場合は、より多くの商談を含めるために、属性設定（明示的、暗黙的、ハイブリッド）の変更を検討するよう求められます。
 
-はい. MPIは[MarketoTAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)と統合され、ABMアカウントリストをMPIにシームレスに取り込みます。 「ABMアカウントリスト」フィルタを使用して、データをフィルタするABMリストを選択できます。
+また、プログラムのコストが見つからないため、商談が見つからない場合もあります。警告が表示されますが、どのプログラムにコストが足りないかは示されません。すべてのプログラムと商談が MPI に含まれていることを確認するには、コストを含むようにプログラムの設定を確認してください。
 
-## MPIを購入するとすぐにアトリビューションが利用できますか。{#is-attribution-instantly-available-when-i-purchase-mpi}
+## エンゲージメントダッシュボードにカスタムフィールド、商談タイプ、ABM フィルターが表示されないのはなぜですか？ {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-Marketoアトリビューション機能は、お客様がMPIを購入する際に利用できます。 ただし、オポチュニティとプログラムのデータがMPIに正しく流れるように、[適切なセットアップ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)が必要です。
+カスタムフィールド、商談タイプ、ABM フィルタは、商談に関連するすべての属性です。エンゲージメントダッシュボードを使用すると、エンゲージメントとリード獲得を、商談に関連付けられているかどうかを測定できます。エンゲージメントダッシュボードでは商談を考慮していないので、カスタムフィールド、商談タイプ、ABM フィルターは適用されません。
 
-## アトリビューションの設定に必要な作業は何ですか？{#what-do-i-have-to-do-to-set-up-attribution}
+## 売上高レポートに、標準の「Salesforce 商談額」フィールドではなく、カスタムの「Salesforce 商談」フィールドを使用したいのですが、可能ですか? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-1. 営業案件の設定
+はい。[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)は、フィールドタイプが通貨である限り、Marketo の「商談額」フィールドをカスタムの「Salesforce 商談」フィールドに再マッピングできます。MPI は「Marketo 商談額」フィールドを参照するので、MPI は再マッピングされたカスタム Salesforce フィールドのデータを使用できます。
 
-   1. オポチュニティがCRMと同期されていることを確認する
-   1. アトリビューション設定が「明示的」に設定されている場合は、オポチュニティに関する連絡先の役割が表示されていることを確認します
-   1. アトリビューション設定をハイブリッドに変更することをお勧めします
+>[!NOTE]
+>
+>再マッピング後、MPI は今後のデータを表示します。履歴金額は変更されません。
+
+## 商談を使用しない場合、MPI を引き続き使用できますか？ {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
+
+MPI は、ファネルの上部から収益への影響まで、プログラムのパフォーマンスを測定できるように設計されています。商談を利用しない場合でも、次のことが可能です。
+
+* オーディエンスエンゲージメントのための育成プログラムのパフォーマンスを表示する。
+* リード獲得プログラムの実績を表示する。
+* プログラムタグを使用して、マルチチャネルキャンペーンのパフォーマンスを表示する。
+* 過去 12 か月間のオーディエンスエンゲージメントの傾向を確認する。
+* PowerPoint でパフォーマンスデータを保存および書き出す。
+
+## MPI ではアカウントベースの戦略の成功を測定できますか？ {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
+
+はい。MPI では [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) ABM アカウントリストがシームレスに取り込まれます。「ABM アカウントリスト」フィルターを使用して、データをフィルターする目的の ABM リストを選択できます。
+
+## MPI を購入すると、属性は即座に利用できますか？ {#is-attribution-instantly-available-when-i-purchase-mpi}
+
+Marketo 属性機能は、MPI を購入した際に利用できます。ただし、商談とプログラムのデータが MPI に正しく流れるようにするためには、[適切な設定](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)が必要です。
+
+## 属性を設定するには、どうすればよいですか？ {#what-do-i-have-to-do-to-set-up-attribution}
+
+1. 商談の設定
+
+   1. 商談が CRM と同期されていることを確認します。
+   1. 「属性」設定が「明示」に設定されている場合は、商談に関する連絡先の役割が必ず設定されるようにします
+   1. 「属性」設定を「ハイブリッド」に変更することをお勧めします
    1. プログラムセットアップ
 
       1. プログラムにプログラムコストを含める
-      1. 解析の動作を確認して、プログラムを解析に含めるかどうかを指定します
-      1. チャネルの成功基準を設定する
-      1. 人をプログラムに結び付ける
+      1. 分析動作をレビューして、プログラムを分析に含める必要があるかどうかを示します
+      1. あるすべてのチャネルの達成基準を設定します
+      1. 担当者をプログラムに結び付ける
 
-         1. ファーストタッチアトリビューションが機能するように、データベース内の各ユーザーに対して獲得プログラムと獲得日が設定されていることを確認します。
-         1. プログラムがデータベース内のユーザーの成功状態を設定していることを確認します。
+         1. ファーストタッチ属性を機能させるために、データベース内の各ユーザーに対して獲得プログラムと獲得日が設定されていることを確認します。
+         1. プログラムで、データベース内のユーザーに対して成功状態が設定されていることを確認します
 
 >[!TIP]
 >
->必要なすべてのセットアップ手順の詳細については、[この記事](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)を参照してください。
+>必要なすべての設定手順について詳しくは、[この記事](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)で説明されています。
 
-## MPIとプログラム・アナライザの違いは何ですか？{#whats-the-difference-between-mpi-and-the-program-analyzer}
+## MPI とプログラムアナライザーの違いは何ですか？ {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
-プログラム・アナライザを使用すると、最大4つの測定でプログラムを比較できます。 MPIを使用すると、成功、新しいオポチュニティ作成など、選択した指標に対するチャネルとプログラムの貢献度を分析できます。 また、選択した1つの特定の指標に基づいて、12か月のチャネルトレンドを表示することもできます。
+プログラムアナライザーを使用すると、最大 4 つの測定をまたいでプログラムを比較できます。MPI を使用すると、成功、新規商談の作成など、選択した指標に対するチャネルおよびプログラムの貢献度を分析できます。また、選択した 1 つの特定の指標に基づいて、12 か月のチャネルトレンドを表示できます。
 
-## MPIとアドバンスReport Builderの違いは何ですか。{#whats-the-difference-between-mpi-and-the-advanced-report-builder}
+## MPI と Advanced Report Builder の違いは何ですか？ {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-アドバンスReport Builder（RCEとも呼ばれます）は、通常、マーケティングオペレーションが行うセルフサービス（アドホック）レポート向けに設計されています。 MPIは、マーケティングリーダーやマーケターがパフォーマンス分析にワンクリックでアクセスできるように設計されています。 最小限の設定が必要です。
+Advanced Report Builder（RCE とも呼ばれます）は、セルフサービス（またはアドホック）レポート用に設計されています。通常は Marketing Operations がおこないます。MPI は、マーケティングリーダーとマーケターがパフォーマンス分析に 1 回のクリックでアクセスできるように設計されています。最小限の設定が必要です。
 
-## 貢献度の日付フィルターの「前年」オプションはどうなりましたか？{#what-happened-to-the-previous-year-option-in-contributions-date-filter}
+## 貢献度の日付フィルターの「前年」オプションはどうなりましたか？ {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 
-「前年」の選択を一時的に解除しました。 「カスタム日付範囲」を選択して、年間のパフォーマンスデータを表示することもできます。
+「前年」の選択を一時的に解除しました。「カスタムデータ範囲」選択を使用することで、引き続き、年全体のパフォーマンスデータ全体を表示するオプションがあります。
