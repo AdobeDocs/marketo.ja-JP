@@ -1,11 +1,11 @@
 ---
-description: Adobe Experience PlatformセグメントのMarketo静的リストへのプッシュ — Marketoドキュメント — 製品ドキュメント
+description: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
 source-wordcount: '658'
-ht-degree: 21%
+ht-degree: 86%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 21%
 >
 >* [API ロールの編集](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 確かに **読み取り/書き込み担当者** 権限（アクセス API ドロップダウンの下）
 >* Marketo で [API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
->* に移動します。 **管理者** > **Launchpoint**. 作成した役割の名前を探し、「**詳細を表示**」をクリックします。情報をにコピーして保存します。 **クライアント ID** および **クライアント秘密鍵**&#x200B;手順 7 に必要な場合に使用します。
+>* **管理者**／**Launchpoint** に移動します。作成した役割の名前を探し、「**詳細を表示**」をクリックします。手順 7 で必要になるため、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 
 
@@ -41,40 +41,40 @@ ht-degree: 21%
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
-1. クリック **新しい宛先の設定**.
+1. 「**新しい宛先を設定**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
 
-1. 「アカウントタイプ」で、「既存または新規のアカウント」ラジオボタンを選択します ( この例では、 **既存のアカウント**) をクリックします。 「アカウントを選択」アイコンをクリックします。
+1. 「アカウントタイプ」で、既存または新規アカウントラジオボタンを選択します（この例では、「**既存アカウント**」）をクリックします。「アカウントを選択」アイコンをクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
    >[!NOTE]
    >
-   >新しいアカウントを選択している場合は、 **管理者** > **Munchkin** ( ログイン後のMarketo URL の一部でもあります )。 この記事の最上部にある前提条件に従って作成する必要があるクライアント ID／シークレット。
+   >新規アカウントを選択する場合、**管理者**／**Munchkin** に移動すると、Munchkin ID を見つけることができます（ログイン後の Marketo URL の一部でもあります）。この記事の最上部にある前提条件に従って作成する必要があるクライアント ID／シークレット。
 
-1. 宛先アカウントを選択し、 **選択**.
+1. 宛先アカウントを選択し、「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 宛先を入力 **名前** およびオプションの説明。 「人物の作成」ドロップダウンをクリックし、「既存のMarketoの人物を照合」および「Marketoで見つからない人物を作成」を選択します。 _または_ 「既存のMarketoの担当者のみに一致」 この例では、前者を選択しています。
+1. 宛先の&#x200B;**名前**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存の Marketo の人物に一致および Marketo で見つからない人物を作成」_または_「既存の Marketo の人物に一致のみ」を選択します。この例では、前者を選択しています。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
    >[!NOTE]
    >
-   >「既存のMarketoのユーザーのみを一致」を選択した場合は、電子メールや ECID のマッピングのみが必要なので、手順 13 ～ 16 をスキップできます。
+   >「既存の Marketo の人物に一致のみ」を選択した場合は、メールや ECID のマッピングのみ必要なので、手順 13～16 をスキップできます。
 
-1. この節はオプションです。 クリック **作成** スキップします。
+1. この節はオプションです。「**作成**」をクリックしてスキップします。
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. 作成した宛先を選択し、「 **次へ**.
+1. 作成した宛先を選択し、「**次へ**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-1. Marketoに送信するセグメントを選択し、 **次へ**.
+1. Marketo に送信するセグメントを選択し、「**次へ**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
@@ -94,15 +94,15 @@ ht-degree: 21%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 「 」を選択して名をマッピング **firstName** をクリックし、 **選択**.
+1. 「**firstName**」を選択して名をマッピングして、「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. 「 **新しいマッピングを追加** を繰り返し、手順 15 を 2 回繰り返し、選択 **lastName** その後 **companyName**.
+1. 姓と会社名に対しても、「**新しいマッピングを追加**」を再度クリックし、**lastName** と **companyName**.を選択して、手順 15 を 2 回繰り返します。
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. 次に、E メールアドレスをマッピングします。 クリック **新しいマッピングを追加** 再び
+1. 次に、メールアドレスをマッピングします。「**新規マッピングを追加**」をもう一度クリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -110,31 +110,31 @@ ht-degree: 21%
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. 「 ID 名前空間を選択」ラジオボタンをクリックし、「  **電子メール**&#x200B;を選択し、「 **選択**.
+1. 「ID 名前空間を選択」ラジオボタンをクリックし、「**電子メール**」を選択し、「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >電子メールや ECID の **ID 名前空間** 「 」タブは、Marketoでユーザーが一致するようにするための最も重要な操作です。 マッピングメールは、最も高い一致率を保証します。
+   >「**ID 名前空間**」タブからのメールや ECID のマッピングは、Marketo で人物を一致させるために最も重要です。メールのマッピングは、最も高い一致率を保証します。
 
-1. 次に、ソースフィールドを選択します。 電子メールの場合は、カーソルアイコンをクリックします。
+1. それでは、ソースフィールドを選択しましょう。メールの場合は、カーソルアイコンをクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. 「 ID 名前空間を選択」ラジオボタンをクリックし、「検索」をクリックして「 **電子メール**&#x200B;を選択し、「 **選択**.
+1. 「ID 名前空間を選択」ラジオボタンをクリックし、「**電子メール**」を選択し、「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-1. 「会社名」ソースフィールドを選択するには、行のカーソルアイコンをクリックします。
+1. 「会社名」ソースフィールドを選択するには、その行のカーソルアイコンをクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. 「属性を選択」(Select Attributes) ラジオボタンは選択したままにします。 「company」を検索し、「 **companyName**&#x200B;を選択し、「 **選択**.
+1. 「属性を選択」ラジオボタンは選択したままにします。「company」を検索し、「**companyName**」を選択して、「**選択**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. それぞれのカーソルアイコンをクリックし、手順 23 を 2 回繰り返して、姓と名のソースフィールドをマッピングします。次に、 **lastName** その後 **firstName**.
+1. 姓と名に対しても、カーソルアイコンを再度クリックし、**lastName** と **firstName**.を選択して、手順 23 を 2 回繰り返します。
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
@@ -142,19 +142,19 @@ ht-degree: 21%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 次に、リストの ID が必要になります。 ブラウザーでMarketo静的リストを開いているタブをクリックします（または新しいタブを開いて、目的の静的リストを選択します）。
+1. ここで、リストの ID が必要になります。ブラウザーで Marketo 静的リストを開いているタブをクリックします（または新しいタブを開いて、目的の静的リストを選択します）。
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
 
    >[!NOTE]
    >
-   >最適な結果を得るには、空のMarketo Engageリストを使用します。
+   >最適な結果を得るには、空の Marketo Engage リストを使用します。
 
 1. URL の末尾にあるリスト ID をハイライトしてコピーします。
 
    ![](assets/push-an-adobe-experience-platform-segment-27.png)
 
-1. コピーした ID を「マッピング ID 」の下に貼り付け、「 」をクリックします。 **次へ**.
+1. コピーした ID を「マッピング ID 」の下に貼り付け、「**次へ**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-28.png)
 

@@ -1,40 +1,40 @@
 ---
 unique-page-id: 10099102
-description: Plug-In Releases for Microsoft Dynamics MSI - Marketo Docs - Product Documentation
+description: Microsoft Dynamics MSI 向けプラグインリリース - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics MSI 向けプラグインリリース
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
 source-wordcount: '306'
-ht-degree: 14%
+ht-degree: 86%
 
 ---
 
 # Microsoft Dynamics MSI 向けプラグインリリース {#plug-in-releases-for-microsoft-dynamics-msi}
 
-When you first sync to Microsoft Dynamics, you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
+Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+お使いの Dynamics リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)してください。
 
 >[!NOTE]
 >
->These versions work for both on-premise and online versions of Dynamics.
+>これらのバージョンは、Dynamics のオンプレミスバージョンとオンラインバージョンの両方で機能します。
 
-## Upgrading your MSI Solution {#upgrading-your-msi-solution}
+## MSI ソリューションのアップグレード {#upgrading-your-msi-solution}
 
-1. __****
+1. Dynamics の「_インポート_」ボタンを押して、Dynamics CRM の&#x200B;**既存のバージョンに**&#x200B;最新バージョンのソリューションをインポートします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->__
+>例：Dynamics CRM のバージョンが 2.0.0.20 で、最新バージョンが 2.0.0.21 の場合は、2.0.0.20 _以降_&#x200B;のバージョンをインポートします。
 
 1. 「**次へ**」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. ************
+1. 「**アップグレードのステージ**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
@@ -42,13 +42,13 @@ When you first sync to Microsoft Dynamics, you download and install the latest v
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. After a successful import you&#39;ll see two MSI solutions: MarketoSalesInsight and MarketoSalesInsight_Upgrade. Select the older solution and click Apply Solution Upgrade.
+1. インポートが正常に完了すると、MarketoSalesInsight と MarketoSalesInsight_Upgrade の 2 つの MSI ソリューションが表示されます。古いソリューションを選択し、「ソリューションアップグレードを適用」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-これで完了です。After the upgrade you will only see one MSI Solution.
+これで完了です。アップグレード後は、1 つの MSI ソリューションのみが表示されます。
 
-## Version Updates {#version-updates}
+## バージョンの更新 {#version-updates}
 
 <table> 
  <colgroup> 
@@ -65,52 +65,52 @@ When you first sync to Microsoft Dynamics, you download and install the latest v
   <tr> 
    <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Account Layout for Insights: Interesting Moments, Score changes, Web activities, Email activities</td> 
+   <td colspan="1">インサイト用のアカウントレイアウト：注目のアクション、スコアの変更、Web アクティビティ、E メールアクティビティ</td> 
   </tr>
   <tr> 
    <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">Program Adoption Score for Send Email</td> 
+   <td colspan="1">送信メール用のプログラム採用スコア</td> 
   </tr>
   <tr> 
    <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">Product Adoption Score Metrics, new Global Dashboard (Web Activity, Email, Best Bets)</td> 
+   <td colspan="1">製品採用スコア指標、新しいグローバルダッシュボード（Web アクティビティ、E メール、最適）</td> 
   </tr>
   <tr> 
    <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Remove Auto audit enabled and documentation changes on MSI solution</td> 
+   <td colspan="1">自動監査を削除し、MSI ソリューションのドキュメントの変更を削除します</td> 
   </tr>
   <tr> 
    <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Bug Fix: Assigning access to MSI API config fields for users with Sales Insight role</td> 
+   <td colspan="1">バグ修正：Sales Insight の役割を持つユーザーの MSI API 設定フィールドへのアクセスの割り当て</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
+   <td colspan="1">2020/07/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Bug fix: Add a validation message for non-synced records</td> 
+   <td colspan="1">バグ修正：非同期レコードの検証メッセージを追加</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
+   <td colspan="1">2020/06/12</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Bug fix: To hide MSI Secret Password on MSD API Config</td> 
+   <td colspan="1">バグ修正：MSD API 設定で MSI シークレットパスワードを非表示に</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
+   <td colspan="1">2020/05/26</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Bug fix: To change MSI role ID validation for displaying MSI buttons</td> 
+   <td colspan="1">バグ修正：「MSI」ボタンを表示するために MSI 役割 ID の検証を変更</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
+   <td colspan="1">2020/05/21</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Bug fix: Unhide owner field and making fields non-mandatory</td> 
+   <td colspan="1">バグ修正：所有者フィールドを再表示し、フィールドを必須にしないように設定</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
+   <td colspan="1">2020/04/28</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Bug fix: Removing MSD CRM sitemap setting link dependency</td> 
+   <td colspan="1">バグ修正：MSD CRM サイトマップ設定のリンク依存関係を削除</td> 
   </tr> 
  </tbody> 
 </table>
