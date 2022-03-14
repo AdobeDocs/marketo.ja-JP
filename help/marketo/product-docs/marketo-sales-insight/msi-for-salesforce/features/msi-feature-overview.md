@@ -4,15 +4,15 @@ description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュ�
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '937'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # MSI 機能の概要 {#msi-feature-overview}
 
-MSIには、Salesforce Lightning および Classic で使用できる次の機能があります。
+MSI には、Salesforce Lightning および Classic で使用できる次の機能があります。
 
 ## Visualforce パネル {#visualforce-panel}
 
@@ -56,7 +56,7 @@ Visualforce ページ：
 * 相対スコア値
 * 緊急度
 * 緊急度の値
-* Marketo 内に表示  - このフィールドをクリックして、Marketo で編集不可能なリードのビューを開きます。含まれるもの：リード情報、会社情報、SFDC リード情報、SFDC カスタムフィールド、アクティビティログ
+* Marketo 内に表示   - このフィールドをクリックして、Marketo で編集不可能なリードのビューを開きます。含まれるもの：リード情報、会社情報、SFDC リード情報、SFDC カスタムフィールド、アクティビティログ
 * MSI 取引先責任者 ID - このフィールドに Salesforce 取引先責任者を追加し、リードレイアウトに「リード取引先責任者ブリッジ」パネルを含めて、取引先責任者の MSI パネルを表示します。
 
 ## 取引先責任者のレイアウト {#contact-layout}
@@ -80,7 +80,7 @@ Visualforce ページ：
 * 相対スコア値
 * 緊急度
 * 緊急度の値
-* Marketo 内に表示  - このフィールドをクリックして、Marketo で編集不可能なリードのビューを開きます。含まれるもの：リード情報、会社情報、SFDC リード情報、SFDC カスタムフィールド、アクティビティログ
+* Marketo 内に表示   - このフィールドをクリックして、Marketo で編集不可能なリードのビューを開きます。含まれるもの：リード情報、会社情報、SFDC リード情報、SFDC カスタムフィールド、アクティビティログ
 * Mkto リードスコア
 * Sales Insight - 取引先責任者の完全なリストページを開きます
 
@@ -152,7 +152,7 @@ Salesforce Classic：「ウォッチリストに追加」、「Marketo Campaign 
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、名前、アカウント、最終訪問
 
-*  匿名のWeb アクティビティ
+*  匿名の Web アクティビティ
 
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、会社、前回の訪問、調査（会社の LinkedIn ページを開く）
