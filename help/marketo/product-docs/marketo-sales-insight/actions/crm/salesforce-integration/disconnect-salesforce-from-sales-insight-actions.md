@@ -3,10 +3,10 @@ description: Salesforce を Sales Insight のアクションから切断 — Mar
 title: Salesforce を Sales Insight アクションから切断
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 42%
+source-wordcount: '109'
+ht-degree: 40%
 
 ---
 
@@ -18,21 +18,21 @@ Sales Insight Actions アカウントから Salesforce アカウントを切断�
 
 1. Sales Insight のアクションで、右上の歯車アイコンをクリックし、「 **設定**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. 管理設定で、**Salesforce** をクリックします。
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. 「接続とカスタマイズ」タブで、「**切断**」をクリックします。
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## 管理者以外のユーザーとして Salesforce との接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. Sales Insight のアクションで、右上の歯車アイコンをクリックし、「 **設定**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. マイアカウントで、「**Salesforce**」を選択します。
 
