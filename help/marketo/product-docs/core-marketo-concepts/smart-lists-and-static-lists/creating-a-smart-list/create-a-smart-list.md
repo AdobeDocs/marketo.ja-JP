@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # スマートリストの作成 {#create-a-smart-list}
 
-スマートリストでは、シンプルなフィルターで特定の顧客グループを見つけることができます.リストの作成は以下の手順で行います。
+スマートリストでは、シンプルなフィルターで特定の人物グループを見つけることができます.リストの作成は以下の手順で行います。
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,5 +38,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)>
-   >
+   >[フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
