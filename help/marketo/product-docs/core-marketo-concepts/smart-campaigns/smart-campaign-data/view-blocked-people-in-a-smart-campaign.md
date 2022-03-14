@@ -1,46 +1,45 @@
 ---
 unique-page-id: 1147062
-description: スマートキャンペーンでの表示ブロックユーザー —Marketoドキュメント — 製品ドキュメント
-title: スマートキャンペーンで人をブロックした表示
+description: スマートキャンペーンでのブロックされた人物の表示 - Marketo ドキュメント - 製品ドキュメント
+title: スマートキャンペーンでのブロックされた人物の表示
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# スマートキャンペーンでユーザーをブロックした表示{#view-blocked-people-in-a-smart-campaign}
+# スマートキャンペーンでのブロックされた人物の表示 {#view-blocked-people-in-a-smart-campaign}
 
-Marketoデータベース内のブロックされたユーザーは、ブロックリストに加えるマーク付け、登録解除、マーケティングの停止、または無効な電子メールや空の電子メールを受け取ります。
+Marketo データベースで、ブロックリスト登録済み、登録解除、マーケティング停止、無効または空のメールアドレスの人物はブロックされます。
 
 >[!NOTE]
 >
->Marketoは、ブラックリストやホワイトリストなどの用語を、当社の製品でブロックリストや許可リストに変更する過程にあります。 この更新中、UIとドキュメントのスクリーンショットには古い用語が表示され、ドキュメントのテキストには新しい用語が表示される場合があります。 ご混乱をおかけして申し訳ございません。
+>Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
 
-1. スマートキャンペーンで、**スケジュール**&#x200B;をクリックします。 「**スマートリストの状態**」で、2番目のリンクをクリックします。
+1. スマートキャンペーンで「**スケジュール**」をクリックします。「**スマートリストのステータス**」で 2 つ目のリンクをクリックします。
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >また、通信制限に達した人がメールの受信をブロックされる場合もあります。 管理セクションで[通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)を編集する方法を説明します。
+   >通信制限に達したユーザーがメール受信をブロックされる場合もあります。「管理者」セクションの[通信制限を編集](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)で、方法を参照してください。
 
-   [ブロックされた人]タブには、メールを受信しない可能性のある人が表示されます。
+   「ブロック済みの人物」タブには、メールを受信しない可能性のある人物が表示されます。
 
    ![](assets/image2014-9-22-16-3a48-3a11.png)
 
    >[!NOTE]
    >
-   >未登録とマークされ、マーケティングが停止されたユーザーに、操作用の電子メールが送信されます。
+   >オペレーショナルなメールは、登録解除済みのリードとマーケティングを中断したリードに引き続き送信されます。
 
    >[!MORELIKETHIS]
    >
    >* [クオリフィケーションルールの編集](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >* [通信制限を有効にする](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
-   >* [表示スマートキャンペーンメンバ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
-   >* [スマートキャンペーンの表示資格者](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
+   >* [通信制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [スマートキャンペーンメンバーの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [スマートキャンペーンの条件を満たす人物の表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
-行くぞ！ これで、誰が郵送物を受け取らないかを知ることができます。
+これで完了です。誰がメールを受信していないかを知ることができます。
