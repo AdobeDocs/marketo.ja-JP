@@ -1,25 +1,24 @@
 ---
 unique-page-id: 1146997
-description: ウェイトフロー手順 —Marketoドキュメント — 製品ドキュメントでの日付トークンの使用
-title: 待機フロー手順での日付トークンの使用
+description: 待機フローステップで日付トークンを使用 - Marketo ドキュメント - 製品ドキュメント
+title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 待機フロー手順での日付トークンの使用{#use-a-date-token-in-a-wait-flow-step}
+# 待機フローステップで日付トークンを使用 {#use-a-date-token-in-a-wait-flow-step}
 
-待機フローステップを使用すると、スマートキャンペーンを介して、日付トークンを使用する特定の日付まで人のジャーニーを一時停止できます。 終了日は、日数によって変更することもできます。
+待機フローステップを使用すると、スマートキャンペーンを通じて、日付トークンを使用する特定の日付まで、人のジャーニーを一時停止できます。また、終了日を日数で変更することもできます。
 
 >[!NOTE]
 >
->これは、トリガーキャンペーンにのみ適用されます。 この機能はバッチキャンペーンでは使用できません。
+>これは、トリガーキャンペーンにのみ適用されます。この機能はバッチキャンペーンでは使用できません。
 
-1. スマートキャンペーン&#x200B;**「フロー**」タブで、**待機**&#x200B;フローステップの上にドラッグします。
+1. スマートキャンペーン「**フロー**」タブに、「**待機**」フローステップをドラッグします。
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. 「**タイプ**」ドロップダウンから、「**日付トークン**」を選択します。
+1. 「**タイプ**」ドロップダウンで、「**日付トークン**」を選択します。
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -40,21 +39,21 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a9-3a33.png)
 
-1. 現在または次の年に発生する日付の次の記念日まで待つには、チェックボックスをオンにします。
+1. 今年または翌年に発生する次のイベント日まで待つには、チェックボックスをオンにします。
 
    ![](assets/image2014-9-22-14-3a9-3a37.png)
 
    >[!TIP]
    >
-   >このオプションは、誕生日や契約開始日など、過去の日付を参照する日付トークンに対して使用します。
+   >このオプションは、誕生日や契約の開始日など、過去の日付を参照する日付トークンに対して使用します。
 
-1. オプションで、終了日を指定した日数だけ変更できます。
+1. 必要に応じて、終了日を指定した日数で変更できます。
 
    ![](assets/image2014-9-22-14-3a9-3a57.png)
 
    >[!NOTE]
    >
-   >整数フィールドを表す`{{lead.`または`{{company.`トークン、または数値型の`{{my.`トークンを使用して、日数を指定することもできます。
+   >また、整数フィールドを表す `{{lead.` または `{{company.` トークンを使用するか、`{{my.` 番号タイプのトークンを使用して、日数を指定することもできます。
 
 1. 「**保存**」をクリックします。
 
@@ -62,6 +61,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [待機フローステップでの期間の使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [特定の日付を待機フロー・ステップで使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [待機フローステップで特定の日付を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
