@@ -1,32 +1,31 @@
 ---
-description: キャンペーン同期を有効にする —Marketoドキュメント — 製品ドキュメント
+description: キャンペーン同期の有効化 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーン同期の有効化
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # キャンペーン同期の有効化 {#enable-campaign-sync}
 
-このオプションを使用すると、MarketoはMS Dynamicsキャンペーンにメンバを追加および削除できます。
+このオプションを使用すると、Marketo は MS Dynamics キャンペーンにメンバーを追加および削除できます。
 
 >[!PREREQUISITES]
 >
->Marketo用Dynamicsプラグインの最新バージョンに更新します。
+>Marketo 用 Dynamics プラグインを最新バージョンに更新します。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. マイMarketoで、**管理者**&#x200B;をクリックします。
+1. My Marketo で、「**管理者**」をクリックします。
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. **Microsoft Dynamics**&#x200B;をクリックします。
+1. 「**Microsoft Dynamics**」をクリックします。
 
    ![](assets/enable-campaign-sync-2.png)
 
@@ -34,12 +33,12 @@ ht-degree: 5%
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. **「Microsoft Dynamicsキャンペーンの同期を有効にする**」チェックボックスを選択し、「**保存**」をクリックします。
+1. 「**Microsoft Dynamics キャンペーンの同期を有効にする**」チェックボックスを選択して「**保存**」をクリックします。
 
    ![](assets/enable-campaign-sync-4.png)
 
-あっある。 Microsoft Dynamicsからデータを取り込むための同期をしばらくおこなってください。問題はありません。
+これで手順は完了です。Microsoft Dynamics からデータを取り込んで同期するまで時間を置いてください。これで準備は完了です。
 
 >[!NOTE]
 >
->[Dynamicsキャンペーンの同期]チェックボックスをリセットすると、以前に同期されたすべてのキャンペーンデータと、Dynamicsのマーケティングリストとの関連付けが更新されます。
+>「Dynamics キャンペーン同期」チェックボックスをリセットすると、以前に同期されたすべてのキャンペーンデータと、Dynamics のマーケティングリストとの関連付けが更新されます。
