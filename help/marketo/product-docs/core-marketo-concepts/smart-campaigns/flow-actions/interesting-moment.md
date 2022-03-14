@@ -1,13 +1,12 @@
 ---
 unique-page-id: 1146956
-description: 注目の瞬間 —Marketoドキュメント — 製品ドキュメント
+description: 注目のアクション - Marketo ドキュメント - 製品ドキュメント
 title: 注目のアクション
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -15,28 +14,28 @@ ht-degree: 6%
 
 ## 概要 {#overview}
 
-Marketoの販売インサイトをお持ちの場合は、**注目の瞬間**&#x200B;のフローステップを使用して、貴社の従業員が行っている素晴らしいことをセールスチームが明確に把握できます。
+Marketo Sales Insight を使用している場合、**注目のアクション**&#x200B;フローステップを使用して、人物が行っている注目すべきことをセールスチームが把握できるようにすることができます。
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
-## 使用状況 {#usage}
+## 使用方法 {#usage}
 
-1. 使用するおもしろい瞬間&#x200B;**タイプ**&#x200B;を選択します。
+1. 使用する注目のアクション&#x200B;**タイプ**&#x200B;を選択します。
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. セールスチームの興味深い瞬間を説明する&#x200B;**説明**&#x200B;を作成します。
+1. 注目のアクションについてセールスチームに伝える&#x200B;**説明**&#x200B;を作成します。
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
    >[!TIP]
    >
-   >**少ない方が多い**。セールスチームと協力して、興味深い瞬間が実際に興味深いものであることを確認します。
+   >**少ないほうが効果的です**。セールスチームと協力して、注目のアクションが実際に注目するべきものであることを確認します。
 
-[トークンを興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)で使用して、非常に役立つ動的な説明を作成することもできます。
+また、[注目のアクショにトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)を使用して動的な説明を作成すると、大いに役立ちます。
 
 >[!MORELIKETHIS]
 >
->* [興味深い瞬間の使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [注目のアクションの使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
