@@ -14,8 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)>
->
+>[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 「**選択肢を追加**」を使用すると、フローステップで「条件に応じた」詳細の選択が可能になります。
 
