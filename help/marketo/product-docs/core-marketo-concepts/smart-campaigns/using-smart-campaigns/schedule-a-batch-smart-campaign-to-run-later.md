@@ -1,25 +1,24 @@
 ---
 unique-page-id: 1146970
-description: バッチスマートキャンペーンを後で実行するようにスケジュールする —Marketoドキュメント — 製品ドキュメント
-title: バッチスマートキャンペーンを後で実行するようにスケジュールする
+description: 後で実行するようにバッチスマートキャンペーンをスケジュール - Marketo ドキュメント - 製品ドキュメント
+title: 後で実行するようにバッチスマートキャンペーンをスケジュール
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# バッチスマートキャンペーンを後で実行するようにスケジュールする{#schedule-a-batch-smart-campaign-to-run-later}
+# 後で実行するようにバッチスマートキャンペーンをスケジュール {#schedule-a-batch-smart-campaign-to-run-later}
 
-バッチスマートキャンペーンを将来的な時点で実行するように設定する場合は、次のようにします。
+バッチスマートキャンペーンを未来の任意の時点で実行するように設定する場合は、次の手順に従います。
 
 >[!TIP]
 >
->また、プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)のバッチスマートキャンペーンを[再スケジュールすることもできます。
+>[プログラムスケジュール表示でバッチスマートキャンペーンを再スケジュール](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)することもできます。
 
-1. 実行するバッチスマートキャンペーンを選択し、「**スケジュール**」タブに移動し、「**1回実行**」をクリックします。
+1. 実行するバッチスマートキャンペーンを選択し、「**スケジュール**」タブに移動して「**1 回実行**」をクリックします。
 
    ![](assets/scheduledruns2.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/runonce.png)
 
-1. スマートキャンペーンを実行する時間を選択します（少なくとも15分前）。
+1. スマートキャンペーンを実行する時間を選択します（15 分以上先）。
 
    ![](assets/runoncetime.png)
 
@@ -35,10 +34,10 @@ ht-degree: 0%
 
    ![](assets/runoncetimesave.png)
 
-1. **「スケジュール**」タブを見ると、スケジュールされた実行を確認できます。
+1. スケジュールされた実行を確認するには、「**スケジュール**」タブをクリックします。
 
    ![](assets/scheduledrunsbox.png)
 
    >[!NOTE]
    >
-   >[定期バッチキャンペーンのスケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >[繰り返しバッチキャンペーンのスケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
