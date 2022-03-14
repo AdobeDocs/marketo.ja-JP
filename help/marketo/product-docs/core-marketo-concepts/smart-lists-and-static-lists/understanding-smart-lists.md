@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # スマートリストについて {#understanding-smart-lists}
 
-スマートリストを使用すると、シンプルなフィルターで特定のリードグループを見つけることができます。スマートリストは、スマートキャンペーン、プログラム、レポート、セグメント化、ビジネスモデル、エンゲージメントプログラム、動的コンテンツなど、Marketo のあらゆる部分で使用されています。必要に応じて、Marketo 内の 2 か所でスマートリストを作成できます。
+スマートリストでは、シンプルなフィルターで特定の人物グループを見つけることができます.スマートリストは、スマートキャンペーン、プログラム、レポート、セグメント化、ビジネスモデル、エンゲージメントプログラム、動的コンテンツなど、Marketo のあらゆる部分で使用されています。必要に応じて、Marketo 内の 2 か所でスマートリストを作成できます。
 
 1. **データベース**&#x200B;で、共有やグローバルで使用できる場合（「すべての登録解除済みのリード」など）。
 1. **プログラム**&#x200B;にローカルアセットとして格納し、特定のプログラムに関連するリードのグループ（例：「トレードショー出席」）を検索します。
@@ -48,5 +48,5 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [システムスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
-* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
