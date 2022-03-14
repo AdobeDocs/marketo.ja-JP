@@ -4,7 +4,7 @@ description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメ�
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
