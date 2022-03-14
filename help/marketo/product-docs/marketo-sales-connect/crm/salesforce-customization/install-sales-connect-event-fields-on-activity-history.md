@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: アクティビティ履歴への Sales Connect イベントフィールドのインストール - Marketo ドキュメント - 製品ドキュメント
 title: アクティビティ履歴への Sales Connect イベントフィールドのインストール
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
