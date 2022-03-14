@@ -4,9 +4,9 @@ description: 機能の概要 - Marketo ドキュメント - 製品ドキュメ�
 title: 機能の概要
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 96%
 * Marketo キャンペーンに追加
 * Marketo メールの送信 
 
-## Marketo Sales Insight パネル（アカウントレイアウト） {#marketo-sales-insight-panel-in-account-layout}
+## Marketo Sales Insight パネル（「アカウント」レイアウト） {#marketo-sales-insight-panel-in-account-layout}
 
 * 星と炎
 * 注目のアクション
