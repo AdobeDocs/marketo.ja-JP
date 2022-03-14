@@ -4,9 +4,9 @@ title: スパムとしてマークされたメール
 hide: true
 hidefromtoc: true
 source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 **設定の確認**
 
 * カスタムドメイントラッキング：これにより、すべてのトラッキングリンクが「go.toutapp」の代わりに「go.yourdomain」として表示されます。一部のメールセキュリティでは、メールが「yourdomain」から送信されているが、リンクが go.toutapp にリルーティングされていることがわかります。カスタムドメインリンクトラッキングを実装すると、メールは正当に見え、受信者のインボックスに到達する可能性が高くなります。
-* メール配信チャネル：チームは、Gmail/Outlook 配信チャネルを使用するか、カスタム SMTP を設定するかのどちらかを選択できます。 必要に応じて適切な配信チャネルを選択する方法について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)をクリックしてください。
+* メール配信チャネル：チームは、Gmail／Outlook 配信チャネルを使用するか、カスタム SMTP を設定するかのどちらかを選択できます。必要に応じて適切な配信チャネルを選択する方法について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)をクリックしてください。
 
 **メールの動作の確認**
 
