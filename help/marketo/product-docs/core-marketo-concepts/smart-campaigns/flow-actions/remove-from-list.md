@@ -1,13 +1,12 @@
 ---
 unique-page-id: 1146954
-description: リストから削除 —Marketoドキュメント — 製品ドキュメント
+description: リストから削除 - Marketo ドキュメント - 製品ドキュメント
 title: リストから削除
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
@@ -15,14 +14,14 @@ ht-degree: 16%
 
 ## 概要 {#overview}
 
-[リスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)を行う能力があ追加るので、リストから人を取り除く方法も必要です。
+「[リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)」できるなら、リストから人物を削除する方法も必要です。
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
-## 使用状況 {#usage}
+## 使用方法 {#usage}
 
-1. ユーザーを削除する&#x200B;**リスト**&#x200B;を探して選択します。
+1. 人物を削除する&#x200B;**リスト**&#x200B;を検索して選択します。
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
-それだ！
+これで完了です。
