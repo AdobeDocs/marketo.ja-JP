@@ -30,5 +30,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[リストまたはスマートリストからリードを Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)>
->
+>[リストまたはスマートリストから人物を Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
