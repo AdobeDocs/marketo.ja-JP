@@ -1,48 +1,47 @@
 ---
 unique-page-id: 1147053
-description: スマートキャンペーンの中止 —Marketoドキュメント — 製品ドキュメント
+description: スマートキャンペーンの中止 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンの中止
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# スマートキャンペーンの中止{#abort-a-smart-campaign}
+# スマートキャンペーンの中止 {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
->緊急用
+>緊急時のみ
 
-時には、スマートキャンペーンを起動して、それが誤りだとすぐに気付くことがあります。 緊急ブレーキを引き、スマートキャンペーンを中間作動で停止する方法を次に示します。
+スマートキャンペーンをローンチして、間違っていたことにすぐに気付く場合があります。急ブレーキを引いて、途中でスマートキャンペーンを停止する方法を説明します。
 
-1. 「**マーケティングアクティビティ**」で、スマートキャンペーンを選択し、「**スケジュール**」タブに移動します。
+1. 「**マーケティング活動**」でスマートキャンペーンを選択し、「**スケジュール**」タブをクリックします。
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. **キャンペーンアクション**&#x200B;ドロップダウンをクリックします。 「**キャンペーンを中止**」を選択します。
+1. 「**キャンペーンのアクション**」ドロップダウンをクリックします。「**キャンペーンを中止**」を選択します。
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. 「**中止**」をクリックして確定します。
+1. 「**中止**」をクリックして確認します。
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
    >[!NOTE]
    >
-   >中止は、既に完了した手順を元に戻しません。処理を中止するだけで、処理を停止できます。 (例：電子メールは配信を取り消すことはできません)。
+   >中止は、既に完了している手順を元に戻すのではなく、これより先の手順を停止するものです。（例：メール配信を取り消すことはできません。）
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >スマートキャンペーンの「**結果**」タブを調べて、中止の前に行われたアクションを確認します。 また、詳細を含む[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も見つかります。
+   >スマートキャンペーンの「**結果**」タブで、中止する前に実行されたアクションを確認できます。また、追加の詳細と共に、[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も確認できます。
 
    >[!TIP]
    >
-   >トリガーキャンペーンのフローから人を削除する場合 [Remove from Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)をチェックアウトします。
+   >トリガーキャンペーンのフローから人物を削除する場合は、[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)を参照してください。
 
-常に重複チェックをしてくださいが、この緊急ブレーキは将来役に立つかもしれません。
+操作のダブルチェックは欠かせませんが、この緊急ブレーキは将来役立つことがあるかもしれません。
