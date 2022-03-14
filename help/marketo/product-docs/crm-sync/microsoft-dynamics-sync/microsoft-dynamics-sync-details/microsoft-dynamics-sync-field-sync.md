@@ -4,9 +4,9 @@ description: Microsoft Dynamics 同期 - フィールドの同期 - Marketo ド�
 title: Microsoft Dynamics 同期 - フィールドの同期
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '337'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Marketo と Dynamics の同期は非常に強力です。以下に詳細を示�
 
 これは、現在、サポートされていません。
 
-## Dynamics で作成したフィールドの Marketo への同期 {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
+## Dynamics で作成したフィールドのMarketo への同期 {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
 Dynamics で同期ユーザーがアクセス権を持っていれば、[フィールドを同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。
 
