@@ -1,40 +1,39 @@
 ---
 unique-page-id: 14352457
-description: .NET 追加-inの概要 —Marketoドキュメント — 製品ドキュメント
-title: .NET 追加-inの概要
+description: .NET アドインの概要 — Marketo ドキュメント — 製品ドキュメント
+title: .NET アドインの概要
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# .NET 追加-inの概要{#net-add-in-overview}
+# .NET アドインの概要 {#net-add-in-overview}
 
 >[!NOTE]
 >
->これは古いアドインです。 既にインストール済みの場合は、2020年まで引き続き機能します。 新しいユーザーの場合は、新しい[Office 365アドイン](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
+>これは古いアドインです。既にインストール済みの場合、.NET アドインは 2020 年まで機能します。新規ユーザーは、新しい [Office 365 アドイン](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
 
-## コンテンツの一部の添付{#attaching-a-piece-of-content}
+## コンテンツの添付 {#attaching-a-piece-of-content}
 
-「追加&#x200B;**コンテンツ**」ボタンをクリックし、ファイルをアップロードすることで、追跡可能なコンテンツ。
+「**コンテンツ**」ボタンをクリックし、ファイルをアップロードして、追跡可能なコンテンツを追加します。
 
-以前にアップロードされたコンテンツはすべて表示され、再度アップロードする必要なく、ポップアップウィンドウで選択できます。
+以前にアップロードされたコンテンツは、再度アップロードする必要なく、ポップアップウィンドウで選択できるように表示されます。
 
-## カレンダー機能{#calendar-functionality}
+## カレンダー機能 {#calendar-functionality}
 
-**「カレンダー**」ボタンを押して、利用可能になった時点を受信者に知らせます。
+「**カレンダー**」ボタンを押して、都合の良い時間を受信者に知らせます。
 
-Outlookの予定表が取り込まれ、空き時間の特定の日時を追加したり、電子メールに情報を追加したりできます。
+Outlook のカレンダーが取り込まれます。空いている特定の日時を追加して、メールにこの情報を追加することができます。
 
-## テンプレートの取り込み{#pulling-in-a-template}
+## テンプレートの取り込み {#pulling-in-a-template}
 
-**Templates**&#x200B;ボタンを押して、あらかじめ用意されているToutテンプレートをOutlookメッセージに取り込みます。
+事前に作成した Tout テンプレートを Outlook メッセージに取り込むには、「**テンプレート**」ボタンをクリックします。
 
-個人用のテンプレートおよびチーム間で共有されるテンプレートのすべてと同期します。 また、最後に使用したテンプレートと、最も頻繁に使用するテンプレートも自動的に取り込まれ、簡単にアクセスできます。
+アドビは、すべての個人用テンプレートおよびチーム間の共有テンプレートと同期します。また、最後に使用したテンプレートと最も頻繁に使用するテンプレートは自動的に取り込まれ、簡単にアクセスできます。
 
-## 「Tout It」ボタン{#the-tout-it-button}
+## 「Tout It」ボタン {#the-tout-it-button}
 
-パーソナライズした電子メールに記入し、準備が整ったら、必ず&#x200B;**「Tout It**」ボタンを押して追跡を開始してください。 「Hang on, we&#39;re adding tracking magic」という内容のボックスが表示されます。
+パーソナライズされたメールを入力して、準備が整ったら、常に「**Tout It**」ボタンをクリックしてトラッキングするようにしてください。「トラッキングの魔法を追加しているのでお待ちください。」というボックスが表示されます。
