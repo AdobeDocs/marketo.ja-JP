@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352509
-description: 動的フィールド用語集 —Marketoドキュメント — 製品ドキュメント
-title: 動的フィールドの用語集
+description: 動的フィールド用語集 — Marketo ドキュメント — 製品ドキュメント
+title: 動的フィールド用語集
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# 動的フィールド用語集{#dynamic-fields-glossary}
+# 動的フィールド用語集 {#dynamic-fields-glossary}
 
-Sales Connectでテンプレートを作成する場合は、**MSE動的フィールド**&#x200B;ボタンを使用して、動的フィールドを統合することを常にお勧めします。
+Sales Connect でテンプレートを作成する場合は、動的フィールドを統合し、「**MSE 動的フィールド**」ボタンをクリックします。
 
-このツールは`auto-personalize your email`に使われ、`pulling information from the People page`までに時間を節約できます。
+このツールは、`auto-personalize your email` に使用されて `pulling information from the People page` によって時間を大幅に節約できます。
 
-| ダイナミックフィールド | 電子メールに表示する内容の例 |
+| 動的フィールド | メールに表示される内容の例 |
 |---|---|
-| `{{company}}` | Marketo 内 |
-| `{{company_friendly}}` | Marketo 内 |
-| `{{first_name}}` | キース |
-| `{{friendly_unsubscribe}}` | もし私からの連絡が来たくないのなら、こちらにお知らせください |
-| `{{my_name}}` | アラン・ブラドリー |
+| `{{company}}` | Marketo |
+| `{{company_friendly}}` | Marketo |
+| `{{first_name}}` | Keith さん |
+| `{{friendly_unsubscribe}}` | 再度通知を受けたくない場合は、こちらからお知らせください |
+| `{{my_name}}` | Alan Bradley |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | シニアテクニカルライター |
 | `{{work_website}}` | https://www.marketo.com |
 
-**注意事項**:
+**注意事項**：
 
-* 連絡先の情報が正しく入力されていないか、[人]ページに表示されていない場合は、正しくテンプレートに引き継がれません。
-* `{{company}}`と`{{company_friendly}}`の違いは、`{{company_friendly}}`は、お客様の連絡先の会社の名前から、Inc.、LLC.などの正式なタイトルを削除することです。
-* `{{company_friendly}}`を使用する場合は、Inc.またはCo.をコンマで区切って連絡先の詳細を入力してください。 Sales Connectは、値を取り込む際に何を取り除くかを次のように認識します。
+* 連絡先の情報が正しく入力されていない場合やリードページに表示されていない場合は、テンプレートに正しく取り込まれません。
+* `{{company}}` と `{{company_friendly}}` の違いは、`{{company_friendly}}` では顧客の連絡先の会社名から Inc.、LLC.などの正式な名称が削除されることです。
+* `{{company_friendly}}` を使用する場合、連絡先の詳細では必ず、Inc.または Co.をコンマで区切ってください。これは、Sales Connect が、値を取り込む際に削除する必要があるものを認識する方法です。
 
 >[!TIP]
 >
->電子メールに自動的に取り込む必要のある任意のユーザーに対して、独自の[カスタム動的フィールド](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)を作成できます
+>メールに自動的に取り込みたいものについては、独自の[カスタム動的フィールド](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)を作成できます。
