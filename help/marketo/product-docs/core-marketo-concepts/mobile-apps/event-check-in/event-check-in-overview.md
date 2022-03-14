@@ -2,48 +2,47 @@
 description: イベントチェックインの概要
 title: イベントチェックインの概要
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# イベントチェックインの概要{#event-check-in-overview}
+# イベントチェックインの概要 {#event-check-in-overview}
 
-iPadまたはAndroidタブレット用のMarketoイベントアプリケーションを使用すると、イベントに到着したユーザーをすぐにチェックインできます。
+iPad または Android タブレット用の Marketo Events アプリを使用すると、イベントに到着したユーザーをすぐにチェックインできます。
 
-この記事では、完了プロセスの概要を説明します。 見出しは別の記事にリンクされ、Marketoのアクティビティの一部はこの概要のリンクです。
+この記事では、このプロセス全体について説明します。見出しは別々の記事にリンクされています。一部の Marketo アクティビティはこの概要のリンクです。
 
-新しいロールの作成や出席者の招待など、イベントの前に発生するアクティビティがあります。 出席者のチェックインなど、イベント中に発生する場合があります。 イベント後は、データをMarketoと同期し、ユーザーのステータスを更新します。
+新しい役割の作成や参加者の招待など、一部のアクティビティはイベントの前に発生します。出席者のチェックインなど、イベント中に発生するものもあります。イベントの後、データを Marketo と同期し、ユーザーのステータスを更新します。
 
-素晴らしいイベントを！
+素晴らしいイベントをお楽しみください。
 
 ## イベントの準備
 
-イベントの前：
+イベント前：
 
-* [イベント用のiPadまたはAndroidユーザー用の新しいMarketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ロールを作成する
-* [新しいタブレットユーザーを](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) イベントに招待し、新しい役割を割り当てる
-* [新しいMarketoイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-* イベント日の指定
-* イベント追加の
+* [イベントの新しい Marketo の役割を作成する](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)（iPad または Android ユーザー向け）
+* [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)し、新しい役割を割り当てる
+* [新しい Marketo イベントプログラムを作成する](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* イベントの日付を指定する
+* イベントにユーザーを追加する
 
-## iPadまたはAndroidタブレットの設定
+## iPad または Android タブレットの設定
 
-iPadまたはAndroidタブレットの準備を行うには：
+iPad または Android タブレットを準備するには、次をおこないます。
 
-* Marketoイベント用iPadまたはAndroidタブレットアプリケーションをダウンロードしてインストールする
-* ログイン資格情報の確認
-* アプリを同期してイベントの入力を行う
-* チェックインが機能していることを確認します
+* Marketo Events タブレットアプリ（iPad または Android）をダウンロードしてインストールする
+* ログイン資格情報を確認する
+* アプリを同期してイベントを設定する
+* チェックインが機能していることを確認する
 
-## iPadまたはタブレットを使用したユーザーのチェックイン
+## iPad またはタブレットを使用してユーザーをチェックインする
 
-イベント:
+イベント時：
 
-* アプリケーションへのログイン
-* ゲストの検索（および新しいユーザーの作成）
-* [ゲストのチェックイン](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) （チェックインを逆にする、チェックイン時に個人レコードを編集する）
-* iPadまたはAndroidタブレットアプリをMarketoと同期する
+* アプリにログインする
+* ゲストを検索する（および新規ユーザーを作成する）
+* [ゲストをチェックインする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)（逆チェックイン、チェックイン時にユーザーレコードを編集）
+* iPad または Android タブレットアプリを Marketo と同期する
