@@ -1,31 +1,30 @@
 ---
 unique-page-id: 1146942
-description: スマートキャンペーンのスマートリストの定義 |トリガー-Marketoドキュメント — 製品ドキュメント
-title: スマートキャンペーンのスマートリストの定義 |トリガー
+description: スマートキャンペーン用スマートリストの定義 |トリガー- Marketo ドキュメント - 製品ドキュメント
+title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# スマートキャンペーンのスマートリストの定義 |トリガー{#define-smart-list-for-smart-campaign-trigger}
+# スマートキャンペーン用スマートリストの定義 |トリガー {#define-smart-list-for-smart-campaign-trigger}
 
-トリガーを追加して、実イベントに基づいて、一度に1人の人に対してスマートキャンペーンを実行できます。
+トリガーを追加して、ライブイベントに基づいて一度に 1 人ずつスマートキャンペーンを実行するようにします。
 
 1. スマートキャンペーンで、「**スマートリスト**」タブをクリックします。
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
-1. トリガーを検索し、トリガーをキャンバスにドラッグ&amp;ドロップします。
+1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-19-16-3a23-3a24.png)
 
    >[!NOTE]
    >
-   >トリガーを持つスマートキャンペーンは、**トリガー**&#x200B;モードで実行されます。 トリガーされるイベントと追加のフィルターに基づいて、一度に1人のユーザーに対して実行されます。
+   >トリガーを使用したスマートキャンペーンは、**トリガー**&#x200B;モードで実行されます。トリガーされたイベントと追加された任意のフィルターに基づいて、1 人につき一度ずつ実行されます。
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
@@ -33,11 +32,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >赤い波線は、エラーまたは情報がないことを示します。 修正しないと、キャンペーンは無効になり、実行されません。
+   >赤い波線は、エラーまたは情報が見つからないことを示します。修正されない場合、キャンペーンは無効になり、実行されません。
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが最上位に移動し、トリガーされると、フィルター条件を満たすユーザーのみがフローを通過します。
+   >トリガーとフィルターの両方を持つスマートキャンペーンでは、トリガーが一番上に表示され、トリガーされると、フィルター条件を満たす人物のみがフローに進みます。
 
 1. トリガーを定義します。
 
@@ -45,10 +44,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >複数のトリガーを使用する場合、トリガーの1つ&#x200B;**ANY**&#x200B;が起動すると、人はフローを通り抜けます。
+   >複数のトリガーを使用する場合、**いずれかの**&#x200B;トリガーがアクティブ化すると、フローに進みます。
 
-一連のユーザーに対してキャンペーンを同時に実行するには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
+一連のリードに対してキャンペーンを同時に実行するには、[スマートキャンペーンのスマートリストを定義する | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)を参照してください。
 
 >[!MORELIKETHIS]
 >
->[スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
