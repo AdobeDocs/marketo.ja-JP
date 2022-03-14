@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437903
-description: カスタム Dynamics 同期フィルターの作成 — Marketo ドキュメント — 製品ドキュメント
+description: カスタム Dynamics 同期フィルターの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタム Dynamics 同期フィルターの作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -40,7 +40,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 >[!PREREQUISITES]
 >
->最新バージョンの Marketo プラグイン（3.0.0.1 以降）をインストールします。Marketo／管理／Microsoft Dynamics／Marketo ソリューションをダウンロードに移動します。
+>最新バージョンの Marketo プラグイン（3.0.0.1 以降）をインストールします。Marketo／管理者／Microsoft Dynamics／Marketo ソリューションをダウンロードに移動します。
 
 ## SyncToMkto フィールドの作成 {#create-synctomkto-field}
 
@@ -52,11 +52,11 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. 「**エンティティ**」の横にある![](assets/image2015-8-10-21-3a44-3a23.png)をクリックします。
+1. 「**エンティティ**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックします。
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 「**リード**」の横にある![](assets/image2015-8-10-21-3a44-3a23.png)をクリックし、「**フィールド**」を選択します。次に、「**新規**」をクリックします。
+1. 「**リード**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックし、「**フィールド**」を選択します。次に、「**新規**」をクリックします。
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -66,19 +66,19 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    >[!NOTE]
    >
-   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトのプレフィックスとして **new**  を使用する必要があります。デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)カスタムフィールド名のデフォルトのプレフィックスをリセットします[。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
+   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトのプレフィックスとして **new** を使用する必要があります。デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)カスタムフィールド名のデフォルトのプレフィックスをリセットします[。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
 
    >[!NOTE]
    >
    >非同期ワークフローを設定している場合、レコードは、フィールドで設定したデフォルトの SyncToMkto 値を取得し、ワークフローの実行が終了した数秒後に正しい値を取得します。デフォルト値が「はい」に設定されている場合、これらのレコードは Marketo で作成されて古くなります。これを回避するには、**いいえ**&#x200B;をデフォルト値として使用します。
 
-1. このプロセスを繰り返し、連絡先、アカウント、商談、カスタムエンティティなど、同期を制限する他のエンティティ用に  **SyncToMkto** フィールドを作成します。
+1. このプロセスを繰り返し、連絡先、アカウント、商談、カスタムエンティティなど、同期を制限する他のエンティティ用に **SyncToMkto** フィールドを作成します。
 
 ## Marketo でフィルターを選択する {#select-the-filter-in-marketo}
 
 初期同期が既に完了している場合は、中に移動し、Marketo と同期するフィールドを選択します。
 
-1. 管理に移動し、「**MIcrosoft Dynamics**」を選択します。
+1. 「管理者」に移動し、「**Microsoft Dynamics**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -148,7 +148,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 >[!MORELIKETHIS]
 >
->* [Microsoft Dynamics 同期フィルター：適合](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics Sync フィルター：認定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
 >* [Microsoft Dynamics 同期フィルター：結合](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
 >* [メールアドレスのカスタム同期フィルタールール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
