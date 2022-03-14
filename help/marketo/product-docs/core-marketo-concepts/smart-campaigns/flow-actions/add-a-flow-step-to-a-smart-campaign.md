@@ -14,7 +14,7 @@ ht-degree: 100%
 
 フローステップは、該当するリードグループに起こってほしいことを Marketo に伝えるものです。フローステップを使用すれば、定めた指示に沿ってスマートキャンペーンが実施されます。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,5 +47,5 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [フローステップでの「選択肢を追加」の使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
-* [スマートキャンペーンでのフローステップの並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+>* [スマートキャンペーンでのフローステップの並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
 
