@@ -30,9 +30,9 @@ Marketo が優先されます。この種のデータの衝突はめったに起
 
 はい、「[顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)」フローアクションを使用すると、リアルタイムで同期されます。
 
-## すべての標準フィールドが Marketo と同期されますか。 {#does-every-single-standard-field-sync-to-marketo}
+## すべての標準フィールドの Marketo への同期 {#does-every-single-standard-field-sync-to-marketo}
 
-いいえ。標準フィールドには同期できないものもあります。カスタムフィールドはすべて同期に含めることができます。
+すべての標準フィールドが有用というわけではなく、すべて同期されるわけではありません。カスタムフィールドはすべて同期に含めることができます。
 
 >[!NOTE]
 >
