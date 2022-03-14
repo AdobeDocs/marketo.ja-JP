@@ -19,11 +19,12 @@ ht-degree: 100%
 >[!PREREQUISITES]
 >
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-* [スマートリストで「データ値変更済み」フィルターを使用します。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [スマートリストで「データ値変更済み」フィルターを使用します。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
+
+>
 
 
-
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/ma-1.png)
 
