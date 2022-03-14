@@ -1,34 +1,33 @@
 ---
 unique-page-id: 2953173
-description: スマートリストでのリストのメンバーの使用 —Marketoドキュメント — 製品ドキュメント
-title: スマートリストでのリストのメンバーの使用
+description: スマートリストでのリストのメンバーの使用 - Marketo ドキュメント - 製品ドキュメント
+title: スマートリストでのリストメンバーの使用
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# スマートリストでリストのメンバを使用{#use-members-of-list-in-a-smart-list}
+# スマートリストでのリストメンバーの使用 {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
->[「](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)インポート[」または「」を使用して、リストにユーザーを追加できます。追加リストフロー手順](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)には、
+>リストに人物を追加するには、「[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)」または、「[リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)」フローステップを使用します。
 
-このフィルタを使用すると、スマートリストルールでそのフィルタを参照して、別のリストからメンバを引き出すことができます。 これが方法です。
+このフィルターを使用すると、スマートリストルールで参照して別のリストからメンバーを取り出すことができます。手順は以下のとおりです。
 
 1. スマートリストを選択し、「**スマートリスト**」タブをクリックします。
 
    ![](assets/smartlist-sltab.png)
 
-1. 右側のフィルターパネルで、「**リストのメンバー**」フィルターを探してキャンバスにドラッグします。
+1. 右側のフィルターパネルで、「**リストのメンバー**」フィルターを検索してキャンバスにドラッグします。
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
-1. ドロップダウンをクリックするか、または入力して、スマートリストに含めるリストを検索します。
+1. ドロップダウンをクリックするか入力して、スマートリストに含めるリストを検索します。
 
    ![](assets/memberoflist.png)
 
-   完了! この例では、スマートリストは、そのリストのメンバーのみをターゲットし、含める他のルールに基づいて評価するようになります。
+   完了です。この例では、スマートリストはリストのメンバーのみをターゲットし、含める他のルールに基づいて評価するようになります。
