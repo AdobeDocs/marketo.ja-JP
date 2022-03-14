@@ -1,36 +1,37 @@
 ---
-description: セールスアクティビティ属性の Salesforce へのログ記録 — Marketoドキュメント — 製品ドキュメント
-title: セールスアクティビティ属性の Salesforce への記録
+description: セールスアクティビティ属性の Salesforce へのログ — Marketo ドキュメント — 製品ドキュメント
+title: セールスアクティビティ属性の Salesforce へのログ
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
-workflow-type: tm+mt
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 8ef990072db04b99b698b0e0e10f42fff53e1411
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-# セールスアクティビティ属性の Salesforce への記録 {#logging-sales-activity-attributes-to-salesforce}
+# セールスアクティビティ属性の Salesforce へのログ {#logging-sales-activity-attributes-to-salesforce}
 
 Salesforce 管理者は、カスタムアクティビティフィールドを Salesforce に手動で追加できます。
 
-1. Salesforce アカウントで、 **設定**.
+1. Salesforce アカウントで、「**設定**」をクリックします。
 
 1. クイック検索フィールドで「アクティビティのカスタムフィールド」を検索し、クリックします。
 
 1. 「**新規**」をクリックします。
 
-1. 以下のテーブルに基づいて、追加するフィールドに対応するデータタイプを選択し、 **次へ**.
+1. 以下のテーブルに基づいて、追加するフィールドに対応するデータタイプを選択し、「**次へ**」をクリックします。
 
 1. 追加するフィールドに対応するフィールド名とラベルを入力します。
 
-次の表の各列の説明。
+次の表では各列を説明します。
 
-* **フィールドラベル**:UI に表示されるフィールド名
-* **フィールド名**:フィールドの技術的な名前（入力したフィールド名が、下の表の「フィールド名」と一致していることを確認してください）
-* **API 名**:API 用のフィールドの技術的な名前（入力した API 名が以下の表の API 名と一致していることを確認してください）
-* **データタイプ**:フィールドのタイプ
-* **サイズ**:テキストフィールドのサイズ
+* **フィールドラベル**：UI に表示されるフィールド名
+* **フィールド名**：フィールドの技術的な名前（入力したフィールド名が、下の表の「フィールド名」と一致していることを確認してください）
+* **API 名**：API 用のフィールドの技術的な名前（入力した API 名が以下の表の API 名と一致していることを確認してください）
+* **データタイプ**：フィールドのタイプ
+* **サイズ**：テキストフィールドのサイズ
 
 <table>
  <tr>
@@ -91,8 +92,8 @@ Salesforce 管理者は、カスタムアクティビティフィールドを Sa
  </tr>
  <tr>
   <td>返信済みの Marketo セールスメール</td>
-  <td>MSE_Renlied</td>
-  <td>MSE_Relided__c</td>
+  <td>MSE_Replied</td>
+  <td>MSE_Replied__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
