@@ -14,8 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[スマートキャンペーンメンバーシップの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)>
->
+>[スマートキャンペーン結果の表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 スマートキャンペーンの結果をフィルタリングして、重要な特定のアクティビティを確認します。
 
