@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
+source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
 workflow-type: tm+mt
-source-wordcount: '8397'
+source-wordcount: '8421'
 ht-degree: 98%
 
 ---
@@ -1261,14 +1261,21 @@ ht-degree: 98%
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 分析 {#analytics}
+            + [分析ページの概要](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
+            + [「コンテンツ」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
+            + [「自分」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
+            + [「チーム」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [テンプレートエンゲージメント](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + キャンペーン {#campaigns}
             + [マーケティングキャンペーンへの追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
+            + Salesforce のカスタマイズ {#salesforce-customization}
+               + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce の連携 {#salesforce-integration}
                + [Salesforce アクティビティ詳細のカスタマイズ設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Marketo Sales アカウントの Salesforce への接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Salesforce を Sales Insight アクションから切断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Salesforce 同期設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + メール {#email}
             + コマンドセンター {#command-center}
@@ -1296,7 +1303,7 @@ ht-degree: 98%
          + よくある質問 {#faq}
             + [CC/BCC を使用して複数の受信者を追跡できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [セルフビューを防ぐ方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
-            + [場所の追跡の仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [位置トラッキングの仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight のアクションは、メールの重複排除をどのように処理しますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)

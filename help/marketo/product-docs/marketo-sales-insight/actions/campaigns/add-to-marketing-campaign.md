@@ -1,12 +1,13 @@
 ---
-description: Add to Marketing Campaign - Marketo Docs - Product Documentation
+description: マーケティングキャンペーンに追加 — Marketoドキュメント — 製品ドキュメント
 title: マーケティングキャンペーンへの追加
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 6%
+source-wordcount: '328'
+ht-degree: 10%
 
 ---
 
@@ -20,27 +21,27 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->In order to add a person to a Marketo Campaign from Sales Connect, Sales Connect must have the person&#39;s Marketo lead ID.
+>セールスコネクトからMarketoキャンペーンに人を追加するには、セールスコネクトにその人のMarketoリード ID が必要です。
 
-1. Click the **People** Tab.
+1. 次をクリック： **人** タブ。
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. 追加する連絡先を見つけます。
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. Click the checkbox to select your contact(s).
+1. チェックボックスをクリックして連絡先を選択し、「 」をクリックします。 **選択項目をキャンペーンに追加**.
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. クリック **選択項目をキャンペーンに追加**.
+1. ここに手順を追加
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
-1. Since you&#39;re adding to a Marketing campaign, skip selecting a &quot;from&quot; address. ただし、連絡先をさらに追加することもできます。 選択する場合は、「個人」をクリックして入力します。 終了したら「**次へ**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信元」アドレスの選択をスキップしてください。 ただし、連絡先をさらに追加することもできます。 選択する場合は、「個人」をクリックして入力します。 終了したら「**次へ**」をクリックします。
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. クリック **マーケティングキャンペーン**.
 
@@ -58,7 +59,7 @@ PICC
 
 PICC
 
-1. You&#39;re shown the contacts that qualify. クリック **開始** をクリックして追加します。
+1. クオリファイ対象の連絡先が表示されました。 クリック **開始** をクリックして追加します。
 
 PICC
 
@@ -76,7 +77,7 @@ PICC
 
 PICC
 
-1. マーケティングキャンペーンに追加するので、「送信元」アドレスの選択をスキップしてください。 ただし、連絡先をさらに追加することもできます。 If you choose to, click Individuals and type them in. 終了したら「**次へ**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信元」アドレスの選択をスキップしてください。 ただし、連絡先をさらに追加することもできます。 選択する場合は、「個人」をクリックして入力します。 終了したら「**次へ**」をクリックします。
 
 PICC
 
