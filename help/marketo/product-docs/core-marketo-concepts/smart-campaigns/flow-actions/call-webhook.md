@@ -1,40 +1,39 @@
 ---
 unique-page-id: 1147023
-description: Webフックに電話 —Marketoドキュメント — 製品ドキュメント
-title: ウェブフックを呼び出し
+description: Web フックの呼び出し - Marketo ドキュメント - 製品ドキュメント
+title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# ウェブフックを呼び出し {#call-webhook}
+# Web フックの呼び出し {#call-webhook}
 
 >[!PREREQUISITES]
 >
->[Webフックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Web フックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## 概要 {#overview}
 
-Webhookを使用すると、サードパーティのサービスとやり取りできます。 スマートキャンペーンフローでWebフックを呼び出して、情報を送受信します。
+Web フックを使用すると、サードパーティのサービスとやり取りできます。スマートキャンペーンフローで Web フックを呼び出して情報を送受信します。
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->[Webhooks](https://developers.marketo.com/documentation/webhooks/)があなたに役立つ素晴らしいことを学びましょう。
+>[Web フック](https://developers.marketo.com/documentation/webhooks/)を使用して素晴らしい事ができるようになります。
 
-## 使用状況 {#usage}
+## 使用方法 {#usage}
 
-ドロップダウンから&#x200B;**Webhook**&#x200B;を選択します。
+ドロップダウンから **web フック**&#x200B;を選択します。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-それだけだ！ ユーザーがスマートキャンペーンフローに入るたびに、Webフックが呼び出されるようになりました。
+これだけです。これで、ユーザーがスマートキャンペーンフローに入るたびに web フックが呼び出されるようになります。
 
 >[!MORELIKETHIS]
 >
->[スマートキャンペーンでのWebフックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[スマートキャンペーンでの web フックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
