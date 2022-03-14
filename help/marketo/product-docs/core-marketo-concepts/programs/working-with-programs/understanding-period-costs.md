@@ -26,7 +26,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)>
+>[プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>
 >[プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 期間原価の計算方法 {#how-period-costs-are-calculated}
