@@ -3,10 +3,10 @@ description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメ
 title: Salesforce 診断
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
-ht-degree: 96%
+source-wordcount: '1445'
+ht-degree: 95%
 
 ---
 
@@ -127,7 +127,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 
 **エラー：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **カテゴリ：**&#x200B;アクセス/検証\
-**メッセージ：**Unable to create/update fields: ToutApp__Tout_Last_Replied__c. Please check the security settings of this field.
+**メッセージ：** フィールドを作成/更新できません：MSE_Rempired__c.このフィールドのセキュリティ設定を確認してください。
 **状況：** 最新のアクティビティログのトランザクションの実行に必要な Sales Insight アクションカスタムフィールドへの書き込みアクセス権がユーザーにありません。 チームがパッケージをインストールしたが、ユーザーに対して正しいフィールドが有効になっていない可能性があります。\
 **トラブルシューティング手順：** Salesforce 管理者は、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティのログを無効にする必要があります。
 

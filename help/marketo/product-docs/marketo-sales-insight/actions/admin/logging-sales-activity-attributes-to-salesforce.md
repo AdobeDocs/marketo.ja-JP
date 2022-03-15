@@ -4,10 +4,10 @@ title: セールスアクティビティ属性の Salesforce へのログ
 hide: true
 hidefromtoc: true
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 8ef990072db04b99b698b0e0e10f42fff53e1411
-workflow-type: ht
-source-wordcount: '330'
-ht-degree: 100%
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Salesforce 管理者は、カスタムアクティビティフィールドを Sa
 
 次の表では各列を説明します。
 
-* **フィールドラベル**：UI に表示されるフィールド名
+* **フィールドラベル**：UI に表示されるフィールド名 （この名前は、チームが読みやすくするためにカスタマイズできます）
 * **フィールド名**：フィールドの技術的な名前（入力したフィールド名が、下の表の「フィールド名」と一致していることを確認してください）
 * **API 名**：API 用のフィールドの技術的な名前（入力した API 名が以下の表の API 名と一致していることを確認してください）
 * **データタイプ**：フィールドのタイプ

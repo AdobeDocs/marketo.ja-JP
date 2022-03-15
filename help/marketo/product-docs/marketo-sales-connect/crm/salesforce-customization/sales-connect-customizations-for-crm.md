@@ -3,16 +3,16 @@ unique-page-id: 14745793
 description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # CRM 用の Sales Connect のカスタマイズ {#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[ここ](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)にあります。
+以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[ここ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)にあります。
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Salesforce カスタマイズパッケージのアップデートには、機能
 
 >[!NOTE]
 >
->**管理者権限が必要です。**
+>**管理者権限が必要。**
 
 1. 内 [web アプリケーション](https://www.toutapp.com)、歯車アイコンをクリックし、「 **設定**.
 
