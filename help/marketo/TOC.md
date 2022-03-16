@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '8449'
+source-wordcount: '8456'
 ht-degree: 98%
 
 ---
@@ -1321,6 +1321,9 @@ ht-degree: 98%
                + [CSV を使用した連絡先のインポート](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [リードページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+         + 電話 {#phone}
+            + [通話記録の有効化](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [二者間による同意の設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での Sales Insight アクション構成](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)

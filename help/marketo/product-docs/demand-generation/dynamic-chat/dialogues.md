@@ -2,10 +2,10 @@
 description: ダイアログ - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログ
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-2.png)
 
-1. 名前を入力して（説明はオプション）優先度レベルを設定し、「**保存**」をクリックします。
+1. 空のダイアログ、または事前入力済みのテンプレートを選択します。 名前を入力し（説明はオプション）、優先度レベルを変更（オプション）、 **作成**.
 
    ![](assets/dialogues-3.png)
 
