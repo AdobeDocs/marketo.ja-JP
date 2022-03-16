@@ -2,10 +2,10 @@
 description: 動的チャットを Marketo に接続する - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 70%
+source-wordcount: '271'
+ht-degree: 68%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 70%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Dynamic Chat に同期する標準フィールドまたはカスタムフィールドを 50 個まで選択します。 終了したら「**次へ**」をクリックします。
+1. Marketoインスタンスから最大 50 個の標準フィールドまたはカスタムフィールドを選択し、オーディエンスのターゲティング、データマッピング、パーソナライゼーションで使用するために Dynamic Chat に同期します。 終了したら「**次へ**」をクリックします。
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 70%
    >
    >この時点で、属性の選択 **できません** は、最初の同期後に変更されます。 同期が完了したら、戻ってさらに追加するだけです（50 未満を選択した場合）。
 
-1. 正しい選択をしていることを確認します ( 注意：同期後に属性を削除することはできないので、 **選択項目の編集** （この手順で任意のを変更する必要がある場合）。 クリック **確認** 同期を開始するために完了した場合。
+1. 選択内容を確認します ( 注意：同期後に属性を削除することはできないので、 **選択項目の編集** （この手順で任意のを変更する必要がある場合）。 クリック **確認** 同期を開始するために完了した場合。
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
