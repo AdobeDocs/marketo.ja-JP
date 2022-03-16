@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '8456'
+source-wordcount: '8458'
 ht-degree: 98%
 
 ---
@@ -1323,6 +1323,7 @@ ht-degree: 98%
                + [リードページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
             + [通話記録の有効化](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [ローカルプレゼンス](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [二者間による同意の設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce の設定 {#salesforce-configuration}
             + [Salesforce での Sales Insight アクション構成](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)

@@ -3,10 +3,11 @@ description: 通話記録の有効化 — Marketoドキュメント — 製品�
 title: 通話記録の有効化
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 12%
+source-wordcount: '102'
+ht-degree: 15%
 
 ---
 
@@ -32,4 +33,4 @@ ht-degree: 12%
 
 >[!MORELIKETHIS]
 >
->[2 者の同意設定](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[二者間による同意の設定](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

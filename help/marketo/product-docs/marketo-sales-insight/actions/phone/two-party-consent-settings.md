@@ -3,10 +3,11 @@ description: 二者間による同意の設定 - Marketo ドキュメント - �
 title: 二者間による同意の設定
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 87%
 
 ---
 
@@ -20,32 +21,32 @@ ht-degree: 100%
 
 1. 「設定」アイコンをクリックし、「**設定**」を選択します。
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. 「管理設定」で、「**一般**」をクリックします。
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. 「Sales Connect 電話設定」まで下にスクロールし、「**録音通知の管理**」をクリックします。
+1. 通話記録カードで、 **録画通知の管理**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. 「**録音をインポート**」をクリックします。
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Wav ファイルと MP3 ファイルのみがサポートされています。30 秒を超えるファイルはアップロードできません。
+   >[!NOTE]
+   >
+   >Wav ファイルと MP3 ファイルのみがサポートされています。30 秒を超えるファイルはアップロードできません。
 
 1. ハードドライブから目的のオーディオファイルを選択します。
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**同意通知として選択**」をクリックします。終了したら「**OK**」をクリックします。
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. 切り替えボタンをクリックして、選択したメッセージを通話録音の最初に再生するようにします。
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
