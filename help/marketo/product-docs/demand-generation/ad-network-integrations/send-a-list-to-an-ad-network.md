@@ -2,10 +2,10 @@
 description: 広告ネットワークへのリストの送信 - Marketo ドキュメント - 製品ドキュメント
 title: 広告ネットワークへのリストの送信
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '204'
-ht-degree: 100%
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+workflow-type: tm+mt
+source-wordcount: '221'
+ht-degree: 80%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「継続的なオーディエンスの同期を有効にする」を選択した場合、Marketo インスタンスでリストのメンバーシップが変更されるため、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。
+   >「継続的なオーディエンスの同期を有効にする」を選択した場合、Marketoは、Marketoインスタンスでリストが変更されるたびに、選択した広告ネットワークでリストを最新の状態に保ちます。 2 人とも **および** 静的リストに追加または削除された担当者をオーディエンスから削除します。
 
 1. これで完了です。「**OK**」をクリックして終了します。
 
