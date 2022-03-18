@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
-ht-degree: 98%
+source-wordcount: '8573'
+ht-degree: 97%
 
 ---
 
@@ -1303,11 +1303,22 @@ ht-degree: 98%
                + [グループメールを使用したメール送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [作成ウィンドウでのテンプレートの使用](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + よくある質問 {#faq}
+            + [削除した連絡先またはグループを復元できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC を使用して複数の受信者を追跡できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [コンテンツと添付ファイルに関する FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Sales Insight のアクションには、iPhoneまたは Android アプリがありますか。](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Sales Insight のアクションをサ許可リストーバーにする方法を教えてください。](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce に接続する際に「リクエストを認証できませんでした」という問題を修正する方法を教えてください。](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [セルフビューを防ぐ方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置トラッキングの仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight のアクションは、メールの重複排除をどのように処理しますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [自分のアカウントから締め出されました。どうすればよいでしょうか。](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [Sales Insight のアクションは Salesforce Lightning と互換性がありますか？](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [最新のクライアントバージョンは何ですか？](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Sales Insight Actions のサービス利用条件とは](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [連絡先が Sales Insight のアクションにプッシュされないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [連絡先を削除できない理由](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [すべての連絡先が Sales Insight アクションにプッシュされなかったのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Salesforce アクティビティに追跡アクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
