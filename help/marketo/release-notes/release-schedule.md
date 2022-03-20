@@ -6,15 +6,15 @@ exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 source-git-commit: 07d141c67ac12f865397f6ff926accd8835ad368
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # リリーススケジュール {#release-schedule}
 
-**リリース**:各リリースの月と年。 リリースノートが利用可能になると、以下の表にリンクされます。
+**リリース**：各リリースの月と年。リリースノートが利用可能になると、以下の表にリンクされます。
 
-**リリース日**:ロールアウトは通常、リリース週の火曜日に開始され、アップグレードの大部分は金曜日の夜におこなわれます。 特定の日付とリリースの詳細を記載したメールが送信されます。表示される日付は、金曜日のアップデート用です。
+**リリース日**：ロールアウトは通常、リリース週の火曜日に開始され、アップグレードの大部分は金曜日の夜におこなわれます。特定の日付とリリースの詳細を記載したメールが送信されます。表示される日付は、金曜日のアップデート用です。
 
 **ステータス**:
 
@@ -37,33 +37,33 @@ _リリース日は変更される場合があります_
    <th width="250px">ステータス</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">1月22日</a></td>
-   <td>2022 年 1 月 22 日</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">22 年 1 月</a></td>
+   <td>2022 年 1 月 21 日</td>
    <td>発送済み</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">22 年 3 月</a></td>
-   <td>2022 年 3 月 12 日</td>
+   <td>2022 年 3 月 11 日</td>
    <td>進行中</td>
   </tr>
   <tr> 
-   <td>22年5月</td>
-   <td>2022 年 5 月 7 日</td>
+   <td>22 年 5 月</td>
+   <td>2022 年 5 月 06 日</td>
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>2022 年 6 月</td>
-   <td>2022 年 6 月 25 日</td>
+   <td>22 年 6 月</td>
+   <td>2022 年 6 月 24 日</td>
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>22年8月</td>
-   <td>2022 年 8 月 20 日</td>
+   <td>22 年 8 月</td>
+   <td>2022 年 8 月 19 日</td>
    <td>予定通り</td>
   </tr>
   <tr>
-   <td>22年10月</td>
-   <td>2022 年 10 月 15 日</td>
+   <td>22 年 10 月</td>
+   <td>2022 年 10 月 14 日</td>
    <td>予定通り</td>
   </tr>
  </tbody>
