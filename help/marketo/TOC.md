@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 97%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 97%
             + [最新のクライアントバージョンは何ですか？](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Sales Insight Actions のサービス利用条件とは](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [連絡先が Sales Insight のアクションにプッシュされないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [ダイナミックフィールドが入力されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [連絡先を削除できない理由](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [すべての連絡先が Sales Insight アクションにプッシュされなかったのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Salesforce アクティビティに追跡アクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + 統合 {#integrations}
+            + [外部ソースへの電子メールの記録](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Connect ユーザーにキャンペーンを表示](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 97%
             + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + テンプレート {#templates}
             + [ハイパーリンクテキストの追加](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [動的フィールド](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [テンプレートの管理](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [テンプレートカテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [おすすめテンプレート](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

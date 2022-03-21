@@ -2,9 +2,9 @@
 description: Sales Insight アクション機能の概要 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight アクション機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 2%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 2%
 # Sales Insight アクション機能の概要 {#msi-actions-feature-overview}
 
 Sales Insight Actions を使用して、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローに統合し、予測に関する取り組みを加速します。
+
+>[!AVAILABILITY]
+>
+>この機能は現在、限られた GA 上にあります。 カスタマーサクセスマネージャーまたは電子メールにお問い合わせください `sales-insights(at)adobe(dot)com` をクリックしてアクセスをリクエストします。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -21,7 +25,7 @@ Sales Insight Actions を使用して、マーケティングを活用したイ�
 
 * セールスメール送信
    * セールス E メールには、表示、クリックおよび返信のトラッキング（配信チャネルが設定されている場合）が含まれている
-   * 電子メールPersonalization、カスタマイズされた署名、添付ファイルが含まれます
+   * 電子メールのパーソナライゼーション、カスタマイズされた署名、添付ファイルを含む
    * テンプレートの共有とレポート
    * チーム共有、グループメール、CC/BCC 機能
    * セールスメールアクティビティは、Marketo担当者レコードに記録されます

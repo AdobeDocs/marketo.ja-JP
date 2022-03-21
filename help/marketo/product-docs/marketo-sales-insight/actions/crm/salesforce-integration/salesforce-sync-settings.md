@@ -4,10 +4,10 @@ title: Salesforce 同期設定
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 75%
+source-wordcount: '709'
+ht-degree: 56%
 
 ---
 
@@ -114,3 +114,21 @@ ht-degree: 75%
 1. 目的のオプションを選択します（「Salesforce タスクに同期しない」がデフォルトで選択されています）。
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Sales Insight のアクションタスクを Salesforce と初めて同期 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Sales Insight アクションと Salesforce タスクの同期を初めて有効にすると、Salesforce タスクがインポートされます。 Sales Insight アクションでの現在のタスクを Salesforce に引き継ぐことはありません。 混乱や重複を減らすために、Sales Insight アクションから Salesforce に同期されるタスクは、Sales Insight アクションを SFDC と同期した後に作成されるタスクのみです。
+
+Sales Insight のアクションと SFDC タスクを同期すると、次の処理が行われます。
+
+タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
+
+過去 24 時間に更新または作成されたリマインダーは、SFDC から Sales Insight アクションに取り込まれます。 同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
+
+同期がオンになっていて、SFDC 内のタスクを削除した場合、過去 15 日間に削除されたすべてのタスクがコマンドセンターから削除されます。
+
+同期が有効になっている限り、Sales Insight Actions と SFDC の間でタスクを常に同期します。
+
+初回同期後、Sales Insight アクションで作成、編集、完了、削除したタスクは、Salesforce のタスクリストに同期されます。 また、Salesforce で作成、編集、完了、または削除されたすべての項目は、Sales Insight アクションのタスクリストを更新します。
+
+この同期を有効にするには、Web アプリケーションの設定ページで同期ボックスをオンにします。
