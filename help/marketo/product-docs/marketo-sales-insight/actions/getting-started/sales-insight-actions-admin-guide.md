@@ -1,10 +1,8 @@
 ---
 description: Sales Insight Actions 管理ガイド — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight アクション管理ガイド
-hide: true
-hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 7%

@@ -1,13 +1,11 @@
 ---
 description: Salesforce Classic カスタマイズパッケージのアンインストール — Marketoドキュメント — 製品ドキュメント
 title: Salesforce Classic カスタマイズパッケージのアンインストール
-hide: true
-hidefromtoc: true
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 83556a56bddc1bdbeb5a5e93ec3a2c0d92aed831
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1187'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -25,7 +23,7 @@ MSI アクションパッケージの使用を開始したら、Salesforce ア�
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. クリック **編集** をクリックします。
+1. ページレイアウトの横にある「**編集**」をクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 

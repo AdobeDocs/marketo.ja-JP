@@ -1,13 +1,11 @@
 ---
 description: ログイン管理の設定 — Marketoドキュメント — 製品ドキュメント
 title: ログイン管理設定
-hide: true
-hidefromtoc: true
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -23,7 +21,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
 ログイン管理環境設定を更新するには、次の手順に従います。
 
