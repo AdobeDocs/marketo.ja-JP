@@ -3,14 +3,18 @@ unique-page-id: 4720433
 description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '712'
-ht-degree: 100%
+source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+workflow-type: tm+mt
+source-wordcount: '988'
+ht-degree: 72%
 
 ---
 
 # Marketo のプロトコルの設定 {#configure-protocols-for-marketo}
+
+制限付きのファイアウォールまたはプロキシサーバー設定を使用している場合は、Adobe Marketo Engageが期待どおりに動作するよう許可リストに、ユーザーまたはネットワーク管理者が特定のドメインと IP アドレス範囲をする必要が生じる場合があります。
+
+## ブランドキャンペーンのランディングページとメール {#branded-campaign-landing-pages-and-emails}
 
 マーケティンググループが Marketo を使用して、ブランドキャンペーンのランディングページとメールを作成しています。これらのランディングページとメールが確実に機能するように、IT 部門の支援が必要です。次のプロトコルを、マーケティンググループからメールで送信された情報と共に設定してください。
 
@@ -99,3 +103,36 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 ## 手順 4：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
 MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
+
+## 送信 IP アドレス {#outbound-ip-addresses}
+
+アウトバウンド接続とは、ユーザーに代わって、Marketo Engageがインターネット上のサーバーに接続することです。 一部のパートナーやベンダーは、お客様自身の IT 組織と連携し、を使用してサーバーへのア許可リストクセスを制限する場合があります。 その場合は、Marketo Engageに追加する送信 IP アドレスブロックをユーザーに提供する必要があり許可リストます。
+
+**Web フック**
+
+Marketo Engage [ウェブフック](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} は、アウトバウンドの統合メカニズムです。 When a [ウェブフックを呼び出す](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;} フローアクションは、スマートキャンペーンの一環として実行され、外部 Web サービスに対して HTTP リクエストが実行されます。 Web サービスパブリッシャーが、外部 Web サービスが存在するネットワークのファイアウォール上のを使用する場合許可リストは、パブリッシャーは、以下に示す IP アドレスブロックを自分のネットワークに追加する必要があ許可リストります。
+
+**CRM 同期**
+
+Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} および [Microsoft Dynamics 同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} は、CRM ベンダーによって公開された API に対して送信 HTTP リクエストをおこなう統合メカニズムです。 IT 組織が以下の IP アドレスブロックをブロックして CRM ベンダー API にアクセスできないようにする必要があります。
+
+**Marketo Engage送信 IP アドレスブロック**
+
+次の表に、発信呼び出しをおこなうすべてのMarketo Engageサーバーを示します。 Marketo Engageからの発信接続を受け取る IP許可リスト、サーバー、ファイアウォール、アクセス制御リスト、セキュリティグループ、またはサードパーティのサービスを構成する場合は、この一覧を使用します。
+
+<table>
+ <tbody>
+  <tr>
+   <th>IP ブロック（CIDR 表記）</th>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+   <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+   <tr>
+   <td>199.15.212.0/22</td>
+  </tr>
+ </tbody>
+</table>
