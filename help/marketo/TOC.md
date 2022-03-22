@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 97%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 97%
          + キャンペーン {#campaigns}
             + [マーケティングキャンペーンへの追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce のカスタマイズ {#salesforce-customization}
                + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 97%
             + [外部ソースへの電子メールの記録](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [ユーザーへの Marketo アクセス権の付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Sales Insight アクションの注目のアクション](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Sales Connect ユーザーにキャンペーンを表示](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [セールスアクティビティのトリガーとフィルター](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight アクションアクティビティの用語集](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
