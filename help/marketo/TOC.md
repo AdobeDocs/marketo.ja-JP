@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8608'
 ht-degree: 97%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 97%
             + [ダイアログの概要](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [ストリームの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [レポート](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + イベント {#events}
          + イベントについて {#understanding-events}
