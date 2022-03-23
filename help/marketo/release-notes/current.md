@@ -2,16 +2,16 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
-ht-degree: 5%
+source-wordcount: '793'
+ht-degree: 6%
 
 ---
 
 # リリースノート：2022年3月 {#release-notes-mar-22}
 
-2022 年 3 月リリースには、次の機能が含まれています。 AdobeMarketo Engageエディションの機能の可用性を確認してください。
+2022 年 3 月リリースには、次の機能が含まれています。 Adobe Marketo Engageエディションの機能が使用可能かどうかを確認します。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +31,6 @@ ht-degree: 5%
 
 * **次世代のエクスペリエンスの画面の更新**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
 
-   * Design Studio の電子メールリスト表示（新しいバルクアクションを含む）
    * Design Studio のフォームリスト表示（新しいバルクアクションを含む）
 
 * **プログラムワークフロー更新の読み込み**:インポートプログラムワークフローは、設計と操作性の更新された機能強化を伴う次世代のエクスペリエンスで提供されています。 これは、切り替えスイッチがない自動変更です。
