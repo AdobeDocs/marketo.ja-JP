@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
 workflow-type: tm+mt
-source-wordcount: '8601'
+source-wordcount: '8609'
 ht-degree: 97%
 
 ---
@@ -591,8 +591,12 @@ ht-degree: 97%
          + [動的チャットの Marketo 接続](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [ダイアログ](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [ストリームの作成](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
+         + ダイアログ {#dialogues}
+            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+            + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+            + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [ストリームの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [レポート](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + イベント {#events}
          + イベントについて {#understanding-events}
             + [イベントプログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
