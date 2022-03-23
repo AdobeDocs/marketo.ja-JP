@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '742'
-ht-degree: 74%
+source-wordcount: '744'
+ht-degree: 73%
 
 ---
 
@@ -33,7 +33,7 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 設定 {#configuration}
 

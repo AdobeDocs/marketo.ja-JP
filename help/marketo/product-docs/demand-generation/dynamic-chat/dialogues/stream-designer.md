@@ -2,10 +2,10 @@
 description: Stream Designer - Marketoドキュメント — 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
-ht-degree: 86%
+source-wordcount: '596'
+ht-degree: 83%
 
 ---
 
@@ -43,7 +43,7 @@ _多数の_&#x200B;ストリームの組み合わせを作成できます。こ�
 
 ## ストリームの作成 {#create-a-stream}
 
-1. 以下を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)、 **ストリームデザイナー** タブをクリックします。
+1. 以下を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}、 **ストリームデザイナー** タブをクリックします。
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ _多数の_&#x200B;ストリームの組み合わせを作成できます。こ�
 
 >[!NOTE]
 >
->「公開」をクリックする前に、必ず[ターゲット URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) を入力したことを確認してください。
+>「公開」をクリックする前に、必ず [ターゲット URL を入力しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}。
 
 >[!MORELIKETHIS]
 >
