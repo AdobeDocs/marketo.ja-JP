@@ -1,9 +1,8 @@
 ---
 description: Sales Insight のアクションと GDPR への準拠 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight のアクションと GDPR コンプライアンス
-hide: true
-hidefromtoc: true
-source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
+exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 3%
@@ -72,7 +71,7 @@ Sales Insight Actions には、担当者詳細ビューのコンプライアン�
 この場合も、ユーザーには、次のような多数のドロップダウンオプションがあります。
 
 * CRM 同期
-* 読み込み
+* インポート
 * 手動アップロード
 * Chrome 拡張機能
 * その他
@@ -146,7 +145,7 @@ Sales Insight Actions には、担当者詳細ビューのコンプライアン�
    <td>LinkedIn</td> 
   </tr> 
   <tr> 
-   <td>職位</td> 
+   <td>タイトル</td> 
    <td>作成日時</td> 
    <td>エクスポート時間</td> 
   </tr> 

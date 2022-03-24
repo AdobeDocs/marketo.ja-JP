@@ -1,17 +1,15 @@
 ---
 description: チーム用にカスタム配信チャネルを設定する — Marketoドキュメント — 製品ドキュメント
-title: チーム用のカスタム配信チャネルの設定
-hide: true
-hidefromtoc: true
+title: チーム向けのカスタム配信チャネルの設定
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 10%
+ht-degree: 21%
 
 ---
 
-# チーム用のカスタム配信チャネルの設定 {#set-up-a-custom-delivery-channel-for-your-team}
+# チーム向けのカスタム配信チャネルの設定 {#set-up-a-custom-delivery-channel-for-your-team}
 
 >[!NOTE]
 >

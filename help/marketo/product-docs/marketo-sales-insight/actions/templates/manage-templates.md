@@ -1,17 +1,15 @@
 ---
 description: テンプレートの管理 — Marketoドキュメント — 製品ドキュメント
-title: テンプレートを管理
-hide: true
-hidefromtoc: true
+title: テンプレートの管理
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 37%
+ht-degree: 38%
 
 ---
 
-# テンプレートを管理 {#manage-templates}
+# テンプレートの管理 {#manage-templates}
 
 ## テンプレートの作成 {#create-a-new-template}
 

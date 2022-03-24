@@ -1,12 +1,11 @@
 ---
 description: グループの管理 — Marketoドキュメント — 製品ドキュメント
 title: グループの管理
-hide: true
-hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 

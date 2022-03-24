@@ -1,10 +1,8 @@
 ---
 description: E メールに添付ファイルまたは追跡可能なコンテンツを追加する — Marketoドキュメント — 製品ドキュメント
 title: メールへの添付ファイルまたはトラック可能なコンテンツの追加
-hide: true
-hidefromtoc: true
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 7%

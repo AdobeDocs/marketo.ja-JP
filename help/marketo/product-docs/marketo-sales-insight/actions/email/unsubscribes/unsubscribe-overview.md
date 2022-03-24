@@ -1,25 +1,23 @@
 ---
-description: 購読解除の概要 — Marketoドキュメント — 製品ドキュメント
-title: 配信停止の概要
-hide: true
-hidefromtoc: true
+description: 登録解除の概要 - Marketo ドキュメント - 製品ドキュメント
+title: 登録解除の概要
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 5%
+ht-degree: 16%
 
 ---
 
-# 配信停止の概要 {#unsubscribe-overview}
+# 登録解除の概要 {#unsubscribe-overview}
 
 組織が E メールのプライバシーに関する法律に準拠することがますます重要になってきています。 これを支援するために、配信停止エクスペリエンスをいくつか強化しました。
 
 * 配信停止リンクは、Marketo Sales および Salesforce から送信されるすべてのメールに配置されます（Outlook または Gmail から送信されるカスタムメールには適用されません）
-* 管理者は、チーム全体の配信停止メッセージを編集できます
-* 配信停止情報は PDV に保存されます
-* 配信停止は手動でおこなうことができます。リンク、Salesforce 同期、バウンスをクリック済み
-* 新しい配信停止リンクランディングページ
+* 管理者は、チーム全体の登録解除メッセージを編集できます
+* 登録解除情報は PDV に保存されます
+* 登録解除は手動でおこなうことができます。クリック済みリンク、Salesforce 同期、バウンスです。
+* 新規リンクの登録解除ランディングページ
 
 ## リンクの配信停止ランディングページ {#unsubscribe-link-landing-page}
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '8608'
+source-wordcount: '8609'
 ht-degree: 97%
 
 ---
@@ -1279,7 +1279,7 @@ ht-degree: 97%
                + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce の連携 {#salesforce-integration}
                + [Salesforce アクティビティ詳細のカスタマイズ設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [Marketo Sales アカウントの Salesforce への接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Sales Insight アクションアカウントを Salesforce に接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + [Salesforce を Sales Insight アクションから切断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [応答ログ](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)

@@ -1,10 +1,8 @@
 ---
 description: Marketoに対するユーザーアクセスの許可 — Marketoドキュメント — 製品ドキュメント
 title: ユーザーへの Marketo アクセス権の付与
-hide: true
-hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 7%

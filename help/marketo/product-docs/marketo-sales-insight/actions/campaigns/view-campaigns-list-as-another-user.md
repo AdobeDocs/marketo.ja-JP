@@ -1,9 +1,8 @@
 ---
 description: キャンペーンリストを別のユーザーとして表示する — Marketoドキュメント — 製品ドキュメント
 title: キャンペーンリストを別のユーザーとして表示
-hide: true
-hidefromtoc: true
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+exl-id: 6a196618-fe34-4770-b405-289f886eb389
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 18%
