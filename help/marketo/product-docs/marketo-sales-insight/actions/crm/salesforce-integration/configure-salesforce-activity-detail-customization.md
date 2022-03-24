@@ -3,10 +3,11 @@ description: Salesforce アクティビティ詳細のカスタマイズの設�
 title: Salesforce アクティビティ詳細のカスタマイズ設定
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
+source-git-commit: 43878490538ad5485c9e6d7aa0c7f8f1b443ad8c
 workflow-type: tm+mt
 source-wordcount: '706'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -14,7 +15,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->* Salesforce と Sales Insight のアクション [は、接続されている必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+>* Salesforce と Sales Insight のアクション [は、接続されている必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* API を使用した電子メールアクティビティのログ [は有効にする必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 
 
@@ -105,7 +106,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**管理者権限が必要です。**
+>**管理者権限が必要。**
 
 アクティビティの詳細を設定する際は、Salesforce でタスク履歴を確認する際に、セールスに最も関連するデータを検討します。
 
@@ -113,7 +114,7 @@ ht-degree: 4%
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. クリック **Salesforce**.
+1. 「**Salesforce**」をクリックします。
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
@@ -127,7 +128,8 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >必須ではありませんが、追加したテキストを角括弧で囲むと、Salesforce の件名フィールドにデータを入力する際に、データ間の識別が容易になります。 例: `[Sales Insight Actions] - {{Activity_type}}`
+   >必須ではありませんが、追加したテキストを角括弧で囲むと、Salesforce の件名フィールドにデータを入力する際に、データ間の識別が容易になります。 例：
+`[Sales Insight Actions] - {{Activity_type}}`
 
 1. 必要に応じて、 **ダイナミックフィールドを追加** 」ボタンをクリックします。
 
