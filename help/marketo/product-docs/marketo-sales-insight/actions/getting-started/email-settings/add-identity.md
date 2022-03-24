@@ -1,13 +1,11 @@
 ---
 description: ID を追加 - Marketoドキュメント - 製品ドキュメント
 title: ID を追加
-hide: true
-hidefromtoc: true
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 32%
+ht-degree: 39%
 
 ---
 
@@ -43,4 +41,4 @@ Marketo Sales で電子メールを送信し、複数の ID を持っている�
 
 >[!MORELIKETHIS]
 >
->[電子メール署名の追加または更新](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[メール署名の追加または更新](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).

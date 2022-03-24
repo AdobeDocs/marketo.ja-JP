@@ -1,17 +1,15 @@
 ---
 description: 電子メール署名の追加または更新 — Marketoドキュメント — 製品ドキュメント
-title: 電子メール署名の追加または更新
-hide: true
-hidefromtoc: true
+title: メール署名の追加または更新
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 50%
+ht-degree: 60%
 
 ---
 
-# 電子メール署名の追加または更新 {#add-or-update-your-email-signature}
+# メール署名の追加または更新 {#add-or-update-your-email-signature}
 
 Marketo Sales からのメールは、自分のメールクライアントから送信する際に、シームレスなエクスペリエンスのように感じてほしいと考えています。 これを行う最も良い方法は、電子メールの署名を追加することです。
 

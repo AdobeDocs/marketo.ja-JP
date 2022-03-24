@@ -1,13 +1,11 @@
 ---
 description: ユーザーと管理者の招待 — Marketoドキュメント — 製品ドキュメント
 title: ユーザーと管理者の招待
-hide: true
-hidefromtoc: true
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 11%
+ht-degree: 19%
 
 ---
 
@@ -49,7 +47,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
 既存のユーザーを管理者にするには、次の手順に従います。
 

@@ -1,10 +1,8 @@
 ---
 description: 電子メールを確認する — Marketoドキュメント — 製品ドキュメント
 title: メールを確認
-hide: true
-hidefromtoc: true
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 16%
