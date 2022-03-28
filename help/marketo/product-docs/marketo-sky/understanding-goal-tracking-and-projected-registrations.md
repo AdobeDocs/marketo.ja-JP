@@ -3,7 +3,8 @@ description: 目標の追跡と推定登録について — Marketoドキュメ�
 title: 目標追跡と推定登録について
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 目標追跡と推定登録について {#understanding-goal-tracking-and-projected-registrations}
 
-後 [イベント目標の設定](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) そして招待を [スマートキャンペーン](/help/sky/create-a-smart-campaign.md)では、目標の進行状況を追跡し、Marketoの予測を理解する方法について説明します。
+後 [イベント目標の設定](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) そして招待を [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)では、目標の進行状況を追跡し、Marketoの予測を理解する方法について説明します。
 
 >[!NOTE]
 >
