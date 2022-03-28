@@ -3,10 +3,10 @@ unique-page-id: 1147108
 description: プログラムのインポート - Marketo ドキュメント - 製品ドキュメント
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 94%
+source-wordcount: '897'
+ht-degree: 93%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 94%
 
 1. 「**マーケティング活動**」に移動します。
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. 「**新規**」ドロップダウンをクリックします。「**プログラムをインポート**」を選択します。
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ ht-degree: 94%
 
 1. Marketo **サブスクリプション**&#x200B;を選択してインポートするプログラムを選択します。「**次へ**」をクリックします。
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. インポートされたプログラム用の&#x200B;**キャンペーンフォルダー**&#x200B;を指定します。「**次へ**」をクリックします。
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >「**デフォルトの競合を使用**」ルールが選択されている事を確認します。同じ名前のアセットを持つインスタンスにプログラムを読み込む場合は、競合ルールが必要です。
 
+1. 目的の「競合の詳細」を選択し、 **次へ**.
+
+   ![](assets/import-a-program-5.png)
+
 1. 詳細をプレビューし、プログラムを「**インポート**」します。
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   プログラムのインポートの進行状況がダイアログに表示されます。
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 インポートが完了すると、確認のメールが送信されます。
 

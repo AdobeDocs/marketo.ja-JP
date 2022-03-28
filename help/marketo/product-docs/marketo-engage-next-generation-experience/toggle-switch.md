@@ -2,10 +2,10 @@
 description: 切り替えスイッチ — Marketoドキュメント — 製品ドキュメント
 title: 切り替えスイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 1%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
@@ -17,29 +17,31 @@ ht-degree: 1%
 >
 >切り替えスイッチを選択すると、UI が変更される前に、既存のすべてのワークフローが自動保存されます。 操作が既に進行中の場合 ( 例：アセットが承認中である ) の場合は、その旨を示すエラーメッセージが表示され、操作が完了した後にもう一度やり直す必要があります。
 
+## 個々のロールの切り替えスイッチの有効化 {#enable-the-toggle-switch-for-individual-roles}
+
+個々の役割またはすべての役割の切り替えスイッチを有効にします。 手順は以下のとおりです。
+
+1. Marketo Engageで、 **管理者**.
+
+   ![](assets/toggle-switch-1.png)
+
+1. クリック **新しいエクスペリエンス**.
+
+   ![](assets/toggle-switch-2.png)
+
+1. 切り替えスイッチにアクセスする役割を選択します。
+
+   ![](assets/toggle-switch-3.png)
+
 ## ランディングページのリスト表示 {#landing-page-list-view}
 
 次世代のランディングページのリストビューでは、検索フィルターと、大量のランディングページアクションを実行できます。
 
 1. Marketoで、 **デザインスタジオ**.
 
-   ![](assets/toggle-switch-1.png)
+   ![](assets/toggle-switch-4.png)
 
 1. 選択 **ランディングページ**.
-
-   ![](assets/toggle-switch-2.png)
-
-1. ページの右下で、 **新しいエクスペリエンス** 切り替え
-
-   ![](assets/toggle-switch-3.png)
-
-新しいエクスペリエンスが読み込まれます。
-
-![](assets/toggle-switch-4.png)
-
-## ランディングページの詳細ページ {#landing-page-details-page}
-
-1. Marketoで、ランディングページを探して選択します。
 
    ![](assets/toggle-switch-5.png)
 
@@ -51,9 +53,9 @@ ht-degree: 1%
 
 ![](assets/toggle-switch-7.png)
 
-## フォームの詳細ページ {#form-details-page}
+## ランディングページの詳細ページ {#landing-page-details-page}
 
-1. Marketoで、フォームを検索して選択します。
+1. Marketoで、ランディングページを探して選択します。
 
    ![](assets/toggle-switch-8.png)
 
@@ -65,14 +67,28 @@ ht-degree: 1%
 
 ![](assets/toggle-switch-10.png)
 
+## フォームの詳細ページ {#form-details-page}
+
+1. Marketoで、フォームを検索して選択します。
+
+   ![](assets/toggle-switch-11.png)
+
+1. ページの右下で、 **新しいエクスペリエンス** 切り替え
+
+   ![](assets/toggle-switch-12.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-13.png)
+
 ## すべての機能を有効にする {#enable-for-all-features}
 
 現在および今後提供されるすべての機能に対して、Marketoの次世代インターフェイスを有効にするオプションがあります。
 
 1. 現在切り替えスイッチを持つ領域 ( この例では、 [フォームの詳細ページ](#form-details-page))、ページの右下にある歯車アイコンをクリックします。
 
-   ![](assets/toggle-switch-11.png)
+   ![](assets/toggle-switch-14.png)
 
 1. 選択 **使用可能なすべての機能を有効にする** をクリックし、 **OK**.
 
-   ![](assets/toggle-switch-12.png)
+   ![](assets/toggle-switch-15.png)
