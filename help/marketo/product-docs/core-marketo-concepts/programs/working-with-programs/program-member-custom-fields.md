@@ -3,10 +3,10 @@ unique-page-id: 37355569
 description: プログラムメンバーカスタムフィールド - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '382'
-ht-degree: 100%
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 97%
 
 ---
 
@@ -72,6 +72,7 @@ ht-degree: 100%
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
 * [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と [API](https://developers.marketo.com/) によるインポートとエクスポートが可能です。
 * 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
+* タイプの変更： **not** が「プログラムメンバー情報」フィールドで許可されます。
 
 >[!MORELIKETHIS]
 >

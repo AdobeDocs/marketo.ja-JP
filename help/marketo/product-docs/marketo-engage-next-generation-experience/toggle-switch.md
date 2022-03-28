@@ -2,10 +2,10 @@
 description: 切り替えスイッチ — Marketoドキュメント — 製品ドキュメント
 title: 切り替えスイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 
@@ -81,14 +81,32 @@ ht-degree: 2%
 
 ![](assets/toggle-switch-13.png)
 
+## フォームリスト表示 {#form-list-view}
+
+1. Marketoで、 **デザインスタジオ**.
+
+   ![](assets/toggle-switch-14.png)
+
+1. 選択 **Forms**.
+
+   ![](assets/toggle-switch-15.png)
+
+1. ページの右下で、 **新しいエクスペリエンス** 切り替え
+
+   ![](assets/toggle-switch-16.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-17.png)
+
 ## すべての機能を有効にする {#enable-for-all-features}
 
 現在および今後提供されるすべての機能に対して、Marketoの次世代インターフェイスを有効にするオプションがあります。
 
 1. 現在切り替えスイッチを持つ領域 ( この例では、 [フォームの詳細ページ](#form-details-page))、ページの右下にある歯車アイコンをクリックします。
 
-   ![](assets/toggle-switch-14.png)
+   ![](assets/toggle-switch-18.png)
 
 1. 選択 **使用可能なすべての機能を有効にする** をクリックし、 **OK**.
 
-   ![](assets/toggle-switch-15.png)
+   ![](assets/toggle-switch-19.png)
