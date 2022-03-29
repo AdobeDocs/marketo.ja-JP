@@ -3,10 +3,10 @@ unique-page-id: 37355569
 description: プログラムメンバーカスタムフィールド - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '402'
+ht-degree: 95%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 97%
 * プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 * プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
-* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と [API](https://developers.marketo.com/) によるインポートとエクスポートが可能です。
+* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と [API](https://developers.marketo.com/) によるインポートとエクスポートが可能です。書き出しは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
 * 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 * タイプの変更： **not** が「プログラムメンバー情報」フィールドで許可されます。
 
