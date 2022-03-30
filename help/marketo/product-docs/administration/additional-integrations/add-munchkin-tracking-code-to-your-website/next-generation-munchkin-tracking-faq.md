@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 次世代 Munchkin トラッキングに関する FAQ - Marketo ドキュメント - 製品ドキュメント
 title: 次世代 Munchkin トラッキングに関する FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '733'
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+workflow-type: tm+mt
+source-wordcount: '732'
 ht-degree: 100%
 
 ---
@@ -90,4 +90,4 @@ Munchkin V2 では引き続き、匿名アクティビティのトラッキン�
 
 ## まだ質問があります。どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/welcome)に連絡してください。また、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせることもできます。喜んで回答させていただきます。
+[コミュニティ](https://nation.marketo.com/)に連絡してください。また、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせることもできます。喜んで回答させていただきます。

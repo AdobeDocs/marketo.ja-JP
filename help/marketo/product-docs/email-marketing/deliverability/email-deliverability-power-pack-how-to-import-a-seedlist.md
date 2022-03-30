@@ -1,60 +1,59 @@
 ---
 unique-page-id: 10099077
-description: 電子メール配信品質Power Pack -How to Import a Seedlist -Marketoドキュメント — 製品ドキュメント
-title: 電子メール配信品質Power Pack - How to Import a Seedlist
+description: E メール配信 Power Pack — シードリストのインポート方法 — Marketoドキュメント — 製品ドキュメント
+title: E メール配信パワーパック — シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 電子メール配信品質Power Pack:シードリストのインポート方法{#email-deliverability-power-pack-how-to-import-a-seedlist}
+# メール到達率パワーパック：シードリストのインポート方法 {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-シードリストは、Google Apps、Hotmail、Yahoo！などの複数のメールボックスプロバイダーにおける電子メールアカウントのリストで、受信トレイの割合とスパムフォルダーの配信品質を概算するために使用されます。 このリストをMarketoのインスタンスに取り込む方法を次に示します。
+シードリストは、Google Apps、Hotmail、Yahoo！など、複数のメールボックスプロバイダーに存在する E メールアカウントのリストで、受信ボックスの配信品質とスパムフォルダーの配信品質の比率を概算するために使用されます。 このリストをMarketoインスタンスに取り込む方法を次に示します。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。 詳細については、担当営業にお問い合わせください。
+>すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業担当にお問い合わせください。
 
-## シードリストのインポート{#import-a-seedlist}
+## シードリストのインポート {#import-a-seedlist}
 
-1. **配信品質ツール**&#x200B;に移動します。
+1. に移動します。 **配信ツール**.
 
    ![](assets/one-1.png)
 
-1. 「**インボックス情報**」をクリックします。
+1. クリック **インボックス情報**.
 
    ![](assets/two-1.png)
 
-1. 「**Get Seedlist**」をクリックします。
+1. クリック **シードリストの取得**.
 
    ![](assets/three-1.png)
 
-1. 「**リストを書き出し**」をクリックします。
+1. クリック **リストを書き出し**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >**リストの最適化**&#x200B;は、250okを[リストの最適化](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)に使う場合に選択します。 含めるシードリスト領域を選択する場合は、[**リストのカスタマイズ**]を選択します。
+   >選択 **リストを最適化** もし 250ok を [リストの最適化](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) あなたのために。 選択 **リストをカスタマイズ** を選択します。
 
-1. 書き出しが完了すると、リストは.txtファイルとしてブラウザーのdownloadsフォルダーに表示されます。 それを取り出し、[静的リストとして](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)Marketoインスタンスにインポートします。
+1. 書き出し後、リストは.txt ファイルとしてブラウザーの downloads フォルダーに表示されます。 取得し、 [インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 静的リストとしてMarketoインスタンスに追加します。
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >見つけやすいようにリストに名前を付けてください。
+   >見つけやすいように、必ずリストに名前を付けてください。
 
    >[!CAUTION]
    >
-   >1か月に受信トレイ情報提供キャンペーンの数には限りがあります。 購入回数を確認するには、250ok **アカウント設定**&#x200B;を確認してください。 詳細については、Marketoの営業担当者にお問い合わせください。
+   >1 ヶ月あたり、これらの受信ボックス情報キャンペーンの数は制限されています。 250ok を見て、何人手に入ったかを確認してください **アカウント設定**. 詳細については、Marketoの営業担当にお問い合わせください。
 
-## 新しいシードリストの取得{#acquiring-new-seedlists}
+## 新しいシードリストの取得 {#acquiring-new-seedlists}
 
-シードリストは毎月変わる可能性があります。 定期的に電子メール配信機能Power Packにログインし、シードリストのステータスを確認することが重要です。 新しいアドレスが追加された場合、またはエンドで更新が必要な場合は、「Get Seedlist」ページのインターフェースから警告が表示されます。
+シードリストは、毎月同じ頻度で変更される場合があります。 E メール配信品質 Power Pack に定期的にログインし、シードリストのステータスを確認することが重要です。 新しいアドレスが追加されたり、エンドで更新が必要になったりした場合は、「シードリストの取得」ページのインターフェイスを通じてアラートが表示されます。
 
-Marketoで静的リストを作成したら、その静的フォルダーへの送信を開始して、電子メールのインボックスの位置をテストできます。
+Marketoで静的リストを作成したら、そのリストへの送信を開始して、電子メールのインボックスへの配置をテストできます。

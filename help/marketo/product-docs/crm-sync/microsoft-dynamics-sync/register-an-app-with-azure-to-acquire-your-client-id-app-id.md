@@ -3,10 +3,10 @@ unique-page-id: 12983390
 description: アプリを Azure に登録してクライアント ID／アプリ ID を取得 - Marketo ドキュメント - 製品ドキュメント
 title: アプリを Azure に登録してクライアント ID／アプリ ID を取得
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '347'
-ht-degree: 100%
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+workflow-type: tm+mt
+source-wordcount: '349'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
 ## 新しいアプリの登録 {#registering-a-new-app}
 
-1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://manage.windowsazure.com/)します。また、左側のナビゲーションパネルの「**管理者**」項目を展開し、「**Azure AD**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
+1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://azure.microsoft.com/en-us/account/)します。また、左側のナビゲーションパネルの「**管理者**」項目を展開し、「**Azure AD**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
 
    >[!CAUTION]
    >
@@ -24,7 +24,7 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
    >[!NOTE]
    >
-   >Azure アカウントをお持ちでない場合は、[サインアップ](https://azure.microsoft.com/ja-jp/free/)してください。詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
+   >Azure アカウントをお持ちでない場合は、[サインアップ](https://azure.microsoft.com/en-us/free/)してください。詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
    >
    >
    >Azure アカウントがあっても、Microsoft Dynamics 365 を使用した Office 365 サブスクリプションが Azure サブスクリプションで利用できない場合は、[こちらの手順](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription)に従って、2 つのアカウントを関連付けます。

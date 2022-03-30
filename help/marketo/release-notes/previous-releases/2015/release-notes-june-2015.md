@@ -3,9 +3,9 @@ unique-page-id: 8160678
 description: リリースノート - 2015 年 6 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2015 年 6 月
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
-source-wordcount: '125'
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,3 @@ ht-degree: 100%
 ## [属性電子メール レポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
 マーケティング活動に提供される価値のパーソナライゼーションと推奨コンテンツを参照します。[属性電子メールレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) RTP のパーソナライゼーションキャンペーンと推奨コンテンツキャンペーンからのダイレクトリードとアシステッドリードを表示します。RTP の「ユーザー設定」と「メールレポート」で、「属性電子メールレポート」を追加して、月次または四半期次のメールを受信します。
-
-## ロードマップに影響を与えますか。 {#want-to-influence-our-roadmap}
-
-この[クイック レポート カードで Marketo を評価する](https://www.surveymonkey.com/s/VG9YCT5)。お寄せいただいたご意見は 2016 年以降の計画の参考とさせていただきます。

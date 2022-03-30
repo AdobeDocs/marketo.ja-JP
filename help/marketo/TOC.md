@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
-ht-degree: 97%
+source-wordcount: '8637'
+ht-degree: 96%
 
 ---
 
@@ -1273,6 +1273,10 @@ ht-degree: 97%
          + キャンペーン {#campaigns}
             + [マーケティングキャンペーンへの追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [セールスキャンペーンの作成](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [セールスキャンペーン設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [メールステップ用セールスキャンペーン送信オプション](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [セールスキャンペーンのステップのタイプとリマインダータスク](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce のカスタマイズ {#salesforce-customization}
