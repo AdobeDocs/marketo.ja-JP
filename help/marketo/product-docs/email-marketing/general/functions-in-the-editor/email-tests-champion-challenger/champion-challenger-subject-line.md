@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359557
-description: Champion/Chalenger — 件名行 —Marketoドキュメント — 製品ドキュメント
-title: チャンピオン/チャレンジャー — 件名行
+description: チャンピオン／挑戦者：件名 - Marketo ドキュメント - 製品ドキュメント
+title: チャンピオン／挑戦者：件名
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# チャンピオン/チャレンジャー：件名行{#champion-challenger-subject-line}
+# チャンピオン／挑戦者：件名 {#champion-challenger-subject-line}
 
-複数の件名行を簡単にテストできます。 テストが終了したら、最も効果的な電子メールを送信します。 その方法を次に示します。
+複数の件名を簡単にテストできます。テストが終了したら、最も効果的なテストを含むメールを送信します。その方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
->[Eメール追加チャンピオン/対抗者](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[メールチャンピオン／挑戦者の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 電子メールテストエディターで、**テストタイプ**&#x200B;ドロップダウンから&#x200B;**件名行**&#x200B;を選択します。
+1. メールテストエディターの&#x200B;**テストタイプ**&#x200B;ドロップダウンで「**件名**」を選択します。
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >サブジェクトテストでは、最初に入力したサブジェクトラインを&#x200B;**チャンピオン**&#x200B;に指定します。 後続の件名行は&#x200B;**対抗**&#x200B;と呼ばれます。
+   >件名テストでは、最初に入力した件名行が&#x200B;**チャンピオン**&#x200B;になります。後続の件名は、**挑戦者**&#x200B;と呼ばれます。
 
-1. **対抗**&#x200B;の件名を入力してください。
+1. **挑戦者**&#x200B;の件名を入力します。
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
    >[!TIP]
    >
-   >複数の対抗を作成する場合は、プラス記号をクリックし、別の件名を入力します。
+   >複数の挑戦者が必要な場合は、プラス記号をクリックし、別の件名を入力します。
 
-1. スライダーをドラッグして、チャンピオンの件名行と対抗の件名行を受け取る人の割合を分割する割合を指定します。
+1. スライダーをドラッグして、チャンピオンの件名を受け取るユーザーと挑戦者の件名を受け取るユーザーとの割合分割を決定します。
 
    ![](assets/image2015-8-7-15-3a19-3a50.png)
 
@@ -43,16 +42,16 @@ ht-degree: 0%
    >
    >**例**
    >
-   >上に示した分布では、スマートリストで指定された合計オーディエンスの10%に対抗の件名行を持つ電子メールの1つが届き、90%にチャンピオンの件名行を持つ電子メールが届きます。 複数の対抗の件名行を持つ電子メールは、10%が等しく共有されます。 テストが終了したら、勝者を手動で宣言できます。 それ以降は、今後すべてのユーザーがパフォーマンスの高いコンテンツを受け取ります。
+   >上に示した配分では、スマートリストに指定された合計オーディエンスの 10% に対して、挑戦者の件名を持つメールの 1 つが割り当てられ、90% がチャンピオンの件名を持つメールを受信します。挑戦者の件名ラインが複数の場合は、10% を均等に共有します。テストが完了したら、勝者を手動で発表できます。それ以降、今後のすべてのユーザーに、よりパフォーマンスの高いコンテンツが提供されます。
 
-   統計的信頼性を得るには、選択した割合に十分な人数が含まれていることを確認して、テストが有効であることを確認します。 断定的な結果にだまされるな。 [統計的信頼性に関する情報が今まで以上に多い](https://en.wikipedia.org/wiki/Confidence_interval)。
+   統計的な信頼性を得るには、選択する割合に、テストが有効になるのに十分な数のユーザーが含まれているようにしてください。決定的でない結果に惑わされないようにします。[統計的な信頼性に関する詳細情報](https://en.wikipedia.org/wiki/Confidence_interval)。
 
 1. 「**次へ**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
-   進捗! 続けよう。
+   進展しました。この調子で頑張りましょう。
 
    >[!MORELIKETHIS]
    >
-   >[チャンピオン/チャレンジャー：チャンピオンの基準の定義](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[チャンピオン／挑戦者：チャンピオンの条件の定義](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
