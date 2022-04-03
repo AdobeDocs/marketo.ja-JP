@@ -1,56 +1,56 @@
 ---
-description: 概要 — Marketoドキュメント — 製品ドキュメント
+description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '491'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # 概要 {#overview}
 
-Marketoプラットフォーム全体の新しいルックアンドフィールと共に、より使いやすさを提供する新しいインターフェイスである、次世代のMarketo Engageエクスペリエンスにようこそ。
+Marketo プラットフォーム全体の新しいルックアンドフィールとより使いやすい機能を備えた新しいインターフェイスである、次世代の Marketo Engage エクスペリエンスにようこそ。
 
 >[!PREREQUISITES]
 >
->IT チームがMarketoの使用を制限している場合許可リストは、次のドメイン（アスタリスクを含む）を追加して、すべてのリソースおよび Web ソケットを許可するように依頼します。
+>IT チームが許可リストを使用して Web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するように依頼してください。
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
 
-## ツアー {#take-the-tour}
+## ツアーをおこなう {#take-the-tour}
 
-最初のログイン時にポップアップが表示され、新しいエクスペリエンスの概要を確認できます。 先頭に立って、スキップする場合は、後で **使用できなくなります**。
+初回ログイン時にポップアップが表示され、新しいエクスペリエンスの概要を確認することができます。ツアーは、今スキップして後でおこなうことは&#x200B;**できません**。
 
 ![](assets/overview-1.png)
 
-ツアーでは、知る必要のあるすべてを紹介します。
+ツアーでは、知る必要のあるすべての情報をご紹介します。
 
 ![](assets/overview-2.png)
 
-## 新機能 {#whats-new}
+## 新着情報 {#whats-new}
 
-この次世代のエクスペリエンスには多くの新機能があり、すべての機能はマーケティングエクスペリエンスを大幅に改善するように設計されています。
+この次世代エクスペリエンスには多くの新機能があり、それらすべてがマーケティングエクスペリエンスを大幅に改善するように設計されています。
 
 **アイコン**
 
-この新しいインターフェイスは、アイコンの編集機能を強化し、拡張しました。 詳しくは、こちらを参照してください。[ アイコン用語集 ](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
+この新しいインターフェイスは、図像学的に改善され、拡張されています。詳しくは、[アイコン用語集](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)を参照してください。
 
 ![](assets/overview-new-icons.png)
 
 **グローバルナビゲーション**
 
-さようならスーパーボール。 すべての主要なMarketoセクションにすばやくアクセスできるようになりました。
+さようならスーパーボール。すべての主要な Marketo セクションにすばやくアクセスできるようになりました。
 
 ![](assets/overview-5.png)
 
 **インスタンス URL**
 
-また、マンチキン ID にすばやくアクセスできます。これで、インスタンスの URL に反映されます（複数のサブスクリプションを持つユーザーにはさらに便利です）。
+また、munchkin ID にすばやくアクセスできます。これは、インスタンスの URL に反映されるようになりました（複数のサブスクリプションを持つユーザーにはさらに便利です）。
 
 ![](assets/overview-6.png)
 
@@ -60,15 +60,15 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
 
 >[!NOTE]
 >
->ツリーで検索を実行すると、最初の 250 件の結果のみが表示されます。 検索後にアセットが見つからない場合は、[ グローバル検索 ](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) 機能を使用してください。
+>ツリーで検索を実行すると、最初の 250 件の結果のみが表示されます。検索後にアセットが見つからない場合は、[グローバル検索](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)機能に置き換えます。
 
-**Marketo Classic対ニューMarketo**
+**Marketo Classic vs. 新しい Marketo**
 
 <table> 
  <tbody>
   <tr>
    <th>機能</th> 
-   <th>クラシック</th> 
+   <th>Classic</th> 
    <th>次世代</th> 
   </tr>
   <tr>
@@ -77,7 +77,7 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>ドラフトと承認ツリーノードを組み合わせました。</td> 
+   <td>ドラフトと承認ツリーのノードを組み合わせ</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -87,22 +87,22 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>ダブルクリックしてツリーノードを展開/折りたたみ</td> 
+   <td>ダブルクリックしてツリーノードを展開／折りたたみ</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>ツリーからエンゲージメントストリームにドラッグ&amp;ドロップ</td> 
+   <td>ツリーからエンゲージメントストリームにドラッグ＆ドロップ</td> 
    <td><strong>X</strong></td> 
    <td></td> 
   </tr>
   <tr>
-   <td>ツリー内でのドラッグ&amp;ドロップ</td> 
+   <td>ツリー内にドラッグ＆ドロップ</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>アセットタイプと状態でのフィルター</td> 
+   <td>アセットのタイプと状態でフィルタリング</td> 
    <td><i>部分</i></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -117,7 +117,7 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>水平スクロール</td> 
+   <td>水平方向のスクロール</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -142,17 +142,17 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>サイズ変更可能なツリー</td> 
+   <td>リサイズ可能なツリー</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>アーカイブ済みフォルダー内の検索</td> 
+   <td>アーカイブ済みフォルダーを検索</td> 
    <td></td> 
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>ツリー検索からグローバル検索を入力する際に保存される検索文字列</td> 
+   <td>ツリー検索からグローバル検索に移動する際に検索文字列を保存</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -188,29 +188,29 @@ Marketoプラットフォーム全体の新しいルックアンドフィール�
   </tr>
   <tr>
    <td>2</td> 
-   <td>前にリストされたすべてのスーパーボールアイテム</td> 
+   <td>すべての前のスーパーボール項目をリスト表示</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>これを使用して、MEUE のエクスペリエンスに関するフィードバックを提供します</td> 
+   <td>これを使用して、MEUE の体験に関するフィードバックを提供</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>購読が複数ある場合は、サブ名をクリックすると、別の購読に簡単に切り替えることができます</td> 
+   <td>複数の購読がある場合は、サブ名をクリックして別の購読に簡単に切り替え</td> 
   </tr>
   <tr>
    <td>5</td> 
-   <td>グローバル検索 — インスタンス全体をここから検索できるようになりました</td> 
+   <td>グローバル検索 - ここからインスタンス全体を検索できるようになりました</td> 
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->スーパーボールのドロップダウンに含まれていたものはすべて、マイMarketoのタイルとして引き続き使用できます。
+>スーパーボールドロップダウンにあったコンテンツはすべて、マイ Marketo のタイルとして引き続き利用できます。
 
 >[!TIP]
 >
->ツリーで検索を使用すると、現在いるセクション（マーケティングアクティビティなど）からの結果のみが得られます。 インスタンス全体を検索する場合は、グローバル検索を使用します。
+>ツリーで検索を使用すると、現在使用中のセクション（マーケティングアクティビティなど）からの結果のみが得られます。インスタンス全体を検索する場合は、グローバル検索を使用します。
 
-新しいMarketo Engage体験を楽しみ、フィードバックを共有してください。
+新しい Marketo Engage 体験をお楽しみになって、フィードバックを共有してください。
