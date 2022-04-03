@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359549
-description: メールプログラムダッシュボード — A/B テストビュー — Marketo ドキュメント — 製品ドキュメント
-title: メールプログラムのダッシュボードを使用する - A/B テストビュー
+description: メールプログラムのダッシュボードを使用する：A/B テストビュー — Marketo ドキュメント — 製品ドキュメント
+title: メールプログラムのダッシュボードを使用する：A/B テストビュー
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,7 +10,7 @@ ht-degree: 100%
 
 ---
 
-# メールプログラムのダッシュボードを使用する - A/B テストビュー {#use-the-email-program-dashboard-a-b-test-view}
+# メールプログラムのダッシュボードを使用する：A/B テストビュー {#use-the-email-program-dashboard-a-b-test-view}
 
 ダッシュボードでは、[メールプログラムの A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)のパフォーマンスを確認できます。
 
@@ -44,5 +44,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)>
->
+>[メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
