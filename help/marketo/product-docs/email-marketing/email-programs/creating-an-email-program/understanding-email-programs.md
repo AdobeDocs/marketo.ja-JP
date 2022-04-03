@@ -1,36 +1,35 @@
 ---
 unique-page-id: 2953572
-description: 電子メールプログラムについて —Marketoドキュメント — 製品ドキュメント
-title: 電子メールプログラムについて
+description: メールプログラムについて - Marketo ドキュメント - 製品ドキュメント
+title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 電子メールプログラムについて{#understanding-email-programs}
+# メールプログラムについて {#understanding-email-programs}
 
-新しいMarketoの友人、Eメールプログラムによろしくお伝えください。 電子メールを送信し、A/Bテストを作成し、結果をすべて1か所で追跡します。
+Marketo の新しいメールプログラムにようこそ。ここ 1 か所で、メールを送信し、A/B テストを作成し、結果を追跡できます。
 
-## コントロール パネル {#control-panel}
+## コントロールパネル {#control-panel}
 
-4つのボックスが集中を保ちます。 **オーディエンスは「誰」を** 定義し、電子メールは「何」を **** 提供し、「いつ」を **** 定義し、 **** 承認すると準備が整います。
+4 つのボックスで集中を保ちます。**オーディエンス**&#x200B;は「誰」を定義し、**メール**&#x200B;は「何」を提供し、**スケジュール**&#x200B;は「いつ」を定義します。「**承認**」で準備が整います。
 
 ![](assets/emailprogram.png)
 
-## A/Bテスト{#a-b-testing}
+## A/B テスト {#a-b-testing}
 
-A/Bテストを使用すると、最適な電子メールを検証できます。
+A/B テストを使用すると、どのメールが最適かを証明できます。
 
-以下のA/Bテストについて説明します。
+次の A/B テストについてご覧ください。
 
-* [「件名」A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [「電子メール全体」のA/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [「送信者アドレス」 A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [「日付/時刻」 A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [「件名」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [「メール全体」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [「送信者アドレス」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [「日時」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -38,44 +37,43 @@ A/Bテストを使用すると、最適な電子メールを検証できます�
 
 >[!TIP]
 >
->プログラムの詳細なレポートダッシュボードが原因で、スマートキャンペーン経由で電子メールを送信するよりも電子メールプログラムを使用した方が望ましい場合があります。
+>メールプログラムには詳細なレポートダッシュボードがあるため、スマートキャンペーン経由でメールを送信するよりもメールプログラムを使用した方が望ましい場合があります。
 
-労を尽し給え。 ダッシュボードには、電子メールプログラムとA/Bテストのパフォーマンスが一目でわかります。
+労働の成果をお楽しみください。ダッシュボードには、メールプログラムと A/B テストのパフォーマンスが一目で表示されます。
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## 入れ子{#nesting}
+## ネスト {#nesting}
 
-電子メールプログラムは他のプログラムとうまく連携します。
+メールプログラムは、他のプログラムとの相性がよいです。
 
 ![](assets/image2015-4-27-11-3a49-3a22.png)
 
-例えば、電子メールプログラムを使用してウェビナーへの招待を送信します。
+例えば、メールプログラムを使用して、ウェビナーへの招待状を送信できます。
 
 ![](assets/image2015-4-27-12-3a20-3a40.png)
 
-デフォルトのプログラム内で電子メールプログラムを使用して、内容を整理します。
+デフォルトプログラム内のメールプログラムを使用して、内容を整理します。
 
 >[!TIP]
 >
->既存の電子メールプログラムを別のプログラムに取り込むには、その電子メールをコピーする必要があります。
+>既存のメールプログラムを別のプログラムに取り込むには、クローンする必要があります。
 
 >[!NOTE]
 >
->電子メールプログラムは、[エンゲージメントプログラム](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)にネストできません。 また、再送信できず、一度に1つのテストしか実行できません。
+>[エンゲージメントプログラム](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)では、メールプログラムをネストできません。また、再送信はできず、テストは一度に 1 回のみ実行できます。
 
-## スケジュール設定{#schedule-settings}
+## スケジュールの設定 {#schedule-settings}
 
-電子メールのプログラムについて理解したら、以下の関連記事の1つから始めます。
+メールプログラムについて理解したら、以下の関連記事の 1 つから始めまてください。
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-   >
-   >
-* [スマートリストを使用したオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [電子メールプログラム用の電子メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>
+>* [スマートリストを使用したオーディエンス定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [メールプログラム向け新規メールの作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [メールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
