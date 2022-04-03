@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359555
-description: チャンピオン／挑戦者 — メール全体 — Marketo ドキュメント — 製品ドキュメント
-title: チャンピオン／挑戦者 — メール全体
+description: チャンピオン／挑戦者：メール全体 - Marketo ドキュメント - 製品ドキュメント
+title: チャンピオン／挑戦者：メール全体
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
