@@ -1,42 +1,41 @@
 ---
 unique-page-id: 1900591
-description: 電子メールプログラムの作成 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールプログラムの作成
+description: メールプログラムの作成 - Marketo ドキュメント - 製品ドキュメント
+title: メールプログラムの作成
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールプログラムの作成{#create-an-email-program}
+# メールプログラムの作成 {#create-an-email-program}
 
-電子メールプログラムを使用して、複数の人に簡単かつ迅速に電子メールを送信できます。
+メールプログラムを使用して、メールをグループにすばやく簡単に送信できます。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/one.png)
 
-1. プログラムを作成するフォルダーを選択し、「**新規**」ドロップダウンをクリックし、「**新規プログラム**」を選択します。
+1. プログラムを作成するフォルダーを選択し、**新規**&#x200B;ドロップダウンで、「**新規プログラム**」を選択します。
 
    ![](assets/two.png)
 
-1. 「名前」を入力し、「プログラムタイプ」に「**電子メール**」を選択して、「**作成**」をクリックします。
+1. 名前を入力し、「プログラムタイプ」で「**メール**」を選択し、「**作成**」をクリックします。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >「プログラムの種類」に「**電子メール**」を選択すると、チャネルは自動的に「**電子メール送信**」に設定されます。 必要に応じて変更できます。
+   >「プログラムタイプ」として「**メール**」を選択すると、「チャネル」は自動的に「**メール送信**」に設定されます。必要に応じてこれを変更できます。
 
    ![](assets/four.png)
 
-ナイス！ プログラムがツリーに表示され、使用できる状態になっていることに注意してください。 次のステップは、オーディエンスを定義することです。 以下のMarketo関連記事を参照。
+作業は以上です。プログラムがツリーに表示され、使用できる状態になります。次の手順では、オーディエンスを定義します。以下の Marketo 関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >
->* [スマートリストを使用したオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [リストのインポートによるオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [スマートリストを使用したオーディエンス定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [リストインポートによる対象ユーザーの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
