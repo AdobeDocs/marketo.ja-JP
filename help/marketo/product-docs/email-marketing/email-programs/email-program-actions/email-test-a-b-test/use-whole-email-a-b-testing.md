@@ -16,8 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[A/B テストを追加する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)>
->
+>[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. 「メール」タイルで、目的のメールを選択して「**A/B テストの追加**」をクリックします。
 
