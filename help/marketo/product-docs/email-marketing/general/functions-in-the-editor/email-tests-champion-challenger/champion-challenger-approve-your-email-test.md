@@ -1,44 +1,43 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger — 電子メールテストの承認 —Marketoドキュメント — 製品ドキュメント
-title: Champion/Challenger — 電子メールテストの承認
+description: チャンピオン／挑戦者：メールテストの承認 - Marketo ドキュメント - 製品ドキュメント
+title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# チャンピオン/チャレンジャー：電子メールテストの承認{#champion-challenger-approve-your-email-test}
+# チャンピオン／挑戦者：メールテストの承認 {#champion-challenger-approve-your-email-test}
 
-電子メールテストを承認するための設定の最後の手順です。 これが方法です。
+承認するメールテストの設定の最後の手順です。手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->[チャンピオン/チャレンジャー：レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[チャンピオン／挑戦者：レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 「**電子メールテスト**」を探して右クリックし、「**テストを承認**」をクリックします。
+1. 「**メールテスト**」を探して右クリックし、「**テストを承認**」をクリックします。
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >**電子メール**&#x200B;全体のテストを承認する場合は、まず対抗電子メールを承認します。
+   >**メール全体**&#x200B;テストを承認するときは、まず挑戦者のメールを承認します。
 
    >[!NOTE]
    >
-   >テストを送信するには、トリガーキャンペーンの&#x200B;**電子メール**&#x200B;の送信フローステップで、テストを追加した電子メールを選択します。 また、その電子メールをエンゲージメントプログラムのストリームに挿入することもできます。 Champion/Challenger電子メールはバッチキャンペーンでは機能しません。
+   >テストを送信するには、トリガーキャンペーンの&#x200B;**メールを送信**&#x200B;フローステップでテストを追加したメールを選択します。また、エンゲージメントプログラムのストリームにメールを挿入することもできます。チャンピオン／挑戦者のメールはバッチキャンペーンでは機能しません。
 
-   そんな簡単じゃなかった？ いくつかのレポートを受け取ったら、チャンピオンを宣言します。
+   簡単でしたね。レポートをいくつか受け取ったら、チャンピオンを発表する必要があります。
 
    >[!MORELIKETHIS]
    >
-   >* [チャンピオン/チャレンジャー：チャンピオンを宣言](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [チャンピオン/チャレンジャー：電子メールテストの破棄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [チャンピオン／挑戦者：チャンピオンの発表](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [チャンピオン／挑戦者：メールテストの破棄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
