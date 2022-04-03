@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352622
-description: 週末をスキップ —Marketoドキュメント — 製品ドキュメント
-title: 週末をスキップ
+description: 週末のスキップ - Marketo ドキュメント - 製品ドキュメント
+title: 週末のスキップ
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 週末をスキップ{#skip-weekends}
+# 週末のスキップ {#skip-weekends}
 
-キャンペーンを自動化する場合、土曜日や日曜日に電子メールを配信したくない場合があります。 そうでない場合は、週末をスキップすることができます。
+キャンペーンを自動化する場合、土曜日や日曜日にメールを配信したくない場合があります。その場合、週末をスキップできます。
 
-1. Sales Connectで、「**キャンペーン**」タブをクリックします。
+1. Sales Connect で、「**キャンペーン**」タブをクリックします。
 
    ![](assets/one-2.png)
 
@@ -33,4 +32,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >週末をスキップしない場合は、通常の7日間の週に基づいて電子メールがスケジュールされます。
+   >週末をスキップしない場合、通常の 7 日間の週に基づいてメールがスケジュールされます。
