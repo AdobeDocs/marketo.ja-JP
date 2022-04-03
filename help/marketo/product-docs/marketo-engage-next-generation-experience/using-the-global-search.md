@@ -1,11 +1,11 @@
 ---
-description: グローバル検索の使用 — Marketoドキュメント — 製品ドキュメント
+description: グローバル検索の使用 - Marketo ドキュメント - 製品ドキュメント
 title: グローバル検索の使用
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 8%
 
    ![](assets/using-the-global-search-2.png)
 
-1. 検索結果が表示されます。 任意のパンくずリストの任意の場所をクリックして、その項目に直接移動できます。
+1. 検索結果が表示されます。任意のパンくずリストの任意の場所をクリックして、その項目に直接移動できます。
 
    ![](assets/using-the-global-search-3.png)
 
-1. この例では、探している E メールに直接移動することを選択しています。 E メールの名前をクリックします。
+1. この例では、探しているメールに直接移動することを選択しています。メールの名前をクリックします。
 
    ![](assets/using-the-global-search-4.png)
 
-目的の E メールに直接移動します。
+目的のメールに直接移動します。
 
 ![](assets/using-the-global-search-5.png)
 
@@ -43,19 +43,19 @@ ht-degree: 8%
  <tbody>
   <tr>
    <td>1</td> 
-   <td>項目/宛先の名前</td> 
+   <td>項目／宛先の名前</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>各項目/宛先へのパス（パンくずリスト）</td> 
+   <td>各項目／宛先へのパス（パンくずリスト）</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>品目/宛先が最後に変更された日時</td> 
+   <td>項目／宛先が最後に変更された日時</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>項目/宛先が作成された日時</td> 
+   <td>項目／宛先が作成された日時</td> 
   </tr>
   <tr>
    <td>5</td> 
@@ -64,6 +64,6 @@ ht-degree: 8%
  </tbody>
 </table>
 
-**オプションの手順**:フィルタリングを利用するには、目的のオプションを選択するだけです。
+**オプションの手順**：フィルタリングを利用するには、目的のオプションを選択するだけです。
 
 ![](assets/using-the-global-search-7.png)
