@@ -1,59 +1,58 @@
 ---
 unique-page-id: 10912237
-description: 電子メールテンプレートピッカーの概要 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールテンプレートピッカーの概要
+description: メールテンプレート選択ツールの概要 - Marketo ドキュメント - 製品ドキュメント
+title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールテンプレートピッカーの概要{#email-template-picker-overview}
+# メールテンプレート選択ツールの概要 {#email-template-picker-overview}
 
-[電子メール](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)を作成する際には、いくつかの無料のテンプレートから選択できます。 独自のテンプレートを作成して、後で使用するために保存することもできます。
+[メールの作成時](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)に選択できる無料テンプレートはいくつかあります。独自のテンプレートを作成し、後で使用するために保存することもできます。
 
 ![](assets/starter-templates.png)
 
-**「** 名前」は、テンプレート自体ではなく、テンプレートに基づいて作成する電子メールの名前です。**** 説明は電子メールにも当てはまり、オプションです。
+**名前**&#x200B;は、テンプレート自体ではなく、テンプレートに基づいて作成するメールの名前です。**説明**&#x200B;はメールにも適用され、オプションです。
 
 ![](assets/two-2.png)
 
-電子メールが重要で、通信制限を回避したい場合は、チェックボックスをオンにして[通信制限を回避し、](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)操作可能にします。 **デフォルトで選択されている** エディターで開きます。これは、新しい電子メールの編集を開始する場合に限ります。**Createmeans、** 作成！
+メールが重要で、通信制限を回避したい場合、「[オペレーショナルにする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」をオンにします。「**エディターで開く**」はデフォルトで選択されており、単に新しいメールの編集をすぐに開始したいという意味です。「**作成**」は文字通りです。
 
 ![](assets/three-2.png)
 
-**スターターテ** ンプレートには、すぐに使えるレスポンシブ電子メールテンプレートのコレクションが含まれています。そのまま使用することも、好みに合わせてカスタマイズすることもできます。
+「**スターターテンプレート**」には、すぐに使えるレスポンシブメールテンプレートのコレクションが含まれています。そのまま使用することも、好みに合わせてカスタマイズすることもできます。
 
 ![](assets/starter-templates.png)
 
 >[!NOTE]
 >
->Marketoのスターターテンプレートは、すべてのお客様に無料で提供されます。 主要な電子メールクライアント（およびモバイルデバイス）向けに継続的に最適化されて更新されますが、ニーズを満たしているかどうかは必ず評価する必要があります。 Marketoの[Eメール配信品質ツール](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)では、様々なEメールクライアント上でのテンプレートのレンダリングを表示できます。 残念ながら、Marketoは有料サービスのエンゲージメント以外でデザインリクエストを行うことはできません。
+>Marketo のスターターテンプレートは、すべての顧客に無料で提供されます。主要なメールクライアント（およびモバイルデバイス）向けに継続的に更新され最適化されますが、必ずニーズを満たしているかどうかを評価する必要があります。Marketo [メール配信品質ツール](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)は、様々なメールクライアントでのテンプレートのレンダリングを示します。残念ながら、Marketo は有料サービスエンゲージメント以外ではデザインリクエストを受けられません。
 
-**マイテン** プレートは、作成したすべてのテンプレートで構成されます。フォルダーを持つこともできます。
+**マイテンプレート**&#x200B;は、作成したすべてのテンプレートで構成されます。また、フォルダーを持つこともできます。
 
 ![](assets/five-2.png)
 
-Design Studioツリーの電子メール/テンプレートに表示されるすべてのフォルダーは、**マイテンプレート**&#x200B;で使用できます。
+Design Studio ツリーのメール／テンプレートに表示されるすべてのフォルダーは、**マイテンプレート**&#x200B;で使用できます。
 
 ![](assets/six-1.png)
 
-テンプレートをプレビューするには、そのサムネールの上にマウスポインターを置き、「**プレビュー**」をクリックします。 また、重複を押しながらクリックすることもできます。
+テンプレートをプレビューするには、そのサムネールにマウスポインタを合わせて、「**プレビュー**」をクリックします。ダブルクリックすることもできます。
 
 ![](assets/seven-1.png)
 
-プレビューアは、デスクトップマシン上でテンプレートがどのようにレンダリングされるかを示します。
+プレビューアは、デスクトップマシン上...
 
 ![](assets/eight-1.png)
 
-...とモバイルデバイス。
+...とモバイルデバイスでのテンプレートのレンダリング方法を示します。
 
 ![](assets/nine-1.png)
 
-このテンプレートに「いいね！」を付けたい場合は、右下の「**選択**」をクリックして選択します。 探し続ける？ 右上の&#x200B;**X**&#x200B;をクリックします。 左向き矢印および右向き矢印を使用して、テンプレートをスクロールします。
+このテンプレートが気に入ったら、右下の「**選択**」をクリックしてテンプレートを選択してください。他のテンプレートを探したい場合は、右上の「**X**」をクリックします。いろいろなテンプレートをスクロールするには、左右の矢印を使用します。
 
 ![](assets/ten-1.png)
 
@@ -63,12 +62,12 @@ Design Studioツリーの電子メール/テンプレートに表示されるす
 
 >[!NOTE]
 >
->テンプレートサムネールの素晴らしい点は生きていることです テンプレートに変更を加えると、サムネールも一緒に変更されます。
+>テンプレートのサムネールの素晴らしい点は、それらはライブであるということです。テンプレートに変更を加えると、サムネールも一緒に変更されます。
 
-きれい！
+すてきですね。
 
 >[!MORELIKETHIS]
 >
->* [電子メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
->* [電子メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
