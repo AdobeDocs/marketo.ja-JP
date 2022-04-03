@@ -4,9 +4,9 @@ description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキ
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '438'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
 
 >[!PREREQUISITES]
 >
->Salesforce とセールスコネクトを連携する必要があります。
+>Salesforce と Sales Connect を接続する必要があります。
 
 1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -46,7 +46,7 @@ ht-degree: 93%
 
 >[!PREREQUISITES]
 >
->Salesforce とセールスコネクトを連携する必要があります。
+>Salesforce と Sales Connect を接続する必要があります。
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
@@ -106,7 +106,7 @@ ht-degree: 93%
 
    ![](assets/three-1.png)
 
-1. [ セールスコネクトタスク/Salesforce タスクのリマインダを同期 ] の横の矢印をクリックします。
+1. 「Sales Connect タスク／Salesforce タスクのリマインダーを同期」の横の矢印をクリックします。
 
    ![](assets/seven-2.png)
 
