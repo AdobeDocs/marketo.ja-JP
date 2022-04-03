@@ -70,5 +70,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)>
->
+>[メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
