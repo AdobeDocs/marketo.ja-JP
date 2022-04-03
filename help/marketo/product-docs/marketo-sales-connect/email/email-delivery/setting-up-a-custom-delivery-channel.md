@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14746470
-description: カスタム配信チャネルの設定 —Marketoドキュメント — 製品ドキュメント
+description: カスタム配信チャネルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: カスタム配信チャネルの設定
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '397'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# カスタム配信チャネルの設定{#setting-up-a-custom-delivery-channel}
+# カスタム配信チャネルの設定 {#setting-up-a-custom-delivery-channel}
 
-Marketo・セールス・コネクトを使用すると、カスタムSMTPサーバと統合して電子メールを配信できます。 これは、GmailやExchange配信チャネルから大量のメールを送信したくない場合に便利です。
+Marketo Sales Connect を使用すると、カスタム SMTP サーバーを統合してメールを配信できます。これは、Gmail や Exchange の配信チャネルから一括メールを送信しない場合に最適です。
 
-ユーザーは、独自の個人用にカスタムSMTPサーバーを設定できます。また、管理者は、インスタンス内のすべてのSales Connectユーザーで共有するチームSMTPを設定できます。
+ユーザーは、個々の使用に合わせてカスタム SMTP サーバーを設定することができます。また、管理者は、インスタンス内のすべての Sales Connect ユーザーで共有されるチーム SMTP を設定することができます。
 
 >[!NOTE]
 >
->* SMTPサーバーを設定するだけでなく、電子メールを送信する前に、[電子メールIDを確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)する必要があります。
->* ITチームまたはSMTPサーバーのベンダーと協力して、SMTPサーバーに適したサーバー資格情報を取得することをお勧めします。
->* SMTPサーバーの資格情報を使用してGmailとExchangeサーバーに接続することはできません。 アドビの電子メール接続サービスを使用して、これらのプロバイダーと統合してください。
+>* SMTP サーバーの設定に加えて、メールを送信する前に[メール ID を検証](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)する必要があります。
+>* お使いの SMTP サーバーに適したサーバークレデンシャルを取得するには、IT チームまたは SMTP サーバーのベンダーと協力することをお勧めします。
+>* SMTP サーバーのクレデンシャルを使用して Gmail サーバーや Exchange サーバーに接続することはできません。これらのプロバイダーとの統合には、アドビのメール接続サービスをご利用ください。
 
 
-## カスタムSMTP {#custom-smtp}
+## カスタム SMTP {#custom-smtp}
 
-1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. 「マイアカウント」で、「**電子メール設定**」をクリックします。
+1. 「マイアカウント」で、「**メール設定**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
@@ -38,19 +37,19 @@ Marketo・セールス・コネクトを使用すると、カスタムSMTPサー
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. SMTP Serverの資格情報を入力し、「**接続**」をクリックします。
+1. SMTP サーバーのクレデンシャルを入力し、「**接続**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
    >[!NOTE]
    >
-   >これが唯一の配信チャネルの場合は、すべての電子メールIDに自動的に割り当てられ、ここで処理が完了します。 これが配信チャネル以外の場合は、手順5に進んでください。
+   >これが唯一の配信チャネルの場合、すべてのメール ID に自動的に割り当てられるため、ここで完了です。これが唯一の配信チャネルでない場合は、手順 5 に進んでください。
 
-1. 「電子メールの設定」に進んだまま、「**アドレスと署名**」をクリックします。
+1. メール設定で、「**アドレスと署名**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. 配信チャネルを選択する電子メールIDを探し、**配信チャネルを選択**&#x200B;をクリックします。
+1. 配信チャネルを選択するメール ID を見つけ、「**配信チャネルを選択**」を選択します。
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
@@ -58,21 +57,21 @@ Marketo・セールス・コネクトを使用すると、カスタムSMTPサー
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. 「チャネル」ドロップダウンをクリックし、先ほど追加したカスタム配信チャネルを選択します。 「**保存**」をクリックします。
+1. チャネルドロップダウンをクリックし、先ほど追加したカスタム配信チャネルを選択します。「**保存**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
    >[!NOTE]
    >
-   >チーム管理者がチームSMTPサーバーを設定すると、そのサーバーは自動的にデフォルトの電子メールIDにのみ適用され、他の電子メールIDのオプションとして使用できます。
+   >チーム管理者がチーム SMTP サーバーを設定すると、これはデフォルトのメール ID にのみ自動的に適用され、他のメール ID のオプションとして使用できます。
 
 ## チーム SMTP サーバー {#team-smtp-server}
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. [Webアプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**設定**」を選択します。
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -84,18 +83,17 @@ Marketo・セールス・コネクトを使用すると、カスタムSMTPサー
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. SMTP Serverの資格情報を入力し、「**接続**」をクリックします。
+1. SMTP サーバーのクレデンシャルを入力し、「**接続**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 
    >[!NOTE]
    >
-   >チームSMTPサーバーは、すべてのチームメンバーの既定の電子メールIDの既定の配信チャネルです。 さらに、他のすべての電子メールIDの配信チャネルオプションとしても使用できます。
+   >チーム SMTP サーバーは、すべてのチームメンバーのデフォルトのメール ID のデフォルト配信チャネルになります。さらに、他のすべてのメール ID の配信チャネルオプションとして使用できます。
 
    >[!MORELIKETHIS]
    >
-   >* [Gmailユーザーの電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-      >
-      >
-   * [Outlookユーザー用電子メール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+   >
+   >* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
