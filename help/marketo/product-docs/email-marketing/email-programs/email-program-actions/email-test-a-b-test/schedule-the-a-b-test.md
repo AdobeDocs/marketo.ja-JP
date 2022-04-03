@@ -1,53 +1,52 @@
 ---
 unique-page-id: 2359547
-description: A/Bテストのスケジュール —Marketoドキュメント — 製品ドキュメント
-title: A/Bテストのスケジュール
+description: A/B テストのスケジュール - Marketo ドキュメント - 製品ドキュメント
+title: A/B テストのスケジュール
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# A/Bテストのスケジュール{#schedule-the-a-b-test}
+# A/B テストのスケジュール {#schedule-the-a-b-test}
 
-電子メールプログラムにA/Bテストを追加し、推奨結果の条件を定義したら、テストが開始されるタイミングをスケジュールする必要があります。 これが方法です。
+メールプログラムに A/B テストを追加し、推奨結果の条件を定義したら、いつテストが開始するかをスケジュールする必要があります。手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
->日付/時間テストの場合は、テスト結果の概要を受け取ったときにのみ設定する必要があります。
+>日時テストの場合は、いつテスト結果の概要を受け取るかのみを設定する必要があります。
 
-1. **テスト**&#x200B;の送信日を選択します。
+1. 「**テストを送信**」の日付を選択します。
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. 「**テスト**&#x200B;を送信」の時間を選択します。
+1. 「**テストを送信**」の時間を選択します。
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >テストの送信と勝者の送信の間には 4 時間以上置く必要があります. ただし、送信サイズが大きい場合は、24時間待って、適切な結果が得られるまで十分な時間を待つことができます。
+   >テストの送信と勝者の送信の間には 4 時間以上置く必要があります。ただし、送信サイズが大きい場合は、適切な結果が得られるまで十分な時間である 24 時間待つことができます。
 
-1. **推奨結果を送信**&#x200B;に対しても同じことを行います。 通知受信者（オプション）を入力し、「**次へ**」をクリックします。
+1. 「**勝者を送信**」で同じことをします。通知受信者を入力し（オプション）、「**次へ**」をクリックします。
 
    >[!NOTE]
    >
-   >テストバリアントは、テストグループのみが受け取ります。
+   >テストバリアントを受け取るのは、テストグループだけです。
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
 
    >[!NOTE]
    >
-   >勝者を手動で宣言する場合は、**メールを終了**&#x200B;日付/時刻の代わりに&#x200B;**レポート送信**&#x200B;日時を定義します。
+   >勝者を手動で発表する場合は、「**レポートを送信**」日時の代わりに「**メールを送信終了**」日時を定義します。
 
-   超！ 完了したら、概要を確認し、「Close（閉じる）」をクリックします。
+   これで全部です。完了したら、概要を確認し、「閉じる」をクリックします。
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
@@ -57,10 +56,10 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >A/Bテストをスケジュールすると、最終送信日またはレポート送信日も設定されます。
+   >A/B テストをスケジュールすると、最終送信日またはレポート送信日も設定されます。
 
-   オーディエンスを定義済みで電子メールを選択済みの場合、残りの手順はプログラムを承認することだけです。
+   オーディエンスを既に定義し、メールを選択している場合、残りの手順はプログラムを承認することだけです。
 
    >[!MORELIKETHIS]
    >
-   >[電子メールプログラムの承認/未承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[メールプログラムの承認／承認取り消し](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
