@@ -4,9 +4,9 @@ description: メールを作成する - Marketo ドキュメント - 製品ド�
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -66,4 +66,4 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
 >[!MORELIKETHIS]
 >
->[メールヘッダーを編集する](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[メールヘッダーの編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
