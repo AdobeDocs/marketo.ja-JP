@@ -1,46 +1,45 @@
 ---
 unique-page-id: 1900589
-description: テキスト電子メールへの追加リンクの追跡 —Marketoドキュメント — 製品ドキュメント
-title: テキスト電子メ追加ールへの追跡されたリンク
+description: テキストメールに追跡リンクを追加する - Marketo ドキュメント - 製品ドキュメント
+title: テキストメールに追跡リンクを追加する
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# テキスト電子メールへ追加の追跡されたリンク{#add-tracked-links-to-a-text-email}
+# テキストメールに追跡リンクを追加する {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
->* [テキストのみの電子メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [電子メール内の要素の編集](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+>* [テキストのみのメールを作成する](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [メールの要素を編集する](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-テキスト電子メールのリンクは、Marketoで追跡できます。 どのように機能するか見てみましょう 1.電子メールを選択し、「ドラフトを編集」をクリックします。
+Marketo では、テキストのメールリンクを追跡できます。仕組みを見てみましょう。1. メールを選択して、「ドラフトを編集」をクリックします。
 
 ![](assets/one-9.png)
 
-1. リンクを追加する編集可能領域を重複キーを押しながらクリックします。
+1. リンクを追加する編集可能領域をダブルクリックします。
 
    ![](assets/two-8.png)
 
-1. 次のように、角括弧で囲まれた重複のURLを入力します。`[[www.domain.com/path/page.html]]`.
+1. URL を二重引用符で囲んで入力します（例：`[[www.domain.com/path/page.html]]`）。
 
    ![](assets/three-8.png)
 
-1. 編集者を閉じて、ドラフトを承認するのを忘れないでください。
+1. エディターを閉じます。忘れずにドラフトを承認してください。
 
    ![](assets/four-6.png)
 
 >[!NOTE]
 >
->mktNoTokクラス機能は、テキスト電子メール内の追跡可能リンクでは動作しません。 HTML電子メールの場合のみ。
+>mktNoTok クラス機能は、テキストメール内の追跡可能なリンクでは機能しません。機能するのは HTML メールの場合のみです。
 
 >[!TIP]
 >
->重複チェックにテストアウトします。 角括弧が正しく入力されていることを確認します。
+>再度確認するためにテストします。括弧が正しく入力されていることを確認します。
 
-お疲れさま！
+お疲れさまでした。
