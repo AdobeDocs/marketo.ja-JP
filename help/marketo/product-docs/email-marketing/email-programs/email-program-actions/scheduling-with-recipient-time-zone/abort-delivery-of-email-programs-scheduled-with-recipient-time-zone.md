@@ -1,6 +1,6 @@
 ---
 unique-page-id: 13795727
-description: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する — Marketo ドキュメント — 製品ドキュメント
+description: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する - Marketo ドキュメント - 製品ドキュメント
 title: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -38,6 +38,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [受信者タイムゾーンを理解する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-* [受信者タイムゾーンを使用してメールプログラムをスケジュールする](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [受信者タイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [受信者タイムゾーンを使用したメールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
