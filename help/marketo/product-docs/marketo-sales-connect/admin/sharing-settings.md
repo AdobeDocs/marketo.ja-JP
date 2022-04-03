@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: 設定の共有 - Marketo ドキュメント - 製品ドキュメント
 title: 設定の共有
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '232'
 ht-degree: 100%
