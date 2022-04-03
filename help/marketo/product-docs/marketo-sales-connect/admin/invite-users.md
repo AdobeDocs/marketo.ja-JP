@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352402
-description: ユーザーの招待 —Marketoドキュメント — 製品ドキュメント
+description: ユーザーの招待 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-translation-type: tm+mt
 source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 # ユーザーの招待 {#invite-users}
 
-ユーザーの追加は簡単です。
+ユーザーの追加はすばやく簡単です。
 
-1. 歯車アイコンをクリックし、**設定**&#x200B;を選択します。
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「管理設定」で、「**ユーザー管理**」を選択します。
+1. 管理設定で、「**ユーザー管理**」を選択します。
 
    ![](assets/invite-team-members-2.png)
 
@@ -27,13 +26,13 @@ ht-degree: 6%
 
    ![](assets/invite-team-members-3.png)
 
-1. 追加する個人の電子メールアドレスを入力し、**次へ**&#x200B;をクリックします。
+1. 追加する個人のメールアドレスを入力し、「**次へ**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >デフォルトでは、すべての新しいメンバーが全員のチームに追加されます。
+   >デフォルトでは、すべての新規メンバーが「全員」チームに追加されます。
 
 1. 「**OK**」をクリックします。
 
