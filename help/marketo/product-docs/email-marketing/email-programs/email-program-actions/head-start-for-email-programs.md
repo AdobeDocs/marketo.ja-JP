@@ -1,80 +1,79 @@
 ---
 unique-page-id: 10097202
-description: 電子メールプログラム向けのヘッド開始-Marketoドキュメント — 製品ドキュメント
-title: 電子メールプログラムのヘッド開始
+description: メールプログラムの優先スタート - Marketo ドキュメント - 製品ドキュメント
+title: メールプログラムの優先スタート
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '408'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールプログラムのヘッド開始{#head-start-for-email-programs}
+# メールプログラムの優先スタート {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
->[電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>[メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-電子メールプログラムの日付/時刻を選択すると、プログラムの処理を開始する日時が指定されます。 選択した時刻に電子メールを起動する場合は、ヘッド開始により、事前にプログラムを処理することでそのオプションが提供されます。
+メールプログラムの日時を選択すると、プログラムの処理を開始するタイミングが決まります。選択した時刻にメールを起動させたい場合は、優先スタートがプログラムを事前に処理して、そのオプションを提供します。
 
-## 標準ヘッド開始{#standard-head-start}
+## 標準優先スタート {#standard-head-start}
 
 1. 「**マーケティングアクティビティ**」をクリックします。
 
    ![](assets/one-1.png)
 
-1. 電子メールプログラムを探して選択します。
+1. メールプログラムを選択します。
 
    ![](assets/selectemailprogram-4.jpg)
 
    >[!NOTE]
    >
-   >ヘッド開始はA/Bテストでは使用できません。
+   >優先スタートは A/B テストでは使用できません。
 
-1. スケジュールタイルで、電子メールのスケジュールを設定し、「**ヘッド開始**」ボックスを選択します。
+1. スケジュールタイルで、メールのスケジュールを設定し、「**優先スタート**」ボックスを選択します。
 
    ![](assets/three-1.png)
 
-   ヘッド開始を選択した状態で、プログラムは、スケジュールされた時間の約12時間前に処理を開始します。 開始の処理が完了すると、プログラムはロックされます。
+   優先スタートを選択すると、プログラムは予定時間の約 12 時間前に処理を開始します。処理が開始されると、プログラムはロックされます。
 
    >[!CAUTION]
    >
-   >プログラムのロック後に購読を解除したオーディエンス上のユーザーは、全員が電子メールを受信します。 購読解除の通知を調整して、購読解除の処理に1 ～ 2営業日かかる場合があることを反映することをお勧めします。
+   >プログラムのロック後に登録解除したオーディエンスは、引き続きメールを受け取ります。登録解除の通知を調整して、登録解除の処理に 1 ～ 2 営業日かかる場合があることを反映することをお勧めします。
 
 1. 「**プログラムを承認**」をクリックします。
 
    ![](assets/four-1.png)
 
-   プログラムの承認後、承認タイルに4つの異なるステータスが表示される場合があります。
+   プログラムの承認後、承認タイルには、4 つの異なるステータスが表示されます。
 
-   * **実行の待機中：プログラム** が承認された後。
-   * **処理が開始されました。実行を待機中：** 処理が進行中です。
-   * **処理が完了しました。実行の待機中：** 処理が完了しました。電子メールがスケジュールされた開始時間を待機するようになりました。
-   * **完了：** プログラムが完了しました。
+   * **実行待機中**：プログラムが承認された後。
+   * **処理を開始しました。実行待機中**：処理中です。
+   * **処理が完了しました。実行待機中**：処理が完了しました。メールは、開始予定時間を待機中です。
+   * **終了**：プログラムが完了しました。
 
    >[!TIP]
    >
-   >プログラムがロックされた後、電子メールが送信される前にキャンセルしますか？ 大丈夫！ 承認タイルの右下にある「プログラム&#x200B;**中止**」をクリックします。
+   >プログラムがロックされた後、メールが送信される前なら、簡単にキャンセルできます。承認タイルの右下の「**プログラムを停止**」をクリックするだけです。
 
    >[!NOTE]
    >
-   >スケジュールされた実行時間の12時間未満で電子メールプログラムを未承認にし、その後変更した場合は、承認の12時間以上前の新しい日時を選択する必要があります。
+   >スケジュールされた実行時間の 12 時間前より後にメールプログラムの承認を取り消し、その後変更した場合は、承認の 12 時間以上後の新しい日時を選択する必要があります。
 
-## 受信者タイムゾーン{#head-start-with-recipient-time-zone}を持つヘッド開始
+## 受信者タイムゾーンで優先スタート {#head-start-with-recipient-time-zone}
 
-既存のヘッド開始機能では、プログラムを少なくとも12時間前にスケジュールする必要があります。 受信者のタイムゾーンの意味 受信者タイムゾーンがアクティブな場合、開始は最も早いタイムゾーン(UTC +14:00)の午前0時に電子メールプログラムを実行します。 したがって、**ヘッド開始と受信者タイムゾーンの両方**&#x200B;を有効にするには、プログラムは最も早いタイムゾーン(UTC +14:00 **)より少なくとも12時間早く**&#x200B;スケジュールする必要があります。
+既存の優先スタート機能を使用するには、プログラムが少なくとも 12 時間前にスケジュールされている必要があります。受信者タイムゾーンとは何でしょうか。受信者タイムゾーンがアクティブになっている場合、最も早いタイムゾーン（UTC +14:00）の午前 0 時にメールプログラムの実行が開始されることを思い出してください。したがって、優先スタートと受信者の&#x200B;**両方**&#x200B;のタイムゾーンを有効にするには、プログラムを&#x200B;**最も早いタイムゾーン（UTC +14:00）の少なくとも 12 時間前**&#x200B;にスケジュールする必要があります。
 
-つまり、米国/ロサンゼルスにいて、ヘッド開始と受信者タイムゾーンの両方を有効にする場合は、事前にプログラム&#x200B;**34時間**&#x200B;をスケジュールする必要があります。 どうやってこの番号に着いた？
+つまり、米国ロサンゼルスにいて、優先スタートと受信者タイムゾーンの両方を有効にする場合は、プログラムを **34 時間**&#x200B;前にスケジュールする必要があります。どうやってこの数字にたどり着いたのでしょうか。
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[受信者のタイムゾーンを使用して電子メールプログラムをスケジュールする方法につ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) いて詳しく説明します。
+受信者タイムゾーンを使用したメールプログラムのスケジュール方法についての[詳細](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)をご覧ください。
 
 >[!MORELIKETHIS]
 >
->* [電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
->* [受信者のタイムゾーンでの電子メールプログラムのスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [メールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [受信者タイムゾーンを使用したメールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [受信者タイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
