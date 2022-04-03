@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2359545
-description: A/Bテストの推奨結果条件の定義 —Marketoドキュメント — 製品ドキュメント
-title: A/Bテストの推奨結果条件の定義
+description: A/B テストの勝者条件の定義 - Marketo ドキュメント - 製品ドキュメント
+title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '401'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# A/Bテストの推奨結果条件の定義{#define-the-a-b-test-winner-criteria}
+# A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-[電子メールプログラムにA/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加する場合、テストタイプを[選択し、A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)をスケジュールしてから、勝者条件を定義する必要があります。 どの電子メールの勝利を決定する方法を示します。
+メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)テストタイプを選択し、勝者の条件を定義する必要があります。どのメールが優先されるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->[A追加/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 ## 勝者の条件 {#winner-criteria}
 
-1. デフォルトの&#x200B;**推奨結果条件**&#x200B;オプションが最初に表示されます。
+1. デフォルトの&#x200B;**勝者の条件**&#x200B;オプションが最初に表示されます。
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
-   | **開封** | openは、画像が電子メールにダウンロードされると登録します。 画像を含めない場合でも、デフォルトでは、MarketoはすべてのHTML電子メールに1つのトラッキングピクセルを挿入します。 |
+   | **開封** | メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。 |
    |---|---|
-   | **クリック** | デフォルトでは、電子メール内のリンクにトラッキングが埋め込まれており、電子メール内のリンクは、誰がどのリンクをクリックしたか、合計クリックされた数などを確認できます。 |
-   | **クリックして開く %** | 電子メール内で開かれ、リンクがクリックされた電子メールの割合。 ここでは、個別クリック数を個別オープン数で割った値を100に乗算して割合として表示することで、電子メールの関連性とコンテキストを測定します。 |
+   | **クリック** | デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。 |
+   | **クリック/開封率 %** | 開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。 |
    | **エンゲージメントスコア** | [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)は、コンテンツの効果を判断するのに役立ちます。 |
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは24時間以上実行する必要があります。 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)の理解についての詳細。
+   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)について学びます。
 
-1. また、「カスタムコンバージョン」を選択して「編集」をクリックすると、条件をカスタマイズできます。
+1. また、「カスタムコンバージョン」を選択して「編集」をクリックすることで、条件をカスタマイズすることもできます。
 
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
    >[!NOTE]
    >
-   >カスタムコンバージョンでは、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして選択できます。
+   >カスタムコンバージョンでは、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして設定できます。
 
-1. 窓がポッと開く。 選択したトリガーを探し、キャンバスにドラッグします。
+1. ウィンドウがポップ表示されます。任意のトリガーを見つけ、キャンバスにドラッグします。
 
    ![](assets/image2014-9-12-15-3a52-3a18.png)
 
@@ -53,32 +52,32 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Marketoは、この電子メールプログラムから電子メールを送信した人のトリガーのみを許可します。 「送信済みの電子メール」フィルターを追加する必要はありません。
+   >Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。「メール送信済み」フィルターを追加する必要はありません。
 
 1. 「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
-   OK！次に、勝者の決定方法を決定する時間です。
+   これで完了です。次に、勝者の決定方法を決めます。
 
 ## 勝者の発表 {#declare-winner}
 
-1. 2つの使用可能なオプションのいずれかを選択します。
+1. 2 つの使用可能なオプションの 1 つを選択します。
 
    ![](assets/image2014-9-12-15-3a53-3a44.png)
 
    >[!NOTE]
    >
-   >**日付/時間** A/Bテストを行う場合は、**手動**&#x200B;のみ選択できます。
+   >**日時** A/B テストをおこなう場合、選択できるのは&#x200B;**手動**&#x200B;のみです。
 
-   A/Bテストが終了すると、Marketoは予定された時間に勝者の電子メールを自動的に送信できます。また、結果を確認して、どの電子メールをいつ送信するかを決定できます。
+   A/B テストが終了すると、スケジュールされた時刻に勝者のメールが自動的に送信されるようにできます。または、結果を確認して、どのメールを送信するかを決定できます。
 
-1. 「自動」はawesomeで、デフォルトのオプションです。 [**次へ**]をクリックします。
+1. 「自動」はすばらしいもので、デフォルトのオプションになっています。「**次へ**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >「**手動**」を選択すると、テストが送信され、推奨結果が宣言されるのを待ちます。 結果のレポートを受け取ります。
+   >「**手動**」を選択すると、テストが送信され、勝者の発表を待機します。結果のレポートが届きます。
 
-完璧！ 次に、[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)のスケジュールを設定します。
+完璧です。次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)します。
