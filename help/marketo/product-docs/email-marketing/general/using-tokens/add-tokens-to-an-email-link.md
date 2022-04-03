@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1147360
-description: 電子メールリンクへ追加のトークン —Marketoドキュメント — 製品ドキュメント
-title: 電子メ追加ールリンクへのトークン
+description: メールリンクにトークンを追加する — Marketo ドキュメント — 製品ドキュメント
+title: メールリンクにトークンを追加する
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールリンク追加へのトークン{#add-tokens-to-an-email-link}
+# メールリンクにトークンを追加する {#add-tokens-to-an-email-link}
 
-リンクに追加のパラメーターや個人固有のパラメーターを挿入するには、トークンを使用します。 これが方法です。
+リンクに追加のパラメーターやユーザー固有のパラメーターを挿入する場合は、トークンを使用できます。手順は以下のとおりです。
 
-1. 電子メールを選択し、「**ドラフトを編集**」タブをクリックします。
+1. メールを選択して「**ドラフトを編集**」タブをクリックします。
 
    ![](assets/one.png)
 
-1. 編集可能な領域を重複キーを押しながらクリックします。
+1. 編集可能な領域をダブルクリックします。
 
    ![](assets/two.png)
 
-1. リンクのテキストを指定または書き込みます。 ハイライト表示し、**リンクを挿入/編集**&#x200B;アイコンをクリックします。
+1. リンクのテキストを指定または書き込みます。ハイライト表示し、**リンクの挿入／編集**&#x200B;アイコンをクリックします。
 
    ![](assets/three.png)
 
-1. **URL**&#x200B;に目的のトークンを入力し、**挿入**&#x200B;をクリックします。
+1. 目的のトークンを「**URL**」に入力して、「**挿入**」をクリックします。
 
    ![](assets/four.png)
 
@@ -35,8 +34,8 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-   それだ！
+   これで手順は完了です。
 
 >[!MORELIKETHIS]
 >
->[マイトークンでのURLの使用](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[マイトークンでの URL の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
