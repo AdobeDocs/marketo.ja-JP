@@ -5,8 +5,8 @@ title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '735'
+ht-degree: 100%
 
 ---
 
@@ -40,15 +40,15 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-## Salesforce カスタマイズの更新 {#update-salesforce-customization}
+## Salesforce カスタマイズのアップデート {#update-salesforce-customization}
 
-Salesforce カスタマイズパッケージのアップデートには、機能強化とバグ修正が含まれます。 更新が利用可能かどうか、または更新を実行するには、次の手順に従います。
+Salesforce カスタマイズパッケージのアップデートには、機能強化とバグ修正が含まれます。アップデートが利用可能かどうか、またはアップデートを実行するには、次の手順に従います。
 
 >[!NOTE]
 >
->**管理者権限が必要。**
+>**管理者権限が必要.**
 
-1. 内 [web アプリケーション](https://www.toutapp.com)、歯車アイコンをクリックし、「 **設定**.
+1. [Web アプリケーション](https://www.toutapp.com)で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -56,19 +56,19 @@ Salesforce カスタマイズパッケージのアップデートには、機能
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. 更新が利用可能な場合は、セールスコネクトカスタマイズカードが表示されます。 クリック **カスタマイズを更新**.
+1. アップデートが利用可能な場合は、Sales Connect カスタマイズカードが表示されます。「**カスタマイズをアップデート**」をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. クリック **アップグレード**.
+1. 「**アップグレード**」をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
-1. 更新プログラムがインストールされるまで待ちます。 必要なバージョン番号の数に応じて、インストール時間は異なります。
+1. アップデートがインストールされるまで待ちます。必要なバージョン番号の数に応じて、インストール時間は異なります。
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-完了すると、カードに「セールスコネクトのカスタマイズは最新です」と表示されます。
+完了すると、カードに「Sales Connect のカスタマイズは最新です」と表示されます。
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
