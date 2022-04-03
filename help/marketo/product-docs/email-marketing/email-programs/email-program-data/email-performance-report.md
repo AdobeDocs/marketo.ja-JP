@@ -63,5 +63,5 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [キャンペーンメールレポートでアセットをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
