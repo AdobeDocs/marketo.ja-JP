@@ -65,5 +65,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[メールにメールスクリプトトークンを追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)>
->
+>[メールへのメールスクリプトトークンの追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
