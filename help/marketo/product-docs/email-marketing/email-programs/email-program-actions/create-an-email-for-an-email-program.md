@@ -1,48 +1,47 @@
 ---
 unique-page-id: 1900593
-description: 電子メールプログラム用の電子メールの作成 —Marketoドキュメント — 製品ドキュメント
-title: 電子メールプログラム用の電子メールの作成
+description: メールプログラム向けメールの作成 - Marketo ドキュメント - 製品ドキュメント
+title: メールプログラム向けメールの作成
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールプログラム用の電子メールの作成{#create-an-email-for-an-email-program}
+# メールプログラム向けメールの作成 {#create-an-email-for-an-email-program}
 
 >[!PREREQUISITES]
 >
->* [電子メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Smart ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Listorを使用したオーディエンスの定義オーディエンスのインポートによるリストの [定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [スマートリストを使用してオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)または[リストをインポートしてオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 
-電子メールプログラムを作成し、オーディエンスを定義したら、送信する電子メールを決定します。 [既存の電子メール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)を選択するか、新規に作成することができます。 新しい電子メールの作成方法を次に示します。
+メールプログラムを作成し、オーディエンスを定義したら、送信するメールを決定できます。[既存のメールを選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)またはゼロから作成します。メールを新規作成する方法を次に示します。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/one.png)
 
-1. 電子メールプログラムを選択します。 「**電子メール**」タイルの下の「**新しい電子メール**」をクリックします。
+1. メールプログラムを選択します。**メール**&#x200B;タイルの下で、「**新規メール**」をクリックします。
 
    ![](assets/newemaildashboard.png)
 
-1. **名前**&#x200B;を入力し、希望のテンプレートを選択して、**作成**&#x200B;をクリックします。
+1. **名前**&#x200B;を入力します。望まれるテンプレートを選択し、「**作成**」をクリックします。
 
    ![](assets/three.png)
 
-1. 必要な変更をすべて行い、エディターを閉じます。
+1. 必要な変更をすべておこない、エディターを閉じます。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >電子メール](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)の[要素を編集する方法を説明します。
+   >[メールの要素の編集](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)方法を学びます。
 
-1. メールを承認するのを忘れないでください。
+1. 忘れずにメールを承認してください。
 
    ![](assets/five.png)
 
-OK！送信する電子メールを作成しました。[A/Bテスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を追加するか、[電子メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)のスケジュールを直接スキップします。
+完成です。送信するメールを作成したので、[A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)する、またはスキップして[メールプログラムをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)します。
