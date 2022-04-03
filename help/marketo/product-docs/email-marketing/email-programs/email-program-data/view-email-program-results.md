@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2951167
-description: 表示電子メールプログラム結果 —Marketoドキュメント — 製品ドキュメント
-title: 表示電子メールプログラムの結果
+description: メールプログラム結果の表示 - Marketo ドキュメント - 製品ドキュメント
+title: メールプログラム結果の表示
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 表示電子メールプログラム結果{#view-email-program-results}
+# メールプログラム結果の表示 {#view-email-program-results}
 
-スマートキャンペーンの「結果」タブと同様に、電子メールプログラムでも同じ情報を表示できます。
+スマートキャンペーンの「結果」タブと同様に、メールプログラムにも同じ情報が表示されます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 電子メールプログラムを探して選択します。
+1. メールプログラムを選択します。
 
    ![](assets/selectemailprogram3.jpg)
 
    >[!NOTE]
    >
-   >電子メールプログラムが既に実行されている場合は、直接電子メールプログラムダッシュボードに移動します。
+   >メールプログラムが既に実行されている場合は、メールプログラムダッシュボードに直接移動します。
 
-1. **表示**&#x200B;の下で、**Campaign コントロールパネル**&#x200B;を選択します。
+1. **表示**&#x200B;の下で、「**コントロールパネル**」を選択します。
 
    ![](assets/controlpanelview.jpg)
 
-1. **オーディエンス**&#x200B;タイルの下の&#x200B;**表示結果**&#x200B;をクリックします。
+1. **オーディエンス**&#x200B;タイルの下で、「**結果を表示**」をクリックします。
 
    ![](assets/audiencetile.jpg)
 
-   あった！
+   これで手順は完了です。
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)
