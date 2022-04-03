@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359584
-description: チャンピオン／挑戦者 — チャンピオンの発表 — Marketo ドキュメント — 製品ドキュメント
-title: チャンピオン／挑戦者 — チャンピオンの発表
+description: チャンピオン／挑戦者：チャンピオンの発表 — Marketo ドキュメント — 製品ドキュメント
+title: チャンピオン／挑戦者：チャンピオンの発表
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
