@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1900563
-description: 予定表イベント(.ics)ファイルの作成 —Marketoドキュメント — 製品ドキュメント
-title: 予定表イベント(.ics)ファイルの作成
+description: カレンダーイベント（.ics）ファイルの作成 - Marketo ドキュメント - 製品ドキュメント
+title: カレンダーイベント（.ics）ファイルの作成
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 予定表イベント(.ics)ファイル{#create-a-calendar-event-ics-file}を作成する
+# カレンダーイベント（.ics）ファイルの作成 {#create-a-calendar-event-ics-file}
 
-カレンダーファイルトークンを使用すると、Marketoの電子メールやランディングページにカレンダーイベント(.ics)リンクを追加できます。
+カレンダーファイルトークンを使用すると、Marketo のメールとランディングページにカレンダーイベント（.ics）のリンクを追加できます。
 
-1. プログラムー内で、「**マイトークン**」タブに移動します。
+1. プログラム内で、「**マイトークン**」タブに移動します。
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
@@ -23,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. **トークン名**&#x200B;と&#x200B;**編集**&#x200B;を入力します。
+1. 「**トークン名**」および 「**編集**」を入力します。
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
@@ -31,10 +30,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
-任務完了！ 必ずテストしてみてください。
+任務完了です。必ずテストしてみてください。
 
 >[!MORELIKETHIS]
 >
->* [電子メールにカレンダーイベント(.ics)を含める](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [ランディングページに予定表イベントのICSファイルを含める](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [メールにカレンダーイベント（.ics）を追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [ランディングページにカレンダーイベントの ICS ファイルを追加する](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
 
