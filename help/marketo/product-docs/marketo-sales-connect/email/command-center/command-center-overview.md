@@ -95,5 +95,5 @@ ht-degree: 100%
 >
 >* [タスク](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [詳細検索の概要](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [選択および送信による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
