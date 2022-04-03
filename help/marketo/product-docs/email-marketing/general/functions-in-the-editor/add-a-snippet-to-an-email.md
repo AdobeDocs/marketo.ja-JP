@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147358
-description: 電子メール —追加Marketoドキュメント — 製品ドキュメントへのスニペット
-title: 電子メ追加ールのスニペット
+description: メールにスニペットを追加する - Marketo ドキュメント - 製品ドキュメント
+title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メ追加ール{#add-a-snippet-to-an-email}へのスニペット
+# メールにスニペットを追加する {#add-a-snippet-to-an-email}
 
-スニペットは、電子メールやランディングページで使用できる再利用可能なリッチテキストやグラフィックのブロックです。
+スニペットは、メールやランディングページで使用できる、リッチテキストやグラフィックの再利用可能なブロックです。
 
 >[!PREREQUISITES]
 >
@@ -21,13 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->スニペットに[Marketoの電子メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。**a3/>は電子メールでは動作しません。**&#x200B;スニペットは、単にボディコンテンツ(HTML + TEXT)にする必要があります。
+>スニペットには [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。これはメールでは動作&#x200B;**しません**。スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
 
-1. 電子メールを探し、選択して「**ドラフトを編集**」をクリックします。
+1. 目的のメールを選択して、「**ドラフトを編集**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして、「**スニペットに置き換え**」を選択します。
+1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして、「**スニペットに置換**」を選択します。
 
    ![](assets/two-2.png)
 
@@ -37,12 +36,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >承認されたスニペットのみがドロップダウンに表示されます。
+   >ドロップダウンには承認済みのスニペットのみが表示されます。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >スニペットを更新し承認するたびに、変更内容が電子メールに反映されます。 [ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)でスニペットを承認しない限り、電子メールの下書きが作成されます。
+   >スニペットを更新および承認するたびに、変更がメールに反映されます。スニペットを[ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)で承認しない限り、メールはドラフトされます
 
-これは、動的なコンテンツをすばやく簡単に再利用する方法です。
+これにより、動的コンテンツをすばやく簡単に再利用できます。
