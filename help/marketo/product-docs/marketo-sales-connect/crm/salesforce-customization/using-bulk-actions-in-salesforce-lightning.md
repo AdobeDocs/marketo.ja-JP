@@ -45,7 +45,7 @@ ht-degree: 100%
 
    ![](assets/three-5.png)
 
-##  キャンペーンに追加 {#add-to-campaign}
+## キャンペーンに追加 {#add-to-campaign}
 
 1. Salesforce で、「**リード**」タブをクリックし、目的のリードのリストを選択します。
 

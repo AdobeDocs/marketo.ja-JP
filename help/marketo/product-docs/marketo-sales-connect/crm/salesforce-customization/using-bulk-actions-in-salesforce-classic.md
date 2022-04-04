@@ -42,7 +42,7 @@ ht-degree: 100%
 
    ![](assets/three-4.png)
 
-##  キャンペーンに追加 {#add-to-campaign}
+## キャンペーンに追加 {#add-to-campaign}
 
 1. Salesforce で、「**リード**」タブ、「**移動**」ボタンをクリックします。
 
