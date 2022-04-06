@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 96%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 96%
          + 設定 {#configuration}
             + [Salesforce Classic への「一括アクション」ボタンの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce への「Marketo」タブの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Sales Insight 権限セットの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce の Marketo Sales Insight 設定タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Sales Insight アクセスの削除](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Marketo 管理者向け Sales Insight ページ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [チーム向け Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 機能 {#features}
@@ -1831,8 +1833,9 @@ ht-degree: 96%
    + 以前のリリース {#previous-releases}
       + 2022 年 {#2022}
          + [リリースノート：2022 年 1 月](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [リリースノート：22 年 3 月](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021年 {#2021}
-         + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [リリースノート：2021 年 1 月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [リリースノート：2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [リリースノート：2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
