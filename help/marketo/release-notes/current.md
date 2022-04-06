@@ -2,7 +2,7 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## ネイティブ CRM 統合 {#native-crm-integration}
 
-**ネイティブ Veeva CRM 統合（限定提供）**:Veeva VRM とMarketo Engageの間のアクティビティをネイティブ統合により同期することで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療の専門家向けに、よりパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加に関心がある場合は、カスタマーサクセスマネージャーにお問い合わせください。
+**ネイティブ Veeva CRM 統合（限定提供）**:ネイティブ統合により、Veeva CRM とMarketo Engageの間でアクティビティを同期することで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療の専門家向けに、よりパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加に関心がある場合は、カスタマーサクセスマネージャーにお問い合わせください。
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
