@@ -1,12 +1,11 @@
 ---
 description: Sales Insight 権限セットの追加 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight 権限セットの追加
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 6%
+source-wordcount: '379'
+ht-degree: 5%
 
 ---
 
@@ -85,31 +84,29 @@ Salesforce で Sales Insight 機能へのアクセスを追加するには、次
 
 1. Salesforce アカウントにログインします。
 
-PICC
-
 1. 「**設定**」をクリックします。
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. [ 管理者 ] で、をクリックして展開します。 **ユーザーを管理**&#x200B;を、 **ユーザー**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. 「すべてのユーザー」で、アクセス権を付与するユーザーを選択し、「 **権限セットの割り当て**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. クリック **割り当てを編集**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. 選択 **Marketo App Access** 使用可能な権限セットから、 **追加**. 「**保存**」をクリックします。
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. ユーザーの詳細ページを下にスクロールすると、「権限セットの割り当て」の下に「Marketo App Access」が表示されます。
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
