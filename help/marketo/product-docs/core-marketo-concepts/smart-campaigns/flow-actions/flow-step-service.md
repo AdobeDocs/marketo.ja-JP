@@ -1,12 +1,10 @@
 ---
 description: フローステップサービス — Marketoドキュメント — 製品ドキュメント
 title: フローステップサービス
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このプレリリース機能は、現在、セルフサービスフローステップベータプログラムに登録されているアカウントでのみ使用できます。
+>セルフサービスのフローステップは、現在オープンベータです。 管理者/宝箱メニューで、サブスクリプションに対して有効にできます。
 
-セルフサービスフローステップは、Web サービスをオーサリング、公開、およびAdobeMarketo Engageスマートキャンペーンに統合するためのフレームワークと機能のセットです。 このガイドは、既に作成および公開されているMarketo Engageのエンドユーザーがサービスをインストールして使用することを目的としています。 独自のサービスのオーサリングと公開について詳しくは、 [サービスプロバイダーインターフェイス用の GitHub リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). 概念実証ルックアップテーブルの実装が見つかる場合があります [ここ](https://github.com/adobe/mkto-flow-lookup).
+セルフサービスフローステップは、Web サービスをオーサリング、公開、およびAdobeMarketo Engageスマートキャンペーンに統合するためのフレームワークと機能のセットです。 このガイドは、既に作成および公開されているMarketo Engageのエンドユーザーがサービスをインストールして使用することを目的としています。 独自のサービスのオーサリングと公開について詳しくは、 [サービスプロバイダーインターフェイス用の GitHub リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}。 概念実証ルックアップテーブルの実装が見つかる場合があります [ここ](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}。
 
 ## プレリリースの制限と警告 {#pre-release-restrictions-and-warnings}
 
-この機能は現在非公開ベータ版で、使用にいくつかの制限があります。
-
-* この機能は、Marketo Engageのサンドボックスインスタンスでのみ使用できます
-* カスタムおよびサードパーティのフローステップは、2021 年第 4 四半期リリースの実行可能キャンペーンとは互換性がありません。 これは 2022 年第 2 四半期に修正される予定です
-* Marketo SkyUI は、この機能が有効なインスタンスでは一切使用しないでください
+この機能は、現在オープンベータ版なので、サービスが完全にテストされるまで、Marketo Engageのサンドボックスインスタンスでのみ使用する必要があります。
 
 ## サービスのオンボーディングと管理 {#onboarding-and-managing-services}
 

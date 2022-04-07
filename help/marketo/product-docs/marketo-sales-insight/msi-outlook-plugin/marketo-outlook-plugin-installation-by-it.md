@@ -3,10 +3,10 @@ unique-page-id: 11382815
 description: IT による Marketo Outlook プラグインのインストール - Marketo ドキュメント - 製品ドキュメント
 title: IT による Marketo Outlook プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '175'
-ht-degree: 100%
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 94%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 100%
 >
 >ログファイルの保存場所が存在する必要があります。存在しない場合、インストールは中止されます。
 
-異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/en-us/kb/227091)を参照してください。
+異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)を参照してください。
 
 >[!MORELIKETHIS]
 >

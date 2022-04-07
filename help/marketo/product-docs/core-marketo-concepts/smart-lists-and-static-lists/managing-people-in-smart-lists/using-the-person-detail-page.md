@@ -3,8 +3,8 @@ unique-page-id: 2953415
 description: リードの詳細ページの使用 - Marketo ドキュメント - 製品ドキュメント
 title: リードの詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
 
-   <br>
+   <br> 
 
 1. 任意のリードをダブルクリックするか、左側の ID をシングルクリックします。
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->CRM と同期されていないインスタンスの商談情報が [API を介して挿入](http://developers.marketo.com/rest-api/lead-database/opportunities/)されていることも確認できます。
+>CRM と同期されていないインスタンスの商談情報が [API を介して挿入](https://developers.marketo.com/rest-api/lead-database/opportunities/)されていることも確認できます。
 
 ## フィールドの編集 {#editing-a-field}
 
