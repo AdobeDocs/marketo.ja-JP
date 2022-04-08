@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '8649'
+source-wordcount: '8648'
 ht-degree: 96%
 
 ---
@@ -1404,17 +1404,17 @@ ht-degree: 96%
          + インストール {#installation}
             + [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
-            + [Salesforce Classic への「一括アクション」ボタンの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
-            + [Salesforce への「Marketo」タブの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
-            + [Sales Insight 権限セットの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
-            + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce の Marketo Sales Insight 設定タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Sales Insight アクセスの削除](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [Salesforce への「Marketo」タブの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Marketo 管理者向け Sales Insight ページ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
-            + [チーム向け Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+            + [Sales Insight 権限セットの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
+            + [Sales Insight アクセスの削除](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [プロファイルへの Sales Insight アクセスの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
+            + [Salesforce Classic への「一括アクション」ボタンの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + 機能 {#features}
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)

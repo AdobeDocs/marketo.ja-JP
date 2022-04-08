@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 93%
+source-wordcount: '878'
+ht-degree: 92%
 
 ---
 
@@ -163,7 +163,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
       <td>緊急度の値</td> 
      </tr> 
      <tr> 
-      <td>Marketo 内に表示  </td> 
+      <td>Marketo 内に表示   </td> 
      </tr> 
     </tbody> 
    </table>
@@ -323,5 +323,5 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Salesforce への「Marketo」タブの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [チーム向け Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [プロファイルへの Sales Insight アクセスの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 

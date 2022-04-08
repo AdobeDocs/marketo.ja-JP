@@ -3,10 +3,10 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition でのMarketo Sales Insight の設定 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce Professional Edition での Marketo Sales Insight の設定
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 94%
+source-wordcount: '902'
+ht-degree: 93%
 
 ---
 
@@ -303,6 +303,6 @@ Salesforce Professional Edition でMarketo Sales Insight を設定するため�
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Marketoタブを Salesforce に追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [チーム向けの Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [Salesforce への「Marketo」タブの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [プロファイルへの Sales Insight アクセスの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 

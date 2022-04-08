@@ -3,10 +3,10 @@ unique-page-id: 7516390
 description: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 
@@ -78,5 +78,5 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 >
 >* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [チーム向けの Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [プロファイルへの Sales Insight アクセスの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
