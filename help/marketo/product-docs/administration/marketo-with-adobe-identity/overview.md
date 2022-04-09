@@ -2,10 +2,10 @@
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
-ht-degree: 71%
+source-wordcount: '1016'
+ht-degree: 68%
 
 ---
 
@@ -77,6 +77,10 @@ Adobe Identity Management System は、3 つのコンポーネントで構成さ
 **IMS と統合されている場合、サポートに問い合わせる相手は誰ですか？**
 
 [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)に問い合わせる標準手順に従ってください。
+
+**AdobeID を使用して他のAdobeアプリケーションにアクセスする場合、それを使用してMarketoにアクセスできますか。**
+
+他のAdobe製品がある場合でも、サブスクリプションが IMS に移行されるまで、AdobeID を使用してMarketoにアクセスできません。
 
 **Marketo のユーザーの役割（ワークスペース内）は Adobe Admin Console で管理されますか？**
 

@@ -1,62 +1,69 @@
 ---
 unique-page-id: 2950660
-description: カスタムタグの作成 —Marketoドキュメント — 製品ドキュメント
+description: カスタムタグの作成 — Marketoドキュメント — 製品ドキュメント
 title: カスタムタグの作成
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 8%
 
 ---
 
-# カスタムタグの作成{#create-custom-tags}
+# カスタムタグの作成 {#create-custom-tags}
 
-タグはプログラムの整理に役立ちますが、チャネルはレポートのためのデータ収集に役立ちます。
-
->[!NOTE]
->
->詳しくは、[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)についてを参照してください。
+タグはプログラムの整理に役立ち、チャネルはレポート用にデータを収集する際に役立ちます。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>チェックアウト [タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) を参照してください。
 
-## 新しいタグタイプの作成{#create-a-new-tag-type}
+>[!NOTE]
+>
+>**管理者権限が必要**
+
+## 新しいタグタイプの作成 {#create-a-new-tag-type}
 
 新しいタグタイプを作成するには：
 
-1. **管理者**&#x200B;セクションに移動します。
+1. **管理**&#x200B;セクションに移動します。
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
 1. 「**タグ**」をクリックします。
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
-1. 「**新規**」をクリックし、「**新しいタグの種類**」を選択します。
+1. クリック **新規** を選択し、 **新しいタグタイプ。**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. **タグタイプ**&#x200B;の名前を入力します。
+1. タグタイプの名前を入力します。
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. 目的の&#x200B;**タグタイプの値**&#x200B;を入力します。 「**追加別の**」をクリックして、タグの値を追加入力します。
+1. タグタイプに必要な値を入力します。 クリック **別を追加** をクリックして、追加の値を入力します。
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. このタグを適用するプログラムのタイプを選択します。
+1. このタグを適用するプログラムの種類を選択します。
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. 一覧に表示されるすべてのプログラムタイプに対して、このタグを必須にするかどうかを決定します。
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >新しいプログラムが作成されたときにこのタグを追加するには、「**すべてのプログラム**&#x200B;に必須」を選択します。
+   >* 新しいプログラムが作成されるたびにこのタグを追加する場合は、「必須」を選択します。
+   >* [ 適用先 ] リストからプログラムの種類を削除すると、その種類の既存のプログラムからタグとその値が削除されます。 既存のタグ値を保持し、このタグを次に進むためにオプションにする場合 _すべて_ リストに表示されたプログラムタイプは、「必須」チェックボックスを選択解除したままにします。
 
-1. 「**作成**」をクリックして保存します。
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >一部のプログラムタイプに対して必要な類似のタグを他のプログラムに対して任意のタグにする場合は、それぞれ異なるプログラムタイプに適用する 2 つの異なるタグを設定し、「必須」を選択したものと選択しないものが必要です。
 
-   それだ！ これで、プログラムのカスタムタグを作成できます。
+1. 「**作成**」をクリックします。
+
+   ![](assets/create-custom-tags-8.png)
