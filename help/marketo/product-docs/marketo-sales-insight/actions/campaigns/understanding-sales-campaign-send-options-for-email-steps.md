@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: 送信オプションについて - Marketo ドキュメント - 製品ドキュメント
-title: 送信オプションについて
+description: メール手順のセールスキャンペーン送信オプションについて — Marketoドキュメント — 製品ドキュメント
+title: メールステップのセールスキャンペーン送信オプションについて
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 100%
+source-wordcount: '576'
+ht-degree: 88%
 
 ---
 
-# 送信オプションについて {#understanding-send-options}
+# メールステップのセールスキャンペーン送信オプションについて {#understanding-sales-campaign-send-options-for-email-steps}
 
-キャンペーンを作成する場合、Sales Connect でのメール手順の作成方法に関して、いくつかのオプションがあります。また、キャンペーン内でのメールの場所によって、オプションも異なります。
+キャンペーンを作成する際には、Sales Insight アクションでの電子メールステップの作成方法に関するオプションが複数あります。 また、キャンペーン内でのメールの場所によって、オプションも異なります。
 
 これが最初の手順でキャンペーンでの初日であるなら、次のオプションがあります。
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 このメールを送信するタイミングを選択する
 
@@ -58,3 +58,9 @@ ht-degree: 100%
 このメールを前のメールにスレッド
 
 * この送信オプションは、前のメールに対する「フォローアップ」となり、このメールの下部に前のメールの本文が追加されます。
+
+>[!MORELIKETHIS]
+>
+>[セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[セールスキャンペーン設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}

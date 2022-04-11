@@ -3,10 +3,10 @@ unique-page-id: 13796475
 description: 担当者詳細表示 — Marketoドキュメント — 製品ドキュメント
 title: リードの詳細表示
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 8%
 
 1. 担当者の詳細ビューにアクセスするには、 **人** タブをクリックします。
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. 目的の人物をクリックします。
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ ht-degree: 8%
 
 担当者の連絡先情報をすべて含みます。
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **連絡先カード**
 
@@ -59,7 +59,7 @@ ht-degree: 8%
 
 この人がどのようにあなたのアウトリーチと関わっているかを見てください。
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **セールスコネクトアクティビティ**
 
@@ -73,7 +73,7 @@ ht-degree: 8%
 
 アウトリーチ履歴を表示します。 E メール、キャンペーン、呼び出しが含まれます。
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **セールスキャンペーン**
 
@@ -95,7 +95,7 @@ ht-degree: 8%
 
 この担当者に関連付けられたタスクを管理します。
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 実行できるアクションは次のとおりです。
 

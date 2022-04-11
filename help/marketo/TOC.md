@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '8648'
+source-wordcount: '8656'
 ht-degree: 96%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 96%
             + [セールスキャンペーン設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
             + [メールステップ用セールスキャンペーン送信オプション](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [セールスキャンペーンのステップのタイプとリマインダータスク](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
+            + [メールステップのセールスキャンペーン送信オプションについて](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce のカスタマイズ {#salesforce-customization}
