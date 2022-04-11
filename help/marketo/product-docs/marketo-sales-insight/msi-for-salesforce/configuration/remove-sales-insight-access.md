@@ -2,10 +2,10 @@
 description: Sales Insight アクセスの削除 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight アクセスの削除
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -68,8 +68,8 @@ ht-degree: 9%
  </tbody> 
 </table>
 
-* Apex クラスアクセス：159 「mkto_si」を使用する Apex クラス
-* Visualforce ページアクセス：64 「mkto_si」を使用する Visualforce ページ
+* Apex クラスアクセス：159 「mkto_si」で始まる Apex クラス
+* Visualforce ページアクセス：64 「mkto_si」で始まる Visualforce ページ
 * カスタム設定の定義：mkto_si.Marketo設定&amp; mkto_si.ユーザーの環境設定
 
 ## Sales Insight へのアクセスの削除 {#removing-access-to-sales-insight}

@@ -2,7 +2,7 @@
 description: Sales Insight 権限セットの追加 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight 権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 5%
@@ -76,8 +76,8 @@ Salesforce で Sales Insight 機能へのアクセスを追加するには、次
  </tbody> 
 </table>
 
-* Apex クラスアクセス：159 「mkto_si」を使用する Apex クラス
-* Visualforce ページアクセス：64 「mkto_si」を使用する Visualforce ページ
+* Apex クラスアクセス：159 「mkto_si」で始まる Apex クラス
+* Visualforce ページアクセス：64 「mkto_si」で始まる Visualforce ページ
 * カスタム設定の定義：mkto_si.Marketo設定&amp; mkto_si.ユーザーの環境設定
 
 ## Marketoアプリの権限セットのユーザーへの追加 {#adding-marketo-app-permission-set-to-users}
