@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI 向けプラグインリリース - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics MSI 向けプラグインリリース
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 86%
+source-wordcount: '342'
+ht-degree: 74%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 86%
 
 Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-お使いの Dynamics リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)してください。
+Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用している場合は、 [最新のプラグインのダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target=&quot;_blank&quot;} は、Dynamics リリースに対応しています。 カスタム同期をおこない、Marketo Sales Insight を購入済みの場合、 [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >

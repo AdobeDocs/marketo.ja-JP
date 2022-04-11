@@ -1,9 +1,10 @@
 ---
 description: 非ネイティブ MS Dynamics 統合用 Sales Insight - Marketoドキュメント — 製品ドキュメント
 title: 非ネイティブ MS Dynamics 統合に関する Sales Insight
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 42%
 
 ---
@@ -15,6 +16,7 @@ Adobe Marketo Engageアカウントが、カスタマイズされた統合また
 >[!PREREQUISITES]
 >
 >* MSI の設定を開始する前に、Marketoインスタンスに対して「MSI 非ネイティブ」機能が有効になっています ( 有効でなく、既に購入済みの場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} — この機能をまだ購入していない場合は、カスタマーサクセスマネージャーにお問い合わせください )。
+>* ダウンロード [カスタム同期用の MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 >* MSI 設定 ([オンプレミス](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}) です。
 >* Marketo REST API [正常に設定されました](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}。 公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* 読み取り [このブログ投稿](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} を参照してください。

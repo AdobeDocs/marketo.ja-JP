@@ -1,25 +1,28 @@
 ---
 unique-page-id: 6849070
-description: Microsoft Dynamics用Marketoセールスインサイトソリューション —Marketoドキュメント — 製品ドキュメントのダウンロード
-title: Microsoft Dynamics用Marketoセールスインサイトソリューションのダウンロード
+description: Microsoft Dynamics 用Marketo Sales Insight ソリューションのダウンロード — Marketoドキュメント — 製品ドキュメント
+title: Microsoft Dynamics 用 Marketo Sales Insight Solution のダウンロード
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 1%
+source-wordcount: '135'
+ht-degree: 32%
 
 ---
 
-# Microsoft Dynamics用Marketoセールスインサイトソリューションのダウンロード{#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Microsoft Dynamics 用 Marketo Sales Insight Solution のダウンロード {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-同期を開始するには、Microsoft DynamicsアカウントにSales Insight向けのMarketoソリューションをダウンロードしてインストールする必要があります。
+>[!IMPORTANT]
+>
+>このページのプラグインは、Marketoのネイティブ CRM 同期ソリューションを使用して Dynamics にMarketo Engageを同期する場合に使用します。 カスタム同期をおこない、Marketo Sales Insight を購入済みの場合、 [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
-1. **管理者**&#x200B;領域に移動します。
+同期を開始するには、Microsoft Dynamics アカウントに Sales Insight 用のMarketoソリューションをダウンロードしてインストールする必要があります。
+
+1. 「**管理者**」領域に移動します。
 
    ![](assets/mainnavhand.png)
 
@@ -31,12 +34,12 @@ ht-degree: 1%
 
    ![](assets/image2016-5-3.png)
 
-1. 「**Marketoソリューション**&#x200B;をダウンロード」を選択します。
+1. 「**Marketo Solution のダウンロード**」を選択します。
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
-1. お使いのMicrosoft Dynamicsバージョンに適したソリューションを選択してください。
+1. Microsoft Dynamics のバージョンに適したソリューションを選択します。
 
    ![](assets/msd-online.png)
 
-OK！ソリューションのzipファイルがデバイスにダウンロードされます。
+完成です。ソリューションの zip ファイルがデバイスにダウンロードされます。
