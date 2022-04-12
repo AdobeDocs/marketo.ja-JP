@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8782024
-description: Marketo Momentsのダウンロード - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments のダウンロード - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Moments のダウンロード
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
