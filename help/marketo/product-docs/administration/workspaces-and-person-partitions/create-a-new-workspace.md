@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2360311
-description: 新しいワークスペースの作成 —Marketoドキュメント — 製品ドキュメント
+description: 新しいワークスペースの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 新しいワークスペースの作成{#create-a-new-workspace}
+# 新しいワークスペースの作成 {#create-a-new-workspace}
 
-ワークスペースは、会社を細分化するのに便利です。 ワークスペースを設定する理由は次のとおりです。
+ワークスペースは、会社をさらに細分するのに役立ちます。ワークスペースを設定する理由は次のとおりです。
 
-* 地域：ヨーロッパのマーケティング活動と北米のマーケティング活動
-* 事業部門A対事業部門B
+* 地域：ヨーロッパのマーケティング活動と北米のマーケティング活動の比較
+* ビジネスユニット A とビジネスユニット B の比較
 
-次に、新しいワークスペースを作成する方法を示します。
-
->[!NOTE]
->
->**必要な管理者権限**
+新しいワークスペースの作成方法を次に示します。
 
 >[!NOTE]
 >
->まず[ワークスペースと個人パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を理解します。
+>**管理者権限が必要**
 
 >[!NOTE]
 >
->Workspaceのベストプラクティスの詳細については、[Marketoプロフェッショナルサービス](mailto:services@marketo.com)にお問い合わせください。
+>まず、[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を確認してください。
 
-1. 「**管理者**」で、「**ワークスペースとパーティション**」をクリックします。
+>[!NOTE]
+>
+>ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](mailto:services@marketo.com)にお問い合わせください。
+
+1. 「**管理者**」で「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. 「**新しいワークスペース**」をクリックします。
+1. 「**新規ワークスペース**」をクリックします。
 
    ![](assets/two-1.png)
 
-1. **名前**&#x200B;を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。 **プライマリユーザーパーティション**&#x200B;を選択します。
+1. **名前**&#x200B;を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。**プライマリの人物パーティション**&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >まだパーティションを作成していない場合は、[パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)してください。
+   >まだ作成していない場合は、[人物パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)してください。
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >「**すべての個人パーティション**」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションを使用できることを意味します。
+   >「**すべての人物パーティション**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
    >
-   >**主要人物パーティション**&#x200B;がデフォルトとして機能し、すべての人が割り当てられます。
+   >**プライマリリードパーティション**&#x200B;がデフォルトとして機能し、すべてのリードが割り当てられます。
 
    複数のブランドドメインを有効にした場合は、プライマリブランドドメインを選択する必要があります。
 
@@ -62,7 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >作成時に、Marketoはワークスペースにサンプルアセットをシードします。 言語を使用すると、これらのシード済みオブジェクトを英語以外の言語にすることができます。
+   >作成時に、Marketo はワークスペースにサンプルアセットをシードします。言語を使用すると、シードされたオブジェクトが英語以外の言語で使用できます。
 
    ![](assets/five.png)
 
@@ -70,8 +69,8 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-   必要な数のワークスペースを作成し、適切なユーザーパーティションを割り当てます。
+   必要な数のワークスペースを作成し、適切な人物パーティションを割り当てます。
 
-   ワークスペースの作成後、更新が表示されます。
+   ワークスペースを作成した後に、更新が表示されます。
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
