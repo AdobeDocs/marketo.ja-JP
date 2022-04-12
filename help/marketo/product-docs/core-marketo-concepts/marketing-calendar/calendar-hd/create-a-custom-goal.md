@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: カスタムゴールの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムゴールの作成
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
