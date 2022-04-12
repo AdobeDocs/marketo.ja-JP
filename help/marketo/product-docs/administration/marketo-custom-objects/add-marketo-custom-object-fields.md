@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトフィールドの追加 - Ma
 title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 フィールドでは、カスタムオブジェクトによって使用される特定の情報が定義されます。リンクフィールドには、カスタムオブジェクトを結び付けるという特別な機能があります。これについては、[別のページ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)で説明しています。
 
-1. **管理**&#x200B;をクリックし、「**データベース管理**」で「**Marketo カスタムオブジェクト**」を選択します。
+1. 「**管理者**」をクリックし、「**データベース管理**」で「**Marketo カスタムオブジェクト**」を選択します。
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
