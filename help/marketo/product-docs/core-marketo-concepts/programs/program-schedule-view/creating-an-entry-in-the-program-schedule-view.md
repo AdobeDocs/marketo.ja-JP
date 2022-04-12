@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147102
-description: プログラムスケジュール表示でのエントリの作成 - Marketo ドキュメント - 製品ドキュメント
-title: プログラムスケジュール表示でのエントリの作成
+description: プログラムスケジュールビューでのエントリの作成 - Marketo ドキュメント - 製品ドキュメント
+title: プログラムスケジュールビューでのエントリの作成
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,17 +10,17 @@ ht-degree: 100%
 
 ---
 
-# プログラムスケジュール表示でのエントリの作成 {#creating-an-entry-in-the-program-schedule-view}
+# プログラムスケジュールビューでのエントリの作成 {#creating-an-entry-in-the-program-schedule-view}
 
 プログラムスケジュール表示内からエントリを作成して、既存のプログラムを補うことができます。
 
 ## 基本エントリの作成 {#create-a-basic-entry}
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. プログラムを選択します。「**表示**」ドロップダウンをクリックします。**スケジュール**&#x200B;を選択します。
+1. プログラムを選択します。「**表示**」ドロップダウンをクリックします。「**スケジュール**」を選択します。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
