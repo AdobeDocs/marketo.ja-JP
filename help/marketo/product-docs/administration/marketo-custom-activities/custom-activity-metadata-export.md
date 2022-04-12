@@ -1,35 +1,36 @@
 ---
-description: カスタムアクティビティメタデータの書き出し — Marketoドキュメント — 製品ドキュメント
-title: カスタムアクティビティメタデータの書き出し
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
-workflow-type: tm+mt
+description: カスタムアクティビティメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: カスタムアクティビティメタデータのエクスポート
+exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# カスタムアクティビティメタデータの書き出し {#custom-activity-metadata-export}
+# カスタムアクティビティメタデータのエクスポート {#custom-activity-metadata-export}
 
-次の手順に従って、カスタムアクティビティメタデータスキーマを書き出します。
+次の手順に従って、カスタムアクティビティメタデータのスキーマを書き出します。
 
-1. My Marketoで、「**管理者**」をクリックします。
+1. My Marketo で、「**管理者**」をクリックします。
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. **Marketoカスタムアクティビティ**&#x200B;をクリックします。
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
 
    ![](assets/custom-activity-metadata-export-2.png)
 
-1. エクスポートするMarketoカスタムアクティビティを選択します。
+1. エクスポートする Marketo カスタムアクティビティを選択します。
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. **カスタムアクティビティのアクション**&#x200B;ドロップダウンをクリックし、「**アクティビティを書き出し**」を選択します。
+1. 「**カスタムアクティビティのアクション**」ドロップダウンをクリックし、「**アクティビティをエクスポート**」を選択します。
 
    ![](assets/custom-activity-metadata-export-4.png)
 
 >[!NOTE]
 >
->エクスポートするには、カスタムアクティビティが承認済み状態である必要があります。
+>エクスポートするには、カスタムアクティビティのステートが承認済みである必要があります。
 
-これで、3つのタブにカスタムアクティビティのスキーマを含むスプレッドシートが作成されました。
+これで、3 つのタブをまたぐカスタムアクティビティのスキーマを含むスプレッドシートが取得できました。
