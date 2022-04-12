@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360325
-description: ワークスペースへのユーザーアクセス権を設定する — Marketo ドキュメント — 製品ドキュメント
+description: ワークスペースへのユーザーアクセス権を設定する - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースへのユーザーアクセス権を設定する
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -16,17 +16,17 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
 >[!NOTE]
 >
 >[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)の詳細はこちらです。
 
-1. 「管理」で「ユーザーと役割」をクリックします。
+1. 「管理者」で「ユーザーと役割」をクリックします。
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. 「**ユーザ**」タブでユーザーを選択し、「**ユーザの編集**」をクリックします。
+1. 「**ユーザー**」タブでユーザーを選択し、「**ユーザーの編集**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
