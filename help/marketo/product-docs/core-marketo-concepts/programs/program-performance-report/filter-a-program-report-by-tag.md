@@ -14,7 +14,7 @@ ht-degree: 100%
 
 [プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定の[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)に絞り込みます。
 
-1. 「**Marketing** **Activities**」（または「**Analytics**」）に移動します。
+1. 「**マーケティング****活動**」（または「**分析**」）に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,5 +40,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)>
-   >
+   >[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
