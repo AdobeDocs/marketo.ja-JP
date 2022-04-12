@@ -3,7 +3,7 @@ unique-page-id: 1147257
 description: マーケティングカレンダーの操作 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '165'
 ht-degree: 100%
@@ -58,9 +58,9 @@ ht-degree: 100%
 
 | アクション | キーボードショートカット |
 |---|---|
-| 時間を戻る | Alt/opt + 上矢印 |
-| 時間を進む | Alt/opt + 下矢印 |
-| 「今日」に移動 | Alt/opt + T |
+| 時間を戻る | Alt／opt + 上矢印 |
+| 時間を進む | Alt／opt + 下矢印 |
+| 「今日」に移動 | Alt／opt + T |
 
 これで完了です。以上が基本です。フィルターを使用して表示をカスタマイズすることもできます。
 
