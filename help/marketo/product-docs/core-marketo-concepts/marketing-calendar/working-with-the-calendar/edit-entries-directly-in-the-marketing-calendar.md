@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2953352
-description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメントでエントリを直接編集
-title: マーケティングカレンダーでのエントリの直接編集
+description: マーケティングカレンダーでエントリを直接編集 - Marketo ドキュメント - 製品ドキュメント
+title: マーケティングカレンダーでエントリを直接編集
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# マーケティングカレンダーでエントリを直接編集{#edit-entries-directly-in-the-marketing-calendar}
+# マーケティングカレンダーでエントリを直接編集 {#edit-entries-directly-in-the-marketing-calendar}
 
-プログラムフォーカスモードになると、カレンダーエントリをすばやく変更できます。 これが方法です。
+プログラムフォーカスモードにしたら、素早くカレンダーエントリを変更できます。手順は以下のとおりです。
 
-## プログラムフォーカスを有効にする{#enable-program-focus}
+## プログラムフォーカスの有効 {#enable-program-focus}
 
 1. **カレンダー**&#x200B;に移動します。
 
@@ -25,13 +24,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## エントリの再スケジュール{#reschedule-entry}
+## エントリの再スケジュール {#reschedule-entry}
 
-1. エントリをドラッグ&amp;ドロップするだけで、エントリを再スケジュールできます。
+1. エントリをドラッグ＆ドロップして再スケジュールします。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## エントリ名の編集{#edit-entry-name}
+## エントリ名の編集 {#edit-entry-name}
 
 1. 名前を変更するエントリを選択します。
 
@@ -47,24 +46,24 @@ ht-degree: 0%
    >
    >![](assets/image2014-10-20-13-3a16-3a56.png)
 
-## エントリタイプの変換{#convert-entry-type}
+## エントリタイプの変換 {#convert-entry-type}
 
-基本的な入力をすぐに入力した後は、最終的な形式に変換できます。
+基本エントリをすぐに入力した後、最終的な形式に変換できます。
 
-1. 変換する基本エントリを探して選択し、種類を変更します。
+1. 変換する基本エントリを探して選択し、タイプを変更します。
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
-## 参加者の詳細を編集{#edit-entry-details}
+## エントリ詳細の編集 {#edit-entry-details}
 
-エントリの様々な領域にすばやくアクセスして編集できます。
+エントリの様々な領域に素早くアクセスして編集できます。
 
 1. エントリを右クリックし、編集する領域を選択します。
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-それだ！ 表示されるように、マーケティングカレンダーから直接実行できることは多数あります。
+これで完了です。ご覧のように、マーケティングカレンダーから直接できることはたくさんあります。
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーでのエントリの直接削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[マーケティングカレンダーでエントリを直接削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
