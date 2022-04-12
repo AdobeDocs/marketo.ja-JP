@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: カスタムオブジェクトの変更のトリガー- Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
@@ -19,6 +19,7 @@ ht-degree: 100%
 >* Orion インフラストラクチャのお客様向け
 >* Marketo カスタムオブジェクトでのみ使用し、ネイティブの Salesforce または Microsoft Dynamics 統合を通じて同期されたカスタムオブジェクトでは使用しません。
 >* フィルターとしてではなくトリガーとして使用
+
 >
 >カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡してください。
 
@@ -28,7 +29,7 @@ ht-degree: 100%
 >
 >カスタムオブジェクトレコードが変更されても、アクティビティログエントリは作成されません。
 
-1. Marketo で、**マーケティングアクティビティ**&#x200B;に移動します。
+1. Marketo で、「**マーケティング活動**」に移動します。
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
