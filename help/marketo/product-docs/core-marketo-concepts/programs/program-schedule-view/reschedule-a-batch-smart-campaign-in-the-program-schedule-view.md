@@ -28,5 +28,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[スケジュール表示からのプログラム全体の再スケジュール](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)>
->
+>[スケジュール表示からのプログラム全体の再スケジュール](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
