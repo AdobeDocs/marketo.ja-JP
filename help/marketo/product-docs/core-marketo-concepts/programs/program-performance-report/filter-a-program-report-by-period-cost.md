@@ -14,7 +14,7 @@ ht-degree: 100%
 
 [プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定の期間の期間原価に絞り込みます。
 
-1. 「**マーケティングアクティビティ**」（または「**分析**」）に移動します。
+1. 「**マーケティング活動**」（または「**分析**」）に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -36,5 +36,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[プログラムレポートをプログラムでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)>
-   >
+   >[プログラムレポートをプログラムでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
