@@ -3,7 +3,7 @@ unique-page-id: 1147255
 description: マーケティングカレンダーのライセンスの発行／取消 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーのライセンスの発行／取消
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は以下のとおりです。
 
-1. **管理**&#x200B;セクションに移動します。
+1. 「**管理者**」セクションに移動します。
 
    ![](assets/adminhand.png)
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >**Ctrl/Cmd キーを押しながらクリック**&#x200B;すると、1 回の操作で複数のユーザーを選択できます。
+   >**Ctrl／Cmd キーを押しながらクリック**&#x200B;すると、1 回の操作で複数のユーザーを選択できます。
 
    ![](assets/3.png)
 
