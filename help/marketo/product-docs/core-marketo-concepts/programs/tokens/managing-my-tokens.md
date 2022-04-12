@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## マイトークンの作成 {#create-a-my-token}
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -67,6 +67,6 @@ ht-degree: 100%
    >[!MORELIKETHIS]
    >
    >* [トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   * [プログラム内のマイトークンの理解](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   * [マイトークンでの URL の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [プログラム内のマイトークンの理解](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [マイトークンでの URL の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 
