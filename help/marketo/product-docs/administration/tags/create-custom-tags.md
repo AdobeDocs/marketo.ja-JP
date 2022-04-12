@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950660
-description: カスタムタグの作成 — Marketoドキュメント — 製品ドキュメント
+description: カスタムタグの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムタグの作成
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 8%
+ht-degree: 37%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->チェックアウト [タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) を参照してください。
+>詳しくは、[タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を参照してください。
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ ht-degree: 8%
 
 ## 新しいタグタイプの作成 {#create-a-new-tag-type}
 
-新しいタグタイプを作成するには：
+新しいタグタイプを作成する手順は次のとおりです。
 
-1. **管理**&#x200B;セクションに移動します。
+1. 「**管理者**」セクションに移動します。
 
    ![](assets/create-custom-tags-1.png)
 
@@ -34,15 +34,15 @@ ht-degree: 8%
 
    ![](assets/create-custom-tags-2.png)
 
-1. クリック **新規** を選択し、 **新しいタグタイプ。**
+1. 「**新規作成**」をクリックして、「**新規タグタイプ**」を選択します。
 
    ![](assets/create-custom-tags-3.png)
 
-1. タグタイプの名前を入力します。
+1. 「タグタイプ」の名前を入力します。
 
    ![](assets/create-custom-tags-4.png)
 
-1. タグタイプに必要な値を入力します。 クリック **別を追加** をクリックして、追加の値を入力します。
+1. タグタイプの目的の「値」を入力します。クリック **別を追加** をクリックして、追加の値を入力します。
 
    ![](assets/create-custom-tags-5.png)
 

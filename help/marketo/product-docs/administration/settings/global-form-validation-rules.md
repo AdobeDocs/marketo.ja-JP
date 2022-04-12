@@ -1,17 +1,17 @@
 ---
-description: グローバルフォーム検証ルール — Marketoドキュメント — 製品ドキュメント
+description: グローバルフォーム検証ルール - Marketo ドキュメント - 製品ドキュメント
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 # グローバルフォーム検証ルール {#global-form-validation-rules}
 
-この機能を使用すると、特定のドメインがドメインフォームに送信されるのをMarketo Engageでブロックできます。
+この機能を使用すると、特定のドメインがドメインフォームに送信されるのを Marketo Engage でブロックできます。
 
 ## アクセスを有効にする方法 {#how-to-enable-access}
 
@@ -25,7 +25,7 @@ ht-degree: 9%
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. 次をクリック： **役割** タブをクリックします。
+1. 「**役割**」タブをクリックします。
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -33,11 +33,11 @@ ht-degree: 9%
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. 次をクリック： **+** 「管理者にアクセス」の横に「 」を入力します。
+1. 「管理者にアクセス」の横の「**+**」記号をクリックします。
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. 下にスクロールして、「 」を選択します。 **フォーム検証ルールにアクセス** をクリックし、 **保存**.
+1. 下にスクロールして、「**フォーム検証ルールにアクセス**」を選択し、「**保存**」をクリックします。
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -45,28 +45,28 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->これらのルールは、Marketo Engage購読内のすべてのフォームに適用されます。
+>これらのルールは、Marketo Engage サブスクリプション内のすべてのフォームに適用されます。
 
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. クリック **グローバルフォーム検証ルール**.
+1. 「**グローバルフォーム検証ルール**」をクリックします。
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. クリック **新規フォームの検証ルール**.
+1. 「**新規フォームの検証ルール**」をクリックします。
 
    ![](assets/global-form-validation-rules-9.png)
 
    >[!NOTE]
    >
-   >フォーム検証ルールのアクションドロップダウンを使用して、既存のルールを削除または編集できます。
+   >「フォーム検証ルールのアクション」ドロップダウンを使用して、既存のルールを削除または編集できます。
 
-1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。 ブロックするドメインを [ ルール ] ボックスに入力し、[ **ルールをアクティブ化**&#x200B;をクリックし、 **作成**.
+1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。ブロックするドメインを「ルール」ボックスに入力し、「**ルールをアクティブ化**」を選択し、「**作成**」をクリックします。
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engageには、事前に読み込まれた「消費者の E メールドメインブロックリスト」ルールを使用する際にブロックされる、消費者の E メールドメインの無料ドメインが定義さブロックリストれています。 [ここにリストを表示](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage には、あらかじめ用意された「消費者向けメールドメインブロックリスト」ルールを使用する際にブロックされる、無料の消費者向けメールドメインのブロックリストが定義されています。[リスト表示はこちら](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
