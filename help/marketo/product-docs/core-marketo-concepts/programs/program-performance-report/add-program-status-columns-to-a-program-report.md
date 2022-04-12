@@ -14,7 +14,7 @@ ht-degree: 100%
 
 [プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)にプログラムステータスに関する統計を追加しましょう。
 
-1. マーケティングアクティビティ（または分析）エリアに移動します。
+1. 「マーケティング活動」（または「分析」）に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 100%
    >
    >プログラムステータス列を表示するには、チャネル _1 つのみ_&#x200B;でレポートをフィルターする必要があります。
 
-1. 「プログラムステータス列を表示」オプションにチェックを入れます。次に「**適用**」をクリックします。
+1. 「プログラムステータス列を表示」オプションにチェックを入れます。「**適用**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -48,5 +48,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)>
->
+>[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
