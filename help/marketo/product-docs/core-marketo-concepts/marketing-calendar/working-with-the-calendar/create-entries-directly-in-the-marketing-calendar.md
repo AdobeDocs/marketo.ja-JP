@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: マーケティングカレンダーでエントリを直接作成 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーでエントリを直接作成
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
@@ -47,4 +47,4 @@ Marketo では、プログラムフォーカスモードを使用して、マー
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーでのエントリの直接編集](edit-entries-directly-in-the-marketing-calendar.md)
+>[マーケティングカレンダーでエントリを直接編集](edit-entries-directly-in-the-marketing-calendar.md)
