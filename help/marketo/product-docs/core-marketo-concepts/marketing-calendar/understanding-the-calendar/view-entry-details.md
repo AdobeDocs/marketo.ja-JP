@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: エントリの詳細の表示 - Marketo ドキュメント - 製品ドキュメント
 title: エントリの詳細の表示
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
