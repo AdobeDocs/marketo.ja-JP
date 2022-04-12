@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2360317
-description: 個人パーティションのワークスペースへの割り当て —Marketoドキュメント — 製品ドキュメント
-title: PersonパーティションのWorkspacesへの割り当て
+description: ワークスペースへの人物パーティションの割り当て - Marketo ドキュメント - 製品ドキュメント
+title: ワークスペースへの人物パーティションの割り当て
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# PersonパーティションをWorkspacesに割り当て{#assign-person-partitions-to-workspaces}
+# ワークスペースへの人物パーティションの割り当て {#assign-person-partitions-to-workspaces}
 
-次に、個人パーティション/ワークスペースの割り当てを編集する方法を示します。
+人物パーティション／ワークスペースの割り当てを編集する方法は次のとおりです。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
 >[!PREREQUISITES]
 >
@@ -25,9 +24,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->ワークスペースと個人パーティションは複雑になる場合があります。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>ワークスペースと人物パーティションは複雑になる場合があります。[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。セットアップをサポートいたします。
 
-1. 「管理者」で、「**ワークスペースとパーティション**」をクリックします。
+1. 「管理者」で「**ワークスペースとパーティション**」をクリックします。
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -35,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 変更する個人パーティション情報を編集します。
+1. 変更する人物パーティション情報を編集します。
 
    >[!NOTE]
    >
-   >「すべての個人パーティション」チェックボックスは、このワークスペースがシステム内のすべての個人パーティションにアクセスできることを示します。
+   >「すべての人物パーティション」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
 
    ![](assets/three-3.png)
 
-   プライマリ担当者パーティションは、すべての人が入力されるデフォルトです。 [フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)を使用して、人々を移動します。
+   プライマリ人物パーティションは、すべての人がエントリされるデフォルトです。人物を移動するには、[フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)を使用します。
 
 1. 「**保存**」をクリックします。
 
@@ -53,8 +52,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-おめでとうございます！ワークスペースが正常に編集されました。
+これで完了です。ワークスペースが正常に編集されました。
 
 >[!MORELIKETHIS]
 >
->[ワークスペースと個人パーティションの理解](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
+>[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
