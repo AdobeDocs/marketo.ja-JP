@@ -16,13 +16,13 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
 >[!NOTE]
 >
->「[ワークスペースとユーザーパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)」でワークスペースについて学んでください。
+>[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照して、ワークスペースの知識を磨いてください。
 
-1. 「**管理**」で「**ワークスペースとパーティション**」をクリックします。
+1. 「**管理者**」で「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
@@ -56,6 +56,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [新しいワークスペースを作成する](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
-* [ワークスペースとユーザーパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+>* [新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
