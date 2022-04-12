@@ -1,35 +1,34 @@
 ---
 unique-page-id: 8781974
-description: イベントカードについて —Marketoドキュメント — 製品ドキュメント
+description: イベントカードについて - Marketo ドキュメント - 製品ドキュメント
 title: イベントカードについて
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# イベントカードについて{#understanding-event-cards}
+# イベントカードについて {#understanding-event-cards}
 
-「Marketoの場面」を使用して、イベントのプログラムを電話またはiPadで表示します。
+携帯電話または iPad からイベントプログラムを表示するには、Marketo Moments を使用します。
 
-電子メールプログラムカードをタップすると、次のことができます。
+メールプログラムカードをタップすると、次の操作を実行できます。
 
-* [イベントをお気に入りにする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [イベントをお気に入りに追加](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [イベントを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [イベントモーメントカードの共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [イベントモーメントカードを共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-イベントカードが2枚ある。 オンデッキカードは、イベントの数時間前に送信され、何名の登録者が登録されたかを示します。 後で送信される結果カードには、実際に参加した人数が表示されます。
+イベントカードは 2 枚あります。イベントの数時間前に送信されたオンデッキカードには、登録者数が表示されます。後で送信される結果カードには、実際に参加した人数が表示されます。
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
-いいぞ！
+以上です。
 
 >[!MORELIKETHIS]
 >
->* [Marketoの瞬間について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [電子メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Marketo Moments について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [イベントプログラムについて](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
