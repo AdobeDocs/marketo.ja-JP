@@ -1,37 +1,36 @@
 ---
 unique-page-id: 1147129
-description: プログラムパフォーマンスレポートの作成 —Marketoドキュメント — 製品ドキュメント
-title: プログラムパフォーマンスレポートの作成
+description: プログラム効果レポートの作成 - Marketo ドキュメント - 製品ドキュメント
+title: プログラム効果レポートの作成
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# プログラムパフォーマンスレポートの作成{#create-a-program-performance-report}
+# プログラム効果レポートの作成 {#create-a-program-performance-report}
 
-このレポートを含むプログラムに関する詳細な統計を表示します。
+このレポートを使用して、プログラムの有益な統計を表示します。
 
-1. [プ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) ログラムでレポートを作成し、 **プログラム** [パフォーマンスレポートタイプを選択します](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**プログラム効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. 「**レポート**」タブをクリックします。
-1. そこだ！ レポートを表示して、プログラムの状況を確認します。
+1. レポートが表示されました。レポートを参照して、プログラムの効果を確認します。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->*成功ごとのコスト*&#x200B;が最も低いプログラムを検索するには、例えば[その列でレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、**並べ替え**&#x200B;を昇順選択します。
+>例えば、*成功あたりの原価*&#x200B;が最も低いプログラムを見つけるには、その列で[レポートの並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を実行し、「**昇順に並べ替え**」を選択します。
 
-プログラムパフォーマンスレポートの列には、次の項目が含まれます。
+プログラム効果レポートの列は次のとおりです。
 
 <table> 
  <thead> 
   <tr> 
-   <th>縦棒</th> 
-   <th>詳細</th> 
+   <th>列</th> 
+   <th>説明</th> 
   </tr> 
  </thead> 
  <tbody> 
@@ -41,11 +40,11 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>新しい名前</td> 
-   <td>プログラムが獲得した新人。</td> 
+   <td>プログラムで新規獲得した人物。</td> 
   </tr> 
   <tr> 
    <td>成功</td> 
-   <td>プログラムのステータスで定義された、成功を達成したメンバーの数。 </td> 
+   <td>プログラムのステータスで定義された成功を達成したメンバーの数。 </td> 
   </tr> 
   <tr> 
    <td>総コスト</td> 
