@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2953207
-description: 新しいキャンペーンフォルダーの作成 —Marketoドキュメント — 製品ドキュメント
-title: 新しいキャンペーンフォルダーの作成
+description: キャンペーンフォルダーの新規作成 - Marketo ドキュメント - 製品ドキュメント
+title: キャンペーンフォルダーの新規作成
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 新しいキャンペーンフォルダーの作成{#create-new-campaign-folder}
+# キャンペーンフォルダーの新規作成 {#create-new-campaign-folder}
 
-キャンペーンフォルダーを使用すると、Tidyワークスペースを整理しやすくなります。 次の簡単な手順に従うと、自動化の魔法を使うことができます。
+キャンペーンフォルダーは、整理されたワークスペースを維持するのに役立ちます。これらの簡単な手順に従うと、自動処理マジックに進みます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. 「**新しいキャンペーンフォルダー**」を選択します。
+1. 「**新規キャンペーンフォルダー**」を選択します。
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
@@ -31,22 +30,22 @@ ht-degree: 0%
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. オプション：**説明**&#x200B;を入力し、**作成**&#x200B;をクリックします。
+1. オプション：「**説明**」を入力して「**作成**」をクリックします。
 
    >[!TIP]
    >
-   >説明は、購読上の他のユーザー向けです。 このメッセージはユーザーに表示されません。
+   >説明は、サブスクリプションの他のユーザー向けです。このメッセージは顧客には表示されません。
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   やりましたね！キャンペーンフォルダーを作成したとき。 ツリーで調べてみてください。
+   これで完了です。キャンペーンフォルダーを作成しました。ツリーで確認しましょう。
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   [新しいプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)を作成すると、このキャンペーンフォルダーがオプションとして表示されます。
+   これで、[新しいプログラムを作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)すると、このキャンペーンフォルダーがオプションとして表示されます。
 
 >[!MORELIKETHIS]
 >
 >* [プログラムの作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [新しいスマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [新規スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
