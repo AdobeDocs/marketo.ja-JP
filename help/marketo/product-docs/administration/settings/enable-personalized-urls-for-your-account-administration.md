@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360215
-description: アカウント（管理） -Marketoドキュメント — 製品ドキュメントでのパーソナライズされたURLの有効化
-title: アカウントに対してパーソナライズされたURLを有効にする（管理）
+description: アカウントでパーソナライズ URL を有効にする（管理）- Marketo ドキュメント - 製品ドキュメント
+title: アカウントでパーソナライズ URL を有効にする（管理）
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# アカウント（管理）に対してパーソナライズされたURLを有効にする{#enable-personalized-urls-for-your-account-administration}
+# アカウントでパーソナライズ URL を有効にする（管理） {#enable-personalized-urls-for-your-account-administration}
 
-パーソナライズされたURLは、印刷物のメールキャンペーンに最適です。
+パーソナライズ URL は、招待状を郵送するなど紙媒体のキャンペーンをおこなうのに適しています。
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. **管理者**&#x200B;に移動し、**ランディングページ**&#x200B;をクリックします。
+1. 「**管理者**」に移動し、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
@@ -27,12 +26,12 @@ ht-degree: 2%
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. 「**パーソナライズされたURLを有効にする**」ボックスをオンにし、「**保存**」をクリックします。
+1. 「**パーソナライズ URL を有効にする**」チェックボックスをオンにして、「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-OK！アカウントでPURLを有効にしたので、[個々のランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)に対してPURLを有効にできます。
+完成です。アカウントで PURL が有効になったので、[個々のランディングページで有効にできます](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)。
 
 >[!NOTE]
 >
->姓と名が同じ人が2人いる場合は、末尾に自動的に番号が追加されます。
+>同姓同名の人物が 2 人いる場合、システムは自動的に末尾に数字を追加します。
