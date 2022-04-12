@@ -1,19 +1,18 @@
 ---
 unique-page-id: 8783557
-description: 完了とマーク —Marketoドキュメント — 製品ドキュメント
-title: 完了とマーク
+description: 完了としてマーク - Marketo ドキュメント - 製品ドキュメント
+title: 完了としてマーク
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 完了とマーク{#marking-it-done}
+# 完了としてマーク {#marking-it-done}
 
-電子メールプログラム、イベントまたはAnalyticsカードを「完了」としてマークし、ストリームから削除します。 2つの方法があります
+メールプログラム、イベント、分析カードを完了としてマークし、ストリームから削除します。これを行う方法は 2 つあります。
 
 1. アクションメニューをタップします。
 
@@ -23,12 +22,12 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
-1. または、どちらかの方向でカードをスワイプします。
+1. または、いずれかの方向にカードをスワイプします。
 
    ![](assets/image2015-9-25-9-3a46-3a6.png)
 
    >[!NOTE]
    >
-   >カードを完了としてマークしても、電子メール、イベント、スマートキャンペーンは削除されません。 Moments/LaterストリームからDoneストリームにのみ移動します。
+   >カードを完了としてマークしても、メール、イベント、スマートキャンペーンは削除されません。モーメント／後でストリームから、完了ストリームに移動するだけです。
 
-ケーキ切れ！
+簡単でしたね。
