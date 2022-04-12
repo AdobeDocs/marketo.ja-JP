@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2953358
-description: マーケティングカレンダー —Marketoドキュメント — 製品ドキュメント内のエントリを直接削除する
-title: マーケティングカレンダーでのエントリの直接削除
+description: マーケティングカレンダーでエントリを直接削除 - Marketo ドキュメント - 製品ドキュメント
+title: マーケティングカレンダーでエントリを直接削除
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# マーケティングカレンダーでエントリを直接削除{#delete-entries-directly-in-the-marketing-calendar}
+# マーケティングカレンダーでエントリを直接削除 {#delete-entries-directly-in-the-marketing-calendar}
 
-[](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)エントリを作成し[エントリを編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)する以外に、マーケティングカレンダーで直接削除できます。 これが方法です。
+エントリの[作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)および[編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)に加えて、マーケティングカレンダーで直接エントリを削除できます。手順は以下のとおりです。
 
 1. **カレンダー**&#x200B;に移動します。
 
@@ -27,8 +26,8 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-入力に応じて、削除を確認する必要がある場合があります。 でもそれだ！ 簡単な小作農だ。
+エントリによっては、削除を確定する必要があります。これで完了です。簡単ですね。
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーでの入口の直接確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[マーケティングカレンダーでエントリを直接確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
