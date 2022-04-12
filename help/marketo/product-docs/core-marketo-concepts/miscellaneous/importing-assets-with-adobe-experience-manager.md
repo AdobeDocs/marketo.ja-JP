@@ -4,15 +4,15 @@ description: Adobe Experience Manager でのアセットの読み込み - Market
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager でのアセットの読み込み {#importing-assets-with-adobe-experience-manager}
 
-アセットセレクターを使用すると、Marketoのお客様は、AEMアセットにアクセスし、選択し、Marketo Design Studioに読み込むことができます。 **管理者権限が必要**。
+アセットセレクターを使用すると、Marketo の顧客は、AEM のアセットにアクセスして選択し、Marketo Design Studio に読み込むことができます。**管理者権限が必要**。
 
 >[!AVAILABILITY]
 >
@@ -24,7 +24,7 @@ ht-degree: 82%
 
 >[!IMPORTANT]
 >
->この機能は、現在のバージョンのFirefox、Chrome、Edgeで完全にサポートされています。 Safariではサポートされていません。
+>この機能は、現在のバージョンの Firefox、Chrome、Edge で完全にサポートされています。Safari ではサポートされていません。
 
 1. **Design Studio** をクリックします。
 
