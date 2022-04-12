@@ -1,30 +1,28 @@
 ---
 unique-page-id: 2360207
-description: APIのみのユーザーの作成 —Marketoドキュメント — 製品ドキュメント
-title: APIのみのユーザーの作成
+description: API 専用ユーザーの作成 - Marketo ドキュメント - 製品ドキュメント
+title: API 専用ユーザーの作成
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# APIのみのユーザーの作成{#create-an-api-only-user}
+# API 専用ユーザーの作成 {#create-an-api-only-user}
 
-[REST API](https://developers.marketo.com/documentation/rest/)を介してMarketoとの統合を行う場合は、API専用のユーザーを作成する必要があります。 これが方法です。
+[REST API](https://developers.marketo.com/documentation/rest/) を使用して Marketo と統合する場合は、API 専用ユーザーを作成する必要があります。手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->[APIのみのユーザーロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-
+>[API 専用ユーザーの役割の作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-1. 「**管理者**」で、「**ユーザーとロール」をクリックします。**
+1. 「**管理者**」で「**ユーザーと役割**」をクリックします。
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -32,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. APIのみのユーザーに対して電子メール、名、姓を入力します。 「**次へ**」をクリックします。
+1. API 専用ユーザーの電子メール、名、姓を入力します。「**次へ**」をクリックします。
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
    >[!TIP]
    >
-   >追加オプションの理由またはアクセスの有効期限。 アクセス有効期限は、短期間の従業員に便利です。
+   >理由（オプション）またはアクセスの有効期限を追加します。短期の従業員には、アクセスの有効期限が便利です。
 
-1. **APIのみ**&#x200B;ロールを選択し、「**APIのみ**」チェックボックスをオンにします。 「**次へ**」をクリックします。
+1. 「**API のみ**」の役割を選択し、「**API のみ**」チェックボックスをオンにします。「**次へ**」をクリックします。
 
    ![](assets/four.png)
 
@@ -50,10 +48,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->ポップアップには「APIだけに招待は必要ありません」と表示されますが、これは何か間違ったことをしたとは限りません。 これは、招待用の電子メールを送信しないでロールを作成することを意味します。
+>ポップアップに「招待状は API にのみ必要なものではありません」と表示されますが、何か間違ったことをしたわけではありません。招待メールを送信しなくても役割が作成されるという意味です。
 
-よし！ 次に、カスタムサービスを作成します。
+よろしいですか。先に進んでカスタムサービスを作成しましょう。
 
 >[!MORELIKETHIS]
 >
->[ReST APIで使用するカスタムサービスの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
+>[ReST API で使用するカスタムサービスの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
