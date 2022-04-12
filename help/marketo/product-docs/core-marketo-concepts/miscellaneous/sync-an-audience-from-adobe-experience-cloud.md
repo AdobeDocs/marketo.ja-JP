@@ -1,36 +1,35 @@
 ---
-description: Adobe Experience Cloudからのオーディエンスの同期 —Marketoドキュメント — 製品ドキュメント
-title: Adobe Experience Cloudからのオーディエンスの同期
+description: Adobe Experience Cloud からのオーディエンスの同期 - Marketo ドキュメント - 製品ドキュメント
+title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloudからのオーディエンスの同期{#sync-an-audience-from-adobe-experience-cloud}
+# Adobe Experience Cloud からのオーディエンスの同期 {#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
->MarketoインスタンスのHIPAA対応の展開では、この統合を使用できません。
+>Marketo インスタンスの HIPAA 対応デプロイメントでは、この統合を使用できません。
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloudオーディエンス共有の設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Adobe Experience Cloud オーディエンス共有のセットアップ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
-## オーディエンスの同期方法{#how-to-sync-an-audience}
+## オーディエンスの同期方法 {#how-to-sync-an-audience}
 
-1. 「マイMarketo」で、**データベース**&#x200B;タイルをクリックします。
+1. My Marketo で、「**データベース**」タイルをクリックします。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. 「**新規**」ドロップダウンをクリックし、「Experience Cloudオーディエンス&#x200B;**と同期」を選択します。**
+1. 「**新規**」ドロップダウンをクリックして、「**Experience Cloud オーディエンスから同期**」を選択します。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. 「**オーディエンスライブラリフォルダー**」ドロップダウンをクリックし、目的の接触チャネルーフォルダーを選択します。
+1. 「**オーディエンスライブラリフォルダー**」ドロップダウンリストをクリックして、目的の元フォルダーを選択します。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 宛先に対しては、既存のリストを選択するか、新しい名前を入力できます。 この例では、新しいものを作成します。 完了したら「**同期**」をクリックします。
+1. 宛先については、既存のリストを選択するか、新しいリストの名前を入力できます。この例では、新しく作成します。終了したら「**同期**」をクリックします。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -46,18 +45,18 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
-## FAQ {#faq}
+## よくある質問 {#faq}
 
-**cookieの同期はどのように行われますか。**
+**Cookie の同期は、どのような仕組みなのですか？**
 
-Marketoのmunchkin.jsは、Marketo購読でcookie同期が有効になっている場合、統合の設定時に指定したAdobeIMS組織のAdobeECIDを取得して保存し、これらのECIDを対応するMarketocookie識別子に一致させようとします。 これにより、Marketoの匿名ユーザープロファイルは、AdobeECIDを使用してより多くの情報を得ることができます。
+Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。これにより、Marketo の匿名ユーザープロファイルを Adobe ECID で強化できます。
 
-匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。リードユーザーは、テキスト形式の電子メールを使用して識別されます。 [の正確な動作は](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)に記載されています。
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順を実行する必要があります。リードプロファイルは、テキスト形式メールで識別されます。この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)。
 
-**MarketoのリストサイズとAdobeのサイズが異なるのはなぜですか。**
+**Marketo のリストサイズがアドビのリストサイズと異なるのはなぜですか？**
 
-また、ECID cookie IDをMarketoの既知のユーザーに関連付けることができない場合、ユーザーは同期されません。
+Marketo の既知のユーザーに ECID Cookie ID を関連付けることができない場合、ユーザーも同期されません。
 
-**これは1回限りの同期ですか？**
+**これは 1 回限りの同期ですか？**
 
-同期を開始する必要があるのは1回だけです。 その後、レコードは自動的に同期されます。 最初の同期には最大24時間かかる場合があります。今後、新しいレコードは2 ～ 3時間で同期されます。
+同期を開始する必要があるのは 1 回だけです。その後、レコードは自動的に同期されます。初期同期には最大 24 時間かかる場合があります。その後、新しいレコードは 2～3 時間で同期されます。
