@@ -19,7 +19,6 @@ ht-degree: 100%
 >* Orion インフラストラクチャのお客様向け
 >* Marketo カスタムオブジェクトでのみ使用し、ネイティブの Salesforce または Microsoft Dynamics 統合を通じて同期されたカスタムオブジェクトでは使用しません。
 >* フィルターとしてではなくトリガーとして使用
-
 >
 >カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡してください。
 
