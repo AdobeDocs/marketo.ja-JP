@@ -1,19 +1,17 @@
 ---
 description: セールスキャンペーンの設定 — Marketoドキュメント — 製品ドキュメント
 title: セールスキャンペーン設定
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
 
 # セールスキャンペーン設定 {#sales-campaign-settings}
 
-「セールスキャンペーンの設定」セクションでは、特定のセールスキャンペーンを設定し、そのキャンペーンに対するチームの使用例に最適に機能するようにできます。
+「セールスキャンペーンの設定」セクションでは、特定のセールスキャンペーンを設定し、そのセールスキャンペーンに対するチームの使用例に最適に機能するようにできます。
 
 ## 週末のスキップ {#skip-weekends}
 
@@ -27,7 +25,7 @@ ht-degree: 4%
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. 目的のキャンペーンを選択します。
+1. 目的のセールスキャンペーンを選択します。
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ ht-degree: 4%
 
 ## バウンス時に削除 {#remove-on-bounce}
 
-電子メール接続を使用している場合、ユーザーのインボックスに送信されたバウンスメッセージに基づいてバウンスが検出されます。 さらに、バウンスが検出された場合に、キャンペーンから担当者を削除することもできます。
+電子メール接続を使用している場合、ユーザーのインボックスに送信されたバウンスメッセージに基づいてバウンスが検出されます。 さらに、バウンスが検出された場合にセールスキャンペーンから担当者を削除できます。
 
 1. クリック **キャンペーン**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. 目的のキャンペーンを選択します。
+1. 目的のセールスキャンペーンを選択します。
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Gmail または Exchange の返信追跡を有効にしている場合、受信�
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. 目的のキャンペーンを選択します。
+1. 目的のセールスキャンペーンを選択します。
 
    ![](assets/sales-campaign-settings-10.png)
 
