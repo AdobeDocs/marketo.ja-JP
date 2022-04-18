@@ -2,9 +2,9 @@
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
-workflow-type: ht
-source-wordcount: '491'
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -192,7 +192,7 @@ Marketo プラットフォーム全体の新しいルックアンドフィール
   </tr>
   <tr>
    <td>3</td> 
-   <td>これを使用して、MEUE の体験に関するフィードバックを提供</td> 
+   <td>これを使用して、 の体験に関するフィードバックを提供</td> 
   </tr>
   <tr>
    <td>4</td> 
