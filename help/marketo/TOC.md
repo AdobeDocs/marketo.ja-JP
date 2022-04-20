@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '8656'
+source-wordcount: '8654'
 ht-degree: 96%
 
 ---
@@ -175,7 +175,7 @@ ht-degree: 96%
          + [概要](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理者の設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [API 専用ユーザを追加し、Adobe IMSが有効な購読](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
+         + [Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 設定 {#settings}
@@ -468,7 +468,7 @@ ht-degree: 96%
          + [プライバシー管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [プライバシーリクエスト](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo アセットの名前変更](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe Experience Cloud オーディエンス共有のセットアップ](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [組織マッピングAdobeの設定](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

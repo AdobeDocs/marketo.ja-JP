@@ -2,10 +2,10 @@
 description: Adobe Experience Cloud からのオーディエンスの同期 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+workflow-type: tm+mt
+source-wordcount: '272'
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloud オーディエンス共有のセットアップ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[組織マッピングAdobeの設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## オーディエンスの同期方法 {#how-to-sync-an-audience}
 

@@ -3,10 +3,10 @@ unique-page-id: 37356194
 description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 93%
+source-wordcount: '768'
+ht-degree: 92%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloud オーディエンス共有のセットアップ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[組織マッピングAdobeの設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## サポートされる宛先アプリケーション {#supported-destination-applications}
 
