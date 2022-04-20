@@ -2,10 +2,10 @@
 description: Sales Insight Actions 管理ガイド — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight アクション管理ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 7%
+source-wordcount: '588'
+ht-degree: 11%
 
 ---
 
@@ -110,6 +110,10 @@ ht-degree: 7%
 
 Sales Insight Actions のデータ統合フィールドの同期により、Marketo Engageデータベースから Sales Insight Actions データベースに個人情報を取り込み、個人データを最新の状態に保ち、Marketoと Salesforce で適切なレコードにアクティビティを記録できます。
 
+>[!CAUTION]
+>
+>データ同期を開始したら、以下を実行する必要があります。 **not** Sales Insight Actions インスタンスから元のユーザーを削除します。 これは、最初の招待が送信されたユーザーです。
+
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-10.png)
@@ -138,7 +142,7 @@ Marketoと Salesforce に存在する担当者レコードは、Marketoセール
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. 「管理者設定」で、「 **ユーザー管理**.
+1. 管理設定で、「**ユーザー管理**」を選択します。
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -152,7 +156,7 @@ Marketoと Salesforce に存在する担当者レコードは、Marketoセール
 
 >[!NOTE]
 >
->デフォルトでは、すべての新規メンバーが全員チームに追加されます。
+>デフォルトでは、すべての新規メンバーが「全員」チームに追加されます。
 
 確認メッセージが表示されます。
 
@@ -162,7 +166,7 @@ Marketoと Salesforce に存在する担当者レコードは、Marketoセール
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. 「管理者設定」で、「 **ユーザー管理**.
+1. 管理設定で、「**ユーザー管理**」を選択します。
 
    ![](assets/msi-actions-admin-guide-19.png)
 
