@@ -2,10 +2,10 @@
 description: プライバシーリクエスト — Marketo ドキュメント — 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
-workflow-type: ht
-source-wordcount: '363'
-ht-degree: 100%
+source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+workflow-type: tm+mt
+source-wordcount: '335'
+ht-degree: 95%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 100%
 
 消費者データにアクセスして Marketo Engage から削除する個々のリクエストを送信するには、次の 2 つの方法があります。
 
-* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。[こちら](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md)のドキュメントを参照してください。
-* **Privacy ServiceAPI**.を使用する。[こちら](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md)のドキュメントと[こちら](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml)の API リファレンスを参照してください。
+* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。[こちら](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)のドキュメントを参照してください。
+* **Privacy ServiceAPI**.を使用する。[こちら](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)のドキュメントと[こちら](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml)の API リファレンスを参照してください。
 
-[Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) では、データアクセスとデータ削除の 2 種類のリクエストがサポートされます。
+[Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) では、データアクセスとデータ削除の 2 種類のリクエストがサポートされます。
 
 ここでは、アクセスリクエストと削除リクエストの作成方法について説明します。
 
@@ -52,7 +52,7 @@ b. アクションの対象となるユーザーのメールアドレス
 * “userIDs”:
    * “namespace”: **email**
    * “type”: **standard**
-   * “value”: `<Data Subject’s Email Address>`
+   * &quot;value&quot;: `<Data Subject’s Email Address>`
 
 “include”:
 
