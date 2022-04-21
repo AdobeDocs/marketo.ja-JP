@@ -2,10 +2,10 @@
 description: 動的チャットを Marketo に接続する - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
+source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 68%
+source-wordcount: '287'
+ht-degree: 59%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 68%
 
 1. [experience.adobe.com](https://experience.adobe.com) にログインします。
 
-1. ホームページの右下隅から組織 ID をコピーします。「@AdobeOrg」は&#x200B;_除きます_。
+1. Experience Cloudの任意の場所で画面をクリックし、Ctrl + i キーを押します。内 **割り当てられた組織** 「 」タブをクリックし、組織 ID(_マイナス_ &quot;@AdobeOrg&quot;) です。 押す **閉じる** 完了したら、
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
