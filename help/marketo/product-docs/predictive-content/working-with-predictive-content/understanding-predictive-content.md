@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 予測コンテンツについて - Marketo ドキュメント - 製品ドキュメント
 title: 予測コンテンツについて
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '305'
 ht-degree: 100%
