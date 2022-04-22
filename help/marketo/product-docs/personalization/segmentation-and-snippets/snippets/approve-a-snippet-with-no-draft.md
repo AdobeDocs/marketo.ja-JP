@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095644
-description: ドラフトなしのスニペットを承認する — Marketo ドキュメント — 製品ドキュメント
+description: ドラフトなしのスニペットを承認する - Marketo ドキュメント - 製品ドキュメント
 title: ドラフトなしのスニペットを承認する
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
