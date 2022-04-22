@@ -1,30 +1,29 @@
 ---
 unique-page-id: 7512448
-description: SDKコードを開発者に送信 —Marketoドキュメント — 製品ドキュメント
-title: 開発者へのSDKコードの送信
+description: デベロッパーに SDK コードを送信する - Marketo ドキュメント - 製品ドキュメント
+title: デベロッパーに SDK コードを送信する
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SDKコードを開発者に送信{#send-sdk-code-to-a-developer}
+# デベロッパーに SDK コードを送信する {#send-sdk-code-to-a-developer}
 
-アプリ内メッセージまたはプッシュ通知を作成する前に、AndroidおよびiOSプラットフォーム用のMobile App SDKを開発者が設定して初期化する必要があります。
+アプリ内メッセージやプッシュ通知を作成する前に、デベロッパーに Android および iOS プラットフォーム用の Mobile App SDK を設定し、初期化してもらう必要があります。
 
-* [Androidの手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOSの手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Android の手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [iOS の手順](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## SDKコードを開発者に送信{#send-sdk-code-to-a-developer-1}
+## デベロッパーに SDK コードを送信する {#send-sdk-code-to-a-developer-1}
 
-場合によっては、管理者が開発者にSDKコードを送信する必要があります。
+場合によっては、管理者がデベロッパーに SDK コードを送信する必要があります。
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-これが君のやり方だ。
+その方法を説明しましょう。
 
 1. 「**管理者**」をクリックします。
 
@@ -38,12 +37,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 「**モバイルアプリアクション**」をクリックし、「**開発者に送信**」を選択します。
+1. 「**モバイルアプリアクション**」をクリックし、「**デベロッパーに送信**」を選択します。
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 電子メールアドレスを入力し、「**送信**」をクリックします。
+1. メールアドレスを入力し、「**送信**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
-   これで、SDKコードが開発者に送信されます。
+   これで、SDK コードがデベロッパーに送信されます。
