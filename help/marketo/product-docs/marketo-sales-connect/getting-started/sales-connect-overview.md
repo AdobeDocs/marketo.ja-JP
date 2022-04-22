@@ -24,7 +24,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
 
 ![](assets/engagement.jpg)
 
-## リードの詳細表示 {#person-detail-view}
+## 人物の詳細表示 {#person-detail-view}
 
 [詳細なリードの統計](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)にアクセスします。
 
@@ -43,7 +43,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td><p>セールスメール送信</p></td> 
+   <td><p>セールスメールを送信</p></td> 
    <td><p>ユーザーが MSE からセールスメールを送信。</p></td> 
   </tr> 
   <tr> 
