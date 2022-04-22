@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2360188
-description: キャンペーン電子メールパフォーマンスレポート —Marketoドキュメント — 製品ドキュメント
-title: キャンペーン電子メールのパフォーマンスレポート
+description: キャンペーンメールの効果レポート - Marketo ドキュメント - 製品ドキュメント
+title: キャンペーンメールの効果レポート
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# キャンペーン電子メールのパフォーマンスレポート{#campaign-email-performance-report}
+# キャンペーンメールの効果レポート {#campaign-email-performance-report}
 
-[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化された電子メールのパフォーマンス統計を表示するには、キャンペーンの電子メールのパフォーマンスレポートを実行します。
+メールパフォーマンス統計を[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化して表示するには、キャンペーンメール効果レポートを実行します。
 
-1. [レポートを作成し、「](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)  **キャンペーン電子メール** [のパフォーマンス」レポートタイプを選択し](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)ます。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**キャンペーンメール効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
-1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
 
-1. 次に、レポートを調べて、キャンペーンの各電子メールのパフォーマンスを確認します。
+1. 次に、レポートを調べて、キャンペーンの各メールの効果を確認します。
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
 
    >[!TIP]
    >
-   >電子メールの名前をクリックして、電子メールプレビューで開きます。
+   >メールの名前をクリックして、メールプレビューツールで開きます。
 
-   [[キャンペーンの電子メールパフォーマンス]レポートで](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)選択できる列は、次のとおりです。
+   キャンペーンメール効果レポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
 
-   | 縦棒 | 詳細 |
+   | 列 | 説明 |
    |---|---|
-   | ハードバウンス | 電子メールアドレスが存在しないなどの恒久的な条件が原因で、電子メールが拒否されました。 |
-   | ソフト バウンス | サーバーがダウンしているか、受信トレイがいっぱいであるなど、一時的な状態が原因で電子メールが拒否されました。 |
-   | 保留中 | 電子メールはまだ配信中です。 |
-   | クリック済みリンク | 電子メール内のリンクをクリックした電子メール受信者の数。 |
-   | 配信停止完了 | 電子メール内の&#x200B;**購読解除**&#x200B;リンクをクリックし、フォームに入力した電子メール受信者の数です。 |
+   | ハードバウンス | メールアドレスが存在しないなどの恒久的な状態が原因で、メールが拒否されました。 |
+   | ソフトバウンス | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状態が原因で、メールが拒否されました。 |
+   | 保留中 | メールは配信中です。 |
+   | クリック済みリンク | メール内のリンクをクリックしたメール受信者の数。 |
+   | 配信停止完了 | メールの&#x200B;**登録解除**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
 
    >[!NOTE]
    >
-   >一般的に、私たちは常識を使って統計を記録しようとします。 例えば、電子メール内のリンクをクリックした訪問者は、明らかに最初にリンクを開いています。 従う特定のルールについては、[電子メールパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)を参照してください。
+   >全般的に、これらの統計を記録するには常識を使おうとしています。例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。従うルールについては、「[メール効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」を参照してください。
 
    >[!MORELIKETHIS]
    >
-   >* [キャンペーンの電子メールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [電子メールパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+   >* [キャンペーンメールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [メールの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
