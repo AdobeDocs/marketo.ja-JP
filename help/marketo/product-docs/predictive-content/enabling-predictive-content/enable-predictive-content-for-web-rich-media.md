@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Web リッチメディアの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
 title: Web リッチメディアの予測コンテンツを有効にする
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '278'
 ht-degree: 100%
@@ -19,10 +19,10 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 >予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
->
->   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
->   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
->   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+   >
+   >   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
+   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
