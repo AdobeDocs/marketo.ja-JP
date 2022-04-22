@@ -49,8 +49,8 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [新規コンテンツの追加](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [新規コンテンツ追加](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
 >* [コンテンツの削除](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
->* [予測コンテンツのタイトルの承認取消](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
+>* [予測コンテンツのタイトルの承認取り消し](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
