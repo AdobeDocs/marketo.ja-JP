@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Google メールでリードとアカウントの情報とアクティビティを表示 - Marketo ドキュメント - 製品ドキュメント
 title: Google メールでリードとアカウントの情報とアクティビティを表示
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '310'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ![](assets/1.png)
 
-「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。同じタブに、アカウントの最新のアクティビティも示されます。アカウントは、リードのドメイン別に識別されます。サブスクリプションにおけるセールスインサイトのユーザーが、既にメールをやりとりしている場合には、アクティビティがリストに表示されます。
+「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。同じタブに、アカウントの最新のアクティビティも示されます。アカウントは、リードのドメイン別に識別されます。サブスクリプションにおけるセールスインサイトのユーザーが、既にメールをやり取りしている場合には、アクティビティがリストに表示されます。
 
 ![](assets/2.png)
 
@@ -48,4 +48,4 @@ Marketo アイコンをクリックして、ペインを開きます。
 
 >[!MORELIKETHIS]
 >
->[Google Chrome への Marketo Insights の使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Google Chrome 用 Marketo Insights の使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
