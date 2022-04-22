@@ -1,77 +1,75 @@
 ---
 unique-page-id: 11385020
-description: 電子メール —Marketoドキュメント — 製品ドキュメントで予測コンテンツを有効にする
-title: 電子メールの予測コンテンツを有効にする
+description: メールの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
+title: メールの予測コンテンツを有効にする
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 電子メールでの予測コンテンツの有効化{#enable-predictive-content-in-emails}
+# メールの予測コンテンツを有効にする {#enable-predictive-content-in-emails}
 
-電子メールの予測に1つ以上の画像を作成し、各受信者のエクスペリエンスに合わせて調整します。
+メールの予測用に 1 つ以上の画像を作成し、各受信者のエクスペリエンスを調整します。
 
 >[!NOTE]
 >
->予測コンテンツをテストして使用する前に、カテゴリあたり5つ以上のコンテンツを有効にし、ソースあたり（電子メール、リッチメディア、バー）を有効にすることをお勧めします。 コンテンツが多いほど、より適切な予測結果が得られます。
+>予測コンテンツをテストして使用する前に、カテゴリごとおよびソース（メール、リッチメディア、バー）ごとに 5 つ以上のコンテンツを有効にすることをお勧めします。コンテンツが多いほど、より良い予測結果が得られます。
 
 >[!PREREQUISITES]
 >
->予測コンテンツを有効にする前に、次の操作を行う必要があります。
+>予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
    >
-   >   
-   * [電子メールの予測コンテンツの](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 編集
-   >   * [リッチ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) メディアの予測コンテンツの編集
+   >   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
+   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
    >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Email 2.0 Editorを使用した予測コンテンツの追加{#adding-predictive-content-using-the-email-editor}
+## メール 2.0 エディターを使用した予測コンテンツの追加 {#adding-predictive-content-using-the-email-editor}
 
-1. 「**マーケティングアクティビティ**」をクリックします。
+1. 「**マーケティング活動**」をクリックします。
 
    ![](assets/one.png)
 
-1. 電子メールを選択し、「**ドラフトを編集**」をクリックします。
+1. メールを選択して、「**ドラフトの編集**」をクリックします。
 
    ![](assets/two.png)
 
-1. 予測を行う画像をクリックします。 歯車アイコンが表示されたら、アイコンをクリックし、「ContentAIを有効にする」を選択します。****&#x200B;を選択します（ContentAIは予測コンテンツの旧名です）。
+1. 予測をおこなう画像をクリックします。歯車アイコンが表示されたら、それをクリックして「**ContentAI を有効にする**」を選択します（ContentAI は予測コンテンツの旧名称です）。
 
    ![](assets/three.png)
 
-1. 1つ以上のカテゴリを選択するには、**カテゴリ**&#x200B;ドロップダウンをクリックし、選択を行い、**適用**&#x200B;をクリックします。
+1. 1 つまたは複数のカテゴリを選択するには、**カテゴリ**&#x200B;ドロップダウンで、選択をおこなって「**適用**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >特定のカテゴリの選択や予測レイアウトの変更は任意です。
+   >特定のカテゴリの選択または予測レイアウトの変更はオプションです。
 
-1. 画像が予測できるようになりました。 追加の画像に対して手順3と4を繰り返します（必要な場合）。
+1. これで、画像が予測可能になりました。必要に応じて、追加の画像に対して手順 3 と 4 を繰り返します。
 
    ![](assets/five.png)
 
-1. 電子メールをプレビューするには、右上隅の&#x200B;**プレビュー**&#x200B;をクリックします。
+1. メールをプレビューするには、右上済の「**プレビュー**」をクリックします。
 
    ![](assets/six.png)
 
-1. 様々な画像を表示するには、**更新**&#x200B;をクリックします。
+1. 様々な可能な画像を表示するには、「**更新**」をクリックします。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >受信者が電子メール&#x200B;_**を開くまで、画像は**_&#x200B;選択されません。 プレビューに見えるのは単なる例で受信者が見るイメージとは限りません
+   >画像は、**_受信者がメールを開くまで_**&#x200B;選択されません。したがって、プレビューに表示される内容は単なる例であり、必ずしも受信者に表示される画像とは限りません。
 
-1. 電子メールのプレビューが完了したら、**プレビューアクション**&#x200B;ドロップダウンをクリックし、**承認して閉じる**&#x200B;を選択します。 まだ編集が必要な場合は、右側の「**ドラフトを編集**」をクリックします。
+1. メールのプレビューが完了したら、**プレビューアクション**&#x200B;ドロップダウンをクリックして「**承認して閉じる**」を選択します。まだ編集が必要な場合は、右側にある「**ドラフトを編集**」をクリックします。
 
    ![](assets/eight.png)
 
@@ -79,19 +77,19 @@ ht-degree: 0%
    >
    >サンプルを送信する際に、ランダムな画像が選択されます。
 
-電子メールを承認すると、予測コンテンツが提供され、送信できる状態になります。
+メールを承認すると、予測コンテンツが搭載され、送信の準備が整います。
 
 >[!CAUTION]
 >
->受信者が電子メールを開くと、予測画像はロックされます。 コンテンツが後で削除されると、受信者には、コンテンツが存在する場所に壊れた画像が表示されます。
+>受信者がメールを開くと、予測画像はロックされます。コンテンツが後で削除された場合、受信者には、コンテンツがあった場所に壊れた画像が表示されます。
 
-## 電子メール2.0エディターを使用しない場合の予測コンテンツの追加{#adding-predictive-content-when-not-using-the-email-editor}
+## メール 2.0 エディターを使用しない場合の予測コンテンツの追加 {#adding-predictive-content-when-not-using-the-email-editor}
 
-[電子メール2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)テンプレートを使用していない場合は、テンプレート内の画像をMarketo編集可能な画像要素としてタグ付けするだけで、予測コンテンツを電子メールに追加できます。
+[メール 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) テンプレートを使用していない場合、テンプレート内の画像を Marketo の編集可能な画像要素としてタグ付けするだけで、メールに予測コンテンツを追加できます。
 
-[Marketo固有の構文については、](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)を参照してください。
+Marketo 固有の構文について、[こちら](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)をご覧ください。
 
-次に、コードの例を示します（これは例に過ぎず、下のコードを正確にコピーしないでください）。
+コードの例を次に示します（これは一例です。以下のコードをそのままコピーしないでください）。
 
 **例**
 
