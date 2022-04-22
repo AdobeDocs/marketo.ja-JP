@@ -1,62 +1,61 @@
 ---
 unique-page-id: 2949711
-description: Outlook用Marketo電子メールイ追加ンを登録コード —Marketoドキュメント — 製品ドキュメントと共にインストールする
-title: 登録コードを使用したOutlook用Marketo電子メールイン追加のインストール
+description: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール - Marketo ドキュメント - 製品ドキュメント
+title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '427'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# 登録コード{#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}を使用してOutlook用Marketo電子メールイ追加ンをインストールする
+# 登録コードを使用した Outlook 用 Marketo メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
-ユーザーがラップトップの管理設定にアクセスできる場合は、ユーザーに登録コードを直接送信できます。
+ユーザーがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
 
-招待メールを受け取っていない場合は、Marketoの管理者に招待を依頼してください。
+招待メールを受け取っていない場合は、Marketo 管理者に招待するよう依頼してください。
 
 >[!PREREQUISITES]
 >
->[Marketo電子メールインライセンス](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)を発行する必要があり追加ます。
+>[Marketo メールアドインライセンスが発行されている](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)必要があります。
 
 >[!NOTE]
 >
->2010年10月1日現在、Outlookプラグインの最新バージョンでは、オフラインモードがサポートされなくなりました。 これは、10/1以降にインストール/アップグレードした後に有効になります。
+>2020 年 10 月 1 日時点で、最新バージョンの Outlook プラグインはオフラインモードのサポートを停止しました。これは、10 月 1 日以降にインストール／アップグレードした後に有効になります。
 
-## インストーラーのダウンロード{#download-installer}
+## インストーラーのダウンロード {#download-installer}
 
-1. [Microsoft Outlookのバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
+1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する
 
-1. リンクをクリックして、お使いのバージョンのMicrosoft Outlookに適したインストーラをダウンロードします。
+1. リンクをクリックして、お使いのバージョンの Microsoft Outlook に適したインストーラーをダウンロードします。
 
    >[!NOTE]
    >
-   >現時点では、以下のリンクはMicrosoft Edgeでのみ機能します。または、Chromeで右クリックしても機能します。 ご不便をおかけして申し訳ございません。
+   >現時点では、以下のリンクは、Microsoft Edge または Chrome で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
 
-   | Outlookバージョン | 32ビットOutlook | 64ビットOutlook |
+   | Outlook バージョン | 32 ビットOutlook | 64 ビット Outlook |
    |---|---|---|
-   | Outlook 2000 | 非対応 | 該当なし |
-   | Outlook 2003 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
-   | Outlook 2007 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 該当なし |
+   | Outlook 2000 | サポート対象外 | なし |
+   | Outlook 2003 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | なし |
+   | Outlook 2007 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | なし |
    | Outlook 2010 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2013 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2019 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook for Mac | 非対応 | 非対応 |
-   | Outlook Web App | 非対応 | 非対応 |
+   | Outlook for Mac | サポート対象外 | サポート対象外 |
+   | Outlook web アプリケーション | サポート対象外 | サポート対象外 |
    | Office 365* | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
-   *Office 365バージョン：Windowsクライアントのみ（Windows 10、EnterpriseまたはProの場合）。
+   *Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
 
-## 登録コードをコピー{#copy-your-registration-code}
+## 登録コードをコピーする {#copy-your-registration-code}
 
-1. 受け取った招待用電子メールから登録コードをコピーします。
+1. 受け取った招待メールから登録コードをコピーします。
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Microsoft Outlookを閉じます。
+1. Microsoft Outlook を閉じます。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -68,19 +67,19 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >警告が出たら心配するな！ [****&#x200B;を実行]をクリックします。
+   >セキュリティ警告が表示されても、問題はありません。「**実行**」をクリックしてください。
 
 1. 「**次へ**」をクリックします。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. **姓**、**姓**、**電子メールアドレス**&#x200B;を入力し、電子メールから&#x200B;**登録コード**&#x200B;をコピーしてフォームに貼り付け、**次へ**&#x200B;をクリックします。
+1. **名**、**姓**、**メールアドレス**&#x200B;を入力し、**登録コード**&#x200B;をメールからフォームにコピー＆ペーストして、「**次へ**」をクリックします。
 
    ![](assets/enter-your-information-hands.png)
 
    >[!TIP]
    >
-   >インストールに失敗した場合は、IT部門に問い合わせて、HTTPSトラフィックがブロックされていないことを確認してください。 インストーラーでHTTPSトラフィックが開いている必要があります。
+   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないことを確認してください。インストーラーを実行するには HTTPS トラフィックが必要です。
 
 1. 「**次へ**」をクリックして、デフォルトの場所にインストールします。
 
@@ -92,22 +91,22 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >不明なパブリッシャに関するセキュリティプロンプトが表示された場合は、[**はい**]をクリックします。
+   >不明な発行元に関するセキュリティプロンプトが表示された場合は、「**はい**」をクリックします。
 
 1. インストールが完了したら、「**閉じる**」をクリックします。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Microsoft Outlookを開き、[Marketo]ボタンを確認します。
+1. Microsoft Outlook を開くと、「Marketo」ボタンが表示されます。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   素晴らしい！ Marketoのボタンの方がいい場所です。
+   これで完了です。これで、Marketo のボタンの位置が改善されました。
 
-「Marketoメッセージ」および「Marketoとログ」アクションの使用についての詳細。
+Marketo アクションでのメッセージとログの使用について詳しくは、こちらを参照してください。
 
 >[!MORELIKETHIS]
 >
->* [Outlook用のMarketo電子メールインを使用した電子メールの送信追加と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketoテンプレートを使用したOutlookからの送信と追跡](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
