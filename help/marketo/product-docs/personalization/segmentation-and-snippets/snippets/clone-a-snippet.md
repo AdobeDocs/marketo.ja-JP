@@ -30,4 +30,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[ダイナミックコンテンツでスニペットを編集する](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
+>[動的コンテンツでのスニペットの編集](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
