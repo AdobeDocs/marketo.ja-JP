@@ -1,76 +1,75 @@
 ---
 unique-page-id: 7512944
-description: Google Chrome用Marketoインサイトの使用 —Marketoドキュメント — 製品ドキュメント
-title: Google ChromeでのMarketoインサイトの使用
+description: Google Chrome 用 Marketo Insights の使用 - Marketo ドキュメント - 製品ドキュメント
+title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Google ChromeでのMarketoインサイトの使用{#using-marketo-insights-for-google-chrome}
+# Google Chrome 用 Marketo Insights の使用 {#using-marketo-insights-for-google-chrome}
 
-Google Chrome用のMarketoインサイトでGoogleの電子メールを送信し、追跡します。
+Google Chrome 用 Marketo Insights を使用して、Google メールを送信し、追跡します。
 
 >[!PREREQUISITES]
 >
->[Google Chrome用Marketoインサイトのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Google Chrome への Marketo Insights のインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
-## Marketoインサイトを含む電子メールの送信{#send-an-email-with-marketo-insights}
+## Marketo Insights でメールを送信 {#send-an-email-with-marketo-insights}
 
-1. 「構成」ウィンドウで、「Marketo」アイコンをクリックします。
+1. 作成ウィンドウで、Marketo アイコンをクリックします。
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. 「送信」ボタンがMarketoを紫に変更！ この電子メールは現在、Marketoと共に送信され、すべてのリンクが追跡され、トラッキングピクセルが電子メールに挿入されます。 これは、送信済みの販売用電子メールアクティビティとして記録されます。
+1. 「送信」ボタンが Marketo パープルに変わりました。このメールは Marketo を使用して送信され、すべてのリンクがトラックされ、トラッキングピクセルがメールに挿入されます。これは、送信済みセールスメールアクティビティとして記録されます。
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
    >[!NOTE]
    >
-   >追跡ピクセルを使用すると、電子メールを開いたユーザーを特定できます。
+   >トラッキングピクセルを使用すると、メールを開封したユーザーを把握できます。
 
    >[!TIP]
    >
-   >オプションで、重複の矢印をクリックして、フルスクリーン表示に拡大します。
+   >必要に応じて、二重矢印をクリックして全画面表示に展開します。
 
-1. 電子メールに公開済みのMarketoテンプレートを事前入力する場合は、「**その他のオプション**」をクリックし、「**Marketoテンプレートを読み込む**」を選択します。
+1. メールに公開済みの Marketo テンプレートを事前入力する場合は、「**その他のオプション**」をクリックし、「**Marketo テンプレートを読み込む**」を選択します。
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. **利用可能なテンプレート**&#x200B;を選択し、**OK**&#x200B;をクリックします。
+1. 「**使用可能なテンプレート**」を選択し、「**OK**」をクリックします。
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. コンテンツと電子メールアドレスを入力し、「**送信**」をクリックします。
+1. コンテンツ、メールアドレスを入力し、「**送信**」をクリックします。
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >メッセージは、**「**&#x200B;送信」ボタンが紫の場合にのみ追跡されます。
+   >メッセージは、「**送信**」ボタンがパープルの場合のみトラックされます。
 
-1. この電子メールは間もなくMarketoセールスインサイトに表示され、開いたクリックが追跡されます。
+1. メールはすぐに Marketo Sales Insight に表示され、すべての開封数とクリック数がトラックされます。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Marketoとの電子メール返信をログ{#log-email-replies-with-marketo}
+## メール返信を Marketo に記録 {#log-email-replies-with-marketo}
 
-リードのアクティビティ履歴に返信や古いアクティビティを記録できます。
+リードのアクティビティ履歴に返信と古いアクティビティを記録できます。
 
-1. Googleメールのプレビューウィンドウで、**「Marketo**&#x200B;でログ」をクリックします。
+1. Google メールのプレビューパネルで、「**Marketo で記録**」をクリックします。
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. それだけだ！ この電子メールは、間もなくMarketoセールスインサイトに表示されます。
+1. これだけです。メールは、すぐに Marketo Sales Insight に表示されます。
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Google Chrome用Marketoインサイトのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Googleメールの表示担当者とアカウント情報およびアクティビティ](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [Google Chrome への Marketo Insights のインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Google メールでリードとアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
