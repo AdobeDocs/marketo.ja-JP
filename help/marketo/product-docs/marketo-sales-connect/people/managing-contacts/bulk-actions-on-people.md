@@ -1,7 +1,7 @@
 ---
 unique-page-id: 30081230
-description: リードに対する一括アクション - Marketo ドキュメント - 製品ドキュメント
-title: リードに対する一括アクション
+description: 人物に対する一括アクション - Marketo ドキュメント - 製品ドキュメント
+title: 人物に対する一括アクション
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,7 +10,7 @@ ht-degree: 100%
 
 ---
 
-# リードに対する一括アクション {#bulk-actions-on-people}
+# 人物に対する一括アクション {#bulk-actions-on-people}
 
 連絡先を一括で使用して時間を節約するには、いくつかの操作が可能です。
 
@@ -18,9 +18,9 @@ ht-degree: 100%
 
 ![](assets/one-3.png)
 
-## リードをグループに追加 {#add-people-to-group}
+## 人物をグループに追加 {#add-people-to-group}
 
-複数のリードを 1 つのグループに同時に追加します。
+複数の人物を 1 つのグループに同時に追加します。
 
 ![](assets/add-to-group.png)
 
