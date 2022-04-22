@@ -27,7 +27,7 @@ ht-degree: 100%
 * [企業 Web アクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web ページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」エリアに移動します。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
