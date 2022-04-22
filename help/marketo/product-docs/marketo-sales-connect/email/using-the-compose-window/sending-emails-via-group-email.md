@@ -1,47 +1,46 @@
 ---
 unique-page-id: 37356584
-description: グループ電子メールを使用した電子メールの送信 —Marketoドキュメント — 製品ドキュメント
-title: グループ電子メールを使用した電子メールの送信
+description: グループメールによるメールの送信 - Marketo ドキュメント - 製品ドキュメント
+title: グループメールによるメールの送信
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# グループ電子メールを使用した電子メールの送信{#sending-emails-via-group-email}
+# グループメールによるメールの送信 {#sending-emails-via-group-email}
 
-次に、「グループ電子メール」オプションを使用して電子メールを送信/編集する方法を示します。
+ここでは、「グループメール」オプションを使用してメールを送信／編集する方法を説明します。
 
-## グループ電子メールの送信{#sending-a-group-email}
+## グループメールの送信 {#sending-a-group-email}
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**リード**」タブをクリックします。
 
    ![](assets/one-3.png)
 
-1. 電子メールで送信するグループを選択します。
+1. メールを送信するグループを選択します。
 
    ![](assets/two-3.png)
 
-1. 「Group Actions」ボタンをクリックし、「**Email Group**」を選択します。
+1. 「グループアクション」ボタンをクリックし、「**グループにメール送信**」を選択します。
 
    ![](assets/three-3.png)
 
-1. 電子メールを入力（またはテンプレートを選択）し、送信（またはスケジュール）します。
+1. メールを入力（またはテンプレートを選択）して、送信（またはスケジュール）します。
 
    ![](assets/four-3.png)
 
-## グループ電子メールの編集{#editing-a-group-email}
+## グループメールの編集 {#editing-a-group-email}
 
-1. [上の](#sending-a-group-email)手順1 ～ 3を使用して、グループ電子メールを作成します。
+1. [上記の手順 1～3](#sending-a-group-email) を使用してグループメールを作成します。
 
-1. テンプレートを選択するか、電子メールを入力します。
+1. テンプレートを選択するか、メールを入力します。
 
    ![](assets/edit-two.png)
 
-1. 電子メールの送信が完了したら、リスト内の各電子メールをプレビューして、動的フィールドに正しく入力されているかどうかを確認できるようになりました。
+1. メール作成が完了したら、リスト内の各メールをプレビューして、動的フィールドに正しく入力されているかどうかを確認できます。
 
    ![](assets/edit-three.png)
 
@@ -49,16 +48,16 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. 「**プレビュー動的フィールド**」をクリックし、右側のプレビューを表示します。
+1. 「**動的フィールドをプレビュー**」をクリックし、右側にプレビューを表示します。
 
    ![](assets/edit-five.png)
 
    >[!NOTE]
    >
-   >グループの電子メールを送信する際に、電子メール/テンプレートにバルク編集を行うことはできますが、リスト内の特定の受信者に対して一意の編集を行うことはできません。
+   >グループメールを送信する際に、メール／テンプレートに一括編集を行うことはできますが、リスト内の特定の受信者に対して一意の編集を行うことはできません。
 
 >[!MORELIKETHIS]
 >
->* [バルク送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [「構成」ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [一括送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [作成ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
