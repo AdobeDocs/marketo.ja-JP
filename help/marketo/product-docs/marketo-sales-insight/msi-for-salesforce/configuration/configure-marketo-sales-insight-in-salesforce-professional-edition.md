@@ -1,22 +1,22 @@
 ---
 unique-page-id: 3571743
-description: Salesforce Professional Edition でのMarketo Sales Insight の設定 — Marketoドキュメント — 製品ドキュメント
+description: Salesforce Professional Edition での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Professional Edition での Marketo Sales Insight の設定
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
 source-wordcount: '902'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
 # Salesforce Professional Edition での Marketo Sales Insight の設定 {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-Salesforce Professional Edition でMarketo Sales Insight を設定するために必要な手順を次に示します。 それでは始めましょう。
+Salesforce Professional Edition で Marketo Sales Insight を設定するために必要な手順を次に示します。それでは始めましょう。
 
 >[!PREREQUISITES]
 >
->* Salesforce Professional Edition にMarketoをインストールします。
+>* Salesforce Professional Edition に Marketo をインストールします。
 >
 >* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
@@ -28,7 +28,7 @@ Salesforce Professional Edition でMarketo Sales Insight を設定するため�
 ## Marketo での Sales Insight の設定 {#configure-sales-insight-in-marketo}
 
 1. 新しいブラウザーウィンドウを開き、Marketo アカウントから Marketo Sales Insight の認証情報を取得します。
-1. 管理エリアに移動し、「**Sales Insight**」を選択します。
+1. 管理者領域に移動し、「**Sales Insight**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -192,7 +192,7 @@ Salesforce Professional Edition でMarketo Sales Insight を設定するため�
  </tbody> 
 </table>
 
-1. クリック **保存** 終了したとき。
+1. 終了したら「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
@@ -272,7 +272,7 @@ Salesforce Professional Edition でMarketo Sales Insight を設定するため�
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. 「**Marketo API** を有効にする」をオンにします。次に、[Marketo Admin の API 設定情報](#set-up-marketo-sales-insight)を入力します。クリック **変更を保存** 完了したら
+1. 「**Marketo API** を有効にする」をオンにします。次に、[Marketo Admin の API 設定情報](#set-up-marketo-sales-insight)を入力します。完了したら、「**変更を保存**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 

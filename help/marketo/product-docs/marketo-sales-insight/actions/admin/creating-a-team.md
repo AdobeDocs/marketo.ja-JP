@@ -1,11 +1,11 @@
 ---
-description: チームの作成 — Marketoドキュメント — 製品ドキュメント
+description: チームの作成 - Marketo ドキュメント - 製品ドキュメント
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 28%
 
 ## チームの作成 {#create-a-team}
 
-1. 内 [web アプリケーション](https://toutapp.com/login)、歯車アイコンをクリックし、「 **設定**.
+1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/creating-a-team-1.png)
 
@@ -23,11 +23,11 @@ ht-degree: 28%
 
    ![](assets/creating-a-team-2.png)
 
-1. 「チーム」の横の **+** アイコン
+1. チームの横の **+** アイコンをクリックします。
 
    ![](assets/creating-a-team-3.png)
 
-1. チーム名を入力し、 **作成**.
+1. チーム名を入力し、「**作成**」をクリックします。
 
    ![](assets/creating-a-team-4.png)
 
@@ -36,17 +36,17 @@ ht-degree: 28%
 >これで、テンプレート、キャンペーンおよびグループを
 そのチームと共有できるようになりました。
 
-## チームに担当者を追加 {#add-people-to-a-team}
+## チームに人物を追加 {#add-people-to-a-team}
 
-1. 引き続きチーム管理で、「 」を選択します。 **すべてのメンバー**.
+1. 引き続きチーム管理で、「**すべてのメンバー**」を選択します。
 
    ![](assets/creating-a-team-5.png)
 
-1. チームに追加するユーザーを見つけて、そのユーザーのチェックボックスをオンにします。
+1. サブチームに追加するユーザーを見つけ、そのチェックボックスをオンにします。
 
    ![](assets/creating-a-team-6.png)
 
-1. クリック **チームに追加**.
+1. 「**チームに追加**」をクリックします。
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ ht-degree: 28%
 
    ![](assets/creating-a-team-8.png)
 
-1. クリック **追加** 完了したら、
+1. 終了したら「**追加**」をクリックします。
 
    ![](assets/creating-a-team-9.png)

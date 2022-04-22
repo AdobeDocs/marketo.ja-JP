@@ -5,7 +5,7 @@ exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '709'
-ht-degree: 56%
+ht-degree: 65%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 56%
 
 ## メールアクティビティのログを API 経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-api}
 
-この機能を使用するには、Salesforce の Enterprise/Unlimited エディション、または Web Services API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
+この機能を使用するには、Salesforce の Enterprise／Unlimited エディション、または web サービス API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 56%
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、 **Salesforce**.
+1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、**Salesforce**.をクリックします。
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -49,11 +49,11 @@ ht-degree: 56%
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
-1. Marketo Sales で、歯車アイコンをクリックし、 **設定**.
+1. Marketo Sales で、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、 **Salesforce**.
+1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、**Salesforce**.をクリックします。
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -97,7 +97,7 @@ ht-degree: 56%
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、 **Salesforce**.
+1. 「管理者設定」（または管理者でない場合は「マイアカウント」）で、**Salesforce**.をクリックします。
 
    ![](assets/salesforce-sync-settings-11.png)
 
@@ -105,7 +105,7 @@ ht-degree: 56%
 
    ![](assets/salesforce-sync-settings-12.png)
 
-1. 「Marketoセールスタスク/Salesforce タスクのリマインダーを同期」の横の矢印をクリックします。
+1. 「Marketo Sales タスク／リマインダーを Salesforce タスクに同期」の横の矢印をクリックします。
 
    ![](assets/salesforce-sync-settings-13.png)
 
@@ -129,4 +129,4 @@ Sales Insight のアクションと SFDC タスクを同期すると、次の処
 
 初回同期後、Sales Insight アクションで作成、編集、完了、削除したタスクは、Salesforce のタスクリストに同期されます。 また、Salesforce で作成、編集、完了、または削除されたすべての項目は、Sales Insight アクションのタスクリストを更新します。
 
-この同期を有効にするには、Web アプリケーションの設定ページで同期ボックスをオンにします。
+この同期を有効にするには、web アプリケーションの設定ページで同期ボックスをオンにします。

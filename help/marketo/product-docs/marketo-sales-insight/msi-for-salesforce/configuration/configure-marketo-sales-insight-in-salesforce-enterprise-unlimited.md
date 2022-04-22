@@ -24,7 +24,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 ## Marketo での Sales Insight の設定 {#configure-sales-insight-in-marketo}
 
-1. Marketo で MSI 資格情報を取得します。管理エリアに移動し、「**Sales Insight**」を選択します。
+1. Marketo で MSI 資格情報を取得します。管理者領域に移動し、「**Sales Insight**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 

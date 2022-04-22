@@ -1,37 +1,37 @@
 ---
-description: ユーザーアクセスの詳細 — Marketoドキュメント — 製品ドキュメント
+description: ユーザーアクセスの詳細 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーアクセスの詳細
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # ユーザーアクセスの詳細 {#user-access-details}
 
-管理者と非管理者は何にアクセスできますか？
+管理者と管理者以外のユーザーは何にアクセスできますか？
 
 ## 管理者ユーザーの権限 {#admin-user-permissions}
 
-管理者が実行できる操作 [すべてのテンプレートを表示](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+管理者は[すべてのテンプレートを表示](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)できます。
 
 ![](assets/user-access-details-1.png)
 
-管理者が実行できる操作 [すべてのキャンペーンを表示](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+管理者は[すべてのキャンペーンを表示](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)できます。
 
 ![](assets/user-access-details-2.png)
 
-管理者は、すべての電子メールアクティビティを表示できます。
+管理者は、すべてのメールアクティビティを表示できます。
 
 ![](assets/user-access-details-3.png)
 
-管理者は、実行中のキャンペーンのすべての人を表示できます。
+管理者は、実行中のキャンペーンが適用されているすべての人を表示できます。
 
 ![](assets/user-access-details-4.png)
 
-管理者は、「表示形式」ドロップダウンで、ユーザーのキャンペーンおよびキャンペーンカテゴリを表示できます。
+管理者は、「次のユーザーとして表示」ドロップダウンで、ユーザーのキャンペーンおよびキャンペーンカテゴリを表示できます。
 
 ![](assets/user-access-details-5.png)
 
@@ -39,13 +39,13 @@ ht-degree: 3%
 
 ## 管理者以外のユーザー権限 {#non-admin-user-permissions}
 
-* アナリティクス:
+* 分析：
 
-   * ユーザーはチーム分析を表示できます
-   * ユーザーは所属するチームのみを詳細に調べることができます
+   * ユーザーはチームの分析を表示できます
+   * ユーザーは所属するチームのみの詳細を表示できます
    * ユーザーは独自の分析を表示できます
 
-* 担当者ページ：
+* 人物ページ：
 
    * ユーザーは全員とグループを共有できます
    * ユーザーは、所属するチームとのみグループを共有できます

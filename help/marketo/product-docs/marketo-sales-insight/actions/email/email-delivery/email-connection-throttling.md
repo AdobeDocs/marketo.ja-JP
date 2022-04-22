@@ -5,7 +5,7 @@ exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -40,11 +40,11 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 右側の「 E メール接続の制限」カードで、 **メールのスロットルを有効にする** スライダー。
+1. 右側の「メール接続のスロットリング」カードで、「**メールのスロットリングを有効にする**」スライダーをクリックします。
 
    ![](assets/email-connection-throttling-3.png)
 
-1. 右側の「 E メール接続の制限」カードで、E メールチャネルプロバイダーに送信する E メールのバッチサイズを入力します。
+1. 右側の「メール接続のスロットリング」カードで、メールチャネルプロバイダーに送信するメールのバッチサイズを入力します。
 
    ![](assets/email-connection-throttling-4.png)
 

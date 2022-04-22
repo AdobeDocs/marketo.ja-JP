@@ -1,11 +1,11 @@
 ---
-description: Marketoのセールスパスワードの変更 — Marketoドキュメント — 製品ドキュメント
+description: Marketo Sales のパスワードの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales のパスワードの変更
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -39,11 +39,11 @@ ht-degree: 83%
 
 ## サインアウト中のパスワード変更 {#change-your-password-while-signed-out}
 
-1. 次に移動： [セールスコネクトログイン](https://toutapp.com/login) ページ。 メールアドレスを入力し、 **ログイン**.
+1. [Sales Connect ログイン](https://toutapp.com/login)ページに移動します。メールアドレスを入力し、「**ログイン**」をクリックします。
 
    ![](assets/change-your-marketo-sales-password-4.png)
 
-1. クリック **パスワードを忘れた場合**.
+1. 「**パスワードを忘れた場合**」をクリックします。
 
    ![](assets/change-your-marketo-sales-password-5.png)
 

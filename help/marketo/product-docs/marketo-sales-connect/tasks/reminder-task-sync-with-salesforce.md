@@ -1,11 +1,11 @@
 ---
-description: Salesforce とのリマインダータスク同期 — Marketoドキュメント — 製品ドキュメント
+description: Salesforce とのリマインダータスク同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce とのリマインダータスク同期
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 48%
+ht-degree: 88%
 
 ---
 
@@ -13,19 +13,19 @@ ht-degree: 48%
 
 >[!NOTE]
 >
->タスク同期チェックアウトを有効にする方法を説明します [セールスコネクトタスク/Salesforce タスクのリマインダーを同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>タスク同期を有効にする方法について詳しくは、[Sales Connect タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)を参照してください。
 
-タスクの同期設定が有効になると、ユーザーは、Salesforce と双方向に同期されたリマインダータスクを確認できます。 つまり、ユーザーは Salesforce またはセールスコネクトからタスクを管理し、システムの整合性を維持できると確信します。
+タスクの同期設定が有効になると、ユーザーは、Salesforce と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザーは Salesforce または Sales Connect からタスクを管理し、システムの整合性を維持していることを確信できます。
 
 ## リマインダータスクフィールドの同期 {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-以下に、セールスコネクトのリマインダータスクフィールドと、双方向タスク同期でサポートされる対応する Salesforce フィールドの一覧を示します。
+以下に、Sales Connect のリマインダータスクフィールドと、双方向タスク同期でサポートされる、対応する Salesforce フィールドの一覧を示します。
 
 <table>
  <tr>
-  <th>セールスコネクトタスクフィールド</th>
+  <th>Sales Connect タスクフィールド</th>
   <th>Salesforce タスクフィールド</th>
   <th>Salesforce タスク</th>
  </tr>
@@ -37,16 +37,16 @@ ht-degree: 48%
  <tr>
   <td>ステータス</td>
   <td>タスクのステータス</td>
-  <td><p>タスクのステータスを表示します。 セールスコネクトタスクには、Salesforce タスクステータス選択リストの 2 つの値に対応する 2 つのステータスがあります。</p>
-  <p>セールスコネクトで開く= Salesforce で開始されていません。</p>
-  <p>セールスコネクトで完了= Salesforce で完了</p>
-  <p>Salesforce の他のステータス値は、セールスコネクトに同期されません。</p></td>
+  <td><p>タスクのステータスを表示します。Sales Connect タスクには、Salesforce タスクステータス選択リストの 2 つの値に対応する 2 つのステータスがあります。</p>
+  <p>Sales Connect で開く = Salesforce で開始されていません。</p>
+  <p>Sales Connect で完了 = Salesforce で完了</p>
+  <p>Salesforce の他のステータス値は、Sales Connect に同期されません。</p></td>
  </tr>
  <tr>
   <td>優先度</td>
   <td>優先度</td>
-  <td><p>セールスコネクトの優先度は、Salesforce の「標準」と「高」の優先度値にマッピングされる「標準」または「高」に設定できます。</p>
-  <p>Salesforce の低優先度の値は、セールスコネクトに同期されません。</p></td>
+  <td><p>Sales Connect の優先度は「標準」または「高」に設定でき、それらは Salesforce の「標準」と「高」の優先度値にマッピングされます。</p>
+  <p>Salesforce の「低」優先度の値は、Sales Connect に同期されません。</p></td>
  </tr>
  <tr>
   <td>期日</td>
@@ -62,9 +62,9 @@ ht-degree: 48%
 
 ## Sales Connect タスクと Salesforce の初回同期 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Sales Connect と Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。Sales Connect での現在のタスクは  Salesforce にプッシュされ&#x200B;**ません**。Sales Connect から Salesforce に同期されるタスクは、Sales Connect を SFDC と同期した&#x200B;*後に*&#x200B;作成されるタスクのみです。
+Sales Connect と Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。Sales Connect での現在のタスクは Salesforce にプッシュされ&#x200B;**ません**。Sales Connect から Salesforce に同期されるタスクは、Sales Connect を SFDC と同期した&#x200B;*後に*&#x200B;作成されるタスクのみです。
 
-Sales Connect と SFDC のタスクを同期すると、次の処理がおこなわれます。
+Sales Connect と SFDC のタスクを同期すると、次の処理が行われます。
 
 * タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
 
@@ -76,7 +76,7 @@ Sales Connect と SFDC のタスクを同期すると、次の処理がおこな
 
 初回同期の後、Sales Connect で作成、編集、完了または削除したタスクは、Salesforce のタスクリストに同期されます。また、Salesforce でタスクが作成、編集、完了、削除されると、Sales Connect のタスクリストがアップデートされます。
 
-この同期を有効にするには、Web アプリケーションの[設定ページ](https://toutapp.com/login)で同期ボックスをオンにします。
+この同期を有効にするには、web アプリケーションの[設定ページ](https://toutapp.com/login)で同期ボックスをオンにします。
 
 >[!NOTE]
 >
