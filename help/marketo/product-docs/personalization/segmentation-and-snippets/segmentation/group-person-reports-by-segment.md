@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359492
-description: セグメント別グループ個人レポート —Marketoドキュメント — 製品ドキュメント
-title: セグメント別個人レポートのグループ化
+description: リードレポートをセグメント別にグループ化する - Marketo ドキュメント - 製品ドキュメント
+title: リードレポートをセグメント別にグループ化する
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# セグメント別のグループ個人レポート{#group-person-reports-by-segment}
+# リードレポートをセグメント別にグループ化する {#group-person-reports-by-segment}
 
-セグメントで定義した任意のセグメントによって、個人レポートをグループ化できます。
+ユーザーレポートは、セグメント化で定義した任意のセグメント別にグループ化できます。
 
-1. 「**マーケティングアクティビティ**」（または「**Analytics**」）セクションに移動します。
+1. **マーケティング活動**（または&#x200B;**分析**）セクションに移動します。
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
-1. ナビゲーションツリーから個人レポートを選択します。
+1. ナビゲーションツリーから任意のリードレポートを選択します。
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. 「**セットアップ**」タブをクリックし、「**ユーザーを**&#x200B;でグループ化」を重複クリックします。
+1. 「**設定**」タブをクリックして、「**リードのグループ化基準**」をダブルクリックします。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >個人または会社属性](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)別に[個人レポートをグループ化することもできます。
+   >[リードレポートをリード別、または企業属性別にグループ化](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)することもできます。
 
-1. **ユーザーを**&#x200B;でグループ化ダイアログで、開始がテキストボックスに「セグメント化」と入力します。 **セグメント**&#x200B;という見出しが表示されたら、見出しの下のリストから1つ選択します。
+1. **リードのグループ化基準**&#x200B;ダイアログで、テキストボックスに「セグメント化」と入力し始めます。次の場合に&#x200B;**セグメント化**&#x200B;見出しが表示されたら、見出しの下のリストから 1 つ選択します。
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
@@ -41,4 +40,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[個人追加レポートのカスタム列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[リードレポートへのカスタム列の追加](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
