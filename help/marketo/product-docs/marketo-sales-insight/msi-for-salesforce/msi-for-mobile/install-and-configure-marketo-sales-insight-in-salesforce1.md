@@ -1,60 +1,57 @@
 ---
 unique-page-id: 7511512
-description: Salesforce1 -Marketoドキュメント — 製品ドキュメントでのMarketo販売インサイトのインストールと設定
-title: Salesforce1でのMarketo販売インサイトのインストールと設定
+description: Salesforce1 での Marketo Sales Insight のインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce1 での Marketo Sales Insight のインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Salesforce1でのMarketo販売インサイトのインストールと設定{#install-and-configure-marketo-sales-insight-in-salesforce}
+# Salesforce1 での Marketo Sales Insight のインストールおよび設定 {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
 >
->既存のお客様は、[MSIパッケージを](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)アップグレードしてから、続行してください。
+>既存のお客様の場合は、続ける前に [MSI パッケージをアップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)してください。
 
 >[!PREREQUISITES]
 >
->Salesforce Enterprise/Unlimitedをお持ちの場合：
+>Salesforce Enterprise／Unlimited をお持ちの場合：
 >
->* [手順1/3:Salesforce追加へのMarketoフィールド(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順2/3:Marketo向けSalesforceユーザーの作成(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [手順3/3:MarketoとSalesforceの接続(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [Salesforce EnterpriseでのMarketo販売インサイトの設定/無制限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順 2／3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 3／3：Marketo と Salesforce の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 >
+>Salesforce Professional をお持ちの場合：
 >
-Salesforce Professionalをお持ちの場合：
->
->* [Salesforce Professional EditionでのMarketo販売インサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
 >
-
 
 
 >[!NOTE]
 >
->Salesforce1のMarketoセールスインサイトには、次の機能が含まれます。ベストベット、リードフィード、おもしろい瞬間、追加Marketoキャンペーンへ。
+>Marketo Salesforce1 の Sales Insight には、最有望見込客、リードフィード、注目のアクション、Marketo キャンペーンに追加の各機能が含まれます。
 
-## Salesforce1モバイルアプリを有効にする{#enable-the-salesforce1-mobile-app}
+## Salesforce1 モバイルアプリを有効にする {#enable-the-salesforce1-mobile-app}
 
-1. 「**セットアップ**」をクリックし、「**モバイル管理**」をクリックします。
+1. **設定**／**モバイル管理**&#x200B;をクリックします。
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. **Salesforce1**&#x200B;をクリックします。
+1. 「**Salesforce1**」をクリックします。
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. **Salesforce1設定**&#x200B;をクリックします。
+1. 「**Salesforce1 設定**」をクリックします。
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. 「**Salesforce1モバイルブラウザアプリを有効にする**」をクリックします。
+1. 「**Salesforce1 モバイルブラウザーアプリを有効にする**」をクリックします。
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -70,17 +67,17 @@ Salesforce Professionalをお持ちの場合：
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. **Marketo**&#x200B;を選択し、**追加**&#x200B;を&#x200B;**選択した**&#x200B;メニュー項目に追加します。
+1. 「**Marketo**」を選択して、**選択済み**&#x200B;メニュー項目に&#x200B;**追加**&#x200B;します。
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. **Marketo**&#x200B;を選択し、**上**&#x200B;を目的の領域に移動して、**保存**&#x200B;をクリックします。
+1. 「**Marketo**」を選択して、目的の領域まで&#x200B;**上**&#x200B;に移動し、「**保存**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
-## 古いMarketoカスタムオブジェクトを非表示{#hide-outdated-marketo-custom-object}
+## 古い Marketo カスタムオブジェクトを非表示にする {#hide-outdated-marketo-custom-object}
 
-1. 「**セットアップ**」をクリックします。
+1. 「**設定**」をクリックします。
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
@@ -88,87 +85,87 @@ Salesforce Professionalをお持ちの場合：
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. **プロファイル**&#x200B;を選択します。
+1. 「**プロファイル**」を選択します。
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. 目的のプロファイルを&#x200B;**編集**&#x200B;します。
+1. 任意の目的のプロファイルをクリックして&#x200B;**編集**&#x200B;します。
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. 「**タブ設定**」で、_最初の_ **Marketo**&#x200B;を選択します。
+1. 「**タブ設定**」で&#x200B;_1 番目の_「**Marketo**」を選択します。
 
    ![](assets/image2015-5-5-13-3a55-3a36.png)
 
-1. 「**タブ隠す**」を選択します。
+1. 「**非表示タブ**」を選択します。
 
    ![](assets/image2015-5-5-14-3a2-3a29.png)
 
    >[!NOTE]
    >
-   >必ず、目的のプロファイルの「Marketo」タブを非表示にしてください。
+   >必要なすべてのプロファイルに対して、「Marketo」タブを必ず非表示にします。
 
-## タブのカスタマイズ{#customize-tabs}
+## タブのカスタマイズ {#customize-tabs}
 
-1. クリック **+**.
+1. 「**+**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. 「**マイタブのカスタマイズ**」をクリックします。
+1. 「**マイタブをカスタマイズ**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. **Marketo**&#x200B;を選択し、**追加**&#x200B;を選択して、[選択されたタブ]に表示します。
+1. 「**Marketo**」を選択して、選択済みタブに&#x200B;**追加**&#x200B;します。
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. **Marketo**&#x200B;を選択し、**上**&#x200B;を目的の領域に移動して、**保存**&#x200B;をクリックします。
+1. 「**Marketo**」を選択して、目的の領域まで&#x200B;**上**&#x200B;に移動し、「**保存**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
-## ページレイアウトのカスタマイズ{#customize-page-layouts}
+## ページレイアウトのカスタマイズ {#customize-page-layouts}
 
-1. 「**セットアップ**」をクリックします。
+1. 「**設定**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. 「**セットアップ**」をクリックし、「**ページレイアウト**」と入力し、「リード」の下の「**ページレイアウト**」をクリックします。
+1. 「**設定**」をクリックして、「**ページレイアウト**」と入力して「リード」の「**ページレイアウト**」をクリックします。
 
    >[!NOTE]
    >
-   >貴社が使用するすべてのページレイアウト（マーケティング、販売など）に対して手順を繰り返します。 Contact、AccountおよびOpportunityオブジェクトの場合。
+   >取引先責任者、アカウント、商談の各オブジェクトに対して、組織が使用するすべてのページレイアウト（マーケティング、セールスなど）で手順を繰り返します。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. 「**編集**」をクリックして、リードのレイアウトを変更します。
+1. 「**編集**」をクリックして、リードレイアウトを変更します。
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. 「**Visualforceページ**」をクリックし、「**モバイルを**&#x200B;リード」を「モバイルカード」セクションにドラッグします。
+1. 「**Visualforce ページ**」をクリックして、**リードモバイル**&#x200B;をモバイルカードセクションにドラッグします。
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. 「高さ」を66に変更し、「**OK**」をクリックします。
+1. 「高さ」を 66 に変更し、「**OK**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 「**フィールド**」をクリックし、**追加をMarketoキャンペーン**&#x200B;に&#x200B;**Marketo販売インサイト**&#x200B;セクションにドラッグします。
+1. 「**フィールド**」をクリックして、「**Marketo キャンペーンに追加**」を **Marketo Sales Insight** セクションにドラッグします。
 
    ![](assets/configure-step-6.png)
 
    >[!TIP]
    >
-   >クイックフィンドに「追加to」と入力すると、Marketoキャンペーン追加を簡単に見つけることができます。
+   >クイック検索に「Add to」と入力すると、Marketo キャンペーンに簡単に追加できます。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-フィー！ Salesforce1用のMarketoセールスインサイトのインストールが完了しました。 後ろを軽く叩いてみなさい。
+もう少しです。Salesforce1 での Marketo Sales Insight のインストールが完了しました。これで安心です。
 
 >[!MORELIKETHIS]
 >
->* [Salesforceのベストベット1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
->* [Salesforce1の興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [SalesforceでのMarketo電子メール、キャンペーンおよびウォッチリストのアクションの送信1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce1 での最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce1 での注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
