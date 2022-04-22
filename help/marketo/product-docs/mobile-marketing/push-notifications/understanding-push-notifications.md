@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7511518
-description: プッシュ通知について —Marketoドキュメント — 製品ドキュメント
+description: プッシュ通知について - Marketo ドキュメント - 製品ドキュメント
 title: プッシュ通知について
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プッシュ通知について{#understanding-push-notifications}
+# プッシュ通知について {#understanding-push-notifications}
 
 >[!NOTE]
 >
->アプリ内メッセージは、アドオンのアプリです。 Marketoのアカウントマネージャーに確認し、アクティブ化されていることを確認します。
+>アプリ内メッセージは、アドオンアプリケーションです。Marketo のアカウントマネージャーに問い合わせて、アクティベートされていることを確認します。
 
-Marketoのモバイルエンゲージメントを使用すると、電子メールの作成と同様に、通知を作成、設定および送信できます。  モバイルアプリからプッシュ通知を作成して送信する前に、いくつかの設定を行うには、Marketoの管理者とモバイルアプリ開発者が必要です。
+Marketo モバイルエンゲージメントを使用すると、メールの作成と同様に、通知を作成、設定、送信できます。モバイルアプリ用のプッシュ通知を作成して送信する前に、Marketo 管理者とモバイルアプリデベロッパーが設定をおこなう必要があります。
 
 >[!CAUTION]
 >
->プッシュ通知はアドオンであり、開始する前にMarketo管理者がオンにする必要があります。
+>プッシュ通知はアドオンで、開始する前に Marketo 管理者が有効にする必要があります。
 
-## 手順1:管理者と開発者が初期設定を実行{#step-admin-and-developer-perform-initial-setups}
+## 手順 1：管理者および開発者による初期設定の実行 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo管理者とモバイルアプリの開発者が協力して設定を行います。 詳しくは、[プッシュ通知とアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
+Marketo Admin とモバイルアプリの開発者が連携して設定をおこないます。詳しくは、[プッシュ通知およびアプリ内メッセージを作成する前に](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
-## 手順2:プッシュ通知の作成{#step-create-a-push-notification}
+## 手順 2：プッシュ通知を作成する {#step-create-a-push-notification}
 
-[AndroidおよびiOSデバイスでの](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) メッセージやプレビューの表示方法を確認します。
+[メッセージを作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)して Android および iOS デバイスでの表示をプレビューできます。
 
-## 手順3:送れ！{#step-send}
+## 手順 3：送信する {#step-send}
 
-[プッシュ通知は、トリガーおよびバッチスマートキャンペーンを](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) 使用して送信できます。かっこいいだろ？
+トリガーおよびバッチスマートキャンペーンの使用して[プッシュ通知を送信できます](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)。簡単ですね。
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
 >[!NOTE]
 >
->* アプリが少なくとも1回開かれるまで、画面にプッシュ通知は表示されません。
->* iOSアプリでは、プッシュメッセージを受信するように指定されたアプリが開いていてアクティブな場合、プッシュ通知は画面に表示されません。 代わりに、アプリのローカル通知領域にメッセージが表示されます。
+>* アプリが少なくとも 1 回開かれるまで、プッシュ通知は画面に表示されません。
+>* iOS アプリの場合、プッシュメッセージを受信するように指定されたアプリケーションが開いていてアクティブな場合、プッシュ通知は画面に表示されません。代わりに、アプリのローカル通知領域にメッセージが表示されます。
 
