@@ -1,15 +1,15 @@
 ---
-description: Salesforce Classic に一括アクションボタンを追加する — Marketoドキュメント — 製品ドキュメント
-title: Salesforce Classic に一括アクションボタンを追加
+description: Salesforce Classic への一括アクションボタンの追加 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce Classic への一括アクションボタンの追加
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# Salesforce Classic に一括アクションボタンを追加{#add-bulk-action-buttons-to-salesforce-classic}
+# Salesforce Classic への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
 
 Salesforce レイアウトに Marketo ボタンを追加できます。次に例を示します。
 
