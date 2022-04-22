@@ -1,77 +1,76 @@
 ---
 unique-page-id: 10100649
-description: アプリ内メッセージのバックグラウンドの設定 —Marketoドキュメント — 製品ドキュメント
+description: アプリ内メッセージの背景の設定 - Marketo ドキュメント - 製品ドキュメント
 title: アプリ内メッセージの背景の設定
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# アプリ内メッセージの背景の設定{#set-up-the-in-app-message-background}
+# アプリ内メッセージの背景の設定 {#set-up-the-in-app-message-background}
 
-メッセージの背景を選択することは、アプリ内メッセージを終了する上で重要な手順です。
+メッセージの背景の選択は、アプリ内メッセージを完了するための重要な手順です。
 
 >[!TIP]
 >
->背景画像の場合は、テクスチャとグラデーションが最適です。
+>背景画像の場合、テクスチャとグラデーションは通常最も効果的です。
 
 1. エディターで、背景領域をクリックします。
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. 色を設定するには、[**色**]をクリックし、色選択正方形をクリックします。 色を選択するには、色をクリックするか、カラーピッカーで16進数またはRGBコードを入力します。
+1. 色を設定するには、「**カラー**」を選択し、次にカラー選択の四角形を選択します。色を選択するには、色をクリックするか、カラーピッカーで 16 進数または RGB コードを入力します。
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
    >[!NOTE]
    >
-   >通常は白（デフォルト）が推奨結果です。
+   >通常は白（デフォルト）が好まれます。
 
-1. 背景を使用する場合は、「**画像**」をクリックし、「**画像を選択**」リンクをクリックします。
+1. 背景を使用する場合は、「**画像**」をクリックしてから「**画像を選択**」リンクをクリックします。
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Design Studioにアップロードされたファイルから選択します。 「****&#x200B;を選択」をクリックします。
+1. Design Studio にアップロードされたファイルから選択します。「**選択**」をクリックします。
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >画像サイズは1440 x 2560ピクセル、5MBに制限されています。
+   >画像サイズは 1440 x 2560 px および 5 MB に制限されます。
 
-1. 結果を評価します。 プレーンカラー、テクスチャ、またはグラデーションを適切に使用できます。
+1. 結果を評価します。プレーンカラーかテクスチャかグラデーションの方が良いかもしれません。
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. オプションで画像の境界線を適用します。 デフォルト設定は&#x200B;**オフ**&#x200B;です。 まず、色をクリックするか、カラーピッカーで16進数またはRGB数値を入力して、色を選択します。
+1. オプションの画像の境界線を適用します。デフォルト設定は&#x200B;**オフ**&#x200B;です。まず、色をクリックするか、カラーピッカーで 16 進数または RGB 番号を入力して、色を選択します。
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
-1. 矢印をクリックして、境界線の幅を変更します。 この12ピクセル幅の緑の境界線は、アプリ内メッセージの外観を変更します。
+1. 矢印をクリックして境界線の太さを変更します。この 12 ピクセル幅の緑の境界線で、アプリ内メッセージの外観が変わります。
 
    ![](assets/image2016-5-9-9-3a58-3a38.png)
 
-1. スライダを使用して角丸の半径を選択します。 左から右の位置を選択します。0、4、8、12または16ピクセル。 初期設定は、8ピクセル（中央）の選択です。
+1. スライダーを使用して角丸の半径を選択します。左から右の位置（0、4、8、12 または 16 ピクセル）を選択します。8 ピクセル（中央）の選択がデフォルトです。
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 背景のタップ操作を設定する場合は、このチェックボックスをオンにします（デフォルトではオフ）。
+1. 背景のタップアクションを設定する場合は、このチェックボックスをオンにします（デフォルトではオフ）。
 
    ![](assets/image2016-5-9-10-3a6-3a10.png)
 
    >[!NOTE]
    >
-   >背景のタップアクションについては、AppleプラットフォームとAndroidプラットフォームで異なるアクションを設定できます。 例えば、ディープリンクの処理方法がAppleとAndroidでは異なるとします。 メッセージの送信先のプラットフォームが1つだけの場合は、もう1つのプラットフォームをデフォルトの設定のままにするか、「**なし**」を選択します。
+   >背景のタップアクションの場合、Apple および Android プラットフォーム用に様々なアクションを設定できます。例えば、ディープリンクの処理は Apple と Android で異なります。メッセージの送信先が 1 つのプラットフォームのみの場合は、もう 1 つのプラットフォームをデフォルト設定のままにするか、「**なし**」を選択します。
 
-   ジョブを終了するには、最後のステップは[[解除]ボタン](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)を設定することです。
+   ジョブを完了するには、最後の手順は[「却下」ボタンの設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)です。
 
    >[!MORELIKETHIS]
    >
    >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [アプリ内メッセージの送信](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [アプリ内メッセージのレイアウトの選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
