@@ -14,7 +14,7 @@ ht-degree: 100%
 
 [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)をカスタム列として使用すると、リードレポートで指標をさらにフィルターできます。
 
-1. **マーケティングアクティビティ**（または **Analytics** エリア）に移動します。
+1. **マーケティング活動**（または **Analytics** エリア）に移動します。
 
    ![](assets/ma-1.png)
 
