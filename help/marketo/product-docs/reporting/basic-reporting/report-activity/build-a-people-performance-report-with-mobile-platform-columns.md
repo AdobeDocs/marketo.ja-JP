@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: モバイルプラットフォームの列があるリード効果レポートを作成する — Marketo ドキュメント — 製品ドキュメント
 title: モバイルプラットフォームの列があるリード効果レポートを作成する
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '291'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## モバイルのスマートリストを作成する {#create-mobile-smart-lists}
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **マーケティング活動**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 ## リード効果レポートを作成する {#create-a-people-performance-report}
 
-1. 「マーケティングアクティビティ」で、**iOS** と **Android** のスマートリストがあるプログラムを選択します。
+1. 「マーケティング活動」で、**iOS** と **Android** のスマートリストがあるプログラムを選択します。
 
    ![](assets/ten.png)
 
