@@ -1,33 +1,32 @@
 ---
 unique-page-id: 10100644
-description: アプリ内メッセージボタンの設定 —Marketoドキュメント — 製品ドキュメント
-title: アプリ内メッセージボタンの設定
+description: アプリ内メッセージボタンの設定 - Marketo ドキュメント - 製品ドキュメント
+title: アプリ内メッセージのボタンの設定
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# アプリ内メッセージボタンの設定{#set-up-the-in-app-message-button}
+# アプリ内メッセージのボタンの設定 {#set-up-the-in-app-message-button}
 
-デフォルトのボタンデザインを使用したり、変更したり、独自のカスタムボタン画像をアップロードしたりできます。
+デフォルトのボタンデザインを使用したり変更したり、独自のカスタムボタン画像をアップロードしたりできます。
 
-1. ボタンをクリックして、編集用の「スタイル」タブを開きます。
+1. 編集するには、ボタンをクリックして、「スタイル」タブを開きます。
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. 標準ボタンの色を変更するには、**色**&#x200B;ボタンをクリックします。
+1. 標準ボタンの色を変更するには、「**カラー**」ボタンをクリックします。
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. 色選択四角形をクリックし、ボタンの色をクリックするか、カラーピッカーで16進数またはRGB数値を入力して選択します。
+1. 色選択の四角形をクリックし、ボタンをクリックするか、カラーピッカーで 16 進数または RGB 番号を入力して、ボタンの色を選択します。
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
-1. ドロップダウンで図形を選択します。 標準的な形状には、鋭い角、丸い角、グラデーションがあります。
+1. ドロップダウンで形状を選択します。標準の形状には、ピン角、丸角、グラデーションが含まれます。
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
@@ -41,9 +40,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >ボタンのカスタム画像を配置する場合、既に画像にテキストが含まれている場合は、その上に配置されたプレースホルダーテキストをクリアすることを検討してください。
+   >ボタンのカスタム画像の配置時は、画像に既にテキストが含まれている場合はその上に配置されたプレースホルダーテキストを消去することを検討してください。
 
-1. 色選択四角形をクリックし、フォントの色をクリックするか、カラーピッカーで16進数またはRGB数値を入力して選択します。
+1. 色選択の四角形をクリックし、クリックするか、カラーピッカーで 16 進数または RGB 番号を入力して、フォントの色を選択します。
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -51,15 +50,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 強調するフォントスタイルを選択：**太字**、_斜体_、または下線。
+1. 強調のフォントスタイル（**太字**、_斜体_、下線）を選択します。
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
-1. ボタンのテキストをクリックして、インラインで編集します。
+1. ボタンのテキストをクリックすると、インラインで編集できます。
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. ボタンのタップ操作を設定する場合は、チェックボックスをオンにします。
+1. ボタンのタップアクションを設定するには、チェックボックスをオンにします。
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
@@ -69,12 +68,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >ボタンには常にタップ操作があるので、「タップ操作」チェックボックスが自動的に選択され、デフォルトのメッセージは「メッセージを閉じる」になります。
+   >ボタンには常にタップアクションがあるので、「タップアクション」チェックボックスが自動的に選択され、デフォルトのメッセージには「メッセージを閉じる」と表示されます。
 
-もう少しで。 最後の手順は、[アプリ内メッセージの背景を設定し、ボタン](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)を閉じます。
+もう少しです。最後に、[アプリ内メッセージのバックグラウンドと「閉じる」ボタンを設定します。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [アプリ内メッセージのレイアウトを選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [アプリ内メッセージのレイアウトの選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
