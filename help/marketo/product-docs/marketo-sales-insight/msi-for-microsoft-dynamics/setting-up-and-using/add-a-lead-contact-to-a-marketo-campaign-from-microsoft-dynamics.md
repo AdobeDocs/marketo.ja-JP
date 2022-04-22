@@ -14,7 +14,7 @@ ht-degree: 100%
 
 Microsoft Dynamics 内から直接、Marketo のスマートキャンペーンにリードや連絡先を素早く簡単に追加できます。手順は以下のとおりです。
 
-1. Dynamics で、**セールス**&#x200B;エリアに移動します。
+1. Dynamics で、**セールス**&#x200B;領域に移動します。
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
