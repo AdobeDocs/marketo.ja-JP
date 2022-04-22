@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10099408
-description: メールインサイトの概要 — Marketo ドキュメント — 製品ドキュメント
+description: メールインサイトの概要 - Marketo ドキュメント - 製品ドキュメント
 title: メールインサイトの概要
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
