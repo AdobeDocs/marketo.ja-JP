@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360199
-description: リードレポートを属性別にグループ化する — Marketo ドキュメント — 製品ドキュメント
+description: リードレポートを属性別にグループ化する - Marketo ドキュメント - 製品ドキュメント
 title: リードレポートを属性別にグループ化する
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 リードレポートをリード別、または企業属性別にグループ化できます。
 
-1. **マーケティングアクティビティ**（または **Analytics** エリア）に移動します。
+1. **マーケティング活動**（または **Analytics** エリア）に移動します。
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
@@ -44,4 +44,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[リードレポートにカスタム列を追加する](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[リードレポートへのカスタム列の追加](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
