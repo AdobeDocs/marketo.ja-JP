@@ -14,7 +14,7 @@ ht-degree: 100%
 
 特定の[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)を基準にして、[キャンペーンアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を絞り込みます。
 
-1. **マーケティングアクティビティ**（または&#x200B;**アナリティクス**）エリアに移動し、キャンペーンアクティビティレポートを選択します。
+1. **マーケティング活動**（または&#x200B;**アナリティクス**）エリアに移動し、キャンペーンアクティビティレポートを選択します。
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[メールの効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[キャンペーンメールの効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
