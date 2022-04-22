@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: レポートを複製する - Marketo ドキュメント - 製品ドキュメント
 title: レポートを複製する
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 レポートの複製を作成すると、元のレポートを変更せずにカスタマイズすることができます。
 
-1. **マーケティングアクティビティ**（または **Analytics**）エリアに移動します。
+1. **マーケティング活動**（または **Analytics**）エリアに移動します。
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
@@ -34,4 +34,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[スマートリストを使ってレポートでリードをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[スマートリストを使用したレポートでのリードのフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
