@@ -1,58 +1,57 @@
 ---
 unique-page-id: 12979006
-description: パフォーマンスインサイトの概要 —Marketoドキュメント — 製品ドキュメント
+description: パフォーマンスインサイトの概要 - Marketo ドキュメント - 製品ドキュメント
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# パフォーマンスインサイトの概要{#performance-insights-overview}
+# パフォーマンスインサイトの概要 {#performance-insights-overview}
 
-Marketoパフォーマンスインサイトは、チャネルミックスを最大限の効果に最適化するために最適化すると共に、一貫性のある勝者戦略を見つけるための長期的な傾向を明らかにするのに役立ちます。
+Marketo のパフォーマンスインサイトは、チャネルの組み合わせを最大限の効果に最適化し、長期的なトレンドを明らかにして、一貫した成功戦略を見つけ出すのに役立ちます。
 
 >[!AVAILABILITY]
 >
->パフォーマンスインサイト機能を持つ顧客はいません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>すべての顧客がパフォーマンスインサイト機能を持っているわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
-パフォーマンスインサイトは、過去24か月間（最大）のデータを読み込みます。 これには、現在の年累計データと前年のデータが含まれます。例えば、2019年1月31日にMPIは2018年から毎月、その月のデータを読み込みます。 2019年12月31日、MPI社は2019年と2018年の毎月のデータを読み込む。
+パフォーマンスインサイトは、最大過去 24 か月のデータを読み込みます。これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
 
-パフォーマンスインサイトにアクセスするには、Analyticsのホーム画面でそのアイコンをクリックします。
+パフォーマンスインサイトにアクセスするには、分析ホーム画面でパフォーマンスインサイトのアイコンをクリックします。
 
 ![](assets/one.png)
 
 ## 貢献度 {#contribution}
 
-顧客の獲得、影響、コンバージョン、さらには導入ベースの成長の機能として、マーケティングの売上高[貢献度](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)を評価します。
+マーケティングの[収入への貢献](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)を顧客の獲得、影響、コンバージョン、さらにはインストールされたベースの増加の機能として評価します。
 
 ![](assets/two.png)
 
-デフォルトでは、表示されるデータはエンゲージメント別のパフォーマンスを反映します。 パフォーマンスは、パイプラインまたは売上高別に切り替えるには、いずれかをクリックします。
+デフォルトでは、表示されるデータは、エンゲージメント別のパフォーマンスを反映しています。いずれかをクリックするだけで、パイプラインまたは売上高別のパフォーマンスに切り替えることができます。
 
 ![](assets/3.png)
 
 ## トレンド {#trend}
 
-[長期的な傾向](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md)を明らかにして、一貫した勝者戦略を示します。
+[長期的な動向](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md)を特定して一貫性のある勝者戦略を見つけ出します。
 
 ![](assets/4.png)
 
 ## 設定 {#settings}
 
-売上高とパイプラインダッシュボードで、[設定](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md)アイコンをクリックして、追加のパラメーターを設定します。
+売上高およびパイプラインダッシュボードで、[設定](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md)アイコンをクリックして、追加のパラメーターを設定します。
 
 ![](assets/5.png)
 
 ## データのエクスポート {#export-data}
 
-データとグラフは、PowerPointまたはExcelでエクスポートできます。 また、[クイックグラフ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)として保存することもできます。
+PowerPoint または Excel でデータとグラフをエクスポートできます。また、[クイックチャート](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)として保存することもできます。
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->データをExcelにエクスポートし、（上位10人だけでなく）すべてのチャネルが利用できるデータを確認します。 PPTの書き出しはWYSIWYGになります（出力は画面の表示と同じ画面になります）。
+>データを Excel にエクスポートして、（上位 10 件だけでなく）すべてのチャネルで使用できるデータを確認します。PPT 書き出しは WYSIWYG です（出力は画面に表示される内容を模倣します）。
