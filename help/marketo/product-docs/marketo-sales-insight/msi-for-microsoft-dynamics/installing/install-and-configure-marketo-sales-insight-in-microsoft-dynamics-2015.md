@@ -3,7 +3,7 @@ unique-page-id: 7513865
 description: Marketo Sales Insight の Microsoft Dynamics 2015 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の Microsoft Dynamics 2015 へのインストールと設定
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '442'
 ht-degree: 100%
@@ -84,7 +84,7 @@ Marketo インスタンスを Dynamics の Sales Insight に接続します。�
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Sales Insight セクションで、「**API 設定を編集**」をクリックします。
+1. 「Sales Insight」セクションで、「**API 設定を編集**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
@@ -103,6 +103,7 @@ Marketo インスタンスを Dynamics の Sales Insight に接続します。�
    >* 優先度
    >* 緊急度
    >* 相対スコア
+
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
