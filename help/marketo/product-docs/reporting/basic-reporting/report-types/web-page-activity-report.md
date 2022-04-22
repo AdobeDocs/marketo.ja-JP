@@ -1,93 +1,92 @@
 ---
 unique-page-id: 2359971
-description: ウェブページアクティビティレポート —Marketoドキュメント — 製品ドキュメント
-title: ウェブページアクティビティレポート
+description: Web ページアクティビティレポート - Marketo ドキュメント - 製品ドキュメント
+title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '331'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# ウェブページアクティビティレポート{#web-page-activity-report}
+# Web ページアクティビティレポート {#web-page-activity-report}
 
-このレポートでは、Webサイトの訪問者を確認したり、レポートの電子メール版を購読したりできます。
+このレポートでは、web サイトを訪問しているリードや、レポートのメールバージョンを購読しているリードを確認できます。
 
-既知の人または匿名の人を同じレポートに表示するように選択できますが、両方の種類を同じレポートに表示することはできません。
+既知のリードと匿名のリードのどちらを表示するかを選択できますが、同じレポートで両方を選択することはできません。
 
 >[!PREREQUISITES]
 >
->* [Munchkin追加追跡コードをWebサイトに送信](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [レポートを作成し、「](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Webページアクティビティレポート」 **のタイプを選択します** [](report-type-overview.md)。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)して、**web ページアクティビティレポート**[レポートタイプ](report-type-overview.md)を選択します。
 
-1. 既知または匿名の人物](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)をレポートに[表示するように選択します。
+1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
 
-1. [レポートの時間枠を設定し、「](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) レポート」タブをクリックし **** ます。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
 
-1. 分かった！ レポートを確認して、サイトの訪問者を確認します。
+1. 完成です。レポートをレビューして、サイトの訪問者を確認します。
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
 
    >[!NOTE]
    >
-   >データがウェブページアクティビティレポートに反映されるまでに最大24時間かかる場合があります。
+   >データが web ページのアクティビティレポートに反映されるまでに最大 24 時間かかる場合があります。
 
    >[!TIP]
    >
-   >サイトの訪問者を最も多く知るには、[「_ページ表示_」列でレポート](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を並べ替え、「並べ替え」を降順選択します。
+   >サイトを最も多く訪問したリードを見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「降順に並べ替え」を選択します。
 
-   [Marketoは](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 匿名Webサイトの訪問者をデータベースに追加し、このレポートで表示するように選択できます。匿名でも豊富な情報を提供します\
-   [ウェブページのアクティビティレポートで](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 選択できる列は次のとおりです。
+   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。\
+   Web ページアクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
 
 <table> 
  <thead> 
   <tr> 
    <th>列</th> 
-   <th>詳細</th> 
+   <th>説明</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>担当者</td> 
-   <td>訪問者の名前、タイトルおよび会社。<br><strong>表示</strong> 担当者の詳細とアクティビティの履歴をクリックします。</td> 
+   <td>顧客</td> 
+   <td>訪問者の名前、役職および会社。<br><strong>クリック</strong>すると、リードの詳細とアクティビティ履歴が表示されます。</td> 
   </tr> 
   <tr> 
-   <td>初回/最終訪問（タイムゾーン）</td> 
-   <td>この会社からの最初/最後の訪問の日時。</td> 
+   <td>初回／最終訪問（タイムゾーン）</td> 
+   <td>この会社からの誰かによる最初／最後の訪問の日時。</td> 
   </tr> 
   <tr> 
    <td>ページ表示</td> 
-   <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">訪問されたページを</a></strong> クリックして表示します。</td> 
+   <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">クリック</a></strong>すると、訪問されたページが表示されます。</td> 
   </tr> 
   <tr> 
    <td>HTTP 照会元</td> 
-   <td>訪問者がページにアクセスしたリンクを含むページのURL。</td> 
+   <td>訪問者がページにたどったリンクを含むページの URL。</td> 
   </tr> 
   <tr> 
-   <td>エントリ ページ</td> 
-   <td>訪問者が最初に訪問したページ </td> 
+   <td>エントリページ</td> 
+   <td>訪問者が訪問した最初のページ </td> 
   </tr> 
   <tr> 
    <td>推測される企業あるいは ISP</td> 
-   <td>訪問者のIPアドレスから推測される会社。 <strong>太字の名前は、これが会社であり、ISPではありません。</strong>  </td> 
+   <td>訪問者の IP アドレスから推測される会社。<strong>太字で表示された名前</strong>は、これが ISP ではなく会社であることを示します。 </td> 
   </tr> 
   <tr> 
-   <td>推定国、都道府県、地域、市町村</td> 
-   <td>訪問者のIPアドレスから推測される、ユーザーの地理的な位置。</td> 
+   <td>推測される国、都道府県／地域、市区町村</td> 
+   <td>訪問者の IP アドレスから推測される、訪問者の地理的な位置。</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!TIP]
 >
->セールス担当者をスリル！ [自分のテリトリの](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)レポートをフィルタし、 [登録します](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)。
+>セールス担当者が喜びます。セールスエリアで[レポートをフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)して[購読してもらいます。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
 >[!MORELIKETHIS]
 >
->* [表示されたWebページ、Webページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [Webレポートでの人または匿名訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [閲覧された web ページ、web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [Web レポートでのリードまたは匿名の訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
