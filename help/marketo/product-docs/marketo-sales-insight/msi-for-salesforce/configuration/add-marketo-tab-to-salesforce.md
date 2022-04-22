@@ -1,17 +1,17 @@
 ---
-description: Marketoタブを Salesforce に追加 — Marketoドキュメント — 製品ドキュメント
-title: Marketoタブを Salesforce に追加
+description: Salesforce への「Marketo」タブの追加 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce への「Marketo」タブの追加
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
-# Marketoタブを Salesforce に追加 {#add-marketo-tab-to-salesforce}
+# Salesforce への「Marketo」タブの追加 {#add-marketo-tab-to-salesforce}
 
-1. Salesforce で、 **+** をクリックし、 **マイタブのカスタマイズ**.
+1. Salesforce で、「**+**」をクリックして、「**タブをカスタマイズ**」をクリックします。
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
