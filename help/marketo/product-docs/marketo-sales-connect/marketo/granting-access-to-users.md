@@ -1,37 +1,38 @@
 ---
-description: ユーザーへのアクセスの許可 —Marketoドキュメント — 製品ドキュメント
-title: ユーザーへのアクセスの許可
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
-workflow-type: tm+mt
+description: ユーザーへのアクセス権の付与 - Marketo ドキュメント - 製品ドキュメント
+title: ユーザーへのアクセス権の付与
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ユーザーへのアクセスの許可{#granting-access-to-users}
+# ユーザーへのアクセス権の付与 {#granting-access-to-users}
 
-この記事の手順に従って、Sales ConnectのユーザにMarketo接続へのアクセスを許可します。 これにより、ライブフィードの注目の瞬間などの機能のロックが解除され、マーケティングキャンペーンにアクセスできます。
+この記事の手順に従って、Sales Connect ユーザーに Marketo 接続へのアクセス権を付与します。これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
 
-[販売] [接続]で[Marketo] > [チームアクセス]ページ（[販売接続]で）に表示される前に、[販売接続] [ここ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)にユーザを招待する必要があります。このページでは、Marketo接続へのアクセスが許可されます。
+ユーザーが Sales Connect の Marketo／チームアクセスページに表示されるには、[こちら](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)でユーザーを Sales Connect に招待する必要があります。
 
 >[!CAUTION]
 >
->Sales ConnectをMarketoに接続してから10分待ってから、これらの手順を実行してください。
+>Sales Connect を Marketo に接続し、10 分待ってから、以下の手順を実行してください。
 
-1. 1人または複数のユーザーを選択し、「**接続**」をクリックします。
+1. 1 人または複数のユーザーを選択し、「**接続**」をクリックします。
 
    >[!NOTE]
    >
-   >ワークスペースの割り当ては、ユーザーにアクセス権を付与する際に1回だけ実行できます。 設定後は、ユーザーの接続を切断して変更する必要があります。
+   >ユーザーにアクセス権を付与する際に 1 回だけ、ワークスペースの割り当てを実行できます。設定後、ユーザーを変更するには、ユーザーの接続を解除する必要があります。
 
    ![](assets/granting-access-to-users-1.png)
 
-1. Marketo購読でワークスペースが有効になっている場合、各ユーザーまたは一連のユーザーにワークスペースを一括して割り当てることができます。 ワークスペースが選択されていない場合は、デフォルトのMarketoワークスペースに割り当てます。
+1. Marketo サブスクリプションでワークスペースが有効になっている場合、ワークスペースを各ユーザーまたは一連のユーザーに一括で割り当てることができます。ワークスペースが選択されていない場合は、デフォルトの Marketo ワークスペースに割り当てます。
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. ワークスペースドロップダウンをクリックし、目的のワークスペースを選択して、**接続**&#x200B;をクリックします。
+1. 「ワークスペース」ドロップダウンをクリックし、目的のワークスペースを選択して、「**接続**」をクリックします。
 
    ![](assets/granting-access-to-users-3.png)
 
-チームの管理ページから追加のユーザーを追加し、上記の手順に従ってユーザーを接続できます。
+チーム管理ページから追加のユーザーを追加し、上記の手順に従ってユーザーを接続させることができます。
