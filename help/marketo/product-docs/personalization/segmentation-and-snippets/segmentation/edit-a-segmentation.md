@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: セグメント化を編集する - Marketo ドキュメント - 製品ドキュメント
 title: セグメント化を編集する
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
