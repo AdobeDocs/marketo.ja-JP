@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 96%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 96%
          + [「トラックしない」ブラウザーのサポート設定の編集](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
          + [レポートとアラートのリンク有効期限の編集](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [メール追跡リンクヘッダー](product-docs/administration/settings/email-tracking-link-headers.md)
          + [サブスクリプションの編集](product-docs/administration/settings/edit-subscription-settings.md)
          + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントでパーソナライズ URL を有効にする（管理)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
@@ -1319,7 +1320,7 @@ ht-degree: 96%
             + [Sales Insight のアクションには、iPhoneまたは Android アプリがありますか。](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Sales Insight のアクションをサ許可リストーバーにする方法を教えてください。](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce に接続する際に「リクエストを認証できませんでした」という問題を修正する方法を教えてください。](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
-            + [セルフビューを防ぐ方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [セルフビューを防ぐには](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置トラッキングの仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight のアクションは、メールの重複排除をどのように処理しますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [自分のアカウントから締め出されました。どうすればよいでしょうか。](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
@@ -1414,7 +1415,7 @@ ht-degree: 96%
             + [Sales Insight 権限セットの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Sales Insight アクセスの削除](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [プロファイルへの Sales Insight アクセスの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
-            + [Salesforce Classic への「一括アクション」ボタンの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Salesforce Classic への一括アクションボタンの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning での一括アクション](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + 機能 {#features}
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
