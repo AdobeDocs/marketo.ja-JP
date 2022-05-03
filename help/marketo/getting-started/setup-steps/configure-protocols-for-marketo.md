@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
-ht-degree: 72%
+source-wordcount: '1018'
+ht-degree: 69%
 
 ---
 
@@ -25,9 +25,7 @@ ht-degree: 72%
 >IT チームが許可リストを使用して Web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するように依頼してください。
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## 手順 1：ランディングページとメールの DNS レコードを作成する {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ ht-degree: 72%
 
 このプロセスが完了したら、マーケティングチームに通知します。
 
+`4` **連絡先 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} :SSL 証明書のプロビジョニングプロセスを開始します。**
+
+このプロセスは、完了するまで最大 3 営業日かかる場合があります。
+
 ## 手順 2：Marketo IP の許可リスト {#step-allowlist-marketo-ips}
 
 Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、Marketo 許可リストにを追加します。
@@ -72,7 +74,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 103.237.104.0/22\
 94.236.119.0/26
 
-一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。Marketo は複数のメールボックスサブドメインを使用するため、このような場合の最善の方法は「*.mktomail.com」を許可リストに追加することです。その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
+一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。この場合の最善の方法は、「 」をすることで許可リストす。&#42;Marketoが複数のメールボックスサブドメインを使用するので、 .mktomail.com&#39;と呼ばれます。 その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
 
 >[!NOTE]
 >
