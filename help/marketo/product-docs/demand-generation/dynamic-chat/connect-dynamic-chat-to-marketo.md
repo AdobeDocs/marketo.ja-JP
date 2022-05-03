@@ -2,10 +2,10 @@
 description: 動的チャットを Marketo に接続する - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 59%
+source-wordcount: '309'
+ht-degree: 55%
 
 ---
 
@@ -50,6 +50,10 @@ ht-degree: 59%
 ## アドビ組織と Marketo のリンク {#link-your-adobe-org-and-marketo}
 
 次に、アドビと Marketo をリンクする時です。
+
+>[!IMPORTANT]
+>
+>このマッピングを確立するMarketo Engageユーザーの電子メールアドレスは、接続中のAdobe組織にもアクセスできる必要があります。
 
 1. [experience.adobe.com](https://experience.adobe.com) にログインします。
 
