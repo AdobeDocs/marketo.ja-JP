@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
 workflow-type: tm+mt
 source-wordcount: '8728'
 ht-degree: 96%
@@ -580,7 +580,7 @@ ht-degree: 96%
          + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [個人アカウントの使用](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM 同期 {#veeva-crm-sync}
-         + [Veeva CRM 同期について](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + [Veeva CRM 同期について](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + セットアップ {#setup}
             + [手順 1/3:Marketoフィールドを Veeva CRM に追加](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [手順 2 / 3:Marketo Engage用の Veeva CRM ユーザーの作成](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
