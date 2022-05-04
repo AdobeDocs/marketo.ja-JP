@@ -2,9 +2,9 @@
 description: セールスキャンペーンの作成 — Marketoドキュメント — 製品ドキュメント
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 55%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 55%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. 次の場合 [メールの完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}{target=&quot;_blank&quot;}、 **追加**.
+1. 次の場合 [メールの完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}、 **追加**.
 
    ![](assets/create-a-sales-campaign-6.png)
 

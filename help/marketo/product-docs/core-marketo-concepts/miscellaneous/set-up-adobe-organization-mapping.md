@@ -3,10 +3,10 @@ unique-page-id: 42762511
 description: Adobe組織マッピングの設定 — Marketoドキュメント — 製品ドキュメント
 title: 組織マッピングAdobeの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 70%
+source-wordcount: '173'
+ht-degree: 60%
 
 ---
 
@@ -48,4 +48,4 @@ Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeア�
 
 1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。アドビ組織にログインします（このアクションで組織アクセスが検証されます）。
 
-これで完了です。Adobe Experience Cloud から[オーディエンスデータを共有する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)または[同期する](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)ことができるようになります。
+これで完了です。次の操作を実行できます。 [オーディエンスデータを共有](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} をまたは [オーディエンスを同期](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)Adobe Experience Cloudから {target=&quot;_blank&quot;}。
