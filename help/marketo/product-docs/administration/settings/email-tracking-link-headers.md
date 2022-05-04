@@ -1,13 +1,11 @@
 ---
 description: 電子メールトラッキングリンクヘッダー — Marketoドキュメント — 製品ドキュメント
 title: メール追跡リンクヘッダー
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 50%
+source-wordcount: '103'
+ht-degree: 26%
 
 ---
 
@@ -30,7 +28,7 @@ ht-degree: 50%
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>ランディングページへの接続が常に HTTPS 経由で提供されることを保証するには、これを使用します（SSL で保護されたランディングページを含むサブスクリプションに対してのみ設定する必要があります）。</td>
+  <td>トラッキングリンクが常に HTTPS 経由で提供されるようにするには、これを使用します（SSL で保護されたトラッキングリンクを持つ購読に対してのみ設定する必要があります）。</td>
  </tr>
 </table>
 
