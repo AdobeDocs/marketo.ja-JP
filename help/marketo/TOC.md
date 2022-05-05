@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
+source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
-source-wordcount: '8728'
-ht-degree: 96%
+source-wordcount: '8735'
+ht-degree: 95%
 
 ---
 
@@ -584,14 +584,16 @@ ht-degree: 96%
          + セットアップ {#setup}
             + [手順 1/3:Marketoフィールドを Veeva CRM に追加](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [手順 2 / 3:Marketo Engage用の Veeva CRM ユーザーの作成](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [手順 3 / 3:Marketo Engageと Salesforce の連携 (Professional)](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+            + [手順 3/3:Marketo Engageと Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同期の詳細 {#sync-details}
             + [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [カスタムオブジェクト同期](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
             + [デフォルトの Veeva フィールドマッピング](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
             + [カスタムオブジェクト同期の有効化／無効化](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
-            + [担当者アカウントの同期](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [担当者アカウント同期 FAQ](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
             + [通話と通話の主要メッセージの同期](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
-            + [Veeva CRM カスタムオブジェクト同期](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
+         + Veeva CRM フローアクション {#veeva-crm-flow-actions}
+            + [Veeva でタスクを作成](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
    + 需要創出 {#demand-generation}
       + 広告ネットワーク統合 {#ad-network-integrations}
          + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
