@@ -2,16 +2,16 @@
 description: 切替スイッチ - Marketo ドキュメント - 製品ドキュメント
 title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 82%
+source-wordcount: '354'
+ht-degree: 66%
 
 ---
 
 # 切替スイッチ {#toggle-switch}
 
-切替スイッチを使用すると、Marketo のクラシックインターフェイスと新しい次世代 Marketo Engage エクスペリエンスを切り替えることができます。ランディングページのリスト表示およびフォームの詳細ページで使用できます。
+切り替えスイッチを使用すると、Marketoのクラシックインターフェイスと次世代のMarketo Engageエクスペリエンスを切り替えることができます。 以下に示すすべての領域で使用できます。 2022 年 5 月のリリース以降、次世代エクスペリエンスはデフォルトで有効になります。
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ ht-degree: 82%
 
 ![](assets/toggle-switch-17.png)
 
-## すべての機能で有効化 {#enable-for-all-features}
+## メールテンプレートの詳細ビュー {#email-template-details-view}
 
-現在および今後提供されるすべての機能に対して、Marketo の次世代インターフェイスを有効にするオプションがあります。
-
-1. 現在切替スイッチを持つ領域（この例では[フォームの詳細ページ](#form-details-page)）で、ページの右下にある歯車アイコンをクリックします。
+1. Marketo で、**Design Studio** を選択します。
 
    ![](assets/toggle-switch-18.png)
 
-1. 「**使用可能なすべての機能で有効にする**」を選択して、「**OK**」をクリックします。
+1. 目的の E メールテンプレートを選択します。
 
    ![](assets/toggle-switch-19.png)
+
+1. ページの右下で、「**新しいエクスペリエンス**」切替スイッチをクリックします。
+
+   ![](assets/toggle-switch-20.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-21.png)
+
+## すべての機能で有効化 {#enable-for-all-features}
+
+現在および今後リリースされるすべての機能に対して、Marketoの次世代インターフェイスを手動で有効にすることもできます。
+
+1. 現在切替スイッチを持つ領域（この例では[フォームの詳細ページ](#form-details-page)）で、ページの右下にある歯車アイコンをクリックします。
+
+   ![](assets/toggle-switch-22.png)
+
+1. 「**使用可能なすべての機能で有効にする**」を選択して、「**OK**」をクリックします。
+
+   ![](assets/toggle-switch-23.png)
