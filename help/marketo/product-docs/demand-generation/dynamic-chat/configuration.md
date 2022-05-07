@@ -2,10 +2,10 @@
 description: 設定 - Marketo ドキュメント - 製品ドキュメント
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '287'
+ht-degree: 91%
 
 ---
 
@@ -56,6 +56,15 @@ ht-degree: 0%
 Web サイトにチャットボットを表示するには、まず Dynamic Chat JavaScript スニペットをインストールする必要があります。必要なコードを検索またはコピーするには、このタブをクリックしてください。この操作に慣れていない場合は、Web チームまたは IT 部門に問い合わせてください。
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>サイトでコンテンツセキュリティポリシーを利用する場合、chatbot が期待どおりに動作するには、次の URL をホワイトリストに登録する必要が生じる場合があります。
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
