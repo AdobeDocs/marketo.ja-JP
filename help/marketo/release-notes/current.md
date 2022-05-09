@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## ネイティブ CRM 統合 {#native-crm-integration}
 
-**ネイティブ Veeva CRM 統合（限定提供）**:ネイティブ統合により、Veeva CRM とMarketo Engageの間でアクティビティを同期することで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療の専門家向けに、よりパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加に関心がある場合は、カスタマーサクセスマネージャーにお問い合わせください。
+**[ネイティブ Veeva CRM 統合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} （使用が制限されている）**:ネイティブ統合により、Veeva CRM とMarketo Engageの間でアクティビティを同期することで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療の専門家向けに、よりパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加に関心がある場合は、カスタマーサクセスマネージャーにお問い合わせください。
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 2%
 
 **ダイナミックチャットの URL を除外**:ターゲット条件から特定の URL を除外する機能と共に、Dynamic Chat が表示される Web ページを制御します。
 
-**メールボットアクティビティフィルタリングの強化**:既存の IAB リストの一致識別に加えて、非表示リンクのユーザーエージェントまたは IP と近接性パターンに基づいてボットの動作を識別できるので、引き続きデータベースの正常性を保護します。 ボットアクティビティの統計を表示して、各タイプで識別されたボットアクティビティの数を把握できます。
+**[メールボットアクティビティフィルタリングの強化](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**:既存の IAB リストの一致識別に加えて、非表示リンクのユーザーエージェントまたは IP と近接性パターンに基づいてボットの動作を識別できるので、引き続きデータベースの正常性を保護します。 ボットアクティビティの統計を表示して、各タイプで識別されたボットアクティビティの数を把握できます。
 
-**メールトラッキングリンクの STS ヘッダー**:セキュリティのベストプラクティスに従い、セキュリティで保護されたトランスポートセキュリティヘッダーを適用して、トラッキングされるリンクへのトラフィックが常にセキュリティで保護されるようにします。
+**[メールトラッキングリンクの STS ヘッダー](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**:セキュリティのベストプラクティスに従い、セキュリティで保護されたトランスポートセキュリティヘッダーを適用して、トラッキングされるリンクへのトラフィックが常にセキュリティで保護されるようにします。
 
 ## 次世代のエクスペリエンス {#next-generation-experience}
 
