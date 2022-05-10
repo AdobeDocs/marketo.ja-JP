@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '8735'
+source-wordcount: '8740'
 ht-degree: 95%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 95%
          + [Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+         + [Adobe IDでのユーザーログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + 設定 {#settings}
          + [分析用アトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo パスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
@@ -584,7 +585,7 @@ ht-degree: 95%
          + セットアップ {#setup}
             + [手順 1/3:Marketoフィールドを Veeva CRM に追加](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [手順 2 / 3:Marketo Engage用の Veeva CRM ユーザーの作成](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [手順 3/3:Marketo Engageと Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
+            + [手順 3 / 3:Marketo Engageと Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同期の詳細 {#sync-details}
             + [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [カスタムオブジェクト同期](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)

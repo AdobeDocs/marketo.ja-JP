@@ -3,10 +3,10 @@ unique-page-id: 42762511
 description: Adobe組織マッピングの設定 — Marketoドキュメント — 製品ドキュメント
 title: 組織マッピングAdobeの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 51%
 
 ---
 
@@ -17,6 +17,10 @@ Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeア�
 >[!NOTE]
 >
 >Marketo インスタンスの HIPAA 対応デプロイメントでは、この統合を使用できません。
+
+>[!CAUTION]
+>
+>AdobeビジネスプラットフォームとIdentity Managementシステムにオンボーディングされた顧客の場合、サブスクリプションに関連付けられている組織 ID は既に入力されており、読み取り専用フィールドになります。
 
 1. Marketo で、「**管理者**」をクリックします。
 

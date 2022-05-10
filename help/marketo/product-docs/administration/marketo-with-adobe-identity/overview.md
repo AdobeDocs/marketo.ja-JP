@@ -2,10 +2,10 @@
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
-ht-degree: 68%
+source-wordcount: '1056'
+ht-degree: 65%
 
 ---
 
@@ -34,7 +34,8 @@ Adobe Marketo Engage を Adobe Identity Management System に転送した場合�
  </tr>
  <tr>
   <td><strong>Adobe Admin Console製品プロファイル管理</strong></td>
-  <td>管理者および関連するすべての管理機能に割り当てられている製品プロファイルの説明を管理します。</td>
+  <td>製品プロファイル内のユーザーの管理を担当します。 特定のプロファイル以外では、ユーザーを管理できません。 製品プロファイル管理者は、製品プロファイルにユーザーとして追加されない限り、Marketoアプリケーションにアクセスできません。 その役割は、引き続き標準ユーザーです（複数のワークスペースがある場合はデフォルトのワークスペース）。
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage 製品管理者</strong></td>
