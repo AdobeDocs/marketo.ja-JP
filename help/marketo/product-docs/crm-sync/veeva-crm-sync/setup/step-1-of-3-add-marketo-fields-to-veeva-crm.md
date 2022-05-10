@@ -2,7 +2,7 @@
 description: 手順 1/3 - Veeva CRM にMarketoフィールドを追加する — Marketoドキュメント — 製品ドキュメント
 title: 手順 1/3 - Veeva CRM にMarketoフィールドを追加する
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 29%
@@ -25,7 +25,7 @@ Marketo Engageは、一連のフィールドを使用して、特定の種類の
 
 ## Marketoフィールドを Veeva CRM に追加 {#add-marketo-fields-to-veeva-crm}
 
-上記の Veeva CRM で、リードおよび連絡先オブジェクトに 3 つのカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の Veeva CRM で、リードおよび連絡先オブジェクトにカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
 
 「スコア」フィールドで次の手順を実行して、フィールドを追加します。
 
@@ -111,7 +111,7 @@ Marketo Engageは、一連のフィールドを使用して、特定の種類の
 
 >[!NOTE]
 >
->このフィールドを連絡先オブジェクトに追加することで、担当者アカウントにも追加されます。
+>フィールドを連絡先オブジェクトに追加することで、担当者アカウントオブジェクトにも追加されます。
 
 オプション：以下の表の追加のカスタムフィールドに対して、上記の手順を実行します。
 

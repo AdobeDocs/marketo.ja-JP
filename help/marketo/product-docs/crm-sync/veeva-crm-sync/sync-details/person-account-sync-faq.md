@@ -2,10 +2,10 @@
 description: 担当者アカウント同期に関する FAQ - Marketoドキュメント — 製品ドキュメント
 title: 担当者アカウント同期 FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 27%
+source-wordcount: '489'
+ht-degree: 28%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engageは、レコードの担当者アカウントタイプに対して
 
 >[!NOTE]
 >
->デフォルトの Veeva アカウントは Professionals です。
+>担当者アカウントとしての「Professional」層アカウントのみを同期します。
 
 **個人アカウントとは**
 
@@ -49,7 +49,7 @@ Marketo Engageは、レコードの担当者アカウントタイプに対して
 
 **Veeva CRM と同期されるレコードのリードまたは連絡先のタイプはありますか？**
 
-Veeva CRM は実際には担当者アカウントオブジェクトのみを扱い、ビジネスアカウントも持っています。 従来のリード、連絡先、商談の CRM タイプは、従来の Veeva CRM システムでは実際には使用されていません。 これらは Veeva CRM で作成され、同期によってMarketoに取り込まれる可能性がありますが、このコネクタの使用は正式にはサポートされていません。
+Veeva CRM は実際には担当者アカウントオブジェクトのみを扱い、ビジネスアカウントも持っています。 従来のリード、連絡先、商談の CRM タイプは、従来の Veeva CRM システムでは実際には使用されていません。 これらは Veeva CRM で作成できますが、このコネクタの使用は正式にはサポートされていません。
 
 **人物の Marketo の連絡先への変換**
 

@@ -2,16 +2,16 @@
 description: 呼び出しと呼び出しの主要メッセージの同期 — Marketoドキュメント — 製品ドキュメント
 title: 通話と通話の主要メッセージの同期
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 5%
 
 ---
 
 # 通話と通話の主要メッセージの同期 {#syncing-call-and-call-key-messages}
 
-Veeva CRM の呼び出しおよび呼び出しキーメッセージオブジェクトは、デフォルトでMarketo Engageに同期されます。 Marketoは、通話日に基づいて、過去 6 ヶ月のデータを同期します。
+Veeva CRM の呼び出しおよび呼び出しキーメッセージオブジェクトは、デフォルトでMarketo Engageに同期されます。 Marketoは、通話作成日に基づいて、過去 6 か月のデータを同期します。
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Veeva CRM の呼び出しおよび呼び出しキーメッセージオブジェ�
       <td>呼び出しが最初に保存または送信された日付。 このフィールドは、日付フィールドも日時フィールドも指定されていない場合、トリガーを介して現在の日付に設定されます。</td>
       <td>Call_Date_vod__c</td>
       <td>日付</td>
-    </tr>
-    <tr>
-      <td>電話</td>
-      <td>詳細製品</td>
-      <td>呼び出しの詳細製品のリストを表示するヘルパーフィールド。 製品名は、左から右の順に、ダブルスペースで区切り、並べ替える必要があります。 このフィールドは、処理を制御するものではなく、関連するリストやレポートをより使いやすくするために含まれます。</td>
-      <td>詳細_製品_vod__c</td>
-      <td>テキスト領域 (255)</td>
     </tr>
     <tr>
       <td>電話</td>
