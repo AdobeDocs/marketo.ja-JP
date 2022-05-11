@@ -2,10 +2,10 @@
 description: プライバシーリクエスト — Marketo ドキュメント — 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 95%
+source-wordcount: '336'
+ht-degree: 84%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 95%
 
 消費者データにアクセスして Marketo Engage から削除する個々のリクエストを送信するには、次の 2 つの方法があります。
 
-* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。[こちら](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)のドキュメントを参照してください。
-* **Privacy ServiceAPI**.を使用する。[こちら](https://developer.adobe.com/experience-platform-apis/references/privacy-service/)のドキュメントと[こちら](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml)の API リファレンスを参照してください。
+* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。ドキュメントを参照してください [ここ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}。
+* **Privacy ServiceAPI**.を使用する。ドキュメントを参照してください [ここ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} および API 情報 [ここ](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
 
-[Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) では、データアクセスとデータ削除の 2 種類のリクエストがサポートされます。
+この [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} は、次の 2 種類のリクエストをサポートします。データアクセスとデータ削除に関する情報です。
 
 ここでは、アクセスリクエストと削除リクエストの作成方法について説明します。
 
