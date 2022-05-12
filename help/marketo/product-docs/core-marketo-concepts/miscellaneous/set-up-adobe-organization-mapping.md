@@ -3,10 +3,10 @@ unique-page-id: 42762511
 description: Adobe組織マッピングの設定 — Marketoドキュメント — 製品ドキュメント
 title: 組織マッピングAdobeの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 51%
+source-wordcount: '217'
+ht-degree: 44%
 
 ---
 
@@ -46,9 +46,9 @@ Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeア�
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >セキュリティ上の理由から、マッピング先のアドビ組織の組織管理者である必要があります。さもないと、アクションは失敗します。
+   >セキュリティ上の理由から、マッピング先のアドビ組織の組織管理者である必要があります。そうでない場合、アクションは失敗します。 また、AdobeユーザーとMarketoユーザーは、ログイン時に同じ電子メールアドレスを使用する必要があります。
 
 1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。アドビ組織にログインします（このアクションで組織アクセスが検証されます）。
 
