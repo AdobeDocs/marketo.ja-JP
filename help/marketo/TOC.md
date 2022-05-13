@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 95%
@@ -1279,7 +1279,6 @@ ht-degree: 95%
             + [カスタムドメイントラッキングの設定方法](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [ユーザーと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [セールスアクティビティ属性の Salesforce への記録](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [ログイン管理設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 分析 {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 95%
                + [応答ログ](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce 同期設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce の設定 {#salesforce-configuration}
+               + [ログイン管理設定](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Salesforce での Sales Insight アクション構成](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Salesforce Lightning カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + メール {#email}
             + コマンドセンター {#command-center}
                + [詳細検索の概要](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,10 +1376,6 @@ ht-degree: 95%
             + [国際通話](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [ローカルプレゼンス](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [二者間による同意の設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce の設定 {#salesforce-configuration}
-            + [Salesforce での Sales Insight アクション構成](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Salesforce Classic カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Salesforce Lightning カスタマイズパッケージのアンインストール](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + セールスメールの送信 {#send-a-sales-email}
             + [メールトラッキングの概要](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + タスク {#tasks}
