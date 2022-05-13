@@ -2,7 +2,7 @@
 description: Salesforce からの自動ログイン — Marketoドキュメント — 製品ドキュメント
 title: Salesforce からの自動ログイン
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 自動ログインを使用するには：
 
-* [ログイン管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) は、「Salesforce のみ」に設定する必要があります
+* [ログイン管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) は、「Salesforce のみ」に設定する必要があります
 
 * ユーザーは、Sales Insight アクションの使用に招待されている必要があります
 
