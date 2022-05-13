@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 95%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 95%
          + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知のタイプ](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Predictive Audiences {#predictive-audiences}
+         + [Predictive Audiences の使用の手引き](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [目標追跡と推定登録について](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM 同期 {#crm-sync}
       + Microsoft Dynamics 同期 {#microsoft-dynamics}
          + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
