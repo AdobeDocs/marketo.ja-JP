@@ -1,14 +1,16 @@
 ---
 description: 製品の使用制限 — Marketoドキュメント — 製品ドキュメント
 title: 製品使用の制限
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 27%
+source-wordcount: '186'
+ht-degree: 25%
 
 ---
 
 # 製品使用の制限 {#product-usage-limits}
+
+Sales Insight アクションで使用可能な拡張セールスエンゲージメント機能の使用には、次の制限が適用されます。
 
 <table>
   <th>機能</th>
