@@ -2,10 +2,10 @@
 description: セールスアクティビティ属性の Salesforce へのログ — Marketo ドキュメント — 製品ドキュメント
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 93%
 
 ---
 
@@ -38,6 +38,20 @@ Salesforce 管理者は、カスタムアクティビティフィールドを Sa
   <th>API 名</th>
   <th>データタイプ</th>
   <th>サイズ</th>
+ </tr>
+  <tr>
+  <td>通話結果</td>
+  <td>mktosales_call_outcome</td>
+  <td>mktosales_call_outcome__c</td>
+  <td>テキスト</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>通話理由</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason__c</td>
+  <td>テキスト</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Marketo セールス電話ローカルプレゼンス ID</td>

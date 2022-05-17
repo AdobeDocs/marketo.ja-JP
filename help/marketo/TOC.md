@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 95%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 95%
          + [Sales Insight アクション機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + はじめに {#getting-started}
             + [Sales Insight Actions ユーザーオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [MSI アクション管理者ガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [Sales Insight Actions 管理者設定ガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo Sales のパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [製品使用の制限](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + メール設定 {#email-settings}
                + [メールを確認](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [メール署名の追加または更新](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
