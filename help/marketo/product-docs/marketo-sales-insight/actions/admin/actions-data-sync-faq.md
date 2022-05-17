@@ -2,10 +2,10 @@
 description: アクションデータ同期に関する FAQ - Marketoドキュメント — 製品ドキュメント
 title: アクションデータ同期の FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
 workflow-type: tm+mt
 source-wordcount: '1044'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ Sales Insight Actions のデータ統合フィールド同期を使用すると�
 
 これにより、Sales Insight Actions Web アプリで最新の人物データを提供し、Marketoの対応する人物レコードと Salesforce のリード/連絡先/アカウント/商談レコードの一意の ID を収集できるので、レコードをログデータに正しく参照できます。
 
-この同期は、Marketo Engageの「管理」セクションの「Sales Insight アクション設定」タブで有効にできます。 詳しくは、 [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
+この同期は、Marketo Engageの「管理」セクションの「Sales Insight アクション設定」タブで有効にできます。 詳しくは、 [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -57,7 +57,7 @@ Marketo Engageから Sales Insight アクションに同期する 11 のフィ�
 * Salesforce リード ID
 * Marketo ID
 * 企業
-* タイトル
+* 職位
 * メール
 * 電話番号
 * Linkedin URL
@@ -93,14 +93,14 @@ Sales Insight Actions には、専用の個人およびアクティビティ・�
 
 以下に、Marketoに記録されるアクティビティのリストを示します。
 
-* セールスメール送信
+* セールスメールを送信
 * セールスメール開封
 * セールスメールクリック
-* セールスメールに返信済み
+* セールスメールに返信
 * セールスメールバウンス
 * セールス電話を受信しました
 * セールスキャンペーンに追加
-* セールスキャンペーンから削除済み
+* セールスキャンペーンから削除
 
 ## セールス活動は Salesforce に記録されますか？ {#do-sales-activities-log-to-salesforce}
 
@@ -118,5 +118,5 @@ Sales Insight アクションを使用すると、管理者は、Salesforce に�
 >* [Marketo 配信停止チェック](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
+>* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 
