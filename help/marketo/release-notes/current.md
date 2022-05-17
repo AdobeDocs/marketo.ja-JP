@@ -2,9 +2,9 @@
 description: 最新のリリースノート — Marketoドキュメント — 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
+source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '833'
 ht-degree: 2%
 
 ---
@@ -69,4 +69,4 @@ Design Studio 内で、次世代のエクスペリエンスでメールテンプ
 
 **_製品リリースウェビナー_**
 
-2022 年 5 月 11 日午前 9 時（太平洋標準時）/午後 12 時（東部標準時）に [ライブウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html)アドビの製品チームがホストする {target=&quot;_blank&quot;}。最新の製品イノベーションの使用方法を学ぶことができます。
+[2022 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
