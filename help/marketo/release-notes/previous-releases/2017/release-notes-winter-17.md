@@ -4,7 +4,7 @@ description: リリースノート - 17年冬 - Marketo ドキュメント - 製
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '387'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
-## [Web パーソナライゼーションキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [ウェブパーソナライズキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。その後、データを便利なレイアウトで表示できます。
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 多言語化対応 {#localization}
 
-Web パーソナライゼーション、予測コンテンツ、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
+ウェブパーソナライズ、予測コンテンツ、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
