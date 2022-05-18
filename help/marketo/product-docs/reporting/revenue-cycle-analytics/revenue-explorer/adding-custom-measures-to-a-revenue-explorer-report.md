@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10097747
-description: 売上高エクスプローラーレポートへのカスタム測定の追加 - Marketo ドキュメント - 製品ドキュメント
-title: 売上高エクスプローラーレポートへのカスタム測定の追加
+description: 収益エクスプローラーレポートへのカスタム測定の追加 - Marketo ドキュメント - 製品ドキュメント
+title: 収益エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '204'
 ht-degree: 100%
 
 ---
 
-# 売上高エクスプローラーレポートへのカスタム測定の追加 {#adding-custom-measures-to-a-revenue-explorer-report}
+# 収益エクスプローラーレポートへのカスタム測定の追加 {#adding-custom-measures-to-a-revenue-explorer-report}
 
 レポートにカスタムの測定が必要な場合があります。自分で簡単に作成できます。
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >レポートには 1 つ以上の指標が必要ですが、カスタム測定を定義する際に使用する測定の 1 つである必要はありません。
 
-1. レポートに必要なフィールドを取り込みます。詳しくは、[売上高エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
+1. レポートに必要なフィールドを取り込みます。詳しくは、[収益エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
 
 1. 既存の指標（青色のセル）を右クリックし、「**ユーザー定義の測定**」をクリックして、「**計算済み測定**」を選択します。
 
@@ -48,4 +48,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[売上高エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[収益エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
