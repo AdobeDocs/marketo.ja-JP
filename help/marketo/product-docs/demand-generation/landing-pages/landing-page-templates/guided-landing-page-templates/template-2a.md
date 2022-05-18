@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516467
-description: テンプレート 2A - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 2A - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # テンプレート 2A {#template-2a}
 
-右クリックして [Template 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html) をダウンロード
+右クリックして[テンプレート 2A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)します
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -26,6 +26,6 @@ ht-degree: 46%
 * 1 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+[Template 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
