@@ -1,31 +1,30 @@
 ---
 unique-page-id: 11378814
-description: アカウントリスト-Marketoドキュメント — 製品ドキュメント
+description: 顧客リスト - Marketo ドキュメント - 製品ドキュメント
 title: 顧客リスト
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '341'
+ht-degree: 100%
 
 ---
 
 # 顧客リスト {#account-lists}
 
-アカウントリストは、複数のアカウントをターゲットにすることができる、名前付きのアカウントの集まりです。 アカウントリストを使用すると、会社の業種、場所またはサイズに基づいてアカウント名をターゲットできます。
+顧客リストは、一緒にターゲット設定できる重点顧客の集まりです。顧客リストを使用すると、特定顧客を業種、場所、または会社の規模別にターゲット設定できます。
 
-アカウントリストに加えて、パブリックCRMアカウント表示から生成される動的なアカウントリストを作成することもできます。 CRMアカウント表示は、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、IndustryがHealthcare *で* Revenueが$100Mを超えるアカウントを検索する場合に使用できます。
+顧客リストに加えて、パブリック CRM 顧客表示から生成される動的な顧客リストを作成できるようになりました。CRM アカウントビューは、アカウントを表示する際にフィルターとして機能する一連のルールです。例えば、業界がヘルスケアで、*かつ*&#x200B;売上高が 1 億ドルを超えるアカウントを検索する場合に使用できます。
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Marketoターゲットのアカウント管理で作成されたアカウントリストは、[Webパーソナライゼーション](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)でスマートリストとWebキャンペーンを構築する際に、自動的に使用できます。
+>Marketo ターゲット顧客管理で作成された顧客リストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストと web キャンペーンを作成するときに自動的に使用可能になります。
 
-## 新しいアカウントリストの作成{#create-a-new-account-list}
+## 新規顧客リストの作成 {#create-a-new-account-list}
 
-1. 「**新規**」ドロップダウンをクリックし、「**新しいアカウントを作成**」を選択します。
+1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規顧客リストを作成**」を選択します。
 
    ![](assets/1a.png)
 
@@ -33,19 +32,19 @@ ht-degree: 0%
 
    ![](assets/three-0.png)
 
-1. アカウントリストを作成したら、[](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)に名前付きのアカウントを追加し始めます。
+1. 顧客リストを作成したら、[重点顧客を追加](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)し始めます。
 
    >[!NOTE]
    >
-   >Marketoは、2,000人以下のアカウント名を持つアカウントリストのインサイトのみを表示します。
+   >Marketo では、重点顧客が 2,000 人以下の顧客リストに関するインサイトのみが表示されます。
 
-## 新しい動的アカウントリストの作成{#create-a-new-dynamic-account-list}
+## 新規動的顧客リストの作成 {#create-a-new-dynamic-account-list}
 
-1. 「**新規**」ドロップダウンをクリックし、「**新しい動的リストを作成**」を選択します。
+1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規動的顧客リストを作成**」を選択します。
 
    ![](assets/1.png)
 
-1. ダイアログで、ドロップダウンから&#x200B;**CRMアカウント表示**&#x200B;を選択するか、名前を入力して検索します。
+1. ダイアログで、「**CRM 顧客ビュー**」をクリックするか、名前を入力して検索します。
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -55,33 +54,33 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Salesforceでは、同期ユーザーに対してリスト表示オブジェクトの権限を必ず指定してください。
+   >Salesforce では、同期ユーザーに対してリスト表示オブジェクトの権限を必ず指定してください。
 
-## アカウントリストの名前を変更{#rename-an-account-list}
+## 顧客リストの名前変更 {#rename-an-account-list}
 
 >[!NOTE]
 >
->これらの手順は、アカウントリストにのみ適用されます。 _Dynamicaccount_ リストは、関連するCRMアカウント表示の名前を使用します。
+>これらの手順は、顧客リストにのみ適用されます。_動的_&#x200B;顧客リストは、関連する CRM 顧客ビューの名前を使用します。
 
-1. 名前を変更するアカウントを選択し、「**アカウントリストの操作**」ドロップダウンをクリックして、「**アカウントリスト名の変更**」を選択します。
+1. 名前を変更する顧客を選択し、**顧客リストのアクション**&#x200B;ドロップダウンをクリックして「**顧客リストを名前変更**」を選択します。
 
    ![](assets/three.png)
 
-1. 新しい名前を入力し、**名前の変更**&#x200B;をクリックします。
+1. 新しい名前を入力し、「**名前変更**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >CRMアカウント表示は、8時間ごとに動的アカウントリストに同期します。 まだ同期されていない場合は、Marketoは次のサイクル中に同期します。
+   >CRM 顧客表示は、8 時間ごとに動的顧客リストと同期します。まだ同期されていない場合、Marketo は次のサイクルで同期します。
 
-## アカウントリストの削除{#delete-an-account-list}
+## 顧客リストを削除する {#delete-an-account-list}
 
 >[!NOTE]
 >
->これらの手順は、アカウントリストと動的アカウントリストの両方で同じです。
+>これらの手順は、顧客リストと動的顧客リストの両方で同じです。
 
-1. 削除するアカウントを選択し、「**アカウントリストの操作**」ドロップダウンをクリックして、「**アカウントリストを削除**」を選択します。
+1. 削除する顧客を選択し、**顧客リストのアクション**&#x200B;ドロップダウンをクリックして「**顧客リストを削除**」を選択します。
 
    ![](assets/five.png)
 
@@ -91,6 +90,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ア追加カウントリストに対する既存の名前付きアカウント](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [既存の重点顧客を顧客リストに追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
 
