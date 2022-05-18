@@ -3,7 +3,7 @@ unique-page-id: 2359716
 description: ランディングページをプレビューする — Marketo ドキュメント — 製品ドキュメント
 title: ランディングページをプレビューする
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '140'
 ht-degree: 100%
