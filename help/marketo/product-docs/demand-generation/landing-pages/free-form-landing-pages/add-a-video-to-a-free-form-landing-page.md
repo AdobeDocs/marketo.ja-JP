@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359722
-description: フリ追加ーフォームランディングページへのビデオ —Marketoドキュメント — 製品ドキュメント
-title: フ追加リーフォームランディングページへのビデオ
+description: フリーフォームランディングページへの動画の追加 - Marketo ドキュメント - 製品ドキュメント
+title: フリーフォームランディングページへの動画の追加
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# フリ追加ーフォームランディングページへのビデオ{#add-a-video-to-a-free-form-landing-page}
+# フリーフォームランディングページへの動画の追加 {#add-a-video-to-a-free-form-landing-page}
 
-ランディングページにソーシャルシェアオプションを含むビデオを配置します。
+ランディングページにソーシャル共有オプションを備えた動画を配置します。
 
 >[!AVAILABILITY]
 >
->この機能を購入していないお客様もいます。  詳細は、営業取引先責任者にお問い合わせください。
+>すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
 
-1. 自由形式のランディングページに移動し、「**ドラフトを編集**」をクリックします。
+1. フリーフォームランディングページに移動して、「**下書きの編集**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
@@ -27,24 +26,24 @@ ht-degree: 2%
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. ドロップダウンメニューから[**新規作成**]を選択します。
+1. ドロップダウンメニューから「**新規作成**」を選択します。
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >**新規作成**&#x200B;機能は、マーケティングアクティビティでのみ表示されます。Design Studioでは使用できません。 Design Studioでは、既に作成済みのビデオのみが利用できます。 ただし、プログラム&#x200B;_内にビデオ共有_&#x200B;を作成するには、**新規**/**新しいローカルアセット**&#x200B;を選択します。 次に示すように、ドロップダウンから選択できます。
+   >**新規作成**&#x200B;機能はマーケティングアクティビティにのみ表示され、Design Studio では使用できません。Design Studio では、既に作成済みの動画のみを利用できます。ただし、__**、新規**／**新規ローカルアセット**&#x200B;を選択して、プログラム内に動画共有を作成することもできます。次に示すように、ドロップダウンから選択できます。
 
-1. YouTubeビデオのURLを入力し、ビデオに名前を付けます。 「コピー元」ドロップダウンで、「**なし**」を選択し、「**挿入**」をクリックします。
+1. YouTube 動画の URL を入力し、動画に名前を付けます。クローン元ドロップダウンで「**なし**」を選択し、「**挿入**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->時間を節約するために、「**コピー元**」オプションを使用して、既存のビデオ共有からすべての設定をコピーできます。
+>時間を節約するために、「**クローン元**」オプションを使用して、既存の動画共有からすべての設定をコピーできます。
 
-おめでとうございます！自由形式のランディングページにビデオ共有を追加しました。 ランディングページを承認すると、ビデオ共有がライブになります。 また、ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に[公開したり、[ビデオ共有をWebサイト](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)に配置したりすることもできます。
+これで完了です。フリーフォームランディングページに動画共有を追加しました。ランディングページを承認すると、動画共有が有効になります。また、ランディングページを[ Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、[web サイトに動画共有を配置](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりすることもできます。
 
 >[!MORELIKETHIS]
 >
->完了ですが、必要に応じてビデオ共有の設定を変更できます。 [共有フロー](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)のカスタマイズとの開始（共有プロンプトが開くタイミングと場所）
+>これで完了しましたが、動画共有の設定は必要に応じて変更できます。[共有フローのカスタマイズ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)（共有プロンプトが開くときと場所）から始めます。
