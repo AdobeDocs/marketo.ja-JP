@@ -4,7 +4,7 @@ description: リリースノート - 2015年7月 - Marketo ドキュメント - 
 title: リリースノート - 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
 ht-degree: 100%
 
