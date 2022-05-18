@@ -1,45 +1,44 @@
 ---
 unique-page-id: 10093157
-description: Webキャンペーンのコピー —Marketoドキュメント — 製品ドキュメント
-title: Webキャンペーンのコピー
+description: Web キャンペーンを複製する - Marketo ドキュメント - 製品ドキュメント
+title: Web キャンペーンを複製する
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webキャンペーンのコピー{#clone-a-web-campaign}
+# Web キャンペーンを複製する {#clone-a-web-campaign}
 
-Webキャンペーンページのコピー機能を使用して、キャンペーン設定をコピーし、分割テストの最適化のコンテンツを変更したり、同じコンテンツとターゲットを持つキャンペーンを別のセグメントにコピーしたりします。 Webキャンペーンを数秒で作成できます。
+Web キャンペーンページのクローン機能を使用して、キャンペーンの設定をコピーし、分割テスト最適化のためのコンテンツを変更したり、同じコンテンツを持つキャンペーンを複製して、別のセグメントをターゲットにしたりします。Web キャンペーンを数秒で作成します。
 
-## クローン・キャンペーンの作成{#create-a-clone-campaign}
+## クローンキャンペーンを作成する {#create-a-clone-campaign}
 
-1. **Webキャンペーン**&#x200B;に移動します。
+1. 「**Web キャンペーン**」に移動します
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >必要なWebキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+   >目的の web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. Webキャンペーンーの場合は、「**クローン**」をクリックします。
+1. Web キャンペーンの場合、「**複製**」をクリックします。
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. キャンペーンの複製プロセスでは、既存のWebキャンペーンーのすべてのコンテンツが新しい複製キャンペーンーにコピーされます。 新しい複製されたWebキャンペーンーには、「[キャンペーン名]コピー」という権利が付与されます。
+1. キャンペーンのクローン作成プロセスでは、既存の web キャンペーンのすべてのコンテンツが、新しく複製されたキャンペーンにコピーされます。新しく複製された web キャンペーンには、「[キャンペーン名]コピー」という名前がついています。
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
    >[!TIP]
    >
-   >Webキャンペーンー内のすべてのコンテンツは、分割テストを除き、クローンキャンペーンーにコピーされます。そのため、他のユーザーに対してテストを行う場合は、分割テストグループをコピーキャンペーンーに追加するのを忘れないでください。
+   >Web キャンペーン内のすべてのコンテンツは、分割テストを除いてクローンキャンペーンにコピーされます。他のキャンペーンに対してテストする場合は、分割テストグループをクローンキャンペーンに追加することを忘れないでください。
 
 >[!MORELIKETHIS]
 >
->* [ダイアログキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [「Create a RTP In Zone」キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [RTPウィジェットキャンペーンの作成](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ダイアログキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [RTP ゾーン内キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP ウィジェットキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
