@@ -44,4 +44,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[メールにカレンダーイベント（.ics）を追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[メールへのカレンダーイベント（.ics）の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
