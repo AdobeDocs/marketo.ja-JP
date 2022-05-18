@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360240
-description: 商談の影響アナライザーの設定 - Marketo ドキュメント - 製品ドキュメント
-title: 商談の影響アナライザーの設定
+description: 商談の影響分析の設定 - Marketo ドキュメント - 製品ドキュメント
+title: 商談の影響分析の設定
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,19 +10,19 @@ ht-degree: 100%
 
 ---
 
-# 商談の影響アナライザーの設定 {#configure-an-opportunity-influence-analyzer}
+# 商談の影響分析の設定 {#configure-an-opportunity-influence-analyzer}
 
-[商談の影響アナライザーを作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)すると、対象にする[注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
+[商談の影響分析を作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)すると、対象にする[注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
 
 >[!PREREQUISITES]
 >
->[商談の影響アナライザーの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[商談の影響分析の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. 「**分析**」をクリックします。
 
    ![](assets/login-to-analytics.png)
 
-1. 分析に移動し、「商談の影響アナライザー」を選択します。
+1. 分析に移動し、「商談の影響分析」を選択します。
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
@@ -48,4 +48,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[商談の影響アナライザーでマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[商談の影響分析でマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
