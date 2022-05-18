@@ -1,20 +1,20 @@
 ---
 unique-page-id: 4719179
-description: Web パーソナライゼーションリッチテキストエディターを使用する — Marketo ドキュメント — 製品ドキュメント
-title: Web パーソナライゼーションリッチテキストエディターを使用する
+description: ウェブパーソナライズリッチテキストエディターを使用する — Marketo ドキュメント — 製品ドキュメント
+title: ウェブパーソナライズリッチテキストエディターを使用する
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '187'
 ht-degree: 100%
 
 ---
 
-# Web パーソナライゼーションリッチテキストエディターを使用する {#using-the-web-personalization-rich-text-editor}
+# ウェブパーソナライズリッチテキストエディターを使用する {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-キャンペーン設定ページにある Web パーソナライゼーションリッチテキストエディターを使うと、テキストの書式設定、リンク指定、画像の挿入が可能です。標準的なワードプロセッサーソフトウェアと同じような書式設定のオプションもあります。
+キャンペーン設定ページにあるウェブパーソナライズリッチテキストエディターを使うと、テキストの書式設定、リンク指定、画像の挿入が可能です。標準的なワードプロセッサーソフトウェアと同じような書式設定のオプションもあります。
 
 次は、リッチテキストエディターで重要なアイコンの一部です。
 
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Web トークンは、Web パーソナライゼーションのアカウント設定／データベースで管理される Marketo データベースの[リードデータ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)を使用します。Web トークンが、アカウント設定／データベースにない新しいデータベースフィールドである場合、自動的に追加され、アクティブ化に最大 24 時間かかる場合があります。
+>Web トークンは、ウェブパーソナライズのアカウント設定／データベースで管理される Marketo データベースの[リードデータ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)を使用します。Web トークンが、アカウント設定／データベースにない新しいデータベースフィールドである場合、自動的に追加され、アクティブ化に最大 24 時間かかる場合があります。
 
 >[!MORELIKETHIS]
 >
