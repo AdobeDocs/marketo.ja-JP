@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2360421
-description: プログラムレベルでのAnalyticsの動作の上書き —Marketoドキュメント — 製品ドキュメント
-title: プログラムレベルでのAnalyticsの動作の上書き
+description: プログラムレベルでの分析動作の上書き - Marketo ドキュメント - 製品ドキュメント
+title: プログラムレベルでの分析動作の上書き
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# プログラムレベルでのAnalyticsの動作を上書き{#override-analytics-behavior-at-the-program-level}
+# プログラムレベルでの分析動作の上書き {#override-analytics-behavior-at-the-program-level}
 
-[Analyticsの動作をチャネル](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)の管理者レベルで設定できますが、プログラムレベルで上書きすることもできます。 方法を次に示します。
+[チャネルの管理者レベルでの分析動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)を設定することができますが、プログラムレベルで上書きすることもできます。その方法をご紹介します。
 
-1. **マーケティングアクティビティ**&#x200B;エリアに移動します。
+1. **マーケティングアクティビティ**&#x200B;領域に移動します。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
-1. プログラムを探して選択します。
+1. プログラムを選択します。
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 「**セットアップ**」タブで、「Analytics動作」をキャンバスにドラッグします。
+1. 「**設定**」タブで、「分析動作」をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 目的のAnalyticsの動作を選択します。
+1. 必要な分析動作を選択します。
 
    >[!NOTE]
    >
    >**定義**
    >
-   >* **包括的**  — このオプションを選択すると、期間原価が含まれているかどうかに関係なく、収益エクスプローラおよびアナライザでプログラムをレポートできます。
-   >* **操作**  — このオプションを選択すると、売上高エクスプローラーまたはアナライザーでプログラムが表示されません。
+   >* **包含** - このオプションを使用すると、期間原価が含まれているかどうかに関係なく、収益エクスプローラーおよびアナライザーでプログラムをレポートに表示できます。
+   >* **オペレーショナル** - このオプションを選択すると、プログラムが収益エクスプローラーまたはアナライザーに表示されなくなります。
 
 
    >[!NOTE]
    >
-   >デフォルトの動作（この設定が適用されない場合）は、0ドルが割り当てられている期間も含め、少なくとも1つのプログラムコスト&#x200B;**がある場合にのみ、Analytics**&#x200B;に含められます。
+   >デフォルトの動作（この設定が適用されていない場合）は **1 つ以上の期間原価（0 ドルが割り当てられている期間も含む）がある**&#x200B;場合にのみ分析に含まれます。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -47,8 +46,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-うまくいった！ これで、プログラムレベルで解析の動作を上書きする方法がわかりました。
+これで完了です。これで、分析動作をプログラムレベルで上書きする方法がわかりました。
 
 >[!NOTE]
 >
->変更は翌日に反映され、売上高のエクスプローラーやアナライザーから利用できるようにするか、取り出します。
+>変更は翌日に反映され、収益エクスプローラーおよびアナライザーを使用可能にするか、取り出されます。
