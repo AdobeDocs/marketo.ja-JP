@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360341
-description: カスタムフィールドを売上高エクスプローラーに同期 - Marketo ドキュメント - 製品ドキュメント
-title: カスタムフィールドを売上高エクスプローラーに同期
+description: カスタムフィールドを収益エクスプローラに同期 - Marketo ドキュメント - 製品ドキュメント
+title: カスタムフィールドを収益エクスプローラに同期
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,9 +10,9 @@ ht-degree: 100%
 
 ---
 
-# カスタムフィールドを売上高エクスプローラーに同期 {#sync-custom-fields-to-the-revenue-explorer}
+# カスタムフィールドを収益エクスプローラに同期 {#sync-custom-fields-to-the-revenue-explorer}
 
-Revenue Cycle Analytics では、カスタム Marketo フィールドに関するレポートを作成できるので、同期するカスタムフィールドを設定する必要があります。
+収益サイクルアナリティクスでは、カスタム Marketo フィールドに関するレポートを作成できるので、同期するカスタムフィールドを設定する必要があります。
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Revenue Cycle Analytics では、カスタム Marketo フィールドに関す�
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. 「**Revenue Cycle Analytics**」を選択します。
+1. 「**収益サイクルアナリティクス**」を選択します。
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
@@ -38,12 +38,12 @@ Revenue Cycle Analytics では、カスタム Marketo フィールドに関す�
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. 任意の「**RCA タイプ**」を選択し、「**保存**」をクリックします。
+1. 任意の「**収益サイクルアナリティクスタイプ**」を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!TIP]
    >
-   >有効にすると、翌日に Revenue Cycle Analytics でデータを使用できるようになります。
+   >有効にすると、翌日に収益サイクルアナリティクスでデータを使用できるようになります。
 
-   これで完了です。RCA にカスタムフィールドを追加する方法を理解できました。
+   これで完了です。収益サイクルアナリティクスにカスタムフィールドを追加する方法を理解できました。
