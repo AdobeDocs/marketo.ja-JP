@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11380732
-description: アカウントフィルター-Marketoドキュメント — 製品ドキュメント
-title: アカウントフィルタ
+description: 顧客フィルター - Marketo ドキュメント - 製品ドキュメント
+title: 顧客フィルター
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '182'
+ht-degree: 100%
 
 ---
 
-# アカウントフィルタ {#account-filters}
+# 顧客フィルター {#account-filters}
 
-新しいアカウント中心のフィルターを使用して、固有のアカウントとその中の個人を特定し、関与させます。
+新しい顧客中心型フィルターを使用して、重点顧客とその中の人物を特定し、惹きつけます。
 
-## TAMフィルター{#tam-filters}
+## TAM フィルター {#tam-filters}
 
-1. スマートキャンペーンを選択し、**スマートリスト**&#x200B;をクリックします。
+1. 目的のスマートキャンペーンに移動して「**スマートリスト**」をクリックします。
 
    ![](assets/one.png)
 
-1. **+**&#x200B;をクリックして&#x200B;**アカウントフィルター**&#x200B;フォルダーを展開します。
+1. 「**+**」をクリックして、**顧客フィルター**&#x200B;フォルダーを展開します。
 
    ![](assets/two.png)
 
@@ -31,40 +30,40 @@ ht-degree: 0%
 
 ## 顧客リストのメンバー {#member-of-account-list}
 
-このフィルタを使用するには、アカウントリストドロップダウンをクリックします。
+このフィルターを使用するには、顧客リストドロップダウンをクリックして、
 
 ![](assets/four.png)
 
-...目的のアカウントリストを選択します。
+目的の顧客リストを選択します。
 
 ![](assets/five.png)
 
 >[!NOTE]
 >
->アカウントリストのメンバーフィルターには、次の修飾子が1つだけあります。&quot;is&quot; — 追加の修飾子（「is not」や「is any」など）は使用できません。
+>「顧客リストのメンバー」フィルターにある修飾子は「is」 1 つだけです。追加の修飾子（「is not」や「is any」など）は使用できません。
 
 ## 重点顧客のメンバー {#member-of-named-account}
 
-まず、修飾子を選択します。 **特定の名前のアカウントに** 対しては **、または任意の名前のアカウント** に対しては何でも発生します。
+まず、修飾子を選択します。特定の重点顧客の場合は **Is**、任意の重点顧客の場合は **is any** です。
 
 ![](assets/six.png)
 
-[名前付きアカウント]ドロップダウンリストをクリックします。
+重点顧客ドロップダウンをクリックして、
 
 ![](assets/seven.png)
 
-...をクリックし、目的の名前付きアカウントを選択します。
+目的の重点顧客を選択します。
 
 ![](assets/eight.png)
 
-「いずれか」の修飾子を使用する場合は、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を利用して検索結果を絞り込むことができます。 好き追加なだけ！
+「is any」修飾子を使用する場合、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を使用して検索結果を絞り込むことをおすすめします。必要な数だけ追加してください。
 
 ![](assets/nine.png)
 
-単一の最上位アカウントからのメンバーのみを必要とする場合は、「子を含める」をfalseに設定します。 すべての子アカウントからメンバーを作成する場合は、trueを選択します。
+単一の最上位顧客からのみメンバーを取得する場合は、「子を含める」を false に設定します。すべての子顧客からメンバーを取得する場合は、true を選択します。
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[アカウントトリガー](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[顧客トリガー](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
