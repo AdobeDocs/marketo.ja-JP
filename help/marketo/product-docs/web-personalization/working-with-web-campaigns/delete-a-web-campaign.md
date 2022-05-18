@@ -3,7 +3,7 @@ unique-page-id: 4719410
 description: Web キャンペーンを削除する - Marketo ドキュメント - 製品ドキュメント
 title: Web キャンペーンを削除する
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
@@ -29,5 +29,5 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [Web キャンペーンを編集する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
->* [Web キャンペーンを起動／一時停止する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
+>* [Web キャンペーンの起動／一時停止](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)
 
