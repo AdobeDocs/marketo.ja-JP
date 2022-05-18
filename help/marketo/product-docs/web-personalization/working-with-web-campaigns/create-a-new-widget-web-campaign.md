@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: 新しいウィジェット Web キャンペーンを作成する — Marketo ドキュメント — 製品ドキュメント
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '632'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 新しいウィジェット Web キャンペーンを作成する {#create-a-new-widget-web-campaign}
 
-Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、Web サイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。ウィジェット Web キャンペーンは、Web ページの縦枠に表示されるテキストまたはバナーで、拡張と縮小は可能ですが、訪問している間ずっと Web サイトのページ上に固定されたままです。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。ウィジェット Web キャンペーンは、Web ページの縦枠に表示されるテキストまたはバナーで、拡張と縮小は可能ですが、訪問している間ずっと ウェブサイトのページ上に固定されたままです。
 
 ## ウィジェット Web キャンペーンを作成する {#create-a-widget-web-campaign}
 
