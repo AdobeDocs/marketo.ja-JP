@@ -1,50 +1,49 @@
 ---
 unique-page-id: 7504051
-description: 個人データの管理 —Marketoドキュメント — 製品ドキュメント
-title: 個人データの管理
+description: リードデータの管理 - Marketo ドキュメント - 製品ドキュメント
+title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
-# 個人データの管理{#manage-person-data}
+# リードデータの管理 {#manage-person-data}
 
-セグメントで使用する個人フィールドを選択して、Webパーソナライゼーションで人物データを活用します。
+セグメントで使用するリードフィールドを選択して、ウェブパーソナライズでリードデータを活用します。
 
 1. 「**アカウント設定**」に移動します。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **Database**&#x200B;に移動します。
+1. **データベース**&#x200B;に移動します。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## 新しい人物フィールドの追加{#adding-a-new-person-field}
+## 新しいリードフィールドの追加 {#adding-a-new-person-field}
 
-1. 「**フィールド」を選択して、ドロップダウンから**&#x200B;を追加し、個人データフィールドをリストに追加します。
+1. **追加するフィールド**&#x200B;をドロップダウンから選択して、リードデータフィールドをリストに追加します。
 
    ![](assets/add-a-person-field-hand.jpg)
 
    >[!NOTE]
    >
-   >新しいフィールドが保留中の状態で追加され、アクティブにするのに最大24時間かかる場合があります。
+   >新しいフィールドが保留状態で追加されます。アクティブ化には最大 24 時間かかる場合があります。
 
-## 人物フィールドの削除{#deleting-a-person-field}
+## リードフィールドの削除 {#deleting-a-person-field}
 
-1. 削除アイコン(![—](assets/image2015-3-24-13-3a45-3a56.png))をクリックして、リストからフィールドを削除します。 「**はい**」をクリックして、フィールドの削除を確認します。
+1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。「**はい**」をクリックして、フィールドの削除を確認します。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**個人データフィールドの管理**
+   >**リードデータフィールドの管理**
    >
-   >* 個人データフィールドのみを含めることができます
-   >* 最大30個の個人データフィールドを追加できます
+   >* リードデータフィールドのみを含めることができます
+   >* リードデータフィールドは最大 30 個まで追加できます
    >* 新規フィールドを追加した場合、アクティベーションには最大で 24 時間かかります
    >* 文字列タイプの上限は 255 文字です
    >* 非表示のフィールドは自動的に削除されます
@@ -59,49 +58,49 @@ ht-degree: 21%
   </tr> 
   <tr> 
    <td><p>department</p></td> 
-   <td><p>部門</p></td> 
-   <td><p>部門</p></td> 
+   <td><p>Department</p></td> 
+   <td><p>Department</p></td> 
   </tr> 
   <tr> 
-   <td><p>タイトル</p></td> 
-   <td><p>件名</p></td> 
-   <td><p>職位</p></td> 
+   <td><p>title</p></td> 
+   <td><p>Title</p></td> 
+   <td><p>Job Title</p></td> 
   </tr> 
   <tr> 
-   <td><p>評価</p></td> 
-   <td><p>評価</p></td> 
-   <td><p>評価</p></td> 
+   <td><p>rating</p></td> 
+   <td><p>Rating</p></td> 
+   <td><p>Rating</p></td> 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
    <td><p>LeadScore</p></td> 
-   <td><p>スコア</p></td> 
+   <td><p>Score</p></td> 
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
    <td><p>LeadStatus</p></td> 
-   <td><p>ステータス</p></td> 
+   <td><p>Status</p></td> 
   </tr> 
   <tr> 
-   <td><p>優先度</p></td> 
-   <td><p>優先順位</p></td> 
-   <td><p>優先順位</p></td> 
+   <td><p>priority</p></td> 
+   <td><p>Priority</p></td> 
+   <td><p>Priority</p></td> 
   </tr> 
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>ロール</p></td> 
+   <td><p>Role</p></td> 
   </tr> 
   <tr> 
-   <td><p>未登録</p></td> 
-   <td><p>配信停止完了</p></td> 
-   <td><p>配信停止完了</p></td> 
+   <td><p>unsubscribed</p></td> 
+   <td><p>Unsubscribed</p></td> 
+   <td><p>Unsubscribed</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-次のリードフィールドは、新しいWebパーソナライゼーションアカウント用にあらかじめ用意されています。
+新しいウェブパーソナライズアカウント用に、次のリードフィールドが標準で提供されています。
 
 >[!MORELIKETHIS]
 >
->[既知の人物データを使用したセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[既知のリードデータを使用したセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
