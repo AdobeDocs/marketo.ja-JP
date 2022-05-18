@@ -1,29 +1,28 @@
 ---
 unique-page-id: 17727499
-description: Webパーソナライゼーション —Marketoドキュメント — 製品ドキュメント内のワークスペース
-title: Webパーソナライゼーションのワークスペース
+description: ウェブパーソナライズのワークスペース - Marketo ドキュメント - 製品ドキュメント
+title: ウェブパーソナライズのワークスペース
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webパーソナライゼーション{#workspaces-in-web-personalization}内のワークスペース
+# ウェブパーソナライズのワークスペース {#workspaces-in-web-personalization}
 
-Webパーソナライゼーションは、WebキャンペーンーとWebセグメントに対して複数のワークスペースをサポートします。
+ウェブパーソナライズは、web キャンペーンと web セグメント用の複数のワークスペースをサポートします。
 
-## ワークスペースの切り替え{#switch-workspaces}
+## ワークスペースの切り替え {#switch-workspaces}
 
-Webパーソナライゼーション内のワークスペースを切り替えるには、左上のグローブアイコンをクリックし、ドロップダウンから別のワークスペースを選択します。
+ウェブパーソナライズでワークスペースを切り替えるには、左上の地球のアイコンをクリックし、ドロップダウンから別のワークスペースを選択します。
 
 ![](assets/ss7.png)
 
-## セグメントのワークスペースの変更{#change-a-segments-workspace}
+## セグメントのワークスペースの変更 {#change-a-segments-workspace}
 
-1. **セグメント**&#x200B;ページに移動し、セグメントを選択して、編集アイコンをクリックします。
+1. **セグメント**&#x200B;ページに移動して、セグメントを選択して、編集アイコンをクリックします。
 
    ![](assets/ss4.png)
 
@@ -35,4 +34,4 @@ Webパーソナライゼーション内のワークスペースを切り替え�
 
 >[!NOTE]
 >
->ユーザーは、アクセス権を持つワークスペースに関連付けられたWebキャンペーンーとセグメントのみを表示できます。 [1つ以上のワークスペースへのアクセスをユーザーに与える方法](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)を次に示します。
+>ユーザーは、アクセス権を持つワークスペースに関連付けられた web キャンペーンおよびセグメントのみを表示できます。以下の手順を実行すると、[1 つまたは複数のワークスペースに対するユーザーのアクセス権を設定](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)することができます。
