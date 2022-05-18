@@ -1,37 +1,36 @@
 ---
 unique-page-id: 4720075
-description: 特定のラベルからの表示Webキャンペーン-Marketoドキュメント — 製品ドキュメント
-title: 特定のラベルからの表示Webキャンペーン
+description: 特定のラベルからの web キャンペーンの表示 - Marketo ドキュメント - 製品ドキュメント
+title: 特定のラベルからの web キャンペーンの表示
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 特定のラベルからの表示Webキャンペーン{#view-web-campaigns-from-a-specific-label}
+# 特定のラベルからの web キャンペーンの表示 {#view-web-campaigns-from-a-specific-label}
 
-特定のラベルに従ってキャンペーンを表示およびフィルターする
+特定のラベルに従ってキャンペーンを表示およびフィルタリングしたいですか？
 
-## 既存のラベルでフィルタ{#filter-by-existing-labels}
+## 既存のラベルでフィルター {#filter-by-existing-labels}
 
-1. **Webキャンペーン**&#x200B;に移動します。
+1. **Web キャンペーン**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-4.jpg)
 
-1. ラベルドロップダウンで、必要なラベルを選択します。
+1. ラベルドロップダウンで、目的のラベルを選択します。
 
    ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
 
-1. ここで、選択したラベルに関連付けられているキャンペーンのみが表示されます。
+1. 選択したラベルに関連付けられているキャンペーンのみが表示されます。
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
 >[!MORELIKETHIS]
 >
->* [Webキャンペーンのラベル付け](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [特定のラベルの表示セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Web キャンペーンのラベル付け](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [特定のラベルからのセグメントの表示](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [セグメントのラベル付け](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
