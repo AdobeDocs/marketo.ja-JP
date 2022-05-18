@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783929
-description: テンプレート 6B - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 6B - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # テンプレート 6B {#template-6b}
 
-右クリックして [Template 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html) をダウンロード
+右クリックして[テンプレート 6B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)します
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -25,6 +25,6 @@ ht-degree: 24%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+[テンプレート 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
