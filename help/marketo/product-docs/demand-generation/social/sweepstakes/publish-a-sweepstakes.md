@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # スイープステークの公開 {#publish-a-sweepstakes}
 
-[スイープステークを作成](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)したら、Market oのランディングページ、web サイトおよび Facebook に投稿できます。
+[懸賞を作成](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)したら、Marketo のランディングページ、Web サイトおよび Facebook に投稿できます。
 
 >[!AVAILABILITY]
 >
