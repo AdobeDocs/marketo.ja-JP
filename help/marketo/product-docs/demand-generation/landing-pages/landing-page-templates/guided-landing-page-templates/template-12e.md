@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437586
-description: テンプレート 12E - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 12E - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
 # テンプレート 12E {#template-12e}
 
-右クリックして [Template 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html) をダウンロード
+右クリックして[テンプレート 12E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)します
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -21,11 +21,11 @@ ht-degree: 28%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよび懸賞を含みます。
+   * ヒーロータイトル、ヒーローテキスト、懸賞が含まれます
 
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
