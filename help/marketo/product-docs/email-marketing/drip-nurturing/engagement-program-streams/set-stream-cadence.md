@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359665
-description: ストリームカデンスの設定 —Marketoドキュメント — 製品ドキュメント
-title: ストリーム ケイデンスの設定
+description: ストリームケイデンスの設定 - Marketo ドキュメント - 製品ドキュメント
+title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# ストリーム ケイデンスの設定 {#set-stream-cadence}
+# ストリームケイデンスの設定 {#set-stream-cadence}
 
-エンゲージメントのコンテンツは、任意の間隔で送信できます。 次に例を示します。週に1回、または月の第3火曜日に1回。
+エンゲージメントコンテンツは、任意の間隔で送信できます（例：週に 1 回、月の第 3 火曜日）。
 
 ## ケイデンスを設定 {#set-cadence}
 
@@ -21,15 +20,15 @@ ht-degree: 2%
 
    ![](assets/login-marketing-activities.png)
 
-1. エンゲージメントプログラムを探して選択し、「**Streams**」タブをクリックして、「**Set Stream Cadence**」をクリックします。
+1. エンゲージメントプログラムを検索して選択し、「**ストリーム**」タブをクリックしてから、「**ストリームケイデンスを設定**」をクリックします。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. カデンスを繰り返す頻度を選択します。 **週単位**&#x200B;または&#x200B;**月単位**&#x200B;を選択できます。
+1. ケイデンスの繰り返し頻度を選択します。**毎週**&#x200B;または&#x200B;**毎月**&#x200B;を選択できます。
 
-## 毎週{#weekly}
+## 毎週 {#weekly}
 
-1. 「**週単位**」を選択します。
+1. 「**毎週**」を選択します。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -41,39 +40,39 @@ ht-degree: 2%
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. 次に、カデンスを毎週、またはそれ以上の間隔で発生させるかを選択します。 2週間おきに選びましょう。
+1. 次に、1 週間ごとにケイデンスを実行するか間隔をそれ以上空けるかを選択します。2 週間ごとを選択しましょう。
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. 曜日を決定します。 この場合は、火曜、水曜、木曜にしましょう。
+1. 曜日を決定します。ここでは、火曜日、水曜日、木曜日にします。
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
    >[!TIP]
    >
-   >**繰り返しを選択すると、毎日カデンスを実行するように設定できます。毎週** / **間隔：1週間** / ****:何日も。
+   >**繰り返し：毎週**／**間隔：1 週間**／**オン**：すべての日を選択することで、毎日実行するケイデンスを設定できます。
 
-   次に、時間を選択します。 [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)（つまり、ローカルタイムゾーンに従って配信）を使用する場合は、このチェックボックスをオンにし、[**保存**]をクリックします。
+   次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**保存**」をクリックします。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >コンテンツは、最初のキャストとして選択した日付に配置され、選択した曜日と一致するようにします。さもなければ、最初の週に2回外出する。
+   >コンテンツは、最初のキャストで選択した日付に出力されるので、選択した曜日と一致するようにしてください。さもないと、最初の週に 2 回出力されます。
 
-1. カデンスの上にカーソルを置きます。 未来のキャストが外に出る日が分かるでしょう。
+1. ケイデンスの上にマウスポインターを置きます。今後のキャストが終了する日数を確認できます。
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >この例では、木曜日に電子メールが送信されます。 次に、1週間スキップして、翌週の火曜日、水曜日、木曜日に再度送信します。 そしてまたループを繰り返します
+   >この例では、木曜日にメールが送信されます。その後、1 週間スキップし、次の週の火曜日、水曜日、木曜日に再度送信します。そしてまたループを繰り返します。
 
-それだ！ 月次カデンスを設定する場合は、読み続けてください。
+これで完了です。月次ケイデンスを設定する場合は、読み続けてください。
 
 ## 毎月 {#monthly}
 
-1. **「月別**」を選択して、繰り返しの頻度を指定します。
+1. 繰り返しの頻度で&#x200B;**毎月**&#x200B;を選択します。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -81,11 +80,11 @@ ht-degree: 2%
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. 毎月またはそれ以上の間隔を空ける場合に選択します。4か月ごとに選びましょう。
+1. 毎月にするかそれ以上の間隔を空けるかを選択します。4 か月ごとを選択しましょう。
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
-1. 指定した月の何日かを選択します。この場合は4か月ごとの22日です。
+1. 指定した月の日付を選択します。この場合は、4 か月ごとに 22 日を指定します。
 
    ![](assets/image2014-9-15-16-3a29-3a51.png)
 
@@ -93,22 +92,22 @@ ht-degree: 2%
    >
    >または、曜日を選択することもできます。
 
-1. **時間**&#x200B;を選択し、**保存**&#x200B;をクリックします。
+1. **時間**&#x200B;を選択して、「**保存**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. カデンスの上にカーソルを置きます。 未来のキャストが外に出る日が分かるでしょう。
+1. ケイデンスの上にマウスポインターを置きます。今後のキャストが終了する日数を確認できます。
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
    >[!CAUTION]
    >
-   >後でエンゲージメントストリームのカデンスを変更する場合は、最初のキャストが未来の日付に設定されていることを確認します。
+   >エンゲージメントストリームケイデンスを後で変更する場合は、最初のキャストが将来の日付に設定されていることを確認してください。
 
-流れのカデンスの設定方法を知ってる！
+ストリームケイデンスの設定方法がわかりました。
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [受信者タイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
