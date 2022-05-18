@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783947
-description: テンプレート 7C - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 7C - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 7C
 exl-id: 4c3925e9-dd00-4488-8c2b-4fa0194e80f1
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 # テンプレート 7C {#template-7c}
 
-右クリックして [Template 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html) をダウンロード
+右クリックして[テンプレート 7C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)します
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -21,11 +21,11 @@ ht-degree: 30%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヘッダーと投票を含む
+   * ヘッダーと投票が含まれます
 
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
 [Template 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
