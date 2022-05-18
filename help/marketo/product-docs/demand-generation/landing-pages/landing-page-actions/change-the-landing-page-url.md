@@ -1,28 +1,27 @@
 ---
 unique-page-id: 2359738
-description: ランディングページURLの変更 —Marketoドキュメント — 製品ドキュメント
-title: ランディングページURLの変更
+description: ランディングページ URL の変更 - Marketo ドキュメント - 製品ドキュメント
+title: ランディングページ URL の変更
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ランディングページURLの変更{#change-the-landing-page-url}
+# ランディングページ URL の変更 {#change-the-landing-page-url}
 
-ランディングページのURLを変更できます。 これにより、URLを覚えやすくし、SEOを改善することができます。
+ランディングページの URL は変更できます。これにより、URL を覚えやすくし、SEO を改善できます。
 
-1. ランディングページを選択します。 **ランディングページアクション**&#x200B;ドロップダウンをクリックし、**URLツール**&#x200B;までスクロールして、**URL設定を編集**&#x200B;を選択します。
+1. ランディングページを選択します。**ランディングページのアクション**&#x200B;ドロップダウンをクリックして、**URL ツール**&#x200B;までスクロールして「**URL 設定を編集**」を選択します。
 
    ![](assets/one.png)
 
-1. **新しいURL**&#x200B;を入力し、古いURLを破棄またはリダイレクトするように選択して、[**保存**]をクリックします。
+1. **新しい URL** を入力し、古い URL を破棄またはリダイレクトすることを選択して、「**保存**」をクリックします。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >両方のURLを保持する場合は、リダイレクトルールが自動的に作成されます。 [URLリダイレクト](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)の詳細を表示します。
+   >両方の URL を保持することにした場合、リダイレクトルールが自動的に作成されます。URL リダイレクトについて詳しくは、[こちら](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)を参照してください。
