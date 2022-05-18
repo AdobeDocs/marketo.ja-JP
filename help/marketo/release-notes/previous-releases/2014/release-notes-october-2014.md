@@ -4,7 +4,7 @@ description: リリースノート - 2014年10月 - Marketo ドキュメント -
 title: リリースノート - 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
