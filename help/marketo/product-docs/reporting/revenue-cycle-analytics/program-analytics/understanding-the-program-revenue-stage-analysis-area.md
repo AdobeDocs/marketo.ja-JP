@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7514009
-description: プログラム売上高ステージ分析領域について - Marketo ドキュメント - 製品ドキュメント
-title: プログラム売上高ステージ分析領域について
+description: プログラム収益ステージ分析領域について - Marketo ドキュメント - 製品ドキュメント
+title: プログラム収益ステージ分析領域について
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '418'
 ht-degree: 100%
 
 ---
 
-# プログラム売上高ステージ分析領域について {#understanding-the-program-revenue-stage-analysis-area}
+# プログラム収益ステージ分析領域について {#understanding-the-program-revenue-stage-analysis-area}
 
-この分析領域では、個々のプログラムの効果を分析することも、特定の期間のチャネルごとに要約した結果を確認することもできます。生成された名前のうち、売上高モデルの成功パスで特定のステージに達したものがいくつかあるかを、確実に把握できるようになります。
+この分析領域では、個々のプログラムの効果を分析することも、特定の期間のチャネルごとに要約した結果を確認することもできます。創出された名前のうち、収益モデルの成功パスで特定のステージに達したものがいくつかあるかを、確実に把握できるようになります。
 
 **この分析領域を使用して回答できるビジネスの質問の例を次に示します**。
 
@@ -28,9 +28,9 @@ ht-degree: 100%
 
 ![](assets/three-3.png)
 
-**プログラム売上高ステージ分析のディメンションと測定**
+**プログラム収益ステージ分析のディメンションと測定**
 
-ディメンションと測定は機能別に分類され、システムでは黄色と青色のドットで表されます。黄色のドットがディメンション、青色のドットが測定です。プログラム売上高ステージ分析の各ディメンションと測定を使用して、レポートで特定の質問に答えます。
+ディメンションと測定は機能別に分類され、システムでは黄色と青色のドットで表されます。黄色のドットがディメンション、青色のドットが測定です。プログラム収益ステージ分析の各ディメンションと測定を使用して、レポートで特定の質問に答えます。
 
 カテゴリ内で使用可能なディメンションまたは測定を表示するには、カテゴリ名の横にある右矢印をクリックして、カテゴリリストを展開します。下矢印をクリックして、カテゴリリストを折りたたみます。
 
@@ -64,7 +64,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>ステージ</p></td> 
-   <td colspan="1" rowspan="1"><p>売上高サイクルモデルに存在するステージ。2 つのステージ間の測定を分析する際に、「開始」ステージとして使用されます</p></td> 
+   <td colspan="1" rowspan="1"><p>収益サイクルモデルに存在するステージ。2 つのステージ間の測定を分析する際に、「開始」ステージとして使用されます</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>ステージタイプ</p></td> 
@@ -152,4 +152,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[売上高エクスプローラーレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[収益エクスプローラーレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
