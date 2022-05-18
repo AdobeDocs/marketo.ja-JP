@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2949154
-description: ウェブキャンペーンのラベル付け —Marketoドキュメント — 製品ドキュメント
-title: Webキャンペーンのラベル付け
+description: Web キャンペーンのラベル付け - Marketo ドキュメント - 製品ドキュメント
+title: Web キャンペーンのラベル付け
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webキャンペーンのラベル付け{#label-your-web-campaigns}
+# Web キャンペーンのラベル付け {#label-your-web-campaigns}
 
-スクロールが面倒になるほどキャンペーンが多いか。 ラベルを使用してキャンペーンにタグを付けると、並べ替えや検索が簡単に行えます。
+キャンペーンが多すぎてスクロールが面倒になってきていますか？ラベルを使用してキャンペーンにタグを付け、キャンペーンを並べ替えてすばやく見つけられるようにします。
 
-## Webキャンペーン追加のラベル{#add-a-label-to-a-web-campaign}
+## Web キャンペーンにラベルを追加する {#add-a-label-to-a-web-campaign}
 
-1. Webパーソナライゼーションにログインし、Webキャンペーンー領域に移動します。
+1. ウェブパーソナライズにログインし、Web キャンペーン領域に移動します。
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >必要なキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+   >目的のキャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. ラベルのタグを付けるキャンペーンを選択します。
+1. ラベルでタグ付けするキャンペーンを選択します。
 
    ![](assets/web-campaigns-label.jpg)
 
@@ -33,19 +32,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >ラベルが既に存在する場合は、ラベルを選択し、新しいラベルは作成しないでください。
+   >ラベルが既に存在する場合はそのラベルを選択してください。新規作成はしないでください。
 
    ![](assets/web-campaigns-set-label.jpg)
 
-クール！ これで、ラベルを作成し、キャンペーンに割り当てる方法を理解できました。
+これで完了です。これで、ラベルを作成してキャンペーンに割り当てる方法が分かりました。
 
-## 既存のラベルでフィルタ{#filter-by-existing-labels}
+## 既存のラベルでフィルター {#filter-by-existing-labels}
 
-1. 「ラベル」ドロップダウンで、フィルターとして使用するラベルを選択します。
+1. ラベルドロップダウンで、フィルターとして使用するラベルを選択します。
 
    ![](assets/web-campaigns-my-campaigns-dropdown.jpg)
 
-1. ここでは、選択したラベルに関連付けられているキャンペーンのみが表示されます。
+1. 選択したラベルに関連付けられているキャンペーンのみが表示されます。
 
    ![](assets/web-campaigns-label-showing.jpg)
 
