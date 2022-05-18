@@ -3,7 +3,7 @@ unique-page-id: 1147328
 description: メールのハードバウンスとソフトバウンス - Marketo ドキュメント - 製品ドキュメント
 title: メールのハードバウンスとソフトバウンス
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '288'
 ht-degree: 100%
