@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516475
-description: テンプレート 2C - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 2C - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 # テンプレート 2C {#template-2c}
 
-右クリックして [Template 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html) をダウンロード
+右クリックして[テンプレート 2C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)します
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -26,6 +26,6 @@ ht-degree: 49%
 * テキストおよびフォームを含む 1 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+[Template 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
