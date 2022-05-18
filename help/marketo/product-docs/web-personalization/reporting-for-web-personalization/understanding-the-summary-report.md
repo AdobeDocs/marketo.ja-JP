@@ -3,7 +3,7 @@ unique-page-id: 9438258
 description: 概要レポートについて — Marketo ドキュメント — 製品ドキュメント
 title: 概要レポートについて
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '415'
 ht-degree: 100%
