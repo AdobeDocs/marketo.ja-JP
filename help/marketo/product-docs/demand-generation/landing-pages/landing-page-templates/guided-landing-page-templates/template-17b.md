@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438194
-description: テンプレート 17B - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 17B - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # テンプレート 17B {#template-17b}
 
-右クリックして [Template 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html) をダウンロード
+右クリックして[テンプレート 17B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)します
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -20,11 +20,11 @@ ht-degree: 25%
 
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよびビデオが含まれます。
+   * ヒーロータイトル、ヒーローテキスト、動画が含まれます
 
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
