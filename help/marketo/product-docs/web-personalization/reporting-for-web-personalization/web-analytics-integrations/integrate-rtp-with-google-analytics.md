@@ -26,7 +26,6 @@ ht-degree: 100%
 >* YT／MO
 >* カスタム変数
 >* ユーザー定義変数
-
 >
 >[Web パーソナライゼーションをユニバーサル分析と連携する方法](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)を参照してください。
 
@@ -90,6 +89,6 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 Google Analytics では、ダッシュボード、GA セグメント化およびレポートを使用して、RTP データを表示できます。
 
-* [](https://support.google.com/analytics/answer/1068216?hl=ja) ダッシュボードでは、Web サイトのパフォーマンスの概要を示します。
+* [&#128279;](https://support.google.com/analytics/answer/1068216?hl=ja) ダッシュボードでは、Web サイトのパフォーマンスの概要を示します。
 * GA セグメントは、GA インターフェイス内の訪問者をフィルターし、セグメントごとのトラフィックを表示することを目的としています。セグメントの作成方法については、[こちら](https://support.google.com/analytics/answer/3124493?hl=ja)を参照してください。
 * [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する「カスタマイズ／新しいカスタムレポート」の下を確認します。

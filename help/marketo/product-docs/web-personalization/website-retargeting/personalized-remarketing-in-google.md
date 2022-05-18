@@ -45,7 +45,6 @@ ht-degree: 100%
 >* カスタム変数：組織、業界
 >* イベントカテゴリ：セグメント、Insightera-CTA、RTP-Remarketing
 >* イベントラベル：セグメント名、キャンペーン名、セグメント化されたオーディエンス名
-
 >
 >Google Universal Analytics の場合：
 >
