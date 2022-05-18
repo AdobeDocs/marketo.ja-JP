@@ -4,7 +4,7 @@ description: リリースノート - 2013年1月 - Marketo ドキュメント - 
 title: リリースノート - 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '317'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## 紹介オファー {#referral-offers}
 
-**紹介オファー**&#x200B;は、リードに友達を紹介するインセンティブを与えるものです。成功した紹介に対して目標と報酬を作成します。ランディングページ、web サイト、さらには Facebook でも使用できます。
+**紹介オファー**&#x200B;は、リードに友達を紹介するインセンティブを与えるものです。成功した紹介に対して目標と報酬を作成します。ランディングページ、ウェブサイト、さらには Facebook でも使用できます。
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
