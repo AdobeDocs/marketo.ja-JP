@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[RTP を Google ユニバーサルアナリティクスに連携する](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[RTP を Google ユニバーサルアナリティクスに連携](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 この投稿では、Google ユニバーサルアナリティクス（GUA）で RTP ダッシュボードを設定する方法を説明します。RTP から GUA に送信されるデータは、次の 2 つの異なるカスタムダッシュボードとして設定できます。
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## RTP B2B ダッシュボード {#rtp-b-b-dashboard}
 
-このダッシュボードでは、B2B の観点から Web サイトのパフォーマンスを分析できます。
+このダッシュボードでは、B2B の観点からウェブサイトのパフォーマンスを分析できます。
 
 業種、売上高、規模、アカウントベースリスト、ターゲットセグメントなどの基準で、訪問元やオンサイトの行動といった情報が表示されます。
 
@@ -263,6 +263,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[RTP を Google ユニバーサルアナリティクスに連携する](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[RTP を Google ユニバーサルアナリティクスに連携](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
 >[Google ユニバーサルアナリティクスでのカスタム RTP レポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
