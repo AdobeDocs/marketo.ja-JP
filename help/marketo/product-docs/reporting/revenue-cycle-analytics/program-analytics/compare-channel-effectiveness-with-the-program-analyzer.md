@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: プログラムアナライザーを使用したチャネルの効果の比較 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムアナライザーを使用したチャネルの効果の比較
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '399'
 ht-degree: 100%
