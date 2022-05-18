@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2360394
-description: 商談の影響アナライザーのデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
-title: 商談の影響アナライザーのデータのエクスポート
+description: 商談の影響分析のデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: 商談の影響分析のデータのエクスポート
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
 ---
 
-# 商談の影響アナライザーのデータのエクスポート {#export-opportunity-influence-analyzer-data}
+# 商談の影響分析のデータのエクスポート {#export-opportunity-influence-analyzer-data}
 
 売上高サイクルエクスプローラーレポートから更新を受け取り、共有するには、既存のレポートにメールアドレスを配信登録することができます。
 
@@ -22,7 +22,7 @@ ht-degree: 100%
    >
    >プログラムで作成した基本レポートを配信登録するには、「[基本レポートの配信登録](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)」を参照してください。
 
-1. 「レポートソース」で、「**売上高エクスプローラー**」を選択します。
+1. 「レポートソース」で、「**収益エクスプローラ**」を選択します。
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
