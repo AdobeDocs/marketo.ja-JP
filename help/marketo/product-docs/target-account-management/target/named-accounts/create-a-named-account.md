@@ -28,4 +28,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[特定顧客にユーザーを追加](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[重点顧客にリードを追加](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
