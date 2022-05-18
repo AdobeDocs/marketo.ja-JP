@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784008
-description: テンプレート 10D - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 10D - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # テンプレート 10D {#template-10d}
 
-右クリックして [Template 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html) をダウンロード
+右クリックして[テンプレート 10D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)します
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -20,11 +20,11 @@ ht-degree: 25%
 
 * プライマリセクション
 
-   * ヒーローヘッダー、ヒーローテキストおよびヒーローポールが含まれます。
+   * ヒーローヘッダー、ヒーローテキスト、ヒーロー投票が含まれます
 
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+[Template 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
