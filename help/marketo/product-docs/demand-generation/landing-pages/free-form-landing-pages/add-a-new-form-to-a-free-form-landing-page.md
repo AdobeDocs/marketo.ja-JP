@@ -16,8 +16,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [フォームを作成する](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [フリーフォームランディングページを作成する](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [フォームの作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
