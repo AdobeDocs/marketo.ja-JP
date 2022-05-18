@@ -20,8 +20,9 @@ ht-degree: 100%
 >
 >* Web サイト
 >* 会社
->* 電子メール
+>* メール
 >* 国
+
 >
 >フィールドを再表示する方法は、[こちら](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)を参照してください。
 
