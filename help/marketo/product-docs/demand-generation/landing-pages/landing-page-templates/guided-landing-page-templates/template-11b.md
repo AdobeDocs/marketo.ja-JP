@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437559
-description: テンプレート 11B - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 11B - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # テンプレート 11B {#template-11b}
 
-右クリックして [Template 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html) をダウンロード
+右クリックして[テンプレート 11B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)します
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -26,6 +26,6 @@ ht-degree: 41%
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+[テンプレート 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
