@@ -58,5 +58,4 @@ _updateLeadEmailStatus_ と _resetLeadEmailStatus_ のデータ値変更の定�
 
 >[!MORELIKETHIS]
 >
->[登録解除について](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)>
->
+>[登録解除について](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
