@@ -46,7 +46,7 @@ ht-degree: 100%
    >
    >ビデオ共有では、サムネールが自動的に生成されます。
 
-   「**動的コンテンツを追加**」を選択すると、ページの&#x200B;**OpenGraph**&#x200B;タグ（og:title、og:caption、および og:description）の値とサムネールが Facebook の投稿に自動で追加されます。次の手順を参照してください。
+   「**動的コンテンツを追加**」を選択すると、ページの **OpenGraph** タグ（og:title、og:caption、および og:description）の値とサムネールが Facebook の投稿に自動で追加されます。次の手順を参照してください。
 
    「**静的コンテンツを追加**」を選択した場合は、タイトル、キャプション、説明を入力し、画像をアップロードします。次の 2 つの手順を参照してください。
 
@@ -104,7 +104,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >投稿のテキストで {html_title}を 使用して、ページのタイトルを自動的に表示します。
+   >投稿のテキストで {html_title} を使用して、ページのタイトルを自動的に表示します。
 
 1. 上記の「**静的コンテンツを追加**」を選択した場合はタイトルおよび説明を編集し、カスタム画像を（[**Marketo の画像とファイル**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)&#x200B;から）アップロードします。
 
