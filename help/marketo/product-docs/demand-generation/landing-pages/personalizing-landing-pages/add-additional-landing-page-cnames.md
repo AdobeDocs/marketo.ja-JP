@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359798
-description: 追加追加ランディングページCNAME -Marketoドキュメント — 製品ドキュメント
-title: 追加追加のランディングページCNAME
+description: 付加的なランディングページ CNAME の追加 - Marketo ドキュメント - 製品ドキュメント
+title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 追加追加のランディングページCNAME {#add-additional-landing-page-cnames}
+# 付加的なランディングページ CNAME の追加 {#add-additional-landing-page-cnames}
 
-様々なURLがMarketoランディングページを指すようにランディングページCNAMEを追加する必要がある場合があります。 次の手順に従って、複数のドメインを管理します。
+様々な URL で Marketo のランディングページを指すように、ランディングページの CNAME を追加することができます。次の手順に従うと、複数のドメインを管理するのに役立ちます。
 
 >[!CAUTION]
 >
->Cookieはドメイン間で共有できません。
+>Cookie は、ドメイン間で共有できません。
 
 >[!TIP]
 >
->**同じトップレベルドメイン — 良い！Cookieは共有**&#x200B;されます。<br/> **go**.mycompany.com >  **info**.mycompany.com
+>**同じトップレベルドメイン — 可能Cookie が共有されます**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**異なるトップレベルドメイン — 不良！Cookieは&#x200B;_共有_ではありません**。<br/> 行け。**mycompany**.com/go。**mynewcompany**.com
+>**異なるトップレベルドメイン — 不可能cookie は共有&#x200B;_されません。_**<br/> go.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
->**必要な管理者権限**
+>**管理者権限が必要**
 
-## アカウント文字列{#find-your-account-string}を検索
+## アカウント文字列を検索 {#find-your-account-string}
 
-1. **管理者**&#x200B;領域に移動し、**ランディングページ**&#x200B;をクリックします。
+1. **管理者**&#x200B;セクションに移動して、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
@@ -41,32 +40,32 @@ ht-degree: 0%
 
 1. 次の手順でメモしておきます。
 
-## リクエストをITに送信{#send-request-to-it}
+## IT にリクエストを送信する {#send-request-to-it}
 
-1. IT部門に次のCNAMEを設定するよう依頼します。（「[CNAME]」という語を任意のCNAMEに、「[ACCOUNT STRING]」を前の手順のテキストに置き換えます）。
+1. 担当の IT 部門に、次の CNAME を設定するよう依頼します（[CNAME] を希望する CNAME で置き換え、[ACCOUNT STRING] を前の手順のテキストで置き換えます)。
 
-   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
 
-## 追加新しいCNAME {#add-a-new-cname}
+## 新しい CNAME を追加する {#add-a-new-cname}
 
-1. IT部門がCNAMEを作成したら、**管理者**&#x200B;に移動し、**ランディングページ**&#x200B;をクリックします。
+1. IT 部門が CNAME を作成したら、**管理者**&#x200B;に移動して、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. 「**新規**」をクリックし、「**新しいドメインエイリアス**」を選択します。
+1. 「**新規**」をクリックして、「**新規ドメインエイリアス**」を選択します。
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. **ドメインエイリアスを入力します。** 訪問者がURLを入力しない場合は、 **デフォルト** ページが表示されます。その場合は、どこに移動するかを入力します。
+1. **ドメインエイリアス**&#x200B;を入力します。訪問者が URL を入力しない場合、**デフォルトのページ**&#x200B;が表示されます。その場合の移動先を入力します。
 
    >[!NOTE]
    >
-   >デフォルトページでは、ランディングページまたは公開Webサイトなどの外部URLを選択できます。
+   >デフォルトページの場合は、ランディングページまたは公開 Web サイトなどの外部 URL を選択できます。
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. **デフォルトのページ**&#x200B;を入力し、**作成**&#x200B;をクリックします。
+1. **デフォルトページ**&#x200B;を入力して、「**作成**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
-ナイス！ これで、CNAMEを追加したい場合の対処方法がわかります。
+作業は以上です。これで、CNAME を追加したい場合の対処方法を理解できました。
