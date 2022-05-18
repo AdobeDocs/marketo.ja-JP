@@ -14,8 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[画像とファイルを Marketo に追加](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)>
->
+>[画像とファイルを Marketo に追加](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. フリーフォームランディングページを選択し、「**下書き****の編集**」をクリックします。
 
