@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10097867
-description: ウェブパーソナライゼーションアクティビティ用のスマートリストの定義 —Marketoドキュメント — 製品ドキュメント
-title: Webパーソナライゼーションアクティビティ用のスマートリストの定義
+description: ウェブパーソナライズアクティビティのスマートリストを定義する - Marketo ドキュメント - 製品ドキュメント
+title: ウェブパーソナライズアクティビティのスマートリストを定義する
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ウェブパーソナライゼーションアクティビティ用のスマートリストの定義{#define-a-smart-list-for-web-personalization-activities}
+# ウェブパーソナライズアクティビティのスマートリストを定義する {#define-a-smart-list-for-web-personalization-activities}
 
-スマートキャンペーンでスマートリストを定義する場合は、フィルターとトリガーでWebパーソナライゼーションアクティビティを使用できます。 ここでは、ウェブパーソナライゼーションの誘い文句(キャンペーン)をクリックした人をすべてキャプチャする必要があります。
+スマートキャンペーンでスマートリストを定義する際に、フィルターおよびトリガーでウェブパーソナライズアクティビティを使用できます。ここでは、ウェブパーソナライズのコールトゥアクション（キャンペーン）をクリックしたすべてのユーザーを取り込みます。
 
-トリガーを使用して、電子メールやアラートを送信したり、ウェブパーソナライゼーションの誘い文句（CTA：コールトゥアクション）をクリックして関与した訪問者に基づいて値やスコアを変更したりします。 また、ウェブパーソナライゼーションの誘い文句（CTA、コールトゥアクション）をクリックしたリードをフィルタリングし、表示することもできます。
+トリガーを使用して、メールやアラートを送信したり、ウェブパーソナライズのコールトゥアクションにエンゲージした訪問者に基づいて値やスコアを変更したりします。また、ウェブパーソナライズのコールトゥアクションをクリックしたリードをフィルタリングして表示することもできます。
 
 1. スマートキャンペーンで、「**スマートリスト**」タブをクリックします。
 
@@ -23,15 +22,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >賢いリストは素晴らしい事をできます 詳しくは、[スマートリストディープダイブ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+   >スマートリストはとても便利です。詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
-1. トリガーを検索し、トリガーをキャンバスにドラッグ&amp;ドロップします。
+1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
    ![](assets/image2016-6-8-9-3a24-3a24.png)
 
    >[!NOTE]
    >
-   >トリガーを持つスマートキャンペーンは、トリガーモードで実行されます。 このイベントは、トリガーされたイベントと追加されたフィルターに基づいて、一度に1人のユーザーに対して実行されます。
+   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
@@ -39,29 +38,29 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >赤い波線はエラーを示します。 修正しない場合は、キャンペーンが無効になり、実行されません。
+   >赤い波線は、エラーを示します。修正されない場合、キャンペーンは無効になり、実行されません。
 
 1. トリガーを定義します。
 
    ![](assets/image2016-6-7-11-3a12-3a23.png)
 
-1. 必要に応じて追加フィルターが表示されます。
+1. 必要に応じて、フィルターを追加します。
 
    ![](assets/image2016-6-7-11-3a14-3a20.png)
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方があるスマートキャンペーンでは、トリガーが一番上に表示されます。 トリガーされると、フィルター条件を満たすユーザーのみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。トリガーされると、フィルター条件を満たす人のみがフローを通過します。
 
    >[!NOTE]
    >
-   >複数のトリガーを使用する場合、いずれかのトリガーがアクティブ化されると、個人がフローに入ります。
+   >複数のトリガーを使用する場合、いずれかのトリガーが有効化されると、フローに進みます。
 
-   一連のユーザーに対してキャンペーンを同時に実行するには、[スマートキャンペーン用のスマートリストを定義する方法を学びます。 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)。
+   一連のリードに対してキャンペーンを同時に実行するには、[スマートキャンペーンのスマートリストを定義する | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)を参照してください。
 
    >[!MORELIKETHIS]
    >
-   >* [スマートキャンペーンのスマートリストの定義 |バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [スマ追加ートキャンペーンへのフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [予測コンテンツアクティビティのためのスマートリストの定義](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [予測コンテンツアクティビティのスマートリストの定義](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
