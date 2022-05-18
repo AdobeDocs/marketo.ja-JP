@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 新しいゾーン内 Web キャンペーンを作成する {#create-a-new-in-zone-web-campaign}
 
-Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、Web サイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置換、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかです。ゾーン内 Web キャンペーンは、 ゾーン ID に基づいて、Web サイトの要素をコンテンツやグラフィカルバナーに置き換えます。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置換、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかです。ゾーン内 Web キャンペーンは、 ゾーン ID に基づいて、ウェブサイトの要素をコンテンツやグラフィカルバナーに置き換えます。
 
 ## ゾーン内 Web キャンペーンを作成する {#create-an-in-zone-web-campaign}
 
@@ -32,9 +32,9 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
    >
    >**ゾーン ID とは**
    >
-   >ゾーン ID とは、「ゾーン内」 Web キャンペーンをサイトのどこに配置するかを示す情報です。ゾーン ID は、Web サイトに移動して Web キャンペーンで置き換えたいエリアを選択して右クリックするだけで見つけることができます。Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
+   >ゾーン ID とは、「ゾーン内」 Web キャンペーンをサイトのどこに配置するかを示す情報です。ゾーン ID は、ウェブサイトに移動して Web キャンペーンで置き換えたいエリアを選択して右クリックするだけで見つけることができます。Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
    >
-   >次に、Web サイトで該当するセクションの「id」を探します。検証中の要素なので、ハイライトされます。たとえば、Chrome で右クリックして、ハイライトされたテキストが `<div id="featured-slider">` であれば、ゾーン ID セクションで入力するのは「featured-slider」です。通常、「div id」が使用されますが、「h1 id」、「p id」などの任意の ID が使用されることもあります。
+   >次に、ウェブサイトで該当するセクションの「id」を探します。検証中の要素なので、ハイライトされます。たとえば、Chrome で右クリックして、ハイライトされたテキストが `<div id="featured-slider">` であれば、ゾーン ID セクションで入力するのは「featured-slider」です。通常、「div id」が使用されますが、「h1 id」、「p id」などの任意の ID が使用されることもあります。
 
 <table> 
  <thead> 
@@ -46,19 +46,19 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい Web サイト要素の HTML コードで見つかった id の名前を入力します。</p></td> 
+   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい ウェブサイト要素の HTML コードで見つかった id の名前を入力します。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td> 
-   <td colspan="1" rowspan="1">ゾーン内キャンペーンでは、「固定」チェックボックスがデフォルトで選択されており、ゾーン内キャンペーンは、Web サイトでの訪問者のセッション中ずっとゾーン ID の位置に固定されます。ゾーン内の設定は常に「固定」にしておくことをお勧めします。</td> 
+   <td colspan="1" rowspan="1">ゾーン内キャンペーンでは、「固定」チェックボックスがデフォルトで選択されており、ゾーン内キャンペーンは、ウェブサイトでの訪問者のセッション中ずっとゾーン ID の位置に固定されます。ゾーン内の設定は常に「固定」にしておくことをお勧めします。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong> フェーディング</strong> </p></td> 
-   <td colspan="1" rowspan="1">「効果の使用」チェックボックスと「フェード」を選択すると、Web サイトでゾーン ID のエリアにフェード効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、フェード効果付きでキャンペーンがアクティブになります。</td> 
+   <td colspan="1" rowspan="1">「効果の使用」チェックボックスと「フェード」を選択すると、ウェブサイトでゾーン ID のエリアにフェード効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、フェード効果付きでキャンペーンがアクティブになります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>スライディング</strong></td> 
-   <td colspan="1">「効果の使用」チェックボックスと「スライド」オプションを選択すると、Web サイトでゾーン ID のエリアにスライド効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、左から右へのスライド効果付きでキャンペーンがアクティブになります。</td> 
+   <td colspan="1">「効果の使用」チェックボックスと「スライド」オプションを選択すると、ウェブサイトでゾーン ID のエリアにスライド効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、左から右へのスライド効果付きでキャンペーンがアクティブになります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> リッチテキストエディター  </strong></td> 
