@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: フリーフォームランディングページを作成する - Marketo ドキュメント - 製品ドキュメント
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '180'
 ht-degree: 100%
