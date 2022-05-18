@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359746
-description: CNAMEでランディングページURLをカスタマイズする —Marketoドキュメント — 製品ドキュメント
-title: CNAMEを使用したランディングページURLのカスタマイズ
+description: CNAME を使用したランディングページ URL のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# CNAME {#customize-your-landing-page-urls-with-a-cname}でランディングページURLをカスタマイズする
+# CNAME を使用したランディングページ URL のカスタマイズ {#customize-your-landing-page-urls-with-a-cname}
 
-Marketoがランディングページをホストしている場合でも、URLは完全にカスタマイズできます。 CNAMEを使用しない場合の外観：
+Marketo がランディングページをホストしている場合でも、URL は完全にカスタマイズできます。CNAME がない場合の外観は次のとおりです。
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
@@ -21,54 +20,54 @@ Marketoがランディングページをホストしている場合でも、URL�
 
 `https://go.YourCompany.com/UnsubscribePage.html`
 
-## CNAMEを選択{#choose-a-cname}
+## CNAME を選択する {#choose-a-cname}
 
-ランディングページのURLの先頭に移動する単語を選択します。 単語は1つで、比較的短くする必要があります。 例: 
+ランディングページの URL の先頭に移動する単語を選択します。単語は 1 つだけで、比較的短くする必要があります。例:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-「(plus YourCompany.com)」という単語は「CNAME」と呼ばれます。 後で必要になるので、メモしておいてください。
+1 つの単語（plus YourCompany.com）が CNAME と呼ばれます。後で必要になるので、覚えておいてください。
 
-## アカウント文字列{#find-your-account-string}を探します。
+## アカウント文字列を検索する {#find-your-account-string}
 
-1. **管理者**&#x200B;領域に移動し、**ランディングページ**&#x200B;をクリックします。
+1. **管理**&#x200B;領域に移動して、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
    >[!NOTE]
    >
-   >**必要な管理者権限**
+   >**管理者権限が必要**
 
-1. 「**ランディング****ページ**」タブの下で、**アカウント** **文字列**&#x200B;を&#x200B;**設定**&#x200B;セクションからコピーします。
+1. 「**ランディング****ページ**」タブで、**アカウント****文字列**&#x200B;を&#x200B;**設定**&#x200B;セクションからコピーします。
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
-1. あとで必要になるので、メモしておいてください。
+1. 後でも必要になるので、覚えておいてください。
 
-## リクエストをITに送信{#send-request-to-it}
+## IT にリクエストを送信する {#send-request-to-it}
 
-ITスタッフに次のCNAMEを設定するよう依頼します。（「[CNAME]」と「[ACCOUNT STRING]」という語を前の手順のテキストに置き換えます）。
+次の CNAME を設定するよう IT スタッフに依頼します（[CNAME] および [ACCOUNT STRING] を前の手順のテキストで置き換える）。
 
-[CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+[CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
 
-## CNAMEの設定{#complete-cname-setup}の完了
+## CNAME 設定を完了する {#complete-cname-setup}
 
-1. IT部門がCNAMEを作成したら、**管理者**&#x200B;に移動し、**ランディングページ**&#x200B;をクリックします。
+1. IT で CNAME が作成されたら、**管理者**&#x200B;に移動して、「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. 「**設定**」セクションで、「**編集**」をクリックします。
+1. **設定**&#x200B;セクションで、「**編集**」をクリックします。
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. **ランディングページのドメイン名**&#x200B;にCNAMEを入力し、**フォールバックページ**&#x200B;を入力します。**ホームページ**&#x200B;を入力して、**保存**&#x200B;をクリックします。
+1. 「**ランディングページのドメイン名**」に CNAME を入力します。**フォールバックページ**&#x200B;と&#x200B;**ホームページ**&#x200B;を入力して、「**保存**」をクリックします。
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
 >[!NOTE]
 >
->フォールバックページは、Marketoランディングページが使用できない場合に、ページのリードがリダイレクトされます。
+>Marketo ランディングページを使用できない場合、フォールバックページにリダイレクトされます。
 
-いい仕事！ これで、ランディングページに会社ドメインのブランドが付けられました。
+これで完了です。ランディングページが会社のドメインでブランディングされました。
