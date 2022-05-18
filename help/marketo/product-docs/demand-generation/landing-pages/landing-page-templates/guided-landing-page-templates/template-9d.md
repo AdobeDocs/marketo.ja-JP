@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783990
-description: テンプレート 9D - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 9D - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 9D
 exl-id: 672c5db7-97e4-4fd4-bbfb-058d2f63f7a8
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # テンプレート 9D {#template-9d}
 
-右クリックして [Template 9D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html) をダウンロード
+右クリックして[テンプレート 9D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)します
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -20,11 +20,11 @@ ht-degree: 25%
 
 * プライマリセクション
 
-   * ロゴ画像、ヒーローヘッダーおよび投票を含みます。
+   * ロゴ画像、ヒーローヘッダー、投票が含まれます
 
 * 8 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[Template 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
