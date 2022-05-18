@@ -1,25 +1,24 @@
 ---
 unique-page-id: 3571888
-description: 売上高サイクル分析 —Marketoドキュメント — 製品ドキュメントでのカスタムフィールドの同期の有効化
-title: 売上高サイクル分析でのカスタムフィールドの同期の有効化
+description: 収益サイクルアナリティクスのカスタムフィールド同期の有効化 - Marketo ドキュメント - 製品ドキュメント
+title: 収益サイクルアナリティクスのカスタムフィールド同期の有効化
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 売上サイクル分析用のカスタムフィールドの同期を有効にする{#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# 収益サイクルアナリティクスのカスタムフィールド同期の有効化 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-次の手順では、RCAレポートでカスタムフィールドを使用できます。
+次の手順で、収益サイクルアナリティクスレポートでカスタムフィールドを使用できるようになります。
 
 1. 「**管理者**」をクリックします。
 
    ![](assets/one.png)
 
-1. 「**売上高サイクル分析**」をクリックし、「**カスタムフィールドの同期**」をクリックします。
+1. **収益サイクルアナリティクス**／**カスタムフィールドを同期**&#x200B;をクリックします。
 
    ![](assets/two.png)
 
@@ -31,12 +30,12 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 緑のチェックマークを付けると、フィールドが同期するように設定されていることが通知されます。
+1. 緑のチェックマークは、フィールドが同期するように設定されていることを示します。
 
    ![](assets/five.png)
 
-   それだ！
+   これで完了です。
 
    >[!NOTE]
    >
-   >フィールドを有効にすると、そのデータは翌日にRevenue Cycle Analyticsで利用できるようになります。
+   >フィールドを有効にすると、そのデータは翌日に収益サイクルアナリティクスで使用できるようになります。
