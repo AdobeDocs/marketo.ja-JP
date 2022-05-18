@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359815
-description: パーソナライズされたURL -Marketoドキュメント — 製品ドキュメントを含むリストの書き出し
-title: パーソナライズされたURLを含むリストの書き出し
+description: パーソナライズされた URL を含むリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# パーソナライズされたURLを含むリストの書き出し{#export-a-list-with-personalized-urls}
+# パーソナライズされた URL を含むリストのエクスポート {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
->* [アカウントに合わせたパーソナライズされたURLの有効化](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [ランディングページ向けにパーソナライズされたURLを有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+>* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-1. リストまたはスマートリストを選択し、「**Leads**」タブをクリックして結果を取得し、Excelアイコンをクリックします。 INLINE **Marketo一意コード**&#x200B;と&#x200B;**Marketo一意名** [列が表示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)されていることを確認します。
+1. リストまたはスマートリストを選択し、「**リード**」タブをクリックして結果を取得し、excel アイコンをクリックします。インライン：**Marketo の一意のコード**&#x200B;と **Marketo の一意の名前**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. 「**パーソナライズされたURLを含める**」をオンにし、PURLを生成するランディングページを探して選択します。
+1. 「**パーソナライズ URL を含める**」のチェックをオンにして、PURL を生成するランディングページを見つけて選択します。
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. **URL**&#x200B;を選択します。
+1. **URL**.を選択します。
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
    >[!TIP]
    >
-   >同じランディングページに対して複数のURLが表示される場合、これは、過去のある時点でページのURLを変更し、リダイレクトを作成したことが原因である可能性があります。
+   >同じランディングページに複数の URL が表示される場合、過去のある時点でページの URL を変更し、リダイレクトを作成したことが原因である可能性があります。
 
-1. **スタイル**&#x200B;を選択し、**書き出し**&#x200B;をクリックします。
+1. 「**スタイル**」を選択して「**エクスポート**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
@@ -43,10 +42,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   終わった！ これで、リードとパーソナライズされたURLのリストが得られます。
+   これで完了です。これで、リードとパーソナライズされた URL のリストが作成されました。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
    >[!NOTE]
    >
-   >名と姓が同じリードがある場合、URLが一意であることを確認するために、番号が自動的に追加されます。
+   >姓と名が同じリードがある場合は、URL が一意であることを保証するために、数字が自動的に追加されます。
