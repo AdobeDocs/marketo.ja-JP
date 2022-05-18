@@ -1,25 +1,24 @@
 ---
 unique-page-id: 4720236
-description: アカウントリストを使用したセグメントの作成 —Marketoドキュメント — 製品ドキュメント
-title: アカウントリストを使用したセグメントの作成
+description: 顧客リストを使用したセグメントの作成 - Marketo ドキュメント - 製品ドキュメント
+title: 顧客リストを使用したセグメントの作成
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# アカウントリストを使用したセグメントの作成{#create-a-segment-using-an-account-list}
+# 顧客リストを使用したセグメントの作成 {#create-a-segment-using-an-account-list}
 
-アカウントリストを使用してセグメントを作成する方法を次に示します。
+顧客リストを使用してセグメントを作成する方法を説明します。
 
 >[!PREREQUISITES]
 >
->[新しいアカウントリストの作成](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[新規アカウントリストの作成](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. **セグメント**&#x200B;に移動します。
+1. 「**セグメント**」に移動します。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
@@ -27,20 +26,20 @@ ht-degree: 0%
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. セグメント名を入力します。 **アカウントリスト**&#x200B;を&#x200B;**Firmographics**&#x200B;セクションからドラッグ&amp;ドロップします。
+1. セグメントの名前を入力します。**ファーモグラフィック**&#x200B;セクションから&#x200B;**顧客リスト**&#x200B;をドラッグ＆ドロップします。
 
    ![](assets/set-segment-hands.jpg)
 
-1. アップロードした名前付きアカウントのリストから「アカウント」リストを選択します。 アカウントリスト名の横の括弧で囲まれた数字は、API参照用リストのIDです。
+1. アップロードした重点顧客のリストから顧客リストを選択します。顧客リスト名の横にある角括弧で囲まれた数字は、API 参照用リストの ID です。
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >アカウントリストは、セグメント化で使用するために、ABMからWebパーソナライゼーションに同期されます。 ドロップダウンから選択します。 同期には最大5分かかります。 同期は、アカウントリストに1つ以上の指定されたアカウントがある場合にのみ実行されます。
+   >顧客リストは、セグメント化で使用できるように ABM からウェブパーソナライズに同期されます。ドロップダウンから選択してください。同期には、最大で 分かかります。顧客リストに 1 つ以上の重点顧客が存在する場合にのみ同期されます。
 
-1. 「**保存**」をクリックするか、「**保存してキャンペーンを定義**」をクリックしてキャンペーンページに移動します。
+1. 「**保存**」をクリックするか「**保存してキャンペーンを設定**」をクリックして、キャンペーンページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-おめでとうございます！アカウントリストをターゲットにしたセグメントを設定できました。
+これで完了です。顧客リストをターゲットとするセグメントを設定しました。
