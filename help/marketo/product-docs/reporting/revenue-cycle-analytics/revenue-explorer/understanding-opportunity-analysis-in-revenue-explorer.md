@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2951884
-description: 売上高エクスプローラーでの商談分析について - Marketo ドキュメント - 製品ドキュメント
-title: 売上高エクスプローラーでの商談分析について
+description: 収益エクスプローラーでの商談分析について - Marketo ドキュメント - 製品ドキュメント
+title: 収益エクスプローラーでの商談分析について
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-source-git-commit: ''
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
 source-wordcount: '899'
 ht-degree: 100%
 
 ---
 
-# 売上高エクスプローラーでの商談分析について {#understanding-opportunity-analysis-in-revenue-explorer}
+# 収益エクスプローラーでの商談分析について {#understanding-opportunity-analysis-in-revenue-explorer}
 
-売上高エクスプローラーで商談分析を使うと、商談をさらに詳しく調べることができます。リードや会社の属性、例えばリードのソースや地理情報に基づいてデータを細かく切り分け、名前、ステージ、可能性に基づいて商談の作成とクローズを分析します。マーケティングがパイプラインにどのくらい貢献しているかを確かめましょう。
+収益エクスプローラーで商談分析を使うと、商談をさらに詳しく調べることができます。リードや会社の属性、例えばリードのソースや地理情報に基づいてデータを細かく切り分け、名前、ステージ、可能性に基づいて商談の作成とクローズを分析します。マーケティングがパイプラインにどのくらい貢献しているかを確かめましょう。
 
 ## 分析の例 {#example-analysis}
 
@@ -152,7 +152,7 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [売上高エクスプローラーレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [売上高エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [売上高エクスプローラーレポートの配信登録](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [収益エクスプローラーレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [収益エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [収益エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
