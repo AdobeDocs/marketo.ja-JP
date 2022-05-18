@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504383
-description: 売上高エクスプローラーレポートへのフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
-title: 売上高エクスプローラーレポートへのフィールドの追加
+description: 収益エクスプローラーレポートへのフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
+title: 収益エクスプローラーレポートへのフィールドの追加
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,9 +10,9 @@ ht-degree: 100%
 
 ---
 
-# 売上高エクスプローラーレポートへのフィールドの追加 {#adding-fields-to-a-revenue-explorer-report}
+# 収益エクスプローラーレポートへのフィールドの追加 {#adding-fields-to-a-revenue-explorer-report}
 
-ディメンションフィールドと指標フィールドをキャンバスにドラッグ&amp;ドロップして、売上高エクスプローラーレポートをカスタマイズします。
+ディメンションフィールドと指標フィールドをキャンバスにドラッグ&amp;ドロップして、収益エクスプローラーレポートをカスタマイズします。
 
 <table> 
  <tbody> 
@@ -49,4 +49,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[売上高エクスプローラーレポートのフィールドの削除](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[収益エクスプローラーレポートのフィールドの削除](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
