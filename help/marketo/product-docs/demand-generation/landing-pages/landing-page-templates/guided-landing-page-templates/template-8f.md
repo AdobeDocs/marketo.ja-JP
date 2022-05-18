@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783975
-description: テンプレート 8F - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 8F - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 43%
+ht-degree: 100%
 
 ---
 
 # テンプレート 8F {#template-8f}
 
-右クリックして [Template 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html) をダウンロード
+右クリックして[テンプレート 8F をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)します
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -26,6 +26,6 @@ ht-degree: 43%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+[Template 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
