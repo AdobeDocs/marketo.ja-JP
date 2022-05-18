@@ -1,38 +1,37 @@
 ---
 unique-page-id: 12615798
-description: アカウントリスト追加に対する既存の名前付きアカウント —Marketoドキュメント — 製品ドキュメント
-title: ア追加カウントリストに対する既存の名前付きアカウント
+description: 既存の重点顧客を顧客リストに追加する - Marketo ドキュメント - 製品ドキュメント
+title: 既存の重点顧客を顧客リストに追加する
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '94'
+ht-degree: 100%
 
 ---
 
-# ア追加カウントリスト{#add-an-existing-named-account-to-an-account-list}に対する既存の名前付きアカウント
+# 既存の重点顧客を顧客リストに追加する {#add-an-existing-named-account-to-an-account-list}
 
-アカウントリストに名前付きのアカウントを追加するのは簡単です。
+既存の重点顧客を顧客リストに追加する操作は簡単です。
 
 >[!NOTE]
 >
->これは、アカウントリストにのみ適用され、動的アカウントリストには適用されません。****
+>これは、顧客リストにのみ適用され、動的顧客リストには&#x200B;**適用されません**。
 
-1. 追加する名前付きアカウントの行を選択します。
+1. 追加する重点顧客の行を選択します。
 
    ![](assets/four-1.png)
 
-1. 「**名前付きアカウントアクション**」ドロップダウンをクリックし、「アカウントリスト&#x200B;**追加に**」を選択します。
+1. **重点顧客のアクション**&#x200B;ドロップダウンをクリックし、「**重点顧客リストへの追加**」を選択します。
 
    ![](assets/five-1.png)
 
-1. 「**アカウントリスト**」ドロップダウンをクリックし、目的のアカウントリストを選択して、「**追加**」をクリックします。
+1. **重点顧客リスト**&#x200B;ドロップダウンをクリックし、目的の重点顧客リストを選択して、「**追加**」をクリックします。
 
    ![](assets/six-1.png)
 
-   それだ！
+   これで完了です。
 
 >[!MORELIKETHIS]
 >
->[名前付きアカウントの作成](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[重点顧客の作成](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
