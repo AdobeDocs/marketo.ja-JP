@@ -1,46 +1,45 @@
 ---
 unique-page-id: 4718648
-description: オポチュニティ影響分析について —Marketoドキュメント — 製品ドキュメント
-title: オポチュニティ影響分析について
+description: 商談の影響分析について - Marketo ドキュメント - 製品ドキュメント
+title: 商談の影響分析について
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# オポチュニティ影響分析について{#understanding-the-opportunity-influence-analyzer}
+# 商談の影響分析について {#understanding-the-opportunity-influence-analyzer}
 
-それぞれの機会は物語だ。 どこでリードに会った？ マーケティング/販売プロセスで、どのマーケティングオポチュニティが影響を与えていたか。
+それぞれの商談はストーリーです。どこでリードに会ったのか。マーケティング／セールスプロセス中に、どのようなマーケティング機会に影響を受けたのか。
 
-Opportunity Influence Analyzerを使用すると、全体を確認できます。 Sales Insightでも利用できます。
+商談の影響分析を使用すると、全体を確認できます。Sales Insight でも入手できます。
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**緑色のチェックが表示されます**。右側でチェックされた名前の1つに対するプログラムの成功を示します。 緑の領域は、オポチュニティの開始と終了を示します。
+**緑色のチェックマークに注意してください**。右側でチェックされた名前の 1 つに対して、プログラムの成功を示します。緑色の領域は、商談の開始と終了を示します。
 
 >[!NOTE]
 >
->Analyzerのデータは、リアルタイムではなく夜間に更新されます。
+>アナライザーのデータは、リアルタイムではなく夜間に更新されます。
 
-右側のコントロールを使用して、グラフにユーザーを追加/削除したり、別のアカウントやオポチュニティに切り替えたりします。
+右側のコントロールを使用して、リードをグラフに追加したり、グラフから削除したり、別の顧客や商談に切り替えたりできます。
 
-## 一意のアカウントの識別{#identifying-unique-accounts}
+## 一意の顧客の識別 {#identifying-unique-accounts}
 
-Marketoは、CRM IDを使用してアカウントを一意に識別します。
+Marketo では、CRM ID を使用して顧客を一意に識別します。
 
-以前は、同じ名前のアカウントは1つのアカウントと見なされていました。 例えば、ワシントン高校がアカウント名で、米国内にワシントン高校という名前のアカウントが複数ある場合、それらをすべて1つのアカウントに組み合わせました。 各学校は独立した存在であるため、不正確でした。
+以前は、同名の顧客が 1 つの顧客と見なされていました。例えば、顧客名がワシントン高校で、米国全体にワシントン高校という名前の顧客が複数あった場合、すべてが 1 つの顧客に組み合わされていました。各学校は独立した団体であったので、これは不正確でした。
 
-この動作を維持する場合は、CRMシステムでデータの重複を除外することを検討してください。
+この動作を保持する場合は、CRM システムでデータの重複を排除することを検討してください。
 
 >[!TIP]
 >
->取引を終了するたびに、次の日にこの分析計で検索します。 営業担当者と共有します。 お客様が行うすべての作業に気がつきます。さらに、特定のユーザーが「影響力のある人物」と見なされ、CRMでの役割が割り当てられていない理由を尋ねることもできます。
+>クローズされた契約は、次の日にこのアナライザーで表示されます。営業担当と共有してください。あなたの多大な努力に気付かれるでしょう。また、影響力のあるように「見える」リードが CRM で役割が割り当てられていない理由を尋ねることもできます。
 
 >[!MORELIKETHIS]
 >
->* [Opportunity Influence Analyzerでマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [オポチュニティ影響分析計の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [商談の影響分析でマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [商談の影響分析の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
