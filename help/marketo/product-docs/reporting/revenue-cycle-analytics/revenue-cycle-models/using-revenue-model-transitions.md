@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4718672
-description: 売上高モデルのトランジションを使用する - Marketo ドキュメント - 製品ドキュメント
-title: 売上高モデルのトランジションを使用する
+description: 収益モデルのトランジションを使用する - Marketo ドキュメント - 製品ドキュメント
+title: 収益モデルのトランジションを使用する
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,11 +10,11 @@ ht-degree: 100%
 
 ---
 
-# 売上高モデルのトランジションを使用する {#using-revenue-model-transitions}
+# 収益モデルのトランジションを使用する {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
->[新規売上高モデルを作成する](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[新規収益モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 モデルを作成し、在庫ステージを選択して整理する場合は、トランジションを設定します。
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >売上高モデラーの目的はレポート作成なので、トランジションには必ずトリガーを含めることをお勧めします。そうすれば、モデルとステージフローの真の速度がレポートに反映されます。フィルターをトリガーと共に追加して、制約を追加できます。
+   >収益モデラーの目的はレポート作成なので、トランジションには必ずトリガーを含めることをお勧めします。そうすれば、モデルとステージフローの真の速度がレポートに反映されます。フィルターをトリガーと共に追加して、制約を追加できます。
 
    ![](assets/four-2.png)
 
@@ -64,4 +64,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[売上高モデルを承認／承認解除する](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[収益モデルの承認／未承認](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
