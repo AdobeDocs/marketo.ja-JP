@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437846
-description: テンプレート 16-E — Marketo ドキュメント — 製品ドキュメント
+description: テンプレート 16-E - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
 # テンプレート 16-E {#template-16e}
 
-右クリックして [Template 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html) をダウンロード
+右クリックして[テンプレート 16-E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)します
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -21,11 +21,11 @@ ht-degree: 48%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーロー画像と「詳細」ボタンが含まれている
+   * ヒーロー画像と「詳細」ボタンが含まれます
 
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
 [Template16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
