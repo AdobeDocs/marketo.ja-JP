@@ -44,7 +44,7 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-これで完了です。ランディングページにソーシャルボタンを追加しました。ランディングページは必ず承認してください。また、ランディングページを](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Facebookに[公開したり、[web サイトにソーシャルボタンを配置](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりすることもできます。
+これで完了です。ランディングページにソーシャルボタンを追加しました。ランディングページは必ず承認してください。また、ランディングページを](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Facebook に[公開したり、[Web サイトにソーシャルボタンを配置](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりすることもできます。
 
 >[!TIP]
 >
