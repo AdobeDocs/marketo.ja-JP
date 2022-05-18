@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7514918
-description: 登録解除 —Marketoドキュメント — 製品ドキュメントについて
-title: 登録解除
+description: 登録解除について - Marketo ドキュメント - 製品ドキュメント
+title: 登録解除について
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 登録解除{#understanding-unsubscribe}について
+# 登録解除について {#understanding-unsubscribe}
 
-実際にMarketoにはいくつかの種類の組み込み登録解除があります。 名と同じように、すべては人物オブジェクトのフィールドで表されます。
+Marketo には、実際にはいくつかの異なるタイプの組み込みの登録解除があります。これらはすべて、名と同様に、ユーザーオブジェクトのフィールドで表されます。
 
 >[!NOTE]
 >
->Marketoは、ブラックリストやホワイトリストなどの用語を、当社の製品でブロックリストや許可リストに変更する過程にあります。 この更新中、UIとドキュメントのスクリーンショットには古い用語が表示され、ドキュメントのテキストには新しい用語が表示される場合があります。 ご混乱をおかけして申し訳ございません。
+>Marketo では、製品内のブラックリストやホワイトリストなどの用語をブロックリストや許可リストに変更する作業を進めています。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。混乱を招いてしまったことをお詫びいたします。
 
-これらのフィールドはすべて、Marketo購読に組み込まれています。 これらはすべてブール型（チェックボックス）です。 これらは、Formsまたは[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)のフローステップで使用できます。
+これらのフィールドはすべて、Marketo での登録に組み込まれています。これらはすべてブール型（チェックボックス）です。これらは Forms または[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップで使用できます。
 
-## 配信停止完了 {#unsubscribed}
+## 登録解除済み {#unsubscribed}
 
-これは、標準の登録解除ページで使用されます。 ユーザーがこのボックスをオンにした場合、または電子メール内の登録解除リンクをクリックした場合、マーケティング用の電子メールは受信されなくなります。 ただし、[操作用の電子メール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)を受け取ります。
+これは、標準の登録解除ページで使用されます。ユーザーがこのボックスをオンにした場合、または電子メールの登録解除リンクをクリックした場合、そのユーザーはマーケティング電子メールを受け取らなくなります。ただし、[オペレーショナルメール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)は受け取ります。
 
 ## マーケティングを中断したリード {#marketing-suspended}
 
-このフィールドは、ユーザーが一時的な登録解除にユーザーを配置するために設定します。 ユーザーがこのステータスにできるのは、手動で変更した場合、または変更データ値のフロー手順を利用した場合のみです。
+このフィールドは、ユーザーが一時的な登録解除にリードを配置するために設定します。リードは、手動で変更した場合、またはデータ値の変更フローステップを利用した場合にのみ、このステータスを達成できます。
 
 ## メールの中断 {#email-suspended}
 
-このステータスにより、人が激しいバウンスが発生してから24時間はメールを受けるのを防ぐことができます。 24時間が経つと、再び郵送可能になります。
+このステータスは、ハードバウンスが発生してから 24 時間、リードへのメール送信をブロックします。24 時間後、その人物は再びメールを利用できるようになります。
 
 >[!NOTE]
 >
->「停止された電子メール」は、24時間が過ぎてもチェックされたままになるので、過去に停止とマークされた人を参照できます。 その人が郵送可能かどうかを確認するには、電子メールの一時停止の時点から24時間を計算します。
+>メールの中断は、24 時間が過ぎてもチェックされたままになるので、過去にそのようにマークされた人を指すことができます。その人が送信可能かどうかを確認するには、電子メールの停止の瞬間から 24 時間後がいつになるかを単に計算します。
 
-## ブロックリストに加える{#blocklisted}
+## ブロックリスト登録済み {#blocklisted}
 
-[これは競合他社などの人に使用します](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。電子メールを&#x200B;**受信しない** — 運用、マーケティングなど 何も得られない！
+[競合他社などの人物に使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)。（オペレーショナル、マーケティングなど）メールを&#x200B;**受けとらない**&#x200B;人これらの人は何も受け取りません。
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
