@@ -66,10 +66,10 @@ ht-degree: 100%
 >
 >* **目標に応じて自動**：各参加者が目標を達成すると、フルフィルメントメールが自動的に送信されます。
 >* **手動で送信**：ユーザーが目標を達成し始めたら、紹介オファーに戻って、[フルフィルメントメールを手動で送信](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)します。
->
 
+>
 
 
 >[!MORELIKETHIS]
 >
->次に、[共有 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)を選択するか、紹介オファーで送信する](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)プロモーションコードをアップロード[します。
+>次に、[共有 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) を選択するか、紹介オファーで送信する](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)プロモーションコードをアップロード[します。
