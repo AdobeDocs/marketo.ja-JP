@@ -1,76 +1,75 @@
 ---
 unique-page-id: 2359785
-description: 照会オファーの受渡通知メールを送信 —Marketoドキュメント — 製品ドキュメント
-title: 照会オファーの受渡通知電子メールの送信
+description: 紹介オファー達成メールの送信 - Marketo ドキュメント - 製品ドキュメント
+title: 紹介オファー達成メールの送信
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 照会オファーの受渡通知メールの送信{#send-referral-offer-fulfillment-email}
+# 紹介オファー達成メールの送信 {#send-referral-offer-fulfillment-email}
 
-オファー購読提供数電子メールを使用して、クーポンと割引コードを利用して顧客に報酬を提供します。
+オファーの達成メールを使用して、クーポンおよび割引コードで顧客に報酬を与えます。
 
 >[!PREREQUISITES]
 >
->* [Social Promotionでの電子メールの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [照会オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [ソーシャルプロモーションでのメールの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [紹介オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
-## 購読提供数配信の設定{#set-up-fulfillment-delivery}
+## 達成配信の設定 {#set-up-fulfillment-delivery}
 
-1. 照会オファーを選択します。 「**ドラフトを編集**」をクリックします。
+1. 紹介オファーを選択して、「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 「**アプリの設定**」で、「**オファーの詳細**」を選択します。
+1. **アプリ設定**&#x200B;で、「**オファーの詳細**」を選択します。
 
    ![](assets/image2015-4-23-12-3a53-3a16.png)
 
-1. **入会用電子メール**&#x200B;を選択します。
+1. 「**新規登録メール**」を選択します。
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. **購読提供数の電子メール**&#x200B;を選択します。
+1. 「**達成メール**」を選択します。
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
    >[!NOTE]
    >
-   >ソーシャルプロモーションでの電子メールの使用[についての詳細。](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+   >ソーシャルプロモーションでのメールの使用の詳細については、[こちら](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)を参照してください。
 
-1. 「**受渡配信**」ドロップダウンをクリックし、「**自動（目標**&#x200B;上）」を選択します。
+1. **達成配信**&#x200B;ドロップダウンをクリックして「**目標に合わせて自動送信**」を選択します。
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   **購読提供数の電子メール**&#x200B;内で選択されたメッセージは、目標を満たす人に自動的に送信されます。
+   **達成メール**&#x200B;内で選択されたメッセージは、目標を達成したユーザーに自動的に送信されます。
 
-## 手動送信{#manual-send}
+## 手動送信 {#manual-send}
 
-目標を達成したユーザーには、受渡通知メールを手動で送信できます。
+目標を達成した後、ユーザーに達成メールを手動で送信できます。
 
-1. 参照オファーを選択し、「**参加者**」タブをクリックします。
+1. 紹介オファーを選択し、「**参加者**」タブをクリックします。
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. 「**フィルター条件**」オプションをクリックし、「**目標**」を選択します。
+1. 「**フィルター条件**」オプションをクリックして、「**目標**」を選択します。
 
    >[!NOTE]
    >
-   >これにより、照会オファーの目標を達成した人が選択されます。
+   >紹介オファーの目標を満たしたユーザーが選択されます。
 
    ![](assets/image2015-4-20-15-3a59-3a11.png)
 
-1. フィルターを適用した表示のユーザーを選択します。
+1. フィルターされたビューでユーザーを選択します。
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. 右クリックし、「**購読提供数電子メールを送信**」を選択します。
+1. 右クリックして「**達成メールを送信**」を選択します。
 
    ![](assets/2015-04-20-15-54-13.png)
 
-やりましたね！受渡通知メールを受け取り、報酬についてかき集められる。
+これで完了です。これで、これらのユーザーに達成メールが送信され、報酬に関する情報が通知されます。
