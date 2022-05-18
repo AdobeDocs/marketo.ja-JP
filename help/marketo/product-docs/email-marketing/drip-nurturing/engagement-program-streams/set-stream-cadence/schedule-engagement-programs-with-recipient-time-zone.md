@@ -1,34 +1,33 @@
 ---
 unique-page-id: 12982909
-description: 受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール —Marketoドキュメント — 製品ドキュメント
-title: 受信者のタイムゾーンでのエンゲージメントプログラムのスケジュール
+description: 受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする - Marketo ドキュメント - 製品ドキュメント
+title: 受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 受信者のタイムゾーン{#schedule-engagement-programs-with-recipient-time-zone}との関与プログラムのスケジュール
+# 受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする {#schedule-engagement-programs-with-recipient-time-zone}
 
-エンゲージメントプログラムストリームをスケジュールし、受信者タイムゾーンがアクティブな場合、プログラムキャストは、最初のタイムゾーンの午前0時(UTC +14:00)に実行される開始を送信します。 世界中のどのタイムゾーンでもキャストの資格を得る人がいるので、少なくとも25時間&#x200B;**の間、最初のキャストをスケジュールする必要があります。**&#x200B;この時点で初回タイムゾーンで処理を開始すると、すべての受信者に対して予定された日時に電子メールが配信されることが保証されます。
+エンゲージメントプログラムストリームと受信者タイムゾーンがアクティブになっている場合、プログラムキャストは午前 0 時（UTC +14:00）に開始されます。最初のキャストのスケジュールは&#x200B;**少なくとも 25 時間**&#x200B;後に設定する必要があります。これは、世界中のすべてのタイムゾーンにキャストの資格があるユーザーがいる可能性があるので必要です。この時点で初めてのタイムゾーンで処理を開始すると、すべての受信者に対してスケジュールされた日時にメールが配信されます。
 
-1. エンゲージメントプログラムで、「**Streams**」タブに移動し、ストリームのカデンススケジュールをクリックして編集します。
+1. エンゲージメントプログラムで、「**ストリーム**」タブをクリックし、ストリームのケイデンススケジュールをクリックして編集します。
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [通常どおりにカデンス](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) 設定を行い、「 **受信者時間」** ゾーンボックスをオンにします。最初のキャストは25時間以上にする必要があります。 「**保存**」をクリックします。
+1. 通常どおりに[ケイデンス設定を指定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)してから、「**受信者タイムゾーン**」ボックスをクリックします。最初のキャストは、少なくとも 25 時間後である必要があります。「**保存**」をクリックします。
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
-1. 「受信者タイムゾーン」がアクティブな場合、複数のタイムゾーンが存在する可能性があるので、カデンススケジュールには特定のタイムゾーンが表示されないことに注意してください。 時間のみが表示されます。
+1. 受信者タイムゾーンがアクティブな場合、タイムゾーンは複数存在する可能性があるため、ケイデンススケジュールには特定のタイムゾーンが表示されません。時間のみが表示されます。
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 
 >[!MORELIKETHIS]
 >
->* [受信者のタイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [ストリーム ケイデンスの設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [受信者タイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [ストリームケイデンスの設定](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
