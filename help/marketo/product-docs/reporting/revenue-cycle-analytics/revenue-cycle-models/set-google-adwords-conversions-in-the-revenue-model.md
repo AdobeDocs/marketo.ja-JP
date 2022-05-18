@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095029
-description: 売上高モデルで Google AdWords コンバージョンを設定する — Marketo ドキュメント — 製品ドキュメント
-title: 売上高モデルで Google AdWords コンバージョンを設定する
+description: 収益モデルで Google AdWords コンバージョンを設定する — Marketo ドキュメント — 製品ドキュメント
+title: 収益モデルで Google AdWords コンバージョンを設定する
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: ht
@@ -10,15 +10,15 @@ ht-degree: 100%
 
 ---
 
-# 売上高モデルで Google AdWords コンバージョンを設定する {#set-google-adwords-conversions-in-the-revenue-model}
+# 収益モデルで Google AdWords コンバージョンを設定する {#set-google-adwords-conversions-in-the-revenue-model}
 
-Google AdWords のアカウントを Marketo とリンクすると、オフラインのコンバージョンデータが Marketo から GoogleAdWords に自動的にアップロードされます。[カスタム列を追加した後には](https://support.google.com/adwords/answer/3073556)、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客 (あるいは追跡した売上高ステージ) につながったかを簡単に確認できるようになります。
+Google AdWords のアカウントを Marketo とリンクすると、オフラインのコンバージョンデータが Marketo から GoogleAdWords に自動的にアップロードされます。[カスタム列を追加した後には](https://support.google.com/adwords/answer/3073556)、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客（あるいは追跡した収益ステージ）につながったかを簡単に確認できるようになります。
 
 >[!NOTE]
 >
 >これは、Marketo から Google AdWords へのプッシュ統合です。コンバージョンデータは、Google AdWords のポータルで&#x200B;_のみ_&#x200B;表示され、Marketo のユーザーインタフェイスでは表示&#x200B;_されません_。
 
-詳細は、[Google のオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)を参照してください。AdWords オフラインコンバージョンを売上高モデルの 1 つ以上のステージにマッピングします。マッピングをおこなう方法は 3 つあります。
+詳細は、[Google のオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)を参照してください。AdWords オフラインコンバージョンを収益モデルの 1 つ以上のステージにマッピングします。マッピングをおこなう方法は 3 つあります。
 
 * AdWords コンバージョン
 * ステージアクション
@@ -28,7 +28,7 @@ Google AdWords のアカウントを Marketo とリンクすると、オフラ�
 
 >[!PREREQUISITES]
 >
->[Google AdWords を LaunchPoint サービスとして追加する](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[Google AdWords を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## AdWords コンバージョンを使用する {#use-adwords-conversion}
 
@@ -44,7 +44,7 @@ Google AdWords のアカウントを Marketo とリンクすると、オフラ�
 
    ![](assets/image2015-3-10-15-3a3-3a20.png)
 
-1. AdWords コンバージョンにマッピングする売上高ステージを選択します。
+1. AdWords コンバージョンにマッピングする収益ステージを選択します。
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
@@ -78,7 +78,7 @@ Google AdWords のアカウントを Marketo とリンクすると、オフラ�
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
-1. すべての AdWords コンバージョンを売上高ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
+1. すべての AdWords コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
@@ -120,7 +120,7 @@ AdWords マッピングを使用して、すべてのモデルステージを Ad
 
    ![](assets/image2015-2-26-17-3a7-3a48.png)
 
-1. すべての AdWords コンバージョンを売上高ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
+1. すべての AdWords コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
