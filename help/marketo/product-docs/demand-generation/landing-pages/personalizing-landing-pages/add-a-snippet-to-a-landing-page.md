@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359537
-description: ランディングページ-追加Marketoドキュメント — 製品ドキュメントへのスニペット
-title: ランディングページ追加のスニペット
+description: ランディングページにスニペットを追加する - Marketo ドキュメント - 製品ドキュメント
+title: ランディングページにスニペットを追加する
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# ランディングページ追加{#add-a-snippet-to-a-landing-page}のスニペット
+# ランディングページにスニペットを追加する {#add-a-snippet-to-a-landing-page}
 
-スニペットは、HTMLの一部で、ルールに従ってパーソナライズされたコンテンツを保持することができます。
+スニペットは、ルールに従ってパーソナライズされたコンテンツを保持できる小さな HTML です。
 
 >[!PREREQUISITES]
 >
@@ -23,20 +22,20 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. ランディングページエディターで、**スニペット**&#x200B;要素の上にドラッグします。
+1. ランディングページエディターで、**スニペット**&#x200B;要素をドラッグします。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. スニペットを探して選択し、「**保存**」をクリックします。
+1. スニペットを見つけて選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
    >[!TIP]
    >
-   >スニペットが見つからない場合は、まずスニペットが承認されていることを確認してください。
+   >スニペットが見つからない場合は、まずスニペットが承認されていることを確認します。
 
    >[!NOTE]
    >
-   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)を参照してください。
+   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)を確認してください。
 
-すごい仕事！ ランディングページにスニペットを追加する方法を理解している。
+すごいです。これで、ランディングページにスニペットを追加する方法がわかりました。
