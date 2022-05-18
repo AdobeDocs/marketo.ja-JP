@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2950799
-description: トークンの概要 —Marketoドキュメント — 製品ドキュメント
+description: トークンの概要 - Marketo ドキュメント - 製品ドキュメント
 title: トークンの概要
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# トークンの概要{#tokens-overview}
+# トークンの概要 {#tokens-overview}
 
-トークンは、Marketoのスマートキャンペーンフローステップ、電子メール、ランディングページ、スニペット、Webキャンペーンで使用できる変数です。
+トークンは、Marketo スマートキャンペーンのフローステップ、メール、ランディングページ、スニペット、Web キャンペーンで使用できる変数です。
 
-## デフォルト値について{#understanding-default-values}
+## デフォルト値について {#understanding-default-values}
 
-トークンを使用する場合は、デフォルト値も指定する必要があります。 これは、参照しているフィールドの値がユーザーにない場合に表示するテキストです。
+トークンを使用する場合は、デフォルト値も指定する必要があります。これは、参照しているフィールドの値がユーザーに割り当てられていない場合に示すテキストです。
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-この例では、電子メールは「Greetings, (first name)」または「Greetings, earthling」（デフォルト値）と表示されます。
+この例では、メールに「Greetings, （名前）」または「Greetings, earthling」（デフォルト値）と表示されます。
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Marketoの電子メールエディターを使用している場合、プリヘッダーでトークンは機能しません。 プリヘッダーでトークンを使用するには、電子メールテンプレート内の独自のHTMLを使用する必要があります。
+>Marketo メールエディターを使用している際には、トークンはプリヘッダーで機能しません。プリヘッダーでトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
 
 >[!NOTE]
 >
->このリストは完全なものではありません。 また、Marketoにあるカスタムフィールドごとに、トークンも作成されます。
+>このリストは完全なものではありません。また、トークンは、Marketo のすべてのカスタムフィールドに対しても作成されます。
 
-## 人物トークン{#person-tokens}
+## ユーザートークン {#person-tokens}
 
 * `{{lead.Acquisition Date}}`
 * `{{lead.Acquisition Program Name}}`
@@ -87,9 +86,9 @@ ht-degree: 1%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* ユーザー設定のユーザーフィールドも、`{{lead.Custom Field Name}}`のように表示名を使用する場合にも機能します
+* カスタムユーザーフィールドは、表示名を使用する場合にも機能します（例：`{{lead.Custom Field Name}}`）。
 
-## 会社トークン{#company-tokens}
+## 会社トークン {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,19 +109,19 @@ ht-degree: 1%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* カスタム会社フィールドも、表示名exを使用する場合は機能します。`{{Company.Custom Field Name}}`
+* また、表示名の例を使用する場合は、カスタムの会社フィールドも機能します（例：`{{Company.Custom Field Name}}`）。
 
-## キャンペーントークン{#campaign-tokens}
+## キャンペーントークン {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
 * `{{campaign.description}}`
 
-## システムトークン{#system-tokens}
+## システムトークン {#system-tokens}
 
 >[!NOTE]
 >
->これらのトークンの詳細については、[システムトークン用語集](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)を参照してください。
+>これらのトークンの詳細については、[システムトークンの用語集](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)を参照してください。
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +130,7 @@ ht-degree: 1%
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## トリガートークン{#trigger-tokens}
+## トリガートークン {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +148,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->スマートキャンペーンで使用されるトリガーに基づいて、興味深い瞬間](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の[トークンの詳細を見つけます。
+>スマートキャンペーンで使用されるトリガーに基づいて、[興味深い瞬間のトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)に関する詳細を検索します。
 
 ## プログラムトークン {#program-tokens}
 
@@ -157,16 +156,16 @@ ht-degree: 1%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## マイ トークン {#my-tokens}
+## マイトークン {#my-tokens}
 
-My Tokensはプログラム内で定義され、`{{my.`で始まり、トークンに対して作成した名前が続きます。 [プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)のマイトークンについての詳細。
+マイトークンはプログラム内で定義されれいます。マイトークンは `{{my.` から始まり、その後に、トークン用に作成した名前が続きます。[プログラム内のマイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)を参照してください。
 
-## メンバトークン{#member-token}
+## メンバートークン {#member-token}
 
-メンバートークンは、統合サービスパートナーから一意の値を挿入するために使用されます。 メンバートークンは、ウェビナーの出席者固有のURLに使用するのが一般的です。 各ユーザーは、ウェビナーにアクセスするための固有のURLを持っており、`{{member.webinar url}}`トークンを使用して挿入できます。 `{{member.webinar url}}`トークンは、サービスプロバイダーが生成したユーザー固有の確認URLを自動的に解決します。
+メンバートークンは、統合サービスパートナーから一意の値を挿入するために使用されます。メンバートークンの一般的な使用方法は、ウェビナー参加者向けの一意の URL です。各人は、`{{member.webinar url}}` トークンを使用して挿入できるウェビナーにアクセスするための一意の URL を持っています。`{{member.webinar url}}` トークンは、サービスプロバイダーによって生成されたユーザーの一意の確認 URL を自動的に解決します。
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->`{{member.webinar url}}`トークンは、電子メールを送信するスマートキャンペーンがイベントプログラムの子アセットである場合にのみ入力されます。
+>`{{member.webinar url}}` トークンは、メールを送信するスマートキャンペーンがイベントプログラムの子アセットである場合にのみ入力されます。
