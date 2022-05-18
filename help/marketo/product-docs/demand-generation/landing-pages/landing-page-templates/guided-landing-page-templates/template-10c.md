@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784005
-description: テンプレート 10C - Marketoドキュメント — 製品ドキュメント
+description: テンプレート 10C - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 10C
 exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 # テンプレート 10C {#template-10c}
 
-右クリックして [Template 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html) をダウンロード
+右クリックして[テンプレート 10C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)します
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -20,11 +20,11 @@ ht-degree: 25%
 
 * プライマリセクション
 
-   * ヒーローヘッダー、ヒーローテキストおよびヒーロービデオを含みます。
+   * ヒーローヘッダー、ヒーローテキスト、ヒーロー動画が含まれます
 
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
-**下の右クリックでこのテンプレートをダウンロード：**
+**このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+[Template 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
