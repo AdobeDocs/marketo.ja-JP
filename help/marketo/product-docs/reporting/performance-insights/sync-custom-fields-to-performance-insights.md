@@ -20,7 +20,7 @@ MPI 売上高およびパイプラインダッシュボードは、カスタム 
 
 >[!NOTE]
 >
->この記事は、売上高サイクル分析（RCA）を&#x200B;**持っていない**&#x200B;ユーザー専用です。RCA がある場合は、[この記事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)の手順に従ってください。
+>この記事は、収益サイクル分析（RCA）を&#x200B;**持っていない**&#x200B;ユーザー専用です。収益サイクルアナリティクスがある場合は、[この記事](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)の手順に従ってください。
 
 1. **管理**&#x200B;セクションに移動します。
 
@@ -42,7 +42,7 @@ MPI 売上高およびパイプラインダッシュボードは、カスタム 
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. 任意の「**RCA タイプ**」を選択し、「**保存**」をクリックします。
+1. 任意の「**収益サイクルアナリティクスタイプ**」を選択し、「**保存**」をクリックします。
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
