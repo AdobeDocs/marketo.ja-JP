@@ -1,29 +1,28 @@
 ---
 unique-page-id: 12979223
-description: アカウントインサイトの設定 —Marketoドキュメント — 製品ドキュメント
-title: アカウントインサイトの設定
+description: 顧客インサイトの設定 - Marketo ドキュメント - 製品ドキュメント
+title: 顧客インサイトの設定
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
-# アカウントインサイトの設定{#set-up-account-insight}
+# 顧客インサイトの設定 {#set-up-account-insight}
 
-アカウントインサイトの設定方法を次に示します。
+顧客インサイトの設定方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
->TAMアカウントスコア[は、最初に](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)設定する必要があります。
+>まず、TAM アカウントスコアが[設定されている必要があります](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)。
 
 1. 「**管理者**」をクリックします。
 
    ![](assets/admin-1.png)
 
-1. ツリーで[**ターゲットアカウント管理**]をクリックし、[**販売**]タブをクリックします。
+1. ツリーで「**ターゲットアカウント管理**」をクリックして、「**セールス**」タブをクリックします。
 
    ![](assets/set-up-account-insight-2.png)
 
@@ -31,13 +30,13 @@ ht-degree: 0%
 
    ![](assets/set-up-account-insight-3.png)
 
-1. ドロップダウンをクリックして、「アカウントインサイト」で、名前付きのアカウントと関与した人を優先順位付けする方法を選択します。
+1. ドロップダウンをクリックして、顧客インサイトが重点顧客およびエンゲージしているリードをどのように優先順位付けするかを選択します。
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >[アカウントスコア設定](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)をいつでも更新する場合は、ユーザーの好みを正確に反映するために、Salesの設定を管理者が更新する必要があります。 変更を確認するには、ユーザーはログアウトしてから再度ログインする必要があります。
+   >[アカウントスコア設定](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)がアップデートされた場合は、スコアがユーザーの設定を正確に反映するように、管理者が「販売」の設定をアップデートする必要があります。変更が適用されるには、ユーザーはログアウトしてから再度ログインする必要があります。
 
 1. 「**保存**」をクリックします。
 
