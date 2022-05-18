@@ -1,63 +1,62 @@
 ---
 unique-page-id: 11385183
-description: TAM販売レポート —Marketoドキュメント — 製品ドキュメント
-title: TAM販売レポート
+description: TAM セールスレポート - Marketo ドキュメント - 製品ドキュメント
+title: TAM セールスレポート
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '126'
+ht-degree: 100%
 
 ---
 
-# TAM販売レポート{#tam-sales-report}
+# TAM セールスレポート {#tam-sales-report}
 
-トップアカウントとその週ごとのトレンドを記載した毎週の電子メールを受信します。
+上位のアカウントとその週別トレンドを含む週別メールを受信します。
 
 >[!NOTE]
 >
->このレポートの設定方法を[ここ](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md)で説明します。
+>このレポートの設定方法は[こちら](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md)でご覧ください。
 
-レポートは次の情報を共有します。
+レポートには次の内容が含まれます。
 
-* 選択したアカウントスコアで並べ替えられた名前付きアカウント
-* 上位の関与者
-* 主なトレンドと興味深い瞬間
-* 追加の詳細を含むCSVファイルをダウンロードするためのリンク
+* 選択したアカウントスコアで並べ替えられた重点顧客
+* 上位のエンゲージ済みリード
+* 主なトレンドと注目のアクション
+* 追加の詳細を含む CSV ファイルをダウンロードするためのリンク
 
 ![](assets/tam-sales-report-1.png)
 
-## 販売レポートキー{#sales-report-key}
+## セールスレポートキー {#sales-report-key}
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>アカウントスコア</strong></td> 
+   <td><strong>顧客スコア</strong></td> 
    <td> 
     <div>
-      アカウントスコア別の週別トレンド（セットアップで選択）、続いて現在のアカウントスコア 
+      顧客スコア別の週別トレンド（セットアップで選択）と現在の顧客スコア 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>販売パイプライン</strong></td> 
+   <td><strong>セールスパイプライン</strong></td> 
    <td> 
     <div>
-      週別トレンドバイパイプライン、現在のパイプラインの合計、オープン・オポチュニティの数 
+      パイプライン別の週別トレンドと、現在のパイプラインの合計数およびオープン商談数 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>ページ表示</strong></td> 
+   <td><strong>ページビュー</strong></td> 
    <td> 
     <div>
-      ページ表示の週別トレンドに続く、合計ページ表示数と個別訪問者数 
+      ページビューの週別トレンドと、合計ページビュー数および個別訪問者数 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>注目のアクション</strong></td> 
    <td> 
     <div>
-      その週に発生した興味深い瞬間の合計数 
+      その週に発生した注目のアクションの合計数 
     </div></td> 
   </tr> 
  </tbody> 
