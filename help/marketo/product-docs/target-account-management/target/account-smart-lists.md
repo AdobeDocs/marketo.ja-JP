@@ -4,9 +4,9 @@ description: アカウントスマートリスト - Marketo ドキュメント -
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '467'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->この機能は、Target Account ManagementアドオンとTAMライセンスの両方が発行されたユーザーのみが使用できます。
+>この機能は、ターゲット顧客管理アドオンと TAM のライセンスが発行されたユーザーのみが使用できます。
 
 ## アカウントスマートリストの作成 {#create-an-account-smart-list}
 
