@@ -3,10 +3,10 @@ unique-page-id: 6849070
 description: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのダウンロード - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのダウンロード
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 51%
+source-wordcount: '119'
+ht-degree: 57%
 
 ---
 
@@ -18,9 +18,7 @@ ht-degree: 51%
 
 >[!IMPORTANT]
 >
->このページのプラグインは、Marketoのネイティブ CRM 同期ソリューションを使用して Dynamics にMarketo Engageを同期する場合に使用します。 カスタム同期をおこない、Marketo Sales Insight を購入済みの場合、 [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
-
-同期を開始するには、Microsoft Dynamics アカウントに Sales Insight 用のMarketoソリューションをダウンロードしてインストールする必要があります。
+>このページのプラグインは、Marketoのネイティブ CRM 同期ソリューションを使用して Dynamics 365 にMarketo Engageと同期する場合に使用します。 以下を持つユーザー向け：カスタム同期 (MS Dynamics 365 Online（9.x 以降）で、Marketo Sales Insight ( [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
 1. 「**管理者**」領域に移動します。
 
