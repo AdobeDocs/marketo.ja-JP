@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 70%
+source-wordcount: '896'
+ht-degree: 59%
 
 ---
 
@@ -67,17 +67,39 @@ Dynamic Chat の JavaScript スニペットは、任意の Web サイトおよ�
 
 いいえ、事前に決定された応答のみを利用します。
 
-**匿名ユーザーをターゲットにするにはどうすればよいですか？**
+**Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-ダイアログで、_Person Email is Empty_ 属性を使用します。
+はい。Dynamic Chat は、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。 詳しくは、 [以下の節](#changing-the-language).
 
 **AI／NLP 機能はサポートしていますか？**
 
 AI／NLP 機能はサポートしていません。
 
-**Dynamic Chat は英語以外の言語を提供していますか？**
+**匿名ユーザーをターゲットにするにはどうすればよいですか？**
 
-現時点ではしていません。
+ダイアログで、_Person Email is Empty_ 属性を使用します。
+
+## 言語の変更 {#changing-the-language}
+
+ダイナミックチャットの言語を変更するには、次の手順に従います。
+
+1. Experience Cloudアカウントで、設定アイコンをクリックし、「 」を選択します。 **環境設定**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. メールアドレスの下の現在の言語をクリックします。
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. 新しい言語（第 2 言語はオプション）を選択し、 **保存**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >数十の言語から選択できますが、Dynamic Chat では次の言語のみをサポートしています。英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。
+
+言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体内のすべての要素が変更されます。
 
 ## ダイナミックチャットの制限 {#limits-in-dynamic-chat}
 
