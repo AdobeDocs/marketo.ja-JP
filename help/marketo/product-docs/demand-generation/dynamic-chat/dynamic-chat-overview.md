@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 59%
+source-wordcount: '916'
+ht-degree: 58%
 
 ---
 
@@ -19,7 +19,7 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、W
 
 >[!TIP]
 >
->訪問 [このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) をクリックして、Dynamic Chat のチュートリアルビデオを表示します。
+>[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
 
 ## 統合 {#integrations}
 
@@ -33,7 +33,7 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
 
 ## 設定 {#configuration}
 
@@ -55,21 +55,21 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## よくある質問 {#faq}
 
-**Dynamic Chat は、会社の Web サイトの任意の場所にインストールできますか。それとも、Marketoのランディングページでのみ機能しますか。**
+****
 
-Dynamic Chat の JavaScript スニペットは、任意の Web サイトおよびMarketoのランディングページにインストールできます。
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日（制限の完全なリストを参照） [下](#limits-in-dynamic-chat)) をクリックします。
+[](#limits-in-dynamic-chat)
 
 **Dynamic Chat はライブチャットを許可していますか？**
 
 いいえ、事前に決定された応答のみを利用します。
 
-**Dynamic Chat は英語以外の言語をサポートしていますか？**
+****
 
-はい。Dynamic Chat は、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。 詳しくは、 [以下の節](#changing-the-language).
+はい。Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. [](#changing-the-language)
 
 **AI／NLP 機能はサポートしていますか？**
 
@@ -79,92 +79,96 @@ AI／NLP 機能はサポートしていません。
 
 ダイアログで、_Person Email is Empty_ 属性を使用します。
 
-## 言語の変更 {#changing-the-language}
+## Changing the Language {#changing-the-language}
 
-ダイナミックチャットの言語を変更するには、次の手順に従います。
+Follow these steps to change your Dynamic Chat language.
 
-1. Experience Cloudアカウントで、設定アイコンをクリックし、「 」を選択します。 **環境設定**.
+>[!IMPORTANT]
+>
+>__
+
+1. ****
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. メールアドレスの下の現在の言語をクリックします。
+1. Click the current language under your email address.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 新しい言語（第 2 言語はオプション）を選択し、 **保存**.
+1. ****
 
    ![](assets/dynamic-chat-overview-3.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
-   >数十の言語から選択できますが、Dynamic Chat では次の言語のみをサポートしています。英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。
+   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
-言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体内のすべての要素が変更されます。
+When you update the language, everything in the app itself changes except for the words you&#39;ve personally populated (e.g., stream responses).
 
-## ダイナミックチャットの制限 {#limits-in-dynamic-chat}
+## Limits in Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>パラメーター</th>
   <th>説明</th>
   <th>制限</th>
  <tr>
-  <td>合計ダイアログ</td>
-  <td>ダイアログの合計数（公開および下書き）</td>
+  <td>Total Dialogues</td>
+  <td>Total number of Dialogues (published and draft)</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>公開済みダイアログ</td>
-  <td>保存された公開済みダイアログの数</td>
+  <td>Published Dialogues</td>
+  <td>Number of published Dialogues saved</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>ダイアログごとの Target URL</td>
-  <td>単一のダイアログに追加できる Target URL の数</td>
+  <td>Target URLs per Dialogue</td>
+  <td>Number of Target URLs that can be added to a single Dialogue</td>
   <td>20</td>
  </tr>
  <tr>
-  <td>ダイアログごとの属性</td>
-  <td>単一のダイアログのオーディエンス条件に追加できる属性の数</td>
+  <td>Attributes per Dialogue</td>
+  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
   <td>100</td>
  </tr>
  <tr>
   <td>グループ</td>
-  <td>単一のダイアログに追加できるグループの数</td>
+  <td>Number of groups that can be added to a single Dialogue</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>グループごとの属性</td>
-  <td>グループに追加できる属性の数</td>
+  <td>Attributes per Group</td>
+  <td>Number of attributes that can be added to a group</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>カード</td>
-  <td>ダイアログごとにキャンバスに追加できるカードの数</td>
+  <td>Cards</td>
+  <td>Number of cards that can be added to the canvas per Dialogue</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>匿名リードデータ保持期間</td>
-  <td>エンゲージメントのない匿名リードの情報が保持される期間</td>
+  <td>Anonymous Lead Data Retention Period</td>
+  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>目標アクティビティ保持期間</td>
-  <td>目標アクティビティデータの保持期間</td>
+  <td>Goal Activity Retention Period</td>
+  <td>Amount of time goal activity data is retained</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ドキュメントアクティビティ保持期間</td>
-  <td>ドキュメントの活動データが保持される時間</td>
+  <td>Document Activity Retention Period</td>
+  <td>Amount of time document activity data is retained</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ダイアログアクティビティ保持期間に関するインタラクション</td>
-  <td>ダイアログアクティビティデータとやり取りした時間が保持されます</td>
+  <td>Interacted w/ Dialogue Activity Retention Period</td>
+  <td>Amount of time interacted with Dialogue activity data is retained</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>会議予約アクティビティ保持期間</td>
-  <td>会議の予約アクティビティがダイナミックチャットに保存される時間</td>
+  <td>Meeting Booking Activity Retention Period</td>
+  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
   <td>24 か月</td>
  </tr>
 </table>
