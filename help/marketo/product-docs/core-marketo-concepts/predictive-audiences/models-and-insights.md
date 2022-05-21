@@ -3,13 +3,30 @@ description: モデルとインサイト — Marketoドキュメント — 製�
 title: モデルとインサイト
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '194'
+ht-degree: 4%
 
 ---
 
 # モデルとインサイト {#models-and-insights}
 
-テキスト
+モデルのパフォーマンスは、入力データの品質と完全性に応じて異なります。 各尤度 AI モデルの最も影響を及ぼした要因を確認します。 また、イベント登録の増減、イベント参加の増減、配信停止などの上位要因も確認できます。
+
+>[!NOTE]
+>
+>(+) が付いた行動は予測に肯定的に影響します（逆も同様です）。
+
+モデルの正常性を評価する方法を次に示します。
+
+次に移動： **[!UICONTROL モデルとデータの正常性]** 下のセクション **[!UICONTROL Predictive Audiences]** 内 **[!UICONTROL 管理者]** Marketo Engage領域 すべてのモデルとそのステータスが表示されます。
+
+![画像 1](assets/models-and-insights-1.png)
+
+* **トレーニングステータス**:モデルが積極的にトレーニング（予測の改善）しているかどうかを示します。 トレーニングは 2 週間ごとに自動的に実行されます。 以下に該当する任意のモデル _処理中_ 終了するまでに最大 24 時間かかる場合があります。 任意の _失敗_ モデル，に問い合わせてください [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}。
+* **スコア付けステータス**:モデルがプログラムメンバーの予測（可能性の割合）を積極的に計算しているかどうかを示します。
+* **パフォーマンス**：データの完全性とデータ品質に基づくモデルの正常性の分類（以下を参照）。
+* **データの完全性**:存在/完了しているデータ属性の割合。
+* **データ品質**:良好で使用可能なデータを含む属性の割合。

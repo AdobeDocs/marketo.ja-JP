@@ -4,7 +4,7 @@ title: Predictive Audiences の使用の手引き
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Prime または Ultimate の価格バンドルを利用するインスタンス�
 1. 機能がインスタンスに追加されたら、 **[!UICONTROL Predictive Audiences]** ページの **[!UICONTROL 管理者]** Marketoの領域。
 
 1. チェック **[!UICONTROL Predictive Audiences の有効化]** をクリックして、機能をアクティブにします。 すべてのプロセスがセットアップを完了するまでに、最大 24 時間かかる場合があります。
-

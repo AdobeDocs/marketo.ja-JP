@@ -1,10 +1,10 @@
 ---
-description: Audience Criteria - Marketo Docs - Product Documentation
+description: オーディエンス条件 — Marketoドキュメント — 製品ドキュメント
 title: オーディエンス条件
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 88%
 
 ---
@@ -77,7 +77,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。この例�
 
 ## ターゲット {#target}
 
-特定のダイアログを表示する URL を入力する場所です。You also have the option of adding exclusions.
+特定のダイアログを表示する URL を入力する場所です。また、除外を追加することもできます。
 
 使用可能な形式：
 
@@ -90,13 +90,15 @@ _多数の_&#x200B;属性の組み合わせから選択できます。この例�
 >
 >アスタリスクを使用すると包括的なワイルドカードとして機能します。`https://*.website.com` はサブドメイン（例：`support.website.com`）を含み、ダイアログをサイトのすべてのページに配置します。また、`https://website.com/folder/*` は後続のフォルダー内のすべての HTML ページにダイアログを配置します（例：フォルダーが「sports」の場合、website.com/sports/baseball.html、website.com/sports/football.html などになります）。
 
-**** Exclusions follow the same format as inclusions.
+**除外**
+
+除外を使用して、ダイアログで確実に実行されるようにします **not** は、サイトの特定のページまたは領域に表示されます。 除外は、含むと同じ形式に従います。
 
 ![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
->* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+>* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
+>* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
+>* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
 
