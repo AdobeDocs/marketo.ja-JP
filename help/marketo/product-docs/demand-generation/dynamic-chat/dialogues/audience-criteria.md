@@ -2,10 +2,10 @@
 description: オーディエンス条件 — Marketoドキュメント — 製品ドキュメント
 title: オーディエンス条件
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 88%
+source-wordcount: '499'
+ht-degree: 72%
 
 ---
 
@@ -13,9 +13,31 @@ ht-degree: 88%
 
 Marketo スマートリストと同様に、オーディエンス条件属性を使用すると、ターゲットオーディエンスを定義できます。推測される人、人、会社の属性（またはその組み合わせ）を使用して、既知の人または不明な人をターゲットに設定できます。
 
+## イベント {#events}
+
+![](assets/audience-criteria-0.png)
+
+イベントを使用すると、スクロールした量や、ページやサイトでの閲覧時間に基づいて訪問者をターゲットに設定することができます。 次の例では、20 秒以上特定のページを閲覧した訪問者をターゲットにしています。
+
+1. を取得 **ページ滞在時間** イベントを開き、右にドラッグします。
+
+   ![](assets/audience-criteria-0a.png)
+
+1. 「次よりも大きい」時間を 20 秒に設定します。
+
+   ![](assets/audience-criteria-0b.png)
+
+1. 目的のページの URL を [ターゲット](#target) 」セクションに入力します。
+
+   ![](assets/audience-criteria-0c.png)
+
+## 属性 {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **認識済み担当者**
 
-_多数の_&#x200B;属性の組み合わせから選択できます。この例では、50 人以上の従業員を持つ会社で働くカリフォルニア州のすべての&#x200B;**認識済みユーザー**&#x200B;をターゲットにしています。
+_多数の_&#x200B;属性の組み合わせから選択できます。次の例では、すべてをターゲットに設定しています。 **既知の担当者** 50 人以上の従業員を持つ会社で働くカリフォルニア州。
 
 1. **Person State** 属性を選択し、右にドラッグします。
 
