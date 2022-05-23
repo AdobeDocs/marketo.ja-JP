@@ -2,10 +2,10 @@
 description: Stream Designer - Marketoドキュメント — 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 83%
+source-wordcount: '630'
+ht-degree: 79%
 
 ---
 
@@ -26,6 +26,10 @@ _多数の_&#x200B;ストリームの組み合わせを作成できます。こ�
  <tr>
   <td><strong>質問</strong></td>
   <td>複数選択の質問に対して、利用可能な回答を提供する場合に使用します（例：どのような車に興味がありますか？応答 = SUV、コンパクト、トラックなど）。</td>
+ </tr>
+ <tr>
+  <td><strong>ドキュメント</strong></td>
+  <td>ダイアログにPDFドキュメントを埋め込み、訪問者のドキュメントのエンゲージメントアクティビティ（閲覧されたページ数、ダウンロードされた場合のドキュメントの数、使用された検索語）を追跡できます。</td>
  </tr>
  <tr>
   <td><strong>情報取得</strong></td>
