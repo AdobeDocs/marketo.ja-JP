@@ -3,10 +3,10 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
-ht-degree: 100%
+source-wordcount: '4196'
+ht-degree: 99%
 
 ---
 
@@ -272,7 +272,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
-   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> ドキュメント、<a href="https://developers.marketo.com/" rel="nofollow">開発者</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
+   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketoには、次のような様々な種類のドキュメントがあります。製品ドキュメント（現在利用しているサイト） <a href="https://developers.marketo.com/" rel="nofollow">開発者</a> ドキュメントおよび <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a> ドキュメント</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポート、適合（DMARC）</strong></td> 
