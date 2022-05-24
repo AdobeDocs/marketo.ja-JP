@@ -4,16 +4,16 @@ title: 目標追跡と推定登録について
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
 
 # 目標追跡と推定登録について {#understanding-goal-tracking-and-projected-registrations}
 
-後 [イベント目標の設定](/help/sky/setting-event-goals.md) そして招待を [スマートキャンペーン](/help/sky/create-a-smart-campaign.md)では、目標の進行状況を追跡し、Marketoの予測を理解する方法について説明します。
+ここでは、目標の進行状況を追跡し、Marketoの予測を理解する方法について説明します。
 
 >[!NOTE]
 >
