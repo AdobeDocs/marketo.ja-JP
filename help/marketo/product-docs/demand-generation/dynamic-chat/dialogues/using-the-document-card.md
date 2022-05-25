@@ -4,8 +4,8 @@ title: ドキュメントカードの使用
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
 source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
