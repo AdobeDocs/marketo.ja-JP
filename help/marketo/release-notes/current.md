@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b32fb053062481f0750305548d38055db2c72463
+source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '545'
+ht-degree: 10%
 
 ---
 
@@ -16,8 +16,6 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
-
-**_四半期リリース_**
 
 以下の機能のリリースは、 **2022 年 6 月 25 日**（特に指定のない限り）後週に残りの機能が段階的に公開される場合 )
 
