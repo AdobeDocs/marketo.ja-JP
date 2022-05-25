@@ -4,9 +4,9 @@ title: 目標追跡と推定登録について
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 1%
 # 目標追跡と推定登録について {#understanding-goal-tracking-and-projected-registrations}
 
 ここでは、目標の進行状況を追跡し、Marketoの予測を理解する方法について説明します。
+
+>[!PREREQUISITES]
+>
+>これらの機能の大部分にアクセスするには、必ず [次世代トグル](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} （イベントプログラム用）。
 
 >[!NOTE]
 >
