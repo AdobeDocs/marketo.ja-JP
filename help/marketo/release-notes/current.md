@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 10%
+source-wordcount: '644'
+ht-degree: 9%
 
 ---
 
@@ -48,6 +48,12 @@ ht-degree: 10%
 ![（星印）](assets/yellow-star.png)
 
 * **Salesforce の Sales Insight 権限セット**:管理者は、Sales Insight Salesforce パッケージの一部であるMarketoアプリ権限セットを使用して、プロファイルレベルではなく、ユーザーレベルで限られた一連のユーザーに対して Sales Insight のアクセス権を提供できます。
+
+* **マイMarketoタイルの更新 — Sales Insight アクション**:Marketo管理者（および指定したユーザー）は、My Marketoページにある新しい Sales Insight アクションタイルから、Sales Insight アクションインスタンスにすばやく移動できるようになりました。
+
+## Sales Connect {#sales-connect}
+
+* **Salesforce API 更新**:Salesforce Summer 22 リリースでは、API レガシーバージョン 21 ～ 30 は Salesforce でサポートされなくなります。 このMarketo Engageリリースでは、従来の API バージョンを使用するすべてのセールスコネクトリクエストが更新され、サポート対象のバージョン内に留まります。 Salesforce API の定年プランの詳細は、 [ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}。
 
 ## API の強化 {#api-enhancements}
 
