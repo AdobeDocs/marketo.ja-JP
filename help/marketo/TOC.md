@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5d8a129e29d56c0f997d1ef141977469b0afc1a8
+source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
 workflow-type: tm+mt
-source-wordcount: '8773'
+source-wordcount: '8775'
 ht-degree: 95%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 95%
          + [カスタムオブジェクトの変更のトリガー](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [カスタムオブジェクトメタデータのエクスポート](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo と Adobe ID {#marketo-with-adobe-identity}
+         + [クイックガイド](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
          + [概要](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [管理者の設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
