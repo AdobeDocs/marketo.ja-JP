@@ -3,16 +3,16 @@ description: クイックガイド — Marketoドキュメント — 製品ド�
 title: クイックガイド
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # クイックガイド {#quick-guide}
 
-次の手順に従って、AdobeIdentity ManagementとのMarketo Engageを設定し、詳しく学びます。
+以下の記事は、AdobeIdentity Managementの設定とMarketo Engageの詳細に役立ちます。
 
 ## システム管理者 {#system-admin}
 
