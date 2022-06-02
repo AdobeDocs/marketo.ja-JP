@@ -2,7 +2,7 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 8%
@@ -63,7 +63,7 @@ ht-degree: 8%
 
 ## お知らせ {#announcements}
 
-* **Formsの廃止 — Forms 1.0、リードキャプチャ/保存エンドポイント、非スクリプトバージョンのフォーム**:Forms 1.0 アセットのサポートは、2022 年 10 月にMarketo Engageから完全に削除されます。 既存のForms 1.0 アセットはすべて機能しなくなります。 Marketo Engageフォームを読み込むには、ランディングページや Web サイトで JavaScript を読み込む必要があります。
+* **Formsの廃止 — Forms 1.0、リードキャプチャ/保存エンドポイント、非スクリプトバージョンのフォーム**:Forms 1.0 アセットのサポートは、2022 年 10 月までにMarketo Engageから完全に削除されます。 既存のForms 1.0 アセットはすべて機能しなくなります。 Marketo Engageフォームを読み込むには、ランディングページや Web サイトで JavaScript を読み込む必要があります。
 
 **_製品リリースウェビナー_**
 
