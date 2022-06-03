@@ -3,10 +3,10 @@ unique-page-id: 1146942
 description: スマートキャンペーン用スマートリストの定義 |トリガー- Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 100%
    >[!NOTE]
    >
    >トリガーを使用したスマートキャンペーンは、**トリガー**&#x200B;モードで実行されます。トリガーされたイベントと追加された任意のフィルターに基づいて、1 人につき一度ずつ実行されます。
+
+   >[!IMPORTANT]
+   >
+   >トリガーキャンペーンスマートリストでブール値フィールドを使用する場合、キャンペーンの実行中にフィールドが正しく評価されるように、明示的に「false」に設定する必要があります。
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
