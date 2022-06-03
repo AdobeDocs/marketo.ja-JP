@@ -4,10 +4,10 @@ title: メールの検証
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: e76a79927666cf4b197b8acd2e60a3756cc6f2b0
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ AdobeMarketo Engage サブスクリプションを使用する場合、API 専�
 
 **メールアドレスの変更**
 
-ユーザーのメールアドレスが変更されると、そのメールアドレスは検証されなくなります。再検証を許可するメールが送信されます。管理者は、「**検証を再送信**」をクリックして、手動でメールを再送できます。
+ユーザーのメールアドレスが変更されると、そのメールアドレスは検証されなくなります。再検証を許可するメールが送信されます。ユーザーは、 **検証を再送信**.
 
 ![](assets/email-verification-1.png)
 
@@ -33,4 +33,4 @@ AdobeMarketo Engage サブスクリプションを使用する場合、API 専�
 
 ![](assets/email-verification-3.png)
 
-未検証のユーザーを検証するには、レコードを選択し、「**メールを確認**」ボタンをクリックします。
+検証 E メールを未検証のユーザーに再送信するには、レコードを選択し、 **メールの確認** 」ボタンをクリックします。
