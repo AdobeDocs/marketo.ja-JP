@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
 workflow-type: tm+mt
-source-wordcount: '878'
-ht-degree: 92%
+source-wordcount: '888'
+ht-degree: 91%
 
 ---
 
@@ -113,6 +113,10 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 1. 高さを **450** ピクセルに編集し、「**OK**」をクリックします。
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
+
+   >[!NOTE]
+   >
+   >チェック **スクロールバーを表示** スクロールスルーアクティビティにアクセスする必要がある場合。
 
    >[!TIP]
    >
