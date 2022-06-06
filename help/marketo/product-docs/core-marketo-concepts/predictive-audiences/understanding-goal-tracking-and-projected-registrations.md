@@ -1,13 +1,11 @@
 ---
 description: 目標の追跡と推定登録について — Marketoドキュメント — 製品ドキュメント
 title: 目標追跡と推定登録について
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
-ht-degree: 1%
+source-wordcount: '988'
+ht-degree: 0%
 
 ---
 
@@ -27,23 +25,27 @@ ht-degree: 1%
 
 1. 目標追跡の詳細は、 **[!UICONTROL レポート]** 」タブをクリックします。 この例では、これまでに 150 人の登録メンバーが存在し、200(75%) の目標を達成しています。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 また、 **[!UICONTROL 推定]** 登録。 情報アイコンの上にマウスポインターを置くと、この数が可能性セグメント別に分類されて表示されます。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >出席グラフと上位グラフは、イベントの日まで空のままです。
 
+切り替えスイッチを有効にしていない場合、Marketo Class UI での表示方法を次に示します。
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. 「グラフ」トグルをクリックして、登録の可能性別にメンバーの分類に切り替えます。 過去のプログラムでのセグメントの平均割合に対する、各セグメントの現在の登録の割合が表示されます。
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 すべてのメンバー（登録済み、未登録）は、登録の可能性に基づいて分類されます。 情報アイコンの上にマウスポインターを置くと、これらの可能性カテゴリの定義方法が表示されます。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ PICC
 * イベント作成からイベント開始までの時間
 * イベントの期間
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## レコメンデーション
 
 レポートページの上部に、進行状況に基づく AI/ML 主導のレコメンデーションが表示されます。 役に立つヒントやインサイトについては、定期的に確認してください。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## 人物レベルの予測
 
 次をクリック： **[!UICONTROL メンバー]** タブをクリックして、すべてのプログラムメンバーを表示します。 次の項目にカーソルを合わせます。 **[!UICONTROL 登録の可能性]** または **[!UICONTROL 出席の可能性]** バーを使用して、正確な割合と分類を確認できます。 その後、特定のカテゴリのメンバー（例えば、「可能性が低い」カテゴリの全員）に対してアクションを実行し、特に、登録番号を押し上げるためにメンバーをターゲットに設定できます。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii.24 時間後、 [!UICONTROL レポート] 「 」タブには、現在招待�
 
 iii.予測される登録数が目標より少ない場合は、より多くの人を招待する必要があります。 この時点で、過去のプログラムで動作したしきい値を示すインサイトを確認できます。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 四 しきい値を使用して新しいスマートキャンペーンを作成し、より多くの人を招待できます。
 
@@ -124,7 +126,7 @@ v.推定数が表示される理由を把握したい場合は、任意の時点
 
 **青いバー：** そのセグメント内のすべての人の登録率。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 例えば、100 人が登録した 100 人のうち 50%を超え 60 人を登録する可能性があるとします。 コンバージョン率が 60%である可能性が高くなります。 そのため、プログラムに追加されたすべてのメンバーが値を登録する可能性が得られ、その後、セグメントに入れられ、各セグメントコンバージョン率で登録された人数に従って計算されます。
 
@@ -134,10 +136,10 @@ PICC
 
 イベントプログラムに対して新しい進行状況ステータスを作成できますが、そのステータスは標準のステータスにマッピングします。 人が招待からアニメートに移される場合を考えてみましょう。これは登録よりも高いステップです。 このユーザーも登録済みと見なされ、目標の追跡に表示されます。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **Q:予定登録はどのように計算されますか？**
 
 回答：以下を参照してください。
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
