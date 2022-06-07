@@ -2,10 +2,10 @@
 description: 製品管理者の追加または削除 - Marketo ドキュメント - 製品ドキュメント
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '293'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 100%
 >**システム**&#x200B;管理者は、アドビ組織レベルでのみ作成されます。複数の情報が必要な場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
 ## 製品管理者の追加 {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>Marketo Engageにアクセスするには、製品プロファイルに管理者を追加する必要があります。
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
 

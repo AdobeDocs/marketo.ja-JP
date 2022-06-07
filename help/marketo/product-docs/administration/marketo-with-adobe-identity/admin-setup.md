@@ -2,10 +2,10 @@
 description: 管理者の設定 - Marketo ドキュメント - 製品ドキュメント
 title: 管理の設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 94%
+source-wordcount: '222'
+ht-degree: 90%
 
 ---
 
@@ -13,13 +13,13 @@ ht-degree: 94%
 
 アドビのシステム管理者としてアドビ組織の Marketo Engage に追加されたら、初期設定を完了するためにいくつかの手順を実行する必要があります。
 
-## システム管理者の設定 {#system-admin-setup}
+## 初期設定 {#initial-setup}
 
 1. （新しい組織または設立された組織で）Marketo Engage の指定システム管理者として追加されたら、お知らせメールが届きます。そのメールで、「**開始する**」をクリックします。
 
    ![](assets/admin-setup-1.png)
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html)します。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、 [Adobe IDの設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ ht-degree: 94%
 
 >[!MORELIKETHIS]
 >
->[製品管理者の追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[製品管理者の追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
