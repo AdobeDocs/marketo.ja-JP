@@ -3,9 +3,9 @@ description: プログラムメンバーカスタムフィールド - Marketo �
 title: プログラムメンバーカスタムフィールド
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 20%
 >
 >プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 
-## Salesforce フィールドをプログラムメンバーフィールドにマッピング {#map-salesforce-fields-to-program-member-fields}
+## Salesforce フィールドをプログラムメンバーカスタムフィールドにマッピング {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Marketo で、「**管理者**」をクリックします。
 
@@ -44,7 +44,7 @@ ht-degree: 20%
 
    >[!NOTE]
    >
-   >このドロップダウンには、Salesforce フィールドのデータ型と一致するプログラムメンバカスタムフィールドのみが表示されます。
+   >このドロップダウンには、Salesforce フィールドのデータ型と一致するプログラムメンバーカスタムフィールドのみが表示されます。
 
 1. その他のフィールドマッピングについては、検索ボックスをオフにして、手順 3 ～ 5 を繰り返します。
 
@@ -60,7 +60,7 @@ ht-degree: 20%
    >
    >Salesforce でフィールドのデータ型の名前を変更または変更した場合、そのフィールドとプログラムメンバーカスタムフィールドとのマッピングはすべて削除されます。 ただし、レビュー後に新しいフィールドに再マップすることができます。
 
-## Salesforce フィールドのプログラムメンバーフィールドへのマッピング解除 {#unmap-salesforce-fields-to-program-member-fields}
+## プログラムメンバーカスタムフィールドから Salesforce フィールドのマッピングを解除 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 フィールドを置き換えるために解放したい場合や、一般的な変更を行う場合は、まずマッピング解除を実行する必要があります。 手順は以下のとおりです。
 
@@ -88,7 +88,7 @@ ht-degree: 20%
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## データタイプマッピング {#datatype-mapping}
+## データタイプマッピング {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ ht-degree: 20%
   <tbody>
     <tr>
       <th>SFDC データタイプ</th>
-      <th>プログラムメンバーフィールドデータタイプ</th>
+      <th>プログラムメンバーカスタムフィールドデータ型</th>
     </tr>
     <tr>
       <td>テキスト</td>
