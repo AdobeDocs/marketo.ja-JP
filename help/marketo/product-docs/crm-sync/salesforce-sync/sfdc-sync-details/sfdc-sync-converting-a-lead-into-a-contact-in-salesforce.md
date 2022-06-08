@@ -3,8 +3,8 @@ unique-page-id: 2953465
 description: SFDC 同期 - Salesforce でリードを連絡先に変換 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - Salesforce でリードを連絡先に変換
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 

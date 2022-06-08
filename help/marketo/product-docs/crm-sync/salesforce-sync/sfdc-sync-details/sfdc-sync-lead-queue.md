@@ -3,8 +3,8 @@ unique-page-id: 7516241
 description: SFDC 同期 - リードキュー - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - リードキュー
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 

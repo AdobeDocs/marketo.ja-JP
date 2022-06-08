@@ -3,8 +3,8 @@ unique-page-id: 2953471
 description: SFDC 同期 - カスタムオブジェクトの同期  - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 100%
 

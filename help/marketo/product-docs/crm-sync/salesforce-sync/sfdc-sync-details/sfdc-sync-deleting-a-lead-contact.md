@@ -3,8 +3,8 @@ unique-page-id: 7515131
 description: SFDC 同期 - リード／連絡先の削除 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - リード／連絡先の削除
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

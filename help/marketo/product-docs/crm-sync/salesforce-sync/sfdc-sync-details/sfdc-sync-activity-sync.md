@@ -3,8 +3,8 @@ unique-page-id: 2953473
 description: SFDC 同期 - アクティビティ同期 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - アクティビティ同期
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 
