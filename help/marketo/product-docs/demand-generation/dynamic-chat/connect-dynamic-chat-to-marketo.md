@@ -2,16 +2,16 @@
 description: 動的チャットを Marketo に接続する - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 55%
+source-wordcount: '218'
+ht-degree: 44%
 
 ---
 
 # 動的チャットを Marketo に接続する {#connect-dynamic-chat-to-marketo}
 
-[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)が完了したら、動的チャットを Marketo サブスクリプションに接続する 1 回限りの同期を実行する時間です。
+完了後、 [初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}:Dynamic Chat をMarketoサブスクリプションに接続する 1 回限りの同期を実行する時間です。
 
 1. マイ Marketo で、**動的チャット**&#x200B;タイルをクリックします。
 
@@ -21,7 +21,7 @@ ht-degree: 55%
    >
    >タイルが表示されない場合は、Marketo 管理者にお問い合わせください。
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html)してください。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、 [Adobe IDの設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
 
 1. Marketo インスタンスに接続するには、**統合**&#x200B;を選択します。
 
@@ -47,32 +47,6 @@ ht-degree: 55%
 >
 >データベースのサイズに応じて、同期が完了するまでに 2 ～ 24 時間かかる場合があります。
 
-## アドビ組織と Marketo のリンク {#link-your-adobe-org-and-marketo}
-
-次に、アドビと Marketo をリンクする時です。
-
->[!IMPORTANT]
->
->このマッピングを確立するMarketo Engageユーザーの電子メールアドレスは、接続中のAdobe組織にもアクセスできる必要があります。
-
-1. [experience.adobe.com](https://experience.adobe.com) にログインします。
-
-1. Experience Cloudの任意の場所で画面をクリックし、Ctrl + i キーを押します。内 **割り当てられた組織** 「 」タブをクリックし、組織 ID(_マイナス_ &quot;@AdobeOrg&quot;) です。 押す **閉じる** 完了したら、
-
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
-
-1. Marketo で、**管理者**&#x200B;セクションに移動して&#x200B;**アドビ組織マッピング**&#x200B;を選択します。
-
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
-
-1. 「**編集**」をクリックします。
-
-   ![](assets/connect-dynamic-chat-to-marketo-8.png)
-
-1. 手順 2 でコピーした組織 ID を貼り付け、「**OK**」をクリックします。
-
-   ![](assets/connect-dynamic-chat-to-marketo-9.png)
-
 >[!MORELIKETHIS]
 >
->[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
+>[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
