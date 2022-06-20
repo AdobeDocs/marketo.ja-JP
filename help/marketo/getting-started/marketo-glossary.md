@@ -3,10 +3,10 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
-ht-degree: 99%
+source-wordcount: '4203'
+ht-degree: 96%
 
 ---
 
@@ -28,19 +28,15 @@ ht-degree: 99%
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウント</strong></td> 
-   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>- <strong>ABM</strong> では、<strong>重点顧客</strong>とは、ユーザーが追跡したいターゲットアカウントと判断したアカウントのことです。<br>- ABM では、CRM アカウントとは、リンクされた <strong>CRM</strong>（<strong>Salesforce</strong>、<strong>MS Dynamics</strong> または <strong>API</strong> のアカウント）からマッピングされたアカウントのことです。<br>- CRM では、アカウントとは、リードおよび連絡先が関連付けられているビジネス／企業です。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">アカウントベースドマーケティング</a>（ABM）</strong></td> 
-   <td colspan="1">主要なアカウントを高度に調整された方法でターゲティングおよびエンゲージメントできるアドオン機能。</td> 
+   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>-In <strong>TAM</strong>, a <strong>特定顧客</strong> は、ユーザーが追跡したいターゲットアカウントと判断したアカウントです。<br>- TAM では、CRM アカウントは、リンクされた <strong>CRM</strong> ( アカウント <strong>Salesforce</strong>, <strong>MS Dynamics</strong> または <strong>API</strong>) をクリックします。<br>- CRM では、アカウントとは、リードおよび連絡先が関連付けられているビジネス／企業です。</td> 
   </tr> 
   <tr> 
    <td><strong>顧客リスト</strong></td> 
-   <td>主要なアカウント名／組織名のリスト。アカウントベースドマーケティング（<strong>ABM</strong>）リストとも呼ばれます。</td> 
+   <td>主要なアカウント名／組織名のリスト。ターゲットアカウント管理 (<strong>TAM</strong>)」リストに表示されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウントプロファイル</strong></td> 
-   <td colspan="1">（以前のアカウント AI）<strong>ABM</strong> では、理想的な顧客プロファイル（ICP）を使用して、データベース内の既存の会社がランク付けされ、そのランキングがアカウントのスコアとして追加されます。</td> 
+   <td colspan="1">（旧称 AccountAI）In <strong>TAM</strong>を使用すると、理想的な顧客プロファイル (ICP) を使用して、データベース内の既存の会社がランク付けされ、アカウントにスコアとしてランク付けされます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">アカウントスコア</a></strong></td> 
@@ -574,7 +570,7 @@ ht-degree: 99%
  <tbody> 
   <tr> 
    <td><strong>重点顧客</strong></td> 
-   <td><p><strong>ABM</strong> で、ユーザーが追跡したいターゲットアカウントと判断したアカウント。</p></td> 
+   <td><p>In <strong>TAM</strong>の場合、ユーザーが決定したアカウントは、追跡するターゲットアカウントです。</p></td> 
   </tr> 
   <tr> 
    <td><strong>育成プログラム</strong></td> 
@@ -647,7 +643,7 @@ ht-degree: 99%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>ペルソナ</strong></a></td> 
-   <td colspan="1">Marketo の<strong>アカウントベースドマーケティング</strong>では、ペルソナは、オーディエンスのサブセットで、より具体的なターゲティングができます。</td> 
+   <td colspan="1">Marketo <strong>ターゲットアカウント管理</strong>、ペルソナはオーディエンスのサブセットで、より具体的なターゲティングを可能にします。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
@@ -807,7 +803,11 @@ ht-degree: 99%
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">タグ</a></strong></td> 
    <td><strong>プログラム</strong>を説明するために使用される識別子。</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">ターゲットアカウント管理</a> (TAM)</strong></td> 
+   <td colspan="1">（以前のアカウントベースマーケティング/ABM）キーアカウントを非常に調整された方法でターゲティングおよびエンゲージできるアドオン機能です。</td> 
+  </tr>
   <tr> 
    <td><strong>テンプレート</strong></td> 
    <td>追加のメールやランディングページを作成するための出発点として使用される<strong>メール</strong>または<strong>ランディングページ</strong>。</td> 
