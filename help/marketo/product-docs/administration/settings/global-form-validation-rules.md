@@ -2,10 +2,10 @@
 description: グローバルフォーム検証ルール - Marketo ドキュメント - 製品ドキュメント
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '268'
+ht-degree: 72%
 
 ---
 
@@ -70,3 +70,17 @@ ht-degree: 100%
 >[!NOTE]
 >
 >Marketo Engage には、あらかじめ用意された「消費者向けメールドメインブロックリスト」ルールを使用する際にブロックされる、無料の消費者向けメールドメインのブロックリストが定義されています。[リスト表示はこちら](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
+
+## フォームごとのアクセスを無効にする方法{#how-to-disable-access-per-form}
+
+有効にすると、ルールはすべてのフォームに適用されます。 ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定でグローバルフォームの検証ルールを無効にできます。
+
+1. 目的のフォームで、 **フォーム設定**&#x200B;を、 **設定**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. グローバルフォーム検証ルールドロップダウンをクリックし、 **無効**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+フォームを承認して投稿すると、グローバルフォーム検証ルールは無視されます。
