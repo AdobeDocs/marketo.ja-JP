@@ -2,10 +2,10 @@
 description: 切替スイッチ - Marketo ドキュメント - 製品ドキュメント
 title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 66%
+source-wordcount: '422'
+ht-degree: 64%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 66%
 
 ![](assets/toggle-switch-7.png)
 
-## ランディングページの詳細ページ {#landing-page-details-page}
+## ランディングページの詳細ビュー {#landing-page-details-view}
 
 1. Marketoで、ランディングページを探して選択します。
 
@@ -117,14 +117,48 @@ ht-degree: 66%
 
 ![](assets/toggle-switch-21.png)
 
+## メールの詳細表示 {#email-details-view}
+
+1. Marketoで、電子メールを検索して選択します。
+
+   ![](assets/toggle-switch-22.png)
+
+1. ページの右下で、「**新しいエクスペリエンス**」切替スイッチをクリックします。
+
+   ![](assets/toggle-switch-23.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-24.png)
+
+## メールリスト表示 {#email-list-view}
+
+次世代の電子メールリスト表示では、検索フィルターと大量の電子メールアクションを実行できます。
+
+1. Marketo で、**Design Studio** を選択します。
+
+   ![](assets/toggle-switch-25.png)
+
+1. 選択 **電子メール**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. ページの右下で、「**新しいエクスペリエンス**」切替スイッチをクリックします。
+
+   ![](assets/toggle-switch-27.png)
+
+新しいエクスペリエンスが読み込まれます。
+
+![](assets/toggle-switch-28.png)
+
 ## すべての機能で有効化 {#enable-for-all-features}
 
 現在および今後リリースされるすべての機能に対して、Marketoの次世代インターフェイスを手動で有効にすることもできます。
 
 1. 現在切替スイッチを持つ領域（この例では[フォームの詳細ページ](#form-details-page)）で、ページの右下にある歯車アイコンをクリックします。
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. 「**使用可能なすべての機能で有効にする**」を選択して、「**OK**」をクリックします。
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
