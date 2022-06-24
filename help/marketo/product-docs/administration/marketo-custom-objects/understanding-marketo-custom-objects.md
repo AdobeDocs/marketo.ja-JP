@@ -3,8 +3,8 @@ unique-page-id: 10093188
 description: Marketo カスタムオブジェクトについて - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 100%
 
@@ -44,11 +44,11 @@ ht-degree: 100%
 
 1. Marketo カスタムオブジェクトを作成または編集するには、「**管理者**」、「**Marketo カスタムオブジェクト**」リンクの順にクリックします。
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
 1. 「Marketo カスタムオブジェクト」で、右側にカスタムオブジェクトがすべてリストされますが、表示されるのはメイングリッドに公開されたオブジェクトだけです。
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. グリッドには、オブジェクト名、レコード数、フィールド数、最新の更新日時が表示されます。
 
@@ -58,7 +58,7 @@ ht-degree: 100%
 
 1. 右のオブジェクト名をクリックすると、詳細ページが開きます。
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
 ## 人物に関連付けられたカスタムオブジェクトの表示 {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +66,19 @@ ht-degree: 100%
 
 1. **データベース**&#x200B;に移動します。
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 1. データベースを開き、「**人物**」タブをクリックします。カスタムオブジェクトに関連付ける人物のレコードをダブルクリックします。
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. リード詳細ページで「**カスタムオブジェクト**」タブをクリックし、ドロップダウンからオブジェクトを選択します。
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. これで、その人物に関連付けられたタイプのカスタムオブジェクトのすべてがリスト表示されます。
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 ## 企業へのカスタムオブジェクトの使用 {#using-custom-objects-with-companies}
 
