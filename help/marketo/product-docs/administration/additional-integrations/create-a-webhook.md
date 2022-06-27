@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: Webhook の作成 - Marketo ドキュメント - 製品ドキュメント
 title: Webhook の作成
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 87%
@@ -42,7 +42,7 @@ Webhook を使用すると、サードパーティの web サービスを活用�
 
    * **応答タイプ**：サービスから受け取る応答の形式（**JSON** または **XML**）を選択します。
 
-   * **リクエストタイプ**:使用する HTTP メソッド (DELETE、GET、PATCH、POST、PUT) を選択
+   * **リクエストタイプ**:使用する HTTP メソッド (DELETE、GET、PATCH、POST、PUT) を選択します。
 
    「**作成**」をクリックします。
 
