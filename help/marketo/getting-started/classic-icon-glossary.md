@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: クラシックアイコン用語集 - Marketo ドキュメント - 製品ドキュメント
 title: クラシックアイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
-workflow-type: ht
-source-wordcount: '562'
-ht-degree: 100%
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+workflow-type: tm+mt
+source-wordcount: '564'
+ht-degree: 98%
 
 ---
 
 # クラシックアイコン用語集 {#classic-icon-glossary}
 
-以下は Marketo Classic の古いアイコンです。新しいアイコン用語集は、[ここにあります](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)。
+以下は Marketo Classic の古いアイコンです。新しいアイコン用語集は、次のことができます。 [ここにある](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}。
 
 **一般アイコン**
 
@@ -64,7 +64,7 @@ ht-degree: 100%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">別のワークスペースから共有された宛先フォルダー<br>（南京錠アイコンは編集できないことを示します）</td> 
   </tr> 
@@ -92,7 +92,7 @@ ht-degree: 100%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">トリガー</td> 
   </tr> 
@@ -415,7 +415,7 @@ ht-degree: 100%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">ヘッドスタートでスケジュールされたメールプログラム</td> 
   </tr> 

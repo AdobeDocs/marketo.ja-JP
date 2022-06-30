@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 96%
@@ -23,7 +23,7 @@ ht-degree: 96%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B テスト</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B テスト</a></strong></td>
    <td colspan="1">メールの構成要素（例：件名、送信元アドレスなど）を修正し、テスト条件を設定して、どのコンテンツのセットがより良い結果をもたらすかを判断できます。</td> 
   </tr> 
   <tr> 
