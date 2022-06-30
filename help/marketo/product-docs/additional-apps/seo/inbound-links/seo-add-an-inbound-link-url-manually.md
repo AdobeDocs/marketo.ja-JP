@@ -3,10 +3,10 @@ unique-page-id: 2949247
 description: SEO - 手動によるインバウンドリンク URL の追加 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - 手動によるインバウンドリンク URL の追加
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >[新しいリストまたは既存のリストにインバウンドリンクを追加](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)できることをご存知ですか？ご確認ください。
+   >あなたは知っていたのですか？ [新しいリストまたは既存のリストにインバウンドリンクを追加](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target=&quot;_blank&quot;}? ご確認ください。
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
