@@ -2,13 +2,12 @@
 unique-page-id: 11387674
 description: Marketo 用語のアップデート - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語のアップデート
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
-workflow-type: ht
-source-wordcount: '358'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '368'
+ht-degree: 91%
 
 ---
-
 
 # Marketo 用語のアップデート {#updates-to-marketo-terminology}
 
@@ -109,7 +108,7 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 >[!NOTE]
 >
->影響を受けるフィールド名の完全なリストについては、[サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)を参照してください。
+>影響を受けるフィールド名の完全なリストについては、こちらを参照してください [サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}。
 
 ## リアルタイムパーソナライゼーション（RTP）が Web パーソナライゼーションに {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -138,11 +137,11 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| ** [Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | ホーム画面に独自のタイルを表示 |
+| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | ホーム画面に独自のタイルを表示 |
 |---|---|
-| ** [アカウントベースの Web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Web パーソナライゼーションタイルからアクセス可能 |
-| ** [パーソナライズされた再ターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Web パーソナライゼーションタイルからアクセス可能 |
-| ** [予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content)** | ホーム画面に独自のタイルを表示 |
+| **[アカウントベースドウェブマーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Web パーソナライゼーションタイルからアクセス可能 |
+| **[Personalized Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Web パーソナライゼーションタイルからアクセス可能 |
+| **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]
 >

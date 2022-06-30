@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '1018'
-ht-degree: 69%
+source-wordcount: '1020'
+ht-degree: 67%
 
 ---
 
@@ -100,7 +100,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
    `[DKIMDomain2]`：ホストレコードが `[HostRecord2]` で、TXT 値が `[TXTValue2]` です。
 
-   [](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)に示す手順に従って、設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
+   次の手順を実行した後、設定した各 DKIMDomain の HostRecord と TXTValue をコピーします。 [こちらの説明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}。 IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
 
 ## 手順 4：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 

@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: フォームを含むランディングページ - Marketo ドキュメント - 製品ドキュメント
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '542'
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '544'
 ht-degree: 100%
 
 ---
@@ -184,8 +184,8 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
-[◄ 一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ ミッション 1：一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[単純スコア►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[ミッション 3：単純スコア ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

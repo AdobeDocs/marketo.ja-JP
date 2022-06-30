@@ -3,10 +3,10 @@ unique-page-id: 2359414
 description: シンプルなスコアリング - Marketo ドキュメント - 製品ドキュメント
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '374'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '380'
+ht-degree: 86%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](get-set-up-and-add-a-person.md)
->* [フォームを含むランディングページ](landing-page-with-a-form.md)
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：スコアリングキャンペーンを作成する {#step-create-a-scoring-campaign}
@@ -58,7 +58,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)クイックウィンを完了している場合、このフォームがあります。フォームに別の名前を使用した場合は、その名前を選択します。
+   >以下を完了した場合、 [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウには、フォームが必要です。 フォームに別の名前を使用した場合は、その名前を選択します。
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。[**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/)を参照してください。
+   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。読み取り [**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}。
 
 1. 「**スケジュール**」タブをクリックし、「**アクティブ化**」ボタンをクリックします。
 
@@ -92,7 +92,7 @@ ht-degree: 100%
 
 ## 手順 2:フォームを入力する {#step-fill-out-the-form}
 
-1. [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)クイックウィンで作成したランディングページを選択します。
+1. 作成したランディングページを [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ。
 
    ![](assets/fourteen-1.png)
 
@@ -126,7 +126,10 @@ ht-degree: 100%
 
 ![](assets/twenty.png)
 
-**これで完了です。** スコアリングキャンペーンを作成しました。
+## ミッション完了です。 {#mission-complete}
+
+<br> 
+
 [◄ ミッション 2：フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [ミッション 4：メールの自動応答 ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

@@ -3,10 +3,10 @@ unique-page-id: 2359410
 description: メールの送信 - Marketo ドキュメント - 製品ドキュメント
 title: メールの送信
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '399'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 93%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 ## メールプログラムの作成 {#create-an-email-program}
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >メールが自動入力されない場合は、[リードの設定と追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)を行っていないことが考えられます。
+   >メールが自動入力されない場合は、[リードの設定と追加を行っていないことが考えられます。](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
    >[!NOTE]
    >
@@ -108,7 +108,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >ローンチ前にサンプルを自分に送信して、メールがどのように表示されるかを確認するには、上のメニューで「**サンプルを送信**」を選択するか、「**メールアクション**」をクリックして、「[**サンプルを送信**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)」をクリックします。
+   >ローンチ前にサンプルを自分に送信して、メールがどのように表示されるかを確認するには、選択 **サンプルを送信** 上のメニューで、または **メールアクション** その後 [**サンプルを送信**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target=&quot;_blank&quot;}。
 
 1. 左側のツリーで「メールプログラム」を選択します。
 
@@ -124,7 +124,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >デフォルトのタイムゾーンが異なりますか？[ここで更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)方法をご確認ください。
+   >デフォルトのタイムゾーンが異なりますか？方法を学ぶ [ここで更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target=&quot;_blank&quot;}。
 
 1. 「承認」タイルで「**プログラムを承認**」をクリックすれば完了です。
 
@@ -132,8 +132,10 @@ ht-degree: 100%
 
 スケジュールされた日時のすぐ後にメールが届きます。
 
+## ミッション完了です。 {#mission-complete}
+
 <br> 
 
-[◄ セットアップとリードの追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[フォームを含むランディングページ ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[ミッション 2：フォームを含むランディングページ ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

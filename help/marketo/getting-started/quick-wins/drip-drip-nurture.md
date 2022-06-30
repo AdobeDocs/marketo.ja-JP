@@ -3,10 +3,10 @@ unique-page-id: 2359420
 description: ドリップ、ドリップ、ナーチャリング - Marketo ドキュメント - 製品ドキュメント
 title: ドリップ、ドリップ、ナーチャリング
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 95%
 
 ---
 
@@ -18,8 +18,8 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [担当者のリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：エンゲージメントプログラムを作成する {#step-create-an-engagement-program}
@@ -58,7 +58,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
    >[!NOTE]
    >
-   >メールエディターが表示されない場合お使いのブラウザーでウィンドウがブロックされている可能性があります。ブラウザーで [app.marketo.com](https://app.marketo.com) からのポップアップを有効にし、上部のメニューバーで「**ドラフトを編集**」をクリックします。
+   >メールエディターが表示されない場合お使いのブラウザーでウィンドウがブロックされている可能性があります。ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「**ドラフトを編集**」をクリックします。
 
 1. 件名を入力します。
 
@@ -160,10 +160,12 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
    >[!NOTE]
    >
-   >[エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)の詳細をご覧ください。
+   >詳細情報： [エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}。
+
+## ミッション完了です。 {#mission-complete}
 
 <br> 
 
-[◄ ミッション 5：リードのリストの読み込み](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ミッション 5:担当者のリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [ミッション 7：メールのパーソナライズ ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

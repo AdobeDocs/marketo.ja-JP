@@ -3,10 +3,10 @@ unique-page-id: 2359428
 description: ランディングページのリダイレクト - Marketo ドキュメント - 製品ドキュメント
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 81%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
->* [CNAME を使用したランディングページ URL のカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
+>* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [CNAME を使用したランディングページ URL のカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：新しいリダイレクトルールを開始する {#step-start-a-new-redirect-rule}
@@ -46,7 +46,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).で開始するランディングページのみリダイレクトできます。
+   >Marketoで始まるランディングページのみをリダイレクトできます。 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target=&quot;_blank&quot;}。
 
 1. 2 つ目の「**オリジナル URL**」ドロップダウンリストから、リダイレクトするランディングページを選択します。
 

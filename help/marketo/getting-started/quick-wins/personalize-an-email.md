@@ -3,10 +3,10 @@ unique-page-id: 2359422
 description: メールのパーソナライズ - Marketo ドキュメント - 製品ドキュメント
 title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '335'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 88%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [ドリップ、ドリップ、ナーチャリング](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [E メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [ドリップ、ドリップ、育成](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：パーソナライズするメールを選択 {#step-select-an-email-to-personalize}
 
-1. [以前のクイックウィン](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)で作成したナーチャリングメールの 1 つを選択し、「**下書きの編集**」をクリックします。
+1. で作成した育成メールの 1 つを選択 [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} をクリックし、 **下書きの編集**.
 
    ![](assets/one-4.png)
 
@@ -99,7 +99,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->自分自身にメールを送信する方法について、簡単な情報が必要な場合は、[一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)を参照してください。
+>自分自身にメールを送信する方法について、簡単な情報が必要な場合は、詳しくは、 [E メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}。
 
 ### ミッション完了 {#mission-complete}
 

@@ -3,10 +3,10 @@ unique-page-id: 2359416
 description: メールの自動応答 - Marketo ドキュメント - 製品ドキュメント
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '384'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 86%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：メールを作成する {#step-create-an-email}
@@ -76,7 +76,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   [**フォームを含むランディングページ**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)&#x200B;に作成したフォームに入力されるたびに、このキャンペーンを実行するように設定します。
+   担当者が作成したフォームに入力するたびにこのキャンペーンを実行するように設定しています。 [**フォームを含むランディングページ**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}。
 
 1. 「**フォームの入力**」トリガーを検索して、左側のキャンバスにドラッグします。
 
@@ -116,7 +116,7 @@ ht-degree: 100%
 
 ## 手順 3:フォームを入力する {#step-fill-out-the-form}
 
-1. 「**マイページ**」を選択します。これは、[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)クイックウィンで作成されました。
+1. 「**マイページ**」を選択します。これは、 [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ。
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -142,4 +142,4 @@ ht-degree: 100%
 
 [◄ ミッション 3：単純スコア](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[ミッション 5：リードのリストの読み込み ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[ミッション 5:人物のリストをインポート►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

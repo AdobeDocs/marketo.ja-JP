@@ -3,10 +3,10 @@ unique-page-id: 2359418
 description: 人物のリストのインポート - Marketo ドキュメント - 製品ドキュメント
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
-workflow-type: ht
-source-wordcount: '490'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '500'
+ht-degree: 89%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 このチュートリアルでは、スプレッドシートファイルから Marketo に人物を読み込む方法を学びます。
 
 ## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
 
-1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)）を PC にダウンロードしてください。
+1. まず、プラクティスのスプレッドシートファイル ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) をコンピューターに送信します。
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->イベントプログラムは特定の日に発生します。[**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)&#x200B;の詳細をご覧ください。
+>イベントプログラムは特定の日に発生します。詳細情報： [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}。
 
 ## 手順 3：スプレッドシートを Marketo に読み込む {#step-import-your-spreadsheet-into-marketo}
 
@@ -109,7 +109,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。
+   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻って [作成する](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} を使用して、これらをオプションにすることができます。
 
    >[!NOTE]
    >
@@ -129,13 +129,13 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)&#x200B;の詳細をご覧ください。
+>プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。詳細情報： [**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}。
 
 ## ミッション完了 {#mission-complete}
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

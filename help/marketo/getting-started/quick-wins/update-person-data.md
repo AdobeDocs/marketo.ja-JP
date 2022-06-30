@@ -3,10 +3,10 @@ unique-page-id: 2359426
 description: 人物データの更新 - Marketo ドキュメント - 製品ドキュメント
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 86%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [担当者のリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 最近の展示会で、ある人から追加の連絡先情報を提供されたとします。人物データの更新方法を次に示します。
@@ -42,7 +42,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >Marketo では、人物データを更新する方法がたくさんあります。詳しくは、[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)および[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)を参照してください。
+   >Marketo では、人物データを更新する方法がたくさんあります。詳しくは、 [担当者のリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} および [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}。
 
 ## 人物データを更新する {#update-the-person-data}
 

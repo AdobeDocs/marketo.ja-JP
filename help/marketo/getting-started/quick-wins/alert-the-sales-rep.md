@@ -3,10 +3,10 @@ unique-page-id: 2359424
 description: セールス担当者にアラート - Marketo ドキュメント - 製品ドキュメント
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '401'
-ht-degree: 100%
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 87%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 ## 手順 1：アラートメールを作成する {#step-create-an-alert-email}
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/one-5.png)
 
-1. クイックウィン&#x200B;**フォームを含むランディングページ**&#x200B;に作成した[マイプログラム](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)を選択、次に「**新規**」で、「**新規ローカルアセット**」をクリックします。
+1. 選択 **マイプログラム** 作成した [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィン、次に **新規** クリック **新規ローカルアセット**.
 
    ![](assets/two-6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} は、アラートメール用の特別なトークンです。詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)を参照してください。
+   >{{SP_Send_Alert_Info}} は、アラート電子メール用の特別なトークンです。 詳しくは、 [アラート情報トークンの送信](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} を参照してください。
 
 1. 「**保存**」をクリックします。
 
@@ -138,8 +138,8 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
-[◄ ミッション 7：メールのパーソナライズ](personalize-an-email.md)
+[◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[ミッション 9：リードデータの更新 ►](update-person-data.md)
+[ミッション 9:担当者データを更新►](/help/marketo/getting-started/quick-wins/update-person-data.md)
