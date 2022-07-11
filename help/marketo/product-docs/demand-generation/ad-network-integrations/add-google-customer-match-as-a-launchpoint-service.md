@@ -3,10 +3,10 @@ unique-page-id: 12980661
 description: Google カスタマーマッチを LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
 title: Google カスタマーマッチを LaunchPoint サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+source-git-commit: fb4e51a45fafaad547a641c6df5bb48cf536490d
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 87%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. **管理**&#x200B;に移動します。
+1. 「**管理者**」に移動します。
 
    ![](assets/admin.png)
 
@@ -55,3 +55,7 @@ ht-degree: 100%
    ![](assets/authorizesuccess.png)
 
    これで完了です。これで、「インストール済みのサービス」タブに LaunchPoint サービスとして「Google 一致したオーディエンス」が表示されます。
+
+>[!NOTE]
+>
+>Google Customer Match の統合には、1 つの Manager アカウントと、その Manager アカウント内のすべてのサブアカウントに対応できます。 複数のマネージャーアカウントはサポートされていません。
