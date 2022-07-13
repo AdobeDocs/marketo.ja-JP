@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Professional Edition での Marketo Sales Insight の設定
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 98%
 
 ---
@@ -295,8 +295,6 @@ Salesforce Professional Edition で Marketo Sales Insight を設定するため�
 ## Marketo Sales Insight へのアクセス {#access-marketo-sales-insight}
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**Marketo Sales Insight の設定**」をクリックします。
-
-1. 「**Marketo API を有効にする**」チェックボックスをオンにします。
 
 1. Marketo の Sales Insight 管理ページの Soap API パネルから認証情報をコピーし、Salesforce Sales Insight の設定ページの Soap API セクションに貼り付けます。
 

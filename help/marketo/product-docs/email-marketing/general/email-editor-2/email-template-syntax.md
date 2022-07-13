@@ -3,10 +3,10 @@ unique-page-id: 11371040
 description: メールテンプレートの構文 — Marketo ドキュメント — 製品ドキュメント
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '2395'
-ht-degree: 100%
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+workflow-type: tm+mt
+source-wordcount: '2423'
+ht-degree: 98%
 
 ---
 
@@ -330,6 +330,10 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 ## モジュール {#modules}
 
 モジュールは、テンプレートレベルで定義されるテンプレート化されたセクションで、エンドユーザーがメールに挿入するために表示されます。これらのモジュールは事前に作成されているので、残りのメールコンテンツと適切に（完全にレスポンシブな方法で）やり取りできます。コンテナに配置できるのはモジュールのみです。
+
+>[!IMPORTANT]
+>
+>定義済みのモジュールコンポーネントを含む E メールテンプレートから E メールが生成されると、テンプレートのモジュールに対して行われた変更がすべて反映されます **not** この電子メールにプッシュされます。
 
 **`<table>`、`<tbody>`、`<thead>`、`<tfoot>` のいずれかのタイプのコンテナの場合：**
 
