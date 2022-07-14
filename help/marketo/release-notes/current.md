@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,13 @@ ht-degree: 9%
 * **ダイナミックチャットの高度なダイアログレポート**:エンゲージメント指標とコンバージョン指標に関する新しいデータ視覚化機能を使用して、Dynamic Chat キャンペーンのパフォーマンスをより詳細に表示します。
 
 * **ダイナミックチャットの未使用Marketo Engage属性の同期解除**:Dynamic Chat サブスクリプションからMarketo Engage属性を同期解除して、未使用になるので、データを簡単に整理し、必要に応じて代替属性を同期できます。
+
+## 次世代のエクスペリエンス
+
+**新しい切り替えスイッチビュー**:次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
+
+* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [メールリスト表示](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
