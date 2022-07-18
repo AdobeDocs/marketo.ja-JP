@@ -3,10 +3,11 @@ description: イベントキャップの設定 — Marketoドキュメント —
 title: イベントキャップの設定
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 7%
+source-wordcount: '171'
+ht-degree: 4%
 
 ---
 
@@ -23,24 +24,24 @@ ht-degree: 7%
 
 1. イベントプログラムを選択します。
 
-PICC
+   ![](assets/setting-an-event-cap-1.png)
 
 1. 概要で、 [!UICONTROL イベントキャップ] をクリックし、 **[!UICONTROL 未設定]**.
 
-PICC
+   ![](assets/setting-an-event-cap-2.png)
 
 1. イベントに登録する最大人数を入力し、「 **[!UICONTROL 次へ]**.
 
-PICC
+   ![](assets/setting-an-event-cap-3.png)
 
 1. 次をクリック： [!UICONTROL 登録ページ] 」ドロップダウンリストから、登録ページとして機能するランディングページを選択します。
 
-PICC
+   ![](assets/setting-an-event-cap-4.png)
 
 1. 次をクリック： **[!UICONTROL 登録締め切りページ]** 」ドロップダウンリストから、登録の完全なページとして機能するランディングページを選択します。 クリック **[!UICONTROL 設定して有効にする]** 完了したら、
 
-PICC
+   ![](assets/setting-an-event-cap-5.png)
 
-準備が整いました。 イベントキャップの詳細を編集する場合は、の横の青いテキストをクリックします。 [!UICONTROL イベントキャップ] 手順 3 からを繰り返します。
+   準備が整いました。 イベントキャップの詳細を編集する場合は、の横の青いテキストをクリックします。 [!UICONTROL イベントキャップ].
 
-PICC
+   ![](assets/setting-an-event-cap-6.png)

@@ -3,10 +3,11 @@ description: イベント目標の設定 — Marketoドキュメント — 製�
 title: イベント目標の設定
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 16%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 
@@ -19,14 +20,28 @@ ht-degree: 16%
 
 1. イベントプログラムを作成します。
 
-PICC
+   ![](assets/setting-event-goals-1.png)
 
-1. イベントに [!UICONTROL 名前]を選択し、 [!UICONTROL 宛先] フォルダーと [!UICONTROL チャネル].
+1. を選択します。 [!UICONTROL キャンペーンフォルダ]、イベントを [!UICONTROL 名前]を選択し、 [!UICONTROL プログラムタイプ] および [!UICONTROL チャネル]. 完了したら「**[!UICONTROL 作成]**」をクリックします。
 
-PICC
+   ![](assets/setting-event-goals-2.png)
 
-1. 目標を入力 [!UICONTROL 登録済み] および [!UICONTROL 出席]を選択し、「 **[!UICONTROL 作成]** ([!UICONTROL 説明] および [!UICONTROL ラベル] はオプションです )。
+1. イベントで、 **[!UICONTROL レポート]** タブをクリックします。
 
-PICC
+   ![](assets/setting-event-goals-3.png)
+
+1. 目標を入力 [!UICONTROL 登録済み] クリックして **[!UICONTROL 目標を設定]**. 数値を入力し、Enter キーを押します。
+
+   ![](assets/setting-event-goals-4.png)
+
+   ![](assets/setting-event-goals-5.png)
+
+1. 同じ手順を [!UICONTROL 出席].
+
+   ![](assets/setting-event-goals-6.png)
+
+>[!NOTE]
+>
+>イベントの開始後は、イベントの目標を設定できません。
 
 これで完了です。イベントの目標ステータスを確認するには、 [!UICONTROL レポート] タブをクリックします。
