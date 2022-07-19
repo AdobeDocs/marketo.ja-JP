@@ -3,10 +3,10 @@ unique-page-id: 2360198
 description: ユーザーの役割の作成、削除、編集および変更 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの役割の作成、削除、編集および変更
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '267'
-ht-degree: 100%
+source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,17 @@ ht-degree: 100%
 >[!NOTE]
 >
 >**管理者権限が必要**
+
+>[!IMPORTANT]
+>
+>次のロールはシステムロールで、編集や削除はできません。
+>
+>* 管理
+>* Adobe製品管理者
+>* 標準ユーザ
+>* RTP エディタ
+>* RTP 起動ツール
+
 
 ## ロールの作成 {#create-a-role}
 
