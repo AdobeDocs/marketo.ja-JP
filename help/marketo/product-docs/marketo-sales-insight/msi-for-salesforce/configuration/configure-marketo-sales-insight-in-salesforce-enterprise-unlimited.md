@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 91%
+source-wordcount: '863'
+ht-degree: 82%
 
 ---
 
@@ -289,39 +289,27 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 1. 完了したら、「**保存**」をクリックします。
 
-## Marketo Sales Insight の設定 {#marketo-sales-insight-config}
-
-1. 「**+**」をクリックし、「**Marketo Sales Insight の設定**」を選択します。
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. 「**Marketo API** を有効にする」をオンにします。次に、[Marketo Admin の API 設定情報](#set-up-marketo-sales-insight)を入力します。完了したら、「**変更を保存**」をクリックします。
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >診断テストに失敗した場合は、[ページレイアウトにフィールドを追加](https://nation.marketo.com/docs/DOC-1115)する必要が生じる場合があります。
-
-これで完了です。Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->アカウントの場合、Sales Insight にはすべての電子メールが含まれますが、最新の注目のアクション、web アクティビティ、スコアの変更のみが含まれます。
-
-## Marketo Sales Insight へのアクセス {#access-marketo-sales-insight}
+## Marketo Sales Insight の「設定」タブ {#marketo-sales-insight-configuration-tab}
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**Marketo Sales Insight の設定**」をクリックします。
 
 1. 「**Marketo API を有効にする**」チェックボックスをオンにします。
 
-1. Marketo の Sales Insight 管理ページの Soap API パネルから認証情報をコピーし、Salesforce Sales Insight の設定ページの Soap API セクションに貼り付けます。
+1. の Soap API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} を開き、Salesforce Sales Insight 設定ページの「SOAP API」セクションに貼り付けます。
 
-1. Marketo の Sales Insight 管理ページの Rest API パネルから認証情報をコピーし、Salesforce Sales Insight の設定ページの Rest API セクションに貼り付けます。
+1. の Rest API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} を開き、Salesforce Sales Insight 設定ページの「Rest API」セクションに貼り付けます。
 
    ![](assets/access-msi.png)
+
+それで終わりだ！ Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
+
+>[!NOTE]
+>
+>診断テストに失敗した場合は、次の操作を行う必要があります。 [ページレイアウトにフィールドを追加](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
+
+>[!NOTE]
+>
+>アカウントの場合、Sales Insight にはすべての電子メールが含まれますが、最新の注目のアクション、web アクティビティ、スコアの変更のみが含まれます。
 
 >[!MORELIKETHIS]
 >
