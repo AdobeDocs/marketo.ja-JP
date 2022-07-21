@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 82%
@@ -299,7 +299,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 1. の Rest API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} を開き、Salesforce Sales Insight 設定ページの「Rest API」セクションに貼り付けます。
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 それで終わりだ！ Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
 
