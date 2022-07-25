@@ -4,9 +4,9 @@ title: イベントキャップの設定
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >イベントキャップを設定する前に、プログラムに承認済みのランディングページ（登録ページと登録の完全なページ）が 2 つ以上ある必要があります。
+
+>[!NOTE]
+>
+>イベント内の空き容量を増やすには、プログラムメンバーを削除する必要があります（ステータスを「プログラムに含まれていません」に更新することで、削除できます）。
 
 1. イベントプログラムを選択します。
 

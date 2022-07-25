@@ -3,10 +3,11 @@ description: イベントキャップの設定 — Marketoドキュメント —
 title: イベントキャップの設定
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 8%
+source-wordcount: '212'
+ht-degree: 10%
 
 ---
 
@@ -20,6 +21,10 @@ ht-degree: 8%
 
 >[!IMPORTANT]
 >イベントキャップを設定する前に、プログラムに承認済みのランディングページ（登録ページと登録の完全なページ）が 2 つ以上ある必要があります。
+
+>[!NOTE]
+>
+>イベント内の空き容量を増やすには、プログラムメンバーを削除する必要があります（ステータスを「プログラムに含まれていません」に更新することで、削除できます）。
 
 1. イベントプログラムを選択します。
 
