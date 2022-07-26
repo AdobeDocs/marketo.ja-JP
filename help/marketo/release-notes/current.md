@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 10%
+source-wordcount: '571'
+ht-degree: 14%
 
 ---
 
@@ -32,6 +32,11 @@ ht-degree: 10%
 * **Adobeのブランディング**:新しいAdobe Experience Cloudブランディングを使用して、編集者と担当者の詳細ページのルックアンドフィールを更新しました。
 
 * **移動ダイアログで宛先フォルダのフォルダ階層を表示する**:各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに配置される可能性が低くなります。
+
+* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+
+   * 「画像とファイル」の詳細
+   * スニペットの詳細
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: パフォーマンスインサイトの概要 - Marketo ドキュメント - 製品ドキュメント
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '233'
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+workflow-type: tm+mt
+source-wordcount: '216'
 ht-degree: 100%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 100%
 # パフォーマンスインサイトの概要 {#performance-insights-overview}
 
 Marketo のパフォーマンスインサイトは、チャネルの組み合わせを最大限の効果に最適化し、長期的なトレンドを明らかにして、一貫した成功戦略を見つけ出すのに役立ちます。
-
->[!AVAILABILITY]
->
->すべての顧客がパフォーマンスインサイト機能を持っているわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 パフォーマンスインサイトは、最大過去 24 か月のデータを読み込みます。これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
 
