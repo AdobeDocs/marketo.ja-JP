@@ -2,11 +2,13 @@
 unique-page-id: 30081815
 description: Adobe Experience Manager 統合の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Manager 統合の設定
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 89%
+source-wordcount: '235'
+ht-degree: 82%
 
 ---
 
@@ -18,9 +20,12 @@ AEM のアセットにアクセス、選択し、Marketo Design Studio に読み
 >
 >**管理者権限が必要**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていないので、SameSite cookie の設定によっては、最新バージョンの Chrome では動作しない可能性があります。
+>* この統合は、AEMのオンプレミス実装でのみ機能し、AEM Cloud Service実装ではサポートされません。
+>
+>* 現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていないので、SameSite cookie の設定によっては、最新バージョンの Chrome では動作しない可能性があります。
+
 
 1. Adobe Experience Manager に移動します（URL は会社に固有のものです）。
 
