@@ -2,10 +2,10 @@
 description: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
-ht-degree: 86%
+source-wordcount: '666'
+ht-degree: 74%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 86%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 宛先の&#x200B;**名前**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存の Marketo の人物に一致および Marketo で見つからない人物を作成」_または_「既存の Marketo の人物に一致のみ」を選択します。この例では、前者を選択しています。
+1. 宛先の&#x200B;**名前**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存の Marketo の人物に一致および Marketo で見つからない人物を作成」_または_「既存の Marketo の人物に一致のみ」を選択します。この例では、前者を選択しています。また、オプションでワークスペースを選択することも、デフォルトの状態で移動することもできます。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ ht-degree: 86%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 「**firstName**」を選択して名をマッピングして、「**選択**」をクリックします。
+1. 目的の属性を選択し、 **選択**. この例では、名、姓、E メールアドレスを選択します。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Experience Platformの属性を、組織がアクセスできる任意の属性にMarketo Engageでマッピングできます。 以下を使用： [API リクエストの説明](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} ：組織がアクセスできる属性フィールドを取得します。
 
 1. 姓と会社名に対しても、「**新しいマッピングを追加**」を再度クリックし、**lastName** と **companyName**.を選択して、手順 15 を 2 回繰り返します。
 
@@ -142,22 +146,6 @@ ht-degree: 86%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. ここで、リストの ID が必要になります。ブラウザーで Marketo 静的リストを開いているタブをクリックします（または新しいタブを開いて、目的の静的リストを選択します）。
+1. 変更を確認し、「 **完了**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >最適な結果を得るには、空の Marketo Engage リストを使用します。
-
-1. URL の末尾にあるリスト ID をハイライトしてコピーします。
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. コピーした ID を「マッピング ID 」の下に貼り付け、「**次へ**」をクリックします。
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. 「**終了**」をクリックします。
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
