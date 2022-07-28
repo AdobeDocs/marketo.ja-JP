@@ -3,9 +3,9 @@ description: Dynamic Chat の統合 — Marketoドキュメント — 製品ド�
 title: Dynamic Chat の統合
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 7%
 
 ---
@@ -23,6 +23,8 @@ Sales Insight とのダイナミックチャットの統合について詳しく
 
 ## Marketo Sales Insight の「設定」タブ {#marketo-sales-insight-configuration-tab}
 
+Dynamic Chat の統合を有効にするには、以下の手順に従います。
+
 1. Salesforce アカウントにログインし、タブバーの末尾にある「+」をクリックして、「 **Marketo Sales Insight 設定**.
 
 1. 「Visualforce パネル」をクリックして展開します。
@@ -35,7 +37,7 @@ Sales Insight とのダイナミックチャットの統合について詳しく
 
 ## 機能の概要 {#feature-overview}
 
-以下のダイナミックチャットアクティビティは、Sales Insight ユーザーが利用できます。
+次のダイナミックチャットアクティビティは、Sales Insight ユーザーが利用できます…
 
 アクションを実行したダイアログ：訪問者がチャットボットをクリックしてダイアログに移動したときに、Marketoにログインし、Sales Insight に入力します。
 
@@ -83,4 +85,4 @@ Sales Insight とのダイナミックチャットの統合について詳しく
 
 >[!NOTE]
 >
->今後のリリースで、MSI で「ドキュメントとのやり取り」アクティビティが利用できるようになります。
+>「ドキュメントとのインタラクション」アクティビティは、今後のリリースで MSI で利用できるようになります。
