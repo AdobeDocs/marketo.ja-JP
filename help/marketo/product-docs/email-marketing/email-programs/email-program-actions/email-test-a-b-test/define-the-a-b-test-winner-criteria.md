@@ -3,20 +3,20 @@ unique-page-id: 2359545
 description: A/B テストの勝者条件の定義 - Marketo ドキュメント - 製品ドキュメント
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '401'
-ht-degree: 100%
+source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+workflow-type: tm+mt
+source-wordcount: '421'
+ht-degree: 85%
 
 ---
 
 # A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)テストタイプを選択し、勝者の条件を定義する必要があります。どのメールが優先されるかを決定する方法を次に示します。
+条件 [A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;} をメールプログラムに追加する場合は、テストタイプを選択する必要があります。 [A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;} を設定し、勝者の条件を定義します。 どのメールが優先されるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
 
 ## 勝者の条件 {#winner-criteria}
 
@@ -24,15 +24,28 @@ ht-degree: 100%
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
-   | **開封** | メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。 |
-   |---|---|
-   | **クリック** | デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。 |
-   | **クリック/開封率 %** | 開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。 |
-   | **エンゲージメントスコア** | [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)は、コンテンツの効果を判断するのに役立ちます。 |
+   <table>
+   <tr>
+   <td><b>開封</b></td>
+   <td>メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。</td>
+   </tr>
+   <tr>
+   <td><b>クリック</b></td>
+   <td>デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
+   </tr>
+   <tr>
+   <td><b>クリック/開封率 %</b></td>
+   <td>開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
+   </tr>
+   <tr>
+   <td><b>エンゲージメントスコア</b></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">エンゲージメントスコア</a>は、コンテンツの効果を判断するのに役立ちます。</td>
+   </tr>
+   </table>
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)について学びます。
+   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。詳細情報： [エンゲージメントスコアについて](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}。
 
 1. また、「カスタムコンバージョン」を選択して「編集」をクリックすることで、条件をカスタマイズすることもできます。
 
@@ -58,7 +71,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 
-   これで完了です。次に、勝者の決定方法を決めます。
+   完成です。次に、勝者の決定方法を決めます。
 
 ## 勝者の発表 {#declare-winner}
 
@@ -80,4 +93,4 @@ ht-degree: 100%
    >
    >「**手動**」を選択すると、テストが送信され、勝者の発表を待機します。結果のレポートが届きます。
 
-完璧です。次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)します。
+完璧です。次に、 [A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}。
