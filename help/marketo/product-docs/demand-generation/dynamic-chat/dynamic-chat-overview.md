@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
-ht-degree: 57%
+source-wordcount: '951'
+ht-degree: 56%
 
 ---
 
@@ -170,5 +170,15 @@ AI／NLP 機能はサポートしていません。
   <td>会議予約アクティビティ保持期間</td>
   <td>会議の予約アクティビティがダイナミックチャットに保存される時間</td>
   <td>24 か月</td>
+ </tr>
+ <tr>
+  <td>関与した会話</td>
+  <td>1 日にウェブ訪問者が関与できるチャット会話の数</td>
+  <td>1,000</td>
+ </tr>
+ <tr>
+  <td>トリガーされた会話</td>
+  <td>1 日に Web 訪問者に表示できるチャットの会話数</td>
+  <td>25,000</td>
  </tr>
 </table>
