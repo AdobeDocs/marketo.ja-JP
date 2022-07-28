@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
 workflow-type: tm+mt
-source-wordcount: '8790'
+source-wordcount: '8793'
 ht-degree: 95%
 
 ---
@@ -1448,6 +1448,7 @@ ht-degree: 95%
          + 機能 {#features}
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Dynamic Chat の統合](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI パネルのアクション {#actions-in-the-msi-panel}
                + [Sales Insight でのアクションの選択](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
