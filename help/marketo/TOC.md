@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 95%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 95%
       + 動的チャット {#dynamic-chat}
          + [動的チャットの概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初期設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [動的チャットの Marketo 接続](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [ダイナミックチャットアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + 統合 {#integrations}
+            + [動的チャットを Marketo に接続する](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [ドキュメントカードの使用](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + ダイアログ {#dialogues}
             + [ダイアログの概要](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [ドキュメントカードの使用](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [レポート](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + イベント {#events}
          + イベントについて {#understanding-events}
