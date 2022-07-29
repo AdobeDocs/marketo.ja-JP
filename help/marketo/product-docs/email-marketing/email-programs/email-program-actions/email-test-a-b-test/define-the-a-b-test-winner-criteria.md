@@ -3,10 +3,10 @@ unique-page-id: 2359545
 description: A/B テストの勝者条件の定義 - Marketo ドキュメント - 製品ドキュメント
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 85%
+source-wordcount: '439'
+ht-degree: 75%
 
 ---
 
@@ -63,9 +63,9 @@ ht-degree: 85%
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。「メール送信済み」フィルターを追加する必要はありません。
+   >Marketoでは、このメールプログラムからメールを送信した人のトリガー/フィルターのみを使用できるので、「メール送信済み」フィルターを追加する必要はありません。 また、電子メール関連のトリガー/フィルターを使用する場合は、必ず「任意」を演算子として使用してください。
 
 1. 「**閉じる**」をクリックします。
 
