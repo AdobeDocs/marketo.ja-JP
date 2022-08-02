@@ -3,10 +3,10 @@ unique-page-id: 7514956
 description: Web リッチメディアの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
 title: Web リッチメディアの予測コンテンツを有効にする
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '278'
-ht-degree: 100%
+source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 84%
 
 ---
 
@@ -14,17 +14,21 @@ ht-degree: 100%
 
 Web リッチメディアは、機械学習と予測分析を利用して、最も関連性の高いコンテンツで web 訪問者を引きつける機能です。Web リッチメディアを使用すると、テキストの説明や画像を使用してコンテンツを強化し、web サイトに複数の予測コンテンツのレコメンデーションを埋め込むことができます。
 
+>[!NOTE]
+>
+>予測コンテンツをテストして使用する前に、カテゴリごとおよびソース（メール、リッチメディア、バー）ごとに 5 つ以上のコンテンツを有効にすることをお勧めします。コンテンツが多いほど、より良い予測結果が得られます。
+
 >[!PREREQUISITES]
 >
 >予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
+   >
+   >   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} または
+   >   * [リッチメディア用予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} または
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
->   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
->   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
->
->* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
 
 
 リッチメディアのコンテンツタイトル、説明、画像を準備できたら、コンテンツピースを 1 つずつ、または複数まとめて有効にすることができます。
@@ -43,7 +47,7 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 
 ## JavaScript コードのカスタマイズと web サイトへの埋め込み  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-[Marketo Developers サイトのリッチメディアレコメンデーションテンプレートのドキュメントを参照してください。](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
+リッチメディアレコメンデーションテンプレートのドキュメントを参照してください。 [( Marketo Developers サイト )](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target=&quot;_blank&quot;}。 ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
 
 Web サイトでテンプレートを表示したい場所に JavaScript コードを貼り付けます。
 

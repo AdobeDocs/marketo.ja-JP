@@ -3,10 +3,10 @@ unique-page-id: 557316
 description: スマートリストフィルターの定義 - Marketo ドキュメント - 製品ドキュメント
 title: スマートリストフィルターの定義
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+workflow-type: tm+mt
+source-wordcount: '183'
+ht-degree: 74%
 
 ---
 
@@ -42,4 +42,8 @@ ht-degree: 100%
 
    ![](assets/smartlistfilter-personscore.png)
 
-   これで完了です。スマートリストを作成し、フィルターを追加／定義する方法がわかりました。
+>[!TIP]
+>
+>不完全なメールアドレス ( 例：「@adobe.com」) を含むレコードがデータベースに存在する可能性がある場合は、 **2** 「次を含む」演算子を使用する場合は、電子メールアドレスがフィルターされます。 1 つは「contains @adobe.com」を含むフィルターで、もう 1 つは「contains adobe.com」を含む別のフィルター（@記号は除く）です。
+
+スマートリストを作成し、フィルターを追加／定義する方法がわかりました。
