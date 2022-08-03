@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 14%
 >
 >星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
 
-以下の機能のリリースは、 **2022 年 8 月 20 日**（特に指定のない限り）後週に残りの機能が段階的に公開される場合 ) リリースの機能と正確な日付は、変更される場合があります。
+以下の機能のリリースは、 **2022 年 8 月 27 日**（特に指定のない限り）後週に残りの機能が段階的に公開される場合 ) リリースの機能と正確な日付は、変更される場合があります。
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
@@ -63,6 +63,12 @@ ht-degree: 14%
 ## API の強化 {#api-enhancements}
 
 * **一括プログラムメンバー抽出 API の新しいフィルタリング機能**:抽出したデータセットを絞り込むには、プログラムメンバーシップのステータス、updatedAt、cadence または exhusted コンテンツでフィルタリングします。
+
+## Sales Insight {#sales-insight}
+
+![（星印）](assets/yellow-star.png)
+
+* **Sales Insight と Dynamic Chat の統合**:Sales Insight パネルで Dynamic Chat のアクティビティを表示し、この新しいデータポイントを見込みの取り組みで活用します。
 
 ## お知らせ {#announcements}
 

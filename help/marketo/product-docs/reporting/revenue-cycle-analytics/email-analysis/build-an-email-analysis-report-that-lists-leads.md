@@ -3,20 +3,20 @@ unique-page-id: 2360407
 description: リードを一覧表示するメール分析レポートの作成 - Marketo ドキュメント - 製品ドキュメント
 title: リードを一覧表示するメール分析レポートの作成
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # リードを一覧表示するメール分析レポートの作成 {#build-an-email-analysis-report-that-lists-leads}
 
+特定のメールを送信したリードがすべて表示されるメール分析レポートを作成するには、以下の手順に従います。このレポートには、クリックと開封の統計も含まれます。
+
 >[!AVAILABILITY]
 >
 >すべてのお客様がこの機能を購入しているわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
-
-特定のメールを送信したリードがすべて表示されるメール分析レポートを作成するには、以下の手順に従います。このレポートには、クリックと開封の統計も含まれます。
 
 >[!NOTE]
 >
