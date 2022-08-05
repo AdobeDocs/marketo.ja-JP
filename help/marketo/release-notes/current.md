@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '580'
+ht-degree: 14%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * 「画像とファイル」の詳細
    * スニペットの詳細
+   * 「画像とファイル」の詳細
 
 >[!NOTE]
 >
