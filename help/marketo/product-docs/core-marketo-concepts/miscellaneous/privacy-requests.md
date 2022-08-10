@@ -2,16 +2,16 @@
 description: プライバシーリクエスト — Marketo ドキュメント — 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '339'
 ht-degree: 84%
 
 ---
 
 # プライバシーリクエスト {#privacy-requests}
 
-このドキュメントでは、Privacy ServiceUI および **Privacy Service API** を介して Marketo Engage に送信できる個々のデータプライバシーリクエストの管理の概要を説明します。
+このドキュメントでは、Privacy ServiceUI および Privacy Service API を介して Marketo Engage に送信できる個々のデータプライバシーリクエストの管理の概要を説明します。
 
 >[!NOTE]
 >
@@ -19,10 +19,10 @@ ht-degree: 84%
 
 消費者データにアクセスして Marketo Engage から削除する個々のリクエストを送信するには、次の 2 つの方法があります。
 
-* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。ドキュメントを参照してください [ここ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}。
-* **Privacy ServiceAPI**.を使用する。ドキュメントを参照してください [ここ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} および API 情報 [ここ](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
+* [Privacy ServiceUI](https://privacyui.cloud.adobe.io/).を使用する。ドキュメントを参照してください [ここ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}。
+* Privacy ServiceAPI.を使用する。ドキュメントを参照してください [ここ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} および API 情報 [ここ](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}。
 
-この [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} は、次の 2 種類のリクエストをサポートします。データアクセスとデータ削除に関する情報です。
+この [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} は、次の 2 種類のリクエストをサポートします。データアクセスとデータ削除に関する情報です。
 
 ここでは、アクセスリクエストと削除リクエストの作成方法について説明します。
 
