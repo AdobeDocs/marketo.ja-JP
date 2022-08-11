@@ -3,10 +3,10 @@ unique-page-id: 10093690
 description: Marketo カスタムオブジェクトの編集と削除 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '292'
-ht-degree: 100%
+source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 98%
 
 ---
 
@@ -32,13 +32,9 @@ ht-degree: 100%
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-   >[!NOTE]
-   >
-   >「オブジェクトを編集」には、「オブジェクトを作成」と同じフィールドが表示されます。ただし、API 名は表示されず、編集もできません。
+1. 必要な変更を加えます。 リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。「**保存**」をクリックします。
 
-1. 変更を行います。リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。「**保存**」をクリックします。
-
-   ![](assets/image2015-9-15-16-3a48-3a39.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. [編集されたオブジェクト](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)は必ず承認してください。
 
