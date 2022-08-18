@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: bef1162511ba96fe35a24a227c2ceb90bb5f3c63
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 95%
@@ -711,7 +711,7 @@ ht-degree: 95%
             + [非表示フォームフィールドの値の設定](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
          + CAPTCHA の使用 {#using-captcha}
             + [reCAPTCHA v3 のセットアップ](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
-            + [Marketo Engageでの CAPTCHA の有効化](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
+            + [Marketo Formsでの CAPTCHA の有効化](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + 画像とファイル {#images-and-files}
          + [画像とファイルを Marketo に追加](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [アップロードした画像またはファイルの削除](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)

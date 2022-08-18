@@ -4,18 +4,18 @@ title: reCAPTCHA v3 のセットアップ
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '204'
 ht-degree: 4%
 
 ---
 
-# reCAPTCHA の設定 {#setting-up-recaptcha}
+# reCAPTCHA v3 のセットアップ {#setting-up-recaptcha-v3}
 
 導入テキスト
 
-## reCAPTCHA v3 のセットアップ {#setting-up-recaptcha-v3}
+## reCAPTCHA v3 の初期設定 {#initial-recaptcha-v3-setup}
 
 テキスト：v3 の説明 — 次の手順は、Marketo Engage外で実行します。
 
@@ -47,18 +47,22 @@ ht-degree: 4%
 
 ## Marketo Engageでの CAPTCHA の設定 {#setting-up-captcha-in-marketo-engage}
 
-1. Marketoで、 **管理者** を選択し、 **CAPTCHA**.
+1. Marketo で、「**管理者**」をクリックします。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. 選択 **CAPTCHA** を設定します。
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. クリック **編集** をクリックします。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. 「 CAPTCHA 」ドロップダウンをクリックし、「 reCAPTCHA v3 」を選択します。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. 秘密鍵とサイトキーを挿入します。 終了したら「**保存**」をクリックします。
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)

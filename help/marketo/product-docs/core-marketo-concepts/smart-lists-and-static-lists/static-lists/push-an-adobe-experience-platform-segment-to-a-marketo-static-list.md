@@ -2,10 +2,10 @@
 description: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 74%
+source-wordcount: '659'
+ht-degree: 70%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 74%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 宛先の&#x200B;**名前**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存の Marketo の人物に一致および Marketo で見つからない人物を作成」_または_「既存の Marketo の人物に一致のみ」を選択します。この例では、前者を選択しています。また、オプションでワークスペースを選択することも、デフォルトの状態で移動することもできます。
+1. 宛先の&#x200B;**名前**&#x200B;とオプションの説明を入力します。「人物の作成」ドロップダウンをクリックし、「既存のMarketoの人物を照合」および「Marketoで見つからない人物を作成」を選択します。 _または_ 「既存のMarketoのユーザーのみに一致」（この例では、前者を選択します）。 また、 **Workspace**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
