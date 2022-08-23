@@ -3,10 +3,10 @@ unique-page-id: 6848747
 description: 役割の権限の説明 - Marketo ドキュメント - 製品ドキュメント
 title: 役割の権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '1144'
-ht-degree: 100%
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+workflow-type: tm+mt
+source-wordcount: '1146'
+ht-degree: 99%
 
 ---
 
@@ -119,6 +119,7 @@ Design Studio のタブとツリーの表示にアクセスできるが、詳細
 
 * フォームにアクセス
 
+   * フォームを承認
    * フォームの削除
    * フォームの編集 - フォームの編集、作成、複製
 

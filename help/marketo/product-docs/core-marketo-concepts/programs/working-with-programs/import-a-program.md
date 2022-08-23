@@ -3,10 +3,10 @@ unique-page-id: 1147108
 description: プログラムのインポート - Marketo ドキュメント - 製品ドキュメント
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 93%
+source-wordcount: '949'
+ht-degree: 86%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 プログラムは、ある Marketo サブスクリプションから別のサブスクリプションにインポートできます。例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、事前定義済みプログラムを Marketo プログラムライブラリからインポートすることもできます。
 
-## プログラムのインポート {#import-a-program-1}
+## プログラムのインポート {#importing-a-program}
 
 1. 「**マーケティング活動**」に移動します。
 
@@ -46,11 +46,15 @@ ht-degree: 93%
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >互換性のあるサービスプロバイダが複数ある宛先インスタンスに、カスタム・フロー・ステップまたはフロー・ステップから派生したスマート・リスト・ルールを使用するプログラムをインポートすると、インポート・ユーザーは、宛先インスタンスの正しいサービス・プロバイダに割り当てます。
+
 1. 詳細をプレビューし、プログラムを「**インポート**」します。
 
    ![](assets/import-a-program-6.png)
 
-インポートが完了すると、確認のメールが送信されます。
+インポートが完了すると、確認の電子メールが送信されます。
 
 >[!NOTE]
 >

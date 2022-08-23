@@ -3,16 +3,20 @@ unique-page-id: 1147322
 description: 匿名アクティビティとリードについて - Marketo ドキュメント - 製品ドキュメント
 title: 匿名アクティビティとリードについて
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '208'
-ht-degree: 100%
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 78%
 
 ---
 
 # 匿名アクティビティとリードについて {#understanding-anonymous-activity-and-people}
 
 Marketo のランディングページ（または web サイト上で [Munchkin トラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つページ）に初めて訪問すると、Marketo は&#x200B;_匿名アクティビティ_&#x200B;を作成し、ブラウザー cookie を使用してトラックします。識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
+
+>[!IMPORTANT]
+>
+>ベータ版機能の有効化 **Munchkin V2 匿名再生アクティビティ（既知）** 匿名リードが既知のレコードに正常にマージされた後で、匿名リードのプロモーションによってトリガーされたキャンペーンを常に再生できるようにします。 その結果、再生されたキャンペーンのデータ値の変更手順で変更されたカスタムフィールドは、既知のレコードに保持されます。
 
 **匿名**&#x200B;アクティビティは、次の場合に作成されます。
 

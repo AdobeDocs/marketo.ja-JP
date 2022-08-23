@@ -4,7 +4,7 @@ title: reCAPTCHA v3 のセットアップ
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # reCAPTCHA v3 のセットアップ {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3 は、テキスト、画像、ボタンの課題を使用せずに、どれだけ疑わしいかに基づいてフォーム送信を評価する摩擦のないエクスペリエンスです。 [詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
+ReCAPTCHA v3 は摩擦のないエクスペリエンスで、テキスト、画像、ボタンの課題を使用せずに、どれだけ疑わしいかに基づいてフォーム送信を評価します。 [詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
 
 ## データセンターと Munchkin ID の取得 {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ reCAPTCHA v3 は、テキスト、画像、ボタンの課題を使用せずに�
 
 1. 「**送信**」をクリックします。
 
->[!NOTE]
->
->サイトキーと秘密鍵をMarketo Engage設定用に用意します。
+   >[!NOTE]
+   >
+   >サイトキーと秘密鍵をMarketo Engage設定用に用意します。
 
 ## Marketo Engageでの CAPTCHA の設定 {#setting-up-captcha-in-marketo-engage}
 
