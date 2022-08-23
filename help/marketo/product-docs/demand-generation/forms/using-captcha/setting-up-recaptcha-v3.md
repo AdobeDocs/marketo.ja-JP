@@ -4,20 +4,36 @@ title: reCAPTCHA v3 のセットアップ
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 4%
+source-wordcount: '318'
+ht-degree: 5%
 
 ---
 
 # reCAPTCHA v3 のセットアップ {#setting-up-recaptcha-v3}
 
-導入テキスト
+reCAPTCHA v3 は、テキスト、画像、ボタンの課題を使用せずに、どれだけ疑わしいかに基づいてフォーム送信を評価する摩擦のないエクスペリエンスです。 [詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
+
+## データセンターと Munchkin ID の取得 {#retrieve-your-data-center-and-munchkin-id}
+
+以下の「初期 reCAPTCHA v3 セットアップ」セクションの手順 6 では、Marketo Engageサブスクリプションのデータセンターと Munchkin ID が必要です。 次に、それらを見つける方法を示します。
+
+1. Marketo で、「**管理者**」をクリックします。
+
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. 「**マイアカウント**」をクリックします。
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
+
+1. 下にスクロールして、サポート情報を表示します。
+
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 ## reCAPTCHA v3 の初期設定 {#initial-recaptcha-v3-setup}
 
-テキスト：v3 の説明 — 次の手順は、Marketo Engage外で実行します。
+次の手順は、Marketoの外部で実行します。
 
 1. に移動します。 [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} をクリックし、v3Admin Consoleをクリックします。
 
@@ -29,11 +45,15 @@ ht-degree: 4%
 
 1. タイプを選択 **reCAPTCHA v3**. Marketo Engageは現在、reCAPTCHA v2 をサポートしていません。
 
-1. Marketo Engage購読が使用する各ドメインを追加します。 ここで設定されていないドメインは、reCAPTCHA が有効なフォームでエラーを返します。
+1. Marketo Engage購読が使用する各ドメインを追加します。 ここで設定されていないドメインは、reCAPTCHA が有効なフォームでエラーを返します。 必ず「datacenter」と「munchkinID」という単語を [サブスクリプション内のデータ](#retrieve-your-data-center-and-munchkin-id).
 
-   * 123-ABC-456.mktoweb.com
-   * app-pod.marketo.com
+   * app-datacenter.marketo.com
+   * munchkinID.mktoweb.com
    * 配信登録で設定されたランディングページのドメインとエイリアス
+
+   >[!NOTE]
+   >
+   >例えば、アカウントのデータセンターが「sjst」の場合、するドメインは次のようになりま許可リストす。 `app-sjst.marketo.com`. Munchkin ID が 123-ABC-789 の場合、ドメインは次のようになりま許可リストす。 `123-ABC-789.mktoweb.com`.
 
 1. このサービスに関するアラートを受け取る所有者と追加の電子メールアドレスを設定します。
 
@@ -49,20 +69,20 @@ ht-degree: 4%
 
 1. Marketo で、「**管理者**」をクリックします。
 
-   ![](assets/setting-up-recaptcha-v3-1.png)
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. 選択 **CAPTCHA** を設定します。
 
-   ![](assets/setting-up-recaptcha-v3-2.png)
+   ![](assets/setting-up-recaptcha-v3-5.png)
 
 1. クリック **編集** をクリックします。
 
-   ![](assets/setting-up-recaptcha-v3-3.png)
+   ![](assets/setting-up-recaptcha-v3-6.png)
 
 1. 「 CAPTCHA 」ドロップダウンをクリックし、「 reCAPTCHA v3 」を選択します。
 
-   ![](assets/setting-up-recaptcha-v3-4.png)
+   ![](assets/setting-up-recaptcha-v3-7.png)
 
 1. 秘密鍵とサイトキーを挿入します。 終了したら「**保存**」をクリックします。
 
-   ![](assets/setting-up-recaptcha-v3-5.png)
+   ![](assets/setting-up-recaptcha-v3-8.png)
