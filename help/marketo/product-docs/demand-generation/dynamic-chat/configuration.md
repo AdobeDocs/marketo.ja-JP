@@ -2,10 +2,10 @@
 description: 設定 - Marketo ドキュメント - 製品ドキュメント
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 91%
+source-wordcount: '296'
+ht-degree: 89%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 
 **エージェント設定**
 
-エージェント設定で、チャットボックスの上部に表示されるラベルを追加できます（例：「アドビボット」）。また、応答遅延（秒）を決定し、チャットアバターを変更することもできます。
+エージェント設定で、チャットボックスの上部に表示されるラベルを追加できます（例：「アドビボット」）。また、応答遅延（秒）を決定し、チャットアバターを変更することもできます。独自のアバター画像をアップロードするには、 **+** 」ボタンをクリックします。
 
 ![](assets/configuration-5.png)
 
