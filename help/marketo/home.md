@@ -2,10 +2,10 @@
 title: Marketo 製品文書
 description: Marketo 製品文書
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '52'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 * [設定手順](/help/marketo/getting-started/setup/setup-steps.md)
 * [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Marketo のプロトコルの設定](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
+* [Marketo のプロトコルの設定](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
 * [Marketo 用語集](/help/marketo/getting-started/marketo-glossary.md)
 
 ## 人気の記事

@@ -3,8 +3,8 @@ unique-page-id: 11377392
 description: デフォルトのブランディングドメインの編集 - Marketo ドキュメント - 製品ドキュメント
 title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Marketo にブランディングドメインを追加する前に、[DNS で CNAME を設定](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)しておくようにします。
+>Marketo にブランディングドメインを追加する前に、[DNS で CNAME を設定](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)しておくようにします。
 
 1. **管理**&#x200B;に移動し、「**メール**」をクリックします。
 
