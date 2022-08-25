@@ -2,10 +2,10 @@
 description: 設定 - Marketo ドキュメント - 製品ドキュメント
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '319'
+ht-degree: 82%
 
 ---
 
@@ -40,6 +40,10 @@ ht-degree: 89%
 エージェント設定で、チャットボックスの上部に表示されるラベルを追加できます（例：「アドビボット」）。また、応答遅延（秒）を決定し、チャットアバターを変更することもできます。独自のアバター画像をアップロードするには、 **+** 」ボタンをクリックします。
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>カスタムアバターは、256 kb 未満の正方形の画像で、200 x 200 px 未満である必要があります。 次のファイルタイプがサポートされています。.jpg、.png、.gif、.webp、.svg。
 
 変更が完了したら、忘れずに「**保存**」をクリックしてください。
 
