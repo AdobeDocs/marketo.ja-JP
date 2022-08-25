@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 95%
@@ -20,9 +20,9 @@ ht-degree: 95%
    + [Marketo 用語集](getting-started/marketo-glossary.md)
    + [クラシックアイコン用語集](getting-started/classic-icon-glossary.md)
    + セットアップ {#setup}
-      + [設定手順](getting-started/setup-steps.md)
-      + [セットアップチェックリスト](getting-started/setup-steps/setup-checklist.md)
-      + [Marketo のプロトコルの設定](getting-started/setup-steps/configure-protocols-for-marketo.md)
+      + [設定手順](getting-started/setup/setup-steps.md)
+      + [セットアップチェックリスト](getting-started/setup/setup-checklist.md)
+      + [Marketo のプロトコルの設定](getting-started/setup/configure-protocols-for-marketo.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
