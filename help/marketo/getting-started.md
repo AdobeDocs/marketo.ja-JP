@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: はじめに - Marketo ドキュメント - 製品ドキュメント
 title: はじめに
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Marketo とは何でしょうか。素晴らしい質問です。
 
 IT チームから少々支援を受けることで、すぐに完了できます。
 
-[設定を開始する](/help/marketo/getting-started/setup-steps.md)
+[設定を開始する](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## 手順 3 すばやく成果を獲得 {#get-some-quick-wins}
 

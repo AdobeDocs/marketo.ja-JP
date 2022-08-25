@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: セットアップチェックリスト — Marketo ドキュメント — 製品ドキュメント
 title: セットアップチェックリスト
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 94%
@@ -12,7 +12,7 @@ ht-degree: 94%
 
 # セットアップチェックリスト {#setup-checklist}
 
-Marketo へようこそ以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。詳しくは、 [設定手順](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}。
+Marketo へようこそ以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。詳しくは、 [設定手順](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}。
 
 ## Marketo へのログインと追加ユーザーの作成 {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Marketo へようこそ以下のチェックリストを、視覚的な TODO リ
 
 >[!MORELIKETHIS]
 >
->[設定手順](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[設定手順](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
