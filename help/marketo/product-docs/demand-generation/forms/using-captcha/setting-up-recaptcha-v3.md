@@ -4,7 +4,7 @@ title: reCAPTCHA v3 のセットアップ
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 4%
@@ -69,7 +69,7 @@ ReCAPTCHA v3 は摩擦のないエクスペリエンスで、テキスト、画�
 
 >[!IMPORTANT]
 >
->次の手順と [最初のMarketoフォームで CAPTCHA を有効にする](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} の場合は、reCAPTCHA 設定で誤った設定がおこなわれるとフォームが壊れる可能性があるので、すぐにフォームをテストしてください。
+>次の手順と [最初のMarketoフォームで CAPTCHA を有効にする](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} の場合は、reCAPTCHA 設定で誤った設定がおこなわれるとフォームが壊れる可能性があるので、すぐにフォームをテストしてください。
 
 1. Marketo で、「**管理者**」をクリックします。
 

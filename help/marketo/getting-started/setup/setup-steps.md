@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 設定手順 - Marketo ドキュメント - 製品ドキュメント
 title: 設定手順
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 82%
@@ -31,7 +31,7 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 >[!TIP]
 >
->次の場合、 [このチェックリストを印刷する](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}。項目を完了したら、項目をオフにすることができます。
+>次の場合、 [このチェックリストを印刷する](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}。項目を完了したら、項目をオフにすることができます。
 
 ## ログインして追加の Marketo ユーザーを作成する {#log-in-and-create-additional-marketo-users}
 
