@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 14%
+source-wordcount: '556'
+ht-degree: 15%
 
 ---
 
@@ -74,4 +74,4 @@ ht-degree: 14%
 
 **_製品リリースウェビナー_**
 
-2022 年 8 月 24 日 (PT) 午前 9 時/午後 12 時 (ET) に [ライブウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)アドビの製品チームがホストする {target=&quot;_blank&quot;}。最新の製品イノベーションの使用方法を学ぶことができます。
+[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}

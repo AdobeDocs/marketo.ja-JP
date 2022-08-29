@@ -1,20 +1,21 @@
 ---
 description: リリースノート - 2022年3月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年3月
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 7%
+source-wordcount: '771'
+ht-degree: 15%
 
 ---
 
 # リリースノート：2022年3月 {#release-notes-mar-22}
 
-2022 年 3 月リリースには、次の機能が含まれています。 AdobeMarketo Engageエディションの機能の可用性を確認してください。
+2022 年 3 月リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星形 (![星](assets/yellow-star.png)) は有料のアドオンです。 詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -26,9 +27,9 @@ ht-degree: 7%
 
 * **メールボットアクティビティフィルタリングの機能強化**:以前にリリースしたの機能強化として [メールボットアクティビティフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} 機能を使用すると、ボットとして識別されるログアクティビティをオプトインできるようになりました。 その後、ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
-## 次世代のエクスペリエンス {#next-generation-experience}
+## 次世代エクスペリエンス {#next-generation-experience}
 
-* **次世代のエクスペリエンスの画面の更新**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
+* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
    * Design Studio のフォームリスト表示（新しいバルクアクションを含む）
 
@@ -76,4 +77,4 @@ ht-degree: 7%
 
 **_製品リリースウェビナー_**
 
-2022 年 5 月 11 日午前 9 時（太平洋標準時）/午後 12 時（東部標準時）に [ライブウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) アドビの製品チームが主催し、最新の製品イノベーションの使用方法を学ぶことができます。
+[2022 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
