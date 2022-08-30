@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 15%
+source-wordcount: '566'
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 15%
 
 * **[Dynamic Chat のすべての公開済みダイアログを一度に有効化/無効化](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:ボタンを押しながら、設定ページから一度にすべての公開済みダイアログをグローバルに有効化/無効化します。
 
-* **ダイナミックチャットのカスタムアバター**:カスタムチャットボットアバターをアップロードして、ブランドに合わせてパーソナライズできるようにします。
+* **[ダイナミックチャットのカスタムアバター](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**:カスタムチャットボットアバターをアップロードして、ブランドに合わせてパーソナライズできるようにします。
 
 * **ダイナミックチャットのチャットのトランスクリプト**:各会話のチャット記録を表示して、各 Web 訪問者が興味を持っている内容に関する深いインサイトを得ます。
 
@@ -33,7 +33,7 @@ ht-degree: 15%
 
 * **移動ダイアログで宛先フォルダのフォルダ階層を表示する**:各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに配置される可能性が低くなります。
 
-* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+* **[次世代のエクスペリエンスの画面の更新](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
 
    * スニペットの詳細
    * 「画像とファイル」の詳細
@@ -44,7 +44,7 @@ ht-degree: 15%
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
-* **セルフサービスフローステップ — プログラムインポートの強化**:同じサービスプロバイダーの複数のインスタンスを使用できるようになったカスタムフローステップを含むプログラムのインポートのサポートが改善されました。また、これらのサービスプロバイダーと互換性のあるフローステップを含むプログラムのインポートも可能です。
+* **[セルフサービスフローステップ — プログラムインポートの強化](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**:同じサービスプロバイダーの複数のインスタンスを使用できるようになったカスタムフローステップを含むプログラムのインポートのサポートが改善されました。また、これらのサービスプロバイダーと互換性のあるフローステップを含むプログラムのインポートも可能です。
 
 * **Munchkin — 拡張されたリンクトラッキング**:追跡のサポートを拡張 `tel` および `mailto` Munchkin とのリンクを使用して、拡張された一連の Web 動作を追跡します。
 
@@ -68,7 +68,7 @@ ht-degree: 15%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Sales Insight と Dynamic Chat の統合**:Sales Insight パネルで Dynamic Chat のアクティビティを表示し、この新しいデータポイントを見込みの取り組みで活用します。
+* **[Sales Insight と Dynamic Chat の統合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:Sales Insight パネルで Dynamic Chat のアクティビティを表示し、この新しいデータポイントを見込みの取り組みで活用します。
 
 ## お知らせ {#announcements}
 

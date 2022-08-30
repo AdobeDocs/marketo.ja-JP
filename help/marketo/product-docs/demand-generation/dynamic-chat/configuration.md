@@ -2,7 +2,7 @@
 description: 設定 - Marketo ドキュメント - 製品ドキュメント
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 82%
@@ -23,7 +23,7 @@ ht-degree: 82%
 
 ## 「スタイル」タブ {#style-tab}
 
-**スタイル**
+### スタイル {#style}
 
 ここでは、ボットウィジェットの色、フォント、配置、チャットボットの名前とアバターなど、ダイアログが表示されるチャットボットのルックアンドフィールを定義します。
 
@@ -35,7 +35,7 @@ ht-degree: 82%
 
 ![](assets/configuration-4.png)
 
-**エージェント設定**
+### エージェント設定 {#agent-settings}
 
 エージェント設定で、チャットボックスの上部に表示されるラベルを追加できます（例：「アドビボット」）。また、応答遅延（秒）を決定し、チャットアバターを変更することもできます。独自のアバター画像をアップロードするには、 **+** 」ボタンをクリックします。
 
