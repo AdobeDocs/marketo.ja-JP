@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 15%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 15%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **Dynamic Chat のすべての公開済みダイアログを一度に有効化/無効化**:ボタンを押しながら、設定ページから一度にすべての公開済みダイアログをグローバルに有効化/無効化します。
+* **[Dynamic Chat のすべての公開済みダイアログを一度に有効化/無効化](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:ボタンを押しながら、設定ページから一度にすべての公開済みダイアログをグローバルに有効化/無効化します。
 
 * **ダイナミックチャットのカスタムアバター**:カスタムチャットボットアバターをアップロードして、ブランドに合わせてパーソナライズできるようにします。
 
