@@ -3,10 +3,10 @@ unique-page-id: 2359416
 description: メールの自動応答 - Marketo ドキュメント - 製品ドキュメント
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 86%
+source-wordcount: '385'
+ht-degree: 61%
 
 ---
 
@@ -24,91 +24,87 @@ ht-degree: 86%
 
 1. マーケティングアクティビティ領域に移動します。
 
-   ![](assets/one-2.png)
+   ![](assets/email-auto-response-1.png)
 
-1. 左側のメニューで「マイプログラム」を選択し、「新規」ドロップダウンをクリックして、「新規ローカルアセット」を選択します。
+1. 左側のメニューでプログラムを選択し、 **新規** ドロップダウンで、「 」を選択します。 **新規ローカルアセット**.
 
-   ![](assets/two-3.png)
+   ![](assets/email-auto-response-2.png)
 
-1. 「メール」をクリックします。
+1. 「**メール**」を選択します。
 
-   ![](assets/three-2.png)
+   ![](assets/email-auto-response-3.png)
 
-1. メールに「自動応答メール」という名前を付け、テンプレートを選択し、「作成」をクリックします。
+1. メールに「Auto Response Email」という名前を付け、テンプレートを選択して、 **作成**.
 
-   ![](assets/four-1.png)
+   ![](assets/email-auto-response-4.png)
 
    新しいウィンドウまたはタブでメールエディターが開きます。ポップアップがブロックされている場合は、アセットの概要ページの「**下書きの編集**」をクリックして、メールにアクセスします。
 
 1. 件名を入力し、メールの編集可能な領域をダブルクリックします。
 
-   ![](assets/five-2.png)
+   ![](assets/email-auto-response-5.png)
 
    _リッチテキストエディターが、メールエディターの上に開きます。_
 
 1. 既存のメールコンテンツをハイライトします。
 
-   ![](assets/six-2.png)
+   ![](assets/email-auto-response-6.png)
 
-1. メールの内容を入力し、「保存」をクリックします。
+1. E メールの内容を入力し、 **保存**.
 
-   ![](assets/seven-2.png)
+   ![](assets/email-auto-response-7.png)
 
-1. 変更内容は自動保存されます。「メールエディター」タブ／ウィンドウを閉じます。
+1. 次をクリック： **メールアクション** ドロップダウンして「 」を選択します。 **承認して閉じる**.
 
-   ![](assets/eight-1.png)
-
-1. 新規メールを選択します。「メールアクション」で「承認」をクリックします。
-
-   ![](assets/image2014-9-24-11-3a55-3a16.png)
+   ![](assets/email-auto-response-8.png)
 
 ## 手順 2：アラースマートキャンペーンを作成する {#step-create-a-smart-campaign}
 
-1. 「**マイプログラム**」を右クリックし、「**新規スマートキャンペーン**」をクリックします。
+1. プログラムを選択し、 **新規** ドロップダウンして「 」を選択します。 **新規スマートキャンペーン**.
 
-   ![](assets/image2014-9-24-11-3a56-3a13.png)
+   ![](assets/email-auto-response-9.png)
 
 1. スマートキャンペーンに「自動応答キャンペーン」という&#x200B;**名前を付け**、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-24-11-3a56-3a25.png)
+   ![](assets/email-auto-response-10.png)
 
 1. 「**スマートリスト**」タブに移動します。
 
-   ![](assets/image2014-9-24-11-3a56-3a38.png)
+   ![](assets/email-auto-response-11.png)
 
    担当者が作成したフォームに入力するたびにこのキャンペーンを実行するように設定しています。 [**フォームを含むランディングページ**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}。
 
-1. 「**フォームの入力**」トリガーを検索して、左側のキャンバスにドラッグします。
+1. 検索し、 **フォームの入力** トリガーをキャンバスに追加します。
 
-   ![](assets/image2014-9-24-11-3a57-3a18.png)
+   ![](assets/email-auto-response-12.png)
 
-1. ドロップダウンから「**マイフォーム**」を選択します。「**フロー**」タブをクリックします。
+1. ドロップダウンから「**マイフォーム**」を選択します。次に、 **フロー** タブをクリックします。
 
-   ![](assets/image2014-9-24-11-3a57-3a29.png)
+   ![](assets/email-auto-response-13.png)
 
 1. 「**メールを送信**」フローアクションを左のキャンバスにドラッグします。
 
-   ![](assets/image2014-9-24-11-3a57-3a41.png)
+   ![](assets/email-auto-response-14.png)
 
-1. 「**自動応答メール**」を選択し、「**スケジュール**」タブをクリックします。
+1. を選択します。 **自動応答メール**. 次に、 **スケジュール** タブをクリックします。
 
-   ![](assets/image2014-9-24-11-3a57-3a53.png)
+   ![](assets/email-auto-response-15.png)
 
 1. 「**編集**」をクリックします。
 
-   ![](assets/8.png)
+   ![](assets/email-auto-response-16.png)
 
-1. 「**毎回**」を選択して、「**保存**」をクリックします。
+1. 選択 **毎回** をクリックし、 **保存**.
 
-   ![](assets/9.png)
+   ![](assets/email-auto-response-17.png)
 
 1. 「**アクティブ化**」をクリックします。
 
-   ![](assets/10.png)
+   ![](assets/email-auto-response-18.png)
 
 1. 確認画面の「**アクティブ化**」をクリックします。
 
-   ![](assets/11.png)
+   ![](assets/email-auto-response-19.png)
 
 >[!NOTE]
 >
@@ -116,19 +112,15 @@ ht-degree: 86%
 
 ## 手順 3:フォームを入力する {#step-fill-out-the-form}
 
-1. 「**マイページ**」を選択します。これは、 [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ。
+1. 選択 **マイページ** ( これは [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ ) を開き、 **プレビュー**.
 
-   ![](assets/image2014-9-24-12-3a0-3a8.png)
+   ![](assets/email-auto-response-20.png)
 
-1. 「**承認済みページを表示**」をクリックします。
-
-   ![](assets/image2014-9-24-12-3a0-3a18.png)
-
-   「無料体験版」ランディングページが新しいタブで開きます。
+   _「無料体験版」ランディングページが新しいタブで開きます。_
 
 1. 氏名、メールアドレスを使用してフォームに入力し、「**送信**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a0-3a28.png)
+   ![](assets/email-auto-response-21.png)
 
 >[!NOTE]
 >
