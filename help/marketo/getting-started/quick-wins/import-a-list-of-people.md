@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: 人物のリストのインポート - Marketo ドキュメント - 製品ドキュメント
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 89%
@@ -24,7 +24,7 @@ ht-degree: 89%
 
 1. まず、プラクティスのスプレッドシートファイル ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) をコンピューターに送信します。
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ ht-degree: 89%
 
 1. 自分の姓、名、実際のメールアドレス（次のミッションで送信するメールを受け取れるように）、役職を追加します。ファイルをコンピューターに保存します。
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ ht-degree: 89%
 
 1. **マーケティングアクティビティ**&#x200B;領域に移動します。
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. **学習**&#x200B;フォルダーを選択し、「**新規**」で「**新規プログラム**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. プログラムに「トレードショープログラム」と&#x200B;**名前を付け**、「**プログラムタイプ**」に「イベント」を選択します。
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. 「**チャネル**」で「**トレードショー**」を選択し、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ ht-degree: 89%
 
 1. **トレードショープログラム**&#x200B;で、「**新規**」をクリックし、「**新規ローカルアセット**」を選択します。
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. 「**リスト**」をクリックします。
+1. 選択 **リスト**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. リストに「トレードショー参加者」という&#x200B;**名前を付け**、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. **トレードショー参加者**&#x200B;リストで、「**リストアクション**」をクリックし、「**リストの読み込み**」を選択します。
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ ht-degree: 89%
 
 1. PC 上の **tradeshow-attendees.csv** スプレッドシートファイルを&#x200B;**参照**&#x200B;し、「**次へ**」をクリックします。
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ ht-degree: 89%
 
 1. 「リスト列」フィールドをそれぞれの Marketo フィールドにマッピングし、「**次へ**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ ht-degree: 89%
 
 1. **獲得プログラム**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**読み込み**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. ユーザーが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. **トレードショープログラム**&#x200B;に戻り、「**メンバー**」タブをクリックします。読み込んだすべての人物が表示されます。
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
