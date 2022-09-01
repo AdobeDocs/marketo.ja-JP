@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 役割の権限の説明 - Marketo ドキュメント - 製品ドキュメント
 title: 役割の権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 99%
 
 ---
@@ -162,7 +162,6 @@ Design Studio のタブとツリーの表示にアクセスできるが、詳細
    * セグメント化の削除
    * セグメント化の編集
 
-* 詳細なリストの読み込み
 * 人物の削除
 * リストの削除
 * 人物の編集 - 手動での編集や単一のフローステップの実行を防ぎます。キャンペーンを実行して人物を編集することもできます
