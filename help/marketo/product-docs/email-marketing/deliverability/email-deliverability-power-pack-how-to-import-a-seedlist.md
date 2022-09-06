@@ -3,10 +3,10 @@ unique-page-id: 10099077
 description: メール到達率パワーパック：シードリストのインポート方法 — Marketo ドキュメント — 製品ドキュメント
 title: メール到達率パワーパック：シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 97%
+source-wordcount: '294'
+ht-degree: 95%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
 
 ## シードリストのインポート {#import-a-seedlist}
 
-1. **到達率ツール**&#x200B;に移動します。
+1. マイMarketoで、 **配信ツール**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. 「**インボックス情報**」をクリックします。
 

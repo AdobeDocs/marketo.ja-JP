@@ -3,10 +3,10 @@ unique-page-id: 2359420
 description: ドリップ、ドリップ、ナーチャリング - Marketo ドキュメント - 製品ドキュメント
 title: ドリップ、ドリップ、ナーチャリング
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 95%
+source-wordcount: '462'
+ht-degree: 77%
 
 ---
 
@@ -26,35 +26,35 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 1. **マーケティングアクティビティ**&#x200B;領域に移動します。
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. **学習**&#x200B;フォルダーを選択し、**新規**&#x200B;ドロップダウンをクリックして、「**新規プログラム**」を選択します。
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. **名前**&#x200B;を入力し、「**プログラムタイプ**」で「**エンゲージメント**」を選択します。
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. **チャネル**&#x200B;フィールドが&#x200B;**ナーチャリング**&#x200B;であることを確認し、「**作成**」をクリックします。
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    これで、エンゲージメントプログラムが作成されました。
 
 ## 手順 2：メールを作成する {#step-create-an-email}
 
-1. エンゲージメントプログラムを選択し、「**新規**」をクリックして、「**新規ローカルアセット**」を選択します。
+1. エンゲージメントプログラムを選択し、 **新規** を選択し、 **新規ローカルアセット**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. 「**メール**」をクリックします。
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. **名前**&#x200B;を入力し、使用する&#x200B;**テンプレート**&#x200B;を選択して、「**作成**」をクリックします。
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 1. 件名を入力します。
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. 編集するメールの領域を選択し、歯車アイコンをクリックして、「**編集**」を選択します。
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. メールを編集し、「**保存**」をクリックします。
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. 「メールエディター」タブ／ウィンドウを閉じます。
+1. の下 **メールアクション**&#x200B;をクリックし、 **承認して閉じる**.
 
-   ![](assets/eleven-3.png)
-
-1. 「**メールアクション**」で、「**承認**」をクリックします。
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
    >忘れずにメールを承認してください。承認しないと、後でアクティブ化できません。
 
-1. 次に、手順 2 のアクションを繰り返して、別のメールを作成します。
+1. 次に、手順 2 ～ 7 での操作を繰り返して、別の E メールを作成します。
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## 手順 3：ストリームにコンテンツを追加する {#step-add-content-to-your-stream}
 
-1. 次に、作成したメールを使用して、エンゲージメントプログラムのコンテンツのストリームを作成します。
+次に、作成したメールを使用して、エンゲージメントプログラムのコンテンツのストリームを作成します。
 
-1. エンゲージメントプログラムを選択し、「**ストリーム**」タブをクリックします。
+1. エンゲージメントプログラムを選択して、「**ストリーム**」タブをクリックします。
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. 作成した 2 つのメールを右側のキャンバスにドラッグします。
+1. 次をクリック： **コンテンツを追加** 」ボタンをクリックします。
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >「**コンテンツを追加**」ボタンまたはストリームの&#x200B;**+**&#x200B;アイコンを使用することもできます。
+   >また、 **+** アイコン
+
+1. 「Email」タイプを選択したままにします。 作成した 2 つの E メールを見つけて選択します。
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## 手順 4：ストリームコンテンツをアクティブ化する {#step-activate-stream-content}
 
 1. ストリームギアアイコンをクリックして、すべてのコンテンツを一度にアクティブ化し、「**すべてのコンテンツをアクティブ化**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 1. 「**ストリームサイクルの設定**」をクリックします。
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. 目的のスケジュールに合わせて設定を編集し、「**保存**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    エンゲージメントプログラムの準備が整いました。次に、プログラムにテスト担当者を追加します。
 
@@ -136,23 +136,23 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 1. **データベース**&#x200B;領域に移動します。
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. テスト担当者を検索します。
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >テスト時にメールの受信を確認できるように、テスト担当者に有効なメールアドレスがあることを確認します。
 
-1. 人物を右クリックし、「プログラム」、「エンゲージメントプログラムに追加」の順にクリックします。
+1. 担当者を右クリックし、「 **プログラム** および **エンゲージメントプログラムに追加**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. **プログラム**&#x200B;と&#x200B;**ストリーム**&#x200B;を選択し、「**今すぐ実行**」をクリックします。
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. ミッション完了です。
 
