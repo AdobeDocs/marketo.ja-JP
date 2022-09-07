@@ -3,16 +3,20 @@ unique-page-id: 6094949
 description: スマートキャンペーンの移動 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンの移動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 76%
 
 ---
 
 # スマートキャンペーンの移動 {#move-a-smart-campaign}
 
 ツリーのドラッグ＆ドロップまたは移動機能を使用して、様々なプログラムやフォルダー間でスマートキャンペーンを移動します。スマートキャンペーンのルールは変更されず、別の場所にネストされるだけです。
+
+>[!CAUTION]
+>
+>ルールは変更されないので、キャンペーンのスマートリストまたはフローステップが元のプログラムを参照している場合は、新しいプログラムを反映するために、手動でその情報を更新する必要があります **not** 自動更新。
 
 1. 「**マーケティング活動**」に移動します。
 

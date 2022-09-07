@@ -3,20 +3,18 @@ unique-page-id: 2953120
 description: スマートキャンペーンについて - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンについて
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '206'
-ht-degree: 100%
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 74%
 
 ---
 
 # スマートキャンペーンについて {#understanding-smart-campaigns}
 
-![](assets/image2014-12-24-11-3a37-3a0.png)
-
 Marketo が強力な自動車なら、スマートキャンペーンはまさにそのエンジンです。始めるのは簡単で、ほとんど何でもできます。
 
-スマートキャンペーンには、「[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)」タブ、「[フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)」タブ、「[スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)」タブという、3 つの主な領域があります。
+スマートキャンペーンには 3 つの主な領域があります。この [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} および [スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;} タブ。
 
 ## スマートリスト {#smart-list}
 
@@ -54,6 +52,10 @@ Marketo が強力な自動車なら、スマートキャンペーンはまさに
 
 スマートキャンペーンでできることはたくさんあります。難しい情報を入手すれば、Marketo のすべてがより簡単に理解できるようになります。
 
+>[!CAUTION]
+>
+>あるプログラムから別のプログラムにスマートキャンペーンを移動し、キャンペーンのスマートリストまたはフローステップで元のプログラムが参照されている場合は、新しいプログラムを反映するように情報を手動で更新する必要があります **not** 自動更新。
+
 >[!MORELIKETHIS]
 >
->[新規スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[新しいスマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
