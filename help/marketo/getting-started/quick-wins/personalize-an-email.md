@@ -3,10 +3,10 @@ unique-page-id: 2359422
 description: メールのパーソナライズ - Marketo ドキュメント - 製品ドキュメント
 title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 88%
+source-wordcount: '341'
+ht-degree: 81%
 
 ---
 
@@ -23,63 +23,63 @@ ht-degree: 88%
 
 ## 手順 1：パーソナライズするメールを選択 {#step-select-an-email-to-personalize}
 
-1. で作成した育成メールの 1 つを選択 [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} をクリックし、 **下書きの編集**.
+1. で作成した育成メールの 1 つを選択 [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} をクリックし、 **下書きの作成**.
 
-   ![](assets/one-4.png)
+   ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >これにより、メールのコピーが下書きとして作成されます。変更を有効にするには、下書きを承認する必要があります。
+   >これにより、メールのコピーが下書きとして作成されます。変更を有効にするには、必ず下書きを承認してください。
 
-ポップアップブロッカーを有効にしていない場合、メールエディターは新しいタブまたはウィンドウで開きます。それ以外の場合は、「**下書きの編集**」を 2 回クリックします。
+ポップアップブロッカーを有効にしていない場合、メールエディターは新しいタブまたはウィンドウで開きます。それ以外の場合は、 **下書きの作成** 2 回。
 
 ## 手順 2：セールス担当者を送信者にする {#step-make-the-salesperson-the-sender}
 
 1. 「**送信者**」フィールドを選択してハイライト表示し、現在の名前を&#x200B;**削除**&#x200B;します。
 
-   ![](assets/two-5.png)
+   ![](assets/personalize-an-email-2.png)
 
 1. 「**送信者**」フィールドの右側にある「**トークン**」アイコンをクリックします。
 
-   ![](assets/three-4.png)
+   ![](assets/personalize-an-email-3.png)
 
 1. **`{{lead.Lead Owner First Name}}`** トークンを検索して選択します。
 
-   ![](assets/four-3.png)
+   ![](assets/personalize-an-email-4.png)
 
 1. **デフォルト値**&#x200B;には会社名とダッシュを入力し、セールス担当者の名前（名）が使用できない場合に何か表示されるようにします。次に「**挿入**」をクリックします。
 
-   ![](assets/five-4.png)
+   ![](assets/personalize-an-email-5.png)
 
 1. 「**送信者**」フィールドでスペースバーを押し、挿入したトークンの後に 1 つスペースを空けてカーソルが点滅していることを確認します。次に、「**トークン**」アイコンを再度クリックします。
 
-   ![](assets/six-4.png)
+   ![](assets/personalize-an-email-6.png)
 
 1. **`{{lead.Lead Owner Last Name}}`** トークンを検索して選択します。
 
-   ![](assets/seven-5.png)
+   ![](assets/personalize-an-email-7.png)
 
 1. 「**デフォルト値**」に「セールス」と入力し、「**挿入**」をクリックします。
 
-   ![](assets/eight-3.png)
+   ![](assets/personalize-an-email-8.png)
 
 ## 手順 3：メールにリードの名前を追加する {#step-add-the-leads-name-to-the-email}
 
 1. 上部の編集可能セクションを選択し、歯車アイコンをクリックして、「**編集**」を選択します。
 
-   ![](assets/nine-2.png)
+   ![](assets/personalize-an-email-9.png)
 
 1. 「Hello」の後にスペースを追加し、カーソルをコンマの前に置いて、「**トークンを挿入**」アイコンをクリックします。
 
-   ![](assets/ten-4.png)
+   ![](assets/personalize-an-email-10.png)
 
 1. **`{{lead.First Name}}`** トークンを検索して選択します。
 
-   ![](assets/eleven-4.png)
+   ![](assets/personalize-an-email-11.png)
 
 1. 「**デフォルト値**」フィールドに「友人」（または任意のラベル）と入力し、「**挿入**」をクリックします。
 
-   ![](assets/twelve-3.png)
+   ![](assets/personalize-an-email-12.png)
 
    >[!TIP]
    >
@@ -87,15 +87,11 @@ ht-degree: 88%
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/thirteen-3.png)
+   ![](assets/personalize-an-email-13.png)
 
-1. 「メールエディター」タブ／ウィンドウを閉じます。
+1. の下 **メールアクション** を選択し、 **承認して閉じる**.
 
-   ![](assets/fourteen-3.png)
-
-1. 「**メールアクション**」で、「**下書きを承認**」を選択します。
-
-   ![](assets/fifteen-3.png)
+   ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
