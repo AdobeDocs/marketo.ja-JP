@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: 子キャンペーンとローカルアセットの作成 — Marketo ドキュメント — 製品ドキュメント
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 99%
+source-wordcount: '688'
+ht-degree: 96%
 
 ---
 
 # 子キャンペーンとローカルアセットの作成 {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 Design Studio を使用して、子キャンペーンとローカルアセットを作成します。
 

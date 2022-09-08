@@ -3,14 +3,18 @@ unique-page-id: 10096681
 description: ウェビナープログラムのステータスについて - Marketo ドキュメント - 製品ドキュメント
 title: ウェビナープログラムのステータスについて
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '412'
-ht-degree: 100%
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 95%
 
 ---
 
 # ウェビナープログラムのステータスについて {#understanding-webinar-program-statuses}
+
+>[!IMPORTANT]
+>
+>2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 プログラムステータスは、イベントのメンバーとして人が進行する様々なイベントステータスを表します。これらはチャネルタイプに関連付けられています。Marketo には、**ウェビナー**&#x200B;という組み込みのチャネルタイプがあります。ステータスは、バッチとトリガーキャンペーンの両方で使用できます。
 

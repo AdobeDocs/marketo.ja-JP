@@ -3,14 +3,18 @@ unique-page-id: 10096712
 description: ON24 でのウェビナーイベントの作成  - Marketo ドキュメント - 製品ドキュメント
 title: ON24 でのウェビナーイベントの作成
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+workflow-type: tm+mt
+source-wordcount: '190'
+ht-degree: 89%
 
 ---
 
 # ON24 でのウェビナーイベントの作成 {#create-your-webinar-event-in-on}
+
+>[!IMPORTANT]
+>
+>2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 ON24 でウェビナーを作成した後、Marketo イベントを作成して ON24 ウェビナーに関連付けることができます。これにより、システムは登録情報と出席情報を共有できます。URL とその他の情報をメモして、確認用のメールと ICS ファイルで使用します。
 

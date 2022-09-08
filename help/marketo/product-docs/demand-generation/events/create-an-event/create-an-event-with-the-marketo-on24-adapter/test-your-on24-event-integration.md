@@ -3,14 +3,18 @@ unique-page-id: 10096677
 description: ON24 イベント統合のテスト — Marketo ドキュメント — 製品ドキュメント
 title: ON24 イベント統合のテスト
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '191'
-ht-degree: 100%
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 90%
 
 ---
 
 # ON24 イベント統合のテスト {#test-your-on-event-integration}
+
+>[!IMPORTANT]
+>
+>2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 イベント統合は必ず十分にテストしてください。
 

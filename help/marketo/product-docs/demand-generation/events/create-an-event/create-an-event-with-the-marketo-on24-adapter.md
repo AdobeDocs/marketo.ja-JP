@@ -3,16 +3,18 @@ unique-page-id: 10096656
 description: Marketo ON24 アダプターを使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo ON24 アダプターを使用したイベントの作成
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 93%
 
 ---
 
 # Marketo ON24 アダプターを使用したイベントの作成 {#create-an-event-with-the-marketo-on-adapter}
 
-## 始める前に {#before-you-begin}
+>[!IMPORTANT]
+>
+>2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 Marketo でイベントを作成するための構成要素と推奨されるシーケンスについて理解しておく必要があります。また、次の Marketo のコンセプトに関する実務知識も必要です。
 
@@ -40,7 +42,6 @@ Marketo ON24 統合を使用するには、次の操作が必要です。
 
 Marketo On24 アダプターを使用してイベントを作成するには、次の手順に従います。
 
-1. [Marketo での ON24 認証情報の入力](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
 1. [ON24 でのウェビナーイベントの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 1. [イベントの設定と Marketo とウェビナーの同期](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
 1. [子キャンペーンとローカルアセットの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
