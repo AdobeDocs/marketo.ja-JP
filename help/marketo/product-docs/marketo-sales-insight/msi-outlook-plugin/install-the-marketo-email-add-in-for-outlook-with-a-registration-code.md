@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール - Marketo ドキュメント - 製品ドキュメント
 title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 85%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
->Windows ユーザーフォルダに英語以外の文字が含まれている PC では、インストールはサポートされていません。 このフォルダは、Windows によって <System Root>Windows ユーザー名に基づく\Users\。Windows ユーザー名が英語以外の名前の場合は、英語以外の文字を含めることができます。 インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
+>Windows ユーザーフォルダに英語以外の文字が含まれている PC では、インストールはサポートされていません。 このフォルダは、Windows によって `<System Root>\Users\` Windows ユーザー名に基づきます。Windows ユーザー名が英語以外の名前の場合は、英語以外の文字を含めることができます。 インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
 
 >[!NOTE]
 >
