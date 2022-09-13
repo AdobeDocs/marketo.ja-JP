@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 95%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 95%
          + [カスタムオブジェクトメタデータのエクスポート](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo と Adobe ID {#marketo-with-adobe-identity}
          + [クイックガイド](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [概要](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [AdobeIdentity Managementの概要](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理者の設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 95%
          + [リリースノート：22 年 3 月](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [リリースノート：2022 年 5 月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [リリースノート：2022 年 6 月](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [リリースノート：2022 年 8 月](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021年 {#2021}
          + [リリースノート：2021 年 1 月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
