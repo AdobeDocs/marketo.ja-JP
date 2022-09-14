@@ -3,10 +3,10 @@ unique-page-id: 10099077
 description: メール到達率パワーパック：シードリストのインポート方法 — Marketo ドキュメント — 製品ドキュメント
 title: メール到達率パワーパック：シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 95%
+source-wordcount: '307'
+ht-degree: 71%
 
 ---
 
@@ -24,25 +24,25 @@ ht-degree: 95%
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 「**インボックス情報**」をクリックします。
+1. Everest アプリケーションが開きます。 左側のナビゲーションで、 **飛行中** を選択し、 **インボックスの配置**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. 「**シードリストを取得**」をクリックします。
+1. 次をクリック： **シードリストを管理** タブをクリックします。
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. 「**リストをエクスポート**」をクリックします。
+1. アクションドロップダウンをクリックし、「 」を選択します。 **1 行に 1 つダウンロード**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >250ok で[リストを最適化](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-)する場合は、「**リストを最適化**」を選択します。含めるシードリスト領域を選択する場合、「**リストをカスタマイズ**」を選択します。
+   >Everest でリストを最適化したい場合は、（ページ上部の）シードリストオプティマイザーを使用します。
 
 1. エクスポート後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ ht-degree: 95%
 
    >[!CAUTION]
    >
-   >これらのインボックス情報キャンペーンの数は 1 か月あたりで制限されています。250ok の&#x200B;**アカウント設定**&#x200B;を見て、その数を確認してください。詳細については、Marketo の営業担当にお問い合わせください。
+   >1 ヶ月あたり、これらの受信ボックス配置キャンペーンの数は制限されます。 取得した購読の数を確認するには、Everest のアカウント設定/購読の下の購読セクションを参照してください。 詳細については、Marketo の営業担当にお問い合わせください。
 
 ## 新しいシードリストの取得 {#acquiring-new-seedlists}
 
