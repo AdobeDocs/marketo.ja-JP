@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
 workflow-type: tm+mt
-source-wordcount: '8801'
-ht-degree: 95%
+source-wordcount: '8802'
+ht-degree: 94%
 
 ---
 
@@ -925,7 +925,7 @@ ht-degree: 95%
    + メールマーケティング {#email-marketing}
       + 到達率 {#deliverability}
          + [永続的な登録解除](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
-         + [メール到達率パワーパック：シードリストのインポート方法](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
+         + [E メール配信パワーパック：シードリストの読み込み方法](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [メール到達率ツール](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [メールのハードバウンスとソフトバウンス](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [カスタム DKIM 署名の設定](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
