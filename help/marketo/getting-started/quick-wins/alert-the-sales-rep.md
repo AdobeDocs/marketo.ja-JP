@@ -3,10 +3,10 @@ unique-page-id: 2359424
 description: セールス担当者にアラート - Marketo ドキュメント - 製品ドキュメント
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 87%
+source-wordcount: '404'
+ht-degree: 84%
 
 ---
 
@@ -24,39 +24,39 @@ ht-degree: 87%
 
 1. **マーケティングアクティビティ**&#x200B;領域に移動します。
 
-   ![](assets/one-5.png)
+   ![](assets/alert-the-sales-rep-1.png)
 
 1. 選択 **マイプログラム** 作成した [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィン、次に **新規** クリック **新規ローカルアセット**.
 
-   ![](assets/two-6.png)
+   ![](assets/alert-the-sales-rep-2.png)
 
 1. 「**メール**」をクリックします。
 
-   ![](assets/three-5.png)
+   ![](assets/alert-the-sales-rep-3.png)
 
 1. メールに「マイメールアラート」という&#x200B;**名前を付け**、テンプレートを選択し、「**作成**」をクリックします。
 
-   ![](assets/four-4.png)
+   ![](assets/alert-the-sales-rep-4.png)
 
 1. セールスチームが確認できるように、「**送信者名**」、「**送信元メール**」、「**返信先**」、「**件名**」を入力します。
 
-   ![](assets/five-5.png)
+   ![](assets/alert-the-sales-rep-5.png)
 
 1. ダブルクリックしてメールのテキストを編集します。
 
-   ![](assets/six-5.png)
+   ![](assets/alert-the-sales-rep-6.png)
 
 1. メールの内容を入力します。
 
-   ![](assets/seven-6.png)
+   ![](assets/alert-the-sales-rep-7.png)
 
 1. 人物の連絡先情報を挿入する場所にカーソルを置き、「**トークンの挿入**」アイコンをクリックします。
 
-   ![](assets/eight-4.png)
+   ![](assets/alert-the-sales-rep-8.png)
 
 1. `{{SP_Send_Alert_Info}}` **トークン**&#x200B;を検索して選択し、「**挿入**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a10-3a0.png)
+   ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
@@ -64,49 +64,45 @@ ht-degree: 87%
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/ten-5.png)
+   ![](assets/alert-the-sales-rep-10.png)
 
-1. 「メールエディター」タブ／ウィンドウを閉じます。
+1. 次をクリック： **メールアクション** ドロップダウンして「 」を選択します。 **承認して閉じる**.
 
-   ![](assets/eleven-5.png)
-
-1. 「**メールアクション**」で「**承認**」をクリックします。
-
-   ![](assets/twelve-4.png)
+   ![](assets/alert-the-sales-rep-11.png)
 
 ## 手順 2：アラートトリガーキャンペーンを作成する {#step-create-an-alert-trigger-campaign}
 
 1. 以前に作成した「**マイプログラム**」を選択し、「**新規**」で、「**新規スマートキャンペーン**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a14-3a17.png)
+   ![](assets/alert-the-sales-rep-12.png)
 
 1. キャンペーンに「マイアラートキャンペーン」という&#x200B;**名前を付け**、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a14-3a28.png)
+   ![](assets/alert-the-sales-rep-13.png)
 
 1. 「**スマートリスト**」タブで、「**フォームの入力**」トリガーを検索して、キャンバスにドラッグします。
 
-   ![](assets/image2014-9-24-13-3a14-3a43.png)
+   ![](assets/alert-the-sales-rep-14.png)
 
 1. 先ほど作成したフォームを選択します。
 
-   ![](assets/image2014-9-24-13-3a14-3a58.png)
+   ![](assets/alert-the-sales-rep-15.png)
 
 1. 「**フロー**」タブで、「**アラートを送信**」フローアクションを検索してキャンバスにドラッグします。
 
-   ![](assets/image2014-9-24-13-3a15-3a10.png)
+   ![](assets/alert-the-sales-rep-16.png)
 
 1. 先ほど作成した「**マイアラートメール**」を選択し、「**送信先**」を「**営業所有者**」とします。
 
-   ![](assets/eighteen-1.png)
+   ![](assets/alert-the-sales-rep-17.png)
 
 1. 自分のメールアドレスを「**他のメールへ**」フィールドに入力します。
 
-   ![](assets/nineteen-2.png)
+   ![](assets/alert-the-sales-rep-18.png)
 
 1. 「**スケジュール**」タブに移動し、「**アクティブ化**」ボタンをクリックします。
 
-   ![](assets/twenty-2.png)
+   ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
@@ -114,13 +110,13 @@ ht-degree: 87%
 
 1. 確認画面の「**アクティブ化**」をクリックします。
 
-   ![](assets/twenty-one-1.png)
+   ![](assets/alert-the-sales-rep-20.png)
 
 ## 手順 3：テストする {#step-test-it-out}
 
 1. ランディングページを選択し、「**承認済みページを表示**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a17-3a8.png)
+   ![](assets/alert-the-sales-21.png)
 
    >[!NOTE]
    >
@@ -128,7 +124,7 @@ ht-degree: 87%
 
 1. フォームに入力し、「**送信**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a17-3a41.png)
+   ![](assets/alert-the-sales-22.png)
 
 1. すぐにメールが届きます。すべて正常に動作することを確認したら、アラート送信フローからメールアドレスを削除します（上記の手順 2.7 を参照）。
 
