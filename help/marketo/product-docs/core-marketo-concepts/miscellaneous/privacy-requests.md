@@ -2,10 +2,10 @@
 description: プライバシーリクエスト — Marketo ドキュメント — 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 84%
+source-wordcount: '367'
+ht-degree: 70%
 
 ---
 
@@ -15,7 +15,14 @@ ht-degree: 84%
 
 >[!NOTE]
 >
->Marketo Engage 用に Privacy Service UI または API を通じて送信されたプライバシーリクエストは、Marketo Engage+ RT-CDP、B2B および B2P エディションを持つユーザーにのみ適用されます。
+>Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、次に示す場合にのみ適用されます。
+>
+>* Marketo EngageIdentity ManagementシステムにオンボーディングしたAdobeユーザー
+>
+>**-or-**
+>
+>* AdobeIdentity Managementシステムに既に存在する別のExperience Cloud製品 (RT-CDP、B2B および B2P エディション、Audience Managerなど ) を使用するMarketo Engageユーザー。
+
 
 消費者データにアクセスして Marketo Engage から削除する個々のリクエストを送信するには、次の 2 つの方法があります。
 
