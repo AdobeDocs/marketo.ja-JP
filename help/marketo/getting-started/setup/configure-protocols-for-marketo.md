@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 68%
+source-wordcount: '1031'
+ht-degree: 67%
 
 ---
 
@@ -50,6 +50,10 @@ ht-degree: 68%
 例：
 
 `pages.abc.com IN CNAME mkto-a0244.com`
+
+>[!NOTE]
+>
+>`[MktoTrackingLink]` は、デフォルトのブランディングドメインである必要があります。
 
 `3` **マーケティングチームに通知する**
 
