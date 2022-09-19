@@ -3,10 +3,10 @@ unique-page-id: 37355768
 description: Adobe Experience Manager でのアセットの読み込み - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
-workflow-type: ht
-source-wordcount: '217'
-ht-degree: 100%
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 89%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->この機能は、現在のバージョンの Firefox、Chrome、Edge で完全にサポートされています。Safari ではサポートされていません。
+>現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていないので、SameSite cookie の設定によっては、最新バージョンの Chrome では動作しない可能性があります。
 
 1. **Design Studio** をクリックします。
 
