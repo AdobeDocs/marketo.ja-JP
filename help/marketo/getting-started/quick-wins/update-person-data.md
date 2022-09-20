@@ -3,7 +3,7 @@ unique-page-id: 2359426
 description: 人物データの更新 - Marketo ドキュメント - 製品ドキュメント
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 86%
@@ -26,7 +26,7 @@ ht-degree: 86%
 
 1. データベースに移動します。
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. 人物の名前またはメールアドレスを検索します。
 
@@ -34,11 +34,11 @@ ht-degree: 86%
    >
    >メールアドレスを使用して検索すると、検索が高速になります。
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. ダブルクリックして人物の詳細を開きます。
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ ht-degree: 86%
 
 1. 受け取った新しい情報を入力し、タブを閉じます。
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
