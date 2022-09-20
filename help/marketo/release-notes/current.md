@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 13%
 
 ---
@@ -55,6 +55,12 @@ ht-degree: 13%
 ## API の強化 {#api-enhancements}
 
 * **リードの一括インポート：販売員協会**:リードの一括読み込みプロセス中にリードを Salespersons に関連付けることができ、複雑さを軽減し、必要な API 呼び出しの数を減らすことができます。
+
+## Sales Insight {#sales-insight}
+
+![（星印）](assets/yellow-star.png)
+
+* **[Sales Insight と Dynamic Chat の統合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:インサイトダッシュボードに、スマートグリッドのダイナミックチャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
 
 ## お知らせ {#announcements}
 
