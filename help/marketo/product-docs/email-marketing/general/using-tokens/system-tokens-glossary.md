@@ -3,10 +3,10 @@ unique-page-id: 1147344
 description: システムトークンの用語集 — Marketo ドキュメント — 製品ドキュメント
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '242'
-ht-degree: 100%
+source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 55%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 100%
 
 **使用場所：**
 
-* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
-* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
-* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} フローステップ
+* [タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} フローステップ
 * メールまたはテンプレートの本文
 
 ## system.time {#system-time}
@@ -35,9 +35,9 @@ ht-degree: 100%
 
 **使用場所：**
 
-* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
-* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
-* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} フローステップ
+* [タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} フローステップ
 * メールまたはテンプレートの本文
 
 ## system.dateTime {#system-datetime}
@@ -46,26 +46,26 @@ ht-degree: 100%
 
 **使用場所：**
 
-* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップ
-* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)フローステップ
-* [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップ
+* [データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} フローステップ
+* [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} フローステップ
+* [タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} フローステップ
 * メールまたはテンプレートの本文
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}` トークンを使用すると、[メール内の「友達に転送リンク」](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)の配置を制御できます。
+この `{{system.forwardToFriendLink}}` トークンを使用すると、 [メール内の「友達リンクに転送」](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target=&quot;_blank&quot;}。
 
 **使用場所：**
 
-* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
+* [システムトークンをメール内のリンクとして追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} またはテンプレート
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-`{{system.unsubscribLink}}` トークンを使用すると、メール内の登録解除リンクの配置を制御できます。
+`{{system.unsubscribeLink}}` トークンを使用すると、メール内の登録解除リンクの配置を制御できます。
 
 **使用場所：**
 
-* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
+* [システムトークンをメール内のリンクとして追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} またはテンプレート
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -73,4 +73,4 @@ ht-degree: 100%
 
 **使用場所：**
 
-* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
+* [システムトークンをメール内のリンクとして追加する](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} またはテンプレート
