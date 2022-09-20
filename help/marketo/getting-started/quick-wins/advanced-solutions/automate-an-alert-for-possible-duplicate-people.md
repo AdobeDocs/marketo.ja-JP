@@ -3,7 +3,7 @@ unique-page-id: 7513680
 description: 重複の可能性がある人物のアラートの自動化 - Marketo ドキュメント - 製品ドキュメント
 title: 重複の可能性がある人物のアラートの自動化
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 78%
@@ -19,7 +19,7 @@ ht-degree: 78%
 * トリガー：**人物が作成される**
 * フィルター：**重複フィールド。**&#x200B;フィールド名は「**氏名**」
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ ht-degree: 78%
 
 1. フローステップで、 [アラートの送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;} フローアクション。
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ ht-degree: 78%
 
 1. 「**スケジュール**」タブのキャンペーンをアクティブ化します。
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 これで完了です。このスマートキャンペーンは、既存の氏名を持つ新しい人物が Marketo で作成されるたびにトリガーされます。
 
