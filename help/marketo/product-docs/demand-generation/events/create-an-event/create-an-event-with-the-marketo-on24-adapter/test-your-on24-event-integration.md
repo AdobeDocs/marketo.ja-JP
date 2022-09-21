@@ -3,18 +3,14 @@ unique-page-id: 10096677
 description: ON24 イベント統合のテスト — Marketo ドキュメント — 製品ドキュメント
 title: ON24 イベント統合のテスト
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 90%
+source-wordcount: '195'
+ht-degree: 95%
 
 ---
 
 # ON24 イベント統合のテスト {#test-your-on-event-integration}
-
->[!IMPORTANT]
->
->2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 イベント統合は必ず十分にテストしてください。
 
@@ -38,6 +34,6 @@ ht-degree: 90%
 
 >[!MORELIKETHIS]
 >
->* [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [Marketo ON24 アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
 

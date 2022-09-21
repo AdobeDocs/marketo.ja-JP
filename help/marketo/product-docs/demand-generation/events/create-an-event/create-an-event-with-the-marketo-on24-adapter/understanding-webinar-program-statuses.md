@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: ウェビナープログラムのステータスについて - Marketo ドキュメント - 製品ドキュメント
 title: ウェビナープログラムのステータスについて
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # ウェビナープログラムのステータスについて {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 プログラムステータスは、イベントのメンバーとして人が進行する様々なイベントステータスを表します。これらはチャネルタイプに関連付けられています。Marketo には、**ウェビナー**&#x200B;という組み込みのチャネルタイプがあります。ステータスは、バッチとトリガーキャンペーンの両方で使用できます。
 
@@ -32,7 +28,7 @@ ht-degree: 95%
 
 **招待済み** - このステータスを使用して、イベントにユーザーを追加します。
 
-**承認待ち** - このステータスを使用して、確認メールの送信を保留します。詳しくは、[ON24 イベント登録のアップデート](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)を参照してください。
+**承認待ち** - このステータスを使用して、確認メールの送信を保留します。詳しくは、 [ON24 イベント登録の更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} を参照してください。
 
 **待機リスト** - このステータスを使用して、追加のシートが利用可能になるまでユーザーを待機させます。
 
@@ -58,4 +54,4 @@ ht-degree: 95%
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

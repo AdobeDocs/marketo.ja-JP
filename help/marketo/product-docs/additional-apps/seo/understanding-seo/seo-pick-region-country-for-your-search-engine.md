@@ -3,10 +3,10 @@ unique-page-id: 2949190
 description: SEO - 検索エンジンの地域／国の選択 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - 検索エンジンの地域／国の選択
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 92%
 
 ---
 
@@ -40,6 +40,6 @@ SEO 管理者は、キーワードランク情報を取得したい検索エン�
 
 >[!MORELIKETHIS]
 >
->* [ダッシュボードについて：SEO スナップショット](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
->* [ダッシュボードについて：SEO レコメンデーション](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>* [ダッシュボードについて：SEO スナップショット](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
+>* [ダッシュボードについて：SEORecommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
 

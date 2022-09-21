@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: ON24 イベント統合の例 - Marketo ドキュメント - 製品ドキュメント
 title: ON24 イベント統合の例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 95%
+source-wordcount: '387'
+ht-degree: 99%
 
 ---
 
 # ON24 イベント統合の例 {#example-on-event-integration}
-
->[!IMPORTANT]
->
->2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 以下に、キャンペーンを含む ON24 ウェビナーのサンプルイベントを示します。イベントを作成する場合は、キャンペーンを実行する前に必ずテストしてください。
 
@@ -96,4 +92,4 @@ ht-degree: 95%
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

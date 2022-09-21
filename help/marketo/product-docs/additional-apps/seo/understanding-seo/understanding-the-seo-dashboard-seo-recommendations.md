@@ -3,10 +3,10 @@ unique-page-id: 2949180
 description: SEO ダッシュボードについて - SEO レコメンデーション - Marketo ドキュメント - 製品ドキュメント
 title: SEO ダッシュボードについて - SEO レコメンデーション
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '156'
-ht-degree: 100%
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## ページの最適化に関する主な問題 {#top-page-optimization-issues}
 
-サイトを最適化するためにすぐに始められる、影響の大きい 5 つの方法が表示されます。リンクをクリックするだけで、完全な[ページ詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)が表示されます。
+サイトを最適化するためにすぐに始められる、影響の大きい 5 つの方法が表示されます。リンクをクリックするだけで、完全な [ページの詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}。
 
 >[!TIP]
 >
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[ページ詳細ドリルダウン](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[ページ詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}

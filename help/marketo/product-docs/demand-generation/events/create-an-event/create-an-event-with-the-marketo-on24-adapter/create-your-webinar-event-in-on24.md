@@ -3,18 +3,14 @@ unique-page-id: 10096712
 description: ON24 でのウェビナーイベントの作成  - Marketo ドキュメント - 製品ドキュメント
 title: ON24 でのウェビナーイベントの作成
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '174'
 ht-degree: 89%
 
 ---
 
 # ON24 でのウェビナーイベントの作成 {#create-your-webinar-event-in-on}
-
->[!IMPORTANT]
->
->2022 年 8 月以降、ON24 は新しいMarketo統合をサポートしません。 この記事の情報は、既存のユーザーにのみ適用されます。
 
 ON24 でウェビナーを作成した後、Marketo イベントを作成して ON24 ウェビナーに関連付けることができます。これにより、システムは登録情報と出席情報を共有できます。URL とその他の情報をメモして、確認用のメールと ICS ファイルで使用します。
 
@@ -30,8 +26,8 @@ ON24 ウェビナーの作成には、Marketo で使用される設定と、ON24
 * ライブイベント開始 — 開始日時。これは Marketo で表示できます。
 * ライブ終了時間 — 終了日時。これは Marketo で表示できます。
 
-次の手順は、[Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md) でイベントを作成することです。
+次の手順は次のとおりです。 [Marketoでイベントを作成する](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target=&quot;_blank&quot;}。
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
