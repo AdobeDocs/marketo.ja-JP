@@ -3,10 +3,10 @@ unique-page-id: 10096583
 description: 次世代 Munchkin トラッキングに関する FAQ - Marketo ドキュメント - 製品ドキュメント
 title: 次世代 Munchkin トラッキングに関する FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 100%
+source-wordcount: '750'
+ht-degree: 64%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 最も重要なポイントは次のとおりです。
 
-* 第 1 四半期のリリースで「匿名」スマートリストフィルターを削除します（完了済み）
+* 第 1 四半期のリリースで「Is Anonymous」スマートリストフィルターを削除します（既に完了しています）
 * 取り込み可能な web イベント（Web ページへのアクセス、Web ページでリンクをクリック）の数を増やしています
 * Munchkin のコードは変更されないので、web サイトの更新は不要です
 
@@ -32,9 +32,9 @@ ht-degree: 100%
 >
 >この変更は、web パーソナライゼーション（リアルタイムパーソナライゼーション）には影響しません。匿名および既知の web 訪問者を引き続き識別し、これらの訪問者に合わせてリアルタイムでコンテンツをパーソナライズします。
 
-## Marketo でスマートリストから「匿名」フィルターが削除されたのはなぜですか。 {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
+## Marketoがスマートリストから「匿名」フィルターを削除したのはなぜですか？ {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
-当社では、匿名ユーザーがスマートキャンペーンとやり取りする方法を変更しました。以前は、これらのユーザーも既知のユーザーも、スマートキャンペーンの流れは同じでした。「匿名」フィルターは、キャンペーンで既知のユーザーまたは匿名ユーザーのみを対象に指定するために使用されていました。
+当社では、匿名ユーザーがスマートキャンペーンとやり取りする方法を変更しました。以前は、これらのユーザーも既知のユーザーも、スマートキャンペーンの流れは同じでした。「匿名」フィルターは、既知の人または匿名の人のみがキャンペーンを流れるように指定するために使用しました。
 
 Munchkin V2 では引き続き、匿名アクティビティのトラッキングします。ただし、匿名ユーザーにフィルターを適用することはできなくなります。コンバージョンの時点（Marketo でユーザーが既知となった時点）で、ユーザーが匿名であった間に発生したすべてのアクティビティがそのユーザーのアクティビティログに追加され、その時点から、対象となるキャンペーンが適用されます。
 
@@ -54,40 +54,40 @@ Munchkin V2 では引き続き、匿名アクティビティのトラッキン�
 >
 >* 注目のアクションをログに記録する（既知となった時点ではなく、実際にページを訪問した日付）
 >
->* 現在と同様、「新規ユーザー」アクティビティをログに記録する
+>* 「新規担当者」アクティビティを今日の状態でログに記録する
 
 
-## 既に「匿名」フィルターが設定されているスマートリストはどうなりますか。 {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
+## 「匿名」フィルターが既に設定されているスマートリストはどうなりますか？ {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 
-2016年冬リリース以降、古いスマートキャンペーンのスマートリストで「匿名」フィルターが設定されている場合は、次の 2 つのうちいずれかの処理がおこなわれます。
+2016 年冬リリースの後、「匿名」フィルターが設定されたスマートリストを持つ古いスマートキャンペーンがある場合は、次の 2 つのうち 1 つが発生します。
 
-1. スマートリストで「Is Anonymous（匿名） = False」というフィルターが設定されている場合は、何も起こりません。無視されます。
-1. スマートリストに「Is Anonymous（匿名） = True」というフィルターがある場合、このキャンペーンは失敗し、通知が送信されます。
+1. スマートリストに「Is Anonymous = False」というフィルターがある場合、何も起こりません。 無視されます。
+1. スマートリストに「Is Anonymous = True」というフィルターがある場合、このキャンペーンは失敗し、通知が送信されます。
 
-## 私はしばらく Marketo を使っています。どのキャンペーンで「匿名」フィルターを使用しているか確認するには、どうすればよいですか。 {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
+## 私はしばらく Marketo を使っています。「匿名」フィルターを使用しているキャンペーンを知るには、どうすればよいですか？ {#ive-been-using-marketo-for-a-while-how-do-i-know-which-of-my-campaigns-use-the-is-anonymous-filter}
 
-アドビではこの変更を加える前に、「匿名」フィルターを設定しているスマートリスト、スマートキャンペーン、レポートのリストを記載した週次通知をお客様の「通知」インボックスにお送りしました。これらのリストは、現在このフィルターがどこで使用されているかを特定するのに役立ちます。
+この変更を行う前に、スマートリスト、スマートキャンペーン、および「匿名」フィルターを使用するレポートのリストと共に、お客様の通知インボックスに毎週数通の通知を送信しました。 これらのリストは、現在このフィルターがどこで使用されているかを特定するのに役立ちます。
 
-これらのキャンペーンは変更の影響を受けるため、通知を確認し、「匿名」が「True」に設定されているキャンペーンを特定してください。ほとんどの場合、顧客は何らかのスコアリングにこの設定を使用します。上記の例を参照して、現在これらのキャンペーンの仕組みがどうなったかを理解してください。
+影響を受けるキャンペーンなので、匿名を設定した場所を確認し、True に設定しておく必要がある場所を特定してください。 ほとんどの場合、顧客は何らかのスコアリングにこの設定を使用します。上記の例を参照して、現在これらのキャンペーンの仕組みがどうなったかを理解してください。
 
 ## 詳細なドキュメントをいただきたいのですが。どこで見つけることができますか。 {#id-like-more-detailed-documentation-where-can-i-find-it}
 
 次のリンクを確認してください。
 
-[匿名リードのアップグレードの概要](https://nation.marketo.com/docs/DOC-2937)
+[匿名リードのアップグレードの概要](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[匿名リードのアップグレード - Marketo UI 内の変更点](https://nation.marketo.com/docs/DOC-2938)
+[匿名リードのアップグレード — Marketo UI 内の変更](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[匿名リードのアップグレード - 顧客の対応が必要](https://nation.marketo.com/docs/DOC-2939)
+[匿名リードのアップグレード — お客様のアクションが必要](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[匿名リードのアップグレード - Analytics レポート](https://nation.marketo.com/docs/DOC-2940)
+[匿名リードのアップグレード — Analytics レポート](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[匿名リードのアップグレード - リリーススケジュール](https://nation.marketo.com/docs/DOC-2961)
+[匿名リードのアップグレード — リリーススケジュール](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[匿名リードのアップグレード - 調査対象](https://nation.marketo.com/docs/DOC-2962)
+[匿名のリードのアップグレード — 内部](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[匿名リードを既知のリードに昇格 - Munchkin V2 の動作](https://nation.marketo.com/docs/DOC-2963)
+[匿名リードの既知リードへのプロモーション — Munchkin V2 の動作](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## まだ質問があります。どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/)に連絡してください。また、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせることもできます。喜んで回答させていただきます。
+詳しくは、 [コミュニティ](https://nation.marketo.com/){target=&quot;_blank&quot;}。 また、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}。 喜んで回答させていただきます。
