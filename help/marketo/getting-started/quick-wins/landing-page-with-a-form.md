@@ -3,10 +3,10 @@ unique-page-id: 2359412
 description: フォームを含むランディングページ - Marketo ドキュメント - 製品ドキュメント
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 83%
+source-wordcount: '549'
+ht-degree: 81%
 
 ---
 
@@ -104,7 +104,7 @@ ht-degree: 83%
 
 ## 手順 3：ランディングページの作成とフォームの追加 {#step-create-a-landing-page-and-add-your-form}
 
-1. プログラムを選択した状態で、「**新規**」、「**新規ローカルアセット**」の順にクリックします。
+1. プログラムを選択した状態で、 **新規** ドロップダウンして「 」を選択します。 **新規ローカルアセット**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
