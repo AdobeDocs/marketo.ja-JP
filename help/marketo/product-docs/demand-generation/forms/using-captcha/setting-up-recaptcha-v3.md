@@ -2,9 +2,9 @@
 description: reCAPTCHA v3 の設定 — Marketoドキュメント — 製品ドキュメント
 title: reCAPTCHA v3 のセットアップ
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '359'
 ht-degree: 4%
 
 ---
@@ -88,3 +88,7 @@ ReCAPTCHA v3 は摩擦のないエクスペリエンスで、テキスト、画�
 1. 秘密鍵とサイトキーを挿入します。 終了したら「**保存**」をクリックします。
 
    ![](assets/setting-up-recaptcha-v3-8.png)
+
+>[!MORELIKETHIS]
+>
+>[Marketo Formsでの CAPTCHA の有効化](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)

@@ -2,10 +2,10 @@
 description: Marketo Formsで CAPTCHA を有効にする — Marketoドキュメント — 製品ドキュメント
 title: Marketo Formsでの CAPTCHA の有効化
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 7%
+source-wordcount: '100'
+ht-degree: 6%
 
 ---
 
@@ -37,6 +37,12 @@ CAPTCHA は、フォームごとに有効/無効を切り替えることがで�
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
+このリストへの変更がGoogleから反映されるまで、数分かかる場合があります。
+
 >[!NOTE]
 >
->このリストへの変更がGoogleから反映されるまで、数分かかる場合があります。
+>Googleは、プライバシーポリシーや利用規約へのリンクを含む標準化されたテキストを CAPTCHA 対応フォームに追加します。
+
+>[!MORELIKETHIS]
+>
+>[reCAPTCHA v3 のセットアップ](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
