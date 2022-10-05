@@ -2,10 +2,10 @@
 description: Stream Designer - Marketoドキュメント — 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 61%
+source-wordcount: '821'
+ht-degree: 56%
 
 ---
 
@@ -49,19 +49,46 @@ ht-degree: 61%
  </tr>
 </table>
 
+## ストリームデザイナーのアイコン {#stream-designer-icons}
+
+ストリームデザイナーの右上に、いくつかのアイコンが表示されます。 彼らがすることは、次の通りです。
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>その表示を希望するユーザーの背景にグリッドを追加します</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>拡大、大きなカードの作成</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>縮小し、小さいカードを作成</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>チャットをテストするためのウィンドウを開きます（同じボタンを押して閉じます）</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>ストリーム内のすべてのカードを整理します</td>
+ </tr>
+</table>
+
 ## ストリームの作成 {#create-a-stream}
 
 1. 以下を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}、 **ストリームデザイナー** タブをクリックします。
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. 質問カードをドラッグ＆ドロップします。
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. 「チャットボットの回答」で、質問を入力します。
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ ht-degree: 61%
 
 1. ユーザーの回答を入力し、「**保存**」をクリックします。
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ ht-degree: 61%
 
 1. 「はい」の場合は、予定をスケジュールしたいので、下のオプションの予定スケジューラーカードにドラッグします。
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. 右側の列で、「**保存**」をクリックします。
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. これは目標なので、予定スケジューラーの下にある目標カードをドラッグします。
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. 目標に名前を付け（または既存のものを選択）、「**保存**」をクリックします。
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. 「いいえ」の場合は、ユーザーがメーリングリストに登録するかどうかを確認したいので、その下に、別の質問カードをドラッグします。
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. 回答を入力し、訪問者の回答を追加します。終了したら「**保存**」をクリックします。
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ ht-degree: 61%
 
 1. 「はい」の回答の下で、情報キャプチャカードをドラッグして、訪問者のメールを収集できます。
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. **タイプ**&#x200B;ドロップダウンをクリックして、「**メール**」を選択します。
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo の適切なフィールドにマッピングされていることを確認し、「**保存**」をクリックします。
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ ht-degree: 61%
 
 1. メールの収集が目標なので、情報キャプチャの下にゴールカードをドラッグします。
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. 目標に名前を付け（または既存のものを選択）、「**保存**」をクリックします。
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. 「いいえ」の場合は、必ず回答を追加してください。1 つの選択肢は、メッセージカードを下にドラッグして、「とにかくありがとうございます」と言うことです。 しかし、この例では、代わりに無料のPDF文書を提供します。
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. この例では、新しいドキュメントを作成します。 名前を入力し、既にホストしているPDFの URL を入力して、「 **保存**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. を選択します。 **プレビュー** を切り替えて、ダイアログをプレビューします。
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. ダイアログをアクティブにする準備が整ったら、 **公開**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
