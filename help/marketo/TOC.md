@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 94%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 94%
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbot 動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [ダイナミックチャットアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + 予定のスケジュール {#appointment-scheduling}
+            + [カレンダー](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [会議](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [ルーティング](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + 統合 {#integrations}
             + [動的チャットを Marketo に接続する](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [ドキュメントカードの使用](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
