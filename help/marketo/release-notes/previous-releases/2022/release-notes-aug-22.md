@@ -1,9 +1,9 @@
 ---
 description: リリースノート - 2022 年 8 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 8 月
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 10%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 10%
 
 * **Webhook カスタムヘッダーの表示**:Webhook カスタムヘッダーが、可視性を高めるために、管理者/「Webhook」タブに表示されるようになりました。
 
-* **CAPTCHA**:reCAPTCHA v3 を使用してフォーム送信の有効性を評価し、受信フォームトラフィックにスコアを付けます。 疑わしいボットトラフィックを自動的に除外、強制隔離、削除するマーケティングワークフローを構築します。
+* **CAPTCHA**:フォーム送信の有効性の評価 [reCAPTCHA v3 の使用](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} で受信フォームトラフィックにスコアを付けます。 疑わしいボットトラフィックを自動的に除外、強制隔離、削除するマーケティングワークフローを構築します。
 
 * **フォームを承認する権限**:フォームに対する変更を他の Design Studio アセットと合わせて承認できるデザイナーを制御する新しい権限。 これにより、他のデザイナーは、承認権限を持つユーザーがフォームをレビューしなくても、変更をフォームにプッシュできなくなります。
 
