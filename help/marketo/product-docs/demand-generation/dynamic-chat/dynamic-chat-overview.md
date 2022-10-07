@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 56%
+source-wordcount: '953'
+ht-degree: 41%
 
 ---
 
@@ -23,7 +23,7 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、W
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
+Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。 Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
 
 以下が同期されます。
 
@@ -33,7 +33,7 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 設定 {#configuration}
 
@@ -47,7 +47,7 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。ここには、予約者のメールアドレス、予約したエージェント、予約の日時、会議があったかどうかが表示されます。
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。ここには、予定を予約した人のメールアドレス、予約を予約した担当者、予定の日時、および予定の会議時間が過ぎたかどうかが表示されます。
 
 ## ルーティング {#routing}
 
