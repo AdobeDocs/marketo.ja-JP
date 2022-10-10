@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 39%
+source-wordcount: '845'
+ht-degree: 37%
 
 ---
 
@@ -41,17 +41,15 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## カレンダー {#calendar}
 
-「カレンダー」タブで、（Outlook または Gmail）のカレンダーを接続して、Chatbot での予定スケジュールに使用します。ユーザーのカレンダーが Dynamic Chat に接続されると、そのユーザーはキューに追加され、Web サイトの訪問者が予定をスケジュールする際に使用できるようになります。
-
-また、訪問者がユーザーのカレンダーに予定をスケジュールする際に訪問者に送信する招待の本文をカスタマイズすることもできます。
+Chatbot の予定スケジュールに使用する Outlook または Gmail の予定表に接続します。 [カレンダーの詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。ここには、予定を予約した人のメールアドレス、予約を予約した担当者、予定の日時、および予定の会議時間が過ぎたかどうかが表示されます。
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[会議の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、Web サイトの訪問者に表示される順序を確認できます。
+ここでは、カレンダーに関連付けられたすべてのエージェントのリスト、Web サイト訪問者に表示される順序、カスタムルーティングルールの作成を確認できます。 [ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## よくある質問 {#faq}
 
