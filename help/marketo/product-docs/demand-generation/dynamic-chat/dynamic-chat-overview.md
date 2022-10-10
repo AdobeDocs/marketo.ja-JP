@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 41%
+source-wordcount: '919'
+ht-degree: 39%
 
 ---
 
@@ -51,7 +51,7 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、Web サイトの訪問者に表示される順序を確認できます。会議はラウンドロビン方式でおこなわれます。エージェントが 5 人いてエージェント 3 が最後の会議に出席した場合、エージェント 4 が次の会議に出席し、次にエージェント 5 がその次の会議に出席し、その後はエージェント 1 に戻ります。
+ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、Web サイトの訪問者に表示される順序を確認できます。
 
 ## よくある質問 {#faq}
 
