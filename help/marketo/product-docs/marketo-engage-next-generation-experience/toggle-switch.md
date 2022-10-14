@@ -2,10 +2,10 @@
 description: 切替スイッチ - Marketo ドキュメント - 製品ドキュメント
 title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 32%
+source-wordcount: '268'
+ht-degree: 31%
 
 ---
 
@@ -60,10 +60,13 @@ ht-degree: 32%
 * メールの詳細表示
 * メールリスト表示
 * メールテンプレートの詳細ビュー
+* メールテンプレートリスト
 * メールテストダッシュボードビュー
 * フォームの詳細表示
 * フォームリスト表示
 * 画像とファイルの詳細ページ
 * ランディングページの詳細ビュー
 * ランディングページのリスト表示
+* ランディングページテンプレートの詳細
 * スニペット詳細表示
+
