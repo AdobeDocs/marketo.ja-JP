@@ -2,9 +2,9 @@
 description: カスタムオブジェクトメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 100%
 # カスタムオブジェクトメタデータのエクスポート {#custom-object-metadata-export}
 
 当社の SOAP API または Munchkin API を使用している場合は、カスタムオブジェクトメタデータスキーマをエクスポートできます。手順は次のとおりです
+
+>[!AVAILABILITY]
+>
+>すべての顧客がこの機能を購入したわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 1. My Marketo で、「**管理者**」をクリックします。
 
