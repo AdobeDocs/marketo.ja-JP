@@ -3,8 +3,8 @@ unique-page-id: 4719308
 description: 既存の Salesforce フィールドの Marketo  同期への追加 - Marketo ドキュメント - 製品ドキュメント
 title: 既存の Salesforce フィールドの Marketo 同期への追加
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
-workflow-type: ht
+source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -20,27 +20,27 @@ ht-degree: 100%
 
 1. 名前をクリックし、「**設定**」を選択します。
 
-   ![](assets/image2015-6-30-14-3a20-3a6.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
 1. 左の検索バーで「**プロファイル**」と入力し、「**ユーザーを管理**」の下の「**プロファイル**」をクリックします。
 
-   ![](assets/image2015-6-30-14-3a20-3a52.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
 1. 同期ユーザーのプロファイルをクリックします。
 
-   ![](assets/image2015-6-30-14-3a23-3a41.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
 1. **フィールドレベルのセキュリティ**&#x200B;セクションで、フィールドを含むオブジェクトの横にある「**表示**」をクリックします。
 
-   ![](assets/image2015-6-30-14-3a23-3a59.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
 1. 「**編集**」をクリックします。
 
-   ![](assets/image2015-6-30-14-3a24-3a28.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
 1. 同期に追加するフィールドの「**表示**」のチェックをオンにし、「**保存**」をクリックします。
 
-   ![](assets/image2015-6-30-14-3a24-3a49.png)
+   ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
    できましたね。次の同期サイクルで、Marketo はフィールドを表示し、マジックを開めます。
 

@@ -3,8 +3,8 @@ unique-page-id: 6849099
 description: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのアップグレード - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのアップグレード
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -20,19 +20,19 @@ Sales Insight 用の新しい Microsoft Dynamics ソリューションがリリ�
 
 1. 「**管理者**」領域に移動します。
 
-   ![](assets/mainnavhand.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
 1. 「**Microsoft Dynamics**」をクリックします。
 
-   ![](assets/image2015-3-16-10-3a51-3a25.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
 1. 「**Marketo ソリューションをダウンロード**」を選択します。
 
-   ![](assets/image2015-3-16-10-3a52-3a1.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
 1. Microsoft Dynamics のバージョンに適したソリューションを選択します。
 
-   ![](assets/image2015-3-16-16-3a29-3a32.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
    これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。
 
