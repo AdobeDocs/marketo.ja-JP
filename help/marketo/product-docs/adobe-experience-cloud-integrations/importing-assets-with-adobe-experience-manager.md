@@ -28,23 +28,23 @@ ht-degree: 89%
 
 1. **Design Studio** をクリックします。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. 新規ドロップダウンをクリックし、「**Adobe Experience Manager から読み込む**」を選択します。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. 画像を保存するフォルダーを選択します。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Adobe Experience Manager にログインします（まだログインしていない場合）。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. フォルダーを選択します。次に、目的の画像をサムネールをクリックして選択します（最大 10 個選択できます）。終了したら「**選択**」をクリックします。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 89%
 
 1. プロセスの最後に「**読み込み**」をクリックします。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    これで完了です。「**閉じる**」をクリックして、Design Studio に戻ります。
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## 注意事項 {#things-to-note}
 
