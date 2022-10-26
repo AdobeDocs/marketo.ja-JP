@@ -3,10 +3,10 @@ unique-page-id: 37355534
 description: リリースノート - 2020 年 1 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+workflow-type: tm+mt
 source-wordcount: '838'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ## コア Marketo Engage アドビアプリ {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)：Marketo Engage で直接使用できる AEM アセットでブランドに合ったアセットにすばやくアクセスできます。メモ：この機能は、Marketo Sky と従来の両方のエクスペリエンスで使用できますが、管理機能は Classic エクスペリエンスで使用できます。バージョン 6.5 以降の AEM Assets を使用中が必要です。
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md)：Marketo Engage で直接使用できる AEM アセットでブランドに合ったアセットにすばやくアクセスできます。メモ：この機能は、Marketo Sky と従来の両方のエクスペリエンスで使用できますが、管理機能は Classic エクスペリエンスで使用できます。バージョン 6.5 以降の AEM Assets を使用中が必要です。
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 ## Marketo Sky {#marketo-sky}
 
-* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：Marketo Engage を終了する必要なしで、アドビの編集機能にアクセスできます。この新しい機能により、Design Studio で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
+* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio):Adobeの編集機能にアクセスでき、Marketo Engageを終了する必要はありません。 この新しい機能により、Design Studio で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
 
 ## Sales Insight {#sales-insight}
 
