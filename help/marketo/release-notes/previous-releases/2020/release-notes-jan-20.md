@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: リリースノート - 2020 年 1 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 98%
@@ -24,7 +24,7 @@ ht-degree: 98%
 
 ## コア Marketo Engage アドビアプリ {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md)：Marketo Engage で直接使用できる AEM アセットでブランドに合ったアセットにすばやくアクセスできます。メモ：この機能は、Marketo Sky と従来の両方のエクスペリエンスで使用できますが、管理機能は Classic エクスペリエンスで使用できます。バージョン 6.5 以降の AEM Assets を使用中が必要です。
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)：Marketo Engage で直接使用できる AEM アセットでブランドに合ったアセットにすばやくアクセスできます。メモ：この機能は、Marketo Sky と従来の両方のエクスペリエンスで使用できますが、管理機能は Classic エクスペリエンスで使用できます。バージョン 6.5 以降の AEM Assets を使用中が必要です。
 
 >[!NOTE]
 >

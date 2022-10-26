@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Adobe Experience Manager でのアセットの読み込み - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 89%
@@ -28,23 +28,23 @@ ht-degree: 89%
 
 1. **Design Studio** をクリックします。
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. 新規ドロップダウンをクリックし、「**Adobe Experience Manager から読み込む**」を選択します。
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. 画像を保存するフォルダーを選択します。
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Adobe Experience Manager にログインします（まだログインしていない場合）。
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. フォルダーを選択します。次に、目的の画像をサムネールをクリックして選択します（最大 10 個選択できます）。終了したら「**選択**」をクリックします。
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 89%
 
 1. プロセスの最後に「**読み込み**」をクリックします。
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    これで完了です。「**閉じる**」をクリックして、Design Studio に戻ります。
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## 注意事項 {#things-to-note}
 
