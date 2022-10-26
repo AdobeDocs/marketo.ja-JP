@@ -2,10 +2,10 @@
 description: Adobe Experience Cloud からのオーディエンスの同期 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 98%
+source-wordcount: '276'
+ht-degree: 75%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 
 >[!PREREQUISITES]
 >
->[組織マッピングAdobeの設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[組織マッピングAdobeの設定](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
 
 ## オーディエンスの同期方法 {#how-to-sync-an-audience}
 
@@ -49,9 +49,9 @@ ht-degree: 98%
 
 **Cookie の同期は、どのような仕組みなのですか？**
 
-Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。これにより、Marketo の匿名ユーザープロファイルを Adobe ECID で強化できます。
+Marketoサブスクリプションに対して cookie 同期が有効になっている場合、Marketoの munchkin.js は、統合の設定時に指定したAdobe IMS組織のAdobeECID を取得して保存し、これらの ECID を対応するMarketoの Cookie 識別子に一致させます。 これにより、Marketoの匿名ユーザープロファイルをAdobeECID で強化できます。
 
-匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順を実行する必要があります。リードプロファイルは、テキスト形式メールで識別されます。この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)。
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順を実行する必要があります。リードプロファイルは、テキスト形式メールで識別されます。これの仕組み [こちらで説明します。](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target=&quot;_blank&quot;}。
 
 **Marketo のリストサイズがアドビのリストサイズと異なるのはなぜですか？**
 
