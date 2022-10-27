@@ -1,11 +1,9 @@
 ---
 description: Adobe Experience Cloud統合の概要 — Marketoドキュメント — 製品ドキュメント
 title: Adobe Experience Cloud統合の概要
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobeは、Adobe Experience Cloud製品全体でネイティブオーディエ�
 
 >[!NOTE]
 >
->Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat を含む統合では、Marketo Engage内の IMS 組織のマッピングが必要になる場合があります。 [組織のマッピングを設定する方法については、こちらをAdobeしてください。](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}。
+>Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat を含む統合では、Marketo Engage内の IMS 組織のマッピングが必要になる場合があります。 [組織のマッピングを設定するAdobeの詳細](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}。
 
 ## Adobe Experience Cloud統合 {#adobe-experience-cloud-integrations}
 
