@@ -3,9 +3,9 @@ description: レポートの概要 — Marketoドキュメント — 製品ド�
 title: レポートの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 9%
 
 ---
@@ -17,15 +17,15 @@ Marketoは、様々なニーズに応じて様々なレポートモジュール�
 
 ## 基本レポート {#basic-reporting}
 
-基本レポートは、プログラム内または「Analytics」領域で設定できます。 基本レポートは、すぐに使用できる様々なタイプのレポートで構成され、タイムスパンのフィルタリング、並べ替え、調整を柔軟に行うことができます。
+次の設定が可能です。 [基本レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} が表示されます。 基本レポートは、すぐに使用できる様々なタイプのレポートで構成され、タイムスパンのフィルタリング、並べ替え、調整を柔軟に行うことができます。
 
 ## メールインサイト {#email-insights}
 
-「 Analytics と送信」を使用して、履歴データから強力なインサイトを取得します。
+Analytics と送信を使用して [強力な洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} ：履歴データからのメール。
 
 ## パフォーマンスインサイト {#performance-insights}
 
-パフォーマンスインサイト エンゲージメント、パイプライン、収益創出のためのチャネルパフォーマンスとプログラムパフォーマンスについて説明します。
+[パフォーマンスインサイト](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} は、エンゲージメント、パイプライン、収益創出のためのチャネルパフォーマンスとプログラムパフォーマンスをカバーします。
 
 ## 高度な BI 分析レポート {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _( 旧称：収益サイクルエクスプローラ/アドバンスReport Builde
 >
 >すべてのお客様が Advanced BI Analytics モジュールと Advanced Analytics モジュールを購入しているわけではありません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
-マーケティング戦略に関する ROI の追跡。 メール、リード、プログラム、商談、モデル効果分析（会社）、モデル効果分析（リード）を分析します。 BI エクスプローラーを使用すると、分析領域内にカスタムレポートを作成し、データを使用してグラフ、グラフ、ピボット、ダッシュボードを作成できます。
+マーケティング戦略に関する ROI の追跡。 メール、人、プログラム、商談、モデル効果分析（会社）、モデル効果分析（リード）を分析します。 BI エクスプローラーを使用すると、分析領域内にカスタムレポートを作成し、データを使用してグラフ、グラフ、ピボット、ダッシュボードを作成できます。
 
 高度な BI Analytics レポートのメリットには、次のようなものがあります。
 
@@ -55,6 +55,10 @@ _( 旧称：収益サイクルエクスプローラ/アドバンスReport Builde
 
 ## 高度なジャーニー分析 {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>すべてのお客様が Advanced BI Analytics モジュールと Advanced Analytics モジュールを購入しているわけではありません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+
 収益サイクルモデル — 収益ファネル全体のすべてのステージと、最初にリードを操作した時点から獲得顧客に至るまでの間に、それらのステージ間での遷移をモデル化します。
 
 成功パスアナライザー — 収益サイクルモデル全体の速度と流れを視覚的に表現します。 成功パスアナライザーを使用する場合は、収益サイクルモデルを作成する必要があります。
@@ -65,7 +69,7 @@ _( 旧称：収益サイクルエクスプローラ/アドバンスReport Builde
 
 >[!NOTE]
 >
->収益サイクル・エクスプローラを使用したモデル効果分析（企業）およびモデル効果分析（リード）は、収益サイクル・モデルに依存します。
+>高度な BI 分析レポートを使用したモデル効果分析（会社）とモデル効果分析（リード）は、高度なジャーニー分析製品で作成された収益サイクルモデルに依存します。
 
 
 
