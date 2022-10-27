@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 13%
+source-wordcount: '554'
+ht-degree: 14%
 
 ---
 
@@ -49,8 +49,6 @@ ht-degree: 13%
 ## マーケティングデータ環境 {#marketing-data-environment}
 
 * **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} システム。
-
-* **プログラムメンバーカスタムフィールドの同期**:プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）を双方向で同期する機能
 
 ## API の強化 {#api-enhancements}
 
