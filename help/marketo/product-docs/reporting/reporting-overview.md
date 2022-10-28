@@ -1,10 +1,10 @@
 ---
 description: レポートの概要 — Marketoドキュメント — 製品ドキュメント
 title: レポートの概要
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,10 +52,6 @@ _( 旧称：収益サイクルエクスプローラ/アドバンスReport Builde
 * グラフィック形式、ヒートマップ、分布曲線でのビジュアライゼーション
 
 ## 高度なジャーニー分析 {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->すべてのお客様が Advanced BI Analytics モジュールと Advanced Analytics モジュールを購入しているわけではありません。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 収益サイクルモデル：売上ファネル全体のすべてのステージと、最初にリードとやり取りした時点から獲得顧客に至るまでの間に、それらのステージ間の遷移をモデル化します。
 
