@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: リリーススケジュール - Marketo ドキュメント - 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
+source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 94%
@@ -37,7 +37,7 @@ _リリース日は変更される場合があります_
    <th width="250px">ステータス</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 年 10 月</td>
+   <td><a href="/help/marketo/release-notes/current.md">22 年 10 月</a></td>
    <td>2022 年 10 月 14 日</td>
    <td>発送済み</td>
   </tr>
@@ -66,8 +66,7 @@ _リリース日は変更される場合があります_
    <td>2023 年 9 月 9 日</td>
    <td>予定通り</td>
   </tr>
-
-<tr>
+  <tr>
    <td>23 年 10 月</td>
    <td>2023 年 10 月 21 日</td>
    <td>予定通り</td>
