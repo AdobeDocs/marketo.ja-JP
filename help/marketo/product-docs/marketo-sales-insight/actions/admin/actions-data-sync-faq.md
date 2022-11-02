@@ -2,9 +2,9 @@
 description: アクションデータ同期に関する FAQ - Marketoドキュメント — 製品ドキュメント
 title: アクションデータ同期の FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 5%
 
 ---
@@ -55,6 +55,8 @@ Marketo Engageから Sales Insight アクションに同期する 11 のフィ�
 * 姓
 * Salesforce 連絡先 ID
 * Salesforce リード ID
+* Salesforce アカウント ID
+* Salesforce 商談 ID
 * Marketo ID
 * 企業
 * 職位
