@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
+source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 14%
+source-wordcount: '553'
+ht-degree: 20%
 
 ---
 
@@ -17,23 +17,65 @@ ht-degree: 14%
 >
 >星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
 
-以下の機能のリリースは、 **2022 年 10 月 15 日**（特に指定のない限り）後週に残りの機能が段階的に公開される場合 ) リリースの機能と正確な日付は、変更される場合があります。
+以下の機能のリリースは、 **2022 年 10 月 15 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
 * **ダイナミックチャットのダイアログストリームを自動配置**:[ 自動アレンジ ] を通してボタンを押すと、キャンバス上のすべての項目がきれいで読みやすい形式に整理され、混み合ったダイアログキャンバスが改善されます。
 
-* **ダイナミックチャットの追加のデータタイプをサポート**:3 つの新しいデータタイプ（ブール値、整数、浮動）を使用すると、スコアに基づくターゲティングや、訪問者のはい/いいえの質問などに対して、Dynamic Chat の既存のMarketo Engageフィールドをより活用できます。
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">ストリームデザイナーのアイコン</a></td>
+  </tr>
+  </tbody>
+</table>
 
 * **ダイナミックチャットのミーティングリンク**:訪問者に送信されるすべての予定表招待に、Googleと Outlook のチームまたは会議リンクを自動的に含めるオプションです。
 
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">ストリームデザイナーのアイコン</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **ダイナミックチャットの追加のデータタイプをサポート**:3 つの新しいデータタイプ（ブール値、整数、浮動）を使用すると、スコアに基づくターゲティングや、訪問者のはい/いいえの質問などに対して、Dynamic Chat の既存のMarketo Engageフィールドをより活用できます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>近日開始</td>
+   <td>該当なし</td>
+  </tr>
+  </tbody>
+</table>
+
 * **ダイナミックチャットの予定会議通知**:セールス担当者は、予定された会議に関する電子メール通知と、訪問者の Chatbot インタラクションに関する関連情報を自動化します。
 
-* **Dynamic Chat の役割と権限**:管理者は、詳細な権限を使用して、アプリケーションの表示と使用を制御し、カスタムユーザーの役割を作成できます。
-
-   * フルアクセス — ユーザーはこの機能を最大限に活用できます（例：公開ダイアログ、カラースキームの変更など）。
-   * 読み取り専用アクセス — ユーザーは情報を表示できますが、変更することはできません（例：オーディエンス条件またはストリームデザイナーを参照し、変更はできません）
-   * アクセスの制限 — 「設定」セクションや「統合」セクションを表示またはアクセスできません
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>近日開始</td>
+   <td>該当なし</td>
+  </tr>
+  </tbody>
+</table>
 
 ## 次世代のエクスペリエンス {#next-generation-experience}
 
@@ -42,23 +84,95 @@ ht-degree: 14%
    * ランディングページテンプレートの詳細
    * メールテンプレートリスト
 
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">切替スイッチ</a></td>
+  </tr>
+  </tbody>
+</table>
+
 * **メールテンプレートの詳細の「使用者」タブの拡張**:新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、電子メールテンプレートを使用しているアセットに関する追加情報が表示されます。 また、アセットで使用されるリストの検索、並べ替え、フィルタリングをおこなうこともできます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td>該当なし</td>
+  </tr>
+  </tbody>
+</table>
 
 * **レポートアセットフィルタモデル**:レポート設定モデルの新しいデザインで、設定メニューに新しいアセットツリーを表示し、「作成日」と「変更日」のフィルターを表示します。
 
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td>該当なし</td>
+  </tr>
+  </tbody>
+</table>
+
 ## マーケティングデータ環境 {#marketing-data-environment}
 
-* **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、 [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} システム。
+* **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、AdobeIdentity ManagementシステムにオンボーディングしたMarketo Engageのお客様のみが利用できます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
+  </tr>
+  </tbody>
+</table>
 
 ## API の強化 {#api-enhancements}
 
 * **リードの一括インポート：販売員協会**:リードの一括読み込みプロセス中にリードを Salespersons に関連付けることができ、複雑さを軽減し、必要な API 呼び出しの数を減らすことができます。
 
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">リードの一括インポート</a></td>
+  </tr>
+  </tbody>
+</table>
+
 ## Sales Insight {#sales-insight}
 
 ![（星印）](assets/yellow-star.png)
 
-* **[Sales Insight と Dynamic Chat の統合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:インサイトダッシュボードに、スマートグリッドのダイナミックチャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
+* **Sales Insight と Dynamic Chat の統合**:インサイトダッシュボードに、スマートグリッドのダイナミックチャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>発送済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat の統合</a></td>
+  </tr>
+  </tbody>
+</table>
 
 ## お知らせ {#announcements}
 
