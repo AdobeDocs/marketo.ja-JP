@@ -1,13 +1,13 @@
 ---
 description: レポートの概要 — Marketoドキュメント — 製品ドキュメント
 title: レポートの概要
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '392'
+ht-degree: 3%
 
 ---
-
 
 # レポートの概要 {#reporting-overview}
 
@@ -64,8 +64,3 @@ _( 旧称：収益サイクルエクスプローラ/アドバンスReport Builde
 >[!NOTE]
 >
 >高度な BI 分析レポートを使用したモデル効果分析（会社）とモデル効果分析（リード）は、高度なジャーニー分析製品で作成された収益サイクルモデルに依存します。
-
-
-
-
-
