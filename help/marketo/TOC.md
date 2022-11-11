@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
+source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8816'
 ht-degree: 94%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 94%
          + [Level 3 Web Meeting を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Web サイトへの Munchkin トラッキングコードの追加](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [次世代 Munchkin トラッキングに関する FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [ReadyTalk を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [ポータルへのシングルサインオンの追加](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [WebEx を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Facebook による Workplace を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
@@ -643,7 +642,6 @@ ht-degree: 94%
             + [Adobe Connect を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [GotoWebinar を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Level 3 Web Meeting を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [ReadyTalk を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [WebEx を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Zoom を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Marketo ON24 アダプターを使用したイベントの作成 {#create-an-event-with-the-marketo-on24-adapter}
