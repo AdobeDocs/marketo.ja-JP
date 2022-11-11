@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: メールテンプレート選択ツールの概要 - Marketo ドキュメント - 製品ドキュメント
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '336'
+source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
+workflow-type: tm+mt
+source-wordcount: '276'
 ht-degree: 100%
 
 ---
@@ -27,10 +27,6 @@ ht-degree: 100%
 「**スターターテンプレート**」には、すぐに使えるレスポンシブメールテンプレートのコレクションが含まれています。そのまま使用することも、好みに合わせてカスタマイズすることもできます。
 
 ![](assets/starter-templates.png)
-
->[!NOTE]
->
->Marketo のスターターテンプレートは、すべての顧客に無料で提供されます。主要なメールクライアント（およびモバイルデバイス）向けに継続的に更新され最適化されますが、必ずニーズを満たしているかどうかを評価する必要があります。Marketo [メール配信品質ツール](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)は、様々なメールクライアントでのテンプレートのレンダリングを示します。残念ながら、Marketo は有料サービスエンゲージメント以外ではデザインリクエストを受けられません。
 
 **マイテンプレート**&#x200B;は、作成したすべてのテンプレートで構成されます。また、フォルダーを持つこともできます。
 
