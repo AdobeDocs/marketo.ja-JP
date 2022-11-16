@@ -2,10 +2,10 @@
 description: Salesforce での Sales Insight アクションの設定 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce での Sales Insight アクション構成
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 65%
+source-wordcount: '253'
+ht-degree: 56%
 
 ---
 
@@ -30,9 +30,15 @@ ht-degree: 65%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight」など）。 リモートサイトの URL (https://ims-na1-stg1.adobelogin.com) を入力し、 **保存**.
+1. リモートサイト名を入力します（「MarketoSalesInsight1」など）。 リモートサイトの URL を入力 `https://ims-na1.adobelogin.com` をクリックし、 **保存**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. もう一度「**新規リモートサイト**」をクリックします。
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。 リモートサイトの URL を入力 `https://mkto-sales-connect.adobe.io` をクリックし、 **保存**.
 
 ## CRM 全体での Sales Insight アクションの有効化 {#enabling-sales-insight-actions-across-the-crm}
 
@@ -62,7 +68,7 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->「MSI アクションを有効にする」チェックボックスをオフにするだけで、すべての MSI アクション機能を無効にすることができます。
+>[MSI アクションを有効にする ] チェックボックスをオフにするだけで、すべての MSI アクション機能を無効にすることができます。
 
 ## MSI アクションのガバナンス {#msi-actions-governance}
 

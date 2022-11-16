@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 82%
+source-wordcount: '857'
+ht-degree: 78%
 
 ---
 
@@ -58,7 +58,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
-1. 「リモートサイト」を検索し、「**リモートサイトの設定**」を選択します。
+1. 「リモートサイト」を検索し、を選択します。 **リモートサイト設定**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
@@ -66,7 +66,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. リモートサイト名を入力します（「MarketoSoapAPI」など）。Marketo の Soap API 設定パネルから、「リモートサイト URL」に「Marketo ホスト URL」と入力します。「**保存**」をクリックします。これで、Soap API 用のリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoSoapAPI」など）。 Marketo の Soap API 設定パネルから、「リモートサイト URL」に「Marketo ホスト URL」と入力します。「**保存**」をクリックします。これで、Soap API 用のリモートサイト設定が作成されました。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -74,7 +74,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. リモートサイト名を入力します（「MarketoAPI」など）。「リモートサイト URL」に、Marketo の Rest API 設定パネルの API URL を入力します。「**保存**」をクリックします。Rest API 用のリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（「MarketoAPI」など）。 「リモートサイト URL」に、Marketo の Rest API 設定パネルの API URL を入力します。「**保存**」をクリックします。Rest API 用のリモートサイト設定が作成されました。
 
    >[!NOTE]
    >
@@ -293,15 +293,13 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**Marketo Sales Insight の設定**」をクリックします。
 
-1. 「**Marketo API を有効にする**」チェックボックスをオンにします。
-
 1. の Soap API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} を開き、Salesforce Sales Insight 設定ページの「SOAP API」セクションに貼り付けます。
 
 1. の Rest API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} を開き、Salesforce Sales Insight 設定ページの「Rest API」セクションに貼り付けます。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-それで終わりだ！ Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
+これで完了です。Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
 
 >[!NOTE]
 >
