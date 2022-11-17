@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 18%
 
 ---
@@ -35,6 +35,20 @@ ht-degree: 18%
   <tr> 
    <td><i>近日開始</i></td>
    <td><i>近日開始</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、AdobeIdentity ManagementシステムにオンボーディングしたMarketo Engageのお客様のみが利用できます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ ht-degree: 18%
   <tr> 
    <td>リリース済み</td>
    <td>該当なし</td>
-  </tr>
-  </tbody>
-</table>
-
-### マーケティングデータ環境 {#marketing-data-environment}
-
-</br>
-
-* **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、AdobeIdentity ManagementシステムにオンボーディングしたMarketo Engageのお客様のみが利用できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
   </tr>
   </tbody>
 </table>
