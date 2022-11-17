@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 18%
 
 ---
@@ -21,6 +21,24 @@ ht-degree: 18%
 
 以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2022 年 10 月 15 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
+### マーケティングデータ環境 {#marketing-data-environment}
+
+</br>
+
+* **プログラムメンバーカスタムフィールドの同期**:プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）を双方向で同期する機能
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>近日開始</i></td>
+   <td><i>近日開始</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### 次世代のエクスペリエンス {#next-generation-experience}
 
 </br>
@@ -32,7 +50,7 @@ ht-degree: 18%
 
 <table> 
   <tr> 
-   <td><b>Status</b></td>
+   <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
