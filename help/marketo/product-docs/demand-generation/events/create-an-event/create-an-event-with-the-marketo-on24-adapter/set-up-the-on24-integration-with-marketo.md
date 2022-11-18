@@ -2,7 +2,7 @@
 description: ON24 とMarketoの統合の設定 — Marketoドキュメント — 製品ドキュメント
 title: Marketoとの ON24 統合の設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
-source-git-commit: e0d656352c83360d5453b91592c50efe4396a4cc
+source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 11%
@@ -13,7 +13,7 @@ ht-degree: 11%
 
 ON24 イベント統合の設定方法を以下に示します。
 
-## API 専用のロールの作成 {#Create an API Only Role}
+## API 専用のロールの作成 {#create-an-api-only-role}
 
 1. My Marketo で、「**管理者**」をクリックします。
 
