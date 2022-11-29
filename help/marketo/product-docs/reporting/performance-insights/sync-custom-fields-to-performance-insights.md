@@ -3,10 +3,10 @@ unique-page-id: 14746432
 description: カスタムフィールドをパフォーマンスインサイトに同期 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムフィールドをパフォーマンスインサイトに同期
 exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 84b1e13e29fb4c7d7b7d10660983f418e6d9957c
+workflow-type: tm+mt
+source-wordcount: '147'
+ht-degree: 91%
 
 ---
 
@@ -37,6 +37,10 @@ MPI 売上高およびパイプラインダッシュボードは、カスタム 
 1. 同期を有効にするフィールドを選択し、「**同期オプションを編集**」をクリックします。
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
+
+   >[!IMPORTANT]
+   >
+   >選択したフィールドは、[ プログラム商談 ] 領域にのみ関連付ける必要があります。
 
 1. 「**同期ステータス**」を「**有効**」に変更します。
 
