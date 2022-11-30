@@ -3,10 +3,10 @@ unique-page-id: 11377958
 description: ユーザーログイン履歴 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '178'
-ht-degree: 100%
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,37 +28,41 @@ ht-degree: 100%
 
 ユーザーログイン履歴を表示するには：
 
-1. 「**管理者**」タブをクリックし、「セキュリティ」で、「**ユーザーと役割**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
+
+1. 「セキュリティ」で「**ユーザーと役割**」をクリックします。
+
+   ![](assets/user-login-history-2.png)
 
 1. 「**ログイン履歴**」タブをクリックします。リストには、最新のログインが表示されます。
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-3.png)
 
 1. フィルターを使用して検索を絞り込みます。
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. 日付選択を使用して日付範囲を選択します。
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. または、ドロップダウンから選択します。
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
 1. ユーザーを「**ユーザー**」ドロップダウンリストから選択します。
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
 1. 「**失敗したログインのみ**」ボックスにチェックを入力すると、失敗したログインのみ検索に表示されます。
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
 1. 「**適用**」をクリックします。
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >

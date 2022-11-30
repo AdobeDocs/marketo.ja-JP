@@ -3,8 +3,8 @@ unique-page-id: 11382122
 description: 監査記録の有効化 - Marketo ドキュメント - 製品ドキュメント
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -22,15 +22,15 @@ ht-degree: 100%
 
 1. 「**管理者**」をクリックします。
 
-   ![](assets/one-2.png)
+   ![](assets/enable-audit-trail-1.png)
 
 1. 「**ユーザーと役割**」を選択し、「**役割**」をクリックします。
 
-   ![](assets/two-2.png)
+   ![](assets/enable-audit-trail-2.png)
 
 1. 監査記録を有効にする役割を選択し、「**役割の編集**」をクリックします。
 
-   ![](assets/three-1.png)
+   ![](assets/enable-audit-trail-3.png)
 
    >[!NOTE]
    >
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 1. **管理アクセス**&#x200B;権限を展開します。必要に応じて、「**監査記録にアクセス**」と「**ログイン履歴にアクセス**」のいずれかまたは両方を選択します。「**保存**」をクリックします。
 
-   ![](assets/four-1.png)
+   ![](assets/enable-audit-trail-4.png)
 
    >[!NOTE]
    >
@@ -56,11 +56,11 @@ ht-degree: 100%
 
 1. **ユーザーと役割**&#x200B;で、「**ユーザー**」をクリックします。
 
-   ![](assets/five-1.png)
+   ![](assets/enable-audit-trail-5.png)
 
 1. 監査記録の権限を付与したいユーザーを選択し「**ユーザーの編集**」をクリックします。
 
-   ![](assets/six-1.png)
+   ![](assets/enable-audit-trail-6.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 1. 作成した監査記録の役割を選択します。ここでは、「監査記録 - アセットと管理」と「監査記録 - ログイン履歴」を作成しています。
 
-   ![](assets/seven-1.png)
+   ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
@@ -76,4 +76,4 @@ ht-degree: 100%
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/eight-1.png)
+   ![](assets/enable-audit-trail-8.png)
