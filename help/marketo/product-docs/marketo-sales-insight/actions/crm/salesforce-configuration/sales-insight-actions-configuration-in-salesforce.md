@@ -2,10 +2,10 @@
 description: Salesforce での Sales Insight アクションの設定 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce での Sales Insight アクション構成
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 56%
+ht-degree: 58%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 56%
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 「リモートサイト」を検索し、を選択します。 **リモートサイト設定**.
+1. 「リモートサイト」を検索し、を選択します。 **リモートサイト設定**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. クリック **新規リモートサイト**.
+1. 「**新規リモートサイト**」をクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 56%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。 リモートサイトの URL を入力 `https://mkto-sales-connect.adobe.io` をクリックし、 **保存**.
+1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。 リモートサイトの URL を入力 `https://mkto-sales-connect.adobe.io` をクリックし、 **保存**.
 
 ## CRM 全体での Sales Insight アクションの有効化 {#enabling-sales-insight-actions-across-the-crm}
 

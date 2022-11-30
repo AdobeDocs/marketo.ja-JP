@@ -3,10 +3,10 @@ unique-page-id: 2360358
 description: ユーザーログインを SSO のみに制限 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 95%
+source-wordcount: '233'
+ht-degree: 94%
 
 ---
 
@@ -22,17 +22,21 @@ ht-degree: 95%
 >
 >**管理者権限が必要**
 
-1. 「**管理**」に移動し、「**ログイン設定**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. クリック **ログイン設定**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. 「**セキュリティ設定を編集**」をクリックします。
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. 「詳細設定」を展開し、「**SSO が必要**」をオンにして、「**保存**」をクリックします。
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

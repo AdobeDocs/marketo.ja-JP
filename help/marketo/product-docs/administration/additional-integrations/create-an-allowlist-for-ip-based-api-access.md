@@ -3,10 +3,10 @@ unique-page-id: 10098433
 description: IP ベースの API アクセス用の許可リストの作成 - Marketo ドキュメント - 製品ドキュメント
 title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 97%
 
 ---
 
@@ -18,17 +18,21 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. **管理**&#x200B;に移動し、「**Web サービス**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2016-2-25-9-3a12-3a48.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
+
+1. クリック **Web サービス**.
+
+   ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
 1. 「IP 制限」領域で、「**編集**」をクリックするか、左上の「**IP 制限を編集**」をクリックします。
 
-   ![](assets/image2016-2-25-9-3a15-3a30.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
 1. 「**IP 制限を有効にする**」ボックスを確認し、許可リストに追加する IP アドレスを入力します。
 
-   ![](assets/image2016-2-25-9-3a18-3a28.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
@@ -36,8 +40,8 @@ ht-degree: 100%
 
 1. 「**追加**」をクリックして追加のフィールドを開き、さらに IP アドレスを入力します。
 
-   ![](assets/image2016-2-25-9-3a20-3a47.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/image2016-2-25-9-3a28-3a21.png)
+   ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '8813'
+source-wordcount: '8811'
 ht-degree: 94%
 
 ---
@@ -592,7 +592,7 @@ ht-degree: 94%
          + セットアップ {#setup}
             + [手順 1/3:Marketoフィールドを Veeva CRM に追加](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [手順 2 / 3:Marketo Engage用の Veeva CRM ユーザーの作成](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
-            + [手順 3 / 3:Marketo Engageと Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
+            + [手順 3/3:Marketo Engageと Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同期の詳細 {#sync-details}
             + [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [カスタムオブジェクト同期](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
@@ -1869,7 +1869,6 @@ ht-degree: 94%
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
-   + [Practice リリース](release-notes/practice.md)
    + 以前のリリース {#previous-releases}
       + 2022 年 {#2022}
          + [リリースノート：2022 年 1 月](release-notes/previous-releases/2022/release-notes-jan-22.md)

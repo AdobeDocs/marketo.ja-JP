@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: Zoom を LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
 title: Zoom を LaunchPoint サービスとして追加
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '147'
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -22,29 +22,33 @@ Marketo は、Zoom の登録と出席を管理します。
 >
 >この手順を実行するには、Zoom のサブスクリプションと管理者権限が必要です。Zoom のログインに使用するメールとパスワードをお手元にご用意ください。
 
-1. **管理**&#x200B;領域に移動して、**LaunchPoint** をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/launchpoint.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. 「**新規**」ドロップダウンをクリックして、「**新規サービス**」を選択します。
+1. **LaunchPoint**.をクリックします。
 
-   ![](assets/newservicelp.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
+
+1. 「**新規**」を選択し、次に「**新規サービス**」を選択します。
+
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
 1. **表示名**&#x200B;を入力します。「**サービス**」で、「**Zoom**」を選択します。
 
-   ![](assets/newservice-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
 1. 「**Zoom にログイン**」をクリックします。
 
-   ![](assets/login.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
 1. Zoom のログインウィンドウで、Zoom 資格情報を入力し、「**ログイン**」をクリックします。
 
-   ![](assets/zoomlogin.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
 1. ウィンドウが閉じたら、「**作成**」をクリックします。
 
-   ![](assets/create-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
    これで完了です。Zoom アカウントが Marketo と同期され、LaunchPoint 領域に表示されます。
 
