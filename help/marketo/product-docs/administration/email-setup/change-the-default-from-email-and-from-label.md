@@ -3,8 +3,8 @@ unique-page-id: 2360247
 description: デフォルトのメール差出人と差出人ラベルの変更 - Marketo ドキュメント - 製品ドキュメント
 title: デフォルトのメール差出人と差出人ラベルの変更
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -20,15 +20,15 @@ ht-degree: 100%
 
 1. 「**管理者**」セクションに移動します。
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
 1. 「**メール**」をクリックします。
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
 1. **メール差出人**&#x200B;と&#x200B;**差出人ラベル**&#x200B;に使用するデフォルト値を入力し、「**変更を保存**」をクリックします。
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >

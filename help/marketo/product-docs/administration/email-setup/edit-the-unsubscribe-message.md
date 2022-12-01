@@ -3,10 +3,10 @@ unique-page-id: 2360251
 description: 登録解除メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 登録解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 96%
 
 ---
 
@@ -18,11 +18,15 @@ ht-degree: 100%
 
 マーケティングメールを送信する際（非[オペレーショナル](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）、登録解除テキストおよびリンクが下部に追加されます。デフォルト値は変更できます。手順は以下のとおりです。
 
-## 登録解除メッセージの編集 {#edit-the-unsubscribe-message-1}
+## 編集場所 {#where-to-make-the-edit}
 
-1. 「**管理者**」で、「**メール**」をクリックします。
+1. 「**管理者**」セクションに移動します。
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. 「**メール**」をクリックします。
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ ht-degree: 100%
 
 1. 「**登録解除 HTML**」および「**登録解除テキスト**」バージョンを選択し、「**変更を保存**」をクリックします。
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    これで手順は完了です。_テストは忘れずに実行してください。_ マーケティングメールに破損した登録解除リンクがあるのは避けるべきです。
 

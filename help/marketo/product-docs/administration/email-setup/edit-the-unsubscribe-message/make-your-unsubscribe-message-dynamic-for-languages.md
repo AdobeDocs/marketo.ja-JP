@@ -3,10 +3,10 @@ unique-page-id: 6848782
 description: 登録解除メッセージを言語に対して動的に設定 - Marketo ドキュメント - 製品ドキュメント
 title: 登録解除メッセージを言語に対して動的に設定
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '495'
-ht-degree: 100%
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+workflow-type: tm+mt
+source-wordcount: '491'
+ht-degree: 86%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->ちょっとしたチュートリアルを以下に設定しました。これはベストプラクティスですが、他の方法でも実行できます。
+>この記事はベストプラクティスですが、他の方法でも実行できます。
 
 ## データを準備する {#prepare-your-data}
 
@@ -30,15 +30,15 @@ ht-degree: 100%
 
 1. **データベース**&#x200B;に移動します。
 
-   ![](assets/db.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
 1. 「**新規**」ドロップダウンで、「**新規セグメント化**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
 1. セグメントに「**優先言語**」という名前を付けます。「**セグメントを追加**」をクリックします。言語を入力します。
 
-   ![](assets/image2015-3-9-8-3a33-3a44.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
    >[!NOTE]
    >
@@ -46,89 +46,89 @@ ht-degree: 100%
 
 1. すべての言語が表示されるまで、セグメントの追加を続けます。「**作成**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a38-3a5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
 1. セグメントを選択します。
 
-   ![](assets/image2015-3-9-8-3a38-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
 1. 「**スマートリスト**」タブに移動します。検索フィールドに&#x200B;**優先言語**&#x200B;を入力します。フィルターをキャンバスにドラッグ＆ドロップします。
 
-   ![](assets/six.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
 1. 適切な対応言語を設定します。
 
-   ![](assets/seven.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
 1. すべての言語で繰り返します。次に、「**セグメント化アクション**」ドロップダウンを選択して、「**承認**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a39-3a36.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## スニペットの作成 {#create-a-snippet}
 
 1. **Design Studio** に移動します。
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
 1. 「**新規**」ドロップダウンで、「**新規スニペット**」をクリックします。
 
-   ![](assets/ten.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
 1. スニペットに「**登録解除メッセージ**」という名前を付けます。「**作成**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a40-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
 1. デフォルトの登録解除メッセージを入力し、ハイライト表示して、ハイパーリンクアイコンをクリックします。
 
-   ![](assets/image2015-3-9-8-3a41-3a47.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. 次のトークンをコピー＆ペーストします。`{{system.unsubscribeLink}}` を「**リンク URL**」フィールドに入力します。次に「**挿入**」をクリックします。
+1. 次のトークンをコピー&amp;ペーストします。 `{{system.unsubscribeLink}}` に **URL** フィールドに入力します。 次に「**挿入**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a43-3a17.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
 1. セグメント化セクションの「**セグメント別**」を選択します。
 
-   ![](assets/image2015-3-9-8-3a44-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
 1. 「セグメント」ドロップダウンで、**優先**&#x200B;と入力し、「**優先言語**」を選択します。「**保存**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a44-3a32.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. ツリーからセグメントを選択します。その言語で登録解除メッセージを入力します。
+1. ツリーからセグメントを選択します。購読解除をクリックし、リンクアイコンをクリックします。
 
-   ![](assets/image2015-3-9-8-3a45-3a43.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. 同じトークンをコピー＆ペーストします。`{{system.unsubscribeLink}}` を「**リンク URL**」フィールドに入力します。次に「**挿入**」をクリックします。
+1. 確認 `{{system.unsubscribeLink}}` が「URL」フィールドに入力されている。 選択した言語に合わせて表示テキストを編集します。 「**適用**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a47-3a4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
 1. すべてのセグメントに対してこの手順を繰り返します。次に、Design Studio に戻り、「**スニペットアクション**」ドロップダウンをクリックして、「**承認**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a47-3a34.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-   すばらしい。もう少しで完了です。
+すばらしい。もう少しです。
 
 ## メールでスニペットを使用する {#use-snippet-in-an-email}
 
 1. メールエディターで、編集可能な要素をクリックします。次に、歯車アイコンをクリックし、「**スニペットに置換**」を選択します。編集可能なスニペット要素を選択する場合は、歯車アイコンをクリックして、「**編集**」を選択します。
 
-   ![](assets/4.1.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
 1. ドロップダウンからスニペットを探して選択し、「**保存**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a50-3a16.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
 1. テストするには、「**戻る**」をクリックし...
 
-   ![](assets/4.3.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
 1. ...次に「**動的**」タブをクリックします。
 
-   ![](assets/4.4.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
 1. 異なる言語をクリックして、スニペットの変更を確認します。
 
-   ![](assets/4.5.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-23.png)
 
    >[!TIP]
    >
@@ -138,25 +138,25 @@ ht-degree: 100%
 
 登録解除ページが優先言語で表示されるようにする場合は、ランディングページと確認ページで動的コンテンツを使用できます。
 
-1. Design Studio に移動します。
+1. 次に移動： **デザインスタジオ**.
 
-   ![](assets/ds.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. 検索フィールドに「_登録解除_」と入力します。登録解除ページが表示されます。
+1. 入力 _配信停止_ を選択し、目的の購読解除ページを選択します。
 
-   ![](assets/image2015-3-9-8-3a51-3a53.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
 1. **ドラフトの編集**&#x200B;をクリックします。
 
-   ![](assets/image2015-3-9-8-3a52-3a23.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
 1. 「**セグメント別**」を選択します。
 
-   ![](assets/image2015-3-9-8-3a52-3a57.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
 1. 「優先言語」セグメントを見つけます。「**保存**」をクリックします。
 
-   ![](assets/image2015-3-9-8-3a53-3a54.png)
+   ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
    各ランディングページのコンテンツを編集し、承認し、これで準備完了です。
 
