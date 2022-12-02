@@ -2,7 +2,7 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 17%
@@ -53,7 +53,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-### 次世代のエクスペリエンス {#next-generation-experience}
+### 次世代のエクスペリエンス {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ ht-degree: 17%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">切替スイッチ</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ ht-degree: 17%
 * **Forms 1.0**:Forms 1.0 の廃止は 10 月のリリースで完了します。 Forms 1.0 Assets はMarketo Engageにデータを送信できなくなり、試行するとエラーが返されます。
 
 * **スクリプトなしForms**:ブラウザーで JavaScript が無効になっている場合、Formsは機能しなくなります。 フォームの送信には、JavaScript を有効にする必要があります。
+
