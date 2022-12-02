@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
+source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 18%
+source-wordcount: '628'
+ht-degree: 17%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 18%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>近日開始</i></td>
-   <td><i>近日開始</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーカスタムフィールドの同期</a></td>
   </tr>
   </tbody>
 </table>
