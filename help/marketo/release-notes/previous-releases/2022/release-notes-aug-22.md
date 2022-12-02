@@ -2,7 +2,7 @@
 description: リリースノート - 2022 年 8 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 10%
@@ -33,7 +33,7 @@ ht-degree: 10%
 
 * **移動ダイアログで宛先フォルダのフォルダ階層を表示する**:各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに配置される可能性が低くなります。
 
-* **[次世代のエクスペリエンスの画面の更新](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
+* **[次世代のエクスペリエンスの画面の更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
 
    * スニペットの詳細
    * 「画像とファイル」の詳細

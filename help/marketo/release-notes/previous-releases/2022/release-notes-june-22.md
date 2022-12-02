@@ -2,7 +2,7 @@
 description: リリースノート - 2022 年 6 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 6 月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 9%
@@ -37,8 +37,8 @@ ht-degree: 9%
 
 **新しい切り替えスイッチビュー**:次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [メールリスト表示](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '8811'
+source-wordcount: '8810'
 ht-degree: 94%
 
 ---
@@ -1064,11 +1064,11 @@ ht-degree: 94%
             + [アラート情報トークンの送信の使用](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [マイトークンでの URL の使用](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [メール CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage の次世代エクスペリエンス {#marketo-engage-next-generation-experience}
-      + [概要](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [アイコン用語集](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [グローバル検索の使用](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [切り替えスイッチ](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+   + Marketo Engageモダン UX {#marketo-engage-modern-ux}
+      + [概要](product-docs/marketo-engage-modern-ux/overview.md)
+      + [アイコン用語集](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+      + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+      + [切り替えスイッチ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo セールスの連携 {#marketo-sales-connect}
       + はじめに {#getting-started}
          + [Sales Connect の概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

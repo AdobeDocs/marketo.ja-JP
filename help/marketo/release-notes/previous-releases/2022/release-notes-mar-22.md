@@ -2,10 +2,10 @@
 description: リリースノート - 2022年3月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 15%
 
 * **メールボットアクティビティフィルタリングの機能強化**:以前にリリースしたの機能強化として [メールボットアクティビティフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} 機能を使用すると、ボットとして識別されるログアクティビティをオプトインできるようになりました。 その後、ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
-## 次世代エクスペリエンス {#next-generation-experience}
+## 次世代エクスペリエンス {#modern-ux}
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
@@ -73,8 +73,8 @@ ht-degree: 15%
 
 ## お知らせ {#announcements}
 
-* **Marketo Skyの廃止**:3 月には、Marketo Skyは利用できなくなります。リソースが次世代のユーザーエクスペリエンスを提供することに注力しています。 今日、Marketo Sky専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先度の上書きを Classic エクスペリエンスに取り込みます。 [こちら](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Skyの廃止**:3 月には、Marketo Skyは利用できなくなります。リソースが次世代のユーザーエクスペリエンスを提供することに注力しています。 今日、Marketo Sky専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先度の上書きを Classic エクスペリエンスに取り込みます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 **_製品リリースウェビナー_**
 
-[2022 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[2022年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}

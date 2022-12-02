@@ -1,37 +1,38 @@
 ---
-description: リリースノート - 2022年1月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2022年1月
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+description: リリースノート - 2022 年 1 月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2022 年 1 月
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
-ht-degree: 8%
+ht-degree: 93%
 
 ---
 
-# リリースノート：2022年1月 {#release-notes-jan-22}
+# リリースノート：2022 年 1 月 {#release-notes-jan-22}
 
-2022 年 1 月リリースには、次の機能が含まれています。 AdobeMarketo Engageエディションの機能の可用性を確認してください。
+2022 年 1 月リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星形 (![星](assets/yellow-star.png)) は有料のアドオンです。 詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
 以下の機能のリリースは、 **2022 年 1 月 22 日**（特に指定のない限り）次の週間にわたって各機能を段階的に展開する場合。
 
-## 次世代のエクスペリエンス {#next-generation-experience}
+## 次世代エクスペリエンス {#modern-ux}
 
-* **次世代のエクスペリエンスの画面の更新**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
+* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * デザインスタジオでのランディングページアセットの詳細
+   * Design Studio でのランディングページアセットの詳細
    * マーケティングアクティビティのランディングページアセットの詳細
 
 ## Microsoft Dynamics 統合 {#microsoft-dynamics-integration}
 
-* **一般に利用可能な Multiselect Optionset フィールドタイプの同期**:Microsoft Dynamics の複数選択オプションセットフィールドタイプを同期して、スマートリストとスマートキャンペーンで活用し、より詳細なオーディエンスターゲティングを実現します。 以下に例を示します。トピック/関心のある製品、好みのコミュニケーションモードなど。 この新しい同期は、Microsoft Dynamics バージョン 9.X （Dynamics 365 Online を含む）で使用できます。
+* **一般に利用可能な Multiselect Optionset フィールドタイプの同期**：Microsoft Dynamics の複数選択オプションセットフィールドタイプを同期して、スマートリストとスマートキャンペーンで活用し、より詳細なオーディエンスターゲティングを実現します。例は、トピック／関心のある製品、優先するコミュニケーションモードなどです。この新しい同期は、Microsoft Dynamics バージョン 9.X（Dynamics 365 Online を含む）で使用できます。
 
-* **Microsoft Dynamics 365 Online のサーバー間認証**:セキュリティを強化するため、Microsoft Dynamics 365 Online への非インタラクティブアクセス用に、Azure Active Directory のMarketo Engage同期ユーザーの認証の追加モードとして、サーバー間 (S2S) をサポートするようになりました。 これにより、すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくので、多要素認証を使用できます。
+* **Microsoft Dynamics 365 オンラインのサーバー間認証**：セキュリティを強化するため、Microsoft Dynamics 365 オンラインへの非インタラクティブアクセス用に、Azure Active Directory の Marketo Engage 同期ユーザーの認証の追加モードとして、サーバー間（S2S）認証をサポートするようになりました。すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくため、多要素認証を使用できます。
 
 >[!NOTE]
 >
@@ -39,17 +40,17 @@ ht-degree: 8%
 
 ## 管理 {#administration}
 
-* **[フォーム検証ルール](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**:問題のある、または望ましくない E メールドメインがMarketo Engage・フォームを送信するのを防ぐ機能を備え、データベースの正常性を維持します。 グローバルフォーム検証ルールパネルを使用すると、管理者はブロックリスト、フォームをブロックする自由消費者ドメインの事前定義済みリストを定義するか、有効にすることができます。
+* **[フォーム検証ルール](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**：問題のある、または望ましくないメールドメインが Marketo Engage フォームを送信するのを防ぐ機能を備え、データベースの正常性を維持します。グローバルフォーム検証ルールパネルを使用すると、管理者はブロックリスト、フォームをブロックする自由消費者ドメインの事前定義済みリストを定義するか、有効にすることができます。
 
-* **[ランディングページヘッダーのセキュリティ](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**:管理者は、ランディングページドメインで Strict Transport Security ヘッダーと X-Frame Options ヘッダーを管理して、強力なセキュリティ要件を強化できます。
+* **[ランディングページヘッダーのセキュリティ](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**：管理者は、ランディングページドメインで Strict Transport Security ヘッダーと X-Frame Options ヘッダーを管理して、強力なセキュリティ要件を実施できます。
 
 **_四半期を通した段階的リリース_**
 
 以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
 
-## AEPMarketo Engage宛先コネクタ — 新規リードを作成 {#aep-marketo-engage-destination-connector}
+## AEP Marketo Engage 宛先コネクタ - 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
-Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AEP の宛先コネクタを介して新しい人物レコードを AEP からMarketo Engageにプッシュできるので、データベースを最大化できます。 オーディエンスセグメントを AEP からMarketo Engageに送信する際、セグメント内のユーザーのうち、Marketo Engageデータベースにまだ存在しないユーザー [は、自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
+Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザーのうち、Marketo Engage データベースにまだ存在しないユーザーは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
 ## Sales Insight {#sales-insight}
 
@@ -57,33 +58,33 @@ Adobe Experience Platform(AEP) も使用するMarketo Engageのお客様は、AE
 
 **Salesforce CRM 用 Sales Insight**
 
-* **最優先の新しいタイプ列**:販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最優先」ページのリードと連絡先を区別し、より迅速にインサイトを得ることができます。
+* **最有望見込客の新しいタイプ列**：販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最有望見込客」ページのリードと連絡先を区別し、より迅速にインサイトを得ることができます。
 
-* **Salesforce Platform API 更新**:Salesforce が Salesforce Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、Sales Insight パッケージが最新の API で更新されました。
+* **Salesforce Platform API の更新**：Salesforce が Salesforce Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、Sales Insight パッケージが最新の API で更新されました。
 
-* **更新されたブランディング**:すべての Sales Insight ページは、Adobeのブランディングに合わせて更新されています。
+* **更新されたブランディング**：すべての Sales Insight ページは、アドビのブランディングに合わせて更新されています。
 
 **Microsoft Dynamics 向け Sales Insight**
 
-* **更新されたアカウントのレイアウト**:販売者は、次のようなトップアクティビティを総合的に把握できます。アカウント内のすべての連絡先に関するメールアクティビティ、Web アクティビティ、注目のアクティビティ、スコア変更。
+* **更新されたアカウントのレイアウト**：販売者は、アカウント内のすべての連絡先に関するメールアクティビティ、web アクティビティ、注目のアクティビティ、スコア変更のようなトップアクティビティを総合的に把握できます。
 
 ## Sales Connect {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
-* **通話の結果と理由**:完全にカスタマイズ可能な新しい通話結果と通話理由オプションを使用して、セールスチームの発信活動をより詳細に把握し、追跡します。 これらの新しいフィールドに加えて、販売者が通話を行う間に、通話理由と結果の選択を強制する新しいガバナンス、通話理由と結果を有効または無効にする新しい通話理由と通話結果 Salesforce アクティビティカスタムフィールドが導入されました。 [こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)をクリックすると、詳細が表示されます。
+* **通話の結果と理由**：完全にカスタマイズ可能な新しい通話結果と通話理由オプションを使用して、セールスチームの発信アクティビティをより詳細に把握し、追跡します。これらの新しいフィールドに加えて、販売者が通話をおこなう間に、通話理由と結果の選択を強制する新しいガバナンス、通話理由と結果を有効または無効にする新しい通話理由と通話結果 Salesforce アクティビティカスタムフィールドが導入されました。[こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)をクリックすると、詳細が表示されます。
 
-* **Salesforce アクティビティ詳細のカスタマイズ**:セールス活動がセールスコネクトから Salesforce に記録される際に、Salesforce タスク件名フィールドに追加される情報をカスタマイズすることで、Salesforce でより多くのセールス活動とタスクデータを取り込みます。 [こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)をクリックすると、詳細が表示されます。
+* **Salesforce アクティビティ詳細のカスタマイズ**：セールスアクティビティが Sales Connect から Salesforce に記録される際に、Salesforce タスク件名フィールドに追加される情報をカスタマイズすることで、Salesforce でより多くのセールスアクティビティとタスクデータを取り込みます。[こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)をクリックすると、詳細が表示されます。
 
 ## お知らせ {#announcements}
 
-* **Marketo Skyの廃止**:3 月には、Marketo Skyは利用できなくなります。リソースが次世代のユーザーエクスペリエンスを提供することに注力しています。 今日、Marketo Sky専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Skyの廃止**:3 月には、Marketo Skyは利用できなくなります。リソースが次世代のユーザーエクスペリエンスを提供することに注力しています。 現在 Marketo Sky 専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。[こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
-* **フォームエンドポイントの廃止**:leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engageフォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
+* **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。[こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザーを招待ダイアログにログイン**:3 月には、既存のオプション機能「ユーザーを招待ダイアログでログイン」は廃止されます。 「Login in Invite User Dialog」機能は、今後のAdobeIdentity Management System Integration に必要なユニバーサル ID 機能によって上書きされ、2021 年 8 月にすべてのサブスクリプションで有効になりました。 廃止の結果、Marketo Engageは、サブスクリプション内の E メールアドレスごとに関連付けられるユーザーを 1 つだけ強制します。
+* **ユーザーを招待ダイアログにログイン**：3 月には、既存のオプション機能「ユーザーを招待ダイアログでログイン」は廃止されます。「ユーザーを招待ダイアログでログイン」機能は、今後の Adobe ID 管理システム統合に必要なユニバーサル ID 機能によって上書きされ、2021 年 8 月にすべての購読に対して有効になりました。廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザーを 1 名だけ関連付けられるようになります。
 
-**Marketo Engageドメイン — Sales Insight 設定**:SSL 証明書がプロビジョニングされていないMarketo Engageドメインおよびhttps://の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザーは、リード、連絡先、アカウント、商談パネル、またはMarketoグローバルページでシステムコールアウトエラーが発生する可能性があります。 お勧めの [Marketo Engage設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce で、このエラーが発生した場合。 ドキュメントの「Marketo Sales Insight 設定」セクションでハイライト表示されたMarketo Engage資格情報のみを更新する必要があります。
+**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザーには、リード、連絡先、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
 
 **_製品リリースウェビナー_**
 

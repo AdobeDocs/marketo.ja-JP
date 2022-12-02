@@ -2,10 +2,10 @@
 description: リリースノート - 2021 年 1 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2021 年 1 月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+workflow-type: tm+mt
 source-wordcount: '1268'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## 次世代ユーザーエクスペリエンス {#next-generation-user-experience}
 
-* ワークスペースのサポート：Marketo Engage の次世代ユーザーエクスペリエンスにより、Adobe Experience Cloud のルックアンドフィールと、生産性を高めるイノベーションを組み合わせることで、マーケティング実行者は迅速かつスマートに作業を行うことができます。最新のリリースでは、ワークスペース間でフォルダーを共有する機能を含む、ワークスペースとパーティションの完全なサポートが追加されます。右側のキャンバスに切り替えスイッチが表示され、コンテキストを失うことなく、機能ごとに古いエクスペリエンスと新しいエクスペリエンスをシームレスに切り替えることができます。詳しくは、Marketing Nation の次世代エクスペリエンス FAQ を[ご覧ください](https://nation.marketo.com/t5/The-Next-Generation-Experience/Next-Generation-Experience-FAQ/ba-p/307124)。
+* ワークスペースのサポート：Marketo Engage の次世代ユーザーエクスペリエンスにより、Adobe Experience Cloud のルックアンドフィールと、生産性を高めるイノベーションを組み合わせることで、マーケティング実行者は迅速かつスマートに作業を行うことができます。最新のリリースでは、ワークスペース間でフォルダーを共有する機能を含む、ワークスペースとパーティションの完全なサポートが追加されます。右側のキャンバスに切り替えスイッチが表示され、コンテキストを失うことなく、機能ごとに古いエクスペリエンスと新しいエクスペリエンスをシームレスに切り替えることができます。詳しくは、Marketing Nation の次世代エクスペリエンス FAQ を[ご覧ください](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)。
 
 ## マルチチャネルのパーソナライゼーション {#multi-channel-personalization}
 
