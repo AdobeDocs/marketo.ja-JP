@@ -5,13 +5,13 @@ exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 17%
+ht-degree: 94%
 
 ---
 
-# リリースノート：2022 年 10 月 {#release-notes-oct-22}
+# リリースノート：2022年10月 {#release-notes-oct-22}
 
-2022 年 10 月リリースに含まれるすべての機能を以下に示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、2022年10月リリースに含まれるすべての機能を示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -19,7 +19,7 @@ ht-degree: 17%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2022 年 10 月 15 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2022年10月14日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
 
 ### マーケティングデータ環境 {#marketing-data-environment}
 
@@ -29,7 +29,7 @@ ht-degree: 17%
 
 <table> 
   <tr> 
-   <td><b>Status</b></td>
+   <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
@@ -39,7 +39,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **AdobePrivacy Serviceの統合**:Privacy Serviceと調和し、Experience Cloud製品全体のデータプライバシー規制へのコンプライアンスを自動化します。 現在、このサービスは、AdobeIdentity ManagementシステムにオンボーディングしたMarketo Engageのお客様のみが利用できます。
+* **Adobe Privacy Service の統合**：Privacy Service と調和し、Experience Cloud 製品全体のデータプライバシー規制へのコンプライアンスを自動化します。現在、このサービスは、Adobe Identity Management システムにオンボーディングした Marketo Engage のお客様のみが利用できます。
 
 <table> 
   <tr> 
@@ -48,7 +48,7 @@ ht-degree: 17%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">AdobeIdentity Management</a></td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **メールテンプレートの詳細の「使用者」タブの拡張**:新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、電子メールテンプレートを使用しているアセットに関する追加情報が表示されます。 また、アセットで使用されるリストの検索、並べ替え、フィルタリングをおこなうこともできます。
+* **メールテンプレートの詳細の「使用者」タブの拡張**：新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、メールテンプレートを使用しているアセットに関する追加情報が表示されます。また、アセットで使用されるリストの検索、並べ替え、フィルタリングを行うこともできます。
 
 <table> 
   <tr> 
@@ -88,7 +88,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **レポートアセットフィルタモデル**:レポート設定モデルの新しいデザインで、設定メニューに新しいアセットツリーを表示し、「作成日」と「変更日」のフィルターを表示します。
+* **レポートアセットフィルターのモーダル**：レポート設定モーダルの新しいデザインで、設定メニューで新しいアセットツリーと、作成日および変更日のフィルターを表示します。
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ ht-degree: 17%
 
 </br>
 
-* **リードの一括インポート：販売員協会**:リードの一括読み込みプロセス中にリードを Salespersons に関連付けることができ、複雑さを軽減し、必要な API 呼び出しの数を減らすことができます。
+* **リードの一括読み込み：セールス担当者との関連付け**：パリティ付きのリード REST API で一括読み込みプロセス中にリードをセールス担当者に関連付け、複雑さを軽減し、必要な API 呼び出し数を減らすことができます。
 
 <table> 
   <tr> 
@@ -115,7 +115,7 @@ ht-degree: 17%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">リードの一括インポート</a></td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">リードの一括読み込み</a></td>
   </tr>
   </tbody>
 </table>
@@ -126,7 +126,7 @@ ht-degree: 17%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Sales Insight と Dynamic Chat の統合**:インサイトダッシュボードに、スマートグリッドのダイナミックチャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
+* **Sales Insight と動的チャットの統合**：Insight ダッシュボードに、スマートグリッドの動的チャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
 
 <table> 
   <tr> 
@@ -135,16 +135,16 @@ ht-degree: 17%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat の統合</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">動的チャットの統合</a></td>
   </tr>
   </tbody>
 </table>
 
-## アジャイルリリース機能
+## アジャイルリリースの機能
 
-以下の機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、以下を確認してください。
+以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
 
-* **ダイナミックチャットのダイアログストリームを自動配置**:[ 自動アレンジ ] を通してボタンを押すと、キャンバス上のすべての項目がきれいで読みやすい形式に整理され、混み合ったダイアログキャンバスが改善されます。
+* **動的チャットのダイアログストリームの自動配置**：混み合ったダイアログキャンバスが、「自動配置」ボタンを押すことで、すべての項目がきれいで読みやすい形式に整理され、改善されます。
 
 <table> 
   <tr> 
@@ -158,7 +158,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **ダイナミックチャットのミーティングリンク**:訪問者に送信されるすべての予定表招待に、Googleと Outlook のチームまたは会議リンクを自動的に含めるオプションです。
+* **動的チャットのミーティングリンク**：訪問者に送信されるすべてのカレンダー招待に、Google と Outlook の Teams または Meet のリンクを自動的に含めるオプションです。
 
 <table> 
   <tr> 
@@ -172,7 +172,7 @@ ht-degree: 17%
   </tbody>
 </table>
 
-* **ダイナミックチャットの追加のデータタイプをサポート**:3 つの新しいデータタイプ（ブール値、整数、浮動）を使用すると、スコアに基づくターゲティングや、訪問者のはい/いいえの質問などに対して、Dynamic Chat の既存のMarketo Engageフィールドをより活用できます。
+* **動的チャットの追加のデータタイプをサポート**：3 つの新しいデータタイプ（ブーリアン、整数、浮動少数）を使用すると、スコアに基づくターゲティングや、訪問者に「はい／いいえ」回答形式で質問するなど、動的チャットの既存の Marketo Engage フィールドをより活用できます。
 
 <table> 
   <tr> 
@@ -180,13 +180,13 @@ ht-degree: 17%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>近日開始</i></td>
+   <td><i>まもなくリリース</i></td>
    <td>該当なし</td>
   </tr>
   </tbody>
 </table>
 
-* **ダイナミックチャットの予定会議通知**:セールス担当者は、予定された会議に関する電子メール通知と、訪問者の Chatbot インタラクションに関する関連情報を自動化します。
+* **動的チャットの予定会議通知**：セールス担当者は、予定された会議に関するメール通知と、訪問者のチャットボットインタラクションに対する関連情報のメール通知を自動化できます。
 
 <table> 
   <tr> 
@@ -194,7 +194,7 @@ ht-degree: 17%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>近日開始</i></td>
+   <td><i>まもなくリリース</i></td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -202,7 +202,7 @@ ht-degree: 17%
 
 ## お知らせ {#announcements}
 
-* **Forms 1.0**:Forms 1.0 の廃止は 10 月のリリースで完了します。 Forms 1.0 Assets はMarketo Engageにデータを送信できなくなり、試行するとエラーが返されます。
+* **Forms 1.0**：Forms 1.0 の廃止は 10月のリリースで完了します。Forms 1.0 のアセットは Marketo Engage にデータを送信できなくなり、試行するとエラーが返されます。
 
-* **スクリプトなしForms**:ブラウザーで JavaScript が無効になっている場合、Formsは機能しなくなります。 フォームの送信には、JavaScript を有効にする必要があります。
+* **スクリプトなし Forms**：ブラウザーで JavaScript が無効になっている場合、Forms は機能しなくなります。フォームの送信には、JavaScript を有効にする必要があります。
 
