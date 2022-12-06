@@ -4,9 +4,9 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,8 +41,9 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
-   <td colspan="1">02/04/21</td> 
-   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。.</td> 
+   <td colspan="1">2021/04/02</td> 
+   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。
+</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -52,7 +53,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">2018/08/22</td> 
-   <td colspan="1">Microsoft Dynamics バージョン 9.x 標準の、認定リードの連絡先プロセスに対するサポートが追加されました。</td> 
+   <td colspan="1">Microsoft Dynamics バージョン 9.x 標準の、認定リードの取引先責任者プロセスに対するサポートが追加されました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
@@ -72,7 +73,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1">4.0.0.20</td> 
    <td colspan="1">2016/07/22</td> 
-   <td colspan="1">バグ修正：商談連絡先の役割の更新が完全にキャプチャされていませんでした。</td> 
+   <td colspan="1">バグ修正：商談取引先責任者のロールの更新が完全にキャプチャされていませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.19</td> 
@@ -87,7 +88,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1">4.0.0.17</td> 
    <td colspan="1">2016/04/08</td> 
-   <td colspan="1">バグ修正：リードの同期フィルターが「いいえ」に設定され、商談と連絡先に同期フィルターが設定されていない場合、リードが条件を満たしたときに連絡先と商談に対してログの作成が生成されませんでした。</td> 
+   <td colspan="1">バグ修正：リードの同期フィルターが「いいえ」に設定され、商談と取引先責任者に同期フィルターが設定されていない場合、リードが条件を満たしたときに取引先責任者と商談に対してログの作成が生成されませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
@@ -97,12 +98,12 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">2016/03/03</td> 
-   <td colspan="1">バグ修正：ログインユーザーに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td> 
+   <td colspan="1">バグ修正：ログインユーザに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
    <td colspan="1">2016/01/18</td> 
-   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザーのアクセス制限を作成しました。</td> 
+   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザのアクセス制限を作成しました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.13</td> 
