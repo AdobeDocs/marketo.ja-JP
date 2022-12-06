@@ -37,8 +37,8 @@ _リリース日は変更される場合があります_
    <th width="250px">ステータス</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 年 10 月</a></td>
-   <td>2022 年 10 月 14 日</td>
+   <td><a href="/help/marketo/release-notes/current.md">22年10月</a></td>
+   <td>2022年10月14日（PT）</td>
    <td>リリース済み</td>
   </tr>
   <tr> 
