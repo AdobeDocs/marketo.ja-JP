@@ -3,7 +3,7 @@ description: 配信停止リンクメッセージのカスタマイズ - Marketo
 title: 配信停止リンクメッセージのカスタマイズ
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
 ht-degree: 100%
 
