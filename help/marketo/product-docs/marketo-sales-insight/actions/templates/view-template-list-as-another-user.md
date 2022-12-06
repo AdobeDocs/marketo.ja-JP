@@ -1,35 +1,36 @@
 ---
-description: テンプレートリストを別のユーザーとして表示する — Marketoドキュメント — 製品ドキュメント
-title: 別のユーザーとしてテンプレートリストを表示
+description: テンプレートリストを別のユーザとして表示 - Marketo ドキュメント - 製品ドキュメント
+title: テンプレートリストを別のユーザとして表示
 hide: true
 hidefromtoc: true
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
-workflow-type: tm+mt
+exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# 別のユーザーとしてテンプレートリストを表示 {#view-template-list-as-another-user}
+# テンプレートリストを別のユーザとして表示 {#view-template-list-as-another-user}
 
-管理者は、テンプレートを任意のユーザーとして表示できます。
+管理者は、テンプレートを任意のユーザとして表示できます。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. クリック **テンプレート**.
+1. 「**テンプレート**」をクリックします。
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. 次をクリック： **表示形式** 」ドロップダウンリストから、目的のユーザーを選択します。
+1. 「**次のユーザとして表示**」ドロップダウンリストをクリックし、目的のユーザを選択します。
 
    ![](assets/view-template-list-as-another-user-2.png)
 
-1. 選択したユーザーとしてテンプレートを表示しています。
+1. 選択したユーザとしてテンプレートを表示しています。
 
    ![](assets/view-template-list-as-another-user-3.png)
 
    >[!NOTE]
    >
-   >また、 _表示形式_ 」をクリックして、最も関連性の高いものを表示します。
+   >また、「_別のユーザとして表示_」と共にフィルターや検索機能を使用して、最も関連性の高いものを表示することもできます。
