@@ -3,8 +3,9 @@ description: 「チーム」タブについて - Marketo ドキュメント - �
 title: 「チーム」タブについて
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
-workflow-type: tm+mt
+exl-id: 36189eb2-a802-4601-afca-dca3006e4608
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -26,4 +27,4 @@ ht-degree: 100%
 
 これは、今月中に締結された売上と数量に基づいています。
 
-ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。このタブでは、セールス担当のランキング表も参照できます。チーム内の各ユーザーのメール統計がここに表示されます。
+ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。このタブでは、セールス担当のランキング表も参照できます。チーム内の各ユーザのメール統計がここに表示されます。
