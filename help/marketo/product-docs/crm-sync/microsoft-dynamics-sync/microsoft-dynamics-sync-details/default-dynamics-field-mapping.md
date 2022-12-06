@@ -3,15 +3,15 @@ description: デフォルトの Dynamics フィールドマッピング - Market
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '829'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # デフォルトの Dynamics フィールドマッピング {#default-dynamics-field-mapping}
 
-Marketo アカウントを Microsoft と最初に同期すると、Marketo は組み込みの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的におこないます。Marketo は、リード、アカウント、オポチュニティ、連絡先のカスタムフィールドも同期します。
+Marketo アカウントを Microsoft と最初に同期すると、Marketo は組み込みの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的におこないます。Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 
@@ -39,7 +39,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     </tr>
     <tr>
       <td>名</td>
-      <td>名 </td>
+      <td>名前（名）</td>
       <td>firstname</td>
     </tr>
     <tr>
@@ -48,8 +48,8 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>middlename</td>
     </tr>
     <tr>
-      <td>最後</td>
       <td>姓</td>
+      <td>名前（姓）</td>
       <td>lastname</td>
     </tr>
     <tr>
@@ -103,12 +103,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>リードソース</td>
+      <td>人物のソース</td>
       <td>リードのソース</td>
       <td>leadsourcecode</td>
     </tr>
     <tr>
-      <td>リードステータス</td>
+      <td>人物のステータス</td>
       <td>ステータス</td>
       <td>statecode</td>
     </tr>
@@ -118,12 +118,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>顧客の注記</td>
+      <td>人物の注記</td>
       <td>説明</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>連絡拒否</td>
+      <td>電話連絡拒否</td>
       <td>電話を許可しない</td>
       <td>donotphone</td>
     </tr>
@@ -133,7 +133,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>リード評価</td>
+      <td>人物評価</td>
       <td>評価</td>
       <td>leadqualitycode</td>
     </tr>
@@ -178,8 +178,8 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>subject</td>
     </tr>
     <tr>
-      <td>最新の注目のアクションの日付</td>
-      <td>最新の注目のアクションの日付</td>
+      <td>最新の注目のアクション発生日</td>
+      <td>最新の注目のアクション発生日</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
@@ -193,8 +193,8 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>最新の注目のアクションのタイプ</td>
-      <td>最新の注目のアクションのタイプ</td>
+      <td>最新の注目のアクション発生タイプ</td>
+      <td>最新の注目のアクション発生タイプ</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
@@ -220,10 +220,10 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>件名</td>
       <td>トピック</td>
-      <td>件名</td>
+      <td>subject</td>
     </tr>
     <tr>
-      <td>年間売上高</td>
+      <td>年間収益</td>
       <td>年間収益</td>
       <td>revenue</td>
     </tr>
@@ -275,12 +275,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>敬称</td>
       <td>敬称</td>
-      <td>敬称</td>
+      <td>salutation</td>
     </tr>
     <tr>
       <td>名</td>
-      <td>名 </td>
-      <td>名</td>
+      <td>名前（名）</td>
+      <td>firstname</td>
     </tr>
     <tr>
       <td>ミドルネーム</td>
@@ -288,9 +288,9 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>middlename</td>
     </tr>
     <tr>
-      <td>最後</td>
       <td>姓</td>
-      <td>姓</td>
+      <td>名前（姓）</td>
+      <td>lastname</td>
     </tr>
     <tr>
       <td>メール</td>
@@ -300,7 +300,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>役職</td>
       <td>役職</td>
-      <td>役職</td>
+      <td>jobtitle</td>
     </tr>
     <tr>
       <td>電話</td>
@@ -338,7 +338,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>リードステータス</td>
+      <td>人物のステータス</td>
       <td>ステータス</td>
       <td>statecode</td>
     </tr>
@@ -348,9 +348,9 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>連絡拒否</td>
+      <td>電話連絡拒否</td>
       <td>電話を許可しない</td>
-      <td>ドノホン</td>
+      <td>donotphone</td>
     </tr>
     <tr>
       <td>登録解除済み</td>
@@ -383,13 +383,13 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>最新の注目のアクションの日付</td>
-      <td>最新の注目のアクションの日付</td>
+      <td>最新の注目のアクション発生日</td>
+      <td>最新の注目のアクション発生日</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>最新の注目のアクションのタイプ</td>
-      <td>最新の注目のアクションのタイプ</td>
+      <td>最新の注目のアクション発生タイプ</td>
+      <td>最新の注目のアクション発生タイプ</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
@@ -410,7 +410,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>Microsoft ファックス送信除外</td>
       <td>Microsoft ファックス送信除外</td>
-      <td>ドノファクス</td>
+      <td>donotfax</td>
     </tr>
     <tr>
       <td>優先度</td>
@@ -428,24 +428,24 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>顧客の注記</td>
+      <td>人物の注記</td>
       <td>説明</td>
-      <td>説明 </td>
+      <td>description </td>
     </tr>
     <tr>
-      <td>リードスコア</td>
+      <td>人物のスコア</td>
       <td>リードのスコア</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>顧客の注記</td>
+      <td>人物の注記</td>
       <td>説明</td>
-      <td>説明 </td>
+      <td>description </td>
     </tr>
   </tbody>
 </table>
 
-以下の「連絡先」フィールドは、内部で使用するために同期されます。
+以下の取引先責任者フィールドは、内部で使用するために同期されます。
 
 <table>
   <colgroup>
@@ -544,12 +544,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>年間収益</td>
       <td>年間収益</td>
-      <td>売上高</td>
+      <td>revenue</td>
     </tr>
     <tr>
       <td>企業注記</td>
       <td>説明</td>
-      <td>説明</td>
+      <td>description</td>
     </tr>
     <tr>
       <td>業界</td>
@@ -569,7 +569,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>従業員数</td>
       <td>従業員数</td>
-      <td>従業員数</td>
+      <td>numberofemployees</td>
     </tr>
     <tr>
       <td>SIC コード</td>
@@ -584,12 +584,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>従業員数</td>
       <td>従業員数</td>
-      <td>従業員数</td>
+      <td>numberofemployees</td>
     </tr>
   </tbody>
 </table>
 
-以下の「アカウント」フィールドは、内部で使用するために同期されます。
+以下のアカウントフィールドは、内部で使用するために同期されます。
 
 <table>
   <colgroup>
@@ -628,8 +628,8 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     </tr>
     <tr>
       <td>クローズの可能性</td>
-      <td>確率</td>
-      <td>近接確率</td>
+      <td>可能性</td>
+      <td>closeprobability</td>
     </tr>
     <tr>
       <td>ステージ</td>
@@ -644,7 +644,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>名前</td>
       <td>トピック</td>
-      <td>名前</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>推定値</td>
@@ -654,12 +654,12 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>説明</td>
       <td>説明</td>
-      <td>説明</td>
+      <td>description</td>
     </tr>
   </tbody>
 </table>
 
-以下の「アカウント」フィールドは、内部で使用するために同期されます。
+以下のアカウントフィールドは、内部で使用するために同期されます。
 
 <table>
   <colgroup>
@@ -688,7 +688,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
 
 ## Marketo の Microsoft 関連システムフィールド（読み取り専用） {#microsoft-related-system-fields}
 
-以下のフィールドはMarketoで作成されますが、ユーザーが調整することはできません。
+以下のフィールドは Marketo で作成されますが、ユーザが調整することはできません。
 
 <table>
   <colgroup>
@@ -702,12 +702,11 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     </tr>
     <tr>
       <td>Microsoft タイプ</td>
-      <td>リードまたは連絡先。空の場合、リードは Marketo にのみ存在します</td>
+      <td>リードまたは取引先責任者。空の場合、リードは Marketo にのみ存在します</td>
     </tr>
     <tr>
       <td>Microsoft 作成日</td>
-      <td>MS Dynamics で作成された日付（Marketo で作成された日付とは異なる場合があります）
-</td>
+      <td>MS Dynamics で作成された日付（Marketo で作成された日付とは異なる場合があります）</td>
     </tr>
     <tr>
       <td>Microsoft 削除済み</td>
