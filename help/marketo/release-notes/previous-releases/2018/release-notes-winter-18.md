@@ -1,18 +1,18 @@
 ---
 unique-page-id: 13795395
-description: リリースノート - 2018 年冬 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2018 年冬
+description: リリースノート - 2018年冬 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '599'
 ht-degree: 100%
 
 ---
 
-# リリースノート：2018 年冬 {#release-notes-winter}
+# リリースノート：2018年冬 {#release-notes-winter}
 
-2018 年冬リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2018年冬リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。**注意**：このリリースに含まれる機能の一部には、関連記事がありません。トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -28,7 +28,7 @@ Salesforce CRM 統合に対して、次の 2 つの機能強化がおこなわ�
 
 * リード割り当て時にリード所有者への[メール通知をオフにする機能](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 
 
-これらの改善点は、2018 年以降に公開される予定です。
+これらの改善点は、2018年以降に公開される予定です。
 
 ## [Marketo パフォーマンスインサイト](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
@@ -66,17 +66,17 @@ Velocity のスクリプト記述が、動的コンテンツを使用するメ�
 
 **[LinkedIn Matched Audience API の強化](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-新しい LinkedIn API により、複数の LinkedIn Campaign Manager アカウントにわたって Marketo データベース内のユーザーを再ターゲット化できるようになりました。
+新しい LinkedIn API により、複数の LinkedIn Campaign Manager アカウントにわたって Marketo データベース内のユーザを再ターゲット化できるようになりました。
 
-## ウェブパーソナライズ {#web-personalization}
+## Web パーソナライズ {#web-personalization}
 
-**ウェブパーソナライズ用の日本語データソース**
+**Web パーソナライズ用の日本語データソース**
 
-Marketo では、web 訪問者の識別（逆引き IP 参照）や、日本からの訪問者のパーソナライゼーションを改善するために、ウェブパーソナライズ用の日本語データソースを追加しています。組織名は日本語で表示されます。
+Marketo では、web 訪問者の識別（逆引き IP 参照）や、日本からの訪問者のパーソナライゼーションを改善するために、web パーソナライズ用の日本語データソースを追加しています。組織名は日本語で表示されます。
 
-**[静的リストを使用したウェブセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[静的リストを使用した web セグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-ウェブパーソナライズで、マーケティングアクティビティ（MLM）で定義された静的リストに含まれる既知の web 訪問者に対して、コンテンツをパーソナライズできるようになりました。この機能強化により、様々なチャネルにわたって静的リストをマーケティングし、ウェブサイト上のパーソナライズされたコンテンツを使用して、これらのリスト上の人をターゲットにすることができるようになりました。
+Web パーソナライズで、マーケティングアクティビティ（MLM）で定義された静的リストに含まれる既知の web 訪問者に対して、コンテンツをパーソナライズできるようになりました。この機能強化により、様々なチャネルにわたって静的リストをマーケティングし、web サイト上のパーソナライズされたコンテンツを使用して、これらのリスト上の人をターゲティングできるようになりました。
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 ## 統合 {#integration}
 
-**[キャンペーン API の有効化/無効化](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[キャンペーン API の有効化／無効化](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 この新しい API を使用すると、トリガーキャンペーンをリモートでアクティブ化および非アクティブ化できるので、完全に自動化されたプログラムテンプレートを作成できます。プログラムテンプレートを 1 回作成すると、複製、マーケティング資料の更新を自動化し、スマートキャンペーンの有効化／スケジュール設定を自動化できます。
 
@@ -94,7 +94,7 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 **配信停止の更新**
 
-2018 年 3 月 1 日以降、[ToutApp.com](https://ToutApp.com) から送信されるすべてのメール（また、Salesforce の「Tout とメール」ボタンを使用すると）配信停止リンクが下部に追加されます。
+2018年3月1日以降、[ToutApp.com](https://ToutApp.com) から送信されるすべてのメール（また、Salesforce の「Tout とメール」ボタンを使用すると）配信停止リンクが下部に追加されます。
 
 **ライブフィードの更新**
 
@@ -102,4 +102,4 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 **担当者詳細ビューの更新**
 
-改善された担当者詳細表示（PDV）では、Tout と Salesforce CRM の連絡先詳細を統合し、連絡先の包括的な表示を提供します。
+改善された担当者詳細表示（PDV）では、Tout と Salesforce CRM の取引先責任者詳細を統合し、取引先責任者の包括的な表示を提供します。
