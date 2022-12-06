@@ -1,17 +1,17 @@
 ---
-description: ユーザーの追加または削除 - Marketo ドキュメント - 製品ドキュメント
-title: ユーザーの追加または削除
+description: ユーザの追加または削除 - Marketo ドキュメント - 製品ドキュメント
+title: ユーザの追加または削除
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# ユーザーの追加または削除 {#add-or-remove-a-user}
+# ユーザの追加または削除 {#add-or-remove-a-user}
 
-## ユーザーの追加 {#add-a-user}
+## ユーザの追加 {#add-a-user}
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
 
@@ -25,15 +25,15 @@ ht-degree: 72%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**ユーザ**」タブをクリックします。
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 「**ユーザーを追加**」ボタンをクリックします。
+1. 「**ユーザを追加**」ボタンをクリックします。
 
    ![](assets/add-or-remove-a-user-5.png)
 
-1. 追加するユーザーの名前、ユーザーグループ、メールアドレスを入力します。姓と名はオプションです。
+1. 追加するユーザの名前、ユーザグループ、メールアドレスを入力します。姓と名はオプションです。
 
    ![](assets/add-or-remove-a-user-6.png)
 
@@ -43,19 +43,19 @@ ht-degree: 72%
 
    >[!IMPORTANT]
    >
-   >ユーザー **必須** を製品プロファイルに追加して、Marketo Engageにアクセスできるようにします。
+   >Marketo Engage にアクセスするためには、ユーザを製品プロファイルに追加する&#x200B;**必要があります**。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/add-or-remove-a-user-8.png)
 
-その後、ユーザーに、Marketo Engageへのログイン用の電子メールが送信されます。
+Marketo Engage にログインするためのメールがユーザに送信されます。
 
 >[!NOTE]
 >
->Adobe Admin Console を使用して Marketo Engage に追加されたユーザーには、サブスクリプションのデフォルトワークスペース内で「標準ユーザー」の役割が付与されます。ワークスペース内でのユーザーの役割を調整する必要がある場合は、Marketo Engageでおこないます。 [ここで説明するように](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Adobe Admin Console を使用して Marketo Engage に追加されたユーザには、サブスクリプションのデフォルトワークスペース内で「標準ユーザ」のロールが付与されます。ワークスペース内でのユーザのロールを調整する必要がある場合は、[ここで説明しているように](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)、Marketo Engage で行います。
 
-## ユーザーの削除 {#remove-a-user}
+## ユーザの削除 {#remove-a-user}
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
 
@@ -69,22 +69,22 @@ ht-degree: 72%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**ユーザ**」タブをクリックします。
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 削除するユーザーを選択し、「**削除**」ボタンをクリックします。
+1. 削除するユーザを選択し、「**削除**」ボタンをクリックします。
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 「**ユーザーを削除**」をクリックして確定します。
+1. 「**ユーザを削除**」をクリックして確定します。
 
    ![](assets/add-or-remove-a-user-14.png)
 
-その後、ユーザーに、Marketo Engageへのアクセス権がなくなったことを知らせる電子メールが送信されます。
+そのユーザに、Marketo Engage にアクセスできなくなったことを知らせるメールが送信されます。
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console のユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html)
->* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html)
+>* [ユーザを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html)
 
