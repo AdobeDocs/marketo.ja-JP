@@ -3,7 +3,7 @@ description: カスタムオブジェクトメタデータのエクスポート 
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
