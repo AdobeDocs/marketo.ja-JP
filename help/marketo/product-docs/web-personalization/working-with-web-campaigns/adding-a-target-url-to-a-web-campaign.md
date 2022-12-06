@@ -4,9 +4,9 @@ description: Web キャンペーンへのターゲット URL の追加 - Marketo
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '261'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 ## ダイアログまたはウィジェット web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 「**Web キャンペーン**」に移動します
+1. 「**Web キャンペーン**」に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -49,20 +49,20 @@ ht-degree: 92%
 
 ## ターゲット URL への複数の URL の追加 {#adding-multiple-urls-to-target-url}
 
-プラスアイコン（![—](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、複数の値を入力ダイアログが開き、複数の URL を追加できます。1 行に 1 つの URL を追加します。
+プラスアイコン（![--](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、複数の値を入力ダイアログが開き、複数の URL を追加できます。1 行に 1 つの URL を追加します。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
->* ダイアログおよびウィジェットの Web キャンペーンは、任意のページとワイルドカード (&#42;) オプションを使用します。
+>* ダイアログおよびウィジェット web キャンペーンでは任意のページとワイルドカード（&#42;）オプションを使用できます。
 >* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL では大文字と小文字が区別されます
 
 
 ## ゾーン内 web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. **Web キャンペーン**&#x200B;に移動します。****
+1. 「**Web** **キャンペーン**」に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
