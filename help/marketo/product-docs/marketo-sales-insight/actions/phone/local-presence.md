@@ -1,25 +1,25 @@
 ---
-description: ローカルプレゼンス — Marketoドキュメント — 製品ドキュメント
+description: ローカルプレゼンス - Marketo ドキュメント - 製品ドキュメント
 title: ローカルプレゼンス
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # ローカルプレゼンス {#local-presence}
 
-ローカルプレゼンスを使用すると、受信者の同じ市外局番から呼び出しているように見せることができます。
+ローカルプレゼンスを使用すると、受信者と同じ市外局番からかけているように見せることができます。
 
-## ローカルの存在を選択 {#select-local-presence}
+## ローカルプレゼンスを選択 {#select-local-presence}
 
-1. 電話アイコンをクリックして、ダイヤラーを開きます。
+1. 電話アイコンをクリックして、セールスダイヤラーを開きます。
 
    ![](assets/local-presence-1.png)
 
-1. を選択します。 **ローカルプレゼンスを使用** チェックボックス。
+1. 「**ローカルプレゼンスを使用**」チェックボックスを選択します。
 
    ![](assets/local-presence-2.png)
 
