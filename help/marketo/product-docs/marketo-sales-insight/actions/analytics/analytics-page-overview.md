@@ -3,16 +3,17 @@ description: 分析ページの概要 - Marketo ドキュメント - 製品ド�
 title: 分析ページの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
-workflow-type: tm+mt
+exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+workflow-type: ht
 source-wordcount: '384'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # 分析ページの概要 {#analytics-page-overview}
 
-「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分」タブでユーザーによるフィルタリングも行うことができます。
+「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分」タブでユーザによるフィルタリングも行うことができます。
 
 ## 更新の頻度 {#how-often-does-it-update}
 
@@ -34,15 +35,15 @@ ht-degree: 84%
 
 ## 「自分」タブ {#me-tab}
 
-この [「自分」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) は、メール、テンプレート、リンクのエンゲージメントを確認するのに最適な場所です。 Sales Insight アクションの管理者は、チームの任意のユーザーでフィルタリングして統計を表示できます。
+「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。Sales Insight Actions の管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
 
 ## 「チーム」タブ {#team-tab}
 
-内 [「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)、チーム全体の統計とランク付けを表示できます。 また、作成した任意のサブチームでフィルタリングすることもできます。
+[「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)で、チーム全体の統計とランキングを表示できます。また、作成した任意のサブチームでフィルタリングすることもできます。
 
 ## 「コンテンツ」タブ {#content-tab}
 
-この [「コンテンツ」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) テンプレート、コンテンツおよびリンクに関する統計を含みます。 全員または管理者が作成したチームでフィルターできます。
+「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
 
 件名列の下に青いテキストが表示される場合は、テンプレートが共有されていることを意味します。青色のテキストをクリックして、そのテンプレートに移動できます。「**テンプレート分析**」をクリックすると、使用状況を表示できます。
 
