@@ -3,9 +3,9 @@ description: Salesforce とのリマインダータスク同期 - Marketo ドキ
 title: Salesforce とのリマインダータスク同期
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '564'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 88%
 >
 >タスク同期を有効にする方法について詳しくは、[Sales Connect タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)を参照してください。
 
-タスクの同期設定が有効になると、ユーザーは、Salesforce と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザーは Salesforce または Sales Connect からタスクを管理し、システムの整合性を維持していることを確信できます。
+タスクの同期設定が有効になると、ユーザは、Salesforce と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザは Salesforce または Sales Connect からタスクを管理し、システムの整合性を維持していることを確信できます。
 
 ## リマインダータスクフィールドの同期 {#reminder-task-field-sync}
 
@@ -80,4 +80,4 @@ Sales Connect と SFDC のタスクを同期すると、次の処理が行われ
 
 >[!NOTE]
 >
->タスクの件名フィールドをセールスコネクトで更新すると、対応する同期済みタスクの Salesforce 件名フィールドで更新が同期されます ( `{{activity_subject}}` 動的フィールドを [アクティビティの詳細のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 設定。 反対に、Salesforce の件名フィールドに対して行われた更新は、 _not_ [ セールスコネクトリマインダータスクの件名 ] フィールドに同期します。
+>[アクティビティの詳細のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)設定で `{{activity_subject}}` 動的フィールドを使用している場合、タスクの件名フィールドは Sales Connect で更新でき、その更新は、対応する Salesforce タスクの件名フィールドに同期されます。逆に、Salesforce の件名フィールドを更新しても、Sales Connect のリマインダータスクの件名フィールドには&#x200B;_同期されません_。
