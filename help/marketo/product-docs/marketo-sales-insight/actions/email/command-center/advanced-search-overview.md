@@ -3,7 +3,7 @@ description: 詳細検索の概要 - Marketo ドキュメント - 製品ドキ�
 title: 詳細検索の概要
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '418'
 ht-degree: 100%
 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <td><strong>説明</strong></td>
  </tr>
  <tr>
-  <td><strong>次のユーザーとして表示</strong></td>
+  <td><strong>次のユーザとして表示</strong></td>
   <td>Sales Connect インスタンスの特定の送信者でフィルターします（このオプションは、管理者のみが利用できます）。</td>
  </tr>
  <tr>
@@ -126,7 +126,7 @@ _**ステータス：未配信**_
  </tr>
  <tr>
   <td><strong>失敗</strong></td>
-  <td>Sales Connect からのメール送信に失敗した場合（一般的な理由は次のとおりです。配信停止／ブロック済み連絡先に送信されたメール、または動的フィールドへの入力で問題が発生した場合）。</td>
+  <td>Sales Connect からのメール送信に失敗した場合（一般的な理由は次のとおりです。配信停止／ブロック済み取引先責任者に送信されたメール、または動的フィールドへの入力で問題が発生した場合）。</td>
  </tr>
  <tr>
   <td><strong>バウンス</strong></td>
