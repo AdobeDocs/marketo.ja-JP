@@ -3,7 +3,7 @@ description: テンプレートの管理 - Marketo ドキュメント - 製品�
 title: テンプレートの管理
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '523'
 ht-degree: 100%
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >共有されているテンプレートは、テンプレートページの左側にある&#x200B;**チームテンプレート**&#x200B;ヘッダーの下に表示されます。チームは、Premium ユーザーのみが使用できます。
+   >共有されているテンプレートは、テンプレートページの左側にある&#x200B;**チームテンプレート**&#x200B;ヘッダーの下に表示されます。チームは、Premium ユーザのみが使用できます。
 
 1. 「共有するチーム」ドロップダウンをクリックし、共有するチームを選択します。
 
