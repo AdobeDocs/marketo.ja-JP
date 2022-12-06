@@ -4,9 +4,9 @@ description: Adobe Experience Manager でのアセットの読み込み - Market
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていないので、SameSite cookie の設定によっては、最新バージョンの Chrome では動作しない可能性があります。
+>現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていません。また、SameSite の Cookie 設定によっては、最新バージョンの Chrome では動作しない可能性があります。
 
 1. **Design Studio** をクリックします。
 
