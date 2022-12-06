@@ -3,29 +3,29 @@ description: 推奨テンプレート - Marketo ドキュメント - 製品ド�
 title: 推奨テンプレート
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # 推奨テンプレート {#recommended-templates}
 
-Sales Insight のアクションの推奨テンプレートは、時間を節約しながら適切なメッセージを得るのに役立ちます。 これにより、メールを送信する際のフローが良くなり、適切な人物に適切なメールを見つけようとする際の不確実性が軽減されます。
+Sales Insight Actions の推奨テンプレートは、時間を節約しながら適切なメッセージを伝えるのに役立ちます。これにより、メールを送信する際のフローが良くなり、適切な人物に適切なメールを見つけようとする際の不確実性が軽減されます。
 
 1. 「テンプレート」タブに移動します。
 
    ![](assets/recommended-templates-1.png)
 
-1. レコメンデーションしたいテンプレートを選択します。
+1. 推奨するテンプレートを選択します。
 
    ![](assets/recommended-templates-2.png)
 
-1. 推奨テンプレートカードで、 **編集**.
+1. 推奨テンプレートカードで、「**編集**」をクリックします。
 
    ![](assets/recommended-templates-3.png)
 
-1. を選択します。 **推奨テンプレートを作成** チェックボックスをオンにして「 」をクリックします。 **保存**.
+1. 「**推奨テンプレートを作成**」チェックボックスを選択して、「**保存**」をクリックします。
 
    ![](assets/recommended-templates-4.png)
 
@@ -45,13 +45,13 @@ Sales Insight のアクションの推奨テンプレートは、時間を節約
 
 ここで、条件を選択します。ダイナミックフィールドに設定した条件が満たされると、テンプレートが推奨されます。4 つの異なる条件から選択します。
 
-**次と等しい**:値は完全に一致する必要があります ( 例： MarketoとMarketoが等しい )
+**等しい**：値は完全に一致する必要がある（例：Marketo は Marketo に等しい）
 
-**次と等しくない**:値は、完全一致以外の値にする必要があります（例： Marketing Nation が Marketing と等しくない）
+**等しくない**：値は完全一致以外である必要がある（例：Marketing Nation は、マーケティングと等しくない）
 
-**次を含む**:値 ( 例： Marketo Rocks! には Marketo が含まれている）
+**指定の語を含む**：値が含まれていればよい（例：Marketo Rocks! には Marketo が含まれている）
 
-**次を含まない**:値を動的フィールド内に含めることはできません ( 例： Marketo Rocks! には Awesome は含まれていない）
+**指定の語を含まない**：値がダイナミックフィールドに含まれていない必要がある（例：Marketo Rocks! には Awesome は含まれていない）
 
 ## 推奨テンプレートの見え方 {#what-a-recommended-template-looks-like}
 
