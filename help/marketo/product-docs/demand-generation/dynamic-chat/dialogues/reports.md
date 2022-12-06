@@ -1,10 +1,11 @@
 ---
-description: レポート — Marketoドキュメント — 製品ドキュメント
+description: レポート - Marketo ドキュメント - 製品ドキュメント
 title: レポート
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
-workflow-type: tm+mt
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +28,7 @@ ht-degree: 85%
   <td>訪問者がダイアログのブランチの終わりに達するたびに増分されます。</td>
  </tr>
  <tr>
-  <td><strong>キャプチャ済みユーザー</strong></td>
+  <td><strong>キャプチャした人物</strong></td>
   <td>訪問者がダイアログフローで有効な電子メールアドレスを指定するたびに増分されます。</td>
  </tr>
  <tr>
