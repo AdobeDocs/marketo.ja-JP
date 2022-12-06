@@ -3,7 +3,7 @@ description: メール列とメールページのレイアウト - Marketo ド�
 title: メール列とメールページのレイアウト
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '513'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td><strong>顧客</td> 
+   <td><strong>人物</td> 
    <td>Sales Connect の人物の名前とメール。このフィールドをクリックすると、人物の詳細表示の「情報」タブが開きます。</td> 
   </tr> 
   <tr> 
@@ -54,7 +54,7 @@ ht-degree: 100%
    <td>メール受信者が属するグループを表示します。</td> 
   </tr> 
   <tr> 
-   <td><strong>職位</td> 
+   <td><strong>役職</td> 
    <td>メール受信者の職位。</td> 
   </tr> 
   <tr> 
