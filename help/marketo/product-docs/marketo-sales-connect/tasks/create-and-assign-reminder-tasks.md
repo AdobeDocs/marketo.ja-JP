@@ -1,9 +1,9 @@
 ---
-description: リマインダータスクの作成と割り当て — Marketo ドキュメント — 製品ドキュメント
+description: リマインダータスクの作成と割り当て - Marketo ドキュメント - 製品ドキュメント
 title: リマインダータスクの作成と割り当て
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -29,11 +29,11 @@ ht-degree: 100%
 
    ![](assets/create-and-assign-reminder-tasks-4.png)
 
-1. タスクの割り当て先を自分自身のままにするか、タスクの割り当て先となる別のユーザーを選択するかを選択します。
+1. タスクの割り当て先を自分自身のままにするか、タスクの割り当て先となる別のユーザを選択するかを選択します。
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. このリマインダータスクを使用して、フォローアップしているユーザーを追加します。
+1. このリマインダータスクを使用して、フォローアップしているユーザを追加します。
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 
@@ -45,6 +45,6 @@ ht-degree: 100%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 通話メモ、InMail メッセージテンプレート、ユーザーに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。完了したら「**作成**」をクリックします。
+1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。完了したら「**作成**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)
