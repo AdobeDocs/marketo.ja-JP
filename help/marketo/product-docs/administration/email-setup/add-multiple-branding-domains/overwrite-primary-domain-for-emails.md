@@ -4,9 +4,9 @@ description: メールのプライマリドメインを上書きする - Marketo
 title: メールのプライマリドメインを上書きする
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
