@@ -1,19 +1,19 @@
 ---
-description: Sales Insight アクションアカウントを Salesforce に接続する — Marketoドキュメント — 製品ドキュメント
-title: Sales Insight アクションアカウントを Salesforce に接続
+description: Sales Insight Actions アカウントを Salesforce に接続 - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight Actions アカウントを Salesforce に接続
 hide: true
 hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
-# Sales Insight アクションアカウントを Salesforce に接続 {#connect-your-sales-insight-actions-account-to-salesforce}
+# Sales Insight Actions アカウントを Salesforce に接続 {#connect-your-sales-insight-actions-account-to-salesforce}
 
-以下の簡単な手順に従って、Sales Insight アクションアカウントを Salesforce に接続します。
+次の簡単な手順に従って、Sales Insight Actions アカウントを Salesforce に接続します。
 
 ## 管理者として接続する方法 {#how-to-connect-as-an-admin}
 
@@ -25,7 +25,7 @@ ht-degree: 57%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. 「接続とカスタマイズ」タブで、 **Salesforce** その後 **接続**.
+1. 「接続とカスタマイズ」タブで、「**Salesforce**」をクリックし、「**接続**」をクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 57%
 
 1. 既に Salesforce にログインしている場合は、接続されます。そうでない場合は、ログインするように求められます。
 
-## 管理者以外のユーザーとして接続する方法 {#how-to-connect-as-a-non-admin}
+## 管理者以外のユーザとして接続する方法 {#how-to-connect-as-a-non-admin}
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -43,7 +43,7 @@ ht-degree: 57%
 
 1. マイアカウントで、「**Salesforce**」を選択します。
 
-1. 「接続とカスタマイズ」タブで、 **Salesforce** その後 **接続**.
+1. 「接続とカスタマイズ」タブで、「**Salesforce**」をクリックし、「**接続**」をクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
