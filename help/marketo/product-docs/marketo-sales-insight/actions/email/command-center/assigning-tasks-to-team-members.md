@@ -3,7 +3,7 @@ description: チームメンバーへのタスクの割り当て - Marketo ド�
 title: チームメンバーへのタスクの割り当て
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->タスクの割り当ては、共有連絡先に対してのみ可能です。
+>タスクの割り当ては、共有取引先責任者に対してのみ可能です。
 
 1. Web アプリケーションで、「**コマンドセンター**」をクリックします。
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
    ![](assets/assigning-tasks-to-team-members-5.png)
 
-1. 「人物」フィールドに、連絡先となる人物を追加します。
+1. 「人物」フィールドに、取引先責任者となる人物を追加します。
 
    ![](assets/assigning-tasks-to-team-members-6.png)
 
