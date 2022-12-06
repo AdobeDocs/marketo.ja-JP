@@ -1,24 +1,24 @@
 ---
 unique-page-id: 17728380
-description: リリースノート - 2019 年春 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2019 年春
+description: リリースノート - 2019年春 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
 ht-degree: 100%
 
 ---
 
-# リリースノート：2019 年春 {#release-notes-spring}
+# リリースノート：2019年春 {#release-notes-spring}
 
-19 年春リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2019年春リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください（ある場合）。
 
 ***四半期リリース_**
 
-2019 年 3 月 15 日に、次の機能がリリースされました。
+2019年3月15日に、次の機能がリリースされました。
 
 ## 主要プラットフォームの機能拡張 {#core-platform-enhancements}
 
@@ -36,18 +36,18 @@ ht-degree: 100%
 
 **_四半期以外のリリース_**
 
-2019 年の第 1 四半期と第 2 四半期の初めにかけて、次の機能がリリースされる予定です。
+2019年の第 1 四半期と第 2 四半期の初めにかけて、次の機能がリリースされる予定です。
 
 ## Marketo Sky {#marketo-sky}
 
-* **完全なメールプログラム機能**：メールの送信、A/B テストの作成、結果の追跡を、ユーザーにとってわかりやすいエクスペリエンスでおこないます。
-* **スマートキャンペーン機能**：スマートキャンペーン機能が Sky で展開を続けるので、新しいユーザーインターフェイスで安定性が向上します。
+* **完全なメールプログラム機能**：メールの送信、A/B テストの作成、結果の追跡を、ユーザにとってわかりやすいエクスペリエンスで行います。
+* **スマートキャンペーン機能**：スマートキャンペーン機能が Sky で展開を続けるので、新しいユーザインターフェイスで安定性が向上します。
 * **デザインスタジオアセットを管理**：テンプレート、画像、Forms、スニペット、ファイル、メール、ランディングページをデザインスタジオのリストビューから一括で管理する機能が追加されました。
 * **受信者タイムゾーンダッシュボードで配信**：Sky の受信者タイムゾーン配信機能を使用して送信されたメールに関するレポートで、顧客の行動を把握します。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **監査の強化**：他のユーザーによって作成された[既存のキャンペーンを終了](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)する機能が追加された、インスタンス内のすべてのユーザー、メール、および[コンテンツ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)に対する新しい可視性。
+* **監査の強化**：他のユーザによって作成された[既存のキャンペーンを終了](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)する機能が追加された、インスタンス内のすべてのユーザ、メール、および[コンテンツ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)に対する新しい可視性。
 * **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。また、Marketo は、メールを送信する前に、登録解除用のリードデータベースを相互参照します。
 
 ## Bizible by Marketo {#bizible-by-marketo}
