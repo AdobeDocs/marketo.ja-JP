@@ -1,23 +1,23 @@
 ---
-description: HTML の使用 — Marketo ドキュメント — 製品ドキュメント
+description: HTML の使用 - Marketo ドキュメント - 製品ドキュメント
 title: HTML の使用
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
 # HTML の使用 {#using-html}
 
-1. HTMLで E メールを作成するために使用するツールで、E メールからソースコードをコピーします ( 例：Marketoの E メールエディター )。
+1. HTML でメールを作成するために使用するツール（例：Marketo のメールエディター）で、メールからソースコードをコピーします。
 
-1. テンプレートを追加するHTMLを選択します。
+1. テンプレートを追加する HTML を選択します。
 
    ![](assets/using-html-1.png)
 
-1. テンプレートエディターカードで、 **編集**.
+1. テンプレートエディターカードで、「**編集**」をクリックします。
 
    ![](assets/using-html-2.png)
 
@@ -25,7 +25,7 @@ ht-degree: 55%
 
    ![](assets/using-html-3.png)
 
-1. ソースコードを貼り付けて、 **保存**.
+1. ソースコードを貼り付けて、「**保存**」をクリックします。
 
    ![](assets/using-html-4.png)
 
