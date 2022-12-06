@@ -3,15 +3,15 @@ description: 最新のクライアントバージョンは何ですか？- Marke
 title: 最新のクライアントバージョンは何ですか？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # 最新のクライアントバージョンは何ですか？ {#what-are-the-latest-client-versions}
 
-以下は、すべての Sales Insight Actions クライアントの最新バージョンです。
+すべての Sales Insight Actions クライアントの最新バージョンは以下のとおりです。
 
 <table> 
  <tbody> 
