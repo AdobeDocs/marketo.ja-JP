@@ -1,18 +1,19 @@
 ---
-description: 返信ログ — Marketoドキュメント — 製品ドキュメント
-title: 応答ログ
+description: 返信ログ - Marketo ドキュメント — 製品ドキュメント
+title: 返信ログ
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
-workflow-type: tm+mt
+exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+workflow-type: ht
 source-wordcount: '275'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# 応答ログ {#reply-logging}
+# 返信ログ {#reply-logging}
 
-Sales Insight Actions は、見込み客の返信を Salesforce に自動的に記録する機能を備えています。 これをおこなうための構造は、アドビのメール返信トラッキングに基づいています。見込み客の返信を追跡できる場合は、その返信を Salesforce に記録できます。
+Sales Insight Actions は、見込み客の Salesforce への返信を自動的に記録する機能を備えています。これをおこなうための構造は、アドビのメール返信トラッキングに基づいています。見込み客の返信を追跡できる場合は、その返信を Salesforce に記録できます。
 
 ## 要件 {#requirements}
 
@@ -27,7 +28,7 @@ Sales Insight Actions は、見込み客の返信を Salesforce に自動的に�
 
    >[!NOTE]
    >
-   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。これには、メールのログ記録方法が含まれます。リードと連絡先重複する記録がある時一致するレコードが見つからない場合。
+   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。ログには、メールのログ記録方法、リードと取引先責任者、重複する記録がある場合、一致するレコードが見つからない場合が含まれます。
 
 ## Salesforce でタイプを返信に設定 {#setting-type-to-reply-in-salesforce}
 
@@ -40,4 +41,4 @@ Salesforce レポートから意味のあるデータを取得することが重
 
    >[!NOTE]
    >
-   >「タイプ」選択リストで「デフォルト」を選択する必要はありません。Sales Insight のアクションでは、このアクティビティタイプが Salesforce インスタンスで使用可能であることが確認され、それに応じて、受信アクティビティのタスクフィールドに入力されます。
+   >「タイプ」選択リストで「デフォルト」を選択する必要はありません。Sales Insight Actions では、このアクティビティタイプが Salesforce インスタンスで使用可能であることが確認され、それに応じて、受信するアクティビティのタスクフィールドに値を入力します。
