@@ -4,9 +4,9 @@ description: IT による Marketo Outlook プラグインのインストール -
 title: IT による Marketo Outlook プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 94%
 >
 >エンタープライズキーを[設定](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)します。
 
-次のコマンドを、「System」または管理ユーザーアカウントとして実行し、/i スイッチを指定してインストールします。
+次のコマンドを、「System」または管理ユーザアカウントとして実行し、/i スイッチを指定してインストールします。
 
 `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -52,7 +52,7 @@ ht-degree: 94%
 >
 >ログファイルの保存場所が存在する必要があります。存在しない場合、インストールは中止されます。
 
-異なるログレベルやユーザーインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)を参照してください。
+異なるログレベルやユーザインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/ja-jp/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)を参照してください。
 
 >[!MORELIKETHIS]
 >
