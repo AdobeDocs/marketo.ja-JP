@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトについて - Marketo ドキ
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '679'
 ht-degree: 100%
 
