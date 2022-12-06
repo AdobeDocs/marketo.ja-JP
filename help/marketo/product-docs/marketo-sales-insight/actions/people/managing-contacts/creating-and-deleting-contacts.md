@@ -1,40 +1,40 @@
 ---
-description: 連絡先の作成と削除 — Marketoドキュメント — 製品ドキュメント
-title: 連絡先の作成と削除
+description: 取引先責任者の作成と削除 - Marketo ドキュメント - 製品ドキュメント
+title: 取引先責任者の作成と削除
 exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# 連絡先の作成と削除 {#creating-and-deleting-contacts}
+# 取引先責任者の作成と削除 {#creating-and-deleting-contacts}
 
-## 連絡先の作成 {#creating-contacts}
+## 取引先責任者の作成 {#creating-contacts}
 
-1. ユーザーページで、 **アクション** ボタンと選択 **連絡先の作成**.
+1. 人物ページで、「**アクション**」ボタンをクリックし、「**取引先責任者を作成**」を選択します。
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. 姓名とメールアドレス、および他に必要な情報を入力します。 クリック **作成** 完了した場合、または **新規作成と追加** 連絡先をさらに追加するには：
+1. 姓名とメールアドレスおよび他に必要な情報を入力します。完了したら、「**作成**」をクリックするか、さらに取引先責任者を追加する場合は、「**作成して新たに追加**」をクリックします。
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
    >[!TIP]
    >
-   >複数の連絡先を一度に追加しますか？ [ここをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) を参照してください。
+   >複数の取引先責任者を一度に追加する場合は、[こちらをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)して、CSV 経由で取引先責任者をインポートする方法を参照してください。
 
-## 連絡先の削除 {#deleting-contacts}
+## 取引先責任者の削除 {#deleting-contacts}
 
-1. 人物ページで、削除する連絡先のボックスをオンにします。 ドット（縦並びの 3 ドット）をクリックし、「 」を選択します。 **削除**.
+1. 人物ページで、削除する取引先責任者のボックスをオンにします。縦並びの 3 つのドットをクリックし、「**削除**」を選択します。
 
    ![](assets/creating-and-deleting-contacts-3.png)
 
    >[!NOTE]
    >
-   >複数の連絡先を削除するには、複数の担当者を選択するだけです。 残りの手順は同じです。
+   >複数の取引先責任者を削除するには、複数の人物を選択するだけです。残りの手順は同じです。
 
-1. クリック **連絡先の削除** をクリックして確定します。
+1. 「**取引先責任者を削除**」をクリックして確定します。
 
    ![](assets/creating-and-deleting-contacts-4.png)
