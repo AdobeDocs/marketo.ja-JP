@@ -1,19 +1,19 @@
 ---
-description: カスタムオブジェクト同期 — Marketoドキュメント — 製品ドキュメント
+description: カスタムオブジェクト同期 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクト同期
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
 # カスタムオブジェクト同期 {#custom-object-sync}
 
-Veeva CRM インスタンスで作成されたカスタムオブジェクトもMarketo Engageの一部です。 設定方法を次に示します。
+Veeva CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトもM
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、Veeva CRM の連絡先またはアカウントオブジェクトに関連付ける必要があります。
+>カスタムオブジェクトを使用するには、Veeva CRM で取引先責任者またはアカウントオブジェクトに関連付けられている必要があります。
 
 ## カスタムオブジェクトの有効化 {#enable-custom-object}
 
-1. Marketoで、 **管理者**&#x200B;を、 **Veeva オブジェクト同期**.
+1. Marketo で、「**管理者**」をクリックして、「**Veeva オブジェクト同期**」をクリックします。
 
    ![](assets/custom-object-sync-1.png)
 
@@ -39,7 +39,7 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトもM
 
    >[!NOTE]
    >
-   >Veeva カスタムオブジェクトスキーマの初期同期には、数分かかる場合があります。
+   >Veeva カスタムオブジェクトスキーマの初回同期には、数分かかる場合があります。
 
 1. 同期するカスタムオブジェクトをキャンバスにドラッグします。
 
@@ -57,7 +57,7 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトもM
 
    ![](assets/custom-object-sync-6.png)
 
-1. に戻ります。 **Veeva** タブをクリックします。
+1. 「**Veeva**」タブに戻ります。
 
    ![](assets/custom-object-sync-7.png)
 
@@ -65,18 +65,18 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトもM
 
    ![](assets/custom-object-sync-8.png)
 
-1. すべての Veeva カスタムオブジェクトを表示するには、[ 管理者と Veeva オブジェクトの同期 ] をクリックします。
+1. すべての Veeva カスタムオブジェクトを表示するには、「管理者」をクリックし、「Veeva オブジェクト同期」をクリックします。
 
    ![](assets/custom-object-sync-9.png)
 
    >[!NOTE]
    >
-   >Marketoでは、1 ～ 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされます。
+   >Marketo では、1 レベルから 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
 
-これで完了です。スマートキャンペーンとスマートリストで、このカスタムオブジェクトのデータを使用できるようになりました。
+これで完了です。カスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
 
 >[!MORELIKETHIS]
 >
 >* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
->* [スマートリスト/トリガー制約としてのカスタムオブジェクトフィールドの追加/削除](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target=&quot;_blank&quot;}
+>* [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target=&quot;_blank&quot;}
 
