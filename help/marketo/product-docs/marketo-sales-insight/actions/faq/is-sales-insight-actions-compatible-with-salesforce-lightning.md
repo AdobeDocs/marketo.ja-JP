@@ -1,21 +1,22 @@
 ---
-description: Sales Insight のアクションは Salesforce Lightning と互換性がありますか？ - Marketo ドキュメント — 製品ドキュメント
-title: Sales Insight のアクションは Salesforce Lightning と互換性がありますか？
+description: Sales Insight Actions と Salesforce Lightning の互換性- Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight Actions と Salesforce Lightning の互換性
 hide: true
 hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
-workflow-type: tm+mt
+exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
+source-git-commit: cccf42eeeda9e06f7c9f8b900a30c4efb2d33f6e
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
-# Sales Insight のアクションは Salesforce Lightning と互換性がありますか？ {#is-sales-insight-actions-compatible-with-salesforce-lightning}
+# Sales Insight Actions と Salesforce Lightning の互換性 {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 
-はい、Sales Insight アクションは、Salesforce Lightning と互換性があります。
+Sales Insight Actions と Salesforce Lightning には互換性があります。
 
 インストール／成功ガイドについては、[こちらをクリック](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)してください。
 
 >[!NOTE]
 >
->Sales Insight のバルクアクションのボタンは、リードと連絡先のリストビューで使用できます。
+>Sales Insight Actions の一括アクション用ボタンは、リードと連絡先のリスト表示で使用できます。
