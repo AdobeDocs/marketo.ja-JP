@@ -1,15 +1,15 @@
 ---
-description: カスタムドメイントラッキングを設定する方法 - Marketo ドキュメント - 製品ドキュメント
-title: カスタムドメイントラッキングを設定する方法
+description: カスタムドメイントラッキングの設定方法 - Marketo ドキュメント - 製品ドキュメント
+title: カスタムドメイントラッキングの設定方法
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
-# カスタムドメイントラッキングを設定する方法 {#how-to-set-up-custom-domain-tracking}
+# カスタムドメイントラッキングの設定方法 {#how-to-set-up-custom-domain-tracking}
 
 カスタムドメイントラッキングを使用すると、チームはセールスメールに追加されたトラック可能なすべてのリンクに、自社の名前を使用できます。この設定が完了すると、メールに含まれているリンクが許可リストに加えられ、「go.yourcompany.com」と表示されるようになります。そのため、リンクにマウスポインターを置いたときに、go.toutapp.com ではなく go.yourcompany.com と表示されます。
 
