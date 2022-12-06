@@ -4,9 +4,9 @@ description: レポートとアラートのリンク有効期限の編集 - Mark
 title: レポートとアラートのリンク有効期限の編集
 exl-id: 9be08798-c413-451b-9b67-893042668061
 source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -32,4 +32,4 @@ ht-degree: 76%
 
 >[!IMPORTANT]
 >
->この設定は、レポートおよびアラート内のリンクにのみ適用されます。 該当 **not** 電子メールに適用する [ダウンロードレポート](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) リンクまたはマーケティング e メール。
+>この設定は、レポートおよびアラート内のリンクにのみ適用されます。メールによる[ダウンロードレポート](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message)リンクまたはマーケティングメールには&#x200B;**適用されません**。
