@@ -3,7 +3,7 @@ description: 通話理由 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -59,7 +59,7 @@ ht-degree: 100%
 
 ## 通話理由の選択 {#select-a-call-reason}
 
-通話理由が有効になったら、ユーザーは、通話する際に 1 つ選択できます。
+通話理由が有効になったら、ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 
