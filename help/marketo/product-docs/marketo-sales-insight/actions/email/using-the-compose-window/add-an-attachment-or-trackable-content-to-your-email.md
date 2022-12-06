@@ -3,7 +3,7 @@ description: メールへの添付ファイルまたはトラック可能コン�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
 ht-degree: 100%
 
@@ -91,7 +91,7 @@ Marketo Sales からメールを送信する際には、ファイルを添付フ
 
 ![](assets/add-an-attachment-or-trackable-content-13.png)
 
-* 送信者の連絡先情報の表示
+* 送信者の取引先責任者情報の表示
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
