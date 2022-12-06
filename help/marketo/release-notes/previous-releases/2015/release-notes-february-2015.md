@@ -1,18 +1,18 @@
 ---
 unique-page-id: 6094890
-description: リリースノート - 2015 年 2 月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2015 年 2 月
+description: リリースノート - 2015年2月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
 ht-degree: 100%
 
 ---
 
-# リリースノート：2015 年 2 月 {#release-notes-february}
+# リリースノート：2015年2月 {#release-notes-february}
 
-2015 年 2 月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。お待たせしました。
+2015年2月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。お待たせしました。
 
 ## マーケティング自動化の強化 {#marketing-automation-enhancements}
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 朗報です! ドラッグアンドドロップまたはツリー内の移動機能を使ってプログラムからスマートキャンペーンが移動できるようになりました。
 
-**[Dynamics 2015（オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** — サポートされています。
+**[Dynamics 2015（オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - サポートされています。
 
 **HTTPS 証明書の変更**
 
