@@ -1,15 +1,16 @@
 ---
-description: メールステップのセールスキャンペーン送信オプション — Marketoドキュメント — 製品ドキュメント
-title: メールステップ用セールスキャンペーン送信オプション
+description: メールステップのセールスキャンペーン送信オプション - Marketo ドキュメント - 製品ドキュメント
+title: メールステップのセールスキャンペーン送信オプション
 hide: true
 hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: tm+mt
+exl-id: c8a21eff-3cab-4555-88d7-94bc4fce9365
+source-git-commit: 9193b1c0c051a16efb6a34f870a694bab309f72b
+workflow-type: ht
 source-wordcount: '26'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# メールステップ用セールスキャンペーン送信オプション {#sales-campaign-send-options-for-email-steps}
+# メールステップのセールスキャンペーン送信オプション {#sales-campaign-send-options-for-email-steps}
 
 テキスト
