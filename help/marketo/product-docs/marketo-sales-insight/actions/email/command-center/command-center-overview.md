@@ -3,7 +3,7 @@ description: コマンドセンターの概要 - Marketo ドキュメント - �
 title: コマンドセンターの概要
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ ht-degree: 100%
  </tr>
  <tr>
   <td>アーカイブ済み</td>
-  <td>メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td>
+  <td>メールトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
  </tr>
  <tr>
   <th rowspan="3">保留中</th>
@@ -59,12 +59,12 @@ ht-degree: 100%
  <tr>
   <td>バウンス</td>
   <td>受信者のメールサーバーから拒否されたメール。<br/>
-<strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
+<strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>
  <tr>
   <td>スパム</td>
   <td>受信者によって手動でスパムとマークされたメール。<br/>
-<strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
+<strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>
 </table>
 
