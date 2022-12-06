@@ -2,7 +2,7 @@
 description: メールのスケジュール設定 - Marketo ドキュメント - 製品ドキュメント
 title: メールのスケジュール設定
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
