@@ -1,22 +1,23 @@
 ---
-description: Salesforce を Sales Insight のアクションから切断 — Marketoドキュメント — 製品ドキュメント
-title: Salesforce を Sales Insight アクションから切断
+description: Salesforce を Sales Insight Actions から切断 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce を Sales Insight Actions から切断
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
-workflow-type: tm+mt
+exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
-# Salesforce を Sales Insight アクションから切断 {#disconnect-salesforce-from-sales-insight-actions}
+# Salesforce を Sales Insight Actions から切断 {#disconnect-salesforce-from-sales-insight-actions}
 
-Sales Insight Actions アカウントから Salesforce アカウントを切断する必要が生じる場合があります。 手順は以下のとおりです。
+Salesforce アカウントを Sales Insight Actions アカウントから切断する必要が生じる場合があります。手順は以下のとおりです。
 
 ## Salesforce から管理者として切断する方法 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Sales Insight のアクションで、右上の歯車アイコンをクリックし、「 **設定**.
+1. Sales Insight Actions で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
@@ -28,9 +29,9 @@ Sales Insight Actions アカウントから Salesforce アカウントを切断�
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## 管理者以外のユーザーとして Salesforce との接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## 管理者以外のユーザとして Salesforce との接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Sales Insight のアクションで、右上の歯車アイコンをクリックし、「 **設定**.
+1. Sales Insight Actions で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
