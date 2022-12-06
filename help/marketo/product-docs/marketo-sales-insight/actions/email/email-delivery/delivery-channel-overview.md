@@ -3,7 +3,7 @@ description: 配信チャネルの概要 - Marketo ドキュメント - 製品�
 title: 配信チャネルの概要
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '668'
 ht-degree: 100%
 
@@ -15,21 +15,21 @@ Marketo Sales には、メールを配信するための複数のオプション
 
 ## 推奨：メール接続を介した Gmail または Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo Sales を使用すると、メール接続サービスを通じて、合理的な設定および強化された到達率を実現できます。メール接続では、各ユーザーの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを Sales に接続し、すべての Sales メールの配信チャネルとして利用できます。
+Marketo Sales を使用すると、メール接続サービスを通じて、合理的な設定および強化された到達率を実現できます。メール接続では、各ユーザの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを Sales に接続し、すべての Sales メールの配信チャネルとして利用できます。
 
 Gmail または Exchange の利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。0
 
 * これは、定評のある配信チャネルなので、到達率を高く保つことができます。
 * SPF や DKIM などの認証方法は、既に IT チームによって設定および管理されているので、追加の設定が必要ありません。
-* 特定のメールネットワーク内でメールを送信すると（例：Exchange でメールを受信している企業に Exchange ユーザーとしてメールを送信する）、到達率をさらに高めることができます。
+* 特定のメールネットワーク内でメールを送信すると（例：Exchange でメールを受信している企業に Exchange ユーザとしてメールを送信する）、到達率をさらに高めることができます。
 
-これらの配信チャネルには、Microsoft や Google によって強制される独自の送信制限があることに注意する必要があります。この問題に対処するために、調整メカニズムを利用して、ユーザーが制限内に収まるようにしています。メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
+これらの配信チャネルには、Microsoft や Google によって強制される独自の送信制限があることに注意する必要があります。この問題に対処するために、調整メカニズムを利用して、ユーザが制限内に収まるようにしています。メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
 >デフォルトでは、O365 プラグインは常に Exchange 配信チャネルを使用し、Gmail プラグインは常に Gmail 配信チャネルを利用して、プラグインからのメールを配信します。
 
-**バウンストラッキング**：Marketo Sales は、送信者の受信トレイに送信されるバウンスメッセージを検出することで、Exchange Online または Gmail ユーザーのバウンスを検出できます。これらのバウンス通知は、テンプレート分析、キャンペーン分析およびユーザーへのライブフィード通知にまとめて表示されます。Exchange オンプレミスのお客様の場合、バウンストラッキングはサポートされていません。
+**バウンストラッキング**：Marketo Sales は、送信者の受信トレイに送信されるバウンスメッセージを検出することで、Exchange Online または Gmail ユーザのバウンスを検出できます。これらのバウンス通知は、テンプレート分析、キャンペーン分析およびユーザへのライブフィード通知にまとめて表示されます。Exchange オンプレミスのお客様の場合、バウンストラッキングはサポートされていません。
 
 ## SMTP によるカスタム配信チャネル {#custom-delivery-channel-via-smtp}
 
@@ -57,8 +57,8 @@ Marketo のメールサーバーは、Marketo Sales と統合されていませ�
 
 >[!MORELIKETHIS]
 >
->* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [カスタム配信チャネルの設定](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [メール接続の調整](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [メール接続のスロットリング](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
