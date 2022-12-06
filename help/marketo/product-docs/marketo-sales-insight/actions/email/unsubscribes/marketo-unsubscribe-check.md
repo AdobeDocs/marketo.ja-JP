@@ -3,7 +3,7 @@ description: Marketo 配信停止チェック - Marketo ドキュメント - 製
 title: Marketo 配信停止チェック
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 # Marketo 配信停止チェック {#marketo-unsubscribe-check}
 
-Marketo 配信停止チェックは、チームの Marketo への接続を使用して、Marketo のリード管理システムで配信停止になっているユーザーにメールが送信されるのを防ぎます。セールスユーザーが Marketo Sales を使用してメールを送信すると、そのメール ID が配信停止されているかどうかを確認するために、Marketo に対する API 呼び出しが実行されます。配信停止の場合、メール送信がブロックされます。
+Marketo 配信停止チェックは、チームの Marketo への接続を使用して、Marketo のリード管理システムで配信停止になっているユーザにメールが送信されるのを防ぎます。セールスユーザが Marketo Sales を使用してメールを送信すると、そのメール ID が配信停止されているかどうかを確認するために、Marketo に対する API 呼び出しが実行されます。配信停止の場合、メール送信がブロックされます。
 
 >[!NOTE]
 >
