@@ -4,7 +4,7 @@ description: イベントプログラムについて - Marketo ドキュメン�
 title: イベントプログラムについて
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
