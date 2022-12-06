@@ -3,7 +3,7 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
 ht-degree: 100%
 
@@ -25,10 +25,10 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
 **メモ／ハイライト**
 
-* ユーザーが Gmail または Exchange に接続すると自動的に有効化されます
+* ユーザが Gmail または Exchange に接続すると自動的に有効化されます
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズ可能です
 * Gmail または Exchange を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません
-* メール接続のスロットルは、各ユーザーがメールプロバイダーと独自に接続しているため、各ユーザーのメールを個別にキューイングします
+* メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
 
 **メール接続のスロットリングの設定**
 
@@ -56,7 +56,7 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
    ![](assets/email-connection-throttling-6.png)
 
-変更を保存すると、すべてのユーザーは、接続された Gmail または Exchange アカウントに一括でメールを送信して配信できます。
+変更を保存すると、すべてのユーザは、接続された Gmail または Exchange アカウントに一括でメールを送信して配信できます。
 
 ## メールプロバイダーの制限 {#email-provider-limits}
 
@@ -85,6 +85,6 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 >[!MORELIKETHIS]
 >
 >* [配信チャネルの概要](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
