@@ -4,7 +4,7 @@ description: パフォーマンスインサイトの概要 - Marketo ドキュ�
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
 ht-degree: 100%
 
