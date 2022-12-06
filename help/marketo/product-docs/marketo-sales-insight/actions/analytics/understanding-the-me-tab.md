@@ -3,8 +3,9 @@ description: 「自分」タブについて - Marketo ドキュメント - 製�
 title: 「自分」タブについて
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
-workflow-type: tm+mt
+exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
