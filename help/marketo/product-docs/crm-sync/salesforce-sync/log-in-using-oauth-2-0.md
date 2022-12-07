@@ -27,7 +27,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. 「**OAuth 設定を有効にする**」チェックボックスをクリックします。「コールバック URL」に `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` と入力します。使用可能なすべての OAuth 範囲を選択し、	**追加**&#x200B;をクリックします。
+1. 「**OAuth 設定を有効にする**」チェックボックスをクリックします。「コールバック URL」に `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` と入力します。使用可能なすべての OAuth 範囲を選択し、**追加**&#x200B;をクリックします。
 
    ![](assets/setting-up-oauth-2-3.png)
 
