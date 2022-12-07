@@ -3,10 +3,10 @@ unique-page-id: 2360243
 description: スマートキャンペーンのリード制限の有効化 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンのリード制限の有効化
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 98%
 
 ---
 
@@ -22,13 +22,17 @@ Marketo には、スマートキャンペーンの条件を満たすリードの
 >
 >これは、バッチキャンペーンとメールプログラムにのみ適用されます。
 
-1. 「**管理者**」をクリックし、「**スマートキャンペーン**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-18-15-3a58-3a29.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
+
+1. クリック **スマートキャンペーン**.
+
+   ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
 1. 「**編集**」をクリックします。
 
-   ![](assets/image2014-9-18-15-3a59-3a7.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
    >[!CAUTION]
    >
@@ -36,7 +40,7 @@ Marketo には、スマートキャンペーンの条件を満たすリードの
 
 1. 制限を入力し、「**保存**」をクリックします。
 
-   ![](assets/image2014-9-18-15-3a59-3a56.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
    >[!TIP]
    >
@@ -46,7 +50,7 @@ Marketo には、スマートキャンペーンの条件を満たすリードの
    >
    >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。[スマートキャンペーンでリード制限数を上書きする方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)を参照してください。
 
-これで完了です。安全スイッチを ON にできるのは、いい考えだと思いませんか？
+完了です。安全スイッチを ON にできるのは、
 
 >[!MORELIKETHIS]
 >

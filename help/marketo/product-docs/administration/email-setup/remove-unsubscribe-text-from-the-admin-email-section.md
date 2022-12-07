@@ -3,20 +3,24 @@ unique-page-id: 2360245
 description: 「管理者メール」セクションから登録解除テキストの削除 - Marketo ドキュメント - 製品ドキュメント
 title: 「管理者メール」セクションから登録解除テキストの削除
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+workflow-type: tm+mt
+source-wordcount: '165'
+ht-degree: 81%
 
 ---
 
 # 「管理者メール」セクションから登録解除テキストの削除 {#remove-unsubscribe-text-from-the-admin-email-section}
 
-「管理者／メール」領域から登録解除コンテンツを完全に削除する必要がある唯一の理由は、メールテンプレート自体に登録解除リンクを作成する場合です。テキストボックスには、コンテンツなしで保存できない検証機能があります。この問題を回避するには、小さな HTML コメントを追加します。HTML コメントは、メールクライアントに表示されません。メールが HTML でレンダリングされ、コメントは省略されるからです。その方法を説明しましょう。
+「管理者/電子メール」領域から配信停止コンテンツを完全に削除する必要がある唯一の理由は、電子メールテンプレート自体に配信停止リンクを作成することを選択した場合です。 テキストボックスには、コンテンツなしで保存できない検証機能があります。この問題を回避するには、小さな HTML コメントを追加します。HTML コメントは、メールクライアントに表示されません。メールが HTML でレンダリングされ、コメントは省略されるからです。その方法を説明しましょう。
 
-1. **管理**&#x200B;に移動し、「**メール**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2016-8-26-13-3a57-3a9.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
+
+1. 「**メール**」をクリックします。
+
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
 1. すべてのテキストを選択し、「**削除**」キーを押します。
 
@@ -26,11 +30,11 @@ ht-degree: 100%
 
 1. `<!--This is a comment -->` と入力します。
 
-   ![](assets/image2016-8-26-13-3a53-3a15.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
 1. 「**変更を保存**」をクリックします。
 
-   ![](assets/image2016-8-26-13-3a59-3a40.png)
+   ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
 >[!NOTE]
 >

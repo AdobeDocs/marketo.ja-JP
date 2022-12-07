@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: フィールドの更新のブロック - Marketo ドキュメント - 製品ドキュメント
 title: フィールドの更新のブロック
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '170'
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+workflow-type: tm+mt
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -18,13 +18,17 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-24-13-3a54-3a40.png)
+   ![](assets/block-updates-to-a-field-1.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/block-updates-to-a-field-2.png)
 
 1. フィールドを探して選択し、「**フィールドアクション**」で「**フィールドの更新をブロック**」をクリックします。
 
-   ![](assets/two-1.png)
+   ![](assets/block-updates-to-a-field-3.png)
 
    >[!NOTE]
    >
@@ -32,7 +36,7 @@ ht-degree: 100%
 
 1. ブロックする&#x200B;**入力ソース**&#x200B;を選択し、「**適用**」をクリックします。
 
-   ![](assets/image2014-9-24-13-3a55-3a16.png)
+   ![](assets/block-updates-to-a-field-4.png)
 
    >[!CAUTION]
    >

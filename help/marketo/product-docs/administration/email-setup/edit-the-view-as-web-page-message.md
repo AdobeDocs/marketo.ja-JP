@@ -3,10 +3,10 @@ unique-page-id: 2360253
 description: 「Web ページとして表示」メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '182'
-ht-degree: 100%
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+workflow-type: tm+mt
+source-wordcount: '184'
+ht-degree: 92%
 
 ---
 
@@ -20,9 +20,13 @@ ht-degree: 100%
 
 ## 「Web ページとして表示」メッセージの編集 {#edit-the-view-as-web-page-message-1}
 
-1. 「**管理者**」で、「**メール**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-18-17-3a13-3a2.png)
+   ![](assets/edit-the-view-as-web-page-message-1.png)
+
+1. 「**メール**」をクリックします。
+
+   ![](assets/edit-the-view-as-web-page-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ ht-degree: 100%
 
 1. 「**Web ページとして表示（HTML）**」と「**Web ページとして表示（テキスト）**」バージョンを適切に編集し、「**変更を保存**」をクリックします。
 
-   ![](assets/image2016-8-26-14-3a40-3a29.png)
+   ![](assets/edit-the-view-as-web-page-message-3.png)
 
 >[!CAUTION]
 >
@@ -56,5 +60,7 @@ ht-degree: 100%
 
 **Web ページとして表示（テキスト）**
 
-このメールを web ページとして表示するには、次のアドレスに移動してください。
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`これで終了です。
+このメールを Web ページとして表示するには、次のアドレスに移動します。
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+
+これで完了です。
