@@ -4,9 +4,9 @@ description: GoToWebinar を LaunchPoint サービスとして追加 - Marketo �
 title: GoToWebinar を LaunchPoint サービスとして追加
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Marketo は、GoToWebinar の登録と出席を管理します。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. **LaunchPoint**.をクリックします。
+1. **LaunchPoint** をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
@@ -68,4 +68,4 @@ Marketo は、GoToWebinar の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->方法を学ぶ [GotoWebinar でイベントを作成する](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}。
+>[GoToWebinar でイベントを作成する方法](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}を参照してください。
