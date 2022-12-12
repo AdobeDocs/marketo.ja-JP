@@ -4,9 +4,9 @@ description: プログラムメンバーシップについて - Marketo ドキ�
 title: プログラムメンバーシップについて
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '309'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Marketoはすべてのサブスクリプションにわたって言語を標準化するようになりました。サブスクリプションにリード/リード、ドキュメント内の人/人を参照できるようになりました。 これらの用語は同じことを意味します。記事の説明には影響しません。他にもいくつかの変更があります。[詳細情報](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+>Marketo は、すべてのサブスクリプションにわたって言語を標準化することになりました。そのため、サブスクリプションでは「リード」、ドキュメントでは「人物」と表記される場合があります。これらの用語は同じことを意味します。記事の説明には影響しません。他にもいくつかの変更があります。[詳細情報](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 92%
 
 ## プログラムのステータス {#program-statuses}
 
-プログラムのステータスとは、プログラムでユーザーが通過する手順を指します（招待済み、返信依頼済み、出席済み、欠席など）。これらの手順は、[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)で定義されます。
+プログラムのステータスとは、プログラムでユーザが通過する手順を指します（招待済み、返信依頼済み、出席済み、欠席など）。これらの手順は、[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)で定義されます。
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
