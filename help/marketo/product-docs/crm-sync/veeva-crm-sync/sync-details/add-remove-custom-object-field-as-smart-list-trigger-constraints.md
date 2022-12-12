@@ -3,21 +3,21 @@ description: スマートリスト／トリガー制約としてのカスタム�
 title: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engageは、Veeva カスタムオブジェクト同期を特定の方法で制御できます。 これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
+Marketo Engage は、Veeva カスタムオブジェクト同期を特定の方法で制御できます。これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. クリック **管理者**&#x200B;を、 **Veeva オブジェクト同期**.
+1. 「**管理者**」をクリックして、「**Veeva オブジェクト同期**」をクリックします。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -37,7 +37,7 @@ Marketo Engageは、Veeva カスタムオブジェクト同期を特定の方法
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. 目的のフィルター/トリガー制約の横にあるチェックボックスをオンにし、 **保存**.
+1. 必要なフィルター／トリガー制約の横にあるチェックボックスをオンにし、「**保存**」をクリックします。
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -51,7 +51,7 @@ Marketo Engageは、Veeva カスタムオブジェクト同期を特定の方法
 
 >[!IMPORTANT]
 >
->グローバル同期を再度有効にするのをお忘れなく！
+>忘れずにグローバル同期を再度有効にしてください。
 
 スマートリストとスマートキャンペーンの機能がさらに強化されました。
 
