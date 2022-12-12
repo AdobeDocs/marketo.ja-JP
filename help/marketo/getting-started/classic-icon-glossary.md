@@ -4,15 +4,15 @@ description: クラシックアイコン用語集 - Marketo ドキュメント -
 title: クラシックアイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '564'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # クラシックアイコン用語集 {#classic-icon-glossary}
 
-以下は Marketo Classic の古いアイコンです。新しいアイコン用語集は、次のことができます。 [ここにある](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}。
+以下は Marketo Classic の古いアイコンです。新しいアイコン用語集は、[ここにあります](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}。
 
 **一般アイコン**
 
@@ -64,7 +64,7 @@ ht-degree: 98%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">別のワークスペースから共有された宛先フォルダー<br>（南京錠アイコンは編集できないことを示します）</td> 
   </tr> 
@@ -92,7 +92,7 @@ ht-degree: 98%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">トリガー</td> 
   </tr> 
@@ -175,7 +175,7 @@ ht-degree: 98%
     <div> 
      <img src="assets/image2015-1-8-16-3a25-3a7.png"> 
     </div></td> 
-   <td>ユーザーと役割</td> 
+   <td>ユーザ&amp;ロール</td> 
   </tr> 
   <tr> 
    <td> 
@@ -415,7 +415,7 @@ ht-degree: 98%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">ヘッドスタートでスケジュールされたメールプログラム</td> 
   </tr> 
@@ -943,7 +943,7 @@ ht-degree: 98%
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>注目のアクション概要</td> 
+   <td>注目のアクションの概要</td> 
   </tr> 
   <tr> 
    <td> 
