@@ -1,118 +1,118 @@
 ---
-description: アクションデータ同期に関する FAQ - Marketoドキュメント — 製品ドキュメント
-title: アクションデータ同期の FAQ
+description: アクションデータ同期に関する FAQ - Marketo ドキュメント - 製品ドキュメント
+title: アクションデータ同期に関する FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1050'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# アクションデータ同期の FAQ {#actions-data-sync-faq}
+# アクションデータ同期に関する FAQ {#actions-data-sync-faq}
 
-Sales Insight Actions のデータ統合フィールド同期を使用すると、Marketo Engage・データベースから Sales Insight Actions データベースに個人情報を取り込むことができます。
+Sales Insight Actions のデータ統合フィールド同期を使用すると、Marketo Engage データベースから Sales Insight Actions データベースに個人情報を取り込むことができます。
 
-これにより、Sales Insight Actions Web アプリで最新の人物データを提供し、Marketoの対応する人物レコードと Salesforce のリード/連絡先/アカウント/商談レコードの一意の ID を収集できるので、レコードをログデータに正しく参照できます。
+これにより、Sales Insight Actions web アプリで最新の人物データを提供し、Marketo の対応する人物レコードと Salesforce のリード／取引先責任者／アカウント／商談レコードの一意の ID を収集できるので、レコードをログデータに正しく参照できます。
 
-この同期は、Marketo Engageの「管理」セクションの「Sales Insight アクション設定」タブで有効にできます。 詳しくは、 [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+この同期は、Marketo Engage の「管理」セクションの「Sales Insight Actions 設定」タブで有効にできます。詳しくは、[データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)を参照してください。
 
 ![](assets/actions-data-sync-faq-1.png)
 
-上の図は、ユーザーのアクティビティとタスクのデータがシステム間でどのように同期されるかを示しています。 注意事項を以下に示します。
+上の図は、人物アクティビティとタスクデータがシステム間でどのように同期されるのかを示しています。注意事項：
 
-* 人物レコードは、Marketo Engageから Sales Insight アクションに同期され、Sales Insight アクションの人物データの真実の源となるMarketo Engage
-* Marketo Engageと Sales Insight の両方のアクション [機構を持つ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) Salesforce への配信停止ステータスの収集と同期
-* 配信停止ステータスはセールスアクションからMarketo Engageに同期されませんが、販売者にメールの送信を許可する前に、Sales Insight アクションを設定して、担当者のMarketo配信停止ステータスを確認できます。 [Marketo配信停止の確認](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* 人物レコードは、Marketo Engage から Sales Insight Actions に同期され、Marketo Engage が Sales Insight Actions の人物データの信頼できる情報源となります。
+* Marketo Engage と Sales Insight Actions どちらにも、Salesforce への配信停止ステータスの収集と同期を行う[仕組みがあります](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)。
+* 配信停止ステータスはセールスのアクションから Marketo Engage に同期されませんが、[Marketo 配信停止チェック](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)を使用して販売者にメールの送信を許可する前に、人物の Marketo 配信停止ステータスを確認するように Sales Insight Actions を設定できます。
 
 データ統合同期の仕組みに関するよくある質問を以下に示します。
 
-## Sales Insight アクションに同期されるリード/連絡先は何ですか？ {#what-lead-contacts-are-synced}
+## Sales Insight Actions に同期されるリード／取引先責任者は何ですか？ {#what-lead-contacts-are-synced}
 
 ![](assets/actions-data-sync-faq-2.png)
 
-セールス所有者が割り当てられているリードと連絡先は、セールスアクションに同期されます。
+セールス所有者が割り当てられているリードと取引先責任者が、セールスのアクションに同期されます。
 
-リード/連絡先に Salesforce 内のセールス所有者が存在するかどうかを確認するには、存在する標準所有者フィールドを確認します。
+リード／取引先責任者に Salesforce 内のセールス所有者が存在するかどうかを確認するには、存在する標準所有者フィールドを確認します。
 
-販売所有者は、Marketo同期ユーザー、または特定の Salesforce または販売ユーザーである必要はありません。 必要なのは、Salesforce のリード所有者と連絡先所有者フィールドにユーザーがリストされているだけです。これにより、リードとして識別して Sales Insight アクションに同期できます。 同期するフィールドの更新は、Sales Insight のアクションでも検出され、更新されます。
+セールス所有者は、Marketo 同期ユーザや、特定の Salesforce またはセールスユーザである必要はありません。必要なのは、Salesforce のリード所有者と取引先責任者所有者フィールドにユーザがリストされていることだけです。これにより、リードとして識別して Sales Insight Actions に同期できます。同期するフィールドが更新されると、Sales Insight Actions でも検出され、更新されます。
 
-## Sales Insight スマートグリッドに表示されるアクティビティデータは、どこから入手しますか？ {#where-does-the-activity-data-get-sourced-from}
+## Sales Insight スマートグリッドに表示されるアクティビティデータは、どこから入手されるのですか？ {#where-does-the-activity-data-get-sourced-from}
 
 ![](assets/actions-data-sync-faq-3.png)
 
-E メール、電話、注目のアクション、Web などのアクティビティデータは、すべてMarketo Engageのデータベースから取得されます。 Sales Insight スマートグリッドは、セールスMarketo Engageが Sales Insight パネルを読み込むたびに、この値を取得するリクエストをユーザーインスタンスに対して行います。
+メール、電話、注目のアクション、web などのアクティビティデータは、すべて Marketo Engage のデータベースから取得されます。セールスユーザが Sales Insight スマートグリッドを読み込むたびに、Marketo Engage インスタンスに対してデータを取得するリクエストが行われます。
 
 ![](assets/actions-data-sync-faq-4.png)
 
-すべてのアクティビティデータをMarketo Engageから取得できるように、Sales Insight Actions は、すべてのアクティビティデータをMarketo Engageに同期します。
+すべてのアクティビティデータを Marketo Engage から取得できるように、Sales Insight Actions はすべてのアクティビティデータを Marketo Engage に同期します。
 
-## 担当者レコードに関連するフィールドは、Marketo Engageから Sales Insight アクションに同期しますか？ {#what-fields-sync}
+## 人物レコードに関連するどのフィールドが、Marketo Engage から Sales Insight Actions に同期されるのですか？ {#what-fields-sync}
 
-Marketo Engageから Sales Insight アクションに同期する 11 のフィールドがあります。
+Marketo Engage から Sales Insight Actions に同期するフィールドは 11 個あります。
 
 * 名
 * 姓
-* Salesforce 連絡先 ID
+* Salesforce 取引先責任者 ID
 * Salesforce リード ID
 * Salesforce アカウント ID
 * Salesforce 商談 ID
 * Marketo ID
-* 企業
+* 会社
 * 職位
 * メール
 * 電話番号
 * Linkedin URL
 * ソース
 
-## Marketo Engageと Sales Insight アクションの間で同期するフィールドは設定可能ですか？ {#are-the-fields-that-sync-configurable}
+## Marketo Engage と Sales Insight Actions の間で同期するフィールドは設定可能ですか？ {#are-the-fields-that-sync-configurable}
 
-Sales Insight アクションに同期するMarketo Engageフィールドの設定は使用できず、フィールドをマッピングする機能も使用できません。 Marketoからの同期では、標準のMarketoフィールドが、セールスアクションインスタンスの標準フィールドに自動的にマッピングされます。
+Sales Insight Actions に同期する Marketo Engage フィールドの設定は使用できず、フィールドをマッピングする機能も使用できません。Marketo からの同期では、標準の Marketo フィールドが、セールスアクションのインスタンスの標準フィールドに自動的にマッピングされます。
 
 ## Sales Insight Actions に独自のデータベースがあるのはなぜですか？ {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions には、専用の個人およびアクティビティ・データベースを備えた独自の Web アプリケーションがあり、セールス・チーム向けに構築および設計された最適化されたワークスペースを提供します。 これにより、販売管理者と販売者は、マーケティングオペレーションスペシャリスト向けに最適化されたプライマリMarketo Engageワークスペースにアクセスや権限を付与することなく、エンゲージメント戦略を構築し、管理するスペースを確保できます。
+Sales Insight Actions には、個人およびアクティビティデータベースを備えた専用の web アプリケーションがあり、セールスチーム向けに構築および設計して最適化したワークスペースが提供されます。これにより、セールス管理者と販売者は、マーケティングオペレーションスペシャリスト向けに最適化された、プライマリ Marketo Engage ワークスペースにアクセスや権限を付与することなく、エンゲージメント戦略を構築し、管理するスペースを確保できます。
 
-## 重複の処理方法 {#how-are-duplicates-handled}
+## 重複はどのように処理されますか？ {#how-are-duplicates-handled}
 
-セールスアクションデータベースは、Marketo Engageデータベースに存在する認定済みの担当者（セールス所有者のリード/連絡先）のコピーになります。 つまり、Marketoで同じメールアドレスを持つ 2 つのレコードが作成された場合、セールスアクションで作成された重複レコードが存在します。
+セールスアクションのデータベースは、Marketo Engage データベースに存在する条件を満たした人物（セールス所有者を持つリード／取引先責任者）の複製になります。つまり、Marketo で同じメールアドレスを持つ 2 つのレコードが作成された場合、セールスアクションで重複レコードが作成されます。
 
 ## 初期同期が完了するまでにどのくらい時間がかかりますか？ {#how-long-initial-sync}
 
-すべてのセールスリードデータを新しい Sales Insight Actions インスタンスに同期する最初のプロセスでは、通常、1 ～ 2 分ごとに約 1,000 人の担当者が処理されます。 これは単なる推定であり、状況によって異なる場合があります。
+すべてのセールスリードデータを新しい Sales Insight Actions インスタンスに同期する最初のプロセスでは、通常、1～2 分ごとに約 1,000 件の人物が処理されます。これは単なる推定であり、状況によって異なる場合があります。
 
-初期同期が実行され、すべてのセールスリードが Sales Insight Actions Web アプリインスタンスに入力されると、同期されるサポート対象フィールドの 1 つが更新されるたびに増分同期が実行されます。
+初期同期が実行され、すべてのセールスリードが Sales Insight Actions web アプリインスタンスに入力されると、同期されるサポート対象フィールドの 1 つが更新されるたびに増分同期が実行されます。
 
-## Sales Insight Actions ユーザーは Actions Web アプリから人物データを編集できますか？ {#can-actions-users-edit-people-data}
+## Sales Insight Actions ユーザは Actions web アプリから人物データを編集できますか？ {#can-actions-users-edit-people-data}
 
-いいえ。アクションで人物レコードを作成および編集する機能は、アクション Web アプリのユーザーと管理者の両方で使用できません。 担当者の作成と編集は、Salesforce またはMarketo Engageで行う必要があります。 Sales Insight Actions は、新しいデータを継続的に同期することで、Marketoを人物データの情報源として使用します。Marketoのワークフローから、または Salesforce から同期した人物がMarketoで更新または作成されると、その更新が Sales Insight Actions Web アプリデータベースに渡されます。
+いいえ。Actions web アプリのユーザも管理者も Actions で人物レコードを作成および編集する機能を使用できません。人物の作成と編集は、Salesforce または Marketo Engage で行う必要があります。Sales Insight Actions は、新しいデータを継続的に同期することで、Marketo を人物データの信頼できる情報源として使用します。したがって、Marketo のワークフローからまたは Salesforce から同期した人物が Marketo で更新または作成されると、その更新が Sales Insight Actions web アプリデータベースに渡されます。
 
-## 販売活動はMarketoに記録されますか。 {#do-sales-activities-log-to-marketo}
+## セールスアクティビティは Marketo に記録されますか？ {#do-sales-activities-log-to-marketo}
 
-はい、セールスエンゲージメントアクティビティは、ネイティブアクティビティとしてMarketoに記録されます。 また、これらのアクティビティには、セールスアクティビティ属性に基づいてリードをターゲット設定するための制約と共に使用できるネイティブフィルターも含まれます。
+はい、セールスエンゲージメントアクティビティは、ネイティブアクティビティとして Marketo に記録されます。また、これらのアクティビティには、セールスアクティビティ属性に基づいてリードをターゲット設定するための制約と共に使用できるネイティブフィルターも含まれます。
 
 ![](assets/actions-data-sync-faq-5.png)
 
-以下に、Marketoに記録されるアクティビティのリストを示します。
+以下に、Marketo に記録されるアクティビティのリストを示します。
 
 * セールスメールを送信
 * セールスメール開封
 * セールスメールクリック
 * セールスメールに返信
 * セールスメールバウンス
-* セールス電話を受信しました
+* セールス電話受信
 * セールスキャンペーンに追加
 * セールスキャンペーンから削除
 
-## セールス活動は Salesforce に記録されますか？ {#do-sales-activities-log-to-salesforce}
+## セールスアクティビティは Salesforce に記録されますか？ {#do-sales-activities-log-to-salesforce}
 
-はい、セールスエンゲージメントアクティビティは、ネイティブタスクとして Salesforce に記録されます。 これらのタスクを Salesforce レポートで使用して、セールス活動を追跡するチームダッシュボードを強化できます。
+はい、セールスエンゲージメントアクティビティは、ネイティブタスクとして Salesforce に記録されます。これらのタスクを Salesforce レポートで使用して、セールスアクティビティを追跡するチームダッシュボードを強化できます。
 
-Sales Insight アクションを使用すると、管理者は、Salesforce にログに記録するセールスアクティビティを設定できます。 これらのアクティビティには、電子メール、呼び出し、および開封済みリマインダータスクが含まれます。
+Sales Insight Actions を使用すると、管理者は、Salesforce にログに記録するセールスアクティビティを設定できます。これらのアクティビティには、メール、電話、開封リマインダータスクが含まれます。
 
 ![](assets/actions-data-sync-faq-6.png)
 
-上の図は、Salesforce にログに記録される情報を示しています。 メールや通話などのアクティビティは、 [一方向同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [配信停止](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) および [リマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) は双方向同期で最新の状態に保たれています。 これらの各データ同期は、Sales Insight Actions Web アプリインターフェイスから設定できます。
+上の図は、Salesforce にログに記録される情報を示しています。メールや電話などのアクティビティは、Salesforce に[一方向同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)で記録されます。[配信停止](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)および[リマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)は双方向同期で最新の状態に保たれます。これらの各データ同期は、Sales Insight Actions web アプリインターフェイスから設定できます。
 
 >[!MORELIKETHIS]
 >
