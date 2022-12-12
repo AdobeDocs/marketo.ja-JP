@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: 子キャンペーンとローカルアセットの作成 — Marketo ドキュメント — 製品ドキュメント
+description: 子キャンペーンとローカルアセットの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '678'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Design Studio を使用して、子キャンペーンとローカルアセット
 次のフィールドを ON24 にプッシュすることもできます。
 
 * 企業名
-* 職位
+* 役職
 
 登録キャンペーンに適切なフローステップが追加されると、担当者は ON24 にプッシュされ、登録済みとマークされます。その他のフィールドをフォームに追加すると、その情報が Marketo に担当者の詳細レコードの一部として取り込まれます。
 
@@ -43,13 +43,13 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!NOTE]
 >
->この一意の URL を確認メールに入力するには、メールでトークン `{{member.webinar url}}` を使用します。確認 URL を送信すると、このトークンは自動的に担当者の一意の確認 URL に解決されます。
+>登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。確認 URL を送信すると、このトークンは自動的に担当者の一意の確認 URL に解決されます。
 >
 >確認メールのタイプを&#x200B;**オペレーショナル**&#x200B;に設定して、登録する担当者がたとえ配信停止されても確実に確認情報を受け取れるようにします。
 
 >[!TIP]
 >
->確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、 [ON24 ヘルプサイト](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;} を参照してください。
+>確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;}を参照してください。
 
 ## 登録の子キャンペーンの要件 {#registration-child-campaign-requirements}
 
@@ -78,11 +78,11 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 **フロー**
 
-* **プログラムステータスの変更** — ウェビナー／登録済みに設定します。
+* **プログラムステータスの変更** - ウェビナー／登録済みに設定します。
 
 このフローステップは、子キャンペーンを設定する際の最初のフローステップとして必要です。担当者のプログラムステータスが「登録済み」に変更されると、Marketo は登録情報を ON24 にプッシュします。他のステータスでは、担当者をプッシュすることはできません。
 
-* **メールの送信** — 確認メール。このメールを&#x200B;**オペレーショナル**&#x200B;に設定して、登録した配信停止済みの担当者が引き続きメールを受け取れるようにします。
+* **メールの送信** - 確認メール。このメールを&#x200B;**オペレーショナル**&#x200B;に設定して、登録した配信停止済みの担当者が引き続きメールを受け取れるようにします。
 
 **メールの送信**&#x200B;フローステップは、2 番目のステップである必要があります。確認メールには、ON24 から Marketo に送信された情報が入力された `{{member.webinar url}}` が含まれます。
 
@@ -94,11 +94,11 @@ Marketo を使用して、イベントの確認メールを送信します。担
 >
 >登録エラーが発生した場合、その担当者には確認メールは送信されません。
 
-次の手順は次のとおりです。 [ON24 イベント統合のテスト](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}。
+次のステップは、[ON24 イベント統合のテスト](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}です。
 
 >[!MORELIKETHIS]
 >
->* [Marketo ON24 アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>* [Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
 >* [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
 >* [ウェビナープログラムのステータスについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
 
