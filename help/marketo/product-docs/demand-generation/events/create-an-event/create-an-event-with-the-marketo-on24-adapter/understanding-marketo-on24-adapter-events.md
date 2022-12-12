@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096658
-description: Marketo ON24 アダプターイベントについて — Marketo ドキュメント — 製品ドキュメント
+description: Marketo ON24 アダプターイベントについて - Marketo ドキュメント - 製品ドキュメント
 title: Marketo ON24 アダプターイベントについて
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ON24 アダプターは、すべての情報転送を行います。Marketo ラ�
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-準備はよろしいですか？開始 [ON24 アダプタを使用したイベントの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}。
+準備はよろしいですか？最初に、[ON24 アダプターでイベントを作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}します。
