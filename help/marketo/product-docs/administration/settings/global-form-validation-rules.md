@@ -3,9 +3,9 @@ description: グローバルフォーム検証ルール - Marketo ドキュメ�
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 68%
 
 ## アクセスを有効にする方法 {#how-to-enable-access}
 
-この機能を利用する前に、目的の役割に応じて権限を有効にする必要があります。
+この機能を利用する前に、目的のロールに応じて権限を有効にする必要があります。
 
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. 「**ユーザーと役割**」をクリックします。
+1. 「**ユーザ＆ロール**」をクリックします。
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. 「**役割**」タブをクリックします。
+1. 「**ロール**」タブをクリックします。
 
    ![](assets/global-form-validation-rules-3.png)
 
-1. 権限を付与する役割をダブルクリックします。
+1. 権限を付与するロールをダブルクリックします。
 
    ![](assets/global-form-validation-rules-4.png)
 
@@ -45,7 +45,7 @@ ht-degree: 68%
 
 >[!IMPORTANT]
 >
->これらのルールは、Marketo Engage配信登録のすべてのフォームに適用されます。
+>これらのルールは、Marketo Engage サブスクリプション内のすべてのフォームに適用されます。
 
 1. Marketo で、「**管理者**」をクリックします。
 
@@ -73,13 +73,13 @@ ht-degree: 68%
 
 ## フォームごとのアクセスを無効にする方法{#how-to-disable-access-per-form}
 
-有効にすると、ルールはすべてのフォームに適用されます。 ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定でグローバルフォームの検証ルールを無効にできます。
+有効にすると、ルールはすべてのフォームに適用されます。ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定でグローバルフォーム検証ルールを無効にできます。
 
-1. 目的のフォームで、 **フォーム設定**&#x200B;を、 **設定**.
+1. 目的のフォームで、「**フォーム設定**」をクリックし、「**設定**」をクリックします。
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. グローバルフォーム検証ルールドロップダウンをクリックし、 **無効**.
+1. 「グローバルフォーム検証ルール」ドロップダウンをクリックし、「**無効**」を選択します。
 
    ![](assets/global-form-validation-rules-12.png)
 
