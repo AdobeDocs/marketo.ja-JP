@@ -4,7 +4,7 @@ description: SFDC 同期 - リードキュー - Marketo ドキュメント - 製
 title: SFDC 同期 - リードキュー
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -18,8 +18,8 @@ Marketo では、[Salesforce のリードキュー](https://help.salesforce.com/
 
 次のいずれかのフローアクションを使用して、Salesforce のリードキューに個人を割り当てることができます。
 
-* [個人を SFDC に同期する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [所有者を変更する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [個人を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [所有者の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -29,8 +29,8 @@ Marketo では、[Salesforce のリードキュー](https://help.salesforce.com/
 
 リードが Salesforce のキューに所有されている場合、リードが所有者に割り当てられるまで、これらのセールス所有者フィールドは空のままになります。
 
-* セールス所有者の名 
-* セールス所有者の姓 
+* セールス所有者の名
+* セールス所有者の姓
 * セールス所有者の職位
 * セールス所有者の電話番号
 * セールス所有者のメールアドレス
