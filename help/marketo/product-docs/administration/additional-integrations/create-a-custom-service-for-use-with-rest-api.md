@@ -4,7 +4,7 @@ description: ReST API で使用するカスタムサービスの作成 - Marketo
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
 ht-degree: 100%
 
@@ -16,8 +16,8 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 >[!PREREQUISITES]
 >
->* [API のみのユーザーの役割を作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [API のみのユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [API 専用ユーザのロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [API 専用ユーザの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
 
@@ -43,7 +43,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. サービスの「**表示名**」を入力します。**先ほど作成した**「[API のみのユーザー](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
+1. サービスの「**表示名**」を入力します。**先ほど作成した**「[API のみのユーザ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -75,7 +75,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. 接続を確立する担当者に、**クライアント ID**、**クライアントシークレット**、**許可されたユーザー**、**トークン**&#x200B;を提供します。
+1. 接続を確立する担当者に、**クライアント ID**、**クライアントシークレット**、**許可されたユーザ**、**トークン**&#x200B;を提供します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
