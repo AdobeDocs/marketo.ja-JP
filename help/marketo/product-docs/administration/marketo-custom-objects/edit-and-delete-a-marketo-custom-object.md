@@ -4,9 +4,9 @@ description: Marketo カスタムオブジェクトの編集と削除 - Marketo 
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '275'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-1. 必要な変更を加えます。 リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。「**保存**」をクリックします。
+1. 必要な変更を加えます。リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。「**保存**」をクリックします。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
