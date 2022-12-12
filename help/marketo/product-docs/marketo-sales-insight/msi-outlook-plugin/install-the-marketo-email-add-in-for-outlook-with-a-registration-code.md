@@ -4,15 +4,15 @@ description: 登録コードを使用した Outlook 用 Marketo メールアド�
 title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '470'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # 登録コードを使用した Outlook 用 Marketo メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
-ユーザーがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
+ユーザがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
 
 招待メールを受け取っていない場合は、Marketo 管理者に招待するよう依頼してください。
 
@@ -22,11 +22,11 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
->Windows ユーザーフォルダに英語以外の文字が含まれている PC では、インストールはサポートされていません。 このフォルダは、Windows によって `<System Root>\Users\` Windows ユーザー名に基づきます。Windows ユーザー名が英語以外の名前の場合は、英語以外の文字を含めることができます。 インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
+>Windows ユーザフォルダーに英語以外の文字が含まれている PC へのインストールはサポートされていません。このフォルダーは、Windows ユーザ名をもとに Windows が`<System Root>\Users\`に自動生成するもので、Windows ユーザ名が英語以外の名前の場合、英語以外の文字が含まれることがあります。インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
 
 >[!NOTE]
 >
->10/1/20で、Outlook プラグインの最新バージョンがオフラインモードのサポートを停止しました。
+>2020年10月1日に、Outlook プラグインの最新バージョンがオフラインモードのサポートを停止しました。
 
 ## インストーラーのダウンロード {#download-installer}
 
