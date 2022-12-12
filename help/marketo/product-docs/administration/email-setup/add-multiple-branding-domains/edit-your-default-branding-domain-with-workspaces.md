@@ -4,9 +4,9 @@ description: ワークスペースを使用したデフォルトのブランデ�
 title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -40,6 +40,6 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->ブランディングドメインを追加する際に、1 つ以上のワークスペースに対してこれをプライマリドメインに設定できます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。 これは、メールごとに上書きできます。
+>ブランディングドメインを追加する際に、1 つ以上のワークスペースに対してこれをプライマリドメインに設定できます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。これは、メールごとに上書きできます。
 
 これで、ワークスペースに必要な[付加的なブランディングドメインを追加](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)できます。
