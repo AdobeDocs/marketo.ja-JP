@@ -4,9 +4,9 @@ description: Google カスタマーマッチを LaunchPoint サービスとし�
 title: Google カスタマーマッチを LaunchPoint サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 87%
 
    >[!CAUTION]
    >
-   >Marketo が複数の AdWords アカウント間でオーディエンスを送信するには、次の手順で承認した Google ユーザーが、 でこれらのアカウントの&#x200B;_すべて_&#x200B;にアクセスできる必要があります。
+   >Marketo が複数の AdWords アカウント間でオーディエンスを送信するには、次の手順で承認した Google ユーザが、これらのアカウントの&#x200B;_すべて_&#x200B;にアクセスできる必要があります。
 
    ![](assets/chooseaccount.png)
 
@@ -58,4 +58,4 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Google Customer Match の統合には、1 つの Manager アカウントと、その Manager アカウント内のすべてのサブアカウントに対応できます。 複数のマネージャーアカウントはサポートされていません。
+>Google カスタマーマッチの統合には、1 つのマネージャーアカウントと、そのマネージャーアカウント内のサブアカウントすべてに対応できます。複数のマネージャーアカウントはサポートされていません。
