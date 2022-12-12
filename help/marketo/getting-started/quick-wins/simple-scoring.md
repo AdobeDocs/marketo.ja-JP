@@ -4,9 +4,9 @@ description: シンプルなスコアリング - Marketo ドキュメント - �
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 source-git-commit: 89ee01fb25e7bc406c198c8e89e6957b3b1e1928
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 78%
 
    ![](assets/simple-scoring-2.png)
 
-1. キャンペーンフォルダーに「Scoring」という名前を付け、 **作成**.
+1. キャンペーンに「スコアリング」という名前を付け、「**作成**」をクリックします。
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 78%
    >
    >既に「スコアリング」フォルダーがある場合は、これに別の名前を付けます（例：スコアリング 1）。フォルダー名は一意である必要があります。
 
-1. 右クリック **スコア** フォルダーと選択 **新規スマートキャンペーン**.
+1. 次に、「**スコアリング**」フォルダーを右クリックして、「**スマートキャンペーン**」を選択します。
 
    ![](assets/simple-scoring-4.png)
 
@@ -60,7 +60,7 @@ ht-degree: 78%
 
    >[!NOTE]
    >
-   >以下を完了した場合、 [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウが表示されたら、フォームを使用できます。 フォームに別の名前を使用した場合は、その名前を選択します。
+   >[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}クイックウィンを完了している場合、このフォームがあります。フォームに別の名前を使用した場合は、その名前を選択します。
 
 1. 「**フロー**」タブをクリックします。
 
@@ -76,7 +76,7 @@ ht-degree: 78%
 
    >[!TIP]
    >
-   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。読み取り [**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}。
+   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。[**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}を参照してください。
 
 1. 「**スケジュール**」タブをクリックし、「**アクティブ化**」ボタンをクリックします。
 
@@ -88,11 +88,11 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->アクティブにすると、ユーザーがフォームに入力するたびにこのキャンペーンが実行されます。キャンペーンは、無効にされるまで実行を続けます。
+>アクティブにすると、ユーザがフォームに入力するたびにこのキャンペーンが実行されます。キャンペーンは、無効にされるまで実行を続けます。
 
 ## 手順 2:フォームを入力する {#step-fill-out-the-form}
 
-1. 作成したランディングページを [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ。
+1. [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}クイックウィンで作成したランディングページを選択します。
 
    ![](assets/simple-scoring-14.png)
 
@@ -122,13 +122,13 @@ ht-degree: 78%
 
    ![](assets/simple-scoring-19.png)
 
-人物の詳細が新しいタブまたはウィンドウで開きます。フォームの入力に対するスコアが 5 ポイント増加した様子を見る
+人物の詳細が新しいタブまたはウィンドウで開きます。フォームを入力したことで、スコアが 5 ポイント増加したことを確認できましたか？
 
 ![](assets/simple-scoring-20.png)
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 2：フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
