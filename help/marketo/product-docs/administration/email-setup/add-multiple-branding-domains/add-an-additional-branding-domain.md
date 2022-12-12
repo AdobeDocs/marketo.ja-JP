@@ -4,9 +4,9 @@ description: 付加的なブランディングドメインの追加 - Marketo �
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->このドメインをプライマリドメインにすることもできます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。 これは、[メールごとに上書きできます](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)。
+>これをプライマリドメインにできます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。これは、[メールごとに上書きできます](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)。
 
 >[!MORELIKETHIS]
 >
