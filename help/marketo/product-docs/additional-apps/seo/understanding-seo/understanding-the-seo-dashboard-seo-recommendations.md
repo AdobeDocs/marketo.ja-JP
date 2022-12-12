@@ -4,9 +4,9 @@ description: SEO ダッシュボードについて - SEO レコメンデーシ�
 title: SEO ダッシュボードについて - SEO レコメンデーション
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '160'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## ページの最適化に関する主な問題 {#top-page-optimization-issues}
 
-サイトを最適化するためにすぐに始められる、影響の大きい 5 つの方法が表示されます。リンクをクリックするだけで、完全な [ページの詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}。
+サイトを最適化するためにすぐに始められる、影響の大きい 5 つの方法が表示されます。リンクをクリックするだけで、完全な[ページ詳細ドリルダウン](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}が表示されます。
 
 >[!TIP]
 >
