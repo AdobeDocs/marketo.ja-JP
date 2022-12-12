@@ -1,18 +1,18 @@
 ---
 unique-page-id: 42762511
-description: Adobe組織マッピングの設定 — Marketoドキュメント — 製品ドキュメント
-title: 組織マッピングAdobeの設定
+description: アドビ組織マッピングの設定 - Marketo ドキュメント - 製品ドキュメント
+title: アドビ組織マッピングの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
-# 組織マッピングAdobeの設定 {#set-up-adobe-organization-mapping}
+# アドビ組織マッピングの設定 {#set-up-adobe-organization-mapping}
 
-Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeアプリケーションと同期するには、まずMarketoでAdobe IMS組織の資格情報を入力する必要があります。
+Audience Manager、B2B CDP Marketo コネクタ、動的チャットなどのアドビアプリケーションと同期するには、まず Marketo で Adobe IMS 組織の資格情報を入力する必要があります。
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeア�
 
 >[!CAUTION]
 >
->AdobeビジネスプラットフォームとIdentity Managementシステムにオンボーディングされた顧客の場合、サブスクリプションに関連付けられている組織 ID は既に入力されており、読み取り専用フィールドになります。
+>Adobe Business Platform と Identity Management システムにオンボーディングされた顧客の場合、サブスクリプションに関連付けられている組織 ID は既に入力されており、読み取り専用フィールドになります。
 
 1. Marketo で、「**管理者**」をクリックします。
 
@@ -48,8 +48,8 @@ Audience Manager、B2B CDP Marketoコネクタ、Dynamic Chat などのAdobeア�
 
    >[!IMPORTANT]
    >
-   >セキュリティ上の理由から、マッピング先のアドビ組織の組織管理者である必要があります。さもないと、アクションは失敗します。また、AdobeユーザーとMarketoユーザーは、ログイン時に同じ電子メールアドレスを使用する必要があります。
+   >セキュリティ上の理由から、マッピング先のアドビ組織の組織管理者である必要があります。さもないと、アクションは失敗します。また、アドビユーザと Marketo ユーザは、ログイン時に同じメールアドレスを使用する必要があります。
 
 1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。アドビ組織にログインします（このアクションで組織アクセスが検証されます）。
 
-これで完了です。次の操作を実行できます。 [オーディエンスデータを共有](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} を、または [オーディエンスを同期](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)Adobe Experience Cloudから {target=&quot;_blank&quot;}。
+これで完了です。Adobe Experience Cloud から[オーディエンスデータを共有する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;}または[同期する](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;}ことができるようになります。
