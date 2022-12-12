@@ -4,9 +4,9 @@ description: ON24 でのウェビナーイベントの作成  - Marketo ドキ�
 title: ON24 でのウェビナーイベントの作成
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -18,16 +18,16 @@ ON24 ウェビナーの作成には、Marketo で使用される設定と、ON24
 
 **タイトルと説明**
 
-* イベントのタイトル — ウェビナーの名前。これは Marketo で表示できます。
-* イベントの概要（オプション） — ウェビナーの説明。これは Marketo で表示できます。
+* イベントのタイトル - ウェビナーの名前。これは Marketo で表示できます。
+* イベントの概要（オプション） - ウェビナーの説明。これは Marketo で表示できます。
 
 **日時**
 
-* ライブイベント開始 — 開始日時。これは Marketo で表示できます。
-* ライブ終了時間 — 終了日時。これは Marketo で表示できます。
+* ライブイベント開始 - 開始日時。これは Marketo で表示できます。
+* ライブ終了時間 - 終了日時。これは Marketo で表示できます。
 
-次の手順は次のとおりです。 [Marketoでイベントを作成する](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target=&quot;_blank&quot;}。
+次の手順は、[Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target=&quot;_blank&quot;} でイベントを作成することです。
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプタイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
