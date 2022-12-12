@@ -4,9 +4,9 @@ description: セールス担当者にアラート - Marketo ドキュメント -
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 84%
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 選択 **マイプログラム** 作成した [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィン、次に **新規** クリック **新規ローカルアセット**.
+1. クイックウィン&#x200B;**フォームを含むランディングページ**{target=&quot;_blank&quot;}に作成した[マイプログラム](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)を選択、次に「**新規**」で、「**新規ローカルアセット**」をクリックします。
 
    ![](assets/alert-the-sales-rep-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 84%
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. 人物の連絡先情報を挿入する場所にカーソルを置き、「**トークンの挿入**」アイコンをクリックします。
+1. 人物の取引先責任者情報を挿入する場所にカーソルを置き、「**トークンの挿入**」アイコンをクリックします。
 
    ![](assets/alert-the-sales-rep-8.png)
 
@@ -60,13 +60,13 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} は、アラート電子メール用の特別なトークンです。 詳しくは、 [アラート情報トークンの送信](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} を参照してください。
+   >{{SP_Send_Alert_Info}} は、アラートメール用の特別なトークンです。詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}を参照してください。
 
 1. 「**保存**」をクリックします。
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. 次をクリック： **メールアクション** ドロップダウンして「 」を選択します。 **承認して閉じる**.
+1. 「**メールアクション**」ドロップダウンをクリックし、「**承認して閉じる**」を選択します。
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -130,12 +130,12 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >Marketo の「**人物情報**」タブをクリックして、連絡先情報を表示します。
+   >Marketo の「**人物情報**」タブをクリックして、取引先責任者情報を表示します。
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[ミッション 9:担当者データを更新►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[ミッション 9：人物データの更新 ►](/help/marketo/getting-started/quick-wins/update-person-data.md)
