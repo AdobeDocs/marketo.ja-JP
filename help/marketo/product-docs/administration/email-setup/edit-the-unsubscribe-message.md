@@ -4,9 +4,9 @@ description: 登録解除メッセージの編集 - Marketo ドキュメント -
 title: 登録解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 マーケティングメールを送信する際（非[オペレーショナル](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）、登録解除テキストおよびリンクが下部に追加されます。デフォルト値は変更できます。手順は以下のとおりです。
 
-## 編集場所 {#where-to-make-the-edit}
+## 編集を行う場所 {#where-to-make-the-edit}
 
 1. 「**管理者**」セクションに移動します。
 
