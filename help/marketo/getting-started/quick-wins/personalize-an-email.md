@@ -4,9 +4,9 @@ description: メールのパーソナライズ - Marketo ドキュメント - �
 title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '341'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,21 +17,21 @@ ht-degree: 81%
 >[!PREREQUISITES]
 >
 >* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [E メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
->* [ドリップ、ドリップ、育成](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
+>* [一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [ドリップ、ドリップ、ナーチャリング](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
 ## 手順 1：パーソナライズするメールを選択 {#step-select-an-email-to-personalize}
 
-1. で作成した育成メールの 1 つを選択 [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} をクリックし、 **下書きの作成**.
+1. [以前のクイックウィン](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}で作成したナーチャリングメールの 1 つを選択し、「**下書きの作成**」をクリックします。
 
    ![](assets/personalize-an-email-1.png)
 
    >[!NOTE]
    >
-   >これにより、メールのコピーが下書きとして作成されます。変更を有効にするには、必ず下書きを承認してください。
+   >これにより、メールのコピーが下書きとして作成されます。忘れずに下書きを承認して、変更を有効にします。
 
-ポップアップブロッカーを有効にしていない場合、メールエディターは新しいタブまたはウィンドウで開きます。それ以外の場合は、 **下書きの作成** 2 回。
+ポップアップブロッカーを有効にしていない場合、メールエディターは新しいタブまたはウィンドウで開きます。それ以外の場合は、「**下書きの作成**」を 2 回クリックします。
 
 ## 手順 2：セールス担当者を送信者にする {#step-make-the-salesperson-the-sender}
 
@@ -89,13 +89,13 @@ ht-degree: 81%
 
    ![](assets/personalize-an-email-13.png)
 
-1. の下 **メールアクション** を選択し、 **承認して閉じる**.
+1. 「**メールアクション**」で、「**承認して閉じる**」を選択します。
 
    ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->自分自身にメールを送信する方法について、簡単な情報が必要な場合は、詳しくは、 [E メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}。
+>自分自身にメールを送信する方法について、簡単な情報が必要な場合は、[一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}を参照してください。
 
 ### ミッション完了 {#mission-complete}
 
