@@ -1,15 +1,15 @@
 ---
-description: 管理者の設定 - Marketo ドキュメント - 製品ドキュメント
-title: 管理の設定
+description: 管理者設定 - Marketo ドキュメント - 製品ドキュメント
+title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# 管理の設定 {#admin-setup}
+# 管理者設定 {#admin-setup}
 
 アドビのシステム管理者としてアドビ組織の Marketo Engage に追加されたら、初期設定を完了するためにいくつかの手順を実行する必要があります。
 
@@ -19,15 +19,15 @@ ht-degree: 90%
 
    ![](assets/admin-setup-1.png)
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、 [Adobe IDの設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}します。
 
    ![](assets/admin-setup-2.png)
 
 ## 製品プロファイルの作成 {#create-a-product-profile}
 
-システム管理者が Admin Console にアクセスしたら、次は製品プロファイルを作成します。この方法で、ユーザーや管理者は Marketo Engage にアクセスできます。
+システム管理者が Admin Console にアクセスしたら、次は製品プロファイルを作成します。この方法で、ユーザや管理者は Marketo Engage にアクセスできます。
 
-1. 概要ページの「製品とサービス」で、 **Marketo Engage**.
+1. 概要ページの「製品とサービス」で、「**Marketo Engage**」をクリックします。
 
    ![](assets/admin-setup-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->複数の製品プロファイルを設定した場合、追加先のプロファイルに関係なく、ユーザーは同じ Marketo へのアクセス権を持ちます。
+>複数の製品プロファイルを設定した場合、追加先のプロファイルに関係なく、ユーザは同じ Marketo へのアクセス権を持ちます。
 
 >[!MORELIKETHIS]
 >
