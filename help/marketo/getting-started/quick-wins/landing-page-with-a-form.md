@@ -4,9 +4,9 @@ description: フォームを含むランディングページ - Marketo ドキ�
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,27 +24,27 @@ ht-degree: 81%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. を選択します。 **学習** フォルダーを [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}。 「**新規**」で、「**新規プログラム**」をクリックします。
+1. **以前のクイックウィン**{target=&quot;_blank&quot;}で作成した[学習](/help/marketo/getting-started/quick-wins/send-an-email.md)フォルダーを選択します。「**新規**」で、「**新規プログラム**」をクリックします。
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. プログラムを入力 **名前**&#x200B;を選択し、 **チャネル**&#x200B;をクリックし、 **作成**.
+1. プログラム&#x200B;**名**&#x200B;を入力し、**チャネル**&#x200B;を選択して、「**作成**」をクリックします。
 
    ![](assets/landing-page-with-a-form-3.png)
 
    >[!TIP]
    >
-   >プログラム名の最後にイニシャルを含めて、一意の名前にします。
+   >プログラム名の最後にイニシャルを含めて、一意にします。
 
    >[!NOTE]
    >
-   >プログラムは、特定のマーケティングイニシアチブの 1 つです。**チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。また、 [独自のチャネルを作成する](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}。
+   >プログラムは、特定のマーケティングイニシアチブの 1 つです。**チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。[独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}を作成することもできます。
 
 これで完了です。プログラムを作成したら、次にコンテンツを作成します。
 
 ## 手順 2：フォームの作成 {#step-create-a-form}
 
-1. プログラムを選択した状態で、 **新規** ドロップダウンして「 」を選択します。 **新規ローカルアセット**.
+1. 選択したプログラムで、「**新規作成**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
 
    ![](assets/landing-page-with-a-form-4.png)
 
@@ -90,13 +90,13 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >フォームの入力後に訪問者がリダイレクトされるフォローアップページです。外部 URL は 1 つのオプションですが、他のオプションもあります。詳しくは、 [フォームの「ありがとうございます」ページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}。
+   >フォームの入力後に訪問者がリダイレクトされるフォローアップページです。外部 URL は 1 つのオプションですが、他のオプションもあります。[フォームのありがとうございましたページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}を参照してください。
 
 1. 「**終了**」をクリックします。
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -104,7 +104,7 @@ ht-degree: 81%
 
 ## 手順 3：ランディングページの作成とフォームの追加 {#step-create-a-landing-page-and-add-your-form}
 
-1. プログラムを選択した状態で、 **新規** ドロップダウンして「 」を選択します。 **新規ローカルアセット**.
+1. 選択したプログラムで、「**新規作成**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
 
    ![](assets/landing-page-with-a-form-15.png)
 
@@ -140,7 +140,7 @@ ht-degree: 81%
 
 ## 手順 4：ランディングページの承認 {#step-approve-your-landing-page}
 
-1. ランディングページを選択し、 **下書きの承認**.
+1. ランディングページを選択し、「**ドラフトを承認**」をクリックします。
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -176,8 +176,8 @@ ht-degree: 81%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 1：一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[ミッション 3：単純スコア ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[ミッション 3：シンプルなスコアリング ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
