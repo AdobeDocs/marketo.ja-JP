@@ -1,46 +1,46 @@
 ---
-description: ドキュメントカードの使用 — Marketoドキュメント — 製品ドキュメント
+description: ドキュメントカードの使用 - Marketo ドキュメント - 製品ドキュメント
 title: ドキュメントカードの使用
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
 source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 # ドキュメントカードの使用 {#using-the-document-card}
 
-ドキュメントカードを使用すると、ダイアログにPDFドキュメントを埋め込み、訪問者のドキュメントエンゲージメントアクティビティを追跡できます。 その設定方法を説明しましょう。
+ドキュメントカードを使用すると、ダイアログに PDF ドキュメントを埋め込み、訪問者のドキュメントエンゲージメントアクティビティを追跡できます。その設定方法を説明します。
 
-1. に移動します。 [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}。
+1. [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}に移動します。
 
-1. クリック **認証情報の取得**.
+1. 「**資格情報の取得**」をクリックします。
 
    ![](assets/using-the-document-card-1.png)
 
-1. 自分のAdobeアカウントにサインイン
+1. 自分のアドビアカウントにログインします。
 
    ![](assets/using-the-document-card-2.png)
 
-1. 資格情報を入力し、利用条件に同意して、 **資格情報を作成**.
+1. 資格情報を入力し、利用規約に同意して、「**資格情報を作成**」をクリックします。
 
    ![](assets/using-the-document-card-3.png)
 
    >[!IMPORTANT]
    >
-   >chatbot をホストするドメインを使用する必要があります（例：mycompany.com で chatbot をホストしている場合は、必ず手順 4 で入力してください）。
+   >ユーザは、チャットボットをホストするドメインを使用する必要があります（例：mycompany.com でチャットボットをホストする場合は、必ず手順 4 で入力してください）。
 
-1. クリック **コピー** をクリックして、クライアント ID をコピーします。
+1. 「**コピー**」をクリックして、クライアント ID をコピーします。
 
    ![](assets/using-the-document-card-4.png)
 
-1. Dynamic Chat に戻るには、 **統合**. 「 Adobe PDF Embed API 」カードで、 **有効化**.
+1. 動的チャットに戻り、「**統合**」をクリックします。Adobe PDF Embed API カードで、「**アクティベート**」をクリックします。
 
    ![](assets/using-the-document-card-5.png)
 
-1. クライアント ID を貼り付けて、 **保存**.
+1. クライアント ID を貼り付けて、「**保存**」をクリックします。
 
    ![](assets/using-the-document-card-6.png)
 
-これで、ダイアログの [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+これで、ダイアログの[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)で、ドキュメントカードを使用できます。
