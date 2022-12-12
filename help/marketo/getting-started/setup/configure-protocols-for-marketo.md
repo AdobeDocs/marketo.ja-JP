@@ -4,17 +4,17 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1046'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
 # Marketo のプロトコルの設定 {#configure-protocols-for-marketo}
 
-制限付きのファイアウォールまたはプロキシサーバー設定を使用している場合は、Adobe Marketo Engageが期待どおりに動作するよう許可リストに、ユーザーまたはネットワーク管理者が特定のドメインと IP アドレス範囲をする必要が生じる場合があります。
+お客様またはお客様の組織が制限的なファイアウォールまたはプロキシサーバー設定を使用している場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-## ブランドキャンペーンのランディングページとメール {#branded-campaign-landing-pages-and-emails}
+## ブランディングキャンペーンのランディングページとメール {#branded-campaign-landing-pages-and-emails}
 
 マーケティンググループが Marketo を使用して、ブランドキャンペーンのランディングページとメールを作成しています。これらのランディングページとメールが確実に機能するように、IT 部門の支援が必要です。次のプロトコルを、マーケティンググループからメールで送信された情報と共に設定してください。
 
@@ -36,7 +36,7 @@ ht-degree: 60%
 
 `1` **ランディングページ用の CNAME の追加**
 
-`[YourLandingPageCNAME]`が Marketo のランディングページに割り当てられた一意のアカウント文字列を指すように、DNS レコードに送信したランディングページ CNAME を追加します。ドメインレジストラのサイトにログインし、ランディングページの CNAME とアカウント文字列を入力します。 通常、これには 3 つのフィールドが含まれます。
+`[YourLandingPageCNAME]`が Marketo のランディングページに割り当てられた一意のアカウント文字列を指すように、DNS レコードに送信したランディングページ CNAME を追加します。ドメイン登録機関のサイトにログインし、ランディングページの CNAME とアカウント文字列を入力します。通常、これには 3 つのフィールドが含まれます。
 
 * エイリアス：`[YourLandingPageCNAME]` と入力します（マーケティングから提供）。
 * タイプ：CNAME
@@ -59,15 +59,15 @@ ht-degree: 60%
 
 このプロセスが完了したら、マーケティングチームに通知します。
 
-`4` **連絡先 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} :SSL 証明書のプロビジョニングプロセスを開始します。**
+`4`SSL 証明書のプロビジョニングプロセスを開始するには、**[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}にお問い合わせください**。
 
-このプロセスは、完了するまで最大 3 営業日かかる場合があります。
+プロセスが完了するまでに最大で 3 営業日かかります。
 
 ## 手順 2：Marketo IP の許可リスト {#step-allowlist-marketo-ips}
 
-Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、Marketo 許可リストにを追加します。
+Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、許可リストに Marketo を追加します。
 
-次の IP アドレスを会社の許可リストにを追加します。
+次の IP アドレスを会社の許可リストに追加します。
 
 199.15.212.0/22\
 192.28.144.0/20
@@ -78,7 +78,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 103.237.104.0/22\
 94.236.119.0/26
 
-一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。この場合の最善の方法は、「 」をすることで許可リストす。&#42;Marketoが複数のメールボックスサブドメインを使用するので、 .mktomail.com&#39;と呼ばれます。 その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「送信元」）ドメインを必ず含めてください。
+一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。Marketo は複数のメールボックスサブドメインを使用するため、このような場合の最善の方法は「&#42;.mktomail.com」を許可リストに追加することです。その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
 
 >[!NOTE]
 >
@@ -104,27 +104,27 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
    `[DKIMDomain2]`：ホストレコードが `[HostRecord2]` で、TXT 値が `[TXTValue2]` です。
 
-   次の手順を実行した後、設定した各 DKIMDomain の HostRecord と TXTValue をコピーします。 [こちらの説明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}。 IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
+   [こちらの手順に従って](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}、設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
 
 ## 手順 4：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
-MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既に設定済みの可能性があります。 そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
+MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 
-## 送信 IP アドレス {#outbound-ip-addresses}
+## アウトバウンド IP アドレス {#outbound-ip-addresses}
 
-アウトバウンド接続とは、ユーザーに代わって、Marketo Engageがインターネット上のサーバーに接続することです。 一部のパートナーやベンダーは、お客様自身の IT 組織と連携し、を使用してサーバーへのア許可リストクセスを制限する場合があります。 その場合は、Marketo Engageに追加する送信 IP アドレスブロックをユーザーに提供する必要があり許可リストます。
+アウトバウンド接続とは、Marketo Engage がお客様に代わってインターネット上のサーバーに接続するものです。取引先のパートナー／ベンダー、またはご自身の IT 組織では、サーバーへのアクセスを制限するために許可リストを使用する場合があります。その場合、Marketo Engage のアウトバウンド IP アドレスブロックを提供し、許可リストに追加してもらう必要があります。
 
-**Web フック**
+**Webhook**
 
-Marketo Engage [ウェブフック](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} は、アウトバウンドの統合メカニズムです。 When a [ウェブフックを呼び出す](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;} フローアクションは、スマートキャンペーンの一環として実行され、外部 Web サービスに対して HTTP リクエストが実行されます。 Web サービスパブリッシャーが、外部 Web サービスが存在するネットワークのファイアウォール上のを使用する場合許可リストは、パブリッシャーは、以下に示す IP アドレスブロックを自分のネットワークに追加する必要があ許可リストります。
+Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;}は、アウトバウンド統合メカニズムです。スマートキャンペーンの一環として、[Webhook の呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;}フローアクションが実行されると、外部 web サービスに HTTP リクエストが行われます。Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 **CRM 同期**
 
-Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} および [Microsoft Dynamics 同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} は、CRM ベンダーによって公開された API に対して送信 HTTP リクエストをおこなう統合メカニズムです。 IT 組織が以下の IP アドレスブロックをブロックして CRM ベンダー API にアクセスできないようにする必要があります。
+Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;}と [Microsoft Dynamics 同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;}は、CRM ベンダーが公開する API に対して、アウトバウンド HTTP リクエストを行う統合メカニズムです。お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
-**Marketo Engage送信 IP アドレスブロック**
+**Marketo Engage アウトバウンド IP アドレスブロック**
 
-以下の表は、発信呼び出しをおこなうすべてのMarketo Engageサーバーを示しています。 Marketo Engageからの発信接続を受け取る IP許可リスト、サーバー、ファイアウォール、アクセス制御リスト、セキュリティグループ、またはサードパーティのサービスを構成する場合は、次の一覧を使用します。
+次の表は、アウトバウンドコールを行うすべての Marketo Engage サーバーを対象としています。IP 許可リスト、サーバー、ファイアウォール、アクセス制御リスト、セキュリティグループ、またはサードパーティサービスが Marketo Engage からの発信接続を受信するように設定している場合は、以下のリストを使用します。
 
 <table>
  <tbody>
