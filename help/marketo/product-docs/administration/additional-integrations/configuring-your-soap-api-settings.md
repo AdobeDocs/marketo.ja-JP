@@ -4,9 +4,9 @@ description: SOAP API の設定 - Marketo ドキュメント - 製品ドキュ�
 title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. クリック **Web サービス**.
+1. 「**Web サービス**」をクリックします。
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 96%
 
 >[!CAUTION]
 >
->SOAP エンドポイントとユーザー ID は一意です。この記事のスクリーンショットを開発者に送信しないでください。
+>SOAP エンドポイントとユーザ ID は一意です。この記事のスクリーンショットを開発者に送信しないでください。
 
 >[!MORELIKETHIS]
 >
