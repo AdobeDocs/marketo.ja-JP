@@ -4,9 +4,9 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '500'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 89%
 
 ## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
 
-1. まず、プラクティスのスプレッドシートファイル ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) をコンピューターに送信します。
+1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}）を PC にダウンロードしてください。
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -62,7 +62,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->イベントプログラムは特定の日に発生します。詳細情報： [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}。
+>イベントプログラムは特定の日に発生します。詳しくは、[**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}を参照してください。
 
 ## 手順 3：スプレッドシートを Marketo に読み込む {#step-import-your-spreadsheet-into-marketo}
 
@@ -70,7 +70,7 @@ ht-degree: 89%
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. 選択 **リスト**.
+1. **リスト**&#x200B;を選択します。
 
    ![](assets/import-a-list-of-people-8.png)
 
@@ -109,7 +109,7 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻って [作成する](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} を使用して、これらをオプションにすることができます。
+   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}します。
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ ht-degree: 89%
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. ユーザーが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
+1. ユーザが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
 
    ![](assets/import-a-list-of-people-14.png)
 
@@ -129,13 +129,13 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。詳細情報： [**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}。
+>プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。詳しくは、[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}を参照してください。
 
 ## ミッション完了 {#mission-complete}
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
