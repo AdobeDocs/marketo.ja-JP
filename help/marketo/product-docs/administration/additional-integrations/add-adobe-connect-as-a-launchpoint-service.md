@@ -4,9 +4,9 @@ description: Adobe Connect を LaunchPoint サービスとして追加 - Marketo
 title: Adobe Connect を LaunchPoint サービスとして追加
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Marketo は、Adobe Connect のウェビナー登録と参加を管理します�
 
 >[!NOTE]
 >
->この手順では、Adobe Connect の既存の購読と管理権限が必要です。次の設定を手元に用意しておきます。ユーザー名、パスワード、参加者のパスワード、会議フォルダーの URL。
+>この手順では、Adobe Connect の既存の購読と管理権限が必要です。次の設定を手元に用意しておきます。ユーザ名、パスワード、参加者のパスワード、会議フォルダーの URL。
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo は、Adobe Connect のウェビナー登録と参加を管理します�
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. 「**ユーザー名**」と「**アクセスコード**」を入力します。
+1. 「**ユーザ名**」と「**アクセスコード**」を入力します。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
@@ -64,4 +64,4 @@ Adobe Connect サービスが Marketo と同期されました。
 
 >[!MORELIKETHIS]
 >
->方法を学ぶ [Adobe Connectでイベントを作成する](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target=&quot;_blank&quot;}。
+>[Adobe Connect でイベントを作成する方法](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target=&quot;_blank&quot;}を参照してください。
