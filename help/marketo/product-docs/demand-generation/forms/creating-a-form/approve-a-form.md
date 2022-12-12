@@ -4,9 +4,9 @@ description: フォームの承認 - Marketo ドキュメント - 製品ドキ�
 title: フォームの承認
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 
 準備が整った既存のフォームを承認する方法を次に示します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -38,7 +38,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >承認後に行った変更は、埋め込みフォームで更新されるまで数分かかる場合があります。
+   >承認後に行った変更は、埋め込みフォームで更新されるまでに数分かかる場合があります。
 
 ## エディターからのフォームの承認 {#approve-a-form-from-the-editor}
 
