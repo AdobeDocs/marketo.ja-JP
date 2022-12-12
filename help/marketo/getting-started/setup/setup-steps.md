@@ -4,24 +4,24 @@ description: 設定手順 - Marketo ドキュメント - 製品ドキュメン�
 title: 設定手順
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2085'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # 設定手順 {#setup-steps}
 
-**Marketo Engage へようこそ!**
+**Marketo Engage へようこそ！**
 
 Marketo を使用する前に、いくつかの手順を完了する必要があります。
 
 次の手順が含まれます。
 
-* 基本的なアカウント設定
-* 信頼性と配信品質を向上させるためのランディングページ URL と電子メールリンクのブランディング
-* CRM を同期中
-* 会社の Web サイトへのトラッキングコードの追加
+* いくつかの基本的なアカウント設定
+* ランディングページの URL とメールリンクのブランディングによる信頼性と配信品質の向上
+* CRM の同期
+* 会社の web サイトへのトラッキングコードの追加
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 >[!TIP]
 >
->次の場合、 [このチェックリストを印刷する](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}。項目を完了したら、項目をオフにすることができます。
+>[このチェックリストを印刷する](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}と、チェックを入れて完了を確認することができます。
 
-## ログインして追加の Marketo ユーザーを作成する {#log-in-and-create-additional-marketo-users}
+## ログインして追加の Marketo ユーザを作成する {#log-in-and-create-additional-marketo-users}
 
-1. Marketoにログイン [ここ](https://app.marketo.com/){target=&quot;_blank&quot;} （電子メールで受け取った資格情報を使用）
+1. メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target=&quot;_blank&quot;}から Marketo にログインします。
 
    ![](assets/setup-steps-1.png)
 
-これで完了です。今Marketoにいて、探索を開始できます。 マーケティングチームの同僚を招待して参加させるには、新しいユーザーを追加します。
+これで完了です。Marketo で探索を開始できます。マーケティングチームの同僚を招待して参加させるには、新しいユーザを追加します。
 
 「**管理者**」領域に移動します。
 
@@ -53,57 +53,57 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 >
 >**管理者権限が必要**
 
-「**ユーザーと役割**」をクリックします。
+「**ユーザ＆ロール**」をクリックします。
 
 ![](assets/setup-steps-3.png)
 
-「**新しいユーザーを招待**」をクリックします。
+「**新しいユーザを招待**」をクリックします。
 
 ![](assets/setup-steps-4.png)
 
-同僚のメールアドレス、名、姓を入力します。 _アクセスの有効期限の設定はオプションです_. 「**次へ**」をクリックします。
+同僚のメールアドレス、氏名を入力します。_アクセスの有効期限の設定はオプションです_。「**次へ**」をクリックします。
 
 ![](assets/setup-steps-5.png)
 
 >[!TIP]
 >
->有効期限は、Marketoへのアクセスを短期間のみ必要とする、短期間の外部の関係者またはコンサルタントに最適です。
+>有効期限は、Marketo に短期間のみアクセスする必要がある、短期間の外部の関係者やコンサルタントに最適です。
 
 >[!NOTE]
 >
->有効期限に達すると、ユーザーは有効期限通知を受け取り、アカウントがロックされます。
+>有効期限が来ると、ユーザは有効期限通知を受け取り、アカウントがロックされます。
 
-役割を選択し、「**次へ**」をクリックします。標準ユーザーは、管理者領域を除くすべての領域にアクセスできます。
+ロールを選択し、「**次へ**」をクリックします。標準ユーザは、管理者領域を除くすべての領域にアクセスできます。
 
 ![](assets/setup-steps-6.png)
 
 >[!NOTE]
 >
->5 つの組み込みの役割に加えて、カスタムの役割を作成することもできます。詳細情報： [ユーザーの役割と権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}。
+>5 つの組み込みのロールに加えて、カスタムのロールを作成することもできます。詳しくは、[ユーザロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}を参照してください。
 
 招待のテキストは自由に変更できます。「**送信**」をクリックします。
 
 ![](assets/setup-steps-7.png)
 
-新しいユーザーが「ユーザー」タブに表示され、ユーザーは、パスワードとログインを作成するためのリンクが記載されたメールを受け取ります。次の手順へ進みます。
+新しいユーザが「ユーザ」タブに表示され、ユーザは、パスワードとログインを作成するためのリンクが記載されたメールを受け取ります。次の手順へ進みます。
 
 ![](assets/setup-steps-8.png)
 
-## 認証済みのサポート連絡先を設定する {#set-up-your-authorized-support-contacts}
+## 認証済みのサポート取引先責任者を設定する {#set-up-your-authorized-support-contacts}
 
-Marketo サポートから、ご自身が自社の Marketo カスタマーサポート管理者であることを示すメールを受け取っている可能性があります。その場合は、ご自身のチームに&#x200B;**認証済みのサポート連絡先**&#x200B;を設定できます。認証済みのサポート担当者のみが、 [Marketo Support Portal](https://support.marketo.com){target=&quot;_blank&quot;}。
-
->[!NOTE]
->
->作成できるサポート連絡先の数は、購入したパッケージによって異なります。この制限は、Marketo サポートからメールで指定されます。
-
-認証済みサポート連絡先ドキュメントは、Marketo コミュニティに移動しました。詳しくは、 [この記事](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}。
+Marketo サポートから、ご自身が自社の Marketo カスタマーサポート管理者であることを示すメールを受け取っている可能性があります。その場合は、ご自身のチームに&#x200B;**認証済みのサポート取引先責任者**&#x200B;を設定できます。認証済みのサポート取引先責任者のみが、[Marketo サポートポータル](https://support.marketo.com){target=&quot;_blank&quot;}を使用して、直接 Marketo カスタマーサポートに問い合わせることができます。
 
 >[!NOTE]
 >
->Marketo コミュニティにログインしたユーザーのみがリストに表示されます。ユーザーが見つからない場合は、最初にコミュニティにログインしてください。
+>作成できるサポート取引先責任者の数は、購入したパッケージによって異なります。この制限は、Marketo サポートからメールで指定されます。
 
-## CNAME を使用したランディングページ URL をカスタマイズ {#customize-your-landing-page-urls-with-a-cname}
+認証済みサポート取引先責任者ドキュメントは、Marketo コミュニティに移動しました。詳しくは、[この記事](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}を参照してください。
+
+>[!NOTE]
+>
+>Marketo コミュニティにログインしたユーザのみがリストに表示されます。ユーザが見つからない場合は、最初にコミュニティにログインしてください。
+
+## CNAME を使用したランディングページ URL のカスタマイズ {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -125,7 +125,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 最初の部分（太字）が `[LandingPageCNAME]` です。手順 5 で必要になります。
 
-ランディングページ CNAME に置き換えるアカウント文字列を取得するには、「管理者」領域に移動します。
+ランディングページ CNAME に置き換えるアカウント文字列を取得するには、管理者領域に移動します。
 
 ![](assets/setup-steps-9.png)
 
@@ -139,7 +139,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 これが `[AccountString]`.です。保存します。これは、手順 5 で IT チームに渡す必要があります。
 
-ランディングページが（ホストされている場所で）Marketoドメインではなく、お客様の会社のドメインを使用するように、ドメイン設定を指定します。
+ランディングページが（ホストされている場所で）Marketo ドメインではなく、自社のドメインを使用するように、ドメイン設定を指定します。
 
 ## メールの配信品質を確保する {#ensure-email-deliverability}
 
@@ -149,25 +149,25 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 メールができるだけ多くの人に届くように、いくつかの方法が用意されています。
 
-* **トラッキングリンクのブランディング**. Marketoからの E メールに含めるリンクに、(Marketoドメインではなく ) 独自のドメインを使用する CNAME を選択できます。 これにより、ドメインのブランディングが強化され、受信者との信頼と配信品質が向上します。
-* **Marketoを会社の E メールに追加し許可リストます。** 実際の担当者に E メールを送信する前に、テストアカウントにテスト E メールを送信するのが一般的なベストプラクティスです。 Marketo を許可リストに加えることで、これらのテストメールがブロックされたりスパムとしてフラグ付けされたりするのを防ぐことができます。
-* **SPF と DKIM を設定します。** これらのテクノロジーは、Marketoの E メールがスパムでないことを受信者に保証します。 受信者のスパムフィルターによるMarketo E メールの拒否を防ぐには、次の手順に従います。 [E メール配信品質の SPF と DKIM の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動応答を処理するために、電子メールを送信元のドメインにメールを受け取ることができます。 会社ドメインから送信する場合は、既に設定済みの可能性があります。 そうでない場合は、通常、会社ドメインの MX レコードにマッピングするようにを設定できます。
-* **送信元アドレスの推奨設定。** すべての電子メールキャンペーンの送信元アドレスに、有効な既存の電子メールドメインと動作中の電子メールドメインを使用する必要があります。 会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、 `something@nonexistentdomain.com` は、電子メールをフィルターまたはブロックします。 送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
+* **トラッキングリンクのブランディング**。Marketo からのメールに含めるリンクに、（Marketo ドメインではなく）独自のドメインを使用する CNAME を選択できます。これにより、ドメインのブランディングが強化され、受信者との信頼と配信品質が向上します。
+* **Marketo を自社のメール許可リストに追加します。**&#x200B;実際の人々にメールを送信する前に、テストアカウントにテストメールを送信するのが一般的なベストプラクティスです。Marketo を許可リストに加えることで、これらのテストメールがブロックされたりスパムとしてフラグ付けされたりするのを防ぐことができます。
+* **SPF と DKIM を設定します。**&#x200B;これらのテクノロジーは、Marketo のメールがスパムではないことを受信者に保証するものです。受信者のスパムフィルターによる Marketo メールの拒否を防ぐには、次の手順に従って[メールの配信品質に SPF と DKIM を設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)します。
+* **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
+* **送信元アドレスの推奨設定。**&#x200B;すべてのメールキャンペーンの送信元アドレスに、有効な既存メールドメインと動作中のメールドメインを使用する必要があります。会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、`something@nonexistentdomain.com` からメールを送信すると、メールがフィルターされたりブロックされたりします。送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
 
-Googleアプリを使用して会社の E メールをホストしている場合、お使いのドメインで abuse@や postmaster@の E メールを作成することはできません。 この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。 このグループのメンバーであるユーザーは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、 [ここ](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}。
+Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、[ここ](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}を参照してください。
 
 メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。次に例を示します。
 
 * go2.[CompanyDomain].com
 * em.[CompanyDomain].com
-* うわぁ。[CompanyDomain].com
+* wow.[CompanyDomain].com
 
 最初の部分は、メールトラッキング CNAME `[EmailTrackingCNAME]` です。これは、手順 5 で IT チームに渡す必要があります。
 
 >[!CAUTION]
 >
->電子メールとランディングページの CNAME は別にする必要があります。また、「track」や「link」などの CNAME は使用しないでください。 多くの場合、スパムとしてフラグ付けされます
+>電子メールとランディングページの CNAME は別にする必要があります。また、「track」や「link」といった CNAME は使用しないでください。多くの場合、スパムとしてフラグ付けされます
 
 Marketo のトラッキングリンクを確認するには、「**管理者**」領域に移動します。
 
@@ -197,7 +197,7 @@ Marketo のトラッキングリンクを確認するには、「**管理者**�
 >
 >Launch Pack をご利用の場合は、この手順をスキップできます。初回コール時に、担当のコンサルタントが IT セットアップ手順書を提供します。
 
-必要な情報をすべて収集したら、IT にリクエストを送信する準備が整います。 以下のテキストをテンプレートとして使用し、太字のテキストを独自の情報に置き換えることができます。
+必要な情報をすべて収集したら、IT チームにリクエストを送信する準備が整いました。以下のテキストをテンプレートとして使用し、太字のテキストを独自の情報に置き換えることができます。
 
 [この記事へのリンクを含める](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)。
 
@@ -238,7 +238,7 @@ IT 管理者様
 
 >[!NOTE]
 >
->ご使用の環境に合わせた IP の短縮リストをMarketoする場合は、サポートにお問い合わせくだ許可リストさい。
+>ご使用の環境に合わせた IP の短縮リストを希望する場合は、Marketo サポートにお問い合わせください。
 
     * スパム対策システムで送信元ドメインが使用されている場合は、次のドメインを追加してください。
 
@@ -252,7 +252,7 @@ IT 管理者様
 IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
 <br/>include: mktomail.com ~all
 
-DNS エントリに既に SPF レコードが存在する場合は、次のコードを追加してください。
+DNS エントリに既に SPF レコードが存在する場合は、次のコードを追加します。
 
 include: mktomail.com
 
@@ -306,7 +306,7 @@ IT チームが作業を完了したら、次の手順に従ってランディ�
 
 ![](assets/setup-steps-19.png)
 
-下にスクロールして「ブランディングドメイン」を表示します。 ドメインを選択し、 **編集**.
+下にスクロールして、ブランディングドメインを表示します。ドメインを選択し、「**編集**」をクリックします。
 
 ![](assets/setup-steps-20.png)
 
@@ -318,7 +318,7 @@ IT チームが作業を完了したら、次の手順に従ってランディ�
 
 ## CRM を統合する {#integrate-your-crm}
 
-これはおそらく、お客様の設定の最もエキサイティングなステップです — CRM に保存したすべてのリードと連絡先をMarketoに埋め込む時間です！
+これはおそらく、設定の最もエキサイティングな手順です。CRM に保存したすべてのリードと取引先責任者を Marketo に取り込みます。
 
 会社が使用している CRM に応じて、次の中から選択します。
 
@@ -335,7 +335,7 @@ IT チームが作業を完了したら、次の手順に従ってランディ�
 >
 >Launch Pack をご利用の場合は、この手順をスキップできます。担当のコンサルタントが、IT セットアップ手順ドキュメントに Munchkin コード手順を提供します。
 
-Marketo には、任意の web ページ上のユーザーアクティビティのトラッキングに使用できるカスタムトラッキング JavaScript（Munchkin と呼ばれます）が用意されています。Web サイトを Marketo に統合するには、Munchkin が必要です。次の手順に従って、 [Web サイトへの Munchkin 追跡コードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}。
+Marketo には、任意の web ページ上のユーザアクティビティのトラッキングに使用できるカスタムトラッキング JavaScript（Munchkin と呼ばれます）が用意されています。Web サイトを Marketo に統合するには、Munchkin が必要です。次の手順に従って、[web サイトに Munchkin トラッキングコードを追加します](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >
@@ -343,6 +343,6 @@ Marketo には、任意の web ページ上のユーザーアクティビティ�
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketoのパフォーマンスに関して期待できる点は何ですか？ マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。 ただし、「標準」列で説明されているとおり、パフォーマンスレベルは、「 [Marketo Engage製品の説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}。 「パフォーマンス」列と「パフォーマンスプラス」列は、 [高いパフォーマンスレベル](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}。
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。それでも、[Marketo Engage 製品説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target=&quot;_blank&quot;}にあるいくつかの表の「標準」列で説明されているものと同等のパフォーマンスレベルを期待できます。「パフォーマンス」列と「パフォーマンスプラス」列は、[高いパフォーマンスレベル](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}を提供するパフォーマンスティアパッケージを示します。
 
-すべての設定手順が完了しました。あとは、Marketoに飛び込んで使うことだけ！
+すべての設定手順が完了しました。さっそく Marketo を使用してみましょう。
