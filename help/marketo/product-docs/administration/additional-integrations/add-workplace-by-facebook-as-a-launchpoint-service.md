@@ -4,9 +4,9 @@ description: Facebook による Workplace を LaunchPoint サービスとして�
 title: Facebook による Workplace を LaunchPoint サービスとして追加
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Workplace 統合には、次の 2 つの通知タイプが含まれます。
 
 >[!PREREQUISITES]
 >
->Workplace 通知が有効になっていない場合は、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}。
+>Workplace 通知が有効になっていない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}にお問い合わせください。
 
 1. 「**管理者**」領域に移動します。
 
@@ -41,7 +41,7 @@ Workplace 統合には、次の 2 つの通知タイプが含まれます。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
-1. システム通知や注目のアクションを受け取るには、オプションをそのままにしておきます。 「**作成**」をクリックします。
+1. システム通知や注目のアクションを受け取るには、オプションをそのままにしておきます。「**作成**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
@@ -49,7 +49,7 @@ Workplace 統合には、次の 2 つの通知タイプが含まれます。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. 新しい「Workplace」タブで、ビジネスメールまたは Workplace のユーザー名を入力し、「**続行**」をクリックします。
+1. 新しい「Workplace」タブで、ビジネスメールまたは Workplace のユーザ名を入力し、「**続行**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
 
