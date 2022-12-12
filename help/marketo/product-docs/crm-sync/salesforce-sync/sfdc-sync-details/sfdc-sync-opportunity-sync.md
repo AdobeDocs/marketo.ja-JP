@@ -4,13 +4,13 @@ description: SFDC の同期 - 商談の同期 - Marketo ドキュメント - 製
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
 ht-degree: 100%
 
 ---
 
-# SFDC の同期：商談の同期 {#sfdc-sync-opportunity-sync}
+# SFDC 同期：商談の同期 {#sfdc-sync-opportunity-sync}
 
 ## 2 つのシステム間で商談の詳細を同期させる方法を教えてください。 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -28,11 +28,11 @@ ht-degree: 100%
 
 いいえ。Marketo では 1 つの通貨のみをサポートしています。商談額は Salesforce から同期されますが、通貨は Marketo サブスクリプションの[デフォルトの通貨](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)になります。
 
-## Marketo は商談額と連絡先をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
+## Marketo は商談額と取引先責任者をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo は、[商談連絡先のロール](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)を使用して商談と連絡先を関連付けます。連絡先の役割が割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。例えば、「Has Opportunity」フィルターは認定されません。
+Marketo は、[商談取引先責任者のロール](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)を使用して商談と取引先責任者を関連付けます。取引先責任者のロールが割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。例えば、「Has Opportunity」フィルターは認定されません。
 
-## ユーザーのすべての商談を表示するにはどうすればいいですか。 {#how-can-i-see-all-the-opportunities-of-a-person}
+## ユーザのすべての商談を表示するにはどうすればいいですか。 {#how-can-i-see-all-the-opportunities-of-a-person}
 
 商談のリストは、[個人の詳細](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ページの「**商談情報**」タブで表示できます。
 
