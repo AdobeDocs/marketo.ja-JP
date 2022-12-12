@@ -4,9 +4,9 @@ description: アカウントプロファイリングの設定 - Marketo ドキ�
 title: アカウントプロファイリングの設定
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 83%
 
    ![](assets/three.png)
 
-1. モデルに名前を付け、理想的な顧客プロファイル (ICP) の基礎となる担当者のリストタイプまたはリストを選択します。 終了したら、「**モデルを作成**」をクリックします。
+1. モデルに名前を付け、理想的な顧客プロファイル（ICP）の基礎となる人物のリストタイプまたはリストを選択します。終了したら、「**モデルを作成**」をクリックします。
 
    ![](assets/setting-up-account-profiling-4.png)
 
