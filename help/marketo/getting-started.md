@@ -4,29 +4,29 @@ description: はじめに - Marketo ドキュメント - 製品ドキュメン�
 title: はじめに
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # はじめに {#getting-started}
 
-## Adobe Marketo Engageとは {#what-is-marketo-engage}
+## Adobe Marketo Engage とは {#what-is-marketo-engage}
 
-Marketo Engageとは？ 素晴らしい質問です。
+Marketo とは何でしょうか。素晴らしい質問です。
 
-[学習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[Marketo Engage を学ぶ](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## セットアップ {#get-set-up}
+## セットアップを行う {#get-set-up}
 
 IT チームから少々支援を受けることで、すぐに完了できます。
 
-[設定を開始](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[セットアップを開始する](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## すぐに勝つ {#get-some-quick-wins}
+## すばやく成果を獲得 {#get-some-quick-wins}
 
-Marketo Engageの主な機能を学ぶには、以下のミッションを完了してください。
+Marketo Engage の主な機能を学ぶには、以下のミッションを完了します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,4 +124,4 @@ Marketo Engageの主な機能を学ぶには、以下のミッションを完了
 
 ## 手順 4 おめでとうございます！Nation に参加する準備は万全です  {#congrats-youre-ready-for-the-nation}
 
-以下を確認します。 [Marketing Nation](https://nation.marketo.com){target=&quot;_blank&quot;}!
+[Marketing Nation](https://nation.marketo.com){target=&quot;_blank&quot;} をご確認ください。
