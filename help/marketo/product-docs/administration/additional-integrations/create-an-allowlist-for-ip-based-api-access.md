@@ -4,9 +4,9 @@ description: IP ベースの API アクセス用の許可リストの作成 - Ma
 title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 97%
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. クリック **Web サービス**.
+1. 「**Web サービス**」をクリックします。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
