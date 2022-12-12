@@ -4,9 +4,9 @@ description: Webhook の作成 - Marketo ドキュメント - 製品ドキュメ
 title: Webhook の作成
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '210'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Webhook を使用すると、サードパーティの web サービスを活用�
 
    ![](assets/create-a-webhook-1.png)
 
-1. クリック **ウェブフック**.
+1. 「**Webhook**」をクリックします。
 
    ![](assets/create-a-webhook-2.png)
 
@@ -38,7 +38,7 @@ Webhook を使用すると、サードパーティの web サービスを活用�
    >
    >多くの場合、使用するサードパーティのサービス証明書を、URL パラメーターまたは POST テンプレートとして入力します。
 
-   * **URL**:Web サービスへのリクエストで使用する URL を入力します。 リードのメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**トークンを挿入**」をクリックします。
+   * **URL**：Web サービスに対するリクエストで使用する URL を入力します。リードのメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**トークンを挿入**」をクリックします。
 
    * **テンプレート**：POST の本文で情報を送信する場合は、テンプレートを入力します。XML、JSON、SOAP など、HTTP POST をサポートする任意のデータ形式を使用します。テンプレートにトークンを挿入するには、「**トークンを挿入**」をクリックします。
 
@@ -46,7 +46,7 @@ Webhook を使用すると、サードパーティの web サービスを活用�
 
    * **応答タイプ**：サービスから受け取る応答の形式（**JSON** または **XML**）を選択します。
 
-   * **リクエストタイプ**:使用する HTTP メソッド (DELETE、GET、PATCH、POST、PUT) を選択します。
+   * **リクエストタイプ**：使用する HTTP メソッド（DELETE、GET、PATCH、POST、PUT）を選択します。
 
 1. 「**作成**」をクリックします。
 
