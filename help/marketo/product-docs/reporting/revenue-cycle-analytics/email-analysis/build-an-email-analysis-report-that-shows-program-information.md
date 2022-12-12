@@ -4,9 +4,9 @@ description: プログラム情報を示すメール分析レポートの作成 
 title: プログラム情報を示すメール分析レポートの作成
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 91%
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. クリック **新規作成** を選択し、 **レポート**.
+1. 「**新規作成**」をクリックし、「**レポート**」を選択します。
 
    ![](assets/report-that-shows-program-information-2.png)
 
