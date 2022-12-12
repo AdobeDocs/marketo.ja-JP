@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949467
-description: Adobe Marketo Engage とは- Marketo ドキュメント — 製品ドキュメント
+description: Adobe Marketo Engage とは- Marketo ドキュメント - 製品ドキュメント
 title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 * お使いの CRM との同期（Salesforce または Dynamics）
 * Web サイト統合
 * ワークフローエンジン
-* ユーザースコア
+* ユーザスコア
 * セール担当者向け CRM 内ダッシュボード
 * プログラム分析
 * ターゲットアカウント管理
@@ -43,10 +43,10 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 ## 何か設定が必要ですか？ {#do-i-need-to-do-any-setup}
 
-はい、 [行うべき事項のチェックリスト](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}。
+はい、[するべきことのチェックリスト](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}があります。
 
 ## 学習を完了するまで設定を待たなければなりませんか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-いいえ。簡単なチュートリアルがたくさんあります。[ここから始める](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}。 所要時間は 1 時間ほどです。いつでも開始できます。
+いいえ。簡単なチュートリアルがたくさんあります。[ここから始める](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}。所要時間は 1 時間ほどです。いつでも開始できます。
 
 Marketo Engage へようこそ! ご訪問ありがとうございます。
