@@ -3,9 +3,9 @@ description: Salesforce に通話理由と通話結果を記録 - Marketo ドキ
 title: Salesforce に通話理由と通話結果を記録
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '467'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 * 通話の結果フィールド名：mktosales_call_outcome
 * 通話理由フィールド名：mktosales_call_reason
 
-これらのフィールドを利用するには、まず、カスタムアクティビティフィールドとしてフィールドを作成する必要があります。ユーザーに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
+これらのフィールドを利用するには、まず、カスタムアクティビティフィールドとしてフィールドを作成する必要があります。ユーザに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
 
 ## Salesforce Classic {#salesforce-classic}
 
@@ -26,7 +26,7 @@ ht-degree: 92%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
-1. クイック検索ボックスに&quot;Activitys&quot;と入力します。
+1. クイック検索ボックスに「アクティビティ」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
@@ -56,7 +56,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >Sales Connect ユーザーが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
+   >Sales Connect ユーザが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
 
 1. フィールドを追加するページレイアウトを選択し、「**保存**」をクリックします（オプションで、「**保存して新規作成**」をクリックし、「通話理由」フィールドに対してこのプロセスを繰り返すことができます）。
 
@@ -72,7 +72,7 @@ ht-degree: 92%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
-1. [ クイック検索 ] ボックスに&quot;タスク&quot;と入力します。
+1. クイック検索ボックスに「タスク」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
@@ -104,15 +104,15 @@ ht-degree: 92%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. クイック検索ボックスに&quot;Activity&quot;と入力します。
+1. クイック検索ボックスに「アクティビティ」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 次をクリック： **アクティビティ** ラベル
+1. 「**アクティビティ**」ラベルをクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. クリック **フィールドと関係**.
+1. 「**フィールドと関係**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
@@ -130,7 +130,7 @@ ht-degree: 92%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. [ クイック検索 ] ボックスに&quot;タスク&quot;と入力します。
+1. クイック検索ボックスに「タスク」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
