@@ -4,9 +4,9 @@ description: 注目のアクションの使用 - Marketo ドキュメント - �
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '450'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 92%
 
 ## 注目のアクションは、Salesforce でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketo Sales Insight アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、連絡先、アカウント、または商談ページに表示されます。また、Sales Insight ダッシュボードで、「リードフィード」、「最有望見込客」、「ウォッチリスト」にも表示されます。
+[Marketo Sales Insight アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。また、Sales Insight ダッシュボードで、「リードフィード」、「最有望見込客」、「ウォッチリスト」にも表示されます。
 
 ![](assets/using-interesting-moments-6.png)
 
@@ -88,6 +88,6 @@ Marketo Sales Insight for Salesforce1 をインストールまたは更新する
 
 >[!NOTE]
 >
->注目のアクションのタイプまたは説明を購読する場合、ユーザーは、そのタイプまたは説明に一致する注目のアクションをトリガーする際に、所有する人（リード/連絡先）に関する電子メール通知を受け取ります。
+>注目のアクションのタイプまたは説明を購読する場合、ユーザは、そのタイプまたは説明に一致する注目のアクションをトリガーする際に、所有する人（リード／取引先責任者）に関するメール通知を受け取ります。
 
 ![](assets/using-interesting-moments-8.png)
