@@ -1,11 +1,11 @@
 ---
-description: プライバシー管理 — Marketo ドキュメント — 製品ドキュメント
+description: プライバシー管理 - Marketo ドキュメント - 製品ドキュメント
 title: プライバシー管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '409'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -15,13 +15,13 @@ Marketo Engage は、プライバシー規制を遵守するのに役立つ一�
 
 >[!NOTE]
 >
->Marketo Engage用にPrivacy ServiceUI または API を通じて送信されたプライバシーリクエストは、次に示す場合にのみ適用されます。
+>Marketo Engage 用に Privacy Service UI または API を通じて送信されたプライバシーリクエストは、次に示す場合にのみ適用されます。
 >
->* Marketo EngageIdentity ManagementシステムにオンボーディングしたAdobeユーザー
+>* Adobe Identity Management システムにオンボーディングした Marketo Engage ユーザ
 >
->**-or-**
+>**- または -**
 >
->* AdobeIdentity Managementシステムに既に存在する別のExperience Cloud製品 (RT-CDP、B2B および B2P エディション、Audience Managerなど ) を使用するMarketo Engageユーザー。
+>* Adobe Identity Management システムに既に存在する別の Experience Cloud 製品（RT-CDP、B2B および B2P エディション、Audience Manager など）を使用する Marketo Engage ユーザ。
 
 
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
