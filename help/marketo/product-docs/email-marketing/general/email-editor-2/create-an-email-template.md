@@ -4,9 +4,9 @@ description: メールテンプレートを作成する - Marketo ドキュメ�
 title: メールテンプレートを作成する
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->Marketo サポートは、カスタム HTML のトラブルシューティングについては対応できません。HTML のサポートについては、Web 開発者にご相談ください。
+>Marketo サポートは、カスタム HTML のトラブルシューティングについては対応できません。HTML のサポートについては、web 開発者にご相談ください。
 
 >[!CAUTION]
 >
->使用するエディターでは、color および background-color の CSS プロパティの値が小文字に変換されるので、キャメルケースを使用せず、代わりに小文字の名前やハイフンを使用してください。
+>使用するエディターでは、color および background-color の CSS プロパティ値が小文字に変換されるので、キャメルケースを使用せず、代わりに小文字の名前やハイフンを使用してください。
 
 ## メールテンプレートを新規作成する {#create-a-new-email-template}
 
