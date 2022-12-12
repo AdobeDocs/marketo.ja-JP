@@ -3,9 +3,9 @@ description: Velocity スクリプティングのカスタムオブジェクト�
 title: Velocity スクリプティングでのカスタムオブジェクト取得制限の変更
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,9 +15,9 @@ Velocity スクリプトを使用してメールにカスタムオブジェク�
 
 ## Velocity とは {#what-is-velocity}
 
-[Apache Velocity](https://velocity.apache.org/) は、テンプレート化とスクリプティングHTMLコンテンツの作成に使用する Java で構築された言語です。 Marketo では、[スクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)の使用を通じて、メールのコンテキストで使用できます。これにより、カスタムオブジェクトに保存されたデータにアクセスできます。
+[Apache Velocity](https://velocity.apache.org/) は、テンプレート化とスクリプティング HTML コンテンツの作成に使用する Java で構築された言語です。Marketo では、[スクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)の使用を通じて、メールのコンテキストで使用できます。これにより、カスタムオブジェクトに保存されたデータにアクセスできます。
 
-リードや連絡先に直接接続されているが、第 3 レベルのカスタムオブジェクトには接続していない、親および子のカスタムオブジェクトを参照できます。各カスタムオブジェクトに対して、人物／連絡先ごとの最近更新された 10 個のレコードが実行時に使用可能で、最新の更新（0 番目）から最も古い更新（9 番目）まで順番に並べられます。
+リードや取引先責任者に直接接続されているが、第 3 レベルのカスタムオブジェクトには接続していない、親および子のカスタムオブジェクトを参照できます。各カスタムオブジェクトに対して、人物／取引先責任者ごとの最近更新された 10 個のレコードが実行時に使用可能で、最新の更新（0 番目）から最も古い更新（9 番目）まで順番に並べられます。
 
 ## 制限の変更方法 {#how-to-change-the-limit}
 
