@@ -2,10 +2,10 @@
 description: Adobe Identity Management の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
-workflow-type: ht
-source-wordcount: '1065'
-ht-degree: 100%
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+workflow-type: tm+mt
+source-wordcount: '1068'
+ht-degree: 94%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 2022年2月15日（PT）現在、Adobe Marketo Engage の新しいアカウント（既存のアカウントの新しいインスタンスではなく、新しいアカウント）をお持ちの場合、購入した製品パッケージに応じて、Adobe Identity Management システムと統合される場合があります。既に持っているかどうかを確認するには、Marketo 管理者またはアカウントのカスタマーサクセスマネージャーにお問い合わせください。
 
-既存の Marketo サブスクリプションは、今年後半から Adobe Identity Management システムに移行されます。
+既存のMarketoサブスクリプションは、2023 年後半にAdobeIdentity Managementシステムへの移行を開始します。
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 * アドビ製品管理者のロールは、Adobe Admin Console で製品管理者として追加されたユーザに付与されます。
 * アドビ製品管理者のロールは読み取り専用で、Marketo Engage から編集または削除することはできません。
 * アドビ製品管理者は、標準の Marketo 管理者と同じ権限を持っています。
-* Marketo Engage 管理者のロールは、引き続き管理者で、Marketo Engage でユーザに付与されます。
+* Marketo Engage管理者の役割は、引き続き管理者で、ユーザーに付与されます。Marketo Engage。
 
 **User Management API クライアントのサポートに何か変更はありますか？**
 
@@ -113,11 +113,11 @@ Adobe ID に転送されたユーザは、製品の購読切り替えボタン�
 
 **デバイス認証はどのように機能しますか？**
 
-Adobe IMS は、現在、Marketo のデバイス認証機能などをサポートしていません。
+Adobe IMSは、現在、Marketoのデバイス認証機能などをサポートしていません。
 
 **「ユーザを招待ダイアログでログイン」機能を使用して、ユーザのログインをメールから一意にすることは可能ですか？**
 
-いいえ。サブスクリプションが IMS 有効の場合、ユーザ招待ワークフローはアクティブでなくなったので、この機能は無効になりました。Adobe ID では、ユーザの ID としてメールを使用します。
+いいえ。サブスクリプションが IMS 有効の場合、ユーザ招待ワークフローはアクティブでなくなったので、この機能は無効になりました。AdobeID は、E メールでユーザーの ID を駆動する必要があります。
 
 **Adobe IMS の場合、Adobe ID、Enterprise ID、Federated ID を使用できますか？**
 
