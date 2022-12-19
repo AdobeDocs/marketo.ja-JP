@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
-source-wordcount: '8810'
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+workflow-type: tm+mt
+source-wordcount: '8812'
 ht-degree: 100%
 
 ---
@@ -1869,6 +1869,7 @@ ht-degree: 100%
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
+   + [現在のリリース](release-notes/temp.md)
    + 以前のリリース {#previous-releases}
       + 2022年 {#2022}
          + [リリースノート：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
