@@ -3,10 +3,10 @@ description: Temp - Marketoドキュメント — 製品ドキュメント
 title: Temp
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 35%
+source-wordcount: '523'
+ht-degree: 36%
 
 ---
 
@@ -71,14 +71,11 @@ ht-degree: 35%
   </tbody>
 </table>
 
-### 次世代のエクスペリエンス {#modern-ux}
+### title {#title}
 
 </br>
 
-* **最新の UX の更新された Screens**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
-
-   * ランディングページテンプレートの詳細
-   * メールテンプレートリスト
+* **タイトル**:説明
 
 <table> 
   <tr> 
