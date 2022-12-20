@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
+source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 28%
+source-wordcount: '667'
+ht-degree: 29%
 
 ---
 
@@ -201,3 +201,7 @@ ht-degree: 28%
   </tr>
   </tbody>
 </table>
+
+**_製品リリースウェビナー_**
+
+これらの機能および機能強化の詳細を確認するには、必ず [今すぐ登録](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) 1 月 24 日午前 9:00 PT /午後 12:00 ET にご参加いただくと、製品チームとのライブウェビナーで、これらのイノベーションに深く掘り下げることができます。
