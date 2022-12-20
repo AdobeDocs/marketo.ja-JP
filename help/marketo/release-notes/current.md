@@ -2,16 +2,16 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
+source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 94%
+source-wordcount: '616'
+ht-degree: 28%
 
 ---
 
-# リリースノート：2022年10月 {#release-notes-oct-22}
+# リリースノート：2023年1月 {#release-notes-jan-23}
 
-以下に、2022年10月リリースに含まれるすべての機能を示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、23 年 1 月リリースに含まれるすべての機能を示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,30 @@ ht-degree: 94%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2022年10月14日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
+以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2023 年 1 月 21 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
 
-### マーケティングデータ環境 {#marketing-data-environment}
-
-</br>
-
-* **プログラムメンバーカスタムフィールドの同期**:プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）を双方向で同期する機能
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーカスタムフィールドの同期</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Adobe Privacy Service の統合**：Privacy Service と調和し、Experience Cloud 製品全体のデータプライバシー規制へのコンプライアンスを自動化します。現在、このサービスは、Adobe Identity Management システムにオンボーディングした Marketo Engage のお客様のみが利用できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### 次世代のエクスペリエンス {#modern-ux}
+### Marketo Engage の最新 UX {#modern-ux}
 
 </br>
 
-* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+* **最新の UX の更新された Screens**:最新の UX（旧称：次世代エクスペリエンス）では、トグルスイッチを介してアクセス可能な、更新されたデザインと操作性の強化を提供する、追加の更新された画面を提供しています。
 
-   * ランディングページテンプレートの詳細
-   * メールテンプレートリスト
+   * スニペットリスト表示
+   * ランディングページテンプレートリスト
 
-<table> 
+   <table> 
   <tr> 
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
 
-* **メールテンプレートの詳細の「使用者」タブの拡張**：新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、メールテンプレートを使用しているアセットに関する追加情報が表示されます。また、アセットで使用されるリストの検索、並べ替え、フィルタリングを行うこともできます。
+* **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**:新しい「 UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。 検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。 この新しい UI コンポーネントは、 E メールテンプレートとスニペットアセットから取り込まれます。
 
 <table> 
   <tr> 
@@ -82,13 +50,17 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>リリース済み</td>
-   <td>該当なし</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
 
-* **レポートアセットフィルターのモーダル**：レポート設定モーダルの新しいデザインで、設定メニューで新しいアセットツリーと、作成日および変更日のフィルターを表示します。
+### マーケティング影響分析 {#marketing-impact-analytics}
+
+</br>
+
+* **レポートアセット用の再設計されたモデル**:最新の UX でのレポート設定モデルの新しいデザインで、ルックアンドフィールが更新され、アクセシビリティが向上しました。
 
 <table> 
   <tr> 
@@ -96,8 +68,26 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>リリース済み</td>
-   <td>該当なし</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Measure {#marketo-measure}
+
+</br>
+
+* **Marketo Measure Ultimate**:複数の CRM やMarketo Engageインスタンス、および多様なソースデータのニーズを持つ企業向けに、完全な B2B アトリビューションを有効にします。 また、共有 AEP データを介したAdobeRT-CDP 用の B2B アトリビューションソリューションも提供します。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +96,7 @@ ht-degree: 94%
 
 </br>
 
-* **リードの一括読み込み：セールス担当者との関連付け**：パリティ付きのリード REST API で一括読み込みプロセス中にリードをセールス担当者に関連付け、複雑さを軽減し、必要な API 呼び出し数を減らすことができます。
+* **一括書き出し API 情報の追加による「Web サービス」タブの機能強化**:これで、サブスクリプションの日別の容量配分を表示し、過去 7 日間に使用された日別の容量配分の量を表示できます。
 
 <table> 
   <tr> 
@@ -114,28 +104,8 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>リリース済み</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">リードの一括読み込み</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Sales Insight {#sales-insight}
-
-</br>
-
-![（星印）](assets/yellow-star.png)
-
-* **Sales Insight と動的チャットの統合**：Insight ダッシュボードに、スマートグリッドの動的チャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">動的チャットの統合</a></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
@@ -144,35 +114,7 @@ ht-degree: 94%
 
 以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
 
-* **動的チャットのダイアログストリームの自動配置**：混み合ったダイアログキャンバスが、「自動配置」ボタンを押すことで、すべての項目がきれいで読みやすい形式に整理され、改善されます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">ストリームデザイナーのアイコン</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **動的チャットのミーティングリンク**：訪問者に送信されるすべてのカレンダー招待に、Google と Outlook の Teams または Meet のリンクを自動的に含めるオプションです。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">カレンダー</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **動的チャットの追加のデータタイプをサポート**：3 つの新しいデータタイプ（ブーリアン、整数、浮動少数）を使用すると、スコアに基づくターゲティングや、訪問者に「はい／いいえ」回答形式で質問するなど、動的チャットの既存の Marketo Engage フィールドをより活用できます。
+* **ダイナミックチャットの情報キャプチャカードで候補リストを定義**:データの清潔性を確保するために、情報キャプチャカードの選択リストを定義して、訪問者が事前に定義されたオプションのリストからのみ選択できるようにします。
 
 <table> 
   <tr> 
@@ -181,12 +123,12 @@ ht-degree: 94%
   </tr>
   <tr> 
    <td><i>まもなくリリース</i></td>
-   <td>該当なし</td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
 
-* **動的チャットの予定会議通知**：セールス担当者は、予定された会議に関するメール通知と、訪問者のチャットボットインタラクションに対する関連情報のメール通知を自動化できます。
+* **ダイナミックチャットの会議の確認でのパーソナライゼーション**:エージェントは、Marketo Engageの担当者と会社のフィールドを使用して、会議の予約 E メール確認をパーソナライズし、訪問者との関わりを高めることができます ( 例：自動会議予約通知メールで、訪問者の名を入力してあいさつを行います )。
 
 <table> 
   <tr> 
@@ -195,14 +137,63 @@ ht-degree: 94%
   </tr>
   <tr> 
    <td><i>まもなくリリース</i></td>
-   <td>該当なし</td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
 
-## お知らせ {#announcements}
+* **ストリームデザイナーで検索**:ストリームデザイナーでコンテンツを簡単に検索して、ストリーム内のすべてのカード/ノードにわたってコンテンツをすばやく見つけることができます ( 例：「SEO」を検索すると、その文字列を含むすべてのノードがハイライト表示されます )。
 
-* **Forms 1.0**：Forms 1.0 の廃止は 10月のリリースで完了します。Forms 1.0 のアセットは Marketo Engage にデータを送信できなくなり、試行するとエラーが返されます。
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
 
-* **スクリプトなし Forms**：ブラウザーで JavaScript が無効になっている場合、Forms は機能しなくなります。フォームの送信には、JavaScript を有効にする必要があります。
+* **Dynamic Chat の Chatbot 日時選択ツール**:Web 訪問者は、カレンダーピッカーを使用して、日付を手動で入力する代わりに、日付と時刻を選択できます。
 
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **ダイナミックチャット用の予定会議のメール通知**:エージェントのカレンダーに会議が予約されると、エージェントは、訪問者の Dynamic Chat エンゲージメントに関する詳細情報を含む、予約に関する電子メール通知を受け取ります。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **ダイナミックチャット用のダイアログエンゲージメントレポート**:訪問者タイプやエンゲージメントタイプでフィルタリングする機能など、時間の経過に伴うダイアログのエンゲージメントを把握できます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
