@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '618'
 ht-degree: 28%
 
 ---
@@ -113,6 +113,10 @@ ht-degree: 28%
 ## アジャイルリリースの機能
 
 以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
+
+### 動的チャット {#dynamic-chat}
+
+</br>
 
 * **ダイナミックチャットの情報キャプチャカードで候補リストを定義**:データの清潔性を確保するために、情報キャプチャカードの選択リストを定義して、訪問者が事前に定義されたオプションのリストからのみ選択できるようにします。
 
