@@ -4,7 +4,7 @@ description: 受信者タイムゾーンについて — Marketo ドキュメン
 title: 受信者タイムゾーンについて
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 100%
 
