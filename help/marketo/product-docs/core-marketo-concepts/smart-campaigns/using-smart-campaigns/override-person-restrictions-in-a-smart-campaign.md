@@ -4,7 +4,7 @@ description: スマートキャンペーンでのリード制限数の上書き 
 title: スマートキャンペーンでのリード制限数の上書き
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
