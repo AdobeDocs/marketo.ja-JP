@@ -4,7 +4,7 @@ description: メールプログラムの通信制限を有効化／無効化す�
 title: メールプログラムの通信制限を有効化／無効化する
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
