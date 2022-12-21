@@ -3,7 +3,7 @@ description: Salesforce アクティビティにトラッキングアクティ�
 title: Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
