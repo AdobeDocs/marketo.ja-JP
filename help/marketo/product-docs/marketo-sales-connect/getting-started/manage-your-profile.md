@@ -3,7 +3,7 @@ description: プロファイルの管理 - Marketo ドキュメント - 製品�
 title: プロファイルの管理
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 100%
 
