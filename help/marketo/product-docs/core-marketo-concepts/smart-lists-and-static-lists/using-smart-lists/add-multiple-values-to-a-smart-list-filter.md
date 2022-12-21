@@ -4,7 +4,7 @@ description: スマートリストフィルターへの複数値の追加 - Mark
 title: スマートリストフィルターへの複数値の追加
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
