@@ -4,7 +4,7 @@ description: 次世代 Munchkin トラッキングに関する FAQ - Marketo ド
 title: 次世代 Munchkin トラッキングに関する FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 100%
 
