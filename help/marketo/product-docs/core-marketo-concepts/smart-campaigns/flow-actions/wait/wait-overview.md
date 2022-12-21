@@ -4,7 +4,7 @@ description: 待機 - Marketo ドキュメント - 製品ドキュメント
 title: 待機
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
