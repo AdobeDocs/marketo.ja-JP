@@ -4,7 +4,7 @@ description: 付加的なランディングページ CNAME の追加 - Marketo �
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
