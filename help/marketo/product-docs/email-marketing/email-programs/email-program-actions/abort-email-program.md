@@ -4,7 +4,7 @@ description: メールプログラムの中止 - Marketo ドキュメント - �
 title: メールプログラムの中止
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
