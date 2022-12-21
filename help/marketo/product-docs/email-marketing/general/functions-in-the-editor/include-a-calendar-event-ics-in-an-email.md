@@ -4,7 +4,7 @@ description: メールにカレンダーイベント（.ics）を追加する - 
 title: メールにカレンダーイベント（.ics）を追加する
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
