@@ -4,7 +4,7 @@ description: キャンペーンのアクション - スマートキャンペー�
 title: キャンペーンのアクション - スマートキャンペーンの削除
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
