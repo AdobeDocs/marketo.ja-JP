@@ -4,7 +4,7 @@ description: ランディングページへのテキストとトークンの追�
 title: ランディングページへのテキストとトークンの追加
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 
