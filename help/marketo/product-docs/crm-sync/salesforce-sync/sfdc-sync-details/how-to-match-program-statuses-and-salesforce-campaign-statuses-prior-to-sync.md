@@ -4,7 +4,7 @@ description: 同期前のプログラムステータスと Salesforce キャン�
 title: 同期前のプログラムステータスと Salesforce キャンペーンステータスの照合方法
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
 
