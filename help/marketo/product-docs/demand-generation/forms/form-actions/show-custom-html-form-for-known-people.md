@@ -4,7 +4,7 @@ description: 既知のリードのカスタム HTML フォームの表示 - Mark
 title: 既知のリードのカスタム HTML フォームの表示
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
 
@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # 既知のリードのカスタム HTML フォームの表示 {#show-custom-html-form-for-known-people}
 
-訪問者が cookie を使用している（過去に電子メールアドレスを提供した認識済みのユーザー）場合、フォームを使用するのはなぜですか？ダウンロードボタンだけで済むはずです。どうやって。
+訪問者が cookie を使用している（過去に電子メールアドレスを提供した認識済みのユーザー）場合、フォームを使用するのはなぜですか？ダウンロードボタンだけで済むはずです。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 
