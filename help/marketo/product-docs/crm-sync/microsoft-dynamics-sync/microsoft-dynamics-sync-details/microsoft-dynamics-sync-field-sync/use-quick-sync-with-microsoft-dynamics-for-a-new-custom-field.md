@@ -4,7 +4,7 @@ description: 新しいカスタムフィールドに対する Microsoft Dynamics
 title: 新しいカスタムフィールドに対する Microsoft Dynamics とのクイック同期の使用
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 100%
 
