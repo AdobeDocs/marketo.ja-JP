@@ -4,7 +4,7 @@ description: 広告ネットワーク統合について - Marketo ドキュメ�
 title: 広告ネットワーク統合について
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
 
