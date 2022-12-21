@@ -4,7 +4,7 @@ description: 送信オプションについて - Marketo ドキュメント - �
 title: 送信オプションについて
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 100%
 
