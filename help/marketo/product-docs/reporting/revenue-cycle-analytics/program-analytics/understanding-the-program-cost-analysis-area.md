@@ -4,7 +4,7 @@ description: プログラム原価分析領域について - Marketo ドキュ�
 title: プログラム原価分析領域について
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
 
