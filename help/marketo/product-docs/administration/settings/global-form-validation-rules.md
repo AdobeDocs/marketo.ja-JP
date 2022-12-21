@@ -3,7 +3,7 @@ description: グローバルフォーム検証ルール - Marketo ドキュメ�
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 100%
 
