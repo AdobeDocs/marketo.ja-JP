@@ -4,7 +4,7 @@ description: フリーフォームランディングページのモバイル表�
 title: フリーフォームランディングページのモバイル表示をカスタマイズする
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
 
