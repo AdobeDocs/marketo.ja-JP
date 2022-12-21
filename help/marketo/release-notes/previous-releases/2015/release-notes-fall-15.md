@@ -70,7 +70,7 @@ Google Mail Sales Insight 拡張機能のアップデートがリリースされ
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-##  Moments でのスマートキャンペーン {#smart-campaigns-in-moments}
+## Moments でのスマートキャンペーン {#smart-campaigns-in-moments}
 
 [ Moments でのスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
