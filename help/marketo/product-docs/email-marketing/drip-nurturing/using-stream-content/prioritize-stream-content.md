@@ -4,7 +4,7 @@ description: ストリームコンテンツの優先順位を決める — Marke
 title: ストリームコンテンツの優先順位を決める
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
