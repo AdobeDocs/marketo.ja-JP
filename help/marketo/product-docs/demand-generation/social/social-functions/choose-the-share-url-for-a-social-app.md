@@ -4,7 +4,7 @@ description: ソーシャルアプリの共有 URL の選択 - Marketo ドキュ
 title: ソーシャルアプリの共有 URL の選択
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
