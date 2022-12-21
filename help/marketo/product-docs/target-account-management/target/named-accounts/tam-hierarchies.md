@@ -4,7 +4,7 @@ description: TAM 階層 - Marketo ドキュメント - 製品ドキュメント
 title: TAM 階層
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
