@@ -4,7 +4,7 @@ description: Gmail ユーザのメール接続 - Marketo ドキュメント - �
 title: Gmail ユーザのメール接続
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 
