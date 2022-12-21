@@ -3,7 +3,7 @@ description: Salesforce に接続する際の「リクエストを認証でき�
 title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 
