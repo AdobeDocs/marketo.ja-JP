@@ -4,7 +4,7 @@ description: テンプレート 7C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 7C
 exl-id: 4c3925e9-dd00-4488-8c2b-4fa0194e80f1
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
