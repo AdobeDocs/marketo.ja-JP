@@ -4,7 +4,7 @@ description: プログラムのステータスの変更 - Marketo ドキュメ�
 title: プログラムステータスの変更
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
