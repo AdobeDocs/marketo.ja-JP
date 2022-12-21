@@ -4,7 +4,7 @@ description: プッシュ通知の作成 - Marketo ドキュメント - 製品�
 title: プッシュ通知の作成
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
