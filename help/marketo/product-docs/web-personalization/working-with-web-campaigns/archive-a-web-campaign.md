@@ -4,7 +4,7 @@ description: Web キャンペーンのアーカイブ - Marketo ドキュメン�
 title: Web キャンペーンのアーカイブ
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
