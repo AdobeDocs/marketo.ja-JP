@@ -4,7 +4,7 @@ description: セグメント化の順序の優先度 - Marketo ドキュメン�
 title: セグメント化の順序の優先度
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
