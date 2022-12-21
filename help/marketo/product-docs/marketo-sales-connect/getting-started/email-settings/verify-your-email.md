@@ -4,7 +4,7 @@ description: メールの認証 - Marketo ドキュメント - 製品ドキュ�
 title: メールの認証
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
