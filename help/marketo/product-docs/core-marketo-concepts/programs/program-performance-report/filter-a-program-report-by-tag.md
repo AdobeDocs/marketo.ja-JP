@@ -4,7 +4,7 @@ description: プログラムレポートをタグでフィルター - Marketo �
 title: プログラムレポートをタグでフィルター
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
