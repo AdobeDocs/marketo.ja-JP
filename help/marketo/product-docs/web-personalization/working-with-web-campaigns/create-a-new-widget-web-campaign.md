@@ -4,7 +4,7 @@ description: 新しいウィジェット Web キャンペーンを作成する �
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 100%
 
