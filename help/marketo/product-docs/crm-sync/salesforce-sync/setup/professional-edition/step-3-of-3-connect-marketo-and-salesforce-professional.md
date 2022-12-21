@@ -4,7 +4,7 @@ description: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 100%
 
