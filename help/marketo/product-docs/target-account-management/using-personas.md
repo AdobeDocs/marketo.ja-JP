@@ -4,7 +4,7 @@ description: ペルソナの使用 - Marketo ドキュメント - 製品ドキ�
 title: ペルソナの使用
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
