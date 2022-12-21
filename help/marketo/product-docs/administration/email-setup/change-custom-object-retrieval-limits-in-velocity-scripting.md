@@ -3,7 +3,7 @@ description: Velocity スクリプティングのカスタムオブジェクト�
 title: Velocity スクリプティングでのカスタムオブジェクト取得制限の変更
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 100%
 
