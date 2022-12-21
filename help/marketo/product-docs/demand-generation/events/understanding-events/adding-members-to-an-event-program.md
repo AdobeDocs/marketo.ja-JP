@@ -4,7 +4,7 @@ description: イベントプログラムへのメンバーの追加 - Marketo �
 title: イベントプログラムへのメンバーの追加
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
