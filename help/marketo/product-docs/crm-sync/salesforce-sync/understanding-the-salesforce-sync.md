@@ -4,7 +4,7 @@ description: Salesforce 同期について — Marketo ドキュメント — �
 title: Salesforce 同期について
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Salesforce と Marketo の間の同期は、リード、連絡先、Salesforce �
 ## Marketo と Salesforce の間で同期されるもの {#what-is-synced-between-marketo-and-salesforce}
 
 * [リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [取引先責任者](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
 * [アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
 * [ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
 * [商談](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
