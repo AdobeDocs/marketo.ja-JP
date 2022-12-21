@@ -4,7 +4,7 @@ description: フォームフィールドへのツールチップ説明の追加 
 title: フォームフィールドへのツールチップ説明の追加
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
