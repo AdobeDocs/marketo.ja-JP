@@ -4,7 +4,7 @@ description: Facebook リード広告の設定 - Marketo ドキュメント - �
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 
