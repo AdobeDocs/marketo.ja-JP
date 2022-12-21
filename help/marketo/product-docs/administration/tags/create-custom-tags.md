@@ -4,7 +4,7 @@ description: カスタムタグの作成 - Marketo ドキュメント - 製品�
 title: カスタムタグの作成
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
