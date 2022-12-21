@@ -3,7 +3,7 @@ description: 位置トラッキングの仕組み - Marketo ドキュメント -
 title: 位置トラッキングの仕組み
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
