@@ -4,7 +4,7 @@ description: メールに「Web ページとして表示」リンクを追加す
 title: メールに「Web ページとして表示」リンクを追加する
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
 
