@@ -4,7 +4,7 @@ description: リードレポートを属性別にグループ化する - Marketo
 title: リードレポートを属性別にグループ化する
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
