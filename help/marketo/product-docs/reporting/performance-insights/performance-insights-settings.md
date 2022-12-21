@@ -4,7 +4,7 @@ description: パフォーマンスインサイトのの概要 - Marketo ドキ�
 title: パフォーマンスインサイトの設定
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
 
