@@ -4,7 +4,7 @@ description: アカウントスマートリスト - Marketo ドキュメント -
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 100%
 
