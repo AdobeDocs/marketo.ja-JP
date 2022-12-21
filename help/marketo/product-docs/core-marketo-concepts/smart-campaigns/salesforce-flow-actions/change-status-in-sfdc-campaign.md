@@ -4,7 +4,7 @@ description: SFDC キャンペーンでのステータス変更 - Marketo ドキ
 title: SFDC キャンペーンでのステータス変更
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
