@@ -4,7 +4,7 @@ description: ソーシャルボタンを開くタイミングの設定 - Marketo
 title: ソーシャルボタンを開くタイミングの設定
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
