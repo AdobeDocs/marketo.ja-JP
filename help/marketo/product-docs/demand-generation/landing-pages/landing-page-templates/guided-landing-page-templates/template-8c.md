@@ -4,7 +4,7 @@ description: テンプレート 8C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
