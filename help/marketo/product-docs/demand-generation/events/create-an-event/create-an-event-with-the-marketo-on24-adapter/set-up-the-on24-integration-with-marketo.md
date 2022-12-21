@@ -1,15 +1,15 @@
 ---
 description: ON24 とMarketoの統合の設定 — Marketoドキュメント — 製品ドキュメント
-title: Marketoとの ON24 統合の設定
+title: Marketo との ON24 統合の設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 11%
+ht-degree: 16%
 
 ---
 
-# Marketoとの ON24 統合の設定{#set-up-the-on24-integration-with-marketo}
+# Marketo との ON24 統合の設定{#set-up-the-on24-integration-with-marketo}
 
 ON24 イベント統合の設定方法を以下に示します。
 
