@@ -4,7 +4,7 @@ description: ランディングページの効果レポートをフィルター�
 title: ランディングページの効果レポートをフィルターする
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
