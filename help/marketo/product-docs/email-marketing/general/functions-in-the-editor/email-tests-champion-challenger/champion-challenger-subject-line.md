@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：件名 - Marketo ドキュメン�
 title: チャンピオン／挑戦者：件名
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%
 
