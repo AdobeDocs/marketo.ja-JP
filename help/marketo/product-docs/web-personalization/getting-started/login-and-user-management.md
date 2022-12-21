@@ -4,7 +4,7 @@ description: ログインとユーザー管理 - Marketo ドキュメント - �
 title: ログインとユーザー管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 100%
 
