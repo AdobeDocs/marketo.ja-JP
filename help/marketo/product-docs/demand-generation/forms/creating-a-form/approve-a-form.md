@@ -4,7 +4,7 @@ description: フォームの承認 - Marketo ドキュメント - 製品ドキ�
 title: フォームの承認
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
