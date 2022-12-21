@@ -4,7 +4,7 @@ description: ランディングページでパーソナライズ URL を有効�
 title: ランディングページでパーソナライズ URL を有効にする
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
