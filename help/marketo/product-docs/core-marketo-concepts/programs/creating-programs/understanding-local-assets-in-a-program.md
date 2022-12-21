@@ -4,7 +4,7 @@ description: プログラムのローカルアセットの理解 - Marketo ド�
 title: プログラムのローカルアセットの理解
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
