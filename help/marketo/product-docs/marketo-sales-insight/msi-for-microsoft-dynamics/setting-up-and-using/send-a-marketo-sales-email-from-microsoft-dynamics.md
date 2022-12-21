@@ -4,7 +4,7 @@ description: Microsoft Dynamics からの Marketo セールスメールの送信
 title: Microsoft Dynamics からの Marketo セールスメールの送信
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
