@@ -4,7 +4,7 @@ description: Vibes SMS メッセージの作成 - Marketo ドキュメント - �
 title: Vibes SMS メッセージの作成
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 100%
 
