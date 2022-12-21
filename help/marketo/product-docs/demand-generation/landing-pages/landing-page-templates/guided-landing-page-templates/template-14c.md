@@ -4,7 +4,7 @@ description: テンプレート 14C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
