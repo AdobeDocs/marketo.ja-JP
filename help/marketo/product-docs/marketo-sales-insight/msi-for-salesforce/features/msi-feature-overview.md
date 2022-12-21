@@ -4,7 +4,7 @@ description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュ�
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 100%
 
