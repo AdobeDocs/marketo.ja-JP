@@ -3,7 +3,7 @@ description: カスタムドメイントラッキングの設定方法 - Marketo
 title: カスタムドメイントラッキングの設定方法
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
