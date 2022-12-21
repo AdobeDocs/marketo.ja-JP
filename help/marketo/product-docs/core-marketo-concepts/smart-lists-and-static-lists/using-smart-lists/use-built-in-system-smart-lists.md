@@ -4,7 +4,7 @@ description: システムスマートリストの使用 - Marketo ドキュメ�
 title: システムスマートリストの使用
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
 
