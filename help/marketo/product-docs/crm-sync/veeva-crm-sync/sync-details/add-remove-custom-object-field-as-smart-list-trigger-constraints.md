@@ -3,7 +3,7 @@ description: スマートリスト／トリガー制約としてのカスタム�
 title: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 100%
 
