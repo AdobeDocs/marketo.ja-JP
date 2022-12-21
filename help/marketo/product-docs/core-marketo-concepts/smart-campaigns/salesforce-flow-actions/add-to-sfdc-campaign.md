@@ -4,7 +4,7 @@ description: SFDC キャンペーンに追加 - Marketo ドキュメント - 製
 title: SFDC キャンペーンに追加
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
 
