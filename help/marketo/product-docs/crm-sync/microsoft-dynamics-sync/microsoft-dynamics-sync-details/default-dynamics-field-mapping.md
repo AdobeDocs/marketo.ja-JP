@@ -3,7 +3,7 @@ description: デフォルトの Dynamics フィールドマッピング - Market
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 100%
 
