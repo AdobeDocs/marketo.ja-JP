@@ -3,7 +3,7 @@ description: Sales Insight Actions 機能の概要 - Marketo ドキュメント 
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1356'
 ht-degree: 100%
 
