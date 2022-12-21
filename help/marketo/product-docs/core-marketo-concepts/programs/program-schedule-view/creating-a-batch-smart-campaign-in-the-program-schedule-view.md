@@ -4,7 +4,7 @@ description: プログラムスケジュールビューでのバッチスマー�
 title: プログラムスケジュールビューでのバッチスマートキャンペーンの作成
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 100%
 
