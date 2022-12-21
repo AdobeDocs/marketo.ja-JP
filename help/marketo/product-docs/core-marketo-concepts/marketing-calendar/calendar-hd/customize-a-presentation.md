@@ -4,7 +4,7 @@ description: プレゼンテーションのカスタマイズ - Marketo ドキ�
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 100%
 
