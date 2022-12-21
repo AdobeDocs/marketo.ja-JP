@@ -4,7 +4,7 @@ description: 静的リストを使用したセグメントの作成 - Marketo �
 title: 静的リストを使用したセグメントの作成
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
