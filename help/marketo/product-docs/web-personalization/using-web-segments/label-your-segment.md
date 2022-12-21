@@ -4,7 +4,7 @@ description: セグメントのラベル付け - Marketo ドキュメント - �
 title: セグメントのラベル付け
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
