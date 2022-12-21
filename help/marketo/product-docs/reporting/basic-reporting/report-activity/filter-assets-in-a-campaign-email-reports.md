@@ -4,7 +4,7 @@ description: キャンペーンメールレポートでのアセットのフィ�
 title: キャンペーンメールレポートでのアセットのフィルター
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
