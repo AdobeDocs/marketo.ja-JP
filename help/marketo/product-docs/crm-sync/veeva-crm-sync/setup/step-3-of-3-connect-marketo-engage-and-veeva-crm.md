@@ -3,7 +3,7 @@ description: 手順 3 / 3 - Marketo Engage と Veeva CRM の接続 - Marketo ド
 title: 手順 3/3 - Marketo Engage と Veeva CRM の接続
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 
