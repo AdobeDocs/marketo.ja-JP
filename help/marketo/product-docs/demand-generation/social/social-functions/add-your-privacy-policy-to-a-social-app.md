@@ -4,7 +4,7 @@ description: ソーシャルアプリへのプライバシーポリシーの追�
 title: ソーシャルアプリへのプライバシーポリシーの追加
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
