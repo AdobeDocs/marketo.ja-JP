@@ -4,7 +4,7 @@ description: SFDC 同期 - リード／アカウント所有者の同期 - Marke
 title: SFDC 同期 - リード／アカウント所有者の同期
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
