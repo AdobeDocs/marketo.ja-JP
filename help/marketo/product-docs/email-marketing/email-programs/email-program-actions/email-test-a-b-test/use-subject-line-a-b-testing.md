@@ -4,7 +4,7 @@ description: 「件名ライン」A/B テストを使用する — Marketo ド�
 title: 「件名ライン」A/B テストを使用する
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%
 
