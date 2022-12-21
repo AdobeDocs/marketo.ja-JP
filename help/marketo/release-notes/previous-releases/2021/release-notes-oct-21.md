@@ -3,7 +3,7 @@ description: リリースノート - 2021 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 100%
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
+以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
 * **オーディエンスを Marketo Engage に共有するためのネイティブ Adobe Experience Platform Connector**：ネイティブの宛先コネクタを介して Adobe Experience Platform で作成されたオーディエンスセグメントに対して、Marketo Engage でのマルチチャネルのキャンペーンオーケストレーションを有効にします。コネクタは、メールアドレスまたは ECID を使用して、Adobe Experience Platform プロファイルを Marketo Engage 人物レコードと照合し、アプリケーション間でセグメントを共有します。Marketo Engage の静的リストは自動的に入力され、マーケターは、高度にパーソナライズされたメッセージングやワークフローを使用してターゲットオーディエンスにリーチできます。顧客オーディエンスをアクティブ化し、自分の顧客と商談のコンテキスト、および Experience Platform でのより完全なリアルタイム統合プロファイルを活用できます。
 
