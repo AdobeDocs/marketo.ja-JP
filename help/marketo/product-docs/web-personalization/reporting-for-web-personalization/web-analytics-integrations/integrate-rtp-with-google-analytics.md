@@ -4,7 +4,7 @@ description: RTP を Google Analytics に連携する — Marketo ドキュメ�
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 100%
 
@@ -89,6 +89,6 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 Google Analytics では、ダッシュボード、GA セグメント化およびレポートを使用して、RTP データを表示できます。
 
-* [&#128279;](https://support.google.com/analytics/answer/1068216?hl=ja) ダッシュボードでは、Web サイトのパフォーマンスの概要を示します。
+* [ダッシュボード](https://support.google.com/analytics/answer/1068216?hl=ja)では、Web サイトのパフォーマンスの概要を示します。
 * GA セグメントは、GA インターフェイス内の訪問者をフィルターし、セグメントごとのトラフィックを表示することを目的としています。セグメントの作成方法については、[こちら](https://support.google.com/analytics/answer/3124493?hl=ja)を参照してください。
 * [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する「カスタマイズ／新しいカスタムレポート」の下を確認します。
