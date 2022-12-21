@@ -4,7 +4,7 @@ description: プログラムスケジュールビューのエントリタイプ 
 title: プログラムスケジュールビューのエントリタイプ
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
