@@ -4,7 +4,7 @@ description: メールの承認 - Marketo ドキュメント - 製品ドキュ�
 title: メールの承認
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
