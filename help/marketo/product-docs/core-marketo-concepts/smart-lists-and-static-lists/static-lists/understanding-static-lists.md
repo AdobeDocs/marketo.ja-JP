@@ -4,7 +4,7 @@ description: 静的リストについて - Marketo ドキュメント - 製品�
 title: 静的リストについて
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
