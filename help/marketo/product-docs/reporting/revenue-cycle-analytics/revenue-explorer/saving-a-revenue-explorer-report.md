@@ -4,7 +4,7 @@ description: 収益エクスプローラレポートの保存 - Marketo ドキ�
 title: 収益エクスプローラレポートの保存
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
