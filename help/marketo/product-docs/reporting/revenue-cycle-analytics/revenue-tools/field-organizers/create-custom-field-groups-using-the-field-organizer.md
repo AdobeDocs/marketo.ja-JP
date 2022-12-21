@@ -4,7 +4,7 @@ description: フィールドオーガナイザーを使用したカスタムフ�
 title: フィールドオーガナイザーを使用したカスタムフィールドグループの作成
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 100%
 
