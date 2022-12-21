@@ -4,7 +4,7 @@ description: Adobe Experience Manager でのアセットの読み込み - Market
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 
