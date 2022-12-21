@@ -6,7 +6,7 @@ exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 74%
 
 Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用している場合は、 [最新のプラグインのダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target=&quot;_blank&quot;} は、Dynamics リリースに対応しています。 カスタム同期をおこない、Marketo Sales Insight を購入済みの場合、 [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
+Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用している場合は、 [最新のプラグインのダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target=&quot;_blank&quot;} は、Dynamics リリースに対応しています。 カスタム同期を実行し、Marketo Sales Insight を購入済みの場合は、[パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}。
 
 >[!NOTE]
 >
