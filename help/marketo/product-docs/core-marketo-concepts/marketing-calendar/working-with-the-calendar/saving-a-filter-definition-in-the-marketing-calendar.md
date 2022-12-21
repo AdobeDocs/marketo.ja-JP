@@ -4,7 +4,7 @@ description: マーケティングカレンダーでのフィルター定義の�
 title: マーケティングカレンダーでのフィルター定義の保存
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
