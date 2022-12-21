@@ -4,7 +4,7 @@ description: 人物パーティションの作成 - Marketo ドキュメント -
 title: 人物パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
