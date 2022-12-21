@@ -4,7 +4,7 @@ description: Microsoft Dynamics 向け Marketo ソリューションのアップ
 title: Microsoft Dynamics 向け Marketo ソリューションのアップデート
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 「**Marketo Solution のダウンロード**」を選択します。
+1. 「**Marketo ソリューションをダウンロード**」を選択します。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
