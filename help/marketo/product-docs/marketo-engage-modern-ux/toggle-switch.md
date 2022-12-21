@@ -4,8 +4,8 @@ title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 54%
 
 ---
 
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 ## 個々のロールの切り替えスイッチの有効化 {#enable-the-toggle-switch-for-individual-roles}
 
-個々の役割またはすべての役割の切り替えスイッチを有効にします。 手順は以下のとおりです。
+個々のロールまたはすべてのロールの切り替えスイッチを有効にします。手順は以下のとおりです。
 
-1. Marketo Engageで、 **管理者**.
+1. Marketo Engage で、「**管理者**」をクリックします。
 
    ![](assets/toggle-switch-1.png)
 
-1. クリック **新しいエクスペリエンス**.
+1. 「**新しいエクスペリエンス**」をクリックします。
 
    ![](assets/toggle-switch-2.png)
 
-1. 切り替えスイッチにアクセスする役割を選択します。
+1. 切替スイッチにアクセスするロールを選択します。
 
    ![](assets/toggle-switch-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 * メールの詳細表示
 * メールリスト表示
-* メールテンプレートの詳細ビュー
+* メールテンプレートの詳細表示
 * メールテンプレートリスト
 * メールテストダッシュボードビュー
 * フォームの詳細表示
