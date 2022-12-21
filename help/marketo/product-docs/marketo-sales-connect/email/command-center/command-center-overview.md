@@ -4,7 +4,7 @@ description: コマンドセンターの概要 - Marketo ドキュメント - �
 title: コマンドセンターの概要
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 100%
 
