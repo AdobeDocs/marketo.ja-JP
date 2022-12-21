@@ -4,7 +4,7 @@ description: Web サイトへのフォームの埋め込み — Marketo ドキ�
 title: Web サイトへのフォームの埋め込み
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
