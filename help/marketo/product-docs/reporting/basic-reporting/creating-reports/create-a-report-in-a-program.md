@@ -4,7 +4,7 @@ description: プログラムでのレポートの作成 - Marketo ドキュメ�
 title: プログラムでのレポートの作成
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
 
