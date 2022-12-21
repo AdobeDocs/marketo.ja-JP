@@ -5,7 +5,7 @@ exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 87%
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. 通話記録カードで、 **録画通知の管理**.
+1. 通話記録カードで、「**録画通知を管理**」をクリックします。
 
    ![](assets/two-party-consent-settings-3.png)
 
