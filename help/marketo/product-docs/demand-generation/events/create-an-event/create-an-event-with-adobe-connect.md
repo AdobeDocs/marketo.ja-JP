@@ -4,7 +4,7 @@ description: Adobe Connect を使用したイベントの作成 - Marketo ドキ
 title: Adobe Connect を使用したイベントの作成
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 100%
 
