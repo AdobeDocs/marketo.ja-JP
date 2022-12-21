@@ -4,7 +4,7 @@ description: 注目のアクションの使用 - Marketo ドキュメント - �
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 100%
 
