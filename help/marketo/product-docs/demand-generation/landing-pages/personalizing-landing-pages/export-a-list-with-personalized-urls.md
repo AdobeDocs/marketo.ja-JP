@@ -4,7 +4,7 @@ description: パーソナライズされた URL を含むリストのエクス�
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 
