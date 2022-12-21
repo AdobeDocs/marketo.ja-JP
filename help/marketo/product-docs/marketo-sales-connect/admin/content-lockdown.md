@@ -4,7 +4,7 @@ description: コンテンツのロックダウン - Marketo ドキュメント -
 title: コンテンツのロックダウン
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
