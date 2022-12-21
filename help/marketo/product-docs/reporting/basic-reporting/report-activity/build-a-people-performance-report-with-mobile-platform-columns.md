@@ -4,7 +4,7 @@ description: モバイルプラットフォームの列があるリード効果�
 title: モバイルプラットフォームの列があるリード効果レポートを作成する
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%
 
