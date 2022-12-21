@@ -3,7 +3,7 @@ description: ブロック済みドメイン - Marketo ドキュメント - 製�
 title: ブロック済みドメイン
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
