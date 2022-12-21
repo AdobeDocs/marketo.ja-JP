@@ -4,7 +4,7 @@ description: キャンペーンメールの効果レポート - Marketo ドキ�
 title: キャンペーンメールの効果レポート
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
