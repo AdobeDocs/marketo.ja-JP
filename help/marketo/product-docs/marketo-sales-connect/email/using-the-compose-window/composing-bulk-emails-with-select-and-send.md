@@ -4,7 +4,7 @@ description: 「選択して送信」による一括メールの作成 - Marketo
 title: 「選択して送信」による一括メールの作成
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 
