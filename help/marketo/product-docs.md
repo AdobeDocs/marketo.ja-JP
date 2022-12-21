@@ -3,7 +3,7 @@ unique-page-id: 1147279
 description: 製品ドキュメント - Marketo ドキュメント - 製品ドキュメント
 title: 製品ドキュメント
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 
