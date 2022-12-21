@@ -4,7 +4,7 @@ description: カテゴリの設定 - Marketo ドキュメント - 製品ドキ�
 title: カテゴリの設定
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 100%
 
