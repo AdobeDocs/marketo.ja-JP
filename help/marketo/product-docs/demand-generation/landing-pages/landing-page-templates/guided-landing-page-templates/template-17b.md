@@ -4,7 +4,7 @@ description: テンプレート 17B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
