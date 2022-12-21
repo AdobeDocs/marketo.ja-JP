@@ -4,7 +4,7 @@ description: Web キャンペーンの起動／一時停止 - Marketo ドキュ�
 title: Web キャンペーンの起動／一時停止
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%
 
