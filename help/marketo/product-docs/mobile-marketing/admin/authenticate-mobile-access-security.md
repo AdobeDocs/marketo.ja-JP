@@ -4,7 +4,7 @@ description: モバイルアクセスセキュリティの認証 - Marketo ド�
 title: モバイルアクセスセキュリティの認証
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 
