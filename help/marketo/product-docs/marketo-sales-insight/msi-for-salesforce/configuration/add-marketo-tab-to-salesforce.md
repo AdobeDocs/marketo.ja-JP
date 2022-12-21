@@ -3,7 +3,7 @@ description: Salesforce への「Marketo」タブの追加 - Marketo ドキュ�
 title: Salesforce への「Marketo」タブの追加
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
