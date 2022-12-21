@@ -1,21 +1,21 @@
 ---
-description: 手順 2／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定 - Marketo ドキュメント - 製品ドキュメント
-title: 手順 2／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定
+description: 手順 2 / 4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定 - Marketo ドキュメント - 製品ドキュメント
+title: 手順 2 / 4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '440'
+ht-degree: 100%
 
 ---
 
-# 手順 2／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定 {#step-2-of-4-set-up-the-marketo-solution-ropc}
+# 手順 2 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
-まず、ユーザーアカウントを作成します。
+まず、ユーザアカウントを作成します。
 
 >[!PREREQUISITES]
 >
->[手順 1／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>[手順 1 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 
 ## ユーザの新規作成 {#create-a-new-user}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 「**ユーザー**」をクリックします。
+1. 「**ユーザ**」をクリックします。
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 新しいウィンドウで「**ユーザーを追加してライセンスを付与**」をクリックします。
+1. 新しいウィンドウで「**ユーザを追加してライセンスを付与**」をクリックします。
 
    ![](assets/five.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 別の新しいタブが開きます。「**ユーザーを追加**」をクリックします。
+1. 別の新しいタブが開きます。「**ユーザを追加**」をクリックします。
 
    ![](assets/seven.png)
 
    >[!IMPORTANT]
    >
-   >同期ユーザーには、Marketo設定に対する読み取り権限が必要です。
+   >同期ユーザには、Marketo 設定に対する読み取り権限が必要です。
 
 1. すべての情報を入力します。完了したら、「**追加**」をクリックします。
 
@@ -57,47 +57,47 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >この名前は、既存の CRM ユーザーアカウントではなく、専用の同期ユーザーである必要があります。実際の電子メールアドレスである必要はありません。
+   >この名前は、既存の CRM ユーザアカウントではなく、専用の同期ユーザである必要があります。実際の電子メールアドレスである必要はありません。
 
-1. 新しいユーザー認証情報を受け取る電子メールアドレスを入力し、「**メールを送信して閉じる**」をクリックします。
+1. 新しいユーザ認証情報を受け取る電子メールアドレスを入力し、「**メールを送信して閉じる**」をクリックします。
 
    ![](assets/nine.png)
 
-## 同期ユーザーの役割の割り当て {#assign-sync-user-role}
+## 同期ユーザのロールの割り当て {#assign-sync-user-role}
 
-Marketo 同期ユーザーの役割を Marketo 同期ユーザーにのみ割り当てます。他のユーザーに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に当てはまります。これ以前のバージョンでは、すべてのユーザーに同期ユーザーの役割が必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定は[英語に設定する必要](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)があります。
+>同期ユーザの言語設定は[英語に設定する必要](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)があります。
 
-1. 「有効なユーザー」タブに戻り、ユーザーリストを更新します。
+1. 「有効なユーザ」タブに戻り、ユーザリストを更新します。
 
    ![](assets/ten.png)
 
-1. 新規作成した Marketo 同期ユーザーの横にマウスポインターを置くと、チェックボックスが表示されます。クリックして選択します。
+1. 新規作成した Marketo 同期ユーザの横にポインタを合わせると、チェックボックスが表示されます。クリックして選択します。
 
    ![](assets/eleven.png)
 
-1. 「**役割を管理**」をクリックします。
+1. 「**ロールを管理**」をクリックします。
 
    ![](assets/twelve.png)
 
-1. 「**Marketo 同期ユーザー**」のチェックをオンにして、「**OK**」をクリックします。
+1. 「**Marketo 同期ユーザ**」のチェックをオンにして、「**OK**」をクリックします。
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >同期ユーザーが CRM でおこなった更新は Marketo に同期&#x200B;**されません**。
+   >同期ユーザが CRM で行った更新は Marketo に同期&#x200B;**されません**。
 
-## Marketo ソルーションの設定 {#configure-marketo-solution}
+## Marketo ソリューションの設定 {#configure-marketo-solution}
 
-もう少しです。あとは、作成した新しいユーザーについて Marketo ソルーションに知らせるだけです。
+もう少しです。あとは、作成した新しいユーザについて Marketo ソルーションに知らせるだけです。
 
 1. 詳細設定セクションに戻り、「設定」の横にある![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、「**Marketo 設定**」を選択します。
 
@@ -111,7 +111,7 @@ Marketo 同期ユーザーの役割を Marketo 同期ユーザーにのみ割り
 
    ![](assets/fifteen.png)
 
-1. **Marketo ユーザー**&#x200B;フィールドの検索ボタンをクリックして、作成した同期ユーザーを選択します。
+1. **Marketo ユーザ**&#x200B;フィールドの検索ボタンをクリックして、作成した同期ユーザを選択します。
 
    ![](assets/sixteen.png)
 
