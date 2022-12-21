@@ -4,7 +4,7 @@ description: カテゴリのマージと重複排除 - Marketo ドキュメン�
 title: カテゴリのマージと重複排除
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 
