@@ -4,7 +4,7 @@ description: エンタープライズキーを使用した Outlook 用 Marketo �
 title: エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
