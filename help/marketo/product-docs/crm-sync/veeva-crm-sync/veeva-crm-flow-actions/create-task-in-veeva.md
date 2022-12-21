@@ -3,7 +3,7 @@ description: Veeva でのタスクの作成 - Marketo ドキュメント - 製�
 title: Veeva でのタスクの作成
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
