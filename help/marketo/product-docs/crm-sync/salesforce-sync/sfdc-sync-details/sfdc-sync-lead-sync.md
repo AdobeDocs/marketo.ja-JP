@@ -4,7 +4,7 @@ description: SFDC 同期 - リードの同期 - Marketo ドキュメント - 製
 title: SFDC 同期 - リードの同期
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%
 
