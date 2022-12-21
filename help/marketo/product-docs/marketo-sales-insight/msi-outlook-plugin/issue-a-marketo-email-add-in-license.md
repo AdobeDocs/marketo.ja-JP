@@ -4,7 +4,7 @@ description: Marketo メールアドインライセンスの発行 - Marketo ド
 title: Marketo メールアドインライセンスの発行
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 100%
 
