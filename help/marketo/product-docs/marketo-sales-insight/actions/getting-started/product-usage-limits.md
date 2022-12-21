@@ -3,7 +3,7 @@ description: 製品の使用制限 - Marketo ドキュメント - 製品ドキ�
 title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
 
