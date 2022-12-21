@@ -4,7 +4,7 @@ description: Marketo Sales Insight プラグイン管理者の指定 - Marketo �
 title: Marketo Sales Insight プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
