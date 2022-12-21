@@ -4,7 +4,7 @@ description: テンプレート 15A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
