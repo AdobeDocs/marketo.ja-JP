@@ -4,7 +4,7 @@ description: SEO - サイトの追加と削除 - Marketo ドキュメント - �
 title: SEO - サイトの追加と削除
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
