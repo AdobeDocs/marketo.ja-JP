@@ -4,7 +4,7 @@ description: 階層の作成 - Marketo ドキュメント - 製品ドキュメ�
 title: 階層の作成
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
