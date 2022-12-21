@@ -4,7 +4,7 @@ description: 重点顧客の削除 - Marketo ドキュメント - 製品ドキ�
 title: 重点顧客の削除
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
