@@ -4,7 +4,7 @@ description: 概要レポートについて — Marketo ドキュメント — �
 title: 概要レポートについて
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 100%
 
