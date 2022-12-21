@@ -4,7 +4,7 @@ description: メールインサイトに関する FAQ — Marketo ドキュメ�
 title: メールインサイトに関する FAQ
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 100%
 
