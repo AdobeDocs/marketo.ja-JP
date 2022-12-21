@@ -4,7 +4,7 @@ description: Salesforce1 での注目のアクション - Marketo ドキュメ�
 title: Salesforce1 での注目のアクション
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
