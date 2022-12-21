@@ -4,7 +4,7 @@ description: 誤った受信者の場所 - Marketo ドキュメント - 製品�
 title: 誤った受信者の場所
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
