@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 「**Marketo Solution のダウンロード**」を選択します。
+1. 「**Marketo ソリューションをダウンロード**」を選択します。
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
