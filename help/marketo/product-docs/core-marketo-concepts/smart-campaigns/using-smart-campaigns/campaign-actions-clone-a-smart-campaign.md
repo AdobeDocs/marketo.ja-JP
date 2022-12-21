@@ -4,7 +4,7 @@ description: キャンペーンのアクション - スマートキャンペー�
 title: キャンペーンのアクション - スマートキャンペーンの複製を作成
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
