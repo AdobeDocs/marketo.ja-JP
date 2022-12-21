@@ -4,7 +4,7 @@ description: カスタムフィールドの Marketo へのマッピング — Ma
 title: カスタムフィールドの Marketo へのマッピング
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 100%
 
