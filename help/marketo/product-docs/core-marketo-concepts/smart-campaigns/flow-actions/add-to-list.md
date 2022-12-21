@@ -4,7 +4,7 @@ description: リストに追加 - Marketo ドキュメント - 製品ドキュ�
 title: リストに追加
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%
 
