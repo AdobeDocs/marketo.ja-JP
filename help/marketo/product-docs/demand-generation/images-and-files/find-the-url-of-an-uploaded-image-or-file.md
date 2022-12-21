@@ -4,7 +4,7 @@ description: アップロードされた画像またはファイルの URL を�
 title: アップロードされた画像またはファイルの URL を見つける
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
