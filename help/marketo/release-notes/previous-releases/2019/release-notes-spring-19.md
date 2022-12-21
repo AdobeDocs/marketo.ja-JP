@@ -4,7 +4,7 @@ description: リリースノート - 2019年春 - Marketo ドキュメント - �
 title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
 
