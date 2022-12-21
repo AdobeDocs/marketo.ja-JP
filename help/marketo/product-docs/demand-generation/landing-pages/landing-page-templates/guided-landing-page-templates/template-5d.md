@@ -4,7 +4,7 @@ description: テンプレート 5D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
