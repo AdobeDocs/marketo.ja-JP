@@ -3,7 +3,7 @@ description: ユーザに Marketo のアクセス権を付与 - Marketo ドキ�
 title: ユーザに Marketo のアクセス権を付与
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 
