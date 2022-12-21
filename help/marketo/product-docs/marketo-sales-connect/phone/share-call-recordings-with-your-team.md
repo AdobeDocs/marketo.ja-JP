@@ -4,7 +4,7 @@ description: 通話録音をチームと共有する - Marketo Docs - 製品ド�
 title: 通話録音をチームと共有する
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
 
