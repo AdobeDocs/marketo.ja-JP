@@ -4,7 +4,7 @@ description: Marketo でのカスタムフィールドの作成 - Marketo ドキ
 title: Marketo でのカスタムフィールドの作成
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
