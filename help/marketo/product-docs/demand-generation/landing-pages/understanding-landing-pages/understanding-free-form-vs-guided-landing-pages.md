@@ -4,7 +4,7 @@ description: フリーフォームとガイド付きのランディングペー�
 title: フリーフォームとガイド付きのランディングページについて
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 
