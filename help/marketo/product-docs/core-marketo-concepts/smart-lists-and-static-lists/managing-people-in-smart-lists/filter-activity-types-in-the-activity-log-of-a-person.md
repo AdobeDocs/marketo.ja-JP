@@ -4,7 +4,7 @@ description: 人物のアクティビティログでのアクティビティタ�
 title: 人物のアクティビティログでのアクティビティタイプのフィルタリング
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
