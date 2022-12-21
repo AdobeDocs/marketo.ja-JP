@@ -4,7 +4,7 @@ description: Marketo 同期ユーザーをマーケティングユーザーに�
 title: Marketo 同期ユーザーをマーケティングユーザーにする
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
