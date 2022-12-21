@@ -4,7 +4,7 @@ description: ソーシャルフォーム入力を無効にする - Marketo ド�
 title: ソーシャルフォーム入力を無効にする
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
