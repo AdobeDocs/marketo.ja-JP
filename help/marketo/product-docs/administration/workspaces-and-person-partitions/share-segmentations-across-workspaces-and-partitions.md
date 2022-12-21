@@ -4,7 +4,7 @@ description: ワークスペースとパーティションをまたいだセグ�
 title: ワークスペースとパーティションをまたいだセグメント化の共有
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 100%
 
