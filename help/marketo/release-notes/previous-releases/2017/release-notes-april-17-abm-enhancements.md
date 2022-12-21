@@ -4,7 +4,7 @@ description: リリースノート - 2017 年 4 月 ABM の機能強化 - Market
 title: リリースノート - 2017 年 4 月 ABM の機能強化
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
