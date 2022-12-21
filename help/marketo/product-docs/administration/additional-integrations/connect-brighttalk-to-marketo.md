@@ -3,8 +3,8 @@ unique-page-id: 15695874
 description: BrightTALK の Marketo 接続 - Marketo ドキュメント - 製品ドキュメント
 title: BrightTALK の Marketo 接続
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
-workflow-type: ht
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 100%
 
