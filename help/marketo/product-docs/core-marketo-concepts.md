@@ -3,7 +3,7 @@ unique-page-id: 557074
 description: Marketo の中心概念 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo の中心概念
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
