@@ -4,7 +4,7 @@ description: ソーシャルアプリボタンのカスタマイズ - Marketo �
 title: ソーシャルアプリボタンのカスタマイズ
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 
