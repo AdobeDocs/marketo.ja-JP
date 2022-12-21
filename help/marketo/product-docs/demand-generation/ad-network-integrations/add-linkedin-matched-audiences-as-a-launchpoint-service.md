@@ -4,7 +4,7 @@ description: LinkedIn と一致したオーディエンスを LaunchPoint サー
 title: LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
 
