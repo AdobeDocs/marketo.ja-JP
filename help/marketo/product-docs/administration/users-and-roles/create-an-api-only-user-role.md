@@ -4,7 +4,7 @@ description: API 専用ユーザーの役割の作成 - Marketo ドキュメン�
 title: API 専用ユーザーの役割の作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
