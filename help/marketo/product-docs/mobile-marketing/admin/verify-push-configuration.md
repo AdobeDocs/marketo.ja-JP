@@ -4,7 +4,7 @@ description: プッシュ設定の検証 - Marketo ドキュメント - 製品�
 title: プッシュ設定の検証
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
