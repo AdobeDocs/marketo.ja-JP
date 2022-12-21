@@ -4,7 +4,7 @@ description: システムトークンの用語集 - Marketo ドキュメント -
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
 
