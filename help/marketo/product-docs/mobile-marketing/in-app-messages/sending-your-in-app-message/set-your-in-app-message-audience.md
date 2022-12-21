@@ -4,7 +4,7 @@ description: アプリ内メッセージオーディエンスの設定 - Marketo
 title: アプリ内メッセージオーディエンスの設定
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
