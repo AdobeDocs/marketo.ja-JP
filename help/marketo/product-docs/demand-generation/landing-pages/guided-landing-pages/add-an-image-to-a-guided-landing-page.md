@@ -4,7 +4,7 @@ description: ガイド付きランディングページに画像を追加する 
 title: ガイド付きランディングページに画像を追加する
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
