@@ -4,7 +4,7 @@ description: フローステップでの「選択肢を追加」の並べ替え 
 title: フローステップの「選択肢を追加」の並べ替え
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 100%
 
