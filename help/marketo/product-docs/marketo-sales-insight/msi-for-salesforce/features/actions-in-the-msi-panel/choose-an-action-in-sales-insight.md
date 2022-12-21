@@ -4,7 +4,7 @@ description: Sales Insight でのアクションの選択 - Marketo ドキュメ
 title: Sales Insight でのアクションの選択
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
