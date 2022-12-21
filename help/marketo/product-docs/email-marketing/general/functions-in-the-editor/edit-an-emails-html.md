@@ -4,7 +4,7 @@ description: メールの HTML を編集する - Marketo ドキュメント - �
 title: メールの HTML を編集する
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 100%
 
