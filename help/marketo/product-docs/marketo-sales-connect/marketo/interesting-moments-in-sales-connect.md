@@ -4,7 +4,7 @@ description: Sales Connect での注目のアクション - Marketo ドキュメ
 title: Sales Connect での注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 100%
 
@@ -56,6 +56,6 @@ ht-degree: 100%
 
 ## 注目のアクションは、Sales Connect でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-注目のアクションは、ユーザーのライブフィードにリアルタイムで表示されます。Salesforce のリード所有者 ID を利用して、ユーザーが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザーのライブフィードにリアルタイムで表示されます。Salesforce のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/engagement.jpg)
