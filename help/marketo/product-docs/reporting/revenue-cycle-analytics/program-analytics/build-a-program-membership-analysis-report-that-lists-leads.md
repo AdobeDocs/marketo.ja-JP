@@ -4,7 +4,7 @@ description: リードを一覧表示するプログラムメンバーシップ�
 title: リードを一覧表示するプログラムメンバーシップ分析レポートの作成
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
