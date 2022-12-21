@@ -4,7 +4,7 @@ description: メールのスケジュール設定 - Marketo ドキュメント -
 title: メールのスケジュール設定
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
