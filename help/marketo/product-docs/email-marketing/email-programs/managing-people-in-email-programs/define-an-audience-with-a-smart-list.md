@@ -4,7 +4,7 @@ description: スマートリストを使用してオーディエンスを定義�
 title: スマートリストを使用してオーディエンスを定義する
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
 
