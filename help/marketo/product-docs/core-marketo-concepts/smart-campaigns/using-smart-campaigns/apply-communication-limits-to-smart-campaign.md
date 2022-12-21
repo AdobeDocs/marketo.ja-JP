@@ -4,7 +4,7 @@ description: スマートキャンペーンへの通信制限の適用 - Marketo
 title: スマートキャンペーンへの通信制限の適用
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
