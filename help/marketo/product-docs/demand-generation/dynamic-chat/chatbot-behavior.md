@@ -3,7 +3,7 @@ description: チャットボットの動作 - Marketo ドキュメント - 製�
 title: チャットボットの動作
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 100%
 
