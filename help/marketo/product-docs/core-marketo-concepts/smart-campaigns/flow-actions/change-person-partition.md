@@ -4,7 +4,7 @@ description: リードパーティションの変更 - Marketo ドキュメン�
 title: リードパーティションの変更
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
