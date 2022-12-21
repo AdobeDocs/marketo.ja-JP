@@ -4,7 +4,7 @@ description: 予定されているバッチキャンペーンの実行のキャ�
 title: 予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
