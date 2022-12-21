@@ -4,7 +4,7 @@ description: メールインサイトのクイックグラフ - Marketo ドキ�
 title: メールインサイトのクイックグラフ
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 
