@@ -4,7 +4,7 @@ description: テンプレートエンゲージメント — Marketo ドキュメ
 title: テンプレートエンゲージメント
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
