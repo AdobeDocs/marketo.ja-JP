@@ -4,7 +4,7 @@ description: メールレポート - Marketo ドキュメント - 製品ドキ�
 title: メールレポート
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 100%
 
