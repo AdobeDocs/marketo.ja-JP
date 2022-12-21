@@ -4,7 +4,7 @@ description: 返信ログ（SFDC） - Marketo ドキュメント — 製品ド�
 title: 返信ログ（SFDC）
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Sales Connect は、見込み客の Salesforce への返信を自動的に記録
 
    >[!NOTE]
    >
-   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。これには、メールのログ記録方法が含まれます。リードと連絡先重複する記録がある時一致するレコードが見つからない場合。
+   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。ログには、メールのログ記録方法、リードと取引先責任者、重複する記録がある場合、一致するレコードが見つからない場合が含まれます。
 
 ## Salesforce でタイプを返信に設定 {#setting-type-to-reply-in-salesforce}
 
