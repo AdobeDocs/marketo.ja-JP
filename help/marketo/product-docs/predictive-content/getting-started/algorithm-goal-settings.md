@@ -4,7 +4,7 @@ description: アルゴリズムの目標設定 - Marketo ドキュメント - �
 title: アルゴリズムの目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
