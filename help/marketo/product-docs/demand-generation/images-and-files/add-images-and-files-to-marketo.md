@@ -4,7 +4,7 @@ description: 画像とファイルを Marketo に追加 - Marketo ドキュメ�
 title: 画像とファイルを Marketo に追加
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 
