@@ -4,7 +4,7 @@ description: マーケティング キャンペーンへの追加 - Marketo ド�
 title: マーケティングキャンペーンへの追加
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[Sales ユーザーにキャンペーンを表示](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Sales ユーザにキャンペーンを表示](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## キャンペーンに個人を追加する {#add-individuals-to-a-campaign}
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/four-3.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、連絡先をさらに追加することもできます。選択する場合は、「個人」をクリックして入力します。終了したら「**次へ**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「個人」をクリックして入力します。終了したら「**次へ**」をクリックします。
 
    ![](assets/five-2.png)
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
    ![](assets/twelve.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、連絡先をさらに追加することもできます。選択する場合は、「個人」をクリックして入力します。終了したら「**次へ**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「個人」をクリックして入力します。終了したら「**次へ**」をクリックします。
 
    ![](assets/thirteen.png)
 
