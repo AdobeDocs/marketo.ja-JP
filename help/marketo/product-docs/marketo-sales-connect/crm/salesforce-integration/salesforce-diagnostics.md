@@ -4,7 +4,7 @@ description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメ
 title: Salesforce 診断
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** API_CURRENTLY_DISABLED\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** API is disabled for this user\
-**状況：**&#x200B;ユーザーが API にアクセスできません\
+**状況：**&#x200B;ユーザが API にアクセスできません\
 **トラブルシューティング手順：** Salesforce 管理者は、ユーザー API へのアクセス権を付与する必要があります。
 
 <br> 
@@ -28,7 +28,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：**&#x200B;認証に失敗します\
 **トラブルシューティング手順：** Salesforce から切断し、再接続します。
 
-<br>
+<br> 
 
 **エラー：** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -36,22 +36,22 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：**
 
 1 - トリガーコードが原因で更新に失敗します。\
-2 - ユーザーは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
+2 - ユーザは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
 
 **トラブルシューティングの手順：**
 
 1 - 失敗しているトリガーを確認します。\
 2 - オブジェクトに対する書き込みアクセス権をユーザーに付与するか、オブジェクトに書き込もうとする機能を無効にします。
 
-<br>
+<br> 
 
 **エラー：** CANNOT_UPDATE_CONVERTED_LEAD\
 **カテゴリ：**&#x200B;その他\
 **メッセージ：** cannot reference converted lead\
-**状況：**&#x200B;連絡先およびリードの最新のアクティビティログ中に、変換済みのリードにログを記録しようとしています。また、売り口上にもこれらが 2 つありました。\
+**状況：**&#x200B;取引先責任者およびリードの最新のアクティビティログ中に、変換済みのリードにログを記録しようとしています。また、売り口上にもこれらが 2 つありました。\
 **トラブルシューティング手順：**&#x200B;インスタンスがある場合、アドビの[サポートチーム](https://nation.marketo.com/t5/Support/ct-p/Support)に報告してください。
 
-<br>
+<br> 
 
 **エラー：** ENTITY_IS_LOCKED\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -59,15 +59,15 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：**&#x200B;レコードは、承認プロセス中で、承認を所有する人によって承認または拒否されるまで、追加の編集内容からロックされます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-<br>
+<br> 
 
 **エラー：**EXPIRED_ACCESS
 **カテゴリ：**認証
 **メッセージ：**invalid_grant: expired access/refresh token
-**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは[Salesforce のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
+**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [Salesforce のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
 **トラブルシューティング手順：**&#x200B;再認証が必要になります。Salesforce 接続を切断し、再接続します。
 
-<br>
+<br> 
 
 **エラー：** FAILED_WRITE\
 **カテゴリ：**&#x200B;断続的\
@@ -75,13 +75,13 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：**&#x200B;顧客側での最適でないトリガーが原因と考えられる、Salesforce のパフォーマンスの問題。\
 **トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも問題が解決しない場合は、Salesforce の管理者に問い合わせて、問題のあるトリガーのトラブルシューティングを依頼します。
 
-<br>
+<br> 
 
 **エラー：** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **カテゴリ：**アクセス/検証
 **メッセージ：**&#x200B;顧客によって異なります。**状況：**&#x200B;オブジェクトのカスタム検証ルールが失敗します。**トラブルシューティング手順：** このエラーを引き起こしているカスタム検証ルールを確認します。これは慣習的な規則なので、エラーは 1 回限りで対処する必要があります。
 
-<br>
+<br> 
 
 **エラー：** FIELD_FILTER_VALIDATION_EXCEPTION\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -89,7 +89,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：** Salesforce の既存の不正なデータが更新時に強制されます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-<br>
+<br> 
 
 **エラー：** FIELD_INTEGRITY_EXCEPTION\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -97,7 +97,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：** Salesforce の既存の不正なデータが更新時に強制されます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-<br>
+<br> 
 
 **エラー：** INACTIVE_ORGANIZATION\
 **カテゴリ：**&#x200B;認証\
@@ -108,7 +108,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：**INACTIVE_USER
 **カテゴリ：**認証
 **メッセージ：**invalid_grant: inactive user
-**状況：**Salesforce ユーザーがアクティブでなくなっています
+**状況：**Salesforce ユーザがアクティブでなくなっています
 **トラブルシューティング手順：** Salesforce から切断し、再接続します。
 
 **エラー：** INSERT_UPDATE_EXPERIENCE_NOT_ALLOWED_DURING_MAINTENANCE\
@@ -122,13 +122,13 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **メッセージ：**insufficient access rights on object id
 **状況：**&#x200B;タスクの親レコードにアクセスできません。**トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-<br>
+<br> 
 
 **エラー：** INSUFFICIENT_ACCESS_OR_READONLY\
 **カテゴリ：**アクセス／検証
 **メッセージ：**insufficient access rights on object id
 **状況：**&#x200B;最新のアクティビティログは、書き込みアクセス権を持たないので、特定のレコードを編集できません。\
-**トラブルシューティング手順：** Salesforce でのユーザーアクセスを許可するか、そのユーザーのオブジェクトに対する最新のアクティビティログを無効にします。
+**トラブルシューティング手順：** Salesforce でのユーザアクセスを許可するか、そのユーザのオブジェクトに対する最新のアクティビティログを無効にします。
 
 **エラー：** INVALID_FIELD\
 **カテゴリ：**&#x200B;断続的\
@@ -151,7 +151,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** INVALID_TYPE\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。Please reference your WSDL or the describe call for the appropriate names
-**状況：**&#x200B;ユーザーがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザーがリードオブジェクトに対する権限を持っていないことが原因である可能性が高いです。\
+**状況：**&#x200B;ユーザがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザがリードオブジェクトに対する権限を持っていないことが原因である可能性が高いです。\
 **トラブルシューティング手順：** Salesforce のリードオブジェクトに対して読み取りおよび更新アクセス権を付与するか、リードレコードへのメールログと最新のアクティビティのログをオフにします。
 
 **エラー：** QUERY_TIMEOUT\
