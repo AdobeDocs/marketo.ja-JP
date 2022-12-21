@@ -4,7 +4,7 @@ description: Gmail が Sales Connect 署名を取り込んでいない — Marke
 title: Gmail が Sales Connect 署名を取り込んでいない
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
