@@ -4,7 +4,7 @@ description: ソーシャルプロファイルデータの管理 — Marketo ド
 title: ソーシャルプロファイルデータの管理
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 100%
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 * 姓（表示名から解析）
 * メール
 
-## 開始Facebook: {#from-facebook-1}
+## Facebook から： {#from-facebook-1}
 
 * 名
 * 姓
