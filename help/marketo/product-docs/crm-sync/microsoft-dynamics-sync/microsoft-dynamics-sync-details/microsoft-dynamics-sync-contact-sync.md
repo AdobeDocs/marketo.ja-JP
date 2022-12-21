@@ -4,7 +4,7 @@ description: Microsoft Dynamics 同期 - 連絡先の同期 - Marketo ドキュ�
 title: Microsoft Dynamics 同期 - 連絡先の同期
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
