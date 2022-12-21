@@ -5,8 +5,8 @@ title: リードを一覧表示するメール分析レポートの作成
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 82%
 
 ---
 
