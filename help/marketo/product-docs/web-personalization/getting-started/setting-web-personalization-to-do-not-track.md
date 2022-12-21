@@ -4,7 +4,7 @@ description: ウェブパーソナライズを追跡しないように設定す�
 title: ウェブパーソナライズを追跡しないように設定する
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
