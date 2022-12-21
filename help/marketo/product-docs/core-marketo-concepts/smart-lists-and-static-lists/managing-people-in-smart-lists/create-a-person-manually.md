@@ -4,7 +4,7 @@ description: リードの手動作成 - Marketo ドキュメント - 製品ド�
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
