@@ -6,13 +6,13 @@ exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # 投票の作成 {#create-a-poll}
 
-自分で参加し、ソーシャルネットワーク上で友達と共有できる投票にユーザーをエンゲージします。ランディングページ、Web サイト、Facebook などの場所に追加できます。
+自分で参加し、ソーシャルネットワーク上で友達と共有できる投票にユーザをエンゲージします。ランディングページ、web サイト、Facebook などの場所に追加できます。
 
 >[!AVAILABILITY]
 >
