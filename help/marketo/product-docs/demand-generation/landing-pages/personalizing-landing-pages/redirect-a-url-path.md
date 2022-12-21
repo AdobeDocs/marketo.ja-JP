@@ -4,7 +4,7 @@ description: URL パスをリダイレクトする - Marketo ドキュメント 
 title: URL パスをリダイレクトする
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
@@ -16,9 +16,9 @@ Marketo を使用すると、任意のページに URL パスを簡単にリダ�
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
-1. 「**管理**」で「**ランディングページ**」をクリックします。
+1. 「**管理者**」で「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
