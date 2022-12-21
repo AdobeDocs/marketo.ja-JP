@@ -4,7 +4,7 @@ description: ステータス別のリードレポート - Marketo ドキュメ�
 title: ステータス別のリードレポート
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
