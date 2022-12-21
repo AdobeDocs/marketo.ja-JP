@@ -4,7 +4,7 @@ description: フォーム内のフィールドへの入力マスクの適用 - M
 title: フォーム内のフィールドへの入力マスクの適用
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
 
@@ -46,7 +46,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
