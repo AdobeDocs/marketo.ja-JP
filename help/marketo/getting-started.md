@@ -4,7 +4,7 @@ description: はじめに - Marketo ドキュメント - 製品ドキュメン�
 title: はじめに
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
