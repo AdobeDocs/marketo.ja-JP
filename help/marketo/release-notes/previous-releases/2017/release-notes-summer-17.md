@@ -4,7 +4,7 @@ description: リリースノート - 2017 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2017 年夏
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 LeanData の統合により、Marketo でリードと顧客のマッチングが可能になりました。記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
 
-## ウェブパーソナライゼーションの機能拡張 {#web-personalization-enhancements}
+## ウェブパーソナライズの機能拡張 {#web-personalization-enhancements}
 
 **[キャンペーンプレビューの機能拡張](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
