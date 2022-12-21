@@ -4,7 +4,7 @@ title: トラッキングするメールの送信
 hide: true
 hidefromtoc: true
 source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
