@@ -4,7 +4,7 @@ description: フォルダーを使用した画像とファイルの整理 - Mark
 title: フォルダーを使用した画像とファイルの整理
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
