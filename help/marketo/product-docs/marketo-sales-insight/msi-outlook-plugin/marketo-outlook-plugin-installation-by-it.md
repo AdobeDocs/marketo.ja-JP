@@ -4,7 +4,7 @@ description: IT による Marketo Outlook プラグインのインストール -
 title: IT による Marketo Outlook プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 
