@@ -4,7 +4,7 @@ description: テンプレート 1A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 1A
 exl-id: e2dd3c0a-405b-414a-bdbc-bd1cb85d6d13
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
