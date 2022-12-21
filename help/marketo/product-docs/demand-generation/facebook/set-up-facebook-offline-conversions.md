@@ -4,7 +4,7 @@ description: Facebook オフラインコンバージョンの設定 - Marketo �
 title: Facebook オフラインコンバージョンの設定
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 100%
 
