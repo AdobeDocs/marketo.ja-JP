@@ -4,7 +4,7 @@ description: メールプログラムについて - Marketo ドキュメント -
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 100%
 
