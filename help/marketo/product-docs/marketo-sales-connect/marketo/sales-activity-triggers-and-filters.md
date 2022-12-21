@@ -3,7 +3,7 @@ description: セールスアクティビティのトリガーとフィルター 
 title: セールスアクティビティのトリガーとフィルター
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
