@@ -4,7 +4,7 @@ description: ソーシャルアクティビティのトリガーとフィルタ�
 title: ソーシャルアクティビティのトリガーとフィルター
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
