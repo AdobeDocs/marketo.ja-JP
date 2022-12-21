@@ -4,7 +4,7 @@ description: デベロッパーに SDK コードを送信する - Marketo ドキ
 title: デベロッパーに SDK コードを送信する
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
