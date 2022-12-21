@@ -4,7 +4,7 @@ description: 収益モデルのレポート - Marketo ドキュメント - 製�
 title: 収益モデルのレポート
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
