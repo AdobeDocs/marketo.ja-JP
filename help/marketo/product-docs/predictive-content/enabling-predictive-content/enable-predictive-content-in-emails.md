@@ -4,7 +4,7 @@ description: メールの予測コンテンツを有効にする - Marketo ド�
 title: メールの予測コンテンツを有効にする
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 
@@ -23,12 +23,12 @@ ht-degree: 100%
 >予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
+   >
+   >   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;}、または
+   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;}、または
+   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"}、または
->   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"}、または
->   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
->
->* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
 
 
 ## メール 2.0 エディターを使用した予測コンテンツの追加 {#adding-predictive-content-using-the-email-editor}
@@ -85,9 +85,9 @@ ht-degree: 100%
 
 ## メール 2.0 エディターを使用しない場合の予測コンテンツの追加 {#adding-predictive-content-when-not-using-the-email-editor}
 
-[メール 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} テンプレートを使用していない場合、テンプレート内の画像を Marketo の編集可能な画像要素としてタグ付けするだけで、メールに予測コンテンツを追加できます。
+[メール 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target=&quot;_blank&quot;} テンプレートを使用していない場合、テンプレート内の画像を Marketo の編集可能な画像要素としてタグ付けするだけで、メールに予測コンテンツを追加できます。
 
-Marketo 固有の構文について、[こちら](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}をご覧ください。
+Marketo 固有の構文について、[こちら](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target=&quot;_blank&quot;}をご覧ください。
 
 コードの例を次に示します（これは一例です。以下のコードをそのままコピーしないでください）。
 
