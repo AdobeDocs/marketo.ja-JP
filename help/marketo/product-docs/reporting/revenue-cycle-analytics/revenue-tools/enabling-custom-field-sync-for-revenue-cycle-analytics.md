@@ -4,7 +4,7 @@ description: 収益サイクルアナリティクスのカスタムフィール�
 title: 収益サイクルアナリティクスのカスタムフィールド同期の有効化
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
