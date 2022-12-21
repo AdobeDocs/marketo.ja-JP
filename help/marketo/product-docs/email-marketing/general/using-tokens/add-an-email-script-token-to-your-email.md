@@ -4,7 +4,7 @@ description: メールにメールスクリプトトークンを追加する - M
 title: メールにメールスクリプトトークンを追加する
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
 
