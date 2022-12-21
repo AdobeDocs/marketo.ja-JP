@@ -4,7 +4,7 @@ description: Google Chrome への Marketo Insights のインストール - Marke
 title: Google Chrome への Marketo Insights のインストール
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 
