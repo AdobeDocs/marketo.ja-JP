@@ -4,7 +4,7 @@ description: 動的フィールドが入力されない場合の対処 - Marketo
 title: 動的フィールドが入力されない場合の対処
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Tout 基本フィールド：例 `{{company}}`
 
 Tout カスタムフィールド：例 `{{custom_field_favorite_movie}}`
 
-* 動的フィールドを参照するには、連絡先の[リードページ](https://toutapp.com/next#relationships)にある対応するフィールドを保存する必要があります。例えば、Mary にメールを送信し、`{{company}}` フィールドを使用しているが、その連絡先レコードに会社がリストされていない場合、フィールドには入力されません。
+* 動的フィールドを参照するには、取引先責任者の[人物ページ](https://toutapp.com/next#relationships)にある対応するフィールドを保存する必要があります。例えば、Mary にメールを送信し、`{{company}}` フィールドを使用しているが、その取引先責任者レコードに会社がリストされていない場合、フィールドには入力されません。
 
 ## すべての動的フィールドに値が入力されずにメールが送信された理由 {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
