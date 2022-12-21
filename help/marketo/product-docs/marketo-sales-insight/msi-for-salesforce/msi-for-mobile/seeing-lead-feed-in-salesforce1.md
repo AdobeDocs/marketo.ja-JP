@@ -4,7 +4,7 @@ description: Salesforce1 でのリードフィードの表示 - Marketo ドキ�
 title: Salesforce1 でのリードフィードの表示
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
