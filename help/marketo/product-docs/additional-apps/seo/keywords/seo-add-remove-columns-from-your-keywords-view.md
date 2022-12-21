@@ -4,7 +4,7 @@ description: SEO - キーワード表示に対する列の追加／削除 - Mark
 title: SEO - キーワード表示に対する列の追加／削除
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
