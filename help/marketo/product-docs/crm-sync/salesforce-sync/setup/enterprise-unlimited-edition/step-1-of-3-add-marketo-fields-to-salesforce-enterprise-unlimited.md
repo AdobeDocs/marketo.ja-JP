@@ -4,7 +4,7 @@ description: 手順 1／3 - Marketo フィールドの Salesforce への追加�
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '784'
 ht-degree: 100%
 
