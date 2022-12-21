@@ -4,7 +4,7 @@ description: ユーザログインを SSO のみに制限 - Marketo ドキュメ
 title: ユーザログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
