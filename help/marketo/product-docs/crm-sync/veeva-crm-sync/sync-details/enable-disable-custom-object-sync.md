@@ -3,7 +3,7 @@ description: カスタムオブジェクト同期の有効化／無効化 - Mark
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 100%
 
