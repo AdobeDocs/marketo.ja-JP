@@ -4,7 +4,7 @@ description: フリーフォームランディングページで画像にリン�
 title: フリーフォームランディングページで画像にリンクを追加する
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
