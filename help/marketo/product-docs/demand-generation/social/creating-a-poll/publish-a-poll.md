@@ -4,7 +4,7 @@ description: 投票の公開 - Marketo ドキュメント - 製品ドキュメ�
 title: 投票の公開
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
