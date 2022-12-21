@@ -4,7 +4,7 @@ description: 紹介オファーの目標を指定する - Marketo ドキュメ�
 title: 紹介オファーの目標を指定する
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
