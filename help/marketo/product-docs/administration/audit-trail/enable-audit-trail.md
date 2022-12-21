@@ -4,7 +4,7 @@ description: 監査記録の有効化 - Marketo ドキュメント - 製品ド�
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
