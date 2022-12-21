@@ -4,7 +4,7 @@ description: バッチおよびトリガースマートキャンペーンにつ�
 title: バッチおよびトリガースマートキャンペーンについて
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 * 毎日、毎週、毎月のように、反復するスケジュール設定が可能です。あるいは、単発で 1 回のみ実行するよう設定することも可能です。
 * [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)に表示されます。スマートキャンペーン内の「待機」ステップ以降の処理は、この表示に表示されません。
 
-<br>
+<br> 
 
 ## トリガースマートキャンペーン {#trigger-smart-campaign}
 
