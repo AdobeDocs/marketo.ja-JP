@@ -4,7 +4,7 @@ description: 動的コンテンツについて - Marketo ドキュメント - �
 title: 動的コンテンツについて
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
 
