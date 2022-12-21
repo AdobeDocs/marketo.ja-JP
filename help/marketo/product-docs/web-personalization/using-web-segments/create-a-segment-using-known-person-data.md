@@ -4,7 +4,7 @@ description: 既知のリードデータを使用してセグメントを作成�
 title: 既知のリードデータを使用してセグメントを作成する
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
