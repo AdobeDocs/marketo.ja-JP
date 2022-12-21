@@ -1,17 +1,17 @@
 ---
-description: リリースノート - 2022 年 1 月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2022 年 1 月
+description: リリースノート - 2022年1月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2022年1月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2022 年 1 月 {#release-notes-jan-22}
+# リリースノート：2022年1月 {#release-notes-jan-22}
 
-2022 年 1 月リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+2022年1月リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -19,7 +19,7 @@ ht-degree: 93%
 
 **_四半期リリース_**
 
-以下の機能のリリースは、 **2022 年 1 月 22 日**（特に指定のない限り）次の週間にわたって各機能を段階的に展開する場合。
+以下の機能のリリースは、**2022年1月21日**&#x200B;に始まり、（特に指定のない限り）次の週から各機能が段階的にロールアウトされます。
 
 ## 次世代エクスペリエンス {#modern-ux}
 
@@ -32,7 +32,7 @@ ht-degree: 93%
 
 * **一般に利用可能な Multiselect Optionset フィールドタイプの同期**：Microsoft Dynamics の複数選択オプションセットフィールドタイプを同期して、スマートリストとスマートキャンペーンで活用し、より詳細なオーディエンスターゲティングを実現します。例は、トピック／関心のある製品、優先するコミュニケーションモードなどです。この新しい同期は、Microsoft Dynamics バージョン 9.X（Dynamics 365 Online を含む）で使用できます。
 
-* **Microsoft Dynamics 365 オンラインのサーバー間認証**：セキュリティを強化するため、Microsoft Dynamics 365 オンラインへの非インタラクティブアクセス用に、Azure Active Directory の Marketo Engage 同期ユーザーの認証の追加モードとして、サーバー間（S2S）認証をサポートするようになりました。すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくため、多要素認証を使用できます。
+* **Microsoft Dynamics 365 オンラインのサーバー間認証**：セキュリティを強化するため、Microsoft Dynamics 365 オンラインへの非インタラクティブアクセス用に、Azure Active Directory の Marketo Engage 同期ユーザの認証の追加モードとして、サーバー間（S2S）認証をサポートするようになりました。すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくため、多要素認証を使用できます。
 
 >[!NOTE]
 >
@@ -46,11 +46,11 @@ ht-degree: 93%
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
+以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
 ## AEP Marketo Engage 宛先コネクタ - 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
-Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザーのうち、Marketo Engage データベースにまだ存在しないユーザーは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
+Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザのうち、Marketo Engage データベースにまだ存在しないユーザは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
 ## Sales Insight {#sales-insight}
 
@@ -58,7 +58,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **Salesforce CRM 用 Sales Insight**
 
-* **最有望見込客の新しいタイプ列**：販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最有望見込客」ページのリードと連絡先を区別し、より迅速にインサイトを得ることができます。
+* **最有望見込客の新しいタイプ列**：販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最有望見込客」ページのリードと取引先責任者を区別し、より迅速にインサイトを得ることができます。
 
 * **Salesforce Platform API の更新**：Salesforce が Salesforce Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、Sales Insight パッケージが最新の API で更新されました。
 
@@ -66,7 +66,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **Microsoft Dynamics 向け Sales Insight**
 
-* **更新されたアカウントのレイアウト**：販売者は、アカウント内のすべての連絡先に関するメールアクティビティ、web アクティビティ、注目のアクティビティ、スコア変更のようなトップアクティビティを総合的に把握できます。
+* **更新されたアカウントのレイアウト**：販売者は、アカウント内のすべての取引先責任者に関するメールアクティビティ、web アクティビティ、注目のアクティビティ、スコア変更のようなトップアクティビティを総合的に把握できます。
 
 ## Sales Connect {#sales-connect}
 
@@ -78,14 +78,14 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## お知らせ {#announcements}
 
-* **Marketo Skyの廃止**:3 月には、Marketo Skyは利用できなくなります。リソースが次世代のユーザーエクスペリエンスを提供することに注力しています。 現在 Marketo Sky 専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。[こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。現在 Marketo Sky 専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。[こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。[こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザーを招待ダイアログにログイン**：3 月には、既存のオプション機能「ユーザーを招待ダイアログでログイン」は廃止されます。「ユーザーを招待ダイアログでログイン」機能は、今後の Adobe ID 管理システム統合に必要なユニバーサル ID 機能によって上書きされ、2021 年 8 月にすべての購読に対して有効になりました。廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザーを 1 名だけ関連付けられるようになります。
+* **ユーザを招待ダイアログにログイン**：3月には、既存のオプション機能「ユーザを招待ダイアログでログイン」は廃止されます。「ユーザを招待ダイアログでログイン」機能は、今後の Adobe ID 管理システム統合に必要なユニバーサル ID 機能によって上書きされ、2021年8月にすべての購読に対して有効になりました。廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
 
-**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザーには、リード、連絡先、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
+**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
 
 **_製品リリースウェビナー_**
 
-[2022 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)
+[2022年1月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)
