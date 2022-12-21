@@ -4,7 +4,7 @@ description: 懸賞のスタイルのカスタマイズ - Marketo ドキュメ�
 title: 懸賞スタイルのカスタマイズ
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 
