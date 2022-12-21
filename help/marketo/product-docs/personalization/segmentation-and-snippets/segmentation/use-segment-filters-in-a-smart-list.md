@@ -4,7 +4,7 @@ description: スマートリストでセグメントフィルターを使用す�
 title: スマートリストでセグメントフィルターを使用する
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
