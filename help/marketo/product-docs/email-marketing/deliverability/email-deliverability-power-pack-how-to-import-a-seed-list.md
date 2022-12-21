@@ -4,7 +4,7 @@ description: メール到達率パワーパック：シードリストのイン�
 title: メール到達率パワーパック：シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 100%
 
