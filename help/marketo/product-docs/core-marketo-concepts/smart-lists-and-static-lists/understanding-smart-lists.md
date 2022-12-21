@@ -4,7 +4,7 @@ description: スマートリストについて - Marketo ドキュメント - �
 title: スマートリストについて
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%
 
