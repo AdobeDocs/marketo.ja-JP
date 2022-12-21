@@ -4,7 +4,7 @@ description: テンプレート 7A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 7A
 exl-id: f27b481a-6fae-4908-9488-b7fe456af071
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
