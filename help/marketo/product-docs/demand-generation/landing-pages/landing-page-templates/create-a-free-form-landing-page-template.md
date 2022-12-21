@@ -4,7 +4,7 @@ description: フリーフォームランディングページテンプレート�
 title: フリーフォームランディングページテンプレートを作成する
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
