@@ -4,7 +4,7 @@ description: SMS メッセージダッシュボード - Marketo ドキュメン�
 title: SMS メッセージダッシュボード
 exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
