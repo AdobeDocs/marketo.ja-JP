@@ -4,7 +4,7 @@ description: 「送信元アドレス」A/B テストを使用する — Marketo
 title: 「送信元アドレス」A/B テストを使用する
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
 
