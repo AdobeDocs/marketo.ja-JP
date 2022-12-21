@@ -4,7 +4,7 @@ description: アプリ内メッセージについて - Marketo ドキュメン�
 title: アプリ内メッセージについて
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
