@@ -4,7 +4,7 @@ description: 新規スマートキャンペーンの作成 - Marketo ドキュ�
 title: 新規スマートキャンペーンの作成
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
