@@ -4,7 +4,7 @@ description: Marketo ランディングページでの RTP の実装 - Marketo �
 title: Marketo ランディングページでの RTP の実装
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
 
