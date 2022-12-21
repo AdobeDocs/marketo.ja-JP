@@ -4,7 +4,7 @@ description: 重点顧客の作成 - Marketo ドキュメント - 製品ドキ�
 title: 重点顧客の作成
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
