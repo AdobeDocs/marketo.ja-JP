@@ -4,7 +4,7 @@ description: フリーフォームランディングページでの動的コン�
 title: フリーフォームランディングページでの動的コンテンツの使用
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 
