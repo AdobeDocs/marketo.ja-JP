@@ -4,7 +4,7 @@ description: テンプレート 8E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 8E
 exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
