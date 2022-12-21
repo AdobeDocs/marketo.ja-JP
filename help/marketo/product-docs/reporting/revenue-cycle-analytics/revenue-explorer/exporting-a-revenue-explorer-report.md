@@ -4,7 +4,7 @@ description: 収益エクスプローラレポートの書き出し - Marketo �
 title: 収益エクスプローラレポートの書き出し
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
