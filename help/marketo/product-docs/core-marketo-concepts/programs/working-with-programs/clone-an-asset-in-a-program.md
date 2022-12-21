@@ -4,7 +4,7 @@ description: プログラム内でのアセットの複製 - Marketo ドキュ�
 title: プログラムでのアセットの複製
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
