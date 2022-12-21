@@ -4,7 +4,7 @@ description: フォームの削除 - Marketo ドキュメント - 製品ドキ�
 title: フォームの削除
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 不要で使用されていないフォームがある場合は、そのフォームを削除できます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
