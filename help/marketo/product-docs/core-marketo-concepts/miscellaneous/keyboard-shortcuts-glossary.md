@@ -4,7 +4,7 @@ description: キーボードショートカットの用語集 - Marketo ドキ�
 title: キーボードショートカットの用語集
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
