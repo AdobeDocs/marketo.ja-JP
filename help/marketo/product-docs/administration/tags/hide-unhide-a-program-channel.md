@@ -4,7 +4,7 @@ description: プログラムチャネルの表示設定を切り替える - Mark
 title: プログラムチャネルの表示設定を切り替える
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
