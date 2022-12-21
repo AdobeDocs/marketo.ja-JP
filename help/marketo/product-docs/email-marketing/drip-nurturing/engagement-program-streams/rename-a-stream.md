@@ -4,7 +4,7 @@ description: ストリーム名の変更 - Marketo ドキュメント - 製品�
 title: ストリーム名の変更
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
