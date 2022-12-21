@@ -4,7 +4,7 @@ description: リストインポートによる対象ユーザーの定義 - Mark
 title: リストインポートによる対象ユーザーの定義
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 100%
 
