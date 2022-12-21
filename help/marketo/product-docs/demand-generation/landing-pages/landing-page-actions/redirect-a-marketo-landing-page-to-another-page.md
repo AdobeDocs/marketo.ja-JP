@@ -4,7 +4,7 @@ description: Marketo のランディングページを別のページにリダ�
 title: Marketo のランディングページを別のページにリダイレクトする
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
@@ -16,9 +16,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理者権限が必要です**
+>**管理者権限が必要**
 
-1. 「**管理**」で「**ランディングページ**」をクリックします。
+1. 「**管理者**」で「**ランディングページ**」をクリックします。
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
