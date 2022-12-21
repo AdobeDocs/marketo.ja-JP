@@ -4,7 +4,7 @@ description: モバイルアプリ Android プッシュアクセスの設定 - M
 title: モバイルアプリ Android プッシュアクセスの設定
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
