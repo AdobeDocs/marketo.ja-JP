@@ -4,7 +4,7 @@ description: テンプレート 14D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキストおよび懸賞が含まれます
+   * ヒーロータイトル、ヒーローテキスト、懸賞が含まれます
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
