@@ -4,7 +4,7 @@ description: ワークスペースをまたいだモデルの共有 - Marketo �
 title: ワークスペースをまたいだモデルの共有
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 
