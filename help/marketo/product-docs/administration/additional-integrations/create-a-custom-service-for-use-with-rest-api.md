@@ -4,7 +4,7 @@ description: ReST API で使用するカスタムサービスの作成 - Marketo
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
