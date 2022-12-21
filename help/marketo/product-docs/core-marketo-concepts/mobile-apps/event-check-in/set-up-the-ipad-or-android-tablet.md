@@ -4,7 +4,7 @@ description: iPad または Android タブレットの設定 - Marketo ドキュ
 title: iPad または Android タブレットの設定
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 100%
 
