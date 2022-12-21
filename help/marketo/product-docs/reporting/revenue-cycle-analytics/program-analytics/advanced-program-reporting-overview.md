@@ -4,7 +4,7 @@ description: 高度なプログラムレポートの概要 - Marketo ドキュ�
 title: 高度なプログラムレポートの概要
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
 
