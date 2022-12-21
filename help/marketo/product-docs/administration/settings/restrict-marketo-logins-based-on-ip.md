@@ -4,7 +4,7 @@ description: IP に基づく Marketo ログインの制限 - Marketo ドキュ�
 title: IP に基づく Marketo ログインの制限
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 100%
 
