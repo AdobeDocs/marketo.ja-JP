@@ -3,7 +3,7 @@ description: キャンペーンの実行 - Marketo ドキュメント - 製品�
 title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 100%
 
