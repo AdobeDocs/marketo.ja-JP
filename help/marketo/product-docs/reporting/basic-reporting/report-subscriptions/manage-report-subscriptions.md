@@ -4,7 +4,7 @@ description: レポート購読の管理 - Marketo ドキュメント - 製品�
 title: レポート購読の管理
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 100%
 
