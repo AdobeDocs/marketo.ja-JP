@@ -4,7 +4,7 @@ description: フォームラベルの位置の変更 — Marketo ドキュメン
 title: フォームラベルの位置の変更
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
