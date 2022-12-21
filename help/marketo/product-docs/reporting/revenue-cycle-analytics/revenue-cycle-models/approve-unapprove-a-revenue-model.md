@@ -4,7 +4,7 @@ description: 収益モデルの承認／承認取消 - Marketo ドキュメン�
 title: 収益モデルの承認／承認取消
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
