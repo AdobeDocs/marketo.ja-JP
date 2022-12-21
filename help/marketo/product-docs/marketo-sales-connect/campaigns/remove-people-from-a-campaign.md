@@ -4,7 +4,7 @@ description: キャンペーンからリードを削除する — Marketo ドキ
 title: キャンペーンからリードを削除する
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 これを設定するには、キャンペーンを作成した後、「キャンペーン」タブの「設定」部分にある「登録解除」ボックスをオンにします。どちらのオプションもキャンペーンを終了し受信者はこれ以上メールを受信しません。この機能を使用するには、返信のトラッキングが必要です。
 
-さらに、キャンペーン自体からリードを削除したり、リードページ内のキャンペーンからリードを削除したり、リードのグループ全体を削除したりできます。以下の 3 つの方法すべてを見てみましょう。
+さらに、キャンペーン自体から人物を削除したり、人物ページ内のキャンペーンから人物を削除したり、人物のグループ全体を削除したりできます。以下の 3 つの方法すべてを見てみましょう。
 
 ## キャンペーンから直接リードを削除する {#remove-a-person-directly-from-a-campaign}
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
    ![](assets/three.png)
 
-1. 削除するリードを見つけて、「**削除**」をクリックします。
+1. 削除する人物を見つけて、「**削除**」をクリックします。
 
    ![](assets/four.png)
 
@@ -40,23 +40,23 @@ ht-degree: 100%
 
    ![](assets/five.png)
 
-## リードページ内のキャンペーンからリードを削除する {#remove-a-person-from-a-campaign-within-the-people-page}
+## 人物ページ内のキャンペーンからリードを削除する {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Sales Connect で、「**リード**」タブをクリックします。
+1. Sales Connect で、「**人物**」タブをクリックします。
 
    ![](assets/one-a.png)
 
-1. 削除するリードを見つけて選択します。
+1. 削除する人物を見つけて選択します。
 
    ![](assets/two-a.png)
 
-1. 右側にリード詳細表示パネルが開きます。「**履歴**」タブに続いて「**削除**」ボタンをクリックします。
+1. 右側に人物詳細表示パネルが開きます。「**履歴**」タブに続いて「**削除**」ボタンをクリックします。
 
    ![](assets/three-a.png)
 
-## キャンペーンからリードグループを削除する {#remove-a-group-of-people-from-a-campaign}
+## キャンペーンから人物グループを削除する {#remove-a-group-of-people-from-a-campaign}
 
-1. Sales Connect で、「**リード**」タブをクリックします。
+1. Sales Connect で、「**人物**」タブをクリックします。
 
    ![](assets/one-b.png)
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
    ![](assets/two-b.png)
 
-1. 削除するリードを選択します。
+1. 削除する人物を選択します。
 
    ![](assets/three-b.png)
 
