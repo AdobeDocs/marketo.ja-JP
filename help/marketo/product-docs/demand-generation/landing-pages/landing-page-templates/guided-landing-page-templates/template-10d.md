@@ -4,7 +4,7 @@ description: テンプレート 10D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
