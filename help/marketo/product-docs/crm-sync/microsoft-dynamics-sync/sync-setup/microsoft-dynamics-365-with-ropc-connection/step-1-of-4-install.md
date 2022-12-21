@@ -3,7 +3,7 @@ description: 手順 1／4 - リソース所有者のパスワード制御接続�
 title: 手順 1／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 100%
 
@@ -47,7 +47,7 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. ソリューション情報を表示し、「**ソリューションパッケージの詳細を表示**」をクリックします。
+1. ソリューション情報を表示し、「**ソリューションパッケージ詳細を表示**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
@@ -59,7 +59,7 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 「SDK オプション」チェックボックスがオンになっていることを確認します。「**インポート**」をクリックします。
+1. 「SDK オプション」のチェックがオンになっていることを確認します。「**インポート**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
