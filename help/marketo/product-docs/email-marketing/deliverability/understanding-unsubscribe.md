@@ -4,7 +4,7 @@ description: 登録解除について - Marketo ドキュメント - 製品ド�
 title: 登録解除について
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ Marketo には、実際にはいくつかの異なるタイプの組み込みの
 
 >[!NOTE]
 >
->Marketo では、製品内のブラックリストやホワイトリストなどの用語をブロックリストや許可リストに変更する作業を進めています。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。混乱を招いてしまったことをお詫びいたします。
+>Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
 
 これらのフィールドはすべて、Marketo での登録に組み込まれています。これらはすべてブール型（チェックボックス）です。これらは Forms または[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップで使用できます。
 
