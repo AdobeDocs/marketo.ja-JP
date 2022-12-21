@@ -4,7 +4,7 @@ description: Facebook でのカスタムオーディエンスの作成- Marketo 
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
