@@ -4,7 +4,7 @@ description: Marketo 管理者向け Sales Insight ページ - Marketo ドキュ
 title: Marketo 管理者向け Sales Insight ページ
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
 
