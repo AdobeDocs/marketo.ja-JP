@@ -4,7 +4,7 @@ description: ユーザーの招待 - Marketo ドキュメント - 製品ドキ�
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
