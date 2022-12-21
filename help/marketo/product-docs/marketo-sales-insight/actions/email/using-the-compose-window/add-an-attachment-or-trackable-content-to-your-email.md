@@ -3,7 +3,7 @@ description: メールへの添付ファイルまたはトラック可能コン�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
 
