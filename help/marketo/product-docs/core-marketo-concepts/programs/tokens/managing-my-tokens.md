@@ -4,7 +4,7 @@ description: マイトークンの管理 - Marketo ドキュメント - 製品�
 title: マイトークンの管理
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
