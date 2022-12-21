@@ -5,7 +5,7 @@ exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 70%
+ht-degree: 83%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 70%
 
 >[!PREREQUISITES]
 >
->* [API ロールの編集](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 確かに **読み取り/書き込み担当者** 権限（アクセス API ドロップダウンの下）
->* Marketo で [API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
->* **管理者**／**Launchpoint** に移動します。作成した役割の名前を探し、「**詳細を表示**」をクリックします。手順 7 で必要になるため、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
+>* [API ロールを編集](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role)して、**読み取り／書き込み**&#x200B;権限を持つようにします（アクセス API ドロップダウン下にあります）。
+>* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
+>* **管理者**／**Launchpoint** に移動します。作成したロールの名前を探し、「**詳細を表示**」をクリックします。手順 7 で必要になるため、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 
 
@@ -84,7 +84,7 @@ ht-degree: 70%
 
    >[!IMPORTANT]
    >
-   >セグメントがMarketoの宛先に対して初めてアクティブ化された後は、Marketoの宛先のアクティブ化以前にセグメントに既に存在していたプロファイルのバックフィルに要する場合があります **最大 24 時間**. 今後、プロファイルがセグメントに追加されるたびに、即座にMarketoに追加されます。
+   >セグメントが Marketo の宛先に対して初めてアクティブ化された後は、Marketo の宛先のアクティブ化以前にセグメントに既に存在していたプロファイルのバックフィルに、**最大 24 時間**&#x200B;かかる場合があります。今後、プロファイルがセグメントに追加されるたびに、即座に Marketo に追加されます。
 
 1. 「**新規マッピングを追加**」をクリックします。
 
