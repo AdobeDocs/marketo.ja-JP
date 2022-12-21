@@ -4,7 +4,7 @@ description: ランディングページの承認、未承認、削除 - Marketo
 title: ランディングページの承認、未承認、削除
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
