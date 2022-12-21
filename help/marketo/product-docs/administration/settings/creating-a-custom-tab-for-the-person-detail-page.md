@@ -4,7 +4,7 @@ description: ユーザーの詳細ページ用のカスタムタブの作成 - M
 title: ユーザーの詳細ページ用のカスタムタブの作成
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
