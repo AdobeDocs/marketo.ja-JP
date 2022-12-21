@@ -4,7 +4,7 @@ description: テンプレート 9B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
