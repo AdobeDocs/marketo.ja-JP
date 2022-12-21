@@ -4,7 +4,7 @@ description: ランディングページへの Social ボタンの追加 - Marke
 title: ランディングページへの Social ボタンの追加
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
 
