@@ -4,7 +4,7 @@ description: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミ
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%
 
