@@ -6,7 +6,7 @@ exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '857'
-ht-degree: 78%
+ht-degree: 90%
 
 ---
 
@@ -58,7 +58,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
-1. 「リモートサイト」を検索し、を選択します。 **リモートサイト設定**.
+1. 「リモートサイト」を検索し、「**リモートサイトの設定**」を選択します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
@@ -104,7 +104,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    >[!TIP]
    >
-   >このボックスの名前は、オブジェクトの種類に基づいて変更されます。例えば、連絡先のページレイアウトを変更する場合、「連絡先」と表示されます。
+   >このボックスの名前は、オブジェクトの種類に基づいて変更されます。例えば、取引先責任者のページレイアウトを変更する場合、「取引先責任者」と表示されます。
 
 1. 先ほど追加した「**リード**」ブロックをダブルクリックします。
 
@@ -116,13 +116,13 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    >[!NOTE]
    >
-   >チェック **スクロールバーを表示** スクロールスルーアクティビティにアクセスする必要がある場合。
+   >スクロールを使用してアクティビティにアクセスする必要がある場合は、「**スクロールバーを表示**」をチェックします。
 
    >[!TIP]
    >
    >オブジェクトがアカウントと商談の場合、推奨値は 410 ピクセルです。
 
-1. 左側の「**フィールド**」をクリックします。次に、 **緊急度** ラベルを **Marketo Sales Insight** レイアウト。
+1. 左側の「**フィールド**」をクリックします。次に、「**緊急度**」ラベルを検索して、**Marketo Sales Insight** レイアウトにドラッグします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
@@ -152,7 +152,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
       <td>セールスによる最後の Marketo エンゲージメント</td> 
      </tr> 
      <tr> 
-      <td>MSI 連絡先 ID</td> 
+      <td>MSI 取引先責任者 ID</td> 
      </tr> 
      <tr> 
       <td>相対スコア</td> 
@@ -167,7 +167,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
       <td>緊急度の値</td> 
      </tr> 
      <tr> 
-      <td>Marketo 内に表示   </td> 
+      <td>Marketo 内に表示</td> 
      </tr> 
     </tbody> 
    </table>
@@ -176,9 +176,9 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 手順 5～7 を繰り返して、次の用の Visualforce ページセクションと Sales Insight フィールドを追加します。 **連絡先**, **アカウント** および **商談**.
+1. 手順 5~7 を繰り返して、**取引先責任者**、**アカウント**&#x200B;および&#x200B;**商談**&#x200B;の Visualforce ページセクションと Sales Insight フィールドを追加します。
 
-1. 手順 8 ～ 10 を繰り返して、以下のリストから Sales Insight フィールドを追加し、 **連絡先**. 必ず変更を保存してください。
+1. 手順 8 ～ 10 を繰り返して、**取引先責任者**&#x200B;用に以下のリストから Sales Insight フィールドを追加します。変更したら必ず保存します。
 
 <table> 
     <tbody> 
@@ -224,9 +224,9 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
     </tbody> 
    </table>
 
-## カスタムユーザーフィールドのマッピング {#map-custom-person-fields}
+## カスタムユーザフィールドのマッピング {#map-custom-person-fields}
 
-コンバージョンの際にデータが失われないように、Marketo の「リード」フィールドを Salesforce の「連絡先」フィールドにマッピングする必要があります。手順は以下のとおりです。
+コンバージョンの際にデータが失われないように、Marketo の人物フィールドを Salesforce の取引先責任者フィールドにマッピングする必要があります。手順は以下のとおりです。
 
 1. 「**設定**」をクリックします。
 
@@ -244,7 +244,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. リストから「**連絡先、エンゲージメント**」を選択します。
+1. リストから「**取引先責任者、エンゲージメント**」を選択します。
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -253,36 +253,36 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
    <table> 
     <tbody> 
      <tr> 
-      <th colspan="1" rowspan="1">Marketo のリードのカスタムフィールド</th> 
-      <th colspan="1" rowspan="1">Salesforce の連絡先のカスタムフィールド</th> 
+      <th colspan="1" rowspan="1">Marketo の人物のカスタムフィールド</th> 
+      <th colspan="1" rowspan="1">Salesforce の取引先責任者のカスタムフィールド</th> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>エンゲージメント</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、エンゲージメント</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、エンゲージメント</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>相対スコア値</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、相対スコア値</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、相対スコア値</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>緊急度の値</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、緊急度の値</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、緊急度の値</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>最新の注目のアクション発生日</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、最新の注目のアクション発生日</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、最新の注目のアクション発生日</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>最新の注目のアクションの詳細</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、最新の注目のアクションの詳細</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、最新の注目のアクションの詳細</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>最新の注目のアクションのソース</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、最新の注目のアクションのソース</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、最新の注目のアクションのソース</p></td> 
      </tr> 
      <tr> 
       <td colspan="1" rowspan="1"><p>最新の注目のアクションのタイプ</p></td> 
-      <td colspan="1" rowspan="1"><p>連絡先、最新の注目のアクションのタイプ</p></td> 
+      <td colspan="1" rowspan="1"><p>取引先責任者、最新の注目のアクションのタイプ</p></td> 
      </tr> 
     </tbody> 
    </table>
@@ -299,11 +299,11 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-これで完了です。Marketo Sales Insight セクションで、リード、連絡先、アカウント、商談の詳細を確認できます。
+これで完了です。Marketo Sales Insight フィールドで、リード、取引先責任者、アカウント、商談の詳細を確認できます。
 
 >[!NOTE]
 >
->診断テストに失敗した場合は、次の操作を行う必要があります。 [ページレイアウトにフィールドを追加](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}。
+>診断テストに失敗した場合は、[ページレイアウトにフィールドを追加](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}する必要が生じる場合があります。
 
 >[!NOTE]
 >
@@ -313,5 +313,5 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Salesforce への「Marketo」タブの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [プロファイルへの Sales Insight アクセスの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
+>* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
