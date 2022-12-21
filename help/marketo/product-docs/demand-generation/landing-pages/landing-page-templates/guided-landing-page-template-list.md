@@ -4,7 +4,7 @@ description: ガイド付きランディングページテンプレートリス�
 title: ガイド付きランディングページテンプレートリスト
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 100%
 
