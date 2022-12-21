@@ -4,7 +4,7 @@ description: 収益モデルのトランジションを使用する - Marketo �
 title: 収益モデルのトランジションを使用する
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
