@@ -1,11 +1,11 @@
 ---
-description: オーディエンス条件 — Marketoドキュメント — 製品ドキュメント
+description: オーディエンス条件 - Marketo ドキュメント - 製品ドキュメント
 title: オーディエンス条件
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
 source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 66%
+ht-degree: 69%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 66%
 
 Marketo スマートリストと同様に、オーディエンス条件属性を使用すると、ターゲットオーディエンスを定義できます。推測される人、人、会社の属性（またはその組み合わせ）を使用して、既知の人または不明な人をターゲットに設定できます。
 
-## Priority {#priority}
+## 優先度 {#priority}
 
 優先度 は、複数のリードに該当する場合にリードが受け取るダイアログを決定します。 初めて設定された時点です [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}。 既存のダイアログを開き、 **ダイアログの詳細** 」と入力します。
 
@@ -61,7 +61,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。次の例�
    >
    >属性の **+** アイコンをクリックして選択することもできます。
 
-1. 演算子のドロップダウンをクリックし、「**Greater Than**」を選択します。 
+1. 演算子のドロップダウンをクリックし、「**Greater Than**」を選択します。
 
    ![](assets/audience-criteria-10.png)
 
@@ -73,7 +73,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。次の例�
 
 **匿名担当者**
 
-まだデータベース内にいない人を特定してターゲット設定するのは簡単です。この例では、ニューヨーク地区にいるすべての&#x200B;**匿名ユーザー**&#x200B;をターゲットに設定しています。
+まだデータベース内にいない人を特定してターゲット設定するのは簡単です。この例では、ニューヨーク地区にいるすべての&#x200B;**匿名ユーザ**&#x200B;をターゲットに設定しています。
 
 1. **Person Email** 属性を選択し、右にドラッグします。
 
@@ -83,13 +83,13 @@ _多数の_&#x200B;属性の組み合わせから選択できます。次の例�
 
    ![](assets/audience-criteria-13.png)
 
-1. **Inferred State** 属性を選択し、_ここに属性をドラッグ＆ドロップ_&#x200B;と書かれた場所にドラッグします。 
+1. **Inferred State** 属性を選択し、_ここに属性をドラッグ＆ドロップ_&#x200B;と書かれた場所にドラッグします。
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >ユーザーが Web サイトが訪問すると、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookie が作成されてシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
+   >Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
 
 1. _Is_ はデフォルトで設定されています。「値を選択」フィールドに「NY」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
 
