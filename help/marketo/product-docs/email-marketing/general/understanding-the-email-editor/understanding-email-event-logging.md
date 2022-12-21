@@ -4,7 +4,7 @@ description: メールイベントログについて - Marketo ドキュメン�
 title: メールイベントログについて
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 100%
 
