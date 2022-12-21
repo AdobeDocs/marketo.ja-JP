@@ -4,7 +4,7 @@ description: Marketo とのモバイル統合に向けた Facebook リード広�
 title: Marketo とのモバイル統合に向けた Facebook リード広告のテスト
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 100%
 
