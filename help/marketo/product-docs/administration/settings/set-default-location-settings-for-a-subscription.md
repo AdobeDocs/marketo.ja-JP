@@ -4,7 +4,7 @@ description: サブスクリプションのデフォルトの場所の設定 - M
 title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
 
