@@ -4,7 +4,7 @@ description: テンプレート 3A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
