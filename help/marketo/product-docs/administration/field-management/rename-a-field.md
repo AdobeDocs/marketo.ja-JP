@@ -4,7 +4,7 @@ description: フィールドの名前を変更する - Marketo ドキュメン�
 title: フィールドの名前を変更する
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
