@@ -4,7 +4,7 @@ description: レポートタイプの概要 — Marketo ドキュメント — �
 title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 
