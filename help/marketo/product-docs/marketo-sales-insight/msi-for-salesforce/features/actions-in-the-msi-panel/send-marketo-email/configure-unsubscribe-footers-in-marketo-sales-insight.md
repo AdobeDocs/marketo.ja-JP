@@ -4,7 +4,7 @@ description: Marketo Sales Insight の配信停止フッターの設定 - Market
 title: Marketo Sales Insight の配信停止フッターの設定
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 100%
 
