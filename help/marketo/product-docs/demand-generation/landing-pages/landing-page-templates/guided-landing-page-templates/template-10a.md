@@ -4,7 +4,7 @@ description: テンプレート 10A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 10A
 exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
