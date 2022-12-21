@@ -4,7 +4,7 @@ description: Marketo を Dynamics と同期するための必須フィールド 
 title: Marketo と Dynamics を同期するための必須フィールド
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 
