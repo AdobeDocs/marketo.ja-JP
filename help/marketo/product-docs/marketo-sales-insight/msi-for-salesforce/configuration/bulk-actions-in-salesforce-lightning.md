@@ -4,7 +4,7 @@ description: Salesforce Lightning での一括アクション - Marketo ドキ�
 title: Salesforce Lightning での一括アクション
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 
