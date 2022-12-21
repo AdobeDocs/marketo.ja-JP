@@ -4,7 +4,7 @@ description: リリースノート - 2020 年 7 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 7 月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 * **アカウントプロファイリング UI の刷新**：アカウントプロファイリングでのターゲットアカウントリストの作成を簡素化し、すべてのステップを 1 つの画面で行うことができます。
 
-<br>
+<br> 
 
 **_四半期を通した段階的リリース_**
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 * **[販売呼び出しに対する双方の同意の強化：](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)**&#x200B;管理者は、通話録音の設定をより細かく管理できるようになりました。双方の同意に関する法律に準拠していることを確認し、[通話録音を有効](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)にします。通話が録音中であることを示す通知を自動化し、通話の前に通知内容を再生します。
 
-<br>
+<br> 
 
 ## 告知情報＆廃止予定機能 {#announcements-deprecations}
 
