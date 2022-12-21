@@ -4,7 +4,7 @@ description: 顧客インサイトプラグインの概要 - Marketo ドキュ�
 title: 顧客インサイトプラグインの概要
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
 
