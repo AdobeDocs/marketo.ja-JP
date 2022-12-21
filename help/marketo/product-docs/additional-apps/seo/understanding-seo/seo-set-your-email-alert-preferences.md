@@ -4,7 +4,7 @@ description: SEO - メールアラートの環境設定 - Marketo ドキュメ�
 title: SEO - メールアラートの環境設定
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
