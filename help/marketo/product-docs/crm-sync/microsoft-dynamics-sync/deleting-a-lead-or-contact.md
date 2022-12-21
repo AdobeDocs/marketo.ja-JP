@@ -4,7 +4,7 @@ description: リードや連絡先の削除 - Marketo ドキュメント - 製�
 title: リードや連絡先の削除
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 100%
 
