@@ -4,7 +4,7 @@ description: 優先度、緊急度、相対スコア、最有望見込客 - Mark
 title: 優先度、緊急度、相対スコア、最有望見込客
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 100%
 
