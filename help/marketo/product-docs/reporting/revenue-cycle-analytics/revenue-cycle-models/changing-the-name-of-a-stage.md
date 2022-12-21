@@ -4,7 +4,7 @@ description: ステージの名前を変更する - Marketo ドキュメント -
 title: ステージの名前を変更する
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
