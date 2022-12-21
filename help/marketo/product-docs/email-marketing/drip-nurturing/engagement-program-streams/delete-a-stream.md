@@ -4,7 +4,7 @@ description: ストリームを削除する - Marketo ドキュメント - 製�
 title: ストリームを削除する
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
