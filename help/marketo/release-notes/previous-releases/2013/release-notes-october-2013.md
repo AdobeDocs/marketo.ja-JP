@@ -4,7 +4,7 @@ description: リリースノート - 2013 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2013 年 10 月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
