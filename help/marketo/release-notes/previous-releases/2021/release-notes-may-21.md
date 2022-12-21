@@ -3,7 +3,7 @@ description: リリースノート - 2021 年 5 月 - Marketo ドキュメント
 title: リリースノート - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1446'
 ht-degree: 100%
 
