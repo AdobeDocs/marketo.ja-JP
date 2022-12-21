@@ -4,7 +4,7 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Pr
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Professional）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 100%
 
@@ -51,7 +51,7 @@ Salesforce Professional は、Salesforce Enterprise／Unlimited のプロファ�
    * 新規顧客獲得プログラム
    * 新規顧客獲得プログラム ID
    * メールオプトアウト
-   * 推測される都市
+   * 推測される市区町村
    * 推測される企業
    * 推測される国
    * 推測される都市圏
@@ -111,7 +111,7 @@ Marketo は、Salesforce にアクセスするための資格情報が必要で�
 
    >[!TIP]
    >
-   >入力した電子メールアドレスが有効であることを確認します。パスワードをリセットするには、同期ユーザーとしてログインする必要があります。
+   >入力した電子メールアドレスが有効であることを確認します。パスワードをリセットするには、同期ユーザとしてログインする必要があります。
 
 これで完了です。これで、Marketo が Salesforce に接続するために使用できるアカウントが作成されました。やってみましょう。
 
