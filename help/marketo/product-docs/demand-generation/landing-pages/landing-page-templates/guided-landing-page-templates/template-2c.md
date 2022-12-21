@@ -4,7 +4,7 @@ description: テンプレート 2C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
