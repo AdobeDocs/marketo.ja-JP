@@ -4,7 +4,7 @@ description: タグについて - Marketo ドキュメント - 製品ドキュ�
 title: タグについて
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
