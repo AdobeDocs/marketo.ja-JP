@@ -4,7 +4,7 @@ description: Social アプリ用ユーザーキャプチャの設定 - Marketo �
 title: Social アプリ用ユーザーキャプチャの設定
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 
