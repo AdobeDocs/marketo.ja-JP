@@ -4,7 +4,7 @@ description: メールでの動的コンテンツの使用 - Marketo ドキュ�
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 100%
 
