@@ -4,7 +4,7 @@ description: 設定の共有 - Marketo ドキュメント - 製品ドキュメ�
 title: 設定の共有
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
 
