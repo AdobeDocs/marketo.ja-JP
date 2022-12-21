@@ -4,7 +4,7 @@ description: 懸賞の作成 - Marketo ドキュメント - 製品ドキュメ�
 title: 懸賞の作成
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
