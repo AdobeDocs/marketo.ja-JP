@@ -4,7 +4,7 @@ description: コンテンツ消費済み通知の無効化と有効化 — Marke
 title: コンテンツ消費済み通知の無効化と有効化
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # コンテンツ消費済み通知の無効化と有効化 {#disable-and-enable-exhausted-content-notifications}
 
-ユーザーがストリーム内のすべてのコンテンツを消費した場合、Marketo から通知を送信できます。必要に応じて、通知を無効または有効にできます。どうやって。
+ユーザーがストリーム内のすべてのコンテンツを消費した場合、Marketo から通知を送信できます。必要に応じて、通知を無効または有効にできます。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
