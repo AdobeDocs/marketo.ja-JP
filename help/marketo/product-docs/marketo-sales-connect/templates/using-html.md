@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14352594
-description: HTML の使用 — Marketo ドキュメント — 製品ドキュメント
+description: HTML の使用 - Marketo ドキュメント - 製品ドキュメント
 title: HTML の使用
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 
