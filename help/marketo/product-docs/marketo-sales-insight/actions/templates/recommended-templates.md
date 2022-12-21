@@ -3,7 +3,7 @@ description: 推奨テンプレート - Marketo ドキュメント - 製品ド�
 title: 推奨テンプレート
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 100%
 
