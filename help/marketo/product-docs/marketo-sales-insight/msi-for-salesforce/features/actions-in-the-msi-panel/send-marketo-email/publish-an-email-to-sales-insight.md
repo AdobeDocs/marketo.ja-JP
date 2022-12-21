@@ -4,7 +4,7 @@ description: Sales Insight への電子メールの公開 - Marketo ドキュメ
 title: Sales Insight への電子メールの公開
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
