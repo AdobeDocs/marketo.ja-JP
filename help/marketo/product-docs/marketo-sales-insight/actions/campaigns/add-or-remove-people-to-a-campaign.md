@@ -4,7 +4,7 @@ description: キャンペーンに人物を追加 - Marketo ドキュメント -
 title: キャンペーンに人物を追加
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 100%
 
