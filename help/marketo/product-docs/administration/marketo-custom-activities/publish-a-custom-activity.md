@@ -4,7 +4,7 @@ description: カスタムアクティビティの公開 - Marketo ドキュメ�
 title: カスタムアクティビティの公開
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 
