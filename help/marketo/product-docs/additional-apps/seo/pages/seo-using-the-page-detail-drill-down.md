@@ -4,7 +4,7 @@ description: SEO - ページ詳細ドリルダウンの使用 - Marketo ドキ�
 title: SEO - ページ詳細ドリルダウンの使用
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
 
