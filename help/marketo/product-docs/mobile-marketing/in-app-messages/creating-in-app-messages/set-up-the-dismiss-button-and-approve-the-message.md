@@ -4,7 +4,7 @@ description: 「閉じる」ボタンを設定してメッセージを承認す�
 title: 却下ボタンの設定とメッセージの承認
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 100%
 
