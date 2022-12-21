@@ -4,7 +4,7 @@ description: 商談の影響分析でマーケティング事例を伝える - M
 title: 商談の影響分析でマーケティング事例を伝える
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 100%
 
