@@ -4,7 +4,7 @@ description: Sales Connect ツールバー -  Marketo ドキュメント - 製�
 title: Sales Connect ツールバー
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
