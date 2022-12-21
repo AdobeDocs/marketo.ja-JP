@@ -4,7 +4,7 @@ description: SEO - リストからのキーワードの追加／削除 - Marketo
 title: SEO - リストに対するキーワードの追加／削除
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
