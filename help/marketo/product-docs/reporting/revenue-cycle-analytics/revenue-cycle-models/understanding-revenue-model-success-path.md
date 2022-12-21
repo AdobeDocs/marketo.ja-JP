@@ -4,7 +4,7 @@ description: 収益モデルの成功パスについて - Marketo ドキュメ�
 title: 収益モデルの成功パスについて
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
 
