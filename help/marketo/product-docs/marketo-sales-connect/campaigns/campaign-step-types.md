@@ -4,7 +4,7 @@ description: キャンペーンのステップの種類 - Marketo ドキュメ�
 title: キャンペーンのステップの種類
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ## 電話 {#call}
 
-電話で連絡先をフォローアップするリマインダーを設定します。また、通話中にトークトラックとして使用するメモを保存することもできます。
+電話で取引先責任者をフォローアップするリマインダーを設定します。また、通話中にトークトラックとして使用するメモを保存することもできます。
 
 ![](assets/pic.png)
 
