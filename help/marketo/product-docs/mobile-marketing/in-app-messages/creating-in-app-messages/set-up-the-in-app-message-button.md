@@ -4,7 +4,7 @@ description: アプリ内メッセージボタンの設定 - Marketo ドキュ�
 title: アプリ内メッセージのボタンの設定
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
 
