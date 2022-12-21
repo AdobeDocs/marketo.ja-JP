@@ -4,7 +4,7 @@ description: フィルターを検索してスマートリストに追加 - Mark
 title: フィルターを検索してスマートリストに追加
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
