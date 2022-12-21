@@ -4,7 +4,7 @@ description: 設定手順 - Marketo ドキュメント - 製品ドキュメン�
 title: 設定手順
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2085'
 ht-degree: 100%
 
