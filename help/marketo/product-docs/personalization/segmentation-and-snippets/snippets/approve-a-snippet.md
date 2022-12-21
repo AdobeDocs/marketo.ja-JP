@@ -4,7 +4,7 @@ description: スニペットの承認 - Marketo ドキュメント - 製品ド�
 title: スニペットの承認
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
