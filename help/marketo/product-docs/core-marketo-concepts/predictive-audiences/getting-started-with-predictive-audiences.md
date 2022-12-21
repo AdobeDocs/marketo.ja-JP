@@ -3,7 +3,7 @@ description: 予測オーディエンスの概要 - Marketo ドキュメント -
 title: 予測オーディエンスの概要
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
