@@ -3,7 +3,7 @@ description: テンプレートの管理 - Marketo ドキュメント - 製品�
 title: テンプレートの管理
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 100%
 
