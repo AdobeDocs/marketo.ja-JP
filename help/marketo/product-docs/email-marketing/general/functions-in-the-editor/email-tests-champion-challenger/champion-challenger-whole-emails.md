@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：メール全体 - Marketo ドキ�
 title: チャンピオン／挑戦者：メール全体
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
 
