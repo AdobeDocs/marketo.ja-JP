@@ -4,7 +4,7 @@ description: ランディングページ URL の変更 - Marketo ドキュメン
 title: ランディングページ URL の変更
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
