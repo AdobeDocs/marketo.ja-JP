@@ -4,7 +4,7 @@ description: 後日送信メールのスケジュール設定 — Marketo ドキ
 title: 後日送信メールのスケジュール設定
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
