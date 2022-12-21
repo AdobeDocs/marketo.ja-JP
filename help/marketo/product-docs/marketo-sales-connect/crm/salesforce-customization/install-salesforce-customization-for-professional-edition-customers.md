@@ -4,7 +4,7 @@ description: Professional Edition 顧客向け Salesforce カスタマイズの�
 title: Professional Edition 顧客向け Salesforce カスタマイズのインストール
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
 
