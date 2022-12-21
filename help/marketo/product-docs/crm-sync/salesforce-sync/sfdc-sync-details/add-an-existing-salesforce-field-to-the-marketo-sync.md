@@ -4,7 +4,7 @@ description: 既存の Salesforce フィールドの Marketo  同期への追加
 title: 既存の Salesforce フィールドの Marketo 同期への追加
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
