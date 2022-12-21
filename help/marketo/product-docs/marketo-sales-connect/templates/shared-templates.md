@@ -4,7 +4,7 @@ description: 共有テンプレート - Marketo ドキュメント - 製品ド�
 title: 共有テンプレート
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
