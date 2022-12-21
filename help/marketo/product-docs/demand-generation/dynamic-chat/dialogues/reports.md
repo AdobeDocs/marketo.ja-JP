@@ -3,7 +3,7 @@ description: レポート - Marketo ドキュメント - 製品ドキュメン�
 title: レポート
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
 source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
