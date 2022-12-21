@@ -3,7 +3,7 @@ description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Mar
 title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 100%
 
@@ -85,7 +85,7 @@ Microsoft Dynamics 2016 オンプレミス／Dynamics 365 と Marketo を同期�
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   以上です。インストールが完了しました。
+   完成です。インストールが完了しました。
 
    >[!CAUTION]
    >
