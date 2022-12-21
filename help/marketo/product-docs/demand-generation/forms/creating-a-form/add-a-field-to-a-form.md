@@ -4,7 +4,7 @@ description: フォームへのフィールドの追加 - Marketo ドキュメ�
 title: フォームへのフィールドの追加
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # フォームへのフィールドの追加 {#add-a-field-to-a-form}
 
-[フォームを作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)して[テーマを選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)したら、ユーザーが入力するフィールドを追加できます。どうやって。
+[フォームを作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)して[テーマを選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)したら、ユーザーが入力するフィールドを追加できます。手順は次のとおりです。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
