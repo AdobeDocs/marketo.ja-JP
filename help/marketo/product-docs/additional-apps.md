@@ -3,7 +3,7 @@ unique-page-id: 557086
 description: その他のアプリ - Marketo ドキュメント - 製品ドキュメント
 title: その他のアプリ
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
