@@ -4,7 +4,7 @@ description: イベントカードについて - Marketo ドキュメント - �
 title: イベントカードについて
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
