@@ -4,7 +4,7 @@ description: リードのアクティビティログの検索 - Marketo ドキ�
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
