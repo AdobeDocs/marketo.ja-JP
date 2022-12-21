@@ -4,7 +4,7 @@ description: Sales Insight のメール効果レポート - Marketo ドキュメ
 title: Sales Insight のメール効果レポート
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
