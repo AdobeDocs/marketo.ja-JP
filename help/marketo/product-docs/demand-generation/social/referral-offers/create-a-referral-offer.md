@@ -4,7 +4,7 @@ description: 紹介オファーの作成 - Marketo ドキュメント - 製品�
 title: 紹介オファーの作成
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    >[!TIP]
    >
