@@ -4,7 +4,7 @@ description: デジタル広告キャンペーンの売上高アトリビュー�
 title: デジタル広告キャンペーンの売上高アトリビューションの設定
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 100%
 
@@ -112,6 +112,7 @@ Marketo で最初の広告プログラムを設定したら、他のチャンネ
    >* **comment** は、各プログラムに対して作成された一意の識別子です。
    >* **camp** は Facebook、LinkedIn、Google のキャンペーンです。
    >* **kk** は、取り込むキーワードまたはアセット名です。
+
    >
    >**これら 4 つの用語はすべて小文字である必要があり、この情報を取り込むための URL にスペースを含めることはできません。**
 
