@@ -3,7 +3,7 @@ description: セールスアクティビティ用語集 - Marketo ドキュメ�
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <th>属性</th>
  </tr>
  <tr>
-  <th rowspan="9">セールスメール送信</th>
+  <th rowspan="9">セールスメールを送信</th>
   <td>送信者</td>
  </tr>
  <tr>
@@ -83,7 +83,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>Marketo「セールス担当者」ID</td>
  </tr>
  <tr>
-  <th rowspan="10">セールスメールをクリック済み</th>
+  <th rowspan="10">セールスメールをクリック</th>
   <td>リンク</td>
  </tr>
  <tr>
@@ -114,7 +114,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>Marketo「セールス担当者」ID</td>
  </tr>
 <tr>
-  <th rowspan="3">セールスメールに返信済み</th>
+  <th rowspan="3">セールスメールに返信</th>
   <td>受信者</td>
  </tr>
  <tr>
@@ -247,7 +247,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr> 
    <td><strong>セールス電話の件名</strong></td> 
-   <td>ダイヤラー内でセールスユーザーによって選択された電話の結果。</td> 
+   <td>ダイヤラー内でセールスユーザによって選択された電話の結果。</td> 
   </tr>
   <tr> 
    <td><strong>セールスキャンペーン ID</strong></td> 
