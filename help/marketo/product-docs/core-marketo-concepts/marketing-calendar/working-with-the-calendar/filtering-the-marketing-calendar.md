@@ -4,7 +4,7 @@ description: マーケティングカレンダーのフィルタリング - Mark
 title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
