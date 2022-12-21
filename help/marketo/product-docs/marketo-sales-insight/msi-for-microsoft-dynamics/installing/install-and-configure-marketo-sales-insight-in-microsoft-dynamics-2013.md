@@ -4,7 +4,7 @@ description: Marketo Sales Insight の Microsoft Dynamics 2013 へのインス�
 title: Marketo Sales Insight の Microsoft Dynamics 2013 へのインストールと設定
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 100%
 
@@ -103,6 +103,7 @@ Marketo インスタンスを Dynamics の Sales Insight に接続します。
    >* 優先度
    >* 緊急度
    >* 相対スコア
+
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
