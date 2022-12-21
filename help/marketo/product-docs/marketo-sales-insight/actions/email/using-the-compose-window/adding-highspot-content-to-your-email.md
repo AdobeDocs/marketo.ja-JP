@@ -3,7 +3,7 @@ description: メールへの Highspot コンテンツの追加 - Marketo Docs - 
 title: メールへの Highspot コンテンツの追加
 exl-id: d80ce572-3ebf-4daa-b6f1-f4e9bd795ff2
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 
