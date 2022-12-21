@@ -4,7 +4,7 @@ description: 重点顧客の読み込み - Marketo ドキュメント - 製品�
 title: 重点顧客の読み込み
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
 
