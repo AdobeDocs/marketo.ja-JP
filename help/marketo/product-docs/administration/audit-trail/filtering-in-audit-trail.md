@@ -4,7 +4,7 @@ description: 監査記録のフィルタリング - Marketo ドキュメント -
 title: 監査記録のフィルタリング
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
