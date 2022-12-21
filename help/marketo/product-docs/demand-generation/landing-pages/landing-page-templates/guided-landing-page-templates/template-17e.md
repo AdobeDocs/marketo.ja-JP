@@ -4,7 +4,7 @@ description: テンプレート 17E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 17E
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
