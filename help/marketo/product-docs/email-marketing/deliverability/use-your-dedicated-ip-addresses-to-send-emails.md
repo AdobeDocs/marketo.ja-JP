@@ -4,7 +4,7 @@ description: 専用 IP アドレスを使用したメール送信 - Marketo ド�
 title: 専用 IP アドレスを使用したメール送信
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 100%
 
