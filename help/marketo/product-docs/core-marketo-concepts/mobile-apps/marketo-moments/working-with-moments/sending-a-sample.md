@@ -4,7 +4,7 @@ description: サンプルの送信 - Marketo ドキュメント - 製品ドキ�
 title: サンプルの送信
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
