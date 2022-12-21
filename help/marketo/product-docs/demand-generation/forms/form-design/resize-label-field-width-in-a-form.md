@@ -4,7 +4,7 @@ description: フォーム内のラベル／フィールド幅のサイズ変更 
 title: フォーム内のラベル／フィールド幅のサイズ変更
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
