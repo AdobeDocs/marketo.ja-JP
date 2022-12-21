@@ -4,7 +4,7 @@ description: 分析ページの概要 - Marketo ドキュメント - 製品ド�
 title: 分析ページの概要
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 分析ページの概要 {#analytics-page-overview}
 
-「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分」タブでユーザーによるフィルタリングも行うことができます。
+「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分」タブでユーザによるフィルタリングも行うことができます。
 
 ## 更新の頻度 {#how-often-does-it-update}
 
