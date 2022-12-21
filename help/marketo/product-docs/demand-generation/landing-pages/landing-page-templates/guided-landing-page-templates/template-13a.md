@@ -4,7 +4,7 @@ description: テンプレート 13A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 13A
 exl-id: 4a6bc6ec-cb81-4b2f-8b0f-43f3f907142d
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
