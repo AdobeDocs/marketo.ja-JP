@@ -4,7 +4,7 @@ description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキ
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ## メールアクティビティのログを API 経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-api}
 
-この機能を使用するには、Salesforce の Enterprise/Unlimited エディション、または Web Services API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
+この機能を使用するには、Salesforce の Enterprise／Unlimited エディション、または web サービス API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
 
 >[!PREREQUISITES]
 >
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 ## メールアクティビティのログを Salesforce にメール送信（BCC）して Salesforce に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-「Salesforce にメールを送信（BCC）」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、連絡先に関するアクティビティとして記録されます。
+「Salesforce にメールを送信（BCC）」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、取引先責任者に関するアクティビティとして記録されます。
 
 >[!PREREQUISITES]
 >
@@ -69,7 +69,7 @@ ht-degree: 100%
 何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、次の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
 
 1. Salesforce インスタンスにログインします。
-1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
+1. 右上隅にあるユーザ名を探し、ドロップダウンバーを選択します。
 1. 「**マイ設定**」を選択します。
 1. 「**メール**」を選択します。
 1. 「**メールを Salesforce に送信**」を選択します。
