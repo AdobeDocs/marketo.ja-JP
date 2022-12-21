@@ -4,7 +4,7 @@ description: SOAP API の設定 - Marketo ドキュメント - 製品ドキュ�
 title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
