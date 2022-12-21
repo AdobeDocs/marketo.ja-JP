@@ -4,7 +4,7 @@ description: グローバル MS Dynamics 同期の無効化 - Marketo ドキュ�
 title: グローバル MS Dynamics 同期の無効化
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
