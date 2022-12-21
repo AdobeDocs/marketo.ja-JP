@@ -4,7 +4,7 @@ description: Marketo Sales Insight の複数レコードへのメール送信 - 
 title: Marketo Sales Insight の複数レコードへのメール送信
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
