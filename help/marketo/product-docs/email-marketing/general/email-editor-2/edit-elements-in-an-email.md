@@ -4,7 +4,7 @@ description: メールの要素を編集する - Marketo ドキュメント - �
 title: メールの要素を編集する
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 100%
 
