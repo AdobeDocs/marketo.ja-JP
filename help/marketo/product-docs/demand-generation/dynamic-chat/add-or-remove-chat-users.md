@@ -1,45 +1,45 @@
 ---
-description: チャットユーザーの追加または削除 — Marketoドキュメント — 製品ドキュメント
-title: チャットユーザーの追加または削除
+description: チャットユーザの追加または削除 - Marketo ドキュメント - 製品ドキュメント
+title: チャットユーザの追加または削除
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# チャットユーザーの追加または削除 {#add-or-remove-chat-users}
+# チャットユーザの追加または削除 {#add-or-remove-chat-users}
 
 以下の手順に従って、チャットユーザを追加または削除します。
 
 ## チャットユーザを追加 {#add-a-chat-user}
 
-1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. クリック **Dynamic Chat**.
+1. **動的チャット**&#x200B;をクリックします。
 
    ![](assets/add-or-remove-chat-users-2.png)
 
    >[!NOTE]
    >
-   >複数のMarketoサブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します。
+   >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します。
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**ユーザ**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 次をクリック： **ユーザーを追加** 」ボタンをクリックします。
+1. 「**ユーザを追加**」ボタンをクリックします。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. 追加するユーザーの名前、ユーザーグループ、または電子メールアドレスを入力します。 姓と名はオプションです。
+1. 追加するユーザの名前、ユーザグループ、メールアドレスを入力します。姓と名はオプションです。
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. 次をクリック： **+** アイコンをクリックし、目的の製品プロファイルを選択します。
+1. 「**+**」アイコンをクリックし、目的の製品プロファイルを選択します。
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -47,58 +47,58 @@ ht-degree: 8%
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## ダイナミックチャットアクセスをMarketoロールに追加 {#add-dynamic-chat-access-to-marketo-role}
+## 動的チャットアクセスを Marketo のロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
-新しく追加したチャットユーザーのMarketoの役割に Dynamic Chat 権限がまだない場合は、次の方法で追加できます。
+新しく追加したチャットユーザの Marketo のロールに動的チャット権限がまだない場合は、次の方法で追加できます。
 
-1. Marketoで、 **管理者** を選択し、 **ユーザーとロール**.
+1. Marketo で、「**管理者**」をクリックし、「**ユーザ＆ロール**」を選択します。
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 次をクリック： **役割** タブをクリックします。
+1. 「**ロール**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. リストから、変更するロールを選択し、 **ロールの編集**.
+1. リストから、変更するロールを選択し、「**ロールの編集**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 選択 **ダイナミックチャットにアクセス** をクリックし、 **保存**.
+1. 「**動的チャットにアクセス**」を選択して、「**保存**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## チャットユーザを削除 {#remove-a-chat-user}
 
-1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. クリック **Dynamic Chat**.
+1. **動的チャット**&#x200B;をクリックします。
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >複数のMarketoサブスクリプションがある場合は、目的のサブスクリプションを選択してから次の手順に進みます )。
+   >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します）。
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**ユーザ**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-14.png)
 
-1. 削除するユーザーを選択します。
+1. 削除するユーザを選択します。
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 次をクリック： **ユーザーを削除** 」ボタンをクリックします。
+1. 「**ユーザを削除**」ボタンをクリックします。
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. クリック **ユーザーを削除** をクリックして確定します。
+1. 「**ユーザを削除**」をクリックして確定します。
 
    ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console Users](https://helpx.adobe.com/enterprise/using/users.html)
->* [ユーザーを個別に管理](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html)
+>* [ユーザを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html)
 
