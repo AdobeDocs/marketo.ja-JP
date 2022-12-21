@@ -4,7 +4,7 @@ description: メールの送信 - Marketo ドキュメント - 製品ドキュ�
 title: メールの送信
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
