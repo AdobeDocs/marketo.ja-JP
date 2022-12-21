@@ -4,7 +4,7 @@ description: エンゲージメントストリームの効果レポート - Mark
 title: エンゲージメントストリームの効果レポート
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
 
