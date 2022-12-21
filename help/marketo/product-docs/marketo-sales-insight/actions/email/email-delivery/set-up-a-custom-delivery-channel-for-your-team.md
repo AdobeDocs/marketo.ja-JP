@@ -1,6 +1,6 @@
 ---
-description: チーム用にカスタム配信チャネルの設定 - Marketo ドキュメント - 製品ドキュメント
-title: チーム用のカスタム配信チャネルの設定
+description: チーム向けのカスタム配信チャネルの設定 - Marketo ドキュメント - 製品ドキュメント
+title: チーム向けのカスタム配信チャネルの設定
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 100%
 
 ---
 
-# チーム用のカスタム配信チャネルの設定 {#set-up-a-custom-delivery-channel-for-your-team}
+# チーム向けのカスタム配信チャネルの設定 {#set-up-a-custom-delivery-channel-for-your-team}
 
 >[!NOTE]
 >
@@ -44,6 +44,6 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+   >* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
