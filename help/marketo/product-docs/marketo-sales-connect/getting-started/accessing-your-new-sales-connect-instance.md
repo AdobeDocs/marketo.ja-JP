@@ -3,7 +3,7 @@ description: 新しい Sales Connect インスタンスへのアクセス - Mark
 title: 新しい Sales Connect インスタンスへのアクセス
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 
