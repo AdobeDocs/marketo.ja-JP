@@ -4,7 +4,7 @@ description: プログラムアナライザーを使用したプログラムの�
 title: プログラムアナライザーを使用したプログラムの効果の比較
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 100%
 
