@@ -4,7 +4,7 @@ description: Salesforce1 での Marketo メール送信、キャンペーンお�
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 
