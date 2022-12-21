@@ -4,7 +4,7 @@ description: 期間原価の定義 - Marketo ドキュメント - 製品ドキ�
 title: 期間原価の定義
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
