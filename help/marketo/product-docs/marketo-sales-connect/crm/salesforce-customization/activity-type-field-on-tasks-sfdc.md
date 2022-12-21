@@ -4,7 +4,7 @@ description: タスクの「アクティビティタイプ」フィールド（S
 title: タスクの「アクティビティタイプ」フィールド（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
 
