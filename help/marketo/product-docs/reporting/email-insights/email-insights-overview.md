@@ -4,7 +4,7 @@ description: メールインサイトの概要 - Marketo ドキュメント - �
 title: メールインサイトの概要
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
 
