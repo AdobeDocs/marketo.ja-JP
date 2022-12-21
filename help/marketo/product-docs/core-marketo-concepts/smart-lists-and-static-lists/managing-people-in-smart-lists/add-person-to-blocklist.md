@@ -4,7 +4,7 @@ description: リードをブロックリストに追加 - Marketo ドキュメ�
 title: リードをブロックリストに追加
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 100%
 
