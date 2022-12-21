@@ -4,7 +4,7 @@ description: スマートキャンペーンへのフローステップの追加 
 title: スマートキャンペーンへのフローステップの追加
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
 
