@@ -4,7 +4,7 @@ description: スマートリストのベストプラクティス — Marketo ド
 title: スマートリストのベストプラクティス
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 100%
 
