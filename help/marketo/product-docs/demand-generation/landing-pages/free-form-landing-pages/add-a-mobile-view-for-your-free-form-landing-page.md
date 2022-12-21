@@ -1,16 +1,16 @@
 ---
 unique-page-id: 4720856
-description: フリーフォームランディングページのモバイル表示を追加する - Marketo ドキュメント - 製品ドキュメント
-title: フリーフォームランディングページのモバイル表示を追加する
+description: フリーフォームランディングページのモバイル表示の追加 - Marketo ドキュメント - 製品ドキュメント
+title: フリーフォームランディングページのモバイル表示の追加
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# フリーフォームランディングページのモバイル表示を追加する {#add-a-mobile-view-for-your-free-form-landing-page}
+# フリーフォームランディングページのモバイル表示の追加 {#add-a-mobile-view-for-your-free-form-landing-page}
 
 スマートフォンでのフリーフォームランディングページの見た目を良くするのは簡単です。
 
@@ -18,7 +18,7 @@ ht-degree: 98%
 >
 >モバイルビューは、幅が 480 px 以下の画面で機能します。つまり、スマートフォンです。デバイスの解像度に関する詳細情報は、[こちら](https://www.mydevice.io/)でご覧ください。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
