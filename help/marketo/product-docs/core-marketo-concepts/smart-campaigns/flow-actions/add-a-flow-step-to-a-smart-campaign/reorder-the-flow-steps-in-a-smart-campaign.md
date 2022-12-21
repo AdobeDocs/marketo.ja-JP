@@ -4,7 +4,7 @@ description: スマートキャンペーンでのフローステップの並べ�
 title: スマートキャンペーンでのフローステップの並べ替え
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 
