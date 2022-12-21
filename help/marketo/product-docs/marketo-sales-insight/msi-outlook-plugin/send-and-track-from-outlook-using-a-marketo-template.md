@@ -4,7 +4,7 @@ description: Marketo テンプレートを使用した Outlook からの送信�
 title: Marketo テンプレートを使用した Outlook からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
