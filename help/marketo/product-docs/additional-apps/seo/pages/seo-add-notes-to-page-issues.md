@@ -4,7 +4,7 @@ description: SEO - ページに関する問題へのメモの追加 - Marketo �
 title: SEO - ページに関する問題へのメモの追加
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
