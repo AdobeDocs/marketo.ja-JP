@@ -4,7 +4,7 @@ description: リリースノート - 2017 年秋 - Marketo ドキュメント - 
 title: リリースノート - 2017 年秋
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 100%
 
