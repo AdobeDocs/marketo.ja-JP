@@ -4,7 +4,7 @@ description: Marketo ランディングページテンプレートの編集 - Ma
 title: Marketo ランディングページテンプレートの編集
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
