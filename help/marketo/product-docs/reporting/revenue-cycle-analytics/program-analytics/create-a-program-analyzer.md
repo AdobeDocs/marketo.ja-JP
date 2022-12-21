@@ -4,7 +4,7 @@ description: プログラムアナライザーの作成 - Marketo ドキュメ�
 title: プログラムアナライザーの作成
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 100%
 
