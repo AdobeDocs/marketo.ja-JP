@@ -4,7 +4,7 @@ description: テンプレート 9E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
