@@ -4,7 +4,7 @@ description: Web キャンペーンにフォームを埋め込む — Marketo �
 title: Web キャンペーンにフォームを埋め込む
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
 
