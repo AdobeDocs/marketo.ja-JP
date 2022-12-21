@@ -3,7 +3,7 @@ description: キャンペーンは終了しました - Marketo ドキュメン�
 title: キャンペーンは終了しました
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
