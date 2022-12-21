@@ -1,39 +1,39 @@
 ---
-description: Dynamic Chat の概要 — Marketo ドキュメント — 製品ドキュメント
-title: Dynamic Chat の概要
+description: 動的チャットの概要 - Marketo ドキュメント - 製品ドキュメント
+title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
 source-wordcount: '845'
-ht-degree: 37%
+ht-degree: 60%
 
 ---
 
-# Dynamic Chat の概要 {#dynamic-chat-overview}
+# 動的チャットの概要 {#dynamic-chat-overview}
 
-Dynamic Chat では、使いやすいインターフェイスを利用して、Web サイトを訪問するユーザーとアカウントの両方をターゲットに設定できます。名前、連絡先情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、セールスチームとのミーティングを予約することもできます。Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーすることができます。
+動的チャットでは、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、セールスチームとのミーティングを予約することもできます。動的チャットのアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
 
 >[!NOTE]
 >
->Dynamic Chat は徐々に展開される過程にあり、現在は可用性が限られています。このページは、一般提供（GA）の詳細が利用可能になり次第、更新されます。
+>動的チャットは徐々に展開されている段階にあり、現在は限定で使用可能です。このページは、一般提供（GA）の詳細が利用可能になり次第、更新されます。
 
 >[!TIP]
 >
->訪問 [このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) をクリックして、Dynamic Chat のチュートリアルビデオを表示します。
+>[このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ja)を参照して、動的チャットのチュートリアルビデオを表示します。
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。 Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
+動的チャットの主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。 Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
 
 以下が同期されます。
 
-* ユーザーフィールドデータ
+* リードフィールドデータ
 * 会社フィールドデータ
 * アクティビティデータ
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細情報](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
 
 ## 設定 {#configuration}
 
@@ -59,21 +59,21 @@ Dynamic Chat の JavaScript スニペットは、任意の Web サイトおよ�
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日（制限の完全なリストを参照） [下](#limits-in-dynamic-chat)) をクリックします。
+90 日です（制限の完全なリストは、[以下](#limits-in-dynamic-chat)を参照）。
 
-**Dynamic Chat はライブチャットを許可していますか？**
+**動的チャットはライブチャットを許可していますか？**
 
 いいえ、事前に決定された応答のみを利用します。
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-はい。Dynamic Chat は、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。 詳しくは、 [以下の節](#changing-the-language).
+あります。Dynamic Chat は、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。 詳しくは、 [以下の節](#changing-the-language).
 
 **AI／NLP 機能はサポートしていますか？**
 
 AI／NLP 機能はサポートしていません。
 
-**匿名ユーザーをターゲットにするにはどうすればよいですか？**
+**匿名ユーザをターゲットにするには、どうすればよいですか？**
 
 ダイアログで、_Person Email is Empty_ 属性を使用します。
 
@@ -103,14 +103,14 @@ AI／NLP 機能はサポートしていません。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
-## ダイナミックチャットの制限 {#limits-in-dynamic-chat}
+## 動的チャットの制限 {#limits-in-dynamic-chat}
 
 <table>
   <th>パラメーター</th>
   <th>説明</th>
   <th>制限</th>
  <tr>
-  <td>合計ダイアログ</td>
+  <td>ダイアログ総数</td>
   <td>ダイアログの合計数（公開および下書き）</td>
   <td>500</td>
  </tr>
@@ -120,8 +120,8 @@ AI／NLP 機能はサポートしていません。
   <td>100</td>
  </tr>
  <tr>
-  <td>ダイアログごとの Target URL</td>
-  <td>単一のダイアログに追加できる Target URL の数</td>
+  <td>ダイアログごとのターゲット URL</td>
+  <td>単一のダイアログに追加できるターゲット URL の数</td>
   <td>20</td>
  </tr>
  <tr>
@@ -145,28 +145,28 @@ AI／NLP 機能はサポートしていません。
   <td>500</td>
  </tr>
  <tr>
-  <td>匿名リードデータ保持期間</td>
+  <td>匿名リードデータの保持期間</td>
   <td>エンゲージメントのない匿名リードの情報が保持される期間</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>目標アクティビティ保持期間</td>
+  <td>目標アクティビティの保持期間</td>
   <td>目標アクティビティデータの保持期間</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ドキュメントアクティビティ保持期間</td>
-  <td>ドキュメントの活動データが保持される時間</td>
+  <td>ドキュメントアクティビティの保持期間</td>
+  <td>ドキュメントのアクティビティデータが保持される期間</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ダイアログアクティビティ保持期間に関するインタラクション</td>
-  <td>ダイアログアクティビティデータとやり取りした時間が保持されます</td>
+  <td>ダイアログアクティビティの保持期間に関するインタラクション</td>
+  <td>ダイアログアクティビティデータとのやり取りの保持期間</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>会議予約アクティビティ保持期間</td>
-  <td>会議の予約アクティビティがダイナミックチャットに保存される時間</td>
+  <td>会議予約アクティビティの保持期間</td>
+  <td>会議予約アクティビティが動的チャットに保存される時間</td>
   <td>24 か月</td>
  </tr>
  <tr>
