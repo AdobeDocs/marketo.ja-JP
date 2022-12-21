@@ -4,7 +4,7 @@ description: ソーシャル共有要件の設定 - Marketo ドキュメント -
 title: ソーシャル共有要件の設定
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
