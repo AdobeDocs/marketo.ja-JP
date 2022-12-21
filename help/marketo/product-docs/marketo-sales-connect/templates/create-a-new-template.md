@@ -4,7 +4,7 @@ description: 新しいテンプレートの作成 - Marketo ドキュメント -
 title: 新しいテンプレートの作成
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
