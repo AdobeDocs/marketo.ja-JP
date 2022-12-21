@@ -4,7 +4,7 @@ description: 自分のレポートとグループレポートについて - Mark
 title: 自分のレポートとグループのレポートについて
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
