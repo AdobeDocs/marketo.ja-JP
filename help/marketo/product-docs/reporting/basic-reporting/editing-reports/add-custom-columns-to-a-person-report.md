@@ -4,7 +4,7 @@ description: リードレポートにカスタム列を追加する - Marketo �
 title: リードレポートにカスタム列を追加する
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
