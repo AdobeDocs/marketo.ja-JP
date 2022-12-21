@@ -3,7 +3,7 @@ description: 一括メール送信オプション - Marketo ドキュメント -
 title: 一括メール送信オプション
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 100%
 
