@@ -3,7 +3,7 @@ unique-page-id: 2953432
 description: CRM 同期 - Marketo ドキュメント - 製品ドキュメント
 title: CRM 同期
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
