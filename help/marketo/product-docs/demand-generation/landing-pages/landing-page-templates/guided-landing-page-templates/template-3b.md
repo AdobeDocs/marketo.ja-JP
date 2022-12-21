@@ -4,7 +4,7 @@ description: テンプレート 3B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 3B
 exl-id: 28cd87fa-8ded-449a-8a5d-0e7c7241b49e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
