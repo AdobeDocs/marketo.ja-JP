@@ -4,7 +4,7 @@ description: リストまたはスマートリストの複製 - Marketo ドキ�
 title: リストまたはスマートリストの複製
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
