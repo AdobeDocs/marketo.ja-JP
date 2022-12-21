@@ -4,7 +4,7 @@ description: スマートキャンペーンの移動 - Marketo ドキュメン�
 title: スマートキャンペーンの移動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
