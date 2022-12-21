@@ -4,7 +4,7 @@ description: CNAME を使用したランディングページ URL のカスタ�
 title: CNAME を使用したランディングページ URL のカスタマイズ（管理）
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 100%
 
