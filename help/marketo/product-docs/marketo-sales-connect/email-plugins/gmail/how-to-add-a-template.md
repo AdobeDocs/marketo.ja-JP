@@ -4,7 +4,7 @@ description: テンプレートの追加方法 - Marketo ドキュメント - �
 title: テンプレートの追加方法
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
