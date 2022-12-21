@@ -4,7 +4,7 @@ description: シンプルなスコアリング - Marketo ドキュメント - �
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 source-git-commit: 89ee01fb25e7bc406c198c8e89e6957b3b1e1928
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
 
@@ -128,7 +128,7 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
 [◄ ミッション 2：フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
