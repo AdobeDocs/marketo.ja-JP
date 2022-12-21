@@ -4,7 +4,7 @@ description: Salesforce Classic での一括アクションの使用 — Marketo
 title: Salesforce Classic での一括アクションの使用
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Sales Connect パッケージの最新バージョンに更新し、リード／連絡先表示に一括アクションボタンをインストールします。[手順については、ここをクリックしてください](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+>Sales Connect パッケージの最新バージョンに更新し、リード／連絡先ビューに一括アクションボタンをインストールします。[手順については、ここをクリックしてください](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 100%
 1. MSC メールがポップアップ表示されます。次の機能が含まれます。
 
    a.「宛先」フィールドに「すべての領収書」が表示されます。これは、リードリスト表示で選択したリードのリストに対応します。\
-   b.このリストは左側のパネル「一括作成」に表示されます。受信者はここで追加または削除できます\
+   b. このリストは左側の一括作成パネルに表示されます。受信者はここで追加または削除できます。\
    c.テンプレートを選択するか、独自のメールを作成できます。\
    d.メールに入力される動的フィールドをプレビューできます。\
    E. メールをすぐに送信したり、後で送信するようにスケジュールを設定したりできます。
@@ -52,7 +52,7 @@ ht-degree: 100%
 
    ![](assets/five-3.png)
 
-1. 「キャンペーンにリードを追加」ポップアップが表示されます。「**次へ**」をクリックし、一般的なキャンペーンフローを調べて、MSC キャンペーンをトリガーします。
+1. 「キャンペーンにリードを追加」ポップアップが表示されます。「**次へ**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
 
    ![](assets/six.png)
 
