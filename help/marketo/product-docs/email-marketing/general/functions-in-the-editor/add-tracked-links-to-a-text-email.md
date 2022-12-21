@@ -4,7 +4,7 @@ description: テキストメールに追跡リンクを追加する - Marketo �
 title: テキストメールに追跡リンクを追加する
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
