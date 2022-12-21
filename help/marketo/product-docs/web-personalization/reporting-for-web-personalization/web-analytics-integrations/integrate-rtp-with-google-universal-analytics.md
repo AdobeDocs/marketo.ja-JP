@@ -4,7 +4,7 @@ description: RTP を Google ユニバーサルアナリティクスに連携す�
 title: RTP を Google ユニバーサルアナリティクスに連携する
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 100%
 
