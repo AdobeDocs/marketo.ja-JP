@@ -4,7 +4,7 @@ description: チェックインアプリに対するアクセス権をユーザ�
 title: チェックインアプリに対するアクセス権をユーザーに付与する
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 100%
 
