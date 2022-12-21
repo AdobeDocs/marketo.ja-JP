@@ -4,7 +4,7 @@ description: Web キャンペーンで A/B テストを実施する — Marketo 
 title: Web キャンペーンで A/B テストを実施する
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
 
