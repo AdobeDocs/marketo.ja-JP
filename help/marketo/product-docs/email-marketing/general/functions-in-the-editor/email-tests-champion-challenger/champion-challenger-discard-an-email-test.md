@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：メールテストの破棄 — Ma
 title: チャンピオン／挑戦者：メールテストの破棄
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
