@@ -4,7 +4,7 @@ description: プログラムについて - Marketo ドキュメント - 製品�
 title: プログラムについて
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
