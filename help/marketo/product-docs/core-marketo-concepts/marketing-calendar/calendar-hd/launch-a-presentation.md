@@ -4,7 +4,7 @@ description: プレゼンテーションのローンチ - Marketo ドキュメ�
 title: プレゼンテーションのローンチ
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
