@@ -4,7 +4,7 @@ description: フォームフォントファミリの変更 - Marketo ドキュ�
 title: フォームフォントファミリの変更
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
