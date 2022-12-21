@@ -4,7 +4,7 @@ description: マーケティングカレンダーでエントリを直接削除 
 title: マーケティングカレンダーでエントリを直接削除
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
