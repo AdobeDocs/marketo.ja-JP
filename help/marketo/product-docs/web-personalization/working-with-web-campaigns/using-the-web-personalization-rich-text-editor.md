@@ -4,7 +4,7 @@ description: ウェブパーソナライズリッチテキストエディター�
 title: ウェブパーソナライズリッチテキストエディターを使用する
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
 
