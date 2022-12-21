@@ -4,7 +4,7 @@ description: フォームにフィールドセットを追加する - Marketo �
 title: フォームにフィールドセットを追加する
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
