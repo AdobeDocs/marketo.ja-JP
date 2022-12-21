@@ -6,7 +6,7 @@ exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 61%
+ht-degree: 68%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 61%
 
    ![](assets/email-auto-response-7.png)
 
-1. 次をクリック： **メールアクション** ドロップダウンして「 」を選択します。 **承認して閉じる**.
+1. 「**メールアクション**」ドロップダウンをクリックし、「**承認して閉じる**」を選択します。
 
    ![](assets/email-auto-response-8.png)
 
@@ -134,4 +134,4 @@ ht-degree: 61%
 
 [◄ ミッション 3：単純スコア](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[ミッション 5:人物のリストをインポート►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[ミッション 5：人物のリストのインポート ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
