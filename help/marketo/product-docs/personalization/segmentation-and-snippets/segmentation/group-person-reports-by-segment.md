@@ -4,7 +4,7 @@ description: リードレポートをセグメント別にグループ化する 
 title: リードレポートをセグメント別にグループ化する
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
