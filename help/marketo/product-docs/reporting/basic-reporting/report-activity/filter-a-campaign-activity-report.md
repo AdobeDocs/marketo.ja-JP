@@ -4,7 +4,7 @@ description: キャンペーンアクティビティレポートをフィルタ�
 title: キャンペーンアクティビティレポートをフィルターする
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
