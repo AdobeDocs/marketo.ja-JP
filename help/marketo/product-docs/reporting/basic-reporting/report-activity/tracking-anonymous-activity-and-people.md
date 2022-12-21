@@ -4,7 +4,7 @@ description: 匿名アクティビティとリードのトラッキング - Mark
 title: 匿名アクティビティとリードのトラッキング
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Marketo の[ランディングページ](/help/marketo/product-docs/demand-gener
    >
    >Marketo メールの他のリンクとは異なり、「Web ページとして表示」は、メールクリックとしてはトラックされません。
 
-   匿名アクティビティは、次の場合に、新規または既存のユーザーに結合されます。
+   匿名アクティビティは、次の場合に、新規または既存のユーザに結合されます。
 
    * [Marketo メール内のリンク](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)をクリックしたとき。
    * Marketo の[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)に入力したとき。
