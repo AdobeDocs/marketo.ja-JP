@@ -4,7 +4,7 @@ description: 電子メール署名の追加 - Marketo ドキュメント - 製�
 title: 電子メール署名の追加
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
