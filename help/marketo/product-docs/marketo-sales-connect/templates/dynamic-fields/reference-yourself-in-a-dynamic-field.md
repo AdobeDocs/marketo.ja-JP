@@ -4,7 +4,7 @@ description: 動的フィールドでの自己参照 — Marketo ドキュメン
 title: 動的フィールドでの自己参照
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
