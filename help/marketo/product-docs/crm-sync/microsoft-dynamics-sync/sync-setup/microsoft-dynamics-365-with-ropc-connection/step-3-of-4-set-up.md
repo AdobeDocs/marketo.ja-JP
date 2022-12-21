@@ -3,7 +3,7 @@ description: 手順 3／4 - MS Dynamics でのクライアントアプリのセ�
 title: 手順 3／4 - MS Dynamics でのクライアントアプリのセットアップ
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 ## 手順 4 に進む前に {#before-proceeding-to-step-4}
 
 * 同期するレコード数を制限する場合は、今すぐ[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)してください。
-* [Microsoft Dynamics 同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しくおこなわれたことを確認します。
+* [Microsoft Dynamics 同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認します。
 * Microsoft Dynamics CRM で Marketo 同期ユーザーにログインします。
 
 >[!MORELIKETHIS]
