@@ -1,11 +1,11 @@
 ---
-description: セールスキャンペーンのステップのタイプとリマインダーのタスク — Marketoドキュメント — 製品ドキュメント
+description: セールスキャンペーンのステップのタイプとリマインダータスク - Marketo ドキュメント - 製品ドキュメント
 title: セールスキャンペーンのステップのタイプとリマインダータスク
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 60%
 
 ## セールスキャンペーンのステップタイプ {#sales-campaign-step-types}
 
-セールスキャンペーンにステップを追加する場合、4 つのオプションがあります。
+セールスキャンペーンにステップを追加する場合、4 つの選択肢があります。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 60%
 
 >[!TIP]
 >
->詳細は [送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}。
+>[送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}の詳細をご覧ください。
 
 ### 電話 {#call}
 
-電話で連絡先をフォローアップするリマインダーを設定します。また、通話中にトークトラックとして使用するメモを保存することもできます。
+電話で取引先責任者をフォローアップするリマインダーを設定します。また、通話中にトークトラックとして使用するメモを保存することもできます。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-3.png)
 
@@ -53,15 +53,15 @@ ht-degree: 60%
 
 ## セールスキャンペーンでのリマインダータスクの使用 {#using-reminder-tasks-in-sales-campaigns}
 
-タスクは、特にセールスプロセスがマルチチャネル/タッチの場合に、セールスキャンペーンを連絡先に送信する際に強力なツールです。
+タスクは、特に営業プロセスがマルチチャネル／タッチの場合に、セールスキャンペーンを取引先責任者に送信する際に強力なツールです。
 
-連絡先にメールとタスクを送信するタスクは、セールスキャンペーンのタスクで最も一般的に使用されます。
+取引先責任者にメールを送信するタスクと電話をかけるタスクは、セールスキャンペーンのタスクで最も一般的に使用されます。
 
-また、ワークフローに「Task to Inmail」という連絡先を LinkedIn 上に作成することもできます。また、カスタムタスクを作成して、ハッピーアワーに招待したり、チャリティイベントについて質問したり、ゲーム 5 の後にチェックインしたりするよう促すこともできます。
+また、LinkedIn で取引先責任者に「Inmail するタスク」がワークフローの一環である場合、そのように作成することもできます。また、カスタムタスクを作成して、ハッピーアワーに招待したり、チャリティイベントについて質問したり、ゲーム 5 の後にチェックインしたりするよう促すこともできます。
 
 >[!NOTE]
 >
->セールスキャンペーンのタスクで最も重要なことは、次のステップをトリガーするためにタスクを完了する必要があります。
+>セールスキャンペーンのタスクで最も重要な点は、次の手順をトリガーするためにタスクを順番に完了する必要があることです。
 
 >[!MORELIKETHIS]
 >
