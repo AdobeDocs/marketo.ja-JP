@@ -4,7 +4,7 @@ description: テンプレート 9F - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9F
 exl-id: 4a24d5fa-7e3d-4832-8946-0c61e965fd5a
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
