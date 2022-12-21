@@ -4,7 +4,7 @@ description: 返信トラッキングの動作方法 - Marketo ドキュメン�
 title: 返信トラッキングの動作方法
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 100%
 
