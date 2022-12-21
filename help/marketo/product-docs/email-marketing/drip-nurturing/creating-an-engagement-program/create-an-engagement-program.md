@@ -4,7 +4,7 @@ description: エンゲージメントプログラムの作成 - Marketo ドキ�
 title: エンゲージメントプログラムの作成
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
