@@ -3,7 +3,7 @@ description: Sales Connect 管理者向けスタートガイド - Marketo ドキ
 title: Sales Connect 管理者向けスタートガイド
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
 
