@@ -4,7 +4,7 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ Sales Connect でグループを管理する方法を説明します。
 
    これで完了です。
 
-## グループに連絡先を追加 {#add-contacts-to-a-group}
+## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
 1. 人物ページで、人物を追加するグループを探して選択します。
 
@@ -38,9 +38,9 @@ Sales Connect でグループを管理する方法を説明します。
 
    >[!NOTE]
    >
-   >これにより、一度に 1 件の連絡先が追加されます。複数の連絡先を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
+   >これにより、一度に 1 件の連絡先が追加されます。複数の取引先責任者を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
 
-1. 連絡先の情報を入力し、「**作成**」（または別のを追加する場合は「**作成して新たに追加**」）をクリックします。
+1. 取引先責任者の情報を入力し、「**作成**」（または別の取引先責任者を追加する場合は「**作成して新たに追加**」）をクリックします。
 
    ![](assets/five-3.png)
 
@@ -48,7 +48,7 @@ Sales Connect でグループを管理する方法を説明します。
 
    >[!NOTE]
    >
-   >新しく追加された連絡先を表示するには、「更新」を押す必要がある場合があります。
+   >新しく追加された取引先責任者を表示するには、「更新」を押す必要がある場合があります。
 
 ## グループの共有 {#share-a-group}
 
