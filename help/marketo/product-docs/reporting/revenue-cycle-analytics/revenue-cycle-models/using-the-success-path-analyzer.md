@@ -4,7 +4,7 @@ description: 成功パス分析の使用 - Marketo ドキュメント - 製品�
 title: 成功パス分析の使用
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 100%
 
