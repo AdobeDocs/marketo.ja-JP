@@ -4,7 +4,7 @@ description: キャンペーンをテンプレートとして保存する - Mark
 title: キャンペーンをテンプレートとして保存する
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
