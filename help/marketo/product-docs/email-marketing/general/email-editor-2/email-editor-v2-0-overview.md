@@ -4,7 +4,7 @@ description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製�
 title: Email Editor v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 100%
 
