@@ -4,7 +4,7 @@ description: カスタムアクティビティについて - Marketo ドキュ�
 title: カスタムアクティビティについて
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
