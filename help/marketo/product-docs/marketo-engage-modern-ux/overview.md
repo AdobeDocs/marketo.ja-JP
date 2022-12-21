@@ -3,7 +3,7 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
 
