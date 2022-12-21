@@ -4,7 +4,7 @@ description: エンゲージメントプログラムストリームの変更 - M
 title: エンゲージメントプログラムストリームの変更
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
