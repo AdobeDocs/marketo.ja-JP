@@ -3,7 +3,7 @@ description: アプリ内メッセージの送信 - Marketo ドキュメント -
 title: アプリ内メッセージの送信
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
