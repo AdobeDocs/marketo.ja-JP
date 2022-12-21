@@ -4,7 +4,7 @@ description: エンゲージメントプログラムのオン／オフを切り�
 title: エンゲージメントプログラムのオン／オフを切り替える
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
