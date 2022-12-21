@@ -4,7 +4,7 @@ description: レポートのサイズを設定する — Marketo ドキュメン
 title: レポートのサイズを設定する
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
