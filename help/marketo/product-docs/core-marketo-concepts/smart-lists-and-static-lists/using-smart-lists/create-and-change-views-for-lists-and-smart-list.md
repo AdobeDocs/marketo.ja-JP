@@ -4,7 +4,7 @@ description: リストおよびスマートリストのビューの作成と変�
 title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
 
