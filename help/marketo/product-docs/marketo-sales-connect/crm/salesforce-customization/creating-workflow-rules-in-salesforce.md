@@ -4,7 +4,7 @@ description: Salesforce でのワークフロールールの作成 - Marketo ド
 title: Salesforce でのワークフロールールの作成
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 100%
 
