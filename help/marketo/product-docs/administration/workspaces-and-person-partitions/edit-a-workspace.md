@@ -4,7 +4,7 @@ description: ワークスペースを編集する - Marketo ドキュメント -
 title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
