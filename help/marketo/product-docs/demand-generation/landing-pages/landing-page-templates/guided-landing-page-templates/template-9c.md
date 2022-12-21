@@ -4,7 +4,7 @@ description: テンプレート 9C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9C
 exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
