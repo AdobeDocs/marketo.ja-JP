@@ -4,7 +4,7 @@ description: MSI パッケージのアップグレード - Marketo ドキュメ�
 title: MSI パッケージのアップグレード
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 
