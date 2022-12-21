@@ -4,7 +4,7 @@ description: 営業電話のローカルプレゼンス - Marketo ドキュメ�
 title: 営業電話のローカルプレゼンス
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
