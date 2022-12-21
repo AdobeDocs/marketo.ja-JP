@@ -4,7 +4,7 @@ description: メールの添付ファイルのトラック方法 - Marketo ド�
 title: メールの添付ファイルのトラック方法
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
 
