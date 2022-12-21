@@ -3,7 +3,7 @@ description: リリースノート - 2021 年 8 月 - Marketo ドキュメント
 title: リリースノート - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
 source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 100%
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
+以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
 ## Sales Insight {#sales-insight}
 
