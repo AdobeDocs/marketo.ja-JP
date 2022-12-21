@@ -4,7 +4,7 @@ description: Web フックの呼び出し - Marketo ドキュメント - 製品�
 title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
