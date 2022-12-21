@@ -4,7 +4,7 @@ description: 予測コンテンツアクティビティのスマートリスト�
 title: 予測コンテンツアクティビティのスマートリストの定義
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 100%
 
