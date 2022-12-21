@@ -4,7 +4,7 @@ description: 人物ページの列 - Marketo ドキュメント - 製品ドキ�
 title: 人物ページの列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 人物ページの列 {#people-page-columns}
 
-表示する列を選択して、表示する連絡先情報をカスタマイズするオプションがあります。
+表示する列を選択して、表示する取引先責任者情報をカスタマイズするオプションがあります。
 
 ## 列の選択方法 {#how-to-select-columns}
 
@@ -54,7 +54,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1">タイトル（デフォルト）</td> 
-   <td colspan="1">職位</td> 
+   <td colspan="1">役職</td> 
   </tr> 
   <tr> 
    <td>会社（デフォルト）</td> 
@@ -86,7 +86,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td># アクティビティ数（デフォルト）</td> 
-   <td>このリードに対してユーザーが行ったアクティビティの合計数（メール、通話、タスク）</td> 
+   <td>このリードに対してユーザが行ったアクティビティの合計数（メール、通話、タスク）</td> 
   </tr> 
   <tr> 
    <td>同意</td> 
@@ -114,7 +114,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>クリエイター</td> 
-   <td>人物を作成したユーザーの名前</td> 
+   <td>人物を作成したユーザの名前</td> 
   </tr> 
   <tr> 
    <td>ソース</td> 
