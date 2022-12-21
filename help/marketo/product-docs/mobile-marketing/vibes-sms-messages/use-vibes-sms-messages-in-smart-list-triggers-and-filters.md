@@ -4,7 +4,7 @@ description: スマートリストのトリガーとフィルターでの Vibes 
 title: スマートリストトリガーとフィルターでの Vibes SMS メッセージの使用
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 100%
 
