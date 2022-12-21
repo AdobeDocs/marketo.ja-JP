@@ -4,7 +4,7 @@ description: Web ページからの画像の取得 - Marketo ドキュメント 
 title: Web ページからの画像の取得
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
