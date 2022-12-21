@@ -4,7 +4,7 @@ description: SFDC の同期 - アカウントの同期 - Marketo ドキュメン
 title: SFDC の同期 - アカウントの同期
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 100%
 
