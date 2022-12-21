@@ -3,9 +3,9 @@ description: Salesforce 同期ステータス - Marketo ドキュメント - 製
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-*同期ステップの失敗後、データは整合性の以前の状態に戻りました。
+&#42;同期ステップの失敗後、データは以前の整合性の状態に戻されました。
 
 ## オブジェクトのタイプ {#object-type}
 
@@ -248,4 +248,4 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-*サブスクリプションレベルでのブランディング設定は、レポートのラベル（「リード」または「人」）を決定します。
+&#42;サブスクリプションレベルでのブランディング設定によって、レポートのラベル（「リード」または「人」）が決まります。
