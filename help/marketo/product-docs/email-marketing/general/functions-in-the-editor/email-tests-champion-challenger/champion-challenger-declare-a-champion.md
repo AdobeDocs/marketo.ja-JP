@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：チャンピオンの発表 — Ma
 title: チャンピオン／挑戦者：チャンピオンの発表
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >[チャンピオン／挑戦者：メールテストの承認](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
