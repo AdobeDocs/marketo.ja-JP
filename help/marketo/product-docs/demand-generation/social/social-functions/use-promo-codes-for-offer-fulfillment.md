@@ -4,7 +4,7 @@ description: オファー達成のためのプロモコードの使用 — Marke
 title: オファー達成のためのプロモコードの使用
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
 
