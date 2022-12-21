@@ -4,7 +4,7 @@ description: アトリビューションの例 1 - Marketo ドキュメント - 
 title: アトリビューションの例 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 
