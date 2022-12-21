@@ -4,7 +4,7 @@ description: Sales Connect の概要 - Marketo ドキュメント - 製品ドキ
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 100%
 
