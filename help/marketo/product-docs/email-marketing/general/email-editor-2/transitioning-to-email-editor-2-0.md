@@ -4,7 +4,7 @@ description: メールエディター 2.0 への移行 - Marketo ドキュメン
 title: メールエディター 2.0 への移行
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 100%
 
