@@ -4,7 +4,7 @@ description: エンゲージメントプログラムについて - Marketo ド�
 title: エンゲージメントプログラムについて
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 100%
 
