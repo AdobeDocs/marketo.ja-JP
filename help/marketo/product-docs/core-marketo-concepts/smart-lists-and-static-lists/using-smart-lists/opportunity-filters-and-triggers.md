@@ -4,7 +4,7 @@ description: 商談フィルターおよびトリガー - Marketo ドキュメ�
 title: 商談フィルターおよびトリガー
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 100%
 
