@@ -4,7 +4,7 @@ description: プレゼンテーションへの背景画像の追加 - Marketo �
 title: プレゼンテーションへの背景画像の追加
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
