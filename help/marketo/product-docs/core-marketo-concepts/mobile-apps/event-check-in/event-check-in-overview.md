@@ -3,7 +3,7 @@ description: イベントチェックインの概要
 title: イベントチェックインの概要
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 100%
 
