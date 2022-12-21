@@ -4,7 +4,7 @@ description: レポートのタイムフレームを変更する — Marketo ド
 title: レポートのタイムフレームを変更する
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
 
