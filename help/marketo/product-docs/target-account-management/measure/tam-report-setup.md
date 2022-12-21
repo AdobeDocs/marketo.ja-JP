@@ -4,7 +4,7 @@ description: TAMレポートの設定 - Marketo ドキュメント - 製品ド�
 title: TAM レポートの設定
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%
 
