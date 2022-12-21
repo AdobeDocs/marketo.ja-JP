@@ -4,7 +4,7 @@ description: 顧客リストを使用したセグメントの作成 - Marketo �
 title: 顧客リストを使用したセグメントの作成
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
