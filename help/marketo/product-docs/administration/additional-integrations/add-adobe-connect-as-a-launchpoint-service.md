@@ -4,7 +4,7 @@ description: Adobe Connect を LaunchPoint サービスとして追加 - Marketo
 title: Adobe Connect を LaunchPoint サービスとして追加
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 
