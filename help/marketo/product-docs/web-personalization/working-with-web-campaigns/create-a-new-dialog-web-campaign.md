@@ -4,7 +4,7 @@ description: ダイアログ web キャンペーンの新規作成 - Marketo ド
 title: ダイアログ web キャンペーンの新規作成
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ Web キャンペーンを作成して、Web コンテンツをリアルタイム
 
 Web キャンペーンとは、特定のセグメントに関連付けられたカスタマイズされた反応です。反応は、ウェブサイト上のダイアログボックス、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかにすることができます。
 
-1. 「**Web キャンペーン**」に移動します
+1. 「**Web キャンペーン**」に移動します。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
