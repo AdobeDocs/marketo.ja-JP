@@ -4,7 +4,7 @@ description: Salesforce フィールドのアクセシビリティの編集 — 
 title: Salesforce フィールドのアクセシビリティの編集
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
