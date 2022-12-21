@@ -4,7 +4,7 @@ description: テンプレート 7D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
