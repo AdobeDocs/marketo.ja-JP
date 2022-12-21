@@ -1,16 +1,17 @@
 ---
-description: ダイアログの作成 — Marketo Docs — 製品ドキュメント
+description: ダイアログの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログの作成
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 64f8d0c6-8e5c-4892-85ec-729c609f700a
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 # ダイアログの作成 {#create-a-dialogue}
 
-新しいダイアログを作成する方法を次に示します。
+新しいダイアログの作成方法を次に示します。
 
 1. 「**ダイアログ**」をクリックします。
 
@@ -20,7 +21,7 @@ ht-degree: 30%
 
    ![](assets/create-a-dialogue-2.png)
 
-1. 空のダイアログ、または事前入力済みのテンプレートを選択します。 名前を入力し（説明はオプション）、優先度レベルを変更（オプション）、 **作成**.
+1. 空のダイアログ、または事前入力済みのテンプレートを選択します。名前を入力して（説明はオプションです）、優先度レベルを変更し（オプション）、「**保存**」をクリックします。
 
    ![](assets/create-a-dialogue-3.png)
 
