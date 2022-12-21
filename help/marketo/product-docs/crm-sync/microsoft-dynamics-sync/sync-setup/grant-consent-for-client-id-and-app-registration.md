@@ -3,7 +3,7 @@ description: クライアント ID とアプリの登録に対する同意の付
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 100%
 
