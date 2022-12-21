@@ -4,7 +4,7 @@ description: Google でのパーソナライズリマーケティング — Mark
 title: Google でのパーソナライズリマーケティング
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
