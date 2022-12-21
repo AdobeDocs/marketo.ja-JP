@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: 推測フィルター - Marketo ドキュメント - 製品ドキュメント
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 66%
 
 ---
 
 # 推測フィルター {#inferred-filters}
 
-web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、システムに格納されます。訪問者の IP を特別なデータベースで調べて、有益な情報を推測することができます。確認してみてください。
+Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
+
+>[!NOTE]
+>
+>推測されるフィールド値が常に最新の状態に保たれるよう、IP アドレスの検索に使用されるデータベースを定期的に更新します。 データベースの更新により、スマートリストフィルター定義に追加する必要がある可能性のある、新しい推測されるフィールド値が追加される場合があります。
+>
+>データベースの更新は、 [Marketo Engage製品リリース](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}。 更新が発生すると、 [Marketo Engageリリースノート](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} には、推測されるフィールド値に対する変更の説明が含まれます。
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
