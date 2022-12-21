@@ -4,7 +4,7 @@ description: プライバシー設定について - Marketo ドキュメント -
 title: プライバシー設定について
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 100%
 
