@@ -4,7 +4,7 @@ description: 収益モデル在庫ステージの使用 - Marketo ドキュメ�
 title: 収益モデル在庫ステージの使用
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
 
