@@ -4,7 +4,7 @@ description: テンプレート 4A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
