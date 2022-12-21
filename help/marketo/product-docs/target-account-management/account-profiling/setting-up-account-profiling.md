@@ -4,7 +4,7 @@ description: アカウントプロファイリングの設定 - Marketo ドキ�
 title: アカウントプロファイリングの設定
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 source-git-commit: 07a6640bd6cd43f55a5fa7e64b4a960dce288021
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
