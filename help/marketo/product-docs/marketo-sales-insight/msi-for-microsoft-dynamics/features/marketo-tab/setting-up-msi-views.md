@@ -3,7 +3,7 @@ description: MSI ビューの設定 - Marketo ドキュメント - 製品ドキ�
 title: MSI ビューの設定
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
 
