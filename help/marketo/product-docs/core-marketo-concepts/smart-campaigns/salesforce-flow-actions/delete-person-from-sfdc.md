@@ -4,7 +4,7 @@ description: SFDC から顧客を削除 - Marketo ドキュメント - 製品ド
 title: SFDC から顧客を削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
