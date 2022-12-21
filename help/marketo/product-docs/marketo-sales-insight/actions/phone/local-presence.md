@@ -3,7 +3,7 @@ description: ローカルプレゼンス - Marketo ドキュメント - 製品�
 title: ローカルプレゼンス
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
