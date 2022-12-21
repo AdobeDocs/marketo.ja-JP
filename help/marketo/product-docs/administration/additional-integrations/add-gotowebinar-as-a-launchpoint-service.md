@@ -4,7 +4,7 @@ description: GoToWebinar を LaunchPoint サービスとして追加 - Marketo �
 title: GoToWebinar を LaunchPoint サービスとして追加
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 100%
 
