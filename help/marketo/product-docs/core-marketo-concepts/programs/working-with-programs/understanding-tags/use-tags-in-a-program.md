@@ -4,7 +4,7 @@ description: プログラムでのタグの使用 - Marketo ドキュメント -
 title: プログラムでのタグの使用
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
