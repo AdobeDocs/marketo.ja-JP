@@ -4,7 +4,7 @@ description: Microsoft の所有者の変更 - Marketo ドキュメント - 製�
 title: Microsoft の所有者の変更
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
