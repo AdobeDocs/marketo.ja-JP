@@ -5,7 +5,7 @@ exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 70%
+ht-degree: 73%
 
 ---
 
@@ -213,7 +213,7 @@ Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは�
     </tr>
     <tr>
       <td>Veeva タイプ</td>
-      <td>連絡先. 空の場合、リードは Marketo にのみ存在します</td>
+      <td>取引先責任者. 空の場合、リードは Marketo にのみ存在します</td>
     </tr>
     <tr>
       <td>Veeva 作成日</td>
