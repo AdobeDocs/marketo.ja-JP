@@ -4,7 +4,7 @@ description: Microsoft Dynamics 同期について - Marketo ドキュメント 
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ Marketo と Dynamics の間の同期は、リードと連絡先が双方向で�
 ## Marketo と Microsoft Dynamics の間で同期されるもの {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [リード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [連絡先](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [取引先責任者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [アカウント](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [ユーザー](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * チーム（SystemUsers のグループ）
