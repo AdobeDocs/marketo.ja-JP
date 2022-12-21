@@ -4,7 +4,7 @@ description: Marketo でのイベントの作成 - Marketo ドキュメント - 
 title: Marketo でのイベントの作成
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
