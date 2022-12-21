@@ -4,7 +4,7 @@ description: SEO - ターゲットキーワードを使用した特定のペー�
 title: SEO - ターゲットキーワードを使用した特定のページの最適化
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
