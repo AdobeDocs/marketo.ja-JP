@@ -4,7 +4,7 @@ description: 自動トリガーキャンペーンクリーンアップ - Marketo
 title: 自動トリガーキャンペーンクリーンアップ
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 100%
 
