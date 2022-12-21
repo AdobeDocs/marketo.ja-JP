@@ -4,7 +4,7 @@ description: 「メール全体」A/B テストを使用する — Marketo ド�
 title: 「メール全体」A/B テストを使用する
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 100%
 
