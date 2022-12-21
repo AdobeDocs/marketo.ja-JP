@@ -4,7 +4,7 @@ description: Insights ダッシュボード機能の概要 - Marketo ドキュ�
 title: Insights ダッシュボード機能の概要
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 100%
 
