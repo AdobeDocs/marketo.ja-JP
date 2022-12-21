@@ -4,7 +4,7 @@ description: フローステップでの「選択肢を追加」の使用 - Mark
 title: フローステップでの「選択肢を追加」の使用
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
