@@ -4,7 +4,7 @@ description: SEO - ページの削除 - Marketo ドキュメント - 製品ド�
 title: SEO - ページの削除
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
