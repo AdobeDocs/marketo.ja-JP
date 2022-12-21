@@ -4,7 +4,7 @@ description: スニペットの承認を取り消す - Marketo ドキュメン�
 title: スニペットの承認を取り消す
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
