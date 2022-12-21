@@ -4,7 +4,7 @@ description: SEO - 競合相手 KW トレンドレポートの使用 - Marketo D
 title: SEO - 競合他社 KW トレンドレポートの使用
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
