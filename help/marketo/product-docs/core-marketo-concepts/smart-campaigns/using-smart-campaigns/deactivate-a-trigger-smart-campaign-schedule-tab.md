@@ -4,7 +4,7 @@ description: トリガースマートキャンペーンの無効化 | 「スケ�
 title: トリガースマートキャンペーンの無効化 | 「スケジュール」タブ
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
