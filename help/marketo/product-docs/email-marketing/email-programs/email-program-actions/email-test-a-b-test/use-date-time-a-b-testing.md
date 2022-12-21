@@ -4,7 +4,7 @@ description: 「日時」A/B テストの使用 - Marketo ドキュメント - �
 title: 「日付／時間」A/B テストの使用
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
 
