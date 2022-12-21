@@ -4,7 +4,7 @@ description: 暫定的／確認済みの日付の理解 - Marketo ドキュメ�
 title: 暫定的／確認済みの日付の理解
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%
 
