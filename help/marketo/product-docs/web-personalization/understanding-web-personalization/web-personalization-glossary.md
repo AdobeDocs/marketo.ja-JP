@@ -4,7 +4,7 @@ description: Web パーソナライゼーション用語集 - Marketo ドキュ�
 title: Web パーソナライゼーション用語集
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
 
