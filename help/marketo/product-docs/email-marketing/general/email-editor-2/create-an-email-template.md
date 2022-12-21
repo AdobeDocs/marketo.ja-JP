@@ -4,7 +4,7 @@ description: メールテンプレートを作成する - Marketo ドキュメ�
 title: メールテンプレートを作成する
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
 
