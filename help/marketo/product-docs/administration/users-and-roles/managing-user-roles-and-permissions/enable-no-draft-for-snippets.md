@@ -4,7 +4,7 @@ description: スニペットで「ドラフトなし」を有効にする - Mark
 title: スニペットで「ドラフトなし」を有効にする
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
