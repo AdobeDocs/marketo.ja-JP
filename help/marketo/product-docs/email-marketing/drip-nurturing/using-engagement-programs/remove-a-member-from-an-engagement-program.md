@@ -4,7 +4,7 @@ description: エンゲージメントプログラムからメンバーを削除�
 title: エンゲージメントプログラムからメンバーを削除する
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
