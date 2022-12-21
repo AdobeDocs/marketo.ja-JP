@@ -4,7 +4,7 @@ description: テンプレート 20C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
