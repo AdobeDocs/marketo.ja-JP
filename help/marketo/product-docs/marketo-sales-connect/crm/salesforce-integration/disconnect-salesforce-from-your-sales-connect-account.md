@@ -4,7 +4,7 @@ description: Salesforce を Sales Connect アカウントから切断 - Marketo 
 title: Salesforce を Sales Connect アカウントから切断
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
