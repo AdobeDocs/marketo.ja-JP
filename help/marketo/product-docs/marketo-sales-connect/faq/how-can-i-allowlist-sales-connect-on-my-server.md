@@ -4,7 +4,7 @@ description: サーバーで Sales Connect を許可リストに加える方法�
 title: サーバーで Sales Connect を許可リストに加える方法を教えてください。
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 
