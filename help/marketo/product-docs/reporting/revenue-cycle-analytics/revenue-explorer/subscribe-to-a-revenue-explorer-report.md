@@ -4,7 +4,7 @@ description: 収益エクスプローラーレポートの購読 - Marketo ド�
 title: 収益エクスプローラーレポートの購読
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
