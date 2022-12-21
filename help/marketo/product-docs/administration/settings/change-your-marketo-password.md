@@ -4,7 +4,7 @@ description: Marketo パスワードの変更 - Marketo ドキュメント - 製
 title: Marketo パスワードの変更
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
