@@ -4,7 +4,7 @@ description: 標準スマートリストルールロジックの使用 - Marketo
 title: 標準スマートリストルールロジックの使用
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
