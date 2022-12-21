@@ -4,7 +4,7 @@ description: Zoom を LaunchPoint サービスとして追加 - Marketo ドキ�
 title: Zoom を LaunchPoint サービスとして追加
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
