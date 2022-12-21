@@ -3,7 +3,7 @@ description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Mar
 title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 2 / 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 100%
 
@@ -65,29 +65,29 @@ ht-degree: 100%
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
-Marketo 同期ユーザー役割を Marketo 同期ユーザーにのみ割り当てます。他のユーザーに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザーに同期ユーザー役割が必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定は[英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)。
+>同期ユーザの言語設定は[英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)。
 
 1. 「**設定**」で、「**セキュリティ**」をクリックします。
 
    ![](assets/assign1.png)
 
-1. 「**ユーザー**」をクリックします。
+1. 「**ユーザ**」をクリックします。
 
    ![](assets/assign2.png)
 
-1. ユーザーのリストが表示されます。専用の Marketo 同期ユーザーを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)（ADFS）管理者に問い合わせて、Marketo 専用ユーザーの作成を依頼します。
+1. ユーザのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)（ADFS）管理者に問い合わせて、Marketo 専用ユーザの作成を依頼します。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 同期ユーザーを選択します。「**役割を管理**」をクリックします。
+1. 同期ユーザを選択します。「**役割を管理**」をクリックします。
 
    ![](assets/assign4.png)
 
@@ -101,9 +101,9 @@ Marketo 同期ユーザー役割を Marketo 同期ユーザーにのみ割り当
 
    >[!NOTE]
    >
-   >同期ユーザーが CRM で実行した更新は、再度 Marketo に&#x200B;**同期されません**。
+   >同期ユーザが CRM で行った更新は Marketo に同期&#x200B;**されません**。
 
-## Marketo ソリューションを設定する {#configure-marketo-solution}
+## Marketo ソリューションの設定 {#configure-marketo-solution}
 
 あと少しで完了です。次の記事に進む前に、最後の部分を設定しましょう。
 
@@ -119,7 +119,7 @@ Marketo 同期ユーザー役割を Marketo 同期ユーザーにのみ割り当
 
    ![](assets/configure2.png)
 
-1. 「**Marketo ユーザー**」フィールドをクリックし、同期ユーザーを選択します。
+1. 「**Marketo ユーザ**」フィールドをクリックし、同期ユーザを選択します。
 
    ![](assets/configure3.png)
 
