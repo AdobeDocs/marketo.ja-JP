@@ -4,7 +4,7 @@ description: 登録解除メッセージの編集 - Marketo ドキュメント -
 title: 登録解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
