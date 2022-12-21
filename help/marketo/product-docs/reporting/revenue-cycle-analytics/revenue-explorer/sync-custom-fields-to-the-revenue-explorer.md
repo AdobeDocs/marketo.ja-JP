@@ -4,7 +4,7 @@ description: カスタムフィールドを収益エクスプローラに同期 
 title: カスタムフィールドを収益エクスプローラに同期
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 
