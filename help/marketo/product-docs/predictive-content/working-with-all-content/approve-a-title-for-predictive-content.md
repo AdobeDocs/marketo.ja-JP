@@ -4,7 +4,7 @@ description: 予測コンテンツのタイトルの承認 - Marketo ドキュ�
 title: 予測コンテンツのタイトルの承認
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
