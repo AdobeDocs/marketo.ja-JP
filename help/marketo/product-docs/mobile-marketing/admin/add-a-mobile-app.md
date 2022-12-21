@@ -4,7 +4,7 @@ description: モバイルアプリの追加 - Marketo ドキュメント - 製�
 title: モバイルアプリの追加
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
 
