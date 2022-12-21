@@ -4,7 +4,7 @@ description: A/B テストのキャンセル — Marketo ドキュメント — 
 title: A/B テストのキャンセル
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # A/B テストのキャンセル {#cancel-the-a-b-test}
 
-メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)したが不要になったと判断した場合は、簡単に元に戻すことができます。どうやって。
+メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)したが不要になったと判断した場合は、簡単に元に戻すことができます。手順は次のとおりです。
 
 1. 「**マーケティングアクティビティ**」に移動します。
 
