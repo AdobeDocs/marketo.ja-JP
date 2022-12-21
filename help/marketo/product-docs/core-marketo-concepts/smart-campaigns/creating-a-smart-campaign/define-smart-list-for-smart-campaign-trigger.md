@@ -4,7 +4,7 @@ description: スマートキャンペーン用スマートリストの定義 |�
 title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 
