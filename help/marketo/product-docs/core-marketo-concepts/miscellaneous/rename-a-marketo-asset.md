@@ -4,7 +4,7 @@ description: Marketo アセットの名前変更 - Marketo ドキュメント - 
 title: Marketo アセットの名前変更
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
