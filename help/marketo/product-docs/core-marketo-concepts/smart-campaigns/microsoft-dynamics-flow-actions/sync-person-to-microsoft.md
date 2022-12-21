@@ -4,7 +4,7 @@ description: リードをマイクロソフトに同期 - Marketo ドキュメ�
 title: リードをマイクロソフトに同期
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 
