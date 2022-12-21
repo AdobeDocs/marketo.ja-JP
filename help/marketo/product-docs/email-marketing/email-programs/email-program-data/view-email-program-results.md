@@ -4,7 +4,7 @@ description: メールプログラム結果の表示 - Marketo ドキュメン�
 title: メールプログラム結果の表示
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 スマートキャンペーンの「結果」タブと同様に、メールプログラムにも同じ情報が表示されます。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
