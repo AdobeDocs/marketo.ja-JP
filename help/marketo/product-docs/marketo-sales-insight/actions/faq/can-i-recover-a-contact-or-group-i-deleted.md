@@ -3,7 +3,7 @@ description: 削除した取引先責任者またはグループを復元でき�
 title: 削除した取引先責任者またはグループを復元できますか？
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
