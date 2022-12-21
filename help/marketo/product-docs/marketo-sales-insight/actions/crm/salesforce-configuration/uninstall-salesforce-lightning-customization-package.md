@@ -3,7 +3,7 @@ description: Salesforce Lightning カスタマイズパッケージのアンイ�
 title: Salesforce Lightning カスタマイズパッケージのアンインストール
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 100%
 
