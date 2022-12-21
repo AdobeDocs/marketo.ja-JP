@@ -4,7 +4,7 @@ description: ワークスペースを使用したデフォルトのブランデ�
 title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 
