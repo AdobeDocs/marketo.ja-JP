@@ -4,7 +4,7 @@ description: Microsoft Dynamics での連絡先の作成 - Marketo ドキュメ�
 title: Microsoft Dynamics での連絡先の作成
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
