@@ -4,7 +4,7 @@ description: SEO - キーワードトレンドレポートの使用 - Marketo �
 title: SEO - キーワードトレンドレポートの使用
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
 
