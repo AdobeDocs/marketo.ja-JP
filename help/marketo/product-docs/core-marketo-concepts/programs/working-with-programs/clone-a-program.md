@@ -4,7 +4,7 @@ description: プログラムの複製 - Marketo ドキュメント - 製品ド�
 title: プログラムの複製
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
 
