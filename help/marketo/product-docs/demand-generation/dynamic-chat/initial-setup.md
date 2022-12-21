@@ -19,16 +19,16 @@ ht-degree: 100%
 >
 >**管理者権限が必要。**
 
-1. Marketo インスタンスに対して動的チャットを有効にすると、指定されたシステム管理者にようこそメールが送信されます。このメールで、**始める**&#x200B;をクリックします。
+1. Marketo インスタンスに対して動的チャットを有効にすると、指定されたシステム管理者にようこそメールが送信されます。そのメールで、「**開始する**」をクリックします。
 
    ![](assets/initial-setup-1.png)
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html)してください。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html)します。
 
    ![](assets/initial-setup-2.png)
 
-## ユーザーの追加 {#add-users}
+## ユーザの追加 {#add-users}
 
-1. Admin Console にログインしたら、次にユーザーを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)で文書化されています。
+1. Admin Console にログインしたら、次にユーザを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)で文書化されています。
 
 次に、[動的チャットを Marketo に接続](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)します。
