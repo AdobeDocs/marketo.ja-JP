@@ -4,7 +4,7 @@ description: ストリームケイデンスの設定 - Marketo ドキュメン�
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 100%
 
