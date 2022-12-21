@@ -4,7 +4,7 @@ description: LinkedIn のアカウントと一致するオーディエンスの�
 title: LinkedIn のアカウントと一致するオーディエンスの作成
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 source-git-commit: dbfa6e2e1a274be5ea587ba960cd2e237215f4b9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
 
