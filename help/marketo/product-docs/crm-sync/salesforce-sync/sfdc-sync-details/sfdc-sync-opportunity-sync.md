@@ -4,7 +4,7 @@ description: SFDC の同期 - 商談の同期 - Marketo ドキュメント - 製
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%
 
