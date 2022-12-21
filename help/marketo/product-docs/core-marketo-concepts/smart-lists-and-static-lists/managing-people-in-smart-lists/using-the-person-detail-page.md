@@ -4,7 +4,7 @@ description: 人物の詳細ページの使用 - Marketo ドキュメント - �
 title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
 
-   <br>
+   <br> 
 
 1. 任意の人物をダブルクリックするか、左側の ID をシングルクリックします。
 
