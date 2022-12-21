@@ -5,7 +5,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 15%
       <td>文字列</td>
     </tr>
     <tr>
-      <td>ピックリスト</td>
+      <td>選択リスト</td>
       <td>文字列</td>
     </tr>
     <tr>
