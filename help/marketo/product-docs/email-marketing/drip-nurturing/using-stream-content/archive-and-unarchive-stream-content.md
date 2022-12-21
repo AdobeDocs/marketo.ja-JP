@@ -4,7 +4,7 @@ description: ストリームコンテンツのアーカイブとアーカイブ�
 title: ストリームコンテンツのアーカイブとアーカイブ解除
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
