@@ -3,7 +3,7 @@ description: テストメールの送信 - Marketo ドキュメント - 製品�
 title: テストメールの送信
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
 
