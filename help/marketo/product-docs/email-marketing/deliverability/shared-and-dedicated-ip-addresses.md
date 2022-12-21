@@ -4,7 +4,7 @@ description: 共有 IP アドレスと専用 IP アドレス — Marketo ドキ�
 title: 共有 IP アドレスと専用 IP アドレス
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 100%
 
