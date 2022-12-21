@@ -4,7 +4,7 @@ description: メールアドレスのカスタム同期フィルタールール 
 title: メールアドレスのカスタム同期フィルタールール
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 100%
 
