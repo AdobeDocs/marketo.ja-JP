@@ -4,7 +4,7 @@ description: アプリ内メッセージテキストの作成 - Marketo ドキ�
 title: アプリ内メッセージテキストの作成
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 100%
 
