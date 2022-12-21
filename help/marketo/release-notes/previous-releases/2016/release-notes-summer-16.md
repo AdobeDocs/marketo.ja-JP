@@ -4,7 +4,7 @@ description: リリースノート - 2016 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2016 年夏
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 100%
 
