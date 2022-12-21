@@ -3,7 +3,7 @@ description: 製品管理者の追加または削除 - Marketo ドキュメン�
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
 
