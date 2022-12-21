@@ -3,7 +3,7 @@ description: 製品管理者の設定 - Marketo ドキュメント - 製品ド�
 title: 製品管理者の設定
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
