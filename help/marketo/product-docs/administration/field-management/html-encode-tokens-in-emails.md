@@ -4,7 +4,7 @@ description: メールでの HTML エンコードトークン - Marketo ドキ�
 title: メールでの HTML エンコードトークン
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
