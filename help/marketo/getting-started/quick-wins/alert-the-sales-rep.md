@@ -4,7 +4,7 @@ description: セールス担当者にアラート - Marketo ドキュメント -
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 100%
 
@@ -134,7 +134,7 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
 [◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
