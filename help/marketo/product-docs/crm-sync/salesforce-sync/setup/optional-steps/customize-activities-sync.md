@@ -4,7 +4,7 @@ description: アクティビティ同期のカスタマイズ - Marketo ドキ�
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
 
