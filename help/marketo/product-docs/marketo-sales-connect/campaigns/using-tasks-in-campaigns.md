@@ -4,7 +4,7 @@ description: キャンペーンでのタスクの使用 — Marketo ドキュメ
 title: キャンペーンでのタスクの使用
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
 
