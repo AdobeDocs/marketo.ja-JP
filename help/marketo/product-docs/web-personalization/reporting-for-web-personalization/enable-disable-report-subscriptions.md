@@ -4,7 +4,7 @@ description: レポート購読の有効化／無効化 - Marketo ドキュメ�
 title: レポート購読の有効化／無効化
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
