@@ -4,7 +4,7 @@ description: 会社の web アクティビティレポート - Marketo ドキュ
 title: 会社の web アクティビティレポート
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 100%
 
