@@ -4,7 +4,7 @@ description: Marketo ON24 アダプターイベントについて - Marketo ド�
 title: Marketo ON24 アダプターイベントについて
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
