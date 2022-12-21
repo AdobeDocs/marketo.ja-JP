@@ -4,7 +4,7 @@ description: Web キャンペーンデータをエクスポートする — Mark
 title: Web キャンペーンデータをエクスポートする
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
