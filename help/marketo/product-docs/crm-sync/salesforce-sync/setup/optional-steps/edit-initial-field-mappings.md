@@ -4,7 +4,7 @@ description: 初期フィールドマッピングの編集 - Marketo ドキュ�
 title: 初期フィールドマッピングの編集
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 100%
 
