@@ -3,7 +3,7 @@ description: メールボットアクティビティのフィルター - Marketo
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 100%
 
