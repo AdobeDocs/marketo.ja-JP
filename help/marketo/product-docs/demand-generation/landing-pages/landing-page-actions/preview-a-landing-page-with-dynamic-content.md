@@ -4,7 +4,7 @@ description: 動的コンテンツを含むランディングページのプレ�
 title: 動的コンテンツを含むランディングページのプレビュー
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
