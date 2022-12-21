@@ -4,7 +4,7 @@ description: セグメント化の削除 - Marketo ドキュメント - 製品�
 title: セグメント化の削除
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
