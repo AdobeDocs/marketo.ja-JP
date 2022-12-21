@@ -4,7 +4,7 @@ description: アドビ組織マッピングの設定 - Marketo ドキュメン�
 title: アドビ組織マッピングの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 100%
 
