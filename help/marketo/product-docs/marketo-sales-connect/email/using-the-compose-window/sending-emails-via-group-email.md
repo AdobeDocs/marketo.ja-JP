@@ -4,7 +4,7 @@ description: グループメールによるメールの送信 - Marketo ドキ�
 title: グループメールによるメールの送信
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
 
