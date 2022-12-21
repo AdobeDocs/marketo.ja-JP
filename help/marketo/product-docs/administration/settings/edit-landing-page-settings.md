@@ -4,7 +4,7 @@ description: ランディングページ設定を編集する - Marketo ドキ�
 title: ランディングページ設定を編集する
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 100%
 
