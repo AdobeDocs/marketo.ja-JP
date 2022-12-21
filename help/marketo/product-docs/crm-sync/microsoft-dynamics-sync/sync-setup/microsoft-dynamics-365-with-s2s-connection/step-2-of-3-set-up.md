@@ -4,7 +4,7 @@ description: 手順 2／3 - サーバー間接続を使用した Marketo ソリ�
 title: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '589'
 ht-degree: 100%
 
