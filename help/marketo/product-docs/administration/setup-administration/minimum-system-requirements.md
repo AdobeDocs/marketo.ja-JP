@@ -4,7 +4,7 @@ description: 必要なシステム構成 - Marketo ドキュメント - 製品�
 title: 必要なシステム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
