@@ -3,7 +3,7 @@ description: Salesforce アクティビティ詳細のカスタマイズの設�
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 100%
 
