@@ -4,7 +4,7 @@ description: 非ラテン文字リストの読み込み — Marketo ドキュメ
 title: 非ラテン文字リストの読み込み
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 100%
 
