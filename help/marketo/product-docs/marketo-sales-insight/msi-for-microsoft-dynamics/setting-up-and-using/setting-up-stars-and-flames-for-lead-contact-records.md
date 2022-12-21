@@ -4,7 +4,7 @@ description: リード／連絡先レコードの星と炎の設定 - Marketo �
 title: リード／連絡先レコードの星と炎の設定
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
