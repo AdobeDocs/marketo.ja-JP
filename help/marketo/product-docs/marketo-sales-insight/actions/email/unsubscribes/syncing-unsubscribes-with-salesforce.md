@@ -3,7 +3,7 @@ description: Salesforce との配信停止の同期 - Marketo ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
 
