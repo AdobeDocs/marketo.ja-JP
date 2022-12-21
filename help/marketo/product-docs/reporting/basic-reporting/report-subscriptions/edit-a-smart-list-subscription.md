@@ -4,7 +4,7 @@ description: スマートリスト購読の編集 - Marketo ドキュメント -
 title: スマートリスト購読の編集
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
