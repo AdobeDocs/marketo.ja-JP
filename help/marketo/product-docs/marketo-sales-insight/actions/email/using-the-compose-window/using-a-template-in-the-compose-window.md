@@ -3,7 +3,7 @@ description: 作成ウィンドウでのテンプレートの使用 - Marketo �
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
