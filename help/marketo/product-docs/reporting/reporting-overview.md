@@ -3,7 +3,7 @@ description: レポートの概要 - Marketo ドキュメント - 製品ドキ�
 title: レポートの概要
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 100%
 
