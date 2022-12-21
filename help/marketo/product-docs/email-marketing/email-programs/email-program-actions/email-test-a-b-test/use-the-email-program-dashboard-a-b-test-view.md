@@ -4,7 +4,7 @@ description: メールプログラムのダッシュボードを使用する：A
 title: メールプログラムのダッシュボードを使用する：A/B テストビュー
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
