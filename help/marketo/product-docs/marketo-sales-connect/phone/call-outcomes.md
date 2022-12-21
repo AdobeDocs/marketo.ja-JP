@@ -3,7 +3,7 @@ description: 通話結果 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話結果
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
