@@ -4,7 +4,7 @@ description: Sales Insight で星と炎に使用するスコアフィールド�
 title: Sales Insight で星と炎に使用するスコアフィールドの設定
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
