@@ -4,7 +4,7 @@ description: すべてのマイ連絡先が Sales Connect にプッシュされ�
 title: すべてのマイ連絡先が Sales Connect にプッシュされるわけでない理由
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
