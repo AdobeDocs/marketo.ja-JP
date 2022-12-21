@@ -4,7 +4,7 @@ description: Sales Insight の RSS を有効にする - Marketo ドキュメン�
 title: Sales Insight の RSS を有効にする
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
