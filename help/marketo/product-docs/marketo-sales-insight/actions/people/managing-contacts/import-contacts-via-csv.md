@@ -1,24 +1,25 @@
 ---
-description: CSV での連絡先のインポート — Marketoドキュメント — 製品ドキュメント
-title: CSV を使用した連絡先のインポート
+description: CSV を使用した取引先責任者のインポート - Marketo ドキュメント - 製品ドキュメント
+title: CSV を使用した取引先責任者のインポート
 hide: true
 hidefromtoc: true
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+exl-id: 6fb6c48a-054b-45e3-ae52-e857485044f4
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-# CSV を使用した連絡先のインポート {#import-contacts-via-csv}
+# CSV を使用した取引先責任者のインポート {#import-contacts-via-csv}
 
-人物ページに連絡先があることは、テンプレートの動的フィールドにパーソナライズされた情報を自動入力するためにここから移動するので、重要です。 CSV の各連絡先に少なくとも名前と電子メールアドレスが設定されていること、およびこれらのフィールドにマッピングされていることを確認してください。
+テンプレートの動的フィールドにパーソナライズされた情報を自動入力するため、その取得先である人物ページに取引先責任者があることは重要です。CSV の各取引先責任者に少なくとも名前とメールアドレスが設定されていること、それらのフィールドにマッピングされていることを確認してください。
 
-1. 「人」タブで自分のグループを選択（または新しく作成）します。
+1. 「人物」タブで自分のグループを選択（または新しく作成）します。
 
    ![](assets/import-contacts-via-csv-1.png)
 
-1. クリック **グループアクション** を選択し、 **CSV を読み込み**.
+1. 「**グループのアクション**」を選択し、「**CSV をインポート**」を選択します。
 
    ![](assets/import-contacts-via-csv-2.png)
 
@@ -26,16 +27,16 @@ ht-degree: 13%
 
    ![](assets/import-contacts-via-csv-3.png)
 
-1. コンピューター上で目的のファイルを探し、選択します。
+1. お使いのコンピューターで目的のファイルを探して選択します。
 
    >[!NOTE]
    >
-   >グループの連絡先は 1000 件に制限されています。
+   >グループの取引先責任者は 1000 件に制限されています。
 
 1. 「**次へ**」をクリックします。
 
    ![](assets/import-contacts-via-csv-4.png)
 
-1. CSV の列をセールスコネクトの各フィールドにマッピングします。 終了したら「**次へ**」をクリックします。
+1. CSV の列を Sales Connect の各フィールドにマッピングします。終了したら「**次へ**」をクリックします。
 
    ![](assets/import-contacts-via-csv-5.png)
