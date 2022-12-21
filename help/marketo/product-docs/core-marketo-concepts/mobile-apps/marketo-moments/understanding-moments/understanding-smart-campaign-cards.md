@@ -4,7 +4,7 @@ description: スマートキャンペーンについて - Marketo ドキュメ�
 title: スマートキャンペーンカードについて
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 100%
 
