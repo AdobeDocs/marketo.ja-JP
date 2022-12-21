@@ -4,7 +4,7 @@ description: Adobe Tag Manager を使用した RTP の実装 - Marketo ドキュ
 title: Adobe Tag Manager を使用した RTP の実装
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 100%
 
