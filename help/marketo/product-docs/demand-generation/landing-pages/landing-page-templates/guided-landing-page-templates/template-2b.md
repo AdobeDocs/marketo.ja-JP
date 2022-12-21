@@ -4,7 +4,7 @@ description: テンプレート 2B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
