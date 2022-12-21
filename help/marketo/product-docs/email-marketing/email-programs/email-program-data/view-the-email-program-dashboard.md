@@ -4,7 +4,7 @@ description: メールプログラムダッシュボードの表示- Marketo ド
 title: メールプログラムダッシュボードの表示
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 100%
 
