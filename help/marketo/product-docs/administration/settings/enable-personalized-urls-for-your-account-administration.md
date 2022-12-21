@@ -4,7 +4,7 @@ description: アカウントでパーソナライズ URL を有効にする（�
 title: アカウントでパーソナライズ URL を有効にする（管理）
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. 「**パーソナライズ URL を有効にする**」チェックボックスをオンにして、「**保存**」をクリックします。
+1. 「**パーソナライズ URL を有効にする**」ボックスのチェックをオンにして、「**保存**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
