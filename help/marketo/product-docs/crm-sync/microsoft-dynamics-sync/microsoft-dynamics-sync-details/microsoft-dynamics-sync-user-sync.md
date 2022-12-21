@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync - ユーザー同期 - Marketo ドキュメ
 title: Microsoft Dynamics Sync - ユーザー同期
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 
