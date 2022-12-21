@@ -4,7 +4,7 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 
@@ -135,7 +135,7 @@ ht-degree: 100%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
