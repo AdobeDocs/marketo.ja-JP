@@ -4,7 +4,7 @@ description: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリ�
 title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
 
