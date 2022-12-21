@@ -4,7 +4,7 @@ description: 最新のクライアントバージョンは何ですか？- Marke
 title: 最新のクライアントバージョンは何ですか？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
