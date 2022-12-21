@@ -4,7 +4,7 @@ description: カスタムゴールの作成 - Marketo ドキュメント - 製�
 title: カスタムゴールの作成
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
