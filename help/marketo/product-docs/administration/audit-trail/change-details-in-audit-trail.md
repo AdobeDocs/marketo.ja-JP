@@ -4,7 +4,7 @@ description: 監査証跡の変更の詳細 — Marketo ドキュメント — �
 title: 監査記録の詳細の変更
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 100%
 
@@ -136,7 +136,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>モジュールを編集 <code><module name><attribute></code> 「値」に設定</td> 
+   <td>モジュールを編集 <module name><attribute> 「値」に設定</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
