@@ -4,7 +4,7 @@ description: セグメントルールの定義 - Marketo ドキュメント - �
 title: セグメントルールの定義
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 100%
 
