@@ -1,23 +1,23 @@
 ---
-description: Stream Designer - Marketoドキュメント — 製品ドキュメント
+description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
 workflow-type: tm+mt
 source-wordcount: '821'
-ht-degree: 56%
+ht-degree: 69%
 
 ---
 
 # ストリームデザイナー {#stream-designer}
 
-次のものがあります。 _多数の_ ストリームの組み合わせが可能です。 この記事には、マーケターがサイト訪問者に製品に関する質問をする例が含まれています。 「はい」の場合、訪問者は予定をスケジュールできます。「いいえ」の場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。無料のPDF 最終的な目標は、予定をスケジュールするか、訪問者の E メールを収集することです。
+次のものがあります。 _多数の_ ストリームの組み合わせが可能です。 この記事には、マーケターがサイト訪問者に製品に関する質問をする例が含まれています。「はい」の場合、訪問者は予定をスケジュールできます。「いいえ」の場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。無料のPDF 最終的な目標は、予定をスケジュールするか、訪問者の E メールを収集することです。
 
 >[!PREREQUISITES]
 >
 >ドキュメントカードを使用する前に、まず [設定する](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} をAdobeアカウントで使用します。
 
-## ストリームデザイナーカード {#stream-designer-cards}
+## ストリームデザイナーのカード {#stream-designer-cards}
 
 ストリームデザイナーには、チャット会話を形成するために追加できる複数のカードが含まれています。
 
@@ -78,7 +78,7 @@ ht-degree: 56%
 
 ## ストリームの作成 {#create-a-stream}
 
-1. 以下を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}、 **ストリームデザイナー** タブをクリックします。
+1. [ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}した後で、「**ストリームデザイナー**」タブをクリックします。
 
    ![](assets/stream-designer-6.png)
 
@@ -94,7 +94,7 @@ ht-degree: 56%
    >
    >「Poke」はデフォルトでオンに設定されており、訪問者がチャットアイコンをクリックしなくてもチャットアイコンの横に開始の質問が表示されます。Poke は会話の最初のカードでのみ利用できます。
 
-1. ユーザーの回答を入力し、「**保存**」をクリックします。
+1. ユーザの回答を入力し、「**保存**」をクリックします。
 
    ![](assets/stream-designer-9.png)
 
@@ -118,7 +118,7 @@ ht-degree: 56%
 
    ![](assets/stream-designer-13.png)
 
-1. 「いいえ」の場合は、ユーザーがメーリングリストに登録するかどうかを確認したいので、その下に、別の質問カードをドラッグします。
+1. 「いいえ」の場合は、ユーザがメーリングリストに登録するかどうかを確認したいので、その下に、別の質問カードをドラッグします。
 
    ![](assets/stream-designer-14.png)
 
@@ -157,7 +157,7 @@ ht-degree: 56%
     </tr>
     <tr>
      <td><strong>回答を属性にマッピング</strong></td>
-     <td>訪問者の回答を、Marketo サブスクリプション内のユーザーレコードの対応するフィールドに同期できます。</td>
+     <td>訪問者の回答を、Marketo サブスクリプション内のユーザレコードの対応するフィールドに同期できます。</td>
     </tr>
    </table>
 
@@ -177,17 +177,17 @@ ht-degree: 56%
 
    ![](assets/stream-designer-22.png)
 
-1. を選択します。 **プレビュー** を切り替えて、ダイアログをプレビューします。
+1. 「**プレビュー**」切替スイッチを選択して、ダイアログをプレビューします。
 
    ![](assets/stream-designer-23.png)
 
-1. ダイアログをアクティブにする準備が整ったら、 **公開**.
+1. ダイアログをアクティブにする準備が整ったら、「**公開**」をクリックします。
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->「公開」をクリックする前に、必ず [ターゲット URL を入力しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}。
+>「公開」をクリックする前に、必ず[ターゲット URL を入力](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}したことを確認してください。
 
 >[!MORELIKETHIS]
 >
