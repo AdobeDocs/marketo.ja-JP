@@ -3,7 +3,7 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 100%
 
