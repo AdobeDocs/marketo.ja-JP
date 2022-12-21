@@ -4,7 +4,7 @@ description: 受信者タイムゾーンでメールプログラムをスケジ�
 title: 受信者タイムゾーンでメールプログラムをスケジュールする
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 100%
 
