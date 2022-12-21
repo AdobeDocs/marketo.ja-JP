@@ -4,7 +4,7 @@ description: ランディングページにスニペットを追加する - Mark
 title: ランディングページにスニペットを追加する
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
