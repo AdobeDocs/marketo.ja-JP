@@ -3,7 +3,7 @@ description: プライバシー管理 - Marketo ドキュメント - 製品ド�
 title: プライバシー管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 100%
 
