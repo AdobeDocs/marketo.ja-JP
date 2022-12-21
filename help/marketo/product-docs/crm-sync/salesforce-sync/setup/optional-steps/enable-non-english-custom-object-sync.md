@@ -4,7 +4,7 @@ description: 英語以外のカスタムオブジェクト同期の有効化 - M
 title: 英語以外のカスタムオブジェクト同期の有効化
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 100%
 
