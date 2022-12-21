@@ -4,7 +4,7 @@ description: 動的コンテンツでスニペットを編集する - Marketo �
 title: 動的コンテンツでスニペットを編集する
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 
