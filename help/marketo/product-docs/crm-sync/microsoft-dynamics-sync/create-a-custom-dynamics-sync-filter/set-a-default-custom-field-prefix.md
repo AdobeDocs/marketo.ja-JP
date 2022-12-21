@@ -4,7 +4,7 @@ description: デフォルトのカスタムフィールドプレフィックス�
 title: デフォルトのカスタムフィールドプレフィックスの設定
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
