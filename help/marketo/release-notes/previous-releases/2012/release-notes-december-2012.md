@@ -4,15 +4,15 @@ description: リリースノート - 2012年12月 - Marketo ドキュメント -
 title: リリースノート - 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '398'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
 # リリースノート：2012年12月 {#release-notes-december}
 
-12 月のリリースには、待望の&#x200B;**友だちに転送**&#x200B;機能のほか、いくつかの機能が含まれています。アスタリスク（*）が付いた機能は、Select Edition および RCA（売上高サイクル分析）でのみ使用できます。
+12 月のリリースには、待望の&#x200B;**友だちに転送**&#x200B;機能のほか、いくつかの機能が含まれています。アスタリスク (&#42;) は、Select Edition および RCA(Revenue Cycle Analytics) でのみ使用できます。
 
 ## 友達に転送 {#forward-to-friend}
 
@@ -50,7 +50,7 @@ Microsoft Dynamics のお客様は、Sales Insight をご利用いただけま�
 
 Marketo と Microsoft Dynamics の間で商談データを同期します。
 
-## マーケティングが影響を与えた商談レポート * {#marketing-influenced-opportunities-report}
+## マーケティングの影響を受ける商談レポート&#42; {#marketing-influenced-opportunities-report}
 
 マーケティングプログラムが企業のパイプラインや売上高に与えた影響の割合を表示します。**売上高エクスプローラー**&#x200B;で、商談分析の新しい「マーケティングが影響を与えた商談」の黄色いドットを使用してカスタムレポートを作成できるようになりました。次の 2 つのレポートを Standard フォルダーで使用することもできます。
 
@@ -59,7 +59,7 @@ Marketo と Microsoft Dynamics の間で商談データを同期します。
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## プログラム商談分析のカスタム商談フィールド * {#custom-opportunity-fields-in-program-opportunity-analysis}
+## プログラム商談分析のカスタム商談フィールド&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 カスタム商談フィールドを追加し、売上高エクスプローラーでプログラム商談分析レポートを強化します。
 
