@@ -4,7 +4,7 @@ description: 確認するべきこと - 主要スキル - Marketo ドキュメ�
 title: 確認するべきこと - 主要スキル
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
