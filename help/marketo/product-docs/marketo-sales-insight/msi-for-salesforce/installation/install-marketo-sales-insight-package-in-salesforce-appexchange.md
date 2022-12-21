@@ -6,7 +6,7 @@ exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
-1. 「管理者専用にインストール」（および後で特定のプロファイルに MSI アクセスを提供）、「すべてのユーザー用にインストール」、「特定のプロファイル用にインストール」を選択できます。
+1. 「管理者専用にインストール」（および後で特定のプロファイルに MSI アクセスを提供）、「すべてのユーザ用にインストール」、「特定のプロファイル用にインストール」を選択できます。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
@@ -78,5 +78,5 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 >
 >* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [プロファイルへの Sales Insight アクセスの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
+>* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
