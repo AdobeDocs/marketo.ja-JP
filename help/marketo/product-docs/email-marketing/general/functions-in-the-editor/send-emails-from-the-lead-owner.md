@@ -4,7 +4,7 @@ description: リード所有者からのメール送信 — Marketo ドキュメ
 title: リード所有者からのメール送信
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 
