@@ -4,7 +4,7 @@ description: Facebook カスタムオーディエンスを LaunchPoint サービ
 title: Facebook カスタムオーディエンスを LaunchPoint サービスとして追加
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
