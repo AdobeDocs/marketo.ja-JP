@@ -3,7 +3,7 @@ description: 管理者設定 - Marketo ドキュメント - 製品ドキュメ�
 title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 
