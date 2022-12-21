@@ -4,7 +4,7 @@ description: SEO - 推奨キーワードの取得 - Marketo ドキュメント -
 title: SEO - 推奨キーワードの取得
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
 
