@@ -4,7 +4,7 @@ description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
