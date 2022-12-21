@@ -8,7 +8,7 @@ exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 82%
+ht-degree: 92%
 
 ---
 
@@ -24,14 +24,14 @@ AEM のアセットにアクセス、選択し、Marketo Design Studio に読み
 >
 >* この統合は、AEMのオンプレミス実装でのみ機能し、AEM Cloud Service実装ではサポートされません。
 >
->* 現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていないので、SameSite cookie の設定によっては、最新バージョンの Chrome では動作しない可能性があります。
+>* 現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていません。また、SameSite の Cookie 設定によっては、最新バージョンの Chrome では動作しない可能性があります。
 
 
 1. Adobe Experience Manager に移動します（URL は会社に固有のものです）。
 
    ![](assets/one.png)
 
-1. ユーザーは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでログインします。
+1. ユーザは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでログインします。
 
    ![](assets/two.png)
 
