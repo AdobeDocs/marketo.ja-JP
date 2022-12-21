@@ -4,7 +4,7 @@ description: 動的フィールドの挿入方法 — Marketo ドキュメント
 title: 動的フィールドの挿入方法
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
    >
    >Sales Connect に存在する連絡先にメールを送信する場合は、基本的な動的フィールドを使用できます。これらは、連絡先から直接引き出されます。
 
-Salesforce に存在する連絡先にメールを送信する場合は、Salesforce の動的フィールドを利用できます。これらはすべて「sfdc」で始まります。Salesforce に連携している限り、これらのフィールドでは Salesforce 内のリード／連絡先が直接呼び出され、テンプレートに情報が入力されます。
+Salesforce に存在する取引先責任者にメールを送信する場合は、Salesforce の動的フィールドを利用できます。フィールドはすべて「sfdc」で始まります。Salesforce と連携している限り、動的フィールドは Salesforce 内のリード／取引先責任者を直接呼び出し、テンプレートに情報を入力します。
 
 ## 件名行に動的フィールドを挿入 {#insert-dynamic-fields-in-a-subject-line}
 
