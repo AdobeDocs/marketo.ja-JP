@@ -4,7 +4,7 @@ description: セカンダリの Gmail アドレスと Sales Connect の統合の
 title: セカンダリの Gmail アドレスと Sales Connect の統合の防止
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 100%
 
