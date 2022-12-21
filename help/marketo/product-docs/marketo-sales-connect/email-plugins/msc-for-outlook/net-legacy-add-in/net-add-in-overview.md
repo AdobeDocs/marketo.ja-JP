@@ -4,7 +4,7 @@ description: .NET アドインの概要 — Marketo ドキュメント — 製�
 title: .NET アドインの概要
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 100%
 
