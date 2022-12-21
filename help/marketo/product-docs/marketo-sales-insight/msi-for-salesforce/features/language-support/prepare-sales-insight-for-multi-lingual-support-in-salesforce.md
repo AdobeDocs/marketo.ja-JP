@@ -4,7 +4,7 @@ description: Salesforce での多言語サポートに向けた Sales Insight �
 title: Salesforce での多言語サポートに向けた Sales Insight の準備
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
