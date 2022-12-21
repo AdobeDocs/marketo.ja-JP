@@ -4,7 +4,7 @@ description: テンプレート 5B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
