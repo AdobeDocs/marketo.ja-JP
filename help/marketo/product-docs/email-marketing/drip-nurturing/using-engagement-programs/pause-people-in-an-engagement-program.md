@@ -4,7 +4,7 @@ description: エンゲージメントプログラムでのリードの一時停�
 title: エンゲージメントプログラムでのリードの一時停止
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 
