@@ -4,7 +4,7 @@ description: Salesforce1 での Marketo Sales Insight のインストールお�
 title: Salesforce1 での Marketo Sales Insight のインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 100%
 
@@ -79,7 +79,7 @@ ht-degree: 100%
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. 「**ユーザーを管理**」を選択します。
+1. 「**ユーザを管理**」を選択します。
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
