@@ -4,7 +4,7 @@ description: テンプレート 8F - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
