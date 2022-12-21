@@ -3,7 +3,7 @@ description: ドキュメントカードの使用 - Marketo ドキュメント -
 title: ドキュメントカードの使用
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
 source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
