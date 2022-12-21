@@ -4,9 +4,9 @@ description: コンテンツパターンの作成 - Marketo ドキュメント -
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
@@ -44,10 +44,10 @@ ht-degree: 100%
 
 ## コンテンツパターンのルール {#content-pattern-rules}
 
-* 式の任意の場所でワイルドカードを使用できます（例：_domain.com/*_、_domain.com/*blog*_）
+* 式の任意の場所でワイルドカードを使用できます ( 例： _domain.com/&#42;_, _domain.com/&#42;ブログ&#42;_)
 
-* パターン検出を続行するには、式の末尾に /* を使用することをお勧めします（例：_domain.com/blog/*_ は、ブログフォルダー内のすべての投稿を検出します）。
-* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/*_ は、_domain.com/Blog_ および _domain.com/blog_ のすべての HTML ページを検出します）。
+* /の使用をお勧めします。&#42; 式の最後にパターン検出を続行する ( 例： _domain.com/blog/&#42;_ ブログフォルダ内のすべての投稿を検出 )
+* コンテンツパターンでは大文字と小文字が区別されません ( 例： _domain.com/Blog/&#42;_ は、次のすべての html ページを検出します： _domain.com/Blog_ および _domain.com/blog_)
 
 * URL パラメーターは検出しません（これにより、同じコンテンツ URL で異なるパラメーターを持つ複数の項目が検出されるのを回避します）
 
