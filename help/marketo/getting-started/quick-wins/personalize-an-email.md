@@ -4,7 +4,7 @@ description: メールのパーソナライズ - Marketo ドキュメント - �
 title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 100%
 
