@@ -4,7 +4,7 @@ description: Web キャンペーンのスケジュール設定 - Marketo ドキ�
 title: Web キャンペーンのスケジュール設定
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
 
