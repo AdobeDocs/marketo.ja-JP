@@ -4,7 +4,7 @@ description: 商談の影響分析の設定 - Marketo ドキュメント - 製�
 title: 商談の影響分析の設定
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
