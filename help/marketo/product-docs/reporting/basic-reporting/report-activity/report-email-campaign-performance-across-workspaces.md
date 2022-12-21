@@ -4,7 +4,7 @@ description: ワークスペースをまたいだレポートメール、キャ�
 title: ワークスペースをまたいだレポートメール、キャンペーンの効果
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
