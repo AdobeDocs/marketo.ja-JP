@@ -4,7 +4,7 @@ description: カスタムオブジェクトの承認 - Marketo ドキュメン�
 title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 
