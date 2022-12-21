@@ -4,7 +4,7 @@ description: リードフィードの使用 - Marketo ドキュメント - 製�
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 100%
 
