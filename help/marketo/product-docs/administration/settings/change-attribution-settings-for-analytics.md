@@ -4,7 +4,7 @@ description: 分析用アトリビューション設定の変更 - Marketo ド�
 title: 分析用アトリビューション設定の変更
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 
