@@ -4,7 +4,7 @@ description: ストリームのクローンを作成する - Marketo ドキュ�
 title: ストリームのクローンを作成する
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
