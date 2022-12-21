@@ -4,7 +4,7 @@ description: クラシックアイコン用語集 - Marketo ドキュメント -
 title: クラシックアイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 100%
 
