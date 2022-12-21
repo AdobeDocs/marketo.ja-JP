@@ -4,7 +4,7 @@ description: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo 
 title: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
