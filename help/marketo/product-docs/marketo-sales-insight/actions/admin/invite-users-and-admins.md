@@ -3,7 +3,7 @@ description: ユーザーと管理者の招待 - Marketo ドキュメント - �
 title: ユーザーと管理者の招待
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
 
