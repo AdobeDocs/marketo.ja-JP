@@ -3,7 +3,7 @@ description: Salesforce 同期エラー — Marketo ドキュメント — 製�
 title: Salesforce 同期エラー
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 
