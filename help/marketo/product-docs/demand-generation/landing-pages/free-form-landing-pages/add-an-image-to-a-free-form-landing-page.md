@@ -4,7 +4,7 @@ description: フリーフォームランディングページへの画像の追�
 title: フリーフォームランディングページへの画像の追加
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
