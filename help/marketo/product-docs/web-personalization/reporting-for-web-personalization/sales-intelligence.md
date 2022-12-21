@@ -4,7 +4,7 @@ description: セールスインテリジェンス — Marketo ドキュメント
 title: セールスインテリジェンス
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 
