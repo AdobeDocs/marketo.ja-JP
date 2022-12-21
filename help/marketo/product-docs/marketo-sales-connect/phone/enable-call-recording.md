@@ -4,7 +4,7 @@ description: 通話記録の有効化 - Marketo ドキュメント - 製品ド�
 title: 通話記録の有効化
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
