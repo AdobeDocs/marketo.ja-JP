@@ -4,7 +4,7 @@ description: プログラムメンバーシップ分析領域について - Mark
 title: プログラムメンバーシップ分析領域について
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
 
