@@ -4,7 +4,7 @@ description: プログラムアナライザーを使用したチャネルの効�
 title: プログラムアナライザーを使用したチャネルの効果の比較
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 
