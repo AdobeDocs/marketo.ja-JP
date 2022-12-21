@@ -4,7 +4,7 @@ description: ソーシャルプロモーションでのメールの使用 - Mark
 title: ソーシャルプロモーションでのメールの使用
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%
 
@@ -58,7 +58,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->スイープステークでは、[&#128279;](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)当選者を選択すると、必ずフルフィルメントメールが自動的に送信されます。
+>スイープステークでは、[当選者を選択](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)すると、必ずフルフィルメントメールが自動的に送信されます。
 
 >[!NOTE]
 >
@@ -71,4 +71,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->次に、[共有 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) を選択するか、紹介オファーで送信する[&#128279;](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)プロモーションコードをアップロードします。
+>次に、[共有 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)を選択するか、紹介オファーで送信する[プロモーションコードをアップロード](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)します。
