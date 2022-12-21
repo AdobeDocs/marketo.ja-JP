@@ -4,7 +4,7 @@ description: リードレポートに商談列を追加する - Marketo ドキ�
 title: リードレポートに商談列を追加する
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 
