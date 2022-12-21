@@ -4,7 +4,7 @@ description: リリースノート - 2020 年 6 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 6 月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 100%
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-![（星）](assets/yellow-star.png)
+![（星印）](assets/yellow-star.png)
 
 * **新しい顧客検出が一般に利用可能**
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
+以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
 ## Bizible {#bizible}
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 * **[Salesforce CRM 用インサイトダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**：Sales Insight の機能を新しい視覚的な新しいマーケティングイベントやキャンペーンの可視性で再設計し、販売者がニーズや興味に基づいて顧客や見込み客に対してより関連性の高い提案を提供できるようにしています。また、販売者は、タイムライン内で連絡先とアカウントアクティビティの両方を表示でき、追加のアクティビティの詳細に簡単にアクセスできます。パッケージのアップグレード方法の詳細については[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)をご覧ください。
 
-<br>
+<br> 
 
 ## お知らせ {#announcements}
 
