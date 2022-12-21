@@ -4,7 +4,7 @@ description: 新しいテストデバイスの追加 - Marketo ドキュメン�
 title: 新しいテストデバイスの追加
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 
