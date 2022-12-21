@@ -4,7 +4,7 @@ description: ソーシャルアプリの再共有メールの設定とプロン�
 title: ソーシャルアプリの再共有メールの設定とプロンプト
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 100%
 
