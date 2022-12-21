@@ -4,7 +4,7 @@ description: Web キャンペーンのフィルター - Marketo ドキュメン�
 title: Web キャンペーンのフィルター
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
