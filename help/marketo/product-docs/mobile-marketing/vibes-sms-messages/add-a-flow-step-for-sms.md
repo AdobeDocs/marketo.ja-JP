@@ -4,7 +4,7 @@ description: SMS のフローステップの追加 - Marketo ドキュメント 
 title: SMS のフローステップの追加
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
 
