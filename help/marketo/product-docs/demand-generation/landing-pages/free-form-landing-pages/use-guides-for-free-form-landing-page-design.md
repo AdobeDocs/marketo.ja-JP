@@ -4,7 +4,7 @@ description: フリーフォームランディングページデザインのガ�
 title: フリーフォームランディングページデザインのガイドを使用する
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
