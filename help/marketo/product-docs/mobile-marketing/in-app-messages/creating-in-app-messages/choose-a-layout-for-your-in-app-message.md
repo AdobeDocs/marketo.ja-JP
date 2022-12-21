@@ -4,7 +4,7 @@ description: アプリ内メッセージのレイアウトの選択 - Marketo �
 title: アプリ内メッセージのレイアウトの選択
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 100%
 
