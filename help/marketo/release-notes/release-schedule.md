@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: リリーススケジュール - Marketo ドキュメント - 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
+source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 79%
+source-wordcount: '140'
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 79%
 
 **ステータス**:
 
-* スケジュールに従って — 指定した日付に機能および機能強化をリリースする予定です
-* 進行中 — リリースの機能をロールアウト中です
+* 予定通り - 四半期ごとの機能および機能強化を指定日にリリースする予定です
+* 処理中 - 指定された日付にリリース用にコンテンツを開発し、ドキュメント化しています
 * 出荷済み - リリースは完了しています
 
 _リリース日は変更される場合があります_
@@ -37,12 +37,12 @@ _リリース日は変更される場合があります_
    <th width="250px">ステータス</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">22年10月</a></td>
+   <td><a href="/help/marketo/release-notes/current.md">22年10月</a></td>
    <td>2022年10月14日（PT）</td>
    <td>リリース済み</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">23 年 1 月</a></td>
+   <td>23 年 1 月</td>
    <td>2023 年 1 月 20 日</td>
    <td>予定通り</td>
   </tr>
