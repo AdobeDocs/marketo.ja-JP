@@ -4,7 +4,7 @@ description: Web キャンペーンへのターゲット URL の追加 - Marketo
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
