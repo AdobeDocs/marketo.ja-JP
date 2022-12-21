@@ -4,7 +4,7 @@ description: レポートを削除する - Marketo ドキュメント - 製品�
 title: レポートを削除する
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
 
