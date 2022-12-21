@@ -4,7 +4,7 @@ description: 動画の追加 - Marketo ドキュメント - 製品ドキュメ�
 title: 動画の追加
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 >
 >時間を節約するために、「**クローン元**」オプションを使用して、既存の動画共有からすべての設定をコピーできます。
 
-これで完了です。ランディングページに動画共有を追加しました。ランディングページを承認すると、動画共有が有効になります。また、ランディングページを[ Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、[Web サイトに動画共有を配置](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)したりすることもできます。
+これで完了です。ランディングページに動画共有を追加しました。ランディングページを承認すると、動画共有が有効になります。また、ランディングページを[ Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、[web サイトに動画共有を配置](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)したりすることもできます。
 
 >[!MORELIKETHIS]
 >
