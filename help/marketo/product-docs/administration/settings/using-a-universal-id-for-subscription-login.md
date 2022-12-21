@@ -4,7 +4,7 @@ description: サブスクリプションログインでのユニバーサル ID 
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
 
