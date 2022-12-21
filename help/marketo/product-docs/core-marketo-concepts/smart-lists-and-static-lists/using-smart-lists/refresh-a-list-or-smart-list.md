@@ -4,7 +4,7 @@ description: リストまたはスマートリストの更新 - Marketo ドキ�
 title: リストまたはスマートリストの更新
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 
