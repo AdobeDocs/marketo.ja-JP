@@ -4,7 +4,7 @@ description: スマートキャンペーンのチェックリスト - Marketo �
 title: スマートキャンペーンのチェックリスト
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 100%
 
