@@ -4,7 +4,7 @@ description: テストメールが表示済みとされていない — Marketo 
 title: テストメールが表示済みとされていない
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
 
