@@ -4,7 +4,7 @@ description: スニペットへのコンテンツの追加 - Marketo ドキュ�
 title: スニペットへのコンテンツの追加
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
