@@ -4,7 +4,7 @@ description: スマートリストゴールの作成 - Marketo ドキュメン�
 title: スマートリストゴールの作成
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
