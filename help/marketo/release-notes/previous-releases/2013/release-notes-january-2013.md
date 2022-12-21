@@ -4,15 +4,15 @@ description: リリースノート - 2013年1月 - Marketo ドキュメント - 
 title: リリースノート - 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '317'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
 # リリースノート：2013年1月 {#release-notes-january}
 
-1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。また、Marketo リード管理のユーザーは、自分のタイムゾーン、言語およびロケールの設定を行うことができます。* が付いた機能は、Select Edition でのみ使用できます。
+1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。また、Marketo リード管理のユーザーは、自分のタイムゾーン、言語およびロケールの設定を行うことができます。機能は &#42; は、Select Edition でのみ使用できます。
 
 ## 紹介オファー {#referral-offers}
 
