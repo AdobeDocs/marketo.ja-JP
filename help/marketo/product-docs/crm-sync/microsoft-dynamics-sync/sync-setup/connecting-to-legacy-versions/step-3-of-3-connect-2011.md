@@ -4,7 +4,7 @@ description: 手順 3 / 3 - Microsoft Dynamics と Marketo（2011 オンプレ�
 title: 手順 3 / 3 - Microsoft Dynamics と Marketo（2011 オンプレミス）の接続
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
