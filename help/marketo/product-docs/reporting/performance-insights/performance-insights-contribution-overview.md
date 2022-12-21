@@ -4,7 +4,7 @@ description: パフォーマンスインサイトの貢献度の概要 - Marketo
 title: パフォーマンスインサイトの貢献度の概要
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 100%
 
