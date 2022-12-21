@@ -4,7 +4,7 @@ description: 複数のワークスペースをまたいだリストやスマー�
 title: 複数のワークスペースをまたいだリストやスマートリストの参照
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
