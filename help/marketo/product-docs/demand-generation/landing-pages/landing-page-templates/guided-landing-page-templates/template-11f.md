@@ -4,7 +4,7 @@ description: テンプレート 11F - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
