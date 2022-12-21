@@ -4,7 +4,7 @@ description: フォームでのソーシャルフォーム入力を有効にす�
 title: フォームでのソーシャルフォーム入力を有効にする
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 
