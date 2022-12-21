@@ -3,7 +3,7 @@ description: Marketo 配信停止チェック - Marketo ドキュメント - 製
 title: Marketo 配信停止チェック
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 
