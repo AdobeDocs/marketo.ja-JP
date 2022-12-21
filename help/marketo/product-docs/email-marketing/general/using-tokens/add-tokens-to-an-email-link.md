@@ -4,7 +4,7 @@ description: メールリンクにトークンを追加する — Marketo ドキ
 title: メールリンクにトークンを追加する
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
