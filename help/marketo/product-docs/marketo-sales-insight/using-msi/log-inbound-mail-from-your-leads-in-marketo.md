@@ -4,7 +4,7 @@ description: リードから着信したメールを Marketo でログに記録�
 title: リードから着信したメールを Marketo でログに記録する
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
