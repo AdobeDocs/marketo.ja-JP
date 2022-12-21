@@ -4,7 +4,7 @@ description: SEO - キーワードの削除 - Marketo ドキュメント - 製�
 title: SEO - キーワードの削除
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
