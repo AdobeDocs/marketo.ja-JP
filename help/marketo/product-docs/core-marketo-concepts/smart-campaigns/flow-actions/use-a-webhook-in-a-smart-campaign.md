@@ -4,7 +4,7 @@ description: スマートキャンペーンでの web フックの使用 - Marke
 title: スマートキャンペーンでの web フックの使用
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
