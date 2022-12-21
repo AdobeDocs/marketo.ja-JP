@@ -4,7 +4,7 @@ description: メールを作成する - Marketo ドキュメント - 製品ド�
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 
