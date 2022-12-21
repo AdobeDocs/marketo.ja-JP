@@ -4,7 +4,7 @@ description: リリースノート - 17年冬 - Marketo ドキュメント - 製
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 100%
 
