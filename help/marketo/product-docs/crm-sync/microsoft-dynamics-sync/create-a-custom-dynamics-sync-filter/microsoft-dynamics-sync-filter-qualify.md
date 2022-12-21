@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync フィルター - 認定 - Marketo ドキ�
 title: Microsoft Dynamics Sync フィルター - 認定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
