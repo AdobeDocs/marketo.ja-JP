@@ -4,7 +4,7 @@ description: カスタムフィールドタイプの用語集 - Marketo ドキ�
 title: カスタムフィールドタイプの用語集
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 100%
 
