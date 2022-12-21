@@ -4,7 +4,7 @@ description: Sales Connect と Highspot の統合について- Marketo ドキュ
 title: Sales Connect と Highspot の統合について
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
