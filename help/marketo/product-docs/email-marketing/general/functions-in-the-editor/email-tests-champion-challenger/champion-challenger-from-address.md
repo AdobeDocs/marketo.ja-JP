@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：送信者アドレス - Marketo �
 title: チャンピオン／挑戦者：送信者アドレス
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
 
