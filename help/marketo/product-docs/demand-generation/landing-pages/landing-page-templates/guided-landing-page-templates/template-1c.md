@@ -4,7 +4,7 @@ description: テンプレート 1C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 1C
 exl-id: 1a4e0a7a-6bf4-4688-be0b-91aa07f900df
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
