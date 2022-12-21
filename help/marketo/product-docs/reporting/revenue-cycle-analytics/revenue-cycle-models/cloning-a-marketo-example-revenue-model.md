@@ -4,7 +4,7 @@ description: Marketo 収益モデルの例の複製 - Marketo ドキュメント
 title: Marketo 収益モデル例の複製
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
