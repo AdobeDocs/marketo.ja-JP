@@ -4,7 +4,7 @@ description: 列でのレポートの並べ替え - Marketo ドキュメント -
 title: 列でのレポートの並べ替え
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
