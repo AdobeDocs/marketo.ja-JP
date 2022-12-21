@@ -4,7 +4,7 @@ description: ソーシャルパフォーマンスの表示 - Marketo ドキュ�
 title: ソーシャルパフォーマンスの表示
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 100%
 
