@@ -4,7 +4,7 @@ description: A/B テストの追加 — Marketo ドキュメント — 製品ド
 title: A/B テストの追加
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
 
