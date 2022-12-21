@@ -4,7 +4,7 @@ description: スニペットを複製する - Marketo ドキュメント - 製�
 title: スニペットを複製する
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
