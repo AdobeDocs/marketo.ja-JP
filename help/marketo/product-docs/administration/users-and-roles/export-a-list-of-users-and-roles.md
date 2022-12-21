@@ -4,7 +4,7 @@ description: ユーザーと役割のリストのエクスポート - Marketo �
 title: ユーザーと役割のリストのエクスポート
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
