@@ -4,7 +4,7 @@ description: ユーザーをアカウントインサイトにアクセスする�
 title: 顧客インサイトにアクセスするユーザーを招待
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
