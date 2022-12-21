@@ -4,7 +4,7 @@ description: プログラムでの期間原価の使用 - Marketo ドキュメ�
 title: プログラムでの期間原価の使用
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 100%
 
