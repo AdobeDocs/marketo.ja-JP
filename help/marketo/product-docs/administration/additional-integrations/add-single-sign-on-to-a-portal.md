@@ -4,7 +4,7 @@ description: ポータルへのシングルサインオンの追加 - Marketo �
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 100%
 
