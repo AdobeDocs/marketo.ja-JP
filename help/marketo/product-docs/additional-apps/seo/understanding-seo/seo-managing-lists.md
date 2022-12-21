@@ -4,7 +4,7 @@ description: SEO - リストの管理 - Marketo ドキュメント - 製品ド�
 title: SEO - リストの管理
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
