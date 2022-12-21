@@ -4,7 +4,7 @@ description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュ
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '770'
 ht-degree: 100%
 
