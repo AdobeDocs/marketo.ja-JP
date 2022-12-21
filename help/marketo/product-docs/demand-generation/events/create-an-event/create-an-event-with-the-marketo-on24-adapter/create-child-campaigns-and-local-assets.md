@@ -4,7 +4,7 @@ description: 子キャンペーンとローカルアセットの作成 - Marketo
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 100%
 
