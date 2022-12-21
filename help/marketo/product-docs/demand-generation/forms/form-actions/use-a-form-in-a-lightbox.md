@@ -4,7 +4,7 @@ description: Lightbox でのフォームの使用 - Marketo ドキュメント -
 title: Lightbox でのフォームの使用
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # Lightbox でのフォームの使用 {#use-a-form-in-a-lightbox}
 
-Lightbox は、フォームを表示したいときにコンテンツの前にフォームを開く技術です。どうやって。
+Lightbox は、フォームを表示したいときにコンテンツの前にフォームを開く技術です。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 
