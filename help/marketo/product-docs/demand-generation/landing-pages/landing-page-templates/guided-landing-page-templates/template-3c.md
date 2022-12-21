@@ -4,7 +4,7 @@ description: テンプレート 3C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
