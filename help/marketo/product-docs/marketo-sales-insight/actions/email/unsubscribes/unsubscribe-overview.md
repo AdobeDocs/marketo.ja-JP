@@ -3,7 +3,7 @@ description: 配信停止の概要 - Marketo ドキュメント - 製品ドキ�
 title: 配信停止の概要
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 100%
 
