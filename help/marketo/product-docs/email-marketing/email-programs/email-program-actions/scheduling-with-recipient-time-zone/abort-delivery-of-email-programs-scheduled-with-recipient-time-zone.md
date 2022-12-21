@@ -4,7 +4,7 @@ description: 受信者タイムゾーンを使用してスケジュールされ�
 title: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 
