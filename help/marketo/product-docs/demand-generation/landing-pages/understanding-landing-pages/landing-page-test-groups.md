@@ -4,7 +4,7 @@ description: ランディングページのテストグループ — Marketo ド
 title: ランディングページのテストグループ
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
 
