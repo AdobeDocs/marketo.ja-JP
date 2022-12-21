@@ -4,7 +4,7 @@ description: Sales Connect にプッシュ — Marketo ドキュメント - 製�
 title: Sales Connect にプッシュ
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
