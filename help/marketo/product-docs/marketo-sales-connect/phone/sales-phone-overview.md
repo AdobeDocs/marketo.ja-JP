@@ -4,7 +4,7 @@ description: セールス電話の概要 - Marketo ドキュメント - 製品�
 title: セールス電話の概要
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
