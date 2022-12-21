@@ -4,7 +4,7 @@ description: テンプレート 19C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 
