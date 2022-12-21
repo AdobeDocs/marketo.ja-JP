@@ -4,7 +4,7 @@ description: フリーフォームランディングページへの長方形の�
 title: フリーフォームランディングページへの長方形の追加
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
