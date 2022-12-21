@@ -4,7 +4,7 @@ description: テンプレート 5E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
