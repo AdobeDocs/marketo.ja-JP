@@ -4,7 +4,7 @@ description: アップロードされた画像とファイルの検索 - Marketo
 title: アップロードされた画像とファイルの検索
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
