@@ -4,7 +4,7 @@ description: SEO - CSV を使用したキーワードのインポート - Market
 title: SEO - CSV を使用したキーワードのインポート
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
