@@ -4,7 +4,7 @@ description: アプリ内メッセージのスケジュール設定 - Marketo �
 title: アプリ内メッセージのスケジュール設定
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 
