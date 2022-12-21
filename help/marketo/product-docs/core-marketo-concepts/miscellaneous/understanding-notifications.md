@@ -4,7 +4,7 @@ description: 通知について - Marketo ドキュメント - 製品ドキュ�
 title: 通知について
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 
