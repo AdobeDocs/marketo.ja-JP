@@ -4,7 +4,7 @@ description: ガイド付きランディングページを作成する - Marketo
 title: ガイド付きランディングページテンプレートを作成する
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ガイド付きランディングページは、プログラムのローカルアセットとして、または Design Studio で作成してグローバルに使用できます。
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/one-1.png)
 
