@@ -4,7 +4,7 @@ description: 収益モデルゲートステージの使用 - Marketo ドキュ�
 title: 収益モデルゲートステージの使用
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
 
