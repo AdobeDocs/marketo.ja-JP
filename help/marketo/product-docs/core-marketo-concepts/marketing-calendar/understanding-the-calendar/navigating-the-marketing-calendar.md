@@ -4,7 +4,7 @@ description: マーケティングカレンダーの操作 - Marketo ドキュ�
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
 
