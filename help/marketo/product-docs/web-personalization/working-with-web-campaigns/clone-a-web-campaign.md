@@ -4,7 +4,7 @@ description: Web キャンペーンを複製する - Marketo ドキュメント 
 title: Web キャンペーンを複製する
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%
 
