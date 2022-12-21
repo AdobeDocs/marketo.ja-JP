@@ -4,7 +4,7 @@ description: フローステップでのトークンの使用 - Marketo ドキ�
 title: フローステップでのトークンの使用
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
 
