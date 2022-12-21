@@ -4,7 +4,7 @@ description: エンゲージメントプログラムストリームへのプロ�
 title: エンゲージメントプログラムストリームへのプログラムの追加
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 100%
 
