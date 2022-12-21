@@ -4,7 +4,7 @@ description: Content-AI 用の JavaScript のデプロイ - Marketo ドキュメ
 title: Content-AI 用の JavaScript のデプロイ
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
