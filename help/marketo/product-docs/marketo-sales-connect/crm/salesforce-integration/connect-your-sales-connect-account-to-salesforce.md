@@ -4,7 +4,7 @@ description: Sales Connect アカウントの Salesforce への接続 - Marketo 
 title: Sales Connect アカウントの Salesforce への接続
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
