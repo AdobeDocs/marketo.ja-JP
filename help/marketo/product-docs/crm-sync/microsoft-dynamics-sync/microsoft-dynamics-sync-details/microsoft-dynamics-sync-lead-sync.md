@@ -4,7 +4,7 @@ description: Microsoft Dynamics 同期 - リード同期 - Marketo ドキュメ�
 title: Microsoft Dynamics 同期 - リード同期
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 100%
 
