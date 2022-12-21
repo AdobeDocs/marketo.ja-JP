@@ -4,7 +4,7 @@ description: 新しい順または効果の高い順に web キャンペーン�
 title: 新しい順または効果の高い順に web キャンペーンを並べ替える
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
