@@ -4,7 +4,7 @@ description: テンプレート 14E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
