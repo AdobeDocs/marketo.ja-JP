@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：レポートアラートの設定 
 title: チャンピオン／挑戦者：レポートアラートの設定
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
