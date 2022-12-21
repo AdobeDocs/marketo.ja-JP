@@ -4,7 +4,7 @@ description: Office365 Mac OS、Windows および Online への Sales Connect �
 title: Office365 Mac OS、Windows および Online への Sales Connect のインストール
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 
