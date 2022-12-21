@@ -4,7 +4,7 @@ description: メールの効果レポート — Marketo ドキュメント — �
 title: メールの効果レポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 100%
 
