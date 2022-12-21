@@ -4,7 +4,7 @@ description: Web キャンペーンのラベル付け - Marketo ドキュメン�
 title: Web キャンペーンのラベル付け
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
