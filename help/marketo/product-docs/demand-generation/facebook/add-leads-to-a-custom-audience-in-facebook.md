@@ -4,7 +4,7 @@ description: Facebook でのカスタムオーディエンスへのリードの�
 title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
