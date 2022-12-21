@@ -4,7 +4,7 @@ description: テンプレート 15D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 15D
 exl-id: 424e4bb8-e223-42b3-a26d-ec9ea167e862
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
