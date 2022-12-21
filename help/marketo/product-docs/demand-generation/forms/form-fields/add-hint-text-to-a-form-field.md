@@ -4,7 +4,7 @@ description: フォームフィールドへのヒントテキストの追加 —
 title: フォームフィールドへのヒントテキストの追加
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
