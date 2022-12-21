@@ -4,7 +4,7 @@ description: Sales Connect の iPhone または Android アプリについて- M
 title: Sales Connect の iPhone または Android アプリについて
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
