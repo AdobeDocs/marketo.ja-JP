@@ -3,7 +3,7 @@ description: セールスキャンペーンの作成 - Marketo ドキュメン�
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
 
