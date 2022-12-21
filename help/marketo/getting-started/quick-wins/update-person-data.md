@@ -4,7 +4,7 @@ description: 人物データの更新 - Marketo ドキュメント - 製品ド�
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 
