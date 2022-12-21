@@ -3,7 +3,7 @@ description: サーバーで Sales Insight Actions を許可リストに加え�
 title: サーバーで Sales Insight Actions を許可リストに加える方法を教えてください。
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
