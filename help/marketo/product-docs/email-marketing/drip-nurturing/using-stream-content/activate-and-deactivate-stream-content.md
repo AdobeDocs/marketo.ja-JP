@@ -4,7 +4,7 @@ description: ストリームコンテンツのアクティベートとディア�
 title: ストリームコンテンツのアクティベートとディアクティベート
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
