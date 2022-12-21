@@ -4,7 +4,7 @@ description: Wordpress Enterprise での RTP の実装 - Marketo ドキュメン
 title: Wordpress Enterprise での RTP の実装
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -40,6 +40,7 @@ RTP タグを実装するには、次のインストール手順に従います�
    >* `<script type='text/javascript'>`
    >* `</script>`
    >* `<!-- End of RTP tag -->`
+
    >
    >スクリプト自体のみを挿入します。
 
