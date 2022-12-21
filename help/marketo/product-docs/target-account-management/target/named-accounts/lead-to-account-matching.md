@@ -4,7 +4,7 @@ description: リードと顧客の照合 - Marketo ドキュメント - 製品�
 title: リードと顧客の照合
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 100%
 
