@@ -4,7 +4,7 @@ description: 配信チャネルの概要 - Marketo ドキュメント - 製品�
 title: 配信チャネルの概要
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -22,9 +22,9 @@ Gmail または Exchange の利用には、他の配信チャネルオプショ�
 
 * これは、定評のある配信チャネルなので、到達率を高く保つことができます。
 * SPF や DKIM などの認証方法は、既に IT チームによって設定および管理されているので、追加の設定が必要ありません。
-* 特定のメールネットワーク内でメールを送信すると（例：Exchange でメールを受信している企業に Exchange ユーザーとしてメールを送信する）、到達率をさらに高めることができます。
+* 特定のメールネットワーク内でメールを送信すると（例：Exchange でメールを受信している企業に Exchange ユーザとしてメールを送信する）、到達率をさらに高めることができます。
 
-これらの配信チャネルには、Microsoft や Google によって強制される独自の送信制限があることに注意する必要があります。この問題に対処するために、調整メカニズムを利用して、ユーザーが制限内に収まるようにしています。メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
+これらの配信チャネルには、Microsoft や Google によって強制される独自の送信制限があることに注意する必要があります。この問題に対処するために、調整メカニズムを利用して、ユーザが制限内に収まるようにしています。メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
@@ -52,8 +52,8 @@ Marketo のメールサーバーは、Sales Connect と統合されていませ�
 
 >[!MORELIKETHIS]
 >
->* [Gmail ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook ユーザーのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [カスタム配信チャネルの設定](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [メール接続の調整](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [メール接続のスロットリング](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
