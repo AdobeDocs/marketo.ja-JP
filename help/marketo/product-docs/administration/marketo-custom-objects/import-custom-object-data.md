@@ -4,7 +4,7 @@ description: カスタムオブジェクトデータのインポート - Marketo
 title: カスタムオブジェクトデータのインポート
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
