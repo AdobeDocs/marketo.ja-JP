@@ -4,7 +4,7 @@ description: トークンの概要 - Marketo ドキュメント - 製品ドキ�
 title: トークンの概要
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 100%
 
