@@ -4,7 +4,7 @@ description: アカウントトリガー - Marketo ドキュメント - 製品�
 title: アカウントトリガー
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 
