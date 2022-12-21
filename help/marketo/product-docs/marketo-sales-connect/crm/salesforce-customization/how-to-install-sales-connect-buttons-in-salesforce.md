@@ -4,7 +4,7 @@ description: Salesforce に Sales Connect ボタンをインストールする�
 title: Salesforce に Sales Connect ボタンをインストールする方法
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
