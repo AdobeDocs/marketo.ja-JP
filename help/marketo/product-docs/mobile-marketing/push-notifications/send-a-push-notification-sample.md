@@ -4,7 +4,7 @@ description: プッシュ通知サンプルの送信 - Marketo ドキュメン�
 title: プッシュ通知サンプルの送信
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 100%
 
