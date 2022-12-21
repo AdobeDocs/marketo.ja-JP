@@ -4,7 +4,7 @@ description: パフォーマンスインサイトのトレンドの概要 - Mark
 title: パフォーマンスインサイトのトレンドの概要
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
 
