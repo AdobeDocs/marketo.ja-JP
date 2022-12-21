@@ -4,7 +4,7 @@ description: 重点顧客にリードを追加する - Marketo ドキュメン�
 title: 重点顧客にリードを追加する
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
