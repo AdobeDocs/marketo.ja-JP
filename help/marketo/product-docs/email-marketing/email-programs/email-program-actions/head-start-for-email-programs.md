@@ -4,7 +4,7 @@ description: メールプログラムの優先スタート - Marketo ドキュ�
 title: メールプログラムの優先スタート
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 100%
 
