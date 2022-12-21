@@ -4,7 +4,7 @@ description: リリースノート - 2020 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 100%
 
