@@ -4,9 +4,9 @@ description: Outlook 用 Marketo メールアドインのアップグレード -
 title: Outlook 用 Marketo メールアドインのアップグレード
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -116,7 +116,7 @@ Outlook 用 Marketo メールアドインの新しいバージョンが利用可
  </tbody> 
 </table>
 
-*Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
+&#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro の場合）。
 
 ## アップグレード {#upgrade}
 
