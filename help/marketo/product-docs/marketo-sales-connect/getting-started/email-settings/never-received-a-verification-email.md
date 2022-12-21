@@ -4,7 +4,7 @@ description: 確認メールを受信していない場合 - Marketo ドキュ�
 title: 確認メールを受信していない場合
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
