@@ -4,7 +4,7 @@ description: トリガースマートキャンペーンのアクティブ化 | �
 title: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
