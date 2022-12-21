@@ -3,10 +3,11 @@ description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメ
 title: Salesforce 診断
 hide: true
 hidefromtoc: true
-source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
+exl-id: c449f938-9615-47cb-b232-613ec29068a3
+source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
 workflow-type: tm+mt
 source-wordcount: '1445'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -16,21 +17,21 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 
 ## アクセス診断 {#access-diagnostics}
 
-1. 歯車アイコンをクリックし、「 」を選択します。 **設定**.
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. 「統合」で、「 **診断**.
+1. 「統合」で、「**診断**」をクリックします。
 
    ![](assets/salesforce-diagnostics-2.png)
 
-## エラーチートシート {#error-cheat-sheet}
+## エラーカンニングペーパー {#error-cheat-sheet}
 
 **エラー：** API_CURRENTLY_DISABLED\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** API is disabled for this user\
-**状況：**&#x200B;ユーザーが API にアクセスできません\
-**トラブルシューティング手順：** Salesforce 管理者は、ユーザー API へのアクセス権を付与する必要があります。
+**状況：**&#x200B;ユーザが API にアクセスできません\
+**トラブルシューティング手順：** Salesforce 管理者は、ユーザ API へのアクセス権を付与する必要があります。
 
 **エラー：** AUTHENTICATION_FAILURE\
 **カテゴリ：**&#x200B;認証\
@@ -44,17 +45,17 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **状況：**
 
 1 - トリガーコードが原因で更新に失敗します。\
-2 - ユーザーは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
+2 - ユーザは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
 
 **トラブルシューティングの手順：**
 
 1 - 失敗しているトリガーを確認します。\
-2 - オブジェクトに対する書き込みアクセス権をユーザーに付与するか、オブジェクトに書き込もうとする機能を無効にします。
+2 - オブジェクトに対する書き込みアクセス権をユーザに付与するか、オブジェクトに書き込もうとする機能を無効にします。
 
 **エラー：** CANNOT_UPDATE_CONVERTED_LEAD\
 **カテゴリ：**&#x200B;その他\
 **メッセージ：** cannot reference converted lead\
-**状況：**&#x200B;連絡先およびリードの最新のアクティビティログ中に、変換済みのリードにログを記録しようとしています。また、売り口上にもこれらが 2 つありました。\
+**状況：**&#x200B;取引先責任者およびリードの最新のアクティビティログ中に、変換済みのリードにログを記録しようとしています。また、売り口上にもこれらが 2 つありました。\
 **トラブルシューティング手順：**&#x200B;インスタンスがある場合、アドビの[サポートチーム](https://nation.marketo.com/t5/Support/ct-p/Support)に報告してください。
 
 **エラー：** ENTITY_IS_LOCKED\
@@ -66,7 +67,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：**EXPIRED_ACCESS
 **カテゴリ：**認証
 **メッセージ：**invalid_grant: expired access/refresh token
-**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは[Salesforce のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
+**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [Salesforce のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
 **トラブルシューティング手順：**&#x200B;再認証が必要になります。Salesforce 接続を切断し、再接続します。
 
 **エラー：** FAILED_WRITE\
@@ -99,7 +100,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：**INACTIVE_USER
 **カテゴリ：**認証
 **メッセージ：**invalid_grant: inactive user
-**状況：**Salesforce ユーザーがアクティブでなくなっています
+**状況：**Salesforce ユーザがアクティブでなくなっています
 **トラブルシューティング手順：** Salesforce から切断し、再接続します。
 
 **エラー：** INSERT_UPDATE_EXPERIENCE_NOT_ALLOWED_DURING_MAINTENANCE\
@@ -117,7 +118,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **カテゴリ：**アクセス／検証
 **メッセージ：**insufficient access rights on object id
 **状況：**&#x200B;最新のアクティビティログは、書き込みアクセス権を持たないので、特定のレコードを編集できません。\
-**トラブルシューティング手順：** Salesforce でのユーザーアクセスを許可するか、そのユーザーのオブジェクトに対する最新のアクティビティログを無効にします。
+**トラブルシューティング手順：** Salesforce でのユーザアクセスを許可するか、そのユーザのオブジェクトに対する最新のアクティビティログを無効にします。
 
 **エラー：** INVALID_FIELD\
 **カテゴリ：**&#x200B;断続的\
@@ -127,8 +128,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 
 **エラー：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **カテゴリ：**&#x200B;アクセス/検証\
-**メッセージ：** フィールドを作成/更新できません：MSE_Rempired__c.このフィールドのセキュリティ設定を確認してください。
-**状況：** 最新のアクティビティログのトランザクションの実行に必要な Sales Insight アクションカスタムフィールドへの書き込みアクセス権がユーザーにありません。 チームがパッケージをインストールしたが、ユーザーに対して正しいフィールドが有効になっていない可能性があります。\
+**メッセージ：** Unable to create/update fields: MSE_Replied__c. Please check the security settings of this field.**状況：**&#x200B;最新のアクティビティログトランザクションの実行に必要な Sales Insight Actions カスタムフィールドへの書き込みアクセス権がユーザに与えられていません。チームがパッケージをインストールしたが、ユーザに対して正しいフィールドが有効になっていない可能性があります。\
 **トラブルシューティング手順：** Salesforce 管理者は、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティのログを無効にする必要があります。
 
 **エラー：** INVALID_GRANT\
@@ -140,7 +140,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** INVALID_TYPE\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。Please reference your WSDL or the describe call for the appropriate names
-**状況：**&#x200B;ユーザーがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザーがリードオブジェクトに対する権限を持っていないことが原因である可能性が高いです。\
+**状況：**&#x200B;ユーザがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザがリードオブジェクトに対する権限を持っていないことが原因である可能性が高いです。\
 **トラブルシューティング手順：** Salesforce のリードオブジェクトに対して読み取りおよび更新アクセス権を付与するか、リードレコードへのメールログと最新のアクティビティのログをオフにします。
 
 **エラー：** QUERY_TIMEOUT\
@@ -166,7 +166,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** Required fields are missing: `[Amount_Committed_Private_Capital__c]`
 **状況：**&#x200B;これは通常、最新のアクティビティログで発生します。カスタムフィールドは必須として設定されていますが、値が空です。これは、レコードがカスタムフィールドの空の値で作成され、その後必須に設定された場合に発生する可能性があります。レコードを更新しようとすると、カスタムフィールドに触れなくても、要件が適用されます。\
-**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。その後、Sales Insight アクションからのメッセージを再試行できます。
+**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。その後、Sales Insight Actions からのメッセージを再試行できます。
 
 **エラー：** SERVER_UNAVAILABLE\
 **カテゴリ：**&#x200B;断続的\
