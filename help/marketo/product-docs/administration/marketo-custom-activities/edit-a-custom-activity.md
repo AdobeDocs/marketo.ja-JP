@@ -4,7 +4,7 @@ description: カスタムアクティビティの編集 - Marketo ドキュメ�
 title: カスタムアクティビティの編集
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 
