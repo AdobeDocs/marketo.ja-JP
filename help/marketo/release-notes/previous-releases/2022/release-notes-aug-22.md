@@ -5,7 +5,7 @@ exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
-ht-degree: 10%
+ht-degree: 13%
 
 ---
 
@@ -74,4 +74,4 @@ ht-degree: 10%
 
 **_製品リリースウェビナー_**
 
-[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[2022年6月および8月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
