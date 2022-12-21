@@ -4,7 +4,7 @@ description: 重点顧客インサイト - Marketo ドキュメント - 製品�
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 100%
 
