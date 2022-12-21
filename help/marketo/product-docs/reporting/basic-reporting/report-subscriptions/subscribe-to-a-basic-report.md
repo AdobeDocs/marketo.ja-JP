@@ -4,7 +4,7 @@ description: 基本レポートを配信登録する — Marketo ドキュメン
 title: 基本レポートを配信登録する
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 
