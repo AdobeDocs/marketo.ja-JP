@@ -4,7 +4,7 @@ description: 注目のアクションの概要 - Marketo ドキュメント - �
 title: 注目のアクションの概要
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
