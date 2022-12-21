@@ -4,7 +4,7 @@ description: メールエディターで取り消しを実行する - Marketo �
 title: メールエディターで取り消しを実行する
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
