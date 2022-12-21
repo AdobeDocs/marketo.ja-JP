@@ -4,7 +4,7 @@ description: 所有者の変更 - Marketo ドキュメント - 製品ドキュ�
 title: 所有者の変更
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
 
