@@ -4,7 +4,7 @@ description: SFDC キャンペーンとプログラムの同期 - Marketo ドキ
 title: SFDC キャンペーンとプログラムの同期
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
 
