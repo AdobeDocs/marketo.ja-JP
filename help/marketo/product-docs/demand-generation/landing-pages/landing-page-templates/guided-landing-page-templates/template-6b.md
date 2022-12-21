@@ -4,7 +4,7 @@ description: テンプレート 6B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
