@@ -4,7 +4,7 @@ description: メールにスニペットを追加する - Marketo ドキュメ�
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
