@@ -4,7 +4,7 @@ description: 特定のラベルからの web キャンペーンの表示 - Marke
 title: 特定のラベルからの web キャンペーンの表示
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
