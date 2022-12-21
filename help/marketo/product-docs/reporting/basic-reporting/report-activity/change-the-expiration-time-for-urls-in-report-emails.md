@@ -4,7 +4,7 @@ description: レポートメール URL の有効期限を変更する - Marketo 
 title: レポートメール URL の有効期限を変更する
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
