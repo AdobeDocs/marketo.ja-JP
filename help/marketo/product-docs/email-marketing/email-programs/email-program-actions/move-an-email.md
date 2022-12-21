@@ -4,7 +4,7 @@ description: メールの移動 - Marketo ドキュメント - 製品ドキュ�
 title: メールの移動
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # メールの移動 {#move-an-email}
 
-プログラム間でメールを移動したい場合は、どうやって。
+プログラム間でメールを移動したい場合は、手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/move-an-email-1.png)
 
