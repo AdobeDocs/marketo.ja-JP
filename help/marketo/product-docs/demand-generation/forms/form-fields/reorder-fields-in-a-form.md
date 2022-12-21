@@ -4,7 +4,7 @@ description: フォーム内のフィールドの並べ替え - Marketo ドキ�
 title: フォーム内のフィールドの並べ替え
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # フォーム内のフィールドの並べ替え {#reorder-fields-in-a-form}
 
-Marketo フォーム上のフィールドの並べ替えは簡単です。どうやって。
+Marketo フォーム上のフィールドの並べ替えは簡単です。手順は次のとおりです。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
