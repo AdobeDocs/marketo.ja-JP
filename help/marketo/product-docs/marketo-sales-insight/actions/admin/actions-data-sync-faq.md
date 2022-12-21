@@ -3,7 +3,7 @@ description: アクションデータ同期に関する FAQ - Marketo ドキュ�
 title: アクションデータ同期に関する FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 100%
 
