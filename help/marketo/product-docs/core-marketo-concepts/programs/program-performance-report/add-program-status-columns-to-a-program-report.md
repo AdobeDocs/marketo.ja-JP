@@ -4,7 +4,7 @@ description: プログラムレポートへのプログラムステータス列�
 title: プログラムレポートへのプログラムステータス列の追加
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
