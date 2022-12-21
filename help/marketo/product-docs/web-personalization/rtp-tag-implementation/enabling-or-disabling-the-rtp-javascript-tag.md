@@ -4,7 +4,7 @@ description: RTP JavaScript タグの有効化または無効化 - Marketo ド�
 title: RTP JavaScript タグの有効化または無効化
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
