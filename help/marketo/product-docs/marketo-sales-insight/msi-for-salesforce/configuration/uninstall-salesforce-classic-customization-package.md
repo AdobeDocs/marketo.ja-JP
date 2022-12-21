@@ -4,7 +4,7 @@ title: Salesforce カスタマイズパッケージのアンインストール
 hide: true
 hidefromtoc: true
 source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '18'
 ht-degree: 100%
 
