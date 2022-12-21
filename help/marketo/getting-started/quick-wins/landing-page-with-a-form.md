@@ -4,7 +4,7 @@ description: フォームを含むランディングページ - Marketo ドキ�
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '549'
 ht-degree: 100%
 
@@ -176,7 +176,7 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
 [◄ ミッション 1：一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
