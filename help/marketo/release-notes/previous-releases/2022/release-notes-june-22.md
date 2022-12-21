@@ -3,7 +3,7 @@ description: リリースノート - 2022年6月 - Marketo ドキュメント - 
 title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 100%
 
