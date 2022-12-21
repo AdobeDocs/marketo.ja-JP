@@ -4,7 +4,7 @@ description: テンプレート 3D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
