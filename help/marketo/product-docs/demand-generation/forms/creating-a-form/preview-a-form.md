@@ -4,7 +4,7 @@ description: フォームのプレビュー - Marketo ドキュメント - 製�
 title: フォームのプレビュー
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
