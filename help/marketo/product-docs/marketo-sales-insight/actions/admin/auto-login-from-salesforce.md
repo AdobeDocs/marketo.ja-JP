@@ -25,4 +25,4 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->[ユーザーと管理者の招待](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+>[ユーザと管理者の招待](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
