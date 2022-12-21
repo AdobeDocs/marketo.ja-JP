@@ -4,7 +4,7 @@ description: メールの予測コンテンツの編集 - Marketo ドキュメ�
 title: メールの予測コンテンツの編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
