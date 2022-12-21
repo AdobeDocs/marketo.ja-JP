@@ -4,7 +4,7 @@ description: コンテンツの編集 - Marketo ドキュメント - 製品ド�
 title: コンテンツの編集
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
