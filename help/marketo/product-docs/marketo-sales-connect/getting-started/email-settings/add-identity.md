@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14352412
-description: ID を追加 - Marketoドキュメント - 製品ドキュメント
+description: ID を追加 - Marketo ドキュメント - 製品ドキュメント
 title: ID を追加
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
