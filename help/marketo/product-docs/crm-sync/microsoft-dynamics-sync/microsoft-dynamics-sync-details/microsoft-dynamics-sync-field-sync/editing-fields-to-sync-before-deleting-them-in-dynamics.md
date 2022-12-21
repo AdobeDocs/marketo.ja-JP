@@ -3,7 +3,7 @@ description: Dynamics で削除する前に同期するフィールドを編集 
 title: Dynamics で削除する前に同期するフィールドを編集
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 100%
 
