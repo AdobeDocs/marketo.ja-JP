@@ -4,7 +4,7 @@ description: 複数のランディングページを一度に承認する - Mark
 title: 複数のランディングページを一度に承認する
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
