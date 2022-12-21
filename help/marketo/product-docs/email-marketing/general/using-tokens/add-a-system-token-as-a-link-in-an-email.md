@@ -4,7 +4,7 @@ description: メールにシステムトークンをリンクとして追加す�
 title: メールにシステムトークンをリンクとして追加する
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
 
