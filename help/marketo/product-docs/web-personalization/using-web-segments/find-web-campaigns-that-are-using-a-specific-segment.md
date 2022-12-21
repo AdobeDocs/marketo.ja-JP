@@ -4,7 +4,7 @@ description: 特定のセグメントを使用している web キャンペー�
 title: 特定のセグメントを使用している web キャンペーンの検索
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
