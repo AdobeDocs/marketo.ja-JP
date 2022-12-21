@@ -4,7 +4,7 @@ description: イベントパートナー - Marketo ドキュメント - 製品�
 title: イベントパートナー
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
