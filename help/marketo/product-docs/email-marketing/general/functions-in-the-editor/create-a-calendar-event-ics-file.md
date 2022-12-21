@@ -4,7 +4,7 @@ description: カレンダーイベント（.ics）ファイルの作成 - Market
 title: カレンダーイベント（.ics）ファイルの作成
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
