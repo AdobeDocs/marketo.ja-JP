@@ -4,7 +4,7 @@ description: フォーム内のフィールドの削除 - Marketo ドキュメ�
 title: フォーム内のフィールドの削除
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -12,9 +12,9 @@ ht-degree: 100%
 
 # フォーム内のフィールドの削除 {#delete-a-field-in-a-form}
 
-フォーム上に不要になったフィールドがある場合は、簡単に削除できます。どうやって。
+フォーム上に不要になったフィールドがある場合は、簡単に削除できます。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティング活動**」に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**承認して閉じる**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
