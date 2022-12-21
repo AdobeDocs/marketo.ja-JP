@@ -4,7 +4,7 @@ description: フォームのテーマの選択 - Marketo ドキュメント - �
 title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
