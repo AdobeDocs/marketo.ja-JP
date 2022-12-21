@@ -4,7 +4,7 @@ description: 収益エクスプローラーレポートへのカスタム測定�
 title: 収益エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 100%
 
