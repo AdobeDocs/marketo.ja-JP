@@ -4,7 +4,7 @@ description: プログラムスケジュール表示でのエントリの移動 
 title: プログラムスケジュール表示でのエントリの移動
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
