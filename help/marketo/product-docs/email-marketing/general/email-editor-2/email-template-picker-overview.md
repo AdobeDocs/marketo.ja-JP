@@ -4,7 +4,7 @@ description: メールテンプレート選択ツールの概要 - Marketo ド�
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 
