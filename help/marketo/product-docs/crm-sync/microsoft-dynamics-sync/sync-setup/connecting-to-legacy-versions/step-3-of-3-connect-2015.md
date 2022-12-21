@@ -4,7 +4,7 @@ description: Microsoft Dynamics 2015 オンプレミス向け Marketo インス�
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 100%
 
@@ -107,4 +107,4 @@ ht-degree: 100%
 
    ![](assets/image2015-3-16-9-59-51.png)
 
-できましたね。
+これで完了です。
