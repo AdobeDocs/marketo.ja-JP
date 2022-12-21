@@ -4,7 +4,7 @@ description: プッシュ通知のプレビュー - Marketo ドキュメント -
 title: プッシュ通知のプレビュー
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
