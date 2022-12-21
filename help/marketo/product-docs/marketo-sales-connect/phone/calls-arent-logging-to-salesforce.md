@@ -4,7 +4,7 @@ description: 呼び出しが Salesforce のログに記録されない — Marke
 title: 呼び出しが Salesforce のログに記録されない
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
