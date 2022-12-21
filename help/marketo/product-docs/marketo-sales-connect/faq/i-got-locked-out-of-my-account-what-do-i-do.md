@@ -4,7 +4,7 @@ description: 自分のアカウントから締め出されました。どうす�
 title: 自分のアカウントから締め出されました。どうすればいいですか？
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
