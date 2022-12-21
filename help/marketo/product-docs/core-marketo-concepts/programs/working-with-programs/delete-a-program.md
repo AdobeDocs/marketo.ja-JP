@@ -4,7 +4,7 @@ description: プログラムの削除 - Marketo ドキュメント - 製品ド�
 title: プログラムの削除
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 100%
 
