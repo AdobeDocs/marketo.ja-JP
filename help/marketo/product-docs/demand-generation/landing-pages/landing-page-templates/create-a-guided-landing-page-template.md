@@ -4,7 +4,7 @@ description: ガイド付きランディングページテンプレートの作�
 title: ガイド付きランディングページテンプレートの作成
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 100%
 
