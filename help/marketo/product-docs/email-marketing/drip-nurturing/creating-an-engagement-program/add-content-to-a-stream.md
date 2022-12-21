@@ -4,7 +4,7 @@ description: ストリームにコンテンツを追加する - Marketo ドキ�
 title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
