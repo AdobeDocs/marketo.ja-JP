@@ -4,7 +4,7 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%
 
