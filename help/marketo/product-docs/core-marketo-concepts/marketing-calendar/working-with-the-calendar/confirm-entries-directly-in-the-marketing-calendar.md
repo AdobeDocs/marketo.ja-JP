@@ -4,7 +4,7 @@ description: マーケティングカレンダーでエントリを直接確認 
 title: マーケティングカレンダーでエントリを直接確認
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
