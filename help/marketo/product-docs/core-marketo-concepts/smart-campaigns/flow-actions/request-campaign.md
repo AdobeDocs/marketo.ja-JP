@@ -4,7 +4,7 @@ description: キャンペーンのリクエスト - Marketo ドキュメント -
 title: キャンペーンのリクエスト
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
