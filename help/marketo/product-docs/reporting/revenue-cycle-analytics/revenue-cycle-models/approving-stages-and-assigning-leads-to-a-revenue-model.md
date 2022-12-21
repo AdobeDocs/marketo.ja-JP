@@ -4,7 +4,7 @@ description: ステージの承認と収益モデルへのリードの割り当�
 title: ステージの承認と収益モデルへのリードの割り当て
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 100%
 
