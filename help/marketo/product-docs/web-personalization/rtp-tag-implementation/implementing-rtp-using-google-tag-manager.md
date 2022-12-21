@@ -4,7 +4,7 @@ description: Google タグマネージャーを使用した RTP の実装 - Mark
 title: Google タグマネージャーを使用した RTP の実装
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
 
