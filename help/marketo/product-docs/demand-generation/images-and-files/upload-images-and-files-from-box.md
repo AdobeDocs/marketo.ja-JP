@@ -4,7 +4,7 @@ description: Box から画像とファイルをアップロードする — Mark
 title: Box から画像とファイルをアップロードする
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
