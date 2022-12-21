@@ -4,7 +4,7 @@ description: テンプレート 4C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
