@@ -4,7 +4,7 @@ description: SFDC キャンペーンからの削除 - Marketo ドキュメント
 title: SFDC キャンペーンからの削除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
