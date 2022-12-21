@@ -4,7 +4,7 @@ description: Web キャンペーンを削除する - Marketo ドキュメント 
 title: Web キャンペーンを削除する
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 
