@@ -4,7 +4,7 @@ description: 共有後のプロンプトの設定 - Marketo ドキュメント -
 title: 共有後のプロンプトの設定
 exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
 
