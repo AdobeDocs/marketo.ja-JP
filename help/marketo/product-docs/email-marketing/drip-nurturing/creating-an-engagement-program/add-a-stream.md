@@ -4,7 +4,7 @@ description: ストリームの追加 - Marketo ドキュメント - 製品ド�
 title: ストリームの追加
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
