@@ -4,7 +4,7 @@ description: 割り当てルールを使用した人物パーティションの�
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
