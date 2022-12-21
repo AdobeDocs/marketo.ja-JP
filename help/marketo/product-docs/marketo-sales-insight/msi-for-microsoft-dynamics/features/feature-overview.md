@@ -4,7 +4,7 @@ description: 機能の概要 - Marketo ドキュメント - 製品ドキュメ�
 title: 機能の概要
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 ## Marketo Sales Insight の一括アクションボタン（「取引先責任者」リスト表示）  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Marketo キャンペーンに追加
-* Marketo メールの送信 
+* Marketo メールの送信
 
 ## Marketo Sales Insight パネル（「アカウント」レイアウト） {#marketo-sales-insight-panel-in-account-layout}
 
