@@ -4,7 +4,7 @@ description: 他の CRM へのメールを記録する方法 — Marketo ドキ�
 title: 他の CRM へのメールを記録する方法
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 
