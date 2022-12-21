@@ -4,7 +4,7 @@ description: 顧客リストインサイト - Marketo ドキュメント - 製�
 title: 顧客リストインサイト
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
