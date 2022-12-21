@@ -4,7 +4,7 @@ description: フリーフォームランディングページへのカスタム 
 title: フリーフォームランディングページへのカスタム HTML の追加
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo サポートは、カスタム HTML のトラブルシューティングについては対応できません。HTML のサポートについては、Web 開発者にご相談ください。
+>Marketo サポートは、カスタム HTML のトラブルシューティングについては対応できません。HTML のサポートについては、web 開発者にご相談ください。
 
 1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
 
