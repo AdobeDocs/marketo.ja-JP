@@ -4,7 +4,7 @@ description: サブチームの作成 - Marketo ドキュメント - 製品ド�
 title: サブチームの作成
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
