@@ -3,7 +3,7 @@ description: ルーティング - Marketo ドキュメント - 製品ドキュ�
 title: ルーティング
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
 source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
