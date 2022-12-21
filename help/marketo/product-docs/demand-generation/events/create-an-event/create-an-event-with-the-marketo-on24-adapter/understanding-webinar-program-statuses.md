@@ -4,7 +4,7 @@ description: ウェビナープログラムのステータスについて - Mark
 title: ウェビナープログラムのステータスについて
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%
 
