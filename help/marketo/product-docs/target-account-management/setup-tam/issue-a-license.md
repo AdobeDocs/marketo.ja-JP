@@ -4,7 +4,7 @@ description: ライセンスの発行 - Marketo ドキュメント - 製品ド�
 title: ライセンスの発行
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
