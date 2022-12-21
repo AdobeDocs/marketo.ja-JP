@@ -4,7 +4,7 @@ description: GotoWebinar を使用したイベントの作成 - Marketo ドキ�
 title: GotoWebinar を使用したイベントの作成
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 100%
 
