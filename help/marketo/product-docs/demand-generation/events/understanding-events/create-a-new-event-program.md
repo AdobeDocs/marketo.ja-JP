@@ -4,7 +4,7 @@ description: 新しいイベントプログラムの作成 - Marketo ドキュ�
 title: 新しいイベントプログラムの作成
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
