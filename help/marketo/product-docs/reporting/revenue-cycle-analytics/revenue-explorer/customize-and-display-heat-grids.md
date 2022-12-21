@@ -4,7 +4,7 @@ description: ヒートグリッドのカスタマイズと表示 - Marketo ド�
 title: ヒートグリッドのカスタマイズと表示
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
