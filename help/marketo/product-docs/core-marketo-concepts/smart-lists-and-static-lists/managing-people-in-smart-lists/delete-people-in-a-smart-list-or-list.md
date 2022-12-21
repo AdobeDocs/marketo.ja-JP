@@ -4,7 +4,7 @@ description: スマートリストまたはリストの人物の削除 - Marketo
 title: スマートリストまたはリストの人物の削除
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
