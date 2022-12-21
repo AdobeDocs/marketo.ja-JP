@@ -4,7 +4,7 @@ description: Adobe Analytics との連携 - Marketo ドキュメント - 製品�
 title: Adobe Analytics との連携
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 100%
 
