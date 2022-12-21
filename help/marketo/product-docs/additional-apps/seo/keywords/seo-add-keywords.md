@@ -4,7 +4,7 @@ description: SEO - キーワードの追加 - Marketo ドキュメント - 製�
 title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
