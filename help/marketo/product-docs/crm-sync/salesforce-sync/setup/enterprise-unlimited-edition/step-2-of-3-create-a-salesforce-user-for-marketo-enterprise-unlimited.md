@@ -4,7 +4,7 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（En
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 100%
 
@@ -128,7 +128,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>アカウント</p></td> 
-   <td colspan="1" rowspan="1"><p>Type フィールド</p></td> 
+   <td colspan="1" rowspan="1"><p>タイプフィールド</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>イベント</p></td> 
