@@ -4,7 +4,7 @@ description: メールテストのオプションについて — Marketo ドキ
 title: メールテストのオプションについて
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
