@@ -4,7 +4,7 @@ description: リードデータの管理 - Marketo ドキュメント - 製品�
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
