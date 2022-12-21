@@ -3,7 +3,7 @@ description: 取引先責任者の作成と削除 - Marketo ドキュメント -
 title: 取引先責任者の作成と削除
 exl-id: 59fb0ec9-9bb4-4eae-b3de-8564d371b970
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
