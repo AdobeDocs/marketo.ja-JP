@@ -4,7 +4,7 @@ description: リリースノート - 2012年3月 - Marketo ドキュメント - 
 title: リリースノート - 2012年3月
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
