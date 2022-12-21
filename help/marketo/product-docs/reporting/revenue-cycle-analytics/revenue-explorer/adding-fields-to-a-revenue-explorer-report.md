@@ -4,7 +4,7 @@ description: 収益エクスプローラーレポートへのフィールドの�
 title: 収益エクスプローラーレポートへのフィールドの追加
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
