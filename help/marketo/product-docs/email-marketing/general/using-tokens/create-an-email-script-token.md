@@ -4,7 +4,7 @@ description: メールスクリプトトークンを作成する — Marketo ド
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
 
