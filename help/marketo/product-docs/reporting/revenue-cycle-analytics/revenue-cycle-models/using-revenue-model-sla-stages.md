@@ -4,7 +4,7 @@ description: 収益モデル SLA ステージの使用 - Marketo ドキュメン
 title: 収益モデル SLA ステージの使用
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 100%
 
