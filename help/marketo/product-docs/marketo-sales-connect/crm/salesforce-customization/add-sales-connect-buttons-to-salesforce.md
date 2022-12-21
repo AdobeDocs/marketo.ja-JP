@@ -4,7 +4,7 @@ description: Salesforce への Sales Connect ボタンの追加 — Marketo ド�
 title: Salesforce への Sales Connect ボタンの追加
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
