@@ -6,7 +6,7 @@ exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 82%
+ht-degree: 86%
 
 ---
 
@@ -98,7 +98,7 @@ ht-degree: 82%
 
    ![](assets/send-an-email-13.png)
 
-1. 次をクリック： **メールアクション** ドロップダウンして「 」を選択します。 **承認して閉じる**.
+1. 「**メールアクション**」ドロップダウンをクリックし、「**承認して閉じる**」を選択します。
 
    ![](assets/send-an-email-14.png)
 
