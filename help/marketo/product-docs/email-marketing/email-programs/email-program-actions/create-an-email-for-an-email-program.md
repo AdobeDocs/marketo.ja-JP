@@ -4,7 +4,7 @@ description: メールプログラム向けメールの作成 - Marketo ドキ�
 title: メールプログラム向けメールの作成
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
 
