@@ -4,7 +4,7 @@ description: 地域を編集する - Marketo ドキュメント - 製品ドキ�
 title: 地域を編集する
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
