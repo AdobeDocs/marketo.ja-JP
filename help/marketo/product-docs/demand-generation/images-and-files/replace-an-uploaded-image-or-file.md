@@ -4,7 +4,7 @@ description: アップロードした画像またはファイルの置き換え 
 title: アップロードした画像またはファイルの置き換え
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
