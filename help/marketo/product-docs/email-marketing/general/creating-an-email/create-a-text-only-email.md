@@ -4,7 +4,7 @@ description: テキストのみのメールを作成する - Marketo ドキュ�
 title: テキストのみのメールを作成する
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%
 
