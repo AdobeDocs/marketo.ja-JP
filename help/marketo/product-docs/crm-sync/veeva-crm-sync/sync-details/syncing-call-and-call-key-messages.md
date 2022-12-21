@@ -3,7 +3,7 @@ description: 通話と通話の主要メッセージの同期 - Marketo ドキ�
 title: 通話と通話の主要メッセージの同期
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 100%
 
