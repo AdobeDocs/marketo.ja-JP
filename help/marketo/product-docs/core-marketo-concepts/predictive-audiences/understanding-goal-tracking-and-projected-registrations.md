@@ -3,7 +3,7 @@ description: 目標のトラッキングと予測登録について - Marketo �
 title: 目標のトラッキングと予測登録について
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 100%
 
