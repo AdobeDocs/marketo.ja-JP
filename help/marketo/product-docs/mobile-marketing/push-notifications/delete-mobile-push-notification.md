@@ -4,7 +4,7 @@ description: モバイルプッシュ通知の削除 - Marketo ドキュメン�
 title: モバイルプッシュ通知の削除
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
 
