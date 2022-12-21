@@ -4,7 +4,7 @@ description: 手順 2 / 3 - Dynamics（2011 オンプレミス）での Marketo 
 title: 手順 2 / 3 - Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
-Marketo 同期ユーザー役割を Marketo 同期ユーザーにのみ割り当てます。他のユーザーに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザーに割り当てる必要はありません。
 
 >[!NOTE]
 >
@@ -56,9 +56,9 @@ Marketo 同期ユーザー役割を Marketo 同期ユーザーにのみ割り当
 
    >[!NOTE]
    >
-   >同期ユーザーが CRM で実行した更新は、再度 Marketo に&#x200B;**同期されません**。
+   >同期ユーザが CRM で行った更新は Marketo に同期&#x200B;**されません**。
 
-## Marketo ソリューションを設定する {#configure-marketo-solution}
+## Marketo ソリューションの設定 {#configure-marketo-solution}
 
 あと少しで完了です。次の記事に進む前に、最後の部分を設定しましょう。
 
