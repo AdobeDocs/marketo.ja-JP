@@ -4,7 +4,7 @@ description: IT による Marketo Outlook プラグインのアンインスト�
 title: IT による Marketo Outlook プラグインのアンインストール
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 
