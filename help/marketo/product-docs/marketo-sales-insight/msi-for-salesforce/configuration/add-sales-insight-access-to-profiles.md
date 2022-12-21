@@ -3,7 +3,7 @@ description: Sales Insight へのアクセスをプロファイルに追加 - Ma
 title: Sales Insight へのアクセスをプロファイルに追加
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 100%
 
