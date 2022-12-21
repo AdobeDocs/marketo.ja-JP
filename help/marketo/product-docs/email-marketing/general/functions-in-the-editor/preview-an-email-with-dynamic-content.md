@@ -4,7 +4,7 @@ description: 動的コンテンツを含むメールのプレビュー — Marke
 title: 動的コンテンツを含むメールのプレビュー
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 
