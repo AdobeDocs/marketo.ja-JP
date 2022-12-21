@@ -4,7 +4,7 @@ description: アラートの送信 - Marketo ドキュメント - 製品ドキ�
 title: アラートの送信
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
