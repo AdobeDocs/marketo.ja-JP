@@ -4,7 +4,7 @@ description: 投票での投票結果の確認 - Marketo ドキュメント - �
 title: 投票での投票結果の確認
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
