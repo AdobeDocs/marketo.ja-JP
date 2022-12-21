@@ -4,7 +4,7 @@ description: メールテンプレートの構文 - Marketo ドキュメント -
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2423'
 ht-degree: 100%
 
