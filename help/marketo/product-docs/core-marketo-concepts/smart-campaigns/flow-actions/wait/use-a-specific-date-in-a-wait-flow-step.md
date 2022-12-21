@@ -4,7 +4,7 @@ description: 待機フローステップで特定の日付を使用 - Marketo �
 title: 待機フローステップで特定の日付を使用
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
