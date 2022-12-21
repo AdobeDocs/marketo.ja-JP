@@ -4,7 +4,7 @@ description: 待機フローステップで日付トークンを使用 - Marketo
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 100%
 
