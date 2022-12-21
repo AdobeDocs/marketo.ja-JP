@@ -4,7 +4,7 @@ description: Marketo Outlook プラグインの認証 - Marketo ドキュメン�
 title: Marketo Outlook プラグインの認証
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
