@@ -4,7 +4,7 @@ description: データ値の変更 - Marketo ドキュメント - 製品ドキ�
 title: データ値の変更
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
