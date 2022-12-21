@@ -4,7 +4,7 @@ description: メール CC - Marketo ドキュメント - 製品ドキュメン�
 title: メール CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 100%
 
