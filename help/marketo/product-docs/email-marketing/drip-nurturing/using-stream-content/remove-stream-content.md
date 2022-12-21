@@ -4,7 +4,7 @@ description: ストリームコンテンツの削除 - Marketo ドキュメン�
 title: ストリームコンテンツの削除
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
