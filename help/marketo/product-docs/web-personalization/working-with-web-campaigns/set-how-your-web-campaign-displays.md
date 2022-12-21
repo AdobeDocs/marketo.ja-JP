@@ -4,7 +4,7 @@ description: Web キャンペーンの表示方法の設定 - Marketo ドキュ�
 title: Web キャンペーンの表示方法の設定
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%
 
