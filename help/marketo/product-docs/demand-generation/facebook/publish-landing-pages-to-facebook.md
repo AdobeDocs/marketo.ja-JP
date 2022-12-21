@@ -4,7 +4,7 @@ description: ランディングページの Facebook への公開 - Marketo ド�
 title: ランディングページの Facebook への公開
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 100%
 
