@@ -4,7 +4,7 @@ description: スニペットの作成 - Marketo ドキュメント - 製品ド�
 title: スニペットの作成
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
