@@ -4,7 +4,7 @@ description: テンプレート 11A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
