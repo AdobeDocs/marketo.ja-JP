@@ -4,7 +4,7 @@ description: 既存の人物パーティションを編集する - Marketo ド�
 title: 既存の人物パーティションを編集する
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
