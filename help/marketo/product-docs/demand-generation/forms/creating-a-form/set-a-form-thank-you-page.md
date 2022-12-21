@@ -4,7 +4,7 @@ description: フォームの「ありがとうございます」ページを設�
 title: フォームの「ありがとうございました」ページを設定する
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 100%
 
