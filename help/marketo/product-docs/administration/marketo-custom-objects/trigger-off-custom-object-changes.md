@@ -4,7 +4,7 @@ description: カスタムオブジェクトの変更のトリガー- Marketo ド
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
 
