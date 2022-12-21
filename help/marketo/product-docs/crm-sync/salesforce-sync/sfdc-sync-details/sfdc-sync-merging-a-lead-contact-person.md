@@ -4,7 +4,7 @@ description: SFDC 同期 - リード／取引先責任者／人物の結合 - Ma
 title: SFDC 同期 - リード／取引先責任者／人物の結合
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
