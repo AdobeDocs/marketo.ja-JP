@@ -36,7 +36,7 @@ Marketo Sales Insight は、マーケティングチームが持つ豊富なデ�
 
    >[!NOTE]
    >
-   >次に進む前に、あらかじめ Marketo ソリューションを[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
+   >次に進む前に、あらかじめ Marketo ソリューションを[](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
 
 1. 「**インポート**」をクリックします。
 
@@ -97,6 +97,7 @@ Marketo インスタンスを Dynamics の Sales Insight に接続します。�
    > * 優先度
    > * 緊急度
    > * 相対スコア
+
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 

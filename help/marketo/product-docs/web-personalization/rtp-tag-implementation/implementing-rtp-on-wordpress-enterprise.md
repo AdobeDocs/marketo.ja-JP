@@ -40,6 +40,7 @@ RTP タグを実装するには、次のインストール手順に従います�
    >* `<script type='text/javascript'>`
    >* `</script>`
    >* `<!-- End of RTP tag -->`
+
    >
    >スクリプト自体のみを挿入します。
 

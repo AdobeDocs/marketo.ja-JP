@@ -72,7 +72,7 @@ Google Mail Sales Insight 拡張機能のアップデートがリリースされ
 
 ## Moments でのスマートキャンペーン {#smart-campaigns-in-moments}
 
-[ Moments でのスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Moments でのスマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 スマートキャンペーンを通じて送信されたメールに関する統計を、Moments で利用できるようになりました。このアップグレードの他の機能は次のとおりです。
 
