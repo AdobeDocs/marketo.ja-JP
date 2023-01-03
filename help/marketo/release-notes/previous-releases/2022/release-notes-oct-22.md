@@ -1,10 +1,10 @@
 ---
 description: リリースノート - 2022 年 10 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 10 月
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 95%
+source-wordcount: '634'
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 </br>
 
-* **プログラムメンバーカスタムフィールドの同期**:プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）を双方向で同期する機能
+* **プログラムメンバーカスタムフィールドの同期**:プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）を双方向で同期する機能 と Salesforce のキャンペーンメンバーフィールド
 
 <table> 
   <tr> 
