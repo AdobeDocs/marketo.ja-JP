@@ -2,10 +2,10 @@
 description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 69%
+source-wordcount: '866'
+ht-degree: 65%
 
 ---
 
@@ -89,6 +89,10 @@ ht-degree: 69%
 1. 「チャットボットの回答」で、質問を入力します。
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >トークンを使用して、既知のチャット訪問者に対するエクスペリエンスをパーソナライズできます ( 例：こんにちは `{{lead.leadFirstName:""}}`) をクリックします。 右側の中括弧アイコンをクリックし、必要に応じて選択します。 匿名訪問者に何か一般的なものを表示させたい場合は、引用符の間にデフォルト値を追加します ( 例：こんにちは `{{lead.leadFirstName:"there"}}`) をクリックします。
 
    >[!NOTE]
    >
