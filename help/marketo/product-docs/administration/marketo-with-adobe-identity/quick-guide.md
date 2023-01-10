@@ -2,10 +2,10 @@
 description: クイックガイド - Marketo ドキュメント - 製品ドキュメント
 title: クイックガイド
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 70b98157d06406e56767b0ab5478b01f1ebefdf6
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 95%
 
 ---
 
@@ -37,7 +37,7 @@ Marketo Engage API 専用ユーザは Marketo Engage で作成および管理す
 
 ## CSV を使用したユーザの追加 {#add-users-via-csv}
 
-[CSV の読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target=&quot;_blank&quot;}
+[CSV の読み込み](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target=&quot;_blank&quot;}
 
 ## ユーザログイン {#user-sign-in}
 
