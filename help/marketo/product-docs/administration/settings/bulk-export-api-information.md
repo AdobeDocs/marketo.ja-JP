@@ -3,16 +3,16 @@ description: 一括書き出し API 情報 — Marketoドキュメント — 製
 title: 一括書き出し API 情報
 hide: true
 hidefromtoc: true
-source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
+source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '100'
+ht-degree: 12%
 
 ---
 
 # 一括書き出し API 情報 {#bulk-export-api-information}
 
-過去 7 日間にMarketo Engageインスタンスで使用された一括抽出の容量を確認する方法を説明します。
+いくらであるかを確認する方法を学ぶ [一括抽出 API](https://developers.marketo.com/rest-api/bulk-extract/)過去 7 日間で、Marketo Engageインスタンスで {target=&quot;_blank&quot;} の処理能力が引き継がれました。
 
 >[!NOTE]
 >
