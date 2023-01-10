@@ -5,16 +5,16 @@ title: Adobe Experience Manager 統合の設定
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
+source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 92%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
 # Adobe Experience Manager 統合の設定 {#configuring-adobe-experience-manager-integration}
 
-AEM のアセットにアクセス、選択し、Marketo Design Studio に読み込めるように AEM を設定します。
+Adobe Experience Manager(AEM) を設定して、AEMアセットにアクセスし、選択し、Marketo Engageデザインスタジオに読み込むことができるようにします。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ AEM のアセットにアクセス、選択し、Marketo Design Studio に読み
 
    ![](assets/one.png)
 
-1. ユーザは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでログインします。
+1. ユーザは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでサインインします。
 
    ![](assets/two.png)
 
@@ -63,7 +63,7 @@ AEM のアセットにアクセス、選択し、Marketo Design Studio に読み
 
    ![](assets/eight.png)
 
-1. Marketo Classic で、「**管理者**」をクリックします。
+1. Marketo Engage で、「**管理者**」をクリックします。
 
    ![](assets/nine.png)
 
@@ -78,5 +78,3 @@ AEM のアセットにアクセス、選択し、Marketo Design Studio に読み
 1. AEM の URL を入力し、「**OK**」をクリックします。
 
    ![](assets/twelve.png)
-
-   準備完了です。これで、[AEM のアセットを Marketo Sky の Design Studio にインポート](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=jp#design-studio)できます。
