@@ -3,10 +3,10 @@ unique-page-id: 4720275
 description: Facebook でのカスタムオーディエンスの作成- Marketo ドキュメント - 製品ドキュメント
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 80%
+source-wordcount: '297'
+ht-degree: 77%
 
 ---
 
@@ -37,6 +37,10 @@ ht-degree: 80%
 1. 「**オーディエンス**」ドロップダウンをクリックし、「**+ 新規オーディエンス**」を選択します。
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >facebook API を使用すると、Facebook広告アカウントあたり最大 500 個のカスタムオーディエンスを利用できます。
 
 1. 「**オーディエンス名**」を入力します。「**更新**」をクリックします。
 
