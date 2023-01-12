@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Marketo カスタムフィールドタイプの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -14,17 +14,21 @@ ht-degree: 100%
 
 カスタムフィールドのフィールドタイプを変更する方法を次に示します。
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-18-13-3a4-3a39.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
 1. 目的のフィールドを検索して選択します。
 
-   ![](assets/image2014-9-18-13-3a4-3a48.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
 1. 「**フィールドアクション**」ドロップダウンで、「**タイプを変更**」をクリックします。
 
-   ![](assets/image2014-9-18-13-3a4-3a57.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. 新しいタイプを選択します。
 
@@ -32,11 +36,11 @@ ht-degree: 100%
    >
    >スコアおよび数式のフィールドは変更できません。
 
-   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
 1. 警告を読んで、「**変更**」をクリックして確定します。
 
-   ![](assets/image2014-9-18-13-3a5-3a23.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
    >[!NOTE]
    >
