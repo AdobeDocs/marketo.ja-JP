@@ -2,9 +2,9 @@
 description: すべてのオブジェクトメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: すべてのオブジェクトメタデータのエクスポート
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
@@ -28,11 +28,11 @@ ht-degree: 100%
 
 ## オブジェクトメタデータのエクスポート {#export-object-metadata}
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 「**フィールド管理**」を選択します。
+1. 「**フィールド管理**」をクリックします。
 
    ![](assets/export-all-object-metadata-2.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: フィールドの表示／非表示 - Marketo ドキュメント - 製品ドキュメント
 title: フィールドの表示／非表示
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 100%
 
 ---
@@ -20,13 +20,17 @@ Marketo のフィールドを使用しなくなった場合は、UI で非表示
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-18-13-3a10-3a3.png)
+   ![](assets/hide-and-unhide-a-field-1.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/hide-and-unhide-a-field-2.png)
 
 1. フィールドを探して選択し「**フィールドアクション**」で「**フィールドを非表示にする**」をクリックします。
 
-   ![](assets/fieldmanagement-hidefield-.png)
+   ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
@@ -34,21 +38,25 @@ Marketo のフィールドを使用しなくなった場合は、UI で非表示
 
 1. 「**非表示にする**」をクリックして確定します。
 
-   ![](assets/image2014-9-18-13-3a10-3a36.png)
+   ![](assets/hide-and-unhide-a-field-4.png)
 
    お疲れさまでした。これで、Marketo ユーザーインターフェイスでフィールドを非表示にする方法がわかりました。
 
-   ![](assets/image2014-9-18-13-3a10-3a45.png)
+   ![](assets/hide-and-unhide-a-field-5.png)
 
 ## フィールドを再表示する {#unhide-a-field}
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-18-13-3a11-3a3.png)
+   ![](assets/hide-and-unhide-a-field-6.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/hide-and-unhide-a-field-7.png)
 
 1. フィールドを検索して選択します。「フィールドアクション」ドロップダウンで、「**フィールドを再表示する**」をクリックします。
 
-   ![](assets/image2014-9-18-13-3a11-3a46.png)
+   ![](assets/hide-and-unhide-a-field-8.png)
 
    これで完了です。フィールドを再表示し、Marketo ユーザーインターフェイスで再び表示する方法を理解できました。
 

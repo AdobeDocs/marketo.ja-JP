@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: Marketo と Salesforce 間のフィールドマッピングの表示 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo と Salesforce 間のフィールドマッピングの表示
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
@@ -18,13 +18,17 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. 目的のフィールドを見つけ、「**+**」をクリックして、マッピングを展開します。
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
