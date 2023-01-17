@@ -4,7 +4,7 @@ description: フィールドの使用先データのエクスポート - Marketo
 title: フィールドの使用先データのエクスポート
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
