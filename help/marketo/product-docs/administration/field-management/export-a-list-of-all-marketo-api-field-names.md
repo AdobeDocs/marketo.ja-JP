@@ -4,7 +4,7 @@ description: すべての Marketo API フィールド名のリストのエクス
 title: すべての Marketo API フィールド名のリストのエクスポート
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
