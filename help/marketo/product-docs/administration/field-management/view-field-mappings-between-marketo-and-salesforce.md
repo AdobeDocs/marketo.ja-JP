@@ -4,7 +4,7 @@ description: Marketo と Salesforce 間のフィールドマッピングの表�
 title: Marketo と Salesforce 間のフィールドマッピングの表示
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
