@@ -3,7 +3,7 @@ description: すべてのオブジェクトメタデータのエクスポート 
 title: すべてのオブジェクトメタデータのエクスポート
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
