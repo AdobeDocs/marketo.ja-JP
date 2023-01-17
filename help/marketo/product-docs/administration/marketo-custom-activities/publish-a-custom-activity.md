@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: カスタムアクティビティの公開 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムアクティビティの公開
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -14,28 +14,28 @@ ht-degree: 100%
 
 望んだとおりのカスタムアクティビティが準備できたら、公開しましょう。
 
-1. 「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one-2.png)
+   ![](assets/publish-a-custom-activity-1.png)
 
-1. 「**データベース管理**」で「**Marketo カスタムアクティビティ**」をクリックします。
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
 
-   ![](assets/two-2.png)
+   ![](assets/publish-a-custom-activity-2.png)
 
 1. 公開するカスタムアクティビティを選択します。
 
-   ![](assets/three-2.png)
+   ![](assets/publish-a-custom-activity-3.png)
 
 1. 「**カスタムアクティビティのアクション**」ドロップダウンをクリックし、「**アクティビティを公開**」を選択します。
 
-   ![](assets/four-2.png)
+   ![](assets/publish-a-custom-activity-4.png)
 
    カスタムアクティビティのステートが、ドラフトから...
 
-   ![](assets/five-2.png)
+   ![](assets/publish-a-custom-activity-5.png)
 
    ...公開済みに変更されました。
 
-   ![](assets/six-2.png)
+   ![](assets/publish-a-custom-activity-6.png)
 
    うまくいきました。

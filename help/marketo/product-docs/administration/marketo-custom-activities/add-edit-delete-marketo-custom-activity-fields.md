@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Marketo のカスタムアクティビティフィールドの追加／編集／削除 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のカスタムアクティビティフィールドの追加／編集／削除
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '315'
 ht-degree: 100%
 
 ---
@@ -16,21 +16,29 @@ ht-degree: 100%
 
 ## カスタムアクティビティフィールドの追加 {#add-a-custom-activity-field}
 
-1. 「Marketo カスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
+
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
+
+1. 「**フィールド**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
 1. フィールドを追加するカスタムアクティビティを選択します。
 
-   ![](assets/two-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
 1. 「**新しいフィールド**」をクリックします。
 
-   ![](assets/three-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
 1. フィールドのデータタイプを選択します。
 
-   ![](assets/four-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
@@ -38,31 +46,39 @@ ht-degree: 100%
 
 1. フィールドに名前を付けます。「API 名」には自動的に値が入力されます。完了したら、「**保存**」をクリックします。
 
-   ![](assets/five-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
    これで完了です。新しいフィールドが追加されました。
 
 ## カスタムアクティビティフィールドの編集 {#edit-a-custom-activity-field}
 
-1. 「Marketo カスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
+
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
+
+1. 「**フィールド**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
 1. 編集するフィールドが含まれているカスタムアクティビティを選択します。
 
-   ![](assets/seven.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
 1. 編集するフィールドを選択し、「**フィールドアクション**」ドロップダウンをクリックして、「**フィールドを編集**」を選択します。
 
-   ![](assets/eight.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
    フィールドを編集ポップアップが表示されます。この例では、フィールドの名前を変更します。
 
-   ![](assets/nine.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
 1. 新しい「名前」と「API 名」を入力し、「**保存**」をクリックします。
 
-   ![](assets/ten.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
@@ -80,16 +96,22 @@ ht-degree: 100%
 
 ## カスタムアクティビティフィールドの削除 {#delete-a-custom-activity-field}
 
-1. 「Marketo カスタムアクティビティ」で、「**フィールド**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
+
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
+
+1. 「**フィールド**」をクリックします。
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
 1. 削除するフィールドを含むカスタムアクティビティを選択します。
 
-   ![](assets/twelve.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
 1. 削除するフィールドを選択し、「**フィールドアクション**」ドロップダウンをクリックして、「**フィールドを削除**」を選択します。
 
-   ![](assets/thirteen.png)
-
-   簡単ですね。
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

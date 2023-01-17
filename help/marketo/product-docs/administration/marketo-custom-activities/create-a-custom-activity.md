@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: カスタムアクティビティの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムアクティビティの作成
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 100%
 >
 >ほとんどのサブスクリプションには、カスタムアクティビティタイプは 10 個までという制限が割り当てられています。
 
-1. 「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one.png)
+   ![](assets/create-a-custom-activity-1.png)
 
-1. 「**データベース管理**」で「**カスタムアクティビティ**」をクリックします。
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-activity-2.png)
 
 1. 「**新規カスタムアクティビティ**」をクリックします。
 
-   ![](assets/three.png)
+   ![](assets/create-a-custom-activity-3.png)
 
 1. 名前と説明（オプション）を入力し、「**次へ**」をクリックします。API 名は自動入力されますが、カスタマイズできます。
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
@@ -40,13 +40,11 @@ ht-degree: 100%
 
 1. 「**フィルター**」および「**トリガー**」を定義し、「**次へ**」をクリックします。
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-activity-5.png)
 
 1. 主フィールドに、カスタムアクティビティの目的をまとめた名前を付けます。
 
-   ![](assets/six.png)
-
-   これで完了です。
+   ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >

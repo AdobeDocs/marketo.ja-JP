@@ -1,9 +1,9 @@
 ---
 description: リリースノート - 2022 年 10 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 10 月
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '601'
 ht-degree: 94%
 
 ---
@@ -172,20 +172,6 @@ ht-degree: 94%
 </table>
 
 * **動的チャットの追加のデータタイプをサポート**：3 つの新しいデータタイプ（ブーリアン、整数、浮動少数）を使用すると、スコアに基づくターゲティングや、訪問者に「はい／いいえ」回答形式で質問するなど、動的チャットの既存の Marketo Engage フィールドをより活用できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td>該当なし</td>
-  </tr>
-  </tbody>
-</table>
-
-* **動的チャットの予定会議通知**：セールス担当者は、予定された会議に関するメール通知と、訪問者のチャットボットインタラクションに対する関連情報のメール通知を自動化できます。
 
 <table> 
   <tr> 

@@ -3,9 +3,9 @@ unique-page-id: 10100269
 description: カスタムアクティビティの編集 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムアクティビティの編集
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -14,29 +14,29 @@ ht-degree: 100%
 
 作成済みのカスタムアクティビティに変更を加える必要がある場合、手順は以下のとおりです。
 
-1. 「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one-1.png)
+   ![](assets/edit-a-custom-activity-1.png)
 
-1. 「**データベース管理**」で「**カスタムアクティビティ**」をクリックします。
+1. 「**Marketo カスタムアクティビティ**」をクリックします。
 
-   ![](assets/two-1.png)
+   ![](assets/edit-a-custom-activity-2.png)
 
 1. 編集するカスタムアクティビティを選択します。
 
-   ![](assets/three-1.png)
+   ![](assets/edit-a-custom-activity-3.png)
 
 1. 「**カスタムアクティビティのアクション**」をクリックし、「**アクティビティを編集**」を選択します。
 
-   ![](assets/four-1.png)
+   ![](assets/edit-a-custom-activity-4.png)
 
    アクティビティタイプを編集が表示されます。この例では、タイポを修正します。
 
-   ![](assets/five-1.png)
+   ![](assets/edit-a-custom-activity-5.png)
 
 1. 新しい情報を入力し、「**送信**」をクリックします。
 
-   ![](assets/six-1.png)
+   ![](assets/edit-a-custom-activity-6.png)
 
    カスタムアクティビティが編集されました。
 

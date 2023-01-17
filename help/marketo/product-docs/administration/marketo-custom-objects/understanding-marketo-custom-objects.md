@@ -3,10 +3,10 @@ unique-page-id: 10093188
 description: Marketo カスタムオブジェクトについて - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 100%
+source-wordcount: '672'
+ht-degree: 93%
 
 ---
 
@@ -42,15 +42,21 @@ ht-degree: 100%
 
 ## Marketo カスタムオブジェクトへのアクセス {#accessing-marketo-custom-objects}
 
-1. Marketo カスタムオブジェクトを作成または編集するには、「**管理者**」、「**Marketo カスタムオブジェクト**」リンクの順にクリックします。
+1. 「**管理者**」領域に移動します。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 「Marketo カスタムオブジェクト」で、右側にカスタムオブジェクトがすべてリストされますが、表示されるのはメイングリッドに公開されたオブジェクトだけです。
+1. 「**Marketo カスタムオブジェクト**」をクリックします。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. グリッドには、オブジェクト名、レコード数、フィールド数、最新の更新日時が表示されます。
+1. 「Marketo カスタムオブジェクト」で、右側にカスタムオブジェクトがすべてリストされますが、表示されるのはメイングリッドに公開されたオブジェクトだけです。
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >グリッドには、オブジェクト名、レコード数、フィールド数、最新の更新日時が表示されます。
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ ht-degree: 100%
 
 1. 右のオブジェクト名をクリックすると、詳細ページが開きます。
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## 人物に関連付けられたカスタムオブジェクトの表示 {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ ht-degree: 100%
 
 1. **データベース**&#x200B;に移動します。
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. データベースを開き、「**人物**」タブをクリックします。カスタムオブジェクトに関連付ける人物のレコードをダブルクリックします。
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. リード詳細ページで「**カスタムオブジェクト**」タブをクリックし、ドロップダウンからオブジェクトを選択します。
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. これで、その人物に関連付けられたタイプのカスタムオブジェクトのすべてがリスト表示されます。
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## 企業へのカスタムオブジェクトの使用 {#using-custom-objects-with-companies}
 
@@ -86,7 +92,7 @@ ht-degree: 100%
 
 Marketo に複数の人物が設定されていて、それが CRM のレコードまたは Marketo のみのレコードである場合、企業にリンクされているカスタムオブジェクトは、複数の個人レコードには関連付けられません。複数の人物がいる 1 つの企業がサポートされるのは、企業が CRM から同期されるか、API を使用して明示的に企業を作成する場合だけだからです。
 
-カスタムオブジェクトは、1 つのレコードにしか直接リンクできません。つまり、カスタムオブジェクトのタイプが企業フィールドによってリンクされているときには、CRM で連絡先のコンバージョンを使用して、人物レコードを企業に関連付ける必要があるということです。あるいは、Marketo の REST API で企業を管理している場合には、externalCompanyId フィールドを使用して関連付ける必要があります。人物レコードが明示的に企業レコードにリンクされていない場合は、たとえ企業フィールドの値が複数の人によって共有されていても、企業を使用してリンクされているカスタムオブジェクトが 1 つのレコードにリンクされることはまれです。
+カスタムオブジェクトは、1 つのレコードにしか直接リンクできません。つまり、カスタムオブジェクトタイプが会社フィールドによってリンクされる場合、CRM で連絡先コンバージョンを使用するか、Marketoの REST API を使用して会社を管理する場合は externalCompanyId フィールドを使用して、個人レコードを会社に関連付ける必要があります。 人物レコードが明示的に企業レコードにリンクされていない場合は、たとえ企業フィールドの値が複数の人によって共有されていても、企業を使用してリンクされているカスタムオブジェクトが 1 つのレコードにリンクされることはまれです。
 
 詳細については、[カスタムオブジェクトデータのインポート](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)を参照してください。
 
