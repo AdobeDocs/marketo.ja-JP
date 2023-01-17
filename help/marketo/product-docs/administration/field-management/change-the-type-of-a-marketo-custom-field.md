@@ -4,7 +4,7 @@ description: Marketo カスタムフィールドタイプの変更 - Marketo ド
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
