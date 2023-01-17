@@ -6,7 +6,7 @@ exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 
    ![](assets/enable-communication-limits-1.png)
 
-1. クリック **通信制限**.
+1. 「**通信制限**」をクリックします。
 
    ![](assets/enable-communication-limits-2.png)
 

@@ -6,7 +6,7 @@ exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 92%
 
 **Web ページとして表示（テキスト）**
 
-このメールを Web ページとして表示するには、次のアドレスに移動します。
+このメールをウェブページとして閲覧するには、次のアドレスに移動してください:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
 
 これで完了です。
