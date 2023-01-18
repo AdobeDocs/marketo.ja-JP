@@ -3,19 +3,19 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
 source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
-workflow-type: tm+mt
-source-wordcount: '866'
-ht-degree: 65%
+workflow-type: ht
+source-wordcount: '852'
+ht-degree: 100%
 
 ---
 
 # ストリームデザイナー {#stream-designer}
 
-次のものがあります。 _多数の_ ストリームの組み合わせが可能です。 この記事には、マーケターがサイト訪問者に製品に関する質問をする例が含まれています。「はい」の場合、訪問者は予定をスケジュールできます。「いいえ」の場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。無料のPDF 最終的な目標は、予定をスケジュールするか、訪問者の E メールを収集することです。
+_多数の_&#x200B;ストリームの組み合わせが可能です。この記事には、マーケターがサイト訪問者に製品に関する質問をする例が含まれています。「はい」の場合、訪問者は予定をスケジュールできます。「いいえ」の場合、訪問者には、今後の通信用にメーリングリストに参加するオプションが与えられます。また、無料の PDF も提供されます。最終的なゴールは、予定をスケジュールするか、訪問者のメールを収集することです。
 
 >[!PREREQUISITES]
 >
->ドキュメントカードを使用する前に、まず [設定する](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} をAdobeアカウントで使用します。
+>ドキュメントカードを使用する前に、まずアドビアカウントを[設定する](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}必要があります。
 
 ## ストリームデザイナーのカード {#stream-designer-cards}
 
@@ -33,7 +33,7 @@ ht-degree: 65%
  </tr>
  <tr>
   <td><strong>ドキュメント</strong></td>
-  <td>ダイアログにPDFドキュメントを埋め込み、訪問者のドキュメントのエンゲージメントアクティビティ（閲覧されたページ数、ダウンロードされた場合のドキュメントの数、使用された検索語）を追跡できます。</td>
+  <td>ダイアログに PDF ドキュメントを埋め込み、訪問者のドキュメントのエンゲージメントアクティビティ（閲覧されたページ数、ダウンロードされた場合のドキュメントの数、使用された検索語）を追跡できます。</td>
  </tr>
  <tr>
   <td><strong>情報取得</strong></td>
@@ -51,20 +51,20 @@ ht-degree: 65%
 
 ## ストリームデザイナーのアイコン {#stream-designer-icons}
 
-ストリームデザイナーの右上に、いくつかのアイコンが表示されます。 彼らがすることは、次の通りです。
+ストリームデザイナーの右上に、いくつかのアイコンが表示されます。以下に機能を説明します。
 
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>その表示を希望するユーザーの背景にグリッドを追加します</td>
+  <td>表示を希望するユーザの背景にグリッドを追加します</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-2.png"></td>
-  <td>拡大、大きなカードの作成</td>
+  <td>拡大して、大きなカードを作成します</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-3.png"></td>
-  <td>縮小し、小さいカードを作成</td>
+  <td>縮小して、小さいカードを作成します</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-4.png"></td>
@@ -78,7 +78,7 @@ ht-degree: 65%
 
 ## ストリームの作成 {#create-a-stream}
 
-1. [ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}した後で、「**ストリームデザイナー**」タブをクリックします。
+1. [ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}した後で、「**ストリームデザイナー**」タブをクリックします。
 
    ![](assets/stream-designer-6.png)
 
@@ -92,11 +92,11 @@ ht-degree: 65%
 
    >[!TIP]
    >
-   >トークンを使用して、既知のチャット訪問者に対するエクスペリエンスをパーソナライズできます ( 例：こんにちは `{{lead.leadFirstName:""}}`) をクリックします。 右側の中括弧アイコンをクリックし、必要に応じて選択します。 匿名訪問者に何か一般的なものを表示させたい場合は、引用符の間にデフォルト値を追加します ( 例：こんにちは `{{lead.leadFirstName:"there"}}`) をクリックします。
+   >トークンを使用して、既知のチャット訪問者に対するエクスペリエンスをパーソナライズできます（例：こんにちは `{{lead.leadFirstName:""}}` さん）をクリックします。右側の中括弧アイコンをクリックして選択します。匿名訪問者に何か一般的なものを表示させたい場合は、引用符の間にデフォルト値を追加します（例：Hello `{{lead.leadFirstName:"there"}}` ）
 
    >[!NOTE]
    >
-   >「Poke」はデフォルトでオンに設定されており、訪問者がチャットアイコンをクリックしなくてもチャットアイコンの横に開始の質問が表示されます。Poke は会話の最初のカードでのみ利用できます。
+   >Poke はデフォルトでオンに設定されており、訪問者がチャットアイコンをクリックしなくてもチャットアイコンの横に開始の質問が表示されます。Poke は会話の最初のカードでのみ利用できます。
 
 1. ユーザの回答を入力し、「**保存**」をクリックします。
 
@@ -104,7 +104,7 @@ ht-degree: 65%
 
    >[!NOTE]
    >
-   >**保存済みの値を編集** は、質問カードでマッピングされた属性に対して chatbot の訪問者に表示される値とは異なる値をデータベースに格納したい場合のオプションの手順です ( 例：訪問者には「検索エンジン最適化」が表示されます。この値は「SEO」として保存されます )。
+   >**保存済みの値を編集**&#x200B;は、質問カードでマッピングされた属性に対してチャットボットの訪問者に表示する値とは異なる値をデータベースに格納する場合のオプションの手順です（例：訪問者には「検索エンジン最適化」と表示されますが、この値を「SEO」として保存します）。
 
 1. 「はい」の場合は、予定をスケジュールしたいので、下のオプションの予定スケジューラーカードにドラッグします。
 
@@ -132,7 +132,7 @@ ht-degree: 65%
 
    >[!NOTE]
    >
-   >「**回答を追加**」をクリックすると、更に回答を追加できます。
+   >「**回答を追加**」をクリックすると、さらに回答を追加できます。
 
 1. 「はい」の回答の下で、情報キャプチャカードをドラッグして、訪問者のメールを収集できます。
 
@@ -173,11 +173,11 @@ ht-degree: 65%
 
    ![](assets/stream-designer-20.png)
 
-1. 「いいえ」の場合は、必ず回答を追加してください。1 つの選択肢は、メッセージカードを下にドラッグして、「とにかくありがとうございます」と言うことです。 しかし、この例では、代わりに無料のPDF文書を提供します。
+1. 「いいえ」の場合は、必ず回答を追加してください。選択肢の 1 つは、メッセージカードをその下にドラッグして、「ありがとうございました」と表示することです。しかし、この例では、代わりに無料の PDF 文書を提供します。
 
    ![](assets/stream-designer-21.png)
 
-1. この例では、新しいドキュメントを作成します。 名前を入力し、既にホストしているPDFの URL を入力して、「 **保存**.
+1. この例では新規ドキュメントを作成します。名前を入力し、既にホストしている PDF の URL を入力して、「**保存**」をクリックします。
 
    ![](assets/stream-designer-22.png)
 
@@ -191,12 +191,12 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->「公開」をクリックする前に、必ず[ターゲット URL を入力](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}したことを確認してください。
+>「公開」をクリックする前に、必ず[ターゲット URL](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"} を入力したことを確認してください。
 
 >[!MORELIKETHIS]
 >
->* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [ドキュメントカードの使用](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
+>* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [ドキュメントカードの使用](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
 
