@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8817'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -141,7 +141,7 @@ ht-degree: 99%
          + [連結文字列（数式）フィールドの作成と使用](product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md)
          + [カスタムフィールドタイプの用語集](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Marketo でのカスタムフィールドの削除](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
-         + [リストインポートのフィールドエイリアスの編集](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [リストのインポートのフィールドエイリアスの編集](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
          + [すべてのオブジェクトメタデータのエクスポート](product-docs/administration/field-management/export-all-object-metadata.md)
          + [すべての Marketo API フィールド名のリストの書き出し](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [フィールドのデータで使用されるエクスポート](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
@@ -179,7 +179,7 @@ ht-degree: 99%
          + [ユーザの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Adobe ID を使用したユーザログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + 設定 {#settings}
-         + [一括書き出し API 情報](product-docs/administration/settings/bulk-export-api-information.md)
+         + [Bulk Export API 情報](product-docs/administration/settings/bulk-export-api-information.md)
          + [分析用アトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo パスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
          + [パスワードセキュリティ設定の変更](product-docs/administration/settings/change-your-password-security-settings.md)
@@ -1145,7 +1145,7 @@ ht-degree: 99%
             + [Gmail が Sales Connect 署名を取り込まない](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [テンプレートの追加方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [ToutApp Browser 拡張機能のインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
-            + [Gmail からのメール送信方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
+            + [Gmail からメールを送信する方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Gmail から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [セカンダリの Gmail アドレスと Sales Connect の統合の防止](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
             + [Sales Connect プラグインが Gmail に表示されない](product-docs/marketo-sales-connect/email-plugins/gmail/sales-connect-plugin-not-showing-up-in-gmail.md)
@@ -1877,7 +1877,7 @@ ht-degree: 99%
          + [リリースノート：2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [リリースノート：2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [リリースノート：2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [リリースノート：2022 年 10 月](release-notes/previous-releases/2022/release-notes-oct-22.md)
+         + [リリースノート：2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
       + 2021年 {#2021}
          + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
