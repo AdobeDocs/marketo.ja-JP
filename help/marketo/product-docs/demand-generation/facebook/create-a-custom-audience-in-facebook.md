@@ -4,9 +4,9 @@ description: Facebook でのカスタムオーディエンスの作成- Marketo 
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
-workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 77%
+workflow-type: ht
+source-wordcount: '289'
+ht-degree: 100%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 77%
 
 >[!PREREQUISITES]
 >
->* [facebook Custom Audiences を LaunchPoint サービスとして追加する](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} を追加しました。
->* [facebookのカスタムオーディエンスの条件に同意する](https://www.facebook.com/ads/manage/customaudiences/tos.php)facebookアカウント内の {target=&quot;_blank&quot;}。
+>* 管理者セクションで、[Facebook カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}します。
+>* Facebook アカウントで [Facebook のカスタムオーディエンス利用規約を承認します](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}。
 
 
 >[!TIP]
 >
->詳細情報： [facebookのカスタムオーディエンス](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}。
+>詳細については、[Facebook でのカスタムオーディエンス](https://www.facebook.com/help/341425252616329){target="_blank"}を参照してください。
 
 1. オーディエンスを作成するリードを含むスマートリストまたは静的リストを探して選択します。
 
@@ -40,7 +40,7 @@ ht-degree: 77%
 
    >[!IMPORTANT]
    >
-   >facebook API を使用すると、Facebook広告アカウントあたり最大 500 個のカスタムオーディエンスを利用できます。
+   >Facebook API を使用すると、Facebook 広告アカウントあたり最大 500 個のカスタムオーディエンスを利用できます。
 
 1. 「**オーディエンス名**」を入力します。「**更新**」をクリックします。
 
@@ -58,7 +58,7 @@ ht-degree: 77%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   これで完了です。facebookでは、新しいオーディエンスが **Ads Manager** > **オーディエンス**.
+   これで完了です。Facebook では、**広告マネージャ**／**オーディエンス**&#x200B;に新しいオーディエンスが表示されます。
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -68,7 +68,7 @@ ht-degree: 77%
 
    >[!TIP]
    >
-   >詳しくは、 [Marketoのお客様向けのfacebookラーニングパス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}。 Facebook ページの作成から、Marketo の広告ネットワーク統合を使用した Facebook 広告のターゲティングまで、知っておくべきあらゆる情報をカバーしています。
+   >詳細は、[Marketo ユーザ向け Facebook ラーニングパス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}を参照してください。Facebook ページの作成から、Marketo の広告ネットワーク統合を使用した Facebook 広告のターゲティングまで、知っておくべきあらゆる情報をカバーしています。
 
    >[!MORELIKETHIS]
    >
