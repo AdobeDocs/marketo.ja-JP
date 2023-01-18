@@ -1,22 +1,22 @@
 ---
-description: 一括書き出し API 情報 — Marketoドキュメント — 製品ドキュメント
-title: 一括書き出し API 情報
+description: Bulk Export API 情報 - Marketo ドキュメント - 製品ドキュメント
+title: Bulk Export API 情報
 hide: true
 hidefromtoc: true
 source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 12%
+workflow-type: ht
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
-# 一括書き出し API 情報 {#bulk-export-api-information}
+# Bulk Export API 情報 {#bulk-export-api-information}
 
-いくらであるかを確認する方法を学ぶ [一括抽出 API](https://developers.marketo.com/rest-api/bulk-extract/)過去 7 日間で、Marketo Engageインスタンスで {target=&quot;_blank&quot;} の処理能力が引き継がれました。
+過去 7 日間に Marketo Engage インスタンスによって使用された [Bulk Extract API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} の処理能力を確認する方法を説明します。
 
 >[!NOTE]
 >
->追加の容量が必要な場合は、アカウント担当者にお問い合わせください。
+>追加の処理能力が必要な場合は、アカウント担当者にお問い合わせください。
 
 1. 「**管理者**」領域に移動します。
 
@@ -26,7 +26,7 @@ ht-degree: 12%
 
    ![](assets/bulk-export-api-information-2.png)
 
-1. 下にスクロールして、一括書き出し API 情報カードを表示します。 「過去 7 日間」の横の数字をクリックすると、日別/API ユーザーあたりの使用状況が表示されます。
+1. 下にスクロールして、Bulk Export API 情報カードを表示します。「過去 7 日間」の横の数字をクリックすると、日別／API ユーザあたりの使用状況が表示されます。
 
    ![](assets/bulk-export-api-information-3.png)
 
@@ -34,4 +34,4 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Marketo Engageインスタンスの配分は、CST の午前 0 時に毎日リセットされます。
+>Marketo Engage インスタンスの配分は、CST の午前 0 時に毎日リセットされます。
