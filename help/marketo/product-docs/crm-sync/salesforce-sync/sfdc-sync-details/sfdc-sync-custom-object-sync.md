@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953471
-description: SFDC 同期 - カスタムオブジェクトの同期  - Marketo ドキュメント - 製品ドキュメント
+description: SFDC 同期 - カスタムオブジェクトの同期 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
 >[!IMPORTANT]
 >
->Marketo Sync User は、カスタムオブジェクトをリストし、同期を実行するために、カスタムオブジェクトへの読み取りアクセス権が必要です。
+>Marketo 同期ユーザは、カスタムオブジェクトをリストし、同期を実行するために、カスタムオブジェクトへの読み取りアクセス権が必要です。
 
 ## カスタムオブジェクトの有効化  {#enable-custom-object}
 
