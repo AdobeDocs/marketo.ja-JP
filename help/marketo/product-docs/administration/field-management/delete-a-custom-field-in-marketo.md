@@ -4,9 +4,9 @@ description: Marketo でのカスタムフィールドの削除 - Marketo ドキ
 title: Marketo でのカスタムフィールドの削除
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 90%
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. 次をクリック： **フィールドアクション** ドロップダウンして「 」を選択します。 **フィールドを非表示**.
+1. 「**フィールドアクション**」ドロップダウンをクリックして「**フィールドを隠す**」を選択します。
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
