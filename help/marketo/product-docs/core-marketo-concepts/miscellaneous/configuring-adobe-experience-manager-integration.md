@@ -6,15 +6,15 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager 統合の設定 {#configuring-adobe-experience-manager-integration}
 
-Adobe Experience Manager(AEM) を設定して、AEMアセットにアクセスし、選択し、Marketo Engageデザインスタジオに読み込むことができるようにします。
+Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセスして選択し、Marketo Engage デザインスタジオに読み込めるようにします。
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Adobe Experience Manager(AEM) を設定して、AEMアセットにアクセス�
 
 >[!IMPORTANT]
 >
->* この統合は、AEMのオンプレミス実装でのみ機能し、AEM Cloud Service実装ではサポートされません。
+>* この統合は、AEM のオンプレミス実装でのみ機能し、AEM Cloud Service 実装ではサポートされません。
 >
 >* 現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていません。また、SameSite の Cookie 設定によっては、最新バージョンの Chrome では動作しない可能性があります。
 
@@ -31,7 +31,7 @@ Adobe Experience Manager(AEM) を設定して、AEMアセットにアクセス�
 
    ![](assets/one.png)
 
-1. ユーザは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでサインインします。
+1. ユーザは、アドビでログインするか、ローカルでログインできます。この例では、ローカルでログインします。
 
    ![](assets/two.png)
 
