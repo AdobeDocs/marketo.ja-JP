@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
-workflow-type: ht
-source-wordcount: '667'
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
+workflow-type: tm+mt
+source-wordcount: '635'
 ht-degree: 100%
 
 ---
@@ -175,20 +175,6 @@ ht-degree: 100%
 </table>
 
 * **動的チャットの予定会議のメール通知**：エージェントのカレンダーに会議が予約されると、エージェントは、訪問者の動的チャットのエンゲージメントに関する詳細情報を含む、予約に関するメール通知を受け取ります。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **動的チャットのダイアログエンゲージメントレポート**：訪問者タイプやエンゲージメントタイプでフィルタリングする機能など、時間の経過に伴うダイアログのエンゲージメントを把握できます。
 
 <table> 
   <tr> 
