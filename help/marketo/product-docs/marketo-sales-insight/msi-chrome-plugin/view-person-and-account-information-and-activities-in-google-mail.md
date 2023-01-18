@@ -4,9 +4,9 @@ description: Google メールでリードとアカウントの情報とアクテ
 title: Google メールでリードとアカウントの情報とアクティビティを表示
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 source-git-commit: 885957f654a627aeba321934d23c3f3f420aa149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 85%
 
 コンテキスト情報の豊富な Marketo Insights ペインを使って、リードアカウントの情報と最近のアクティビティを確認できます。
 
-このウィンドウは、[ 受信トレイ ] および [ 送信済み ] 項目の通常のGoogleメール読み取りウィンドウに表示され、読んでいるメールを送信した人（または [ 送信済み ] フォルダの項目のメールを送信した人）の情報とアクティビティを示します。
+このペインは、Google メールの受信トレイおよび送信済みの通常の閲覧ウィンドウに表示され、閲覧中のメールの送信元（または、送信済みフォルダーにあるメールの送信先）の情報とアクティビティを示します。
 
 「リードのアクティビティ」タブには、名前、肩書き、写真など、リードに関する関連情報が表示されます。Web ページへの訪問、フォームの入力、リンクのクリック、イベント参加、メールの開封など、メール送信後に発生した最新のアクティビティについても確認できます。
 
 ![](assets/1.png)
 
-「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。同じタブに、アカウントの最新のアクティビティも示されます。アカウントは、リードのドメイン別に識別されます。サブスクリプションにおけるセールスインサイトのユーザーが、既にメールをやり取りしている場合には、アクティビティがリストに表示されます。
+「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。同じタブに、アカウントの最新のアクティビティも示されます。アカウントは、リードのドメイン別に識別されます。サブスクリプションにおけるセールスインサイトのユーザが、既にメールをやり取りしている場合には、アクティビティがリストに表示されます。
 
 ![](assets/2.png)
 
@@ -48,4 +48,4 @@ Marketo アイコンをクリックして、ペインを開きます。
 
 >[!MORELIKETHIS]
 >
->[Google Chrome 用 Marketo Insights の使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Google Chrome への Marketo Insights の使用](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
