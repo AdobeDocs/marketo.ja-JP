@@ -1,9 +1,9 @@
 ---
 description: リリースノート - 2022 年 10 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 10 月
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '600'
 ht-degree: 94%
 
 ---
@@ -179,7 +179,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   </tbody>
