@@ -4,9 +4,9 @@ description: プログラムメンバーカスタムフィールド - Marketo �
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
-workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 88%
+workflow-type: ht
+source-wordcount: '411'
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >プログラムメンバーカスタムフィールドでサポートされている型は、boolean（ブール値）、date（日）、datetime（日時）、float（浮動小数点数）、integer（整数）、string（文字列）、URL です。[フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}。
+   >プログラムメンバーカスタムフィールドでサポートされている型は、boolean（ブール値）、date（日）、datetime（日時）、float（浮動小数点数）、integer（整数）、string（文字列）、URL です。[フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## オブジェクトの詳細 {#object-descriptions}
 
@@ -55,7 +55,7 @@ ht-degree: 88%
 
 ## トリガーとフィルター {#triggers-and-filters}
 
-このプログラム固有のデータは、[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;}や[フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}を使ってスマートリストで活用することができます。
+このプログラム固有のデータは、[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}を使ってスマートリストで活用することができます。
 
 ![](assets/six.png)
 
@@ -63,18 +63,18 @@ ht-degree: 88%
 
 * プログラムメンバーカスタムフィールドは、ローカルアセットでのみ利用可能です。特定のプログラムに結びつけることができないため、デザインスタジオではサポートされていません。
 * プログラムメンバーカスタムフィールドを含むフォーム（またはフォームを持つランディングページ）をデザインスタジオに複製／移動することはできません。
-* [同期可能](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} キャンペーンメンバーカスタムフィールドを含むプログラムメンバーカスタムフィールド。
+* プログラムメンバーカスタムフィールドは、キャンペーンメンバーカスタムフィールドと[同期可能](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}です。
 * プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 * プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
-* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}と [API](https://developers.marketo.com/){target=&quot;_blank&quot;} によるインポートとエクスポートが可能です。エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
-* 2 人のユーザーを結合すると、勝者のプログラムメンバーのカスタムフィールドデータが使用されます。 しかし、勝者に何もない場合は、敗者の値が使用されます。
+* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と {target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} によるインポートとエクスポートが可能です。エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
+* 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 * 「プログラムメンバー情報」フィールドでは、タイプの変更は許可されていません。
 * 「次を含む」スマートリスト制約は、プログラムメンバーのカスタムフィールドではサポートされていません。
 
 >[!MORELIKETHIS]
 >
->* [Marketo でのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Marketo でのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [プログラムメンバーカスタムフィールドの同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+>* [プログラムメンバーカスタムフィールドの同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}
 
