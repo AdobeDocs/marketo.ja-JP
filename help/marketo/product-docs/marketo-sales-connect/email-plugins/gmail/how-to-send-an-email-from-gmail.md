@@ -4,9 +4,9 @@ description: Gmail からメールを送信する方法 - Marketo ドキュメ�
 title: Gmail からメールを送信する方法
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 70%
 
 >[!CAUTION]
 >
->Gmail で「送信を元に戻す」機能を使用すると、Gmail 拡張機能を使用した場合にメールが送信されなくなりますが、Salesforce にアクティビティをログに記録する場合、Web アプリケーションや Salesforce にアクティビティが表示される場合があります。
+>Gmail で「送信を取り消す」機能を使用すると、Gmail 拡張機能を使用した場合にメールが送信されなくなりますが、Salesforce にアクティビティのログを記録する場合、web アプリケーションや Salesforce にアクティビティが表示される場合があります。
 
 1. Gmail で、「**作成**」をクリックします。
 
