@@ -4,7 +4,7 @@ description: カスタムアクティビティの作成 - Marketo ドキュメ�
 title: カスタムアクティビティの作成
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
