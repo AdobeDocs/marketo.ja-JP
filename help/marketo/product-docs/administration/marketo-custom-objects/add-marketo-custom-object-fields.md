@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトフィールドの追加 - Ma
 title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
 ht-degree: 100%
 
