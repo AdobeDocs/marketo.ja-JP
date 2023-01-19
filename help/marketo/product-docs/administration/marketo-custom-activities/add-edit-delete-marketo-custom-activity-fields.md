@@ -4,7 +4,7 @@ description: Marketo のカスタムアクティビティフィールドの追�
 title: Marketo のカスタムアクティビティフィールドの追加／編集／削除
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
 ht-degree: 100%
 
