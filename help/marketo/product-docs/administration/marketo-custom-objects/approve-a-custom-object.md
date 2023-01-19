@@ -3,10 +3,10 @@ unique-page-id: 10094188
 description: カスタムオブジェクトの承認 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '278'
+ht-degree: 97%
 
 ---
 
@@ -18,17 +18,25 @@ ht-degree: 100%
 
 新しいカスタムオブジェクトを作成したら、承認する手順は次のとおりです
 
-1. 管理者で、「**Marketo カスタムオブジェクト**」をクリックして、ドラフト状態のオブジェクトを選択します。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. 「**Marketo カスタムオブジェクト**」をクリックします。
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. ドラフト状態のオブジェクトを選択します。
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. 「**カスタムオブジェクトのアクション**」ドロップダウンをクリックし、「**オブジェクトを承認**」を選択します。
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. ステートが「承認済み」に変わります。
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ ht-degree: 100%
 
 1. 既に承認済みのカスタムオブジェクトを編集すると、ドラフトステートで承認済みが返されます。
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. ドラフトを承認する準備が整ったら、「**カスタムオブジェクトのアクション**」ドロップダウンをクリックして、「**オブジェクトを承認**」を選択します。
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. プレビューには、ドラフトで変更された項目が表示されます。「**承認**」をクリックします。
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)

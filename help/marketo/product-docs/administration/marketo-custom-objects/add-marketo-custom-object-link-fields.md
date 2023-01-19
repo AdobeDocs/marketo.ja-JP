@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Marketo カスタムオブジェクトリンクフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトリンクフィールドの追加
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '599'
 ht-degree: 100%
 
 ---
@@ -21,21 +21,25 @@ ht-degree: 100%
 
 次に、1 対多の構造のカスタムオブジェクトにリンクフィールドを作成する方法を示します。
 
-1. 「**管理者**」をクリックし、「**データベース管理**」で「**Marketo カスタムオブジェクト**」を選択します。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2016-1-18-13-3a25-3a11.png)
+   ![](assets/add-marketo-custom-object-link-fields-1.png)
+
+1. 「**Marketo カスタムオブジェクト**」をクリックします。
+
+   ![](assets/add-marketo-custom-object-link-fields-2.png)
 
 1. リストからカスタムオブジェクトを選択します。
 
-   ![](assets/image2016-1-14-15-3a6-3a2.png)
+   ![](assets/add-marketo-custom-object-link-fields-3.png)
 
 1. 「**フィールド**」タブで、「**新規フィールド**」をクリックします。
 
-   ![](assets/image2015-9-17-14-3a9-3a19.png)
+   ![](assets/add-marketo-custom-object-link-fields-4.png)
 
 1. リンクフィールドに名前を付け、オプションで説明を追加します。必ず「リンク」データタイプを選択してください。
 
-   ![](assets/image2015-10-5-13-3a24-3a57.png)
+   ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
@@ -43,7 +47,7 @@ ht-degree: 100%
 
 1. リンクオブジェクトの対象をリード（個人）か会社かを選択します。
 
-   ![](assets/image2015-10-5-13-3a28-3a1.png)
+   ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
@@ -53,7 +57,7 @@ ht-degree: 100%
 
 1. 新しいフィールドの親として接続するリンクフィールドを選択します。
 
-   ![](assets/image2015-10-5-13-3a30-3a6.png)
+   ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
@@ -61,7 +65,7 @@ ht-degree: 100%
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/image2015-10-5-13-3a34-3a0.png)
+   ![](assets/add-marketo-custom-object-link-fields-8.png)
 
 ## 多対多構造のリンクフィールドの作成 {#create-a-link-field-for-a-many-to-many-structure}
 
@@ -71,21 +75,25 @@ ht-degree: 100%
 >
 >既に中間オブジェクトと、その中間オブジェクトをリンクするカスタムオブジェクトを作成している必要があります。
 
-1. 「**管理者**」をクリックし、「**データベース管理**」で「**Marketo カスタムオブジェクト**」を選択します。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2016-1-18-9-3a8-3a14.png)
+   ![](assets/add-marketo-custom-object-link-fields-9.png)
+
+1. 「**Marketo カスタムオブジェクト**」をクリックします。
+
+   ![](assets/add-marketo-custom-object-link-fields-10.png)
 
 1. フィールドを追加する中間オブジェクトを選択します。
 
-   ![](assets/image2016-1-18-9-3a10-3a29.png)
+   ![](assets/add-marketo-custom-object-link-fields-11.png)
 
 1. 「**フィールド**」タブで、「**新規フィールド**」をクリックします。
 
-   ![](assets/image2016-1-18-9-3a31-3a43.png)
+   ![](assets/add-marketo-custom-object-link-fields-12.png)
 
 1. 2 つのリンクフィールドを作成する必要があります。一度に 1 つずつ作成します。まず、データベースリストのメンバーのフィールドに名前を付けます（例：leadID）。オプションで説明を追加します。必ず「リンク」データタイプを選択してください。
 
-   ![](assets/image2016-1-18-9-3a38-3a59.png)
+   ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
@@ -93,11 +101,11 @@ ht-degree: 100%
 
 1. データベースからリンクオブジェクト（この場合は「リード」）を選択します。
 
-   ![](assets/image2016-1-18-9-3a50-3a48.png)
+   ![](assets/add-marketo-custom-object-link-fields-14.png)
 
 1. 接続するリンクフィールド（この場合は ID）を選択します。
 
-   ![](assets/image2016-1-18-9-3a53-3a54.png)
+   ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
@@ -105,11 +113,11 @@ ht-degree: 100%
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/image2016-1-18-9-3a55-3a18.png)
+   ![](assets/add-marketo-custom-object-link-fields-16.png)
 
 1. カスタムオブジェクトへの 2 番目のリンク（この例では courseID）に対して、この手順を繰り返します。「リンクオブジェクト名」は「コース」、「リンクフィールド」は「courseID」になります。既にコースのカスタムオブジェクトを作成し承認しているので、これらの選択はドロップダウンメニューで使用できます。
 
-   ![](assets/image2016-1-18-9-3a57-3a46.png)
+   ![](assets/add-marketo-custom-object-link-fields-17.png)
 
 1. 「enrollmentID」や「成績」など、中間オブジェクトで使用するその他のフィールドを作成します。
 
@@ -117,7 +125,7 @@ ht-degree: 100%
 
 次の手順では、スマートキャンペーンのフィルターでこれらのカスタムオブジェクトを使用します。多対多の関係では、複数の人／会社および複数のカスタムオブジェクトを選択できます。以下の例では、データベース内でこれらの条件に一致する人がすべて表示されます。「コース名」フィールドはコースカスタムオブジェクトから、「登録成績」は中間オブジェクトから取得されます。
 
-![](assets/image2016-1-14-15-3a57-3a59.png)
+![](assets/add-marketo-custom-object-link-fields-18.png)
 
 >[!MORELIKETHIS]
 >
