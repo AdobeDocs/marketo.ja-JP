@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトリンクフィールドの�
 title: Marketo カスタムオブジェクトリンクフィールドの追加
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '599'
 ht-degree: 100%
 
