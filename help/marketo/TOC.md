@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
-workflow-type: ht
-source-wordcount: '8817'
-ht-degree: 100%
+source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
+workflow-type: tm+mt
+source-wordcount: '8822'
+ht-degree: 99%
 
 ---
 
@@ -657,6 +657,8 @@ ht-degree: 100%
                + [ON24 イベント統合のテスト](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Marketo ON24 アダプターイベントについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [ウェビナープログラムのステータスについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+         + インタラクティブ Web セミナー {#interactive-webinars}
+            + [インタラクティブウェビナーの概要](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
       + Facebook {#facebook}
          + [Facebook でのカスタムオーディエンスへのリードの追加](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
