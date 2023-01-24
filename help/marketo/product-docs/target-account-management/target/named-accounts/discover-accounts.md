@@ -4,7 +4,7 @@ description: 顧客の選択 - Marketo ドキュメント - 製品ドキュメ�
 title: 顧客の選択
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
 ht-degree: 100%
 
@@ -75,6 +75,7 @@ CRM からターゲットとなる可能性のある顧客を特定します。
    >* ほとんどのインターネットサービスプロバイダーとパブリックドメイン（yahoo.com、gmail.com など）を会社名として除外します
    >
    >* CRM アカウントを重複排除します。1 つのレコードに「Acme」と「Acme Inc」（または Co、Corp、Corporation、Gmbh、Inc,、Incorporated、LLC、LLP、Ltd、PA、PC、PLLC、PLLC のサフィックスのいずれかが含まれる場合），TAM に単に「Acme」として統合します
+
    >
    >会社名ではなく CRM ID または顧客所有者で顧客の重複除外をおこないたい場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
@@ -110,7 +111,7 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 >
 >選択した CRM アカウントと「CRM 内の顧客から選択」グリッドにある CRM 顧客の間に不一致がある場合は、次の 1 つ以上が原因である可能性があります。
 >
->* 同様の名前を持つ異なる CRM 個王座が重複解除された
+>* 同様の名前を持つ異なる CRM アカウントが重複解除された
 >* 次のスケジュールされた同期がまだ実行されていない
 
 
