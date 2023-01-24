@@ -2,7 +2,7 @@
 description: Bulk Export API 情報 - Marketo ドキュメント - 製品ドキュメント
 title: Bulk Export API 情報
 source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

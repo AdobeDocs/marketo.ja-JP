@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
-workflow-type: ht
-source-wordcount: '635'
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+workflow-type: tm+mt
+source-wordcount: '636'
 ht-degree: 100%
 
 ---
@@ -104,8 +104,8 @@ ht-degree: 100%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API 情報</a></td>
   </tr>
   </tbody>
 </table>
