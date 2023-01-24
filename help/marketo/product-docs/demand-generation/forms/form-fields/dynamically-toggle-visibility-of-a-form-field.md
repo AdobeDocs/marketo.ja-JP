@@ -3,10 +3,10 @@ unique-page-id: 2949962
 description: フォームフィールドの表示設定を動的に切り替える — Marketo ドキュメント — 製品ドキュメント
 title: フォームフィールドの表示設定を動的に切り替える
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 81%
 
 ---
 
@@ -66,3 +66,9 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 これで手順は完了です。訪問者がこのフィールドに入力し、「国」で「米国」を選択すると、選択肢が指定された状態で「州」フィールドが動的に表示されます。
+
+>[!IMPORTANT]
+>
+>カスタムスクリプトを使用してフィールド値が設定/更新された場合、フォームフィールドの動作はシームレスに機能します。 [API 関数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} Forms 2.0 のバージョン。
+>
+>Forms 2.0 JavaScript API 以外の外部スクリプトでフィールドの値が変更されると、条件付きフィールドが期待どおりに動作しない場合があります。
