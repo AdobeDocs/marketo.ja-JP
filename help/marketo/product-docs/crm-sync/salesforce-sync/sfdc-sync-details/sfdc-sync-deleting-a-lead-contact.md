@@ -4,7 +4,7 @@ description: SFDC 同期 - リード／取引先責任者の削除 - Marketo ド
 title: SFDC 同期 - リード／取引先責任者の削除
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 
