@@ -2,10 +2,10 @@
 description: キャンペーンの実行 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 100%
+source-wordcount: '708'
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 また、別のフローを実行する必要がある場合にも使用できますが、後続のフローステップを選択（この場合は、これを実行）するときに、そのフローの結果に依存する必要があります。
 
-実行キャンペーンは、[リクエストキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)を改良したもので、直列または並列に実行できるのに対し、後者は並列にしか実行できません。
+キャンペーンの実行は、次の点で改善されています： [キャンペーンをリクエスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)と呼ばれ、同時に実行されるのに対して、後者は同時に実行されるだけです。
 
 >[!NOTE]
 >
