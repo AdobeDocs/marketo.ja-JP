@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -188,6 +188,8 @@ ht-degree: 97%
   </tbody>
 </table>
 
-**_製品リリースウェビナー_**
+## お知らせ {#announcements}
 
-[2022 年 10 月および 2023 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Marketo REST API の変更**:2022 年 10 月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。 こちらをご覧ください [Marketo Nation 投稿](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 」を参照してください。
+
+* **_製品リリースウェビナー_**: [2022 年 10 月および 2023 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
