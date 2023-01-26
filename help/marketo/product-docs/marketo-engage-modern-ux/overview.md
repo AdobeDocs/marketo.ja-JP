@@ -2,9 +2,9 @@
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '486'
 ht-degree: 100%
 
 ---
@@ -30,8 +30,6 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 
 ツアーでは、知る必要のあるすべての情報をご紹介します。
 
-![](assets/overview-2.png)
-
 ## 新着情報 {#whats-new}
 
 この最新 UX には多くの新機能があり、それらすべてがマーケティングエクスペリエンスを大幅に改善するように設計されています。
@@ -40,7 +38,7 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 
 この新しいインターフェイスは、図像学的に改善され、拡張されています。詳しくは、[アイコン用語集](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md)を参照してください。
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **グローバルナビゲーション**
 
@@ -191,15 +189,12 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
    <td>すべての前のスーパーボール項目をリスト表示</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>これを使用して、 の体験に関するフィードバックを提供</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>複数の購読がある場合は、サブ名をクリックして別の購読に簡単に切り替え</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>グローバル検索 - ここからインスタンス全体を検索できるようになりました</td> 
   </tr>
  </tbody>
