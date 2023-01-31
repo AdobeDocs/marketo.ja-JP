@@ -3,7 +3,7 @@ unique-page-id: 9437903
 description: カスタム Dynamics 同期フィルターの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタム Dynamics 同期フィルターの作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ed4699ea4a94c787b8af109599f2a0c50591b956
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 100%
