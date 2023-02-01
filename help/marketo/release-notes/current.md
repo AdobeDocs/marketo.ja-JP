@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '631'
+ht-degree: 92%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 0%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
 </table>
