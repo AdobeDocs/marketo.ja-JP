@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 99%
 
 ---
@@ -1675,7 +1675,6 @@ ht-degree: 99%
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [パフォーマンスインサイトのトレンドの概要](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [カスタムフィールドをパフォーマンスインサイトに同期](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + 売上高サイクル分析 {#revenue-cycle-analytics}
          + メール分析 {#email-analysis}
             + [リードを一覧表示するメール分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
