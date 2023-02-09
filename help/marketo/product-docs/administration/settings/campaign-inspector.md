@@ -1,7 +1,7 @@
 ---
 description: キャンペーンインスペクター — Marketoドキュメント — 製品ドキュメント
 title: キャンペーンインスペクター
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 9%
@@ -12,7 +12,7 @@ ht-degree: 9%
 
 キャンペーンインスペクターを使用して、すべてのスマートキャンペーンを 1 か所で表示/検索できます。
 
-## キャンペーンインスペクターを有効化 {#activate-campaign-inspector}
+## キャンペーンインスペクタを有効にする {#enable-campaign-inspector}
 
 1. 「**管理者**」領域に移動します。
 
