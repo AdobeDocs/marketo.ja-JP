@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
+source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 99%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 99%
          + [MarketoサブスクリプションとAdobe Admin Consoleへのユーザーの移行について](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 設定 {#settings}
          + [Bulk Export API 情報](product-docs/administration/settings/bulk-export-api-information.md)
+         + [キャンペーンインスペクター](product-docs/administration/settings/campaign-inspector.md)
          + [分析用アトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo パスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
          + [パスワードセキュリティ設定の変更](product-docs/administration/settings/change-your-password-security-settings.md)
