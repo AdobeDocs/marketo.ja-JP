@@ -1,10 +1,10 @@
 ---
 description: キャンペーンインスペクター — Marketoドキュメント — 製品ドキュメント
 title: キャンペーンインスペクター
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 7%
 
 ---
 
@@ -29,6 +29,10 @@ ht-degree: 9%
 1. を選択します。 **有効** チェックボックスをオンにして「 」をクリックします。 **保存**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >有効にした後で「キャンペーンインスペクター」タブを表示するには、ツリーで目的のワークスペースを選択する必要があります。
 
 ## キャンペーンインスペクターの使用 {#using-campaign-inspector}
 
