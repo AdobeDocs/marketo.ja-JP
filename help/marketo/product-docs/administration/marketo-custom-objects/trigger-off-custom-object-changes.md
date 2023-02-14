@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: カスタムオブジェクトの変更のトリガー- Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
@@ -30,27 +30,27 @@ ht-degree: 100%
 
 1. Marketo で、「**マーケティング活動**」に移動します。
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. 既存のスマートキャンペーンを作成するか開いて、「スマートリスト」を選択します。
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. 必要なトリガーを検索し、キャンバスにドラッグします。
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. 「トリガー」属性を選択します。
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. オプションで、制約を設定します。
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. これで完了です。変更は自動的に保存されます。
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
