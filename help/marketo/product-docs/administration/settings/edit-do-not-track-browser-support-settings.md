@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: 「トラックしない」ブラウザーのサポート設定の編集 - Marketo ドキュメント - 製品ドキュメント
 title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
@@ -24,23 +24,23 @@ ht-degree: 100%
 
 1. 「**管理者**」をクリックします。
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. 「**Munchkin**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. 「**人物のトラッキング**」をクリックし、「**編集**」をクリックします。
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. 「**サポート**」を選択して、「**保存**」をクリックします。
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    変更を保存すると、更新が表示されます。
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

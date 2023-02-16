@@ -3,9 +3,9 @@ unique-page-id: 2360305
 description: ユーザーの詳細ページ用のカスタムタブの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの詳細ページ用のカスタムタブの作成
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -14,21 +14,25 @@ ht-degree: 100%
 
 人物の詳細の特定のフィールドセットを何度も繰り返し探している場合は、状況をより簡単にするために、カスタムレイアウトの作成を検討してください。
 
-1. 「**管理者**」に移動し、「**フィールド管理**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-16-16-3a41-3a41.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
+
+1. 「**フィールド管理**」をクリックします。
+
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
 1. 「**カスタムレイアウトデザイナー**」タブをクリックします。
 
-   ![](assets/image2014-9-16-16-3a41-3a55.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
 1. 追加するフィールドを見つけ、キャンバスにドラッグ＆ドロップします。
 
-   ![](assets/three-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
 1. 目的のレイアウトになるまで、引き続きフィールドを追加します。
 
-   ![](assets/image2014-9-16-16-3a42-3a25.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
@@ -36,8 +40,8 @@ ht-degree: 100%
 
    フィールドを削除する場合は、削除するフィールドを右クリックし、「**削除**」をクリックします。
 
-   ![](assets/image2014-9-16-16-3a43-3a56.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
    素晴らしいです。これで、人物の詳細を読み込む際に、カスタムレイアウトを使用して、重要な情報にアクセスできます。
 
-   ![](assets/six-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)
