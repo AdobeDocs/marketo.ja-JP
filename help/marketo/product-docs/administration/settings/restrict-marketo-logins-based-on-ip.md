@@ -3,9 +3,9 @@ unique-page-id: 2360297
 description: IP に基づく Marketo ログインの制限 - Marketo ドキュメント - 製品ドキュメント
 title: IP に基づく Marketo ログインの制限
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 100%
 
 ---
@@ -22,13 +22,17 @@ IP アドレスに基づいて、ユーザーの Marketo へのアクセスを�
 >
 >この記事の情報は、login.marketo.com での直接ログインにのみ適用されます。現時点では、シングルサインオン（SSO）ログインに IP 制限を適用することはできません。
 
-1. 「**管理者**」で「**ログイン設定**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. 「**ログイン設定**」をクリックします。
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. 「**IP 制限を編集**」をクリックします。
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. 特定のアドレスを「**許可**」するまたは「**ブロック**」するかを選択し、「**保存**」をクリックします。
 
@@ -45,6 +49,6 @@ IP アドレスに基づいて、ユーザーの Marketo へのアクセスを�
    >
    >複数の制限を追加できますが、すべて許可されるか、すべてブロックされるかのいずれかとなります。許可済みとブロック済みを混在させて適合させることはできません。
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    これで、マーケティングデータの安全性が今まで以上に向上しました。

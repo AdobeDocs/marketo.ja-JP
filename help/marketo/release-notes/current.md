@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '630'
 ht-degree: 91%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 91%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   </tbody>
 </table>

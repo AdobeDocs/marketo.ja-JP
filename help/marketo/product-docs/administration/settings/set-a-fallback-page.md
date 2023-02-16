@@ -3,9 +3,9 @@ unique-page-id: 2359920
 description: フォールバックページの設定 - Marketo ドキュメント - 製品ドキュメント
 title: フォールバックページの設定
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
@@ -18,16 +18,20 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」で「**ランディングページ**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-10-12-3a7-3a22.png)
+   ![](assets/set-a-fallback-page-1.png)
+
+1. 「**ランディングページ**」をクリックします。
+
+   ![](assets/set-a-fallback-page-2.png)
 
 1. 「**ランディングページ**」タブで、「**編集**」ボタンをクリックします。
 
-   ![](assets/image2014-9-10-12-3a7-3a5.png)
+   ![](assets/set-a-fallback-page-3.png)
 
 1. ダイアログボックスに、**フォールバックページ**&#x200B;を入力し、「**保存**」をクリックします。
 
-   ![](assets/image2014-9-10-12-3a6-3a2.png)
+   ![](assets/set-a-fallback-page-4.png)
 
 これで完成です。フォールバックページが追加されました。今後、404 ページは表示されません。

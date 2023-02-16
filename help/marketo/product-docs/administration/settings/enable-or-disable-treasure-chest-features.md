@@ -3,10 +3,10 @@ unique-page-id: 2360307
 description: アイデアスペースの機能を有効または無効にする - Marketo ドキュメント - 製品ドキュメント
 title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 96%
 
 ---
 
@@ -18,17 +18,21 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」で「**アイデアスペース**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-16-17-3a0-3a36.png)
+   ![](assets/enable-or-disable-treasure-chest-features-1.png)
+
+1. クリック **宝箱**.
+
+   ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
 1. 有効または無効にする機能の「**編集**」をクリックします。
 
-   ![](assets/image2014-9-16-16-3a53-3a42.png)
+   ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
 1. 有効にする場合は「**有効化**」ボックスにチェックをつけ、無効にする場合はチェックを外してます。その後、「**保存**」をクリックします。
 
-   ![](assets/image2014-9-16-16-3a53-3a53.png)
+   ![](assets/enable-or-disable-treasure-chest-features-4.png)
 
    >[!TIP]
    >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '8828'
+source-wordcount: '8827'
 ht-degree: 99%
 
 ---
@@ -194,7 +194,7 @@ ht-degree: 99%
          + [メールトラッキングリンクのヘッダー](product-docs/administration/settings/email-tracking-link-headers.md)
          + [サブスクリプションの編集](product-docs/administration/settings/edit-subscription-settings.md)
          + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
-         + [アカウントでパーソナライズ URL を有効にする（管理)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [アカウントでパーソナライズ URL を有効にする](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [グローバルフォーム検証ルール](product-docs/administration/settings/global-form-validation-rules.md)
          + [ランディングページのヘッダー](product-docs/administration/settings/landing-page-headers.md)
          + [IP に基づく Marketo ログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)

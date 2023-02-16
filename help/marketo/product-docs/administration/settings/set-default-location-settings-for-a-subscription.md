@@ -3,10 +3,10 @@ unique-page-id: 2359902
 description: サブスクリプションのデフォルトの場所の設定 - Marketo ドキュメント - 製品ドキュメント
 title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 100%
+source-wordcount: '249'
+ht-degree: 92%
 
 ---
 
@@ -22,23 +22,27 @@ ht-degree: 100%
 
 管理者がデフォルトの場所の設定を変更すると、新しく作成されたユーザーはこれらの設定を継承します。ユーザーはいつでも個々のアカウントで、[言語、ロケール、タイムゾーンの環境設定を変更する](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)ことができます。
 
-1. 「**管理者**」で「**場所**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. クリック **場所**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. 「**編集**」をクリックします。
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
-   このサブスクリプションは英語で作成されました。例えば、ロンドンにいるとして、デフォルトのロケールとタイムゾーンを変更するとします。ロケールによって、数値、日付、時刻の書式が決まります。
+   このサブスクリプションは英語で作成されました。例えば、ロンドンにいたときに、デフォルトのロケールとタイムゾーンを変更したいとします。 ロケールによって、数値、日付、時刻の書式が決まります。
 
 1. 「**ロケール**」を選択して、「**英語**（英国）」に変更します。
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. 最後に、適切な「**タイムゾーン**」を選択します。
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ ht-degree: 100%
 
 1. 「サブスクリプション通貨の設定」で、「**編集**」をクリックします。
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. 通貨形式を選択し、「**保存**」をクリックします。
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    これで完了です。サブスクリプションの場所の設定を変更しました。
 
