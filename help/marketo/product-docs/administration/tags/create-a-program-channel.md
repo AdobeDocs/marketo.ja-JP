@@ -3,10 +3,10 @@ unique-page-id: 2950682
 description: プログラムチャネルの作成 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムチャネルの作成
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 100%
+source-wordcount: '428'
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,13 @@ ht-degree: 100%
 >
 >Marketo で最も重要な要素、[プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)について詳しく説明します。
 
-1. 「**管理**」セクションで「**編集**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. 「**タグ**」をクリックします。
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ ht-degree: 100%
 
 1. **チャネル**&#x200B;の横の&#x200B;**+**&#x200B;記号をクリックして、既存のチャネルを展開して表示します。
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. 「**新規作成**」で「**新規チャネル**」をクリックします。
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -47,18 +51,20 @@ ht-degree: 100%
    >* 適用先：デフォルト
    >* 進行状況：メンバー、エンゲージ済み（不確かな場合は、これらで十分です）
    >* 成功：エンゲージ済み
+
    >
    >チャネル：パーティ
    >
    >* 適用先：イベント
    >* 進行状況：招待済み、登録済み、不参加、出席済み
    >* 成功：出席済み
+
    >
    >既存チャネルの進行状況を確認して、使用方法を確認してください。
 
 1. パーティチャネルの例に進みます。新しい&#x200B;**チャネル**&#x200B;に名前を付けて、適用するプログラムタイプを選択します。
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -68,12 +74,13 @@ ht-degree: 100%
    >
    >「ウェビナーのイベント」を使用する場合、システムマッピングは（ウェビナー統合の要件に応じて）ロックされ、編集できなくなります。
 
-   最初の 2 つのプログラムのステータス名を入力し、「ステップを追加」をクリックします。
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. 最初の 2 つのプログラムステータス名を入力し、 **ステップを追加**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. 別のプログラム&#x200B;**ステータス**&#x200B;と&#x200B;**手順**&#x200B;番号を入力し、「**ステップを追加**」をクリックします。
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -81,7 +88,7 @@ ht-degree: 100%
 
 1. 最後のプログラム&#x200B;**ステータス**&#x200B;と&#x200B;**手順**&#x200B;番号を入力します。
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -89,11 +96,11 @@ ht-degree: 100%
 
 1. **登録済み**&#x200B;用に、**モバイルのチェックインステータス**&#x200B;を選択します。
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. **出席済み**&#x200B;用に、**モバイルのチェックインステータス**&#x200B;を選択します。
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -109,6 +116,6 @@ ht-degree: 100%
 
 1. 「**成功**」プログラムステータスを選択し、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    これで完了です。このタイプの新しいプログラムを作成する場合、この新しいチャネルは選択肢の 1 つになります。
