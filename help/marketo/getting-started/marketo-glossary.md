@@ -3,10 +3,10 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
-ht-degree: 96%
+ht-degree: 93%
 
 ---
 
@@ -98,7 +98,7 @@ ht-degree: 96%
   </tr> 
   <tr> 
    <td colspan="1"><strong>行動スコア</strong></td> 
-   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。通常、製品や企業に対する人物の関心を測定するために使用されます。</td> 
+   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。通常は、製品または会社に対する人の関心を測定するために使用されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ブロックリスト</strong></td> 
@@ -171,7 +171,7 @@ ht-degree: 96%
    <td colspan="1">Marketo では、インスタンス内で複数の異なるタイプのエンティティを複製できます。<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">プログラム</a>、<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">プログラム内のアセット</a>、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ストリーム</a>などを複製できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL の前の部分。1 つの単語（プラス YourCompany.com）が CNAME と呼ばれます（例：<em>info</em>.YourCompany.com/）。</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ ht-degree: 96%
   </tr> 
   <tr> 
    <td colspan="1"><strong>到達率</strong></td> 
-   <td colspan="1">メールメッセージが目的の受信者の受信トレイに到達する能力で、<strong>スパム</strong>およびクライアントサイドフィルターの影響を受ける可能性があります。メールが受信者サーバーに引き渡されたことのみを示す「配信済み」とは異なります。</td> 
+   <td colspan="1">電子メールメッセージが目的の受信者の受信ボックスに到達する機能 ( <strong>スパム</strong> およびクライアント側フィルター 「配信済み」とは異なり、E メールが受信者サーバーに渡されたことを示します。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>需要創出</strong></td> 
@@ -260,7 +260,7 @@ ht-degree: 96%
   </tr> 
   <tr> 
    <td colspan="1"><strong>デモグラフィックスコア</strong></td> 
-   <td colspan="1">役職、売上規模、対象業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常、製品や企業に対する人物の適合性を測定するために使用されます。 </td> 
+   <td colspan="1">役職、売上規模、対象業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常は、製品や会社に対する人物の適合度を測定するために使用されます。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>デザインスタジオ</strong></td> 
@@ -276,11 +276,11 @@ ht-degree: 96%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a>（DKIM）</strong></td> 
-   <td colspan="1">送信ドメインを保護し、送信者が送信元アドレスのドメイン名を特定のメールメッセージと関連付けることを可能にする認証メカニズム。これにより、受信者は、そのメールがドメインの所有者によって正当に送信されたものであることを知ることができます。送信者は、メッセージヘッダーに電子署名を使用してメールに署名します。受信者は、ドメインの所有者が DNS で公開している公開鍵を使用してその署名を復号し、そのメールがドメインの所有者によって正当に送信されたものであることを確認できます。</td> 
+   <td colspan="1">送信ドメインを保護し、送信者が送信元アドレスのドメイン名を特定のメールメッセージと関連付けることを可能にする認証メカニズム。これにより、受信者は、E メールがドメインの所有者によって正当に送信されたことを知ることができます。 送信者は、メッセージヘッダーに電子署名を使用してメールに署名します。受信者は、ドメインの所有者が DNS で公開した公開鍵を使用して、その署名を復号化し、ドメインの所有者がメールを正当に送信したかを確認できます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>下書き</strong></td> 
-   <td colspan="1"><p>まだ<strong>承認</strong>されていない<strong>メール</strong>または<strong>ランディングページ</strong>。下書きは、承認されるまで、公開できません。下書きをテストメール（サンプル）として送信することはできますが、分析は記録されません。 <br></p></td> 
+   <td colspan="1"><p>An <strong>電子メール</strong> または <strong>ランディングページ</strong> まだ <strong>承認済み</strong> まだ。 下書きは、承認されるまで、公開できません。下書きをテストメール（サンプル）として送信することはできますが、分析は記録されません。 <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドリップキャンペーン</strong></td> 
@@ -696,7 +696,7 @@ ht-degree: 96%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>評判</strong></td> 
-   <td colspan="1"><p>様々なシグナルやデータポイントで構成された、経時的なパフォーマンスのスコア。評判は、送信者のドメイン、<strong>コンテンツ</strong>または IP アドレスに関連付けられ、<strong>到達率</strong>に影響します。</p></td> 
+   <td colspan="1"><p>様々なシグナルやデータポイントで構成された、経時的なパフォーマンスのスコア。レピュテーションは送信者のドメインに結び付けることができます。 <strong>コンテンツ</strong>、または IP アドレス、および影響 <strong>配信品質</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>リターンパスアドレス</strong></td> 
