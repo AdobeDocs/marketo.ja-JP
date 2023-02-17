@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: プログラムチャネルの表示設定を切り替える - Marketo ドキュメント - 製品ドキュメント
 title: プログラムチャネルの表示設定を切り替える
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -20,17 +20,21 @@ ht-degree: 100%
 
 ## プログラムチャネルを非表示にする {#hide-a-program-channel}
 
-1. 「**管理者**」で、「**タグ**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. 「**タグ**」をクリックします。
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. 「**チャネル**」ドロップダウンをクリックし、非表示にする「**チャネル**」を選択します。
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. 「**タグアクション**」で「**非表示**」をクリックします。
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 簡単ですね。
 
@@ -38,4 +42,4 @@ ht-degree: 100%
 
 1. プログラムチャネルを再表示するには、「非表示項目の表示」チェックボックスにチェックを入れます。
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
