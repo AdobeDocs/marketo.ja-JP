@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: API 専用ユーザーの役割の作成 - Marketo ドキュメント - 製品ドキュメント
 title: API 専用ユーザーの役割の作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/adminhand-1.png)
+   ![](assets/create-an-api-only-user-role-1.png)
 
-1. 「セキュリティ」で「**ユーザーと役割**」をクリックします。
+1. 「**ユーザ＆ロール**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/create-an-api-only-user-role-2.png)
 
 1. 「**役割**」タブをクリックしてから、「**新規の役割**」をクリックします。
 
-   ![](assets/image2014-9-16-13-3a47-3a12.png)
+   ![](assets/create-an-api-only-user-role-3.png)
 
 1. 「役割名」を入力し、付与する API 権限を「権限」から選択して、「**作成**」をクリックします。
 
-   ![](assets/image2014-9-16-13-3a47-3a36.png)
+   ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >
