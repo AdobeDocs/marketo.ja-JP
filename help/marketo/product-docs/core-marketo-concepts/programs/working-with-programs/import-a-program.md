@@ -4,7 +4,7 @@ description: プログラムのインポート - Marketo ドキュメント - �
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '519'
 ht-degree: 100%
 
