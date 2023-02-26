@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトフィールドの編集と�
 title: Marketo カスタムオブジェクトフィールドの編集と削除
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
