@@ -4,7 +4,7 @@ description: API 専用ユーザーの作成 - Marketo ドキュメント - 製�
 title: API 専用ユーザーの作成
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
 ht-degree: 100%
 
