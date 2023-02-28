@@ -2,7 +2,7 @@
 description: ローカルアセットの有効期限 - Marketo ドキュメント - 製品ドキュメント
 title: ローカルアセットの有効期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 時間を設定します。20 分以上後にスケジュールを設定する必要があります（午前または午後を入力することを忘れないでください）。終了したら「**[!UICONTROL 確認]**」をクリックします。
+1. 時間を設定します。15 分以上後にスケジュールを設定する必要があります（午前または午後を入力することを忘れないでください）。終了したら「**[!UICONTROL 確認]**」をクリックします。
 
    ![](assets/local-asset-expiration-7.png)
 

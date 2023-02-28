@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: プログラムの複製 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムの複製
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '217'
 ht-degree: 100%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 100%
 # プログラムの複製 {#clone-a-program}
 
 プログラム全体とそのアセットすべてを手軽に素早く複製します。一から構築しなおす必要はありません。
-
->[!PREREQUISITES]
->
->進む前に、[複製アセットの破損を回避するためのベストプラクティス](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729)について学びます。
 
 1. 複製するプログラムを選択して、「**プログラムアクション**」から「**複製**」をクリックします。
 
