@@ -2,10 +2,10 @@
 description: 製品の使用制限 - Marketo ドキュメント - 製品ドキュメント
 title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
+source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 97%
 
 ---
 
@@ -80,6 +80,11 @@ Sales Insight Actions で使用可能な拡張セールスエンゲージメン�
   <td>グループ</td>
   <td>ユーザごと</td>
   <td>50</td>
+ </tr>
+ <tr>
+  <td>グループごとの担当者</td>
+  <td>グループごと</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>添付ファイルアップロード</td>
