@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: Marketo ユーザーの管理 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 100%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 100%
 
 ## ユーザーを作成する {#create-users}
 
-1. 「**管理者**」に移動して、「**ユーザーと役割**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
 
-1. 「**新しいユーザーを招待**」をクリックします。
+1. 「**ユーザ＆ロール**」をクリックします。
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-2.png)
+
+1. 「**新しいユーザを招待**」をクリックします。
+
+   ![](assets/managing-marketo-users-3.png)
 
 1. **電子メールアドレス**、**名**、**姓**&#x200B;を入力します。
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. 必要に応じて、招待の理由を入力し、日付選択を使用して「**アクセス有効期限**」フィールドで有効期限を選択します。
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. 「**次へ**」をクリックします。
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 100%
 
 1. 任意の「**役割**」を選択し、「**次へ**」をクリックします。
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. 必要に応じて、招待メッセージを編集します。「**送信**」をクリックします。
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >メール（ログイン名）は一意でなくてはなりません。サンドボックスで既に使用されている場合、本番環境では別のメールアドレスが必要になります。その逆も同様です。
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ ht-degree: 100%
 
 ## ユーザーを削除する {#delete-users}
 
-1. 「管理者」に移動して、「**ユーザーと役割**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. 「**ユーザ＆ロール**」をクリックします。
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. 削除するユーザーを選択し、「**ユーザーの削除**」をクリックします。
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. 「**OK**」をクリックして確認します。
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## ユーザーのパスワードをリセットする {#reset-user-passwords}
 
-1. 「管理者」に移動して、「**ユーザーと役割**」をクリックします。
+1. 「管理者」領域に移動します。
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. 「**ユーザ＆ロール**」をクリックします。
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. ユーザーを選択して「**パスワードのリセット**」をクリックします。
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. 「**閉じる**」をクリックして、プロンプトを閉じます。
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 パスワードのリセット手順を記したメールがユーザーに送信されます。
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ ht-degree: 100%
 
 ## 権限の変更とユーザー情報の編集 {#change-permissions-and-edit-user-information}
 
-1. 「**管理者**」に移動して、「**ユーザーと役割**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. 「**ユーザ＆ロール**」をクリックします。
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. ユーザーを選択して「**ユーザの編集**」をクリックします。
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. ユーザーの情報を編集して関連する役割を変更できます。「**保存**」をクリックします。
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

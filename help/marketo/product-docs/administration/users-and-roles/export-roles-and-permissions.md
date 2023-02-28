@@ -2,9 +2,9 @@
 description: 役割と権限のエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: 役割と権限のエクスポート
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 >
 >管理者権限が必要
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. 「**管理者**」領域に移動します。
 
    ![](assets/export-roles-and-permissions-1.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 2359912
 description: ユーザーと役割のリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーと役割のリストのエクスポート
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -20,24 +20,24 @@ ht-degree: 100%
 
 1. 「**管理者**」に移動します。
 
-   ![](assets/adminhand.png)
+   ![](assets/export-a-list-of-users-and-roles-1.png)
 
 1. 「**ユーザーと役割**」をクリックします。
 
-   ![](assets/image2014-9-10-9-3a25-3a27.png)
+   ![](assets/export-a-list-of-users-and-roles-2.png)
 
 1. エクスポートする前に、列を追加または削除します。
 
    >[!TIP]
    >
-   >役割をエクスポートするには、まず「**役割**** **」タブに移動し、次に「エクスポート」に移動します。
+   >ロールをエクスポートするには、 **役割** 「 」タブから、次に「エクスポート」を選択します。
 
-   ![](assets/image2014-9-10-9-3a25-3a49.png)
+   ![](assets/export-a-list-of-users-and-roles-3.png)
 
 1. 「**エクスポート**」アイコンをクリックします。
 
-   ![](assets/image2014-9-10-9-3a26-3a3.png)
+   ![](assets/export-a-list-of-users-and-roles-4.png)
 
    以上です。新しい Excel ファイルをダウンロードする必要があります。
 
-   ![](assets/image2014-9-10-9-3a26-3a17.png)
+   ![](assets/export-a-list-of-users-and-roles-5.png)
