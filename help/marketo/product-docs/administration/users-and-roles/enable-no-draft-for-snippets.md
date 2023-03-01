@@ -5,7 +5,7 @@ title: スニペットで「ドラフトなし」を有効にする
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 100%
 
 ---
@@ -24,29 +24,25 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**管理者**」に移動して、「**ユーザーと役割**」をクリックします。
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. 「**ユーザ＆ロール**」をクリックします。
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. 「**役割**」タブに移動し、役割を選択して「**役割を編集**」をクリックします。
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. 「**Design Studio にアクセス**」オプションを展開します。
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. 「**スニペットにアクセス**」オプションを展開します。
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. 「**スニペットを承認**」権限を展開し、「**ドラフトなし**」ボックスにチェックを入れます。「**保存**」をクリックします。
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
