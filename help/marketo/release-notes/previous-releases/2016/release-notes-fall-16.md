@@ -3,10 +3,10 @@ unique-page-id: 11384018
 description: リリースノート - 2016 年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -58,7 +58,7 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 監査証跡は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、ユーザーおよび役割に加えられた変更に関する重要な変更の詳細を提示する機能を追加しました。
 
-## [新しく追加された権限](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [新しく追加された権限](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **メールをオペレーショナルメールにする**
 
@@ -94,4 +94,4 @@ Marketo REST API を使用して、v2.0 形式のメールの変数とモジュ�
 
 ## [Marketo Salesforce 同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo の Salesforce 統合は進化し、Marketo フィールドを Salesforce と同期する方法が改善されています。必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。
+Marketoの Salesforce 統合は進化し、Marketoフィールドを Salesforce と同期する方法が改善されています。 必要に応じて、必要に応じて大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。 詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。

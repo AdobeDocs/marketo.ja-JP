@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: メールにスニペットを追加する - Marketo ドキュメント - 製品ドキュメント
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
@@ -42,6 +42,6 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >スニペットを更新および承認するたびに、変更がメールに反映されます。スニペットを[ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)で承認しない限り、メールはドラフトされます
+   >スニペットを更新および承認するたびに、変更がメールに反映されます。スニペットを[ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)で承認しない限り、メールはドラフトされます
 
 これにより、動的コンテンツをすばやく簡単に再利用できます。

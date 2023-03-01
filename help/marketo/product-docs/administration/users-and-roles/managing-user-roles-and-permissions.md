@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: ユーザのロールと権限の管理 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザのロールと権限の管理
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 94%
@@ -56,7 +56,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    >[!NOTE]
    >
-   >各ロールについて詳しくは、[ロール権限の説明](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)を参照してください。
+   >各ロールについて詳しくは、[ロール権限の説明](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)を参照してください。
 
 ## ロールの新規作成 {#create-a-new-role}
 
