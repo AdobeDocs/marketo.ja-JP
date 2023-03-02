@@ -3,10 +3,10 @@ unique-page-id: 2360309
 description: ワークスペースと人物パーティションについて - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 100%
+source-wordcount: '520'
+ht-degree: 97%
 
 ---
 
@@ -43,25 +43,29 @@ ht-degree: 100%
 >
 >アセットを含む親フォルダーは、共有できる唯一のフォルダーで、子フォルダーは共有できません。
 
-1. 新規フォルダーの作成。
+1. クリック データベース.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 共有するフォルダーに名前を付けます。
+1. Segmentation フォルダーを右クリックし、 **新規フォルダ**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. フォルダーの名前を指定して、 **作成**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. 共有するアセットをフォルダーに移動します。
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. フォルダーを右クリックし、「**フォルダーを共有**」を選択します。
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. フォルダーを共有するワークスペースを選択して、「**保存**」をクリックします。フォルダーを共有ダイアログボックスには、表示権限を持つワークスペースのみが表示されます。
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
