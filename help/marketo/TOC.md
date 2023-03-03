@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b95557cc3b83870c67a3292824a31a64e5ec0bc8
+source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8832'
 ht-degree: 99%
 
 ---
@@ -1214,9 +1214,9 @@ ht-degree: 99%
          + [サーバーで Sales Connect を許可リストに加える方法を教えてください。](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [自分のアカウントから締め出されました。どうすればいいですか？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect は Salesforce Lightning と互換性がありますか？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
-         + [最新のクライアントバージョンは何ですか？](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Sales Connect のサービス利用規約は何ですか？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Sales Connect と Highspot の統合とは何ですか？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
+         + [Sales Insight アクションはどのブラウザーをサポートしていますか？](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
          + [Sales Connect に取引先責任者がプッシュされない理由](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [取引先責任者を削除できない理由](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [すべての取引先責任者が Sales Connect にプッシュされない理由](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
