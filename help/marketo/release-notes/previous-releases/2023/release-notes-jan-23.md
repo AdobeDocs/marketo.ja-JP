@@ -1,9 +1,9 @@
 ---
 description: リリースノート - 2023年1月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年1月
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '629'
 ht-degree: 91%
 
 ---
@@ -49,8 +49,8 @@ ht-degree: 91%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   </tbody>
 </table>
