@@ -1,12 +1,10 @@
 ---
 description: Highspot との統合 — Marketoドキュメント — 製品ドキュメント
 title: Highspot 統合
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 34%
+source-wordcount: '334'
+ht-degree: 32%
 
 ---
 
@@ -52,7 +50,7 @@ Highspot にアクセスし、Sales Insight アクションの作成ウィンド
 
    ![](assets/highspot-integration-7.png)
 
-1. Highspot アカウントにログインします。
+1. Highspot アカウントにログインします（まだログインしていない場合）。
 
    ![](assets/highspot-integration-8.png)
 
