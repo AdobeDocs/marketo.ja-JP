@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 99%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 99%
       + [アドビ組織マッピングの設定](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Adobe Experience Manager でのアセットの読み込み](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [統合シェルの概要](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Marketo の中心概念 {#core-marketo-concepts}
       + スマートキャンペーン {#smart-campaigns}
          + [スマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 99%
             + [Sales Insight Actions にすべての取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 統合 {#integrations}
-            + [電子メールを外部ソースに記録する](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Highspot 統合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [ユーザに Marketo のアクセス権を付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight Actions での注目のアクション](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
