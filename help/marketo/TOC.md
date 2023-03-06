@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
+source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
 workflow-type: tm+mt
 source-wordcount: '8829'
 ht-degree: 99%
@@ -1201,6 +1201,7 @@ ht-degree: 99%
             + [配信停止の概要](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 作成ウィンドウの使用 {#using-the-compose-window}
             + [メールへの添付ファイルまたはトラック可能コンテンツの追加](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [メールへの Highspot コンテンツの追加](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [一括送信オプション](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [メールのスケジュール](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1352,7 +1353,6 @@ ht-degree: 99%
                + [Salesforce との配信停止の同期](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + 作成ウィンドウの使用 {#using-the-compose-window}
                + [メールへの添付ファイルまたはトラック可能コンテンツの追加](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-               + [メールへの Highspot コンテンツの追加](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [一括メール送信オプション](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [グループメールによるメールの送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
