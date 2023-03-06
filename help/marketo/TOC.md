@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 303df236491f9574532c8b59289f89f505671acb
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8835'
+source-wordcount: '8829'
 ht-degree: 99%
 
 ---
@@ -1201,7 +1201,6 @@ ht-degree: 99%
             + [配信停止の概要](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 作成ウィンドウの使用 {#using-the-compose-window}
             + [メールへの添付ファイルまたはトラック可能コンテンツの追加](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [メールへの Highspot コンテンツの追加](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [一括送信オプション](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [メールのスケジュール](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
