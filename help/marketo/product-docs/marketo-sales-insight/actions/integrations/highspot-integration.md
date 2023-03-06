@@ -3,9 +3,9 @@ description: Highspot との統合 — Marketoドキュメント — 製品ド�
 title: Highspot 統合
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 34%
 
 ---
@@ -20,21 +20,21 @@ ht-degree: 34%
 >
 >Sales Insight アクションインスタンスの Highspot を有効にするには、管理者権限が必要です。
 
-1. 設定を選択
+1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. サイドバーで一般設定を選択
+1. の下 **管理設定**&#x200B;を選択します。 **一般**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. 統合カードにスクロールし、Highspot を有効にします。
+1. スクロールして **統合** カードをクリックし、スライダをクリックして Highspot を有効にします。
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. 作成ウィンドウ、テンプレートエディター、キャンペーン E メールエディターでコンテンツのアップロードボタンを選択する際に、「Highspot」を選択するオプションが表示されるようになりました。
+作成ウィンドウ、テンプレートエディター、キャンペーン E メールエディターでコンテンツのアップロードボタンを選択する際に、「Highspot」を選択するオプションが表示されるようになりました。
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Highspot コンテンツへのアクセスとメールによるコンテンツの共有 {#accessing-highspot-content}
 
