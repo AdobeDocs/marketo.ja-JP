@@ -2,10 +2,10 @@
 description: セールスキャンペーンの作成 - Marketo ドキュメント - 製品ドキュメント
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: 56101a81c392a3e3214426112976cca960359bf8
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 100%
+source-wordcount: '312'
+ht-degree: 97%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. [メールが完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target=&quot;_blank&quot;}したら、「**追加**」をクリックします。
+1. 次の場合 [メールの完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}をクリックし、 **追加**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -65,7 +65,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [メールステップのセールスキャンペーン送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* [セールスキャンペーンの設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>* [セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [セールスキャンペーンの設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

@@ -3,10 +3,10 @@ unique-page-id: 13796464
 description: Sales Connect の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 77%
 
 ---
 
@@ -44,19 +44,19 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
   </tr> 
   <tr> 
    <td><p>セールスメールを送信</p></td> 
-   <td><p>ユーザーが MSE からセールスメールを送信。</p></td> 
+   <td><p>ユーザーがセールスコネクトからセールスメールを送信しました。</p></td> 
   </tr> 
   <tr> 
    <td><p>セールスメール開封</p></td> 
-   <td><p>リードが MSE から送信されたセールスメールを開封。</p></td> 
+   <td><p>リードは、セールスコネクトから送信されたセールスメールを開きました。</p></td> 
   </tr> 
   <tr> 
    <td><p>セールスメールクリック</p></td> 
-   <td><p>リードが MSE から送信されたセールスメールのリンクをクリック。</p></td> 
+   <td><p>リードがセールスコネクトから送信されたセールスメールのリンクをクリックしました。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスメール受信</p></td> 
-   <td colspan="1"><p>MSE から送信されたセールスメールをリードが受信。</p></td> 
+   <td colspan="1"><p>リードはセールスコネクトから送信されたメールを受信しました。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールス電話受信</p></td> 
@@ -64,7 +64,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスキャンペーンに追加</p></td> 
-   <td colspan="1"><p>MSE（キャンペーンページ）で作成したセールスキャンペーンにリードが追加。</p></td> 
+   <td colspan="1"><p>（「キャンペーン」ページの）セールスコネクトで作成されたセールスキャンペーンにリードが追加されました。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスキャンペーンから削除</p></td> 
