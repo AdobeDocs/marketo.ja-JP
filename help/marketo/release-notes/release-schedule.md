@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: リリーススケジュール - Marketo ドキュメント - 製品ドキュメント
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 612c8ddc8858c61a62fc5c7b10c3868a5e1dd089
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ _リリース日は変更される場合があります_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">2023年1月</a></td>
    <td>2023年1月20日</td>
-   <td>進行中</td>
+   <td>リリース済み</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">2023年3月</a></td>
