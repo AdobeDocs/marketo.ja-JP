@@ -2,10 +2,10 @@
 description: チャットボットの動作 - Marketo ドキュメント - 製品ドキュメント
 title: チャットボットの動作
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -212,7 +212,7 @@ ht-degree: 100%
         <p>V1 が WP1 を初めて訪問</p>
         <p>V1 が D1 をクリックし、D1 を完了する</p>
         <p>V1 が WP2 を訪問</p>
-        <p>V1 が D2 をクリックし、最初の応答を返す</p>
+        <p>V2 が D1 をクリックし、最初の応答を返す</p>
       </td>
       <td>D1 が WP1 と完了後に解決される <br/>D2 が WP2 上で解決される</td>
       <td>
@@ -255,7 +255,7 @@ ht-degree: 100%
       <td>
         <p>D1 が WP1 のみをターゲット</p>
         <p>V1 が WP1 を初めて訪問</p>
-        <p>V1 が D1 とエンゲージ</p>
+        <p>D1 とエンゲージ済みの V1</p>
         <p>D1 が非公開</p>
         <p>V1 が WP1 を更新</p>
       </td>
@@ -328,7 +328,7 @@ ht-degree: 100%
         <p>D2 が優先度 2 の WP1 をターゲット</p>
         <p>V1 が WP1 を初めて訪問</p>
         <p>V1 が D1 をクリックし、D1 を完了する</p>
-        <p>V1 が WP1 を更新し、D2 が表示される <br/>V1 が D2 をクリックし、D2 を完了する</p>
+        <p>V1 は WP1 を更新し、D2 を参照してください<br/>V1 が D2 をクリックし、D2 を完了する</p>
         <p>マーケターが D1 に変更を加え、再公開</p>
         <p>V1 が WP1 を更新</p>
       </td>
