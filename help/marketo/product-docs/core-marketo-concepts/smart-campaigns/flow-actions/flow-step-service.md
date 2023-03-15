@@ -2,16 +2,16 @@
 description: フローステップサービス - Marketo ドキュメント - 製品ドキュメント
 title: フローステップサービス
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 100%
+source-wordcount: '1220'
+ht-degree: 98%
 
 ---
 
 # フローステップサービス {#flow-step-service}
 
-セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスのオーサリングと公開について詳しくは、[サービスプロバイダーインターフェイス用の GitHub リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}を参照してください。概念実証ルックアップテーブルの実装は、[ここ](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}にあります。
+セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスのオーサリングと公開について詳しくは、 [サービスプロバイダーインターフェイス用の GitHub リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## サービスのオンボーディングと管理 {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ ht-degree: 100%
 ## サービス資格情報を入力 {#enter-service-credentials}
 
 インストールするサービスにアクセスするには、Marketo に有効な API 資格情報が必要です。これらの資格情報は、サービスプロバイダーから提供してもらう必要があります。サービスには 3 つの異なる認証オプションがあるので、3 つのプロンプトのいずれかが表示される場合があります。**API キー**&#x200B;には入力フィールドが 1 つだけあり、**基本認証**&#x200B;はユーザ名とパスワードが必要で、Realm と呼ばれるフィールドも必要な場合があります。_クライアント資格情報_&#x200B;を使用した **OAuth2** 付与は、_クライアント ID_ および&#x200B;_クライアント秘密鍵_&#x200B;が必要です。
-
->[!NOTE]
->
->OAuth2 は、3月11日のリリースまでは使用できません。
 
 資格情報を保存すると、Marketo はサービスのステータスエンドポイントを呼び出して、それらが有効であることを確認しようとします。指定した資格情報が無効な場合は、そのことを示すエラーが表示されます。
 

@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '622'
+ht-degree: 28%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2023 年 3 月 25 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
+以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2023 年 3 月 31 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
 
 ### Marketo Engage の最新 UX {#modern-ux}
 

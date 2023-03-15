@@ -3,10 +3,10 @@ description: 統合シェルの概要 — Marketoドキュメント — 製品�
 title: 統合シェルの概要
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 4%
+source-wordcount: '355'
+ht-degree: 7%
 
 ---
 
@@ -32,7 +32,7 @@ PICC
 
 最新の外観に加えて、次の機能が見られます。
 
-**ドメイン管理**
+**ドメインの管理**
 
 [を管理 [!DNL Marketo Engage] ドメイン](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 助けを借りずに [!DNL Marketo Engage].
 
@@ -74,7 +74,7 @@ PICC
 
 上記のエラーが発生した場合は、 [サポートに連絡](https://nation.marketo.com/t5/support/ct-p/Support) 助けを求めて
 
-Marketoの変更点を次に示します。
+Steven の備考
 
 ログインは、Experience Cloud/IMS を使用しておこなわれます
 
@@ -84,4 +84,4 @@ Marketoインスタンスにアクセスするには、「Marketo Launch ペー�
 
 私のMarketoのヒストリーツリーは消えていきます
 
-ブックマークは（現時点では）機能しません。 今すぐ呼び出す必要はありませんが、Bizible のドキュメント（ブックマーク作業）からテキストをコピーする場合は削除する必要があります。
+ブックマークなし
