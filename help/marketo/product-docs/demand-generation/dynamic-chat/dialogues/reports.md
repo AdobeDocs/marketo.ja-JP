@@ -2,10 +2,10 @@
 description: レポート - Marketo ドキュメント - 製品ドキュメント
 title: レポート
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 85%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
  </tr>
  <tr>
   <td><strong>エンゲージ済</strong></td>
-  <td>訪問者がチャットボットのアンカーをクリックしてダイアログを開くたびに増分します。</td>
+  <td>訪問者がダイアログ内の少なくとも 1 つのカード（質問、情報キャプチャなど）を操作すると増分されます。</td>
  </tr>
  <tr>
   <td><strong>完了</strong></td>
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 

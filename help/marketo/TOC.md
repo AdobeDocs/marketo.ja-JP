@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8831'
 ht-degree: 99%
 
 ---
@@ -617,6 +617,7 @@ ht-degree: 99%
          + [動的チャットの概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初期設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [チャットユーザの追加または削除](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [ブラウザ通知](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [動的チャットのアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
