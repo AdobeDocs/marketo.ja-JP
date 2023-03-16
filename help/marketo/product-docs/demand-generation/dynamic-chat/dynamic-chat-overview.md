@@ -2,10 +2,10 @@
 description: 動的チャットの概要 - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 60%
+source-wordcount: '857'
+ht-degree: 59%
 
 ---
 
@@ -33,23 +33,23 @@ ht-degree: 60%
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細情報](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}。
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## 設定 {#configuration}
 
-「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}。
+「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}
 
 ## カレンダー {#calendar}
 
-Chatbot の予定スケジュールに使用する Outlook または Gmail の予定表に接続します。 [カレンダーの詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Chatbot の予定スケジュールに使用する Outlook または Gmail の予定表に接続します。 [カレンダーの詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[会議の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[会議の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリスト、Web サイト訪問者に表示される順序、カスタムルーティングルールの作成を確認できます。 [ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+ここでは、カレンダーに関連付けられたすべてのエージェントのリスト、Web サイト訪問者に表示される順序、カスタムルーティングルールの作成を確認できます。 [ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## よくある質問 {#faq}
 
@@ -111,8 +111,18 @@ AI／NLP 機能はサポートしていません。
   <th>制限</th>
  <tr>
   <td>ダイアログ総数</td>
-  <td>ダイアログの合計数（公開および下書き）</td>
+  <td>ダイアログの数（公開および下書き）</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>合計カレンダー</td>
+  <td>接続されているカレンダーの数</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>合計ユーザー数（管理者およびマーケティングユーザー）</td>
+  <td>ダイナミックチャットインスタンスごとに許可される結合ユーザー数</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>公開済みダイアログ</td>
@@ -171,12 +181,12 @@ AI／NLP 機能はサポートしていません。
  </tr>
  <tr>
   <td>関与した会話</td>
-  <td>1 日にウェブ訪問者が関与できるチャット会話の数</td>
-  <td>1,000</td>
+  <td>Web 訪問者が 1 ヶ月に関与できるチャット会話の数</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>トリガーされた会話</td>
-  <td>1 日に Web 訪問者に表示できるチャットの会話数</td>
+  <td>Web 訪問者に 1 ヶ月に表示できるチャットの会話数</td>
   <td>25,000</td>
  </tr>
 </table>
