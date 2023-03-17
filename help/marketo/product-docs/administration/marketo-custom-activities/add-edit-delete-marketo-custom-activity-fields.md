@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Marketo のカスタムアクティビティフィールドの追加／編集／削除 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のカスタムアクティビティフィールドの追加／編集／削除
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
-workflow-type: ht
-source-wordcount: '315'
-ht-degree: 100%
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >API 名の編集や、カスタムアクティビティが公開されていない場合のみ、フィールドを「プライマリ」に変更できます。アクティビティが既に公開されている場合は、フィールドの名前と説明（オプション）のみを編集できます。
+   >API 名の編集や、カスタムアクティビティが公開されていない場合のみ、フィールドを「プライマリ」に変更できます。
 
    >[!NOTE]
    >
