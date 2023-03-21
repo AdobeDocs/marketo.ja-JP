@@ -3,10 +3,10 @@ description: 統合シェルの概要 — Marketoドキュメント — 製品�
 title: 統合シェルの概要
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 7%
+source-wordcount: '350'
+ht-degree: 5%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 既にAdobe Experience Cloud製品にログインしている場合は、メニューアイコンをクリックし、「 」を選択します。 **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ PICC
 
 [を管理 [!DNL Marketo Engage] ドメイン](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 助けを借りずに [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **統合ヘルプセンター**
 
 サポート記事を検索し、チケットを送信し、フィードバックを提供します。 [!DNL Marketo Engage] アプリケーション。
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **アプリケーション切り替え**
 
 複数のAdobe製品にアクセスできるユーザーは、簡単に切り替えることができます。
 
-PICC
+PIC4
 
 **通知とお知らせ**
 
 製品固有の通知や一般的なAdobe製品のお知らせを、アプリケーションで直接表示および操作します。
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Adobe設定**
 
 プロファイルアイコンをクリックして、言語やその他のAdobe全体の環境設定を変更します。 また、 [!DNL Marketo Engage] — クリックして特定の変更 **マイ設定**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## よくある質問 {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Adobe Experience Cloudにログインできるが、次のようなページが表示された場合は、 [!DNL Marketo Engage] サイド：
 
-PICC
+PIC7
 
 上記のエラーが発生した場合は、 [サポートに連絡](https://nation.marketo.com/t5/support/ct-p/Support) 助けを求めて
 
