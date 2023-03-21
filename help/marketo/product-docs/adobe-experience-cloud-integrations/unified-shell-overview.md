@@ -3,10 +3,10 @@ description: 統合シェルの概要 — Marketoドキュメント — 製品�
 title: 統合シェルの概要
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Experience Cloud製品にまだログインしていない場合は、に�
 
 **統合ヘルプセンター**
 
-サポート記事を検索し、チケットを送信し、フィードバックを提供します。 [!DNL Marketo Engage] アプリケーション。
+使用可能な様々なヘルプリソースには、 [!DNL Marketo Engage] アプリケーション。
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Adobe Experience Cloud製品にまだログインしていない場合は、に�
 
 **Adobe設定**
 
-プロファイルアイコンをクリックして、言語やその他のAdobe全体の環境設定を変更します。 また、 [!DNL Marketo Engage] — クリックして特定の変更 **マイ設定**.
+プロファイルアイコンをクリックして、言語やその他のAdobe全体の環境設定を変更します。
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Adobe Experience Cloudにログインできるが、「ページの読み込み�
 **ユーザー履歴、グローバル検索、Marketo通知、およびタスクトレイはどこにありましたか？**
 
 これらの機能は、上部のナビゲーションから、統合シェルの左側の新しいバーに移動しました。
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
