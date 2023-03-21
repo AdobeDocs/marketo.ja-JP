@@ -2,10 +2,10 @@
 description: カレンダー - Marketo ドキュメント - 製品ドキュメント
 title: カレンダー
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 84%
+source-wordcount: '146'
+ht-degree: 68%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 84%
 ![](assets/calendar-1.png)
 
 ユーザのカレンダーが動的チャットに接続されると、そのユーザはキューに追加され、web サイトの訪問者が予定をスケジュールする際に使用できるようになります。
+
+>[!NOTE]
+>
+>1 人のユーザーにつき 1 つのカレンダーを接続できます。 複数の予定表で会議を受け取る場合は、複数のユーザーを追加し、各ユーザーに予定表を連携させる必要があります。
 
 また、カレンダーに予定をスケジュールするときに訪問者に送信される、招待の本文をカスタマイズすることもできます。下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
 
