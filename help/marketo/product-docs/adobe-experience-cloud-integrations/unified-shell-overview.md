@@ -3,7 +3,7 @@ description: 統合シェルの概要 — Marketoドキュメント — 製品�
 title: 統合シェルの概要
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 5%
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Adobe Experience Cloud製品にまだログインしていない場合は、に直接ログインします。 [!DNL Marketo Engage] こちら： [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-次の場合、 _が_ 既にAdobe Experience Cloud製品にログインしている場合は、メニューアイコンをクリックし、 **[!DNL Marketo Measure]**.
+次の場合、 _が_ 既にAdobe Experience Cloud製品にログインしている場合は、メニューアイコンをクリックし、 **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
