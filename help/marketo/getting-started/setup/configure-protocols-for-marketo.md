@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 94%
 
 ---
 
@@ -20,13 +20,12 @@ ht-degree: 100%
 
 この記事は、これらのプロトコルを導入する企業の IT 部門と共有する必要があります。
 
->[!NOTE]
->
->IT チームが許可リストを使用して Web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するように依頼してください。
+IT チームが許可リストを使用して Web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するように依頼してください。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## 手順 1：ランディングページとメールの DNS レコードを作成する {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ ht-degree: 100%
 
 * エイリアス：`[YourLandingPageCNAME]` と入力します（マーケティングから提供）。
 * タイプ：CNAME
-* ポイント：`[MarketoAccountString].mktoweb.com` と入力します（マーケティングから提供）。
+* ポイント：`[MunchkinID].mktoweb.com` と入力します（マーケティングから提供）。
 
 `2` **メールトラッキングリンク用の CNAME の追加**
 
@@ -59,7 +58,7 @@ ht-degree: 100%
 
 このプロセスが完了したら、マーケティングチームに通知します。
 
-`4`SSL 証明書のプロビジョニングプロセスを開始するには、**[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}にお問い合わせください**。
+`4` **連絡先 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} :SSL 証明書のプロビジョニングプロセスを開始します。**
 
 プロセスが完了するまでに最大で 3 営業日かかります。
 
@@ -104,7 +103,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
    `[DKIMDomain2]`：ホストレコードが `[HostRecord2]` で、TXT 値が `[TXTValue2]` です。
 
-   [こちらの手順に従って](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}、設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
+   [](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}に示す手順に従って、設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
 
 ## 手順 4：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ MX レコードを使用すると、返信や自動返信を処理するため�
 
 **Webhook**
 
-Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;}は、アウトバウンド統合メカニズムです。スマートキャンペーンの一環として、[Webhook の呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;}フローアクションが実行されると、外部 web サービスに HTTP リクエストが行われます。Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage [ウェブフック](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} フローアクションは、スマートキャンペーンの一環として実行され、外部 web サービスに対して HTTP リクエストが実行されます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 **CRM 同期**
 
-Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;}と [Microsoft Dynamics 同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;}は、CRM ベンダーが公開する API に対して、アウトバウンド HTTP リクエストを行う統合メカニズムです。お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} は、CRM ベンダーによって公開された API に対して送信 HTTP リクエストをおこなう統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 **Marketo Engage アウトバウンド IP アドレスブロック**
 
