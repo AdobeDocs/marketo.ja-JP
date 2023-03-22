@@ -2,10 +2,10 @@
 description: Adobe Identity Management の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
-workflow-type: ht
-source-wordcount: '1068'
-ht-degree: 100%
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
+workflow-type: tm+mt
+source-wordcount: '1098'
+ht-degree: 97%
 
 ---
 
@@ -122,6 +122,10 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 **Adobe IMS の場合、Adobe ID、Enterprise ID、Federated ID を使用できますか？**
 
 はい、サポートする ID のタイプを決定するのは組織です。詳しくは、[ID の概要](https://helpx.adobe.com/enterprise/using/identity.html)と [ID の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を確認してください。
+
+**Adobe Admin Consoleでサポートされている製品カードは何ですか。**
+
+サポートされる製品カードは次のとおりです。Marketo Engage、Marketo Measure、Marketo Dynamic Chat、Marketo Sales Connect、Marketo Sales Insight Actions
 
 >[!MORELIKETHIS]
 >
