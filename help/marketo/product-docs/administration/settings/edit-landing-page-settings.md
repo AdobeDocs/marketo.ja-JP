@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2359918
-description: ランディングページ設定を編集する - Marketo ドキュメント - 製品ドキュメント
-title: ランディングページ設定を編集する
+description: ランディングページ設定の編集 - Marketo ドキュメント - 製品ドキュメント
+title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '259'
 ht-degree: 100%
 
 ---
 
-# ランディングページ設定を編集する {#edit-landing-page-settings}
+# ランディングページ設定の編集 {#edit-landing-page-settings}
 
 ドメイン名とフォールバックページの編集、フォームの事前入力の有効化や無効化、ランディングページの誤用の防止などをおこなうことができます。手順は以下のとおりです。
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
    | 用語 | 定義 |
    |---|---|
-   | ランディングページのドメイン名 | これは CNAME です。CNAME は、ランディングページの訪問者に与える URL の最初の部分です。例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。複数を使用できますが、ほとんどのユーザーは 1 つのみを使用します。 |
+   | ランディングページのドメイン名 | これは CNAME です。CNAME は、ランディングページの訪問者に与える URL の最初の部分です。例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。複数を使用できますが、ほとんどのユーザは 1 つのみを使用します。 |
    | フォールバックページ | ランディングページが存在しないか停止している場合に表示するページです。詳細については、「[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)」を参照してください。 |
    | ホームページ | 企業サイトの URL を入力します。 |
 
