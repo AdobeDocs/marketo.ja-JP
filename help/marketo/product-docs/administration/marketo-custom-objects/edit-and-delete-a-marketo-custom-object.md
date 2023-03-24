@@ -4,9 +4,9 @@ description: Marketo カスタムオブジェクトの編集と削除 - Marketo 
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 96%
 
 >[!CAUTION]
 >
->カスタムオブジェクトを削除した後に復元することはできません。
+>カスタムオブジェクトを削除した後は、そのオブジェクトは復元できません。
 
 1. 「**管理者**」領域に移動します。
 
