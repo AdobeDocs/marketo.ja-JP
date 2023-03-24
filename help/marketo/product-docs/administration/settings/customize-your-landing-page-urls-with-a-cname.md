@@ -4,9 +4,9 @@ description: CNAME を使用したランディングページ URL のカスタ�
 title: CNAME を使用したランディングページ URL のカスタマイズ（管理）
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '249'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ Marketo がランディングページをホストしている場合でも、URL
 
 1. CNAME 設定を完了します。
 
-1. IT で CNAME が作成されたら、 **管理者** 領域
+1. IT 部門で CNAME が作成されたら、「**管理者**」領域に戻ります。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
@@ -80,6 +80,6 @@ Marketo がランディングページをホストしている場合でも、URL
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
-フォールバックページは、Marketo のランディングページを使用できない場合に、ユーザーがリダイレクトされるページです。
+フォールバックページは、Marketo のランディングページを使用できない場合に、ユーザがリダイレクトされるページです。
 
 これで完了です。ランディングページが会社のドメインでブランディングされました。
