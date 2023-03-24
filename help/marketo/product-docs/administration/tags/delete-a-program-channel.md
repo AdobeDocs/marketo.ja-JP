@@ -4,7 +4,7 @@ description: プログラムチャネルの削除 - Marketo ドキュメント -
 title: プログラムチャネルの削除
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
