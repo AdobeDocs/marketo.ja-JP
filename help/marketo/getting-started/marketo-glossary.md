@@ -4,9 +4,9 @@ description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメ
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4203'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウント</strong></td> 
-   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>-In <strong>TAM</strong>, a <strong>特定顧客</strong> は、ユーザーが追跡したいターゲットアカウントと判断したアカウントです。<br>- TAM では、CRM アカウントは、リンクされた <strong>CRM</strong> ( アカウント <strong>Salesforce</strong>, <strong>MS Dynamics</strong> または <strong>API</strong>) をクリックします。<br>- CRM では、アカウントとは、リードおよび取引先責任者が関連付けられているビジネス／企業です。</td> 
+   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>- <strong>TAM</strong> では、<strong>重点顧客</strong>とは、ユーザが追跡したいターゲットアカウントと判断したアカウントのことです。<br>- TAM では、CRM アカウントとは、リンクされた <strong>CRM</strong>（<strong>Salesforce</strong>、<strong>MS Dynamics</strong> または <strong>API</strong> のアカウント）からマッピングされたアカウントのことです。<br>- CRM では、アカウントとは、リードおよび取引先責任者が関連付けられているビジネス／企業です。</td> 
   </tr> 
   <tr> 
    <td><strong>顧客リスト</strong></td> 
-   <td>主要なアカウント名／組織名のリスト。ターゲットアカウント管理 (<strong>TAM</strong>)」リストに表示されます。</td> 
+   <td>主要なアカウント名／組織名のリスト。ターゲットアカウント管理（<strong>TAM</strong>）リストとしても知られています。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウントプロファイル</strong></td> 
-   <td colspan="1">（旧称 AccountAI）In <strong>TAM</strong>を使用すると、理想的な顧客プロファイル (ICP) を使用して、データベース内の既存の会社がランク付けされ、アカウントにスコアとしてランク付けされます。</td> 
+   <td colspan="1">（以前のアカウント AI）<strong>TAM</strong> では、理想的な顧客プロファイル（ICP）を使用して、データベース内の既存の会社がランク付けされ、そのランキングがアカウントのスコアとして追加されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">アカウントスコア</a></strong></td> 
@@ -98,7 +98,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong>行動スコア</strong></td> 
-   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。通常は、製品または会社に対する人の関心を測定するために使用されます。</td> 
+   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。通常、製品や企業に対する人物の関心を測定するために使用されます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ブロックリスト</strong></td> 
@@ -252,7 +252,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong>到達率</strong></td> 
-   <td colspan="1">電子メールメッセージが目的の受信者の受信ボックスに到達する機能 ( <strong>スパム</strong> およびクライアント側フィルター 「配信済み」とは異なり、E メールが受信者サーバーに渡されたことを示します。</td> 
+   <td colspan="1">メールメッセージが目的の受信者の受信トレイに到達できる割合で、<strong>スパム</strong>およびクライアントサイドフィルターの影響を受ける可能性があります。メールが受信者サーバーに引き渡されたことのみを示す「配信済み」とは異なります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>需要創出</strong></td> 
@@ -260,7 +260,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong>デモグラフィックスコア</strong></td> 
-   <td colspan="1">役職、売上規模、対象業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常は、製品や会社に対する人物の適合度を測定するために使用されます。 </td> 
+   <td colspan="1">役職、売上規模、対象業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常、製品や企業に対する人物の適合性を測定するために使用されます。 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>デザインスタジオ</strong></td> 
@@ -268,7 +268,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
-   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketoには、次のような様々な種類のドキュメントがあります。製品ドキュメント（現在利用しているサイト） <a href="https://developers.marketo.com/" rel="nofollow">開発者</a> ドキュメントおよび <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a> ドキュメント</td> 
+   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://developers.marketo.com/" rel="nofollow">デベロッパー</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポート、適合（DMARC）</strong></td> 
@@ -276,11 +276,11 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a>（DKIM）</strong></td> 
-   <td colspan="1">送信ドメインを保護し、送信者が送信元アドレスのドメイン名を特定のメールメッセージと関連付けることを可能にする認証メカニズム。これにより、受信者は、E メールがドメインの所有者によって正当に送信されたことを知ることができます。 送信者は、メッセージヘッダーに電子署名を使用してメールに署名します。受信者は、ドメインの所有者が DNS で公開した公開鍵を使用して、その署名を復号化し、ドメインの所有者がメールを正当に送信したかを確認できます。</td> 
+   <td colspan="1">送信ドメインを保護し、送信者が送信元アドレスのドメイン名を特定のメールメッセージと関連付けることを可能にする認証メカニズム。これにより、受信者は、そのメールがドメインの所有者によって正当に送信されたものであることを知ることができます。送信者は、メッセージヘッダーに電子署名を使用してメールに署名します。受信者は、ドメインの所有者が DNS で公開している公開鍵を使用してその署名を復号し、そのメールがドメインの所有者によって正当に送信されたものであることを確認できます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>下書き</strong></td> 
-   <td colspan="1"><p>An <strong>電子メール</strong> または <strong>ランディングページ</strong> まだ <strong>承認済み</strong> まだ。 下書きは、承認されるまで、公開できません。下書きをテストメール（サンプル）として送信することはできますが、分析は記録されません。 <br></p></td> 
+   <td colspan="1"><p>まだ<strong>承認</strong>されていない<strong>メール</strong>または<strong>ランディングページ</strong>。下書きは、承認されるまで、公開できません。下書きをテストメール（サンプル）として送信することはできますが、分析は記録されません。 <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドリップキャンペーン</strong></td> 
@@ -570,7 +570,7 @@ ht-degree: 93%
  <tbody> 
   <tr> 
    <td><strong>重点顧客</strong></td> 
-   <td><p>In <strong>TAM</strong>の場合、ユーザーが決定したアカウントは、追跡するターゲットアカウントです。</p></td> 
+   <td><p><strong>TAM</strong> で、ユーザが追跡したいターゲットアカウントと判断したアカウント。</p></td> 
   </tr> 
   <tr> 
    <td><strong>育成プログラム</strong></td> 
@@ -643,7 +643,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>ペルソナ</strong></a></td> 
-   <td colspan="1">Marketo <strong>ターゲットアカウント管理</strong>、ペルソナはオーディエンスのサブセットで、より具体的なターゲティングを可能にします。</td> 
+   <td colspan="1">Marketo の<strong>ターゲットアカウント管理</strong>では、ペルソナは、オーディエンスのサブセットで、より具体的なターゲティングができます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
@@ -696,7 +696,7 @@ ht-degree: 93%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>評判</strong></td> 
-   <td colspan="1"><p>様々なシグナルやデータポイントで構成された、経時的なパフォーマンスのスコア。レピュテーションは送信者のドメインに結び付けることができます。 <strong>コンテンツ</strong>、または IP アドレス、および影響 <strong>配信品質</strong>.</p></td> 
+   <td colspan="1"><p>様々なシグナルやデータポイントで構成された、経時的なパフォーマンスのスコア。評判は、送信者のドメイン、<strong>コンテンツ</strong>または IP アドレスに関連付けられ、<strong>到達率</strong>に影響します。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>リターンパスアドレス</strong></td> 
@@ -805,8 +805,8 @@ ht-degree: 93%
    <td><strong>プログラム</strong>を説明するために使用される識別子。</td> 
   </tr>
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">ターゲットアカウント管理</a> (TAM)</strong></td> 
-   <td colspan="1">（以前のアカウントベースマーケティング/ABM）キーアカウントを非常に調整された方法でターゲティングおよびエンゲージできるアドオン機能です。</td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">ターゲットアカウント管理</a>（TAM）</strong></td> 
+   <td colspan="1">（旧 Account-Based Marketing／ABM）主要なアカウントを高度に調整された方法でターゲティングおよびエンゲージメントできるアドオン機能。</td> 
   </tr>
   <tr> 
    <td><strong>テンプレート</strong></td> 
