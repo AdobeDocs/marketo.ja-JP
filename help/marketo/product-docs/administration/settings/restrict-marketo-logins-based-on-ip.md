@@ -4,7 +4,7 @@ description: IP に基づく Marketo ログインの制限 - Marketo ドキュ�
 title: IP に基づく Marketo ログインの制限
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # IP に基づく Marketo ログインの制限 {#restrict-marketo-logins-based-on-ip}
 
-IP アドレスに基づいて、ユーザーの Marketo へのアクセスを制限または有効にできます。手順は以下のとおりです。
+IP アドレスに基づいて、ユーザの Marketo へのアクセスを制限または有効にできます。手順は以下のとおりです。
 
 >[!NOTE]
 >
