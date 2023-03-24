@@ -3,9 +3,9 @@ description: 会議 - Marketo ドキュメント - 製品ドキュメント
 title: 会議
 exl-id: b1eeb482-dace-402b-be4f-2fa15e61fa03
 source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -17,4 +17,4 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 >[!NOTE]
 >
->エージェントのカレンダーに会議が予約されると、エージェントは、訪問者の Dynamic Chat エンゲージメントに関する詳細情報を含む、予約に関する電子メール通知を受け取ります。
+>エージェントのカレンダーに会議が予約されると、エージェントは、訪問者の動的チャットのエンゲージメントに関する詳細情報を含む、予約に関するメール通知を受け取ります。
