@@ -3,9 +3,9 @@ description: リリースノート - 2022年1月 - Marketo ドキュメント - 
 title: リリースノート - 2022年1月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
 source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '889'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 90%
 
 以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
-## AEPMarketo Engage宛先コネクタ — 新規リードを作成 {#aep-marketo-engage-destination-connector}
+## AEP Marketo Engage 宛先コネクタ - 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
 Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザのうち、Marketo Engage データベースにまだ存在しないユーザは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
@@ -58,7 +58,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **Salesforce CRM 用 Sales Insight**
 
-* **最優先の新しいタイプ列**:販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最優先」ページのリードと連絡先を区別し、より迅速にインサイトを得ることができます。
+* **最有望見込客の新しいタイプ列**：販売者は、「タイプ」というラベルの付いた新しい列を使用して、「最有望見込客」ページのリードと取引先責任者を区別し、より迅速にインサイトを得ることができます。
 
 * **Salesforce Platform API の更新**：Salesforce が Salesforce Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、Sales Insight パッケージが最新の API で更新されました。
 
@@ -72,7 +72,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ![（星印）](assets/yellow-star.png)
 
-* **通話の結果と理由**:完全にカスタマイズ可能な新しい通話結果と通話理由オプションを使用して、セールスチームの発信活動をより詳細に把握し、追跡します。 これらの新しいフィールドに加えて、販売者が通話をおこなう間に、通話理由と結果の選択を強制する新しいガバナンス、通話理由と結果を有効または無効にする新しい通話理由と通話結果 Salesforce アクティビティカスタムフィールドが導入されました。[こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)をクリックすると、詳細が表示されます。
+* **通話の結果と理由**：完全にカスタマイズ可能な新しい通話結果と通話理由オプションを使用して、セールスチームの発信アクティビティをより詳細に把握し、追跡します。これらの新しいフィールドに加えて、販売者が通話をおこなう間に、通話理由と結果の選択を強制する新しいガバナンス、通話理由と結果を有効または無効にする新しい通話理由と通話結果 Salesforce アクティビティカスタムフィールドが導入されました。[こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812)をクリックすると、詳細が表示されます。
 
 * **Salesforce アクティビティ詳細のカスタマイズ**：セールスアクティビティが Sales Connect から Salesforce に記録される際に、Salesforce タスク件名フィールドに追加される情報をカスタマイズすることで、Salesforce でより多くのセールスアクティビティとタスクデータを取り込みます。[こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)をクリックすると、詳細が表示されます。
 
@@ -82,7 +82,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。[こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-**Marketo Engageドメイン — Sales Insight 設定**:SSL 証明書がプロビジョニングされていないMarketo Engageドメインおよびhttps://の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
+**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
 
 **_製品リリースウェビナー_**
 
