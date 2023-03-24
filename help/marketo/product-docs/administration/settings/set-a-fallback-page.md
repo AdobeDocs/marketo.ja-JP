@@ -4,7 +4,7 @@ description: フォールバックページの設定 - Marketo ドキュメン�
 title: フォールバックページの設定
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
