@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2360278
-description: プログラムチャネルからプログラムステータスを削除する - Marketo ドキュメント - 製品ドキュメント
-title: プログラムチャネルからプログラムステータスを削除する
+description: プログラムチャネルからプログラムステータスを削除 - Marketo ドキュメント - 製品ドキュメント
+title: プログラムチャネルからプログラムステータスを削除
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# プログラムチャネルからプログラムステータスを削除する {#delete-a-program-status-from-a-program-channel}
+# プログラムチャネルからプログラムステータスを削除 {#delete-a-program-status-from-a-program-channel}
 
 プログラムステータスは、プログラムパス（チャネル）を介したチェックポイントです。ステータスを誤って作成した場合や、不要になった場合は、自由に削除してください。
 
@@ -26,7 +26,7 @@ ht-degree: 90%
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. 赤をクリック **X** ステータスを削除するには、「 **保存**.
+1. 赤い「**X**」をクリックしてステータスを削除し、「**保存**」をクリックします。
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
