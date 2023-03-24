@@ -4,9 +4,9 @@ description: アカウントスマートリスト - Marketo ドキュメント -
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '508'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->この機能は、ターゲット顧客管理アドオンと TAM のライセンスが発行されたユーザーのみが使用できます。
+>この機能は、ターゲット顧客管理アドオンと TAM のライセンスが発行されたユーザのみが使用できます。
 
 ## アカウントスマートリストの作成 {#create-an-account-smart-list}
 
@@ -58,7 +58,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >ICP 指標データ ( [アカウントプロファイルのランキングと調整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) は、アカウントスマートリストで使用するカスタムアカウント属性として表示されます。 このカスタム属性データは、アカウントプロファイルモデルが作成/更新された日時に基づいています。
+   >[アカウントプロファイリングのランキングと調整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)で使用された ICP 指標データは、アカウントスマートリストで使用するカスタムアカウント属性として表示されます。このカスタム属性データは、アカウントプロファイルモデルが作成または更新された日時に基づいています。
 
 1. 「一致するリード」フィルターを選択します。この例では、「_州はカリフォルニア_」を選択します。
 
