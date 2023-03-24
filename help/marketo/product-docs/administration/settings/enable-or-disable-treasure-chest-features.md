@@ -4,9 +4,9 @@ description: アイデアスペースの機能を有効または無効にする 
 title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. クリック **宝箱**.
+1. **アイデアスペース**&#x200B;をクリックします。
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
