@@ -2,7 +2,7 @@
 description: 通話理由 - Marketo ドキュメント - 製品ドキュメント
 title: 通話理由
 source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
