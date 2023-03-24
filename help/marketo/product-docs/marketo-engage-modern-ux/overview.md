@@ -3,9 +3,9 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '479'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -208,4 +208,4 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 >
 >ツリーで検索を使用すると、現在使用中のセクション（マーケティングアクティビティなど）からの結果のみが得られます。インスタンス全体を検索する場合は、グローバル検索を使用します。
 
-新しいMarketo Engage体験を！
+新しい Marketo Engage 体験を！
