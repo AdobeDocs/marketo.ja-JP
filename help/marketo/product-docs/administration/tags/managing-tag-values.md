@@ -4,7 +4,7 @@ description: タグ値の管理 - Marketo ドキュメント - 製品ドキュ�
 title: タグ値の管理
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
 ht-degree: 100%
 
