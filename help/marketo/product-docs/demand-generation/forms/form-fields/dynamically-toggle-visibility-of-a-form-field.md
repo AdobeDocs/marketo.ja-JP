@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2949962
-description: フォームフィールドの表示設定を動的に切り替える — Marketo ドキュメント — 製品ドキュメント
-title: フォームフィールドの表示設定を動的に切り替える
+description: フォームフィールドの表示設定の動的な切り替え - Marketo ドキュメント - 製品ドキュメント
+title: フォームフィールドの表示設定の動的な切り替え
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# フォームフィールドの表示設定を動的に切り替える {#dynamically-toggle-visibility-of-a-form-field}
+# フォームフィールドの表示設定の動的な切り替え {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
@@ -59,7 +59,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
    >[!NOTE]
    >
-   >すでに、「国」のフィールドタイプを候補リストに変換し、[すべての国を値として追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)作業を完了しているものとします。
+   >既に、「国」のフィールドタイプを候補リストに変換し、[すべての国を値として追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)作業を完了しているものとします。
 
 1. 「**保存**」をクリックします。
 
@@ -69,6 +69,6 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
 >[!IMPORTANT]
 >
->カスタムスクリプトを使用してフィールド値が設定/更新された場合、フォームフィールドの動作はシームレスに機能します。 [API 関数](https://developers.marketo.com/javascript-api/forms/){target="_blank"} Forms 2.0 のバージョン。
+>Forms 2.0 の [API 関数](https://developers.marketo.com/javascript-api/forms/){target="_blank"}カスタムスクリプトを使用してフィールド値が設定または更新された場合、フォームフィールドの動作はシームレスに機能します。
 >
 >Forms 2.0 JavaScript API 以外の外部スクリプトでフィールドの値が変更されると、条件付きフィールドが期待どおりに動作しない場合があります。
