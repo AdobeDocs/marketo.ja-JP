@@ -4,7 +4,7 @@ description: レポートとアラートのリンク有効期限の編集 - Mark
 title: レポートとアラートのリンク有効期限の編集
 exl-id: 9be08798-c413-451b-9b67-893042668061
 source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 
