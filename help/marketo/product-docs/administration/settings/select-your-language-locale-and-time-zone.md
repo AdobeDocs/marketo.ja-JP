@@ -4,7 +4,7 @@ description: 言語、ロケール、タイムゾーンの選択 - Marketo ド�
 title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 * ポルトガル語
 * スペイン語
 
-## ユーザーの言語、ロケール、タイムゾーンの変更 {#change-user-language-locale-and-time-zone}
+## ユーザの言語、ロケール、タイムゾーンの変更 {#change-user-language-locale-and-time-zone}
 
 1. 「**管理者**」領域に移動します。
 
