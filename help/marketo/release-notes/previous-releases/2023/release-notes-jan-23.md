@@ -4,7 +4,7 @@ title: リリースノート - 2023年1月
 source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '637'
-ht-degree: 90%
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 90%
 
 * **最新の UX によるアップデートされた画面**：最新の UX（旧称：次世代エクスペリエンス）では、トグルスイッチを介してアクセス可能な、アップデートされたデザインと操作性の強化を提供する、追加の更新された画面を提供します。
 
-   * スニペットリスト表示
+   * スニペットのリスト表示
    * ランディングページテンプレートリスト
 
    <table> 
@@ -189,6 +189,6 @@ ht-degree: 90%
 
 ## お知らせ {#announcements}
 
-* **Marketo REST API の変更**:2022 年 10 月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。 こちらをご覧ください [Marketo Nation 投稿](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
+* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、[Marketo Nation の投稿](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}を参照してください。
 
-* **_製品リリースウェビナー_**: [2022 年 10 月および 2023 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**：[2022年10月および 2023年1月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

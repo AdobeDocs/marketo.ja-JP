@@ -178,7 +178,7 @@ ht-degree: 99%
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Adobe ID を使用したユーザログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + [MarketoサブスクリプションとAdobe Admin Consoleへのユーザーの移行について](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+         + [Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 設定 {#settings}
          + [Bulk Export API 情報](product-docs/administration/settings/bulk-export-api-information.md)
          + [キャンペーンインスペクター](product-docs/administration/settings/campaign-inspector.md)
@@ -192,7 +192,7 @@ ht-degree: 99%
          + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
          + [レポートとアラートのリンク有効期限の編集](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
          + [メールトラッキングリンクのヘッダー](product-docs/administration/settings/email-tracking-link-headers.md)
-         + [サブスクリプションの編集](product-docs/administration/settings/edit-subscription-settings.md)
+         + [サブスクリプション設定の編集](product-docs/administration/settings/edit-subscription-settings.md)
          + [アイデアスペースの機能を有効または無効にする](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [アカウントでパーソナライズ URL を有効にする](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [グローバルフォーム検証ルール](product-docs/administration/settings/global-form-validation-rules.md)
@@ -212,7 +212,7 @@ ht-degree: 99%
          + [プログラムチャネルの表示設定の切り替え](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [タグ値の管理](product-docs/administration/tags/managing-tag-values.md)
       + ユーザとロール{#users-and-roles}
-         + [API 専用ユーザのロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [API 専用ユーザロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザの作成](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [ユーザのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [メールの検証](product-docs/administration/users-and-roles/email-verification.md)
@@ -661,8 +661,8 @@ ht-degree: 99%
                + [ON24 イベント統合のテスト](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Marketo ON24 アダプターイベントについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [ウェビナープログラムのステータスについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-         + インタラクティブ ウェビナー {#interactive-webinars}
-            + [インタラクティブ ウェビナーの概要](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+         + インタラクティブウェビナー {#interactive-webinars}
+            + [インタラクティブウェビナーの概要](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
       + Facebook {#facebook}
          + [Facebook でのカスタムオーディエンスへのリードの追加](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -1879,8 +1879,8 @@ ht-degree: 99%
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
    + 以前のリリース {#previous-releases}
-      + 2023 {#2023}
-         + [リリースノート：2023 年 1 月](release-notes/previous-releases/2023/release-notes-jan-23.md)
+      + 2023年 {#2023}
+         + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
       + 2022年 {#2022}
          + [リリースノート：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [リリースノート：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
