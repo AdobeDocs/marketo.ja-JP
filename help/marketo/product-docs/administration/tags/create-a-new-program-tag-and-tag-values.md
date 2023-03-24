@@ -4,7 +4,7 @@ description: プログラムタグとタグ値の新規作成 - Marketo ドキ�
 title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -56,8 +56,8 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >タグのタイプが&#x200B;**必須**&#x200B;の場合、ユーザーは新しいプログラムを作成する際に、タグの値を入力する必要があります。
+   >タグのタイプが&#x200B;**必須**&#x200B;の場合、ユーザは新しいプログラムを作成する際に、タグの値を入力する必要があります。
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
-ユーザーがプログラムを作成する際には、作成したタグのカスタム値を設定する必要があります。
+ユーザがプログラムを作成する際には、作成したタグのカスタム値を設定する必要があります。
