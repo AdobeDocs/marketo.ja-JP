@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * **ランディングページテンプレートの詳細およびフォームの詳細の使用先コンポーネントの拡張**：新しい「使用先」UI タブには、選択したアセットを使用したアセットに関する詳細など、ランディングページテンプレートの詳細およびフォームの詳細に関する追加情報が表示されます。検索、並べ替え、フィルタリング機能を使用して、長いリストのアセットに対する分析を実行します。
 
-   <table> 
+<table> 
   <tr> 
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
@@ -67,7 +67,7 @@ ht-degree: 100%
   </tbody>
 </table>
 
-### API の強化 {#api-enhancements}
+### 統合の更新 {#integration-updates}
 
 </br>
 
