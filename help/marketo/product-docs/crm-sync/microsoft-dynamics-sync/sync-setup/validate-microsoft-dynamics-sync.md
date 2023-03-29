@@ -3,10 +3,10 @@ unique-page-id: 8783322
 description: Microsoft Dynamics 同期の検証 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期の検証
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 100%
+source-wordcount: '269'
+ht-degree: 95%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+   >現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!MORELIKETHIS]
 >

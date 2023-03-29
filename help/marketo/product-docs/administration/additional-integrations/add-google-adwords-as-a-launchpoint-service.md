@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: Google AdWords を LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
 title: Google AdWords を LaunchPoint サービスとして追加
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 76%
+source-wordcount: '318'
+ht-degree: 94%
 
 ---
 
 # Google AdWords を LaunchPoint サービスとして追加 {#add-google-adwords-as-a-launchpoint-service}
 
-Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。次に、AdWords UI から、どのクリックが選定されたリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます [カスタム列を追加](https://support.google.com/adwords/answer/3073556)AdWords の {target=&quot;_blank&quot;}。 この情報は、Marketo UI には表示されません。
+Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、AdWords の UI から、どのクリックがクオリファイドリードや商談、新規顧客（またはトラックしたいあらゆる売上高ステージ）につながったのかを簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
 
-詳細情報： [Googleのオフライン変換インポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target=&quot;_blank&quot;}。
+詳細情報： [Googleのオフライン変換インポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->すべての顧客がこの機能を購入したわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>すべての顧客がこの機能を購入したわけではありません。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Google AdWords アカウントを Marketo にリンクすることで、オフ�
 
 >[!NOTE]
 >
->また、 [Google AdWords as a Launchpoint service とマネージャーアカウント](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}。
+>また、[Google AdWords を Launchpoint のサービスとしてマネージャーアカウントと統合する](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}こともできます。
 
 1. 「**管理者**」セクションに移動します。
 
@@ -87,10 +87,10 @@ Google AdWords アカウントを Marketo にリンクすることで、オフ�
 
    >[!NOTE]
    >
-   >[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja)この機能を動作させるには、{target=&quot;_blank&quot;} を選択する必要があります。 非アクティブ化は AdWords 内で行う必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。非アクティブ化は AdWords 内で行う必要があります。
 
 これで完了です。次は、関連記事を参照して、売上高モデルで AdWords のオフラインコンバージョンをマッピングする方法を学びましょう。
 
 >[!MORELIKETHIS]
 >
->[売上高モデルでの Google AdWords コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[売上高モデルでの Google AdWords コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

@@ -3,10 +3,10 @@ unique-page-id: 11384018
 description: リリースノート - 2016 年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 93%
+source-wordcount: '682'
+ht-degree: 89%
 
 ---
 
@@ -46,7 +46,7 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 ## Marketo アカウントベースドマーケティングの強化 {#marketo-account-based-marketing-enhancements}
 
-アカウント所有者、営業開発担当者、事業開発担当者、顧客サクセスマネージャーなど、アカウントチームをアカウントベースドマーケティング（ABM）の重点顧客に割り当てることができるようになりました。また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別の ABM レポートをアカウントチームに送信することもできます。
+アカウント所有者、営業開発担当者、事業開発担当者、アカウントマネージャーなど、アカウントチームをアカウントベースドマーケティング (ABM) の重点顧客に割り当てることができるようになりました。 また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別の ABM レポートをアカウントチームに送信することもできます。
 
 ![](assets/account-team-11-15-16.png)
 

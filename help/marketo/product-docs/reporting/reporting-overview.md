@@ -2,10 +2,10 @@
 description: レポートの概要 - Marketo ドキュメント - 製品ドキュメント
 title: レポートの概要
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 100%
+source-wordcount: '387'
+ht-degree: 83%
 
 ---
 
@@ -15,15 +15,15 @@ Marketo は、様々なニーズに応じて多岐にわたるレポートモジ
 
 ## 基本レポート {#basic-reporting}
 
-プログラム内または分析領域内の[基本レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;}を設定できます。基本レポートは、すぐに使用できる様々なタイプのレポートで構成され、タイムスパンのフィルタリング、並べ替え、調整を柔軟に行うことができます。
+次の設定が可能です。 [基本レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 」をクリックします。 基本レポートは、すぐに使用できる様々なタイプのレポートで構成され、タイムスパンのフィルタリング、並べ替え、調整を柔軟に行うことができます。
 
 ## メールインサイト {#email-insights}
 
-分析と送信を使用して、履歴データからメールに関する[強力なインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;}を入手します。
+Analytics と送信を使用して [強力な洞察](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 履歴データからの e メール数。
 
 ## パフォーマンスインサイト {#performance-insights}
 
-[パフォーマンスインサイト](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;}は、エンゲージメント、パイプライン、収益創出のためのチャネル効果とプログラム効果をカバーします。
+[パフォーマンスインサイト](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} エンゲージメント、パイプライン、収益創出のためのチャネルパフォーマンスとプログラムパフォーマンスについて説明します。
 
 ## 高度な BI 分析レポート {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _（旧称：収益サイクルエクスプローラー／高度なレポート�
 
 >[!AVAILABILITY]
 >
->すべてのお客様が、高度な BI 分析モジュールと高度な分析モジュールを購入しているわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>全員がアドバンス BI 分析モジュールとアドバンスジャーニー分析モジュールを購入していない。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 マーケティング施策に関する ROI のトラック。メール、人物、プログラム、商談、モデル効果分析（会社）、モデル効果分析（リード）を分析します。BI エクスプローラーを使用すると、分析領域内にカスタムレポートを作成し、データを使用してグラフ、図表、ピボット、ダッシュボードを作成できます。
 

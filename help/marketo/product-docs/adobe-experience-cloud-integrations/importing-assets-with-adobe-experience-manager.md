@@ -3,10 +3,10 @@ unique-page-id: 37355768
 description: Adobe Experience Manager でのアセットの読み込み - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '231'
+ht-degree: 92%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->この機能を購入しているのは一部の顧客のみです。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >

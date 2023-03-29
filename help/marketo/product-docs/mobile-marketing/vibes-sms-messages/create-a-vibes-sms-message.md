@@ -3,10 +3,10 @@ unique-page-id: 11378869
 description: Vibes SMS メッセージの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Vibes SMS メッセージの作成
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 100%
+source-wordcount: '374'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ Vibes SMS メッセージの作成方法を以下に示します。
 
 >[!AVAILABILITY]
 >
->この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。プロビジョニングを適切におこなうには、アドビで購入する必要があります。詳しくは、アドビカスタマーサクセスマネージャーにお問い合わせください。
+>この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。プロビジョニングを適切におこなうには、アドビで購入する必要があります。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >

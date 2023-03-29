@@ -2,10 +2,10 @@
 description: 非ネイティブ MS Dynamics 統合用 Sales Insight - Marketo ドキュメント - 製品ドキュメント
 title: 非ネイティブ MS Dynamics 統合用 Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1442'
-ht-degree: 98%
+source-wordcount: '1413'
+ht-degree: 92%
 
 ---
 
@@ -15,11 +15,11 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
 >[!PREREQUISITES]
 >
->* MSI の設定を開始する前に、Marketo インスタンスに対して「MSI 非ネイティブ」機能が有効になっています（既に購入済みであるが有効になっていない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}にお問い合わせください。この機能をまだ購入していない場合は、カスタマーサクセスマネージャーにお問い合わせください）。
->* [カスタム同期用 MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}をダウンロードします。
->* MSI セットアップでの MS Dynamics サブスクリプション ( サポート対象は [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}。
->* Marketo REST API が[正常に設定](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}されている。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
->* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;}を参照してください。
+>* MSI の設定を開始する前に、Marketoインスタンスに対して「MSI 非ネイティブ」機能が有効になっています。購入済みでない場合は、にお問い合わせください。 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. この機能をまだ購入していない場合は、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
+>* ダウンロード [カスタム同期用の MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* MSI セットアップでの MS Dynamics サブスクリプション ( サポート対象は [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} （現時点で）。
+>* Marketo REST API [正常に設定されました](https://developers.marketo.com/rest-api/){target="_blank"}. 公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
+>* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を参照してください。{target="_blank"}
 
 
 ## MSI の非ネイティブ同期を成功させるには、以下が必要です {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,8 +48,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * セールス担当者向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target=&quot;_blank&quot;}
-   * セールス担当者を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Sales_Persons/syncSalesPersonsUsingPOST){target=&quot;_blank&quot;}
+   * セールス担当者向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * セールス担当者を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. MS Dynamics アカウントを Marketo に同期します。
 
@@ -80,8 +80,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * 企業向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target=&quot;_blank&quot;}
-   * 企業を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target=&quot;_blank&quot;}
+   * 企業向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
+   * 企業を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
 1. MS Dynamics のリード／取引先責任者を Marketo に同期します。
 
@@ -117,8 +117,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * リードに関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target=&quot;_blank&quot;}
-   * リードを同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/syncLeadUsingPOST){target=&quot;_blank&quot;}
+   * リードに関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target="_blank"}
+   * リードを同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target="_blank"}
 
 1. MS Dynamics 商談を Marketo に同期します。
 
@@ -154,8 +154,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * 商談に関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 商談を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * 商談に関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 商談を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. MS Dynamics の取引先責任者ロールを Marketo に同期します。
 
@@ -191,8 +191,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * 商談に関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 商談を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target=&quot;_blank&quot;}
+   * 商談に関する API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 商談を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 「最新の注目のアクション」／「MSI スコア」フィールドを MS Dynamics に同期します。
 
@@ -255,5 +255,5 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </tbody> 
    </table>
 
-   * リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#! /Leads/getLeadByIdUsingGET){target=&quot;_blank&quot;}.
-   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、アカウントの下にある MSI ウィジェットにリードのアクティビティや注目のアクションが表示されない場合、リードの企業かアカウントのどちらかが正しく同期されていない可能性があります。外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザのメールと一致する必要があります。メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。
+   * リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、リードのアクティビティと注目のアクティビティが、そのアカウントの下の MSI ウィジェットを調べる際に表示されない場合、リードの会社またはアカウントが正しく同期されなかった可能性があります。 外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザのメールと一致する必要があります。メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。

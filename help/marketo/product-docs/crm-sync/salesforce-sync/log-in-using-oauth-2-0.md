@@ -2,10 +2,10 @@
 description: OAuth 2.0 を使用したログイン - Marketo ドキュメント - 製品ドキュメント
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 100%
+source-wordcount: '493'
+ht-degree: 87%
 
 ---
 
@@ -53,7 +53,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 >
 >* Salesforce 同期ユーザに対して API アクセスを有効にする必要があります（Salesforce Professional Edition ユーザの場合、そのアクセスはデフォルトでは使用できません。Salesforce アカウント担当者にお問い合わせください）。
 >* Marketo 同期ユーザを Salesforce で作成する必要があります。
->* 既存の顧客の場合、顧客のサブスクリプションで「OAuth for SFDC 同期を有効にする」機能が有効になります。
+>* 既存のお客様の場合、顧客のサブスクリプションで「OAuth for SFDC 同期を有効にする」機能が有効になります。
 >* ポップアップブロッカーが無効になっています。
 >* Connected App が作成され、Consumer Key と Consumer Secret を使用できるようになりました。
 
@@ -76,9 +76,9 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    >[!CAUTION]
    >
-   >「Salesforce でログイン」ボタンではなく、「ユーザ名」、「パスワード」、「トークン」の各フィールドが表示されている場合は、Marketo サブスクリプションが基本認証で有効になっています。詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)を参照してください。同期が一連の認証情報を使用し始めると、Salesforce の認証情報またはサブスクリプションを切り替えられなくなります。Oauth 2.0 を使用する場合は、カスタマーサクセスマネージャーにお問い合わせください。
+   >「Salesforce でログイン」ボタンではなく、「ユーザー名」、「パスワード」、「トークン」の各フィールドが表示されている場合は、Marketoサブスクリプションが基本認証で有効になっています。 詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)を参照してください。同期が一連の認証情報を使用し始めると、Salesforce の認証情報またはサブスクリプションを切り替えられなくなります。OAuth 2.0 を使用する場合は、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
 
-1. Salesforce ログインページのポップアップが表示されます。「Marketo 同期ユーザ」認証情報をキーで入力し、ログインします。
+1. Salesforce ログインページのポップアップが表示されます。「Marketo同期ユーザー」資格情報をキーで入力し、ログインします。
 
    ![](assets/setting-up-oauth-2-10.png)
 

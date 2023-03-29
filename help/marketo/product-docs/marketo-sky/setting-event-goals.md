@@ -4,10 +4,10 @@ title: イベント目標の設定
 hide: true
 hidefromtoc: true
 exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 81%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 100%
 イベントに具体的な目標を設定し、その効果を確認します。
 
 >[!IMPORTANT]
->すべての顧客がこの機能を購入したわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>
+>この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. イベントプログラムを作成します。
 

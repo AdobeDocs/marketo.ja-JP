@@ -3,10 +3,10 @@ unique-page-id: 13795395
 description: リリースノート - 2018年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 100%
+source-wordcount: '598'
+ht-degree: 88%
 
 ---
 
@@ -34,7 +34,7 @@ Salesforce CRM 統合に対して、次の 2 つの機能強化がおこなわ�
 
 >[!AVAILABILITY]
 >
->パフォーマンスインサイトは、アドオン製品です。見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
+>パフォーマンスインサイトは、アドオン製品です。見積もりについては、Marketoのアカウントマネージャーまたはアカウント担当者にお問い合わせください。
 
 アトリビューション分析、インタラクティブなビジュアライゼーション、詳細なデータテーブルを使用して、キャンペーンとチャネルがビジネス成果に与える影響を調べます。
 
@@ -94,7 +94,7 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 **配信停止の更新**
 
-2018年3月1日以降、[ToutApp.com](https://ToutApp.com) から送信されるすべてのメール（また、Salesforce の「Tout とメール」ボタンを使用すると）配信停止リンクが下部に追加されます。
+2018 年 3 月 1 日以降、から送信されるすべての E メール [ToutApp.com](https://ToutApp.com) ( また、Salesforce の「Tout とメール」ボタンを使用すると、配信停止リンクが下部に追加されます。
 
 **ライブフィードの更新**
 

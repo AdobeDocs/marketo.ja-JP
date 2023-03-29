@@ -2,10 +2,10 @@
 description: Sales Insight Actions 機能の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
-ht-degree: 100%
+source-wordcount: '1360'
+ht-degree: 96%
 
 ---
 
@@ -15,11 +15,11 @@ Sales Insight Actions を使用して、マーケティングを活用したイ�
 
 >[!AVAILABILITY]
 >
->この機能は現在、段階的なロールアウト中です。カスタマーサクセスマネージャーまたは `sales-insights(at)adobe(dot)com` にメールでお問い合わせいただき、アクセスをリクエストしてください。
+>この機能は、現在、すべての Sales Insight ユーザーに展開中です。 ロールアウトで優先順位を付けたい場合は、次の宛先にメールを送信してください： `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->Sales Insight Actions のビデオの概要については、[ここをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target=&quot;_blank&quot;}します。
+>Sales Insight のアクションのビデオの概要 [ここをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

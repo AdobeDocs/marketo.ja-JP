@@ -3,10 +3,10 @@ unique-page-id: 2360366
 description: 手順 3／3 — Marketo と Salesforce の接続（Enterprise／Unlimited）— Marketo ドキュメント — 製品ドキュメント
 title: 手順 3／3 — Marketo と Salesforce の接続（Enterprise／Unlimited）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 100%
+source-wordcount: '469'
+ht-degree: 91%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >「ユーザー名」、「パスワード」、「トークン」フィールドの代わりに「Salesforce にログイン」ボタンが表示される場合、Marketo サブスクリプションで OAuth が有効になっています。[この記事を参照](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)してください。同期が一連の認証情報を使用し始めるとすぐに、**Salesforce の認証情報またはサブスクリプション**&#x200B;を切り替えられなくなります。基本認証を使用する場合は、カスタマーサクセスマネージャーにお問い合わせください。
+   >ユーザー名/パスワード/トークンフィールドの代わりに「Salesforce にログイン」ボタンが表示された場合、Marketoサブスクリプションは OAuth で有効になっています。 [この記事を参照](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)してください。同期が一連の認証情報を使用し始めるとすぐに、**Salesforce の認証情報またはサブスクリプション**&#x200B;を切り替えられなくなります。基本認証を使用する場合は、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 1. 警告を読んでから、「**認証情報の確認**」をクリックします。
 

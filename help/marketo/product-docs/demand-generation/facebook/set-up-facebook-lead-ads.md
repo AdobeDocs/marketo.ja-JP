@@ -3,10 +3,10 @@ unique-page-id: 11379622
 description: Facebook リード広告の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 100%
+source-wordcount: '321'
+ht-degree: 94%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->Facebook リード広告をインスタンスに追加するには、カスタマーサクセスマネージャーにお問い合わせください。
+>facebookリード広告をインスタンスに追加するには、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. Marketo の「**管理**」に移動します。
 

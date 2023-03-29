@@ -2,10 +2,10 @@
 description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 100%
+source-wordcount: '594'
+ht-degree: 84%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* Marketo アカウントで MSI アクションが有効になっていることをカスタマーサクセスマネージャーに確認してくださいをクリックします（CSM をお持ちでない場合は、[Marketo サポートに連絡](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}してください）。
+>* Adobeアカウントチーム（アカウントマネージャー）に、Marketo Engageアカウントに対して MSI アクションが有効になっていることを確認してください ( アカウントマネージャーがいない場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}) をクリックします。
 >* Marketo と Salesforce の同期を設定する必要があります。
 
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->追加のユーザは、Marketo からは追加されず、代わりに Sales アカウントのユーザ管理ページから追加されます。ユーザの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target=&quot;_blank&quot;}してください。
+>追加のユーザーは、Marketo からは追加されず、代わりに Sales アカウントのユーザー管理ページから追加されます。ユーザーの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
 
 ## Marketo Sales アカウントの Salesforce への接続 {#connect-marketo-sales-account-to-salesforce}
 
@@ -86,7 +86,7 @@ ht-degree: 100%
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-既に Salesforce にログインしている場合は、接続されます。そうでない場合は、ログインするように求められます。
+既に Salesforce にログインしている場合は、連携します。 ログインしていない場合は、ログインするように求められます。
 
 ## Marketo をセールスアプリアカウントに接続 {#connect-marketo-to-your-sales-apps-account}
 
@@ -104,7 +104,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->接続できない場合は、資格情報を Marketo Sales Insight の「アクション設定」タブからコピーし、「設定」タブに貼り付けます。
+>接続できない場合は、資格情報をMarketo Sales Insight の「Actions Config」タブからコピーし、「設定」タブに貼り付けます。
 
 ## データ同期の開始 {#initiate-data-sync}
 
@@ -134,7 +134,7 @@ Marketo と Salesforce に存在する人物レコードが、Marketo Sales ア�
 
 >[!NOTE]
 >
->Sales Insight Actions、Marketo、Salesforce 間のユーザとアクティビティのデータの同期について詳しくは、[ここをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target=&quot;_blank&quot;}します。
+>Sales Insight Actions、Marketo、Salesforce 間のユーザーとアクティビティのデータの同期の詳細 [ここをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
 
 ## 個々のユーザを MSI Actions に招待する {#invite-individual-users-to-msi-actions}
 
@@ -186,4 +186,4 @@ Marketo と Salesforce に存在する人物レコードが、Marketo Sales ア�
 
 >[!NOTE]
 >
->これが完了したら、既存の MSI パッケージをアップグレードするか、新しいパッケージをインストールして、[Salesforce での MSI アクションの設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target=&quot;_blank&quot;}に進みます。
+>これが完了したら、既存の MSI パッケージをアップグレードするか、新しいパッケージをインストールして、[Salesforce での MSI アクションの設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}に進みます。

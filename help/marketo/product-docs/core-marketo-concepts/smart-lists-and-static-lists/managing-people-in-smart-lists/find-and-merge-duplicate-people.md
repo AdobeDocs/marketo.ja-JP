@@ -3,10 +3,10 @@ unique-page-id: 557339
 description: 重複した人物の検索と結合 - Marketo ドキュメント - 製品ドキュメント
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 100%
+source-wordcount: '430'
+ht-degree: 91%
 
 ---
 
@@ -80,6 +80,6 @@ Salesforce と統合している場合、Salesforce のリードの結合の効�
 
 ## 一括結合 {#bulk-merging}
 
-重複が多すぎて手動で結合できない場合は、カスタマーサクセスマネージャーに問い合わせて、方法についてご相談ください。
+重複が多すぎて手動でマージできない場合は、Adobeアカウントチーム（アカウントマネージャー）に連絡して、オプションについてお問い合わせください。
 
-完了です。CRM に接続している場合、以下のルールに従ってレコードが CRM に結合されます。
+CRM に接続している場合、以下のルールに従ってレコードが結合されます。

@@ -4,10 +4,10 @@ title: イベントキャップの設定
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->すべての顧客がこの機能を購入したわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!IMPORTANT]
 >イベントキャップを設定する前に、プログラムに承認済みのランディングページ（登録ページと登録締め切りページ）が 2 つ以上ある必要があります。

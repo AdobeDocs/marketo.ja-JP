@@ -3,10 +3,10 @@ unique-page-id: 2360407
 description: リードを一覧表示するメール分析レポートの作成 - Marketo ドキュメント - 製品ドキュメント
 title: リードを一覧表示するメール分析レポートの作成
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 82%
+source-wordcount: '211'
+ht-degree: 74%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 82%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
+>この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
