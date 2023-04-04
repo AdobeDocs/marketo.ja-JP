@@ -3,10 +3,10 @@ unique-page-id: 2953132
 description: バッチおよびトリガースマートキャンペーンについて - Marketo ドキュメント - 製品ドキュメント
 title: バッチおよびトリガースマートキャンペーンについて
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 100%
 
 バッチスマートキャンペーンでは、スマートリストのセクションで設定するのはフィルターのみです（つまり、トリガーはありません）。
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 「**スケジュール**」タブをクリックすると、当該のスマートキャンペーンが実際に「バッチ」と設定されていることがわかります。
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **バッチスマートキャンペーン**
 
@@ -47,11 +47,11 @@ ht-degree: 100%
 
 スマートキャンペーンのスマートリストのセクション内で、少なくとも 1 つのトリガーが使用されている場合、自動的にトリガーモードに設定されます。
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-「**スケジュール**」タブをクリックすると、当該のスマートキャンペーンが実際に「トリガー起動」と設定されていることがわかります。
+クリック **スケジュール** タブで、スマートキャンペーンが「トリガー」に設定されていることを確認します。
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **トリガースマートキャンペーン**
 

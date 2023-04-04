@@ -3,10 +3,10 @@ unique-page-id: 7515767
 description: ワークスペースとパーティションをまたいだセグメント化の共有 - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースとパーティションをまたいだセグメント化の共有
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,35 +49,35 @@ Marketo は、プログラムやスマートキャンペーンに適した人物
 
 ## シナリオの例 {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## セグメントの共有 {#share-a-segmentation}
 
 1. 「**データベース**」に移動します。
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 「**セグメント化**」を右クリックし、「**新規フォルダー**」を選択します。
+1. 右クリック **セグメント化** を選択し、 **新規フォルダ**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. ワークスペース全体で共有するフォルダーに名前を付けます（例：共有セグメント）。
+1. 複数のワークスペースで共有するフォルダーに名前を付けます ( 例：セグメントを共有を参照 )、「 **作成**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. 共有するセグメントをフォルダーに移動します。
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. フォルダーを右クリックし、「**フォルダーを共有**」を選択します。
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. フォルダーを共有するワークスペースを選択します。「**保存**」をクリックします。
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >

@@ -3,10 +3,10 @@ unique-page-id: 2953120
 description: スマートキャンペーンについて - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンについて
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 74%
+source-wordcount: '243'
+ht-degree: 72%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 74%
 
 Marketo が強力な自動車なら、スマートキャンペーンはまさにそのエンジンです。始めるのは簡単で、ほとんど何でもできます。
 
-スマートキャンペーンには 3 つの主な領域があります。この [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} および [スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;} タブ。
+スマートキャンペーンには 3 つの主な領域があります。この [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} タブ
 
 ## スマートリスト {#smart-list}
 
-スマートリストは、スマートキャンペーンで誰をターゲットに設定するのかを定義する方法です。フィルターとトリガーがあります。
+スマートリストは、 _who_ スマートキャンペーンのターゲット設定を行います。 フィルターとトリガーがあります。
 
 <table> 
  <tbody> 
@@ -58,4 +58,4 @@ Marketo が強力な自動車なら、スマートキャンペーンはまさに
 
 >[!MORELIKETHIS]
 >
->[新しいスマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[新規スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
