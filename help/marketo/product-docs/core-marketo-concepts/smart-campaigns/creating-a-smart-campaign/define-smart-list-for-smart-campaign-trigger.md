@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: スマートキャンペーン用スマートリストの定義 |トリガー- Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # スマートキャンペーン用スマートリストの定義 |トリガー {#define-smart-list-for-smart-campaign-trigger}
 
-トリガーを追加して、ライブイベントに基づいて一度に 1 人ずつスマートキャンペーンを実行するようにします。
+トリガーを追加して、ライブイベントに基づいて、一度に 1 人のユーザーでスマートキャンペーンを実行できます。
 
-1. スマートキャンペーンで、「**スマートリスト**」タブをクリックします。
+1. スマートキャンペーンで、 **スマートリスト** タブをクリックします。
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
+1. 目的のトリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >トリガーを使用したスマートキャンペーンは、**トリガー**&#x200B;モードで実行されます。トリガーされたイベントと追加された任意のフィルターに基づいて、1 人につき一度ずつ実行されます。
+   >スマートキャンペーンとトリガー実行 **トリガー** モード。 トリガーされたイベントと追加された任意のフィルターに基づいて、1 人につき一度ずつ実行されます。
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を持つスマートキャンペーンでは、トリガーが一番上に表示され、トリガーされると、フィルター条件を満たす人物のみがフローに進みます。
+   >トリガーとフィルターの両方を持つスマートキャンペーンでは、トリガーが一番上に表示され、トリガーされると、フィルター条件を満たす人のみがフローを通過します。
 
 1. トリガーを定義します。
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >

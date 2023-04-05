@@ -3,22 +3,22 @@ unique-page-id: 1147051
 description: スマートキャンペーンのチェックリスト - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンのチェックリスト
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # スマートキャンペーンのチェックリスト {#smart-campaign-checklist}
 
-スマートキャンペーンをスムーズに実行し、可能な限りエラーを防ぐには、以下の手順を行います。
+スマートキャンペーンを円滑に実行し、エラーをできるだけ防ぐには、次の手順に従います。
 
 ## スマートリストのエラーの除去 {#get-rid-of-smart-list-errors}
 
-スマートキャンペーン内で&#x200B;**スマートリスト**&#x200B;をクリックします。赤い波線が下に表示されている部分はエラー箇所なので、すべて修正します。
+スマートキャンペーンで、 **スマートリスト**. 赤い波線が下に表示されている部分はエラー箇所なので、すべて修正します。
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -32,9 +32,9 @@ ht-degree: 100%
 
 ## フローのエラーの除去 {#get-rid-of-flow-errors}
 
-スマートキャンペーン内で「**フロー**」をクリックします。赤い波線が表示されている部分はエラー箇所なので、すべて修正します。
+スマートキャンペーンで、 **フロー**. 赤い波線が表示されている部分はエラー箇所なので、すべて修正します。
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,24 +42,24 @@ ht-degree: 100%
 
 ## 「スケジュール」タブのレビュー {#review-the-schedule-tab}
 
-「**スケジュール**」タブをクリックします。「**スマート****リスト****ステータス**」で、修正が必要なエラーが発生していないか確認します。
+内 **スケジュール** タブ、チェック **スマート** **リスト** **ステータス** 修正が必要なスマートキャンペーンのエラー。
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## リード制限数の確認 {#check-person-restrictions-limit}
 
 「**スケジュール**」タブ内で、条件を満たすリード数がリード制限数を越えていないかを確認します。
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->必要に応じて、[スマートキャンペーンでリード制限数を上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)できます。
+>必要に応じて、 [スマートキャンペーンでの担当者制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**リマインダー**
 >
->以上を行ってもスマートキャンペーンがうまく行かない場合、何が原因でどこを修正すればいいのか、[通知の内容に良く目を通して詳細を確認](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)してください。
+>それでもスマートキャンペーンが失敗する場合は、 [通知について](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 何が起こったのか、どのように修正すればよいのかを調べるために
 
-これで完了です。スマートキャンペーンを実行するときは、常にこのチェックリストで内容を点検してください。
+完成です。スマートキャンペーンを実行する前に、このチェックリストを手元に用意してください。
