@@ -3,10 +3,10 @@ unique-page-id: 1147074
 description: 自動トリガーキャンペーンクリーンアップ - Marketo ドキュメント - 製品ドキュメント
 title: 自動トリガーキャンペーンクリーンアップ
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 100%
+source-wordcount: '247'
+ht-degree: 98%
 
 ---
 
@@ -22,17 +22,17 @@ Marketo は、3 か月に 1 回、6 か月以上にわたり休止（リード�
 
 もちろんです。3 か月に 1 回、無効化する予定のあらゆるキャンペーンを表示する通知を、その 1 週間前に送信します。
 
-1. 「**通知**」タブに移動します。
+1. 次をクリック： **通知** アイコン
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. 「**予定されているアイドルトリガーキャンペーンクリーンアップ**」をクリックします。次に、「**これらのアイドルトリガーキャンペーンが無効化されます**」リンクをクリックします。
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    無効化される予定のスマートキャンペーンのリストが表示されます。
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## 無効化されるキャンペーンはどのようなものですか？ {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Marketo は、3 か月に 1 回、6 か月以上にわたり休止（リード�
 
 1. 「**予定されているアイドルトリガーキャンペーンクリーンアップ**」通知を選択します。「**これらのアイドルトリガーキャンペーン**」リンクをクリックします。
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. 無効化されたキャンペーンのリストが表示されます。
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
