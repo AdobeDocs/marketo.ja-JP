@@ -4,23 +4,23 @@ description: リリースノート - 2016 年春 - Marketo ドキュメント - 
 title: リリースノート - 2016 年春
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '799'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2016 年春 {#release-notes-spring}
+# リリースノート：2016年春 {#release-notes-spring}
 
 16 年春リリースには、次の機能が含まれています。各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
 ## [メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-メールインサイトは、過去の新しい集計データのメール分析エクスペリエンスです。プロジェクトオリオンの一環として、迅速なパフォーマンスを実現するためにエンドツーエンドで再設計されました。メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザーインターフェイスデザインが特徴です。
+メールインサイトは、過去の新しい集計データのメール分析エクスペリエンスです。プロジェクトオリオンの一環として、迅速なパフォーマンスを実現するためにエンドツーエンドで再設計されました。メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
 
 >[!NOTE]
 >
->6 月 3 日から、顧客に対するメールインサイトを一括で開始します。当社の目標は、今後数か月間でこれを完了することです。有効化が完了次第、メールでお知らせします。
+>6月3日から、顧客に対するメールインサイトを一括で開始します。当社の目標は、今後数か月間でこれを完了することです。お客様が有効になり次第、メールでお知らせします。
 
 ![](assets/two.png)
 
@@ -36,7 +36,7 @@ ht-degree: 90%
 
 ## [メール編集 - 再設計](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
-そう、新しいメールエディターです！ 軽量なドラッグ＆ドロップ機能を使用して、コンテンツを追加し、並べ替えます。画像、ビデオ、変数、モジュールなどの新しい要素で、編集操作が強化されます。更新されたコードエディター、プレビューア、プリヘッダーのサポートも確認してください。
+メールエディターが完全に新しくなりました。軽量なドラッグ＆ドロップ機能を使用して、コンテンツを追加し、並べ替えます。画像、ビデオ、変数、モジュールなどの新しい要素で、編集操作が強化されます。更新されたコードエディター、プレビューア、プリヘッダーのサポートも確認してください。
 
 ![](assets/17a-29-modules-next.png)
 
@@ -48,7 +48,7 @@ Marketo 内で、アプリの見事なアプリ内メッセージを作成でき
 
 ## [ドラフトなしのスニペット](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-スニペットが更新されるたびにすべてを再承認する必要がなくなりました。No-Draft で、スニペットを使用するすべてのメールとランディングページがスニペットの更新を受け取り、以前のステータスを維持します。スニペットを承認するたびに、No-Draft を実行してすべてを更新するか、ドラフトを作成するかを選択できます。 君次第だ！ No-Draft は、すべての顧客が利用でき、管理者の新しい権限で管理されます。
+スニペットが更新されるたびにすべてを再承認する必要がなくなりました。No-Draft で、スニペットを使用するすべてのメールとランディングページがスニペットの更新を受け取り、以前のステータスを維持します。スニペットを承認するたびに、No-Draft を実行してすべてを更新するか、ドラフトを作成するかを選択できます。それは、あなた次第です。No-Draft は、すべての顧客が利用でき、管理者の新しい権限で管理されます。
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -58,7 +58,7 @@ Marketo REST API で、Marketo のランディングページ、ランディン�
 
 ## [API アクセスのために IP を許可リストに追加](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Marketo ユーザーログインの IP 許可リストに追加する機能と同様に、Marketo 管理者は、Marketo SOAP および REST API にアクセスできる IP アドレスの許可リストを設定できるようになりました。これにより、許可されていない IP アドレスからのアクセスをブロックできます。これにより、Marketoインスタンスのセキュリティレイヤーが強化され、API アクセスは組織のネットワーク内からのみ可能になります。 この設定方法の詳細は、[Marketo ドキュメントサイト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)にあります。
+Marketo ユーザログインの IP 許可リストに追加する機能と同様に、Marketo 管理者は、Marketo SOAP および REST API にアクセスできる IP アドレスの許可リストを設定できるようになりました。これにより、許可されていない IP アドレスからのアクセスをブロックできます。Marketo インスタンスのセキュリティレイヤーが強化され、API アクセスは組織のネットワーク内からのみ可能になります。この設定方法の詳細は、[Marketo ドキュメントサイト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)にあります。
 
 ## [新しい高速 Microsoft Dynamics 同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -80,13 +80,13 @@ Marketo ユーザーログインの IP 許可リストに追加する機能と�
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-現在、Marketoインスタンス（サンドボックスインスタンスと実稼動インスタンスなど）を区別するのは困難です。 この機能を使用すると、現在作業中のインスタンスを把握できます。
+現在、Marketo インスタンス（サンドボックスインスタンスと実稼動インスタンスなど）を区別するのは困難になっています。この機能を使用すると、現在作業中のインスタンスを把握できます。
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [サブスクリプションのアクセスに制限](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-現在、Marketo サブスクリプションへの招待は無期限です。この機能を使用すると、管理者は、2 週間や 1 か月など期間限定でサブスクリプションにユーザーを招待できます。
+現在、Marketo サブスクリプションへの招待は無期限です。この機能を使用すると、管理者は、2 週間や 1 か月など期間限定でサブスクリプションにユーザを招待できます。
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
