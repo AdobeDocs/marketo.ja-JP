@@ -2,9 +2,9 @@
 description: リリースノート - 2023年1月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年1月
 source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '637'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 98%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ja">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
