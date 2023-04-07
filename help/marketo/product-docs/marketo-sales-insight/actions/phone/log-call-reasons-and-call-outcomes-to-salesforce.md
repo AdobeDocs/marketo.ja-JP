@@ -2,9 +2,9 @@
 description: Salesforce に通話理由と通話結果を記録 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce に通話理由と通話結果を記録
 source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. データタイプ「テキスト」を選択し、 **次へ**.
+1. データタイプ「テキスト」を選択し、「**次へ**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 91%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. 残りの設定はオプションです。設定が完了したら、「 **次へ**.
+1. 残りの設定はオプションです。設定が完了したら、「**次へ**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
@@ -55,7 +55,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >Sales Insight Actions ユーザーが使用するプロファイルと、表示したい他のプロファイルで、カスタムフィールドが表示されていることを確認します。
+   >Sales Insight Actions ユーザが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
 
 1. フィールドを追加するページレイアウトを選択し、「**保存**」をクリックします（オプションで、「**保存して新規作成**」をクリックし、「通話理由」フィールドに対してこのプロセスを繰り返すことができます）。
 
