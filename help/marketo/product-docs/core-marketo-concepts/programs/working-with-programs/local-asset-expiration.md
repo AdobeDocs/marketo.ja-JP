@@ -3,7 +3,7 @@ description: ローカルアセットの有効期限 - Marketo ドキュメン�
 title: ローカルアセットの有効期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
 ht-degree: 100%
 
