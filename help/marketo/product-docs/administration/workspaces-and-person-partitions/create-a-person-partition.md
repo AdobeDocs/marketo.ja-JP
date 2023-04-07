@@ -4,9 +4,9 @@ description: 人物パーティションの作成 - Marketo ドキュメント -
 title: 人物パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 96%
 
    ![](assets/create-a-person-partition-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/create-a-person-partition-2.png)
 
