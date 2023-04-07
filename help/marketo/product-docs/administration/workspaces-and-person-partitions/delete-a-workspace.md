@@ -4,9 +4,9 @@ description: ワークスペースの削除 - Marketo ドキュメント - 製�
 title: ワークスペースの削除
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 58%
 
    ![](assets/delete-a-workspace-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/delete-a-workspace-2.png)
 
@@ -32,6 +32,6 @@ ht-degree: 58%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 削除するアセットの数を確認し（「合計アセット数」の横に表示されます）、 **取り消しできません** 「 」チェックボックスをオンにして、「 」をクリックします。 **削除**.
+1. 削除するアセットの数を確認し（「合計アセット数」の横に表示されます）、「**取り消しできません**」チェックボックスをオンにして、「**削除**」をクリックします。
 
    ![](assets/delete-a-workspace-4.png)
