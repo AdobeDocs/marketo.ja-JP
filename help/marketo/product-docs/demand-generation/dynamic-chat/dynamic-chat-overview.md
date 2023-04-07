@@ -3,9 +3,9 @@ description: 動的チャットの概要 - Marketo ドキュメント - 製品�
 title: 動的チャットの概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '857'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 59%
 
 ## 統合 {#integrations}
 
-動的チャットの主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。 Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
+動的チャットの主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
 
 以下が同期されます。
 
@@ -33,29 +33,29 @@ ht-degree: 59%
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}。
 
 ## 設定 {#configuration}
 
-「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}
+「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}。
 
 ## カレンダー {#calendar}
 
-Chatbot の予定スケジュールに使用する Outlook または Gmail の予定表に接続します。 [カレンダーの詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。[カレンダーの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[会議の詳細を表示](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[ミーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリスト、Web サイト訪問者に表示される順序、カスタムルーティングルールの作成を確認できます。 [ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。[ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## よくある質問 {#faq}
 
-**Dynamic Chat は、会社の Web サイトの任意の場所にインストールできますか。それとも、Marketoのランディングページでのみ機能しますか。**
+**動的チャットは、会社の web サイトの任意の場所にインストールできますか？それとも、Marketo のランディングページでのみ機能しますか？**
 
-Dynamic Chat の JavaScript スニペットは、任意の Web サイトおよびMarketoのランディングページにインストールできます。
+動的チャットの JavaScript スニペットは、任意の web サイトおよび Marketo のランディングページにインストールできます。
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
@@ -65,9 +65,9 @@ Dynamic Chat の JavaScript スニペットは、任意の Web サイトおよ�
 
 いいえ、事前に決定された応答のみを利用します。
 
-**Dynamic Chat は英語以外の言語をサポートしていますか？**
+**動的チャットは英語以外の言語をサポートしていますか？**
 
-あります。Dynamic Chat は、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。 詳しくは、 [以下の節](#changing-the-language).
+はい。動的チャットは、次の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、[以下の節](#changing-the-language)を参照してください。
 
 **AI／NLP 機能はサポートしていますか？**
 
@@ -79,13 +79,13 @@ AI／NLP 機能はサポートしていません。
 
 ## 言語の変更 {#changing-the-language}
 
-ダイナミックチャットの言語を変更するには、次の手順に従います。
+動的チャットの言語を変更するには、次の手順に従います。
 
 >[!IMPORTANT]
 >
->プロファイルレベルで言語を変更すると、の言語が変更されます _すべて_ Experience Cloudアプリケーションは、Dynamic Chat だけではありません。
+>プロファイルレベルで言語を変更すると、動的チャットだけでなく、_すべて_&#x200B;の Experience Cloud アプリケーションの言語が変更されます。
 
-1. Experience Cloudアカウントで、設定アイコンをクリックし、「 」を選択します。 **環境設定**.
+1. Experience Cloud アカウントで、設定アイコンをクリックし、「**環境設定**」を選択します。
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -93,13 +93,13 @@ AI／NLP 機能はサポートしていません。
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 新しい言語（第 2 言語はオプション）を選択し、 **保存**.
+1. 新しい言語（第 2 言語はオプション）を選択し、「**保存**」をクリックします。
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >数十の言語から選択できますが、Dynamic Chat では次の言語のみをサポートしています。英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。
+   >数十の言語から選択できますが、動的チャットでは次の言語のみをサポートしています。英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
@@ -115,13 +115,13 @@ AI／NLP 機能はサポートしていません。
   <td>500</td>
  </tr>
  <tr>
-  <td>合計カレンダー</td>
+  <td>カレンダー総数</td>
   <td>接続されているカレンダーの数</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>合計ユーザー数（管理者およびマーケティングユーザー）</td>
-  <td>ダイナミックチャットインスタンスごとに許可される結合ユーザー数</td>
+  <td>ユーザ総数（管理者およびマーケティングユーザ）</td>
+  <td>動的チャットインスタンスごとに許可される結合ユーザ数</td>
   <td>50</td>
  </tr>
  <tr>
@@ -180,13 +180,13 @@ AI／NLP 機能はサポートしていません。
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>関与した会話</td>
-  <td>Web 訪問者が 1 ヶ月に関与できるチャット会話の数</td>
+  <td>エンゲージされた会話</td>
+  <td>Web 訪問者が 1 か月にエンゲージできるチャット会話の数</td>
   <td>250</td>
  </tr>
  <tr>
   <td>トリガーされた会話</td>
-  <td>Web 訪問者に 1 ヶ月に表示できるチャットの会話数</td>
+  <td>Web 訪問者に 1 か月に表示できるチャットの会話数</td>
   <td>25,000</td>
  </tr>
 </table>
