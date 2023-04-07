@@ -4,9 +4,9 @@ description: 付加的なランディングページ CNAME の追加 - Marketo �
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -36,19 +36,19 @@ ht-degree: 75%
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. 下にスクロールして&quot;Support Information&quot;を開き、Munchkin ID をコピーします。
+1. 「サポート情報」まで下にスクロールし、Munchkin ID をコピーします。
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## IT にリクエストを送信する {#send-request-to-it}
 
-1. 担当の IT 部門に、次の CNAME を設定するよう依頼します。( [CNAME] を選択し、 [Munchkin ID] 前の手順のテキストを含む )。
+1. 担当の IT 部門に、次の CNAME を設定するよう依頼します（[CNAME] を希望する CNAME で置き換え、[Munchkin ID] を前の手順のテキストで置き換えます)。
 
-   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
+   [CNAME].YourCompany.com／[Munchkin ID].mktoweb.com
 
 ## 新しい CNAME を追加する {#add-a-new-cname}
 
-1. IT 部門が CNAME を作成したら、 **管理者** 領域
+1. IT 部門で CNAME が作成されたら、「**管理者**」領域に移動します。
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
