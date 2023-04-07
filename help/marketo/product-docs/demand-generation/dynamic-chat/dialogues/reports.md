@@ -3,9 +3,9 @@ description: レポート - Marketo ドキュメント - 製品ドキュメン�
 title: レポート
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
 source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
  </tr>
  <tr>
   <td><strong>エンゲージ済</strong></td>
-  <td>訪問者がダイアログ内の少なくとも 1 つのカード（質問、情報キャプチャなど）を操作すると増分されます。</td>
+  <td>訪問者がダイアログ内の少なくとも 1 つのカード（質問、情報キャプチャなど）とやり取りすると増分されます。</td>
  </tr>
  <tr>
   <td><strong>完了</strong></td>
