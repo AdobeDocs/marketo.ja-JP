@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8849'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -223,13 +223,13 @@ ht-degree: 99%
          + [ロールの権限の説明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [スニペットでドラフトなしを有効にする](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + ワークスペースとリードパーティション {#workspaces-and-person-partitions}
-         + [ワークスペースとリードパーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-         + [ワークスペースへのユーザアクセス権を設定](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
-         + [ワークスペースへのリードパーティションの割り当て](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
-         + [割り当てルールを使用したリードパーティションの割り当て](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [ワークスペースの名前変更](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [ワークスペースと人物パーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+         + [ワークスペースへのユーザアクセス権を設定する](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
+         + [ワークスペースへの人物パーティションの割り当て](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
+         + [割り当てルールを使用した人物パーティションの割り当て](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
+         + [ワークスペースの名前を変更する](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
          + [新しいワークスペースの作成](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
-         + [リードパーティションの作成](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+         + [人物パーティションの作成](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [ワークスペースの削除](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [ワークスペースの編集](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [既存のリードパーティションの編集](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
@@ -617,7 +617,7 @@ ht-degree: 99%
          + [動的チャットの概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [初期設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [チャットユーザの追加または削除](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
-         + [ブラウザ通知](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
+         + [ブラウザー通知](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [動的チャットのアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
@@ -1287,7 +1287,7 @@ ht-degree: 99%
          + [Sales Insight Actions 機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + はじめに {#getting-started}
             + [Sales Insight Actions ユーザオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Sales Insight アクションユーザーオンボーディングチェックリスト](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+            + [Sales Insight Actions ユーザオンボーディングチェックリスト](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 管理者設定ガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo Sales のパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [製品使用の制限](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
@@ -1371,7 +1371,7 @@ ht-degree: 99%
             + [Sales Insight Actions でメールの重複排除はどのように処理されますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [自分のアカウントから締め出されました。どうすればいいですか？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions と Salesforce Lightning の互換性](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [Sales Insight アクションはどのブラウザーをサポートしていますか？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
+            + [Sales Insight Actions はどのブラウザーをサポートしていますか？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Sales Insight Actions のサービス利用規約は何ですか？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Sales Insight Actions に取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [動的フィールドに入力されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
@@ -1379,7 +1379,7 @@ ht-degree: 99%
             + [Sales Insight Actions にすべての取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 統合 {#integrations}
-            + [Highspot 統合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
+            + [Highspot との統合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [ユーザに Marketo のアクセス権を付与](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight Actions での注目のアクション](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
