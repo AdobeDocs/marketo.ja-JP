@@ -4,9 +4,9 @@ description: CNAME を使用したランディングページ URL のカスタ�
 title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Marketo がランディングページをホストしている場合でも、URL
 
 1 つの単語（plus YourCompany.com）が CNAME と呼ばれます。後で必要になるので、覚えておいてください。
 
-## Munchkin ID を見つける {#find-your-munchkin-id}
+## Munchkin ID を検索する {#find-your-munchkin-id}
 
 1. 「**管理者**」領域に移動します。
 
@@ -44,19 +44,19 @@ Marketo がランディングページをホストしている場合でも、URL
    >
    >**管理者権限が必要**
 
-1. 下にスクロールして&quot;Support Information&quot;を開き、Munchkin ID をコピーします。
+1. 「サポート情報」まで下にスクロールし、Munchkin ID をコピーします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## IT にリクエストを送信する {#send-request-to-it}
 
-次の CNAME を設定するよう IT スタッフに依頼します。( [CNAME] および [Munchkin ID] 前の手順のテキストを含む )。
+次の CNAME を設定するよう IT スタッフに依頼します（[CNAME] および [Munchkin ID] を前の手順のテキストで置き換える）。
 
-[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
+[CNAME].YourCompany.com／[Munchkin ID].mktoweb.com
 
 ## CNAME 設定を完了する {#complete-cname-setup}
 
-1. IT で CNAME が作成されたら、に移動します。 **管理者** 領域
+1. IT 部門で CNAME が作成されたら、「**管理者**」領域に移動します。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
