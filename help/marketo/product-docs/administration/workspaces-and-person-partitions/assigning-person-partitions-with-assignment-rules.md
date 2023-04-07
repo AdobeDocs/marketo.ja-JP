@@ -4,9 +4,9 @@ description: 割り当てルールを使用した人物パーティションの�
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 93%
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 以下 **担当者パーティション** タブ、クリック **割り当てルール**.
+1. 「**人物パーティション**」タブで、「**割り当てルール**」をクリックします。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
