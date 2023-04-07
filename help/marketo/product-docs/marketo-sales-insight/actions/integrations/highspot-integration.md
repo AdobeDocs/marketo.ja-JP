@@ -1,42 +1,42 @@
 ---
-description: Highspot との統合 — Marketoドキュメント — 製品ドキュメント
-title: Highspot 統合
+description: Highspot との統合 - Marketo ドキュメント - 製品ドキュメント
+title: Highspot との統合
 source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '334'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
-# Highspot 統合 {#highspot-integration}
+# Highspot との統合 {#highspot-integration}
 
-セールスは、Sales Insight Actions から Highspot 機能にアクセスし、セールス・サイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現します。 Sales Insight Action ユーザーは、Highspot と Sales Insight Actions 内のコンテンツ追跡と分析をキャプチャしながら、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。
+セールスチームは、Sales Insight Actions から Highspot 機能にアクセスし、セールスサイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現できます。Sales Insight Actions ユーザは、Highspot と Sales Insight Actions 内のコンテンツ追跡と分析をキャプチャしながら、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。
 
-## Highspot 統合の有効化 {#enabling-highspot-integration}
+## Highspot 統合を有効にする {#enabling-highspot-integration}
 
 >[!NOTE]
 >
->Sales Insight アクションインスタンスの Highspot を有効にするには、管理者権限が必要です。
+>Sales Insight Actions インスタンスの Highspot を有効にするには、管理者権限が必要です。
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/highspot-integration-1.png)
 
-1. の下 **管理設定**&#x200B;を選択します。 **一般**.
+1. 「**管理者設定**」で「**一般**」を選択します。
 
    ![](assets/highspot-integration-2.png)
 
-1. スクロールして **統合** カードをクリックし、スライダをクリックして Highspot を有効にします。
+1. スクロールして「**統合**」カードをクリックし、スライダーをクリックして Highspot を有効にします。
 
    ![](assets/highspot-integration-3.png)
 
-作成ウィンドウ、テンプレートエディター、キャンペーン E メールエディターでコンテンツのアップロードボタンを選択する際に、「Highspot」を選択するオプションが表示されるようになりました。
+作成ウィンドウ、テンプレートエディター、キャンペーンメールエディターでコンテンツのアップロードボタンを選択する際に、「Highspot」を選択するオプションが表示されるようになりました。
 
 ![](assets/highspot-integration-4.png)
 
 ## Highspot コンテンツへのアクセスとメールによるコンテンツの共有 {#accessing-highspot-content}
 
-Highspot にアクセスし、Sales Insight アクションの作成ウィンドウ、テンプレートエディタ、セールスキャンペーンメールエディタからメールにコンテンツを追加します。 作成ウィンドウからコンテンツにアクセスする手順を以下に示します。
+Highspot にアクセスし、Sales Insight Actions の作成ウィンドウ、テンプレートエディター、セールスキャンペーンメールエディターからメールにコンテンツを追加します。作成ウィンドウからコンテンツにアクセスする手順を以下に示します。
 
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
 
@@ -68,6 +68,6 @@ Highspot にアクセスし、Sales Insight アクションの作成ウィンド
 
 ## Highspot コンテンツでのクリックの追跡 {#tracking-clicks-on-highspot-content}
 
-受信者が送信したコンテンツを開くと、ライブフィードで通知が送信されます。 アクティビティは、コンテンツリンクの詳細と共に、クリックとして表示されます。 また、コンテンツとダウンロードの視聴が Highspot で追跡されます。
+受信者が送信したコンテンツを開くと、ライブフィードで通知が送信されます。アクティビティは、コンテンツリンクの詳細と共に、クリックとして表示されます。また、コンテンツの表示とダウンロードが Highspot で追跡されます。
 
 ![](assets/highspot-integration-11.png)
