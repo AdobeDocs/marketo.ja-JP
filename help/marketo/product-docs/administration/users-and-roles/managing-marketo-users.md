@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2359906
-description: Marketo ユーザーの管理 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo ユーザーの管理
+description: Marketo ユーザの管理 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo ユーザの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '346'
 ht-degree: 100%
 
 ---
 
-# Marketo ユーザーの管理 {#managing-marketo-users}
+# Marketo ユーザの管理 {#managing-marketo-users}
 
-## ユーザーを作成する {#create-users}
+## ユーザを作成する {#create-users}
 
 1. 「**管理者**」領域に移動します。
 
@@ -44,9 +44,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >有効期限が来ると、ユーザーは有効期限通知を受け取り、アカウントがロックされます。
+   >有効期限が来ると、ユーザは有効期限通知を受け取り、アカウントがロックされます。
 
-1. 任意の「**役割**」を選択し、「**次へ**」をクリックします。
+1. 任意の「**ロール**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -62,11 +62,11 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >招待は、新しいユーザーが追加されてから 3 日で期限切れになります。
+   >招待は、新しいユーザが追加されてから 3 日で期限切れになります。
 
-アカウント有効化の手順を記したメールがユーザーに送信されます。
+アカウント有効化の手順を記したメールがユーザに送信されます。
 
-## ユーザーを削除する {#delete-users}
+## ユーザを削除する {#delete-users}
 
 1. 「**管理者**」領域に移動します。
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
    ![](assets/managing-marketo-users-11.png)
 
-1. 削除するユーザーを選択し、「**ユーザーの削除**」をクリックします。
+1. 削除するユーザを選択し、「**ユーザの削除**」をクリックします。
 
    ![](assets/managing-marketo-users-12.png)
 
@@ -84,7 +84,7 @@ ht-degree: 100%
 
    ![](assets/managing-marketo-users-13.png)
 
-## ユーザーのパスワードをリセットする {#reset-user-passwords}
+## ユーザのパスワードをリセットする {#reset-user-passwords}
 
 1. 「管理者」領域に移動します。
 
@@ -94,7 +94,7 @@ ht-degree: 100%
 
    ![](assets/managing-marketo-users-15.png)
 
-1. ユーザーを選択して「**パスワードのリセット**」をクリックします。
+1. ユーザを選択して「**パスワードをリセット**」をクリックします。
 
    ![](assets/managing-marketo-users-16.png)
 
@@ -102,13 +102,13 @@ ht-degree: 100%
 
    ![](assets/managing-marketo-users-17.png)
 
-パスワードのリセット手順を記したメールがユーザーに送信されます。
+パスワードのリセット手順を記したメールがユーザに送信されます。
 
 >[!TIP]
 >
->ユーザーからメールが届かないと申告があった場合、迷惑メールフォルダーに振り分けられている可能性があるので、確認を促してください。
+>ユーザからメールが届かないと申告があった場合、迷惑メールフォルダーに振り分けられている可能性があるので、確認を促してください。
 
-## 権限の変更とユーザー情報の編集 {#change-permissions-and-edit-user-information}
+## 権限の変更とユーザ情報の編集 {#change-permissions-and-edit-user-information}
 
 1. 「**管理者**」領域に移動します。
 
@@ -118,11 +118,11 @@ ht-degree: 100%
 
    ![](assets/managing-marketo-users-19.png)
 
-1. ユーザーを選択して「**ユーザの編集**」をクリックします。
+1. ユーザを選択して「**ユーザの編集**」をクリックします。
 
    ![](assets/managing-marketo-users-20.png)
 
-1. ユーザーの情報を編集して関連する役割を変更できます。「**保存**」をクリックします。
+1. ユーザの情報を編集して関連するロールを変更できます。「**保存**」をクリックします。
 
    ![](assets/managing-marketo-users-21.png)
 
@@ -132,6 +132,6 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->新しいユーザーが管理者として招待された場合、または管理者が削除された場合、現在のすべての管理者にメール通知が送信されます。
+>新しいユーザが管理者として招待された場合、または管理者が削除された場合、現在のすべての管理者にメール通知が送信されます。
 
-素晴らしいです。これでユーザーの作成、削除、ユーザーパスワードのリセット、ユーザーの編集の方法をマスターできましたね。
+素晴らしいです。これでユーザの作成、削除、ユーザパスワードのリセット、ユーザの編集の方法をマスターできましたね。
