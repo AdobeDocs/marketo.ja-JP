@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352422
-description: Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？ - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？- Marketo ドキュメント - 製品ドキュメント
 title: Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Marketo Sales Connect は現在、次のブラウザーをサポートしてい�
    <td><strong>サポートされているバージョン</strong></td> 
   </tr> 
   <tr> 
-   <td><a href="https://www.google.com/intl/en/chrome/">Google Chrome</a></td> 
+   <td><a href="https://www.google.com/intl/ja/chrome/">Google Chrome</a></td> 
    <td>最新</td> 
   </tr> 
   <tr> 
@@ -33,13 +33,13 @@ Marketo Sales Connect は現在、次のブラウザーをサポートしてい�
    <td>最新</td>  
   </tr> 
   <tr> 
-   <td><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a></td> 
+   <td><a href="https://www.microsoft.com/ja-jp/edge">Microsoft Edge</a></td> 
    <td>最新</td>  
   </tr> 
  </tbody> 
 </table>
 
-以下は、すべてのセールスコネクトメールクライアントの最新バージョンです。
+すべての Sales Connect メールクライアントの最新バージョンは以下のとおりです。
 
 <table> 
  <tbody> 
@@ -70,4 +70,4 @@ Marketo Sales Connect は現在、次のブラウザーをサポートしてい�
  </tbody> 
 </table>
 
-最高のエクスペリエンスを実現するには、 **ブラウザーと e メールクライアントを更新しておく**!
+最高のエクスペリエンスを得るためには、**ブラウザーとメールクライアントを最新に保ってください**。
