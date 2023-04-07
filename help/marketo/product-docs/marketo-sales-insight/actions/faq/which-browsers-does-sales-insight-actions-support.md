@@ -1,17 +1,17 @@
 ---
-description: Sales Insight アクションはどのブラウザーをサポートしていますか？ - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight アクションはどのブラウザーをサポートしていますか？
+description: Sales Insight Actions はどのブラウザーをサポートしていますか？- Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight Actions はどのブラウザーをサポートしていますか？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
-# Sales Insight アクションはどのブラウザーをサポートしていますか？ {#which-browsers-does-sales-insight-actions-support}
+# Sales Insight Actions はどのブラウザーをサポートしていますか？ {#which-browsers-does-sales-insight-actions-support}
 
-Marketo Sales Insight のアクションは、現在、次のブラウザーをサポートしています。
+Marketo Sales Actions は、現在、次のブラウザーをサポートしています。
 
 <table> 
  <tbody> 
@@ -20,7 +20,7 @@ Marketo Sales Insight のアクションは、現在、次のブラウザーを�
    <td><strong>サポートされているバージョン</strong></td> 
   </tr> 
   <tr> 
-   <td><a href="https://www.google.com/intl/en/chrome/">Google Chrome</a></td> 
+   <td><a href="https://www.google.com/intl/ja/chrome/">Google Chrome</a></td> 
    <td>最新</td> 
   </tr> 
   <tr> 
@@ -32,7 +32,7 @@ Marketo Sales Insight のアクションは、現在、次のブラウザーを�
    <td>最新</td>  
   </tr> 
   <tr> 
-   <td><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a></td> 
+   <td><a href="https://www.microsoft.com/ja-jp/edge">Microsoft Edge</a></td> 
    <td>最新</td>  
   </tr> 
  </tbody> 
