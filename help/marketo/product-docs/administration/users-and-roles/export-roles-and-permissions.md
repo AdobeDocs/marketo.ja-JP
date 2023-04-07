@@ -1,17 +1,17 @@
 ---
-description: 役割と権限のエクスポート - Marketo ドキュメント - 製品ドキュメント
-title: 役割と権限のエクスポート
+description: ロールと権限のエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: ロールと権限のエクスポート
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
-# 役割と権限のエクスポート {#export-roles-and-permissions}
+# ロールと権限のエクスポート {#export-roles-and-permissions}
 
-すべての役割とその権限をエクスポートする方法を説明します。
+すべてのロールとその権限をエクスポートする方法を説明します。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 100%
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 「**ユーザーと役割**」を選択します。
+1. 「**ユーザ＆ロール**」を選択します。
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 「**役割**」タブをクリックします。
+1. 「**ロール**」タブをクリックします。
 
    ![](assets/export-roles-and-permissions-3.png)
 
@@ -37,6 +37,6 @@ ht-degree: 100%
 >
 >ブラウザーが Marketo からのポップアップをブロックしていないことを確認します。
 
-データは CSV 形式でエクスポートされ、役割、権限、グループごとに有効にされた権限の数が含まれます。
+データは CSV 形式でエクスポートされ、ロール、権限、グループごとに有効にされた権限の数が含まれます。
 
 ![](assets/export-roles-and-permissions-5.png)
