@@ -1,14 +1,14 @@
 ---
-description: Sales Insight アクションユーザーオンボーディングチェックリスト — Marketoドキュメント — 製品ドキュメント
-title: Sales Insight アクションユーザーオンボーディングチェックリスト
+description: Sales Insight Actions ユーザオンボーディングチェックリスト - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight Actions ユーザオンボーディングチェックリスト
 source-git-commit: 6e474bd49491744115a284342690f5140409590b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
-# Sales Insight アクションユーザーオンボーディングチェックリスト {#sales-insight-actions-user-onboarding-checklist}
+# Sales Insight Actions ユーザオンボーディングチェックリスト {#sales-insight-actions-user-onboarding-checklist}
 
 Marketo Sales Insight Actions の使い方に関するリソースをお探しの場合は、 [オンボーディングチェックリストをダウンロード](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
 

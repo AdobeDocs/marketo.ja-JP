@@ -6,7 +6,7 @@ exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 70%
+ht-degree: 92%
 
 ---
 
@@ -44,19 +44,19 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
   </tr> 
   <tr> 
    <td><p>セールスメールを送信</p></td> 
-   <td><p>ユーザーがセールスコネクトからセールスメールを送信しました。</p></td> 
+   <td><p>ユーザが Sales Connect からセールスメールを送信。</p></td> 
   </tr> 
   <tr> 
    <td><p>セールスメール開封</p></td> 
-   <td><p>リードは、セールスコネクトから送信されたセールスメールを開きました。</p></td> 
+   <td><p>リードが Sales Connect から送信されたセールスメールを開封。</p></td> 
   </tr> 
   <tr> 
    <td><p>セールスメールクリック</p></td> 
-   <td><p>リードがセールスコネクトから送信されたセールスメールのリンクをクリックしました。</p></td> 
+   <td><p>リードが Sales Connect から送信されたセールスメールのリンクをクリック。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスメール受信</p></td> 
-   <td colspan="1"><p>リードはセールスコネクトから送信されたメールを受信しました。</p></td> 
+   <td colspan="1"><p>Sales Connect から送信されたセールスメールをリードが受信。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールス電話受信</p></td> 
@@ -64,7 +64,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスキャンペーンに追加</p></td> 
-   <td colspan="1"><p>（「キャンペーン」ページの）セールスコネクトで作成されたセールスキャンペーンにリードが追加されました。</p></td> 
+   <td colspan="1"><p>Sales Connect（キャンペーンページ）で作成したセールスキャンペーンにリードが追加。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>セールスキャンペーンから削除</p></td> 
@@ -79,7 +79,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
 
 ## マーケティングキャンペーンの共有 {#share-marketing-campaigns}
 
-シンプルなスマートキャンペーンを作成して、セールスユーザーに [Marketo キャンペーンデータ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)へのアクセスを許可します。
+シンプルなスマートキャンペーンを作成して、セールスユーザに [Marketo キャンペーンデータ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)へのアクセスを許可します。
 
 ![](assets/campaign-is-requested.jpg)
 

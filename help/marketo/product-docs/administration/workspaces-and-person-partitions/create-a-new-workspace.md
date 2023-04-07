@@ -5,8 +5,8 @@ title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 100%
 
 ---
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Workspace のベストプラクティスの詳細については、 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス{target="_blank"}にお問い合わせください。](https://business.adobe.com/products/marketo/services-support.html)
 
 1. 「**管理者**」領域に移動します。
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. クリック **新しいワークスペース**.
+1. 「**新規ワークスペース**」をクリックします。
 
    ![](assets/create-a-new-workspace-3.png)
 

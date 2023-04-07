@@ -4,8 +4,8 @@ title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 96%
 
 ---
 
@@ -87,7 +87,7 @@ Sales Insight Actions で使用可能な拡張セールスエンゲージメン�
   <td>50</td>
  </tr>
  <tr>
-  <td>グループごとの担当者</td>
+  <td>グループごとの人物</td>
   <td>グループごと</td>
   <td>200</td>
  </tr>

@@ -5,7 +5,7 @@ exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '1096'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -123,9 +123,9 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 はい、サポートする ID のタイプを決定するのは組織です。詳しくは、[ID の概要](https://helpx.adobe.com/enterprise/using/identity.html)と [ID の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を確認してください。
 
-**Adobe Admin Consoleでサポートされている製品カードは何ですか。**
+**Adobe Admin Console でサポートされている製品カードは何ですか。**
 
-サポートされる製品カードは次のとおりです。Marketo Engage、Marketo Measure、Marketo Dynamic Chat、Marketo Sales Connect、Marketo Sales Insight Actions
+サポートされる製品カードは次のとおりです。Marketo Engage、Marketo Measure、Marketo 動的チャット、Marketo Sales Connect、Marketo Sales Insight Actions
 
 >[!MORELIKETHIS]
 >
