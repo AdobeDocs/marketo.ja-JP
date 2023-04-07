@@ -4,9 +4,9 @@ description: ワークスペースと人物パーティションについて - M
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '520'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 >
 >ワークスペースは、設定が複雑になる場合があります。ワークスペースが最適かどうか確認するには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-ワークスペースは Marketo の別の領域で、プログラム、ランディングページ、電子メールなどのマーケティングアセットが格納されます。複数のユーザーが使用できます。各ユーザーは、1 つ以上のワークスペースにアクセスできます。
+ワークスペースは Marketo の別の領域で、プログラム、ランディングページ、電子メールなどのマーケティングアセットが格納されます。複数のユーザが使用できます。各ユーザは、1 つ以上のワークスペースにアクセスできます。
 
 >[!NOTE]
 >
@@ -43,15 +43,15 @@ ht-degree: 97%
 >
 >アセットを含む親フォルダーは、共有できる唯一のフォルダーで、子フォルダーは共有できません。
 
-1. クリック データベース.
+1. 「データベース」をクリックします。
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Segmentation フォルダーを右クリックし、 **新規フォルダ**.
+1. セグメント化フォルダーを右クリックし、「**新規フォルダー**」をクリックします。
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. フォルダーの名前を指定して、 **作成**.
+1. フォルダーに名前を付け、「**作成**」をクリックします。
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -116,7 +116,7 @@ ht-degree: 97%
 >
 >人物パーティションを使用する理由：
 >
->* ワークスペースに異なるアセットがあるだけでなく、他のユーザーとも共有しません
+>* ワークスペースに異なるアセットがあるだけでなく、他のユーザとも共有しません
 >* その他のビジネス上の理由から重複が必要な場合
 
 
