@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）- Marketo ドキュメント - 製品ドキュメント
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 100%
 
 ---
@@ -251,14 +251,11 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 作成した他のフィールドに対して、上記の手順を繰り返します。
+
 1. 完了したら、「保存」をクリックします。
 
 簡単ですね。
 
->[!NOTE]
->
->こちらの[プロセス全体のビデオ](https://nation.marketo.com/videos/1475)で明白になるはずです。
-
 >[!MORELIKETHIS]
 >
->[手順 2／3：Marketo 用の Salesforce ユーザーの作成（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
