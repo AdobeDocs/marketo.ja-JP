@@ -3,10 +3,10 @@ unique-page-id: 1147055
 description: キャンペーンのアクション - スマートキャンペーンの削除 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーンのアクション - スマートキャンペーンの削除
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 93%
 
 ---
 
@@ -20,19 +20,19 @@ ht-degree: 100%
 
 1. 「**マーケティング活動**」領域に移動します。
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 非アクティブなスマートキャンペーンに移動します。「**キャンペーン****アクション**」で、「**削除**」をクリックします。
+1. 非アクティブなスマートキャンペーンに移動します。内 **Campaign** **アクション** ドロップダウンで、「 **削除**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >アクティブなスマートキャンペーンを完全に削除せずにキャンセルするには、[スマートキャンペーンを中止する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)を参照してください。
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. 「**削除**」をクリックして確定します。
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >

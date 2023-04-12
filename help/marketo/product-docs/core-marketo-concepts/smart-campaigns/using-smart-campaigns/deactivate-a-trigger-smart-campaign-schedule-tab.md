@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: トリガースマートキャンペーンの無効化 | 「スケジュール」タブ - Marketo ドキュメント - 製品ドキュメント
 title: トリガースマートキャンペーンの無効化 | 「スケジュール」タブ
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -16,15 +16,15 @@ ht-degree: 100%
 
 1. 無効化するトリガーキャンペーンを探して選択します。
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. 「スケジュール」タブで「**無効化**」をクリックします。
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. 「**無効化**」をクリックして確認します。
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >

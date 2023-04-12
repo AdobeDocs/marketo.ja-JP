@@ -3,10 +3,10 @@ unique-page-id: 1147058
 description: 予定されているバッチキャンペーンの実行のキャンセル - Marketo ドキュメント - 製品ドキュメント
 title: 予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 84%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 100%
 
 1. 目的のキャンペーンを選択して「**スケジュール**」タブに移動します。
 
-   ![](assets/image2014-9-22-16-3a43-3a10.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. バッチキャンペーンの実行スケジュールを探し、その横に表示された「**x**」をクリックします。
+1. キャンセルする予定されている実行を見つけ、 **x** 隣に
 
-   ![](assets/image2014-9-22-16-3a43-3a15.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
 1. 「**OK**」をクリックして、キャンセルを確認します。
 
-   ![](assets/image2014-9-22-16-3a43-3a24.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 
 >[!NOTE]
 >

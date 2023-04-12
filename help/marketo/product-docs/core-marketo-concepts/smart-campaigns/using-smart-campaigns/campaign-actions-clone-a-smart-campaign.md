@@ -3,10 +3,10 @@ unique-page-id: 1146989
 description: キャンペーンのアクション - スマートキャンペーンの複製を作成 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーンのアクション - スマートキャンペーンの複製を作成
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 84%
 
 ---
 
@@ -14,16 +14,16 @@ ht-degree: 100%
 
 キャンペーンを複製すると、すべてをゼロから作成する必要がなくなり、時間を節約できます。複製は、全く同じスマートリストフィルターとフローステップを持つ、同一のキャンペーンを作成します。
 
-1. 複製するキャンペーンを検索して選択し、「**キャンペーンアクション**」で「**複製**」をクリックします。
+1. 複製するキャンペーンを選択します。 内 **キャンペーンアクション** ドロップダウンで、「 **複製**.
 
-   ![](assets/image2014-9-22-13-3a56-3a34.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
 1. 「**複製先**」で適切なオプションを選択します。この例では、「**プログラム**」を選択しています。
 
-   ![](assets/image2014-9-22-13-3a56-3a56.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
 1. 「**プログラム**」を選択します。「**キャンペーン名**」を入力し、「**複製**」をクリックします。
 
-   ![](assets/image2014-9-22-13-3a57-3a9.png)
+   ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 
 完成です。

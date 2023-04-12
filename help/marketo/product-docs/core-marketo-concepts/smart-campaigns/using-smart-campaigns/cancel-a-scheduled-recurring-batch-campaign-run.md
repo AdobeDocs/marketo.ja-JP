@@ -3,10 +3,10 @@ unique-page-id: 1147060
 description: 繰り返し予定されているバッチキャンペーンの実行のキャンセル - Marketo ドキュメント - 製品ドキュメント
 title: 繰り返し予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 59%
 
 ---
 
@@ -14,27 +14,27 @@ ht-degree: 100%
 
 不要な繰り返しバッチキャンペーンがある場合は、以降の実行をキャンセルできます。ここでは、その方法を説明します。
 
-1. スマートキャンペーンをクリックし、「**スケジュール**」タブをクリックします。
+1. スマートキャンペーンを選択し、 **スケジュール** タブをクリックします。
 
-   ![](assets/image2014-9-22-16-3a44-3a51.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
 1. 「**繰り返しのスケジュール**」をクリックします。
 
-   ![](assets/image2014-9-22-16-3a44-3a55.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >横の赤い「![x](assets/image2014-9-22-16-3a45-3a42.png)」をクリックして、1 回の実行をキャンセルできます。[予定されているバッチキャンペーンの実行をキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)する方法を説明します。
+   >1 回の実行をキャンセルするには、 ![赤 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 隣に [予定されているバッチキャンペーンの実行をキャンセル](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)する方法を説明します。
 
-1. 「スケジュール」を「**なし**」に設定してから、「**保存**」に設定します。
+1. スケジュールの設定： **なし** をクリックし、 **保存**.
 
-   ![](assets/image2014-9-22-16-3a45-3a56.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
    これで完成です。スマートキャンペーンは実行されなくなります。
 
    >[!CAUTION]
    >
-   >これにより、以降の実行がキャンセルされますが、スマートキャンペーンの実行中はキャンセルできません。
+   >これにより、今後の実行がキャンセルされますが、スマートキャンペーンが実行中の場合はキャンセルできません。
 
    >[!MORELIKETHIS]
    >
