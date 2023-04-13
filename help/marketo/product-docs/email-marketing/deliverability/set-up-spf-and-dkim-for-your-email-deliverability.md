@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: メール到達率のための SPF と DKIM の設定 - Marketo ドキュメント - 製品ドキュメント
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 100%
 
 ---
@@ -46,12 +46,11 @@ DNS レコードに公開鍵を設定し、管理セクション（A）で送信
 
 **DKIM の設定方法を教えてください。**
 
-[カスタム DKIM 署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)を参照してください。
+[カスタム DKIM 署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}を参照してください。
 
 >[!MORELIKETHIS]
 >
->* [SPF の詳細と仕組み](http://www.open-spf.org/Introduction/)
->* [Marketo メール到達率ツール](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [SPF が正しく設定されていますか？](https://www.kitterman.com/spf/validate.html)
->* [正しい構文を使用しましたか？](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [SPF の詳細と仕組み](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [SPF が正しく設定されていますか？](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [正しい構文を使用しましたか？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
