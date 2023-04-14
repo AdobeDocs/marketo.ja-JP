@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 99%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 99%
             + [フォームへの国選択リストの追加](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [フォームへのリッチテキストの追加](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [フォームのロケールの変更](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [フォームの検証／エラーメッセージおよび送信ボタンの言語の変更](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [フォームの言語の変更](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [フォームのプログレッシブプロファイリングの設定](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [フォームの削除](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
