@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
-workflow-type: ht
-source-wordcount: '8849'
-ht-degree: 100%
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+workflow-type: tm+mt
+source-wordcount: '8868'
+ht-degree: 99%
 
 ---
 
@@ -663,6 +663,11 @@ ht-degree: 100%
                + [ウェビナープログラムのステータスについて](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + インタラクティブウェビナー {#interactive-webinars}
             + [インタラクティブウェビナーの概要](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [インタラクティブ Web セミナーのユーザー管理](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [インタラクティブなウェビナーの作成](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [インタラクティブな Web セミナーの設計](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [インタラクティブなウェビナーの編集または削除](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [イベントワークフロー](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Facebook でのカスタムオーディエンスへのリードの追加](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
