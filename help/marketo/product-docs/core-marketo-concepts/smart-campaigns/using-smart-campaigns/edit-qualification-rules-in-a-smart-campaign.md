@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: スマートキャンペーンでのクオリフィケーションルールの編集 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンでのクオリフィケーションルールの編集
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 1. スマートキャンペーンで、「**スケジュール**」タブをクリックし、「**設定を編集**」をクリックします。
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 1. スマートキャンペーンフローで各人物が実行できる回数を次から選択します。**1 回のみ**、**毎回**、または&#x200B;**次の間隔で 1 回：日付**／**週**／**月**
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
