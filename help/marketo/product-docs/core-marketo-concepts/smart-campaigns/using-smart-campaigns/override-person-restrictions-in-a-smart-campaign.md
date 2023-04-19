@@ -3,10 +3,10 @@ unique-page-id: 1147066
 description: スマートキャンペーンでのリード制限数の上書き - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンでのリード制限数の上書き
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,11 +20,11 @@ Marketo では、スマートキャンペーンに振り分けられる最大リ
 
 1. 「マーケティング活動」で、スマートキャンペーンに移動し、「**スケジュール**」をクリックします。
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. スマートキャンペーン設定で、「**編集**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo では、スマートキャンペーンに振り分けられる最大リ
 
 1. 新しい制限を入力し、「**保存**」をクリックします。
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    適合するリード数が設定された制限を超えると、スマートキャンペーンは実行されません。
 
