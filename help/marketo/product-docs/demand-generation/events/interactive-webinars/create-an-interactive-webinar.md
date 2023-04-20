@@ -4,16 +4,16 @@ title: インタラクティブなウェビナーの作成
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 3%
 
 ---
 
 # インタラクティブなウェビナーの作成 {#create-an-interactive-webinar}
 
-はじめに.
+インタラクティブな Web セミナーを簡単な手順で作成します。
 
 1. 「**マーケティングアクティビティ**」に移動します。
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. イベントに名前を付けます。 「プログラムタイプ」で、「 **イベント**.
+1. プログラムに名前を付けます。 「プログラムタイプ」で、「 **イベント**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. ウェビナーの日時をスケジュールします。
+1. ウェビナーの日時をスケジュールし、 **作成**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. テキスト
+インタラクティブ Web セミナーが作成されます。 今こそ～する時だ [デザインする](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
