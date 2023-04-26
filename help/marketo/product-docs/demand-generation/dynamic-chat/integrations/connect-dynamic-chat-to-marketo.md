@@ -3,8 +3,8 @@ description: 動的チャットを Marketo に接続する - Marketo ドキュ�
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
 source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
-workflow-type: tm+mt
-source-wordcount: '270'
+workflow-type: ht
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ## 動的チャットの接続 {#connecting-dynamic-chat}
 
-[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}が完了したら、動的チャットを Marketo サブスクリプションに接続する 1 回限りの同期を実行します。
+[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}が完了したら、動的チャットを Marketo サブスクリプションに接続する 1 回限りの同期を実行する時間です。
 
 1. マイ Marketo で、**動的チャット**&#x200B;タイルをクリックします。
 
@@ -23,7 +23,7 @@ ht-degree: 100%
    >
    >タイルが表示されない場合は、Marketo 管理者にお問い合わせください。
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}します。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
 1. Marketo インスタンスに接続するには、**統合**&#x200B;を選択します。
 
@@ -79,4 +79,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
+>[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}
