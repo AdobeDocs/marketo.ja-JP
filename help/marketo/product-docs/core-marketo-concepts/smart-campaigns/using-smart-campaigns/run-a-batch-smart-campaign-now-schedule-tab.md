@@ -4,7 +4,7 @@ description: バッチスマートキャンペーンの即時実行 | 「スケ�
 title: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
