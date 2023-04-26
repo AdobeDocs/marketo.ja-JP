@@ -3,8 +3,8 @@ description: ダイアログの概要 - Marketo ドキュメント - 製品ド�
 title: ダイアログの概要
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
 source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
-workflow-type: tm+mt
-source-wordcount: '172'
+workflow-type: ht
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 100%
 
 ## オーディエンス条件 {#audience-criteria}
 
-ダイアログの「[オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}」セクションでは、チャット会話を表示する場所と対象者を定義します
+ダイアログの「[オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}」セクションでは、チャット会話を表示する場所と対象者を定義します
 
 ![](assets/dialogue-overview-1.png)
 
 ## ストリームデザイナー {#stream-designer}
 
-ダイアログの「[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}」セクションで、web サイト訪問者との会話をデザインできます。
+ダイアログの「[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}」セクションで、web サイト訪問者との会話をデザインできます。
 
 ![](assets/dialogue-overview-2.png)
 
 ## レポート {#reports}
 
-ダイアログの「[レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}」セクションでは、ダイアログの効果に関する指標を確認できます。
+ダイアログの「[レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}」セクションでは、ダイアログの効果に関する指標を確認できます。
 
 ![](assets/dialogue-overview-3.png)
 
