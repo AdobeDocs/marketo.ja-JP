@@ -4,7 +4,7 @@ description: 後で実行するようにバッチスマートキャンペーン�
 title: 後で実行するようにバッチスマートキャンペーンをスケジュール
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
