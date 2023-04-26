@@ -3,8 +3,8 @@ description: ドキュメントカードの使用 - Marketo ドキュメント -
 title: ドキュメントカードの使用
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
 source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
-workflow-type: tm+mt
-source-wordcount: '141'
+workflow-type: ht
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ドキュメントカードを使用すると、ダイアログに PDF ドキュメントを埋め込み、訪問者のドキュメントエンゲージメントアクティビティを追跡できます。その設定方法を説明します。
 
-1. [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}に移動します。
+1. [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"} に移動します。
 
 1. 「**資格情報の取得**」をクリックします。
 
