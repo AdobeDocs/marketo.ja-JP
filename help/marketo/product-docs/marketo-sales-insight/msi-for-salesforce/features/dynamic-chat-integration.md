@@ -3,8 +3,8 @@ description: 動的チャットの統合 - Marketo ドキュメント - 製品�
 title: 動的チャットの統合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
-workflow-type: tm+mt
-source-wordcount: '392'
+workflow-type: ht
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
@@ -15,9 +15,9 @@ Sales Insight と動的チャットの統合について詳しく説明します
 
 >[!PREREQUISITES]
 >
->* Sales Insight SFDC パッケージは、[1.9 以降](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}のバージョンである必要があります。
+>* Sales Insight SFDC パッケージは、[1.9 以降](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}のバージョンである必要があります。
 >
->* [動的チャットの統合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}セットアップを持っている必要があります。
+>* [動的チャットの統合](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}セットアップを持っている必要があります。
 
 
 ## Marketo Sales Insight の「設定」タブ {#marketo-sales-insight-configuration-tab}
