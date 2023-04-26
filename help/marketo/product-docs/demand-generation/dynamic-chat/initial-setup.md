@@ -3,7 +3,7 @@ description: 初期設定 - Marketo ドキュメント - 製品ドキュメン�
 title: 初期設定
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
 source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
