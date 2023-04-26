@@ -2,20 +2,20 @@
 description: メールの検証 - Marketo ドキュメント - 製品ドキュメント
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 65%
 
 ---
 
 # メールの検証 {#email-verification}
 
-AdobeMarketo Engage サブスクリプションを使用する場合、API 専用ユーザを除くすべてのユーザは、自分のメールアドレスを検証する必要があります。シングルサインオン（SSO）ユーザは、メールの検証でサブスクリプションが有効になっている場合、自動的にメールを検証されます。
+Adobe Marketo Engageサブスクリプションを使用する場合、Marketo Engage管理者を含む、API 以外のすべてのユーザーが電子メールアドレスを検証する必要があります。 管理者の役割が割り当てられていないシングルサインオン (SSO) ユーザーは、電子メールの検証機能で配信登録が有効になると、自動的に電子メールを検証します。
 
 **ユーザ招待**
 
-管理者がユーザを招待した場合、招待リンクをクリックすると、そのユーザは自動的に検証されます。SSO のユーザは自動的に検証されます。
+管理者がユーザを招待した場合、招待リンクをクリックすると、そのユーザは自動的に検証されます。管理者の役割が割り当てられていない SSO ユーザーは、自動的に検証されます。
 
 **メールアドレスの変更**
 
