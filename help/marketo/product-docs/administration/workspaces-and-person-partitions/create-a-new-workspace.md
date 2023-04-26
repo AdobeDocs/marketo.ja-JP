@@ -4,7 +4,7 @@ description: 新しいワークスペースの作成 - Marketo ドキュメン�
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
 ht-degree: 100%
 
