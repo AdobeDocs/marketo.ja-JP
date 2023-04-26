@@ -4,9 +4,9 @@ description: 既存の人物パーティションを編集する - Marketo ド�
 title: 既存の人物パーティションを編集する
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 97%
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
