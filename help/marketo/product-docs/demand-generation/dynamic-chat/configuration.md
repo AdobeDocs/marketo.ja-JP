@@ -3,7 +3,7 @@ description: 設定 - Marketo ドキュメント - 製品ドキュメント
 title: 設定
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '319'
 ht-degree: 100%
 
