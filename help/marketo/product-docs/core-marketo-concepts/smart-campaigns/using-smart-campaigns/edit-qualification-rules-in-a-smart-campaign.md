@@ -4,7 +4,7 @@ description: スマートキャンペーンでのクオリフィケーション�
 title: スマートキャンペーンでのクオリフィケーションルールの編集
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
