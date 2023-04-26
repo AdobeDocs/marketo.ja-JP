@@ -4,9 +4,9 @@ description: ワークスペースを編集する - Marketo ドキュメント -
 title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '148'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-workspace-1.png)
 
-1. クリック **ワークスペースとパーティション**.
+1. 「**ワークスペースとパーティション**」をクリックします。
 
    ![](assets/edit-a-workspace-2.png)
 
