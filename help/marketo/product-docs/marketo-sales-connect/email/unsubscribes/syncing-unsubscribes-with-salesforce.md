@@ -3,10 +3,10 @@ unique-page-id: 14746188
 description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bcfaab258b0b10d271debc2d5521f2a995aa6aed
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ Sales Connect で登録解除が収集された場合は、リアルタイムで
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。MSE／ToutApp 内のすべての配信停止を、Salesforce のオプトアウトフィールドと双方向同期します。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
 
 ## Salesforce に配信停止の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
 
