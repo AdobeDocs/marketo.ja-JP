@@ -2,10 +2,10 @@
 description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
 source-wordcount: '430'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
 
 **配信停止の同期**
 
-配信停止を同期（以下の手順 3）を有効にすると、夜間の同期が有効になります。同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。MSE／ToutApp 内のすべての配信停止を、Salesforce のオプトアウトフィールドと双方向同期します。
+配信停止を同期（以下の手順 3）を有効にすると、夜間の同期が有効になります。同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
 
 ## Salesforce に配信停止の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
 
