@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '452'
 ht-degree: 31%
 
 ---
@@ -96,20 +96,6 @@ ht-degree: 31%
 ### 動的チャット {#dynamic-chat}
 
 </br>
-
-* **ダイナミックチャットアクティビティの強化**:Dynamic Chat の既存のアクティビティ、フィルター、トリガーは、追加の属性と標準化された命名規則によって強化されます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **ダイナミックチャットのチャットソース**:「チャット」は、新しい担当者のレコードとアクティビティのソースとして提供されるようになりました。 このソースは、スマートリスト/キャンペーンのアクティビティをフィルタリングするのに役立ちます。 フィールドの更新からソースをブロックすることもできます。
 

@@ -4,16 +4,16 @@ title: インタラクティブ Web セミナーの変更または削除
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
 
 # インタラクティブ Web セミナーの変更または削除 {#modify-or-delete-an-interactive-webinar}
 
-はじめに.
+インタラクティブ Web セミナーの変更方法を説明します。
 
 ## インタラクティブ Web セミナーの変更 {#modify-an-interactive-webinar}
 
@@ -24,6 +24,8 @@ ht-degree: 2%
 1. テキスト
 
 PICC
+
+???ニレシのため — ウェビナーが既にある部屋に連れて行かれないのは普通なのか？ そうでない場合、ベストプラクティスは何ですか？
 
 ## インタラクティブなウェビナーの再スケジュール {#reschedule-an-interactive-webinar}
 
@@ -49,16 +51,36 @@ PICC
    >
    >ツリー内のイベントプログラムを右クリックし、「 」を選択することもできます。 **複製** そこから
 
+1. 複製したプログラムに名前を付け、[ ワークスペース ] と [ 保存先 ] を設定して（別の場所にプログラムを配置する場合）、[ ] をクリックします。 **保存**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-10.png)
+
+1. 「**次へ**」をクリックします。
+
+   ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+1. 複製したウェビナーの設定を選択し、 **複製**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-12.png)
+
 ## インタラクティブなウェビナーの削除 {#delete-an-interactive-webinar}
 
 1. 目的のイベントプログラムを選択します。
 
-   ![](assets/modify-or-delete-an-interactive-webinar-10.png)
+   ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
 1. プログラムアクションドロップダウンをクリックし、「 」を選択します。 **削除**.
 
-   ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+   ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
    >[!TIP]
    >
    >ツリー内のイベントプログラムを右クリックし、「 」を選択することもできます。 **削除** そこから
+
+1. 「**削除**」をクリックします。
+
+   ![](assets/modify-or-delete-an-interactive-webinar-15.png)
+
+   >[!IMPORTANT]
+   >
+   >プログラム内にローカルアセットがある場合は、それらも削除されます。

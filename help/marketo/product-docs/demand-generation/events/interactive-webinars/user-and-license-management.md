@@ -4,16 +4,16 @@ title: ユーザーとライセンスの管理
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '412'
 ht-degree: 8%
 
 ---
 
 # ユーザーとライセンスの管理 {#user-and-license-management}
 
-はじめに.
+ユーザーの追加と削除の方法、および現在のライセンスの表示について説明します。
 
 ## ユーザの追加 {#add-a-user}
 
