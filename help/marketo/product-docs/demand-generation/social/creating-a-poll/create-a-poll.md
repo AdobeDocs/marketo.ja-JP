@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 投票の作成 - Marketo ドキュメント - 製品ドキュメント
 title: 投票の作成
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '296'
 ht-degree: 100%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 100%
 # 投票の作成 {#create-a-poll}
 
 自分で参加し、ソーシャルネットワーク上で友達と共有できる投票にユーザをエンゲージします。ランディングページ、web サイト、Facebook などの場所に追加できます。
-
->[!AVAILABILITY]
->
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
 
 >[!PREREQUISITES]
 >

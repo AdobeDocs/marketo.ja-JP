@@ -4,10 +4,10 @@ title: インタラクティブ Web セミナーの変更または削除
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 2%
+source-wordcount: '287'
+ht-degree: 1%
 
 ---
 
@@ -21,11 +21,25 @@ ht-degree: 2%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. テキスト
+1. 部屋が積み込まれる。 部屋を変更する場合は、[ 部屋 ] ドロップダウンから部屋を選択します。 テンプレートを更新する場合は、 **部屋を使用**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-???ニレシのため — ウェビナーが既にある部屋に連れて行かれないのは普通なのか？ そうでない場合、ベストプラクティスは何ですか？
+>[!NOTE]
+>
+>部屋の変更は任意で、テンプレートの更新には必要ありません。
+
+1. クリック **ウェビナーを今すぐ絞り込む**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. オーディオ/ビデオの環境設定を選択し、 **部屋に入る**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. 変更が完了したら、「 **出口部屋**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## インタラクティブなウェビナーの再スケジュール {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. 「**次へ**」をクリックします。
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >複製したインタラクティブウェビナーは、現時点ではインタラクティブウェビナーとしてのみ保存できます。 複製したオンラインセミナーをパートナーウェビナーとして保存する（例：Zoom、ON24 など）と 近日中に利用可能になります。
 
 1. 複製したウェビナーの設定を選択し、 **複製**.
 

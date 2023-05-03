@@ -4,16 +4,18 @@ title: インタラクティブウェビナーの概要
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '212'
+ht-degree: 7%
 
 ---
 
 # インタラクティブウェビナーの概要 {#interactive-webinars-overview}
 
 BLANK の効果的なウェビナーを作成するためのネイティブMarketo Engageツールの詳細を説明します。
+
+Adobe Connectウェビナーは、複数のユーザーが使用できるライブインタラクティブなオンライン会議です。 部屋は、ウェビナーの実施に使用する永続的なオンラインの仮想空間です。 様々なディスプレイパネル（ポッド）やレイアウトが含まれます。 事前に作成された会議室レイアウトがいくつかあります。また、必要に応じて追加のカスタムレイアウトを作成して使用することもできます。 出席者は、コンピュータの画面やファイルの共有、チャット、オーディオやビデオの放送、インタラクティブなオンラインアクティビティへの参加を行うことができます。
 
 _インタラクティブ Web セミナーとは_
 
