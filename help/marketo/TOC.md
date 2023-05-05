@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 99%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 99%
          + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知のタイプ](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + ジャーニー {#not-journeys}
+         + [名前の概要](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [「名前」タブ](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [「設定」タブ](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + 予測オーディエンス {#predictive-audiences}
          + [予測オーディエンスの概要](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
