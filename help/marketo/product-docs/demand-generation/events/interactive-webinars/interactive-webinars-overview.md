@@ -4,20 +4,20 @@ title: インタラクティブウェビナーの概要
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 3%
 
 ---
 
 # インタラクティブウェビナーの概要 {#interactive-webinars-overview}
 
-インタラクティブウェビナー機能を使用すると、追加のツールや統合を使用することなく、Marketo Engageでウェビナーを作成、スケジュール、昇格、配信できます。
+インタラクティブウェビナー機能は、Marketo Engage内に組み込まれたウェビナープラットフォームです。 追加のツールや統合は不要です。
 
 ## インタラクティブ Web セミナーとは {#what-is-interactive-webinars}
 
-インタラクティブウェビナーは、複数のユーザーが利用できるライブのインタラクティブなオンライン会議です。 次の場合： [インタラクティブなウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}には、事前に作成された会議室レイアウトがいくつか用意されています。これらはすべてカスタマイズできます。 また、追加のカスタムレイアウトを作成して使用することもできます。 参加者は、コンピュータの画面やファイルを共有し、互いにチャットし、音声やビデオを放送し、インタラクティブなオンラインアクティビティに参加することができます。
+インタラクティブ Web セミナーは、Marketo Engage内でイベントを作成、管理、配信するための、ネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを拡張します。 次の場合： [インタラクティブなウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}では、事前に作成された複数の会議室レイアウトを選択できます。すべてのレイアウトはカスタマイズ可能です（追加のカスタムレイアウトを作成して使用することもできます）。 参加者は、コンピュータの画面やファイルを共有し、互いにチャットし、音声やビデオを放送し、インタラクティブなオンラインアクティビティに参加することができます。
 
 インタラクティブなウェビナーオファー [3 種類のライセンス](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}それぞれ様々な機能と能力を持つ
 
