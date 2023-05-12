@@ -3,10 +3,10 @@ unique-page-id: 2949467
 description: Adobe Marketo Engage とは- Marketo ドキュメント - 製品ドキュメント
 title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 100%
+source-wordcount: '289'
+ht-degree: 78%
 
 ---
 
@@ -43,10 +43,20 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 ## 何か設定が必要ですか？ {#do-i-need-to-do-any-setup}
 
-はい、[するべきことのチェックリスト](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}があります。
+はい、[するべきことのチェックリスト](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}があります。
 
 ## 学習を完了するまで設定を待たなければなりませんか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-いいえ。簡単なチュートリアルがたくさんあります。[ここから始める](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}。所要時間は 1 時間ほどです。いつでも開始できます。
+いいえ。簡単なチュートリアルがたくさんあります。[こちらから開始できます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}。所要時間は 1 時間ほどです。いつでも開始できます。
+
+## 特定の週に送信できるメールの総数など、制限事項のリストはありますか。 {#list-of-limits}
+
+ある。 静的制限（およびその他のパラメータ）の概要 [この記事では、](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+
+## Marketoは、自分のデータをどのくらい保持しますか？ {#data-retention-policy}
+
+確認してください [この国の投稿](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} 」を参照してください。
+
+<br>
 
 Marketo Engage へようこそ! ご訪問ありがとうございます。
