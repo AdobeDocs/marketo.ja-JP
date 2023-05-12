@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 31%
+source-wordcount: '413'
+ht-degree: 32%
 
 ---
 
@@ -25,21 +25,7 @@ ht-degree: 31%
 
 </br>
 
-* **モダン UX 向けスイッチとクラシックエクスペリエンス削除の更新の切り替え**:電子メールテンプレート、ランディングページテンプレート、Forms、スニペットの詳細ページが削除され、Modern Experience を利用できる唯一のエクスペリエンスになりました。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **統合シェル**:Marketo EngageをExperience Cloudに合わせて、単一のユーザーセッションで複数のExperience Cloudソリューションで一貫したナビゲーションエクスペリエンスを作成します。
+* **Adobe Experience Cloud Interface**:Marketo EngageをExperience Cloudに合わせて、単一のユーザーセッションで複数のExperience Cloudソリューションで一貫したナビゲーションエクスペリエンスを作成します。
 
 <table> 
   <tr> 

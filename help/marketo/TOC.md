@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '8884'
+source-wordcount: '8886'
 ht-degree: 99%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 99%
       + [アドビ組織マッピングの設定](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Adobe Experience Manager でのアセットの読み込み](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [統合シェルの概要](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Adobe Experience Cloud Interface の概要](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Marketo の中心概念 {#core-marketo-concepts}
       + スマートキャンペーン {#smart-campaigns}
          + [スマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
