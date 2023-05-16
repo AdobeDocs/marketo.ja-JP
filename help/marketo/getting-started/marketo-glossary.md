@@ -3,8 +3,8 @@ unique-page-id: 12980733
 description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
-workflow-type: ht
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウント</strong></td> 
-   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>- <strong>TAM</strong> では、<strong>重点顧客</strong>とは、ユーザが追跡したいターゲットアカウントと判断したアカウントのことです。<br>- TAM では、CRM アカウントとは、リンクされた <strong>CRM</strong>（<strong>Salesforce</strong>、<strong>MS Dynamics</strong> または <strong>API</strong> のアカウント）からマッピングされたアカウントのことです。<br>- CRM では、アカウントとは、リードおよび取引先責任者が関連付けられているビジネス／企業です。</td> 
+   <td colspan="1">この用語は、様々な意味を持ちます。<br>- Marketo インスタンス自体は、Marketo アカウントとも呼ばれます。<br>- <strong>TAM</strong> では、<strong>重点顧客</strong>とは、ユーザが追跡したいターゲットアカウントと判断したアカウントのことです。<br>- TAM では、CRM アカウントとは、リンクされた <strong>CRM</strong>（<strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong> または <strong>API</strong> のアカウント）からマッピングされたアカウントのことです。<br>- CRM では、アカウントとは、リードおよび取引先責任者が関連付けられているビジネス／企業です。</td> 
   </tr> 
   <tr> 
    <td><strong>顧客リスト</strong></td> 

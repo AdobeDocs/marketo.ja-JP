@@ -3,10 +3,10 @@ unique-page-id: 2951048
 description: リリースノート - 2014年2月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2014年2月
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 AB テストバリアントデータを含む[メール指標を Excel にエクスポートします](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)。
 
-## エンゲージメントストリーム効果レポートのエンゲージメントスコア {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL エンゲージメントストリーム効果レポートのエンゲージメントスコア] {#engagement-score-in-engagement-stream-performance-report}
 
 エンゲージメントプログラム内のコンテンツの効果を確認できるように、エンゲージメントスコアを[エンゲージメントストリーム効果レポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)に追加しました。
 
@@ -60,6 +60,6 @@ AB テストバリアントデータを含む[メール指標を Excel にエク
 
 ## Forms 2.0 の強化 {#forms-enhancements}
 
-このリリースでは、Forms 2.0 の品質まわりのアップデートをいくつか行いました。埋め込みフォームでプログレッシブプロファイリングを有効にするほか、[表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、高度な「ありがとうございます」ページ、非表示フィールドなど、エディターの高度な機能を使いやすくするワークフローと UX の変更を加えました。
+このリリースでは、Forms 2.0 に対して、いくつかの「Quality of Life」更新をおこないました。 埋め込みフォームでプログレッシブプロファイリングを有効にするほか、ワークフローと UX の変更を加え、エディターでより高度な機能を使いやすくしました。 [表示ルールを含める](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、「ありがとうございます」ページ、非表示フィールドの説明を追加します。
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)
