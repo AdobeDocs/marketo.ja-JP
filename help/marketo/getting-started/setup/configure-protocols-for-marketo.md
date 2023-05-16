@@ -160,7 +160,7 @@ Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/sales
 <table>
  <tbody>
   <tr>
-   <th>個人の IP アドレス</th>
+   <th>個別の IP アドレス</th>
   </tr>
   <tr>
    <td>54.212.167.17</td>
