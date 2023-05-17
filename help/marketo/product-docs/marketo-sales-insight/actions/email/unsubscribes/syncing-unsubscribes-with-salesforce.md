@@ -2,10 +2,10 @@
 description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 96%
+source-wordcount: '437'
+ht-degree: 84%
 
 ---
 
@@ -90,6 +90,6 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
 
 ## Marketo Sales オプトアウト {#marketo-sales-opt-out}
 
-Marketo Sales オプトアウトフィールドは、Marketo Sales カスタマイズ機能をインストールしたユーザが使用できるカスタムフィールドです。
+Marketo Sales Opt Out フィールドは、Marketo Sales Insight パッケージをインストールしたユーザーが使用できるカスタムフィールドです [AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Marketo Sales カスタマイズ機能を Salesforce に正常にインストールすると、「Marketo Sales オプトアウト」フィールドが使用可能になります。
+Marketo Sales Insight パッケージをAppExchangeから Salesforce に正常にインストールすると、「 Marketo Sales Opt Out 」フィールドが表示されます。
