@@ -3,9 +3,9 @@ description: 非ネイティブ MS Dynamics 統合用 Sales Insight - Marketo �
 title: 非ネイティブ MS Dynamics 統合用 Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1413'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,10 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
 >[!PREREQUISITES]
 >
->* MSI の設定を開始する前に、Marketoインスタンスに対して「MSI 非ネイティブ」機能が有効になっています。購入済みでない場合は、にお問い合わせください。 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. この機能をまだ購入していない場合は、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
->* ダウンロード [カスタム同期用の MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
->* MSI セットアップでの MS Dynamics サブスクリプション ( サポート対象は [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} （現時点で）。
->* Marketo REST API [正常に設定されました](https://developers.marketo.com/rest-api/){target="_blank"}. 公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
+>* MSI の設定を開始する前に、「MSI 非ネイティブ」機能は Marketo インスタンスに対して有効になっています。有効になっておらず、既に機能を購入している場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。この機能をまだ購入していない場合は、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>* [カスタム同期用 MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}をダウンロードします。
+>* MSI セットアップを備えた MS Dynamics サブスクリプション（現時点では [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} のみをサポートしています）。
+>* Marketo REST API [が正常に設定されました](https://developers.marketo.com/rest-api/){target="_blank"}。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を参照してください。{target="_blank"}
 
 
@@ -26,7 +26,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
 1. MS Dynamics セールスユーザを Marketo に同期します。
 
-   Salesforce セールスユーザは、Salesforce のリード／取引先責任者を所有する外部ユーザです。この MS Dynamics セールスユーザ用に Marketo セールス担当者をアップサートする必要があります。セールス担当者のアップサートには、「externalSalesPersonId」フィールドが必須です。
+   MS Dynamics セールスユーザは、 MS Dynamics のリード／取引先責任者を所有する外部ユーザです。この MS Dynamics セールスユーザ用に Marketo セールス担当者をアップサートする必要があります。セールス担当者のアップサートには、「externalSalesPersonId」フィールドが必須です。
 
    <table> 
     <colgroup> 
@@ -256,4 +256,4 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
    </table>
 
    * リード REST API 向けドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
-   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、リードのアクティビティと注目のアクティビティが、そのアカウントの下の MSI ウィジェットを調べる際に表示されない場合、リードの会社またはアカウントが正しく同期されなかった可能性があります。 外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザのメールと一致する必要があります。メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。
+   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、リードのアカウントの下にある MSI ウィジェットを参照したときにリードのアクティビティや関心を引くモーメントが表示されない場合は、リードの会社またはアカウントが正しく同期されていない可能性があります。外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザのメールと一致する必要があります。メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。
