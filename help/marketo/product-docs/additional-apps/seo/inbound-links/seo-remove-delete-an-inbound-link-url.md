@@ -3,7 +3,7 @@ unique-page-id: 2949253
 description: SEO - インバウンドリンク URL の削除 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - インバウンドリンク URL の削除
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 インバウンドリンクを削除する手順は次のとおりです。
 
-1. 「**インバウンドリンク**」セクションに移動します。
+1. 「**[!UICONTROL インバウンドリンク]**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. 「**削除**」をクリックします。
+1. 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

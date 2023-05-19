@@ -2,10 +2,10 @@
 title: Marketo 製品文書
 description: Marketo 製品文書
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 87%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 ## 人気の記事
 
-* [Salesforce 同期について](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [について [!DNL Salesforce] 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Microsoft Dynamics 同期について](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [について [!DNL Microsoft Dynamics] 同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [スマートキャンペーンについて](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

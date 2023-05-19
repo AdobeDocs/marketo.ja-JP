@@ -3,16 +3,16 @@ unique-page-id: 2949471
 description: セットアップチェックリスト — Marketo ドキュメント — 製品ドキュメント
 title: セットアップチェックリスト
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 93%
+source-wordcount: '204'
+ht-degree: 95%
 
 ---
 
 # セットアップチェックリスト {#setup-checklist}
 
-Marketo へようこそ以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。詳しくは、 [設定手順](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}。
+Marketo へようこそ以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。詳しくは、[セットアップ手順](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}を参照してください。
 
 ## Marketo へのログインと追加ユーザーの作成 {#log-in-to-marketo-and-create-additional-users}
 
@@ -32,7 +32,7 @@ Marketo へようこそ以下のチェックリストを、視覚的な TODO リ
 1. ブランドトラッキングリンク用のメール CNAME を選択します
 1. IT 部門に、メール CNAME の DNS レコードの設定を依頼します
 1. IT 部門に、Marketo を許可リストに登録するよう依頼します
-1. 管理領域の DKIM および SPF を設定します
+1. での DKIM と SPF の設定 [!UICONTROL 管理者] 領域
 1. `[FromDomain1]` の MX を設定します
 1. メール CNAME の使用が完了したら、Marketo でメール CNAME を設定します
 
@@ -50,4 +50,4 @@ Marketo へようこそ以下のチェックリストを、視覚的な TODO リ
 
 >[!MORELIKETHIS]
 >
->[設定手順](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+>[設定手順](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
