@@ -3,10 +3,10 @@ unique-page-id: 2359418
 description: 人物のリストのインポート - Marketo ドキュメント - 製品ドキュメント
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '490'
+ht-degree: 97%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 このチュートリアルでは、スプレッドシートファイルから Marketo に人物を読み込む方法を学びます。
 
 ## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
 
-1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}）を PC にダウンロードしてください。
+1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}）を PC にダウンロードしてください。
 
    ![](assets/import-a-list-of-people-1.png)
 
@@ -44,41 +44,41 @@ ht-degree: 100%
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
-1. **マーケティングアクティビティ**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. **学習**&#x200B;フォルダーを選択し、「**新規**」で「**新規プログラム**」をクリックします。
+1. **学習**&#x200B;フォルダーを選択し、「**[!UICONTROL 新規]**」で「**[!UICONTROL 新規プログラム]**」をクリックします。
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. プログラムに「トレードショープログラム」と&#x200B;**名前を付け**、「**プログラムタイプ**」に「イベント」を選択します。
+1. プログラムに「トレードショープログラム」と&#x200B;**名前を付け**、「**[!UICONTROL プログラムタイプ]**」に「イベント」を選択します。
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. 「**チャネル**」で「**トレードショー**」を選択し、「**作成**」をクリックします。
+1. 「**[!UICONTROL チャネル]**」で「**[!UICONTROL トレードショー]**」を選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
->イベントプログラムは特定の日に発生します。詳しくは、[**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}を参照してください。
+>イベントプログラムは特定の日に発生します。[**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## 手順 3：スプレッドシートを Marketo に読み込む {#step-import-your-spreadsheet-into-marketo}
 
-1. **トレードショープログラム**&#x200B;で、「**新規**」をクリックし、「**新規ローカルアセット**」を選択します。
+1. **トレードショープログラム**&#x200B;で、「**[!UICONTROL 新規]**」をクリックし、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. **リスト**&#x200B;を選択します。
+1. **[!UICONTROL リスト]**&#x200B;を選択します。
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. リストに「トレードショー参加者」という&#x200B;**名前を付け**、「**作成**」をクリックします。
+1. リストに「トレードショー参加者」という&#x200B;**名前を付け**、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. **トレードショー参加者**&#x200B;リストで、「**リストアクション**」をクリックし、「**リストの読み込み**」を選択します。
+1. **[!UICONTROL トレードショー参加者]**&#x200B;リストで、「**[!UICONTROL リストアクション]**」をクリックし、「**[!UICONTROL リストの読み込み]**」を選択します。
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -90,32 +90,32 @@ ht-degree: 100%
    >
    >CSV ファイルのサイズの上限は 100MB です。
 
-1. PC 上の **tradeshow-attendees.csv** スプレッドシートファイルを&#x200B;**参照**&#x200B;し、「**次へ**」をクリックします。
+1. PC 上の **[!UICONTROL tradeshow-attendees.csv]** スプレッドシートファイルを&#x200B;**参照**&#x200B;し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >リストの読み込みモードで「**新しい人物とアップデートをスキップ**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。このモードを選択すると、次の操作がおこなわれます。
+   >リストの読み込みモードで「**[!UICONTROL 新しい人物とアップデートをスキップ]**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。このモードを選択すると、次の操作がおこなわれます。
    >
    > * 新規人物の作成をスキップ
    > * 人物フィールドの更新をスキップ
    > * アクティビティログへの記録をスキップ
 
 
-1. 「リスト列」フィールドをそれぞれの Marketo フィールドにマッピングし、「**次へ**」をクリックします。
+1. マッピング [!UICONTROL リスト列] フィールドをそれぞれのMarketoフィールドに追加し、 **[!UICONTROL 次へ]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}します。
+   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}します。
 
    >[!NOTE]
    >
    >読み込まないフィールドがある場合は、Marketo フィールドドロップダウンメニューで「**無視**」を選択します。
 
-1. **獲得プログラム**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**読み込み**」をクリックします。
+1. **[!UICONTROL 獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,13 +123,13 @@ ht-degree: 100%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. **トレードショープログラム**&#x200B;に戻り、「**メンバー**」タブをクリックします。読み込んだすべての人物が表示されます。
+1. **トレードショープログラム**&#x200B;に戻り、「**[!UICONTROL メンバー]**」タブをクリックします。読み込んだすべての人物が表示されます。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。詳しくは、[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}を参照してください。
+>プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## ミッション完了 {#mission-complete}
 

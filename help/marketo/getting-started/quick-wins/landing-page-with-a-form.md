@@ -3,10 +3,10 @@ unique-page-id: 2359412
 description: フォームを含むランディングページ - Marketo ドキュメント - 製品ドキュメント
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 100%
+source-wordcount: '543'
+ht-degree: 96%
 
 ---
 
@@ -20,15 +20,15 @@ ht-degree: 100%
 
 ## 手順 1：プログラムの作成 {#step-create-a-program}
 
-1. **マーケティングアクティビティ**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. **以前のクイックウィン**{target=&quot;_blank&quot;}で作成した[学習](/help/marketo/getting-started/quick-wins/send-an-email.md)フォルダーを選択します。「**新規**」で、「**新規プログラム**」をクリックします。
+1. **以前のクイックウィン**&#x200B;で作成した[学習](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}フォルダーを選択します。「**[!UICONTROL 新規]**」で、「**[!UICONTROL 新規プログラム]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. プログラム&#x200B;**名**&#x200B;を入力し、**チャネル**&#x200B;を選択して、「**作成**」をクリックします。
+1. プログラム&#x200B;**[!UICONTROL 名]**&#x200B;を入力し、**[!UICONTROL チャネル]**&#x200B;を選択して、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -38,37 +38,37 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >プログラムは、特定のマーケティングイニシアチブの 1 つです。**チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。[独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}を作成することもできます。
+   >プログラムは、特定のマーケティングイニシアチブの 1 つです。**チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。[独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}を作成することもできます。
 
 これで完了です。プログラムを作成したら、次にコンテンツを作成します。
 
 ## 手順 2：フォームの作成 {#step-create-a-form}
 
-1. 選択したプログラムで、「**新規作成**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
+1. 選択したプログラムで、「**[!UICONTROL 新規作成]**」ドロップダウンをクリックし、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. 「**フォーム**」を選択します。
+1. 「**[!UICONTROL フォーム]**」を選択します。
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. フォーム&#x200B;**名前**&#x200B;を入力し、「**作成**」をクリックします。
+1. フォーム&#x200B;**[!UICONTROL 名前]**&#x200B;を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >「**エディターで開く**」ボックスがオンになっていることを確認します。そうでない場合は、「**フォームを編集**」タブをクリックする必要があります。
+   >「**[!UICONTROL エディターで開く]**」ボックスがオンになっていることを確認します。そうでない場合は、「**[!UICONTROL フォームを編集]**」タブをクリックする必要があります。
 
    >[!TIP]
    >
    >フォームエディターが表示されない場合お使いのブラウザーでウィンドウがブロックされている可能性があります。ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「ドラフトを編集」をクリックします。
 
-1. 「**メールアドレス**」フィールドを選択し、「**必須**」をオンにします。
+1. 「**[!UICONTROL メールアドレス]**」フィールドを選択し、「**[!UICONTROL 必須]**」をオンにします。
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -76,11 +76,11 @@ ht-degree: 100%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 「ありがとうページ」セクションの「**フォローアップ**」で「**外部 URL**」を選択します。
+1. 「ありがとうページ」セクションの「**[!UICONTROL フォローアップ]**」で「**[!UICONTROL 外部 URL]**」を選択します。
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -90,13 +90,13 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >フォームの入力後に訪問者がリダイレクトされるフォローアップページです。外部 URL は 1 つのオプションですが、他のオプションもあります。[フォームのありがとうございましたページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}を参照してください。
+   >フォームの入力後に訪問者がリダイレクトされるフォローアップページです。外部 URL は 1 つのオプションですが、他のオプションもあります。[フォームのありがとうございましたページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}を参照してください。
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 完了]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -104,15 +104,15 @@ ht-degree: 100%
 
 ## 手順 3：ランディングページの作成とフォームの追加 {#step-create-a-landing-page-and-add-your-form}
 
-1. 選択したプログラムで、「**新規作成**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
+1. 選択したプログラムで、「**[!UICONTROL 新規作成]**」ドロップダウンをクリックし、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. 「**ランディングページ**」を選択します。
+1. 「**[!UICONTROL ランディングページ]**」を選択します。
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. ページ&#x200B;**名**&#x200B;を入力し、テンプレートを選択して、「**作成**」をクリックします。
+1. ページ&#x200B;**[!UICONTROL 名]**&#x200B;を入力し、テンプレートを選択して、「**[!UICONTROL 作成]**」をクリックします。
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ ht-degree: 100%
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. ランディングページエディターが開いたら、フォーム要素をキャンバスにドラッグします。
+1. ランディングページエディターを開いたら、 [!UICONTROL フォーム] 要素をキャンバスに配置します。
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. フォームを探して選択し、「**挿入**」をクリックします。
+1. フォームを探して選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -140,7 +140,7 @@ ht-degree: 100%
 
 ## 手順 4：ランディングページの承認 {#step-approve-your-landing-page}
 
-1. ランディングページを選択し、「**ドラフトを承認**」をクリックします。
+1. ランディングページを選択し、 **[!UICONTROL 下書きの承認]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -154,15 +154,15 @@ ht-degree: 100%
 
 ## 手順 5：フォームのテスト {#step-test-your-form}
 
-1. ランディングページを選択し、「**承認済みページを表示**」をクリックします。
+1. ランディングページを選択し、「**[!UICONTROL 承認済みページを表示]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. フォームに一意な情報を入力し、「**送信**」をクリックします。
+1. フォームに一意な情報を入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. **データベース**&#x200B;領域に移動します。
+1. **[!UICONTROL データベース]**&#x200B;領域に移動します。
 
    ![](assets/landing-page-with-a-form-26.png)
 

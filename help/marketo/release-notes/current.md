@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '431'
 ht-degree: 31%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 31%
 
 インタラクティブな Web セミナーは、Marketo Engage内でイベントを作成、管理、配信するための、ネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを拡張します。 イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。 ライブ投票、チャット、Q&amp;A セッション、Web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connectの機能を通じて豊富なエンゲージメントインサイトを取得します。 豊富なダッシュボード指標を使用して、Marketo Engageで直接ウェビナー録画を取得し、パフォーマンスを評価します。
 
-次をリクエストできます。 [この機能への早期アクセス](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+インタラクティブな Web セミナーは、徐々に展開されます。 以前のアクセス権をリクエストするには、以下に記入してください。 [このフォーム](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 

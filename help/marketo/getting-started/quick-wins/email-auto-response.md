@@ -3,10 +3,10 @@ unique-page-id: 2359416
 description: メールの自動応答 - Marketo ドキュメント - 製品ドキュメント
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 1c350eb17992e45b9e0f825e1abd5c86555d0a0a
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 68%
+source-wordcount: '377'
+ht-degree: 75%
 
 ---
 
@@ -16,29 +16,29 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
 ## 手順 1：メールを作成する {#step-create-an-email}
 
-1. マーケティングアクティビティ領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/email-auto-response-1.png)
 
-1. 左側のメニューでプログラムを選択し、 **新規** ドロップダウンで、「 」を選択します。 **新規ローカルアセット**.
+1. 左側のメニューでプログラムを選択し、 **[!UICONTROL 新規]** ドロップダウンで、「 」を選択します。 **[!UICONTROL 新規ローカルアセット]**.
 
    ![](assets/email-auto-response-2.png)
 
-1. 「**メール**」を選択します。
+1. 「**[!UICONTROL メール]**」を選択します。
 
    ![](assets/email-auto-response-3.png)
 
-1. メールに「Auto Response Email」という名前を付け、テンプレートを選択して、 **作成**.
+1. メールに「Auto Response Email」という名前を付け、テンプレートを選択して、 **[!UICONTROL 作成]**.
 
    ![](assets/email-auto-response-4.png)
 
-   新しいウィンドウまたはタブでメールエディターが開きます。ポップアップがブロックされている場合は、アセットの概要ページの「**下書きの編集**」をクリックして、メールにアクセスします。
+   新しいウィンドウまたはタブでメールエディターが開きます。ポップアップがブロックされている場合は、アセットの概要ページの「**[!UICONTROL 下書きの編集]**」をクリックして、メールにアクセスします。
 
 1. 件名を入力し、メールの編集可能な領域をダブルクリックします。
 
@@ -50,59 +50,59 @@ ht-degree: 68%
 
    ![](assets/email-auto-response-6.png)
 
-1. E メールの内容を入力し、 **保存**.
+1. E メールの内容を入力し、 **[!UICONTROL 保存]**.
 
    ![](assets/email-auto-response-7.png)
 
-1. 「**メールアクション**」ドロップダウンをクリックし、「**承認して閉じる**」を選択します。
+1. 「**[!UICONTROL メールアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 承認して閉じる]**」を選択します。
 
    ![](assets/email-auto-response-8.png)
 
 ## 手順 2：アラースマートキャンペーンを作成する {#step-create-a-smart-campaign}
 
-1. プログラムを選択し、 **新規** ドロップダウンして「 」を選択します。 **新規スマートキャンペーン**.
+1. プログラムを選択し、 **[!UICONTROL 新規]** ドロップダウンして「 」を選択します。 **[!UICONTROL 新規スマートキャンペーン]**.
 
    ![](assets/email-auto-response-9.png)
 
-1. スマートキャンペーンに「自動応答キャンペーン」という&#x200B;**名前を付け**、「**作成**」をクリックします。
+1. スマートキャンペーンに「自動応答キャンペーン」という&#x200B;**名前を付け**、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/email-auto-response-10.png)
 
-1. 「**スマートリスト**」タブに移動します。
+1. 「**[!UICONTROL スマートリスト]**」タブに移動します。
 
    ![](assets/email-auto-response-11.png)
 
-   担当者が作成したフォームに入力するたびにこのキャンペーンを実行するように設定しています。 [**フォームを含むランディングページ**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}。
+   [**フォームを含むランディングページ**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}&#x200B;に作成したフォームに入力されるたびに、このキャンペーンを実行するように設定します。
 
-1. 検索し、 **フォームの入力** トリガーをキャンバスに追加します。
+1. 検索し、 **[!UICONTROL フォームの入力]** トリガーをキャンバスに追加します。
 
    ![](assets/email-auto-response-12.png)
 
-1. ドロップダウンから「**マイフォーム**」を選択します。次に、 **フロー** タブをクリックします。
+1. ドロップダウンから「**[!UICONTROL マイフォーム]**」を選択します。次に、 **[!UICONTROL フロー]** タブをクリックします。
 
    ![](assets/email-auto-response-13.png)
 
-1. 「**メールを送信**」フローアクションを左のキャンバスにドラッグします。
+1. 「**[!UICONTROL メールを送信]**」フローアクションを左のキャンバスにドラッグします。
 
    ![](assets/email-auto-response-14.png)
 
-1. を選択します。 **自動応答メール**. 次に、 **スケジュール** タブをクリックします。
+1. を選択します。 **自動応答メール**. 次に、 **[!UICONTROL スケジュール]** タブをクリックします。
 
    ![](assets/email-auto-response-15.png)
 
-1. 「**編集**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/email-auto-response-16.png)
 
-1. 選択 **毎回** をクリックし、 **保存**.
+1. 「**[!UICONTROL 毎回]**」を選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/email-auto-response-17.png)
 
-1. 「**アクティブ化**」をクリックします。
+1. 「**[!UICONTROL アクティブ化]**」をクリックします。
 
    ![](assets/email-auto-response-18.png)
 
-1. 確認画面の「**アクティブ化**」をクリックします。
+1. 確認画面の「**[!UICONTROL アクティブ化]**」をクリックします。
 
    ![](assets/email-auto-response-19.png)
 
@@ -112,13 +112,13 @@ ht-degree: 68%
 
 ## 手順 3:フォームを入力する {#step-fill-out-the-form}
 
-1. 選択 **マイページ** ( これは [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} クイックウィンドウ ) を開き、 **プレビュー**.
+1. 選択 **マイページ** ( これは [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} クイックウィンドウ ) をクリックし、 **[!UICONTROL プレビュー]**.
 
    ![](assets/email-auto-response-20.png)
 
    _「無料体験版」ランディングページが新しいタブで開きます。_
 
-1. 氏名、メールアドレスを使用してフォームに入力し、「**送信**」をクリックします。
+1. 氏名、メールアドレスを使用してフォームに入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/email-auto-response-21.png)
 
