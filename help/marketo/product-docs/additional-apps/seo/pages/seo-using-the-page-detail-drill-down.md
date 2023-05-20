@@ -3,10 +3,10 @@ unique-page-id: 2949186
 description: SEO - ページ詳細ドリルダウンの使用 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - ページ詳細ドリルダウンの使用
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 100%
+source-wordcount: '266'
+ht-degree: 79%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## ページドリルダウンを見つける {#find-page-drill-down}
 
-1. 「ページ」セクションに移動します。
+1. 次に移動： **[!UICONTROL ページ] セクション**.
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -28,22 +28,22 @@ ht-degree: 100%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## 「ページ詳細」セクション {#page-detail-section}
+## [!UICONTROL 「ページ詳細」セクション] {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | 項目 | 説明 |
 |---|---|
-| 最適化スコア | 検索に対してページがどの程度最適化されているか、1～100 のスケールで示すために使用されるシークレットソース。 |
-| To Do ボックス | 現在閲覧中のページに関する未解決の問題数を表示します。 |
-| インバウンドリンク合計 | Web サイトへのインバウンドリンクの合計数。 |
-| インバウンドリンク（一意のドメイン） | サイトへのインバウンドリンクが 1 つ以上ある、他の web サイトの数。 |
-| アウトバウンドリンク | この特定のページから他の web サイトにアクセスするリンクの数。 |
-| Facebook 共有 | このページが Facebook で共有された回数。 |
-| Facebook いいね！ | Facebook でこのページ共有が「いいね！」された回数。 |
-| Facebook クリック | Facebook 共有からのクリック数。 |
+| [!UICONTROL 最適化スコア] | 検索に対してページがどの程度最適化されているか、1～100 のスケールで示すために使用されるシークレットソース。 |
+| [!UICONTROL To Do ボックス] | 現在閲覧中のページに関する未解決の問題数を表示します。 |
+| [!UICONTROL インバウンドリンク合計] | Web サイトへのインバウンドリンクの合計数。 |
+| [!UICONTROL インバウンドリンク（一意のドメイン）] | サイトへのインバウンドリンクが 1 つ以上ある、他の web サイトの数。 |
+| [!UICONTROL アウトバウンドリンク] | この特定のページから他の web サイトにアクセスするリンクの数。 |
+| [!UICONTROL Facebook 共有] | このページが共有された回数 [!DNL Facebook]. |
+| [!UICONTROL Facebook いいね！] | このページ共有がリンクされた回数 [!DNL Facebook]. |
+| [!UICONTROL Facebook クリック] | からのクリック数 [!DNL Facebook share]. |
 
-## ページ最適化対象キーワード  {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL ページ最適化対象キーワード] {#keyword-s-that-page-is-optimized-for}
 
 ここで[ページを最適化するための対象キーワードを選択します。](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
@@ -53,13 +53,11 @@ ht-degree: 100%
 
 ![](assets/image2014-9-17-21-3a56-3a35.png)
 
-## ページ最適化の結果 {#page-optimization-results}
+## [!UICONTROL ページ最適化の結果] {#page-optimization-results}
 
-ページの最適化の結果では、このページの検索で最適化スコアを増やし、パフォーマンスを向上させるために必要な手順が示されます。
+この [!UICONTROL ページ最適化の結果] このページの検索で最適化スコアを増やし、パフォーマンスを向上させるために必要な正確な手順が示されます。
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
-
-簡単ですね。ページについての詳細はこちらを参照してください。
 
 >[!MORELIKETHIS]
 >

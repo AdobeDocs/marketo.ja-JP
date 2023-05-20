@@ -3,10 +3,10 @@ unique-page-id: 2949262
 description: SEO - ページの削除 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - ページの削除
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 71%
 
 ---
 
@@ -14,12 +14,12 @@ ht-degree: 100%
 
 ページを削除しますか？手順は以下のとおりです。
 
-1. 「**ページ**」セクションに移動します。
+1. 「**[!UICONTROL ページ]**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. 「ページ」タブで、削除するページにポインタを合わせ、「**削除**」をクリックし、もう一度「**削除**」をクリックします。
+1. の [!UICONTROL ページ] タブを開き、削除するページにカーソルを移動して、 **[!UICONTROL 削除]**&#x200B;を選択し、「 **[!UICONTROL 削除]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
-簡単でしたね。ページは永久にリストから削除されました。
+ページは永久にリストから削除されました。

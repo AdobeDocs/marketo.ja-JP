@@ -3,10 +3,10 @@ unique-page-id: 2949208
 description: SEO - キーワード結果のフィルタリング - Marketo ドキュメント - 製品ドキュメント
 title: SEO - キーワード結果のフィルタリング
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## リストで絞り込む {#filter-by-list}
 
-1. 「**キーワード**」セクションに移動します。
+1. 「**[!UICONTROL キーワード]**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## SERP ランクで絞り込む {#filter-by-serp-rank}
 
-1. 「キーワード」セクションに移動します。
+1. 「[!UICONTROL キーワード]」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -46,10 +46,10 @@ ht-degree: 100%
 
 また、右上隅の検索フィールドを使用して、探しているキーワードを検索できます。
 
-1. 「**キーワード**」セクションに移動します。
+1. 「**[!UICONTROL キーワード]**」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. 検索フィールドにキーワードを入力します。
+1. キーワードを **[!UICONTROL 検索]** フィールドに入力します。
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

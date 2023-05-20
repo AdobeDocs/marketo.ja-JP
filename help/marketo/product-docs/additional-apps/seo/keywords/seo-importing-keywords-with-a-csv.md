@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - CSV を使用したキーワードのインポート - Marketo ドキュメント - 製品ドキュメント
 title: SEO - CSV を使用したキーワードのインポート
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 1. 手動で[キーワードを追加](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)したり、[キーワードの候補を取得](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)したり、CSV ファイルからキーワードをインポートすることもできます。インポートの実行方法を次に示します。
 
-1. 「**キーワード**」セクションに移動します。
+1. 「**[!UICONTROL キーワード]**」セクションに移動します。
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. 「**インポート**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. 「**ファイルを選択**」をクリックします。
+1. 「**[!UICONTROL ファイルを選択]**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 100%
    >
    >インポート制限は、サブスクリプションによって異なります。詳しくは、セールス担当者にお問い合わせください。
 
-1. 「**インポート**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -42,7 +42,9 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   各キーワードに関連付けられたデータをすべて読み込むには、数分かかる場合があります。のんびりお待ちください。
+   >[!NOTE]
+   >
+   >各キーワードに関連付けられたデータをすべて読み込むには、数分かかる場合があります。
 
    >[!MORELIKETHIS]
    >

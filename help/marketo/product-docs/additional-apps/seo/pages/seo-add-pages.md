@@ -3,7 +3,7 @@ unique-page-id: 2949216
 description: SEO - ページの追加 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - ページの追加
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -14,15 +14,15 @@ ht-degree: 100%
 
 Web サイトには複数のページがあります。Marketo SEO は、サイトを自動的にクロールしてトラッキングします。いくつか見あたらない場合は、次のように SEO アプリで取得します。
 
-1. 「**ページ**」セクションに移動します。
+1. 「**[!UICONTROL ページ]**」セクションに移動します。
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. 「**ページを追加**」をクリックします。
+1. 「**[!UICONTROL ページを追加]**」をクリックします。
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 追加する URL を入力します。「**追加**」をクリックします。
+1. 追加する URL を入力します。「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
