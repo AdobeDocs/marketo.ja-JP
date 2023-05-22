@@ -4,9 +4,9 @@ description: Marketo サンドボックス - Marketo ドキュメント - 製品
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '319'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -16,13 +16,13 @@ Marketo サンドボックスは、実稼動環境で実装する前にテスト
 
 >[!AVAILABILITY]
 >
->この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 Marketo サンドボックスが既に実稼動インスタンスと同期されている場合、通常の CRM に同期することはできません。同期に CRM のサンドボックスを使用し、元の同期と同じ手順をすべて実行します。
 
 ## サンドボックスについて知っておくべきこと {#things-to-know-about-sandboxes}
 
-* Adobeアカウントチームがサンドボックスを設定し、招待を送信したら、Marketo実稼動インスタンスとは別の電子メールアドレスを使用してログインする必要があります。
+* アドビアカウントチームがサンドボックスを設定し、招待を送信したら、Marketo 実稼動インスタンスとは別のメールアドレスを使用してログインする必要があります。
 * ユーザーを追加する場合のプロセスは、[実稼動環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
 * Marketo サンドボックスは空で始まりますが、実稼動インスタンスと同じ機能を使用できます。
 * サンドボックスでプログラムを作成し、それを実稼動環境に移動する場合は、[プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)を実行できます。
@@ -30,7 +30,7 @@ Marketo サンドボックスが既に実稼動インスタンスと同期され
 
 >[!CAUTION]
 >
->現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## インスタンスコピー {#instance-copy}
 
