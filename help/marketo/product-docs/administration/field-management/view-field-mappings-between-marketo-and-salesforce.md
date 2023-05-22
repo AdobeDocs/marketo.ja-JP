@@ -4,9 +4,9 @@ description: Marketo と Salesforce 間のフィールドマッピングの表�
 title: Marketo と Salesforce 間のフィールドマッピングの表示
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 source-git-commit: db68d63b6502822d4948485865edb26d10104a14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 75%
 
 >[!IMPORTANT]
 >
->リストされるフィールドは、初期マッピングからのデータのみを反映しています。 Marketo/Salesforce 同期後は更新されません。
+>リストされるフィールドは、初期マッピングからのデータのみを反映しています。Marketo／Salesforce 同期後は更新されません。
