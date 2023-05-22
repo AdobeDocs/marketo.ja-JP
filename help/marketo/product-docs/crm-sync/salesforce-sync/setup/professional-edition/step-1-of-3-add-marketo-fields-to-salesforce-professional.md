@@ -4,7 +4,7 @@ description: 手順 1／3 - Marketo フィールドの Salesforce への追加�
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '782'
 ht-degree: 100%
 
@@ -258,4 +258,4 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!MORELIKETHIS]
 >
->[手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[手順 2／3：Marketo 用の Salesforce ユーザーの作成（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
