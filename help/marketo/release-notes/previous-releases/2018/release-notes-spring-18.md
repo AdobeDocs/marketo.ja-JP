@@ -4,9 +4,9 @@ description: リリースノート - 2018 年春 - Marketo ドキュメント - 
 title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '480'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 >[!AVAILABILITY]
 >
->Sales Engage はアドオン製品です。見積もりについては、Marketoのアカウントマネージャーまたはアカウント担当者にお問い合わせください。
+>Sales Engage はアドオン製品です。見積もりについては、担当の Marketo アカウントマネージャーまたはアカウントエグゼクティブにお問い合わせください。
 
 インテリジェンス、コンテンツ、プレイブック、分析を活用して、より多くのリードをセールス機会に変換することで、より多くのパイプラインと売上高を促進します。Sales Engage は、カスタマージャーニー全体を通じたエンゲージメントのための統合プラットフォームをセールスとマーケティングに提供し、顧客タッチポイントの共有ビューを通じてより優れた調整を可能にします。
 
