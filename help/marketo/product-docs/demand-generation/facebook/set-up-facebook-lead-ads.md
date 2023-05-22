@@ -4,9 +4,9 @@ description: Facebook リード広告の設定 - Marketo ドキュメント - �
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '321'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 94%
 
 >[!AVAILABILITY]
 >
->facebookリード広告をインスタンスに追加するには、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>Facebook リード広告をインスタンスに追加するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. Marketo の「**管理**」に移動します。
 
