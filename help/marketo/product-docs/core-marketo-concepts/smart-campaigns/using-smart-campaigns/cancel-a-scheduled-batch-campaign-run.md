@@ -4,9 +4,9 @@ description: 予定されているバッチキャンペーンの実行のキャ�
 title: 予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 84%
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. キャンセルする予定されている実行を見つけ、 **x** 隣に
+1. キャンセルする実行スケジュールを探し、その横に表示された「**x**」をクリックします。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
