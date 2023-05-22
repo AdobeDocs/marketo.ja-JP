@@ -4,23 +4,23 @@ description: マネージャーアカウントによる Google AdWords を Launc
 title: マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '359'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。[カスタム列を追加した後には](https://support.google.com/adwords/answer/3073556)、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客（あるいは追跡した収益ステージ）につながったかを簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
+Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)すると、どのクリックが条件を満たすリードや商談、新規顧客（または追跡したあらゆる収益ステージ）につながったのかを AdWords UI から簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
 
-複数のGoogle Adwords アカウントがある場合、 [Google AdWords Manager アカウント](https://www.google.com/adwords/manager-accounts/){target="_blank"} （旧称：マイクライアントセンター）を使用して、Marketoと統合できます。
+複数の Google Adwords アカウントがある場合、[Google AdWords マネージャーアカウント](https://www.google.com/adwords/manager-accounts/){target="_blank"}（旧称：マイクライアントセンター）を使用して、Marketo と統合できます。
 
-詳細情報： [Googleのオフライン変換インポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}.
+詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
 
 >[!AVAILABILITY]
 >
->すべての顧客がこの機能を購入したわけではありません。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
