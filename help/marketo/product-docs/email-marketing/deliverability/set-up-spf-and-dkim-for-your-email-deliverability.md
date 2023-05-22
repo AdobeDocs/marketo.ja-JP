@@ -4,7 +4,7 @@ description: メール到達率のための SPF と DKIM の設定 - Marketo ド
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
 ht-degree: 100%
 
