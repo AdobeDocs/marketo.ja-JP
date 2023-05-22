@@ -4,9 +4,9 @@ description: ワークスペースとパーティションをまたいだセグ�
 title: ワークスペースとパーティションをまたいだセグメント化の共有
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -59,11 +59,11 @@ Marketo は、プログラムやスマートキャンペーンに適した人物
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 右クリック **セグメント化** を選択し、 **新規フォルダ**.
+1. 「**セグメント化**」を右クリックし、「**新規フォルダー**」を選択します。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 複数のワークスペースで共有するフォルダーに名前を付けます ( 例：セグメントを共有を参照 )、「 **作成**.
+1. ワークスペース間で共有するフォルダーに名前を付け（例: セグメントの共有）、「**作成**」をクリックします。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
