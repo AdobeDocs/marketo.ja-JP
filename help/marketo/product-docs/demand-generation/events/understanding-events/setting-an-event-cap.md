@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 81%
 
 >[!NOTE]
 >
->この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!IMPORTANT]
 >イベントキャップを設定する前に、プログラムに承認済みのランディングページ（登録ページと登録締め切りページ）が 2 つ以上ある必要があります。
@@ -46,6 +46,6 @@ ht-degree: 81%
 
    ![](assets/setting-an-event-cap-5.png)
 
-   準備完了です。イベントキャップの詳細を編集する場合は、の横の青いテキストをクリックします。 [!UICONTROL イベントキャップ].
+   準備完了です。イベントキャップの詳細を編集する場合は、「[!UICONTROL イベントキャップ]」の横の青いテキストをクリックします。
 
    ![](assets/setting-an-event-cap-6.png)
