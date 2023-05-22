@@ -4,9 +4,9 @@ description: Sales Connect の概要 - Marketo ドキュメント - 製品ドキ
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
 
 >[!AVAILABILITY]
 >
->この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## ライブフィード {#the-live-feed}
 
