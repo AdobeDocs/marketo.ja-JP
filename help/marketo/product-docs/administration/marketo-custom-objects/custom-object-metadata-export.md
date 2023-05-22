@@ -3,9 +3,9 @@ description: カスタムオブジェクトメタデータのエクスポート 
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 >[!AVAILABILITY]
 >
->すべての顧客がこの機能を購入したわけではありません。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. My Marketo で、「**管理者**」をクリックします。
 
