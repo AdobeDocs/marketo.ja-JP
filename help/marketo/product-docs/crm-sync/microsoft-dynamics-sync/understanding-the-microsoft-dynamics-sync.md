@@ -4,9 +4,9 @@ description: Microsoft Dynamics 同期について - Marketo ドキュメント 
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Marketo と Microsoft Dynamics は適切に連携して、お客様の販売デ�
 
 >[!CAUTION]
 >
->現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## 同期の仕組み {#how-sync-works}
 
