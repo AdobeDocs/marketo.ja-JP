@@ -4,9 +4,9 @@ description: スマートキャンペーンについて - Marketo ドキュメ�
 title: スマートキャンペーンについて
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 72%
 
 Marketo が強力な自動車なら、スマートキャンペーンはまさにそのエンジンです。始めるのは簡単で、ほとんど何でもできます。
 
-スマートキャンペーンには 3 つの主な領域があります。この [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} タブ
+スマートキャンペーンには、「[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}」タブなど、3 つの主な領域があります。
 
 ## スマートリスト {#smart-list}
 
-スマートリストは、 _who_ スマートキャンペーンのターゲット設定を行います。 フィルターとトリガーがあります。
+スマートリストは、スマートキャンペーンで&#x200B;_誰_&#x200B;をターゲットに設定するのかを定義する方法です。フィルターとトリガーがあります。
 
 <table> 
  <tbody> 
@@ -54,7 +54,7 @@ Marketo が強力な自動車なら、スマートキャンペーンはまさに
 
 >[!CAUTION]
 >
->あるプログラムから別のプログラムにスマートキャンペーンを移動し、キャンペーンのスマートリストまたはフローステップで元のプログラムが参照されている場合は、新しいプログラムを反映するように情報を手動で更新する必要があります **not** 自動更新。
+>スマートキャンペーンをプログラム間で移動する場合、そのキャンペーンのスマートリストまたはフローステップが元のプログラムを参照していても、その情報は自動更新され&#x200B;**ない**&#x200B;ので、新しいプログラムを反映するように情報を手動で更新する必要があります。
 
 >[!MORELIKETHIS]
 >
