@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ AI／ML モデルのパフォーマンスは、サブスクリプション内の
 
 ## 利用可能性 {#availability}
 
-Prime または Ultimate の価格バンドルを利用するインスタンスに対しては、予測オーディエンスが自動的に含まれ、アクティブ化されます。この機能へのアクセスの詳細については、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+Prime または Ultimate の価格バンドルを利用するインスタンスに対しては、予測オーディエンスが自動的に含まれ、アクティブ化されます。この機能へのアクセスについて詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 機能がインスタンスに追加されたら、[!DNL Marketo Classic] の&#x200B;**[!UICONTROL 管理者]**&#x200B;領域の&#x200B;**[!UICONTROL 予測オーディエンス]**&#x200B;ページに移動します。
 
-1. チェック **[!UICONTROL Predictive Audiences の有効化]** をクリックして、機能をアクティブにします。 すべてのプロセスがセットアップを完了するまでに、最大 24 時間かかる場合があります。
+1. 「**[!UICONTROL 予測オーディエンスを有効にする]**」をクリックして、機能をアクティブ化します。すべてのプロセスがセットアップを完了するまでに、最大 24 時間かかる場合があります。
 
    ![画像 1](assets/getting-started-with-predictive-audiences-1.png)
