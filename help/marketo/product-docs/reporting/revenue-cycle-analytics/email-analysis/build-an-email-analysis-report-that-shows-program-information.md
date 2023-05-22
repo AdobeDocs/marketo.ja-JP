@@ -4,9 +4,9 @@ description: プログラム情報を示すメール分析レポートの作成 
 title: プログラム情報を示すメール分析レポートの作成
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 88%
 
 >[!AVAILABILITY]
 >
->この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. **収益エクスプローラ**&#x200B;を起動します。
 
