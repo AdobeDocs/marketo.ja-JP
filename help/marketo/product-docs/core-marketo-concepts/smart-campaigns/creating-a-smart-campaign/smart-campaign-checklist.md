@@ -4,19 +4,19 @@ description: スマートキャンペーンのチェックリスト - Marketo �
 title: スマートキャンペーンのチェックリスト
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '246'
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーンのチェックリスト {#smart-campaign-checklist}
 
-スマートキャンペーンを円滑に実行し、エラーをできるだけ防ぐには、次の手順に従います。
+スマートキャンペーンをスムーズに実行し、可能な限りエラーを防ぐには、以下の手順に従います。
 
 ## スマートリストのエラーの除去 {#get-rid-of-smart-list-errors}
 
-スマートキャンペーンで、 **スマートリスト**. 赤い波線が下に表示されている部分はエラー箇所なので、すべて修正します。
+スマートキャンペーンで、「**スマートリスト**」をクリックします。赤い波線が下に表示されている部分はエラー箇所なので、すべて修正します。
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## フローのエラーの除去 {#get-rid-of-flow-errors}
 
-スマートキャンペーンで、 **フロー**. 赤い波線が表示されている部分はエラー箇所なので、すべて修正します。
+スマートキャンペーンで、「**結果**」をクリックします。赤い波線が表示されている部分はエラー箇所なので、すべて修正します。
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 「スケジュール」タブのレビュー {#review-the-schedule-tab}
 
-内 **スケジュール** タブ、チェック **スマート** **リスト** **ステータス** 修正が必要なスマートキャンペーンのエラー。
+「**スケジュール**」タブをクリックします。**スマート****リスト****ステータス**&#x200B;で、修正が必要なエラーがスマートキャンペーンに発生していないか確認します。
 
 ![](assets/smart-campaign-checklist-3.png)
 
@@ -54,12 +54,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->必要に応じて、 [スマートキャンペーンでの担当者制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>必要に応じて、[スマートキャンペーンでリード制限数を上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)できます。
 
 >[!NOTE]
 >
 >**リマインダー**
 >
->それでもスマートキャンペーンが失敗する場合は、 [通知について](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 何が起こったのか、どのように修正すればよいのかを調べるために
+>以上を行ってもスマートキャンペーンがうまく機能しない場合、何が原因でどこを修正すればいいのか、[通知の内容によく目を通して詳細を確認](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)してください。
 
-完成です。スマートキャンペーンを実行する前に、このチェックリストを手元に用意してください。
+これで完了です。スマートキャンペーンを実行するときは、常にこのチェックリストで内容を点検してください。
