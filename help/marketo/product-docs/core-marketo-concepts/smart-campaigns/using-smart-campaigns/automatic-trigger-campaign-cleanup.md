@@ -4,9 +4,9 @@ description: 自動トリガーキャンペーンクリーンアップ - Marketo
 title: 自動トリガーキャンペーンクリーンアップ
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Marketo は、3 か月に 1 回、6 か月以上にわたり休止（リード�
 
 もちろんです。3 か月に 1 回、無効化する予定のあらゆるキャンペーンを表示する通知を、その 1 週間前に送信します。
 
-1. 次をクリック： **通知** アイコン
+1. 「**通知**」アイコンをクリックします。
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
