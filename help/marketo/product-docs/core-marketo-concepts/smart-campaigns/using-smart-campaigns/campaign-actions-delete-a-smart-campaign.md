@@ -4,9 +4,9 @@ description: キャンペーンのアクション - スマートキャンペー�
 title: キャンペーンのアクション - スマートキャンペーンの削除
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 93%
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 非アクティブなスマートキャンペーンに移動します。内 **Campaign** **アクション** ドロップダウンで、「 **削除**.
+1. 非アクティブなスマートキャンペーンに移動します。「**キャンペーン****アクション**」ドロップダウンで、「**削除**」を選択します。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
