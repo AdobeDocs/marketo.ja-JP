@@ -4,21 +4,21 @@ description: Google AdWords を LaunchPoint サービスとして追加 - Market
 title: Google AdWords を LaunchPoint サービスとして追加
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # Google AdWords を LaunchPoint サービスとして追加 {#add-google-adwords-as-a-launchpoint-service}
 
-Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、AdWords の UI から、どのクリックがクオリファイドリードや商談、新規顧客（またはトラックしたいあらゆる売上高ステージ）につながったのかを簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
+Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、どのクリックが条件を満たすリードや商談、新規顧客（または追跡したいあらゆる収益ステージ）につながったのかを AdWords UI から簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
 
-詳細情報： [Googleのオフライン変換インポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}.
+詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
 
 >[!AVAILABILITY]
 >
->すべての顧客がこの機能を購入したわけではありません。詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
