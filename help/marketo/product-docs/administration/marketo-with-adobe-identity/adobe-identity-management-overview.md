@@ -3,21 +3,21 @@ description: Adobe Identity Management の概要 - Marketo ドキュメント - 
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1096'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
-2022年2月15日（PT）現在、Adobe Marketo Engage の新しいアカウント（既存のアカウントの新しいインスタンスではなく、新しいアカウント）をお持ちの場合、購入した製品パッケージに応じて、Adobe Identity Management システムと統合される場合があります。お持ちかどうかを確認するには、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+2022年2月15日（PT）現在、Adobe Marketo Engage の新しいアカウント（既存のアカウントの新しいインスタンスではなく、新しいアカウント）をお持ちの場合、購入した製品パッケージに応じて、Adobe Identity Management システムと統合される場合があります。お持ちかどうかを確認するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 既存の Marketo サブスクリプションは、2023年後半に Adobe Identity Management システムへの移行を開始します。
 
 >[!NOTE]
 >
->Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。Adobeアカウントチームは、今後数ヶ月以内に予定される予定時間帯に連絡します。
+>Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。
 
 ## プロファイルレベル {#profile-levels}
 
@@ -61,7 +61,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **既存の Marketo Engage サブスクリプションは、いつ IMS と統合されますか？**
 
-既存の Marketo サブスクリプションは、今年後半に Adobe Identity Management システムに移行されます。Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。Adobeアカウントチームは、今後数ヶ月以内に予定される予定時間帯に連絡します。
+既存の Marketo サブスクリプションは、今年後半に Adobe Identity Management システムに移行されます。Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。
 
 **製品管理者とアドビ管理者の違いは何ですか。**
 
