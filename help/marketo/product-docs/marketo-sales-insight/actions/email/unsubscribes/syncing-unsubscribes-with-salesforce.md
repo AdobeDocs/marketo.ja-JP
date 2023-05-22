@@ -2,14 +2,16 @@
 description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
+source-git-commit: ec79f405f975f2179aae94ec5556808785d7c594
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 84%
+source-wordcount: '495'
+ht-degree: 71%
 
 ---
 
 # Salesforce との配信停止の同期 {#syncing-unsubscribes-with-salesforce}
+
+配信停止を Salesforce のオプトアウトフィールドと同期する場合は、Salesforce 配信停止同期を使用できます。
 
 ## Salesforce と配信停止を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
@@ -23,7 +25,11 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
 
 **配信停止の同期**
 
-配信停止を同期（以下の手順 3）を有効にすると、夜間の同期が有効になります。同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
+配信停止同期を有効にすると（以下の手順 3）、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
+
+>[!NOTE]
+>
+>Salesforce との配信停止同期で配信停止が同期されますが、再配信停止は同期されません。 Marketo Sales および Salesforce から配信停止を削除する場合は、Salesforce で配信停止をオフにし、Marketo Sales で配信停止を削除します。
 
 ## Salesforce に配信停止の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
 
