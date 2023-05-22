@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359654
-description: フォームの言語の変更 — Marketoドキュメント — 製品ドキュメント
+description: フォームの言語の変更 - Marketo ドキュメント - 製品ドキュメント
 title: フォームの言語の変更
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
@@ -22,15 +22,15 @@ ht-degree: 42%
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. クリック **フォーム設定** を選択し、 **設定**.
+1. 「**フォーム設定**」をクリックし、「**設定**」を選択します。
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. 目的のを選択します。 **フォームの言語**.
+1. 目的の&#x200B;**フォームの言語**&#x200B;を選択します。
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   オプションの手順：選択した言語のロケール/地域を選択します。
+   オプションの手順：選択した言語のロケール／地域を選択します。
 
    ![](assets/change-the-language-of-a-form-5.png)
 
