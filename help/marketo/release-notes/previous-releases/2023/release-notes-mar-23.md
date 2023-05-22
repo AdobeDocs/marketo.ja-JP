@@ -3,9 +3,9 @@ description: リリースノート - 2023年3月 - Marketo ドキュメント - 
 title: リリースノート - 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
 source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '615'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
