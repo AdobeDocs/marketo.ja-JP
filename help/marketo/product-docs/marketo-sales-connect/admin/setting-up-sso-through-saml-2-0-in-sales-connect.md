@@ -4,9 +4,9 @@ description: Sales Connect で SAML 2.0 を使用した SSO の設定 — Market
 title: Sales Connect で SAML 2.0 を使用した SSO の設定
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '259'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ SAML 2.0 仕様で SSO をサポートしています。ただし、現時点で
 
 >[!NOTE]
 >
->これは、次の場合にのみ適用されます。 **Marketo Sales Connect** ユーザー。 セールスコネクトをお持ちでない方は、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>これは、**Marketo Sales Connect** ユーザーにのみ適用されます。Sales Connect をお持ちでなく詳細をお知りになりたい場合は、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## 要件 {#requirements}
 
