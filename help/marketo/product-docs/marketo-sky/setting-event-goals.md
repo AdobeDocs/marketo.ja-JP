@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
 source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->この機能を購入したユーザーはいません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. イベントプログラムを作成します。
 
