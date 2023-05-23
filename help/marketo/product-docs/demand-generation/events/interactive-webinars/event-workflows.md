@@ -1,13 +1,11 @@
 ---
-description: イベントワークフロー — Marketoドキュメント — 製品ドキュメント
+description: イベントワークフロー - Marketo ドキュメント - 製品ドキュメント
 title: イベントワークフロー
-hide: true
-hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

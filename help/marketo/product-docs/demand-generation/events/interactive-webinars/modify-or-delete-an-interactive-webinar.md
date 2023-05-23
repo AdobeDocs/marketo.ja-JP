@@ -1,21 +1,19 @@
 ---
-description: インタラクティブなウェビナーの変更または削除 — Marketoドキュメント — 製品ドキュメント
-title: インタラクティブ Web セミナーの変更または削除
-hide: true
-hidefromtoc: true
+description: インタラクティブウェビナーの変更または削除 - Marketo ドキュメント - 製品ドキュメント
+title: インタラクティブウェビナーの変更または削除
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# インタラクティブ Web セミナーの変更または削除 {#modify-or-delete-an-interactive-webinar}
+# インタラクティブウェビナーの変更または削除 {#modify-or-delete-an-interactive-webinar}
 
 インタラクティブ Web セミナーの変更方法を説明します。
 
-## インタラクティブ Web セミナーの変更 {#modify-an-interactive-webinar}
+## インタラクティブウェビナーの変更 {#modify-an-interactive-webinar}
 
 1. 目的のイベントプログラムを選択し、 **部屋/テンプレートを変更**.
 
@@ -51,7 +49,7 @@ ht-degree: 1%
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
-## インタラクティブなウェビナーの複製 {#clone-an-interactive-webinar}
+## インタラクティブウェビナーの複製 {#clone-an-interactive-webinar}
 
 1. 目的のイベントプログラムを選択します。
 
@@ -81,7 +79,7 @@ ht-degree: 1%
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
-## インタラクティブなウェビナーの削除 {#delete-an-interactive-webinar}
+## インタラクティブウェビナーの削除 {#delete-an-interactive-webinar}
 
 1. 目的のイベントプログラムを選択します。
 

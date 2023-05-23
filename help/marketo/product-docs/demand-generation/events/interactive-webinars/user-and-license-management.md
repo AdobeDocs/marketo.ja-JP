@@ -1,13 +1,11 @@
 ---
-description: ユーザーとライセンスの管理 — Marketoドキュメント — 製品ドキュメント
+description: ユーザーとライセンスの管理 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーとライセンスの管理
-hide: true
-hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 27%
 
 ---
 
@@ -21,15 +19,15 @@ ht-degree: 8%
 
    ![](assets/user-and-license-management-1.png)
 
-1. クリック **インタラクティブ Web セミナー**.
+1. 「**インタラクティブウェビナー**」をクリックします。
 
    ![](assets/user-and-license-management-2.png)
 
-1. クリック **ユーザーの追加/削除**.
+1. 「**ユーザーを追加 / 削除**」をクリックします。
 
    ![](assets/user-and-license-management-3.png)
 
-1. 利用可能なユーザードロップダウンをクリックし、追加するユーザーを選択して、 **OK**.
+1. 「使用可能なユーザー」ドロップダウンをクリックし、追加するユーザーを選択して、「**OK**」をクリックします。
 
    ![](assets/user-and-license-management-4.png)
 
@@ -39,27 +37,27 @@ ht-degree: 8%
 
    ![](assets/user-and-license-management-5.png)
 
-1. クリック **インタラクティブ Web セミナー**.
+1. 「**インタラクティブウェビナー**」をクリックします。
 
    ![](assets/user-and-license-management-6.png)
 
-1. クリック **ユーザーの追加/削除**.
+1. 「**ユーザーを追加 / 削除**」をクリックします。
 
    ![](assets/user-and-license-management-7.png)
 
-1. 削除するユーザーをハイライトし、キーボードの Delete キーを押します。 終了したら「**OK**」をクリックします。
+1. 削除するユーザーをハイライト表示し、キーボードの Delete キーを押します。終了したら、「**OK**」をクリックします。
 
    ![](assets/user-and-license-management-8.png)
 
-## ライセンスの使用状況 {#license-usage}
+## ライセンス使用状況 {#license-usage}
 
-インタラクティブウェビナーには、Adobe Connectイベントを作成するための特定のライセンスが用意されています。 ライセンスが追加されるたびに、新しいライセンス使用状況ボックスが表示されます。 Marketo管理者は、次の手順に従ってライセンスを表示（編集ではなく）できます。 追加のライセンスを取得するには、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+インタラクティブウェビナーには、Adobe Connectイベントを作成するための特定のライセンスが用意されています。 ライセンスが追加されるたびに、新しいライセンス使用状況ボックスが表示されます。Marketo管理者は、次の手順に従ってライセンスを表示（編集ではなく）できます。 追加のライセンスを取得するには、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 「**管理者**」領域に移動します。
 
    ![](assets/user-and-license-management-9.png)
 
-1. クリック **インタラクティブ Web セミナー**.
+1. 「**インタラクティブウェビナー**」をクリックします。
 
    ![](assets/user-and-license-management-10.png)
 
