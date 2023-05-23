@@ -3,7 +3,7 @@ description: ヘルプセンター — Marketoドキュメント — 製品ド�
 title: ヘルプセンター
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 10%
@@ -20,7 +20,7 @@ Help アイコンをクリックし、Marketo Engageにログインします。
 
 ![](assets/help-center-1.png)
 
-**ガイド**
+### ガイド {#guides}
 
 ガイドは、一般的な機能のクイックスルーとして機能します。
 
@@ -46,7 +46,7 @@ Help アイコンをクリックし、Marketo Engageにログインします。
 >
 >いつでも「 **解除**.
 
-**新着情報**
+### 新着情報 {#whats-new}
 
 「新機能」タブには、Marketo Engageの最新リリースの詳細が表示されます。
 
@@ -56,7 +56,7 @@ Help アイコンをクリックし、Marketo Engageにログインします。
 >
 >下部の矢印アイコンをクリックして、ページをExperience Leagueで表示します。
 
-**リソース**
+### リソース {#resources}
 
 「リソース」タブでは、様々な方法ですばやく直接アクセスでき、Marketo Engageインスタンスに関する追加のヘルプを取得できます。
 
