@@ -1,20 +1,20 @@
 ---
 unique-page-id: 7504893
-description: マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
-title: マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加
+description: '"追加 [!DNL Google AdWords] as a [!DNL Launchpoint] Manager アカウントを使用したサービス — Marketoドキュメント — 製品ドキュメント»'
+title: '"追加 [!DNL Google AdWords] as a [!DNL Launchpoint] 管理者アカウントを使用したサービス»'
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
-source-wordcount: '359'
-ht-degree: 100%
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 40%
 
 ---
 
-# マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# 追加 [!DNL Google AdWords] as a [!DNL Launchpoint] 管理者アカウントを使用したサービス {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWords アカウントを Marketo にリンクすることで、オフラインのコンバージョンデータを Marketo から Google AdWords に自動的にアップロードできます。AdWords に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)すると、どのクリックが条件を満たすリードや商談、新規顧客（または追跡したあらゆる収益ステージ）につながったのかを AdWords UI から簡単に確認できるようになります。{target="_blank"}この情報は、Marketo UI には表示されません。
+リンク [!DNL Google AdWords] アカウントをMarketoに自動的にアップロードし、Marketoからにオフラインのコンバージョンデータを [!DNL Google AdWords]. 次に、 [!DNL AdWords] UI では、どのクリックが選定されたリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます  [カスタム列を追加](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. この情報は、Marketo UI には表示されません。
 
-複数の Google Adwords アカウントがある場合、[Google AdWords マネージャーアカウント](https://www.google.com/adwords/manager-accounts/){target="_blank"}（旧称：マイクライアントセンター）を使用して、Marketo と統合できます。
+複数の [!DNL Google Adwords] アカウントを使用する場合、 [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} ( 旧称： [!DNL My Client Center]) を使用して、Marketoと統合できます。
 
 詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
 
@@ -28,71 +28,71 @@ Google AdWords アカウントを Marketo にリンクすることで、オフ�
 
 >[!NOTE]
 >
->また、[スタンドアロンの Google AdWords アカウントを Launchpoint サービスとして](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}統合できます。
+>また、 [スタンドアロン [!DNL Google AdWords] としてアカウント [!DNL Launchpoint] サービス](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
-1. 「**管理者**」セクションに移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-1.png)
 
-1. 「**LaunchPoint**」を選択します。
+1. 「**[!UICONTROL LaunchPoint]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-2.png)
 
-1. 「**新規**」ドロップダウンをクリックして、「**新規サービス**」を選択します。
+1. 「**[!UICONTROL 新規]**」ドロップダウンをクリックして、「**[!UICONTROL 新規サービス]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. 表示名を入力し、「**Google AdWords**」を選択します。
+1. を入力します。 **[!UICONTROL 表示名]** を選択し、 **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 
-1. 「**Marketo を承認**」を選択します。
+1. 「**[!UICONTROL Marketo を承認]**」を選択します。
 
    >[!NOTE]
    >
-   >個人の Gmail アカウントからログアウトし、ポップアップを有効にします。
+   >個人からログアウトするようにしてください [!DNL Gmail] アカウントを作成し、ポップアップを有効にします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-5.png)
 
-1. **Google AdWords** に関連付けられたアカウントを選択します。
+1. 次に関連するアカウントを選択 **[!DNL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-6.png)
 
-1. 「**確定**」をクリックします。
+1. 「**[!UICONTROL 確定]**」をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. ステータスは「**成功**」と表示されます。「**次へ**」を選択します。
+1. ステータスは「**[!UICONTROL 成功]**」と表示されます。「**[!UICONTROL 次へ]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
-1. Marketo から Google AdWords にオフラインコンバージョンをアップロードする送信頻度として、「**毎週**」または「**毎日**」を選択します。
+1. Marketoからへのオフライン変換のアップロード [!DNL Google AdWords] **[!UICONTROL 毎週]** または **[!UICONTROL 毎日]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-9.png)
 
-1. 属性コンバージョンで、「**最初のクリック**」または「**最後のクリック**」を選択します。
+1. 属性コンバージョンで、「**[!UICONTROL 最初のクリック]**」または「**[!UICONTROL 最後のクリック]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-10.png)
 
    | タイプ | 定義 |
    |---|---|
-   | 最初のクリック | オフラインコンバージョンは、過去 90 日間にユーザーが最初にクリックした AdWords に関連付けられます |
-   | 最後のクリック | オフラインコンバージョンは、最後にクリックした AdWords とユーザーがクリックした広告に関連付けられます |
+   | [!UICONTROL 最初のクリック] | オフラインコンバージョンは最初の [!DNL AdWords] 過去 90 日間にクリックした人 |
+   | [!UICONTROL 最後のクリック] | オフラインコンバージョンは、最後の [!DNL AdWords] 人がクリックした広告 |
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。AdWords 内で有効化する必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。内で有効化する必要があります [!DNL AdWords].
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 更新しないアカウントの選択を解除します。「**作成**」をクリックします。
+1. 更新しないアカウントの選択を解除します。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   以下の関連記事を参照して、売上高モデルで AdWords のオフラインコンバージョンをマッピングする方法をご確認ください。
+   マッピング方法については、以下の関連記事を参照してください。 [!DNL AdWords] オフラインコンバージョンを売上高モデルで使用できます。
 
    >[!MORELIKETHIS]
    >
-   >[マネージャーアカウントを使用した売上高モデルでの Google AdWords コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[ [!DNL Google AdWords] マネージャーアカウントを使用した収益モデルでの コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

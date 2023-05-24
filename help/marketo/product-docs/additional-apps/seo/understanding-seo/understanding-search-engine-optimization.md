@@ -3,9 +3,9 @@ unique-page-id: 2949176
 description: 検索エンジン最適化について — Marketo ドキュメント — 製品ドキュメント
 title: 検索エンジンの最適化について
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 95%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 95%
 
 **検索エンジン最適化（SEO）**：検索エンジン結果ページ（SERP）で高いランクの配置を取得することでサイトトラフィックを増やすために使用される戦略と手法の組み合わせ。
 
-**キーワード**：キーワードとは、Google、Yahoo、Bing などの検索エンジンにユーザーが入力する単語またはフレーズです。
+**キーワード**:キーワードとは、ユーザーがGoogle、 [!DNL Yahoo] または [!DNL Bing].
 
 **インバウンドリンク**：サイトへのトラフィックを転送する他のサイト上のリンク。リンクサイトの評判が高いほど、このインバウンドリンクの価値が高まります。
 
@@ -52,8 +52,8 @@ ht-degree: 95%
 
 ## 始め方 {#how-do-i-get-started}
 
-1. 「[キーワードについて](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)」で戦略を策定します{target=&quot;_blank&quot;}
-1. の既存の問題を修正 [ページについて](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
-1. 次の条件でリーチを拡大 [インバウンドリンクについて](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
+1. 「[キーワードについて](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}」で戦略を策定します
+1. 「[ページについて](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}」で既存の問題を修正します
+1. 「[インバウンドリンクについて](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}」でリーチを拡大します
 
 目標は、ビジネスに重要なキーワードの最初のページ（および最初の結果）に近づくことです。

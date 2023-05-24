@@ -1,9 +1,7 @@
 ---
 description: ヘルプセンター — Marketoドキュメント — 製品ドキュメント
 title: ヘルプセンター
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 10%
@@ -12,7 +10,7 @@ ht-degree: 10%
 
 # ヘルプセンター {#help-center}
 
-ヘルプセンターのMarketo Engageは、支援を得るための一元化された場所です。 様々なリソース ( 例： [製品ドキュメント](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}) の場合は、エクスペリエンスレベル別に整理された便利な製品内チュートリアルにアクセスできます。
+ヘルプセンターのMarketo Engageは、支援を得るための一元化された場所です。 様々なリソース ( 例： [製品ドキュメント](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) の場合は、エクスペリエンスレベル別に整理された便利な製品内チュートリアルにアクセスできます。
 
 ## アクセス方法 {#how-to-access}
 
@@ -26,25 +24,25 @@ Help アイコンをクリックし、Marketo Engageにログインします。
 
 ![](assets/help-center-2.png)
 
-目的のガイドをクリックして表示します。
+1. 目的のガイドをクリックして表示します。
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-「**開始する**」をクリックします。
+1. 「**開始する**」をクリックします。
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-クリック **次へ** をクリックして続行します。
+1. クリック **次へ** をクリックして続行します。
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-クリック **完了** をクリックして、ウォークスルーを終了します。
+1. クリック **完了** をクリックして、ウォークスルーを終了します。
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->いつでも「 **解除**.
+   >[!TIP]
+   >
+   >いつでも「 **解除**.
 
 ### 新着情報 {#whats-new}
 

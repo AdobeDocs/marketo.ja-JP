@@ -3,10 +3,10 @@ unique-page-id: 2949190
 description: SEO - 検索エンジンの地域／国の選択 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - 検索エンジンの地域／国の選択
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 94%
+source-wordcount: '118'
+ht-degree: 88%
 
 ---
 
@@ -18,15 +18,15 @@ SEO 管理者は、キーワードランク情報を取得したい検索エン�
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」セクションに移動します。
+1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. 「**検索エンジン**」タブをクリックします。
+1. 「**[!UICONTROL 検索エンジン]**」タブをクリックします。
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 最適化する国／都市を選択し、「**保存**」をクリックします。
+1. 最適化する国／都市を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >
@@ -34,12 +34,12 @@ SEO 管理者は、キーワードランク情報を取得したい検索エン�
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-これで完了です。選択した国または都市のキーワードランクが表示されるようになりました。
+これで完了です。選択した国や都市のキーワードランクが表示されます。
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
->* [ダッシュボードについて：SEO スナップショット](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
->* [ダッシュボードについて：SEORecommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
+>* [ダッシュボードについて：SEO スナップショット](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [ダッシュボードについて：SEO レコメンデーション](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
 
