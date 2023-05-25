@@ -2,10 +2,10 @@
 description: リリースノート - 2023年3月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 100%
+source-wordcount: '582'
+ht-degree: 97%
 
 ---
 
@@ -179,4 +179,4 @@ ht-degree: 100%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**：アドビの製品チームが主催する 2023年5月17日午前9時（PT）／午後12時（ET）の[ライブウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"}にご参加ください。2023年3月と5月の両方のリリースで提供される最新の製品イノベーションの使用方法を学ぶことができます。
+* **_製品リリースウェビナー_**: [2023 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
