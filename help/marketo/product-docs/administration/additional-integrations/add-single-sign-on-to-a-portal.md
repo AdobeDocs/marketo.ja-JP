@@ -3,16 +3,16 @@ unique-page-id: 2360356
 description: ポータルへのシングルサインオンの追加 - Marketo ドキュメント - 製品ドキュメント
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 100%
+source-wordcount: '524'
+ht-degree: 94%
 
 ---
 
 # ポータルへのシングルサインオンの追加 {#add-single-sign-on-to-a-portal}
 
-ユーザを認証するディレクトリサービスをご利用の場合は、Marketo へのシングルサインオン（SSO）を許可することができます。この機能をサポートするために、Security Assertion Markup Language（SAML）バージョン 2.0 以降を使用しています。
+ユーザを認証するディレクトリサービスをご利用の場合は、Marketo へのシングルサインオン（SSO）を許可することができます。この機能は、 [!DNL Security Assertion Markup Language] (SAML) バージョン 2.0 以降。
 
 Marketo は SAML サービスプロバイダー（SP）として機能し、ユーザの認証には外部 ID プロバイダー（IdP）を使用します。
 
@@ -24,7 +24,7 @@ SSO を有効にすると、IdP がユーザの認証情報を検証できるよ
 
 >[!NOTE]
 >
->Microsoft Azure ユーザですか？[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target=&quot;_blank&quot;}をご覧ください。
+>あなたは [!DNL Microsoft Azure] ユーザー？ 確認する [統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 
@@ -54,53 +54,53 @@ SSO を有効にすると、IdP がユーザの認証情報を検証できるよ
 
 SSO はデフォルトで無効になっています。SAML を有効にして設定するには、次の手順に従います。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. 「**シングルサインオン**」をクリックします。
+1. 「**[!UICONTROL シングルサインオン]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >**管理者**&#x200B;の下に&#x200B;**シングルサインオン**&#x200B;が表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}にお問い合わせください。
+   >見えない場合 **[!UICONTROL シングルサインオン]** under **[!UICONTROL 管理者]**，連絡先 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. 「**SAML 設定**」セクションで、「**編集**」をクリックします。
+1. 「**[!UICONTROL SAML 設定]**」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. 「**SAML シングルサインオン**」を&#x200B;**有効**&#x200B;に変更します。
+1. 「**[!UICONTROL SAML シングルサインオン]**」を&#x200B;**[!UICONTROL 有効]**&#x200B;に変更します。
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. 「**発行者 ID**」、「**エンティティ ID**」を入力し、**ユーザ ID の場所**&#x200B;を選択して、「**参照**」をクリックします。
+1. 「**[!UICONTROL 発行者 ID]**」、「**[!UICONTROL エンティティ ID]**」を入力し、**[!UICONTROL ユーザ ID の場所]**&#x200B;を選択して、「**[!UICONTROL 参照]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. **ID プロバイダー証明書**&#x200B;ファイルを選択します。
+1. **[!UICONTROL ID プロバイダー証明書]**&#x200B;ファイルを選択します。
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## リダイレクトページ設定の更新 {#update-redirect-page-settings}
 
-1. 「**ページをリダイレクト**」セクションで、「**編集**」をクリックします。
+1. 「**[!UICONTROL ページをリダイレクト]**」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >ユニバーサル ID と SSO を使用するお客様は、ID プロバイダーのログイン URL を「**ログイン URL**」フィールドに入力する必要があります。
+   >ユニバーサル ID と SSO を使用するお客様は、ID プロバイダーのログイン URL を「**[!UICONTROL ログイン URL]**」フィールドに入力する必要があります。
 
-1. 「**ログアウト URL**」を入力します。これは、Marketo からログアウトしたときにユーザを転送する先の URL です。
+1. 「**[!UICONTROL ログアウト URL]**」を入力します。これは、Marketo からログアウトしたときにユーザを転送する先の URL です。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 「**エラー URL**」を入力します。これは、Marketo へのログインが失敗した場合にユーザを転送する先の URL です。「**保存**」をクリックします。
+1. 「**[!UICONTROL エラー URL]**」を入力します。これは、Marketo へのログインが失敗した場合にユーザを転送する先の URL です。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -110,7 +110,7 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 
 >[!MORELIKETHIS]
 >
->* [サブスクリプションログインでのユニバーサル ID の使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target=&quot;_blank&quot;}
->* [ユーザログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target=&quot;_blank&quot;}
->* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target=&quot;_blank&quot;}
+>* [サブスクリプションログインでのユニバーサル ID の使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
 
