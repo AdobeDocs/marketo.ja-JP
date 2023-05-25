@@ -3,7 +3,7 @@ unique-page-id: 11377406
 description: ワークスペースを使用したデフォルトのブランディングドメインの編集 - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
@@ -12,11 +12,11 @@ ht-degree: 100%
 
 # ワークスペースを使用したデフォルトのブランディングドメインの編集 {#edit-your-default-branding-domain-with-workspaces}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -26,15 +26,15 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「**追加**」は、汎用ドメインを編集するまで機能しません。「**削除**」は、2 番目のドメインを追加するまで機能しません。
+   >「**[!UICONTROL 追加]**」は、汎用ドメインを編集するまで機能しません。「**[!UICONTROL 削除]**」は、2 番目のドメインを追加するまで機能しません。
    >
    >最初に汎用ドメインを編集するまで、ドメインは追加できません。
 
-1. デフォルトのドメイン名を入力し、「**次へ**」をクリックします。
+1. デフォルトのドメイン名を入力し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

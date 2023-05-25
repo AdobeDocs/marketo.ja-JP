@@ -2,10 +2,10 @@
 description: メールボットアクティビティのフィルター - Marketo ドキュメント - 製品ドキュメント
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
-workflow-type: ht
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -30,25 +30,25 @@ ht-degree: 100%
 
 ## フィルタータイプの選択 {#select-filter-type}
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 「**ボットアクティビティ**」タブをクリックします。
+1. 「**[!UICONTROL ボットアクティビティ]**」タブをクリックします。
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 「**IAB リストと一致**」、「**近接パターンと一致**」またはその両方を選択します。ボットアクティビティをログに記録するかどうか、_または_&#x200B;ボットアクティビティをフィルタリングするかどうかを選択します。
+1. 「**[!UICONTROL IAB リストと一致]**」、「**[!UICONTROL 近接パターンと一致]**」またはその両方を選択します。選択する [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->ボットアクティビティのフィルタリングを選択した場合、誤ったアクティビティが除外されるので、メールの開封数とクリック数が減少する可能性があります。
+>次を選択した場合： [!UICONTROL ボットアクティビティをフィルタリング]の場合、誤ったアクティビティが除外されると、電子メールの開封数とクリック数のドロップが表示されることがあります。
 
 **オプションの手順**：スライダーをオフにすると、この機能は無効になります。無効にした場合、データはリセットされません。
 

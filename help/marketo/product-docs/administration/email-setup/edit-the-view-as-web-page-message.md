@@ -3,10 +3,10 @@ unique-page-id: 2360253
 description: 「Web ページとして表示」メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 100%
 
 ## 「Web ページとして表示」メッセージの編集 {#edit-the-view-as-web-page-message-1}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 100%
    >
    >2 つ目の部分 `##MKT_TOK##` は、その人物の munchkin cookie です。リンクをクリックすると、適切に cookie が使用されるようにするものです。
 
-1. 「**Web ページとして表示（HTML）**」と「**Web ページとして表示（テキスト）**」バージョンを適切に編集し、「**変更を保存**」をクリックします。
+1. 「**[!UICONTROL Web ページとして表示（HTML）]**」と「**[!UICONTROL Web ページとして表示（テキスト）]**」バージョンを適切に編集し、「**[!UICONTROL 変更を保存]**」をクリックします。
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,13 +52,13 @@ ht-degree: 100%
 
 ## デフォルトの「Web ページとして表示」テキスト {#default-view-as-web-page-text}
 
-システムデフォルトの「Web ページとして表示」に戻す必要がある場合は、次の内容をコピーして貼り付けます。
+デフォルトのシステム「 」に戻す必要がある場合[!UICONTROL ウェブページとして表示]「」で、次をコピー&amp;ペーストします。
 
-**Web ページとして表示（HTML）：**
+**[!UICONTROL ウェブ ページ (HTML) として表示]**:
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**Web ページとして表示（テキスト）**
+**[!UICONTROL ウェブ ページ (テキスト) として表示]**:
 
 このメールをウェブページとして閲覧するには、次のアドレスに移動してください:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`

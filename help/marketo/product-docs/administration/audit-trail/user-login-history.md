@@ -3,7 +3,7 @@ unique-page-id: 11377958
 description: ユーザログイン履歴 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
@@ -28,15 +28,15 @@ ht-degree: 100%
 
 ユーザログイン履歴を表示するには：
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/user-login-history-1.png)
 
-1. 「セキュリティ」で「**ユーザとロール**」をクリックします。
+1. 「セキュリティ」で「**[!UICONTROL ユーザとロール]**」をクリックします。
 
    ![](assets/user-login-history-2.png)
 
-1. 「**ログイン履歴**」タブをクリックします。リストには、最新のログインが表示されます。
+1. 「**[!UICONTROL ログイン履歴]**」タブをクリックします。リストには、最新のログインが表示されます。
 
    ![](assets/user-login-history-3.png)
 
@@ -52,15 +52,15 @@ ht-degree: 100%
 
    ![](assets/user-login-history-6.png)
 
-1. ユーザを「**ユーザ**」ドロップダウンリストから選択します。
+1. ユーザを「**[!UICONTROL ユーザ]**」ドロップダウンリストから選択します。
 
    ![](assets/user-login-history-7.png)
 
-1. 「**失敗したログインのみ**」ボックスにチェックを入力すると、失敗したログインのみ検索に表示されます。
+1. 「**[!UICONTROL 失敗したログインのみ]**」ボックスにチェックを入力すると、失敗したログインのみ検索に表示されます。
 
    ![](assets/user-login-history-8.png)
 
-1. 「**適用**」をクリックします。
+1. 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/user-login-history-9.png)
 
@@ -68,6 +68,6 @@ ht-degree: 100%
    >
    >ユーザインターフェイスには最大 30 日分のデータが表示されます。さらに必要な場合は、直近 6 ヶ月分のデータを csv ファイルにダウンロードできます。
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[監査証跡の概要](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

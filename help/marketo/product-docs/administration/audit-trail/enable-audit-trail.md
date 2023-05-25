@@ -3,10 +3,10 @@ unique-page-id: 11382122
 description: 監査記録の有効化 - Marketo ドキュメント - 製品ドキュメント
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -20,15 +20,15 @@ ht-degree: 100%
 
 ## 役割の監査記録を有効にする {#enable-audit-trail-for-a-role}
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/enable-audit-trail-1.png)
 
-1. 「**ユーザーと役割**」を選択し、「**役割**」をクリックします。
+1. 「**[!UICONTROL ユーザーと役割]**」を選択し、「**[!UICONTROL 役割]**」をクリックします。
 
    ![](assets/enable-audit-trail-2.png)
 
-1. 監査記録を有効にする役割を選択し、「**役割の編集**」をクリックします。
+1. 監査記録を有効にする役割を選択し、「**[!UICONTROL 役割の編集]**」をクリックします。
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 100%
    >
    >また、新しい役割を作成し、監査記録アクセス権を付与するオプションも表示されます。
 
-1. **管理アクセス**&#x200B;権限を展開します。必要に応じて、「**監査記録にアクセス**」と「**ログイン履歴にアクセス**」のいずれかまたは両方を選択します。「**保存**」をクリックします。
+1. **[!UICONTROL 管理アクセス]**&#x200B;権限を展開します。必要に応じて、「**[!UICONTROL 監査記録にアクセス]**」と「**[!UICONTROL ログイン履歴にアクセス]**」のいずれかまたは両方を選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -44,9 +44,9 @@ ht-degree: 100%
    >
    >**定義**
    >
-   >**監査記録にアクセス**：「アセット監査記録」と「管理監査記録」両方の権限をユーザーに付与します。
+   >**[!UICONTROL 監査証跡にアクセス]**:ユーザーが両方にアクセスできるようにします [!UICONTROL アセット監査証跡] および [!UICONTROL 管理監査証跡].
    >
-   >**ログイン履歴にアクセス**：[ユーザーログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)への権限をユーザーに付与します。
+   >**[!UICONTROL ログイン履歴にアクセス]**:ユーザーが [ユーザーログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## 監査記録の役割をユーザーに割り当てる {#assign-audit-trail-role-to-a-user}
 
@@ -54,11 +54,11 @@ ht-degree: 100%
 >
 >役割を[作成](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role)するか、既存の役割を[有効](#enable-audit-trail)にし、監査記録の権限を付与します。
 
-1. **ユーザーと役割**&#x200B;で、「**ユーザー**」をクリックします。
+1. **[!UICONTROL ユーザーと役割]**&#x200B;で、「**[!UICONTROL ユーザー]**」をクリックします。
 
    ![](assets/enable-audit-trail-5.png)
 
-1. 監査記録の権限を付与したいユーザーを選択し「**ユーザーの編集**」をクリックします。
+1. 監査記録の権限を付与したいユーザーを選択し「**[!UICONTROL ユーザーの編集]**」をクリックします。
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -74,6 +74,6 @@ ht-degree: 100%
    >
    >ワークスペースを有効にしている場合は、必ず役割のチェックボックスを選択し、ワークスペースをすべて選択してください。個々のワークスペースの選択を解除すると、「監査記録」が非表示になります。つまり、すべてのワークスペースの「監査記録」データが表示されます。[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/enable-audit-trail-8.png)

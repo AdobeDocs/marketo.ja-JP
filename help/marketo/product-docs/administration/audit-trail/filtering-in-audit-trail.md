@@ -3,10 +3,10 @@ unique-page-id: 11378468
 description: 監査記録のフィルタリング - Marketo ドキュメント - 製品ドキュメント
 title: 監査記録のフィルタリング
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 94%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 時間枠、アセットタイプ、ユーザー、実行されたアクションなどでフィルタリングします。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. 「**セキュリティ**」で、「**監査記録**」を選択します。
+1. 「**[!UICONTROL セキュリティ]**」で、「**[!UICONTROL 監査記録]**」を選択します。
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -30,19 +30,19 @@ ht-degree: 100%
    >
    >使用可能な検索パラメーターの組み合わせは多数あります。この例では、次の記録を探します：_すべてのメール - すべての人が編集 - 過去 7 日間_
 
-1. 「**期間**」ドロップダウンをクリックし、「**過去 7 日間**」を選択します。
+1. 「**[!UICONTROL 期間]**」ドロップダウンをクリックし、「**[!UICONTROL 過去 7 日間]**」を選択します。
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. 「**アセットタイプ**」ドロップダウンをクリックし、「**電子メール**」を選択します。
+1. 「**[!UICONTROL アセットタイプ]**」ドロップダウンをクリックし、「**[!UICONTROL 電子メール]**」を選択します。
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. 「**アクション**」ドロップダウンをクリックし、「**編集**」を選択します。
+1. 次をクリック： **Aアクション** ドロップダウンして「 」を選択します。 **[!UICONTROL 編集]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. 「**適用**」をクリックします。
+1. 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/filtering-in-audit-trail-7.png)
 

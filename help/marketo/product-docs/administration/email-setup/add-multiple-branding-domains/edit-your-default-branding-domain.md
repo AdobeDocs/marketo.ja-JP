@@ -3,10 +3,10 @@ unique-page-id: 11377392
 description: デフォルトのブランディングドメインの編集 - Marketo ドキュメント - 製品ドキュメント
 title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 72%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 100%
 >
 >Marketo にブランディングドメインを追加する前に、[DNS で CNAME を設定](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)しておくようにします。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. ブランディングドメインテーブルで、汎用ドメインを選択し、「編集」をクリックして、自社のブランディングドメインに変更します。
+1. 内 [!UICONTROL ブランディングドメイン] の表で、汎用ドメインを選択し、「編集」をクリックして、会社のブランディングドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -34,7 +34,7 @@ ht-degree: 100%
    >
    >最初に汎用ドメインを編集するまで、ドメインは追加できません。
 
-1. デフォルトのドメイン名を入力し、「保存」をクリックします。
+1. デフォルトのドメイン名を入力し、 **[!UICONTROL 保存]**.
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
