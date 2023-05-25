@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: ReST API で使用するカスタムサービスの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 ## カスタムサービスの作成 {#create-custom-service}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -39,11 +39,11 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. 「**新規**」を選択し、次に「**新規サービス**」を選択します。
+1. 「**[!UICONTROL 新規]**」を選択し、次に「**[!UICONTROL 新規サービス]**」を選択します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. サービスの「**表示名**」を入力します。**先ほど作成した**「[API のみのユーザ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
+1. サービスの「**[!UICONTROL 表示名]**」を入力します。**[!UICONTROL 先ほど作成した]**「[API のみのユーザ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
    >
    >一般的なウェビナーサービスに対しては、既にネイティブ統合が行われています。
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 ## API アクセスの認証情報 {#credentials-for-api-access}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. **LaunchPoint**.をクリックします。
+1. **[!UICONTROL LaunchPoint]**.をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. 上記で作成したカスタム LaunchPoint サービスの「**詳細を表示**」をクリックします。
+1. 上記で作成したカスタム LaunchPoint サービスの「**[!UICONTROL 詳細を表示]**」をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. 「**トークンを取得**」をクリックします。
+1. 「**[!UICONTROL トークンを取得]**」をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. 接続を確立する担当者に、**クライアント ID**、**クライアントシークレット**、**許可されたユーザ**、**トークン**&#x200B;を提供します。
+1. 接続を確立する担当者に、**[!UICONTROL クライアント ID]**、**[!UICONTROL クライアントシークレット]**、**[!UICONTROL 許可されたユーザ]**、**[!UICONTROL トークン]**&#x200B;を提供します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
