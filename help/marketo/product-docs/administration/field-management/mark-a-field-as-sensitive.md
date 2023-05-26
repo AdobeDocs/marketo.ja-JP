@@ -2,7 +2,7 @@
 description: フィールドを機密としてマークする - Marketo ドキュメント - 製品ドキュメント
 title: フィールドを機密としてマークする
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -17,11 +17,11 @@ Marketo の管理者は、特定のフィールドを「機密」としてマー
 >
 >この機能は、5月11日（火）（PT）の夜に、すべての Marketo インスタンスで有効になります。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -29,7 +29,7 @@ Marketo の管理者は、特定のフィールドを「機密」としてマー
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. 「**フィールドを機密としてマークする**」チェックボックスを選択します。
+1. 「**[!UICONTROL フィールドを機密としてマークする]**」チェックボックスを選択します。
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

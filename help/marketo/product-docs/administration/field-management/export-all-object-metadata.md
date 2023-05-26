@@ -2,8 +2,8 @@
 description: すべてのオブジェクトメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: すべてのオブジェクトメタデータのエクスポート
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: ht
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -28,15 +28,15 @@ ht-degree: 100%
 
 ## オブジェクトメタデータのエクスポート {#export-object-metadata}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 「**すべてのオブジェクトをエクスポート**」をクリックします。
+1. 「**[!UICONTROL すべてのオブジェクトをエクスポート]**」をクリックします。
 
    ![](assets/export-all-object-metadata-3.png)
 

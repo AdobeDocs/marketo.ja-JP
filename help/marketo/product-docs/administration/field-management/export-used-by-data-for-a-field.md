@@ -3,10 +3,10 @@ unique-page-id: 45417092
 description: フィールドの使用先データのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: フィールドの使用先データのエクスポート
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 96%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -30,11 +30,11 @@ ht-degree: 100%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 「**フィールドアクション**」ドロップダウンをクリックして、「**使用先をエクスポート**」を選択します。
+1. 「**[!UICONTROL フィールドアクション]**」ドロップダウンをクリックして、「**[!UICONTROL 使用先をエクスポート]**」を選択します。
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Excel ファイルがエクスボートされます。コンテンツを表示するには、ファイルを開きます。
+1. An [!DNL Excel] ファイルをエクスポートします。 コンテンツを表示するには、ファイルを開きます。
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

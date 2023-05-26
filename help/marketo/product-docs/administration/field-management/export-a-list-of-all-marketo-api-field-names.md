@@ -3,30 +3,30 @@ unique-page-id: 2360295
 description: すべての Marketo API フィールド名のリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: すべての Marketo API フィールド名のリストのエクスポート
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 82%
 
 ---
 
 # すべての Marketo API フィールド名のリストのエクスポート {#export-a-list-of-all-marketo-api-field-names}
 
-当社の SOAP API または Munchkin API を使用している場合は、すべてのフィールド名とその API 名のリストが必要になります。このリストの取得方法を次に示します。
+以下を使用する場合、 [!DNL SOAP API] または [!DNL Munchkin API] すべてのフィールドとその API 名のリストが必要です。 このリストの取得方法を次に示します。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. 「**フィールド名をエクスポート**」をクリックして、スプレッドシートをダウンロードします。
+1. 「**[!UICONTROL フィールド名をエクスポート]**」をクリックして、スプレッドシートをダウンロードします。
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 

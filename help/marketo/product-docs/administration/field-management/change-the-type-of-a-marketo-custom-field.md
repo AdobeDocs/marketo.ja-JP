@@ -3,8 +3,8 @@ unique-page-id: 2360331
 description: Marketo カスタムフィールドタイプの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
-workflow-type: ht
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 カスタムフィールドのフィールドタイプを変更する方法を次に示します。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. 「**フィールドアクション**」ドロップダウンで、「**タイプを変更**」をクリックします。
+1. 「**[!UICONTROL フィールドアクション]**」ドロップダウンで、「**[!UICONTROL タイプを変更]**」をクリックします。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. 警告を読んで、「**変更**」をクリックして確定します。
+1. 警告を読んで、「**[!UICONTROL 変更]**」をクリックして確定します。
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

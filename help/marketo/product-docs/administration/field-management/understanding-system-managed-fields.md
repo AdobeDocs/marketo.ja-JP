@@ -3,16 +3,16 @@ unique-page-id: 5472615
 description: システム管理のフィールドについて — Marketo ドキュメント — 製品ドキュメント
 title: システム管理のフィールドについて
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 100%
+source-wordcount: '512'
+ht-degree: 88%
 
 ---
 
 # システム管理のフィールドについて {#understanding-system-managed-fields}
 
-[リードの詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)には、Marketo によって作成される編集不可のフィールドがあることにお気付きかもしれません。そうしたフィールドのデータは、ソースも表示される値もさまざまです。
+[リードの詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}には、Marketo によって作成される編集不可のフィールドがあることにお気付きかもしれません。そうしたフィールドのデータは、ソースも表示される値もさまざまです。
 
 ## フィールドのタイプ {#field-types}
 
@@ -40,16 +40,16 @@ ht-degree: 100%
 
 | **参照元のソースのタイプ** | **定義** |
 |---|---|
-| Salesforce.com | リードは Salesforce 同期から検出されました |
+| Salesforce.com | 担当者が [!DNL Webhook] 同期 |
 | Web ページへのアクセス | リードは Web ページから検出されました |
 | Web フォーム入力 | リードはフォームの入力後に検出されました |
 | リストのインポート | リードはリストのインポートから検出されました |
 | 新規リード | リードはデータベースに手動で入力されました |
 | Web リンククリック | リードはリンクをクリックした後に検出されました |
-| セールスメール | リードに Sales Insight メールアドイン経由でメールが送信されました |
-| リード | リードは Salesforce からリードとして同期されました |
-| 取引先責任者 | リードは Salesforce から取引先責任者として同期されました |
-| Munchkin API | リードは Marketo の Munchkin API によって検出されました |
+| セールスメール | 担当者を経由で電子メールを送信しました [!DNL Sales Insight] メールアドイン |
+| 人物 | 担当者をから同期しました [!DNL Salesforce] 人として |
+| 取引先責任者 | 担当者をから同期しました [!DNL Webhook] 連絡先として |
+| [!DNL Munchkin] API | 担当者がMarketo Engage [!DNL Munchkin] API |
 | ソーシャルアプリ | リードはソーシャルウィジェットによって検出されました |
 | Web サービス API | リードは Web サービス API によって検出されました |
 | イベントパートナー | リードは同期されたウェビナーサービスによって検出されました |
@@ -58,11 +58,11 @@ ht-degree: 100%
 | **登録ソースのタイプ** | **定義** |
 |---|---|
 | リストのインポート | リストのインポートによってリードになりました |
-| Salesforce.com | Salesforce の同期を通じてリードになりました |
+| Salesforce.com | を通じて人になった [!DNL Webhook] 同期 |
 | Web フォーム入力 | フォームの記入後にリードになりました |
-| セールスメール | リードに Sales Insight メールアドイン経由でメールが送信されました |
+| セールスメール | 担当者を経由で電子メールを送信しました [!DNL Webhook] メールアドイン |
 | Web サービス API | リードは SOAP／REST API を使用して作成されました |
 | 新規リード | リードはデータベースに手動で入力されました |
-| Munchkin API | Marketo Munchkin API を通じてリードになりました |
+| [!DNL Munchkin] API | Marketoを通じて人になった [!DNL Munchkin] API |
 | ソーシャルアプリ | ソーシャルウィジェットを通じてリードになりました |
 | イベントパートナー | リンクされたウェビナーを通じててリードになりました |
