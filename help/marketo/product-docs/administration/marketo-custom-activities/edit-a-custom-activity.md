@@ -3,10 +3,10 @@ unique-page-id: 10100269
 description: カスタムアクティビティの編集 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムアクティビティの編集
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
-workflow-type: ht
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 作成済みのカスタムアクティビティに変更を加える必要がある場合、手順は以下のとおりです。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. 「**Marketo カスタムアクティビティ**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムアクティビティ]**」をクリックします。
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ ht-degree: 100%
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. 「**カスタムアクティビティのアクション**」をクリックし、「**アクティビティを編集**」を選択します。
+1. 「**[!UICONTROL カスタムアクティビティのアクション]**」をクリックし、「**[!UICONTROL アクティビティを編集]**」を選択します。
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   アクティビティタイプを編集が表示されます。この例では、タイポを修正します。
+   アクティビティタイプを編集が表示されます。この例では、タイポを修正しています。
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. 新しい情報を入力し、「**送信**」をクリックします。
+1. 新しい情報を入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/edit-a-custom-activity-6.png)
 
