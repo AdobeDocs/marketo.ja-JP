@@ -2,10 +2,10 @@
 description: メールの検証 - Marketo ドキュメント - 製品ドキュメント
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 30%
+source-wordcount: '294'
+ht-degree: 29%
 
 ---
 
@@ -19,7 +19,7 @@ Adobe Marketo Engageサブスクリプションを使用する場合、Marketo E
 
 ## 確認メール {#verification-email}
 
-招待されたユーザーには次の電子メールが送信されます。
+サブスクリプションの電子メール検証が有効化されたとき、または管理者/ユーザーによってトリガーされたときに、ユーザーは次の電子メールを受け取ります。
 
 ![](assets/email-verification-1.png)
 
