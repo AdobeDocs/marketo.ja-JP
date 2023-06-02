@@ -2,14 +2,18 @@
 description: Sales Insight Actions ユーザオンボーディングガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions ユーザオンボーディングガイド
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 90%
 
 ---
 
 # Sales Insight Actions ユーザオンボーディングガイド {#sales-insight-actions-user-onboarding-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
 
 >[!PREREQUISITES]
 >

@@ -2,14 +2,18 @@
 description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
-source-wordcount: '594'
-ht-degree: 100%
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+workflow-type: tm+mt
+source-wordcount: '626'
+ht-degree: 94%
 
 ---
 
 # Sales Insight Actions 管理者設定ガイド {#sales-insight-actions-admin-setup-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
 
 >[!PREREQUISITES]
 >

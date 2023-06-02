@@ -2,16 +2,20 @@
 description: Sales Insight Actions ユーザオンボーディングチェックリスト - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions ユーザオンボーディングチェックリスト
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
-source-git-commit: 9a9125e2794c6d299d8c8c0d3a4afe969d67aea6
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 73%
 
 ---
 
 # Sales Insight Actions ユーザオンボーディングチェックリスト {#sales-insight-actions-user-onboarding-checklist}
 
 Marketo Sales Insight Actions の使用開始に関するリソースをお探しの場合は、[オンボーディングチェックリストをダウンロード](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)してください。
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 

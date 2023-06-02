@@ -2,16 +2,20 @@
 description: 製品の使用制限 - Marketo ドキュメント - 製品ドキュメント
 title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 77%
 
 ---
 
 # 製品使用の制限 {#product-usage-limits}
 
-Sales Insight Actions で使用可能な拡張セールスエンゲージメント機能の使用には、次の制限が適用されます。
+以下に、Sales Insight Actions で使用可能な拡張セールスエンゲージメント機能の使用に関する制限を示します。
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
 
 <table>
   <th>機能</th>

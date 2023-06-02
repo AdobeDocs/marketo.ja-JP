@@ -2,10 +2,10 @@
 description: Sales Insight Actions 機能の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
-source-wordcount: '1360'
-ht-degree: 100%
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+workflow-type: tm+mt
+source-wordcount: '1392'
+ht-degree: 97%
 
 ---
 
@@ -13,13 +13,15 @@ ht-degree: 100%
 
 Sales Insight Actions を使用して、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローに統合し、潜在顧客の発掘を加速します。
 
+>[!NOTE]
+>
+>Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
+
 >[!AVAILABILITY]
 >
 >この機能は現在、すべての Sales Insight ユーザーにロールアウトされています。ロールアウトで優先順位を付ける場合は、`sales-insights(at)adobe(dot)com` にメールを送信してください。
 
->[!NOTE]
->
->Sales Insight Actions のビデオの概要については、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
+Sales Insight Actions のビデオの概要については、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
