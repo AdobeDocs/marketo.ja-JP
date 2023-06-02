@@ -3,10 +3,10 @@ unique-page-id: 10093188
 description: Marketo カスタムオブジェクトについて - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
-workflow-type: ht
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
 source-wordcount: '672'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -42,11 +42,11 @@ ht-degree: 100%
 
 ## Marketo カスタムオブジェクトへのアクセス {#accessing-marketo-custom-objects}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -68,17 +68,17 @@ ht-degree: 100%
 
 ## 人物に関連付けられたカスタムオブジェクトの表示 {#view-custom-objects-associated-to-a-person}
 
-カスタムオブジェクト構造を作成しておくと、特定のカスタムオブジェクトデータをアップロードするときに、カスタムオブジェクトがデータベースの人物に自動的に関連付けられます。このとき利用されるのは、カスタムオブジェクトのリンクフィールドです。情報は、人物詳細ページの「カスタムオブジェクト」タブで確認できます。
+カスタムオブジェクト構造を作成しておくと、特定のカスタムオブジェクトデータをアップロードするときに、カスタムオブジェクトがデータベースの人物に自動的に関連付けられます。このとき利用されるのは、カスタムオブジェクトのリンクフィールドです。情報は、 [!UICONTROL カスタムオブジェクト] 」タブをクリックします。
 
-1. **データベース**&#x200B;に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. データベースを開き、「**人物**」タブをクリックします。カスタムオブジェクトに関連付ける人物のレコードをダブルクリックします。
+1. データベースを開き、「**[!UICONTROL 人物]**」タブをクリックします。カスタムオブジェクトに関連付ける人物のレコードをダブルクリックします。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. リード詳細ページで「**カスタムオブジェクト**」タブをクリックし、ドロップダウンからオブジェクトを選択します。
+1. リード詳細ページで「**[!UICONTROL カスタムオブジェクト]**」タブをクリックし、ドロップダウンからオブジェクトを選択します。
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

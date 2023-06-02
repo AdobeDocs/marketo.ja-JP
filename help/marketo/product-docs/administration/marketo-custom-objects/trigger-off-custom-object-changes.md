@@ -3,10 +3,10 @@ unique-page-id: 11378713
 description: カスタムオブジェクトの変更のトリガー- Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 83%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 100%
 >
 >この機能は以下の場合にのみ使用できます。
 >
->* Orion インフラストラクチャのお客様向け
->* Marketo カスタムオブジェクトでのみ使用し、ネイティブの Salesforce または Microsoft Dynamics 統合を通じて同期されたカスタムオブジェクトでは使用しません。
+>* の [!DNL Orion] インフラ
+>* Marketoカスタムオブジェクトでのみ使用し、ネイティブから同期されたカスタムオブジェクトでは使用しません [!DNL Salesforce] または [!DNL Microsoft Dynamics] 統合
 >* フィルターとしてではなくトリガーとして使用
 >
 >カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡してください。
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >カスタムオブジェクトレコードが変更されても、アクティビティログエントリは作成されません。
 
-1. Marketo で、「**マーケティング活動**」に移動します。
+1. Marketo Engageで、に移動します。 **[!UICONTROL マーケティング活動]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. 「トリガー」属性を選択します。
+1. を選択します。 [!UICONTROL トリガー属性].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

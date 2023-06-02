@@ -2,8 +2,8 @@
 description: カスタムオブジェクトメタデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 >
 >必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. 「**カスタムオブジェクトのアクション**」ドロップダウンをクリックして「**オブジェクトをエクスポート**」を選択します。
+1. 「**[!UICONTROL カスタムオブジェクトのアクション]**」ドロップダウンをクリックして「**[!UICONTROL オブジェクトをエクスポート]**」を選択します。
 
    ![](assets/custom-object-metadata-export-4.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 10094188
 description: カスタムオブジェクトの承認 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
-workflow-type: ht
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 100%
 
 新しいカスタムオブジェクトを作成したら、承認する手順は次のとおりです
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -30,11 +30,11 @@ ht-degree: 100%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 「**カスタムオブジェクトのアクション**」ドロップダウンをクリックし、「**オブジェクトを承認**」を選択します。
+1. 「**[!UICONTROL カスタムオブジェクトのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL オブジェクトを承認]**」を選択します。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. ステートが「承認済み」に変わります。
+1. 状態がに変わります。 [!UICONTROL 承認済み].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -54,14 +54,14 @@ ht-degree: 100%
 
 承認済みのカスタムオブジェクトを編集した後、ドラフトを承認して、カスタムオブジェクトを承認済みのステートに戻す必要があります。
 
-1. 既に承認済みのカスタムオブジェクトを編集すると、ドラフトステートで承認済みが返されます。
+1. 既に承認済みのカスタムオブジェクトを編集すると、そのオブジェクトは [!UICONTROL 承認待ち下書きあり] 状態。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. ドラフトを承認する準備が整ったら、「**カスタムオブジェクトのアクション**」ドロップダウンをクリックして、「**オブジェクトを承認**」を選択します。
+1. ドラフトを承認する準備が整ったら、「**[!UICONTROL カスタムオブジェクトのアクション]**」ドロップダウンをクリックして、「**[!UICONTROL オブジェクトを承認]**」を選択します。
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. プレビューには、ドラフトで変更された項目が表示されます。「**承認**」をクリックします。
+1. プレビューには、ドラフトで変更された項目が表示されます。「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/approve-a-custom-object-8.png)

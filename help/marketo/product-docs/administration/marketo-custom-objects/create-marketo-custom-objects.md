@@ -3,10 +3,10 @@ unique-page-id: 10093192
 description: Marketo カスタムオブジェクトの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
-workflow-type: ht
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -26,31 +26,31 @@ ht-degree: 100%
 
 この例では、1 対多の構造で使用する「自動車」カスタムオブジェクトを示します。後で、多対多構造で使用する「コース」カスタムオブジェクトと中間オブジェクトを作成します。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. 「**新規カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL 新規カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >「Marketo カスタムオブジェクト」タブには、右側にすべてのカスタムオブジェクトと、最新の更新時のレコード数とフィールド数を含む、承認済みオブジェクトの詳細が表示されます。
+   >この [!UICONTROL Marketo Custom Objects] 「 」タブには、右側のすべてのカスタムオブジェクトと、最新の更新時のレコードとフィールドの数を含む承認済みのオブジェクトの詳細が表示されます。
 
-1. 表示名を入力します。「API 名」と「複数名」は自動的に入力されます。説明を入力します（オプション）。
+1. [!UICONTROL 表示名]を入力します。この [!UICONTROL API 名] および [!UICONTROL 複数名] を自動的に設定する。 を入力します。 [!UICONTROL 説明] （オプション）。
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >これらのフィールドは、作成時に編集できますが、保存後は、「複数名」フィールドと「**リード詳細で表示**」スライダーのみ編集できます。
+   >これらのフィールドは、作成時に編集できますが、保存後は編集できるのは [!UICONTROL 複数名] フィールドと **[!UICONTROL リード詳細で表示]** スライダー。
 
-1. データベースページにカスタムオブジェクトデータを表示する場合、「**リード詳細で表示**」スライダーを引いて、「**表示**」を表示します。「**保存**」をクリックします。
+1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**[!UICONTROL 表示]**」を表示します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -72,27 +72,27 @@ ht-degree: 100%
 >
 >多対多の関係の場合、カスタムオブジェクト内にリンクを作成する必要はありません。代わりに、中間オブジェクトに 2 つのリンクを追加します（以下を参照）。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. 「**新規カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL 新規カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. 表示名を入力します。「API 名」と「複数名」は自動的に入力されます。説明を入力します（オプション）。
+1. [!UICONTROL 表示名]を入力します。この [!UICONTROL API 名] および [!UICONTROL 複数名] を自動的に設定する。 を入力します。 [!UICONTROL 説明] （オプション）。
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >これらのフィールドは、作成時に編集できますが、保存後は、「複数名」フィールドと「**リード詳細で表示**」スライダーのみ編集できます。
+   >これらのフィールドは、作成時に編集できますが、保存後は編集できるのは [!UICONTROL 複数名] フィールドと **[!UICONTROL リード詳細で表示]** スライダー。
 
-1. データベースページにカスタムオブジェクトデータを表示する場合、「**リード詳細で表示**」スライダーを引いて、「**表示**」を表示します。「**保存**」をクリックします。
+1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**[!UICONTROL 表示]**」を表示します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -114,27 +114,27 @@ ht-degree: 100%
 >
 >1 対多のカスタムオブジェクト構造の中間オブジェクトを作成する必要はありません。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. 「**Marketo カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL Marketo カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. 「**新規カスタムオブジェクト**」をクリックします。
+1. 「**[!UICONTROL 新規カスタムオブジェクト]**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. 表示名を入力します。「API 名」と「複数名」は自動的に入力されます。説明を入力します（オプション）。
+1. [!UICONTROL 表示名]を入力します。この [!UICONTROL API 名] および [!UICONTROL 複数名] を自動的に設定する。 を入力します。 [!UICONTROL 説明] （オプション）。
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >これらのフィールドは、作成時に編集できますが、保存後は、「複数名」フィールドと「リード詳細で表示」スライダーのみ編集できます。
+   >これらのフィールドは、作成時に編集できますが、保存後は編集できるのは [!UICONTROL 複数名] フィールドと [!UICONTROL リード詳細で表示] スライダー。
 
-1. データベースページにカスタムオブジェクトデータを表示する場合、「**リード詳細で表示**」スライダーを引いて、「**表示**」を表示します。「**保存**」をクリックします。
+1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**表示**」を表示します。「**保存**」をクリックします。
 
    ![](assets/create-marketo-custom-objects-17.png)
 

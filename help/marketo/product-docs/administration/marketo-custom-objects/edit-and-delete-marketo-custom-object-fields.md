@@ -3,10 +3,10 @@ unique-page-id: 10095453
 description: Marketo カスタムオブジェクトフィールドの編集と削除 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトフィールドの編集と削除
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
-workflow-type: ht
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 100%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. 「フィールド」タブで、「**フィールドアクション**」および「**フィールドを編集**」をクリックします。
+1. 内 [!UICONTROL フィールド] タブ、クリック **[!UICONTROL フィールドアクション]** および **[!UICONTROL フィールドを編集]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. 変更を加え、「**保存**」をクリックします。
+1. 変更を加え、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -40,18 +40,18 @@ ht-degree: 100%
 
 カスタムオブジェクトにフィールドが不要になった場合は、そのフィールドを削除できます。
 
-1. 「フィールド」タブで、「**フィールドアクション**」および「**フィールドを削除**」をクリックします。
+1. 「フィールド」タブで、 **[!UICONTROL フィールドアクション]** および **[!UICONTROL フィールドを削除]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-   削除を実行する前に、フィールドを本当に削除したいことを確認します。「**削除**」をクリックします。
+1. 削除を実行する前に、フィールドを本当に削除したいことを確認します。「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-   これで削除できました。
+これで削除できました。
 
-   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
+![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
-   >[!NOTE]
-   >
-   >[Marketo カスタムオブジェクトフィールドの追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[!NOTE]
+>
+>[Marketo カスタムオブジェクトフィールドの追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
