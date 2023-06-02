@@ -3,10 +3,10 @@ unique-page-id: 557339
 description: 重複した人物の検索と結合 - Marketo ドキュメント - 製品ドキュメント
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 97%
 
 ---
 
@@ -14,19 +14,23 @@ ht-degree: 100%
 
 Marketo は、新しい人物がシステムに入ると、自動的に重複排除します。ただし、CRM が最初に重複を Marketo に送信している可能性があります。結合する方法は以下のとおりです。
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo は、Salesforce や Microsoft Dynamics の同期や、人物を手動で入力した場合には、自動的に重複排除を行いません。
+>担当者のマージは永続的です。「元に戻す」オプションはありません。
 
 >[!PREREQUISITES]
 >
 >重複の検索とマージには、[組み込み／システムスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)を使用することになります。
 
+>[!NOTE]
+>
+>Marketo は、Salesforce や Microsoft Dynamics の同期や、人物を手動で入力した場合には、自動的に重複排除を行いません。
+
 ## 重複を検索する {#find-duplicates}
 
 1. 「**データベース**」領域に移動します。
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 1. 「**重複の可能性**」システムスマートリストを選択し、「**人物**」タブをクリックします。
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 1. Ctrl／Cmd キーを押しながら重複を選択し、「**人物を結合**」をクリックします。
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -56,7 +60,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 1. レコード間で&#x200B;_一致しない_&#x200B;値が表示されます。各フィールドに保持する値を選択します。終了したら「**結合**」をクリックします。どちらの値も不要な場合は、「**カスタム**」にチェックを入れて任意の値を入力します。
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
