@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 99%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 99%
                + [「選択して送信」による一括メールの作成](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [グループメールによるメールの送信](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [作成ウィンドウでのテンプレートの使用](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + メール統合 {#email-integrations}
+            + Gmail {#gmail}
+               + [Gmail に接続](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Outlook に連携](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + よくある質問 {#faq}
             + [削除した取引先責任者またはグループを復元できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC を使用して複数の受信者を追跡できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
