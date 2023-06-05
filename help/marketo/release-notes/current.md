@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 79%
+source-wordcount: '368'
+ht-degree: 76%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 79%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloudインターフェイスの概要</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ ht-degree: 79%
   <tr> 
    <td>ロールアウトが開始しました</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### 動的チャット {#dynamic-chat}
-
-</br>
-
-* **動的チャットのチャットソース**：「チャット」は、新しい人物のレコードとアクティビティのソースとして提供されるようになりました。このソースは、スマートリスト／キャンペーンのアクティビティをフィルタリングするのに役立ちます。フィールドの更新からソースをブロックすることもできます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
