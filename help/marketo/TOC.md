@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 99%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 99%
                + [メール署名の追加または更新](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID を追加](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 管理 {#admin}
-            + [アクションデータ同期に関する FAQ](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Salesforce から自動ログイン](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [ブロック済みドメイン](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [新しい管理者を Marketo に接続](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 99%
             + [ユーザと管理者の招待](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [ログイン管理の設定](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [セールスアクションデータをMarketoおよび Salesforce と同期](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [ユーザアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 分析 {#analytics}
             + [分析ページの概要](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)

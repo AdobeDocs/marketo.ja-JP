@@ -2,10 +2,10 @@
 description: セールスアクティビティ用語集 - Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '520'
-ht-degree: 100%
+source-wordcount: '533'
+ht-degree: 99%
 
 ---
 
@@ -194,6 +194,22 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
  </tr>
  <tr>
   <td>セールスキャンペーン ID</td>
+ </tr>
+ <tr>
+  <th rowspan="5">セールスメールバウンス</th>
+  <td>詳細</td>
+ </tr>
+ <tr>
+  <td>メール</td>
+ </tr>
+ <tr>
+  <td>送信者</td>
+ </tr>
+ <tr>
+  <td>Marketo「セールス担当者」ID</td>
+ </tr>
+ <tr>
+  <td>テンプレート ID</td>
  </tr>
 </table>
 

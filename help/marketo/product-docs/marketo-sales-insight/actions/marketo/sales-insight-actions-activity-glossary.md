@@ -2,10 +2,10 @@
 description: Sales Insight Actions アクティビティ用語集 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions アクティビティ用語集
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 100%
+source-wordcount: '554'
+ht-degree: 99%
 
 ---
 
@@ -194,6 +194,22 @@ Sales Insight Actions で、販売者がセールスキャンペーンにリー�
  </tr>
  <tr>
   <td>セールスキャンペーン ID</td>
+ </tr>
+ <tr>
+  <th rowspan="5">セールスメールバウンス</th>
+  <td>詳細</td>
+ </tr>
+ <tr>
+  <td>メール</td>
+ </tr>
+ <tr>
+  <td>送信者</td>
+ </tr>
+ <tr>
+  <td>Marketo「セールス担当者」ID</td>
+ </tr>
+ <tr>
+  <td>テンプレート ID</td>
  </tr>
 </table>
 
