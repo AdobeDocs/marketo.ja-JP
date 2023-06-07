@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '8904'
+source-wordcount: '8906'
 ht-degree: 99%
 
 ---
@@ -1430,6 +1430,7 @@ ht-degree: 99%
          + テンプレート {#templates}
             + [ハイパーリンクテキストの追加](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [動的フィールド](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+            + [フィールドプロンプト](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [テンプレートの管理](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [テンプレートカテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [推奨テンプレート](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
