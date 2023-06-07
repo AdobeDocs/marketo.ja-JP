@@ -1,13 +1,11 @@
 ---
 description: 動的フィールドに入力されないのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
 title: 動的フィールドに入力されないのはなぜですか？
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 100%
+source-wordcount: '315'
+ht-degree: 95%
 
 ---
 
@@ -27,9 +25,9 @@ Salesforce フィールド：例 `{{sfdc_account_name}}`
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 
-Tout 基本フィールド：例 `{{company}}`
+Marketo Sales Insight のアクションの基本フィールド：例： `{{company}}`
 
-Tout カスタムフィールド：例 `{{custom_field_favorite_movie}}`
+Marketo Sales Insight アクションのカスタムフィールド：例： `{{custom_field_favorite_movie}}`
 
 * 動的フィールドを参照するには、取引先責任者の[人物ページ](https://toutapp.com/next#relationships)にある対応するフィールドを保存する必要があります。例えば、Mary にメールを送信し、`{{company}}` フィールドを使用しているが、その取引先責任者レコードに会社がリストされていない場合、フィールドには入力されません。
 
