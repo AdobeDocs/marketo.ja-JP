@@ -1,7 +1,8 @@
 ---
 description: Bulk Export API 情報 - Marketo ドキュメント - 製品ドキュメント
 title: Bulk Export API 情報
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
@@ -16,11 +17,11 @@ ht-degree: 100%
 >
 >追加の処理能力が必要な場合は、アカウント担当者にお問い合わせください。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. 「**Web サービス**」をクリックします。
+1. 「**[!UICONTROL Web サービス]**」をクリックします。
 
    ![](assets/bulk-export-api-information-2.png)
 

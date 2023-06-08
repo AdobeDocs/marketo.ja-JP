@@ -3,10 +3,10 @@ unique-page-id: 557339
 description: 重複した人物の検索と結合 - Marketo ドキュメント - 製品ドキュメント
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 97%
+source-wordcount: '423'
+ht-degree: 93%
 
 ---
 
@@ -20,7 +20,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 >[!PREREQUISITES]
 >
->重複の検索とマージには、[組み込み／システムスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)を使用することになります。
+>重複の検索とマージには、[組み込み／システムスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}を使用することになります。
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
    >[!NOTE]
    >
-   >また、[カスタムロジックで重複する人物を検索](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md)することもできます。
+   >また、[カスタムロジックで重複する人物を検索](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}することもできます。
 
 ## 人物を手動で結合する {#merge-people-manually}
 
@@ -72,18 +72,16 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 ## Salesforce での効果 {#effect-in-salesforce}
 
-Salesforce と統合している場合、Salesforce のリードの結合の効果に関していくつかの注意事項があります。
+Salesforce 統合がある場合は、Salesforce 内のリードを結合した結果に関するメモがいくつかあります。
 
 * リードのみまたは連絡先のみを結合する場合、通常の Salesforce ルールに従って結合されます。
 * リードと連絡先を結合する場合、通常の Salesforce ルールに従って結合する前に、すべてのリードが連絡先にコンバージョンされます。
 
 リードまたは連絡先を結合する際の Salesforce の動作の詳細は、次の Salesforce ドキュメントを確認してください。
 
-* [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 一括結合 {#bulk-merging}
 
 重複が多すぎて手動で結合できない場合は、アドビアカウントチーム（担当のアカウントマネージャー）に連絡して、オプションについてご相談ください。
-
-CRM に接続している場合は、以下のルールに従ってレコードが CRM に結合されます。

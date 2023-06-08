@@ -3,8 +3,8 @@ unique-page-id: 2360213
 description: レポートとアラートのリンク有効期限の編集 - Marketo ドキュメント - 製品ドキュメント
 title: レポートとアラートのリンク有効期限の編集
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
@@ -18,19 +18,19 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」セクションに移動します。
+1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. 「**ログイン設定**」をクリックします。
+1. 「**[!UICONTROL ログイン設定]**」をクリックします。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. 「**URL の有効期限の編集**」
+1. 「**[!UICONTROL URL の有効期限の編集]**」
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. ドロップダウンで、リンクの有効期限が切れるまでの日数を選択します。「**保存**」をクリックします。
+1. ドロップダウンで、リンクの有効期限が切れるまでの日数を選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 

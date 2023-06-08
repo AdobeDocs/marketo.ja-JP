@@ -3,8 +3,8 @@ unique-page-id: 2359904
 description: 言語、ロケール、タイムゾーンの選択 - Marketo ドキュメント - 製品ドキュメント
 title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -25,19 +25,19 @@ ht-degree: 100%
 
 ## ユーザの言語、ロケール、タイムゾーンの変更 {#change-user-language-locale-and-time-zone}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. 「**マイアカウント**」を選択します。
+1. 「**[!UICONTROL マイアカウント]**」を選択します。
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. 「マイアカウント」で、「**ロケーション設定を編集**」をクリックします。
+1. 「マイアカウント」で、「**[!UICONTROL ロケーション設定を編集]**」をクリックします。
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. 「**言語**」を変更します。
+1. 「**[!UICONTROL 言語]**」を変更します。
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -45,15 +45,15 @@ ht-degree: 100%
    >
    >また、ログインページ上部の「言語」ドロップダウンをクリックして、言語のみを変更することもできます。
 
-1. 「**ロケール**」を変更します。
+1. 「**[!UICONTROL ロケール]**」を変更します。
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. 「**タイムゾーン**」を変更します。
+1. 「**[!UICONTROL タイムゾーン]**」を変更します。
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 

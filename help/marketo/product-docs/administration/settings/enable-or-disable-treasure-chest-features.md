@@ -3,8 +3,8 @@ unique-page-id: 2360307
 description: アイデアスペースの機能を有効または無効にする - Marketo ドキュメント - 製品ドキュメント
 title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -18,19 +18,19 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. **アイデアスペース**&#x200B;をクリックします。
+1. **[!UICONTROL アイデアスペース]**&#x200B;をクリックします。
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. 有効または無効にする機能の「**編集**」をクリックします。
+1. 有効または無効にする機能の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. 有効にする場合は「**有効化**」ボックスにチェックをつけ、無効にする場合はチェックを外してます。その後、「**保存**」をクリックします。
+1. 有効にする場合は「**[!UICONTROL 有効化]**」ボックスにチェックをつけ、無効にする場合はチェックを外してます。その後、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

@@ -3,8 +3,8 @@ unique-page-id: 2360305
 description: ユーザーの詳細ページ用のカスタムタブの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの詳細ページ用のカスタムタブの作成
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -14,15 +14,15 @@ ht-degree: 100%
 
 人物の詳細の特定のフィールドセットを何度も繰り返し探している場合は、状況をより簡単にするために、カスタムレイアウトの作成を検討してください。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. 「**カスタムレイアウトデザイナー**」タブをクリックします。
+1. 「**[!UICONTROL カスタムレイアウトデザイナー]**」タブをクリックします。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 100%
    >
    >操作する列が 2 つあります。
 
-   フィールドを削除する場合は、削除するフィールドを右クリックし、「**削除**」をクリックします。
+   フィールドを削除する場合は、削除するフィールドを右クリックし、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

@@ -1,8 +1,9 @@
 ---
 description: キャンペーンインスペクター - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーンインスペクター
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
-workflow-type: ht
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
@@ -14,19 +15,19 @@ ht-degree: 100%
 
 ## キャンペーンインスペクターを有効にする {#enable-campaign-inspector}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/campaign-inspector-1.png)
 
-1. **アイデアスペース**&#x200B;をクリックします。
+1. **[!UICONTROL アイデアスペース]**&#x200B;をクリックします。
 
    ![](assets/campaign-inspector-2.png)
 
-1. キャンペーンインスペクターの横の「**編集**」をクリックします。
+1. キャンペーンインスペクターの横の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/campaign-inspector-3.png)
 
-1. 「**有効**」チェックボックスを選択して、「**保存**」をクリックします。
+1. 「**[!UICONTROL 有効]**」チェックボックスを選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/campaign-inspector-4.png)
 
@@ -40,7 +41,7 @@ ht-degree: 100%
 
 ![](assets/campaign-inspector-5.png)
 
-「**アクティブなキャンペーン**」ドロップダウンを使用すると、様々なタイプのキャンペーンでフィルタリングできます。
+「**[!UICONTROL アクティブなキャンペーン]**」ドロップダウンを使用すると、様々なタイプのキャンペーンでフィルタリングできます。
 
 ![](assets/campaign-inspector-6.png)
 

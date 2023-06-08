@@ -3,10 +3,10 @@ unique-page-id: 2359902
 description: サブスクリプションのデフォルトの場所の設定 - Marketo ドキュメント - 製品ドキュメント
 title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -22,25 +22,25 @@ ht-degree: 100%
 
 管理者がデフォルトの場所の設定を変更すると、新しく作成されたユーザはこれらの設定を継承します。ユーザはいつでも個々のアカウントで、[言語、ロケール、タイムゾーンの環境設定を変更する](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)ことができます。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. 「**場所**」をクリックします。
+1. 「**[!UICONTROL 場所]**」をクリックします。
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. 「**編集**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    このサブスクリプションは英語で作成されました。例えば、ロンドンにいるとして、デフォルトのロケールとタイムゾーンを変更するとします。ロケールによって、数値、日付、時刻の書式が決まります。
 
-1. 「**ロケール**」を選択して、「**英語**（英国）」に変更します。
+1. を選択します。 **[!UICONTROL ロケール]** を変更します。 **[!UICONTROL 英語（英国）]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. 最後に、適切な「**タイムゾーン**」を選択します。
+1. 最後に、適切な「**[!UICONTROL タイムゾーン]**」を選択します。
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -52,11 +52,11 @@ ht-degree: 100%
 
 ユーザのデフォルトのロケールを変更する場合は、通貨形式の設定も変更します。
 
-1. 「サブスクリプション通貨の設定」で、「**編集**」をクリックします。
+1. クリック **[!UICONTROL 編集]** in [!UICONTROL 購読通貨設定].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. 通貨形式を選択し、「**保存**」をクリックします。
+1. 通貨形式を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
@@ -65,4 +65,3 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [言語、ロケール、タイムゾーンの選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-

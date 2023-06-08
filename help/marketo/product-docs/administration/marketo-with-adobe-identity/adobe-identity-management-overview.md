@@ -2,10 +2,10 @@
 description: Adobe Identity Management の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
-source-wordcount: '1096'
-ht-degree: 100%
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
+source-wordcount: '1087'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,7 @@ Adobe Marketo Engage を Adobe Identity Management システムに転送した�
 
 Adobe Identity Management システムは、3 つのコンポーネントで構成されています。
 
-* Adobe ID サービス：フェデレーションとランタイムシングルサインオン（SSO）を含む、エンドユーザの認証と検証を処理します。
+* [!DNL Adobe Identity Service]:フェデレーションとランタイムシングルサインオン (SSO) を含む、エンドユーザーの認証と検証を処理します。
 
 * Adobe Admin Console：Admin Console では、組織全体にわたるアドビの使用権限を一元的に管理できます。ユーザ管理、クラウドサービス、デスクトップライセンスの使用権限、フェデレーション設定を処理し、データ消失防止のセキュリティ機能を提供します。
 
@@ -73,11 +73,11 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **User Management API クライアントのサポートに何か変更はありますか？**
 
-はい。Adobe IMS に転送されたユーザは、既存の Marketo User Management API の一部を利用できます。ユーザの招待、更新、削除のアクションには、Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) を使用する必要があります。ロール管理の場合は、Marketo User Management API が引き続き適用されます。これ以外には、Marketo REST API クライアントのサポートに対する変更はありません。
+はい。Adobe IMS に転送されたユーザは、既存の Marketo User Management API の一部を利用できます。ユーザの招待、更新、削除のアクションには、Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) を使用する必要があります。{target="_blank"}ロール管理の場合は、Marketo User Management API が引き続き適用されます。これ以外には、Marketo REST API クライアントのサポートに対する変更はありません。
 
 **IMS と統合された場合、サポートの問い合わせ先はどこですか？**
 
-[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)に問い合わせる標準手順に従ってください。
+連絡の標準手順に従います [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 **Adobe ID を使用して他のアドビアプリケーションにアクセスする場合、それを使用して Marketo にアクセスできますか？**
 
@@ -89,19 +89,19 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **私は IMS 統合サブスクリプションの Marketo 管理者ですが、Admin Console へのアクセス権がありません。アクセス権を取得する方法を教えてください。**
 
-組織の Admin Console にアクセスできるアドビシステムまたは製品管理者なら誰でもアクセスを許可できます。組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、[アドビカスタマーケア](https://helpx.adobe.com/contact.html)にお問い合わせください。
+組織の Admin Console にアクセスできるアドビシステムまたは製品管理者なら誰でもアクセスを許可できます。組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、にお問い合わせください。 [Adobeカスタマーケア](https://helpx.adobe.com/contact.html){target="_blank"}.
 
-**管理者はどのように Marketo Sales Connect にユーザを追加するのですか？**
+**管理者がMarketoにユーザーを追加する方法 [!DNL Sales Connect]?**
 
-Sales Connect の Admin Console には製品カードがありますが、Admin Console を使用してユーザを追加／管理することはできません。[https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management) をクリックすると、管理者は Marketo Sales Connect を使用してユーザを管理できます。
+製品カードがAdmin Console [!DNL Sales Connect]の場合、Admin Consoleを使用してユーザーを追加または管理しないでください。 次のリンクを使用すると、管理者はMarketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[Https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html) にアクセスしてください。
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
 
 **マイアカウントのユーザアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 
-いいえ、[account.adobe.com](https://account.adobe.com).にアクセスする必要があります。
+いいえ、次の場所に移動する必要があります： [account.adobe.com](https://account.adobe.com){target="_blank"}.
 
 **Marketo Universal ID との連携方法を教えてください。**
 
@@ -109,7 +109,7 @@ Adobe ID に転送されたユーザは、製品の購読切り替えボタン�
 
 **SSO はサポートされていますか？**
 
-はい。Marketo と Adobe IMS の統合では、ユニバーサル ID ユーザと SSO がサポートされています。SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。[詳細はこちら](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を参照してください。
+はい。Marketo と Adobe IMS の統合では、ユニバーサル ID ユーザと SSO がサポートされています。SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
 
 **デバイス認証はどのように機能しますか？**
 
@@ -121,7 +121,7 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 **Adobe IMS の場合、Adobe ID、Enterprise ID、Federated ID を使用できますか？**
 
-はい、サポートする ID のタイプを決定するのは組織です。詳しくは、[ID の概要](https://helpx.adobe.com/enterprise/using/identity.html)と [ID の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html)を確認してください。
+はい、サポートする ID のタイプを決定するのは組織です。詳しくは、以下を参照してください。 [ID の概要](https://helpx.adobe.com/enterprise/using/identity.html) そしてここに [ID の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Adobe Admin Console でサポートされている製品カードは何ですか。**
 
@@ -129,7 +129,6 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 >[!MORELIKETHIS]
 >
->* [管理者設定](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
->* [製品管理者の追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
->* [ユーザの追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-
+>* [管理者設定](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
+>* [製品管理者の追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>* [ユーザの追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}

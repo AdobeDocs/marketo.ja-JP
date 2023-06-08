@@ -3,8 +3,8 @@ unique-page-id: 2359916
 description: Marketo パスワードの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo パスワードの変更
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -14,19 +14,19 @@ ht-degree: 100%
 
 次のような簡単な手順で Marketo のパスワードを変更します。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. 「**マイアカウント**」をクリックします。
+1. 「**[!UICONTROL マイアカウント]**」をクリックします。
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. 「**パスワードを変更**」をクリックします。
+1. 「**[!UICONTROL パスワードを変更]**」をクリックします。
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. 「古いパスワード」と「新しいパスワード」を入力し、「**保存**」をクリックします。
+1. 「古いパスワード」と「新しいパスワード」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/change-your-marketo-password-4.png)
 

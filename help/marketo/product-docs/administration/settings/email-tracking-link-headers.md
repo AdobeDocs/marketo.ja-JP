@@ -2,7 +2,7 @@
 description: メールトラッキングリンクのヘッダー - Marketo ドキュメント - 製品ドキュメント
 title: メールトラッキングリンクのヘッダー
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
@@ -13,15 +13,15 @@ ht-degree: 100%
 
 以下の手順に従って、メールトラッキングリンクのヘッダーをカスタマイズします。
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. 下にスクロールして「カスタムヘッダーオプション」を表示します。目的の設定を選択し、完了したら「**変更を保存**」をクリックします。
+1. 下にスクロールして「カスタムヘッダーオプション」を表示します。目的の設定を選択し、完了したら「**[!UICONTROL 変更を保存]**」をクリックします。
 
    ![](assets/email-tracking-link-headers-3.png)
 

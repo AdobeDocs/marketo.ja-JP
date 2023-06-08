@@ -2,10 +2,10 @@
 description: 製品管理者の追加または削除 - Marketo ドキュメント - 製品ドキュメント
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 >
 >Marketo Engage にアクセスするためには、管理者を製品プロファイルに追加する必要があります。
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
+1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. 「**管理者**」タブをクリックします。
+1. 「**[!UICONTROL 管理者]**」タブをクリックします。
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. 「**管理者を追加**」ボタンをクリックします。
+1. 「**[!UICONTROL 管理者を追加]**」ボタンをクリックします。
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 追加する管理者のメールアドレスまたはユーザ名を入力します。姓と名はオプションです。「**保存**」をクリックします。
+1. 追加する管理者のメールアドレスまたはユーザ名を入力します。姓と名はオプションです。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. 「製品」で、3 ドットメニューをクリックし、「**編集**」を選択します。
+1. 「製品」で、3 ドットメニューをクリックし、「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -69,7 +69,7 @@ ht-degree: 100%
 
 ## 管理者の削除 {#remove-a-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
+1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -81,15 +81,15 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. 「**管理者**」タブをクリックします。
+1. 「**[!UICONTROL 管理者]**」タブをクリックします。
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. 削除する管理者を選択し、「**管理者を削除**」ボタンをクリックします。
+1. 削除する管理者を選択し、「**[!UICONTROL 管理者を削除]**」ボタンをクリックします。
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 「**管理者を削除**」をクリックして確定します。
+1. 「**[!UICONTROL 管理者を削除]**」をクリックして確定します。
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

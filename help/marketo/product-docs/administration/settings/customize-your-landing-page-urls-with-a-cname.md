@@ -3,8 +3,8 @@ unique-page-id: 2360189
 description: CNAME を使用したランディングページ URL のカスタマイズ（管理） - Marketo ドキュメント - 製品ドキュメント
 title: CNAME を使用したランディングページ URL のカスタマイズ（管理）
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
-workflow-type: ht
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
 
@@ -42,15 +42,15 @@ Marketo がランディングページをホストしている場合でも、URL
 
 1. アカウント文字列を検索します。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. 「**ランディングページ**」をクリックします。
+1. 「**[!UICONTROL ランディングページ]**」をクリックします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. 「**ランディングページ**」タブで、「設定」セクションから「アカウント文字列」をコピーします。
+1. 「**[!UICONTROL ランディングページ]**」タブで、「設定」セクションから「アカウント文字列」をコピーします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -64,19 +64,19 @@ Marketo がランディングページをホストしている場合でも、URL
 
 1. CNAME 設定を完了します。
 
-1. IT 部門で CNAME が作成されたら、「**管理者**」領域に戻ります。
+1. IT 部門で CNAME が作成されたら、「**[!UICONTROL 管理者]**」領域に戻ります。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. 「**ランディングページ**」をクリックします。
+1. 「**[!UICONTROL ランディングページ]**」をクリックします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. 「**設定**」セクションで、「**編集**」をクリックします。
+1. 「**[!UICONTROL 設定]**」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 「**ランディングページのドメイン名**」に CNAME を入力し、「**フォールバックページ**」と「**ホームページ**」を入力し、「**保存**」をクリックします。
+1. 「**[!UICONTROL ランディングページのドメイン名]**」に CNAME を入力し、「**[!UICONTROL フォールバックページ]**」と「**[!UICONTROL ホームページ]**」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
