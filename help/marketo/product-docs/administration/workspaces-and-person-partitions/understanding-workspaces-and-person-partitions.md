@@ -3,10 +3,10 @@ unique-page-id: 2360309
 description: ワークスペースと人物パーティションについて - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
+source-wordcount: '517'
+ht-degree: 98%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 >ワークスペースを使用する理由をいくつか示します。
 >
 >* 地域：ヨーロッパ、アジア、北米のマーケティング部門にそれぞれワークスペースがあります
->* ビジネスユニット：Quicken、Quickbooks、TurboTax にそれぞれワークスペースがあります
+>* ビジネスユニット： [!DNL Quicken], [!DNL Quickbooks] および [!DNL TurboTax] それぞれにワークスペースがあります
 >
 >いずれの場合も、分離する理由は、マーケティングアセットが完全に異なるからです。マーケティングアセットを共有している場合、ワークスペースは適切なツールではないかもしれません。
 
@@ -43,15 +43,15 @@ ht-degree: 100%
 >
 >アセットを含む親フォルダーは、共有できる唯一のフォルダーで、子フォルダーは共有できません。
 
-1. 「データベース」をクリックします。
+1. クリック **[!UICONTROL データベース]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. セグメント化フォルダーを右クリックし、「**新規フォルダー**」をクリックします。
+1. セグメント化フォルダーを右クリックし、「**[!UICONTROL 新規フォルダー]**」をクリックします。
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. フォルダーに名前を付け、「**作成**」をクリックします。
+1. フォルダーに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ ht-degree: 100%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. フォルダーを右クリックし、「**フォルダーを共有**」を選択します。
+1. フォルダーを右クリックし、「**[!UICONTROL フォルダーを共有]**」を選択します。
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. フォルダーを共有するワークスペースを選択して、「**保存**」をクリックします。フォルダーを共有ダイアログボックスには、表示権限を持つワークスペースのみが表示されます。
+1. フォルダーを共有するワークスペースを選択して、「**[!UICONTROL 保存]**」をクリックします。フォルダーを共有ダイアログボックスには、表示権限を持つワークスペースのみが表示されます。
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ ht-degree: 100%
 >
 >* ワークスペースに異なるアセットがあるだけでなく、他のユーザとも共有しません
 >* その他のビジネス上の理由から重複が必要な場合
-
 
 >[!CAUTION]
 >

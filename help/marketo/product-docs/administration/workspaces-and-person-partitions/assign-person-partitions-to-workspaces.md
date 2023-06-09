@@ -3,10 +3,10 @@ unique-page-id: 2360317
 description: ワークスペースへの人物パーティションの割り当て - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースへの人物パーティションの割り当て
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -20,21 +20,21 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->ワークスペースと人物パーティションは複雑になる場合があります。[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。セットアップをサポートいたします。
+>ワークスペースと人物パーティションは複雑になる場合があります。[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。セットアップをサポートいたします。{target="_blank"}
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. 「**ワークスペースとパーティション**」をクリックします。
+1. 「**[!UICONTROL ワークスペースとパーティション]**」をクリックします。
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. ワークスペースを選択し、「**ワークスペースを編集**」をクリックします。
+1. ワークスペースを選択し、「**[!UICONTROL ワークスペースを編集]**」をクリックします。
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -44,12 +44,11 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >* 「すべての人物パーティション」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
+   >* 「[!UICONTROL すべての担当者パーティション]「 」チェックボックスは、このワークスペースがシステム内のすべてのユーザーパーティションにアクセスできることを示します。
    >
-   >* プライマリ人物パーティションは、すべての人がエントリされるデフォルトです。人物を移動するには、[フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)を使用します。
+   >* プライマリ人物パーティションは、すべての人がエントリされるデフォルトです。人物を移動するには、[フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用します。
 
-
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/assign-person-partitions-to-workspaces-5.png)
 
@@ -61,4 +60,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
+>[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}。

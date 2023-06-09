@@ -3,10 +3,10 @@ unique-page-id: 11380986
 description: ワークスペースを編集する - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -20,17 +20,17 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照して、ワークスペースの知識を磨いてください。
+>[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照して、ワークスペースの知識を磨いてください。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/edit-a-workspace-1.png)
 
-1. 「**ワークスペースとパーティション**」をクリックします。
+1. 「**[!UICONTROL ワークスペースとパーティション]**」をクリックします。
 
    ![](assets/edit-a-workspace-2.png)
 
-1. 編集するワークスペースを選択し、「**ワークスペースの編集**」をクリックします。
+1. 編集するワークスペースを選択し、「**[!UICONTROL ワークスペースの編集]**」をクリックします。
 
    ![](assets/edit-a-workspace-3.png)
 
@@ -38,19 +38,19 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >必要に応じて、さらに[リードパーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)できます。
+   >必要に応じて、さらに[リードパーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}できます。
 
    ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >「**すべてのリードパーティション（現在および今後）**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
+   >「**[!UICONTROL すべてのリードパーティション（現在および今後）]**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
 
    >[!NOTE]
    >
-   >**プライマリリードパーティション**&#x200B;がデフォルトとして機能し、すべてのリードが割り当てられます。
+   >この **[!UICONTROL プライマリ担当者パーティション]** はデフォルトとして機能し、すべての担当者が割り当てられます。
 
-   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。「**保存**」をクリックします。
+   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-a-workspace-5.png)
 
@@ -60,6 +60,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
->* [ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-
+>* [新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

@@ -2,10 +2,10 @@
 description: ロールと権限のエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: ロールと権限のエクスポート
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 96%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 100%
 >
 >管理者権限が必要
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 「**ユーザ＆ロール**」を選択します。
+1. 選択 **[!UICONTROL ユーザーとロール]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 「**ロール**」タブをクリックします。
+1. 「**[!UICONTROL ロール]**」タブをクリックします。
 
    ![](assets/export-roles-and-permissions-3.png)
 

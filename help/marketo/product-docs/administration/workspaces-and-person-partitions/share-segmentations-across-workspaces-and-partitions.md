@@ -3,8 +3,8 @@ unique-page-id: 7515767
 description: ワークスペースとパーティションをまたいだセグメント化の共有 - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースとパーティションをまたいだセグメント化の共有
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 100%
 
@@ -38,10 +38,10 @@ Marketo は、プログラムやスマートキャンペーンに適した人物
       * セグメント化の承認
       * 共有ワークスペースにはロックされたフォルダーが表示され、セグメント化は読み取り専用です。
       * 共有バージョンは編集できません。元のセグメントを作成した場所でのみ編集できます。
+
    * 共有セグメント内のセグメント（医療など）をクリックすると、表示される人物は、表示中のワークスペースに関連付けられたパーティション内の人物のみになります。
       * ワークスペース 1（WS1）でセグメント化を作成して WS2 と共有し、WS2 のパーティションに WS1 がアクセスできない場合、セグメント化は再計算されません。
       * パーティションが制限されたワークスペースでセグメント化を作成し、別のワークスペースで共有した場合、共有セグメントを受け取ったワークスペースには、重複したユーザのみが表示されます。
-
 
 >[!NOTE]
 >
@@ -55,15 +55,15 @@ Marketo は、プログラムやスマートキャンペーンに適した人物
 
 ## セグメントの共有 {#share-a-segmentation}
 
-1. 「**データベース**」に移動します。
+1. 「**[!UICONTROL データベース]**」に移動します。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 「**セグメント化**」を右クリックし、「**新規フォルダー**」を選択します。
+1. 「**[!UICONTROL セグメント化]**」を右クリックし、「**[!UICONTROL 新規フォルダー]**」を選択します。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. ワークスペース間で共有するフォルダーに名前を付け（例: セグメントの共有）、「**作成**」をクリックします。
+1. ワークスペース間で共有するフォルダーに名前を付け（例: セグメントの共有）、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -71,11 +71,11 @@ Marketo は、プログラムやスマートキャンペーンに適した人物
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. フォルダーを右クリックし、「**フォルダーを共有**」を選択します。
+1. フォルダーを右クリックし、「**[!UICONTROL フォルダーを共有]**」を選択します。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. フォルダーを共有するワークスペースを選択します。「**保存**」をクリックします。
+1. フォルダーを共有するワークスペースを選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

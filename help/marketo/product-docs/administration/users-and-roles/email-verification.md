@@ -2,7 +2,7 @@
 description: メールの検証 - Marketo ドキュメント - 製品ドキュメント
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 20%
@@ -29,11 +29,11 @@ Marketo Engageは、AdobeID へのユーザーの移行を含め、Adobeビジ�
 
 >[!NOTE]
 >
->未検証のユーザに検証メールを再送信するには、レコードを選択し、「**メールを確認**」ボタンをクリックします。
+>未検証のユーザに検証メールを再送信するには、レコードを選択し、「**[!UICONTROL メールを確認]**」ボタンをクリックします。
 
 ## メールアドレスの変更 {#changing-an-email-address}
 
-ユーザのメールアドレスが変更されると、そのメールアドレスは検証されなくなります。再検証を許可するメールが送信されます。ユーザは、「**検証を再送信**」をクリックして、手動でメールを再送できます。
+ユーザのメールアドレスが変更されると、そのメールアドレスは検証されなくなります。再検証を許可するメールが送信されます。ユーザは、「**[!UICONTROL 検証を再送信]**」をクリックして、手動でメールを再送できます。
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Marketo Engageは、AdobeID へのユーザーの移行を含め、Adobeビジ�
 
 ## ユーザとロール {#users-and-roles}
 
-In **管理者** > **ユーザーとロール**「 E メールステータス」列には、各ユーザーの検証ステータスが表示されます。
+In **[!UICONTROL 管理者]** > **[!UICONTROL ユーザーとロール]**「 E メールステータス」列には、各ユーザーの検証ステータスが表示されます。
 
 ![](assets/email-verification-4.png)
 

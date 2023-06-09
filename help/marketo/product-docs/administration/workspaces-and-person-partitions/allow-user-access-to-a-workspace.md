@@ -3,10 +3,10 @@ unique-page-id: 2360325
 description: ワークスペースへのユーザアクセス権を設定する - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースへのユーザアクセス権を設定する
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 100%
 >
 >[ワークスペースの詳細](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. 「**ユーザ＆ロール**」をクリックします。
+1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. 「**ユーザ**」タブでユーザを選択し、「**ユーザの編集**」をクリックします。
+1. 「**[!UICONTROL ユーザ]**」タブでユーザを選択し、「**[!UICONTROL ユーザの編集]**」をクリックします。
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. ユーザにアクセス権を付与する&#x200B;**ロールおよびワークスペース**&#x200B;を選択します。
+1. を選択します。 **[!UICONTROL 役割とワークスペース]** ユーザーにアクセス権を付与する
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

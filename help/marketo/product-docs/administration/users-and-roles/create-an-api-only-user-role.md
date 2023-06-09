@@ -3,10 +3,10 @@ unique-page-id: 2360203
 description: API 専用ユーザロールの作成 - Marketo ドキュメント - 製品ドキュメント
 title: API 専用ユーザロールの作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. 「**ユーザ＆ロール**」をクリックします。
+1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. 「**ロール**」タブをクリックしてから、「**新規ロール**」をクリックします。
+1. 「**[!UICONTROL ロール]**」タブをクリックしてから、「**[!UICONTROL 新規ロール]**」をクリックします。
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. 「ロール名」を入力し、付与する API 権限を「権限」から選択して、「**作成**」をクリックします。
+1. ロール名を入力し、与える API アクセス権限を選択して、 **[!UICONTROL 作成]**.
 
    ![](assets/create-an-api-only-user-role-4.png)
 

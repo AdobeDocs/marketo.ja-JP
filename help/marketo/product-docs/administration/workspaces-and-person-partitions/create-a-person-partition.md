@@ -3,10 +3,10 @@ unique-page-id: 2360315
 description: 人物パーティションの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 人物パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 82%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 100%
 >
 >まず、[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を確認してください。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 「**ワークスペースとパーティション**」をクリックします。
+1. 「**[!UICONTROL ワークスペースとパーティション]**」をクリックします。
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 「**人物パーティション**」タブに移動し、「**新規人物パーティション**」をクリックします。
+1. 「**[!UICONTROL 人物パーティション]**」タブに移動し、「**[!UICONTROL 新規人物パーティション]**」をクリックします。
 
    ![](assets/create-a-person-partition-3.png)
 
-1. パーティションに名前を付け、表示する&#x200B;**ワークスペース**&#x200B;を選択し、「**作成**」をクリックします。
+1. パーティションに名前を付け、 **[!UICONTROL Workspaces]** 表示される場所で、 **[!UICONTROL 作成]**.
 
    ![](assets/create-a-person-partition-4.png)
 

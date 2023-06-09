@@ -3,10 +3,10 @@ unique-page-id: 2360311
 description: 新しいワークスペースの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: ht
-source-wordcount: '217'
-ht-degree: 100%
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 87%
 
 ---
 
@@ -31,28 +31,27 @@ ht-degree: 100%
 >
 >ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス{target="_blank"}にお問い合わせください。](https://business.adobe.com/products/marketo/services-support.html)
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. 「**ワークスペースとパーティション**」をクリックします。
+1. 「**[!UICONTROL ワークスペースとパーティション]**」をクリックします。
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. 「**新規ワークスペース**」をクリックします。
+1. 「**[!UICONTROL 新規ワークスペース]**」をクリックします。
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **名前**&#x200B;を入力し、使用する&#x200B;**人物パーティション**&#x200B;を選択します。**プライマリの人物パーティション**&#x200B;を選択します。まだ作成していない場合は、[人物パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}してください。
+1. を入力します。 **[!UICONTROL 名前]**&#x200B;をクリックし、 **[!UICONTROL 担当者パーティション]** を使用します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。まだ作成していない場合は、[人物パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}してください。
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* 「**すべての人物パーティション**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
+   >* 「**[!UICONTROL すべての人物パーティション]**」チェックボックスは、このワークスペースがシステムですべてのリードパーティションを使用できることを表します。
    >
-   >* **プライマリリードパーティション**&#x200B;がデフォルトとして機能し、すべてのリードが割り当てられます。
-
+   >* この **[!UICONTROL プライマリ担当者パーティション]** はデフォルトとして機能し、すべての担当者が割り当てられます。
 
    >[!IMPORTANT]
    >
@@ -66,7 +65,7 @@ ht-degree: 100%
    >
    >作成時に、Marketo はワークスペースにサンプルアセットをシードします。言語を使用すると、シードされたオブジェクトが英語以外の言語で使用できます。
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-a-new-workspace-6.png)
 

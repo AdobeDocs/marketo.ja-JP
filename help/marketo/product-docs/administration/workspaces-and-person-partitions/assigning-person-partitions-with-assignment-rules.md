@@ -3,10 +3,10 @@ unique-page-id: 2360327
 description: 割り当てルールを使用した人物パーティションの割り当て - Marketo ドキュメント - 製品ドキュメント
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
-workflow-type: ht
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -26,19 +26,19 @@ ht-degree: 100%
 >
 >CRM から Marketo で作成され、SOAP API を介して作成された人物のみに割り当てルールが適用されます。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. 「**ワークスペースとパーティション**」をクリックします。
+1. 「**[!UICONTROL ワークスペースとパーティション]**」をクリックします。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 「**人物パーティション**」タブで、「**割り当てルール**」をクリックします。
+1. 以下 **[!UICONTROL 担当者パーティション]** タブ、クリック **[!UICONTROL 割り当てルール]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. 「**選択肢を追加**」をクリックして、人物パーティションに人物をルーティングする条件を追加します。
+1. 「**[!UICONTROL 選択肢を追加]**」をクリックして、人物パーティションに人物をルーティングする条件を追加します。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ ht-degree: 100%
    >
    >選択肢は好きなだけ追加できます。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
