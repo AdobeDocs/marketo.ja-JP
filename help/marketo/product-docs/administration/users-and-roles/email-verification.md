@@ -2,16 +2,20 @@
 description: メールの検証 - Marketo ドキュメント - 製品ドキュメント
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 29%
+source-wordcount: '410'
+ht-degree: 20%
 
 ---
 
 # メールの検証 {#email-verification}
 
 Adobe Marketo Engageサブスクリプションを使用する場合、Marketo Engage管理者を含む、API 以外のすべてのユーザーが電子メールアドレスを検証する必要があります。 管理者の役割が割り当てられていない、または「SSO のバイパス」権限を持つ役割が割り当てられたシングルサインオン (SSO) ユーザーは、電子メールの検証機能で配信が有効になると、自動的に電子メールを検証します。
+
+## この機能が導入された理由 {#why-this-feature-was-introduced}
+
+Marketo Engageは、AdobeID へのユーザーの移行を含め、Adobeビジネスプラットフォームへの顧客の移行に備えて、電子メールの検証の展開を継続しています。 この機能は、既存のユーザーアカウントのセキュリティをMarketo Engageにします。 Marketo Engageユーザーが適切なAdobe IDに確実に関連付けられるように、既存のMarketo Engageユーザーは電子メールアドレスを検証する必要があります。 Marketo EngageをAdobe IDに移行するには、検証済みの E メールアドレスが必要です。 Marketo Engageユーザーが E メールアドレスを検証しない場合、そのユーザーはAdobe IDに移行できず、サブスクリプションのユーザー移行が完了した後でMarketoサブスクリプションにアクセスできなくなります。
 
 ## ユーザ招待 {#user-invite}
 
@@ -49,7 +53,7 @@ In **管理者** > **ユーザーとロール**「 E メールステータス」
 * 現在のユーザーログイン ID に新しい電子メールを使用
 * 次回のログインまで決定を遅延
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
