@@ -1,11 +1,11 @@
 ---
-description: プログラムメンバーカスタムフィールドの同期 — Marketoドキュメント — 製品ドキュメント
+description: プログラムメンバーカスタムフィールドの同期 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 18%
+workflow-type: ht
+source-wordcount: '355'
+ht-degree: 100%
 
 ---
 
@@ -13,9 +13,8 @@ ht-degree: 18%
 
 >[!PREREQUISITES]
 >
->* の作成 [プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
->* [Salesforce キャンペーンとプログラムの同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
-
+>* [プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}の作成
+>* [Salesforce キャンペーンとプログラムを同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -27,11 +26,11 @@ ht-degree: 18%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. クリック **Salesforce**&#x200B;を選択し、「 **編集** [ プログラムメンバのカスタムフィールドの同期 ] の横に表示されます。
+1. 「**Salesforce**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**編集**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 検索ボックスを使用して、マッピングする Salesforce フィールドを見つけます。 この例では、Do Not Call を使用しています。
+1. 検索ボックスを使用して、マッピングする Salesforce フィールドを見つけます。この例では、Do Not Call を使用しています。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,15 +38,15 @@ ht-degree: 18%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. マッピングする目的のMarketoプログラムメンバーカスタムフィールドを選択します。
+1. マッピングする目的の Marketo プログラムメンバーカスタムフィールドを選択します。
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >このドロップダウンには、Salesforce フィールドのデータ型と一致するプログラムメンバーカスタムフィールドのみが表示されます。
+   >ドロップダウンには、Salesforce フィールドのデータタイプと一致するプログラムメンバーカスタムフィールドのみが表示されます。
 
-1. その他のフィールドマッピングについては、検索ボックスをオフにして、手順 3 ～ 5 を繰り返します。
+1. さらにフィールドマッピングを行う場合は、検索ボックスをクリアし、手順 3～5 を繰り返します。
 
 1. 終了したら「**保存**」をクリックします。
 
@@ -55,37 +54,37 @@ ht-degree: 18%
 
    >[!IMPORTANT]
    >
-   >マッピングされたフィールド上のプログラムメンバーデータの変更は、今後、Marketoと Salesforce の間で同期されます。
+   >マッピングしたフィールド上のプログラムメンバーデータへの変更内容は、今後、Marketo と Salesforce の間で同期されます。
 
    >[!NOTE]
    >
-   >Salesforce でフィールドのデータ型の名前を変更または変更した場合、そのフィールドとプログラムメンバーカスタムフィールドとのマッピングはすべて削除されます。 ただし、レビュー後に新しいフィールドに再マップすることができます。
+   >Salesforce でフィールドの名前を変更するか、フィールドのデータタイプを変更すると、そのフィールドとプログラムメンバーカスタムフィールドとのマッピングがすべて削除されます。ただし、レビュー後に新しいフィールドで再マッピングできます。
 
 ## プログラムメンバーカスタムフィールドから Salesforce フィールドのマッピングを解除 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-フィールドを置き換えるために解放したい場合や、一般的な変更を行う場合は、まずマッピング解除を実行する必要があります。 手順は以下のとおりです。
+フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。手順は以下のとおりです。
 
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. クリック **Salesforce**&#x200B;を選択し、「 **編集** [ プログラムメンバのカスタムフィールドの同期 ] の横に表示されます。
+1. 「**Salesforce**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**編集**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
-1. 検索ボックスを使用して、マッピングを解除するフィールドを見つけます。 この例では、Do Not Call を使用しています。
+1. 検索ボックスを使用して、マッピングを解除するフィールドを見つけます。この例では、Do Not Call を使用しています。
 
    ![](assets/program-member-custom-field-sync-9.png)
 
    >[!TIP]
    >
-   >次の項目を選択できます。 **マッピング済み** チェックボックスをオンにして、マッピングされたフィールドのみを表示します。
+   >「**マッピング済み**」チェックボックスをオンにすると、マッピングしたフィールドのみが表示されます。
 
-1. マッピングを解除するには、 **X** をクリックします。
+1. フィールドの横にある「**X**」をクリックしてマッピングを解除します。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. これで、マッピングが削除されます。 「**保存**」をクリックします。
+1. これで、マッピングが削除されます。「**保存**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-11.png)
 
@@ -99,7 +98,7 @@ ht-degree: 18%
   <tbody>
     <tr>
       <th>SFDC データタイプ</th>
-      <th>プログラムメンバーカスタムフィールドデータ型</th>
+      <th>プログラムメンバーカスタムフィールドデータタイプ</th>
     </tr>
     <tr>
       <td>テキスト</td>
@@ -110,7 +109,7 @@ ht-degree: 18%
       <td>文字列</td>
     </tr>
     <tr>
-      <td>複数選択候補リスト</td>
+      <td>複数選択リスト</td>
       <td>文字列</td>
     </tr>
     <tr>
@@ -122,11 +121,11 @@ ht-degree: 18%
       <td>文字列</td>
     </tr>
     <tr>
-      <td>数値 (m)</td>
+      <td>数値（m）</td>
       <td>整数</td>
     </tr>
     <tr>
-      <td>数値 (m,n)</td>
+      <td>数値（m、n）</td>
       <td>浮動</td>
     </tr>
     <tr>
@@ -146,7 +145,7 @@ ht-degree: 18%
       <td>日時</td>
     </tr>
     <tr>
-      <td>参照（参照）</td>
+      <td>参照（reference）</td>
       <td>文字列</td>
     </tr>
     <tr>
@@ -158,7 +157,6 @@ ht-degree: 18%
 
 >[!MORELIKETHIS]
 >
->* [プログラムメンバーデータの変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
->* [プログラムメンバーグリッドのデータを表示](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
->* [SFDC 同期 — キャンペーン同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
-
+>* [プログラムメンバーを変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [プログラムメンバーグリッドのデータを表示](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [SFDC 同期 - キャンペーンの同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
