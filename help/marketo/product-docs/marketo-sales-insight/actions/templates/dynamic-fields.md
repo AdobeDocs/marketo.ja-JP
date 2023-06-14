@@ -2,10 +2,10 @@
 description: 動的フィールド - Marketo ドキュメント - 製品ドキュメント
 title: 動的フィールド
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 87%
+source-wordcount: '487'
+ht-degree: 86%
 
 ---
 
@@ -37,13 +37,13 @@ Salesforce に存在する取引先責任者にメールを送信する場合は
 
 電子メールテンプレートに動的フィールドを追加する場合、他の値がない場合に動的フィールドが解決されるデフォルト値を追加できます。
 
-これをおこなうには、動的フィールドラベルの後に「|」を追加し、「default:」を追加します。 次に、他の値が見つからない場合に解決する値をフィールドに追加します。
+これをおこなうには、動的フィールドラベルの後に「|」を追加し、「default:」（両方とも引用符なし）を追加します。 次に、他の値が見つからない場合に、フィールドを解決する値を追加します（引用符で囲みます）。
 
 **例:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## 動的フィールド用語集 {#dynamic-fields-glossary}
 
