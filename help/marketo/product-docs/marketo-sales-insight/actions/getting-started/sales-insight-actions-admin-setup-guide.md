@@ -2,7 +2,7 @@
 description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 94%
@@ -19,7 +19,6 @@ ht-degree: 94%
 >
 >* MSI アクションが Marketo Engage アカウントで有効になっていることをアドビアカウントチーム（担当のアカウントマネージャー）に確認します（アカウントマネージャーがいない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください）。
 >* Marketo と Salesforce の同期を設定する必要があります。
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Marketo と Salesforce に存在する人物レコードが、Marketo Sales ア�
 
 >[!NOTE]
 >
->これが完了したら、既存の MSI パッケージをアップグレードするか、新しいパッケージをインストールして、[Salesforce での MSI アクションの設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}に進みます。
+>これが完了したら、既存の MSI パッケージをアップグレードするか、新しいパッケージをインストールして、[Salesforce での MSI アクションの設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}に進みます。
