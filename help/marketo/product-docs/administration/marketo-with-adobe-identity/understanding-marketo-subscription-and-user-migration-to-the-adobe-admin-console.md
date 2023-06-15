@@ -3,8 +3,9 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 hide: true
 hidefromtoc: true
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
-workflow-type: ht
+exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
+source-git-commit: 53ce63735f7d950b3da51a6a3b3f626d1fedca47
+workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%
 
@@ -12,4 +13,4 @@ ht-degree: 100%
 
 # Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-まもなくリリース
+まもなくリリース。
