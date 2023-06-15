@@ -3,7 +3,7 @@ unique-page-id: 14352476
 description: タスクの「アクティビティタイプ」フィールド（SFDC）- Marketo ドキュメント - 製品ドキュメント
 title: タスクの「アクティビティタイプ」フィールド（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
@@ -37,7 +37,7 @@ Sales Connect を使用すると、メールと通話を Salesforce のアクテ
 1. 「タスクタイプ選択リスト」が表示されます。「デフォルト」が選択されていないことを確認します。
 1. 「メール」、「通話」、「返信」に「タイプ」の値が表示されていることを確認します。
 
-これで、「タイプ」フィールドに、ログに記録されたメール、通話、返信の対応する値が表示されます。これらの値は、Sales Connect リマインダータスクには設定され&#x200B;**ません**。
+これで、「タイプ」フィールドに、ログに記録されたメール、通話、返信の対応する値が表示されます。これらの値は、Sales Connect リマインダータスクには設定され&#x200B;_ません_。
 
 >[!NOTE]
 >
