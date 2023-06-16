@@ -3,9 +3,9 @@ description: リリースノート - 2023年3月 - Marketo ドキュメント - 
 title: リリースノート - 2023年3月
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
 source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '582'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -179,4 +179,4 @@ ht-degree: 97%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**: [2023 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**：[2023年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
