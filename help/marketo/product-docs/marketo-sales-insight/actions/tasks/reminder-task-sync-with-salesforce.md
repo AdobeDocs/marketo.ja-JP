@@ -2,7 +2,7 @@
 description: Salesforce とのリマインダータスク同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce とのリマインダータスク同期
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->タスク同期を有効にする方法について詳しくは、[Sales Insight Actions タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)を参照してください。
+>タスク同期を有効にする方法について詳しくは、[Sales Insight Actions タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)を参照してください。
 
 タスクの同期設定が有効になると、ユーザは、Salesforce と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザは Salesforce または Sales Insight Actions からタスクを管理し、システムの整合性を維持していることを確信できます。
 

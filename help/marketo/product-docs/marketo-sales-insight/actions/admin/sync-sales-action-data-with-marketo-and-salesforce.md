@@ -2,10 +2,10 @@
 description: セールスアクションデータをMarketoおよび Salesforce と同期 — Marketoドキュメント — 製品ドキュメント
 title: セールスアクションデータをMarketoおよび Salesforce と同期
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
-ht-degree: 97%
+source-wordcount: '1064'
+ht-degree: 96%
 
 ---
 
@@ -112,13 +112,12 @@ Sales Insight Actions を使用すると、管理者は、Salesforce にログ�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-上の図は、Salesforce にログに記録される情報を示しています。メールや電話などのアクティビティは、Salesforce に[一方向同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)で記録されます。[配信停止](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)および[リマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)は双方向同期で最新の状態に保たれます。これらの各データ同期は、Sales Insight Actions web アプリインターフェイスから設定できます。
+上の図は、Salesforce にログに記録される情報を示しています。メールや電話などのアクティビティは、Salesforce に[一方向同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)で記録されます。[配信停止](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)および[リマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)は双方向同期で最新の状態に保たれます。これらの各データ同期は、Sales Insight Actions web アプリインターフェイスから設定できます。
 
 >[!MORELIKETHIS]
 >
 >* [Salesforce との配信停止の同期](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo 配信停止チェック](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [セールス活動を Salesforce に同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

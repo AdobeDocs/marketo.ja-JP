@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '8933'
 ht-degree: 99%
 
 ---
@@ -1345,7 +1345,7 @@ ht-degree: 99%
                + [Salesforce を Sales Insight Actions から切断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [返信ログ](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Salesforce 同期設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [セールス活動を Salesforce に同期](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce パッケージ設定 {#salesforce-package-configuration}
                + [セールスアクティビティ属性の Salesforce へのログ](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce での Sales Insight Actions 設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 99%
             + [Sales Insight Actions のサービス利用規約は何ですか？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Sales Insight Actions に取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [動的フィールドに入力されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [セールスアクティビティとアクティビティフィールドが Salesforce に同期されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [取引先責任者を削除できない理由](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Sales Insight Actions にすべての取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)

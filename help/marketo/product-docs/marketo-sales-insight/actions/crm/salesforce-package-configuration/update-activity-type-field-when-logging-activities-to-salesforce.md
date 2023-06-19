@@ -1,9 +1,10 @@
 ---
 description: アクティビティを Salesforce にログ記録する際のアクティビティタイプフィールドの更新 — Marketo Docs — 製品ドキュメント
 title: アクティビティを Salesforce にログ記録する際のアクティビティタイプフィールドの更新
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '422'
 ht-degree: 17%
 
 ---
@@ -59,4 +60,4 @@ ht-degree: 17%
 >
 >* [セールスアクティビティ属性の Salesforce へのログ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Salesforce アクティビティ詳細のカスタマイズの設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md){target="_blank"}
+>* [セールス活動を Salesforce に同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

@@ -2,10 +2,10 @@
 description: Salesforce アクティビティ詳細のカスタマイズの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
-workflow-type: ht
-source-wordcount: '706'
-ht-degree: 100%
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+workflow-type: tm+mt
+source-wordcount: '709'
+ht-degree: 99%
 
 ---
 
@@ -14,8 +14,7 @@ ht-degree: 100%
 >[!PREREQUISITES]
 >
 >* Salesforce と Sales Insight Actions は、[接続されている必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-
+>* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 アクティビティの詳細のカスタマイズを使用すると、管理者は、Sales Insight Actions のアクティビティ／リマインダータスクが Salesforce に同期されたときに、Salesforce タスクの件名フィールドに記録する情報を設定できます。
 
@@ -23,7 +22,6 @@ ht-degree: 100%
 >
 >* Sales Insight Actions のリマインダータスクの件名フィールドに対して行われた更新は、対応する Salesforce タスクの件名フィールドに反映されます（アクティビティの詳細のカスタマイズで `{{activity_subject}}` 動的フィールドを使用している場合）。
 >* 情報を Salesforce 件名フィールドに記録する場合、改行はサポートされません。セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -146,6 +144,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [セールス活動を Salesforce に同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-

@@ -2,10 +2,10 @@
 description: Salesforce アクティビティ詳細のカスタマイズの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '707'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -16,14 +16,12 @@ ht-degree: 100%
 >* Salesforce と Marketo Sales Connect [が接続されている](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-
 アクティビティの詳細のカスタマイズを使用すると、管理者は、Sales Connect のアクティビティ／リマインダータスクが Salesforce に同期されたときに、Salesforce タスクの件名フィールドに記録する情報を設定できます。
 
 >[!NOTE]
 >
 >* アクティビティ詳細のカスタマイズで `{{activity_subject}}` 動的フィールドを使用している場合、Sales Connect のリマインダータスクの件名フィールドに対して行われた更新は、対応する Salesforce タスクの件名フィールドに反映されます。
 >* 情報を Salesforce 件名フィールドに記録する場合、改行はサポートされません。セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -47,7 +45,7 @@ ht-degree: 100%
 この機能を使用して、次のメリットをアンロックできます。
 
 * 件名フィールドに表示される情報をカスタマイズすることで、Salesforce での販売に関するアクティビティの詳細を簡単にスキャンできます。
-* 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、Sales Connect のアクティビティを簡単に識別し、他のメールアクティビティ、通話アクティビティ、タスクと区別できます。
+* 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、セールスコネクトのアクティビティを他のメールアクティビティ、通話アクティビティ、タスクと簡単に識別し、区別できます。
 * カスタムアクティビティフィールドの必要性を減らします。Salesforce では、カスタムアクティビティフィールドの数に制限が適用されるので、レポートで使用できるデータを制限できます。アクティビティの動的フィールドを使用して主要データを件名行に追加することで、Salesforce インスタンスで作成する必要のあるカスタムアクティビティフィールドの数を減らすことができます。
 * アクティビティとタスクの件名フィールドは、Sales Connect 管理者が定義した一貫したパターンに従います。
 
@@ -149,4 +147,3 @@ ht-degree: 100%
 >* [同期設定](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [CRM 用の Sales Connect のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
-
