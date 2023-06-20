@@ -3,10 +3,10 @@ unique-page-id: 12255457
 description: TAM の概要 — Marketo ドキュメント — 製品ドキュメント
 title: TAM の概要
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -33,6 +33,6 @@ Marketo TAM をインスタンスに追加した後で、何をする必要が�
 * [Marketo の会社を検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - CRM 以外のソースからの会社のリストを表示し、主要な属性を使用してフィルターを適用し、名前付きアカウントを作成します
 * [名前付きアカウントを手動で作成する](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) — 名前付きアカウントを手動で作成する場合は、次の手順で[ユーザーを入力](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)します
 
-**オプションの手順：[アカウントリストの作成と設定をおこなう](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** — アカウントをリストにグループ化し、会社の業種、場所またはサイズ別に名前付きのアカウントをターゲットに設定できます。
+**オプションの手順： [顧客リストの作成と設定](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)**  — アカウントをリストにグループ化し、業種、場所または規模別に重点顧客をターゲットに設定できます。
 
 上記の手順に従うと、TAM を使い始める準備が整います。

@@ -2,10 +2,10 @@
 description: Salesforce 同期ステータス - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 95%
+ht-degree: 93%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 95%
 
    ![](assets/salesforce-sync-status-6.png)
 
-**オプションの手順**：同期エラーをエクスポートするには、「**エクスポート**」をクリックします。データは CSV としてエクスポートされます。
+**オプションの手順**:同期エラーを書き出すには、 **書き出し**. データは CSV としてエクスポートされます。
 
 ![](assets/salesforce-sync-status-7.png)
 

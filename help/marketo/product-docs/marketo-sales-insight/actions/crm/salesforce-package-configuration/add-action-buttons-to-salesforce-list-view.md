@@ -1,11 +1,9 @@
 ---
 description: Salesforce リスト表示にアクションボタンを追加 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce リスト表示にアクションボタンを追加
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 9%
 
 ---
@@ -49,6 +47,6 @@ ht-degree: 9%
 
 >[!MORELIKETHIS]
 >
->* Salesforce での一括メール送信の使用（作成が必要）
->* Salesforce でセールスキャンペーンへの一括追加を使用（作成が必要）
+>* [Salesforce でのセールスメールの一括送信の使用](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Salesforce でセールスキャンペーンへの一括追加を使用](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

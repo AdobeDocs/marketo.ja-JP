@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '8933'
-ht-degree: 99%
+source-wordcount: '8958'
+ht-degree: 98%
 
 ---
 
@@ -1347,11 +1347,15 @@ ht-degree: 99%
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [セールス活動を Salesforce に同期](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce パッケージ設定 {#salesforce-package-configuration}
-               + [セールスアクティビティ属性の Salesforce へのログ](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce での Sales Insight Actions 設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [セールスアクティビティ属性の Salesforce へのログ](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce Classic からMarketo Sales Connect をアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Salesforce Lightning からMarketo Sales Connect をアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Salesforce リスト表示にアクションボタンを追加](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [アクティビティを Salesforce にログ記録する際のアクティビティタイプフィールドの更新](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+            + Salesforce のアクション {#actions-in-salesforce}
+               + [Salesforce でのセールスメールの一括送信の使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Salesforce でセールスキャンペーンへの一括追加を使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + メール {#email}
             + コマンドセンター {#command-center}
                + [詳細検索の概要](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

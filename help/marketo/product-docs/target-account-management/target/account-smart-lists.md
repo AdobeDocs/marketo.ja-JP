@@ -3,10 +3,10 @@ unique-page-id: 11378814
 description: アカウントスマートリスト - Marketo ドキュメント - 製品ドキュメント
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
-workflow-type: ht
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
    ![](assets/account-smart-lists-9.png)
 
-**オプションの手順**：ここにコンテナが関わってきます追加の「一致するリードフィルター」を選択する場合は、最初のフィルターの下にドロップするか、フィルターの&#x200B;_中_&#x200B;にドロップすると、コンテナを作成できます。この例では、「_職位は CFO_」を追加してコンテナを作成します。
+**オプションの手順**:ここにコンテナが入ってきます 追加の「一致するリードフィルター」を選択する場合は、最初のフィルターの下にドロップするか、フィルターの&#x200B;_中_&#x200B;にドロップすると、コンテナを作成できます。この例では、「_職位は CFO_」を追加してコンテナを作成します。
 
 ![](assets/account-smart-lists-10.png)
 
