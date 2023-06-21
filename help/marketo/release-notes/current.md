@@ -2,16 +2,16 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 76%
+source-wordcount: '643'
+ht-degree: 32%
 
 ---
 
-# リリースノート：2023年5月 {#release-notes-may-23}
+# リリースノート：2023年7月 {#release-notes-july-23}
 
-2023年5月リリースに含まれるすべての機能を以下に示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、23 年 7 月リリースに含まれるすべての機能を示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,11 @@ ht-degree: 76%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに従っており、**2023年5月12日**（PT）からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
-
-### Marketo Engage の最新 UX {#modern-ux}
+以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2023 年 7 月 22 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
 
 </br>
 
-* **Adobe Experience Cloud Interface**:Marketo EngageをExperience Cloudに合わせて、単一のユーザーセッションで複数のExperience Cloudソリューションで一貫したナビゲーションエクスペリエンスを作成します。
+* **エンゲージメントキャンバス**:エンゲージメントキャンバスは、再利用可能なキャンペーンを作成および整理するための視覚的なツールです。 完全に後方互換性があるので、ボタンをクリックすると、既存のキャンペーンをこの新しい構造ですべて表示できます。 キャンバスは、ダウンロードして共有できます。
 
 <table> 
   <tr> 
@@ -33,22 +31,8 @@ ht-degree: 76%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloudインターフェイスの概要</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage ヘルプセンター**：ヘルプセンターは、Marketo Engage ユーザーに対し、製品内からヘルプリソースを一元的に検索する場所を提供します。また、ヘルプセンターでは、主な機能の活用方法を説明する製品内ガイドをアクティブ化できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">ヘルプセンター</a></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
@@ -57,15 +41,11 @@ ht-degree: 76%
 
 以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
 
-### クロスチャネルオーケストレーション {#cross-channel-orchestration}
+### 動的チャット {#dynamic-chat}
 
 </br>
 
-* **インタラクティブウェビナー（最初は限定的に利用可能）**：
-
-インタラクティブウェビナーは、マーケターが Marketo Engage 内でイベントを作成、管理および配信できるネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを強化します。イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。ライブ投票、チャット、Q＆A セッション、web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connect の機能を通じて豊富なエンゲージメントインサイトを取得できます。豊富なダッシュボード指標を使用して、Marketo Engage で直接ウェビナー録画を取得し、パフォーマンスを評価できます。
-
-インタラクティブな Web セミナーは、徐々に展開されます。 以前のアクセス権をリクエストするには、以下に記入してください。 [このフォーム](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **動的チャットのチャットソース**：「チャット」は、新しい人物のレコードとアクティビティのソースとして提供されるようになりました。このソースは、スマートリスト／キャンペーンのアクティビティをフィルタリングするのに役立ちます。フィールドの更新からソースをブロックすることもできます。
 
 <table> 
   <tr> 
@@ -73,12 +53,118 @@ ht-degree: 76%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>ロールアウトが開始しました</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **拡張Dynamic Chatアクティビティ**:Dynamic Chatアクティビティ、フィルター、トリガーが強化され、属性と命名規則が標準化されました。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **配信停止の追加設定**:これで、配信停止の追加を解除する新しい設定オプションを使用して、配信停止メッセージをより詳細に制御できるようになりました。 新機能により、管理者は、セールスメールに表示される配信停止メッセージの日時、場所、および内容を制御できます。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **動的フィールドプロンプト**:Sales Insight アクションのメールテンプレートに追加できる新しいフィールドプロンプトを使用して、セールスチームにメールの特定の部分をパーソナライズするよう促すことができるようになりました。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **デフォルトの動的フィールド**:デフォルトの動的フィールドを使用すると、入力可能な値がない場合に動的フィールドが解決できるフォールバック値を設定できます。 これにより、すべてのパーソナライゼーションが入力された状態で E メールが配信されるようになります。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight のDynamic Chatサポート**:すべてのDynamic Chatユーザー向けに、このリリースで導入された新しいDynamic Chat属性をサポートするための更新がおこなわれました。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight アクションのDynamic Chatサポート**:ライブチャットがエージェントにルーティングされた場合のリードフィードでのDynamic Chatアクティビティおよび通知がサポートされるようになりました。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chatトリガートークン**:注目のアクティビティで使用するトリガーDynamic Chatアクティビティ用の新しい注目のアクショントークンの紹介。
+
+<table> 
+  <tr> 
+   <td><b>ステータス</b></td>
+   <td><b>ドキュメントの更新</b></td>
+  </tr>
+  <tr> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**: [2023 年 3 月および 5 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+Marketo Engageのリアルタイムパーソナライゼーションには、次の 2 つの機能強化が加えられています。
+
+* **Google Analytics4 にアップグレード**:Marketoは以前、Universal Analytics をサポートしていました。これは、2023 年 7 月 1 日までにデータの記録を停止します。 RTP ユーザは、RTP でのGoogle Analytics4 統合のサポートを完了するには、Google Analyticsダッシュボードで移行プロセスに従う必要があります。 今後、ユーザーには一意の英数字タグ ( `<head>` （html のセクション）を含め、MarketoからGoogle Analyticsにデータを送信できるランディングページに含める必要があります。
+
+* **jQuery 3.7 へのアップグレード**:セキュリティと安定性を向上させるため、Marketoは jQuery 3.7.0 にアップグレードしています。Marketoは rtp.js から読み込まれたデフォルトバージョンを変更するので、自身の jQuery を読み込んでいない RTP ユーザーは負の影響を受けません。 ただし、jQuery のバージョンが 3.0.0 より前の RTP ユーザーの場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 必要に応じて、rtp.js のカスタムバージョンの実装を支援します。
