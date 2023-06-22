@@ -1,7 +1,7 @@
 ---
 description: Salesforce でのセールスキャンペーンへの一括追加の使用 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce でセールスキャンペーンへの一括追加を使用
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ ht-degree: 0%
 
 1. 目的のリードまたは連絡先のリストを選択し、 **セールスキャンペーンに追加** 」ボタンをクリックします。
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. 選択した人物が含まれる「アクションセールスキャンペーン」モーダルに移動します。
 
 1. ユーザーまたはグループを削除するために必要な編集を行い、「 **次へ**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. 使用するセールスキャンペーンカテゴリを **カテゴリ** 」ドロップダウンリストから選択できます。
 
 1. 選択した担当者を追加するセールスキャンペーンを選択し、 **次へ**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. キャンペーンの最初の手順に応じて、異なるオプションが表示される場合があります。 最初の手順が E メールの場合は、次に示すように、各受信者の E メールを編集するオプションがあります。 完了したら、「 **次へ**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. また、最初の手順が電子メールで、キャンペーンの起動時に選択できるように設定した場合は、次のオプションを使用できます。 **利用する** または **新しい開始時間のスケジュール設定**. これが完了したら、 **開始**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 「開始」をクリックすると、追加されたユーザーの数を知らせる確認画面が表示されます。
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

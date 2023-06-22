@@ -1,7 +1,7 @@
 ---
 description: Salesforce での一括送信セールスメールの使用 — Marketoドキュメント — 製品ドキュメント
 title: Salesforce でのセールスメールの一括送信の使用
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ ht-degree: 0%
    >新しいビューを作成するには、「新しいビューを作成」をクリックし、セールスキャンペーンに追加するユーザーのリストを絞り込むために使用可能なフィルターを設定します。
 
 1. 目的のリードまたは連絡先のリストを選択し、 **セールスメールの送信** 」ボタンをクリックします。
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. アクションの作成ウィンドウに移動し、作成ウィンドウで選択した受信者が表示されます。
 
