@@ -3,16 +3,16 @@ unique-page-id: 11377488
 description: エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール - Marketo ドキュメント - 製品ドキュメント
 title: エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 74%
 
 ---
 
 # エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-多くの場合、セールス担当者は自分のノート PC で管理者権限を持っておらず、IT チームがすべてのソフトウェアをリモートでインストールする責任を負います。Outlook 用 Marketo アドインは、この方法でエンタープライズキーを使用してインストールできます。エンタープライズキーは、管理者の Sales Insight セクションにあります。
+多くの場合、セールス担当者は自分のノート PC で管理者権限を持っておらず、IT チームがすべてのソフトウェアをリモートでインストールする責任を負います。Outlook 用 Marketo アドインは、この方法でエンタープライズキーを使用してインストールできます。エンタープライズキーは、管理者の Sales Insight セクションにあります。「エンタープライズキーを表示」ボタンが表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて有効にしてもらいます。
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「エンタープライズキーを表示」ボタンが表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて有効にしてもらいます。
+>Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
 
 1. My Marketo で、「**管理者**」をクリックし、「**Sales Insight**」をクリックします。
 

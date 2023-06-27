@@ -2,10 +2,10 @@
 description: 作成ウィンドウでのテンプレートの使用 - Marketo ドキュメント - 製品ドキュメント
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 80%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 100%
 1. 「テンプレート」セクションの「検索」アイコンをクリックして、テンプレート検索フィールドを開きます。
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
+
+   >[!TIP]
+   >
+   >「すべて」カテゴリをピン留めしてテンプレートライブラリ全体にすばやくアクセスできるようにすることをお勧めします。これは、検索したいものを見つけるためにすべてのテンプレートを検索する必要が生じる場合が多いからです。 ピンされたカテゴリを選択し、検索アイコンをクリックすると、選択したピンされたカテゴリ内の検索がデフォルトで検索されます。
 
 1. 検索するカテゴリを選択します（またはすべてのカテゴリを検索するには「すべて」を選択します）。
 

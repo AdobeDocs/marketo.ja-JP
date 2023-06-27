@@ -2,10 +2,10 @@
 description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 94%
+source-wordcount: '660'
+ht-degree: 90%
 
 ---
 
@@ -60,6 +60,10 @@ ht-degree: 94%
 1. Marketo で、「**管理者**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >「統合情報」カードにクライアント ID とクライアント秘密鍵が表示されていない場合は、最初のユーザーを招待してアクションインスタンスをアクティブ化すると、クライアント ID とクライアント秘密鍵が表示されます。
 
 1. 「**Sales Insight**」をクリックし、「**アクション設定**」をクリックします。Marketo 管理者のリストから選択し、「**招待を送信**」をクリックして招待します。
 

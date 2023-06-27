@@ -3,10 +3,10 @@ unique-page-id: 2949716
 description: Outlook 用メールアドインを使用したメールの送信とトラック - Marketo ドキュメント - 製品ドキュメント
 title: Outlook 用メールアドインを使用したメールの送信とトラック
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,10 @@ Outlook から直接、Marketo のメールを送信し、トラックするこ�
 >[!PREREQUISITES]
 >
 >まだインストールしていない場合は、[Outlook 用 Marketo メールアドイン](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)をインストールします。
+
+>[!NOTE]
+>
+>Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
 
 1. Microsoft Outlook を開き、新しいメールを作成します。
 

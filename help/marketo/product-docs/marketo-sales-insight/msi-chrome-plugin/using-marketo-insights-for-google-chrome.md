@@ -3,10 +3,10 @@ unique-page-id: 7512944
 description: Google Chrome 用 Marketo Insights の使用 - Marketo ドキュメント - 製品ドキュメント
 title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,10 @@ Google Chrome 用 Marketo Insights を使用して、Google メールを送信�
 >[!PREREQUISITES]
 >
 >[Google Chrome への Marketo Insights のインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+
+>[!NOTE]
+>
+>Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
 
 ## Marketo Insights でメールを送信 {#send-an-email-with-marketo-insights}
 
@@ -72,4 +76,3 @@ Google Chrome 用 Marketo Insights を使用して、Google メールを送信�
    >
    >* [Google Chrome への Marketo Insights のインストール](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Google メールでリードとアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-

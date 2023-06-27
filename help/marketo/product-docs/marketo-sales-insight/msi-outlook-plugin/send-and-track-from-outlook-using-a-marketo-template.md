@@ -3,16 +3,20 @@ unique-page-id: 2949283
 description: Marketo テンプレートを使用した Outlook からの送信とトラック - Marketo ドキュメント - 製品ドキュメント
 title: Marketo テンプレートを使用した Outlook からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 100%
+source-wordcount: '198'
+ht-degree: 70%
 
 ---
 
 # Marketo テンプレートを使用した Outlook からの送信とトラック {#send-and-track-from-outlook-using-a-marketo-template}
 
 マーケティングチームがテンプレートを利用できるようにしている場合、この機能を使用してメールを作成する際の時間を節約できます。
+
+>[!NOTE]
+>
+>Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
 
 1. Microsoft Outlook を開き、「**Marketo メッセージ**」をクリックします。
 
