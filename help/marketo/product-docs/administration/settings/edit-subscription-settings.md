@@ -4,7 +4,7 @@ description: サブスクリプション設定の編集 - Marketo ドキュメ�
 title: サブスクリプション設定の編集
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
