@@ -4,7 +4,7 @@ description: SEO - インバウンドリンク候補の取得 - Marketo ドキ�
 title: SEO - インバウンドリンク候補の取得
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
