@@ -4,7 +4,7 @@ description: リストのインポートのフィールドエイリアスの編�
 title: リストのインポートのフィールドエイリアスの編集
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
