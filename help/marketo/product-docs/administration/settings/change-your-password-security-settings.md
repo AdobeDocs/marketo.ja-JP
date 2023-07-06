@@ -4,7 +4,7 @@ description: パスワードセキュリティ設定の変更 - Marketo ドキ�
 title: パスワードセキュリティ設定の変更
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
 ht-degree: 100%
 
