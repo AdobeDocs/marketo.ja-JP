@@ -4,7 +4,7 @@ description: SEO - 推奨キーワードの取得 - Marketo ドキュメント -
 title: SEO - 推奨キーワードの取得
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
 ht-degree: 100%
 
@@ -76,4 +76,3 @@ Marketo SEO は、どのキーワードをトラックするべきか推奨で�
 >
 >* [キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 >* [リストに対するキーワードの追加／削除](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-
