@@ -4,7 +4,7 @@ description: 保有している権限を確認する - Marketo ドキュメン�
 title: 保有している権限を調べる
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
