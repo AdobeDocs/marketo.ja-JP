@@ -4,7 +4,7 @@ description: 投票の作成 - Marketo ドキュメント - 製品ドキュメ�
 title: 投票の作成
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
 ht-degree: 100%
 
