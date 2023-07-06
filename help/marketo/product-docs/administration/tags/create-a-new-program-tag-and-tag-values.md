@@ -4,7 +4,7 @@ description: プログラムタグとタグ値の新規作成 - Marketo ドキ�
 title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
