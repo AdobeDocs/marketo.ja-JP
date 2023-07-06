@@ -3,7 +3,7 @@ description: Salesforce とのリマインダータスク同期 - Marketo ドキ
 title: Salesforce とのリマインダータスク同期
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
 ht-degree: 100%
 
