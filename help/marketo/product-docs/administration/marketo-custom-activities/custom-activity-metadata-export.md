@@ -3,7 +3,7 @@ description: カスタムアクティビティメタデータのエクスポー�
 title: カスタムアクティビティメタデータのエクスポート
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
