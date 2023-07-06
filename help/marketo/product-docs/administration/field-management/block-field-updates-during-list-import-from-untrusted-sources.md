@@ -4,7 +4,7 @@ description: 信頼できないソースからのリストのインポート中�
 title: 信頼できないソースからのリストインポート中に、フィールドの更新をブロック
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
 ht-degree: 100%
 
