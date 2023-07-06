@@ -4,7 +4,7 @@ description: SEO - ページの追加 - Marketo ドキュメント - 製品ド�
 title: SEO - ページの追加
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
