@@ -6,7 +6,7 @@ exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
 source-wordcount: '2043'
-ht-degree: 87%
+ht-degree: 91%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 ## ログインして追加の Marketo ユーザーを作成する {#log-in-and-create-additional-marketo-users}
 
-メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/)から Marketo にログインします。{target="_blank"}
+メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 
 ![](assets/setup-steps-1.png)
 
@@ -91,13 +91,13 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 ## 認証済みのサポート取引先責任者を設定する {#set-up-your-authorized-support-contacts}
 
-Marketo サポートから、ご自身が自社の Marketo カスタマーサポート管理者であることを示すメールを受け取っている可能性があります。その場合は、ご自身のチームに&#x200B;**認証済みのサポート取引先責任者**&#x200B;を設定できます。認証済みのサポート担当者のみが、 [Marketo Support Portal](https://support.marketo.com){target="_blank"}.
+Marketo サポートから、ご自身が自社の Marketo カスタマーサポート管理者であることを示すメールを受け取っている可能性があります。その場合は、ご自身のチームに&#x200B;**認証済みのサポート取引先責任者**&#x200B;を設定できます。承認されたサポート取引先責任者のみが、[Marketo サポートポータル](https://support.marketo.com){target="_blank"}を使用して、直接 Marketo カスタマーサポートに連絡することができます。
 
 >[!NOTE]
 >
 >作成できるサポート取引先責任者の数は、購入したパッケージによって異なります。この制限は、Marketo サポートからメールで指定されます。
 
-認証済みサポート取引先責任者ドキュメントは、Marketo コミュニティに移動しました。詳しくは、 [この記事](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+認証済みサポート取引先責任者ドキュメントは、Marketo コミュニティに移動しました。詳しくは、[この記事](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
@@ -125,7 +125,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 最初の部分（太字）が `[LandingPageCNAME]` です。手順 5 で必要になります。
 
-ランディングページ CNAME に置き換える Munchkin ID を取得するには、管理者領域に移動します。
+ランディングページの CNAME に置き換える Munchkin ID を取得するには、管理者領域に移動します。
 
 ![](assets/setup-steps-9.png)
 
@@ -155,7 +155,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 * **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 * **送信元アドレスの推奨設定。**&#x200B;すべてのメールキャンペーンの送信元アドレスに、有効な既存メールドメインと動作中のメールドメインを使用する必要があります。会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、`something@nonexistentdomain.com` からメールを送信すると、メールがフィルターされたりブロックされたりします。送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
 
-Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、 [ここ](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、[こちら](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}を参照してください。
 
 メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。次に例を示します。
 
@@ -213,7 +213,7 @@ IT 管理者様
 
 マーケティングチームは、コミュニケーションに Marketo プラットフォームを使用することになりました。優れたメール配信品質を確保するには、次の変更を行う必要があります。
 
-`1)` ランディングページには、**[LandingPageCNAME]**.**[CompanyDomain]**.com、を指す **[Munchkin ID]**.mktoweb.com.
+`1)` ランディングページには、**[LandingPageCNAME]**.**[CompanyDomain]**.com の DNS エントリ（CNAME）を追加します（**[Munchkin ID]**.mktoweb.com を指しています）。
 
 `2)` メール内のトラッキングリンクには、**[EmailTrackingCNAME]**.**[CompanyDomain]**.com の DNS エントリ（CNAME）を追加して、**[MktoTrackingLink]** を指すようにしてください。
 
@@ -343,6 +343,6 @@ Marketoには、JavaScript ( [!DNL Munchkin]) を使用して、任意の web �
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、「標準」列で説明されているとおり、パフォーマンスレベルは、「 [Marketo Engage製品の説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。それでも、[Marketo Engage 製品説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}にあるいくつかの表の「標準」列で説明されているものと同等のパフォーマンスレベルを期待できます。
 
 すべての設定手順が完了しました。さっそく Marketo を使用してみましょう。
