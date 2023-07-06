@@ -4,7 +4,7 @@ description: アカウント設定の編集 - Marketo ドキュメント - 製�
 title: アカウント設定の編集
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
