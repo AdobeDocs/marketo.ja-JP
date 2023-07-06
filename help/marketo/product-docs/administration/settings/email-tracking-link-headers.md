@@ -3,7 +3,7 @@ description: メールトラッキングリンクのヘッダー - Marketo ド�
 title: メールトラッキングリンクのヘッダー
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
