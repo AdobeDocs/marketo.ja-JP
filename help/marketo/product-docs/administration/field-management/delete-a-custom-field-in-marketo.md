@@ -4,7 +4,7 @@ description: Marketo でのカスタムフィールドの削除 - Marketo ドキ
 title: Marketo でのカスタムフィールドの削除
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
