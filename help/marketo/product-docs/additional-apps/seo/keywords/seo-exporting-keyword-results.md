@@ -4,7 +4,7 @@ description: SEO - キーワード結果のエクスポート - Marketo ドキ�
 title: SEO - キーワード結果のエクスポート
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
 ht-degree: 100%
 
