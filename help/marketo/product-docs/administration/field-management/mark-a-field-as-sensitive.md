@@ -3,7 +3,7 @@ description: フィールドを機密としてマークする - Marketo ドキ�
 title: フィールドを機密としてマークする
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 
