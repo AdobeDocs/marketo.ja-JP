@@ -3,7 +3,7 @@ description: セールスアクティビティ属性の Salesforce へのログ 
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
 ht-degree: 100%
 
