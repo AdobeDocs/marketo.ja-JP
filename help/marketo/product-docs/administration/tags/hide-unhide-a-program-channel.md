@@ -4,7 +4,7 @@ description: プログラムチャネルの表示設定の切り替え - Marketo
 title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
