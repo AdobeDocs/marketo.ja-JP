@@ -4,7 +4,7 @@ description: アカウントでパーソナライズ URL を有効にする - Ma
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
