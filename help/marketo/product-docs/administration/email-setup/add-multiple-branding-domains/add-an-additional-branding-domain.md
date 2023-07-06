@@ -4,7 +4,7 @@ description: 付加的なブランディングドメインの追加 - Marketo �
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
