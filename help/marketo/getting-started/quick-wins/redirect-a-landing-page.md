@@ -4,7 +4,7 @@ description: ランディングページのリダイレクト - Marketo ドキ�
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -22,7 +22,6 @@ ht-degree: 100%
 >
 >* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [CNAME を使用したランディングページ URL のカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
-
 
 ## 手順 1：新しいリダイレクトルールを開始する {#step-start-a-new-redirect-rule}
 
