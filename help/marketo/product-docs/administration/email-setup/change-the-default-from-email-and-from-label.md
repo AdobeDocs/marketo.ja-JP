@@ -4,7 +4,7 @@ description: デフォルトのメール差出人と差出人ラベルの変更 
 title: デフォルトのメール差出人と差出人ラベルの変更
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
