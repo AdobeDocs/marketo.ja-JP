@@ -4,7 +4,7 @@ description: ブランディングドメインの削除 - Marketo ドキュメ�
 title: ブランディングドメインの削除
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
