@@ -4,7 +4,7 @@ description: Marketo 用語集 - Marketo ドキュメント - 製品ドキュメ
 title: Marketo 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4203'
 ht-degree: 100%
 
