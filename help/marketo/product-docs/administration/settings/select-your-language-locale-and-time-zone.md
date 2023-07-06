@@ -4,7 +4,7 @@ description: 言語、ロケール、タイムゾーンの選択 - Marketo ド�
 title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 
