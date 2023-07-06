@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトの編集と削除 - Marketo 
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
 ht-degree: 100%
 
