@@ -3,7 +3,7 @@ description: キャンペーンインスペクター - Marketo ドキュメン�
 title: キャンペーンインスペクター
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
