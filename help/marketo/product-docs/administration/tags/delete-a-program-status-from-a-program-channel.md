@@ -4,7 +4,7 @@ description: プログラムチャネルからプログラムステータスを�
 title: プログラムチャネルからプログラムステータスを削除
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
