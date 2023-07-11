@@ -2,9 +2,9 @@
 description: インタラクティブウェビナーの概要 — Marketoドキュメント — 製品ドキュメント
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,6 @@ ht-degree: 3%
 
 はい。インタラクティブな Web セミナーの作成と配信の権限を取得するMarketoユーザーを制御できます。 これには、Adobe Marketo Engageインスタンスの管理領域にあるインタラクティブ Web セミナーの節を通じてアクセスできます。
 
-**Launchpoint イベントプログラムと同様に、Adobe Connectウェビナーをインタラクティブウェビナーイベントプログラムに関連付ける必要がありますか？**
+**Adobe Connectを活用したウェビナーを、Launchpoint イベントプログラムと同様に、インタラクティブなウェビナーイベントプログラムに関連付ける必要がありますか？**
 
 いいえ。インタラクティブなウェビナーイベントプログラムは、ユーザーに対して関連付けを行います。
