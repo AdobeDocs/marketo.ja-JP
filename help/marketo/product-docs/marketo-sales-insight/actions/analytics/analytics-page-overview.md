@@ -1,10 +1,8 @@
 ---
 description: 分析ページの概要 - Marketo ドキュメント - 製品ドキュメント
 title: 分析ページの概要
-hide: true
-hidefromtoc: true
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 100%
@@ -35,15 +33,15 @@ ht-degree: 100%
 
 ## 「自分」タブ {#me-tab}
 
-「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。Sales Insight Actions の管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
+「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。Sales Insight Actions の管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
 
 ## 「チーム」タブ {#team-tab}
 
-[「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)で、チーム全体の統計とランキングを表示できます。また、作成した任意のサブチームでフィルタリングすることもできます。
+[「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}で、チーム全体の統計とランキングを表示できます。また、作成した任意のサブチームでフィルタリングすることもできます。
 
 ## 「コンテンツ」タブ {#content-tab}
 
-「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
+「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
 
 件名列の下に青いテキストが表示される場合は、テンプレートが共有されていることを意味します。青色のテキストをクリックして、そのテンプレートに移動できます。「**テンプレート分析**」をクリックすると、使用状況を表示できます。
 

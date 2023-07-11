@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 98%
 
 ---
@@ -1332,7 +1332,6 @@ ht-degree: 98%
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [セールスキャンペーンの作成](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [セールスキャンペーンの設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [メールステップのセールスキャンペーン送信オプション](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [セールスキャンペーンのステップのタイプとリマインダータスク](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [メールステップのセールスキャンペーン送信オプションについて](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [キャンペーンリストを別のユーザとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 98%
             + [削除した取引先責任者またはグループを復元できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC を使用して複数の受信者を追跡できますか？](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [コンテンツと添付ファイルに関する FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [電子メールの「CC」および「BCC」セクションに一覧表示されている受信者からの表示、クリックおよび返信は追跡されますか。](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Sales Insight Actions の iPhone または Android アプリについて](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [サーバーで Sales Insight Actions を許可リストに加える方法を教えてください。](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 98%
             + [セールスアクティビティとアクティビティフィールドが Salesforce に同期されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [取引先責任者を削除できない理由](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Sales Insight Actions にすべての取引先責任者がプッシュされない理由](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [E メールがスパムとしてマークされるのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [キャンペーンが終了した理由](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 統合 {#integrations}
             + [Highspot との統合](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
