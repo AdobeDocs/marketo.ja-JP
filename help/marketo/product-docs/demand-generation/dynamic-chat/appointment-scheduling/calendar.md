@@ -2,10 +2,10 @@
 description: カレンダー - Marketo ドキュメント - 製品ドキュメント
 title: カレンダー
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
-workflow-type: ht
-source-wordcount: '146'
-ht-degree: 100%
+source-git-commit: 81e9862c2b0e7a48ab91bb1b10fd0a0ceb6308b2
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 64%
 
 ---
 
@@ -28,3 +28,20 @@ ht-degree: 100%
 >[!TIP]
 >
 >トークンアイコン（波括弧）を使用して、ユーザ属性または会社属性を使用して会議予約確認メールをパーソナライズします。
+
+## 権限 {#permissions}
+
+Outlook での設定では、次の権限をDynamic Chatに付与します。
+
+* カレンダーへのフルアクセス
+* ログインしてプロファイルを読む
+* アクセス権を付与したデータへのアクセスを維持
+* メールボックス設定を読み取る
+
+Googleでの設定では、次の権限をDynamic Chatに付与します。
+
+* カレンダーの作成、変更、削除
+* 個々のカレンダーイベントの更新
+* イベントを表示できるユーザーを含め、設定を変更します
+* カレンダーの共有先の変更
+* 名前、メールアドレス、言語設定、プロフィール画像へのアクセス
