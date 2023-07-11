@@ -2,10 +2,10 @@
 description: メールボットアクティビティのフィルター - Marketo ドキュメント - 製品ドキュメント
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 93%
 
 メールボットアクティビティによって、メールの開封数とクリック数のデータが誤って水増しされる場合があります。以下の手順に従って修正します。
 
-次の 3 つの異なる方法を使用して、ボットアクティビティを確認します。
+ボットアクティビティの確認には、次の 2 つの異なる方法を使用します。
 
 * [Interactive Advertising Bureau ボットリスト](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}と一致：IAB UA／IP（ユーザエージェント／IP アドレス）リスト上の任意の項目と一致するアクティビティは、ボットとしてマークされます。
 * 近接パターンと一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。比較時に考慮される属性は次のとおりです。

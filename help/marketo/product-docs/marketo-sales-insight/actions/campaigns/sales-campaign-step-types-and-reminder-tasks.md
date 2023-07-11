@@ -2,9 +2,9 @@
 description: セールスキャンペーンのステップのタイプとリマインダータスク - Marketo ドキュメント - 製品ドキュメント
 title: セールスキャンペーンのステップのタイプとリマインダータスク
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->[送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}の詳細をご覧ください。
+>[送信オプション](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}の詳細をご覧ください。
 
 ### 電話 {#call}
 
@@ -65,4 +65,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
