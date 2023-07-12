@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: プレゼンテーションへの背景画像の追加 - Marketo ドキュメント - 製品ドキュメント
 title: プレゼンテーションへの背景画像の追加
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >[プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. プレゼンテーションを右クリックし、「**設定を表示**」を選択します。
+1. プレゼンテーションを右クリックし、「**[!UICONTROL 設定を表示]**」を選択します。
 
    >[!NOTE]
    >
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. 右のツリーから「**背景画像**」をキャンバスにドラッグ＆ドロップします。
+1. 右のツリーから「**[!UICONTROL 背景画像]**」をキャンバスにドラッグ＆ドロップします。
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. 「**プレビュー**」をクリックして確認します。
+1. 「**[!UICONTROL プレビュー]**」をクリックして確認します。
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 7503973
 description: プレゼンテーションのカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 96%
 
 ---
 
@@ -21,14 +21,13 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)の作成
+>* [カスタム目標の作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
 >
->* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
-
+>* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
 ## ビューの選択 {#choosing-the-views}
 
-プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)で順に表示されます。必要な数のビューをドラッグし、表示間隔をカスタマイズしてください。
+プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。必要な数のビューをドラッグし、表示間隔をカスタマイズしてください。
 
 1. 右側のツリーから、プレゼンテーションで順に使用したい各ビューをドラッグします。
 
@@ -36,7 +35,7 @@ ht-degree: 100%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションは、チームのゴールを表示するとさらに役立つものになります。[カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md)または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)をそれぞれドラッグするだけです。最大 10 個まで使用できます。
+プレゼンテーションは、チームのゴールを表示するとさらに役立つものになります。ドラッグするだけで別の [カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. 最大 10 個まで使用できます。
 
 1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
 
@@ -46,15 +45,15 @@ ht-degree: 100%
 
 プレゼンテーションで使用するビューをドラッグしたら、各ビューを入れ替える表示間隔を設定します。
 
-1. **5 分**&#x200B;をクリックします（これがデフォルトの間隔です）。
+1. **[!UICONTROL 5 分]**&#x200B;をクリックします（これがデフォルトの間隔です）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 分単位で時間を入力します。「**保存**」をクリックします。
+1. 分単位で時間を入力します。「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]
    >
-   >「**ローテーションを無効にする**」をチェックすると、1 つの固定ビューが表示されます。
+   >「**[!UICONTROL ローテーションを無効にする]**」をチェックすると、1 つの固定ビューが表示されます。
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,7 +61,7 @@ ht-degree: 100%
 
 カレンダー表示は、3 週間または月単位のビューに変更できます。
 
-1. 「**カレンダー表示**」ドロップダウンを選択し、「**3 週間**」または 1 か「**月**」のどちらかを選択します。
+1. 「**[!UICONTROL カレンダー表示]**」ドロップダウンを選択し、「**[!UICONTROL 3 週間]**」または 1 か「**[!UICONTROL 月]**」のどちらかを選択します。
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -70,13 +69,13 @@ ht-degree: 100%
 
 >[!TIP]
 >
->プレゼンテーションの[背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)を設定します。kittens か rainbows がお勧めです。
+>プレゼンテーションの[背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}を設定します。kittens か rainbows がお勧めです。
 
 ## プレゼンテーションのプレビュー {#preview-a-presentation}
 
 プレゼンテーションが設定されたら、プレビューおよびローンチできる状態になります。
 
-1. 「**プレビュー**」を選択します。
+1. 「**[!UICONTROL プレビュー]**」を選択します。
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
@@ -88,6 +87,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [プレゼンテーションへの背景画像の追加](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
->* [プレゼンテーションのローンチ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
-
+>* [プレゼンテーションへの背景画像の追加](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
+>* [プレゼンテーションのローンチ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}

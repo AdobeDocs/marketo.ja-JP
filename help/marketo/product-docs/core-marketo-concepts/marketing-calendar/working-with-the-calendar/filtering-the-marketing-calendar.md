@@ -3,10 +3,10 @@ unique-page-id: 1147294
 description: マーケティングカレンダーのフィルタリング - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 100%
 
 カレンダーに表示する情報をフィルタリングするには、エントリの種類、プログラムタグ、またはワークスペースを使用します。
 
-1. カレンダーに移動します。
+1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 「**エントリタイプ**」ドロップダウンリストをクリックします。
+1. 「**[!UICONTROL エントリタイプ]**」ドロップダウンリストをクリックします。
 
    >[!NOTE]
    >
-   >デフォルトのエントリタイプは、**メール****プログラム**&#x200B;と、**メール**&#x200B;による&#x200B;**スマート****キャンペーン******&#x200B;です。
+   >デフォルトのエントリタイプは、**[!UICONTROL メール]****[!UICONTROL プログラム]**&#x200B;と、メール&#x200B;**[!UICONTROL による]**&#x200B;スマートキャンペーンです。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >標準のエントリタイプの説明については、[プログラムスケジュールビューのエントリタイプ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)を参照してください。
+   >標準のエントリタイプの説明については、[プログラムスケジュールビューのエントリタイプ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
 
 1. 関心のあるプログラムタグを選択します。
 
@@ -46,4 +46,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

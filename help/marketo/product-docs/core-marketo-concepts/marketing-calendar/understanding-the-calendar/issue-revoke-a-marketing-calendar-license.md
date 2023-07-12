@@ -3,10 +3,10 @@ unique-page-id: 1147255
 description: マーケティングカレンダーのライセンスの発行／取消 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーのライセンスの発行／取消
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 86%
 
 ---
 
@@ -16,17 +16,17 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は以下のとおりです。
+[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は以下のとおりです。
 
-1. 「**管理者**」セクションに移動します。
+1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
    ![](assets/adminhand.png)
 
-1. 「**ユーザ＆ロール**」をクリックします。
+1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
 
    ![](assets/2.png)
 
-1. ユーザーを選択し、「**ライセンスを発行**」をクリックします。
+1. ユーザーを選択し、 **[!UICONTROL ライセンスを発行]**.
 
    >[!TIP]
    >
@@ -34,7 +34,7 @@ ht-degree: 100%
 
    ![](assets/3.png)
 
-1. 「**ライセンスを有効にする**」をオンにし、「**保存**」をクリックします。
+1. チェック **[!UICONTROL ライセンスの有効化]** をクリックし、 **[!UICONTROL 保存]**.
 
    >[!NOTE]
    >
@@ -45,5 +45,3 @@ ht-degree: 100%
    これで完了です。「カレンダー」の下の緑のチェックマークを確認してください。
 
    ![](assets/5.png)
-
-これで、スケジュールを立てる準備が整いました。

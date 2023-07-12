@@ -3,10 +3,10 @@ unique-page-id: 2953348
 description: マーケティングカレンダーでエントリを直接作成 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーでエントリを直接作成
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 96%
 
 ---
 
@@ -19,13 +19,11 @@ Marketo では、プログラムフォーカスモードを使用して、マー
 * メールプログラム
 * スマートキャンペーン
 
-手順は以下のとおりです。
-
-1. **カレンダー**&#x200B;に移動します。
+1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 前のエントリを選択し、「**プログラムフォーカスを表示**」をクリックします。
+1. 前のエントリを選択し、「**[!UICONTROL プログラムフォーカスを表示]**」をクリックします。
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -47,4 +45,4 @@ Marketo では、プログラムフォーカスモードを使用して、マー
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーでエントリを直接編集](edit-entries-directly-in-the-marketing-calendar.md)
+>[マーケティングカレンダーでエントリを直接編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

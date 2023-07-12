@@ -3,10 +3,10 @@ unique-page-id: 2953352
 description: マーケティングカレンダーでエントリを直接編集 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーでエントリを直接編集
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 100%
 
 ## プログラムフォーカスの有効 {#enable-program-focus}
 
-1. **カレンダー**&#x200B;に移動します。
+1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. フォーカスするプログラムに属するエントリを選択し、「**プログラムフォーカスを表示**」をクリックします。
+1. フォーカスするプログラムに属するエントリを選択し、「**[!UICONTROL プログラムフォーカスを表示]**」をクリックします。
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -66,4 +66,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーでエントリを直接削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[マーケティングカレンダーでエントリを直接削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

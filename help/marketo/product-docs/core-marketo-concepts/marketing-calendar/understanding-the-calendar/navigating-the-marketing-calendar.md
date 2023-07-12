@@ -3,7 +3,7 @@ unique-page-id: 1147257
 description: マーケティングカレンダーの操作 - Marketo ドキュメント - 製品ドキュメント
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[マーケティングカレンダーのライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)があることを確認してください。ライセンスがないと、My Marketo にマーケティングカレンダータイルが表示されません。
+>[マーケティングカレンダーのライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}があることを確認してください。ライセンスがないと、My Marketo にマーケティングカレンダータイルが表示されません。
 
 1. **マーケティングカレンダー**&#x200B;に移動します。
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 ## モードの切り替え {#change-between-modes}
 
-1. 「**3 週間**」または「**月**」のタブをクリックして、モードを切り替えます。
+1. 「**[!UICONTROL 3 週間]**」または「**[!UICONTROL 月]**」のタブをクリックして、モードを切り替えます。
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -36,11 +36,11 @@ ht-degree: 100%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. 「**フィルター**」ドロップダウンをクリックします。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 「**アジェンダ**」ビューを選択します。
+1. 「**[!UICONTROL アジェンダ]**」ビューを選択します。
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -66,4 +66,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[マーケティングカレンダーのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[マーケティングカレンダーのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

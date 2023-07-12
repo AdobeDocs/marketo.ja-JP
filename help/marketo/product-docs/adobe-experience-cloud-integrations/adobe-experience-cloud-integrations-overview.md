@@ -2,10 +2,10 @@
 description: Adobe Experience Cloud 統合の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Cloud 統合の概要
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
-source-git-commit: bb5e6ba2b8cb955ff4dc152ec8d546ab1ad44141
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 85%
 
 ---
 
@@ -15,20 +15,20 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->統合（Audience Manager と Adobe Real-Time CDP Marketo コネクタを含む）では、Marketo Engage 内の IMS 組織のマッピングが必要になる場合があります。[アドビの組織マッピングの設定方法](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)を参照してください。
+>統合 (Audience Manager、 [!DNL Adobe Real-Time CDP Marketo Connecter]の場合は、Marketo Engageで IMS 組織のマッピングが必要になる場合があります。 [組織のマッピングを設定するAdobeの詳細](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud 統合 {#adobe-experience-cloud-integrations}
 
 **Marketo と Adobe Audience Manager の統合**
 
-* [Adobe Experience Cloud からのオーディエンス同期](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;}
+* [Adobe Experience Cloud からのオーディエンスの同期](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
-* [Adobe Experience Cloud へのリストの送信](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;}
+* [Adobe Experience Cloud へのリストの送信](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
 Marketo Engage から複数の AEC アプリケーションに既知の人物の静的リストを同期できます。これにより、既存プログラムの強化、新しいユースケースの解放、マルチチャネルキャンペーンのオーケストレーションが可能になります。この統合には、Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager、Adobe Advertising Cloud が含まれます。
 
 **Marketo と Adobe Experience Manager の統合**
 
-* [Adobe Experience Manager でのアセットの読み込み](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target=&quot;_blank&quot;}
+* [Adobe Experience Manager でのアセットの読み込み](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [Adobe Analytics との統合](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target=&quot;_blank&quot;}
+* [Adobe Analytics との連携](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

@@ -3,10 +3,10 @@ unique-page-id: 1147306
 description: ワークスペースによるマーケティングカレンダーのフィルタリング - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースによるマーケティングカレンダーのフィルタリング
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 マーケティングカレンダーは、特定のワークスペース内のオブジェクトでフィルタリングできます。
 
-1. **カレンダー**&#x200B;に移動します。
+1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. フィルターパネルで、「**ワークスペース**」ドロップダウンリストから選択できます。目的のワークスペースを選択します。
+1. フィルターパネルで、「**[!UICONTROL ワークスペース]**」ドロップダウンリストから選択できます。目的のワークスペースを選択します。
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[マーケティングカレンダーでのフィルター定義の保存](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

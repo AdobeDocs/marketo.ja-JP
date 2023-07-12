@@ -3,10 +3,10 @@ unique-page-id: 7504130
 description: カスタムゴールの作成 - Marketo ドキュメント - 製品ドキュメント
 title: カスタムゴールの作成
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -16,31 +16,31 @@ ht-degree: 100%
 
 プレゼンテーションと同様、ゴールも[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)に固有です。
 
-1. **カレンダー**&#x200B;に移動します。
+1. **[!UICONTROL カレンダー]**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 右下隅の「**プレゼンテーション**」をクリックします。
+1. クリック **[!UICONTROL Presentations]** をクリックします。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 「**ゴール**」タブを選択します。
+1. 「**[!UICONTROL ゴール]**」タブを選択します。
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. 「**カスタムゴール**」をキャンバスにドラッグ＆ドロップします。
+1. 「**[!UICONTROL カスタムゴール]**」をキャンバスにドラッグ＆ドロップします。
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. ゴールの名前を入力します。「**通貨**」を選択します。
+1. ゴールの名前を入力します。「**[!UICONTROL 通貨]**」を選択します。
 
    >[!NOTE]
    >
-   >ゴールが金額値ではない場合は、「**なし**」を選択できます。
+   >ゴールが金額値ではない場合は、「**[!UICONTROL なし]**」を選択できます。
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. 「**ゴールターゲット**」と「**現在の値**」の値を入力します（値がない場合は、**0** と入力します）。「**作成**」をクリックします。
+1. 「**[!UICONTROL ゴールターゲット]**」と「**[!UICONTROL 現在の値]****」の値を入力します（値がない場合は、0** と入力します）。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
