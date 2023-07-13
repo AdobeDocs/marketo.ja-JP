@@ -13,13 +13,13 @@ ht-degree: 100%
 
 ## Admin Console にアクセスする {#access-admin-console}
 
-以下の手順に従って、動的チャットを設定します。
+以下の手順に従って、Dynamic Chat を設定します。
 
 >[!NOTE]
 >
 >**管理者権限が必要。**
 
-1. Marketo インスタンスに対して動的チャットを有効にすると、指定されたシステム管理者にようこそメールが送信されます。そのメールで、「**開始する**」をクリックします。
+1. Marketo インスタンスに対して Dynamic Chat を有効にすると、指定されたシステム管理者にようこそメールが送信されます。そのメールで、「**開始する**」をクリックします。
 
    ![](assets/initial-setup-1.png)
 
@@ -27,8 +27,8 @@ ht-degree: 100%
 
    ![](assets/initial-setup-2.png)
 
-## ユーザの追加 {#add-users}
+## ユーザーの追加 {#add-users}
 
-1. Admin Console にログインしたら、次にユーザを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)で文書化されています。
+1. Admin Console にログインしたら、次にユーザーを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)で文書化されています。
 
-次に、[動的チャットを Marketo に接続](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)します。
+次に、[Dynamic Chat を Marketo に接続](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)します。
