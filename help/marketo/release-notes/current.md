@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 32%
+source-wordcount: '673'
+ht-degree: 30%
 
 ---
 
@@ -165,6 +165,10 @@ ht-degree: 32%
 
 Marketo Engageのリアルタイムパーソナライゼーションには、次の 2 つの機能強化が加えられています。
 
-* **Google Analytics4 にアップグレード**:Marketoは以前、Universal Analytics をサポートしていました。これは、2023 年 7 月 1 日までにデータの記録を停止します。 RTP ユーザは、RTP でのGoogle Analytics4 統合のサポートを完了するには、Google Analyticsダッシュボードで移行プロセスに従う必要があります。 今後、ユーザーには一意の英数字タグ ( `<head>` （html のセクション）を含め、MarketoからGoogle Analyticsにデータを送信できるランディングページに含める必要があります。
-
 * **jQuery 3.7 へのアップグレード**:セキュリティと安定性を向上させるため、Marketoは jQuery 3.7.0 にアップグレードしています。Marketoは rtp.js から読み込まれたデフォルトバージョンを変更するので、自身の jQuery を読み込んでいない RTP ユーザーは負の影響を受けません。 ただし、jQuery のバージョンが 3.0.0 より前の RTP ユーザーの場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 必要に応じて、rtp.js のカスタムバージョンの実装を支援します。
+
+>[!NOTE]
+>
+>サイトが独自の JQuery ライブラリを読み込むか、Web Personalization RTP JavaScript タグから読み込まれたデフォルトのバージョンを使用するかを確認するには、Web 開発チームと協力してください。
+
+* **Google Analytics4 にアップグレード**:Marketoは以前、Universal Analytics をサポートしていました。これは、2023 年 7 月 1 日までにデータの記録を停止します。 RTP ユーザは、RTP でのGoogle Analytics4 統合のサポートを完了するには、Google Analyticsダッシュボードで移行プロセスに従う必要があります。 今後、ユーザーには一意の英数字タグ ( `<head>` （html のセクション）を含め、MarketoからGoogle Analyticsにデータを送信できるランディングページに含める必要があります。
