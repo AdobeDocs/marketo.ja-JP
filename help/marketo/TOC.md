@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 98%
@@ -400,7 +400,7 @@ ht-degree: 98%
             + [プログラムでの期間原価の使用](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + プログラムライブラリ {#program-library}
             + [プログラムインポートライブラリの概要](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [コンテンツ管理プログラムテンプレート](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
+            + [コンテンツ管理プログラムの例](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
          + プログラム効果レポート {#program-performance-report}
             + [プログラム効果レポートの作成](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [プログラムレポートへのプログラムステータス列の追加](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
