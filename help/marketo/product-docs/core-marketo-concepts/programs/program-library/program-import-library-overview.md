@@ -4,7 +4,7 @@ title: プログラムインポートライブラリの概要
 hide: true
 hidefromtoc: true
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 36d52649c56eeaeecca2c5bb519c3035a447f4b9
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 97%
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 --Marketo Engage プログラムインポートライブラリ情報はこちら--
 
-* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
+* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md){target="_blank"}
 
 * OP-配信品質管理
 
