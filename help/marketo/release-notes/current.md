@@ -2,10 +2,10 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 30%
+source-wordcount: '713'
+ht-degree: 88%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 30%
 
 </br>
 
-* **動的チャットのチャットソース**：「チャット」は、新しい人物のレコードとアクティビティのソースとして提供されるようになりました。このソースは、スマートリスト／キャンペーンのアクティビティをフィルタリングするのに役立ちます。フィールドの更新からソースをブロックすることもできます。
+* **Dynamic Chat のチャットソース**：「チャット」は、新しい人物のレコードとアクティビティのソースとして提供されるようになりました。このソースは、スマートリスト／キャンペーンのアクティビティをフィルタリングするのに役立ちます。フィールドの更新からソースをブロックすることもできます。
 
 <table> 
   <tr> 
@@ -172,3 +172,5 @@ Marketo Engageのリアルタイムパーソナライゼーションには、次
 >サイトが独自の JQuery ライブラリを読み込むか、Web Personalization RTP JavaScript タグから読み込まれたデフォルトのバージョンを使用するかを確認するには、Web 開発チームと協力してください。
 
 * **Google Analytics4 にアップグレード**:Marketoは以前、Universal Analytics をサポートしていました。これは、2023 年 7 月 1 日までにデータの記録を停止します。 RTP ユーザは、RTP でのGoogle Analytics4 統合のサポートを完了するには、Google Analyticsダッシュボードで移行プロセスに従う必要があります。 今後、ユーザーには一意の英数字タグ ( `<head>` （html のセクション）を含め、MarketoからGoogle Analyticsにデータを送信できるランディングページに含める必要があります。
+
+* **_製品リリースウェビナー_**:2023 年 9 月 6 日 (PT 9:00 AM / 12:00 PM ET) に [ライブウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} アドビの製品チームが主催し、最新の製品イノベーションの使用方法をすべてご覧いただけます。
