@@ -3,8 +3,9 @@ unique-page-id: 1146931
 description: 新規スマートキャンペーンの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 新規スマートキャンペーンの作成
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -40,4 +41,3 @@ ht-degree: 100%
    >
    >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
    >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
-

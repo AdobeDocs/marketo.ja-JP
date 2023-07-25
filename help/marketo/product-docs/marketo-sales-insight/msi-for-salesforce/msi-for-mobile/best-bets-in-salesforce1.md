@@ -3,7 +3,8 @@ unique-page-id: 7511959
 description: Salesforce1 での最有望見込客 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce1 での最有望見込客
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -24,4 +25,3 @@ ht-degree: 100%
 >
 >* [Salesforce1 での注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-

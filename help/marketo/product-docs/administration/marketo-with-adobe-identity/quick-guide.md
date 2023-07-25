@@ -2,8 +2,9 @@
 description: クイックガイド - Marketo ドキュメント - 製品ドキュメント
 title: クイックガイド
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 70b98157d06406e56767b0ab5478b01f1ebefdf6
-workflow-type: ht
+feature: Marketo with Adobe Identity
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 

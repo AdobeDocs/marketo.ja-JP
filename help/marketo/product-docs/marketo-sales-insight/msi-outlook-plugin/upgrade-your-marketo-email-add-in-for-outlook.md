@@ -3,7 +3,8 @@ unique-page-id: 2949279
 description: Outlook 用 Marketo メールアドインのアップグレード - Marketo ドキュメント - 製品ドキュメント
 title: Outlook 用 Marketo メールアドインのアップグレード
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 97%
@@ -168,4 +169,3 @@ Outlook 用 Marketo メールアドインの新しいバージョンが利用可
 >
 >* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

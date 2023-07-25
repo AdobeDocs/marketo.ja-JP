@@ -2,8 +2,9 @@
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '857'
 ht-degree: 100%
 

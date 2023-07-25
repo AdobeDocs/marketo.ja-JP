@@ -3,8 +3,9 @@ unique-page-id: 9437991
 description: モバイルスマートキャンペーンのトリガーとフィルター - Marketo ドキュメント - 製品ドキュメント
 title: モバイルスマートキャンペーンのトリガーとフィルター
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '823'
 ht-degree: 100%
 
@@ -135,7 +136,6 @@ ht-degree: 100%
 >   * 価格は 30 ドル
 >   * 購入するまで 20 秒かかった
 
-
 Marketo でのフィルターは次のようになります。
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
@@ -151,7 +151,6 @@ Marketo でのフィルターは次のようになります。
 >| アクション | シャツを購入 | パンツを購入 |
 >| アクション詳細 | 色 | 色 |
 >| アクション指標 | 価格 | 価格 |
-
 
 **モバイルアプリセッションあり／あった**
 
@@ -195,4 +194,3 @@ Marketo でのフィルターは次のようになります。
 >
 >* [スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [スマートリストでの非アクティブフィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-

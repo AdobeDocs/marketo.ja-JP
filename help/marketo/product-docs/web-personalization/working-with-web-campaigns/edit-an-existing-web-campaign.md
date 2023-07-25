@@ -3,7 +3,8 @@ unique-page-id: 4719408
 description: 既存の web キャンペーンを編集する - Marketo ドキュメント - 製品ドキュメント
 title: 既存の web キャンペーンを編集する
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
@@ -28,4 +29,3 @@ ht-degree: 100%
 >
 >* [Web キャンペーンの削除](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
 >* [キャンペーンの起動／一時停止](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md)。
-

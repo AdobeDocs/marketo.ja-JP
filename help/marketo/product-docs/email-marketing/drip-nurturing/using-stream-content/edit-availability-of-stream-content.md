@@ -3,7 +3,8 @@ unique-page-id: 2359910
 description: ストリームコンテンツの可用性の編集 - Marketo ドキュメント - 製品ドキュメント
 title: ストリームコンテンツの可用性の編集
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%

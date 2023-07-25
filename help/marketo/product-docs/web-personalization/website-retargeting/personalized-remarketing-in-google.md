@@ -3,7 +3,8 @@ unique-page-id: 4720810
 description: Google でのパーソナライズリマーケティング — Marketo ドキュメント - 製品ドキュメント
 title: Google でのパーソナライズリマーケティング
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
 >* [リマーケティングと Google Analytics のヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)ドキュメントを確認してください。
-
 
 ## Google でのリマーケティングオーディエンスの作成 {#creating-a-remarketing-audience-in-google}
 
@@ -51,7 +51,6 @@ ht-degree: 100%
 >* カスタムディメンション：組織、業界、カテゴリ（Fortune 500、1000、グローバル 2000）、グループ（エンタープライズ、中小企業）、ABM リスト（アカウントリスト）
 >* イベントカテゴリ：RTP-Segment、RTP-Campaign、RTP-Remarketing
 >* イベントラベル：セグメント名、キャンペーン名、セグメント化されたオーディエンス名
-
 
 **RTP セグメント化されたオーディエンスデータからのリマーケティングオーディエンスの例**
 
@@ -97,4 +96,3 @@ ht-degree: 100%
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Facebook でのパーソナライズリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-

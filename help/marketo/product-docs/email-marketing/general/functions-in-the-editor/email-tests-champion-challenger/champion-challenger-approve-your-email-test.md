@@ -3,7 +3,8 @@ unique-page-id: 2359581
 description: チャンピオン／挑戦者：メールテストの承認 - Marketo ドキュメント - 製品ドキュメント
 title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
@@ -40,4 +41,3 @@ ht-degree: 100%
    >
    >* [チャンピオン／挑戦者：チャンピオンの発表](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
    >* [チャンピオン／挑戦者：メールテストの破棄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
-

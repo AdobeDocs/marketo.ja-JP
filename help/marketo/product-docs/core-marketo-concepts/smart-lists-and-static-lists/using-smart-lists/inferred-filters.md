@@ -3,8 +3,9 @@ unique-page-id: 2953188
 description: 推測フィルター - Marketo ドキュメント - 製品ドキュメント
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
-workflow-type: ht
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
@@ -40,7 +41,6 @@ Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administ
 >
 >* Web ページにアクセス - 過去 24 時間
 >* 推測される都道府県／地域に、[担当地域を選択]します。
-
 
 匿名の訪問者は、メールリンクをクリックしたりフォームに入力したりすると、自動的に人物に変換されます。ただし、推測される情報はすべて保持されます。
 

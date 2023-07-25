@@ -3,7 +3,8 @@ unique-page-id: 2949186
 description: SEO - ページ詳細ドリルダウンの使用 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - ページ詳細ドリルダウンの使用
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 79%

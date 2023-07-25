@@ -3,7 +3,8 @@ unique-page-id: 2359562
 description: チャンピオン／挑戦者：チャンピオンの条件の定義 — Marketo ドキュメント — 製品ドキュメント
 title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

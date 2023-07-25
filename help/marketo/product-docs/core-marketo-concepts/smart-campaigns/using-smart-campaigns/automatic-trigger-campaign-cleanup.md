@@ -3,8 +3,9 @@ unique-page-id: 1147074
 description: 自動トリガーキャンペーンクリーンアップ - Marketo ドキュメント - 製品ドキュメント
 title: 自動トリガーキャンペーンクリーンアップ
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 100%
 

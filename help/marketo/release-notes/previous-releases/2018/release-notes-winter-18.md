@@ -3,8 +3,9 @@ unique-page-id: 13795395
 description: リリースノート - 2018年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 100%
 

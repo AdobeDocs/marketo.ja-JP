@@ -3,7 +3,8 @@ unique-page-id: 11378871
 description: スマートリストのトリガーとフィルターでの Vibes SMS メッセージの使用 - Marketo ドキュメント - 製品ドキュメント
 title: スマートリストトリガーとフィルターでの Vibes SMS メッセージの使用
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 100%
@@ -62,4 +63,3 @@ ht-degree: 100%
 >
 >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-

@@ -3,8 +3,9 @@ unique-page-id: 11378812
 description: 顧客の選択 - Marketo ドキュメント - 製品ドキュメント
 title: 顧客の選択
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
-workflow-type: ht
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 100%
 
@@ -112,7 +113,6 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 >
 >* 同様の名前を持つ異なる CRM アカウントが重複解除された
 >* 次のスケジュールされた同期がまだ実行されていない
-
 
 >[!MORELIKETHIS]
 >

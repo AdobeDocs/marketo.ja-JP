@@ -2,8 +2,9 @@
 description: レポートの概要 - Marketo ドキュメント - 製品ドキュメント
 title: レポートの概要
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 100%
 
@@ -27,7 +28,7 @@ Marketo は、様々なニーズに応じて多岐にわたるレポートモジ
 
 ## 高度な BI 分析レポート {#advanced-bi-analytics-reporting}
 
-_（旧称：収益サイクルエクスプローラー／高度なレポートビルダー）_
+_（旧称：収益サイクルエクスプローラー／高度な Report Builder）_
 
 >[!AVAILABILITY]
 >

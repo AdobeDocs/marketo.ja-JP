@@ -3,7 +3,8 @@ unique-page-id: 2359416
 description: メールの自動応答 - Marketo ドキュメント - 製品ドキュメント
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 75%
@@ -18,7 +19,6 @@ ht-degree: 75%
 >
 >* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
-
 
 ## 手順 1：メールを作成する {#step-create-an-email}
 

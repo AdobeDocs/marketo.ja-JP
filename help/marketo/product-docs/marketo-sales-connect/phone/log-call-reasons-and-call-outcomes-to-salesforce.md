@@ -2,7 +2,8 @@
 description: Salesforce に通話理由と通話結果を記録 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce に通話理由と通話結果を記録
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 100%

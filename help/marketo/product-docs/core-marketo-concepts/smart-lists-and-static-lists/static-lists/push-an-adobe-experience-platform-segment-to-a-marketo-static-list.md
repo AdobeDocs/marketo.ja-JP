@@ -2,10 +2,11 @@
 description: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 83%
+source-wordcount: '657'
+ht-degree: 84%
 
 ---
 
@@ -19,7 +20,6 @@ ht-degree: 83%
 >* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)します。
 >* **管理者**／**Launchpoint** に移動します。作成したロールの名前を探し、「**詳細を表示**」をクリックします。手順 7 で必要になるため、**クライアント ID** と&#x200B;**クライアントシークレット**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
-
 
 1. [Adobe Experience Platform](https://experience.adobe.com/) にログインします。
 
@@ -100,7 +100,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >Experience Platformの属性を、組織がアクセスできる任意の属性にMarketo Engageでマッピングできます。 以下を使用： [API リクエストの説明](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} ：組織がアクセスできる属性フィールドを取得します。
+   >Experience Platformの属性を、組織がアクセスできる任意の属性にMarketo Engageでマッピングできます。 以下を使用： [API リクエストの説明](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} ：組織がアクセスできる属性フィールドを取得します。
 
 1. 姓と会社名に対しても、「**新しいマッピングを追加**」を再度クリックし、**lastName** と **companyName**.を選択して、手順 15 を 2 回繰り返します。
 

@@ -3,8 +3,9 @@ unique-page-id: 2359428
 description: ランディングページのリダイレクト - Marketo ドキュメント - 製品ドキュメント
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
-workflow-type: ht
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 

@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: «次世代 [!DNL Munchkin] 追跡 FAQ - Marketoドキュメント — 製品ドキュメント»
 title: «次世代 [!DNL Munchkin] トラッキングに関する FAQ»
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 84%
@@ -55,7 +56,6 @@ ht-degree: 84%
 >* 注目のアクションをログに記録する（既知となった時点ではなく、実際にページを訪問した日付）
 >
 >* 現在と同様、「新規ユーザ」アクティビティをログに記録する
-
 
 ## 既に「匿名」フィルターが設定されているスマートリストはどうなりますか。 {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

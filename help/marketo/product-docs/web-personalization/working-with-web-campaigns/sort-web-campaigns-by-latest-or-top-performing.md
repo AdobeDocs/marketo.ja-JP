@@ -3,7 +3,8 @@ unique-page-id: 2951252
 description: 新しい順または効果の高い順に web キャンペーンを並べ替える - Marketo ドキュメント - 製品ドキュメント
 title: 新しい順または効果の高い順に web キャンペーンを並べ替える
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%

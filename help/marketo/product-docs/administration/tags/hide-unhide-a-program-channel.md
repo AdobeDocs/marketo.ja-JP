@@ -3,8 +3,9 @@ unique-page-id: 2360276
 description: プログラムチャネルの表示設定の切り替え - Marketo ドキュメント - 製品ドキュメント
 title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: ht
+feature: Tags
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

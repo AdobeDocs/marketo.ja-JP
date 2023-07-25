@@ -3,7 +3,8 @@ unique-page-id: 2950212
 description: リリースノート - 2014年8月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 100%

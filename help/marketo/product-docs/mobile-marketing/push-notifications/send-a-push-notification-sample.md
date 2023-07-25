@@ -3,7 +3,8 @@ unique-page-id: 8783141
 description: プッシュ通知サンプルの送信 - Marketo ドキュメント - 製品ドキュメント
 title: プッシュ通知サンプルの送信
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 100%
@@ -57,6 +58,5 @@ ht-degree: 100%
    >* プッシュ通知に関連付けられたアプリでプッシュ通知がオンになっている。
    >
    >* プッシュ通知がテストデバイスのプラットフォームに合わせて設定されている。例えば、iPhone をテストデバイスとして追加したばかりの場合は、iOS のプッシュ通知が有効になっていることを確認します。
-
 
 簡単です。

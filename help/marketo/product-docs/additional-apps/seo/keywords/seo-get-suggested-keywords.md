@@ -3,8 +3,9 @@ unique-page-id: 2949202
 description: SEO - 推奨キーワードの取得 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - 推奨キーワードの取得
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: ht
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 

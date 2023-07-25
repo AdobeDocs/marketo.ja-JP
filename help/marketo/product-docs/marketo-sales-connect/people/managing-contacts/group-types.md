@@ -3,10 +3,11 @@ unique-page-id: 30081321
 description: グループタイプ - Marketo ドキュメント - 製品ドキュメント
 title: グループタイプ
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -32,7 +33,7 @@ Sales Connect の様々なグループタイプを説明します。
   </tr> 
   <tr> 
    <td colspan="1"><p>動的グループ</p></td> 
-   <td colspan="1">マイ連絡先：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
+   <td colspan="1">マイ連絡先：所有しているすべての連絡先。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
   </tr> 
   <tr> 
    <td><p>マイグループ</p></td> 

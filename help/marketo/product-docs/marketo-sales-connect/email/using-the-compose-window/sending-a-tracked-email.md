@@ -3,7 +3,8 @@ unique-page-id: 37356565
 description: トラッキングするメールの送信 - Marketo ドキュメント - 製品ドキュメント
 title: トラッキングするメールの送信
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
@@ -20,7 +21,6 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
 >
 >* [メールアドレスの確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 >* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) の配信チャネルの設定
-
 
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
 
@@ -58,4 +58,3 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
    >
    >* [メールのスケジュール設定](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [テンプレート](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-

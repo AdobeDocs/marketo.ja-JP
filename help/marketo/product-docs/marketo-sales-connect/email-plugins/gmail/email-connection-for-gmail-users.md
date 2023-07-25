@@ -3,10 +3,11 @@ unique-page-id: 17728401
 description: Gmail ユーザのメール接続 - Marketo ドキュメント - 製品ドキュメント
 title: Gmail ユーザのメール接続
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 87%
 
 ---
 
@@ -16,7 +17,7 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!CAUTION]
 >
->Gmail アカウントで[フィルターを使用](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;}している、またはメールを自動的に既読としてマークするルールを使用している場合、返信のトラッキングで問題が発生する可能性があります。Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>次の場合、 [フィルターの使用](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} メールが既読として自動的にマークされるように Gmail アカウントのルールを設定すると、返信追跡で問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
 

@@ -3,7 +3,8 @@ unique-page-id: 1146966
 description: スマートキャンペーンの条件を満たす人物の表示 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンの条件を満たす人物の表示
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
@@ -41,4 +42,3 @@ ht-degree: 100%
 >* [スマートキャンペーンメンバーの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
 >* [スマートキャンペーンでのブロックされた人物の表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
 >* [スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2951877
 description: プログラム商談分析領域について - Marketo ドキュメント - 製品ドキュメント
 title: プログラム商談分析領域について
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 96%

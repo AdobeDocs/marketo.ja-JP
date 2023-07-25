@@ -3,7 +3,8 @@ unique-page-id: 1147091
 description: プログラムメンバーシップについて - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーシップについて
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 100%
@@ -65,4 +66,3 @@ ht-degree: 100%
 >
 >* [プログラムでのタグの使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
 >* [プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-

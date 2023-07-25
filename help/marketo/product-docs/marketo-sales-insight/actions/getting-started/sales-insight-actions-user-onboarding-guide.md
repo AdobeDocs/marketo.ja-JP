@@ -2,7 +2,8 @@
 description: Sales Insight Actions ユーザオンボーディングガイド - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions ユーザオンボーディングガイド
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 90%
@@ -19,7 +20,6 @@ ht-degree: 90%
 >
 >* 管理者は、MSI アクションを使用し始めるようにユーザを招待する必要があります。
 >* Salesforce でアカウントをアクティベートするには、Salesforce プロファイル権限で「API 有効」にする必要があります。
-
 
 新規ユーザは、次の手順に従う必要があります。
 

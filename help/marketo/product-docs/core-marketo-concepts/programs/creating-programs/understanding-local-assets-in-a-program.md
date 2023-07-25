@@ -3,7 +3,8 @@ unique-page-id: 1147093
 description: プログラムのローカルアセットの理解 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムのローカルアセットの理解
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%

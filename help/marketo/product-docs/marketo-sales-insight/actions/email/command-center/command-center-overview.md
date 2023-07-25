@@ -2,7 +2,8 @@
 description: コマンドセンターの概要 - Marketo ドキュメント - 製品ドキュメント
 title: コマンドセンターの概要
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 100%
@@ -87,4 +88,3 @@ ht-degree: 100%
 >* タスク
 >* 詳細検索の概要
 >* 「選択して送信」による一括メールの作成
-

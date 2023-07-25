@@ -3,7 +3,8 @@ unique-page-id: 11384651
 description: 新規コンテンツの追加 - Marketo ドキュメント - 製品ドキュメント
 title: 新規コンテンツの追加
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%

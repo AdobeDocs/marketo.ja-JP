@@ -3,7 +3,8 @@ unique-page-id: 7514151
 description: アトリビューションの例 4 - Marketo ドキュメント - 製品ドキュメント
 title: アトリビューションの例 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -23,7 +24,7 @@ ht-degree: 100%
 
 | プログラム名 | （コンテンツ） | （ウェビナー） |
 |---|---|---|
-|  | （商談 1） | （商談 2） | （商談 1） | （商談 2） |
+|   | （商談 1） | （商談 2） | （商談 1） | （商談 2） |
 | （MT）創出された商談 | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | （MT）創出されたパイプライン | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | （MT）成立した商談 | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
@@ -47,7 +48,6 @@ ht-degree: 100%
 >1. 獲得した以上のクレジットは付与できない
 >1. 過去に発生したことに対してクレジットは付与できない
 
-
 すべての例を試してみて、アトリビューションの達人になりましょう。
 
 >[!MORELIKETHIS]
@@ -55,4 +55,3 @@ ht-degree: 100%
 >* [アトリビューションの例 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [アトリビューションの例 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [アトリビューションの例 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-

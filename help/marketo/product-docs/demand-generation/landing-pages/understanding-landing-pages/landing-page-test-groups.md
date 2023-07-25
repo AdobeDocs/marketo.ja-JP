@@ -3,7 +3,8 @@ unique-page-id: 2949904
 description: ランディングページのテストグループ — Marketo ドキュメント — 製品ドキュメント
 title: ランディングページのテストグループ
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
@@ -28,7 +29,6 @@ Marketo は、テストグループ内のテスト対象の各ページのペー
    >
    >* ツリー内のランディングページを右クリックし、「**テストグループに変換**」を選択します。
    >* **新規ローカルアセット**&#x200B;メニューで「**A/B テストグループ**」を選択して、プログラムでランディングページテストグループを作成することもできます。
-
 
 1. 名前を入力し、オプションで説明も入力します。テストするランディングページを選択し、「**作成**」をクリックします。
 

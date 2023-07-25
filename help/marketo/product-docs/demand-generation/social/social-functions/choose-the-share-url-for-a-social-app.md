@@ -3,7 +3,8 @@ unique-page-id: 2359811
 description: ソーシャルアプリの共有 URL の選択 - Marketo ドキュメント - 製品ドキュメント
 title: ソーシャルアプリの共有 URL の選択
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
@@ -39,7 +40,6 @@ ht-degree: 100%
    >* **参照元ページ**：アプリを含むページ
    >* **その他のランディングページ**：ドロップダウン内のページとは異なる Marketo ランディングページ
    >* **外部 URL**：Marketo 以外のランディングページ
-
 
 >[!MORELIKETHIS]
 >

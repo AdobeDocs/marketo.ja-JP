@@ -3,7 +3,8 @@ unique-page-id: 7504923
 description: マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定 - Marketo ドキュメント - 製品ドキュメント
 title: マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 100%

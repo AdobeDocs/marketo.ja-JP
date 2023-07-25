@@ -3,7 +3,8 @@ unique-page-id: 10099411
 description: メールインサイトの分析の概要 - Marketo ドキュメント - 製品ドキュメント
 title: メールインサイトの分析の概要
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%

@@ -3,7 +3,8 @@ unique-page-id: 2360358
 description: ユーザログインを SSO のみに制限 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 88%
@@ -57,4 +58,3 @@ ht-degree: 88%
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [サブスクリプションログインでのユニバーサル ID の使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

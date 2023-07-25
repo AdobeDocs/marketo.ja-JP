@@ -3,8 +3,9 @@ unique-page-id: 2360366
 description: 手順 3／3 — Marketo と Salesforce の接続（Enterprise／Unlimited）— Marketo ドキュメント — 製品ドキュメント
 title: 手順 3／3 — Marketo と Salesforce の接続（Enterprise／Unlimited）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 100%
 
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [手順 1 / 3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
 
 ## 同期ユーザーセキュリティトークンの取得 {#retrieve-sync-user-security-token}
 
@@ -108,4 +108,3 @@ Marketo の最も強力な機能の 1 つの設定が完了しました。
 >* [手順 2 / 3：Marketo 用の Salesforce ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

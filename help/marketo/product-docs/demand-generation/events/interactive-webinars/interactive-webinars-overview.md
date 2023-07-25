@@ -2,7 +2,8 @@
 description: インタラクティブウェビナーの概要 — Marketoドキュメント — 製品ドキュメント
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
+feature: Interactive Webinars
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 4%

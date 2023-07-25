@@ -3,7 +3,8 @@ unique-page-id: 2949162
 description: レポート購読の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
 title: レポート購読の有効化／無効化
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%

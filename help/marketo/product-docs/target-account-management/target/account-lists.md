@@ -3,7 +3,8 @@ unique-page-id: 11378814
 description: 顧客リスト - Marketo ドキュメント - 製品ドキュメント
 title: 顧客リスト
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 100%
@@ -92,4 +93,3 @@ ht-degree: 100%
 >
 >* [既存の重点顧客を顧客リストに追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
-

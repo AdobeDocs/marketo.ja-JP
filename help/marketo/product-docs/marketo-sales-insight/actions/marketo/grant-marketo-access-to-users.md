@@ -2,7 +2,8 @@
 description: ユーザに Marketo のアクセス権を付与 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザに Marketo のアクセス権を付与
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%

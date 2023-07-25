@@ -3,7 +3,8 @@ unique-page-id: 2359398
 description: フォームを作成する - Marketo ドキュメント - 製品ドキュメント
 title: フォームを作成する
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
@@ -48,4 +49,3 @@ ht-degree: 100%
 >
 >* [フォームのテーマの選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
 >* [フォームへのフィールドセットの追加](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-

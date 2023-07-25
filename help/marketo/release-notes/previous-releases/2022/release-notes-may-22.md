@@ -2,8 +2,9 @@
 description: リリースノート - 2022 年 5 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 100%
 

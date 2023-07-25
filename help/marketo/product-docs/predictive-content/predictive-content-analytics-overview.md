@@ -3,7 +3,8 @@ unique-page-id: 12981204
 description: 予測コンテンツ分析の概要 - Marketo ドキュメント - 製品ドキュメント
 title: 予測コンテンツ分析の概要
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 100%

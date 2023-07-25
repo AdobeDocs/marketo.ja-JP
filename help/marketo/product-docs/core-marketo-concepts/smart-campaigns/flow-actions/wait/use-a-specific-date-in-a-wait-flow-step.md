@@ -3,7 +3,8 @@ unique-page-id: 1146976
 description: 待機フローステップで特定の日付を使用 - Marketo ドキュメント - 製品ドキュメント
 title: 待機フローステップで特定の日付を使用
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -38,4 +39,3 @@ ht-degree: 100%
 >
 >* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
 >* [待機フローステップで日付トークンを使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
-

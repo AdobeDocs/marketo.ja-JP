@@ -3,7 +3,8 @@ unique-page-id: 2953136
 description: アトリビューションについて - Marketo ドキュメント - 製品ドキュメント
 title: アトリビューションについて
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
@@ -44,6 +45,5 @@ ht-degree: 100%
 >* [アトリビューションの例 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [アトリビューションの例 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [アトリビューションの例 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-
 
 この機能を使用して、Marketo への投資を最大限に活用しましょう。

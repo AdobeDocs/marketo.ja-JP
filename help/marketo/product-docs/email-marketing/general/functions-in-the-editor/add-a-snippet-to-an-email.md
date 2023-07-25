@@ -3,9 +3,10 @@ unique-page-id: 1147358
 description: メールにスニペットを追加する - Marketo ドキュメント - 製品ドキュメント
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
-workflow-type: ht
-source-wordcount: '0'
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
+source-wordcount: '152'
 ht-degree: 100%
 
 ---

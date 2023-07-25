@@ -2,7 +2,8 @@
 description: メール接続のスロットリング - Marketo ドキュメント - 製品ドキュメント
 title: メール接続のスロットリング
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 100%
@@ -79,4 +80,3 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 >* [配信チャネルの概要](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

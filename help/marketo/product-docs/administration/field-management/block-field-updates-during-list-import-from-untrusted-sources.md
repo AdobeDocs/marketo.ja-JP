@@ -3,8 +3,9 @@ unique-page-id: 2360335
 description: 信頼できないソースからのリストのインポート中にフィールドの更新をブロック - Marketo ドキュメント - 製品ドキュメント
 title: 信頼できないソースからのリストインポート中に、フィールドの更新をブロック
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: ht
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 

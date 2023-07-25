@@ -3,7 +3,8 @@ unique-page-id: 37357276
 description: リリースノート - 2020 年 6 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2020 年 6 月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 100%

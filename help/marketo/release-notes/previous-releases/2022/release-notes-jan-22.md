@@ -2,8 +2,9 @@
 description: リリースノート - 2022年1月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年1月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
-workflow-type: ht
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '889'
 ht-degree: 100%
 

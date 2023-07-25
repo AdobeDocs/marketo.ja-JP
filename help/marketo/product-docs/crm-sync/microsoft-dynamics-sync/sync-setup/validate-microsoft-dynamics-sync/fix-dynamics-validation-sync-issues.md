@@ -3,7 +3,8 @@ unique-page-id: 10095429
 description: Dynamics 検証同期に対する問題の修正 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamics 検証同期に対する問題の修正
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 100%

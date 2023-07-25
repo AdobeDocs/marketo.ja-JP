@@ -3,9 +3,10 @@ unique-page-id: 10096683
 description: ON24 イベント登録のアップデート -  Marketo ドキュメント - 製品ドキュメント
 title: ON24 イベント登録のアップデート
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 100%
 
 ---
@@ -40,4 +41,4 @@ Marketo は、毎晩午後 11 時頃（米国太平洋時間）に、稼動情�
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

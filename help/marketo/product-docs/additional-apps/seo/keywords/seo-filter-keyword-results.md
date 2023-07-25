@@ -3,7 +3,8 @@ unique-page-id: 2949208
 description: SEO - キーワード結果のフィルタリング - Marketo ドキュメント - 製品ドキュメント
 title: SEO - キーワード結果のフィルタリング
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 95%

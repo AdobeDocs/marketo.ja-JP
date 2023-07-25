@@ -3,7 +3,8 @@ unique-page-id: 2949863
 description: Webex を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Webex を使用したイベントの作成
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 >* Webex イベント（クラシック）を使用していることを確認
-
 
 まず、Webex イベントセンターで Webex イベントを作成します。Marketo は、統合用に特定の設定およびフィールドのみを使用します（後ほど説明します）。Webex 用に設定する他のフィールドについては、『[Webex イベントセンターユーザガイド](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)』で説明しています。
 
@@ -73,11 +73,11 @@ Marketo イベントを使用して、招待リスト、登録フォーム、そ
 
 * **登録 ID が必要** - 現在、Marketo と Webex 統合での使用をサポートしています。Marketo を使用して、イベントの確認メールを送信できます。登録の際、リードはイベントに参加するとき使用する一意の URL を受け取ります。
 
-   >[!TIP]
-   >
-   >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。確認 URL が送信されるときに、このトークンは各リード固有の確認 URL に自動的に変換されます。
-   >
-   >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
+  >[!TIP]
+  >
+  >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。確認 URL が送信されるときに、このトークンは各リード固有の確認 URL に自動的に変換されます。
+  >
+  >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
 * **登録パスワード** - （オプション）現在、Marketo と Webex 統合での使用はサポートされていません。
 * **承認ルール** - 現在、Marketo と Webex 統合での使用はサポートされていません。ただし、Marketo でスマートキャンペーンを使用して承認を制御することはできます。

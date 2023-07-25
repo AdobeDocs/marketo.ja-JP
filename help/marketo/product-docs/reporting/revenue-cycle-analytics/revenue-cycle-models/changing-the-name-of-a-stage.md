@@ -3,7 +3,8 @@ unique-page-id: 4718675
 description: ステージの名前を変更する - Marketo ドキュメント - 製品ドキュメント
 title: ステージの名前を変更する
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%

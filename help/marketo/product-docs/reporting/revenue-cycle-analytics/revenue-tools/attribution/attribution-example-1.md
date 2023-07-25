@@ -3,7 +3,8 @@ unique-page-id: 7514126
 description: アトリビューションの例 1 - Marketo ドキュメント - 製品ドキュメント
 title: アトリビューションの例 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%
@@ -44,7 +45,6 @@ ht-degree: 100%
 >1. 獲得した以上のクレジットは付与できない
 >1. 過去に発生したことに対してクレジットは付与できない
 
-
 すべての例を試してみて、アトリビューションの達人になりましょう。
 
 >[!MORELIKETHIS]
@@ -52,4 +52,3 @@ ht-degree: 100%
 >* [アトリビューションの例 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [アトリビューションの例 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [アトリビューションの例 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-

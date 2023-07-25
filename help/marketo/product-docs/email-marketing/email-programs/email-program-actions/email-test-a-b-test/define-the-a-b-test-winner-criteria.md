@@ -3,20 +3,21 @@ unique-page-id: 2359545
 description: A/B テストの勝者条件の定義 - Marketo ドキュメント - 製品ドキュメント
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 76%
+source-wordcount: '412'
+ht-degree: 84%
 
 ---
 
 # A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-条件 [A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;} をメールプログラムに追加する場合は、テストタイプを選択する必要があります。 [A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;} を設定し、勝者の条件を定義します。 どのメールが優先されるかを決定する方法を次に示します。
+条件 [A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}をクリックし、勝者の条件を定義します。 どのメールが優先されるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
->[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
+>[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}
 
 ## 勝者の条件 {#winner-criteria}
 
@@ -45,7 +46,7 @@ ht-degree: 76%
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。詳細情報： [エンゲージメントスコアについて](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}。
+   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}について学びます。
 
 1. また、「カスタムコンバージョン」を選択して「編集」をクリックすることで、条件をカスタマイズすることもできます。
 
@@ -93,4 +94,4 @@ ht-degree: 76%
    >
    >「**手動**」を選択すると、テストが送信され、勝者の発表を待機します。結果のレポートが届きます。
 
-完璧です。次に、 [A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}。
+完璧です。次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}します。

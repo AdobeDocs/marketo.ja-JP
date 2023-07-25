@@ -3,7 +3,8 @@ unique-page-id: 37356578
 description: 「選択して送信」による一括メールの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 「選択して送信」による一括メールの作成
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -97,4 +98,3 @@ ht-degree: 100%
    >* [一括送信オプション](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
    >* [作成ウィンドウでのテンプレートの使用](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [動的フィールド](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
-

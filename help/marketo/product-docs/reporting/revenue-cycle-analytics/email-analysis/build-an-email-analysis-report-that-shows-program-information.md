@@ -3,8 +3,9 @@ unique-page-id: 2360409
 description: プログラム情報を示すメール分析レポートの作成 - Marketo ドキュメント - 製品ドキュメント
 title: プログラム情報を示すメール分析レポートの作成
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
 

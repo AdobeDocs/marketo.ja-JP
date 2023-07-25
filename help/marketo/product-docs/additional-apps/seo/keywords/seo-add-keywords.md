@@ -3,8 +3,9 @@ unique-page-id: 2949204
 description: SEO - キーワードの追加 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: ht
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

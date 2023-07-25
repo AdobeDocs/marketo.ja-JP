@@ -3,7 +3,8 @@ unique-page-id: 6094879
 description: Web キャンペーンへのターゲット URL の追加 - Marketo ドキュメント - 製品ドキュメント
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
@@ -59,7 +60,6 @@ ht-degree: 100%
 >* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL では大文字と小文字が区別されます
 
-
 ## ゾーン内 web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
 
 1. 「**Web** **キャンペーン**」に移動します。
@@ -83,4 +83,3 @@ ht-degree: 100%
 >* [ダイアログキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [RTP ゾーン内キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [RTP ウィジェットキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

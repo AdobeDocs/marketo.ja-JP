@@ -2,7 +2,8 @@
 description: 「メール」タブ - Marketo ドキュメント - 製品ドキュメント
 title: 「メール」タブ
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
@@ -39,4 +40,3 @@ ht-degree: 100%
 >
 >* Salesforce CRM から Sales Insight に送信されたメールの配信ステータスは使用できません。
 >* このタブには、Marketo から送信されたメールのテンプレート名と、Sales Insight から送信されたメールの件名が反映されます。プレビューモードで開いて、送信されたメールの件名行を確認するか、リード／取引先責任者／アカウント／商談パネルの「メール」タブを参照します。
-

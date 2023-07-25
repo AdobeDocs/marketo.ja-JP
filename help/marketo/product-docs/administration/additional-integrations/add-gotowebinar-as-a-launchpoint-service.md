@@ -3,7 +3,8 @@ unique-page-id: 7512289
 description: '"追加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] サービス — Marketoドキュメント — 製品ドキュメント»'
 title: '"追加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] サービス»'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 29%

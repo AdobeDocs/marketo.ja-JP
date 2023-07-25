@@ -2,7 +2,8 @@
 description: 手順 1 / 3 - Marketo フィールドの Veeva CRM への追加 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 1 / 3：Marketo フィールドの Veeva CRM への追加
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 100%
@@ -99,7 +100,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 * 同期ユーザとしてシステム管理者のプロファイルを持つユーザがいる場合は、システム管理者プロファイルの読み取り専用のチェックをオフにします（以下を参照）。
 * 同期ユーザにカスタムプロファイルを作成した場合は、そのカスタムプロファイルの読み取り専用のチェックをオフにします。
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. フィールドを表示するページレイアウトを選択します。
 

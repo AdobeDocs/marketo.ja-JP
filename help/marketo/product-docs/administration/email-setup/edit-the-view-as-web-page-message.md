@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: 「Web ページとして表示」メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 90%
@@ -46,7 +47,6 @@ ht-degree: 90%
 >
 >* いずれかの HTML ボックスに付加的な URL を追加する
 >* テキストバージョンに HTML コードを配置する
-
 
 これで手順は完了です。フォーマットを確認するためにテストメールを送信します。
 

@@ -3,8 +3,9 @@ unique-page-id: 11377408
 description: ワークスペースを使用した付加的なブランディングドメインの追加 - Marketo ドキュメント - 製品ドキュメント
 title: ワークスペースを使用した付加的なブランディングドメインの追加
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
-workflow-type: ht
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 

@@ -3,7 +3,8 @@ unique-page-id: 2359971
 description: Web ページアクティビティレポート - Marketo ドキュメント - 製品ドキュメント
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 100%
@@ -19,7 +20,6 @@ ht-degree: 100%
 >[!PREREQUISITES]
 >
 >* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-
 
 1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)して、**web ページアクティビティレポート**[レポートタイプ](report-type-overview.md)を選択します。
 
@@ -89,4 +89,3 @@ ht-degree: 100%
 >
 >* [閲覧された web ページ、web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Web レポートでのリードまたは匿名の訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-

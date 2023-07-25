@@ -3,7 +3,8 @@ unique-page-id: 4720108
 description: コンテンツレコメンデーションバーを有効にする - Marketo ドキュメント - 製品ドキュメント
 title: コンテンツレコメンデーションバーを有効にする
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 97%
@@ -19,13 +20,12 @@ ht-degree: 97%
 >予測コンテンツを有効にする前に、次の操作が必要です。
 >
 >* **予測コンテンツの準備**
-   >
-   >   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
-   >   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
-   >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
+>   * [メールの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)、または
+>   * [リッチメディアの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)、または
+>   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
 
 ## コンテンツレコメンデーションバーの有効化とカスタマイズ {#enable-and-customize-the-content-recommendation-bar}
 
@@ -55,7 +55,6 @@ ht-degree: 97%
    >* セミコロンを区切り文字として使用します
    >* 例：/contact_us&#42;; &#42;action=logout&#42;
    >* このフィールドでは大文字と小文字が区別されます
-
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}
 

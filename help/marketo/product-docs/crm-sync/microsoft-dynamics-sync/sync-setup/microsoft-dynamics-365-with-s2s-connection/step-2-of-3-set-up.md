@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 91%
@@ -53,7 +54,6 @@ ht-degree: 91%
    >* アプリケーションユーザに権限を付与する際に、「Marketo 同期ユーザロール」に割り当てるようにします。
    >* Power Platform 上の[詳細を表示オプション](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)で、アプリケーションユーザのメールアドレスをメモします。{target="_blank"}このメールアドレスは、Marketo 内で MS Dynamics への接続を設定する際のユーザ名として使用されます。
    >* 同期ユーザが CRM で行った更新は Marketo に同期&#x200B;**されません**。
-
 
 ## AD FS オンプレミスを使用した Azure AD Federated {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 >
 >* [手順 3／3：サーバー間接続を使用した Marketo ソリューションの接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Dynamics 認証方法の再設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

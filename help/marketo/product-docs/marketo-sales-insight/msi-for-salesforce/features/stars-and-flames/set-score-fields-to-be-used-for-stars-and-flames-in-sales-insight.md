@@ -3,7 +3,8 @@ unique-page-id: 2360301
 description: Sales Insight で星と炎に使用するスコアフィールドの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight で星と炎に使用するスコアフィールドの設定
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
@@ -29,7 +30,6 @@ ht-degree: 100%
 >* **星**：星は、他のリードと比較した合計リードスコアを表します。
 >* **炎**：炎は緊急度を表し、リードのスコアが最近どの程度変化したかを示します。
 >
-
 
 1. 「**管理者**」で、「**Sales Insight**」をクリックします。
 

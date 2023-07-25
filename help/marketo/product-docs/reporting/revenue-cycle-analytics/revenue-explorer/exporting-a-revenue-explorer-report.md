@@ -3,7 +3,8 @@ unique-page-id: 7504749
 description: 収益エクスプローラレポートの書き出し - Marketo ドキュメント - 製品ドキュメント
 title: 収益エクスプローラレポートの書き出し
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -25,7 +26,6 @@ ht-degree: 100%
    >* PDF
    >* Excel
    >* CSV
-
 
 1. 目的の&#x200B;**ページ形式**&#x200B;および&#x200B;**向き**&#x200B;を選択して、「**書き出し**」をクリックします。
 

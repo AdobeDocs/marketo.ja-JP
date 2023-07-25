@@ -3,8 +3,9 @@ unique-page-id: 11370952
 description: リリースノート - 2016 年春 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年春
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
-workflow-type: ht
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 100%
 

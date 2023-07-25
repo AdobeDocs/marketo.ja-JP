@@ -3,7 +3,8 @@ unique-page-id: 4720125
 description: RTP を Google ユニバーサルアナリティクスに連携する — Marketo ドキュメント — 製品ドキュメント
 title: RTP を Google ユニバーサルアナリティクスに連携する
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 100%
@@ -33,7 +34,6 @@ Google ユニバーサルアナリティクスと RTP のデータを見ると�
 >* Google ユニバーサルアナリティクスの連携が、RTP のアカウント設定で有効にされている
 >* [Google ユニバーサルアナリティクスのタグが、Google タグマネージャーで適切に設定されている](https://support.google.com/tagmanager/answer/6107124?hl=ja)
 >* [Google タグマネージャーのタグが、Web サイトに適切にインストールされている](https://developers.google.com/tag-manager/quickstart)
-
 
 ## GUA でカスタムディメンションを設定する {#set-up-custom-dimensions-in-gua}
 

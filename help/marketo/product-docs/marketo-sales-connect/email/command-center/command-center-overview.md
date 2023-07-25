@@ -3,7 +3,8 @@ unique-page-id: 14352530
 description: コマンドセンターの概要 - Marketo ドキュメント - 製品ドキュメント
 title: コマンドセンターの概要
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 100%
@@ -96,4 +97,3 @@ ht-degree: 100%
 >* [タスク](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [詳細検索の概要](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
 >* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
-

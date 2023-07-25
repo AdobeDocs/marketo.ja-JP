@@ -2,7 +2,8 @@
 description: チームの作成 - Marketo ドキュメント - 製品ドキュメント
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%

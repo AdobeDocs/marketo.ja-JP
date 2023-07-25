@@ -3,7 +3,8 @@ unique-page-id: 4719287
 description: 初期フィールドマッピングの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 初期フィールドマッピングの編集
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 100%
@@ -66,4 +67,5 @@ Salesforce との初回同期時に、Marketo は、 Marketo 側で似た名前�
 
    * すべてのマッピングの変更がリセットされます。
    * スキーマのリセットでは、フィールドの追加のみがおこなわれ、削除はおこなわれません（同期ユーザーから非表示にした場合でも）。
+
    ![](assets/image2014-12-9-13-3a32-3a8.png)

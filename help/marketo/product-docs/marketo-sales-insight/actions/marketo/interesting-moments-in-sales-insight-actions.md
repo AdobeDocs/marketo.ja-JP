@@ -2,9 +2,10 @@
 description: Sales Insight Actions での注目のアクション - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions での注目のアクション
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 100%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 100%
 
 ## 注目のアクションを作成する方法 {#how-do-i-create-an-interesting-moment}
 
-1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}を選択します。トリガーされた場合にセールスチームが興味を持つものがいいでしょう。
+1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}を選択します。トリガーされた場合にセールスチームが興味を持つものがいいでしょう。
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
@@ -45,7 +46,7 @@ ht-degree: 100%
 
 ## 注目のアクションは、Marketo でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-注目のアクションは、[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}に表示されます。
+注目のアクションは、[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}に表示されます。
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

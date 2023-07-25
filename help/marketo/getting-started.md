@@ -3,10 +3,11 @@ unique-page-id: 1147226
 description: はじめに - Marketo ドキュメント - 製品ドキュメント
 title: はじめに
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '133'
+ht-degree: 93%
 
 ---
 
@@ -16,13 +17,13 @@ ht-degree: 100%
 
 Marketo とは何でしょうか。素晴らしい質問です。
 
-[Marketo Engage を学ぶ](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[学習Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## セットアップを行う {#get-set-up}
 
 IT チームから少々支援を受けることで、すぐに完了できます。
 
-[セットアップを開始する](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[設定を開始する](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
 ## すばやく成果を獲得 {#get-some-quick-wins}
 
@@ -124,4 +125,4 @@ Marketo Engage の主な機能を学ぶには、以下のミッションを完�
 
 ## 手順 4 おめでとうございます！Nation に参加する準備は万全です  {#congrats-youre-ready-for-the-nation}
 
-[Marketing Nation](https://nation.marketo.com){target=&quot;_blank&quot;} をご確認ください。
+以下を確認します。 [Marketing Nation](https://nation.marketo.com){target="_blank"}!

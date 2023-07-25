@@ -3,7 +3,8 @@ unique-page-id: 2360403
 description: プログラムアナライザーを使用したプログラムの効果の比較 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムアナライザーを使用したプログラムの効果の比較
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 100%
@@ -92,4 +93,3 @@ Paper Fest 12 プログラムは、より多くの売上高（より大きなバ
 >
 >* [プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [プログラムアナライザーを使用したチャネルの効果の比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-

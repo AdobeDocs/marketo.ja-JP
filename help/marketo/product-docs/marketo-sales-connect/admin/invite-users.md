@@ -3,7 +3,8 @@ unique-page-id: 14352402
 description: ユーザーの招待 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%

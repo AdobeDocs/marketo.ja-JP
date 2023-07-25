@@ -3,7 +3,8 @@ unique-page-id: 14352469
 description: Salesforce ID の Sales Connect へのインポート — Marketo ドキュメント — 製品ドキュメント
 title: Salesforce ID の Sales Connect へのインポート
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%

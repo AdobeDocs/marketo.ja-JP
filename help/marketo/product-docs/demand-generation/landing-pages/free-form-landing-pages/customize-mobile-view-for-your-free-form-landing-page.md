@@ -3,7 +3,8 @@ unique-page-id: 5472283
 description: フリーフォームランディングページのモバイル表示をカスタマイズする - Marketo ドキュメント - 製品ドキュメント
 title: フリーフォームランディングページのモバイル表示をカスタマイズする
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
@@ -50,7 +51,7 @@ ht-degree: 100%
 * Forms 2.0 フォームのみを使用してください。これらはレスポンシブで、自動的に調整されます。
 * 編集可能なテンプレート要素は 1 つだけです（BODY#bodyid (Mobile)）。これを使用して、背景色を変更できます。
 
-   ![](assets/image2015-5-21-15-3a15-3a47.png)
+  ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## モバイル表示から要素を非表示にする {#hide-an-element-from-the-mobile-view}
 

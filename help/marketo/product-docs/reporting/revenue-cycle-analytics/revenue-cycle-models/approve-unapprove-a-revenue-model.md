@@ -3,7 +3,8 @@ unique-page-id: 4718687
 description: 収益モデルの承認／承認取消 - Marketo ドキュメント - 製品ドキュメント
 title: 収益モデルの承認／承認取消
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%

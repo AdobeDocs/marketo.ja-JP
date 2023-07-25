@@ -3,7 +3,8 @@ unique-page-id: 2949266
 description: SEO - リストに対するページ問題の追加／削除 - 製品ドキュメント
 title: SEO - リストに対するページ問題の追加／削除
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 91%

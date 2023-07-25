@@ -3,7 +3,8 @@ unique-page-id: 11383953
 description: Facebook オフラインコンバージョンの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook オフラインコンバージョンの設定
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [Facebook リード広告の統合を設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)する必要があります。
 >* [収益サイクルモデラー](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)で承認済みのモデルが必要です。
-
 
 ## 管理設定 {#admin-configuration}
 
@@ -78,7 +78,6 @@ ht-degree: 100%
    >* 購入
    >* 検索
    >* コンテンツビュー
-
 
 1. マッピングするステージを選択し、**Facebook コンバージョン**&#x200B;ドロップダウンで、マッピング先の Facebook イベントを選択します。この手順を繰り返して、RCM のすべてのステージを Facebook のオフラインコンバージョンステージにマッピングします。
 

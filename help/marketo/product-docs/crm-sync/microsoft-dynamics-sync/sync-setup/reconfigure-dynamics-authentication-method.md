@@ -2,7 +2,8 @@
 description: Dynamics 認証方法の再設定 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamics 認証方法の再設定
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
@@ -19,7 +20,6 @@ ht-degree: 100%
 >
 >* [手順 2 / 3：サーバー間接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [手順 2 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Marketo で「**管理者**」をクリックします。
 
@@ -49,7 +49,6 @@ ht-degree: 100%
    >
    >* 具体的なフィールドは選択した認証方法によって異なり、以前の認証方法に応じてフォームが自動的に更新されます。
    >* 以前にも同期したことがある場合、上記のフォームデータが事前入力されている場合があります。すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
-
 
 1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。メッセージを確認し、「**切替**」をクリックして認証方法を更新します。
 

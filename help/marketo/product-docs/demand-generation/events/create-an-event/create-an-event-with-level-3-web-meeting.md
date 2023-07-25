@@ -3,7 +3,8 @@ unique-page-id: 7512328
 description: Level 3 Web Meeting を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Level 3 Web Meeting を使用したイベントの作成
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 100%
@@ -17,7 +18,6 @@ ht-degree: 100%
 >* [Level 3 Web Meeting を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
-
 
 まず、レベル 3 でウェビナーを作成します。ヘルプが必要な場合は、[レベル 3 リソースライブラリ](https://www.level3.com/en/resource-library/)をご覧ください。BrightTalk と非常に似ていることがわかります。Marketo は、レベル 3 フィールドの小さなサブセットを使用します。
 

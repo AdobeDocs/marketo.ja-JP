@@ -3,7 +3,8 @@ unique-page-id: 2949841
 description: イベントプログラムについて - Marketo ドキュメント - 製品ドキュメント
 title: イベントプログラムについて
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
@@ -29,7 +30,6 @@ ht-degree: 100%
 >* トレードショー
 >* ミートアップ
 
-
 イベントは自動的に[ウェビナープロバイダー](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)と接続することも [iPad チェックインアプリ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)と同期することもできます。
 
 >[!MORELIKETHIS]
@@ -37,4 +37,3 @@ ht-degree: 100%
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
 >* [LaunchPoint イベントパートナー](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
-

@@ -2,7 +2,8 @@
 description: Marketo Formsで CAPTCHA を有効にする — Marketoドキュメント — 製品ドキュメント
 title: Marketo Forms で CAPTCHA を有効にする
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 19%

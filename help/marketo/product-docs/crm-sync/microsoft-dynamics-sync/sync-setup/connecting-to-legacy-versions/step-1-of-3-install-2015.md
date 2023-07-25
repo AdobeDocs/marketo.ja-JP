@@ -3,7 +3,8 @@ unique-page-id: 7504736
 description: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%

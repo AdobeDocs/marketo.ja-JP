@@ -3,7 +3,8 @@ unique-page-id: 1147112
 description: タグについて - Marketo ドキュメント - 製品ドキュメント
 title: タグについて
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
@@ -30,7 +31,6 @@ ht-degree: 100%
 >
 >* タグタイプ＝プログラム所有者
 
-
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## タグ値 {#tag-value}
@@ -42,7 +42,6 @@ ht-degree: 100%
 >**例**
 >
 >* タグ値＝Anna、Arun、Reza
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
@@ -58,11 +57,9 @@ ht-degree: 100%
 >* 進行状況ステータス＝招待済み、登録済み、出席、無断欠席
 >* 成功＝出席
 
-
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
 >* [カスタムタグの作成](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
 >* [プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-

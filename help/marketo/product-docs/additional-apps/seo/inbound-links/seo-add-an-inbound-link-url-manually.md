@@ -3,8 +3,9 @@ unique-page-id: 2949247
 description: SEO - 手動によるインバウンドリンク URL の追加 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - 手動によるインバウンドリンク URL の追加
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
-workflow-type: ht
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 

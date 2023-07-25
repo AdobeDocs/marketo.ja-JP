@@ -3,7 +3,8 @@ unique-page-id: 3571735
 description: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 100%

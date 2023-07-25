@@ -3,7 +3,8 @@ unique-page-id: 30081230
 description: 人物に対する一括アクション - Marketo ドキュメント - 製品ドキュメント
 title: 人物に対する一括アクション
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%

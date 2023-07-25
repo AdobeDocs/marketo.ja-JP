@@ -3,7 +3,8 @@ unique-page-id: 10100636
 description: アプリ内メッセージ画像の追加 - Marketo ドキュメント - 製品ドキュメント
 title: アプリ内メッセージ画像の追加
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 100%
@@ -92,4 +93,3 @@ ht-degree: 100%
 >
 >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [アプリ内メッセージのレイアウトの選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

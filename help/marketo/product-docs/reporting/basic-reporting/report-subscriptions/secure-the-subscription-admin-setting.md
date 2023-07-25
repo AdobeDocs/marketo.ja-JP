@@ -3,7 +3,8 @@ unique-page-id: 10095347
 description: 購読管理者設定の保護 - Marketo ドキュメント - 製品ドキュメント
 title: 購読管理設定の保護
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%

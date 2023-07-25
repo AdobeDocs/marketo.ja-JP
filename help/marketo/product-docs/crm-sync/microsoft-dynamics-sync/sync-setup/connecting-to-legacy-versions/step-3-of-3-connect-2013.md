@@ -3,7 +3,8 @@ unique-page-id: 3571819
 description: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
 >* [手順 2 / 3：Marketo（2013 オンプレミス）の同期ユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-
 
 >[!NOTE]
 >
@@ -54,7 +54,6 @@ ht-degree: 100%
    >
    >* Marketo のユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。形式は、user@domain.com または DOMAIN\user です。
    >* URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
-
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
 

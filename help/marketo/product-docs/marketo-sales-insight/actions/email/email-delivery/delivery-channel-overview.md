@@ -2,7 +2,8 @@
 description: 配信チャネルの概要 - Marketo ドキュメント - 製品ドキュメント
 title: 配信チャネルの概要
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '668'
 ht-degree: 100%
@@ -61,4 +62,3 @@ Marketo のメールサーバーは、Marketo Sales と統合されていませ�
 >* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [カスタム配信チャネルの設定](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
 >* [メール接続のスロットリング](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
-

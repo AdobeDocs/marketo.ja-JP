@@ -3,7 +3,8 @@ unique-page-id: 2359462
 description: メールプログラムを承認／承認取消する — Marketo ドキュメント — 製品ドキュメント
 title: メールプログラムを承認／承認取消する
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
@@ -20,7 +21,6 @@ ht-degree: 100%
 >* [既存のメールを選択する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)または[新規メールを作成する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
 >* [メールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
 
 ## メールプログラムを承認する {#approve-your-email-program}
 

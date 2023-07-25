@@ -2,9 +2,10 @@
 description: 個人取引先の同期に関する FAQ - Marketo ドキュメント - 製品ドキュメント
 title: 個人取引先の同期 FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '485'
 ht-degree: 100%
 
 ---
@@ -73,6 +74,5 @@ Veeva CRM は実際には個人取引先オブジェクトのみを扱い、ビ�
 
 >[!MORELIKETHIS]
 >
->* [デフォルトの Veeva フィールドマッピング](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target=&quot;_blank&quot;}
->* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
-
+>* [デフォルトの Veeva フィールドマッピング](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

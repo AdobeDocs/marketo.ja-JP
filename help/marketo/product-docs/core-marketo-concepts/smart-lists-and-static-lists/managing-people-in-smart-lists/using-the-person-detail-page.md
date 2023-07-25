@@ -3,7 +3,8 @@ unique-page-id: 2953415
 description: 人物の詳細ページの使用 - Marketo ドキュメント - 製品ドキュメント
 title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 100%
@@ -23,8 +24,7 @@ ht-degree: 100%
 * プログラムの「**メンバー**」タブ
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
-
-   <br> 
+  <br> 
 
 1. 任意の人物をダブルクリックするか、左側の ID をシングルクリックします。
 
@@ -70,7 +70,7 @@ ht-degree: 100%
 
 ## CRM 同期前の Marketo のデフォルトフィールド {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | 住所 | 年間収益 | 匿名 IP | 請求先住所 | 請求先住所（市区町村） |
 | 請求先住所（国） | 請求先住所（郵便番号） | 請求先住所（都道府県） | 市区町村 | 企業名 |

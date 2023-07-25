@@ -3,7 +3,8 @@ unique-page-id: 2950617
 description: メールでの動的コンテンツの使用 - Marketo ドキュメント - 製品ドキュメント
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
-source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 100%
@@ -76,4 +77,3 @@ ht-degree: 100%
 >
 >* [動的コンテンツを含むメールのプレビュー](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
 >* [ランディングページでの動的コンテンツの使用](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-

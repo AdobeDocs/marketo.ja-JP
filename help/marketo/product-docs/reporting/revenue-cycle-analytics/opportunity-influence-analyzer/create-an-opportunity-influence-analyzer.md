@@ -3,7 +3,8 @@ unique-page-id: 2360235
 description: 商談の影響分析の設定 - Marketo ドキュメント - 製品ドキュメント
 title: 商談の影響分析の作成
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%
@@ -63,4 +64,3 @@ ht-degree: 100%
 >
 >* [商談の影響分析でマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [商談の影響分析の設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
-

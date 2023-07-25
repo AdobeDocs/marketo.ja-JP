@@ -3,8 +3,9 @@ unique-page-id: 45417125
 description: 非ネイティブ Salesforce 統合用 Sales Insight - Marketo ドキュメント - 製品ドキュメント
 title: 非ネイティブ Salesforce 統合用 Sales Insight
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 100%
 
@@ -21,7 +22,6 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 >* Marketo REST API が[正常に設定されている](https://developers.marketo.com/rest-api/){target="_blank"}。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* オブジェクトと関係を理解するには、[このブログ投稿](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)を参照してください。{target="_blank"}
 >* 15 文字の大文字と小文字を区別するグローバルな一意の ID ではなく、18 文字の大文字と小文字を区別しないグローバルな一意の ID を表示するように Salesforce オブジェクトを設定します。
-
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
    </table>
 
    * 企業向け API ドキュメント：[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
-   * 企業の同期に関する API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
+   * 企業を同期するための API ドキュメント：[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
 1. Salesforce のリード／取引先責任者を Marketo に同期します。
 

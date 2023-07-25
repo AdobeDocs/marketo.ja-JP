@@ -3,7 +3,8 @@ unique-page-id: 2359732
 description: フリーフォームランディングページでの動的コンテンツの使用 - Marketo ドキュメント - 製品ドキュメント
 title: フリーフォームランディングページでの動的コンテンツの使用
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
@@ -19,7 +20,6 @@ ht-degree: 100%
 >* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [フリーフォームランディングページへの新しいフォームの追加](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
 
 ## セグメント化を追加 {#add-segmentation}
 
@@ -81,4 +81,3 @@ ht-degree: 100%
 >
 >* [動的コンテンツを含むランディングページのプレビュー](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [メールでの動的コンテンツの使用](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2951884
 description: 収益エクスプローラーでの商談分析について - Marketo ドキュメント - 製品ドキュメント
 title: 収益エクスプローラーでの商談分析について
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 100%
@@ -155,4 +156,3 @@ ht-degree: 100%
 >* [収益エクスプローラーレポートの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [収益エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [収益エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

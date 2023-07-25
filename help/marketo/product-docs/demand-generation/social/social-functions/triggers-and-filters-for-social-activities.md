@@ -3,7 +3,8 @@ unique-page-id: 2359837
 description: ソーシャルアクティビティのトリガーとフィルター - Marketo ドキュメント - 製品ドキュメント
 title: ソーシャルアクティビティのトリガーとフィルター
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
@@ -30,7 +31,7 @@ Marketo のソーシャルアプリには、独自の特殊なトリガーとフ
 
    | トリガー／フィルター | SNS ボタン | 投票 | 動画 | 紹介オファー | 懸賞 |
    |---|---|---|---|---|---|
-   | 紹介のゴールを達成済み |  |  |  | ![（チェックマーク）](assets/check.png) |  |
+   | 紹介のゴールを達成済み |  |  |  | ![（チェックマーク）](assets/check.png) | |
    | コンテンツの共有 | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) |
    | 共有リンクをクリック | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) | ![（チェックマーク）](assets/check.png) |
    | 懸賞失格 |  |  |  |  | ![（チェックマーク）](assets/check.png) |

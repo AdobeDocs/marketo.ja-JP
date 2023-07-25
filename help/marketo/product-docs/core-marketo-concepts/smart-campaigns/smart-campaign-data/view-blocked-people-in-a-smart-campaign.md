@@ -3,7 +3,8 @@ unique-page-id: 1147062
 description: スマートキャンペーンでのブロックされた人物の表示 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンでのブロックされた人物の表示
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 100%
@@ -40,6 +41,5 @@ Marketo データベースで、ブロックリスト登録済み、登録解除
    >* [通信制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
    >* [スマートキャンペーンメンバーの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
    >* [スマートキャンペーンの条件を満たす人物の表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
-
 
 これで完了です。誰がメールを受信していないかを知ることができます。

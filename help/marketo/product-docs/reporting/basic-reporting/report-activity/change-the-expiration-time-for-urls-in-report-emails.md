@@ -3,7 +3,8 @@ unique-page-id: 2360032
 description: レポートメール URL の有効期限を変更する - Marketo ドキュメント - 製品ドキュメント
 title: レポートメール URL の有効期限を変更する
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%

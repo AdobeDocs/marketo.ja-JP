@@ -3,7 +3,8 @@ unique-page-id: 2359520
 description: 「日時」A/B テストの使用 - Marketo ドキュメント - 製品ドキュメント
 title: 「日付／時間」A/B テストの使用
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
@@ -17,6 +18,7 @@ ht-degree: 100%
 >[!PREREQUISITES]
 >
 >[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>
 
 1. **メール**&#x200B;タイルの下で、「**A/B テストを追加**」をクリックします。
 

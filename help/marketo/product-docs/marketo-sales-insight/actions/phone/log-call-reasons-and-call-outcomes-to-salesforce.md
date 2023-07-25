@@ -1,8 +1,10 @@
 ---
 description: Salesforce に通話理由と通話結果を記録 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce に通話理由と通話結果を記録
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
-workflow-type: ht
+exl-id: cfe71388-282b-45e5-a817-45a951f613bc
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 100%
 
@@ -157,4 +159,3 @@ ht-degree: 100%
 >
 >* [通話結果](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
 >* [通話理由](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-

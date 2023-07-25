@@ -3,7 +3,8 @@ unique-page-id: 1147154
 description: SFDC キャンペーンとプログラムの同期 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC キャンペーンとプログラムの同期
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%

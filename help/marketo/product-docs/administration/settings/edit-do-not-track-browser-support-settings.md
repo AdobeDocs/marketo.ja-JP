@@ -3,8 +3,9 @@ unique-page-id: 6095047
 description: 「トラックしない」ブラウザーのサポート設定の編集 - Marketo ドキュメント - 製品ドキュメント
 title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: ht
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 

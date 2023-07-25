@@ -2,7 +2,8 @@
 description: CC/BCC を使用して複数の受信者を追跡できますか - Marketo ドキュメント - 製品ドキュメント
 title: CC/BCC を使用して複数の受信者を追跡できますか
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%

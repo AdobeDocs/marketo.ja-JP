@@ -2,7 +2,8 @@
 description: 一括メール送信オプション - Marketo ドキュメント - 製品ドキュメント
 title: 一括メール送信オプション
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 100%
@@ -64,4 +65,3 @@ ht-degree: 100%
 >
 >* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [グループメールによるメールの送信](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
-

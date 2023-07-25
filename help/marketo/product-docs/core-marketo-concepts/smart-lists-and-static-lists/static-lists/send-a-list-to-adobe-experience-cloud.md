@@ -3,9 +3,10 @@ unique-page-id: 37356194
 description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '768'
 ht-degree: 100%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[アドビ組織マッピングの設定](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
+>[アドビ組織マッピングの設定](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## サポートされる宛先アプリケーション {#supported-destination-applications}
 

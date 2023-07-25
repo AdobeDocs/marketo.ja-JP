@@ -3,8 +3,9 @@ unique-page-id: 1146974
 description: スマートキャンペーンでのクオリフィケーションルールの編集 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーンでのクオリフィケーションルールの編集
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
 

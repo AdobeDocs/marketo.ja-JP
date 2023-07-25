@@ -3,7 +3,8 @@ unique-page-id: 2950524
 description: Web サイトへのソーシャルのデプロイ — Marketo ドキュメント — 製品ドキュメント
 title: Web サイトへのソーシャルのデプロイ
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
@@ -51,4 +52,3 @@ ht-degree: 100%
    >* [ソーシャルアプリボタンのカスタマイズ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [ソーシャル共有要件の設定](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
    >* [ランディングページの Facebook への公開](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-

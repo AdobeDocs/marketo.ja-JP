@@ -3,7 +3,8 @@ unique-page-id: 3571816
 description: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユーザーの設定 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユーザーの設定
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 100%

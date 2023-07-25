@@ -2,7 +2,8 @@
 description: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール - Marketo ドキュメント - 製品ドキュメント
 title: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 100%
@@ -16,7 +17,6 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 >[!CAUTION]
 >
 >* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。初回同期が完了すると、電子メールで通知されます。
-
 
 >[!NOTE]
 >

@@ -3,7 +3,8 @@ unique-page-id: 10100311
 description: サブスクリプションログインでのユニバーサル ID の使用 - Marketo ドキュメント - 製品ドキュメント
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
@@ -67,4 +68,3 @@ ht-degree: 100%
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
 >* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
-

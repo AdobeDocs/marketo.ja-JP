@@ -3,7 +3,8 @@ unique-page-id: 45416566
 description: 二者間による同意の設定 - Marketo ドキュメント - 製品ドキュメント
 title: 二者間による同意の設定
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%

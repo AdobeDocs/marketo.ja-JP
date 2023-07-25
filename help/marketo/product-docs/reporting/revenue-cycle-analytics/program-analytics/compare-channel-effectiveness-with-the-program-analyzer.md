@@ -3,7 +3,8 @@ unique-page-id: 2360401
 description: プログラムアナライザーを使用したチャネルの効果の比較 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムアナライザーを使用したチャネルの効果の比較
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -84,4 +85,3 @@ ht-degree: 100%
 >
 >* [プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [プログラムアナライザーを使用したプログラムの効果の比較](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-

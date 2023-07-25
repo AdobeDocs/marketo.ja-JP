@@ -3,7 +3,8 @@ unique-page-id: 37356893
 description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュメント
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 100%
@@ -198,4 +199,3 @@ Marketo Sales Insight は言語別に保存されます。したがって、複�
 >* ウォッチリストに追加するには、連絡先/リードがデフォルトパーティションに存在する必要があります。
 >
 >* MSI Salesforce パッケージは、依存フィールドを含むカスタムビューをサポートしていません。
-

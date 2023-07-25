@@ -3,7 +3,8 @@ unique-page-id: 7511931
 description: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%

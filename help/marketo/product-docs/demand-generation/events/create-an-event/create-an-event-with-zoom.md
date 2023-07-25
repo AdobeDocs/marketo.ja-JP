@@ -3,7 +3,8 @@ unique-page-id: 17728023
 description: Zoom を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Zoom を使用したイベントの作成
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
-source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 100%
@@ -17,7 +18,6 @@ ht-degree: 100%
 >* [Zoom を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
-
 
 まず、Zoom でウェビナーを作成します。Zoom の作成機能の設定には、Marketo で使用されるものと、Zoom でのみ使用されるものがあります。
 

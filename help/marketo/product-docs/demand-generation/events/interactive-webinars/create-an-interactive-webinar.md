@@ -2,8 +2,9 @@
 description: インタラクティブウェビナーの作成 - Marketo ドキュメント - 製品ドキュメント
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
-workflow-type: ht
+feature: Interactive Webinars
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

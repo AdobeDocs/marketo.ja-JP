@@ -3,8 +3,9 @@ unique-page-id: 1146935
 description: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ - Marketo ドキュメント - 製品ドキュメント
 title: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

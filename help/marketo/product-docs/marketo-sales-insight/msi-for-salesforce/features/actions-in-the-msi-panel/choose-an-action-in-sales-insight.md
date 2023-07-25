@@ -3,7 +3,8 @@ unique-page-id: 10099167
 description: Sales Insight でのアクションの選択 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight でのアクションの選択
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
@@ -27,28 +28,28 @@ Salesforce Classic と Lightning の「Sales Insight」ドロップダウンか�
 * 「リードレイアウト」ボタン：単一のアクション。ユーザープロファイルで制御できません
 * 「連絡先レイアウト」ボタン：単一のアクション。ユーザープロファイルでは制御できません
 
-   ![](assets/choose-an-action-in-sales-insight-1.png)
+  ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **グループアクションのページレイアウト**
 
 * アカウントレイアウトパネル：グループアクション。ユーザープロファイルで制御可能
 * 商談レイアウトパネル：グループアクション。ユーザープロファイルで制御可能
 
-   ![](assets/choose-an-action-in-sales-insight-2.png)
+  ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **「最有望見込客」タブ**
 
 * 「最有望見込客一括アクション」タブ：グループアクション。ユーザープロファイルで制御可能
 
-   ![](assets/choose-an-action-in-sales-insight-3.png)
+  ![](assets/choose-an-action-in-sales-insight-3.png)
 
 * 「最有望見込客インラインアクション」タブ：単一のアクション。ユーザープロファイルで制御可能
 
-   ![](assets/choose-an-action-in-sales-insight-4.png)
+  ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **一括アクションのリスト表示**
 
 * リードリスト表示：一括アクション。ユーザープロファイルでは制御できません
 * 連絡先リスト表示：一括アクション。ユーザープロファイルでは制御できません
 
-   ![](assets/choose-an-action-in-sales-insight-5.png)
+  ![](assets/choose-an-action-in-sales-insight-5.png)

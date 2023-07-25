@@ -3,7 +3,8 @@ unique-page-id: 2949891
 description: 静的リストについて - Marketo ドキュメント - 製品ドキュメント
 title: 静的リストについて
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%

@@ -3,8 +3,9 @@ unique-page-id: 4720710
 description: メール到達率のための SPF と DKIM の設定 - Marketo ドキュメント - 製品ドキュメント
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
-workflow-type: ht
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 100%
 
@@ -53,4 +54,3 @@ DNS レコードに公開鍵を設定し、管理セクション（A）で送信
 >* [SPF の詳細と仕組み](http://www.open-spf.org/Introduction/){target="_blank"}
 >* [SPF が正しく設定されていますか？](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [正しい構文を使用しましたか？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
-

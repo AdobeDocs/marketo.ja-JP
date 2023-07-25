@@ -2,8 +2,9 @@
 description: チャットボットの動作 - Marketo ドキュメント - 製品ドキュメント
 title: チャットボットの動作
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 100%
 

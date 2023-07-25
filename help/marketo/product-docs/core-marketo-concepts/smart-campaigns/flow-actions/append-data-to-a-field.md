@@ -3,7 +3,8 @@ unique-page-id: 1147042
 description: フィールドへのデータ追加 - Marketo ドキュメント - 製品ドキュメント
 title: フィールドへのデータ追加
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%

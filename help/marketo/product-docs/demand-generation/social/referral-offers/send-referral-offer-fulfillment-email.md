@@ -3,7 +3,8 @@ unique-page-id: 2359785
 description: 紹介オファー達成メールの送信 - Marketo ドキュメント - 製品ドキュメント
 title: 紹介オファー達成メールの送信
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [ソーシャルプロモーションでのメールの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [紹介オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-
 
 ## 達成配信の設定 {#set-up-fulfillment-delivery}
 

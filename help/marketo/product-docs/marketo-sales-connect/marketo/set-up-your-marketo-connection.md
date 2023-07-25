@@ -2,7 +2,8 @@
 description: Marketo 接続の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo 接続の設定
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%

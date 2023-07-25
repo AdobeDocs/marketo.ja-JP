@@ -3,7 +3,8 @@ unique-page-id: 2359400
 description: フォームのテーマの選択 - Marketo ドキュメント - 製品ドキュメント
 title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
@@ -54,4 +55,3 @@ ht-degree: 100%
 >
 >* [フォームテーマの CSS の編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [フォームへのフィールドの追加](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 4720917
 description: Facebook でのパーソナライズリマーケティング - Marketo ドキュメント - 製品ドキュメント
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
 >* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
-
 
 ## Facebook でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -131,4 +131,3 @@ ht-degree: 100%
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Google でのパーソナライズリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-

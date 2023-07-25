@@ -3,7 +3,8 @@ unique-page-id: 12983291
 description: 受信者タイムゾーンについて — Marketo ドキュメント — 製品ドキュメント
 title: 受信者タイムゾーンについて
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 100%
@@ -52,4 +53,3 @@ Marketo は、ユーザーの市区町村、都道府県、国または郵便番
 >* [メールプログラムのヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >
 >* [受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-

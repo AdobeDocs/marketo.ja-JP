@@ -3,7 +3,8 @@ unique-page-id: 4720232
 description: 新規アカウントリストの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 新規アカウントリストの作成
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 100%
@@ -44,7 +45,6 @@ ht-degree: 100%
    >* アップロードされたファイルが承認されるまでに最大で 2 営業日かかります。
    >* 承認のメール通知が送信されます。または重点顧客ページでファイルの状態を確認してください。
    >* アップロードされたすべてのリストに対して累積されるレコード／行の合計数は 10,000 から始まり、最大のパッケージは 100,000 です。
-
 
    >[!NOTE]
    >

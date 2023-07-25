@@ -3,7 +3,8 @@ unique-page-id: 2360251
 description: 登録解除メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
 title: 登録解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 97%
@@ -34,7 +35,6 @@ ht-degree: 97%
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
-
 
 1. 「**[!UICONTROL 登録解除 HTML]**」および「**[!UICONTROL 登録解除テキスト]**」バージョンを選択し、「**[!UICONTROL 変更を保存]**」をクリックします。
 

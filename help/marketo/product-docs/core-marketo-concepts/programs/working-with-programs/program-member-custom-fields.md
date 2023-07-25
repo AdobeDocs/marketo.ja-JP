@@ -3,8 +3,9 @@ unique-page-id: 37355569
 description: プログラムメンバーカスタムフィールド - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
-workflow-type: ht
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 100%
 
@@ -77,4 +78,3 @@ ht-degree: 100%
 >* [Marketo でのカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
 >* [プログラムメンバーカスタムフィールドの同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}
-

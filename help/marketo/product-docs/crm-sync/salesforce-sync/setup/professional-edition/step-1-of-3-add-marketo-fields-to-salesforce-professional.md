@@ -3,8 +3,9 @@ unique-page-id: 11372975
 description: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）- Marketo ドキュメント - 製品ドキュメント
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
-workflow-type: ht
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 100%
 

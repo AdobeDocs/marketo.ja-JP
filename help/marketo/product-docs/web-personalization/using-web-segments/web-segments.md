@@ -3,7 +3,8 @@ unique-page-id: 4719093
 description: Web セグメント - Marketo ドキュメント - 製品ドキュメント
 title: Web セグメント
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 95%
@@ -107,28 +108,23 @@ ht-degree: 95%
 >1. ALL フィルターを使用（1 および 2 および 3 ...）
 >1. ANY フィルターを使用（1 または 2 または 3 ...）
 >1. 詳細フィルター（および／またの式を使用）
-
-   >
-   >    詳細フィルタにより、セグメントの条件をコントロールできます。&quot;and&quot; や &quot;or&quot; で区切った複数のフィルタ番号を入力してください。
-   >
-   >    * 1 および 2 および 3 
-   >    * 1 または 2 または 3 
-
-   >
-   >    &quot;and&quot; と &quot;or&quot; を混在させる場合、括弧を使用して論理的誤解が生じないようにしてください。たとえば、&quot;1 or 2 and 3&quot; の場合は次のいずれかの形式で記述します:
-   >
-   >    * 1 および (2 または 3)
-   >    * (1 および 2) または 3
-
-   >
-   >    より複雑な論理の場合は、括弧内に括弧を含めることもできます。
-   >
-   >    * (1 および 2) または (3 および 4)
-   >    * 1 および（2 または（3 および 4））
-
-   >
-   >    挿入、削除、並べ替えを実行した後には論理を確認してください。
-
+>
+>    詳細フィルタにより、セグメントの条件をコントロールできます。&quot;and&quot; や &quot;or&quot; で区切った複数のフィルタ番号を入力してください。
+>
+>    * 1 および 2 および 3 
+>    * 1 または 2 または 3 
+>
+>    &quot;and&quot; と &quot;or&quot; を混在させる場合、括弧を使用して論理的誤解が生じないようにしてください。たとえば、&quot;1 or 2 and 3&quot; の場合は次のいずれかの形式で記述します:
+>
+>    * 1 および (2 または 3)
+>    * (1 および 2) または 3
+>
+>    より複雑な論理の場合は、括弧内に括弧を含めることもできます。
+>
+>    * (1 および 2) または (3 および 4)
+>    * 1 および（2 または（3 および 4））
+>
+>    挿入、削除、並べ替えを実行した後には論理を確認してください。
 
 右側の列の「セグメント属性」を左側のセグメントエディターにドラッグ＆ドロップします。
 
@@ -267,8 +263,7 @@ Mobile OS をセグメントエディターにドラッグ＆ドロップしま�
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **訪問者タイプ**<br />
-
-   **モバイル OS** -  ドロップダウンボックスで、一覧から 1 つ以上のモバイル OS を選択します。選択したモバイル OS が下に表示されます。
+  **モバイル OS** -  ドロップダウンボックスで、一覧から 1 つ以上のモバイル OS を選択します。選択したモバイル OS が下に表示されます。
 
    * 訪問者が任意のモバイルデバイスを使用している
    * 訪問者がこの特定のデバイス／OS を使用している
@@ -329,4 +324,3 @@ Mobile OS をセグメントエディターにドラッグ＆ドロップしま�
 >* [ダイアログ web キャンペーンを新規作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [ゾーン内 web キャンペーンを新規作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [ウィジェット web キャンペーンを新規作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

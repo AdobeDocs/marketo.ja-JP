@@ -2,7 +2,8 @@
 description: Marketo Sales のパスワードの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales のパスワードの変更
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -35,7 +36,6 @@ ht-degree: 100%
 >* 大文字と小文字を混在させる
 >* 数値を含める
 >* 特殊文字を含める
-
 
 ## サインアウト中のパスワード変更 {#change-your-password-while-signed-out}
 

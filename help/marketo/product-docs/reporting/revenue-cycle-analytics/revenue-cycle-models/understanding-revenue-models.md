@@ -3,7 +3,8 @@ unique-page-id: 4718654
 description: 収益モデルについて - Marketo ドキュメント - 製品ドキュメント
 title: 収益モデルについて
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 100%
@@ -105,4 +106,3 @@ Modeler はすべて、任意の時点でのバケツ内のリード数を測定
 >* [収益モデルのレポート](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [収益モデルの承認／承認解除](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-

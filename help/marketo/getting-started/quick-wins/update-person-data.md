@@ -3,7 +3,8 @@ unique-page-id: 2359426
 description: 人物データの更新 - Marketo ドキュメント - 製品ドキュメント
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 93%
@@ -18,7 +19,6 @@ ht-degree: 93%
 >
 >* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 最近の展示会で、ある人から追加の連絡先情報を提供されたとします。人物データの更新方法を次に示します。
 

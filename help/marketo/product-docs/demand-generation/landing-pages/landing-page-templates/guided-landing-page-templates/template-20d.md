@@ -3,7 +3,8 @@ unique-page-id: 10092919
 description: テンプレート 20D - Marketo ドキュメント - 製品ドキュメント
 title: テンプレート 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%

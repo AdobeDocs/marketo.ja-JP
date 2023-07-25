@@ -3,7 +3,8 @@ unique-page-id: 2949160
 description: Adobe Analytics との連携 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Analytics との連携
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 100%
@@ -79,7 +80,6 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
       1. 「有効期限」フィールドを&#x200B;**訪問**&#x200B;に変更します。
 
-
 1. **設定を編集**&#x200B;で、**コンバージョン**&#x200B;に移動して、「**[成功イベント](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。.
 
    1. 「カスタム成功イベント」イベント番号を選択します。以下をおすすめします。
@@ -92,9 +92,8 @@ AA でこれらの変数を設定するには、次の手順を実行します�
       >これらの番号がすでに使用されている場合は、別の使用可能な番号を選択します。この番号を RTP アカウント設定のスロット番号に合わせます。
 
       1. 2 つのイベント名を&#x200B;**RTP キャンペーン**&#x200B;および **RTP セグメント**&#x200B;に変更します。これは、レポートスイートに表示される名前です。
+
    1. タイプフィールドで「**カウンター（下位関係なし）**」を選択します
-
-
 
 1. **設定を編集**&#x200B;で、**[トラフィック](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;に移動して、「**[トラフィック変数](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**」を選択します。.
 
@@ -110,11 +109,10 @@ AA でこれらの変数を設定するには、次の手順を実行します�
       >これらの番号がすでに使用されている場合は、別の使用可能な番号を選択します。この番号を RTP アカウント設定のスロット番号に合わせます）
 
       1. 4 つのプロパティ名を変更します。これは、レポートスイートに表示される名前です。
+
    1. 有効フィールドを&#x200B;**有効**&#x200B;にします。
 
    1. パスレポートフィールドを&#x200B;**有効**&#x200B;にします。
-
-
 
 ## Marketo リアルタイムパーソナライゼーション（RTP）での設定 {#set-up-in-marketo-real-time-personalization-rtp}
 

@@ -3,7 +3,8 @@ unique-page-id: 1146987
 description: フローステップの削除 - Marketo ドキュメント - 製品ドキュメント
 title: フローステップの削除
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
@@ -42,7 +43,6 @@ ht-degree: 100%
    1. **現在実行中。**&#x200B;変更は、削除のタイミングと詳細に応じて、予期しない動作を引き起こす可能性があります。アクティブに実行中のバッチキャンペーンは編集しないことを強くお勧めします。緊急の場合は、[実行中のスマートキャンペーンを中止する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)を参照してください。
 
    1. **既に実行されている（待機ステップあり）。**&#x200B;これに関する詳細はいくつかあります。\
-
       人物が待機ステップに入ると、待機期間と、どのステップ番号に戻るかは記録されます。以下の例を参照してください。
 
    **トリガースマートキャンペーン**
@@ -64,7 +64,6 @@ ht-degree: 100%
    >1. 人物は 1 週間待機し続けます。（自動的にフローに戻ることはありません。）
    >1. 最終的に戻って来たとき、**ステップ 3** に進もうとしますが、見つかりません。
    >1. **重要：**&#x200B;現在は 2 つのステップしかないので、*人物にはメール #2 が届きません。*
-
 
 アクティブなキャンペーンの変更
 

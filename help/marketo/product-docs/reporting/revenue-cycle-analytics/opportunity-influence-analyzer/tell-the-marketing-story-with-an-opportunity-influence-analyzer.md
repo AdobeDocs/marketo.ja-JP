@@ -3,7 +3,8 @@ unique-page-id: 2360237
 description: 商談の影響分析でマーケティング事例を伝える - Marketo ドキュメント - 製品ドキュメント
 title: 商談の影響分析でマーケティング事例を伝える
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 100%
@@ -39,7 +40,6 @@ ht-degree: 100%
    * **括弧内の数**&#x200B;は、その連絡先とのインタラクション数です。
 
    * ![--](assets/image2014-10-3-13-3a45-3a9.png) **黄色の星**&#x200B;は、メインの連絡先を示します。
-
 
 1. 名前の上にカーソルを置くと、その人の肩書きと商談に関与したソースが表示されます。
 

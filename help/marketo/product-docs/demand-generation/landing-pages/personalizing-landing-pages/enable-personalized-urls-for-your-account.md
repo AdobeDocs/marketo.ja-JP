@@ -3,7 +3,8 @@ unique-page-id: 2359810
 description: アカウントでパーソナライズ URL を有効にする - Marketo ドキュメント - 製品ドキュメント
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -41,4 +42,3 @@ ht-degree: 100%
 >1. AnnaJones
 >1. AnnaJones2
 >1. AnnaJones3
-

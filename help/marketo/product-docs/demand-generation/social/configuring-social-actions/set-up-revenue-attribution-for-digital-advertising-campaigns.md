@@ -3,7 +3,8 @@ unique-page-id: 10098812
 description: デジタル広告キャンペーンの売上高アトリビューションの設定 - Marketo ドキュメント - 製品ドキュメント
 title: デジタル広告キャンペーンの売上高アトリビューションの設定
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 100%
@@ -23,7 +24,6 @@ Marketo で最初の広告プログラムを設定したら、他のチャンネ
 >* ステータス値とプログラムの成功（デジタル広告やソーシャルペイドおよび PPC など）を含むチャンネルタグの設定
 >* フォームを作成または編集して、クエリ文字列をユーザーと共に渡します
 >* 一部の売上高サイクル分析機能にアクセスして、広告チャンネルとキャンペーンに関するレポートを作成していることを確認してください
-
 
 ## デフォルトプログラムの作成 {#create-a-default-program}
 

@@ -3,7 +3,8 @@ unique-page-id: 7504744
 description: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 100%
@@ -16,7 +17,6 @@ ht-degree: 100%
 >
 >* [Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 >* [Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
-
 
 >[!NOTE]
 >
@@ -53,7 +53,6 @@ ht-degree: 100%
    >* 2020年10月より前に Marketo がプロビジョニングされている場合、「クライアント ID 」と「シークレット」はオプションのフィールドです。それ以外の場合は、必須です。この情報の取得方法は、使用している MSD のバージョンによって異なります。
    >* Marketo のユーザー名は、CRM の同期ユーザーのユーザー名と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
    >* URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
-
 
    >[!TIP]
    >

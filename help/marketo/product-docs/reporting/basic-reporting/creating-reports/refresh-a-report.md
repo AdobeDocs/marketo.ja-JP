@@ -3,7 +3,8 @@ unique-page-id: 5472328
 description: レポートの更新 - Marketo ドキュメント - 製品ドキュメント
 title: レポートの更新
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%

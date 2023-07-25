@@ -3,7 +3,8 @@ unique-page-id: 4718636
 description: プログラム原価分析領域について - Marketo ドキュメント - 製品ドキュメント
 title: プログラム原価分析領域について
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%

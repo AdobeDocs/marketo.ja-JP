@@ -2,9 +2,10 @@
 description: セールスキャンペーンの設定 - Marketo ドキュメント - 製品ドキュメント
 title: セールスキャンペーンの設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -79,7 +80,6 @@ Gmail または Exchange の返信追跡を有効にした場合、受信者が�
 
 >[!MORELIKETHIS]
 >
->* [セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
->* [メールステップのセールスキャンペーン送信オプションについて](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
-
+>* [セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [メールステップのセールスキャンペーン送信オプションについて](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 3571739
 description: Marketo Sales Insight の Microsoft Dynamics 365 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の Microsoft Dynamics 365 へのインストールと設定
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 100%
@@ -36,7 +37,7 @@ Marketo Sales Insight は、マーケティングチームが持つ豊富なデ�
 
    >[!NOTE]
    >
-   >次に進む前に、あらかじめ Marketo ソリューションを[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
+   >次に進む前に、あらかじめ Marketo ソリューションを[](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
 
 1. 「**インポート**」をクリックします。
 

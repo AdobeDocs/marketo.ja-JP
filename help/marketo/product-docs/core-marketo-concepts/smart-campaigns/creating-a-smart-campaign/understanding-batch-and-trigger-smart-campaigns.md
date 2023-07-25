@@ -3,8 +3,9 @@ unique-page-id: 2953132
 description: バッチおよびトリガースマートキャンペーンについて - Marketo ドキュメント - 製品ドキュメント
 title: バッチおよびトリガースマートキャンペーンについて
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
 
@@ -35,7 +36,7 @@ ht-degree: 100%
 * 毎日、毎週、毎月のように、反復するスケジュール設定が可能です。あるいは、単発で 1 回のみ実行するよう設定することも可能です。
 * [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)に表示されます。スマートキャンペーン内の「待機」ステップ以降の処理は、この表示に表示されません。
 
-<br>
+<br> 
 
 ## トリガースマートキャンペーン {#trigger-smart-campaign}
 

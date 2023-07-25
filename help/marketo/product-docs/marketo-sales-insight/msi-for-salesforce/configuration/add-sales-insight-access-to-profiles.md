@@ -2,20 +2,21 @@
 description: Sales Insight へのアクセスをプロファイルに追加 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight へのアクセスをプロファイルに追加
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '434'
+ht-degree: 95%
 
 ---
 
 # Sales Insight へのアクセスをプロファイルに追加 {#add-sales-insight-access-to-profiles}
 
-ここでは、Sales Insight へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法を説明します。これは、[Sales Insight AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}を既にインストール済みのユーザ向けです。
+ここでは、Sales Insight へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法を説明します。これは、[Sales Insight AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を既にインストール済みのユーザー向けです。
 
 >[!IMPORTANT]
 >
->以前にすべてのプロファイルに Sales Insight へのアクセス権を付与している場合は、[プロファイルレベルのアクセスを削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;}して、この権限セットを使用する必要があります。
+>以前に Sales Insight にすべてのプロファイルへのアクセス権を付与している場合は、 [プロファイルレベルアクセスの削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} をクリックして、この権限セットを使用します。
 
 ## Sales Insight 用の新しいプロファイルの作成 {#create-a-new-profile-for-sales-insight}
 
@@ -48,7 +49,6 @@ Sales Insight ユーザ専用のプロファイルがある場合は、この手
 
    * 「タブ設定」で、Marketo タブを「タブ非表示」に変更します
    * 「カスタムオブジェクト権限」で、「Marketo Sales Insight 設定」の「読み取り」、「作成」、「編集」、「削除」チェックボックスをオフにします
-
 
 1. 終了したら「**保存**」をクリックします。
 

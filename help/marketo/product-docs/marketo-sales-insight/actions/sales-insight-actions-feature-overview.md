@@ -2,7 +2,8 @@
 description: Sales Insight Actions 機能の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 97%
@@ -130,7 +131,7 @@ MSI パネル内のタブでは、次のデータを使用できます。
 * セールスメールを送信 - 表示、クリック、返信のトラッキングを含むパーソナライズされたメールまたはテンプレート化されたメールを送信する機能
 * セールスキャンペーンを送信 - 一連のメールとタスクで構成されるセールスプレイブックにリードを追加
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 「最有望見込客」タブでは、個々のリード／取引先責任者に対して次のインラインアクションを使用できます。
 
@@ -139,7 +140,7 @@ MSI パネル内のタブでは、次のデータを使用できます。
 * セールスダイヤラー - CRM 内のダイヤラーを使用してセールス電話をかけます
 * タスクを追加 - 見込みリード向けのメール、通話、顧客、Linkedin のタスクを作成します
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **「メール」タブ**
 
@@ -160,7 +161,7 @@ MSI パネル内のタブでは、次のデータを使用できます。
 * Salesforce とのタスクの同期
 * Salesforce の「アクティビティ履歴」セクションでタスクを記録
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **ライブフィード**
 
@@ -189,4 +190,4 @@ Marketo で取り込まれたセールスアクティビティ：
 * セールスキャンペーンに追加
 * セールスキャンペーンから削除
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

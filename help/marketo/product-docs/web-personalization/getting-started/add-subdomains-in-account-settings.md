@@ -3,7 +3,8 @@ unique-page-id: 17727870
 description: アカウント設定にサブドメインを追加する — Marketo ドキュメント — 製品ドキュメント
 title: アカウント設定にサブドメインを追加する
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%

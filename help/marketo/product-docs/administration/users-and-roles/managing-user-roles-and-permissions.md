@@ -3,8 +3,9 @@ unique-page-id: 2359909
 description: ユーザのロールと権限の管理 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザのロールと権限の管理
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: ht
+feature: Users and Roles
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 100%
 

@@ -3,7 +3,8 @@ unique-page-id: 10092730
 description: プッシュ通知のプレビュー - Marketo ドキュメント - 製品ドキュメント
 title: プッシュ通知のプレビュー
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
@@ -68,4 +69,3 @@ Android と同様に、キーボードの矢印をクリックまたは使用し
 >
 >* [プッシュ通知の作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 >* [モバイルプッシュ通知の設定](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-

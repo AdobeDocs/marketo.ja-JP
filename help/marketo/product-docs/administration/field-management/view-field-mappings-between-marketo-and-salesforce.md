@@ -3,7 +3,8 @@ unique-page-id: 2360344
 description: Marketoと [!DNL Salesforce] - Marketoドキュメント — 製品ドキュメント»
 title: Marketoと [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 48%

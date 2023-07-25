@@ -3,7 +3,8 @@ unique-page-id: 14352543
 description: 誤った受信者の場所 - Marketo ドキュメント - 製品ドキュメント
 title: 誤った受信者の場所
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%

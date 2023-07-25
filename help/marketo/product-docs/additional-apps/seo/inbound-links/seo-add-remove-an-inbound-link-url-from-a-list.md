@@ -3,7 +3,8 @@ unique-page-id: 2949251
 description: SEO - リストに対するインバウンドリンク URL の追加／削除 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - リストに対するインバウンドリンク URL の追加／削除
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 94%

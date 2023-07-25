@@ -3,7 +3,8 @@ unique-page-id: 42762794
 description: Salesforce Classic での一括アクションの使用 — Marketo ドキュメント — 製品ドキュメント
 title: Salesforce Classic での一括アクションの使用
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 100%
@@ -82,4 +83,3 @@ ht-degree: 100%
 >
 >* [グループメールによるメールの送信](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
-

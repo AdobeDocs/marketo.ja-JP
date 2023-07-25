@@ -3,7 +3,8 @@ unique-page-id: 2359968
 description: レポートのタイムフレームを変更する — Marketo ドキュメント — 製品ドキュメント
 title: レポートのタイムフレームを変更する
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%

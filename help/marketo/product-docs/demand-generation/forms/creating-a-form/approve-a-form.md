@@ -3,7 +3,8 @@ unique-page-id: 2359578
 description: フォームの承認 - Marketo ドキュメント - 製品ドキュメント
 title: フォームの承認
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%

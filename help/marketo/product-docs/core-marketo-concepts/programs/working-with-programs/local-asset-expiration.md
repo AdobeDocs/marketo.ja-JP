@@ -2,8 +2,9 @@
 description: ローカルアセットの有効期限 - Marketo ドキュメント - 製品ドキュメント
 title: ローカルアセットの有効期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
-workflow-type: ht
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
 
@@ -56,7 +57,6 @@ ht-degree: 100%
 >* 既存の有効期限を編集するには、アセットを確認し、「**[!UICONTROL 有効期限を設定]**」をクリックします。
 >* 有効期限が切れたアセットは、有効期限グリッドに表示されなくなります。グリッドには、公開済みのランディングページ、アクティブなトリガーキャンペーンおよび繰り返しバッチキャンペーンのみが表示されます。
 >* アセットが別のプログラムに移動されると、スケジュールされた有効期限は削除されます。
-
 
 ## 有効期限の削除 {#remove-an-expiration-date}
 

@@ -3,7 +3,8 @@ unique-page-id: 2359793
 description: ソーシャルプロモーションでのメールの使用 - Marketo ドキュメント - 製品ドキュメント
 title: ソーシャルプロモーションでのメールの使用
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%
@@ -67,7 +68,6 @@ ht-degree: 100%
 >* **目標に応じて自動**：各参加者が目標を達成すると、フルフィルメントメールが自動的に送信されます。
 >* **手動で送信**：ユーザーが目標を達成し始めたら、紹介オファーに戻って、[フルフィルメントメールを手動で送信](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)します。
 >
-
 
 >[!MORELIKETHIS]
 >

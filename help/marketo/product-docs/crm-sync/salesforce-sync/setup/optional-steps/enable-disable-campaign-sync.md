@@ -3,7 +3,8 @@ unique-page-id: 4719289
 description: キャンペーン同期の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーン同期の有効化／無効化
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -37,4 +38,3 @@ ht-degree: 100%
 >* [SFDC 同期：キャンペーンの同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [デフォルトのリードの姓と会社の値の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
 >* [アクティビティ同期のカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
-

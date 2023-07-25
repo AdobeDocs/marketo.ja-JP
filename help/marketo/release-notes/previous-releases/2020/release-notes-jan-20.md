@@ -3,7 +3,8 @@ unique-page-id: 37355534
 description: リリースノート - 2020 年 1 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 100%
@@ -74,6 +75,5 @@ ht-degree: 100%
 >* **TLS 1.0 および 1.1 の廃止**：アドビのリリース構造との統合に向けて、TLS 1.0 および TLS 1.1 の廃止を 2020 年 1 月 13 日に移動しています。詳細は[こちら](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)をご覧ください。
 >
 >* **ITP 2.1+ Munchkin の更新**：Safari の Cookie ポリシーが変更されたので、Munchkin が同じドメインで複数のセッションをまたいでユーザを追跡する機能は、ITP によって、訪問者が使用しているブラウザーとブラウザーのバージョンに基づいて 1 日または 7 日に制限されます。これを考慮して、新しい web サービスを実装し、HTTP 応答を介して Set-Cookie ヘッダーで Munchkin の Cookie を設定できるようにしています。この新しいサービスの実装方法の詳細については、[こちら](https://nation.marketo.com/docs/DOC-7351)を参照してください。
-
 
 **_製品リリースウェビナー_**：3 月 3 日午前 11 時（PT）／午後 2 時（ET）に開催される製品チーム主催のライブウェビナーに[参加](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)して、今回のリリースに含まれる機能の詳細をご確認ください

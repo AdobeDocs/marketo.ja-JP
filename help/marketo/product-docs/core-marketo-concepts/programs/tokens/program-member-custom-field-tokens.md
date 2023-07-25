@@ -3,7 +3,8 @@ unique-page-id: 1147114
 description: プログラムメンバーカスタムフィールドトークン - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールドトークン
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 97%
@@ -25,7 +26,6 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 >* プログラムメンバーカスタムフィールドは、プログラムのコンテキストでのみ使用できます。
 >* プログラムメンバーカスタムフィールドトークンは、メールのプリヘッダー、待機ステップの日付トークン、スニペットでは使用できません。
 >* メンバートークンでは、プログラムメンバーステータスはサポートされていません。
-
 
 ## アセットでのプログラムメンバーカスタムフィールドトークンの使用 {#using-program-member-custom-field-tokens-in-assets}
 

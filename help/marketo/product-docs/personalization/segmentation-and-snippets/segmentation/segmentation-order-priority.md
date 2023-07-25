@@ -3,7 +3,8 @@ unique-page-id: 2359500
 description: セグメント化の順序の優先度 - Marketo ドキュメント - 製品ドキュメント
 title: セグメント化の順序の優先度
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
@@ -40,6 +41,5 @@ ht-degree: 100%
 >* セグメントは相互に排他的です。ユーザーは一度に 1 つのセグメントのみのメンバーになることができます。
 >* ユーザーが 2 つのセグメントに該当する場合、そのユーザーはリストの最初のセグメントにのみ属します。
 >* どのセグメントにも該当しないユーザーは、デフォルトセグメントのメンバーになります。
-
 
 便利ですね。セグメントは、動的コンテンツ、レポート、スマートリストでも使用できます。

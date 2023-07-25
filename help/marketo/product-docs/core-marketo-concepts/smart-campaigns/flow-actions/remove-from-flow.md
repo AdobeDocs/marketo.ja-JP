@@ -3,7 +3,8 @@ unique-page-id: 1147084
 description: フローからの削除 - Marketo ドキュメント - 製品ドキュメント
 title: フローからの削除
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%

@@ -3,8 +3,9 @@ unique-page-id: 11379622
 description: Facebook リード広告の設定 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%
 
@@ -83,4 +84,3 @@ ht-degree: 100%
 >* [リードアクセスマネージャー（Facebook）での権限の割り当て／削除](https://www.facebook.com/business/help/540596413257598?id=735435806665862)
 >* [スマートキャンペーンでのリード広告のフィルターとトリガーの使用](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [カスタムフィールドの Marketo へのマッピング](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-

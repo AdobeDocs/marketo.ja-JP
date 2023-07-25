@@ -3,7 +3,8 @@ unique-page-id: 2949839
 description: タブレットからイベントへの人物のチェックイン - Marketo ドキュメント - 製品ドキュメント
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 100%
@@ -20,7 +21,6 @@ iPad と Android の両方で同じように動作しますが、レイアウト
 >
 >* Marketo でイベントを作成し、招待済みの人物および登録済みの人物を設定します。
 >* [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=jp) または [iOS](https://apps.apple.com/jp/app/marketo-events/id522766637?mt=8) 用のタブレットアプリをダウンロードします。
-
 
 ## 登録ゲストのチェックイン {#check-in-registered-guests}
 

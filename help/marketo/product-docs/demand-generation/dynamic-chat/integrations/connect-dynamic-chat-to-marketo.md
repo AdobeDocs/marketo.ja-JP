@@ -2,8 +2,9 @@
 description: 動的チャットを Marketo に接続する - Marketo ドキュメント - 製品ドキュメント
 title: 動的チャットを Marketo に接続する
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 100%
 

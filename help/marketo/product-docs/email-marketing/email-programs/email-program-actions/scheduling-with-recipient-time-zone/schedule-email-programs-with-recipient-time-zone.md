@@ -3,7 +3,8 @@ unique-page-id: 12982903
 description: 受信者タイムゾーンでメールプログラムをスケジュールする - Marketo ドキュメント - 製品ドキュメント
 title: 受信者タイムゾーンでメールプログラムをスケジュールする
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 100%
@@ -36,7 +37,6 @@ ht-degree: 100%
 >* **受信者タイムゾーンで次の日に配信**：メールが火曜日の午前 9 時に送信されるようにスケジュールされている場合、スケジュールされた時間がすでに経過しているタイムゾーンに住んでいる適格なユーザーは、*水曜日*&#x200B;の午前 9 時にメールを受信します。
 >
 >* **プログラムのデフォルト設定時間を使用して配信**：メールが火曜日の午前 9 時に送信されるようにスケジュールされている場合、スケジュールされた時間が過ぎたタイムゾーンに住む適格なユーザーは&#x200B;_サブスクリプションのタイムゾーン設定に基づいて_&#x200B;メールを受信します。つまり、[配信登録タイムゾーン設定](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)が PDT 米国ロスアンゼルスに設定されている場合、これらの受信者は、引き続き火曜日の午前 9 時（自らのタイムゾーン）にメールを受け取ります。
-
 
 >[!NOTE]
 >
@@ -94,4 +94,3 @@ ht-degree: 100%
 >* [受信者タイムゾーンについて](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [メールプログラムのヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >* [受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信の中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2949865
 description: Adobe Connect を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Adobe Connect を使用したイベントの作成
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 100%
@@ -18,7 +19,6 @@ Adobe Connect と同期すると、ウェビナーへの登録と参加を Marke
 >
 >* [Adobe Connect と Marketo のリンク](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-
 
 まず、Adobe Connect でミーティングまたはセミナーを作成していることを確認します。ヘルプが必要な場合は、[Adobe Connect ユーザーガイド](https://helpx.adobe.com/jp/adobe-connect/using/user-guide.html)をご覧ください。
 
@@ -80,4 +80,3 @@ Adobe Connect で作成するミーティングとセミナーは、Marketo で�
    >
    >* [Adobe Connect を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [イベントチャネルの編集](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-

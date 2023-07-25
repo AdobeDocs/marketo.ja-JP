@@ -3,7 +3,8 @@ unique-page-id: 12980785
 description: リリースノート - 2017年8月18日 ABM の機能強化 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - ABM の機能強化（2017年8月18日）
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%

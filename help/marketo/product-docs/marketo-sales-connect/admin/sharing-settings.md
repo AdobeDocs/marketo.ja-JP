@@ -3,7 +3,8 @@ unique-page-id: 14746143
 description: 設定の共有 - Marketo ドキュメント - 製品ドキュメント
 title: 設定の共有
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
@@ -48,7 +49,7 @@ MSE または ToutApp のアカウントを最初に作成すると、設定の�
 
    >[!NOTE]
    >
-   >チームが表示されない場合は、チーム管理に移動して、ユーザーのチームを作成する必要があります。
+   >チームが表示されない場合は、チーム管理に移動して、ユーザのチームを作成する必要があります。
 
 1. 「**アクセスするチームを追加**」をクリックすると保存されます。
 

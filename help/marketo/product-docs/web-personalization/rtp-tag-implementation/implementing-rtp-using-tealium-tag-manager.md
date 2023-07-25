@@ -3,7 +3,8 @@ unique-page-id: 9437340
 description: Tealium タグマネージャーを使用した RTP の実装 — Marketo ドキュメント — 製品ドキュメント
 title: Tealium タグマネージャーを使用した RTP の実装
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%

@@ -3,7 +3,8 @@ unique-page-id: 14352451
 description: Outlook から Sales Connect をアンインストールする方法 - Marketo ドキュメント - 製品ドキュメント
 title: Outlook から Sales Connect をアンインストールする方法
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%

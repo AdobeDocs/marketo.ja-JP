@@ -2,7 +2,8 @@
 description: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >* [手順 1 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [手順 2 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 >* [手順 3 / 4：MS Dynamics でのクライアントアプリのセットアップ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
-
 
 >[!NOTE]
 >

@@ -3,7 +3,8 @@ unique-page-id: 14352447
 description: Salesforce（Office 365）へのメールの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce（Office 365）へのメールの追加
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%

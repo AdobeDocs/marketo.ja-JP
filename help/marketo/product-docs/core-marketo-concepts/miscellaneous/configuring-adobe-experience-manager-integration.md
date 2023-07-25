@@ -5,8 +5,9 @@ title: Adobe Experience Manager 統合の設定
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
-workflow-type: ht
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 100%
 
@@ -25,7 +26,6 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 >* この統合は、AEM のオンプレミス実装でのみ機能し、AEM Cloud Service 実装ではサポートされません。
 >
 >* 現在、この機能は Firefox でのみ完全にサポートされています。Safari ではサポートされていません。また、SameSite の Cookie 設定によっては、最新バージョンの Chrome では動作しない可能性があります。
-
 
 1. Adobe Experience Manager に移動します（URL は会社に固有のものです）。
 

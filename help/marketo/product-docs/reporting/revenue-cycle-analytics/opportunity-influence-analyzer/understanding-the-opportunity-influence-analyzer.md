@@ -3,7 +3,8 @@ unique-page-id: 4718648
 description: 商談の影響分析について - Marketo ドキュメント - 製品ドキュメント
 title: 商談の影響分析について
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
@@ -42,4 +43,3 @@ Marketo では、CRM ID を使用して顧客を一意に識別します。
 >
 >* [商談の影響分析でマーケティング事例を伝える](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [商談の影響分析の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-

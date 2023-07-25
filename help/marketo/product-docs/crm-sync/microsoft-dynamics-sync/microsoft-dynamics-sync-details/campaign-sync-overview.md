@@ -2,7 +2,8 @@
 description: キャンペーン同期の概要 - Marketo ドキュメント - 製品ドキュメント
 title: キャンペーン同期の概要
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%
@@ -41,4 +42,3 @@ ht-degree: 100%
 >
 >* [キャンペーン同期の有効化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
 >* [Dynamics キャンペーンでのユーザーの追加または削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-

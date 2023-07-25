@@ -3,7 +3,8 @@ unique-page-id: 8781845
 description: Marketo Moments について - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Moments について
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 100%
@@ -33,7 +34,6 @@ Moments の様々なストリームを次に示します。
 >* お気に入り：お気に入りにしたものは、ここに表示されます。
 >* 後で：今より後に起こるものはすべてここに表示されます
 >* 完了：実行が終了したか、完了とマークされたすべてがここに表示されます。
-
 
 概要を理解できたので、携帯電話で Marketo Moments を見てみましょう。
 
@@ -84,7 +84,6 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 >* 共有：チームの意欲を引き出したり、喜ばせたりするために画像を送信します。
 >* サンプルを送信（メールのみ）：これを使用して、送信前に他のユーザーがメールの内容を確認できるようにします。
 >* プレビューメール（メールのみ）：メールを事前にチェックすることは、いい考えです。
-
 
 ## 今後のモーメント {#later-moments}
 
@@ -151,4 +150,3 @@ Marketo Moments では、次のオペレーティングシステムバージョ�
 >* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [分析カードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 >* [スマートキャンペーンカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-

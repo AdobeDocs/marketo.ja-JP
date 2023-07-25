@@ -3,7 +3,8 @@ unique-page-id: 10097969
 description: フリーフォームランディングページテンプレートを作成する - Marketo ドキュメント - 製品ドキュメント
 title: フリーフォームランディングページテンプレートを作成する
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
@@ -50,4 +51,3 @@ ht-degree: 100%
    >* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [ガイド付きランディングページテンプレートの作成](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [フリーフォームとガイド付きのランディングページについて](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-

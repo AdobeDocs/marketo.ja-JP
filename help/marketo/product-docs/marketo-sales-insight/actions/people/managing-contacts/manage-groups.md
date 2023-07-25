@@ -2,10 +2,11 @@
 description: グループの管理 - Marketo ドキュメント - 製品ドキュメント
 title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -31,7 +32,7 @@ Sales Insight Actions でグループを管理する方法を説明します。
   </tr> 
   <tr> 
    <td>動的グループ</td> 
-   <td>マイ連絡先：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
+   <td>マイ連絡先：所有しているすべての連絡先。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
   </tr> 
   <tr> 
    <td>マイグループ</td> 

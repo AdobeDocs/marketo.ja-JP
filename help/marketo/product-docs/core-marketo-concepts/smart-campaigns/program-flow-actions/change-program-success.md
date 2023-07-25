@@ -3,7 +3,8 @@ unique-page-id: 1147009
 description: プログラムの成功を変更 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムの成功を変更
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%

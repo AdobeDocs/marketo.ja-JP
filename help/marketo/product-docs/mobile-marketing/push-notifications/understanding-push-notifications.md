@@ -3,7 +3,8 @@ unique-page-id: 7511518
 description: プッシュ通知について - Marketo ドキュメント - 製品ドキュメント
 title: プッシュ通知について
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 100%
@@ -40,4 +41,3 @@ Marketo Admin とモバイルアプリの開発者が連携して設定をおこ
 >
 >* アプリが少なくとも 1 回開かれるまで、プッシュ通知は画面に表示されません。
 >* iOS アプリの場合、プッシュメッセージを受信するように指定されたアプリケーションが開いていてアクティブな場合、プッシュ通知は画面に表示されません。代わりに、アプリのローカル通知領域にメッセージが表示されます。
-

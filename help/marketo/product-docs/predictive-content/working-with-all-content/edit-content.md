@@ -3,7 +3,8 @@ unique-page-id: 11384653
 description: コンテンツの編集 - Marketo ドキュメント - 製品ドキュメント
 title: コンテンツの編集
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%

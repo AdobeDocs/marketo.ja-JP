@@ -3,8 +3,9 @@ unique-page-id: 2949243
 description: SEO - キーワード表示に対する列の追加／削除 - Marketo ドキュメント - 製品ドキュメント
 title: SEO - キーワード表示に対する列の追加／削除
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
-workflow-type: ht
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 

@@ -3,7 +3,8 @@ unique-page-id: 1900585
 description: メールテンプレート v1.0 に編集可能なセクションを追加する - Marketo ドキュメント - 製品ドキュメント
 title: メールテンプレート v1.0 に編集可能なセクションを追加する
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%

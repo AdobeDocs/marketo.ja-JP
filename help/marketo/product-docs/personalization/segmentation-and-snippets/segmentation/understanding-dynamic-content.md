@@ -3,7 +3,8 @@ unique-page-id: 2953417
 description: 動的コンテンツについて - Marketo ドキュメント - 製品ドキュメント
 title: 動的コンテンツについて
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Dynamic Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
@@ -47,11 +48,9 @@ ht-degree: 100%
 >* スニペットはメールの署名として使用できます。受信者の場所に応じて、テキストを動的に変更します。
 >* ランディングページには、顧客と見込み客でリンクが異なる標準のコールトゥアクション領域があります。数百の LP を一元的に更新できます。
 
-
 ぜひ、成功事例をお聞かせください。
 
 >[!MORELIKETHIS]
 >
 >* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [スニペットの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-

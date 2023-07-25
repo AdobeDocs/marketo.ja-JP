@@ -3,7 +3,8 @@ unique-page-id: 14352484
 description: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce に接続するf際の「リクエストを認証できませんでした」の修正方法
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%

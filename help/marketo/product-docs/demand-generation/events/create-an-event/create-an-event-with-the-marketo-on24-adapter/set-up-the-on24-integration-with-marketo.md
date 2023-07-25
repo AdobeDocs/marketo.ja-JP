@@ -2,9 +2,10 @@
 description: ON24 とMarketoの統合の設定 — Marketoドキュメント — 製品ドキュメント
 title: Marketo との ON24 統合の設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
-source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 16%
 
 ---
@@ -83,4 +84,4 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 保存したクライアント ID、クライアントの秘密鍵、ID を使用して、ON24 アカウントに移動します。 残りの手順は、ここで実行され、以下が実行されます。 [概要](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target=&quot;_blank&quot;}。
+1. 保存したクライアント ID、クライアントの秘密鍵、ID を使用して、ON24 アカウントに移動します。 残りの手順は、ここで実行され、以下が実行されます。 [概要](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.

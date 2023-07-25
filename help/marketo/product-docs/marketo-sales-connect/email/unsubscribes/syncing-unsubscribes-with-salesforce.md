@@ -3,7 +3,8 @@ unique-page-id: 14746188
 description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce との配信停止の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
-source-git-commit: bcfaab258b0b10d271debc2d5521f2a995aa6aed
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 96%

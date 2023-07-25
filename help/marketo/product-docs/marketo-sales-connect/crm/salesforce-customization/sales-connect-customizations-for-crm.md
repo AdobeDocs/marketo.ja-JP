@@ -3,8 +3,9 @@ unique-page-id: 14745793
 description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
-workflow-type: ht
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '735'
 ht-degree: 100%
 

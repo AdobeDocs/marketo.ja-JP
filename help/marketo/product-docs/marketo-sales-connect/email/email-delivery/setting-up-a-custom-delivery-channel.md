@@ -3,7 +3,8 @@ unique-page-id: 14746470
 description: カスタム配信チャネルの設定 - Marketo ドキュメント - 製品ドキュメント
 title: カスタム配信チャネルの設定
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 100%
@@ -21,7 +22,6 @@ Marketo Sales Connect を使用すると、カスタム SMTP サーバーを統�
 >* SMTP サーバーの設定に加えて、メールを送信する前に[メール ID を検証](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)する必要があります。
 >* お使いの SMTP サーバーに適したサーバー資格情報を取得するには、IT チームまたは SMTP サーバーのベンダーと協力することをお勧めします。
 >* SMTP サーバーの資格情報を使用して Gmail サーバーと Exchange サーバーに接続することはできません。これらのプロバイダーとの統合には、アドビのメール接続サービスをご利用ください。
-
 
 ## カスタム SMTP {#custom-smtp}
 
@@ -96,4 +96,3 @@ Marketo Sales Connect を使用すると、カスタム SMTP サーバーを統�
    >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [Outlook ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

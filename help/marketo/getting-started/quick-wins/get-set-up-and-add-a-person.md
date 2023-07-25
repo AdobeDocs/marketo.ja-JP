@@ -3,7 +3,8 @@ unique-page-id: 2359351
 description: セットアップと人物の追加 - Marketo ドキュメント - 製品ドキュメント
 title: セットアップと人物の追加
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 87%

@@ -3,7 +3,8 @@ unique-page-id: 2359478
 description: メールリンク効果レポート - Marketo ドキュメント - 製品ドキュメント
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
-source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
@@ -83,4 +84,3 @@ ht-degree: 100%
 >
 >* [メールの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 >* [メールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-

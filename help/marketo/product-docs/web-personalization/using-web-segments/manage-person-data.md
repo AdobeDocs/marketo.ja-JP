@@ -3,7 +3,8 @@ unique-page-id: 7504051
 description: リードデータの管理 - Marketo ドキュメント - 製品ドキュメント
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
@@ -47,7 +48,6 @@ ht-degree: 100%
    >* 新規フィールドを追加した場合、アクティベーションには最大で 24 時間かかります
    >* 文字列タイプの上限は 255 文字です
    >* 非表示のフィールドは自動的に削除されます
-
 
 <table> 
  <tbody> 

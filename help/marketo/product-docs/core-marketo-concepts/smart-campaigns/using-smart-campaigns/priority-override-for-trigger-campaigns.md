@@ -2,7 +2,8 @@
 description: トリガーキャンペーンの優先度の上書き - Marketo ドキュメント - 製品ドキュメント
 title: トリガーキャンペーンの優先度の上書き
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
@@ -58,4 +59,3 @@ ht-degree: 100%
 >* キャンペーンのデフォルトの優先度は、[!UICONTROL マーケティング活動]の[!UICONTROL キャンペーンキュー]で確認できます。実行レートを上げるには、キャンペーンの優先順位をデフォルトより 1 レベル高く設定することをお勧めします。
 >* ユーザ設定の優先度は、キャンペーンの条件を満たす新しい人物にのみ適用されます。既にキューに入っている人物は影響を受けません。
 >* 優先度の上書きは、[監査証跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)によって取得されます。
-

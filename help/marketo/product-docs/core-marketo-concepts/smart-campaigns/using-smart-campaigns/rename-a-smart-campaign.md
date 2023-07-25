@@ -3,8 +3,9 @@ unique-page-id: 1147049
 description: スマートキャンペーンの名前の変更 - Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーン名の変更
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 

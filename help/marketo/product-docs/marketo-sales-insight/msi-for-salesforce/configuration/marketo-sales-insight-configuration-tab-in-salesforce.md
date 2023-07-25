@@ -3,9 +3,10 @@ unique-page-id: 42762322
 description: Salesforce の Marketo Sales Insight 設定タブ - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce の Marketo Sales Insight 設定タブ
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '599'
 ht-degree: 100%
 
 ---
@@ -74,4 +75,4 @@ SFDC で Sales Insight を使用するには、この設定が必要です。
 
 >[!MORELIKETHIS]
 >
->[Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
+>[Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

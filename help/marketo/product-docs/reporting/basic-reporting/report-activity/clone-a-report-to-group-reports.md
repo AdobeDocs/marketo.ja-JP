@@ -3,7 +3,8 @@ unique-page-id: 7512105
 description: レポートをグループレポートにクローンする - Marketo ドキュメント - 製品ドキュメント
 title: レポートをグループレポートにクローンする
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%

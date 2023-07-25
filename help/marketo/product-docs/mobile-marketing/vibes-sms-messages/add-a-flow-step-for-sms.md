@@ -3,7 +3,8 @@ unique-page-id: 11379045
 description: SMS のフローステップの追加 - Marketo ドキュメント - 製品ドキュメント
 title: SMS のフローステップの追加
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
@@ -24,7 +25,6 @@ Marketo には、SMS スマートキャンペーンで使用できる 3 つの�
 >
 >* Marketo は電話番号によって重複排除をおこないます。したがって、複数のユーザーが同じ電話番号を持っている場合、1 人だけがメッセージを受信します。
 >* メッセージはブロックリストに登録されたリードやマーケティングが中断されたリードには送信されません。
-
 
 フローステップの設定に関する一般的な情報については、[スマートキャンペーンにフローステップを追加する](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を参照してください。
 

@@ -3,16 +3,17 @@ unique-page-id: 37357050
 description: MSI パッケージのアップグレード - Marketo ドキュメント - 製品ドキュメント
 title: MSI パッケージのアップグレード
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 96%
 
 ---
 
 # MSI パッケージのアップグレード {#upgrading-your-msi-package}
 
-1. [appexchange のこのページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target=&quot;_blank&quot;}に移動します。
+1. に移動します。 [appexchange のこのページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
 1. 手順 1 のページの右上隅にある Salesforce インスタンス（Marketo インスタンスに接続されているものは、サンドボックスまたは実稼動）にログインします。Salesforce で管理パッケージをインストール／アップグレードするには、管理者権限が必要です。
 
@@ -28,4 +29,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->管理者のみに対してパッケージを更新し、購入した MSI シート数に基づいて[特定のユーザにアクセスを提供](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}することをお勧めします。または、MSI ユーザ用の特定の Salesforce プロファイルを作成し、そのユーザ用のパッケージのみをインストールまたはアップグレードすることもできます。
+>管理者のみに対してパッケージを更新し、購入した MSI シート数に基づいて[特定のユーザーにアクセスを提供](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}することをお勧めします。または、MSI ユーザー用の特定の Salesforce プロファイルを作成し、そのユーザー用のパッケージのみをインストールまたはアップグレードすることもできます。

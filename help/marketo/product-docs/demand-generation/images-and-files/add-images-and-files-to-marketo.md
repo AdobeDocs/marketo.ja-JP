@@ -3,7 +3,8 @@ unique-page-id: 2359858
 description: 画像とファイルを Marketo に追加 - Marketo ドキュメント - 製品ドキュメント
 title: 画像とファイルを Marketo に追加
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%

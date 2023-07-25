@@ -3,8 +3,9 @@ unique-page-id: 11377958
 description: ユーザログイン履歴 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
-workflow-type: ht
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
 

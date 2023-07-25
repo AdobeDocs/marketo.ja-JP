@@ -2,8 +2,9 @@
 description: 初期設定 - Marketo ドキュメント - 製品ドキュメント
 title: 初期設定
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 

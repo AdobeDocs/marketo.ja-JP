@@ -3,7 +3,8 @@ unique-page-id: 3571844
 description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメント - 製品ドキュメント
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
-source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%

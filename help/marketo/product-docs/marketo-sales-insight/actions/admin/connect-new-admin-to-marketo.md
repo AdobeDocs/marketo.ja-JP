@@ -2,7 +2,8 @@
 description: 新規管理者を Marketo に接続 — Marketo ドキュメント — 製品ドキュメント
 title: 新規管理者を Marketo に接続
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 100%

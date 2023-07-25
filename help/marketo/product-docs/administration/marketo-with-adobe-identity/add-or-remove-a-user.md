@@ -2,7 +2,8 @@
 description: ユーザの追加または削除 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザの追加または削除
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 86%
@@ -29,11 +30,11 @@ ht-degree: 86%
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 「**[!UICONTROL ユーザを追加]**」ボタンをクリックします。
+1. 「**[!UICONTROL ユーザーを追加]**」ボタンをクリックします。
 
    ![](assets/add-or-remove-a-user-5.png)
 
-1. 追加するユーザの名前、ユーザグループ、メールアドレスを入力します。姓と名はオプションです。
+1. 追加するユーザーの名前、ユーザーグループ、メールアドレスを入力します。姓と名はオプションです。
 
    ![](assets/add-or-remove-a-user-6.png)
 
@@ -86,4 +87,4 @@ Marketo Engage にログインするためのメールがユーザに送信さ�
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
->* [ユーザを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -2,9 +2,10 @@
 description: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除 - Marketo ドキュメント - 製品ドキュメント
 title: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 100%
 
 ---
@@ -57,4 +58,4 @@ Marketo Engage は、Veeva カスタムオブジェクト同期を特定の方�
 
 >[!MORELIKETHIS]
 >
->[カスタムオブジェクト同期の有効化／無効化](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target=&quot;_blank&quot;}
+>[カスタムオブジェクト同期の有効化／無効化](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}

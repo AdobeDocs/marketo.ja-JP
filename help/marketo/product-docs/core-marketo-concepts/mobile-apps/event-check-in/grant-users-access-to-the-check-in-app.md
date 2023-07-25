@@ -3,7 +3,8 @@ unique-page-id: 7516639
 description: チェックインアプリに対するアクセス権をユーザーに付与する - Marketo ドキュメント - 製品ドキュメント
 title: チェックインアプリに対するアクセス権をユーザーに付与する
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 100%

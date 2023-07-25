@@ -3,9 +3,10 @@ unique-page-id: 11385020
 description: メールの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
 title: メールの予測コンテンツを有効にする
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '387'
 ht-degree: 100%
 
 ---
@@ -29,7 +30,6 @@ ht-degree: 100%
 >   * [レコメンデーションバーの予測コンテンツの編集](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
 >* [予測コンテンツのタイトルの承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
-
 
 ## メール 2.0 エディターを使用した予測コンテンツの追加 {#adding-predictive-content-using-the-email-editor}
 

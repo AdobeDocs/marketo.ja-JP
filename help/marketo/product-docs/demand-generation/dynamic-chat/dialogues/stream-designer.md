@@ -2,8 +2,9 @@
 description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
 title: ストリームデザイナー
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 100%
 
@@ -199,4 +200,3 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 >* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [ドキュメントカードの使用](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

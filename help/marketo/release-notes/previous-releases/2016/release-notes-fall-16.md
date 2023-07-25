@@ -3,8 +3,9 @@ unique-page-id: 11384018
 description: リリースノート - 2016年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 100%
 
@@ -76,7 +77,6 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 >
 >* デバイスの所有者は、デバイス設定でサウンドが再生されるのを防ぐことを選択できます。また、アプリデベロッパーは、アプリ内でデバイスの所有者に対して、サウンドが再生されないようにするオプションを提供できます。
 >* Android デバイスにプッシュ通知が表示されると、サウンドが自動的に再生されます。
-
 
 ![](assets/sound-for-push-notifications.png)
 

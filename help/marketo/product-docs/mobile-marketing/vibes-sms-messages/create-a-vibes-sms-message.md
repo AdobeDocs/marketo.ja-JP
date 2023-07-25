@@ -3,8 +3,9 @@ unique-page-id: 11378869
 description: Vibes SMS メッセージの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Vibes SMS メッセージの作成
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 100%
 

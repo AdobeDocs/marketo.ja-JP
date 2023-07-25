@@ -2,10 +2,11 @@
 description: 目標のトラッキングと予測登録について - Marketo ドキュメント - 製品ドキュメント
 title: 目標のトラッキングと予測登録について
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '988'
-ht-degree: 100%
+source-wordcount: '986'
+ht-degree: 98%
 
 ---
 
@@ -15,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->これらの機能の大部分にアクセスするには、イベントプログラムの[次世代切替スイッチ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}を有効にします。
+>これらの機能の大部分にアクセスするには、必ず [次世代トグル](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} イベントプログラムの
 
 >[!NOTE]
 >
@@ -64,7 +65,7 @@ ht-degree: 100%
 * イベント作成からイベント開始までの期間
 * イベント期間
 
-   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
+  ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## レコメンデーション
 

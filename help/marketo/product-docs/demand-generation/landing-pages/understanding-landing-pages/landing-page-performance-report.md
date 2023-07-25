@@ -3,7 +3,8 @@ unique-page-id: 2359713
 description: ランディングページの効果レポート - Marketo ドキュメント - 製品ドキュメント
 title: ランディングページ効果レポート
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
-source-git-commit: 9692cb9cf3fa2f3390c3804bde9030d88cd483ae
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 80%

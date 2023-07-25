@@ -2,10 +2,11 @@
 description: リリースノート - 2022年3月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '771'
-ht-degree: 100%
+source-wordcount: '765'
+ht-degree: 92%
 
 ---
 
@@ -23,9 +24,9 @@ ht-degree: 100%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **動的チャット**：リードとアカウントの両方をターゲットして、積極的に、魅力的で 1 対 1 のパーソナライズされた会話によって、web サイト上のあらゆる機会を最大化します。[動的チャット](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;}を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **動的チャット**：リードとアカウントの両方をターゲットして、積極的に、魅力的で 1 対 1 のパーソナライズされた会話によって、web サイト上のあらゆる機会を最大化します。[Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engageユーザーは、B2B マーケティングおよびセールスの使用例に対して、統合されたクロスチャネルエクスペリエンスの主要な部分としてチャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
-* **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}を機能強化し、ボットとして識別されるアクティビティの記録をオプトインできるようになりました。ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
+* **メールボットアクティビティフィルタリングの機能強化**:以前にリリースしたの機能強化として [メールボットアクティビティフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 機能のオプトイン時に、ボットとして識別されるログアクティビティをオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
 ## 次世代エクスペリエンス {#modern-ux}
 
@@ -77,4 +78,4 @@ ht-degree: 100%
 
 **_製品リリースウェビナー_**
 
-[2022年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[2022年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

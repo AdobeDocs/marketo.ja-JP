@@ -3,7 +3,8 @@ unique-page-id: 27656223
 description: Professional Edition 顧客向け Salesforce カスタマイズのインストール - Marketo ドキュメント - 製品ドキュメント
 title: Professional Edition 顧客向け Salesforce カスタマイズのインストール
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
@@ -18,7 +19,6 @@ Salesforce Professional Edition を使用している顧客は、カスタマイ
 >
 >* Sales Connect 管理者は、Salesforce アカウントと Sales Connect アカウントを連携する必要があります。
 >* 使用する Salesforce インスタンスには、13 個のカスタムアクティビティフィールドをインストールするための領域が必要です。
-
 
 ## インストール {#installation}
 

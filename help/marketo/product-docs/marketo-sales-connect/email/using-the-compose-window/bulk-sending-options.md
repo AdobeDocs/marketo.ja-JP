@@ -3,7 +3,8 @@ unique-page-id: 37356575
 description: 一括送信オプション - Marketo ドキュメント - 製品ドキュメント
 title: 一括送信オプション
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 100%
@@ -65,4 +66,3 @@ ht-degree: 100%
 >
 >* [「選択して送信」による一括メールの作成](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [グループメールによるメールの送信](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
-

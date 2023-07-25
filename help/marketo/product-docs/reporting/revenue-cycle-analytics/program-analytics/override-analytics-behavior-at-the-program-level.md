@@ -3,7 +3,8 @@ unique-page-id: 2360421
 description: プログラムレベルでの分析動作の上書き - Marketo ドキュメント - 製品ドキュメント
 title: プログラムレベルでの分析動作の上書き
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
@@ -34,7 +35,6 @@ ht-degree: 100%
    >
    >* **包含** - このオプションを使用すると、期間原価が含まれているかどうかに関係なく、収益エクスプローラーおよびアナライザーでプログラムをレポートに表示できます。
    >* **オペレーショナル** - このオプションを選択すると、プログラムが収益エクスプローラーまたはアナライザーに表示されなくなります。
-
 
    >[!NOTE]
    >

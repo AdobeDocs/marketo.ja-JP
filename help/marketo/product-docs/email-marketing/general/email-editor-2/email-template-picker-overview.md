@@ -3,7 +3,8 @@ unique-page-id: 10912237
 description: メールテンプレート選択ツールの概要 - Marketo ドキュメント - 製品ドキュメント
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
-source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
@@ -66,4 +67,3 @@ Design Studio ツリーのメール／テンプレートに表示されるすべ
 >
 >* [メールテンプレートの構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [メールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-

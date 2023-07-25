@@ -2,8 +2,9 @@
 description: オーディエンス条件 - Marketo ドキュメント - 製品ドキュメント
 title: オーディエンス条件
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 100%
 
@@ -129,4 +130,3 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
 >* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
 >* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
 >* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-

@@ -3,7 +3,8 @@ unique-page-id: 2359646
 description: フォームのプログレッシブプロファイリングの設定 - Marketo ドキュメント - 製品ドキュメント
 title: フォームのプログレッシブプロファイリングの設定
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 100%
@@ -84,7 +85,6 @@ ht-degree: 100%
    >* 姓（事前入力済み）
    >* メールアドレス（事前入力済み）
    >* 国（空）
-
 
 1. 「**終了**」をクリックします。
 

@@ -3,7 +3,8 @@ unique-page-id: 2359734
 description: 動的コンテンツを含むランディングページのプレビュー — Marketo ドキュメント — 製品ドキュメント
 title: 動的コンテンツを含むランディングページのプレビュー
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [ランディングページでの動的コンテンツの使用](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [ランディングページのプレビュー](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
 
 1. ランディングページを選択して、「**ページのプレビュー**」をクリックします。
 

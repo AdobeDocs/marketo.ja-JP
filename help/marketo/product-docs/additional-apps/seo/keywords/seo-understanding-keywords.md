@@ -3,7 +3,8 @@ unique-page-id: 2949182
 description: SEO - キーワードについて - Marketo ドキュメント - 製品ドキュメント
 title: SEO - キーワードについて
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 78%
@@ -63,4 +64,3 @@ ht-degree: 78%
 >
 >* [ページについて](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
 >* [インバウンドリンクについて](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-

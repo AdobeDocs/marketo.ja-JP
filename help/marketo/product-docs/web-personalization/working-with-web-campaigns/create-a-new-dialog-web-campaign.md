@@ -3,7 +3,8 @@ unique-page-id: 4719398
 description: ダイアログ web キャンペーンの新規作成 - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログ web キャンペーンの新規作成
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 100%
@@ -161,4 +162,3 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
 >
 >* [RTP ゾーン内キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [RTP ウィジェットキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

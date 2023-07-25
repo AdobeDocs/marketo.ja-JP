@@ -3,7 +3,8 @@ unique-page-id: 2950561
 description: カスタムイベントのコンバージョンスクリプト — Marketo ドキュメント — 製品ドキュメント
 title: カスタムイベントのコンバージョンスクリプト
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
@@ -59,4 +60,3 @@ ht-degree: 100%
 >* [紹介オファーの目標の指定](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [紹介オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [Web サイトへのソーシャルのデプロイ](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
-

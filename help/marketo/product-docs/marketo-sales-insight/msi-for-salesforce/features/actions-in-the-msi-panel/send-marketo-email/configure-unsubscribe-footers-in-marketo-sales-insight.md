@@ -3,7 +3,8 @@ unique-page-id: 2953373
 description: Marketo Sales Insight の配信停止フッターの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の配信停止フッターの設定
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 100%

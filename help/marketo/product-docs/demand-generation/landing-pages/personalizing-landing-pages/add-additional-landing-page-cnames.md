@@ -3,8 +3,9 @@ unique-page-id: 2359798
 description: 付加的なランディングページ CNAME の追加 - Marketo ドキュメント - 製品ドキュメント
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
-workflow-type: ht
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
 

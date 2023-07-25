@@ -3,7 +3,8 @@ unique-page-id: 2359815
 description: パーソナライズされた URL を含むリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -16,7 +17,6 @@ ht-degree: 100%
 >
 >* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
-
 
 1. リストまたはスマートリストを選択し、「**リード**」タブをクリックして結果を取得し、excel アイコンをクリックします。インライン：**Marketo の一意のコード**&#x200B;と **Marketo の一意の名前**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
 

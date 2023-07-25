@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: ReST API で使用するカスタムサービスの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
@@ -19,7 +20,6 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 >* [API 専用ユーザのロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [API 専用ユーザの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

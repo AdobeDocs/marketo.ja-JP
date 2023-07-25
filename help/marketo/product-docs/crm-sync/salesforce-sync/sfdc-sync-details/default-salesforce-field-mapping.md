@@ -3,7 +3,8 @@ unique-page-id: 4719314
 description: デフォルトの Salesforce フィールドマッピング — Marketo ドキュメント — 製品ドキュメント
 title: デフォルトの Salesforce フィールドマッピング
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 100%

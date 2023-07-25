@@ -2,16 +2,17 @@
 description: reCAPTCHA v3 の設定 - Marketo ドキュメント - 製品ドキュメント
 title: reCAPTCHA v3 の設定
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 100%
+source-wordcount: '353'
+ht-degree: 86%
 
 ---
 
 # reCAPTCHA v3 の設定 {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへのチャレンジを使用せずに、フォーム送信の疑わしさを評価するストレスフリーのエクスペリエンスです。[詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}。
+ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへのチャレンジを使用せずに、フォーム送信の疑わしさを評価するストレスフリーのエクスペリエンスです。[詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## データセンターと Munchkin ID の取得 {#retrieve-your-data-center-and-munchkin-id}
 
@@ -33,7 +34,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
 次の手順は、Marketo の外部で実行します。
 
-1. [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;}に移動し、v3 Admin Console をクリックします。
+1. に移動します。 [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} 「v3Admin Console」をクリックします。
 
 1. Google アカウントでログイン／サインアップします。
 
@@ -67,7 +68,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
 >[!IMPORTANT]
 >
->これらの手順に従い、[最初の Marketo フォームで CAPTCHA を有効](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}にした後は、reCAPTCHA 設定に誤りがあるとフォームが壊れる可能性があるので、すぐにフォームをテストしてください。
+>次の手順と [最初のMarketoフォームで CAPTCHA を有効にする](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}reCAPTCHA の設定に誤りがあるとフォームが壊れる場合があるので、必ずすぐにフォームをテストしてください。
 
 1. Marketo で、「**管理者**」をクリックします。
 

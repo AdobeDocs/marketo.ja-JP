@@ -2,7 +2,8 @@
 description: Sales Insight Actions に取引先責任者がプッシュされない理由- Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions に取引先責任者がプッシュされない理由
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%

@@ -3,7 +3,8 @@ unique-page-id: 8781988
 description: 分析カードについて - Marketo ドキュメント - 製品ドキュメント
 title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -63,4 +64,3 @@ ht-degree: 100%
 >* [Marketo Moments について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [メールプログラムカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
-

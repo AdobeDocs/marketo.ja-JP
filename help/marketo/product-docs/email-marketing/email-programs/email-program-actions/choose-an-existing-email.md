@@ -3,7 +3,8 @@ unique-page-id: 2359451
 description: 既存のメールを選択する - Marketo ドキュメント - 製品ドキュメント
 title: 既存のメールを選択する
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
@@ -16,7 +17,6 @@ ht-degree: 100%
 >
 >* [メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [スマートリストを使用してオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)または[リストをインポートしてオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
 
 [メールプログラムを作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)してオーディエンスを定義したら、どのようなメールを送信するかを決定します。メールプログラム内で[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するか、既存のメールから選択することができます。既存のメールを選ぶ方法は次の通りです。
 
@@ -46,4 +46,3 @@ ht-degree: 100%
 >
 >* [A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >* [メールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 8781911
 description: メールプログラムカードについて - Marketo ドキュメント - 製品ドキュメント
 title: メールプログラムカードについて
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 100%
@@ -117,4 +118,3 @@ ht-degree: 100%
 >* [Marketo Moments について](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [イベントカードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [分析カードについて](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
-

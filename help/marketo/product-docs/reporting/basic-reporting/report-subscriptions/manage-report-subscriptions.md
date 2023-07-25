@@ -3,7 +3,8 @@ unique-page-id: 2359991
 description: レポート購読の管理 - Marketo ドキュメント - 製品ドキュメント
 title: レポート購読の管理
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 100%
@@ -41,7 +42,6 @@ ht-degree: 100%
    >* メールアドレス間にコンマを使用します。
    >* 編集内容を保存するには、購読リストの&#x200B;_外_&#x200B;の領域をクリックします。
 
-
    また、次のこともできます。
 
    * 「**表示**」ボタンをクリックして、レポートを開く。
@@ -62,4 +62,3 @@ ht-degree: 100%
    >
    >* [基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
    >* [売上高エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

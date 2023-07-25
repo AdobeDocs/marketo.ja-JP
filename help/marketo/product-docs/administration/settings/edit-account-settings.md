@@ -3,8 +3,9 @@ unique-page-id: 4719071
 description: アカウント設定の編集 - Marketo ドキュメント - 製品ドキュメント
 title: アカウント設定の編集
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: ht
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 

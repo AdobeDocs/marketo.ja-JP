@@ -3,7 +3,8 @@ unique-page-id: 1147031
 description: SFDC から顧客を削除 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC から顧客を削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%

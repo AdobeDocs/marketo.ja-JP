@@ -3,7 +3,8 @@ unique-page-id: 1146960
 description: データ値の変更 - Marketo ドキュメント - 製品ドキュメント
 title: データ値の変更
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
@@ -44,4 +45,3 @@ Marketo を使用して、フィールドの値を更新できます。更新す
    >
    >* [フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
    >* [フィールドへのデータ追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

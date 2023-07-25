@@ -3,7 +3,8 @@ unique-page-id: 11384433
 description: アカウントチームのセットアップ — Marketoドキュメント — 製品ドキュメント
 title: アカウントチームの設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 100%
@@ -51,4 +52,3 @@ ht-degree: 100%
    >* 異なるアカウント所有者を持つ複数の CRM アカウントが重点顧客にマージされると、Marketoは「アカウント所有者」を 1 つ選択し、他のアカウント所有者を「アカウント共有者」として追加します
    >
    >* CRM の「役割」フィールドが後で名前変更または削除された場合、Marketo TAM は、ユーザーが TAM で設定を手動で更新するまで、更新された値の同期を停止します
-

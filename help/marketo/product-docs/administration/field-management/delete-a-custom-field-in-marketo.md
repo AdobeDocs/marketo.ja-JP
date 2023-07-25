@@ -3,8 +3,9 @@ unique-page-id: 2360339
 description: Marketo でのカスタムフィールドの削除 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo でのカスタムフィールドの削除
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: ht
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

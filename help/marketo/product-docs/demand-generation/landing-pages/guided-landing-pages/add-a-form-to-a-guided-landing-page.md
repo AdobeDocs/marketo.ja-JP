@@ -3,7 +3,8 @@ unique-page-id: 7515107
 description: ガイド付きランディングページにフォームを追加する - Marketo ドキュメント - 製品ドキュメント
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%

@@ -3,7 +3,8 @@ unique-page-id: 2359455
 description: メールプログラムのスケジュールを設定する — Marketo ドキュメント — 製品ドキュメント
 title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >* [スマートリストを使用してオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)または[リストをインポートしてオーディエンスを定義する](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [既存のメールを選択する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)または[新規メールを作成する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 メールプログラムを作成してオーディエンスを定義し、メールを選択したら、プログラムに&#x200B;*いつ*&#x200B;メールを送信するかを伝える必要があります。手順は以下のとおりです。
 
@@ -48,4 +48,3 @@ ht-degree: 100%
 >
 >* [受信者タイムゾーンを使用したメールプログラムのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [メールプログラムのヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-

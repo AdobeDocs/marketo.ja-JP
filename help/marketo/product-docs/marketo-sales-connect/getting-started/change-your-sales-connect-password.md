@@ -2,7 +2,8 @@
 description: Sales Connect のパスワードの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Connect のパスワードの変更
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
@@ -35,7 +36,6 @@ ht-degree: 100%
 >* 大文字と小文字を混在させる
 >* 数値を含める
 >* 特殊文字を使用する
-
 
 ## サインアウト中のパスワード変更 {#change-your-password-while-signed-out}
 

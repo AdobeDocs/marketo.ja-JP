@@ -3,7 +3,8 @@ unique-page-id: 11382858
 description: 広告ネットワーク統合について - Marketo ドキュメント - 製品ドキュメント
 title: 広告ネットワーク統合について
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
@@ -49,7 +50,7 @@ ht-degree: 100%
 * [Facebook オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 * [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-|  | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
+|   | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
 |---|---|---|---|
 | ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
 | ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |

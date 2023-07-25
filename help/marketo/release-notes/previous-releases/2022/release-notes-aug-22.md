@@ -2,10 +2,11 @@
 description: リリースノート - 2022 年 8 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 8 月
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 13%
+source-wordcount: '530'
+ht-degree: 17%
 
 ---
 
@@ -21,11 +22,11 @@ ht-degree: 13%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **[Dynamic Chat のすべての公開済みダイアログを一度に有効化/無効化](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**:ボタンを押しながら、設定ページから一度にすべての公開済みダイアログをグローバルに有効化/無効化します。
+* **[すべての公開済みダイアログを一度にDynamic Chat/無効にする](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**:ボタンを押しながら、設定ページから一度にすべての公開済みダイアログをグローバルに有効化/無効化します。
 
-* **[ダイナミックチャットのカスタムアバター](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**:カスタムチャットボットアバターをアップロードして、ブランドに合わせてパーソナライズできるようにします。
+* **[Dynamic Chatのカスタムアバター](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**:カスタムチャットボットアバターをアップロードして、ブランドに合わせてパーソナライズできるようにします。
 
-* **ダイナミックチャットのチャットのトランスクリプト**:各会話のチャット記録を表示して、各 Web 訪問者が興味を持っている内容に関する深いインサイトを得ます。
+* **Dynamic Chatのチャットの記録**:各会話のチャット記録を表示して、各 Web 訪問者が興味を持っている内容に関する深いインサイトを得ます。
 
 ## 次世代のエクスペリエンス
 
@@ -33,7 +34,7 @@ ht-degree: 13%
 
 * **移動ダイアログで宛先フォルダのフォルダ階層を表示する**:各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに配置される可能性が低くなります。
 
-* **[次世代のエクスペリエンスの画面の更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**:次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を提供する、新しい画面を追加で提供しています。
+* **[次世代エクスペリエンスのための画面の更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
    * スニペットの詳細
    * 「画像とファイル」の詳細
@@ -44,13 +45,13 @@ ht-degree: 13%
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
-* **[セルフサービスフローステップ — プログラムインポートの強化](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**:同じサービスプロバイダーの複数のインスタンスを使用できるようになったカスタムフローステップを含むプログラムのインポートのサポートが改善されました。また、これらのサービスプロバイダーと互換性のあるフローステップを含むプログラムのインポートも可能です。
+* **[セルフサービスフローステップ — プログラムインポートの強化](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**:同じサービスプロバイダーの複数のインスタンスを使用できるようになったカスタムフローステップを含むプログラムのインポートのサポートが改善されました。また、これらのサービスプロバイダーと互換性のあるフローステップを含むプログラムのインポートも可能です。
 
 * **Munchkin — 拡張されたリンクトラッキング**:追跡のサポートを拡張 `tel` および `mailto` Munchkin とのリンクを使用して、拡張された一連の Web 動作を追跡します。
 
 * **Webhook カスタムヘッダーの表示**:Webhook カスタムヘッダーが、可視性を高めるために、管理者/「Webhook」タブに表示されるようになりました。
 
-* **CAPTCHA**:フォーム送信の有効性の評価 [reCAPTCHA v3 の使用](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} で受信フォームトラフィックにスコアを付けます。 疑わしいボットトラフィックを自動的に除外、強制隔離、削除するマーケティングワークフローを構築します。
+* **CAPTCHA**:フォーム送信の有効性の評価 [reCAPTCHA v3 の使用](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} 受信フォームトラフィックをスコアリングします。 疑わしいボットトラフィックを自動的に除外、強制隔離、削除するマーケティングワークフローを構築します。
 
 * **フォームを承認する権限**:フォームに対する変更を他の Design Studio アセットと合わせて承認できるデザイナーを制御する新しい権限。 これにより、他のデザイナーは、承認権限を持つユーザーがフォームをレビューしなくても、変更をフォームにプッシュできなくなります。
 
@@ -68,10 +69,10 @@ ht-degree: 13%
 
 ![（星印）](assets/yellow-star.png)
 
-* **[Sales Insight と Dynamic Chat の統合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**:Sales Insight パネルで Dynamic Chat のアクティビティを表示し、この新しいデータポイントを見込みの取り組みで活用します。
+* **[Sales Insight とDynamic Chatの統合](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**:Sales Insight パネルでDynamic Chatのアクティビティを表示し、この新しいデータポイントを予測の取り組みに活用します。
 
 ## お知らせ {#announcements}
 
 **_製品リリースウェビナー_**
 
-[2022年6月および8月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

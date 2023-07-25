@@ -2,9 +2,10 @@
 description: Veeva でのタスクの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Veeva でのタスクの作成
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
-source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -29,4 +30,4 @@ ht-degree: 100%
 
 >[!TIP]
 >
->件名と説明で、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}` を使用できます。詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;}を参照してください。
+>件名と説明で、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}` を使用できます。詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}を参照してください。

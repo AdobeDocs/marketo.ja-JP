@@ -3,7 +3,8 @@ unique-page-id: 10100649
 description: アプリ内メッセージの背景の設定 - Marketo ドキュメント - 製品ドキュメント
 title: アプリ内メッセージの背景の設定
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 100%
@@ -73,4 +74,3 @@ ht-degree: 100%
    >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [アプリ内メッセージの送信](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [アプリ内メッセージのレイアウトの選択](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

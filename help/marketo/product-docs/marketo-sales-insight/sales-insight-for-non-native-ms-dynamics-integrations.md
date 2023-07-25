@@ -2,7 +2,8 @@
 description: 非ネイティブ MS Dynamics 統合用 Sales Insight - Marketo ドキュメント - 製品ドキュメント
 title: 非ネイティブ MS Dynamics 統合用 Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1413'
 ht-degree: 100%

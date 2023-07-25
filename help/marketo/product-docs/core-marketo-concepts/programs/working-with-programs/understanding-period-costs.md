@@ -3,7 +3,8 @@ unique-page-id: 7504676
 description: 期間原価について - Marketo ドキュメント - 製品ドキュメント
 title: 期間原価について
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 100%
@@ -66,4 +67,3 @@ ht-degree: 100%
    >
    >* [プログラムでの期間原価の使用](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
    >* [プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-

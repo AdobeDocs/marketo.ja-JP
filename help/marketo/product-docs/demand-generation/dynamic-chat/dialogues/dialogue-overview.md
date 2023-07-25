@@ -2,8 +2,9 @@
 description: ダイアログの概要 - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログの概要
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
-workflow-type: ht
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%
 

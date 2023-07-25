@@ -3,7 +3,8 @@ unique-page-id: 2953469
 description: SFDC の同期 - キャンペーンの同期 - Marketo ドキュメント - 製品ドキュメント
 title: SFDC 同期 - キャンペーンの同期
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
@@ -75,4 +76,3 @@ Marketo の&#x200B;**プログラムメンバー**&#x200B;と&#x200B;**[進行�
 >* [プログラムメンバーシップについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 >* [キャンペーン同期の有効化／無効化](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
 >* [Marketo 同期ユーザーをマーケティングユーザーにする](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
-

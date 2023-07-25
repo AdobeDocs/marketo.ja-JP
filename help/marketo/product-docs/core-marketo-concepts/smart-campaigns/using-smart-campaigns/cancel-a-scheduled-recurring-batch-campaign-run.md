@@ -3,8 +3,9 @@ unique-page-id: 1147060
 description: 繰り返し予定されているバッチキャンペーンの実行のキャンセル - Marketo ドキュメント - 製品ドキュメント
 title: 繰り返し予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 

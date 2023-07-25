@@ -3,8 +3,9 @@ unique-page-id: 1146933
 description: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ - Marketo ドキュメント - 製品ドキュメント
 title: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -32,4 +33,3 @@ ht-degree: 100%
    >
    >* [後で実行するようにバッチスマートキャンペーンをスケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
    >* [繰り返しバッチキャンペーンのスケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-

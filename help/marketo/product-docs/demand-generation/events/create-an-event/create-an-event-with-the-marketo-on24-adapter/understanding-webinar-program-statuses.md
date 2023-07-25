@@ -3,9 +3,10 @@ unique-page-id: 10096681
 description: ウェビナープログラムのステータスについて - Marketo ドキュメント - 製品ドキュメント
 title: ウェビナープログラムのステータスについて
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '412'
 ht-degree: 100%
 
 ---
@@ -28,9 +29,9 @@ ht-degree: 100%
 
 **招待済み** - このステータスを使用して、イベントにユーザを追加します。
 
-**承認待ち** - このステータスを使用して、確認メールの送信を保留します。詳しくは、[ON24 イベント登録のアップデート](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;}を参照してください。
+**承認待ち** - このステータスを使用して、確認メールの送信を保留します。詳しくは、[ON24 イベント登録のアップデート](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}を参照してください。
 
-**待機リスト** - このステータスを使用して、追加のシートが利用可能になるまでユーザを待機させます。
+**待機リスト** - このステータスを使用して、追加のシートが利用可能になるまでユーザーを待機させます。
 
 **却下** - このステータスを使用して、ユーザのイベントへの登録を拒否します。
 
@@ -54,4 +55,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

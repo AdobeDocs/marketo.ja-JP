@@ -3,7 +3,8 @@ unique-page-id: 7512252
 description: モバイルアプリの追加 - Marketo ドキュメント - 製品ドキュメント
 title: モバイルアプリの追加
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
@@ -47,4 +48,3 @@ ht-degree: 100%
 >
 >* [モバイルアプリ Android プッシュアクセスの設定](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
 >* [モバイルアプリ iOS プッシュアクセスの設定](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
-

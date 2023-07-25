@@ -3,8 +3,9 @@ unique-page-id: 12979006
 description: パフォーマンスインサイトの概要 - Marketo ドキュメント - 製品ドキュメント
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
-workflow-type: ht
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 

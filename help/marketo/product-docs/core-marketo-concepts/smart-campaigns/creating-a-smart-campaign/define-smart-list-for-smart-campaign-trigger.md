@@ -3,8 +3,9 @@ unique-page-id: 1146942
 description: スマートキャンペーン用スマートリストの定義 |トリガー- Marketo ドキュメント - 製品ドキュメント
 title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
-workflow-type: ht
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
 

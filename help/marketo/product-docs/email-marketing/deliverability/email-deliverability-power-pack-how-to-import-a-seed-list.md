@@ -3,7 +3,8 @@ unique-page-id: 10099077
 description: メール到達率パワーパック：シードリストのインポート方法 - Marketo ドキュメント - 製品ドキュメント
 title: メール到達率パワーパック：シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 100%

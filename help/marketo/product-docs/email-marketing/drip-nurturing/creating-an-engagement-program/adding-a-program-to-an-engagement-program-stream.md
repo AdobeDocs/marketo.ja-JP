@@ -3,7 +3,8 @@ unique-page-id: 10098134
 description: エンゲージメントプログラムストリームへのプログラムの追加 — Marketo ドキュメント — 製品ドキュメント
 title: エンゲージメントプログラムストリームへのプログラムの追加
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 100%
@@ -58,4 +59,3 @@ ht-degree: 100%
 >
 >* [ストリームにコンテンツを追加する](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [プログラムについて](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-

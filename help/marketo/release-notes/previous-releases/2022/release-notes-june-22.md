@@ -2,10 +2,11 @@
 description: リリースノート - 2022年6月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 100%
+source-wordcount: '641'
+ht-degree: 97%
 
 ---
 
@@ -37,8 +38,8 @@ ht-degree: 100%
 
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
@@ -62,7 +63,7 @@ ht-degree: 100%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API の退却プランの詳細は、[ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}をクリックしてください。
+* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API の定年プランの詳細は、 [ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API の強化 {#api-enhancements}
 
@@ -76,4 +77,4 @@ ht-degree: 100%
 
 **_製品リリースウェビナー_**
 
-[2022年6月および8月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

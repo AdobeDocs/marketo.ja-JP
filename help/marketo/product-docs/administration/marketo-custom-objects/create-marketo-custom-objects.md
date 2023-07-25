@@ -3,8 +3,9 @@ unique-page-id: 10093192
 description: Marketo カスタムオブジェクトの作成 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
-workflow-type: ht
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 100%
 

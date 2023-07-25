@@ -1,8 +1,10 @@
 ---
 description: 通話結果 - Marketo ドキュメント - 製品ドキュメント
 title: 通話結果
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
-workflow-type: ht
+exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -88,4 +90,3 @@ ht-degree: 100%
 >
 >* [Salesforce に通話理由と通話結果を記録](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [通話理由](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-

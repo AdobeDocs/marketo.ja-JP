@@ -3,7 +3,8 @@ unique-page-id: 4719291
 description: デフォルトのリーダーの姓と会社名の設定 - Marketo ドキュメント - 製品ドキュメント
 title: デフォルトのリーダーの姓と会社名の設定
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%

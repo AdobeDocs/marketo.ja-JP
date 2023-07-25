@@ -3,9 +3,10 @@ unique-page-id: 10096675
 description: 子キャンペーンとローカルアセットの作成 - Marketo ドキュメント - 製品ドキュメント
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '668'
 ht-degree: 100%
 
 ---
@@ -49,7 +50,7 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!TIP]
 >
->確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;}を参照してください。
+>確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://www.on24.com/live-webcast-elite/)を参照してください。{target="_blank"}
 
 ## 登録の子キャンペーンの要件 {#registration-child-campaign-requirements}
 
@@ -94,11 +95,10 @@ Marketo を使用して、イベントの確認メールを送信します。担
 >
 >登録エラーが発生した場合、その担当者には確認メールは送信されません。
 
-次のステップは、[ON24 イベント統合のテスト](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}です。
+次のステップは、[ON24 イベント統合のテスト](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}です。
 
 >[!MORELIKETHIS]
 >
->* [Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
->* [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
->* [ウェビナープログラムのステータスについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
-
+>* [Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [ウェビナープログラムのステータスについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

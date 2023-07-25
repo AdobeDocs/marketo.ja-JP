@@ -2,8 +2,9 @@
 description: Bulk Export API 情報 - Marketo ドキュメント - 製品ドキュメント
 title: Bulk Export API 情報
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: ht
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

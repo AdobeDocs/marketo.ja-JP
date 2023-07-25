@@ -3,7 +3,8 @@ unique-page-id: 7514898
 description: 「キャンペーンをリクエスト」を使用して、セールス向けにトリガー付きスマートキャンペーンを設定 - Marketo ドキュメント - 製品ドキュメント
 title: 「キャンペーンをリクエスト」を使用して、セールス向けにトリガー付きスマートキャンペーンを設定
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 100%

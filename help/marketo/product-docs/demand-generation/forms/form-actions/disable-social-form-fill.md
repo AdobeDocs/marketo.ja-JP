@@ -3,7 +3,8 @@ unique-page-id: 10098242
 description: ソーシャルフォーム入力を無効にする - Marketo ドキュメント - 製品ドキュメント
 title: ソーシャルフォーム入力を無効にする
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%

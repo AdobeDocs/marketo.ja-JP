@@ -3,8 +3,9 @@ unique-page-id: 2360305
 description: ユーザーの詳細ページ用のカスタムタブの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ユーザーの詳細ページ用のカスタムタブの作成
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
-workflow-type: ht
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

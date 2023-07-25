@@ -3,7 +3,8 @@ unique-page-id: 10098238
 description: LinkedIn ソーシャルフォーム入力に関する FAQ - Marketo ドキュメント - 製品ドキュメント
 title: LinkedIn ソーシャルフォーム入力に関する FAQ
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 100%

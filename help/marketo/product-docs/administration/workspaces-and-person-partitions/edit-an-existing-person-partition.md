@@ -3,8 +3,9 @@ unique-page-id: 2360323
 description: 既存の人物パーティションを編集する - Marketo ドキュメント - 製品ドキュメント
 title: 既存の人物パーティションを編集する
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
-workflow-type: ht
+feature: Partitions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: ライブフィードの概要 - Marketo ドキュメント - 製品ドキュメント
 title: ライブフィードの概要
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 100%
@@ -32,7 +33,6 @@ MSE メールのエンゲージメント（表示、クリック、返信）を�
 >
 >* 受信者が、自社の IT 本部が別の都市や国にある企業のワイヤレスネットワークにログインした場合、受信者の現在のロケールではなく、その場所がログに記録されます。
 >* メールが CC／BCC フィールドに入力されている人によって転送または開封された場合、それらの人々がいる場所を正確に表示しようとします。
-
 
 ## 「タスク」タブ {#tasks-tab}
 

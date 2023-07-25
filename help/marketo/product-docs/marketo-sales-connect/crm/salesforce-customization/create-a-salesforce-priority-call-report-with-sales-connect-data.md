@@ -3,7 +3,8 @@ unique-page-id: 14352470
 description: Sales Connect データを使用した Salesforce の優先電話レポートの作成 — Marketo ドキュメント — 製品ドキュメント
 title: Sales Connect データを使用した Salesforce の優先電話レポートの作成
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 100%

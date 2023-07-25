@@ -3,7 +3,8 @@ unique-page-id: 2359466
 description: 動的コンテンツでスニペットを編集する - Marketo ドキュメント - 製品ドキュメント
 title: 動的コンテンツでスニペットを編集する
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
@@ -16,7 +17,6 @@ ht-degree: 100%
 >
 >* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [スニペットの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 スニペットのセグメント化を使用して、メールやランディングページの動的コンテンツを簡単に管理できます。
 
@@ -54,4 +54,3 @@ ht-degree: 100%
 >
 >* [メールへのスニペットの追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [ランディングページへのスニペットの追加](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-

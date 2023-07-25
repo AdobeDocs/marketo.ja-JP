@@ -2,7 +2,8 @@
 description: アイコンの用語集 — Marketo ドキュメント — 製品ドキュメント
 title: アイコン用語集
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%

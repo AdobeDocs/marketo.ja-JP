@@ -3,7 +3,8 @@ unique-page-id: 14352468
 description: CSV を使用した取引先責任者のインポート - Marketo ドキュメント - 製品ドキュメント
 title: CSV を使用した取引先責任者のインポート
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%

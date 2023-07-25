@@ -3,9 +3,10 @@ unique-page-id: 10096679
 description: ON24 イベント統合の例 - Marketo ドキュメント - 製品ドキュメント
 title: ON24 イベント統合の例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 100%
 
 ---
@@ -45,7 +46,7 @@ ht-degree: 100%
 * **スマートリスト** - イベントに招待するユーザを定義します。
 * **フロー**
 
-   * 電子メールを送信 - これがローカルアセットの電子メールである場合、命名規則「EventName.EmailName」が適用されます。グローバルメールも使用できます。
+   * メールを送信 - これがローカルアセットの電子メールである場合、命名規則「EventName.EmailName」が適用されます。グローバルメールも使用できます。
    * 進行状況のステータスの変更 - ウェビナー／招待済みに設定します。
 
 * **スケジュール** - 招待を送信する日付を設定します。
@@ -92,4 +93,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Marketo ON24 アダプターイベントについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

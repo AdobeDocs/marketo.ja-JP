@@ -3,8 +3,9 @@ unique-page-id: 2360331
 description: Marketo カスタムフィールドタイプの変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
-workflow-type: ht
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

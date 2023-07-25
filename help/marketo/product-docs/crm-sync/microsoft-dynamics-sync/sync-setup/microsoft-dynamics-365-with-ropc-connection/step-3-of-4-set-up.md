@@ -2,7 +2,8 @@
 description: 手順 3／4 - MS Dynamics でのクライアントアプリのセットアップ - Marketo ドキュメント - 製品ドキュメント
 title: 手順 3／4 - MS Dynamics でのクライアントアプリのセットアップ
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
-source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 100%
@@ -15,7 +16,6 @@ ht-degree: 100%
 >
 >* [手順 1／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [手順 2／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. https://docs.microsoft.com/ja-jp/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration に移動します。
 
@@ -58,4 +58,3 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 >[!MORELIKETHIS]
 >
 >* [手順 4／4：Marketo ソリューションとリソース所有者パスワード制御接続の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-

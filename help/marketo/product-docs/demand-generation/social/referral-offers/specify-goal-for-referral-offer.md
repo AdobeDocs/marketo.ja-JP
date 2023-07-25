@@ -3,7 +3,8 @@ unique-page-id: 2359791
 description: 紹介オファーの目標を指定する - Marketo ドキュメント - 製品ドキュメント
 title: 紹介オファーの目標を指定する
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%

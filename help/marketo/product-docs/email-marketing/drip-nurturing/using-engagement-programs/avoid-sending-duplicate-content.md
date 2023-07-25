@@ -3,7 +3,8 @@ unique-page-id: 10096409
 description: 重複コンテンツ送信の回避 - Marketo ドキュメント - 製品ドキュメント
 title: 重複コンテンツ送信の回避
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
-source-git-commit: daaf3dc9b4da95db743409c6e2a6c426ed00e9c7
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%

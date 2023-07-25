@@ -3,7 +3,8 @@ unique-page-id: 2359457
 description: セグメント化の承認 - Marketo ドキュメント - 製品ドキュメント
 title: セグメント化の承認
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
@@ -18,7 +19,6 @@ ht-degree: 100%
 >
 >* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
-
 
 >[!NOTE]
 >

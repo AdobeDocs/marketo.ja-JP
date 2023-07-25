@@ -3,7 +3,8 @@ unique-page-id: 11370892
 description: Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト - Marketo ドキュメント - 製品ドキュメント
 title: Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%

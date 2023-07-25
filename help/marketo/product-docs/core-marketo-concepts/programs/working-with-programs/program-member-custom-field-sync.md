@@ -2,8 +2,9 @@
 description: プログラムメンバーカスタムフィールドの同期 - Marketo ドキュメント - 製品ドキュメント
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
-workflow-type: ht
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 100%
 

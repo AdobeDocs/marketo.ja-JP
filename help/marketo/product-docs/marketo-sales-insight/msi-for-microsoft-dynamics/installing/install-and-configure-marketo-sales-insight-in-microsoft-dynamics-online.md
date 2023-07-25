@@ -3,7 +3,8 @@ unique-page-id: 37355602
 description: Marketo Sales Insight の Microsoft Dynamics Online へのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo Sales Insight の Microsoft Dynamics Online へのインストールおよび設定
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%

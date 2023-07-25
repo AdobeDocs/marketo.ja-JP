@@ -2,10 +2,11 @@
 description: Sales Insight 権限セットの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight 権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 100%
+source-wordcount: '375'
+ht-degree: 88%
 
 ---
 
@@ -15,11 +16,11 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、お使いの [Sales Insight Salesforce パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}して、バージョン 1.8000 以降にする必要があります。
+>[Sales Insight Salesforce パッケージの更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} をバージョン 1.8000 以降にアップロードして、この機能を使用する必要があります。
 
 >[!IMPORTANT]
 >
->以前にすべてのプロファイルに Sales Insight のアクセス権を付与している場合や、すべてのユーザに Sales Insight を実装している場合は、[プロファイルレベルのアクセスを削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;}して、この権限セットを使用する必要があります。
+>すべてのプロファイルに Sales Insight のアクセス権を付与したことがある場合や、すべてのユーザーに Sales Insight を実装したことがある場合は、 [プロファイルレベルアクセスの削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} をクリックして、この権限セットを使用します。
 
 ## 概要 {#overview}
 

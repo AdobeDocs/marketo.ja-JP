@@ -3,7 +3,8 @@ unique-page-id: 8159286
 description: 商談フィルターおよびトリガー - Marketo ドキュメント - 製品ドキュメント
 title: 商談フィルターおよびトリガー
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 100%

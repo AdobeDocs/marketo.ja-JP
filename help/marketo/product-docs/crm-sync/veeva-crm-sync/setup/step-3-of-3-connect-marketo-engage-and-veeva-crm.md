@@ -2,10 +2,11 @@
 description: 手順 3 / 3 - Marketo Engage と Veeva CRM の接続 - Marketo ドキュメント - 製品ドキュメント
 title: 手順 3/3 - Marketo Engage と Veeva CRM の接続
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 93%
 
 ---
 
@@ -15,9 +16,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [手順 1 / 3:Marketo フィールドを Veeva に追加](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
->* [手順 2 / 3:Marketo 用に Veeva ユーザを作成](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target=&quot;_blank&quot;}
-
+>* [手順 1 / 3：Marketo フィールドを Veeva に追加](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [手順 2 / 3:Marketo 用に Veeva ユーザを作成](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >同期ユーザから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target=&quot;_blank&quot;}にした後で、「同期フィールド」をクリックするようにしてください。「同期フィールド」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >必ず [不要なフィールドをすべて非表示にする](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} 「フィールドを同期」をクリックする前に、同期ユーザーからMarketoに移動します。 「同期フィールド」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. 「**Veeva でログイン**」をクリックします。
 
@@ -91,4 +91,4 @@ Marketo の「管理」領域に、Veeva CRM 同期に関するステータス�
 
 >[!MORELIKETHIS]
 >
->[カスタムオブジェクトの設定](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+>[カスタムオブジェクトの設定](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
