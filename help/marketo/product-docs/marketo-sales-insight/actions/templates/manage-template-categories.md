@@ -4,10 +4,11 @@ title: テンプレートカテゴリの管理
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 93%
 
 ---
 
@@ -57,4 +58,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->カテゴリにまだテンプレートが含まれている場合は、カテゴリを削除できません。カテゴリを削除する前に、すべてのテンプレートを移動または削除します。
+>テンプレートが含まれているカテゴリは削除できません。 カテゴリを削除する前に、すべてのテンプレートを移動または削除します。
