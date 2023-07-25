@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 98%
@@ -485,10 +485,10 @@ ht-degree: 98%
          + [フォルダーについて](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [通知について](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [通知のタイプ](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + エンゲージメントキャンバス {#engagement-canvas}
-         + [エンゲージメントキャンバス：概要](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [「エンゲージメントキャンバス」タブ](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [「設定」タブ](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + エンゲージメントマップ {#engagement-map}
+         + [エンゲージメントマップ：概要](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [「エンゲージメントマップ」タブ](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [「設定」タブ](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + 予測オーディエンス {#predictive-audiences}
          + [予測オーディエンスの概要](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
