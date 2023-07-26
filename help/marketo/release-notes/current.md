@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 79%
+source-wordcount: '667'
+ht-degree: 76%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 79%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます **2023 年 7 月 22 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
+以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます。 **2023 年 7 月 22 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
 
 </br>
 
-* **エンゲージメントマップ**:エンゲージメントマップは、再利用可能なキャンペーンを作成および整理するための視覚的なツールです。 完全に後方互換性があるので、ボタンをクリックすると、既存のキャンペーンをこの新しい構造ですべて表示できます。 キャンバスは、ダウンロードして共有できます。
+* **エンゲージメントマップ**：エンゲージメントマップは、再利用可能なキャンペーンを作成および整理するための視覚的なツールです。 完全に後方互換性があるので、ボタンをクリックすると、既存のキャンペーンをこの新しい構造ですべて表示できます。 キャンバスは、ダウンロードして共有できます。
 
 <table> 
   <tr> 
@@ -38,7 +38,7 @@ ht-degree: 79%
   </tbody>
 </table>
 
-* **通知 — Web サービスエラー**:Web サービスのエラー通知にサブスクリプション名が含まれるようになり、複数のMarketo Engageインスタンスを管理しやすくなりました。 また、エラーコードとカウントを含むテーブルに「User」列を追加しました。これにより、Marketo REST API の呼び出し時に、特定のエラーの生成を担当した API ユーザーを簡単に特定できます。
+* **通知 — Web サービスエラー**: Web サービスエラー通知にサブスクリプション名が含まれるようになり、これにより、複数のMarketo Engageインスタンスを管理しやすくなりました。 また、エラーコードとカウントを含むテーブルに「User」列を追加しました。これにより、Marketo REST API の呼び出し時に、特定のエラーの生成を担当した API ユーザーを簡単に特定できます。
 
 <table> 
   <tr> 
@@ -178,14 +178,6 @@ ht-degree: 79%
 
 ## お知らせ {#announcements}
 
-Marketo Engageのリアルタイムパーソナライゼーションには、次の 2 つの機能強化が加えられています。
-
-* **jQuery 3.7 へのアップグレード**:セキュリティと安定性を向上させるため、Marketoは jQuery 3.7.0 にアップグレードしています。Marketoは rtp.js から読み込まれたデフォルトバージョンを変更するので、自身の jQuery を読み込んでいない RTP ユーザーは負の影響を受けません。 ただし、jQuery のバージョンが 3.0.0 より前の RTP ユーザーの場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 必要に応じて、rtp.js のカスタムバージョンの実装を支援します。
-
->[!NOTE]
->
->サイトが独自の JQuery ライブラリを読み込むか、Web Personalization RTP JavaScript タグから読み込まれたデフォルトのバージョンを使用するかを確認するには、Web 開発チームと協力してください。
-
 * **Google Analytics4 にアップグレード**:Marketoは以前、Universal Analytics をサポートしていました。これは、2023 年 7 月 1 日までにデータの記録を停止します。 RTP ユーザは、RTP でのGoogle Analytics4 統合のサポートを完了するには、Google Analyticsダッシュボードで移行プロセスに従う必要があります。 今後、ユーザーには一意の英数字タグ ( `<head>` （html のセクション）を含め、MarketoからGoogle Analyticsにデータを送信できるランディングページに含める必要があります。
 
-* **_製品リリースウェビナー_**:2023 年 9 月 6 日 (PT 9:00 AM / 12:00 PM ET) に [ライブウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} アドビの製品チームが主催し、最新の製品イノベーションの使用方法をすべてご覧いただけます。
+* **_製品リリースウェビナー_**:2023 年 9 月 6 日（太平洋標準時の午前 9 時/午後 12 時）に参加して、 [ライブウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} アドビの製品チームが主催し、最新の製品イノベーションの使用方法をすべてご覧いただけます。
