@@ -3,14 +3,18 @@ description: イベントチェックインの概要
 title: イベントチェックインの概要
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 100%
+source-wordcount: '237'
+ht-degree: 94%
 
 ---
 
 # イベントチェックインの概要 {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>このアプリはと互換性がありません [AdobeID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} この時点で。
 
 iPad または Android タブレット用の Marketo Events アプリを使用すると、イベントに到着したユーザーをすぐにチェックインできます。
 
@@ -24,9 +28,9 @@ iPad または Android タブレット用の Marketo Events アプリを使用�
 
 イベント前：
 
-* [イベントの新しい Marketo の役割を作成する](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)（iPad または Android ユーザー向け）
-* [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)し、新しい役割を割り当てる
-* [新しい Marketo イベントプログラムを作成する](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [イベントの新しい Marketo の役割を作成する](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}（iPad または Android ユーザー向け）
+* [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}し、新しい役割を割り当てる
+* [新しい Marketo イベントプログラムを作成する](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * イベントの日付を指定する
 * イベントにユーザーを追加する
 
@@ -45,5 +49,5 @@ iPad または Android タブレットを準備するには、次をおこない
 
 * アプリにログインする
 * ゲストを検索する（および新規ユーザーを作成する）
-* [ゲストをチェックインする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)（逆チェックイン、チェックイン時にユーザーレコードを編集）
+* [ゲストをチェックインする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}（逆チェックイン、チェックイン時にユーザーレコードを編集）
 * iPad または Android タブレットアプリを Marketo と同期する

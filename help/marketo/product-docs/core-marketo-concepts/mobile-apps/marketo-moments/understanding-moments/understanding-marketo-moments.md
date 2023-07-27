@@ -4,10 +4,10 @@ description: Marketo Moments について - Marketo ドキュメント - 製品�
 title: Marketo Moments について
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 100%
+source-wordcount: '556'
+ht-degree: 97%
 
 ---
 
@@ -15,10 +15,13 @@ ht-degree: 100%
 
 Marketo の優れた機能を手に入れました！電話や iPad で今すぐメールを確認し、スケジュールを変更してください。
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >モバイルアプリにアクセスする権限が必要です。Marketo 管理者に問い合わせて、[自分の役割を更新](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)してください。
+
+>[!AVAILABILITY]
+>
+>このアプリはと互換性がありません [AdobeID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} この時点で。
 
 ## ストリーム {#streams}
 
