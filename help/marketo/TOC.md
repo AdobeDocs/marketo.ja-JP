@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
-source-wordcount: '8996'
+source-wordcount: '9001'
 ht-degree: 98%
 
 ---
@@ -958,6 +958,8 @@ ht-degree: 98%
          + [共有 IP アドレスと専用 IP アドレス](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [登録解除について](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [専用 IP アドレスを使用したメール送信](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + インボックストラッカー {#inbox-tracker}
+            + [インボックストラッカーTutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + ドリップナーチャリング {#drip-nurturing}
          + エンゲージメントプログラムの作成 {#creating-an-engagement-program}
             + [ストリームの追加](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1353,9 +1355,9 @@ ht-degree: 98%
                + [Salesforce Lightning からMarketo Sales Connect をアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
                + [Salesforce リスト表示にアクションボタンを追加](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [アクティビティを Salesforce にログ記録する際のアクティビティタイプフィールドの更新](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
-            + Salesforce のアクション {#actions-in-salesforce}
+            + Salesforce 内のアクション {#actions-in-salesforce}
                + [Salesforce でのセールスメールの一括送信の使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
-               + [Salesforce でセールスキャンペーンへの一括追加を使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
+               + [Salesforce でセールスキャンペーンへの一括追加を使用する](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + メール {#email}
             + コマンドセンター {#command-center}
                + [詳細検索の概要](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1911,7 +1913,7 @@ ht-degree: 98%
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [リリースノート：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
-         + [リリースノート：2023 年 5 月](release-notes/previous-releases/2023/release-notes-may-23.md)
+         + [リリースノート：2023 年 5 月 24 日](release-notes/previous-releases/2023/release-notes-may-23.md)
       + 2022年 {#2022}
          + [リリースノート：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [リリースノート：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
