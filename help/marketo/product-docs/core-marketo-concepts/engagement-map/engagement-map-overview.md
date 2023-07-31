@@ -4,7 +4,7 @@ title: エンゲージメントマップ：概要
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # エンゲージメントマップ：概要 {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->この機能は、現在、スマートキャンペーンで使用できます。 プログラムでは使用できません。
-
 エンゲージメントマップを使用すると、直感的なビジュアルを利用して、再利用可能なスマートキャンペーンを構築できます。 既存のすべてのMarketo Engageスマートキャンペーンとの完全な下位互換性を提供し、現在の機能は失われません。
+
+>[!NOTE]
+>
+>エンゲージメントマップは、現在、スマートキャンペーンで使用できます。 プログラムでは利用できません。
 
 ![](assets/engagement-map-overview-1.png)
 
