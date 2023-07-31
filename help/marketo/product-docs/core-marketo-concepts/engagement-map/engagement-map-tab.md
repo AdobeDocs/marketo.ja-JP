@@ -4,9 +4,9 @@ title: 「エンゲージメントマップ」タブ
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ ht-degree: 0%
 * 1 つ以上のフィルターの制約（またはその欠如）のエラー
 
   ![](assets/engagement-map-tab-20.png)
-
-値（属性）を入力しないとエラーは発生せず、「フロー」タブと同様に機能し続けます。 したがって、既存のキャンペーンが中断されることはありません。 ただし、フローステップに属性が含まれていない場合は、警告として表示されます。
-
-^^^本当に必要なのですか？ユーザーに警告が表示されません???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

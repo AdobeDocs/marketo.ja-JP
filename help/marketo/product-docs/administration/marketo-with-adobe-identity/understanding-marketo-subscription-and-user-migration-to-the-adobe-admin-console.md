@@ -3,7 +3,7 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 3%
@@ -67,7 +67,7 @@ Marketo製品管理者がおこなう操作：
 
 Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日以内に準備できるようにすることをお勧めします。
 
-* 「 Marketo Admin 」領域で、すべてのユーザーの電子メール検証ステータスを確認します。 メールアドレスを確認していないユーザーに対して、確認プロセスを完了する際の課題を解決するよう促す
+* 「 Marketo Admin 」領域で、すべてのユーザーの電子メール検証ステータスを確認します。 電子メールアドレスを検証していないユーザーに対して、検証プロセスを完了する際の課題を解決するよう促します。
 
 * AdobeID への今後の移行に備えて、すべてのユーザーを準備します。
 

@@ -4,9 +4,9 @@ title: 「設定」タブ
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >ヘルプアイコンをクリックした後に「追加の権限が必要です」と表示される場合は、Marketo管理者にお問い合わせください。
-
-冗長上記の説明に従って、削除できますか —> キャンペーン設定を編集するためのアクセス権を持っていないユーザーも、予定されている実行をキャンセルするためのアクセス権を持ちません。
 
 ![](assets/settings-tab-5.png)
 

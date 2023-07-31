@@ -4,9 +4,9 @@ title: エンゲージメントマップ：概要
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 エンゲージメントマップを使用すると、直感的なビジュアルを利用して、再利用可能なスマートキャンペーンを構築できます。 既存のすべてのMarketo Engageスマートキャンペーンとの完全な下位互換性を提供し、現在の機能は失われません。
 
-スクリーンショット
+![](assets/engagement-map-overview-1.png)
 
 ## エンゲージメントマップへのアクセス {#accessing-engagement-map}
 
 既存のキャンペーンに移動し、 **エンゲージメントマップ** 」ボタンをクリックします。
 
-スクリーンショット
+![](assets/engagement-map-overview-2.png)
 
 エンゲージメントマップに 2 つのタブが表示されます。 [エンゲージメントマップ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-スクリーンショット
+![](assets/engagement-map-overview-3.png)
 
 ## カードの説明 {#card-descriptions}
 
@@ -51,11 +51,7 @@ ht-degree: 0%
 
 ## 上部ナビゲーション {#top-navigation}
 
-スクリーンショット
-
 上部のナビゲーションには、次の機能が含まれます。
-
-!!!!! SCREENSHOUT が古い — 新しい GRAB NEW ONE
 
 * キャンペーン名と「キャンペーンを編集」モーダルへのアクセス権は、ここでキャンペーン名と説明を編集できます。
 
