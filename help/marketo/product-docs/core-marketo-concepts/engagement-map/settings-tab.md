@@ -1,10 +1,8 @@
 ---
 description: 「設定」タブ — Marketoドキュメント — 製品ドキュメント
 title: 「設定」タブ
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -45,7 +43,7 @@ ht-degree: 1%
 
 ![](assets/settings-tab-4.png)
 
-また、「設定」タブには、スマートリストの概要が表示されます。 以下が含まれます。
+また、「設定」タブには、スマートキャンペーンの概要がすばやく表示されます。 以下が含まれます。
 
 * キャンペーンステータス
 * 作成日
