@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '9001'
+source-wordcount: '9003'
 ht-degree: 98%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 98%
       + [実行するべきこと](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [確認するべきこと：主要スキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+      + [ドキュメント 1 を継承](getting-started/inheriting-a-marketo-instance/inherit-doc-1.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
