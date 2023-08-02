@@ -4,10 +4,10 @@ description: スマートリストのベストプラクティス — Marketo ド
 title: スマートリストのベストプラクティス
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 94%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 >[!TIP]
 >
->Marketo は様々な方法で使用できます。特定のテクニックはあなたとあなたのビジネスにとってより良いものです。投資を輝かせるために、[Marketo Professional Services](https://pages2.marketo.com/72-hour-survival-guide.html) を検討してください。{target="_blank"}
+>Marketo Engageは様々な方法で使用でき、特定の技術がお客様とお客様のビジネスにとってより良いものです。 最大限の投資を行う際は、Adobe Professional Servicesの営業担当にお問い合わせください。
