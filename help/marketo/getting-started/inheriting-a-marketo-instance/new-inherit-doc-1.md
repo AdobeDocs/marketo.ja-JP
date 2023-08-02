@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 11%
 
 ---
@@ -223,8 +223,10 @@ ht-degree: 11%
    <th>列 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
+<li>カスタム同期と双方向のどちらですか。 （KG：文法を固定し、重要度をチェック）</li>
+<li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストします。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ ht-degree: 11%
   </tr>
   <tr> 
    <td>Marketo Sales Insight（該当する場合）</td> 
-   <td><li>MSI パッケージはインストールされましたか？</li>
-<li>Sales Insight の最新バージョンにアップグレードしていますか？</li>
+   <td><li>次の条件を満たす <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージがインストールされました</a>?</li>
+<li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
 <li>Sales Insight の構成は完了していますか？</li>
-<li>購入したシート数に基づいてユーザーにアクセス権を付与しているか。</li></td>
+<li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li></td>
    <td>3</td>
   </tr>
  </tbody> 

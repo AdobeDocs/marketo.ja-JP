@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '665'
 ht-degree: 74%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 74%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">エンゲージメントマップ：概要</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">エンゲージメントマップ：概要</a></td>
   </tr>
   </tbody>
 </table>
@@ -114,8 +114,8 @@ ht-degree: 74%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">フィールドプロンプト</a></td>
   </tr>
   </tbody>
 </table>
@@ -128,8 +128,8 @@ ht-degree: 74%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">動的フィールド</a></td>
   </tr>
   </tbody>
 </table>
