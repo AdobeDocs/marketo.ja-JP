@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 7%
 
 ## ユーザ&amp;ロール {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>エリア</th> 
@@ -33,22 +33,22 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>ユーザ</td> 
-   <td><li>ユーザー数は？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">ユーザー数</a> いるの？</li>
 <li>期限切れになるユーザーはいますか？</li>
 <li>ユーザーの削除に関するポリシーが会社にあるか。</li> 
-<li>管理者権限を持つユーザーの数は？</li>
-<li>これらのユーザーの役割を他の役割に変更する必要はありますか？</li> 
+<li>ユーザーの数 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理者権限</a>?</li>
+<li>これらのユーザーのいずれかが <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">他の役割？</a></li> 
 <li>このインスタンスの API ユーザーは誰ですか？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>ロール</td> 
    <td><li>役割はいくつありますか？</li>  
-<li>各役割にはどの権限/アクセス権がありますか？ 何か調整すべきではありませんか？</li>
+<li>What <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissions/access</a> 各役割には何がありますか？ 何か調整すべきではありませんか？</li>
 <li>1 つのロールにつき何人のユーザーが存在しますか？</li>
-<li>ユーザーがログインする頻度はどれくらいですか？</li>
-<li>各 API ユーザーは独自のユーザー役割を持っていますか。 そうでない場合は、トラブルシューティングを容易にするために、これを実装することを検討してください。</li> 
-<li>ユーザーの役割と権限は、企業のデータのプライバシーポリシーに合っていますか。</li></td>
+<li>ユーザーの頻度 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">ログイン</a>?</li>
+<li>各 API ユーザーが <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">独自のユーザーロール</a>? そうでない場合は、トラブルシューティングを容易にするために、これを実装することを検討してください。</li> 
+<li>ユーザーの役割と権限を企業データに合わせて調整する <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>サンドボックス（該当する場合）</td> 
-   <td><li>サンドボックスインスタンスを持っているか。 その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
-<li>プログラムのインポートはサンドボックスにリンクされていますか？</li></td>
+   <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>? その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
+<li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">プログラムの読み込み</a> サンドボックスにリンクされているか</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>監査証跡</td> 
-   <td><li>インスタンスで作業しているのは誰ですか？</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">作業中のユーザー</a> インスタンス内？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ ht-degree: 7%
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
 <li>Sales Insight の構成は完了していますか？ Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Launchpoint（該当する場合）</td> 
+   <td><li>設定したサービス（ウェビナー、広告など）を教えてください。 彼らの有効期限が近いものはありますか？</li>
+<li>統合では何回の API 呼び出しを使用しますか？</li>
+<li>使用例に適した統合を実施しているか。</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>ウェブフック（該当する場合）</td> 
+   <td><li>設定した接続は何ですか？</li>
+<li>使用されなくなったものはありますか？</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>モバイルアプリ（該当する場合）</td> 
+   <td><li>どのモバイルアプリをお持ちですか？</li>
+<li>追加されたテストデバイスはどれですか？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
