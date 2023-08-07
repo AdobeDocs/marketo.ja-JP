@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 7%
 
 ---
@@ -94,11 +94,11 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>ワークスペースとパーティション</td> 
-   <td><li>ワークスペースやパーティションの数は？</li>
+   <td><li>数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">ワークスペースとパーティション</a> 持ってる？</li>
 <li>各ワークスペースとパーティションの主な目的は何ですか。</li>
-<li>監査または変更が必要か</li>
+<li>次のいずれかを実行します。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> または <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">区分</a> 監査/変更が必要ですか？</li>
 <li>ワークスペースとパーティションの関係は何ですか？</li>
-<li>各ワークスペースにアクセスできるユーザーの数</li></td>
+<li>ユーザー数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">アクセス権を持つ</a> を各ワークスペースに追加します。</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>スマートキャンペーン設定</td> 
-   <td><li>スマートキャンペーンのサイズに制限はありますか？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ</li>
 <li>そうでない場合は、追加することを検討します。 過剰な通信を避けたり、ワークフローでデータベース全体を処理したりするのを防ぐため、スマートキャンペーンの制限をデータベースの 25%に制限することは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護するのに役立ちます。</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>通信制限</td> 
-   <td><li>制限が設けられているか。 お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
-<li>Adobeでは、1 日に 1 件、7 日に 3 件に制限することをお勧めします。非運用 E メールはブロックされます。</li></td>
+   <td><li>あるか <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a> その場で？ お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
+<li>Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>チャネル</td> 
-   <td><li>チャネルはいくつありますか？ 使用中のユーザー数</li>
-<li>すべてのチャネルプログラムのステータスは適切ですか？ プログラム内の進行状況は表示されますか？</li>
+   <td><li>数 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> いるの？ 使用中のユーザー数</li>
+<li>すべて <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">チャネルプログラムのステータスに適したもの</a>? プログラム内の進行状況は表示されますか？</li>
 <li>チャネルは特定のプログラムタイプに関連していますか？</li>
 <li>各チャネルで成功と見なされるステータスはどれですか？ それらはマーケティング目標に合っていますか？</li>
 <li>オペレーショナルチャネルは適切に使用されていますか？</li>
