@@ -4,9 +4,9 @@ title: 最新のリリースノートの一時
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 24%
 
 ---
@@ -313,7 +313,7 @@ ht-degree: 24%
   </tbody>
 </table>
 
-* **新しいアクティビティのトリガートークン**：新しいトリガートークンで、Dynamic Chatの新しいアクティビティをサポートします。
+* **新しいアクティビティのトリガートークン**：新しいトリガートークンを使用して、のDynamic Chatの新しいアクティビティをサポートできます。
 
 <table> 
   <tr> 
