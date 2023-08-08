@@ -3,7 +3,7 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 7%
@@ -157,13 +157,13 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>タグ</td> 
-   <td><li>タグの数は？ 使用中のタグの数 追加が必要な場合は、</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">タグの数</a> いるの？ 使用中のタグの数 追加が必要な場合は、</li>
 <li>プログラム内にタグは必要ですか？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>チャネル</td> 
-   <td><li>数 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">channels</a> いるの？ 使用中のユーザー数</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">チャネル数</a> いるの？ 使用中のユーザー数</li>
 <li>すべて <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">チャネルプログラムのステータスに適したもの</a>? プログラム内の進行状況は表示されますか？</li>
 <li>チャネルは特定のプログラムタイプに関連していますか？</li>
 <li>各チャネルで成功と見なされるステータスはどれですか？ それらはマーケティング目標に合っていますか？</li>
@@ -173,7 +173,7 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>マーケティングカレンダー（該当する場合）</td> 
-   <td><li>カレンダーエントリの種類はいくつありますか？ まだ関連性があるのか？</li></td>
+   <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">カレンダーエントリタイプ</a> いるの？ まだ関連性があるのか？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>フィールド管理</td> 
-   <td><li>フィールドの数は？ [ フィールド名の書き出し ] をクリックして、フィールド、カスタムフィールド、および API 名のリストを確認します。</li>
-<li>カスタムフィールドはいくつありますか？</li>
-<li>使用されているフィールドの数 「フィールドアクション」ドロップダウンで「エクスポート実行者」を選択して、フィールドの関連アセットを確認します。</li>
+   <td><li>フィールドの数は？ クリック <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">フィールド名をエクスポート</a> をクリックして、フィールド、カスタムフィールドおよび API 名のリストを確認します。</li>
+<li>数 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> いるの？</li>
+<li>使用されているフィールドの数 選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
 <li>Marketo Engageと CRM の間で同期されるのはいくつですか？</li>
 <li>CRM フィールドは適切なオブジェクトに同期されていますか？</li>
-<li>担当者詳細に対して設定されたカスタムビューはありますか？ あるべきか？</li>
+<li>次の項目がありますか？ <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">カスタムビューセット</a> 担当者の詳細について あるべきか？</li>
 <li>ソースに基づいてフィールドの命名規則を設定しているか。 そうでない場合は、この実装を検討してください。</li>
-<li>ブロックされているフィールドはありますか？ その理由を必ず理解してください。</li></td>
+<li>フィールドがありますか？ <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">ブロック</a>? その理由を必ず理解してください。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>カスタムアクティビティ</td> 
-   <td><li>カスタムアクティビティはありますか？</li>
+   <td><li>何かあるか <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">カスタムアクティビティ</a>?</li>
 <li>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>カスタムオブジェクト</td> 
-   <td><li>カスタムオブジェクトはいくつありますか？ CRM と同期する方法を教えてください。</li>
+   <td><li>数 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">カスタムオブジェクト</a> いるの？ CRM と同期する方法を教えてください。</li>
 <li>これらのカスタムオブジェクトは、プログラムやリストクエリでどのように利用されていますか？</li></td>
    <td>3</td>
   </tr>
