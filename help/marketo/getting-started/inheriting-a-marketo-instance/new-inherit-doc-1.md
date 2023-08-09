@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 7%
 
 ---
@@ -233,26 +233,26 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td><li>ドメインセットの形式を教えてください。</li>
-<li>フォールバックセットは何ですか？</li>
-<li>ホームページは何として設定されますか。</li>
+   <td><li>とは <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">ドメインセット：</a>?</li>
+   <li>ホームページは何として設定されますか。</li>
+<li>とは <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">フォールバックセット：</a>?</li>
 <li>フォームの事前入力は有効になっていますか？</li>
-<li>パーソナライズされた URL は有効になっていますか？</li>
-<li>リダイレクト用のルールは設定されていますか？</li>
+<li>次に該当 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">パーソナライズ URL</a> 有効？</li>
+<li>次のようにルールが設定されているか <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">リダイレクト</a>?</li>
 <li>ドメインエイリアスが存在するか。 ドメインエイリアスの活用方法について説明していますか。</li>
-<li>ランディングページのセキュリティ保護されたドメインは有効になっていますか？ ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
+<li>次に該当 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">ランディングページのセキュリティ保護されたドメイン</a> 有効？ ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Web サイト上の Munchkin トラッキングコード (Marketo以外 )。</li>
-<li>「トラッキング拒否」ブラウザーリクエストは有効になっていますか？</li>
-<li>Munchkin API は設定されていますか？ Munchkin コードが Web サイト上のどこにあるかに関するドキュメントが見つからない場合は、基本的な「Analytics」の「Web 分析レポート」を使用して、Munchkin コードが Web サイト上で配置されている場所を把握し、クイックビューを開始します。</li></td>
+   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を (Marketo以外の )Web サイトに追加した場合、</li>
+<li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">追跡しない</a> ブラウザーリクエストが有効ですか？</li>
+<li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ Munchkin コードが Web サイト上のどこにあるかに関するドキュメントが見つからない場合は、基本的な「Analytics」の「Web 分析レポート」を使用して、Munchkin コードが Web サイト上で配置されている場所を把握し、クイックビューを開始します。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Web サービス</td> 
-   <td><li>IP 制限は有効になっていますか？ そうなるべきか？</li>
+   <td><li>次に該当 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 制限</a> 有効？ そうなるべきか？</li>
 <li>インスタンスで API 呼び出しをおこなっているのは、どのユーザー/アプリですか？</li>
 <li>API 制限に達したか、それとも近いか。 その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>Launchpoint（該当する場合）</td> 
-   <td><li>設定したサービス（ウェビナー、広告など）を教えてください。 彼らの有効期限が近いものはありますか？</li>
-<li>統合では何回の API 呼び出しを使用しますか？</li>
+   <td><li>設定済みのサービス ( 例： <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">ズーム</a>など )? 彼らの有効期限が近いものはありますか？</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API 呼び出し数</a> 統合ではを使用していますか？</li>
 <li>使用例に適した統合を実施しているか。</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>ウェブフック（該当する場合）</td> 
-   <td><li>設定した接続は何ですか？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">接続</a> 設定済みか？</li>
 <li>使用されなくなったものはありますか？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>モバイルアプリ（該当する場合）</td> 
-   <td><li>どのモバイルアプリをお持ちですか？</li>
-<li>追加されたテストデバイスはどれですか？</li></td>
+   <td><li>対象 <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">モバイルアプリ</a> 持ってる？</li>
+<li>次のいずれかを持つ <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">デバイスをテスト</a>  追加された？</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td>アイデアスペース</td> 
-   <td><li>宝箱の中で何が起こってる？</li>
+   <td><li>での表示 <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">宝箱</a>?</li>
 <li>オンまたはオフにする必要がある機能はありますか？</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>キャンペーンインスペクター</td> 
-   <td><li>キャンペーンインスペクターはオンになっていますか？</li>
+   <td><li>次に該当 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">キャンペーンインスペクター</a> オン？</li>
 <li>そうでない場合は、有効にして、アクティブなキャンペーン、CRM との同期、レコードの削除を簡単に識別することを検討してください。</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ ht-degree: 7%
   <tr> 
    <th>エリア</th> 
    <th>レビューフォーカス</th>
-   <th>列 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engageステータスの更新</td> 
-   <td><li>インスタンスはMarketo Engageステータスの更新にサインアップしていますか？</li></td>
-   <td>3</td>
+   <td><li>インスタンスは次のためにサインアップされていますか？ <a href="https://status.adobe.com/" target="_blank">Marketo Engageステータスの更新</a>?</li></td>
   </tr>
   <tr> 
    <td>認証済み連絡先</td> 
-   <td><li>サポートポータルで、許可された適切な連絡先を設定していますか？</li></td>
-   <td>3</td>
+   <td><li>適切な <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">認証済み連絡先</a> 」がサポートポータルに表示される問題を修正しました。</li></td>
   </tr>
   <tr> 
    <td>アラート</td> 
-   <td><li>Marketo Engageから内部チームに送信されるアクティブなアラートはありますか？</li>
+   <td><li>何かあるか <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">アクティブなアラート</a> Marketo Engageから内部チームに送信された場合</li>
 <li>該当する場合、これらのアラートは適切に機能していますか。</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>通知</td> 
-   <td><li>適切な管理者通知を購読しているか。</li></td>
-   <td>3</td>
+   <td><li>適切な管理者を購読していますか？ <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">通知</a>?</li></td>
   </tr>
  </tbody> 
 </table>

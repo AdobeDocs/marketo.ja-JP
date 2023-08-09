@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '9007'
+source-wordcount: '9008'
 ht-degree: 98%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 98%
          + [Adobe IMS が有効のサブスクリプション用 API 専用ユーザの追加](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [ユーザの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+         + [よくある質問](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Adobe ID を使用したユーザログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 設定 {#settings}
@@ -241,7 +242,7 @@ ht-degree: 98%
       + [アドビ組織マッピングの設定](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Adobe Experience Cloud からのオーディエンスの同期](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Adobe Experience Manager でのアセットの読み込み](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Adobe Experience Cloud Interface の概要](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Adobe Experience Cloud インターフェイスの概要](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Marketo の中心概念 {#core-marketo-concepts}
       + スマートキャンペーン {#smart-campaigns}
          + [スマートキャンペーンについて](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
