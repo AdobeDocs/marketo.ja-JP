@@ -4,10 +4,10 @@ description: リードをブロックリストに追加 - Marketo ドキュメ�
 title: リードをブロックリストに追加
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 79%
 
 ---
 
@@ -15,62 +15,70 @@ ht-degree: 100%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
->[!NOTE]
->
->Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
-
 1. [新しいデフォルトプログラムを作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)し、「**ブロックリストに追加**」と名前を付けます。
 
 1. 「**新規作成**」をクリックして、「**新規ローカルアセット**」を選択します。
 
-   ![](assets/image2015-8-14-11-3a0-3a46.png)
+   ![](assets/add-person-to-blocklist-1.png)
+
+1. 「**スマートリスト**」を選択します。
+
+   ![](assets/add-person-to-blocklist-2.png)
 
 1. リストに名前を付け、「**作成**」をクリックします。
 
-   ![](assets/image2015-8-14-11-3a2-3a26.png)
+   ![](assets/add-person-to-blocklist-3.png)
 
 1. ブロックリストに追加するリードをすべて「**スマートリスト**」に追加します。
+
+   ![](assets/add-person-to-blocklist-4.png)
 
    >[!NOTE]
    >
    >ブロックリストに加えられたリードには、オペレーショナルメールが送信されません。
 
-   ![](assets/three-6.png)
+1. プログラムに戻ります。
+
+   ![](assets/add-person-to-blocklist-5.png)
 
 1. 「**新規作成**」をクリックして、「**新規スマートキャンペーン**」を選択します。
 
-   ![](assets/image2015-8-14-11-3a12-3a35.png)
+   ![](assets/add-person-to-blocklist-6.png)
 
 1. **新しいスマートキャンペーン**&#x200B;の名前を指定します。「**作成**」をクリックします。
 
-   ![](assets/image2015-8-14-11-3a13-3a36.png)
+   ![](assets/add-person-to-blocklist-7.png)
 
 1. 「**スマートリストのメンバー**」をドラッグ＆ドロップします。
 
-   ![](assets/image2015-8-14-11-3a16-3a34.png)
+   ![](assets/add-person-to-blocklist-8.png)
 
 1. 先ほど作成したスマートリストを選択します。
 
-   ![](assets/image2015-8-14-11-3a17-3a5.png)
+   ![](assets/add-person-to-blocklist-9.png)
 
-1. 「**データ値を変更**」をドラッグ＆ドロップします。
+1. 「**フロー**」タブをクリックします。次をドラッグ&amp;ドロップ： **データ値の変更** フローアクション。
 
-   ![](assets/image2015-8-14-11-3a18-3a41.png)
+   ![](assets/add-person-to-blocklist-10.png)
 
-1. 「**フロー**」タブで、「**属性**」のドロップダウンから「**ブロックリストに追加済み**」を選択し、「**新しい値**」を「**true**」に設定します。
+1. Adobe Analytics の **属性** ドロップダウン選択 **ブロックリスト登録済み** と設定します。 **新しい値** から **true**.
 
-   ![](assets/image2015-8-14-11-3a21-3a1.png)
+   ![](assets/add-person-to-blocklist-11.png)
 
-1. 「**スケジュール**」タブで、「**1 回実行**」を選択します。
+1. 次をクリック： **スケジュール** 「 」タブで「 」を選択します。 **1 回実行**.
 
-   ![](assets/ten.png)
+   ![](assets/add-person-to-blocklist-12.png)
 
-1. 「**今すぐ実行**」を選択して「**実行**」をクリックします。
+1. 「**今すぐ実行**」を選択し、「**実行**」をクリックします。
 
-   ![](assets/image2015-8-14-11-3a24-3a50.png)
+   ![](assets/add-person-to-blocklist-13.png)
 
-   これで完了です。これらのユーザーにはメールが送信されません。
+1. クリック **実行** 再び
 
-   >[!TIP]
-   >
-   >[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)を使用して、**ブロックリストに追加済みを true** に設定し、将来的にブロックリストに加わる可能性のある属性を持つすべてのユーザーに対して、**トリガースマートキャンペーン**&#x200B;を作成します。
+   ![](assets/add-person-to-blocklist-14.png)
+
+これらのユーザーにはメールが送信されません。
+
+>[!TIP]
+>
+>[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)を使用して、**ブロックリストに追加済みを true** に設定し、将来的にブロックリストに加わる可能性のある属性を持つすべてのユーザーに対して、**トリガースマートキャンペーン**&#x200B;を作成します。

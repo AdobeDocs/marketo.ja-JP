@@ -3,10 +3,10 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 15%
+source-wordcount: '383'
+ht-degree: 9%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 15%
   </tr> 
   <tr> 
    <td>すべてのリード</td> 
-   <td><li>データベースには何人のユーザーが存在しますか？</li>
+   <td><li>には何人のユーザーが存在しますか？ <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">データベース</a>?</li>
 <li>データベース容量がほぼ満杯に近い場合、会社のポリシーでは、データベースサイズの拡大や履歴データの消去を推奨していますか？</li>
-<li>全体的なデータベースは 85%以上の市場で利用可能ですか？ お使いのシステムがこのしきい値に該当する場合は、他のシステムスマートリスト (ブロックリストに加える、マーケティングが中断されました、重複、配信停止 ) を詳細に調べてください。</li></td>
+<li>全体的なデータベースは 85%以上の市場で利用できますか？ お使いのシステムがこのしきい値に該当する場合は、他のシステムスマートリスト (ブロックリストに加える、マーケティングが中断されました、重複、配信停止 ) を詳細に調べてください。</li></td>
   </tr>
   <tr> 
    <td>登録解除済みのリード</td> 
-   <td><li>配信停止済みの担当者に対する条件を教えてください。 配信停止済みの担当者が多すぎますか？</li>
+   <td><li>の条件 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">配信停止済みの担当者</a>? 配信停止済みの担当者が多すぎますか？</li>
 <li>登録解除の方法は、データのプライバシー要件と一致していますか？</li>
 <li>配信停止の設定は最新の状態ですか？ レコードは、どのくらいの期間、データベース内にマーケティング対象外として残っていますか？</li></td>
   </tr>
@@ -72,16 +72,10 @@ ht-degree: 15%
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>グループ スマート リスト</td> 
+   <td><li>どのグループのスマートリストがありますか？ このインスタンスでの使用方法</li>
+<li>リストは、まとまったフォルダ構造で整理されていますか？ 孤立したリストがある場合は、アセットを見つけやすくするためにツリーを整理することを検討します。</li>
+<p>ヒント：組織とパフォーマンスに役立つクエリ、レポート、または参照に不要になったグループスマートリストをアーカイブします。</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ ht-degree: 15%
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>グループ リスト</td> 
+   <td><li>どのグループリストがありますか？</li>
+<li>このインスタンスでの使用方法</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ ht-degree: 15%
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>セグメンテーション</td> 
+   <td><li>対象 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">セグメント化</a> いるの？ どのように使用されていますか？</li>
+<li>人が多すぎますか？ <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">デフォルトセグメント</a>?</li>
+<li>マーケティング可能なオーディエンスのセグメント化はありますか？ そうでない場合は、作成することを検討してください。</li></td>
   </tr>
  </tbody> 
 </table>
