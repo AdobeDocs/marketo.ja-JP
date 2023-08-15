@@ -3,9 +3,9 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 9%
 
 ---
@@ -40,13 +40,13 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>マーケティングを中断したリード</td> 
-   <td><li>マーケティングを中断した条件は何ですか？ マーケティングを中断している人が多すぎますか？</li>
+   <td><li>の条件 <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">マーケティング中断</a>? マーケティングを中断している人が多すぎますか？</li>
 <li>レコードがマーケティングの中断ステータスのままの期間はどれくらいですか？</li>
 <p>マーケティングが中断された使用例の例：マーケティングコミュニケーションを抑制したい最後の段階の商談の販売に積極的に関与しているレコード。</td>
   </tr>
    <tr> 
    <td>ブロックリスト</td> 
-   <td><li>条件を選択してくだブロックリストに加えるさい。 人が多すぎまブロックリストに加えるすか？</li></td>
+   <td><li>の条件 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">レコードブロックリストに加えるの</a>? 人が多すぎまブロックリストに加えるすか？</li></td>
   </tr>
   <tr> 
    <td>バウンスメールアドレス</td> 
@@ -54,11 +54,11 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>重複の可能性</td> 
-   <td><li>重複する可能性のあるレコードはいくつありますか？ 削除またはマージを検討してください。</li></td>
+   <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">重複レコードの可能性がある</a> いるの？ 削除またはマージを検討してください。</li></td>
   </tr>
    <tr> 
    <td>獲得プログラムなし</td> 
-   <td><li>獲得プログラムを持っていない人は何人ですか？ 多くの場合は、理由を調べることを検討します。</li></td>
+   <td><li>割り当てられていないユーザーの数 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">獲得プログラム</a>? 多くの場合は、理由を調べることを検討します。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ ht-degree: 9%
    <td>グループ スマート リスト</td> 
    <td><li>どのグループのスマートリストがありますか？ このインスタンスでの使用方法</li>
 <li>リストは、まとまったフォルダ構造で整理されていますか？ 孤立したリストがある場合は、アセットを見つけやすくするためにツリーを整理することを検討します。</li>
-<p>ヒント：組織とパフォーマンスに役立つクエリ、レポート、または参照に不要になったグループスマートリストをアーカイブします。</td>
+<p>ヒント： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a> 組織とパフォーマンスの問い合わせ、レポート、または参照に不要になったスマートリストをグループ化します。</td>
   </tr>
  </tbody> 
 </table>

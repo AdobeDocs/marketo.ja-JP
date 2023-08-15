@@ -4,10 +4,10 @@ description: Google Chrome への Marketo Insights のインストール - Marke
 title: Google Chrome への Marketo Insights のインストール
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 68%
+source-wordcount: '207'
+ht-degree: 71%
 
 ---
 
@@ -18,10 +18,6 @@ ht-degree: 68%
 >[!NOTE]
 >
 >Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
-
->[!AVAILABILITY]
->
->この拡張機能はと互換性がありません [AdobeID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} この時点で。
 
 1. Chrome ウェブストアから、[Google Chrome アドイン拡張機能向け Marketo Insights](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) をインストールします。{target="_blank"}
 
