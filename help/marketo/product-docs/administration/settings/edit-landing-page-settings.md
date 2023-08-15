@@ -4,9 +4,9 @@ description: ランディングページ設定の編集 - Marketo ドキュメ�
 title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 97%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 97%
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. 悪意のあるサイトがコンテンツを一見ホストしているように見えるのを防ぐには、「**[!UICONTROL 外部の Web ページに Marketo ページの埋め込みを許可しない]**」チェックボックスをオンにします。
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >`<script>` タグをコードの `<head>` タグの最後に事前入力する場合は、「**[!UICONTROL Head の最後に Script を事前挿入]**」ボックスをオンにします。最初に表示する場合は、オフのままにします。
@@ -57,6 +53,6 @@ ht-degree: 97%
 
 1. 選択した後、 **[!UICONTROL 保存]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    完成です。これで、ランディングページに適切な情報が表示され、すぐに作業を開始できます。
