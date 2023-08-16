@@ -3,9 +3,9 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '434'
 ht-degree: 100%
 
 ---
@@ -21,14 +21,6 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## ツアーを行う {#take-the-tour}
-
-初回ログイン時にポップアップが表示され、新しいエクスペリエンスの概要を確認することができます。ツアーは、今スキップして後でおこなうことは&#x200B;**できません**。
-
-![](assets/overview-1.png)
-
-ツアーでは、知る必要のあるすべての情報をご紹介します。
 
 ## 新着情報 {#whats-new}
 

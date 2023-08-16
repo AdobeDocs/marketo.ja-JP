@@ -3,7 +3,7 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 3%
@@ -28,19 +28,19 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>命名規則</td> 
-   <td><li>プログラムの命名規則は一貫していますか？</li></td>
+   <td><li>プログラムに一貫性があるか <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">命名規則</a>?</li></td>
   </tr>
   <tr> 
    <td>フォルダー構造</td> 
-   <td><li>一貫性のあるナビゲーションが容易なフォルダー構造を使用しているか。</li></td>
+   <td><li>一貫性があり、操作が容易か。 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">フォルダー構造</a>?</li></td>
   </tr>
   <tr> 
    <td>プログラム</td> 
    <td><li>プログラムテンプレートに関する研究センターはありますか？ その場合、チームの使用例に対してプログラムテンプレートが意味を持つか。</li>
-<li>類似したプログラムタイプは、一貫して構造化されていますか？</li>
-<li>期間原価は設定されていますか？</li>
-<li>すべてのプログラムは SFDC キャンペーン（該当する場合）に同期されますか？</li>
-<li>獲得プログラムを担当者に割り当てるフローステップはありますか。</li></td>
+<li>類似のプログラムタイプです <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一貫した構造を持つ</a>?</li>
+<li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間原価</a> 配置する？</li>
+<li>すべてのプログラム <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">SFDC キャンペーンに同期済み</a> （該当する場合）?</li>
+<li>次の項目を割り当てるフローステップがありますか？ <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">獲得プログラム</a> 誰かに？</li></td>
   </tr>
   <tr> 
    <td>アーカイブ</td> 
