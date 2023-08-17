@@ -3,9 +3,9 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 3%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>トークン</td> 
-   <td><li>トークンは、定期的に使用されるプログラムの種類で使用されていますか？ KG — ダブルチェックの意味もしそうでない場合は、効率を上げるためにそれらを使うことを検討する必要があります。</li>
+   <td><li>トークンは、最も一般的に使用されるプログラムの種類で使用されていますか？ そうでない場合は、効率を高めるためにこれらを使用することを検討する必要があります。</li>
 <li>トークンが実装されている場合、グローバルフォルダートークンはありますか。 どのように使用されていますか？</li></td>
   </tr>
   <tr> 
