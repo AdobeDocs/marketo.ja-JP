@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,8 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>サンドボックス（該当する場合）</td> 
-   <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>? その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
+   <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>? 
+   <br/>その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">プログラムの読み込み</a> サンドボックスにリンクされているか</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td>スマートキャンペーン設定</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ</li>
-<li>そうでない場合は、追加することを検討します。 過剰な通信を避けたり、ワークフローでデータベース全体を処理したりするのを防ぐため、スマートキャンペーンの制限をデータベースの 25%に制限することは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護するのに役立ちます。</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ 
+   <br/>そうでない場合は、追加することを検討します。 ワークフローでの過剰な通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。 KG — これは正確ですか？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ ht-degree: 5%
   <tr> 
    <td>通信制限</td> 
    <td><li>あるか <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a> その場で？ お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
-<li>Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</li></td>
+<p>注意：Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。 KG — これは正確ですか？</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td>フィールド管理</td> 
-   <td><li>フィールドの数は？ クリック <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">フィールド名をエクスポート</a> をクリックして、フィールド、カスタムフィールドおよび API 名のリストを確認します。</li>
+   <td><li>フィールドの数は？ 
+   <br/>クリック <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">フィールド名をエクスポート</a> をクリックして、フィールド、カスタムフィールドおよび API 名のリストを確認します。</li>
 <li>数 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> いるの？</li>
-<li>使用されているフィールドの数 選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
+<li>使用されているフィールドの数 
+<br/>選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
 <li>Marketo Engageと CRM の間で同期されるのはいくつですか？</li>
 <li>CRM フィールドは適切なオブジェクトに同期されていますか？</li>
 <li>次の項目がありますか？ <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">カスタムビューセット</a> 担当者の詳細について あるべきか？</li>
-<li>ソースに基づいてフィールドの命名規則を設定しているか。 そうでない場合は、この実装を検討してください。</li>
-<li>フィールドがありますか？ <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">ブロック</a>? その理由を必ず理解してください。</li></td>
+<li>ソースに基づいてフィールドの命名規則を設定しているか。 
+<br/>そうでない場合は、この実装を検討してください。</li>
+<li>フィールドがありますか？ <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">ブロック</a>? 
+<br/>その理由を必ず理解してください。</li></td>
   </tr>
   <tr> 
    <td>カスタムアクティビティ</td> 
    <td><li>何かあるか <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">カスタムアクティビティ</a>?</li>
-<li>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</li></td>
+<br/>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</td>
   </tr>
   <tr> 
    <td>カスタムオブジェクト</td> 
@@ -205,7 +210,8 @@ ht-degree: 5%
    <td>CRM</td> 
    <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
 <li>カスタム同期と双方向のどちらですか。 （KG：文法を固定し、重要度をチェック）</li>
-<li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストします。</li></td>
+<li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 
+<p>注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
@@ -216,25 +222,28 @@ ht-degree: 5%
 <li>次に該当 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">パーソナライズ URL</a> 有効？</li>
 <li>次のようにルールが設定されているか <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">リダイレクト</a>?</li>
 <li>ドメインエイリアスが存在するか。 ドメインエイリアスの活用方法について説明していますか。</li>
-<li>次に該当 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">ランディングページのセキュリティ保護されたドメイン</a> 有効？ ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
+<li>次に該当 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">ランディングページのセキュリティ保護されたドメイン</a> 有効？ 
+<br/>ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を (Marketo以外の )Web サイトに追加した場合、</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">追跡しない</a> ブラウザーリクエストが有効ですか？</li>
-<li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ Munchkin コードが Web サイト上のどこにあるかに関するドキュメントが見つからない場合は、基本的な「Analytics」の「Web 分析レポート」を使用して、Munchkin コードが Web サイト上で配置されている場所を把握し、クイックビューを開始します。</li></td>
+<li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ 
+<p>ヒント：Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、基本的な「Analytics」の「Web 分析レポート」を使用して、Munchkin コードが Web サイト上で配置されている場所を把握し、クイックビューを開始します。 KG — これは良いヒントですか</li></td>
   </tr>
   <tr> 
    <td>Web サービス</td> 
    <td><li>次に該当 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 制限</a> 有効？ そうなるべきか？</li>
 <li>インスタンスで API 呼び出しをおこなっているのは、どのユーザー/アプリですか？</li>
-<li>API 制限に達したか、それとも近いか。 その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
+<li>API 制限に達したか、それとも近いか。 
+<br/>その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight（該当する場合）</td> 
    <td><li>次の条件を満たす <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージがインストールされました</a>?</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
-<li>Sales Insight の構成は完了していますか？ Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
+<li>Sales Insight の構成は完了していますか？ <br/>Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ ht-degree: 5%
   <tr> 
    <td>キャンペーンインスペクター</td> 
    <td><li>次に該当 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">キャンペーンインスペクター</a> オン？</li>
-<li>そうでない場合は、有効にして、アクティブなキャンペーン、CRM との同期、レコードの削除を簡単に識別することを検討してください。</li></td>
+<br/>そうでない場合は、有効にして、アクティブなキャンペーン、CRM との同期、レコードの削除など、どのキャンペーンかを簡単に識別することを検討してください。</td>
   </tr>
  </tbody> 
 </table>
