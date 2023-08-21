@@ -3,7 +3,7 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 5%
@@ -55,7 +55,7 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>サンドボックス（該当する場合）</td> 
-   <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>? 
+   <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>?
    <br/>その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">プログラムの読み込み</a> サンドボックスにリンクされているか</li></td>
   </tr>
@@ -187,8 +187,8 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>カスタムアクティビティ</td> 
-   <td><li>何かあるか <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">カスタムアクティビティ</a>?</li>
-<br/>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</td>
+   <td><li>何かあるか <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">カスタムアクティビティ</a>?
+<br/>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</li></td>
   </tr>
   <tr> 
    <td>カスタムオブジェクト</td> 
@@ -280,8 +280,8 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>キャンペーンインスペクター</td> 
-   <td><li>次に該当 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">キャンペーンインスペクター</a> オン？</li>
-<br/>そうでない場合は、有効にして、アクティブなキャンペーン、CRM との同期、レコードの削除など、どのキャンペーンかを簡単に識別することを検討してください。</td>
+   <td><li>次に該当 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">キャンペーンインスペクター</a> オン？
+<br/>そうでない場合は、有効にして、アクティブなキャンペーン、CRM との同期、レコードの削除など、どのキャンペーンかを簡単に識別することを検討してください。</li></td>
   </tr>
  </tbody> 
 </table>

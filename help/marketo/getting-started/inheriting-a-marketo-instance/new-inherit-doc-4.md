@@ -3,7 +3,7 @@ description: ドキュメントを継承 4 - Marketoドキュメント — 製�
 title: ドキュメント 4 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 5%
@@ -64,7 +64,8 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>プライバシーとコンプライアンス</td> 
-   <td><li>フォーム戦略は、企業データのプライバシーやオプトインの要件に合っていますか？ 検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般データ保護規則 (GDPR)</a>, CASL（カナダのスパム対策法）, 2003 年の非迷惑ポルノおよびマーケティング法 (CAN-SPAM) の暴行の規制，カリフォルニア州消費者プライバシー法 (CCPA) など。 規制コンプライアンスの場合</li>
+   <td><li>フォーム戦略は、企業データのプライバシーやオプトインの要件に合っていますか？ 
+   <br/>検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般データ保護規則 (GDPR)</a>, CASL（カナダのスパム対策法），規制コンプライアンスのための 2003 年の非迷惑ポルノグラフィおよびマーケティング法 (CAN-SPAM) の暴行の制御，カリフォルニア州消費者プライバシー法 (CCPA) など。</li>
 <p>ヒント：これらの問題については、常に法務チームにお問い合わせください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td>スニペット</td> 
-   <td><li>数 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">スニペット</a> いるの？ 使用されていますか？ そうでない場合は、 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子メール</a> および <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">ランディングページ</a> フッターコンテンツ、ロゴなど。</li></td>
+   <td><li>数 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">スニペット</a> いるの？ 使用されていますか？ 
+   <br/>そうでない場合は、 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子メール</a> および <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">ランディングページ</a> フッターコンテンツ、ロゴなど。</li></td>
   </tr>
  </tbody> 
 </table>
