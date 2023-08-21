@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 98%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 98%
       + [ランディングページのリダイレクト](getting-started/quick-wins/redirect-a-landing-page.md)
       + [重複の可能性がある人物のアラートの自動化](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketo インスタンスの継承 {#inheriting-a-marketo-instance}
+      + [新しい継承の概要](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [助けてください！既存の Marketo インスタンスを引き継ぎました](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [実行するべきこと](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [確認するべきこと：主要スキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 98%
       + [新規継承ドキュメント 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [新規継承ドキュメント 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [新規継承ドキュメント 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [新規継承ドキュメント 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
