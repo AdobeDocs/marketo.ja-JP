@@ -4,9 +4,9 @@ description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の�
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '847'
 ht-degree: 88%
 
 ---
@@ -147,10 +147,10 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
       <td>最新の注目のアクションのタイプ</td> 
      </tr> 
      <tr> 
-      <td>セールスによる最後の Marketo アクティビティ</td> 
+      <td>セールスによる最後の アクティビティ</td> 
      </tr> 
      <tr> 
-      <td>セールスによる最後の Marketo エンゲージメント</td> 
+      <td>セールスによる最後の エンゲージメント</td> 
      </tr> 
      <tr> 
       <td>MSI 取引先責任者 ID</td> 
@@ -294,7 +294,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**Marketo Sales Insight の設定**」をクリックします。
 
-1. の Soap API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} をクリックし、Salesforce Sales Insight 設定ページの「Soap API」セクションに貼り付けます。
+1. の Soap API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} をクリックし、Salesforce Sales Insight 設定ページの「SOAP API」セクションに貼り付けます。
 
 1. の Rest API パネルから資格情報をコピーします。 [Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} をクリックし、Salesforce Sales Insight 設定ページの Rest API セクションに貼り付けます。
 
@@ -304,7 +304,7 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
 
 >[!NOTE]
 >
->診断テストに失敗した場合は、次の操作を行う必要があります。 [ページレイアウトにフィールドを追加](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
+>診断テストに失敗した場合は、次の操作を行う必要があります。 [ページレイアウトにフィールドを追加する](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
 
 >[!NOTE]
 >
