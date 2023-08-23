@@ -3,20 +3,16 @@ description: ドキュメントを継承 4 - Marketoドキュメント — 製�
 title: ドキュメント 4 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 5%
 
 ---
 
 # ドキュメント 4 を継承 {#inherit-doc-4}
 
-別の管理者から既存のMarketo Engageインスタンスを継承したか。 その場合は、この記事があなたのためのものです。
-
->[!TIP]
->
->新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo用語集](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+テンプレートを構造化し、グローバルフォーム、スニペット、画像およびファイルを作成すると、データエラーを最小限に抑えると共に、プログラムの作成ワークフローを合理化できます。
 
 ## ランディングページ {#landing-pages}
 
@@ -35,6 +31,10 @@ ht-degree: 5%
    <td><li>数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">ランディングページテンプレート</a> いるの？ 彼らは活用されているのですか？</li></td>
   </tr>
   <tr> 
+   <td>テストグループ</td> 
+   <td><li>数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">ランディングページのテストグループ</a> 彼らは？ まだ関連性があるのか？</li></td>
+  </tr>
+   <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>すべてのランディングページに適切なフッターがあるか。</li></td>
   </tr>
@@ -88,6 +88,10 @@ ht-degree: 5%
    <td><li>数 <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">電子メールテンプレート</a> いるの？ 彼らは活用されているのですか？</li></td>
   </tr>
   <tr> 
+   <td>メールテスト</td> 
+   <td><li>使用方法 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">メールテスト</a>? あなたの方法はまだ有効ですか？</li></td>
+  </tr>
+  <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>すべてのメールに適切なフッターがありますか？ GDPR、CASL、CAN-SPAM、CCPA などを考慮します。 コンプライアンスに関する影響</li>
 <p>ヒント：コンプライアンスに関する問題については、常に法務チームに相談してください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
@@ -135,3 +139,30 @@ ht-degree: 5%
   </tr>
  </tbody> 
 </table>
+
+## すべてのアセット {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>エリア</th> 
+   <th>レビューフォーカス</th>
+  </tr> 
+  <tr> 
+   <td>アセットステータス</td> 
+   <td><li>にあるアセットの数 <i>ドラフト</i> および <i>承認待ち下書きあり</i> ステータス？
+   <br/>多数の場合は、削除または承認することを検討してください。</li></td>
+  </tr>
+  <tr> 
+   <td>アセットの共有</td> 
+   <td><li>どのアセットが <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">ワークスペースで共有</a>?</li>
+   <p>注意：ある Workspace で実行されたアクションによって、別のユーザーが別の Workspace でアクセスできなくなる可能性があるので、これを把握しておくことが重要です。</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄継承されたインスタンスの監査：マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[継承されたインスタンスの監査：継承されたインスタンスの設定のドキュメント化►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
