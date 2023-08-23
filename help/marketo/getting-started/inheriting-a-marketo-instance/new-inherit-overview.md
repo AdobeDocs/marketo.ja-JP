@@ -3,22 +3,38 @@ description: 継承した既存のMarketo Engageインスタンスを最適化�
 title: 継承されたMarketo Engageインスタンスをすぐに開始
 hide: true
 hidefromtoc: true
-source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
+source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 9%
+source-wordcount: '353'
+ht-degree: 26%
 
 ---
 
 # 継承されたMarketo Engageインスタンスをすぐに開始 {#jumpstart-an-inherited-marketo-engage-instance}
 
-新しいジョブを開始しますか。それとも、別の管理者から既存のインスタンスを引き継ぎますか。 しばらく実行されているライブインスタンスを引き継ぐと、少し手間がかかるように見えますが、このガイドが役に立ちます。
+新しいジョブを開始しますか。それとも、別の管理者から既存のインスタンスを引き継ぎますか。 しばらく実行されているライブインスタンスを引き継ぐと、少し困難に見える場合がありますが、このガイドはすぐに使い始めるのに役立ちます。
 
-「Marketo Engageインスタンス監査管理チェックリスト」を使用して、インスタンスの確認とテスト、エラーのトラブルシューティング、問題が発生する前の赤いフラグの調査をおこないます。
+## 実行するべきこと {#items-to-check-off}
+
+適切な種類のアクセスと情報で適切に設定されていることを確認します。
+
+* の概要を簡単に見る **Marketoとは** - KG — より良いビデオまたはDELETEを見つける
+
+* **Marketing Nation**[**** コミュニティの](https://nation.marketo.com/)プロファイルを設定{target="_blank"}する（ユーザー名とパスワードが必要です）。
+
+* 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+* Marketo Nation コミュニティプロファイルの「**[!UICONTROL 場所]**」をクリックして、会社のアカウントページを確認する。
+
+* 方法を学ぶ [**サポートケースを提出する**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}) をクリックします。
+
+* [**ユーザーを管理**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"}&#x200B;し、会社を離れたユーザーを削除する。
 
 ## 継承されたインスタンス監査ガイド {#inherited-instance-audit-guides}
 
-以下のオンラインガイドは、Marketo Engageの様々な領域を移動し、監査の実行に必要な様々なタスクに対処するのに役立ちます。推奨されるヘルプドキュメントへのリンクも含まれています。 また、スプレッドシート形式でチェックリストをダウンロードすることもできます。
+以下のチェックリストは、Marketo Champions からの入力と共に作成され、迅速にスピードを上げるのに役立ちます。 Marketo Engageの様々な領域をナビゲートし、監査の実行に必要な様々なタスクを実行する方法について説明し、推奨されるヘルプドキュメントへのリンクを含めます。
+
+また、チェックリストをスプレッドシート形式でダウンロードすることもできます。
 
 * [管理セクション](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 
@@ -30,19 +46,14 @@ ht-degree: 9%
 
 * [継承されたインスタンスの設定のドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 
+## ヘルプの入手方法 {#ways-to-get-help}
 
-H2:Marketo Engageは初めてですか。 次に、前提条件を示します。
+詳細なヘルプが必要な場合は、 以下のリンクから、アドビまたは他のMarketo Engageユーザーに連絡します。
 
-実行するべきこと
+* 適切に動作しない問題に関する技術的なサポートについては、 **[Marketo Engageカスタマーサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-確認するべきこと：主要スキル
+* 内の他のMarketo Engageユーザーとのつながりと学習 **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
-ヘルプの入手方法
+* Marketo Engageインスタンスを最大限に活用するための実践的なサポートについては、以下にお問い合わせください。 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-
-
-H2：刺激を受け、仲間とつながりを持つ
-
-
-
-Marketing Nation コミュニティにアクセスして、他の管理者が継承されたインスタンスをより効率的に監査する方法を確認してください。
+* Marketo Engageスキルを向上させるには、 **[Marketo Engageコースカタログ](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
