@@ -3,20 +3,16 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 3%
 
 ---
 
 # ドキュメント 3 を継承 {#inherit-doc-3}
 
-別の管理者から既存のMarketo Engageインスタンスを継承したか。 その場合は、この記事があなたのためのものです。
-
->[!TIP]
->
->新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo用語集](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+マーケティングアクティビティは、マーケティングチームがスマートキャンペーンを作成し、クリエイティブアセット（電子メールやランディングページなど）を構築し、アセットのパフォーマンスを表示できる場所です。
 
 ## 組織 {#organization}
 
@@ -45,9 +41,9 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>アーカイブ</td> 
-   <td><li>古いプログラムですか？ <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a>? 
-   <br/>ベストプラクティスは、毎年レビューすることです。 KG — これは TRUE です</li>
-<li>古いプログラムのレビューとアーカイブの頻度は？</li></td>
+   <td><li>古いプログラムですか？ <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a>?</li>
+<li>古いプログラムのレビューとアーカイブの頻度は？</li>
+<p>ヒント：毎年レビューを行うのが良いです。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -83,8 +79,7 @@ ht-degree: 3%
 <li>数 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">の担当者が消費済みです</a>? 
 <br/>消費済みの担当者が多い場合は、コンテンツの追加を検討します。</li>
 <li>顧客がコンテンツに関心を持っているか。 
-<br/>そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">人数</a> KG — すべてのプログラムを一度に見る方法はありますか？ 複数のエンゲージメントプログラムに存在することを確認する必要はありませんか？ 複数に含める必要がありますか？</li></td>
+<br/>そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li></td>
   </tr>
   <tr> 
    <td>バッチキャンペーン</td> 
@@ -169,3 +164,9 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄継承されたインスタンスの監査：データベース](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[継承されたインスタンスの監査： Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

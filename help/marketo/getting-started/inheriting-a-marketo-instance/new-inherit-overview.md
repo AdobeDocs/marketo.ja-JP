@@ -3,10 +3,10 @@ description: 継承した既存のMarketo Engageインスタンスを最適化�
 title: 継承されたMarketo Engageインスタンスをすぐに開始
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 26%
+source-wordcount: '335'
+ht-degree: 27%
 
 ---
 
@@ -55,5 +55,3 @@ ht-degree: 26%
 * 内の他のMarketo Engageユーザーとのつながりと学習 **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
 * Marketo Engageインスタンスを最大限に活用するための実践的なサポートについては、以下にお問い合わせください。 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Marketo Engageスキルを向上させるには、 **[Marketo Engageコースカタログ](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

@@ -3,20 +3,16 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 9%
 
 ---
 
 # ドキュメント 2 を継承 {#inherit-doc-2}
 
-別の管理者から既存のMarketo Engageインスタンスを継承したか。 その場合は、この記事があなたのためのものです。
-
->[!TIP]
->
->新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo用語集](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+サブスクリプションでの人数、マーケティング可能な人数、トップの人物獲得ソースの合計数を把握します。
 
 ## システム スマート リスト {#system-smart-lists}
 
@@ -116,3 +112,9 @@ ht-degree: 9%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄継承されたインスタンスの監査：管理者](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[継承されたインスタンスの監査：マーケティングアクティビティ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

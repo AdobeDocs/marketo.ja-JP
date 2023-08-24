@@ -3,20 +3,18 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 5%
 
 ---
 
 # ドキュメント 1 を継承 {#inherit-doc-1}
 
-継承されたインスタンスの監査は、次のように見える場合があります。
+新しいAdobe Marketo Engage管理者として、継承されたインスタンスの正常性と存続性を確認するために実行するタスクがいくつかあります。
 
-別の管理者から既存のMarketo Engageインスタンスを継承したか。 その場合、この記事はあなたのために…
-
-継承されたインスタンスで迅速に習得できるよう、以下のチェックリストがMarketo Champions の入力と共に追加されました。
+以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、すばやく習得できるよう、Marketo Champions の入力と共に追加されました。 インスタンス継承インスタンスのMarketo Engageリストに進捗を記録します。
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ ht-degree: 5%
   <tr> 
    <td>スマートキャンペーン設定</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ 
-   <br/>そうでない場合は、追加することを検討します。 ワークフローでの過剰な通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。 KG — これは正確ですか？</li></td>
+   <br/>そうでない場合は、追加することを検討します。 ワークフローでの過剰通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ ht-degree: 5%
   <tr> 
    <td>通信制限</td> 
    <td><li>あるか <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a> その場で？ お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
-<p>注意：Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。 KG — これは正確ですか？</td>
+<p>注意：Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ ht-degree: 5%
   <tr> 
    <td>CRM</td> 
    <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
-<li>カスタム同期と双方向のどちらですか。 （KG：文法を固定し、重要度をチェック）</li>
+<li>カスタム同期を使用しているか。</li>
 <li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 
 <p>注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
   </tr>
@@ -313,3 +311,7 @@ ht-degree: 5%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[継承されたインスタンスの監査：データベース►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

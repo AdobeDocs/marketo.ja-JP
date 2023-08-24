@@ -3,16 +3,16 @@ description: ドキュメントを継承 5 - Marketoドキュメント — 製�
 title: ドキュメント 5 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # ドキュメント 5 を継承 {#inherit-doc-5}
 
-テキスト
+これで、確立されたインスタンスを継承する際に監査する主な製品領域を学びました。次の手順は、インスタンス設定とテクニカルスタックに関するドキュメントを作成/更新することです。 スプレッドシートやプロジェクト管理アプリケーションを使用して作成する場合でも、ドキュメントを参照すれば、進行状況を追跡し、詳細を記録するのに役立ちます。
 
 ## データ {#data}
 
@@ -51,7 +51,7 @@ ht-degree: 4%
   <tr> 
    <td>組織</td> 
     <td><li>Marketo Engageインスタンスの整理方法とその理由に関する堅牢なドキュメントを用意していますか？</li>
-   <p>アクション項目：フォルダー構造、命名規則、チャネル/ステータスを含むドキュメントを作成します。 KG - STATUTES? お使いのインスタンスで使用されています。</td>
+   <p>アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ ht-degree: 4%
   </tr>
  </tbody> 
 </table>
+
+[◄継承されたインスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

@@ -3,10 +3,10 @@ description: キャンペーンの実行 - Marketo ドキュメント - 製品�
 title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
-ht-degree: 100%
+source-wordcount: '709'
+ht-degree: 97%
 
 ---
 
@@ -103,7 +103,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 **例 2 - False**
 
-2 つ目の親キャンペーンの実行キャンペーンフィルターで、「親キャンペーントークンコンテキストを使用する」が **False**.に設定されています。
+2 つ目の親キャンペーンのキャンペーンフローの実行ステップで、「親キャンペーントークンのコンテキストを使用」がに設定されています。 **False**.
 
 ![](assets/execute-campaign-8.png)
 
