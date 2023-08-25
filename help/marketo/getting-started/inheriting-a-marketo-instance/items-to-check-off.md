@@ -4,22 +4,22 @@ description: 実行するべきこと - Marketo ドキュメント - 製品ド�
 title: 実行するべきこと
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 639409b6322aae0cb74943bc286e30ea36f19131
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 89%
+source-wordcount: '115'
+ht-degree: 75%
 
 ---
 
 # 実行するべきこと {#items-to-check-off}
 
-適切な種類のアクセスと情報で適切に設定されていることを確認します。これらの簡単な手順を実行すると、TODO リストのいくつかの項目にすぐにチェックマークを入れることができます。
+適切な種類のアクセスと情報で適切に設定されていることを確認します。
 
 * の概要を簡単に見る [**Marketoとは**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Marketing Nation**[**** コミュニティの](https://nation.marketo.com/)プロファイルを設定{target="_blank"}する（ユーザー名とパスワードが必要です）。
 
-* [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) コミュニティで、質問に対する回答を取得する。{target="_blank"}
+* 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Marketo Nation コミュニティプロファイルの「**[!UICONTROL 場所]**」をクリックして、会社のアカウントページを確認する。
 
