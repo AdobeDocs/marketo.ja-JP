@@ -4,10 +4,10 @@ description: Web ページアクティビティレポート - Marketo ドキュ�
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 95%
 
 ---
 
@@ -19,13 +19,12 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)して、**web ページアクティビティレポート**[レポートタイプ](report-type-overview.md)を選択します。
+1. [レポートの作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) をクリックし、 **ウェブページアクティビティレポート** [レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}を選択します。
 
-1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
-
-1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}し、「**レポート**」タブをクリックします。
 
 1. 完成です。レポートをレビューして、サイトの訪問者を確認します。
 
@@ -37,10 +36,10 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >サイトを最も多く訪問したリードを見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「降順に並べ替え」を選択します。
+   >サイトを最も多く訪問したリードを見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}て、「降順に並べ替え」を選択します。
 
-   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。\
-   Web ページアクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
+   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。\
+   Web ページアクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}は次のとおりです。
 
 <table> 
  <thead> 
@@ -60,7 +59,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>ページ表示</td> 
-   <td>この訪問者が読み込んだページの数。<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">クリック</a></strong>すると、訪問されたページが表示されます。</td> 
+   <td>この訪問者が読み込んだページの数。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">クリック</a></strong>すると、訪問されたページが表示されます。</td> 
   </tr> 
   <tr> 
    <td>HTTP 照会元</td> 
@@ -83,9 +82,9 @@ ht-degree: 100%
 
 >[!TIP]
 >
->セールス担当者が喜びます。セールスエリアで[レポートをフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)して[購読してもらいます。](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+>セールス担当者が喜びます。[レポートのフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >
->* [閲覧された web ページ、web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [Web レポートでのリードまたは匿名の訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [閲覧された web ページ、web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
+>* [Web レポートでのリードまたは匿名の訪問者の表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}

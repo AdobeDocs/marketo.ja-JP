@@ -3,9 +3,9 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 3%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 3%
    <td>ローカルForms</td> 
    <td><li>ローカルのプログラムの数 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">フォーム</a>? これらのフォームをグローバルフォームに変換する必要がありますか？</li>
 <li>マーケティングチームやセールスチームに適したデータを収集しているか。</li>
-<p>ヒント：更新を容易にし、データのプライバシーやオプトイン/オプトアウトポリシーに応じて変更に合わせられるように、ローカルフォームの数を制限します。 フォームを作成する際に、どのような質問をする必要があるかを検討します。 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームを検討してください。 KG — これを確認</td>
+<p>ヒント：更新を容易にし、データのプライバシーやオプトイン/オプトアウトポリシーに応じて変更に合わせられるように、ローカルフォームの数を制限します。 フォームを作成する際には、どのような質問をする必要がありますか？ 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームを検討してください。</td>
   </tr>
   <tr> 
    <td>グローバルフォーム</td> 
@@ -131,11 +131,11 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>データの標準化</td> 
-   <td><li>受信データを標準化する一元化されたプログラムを用意しているか。 KG — これをダブルチェック</li></td>
+   <td><li>受信データを標準化する一元化されたプログラムを用意しているか。</li></td>
   </tr>
   <tr> 
    <td>バウンス管理</td> 
-   <td><li>対応する一元化されたプログラムがありますか？ <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">バウンスする人</a>? KG — この 2017 年の記事はまだ関連性がありますか？</li></td>
+   <td><li>対応する一元化されたプログラムがありますか？ <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">バウンスする人</a>?</li></td>
   </tr>
   <tr> 
    <td>プライバシーとコンプライアンス</td> 

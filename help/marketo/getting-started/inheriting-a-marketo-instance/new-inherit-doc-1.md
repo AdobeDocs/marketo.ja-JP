@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1209'
 ht-degree: 5%
 
 ---
@@ -126,7 +126,7 @@ ht-degree: 5%
   <tr> 
    <td>通信制限</td> 
    <td><li>あるか <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a> その場で？ お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
-<p>注意：Adobeでは、1 日に 1 回、7 日に 3 回に制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</td>
+<p>注意：では、1 日に 1 回、7 日に 3 回のみの通信を制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</td>
   </tr>
  </tbody> 
 </table>
@@ -228,7 +228,7 @@ ht-degree: 5%
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を (Marketo以外の )Web サイトに追加した場合、</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">追跡しない</a> ブラウザーリクエストが有効ですか？</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ 
-<p>ヒント：Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、基本的な「Analytics」の「Web 分析レポート」を使用して、Munchkin コードが Web サイト上で配置されている場所を把握し、クイックビューを開始します。 KG — これは良いヒントですか</li></td>
+<p>ヒント： Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">ウェブページアクティビティレポート</a>.</li></td>
   </tr>
   <tr> 
    <td>Web サービス</td> 
