@@ -4,16 +4,20 @@ description: プログラムスケジュールビューのエントリタイプ 
 title: プログラムスケジュールビューのエントリタイプ
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 80%
 
 ---
 
 # プログラムスケジュールビューのエントリタイプ {#program-schedule-view-entry-types}
 
 プログラムスケジュールビューで使用できる、組み込み済みのエントリタイプが 8 種類あります。また、「管理者」セクションで、[カスタムエントリタイプを作成する](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)こともできます。
+
+>[!NOTE]
+>
+>繰り返しスマートキャンペーンは、 **not** スケジュールビューでサポートされます。
 
 <table> 
  <thead> 
@@ -29,11 +33,11 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">スマートキャンペーン <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">スケジュール済みのスマートキャンペーン（メール送信フローステップなし）。</td> 
+   <td colspan="1" rowspan="1">スケジュールされたスマートキャンペーン（メール送信フローステップなし）</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">メールによるスマートキャンペーン <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>スケジュール済みのスマートキャンペーン（少なくとも 1 つメール送信フローステップがある）。</p></td> 
+   <td colspan="1" rowspan="1"><p>スケジュールされたスマートキャンペーンに、メール送信フローステップが 1 つ以上含まれています。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">メールプログラム <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
