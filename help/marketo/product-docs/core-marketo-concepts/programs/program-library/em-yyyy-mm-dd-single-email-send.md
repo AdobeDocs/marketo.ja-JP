@@ -1,19 +1,19 @@
 ---
-description: CT-YYYY-MM-Content(Marketoランディングページ ) - Marketoドキュメント — 製品ドキュメント
-title: CT-YYYY-MM-Marketo ランディングページのコンテンツ
+description: EM-YYYY-MM-DD — 単一メール送信 — Marketoドキュメント — 製品ドキュメント
+title: EM-YYYY-MM-DD-Single E メール送信
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 17%
+source-wordcount: '290'
+ht-degree: 20%
 
 ---
 
-# CT-YYYY-MM-Marketo ランディングページのコンテンツ {#ct-yyyy-mm-content-on-marketo-landing-page}
+# EM-YYYY-MM-DD-Single E メール送信 {#em-yyyy-mm-dd-single-email-send}
 
-この例は、Marketo Engageのデフォルトプログラムを利用するMarketo Engageフォームを持つMarketo Engageランディングページを利用するコンテンツプログラムであるように設計されています。 フォームは、コンテンツ/オファーにアクセスするためのものです。 オファーへのリンクは、「ありがとうございます」ページに表示したり、「ありがとうございます」E メールに送信したり、両方に送信したりできます。
+この例では、Marketo E メールプログラムを使用して 1 件の E メールを送信します。 A/B テストを含めるかどうかは電子メールに記載されます。
 
 戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
 
@@ -28,11 +28,11 @@ ht-degree: 17%
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
-   <td>Web コンテンツ</td> 
+   <td>メール</td> 
    <td>01 — メンバー 
 <br/>02-Engaged-Success</td>
    <td>包含</td>
-   <td>デフォルト</td>
+   <td>メール</td>
   </tr>
  </tbody> 
 </table>
@@ -52,21 +52,6 @@ ht-degree: 17%
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>01 - LP — 登録</td>
-  </tr>
-  <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>02 - LP — ありがとうございます</td>
-  </tr>
-  <tr> 
-   <td>フォーム</td> 
-   <td> </td>
-   <td>コンテンツ登録フォーム</td>
-  </tr>
-  <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
    <td>メールの効果</td>
@@ -74,17 +59,13 @@ ht-degree: 17%
   <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
-   <td>ランディングページの効果</td>
+   <td>メールリンクの効果</td>
   </tr>
+  <tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 入力済みフォーム</td>
-  </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>02 — エンゲージ済み（プログラム成功）</td>
+   <td>01 — エンゲージ済み（プログラム成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -115,32 +96,6 @@ ht-degree: 17%
    <th>トークンのタイプ</th> 
    <th>トークン名</th>
    <th>値</th>
-  </tr> 
-  <tr> 
-   <td>リッチテキスト</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>ダブルクリックして詳細を表示  
-<br/><code><--My Content Description Here--></code> 
-<br/>このコンテンツの説明は、プログラムレベルの「マイトークン」タブで編集します。 
-<br/>学習内容： 
-<li>箇条書き 1</li>
-<li>箇条書き 2</li>
-<li>箇条書き 3</li></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Content-Title}}</code></td>
-   <td><code><--My Content Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Content-Type}}</code></td>
-   <td><code><--My Content Type Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Content-URL}}</code></td>
-   <td>my.ContentURL?without=http://</td>
   </tr>
   <tr> 
    <td>テキスト</td> 
@@ -156,11 +111,6 @@ ht-degree: 17%
    <td>テキスト</td> 
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.ThankYouPageURL?http://</td>
   </tr>
  </tbody> 
 </table>
@@ -187,9 +137,6 @@ ht-degree: 17%
 
 ## ベストプラクティス {#best-practices}
 
-* コンテンツプログラムを読み込んだ後、フォームをローカルアセットから Design Studio 内のグローバルアセットに移動します。
-   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムのデザインと管理ガバナンスにおけるスケーラビリティを高めることができます。 また、フィールド、オプトイン言語などに対する定期的なコンプライアンス更新を柔軟におこなうこともできます。
-
 * 現在ブランド化されているテンプレートを利用するには、読み込んだプログラムでテンプレートを更新することを検討するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートをブランドに合わせて更新します。
 
 * 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
@@ -200,8 +147,4 @@ ht-degree: 17%
 
 >[!TIP]
 >
->成功を追跡するための「02-Engaged」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
-
->[!IMPORTANT]
->
->URL を参照する My Tokens にhttp://やhttps://を含めることはできません。含めないと、リンクがアセット内で適切に機能しません。
+>成功を追跡するための「01-Engaged」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
