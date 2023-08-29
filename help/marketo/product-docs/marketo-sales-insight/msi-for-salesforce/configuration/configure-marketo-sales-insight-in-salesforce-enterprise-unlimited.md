@@ -4,10 +4,10 @@ description: Salesforce Enterprise／Unlimited での Marketo Sales Insight の�
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 88%
+source-wordcount: '937'
+ht-degree: 80%
 
 ---
 
@@ -80,6 +80,20 @@ Salesforce Enterprise／Unlimited Editions で Marketo Sales Insight を設定�
    >[!NOTE]
    >
    >__「**リモートサイト名**」を選択します（MarketoAPI はここで使用されます）。**リモートサイト URL** は、「Marketo での Sales Insight の設定」節の手順 3、API 設定を編集ダイアログボックスの「Marketo ホスト」フィールドにあります。
+
+## Sales Insight ユーザーに標準 Salesforce オブジェクトへのプロファイルアクセスを許可する {#grant-sales-insight-users-profile-access}
+
+Saleforce のセキュリティ強化により、App Exchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザーのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。  次の手順に従って、必要な権限を付与します。
+
+1. 「**設定**」をクリックします。
+
+1. クイック検索で「プロファイル」を検索します。
+
+1. クリック **編集** Salesforce ユーザーが使用しているプロファイルの横に表示されます。
+
+1. [ 標準オブジェクト権限 ] セクションで、リード、連絡先、アカウント、商談の各オブジェクトに対して読み取りアクセスを有効にします。
+
+1. 「**保存**」をクリックします。
 
 ## ページレイアウトのカスタマイズ {#customize-page-layouts}
 
