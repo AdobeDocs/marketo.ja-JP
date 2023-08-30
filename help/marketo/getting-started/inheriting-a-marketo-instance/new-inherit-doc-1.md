@@ -3,29 +3,58 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
-ht-degree: 5%
+source-wordcount: '1428'
+ht-degree: 6%
 
 ---
 
 # ドキュメント 1 を継承 {#inherit-doc-1}
 
-新しいAdobe Marketo Engage管理者として、継承されたインスタンスの正常性と存続性を確認するために実行するタスクがいくつかあります。
-
-以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、すばやく習得できるよう、Marketo Champions の入力と共に追加されました。 インスタンス継承インスタンスのMarketo Engageリストに進捗を記録します。
+以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、すばやく習得できるよう、Marketo Champions の入力と共に組み立てられました。 また、チェックリストをダウンロードして、進行状況を追跡することもできます。
 
 >[!TIP]
 >
 >新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo用語集](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">エリア</th> 
+   <th>レビューフォーカス</th>
+  </tr> 
+  <tr> 
+   <td>サブスクリプション</td> 
+   <td><li>Marketo Engageの配信登録： <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">AdobeIdentity Management System</a> (Adobe IMS) まだ？ 
+<br/>
+その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。<br/>そうでない場合は、 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">従来のユーザーの役割と権限のエクスペリエンス</a> Marketo Engage/管理者/ユーザーとロールで、購読が更新されるまで。</li></td>
+  </tr>
+  <tr> 
+   <td>製品プロファイル</td> 
+   <td>(Adobe IMSの申込み <b>のみ</b>)
+<p>
+<li>Marketo Engage/管理者/ユーザーとロールで「Marketo Engage製品管理者」の役割が付与されていますか？</li> 
+<li>Adobe Admin Console内のすべての適切なMarketo Engageの製品プロファイルに製品を割り当てているか。
+<br/>そうでない場合は、Marketo Engage/管理者/ユーザーとロールでロールを割り当てる前に、Marketo EngageをAdobe IMS製品プロファイルに割り当ててください。</li>
+<p>注意：サブスクリプションに 75 人を超えるAdobe IMSが含まれ、単にAdobeに移行された場合、バッチで移行するユーザーを選択し、グループまたは一度に一度に移行を管理するオプションがあります。 今後に関する詳細を表示 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移行日</a>.</td>
+  </tr>
+  <tr> 
+   <td>ユーザー管理 API</td> 
+   <td><li>サブスクリプションでMarketo User Management API を使用しているか。
+<br/>その場合は、 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMSAPI</a> をクリックして、今後のユーザーの招待、更新、削除を行います。</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## ユーザ&amp;ロール {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -47,6 +76,10 @@ ht-degree: 5%
 <li>ユーザーの役割と権限を企業データに合わせて調整する <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a>?</li></td>
   </tr>
   <tr> 
+   <td>サポートユーザー</td> 
+   <td><li>適切な <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">認証済み連絡先</a> 」がサポートポータルに表示される問題を修正しました。</li></td>
+  </tr>
+  <tr> 
    <td>内部ドキュメント</td> 
    <td><li>組織でユーザーと役割が明確に定義されているか。</li>
 <li>新しいユーザー/管理者を追加するプロセスは何ですか？</li></td>
@@ -54,7 +87,7 @@ ht-degree: 5%
   <tr> 
    <td>サンドボックス（該当する場合）</td> 
    <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>?
-   <br/>その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
+   <br/>  その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">プログラムの読み込み</a> サンドボックスにリンクされているか</li></td>
   </tr>
  </tbody> 
@@ -65,7 +98,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -80,21 +113,21 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>ワークスペースとパーティション</td> 
-   <td><li>数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">ワークスペースとパーティション</a> 持ってる？</li>
+   <td><li>数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">ワークスペースおよび/またはパーティション</a> 持ってる？</li>
 <li>各ワークスペースとパーティションの主な目的は何ですか。</li>
 <li>次のいずれかを実行します。 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> または <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">区分</a> 監査/変更が必要ですか？</li>
 <li>ワークスペースとパーティションの関係は何ですか？</li>
-<li>ユーザー数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">アクセス権を持つ</a> を各ワークスペースに追加します。</li></td>
+<li>ユーザー数 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">アクセス権を持つ</a> を各ワークスペースに追加しますか？</li></td>
   </tr>
   <tr> 
    <td>内部ドキュメント</td> 
    <td><li>ワークスペースとパーティションの定義方法</li>
-<li>インスタンスにワークスペースを追加したり、ワークスペースにユーザーを追加したりするプロセスは何ですか？</li></td>
+<li>ワークスペースをインスタンスに追加したり、ユーザーをワークスペースに追加したりするには、どのようなプロセスを実行しますか？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -104,7 +137,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -120,7 +153,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -136,7 +169,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -165,7 +198,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -175,13 +208,13 @@ ht-degree: 5%
 <li>数 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> いるの？</li>
 <li>使用されているフィールドの数 
 <br/>選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
-<li>Marketo Engageと CRM の間で同期されるのはいくつですか？</li>
+<li>Marketo Engageと CRM の間で同期されるフィールドの数</li>
 <li>CRM フィールドは適切なオブジェクトに同期されていますか？</li>
 <li>次の項目がありますか？ <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">カスタムビューセット</a> 担当者の詳細について あるべきか？</li>
 <li>ソースに基づいてフィールドの命名規則を設定しているか。 
 <br/>そうでない場合は、この実装を検討してください。</li>
 <li>フィールドがありますか？ <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">ブロック</a>? 
-<br/>その理由を必ず理解してください。</li></td>
+<br/>その場合は、その理由を必ず理解してください。</li></td>
   </tr>
   <tr> 
    <td>カスタムアクティビティ</td> 
@@ -201,13 +234,13 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
-<li>カスタム同期を使用しているか。</li>
+<li>を使用しているか <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">カスタム同期</a>?</li>
 <li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 
 <p>注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
   </tr>
@@ -219,7 +252,7 @@ ht-degree: 5%
 <li>フォームの事前入力は有効になっていますか？</li>
 <li>次に該当 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">パーソナライズ URL</a> 有効？</li>
 <li>次のようにルールが設定されているか <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">リダイレクト</a>?</li>
-<li>ドメインエイリアスが存在するか。 ドメインエイリアスの活用方法について説明していますか。</li>
+<li>ドメインエイリアスが存在するか。 ドメインエイリアスの利用方法を追跡していますか？</li>
 <li>次に該当 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">ランディングページのセキュリティ保護されたドメイン</a> 有効？ 
 <br/>ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
   </tr>
@@ -242,17 +275,18 @@ ht-degree: 5%
    <td><li>次の条件を満たす <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージがインストールされました</a>?</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
 <li>Sales Insight の構成は完了していますか？ <br/>Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
-<li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li></td>
+<li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li>
+<li>次に該当 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">星と炎</a> カスタマイズ済み？</li></td>
   </tr>
   <tr> 
    <td>Launchpoint（該当する場合）</td> 
-   <td><li>設定済みのサービス ( 例： <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">ズーム</a>など )? 彼らの有効期限が近いものはありますか？</li>
+   <td><li>設定済みのサービス ( 例： <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightTALK</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">ズーム</a>など )? 彼らの有効期限が近いものはありますか？</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API 呼び出し数</a> 統合ではを使用していますか？</li>
 <li>使用例に適した統合を実施しているか。</li></td>
   </tr>
   <tr> 
    <td>ウェブフック（該当する場合）</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">接続</a> 設定済みか？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">接続</a> 準備は？</li>
 <li>使用されなくなったものはありますか？</li></td>
   </tr>
   <tr> 
@@ -268,7 +302,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -284,21 +318,17 @@ ht-degree: 5%
  </tbody> 
 </table>
 
-## その他 {#miscellaneous}
+## アラートと更新 {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:25%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>Marketo Engageステータスの更新</td> 
-   <td><li>インスタンスは次のためにサインアップされていますか？ <a href="https://status.adobe.com/" target="_blank">Marketo Engageステータスの更新</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>認証済み連絡先</td> 
-   <td><li>適切な <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">認証済み連絡先</a> 」がサポートポータルに表示される問題を修正しました。</li></td>
+   <td><li>インスタンスが次を購読しているか。 <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engageステータスの更新</a>?</li></td>
   </tr>
   <tr> 
    <td>アラート</td> 
