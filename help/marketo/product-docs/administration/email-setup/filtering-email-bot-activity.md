@@ -3,10 +3,10 @@ description: メールボットアクティビティのフィルター - Marketo
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 91%
+source-wordcount: '454'
+ht-degree: 90%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 91%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 「**[!UICONTROL IAB リストと一致]**」、「**[!UICONTROL 近接パターンと一致]**」またはその両方を選択します。選択する [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング].
+1. 「**[!UICONTROL IAB リストと一致]**」、「**[!UICONTROL 近接パターンと一致]**」またはその両方を選択します。次のどちらを選択するかを選択します。 [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
@@ -112,22 +112,6 @@ ht-degree: 91%
 * 162.129.251.14
 * 162.129.251.42
 * 208.52.157.204
-* 209.222.82.126
-* 209.222.82.127
-* 209.222.82.128
-* 209.222.82.129
-* 209.222.82.138
-* 209.222.82.139
-* 209.222.82.140
-* 209.222.82.141
-* 209.222.82.228
-* 209.222.82.229
-* 209.222.82.230
-* 209.222.82.231
-* 209.222.82.232
-* 209.222.82.233
-* 209.222.82.234
-* 209.222.82.235
 
 >[!NOTE]
 >
