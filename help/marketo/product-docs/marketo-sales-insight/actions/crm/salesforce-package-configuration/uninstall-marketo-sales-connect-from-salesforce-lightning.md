@@ -1,17 +1,17 @@
 ---
-description: Salesforce Lightning からMarketo Sales Connect をアンインストールする — Marketoドキュメント — 製品ドキュメント
-title: Salesforce Lightning からMarketo Sales Connect をアンインストール
+description: Salesforce Lightning からの Marketo Sales Connect のアンインストール - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce Lightning からの Marketo Sales Connect のアンインストール
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1190'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Salesforce Lightning からMarketo Sales Connect をアンインストール {#uninstall-marketo-sales-connect-from-salesforce-lightning}
+# Salesforce Lightning からの Marketo Sales Connect のアンインストール {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-Sales Insight アクションの使用を開始したら、Salesforce アカウントからMarketo Sales Connect パッケージをアンインストールする方法を説明します。
+以下に、Sales Insight Actions の使用を開始した後で Salesforce アカウントから Marketo Sales Connect パッケージをアンインストールする方法を示します。
 
 ## ページレイアウトから Sales Connect フィールドを削除 {#remove-sales-connect-fields-from-page-layout}
 
@@ -89,7 +89,7 @@ Sales Insight アクションの使用を開始したら、Salesforce アカウ�
    >
    >_MSE_ は Sales Connect の略称です。これは「Marketo Sales Engage」という名前です
 
-1. クリック **保存** 「リード」ページの操作が完了したら、
+1. リードページの操作が完了したら、「**保存**」をクリックします。
 
 ## リードリスト表示から Sales Connect の一括アクションボタンを削除 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
@@ -145,7 +145,7 @@ Sales Insight アクションの使用を開始したら、Salesforce アカウ�
 
 1. 「**商談のレイアウト**」をクリックします。
 
-オポチュニティビューには、「MSE メールを送信」と次のフィールドのボタンが 1 つだけあります。
+商談表示には、「MSE メールを送信」ボタンが 1 つと以下のフィールドがあります。
 
 ![](assets/uninstall-salesforce-lightning-customization-package-20.png)
 
@@ -161,7 +161,7 @@ Sales Insight アクションの使用を開始したら、Salesforce アカウ�
 
 1. 「**アカウントのレイアウト**」をクリックします。
 
-アカウントビューには、「MSE メールを送信」ボタンと次のフィールドのみが表示されます。
+アカウント表示には、「MSE メールを送信」ボタンが 1 つと以下のフィールドがあります。
 
 ![](assets/uninstall-salesforce-lightning-customization-package-21.png)
 
@@ -175,13 +175,13 @@ Sales Insight アクションの使用を開始したら、Salesforce アカウ�
 
 ## Sales Connect パッケージを削除 {#delete-sales-connect-package}
 
-Salesforce アカウントからすべてのオブジェクトを削除したら、次の手順に従います。
+Salesforce アカウントからすべてのオブジェクトを削除したら、以下の手順に従います。
 
 1. Salesforce Lightning で、歯車アイコンをクリックし、「**設定**」を選択します。
 
 1. 「クイック検索」ボックスに、「Apex Classes」と入力します。
 
-1. クリック **削除** リストのすべての「MarketoSalesConnectionCustomization」または「MarketoSalesEngageCustomization」エントリの横に表示されます。
+1. リストのすべての「MarketoSalesConnectionCustomization」または「MarketoSalesEngageCustomization」エントリの横にある「**削除**」をクリックします。
 
 準備完了です。
 
@@ -198,7 +198,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
  </tr>
  <tr>
   <td>MSC 電話ローカルプレゼンス ID</td>
-  <td>ユーザは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
+  <td>ユーザーは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
