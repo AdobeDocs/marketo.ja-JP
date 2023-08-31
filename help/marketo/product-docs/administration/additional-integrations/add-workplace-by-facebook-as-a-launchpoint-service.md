@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14745982
-description: '"追加 [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - Marketoドキュメント — 製品ドキュメント»'
-title: '"追加 [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] サービス»'
+description: " [!DNL Workplace By Facebook]  を  [!DNL LaunchPoint Service]  として追加 - Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL Workplace By Facebook]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
-# 追加 [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] サービス {#add-workplace-by-facebook-as-a-launchpoint-service}
+# [!DNL Workplace By Facebook] を [!DNL LaunchPoint] サービスとして追加 {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-には、 [!DNL Workplace] 統合：
+[!DNL Workplace] 統合には、次の 2 つの通知タイプが含まれます。
 
-* **システム通知**[!DNL Workplace]：現在のキャンペーンのステータスに関するアラートや、即座に対処する必要のある問題（CRM エラーおよび API 制限）など、Marketo インスタンスの重要なイベントに関する 通知を取得します。
-* **注目のアクション**:When a [!DNL Marketo Insight] セールスアカウントから既知の個人によってトリガーされたので、リードの所有者には、 [!DNL Workplace]. 通知には、リード情報とセールスアカウントに関する詳細が含まれます。
+* **システム通知**：現在のキャンペーンのステータスに関するアラートや、即座に対処する必要のある問題（CRM エラーおよび API 制限）など、Marketo インスタンスの重要なイベントに関する [!DNL Workplace] 通知を取得します。
+* **注目のアクション**：[!DNL Marketo Insight] がセールスアカウントの既知の個人によってトリガーされた場合、リードの所有者は [!DNL Workplace] 経由で通知を受け取ることができます。通知には、リード情報とセールスアカウントに関する詳細が含まれます。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 41%
 
 >[!PREREQUISITES]
 >
->次の条件を満たしていない場合： [!DNL Workplace] 通知は既に有効になっています。に連絡してください。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>[!DNL Workplace] 通知が有効になっていない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -38,7 +38,7 @@ ht-degree: 41%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. を入力します。 **[!UICONTROL 表示名]** の [!DNL Workplace] 統合とも呼ばれます。 「**[!UICONTROL サービス]**」ドロップダウンで、「**[!UICONTROL Facebook による Workplace]**」を選択します。「**[!UICONTROL 作成]**」をクリックします。
+1. [!DNL Workplace] 統合の&#x200B;**[!UICONTROL 表示名]**&#x200B;を入力します。**[!UICONTROL サービス]**&#x200B;ドロップダウンで、**[!UICONTROL Workplace by Facebook]** を選択します。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
@@ -46,30 +46,30 @@ ht-degree: 41%
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. 「**[!UICONTROL 承認]**」をクリックします。開く [!DNL Workplace] 新しいタブで、認証を完了し、Marketoに情報を取り込む権限を付与します。 [!DNL Workplace].
+1. 「**[!UICONTROL 承認]**」をクリックします。これにより、新しいタブで [!DNL Workplace] が開くので、[!DNL Workplace] から情報を取り込むための認証を完了し、Marketo 権限を付与します。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. 新しい [!DNL Workplace] 「 」タブに、ビジネス用の E メールアドレスを入力するか、 [!DNL Workplace] ユーザー名とクリック **[!UICONTROL 続行]**.
+1. 新しい「[!DNL Workplace]」タブで、ビジネスメールまたは [!DNL Workplace] のユーザー名を入力し、「**[!UICONTROL 続行]**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
 
-1. を入力します。 [!DNL Workplace] 認証情報をクリックします。 **[!UICONTROL ログイン]**.
+1. [!DNL Workplace] 資格情報を入力し、「**[!UICONTROL ログイン]**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. 内 [!DNL Workplace] ポップアップ、 [!DNL Facebook] Marketoからの通知を投稿するグループ ( 例： [!UICONTROL パートナー統合]) をクリックします。 「**[!UICONTROL インストール]**」をクリックします。
+1. [!DNL Workplace] ポップアップで、Marketo からの通知を投稿する [!DNL Facebook] グループを選択します（例：[!UICONTROL パートナー統合]）。「**[!UICONTROL インストール]**」をクリックします。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
-1. 次の確認通知が表示されます。タブが自動的に閉じます。
+1. 以下の確認通知が表示されます。タブが自動的に閉じます。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
-1. 「 Marketo 」タブを更新し、「 [!DNL Workplace] が [!DNL LaunchPoint].
+1. 「Marketo」タブを更新し、[!DNL Workplace] が [!DNL LaunchPoint] でアクティブなサービスとして表示されていることを確認します。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   通知が [!DNL Facebook] 手順 7 で選択したグループ。 次のように表示されます。
+   手順 7 で選択した [!DNL Facebook] グループへの通知の投稿が開始されます。以下のように表示されます。
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)

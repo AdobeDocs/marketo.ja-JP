@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >また、ページを入れる新しいリストを作成することもできます。目的の名前をに入力します。 [!UICONTROL 新しいリストを作成].
+   >また、ページを入れる新しいリストを作成することもできます。「[!UICONTROL 新しいリストを作成]」に名前を入力します。
 
 1. 追加したリストをクリックしてページを追加します。
 
@@ -45,7 +45,7 @@ ht-degree: 89%
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. の **[!UICONTROL ページ]** 「 」タブで、クリーンアップするリストをクリックします。
+1. 「**[!UICONTROL ページ]**」タブで、クリーンアップするリストをクリックします。
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 

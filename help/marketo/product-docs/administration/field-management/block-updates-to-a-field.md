@@ -7,13 +7,13 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # フィールドの更新のブロック {#block-updates-to-a-field}
 
-フィールドの更新をブロックすると、1 回フィールドに書き込み、フィールドの有効期間内に元の値を保持できます。これは、 [!UICONTROL 担当者のソース].
+フィールドの更新をブロックすると、1 回フィールドに書き込み、フィールドの有効期間内に元の値を保持できます。これは、「[!UICONTROL 人物ソース]」などのフィールドに役立ちます。
 
 >[!NOTE]
 >

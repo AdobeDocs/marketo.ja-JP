@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 76%
 
 ダッシュボードを使用すると、キーワードのランクの傾向と SEO に対するサイトの最適化状況を大まかに把握できます。
 
-また、 [!UICONTROL Recommendations] 」セクションに入力します。 それでは始めましょう。
+また、「[!UICONTROL レコメンデーション]」セクションを使用して改善方法を確認できます。それでは始めましょう。
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
@@ -25,7 +25,7 @@ ht-degree: 76%
 
 >[!TIP]
 >
->次をクリックできます。 [!UICONTROL トップページの最適化に関する問題] をクリックして、完全なリストを表示します。
+>「[!UICONTROL ページの最適化に関する主な問題]」をクリックすると、完全なリストが表示されます。
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -35,7 +35,7 @@ ht-degree: 76%
 
 >[!TIP]
 >
->次をクリックできます。 [!UICONTROL トップリンクの最適化] をクリックして、完全なリストを表示します。
+>「[!UICONTROL 主なリンク機会]」をクリックすると、完全なリストが表示されます。
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 

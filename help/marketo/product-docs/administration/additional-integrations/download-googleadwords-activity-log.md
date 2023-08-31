@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512607
-description: '"ダウンロード [!DNL GoogleAdwords Activity Log] - Marketoドキュメント — 製品ドキュメント»'
-title: "ダウンロード [!DNL GoogleAdwords Activity Log]"
+description: " [!DNL GoogleAdwords Activity Log]  のダウンロード- Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL GoogleAdwords Activity Log] のダウンロード"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# ダウンロード [!DNL Google Adwords] アクティビティログ {#download-googleadwords-activity-log}
+# [!DNL Google Adwords] アクティビティログのダウンロード {#download-googleadwords-activity-log}
 
 インシデントは発生するものです。問題のトラブルシューティングには、アクティビティログのダウンロードが必要な場合があります。
 
@@ -23,7 +23,7 @@ ht-degree: 65%
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. 検索 [!DNL Google AdWords] サービスとクリック **[!UICONTROL アクティビティログをダウンロード]**.
+1. [!DNL Google AdWords] サービスを探し、「**[!UICONTROL アクティビティログをダウンロード]**」をクリックします。
 
    ![](assets/download-googleadwords-activity-log-3.png)
 

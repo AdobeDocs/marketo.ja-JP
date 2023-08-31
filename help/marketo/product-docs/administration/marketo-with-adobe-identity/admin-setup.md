@@ -6,7 +6,7 @@ feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 94%
 
 ## 製品プロファイルの作成 {#create-a-product-profile}
 
-システム管理者が Admin Console にアクセスしたら、次は製品プロファイルを作成します。この方法で、ユーザや管理者は Marketo Engage にアクセスできます。
+システム管理者が Admin Console にアクセスしたら、次に製品プロファイルを作成します。この方法で、ユーザーや管理者は Marketo Engage にアクセスできます。
 
-1. 内 **[!UICONTROL 概要]** ページ、下 **[!UICONTROL 製品とサービス]**&#x200B;をクリックし、 **Marketo Engage**.
+1. **[!UICONTROL 概要]**&#x200B;ページの「**[!UICONTROL 製品とサービス]**」で、「**Marketo Engage**」をクリックします。
 
    ![](assets/admin-setup-3.png)
 
@@ -50,7 +50,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->複数の製品プロファイルを設定した場合、追加先のプロファイルに関係なく、ユーザは同じ Marketo へのアクセス権を持ちます。
+>複数の製品プロファイルを設定した場合、追加先のプロファイルに関係なく、ユーザーは同じ Marketo へのアクセス権を持ちます。
 
 >[!MORELIKETHIS]
 >

@@ -7,7 +7,7 @@ feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 62%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 削除しようとしているアセットの数を確認します (「[!UICONTROL 総資産]&quot;)、 **[!UICONTROL 取り消しできません]** 「 」チェックボックスをオンにして、「 」をクリックします。 **[!UICONTROL 削除]**.
+1. 削除するアセットの数を確認し（「[!UICONTROL 合計アセット数]」の横に表示されます）、「**[!UICONTROL 取り消しできません]**」チェックボックスをオンにして、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/delete-a-workspace-4.png)

@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 93%
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. 内 [!UICONTROL ページ] セクションで、 **[!UICONTROL 問題]**.
+1. 「[!UICONTROL ページ]」セクションで、「**[!UICONTROL 問題]**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 

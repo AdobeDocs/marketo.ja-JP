@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360360
-description: の作成 [!DNL Webhook] - Marketoドキュメント — 製品ドキュメント
-title: の作成 [!DNL Webhook]
+description: ' [!DNL Webhook]  の作成 - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
-# の作成 [!DNL Webhook] {#create-a-webhook}
+# [!DNL Webhook] の作成 {#create-a-webhook}
 
-用途 [!DNL Webhooks] サードパーティの web サービスを活用して、テキストメッセージを送信したり、個人データを拡張したりできます。
+[!DNL Webhooks] を使用すると、サードパーティの web サービスを活用して、テキストメッセージの送信、人物データの拡張などを行うことができます。
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのお客様がこの機能を購入しているわけではありません。詳しくは、セールス担当者にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -31,17 +31,17 @@ ht-degree: 66%
 
    ![](assets/create-a-webhook-3.png)
 
-1. に名前を付けて設定します。 [!DNL Webhook].
+1. [!DNL Webhook] に名前を付けて、設定します。
 
    ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
-   >多くの場合、使用するサードパーティのサービス証明書を、URL パラメーターまたは POST テンプレートとして入力します。
+   >多くの場合、使用するサードパーティのサービス資格情報を、URL パラメーターとして、または POST テンプレートに入力して含めます。
 
-   * **[!UICONTROL URL]**：Web サービスに対するリクエストで使用する URL を入力します。リードのメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
+   * **[!UICONTROL URL]**：Web サービスに対するリクエストで使用する URL を入力します。人物のメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
 
-   * **[!UICONTROL テンプレート]**:リクエストの本文で情報を送信する場合は、ペイロードテンプレートを使用してを入力します。 次のリクエストタイプに対して許可されているテンプレート：POST、DELETE、PATCHまたはPUT。 JSON や XML などのデータ形式を使用できます。 テンプレートにトークンを挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
+   * **[!UICONTROL テンプレート]**：リクエストの本文で情報を送信する場合は、ペイロードテンプレートを使用して入力します。リクエストタイプ POST、DELETE、PATCH または PUT に対して許可されたテンプレート。JSON や XML などのデータ形式を使用できます。テンプレートにトークンを挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
 
    * **[!UICONTROL リクエストトークンのエンコード]**：トークンの値に特殊文字（アンパサンド「&amp;」など）が含まれる場合は、リクエストの形式（**JSON** または&#x200B;**フォーム／URL**）を指定します。
 
@@ -55,4 +55,4 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->詳しくは、[[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/) の詳細を参照してください。{target="_blank"}
+>詳しくは、[[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} の詳細を参照してください。

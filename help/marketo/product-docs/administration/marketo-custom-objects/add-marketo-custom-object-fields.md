@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 86%
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. をクリックします。 **[!UICONTROL フィールド]** タブ、 **[!UICONTROL 新規フィールド]**.
+1. 「**[!UICONTROL フィールド]**」タブをクリックして、「**[!UICONTROL 新しいフィールド]**」をクリックします。
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -37,7 +37,7 @@ ht-degree: 86%
    >
    >上記の 3 つのフィールドは、カスタムオブジェクトの作成時に Marketo によって自動的に作成されます。Marketo はこれらのフィールドを自動的に管理するので、編集や削除はできません。
 
-1. を入力します。 [!UICONTROL 表示名] および（オプション） [!UICONTROL 説明].
+1. [!UICONTROL 表示名]と（オプションで）[!UICONTROL 説明]を入力します。
 
    ![](assets/add-marketo-custom-object-fields-5.png)
 
@@ -45,11 +45,11 @@ ht-degree: 86%
    >
    >API 名は、承認されるまで編集できません。
 
-1. 次に、適切な [!UICONTROL データタイプ] を選択します。
+1. 次に、リストから適切な[!UICONTROL データタイプ]を選択します。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. プル [!UICONTROL デデュープ] 新しいフィールドを一意の ID として使用する場合は、スライダーをオーバーします。 「**[!UICONTROL 保存]**」をクリックして終了します。
+1. 新しいフィールドを一意の識別子として使用する場合は、[!UICONTROL 重複排除]スライダーをオンにします。「**[!UICONTROL 保存]**」をクリックして終了します。
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 

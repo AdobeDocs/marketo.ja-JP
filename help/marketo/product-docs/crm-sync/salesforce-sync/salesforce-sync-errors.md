@@ -6,7 +6,7 @@ feature: Salesforce Integration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -52,6 +52,6 @@ ht-degree: 95%
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**オプションの手順**:同期エラーを書き出すには、 **書き出し**. データは CSV としてエクスポートされます。
+**オプションの手順**：同期エラーをエクスポートするには、「**エクスポート**」をクリックします。データは CSV としてエクスポートされます。
 
 ![](assets/salesforce-sync-errors-5.png)

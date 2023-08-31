@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->この記事はベストプラクティスですが、他の方法でも実行できます。
+>この記事は、ベストプラクティスですが、他の方法でも実行できます。
 
 ## データを準備する {#prepare-your-data}
 
@@ -33,7 +33,7 @@ ht-degree: 80%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. 「**[!UICONTROL 新規]**」ドロップダウンで、「**[!UICONTROL 新規セグメント化]**」をクリックします。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンで、**[!UICONTROL 新規セグメンテーション]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 80%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. すべての言語で繰り返します。次に、「**[!UICONTROL セグメント化アクション]**」ドロップダウンを選択して、「**[!UICONTROL 承認]**」をクリックします。
+1. すべての言語で繰り返します。次に、**[!UICONTROL セグメンテーションアクション]**&#x200B;ドロップダウンを選択して、**[!UICONTROL 承認]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
@@ -71,7 +71,7 @@ ht-degree: 80%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. 「**[!UICONTROL 新規]**」ドロップダウンで、「**[!UICONTROL 新規スニペット]**」をクリックします。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンで、**[!UICONTROL 新規スニペット]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -83,31 +83,31 @@ ht-degree: 80%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. 次のトークンをコピー&amp;ペーストします。 `{{system.unsubscribeLink}}` に **[!UICONTROL URL]** フィールドに入力します。 次に「**[!UICONTROL 挿入]**」をクリックします。
+1. トークン `{{system.unsubscribeLink}}` を「**[!UICONTROL URL]**」フィールドにコピー＆ペーストします。「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. セグメント化セクションの「**[!UICONTROL セグメント別]**」を選択します。****
+1. 「**[!UICONTROL セグメンテーション]**」セクションの「**[!UICONTROL セグメンテーション基準]**」を選択します。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. 次の **[!UICONTROL セグメント化]** ドロップダウン、次に入力 **[!UICONTROL 優先]** を選択し、 **[!UICONTROL 優先言語]**. 「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL セグメンテーション]**&#x200B;ドロップダウンで、**[!UICONTROL 優先]**&#x200B;と入力し、「**[!UICONTROL 優先言語]**」を選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. ツリーからセグメントを選択します。購読解除をクリックし、リンクアイコンをクリックします。
+1. ツリーからセグメントを選択します。登録解除をクリックしてから、リンクアイコンをクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. 確認 `{{system.unsubscribeLink}}` が **[!UICONTROL URL]** フィールドに入力します。 を編集します。 **[!UICONTROL テキストを表示]** 選択した言語に一致するように設定します。 「**[!UICONTROL 適用]**」をクリックします。
+1. `{{system.unsubscribeLink}}` がまだ「**[!UICONTROL URL]**」フィールドにあることを確認します。「**[!UICONTROL 表示テキスト]**」を編集して、選択した言語に一致するようにします。「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. すべてのセグメントに対してこの手順を繰り返します。次に、 **[!UICONTROL デザインスタジオ]**、 **[!UICONTROL スニペットアクション]** ドロップダウンで、 **[!UICONTROL 承認]**.
+1. すべてのセグメントに対してこの手順を繰り返します。次に、**[!UICONTROL Design Studio]** に戻り、**[!UICONTROL スニペットアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 承認]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-これで完了です。もう少しです。
+すばらしい。もう少しです。
 
 ## メールでスニペットを使用する {#use-snippet-in-an-email}
 
@@ -139,11 +139,11 @@ ht-degree: 80%
 
 登録解除ページが優先言語で表示されるようにする場合は、ランディングページと確認ページで動的コンテンツを使用できます。
 
-1. 次に移動： **[!UICONTROL デザインスタジオ]**.
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. 入力 _配信停止_ を選択し、目的の購読解除ページを選択します。
+1. 検索フィールドに&#x200B;_登録解除_&#x200B;と入力して、目的の登録解除ページを選択します。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
@@ -155,7 +155,7 @@ ht-degree: 80%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. 次を検索： **[!UICONTROL 優先言語]** セグメント。 「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL 優先言語]**」セグメントを見つけます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 

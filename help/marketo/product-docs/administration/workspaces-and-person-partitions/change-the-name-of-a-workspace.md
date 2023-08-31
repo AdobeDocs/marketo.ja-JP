@@ -7,7 +7,7 @@ feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 87%
 >
 >[新しいワークスペースの作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-ワークスペースの名前はユーザが変更できます。手順はとても簡単です。
+ワークスペースの名前はユーザーが変更できます。手順はとても簡単です。
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ ht-degree: 87%
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. ワークスペースを選択し、「**[!UICONTROL ワークスペースの編集]**」をクリックします。
+1. ワークスペースを選択し、「**[!UICONTROL ワークスペースを編集]**」をクリックします。
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. 新しい **[!UICONTROL 名前]** をクリックし、 **[!UICONTROL 保存]**.
+1. ワークスペースの新しい&#x200B;**[!UICONTROL 名前]**&#x200B;を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 

@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->この機能は、ターゲット顧客管理アドオンと TAM のライセンスが発行されたユーザのみが使用できます。
+>この機能は、ターゲット顧客管理アドオンと TAM のライセンスが発行されたユーザーのみが使用できます。
 
 ## アカウントスマートリストの作成 {#create-an-account-smart-list}
 
@@ -29,7 +29,7 @@ ht-degree: 98%
 
    ![](assets/account-smart-lists-2.png)
 
-1. 「**新規作成**」ドロップダウンをクリックし、「**新規ローカルアセット**」を選択します。
+1. **新規作成**&#x200B;ドロップダウンをクリックし、**新規ローカルアセット**&#x200B;を選択します。
 
    ![](assets/account-smart-lists-3.png)
 
@@ -65,11 +65,11 @@ ht-degree: 98%
 
    ![](assets/account-smart-lists-9.png)
 
-**オプションの手順**:ここにコンテナが入ってきます 追加の「一致するリードフィルター」を選択する場合は、最初のフィルターの下にドロップするか、フィルターの&#x200B;_中_&#x200B;にドロップすると、コンテナを作成できます。この例では、「_職位は CFO_」を追加してコンテナを作成します。
+**オプションの手順**：ここにコンテナを配置します。追加の「一致するリードフィルター」を選択する場合は、最初のフィルターの下にドロップするか、フィルターの&#x200B;_中_&#x200B;にドロップすると、コンテナを作成できます。この例では、「_職位は CFO_」を追加してコンテナを作成します。
 
 ![](assets/account-smart-lists-10.png)
 
-コンテナは次のように表示されます。
+コンテナは以下のように表示されます。
 
 ![](assets/account-smart-lists-11.png)
 

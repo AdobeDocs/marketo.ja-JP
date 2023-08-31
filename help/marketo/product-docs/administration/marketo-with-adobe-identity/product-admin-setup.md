@@ -20,4 +20,4 @@ ht-degree: 100%
 
    ![](assets/admin-setup-8.png)
 
-簡単です。製品管理者は、主にユーザの追加を担当します。[その方法については、こちらをご覧ください](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}。
+簡単です。製品管理者は、主にユーザーの追加を担当します。[その方法については、こちらをご覧ください](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}。

@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 95%
 
    >[!TIP]
    >
-   >また、キーワードの新しいリストを作成することもできます。名前を **[!UICONTROL 新しいリストを作成]**.
+   >また、キーワードの新しいリストを作成することもできます。「**[!UICONTROL 新しいリストを作成]**」に名前を入力します。
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 

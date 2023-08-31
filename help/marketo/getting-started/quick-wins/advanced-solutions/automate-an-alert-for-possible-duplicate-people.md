@@ -7,18 +7,18 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # 重複の可能性がある人物のアラートの自動化 {#automate-an-alert-for-possible-duplicate-people}
 
-重複の可能性がある人物が作成されるたびにアラートを表示しますか？スマートキャンペーンを設定する方法を次に示します。
+重複の可能性がある人物が作成されるたびにアラートを表示しますか？スマートキャンペーンを設定する方法を以下に示します。
 
-1. [新規スマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。次のスマートリストを定義します。
+1. [新規スマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。以下のスマートリストを定義します。
 
 * トリガー：**[!UICONTROL 人物が作成される]**
-* フィルター： **[!UICONTROL 重複フィールド]**. フィールド名は「**[!UICONTROL 氏名」]**
+* フィルター：**[!UICONTROL 重複フィールド]**。フィールド名は「**[!UICONTROL 氏名]**」
 
   ![](assets/automate-an-alert-1.png)
 

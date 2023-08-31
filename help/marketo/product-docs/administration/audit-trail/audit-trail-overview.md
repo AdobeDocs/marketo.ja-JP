@@ -7,7 +7,7 @@ feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 >[!NOTE]
 >
->監査証跡のデータ履歴は、2016 年 9 月 14 日に遡ります。
+>監査証跡のデータ履歴は、2016年9月14日（PT）に始まります。
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -33,14 +33,14 @@ ht-degree: 83%
 
 ## 監査の対象 {#what-we-audit}
 
-Marketo は、次のものについて[作成、編集、削除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)のアクションを監査します。
+Marketo は、以下に対する[作成、編集、削除](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)のアクションを監査します。
 
 * デザインスタジオのアセット
 * すべての Marketo プログラム
 * スマートキャンペーン
 * リスト（スマート／静的）
 * ユーザー（管理）
-* 役割と権限（管理）
+* ロールと権限（管理者）
 * ワークスペースとパーティション（管理）
 * ユーザーログイン履歴
 
@@ -50,9 +50,9 @@ Marketo は、次のものについて[作成、編集、削除](/help/marketo/p
 
 ## 監査証跡のコンポーネント {#audit-trail-components}
 
-監査証跡は、次の 3 つのコンポーネントで構成されます。
+監査証跡は、以下の 3 つのコンポーネントで構成されます。
 
-**1) [アセット監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1）[アセット監査証跡](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 特定のアセットに対して実行されたアクティビティを確認します。
 
@@ -66,7 +66,7 @@ Marketo は、次のものについて[作成、編集、削除](/help/marketo/p
 
 >[!TIP]
 >
->監査証跡を使って監査できることはたくさんあります。必ず[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を使用してください。
+>監査証跡を使用して監査できることはたくさんあります。必ず[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を使用してください。
 
 ## データのエクスポート {#exporting-data}
 
@@ -78,8 +78,8 @@ Marketo は、次のものについて[作成、編集、削除](/help/marketo/p
 >
 >**定義**
 >
->**不明：** In [!DNL Webhook]に設定されている場合、ユーザーの名前と電子メールが「不明」と表示される場合があります。 これは、CRM の選択リスト値を変更すると発生します。これらの値は、Marketo フォームとランディングページに表示されます。CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフト化されます。In [!DNL Webhook]をクリックした場合、ランディングページが下書きになったことをキャプチャしますが、ユーザーの名前と電子メールは「不明」と表示されます。これは、CRM 側からユーザー情報を取り込めないためです。
+>**不明**：[!DNL Webhook] に、ユーザーの名前とメールが「不明」と表示される場合があります。これは、CRM の選択リスト値を変更すると発生します。これらの値は、Marketo フォームとランディングページに表示されます。CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフト化されます。[!DNL Webhook] では、ランディングページが作成されたことを捕捉しますが、CRM 側からユーザー情報を取り込めないので、ユーザー名とメールは「不明」と表示されます。
 
 >[!MORELIKETHIS]
 >
->[監査記録の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
+>[監査証跡の有効化](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)

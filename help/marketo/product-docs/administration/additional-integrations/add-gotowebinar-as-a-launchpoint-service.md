@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: '"追加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] サービス — Marketoドキュメント — 製品ドキュメント»'
-title: '"追加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] サービス»'
+description: " [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
-# 追加 [!DNL GoToWebinar] as a [!DNL LaunchPoint] サービス {#add-gotowebinar-as-a-launchpoint-service}
+# [!DNL GoToWebinar] を [!DNL LaunchPoint] サービスとして追加 {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketoが [!DNL GoToWebinar] 登録と出席
+Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Marketoが [!DNL GoToWebinar] 登録と出席
 
 >[!NOTE]
 >
->の既存の購読 [!DNL GoToWebinar] この手順には、および管理権限が必要です。 サインオンに使用する電子メールとパスワードを入手する [!DNL GoToWebinar] 手の中に
+>この手順を実行するには、[!DNL GoToWebinar] の既存のサブスクリプションと管理者権限が必要です。[!DNL GoToWebinar] のログインに使用するメールとパスワードを手元に用意しておきます。
 
 >[!NOTE]
 >
->[!DNL GoToMeeting], [!DNL GoToWebcast]、および [!DNL GoToTraining] は現在サポートされていません。
+>[!DNL GoToMeeting]、[!DNL GoToWebcast] および [!DNL GoToTraining]は、現在サポートされていません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -43,15 +43,15 @@ Marketoが [!DNL GoToWebinar] 登録と出席
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. クリック **[!UICONTROL GoToWebinar にログイン]**.
+1. 「**[!UICONTROL GoToWebinar にログイン]**」をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >会社名と職位をMarketoフォームからに同期する場合 [!DNL GoToWebinar]を選択し、 **[!UICONTROL 追加フィールドを有効にする]** ボックス
+   >会社名と役職を Marketo フォームから [!DNL GoToWebinar] に同期する場合は、「**[!UICONTROL 追加フィールドを有効にする]**」ボックスを選択します。
 
-1. 内 [!DNL GoToWebinar] サインインポップアップウィンドウに、 **[!UICONTROL GoToWebinar]** 電子メールとパスワードを入力し、 **[!UICONTROL ログイン]**.
+1. [!DNL GoToWebinar] のログインポップアップウィンドウで、**[!UICONTROL GoToWebinar]** のメールとパスワードを入力して、「**[!UICONTROL ログイン]**」をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
@@ -65,8 +65,8 @@ Marketoが [!DNL GoToWebinar] 登録と出席
 
 >[!CAUTION]
 >
->でパスワードを更新する場合 [!DNL GoToWebinar]を使用する場合は、Marketoでもパスワードを更新する必要があります。
+>[!DNL GoToWebinar] でパスワードを更新する場合は、Marketo でもパスワードを更新する必要があります。
 
 >[!MORELIKETHIS]
 >
->[ でイベントを作成する [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}方法を参照してください。
+>[ [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。

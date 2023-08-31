@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -27,17 +27,17 @@ ht-degree: 78%
 
    ![](assets/import-custom-object-data-3.png)
 
-1. を選択します。 [!UICONTROL カスタムオブジェクト].
+1. [!UICONTROL カスタムオブジェクト]を選択します。
 
    ![](assets/import-custom-object-data-4.png)
 
-1. を選択します。 [!UICONTROL デデュープモード] 」をクリックします。 「**[!UICONTROL 次へ]**」をクリックします。
+1. ドロップダウンから[!UICONTROL 重複排除モード]を選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >カスタムオブジェクトレコードを作成または更新する際に、重複排除フィールドを一意の識別子として使用します。この例では、「**car**」カスタムオブジェクトの重複排除フィールドとして「vin」（車両の ID 番号）を使用します。カスタムオブジェクトレコードのみを更新する場合は、 [!UICONTROL Marketo Guid] を [!UICONTROL デデュープモード].
+   >カスタムオブジェクトレコードを作成または更新する際に、重複排除フィールドを一意の識別子として使用します。この例では、「**car**」カスタムオブジェクトの重複排除フィールドとして「vin」（車両の ID 番号）を使用します。カスタムオブジェクトのレコードのみを更新している場合は、[!UICONTROL Marketo Guid] を[!UICONTROL 重複排除モード]として選択できます。
 
 1. ドロップダウンで選択して、各列を Marketo のフィールドにマップします。
 
@@ -61,7 +61,7 @@ ht-degree: 78%
 
    >[!TIP]
    >
-   >電子メールアドレスを **[!UICONTROL アラートの送信先]** フィールドとMarketoは、インポートが完了すると電子メールで送信されます。
+   >「**[!UICONTROL 以下にアラートを送信]**」フィールドにメールアドレスを入力すると、インポートの完了時に Marketo からメールが届きます。
 
 1. 画面の右上隅に、インポート実行中には通知が表示され、完了すると最終結果が表示されます。
 

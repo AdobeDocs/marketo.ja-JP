@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 87%
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 「**[!UICONTROL 新規作成]**」ドロップダウンをクリックし、「**[!UICONTROL 新規キャンペーンフォルダー]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規キャンペーンフォルダー]**&#x200B;を選択します。
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 87%
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. 左側のメニューに新しい「学習」フォルダが表示されます。
+1. 左側のメニューに新しい「学習」フォルダーが表示されます。
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
@@ -49,7 +49,7 @@ ht-degree: 87%
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 「**[!UICONTROL 新規]**」ドロップダウンをクリックして、「**[!UICONTROL 新規人物]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規人物]**&#x200B;を選択します。
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
@@ -61,7 +61,7 @@ ht-degree: 87%
    >
    >Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
 
-1. 担当者を表示するには、 [!UICONTROL システムスマートリスト] 左側のメニューで、 **[!UICONTROL すべての人]**.
+1. 人物を表示するには、左側のメニューで「[!UICONTROL システムスマートリスト]」を開き、「**[!UICONTROL すべての人物]**」をクリックします。
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 

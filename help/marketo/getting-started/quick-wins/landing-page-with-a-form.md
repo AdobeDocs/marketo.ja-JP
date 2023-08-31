@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '543'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. **以前のクイックウィン**&#x200B;で作成した[学習](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}フォルダーを選択します。「**[!UICONTROL 新規]**」で、「**[!UICONTROL 新規プログラム]**」をクリックします。
+1. [以前のクイックウィン](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}で作成した&#x200B;**学習**&#x200B;フォルダーを選択します。「**[!UICONTROL 新規]**」で、「**[!UICONTROL 新規プログラム]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 96%
 
 ## 手順 2：フォームの作成 {#step-create-a-form}
 
-1. 選択したプログラムで、「**[!UICONTROL 新規作成]**」ドロップダウンをクリックし、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
+1. 選択したプログラムで、**[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 新規ローカルアセット]**&#x200B;を選択します。
 
    ![](assets/landing-page-with-a-form-4.png)
 
@@ -105,7 +105,7 @@ ht-degree: 96%
 
 ## 手順 3：ランディングページの作成とフォームの追加 {#step-create-a-landing-page-and-add-your-form}
 
-1. 選択したプログラムで、「**[!UICONTROL 新規作成]**」ドロップダウンをクリックし、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
+1. 選択したプログラムで、**[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 新規ローカルアセット]**&#x200B;を選択します。
 
    ![](assets/landing-page-with-a-form-15.png)
 
@@ -121,7 +121,7 @@ ht-degree: 96%
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. ランディングページエディターを開いたら、 [!UICONTROL フォーム] 要素をキャンバスに配置します。
+1. ランディングページエディターが開いたら、[!UICONTROL フォーム]要素をキャンバスにドラッグします。
 
    ![](assets/landing-page-with-a-form-18.png)
 
@@ -141,7 +141,7 @@ ht-degree: 96%
 
 ## 手順 4：ランディングページの承認 {#step-approve-your-landing-page}
 
-1. ランディングページを選択し、 **[!UICONTROL 下書きの承認]**.
+1. ランディングページを選択し、「**[!UICONTROL 下書きを承認]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -177,7 +177,7 @@ ht-degree: 96%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 1：一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
 

@@ -7,13 +7,13 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # タグ値の管理 {#managing-tag-values}
 
-[タグは、プログラムの説明に用いられます。](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)タグは、必要なだけ、固有の値を設定して作成できます。これらの値の管理方法を次に示します。
+[タグは、プログラムの説明に用いられます。](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)タグは、必要なだけ、固有の値を設定して作成できます。これらの値の管理方法をプロファイルに示します。
 
 >[!NOTE]
 >
@@ -67,9 +67,9 @@ ht-degree: 97%
 
 ## 非表示の値を表示 {#show-hidden-values}
 
-非表示の値を再度表示する場合は、次の操作を行います。
+非表示の値を再度表示する場合は、プロファイルの操作を行います。
 
-1. を選択します。 **[!UICONTROL 非表示を表示]** チェックボックス。 オンにすると、非表示の値を表示できます。
+1. 「**[!UICONTROL 非表示を表示]**」チェックボックスを選択します。オンにすると、非表示の値を表示できます。
 
    ![](assets/managing-tag-values-10.png)
 

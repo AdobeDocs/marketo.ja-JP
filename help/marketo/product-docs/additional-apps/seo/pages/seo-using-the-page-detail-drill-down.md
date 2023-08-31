@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 79%
 
 ## ページドリルダウンを見つける {#find-page-drill-down}
 
-1. 次に移動： **[!UICONTROL ページ] セクション**.
+1. 「**[!UICONTROL ページ]**」セクションに移動します。
 
    ![](assets/image2014-9-17-21-3a54-3a53.png)
 
@@ -29,20 +29,20 @@ ht-degree: 79%
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## [!UICONTROL 「ページ詳細」セクション] {#page-detail-section}
+## 「[!UICONTROL ページ詳細]」セクション {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
 | 項目 | 説明 |
 |---|---|
-| [!UICONTROL 最適化スコア] | 検索に対してページがどの程度最適化されているか、1～100 のスケールで示すために使用されるシークレットソース。 |
-| [!UICONTROL To Do ボックス] | 現在閲覧中のページに関する未解決の問題数を表示します。 |
+| [!UICONTROL 最適化スコア] | 検索に対してページがどの程度最適化されているかを 1 ～ 100 のスケールで示すために使用される秘伝のソース。 |
+| [!UICONTROL To Do] ボックス | 現在閲覧中のページに関する未解決の問題の数を表示します。 |
 | [!UICONTROL インバウンドリンク合計] | Web サイトへのインバウンドリンクの合計数。 |
 | [!UICONTROL インバウンドリンク（一意のドメイン）] | サイトへのインバウンドリンクが 1 つ以上ある、他の web サイトの数。 |
 | [!UICONTROL アウトバウンドリンク] | この特定のページから他の web サイトにアクセスするリンクの数。 |
-| [!UICONTROL Facebook 共有] | このページが共有された回数 [!DNL Facebook]. |
-| [!UICONTROL Facebook いいね！] | このページ共有がリンクされた回数 [!DNL Facebook]. |
-| [!UICONTROL Facebook クリック] | からのクリック数 [!DNL Facebook share]. |
+| [!UICONTROL Facebook 共有] | このページが [!DNL Facebook] で共有された回数。 |
+| [!UICONTROL Facebook いいね！] | [!DNL Facebook] でこのページ共有が「いいね！」された回数。 |
+| [!UICONTROL Facebook クリック] | [!DNL Facebook share] からのクリック数。 |
 
 ## [!UICONTROL ページ最適化対象キーワード] {#keyword-s-that-page-is-optimized-for}
 
@@ -56,7 +56,7 @@ ht-degree: 79%
 
 ## [!UICONTROL ページ最適化の結果] {#page-optimization-results}
 
-この [!UICONTROL ページ最適化の結果] このページの検索で最適化スコアを増やし、パフォーマンスを向上させるために必要な正確な手順が示されます。
+[!UICONTROL ページ最適化の結果]では、このページの検索で最適化スコアを増やし、パフォーマンスを向上させるために必要な手順が示されます。
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 

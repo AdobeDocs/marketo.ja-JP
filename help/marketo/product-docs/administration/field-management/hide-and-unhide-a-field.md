@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo のフィールドを使用しなくなった場合は、UI で非表示
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. フィールドを検索して選択します。内 [!UICONTROL フィールドアクション] ドロップダウンで、 **[!UICONTROL フィールドを表示]**.
+1. フィールドを検索して選択します。[!UICONTROL フィールドアクション]ドロップダウンで、**[!UICONTROL フィールドを再表示]**&#x200B;をクリックします。
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

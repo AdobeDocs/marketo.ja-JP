@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 71%
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. の [!UICONTROL ページ] タブを開き、削除するページにカーソルを移動して、 **[!UICONTROL 削除]**&#x200B;を選択し、「 **[!UICONTROL 削除]**.
+1. 「[!UICONTROL ページ]」タブで、削除するページの上にマウスポインターを置いて、「**[!UICONTROL 削除]**」をクリックし、もう一度「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

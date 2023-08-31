@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 87%
    | [!UICONTROL キーワード] | トラッキングしているキーワードの数。 |
    | [!UICONTROL ランキング URL] | 設定した範囲内でランキングされたサイトの URL の数。 |
    | [!UICONTROL 平均ランク] | 設定した範囲内のキーワードの平均ランク。 |
-   | [!UICONTROL 平均検索回数] | （過去 30 日間）Google US 検索で、設定した範囲内に発生したキーワードに関する平均検索数 |
+   | [!UICONTROL 平均検索回数] | 設定した範囲（過去 30 日間）で、Google US での検索で発生したキーワードに関する平均検索回数 |
 
 ## データのフィルタリング {#filtering-data}
 
@@ -44,7 +44,7 @@ ht-degree: 87%
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. 「ランク」ドロップダウンリストをクリックして、キーワードを表示するランク範囲を選択します。
+1. ランクドロップダウンリストをクリックして、キーワードを表示するランク範囲を選択します。
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 

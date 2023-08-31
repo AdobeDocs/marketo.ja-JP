@@ -7,17 +7,17 @@ feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # API 専用ユーザーの作成 {#create-an-api-only-user}
 
-を使用してMarketoと統合する場合は、 [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}API のみのユーザーを作成する必要があります。 手順は以下のとおりです。
+[REST API](https://developers.marketo.com/documentation/rest/){target="_blank"} を使用して Marketo と統合する場合は、API 専用ユーザーを作成する必要があります。手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->[API 専用ユーザーの役割の作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
+>[API 専用ユーザーのロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ ht-degree: 79%
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. 「**[!UICONTROL 新しいユーザを招待]**」をクリックします。
+1. 「**[!UICONTROL 新しいユーザーを招待]**」をクリックします。
 
    ![](assets/create-an-api-only-user-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 79%
    >
    >理由（オプション）またはアクセスの有効期限を追加します。短期の従業員には、アクセスの有効期限が便利です。
 
-1. 「**[!UICONTROL API のみ]**」の役割を選択し、「**[!UICONTROL API のみ]**」チェックボックスをオンにします。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL API のみ]**」のロールを選択し、「**[!UICONTROL API のみ]**」チェックボックスをオンにします。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/create-an-api-only-user-5.png)
 
@@ -53,7 +53,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->ポップアップに「招待状は API にのみ必要なものではありません」と表示されますが、何か間違ったことをしたわけではありません。これは、招待メールを送信しなくても役割が作成されることを意味します。
+>ポップアップに「招待状は API にのみ必要なものではありません」と表示されますが、何か間違ったことをしたわけではありません。招待メールを送信しなくてもロールが作成されるという意味です。
 
 よろしいですか。先に進んでカスタムサービスを作成しましょう。
 

@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 52%
 
 **既存の Marketo インスタンスを引き継いだばかりで、どこから始めればよいのか途方に暮れていませんか？**
 
-その場合、このガイドはお客様向けです。Marketoで必要なものを入手するために適切な方向に向けることで、最初の日を最大限に活用するのに役立ちます。
+もしそうであれば、このガイドは、あなたのためのものです。必要なものを得るために正しい方向を示すことで、Marketo を使いはじめて最初の数日間を最大限に活用するのに役立ちます。
 
 **目次**
 
-* [実行するべきこと](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
-* [確認するべきこと：主要スキル](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
+* [確認すべき項目](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
+* [確認すべきこと：主要スキル](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
 * [ヘルプの入手方法](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-インスタンスの使い方を既に知っており、Marketoのコア概念に慣れている場合は、Marketo Engage製品ドキュメントを参照するか、 [Marketing Nation](https://nation.marketo.com/){target="_blank"} 他のMarketoユーザーが何を言っているかを確認するオンラインコミュニティ
+既にインスタンスの使い方の知識があり、Marketo の中心概念を理解している場合は、Marketo Engage 製品ドキュメントを参照するか、[Marketing Nation](https://nation.marketo.com/){target="_blank"} オンラインコミュニティにアクセスして、他の Marketo ユーザーの見解を確認してみてください。

@@ -1,61 +1,61 @@
 ---
 unique-page-id: 15695874
-description: '"接続 [!DNL BrightTALK] Marketo - Marketoドキュメント — 製品ドキュメント»'
-title: '"接続 [!DNL BrightTALK] Marketoへ」'
+description: " [!DNL BrightTALK]  の Marketo への接続 - Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL BrightTALK]  の Marketo への接続"
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
-# 接続 [!DNL BrightTALK] Marketo {#connect-brighttalk-to-marketo}
+# [!DNL BrightTALK] の Marketo への接続 {#connect-brighttalk-to-marketo}
 
-接続方法 [!DNL BrightTALK] Marketoインスタンスにチャネルで接続できます。 これを行うには、両方の管理者である必要があります。
+[!DNL BrightTALK] チャネルを Marketo インスタンスに接続する方法を説明します。これを行うには、両方の管理者である必要があります。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-## 手順： [!DNL BrightTALK] {#steps-in-brighttalk}
+## [!DNL BrightTALK] での手順 {#steps-in-brighttalk}
 
-1. にログインします。 [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} をクリックし、 **[!UICONTROL 今すぐ接続]**.
-1. の下 [!UICONTROL 高度なMarketoコネクタ]をクリックし、 **[!UICONTROL 接続]**.
-1. 資格情報画面が表示され、次の情報が求められます。クライアント ID、クライアントシークレット、ID サービス URL、REST サービス URL。この情報を取得するには、Marketo にログインします。
+1. [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} にログインし、「**[!UICONTROL 今すぐ接続]**」をクリックします。
+1. 「[!UICONTROL Marketo コネクタの詳細設定]」で、「**[!UICONTROL 接続]**」をクリックします。
+1. 資格情報画面が表示され、クライアント ID、クライアントシークレット、ID サービス URL、REST サービス URL の情報が求められます。この情報を取得するには、Marketo にログインします。
 
 ## Marketo での手順 {#steps-in-marketo}
 
 >[!NOTE]
 >
->この時点で、 [!DNL API Only User Role] および [!DNL API User] どの権限を制限するために [!DNL BrightTALK] は、Marketoインスタンスに含まれます。 これらの手順に関する記事が既にあり、以下が記事のリンクです。
+>この時点で、[!DNL BrightTALK] が Marketo インスタンスに持つ権限を制限するために、[!DNL API Only User Role] と [!DNL API User] を設定する必要があります。これらの手順に関する記事が既にあり、以下が記事のリンクです。
 
-1. [API のみのユーザー役割を作成する](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}。
+1. [API 専用ユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}を作成する。
 
-1. 手順 4 で作成した API の役割を使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}[!DNL BrightTALK]します。
+1. 手順 4 で作成した [!DNL BrightTALK] API ロールを使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}します。
 
-1. に戻ります。 **[!UICONTROL 管理者]** 領域
+1. **[!UICONTROL 管理]**&#x200B;領域に戻ります。
 
    ![](assets/connect-brighttalk-to-marketo-1.png)
 
-1. の下 **[!UICONTROL 統合]**&#x200B;をクリックし、 **[!UICONTROL LaunchPoint]**.
+1. 「**[!UICONTROL 統合]**」で、「**[!UICONTROL LaunchPoint]**」をクリックします。
 
    ![](assets/connect-brighttalk-to-marketo-2.png)
 
-1. 「**[!UICONTROL 新規]**」ドロップダウンをクリックして、「**[!UICONTROL 新規サービス]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規サービス]**&#x200B;を選択します。
 
    ![](assets/connect-brighttalk-to-marketo-3.png)
 
-1. を入力します。 **[!UICONTROL 表示名]** 選択した内容です。 次をクリック： **[!UICONTROL サービス]** ドロップダウンして「 」を選択します。 **[!UICONTROL カスタム]** ( _not_ 選択 [!DNL BrightTALK]) をクリックします。
+1. 任意の&#x200B;**[!UICONTROL 表示名]**&#x200B;を入力します。**[!UICONTROL サービス]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL カスタム]**&#x200B;を選択します（[!DNL BrightTALK] は&#x200B;_選択しません_）。
 
    ![](assets/connect-brighttalk-to-marketo-4.png)
 
    >[!CAUTION]
    >
-   >必ず選択しないでください [!DNL BrightTALK] 」と入力します。 このフィールドは、削除中で、選択すると、 [!DNL Marketo/BrightTALK] 統合とも呼ばれます。
+   >ドロップダウンの [!DNL BrightTALK] は選択しないでください。これは削除中のフィールドで、選択すると、[!DNL Marketo/BrightTALK] 統合に重大な問題が発生する可能性があります。
 
-1. を入力します。 [!UICONTROL 説明] 選択した内容です。 次をクリック： **[!UICONTROL API 専用ユーザー]** ドロップダウンで、 [!DNL BrightTALK API User] 手順 5 で作成した内容。 「**[!UICONTROL 作成]**」をクリックします。
+1. 任意の「[!UICONTROL 説明]」を入力します。**[!UICONTROL API 専用ユーザー]**&#x200B;ドロップダウンをクリックし、手順 5 で作成した [!DNL BrightTALK API User] を選択します。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -67,16 +67,16 @@ ht-degree: 37%
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
-1. の下 **[!UICONTROL 統合]**&#x200B;を選択します。 **[!UICONTROL Web サービス]**.
+1. 「**[!UICONTROL 統合]**」で、「**[!UICONTROL Web サービス]**」を選択します。
 
    ![](assets/connect-brighttalk-to-marketo-8.png)
 
-1. の下 **[!UICONTROL Rest API]**、コピー（および保存） **[!UICONTROL エンドポイント]** および **[!UICONTROL ID]**.
+1. **[!UICONTROL Rest API]** で、**[!UICONTROL エンドポイント]**&#x200B;および **[!UICONTROL ID]** をコピー（および保存）します。
 
    ![](assets/connect-brighttalk-to-marketo-9.png)
 
-## その他の手順： [!DNL BrightTALK] {#additional-steps-in-brighttalk}
+## [!DNL BrightTALK] での追加手順 {#additional-steps-in-brighttalk}
 
-1. に戻る [!DNL BrightTALK] 手順 3 のコネクタ設定画面を開き、手順 12 および 14 で保存した資格情報を入力します。
+1. 手順 3 の [!DNL BrightTALK] コネクタの設定画面に戻り、手順 12 および 14 で保存した資格情報を入力します。
 
-資格情報が認証されると、正式に接続されます [!DNL BrightTALK] Marketo 次のステップは、 [同期するデータフィールド](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}.
+資格情報が認証されたら、[!DNL BrightTALK] が Marketo に正式に接続されています。次の手順では、[同期するデータフィールド](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync){target="_blank"}を決定します。

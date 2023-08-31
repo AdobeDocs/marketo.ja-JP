@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーンのリード制限の有効化 {#enable-person-restrictions-for-smart-campaigns}
 
-Marketoには、 _最大_ スマートキャンペーンの対象として認定できる担当者の数。 これにより、データベース全体に誤ってメールが送信されるのを防ぎます。
+Marketo には、スマートキャンペーンの条件を満たす人物の&#x200B;_最大数_&#x200B;を制限する機能があります。これにより、データベース全体に誤ってメールが送信されるのを防ぎます。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Marketoには、 _最大_ スマートキャンペーンの対象として認定
 
    >[!CAUTION]
    >
-   >スマートキャンペーンを実行する資格のある担当者の数が制限セットを超えると、スマートキャンペーンは実行されません。
+   >スマートキャンペーンを実行する条件を満たす人物の数が制限値を超えると、まったく実行されなくなります。
 
 1. 制限を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -49,10 +49,10 @@ Marketoには、 _最大_ スマートキャンペーンの対象として認定
 
    >[!CAUTION]
    >
-   >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。 方法を学ぶ [スマートキャンペーンでの担当者制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。[スマートキャンペーンでの人物制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)方法を参照してください。
 
 完了です。安全スイッチを ON にできるのは、
 
 >[!MORELIKETHIS]
 >
->[スマートキャンペーンでのリード制限数の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[スマートキャンペーンでの人物制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504893
-description: '"追加 [!DNL Google AdWords] as a [!DNL Launchpoint] Manager アカウントを使用したサービス — Marketoドキュメント — 製品ドキュメント»'
-title: '"追加 [!DNL Google AdWords] as a [!DNL Launchpoint] 管理者アカウントを使用したサービス»'
+description: "マネージャーアカウントで  [!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
+title: "マネージャーアカウントで  [!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとして追加"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
-# 追加 [!DNL Google AdWords] as a [!DNL Launchpoint] 管理者アカウントを使用したサービス {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# マネージャーアカウントで [!DNL Google AdWords] を [!DNL Launchpoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-リンク [!DNL Google AdWords] アカウントをMarketoに自動的にアップロードし、Marketoからにオフラインのコンバージョンデータを [!DNL Google AdWords]. 次に、 [!DNL AdWords] UI では、どのクリックが選定されたリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます  [カスタム列を追加](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。[!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556){target="_blank"}した後、どのクリックが条件を満たすリードや商談、新規顧客（またはトラッキングしたいあらゆる売上高ステージ）につながったのかを [!DNL AdWords] UI から簡単に確認できるようになります。この情報は、Marketo UI には表示されません。
 
-複数の [!DNL Google Adwords] アカウントを使用する場合、 [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} ( 旧称： [!DNL My Client Center]) を使用して、Marketoと統合できます。
+複数の [!DNL Google Adwords] アカウントがある場合、[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"}（以前の [!DNL My Client Center]）を使用して、それらを Marketo と統合できます。
 
 詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
 
@@ -29,7 +29,7 @@ ht-degree: 40%
 
 >[!NOTE]
 >
->また、 [スタンドアロン [!DNL Google AdWords] としてアカウント [!DNL Launchpoint] サービス](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>また、[スタンドアロンの  [!DNL Google AdWords]  アカウントを  [!DNL Launchpoint]  サービスとして](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}統合できます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -39,11 +39,11 @@ ht-degree: 40%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-2.png)
 
-1. 「**[!UICONTROL 新規]**」ドロップダウンをクリックして、「**[!UICONTROL 新規サービス]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規サービス]**&#x200B;を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. を入力します。 **[!UICONTROL 表示名]** を選択し、 **[!UICONTROL Google AdWords]**.
+1. **[!UICONTROL 表示名]**&#x200B;を入力し、「**[!UICONTROL Google AdWords]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 
@@ -51,11 +51,11 @@ ht-degree: 40%
 
    >[!NOTE]
    >
-   >個人からログアウトするようにしてください [!DNL Gmail] アカウントを作成し、ポップアップを有効にします。
+   >個人の [!DNL Gmail] アカウントからログアウトし、ポップアップを有効にします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-5.png)
 
-1. 次に関連するアカウントを選択 **[!DNL Google AdWords]**.
+1. **[!DNL Google AdWords]** に関連付けられたアカウントを選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-6.png)
 
@@ -67,7 +67,7 @@ ht-degree: 40%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
-1. Marketoからへのオフライン変換のアップロード [!DNL Google AdWords] **[!UICONTROL 毎週]** または **[!UICONTROL 毎日]**.
+1. Marketo から [!DNL Google AdWords] にオフラインコンバージョンをアップロードする送信頻度として、「**[!UICONTROL 毎週]**」または「**[!UICONTROL 毎日]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-9.png)
 
@@ -77,12 +77,12 @@ ht-degree: 40%
 
    | タイプ | 定義 |
    |---|---|
-   | [!UICONTROL 最初のクリック] | オフラインコンバージョンは最初の [!DNL AdWords] 過去 90 日間にクリックした人 |
-   | [!UICONTROL 最後のクリック] | オフラインコンバージョンは、最後の [!DNL AdWords] 人がクリックした広告 |
+   | [!UICONTROL 最初のクリック] | オフラインコンバージョンは、過去 90 日間で人物がクリックした最初の [!DNL AdWords] 広告に起因します |
+   | [!UICONTROL 最後のクリック] | オフラインコンバージョンは、人物がクリックした最後の [!DNL AdWords] 広告に起因します |
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。内で有効化する必要があります [!DNL AdWords].
+   >この機能を使用するには、[自動タギング](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。[!DNL AdWords] 内で有効化する必要があります。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -92,8 +92,8 @@ ht-degree: 40%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   マッピング方法については、以下の関連記事を参照してください。 [!DNL AdWords] オフラインコンバージョンを売上高モデルで使用できます。
+   次に、売上高モデルで [!DNL AdWords] のオフラインコンバージョンをマッピングする方法について、以下の関連記事を参照してください。
 
    >[!MORELIKETHIS]
    >
-   >[ [!DNL Google AdWords] マネージャーアカウントを使用した収益モデルでの コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[売上高モデルでの  [!DNL Google AdWords]  コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

@@ -7,13 +7,13 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # 人物パーティションの作成 {#create-a-person-partition}
 
-次の手順に従って、新しい人物パーティションを作成します。
+以下の手順に従って、新しい人物パーティションを作成します。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 82%
 
    ![](assets/create-a-person-partition-3.png)
 
-1. パーティションに名前を付け、 **[!UICONTROL Workspaces]** 表示される場所で、 **[!UICONTROL 作成]**.
+1. パーティションに名前を付けて、表示する&#x200B;**[!UICONTROL ワークスペース]**&#x200B;を選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-a-person-partition-4.png)
 

@@ -7,12 +7,12 @@ feature: Administration, Munchkin Tracking Code
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] は、web サイトに配置する JavaScript スニペットです。訪問回数、クリック数、フォームの入力回数をトラックします。また、様々なクールなことを行うための豊富な API を備えています。
+[!DNL Munchkin] は、web サイトに配置する JavaScript スニペットです。訪問回数、クリック数、フォームの入力回数をトラッキングします。また、様々なクールなことを行うための豊富な API を備えています。
 
-以下を確認します。 [の開発者ページ [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} を参照してください。
+詳しくは、[ [!DNL Munchkin] の開発者ページ](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}を参照してください。

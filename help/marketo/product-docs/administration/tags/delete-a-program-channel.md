@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 84%
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 削除するチャネルを選択します。 内 **[!UICONTROL タグアクション]** ドロップダウンで、 **[!UICONTROL 削除]**.
+1. 削除するチャネルを選択します。**[!UICONTROL タグアクション]**&#x200B;ドロップダウンで、**[!UICONTROL 削除]**&#x200B;をクリックします。
 
    >[!TIP]
    >

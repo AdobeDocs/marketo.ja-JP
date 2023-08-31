@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 83%
 >
 >この機能は以下の場合にのみ使用できます。
 >
->* の [!DNL Orion] インフラ
->* Marketoカスタムオブジェクトでのみ使用し、ネイティブから同期されたカスタムオブジェクトでは使用しません [!DNL Salesforce] または [!DNL Microsoft Dynamics] 統合
+>* [!DNL Orion] インフラストラクチャのお客様向け
+>* Marketo カスタムオブジェクトでのみ使用し、ネイティブの [!DNL Salesforce] または [!DNL Microsoft Dynamics] 統合を通じて同期されたカスタムオブジェクトでは使用しません。
 >* フィルターとしてではなくトリガーとして使用
 >
 >カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡してください。
@@ -29,7 +29,7 @@ ht-degree: 83%
 >
 >カスタムオブジェクトレコードが変更されても、アクティビティログエントリは作成されません。
 
-1. Marketo Engageで、に移動します。 **[!UICONTROL マーケティング活動]**.
+1. Marketo Engage で、**[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 83%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. を選択します。 [!UICONTROL トリガー属性].
+1. [!UICONTROL トリガー属性]を選択します。
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

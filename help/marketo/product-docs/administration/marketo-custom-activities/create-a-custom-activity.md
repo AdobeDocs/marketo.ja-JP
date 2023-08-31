@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 名前とオプションを入力 [!UICONTROL 説明]を選択し、「 **[!UICONTROL 次へ]**. API 名は自動入力されますが、カスタマイズできます。
+1. 名前と（オプションで）[!UICONTROL 説明]を入力し、「**[!UICONTROL 次へ]**」をクリックします。API 名は自動入力されますが、カスタマイズできます。
 
    ![](assets/create-a-custom-activity-4.png)
 

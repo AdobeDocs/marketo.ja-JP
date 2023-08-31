@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2359912
-description: ユーザとロールのリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
-title: ユーザとロールのリストのエクスポート
+description: ユーザーとロールのリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
+title: ユーザーとロールのリストのエクスポート
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# ユーザとロールのリストのエクスポート {#export-a-list-of-users-and-roles}
+# ユーザーとロールのリストのエクスポート {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-ユーザとユーザロールの完全なリストをエクスポートするのは非常に簡単です。手順は以下のとおりです。
+ユーザーとユーザーロールの完全なリストをエクスポートするのは非常に簡単です。手順は以下のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」に移動します。
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -39,6 +39,6 @@ ht-degree: 95%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   それだけだ、みんな！ 新しい Excel ファイルをダウンロードする必要があります。
+   以上です。新しい Excel ファイルをダウンロードする必要があります。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

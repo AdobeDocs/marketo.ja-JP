@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: '"追加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] サービス — Marketoドキュメント — 製品ドキュメント»'
-title: "追加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint Service]"
+description: " [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint Service] として追加"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
-# 追加 [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] サービス {#add-level-three-web-meeting-as-a-launchpoint-service}
+# [!DNL Level 3 Web Meeting] を [!DNL LaunchPoint] サービスとして追加 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketoが [!DNL Level 3 Web Meeting] 登録と出席
+Marketo は、[!DNL Level 3 Web Meeting] の登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketoが [!DNL Level 3 Web Meeting] 登録と出席
 
 >[!NOTE]
 >
->の既存の購読 [!DNL Level 3 Web Meeting] この手順には、および管理権限が必要です。 アクセス番号、アクセスコード、パスコードをお手元にご用意ください。
+>この手順を実行するには、[!DNL Level 3 Web Meeting] の既存のサブスクリプションと管理者権限が必要です。アクセス番号、アクセスコード、パスコードを手元に用意しておきます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -43,10 +43,10 @@ Marketoが [!DNL Level 3 Web Meeting] 登録と出席
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
-お使いの [!DNL Level 3 Web Meeting] アカウントがMarketoと同期されました。
+[!DNL Level 3 Web Meeting] アカウントが Marketo と同期されました。
 
 ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->方法を学ぶ [でイベントを作成する [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}.
+>[ [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"} でイベントを作成する方法を参照してください。

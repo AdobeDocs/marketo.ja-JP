@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >日付を読み込む場合は、次の形式を使用します。**9/21/20**（月/日/年）。
+   >日付を読み込む場合は、以下の形式を使用します。**9/21/20**（月/日/年）。
 
    >[!NOTE]
    >
@@ -97,13 +97,13 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >リストの読み込みモードで「**[!UICONTROL 新しい人物とアップデートをスキップ]**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。このモードを選択すると、次の操作がおこなわれます。
+   >リストの読み込みモードで「**[!UICONTROL 新しい人物とアップデートをスキップ]**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。このモードを選択すると、以下の操作が行われます。
    >
    > * 新規人物の作成をスキップ
    > * 人物フィールドの更新をスキップ
    > * アクティビティログへの記録をスキップ
 
-1. マッピング [!UICONTROL リスト列] フィールドをそれぞれのMarketoフィールドに追加し、 **[!UICONTROL 次へ]**.
+1. 「[!UICONTROL リスト列]」フィールドをそれぞれの Marketo フィールドにマッピングし、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/import-a-list-of-people-12.png)
 
@@ -113,13 +113,13 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >読み込まないフィールドがある場合は、Marketo フィールドドロップダウンメニューで「**無視**」を選択します。
+   >読み込まないフィールドがある場合は、Marketo フィールドドロップダウンメニューで&#x200B;**無視**&#x200B;を選択します。
 
 1. **[!UICONTROL 獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. ユーザが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
+1. ユーザーが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
 
    ![](assets/import-a-list-of-people-14.png)
 
@@ -129,13 +129,13 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->プログラムのメンバーシップを追跡することで、プログラムの成功を分析できます。[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
+>プログラムのメンバーシップをトラッキングすることで、プログラムの成功を分析できます。[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## ミッション完了 {#mission-complete}
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 91%
 
 ページの問題をリストに整理できます。また、リストからページの問題を削除することもできます。
 
-## ページの問題をリストに追加する {#add-page-issues-to-a-list}
+## ページの問題のリストへの追加 {#add-page-issues-to-a-list}
 
 1. 「**[!UICONTROL ページ]**」セクションに移動します。
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. の **[!UICONTROL ページ]** タブ、クリック **[!UICONTROL 問題]**.
+1. 「**[!UICONTROL ページ]**」タブで、「**[!UICONTROL 問題]**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
@@ -35,9 +35,9 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >また、キーワードを入れる新しいリストを作成することもできます。目的の名前をに入力します。 **[!UICONTROL 新しいリストを作成]**.
+   >また、キーワードを入れる新しいリストを作成することもできます。「**[!UICONTROL 新しいリストを作成]**」に名前を入力します。
 
-## リストからページの問題を削除する {#remove-page-issue-from-a-list}
+## ページの問題のリストからの削除 {#remove-page-issue-from-a-list}
 
 1. 「**[!UICONTROL ページ]**」セクションに移動します。
 

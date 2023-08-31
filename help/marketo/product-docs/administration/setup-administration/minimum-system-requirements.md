@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +19,10 @@ Marketo にログインして使用するために必要なものをご紹介し
 >
 >iOS および Android はまだサポートされていません。
 
-* 実行中のコンピューターまたはノートパソコン [!DNL Windows]、Mac OS X（またはそれ以降）、Linux
+* [!DNL Windows]、Mac OS X（またはそれ以降）または Linux を実行するコンピューターまたはノートパソコン
 * キーボードとマウス
 * 解像度 1280 x 768 以上のモニター
-* 最新のブラウザーについて詳しくは、「[サポートされているブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"}」を参照してください。
+* 最新のブラウザーについて詳しくは、[サポートされているブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"}を参照してください。
 * インターネット接続
 
 >[!NOTE]

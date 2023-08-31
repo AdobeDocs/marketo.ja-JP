@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. フィールドの [!UICONTROL データタイプ].
+1. フィールドの[!UICONTROL データタイプ]を選択します。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -69,7 +69,7 @@ ht-degree: 98%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. 編集するフィールドを選択し、「**[!UICONTROL フィールドアクション]**」ドロップダウンをクリックして、「**[!UICONTROL フィールドを編集]**」を選択します。
+1. 編集するフィールドを選択し、**[!UICONTROL フィールドアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL フィールドを編集]**&#x200B;を選択します。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -113,6 +113,6 @@ ht-degree: 98%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. 削除するフィールドを選択し、「**[!UICONTROL フィールドアクション]**」ドロップダウンをクリックして、「**[!UICONTROL フィールドを削除]**」を選択します。
+1. 削除するフィールドを選択し、**[!UICONTROL フィールドアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL フィールドを削除]**&#x200B;を選択します。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

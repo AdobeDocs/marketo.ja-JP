@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 >[!CAUTION]
 >
->担当者のマージは永続的です。「元に戻す」オプションはありません。
+>人物の結合は、恒常的で、「元に戻す」オプションはありません。
 
 >[!PREREQUISITES]
 >
@@ -73,16 +73,16 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 ## Salesforce での効果 {#effect-in-salesforce}
 
-Salesforce 統合がある場合は、Salesforce 内のリードを結合した結果に関するメモがいくつかあります。
+Salesforce と統合している場合、Salesforce のリードの結合の効果に関していくつかの注意事項があります。
 
 * リードのみまたは連絡先のみを結合する場合、通常の Salesforce ルールに従って結合されます。
 * リードと連絡先を結合する場合、通常の Salesforce ルールに従って結合する前に、すべてのリードが連絡先にコンバージョンされます。
 
-リードまたは連絡先を結合する際の Salesforce の動作の詳細は、次の Salesforce ドキュメントを確認してください。
+リードまたは連絡先を結合する際の Salesforce の動作について詳しくは、以下の Salesforce ドキュメントを確認してください。
 
 * [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
 * [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
-## 一括結合 {#bulk-merging}
+## 一括マージ {#bulk-merging}
 
 重複が多すぎて手動で結合できない場合は、アドビアカウントチーム（担当のアカウントマネージャー）に連絡して、オプションについてご相談ください。

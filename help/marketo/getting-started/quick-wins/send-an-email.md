@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 88%
 
    ![](assets/send-an-email-1.png)
 
-1. **[!UICONTROL 学習]**&#x200B;フォルダーを選択します。「**[!UICONTROL 新規]**」ドロップダウンをクリックして、「**[!UICONTROL 新規プログラム]**」を選択します。
+1. **[!UICONTROL 学習]**&#x200B;フォルダーを選択します。**[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規プログラム]**&#x200B;を選択します。
 
    ![](assets/send-an-email-2.png)
 
-1. を入力します。 **[!UICONTROL 名前]** を選択し、 **[!UICONTROL 電子メール]** 対象 **[!UICONTROL プログラムタイプ]**.
+1. **[!UICONTROL 名前]**&#x200B;を入力し、「**[!UICONTROL プログラムタイプ]**」で「**[!UICONTROL メール]**」を選択します。
 
    >[!TIP]
    >
@@ -43,17 +43,17 @@ ht-degree: 88%
 
 ## オーディエンスの定義 {#define-your-audience}
 
-1. 「オーディエンス」タイルの下にある「**[!UICONTROL スマートリストを編集]**」をクリックします。
+1. 「[!UICONTROL オーディエンス]」タイルの下にある「**[!UICONTROL スマートリストを編集]**」をクリックします。
 
    ![](assets/send-an-email-5.png)
 
-1. 検索し、 [!UICONTROL 電子メールアドレス] フィルターをキャンバスに適用します。
+1. 「[!UICONTROL メールアドレス]」フィルターを見つけて、キャンバスにドラッグします。
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >以下を使用： **[!UICONTROL 検索]** 関数を使用して、フィルターをより簡単に検索できます。
+   >**[!UICONTROL 検索]**&#x200B;機能を使用して、より簡単にフィルターを見つけます。
 
 1. 自分のメールアドレスを探して選択します。
 
@@ -99,7 +99,7 @@ ht-degree: 88%
 
    ![](assets/send-an-email-13.png)
 
-1. 「**[!UICONTROL メールアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 承認して閉じる]**」を選択します。
+1. **[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 承認して閉じる]**&#x200B;を選択します。
 
    ![](assets/send-an-email-14.png)
 
@@ -111,13 +111,13 @@ ht-degree: 88%
 
    ![](assets/send-an-email-15.png)
 
-1. 以下 [!UICONTROL スケジュール] タイルで、電子メールの開始日を **[!UICONTROL 今日]**.
+1. 「[!UICONTROL スケジュール]」タイルで、メールのローンチ日を「**[!UICONTROL 今日]**」に設定します。
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >詳細情報： [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >詳しくは、[受信者のタイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}を参照してください。
 
 1. 15 分以上後の時間を選択してください。
 
@@ -127,7 +127,7 @@ ht-degree: 88%
    >
    >デフォルトのタイムゾーンが異なりますか？[ここで更新](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}方法をご確認ください。
 
-1. 「承認」タイルで「**[!UICONTROL プログラムを承認]**」をクリックすれば完了です。
+1. 「[!UICONTROL 承認]」タイルで「**[!UICONTROL プログラムを承認]**」をクリックすれば完了です。
 
    ![](assets/send-an-email-18.png)
 
@@ -135,7 +135,7 @@ ht-degree: 88%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 

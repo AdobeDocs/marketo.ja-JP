@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ SEO 管理者は、キーワードランク情報を取得したい検索エン�
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 最適化する国／都市を選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. 最適化する国／市区町村を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ SEO 管理者は、キーワードランク情報を取得したい検索エン�
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-これで完了です。選択した国や都市のキーワードランクが表示されます。
+これで完了です。選択した国または市区町村のキーワードランクが表示されるようになりました。
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 

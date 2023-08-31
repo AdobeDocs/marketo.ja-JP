@@ -7,17 +7,17 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # ポータルへのシングルサインオンの追加 {#add-single-sign-on-to-a-portal}
 
-ユーザを認証するディレクトリサービスをご利用の場合は、Marketo へのシングルサインオン（SSO）を許可することができます。この機能は、 [!DNL Security Assertion Markup Language] (SAML) バージョン 2.0 以降。
+ユーザーを認証するディレクトリサービスをご利用の場合は、Marketo へのシングルサインオン（SSO）を許可することができます。この機能をサポートするために、[!DNL Security Assertion Markup Language]（SAML）バージョン 2.0 以降を使用しています。
 
-Marketo は SAML サービスプロバイダー（SP）として機能し、ユーザの認証には外部 ID プロバイダー（IdP）を使用します。
+Marketo は SAML サービスプロバイダー（SP）として機能し、ユーザーの認証には外部 ID プロバイダー（IdP）を使用します。
 
-SSO を有効にすると、IdP がユーザの認証情報を検証できるようになります。ユーザが Marketo ソフトウェアを使おうとすると、SP として機能する Marketo に対して IdP が署名済み SAML メッセージを送信します。このメッセージは、当該ユーザが Marketo ソフトウェアの使用権限を持つことを Marketo に対して保証するものです。
+SSO を有効にすると、IdP がユーザーの資格情報を検証できるようになります。ユーザーが Marketo ソフトウェアを使おうとすると、SP として機能する Marketo に対して IdP が署名済み SAML メッセージを送信します。このメッセージは、当該ユーザーが Marketo ソフトウェアの使用権限を持つことを Marketo に対して保証するものです。
 
 >[!NOTE]
 >
@@ -25,26 +25,26 @@ SSO を有効にすると、IdP がユーザの認証情報を検証できるよ
 
 >[!NOTE]
 >
->あなたは [!DNL Microsoft Azure] ユーザー？ 確認する [統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
+>[!DNL Microsoft Azure] ユーザーですか？[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 
 * SAML 応答である SSO リクエストを `https://login.marketo.com/saml/assertion/<your-munchkin-id>` に送信します。
-* SP のオーディエンス URL として次の URL を使用します。`http://saml.marketo.com/sp`
-* SPNameQualifier 属性を使用している場合は、Subject の NameID 要素に次の値を設定します。`http://saml.marketo.com/sp`
+* SP のオーディエンス URL として、`http://saml.marketo.com/sp` を使用します。
+* SPNameQualifier 属性を使用している場合は、Subject の NameID 要素に `http://saml.marketo.com/sp` を設定します。
 * 複数の Marketo サブスクリプションを同じ SSO プロバイダーに統合する場合は、各 Marketo サブに対して `http://saml.marketo.com/sp/<munchkin_id>` 形式の一意の SP URL を使用できます
 
 >[!NOTE]
 >
->Marketo は、Identity Provider-initiated（IdP-initiated とも呼ばれます）のみをサポートします。この ID プロバイダーでは、ユーザが最初に Idp ログインページを起動し、認証してから My Marketo に移動します。
+>Marketo は、Identity Provider-initiated（IdP-initiated とも呼ばれます）のみをサポートします。この ID プロバイダーでは、ユーザーが最初に Idp ログインページを起動し、認証してから My Marketo に移動します。
 
 ## そのほかの備考 {#additional-notes}
 
-* **同期時間** - 新しいユーザの場合、最初の SSO リクエストが処理されるまでに約 10 分の遅延があります。
-* **ユーザプロビジョニング** - ユーザは Marketo を使用して手動でプロビジョニングします。
-* **認証** - ユーザ権限は Marketo 内で維持されます。
+* **同期時間** - 新しいユーザーの場合、最初の SSO リクエストが処理されるまでに約 10 分の遅延があります。
+* **ユーザープロビジョニング** - ユーザーは Marketo を使用して手動でプロビジョニングします。
+* **認証** - ユーザー権限は Marketo 内で維持されます。
 * **OAuth サポート** - Marketo は現在 OAuth をサポートしていません。
-* **自動ユーザ反映** - 「ジャストインタイムプロビジョニング」とも呼ばれ、ユーザの最初の SAML ログインが、アクセスしている web アプリケーション（Marketo など）でユーザを作成でき、手動の管理操作は不要です。現時点では、Marketo ではサポートされていません。
+* **自動ユーザー反映** - 「ジャストインタイムプロビジョニング」とも呼ばれ、ユーザーの最初の SAML ログインが、アクセスしている web アプリケーション（Marketo など）でユーザーを作成でき、手動の管理操作は不要です。現時点では、Marketo ではサポートされていません。
 * **暗号化** - Marketo は現在暗号化をサポートしていません。
 
 >[!NOTE]
@@ -53,7 +53,7 @@ SSO を有効にすると、IdP がユーザの認証情報を検証できるよ
 
 ## SAML 設定の更新 {#update-saml-settings}
 
-SSO はデフォルトで無効になっています。SAML を有効にして設定するには、次の手順に従います。
+SSO はデフォルトで無効になっています。SAML を有効にして設定するには、以下の手順に従います。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -65,7 +65,7 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 
    >[!NOTE]
    >
-   >見えない場合 **[!UICONTROL シングルサインオン]** under **[!UICONTROL 管理者]**，連絡先 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >**[!UICONTROL 管理者]**&#x200B;の下に&#x200B;**[!UICONTROL シングルサインオン]**&#x200B;が表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL SAML 設定]**」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 
@@ -75,7 +75,7 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. 「**[!UICONTROL 発行者 ID]**」、「**[!UICONTROL エンティティ ID]**」を入力し、**[!UICONTROL ユーザ ID の場所]**&#x200B;を選択して、「**[!UICONTROL 参照]**」をクリックします。
+1. 「**[!UICONTROL 発行者 ID]**」、「**[!UICONTROL エンティティ ID]**」を入力し、**[!UICONTROL ユーザー ID の場所]**&#x200B;を選択して、「**[!UICONTROL 参照]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
@@ -97,11 +97,11 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
    >
    >ユニバーサル ID と SSO を使用するお客様は、ID プロバイダーのログイン URL を「**[!UICONTROL ログイン URL]**」フィールドに入力する必要があります。
 
-1. 「**[!UICONTROL ログアウト URL]**」を入力します。これは、Marketo からログアウトしたときにユーザを転送する先の URL です。
+1. 「**[!UICONTROL ログアウト URL]**」を入力します。これは、Marketo からログアウトしたときにユーザーを転送する先の URL です。
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 「**[!UICONTROL エラー URL]**」を入力します。これは、Marketo へのログインが失敗した場合にユーザを転送する先の URL です。「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL エラー URL]**」を入力します。これは、Marketo へのログインが失敗した場合にユーザーを転送する先の URL です。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

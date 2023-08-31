@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -51,6 +51,6 @@ ht-degree: 95%
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. キーワードを **[!UICONTROL 検索]** フィールドに入力します。
+1. **[!UICONTROL 検索]**&#x200B;フィールドにキーワードを入力します。
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

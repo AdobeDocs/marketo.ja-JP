@@ -16,7 +16,7 @@ ht-degree: 25%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -24,7 +24,7 @@ ht-degree: 25%
 
 </br>
 
-* **Marketo Reference Library**:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しました。
+* **Marketo Reference Library**:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。
 
 <table>
   <tr> 

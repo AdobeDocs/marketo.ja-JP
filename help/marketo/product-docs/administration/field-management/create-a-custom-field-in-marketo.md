@@ -7,13 +7,13 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # Marketo でのカスタムフィールドの作成 {#create-a-custom-field-in-marketo}
 
-データを保存または取り込むためにMarketo Engageに新しいカスタムフィールドが必要な場合は、次にその作成方法を示します。
+データを保存または取得するために Marketo Engage で新しいカスタムフィールドが必要な場合は、以下の方法で作成します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -39,11 +39,11 @@ ht-degree: 70%
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. 次を入力します。 [!UICONTROL 名前] Marketoで表示する この [!UICONTROL API 名] が自動的に生成されます。 調整は可能ですが、一度設定すると名前を変更することはできません。終了したら、「**[!UICONTROL 作成]**」をクリックします。
+1. Marketo に表示する[!UICONTROL 名前]を入力します。[!UICONTROL API 名]は自動的に生成されます。調整は可能ですが、一度設定すると名前を変更することはできません。終了したら、「**[!UICONTROL 作成]**」をクリックします。
 
 >[!CAUTION]
 >
->フィールド名の先頭に次の文字を使用することはできません。**.&amp; +[]**
+>フィールド名の先頭に、以下の文字を使用することはできません。**.&amp; +[]**
 
 ![](assets/create-a-custom-field-in-marketo-5.png)
 
@@ -51,4 +51,4 @@ ht-degree: 70%
 >
 >この API 名は、SOAP API および他のバックエンドプロセスで使用されます。
 
-フォーム、フローステップ、スマートリストでこのカスタムフィールドを使用できます。
+これで、フォーム、フローステップ、スマートリストでこのカスタムフィールドを使用できます。

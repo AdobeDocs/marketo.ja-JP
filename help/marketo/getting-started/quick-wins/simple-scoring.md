@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 93%
 
    **体験版リクエストフォーム**&#x200B;に入力されるたびに、このキャンペーンを実行するようにします。
 
-1. 「**[!UICONTROL フォームの入力]**」トリガーを検索して、左側のキャンバスにドラッグします。
+1. 「**[!UICONTROL フォームへの記入]**」トリガーを検索して、左側のキャンバスにドラッグします。
 
    ![](assets/simple-scoring-7.png)
 
@@ -60,13 +60,13 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >以下を完了した場合、 [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} クイックウィン、フォームを持つ必要があります。 フォームに別の名前を使用した場合は、その名前を選択します。
+   >[フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}クイックウィンを完了している場合、このフォームがあります。フォームに別の名前を使用した場合は、その名前を選択します。
 
 1. 「**[!UICONTROL フロー]**」タブをクリックします。
 
    ![](assets/simple-scoring-9.png)
 
-1. 「**スコアを変更**」フローアクションを左のキャンバスにドラッグします。
+1. 「**スコアを変更**」フローアクションを左側のキャンバスにドラッグします。
 
    ![](assets/simple-scoring-10.png)
 
@@ -76,7 +76,7 @@ ht-degree: 93%
 
    >[!TIP]
    >
-   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。読み取り [**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
+   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。[**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL スケジュール]**」タブをクリックし、「**[!UICONTROL アクティブ化]**」ボタンをクリックします。
 
@@ -88,9 +88,9 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->アクティブにすると、ユーザがフォームに入力するたびにこのキャンペーンが実行されます。キャンペーンは、無効にされるまで実行を続けます。
+>アクティブにすると、ユーザーがフォームに入力するたびにこのキャンペーンが実行されます。キャンペーンは、無効にされるまで実行を続けます。
 
-## 手順 2:フォームを入力する {#step-fill-out-the-form}
+## 手順 2：フォームに入力する {#step-fill-out-the-form}
 
 1. [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}クイックウィンで作成したランディングページを選択します。
 

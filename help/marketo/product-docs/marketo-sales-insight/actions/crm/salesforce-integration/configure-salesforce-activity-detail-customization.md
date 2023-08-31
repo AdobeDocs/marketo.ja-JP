@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '709'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 99%
  </tr>
 </table>
 
-この機能を使用して、次のメリットをアンロックできます。
+この機能を使用して、以下のメリットをアンロックできます。
 
 * 件名フィールドに表示される情報をカスタマイズすることで、Salesforce での販売に関するアクティビティの詳細を簡単にスキャンできます。
 * 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、Sales Insight Actions のアクティビティを簡単に識別し、他のメールアクティビティ、通話アクティビティおよびタスクと区別できます。
@@ -145,5 +145,5 @@ ht-degree: 99%
 
 >[!MORELIKETHIS]
 >
->* [セールス活動を Salesforce に同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* [セールスアクティビティの Salesforce への同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

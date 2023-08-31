@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 84%
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. 「**[!UICONTROL カスタムアクティビティのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL アクティビティを公開]**」を選択します。
+1. **[!UICONTROL カスタムアクティビティアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL アクティビティを公開]**&#x200B;を選択します。
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   カスタムアクティビティの [!UICONTROL state] ～から離れる [!UICONTROL ドラフト]...
+   カスタムアクティビティの[!UICONTROL 状態]が、[!UICONTROL 下書き]から...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...から [!UICONTROL 公開済み].
+   ...[!UICONTROL 公開済み]に変更されました。
 
    ![](assets/publish-a-custom-activity-6.png)
 

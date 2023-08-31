@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # Google Chrome 用 Marketo Insights の使用 {#using-marketo-insights-for-google-chrome}
 
-Google Chrome 用 Marketo Insights を使用して、Google メールを送信し、追跡します。
+Google Chrome 用 Marketo Insights を使用して、Google メールを送信し、トラッキングします。
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Google Chrome 用 Marketo Insights を使用して、Google メールを送信�
 
 >[!NOTE]
 >
->Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
+>Sales Insight Actions 機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用の Sales Insight メールプラグインでは使用できません。現時点では、ユーザーは、Sales Insight メールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 ## Marketo Insights でメールを送信 {#send-an-email-with-marketo-insights}
 
@@ -29,7 +29,7 @@ Google Chrome 用 Marketo Insights を使用して、Google メールを送信�
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. 「送信」ボタンが Marketo パープルに変わりました。このメールは Marketo を使用して送信され、すべてのリンクがトラックされ、トラッキングピクセルがメールに挿入されます。これは、送信済みセールスメールアクティビティとして記録されます。
+1. 「送信」ボタンが Marketo パープルに変わりました。このメールは、Marketo を使用して送信され、すべてのリンクがトラッキングされて、トラッキングピクセルがメールに挿入されます。これは、送信済みセールスメールアクティビティとして記録されます。
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
@@ -55,9 +55,9 @@ Google Chrome 用 Marketo Insights を使用して、Google メールを送信�
 
    >[!NOTE]
    >
-   >メッセージは、「**送信**」ボタンがパープルの場合のみトラックされます。
+   >メッセージは、「**送信**」ボタンがパープルの場合のみトラッキングされます。
 
-1. メールはすぐに Marketo Sales Insight に表示され、すべての開封数とクリック数がトラックされます。
+1. メールはすぐに Marketo Sales Insight に表示され、すべての開封数とクリック数がトラッキングされます。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 

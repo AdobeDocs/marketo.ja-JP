@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360344
-description: Marketoと [!DNL Salesforce] - Marketoドキュメント — 製品ドキュメント»
-title: Marketoと [!DNL Salesforce]"
+description: "Marketo と  [!DNL Salesforce]  の間のフィールドマッピングの表示 - Marketo ドキュメント - 製品ドキュメント"
+title: "Marketo と  [!DNL Salesforce] の間のフィールドマッピングの表示"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
-# Marketo と 間のフィールドマッピングの表示[!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
+# Marketo と [!DNL Salesforce] の間のフィールドマッピングの表示 {#view-field-mappings-between-marketo-and-salesforce}
 
-どちらかを知りたいかもしれません [!DNL Salesforce] 特定のMarketoフィールドが結び付けられるフィールド。 次に確認方法を示します。
+特定の Marketo フィールドに、どの [!DNL Salesforce] フィールドが関連付けられているのかを知ることができます。以下に確認方法を示します。
 
 >[!NOTE]
 >
@@ -33,8 +33,8 @@ ht-degree: 48%
 
 >[!NOTE]
 >
->これは、 [!DNL Salesforce] API 名（ラベル名ではありません）。
+>ラベル名ではなく、[!DNL Salesforce] API 名が表示されます。
 
 >[!IMPORTANT]
 >
->リストされるフィールドは、初期マッピングからのデータのみを反映しています。Marketo/[!DNL Salesforce] 同期。
+>リストされるフィールドは、初期マッピングからのデータのみを反映しています。Marketo／[!DNL Salesforce] 同期後は更新されません。

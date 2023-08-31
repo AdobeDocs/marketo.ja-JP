@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 80%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. 内 [!UICONTROL フィールド] タブ、クリック **[!UICONTROL フィールドアクション]** および **[!UICONTROL フィールドを編集]**.
+1. 「[!UICONTROL フィールド]」タブで、「**[!UICONTROL フィールドアクション]**」および「**[!UICONTROL フィールドを編集]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -41,7 +41,7 @@ ht-degree: 80%
 
 カスタムオブジェクトにフィールドが不要になった場合は、そのフィールドを削除できます。
 
-1. 「フィールド」タブで、 **[!UICONTROL フィールドアクション]** および **[!UICONTROL フィールドを削除]**.
+1. 「フィールド」タブで、「**[!UICONTROL フィールドアクション]**」および「**[!UICONTROL フィールドを削除]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 

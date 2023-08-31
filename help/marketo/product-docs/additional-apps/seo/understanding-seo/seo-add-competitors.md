@@ -7,13 +7,13 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # SEO - 競合相手の追加 {#seo-add-competitors}
 
-競合他社を追加すると、監視対象として選択したものと同じキーワードおよびインバウンドリンクに対する競合企業のパフォーマンスをトラックできます。
+競合他社を追加すると、監視対象として選択したものと同じキーワードおよびインバウンドリンクに対する競合他社のパフォーマンスをトラッキングできます。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. 次をクリック： **[!UICONTROL 競合他社]** タブをクリックします。
+1. 「**[!UICONTROL 競合他社]**」タブをクリックします。
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: '"追加 [!DNL Webex] as a [!DNL LaunchPoint] サービス — Marketoドキュメント — 製品ドキュメント»'
-title: '"追加 [!DNL Webex] as a [!DNL LaunchPoint] サービス»'
+description: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
+title: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
-# 追加 [!DNL Webex] as a [!DNL LaunchPoint] サービス {#add-webex-as-a-launchpoint-service}
+# [!DNL Webex] を [!DNL LaunchPoint] サービスとして追加 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engageが [!DNL Webex] ウェビナーの登録と出席。
+Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理します。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Marketo Engageが [!DNL Webex] ウェビナーの登録と出席。
 
 >[!NOTE]
 >
->の既存の購読 [!DNL Webex] この手順には、および管理権限が必要です。 ユーザ名、パスワード、サイト名の各設定をお手元にご用意ください。
+>この手順を実行するには、[!DNL Webex] の既存のサブスクリプションと管理者権限が必要です。ユーザー名、パスワード、サイト名の各設定を手元に用意しておきます。
 
 >[!NOTE]
 >
->このサイト名は、 [!DNL Webex]. 例：
+>サイト名は、[!DNL Webex] にログインするために使用する URL の末尾にあります。例：
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
@@ -47,7 +47,7 @@ Marketo Engageが [!DNL Webex] ウェビナーの登録と出席。
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. 「**[!UICONTROL ユーザ名]**」と「**[!UICONTROL パスワード]**」をそれぞれ入力します。
+1. 「**[!UICONTROL ユーザー名]**」と「**[!UICONTROL パスワード]**」をそれぞれ入力します。
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
@@ -61,4 +61,4 @@ Marketo Engageが [!DNL Webex] ウェビナーの登録と出席。
 
 >[!MORELIKETHIS]
 >
->[ でイベントを作成する [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}方法を参照してください。
+>[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成する方法を参照してください。

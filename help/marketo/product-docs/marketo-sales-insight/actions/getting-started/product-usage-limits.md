@@ -6,17 +6,17 @@ feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # 製品使用の制限 {#product-usage-limits}
 
-以下に、Sales Insight Actions で使用可能な拡張セールスエンゲージメント機能の使用に関する制限を示します。
+以下に、Sales Insight Actions で使用可能な拡張セールスエンゲージメント機能の使用に対して適用される制限を示します。
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce ユーザーインターフェイスと統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 <table>
   <th>機能</th>
@@ -29,7 +29,7 @@ ht-degree: 77%
  </tr>
  <tr>
   <td>セールスメール送信</td>
-  <td>ユーザごと／日</td>
+  <td>ユーザーごと／日</td>
   <td>1,000</td>
  </tr>
  <tr>
@@ -49,7 +49,7 @@ ht-degree: 77%
  </tr>
  <tr>
   <td>メールの保存済みの検索結果</td>
-  <td>ユーザごと</td>
+  <td>ユーザーごと</td>
   <td>50</td>
  </tr>
  <tr>
@@ -59,12 +59,12 @@ ht-degree: 77%
  </tr>
  <tr>
   <td>キャンペーンローンチ</td>
-  <td>ユーザごと／日</td>
+  <td>ユーザーごと／日</td>
   <td>200</td>
  </tr>
  <tr>
   <td>実行中のキャンペーン</td>
-  <td>ユーザごと／日</td>
+  <td>ユーザーごと／日</td>
   <td>200</td>
  </tr>
  <tr>
@@ -78,17 +78,17 @@ ht-degree: 77%
   <td>500</td>
  </tr>
   <td>通話</td>
-  <td>ユーザごと／月ごと（インスタンス間で共有）</td>
+  <td>ユーザーごと／月ごと（インスタンス間で共有）</td>
   <td>50 分</td>
  </tr>
  <tr>
   <td>通話録音</td>
-  <td>ユーザごと／月ごと（インスタンス間で共有）</td>
+  <td>ユーザーごと／月ごと（インスタンス間で共有）</td>
   <td>50</td>
  </tr>
  <tr>
   <td>グループ</td>
-  <td>ユーザごと</td>
+  <td>ユーザーごと</td>
   <td>50</td>
  </tr>
  <tr>
@@ -98,11 +98,11 @@ ht-degree: 77%
  </tr>
  <tr>
   <td>添付ファイルアップロード</td>
-  <td>ユーザごと</td>
+  <td>ユーザーごと</td>
   <td>25</td>
  </tr>
  <tr>
-  <td>ユーザシート</td>
+  <td>ユーザーシート</td>
   <td>インスタンスごと</td>
   <td>100</td>
  </tr>
@@ -132,7 +132,7 @@ ht-degree: 77%
   <td>13</td>
  </tr>
   <td>メール ID</td>
-  <td>ユーザごと</td>
+  <td>ユーザーごと</td>
   <td>2</td>
  </tr>
  <tr>
@@ -141,7 +141,7 @@ ht-degree: 77%
   <td>1</td>
  </tr>
  <tr>
-  <td>チーム配信停止メッセージ</td>
+  <td>チーム登録解除メッセージ</td>
   <td>インスタンスごと</td>
   <td>1</td>
  </tr>
@@ -152,7 +152,7 @@ ht-degree: 77%
  </tr>
  <tr>
   <td>SFDC 接続</td>
-  <td>ユーザごと</td>
+  <td>ユーザーごと</td>
   <td>1</td>
  </tr>
  <tr>

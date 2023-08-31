@@ -6,13 +6,13 @@ feature: Administration, Landing Pages
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # ランディングページのヘッダー {#landing-page-headers}
 
-ランディングページドメインの HTTP ヘッダーの一部をカスタマイズするには、次の手順に従います。
+ランディングページドメインの HTTP ヘッダーの一部をカスタマイズするには、以下の手順に従います。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 

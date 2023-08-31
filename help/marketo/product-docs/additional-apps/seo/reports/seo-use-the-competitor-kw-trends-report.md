@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 97%
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. クリック **[!UICONTROL 競合他社 KW ランクのトレンド]**.
+1. **[!UICONTROL 競合 KW ランクのトレンド]**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -44,7 +44,7 @@ ht-degree: 97%
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. 「**[!UICONTROL ランク]**」ドロップダウンリストをクリックして、キーワードを表示するランク範囲を選択します。
+1. **[!UICONTROL ランク]**&#x200B;ドロップダウンリストをクリックして、キーワードを表示するランク範囲を選択します。
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 

@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '516'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # 登録コードを使用した Outlook 用 Marketo メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
-ユーザがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
+ユーザーがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
 
 招待メールを受け取っていない場合は、Marketo 管理者に招待するよう依頼してください。
 
@@ -23,15 +23,15 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->Windows ユーザフォルダーに英語以外の文字が含まれている PC へのインストールはサポートされていません。このフォルダーは、Windows ユーザ名をもとに Windows が`<System Root>\Users\`に自動生成するもので、Windows ユーザ名が英語以外の名前の場合、英語以外の文字が含まれることがあります。インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
+>Windows ユーザーフォルダーに英語以外の文字が含まれている PC へのインストールはサポートされていません。このフォルダーは、Windows ユーザー名をもとに Windows が`<System Root>\Users\`に自動生成するもので、Windows ユーザー名が英語以外の名前の場合、英語以外の文字が含まれることがあります。インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
 
 >[!NOTE]
 >
->Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
+>Sales Insight Actions 機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用の Sales Insight メールプラグインでは使用できません。現時点では、ユーザーは、Sales Insight メールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 ## インストーラーのダウンロード {#download-installer}
 
-1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)を特定する{target="_blank"}
+1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. リンクをクリックして、お使いのバージョンの Microsoft Outlook に適したインストーラーをダウンロードします。
 
@@ -112,5 +112,5 @@ Marketo アクションでのメッセージとログの使用について詳し
 
 >[!MORELIKETHIS]
 >
->* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
->* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
+>* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラッキング](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Marketo テンプレートを使用した Outlook からの送信とトラッキング](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

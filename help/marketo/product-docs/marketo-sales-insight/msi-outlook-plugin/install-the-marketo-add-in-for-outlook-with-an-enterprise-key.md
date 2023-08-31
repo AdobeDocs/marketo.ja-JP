@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-多くの場合、セールス担当者は自分のノート PC で管理者権限を持っておらず、IT チームがすべてのソフトウェアをリモートでインストールする責任を負います。Outlook 用 Marketo アドインは、この方法でエンタープライズキーを使用してインストールできます。エンタープライズキーは、管理者の Sales Insight セクションにあります。「エンタープライズキーを表示」ボタンが表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて有効にしてもらいます。
+多くの場合、セールス担当者は自分のノート PC で管理者権限を持っておらず、IT チームがすべてのソフトウェアをリモートでインストールする責任を負います。Outlook 用 Marketo アドインは、この方法でエンタープライズキーを使用してインストールできます。エンタープライズキーは、管理者の Sales Insight セクションにあります。「エンタープライズキーを表示」ボタンが表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて有効にします。
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 74%
 
 >[!NOTE]
 >
->Sales Insight Actions 機能（Send Sales Email、Add to Sales Campaign、Tasks など）は、Gmail および Outlook 用の Sales Insight E メールプラグインでは使用できません。 現時点では、Sales Insight 電子メールプラグインを使用する場合に、Marketo電子メールテンプレートの有無に関わらず、追跡可能な電子メールを電子メールクライアントから送信することしかできません。
+>Sales Insight Actions 機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用の Sales Insight メールプラグインでは使用できません。現時点では、ユーザーは、Sales Insight メールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 1. My Marketo で、「**管理者**」をクリックし、「**Sales Insight**」をクリックします。
 

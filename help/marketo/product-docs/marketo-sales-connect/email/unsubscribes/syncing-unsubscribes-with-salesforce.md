@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14746188
-description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce との配信停止の同期
+description: Salesforce との登録解除の同期 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce との登録解除の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Salesforce との配信停止の同期 {#syncing-unsubscribes-with-salesforce}
+# Salesforce との登録解除の同期 {#syncing-unsubscribes-with-salesforce}
 
-## Salesforce と配信停止を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Salesforce と登録解除を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
-* 配信停止の同期を有効にする必要があります（夜間同期）
+* 登録解除の同期を有効にする必要があります（夜間同期）
 * Salesforce に「オプトアウト」フィールドがインストールされている
 * Sales Connect のユーザーレコードに Salesforce ID がある
 
@@ -25,9 +25,9 @@ Sales Connect で登録解除が収集された場合は、リアルタイムで
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
-## Salesforce に配信停止の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
+## Salesforce に登録解除の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
 
 ユーザーは、登録解除を Marketo も同期できる標準の「メールオプトアウト」フィールドに同期するか、「Marketo セールスオプトアウトフィールド」に同期してセールス登録解除とマーケティング登録解除を区別できるようにするかを指定できます。
 
@@ -50,7 +50,7 @@ Sales Connect で登録解除が収集された場合は、リアルタイムで
    | フィールド | 説明 |
    |---|---|
    | **Salesforce オプトアウトフィールドに同期** | デフォルトで選択され、Salesforce オプトアウトフィールドのみが更新されます。 |
-   | **Marketo Sales オプトアウトフィールドに同期** | セールスとマーケティングの配信停止を分ける場合は、このオプションを選択して、追加の [Marketo Sales オプトアウトフィールド](#msoo)を更新します。 |
+   | **Marketo Sales オプトアウトフィールドに同期** | セールスとマーケティングの登録解除を分ける場合は、このオプションを選択して、追加の [Marketo Sales オプトアウトフィールド](#msoo)を更新します。 |
 
 ## ページレイアウトの「オプトアウト」フィールドのインストール {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -62,7 +62,7 @@ Sales Connect で登録解除が収集された場合は、リアルタイムで
 
    ![](assets/five-1.png)
 
-1. ユーザ名をクリックし、「**設定**」を選択します。
+1. ユーザー名をクリックし、「**設定**」を選択します。
 
    ![](assets/six-1.png)
 

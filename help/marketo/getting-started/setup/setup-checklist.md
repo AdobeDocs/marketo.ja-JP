@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Marketo へようこそ以下のチェックリストを、視覚的な TODO リ
 1. ブランドトラッキングリンク用のメール CNAME を選択します
 1. IT 部門に、メール CNAME の DNS レコードの設定を依頼します
 1. IT 部門に、Marketo を許可リストに登録するよう依頼します
-1. での DKIM と SPF の設定 [!UICONTROL 管理者] 領域
+1. [!UICONTROL 管理]領域で DKIM および SPF を設定します
 1. `[FromDomain1]` の MX を設定します
 1. メール CNAME の使用が完了したら、Marketo でメール CNAME を設定します
 

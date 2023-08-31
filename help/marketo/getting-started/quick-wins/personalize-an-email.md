@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 ## 手順 1：パーソナライズするメールを選択 {#step-select-an-email-to-personalize}
 
-1. で作成した育成メールの 1 つを選択 [以前のクイックウィンドウ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} をクリックし、 **[!UICONTROL 下書きの作成]**.
+1. [以前のクイックウィン](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}で作成したナーチャリングメールの 1 つを選択し、「**[!UICONTROL 下書きの作成]**」をクリックします。
 
    ![](assets/personalize-an-email-1.png)
 

@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '2043'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 Marketo を使用する前に、いくつかの手順を完了する必要があります。
 
-次の手順が含まれます。
+以下の手順が含まれます。
 
 * いくつかの基本的なアカウント設定
 * ランディングページの URL とメールリンクのブランディングによる信頼性と配信品質の向上
@@ -40,7 +40,7 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 ![](assets/setup-steps-1.png)
 
-これで完了です。Marketo で探索を開始できます。マーケティングチームの同僚を招待して参加させるには、新しいユーザを追加します。
+これで完了です。Marketo で探索を開始できます。マーケティングチームの同僚を招待して参加させるには、新しいユーザーを追加します。
 
 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -54,11 +54,11 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 >
 >**管理者権限が必要**
 
-「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
 ![](assets/setup-steps-3.png)
 
-「**[!UICONTROL 新しいユーザを招待]**」をクリックします。
+「**[!UICONTROL 新規ユーザーを招待]**」をクリックします。
 
 ![](assets/setup-steps-4.png)
 
@@ -72,21 +72,21 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 >[!NOTE]
 >
->有効期限が来ると、ユーザは有効期限通知を受け取り、アカウントがロックされます。
+>有効期限が来ると、ユーザーは有効期限通知を受け取り、アカウントがロックされます。
 
-ロールを選択し、「**[!UICONTROL 次へ]**」をクリックします。標準ユーザは、管理者領域を除くすべての領域にアクセスできます。
+ロールを選択し、「**[!UICONTROL 次へ]**」をクリックします。標準ユーザーは、管理者領域を除くすべての領域にアクセスできます。
 
 ![](assets/setup-steps-6.png)
 
 >[!NOTE]
 >
->5 つの組み込みの役割に加えて、カスタムの役割を作成することもできます。詳しくは、[ユーザーの役割と権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
+>5 つの組み込みのロールに加えて、カスタムのロールを作成することもできます。詳しくは、[ユーザーのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
 
 招待のテキストは自由に変更できます。「**送信**」をクリックします。
 
 ![](assets/setup-steps-7.png)
 
-新しいユーザーが **[!UICONTROL ユーザー]** 」タブに移動し、パスワードとログインを作成するためのリンクが記載された電子メールを受け取る必要があります。 次の手順へ進みます。
+新規ユーザーは、「**[!UICONTROL ユーザー]**」タブにリストされるようになり、パスワードとログインを作成するためのリンクが記載されたメールを受け取ります。次の手順へ進みます。
 
 ![](assets/setup-steps-8.png)
 
@@ -102,7 +102,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 >[!NOTE]
 >
->Marketo コミュニティにログインしたユーザのみがリストに表示されます。ユーザが見つからない場合は、最初にコミュニティにログインしてください。
+>Marketo コミュニティにログインしたユーザーのみがリストに表示されます。ユーザーが見つからない場合は、最初にコミュニティにログインしてください。
 
 ## CNAME を使用したランディングページ URL のカスタマイズ {#customize-your-landing-page-urls-with-a-cname}
 
@@ -114,7 +114,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 >
 >**管理者権限が必要**
 
-ランディングページの CNAME を選択します。次に例を示します。
+ランディングページの CNAME を選択します。以下に例を示します。
 
     * **go**.[CompanyDomain].com
     * **www2**.[CompanyDomain].com
@@ -134,7 +134,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 ![](assets/setup-steps-10.png)
 
-を [!UICONTROL アカウント文字列] ランディングページの設定から。
+ランディングページ設定から[!UICONTROL アカウント文字列]をコピーします。
 
 ![](assets/setup-steps-11.png)
 
@@ -152,13 +152,13 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 
 * **トラッキングリンクのブランディング**。Marketo からのメールに含めるリンクに、（Marketo ドメインではなく）独自のドメインを使用する CNAME を選択できます。これにより、ドメインのブランディングが強化され、受信者との信頼と配信品質が向上します。
 * **Marketo を自社のメール許可リストに追加します。**&#x200B;実際の人々にメールを送信する前に、テストアカウントにテストメールを送信するのが一般的なベストプラクティスです。Marketo を許可リストに加えることで、これらのテストメールがブロックされたりスパムとしてフラグ付けされたりするのを防ぐことができます。
-* **SPF と DKIM を設定します。**&#x200B;これらのテクノロジーは、Marketo のメールがスパムではないことを受信者に保証するものです。受信者のスパムフィルターによる Marketo メールの拒否を防ぐには、次の手順に従って[メールの配信品質に SPF と DKIM を設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)します。
+* **SPF と DKIM を設定します。**&#x200B;これらのテクノロジーは、Marketo のメールがスパムではないことを受信者に保証するものです。受信者のスパムフィルターによる Marketo メールの拒否を防ぐには、以下の手順に従って[メールの配信品質に SPF と DKIM を設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)します。
 * **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 * **送信元アドレスの推奨設定。**&#x200B;すべてのメールキャンペーンの送信元アドレスに、有効な既存メールドメインと動作中のメールドメインを使用する必要があります。会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、`something@nonexistentdomain.com` からメールを送信すると、メールがフィルターされたりブロックされたりします。送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
 
-Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、[こちら](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}を参照してください。
+Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザーは、そのアドレスに送信されたメールを受信します（例：postmaster@domain.com）。グループ作成の詳しい手順については、[こちら](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}を参照してください。
 
-メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。次に例を示します。
+メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。以下に例を示します。
 
 * go2.[CompanyDomain].com
 * em.[CompanyDomain].com
@@ -178,13 +178,13 @@ Marketo のトラッキングリンクを確認するには、「**[!UICONTROL �
 
 ![](assets/setup-steps-13.png)
 
-を [!UICONTROL トラッキングリンク] 電子メールの設定から。
+メール設定から[!UICONTROL トラッキングリンク]をコピーします。
 
-この [!UICONTROL トラッキングリンク] は次の形式で記述します。 `mkto-[a-z][4 digits].com`.
+[!UICONTROL トラッキングリンク]は、`mkto-[a-z][4 digits].com` の形式で入力します。
 
 ![](assets/setup-steps-14.png)
 
-これがご自身の `[MktoTrackingLink]` です。保存します。これは、手順 5 で IT チームに渡す必要があります。
+これがあなたの `[MktoTrackingLink]` です。保存します。これは、手順 5 で IT チームに渡す必要があります。
 
 「差出人」ドメインを収集します。Marketo からのメール送信に使用するすべての「差出人」ドメイン（`[Sender]@[FromDomain].com` のように）のリストを作成します。ほとんどの場合、1 つだけです。
 
@@ -212,7 +212,7 @@ Marketo のトラッキングリンクを確認するには、「**[!UICONTROL �
 
 IT 管理者様
 
-マーケティングチームは、コミュニケーションに Marketo プラットフォームを使用することになりました。優れたメール配信品質を確保するには、次の変更を行う必要があります。
+マーケティングチームは、コミュニケーションに Marketo プラットフォームを使用することになりました。優れたメール配信品質を確保するには、以下の変更を行う必要があります。
 
 `1)` ランディングページには、**[LandingPageCNAME]**.**[CompanyDomain]**.com の DNS エントリ（CNAME）を追加します（**[Munchkin ID]**.mktoweb.com を指しています）。
 
@@ -241,25 +241,25 @@ IT 管理者様
 >
 >ご使用の環境に合わせた IP の短縮リストを希望する場合は、Marketo サポートにお問い合わせください。
 
-    * スパム対策システムで送信元ドメインが使用されている場合は、次のドメインを追加してください。
+    * スパム対策システムで送信元ドメインが使用されている場合は、以下のドメインを追加してください。
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
 `4)` SPF と DKIM を設定し、Marketo が署名済みメールを会社に代わって送信する権限を付与する必要があります。
 
-`a.` SPF を設定するには、DNS エントリに次の行を追加してください。
+`a.` SPF を設定するには、DNS エントリに以下の行を追加してください。
 
 IN  TXT **[From Domain]**:  v=spf1 mx ip4:**[Corporate IP(s)]**
 <br/>include: mktomail.com ~all
 
-DNS エントリに既に SPF レコードが存在する場合は、次のコードを追加します。
+DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。
 
 include: mktomail.com
 
 `[`**From Domain** をメール送信元ドメイン（例：company.com）に、**CorpIP** を会社のメールサーバーの IP アドレス（例：255.255.255.255）に置き換えます。Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。`]`
 
-`b.`DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成してください。署名する各ドメインのホストレコードと TXT 値を次に示します。
+`b.`DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成してください。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
 **`[DKIMDomain1]`**：ホストレコードが **`[HostRecord1]`** で、TXT 値が **[TXTValue1]**.です。
 
@@ -283,35 +283,35 @@ IT チームにメールを送信します。IT チームがこれらのタス�
 
 ## IT チームの作業完了後に、Marketo の設定を完了する {#complete-your-marketo-setup-after-it-finishes}
 
-IT チームが作業を完了したら、次の手順に従ってランディングページとメールの CNAME を追加し、DKIM 署名を有効にします。
+IT チームが作業を完了したら、以下の手順に従ってランディングページとメールの CNAME を追加し、DKIM 署名を有効にします。
 
 「**[!UICONTROL 管理者]**」領域に移動してランディングページ CNAME を追加します。
 
 ![](assets/setup-steps-15.png)
 
-ランディングページを選択し、設定領域の「**[!UICONTROL 編集]**」をクリックします。
+ランディングページを選択し、「[!UICONTROL 設定]」領域の「**[!UICONTROL 編集]**」をクリックします。
 
 ![](assets/setup-steps-16.png)
 
-「 」フィールドに新しいドメイン名を入力します **[!UICONTROL ランディングページのドメイン名]**. これは次の形式で記述します。
+「**[!UICONTROL ランディングページのドメイン名]**」フィールドに新しいドメイン名を入力します。これは、以下の形式で記述します。
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-内 **[!UICONTROL フォールバック]** ページフィールドに、ランディングページが利用できない場合に訪問者に表示する URL を入力します。 フォールバックページがない場合は、会社のホームページを使用できます。内 **[!UICONTROL ホームページ]** 「 」フィールドに、会社の web サイトを入力します。
+「**[!UICONTROL フォールバック]**」ページフィールドに、ランディングページが利用できない場合に訪問者に表示する URL を入力します。フォールバックページがない場合は、会社のホームページを使用できます。「**[!UICONTROL ホームページ]**」フィールドに、会社の web サイトを入力します。
 
 ![](assets/setup-steps-18.png)
 
-内 [!UICONTROL 管理者] 領域、選択 **[!UICONTROL 電子メール]** :E メール CNAME を追加します。
+「[!UICONTROL 管理者]」領域で「**[!UICONTROL メール]**」を選択して、メール CNAME を追加します
 
 ![](assets/setup-steps-19.png)
 
-下にスクロールして [!UICONTROL ブランディングドメイン]. ドメインを選択し、「**[!UICONTROL 編集]**」をクリックします。
+「[!UICONTROL ブランディングドメイン]」までスクロールします。ドメインを選択し、「**[!UICONTROL 編集]**」をクリックします。
 
 ![](assets/setup-steps-20.png)
 
-「ドメイン」フィールドに、メールトラッキングドメインを入力します。これは次の形式で記述します。
+「ドメイン」フィールドに、メールトラッキングドメインを入力します。これは、以下の形式で記述します。
 
 `[EmailTrackingCNAME].[CompanyDomain].com`.「**[!UICONTROL 保存]**」をクリックします。
 
@@ -321,10 +321,10 @@ IT チームが作業を完了したら、次の手順に従ってランディ�
 
 これはおそらく、設定の最もエキサイティングな手順です。CRM に保存したすべてのリードと取引先責任者を Marketo に取り込みます。
 
-会社が使用している CRM に応じて、次の中から選択します。
+会社が使用している CRM に応じて、以下の中から選択します。
 
-    * [Marketoを [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketoを [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo と  [!DNL Salesforce.com] の統合](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo と  [!DNL Microsoft Dynamics] の統合](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -334,9 +334,9 @@ IT チームが作業を完了したら、次の手順に従ってランディ�
 
 >[!NOTE]
 >
->あなたは [!DNL Launch Pack] お客様？ この手順をスキップできます。担当のコンサルタントがお客様に [!DNL Munchkin] コードの説明は、IT セットアップ手順ドキュメントに記載されています。
+>[!DNL Launch Pack] をご利用の場合は、この手順をスキップできます。担当のコンサルタントが、IT セットアップ手順ドキュメントに [!DNL Munchkin] コード手順を提供します。
 
-Marketoには、JavaScript ( [!DNL Munchkin]) を使用して、任意の web ページ上のユーザーアクティビティを追跡できます。 [!DNL Munchkin]Web サイトを Marketo に統合するには、 が必要です。次の手順に従って、 [追加 [!DNL Munchkin] Web サイトへのトラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo には、任意の web ページ上のユーザーアクティビティのトラッキングに使用できるカスタムトラッキング JavaScript（[!DNL Munchkin] と呼ばれます）が用意されています。Web サイトを Marketo に統合するには、[!DNL Munchkin] が必要です。以下の手順に従って、[web サイトに  [!DNL Munchkin]  トラッキングコードを追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}します。
 
 >[!NOTE]
 >

@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. **学習**&#x200B;フォルダーを選択し、**[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 新規プログラム]**」を選択します。
+1. **学習**&#x200B;フォルダーを選択し、**[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規プログラム]**&#x200B;を選択します。
 
    ![](assets/drip-drip-nurture-2.png)
 
@@ -80,7 +80,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
    >
    >忘れずにメールを承認してください。承認しないと、後でアクティブ化できません。
 
-1. 次に、手順 2～7 の操作を繰り返して、別のメールを作成します。
+1. 次に、手順 2 ～ 7 の操作を繰り返して、別のメールを作成します。
 
    ![](assets/drip-drip-nurture-12.png)
 
@@ -146,7 +146,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
    >
    >テスト時にメールの受信を確認できるように、テスト担当者に有効なメールアドレスがあることを確認します。
 
-1. 担当者を右クリックし、「 **[!UICONTROL プログラム]** および **[!UICONTROL エンゲージメントプログラムに追加…]**.
+1. 人物を右クリックし、「**[!UICONTROL プログラム]**」、「**[!UICONTROL エンゲージメントプログラムに追加]**」の順にクリックします。
 
    ![](assets/drip-drip-nurture-21.png)
 
@@ -164,7 +164,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 5：人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 

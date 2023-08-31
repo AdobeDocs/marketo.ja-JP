@@ -1,27 +1,27 @@
 ---
-description: Sales Insight Actions ユーザオンボーディングガイド - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight Actions ユーザオンボーディングガイド
+description: Sales Insight Actions ユーザーオンボーディングガイド - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight Actions ユーザーオンボーディングガイド
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# Sales Insight Actions ユーザオンボーディングガイド {#sales-insight-actions-user-onboarding-guide}
+# Sales Insight Actions ユーザーオンボーディングガイド {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce ユーザーインターフェイスと統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 >[!PREREQUISITES]
 >
->* 管理者は、MSI アクションを使用し始めるようにユーザを招待する必要があります。
+>* 管理者は、MSI Actions を使用し始めるようにユーザーを招待する必要があります。
 >* Salesforce でアカウントをアクティベートするには、Salesforce プロファイル権限で「API 有効」にする必要があります。
 
-新規ユーザは、次の手順に従う必要があります。
+新規ユーザーは、以下の手順に従う必要があります。
 
 1. ようこそメールで、「**開始する**」をクリックします。
 
@@ -83,7 +83,7 @@ ht-degree: 90%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Marketo Sales のアクションの簡単な紹介を表示するオプションが表示されます。「**次へ**」をクリックして表示するか、後で確認する場合は、「**後で**」をクリックします。
+1. Marketo Sales Actions の簡単な紹介を表示するオプションが表示されます。「**次へ**」をクリックして表示するか、後で確認する場合は、「**後で**」をクリックします。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
@@ -91,6 +91,6 @@ ht-degree: 90%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. Salesforce（Classic または Lightning）内では、任意のリード、取引先責任者、アカウント、商談に移動できます。MSI パネルのドロップダウンからすべてのセールスアクションを使用できます。
+1. Salesforce（Classic または Lightning）内では、任意のリード、取引先責任者、アカウント、商談に移動できます。MSI パネルのドロップダウンからすべての Sales Actions を使用できます。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

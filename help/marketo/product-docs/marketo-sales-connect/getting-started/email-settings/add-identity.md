@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 49%
 
 >[!NOTE]
 >
->Gmail または Outlook/Exchange の配信チャネルでは、複数の ID の使用はサポートされていません。 Gmail と Outlook/Exchange は、ユーザーレベルで認証されるので、接続された電子メールアドレスからの電子メールのみが送信されます。 異なる E メールアドレスで複数の ID を使用するには、送信元の E メールドメインを登録できるサードパーティの SMTP プロバイダー（E メール配信チャネル）に接続する必要があります。 これにより、ユーザーは、登録済みドメインである限り、SMTP 配信チャネルに接続して、任意の E メールアドレスから送信できます。
+>複数の ID の使用は、Gmail または Outlook／Exchange 配信チャネルではサポートされていません。Gmail および Outlook／Exchange は、ユーザーレベルで認証するので、接続されたメールアドレスからのメールのみが送信されます。異なるメールアドレスで複数の ID を使用するには、送信元のメールドメインを登録できるサードパーティ SMTP プロバイダー（メール配信チャネル）に接続する必要があります。これにより、ユーザーは、SMTP 配信チャネルに接続して、登録されたドメインである限り、任意のメールアドレスから送信できます。
 
 1. 設定アイコンをクリックします。
 
@@ -27,7 +27,7 @@ ht-degree: 49%
 
 1. 情報を入力します（メールと名前は必須フィールドです）。入力が完了したら、「**作成**」をクリックします。
 
-1. 受信した検証用メールのリンクをクリックします。
+1. 受信した確認用メールのリンクをクリックします。
 
    Sales Connect でメールを送信する際に、ID を切り替えることができます。
 
@@ -37,4 +37,4 @@ ht-degree: 49%
 
 >[!MORELIKETHIS]
 >
->「[メール署名の追加](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)」を参照してください。
+>[メール署名の追加](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)を参照してください。

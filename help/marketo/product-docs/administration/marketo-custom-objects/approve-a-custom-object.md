@@ -7,7 +7,7 @@ feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 
 ## 新規カスタムオブジェクトの承認 {#approve-a-new-custom-object}
 
-新しいカスタムオブジェクトを作成したら、承認する手順は次のとおりです
+新しいカスタムオブジェクトを作成したら、承認する手順は以下のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -31,11 +31,11 @@ ht-degree: 92%
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. 「**[!UICONTROL カスタムオブジェクトのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL オブジェクトを承認]**」を選択します。
+1. **[!UICONTROL カスタムオブジェクトアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL オブジェクトを承認]**&#x200B;を選択します。
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 状態がに変わります。 [!UICONTROL 承認済み].
+1. ステートが「[!UICONTROL 承認済み]」に変わります。
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 92%
 
 承認済みのカスタムオブジェクトを編集した後、ドラフトを承認して、カスタムオブジェクトを承認済みのステートに戻す必要があります。
 
-1. 既に承認済みのカスタムオブジェクトを編集すると、そのオブジェクトは [!UICONTROL 承認待ち下書きあり] 状態。
+1. 既に承認済みのカスタムオブジェクトを編集すると、[!UICONTROL 承認待ち下書きあり]ステートが返されます。
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. ドラフトを承認する準備が整ったら、「**[!UICONTROL カスタムオブジェクトのアクション]**」ドロップダウンをクリックして、「**[!UICONTROL オブジェクトを承認]**」を選択します。
+1. ドラフトを承認する準備が整ったら、**[!UICONTROL カスタムオブジェクトアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL オブジェクトを承認]**&#x200B;を選択します。
 
    ![](assets/approve-a-custom-object-7.png)
 

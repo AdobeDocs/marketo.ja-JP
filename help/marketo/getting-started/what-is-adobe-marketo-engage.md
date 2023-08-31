@@ -7,7 +7,7 @@ feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 * お使いの CRM との同期（Salesforce または Dynamics）
 * Web サイト統合
 * ワークフローエンジン
-* ユーザスコア
+* ユーザースコア
 * セール担当者向け CRM 内ダッシュボード
 * プログラム分析
 * ターゲットアカウント管理
@@ -50,13 +50,13 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 いいえ。簡単なチュートリアルがたくさんあります。[こちらから開始できます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}。所要時間は 1 時間ほどです。いつでも開始できます。
 
-## 1 週間に送信できるメールの総数など、制限に関するリストはありますか。 {#list-of-limits}
+## 1 週間に送信できるメールの合計数など、制限をカバーするもののリストはありますか？ {#list-of-limits}
 
-ある。 静的制限（およびその他のパラメータ）の概要を説明します [この記事では、](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+あります。静的制限（およびその他のパラメーター）については、[この記事](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}を参照してください。
 
-## Marketoは、自分のデータをどのくらい保持しますか？ {#data-retention-policy}
+## Marketo は、どのくらいの期間データを保持しますか？ {#data-retention-policy}
 
-確認してください [この国の投稿](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} 」を参照してください。
+詳しくは、[この Nation 投稿](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"}を参照してください。
 
 <br>
 

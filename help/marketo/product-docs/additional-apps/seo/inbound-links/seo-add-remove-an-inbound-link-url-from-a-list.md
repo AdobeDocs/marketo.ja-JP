@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 >[!TIP]
 >
->また、キーワードを入れる新しいリストを作成することもできます。目的の名前をに入力します。 [!UICONTROL 新しいリストを作成].
+>また、キーワードを入れる新しいリストを作成することもできます。「[!UICONTROL 新しいリストを作成]」に名前を入力します。
 
 ## リストに対するインバウンドリンク URL を削除する {#remove-an-inbound-link-url-from-a-list}
 
@@ -41,7 +41,7 @@ ht-degree: 94%
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. 「**[!UICONTROL リストで絞り込む]**」ドロップダウンをクリックします。クリーンアップするリストをクリックします。
+1. **[!UICONTROL リストで絞り込む]**&#x200B;ドロップダウンをクリックします。クリーンアップするリストをクリックします。
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 

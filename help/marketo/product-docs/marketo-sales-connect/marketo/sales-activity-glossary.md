@@ -6,7 +6,7 @@ feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -207,7 +207,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>送信者</td>
  </tr>
  <tr>
-  <td>Marketo「セールス担当者」ID</td>
+  <td>Marketo セールス担当者 ID</td>
  </tr>
  <tr>
   <td>テンプレート ID</td>
@@ -264,7 +264,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr> 
    <td><strong>セールス電話の件名</strong></td> 
-   <td>ダイヤラー内でセールスユーザによって選択された電話の結果。</td> 
+   <td>ダイヤラー内でセールスユーザーによって選択された電話の結果。</td> 
   </tr>
   <tr> 
    <td><strong>セールスキャンペーン ID</strong></td> 

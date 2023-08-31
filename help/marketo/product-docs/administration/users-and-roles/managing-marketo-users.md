@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2359906
-description: Marketo ユーザの管理 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo ユーザの管理
+description: Marketo ユーザーの管理 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Marketo ユーザの管理 {#managing-marketo-users}
+# Marketo ユーザーの管理 {#managing-marketo-users}
 
-## ユーザを作成する {#create-users}
+## ユーザーを作成する {#create-users}
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/managing-marketo-users-1.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-marketo-users-2.png)
 
-1. 「**[!UICONTROL 新しいユーザを招待]**」をクリックします。
+1. 「**[!UICONTROL 新しいユーザーを招待]**」をクリックします。
 
    ![](assets/managing-marketo-users-3.png)
 
-1. 次を入力します。 **[!UICONTROL 電子メール]**, **[!UICONTROL 名]**、および **[!UICONTROL 姓]**.
+1. **[!UICONTROL メール]**、**[!UICONTROL 名]**、**[!UICONTROL 姓]**&#x200B;を入力します。
 
    ![](assets/managing-marketo-users-4.png)
 
@@ -45,13 +45,13 @@ ht-degree: 96%
 
    >[!NOTE]
    >
-   >有効期限が来ると、ユーザは有効期限通知を受け取り、アカウントがロックされます。
+   >有効期限が来ると、ユーザーは有効期限通知を受け取り、アカウントがロックされます。
 
 1. 任意の「**[!UICONTROL ロール]**」を選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/managing-marketo-users-7.png)
 
-1. 必要に応じて、招待メッセージを編集します。クリック **Send**.
+1. 必要に応じて、招待メッセージを編集します。「**送信**」をクリックします。
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -63,21 +63,21 @@ ht-degree: 96%
 
    >[!NOTE]
    >
-   >招待は、新しいユーザが追加されてから 3 日で期限切れになります。
+   >招待は、新しいユーザーが追加されてから 3 日で期限切れになります。
 
-アカウント有効化の手順を記したメールがユーザに送信されます。
+アカウント有効化の手順を記したメールがユーザーに送信されます。
 
-## ユーザを削除する {#delete-users}
+## ユーザーを削除する {#delete-users}
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/managing-marketo-users-10.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-marketo-users-11.png)
 
-1. 削除するユーザを選択し、「**[!UICONTROL ユーザの削除]**」をクリックします。
+1. 削除するユーザーを選択し、「**[!UICONTROL ユーザーの削除]**」をクリックします。
 
    ![](assets/managing-marketo-users-12.png)
 
@@ -85,17 +85,17 @@ ht-degree: 96%
 
    ![](assets/managing-marketo-users-13.png)
 
-## ユーザのパスワードをリセットする {#reset-user-passwords}
+## ユーザーのパスワードをリセットする {#reset-user-passwords}
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/managing-marketo-users-14.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-marketo-users-15.png)
 
-1. ユーザを選択して「**[!UICONTROL パスワードをリセット]**」をクリックします。
+1. ユーザーを選択して「**[!UICONTROL パスワードをリセット]**」をクリックします。
 
    ![](assets/managing-marketo-users-16.png)
 
@@ -103,27 +103,27 @@ ht-degree: 96%
 
    ![](assets/managing-marketo-users-17.png)
 
-パスワードのリセット手順を記したメールがユーザに送信されます。
+パスワードのリセット手順を記したメールがユーザーに送信されます。
 
 >[!TIP]
 >
->ユーザからメールが届かないと申告があった場合、迷惑メールフォルダーに振り分けられている可能性があるので、確認を促してください。
+>ユーザーからメールが届かないと申告があった場合、迷惑メールフォルダーに振り分けられている可能性があるので、確認を促してください。
 
-## 権限の変更とユーザ情報の編集 {#change-permissions-and-edit-user-information}
+## 権限の変更とユーザー情報の編集 {#change-permissions-and-edit-user-information}
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/managing-marketo-users-18.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-marketo-users-19.png)
 
-1. ユーザを選択して「**[!UICONTROL ユーザの編集]**」をクリックします。
+1. ユーザーを選択して「**[!UICONTROL ユーザーの編集]**」をクリックします。
 
    ![](assets/managing-marketo-users-20.png)
 
-1. ユーザの情報を編集して関連するロールを変更できます。「**[!UICONTROL 保存]**」をクリックします。
+1. ユーザーの情報を編集して関連するロールを変更できます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/managing-marketo-users-21.png)
 
@@ -133,6 +133,6 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->新しいユーザが管理者として招待された場合、または管理者が削除された場合、現在のすべての管理者にメール通知が送信されます。
+>新しいユーザーが管理者として招待された場合、または管理者が削除された場合、現在のすべての管理者にメール通知が送信されます。
 
-素晴らしいです。これでユーザの作成、削除、ユーザパスワードのリセット、ユーザの編集の方法をマスターできましたね。
+素晴らしいです。これでユーザーの作成、削除、ユーザーパスワードのリセット、ユーザーの編集の方法をマスターできましたね。

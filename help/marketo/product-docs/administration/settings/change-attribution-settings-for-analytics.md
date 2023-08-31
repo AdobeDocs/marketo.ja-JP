@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 69%
 
 ファーストタッチおよびマルチタッチのアトリビューションの商談、リードコンバージョン指標、マーケティングが影響を与えた商談フラグに、Marketo が連絡先を結び付ける方法を変更できます。
 
-これらの設定は、次に影響します： [!UICONTROL 収益エクスプローラ] レポート [プログラム商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)、およびリード分析領域 これは、 [!UICONTROL プログラムアナライザ] レポート。
+これらの設定は、[プログラム商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)、[商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)、リード分析の各領域にある[!UICONTROL 売上高エクスプローラー]レポートに影響を与えます。また、[!UICONTROL プログラムアナライザー]レポートにも影響を与えます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -49,4 +49,4 @@ ht-degree: 69%
 
 >[!CAUTION]
 >
->**[!UICONTROL 暗黙的]**&#x200B;を使用する場合、Marketo は常に、ロールに関係なく、アカウントに関連付けられたすべての連絡先を調べます。**Marketo [!UICONTROL 明示] mode**. 使用 [!UICONTROL 暗黙] は偽陽性を作り出す可能性がある。つまり、オポチュニティに実際の影響を与えていないにもかかわらず、オポチュニティに対するクレジットを持つ人。 用途 [!UICONTROL 暗黙] 注意して
+>**[!UICONTROL 暗黙的]**&#x200B;を使用する場合、Marketo は常に、ロールに関係なく、アカウントに関連付けられたすべての連絡先を調べます。**Marketo では、[!UICONTROL 明示的]モードの使用を強くお勧めします**。[!UICONTROL 暗黙的]モードを使用すると、商談に実際の影響を与えないにもかかわらず、商談に対してクレジットを持つ人物という偽陽性を生み出す可能性があります。[!UICONTROL 暗黙的]モードは慎重に使用してください。

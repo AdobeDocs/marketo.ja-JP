@@ -7,19 +7,19 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # SEO - キーワードの削除 {#seo-remove-a-keyword}
 
-最適化を続行しないキーワードがある場合は、次の方法でそのキーワードを削除します。
+最適化を続行しないキーワードがある場合は、以下の方法でそのキーワードを削除します。
 
 1. クリックして「**[!UICONTROL キーワード]**」セクションに移動します。
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
-1. 削除するキーワードの上にマウスポインターを置いて、「 **[!UICONTROL 削除]**.
+1. 削除するキーワードの上にマウスポインターを置いて、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 

@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 97%
 
    >[!CAUTION]
    >
-   >次の変数は重要です。削除しないでください。
+   >以下の変数は重要です。削除しないでください。
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
@@ -48,10 +48,10 @@ ht-degree: 97%
 
 ## デフォルトの登録解除テキスト {#default-unsubscribe-text}
 
-デフォルトのシステム登録解除に戻す必要がある場合は、次をコピー＆ペーストします。
+デフォルトのシステム登録解除に戻す必要がある場合は、以下をコピー＆ペーストします。
 
-[!UICONTROL 配信停止HTML]:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL 配信停止テキスト]:
+[!UICONTROL Unsubscribe HTML]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Unsubscribe Text]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]

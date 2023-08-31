@@ -7,17 +7,17 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# SEO — 理解 [!UICONTROL キーワード] {#seo-understanding-keywords}
+# SEO - [!UICONTROL キーワード]について {#seo-understanding-keywords}
 
-[!UICONTROL キーワードは SEO 戦略の中軸です。]目標は、ビジネスに関連するキーワードで、1 ページ目のできる限り 1 番に近い場所に表示されることです。
+[!UICONTROL キーワード]は、SEO 戦略の中軸です。目標は、ビジネスに関連するキーワードで、1 ページ目のできる限り 1 番に近い場所に表示されることです。
 
-この [!UICONTROL キーワード] セクションには、この目的の達成におけるサイトの成功度と、 [競争](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+「[!UICONTROL キーワード]」セクションは、サイトの成功度と、[競合他社](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)とどの程度の差があるのかを示します。
 
-## [!UICONTROL キーワード]  — 概要表示 {#keywords-summary-view}
+## [!UICONTROL キーワード] - 概要の表示 {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -52,13 +52,13 @@ ht-degree: 78%
  </tbody> 
 </table>
 
-## [!UICONTROL キーワード]  — 競合相手の表示 {#keywords-competitor-view}
+## [!UICONTROL キーワード] - 競合他社の表示 {#keywords-competitor-view}
 
-また、「表示」ドロップダウンをクリックして競合他社を選択すると、同じ指標を使用して競合相手のパフォーマンスを確認できます。
+また、表示ドロップダウンをクリックして競合他社を選択すると、同じ指標を使用して競合相手のパフォーマンスを確認できます。
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-これで完了です。これで、 [!UICONTROL キーワード] では、ページとインバウンドリンクについて説明します。
+これで完了です。「[!UICONTROL キーワード]」セクションを理解したので、ページとインバウンドリンクについて学びましょう。
 
 >[!MORELIKETHIS]
 >

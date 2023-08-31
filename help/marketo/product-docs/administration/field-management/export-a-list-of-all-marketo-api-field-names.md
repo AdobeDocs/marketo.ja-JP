@@ -7,13 +7,13 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # すべての Marketo API フィールド名のリストのエクスポート {#export-a-list-of-all-marketo-api-field-names}
 
-以下を使用する場合、 [!DNL SOAP API] または [!DNL Munchkin API] すべてのフィールドとその API 名のリストが必要です。 このリストの取得方法を次に示します。
+アドビの [!DNL SOAP API] や [!DNL Munchkin API] を使用している場合、すべてのフィールド名とその API 名のリストが必要になります。以下に、このリストの取得方法を示します。
 
 >[!NOTE]
 >

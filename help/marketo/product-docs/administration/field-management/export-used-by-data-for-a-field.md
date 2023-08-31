@@ -7,7 +7,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 96%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 「**[!UICONTROL フィールドアクション]**」ドロップダウンをクリックして、「**[!UICONTROL 使用先をエクスポート]**」を選択します。
+1. **[!UICONTROL フィールドアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 使用先をエクスポート]**&#x200B;を選択します。
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. An [!DNL Excel] ファイルをエクスポートします。 コンテンツを表示するには、ファイルを開きます。
+1. [!DNL Excel] ファイルがエクスボートされます。コンテンツを表示するには、ファイルを開きます。
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

@@ -1,46 +1,46 @@
 ---
-description: Salesforce との配信停止の同期 - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce との配信停止の同期
+description: Salesforce との登録解除の同期 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce との登録解除の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Salesforce との配信停止の同期 {#syncing-unsubscribes-with-salesforce}
+# Salesforce との登録解除の同期 {#syncing-unsubscribes-with-salesforce}
 
-配信停止を Salesforce のオプトアウトフィールドと同期する場合は、Salesforce 配信停止同期を使用できます。
+登録解除を Salesforce の「オプトアウト」フィールドと同期する場合、Salesforce 登録解除の同期を使用できます。
 
-## Salesforce と配信停止を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Salesforce と登録解除を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
-* 配信停止の同期を有効にする必要があります（夜間同期）
+* 登録解除の同期を有効にする必要があります（夜間同期）
 * Salesforce にオプトアウトフィールドをインストールする必要があります
 * Marketo Sales の人物レコードには Salesforce ID が必要です
 
-**配信停止のプッシュ**
+**登録解除のプッシュ**
 
-Marketo Sales で配信停止が収集された場合、それをリアルタイムで Salesforce にプッシュし、同期対象として選択したオプトアウトフィールドのいずれかを更新します。Salesforce 同期を無効にしても、配信停止はメールオプトアウトに引き続きプッシュされます。
+Marketo Sales で登録解除が収集された場合、それをリアルタイムで Salesforce にプッシュし、同期対象として選択したオプトアウトフィールドのいずれかを更新します。Salesforce 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
 
-**配信停止の同期**
+**登録解除の同期**
 
-配信停止同期を有効にすると（以下の手順 3）、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales のすべての配信停止が、Salesforce のオプトアウトフィールドと双方向に同期されます。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00（PST）頃に実行されます。Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
 >[!NOTE]
 >
->Salesforce との配信停止同期で配信停止が同期されますが、再配信停止は同期されません。 Marketo Sales および Salesforce から配信停止を削除する場合は、Salesforce で配信停止をオフにし、Marketo Sales で配信停止を削除します。
+>Salesforce との登録解除の同期は、登録解除を同期しますが、再登録は同期しません。Marketo Sales および Salesforce から登録解除を削除する場合、Salesforce で登録解除のチェックをオフにして、Marketo Sales で登録解除を削除します。
 
-## Salesforce に配信停止の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
+## Salesforce に登録解除の同期を設定 {#configure-unsubscribe-sync-to-salesforce}
 
-ユーザは、Marketo も同期できる標準のメールオプトアウトフィールドと配信停止を同期するか、Marketo Sales オプトアウトフィールドに同期して、セールスの配信停止とマーケティングの配信停止を区別できるように指定できます。
+ユーザーは、Marketo も同期できる標準のメールオプトアウトフィールドと登録解除を同期するか、Marketo Sales オプトアウトフィールドに同期して、セールスの登録解除とマーケティングの登録解除を区別できるように指定できます。
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. 「管理者設定」で「**配信停止**」を選択します。
+1. 「管理者設定」で「**登録解除**」を選択します。
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
@@ -55,7 +55,7 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
    | フィールド | 説明 |
    |---|---|
    | **Salesforce オプトアウトフィールドに同期** | デフォルトで選択され、Salesforce オプトアウトフィールドのみが更新されます。 |
-   | **Marketo Sales オプトアウトフィールドに同期** | セールスとマーケティングの配信停止を分ける場合は、このオプションを選択して、追加の [Marketo Sales オプトアウトフィールド](#msoo)を更新します。 |
+   | **Marketo Sales オプトアウトフィールドに同期** | セールスとマーケティングの登録解除を分ける場合は、このオプションを選択して、追加の [Marketo Sales オプトアウトフィールド](#msoo)を更新します。 |
 
 ## ページレイアウトの「オプトアウト」フィールドのインストール {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -67,7 +67,7 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. ユーザ名をクリックし、「**設定**」を選択します。
+1. ユーザー名をクリックし、「**設定**」を選択します。
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
@@ -97,6 +97,6 @@ Marketo Sales で配信停止が収集された場合、それをリアルタイ
 
 ## Marketo Sales オプトアウト {#marketo-sales-opt-out}
 
-Marketo Sales Opt Out フィールドは、Marketo Sales Insight パッケージをインストールしたユーザーが使用できるカスタムフィールドです [AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Marketo Sales オプトアウトフィールドは、[AppExchange から](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} Marketo Sales Insight パッケージをインストールしたユーザーが使用できるカスタムフィールドです。
 
-Marketo Sales Insight パッケージをAppExchangeから Salesforce に正常にインストールすると、「 Marketo Sales Opt Out 」フィールドが表示されます。
+Marketo Sales Insight パッケージを AppExchange から Salesforce に正常にインストールすると、「Marketo Sales オプトアウト」フィールドが表示されます。

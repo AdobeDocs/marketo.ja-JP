@@ -7,7 +7,7 @@ feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 93%
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. 「**[!UICONTROL カスタムアクティビティのアクション]**」をクリックし、「**[!UICONTROL アクティビティを編集]**」を選択します。
+1. 「**[!UICONTROL カスタムアクティビティアクション]**」をクリックし、「**[!UICONTROL アクティビティを編集]**」を選択します。
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   アクティビティタイプを編集が表示されます。この例では、タイポを修正しています。
+   アクティビティタイプを編集が表示されます。この例では、タイポを修正します。
 
    ![](assets/edit-a-custom-activity-5.png)
 

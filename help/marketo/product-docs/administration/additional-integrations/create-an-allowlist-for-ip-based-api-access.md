@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 76%
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. 内 **[!UICONTROL IP 制限]** 領域、クリック **[!UICONTROL 編集],** または、 **[!UICONTROL IP 制限の編集]** 左上に
+1. 「**[!UICONTROL IP 制限]**」領域で、「**[!UICONTROL 編集]**」をクリックするか、左上の「**[!UICONTROL IP 制限を編集]**」をクリックします。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. 次を確認します。 **[!UICONTROL IP 制限の有効化]** ボックスに、する IP アドレスを入力し許可リストます。
+1. 「**[!UICONTROL IP 制限を有効にする]**」ボックスを確認し、許可リストに追加する IP アドレスを入力します。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 

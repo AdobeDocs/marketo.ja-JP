@@ -7,13 +7,13 @@ feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # ワークスペースへの人物パーティションの割り当て {#assign-person-partitions-to-workspaces}
 
-人物パーティション／ワークスペースの割り当てを編集する方法は次のとおりです。
+人物パーティション／ワークスペースの割り当てを編集する方法は以下のとおりです。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >* 「[!UICONTROL すべての担当者パーティション]「 」チェックボックスは、このワークスペースがシステム内のすべてのユーザーパーティションにアクセスできることを示します。
+   >* 「[!UICONTROL すべての人物パーティション]」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
    >
    >* プライマリ人物パーティションは、すべての人がエントリされるデフォルトです。人物を移動するには、[フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用します。
 

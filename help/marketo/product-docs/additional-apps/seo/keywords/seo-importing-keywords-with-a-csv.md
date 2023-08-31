@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # SEO - CSV を使用したキーワードのインポート {#seo-importing-keywords-with-a-csv}
 
-1. 手動で[キーワードを追加](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)したり、[キーワードの候補を取得](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)したり、CSV ファイルからキーワードをインポートすることもできます。インポートの実行方法を次に示します。
+1. 手動で[キーワードを追加](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)したり、[キーワードの候補を取得](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)したり、CSV ファイルからキーワードをインポートすることもできます。インポートの実行方法を以下に示します。
 
 1. 「**[!UICONTROL キーワード]**」セクションに移動します。
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >各キーワードに関連付けられたデータをすべて読み込むには、数分かかる場合があります。
+   >各キーワードに関連付けられたすべてのデータを読み込むには、数分かかる場合があります。
 
    >[!MORELIKETHIS]
    >

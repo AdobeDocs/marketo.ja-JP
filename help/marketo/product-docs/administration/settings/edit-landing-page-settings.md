@@ -7,13 +7,13 @@ feature: Administration, Landing Pages
 source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # ランディングページ設定の編集 {#edit-landing-page-settings}
 
-ドメイン名とフォールバックページの編集、フォームの事前入力の有効化や無効化、ランディングページの誤用の防止などをおこなうことができます。手順は以下のとおりです。
+ドメイン名とフォールバックページの編集、フォームの事前入力の有効化や無効化、ランディングページの誤用の防止などを行うことができます。手順は以下のとおりです。
 
 >[!NOTE]
 >
@@ -37,8 +37,8 @@ ht-degree: 97%
 
    | 用語 | 定義 |
    |---|---|
-   | [!UICONTROL ランディングページのドメイン名] | これは CNAME です。CNAME は、ランディングページの訪問者に与える URL の最初の部分です。例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。複数を使用できますが、ほとんどのユーザは 1 つのみを使用します。 |
-   | [!UICONTROL フォールバックページ] | ランディングページが存在しないか停止している場合に表示するページです。詳細については、「[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)」を参照してください。 |
+   | [!UICONTROL ランディングページのドメイン名] | これは、あなたの CNAME です。CNAME は、ランディングページの訪問者に与える URL の最初の部分です。例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。複数を使用できますが、ほとんどのユーザーは 1 つのみを使用します。 |
+   | [!UICONTROL フォールバックページ] | ランディングページが存在しないか停止している場合に表示するページです。詳しくは、[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)を参照してください。 |
    | [!UICONTROL ホームページ] | 企業サイトの URL を入力します。 |
 
 1. 「**[!UICONTROL フォームの事前入力]**」チェックボックスをオンにすると、既知の（Cookie が保存されている）リードに関する情報をフォームに事前入力できます。ブロックする場合はオフにします。
@@ -51,7 +51,7 @@ ht-degree: 97%
    >
    >「**[!UICONTROL デフォルトの Favicon リンクを削除]**」をオンにして、Marketo が Favicon リンクをコードに挿入しないようにします。
 
-1. 選択した後、 **[!UICONTROL 保存]**.
+1. 選択したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-landing-page-settings-6.png)
 

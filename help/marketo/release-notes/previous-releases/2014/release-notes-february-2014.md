@@ -7,13 +7,13 @@ feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2014年2月 {#release-notes-february}
 
-2014年2月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
+2014年2月リリースには、以下の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳しくは、担当の営業にお問い合わせください。リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
 
 ## 勝者条件のエンゲージメントスコア {#engagement-score-as-winning-criteria}
 
@@ -29,7 +29,7 @@ ht-degree: 85%
 
 ## メーリングからブロックされたリード {#people-leads-blocked-from-mailing}
 
-[メーリング番号からブロックされたリードをクリックして](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)、購読解除、ブロックリストへの登録、無効な電子メールアドレスや空白の電子メールアドレス、またはマーケティングの中断が原因でメールを受信しないユーザーを確認します。
+[メーリング番号からブロックされたリードをクリックして](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)、登録解除、ブロックリストへの登録、無効なメールアドレスや空白のメールアドレス、またはマーケティングの中断が原因でメールを受信しないユーザーを確認します。
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
@@ -37,9 +37,9 @@ ht-degree: 85%
 
 AB テストバリアントデータを含む[メール指標を Excel にエクスポートします](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)。
 
-## [!UICONTROL エンゲージメントストリーム効果レポートのエンゲージメントスコア] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL エンゲージメントストリームの効果]レポートの[!UICONTROL エンゲージメントスコア] {#engagement-score-in-engagement-stream-performance-report}
 
-エンゲージメントプログラム内のコンテンツの効果を確認できるように、エンゲージメントスコアを[エンゲージメントストリーム効果レポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)に追加しました。
+エンゲージメントプログラム内のコンテンツの効果を確認できるように、エンゲージメントスコアを[[!UICONTROL エンゲージメントストリームの効果]レポート](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)に追加しました。
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -51,7 +51,7 @@ AB テストバリアントデータを含む[メール指標を Excel にエク
 
 ## 「リンクをクリック」フィルターとトリガーのアップデート {#update-to-clicks-link-filters-and-trigger}
 
-次のフィルター名とトリガー名がアップデートされました。
+以下のフィルター名とトリガー名がアップデートされました。
 
 * 「リンクをクリック」から「Web ページのリンクをクリック」に更新
 * 「クリック済みリンク」から「Web ページのクリック済みリンク」に更新
@@ -61,6 +61,6 @@ AB テストバリアントデータを含む[メール指標を Excel にエク
 
 ## Forms 2.0 の強化 {#forms-enhancements}
 
-このリリースでは、Forms 2.0 に対して、いくつかの「Quality of Life」更新をおこないました。 埋め込みフォームでプログレッシブプロファイリングを有効にするほか、ワークフローと UX の変更を加え、エディターでより高度な機能を使いやすくしました。 [表示ルールを含める](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、「ありがとうございます」ページ、非表示フィールドの説明を追加します。
+このリリースでは、Forms 2.0 の品質まわりのアップデートをいくつか行いました。埋め込みフォームでプログレッシブプロファイリングを有効にするほか、[表示ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)、高度な「ありがとうございます」ページ、非表示フィールドなど、エディターの高度な機能を使いやすくするワークフローと UX の変更を加えました。
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

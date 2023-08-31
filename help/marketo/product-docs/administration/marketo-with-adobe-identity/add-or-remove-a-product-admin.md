@@ -6,7 +6,7 @@ feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 >
 >Marketo Engage にアクセスするためには、管理者を製品プロファイルに追加する必要があります。
 
-1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 95%
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 追加する管理者のメールアドレスまたはユーザ名を入力します。姓と名はオプションです。「**[!UICONTROL 保存]**」をクリックします。
+1. 追加する管理者のメールアドレスまたはユーザー名を入力します。姓と名はオプションです。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -62,15 +62,15 @@ ht-degree: 95%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-その後、ユーザはメールを 2 通受信します。最初のメールは、Marketo Engage に製品管理者権限が付与されたことを通知するものです。2 通目のメールは、Marketo Engage にログインするように促すものです。
+その後、ユーザーはメールを 2 通受信します。最初のメールは、Marketo Engage に製品管理者権限が付与されたことを通知するものです。2 通目のメールは、Marketo Engage にログインするように促すものです。
 
 >[!NOTE]
 >
->Adobe Admin Console を使用して製品管理者ユーザを Marketo Engage に追加した場合、そのユーザには、サブスクリプション内でアドビの製品管理者のロールが付与されます。
+>Adobe Admin Console を使用して製品管理者ユーザーを Marketo Engage に追加した場合、そのユーザーには、サブスクリプション内でアドビの製品管理者のロールが付与されます。
 
 ## 管理者の削除 {#remove-a-user}
 
-1. にログインします。 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -94,4 +94,4 @@ ht-degree: 95%
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-そのユーザに、Marketo Engage に製品管理者として製品にアクセスできなくなったことを知らせるメールが送信されます。
+そのユーザーに、Marketo Engage に製品管理者として製品にアクセスできなくなったことを知らせるメールが送信されます。

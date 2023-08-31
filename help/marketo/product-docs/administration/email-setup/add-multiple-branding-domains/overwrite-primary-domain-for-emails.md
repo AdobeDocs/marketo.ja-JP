@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >すべてのユーザーに、メールごとにブランドドメインを設定する権限があるわけではありません。が [!UICONTROL ブランディングドメイン] 」ドロップダウンリストから選択できます。
+   >すべてのユーザーに、メールごとにブランドドメインを設定する権限があるわけではありません。[!UICONTROL ブランドドメイン]ドロップダウンが表示されない場合は、管理者にお問い合わせください。

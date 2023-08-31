@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 72%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. 内 [!UICONTROL ブランディングドメイン] の表で、汎用ドメインを選択し、「編集」をクリックして、会社のブランディングドメインに変更します。
+1. [!UICONTROL ブランディングドメイン]テーブルで、汎用ドメインを選択し、「編集」をクリックして、自社のブランディングドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 72%
    >
    >最初に汎用ドメインを編集するまで、ドメインは追加できません。
 
-1. デフォルトのドメイン名を入力し、 **[!UICONTROL 保存]**.
+1. デフォルトのドメイン名を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
