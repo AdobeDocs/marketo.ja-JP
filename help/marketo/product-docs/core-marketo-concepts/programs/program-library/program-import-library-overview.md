@@ -5,51 +5,55 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 790c5b6fdba2c63d262099a996449a190c8a9be3
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 97%
+source-wordcount: '128'
+ht-degree: 30%
 
 ---
 
 # プログラムインポートライブラリの概要 {#program-import-library-overview}
 
-概要テキスト。
+Marketo Engageリファレンスライブラリには、Marketoインスタンスに直接読み込んで、チームをサポートするプログラムの構築を開始できるスタータープログラムが含まれています。
 
---Marketo Engage プログラムインポートライブラリ情報はこちら--
+ライブラリには、E メール、エンゲージメント、イベント、スコアリング、配信品質、運用可能なプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、品質と効果を最大限に高めるために、グローバルなプロフェッショナルサービスチームが検証しました。
 
-* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md){target="_blank"}
+## 利用可能なプログラムの例 {#available-program-examples}
 
-* OP-配信品質管理
+* [CT-YYYY-MM-Marketo ランディングページ以外のコンテンツ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
-* OP-データ管理
+* [CT-YYYY-MM-Marketo ランディングページのコンテンツ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
 
-* OP-取得 API
+* [EM-YYYY-MM-DD-Single E メール送信](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* OP-スコアリング-デモグラフィック
+* [EV-YYYY-MM-DD-Event プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
-* OP-スコアリング-行動
+* [NL-YYYY-MM-ニュースレター](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* OP-リード管理
+* [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
 
-* WR-YYYY-MM-プログレッシブプロファイリングを使用したデモリクエスト
+* [NUR-YYYY-MM-シンプルな育成](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
-* EM-YYYY-MM-DD-メール送信
+* [OA-YYYY-MM-Online Advertising Marketoランディングページ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
-* NL-YYYY-MM-ニュースレター
+* [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* EV-YYYY-MM-DD-イベント
+* [OP-データ管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
-* TS-YYYY-MM-DD-展示会
+* [OP-配信品質管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
-* WBN-YYYY-MM-DD-ウェビナー
+* [OP-リード管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
-* OA-YYYY-MM-Marketo ランディングページを使用したオンライン広告
+* [OP-スコアリング-行動](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
-* NUR-YYYY-MM-シンプルな育成
+* [OP-スコアリング-デモグラフィック](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
-* NUR-YYYY-MM-高度なドリップ育成
+* [TS-YYYY-MM-DD-Tradeshow プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
-* CT-YYYY-MM-Marketo ランディングページのコンテンツ
+* [WBN-YYYY-MM-DD-Webinar プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
-* CT-YYYY-MM-Marketo ランディングページ以外のコンテンツ
+* [WR-YYYY-MM-Web リクエストプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[プログラムのインポート](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
