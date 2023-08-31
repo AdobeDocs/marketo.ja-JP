@@ -1,17 +1,17 @@
 ---
-description: セールス活動を Salesforce に同期 — Marketoドキュメント — 製品ドキュメント
-title: セールス活動を Salesforce に同期
+description: セールスアクティビティの Salesforce への同期 - Marketo ドキュメント - 製品ドキュメント
+title: セールスアクティビティの Salesforce への同期
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '759'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# セールス活動を Salesforce に同期 {#sync-sales-activities-to-salesforce}
+# セールスアクティビティの Salesforce への同期 {#sync-sales-activities-to-salesforce}
 
-Salesforce に電子メールと呼び出しアクティビティを記録するよう、アクション Salesforce 同期設定を構成できます。 これにより、CRM 外で作業するチームの可視性が向上し、管理者は、これらのアクティビティを使用してカスタム Salesforce レポートを作成し、チームのパフォーマンスを追跡できます。
+メールおよび電話アクティビティを Salesforce に記録するための Actions Salesforce 同期設定を設定できます。これにより、チームは、CRM での作業を視認しやすくなり、マネージャーは、これらのアクティビティを使用してチームのパフォーマンスをトラッキングするためのカスタム Salesforce レポートを作成できます。
 
 ## メールアクティビティのログを API 経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-api}
 
@@ -43,7 +43,7 @@ Salesforce に電子メールと呼び出しアクティビティを記録する
 
 ## メールアクティビティのログを Salesforce にメール送信（BCC）して Salesforce に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-「Salesforce へのメール (BCC)」を有効化すると、セールスメールの BCC が送信され、メールは商談、リード、連絡先に対するアクティビティとして記録されます。
+「Salesforce にメールを送信（BCC）」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、連絡先に関するアクティビティとして記録されます。
 
 >[!PREREQUISITES]
 >
@@ -67,10 +67,10 @@ Salesforce に電子メールと呼び出しアクティビティを記録する
 
    ![](assets/sync-sales-activities-to-salesforce-9.png)
 
-何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、次の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
+何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、以下の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
 
 1. Salesforce インスタンスにログインします。
-1. 右上隅にあるユーザ名を探し、ドロップダウンバーを選択します。
+1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
 1. 「**マイ設定**」を選択します。
 1. 「**メール**」を選択します。
 1. 「**メールを Salesforce に送信**」を選択します。
@@ -119,7 +119,7 @@ Salesforce に電子メールと呼び出しアクティビティを記録する
 
 Sales Insight Actions と Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。Sales Insight Actions の現在のタスクは Salesforce にプッシュされません。Sales Insight Actions から Salesforce に同期されるタスクは、Sales Insight Actions を SFDC と同期した後に作成されるタスクのみです。
 
-Sales Insight Actions と SFDC のタスクを同期すると、次の処理が行われます。
+Sales Insight Actions と SFDC のタスクを同期すると、以下の処理が行われます。
 
 * タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
 
