@@ -1,10 +1,10 @@
 ---
-description: リリースノート - 2023 年 5 月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2023 年 5 月
+description: リリースノート - 2023年5月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2023年5月
 source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 80%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -24,7 +24,7 @@ ht-degree: 80%
 
 </br>
 
-* **Adobe Experience Cloud Interface**:Marketo EngageをExperience Cloudに合わせて、単一のユーザーセッションで複数のExperience Cloudソリューションで一貫したナビゲーションエクスペリエンスを作成します。
+* **Adobe Experience Cloud インターフェイス**：Marketo Engage を Experience Cloud と連携させて、単一のユーザーセッションで複数の Experience Cloud ソリューションにわたる一貫したナビゲーションエクスペリエンスを作成します。
 
 <table> 
   <tr> 
@@ -33,7 +33,7 @@ ht-degree: 80%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloudインターフェイスの概要</a></td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud インターフェイスの概要</a></td>
   </tr>
   </tbody>
 </table>
@@ -64,7 +64,7 @@ ht-degree: 80%
 
 インタラクティブウェビナーは、マーケターが Marketo Engage 内でイベントを作成、管理および配信できるネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを強化します。イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。ライブ投票、チャット、Q＆A セッション、web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connect の機能を通じて豊富なエンゲージメントインサイトを取得できます。豊富なダッシュボード指標を使用して、Marketo Engage で直接ウェビナー録画を取得し、パフォーマンスを評価できます。
 
-インタラクティブな Web セミナーは、徐々に展開されます。 以前のアクセス権をリクエストするには、以下に記入してください。 [このフォーム](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+インタラクティブウェビナーは、徐々にロールアウトされます。以前のアクセスをリクエストするには、[このフォーム](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}に入力してください。
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ ht-degree: 80%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr> 
-   <td>ロールアウトが開始しました</td>
+   <td>開始されたロールアウト</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
   </tr>
   </tbody>
