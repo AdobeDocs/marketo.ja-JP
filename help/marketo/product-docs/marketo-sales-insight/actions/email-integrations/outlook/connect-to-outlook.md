@@ -1,16 +1,17 @@
 ---
-description: Outlook に接続 — Marketoドキュメント — 製品ドキュメント
-title: Outlook に連携
-source-git-commit: 2538bd5973eb3372352c3ddbada6521911f9fc33
-workflow-type: tm+mt
+description: Outlook への接続 - Marketo ドキュメント - 製品ドキュメント
+title: Outlook への接続
+exl-id: 023bc5ab-6193-4abe-a536-347b4765b51e
+source-git-commit: 2f9dbc0f336971be87d50baab27b8fd0221af1be
+workflow-type: ht
 source-wordcount: '521'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
-# Outlook に連携 {#connect-to-outlook}
+# Outlook への接続 {#connect-to-outlook}
 
-Sales Insight Actions アカウントを Outlook と連携する方法を説明します。
+Sales Insight Actions アカウントを Outlook に接続する方法を説明します。
 
 >[!NOTE]
 >
@@ -65,7 +66,7 @@ Outlook に接続すると、返信トラッキング、Outlook 配信チャネ�
 
    ![](assets/connect-to-outlook-7.png)
 
-1. Outlook にログインしていない場合は、ログイン情報を入力し、「**次へ**」をクリックします。接続したいアカウントを選択し、 **次へ**. この例では、既にログインしています。
+1. Outlook にログインしていない場合は、ログイン情報を入力し、「**次へ**」をクリックします。接続したいアカウントを選択し、「**次へ**」をクリックします。この例では、既にログインしています。
 
    ![](assets/connect-to-outlook-8.png)
 
@@ -77,7 +78,7 @@ Outlook に接続すると、返信トラッキング、Outlook 配信チャネ�
 
    >[!NOTE]
    >
-   >Outlook オンライン（Office365）では、独自の送信制限が適用されます。[詳細はこちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)を参照してください。
+   >Outlook オンライン（Office365）では、独自の送信制限が適用されます。詳しくは、[こちらを参照](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)してください。
 
 ## Exchange オンプレミスへの接続 {#connecting-to-exchange-on-premise}
 
@@ -126,7 +127,7 @@ Exchange オンプレミスに接続すると、返信トラッキング、Outlo
 
    >[!NOTE]
    >
-   >「Exchange のバージョン」ドロップダウンで「自動検出」をオフにした場合は、Exchange の URL を IT 部門に問い合わせる必要があります。
+   >Exchange バージョンドロップダウンで自動検出をオフにした場合は、Exchange の URL を IT 部門に問い合わせる必要があります。
 
    この接続を使用してメールをトラッキングし、配信チャネルとしてもトラッキングできます。
 
@@ -134,18 +135,18 @@ Exchange オンプレミスに接続すると、返信トラッキング、Outlo
    >
    >Exchange オンプレミスを使用する場合、IT チームがメール送信制限を設定します。
 
-## Outlook Online に接続するためのアクセス許可を取得しています {#getting-permission-to-connect-to-outlook-online}
+## Outlook オンラインに接続するための権限の取得 {#getting-permission-to-connect-to-outlook-online}
 
-Marketo Sales が Outlook Online アカウント (Microsoft 365) に接続できるよう、IT チームと協力する必要が生じる場合があります。
+IT チームと連携して、Marketo Sales に Outlook オンラインアカウント（Microsoft 365）への接続を許可する権限を取得する必要がある可能性があります。
 
 >[!NOTE]
 >
 >Microsoft 365 アカウントを管理する IT チームに、アクセスが必要なアプリケーションが「Marketo Sales Connect」であることを伝えます。
 
-IT チームの環境設定と現在の設定に応じて、アクセス権の付与方法について相談することをお勧めします。 会話のガイドに役立つ記事を以下に示します。
+IT チームの環境設定および現在の設定に応じて、アクセスの付与方法について問い合わせるのが最善です。以下に、話し合いのガイドとして役立つ記事の一部を示します。
 
-* グローバル同意： [Microsoft 365 管理者向けの統合アプリと Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* ユーザーの同意： [アプリケーションに対するユーザーの同意方法の設定](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* 管理者の同意： [管理者同意ワークフローの設定](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* ユーザーの同意をオンまたはオフにする： [Microsoft 365 でのアプリに対するユーザーの同意の管理](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Microsoft Defender を使用した管理： [OAuth アプリを管理](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* グローバルな同意：[Microsoft 365 管理者のための統合アプリおよび Azure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* ユーザーの同意：[アプリケーションに対するユーザーの同意の設定](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
+* 管理者の同意：[管理者の同意ワークフローの設定](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* ユーザーの同意をオンまたはオフにする：[Microsoft 365 のアプリに対するユーザーの同意の管理](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Microsoft Defender による管理：[OAuth アプリの管理](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}
