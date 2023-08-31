@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event プログラム — Marketoドキュメント — 製品ドキュメント
-title: EV-YYYY-MM-DD-Event プログラム
+description: TS-YYYY-MM-DD-Tradeshow プログラム — Marketoドキュメント — 製品ドキュメント
+title: TS-YYYY-MM-DD-Tradeshow プログラム
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 18%
+source-wordcount: '428'
+ht-degree: 17%
 
 ---
 
-# EV-YYYY-MM-DD-Event プログラム {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD-Tradeshow プログラム {#ts-yyyy-mm-dd-tradeshow-program}
 
-これは、登録ページ、3 通の招待メール、イベントイベントプログラムを使用したフォローアップメールを含むMarketo Engageプログラムの例です。 会場でのロードショー、ランチ、ディナー、プレゼンテーションなど、登録が必要なすべてのイベントに適しています。
+これは、イベントイベントプログラムを利用した招待メールやフォローアップメールを含むトレードショープログラムのMarketo Engage例です。
 
 戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
 
@@ -30,10 +30,11 @@ ht-degree: 18%
   <tr> 
    <td>イベント</td> 
    <td>01 — 招待済み 
-<br/>02 — 待ちリスト
-<br/>03 — 登録済み
-<br/>04 — 番組なし
-<br/>05-Attended-Success</td>
+   <br/>02 — 待ちリスト
+   <br/>03 — 登録済み
+   <br/>04-Visited Booth
+   <br/>番組に関与 — 成功
+   <br/>06 — エンゲージ後のショーで — 成功</td>
    <td>包含</td>
    <td>イベント</td>
   </tr>
@@ -59,46 +60,7 @@ ht-degree: 18%
    <td>クイックスタートメールテンプレート</td>
    <td>02a — 電子メール — 招待状</td>
   </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>02b — 電子メール — 招待状のリマインダー</td>
-  </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>02c — メール — 招待状のリマインダーのラストチャンス</td>
-  </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>03 — 電子メール — 出席のリマインダー</td>
-  </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>04a — 電子メール — フォローアップ — 出席</td>
-  </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>04b — メール — フォローアップ — NoShow</td>
-  </tr>
-  <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>01a - LP — 登録</td>
-  </tr>
-  <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>01b - LP — ありがとうございます</td>
-  </tr>
-  <tr> 
-   <td>フォーム</td> 
-   <td> </td>
-   <td>FM-Event 登録</td>
-  </tr>
+  <tr>
   <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
@@ -107,7 +69,7 @@ ht-degree: 18%
   <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
-   <td>ランディングページの効果</td>
+   <td>プログラム効果</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -117,37 +79,22 @@ ht-degree: 18%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — プロセスの登録</td>
+   <td>01 — 招待状の送信</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02a — 招待状の送信</td>
+   <td>02 — 番組に参加（成功）</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02b — 招待状のリマインダーを送信</td>
+   <td>03 — フォローアップメールの送信</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02c — 招待状のラストチャンスを送信</td>
-  </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>03 — リマインダーを出席に送信</td>
-  </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>04 — 出席済み（プログラム成功）</td>
-  </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>05 — フォローアップメールの送信</td>
+   <td>04 — フォローアップメールでエンゲージ済み（成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -203,35 +150,19 @@ ht-degree: 18%
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr> 
-   <td>リッチ テキスト</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>ダブルクリックして詳細を表示  
-<br/><code><--My Content Description Here--></code> 
-<br/>このコンテンツの説明は、プログラムレベルの「マイトークン」タブで編集します。 
-<br/>学習内容： 
-<li>箇条書き 1</li>
-<li>箇条書き 2</li>
-<li>箇条書き 3</li></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td>リッチテキスト</td> 
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>テキスト</td> 
@@ -246,52 +177,7 @@ ht-degree: 18%
   <tr> 
    <td>テキスト</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>ライブイベント</td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>展示会</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ ht-degree: 18%
 
 >[!TIP]
 >
->成功を追跡するための「06-Attended (Program Success)」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
+>成功を追跡するための「02-Engaged at Show (Program Success)」および「04-Engaged by Follow-up Email (Program Success)」キャンペーンを必ず有効化してください。 これを実行 _前_ メールが送信されます。
 
 >[!IMPORTANT]
 >

@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD — 単一メール送信 — Marketoドキュメント — 製品ドキュメント
-title: EM-YYYY-MM-DD-Single E メール送信
+description: NL-YYYY-MM-Newsletter - Marketoドキュメント — 製品ドキュメント
+title: NL-YYYY-MM-ニュースレター
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 19%
+source-wordcount: '282'
+ht-degree: 21%
 
 ---
 
-# EM-YYYY-MM-DD-Single E メール送信 {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-ニュースレター {#nl-yyyy-mm-newsletter}
 
-次の使用例は、電子メールプログラムを使用して 1 件のMarketo Engageを送信します。 A/B テストを含めるかどうかは電子メールに記載されます。
+次の使用例は、ニュースレターの電子メールプログラムを使用してMarketo Engageを 1 通送信します。 A/B テストを含めるかどうかは電子メールに記載されます。
 
 戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
 
@@ -28,7 +28,7 @@ ht-degree: 19%
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
-   <td>メール</td> 
+   <td>ニュースレター</td> 
    <td>01 — メンバー 
 <br/>02-Engaged-Success</td>
    <td>包含</td>
@@ -49,7 +49,7 @@ ht-degree: 19%
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>01-Email-Thank You</td>
+   <td>01 — 電子メール</td>
   </tr>
   <tr> 
    <td>ローカルレポート</td> 
@@ -71,7 +71,7 @@ ht-degree: 19%
    <td>フォルダー</td> 
    <td> </td>
    <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（メールとランディングページ用のサブフォルダー）  </td>
+<br/>（E メール用のサブフォルダー）  </td>
   </tr>
   <tr> 
    <td>フォルダー</td> 

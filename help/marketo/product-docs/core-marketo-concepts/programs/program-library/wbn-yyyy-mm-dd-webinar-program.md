@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event プログラム — Marketoドキュメント — 製品ドキュメント
-title: EV-YYYY-MM-DD-Event プログラム
+description: WBN-YYYY-MM-DD-Webinar プログラム — Marketoドキュメント — 製品ドキュメント
+title: WBN-YYYY-MM-DD-Webinar プログラム
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 18%
+source-wordcount: '591'
+ht-degree: 17%
 
 ---
 
-# EV-YYYY-MM-DD-Event プログラム {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD-Webinar プログラム {#wbn-yyyy-mm-dd-webinar-program}
 
-これは、登録ページ、3 通の招待メール、イベントイベントプログラムを使用したフォローアップメールを含むMarketo Engageプログラムの例です。 会場でのロードショー、ランチ、ディナー、プレゼンテーションなど、登録が必要なすべてのイベントに適しています。
+これは、登録管理、3 通の招待メール、リマインダーの出席を促すメール、Marketo Engageイベントプログラムを使用したフォローアップメールを含むウェビナープログラムの例です。
 
 戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
 
@@ -30,12 +30,14 @@ ht-degree: 18%
   <tr> 
    <td>イベント</td> 
    <td>01 — 招待済み 
-<br/>02 — 待ちリスト
-<br/>03 — 登録済み
-<br/>04 — 番組なし
-<br/>05-Attended-Success</td>
+   <br/>02 — 待ちリスト
+   <br/>03 — 登録済み
+   <br/>04 — 番組なし
+   <br/>05 — 出席 — 成功
+   <br/>06 — オンデマンドで出席 — 成功</td>
    <td>包含</td>
-   <td>イベント</td>
+   <td>イベント
+   <p>（統合：オンラインセミナでのイベント）</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ ht-degree: 18%
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>01-Email-Thank You</td>
+   <td>01 — 電子メール — 招待状</td>
   </tr>
    <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>02a — 電子メール — 招待状</td>
+   <td>02 — 電子メール — 招待状のリマインダー</td>
+  </tr>
+   <tr> 
+   <td>メール</td> 
+   <td>クイックスタートメールテンプレート</td>
+   <td>03 — 電子メール — 招待状のリマインダー — 最後のチャンス</td>
   </tr>
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>02b — 電子メール — 招待状のリマインダー</td>
+   <td>04 — 電子メール — 登録確認</td>
   </tr>
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>02c — メール — 招待状のリマインダーのラストチャンス</td>
+   <td>05 — 電子メール — 出席のリマインダー</td>
   </tr>
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>03 — 電子メール — 出席のリマインダー</td>
+   <td>06 — 電子メール — フォローアップ — 出席</td>
   </tr>
   <tr> 
    <td>メール</td> 
    <td>クイックスタートメールテンプレート</td>
-   <td>04a — 電子メール — フォローアップ — 出席</td>
+   <td>07 — メール — フォローアップ — 番組なし </td>
   </tr>
-  <tr> 
-   <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
-   <td>04b — メール — フォローアップ — NoShow</td>
-  </tr>
-  <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>01a - LP — 登録</td>
-  </tr>
-  <tr> 
-   <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
-   <td>01b - LP — ありがとうございます</td>
-  </tr>
+  <tr>
   <tr> 
    <td>フォーム</td> 
    <td> </td>
    <td>FM-Event 登録</td>
   </tr>
   <tr> 
+   <td>ランディングページ</td> 
+   <td>クイックスタート LP テンプレート</td>
+   <td>01 - LP — 登録</td>
+  </tr>
+  <tr> 
+   <td>ランディングページ</td> 
+   <td>クイックスタート LP テンプレート</td>
+   <td>02 - LP — ありがとうございます</td>
+  </tr>
+  <tr> 
+   <td>ランディングページ</td> 
+   <td>クイックスタート LP テンプレート</td>
+   <td>03 - LP — オンデマンド</td>
+  </tr>
+  <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
    <td>メールの効果</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>ローカルレポート</td> 
    <td> </td>
    <td>ランディングページの効果</td>
@@ -117,7 +125,7 @@ ht-degree: 18%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — プロセスの登録</td>
+   <td>01 — プロセス登録</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
@@ -132,28 +140,33 @@ ht-degree: 18%
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02c — 招待状のラストチャンスを送信</td>
+   <td>02c — 招待状のリマインダーのラストチャンスの送信</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
    <td>03 — リマインダーを出席に送信</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
    <td>04 — 出席済み（プログラム成功）</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
    <td>05 — フォローアップメールの送信</td>
   </tr>
   <tr> 
+   <td>スマートキャンペーン</td> 
+   <td> </td>
+   <td>06 — オンデマンドで出席（プログラム成功）</td>
+  </tr>
+  <tr> 
    <td>フォルダー</td> 
    <td> </td>
    <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（メールとランディングページ用のサブフォルダー）</td>
+<br/>( 電子メール、ランディングページ、Formsのサブフォルダー )</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -184,6 +197,11 @@ ht-degree: 18%
   </tr>
   <tr> 
    <td>テキスト</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>テキスト</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ ht-degree: 18%
   </tr>
    <tr> 
    <td>リッチ テキスト</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>ダブルクリックして詳細を表示  
-<br/><code><--My Content Description Here--></code> 
-<br/>このコンテンツの説明は、プログラムレベルの「マイトークン」タブで編集します。 
+<br/><code><--My Event Description Here--></code> 
+<br/>このイベントの説明は、プログラムレベルの「マイトークン」タブで編集します。 
 <br/>学習内容： 
 <li>箇条書き 1</li>
 <li>箇条書き 2</li>
 <li>箇条書き 3</li></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>テキスト</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>テキスト</td> 
@@ -246,7 +244,7 @@ ht-degree: 18%
   <tr> 
    <td>テキスト</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>ライブイベント</td>
+   <td>ウェビナー</td>
   </tr>
   <tr> 
    <td>テキスト</td> 
@@ -258,7 +256,7 @@ ht-degree: 18%
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>テキスト</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ ht-degree: 18%
 
 ## ベストプラクティス {#best-practices}
 
+* 統合ウェビナープロバイダーを使用している場合は、Marketo Engageプログラムをホスティングシステムのウェビナーに接続することを忘れないでください。
+
 * ウェビナープログラムを読み込んだ後、フォームをローカルアセットから Design Studio 内のグローバルアセットに移動します。
    * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムのデザインと管理ガバナンスにおけるスケーラビリティを高めることができます。 また、フィールド、オプトイン言語などに対する定期的なコンプライアンス更新を柔軟におこなうこともできます。
 
@@ -333,7 +333,7 @@ ht-degree: 18%
 
 >[!TIP]
 >
->成功を追跡するための「06-Attended (Program Success)」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
+>成功を追跡するために、必ず「04-Attended (Program Success)」キャンペーンと「06-Attended On-Demand (Program Success)」キャンペーンを有効化してください。 これを実行 _前_ メールが送信されます。
 
 >[!IMPORTANT]
 >
