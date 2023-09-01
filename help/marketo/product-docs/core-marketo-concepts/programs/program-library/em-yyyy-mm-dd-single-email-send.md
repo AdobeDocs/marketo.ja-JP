@@ -4,7 +4,7 @@ title: EM-YYYY-MM-DD-Single E メール送信
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 19%
@@ -86,8 +86,6 @@ ht-degree: 19%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -114,6 +112,8 @@ ht-degree: 19%
   </tr>
  </tbody> 
 </table>
+
+プログラムのスクリーンショット
 
 ## 競合ルール {#conflict-rules}
 

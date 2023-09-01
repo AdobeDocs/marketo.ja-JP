@@ -4,7 +4,7 @@ title: CT-YYYY-MM-Marketo ランディングページのコンテンツ
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 17%
@@ -105,8 +105,6 @@ ht-degree: 17%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -164,6 +162,8 @@ ht-degree: 17%
   </tr>
  </tbody> 
 </table>
+
+プログラムのスクリーンショット
 
 ## 競合ルール {#conflict-rules}
 
