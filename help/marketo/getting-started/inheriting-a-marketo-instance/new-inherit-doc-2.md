@@ -3,10 +3,10 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 9%
+source-wordcount: '365'
+ht-degree: 8%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>バウンスメールアドレス</td> 
-   <td><li>テキスト</li></td>
+   <td><li>KG — 配信品質の待機中</li></td>
   </tr>
   <tr> 
    <td>重複の可能性</td> 

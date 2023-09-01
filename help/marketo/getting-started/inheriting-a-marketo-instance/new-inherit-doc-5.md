@@ -3,9 +3,9 @@ description: ドキュメントを継承 5 - Marketoドキュメント — 製�
 title: ドキュメント 5 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
   <tr> 
    <td>データ辞書</td> 
    <td><li>使用可能なフィールドを説明する別のデータ辞書はありますか？
-   <br/>     そうでない場合は、作成することを検討してください。</li></td>
+   <br/>     そうでない場合は、マーケティングオペレーションチームがアクセスできるフォルダーに作成することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>組織</td> 
