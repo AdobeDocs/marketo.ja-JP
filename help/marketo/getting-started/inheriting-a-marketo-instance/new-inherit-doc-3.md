@@ -3,23 +3,23 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 3%
 
 ---
 
 # ドキュメント 3 を継承 {#inherit-doc-3}
 
-マーケティングアクティビティは、マーケティングチームがスマートキャンペーンを作成し、クリエイティブアセット（電子メールやランディングページなど）を構築し、アセットのパフォーマンスを表示できる場所です。
+Marketo Engageインスタンス内の様々なプログラムを他の人が見つけて管理し、マーケティングからセールスに渡すようにユーザーが処理されるように、マーケティング活動セクションを適切に整理します。
 
 ## 組織 {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ ht-degree: 3%
   <tr> 
    <td>プログラム</td> 
    <td><li>KG — これはまだ関連性があるので、 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越性の中心</a> プログラムテンプレートを使用する場合 
-   <br/>その場合、チームの使用例に対してプログラムテンプレートが意味を持つか。</li>
+   <br/>     その場合、チームの使用例に対してプログラムテンプレートが意味を持つか。</li>
 <li>類似のプログラムタイプです <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一貫した構造を持つ</a>?</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間原価</a> 配置する？</li>
 <li>すべてのプログラム <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">SFDC キャンペーンに同期済み</a> （該当する場合）?</li>
@@ -64,22 +64,22 @@ ht-degree: 3%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>トークン</td> 
-   <td><li>トークンは、最も一般的に使用されるプログラムの種類で使用されていますか？ 
-   <br/>そうでない場合は、効率を高めるためにこれらを使用することを検討する必要があります。</li>
+   <td><li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">トークン</a> 最も一般的に使用されるプログラムの種類に使用されている場合は、 
+   <br/>     そうでない場合は、効率を高めるためにこれらを使用することを検討する必要があります。</li>
 <li>トークンが実装されている場合、グローバルフォルダートークンはありますか。 どのように使用されていますか？</li></td>
   </tr>
   <tr> 
    <td>エンゲージメントプログラム</td> 
    <td><li>生きているか <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">エンゲージメントプログラム</a> 実行中？</li>
 <li>数 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">の担当者が消費済みです</a>? 
-<br/>消費済みの担当者が多い場合は、コンテンツの追加を検討します。</li>
-<li>顧客がコンテンツに関心を持っているか。 
-<br/>そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li></td>
+<br/>     消費済みの担当者が多い場合は、 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">コンテンツの追加</a>.</li>
+<li>担当者 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">コンテンツに対する関与</a>? 
+<br/>     そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li></td>
   </tr>
   <tr> 
    <td>バッチキャンペーン</td> 
@@ -116,11 +116,11 @@ ht-degree: 3%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>ユーザスコア</td> 
+   <td>ユーザースコア</td> 
    <td><li>集中管理型 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">人物評価</a> プログラムの実施？</li>
 <li>スコアリングを行うユーザーは、スコアリングを増減しますか？</li></td>
   </tr>
@@ -140,7 +140,7 @@ ht-degree: 3%
   <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>データのプライバシーとスパムに関する法律に準拠するためのプログラムはありますか？ 
-   <br/>検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA など</li>
+   <br/>     検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA など</li>
 <p>ヒント：これらの問題については、常に法務チームにお問い合わせください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
   <tr> 

@@ -3,9 +3,9 @@ description: ドキュメントを継承 4 - Marketoドキュメント — 製�
 title: ドキュメント 4 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ ht-degree: 5%
   <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>フォーム戦略は、企業データのプライバシーやオプトインの要件に合っていますか？ 
-   <br/>検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般データ保護規則 (GDPR)</a>, CASL（カナダのスパム対策法），規制コンプライアンスのための 2003 年の非迷惑ポルノグラフィおよびマーケティング法 (CAN-SPAM) の暴行の制御，カリフォルニア州消費者プライバシー法 (CCPA) など。</li>
+   <br/>     検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般データ保護規則 (GDPR)</a>，カナダのスパム対策法 (CASL)，規制コンプライアンスのための 2003 年の非迷惑ポルノおよびマーケティング法 (CAN-SPAM) の暴行の制御，カリフォルニア州消費者プライバシー法 (CCPA) など。</li>
 <p>ヒント：これらの問題については、常に法務チームにお問い合わせください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>スニペット</td> 
    <td><li>数 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">スニペット</a> いるの？ 使用されていますか？ 
-   <br/>そうでない場合は、 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子メール</a> および <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">ランディングページ</a> フッターコンテンツ、ロゴなど。</li></td>
+   <br/>     そうでない場合は、 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">電子メール</a> および <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">ランディングページ</a> フッターコンテンツ、ロゴなど。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ ht-degree: 5%
   <tr> 
    <td>画像およびファイル</td> 
    <td><li>任意の画像またはファイルの実行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">web ページで参照されています</a> 更新が必要ですか？ 
-   <p>例：ハードコードされた URL 構造の更新が必要になる場合があります。例： <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>例：ハードコードされた URL 構造 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">の更新が必要な場合があります</a>、例： <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Web 開発者と協力して、更新が必要になる場所を決定してください。</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ ht-degree: 5%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>アセットステータス</td> 
    <td><li>にあるアセットの数 <i>ドラフト</i> および <i>承認待ち下書きあり</i> ステータス？
-   <br/>多数の場合は、削除または承認することを検討してください。</li></td>
+   <br/>     多数の場合は、削除または承認することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>アセットの共有</td> 

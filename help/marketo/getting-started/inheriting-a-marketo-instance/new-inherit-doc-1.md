@@ -3,7 +3,7 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '1428'
 ht-degree: 6%
@@ -18,19 +18,18 @@ ht-degree: 6%
 >
 >新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo用語集](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Adobe Admin Console {#adobe-admin-console}
+## Adobe Identity Management {#adobe-identity-management}
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>サブスクリプション</td> 
    <td><li>Marketo Engageの配信登録： <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">AdobeIdentity Management System</a> (Adobe IMS) まだ？ 
-<br/>
-その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。<br/>そうでない場合は、 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">従来のユーザーの役割と権限のエクスペリエンス</a> Marketo Engage/管理者/ユーザーとロールで、購読が更新されるまで。</li></td>
+<br/>     その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。<br/>     そうでない場合は、 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">従来のユーザーの役割と権限のエクスペリエンス</a> Marketo Engage/管理者/ユーザーとロールで、購読が更新されるまで。</li></td>
   </tr>
   <tr> 
    <td>製品プロファイル</td> 
@@ -38,13 +37,13 @@ ht-degree: 6%
 <p>
 <li>Marketo Engage/管理者/ユーザーとロールで「Marketo Engage製品管理者」の役割が付与されていますか？</li> 
 <li>Adobe Admin Console内のすべての適切なMarketo Engageの製品プロファイルに製品を割り当てているか。
-<br/>そうでない場合は、Marketo Engage/管理者/ユーザーとロールでロールを割り当てる前に、Marketo EngageをAdobe IMS製品プロファイルに割り当ててください。</li>
+<br/>     そうでない場合は、Marketo Engage/管理者/ユーザーとロールでロールを割り当てる前に、Marketo EngageをAdobe IMS製品プロファイルに割り当ててください。</li>
 <p>注意：サブスクリプションに 75 人を超えるAdobe IMSが含まれ、単にAdobeに移行された場合、バッチで移行するユーザーを選択し、グループまたは一度に一度に移行を管理するオプションがあります。 今後に関する詳細を表示 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移行日</a>.</td>
   </tr>
   <tr> 
    <td>ユーザー管理 API</td> 
    <td><li>サブスクリプションでMarketo User Management API を使用しているか。
-<br/>その場合は、 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMSAPI</a> をクリックして、今後のユーザーの招待、更新、削除を行います。</li></td>
+<br/>     その場合は、 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMSAPI</a> をクリックして、今後のユーザーの招待、更新、削除を行います。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -54,7 +53,7 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -64,7 +63,7 @@ ht-degree: 6%
 <li>ユーザーの削除に関するポリシーが会社にあるか。</li> 
 <li>ユーザーの数 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理者権限</a>?</li>
 <li>これらのユーザーのいずれかが <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">他の役割？</a></li> 
-<li>このインスタンスの API ユーザーは誰ですか？</li></td>
+<li>誰が <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API ユーザー</a> このインスタンスで</li></td>
   </tr>
   <tr> 
    <td>ロール</td> 
@@ -87,7 +86,7 @@ ht-degree: 6%
   <tr> 
    <td>サンドボックス（該当する場合）</td> 
    <td><li>次をお持ちですか： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックスインスタンス</a>?
-   <br/>  その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
+   <br/>     その場合は、お使いのサンドボックスで上記のカテゴリを確認してください。</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">プログラムの読み込み</a> サンドボックスにリンクされているか</li></td>
   </tr>
  </tbody> 
@@ -98,7 +97,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -113,7 +112,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -137,13 +136,13 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>スマートキャンペーン設定</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ 
-   <br/>そうでない場合は、追加することを検討します。 ワークフローでの過剰通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。</li></td>
+   <br/>     そうでない場合は、追加することを検討します。 ワークフローでの過剰通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。</li></td>
   </tr>
  </tbody> 
 </table>
@@ -153,7 +152,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -169,12 +168,12 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>タグ</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">タグの数</a> いるの？ 使用中のタグの数 追加が必要な場合は、</li>
+   <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" target="_blank">タグの数</a> いるの？ 使用中のタグの数 追加が必要な場合は、</li>
 <li>プログラム内にタグは必要ですか？</li></td>
   </tr>
   <tr> 
@@ -198,28 +197,28 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>フィールド管理</td> 
    <td><li>フィールドの数は？ 
-   <br/>クリック <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">フィールド名をエクスポート</a> をクリックして、フィールド、カスタムフィールドおよび API 名のリストを確認します。</li>
+   <br/>     クリック <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">フィールド名をエクスポート</a> をクリックして、フィールド、カスタムフィールドおよび API 名のリストを確認します。</li>
 <li>数 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> いるの？</li>
 <li>使用されているフィールドの数 
-<br/>選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
+<br/>     選択 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">エクスポート使用者</a> フィールドアクションドロップダウンで、フィールドの関連アセットを確認します。</li>
 <li>Marketo Engageと CRM の間で同期されるフィールドの数</li>
 <li>CRM フィールドは適切なオブジェクトに同期されていますか？</li>
 <li>次の項目がありますか？ <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">カスタムビューセット</a> 担当者の詳細について あるべきか？</li>
 <li>ソースに基づいてフィールドの命名規則を設定しているか。 
-<br/>そうでない場合は、この実装を検討してください。</li>
+<br/>     そうでない場合は、この実装を検討してください。</li>
 <li>フィールドがありますか？ <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">ブロック</a>? 
-<br/>その場合は、その理由を必ず理解してください。</li></td>
+<br/>     その場合は、その理由を必ず理解してください。</li></td>
   </tr>
   <tr> 
    <td>カスタムアクティビティ</td> 
    <td><li>何かあるか <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">カスタムアクティビティ</a>?
-<br/>その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</li></td>
+<br/>     その場合は、クリックスルーして、Marketoのフォーム、E メール、ランディングページに関連しないアクティビティを理解します。</li></td>
   </tr>
   <tr> 
    <td>カスタムオブジェクト</td> 
@@ -234,7 +233,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -254,7 +253,7 @@ ht-degree: 6%
 <li>次のようにルールが設定されているか <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">リダイレクト</a>?</li>
 <li>ドメインエイリアスが存在するか。 ドメインエイリアスの利用方法を追跡していますか？</li>
 <li>次に該当 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">ランディングページのセキュリティ保護されたドメイン</a> 有効？ 
-<br/>ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
+<br/>     ランディングページアセットに「http」URL が含まれているかどうかを確認します。</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
@@ -268,13 +267,13 @@ ht-degree: 6%
    <td><li>次に該当 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 制限</a> 有効？ そうなるべきか？</li>
 <li>インスタンスで API 呼び出しをおこなっているのは、どのユーザー/アプリですか？</li>
 <li>API 制限に達したか、それとも近いか。 
-<br/>その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
+<br/>     その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight（該当する場合）</td> 
    <td><li>次の条件を満たす <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージがインストールされました</a>?</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
-<li>Sales Insight の構成は完了していますか？ <br/>Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
+<li>Sales Insight の構成は完了していますか？ <br/>     Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザーに対するアクセス権を付与</a> 購入したシート数に基づいて</li>
 <li>次に該当 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">星と炎</a> カスタマイズ済み？</li></td>
   </tr>
@@ -302,7 +301,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -323,7 +322,7 @@ ht-degree: 6%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">エリア</th>
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 

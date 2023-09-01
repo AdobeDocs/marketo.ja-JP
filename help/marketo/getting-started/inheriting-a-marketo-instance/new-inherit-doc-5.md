@@ -3,7 +3,7 @@ description: ドキュメントを継承 5 - Marketoドキュメント — 製�
 title: ドキュメント 5 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>エリア</th> 
+   <th style="width:20%">エリア</th> 
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>データ辞書</td> 
    <td><li>使用可能なフィールドを説明する別のデータ辞書はありますか？
-   <br/>そうでない場合は、作成することを検討してください。</li></td>
+   <br/>     そうでない場合は、作成することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>組織</td> 
@@ -60,7 +60,7 @@ ht-degree: 2%
   <tr> 
    <td>Playbooks</td> 
     <td><li>組織にユーザーまたは管理者プレイブックがあるか。 
-    <br/>その場合は、それらを適宜更新します。</li></td>
+    <br/>     その場合は、それらを適宜更新します。</li></td>
   </tr>
   <tr> 
    <td>内部の関係者との対話</td> 
