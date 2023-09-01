@@ -3,14 +3,14 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 8%
 
 ---
 
-# ドキュメント 2 を継承 {#inherit-doc-2}
+# 監査データベースチェックリスト {#inherit-doc-2}
 
 サブスクリプションでの人数、マーケティング可能な人数、トップの人物獲得ソースの合計数を把握します。
 
