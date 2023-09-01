@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
 workflow-type: tm+mt
-source-wordcount: '9066'
+source-wordcount: '9064'
 ht-degree: 98%
 
 ---
@@ -408,24 +408,23 @@ ht-degree: 98%
             + [プログラムでの期間原価の使用](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + プログラムライブラリ {#program-library}
             + [プログラムインポートライブラリの概要](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [CT-YYYY-MM-Marketo ランディングページ以外のコンテンツ](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
-            + [CT-YYYY-MM-Marketo ランディングページのコンテンツ](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
-            + [EM-YYYY-MM-DD-Single E メール送信](product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
-            + [EV-YYYY-MM-DD-Event プログラム](product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
-            + [NL-YYYY-MM-ニュースレター](product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
-            + [NUR-YYYY-MM-Advanced Nurture](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
-            + [NUR-YYYY-MM-シンプルな育成](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
-            + [OA-YYYY-MM-Online Advertising Marketoランディングページ](product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
-            + [OP-Acquisition-API](product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
-            + [OP-データ管理](product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
-            + [OP-配信品質管理](product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
-            + [OP-リード管理](product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
-            + [OP-Preference Management](product-docs/core-marketo-concepts/programs/program-library/op-preference-management.md)
-            + [OP-スコアリング-行動](product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
-            + [OP-スコアリング-デモグラフィック](product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
-            + [TS-YYYY-MM-DD-Tradeshow プログラム](product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
-            + [WBN-YYYY-MM-DD-Webinar プログラム](product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
-            + [WR-YYYY-MM-Web リクエストプログラム](product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [EM-YYYY-MM-DD-Single E メール送信](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [NL-YYYY-MM-ニュースレター](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
+            + [WBN-YYYY-MM-DD-Webinar プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
+            + [EV-YYYY-MM-DD-Event プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
+            + [TS-YYYY-MM-DD-Tradeshow プログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
+            + [NUR-YYYY-MM-シンプルな育成](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
+            + [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
+            + [CT-YYYY-MM-Marketo ランディングページのコンテンツ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
+            + [CT-YYYY-MM-Marketo ランディングページ以外のコンテンツ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
+            + [WR-YYYY-MM-Web リクエストプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
+            + [OA-YYYY-MM-Online Advertising Marketoランディングページ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [OP-データ管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
+            + [OP-リード管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
+            + [OP-スコアリング-行動](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
+            + [OP-スコアリング-デモグラフィック](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
+            + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
+            + [OP-配信品質管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
          + プログラム効果レポート {#program-performance-report}
             + [プログラム効果レポートの作成](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [プログラムレポートへのプログラムステータス列の追加](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
