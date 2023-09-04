@@ -5,7 +5,7 @@ title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >API 名は、承認されるまで編集できません。
+   >API 名は、一度承認されると編集できません。
 
 1. 次に、リストから適切な[!UICONTROL データタイプ]を選択します。
 
