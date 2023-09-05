@@ -4,7 +4,7 @@ title: NL-YYYY-MM-ニュースレター
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 21%
@@ -48,7 +48,7 @@ ht-degree: 21%
   </tr> 
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01 — 電子メール</td>
   </tr>
   <tr> 

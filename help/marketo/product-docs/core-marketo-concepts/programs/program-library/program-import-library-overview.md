@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 30%
+source-wordcount: '133'
+ht-degree: 29%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 30%
 
 Marketo Engageリファレンスライブラリには、Marketoインスタンスに直接読み込んで、チームをサポートするプログラムの構築を開始できるスタータープログラムが含まれています。
 
-ライブラリには、E メール、エンゲージメント、イベント、スコアリング、配信品質、運用可能なプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、品質と効果を最大限に高めるために、グローバルなプロフェッショナルサービスチームが検証しました。
+ライブラリには、E メール、エンゲージメント、イベント、スコアリング、配信品質、運用可能なプログラムが含まれます。 すべてのプログラムはAdobe製品チームが開発し、アドビが検証済みです [グローバルプロフェッショナルサービス](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 品質と効果を最大限に高めるためのチーム。
 
 ## 利用可能なプログラムの例 {#available-program-examples}
 

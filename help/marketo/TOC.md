@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
 workflow-type: tm+mt
-source-wordcount: '9064'
+source-wordcount: '9073'
 ht-degree: 98%
 
 ---
@@ -425,6 +425,8 @@ ht-degree: 98%
             + [OP-スコアリング-デモグラフィック](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
             + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
             + [OP-配信品質管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
+            + [クイックスタートメールテンプレート](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
+            + [クイックスタートランディングページテンプレート](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
          + プログラム効果レポート {#program-performance-report}
             + [プログラム効果レポートの作成](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [プログラムレポートへのプログラムステータス列の追加](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)

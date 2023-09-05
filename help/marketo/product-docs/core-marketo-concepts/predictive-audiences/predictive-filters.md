@@ -3,10 +3,10 @@ description: 予測フィルター - Marketo ドキュメント - 製品ドキ�
 title: 予測フィルター
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 75%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -18,7 +18,7 @@ Marketo は、予測オーディエンスの一部として、スマートキャ
 
 >[!NOTE]
 >
->「出席の可能性が高い」および「登録の可能性が高い」フィルターは、イベントまたはメールプログラムでのみ使用できます。「登録解除の可能性」、「プログラムメンバーの類似」、「スマートリストメンバーの類似」は、すべてのプログラムタイプで使用できます。
+>「出席の可能性が高い」フィルターと「登録の可能性が高い」フィルターは、イベントプログラムでのみ使用できます。 「登録解除の可能性」、「プログラムメンバーの類似」、「スマートリストメンバーの類似」は、すべてのプログラムタイプで使用できます。
 
 ## 出席の可能性が高い {#likelihood-to-attend}
 
