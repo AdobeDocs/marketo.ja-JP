@@ -4,9 +4,9 @@ title: CT-YYYY-MM-Marketo ランディングページのコンテンツ
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 17%
 
 ---
@@ -48,23 +48,23 @@ ht-degree: 17%
   </tr> 
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>01 - LP — 登録</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>02 - LP — ありがとうございます</td>
   </tr>
   <tr> 
    <td>フォーム</td> 
    <td> </td>
-   <td>コンテンツ登録フォーム</td>
+   <td>FM — コンテンツ登録フォーム</td>
   </tr>
   <tr> 
    <td>ローカルレポート</td> 
@@ -76,10 +76,15 @@ ht-degree: 17%
    <td> </td>
    <td>ランディングページの効果</td>
   </tr>
+   <tr> 
+   <td>スマートキャンペーン</td> 
+   <td> </td>
+   <td>00 — 取得プログラムの取得</td>
+  </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 入力済みフォーム</td>
+   <td>01 — 入力済みフォーム</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -90,7 +95,7 @@ ht-degree: 17%
    <td>フォルダー</td> 
    <td> </td>
    <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（メールとランディングページ用のサブフォルダー）  </td>
+<br/>( メール、ランディングページ、Formsのサブフォルダー )  </td>
   </tr>
   <tr> 
    <td>フォルダー</td> 

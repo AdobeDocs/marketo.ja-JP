@@ -4,9 +4,9 @@ title: OA-YYYY-MM-Online Advertising Marketoランディングページ
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 15%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 15%
   <tr> 
    <td>オンライン広告</td> 
    <td>01 — メンバー 
-<br/>02-Engaged-Success</td>
+<br/>02 — 関与 — 成功</td>
    <td>包含</td>
    <td>デフォルト</td>
   </tr>
@@ -53,17 +53,17 @@ ht-degree: 15%
   </tr>
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>01 - LP — 登録</td>
   </tr>
    <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>02 - LP — ありがとうございます</td>
   </tr>
    <tr> 
@@ -79,12 +79,12 @@ ht-degree: 15%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>00-Capture Acquisition Program</td>
+   <td>00 — 取得プログラムの取得</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 入力済みフォーム</td>
+   <td>01 — 入力済みフォーム</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -207,7 +207,7 @@ ht-degree: 15%
 
 >[!TIP]
 >
->成功を追跡するための「02-Engaged」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
+>成功を追跡するための「02 — エンゲージ済み（プログラム成功）」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
 
 >[!IMPORTANT]
 >
