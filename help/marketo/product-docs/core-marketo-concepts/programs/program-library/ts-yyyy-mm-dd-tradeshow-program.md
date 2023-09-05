@@ -4,10 +4,10 @@ title: TS-YYYY-MM-DD-Tradeshow プログラム
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 17%
+source-wordcount: '416'
+ht-degree: 18%
 
 ---
 
@@ -52,12 +52,12 @@ ht-degree: 17%
   </tr> 
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01-Email-Thank You</td>
   </tr>
    <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>02a — 電子メール — 招待状</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ ht-degree: 17%
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02 — 番組に参加（成功）</td>
+   <td>02 — フォローアップメールの送信</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>03 — フォローアップメールの送信</td>
-  </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>04 — フォローアップメールでエンゲージ済み（成功）</td>
+   <td>03 — フォローアップメールでエンゲージ済み（成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -219,7 +214,7 @@ ht-degree: 17%
 
 >[!TIP]
 >
->成功を追跡するための「02-Engaged at Show (Program Success)」および「04-Engaged by Follow-up Email (Program Success)」キャンペーンを必ず有効化してください。 これを実行 _前_ メールが送信されます。
+>成功を追跡するための「03 — フォローアップメールによるエンゲージ（プログラム成功）」キャンペーンを必ず有効化してください。 これを実行 _前_ メールが送信されます。
 
 >[!IMPORTANT]
 >

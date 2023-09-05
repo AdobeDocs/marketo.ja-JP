@@ -4,9 +4,9 @@ title: WBN-YYYY-MM-DD-Webinar プログラム
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 17%
 
 ---
@@ -53,37 +53,37 @@ ht-degree: 17%
   </tr> 
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01 — 電子メール — 招待状</td>
   </tr>
    <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>02 — 電子メール — 招待状のリマインダー</td>
   </tr>
    <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>03 — 電子メール — 招待状のリマインダー — 最後のチャンス</td>
   </tr>
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>04 — 電子メール — 登録確認</td>
   </tr>
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>05 — 電子メール — 出席のリマインダー</td>
   </tr>
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>06 — 電子メール — フォローアップ — 出席</td>
   </tr>
   <tr> 
    <td>メール</td> 
-   <td>クイックスタートメールテンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>07 — メール — フォローアップ — 番組なし </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ ht-degree: 17%
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>01 - LP — 登録</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>02 - LP — ありがとうございます</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
-   <td>クイックスタート LP テンプレート</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>03 - LP — オンデマンド</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ ht-degree: 17%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>04 — 出席済み（プログラム成功）</td>
+   <td>04 — フォローアップメールの送信</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>05 — フォローアップメールの送信</td>
-  </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
-   <td> </td>
-   <td>06 — オンデマンドで出席（プログラム成功）</td>
+   <td>05 — オンデマンドで出席（プログラム成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -333,7 +328,7 @@ ht-degree: 17%
 
 >[!TIP]
 >
->成功を追跡するために、必ず「04-Attended (Program Success)」キャンペーンと「06-Attended On-Demand (Program Success)」キャンペーンを有効化してください。 これを実行 _前_ メールが送信されます。
+>成功を追跡するための「05 — 出席（プログラム成功）」キャンペーンを忘れずに有効化してください。 これを実行 _前_ メールが送信されます。
 
 >[!IMPORTANT]
 >
