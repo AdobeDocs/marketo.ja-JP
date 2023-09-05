@@ -3,7 +3,7 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 3%
@@ -57,7 +57,7 @@ Marketo製品管理者がおこなう操作：
 
 >[!NOTE]
 >
->移行が複雑なので、日付の変更はスケジュールされた日付から 30 日以内に制限されます。 後日が必要な場合は、marketocares@adobe.comに電子メールを送信してください。
+>移行が複雑なので、日付の変更はスケジュールされた日付から 30 日以内に制限されます。 後日が必要な場合は、marketocares@marketo.comに電子メールを送信してください。
 
 * My Marketoのバナーに、「User Migration Start Date」へのカウントダウンが表示されます。
 
@@ -97,4 +97,4 @@ Adobeは、すべての管理者とユーザーが移行されると、電子メ
 
 ## サポートを受ける {#get-support}
 
-サブスクリプションまたはユーザー移行に関する追加サポートについては、marketocares@adobe.comまで電子メールでお問い合わせください。
+サブスクリプションまたはユーザー移行に関する追加サポートについては、marketocares@marketo.comまで電子メールでお問い合わせください。
