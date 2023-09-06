@@ -4,10 +4,10 @@ title: クイックスタートランディングページテンプレート
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '465'
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Marketo Engage参照ライブラリのスタータープログラムには、簡
    * セクションの表示/非表示を切り替え
    * セクションの上のパディング
    * セクションの下のパディング
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### 画像セクション {#image-section}
 
@@ -42,7 +42,7 @@ Marketo Engage参照ライブラリのスタータープログラムには、簡
    * バナー画像リンク
    * バナーの幅 — 右下のスイッチの 1 つで、画像をコンテンツコンテナの幅またはブラウザー全体の幅にすることができます
    * セクションの表示/非表示を切り替え
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### 左に 2 列のテキスト、右にフォーム {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Marketo Engage参照ライブラリのスタータープログラムには、簡
    * セクション全体の表示/非表示を切り替える
    * フォームのみを表示または非表示にします（フォームを非表示にすると、左の列のテキストがページの幅いっぱいに表示されます）。 これは、「ありがとうございます」ページや、フォームが存在しない確認ページに使用できます )。
    * プライバシーポリシーのテキストを表示または非表示にします
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### ビデオセクション {#video-section}
 
@@ -66,7 +66,7 @@ Marketo Engage参照ライブラリのスタータープログラムには、簡
    * ビデオ埋め込みコード
    * ビデオヘッドラインを表示/非表示
    * ビデオを表示/非表示
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### フッターセクション {#footer-section}
 
@@ -76,7 +76,7 @@ Marketo Engage参照ライブラリのスタータープログラムには、簡
    * セクションの背景色
    * ソーシャルアイコンの色
    * セクションを表示/非表示
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### 追加の変数 {#additional-variables}
 

@@ -4,10 +4,10 @@ title: クイックスタートメールテンプレート
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 1%
+source-wordcount: '569'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * モジュールの下パディング
    * モジュールの背景色
    * ロゴの整列
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### 画像モジュール {#image-module}
 
@@ -46,7 +46,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * モジュールの上パディング
    * モジュールの下パディング
    * モジュールの背景色
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### ヘッドラインモジュール {#headline-module}
 
@@ -58,7 +58,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * ヘッドラインのフォントサイズ（リッチテキストエディターでも編集可能）
    * ヘッドラインのフォントカラー（リッチテキストエディターでも編集可能）
    * ヘッドラインテキストの配置（リッチテキストエディターでも編集できます）
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### サブヘッドラインモジュール {#subheadline-module}
 
@@ -70,7 +70,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * サブヘッドラインのフォントサイズ（リッチテキストエディターでも編集可能）
    * サブヘッドラインのフォントカラー（リッチテキストエディターでも編集可能）
    * サブヘッドラインテキストの配置（リッチテキストエディターでも編集できます）
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### フリーテキストモジュール {#free-text-module}
 
@@ -82,7 +82,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * テキストのフォントサイズ（リッチテキストエディターでも編集できます）
    * テキストのフォントカラー（リッチテキストエディターでも編集できます）
    * テキストの配置（リッチテキストエディターでも編集できます）
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA モジュール {#cta-module}
 
@@ -97,7 +97,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * CTA URL
    * CTA テキスト
    * CTA の整列
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Divider モジュール {#divider-module}
 
@@ -108,7 +108,7 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * ディバイダの色
    * ディバイダーの高さ（ピクセル単位）
    * ディバイダの幅 (%)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### フッターモジュール {#footer-module}
 
@@ -120,4 +120,4 @@ Marketo Engageの E メールエディターには、レイアウトの変更や
    * モジュールの背景色
    * テキストカラー
    * コンテンツの整列
-* PICC
+* ![](assets/quick-start-email-template-8.png)

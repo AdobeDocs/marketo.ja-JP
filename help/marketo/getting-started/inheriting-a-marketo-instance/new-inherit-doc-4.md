@@ -3,9 +3,9 @@ description: ドキュメントを継承 4 - Marketoドキュメント — 製�
 title: ドキュメント 4 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 5%
 
 ---
@@ -60,13 +60,13 @@ ht-degree: 5%
   <tr> 
    <td>データの標準化</td> 
    <td><li>お使いの <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">フォームフィールド</a> 主に候補リストを開くか、テキストフィールドを開くか。</li>
-<p>ヒント：テキストフィールドが開いている場合は、データが乱雑にならないように、候補リストに切り替えることを検討してください。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：テキストフィールドが開いている場合は、データが乱雑にならないように、候補リストに切り替えることを検討してください。</td>
   </tr>
   <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>フォーム戦略は、企業データのプライバシーやオプトインの要件に合っていますか？ 
    <br/>     検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">一般データ保護規則 (GDPR)</a>，カナダのスパム対策法 (CASL)，規制コンプライアンスのための 2003 年の非迷惑ポルノおよびマーケティング法 (CAN-SPAM) の暴行の制御，カリフォルニア州消費者プライバシー法 (CCPA) など。</li>
-<p>ヒント：これらの問題については、常に法務チームにお問い合わせください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：これらの問題については、常に法務チームに相談してください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ ht-degree: 5%
   <tr> 
    <td>プライバシーとコンプライアンス</td> 
    <td><li>すべてのメールに適切なフッターがありますか？ GDPR、CASL、CAN-SPAM、CCPA などを考慮します。 コンプライアンスに関する影響</li>
-<p>ヒント：コンプライアンスに関する問題については、常に法務チームに相談してください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：コンプライアンスに関する問題については、常に法務チームに相談してください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ ht-degree: 5%
   <tr> 
    <td>アセットの共有</td> 
    <td><li>どのアセットが <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">ワークスペースで共有</a>?</li>
-   <p>注意：ある Workspace で実行されたアクションによって、別のユーザーが別の Workspace でアクセスできなくなる可能性があるので、これを把握しておくことが重要です。</td>
+   <p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：ある Workspace で実行されたアクションによって、別のユーザーの別の Workspace でアセットにアクセスできなくなる可能性があるので、これを把握することが重要です。</td>
   </tr>
  </tbody> 
 </table>

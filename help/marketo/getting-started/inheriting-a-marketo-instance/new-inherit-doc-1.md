@@ -3,9 +3,9 @@ description: ドキュメントを継承 1 - Marketoドキュメント — 製�
 title: ドキュメント 1 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 6%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 6%
 <li>Marketo Engage/管理者/ユーザーとロールで「Marketo Engage製品管理者」の役割が付与されていますか？</li> 
 <li>Adobe Admin Console内のすべての適切なMarketo Engageの製品プロファイルに製品を割り当てているか。
 <br/>     そうでない場合は、Marketo Engage/管理者/ユーザーとロールでロールを割り当てる前に、Marketo EngageをAdobe IMS製品プロファイルに割り当ててください。</li>
-<p><img src="assets/note-icon-25.png" alt="メモアイコン">注意：サブスクリプションに 75 人を超えるAdobe IMSが含まれ、単にAdobeに移行された場合、一括で移行するユーザーを選択し、グループまたは一度に一度に移行を管理するオプションがあります。 今後に関する詳細を表示 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移行日</a>.</td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：サブスクリプションに 75 人を超えるAdobe IMSが含まれ、単にAdobeに移行された場合、一括で移行するユーザーを選択し、グループまたは一度に一度に移行を管理するオプションがあります。 今後に関する詳細を表示 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移行日</a>.</td>
   </tr>
   <tr> 
    <td>ユーザー管理 API</td> 
@@ -158,7 +158,7 @@ ht-degree: 6%
   <tr> 
    <td>通信制限</td> 
    <td><li>あるか <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a> その場で？ お客様のビジネスには、通信制限が必要なポリシーがありますか？</li>
-<p>注意：では、1 日に 1 回、7 日に 3 回のみの通信を制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：では、1 日に 1 回、7 日に 3 回のみ、通信を制限することをお勧めします。 <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">操作</a> ブロックされたメール。</td>
   </tr>
  </tbody> 
 </table>
@@ -241,7 +241,7 @@ ht-degree: 6%
    <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
 <li>を使用しているか <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">カスタム同期</a>?</li>
 <li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 
-<p>注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
@@ -260,7 +260,7 @@ ht-degree: 6%
    <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を (Marketo以外の )Web サイトに追加した場合、</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">追跡しない</a> ブラウザーリクエストが有効ですか？</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ 
-<p><img src="assets/tip-icon-25.png" alt="メモアイコン">ヒント：Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">ウェブページアクティビティレポート</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">ウェブページアクティビティレポート</a>.</li></td>
   </tr>
   <tr> 
    <td>Web サービス</td> 

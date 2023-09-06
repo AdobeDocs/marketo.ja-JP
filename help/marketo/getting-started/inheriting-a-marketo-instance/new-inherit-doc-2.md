@@ -3,9 +3,9 @@ description: ドキュメントを継承 2 - Marketoドキュメント — 製�
 title: ドキュメント 2 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 8%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 8%
    <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">スマートリスト</a> いるの？ このインスタンスでの使用方法</li>
 <li>リストは、まとまったフォルダ構造で整理されていますか？ 
 <br/>     孤立したリストがある場合は、アセットを見つけやすくするためにツリーを整理することを検討します。</li>
-<p>ヒント： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a> 不要になったスマートリストは、組織とパフォーマンスに役立ちます。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a> 不要になったスマートリストは、組織とパフォーマンスに役立ちます。</td>
   </tr>
  </tbody> 
 </table>

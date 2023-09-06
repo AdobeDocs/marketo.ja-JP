@@ -3,9 +3,9 @@ description: ドキュメントを継承 3 - Marketoドキュメント — 製�
 title: ドキュメント 3 を継承
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
    <td>アーカイブ</td> 
    <td><li>古いプログラムですか？ <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a>?</li>
 <li>古いプログラムのレビューとアーカイブの頻度は？</li>
-<p>ヒント：毎年レビューを行うのが良いです。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：毎年レビューを行うのが良い。</td>
   </tr>
   <tr> 
    <td>通知</td> 
@@ -54,7 +54,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
    <td>スマートリストの購読 
    <br/>（「マーケティング活動/購読」タブ）</td> 
    <td><li>進行中か <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">スマートリストの購読</a> インスタンス内で？ そうなら誰に行くの？</li>
-<p>ヒント：個人ではなくチームのエイリアスに移動するには、スマートリストの購読を設定することを検討してください。 個人が不在の場合に備えて、これがお客様に適用されます。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：個人ではなくチームのエイリアスに移動するには、スマートリストの配信登録の設定を検討してください。 個人が不在の場合に備えて、これがお客様に適用されます。</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
    <td>ローカルForms</td> 
    <td><li>ローカルのプログラムの数 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">フォーム</a>? これらのフォームをグローバルフォームに変換する必要がありますか？</li>
 <li>マーケティングチームやセールスチームに適したデータを収集しているか。</li>
-<p>ヒント：更新を容易にし、データのプライバシーやオプトイン/オプトアウトポリシーに応じて変更に合わせられるように、ローカルフォームの数を制限します。 フォームを作成する際には、どのような質問をする必要がありますか？ 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームを検討してください。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：更新を容易にし、データのプライバシーやオプトイン/オプトアウトポリシーによって変更に合わせられるように、ローカルフォームの数を制限します。 フォームを作成する際には、どのような質問をする必要がありますか？ 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームを検討してください。</td>
   </tr>
   <tr> 
    <td>グローバルフォーム</td> 
@@ -127,7 +127,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
   <tr> 
    <td>人物のソース</td> 
    <td><li>担当者ソースフィールドに値を割り当てる一元化されたプログラムはありますか？</li>
-<p>注意：Marketo Engageは、運用プログラムに関係なく、ソースフィールドにデータを自動的に収集します。</td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：Marketo Engageは、オペレーショナルプログラムに関係なく、ソースフィールドにデータを自動的に収集します。</td>
   </tr>
   <tr> 
    <td>データの標準化</td> 
@@ -141,7 +141,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
    <td>プライバシーとコンプライアンス</td> 
    <td><li>データのプライバシーとスパムに関する法律に準拠するためのプログラムはありますか？ 
    <br/>     検討 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>、CASL、CAN-SPAM、CCPA など</li>
-<p>ヒント：これらの問題については、常に法務チームにお問い合わせください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：これらの問題については、常に法務チームに相談してください。 変更を加える前に、コンプライアンスを維持するための以前の取り組みについてチームに問い合わせてください。</td>
   </tr>
   <tr> 
    <td>ライフサイクル</td> 
