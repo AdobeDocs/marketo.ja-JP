@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの概要 — Marketo ドキ
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
+source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 73%
+source-wordcount: '354'
+ht-degree: 74%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 73%
 
 >[!IMPORTANT]
 >
->Adobe Connectを利用したインタラクティブ Web セミナーは、Adobe Connectとの統合を組み込んだ機能です。 インタラクティブウェビナーを使用する場合は、追加の利用条件が適用されます。  追加の利用条件については、契約を確認するか、Adobeにお問い合わせください。
+>Adobe Connectを利用したインタラクティブ Web セミナーは、Adobe Connectとの統合を組み込んだ機能です。 インタラクティブウェビナーを使用する場合は、追加の利用条件が適用されます。  契約を確認するか、 [連絡先Adobe](https://nation.marketo.com/t5/support/ct-p/Support) 追加の利用条件を確認する場合。
 
 ## インタラクティブウェビナーとは {#what-is-interactive-webinars}
 
