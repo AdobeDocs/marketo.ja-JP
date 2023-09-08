@@ -4,10 +4,10 @@ title: OP-スコアリング-デモグラフィック
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 35%
+source-wordcount: '313'
+ht-degree: 36%
 
 ---
 
@@ -130,6 +130,8 @@ ht-degree: 35%
  </tbody> 
 </table>
 
+![](assets/op-scoring-demographic-1.png)
+
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -232,8 +234,6 @@ ht-degree: 35%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
@@ -251,8 +251,6 @@ ht-degree: 35%
 * **同じ名前のメールテンプレート**
    * 両方のテンプレートを保持 — _推奨_
    * 既存テンプレートの置換
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

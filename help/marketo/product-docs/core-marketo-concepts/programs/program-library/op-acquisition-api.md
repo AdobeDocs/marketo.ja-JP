@@ -4,10 +4,10 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 20%
+source-wordcount: '171'
+ht-degree: 21%
 
 ---
 
@@ -61,7 +61,7 @@ ht-degree: 20%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
+![](assets/op-acquisition-api-1.png)
 
 ## 競合ルール {#conflict-rules}
 
@@ -80,8 +80,6 @@ ht-degree: 20%
 * **同じ名前のメールテンプレート**
    * 両方のテンプレートを保持 — _推奨_
    * 既存テンプレートの置換
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

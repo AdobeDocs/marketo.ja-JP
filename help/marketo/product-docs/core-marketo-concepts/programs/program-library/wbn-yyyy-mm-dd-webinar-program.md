@@ -4,10 +4,10 @@ title: WBN-YYYY-MM-DD-Webinar プログラム
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 17%
+source-wordcount: '574'
+ht-degree: 18%
 
 ---
 
@@ -176,6 +176,8 @@ ht-degree: 17%
  </tbody> 
 </table>
 
+![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
+
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -289,8 +291,6 @@ ht-degree: 17%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
@@ -308,8 +308,6 @@ ht-degree: 17%
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
    * 既存のテンプレートを置換 — _推奨_
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

@@ -4,10 +4,10 @@ title: EM-YYYY-MM-DD-Single E メール送信
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 19%
+source-wordcount: '284'
+ht-degree: 20%
 
 ---
 
@@ -86,6 +86,8 @@ ht-degree: 19%
  </tbody> 
 </table>
 
+![](assets/em-yyyy-mm-dd-single-email-send-1.png)
+
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -113,8 +115,6 @@ ht-degree: 19%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
@@ -132,8 +132,6 @@ ht-degree: 19%
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
    * 既存のテンプレートを置換 — _推奨_
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

@@ -4,10 +4,10 @@ title: OP-スコアリング-行動
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 30%
+source-wordcount: '350'
+ht-degree: 31%
 
 ---
 
@@ -155,6 +155,8 @@ ht-degree: 30%
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ ht-degree: 30%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
@@ -261,8 +261,6 @@ ht-degree: 30%
 * **同じ名前のメールテンプレート**
    * 両方のテンプレートを保持 — _推奨_
    * 既存テンプレートの置換
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

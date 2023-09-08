@@ -4,10 +4,10 @@ title: OP-リード管理
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 15%
+source-wordcount: '266'
+ht-degree: 16%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 15%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
+![](assets/op-lead-management-1.png)
 
 ## 競合ルール {#conflict-rules}
 
@@ -96,8 +96,6 @@ ht-degree: 15%
 * **同じ名前のメールテンプレート**
    * 両方のテンプレートを保持 — _推奨_
    * 既存テンプレートの置換
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

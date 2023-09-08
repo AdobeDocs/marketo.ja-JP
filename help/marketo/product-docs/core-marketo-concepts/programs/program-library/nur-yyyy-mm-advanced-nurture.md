@@ -4,9 +4,9 @@ title: NUR-YYYY-MM-Advanced Nurture
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '475'
 ht-degree: 15%
 
 ---
@@ -153,6 +153,8 @@ ht-degree: 15%
  </tbody> 
 </table>
 
+![](assets/nur-yyyy-mm-advanced-nurture-1.png)
+
 ## 含まれるマイトークン {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -180,8 +182,6 @@ ht-degree: 15%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
-
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
@@ -199,8 +199,6 @@ ht-degree: 15%
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
    * 既存のテンプレートを置換 — _推奨_
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 

@@ -4,10 +4,10 @@ title: OP-データ管理
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 27%
+source-wordcount: '323'
+ht-degree: 28%
 
 ---
 
@@ -168,7 +168,7 @@ ht-degree: 27%
  </tbody> 
 </table>
 
-プログラムのスクリーンショット
+![](assets/op-data-management-1.png)
 
 ## 競合ルール {#conflict-rules}
 
@@ -187,8 +187,6 @@ ht-degree: 27%
 * **同じ名前のメールテンプレート**
    * 両方のテンプレートを保持 — _推奨_
    * 既存テンプレートの置換
-
-競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 
