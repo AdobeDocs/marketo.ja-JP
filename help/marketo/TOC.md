@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
 source-wordcount: '9083'
 ht-degree: 98%
@@ -649,7 +649,7 @@ ht-degree: 98%
          + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + DYNAMIC CHAT2 {#dynamic-chat-two}
          + 自動チャット {#automated-chat}
-            + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [対話型フロー設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
          + [挿入を解放](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
