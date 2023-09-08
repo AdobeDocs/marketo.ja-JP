@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの設計 - Marketo ドキ�
 title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 100%
+source-wordcount: '414'
+ht-degree: 92%
 
 ---
 
@@ -33,6 +33,10 @@ ht-degree: 100%
 1. ウェビナープレビューが表示されます。
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >オンラインセミナはMarketo Engageインスタンスのデフォルト言語に設定されますが、プレビューの上にあるドロップダウンを使用して、オンラインセミナごとに言語を変更するオプションがあります。
 
 1. 様々なレイアウトを選択してプレビューできます。続行するには、「**テンプレートを使用**」をクリックします。
 

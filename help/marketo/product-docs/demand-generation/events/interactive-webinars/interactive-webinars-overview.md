@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの概要 — Marketo ドキ
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 74%
+source-wordcount: '394'
+ht-degree: 66%
 
 ---
 
@@ -31,6 +31,10 @@ ht-degree: 74%
 **インタラクティブウェビナーを使用するには、個別のサブスクリプションが必要ですか？**
 
 いいえ。インタラクティブウェビナーを使用するには、アクティブな Marketo Engage サブスクリプションのみが必要です。
+
+**インタラクティブ Web セミナーではどの言語を利用できますか？**
+
+インタラクティブウェビナーは、Marketoでサポートされる 6 つの言語（英語、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語）ですべて利用できます。 Adobe Connectでは、インタラクティブ Web セミナーを通じたウェビナー配信時にも、同じ言語がサポートされます。
 
 **含まれていたインタラクティブウェビナー数を使い果たしてしまいました。セッションや容量を増やすにはどうしたらいいですか？**
 
