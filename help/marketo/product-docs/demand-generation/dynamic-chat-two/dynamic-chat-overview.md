@@ -4,10 +4,10 @@ title: Dynamic Chat の概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 100%
+source-wordcount: '876'
+ht-degree: 98%
 
 ---
 
@@ -52,6 +52,10 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 ## ルーティング {#routing}
 
 ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。[ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## ライブチャット {#live-chat}
+
+ライブチャットを通じてセールス担当者とつながる資格のある Web 訪問者を提供します。 ドキュメントへのリンク
 
 ## よくある質問 {#faq}
 
