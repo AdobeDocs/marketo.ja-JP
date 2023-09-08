@@ -3,7 +3,7 @@ description: チャットユーザーの追加または削除 - Marketo ドキ�
 title: チャットユーザーの追加または削除
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
@@ -80,7 +80,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します）。
+   >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します。
 
 1. 「**ユーザー**」タブをクリックします。
 

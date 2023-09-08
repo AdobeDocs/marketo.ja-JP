@@ -1,16 +1,39 @@
 ---
-description: ドキュメント - Marketo ドキュメント - 製品ドキュメント
-title: ドキュメント
+description: ダイアログの作成 - Marketo ドキュメント - 製品ドキュメント
+title: ダイアログの作成
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
-# ドキュメント {#doc}
+# ダイアログの作成 {#create-a-dialogue}
 
-まもなくリリース
+新しいダイアログの作成方法を次に示します。
+
+1. 「**ダイアログ**」をクリックします。
+
+   ![](assets/create-a-dialogue-1.png)
+
+1. 「**新規作成**」ボタンをクリックします。
+
+   ![](assets/create-a-dialogue-2.png)
+
+1. 空のダイアログ、または事前入力済みのテンプレートを選択します。名前を入力して（説明はオプションです）、優先度レベルを変更し（オプション）、「**保存**」をクリックします。
+
+   ![](assets/create-a-dialogue-3.png)
+
+>[!NOTE]
+>
+>優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
+
+>[!MORELIKETHIS]
+>
+>* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+

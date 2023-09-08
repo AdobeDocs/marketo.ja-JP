@@ -1,16 +1,56 @@
 ---
-description: ドキュメント - Marketo ドキュメント - 製品ドキュメント
-title: ドキュメント
+description: ルーティング - Marketo ドキュメント - 製品ドキュメント
+title: ルーティング
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '148'
 ht-degree: 100%
 
 ---
 
-# ドキュメント {#doc}
+# ルーティング {#routing}
 
-まもなくリリース
+動的チャットで予約された会議は、2 つの方法でルーティングできます。ラウンドロビン、またはカスタムルールを使用します。
+
+ラウンドロビン：会議はエージェントに順次割り当てられます。エージェントが 5 人いてエージェント 3 が最後の会議に出席した場合、エージェント 4 が次の会議に出席し、次にエージェント 5 がその次の会議に出席し、その後はエージェント 1 に戻ります。
+
+カスタムルール：選択した属性に基づいて、特定のエージェントを選択して会議を割り当てることができます。
+
+## カスタムルールの作成 {#create-a-custom-rule}
+
+この例では、CA、OR、WA の推測される状態から、エージェントの John にすべての会議を送信します。
+
+1. 動的チャットで、「**ルーティング**」を選択します。
+
+   ![](assets/routing-1.png)
+
+1. 「**カスタムルール**」タブをクリックします。
+
+   ![](assets/routing-2.png)
+
+1. 「**ルールを作成**」をクリックします。
+
+   ![](assets/routing-3.png)
+
+1. ルールに名前を付け、「**次へ**」をクリックします。
+
+   ![](assets/routing-4.png)
+
+1. 目的のエージェントを選択します。
+
+   ![](assets/routing-5.png)
+
+1. 目的の属性の上にドラッグします。
+
+   ![](assets/routing-6.png)
+
+1. 目的の値を見つけて選択します。
+
+   ![](assets/routing-7.png)
+
+1. 目的の値をすべて選択したら、「**保存**」をクリックします。
+
+   ![](assets/routing-8.png)
