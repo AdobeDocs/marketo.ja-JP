@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 98%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 98%
       + [確認すべき項目](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [確認すべきこと：主要スキル](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [ヘルプの入手方法](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [新規継承ドキュメント 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [新規継承ドキュメント 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [新規継承ドキュメント 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [新規継承ドキュメント 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [新規継承ドキュメント 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [継承されたインスタンス：管理セクションのチェックリスト](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [継承されたインスタンス：データベースチェックリスト](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [継承されたインスタンス：マーケティングアクティビティのチェックリスト](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [継承されたインスタンス：デザインスタジオチェックリスト](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [継承されたインスタンス：設定のドキュメント化](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
