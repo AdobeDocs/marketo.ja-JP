@@ -3,9 +3,9 @@ description: 継承されたインスタンスドキュメントの設定 — Ma
 title: 継承されたインスタンスドキュメントの設定
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
    <td>入力</td> 
    <td><li>どのシステムがデータをMarketo Engageに送り込むか。</li>
    <li>データをプログラムやデータベースに読み込んでいるか。 プログラムならどれ？</li>
-   <p>アクション項目：システム間でデータディクショナリ/フィールドマッピングテーブルを作成します。</td>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：システム間でデータディクショナリ/フィールドマッピングテーブルを作成します。</td>
   </tr>
   <tr> 
    <td>出力</td> 
@@ -51,7 +51,7 @@ ht-degree: 2%
   <tr> 
    <td>組織</td> 
     <td><li>Marketo Engageインスタンスの整理方法とその理由に関する堅牢なドキュメントを用意していますか？</li>
-   <p>アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
+   <p><p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-[◄継承されたインスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄継承されたインスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

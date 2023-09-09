@@ -3,7 +3,7 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 6%
@@ -343,4 +343,4 @@ ht-degree: 6%
 
 <br> 
 
-[継承されたインスタンスの監査：データベース►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+[継承されたインスタンスの監査：データベース►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
