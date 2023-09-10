@@ -4,9 +4,9 @@ title: Dynamic Chat の概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 98%
 
 ---
@@ -55,7 +55,7 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## ライブチャット {#live-chat}
 
-ライブチャットを通じてセールス担当者とつながる資格のある Web 訪問者を提供します。 ドキュメントへのリンク
+を通じてセールス担当者と連携するための適格な Web 訪問者を提供する [ライブチャット](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## よくある質問 {#faq}
 
