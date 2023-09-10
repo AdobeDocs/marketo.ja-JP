@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 98%
@@ -651,14 +651,14 @@ ht-degree: 98%
          + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [会議リスト](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Marketo Measure Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + 自動チャット {#automated-chat}
             + [対話型フローの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [対話フローの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [対話型フロー設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [会話 SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [ダイアログの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [オーディエンス条件](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
