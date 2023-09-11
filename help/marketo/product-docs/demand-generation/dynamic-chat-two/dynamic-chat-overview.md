@@ -4,10 +4,10 @@ title: Dynamic Chat の概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 98%
+source-wordcount: '665'
+ht-degree: 94%
 
 ---
 
@@ -109,90 +109,29 @@ Dynamic Chat の言語を変更するには、以下の手順に従います。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
-## Dynamic Chat の制限 {#limits-in-dynamic-chat}
+## Dynamic Chatデータ保持の制限 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>パラメーター</th>
-  <th>説明</th>
-  <th>制限</th>
+  <th>データタイプ</th>
+  <th>保持期間</th>
  <tr>
-  <td>ダイアログ総数</td>
-  <td>ダイアログの数（公開および下書き）</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>カレンダー総数</td>
-  <td>接続されているカレンダーの数</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>ユーザー総数（管理者およびマーケティングユーザー）</td>
-  <td>Dynamic Chat インスタンスごとに許可される結合ユーザー数</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>公開済みダイアログ</td>
-  <td>保存された公開済みダイアログの数</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>ダイアログごとのターゲット URL</td>
-  <td>単一のダイアログに追加できるターゲット URL の数</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>ダイアログごとの属性</td>
-  <td>単一のダイアログのオーディエンス条件に追加できる属性の数</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>グループ</td>
-  <td>単一のダイアログに追加できるグループの数</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>グループごとの属性</td>
-  <td>グループに追加できる属性の数</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>カード</td>
-  <td>ダイアログごとにキャンバスに追加できるカードの数</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>匿名リードデータの保持期間</td>
-  <td>エンゲージメントのない匿名リードの情報が保持される期間</td>
+  <td>エンゲージメントのない匿名リード</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>目標アクティビティの保持期間</td>
-  <td>目標アクティビティデータの保持期間</td>
+  <td>目標アクティビティ</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ドキュメントアクティビティの保持期間</td>
-  <td>ドキュメントのアクティビティデータが保持される期間</td>
+  <td>ドキュメントアクティビティ</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ダイアログアクティビティの保持期間に関するインタラクション</td>
-  <td>ダイアログアクティビティデータとのやり取りの保持期間</td>
+  <td>ダイアログアクティビティとのやり取り</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>会議予約アクティビティの保持期間</td>
-  <td>会議予約アクティビティが Dynamic Chat に保存される時間</td>
+  <td>会議の予約アクティビティ</td>
   <td>24 か月</td>
- </tr>
- <tr>
-  <td>エンゲージされた会話</td>
-  <td>Web 訪問者が 1 か月にエンゲージできるチャット会話の数</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>トリガーされた会話</td>
-  <td>Web 訪問者に 1 か月に表示できるチャットの会話数</td>
-  <td>25,000</td>
  </tr>
 </table>

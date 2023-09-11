@@ -4,10 +4,10 @@ title: ルーティング
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 72%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 この例では、CA、OR、WA の推測される状態から、エージェントの John にすべての会議を送信します。
 
-1. 動的チャットで、「**ルーティング**」を選択します。
+1. 「設定」で、 **ルーティングルール**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/routing-3.png)
 
-1. ルールに名前を付け、「**次へ**」をクリックします。
+1. ルールに名前を付けます。 オプションで、説明を追加し、その優先度レベルを設定できます。 「**次へ**」をクリックします。
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ ht-degree: 100%
 1. 目的の値をすべて選択したら、「**保存**」をクリックします。
 
    ![](assets/routing-8.png)
+
+
+## アカウントルーティング {#account-routing}
+
+ターゲットアカウントとそれぞれの販売所有者を特定してアップロードし、それらのアカウントから来た訪問者をそれぞれのアカウント所有者に直接ルーティングします。
+
+![](assets/routing-9.png)
+
+チームルーティング
+
+スマートリストルーティングのメンバー

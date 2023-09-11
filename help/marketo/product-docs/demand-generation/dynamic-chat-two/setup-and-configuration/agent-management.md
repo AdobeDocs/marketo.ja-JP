@@ -4,9 +4,9 @@ title: エージェント管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 このタブには、Dynamic Chatインスタンス内のすべてのエージェントが一覧表示され、名前、電子メールアドレス、ライブチャットのステータスなどの情報が含まれます。
 
-PICC2 - GUYS のスクリーンショットが必要
+![](assets/agent-management-2.png)
 
 ## チーム {#teams}
 
