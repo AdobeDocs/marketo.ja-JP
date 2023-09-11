@@ -4,20 +4,24 @@ title: エージェント設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 52%
+source-wordcount: '479'
+ht-degree: 27%
 
 ---
 
 # エージェント設定 {#agent-settings}
 
-[ 予定表の構成 ] タブで、Outlook または Gmail の予定表を接続して、Chatbot で予定のスケジュールに使用します。
+カレンダーを設定し、会議/ライブチャットの可用性を設定します。
+
+![](assets/agent-settings-1.png)
 
 ## カレンダーの接続 {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+[ 予定表の構成 ] タブで、Outlook または Gmail の予定表を接続して、Chatbot で予定のスケジュールに使用します。
+
+![](assets/agent-settings-2.png)
 
 ユーザのカレンダーが動的チャットに接続されると、そのユーザはキューに追加され、web サイトの訪問者が予定をスケジュールする際に使用できるようになります。
 
@@ -27,7 +31,7 @@ ht-degree: 52%
 
 また、カレンダーに予定をスケジュールするときに訪問者に送信される、招待の本文をカスタマイズすることもできます。下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
 
 ## 会議予約の可用性 {#meeting-booking-availability}
 
-テキスト
+会議の予約を受け取るタイムゾーンと利用可能な時間/曜日を設定します。
 
-## 会議の長さとバッファー時間 {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-テキスト
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>会議期間</b></td>
+   <td>会議の最大長。  — 何が起こるのですか？ 自動終了しますか？</td>
+  </tr> 
+  <tr> 
+   <td><b>会議間のバッファ時間</b></td>
+   <td>会議後にバッファとして設定した時間。 30 分に設定した場合、予定されているカレンダーの会議終了の 31 分後まで、誰もあなたとの会議を予約することができません。 - 31 または 30???????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>同じ日に複数の時間ブロックを選択できます（金曜日の 8a～12p など）。 _および_ 1p～5p) をクリックし、 **+** 右側にサインします。
 
 ## ライブチャットの利用可否 {#live-chat-availability}
 
-テキスト
+ライブチャットを受け取るためのタイムゾーンと利用可能な時間/曜日を設定します。
+
+![](assets/agent-settings-5.png)
+
+アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、(Google Chrome で ) ブラウザー通知が届きます。
+
+>[!IMPORTANT]
+>
+>The [可用性の切り替え](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} エージェントインボックス内 **上書きします** [ ライブチャットの可用性 ] タブに入力した内容。 したがって、1p～5p から利用可能にスケジュールされているが、3p ですぐに休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で切り替えるまで、または使用可能な次のブロックに達するまで、保持されます。
+
+>[!TIP]
+>
+>同じ日に複数の時間ブロックを選択できます（金曜日の 8a～12p など）。 _および_ 1p～5p) をクリックし、 **+** 右側にサインします。

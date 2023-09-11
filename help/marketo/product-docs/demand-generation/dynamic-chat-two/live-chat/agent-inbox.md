@@ -4,10 +4,10 @@ title: エージェントのインボックス
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 4%
+source-wordcount: '319'
+ht-degree: 5%
 
 ---
 
@@ -27,6 +27,10 @@ ht-degree: 4%
 >
 >**これは** の [ライブチャットの可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) エージェントの設定でが確立されました。 ステータスは、元の状態に切り替えるか、使用可能な次の時間ブロックに切り替えるまで保持されます。
 
+>[!NOTE]
+>
+>ステータスを [ 使用不可 ] に設定しても、アクティブなチャットには影響しません。
+
 ## ライブチャットの受け入れ {#accepting-a-live-chat}
 
 ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れるよう求められます。
@@ -36,7 +40,6 @@ ht-degree: 4%
 ### 注意事項 {#things-to-note}
 
 * エージェントは、「チャットを受け入れる」メッセージがタイムアウトするまでに、45 秒の応答時間があります。
-* ブラウザーの TIDBIT
 * 現時点では、エージェントごとに 10 のライブチャットの制限があります
 
 ## 会話 {#conversations}
@@ -44,6 +47,10 @@ ht-degree: 4%
 [ エージェントの受信トレイ ] 画面の左側で、アクティブな会話のみを表示するか、すべての会話を表示するかを選択できます。
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>過去の（非アクティブな）会話を自分や他のエージェントから見ることができますが、自分のアクティブな会話のみを見ることができます。
 
 ## 訪問者情報 {#visitor-information}
 
@@ -61,4 +68,18 @@ ht-degree: 4%
 >
 >情報は、過去 90 日間のみ表示されます。
 
-アクティブな会話 — すべての会話 — カレンダー共有訪問者情報 — 最近のDynamic Chatアクティビティ
+## カレンダーの共有 {#calendar-sharing}
+
+ライブチャットウィンドウの下部には、自分や他のエージェントのカレンダーをチャット訪問者と共有できるアイコンが表示されます。
+
+1. カレンダーアイコンをクリックします。
+
+   ![](assets/agent-inbox-7.png)
+
+1. 目的のエージェントカレンダーを選択し、 **送信**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. チャットの訪問者は会議を予約できます。
+
+   ![](assets/agent-inbox-9.png)

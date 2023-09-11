@@ -4,9 +4,9 @@ title: エージェント管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 3%
 
 ---
@@ -63,7 +63,7 @@ PICC2 - GUYS のスクリーンショットが必要
 
 >[!NOTE]
 >
->の選択 **会議予約オプションを含める** チェックボックスをオンにすると、チャット訪問者用の会議予約ウィジェットが生成されます。
+>の選択 **会議予約オプションを含める** チェックボックスを選択すると、ライブチャットで使用できるエージェントがない場合に、チャット訪問者が会議を予約するオプションが提供されます。
 
 >[!TIP]
 >
