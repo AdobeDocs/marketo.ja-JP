@@ -4,9 +4,9 @@ title: Marketo EngageFormsの対話フロー設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ Marketo EngageFormsを対話型フローと統合して、対話型フローをD
 >[!PREREQUISITES]
 >
 >ここに前提条件を追加
+
+>[!AVAILABILITY]
+>
+>スマートリストのメンバーまたはリストのメンバーの条件には、Dynamic ChatPrime が必要です。
 
 1. フォームを検索して選択します（または新しく作成します）。
 

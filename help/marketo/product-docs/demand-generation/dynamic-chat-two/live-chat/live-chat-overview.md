@@ -4,7 +4,7 @@ title: ライブチャットの概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 3%
@@ -26,7 +26,7 @@ ht-degree: 3%
 **ベストプラクティス**
 
 * ライブチャットカードの前に質問カードを使用して、訪問者に接続を希望するかどうかを尋ねます。
-* 訪問者が接続に同意したら、情報キャプチャカードを使用して、氏名、E メールアドレス、職位など、情報の一部を取得します。 （少なくとも名と E メールアドレスをリクエストすることをお勧めします）。
+* 訪問者がの接続に同意したら、情報キャプチャカードを使用して、氏名、E メールアドレス、職位など、情報の一部を収集します。 （少なくとも名と E メールアドレスをリクエストすることをお勧めします）。
 
 ## Live Chat カードのオプション {#live-chat-card-options}
 

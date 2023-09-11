@@ -4,10 +4,10 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 97%
+source-wordcount: '260'
+ht-degree: 88%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 97%
 
 ## 動的チャットの接続 {#connecting-dynamic-chat}
 
-[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}が完了したら、動的チャットを Marketo サブスクリプションに接続する 1 回限りの同期を実行する時間です。
+完了後、 [初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}をクリックすると、1 回限りの同期接続Dynamic ChatをAdobe Marketo Engageサブスクリプションに実行します。
 
 1. マイ Marketo で、**動的チャット**&#x200B;タイルをクリックします。
 

@@ -4,10 +4,10 @@ title: オーディエンス条件
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 100%
+source-wordcount: '569'
+ht-degree: 95%
 
 ---
 
@@ -22,8 +22,6 @@ Marketo スマートリストと同様に、オーディエンス条件属性を
 ![](assets/audience-criteria-1.png)
 
 ## イベント {#events}
-
-![](assets/audience-criteria-2.png)
 
 イベントを使用すると、スクロールした量や、ページやサイトでの閲覧時間に基づいて、訪問者をターゲットに設定できます。次の例では、20 秒以上特定のページを閲覧した訪問者をターゲティングします。
 
@@ -40,8 +38,6 @@ Marketo スマートリストと同様に、オーディエンス条件属性を
    ![](assets/audience-criteria-5.png)
 
 ## 属性 {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **認識済み人物**
 
@@ -96,6 +92,18 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
 1. 「_次に該当_」はデフォルトで設定されています。「値を選択」フィールドに「NY」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
 
    ![](assets/audience-criteria-15.png)
+
+## メンバーシップ {#membership}
+
+ダイアログのMarketo Engageオーディエンスに対してターゲットスマートリストを使用します。
+
+1. メンバーシップで、を取得します。 **スマートリストのメンバー** をクリックし、キャンバスにドロップします。
+
+   ![](assets/audience-criteria-15a.png)
+
+1. 目的のスマートリストを選択します。
+
+   ![](assets/audience-criteria-15b.png)
 
 ## グループを追加 {#add-groups}
 

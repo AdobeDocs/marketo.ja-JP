@@ -4,10 +4,10 @@ title: ストリームデザイナー
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 87%
+source-wordcount: '1024'
+ht-degree: 82%
 
 ---
 
@@ -43,7 +43,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td><strong>予定スケジューラー</strong></td>
-  <td>訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。カレンダーの可用性は<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">次のエージェント</a>を反映します。</td>
+  <td>訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。カレンダーの可用性は<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">次のエージェント</a>を反映します。また、エージェントの名前や E メールアドレスなどの属性を渡すオプションもあります。</td>
+ </tr>
+ <tr>
+  <td><strong>会議の予約</strong></td>
+  <td>訪問者に、会議をスケジュールするために使用可能な日付のカレンダーを提供します。 ラウンドロビン、特定のエージェントの、またはカスタムルールを使用して、カレンダーの可用性を選択します。</td>
  </tr>
  <tr>
   <td><strong>ゴール</strong></td>
@@ -68,19 +72,19 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>表示を希望するユーザの背景にグリッドを追加します</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>拡大して、大きなカードを作成します</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>縮小して、小さいカードを作成します</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>チャットをテストするためのウィンドウを開きます（同じボタンを押して閉じます）</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>ストリーム内のカードのタイプまたはコンテンツを検索できます</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 >* [オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [ドキュメントカードの使用](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-
