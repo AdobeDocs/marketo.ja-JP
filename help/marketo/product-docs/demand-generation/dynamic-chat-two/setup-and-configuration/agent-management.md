@@ -4,10 +4,10 @@ title: エージェント管理
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '180'
+ht-degree: 3%
 
 ---
 
@@ -60,6 +60,10 @@ PICC2 - GUYS のスクリーンショットが必要
 標準（システム）メッセージを選択するか、ライブチャットが利用できない場合に訪問者に表示するカスタムメッセージを作成します。
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>の選択 **会議予約オプションを含める** チェックボックスをオンにすると、チャット訪問者用の会議予約ウィジェットが生成されます。
 
 >[!TIP]
 >

@@ -4,16 +4,16 @@ title: エージェント設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 59%
+source-wordcount: '248'
+ht-degree: 52%
 
 ---
 
 # エージェント設定 {#agent-settings}
 
-「カレンダー」タブで、Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。
+[ 予定表の構成 ] タブで、Outlook または Gmail の予定表を接続して、Chatbot で予定のスケジュールに使用します。
 
 ## カレンダーの接続 {#connect-calendar}
 
@@ -50,14 +50,14 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
 * カレンダーの共有先の変更
 * 名前、メールアドレス、言語設定、プロフィール画像へのアクセス
 
-## ライブチャットの利用可否設定 {#live-chat-availability-settings}
-
-テキスト
-
-## 会議予約可用性設定 {#meeting-booking-availability-settings}
+## 会議予約の可用性 {#meeting-booking-availability}
 
 テキスト
 
 ## 会議の長さとバッファー時間 {#meeting-length-and-buffer-time}
+
+テキスト
+
+## ライブチャットの利用可否 {#live-chat-availability}
 
 テキスト
