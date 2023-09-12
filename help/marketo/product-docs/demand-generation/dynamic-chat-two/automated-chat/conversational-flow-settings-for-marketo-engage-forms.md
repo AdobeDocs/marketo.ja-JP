@@ -4,7 +4,7 @@ title: Marketo EngageFormsの対話フロー設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 7%
@@ -49,7 +49,7 @@ Marketo EngageFormsを対話型フローと統合して、対話型フローをD
 
    >[!NOTE]
    >
-   >[対話型フローの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+   >[対話型フローの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **オプションの手順**:「選択肢の追加」をクリックすると、特定の条件を満たすチャット訪問者をターゲットに設定できます。
 
