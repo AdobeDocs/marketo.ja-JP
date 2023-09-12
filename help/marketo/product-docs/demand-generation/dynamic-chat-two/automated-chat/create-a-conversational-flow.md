@@ -4,30 +4,28 @@ title: 対話フローの作成
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # 対話フローの作成 {#create-a-conversational-flow}
 
-特定のアクションに基づいて、対話フローを設計し、訪問者にトリガーします（例：コールトゥアクションボタンのクリック、ページ読み込み時、ページでの滞在時間など）。
-
-ダイアログとの違いを述べる???????????
+新しい対話フローの作成方法を次に示します。
 
 1. [ 自動チャット ] で、 **対話型のフロー**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. クリック **対話フローの作成**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. 空の対話フロー、または事前入力済みのテンプレートの 1 つを選択します。 名前を入力し（説明はオプション）、言語を変更し（オプション）、 **作成**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

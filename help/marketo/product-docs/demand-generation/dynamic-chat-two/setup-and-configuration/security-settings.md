@@ -4,10 +4,10 @@ title: セキュリティ設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 5%
 1. を選択します。 **検証を有効にする** スライダーを使用して、「 」をブロックリストに加えるアクティブにします。 最大 50 個のドメインを入力し、 **保存**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->確かに **NOT** 追加する `adobeeventlab.com` ブロックリストに届かないと???チャットを無効にする???
 
 ## 許可されたドメイン {#allowed-domains}
 

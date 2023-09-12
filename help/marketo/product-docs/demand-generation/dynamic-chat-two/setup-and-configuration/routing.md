@@ -4,10 +4,10 @@ title: ルーティング
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 72%
+source-wordcount: '195'
+ht-degree: 70%
 
 ---
 
@@ -61,6 +61,6 @@ ht-degree: 72%
 
 ![](assets/routing-9.png)
 
-チームルーティング
+チームルーティング — 今すぐDELETEするこれらの参照
 
-スマートリストルーティングのメンバー
+スマートリストルーティングのメンバー — 遅延の可能性があります
