@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '9160'
+source-wordcount: '9159'
 ht-degree: 98%
 
 ---
@@ -668,7 +668,6 @@ ht-degree: 98%
          + ライブチャット {#live-chat}
             + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-            + [通知](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + セットアップと設定 {#setup-and-configuration}
             + [初期設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
             + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
