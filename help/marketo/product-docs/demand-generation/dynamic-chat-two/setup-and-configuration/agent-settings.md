@@ -4,9 +4,9 @@ title: エージェント設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 27%
 
 ---
@@ -83,7 +83,7 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
 
 ![](assets/agent-settings-5.png)
 
-アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、(Google Chrome で ) ブラウザー通知が届きます。
+アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザに通知が届きます。
 
 >[!IMPORTANT]
 >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '9156'
+source-wordcount: '9162'
 ht-degree: 98%
 
 ---
@@ -656,7 +656,7 @@ ht-degree: 98%
          + 自動チャット {#automated-chat}
             + [対話型フローの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [対話フローの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [対話型フロー設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Marketo EngageFormsの対話型フロー設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [会話 SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [ダイアログの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [ダイアログの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
@@ -1967,6 +1967,7 @@ ht-degree: 98%
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
+   + [現在のリリース](release-notes/current-test.md)
    + 以前のリリース {#previous-releases}
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)

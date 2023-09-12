@@ -4,10 +4,10 @@ title: エージェントのインボックス
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 5%
+source-wordcount: '367'
+ht-degree: 4%
 
 ---
 
@@ -25,17 +25,24 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->**これは** の [ライブチャットの可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) エージェントの設定でが確立されました。 ステータスは、元の状態に切り替えるか、使用可能な次の時間ブロックに切り替えるまで保持されます。
+>**これは** の [ライブチャットの可用性](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} エージェントの設定でが確立されました。 ステータスは、元の状態に切り替えるか、使用可能な次の時間ブロックに切り替えるまで保持されます。
 
 >[!NOTE]
 >
 >ステータスを [ 使用不可 ] に設定しても、アクティブなチャットには影響しません。
 
-## ライブチャットの受け入れ {#accepting-a-live-chat}
+## ライブチャット通知 {#live-chat-notifications}
 
-ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れるよう求められます。
+ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れを求められます。
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>また、ブラウザー通知を設定するオプションもあります。ブラウザー通知は、Dynamic Chatにログインしていない場合に通知を受け取ります。
+>
+>* でのブラウザー通知の有効化 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* でのブラウザー通知の有効化 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### 注意事項 {#things-to-note}
 

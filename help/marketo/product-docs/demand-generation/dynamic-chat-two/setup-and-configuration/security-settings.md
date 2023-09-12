@@ -4,10 +4,10 @@ title: セキュリティ設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
@@ -19,11 +19,15 @@ ht-degree: 6%
 
 ## ブロックされたメールドメイン {#blocked-email-domains}
 
+エージェントとのやり取りを望まない電子メールドメインを持つ訪問者（競合相手など）がいる場合は、その電子メールドメインをに追加しブロックリストに加えるます。
+
 1. を選択します。 **検証を有効にする** スライダーを使用して、「 」をブロックリストに加えるアクティブにします。 最大 50 個のドメインを入力し、 **保存**.
 
    ![](assets/security-settings-2.png)
 
 ## 許可されたドメイン {#allowed-domains}
+
+許可されたドメインを追加すると、サードパーティは JavaScript をサイトから削除して独自の JavaScript に追加することができなくなります。
 
 1. を選択します。 **検証を有効にする** スライダーを使用して、「 」を許可リストに加えるアクティブにします。 許可されるドメインを入力し、「 **保存**.
 
