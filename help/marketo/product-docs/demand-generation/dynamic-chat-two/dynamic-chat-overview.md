@@ -4,9 +4,9 @@ title: Dynamic Chat の概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '627'
 ht-degree: 94%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 94%
 # Dynamic Chat の概要 {#dynamic-chat-overview}
 
 Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、セールスチームとのミーティングを予約することもできます。Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
-
->[!NOTE]
->
->Dynamic Chat は徐々に展開されている段階にあり、現在は限定で使用可能です。このページは、一般提供（GA）の詳細が利用可能になり次第、更新されます。
 
 >[!TIP]
 >
