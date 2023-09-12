@@ -4,10 +4,10 @@ title: ストリームデザイナー
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 72%
+source-wordcount: '1102'
+ht-degree: 70%
 
 ---
 
@@ -17,7 +17,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
 >[!PREREQUISITES]
 >
->ドキュメントカードを使用する前に、まずアドビアカウントを[設定する](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}必要があります。
+>ドキュメントカードを使用する前に、まずアドビアカウントを[設定する](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"}必要があります。
 
 ## ストリームデザイナーのカード {#stream-designer-cards}
 
@@ -90,7 +90,9 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
 ## ストリームの作成 {#create-a-stream}
 
-1. [ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}した後で、「**ストリームデザイナー**」タブをクリックします。
+ダイアログのストリームを作成するか、 [対話型のForms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. この例では、ダイアログ用に 1 つ作成します。
+
+1. 以下の操作を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}をクリックし、 **ストリームデザイナー** タブをクリックします。
 
    ![](assets/stream-designer-6.png)
 

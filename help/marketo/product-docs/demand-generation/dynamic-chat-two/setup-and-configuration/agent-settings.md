@@ -4,9 +4,9 @@ title: エージェント設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 27%
 
 ---
@@ -64,11 +64,11 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
  <tbody> 
   <tr> 
    <td><b>会議期間</b></td>
-   <td>会議の最大長。  — 何が起こるのですか？ 自動終了しますか？</td>
+   <td>会議の最大長。  — 何が起こるのですか？ ズームのように自動停止しますか？</td>
   </tr> 
   <tr> 
    <td><b>会議間のバッファ時間</b></td>
-   <td>会議後にバッファとして設定した時間。 30 分に設定した場合、予定されているカレンダーの会議終了の 31 分後まで、誰もあなたとの会議を予約することができません。 - 31 または 30???????????</td>
+   <td>会議後にバッファとして設定した時間。 30 分に設定した場合、予定されているカレンダーの会議終了の 30 分後まで、誰もあなたとの会議を予約することができません。</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
 
 ![](assets/agent-settings-5.png)
 
-アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザに通知が届きます。
+アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザーに通知が届きます ( [それを設定する](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}) をクリックします。
 
 >[!IMPORTANT]
 >
->The [可用性の切り替え](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} エージェントインボックス内 **上書きします** [ ライブチャットの可用性 ] タブに入力した内容。 したがって、1p～5p から利用可能にスケジュールされているが、3p ですぐに休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で切り替えるまで、または使用可能な次のブロックに達するまで、保持されます。
+>The [可用性の切り替え](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} エージェントインボックス内 **上書きします** [ ライブチャットの可用性 ] タブに入力した内容。 したがって、1p～5p から利用可能にスケジュールされているが、3p ですぐに休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で変更するか、使用可能な状態の次のブロックに達するまで保持されます。
 
 >[!TIP]
 >

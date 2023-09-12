@@ -4,16 +4,16 @@ title: オーディエンス条件
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 92%
 
 ---
 
 # オーディエンス条件 {#audience-criteria}
 
-Marketo スマートリストと同様に、オーディエンス条件属性を使用すると、ターゲットオーディエンスを定義できます。推測される人、人、会社の属性（またはその組み合わせ）を使用して、既知の人または不明な人をターゲットに設定できます。
+Marketo Engageスマートリストと同様に、オーディエンス条件属性を使用すると、ターゲットオーディエンスを定義できます。 推測される人、人、会社の属性（またはその組み合わせ）を使用して、既知の人または不明な人をターゲットに設定できます。
 
 ## 優先度 {#priority}
 

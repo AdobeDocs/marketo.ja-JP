@@ -4,9 +4,9 @@ title: ライブチャットの概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >ライブチャットカードは、常にブランチの最後のカードである必要があります。 カードがブランチ内の任意のポイントに配置されている場合は、訪問者が突然エージェントに接続すると驚く可能性があります。
 
-**ベストプラクティス**
+### ベストプラクティス {#best-practices}
 
 * ライブチャットカードの前に質問カードを使用して、訪問者に接続を希望するかどうかを尋ねます。
 * 訪問者がの接続に同意したら、情報キャプチャカードを使用して、氏名、E メールアドレス、職位など、情報の一部を収集します。 （少なくとも名と E メールアドレスをリクエストすることをお勧めします）。
@@ -46,7 +46,7 @@ ht-degree: 3%
   </tr>
     <tr> 
    <td><b>カスタムルール</b></td>
-   <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。 訪問者がいずれの条件も満たさない場合、その訪問者はフォールバックルールになります???</td>
+   <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。 訪問者がカスタムルールの対象でない場合、 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットフォールバックメッセージ</a>.</td>
   </tr> 
   <tr> 
    <td><b>チーム</b></td>

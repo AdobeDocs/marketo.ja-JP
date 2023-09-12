@@ -4,10 +4,10 @@ title: ダイアログの概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '163'
+ht-degree: 88%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 ## レポート {#reports}
 
-ダイアログの「[レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}」セクションでは、ダイアログの効果に関する指標を確認できます。
+「レポート」タブでは、ダイアログのパフォーマンスに関する指標を確認できます。
 
 ![](assets/dialogue-overview-3.png)
 

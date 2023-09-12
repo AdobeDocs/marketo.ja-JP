@@ -4,10 +4,10 @@ title: ルーティング
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 70%
+source-wordcount: '231'
+ht-degree: 59%
 
 ---
 
@@ -61,6 +61,18 @@ ht-degree: 70%
 
 ![](assets/routing-9.png)
 
-チームルーティング — 今すぐDELETEするこれらの参照
+### アカウントの追加 {#add-an-account}
 
-スマートリストルーティングのメンバー — 遅延の可能性があります
+この例では、Lego から Steven エージェントにすべての従業員を直接ルーティングします。
+
+1. 「アカウントルーティング」タブで、 **+アカウントを追加**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >一度に複数のアカウントを作成するには、 **顧客リストをアップロード** CSV をアップロードしています。
+
+1. 会社の名前、ドメインを入力し、目的のエージェントを選択します。
+
+   ![](assets/routing-11.png)
