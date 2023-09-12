@@ -4,10 +4,10 @@ title: 最新のリリースノートのテスト
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 14%
+source-wordcount: '897'
+ht-degree: 11%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 14%
 ## アジャイルリリースの機能 {#agile-release-features}
 
 以下のすべての機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ ht-degree: 14%
   </tr> 
   <tr> 
    <td><strong>ストリームデザイナーのアクションカード</strong>：マーケターは、ダイアログストリーム内のアクションカードを使用して、訪問者がダイアログと関わる際に、非表示の値をMarketo Engage人物レコードに渡すことができます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">ストリームデザイナーのカード</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ ht-degree: 14%
   </tr>
    <tr> 
    <td><strong>対話型FormsとMarketo EngageForms</strong>:FormsをMarketo Engage対話型フローと統合して、対話型フローをDynamic Chat化します。 会議の予約、ホワイトペーパーのリンク、カスタム目標に対して、フォームデータまたはスマートリストのメンバーシップを使用して、リードを即座に評価します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会話フォーム</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>会話 SDK</strong>：任意のフォーム、ランディングページ、またはほとんどの Web ページを、魅力的な会議予約エクスペリエンスに変換します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">会話 SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ ht-degree: 14%
   </tr>
   <tr> 
    <td><strong>ユーザー設定の会議予約設定</strong>：エージェントは、使用可否、会議の長さ、会議の間隔の「バッファー時間」など、カスタムの会議予約設定を設定できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">ユーザー設定の会議予約設定</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ ht-degree: 14%
   </tr>
    <tr> 
    <td><strong>フォールバック設定</strong>：管理者は、カスタムのフォールバック設定を設定して、エージェントがチャットに使用できない場合に訪問者に表示する内容を定義できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">フォールバックルール</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>グローバルパフォーマンスダッシュボード</strong>：エンゲージメントとパフォーマンスの指標（合計、経時的変化）、パフォーマンスの高いページ、パフォーマンスの高い上位のダイアログなど、ダイアログのパフォーマンスを確認します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">グローバルパフォーマンスダッシュボード</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ ht-degree: 14%
   </tr>
    <tr> 
    <td><strong>Live Chat</strong>:Web 訪問者は、リアルタイムで販売担当者とチャットして、質問に回答を得ることができます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">ライブチャットの概要</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ ht-degree: 14%
   </tr>
    <tr> 
    <td><strong>Live Chat パフォーマンスダッシュボード</strong>：ライブセールスエージェントが持つ会話の数、および最もパフォーマンスの高いチームを表示します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chat パフォーマンスダッシュボード</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>Marketo Engageスマートリストターゲティング</strong>：マーケターは、ダイアログのオーディエンス条件で、Marketo Engageスマートリストのメンバーをターゲット設定できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">メンバーシップ</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ ht-degree: 14%
   </tr>
   <tr> 
    <td><strong>会議パフォーマンスダッシュボード</strong>：予約されている会議の数と、予約されている会議の人数を確認します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">会議パフォーマンスダッシュボード</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ ht-degree: 14%
   </tr>
    <tr> 
    <td><strong>新しいDynamic Chatアクティビティ</strong>：対話型フロー、ライブチャット、その他の新機能をサポートする新しいアクティビティ。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat のアクティビティ</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>リアルタイムライブチャット通知</strong>：訪問者がライブチャットをリクエストすると、エージェントはアプリ内およびブラウザーでのリアルタイム通知を受け取ります。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">ライブチャット通知</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>チーム</strong>：ライブチャットや会議の予約のために訪問者をルーティングできるエージェントのチームを作成します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">チーム</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ ht-degree: 14%
   </tr>
     <tr> 
    <td><strong>新しいアクティビティのトリガートークン</strong>：新しいトリガートークンを使用して、のDynamic Chatの新しいアクティビティをサポートできます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chatトリガートークン</a></td>
   </tr>
   <tr> 
    <td> </td> 
