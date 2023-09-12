@@ -4,7 +4,7 @@ title: 最新のリリースノートのテスト
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 14%
@@ -22,7 +22,6 @@ ht-degree: 14%
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
 以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます。 **2023 年 9 月 9 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ ht-degree: 14%
 
 以下のすべての機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">機能</th> 
@@ -89,7 +88,7 @@ ht-degree: 14%
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">機能</th> 
