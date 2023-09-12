@@ -4,10 +4,10 @@ title: ルーティング
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,10 @@ ht-degree: 59%
 ラウンドロビン：会議はエージェントに順次割り当てられます。エージェントが 5 人いてエージェント 3 が最後の会議に出席した場合、エージェント 4 が次の会議に出席し、次にエージェント 5 がその次の会議に出席し、その後はエージェント 1 に戻ります。
 
 カスタムルール：選択した属性に基づいて、特定のエージェントを選択して会議を割り当てることができます。
+
+>[!NOTE]
+>
+>最も優先度が高いアカウントルーティングが指定されます。 訪問者が会話のポイントに到達して、会議を予約したり、ライブチャットを開始したりしたとき。 [アカウントルーティング](#account-routing) は、他のルーティングオプションが考慮される前に最初にチェックされます。
 
 ## カスタムルールの作成 {#create-a-custom-rule}
 
