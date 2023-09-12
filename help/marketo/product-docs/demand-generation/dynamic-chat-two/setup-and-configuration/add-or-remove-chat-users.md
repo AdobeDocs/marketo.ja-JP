@@ -4,7 +4,7 @@ title: チャットユーザーの追加または削除
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## チャットユーザーを追加 {#add-a-chat-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ ht-degree: 100%
 
 ## チャットユーザーを削除 {#remove-a-chat-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/).にログインします。
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html)
->* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

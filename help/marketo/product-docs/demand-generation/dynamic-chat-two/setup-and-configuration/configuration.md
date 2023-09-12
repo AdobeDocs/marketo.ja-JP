@@ -4,10 +4,10 @@ title: 設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 83%
+ht-degree: 78%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 83%
 
 ここでは、色、フォント、ボットウィジェットの配置、およびチャットボットの名前/アバターなど、ダイアログが表示されるチャットボットのルックアンドフィールを定義します。
 
-各カテゴリのカラーは、[16 進数のカラー値](https://color.adobe.com/create/color-wheel)（例：白 = #ffffff、赤 = #bf1932 など）で特定されます。
+各カテゴリの色は、 [16 進数のカラー値](https://color.adobe.com/create/color-wheel){target="_blank"} ( 例：白= #ffffff、赤= #bf1932など )。
 
 ![](assets/configuration-3.png)
 

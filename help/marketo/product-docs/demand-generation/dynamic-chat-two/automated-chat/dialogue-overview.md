@@ -4,10 +4,10 @@ title: ダイアログの概要
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 88%
+source-wordcount: '254'
+ht-degree: 92%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 88%
 
 ## オーディエンス条件 {#audience-criteria}
 
-ダイアログの「[オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}」セクションでは、チャット会話を表示する場所と対象者を定義します
+ダイアログの「[オーディエンス条件](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}」セクションでは、チャット会話を表示する場所と対象者を定義します
 
 ![](assets/dialogue-overview-1.png)
 
 ## ストリームデザイナー {#stream-designer}
 
-ダイアログの「[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}」セクションで、web サイト訪問者との会話をデザインできます。
+ダイアログの「[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}」セクションで、web サイト訪問者との会話をデザインできます。
 
 ![](assets/dialogue-overview-2.png)
 
@@ -32,6 +32,34 @@ ht-degree: 88%
 「レポート」タブでは、ダイアログのパフォーマンスに関する指標を確認できます。
 
 ![](assets/dialogue-overview-3.png)
+
+<table>
+ <tr>
+  <td><strong>トリガーされた合計</strong></td>
+  <td>訪問者がダイアログに資格を与えるたびに、または表示されるたびに増分されます。
+</td>
+ </tr>
+ <tr>
+  <td><strong>エンゲージ済</strong></td>
+  <td>訪問者がダイアログ内の少なくとも 1 つのカード（質問、情報キャプチャなど）とやり取りすると増分されます。</td>
+ </tr>
+ <tr>
+  <td><strong>完了</strong></td>
+  <td>訪問者がダイアログのブランチの終わりに達するたびに増分されます。</td>
+ </tr>
+ <tr>
+  <td><strong>獲得した担当者</strong></td>
+  <td>訪問者がダイアログフローで有効な電子メールアドレスを指定するたびに増分されます。</td>
+ </tr>
+ <tr>
+  <td><strong>予約済みの会議</strong></td>
+  <td>訪問者がチャットボット経由で予定のスケジュールを正常に設定するたびに増分します。</td>
+ </tr>
+ <tr>
+  <td><strong>達した目標</strong></td>
+  <td>訪問者がダイアログフローの目標に達するたびに増分します。</td>
+ </tr>
+</table>
 
 ## すべてのダイアログを無効／有効にする {#disable-enable-all-dialogues}
 
@@ -44,4 +72,3 @@ ht-degree: 88%
 1. **チャットを有効**&#x200B;切替スイッチで、すべてのダイアログを無効（または再度有効）にできます。
 
    ![](assets/dialogue-overview-5.png)
-

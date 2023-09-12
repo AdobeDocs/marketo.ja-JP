@@ -4,9 +4,9 @@ title: オーディエンス条件
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 92%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engageスマートリストと同様に、オーディエンス条件属
 
 ## 優先度 {#priority}
 
-優先度複数該当する場合に、リードが受け取るダイアログを決定します。最初に[ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}するときに設定されます。既存のダイアログの優先順位を変更するには、そのダイアログを開き、「**オーディエンス条件**」タブのダイアログの詳細を表示します。
+優先度複数該当する場合に、リードが受け取るダイアログを決定します。最初に[ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}するときに設定されます。既存のダイアログの優先順位を変更するには、そのダイアログを開き、「**オーディエンス条件**」タブのダイアログの詳細を表示します。
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
 
    >[!NOTE]
    >
-   >Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
+   >Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
 
 1. 「_次に該当_」はデフォルトで設定されています。「値を選択」フィールドに「NY」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
 
@@ -136,7 +136,5 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
 
 >[!MORELIKETHIS]
 >
->* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [レポート](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [ダイアログの作成](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

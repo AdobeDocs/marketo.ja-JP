@@ -4,7 +4,7 @@ title: 初期設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
@@ -25,12 +25,12 @@ ht-degree: 100%
 
    ![](assets/initial-setup-1.png)
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html)します。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
    ![](assets/initial-setup-2.png)
 
 ## ユーザーの追加 {#add-users}
 
-1. Admin Console にログインしたら、次にユーザーを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)で文書化されています。
+1. Admin Console にログインしたら、次にユーザーを追加します。プロセスは[こちら](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}で文書化されています。
 
-次に、[Dynamic Chat を Marketo に接続](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)します。
+次に、[Dynamic Chat を Marketo に接続](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md){target="_blank"}します。
