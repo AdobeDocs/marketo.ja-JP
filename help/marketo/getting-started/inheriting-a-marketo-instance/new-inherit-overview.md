@@ -3,10 +3,10 @@ description: 継承した既存のMarketo Engageインスタンスを最適化�
 title: 継承されたMarketo Engageインスタンスをすぐに開始
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 29%
+source-wordcount: '318'
+ht-degree: 19%
 
 ---
 
@@ -14,21 +14,23 @@ ht-degree: 29%
 
 新しいジョブを開始しますか。それとも、別の管理者から既存のインスタンスを引き継ぎますか。 しばらく実行されているライブインスタンスを引き継ぐと、少し困難に見える場合がありますが、このガイドはすぐに使い始めるのに役立ちます。
 
-## 確認すべき項目 {#items-to-check-off}
+## Marketing Nation のセットアップ {#get-set-up-in-the-marketing-nation}
 
-適切な種類のアクセスと情報で適切に設定されていることを確認します。
+Marketoコミュニティでが正しく設定されていることを確認してください。
 
-* の概要を簡単に見る **Marketoとは** - KG — より良いビデオまたはDELETEを見つける
+* **[プロファイルの設定]**(https://nation.marketo.com/){target="_blank"}.
 
-* [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} コミュニティの&#x200B;**プロファイルを設定**&#x200B;する（ユーザー名とパスワードが必要です）。
+* [**プロファイルの設定**](https://nation.marketo.com/){target="_blank"}.
+
+* **[プロファイルの設定](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[プロファイルの設定](https://nation.marketo.com/){target="_blank"}**.
 
 * 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Marketo Nation コミュニティプロファイルの「**[!UICONTROL 場所]**」をクリックして、会社のアカウントページを確認する。
 
 * [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}方法を参照してください）。
-
-* [**ユーザーを管理**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"}&#x200B;し、会社を離れたユーザーを削除する。
 
 ## 継承されたインスタンス監査ガイド {#inherited-instance-audit-guides}
 
