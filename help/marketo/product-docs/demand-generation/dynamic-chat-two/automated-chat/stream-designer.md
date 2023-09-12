@@ -4,10 +4,10 @@ title: ストリームデザイナー
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
-ht-degree: 82%
+source-wordcount: '1084'
+ht-degree: 72%
 
 ---
 
@@ -39,15 +39,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td><strong>情報取得</strong></td>
-  <td>情報を収集する場合に使用します。選択できる 3 つのフィールドは、「電子メールアドレス」、「電話番号」、「テキスト」（訪問者が独自のメッセージを書き込むことができる）です。</td>
- </tr>
- <tr>
-  <td><strong>予定スケジューラー</strong></td>
-  <td>訪問者に、フォローアップをスケジュールするために使用可能な日付のカレンダーを提供します。カレンダーの可用性は<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">次のエージェント</a>を反映します。また、エージェントの名前や E メールアドレスなどの属性を渡すオプションもあります。</td>
+  <td>情報（名前、E メールアドレス、職位など）を収集する場合に使用します。 応答を関連付けるフィールドを選択した後、訪問者に応答を入力させるか、または決定した選択リストからオプションを選択できます（ヒント：後者はデータベースの清潔さを助けることができます）。 また、現在リストされているデータをその回答で上書きするか、値が既にある場合は質問を完全にスキップするかを選択できます。</td>
  </tr>
  <tr>
   <td><strong>会議の予約</strong></td>
-  <td>訪問者に、会議をスケジュールするために使用可能な日付のカレンダーを提供します。 ラウンドロビン、特定のエージェントの、またはカスタムルールを使用して、カレンダーの可用性を選択します。</td>
+  <td>訪問者に、会議をスケジュールするために使用可能な日付のカレンダーを提供します。 ラウンドロビン、特定のエージェント、またはカスタムルールを使用して、カレンダーの可用性を選択します。 クリック <b>属性を追加</b> エージェントの名前または電子メールアドレスを取り込み、将来のクエリ用に chat 訪問者の個人レコードに割り当てる場合 ( ヒント： <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> エージェントの情報をにマッピングして、標準の「Marketo Engage」フィールドを上書きしないようにする )。</td>
  </tr>
  <tr>
   <td><strong>ゴール</strong></td>

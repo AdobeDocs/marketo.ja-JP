@@ -4,10 +4,10 @@ title: 最新のリリースノートのテスト
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 22%
+source-wordcount: '1209'
+ht-degree: 20%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 22%
 
 <table>
   <tr> 
-   <td><b>機能</b></td>
-   <td><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td>
+   <td style="width:20%"><b>機能</b></td>
+   <td style="width:80%"><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td>
   </tr>
   <tr> 
    <td><b>ステータス</b></td>
@@ -58,9 +58,9 @@ ht-degree: 22%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>機能</th> 
-   <th>ステータス</th>
-   <th>ドキュメント</th>
+   <th style="width:70%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:15%">ドキュメント</th>
   </tr> 
   <tr> 
    <td><strong>Marketo Reference Library</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
@@ -80,9 +80,44 @@ ht-degree: 22%
  </tbody> 
 </table>
 
+* space
 
+* space
 
+* スペースを増やす
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Reference Library</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">プログラムインポートライブラリの概要</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* space
+
+* space
+
+* スペースを増やす
+
+* テストの終了…当面の間
 
 * **デザインスタジオアセットのカウント列で使用**:
 
