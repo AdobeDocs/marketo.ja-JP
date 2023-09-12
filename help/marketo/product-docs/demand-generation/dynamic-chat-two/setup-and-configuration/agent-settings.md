@@ -4,9 +4,9 @@ title: エージェント設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 27%
 
 ---
@@ -64,7 +64,7 @@ Googleでの設定では、次の権限をDynamic Chatに付与します。
  <tbody> 
   <tr> 
    <td><b>会議期間</b></td>
-   <td>会議の最大長。  — 何が起こるのですか？ ズームのように自動停止しますか？</td>
+   <td>使用可能な会議スロットに訪問者が表示される時間の長さを指定します。</td>
   </tr> 
   <tr> 
    <td><b>会議間のバッファ時間</b></td>
