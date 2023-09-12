@@ -4,9 +4,9 @@ title: Marketo EngageFormsの対話フロー設定
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 7%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 7%
 # Marketo EngageFormsの対話フロー設定{#conversational-flow-settings-for-marketo-engage-forms}
 
 Marketo EngageFormsを対話型フローと統合して、対話型フローをDynamic Chatにします。 会議の予約、ホワイトペーパーのリンク、カスタム目標に対して、フォームデータまたはスマートリストのメンバーシップを使用して、リードを即座に評価します。
-
->[!PREREQUISITES]
->
->ここに前提条件を追加
 
 >[!AVAILABILITY]
 >

@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 25%
 
 ---
@@ -328,6 +328,6 @@ ht-degree: 25%
 
 ## お知らせ {#announcements}
 
-* **デザインスタジオアセットの切り替えの廃止**：ユーザーが Design Studio のクラシックインターフェイスと Modern UX エクスペリエンスを切り替えられる切り替えスイッチは、Design Studio の古いバージョンと共に廃止され、ユーザーが Modern UX エクスペリエンスに完全に移行できるようになります。
+* **デザインスタジオアセットの切り替えの廃止**：ユーザーが Design Studio のクラシックインターフェイスと Modern UX エクスペリエンスを切り替えられる切り替えスイッチは、Design Studio の古いバージョンと共に廃止され、ユーザーが Modern UX エクスペリエンスに完全に移行できるようになります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}。
 
 * **_製品リリースウェビナー_**:2023 年 9 月 6 日（太平洋標準時の午前 9 時/午後 12 時）に参加して、 [ライブウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} アドビの製品チームが主催し、最新の製品イノベーションの使用方法をすべてご覧いただけます。

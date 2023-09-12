@@ -4,9 +4,9 @@ title: 最新のリリースノートのテスト
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 20%
 
 ---
@@ -117,11 +117,9 @@ ht-degree: 20%
 
 * スペースを増やす
 
-* テストの終了…当面の間
-
 * **デザインスタジオアセットのカウント列で使用**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
@@ -135,7 +133,7 @@ ht-degree: 20%
 
 * **デザインスタジオアセットのタブ拡張で使用**:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
@@ -146,6 +144,12 @@ ht-degree: 20%
   </tr>
   </tbody>
 </table>
+
+* space
+
+* スペースを増やす
+
+* テストの終了…当面の間
 
 * **数式フローステップサービスを計算**：計算式は、Adobeの IO Runtime プラットフォームに基づいて構築された、Marketo Engageスマートキャンペーンで使用するフローステップサービスです。 IO ランタイムを持つAdobeクライアントは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールし、Marketoスマートキャンペーンで Excel のような数式を計算できます。
 
