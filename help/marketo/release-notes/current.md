@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 25%
+source-wordcount: '904'
+ht-degree: 12%
 
 ---
 
@@ -20,311 +20,240 @@ ht-degree: 25%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます。 **2023 年 9 月 9 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
+以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます。 **2023 年 9 月 9 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-</br>
-
-* **Marketo Reference Library**:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。
-
-<table>
+<table style="table-layout:auto"> 
+ <tbody> 
   <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
   <tr> 
+   <td><strong>Marketo Reference Library</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">プログラムインポートライブラリの概要</a></td>
   </tr>
-  </tbody>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>デザインスタジオアセットのタブ拡張で使用</strong>:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>数式フローステップサービスを計算</strong>：計算式は、Adobeの IO Runtime プラットフォームに基づいて構築された、Marketo Engageスマートキャンペーンで使用するフローステップサービスです。 IO ランタイムを持つAdobeクライアントは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールし、Marketoスマートキャンペーンで Excel のような数式を計算できます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+ </tbody> 
 </table>
 
-* **デザインスタジオアセットのカウント列で使用**：デザインスタジオのリストビューの「使用者数」列では、考慮中のアセットを使用しているアセットの数と数が強調表示されます。 これは、スニペット、電子メールテンプレート、Forms、ランディングページテンプレートに適用されます。
+## アジャイルリリースの機能 {#agile-release-features}
 
-<table> 
+以下のすべての機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
+
+<table style="border: none">
+ <tbody> 
   <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
   <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **デザインスタジオアセットのタブ拡張で使用**:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **数式フローステップサービスを計算**：計算式は、Adobeの IO Runtime プラットフォームに基づいて構築された、Marketo Engageスマートキャンペーンで使用するフローステップサービスです。 IO ランタイムを持つAdobeクライアントは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールし、Marketoスマートキャンペーンで Excel のような数式を計算できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-## アジャイルリリースの機能
-
-以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
-
-* **MarketoとWorkfrontの統合**:MarketoとWorkfrontをお持ちの方は、 Workfront Fusion テンプレートを使用して 2 つの製品を統合し、新しい自動化ワークフローをロック解除して、キャンペーンの実行を合理化できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
+   <td><strong>MarketoとWorkfrontの統合</strong>:MarketoとWorkfrontをお持ちの方は、 Workfront Fusion テンプレートを使用して 2 つの製品を統合し、新しい自動化ワークフローをロック解除して、キャンペーンの実行を合理化できます。</td> 
    <td>リリース済み</td>
    <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">ブループリントを確認して承認</a></td>
   </tr>
-  </tbody>
+ </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
-</br>
-
-* **ストリームデザイナーのアクションカード**：マーケターは、ダイアログストリーム内のアクションカードを使用して、訪問者がダイアログと関わる際に、非表示の値をMarketo Engage人物レコードに渡すことができます。
-
-<table> 
+<table style="border: 0px">
+ <tbody> 
   <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
+  <tr> 
+   <td><strong>ストリームデザイナーのアクションカード</strong>：マーケターは、ダイアログストリーム内のアクションカードを使用して、訪問者がダイアログと関わる際に、非表示の値をMarketo Engage人物レコードに渡すことができます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">ストリームデザイナーのカード</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>対話型FormsとMarketo EngageForms</strong>:FormsをMarketo Engage対話型フローと統合して、対話型フローをDynamic Chat化します。 会議の予約、ホワイトペーパーのリンク、カスタム目標に対して、フォームデータまたはスマートリストのメンバーシップを使用して、リードを即座に評価します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会話フォーム</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>会話 SDK</strong>：任意のフォーム、ランディングページ、またはほとんどの Web ページを、魅力的な会議予約エクスペリエンスに変換します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">会話 SDK</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
   <tr> 
+   <td><strong>ユーザー設定の会議予約設定</strong>：エージェントは、使用可否、会議の長さ、会議の間隔の「バッファー時間」など、カスタムの会議予約設定を設定できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">ユーザー設定の会議予約設定</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>フォールバック設定</strong>：管理者は、カスタムのフォールバック設定を設定して、エージェントがチャットに使用できない場合に訪問者に表示する内容を定義できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">フォールバックルール</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>グローバルパフォーマンスダッシュボード</strong>：エンゲージメントとパフォーマンスの指標（合計、経時的変化）、パフォーマンスの高いページ、パフォーマンスの高い上位のダイアログなど、ダイアログのパフォーマンスを確認します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#global-performance-dashboard" target="_blank">グローバルパフォーマンスダッシュボード</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Live Chat</strong>:Web 訪問者は、リアルタイムで販売担当者とチャットして、質問に回答を得ることができます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">ライブチャットの概要</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Live Chat パフォーマンスダッシュボード</strong>：ライブセールスエージェントが持つ会話の数、および最もパフォーマンスの高いチームを表示します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chat パフォーマンスダッシュボード</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Marketo Engageスマートリストターゲティング</strong>：マーケターは、ダイアログのオーディエンス条件で、Marketo Engageスマートリストのメンバーをターゲット設定できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#membership" target="_blank">メンバーシップ</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>会議パフォーマンスダッシュボード</strong>：予約されている会議の数と、予約されている会議の人数を確認します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#meeting-performance-dashboard" target="_blank">会議パフォーマンスダッシュボード</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>新しいDynamic Chatアクティビティ</strong>：対話型フロー、ライブチャット、その他の新機能をサポートする新しいアクティビティ。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Dynamic Chat のアクティビティ</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>リアルタイムライブチャット通知</strong>：訪問者がライブチャットをリクエストすると、エージェントはアプリ内およびブラウザーでのリアルタイム通知を受け取ります。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">ライブチャット通知</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>チーム</strong>：ライブチャットや会議の予約のために訪問者をルーティングできるエージェントのチームを作成します。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#teams" target="_blank">チーム</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>新しいアクティビティのトリガートークン</strong>：新しいトリガートークンを使用して、のDynamic Chatの新しいアクティビティをサポートできます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chatトリガートークン</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>対話型フローアセットページ</strong>:Design Studio アセットページに「対話フロー」Dynamic Chatが表示されるようになりました。 どのフローをMarketo Engageアセットに統合できるかを確認し、エディターに直接ディープリンクします。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
-  </tbody>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Sales Insight アクションの通知</strong>:Sales Insight アクションを持つエージェントは、Sales Insight アクションパネルでリアルタイムのライブチャットリクエスト通知を受け取ります。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+ </tbody> 
 </table>
-
-* **対話型フローアセットページ**:Design Studio アセットページに「対話フロー」Dynamic Chatが表示されるようになりました。 どのフローをMarketo Engageアセットに統合できるかを確認し、エディターに直接ディープリンクします。
-
-<table>
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **対話型FormsとMarketo EngageForms**:FormsをMarketo Engage対話型フローと統合して、対話型フローをDynamic Chat化します。 会議の予約、ホワイトペーパーのリンク、カスタム目標に対して、フォームデータまたはスマートリストのメンバーシップを使用して、リードを即座に評価します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **会話 SDK**：任意のフォーム、ランディングページ、またはほとんどの Web ページを、魅力的な会議予約エクスペリエンスに変換します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **ユーザー設定の会議予約設定**：エージェントは、使用可否、会議の長さ、会議の間隔の「バッファー時間」など、カスタムの会議予約設定を設定できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **フォールバック設定**：管理者は、カスタムのフォールバック設定を設定して、エージェントがチャットに使用できない場合に訪問者に表示する内容を定義できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **グローバルパフォーマンスダッシュボード**：エンゲージメントとパフォーマンスの指標（合計、経時的変化）、パフォーマンスの高いページ、パフォーマンスの高い上位のダイアログなど、ダイアログのパフォーマンスを確認します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Live Chat**:Web 訪問者は、リアルタイムで販売担当者とチャットして、質問に回答を得ることができます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Live Chat パフォーマンスダッシュボード**：ライブセールスエージェントが持つ会話の数、および最もパフォーマンスの高いチームを表示します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engageスマートリストターゲティング**：マーケターは、ダイアログのオーディエンス条件で、Marketo Engageスマートリストのメンバーをターゲット設定できます。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **会議パフォーマンスダッシュボード**：予約されている会議の数と、予約されている会議の人数を確認します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **新しいDynamic Chatアクティビティ**：対話型フロー、ライブチャット、その他の新機能をサポートする新しいアクティビティ。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **リアルタイムライブチャット通知**：訪問者がライブチャットをリクエストすると、エージェントはアプリ内およびブラウザーでのリアルタイム通知を受け取ります。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Sales Insight アクションの通知**:Sales Insight アクションを持つエージェントは、Sales Insight アクションパネルでリアルタイムのライブチャットリクエスト通知を受け取ります。
-
-<table>
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **チーム**：ライブチャットや会議の予約のために訪問者をルーティングできるエージェントのチームを作成します。
-
-<table> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **新しいアクティビティのトリガートークン**：新しいトリガートークンを使用して、のDynamic Chatの新しいアクティビティをサポートできます。
-
-<table style="margin-left:10px" width="400px"> 
-  <tr> 
-   <td><b>ステータス</b></td>
-   <td><b>ドキュメントの更新</b></td>
-  </tr>
-  <tr> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  </tbody>
-</table>
+<br/>
 
 ## お知らせ {#announcements}
 

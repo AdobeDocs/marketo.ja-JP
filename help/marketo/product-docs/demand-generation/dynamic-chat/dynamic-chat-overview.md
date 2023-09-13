@@ -1,12 +1,11 @@
 ---
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
-exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
+source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 94%
 
 ---
 
@@ -16,11 +15,11 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、w
 
 >[!TIP]
 >
->[このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ja)を参照して、Dynamic Chat のチュートリアルビデオを表示します。
+>[このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ja)を参照して、Dynamic Chat のチュートリアルビデオを表示します。{target="_blank"}
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)が完了するまでに最大 24 時間かかる場合があります。
+Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}が完了するまでに最大 24 時間かかる場合があります。
 
 以下が同期されます。
 
@@ -30,23 +29,27 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}。
+ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
 
 ## 設定 {#configuration}
 
-「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}。
+「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
 
 ## カレンダー {#calendar}
 
-Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。[カレンダーの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。[カレンダーの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[ミーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[ミーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。[ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。[ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+
+## ライブチャット {#live-chat}
+
+を通じてセールス担当者と連携するための適格な Web 訪問者を提供する [ライブチャット](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## よくある質問 {#faq}
 
@@ -56,7 +59,7 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日です（制限の完全なリストは、[以下](#limits-in-dynamic-chat)を参照）。
+90 日です。
 
 **Dynamic Chat はライブチャットを許可していますか？**
 
@@ -100,90 +103,29 @@ Dynamic Chat の言語を変更するには、以下の手順に従います。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
-## Dynamic Chat の制限 {#limits-in-dynamic-chat}
+## Dynamic Chatデータ保持の制限 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>パラメーター</th>
-  <th>説明</th>
-  <th>制限</th>
+  <th>データタイプ</th>
+  <th>保持期間</th>
  <tr>
-  <td>ダイアログ総数</td>
-  <td>ダイアログの数（公開および下書き）</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>カレンダー総数</td>
-  <td>接続されているカレンダーの数</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>ユーザー総数（管理者およびマーケティングユーザー）</td>
-  <td>Dynamic Chat インスタンスごとに許可される結合ユーザー数</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>公開済みダイアログ</td>
-  <td>保存された公開済みダイアログの数</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>ダイアログごとのターゲット URL</td>
-  <td>単一のダイアログに追加できるターゲット URL の数</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>ダイアログごとの属性</td>
-  <td>単一のダイアログのオーディエンス条件に追加できる属性の数</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>グループ</td>
-  <td>単一のダイアログに追加できるグループの数</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>グループごとの属性</td>
-  <td>グループに追加できる属性の数</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>カード</td>
-  <td>ダイアログごとにキャンバスに追加できるカードの数</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>匿名リードデータの保持期間</td>
-  <td>エンゲージメントのない匿名リードの情報が保持される期間</td>
+  <td>エンゲージメントのない匿名リード</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>目標アクティビティの保持期間</td>
-  <td>目標アクティビティデータの保持期間</td>
+  <td>目標アクティビティ</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ドキュメントアクティビティの保持期間</td>
-  <td>ドキュメントのアクティビティデータが保持される期間</td>
+  <td>ドキュメントアクティビティ</td>
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ダイアログアクティビティの保持期間に関するインタラクション</td>
-  <td>ダイアログアクティビティデータとのやり取りの保持期間</td>
+  <td>ダイアログアクティビティとのやり取り</td>
   <td>90 日間</td>
  </tr>
  <tr>
-  <td>会議予約アクティビティの保持期間</td>
-  <td>会議予約アクティビティが Dynamic Chat に保存される時間</td>
+  <td>会議の予約アクティビティ</td>
   <td>24 か月</td>
- </tr>
- <tr>
-  <td>エンゲージされた会話</td>
-  <td>Web 訪問者が 1 か月にエンゲージできるチャット会話の数</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>トリガーされた会話</td>
-  <td>Web 訪問者に 1 か月に表示できるチャットの会話数</td>
-  <td>25,000</td>
  </tr>
 </table>

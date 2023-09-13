@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '9158'
+source-wordcount: '9107'
 ht-degree: 98%
 
 ---
@@ -647,56 +647,34 @@ ht-degree: 98%
          + [Google カスタマーマッチを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + DYNAMIC CHAT2 {#dynamic-chat-two}
-         + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
-         + [チャットボットの動作](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
-         + [会議リスト](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
-         + [Marketo Measure Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
-         + 自動チャット {#automated-chat}
-            + [対話型フローの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
-            + [対話フローの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
-            + [Marketo EngageFormsの対話型フロー設定](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
-            + [ダイアログの作成](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
-            + [オーディエンス条件](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
-            + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
-         + 統合 {#integrations}
-            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
-            + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
-         + ライブチャット {#live-chat}
-            + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
-            + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
-         + セットアップと設定 {#setup-and-configuration}
-            + [初期設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
-            + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
-            + [設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
-            + [エージェント設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
-            + [エージェント管理](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
-            + [セキュリティ設定](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
-            + [ルーティング](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
-         + [挿入を解放](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [初期設定](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
-         + [ブラウザー通知](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
-         + [設定](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
+         + [会議リスト](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + 予定のスケジュール {#appointment-scheduling}
-            + [カレンダー](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
-            + [会議](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
-            + [ルーティング](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
+         + [Marketo Measure Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + 自動チャット {#automated-chat}
+            + [対話型フローの概要](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
+            + [対話フローの作成](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
+            + [Marketo EngageFormsの対話型フロー設定](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
+            + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
+            + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
+            + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
          + 統合 {#integrations}
-            + [Dynamic Chat の Marketo への接続](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
-            + [ドキュメントカードの使用](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
-         + ダイアログ {#dialogues}
-            + [ダイアログの概要](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
-            + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
-            + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [レポート](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
+         + ライブチャット {#live-chat}
+            + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
+            + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+         + セットアップと設定 {#setup-and-configuration}
+            + [初期設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [エージェント設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [エージェント管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [セキュリティ設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [ルーティング](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
       + イベント {#events}
          + イベントについて {#understanding-events}
             + [イベントプログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -1964,7 +1942,6 @@ ht-degree: 98%
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
-   + [現在のリリース](release-notes/current-test.md)
    + 以前のリリース {#previous-releases}
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
