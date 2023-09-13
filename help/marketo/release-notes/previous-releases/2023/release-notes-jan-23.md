@@ -3,7 +3,7 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -142,7 +142,7 @@ ht-degree: 100%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">カレンダー</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">カレンダー</a></td>
   </tr>
   </tbody>
 </table>
@@ -184,7 +184,7 @@ ht-degree: 100%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">会議</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">会議</a></td>
   </tr>
   </tbody>
 </table>
