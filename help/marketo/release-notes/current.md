@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 12%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 12%
   </tr>
   <tr> 
    <td><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ ht-degree: 12%
   </tr>
    <tr> 
    <td><strong>デザインスタジオアセットのタブ拡張で使用</strong>:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
    <tr> 
    <td> </td> 
