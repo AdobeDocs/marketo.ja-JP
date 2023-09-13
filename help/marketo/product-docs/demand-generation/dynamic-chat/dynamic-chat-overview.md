@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 94%
+source-wordcount: '654'
+ht-degree: 90%
 
 ---
 
@@ -50,6 +50,10 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 ## ライブチャット {#live-chat}
 
 を通じてセールス担当者と連携するための適格な Web 訪問者を提供する [ライブチャット](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+
+## 対話フロー {#conversational-flow}
+
+[会話のデザイン](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 指定したアクション（フォームへの入力、リンクのクリックなど）に基づいて訪問者がトリガーできるもの。
 
 ## よくある質問 {#faq}
 

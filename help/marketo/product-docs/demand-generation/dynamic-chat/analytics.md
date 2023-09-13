@@ -2,7 +2,7 @@
 description: Analytics - Marketoドキュメント — 製品ドキュメント
 title: Marketo Measure Analytics
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
@@ -43,6 +43,6 @@ ht-degree: 1%
 
 ![](assets/analytics-6.png)
 
-ダイアログ、対話フロー、またはすべてを表示します。 プリセットまたはカスタムの日付範囲を選択します。 「 」ボタンをクリックして、結果をエクスポートします。
+ダイアログ、対話フロー、またはすべてを表示します。 プリセットまたはカスタムの日付範囲を選択します。 ボタンをクリックして結果をエクスポートします。
 
 ![](assets/analytics-7.png)
