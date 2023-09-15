@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの作成 - Marketo ドキ�
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '148'
+ht-degree: 63%
 
 ---
 
@@ -26,9 +26,13 @@ ht-degree: 100%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 「チャネル」ドロップダウンをクリックし、「**ウェビナー**」を選択します。
+1. 「チャネル」ドロップダウンをクリックし、 _ウェビナー付きのイベント_ を設定します。 この例では、「 **ウェビナー**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >適用先のチャネルを確認するには _ウェビナー付きのイベント_&#x200B;に移動します。 **管理者** > **タグ**. 「適用先」は中央の列にする必要があります。 の手順 5 の「適用先」についての詳細 [この記事](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. 「**インタラクティブウェビナー**」を選択し、「**次へ**」をクリックします。
 
@@ -46,6 +50,6 @@ ht-degree: 100%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-インタラクティブウェビナーが作成されます。次はいよいよ[ウェビナーの設計](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)です。
+インタラクティブウェビナーが作成されます。次はいよいよ[ウェビナーの設計](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}です。
 
 ![](assets/create-an-interactive-webinar-8.png)
