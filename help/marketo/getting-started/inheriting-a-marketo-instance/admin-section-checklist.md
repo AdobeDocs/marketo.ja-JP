@@ -3,9 +3,9 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 6%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 6%
    <td><li>Marketo Engage配信登録がに移行されているか。 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> まだ？ 
 <br/>     その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
 <li>「製品管理者のMarketo Engage」招待を受け入れましたか？ 役割がAdobe Admin Consoleで割り当てられると、電子メールが送信されます。
-<br/>     そうでない場合は、を探します。 <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">お知らせメール</a> を受信トレイに入れ、招待を受け入れてAdobe IDをアクティベートします。</li></td>
+<br/>     そうでない場合は、を探します。 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">お知らせメール</a> を受信トレイに入れ、招待を受け入れてAdobe IDをアクティベートします。</li></td>
   </tr>
   <tr> 
    <td>製品プロファイル</td> 
