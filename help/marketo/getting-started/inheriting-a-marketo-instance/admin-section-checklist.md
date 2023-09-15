@@ -3,22 +3,26 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 6%
 
 ---
 
 # 継承されたインスタンス：管理セクションのチェックリスト {#inherited-instance-admin-section-checklist}
 
-以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、すばやく習得できるよう、Marketo Champions の入力と共に組み立てられました。 また、チェックリストをダウンロードして、進行状況を追跡することもできます。
+以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、Marketo Champions の入力を得てAdobe Professional Servicesでまとめられ、迅速に作業を進めるのに役立ちます。 また、チェックリストをダウンロードして、進行状況を追跡することもできます。
 
 >[!TIP]
 >
 >新規のMarketo Engageユーザーで、多くの用語に精通していない場合は、 [Marketo Engage用語集](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>これは、にオンボーディングされたサブスクリプションにのみ適用されます [AdobeIdentity Managementシステム (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} (Marketo Engage/管理者/ユーザーとロール )。
 
 <table> 
  <tbody> 
@@ -28,22 +32,22 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>サブスクリプション</td> 
-   <td><li>Marketo Engageの配信登録： <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">AdobeIdentity Management System</a> (Adobe IMS) まだ？ 
-<br/>     その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。<br/>     そうでない場合は、 <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">従来のユーザーの役割と権限のエクスペリエンス</a> Marketo Engage/管理者/ユーザーとロールで、購読が更新されるまで。</li></td>
+   <td><li>Marketo Engage配信登録がに移行されているか。 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> まだ？ 
+<br/>     その場合、「Adobe Admin Console System Admin」の役割が「Adobe Admin Console」に付与されていますか。 組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
+<li>「製品管理者のMarketo Engage」招待を受け入れましたか？ 役割がAdobe Admin Consoleで割り当てられると、電子メールが送信されます。
+<br/>     そうでない場合は、を探します。 <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">お知らせメール</a> を受信トレイに入れ、招待を受け入れてAdobe IDをアクティベートします。</li></td>
   </tr>
   <tr> 
    <td>製品プロファイル</td> 
-   <td>(Adobe IMSの申込み <b>のみ</b>)
-<p>
-<li>Marketo Engage/管理者/ユーザーとロールで「Marketo Engage製品管理者」の役割が付与されていますか？</li> 
-<li>Adobe Admin Console内のすべての適切なMarketo Engageの製品プロファイルに製品を割り当てているか。
-<br/>     そうでない場合は、Marketo Engage/管理者/ユーザーとロールでロールを割り当てる前に、Marketo EngageをAdobe IMS製品プロファイルに割り当ててください。</li>
-<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：サブスクリプションに 75 人を超えるAdobe IMSが含まれ、単にAdobeに移行された場合、一括で移行するユーザーを選択し、グループまたは一度に一度に移行を管理するオプションがあります。 今後に関する詳細を表示 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS移行日</a>.</td>
+   <td><li>すべての適切なユーザーがAdobe Admin ConsoleのMarketo Engageの製品プロファイルに割り当てられていますか。
+<br/>     そうでない場合は、必ず <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">ユーザーの追加/削除</a> Adobe Admin ConsoleのMarketo Engage製品プロファイルから。 製品プロファイルに追加されている場合、Marketo Engage/管理者/ユーザーとロールで、ユーザーの役割を割り当てることはできません。</li>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：望ましくないユーザーが複数の製品プロファイルに追加された場合は、すべての製品プロファイルからそのユーザーを削除する必要があります。 そうしないと、Marketo Engageにアクセスできます。</td>
   </tr>
   <tr> 
    <td>ユーザー管理 API</td> 
    <td><li>サブスクリプションでMarketo User Management API を使用しているか。
-<br/>     その場合は、 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMSAPI</a> をクリックして、今後のユーザーの招待、更新、削除を行います。</li></td>
+<br/>     その場合は、 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMSAPI</a> をクリックして、今後のユーザーの招待、更新、削除を行います。</li>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> 注意： 「役割の管理」はMarketo Engageのままです。Marketo User Management API は引き続き役割の管理に使用できます。</td>
   </tr>
  </tbody> 
 </table>
@@ -58,8 +62,10 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>ユーザ</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">ユーザー数</a> いるの？</li>
-<li>削除する必要のあるユーザーはいますか？</li>
+   <td><img src="assets/note-icon.png" alt="メモアイコン"> 注意：サブスクリプションが既にAdobe IMSになっている場合は、Adobe Admin Consoleで次のユーザー管理レビューに進んでください。 それ以外の場合は、管理者/ユーザーとロール/Marketo Engageのユーザーに移動します。
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">ユーザー数</a> いるの？</li>
+<li>以下の条件を満たす必要があるユーザーがいるか <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">削除済み</a>?</li>
 <li>ユーザーの削除に関するポリシーが会社にあるか。</li> 
 <li>ユーザーの数 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理者権限</a>?</li>
 <li>これらのユーザーのいずれかが <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">他の役割？</a></li> 
@@ -67,12 +73,13 @@ ht-degree: 6%
   </tr>
   <tr> 
    <td>ロール</td> 
-   <td><li>役割はいくつありますか？</li>  
+   <td><img src="assets/note-icon.png" alt="メモアイコン"> 注意： MarketoをAdobeID と共に使用しているかどうかに関わらず、管理者/ユーザーとロール/ロールで、Marketo Engageのロール権限の確認に進みます。
+   <p><li>役割はいくつありますか？</li>  
 <li>What <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permissions/access</a> 各役割には何がありますか？ 何か調整すべきではありませんか？</li>
 <li>1 つのロールにつき何人のユーザーが存在しますか？</li>
 <li>ユーザーの頻度 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">ログイン</a>?</li>
 <li>各 API ユーザーが <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">独自のユーザーロール</a>? そうでない場合は、トラブルシューティングを容易にするために、これを実装することを検討してください。</li> 
-<li>ユーザーの役割と権限を企業データに合わせて調整する <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a>?</li></td>
+<li>ユーザーの役割と権限は、規制への準拠 ( <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)? 企業データを実行 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a> ユーザーがMarketo Engageのユーザーデータをダウンロードして共有することを許可しますか？ 許可業務は必要ですか？</li></td>
   </tr>
   <tr> 
    <td>サポートユーザー</td> 

@@ -3,9 +3,9 @@ description: 継承した既存のMarketo Engageインスタンスを最適化�
 title: 継承されたMarketo Engageインスタンスをすぐに開始
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 19%
 
 ---
@@ -16,15 +16,9 @@ ht-degree: 19%
 
 ## Marketing Nation のセットアップ {#get-set-up-in-the-marketing-nation}
 
-Marketoコミュニティでが正しく設定されていることを確認してください。
-
-* **[プロファイルの設定]**(https://nation.marketo.com/){target="_blank"}.
+Marketing Nation コミュニティで適切に設定されていることを確認してください。
 
 * [**プロファイルの設定**](https://nation.marketo.com/){target="_blank"}.
-
-* **[プロファイルの設定](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[プロファイルの設定](https://nation.marketo.com/){target="_blank"}**.
 
 * 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Marketoコミュニティでが正しく設定されていることを確認し�
 
 * [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}方法を参照してください）。
 
-## 継承されたインスタンス監査ガイド {#inherited-instance-audit-guides}
+## 継承されたインスタンスの監査  {#audit-your-inherited-instance}
 
-以下のチェックリストは、Marketo Champions からの入力と共に作成され、迅速にスピードを上げるのに役立ちます。 Marketo Engageの様々な領域をナビゲートし、監査の実行に必要な様々なタスクを実行する方法について説明し、推奨されるヘルプドキュメントへのリンクを含めます。
+Adobe Professional Services(Marketo Champions の入力を受けながら ) は、すばやく習得できるよう、Marketo Engage継承インスタンス監査チェックリストをいくつか用意しました。 Marketo Engageの様々な領域をナビゲートし、監査の実行に必要な様々なタスクを実行する方法について説明し、推奨されるヘルプドキュメントへのリンクを含めます。
 
 また、チェックリストをスプレッドシート形式でダウンロードすることもできます。
 
