@@ -1,12 +1,10 @@
 ---
 description: インタラクティブなウェビナーの促進 — Marketoドキュメント — 製品ドキュメント
 title: インタラクティブなウェビナーのプロモート
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
+source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -33,4 +31,6 @@ ht-degree: 0%
 
 トークンを使用して、E メールキャンペーンの個々のメンバーに対するウェビナー URL を含め、イベントに登録されたことを伝えたり、参加 URL を使用してスケジュールされた時間にウェビナーに入ることができます。 同じ電子メールキャンペーンでカレンダートークンを使用して、ウェビナースケジュールをメンバーのカレンダーに確実に追加できるようにします。
 
-リンクが [概要ページ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) をクリックして、ランディングページと電子メールキャンペーンを作成します。 イベントに関連する残りのプロモーションは、Launchpoint 統合を使用するパートナーウェビナーと同じです。
+イベントプログラムの「概要」タブの右側にあるリンクを使用して、ランディングページと電子メールキャンペーンを作成できます。 イベントに関連する残りのプロモーションは、Launchpoint 統合を使用するパートナーウェビナーと同じです。
+
+![](assets/promoting-an-interactive-webinar-2.png)
