@@ -3,7 +3,7 @@ description: 継承されたインスタンスマーケティングアクティ�
 title: 継承されたインスタンスマーケティングアクティビティのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 3%
@@ -16,11 +16,11 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
 
 ## 組織 {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">エリア</th> 
-   <th style="width:80%">レビューフォーカス</th>
+   <th style="width:30%">エリア</th> 
+   <th style="width:70%">レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>命名規則</td> 
@@ -61,12 +61,12 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
 
 ## アセット {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">エリア</th> 
-   <th style="width:80%">レビューフォーカス</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">エリア</th>
+   <th style="width:70%">レビューフォーカス</th>
+  </tr>
   <tr> 
    <td>トークン</td> 
    <td><li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">トークン</a> 最も一般的に使用されるプログラムの種類に使用されている場合は、 
@@ -114,12 +114,12 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
 
 ## 運用プログラム {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">エリア</th> 
-   <th style="width:80%">レビューフォーカス</th>
-  </tr> 
+   <th style="width:30%">エリア</th> 
+   <th style="width:70%">レビューフォーカス</th>
+  </tr>
   <tr> 
    <td>ユーザースコア</td> 
    <td><li>集中管理型 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">人物評価</a> プログラムの実施？</li>

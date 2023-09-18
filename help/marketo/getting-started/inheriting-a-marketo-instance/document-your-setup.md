@@ -3,16 +3,16 @@ description: 継承されたインスタンスドキュメントの設定 — Ma
 title: 継承されたインスタンスドキュメントの設定
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
 # 継承されたインスタンス：設定のドキュメント化 {#inherited-instance-document-your-setup}
 
-これで、確立されたインスタンスを継承する際に監査する主な製品領域を学びました。次の手順は、インスタンス設定とテクニカルスタックに関するドキュメントを作成/更新することです。 スプレッドシートやプロジェクト管理アプリケーションを使用して作成する場合でも、ドキュメントを参照すれば、進行状況を追跡し、詳細を記録するのに役立ちます。
+これで、確立されたインスタンスを継承する際に監査する主な製品領域を学びました。次の手順は、インスタンス設定とテクニカルスタックに関するドキュメントを作成/更新することです。 スプレッドシートやプロジェクト管理アプリケーションを使用して作成する場合でも、ドキュメントを使用すれば、進行状況を追跡し、詳細を記録し、インスタンスの構造と持続可能性を維持するのに役立ちます。
 
 ## データ {#data}
 
@@ -51,11 +51,12 @@ ht-degree: 2%
   <tr> 
    <td>組織</td> 
     <td><li>Marketo Engageインスタンスの整理方法とその理由に関する堅牢なドキュメントを用意していますか？</li>
-   <p><p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>インスタンス内の変更点とその理由を記録できる変更ログがありますか？</li></td>
+    <td><li>インスタンス内の変更点とその理由を記録できる変更ログがありますか？</li>
+    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：この例をダウンロードして、インスタンス設定に対する変更ログとドキュメントの変更を作成します。</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -65,7 +66,8 @@ ht-degree: 2%
   <tr> 
    <td>内部の関係者との対話</td> 
     <td><li>貴社のマーケティングチームが社内で期待する事項は何ですか？ どのMarketo Engageが提供しているか</li>
-   <li>Marketo Engageインスタンスの関係者はどのチームですか？</li></td>
+   <li>Marketo Engageインスタンスの関係者はどのチームですか？</li>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：これをダウンロード <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">内部の関係者向けコミュニケーションガイドテンプレート</a> 主要関係者の目標と期待を文書化する。</td>
   </tr>
  </tbody> 
 </table>

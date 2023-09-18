@@ -3,10 +3,10 @@ description: 継承されたインスタンスデザインスタジオのチェ�
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 5%
+source-wordcount: '553'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,11 @@ ht-degree: 5%
 <li>ほとんどのプログラムでグローバルフォームとローカルフォームのどちらを使用しますか？</li>
 <li>すべてのフォームがマーケティングおよびセールスに適したデータを収集していますか？</li>
 <li>非表示の値は適切に利用されますか？</li>
-<li>Web サイト上で (Marketo Engageランディングページではなく ) 使用されているMarketo Engageフォームはありますか？</li></td>
+<li>任意のMarketo Engageフォームが、非Marketo Engageのランディングページで使用されているか。 どのように参照されていますか？</li>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：導入された新しい埋め込みコードを使用してMarketo Engageフォームを埋め込むページを更新します（セキュリティで保護されたランディングページが必要です）。
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>データの標準化</td> 

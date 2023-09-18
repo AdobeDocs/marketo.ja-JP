@@ -2,7 +2,7 @@
 description: インタラクティブなウェビナーの促進 — Marketoドキュメント — 製品ドキュメント
 title: インタラクティブなウェビナーのプロモート
 feature: Interactive Webinars
-source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # インタラクティブなウェビナーのプロモート {#promoting-an-interactive-webinar}
 
-インタラクティブなウェビナーの昇格は、Launchpoint を介したパートナーウェビナーの昇格と似ています。 インタラクティブなウェビナーイベントプログラムを作成する際は、キャンペーンの実行またはプログラムへのメンバーのインポートによって、プログラムにメンバーを追加できます。 Interactive Webinars イベントプログラムに追加されたメンバを確認するには、[ メンバ ] タブをクリックします。
+インタラクティブなウェビナーの昇格は、Launchpoint を介したパートナーウェビナーの昇格と似ています。 インタラクティブなウェビナーイベントプログラムを作成する際は、キャンペーンの実行またはプログラムへのメンバーのインポートによって、プログラムにメンバーを追加できます。 インタラクティブウェビナーイベントプログラムに追加されたメンバを確認するには、[ メンバ ] タブをクリックします。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
