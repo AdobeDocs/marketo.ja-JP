@@ -3,9 +3,9 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 6%
 
 ---
@@ -147,7 +147,7 @@ ht-degree: 6%
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>スマートキャンペーン設定</td> 
+   <td>スマートキャンペーン</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">制限があるか</a> スマートキャンペーンのサイズ 
    <br/>     そうでない場合は、追加することを検討します。 ワークフローでの過剰通信やデータベース全体の処理を避けるために、スマートキャンペーンの制限をデータベースの 25%に制限することをお勧めします。これは、ブランドを保護するだけでなく、インスタンスのパフォーマンスを保護します。</li></td>
   </tr>
@@ -264,7 +264,7 @@ ht-degree: 6%
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を (Marketo以外の )Web サイトに追加した場合、</li>
+   <td><li>Is your <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a> を Web サイト (Marketo Engageランディングページではない ) に追加しますか？</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">追跡しない</a> ブラウザーリクエストが有効ですか？</li>
 <li>Is your <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 設定済み？ 
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：Munchkin コードが Web サイト上にある場所に関するドキュメントが見つからない場合は、 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">ウェブページアクティビティレポート</a>.</li></td>

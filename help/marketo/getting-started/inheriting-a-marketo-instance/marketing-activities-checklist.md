@@ -3,9 +3,9 @@ description: 継承されたインスタンスマーケティングアクティ�
 title: 継承されたインスタンスマーケティングアクティビティのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
  <tbody> 
   <tr> 
    <th style="width:20%">エリア</th> 
-   <th>レビューフォーカス</th>
+   <th style="width:80%">レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>命名規則</td> 
@@ -32,12 +32,12 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
   </tr>
   <tr> 
    <td>プログラム</td> 
-   <td><li>KG — これはまだ関連性があるので、 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">卓越性の中心</a> プログラムテンプレートを使用する場合 
-   <br/>     その場合、チームの使用例に対してプログラムテンプレートが意味を持つか。</li>
-<li>類似のプログラムタイプです <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一貫した構造を持つ</a>?</li>
+   <td><li>類似のプログラムタイプです <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一貫した構造を持つ</a>?</li>
 <li>次に該当 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間原価</a> 配置する？</li>
 <li>すべてのプログラム <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">SFDC キャンペーンに同期済み</a> （該当する場合）?</li>
-<li>次の項目を割り当てるフローステップがありますか？ <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">獲得プログラム</a> 誰かに？</li></td>
+<li>次の項目を割り当てるフローステップがありますか？ <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">獲得プログラム</a> 誰かに？</li>
+<li>プログラムテンプレートの中央の場所は設定されていますか？ 
+   <br/>     そうでない場合は、事前に作成されたプログラムの例を <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engageプログラムライブラリ</a>.</li></td>
   </tr>
   <tr> 
    <td>アーカイブ</td> 
@@ -45,14 +45,14 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
 <li>古いプログラムのレビューとアーカイブの頻度は？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：毎年レビューを行うのが良い。</td>
   </tr>
-  <tr> 
+  <tr>
    <td>通知</td> 
    <td><li>キャンペーンエラーが <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">「通知」タブ</a> インスタンスの一番上に？</li>
 <li>あなたですか <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">通知を購読済み</a> 将来起こる可能性のあるエラーの上に留まるために</li></td>
   </tr>
   <tr> 
    <td>スマートリストの購読 
-   <br/>（「マーケティング活動/購読」タブ）</td> 
+   <br/>（マーケティング活動/購読）</td> 
    <td><li>進行中か <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">スマートリストの購読</a> インスタンス内で？ そうなら誰に行くの？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：個人ではなくチームのエイリアスに移動するには、スマートリストの配信登録の設定を検討してください。 個人が不在の場合に備えて、これがお客様に適用されます。</td>
   </tr>
@@ -65,7 +65,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
  <tbody> 
   <tr> 
    <th style="width:20%">エリア</th> 
-   <th>レビューフォーカス</th>
+   <th style="width:80%">レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>トークン</td> 
@@ -79,7 +79,8 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
 <li>数 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">の担当者が消費済みです</a>? 
 <br/>     消費済みの担当者が多い場合は、 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">コンテンツの追加</a>.</li>
 <li>担当者 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">コンテンツに対する関与</a>? 
-<br/>     そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li></td>
+<br/>     そうでない場合は、更新するか、A/B テストを実行するかを検討してください。</li>
+<li>複数のエンゲージメントプログラムに参加している人はいますか？ 2 つ以上の場所に置く必要がありますか？</li></td>
   </tr>
   <tr> 
    <td>バッチキャンペーン</td> 
@@ -117,7 +118,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
  <tbody> 
   <tr> 
    <th style="width:20%">エリア</th> 
-   <th>レビューフォーカス</th>
+   <th style="width:80%">レビューフォーカス</th>
   </tr> 
   <tr> 
    <td>ユーザースコア</td> 
@@ -151,7 +152,7 @@ Marketo Engageインスタンス内の様々なプログラムを他の人が見
   <tr> 
    <td>メール配信</td> 
    <td><li>プル <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メール効果レポート</a> 過去数ヶ月間の送信数に関して E メールの配信品質はどのように表示されますか？</li>
-<li>E メールの配信品質が低い場合は、次のような E メール配信品質のベストプラクティスの調査と実装を検討します。 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF と DKIM</a>.</li>
+<li>E メールの配信品質が望むほど高くない場合は、次のような E メールの配信品質のベストプラクティスを調査および実装することを検討します。 <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF と DKIM</a>.</li>
 <li>マーケティング可能なオーディエンス全体に連絡を取っているか。</li></td>
   </tr>
   <tr> 
