@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
 workflow-type: tm+mt
 source-wordcount: '9098'
 ht-degree: 98%
@@ -38,7 +38,7 @@ ht-degree: 98%
       + [ランディングページのリダイレクト](getting-started/quick-wins/redirect-a-landing-page.md)
       + [重複の可能性がある人物のアラートの自動化](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketo Engageインスタンスの継承 {#inheriting-a-marketo-engage-instance}
-      + [開始場所](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [開始場所](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [継承されたインスタンス：管理セクションのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [継承されたインスタンス：データベースチェックリスト](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
       + [継承されたインスタンス：マーケティングアクティビティのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
