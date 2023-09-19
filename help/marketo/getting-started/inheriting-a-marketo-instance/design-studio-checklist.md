@@ -3,7 +3,7 @@ description: 継承されたインスタンスデザインスタジオのチェ�
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 4%
@@ -94,6 +94,7 @@ ht-degree: 4%
   <tr> 
    <td>メールテスト</td> 
    <td><li>使用方法 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">メールテスト</a>? あなたの方法はまだ有効ですか？</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>プライバシーとコンプライアンス</td> 

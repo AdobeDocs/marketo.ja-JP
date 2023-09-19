@@ -3,9 +3,9 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 6%
 
 ---
@@ -231,6 +231,21 @@ ht-degree: 6%
    <td>カスタムオブジェクト</td> 
    <td><li>数 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">カスタムオブジェクト</a> いるの？ CRM と同期する方法を教えてください。</li>
 <li>これらのカスタムオブジェクトは、プログラムやリストクエリでどのように利用されていますか？</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## メール {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">エリア</th>
+   <th>レビューフォーカス</th>
+  </tr> 
+  <tr> 
+   <td>メールのデフォルト設定</td> 
+   <td><li>管理者/電子メールで、はすべてデフォルト設定を最新にしています ( 例： <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"差出人"のメール/ラベル</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">ブランドドメイン</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">配信停止メッセージ</a>など )?</li></td>
   </tr>
  </tbody> 
 </table>

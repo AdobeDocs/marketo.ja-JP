@@ -3,10 +3,10 @@ description: 継承インスタンスデータベースのチェックリスト 
 title: 継承されたインスタンスデータベースのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 8%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
@@ -74,6 +74,7 @@ ht-degree: 8%
   <tr> 
    <td>スマートリスト</td> 
    <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">スマートリスト</a> いるの？ このインスタンスでの使用方法</li>
+   <p><img src="assets/note-icon.png" alt="メモアイコン"> 注意： 「データベース」セクションでは、グループ・スマート・リストはユーザー生成で、システム・スマート・リストはMarketo Engageが作成するデフォルトのリストです。
 <li>リストは、まとまったフォルダ構造で整理されていますか？ 
 <br/>     孤立したリストがある場合は、アセットを見つけやすくするためにツリーを整理することを検討します。</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント： <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">アーカイブ</a> 不要になったスマートリストは、組織とパフォーマンスに役立ちます。</td>
@@ -91,7 +92,8 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>静的リスト</td> 
-   <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">静的リスト</a> いるの？ このインスタンスでの使用方法</li></td>
+   <td><li>数 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">静的リスト</a> いるの？ このインスタンスでの使用方法</li>
+   <p><img src="assets/note-icon.png" alt="メモアイコン"> 注意： 「データベース」セクションでは、「グループ・リスト」は「静的リスト」です。</td>
   </tr>
  </tbody> 
 </table>

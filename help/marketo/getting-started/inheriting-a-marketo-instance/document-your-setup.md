@@ -3,9 +3,9 @@ description: 継承されたインスタンスドキュメントの設定 — Ma
 title: 継承されたインスタンスドキュメントの設定
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
   <tr> 
    <td>Changelog</td> 
     <td><li>インスタンス内の変更点とその理由を記録できる変更ログがありますか？</li>
-    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：この例をダウンロードして、インスタンス設定に対する変更ログとドキュメントの変更を作成します。</td>
+    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンス設定に加えた変更ログとドキュメントの変更を作成します。</td>
   </tr>
   <tr> 
    <td>Playbooks</td> 
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>内部の関係者との対話</td> 
     <td><li>貴社のマーケティングチームが社内で期待する事項は何ですか？ どのMarketo Engageが提供しているか</li>
    <li>Marketo Engageインスタンスの関係者はどのチームですか？</li>
-   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：これをダウンロード <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">内部の関係者向けコミュニケーションガイドテンプレート</a> 主要関係者の目標と期待を文書化する。</td>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">行動項目：主要な関係者の目標と期待を文書化し、年間を通じて関係者とチェックインしながら更新します。</td>
   </tr>
  </tbody> 
 </table>
