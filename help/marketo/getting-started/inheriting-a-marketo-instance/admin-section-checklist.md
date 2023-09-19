@@ -3,7 +3,7 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 6%
@@ -12,7 +12,7 @@ ht-degree: 6%
 
 # 継承されたインスタンス：管理セクションのチェックリスト {#inherited-instance-admin-section-checklist}
 
-以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、Marketo Champions の入力を得てAdobe Professional Servicesでまとめられ、迅速に作業を進めるのに役立ちます。 また、チェックリストをダウンロードして、進行状況を追跡することもできます。
+以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、Marketo Champions の入力を得てAdobe Professional Servicesでまとめられ、迅速に作業を進めるのに役立ちます。 また、 [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) 進行状況を追跡します。
 
 >[!TIP]
 >

@@ -3,7 +3,7 @@ description: 継承されたインスタンスデザインスタジオのチェ�
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 4%
@@ -30,7 +30,7 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td>テンプレート</td> 
-   <td><li>数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">ランディングページテンプレート</a> いるの？ 彼らは活用されているのですか？</li></td>
+   <td><li>数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">ランディングページテンプレート</a> いるの？ 彼らは活用されているのですか？</li></td>
   </tr>
   <tr> 
    <td>テストグループ</td> 
@@ -84,7 +84,7 @@ ht-degree: 4%
 <li>非表示の値は適切に利用されますか？</li>
 <li>任意のMarketo Engageフォームが、非Marketo Engageのランディングページで使用されているか。 どのように参照されていますか？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：導入された新しい埋め込みコードを使用してMarketo Engageフォームを埋め込むページを更新します（セキュリティで保護されたランディングページが必要です）。
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="コードサムネール"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="コードサムネール"></a>
 </td>
   </tr>
   <tr> 

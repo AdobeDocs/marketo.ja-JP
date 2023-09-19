@@ -3,10 +3,10 @@ description: 継承した既存のMarketo Engageインスタンスを最適化�
 title: 継承されたMarketo Engageインスタンスをすぐに開始
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 14%
+source-wordcount: '459'
+ht-degree: 11%
 
 ---
 
@@ -21,8 +21,6 @@ Marketing Nation コミュニティで適切に設定されていることを確
 * [**プロファイルの設定**](https://nation.marketo.com/){target="_blank"}.
 
 * 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Marketo Nation コミュニティプロファイルの「**[!UICONTROL 場所]**」をクリックして、会社のアカウントページを確認する。
 
 * [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}方法を参照してください）。
 
@@ -46,7 +44,7 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 Adobeは、Marketo Champions の入力を受け、Marketo Engage継承インスタンス監査チェックリストをいくつか組み立てて、迅速に作業を進めるのに役立ちました。 Marketo Engageの様々な領域をナビゲートし、監査の実行に必要な様々なタスクを実行する方法について説明し、推奨されるヘルプドキュメントへのリンクを含めます。
 
-また、チェックリストをスプレッドシート形式でダウンロードすることもできます。
+また、 [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) スプレッドシート形式で。
 
 * [管理セクション](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
