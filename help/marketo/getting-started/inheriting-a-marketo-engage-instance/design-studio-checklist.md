@@ -2,7 +2,7 @@
 description: 継承されたインスタンスデザインスタジオのチェックリスト — Marketoドキュメント — 製品ドキュメント
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%
@@ -11,7 +11,7 @@ ht-degree: 4%
 
 # 継承されたインスタンス：デザインスタジオチェックリスト {#inherited-instance-design-studio-checklist}
 
-テンプレートを構造化し、グローバルフォーム、スニペット、画像およびファイルを作成すると、データエラーを最小限に抑えると共に、プログラムの作成ワークフローを合理化できます。 忘れないでください [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 進行状況を追跡します。
+テンプレートを構造化し、グローバルフォーム、スニペット、画像およびファイルを作成すると、データエラーを最小限に抑えると共に、プログラムの作成ワークフローを合理化できます。 忘れないでください [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 進行状況を追跡します。
 
 ## ランディングページ {#landing-pages}
 
@@ -83,7 +83,7 @@ ht-degree: 4%
 <li>非表示の値は適切に利用されますか？</li>
 <li>任意のMarketo Engageフォームが、非Marketo Engageのランディングページで使用されているか。 どのように参照されていますか？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：導入された新しい埋め込みコードを使用してMarketo Engageフォームを埋め込むページを更新します（セキュリティで保護されたランディングページが必要です）。
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="コードサムネール"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="コードサムネール"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ ht-degree: 4%
 
 <br> 
 
-[◄継承されたインスタンスの監査：マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄継承されたインスタンスの監査：マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[継承されたインスタンスの監査：継承されたインスタンスの設定のドキュメント化►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[継承されたインスタンスの監査：継承されたインスタンスの設定のドキュメント化►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

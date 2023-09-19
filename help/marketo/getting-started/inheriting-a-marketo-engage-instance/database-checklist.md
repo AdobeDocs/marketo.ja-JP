@@ -2,7 +2,7 @@
 description: 継承インスタンスデータベースのチェックリスト — Marketoドキュメント — 製品ドキュメント
 title: 継承されたインスタンスデータベースのチェックリスト
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -11,7 +11,7 @@ ht-degree: 7%
 
 # 継承されたインスタンス：データベースチェックリスト {#inherited-instance-database-checklist}
 
-サブスクリプションでの人数、マーケティング可能な人数、トップの人物獲得ソースの合計数を把握します。 忘れないでください [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 進行状況を追跡します。
+サブスクリプションでの人数、マーケティング可能な人数、トップの人物獲得ソースの合計数を把握します。 忘れないでください [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 進行状況を追跡します。
 
 ## システム スマート リスト {#system-smart-lists}
 
@@ -117,6 +117,6 @@ ht-degree: 7%
 
 <br> 
 
-[◄継承されたインスタンスの監査：管理者](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄継承されたインスタンスの監査：管理者](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[継承されたインスタンスの監査：マーケティングアクティビティ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[継承されたインスタンスの監査：マーケティングアクティビティ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
