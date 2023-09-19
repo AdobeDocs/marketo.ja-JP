@@ -3,9 +3,9 @@ description: 継承されたインスタンスデザインスタジオのチェ�
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 4%
 
 ---
@@ -41,6 +41,31 @@ ht-degree: 4%
  </tbody> 
 </table>
 
+## 画像およびファイル {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">エリア</th> 
+   <th>レビューフォーカス</th>
+  </tr> 
+  <tr> 
+   <td>命名規則</td> 
+   <td><li>実行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">画像とファイル</a> 一貫性のある命名規則を使用しますか？</li></td>
+  </tr>
+  <tr> 
+   <td>フォルダー構造</td> 
+   <td><li>画像とファイル <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">適切に整理された</a> 簡単に検索できますか？</li></td>
+  </tr>
+  <tr> 
+   <td>画像およびファイル</td> 
+   <td><li>任意の画像またはファイルの実行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">web ページで参照されています</a> 更新が必要ですか？ 
+   <p>例：ハードコードされた URL 構造 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">の更新が必要な場合があります</a>、例： <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Web 開発者と協力して、更新が必要になる場所を決定してください。</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## フォーム {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ ht-degree: 4%
 <li>非表示の値は適切に利用されますか？</li>
 <li>任意のMarketo Engageフォームが、非Marketo Engageのランディングページで使用されているか。 どのように参照されていますか？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：導入された新しい埋め込みコードを使用してMarketo Engageフォームを埋め込むページを更新します（セキュリティで保護されたランディングページが必要です）。
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-## 画像およびファイル {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">エリア</th> 
-   <th>レビューフォーカス</th>
-  </tr> 
-  <tr> 
-   <td>命名規則</td> 
-   <td><li>実行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">画像とファイル</a> 一貫性のある命名規則を使用しますか？</li></td>
-  </tr>
-  <tr> 
-   <td>フォルダー構造</td> 
-   <td><li>画像とファイル <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">適切に整理された</a> 簡単に検索できますか？</li></td>
-  </tr>
-  <tr> 
-   <td>画像およびファイル</td> 
-   <td><li>任意の画像またはファイルの実行 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">web ページで参照されています</a> 更新が必要ですか？ 
-   <p>例：ハードコードされた URL 構造 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">の更新が必要な場合があります</a>、例： <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Web 開発者と協力して、更新が必要になる場所を決定してください。</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## すべてのアセット {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>アセットステータス</td> 
-   <td><li>にあるアセットの数 <i>ドラフト</i> および <i>承認待ち下書きあり</i> ステータス？
+   <td><li>にあるアセットの数 <i>ドラフト</i> および <i>承認待ち下書きあり</i> ステータス ( 例： <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">電子メール</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">ランディングページ</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">フォーム</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">スニペット</a>)?
    <br/>     多数の場合は、削除または承認することを検討してください。</li></td>
   </tr>
   <tr> 
