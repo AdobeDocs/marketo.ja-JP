@@ -3,9 +3,9 @@ description: 継承されたインスタンスデザインスタジオのチェ�
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,9 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>グローバルランディングページ</td> 
-   <td><li>グローバルな数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">ランディングページ</a> いるの？ プログラムで使われているのか？</li></td>
+   <td><li>グローバルな数 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">ランディングページ</a> いるの？ プログラムで使われているのか？</li>
+   <li>次をお持ちですか： <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">購読センター</a> 設置？
+   <br/>     そうでない場合は、作成することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>テンプレート</td> 
@@ -83,7 +85,8 @@ ht-degree: 4%
 <li>任意のMarketo Engageフォームが、非Marketo Engageのランディングページで使用されているか。 どのように参照されていますか？</li>
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：導入された新しい埋め込みコードを使用してMarketo Engageフォームを埋め込むページを更新します（セキュリティで保護されたランディングページが必要です）。
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
