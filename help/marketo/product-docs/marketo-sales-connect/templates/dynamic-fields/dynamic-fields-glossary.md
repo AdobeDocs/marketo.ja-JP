@@ -4,10 +4,10 @@ description: 動的フィールド用語集 — Marketo ドキュメント — �
 title: 動的フィールド用語集
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -19,14 +19,14 @@ Sales Connect でテンプレートを作成する場合は、動的フィール
 
 | 動的フィールド | メールに表示される内容の例 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith さん |
 | `{{friendly_unsubscribe}}` | 再度通知を受けたくない場合は、こちらからお知らせください |
-| `{{my_name}}` | Alan Bradley |
+| `{{my_name}}` | Keith Flynn |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | シニアテクニカルライター |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **注意事項**：
 
