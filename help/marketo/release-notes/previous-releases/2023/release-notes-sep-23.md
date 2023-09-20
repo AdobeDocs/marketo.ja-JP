@@ -2,9 +2,9 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 13%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 13%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>デザインスタジオアセットのカウント列で使用</strong>:Marketo Engageプログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスに沿った「例」のプログラムやその他のアセットを読み込むことができます。 製品管理チームがライブラリを完全に更新し、プログラムをすぐに開始したい方に役立つツールを提供しています。</td> 
+   <td><strong>デザインスタジオアセットのカウント列で使用</strong>：デザインスタジオのリストビューの「使用者数」列では、使用されているアセットの数が強調表示されます。 これは、スニペット、電子メールテンプレート、Forms、ランディングページテンプレートに適用されます。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>

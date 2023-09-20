@@ -2,9 +2,9 @@
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 90%
 
 ---
@@ -64,10 +64,6 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 **レポート用のデータはどのくらいの期間保存されますか？**
 
 90 日です。
-
-**Dynamic Chat はライブチャットを許可していますか？**
-
-いいえ、事前に決定された応答のみを利用します。
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
