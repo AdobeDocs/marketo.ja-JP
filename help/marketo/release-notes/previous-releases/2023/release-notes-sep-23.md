@@ -2,9 +2,9 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 13%
 
 ---
@@ -52,16 +52,6 @@ ht-degree: 13%
    <td><strong>デザインスタジオアセットのタブ拡張で使用</strong>:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>数式フローステップサービスを計算</strong>：計算式は、Adobeの IO Runtime プラットフォームに基づいて構築された、Marketo Engageスマートキャンペーンで使用するフローステップサービスです。 IO ランタイムを持つAdobeクライアントは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールし、Marketoスマートキャンペーンで Excel のような数式を計算できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
   </tr>
  </tbody> 
 </table>
