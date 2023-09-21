@@ -2,9 +2,9 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 13%
 
 ---
@@ -52,6 +52,26 @@ ht-degree: 13%
    <td><strong>デザインスタジオアセットのタブ拡張で使用</strong>:「 Used By Enhancement 」タブには、アセットのタイプと名前、およびアセットが使用されている場所に関する詳細な情報が表示されます。 これは、電子メールの詳細および画像とファイルの詳細に適用されます。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>インタラクティブ Web セミナーのローカライゼーション</strong>:Marketo Interactive Webinar イベントプログラムの詳細を目的の言語で表示し、配信の言語を選択して、イベントプログラムを作成したMarketoユーザーの言語と異なる言語を使用できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">インタラクティブ Web セミナーの FAQ</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>インタラクティブ Web セミナーのユーザーアクセス管理</strong>:User Access Management を使用すると、インタラクティブウェビナーのユーザーは、許可されたイベントプログラムにのみアクセスでき、不正なアクセスを防ぐことができます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">ユーザアクセス</a></td>
   </tr>
  </tbody> 
 </table>
