@@ -4,7 +4,7 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 9f6781bce4d279ae65b2aa9011c9ca709725953f
+source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -69,7 +69,7 @@ _リリース日は変更される場合があります_
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">2023年10月</a></td>
-   <td>2023年10月13日</td>
+   <td>2023年10月6日</td>
    <td>予定通り</td>
   </tr>
  </tbody>
