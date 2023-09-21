@@ -2,10 +2,10 @@
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
 feature: Dynamic Chat
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 90%
+source-wordcount: '689'
+ht-degree: 85%
 
 ---
 
@@ -55,28 +55,6 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 [会話のデザイン](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 指定したアクション（フォームへの入力、リンクのクリックなど）に基づいて訪問者がトリガーできるもの。
 
-## よくある質問 {#faq}
-
-**Dynamic Chat は、会社の web サイトの任意の場所にインストールできますか？それとも、Marketo のランディングページでのみ機能しますか？**
-
-Dynamic Chat の JavaScript スニペットは、任意の web サイトおよび Marketo のランディングページにインストールできます。
-
-**レポート用のデータはどのくらいの期間保存されますか？**
-
-90 日です。
-
-**Dynamic Chat は英語以外の言語をサポートしていますか？**
-
-あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、[以下の節](#changing-the-language)を参照してください。
-
-**AI／NLP 機能はサポートしていますか？**
-
-AI／NLP 機能はサポートしていません。
-
-**匿名ユーザーをターゲットにするには、どうすればよいですか？**
-
-ダイアログで、_Person Email is Empty_ 属性を使用します。
-
 ## 言語の変更 {#changing-the-language}
 
 Dynamic Chat の言語を変更するには、以下の手順に従います。
@@ -105,6 +83,8 @@ Dynamic Chat の言語を変更するには、以下の手順に従います。
 
 ## Dynamic Chatデータ保持の制限 {#dynamic-chat-data-retention-limits}
 
+以下に、Dynamic Chat内の制限/パラメーターの一部を示します。 完全なリストについては、Marketo Engage [製品の説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
+
 <table>
   <th>データタイプ</th>
   <th>保持期間</th>
@@ -129,3 +109,25 @@ Dynamic Chat の言語を変更するには、以下の手順に従います。
   <td>24 か月</td>
  </tr>
 </table>
+
+## よくある質問 {#faq}
+
+**Dynamic Chat は、会社の web サイトの任意の場所にインストールできますか？それとも、Marketo のランディングページでのみ機能しますか？**
+
+Dynamic Chat の JavaScript スニペットは、任意の web サイトおよび Marketo のランディングページにインストールできます。
+
+**レポート用のデータはどのくらいの期間保存されますか？**
+
+90 日間. 制限/パラメーターの完全なリストについては、Marketo Engage [製品の説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
+
+**Dynamic Chat は英語以外の言語をサポートしていますか？**
+
+あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、[以下の節](#changing-the-language)を参照してください。
+
+**AI／NLP 機能はサポートしていますか？**
+
+AI／NLP 機能はサポートしていません。
+
+**匿名ユーザーをターゲットにするには、どうすればよいですか？**
+
+ダイアログで、_Person Email is Empty_ 属性を使用します。
