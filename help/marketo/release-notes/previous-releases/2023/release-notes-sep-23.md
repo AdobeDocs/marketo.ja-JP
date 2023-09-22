@@ -2,7 +2,7 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 13%
@@ -59,7 +59,7 @@ ht-degree: 13%
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>インタラクティブ Web セミナーのローカライゼーション</strong>:Marketo Interactive Webinar イベントプログラムの詳細を目的の言語で表示し、配信の言語を選択して、イベントプログラムを作成したMarketoユーザーの言語と異なる言語を使用できます。</td> 
+   <td><strong>インタラクティブ Web セミナーのローカライゼーション</strong>:Marketo Interactive Webinar イベントプログラムの詳細を目的の言語で表示でき、イベントプログラムを作成したMarketoユーザーの言語とは異なる言語で配信の言語を選択できます。</td> 
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">インタラクティブ Web セミナーの FAQ</a></td>
   </tr>
