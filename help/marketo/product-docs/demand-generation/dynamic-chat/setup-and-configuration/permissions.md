@@ -4,9 +4,9 @@ title: 権限
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 7%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 7%
 # 権限 {#permissions}
 
 ユーザーの様々な領域へのアクセスをDynamic Chatします。
+
+## 権限のカスタマイズ {#customize-permissions}
 
 1. Adobe Analytics の [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}をクリックし、 **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ ht-degree: 7%
 
 ## 権限のリスト {#list-of-permissions}
 
-以下に、使用可能なすべての権限のリストが領域別に並べ替えられて表示されます。
+以下に、各領域で使用可能なすべての権限のリストが表示されます。
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ ht-degree: 7%
     <td><li>エージェントのインボックス</li>
     <li>マイスレッドの表示</li>
     <li>すべての会話を表示</li>
-    <li>会話の概要の表示<b>*</b></li>
-    <li>アシステッドレスポンスの表示<b>*</b></li></td>
+    <li>会話の概要の表示 <b>*</b></li>
+    <li>アシステッドレスポンスの表示 <b>*</b></li></td>
   </tr>
   <tr>
     <td>会議</td>
@@ -96,21 +98,21 @@ ht-degree: 7%
   </tr>
   <tr>
     <td>管理者設定</td>
-    <td><li>ワークスペースの表示<b>*</b></li>
-    <li>ワークスペースの管理（作成、編集、削除）<b>*</b></li>
+    <td><li>ワークスペースの表示 <b>*</b></li>
+    <li>ワークスペースの管理（作成、編集、削除） <b>*</b></li>
     <li>ラウンドロビンを表示</li>
     <li>カスタムルールの表示</li>
     <li>カスタムルールの管理（追加、編集、削除）</li>
-    <li>顧客リストの表示<b>*</b></li>
-    <li>アカウントの管理（追加、編集、削除）<b>*</b></li>
+    <li>顧客リストの表示 <b>*</b></li>
+    <li>アカウントの管理（追加、編集、削除） <b>*</b></li>
     <li>Chatbot 設定の管理</li>
     <li>対話型フロー設定の管理</li>
     <li>プライバシーとセキュリティの管理</li>
     <li>統合を管理</li>
-    <li>言語の管理<b>*</b></li>
+    <li>言語の管理 <b>*</b></li>
     <li>エージェントの管理</li>
-    <li>エージェントチームの表示<b>*</b></li>
-    <li>エージェントチームの管理（追加、編集、削除）<b>*</b></li>
+    <li>エージェントチームの表示 <b>*</b></li>
+    <li>エージェントチームの管理（追加、編集、削除） <b>*</b></li>
     <li>使用制限の表示</li></td>
   </tr>
 </tbody>
