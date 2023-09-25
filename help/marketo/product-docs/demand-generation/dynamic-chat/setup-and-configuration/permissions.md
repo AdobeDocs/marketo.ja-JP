@@ -4,649 +4,116 @@ title: 権限
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 50%
+source-wordcount: '299'
+ht-degree: 7%
 
 ---
 
 # 権限 {#permissions}
 
-テーブル
+ユーザーの様々な領域へのアクセスをDynamic Chatします。
+
+1. Adobe Analytics の [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}をクリックし、 **Dynamic Chat**.
+
+   ![](assets/permissions-1.png)
+
+1. Adobe Analytics の **製品プロファイル** 「 」タブで、編集するプロファイルを選択します。 この例では、「 **Live Agent**.
+
+   ![](assets/permissions-2.png)
+
+1. 次をクリック： **権限** タブをクリックします。
+
+   ![](assets/permissions-3.png)
+
+1. 編集するDynamic Chatの領域を選択します。 Live Agent プロファイルを選択したので、Live Chat を選択しています。 鉛筆アイコンをクリックします。
+
+   ![](assets/permissions-4.png)
+
+1. 使用可能なすべての権限項目が左側に表示されます。 権限を 1 つずつ追加するか、またはすべてを一度に追加するかを選択できます。 この例では、すべてを選択しています。 次をクリック： **+すべて追加** 」ボタンをクリックします。
+
+   ![](assets/permissions-5.png)
+
+   >[!NOTE]
+   >
+   >自動インクルードを有効にすると、含まれるリストにすべての権限項目が追加されます。 新しい権限項目が利用可能になると、その製品プロファイルに自動的に含まれます。
+
+1. 「**保存**」をクリックします。
+
+   ![](assets/permissions-6.png)
+
+これで、他のすべてのDynamic Chat領域に対して、この手順を繰り返せます。
+
+![](assets/permissions-7.png)
+
+## 権限のリスト {#list-of-permissions}
+
+以下に、使用可能なすべての権限のリストが領域別に並べ替えられて表示されます。
 
 <table>
-  <tbody>
-    <tr>
-      <th>S.No.</th>
-      <th>機能名</th>
-      <th>説明</th>
-      <th>権限</th>
-      <th>価格パッケージ</th>
-      <td>マーケティングユーザ</td>
-      <td>Live Agent</td>
-      <td>カレンダーエージェント</td>
-      <td>マーケティング管理者</td>
-      <td>セールス管理者</td>
-      <td>GenAI ユーザー</td>
-      <td>デフォルトの権限</td>
-    </tr>
-    <tr>
-      <td>1.</td>
-      <td>会話管理</td>
-      <td>表示、編集、公開アクションを含むダイアログへのアクセスを管理</td>
-      <td>ダイアログを表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>管理ダイアログ（作成、削除）</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ダイアログを公開</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td>表示、編集、公開アクションを含む対話型のフローへのアクセスを管理する</td>
-      <td>対話型フローの表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>対話型フローの管理（作成、削除）</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>対話的なフローの公開</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>2.</td>
-      <td>ライブチャット</td>
-      <td>エージェントが訪問者とのライブ会話を行えるエージェントインボックスへのアクセスを管理</td>
-      <td>エージェントのインボックス</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>自分の会話を表示</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>すべての会話を表示</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>会話の概要の表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>アシステッドレスポンスの表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>3.</td>
-      <td>生成 AI</td>
-      <td>GenAI ベースのアシステッドレスポンスワークフローへのアクセスを管理</td>
-      <td>応答ライブラリを表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>応答ライブラリの管理（編集、読み込み、削除）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>新しい Q&amp;R を生成（作成、書き出し）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Q&amp;R を公開</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>未回答の質問の表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ナレッジベースを表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ナレッジベースの管理（追加、編集、削除）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>4.</td>
-      <td>会議</td>
-      <td>Dynamic Chatでスケジュールされた会議に関する情報へのアクセスを管理</td>
-      <td>すべての会議を管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>会議を管理する</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>5.</td>
-      <td>Marketo Measure Analytics</td>
-      <td>レポートへのアクセスを管理</td>
-      <td>グローバルパフォーマンスレポートの表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ライブチャットレポートを表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>会議レポートを表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>レポートの書き出し</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>6.</td>
-      <td>エージェント設定</td>
-      <td>個々のエージェントのプロファイルと可用性を設定するためのアクセスを有効にする</td>
-      <td>ライブチャットの可用性を管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>カレンダーの連携</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>カレンダーの可用性の管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td>7.</td>
-      <td>管理者設定</td>
-      <td>システム設定、統合、ブランディングへのアクセスを管理</td>
-      <td>ワークスペースの表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ワークスペースの管理（作成、編集、削除）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>ラウンドロビンを表示</td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>カスタムルールの表示</p>
-      </td>
-      <td>含まれるバージョン</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>カスタムルールの管理（追加、編集、削除）</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>顧客リストを表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>アカウントの管理（追加、編集、削除）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Chatbot 設定の管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>対話型フロー設定の管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>生成 AI 設定の管理</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>プライバシーとセキュリティの管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>統合を管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>言語の管理</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>エージェントの管理</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>エージェントチームの表示</td>
-      <td>Dynamic Chatプライム</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>エージェントチームの管理（追加、編集、削除）</td>
-      <td>Dynamic Chatプライム</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>使用制限の表示</td>
-      <td>含まれるバージョン</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-      <td>はい</td>
-      <td>はい</td>
-      <td>いいえ</td>
-      <td>いいえ</td>
-    </tr>
-  </tbody>
+<thead>
+  <tr>
+    <th>Dynamic Chat領域</th>
+    <th>権限</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>会話管理</td>
+    <td><li>ダイアログを表示</li>
+    <li>ダイアログを管理（作成、削除）</li>
+    <li>公開ダイアログ</li>
+    <li>対話型フローの表示</li>
+    <li>対話型フローの管理（作成、削除）</li>
+    <li>対話フローの公開</li></td>
+  </tr>
+  <tr>
+    <td>ライブチャット</td>
+    <td><li>エージェントのインボックス</li>
+    <li>マイスレッドの表示</li>
+    <li>すべての会話を表示</li>
+    <li>会話の概要の表示<b>*</b></li>
+    <li>アシステッドレスポンスの表示<b>*</b></li></td>
+  </tr>
+  <tr>
+    <td>会議</td>
+    <td><li>すべての会議を管理</li>
+    <li>マイミーティングを管理</li></td>
+  </tr>
+  <tr>
+    <td>Marketo Measure Analytics</td>
+    <td><li>グローバルパフォーマンスレポートの表示</li>
+    <li>ライブチャットレポートを表示</li>
+    <li>会議レポートを表示</li>
+    <li>レポートの書き出し</li></td>
+  </tr>
+  <tr>
+    <td>エージェント設定</td>
+    <td><li>ライブチャットの可用性を管理</li>
+    <li>カレンダーの連携</li>
+    <li>カレンダーの可用性の管理</li></td>
+  </tr>
+  <tr>
+    <td>管理者設定</td>
+    <td><li>ワークスペースの表示<b>*</b></li>
+    <li>ワークスペースの管理（作成、編集、削除）<b>*</b></li>
+    <li>ラウンドロビンを表示</li>
+    <li>カスタムルールの表示</li>
+    <li>カスタムルールの管理（追加、編集、削除）</li>
+    <li>顧客リストの表示<b>*</b></li>
+    <li>アカウントの管理（追加、編集、削除）<b>*</b></li>
+    <li>Chatbot 設定の管理</li>
+    <li>対話型フロー設定の管理</li>
+    <li>プライバシーとセキュリティの管理</li>
+    <li>統合を管理</li>
+    <li>言語の管理<b>*</b></li>
+    <li>エージェントの管理</li>
+    <li>エージェントチームの表示<b>*</b></li>
+    <li>エージェントチームの管理（追加、編集、削除）<b>*</b></li>
+    <li>使用制限の表示</li></td>
+  </tr>
+</tbody>
 </table>
+
+**&#42;** 現在、Dynamic Prime ユーザーのみが利用できます

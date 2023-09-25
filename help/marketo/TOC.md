@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 98%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 98%
          + セットアップと設定 {#setup-and-configuration}
             + [初期設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [権限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [エージェント設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [エージェント管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
