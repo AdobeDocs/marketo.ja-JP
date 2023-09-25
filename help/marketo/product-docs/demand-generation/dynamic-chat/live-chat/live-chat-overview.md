@@ -2,18 +2,20 @@
 description: Live Chat の概要 — Marketoドキュメント — 製品ドキュメント
 title: ライブチャットの概要
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
 
 # ライブチャットの概要 {#live-chat-overview}
 
-でライブチャットカードを使用します。 [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 訪問者がライブエージェントとチャットする場合。
+ライブチャットを使用すると、ウェブサイトの訪問者がセールスエージェントとリアルタイムでチャットできるようになります。
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
+
+でライブチャットカードを使用します。 [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 訪問者がライブエージェントとチャットする場合。
 
 ![](assets/live-chat-overview-1.png)
 

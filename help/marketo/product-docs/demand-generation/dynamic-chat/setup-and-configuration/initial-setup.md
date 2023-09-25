@@ -2,7 +2,7 @@
 description: 初期設定 - Marketo ドキュメント - 製品ドキュメント
 title: 初期設定
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
@@ -11,9 +11,9 @@ ht-degree: 100%
 
 # 初期設定 {#initial-setup}
 
-## Admin Console にアクセスする {#access-admin-console}
-
 以下の手順に従って、Dynamic Chat を設定します。
+
+## Admin Console にアクセスする {#access-admin-console}
 
 >[!NOTE]
 >
