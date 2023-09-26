@@ -2,9 +2,9 @@
 description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
 
    ![](assets/permissions-6.png)
 
-これで、他のDynamic Chat領域に対しても、この手順を繰り返せます。
+これで、他のすべてのDynamic Chat領域に対して、この手順を繰り返せます。
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ ht-degree: 8%
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat領域</th>
+    <th style="width:30%">Dynamic Chat領域</th>
     <th>権限</th>
   </tr>
 </thead>
