@@ -2,16 +2,16 @@
 description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
 title: Dynamic Chat の概要
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 85%
+source-wordcount: '696'
+ht-degree: 82%
 
 ---
 
 # Dynamic Chat の概要 {#dynamic-chat-overview}
 
-Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、セールスチームとのミーティングを予約することもできます。Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
+Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、ライブエージェントとチャットしたり、セールスチームとのミーティングを予約したりすることもできます。 Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、[以下の節](#changing-the-language)を参照してください。
+あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、 [言語の変更](#changing-the-language).
 
 **AI／NLP 機能はサポートしていますか？**
 
