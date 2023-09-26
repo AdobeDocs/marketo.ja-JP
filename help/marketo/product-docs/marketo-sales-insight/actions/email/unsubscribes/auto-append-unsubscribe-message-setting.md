@@ -4,7 +4,7 @@ title: 配信停止メッセージの自動追加設定
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -35,4 +35,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->配信停止メッセージの追加設定を無効にした場合、テンプレートに配信停止フッターを追加して、通信にオプトアウトオプションが設定されていることを確認することをお勧めします。 これをおこなうには、独自のカスタムメッセージを各テンプレートに追加するか、 `{{team_unsubscribe}}` 動的フィールド。
+>配信停止メッセージの追加設定を無効にした場合、テンプレートに配信停止フッターを追加して、通信にオプトアウトオプションが設定されていることを確認することをお勧めします。 これをおこなうには、独自のカスタムメッセージを各テンプレートに追加するか、 `{{team_unsubscribe}}` [動的フィールド](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

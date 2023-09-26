@@ -1,21 +1,19 @@
 ---
 description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 7%
+source-wordcount: '396'
+ht-degree: 8%
 
 ---
 
 # 権限 {#permissions}
 
-ユーザーの様々な領域へのアクセスをDynamic Chatします。
+事前に定義された権限を持つ 5 つのデフォルトプロファイルが、Dynamic Chatで編集できます。 また、権限のカスタムセットを使用してカスタムプロファイルを作成することもできます。 2 つを見てみましょう。
 
-## 権限のカスタマイズ {#customize-permissions}
+## 既存の権限を編集 {#edit-existing-permissions}
 
 1. Adobe Analytics の [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}をクリックし、 **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ ht-degree: 7%
 
    ![](assets/permissions-3.png)
 
-1. 編集するDynamic Chatの領域を選択します。 Live Agent プロファイルを選択したので、Live Chat を選択しています。 鉛筆アイコンをクリックします。
+1. 編集する縦断の領域を選択します。 この例では、Live Chat を選択しています。 鉛筆アイコンをクリックします。
 
    ![](assets/permissions-4.png)
 
-1. 使用可能なすべての権限項目が左側に表示されます。 権限を 1 つずつ追加するか、またはすべてを一度に追加するかを選択できます。 この例では、すべてを選択しています。 次をクリック： **+すべて追加** 」ボタンをクリックします。
+1. 使用可能な権限項目が左側に表示されます。 権限を 1 つずつ追加するか、またはすべてを一度に追加するかを選択できます。 この例では、1 つのみ使用可能なので、追加します。 「**+**」をクリックします。
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ ht-degree: 7%
 
    ![](assets/permissions-6.png)
 
-これで、他のすべてのDynamic Chat領域に対して、この手順を繰り返せます。
+これで、他のDynamic Chat領域に対しても、この手順を繰り返せます。
 
 ![](assets/permissions-7.png)
+
+## プロファイルの作成 {#create-a-profile}
+
+1. Adobe Analytics の [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}をクリックし、 **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. Adobe Analytics の **製品プロファイル** タブ、クリック **新しいプロファイル**.
+
+   ![](assets/permissions-9.png)
+
+1. **名前** 製品プロファイル。 オプションで、表示名や説明を入力したり、ユーザーが追加または削除されたときに通知を受け取るように選択したりできます。 終了したら「**保存**」をクリックします。
+
+   ![](assets/permissions-10.png)
+
+1. 新しいプロファイルが「製品プロファイル」タブに表示されます。 選択します。
+
+   ![](assets/permissions-11.png)
+
+1. 次に、 [上のセクション](#edit-existing-permissions) を選択します。
+
 
 ## 権限のリスト {#list-of-permissions}
 

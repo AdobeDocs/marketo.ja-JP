@@ -2,16 +2,22 @@
 description: Live Chat の概要 — Marketoドキュメント — 製品ドキュメント
 title: ライブチャットの概要
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 3%
+source-wordcount: '322'
+ht-degree: 2%
 
 ---
 
 # ライブチャットの概要 {#live-chat-overview}
 
 ライブチャットを使用すると、ウェブサイトの訪問者がセールスエージェントとリアルタイムでチャットできるようになります。
+
+## ライブチャットエージェントの追加 {#add-live-chat-agents}
+
+ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Consoleのユーザー](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. この処理が完了したら、 [ライブチャットカード](#using-the-live-chat-card) を新規または既存のダイアログに追加します。
+
+訪問者がダイアログを通じてエージェントとのチャットを要求すると、エージェントは複数の [通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} そこで訪問者と話し始める事が出来る
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
 
