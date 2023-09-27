@@ -2,9 +2,9 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 13%
 
 ---
@@ -267,3 +267,5 @@ ht-degree: 13%
 ## お知らせ {#announcements}
 
 * **デザインスタジオアセットの切り替えの廃止**：ユーザーが Design Studio のクラシックインターフェイスと Modern UX エクスペリエンスを切り替えられる切り替えスイッチは、Design Studio の古いバージョンと共に廃止され、ユーザーが Modern UX エクスペリエンスに完全に移行できるようになります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}。
+
+* **_製品リリースウェビナー_**: [2023 年 7 月および 9 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
