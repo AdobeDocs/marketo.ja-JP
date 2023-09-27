@@ -2,10 +2,10 @@
 description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 13%
+source-wordcount: '937'
+ht-degree: 12%
 
 ---
 
@@ -265,6 +265,8 @@ ht-degree: 13%
 <br/>
 
 ## お知らせ {#announcements}
+
+* **Marketo Events とMarketo Moments の廃止**:Adobeは、2023 年 10 月 2 日以降、すべてのアプリストアからMarketoイベントとMarketo Moments を削除します。 既存のユーザー —Marketo EngageインスタンスをAdobeID に移行するまで、これらのアプリを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。
 
 * **デザインスタジオアセットの切り替えの廃止**：ユーザーが Design Studio のクラシックインターフェイスと Modern UX エクスペリエンスを切り替えられる切り替えスイッチは、Design Studio の古いバージョンと共に廃止され、ユーザーが Modern UX エクスペリエンスに完全に移行できるようになります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}。
 
