@@ -1,8 +1,9 @@
 ---
 description: Salesforce リスト表示へのアクションボタンの追加 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce リスト表示へのアクションボタンの追加
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
-workflow-type: ht
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 

@@ -1,8 +1,9 @@
 ---
 description: Salesforce でのセールスメールの一括送信の使用 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce でのセールスメールの一括送信の使用
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
-workflow-type: ht
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 100%
 

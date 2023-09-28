@@ -1,7 +1,8 @@
 ---
 description: 電子メールの「CC」および「BCC」セクションに一覧表示されている受信者からの表示、クリックおよび返信は追跡されますか。 - Marketo ドキュメント - 製品ドキュメント
 title: 電子メールの「CC」および「BCC」セクションに一覧表示されている受信者からの表示、クリックおよび返信は追跡されますか。
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 83a76572-7fea-463b-b3fc-b6e9fe58c696
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 36%

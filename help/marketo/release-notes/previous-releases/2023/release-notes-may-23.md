@@ -1,8 +1,9 @@
 ---
 description: リリースノート - 2023年5月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年5月
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
-workflow-type: ht
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
 

@@ -1,10 +1,11 @@
 ---
 description: Sales Insight アクションサンドボックスの設定 — Marketoドキュメント — 製品ドキュメント
 title: Sales Insight アクションサンドボックスの設定
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -12,7 +13,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、 [Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 「Marketoセールス」、単に「アクション」とも呼ばれます。
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce ユーザーインターフェイスと統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 Marketo Sandbox を持っている場合、Actions インスタンスをサンドボックスと共にテスト目的で使用できるようにします。
 
@@ -87,6 +88,6 @@ Marketo Sandbox でアクションが有効になったら、以下の手順に�
 >[!NOTE]
 >
 >* [Sales Insight Actions アカウントを Salesforce に接続](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
->* [Sales Insight Actions ユーザオンボーディングガイド](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
+>* [Sales Insight Actions ユーザーオンボーディングガイド](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
 >* [Salesforce からの自動ログイン](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
 >* [ログイン管理の設定](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}

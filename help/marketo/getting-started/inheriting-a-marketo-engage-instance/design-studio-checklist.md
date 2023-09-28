@@ -2,7 +2,8 @@
 description: 継承されたインスタンスデザインスタジオのチェックリスト — Marketoドキュメント — 製品ドキュメント
 title: 継承されたインスタンスデザインスタジオのチェックリスト
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 29d96153-0cb7-4a04-8fe9-93748be67cb0
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%

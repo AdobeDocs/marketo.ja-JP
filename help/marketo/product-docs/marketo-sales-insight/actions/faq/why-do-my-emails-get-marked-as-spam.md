@@ -1,7 +1,8 @@
 ---
 description: E メールがスパムとしてマークされるのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
 title: E メールがスパムとしてマークされるのはなぜですか？
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 81%
@@ -24,4 +25,4 @@ ht-degree: 81%
 
 * 住所が記載された完全なメール署名があることを確認します。
 
-* 準備をし、 [CAN-SPAM 法](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* 準備を進め、 [CAN-SPAM 法](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

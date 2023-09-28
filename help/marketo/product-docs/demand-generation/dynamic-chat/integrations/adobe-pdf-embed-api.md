@@ -2,7 +2,8 @@
 description: Adobe PDF Embed API - Marketoドキュメント — 製品ドキュメント
 title: Adobe PDF Embed API
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 94%
@@ -44,4 +45,3 @@ ht-degree: 94%
    ![](assets/adobe-pdf-embed-api-6.png)
 
 これで、ダイアログの[ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}で、ドキュメントカードを使用できます。
-
