@@ -3,7 +3,7 @@ description: デフォルトの Dynamics フィールドマッピング - Market
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 100%
@@ -579,8 +579,8 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     </tr>
     <tr>
       <td>企業</td>
-      <td>名前</td>
       <td>アカウント名</td>
+      <td>名前</td>
     </tr>
     <tr>
       <td>従業員数</td>
