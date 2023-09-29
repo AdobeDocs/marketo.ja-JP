@@ -3,10 +3,10 @@ description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 13%
+ht-degree: 12%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 13%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat領域</th>
+    <th style="width:25%">Dynamic Chat領域</th>
     <th>権限</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ ht-degree: 13%
 <table>
 <thead>
   <tr>
-    <th style="width:30%">プロファイル</th>
+    <th style="width:25%">プロファイル</th>
     <th>デフォルトの権限</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ ht-degree: 13%
     <li>対話型フローの表示</li>
     <li>対話型フローの管理（作成、削除）</li>
     <li>対話フローの公開</li>
-    <p>
+    <br/>
+    <br/>
     <i>ライブチャット</i>
     <li>該当なし</li>
-    <p>
+    <br>
     <br/><i>会議</i>
     <li>該当なし</li>
-    <p>
-    <br/><i>分析</i>
+    <br>
+    <br><i>分析</i>
     <li>グローバルパフォーマンスレポートの表示</li>
     <li>ライブチャットレポートを表示</li>
     <li>会議レポートを表示</li>
-    <p>
-    <br/><i>エージェント設定</i>
+    <br>
+    <br><i>エージェント設定</i>
     <li>該当なし</li>
-    <p>
-    <br/><i>管理者設定</i>
+    <br><i>管理者設定</i>
     <li>ラウンドロビンを表示</li>
     <li>カスタムルールの表示</li>
     <li>顧客リストの表示 <b>*</b></li>
