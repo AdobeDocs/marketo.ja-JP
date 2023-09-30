@@ -4,16 +4,16 @@ description: 必要なシステム構成 - Marketo ドキュメント - 製品�
 title: 必要なシステム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 53%
 
 ---
 
 # 必要なシステム構成 {#minimum-system-requirements}
 
-Marketo にログインして使用するために必要なものをご紹介します。
+ログインしてMarketo Engageを使用する必要がある場合は、次の情報をお探しです。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Marketo にログインして使用するために必要なものをご紹介し
 
 >[!NOTE]
 >
->IT チームが許可リストを使用して web アクセスを制限している場合は、`*.marketo.com` を追加してすべての Marketo リソースと web ソケットを許可するように依頼します。
+>IT チームがの使用を制限している場合は、ユーザーに許可リストに加える「 `*.marketo.com`, `*.adobe.com`、および `*.adobe.net` すべてのMarketo Engageリソースと web ソケットを許可する。
