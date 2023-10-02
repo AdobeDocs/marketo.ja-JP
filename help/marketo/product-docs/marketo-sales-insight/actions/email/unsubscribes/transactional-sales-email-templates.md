@@ -4,10 +4,10 @@ title: トランザクションセールスメールテンプレート
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 6%
+source-wordcount: '161'
+ht-degree: 3%
 
 ---
 
@@ -25,34 +25,32 @@ ht-degree: 6%
 
 1. ヘッダーで、 **テンプレート**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. 更新するテンプレートを検索します。
+1. 更新するテンプレートを選択します。
 
-PICC
-
-1. テンプレートを選択します。
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. 「テンプレート設定」で、非商用電子メールの切り替えを有効にします。
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## 非商用メールの送信 {#send-a-non-commercial-email}
 
-配信停止済みの担当者を選択すると、オレンジ色でハイライト表示されます。
+>[!NOTE]
+>
+>配信停止済みの担当者を選択すると、オレンジ色でハイライト表示されます。
 
-1. 作成ウィンドウで、表示する非商用テンプレートを選択します。
+1. ヘッダーで、 **作成**. 目的の非商用テンプレートを検索して選択します。
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. ユーザーには、現在非商用の E メールテンプレートを選択していることを示すバナーが表示されます。
+1. 非商用の E メールテンプレートを選択したことを示すバナーが表示されます。
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. 「**送信**」をクリックします。
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 ユーザーが購読を解除しても、E メールは送信されます。
