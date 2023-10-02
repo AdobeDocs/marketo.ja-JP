@@ -4,10 +4,10 @@ title: トランザクションセールスメールテンプレート
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: ee0f005bb00a7233725d788c318630af90616174
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 6%
+source-wordcount: '161'
+ht-degree: 3%
 
 ---
 
@@ -17,42 +17,40 @@ ht-degree: 6%
 
 ## 注意事項 {#things-to-note}
 
-* 非商用メールは、セールス配信停止および [Marketo Engage配信停止の確認](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* 非商用メールは、セールス配信停止および [Marketo Engage配信停止の確認](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* 配信停止メッセージは、商用以外のメールに対して [配信停止メッセージの追加の管理者設定](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} チーム配信停止メッセージが引き続き表示されます。
+* 配信停止メッセージは、商用以外のメールに対して [配信停止メッセージの追加の管理者設定](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} チーム配信停止メッセージが引き続き表示されます。
 
 ## 非商用で使用するための電子メールテンプレートの設定 {#configure-an-email-template-for-non-commercial-use}
 
 1. ヘッダーで、 **テンプレート**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. 更新するテンプレートを検索します。
+1. 更新するテンプレートを選択します。
 
-PICC
-
-1. テンプレートを選択します。
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. 「テンプレート設定」で、非商用電子メールの切り替えを有効にします。
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## 非商用メールの送信 {#send-a-non-commercial-email}
 
-配信停止済みの担当者を選択すると、オレンジ色でハイライト表示されます。
+>[!NOTE]
+>
+>配信停止済みの担当者を選択すると、オレンジ色でハイライト表示されます。
 
-1. 作成ウィンドウで、表示する非商用テンプレートを選択します。
+1. ヘッダーで、 **作成**. 目的の非商用テンプレートを検索して選択します。
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. ユーザーには、現在非商用の E メールテンプレートを選択していることを示すバナーが表示されます。
+1. 非商用の E メールテンプレートを選択したことを示すバナーが表示されます。
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. 「**送信**」をクリックします。
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 ユーザーが購読を解除しても、E メールは送信されます。
