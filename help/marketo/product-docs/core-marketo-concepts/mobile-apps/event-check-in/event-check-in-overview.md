@@ -3,18 +3,18 @@ description: イベントチェックインの概要
 title: イベントチェックインの概要
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 94%
+source-wordcount: '302'
+ht-degree: 75%
 
 ---
 
 # イベントチェックインの概要 {#event-check-in-overview}
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->このアプリはと互換性がありません [AdobeID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} この時点で。
+>2023 年 10 月 3 日に、Adobeは、すべてのアプリストアからMarketo Events App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 iPad または Android タブレット用の Marketo Events アプリを使用すると、イベントに到着したユーザーをすぐにチェックインできます。
 

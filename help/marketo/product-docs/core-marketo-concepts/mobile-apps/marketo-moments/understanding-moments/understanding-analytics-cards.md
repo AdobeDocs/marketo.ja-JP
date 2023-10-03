@@ -4,16 +4,20 @@ description: 分析カードについて - Marketo ドキュメント - 製品�
 title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 77%
 
 ---
 
 # 分析カードについて {#understanding-analytics-cards}
 
 各月の初めに、Marketo Moments には、獲得したリード、新規リード、登録解除の 3 つの異なるレポートカードが提供されます。それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
+
+>[!IMPORTANT]
+>
+>2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 分析カード {#analytics-cards}
 

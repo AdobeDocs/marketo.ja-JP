@@ -4,16 +4,20 @@ description: サンプルの送信 - Marketo ドキュメント - 製品ドキ�
 title: サンプルの送信
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 53%
 
 ---
 
 # サンプルの送信 {#sending-a-sample}
 
 メールモーメントのサンプルを他の人と直接共有できます。これを行う方法は 2 つあります。
+
+>[!IMPORTANT]
+>
+>2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 標準の方法 {#the-regular-way}
 

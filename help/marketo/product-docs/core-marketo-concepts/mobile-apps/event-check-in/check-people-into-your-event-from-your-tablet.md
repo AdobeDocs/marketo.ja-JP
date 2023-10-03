@@ -4,10 +4,10 @@ description: タブレットからイベントへの人物のチェックイン 
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 100%
+source-wordcount: '859'
+ht-degree: 92%
 
 ---
 
@@ -15,12 +15,15 @@ ht-degree: 100%
 
 人物がイベントに参加したとき、アプリで人物の情報を確認できます。チェックイン後、Marketo と同期すると、参加済みステータスに昇格されます。
 
+>[!IMPORTANT]
+>
+>2023 年 10 月 3 日に、Adobeは、すべてのアプリストアからMarketo Events App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 iPad と Android の両方で同じように動作しますが、レイアウトとデザインで微妙な違いが生じる場合があります。
 
 >[!PREREQUISITES]
 >
 >* Marketo でイベントを作成し、招待済みの人物および登録済みの人物を設定します。
->* [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=jp) または [iOS](https://apps.apple.com/jp/app/marketo-events/id522766637?mt=8) 用のタブレットアプリをダウンロードします。
 
 ## 登録ゲストのチェックイン {#check-in-registered-guests}
 

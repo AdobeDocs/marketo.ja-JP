@@ -4,10 +4,10 @@ description: Marketo Moments について - Marketo ドキュメント - 製品�
 title: Marketo Moments について
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 97%
+source-wordcount: '612'
+ht-degree: 89%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 97%
 
 Marketo の優れた機能を手に入れました！電話や iPad で今すぐメールを確認し、スケジュールを変更してください。
 
+>[!IMPORTANT]
+>
+>2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->モバイルアプリにアクセスする権限が必要です。Marketo 管理者に問い合わせて、[自分の役割を更新](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)してください。
-
->[!AVAILABILITY]
->
->このアプリはと互換性がありません [AdobeID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} この時点で。
+>_モバイルアプリにアクセスする権限が必要です。_ Marketo 管理者に問い合わせて、[自分の役割を更新](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)してください。
 
 ## ストリーム {#streams}
 
