@@ -2,10 +2,10 @@
 description: Live Chat の概要 — Marketoドキュメント — 製品ドキュメント
 title: ライブチャットの概要
 feature: Dynamic Chat
-exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 44e8b249-b534-4cec-a612-daa184acd266
+source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '348'
 ht-degree: 2%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 2%
 ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Consoleのユーザー](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. この処理が完了したら、 [ライブチャットカード](#using-the-live-chat-card) を新規または既存のダイアログに追加します。
 
 訪問者がダイアログを通じてエージェントとのチャットを要求すると、エージェントは複数の [通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} そこで訪問者と話し始める事が出来る
+
+>[!NOTE]
+>
+>ライブエージェントのアバターは、エージェントのAdobeアカウントプロファイルのプロファイル画像を使用します。 画像を更新するには、以下に従ってください。 [以下の手順](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
 
