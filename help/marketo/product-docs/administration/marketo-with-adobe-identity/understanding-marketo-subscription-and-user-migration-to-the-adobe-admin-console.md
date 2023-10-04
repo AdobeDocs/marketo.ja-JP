@@ -3,9 +3,9 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
+source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
 workflow-type: tm+mt
-source-wordcount: '1121'
+source-wordcount: '1172'
 ht-degree: 3%
 
 ---
@@ -67,13 +67,17 @@ Marketo製品管理者がおこなう操作：
 
 Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日以内に準備できるようにすることをお勧めします。
 
-* 「 Marketo Admin 」領域で、すべてのユーザーの電子メール検証ステータスを確認します。 電子メールアドレスを検証していないユーザーに対して、検証プロセスを完了する際の課題を解決するよう促します。
+* チェック [電子メールの検証](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} 「 Marketo Admin 」領域のすべてのユーザーのステータス。 電子メールアドレスを検証していないユーザーに対して、検証プロセスを完了する際の課題を解決するよう促します。
 
 * AdobeID への今後の移行に備えて、すべてのユーザーを準備します。
 
 >[!NOTE]
 >
 >ユーザーが移行すると、Marketoへのログイン方法の変更をAdobeから通知する電子メールが送信されます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいログインを設定して、初めて招待されます。
+
+>[!IMPORTANT]
+>
+>Marketo Engageユーザーが E メールアドレスを検証しない場合、ユーザーはAdobe IDに移行されず、サブスクリプションの移行が完了した後でMarketoサブスクリプションにアクセスできなくなります。 Marketo製品管理者がアクセスを再度取得するには、新しいユーザーとして追加する必要があります。
 
 ### 移行日に期待される事項 {#what-to-expect-on-migration-day}
 
@@ -89,7 +93,7 @@ Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日�
 >
 >ユーザーの移行中に、製品へのアクセス権が失われることはありません。 Adobeの移行中にユーザーがログインした場合、ユーザーはログアウトされ、移行が完了した後、ユーザー ID を使用して数分以内に再度ログインするよう求められます。
 
-ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。 詳細は、 [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) 記事。
+ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。 詳細は、 [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 記事。
 
 ## ユーザー移行完了 {#user-migration-complete}
 
