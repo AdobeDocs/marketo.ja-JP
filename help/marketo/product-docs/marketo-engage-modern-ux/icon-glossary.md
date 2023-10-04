@@ -3,7 +3,7 @@ description: アイコンの用語集 — Marketo ドキュメント — 製品�
 title: アイコン用語集
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
+source-git-commit: 3d541d6ba9944dc8b51d2dd45c1f5a2eba35e938
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 99%
@@ -99,7 +99,7 @@ ht-degree: 99%
    <td>フォルダー - アーカイブ済み</td> 
   </tr>
   <tr>
-   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
    <td>フォルダー — 共有</td> 
   </tr>
