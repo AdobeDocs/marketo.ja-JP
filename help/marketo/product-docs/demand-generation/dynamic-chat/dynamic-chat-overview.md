@@ -3,10 +3,10 @@ description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキ�
 title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 82%
+source-wordcount: '571'
+ht-degree: 80%
 
 ---
 
@@ -113,22 +113,4 @@ Dynamic Chat の言語を変更するには、以下の手順に従います。
 
 ## よくある質問 {#faq}
 
-**Dynamic Chat は、会社の web サイトの任意の場所にインストールできますか？それとも、Marketo のランディングページでのみ機能しますか？**
-
-Dynamic Chat の JavaScript スニペットは、任意の web サイトおよび Marketo のランディングページにインストールできます。
-
-**レポート用のデータはどのくらいの期間保存されますか？**
-
-90 日間. 制限/パラメーターの完全なリストについては、Marketo Engage [製品の説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
-
-**Dynamic Chat は英語以外の言語をサポートしていますか？**
-
-あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、 [言語の変更](#changing-the-language).
-
-**AI／NLP 機能はサポートしていますか？**
-
-AI／NLP 機能はサポートしていません。
-
-**匿名ユーザーをターゲットにするには、どうすればよいですか？**
-
-ダイアログで、_Person Email is Empty_ 属性を使用します。
+詳しくは、 [Dynamic Chatの FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
