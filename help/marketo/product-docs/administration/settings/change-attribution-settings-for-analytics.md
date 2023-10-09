@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360217
-description: 分析用アトリビューション設定の変更 - Marketo ドキュメント - 製品ドキュメント
-title: 分析用アトリビューション設定の変更
+description: 分析用属性設定の変更 - Marketo ドキュメント - 製品ドキュメント
+title: 分析用属性設定の変更
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
 ht-degree: 100%
 
 ---
 
-# 分析用アトリビューション設定の変更 {#change-attribution-settings-for-analytics}
+# 分析用属性設定の変更 {#change-attribution-settings-for-analytics}
 
 ファーストタッチおよびマルチタッチのアトリビューションの商談、リードコンバージョン指標、マーケティングが影響を与えた商談フラグに、Marketo が連絡先を結び付ける方法を変更できます。
 
