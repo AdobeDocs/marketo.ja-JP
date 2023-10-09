@@ -3,9 +3,9 @@ description: Salesforce に接続する際の「リクエストを認証でき�
 title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 37%
 
 ---
@@ -31,7 +31,7 @@ URL を確認することで、取得するタイプを識別できます。
 
 接続しようとしているインスタンスが Salesforce Sandbox ドメインで、エラーが発生した場合は、追加の手順を実行して、Salesforce Sandbox と互換性を持つようにインスタンスを更新する必要があります。 [詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
 
-## Oauth アプリのブロックおよびその他のエラータイプの解決 {#resolve-oauth-app-blocked-and-other-error-types}
+## ブロックされた OAuth アプリの解決 {#resolve-oauth-app-blocked}
 
 URL に「Oauth App Blocked」エラータイプまたは別のタイプのエラーメッセージが表示された場合は、Salesforce の API へのアクセスに制限が生じる可能性があります。 Salesforce 管理者に次の点を確認してください。
 
