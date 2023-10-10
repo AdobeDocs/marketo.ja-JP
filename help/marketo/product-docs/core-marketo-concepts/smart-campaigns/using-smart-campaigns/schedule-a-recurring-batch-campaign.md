@@ -4,43 +4,45 @@ description: 繰り返しバッチキャンペーンのスケジュール - Mark
 title: 繰り返しバッチキャンペーンのスケジュール
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 26%
 
 ---
 
 # 繰り返しバッチキャンペーンのスケジュール {#schedule-a-recurring-batch-campaign}
 
-繰り返しを使用すると、バッチスマートキャンペーンを定期的に実行できます。例えば、週に 1 回、月曜日の午後 12:00 に実行できます。
+繰り返しを使用すると、バッチキャンペーンを定期的に実行できます。 例えば、週に 1 回、火曜日の午前 10 時に設定します。
 
-1. キャンペーンを選択し、「スケジュール」タブに移動して、「**繰り返しのスケジュール**」をクリックします。
+1. スマートキャンペーンを選択し、 **スケジュール** タブで、 **スケジュールの繰り返し**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. 「スケジュール」ドロップダウンをクリックし、「**毎週**」を選択します。
+1. 次をクリック： **スケジュール** ドロップダウンして「 」を選択します。 **毎週**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. カレンダーアイコンをクリックし、最初の実行日を選択します。この例では、次の月曜日を使用します。
+1. カレンダーアイコンをクリックし、最初の実行日を選択します。
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. 実行する時刻を選択します。
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 繰り返し間隔は 1 のままで月曜日を選択して、「**保存**」をクリックします。
+1. 繰り返し間隔を 1 のままにし、「火曜日」を選択して、「 **保存**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. 「スケジュール」タブで、スケジュールされた繰り返しを確認できます。
+   >[!NOTE]
+   >
+   >特定の導管長については、の横のカレンダーアイコンをクリックできます。 **終了日** 終了日を選択します。
 
-   ![](assets/recurrence.jpg)
+スケジュールされた繰り返しが「スケジュール」タブの下部に表示されます。
+
+![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->「スケジュール」タブには、参照用に次の 3 つの実行予定が表示されます。
-
-これで完了です。バッチキャンペーンは、毎週月曜日の正午に実行されます。
+>「スケジュール」タブには、参照用に次の 3 つの実行予定が表示されます。赤をクリック **X** がその特定の実行をキャンセルします。

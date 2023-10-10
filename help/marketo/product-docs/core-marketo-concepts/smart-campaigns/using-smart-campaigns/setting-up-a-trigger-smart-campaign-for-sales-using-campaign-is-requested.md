@@ -4,10 +4,10 @@ description: 「キャンペーンをリクエスト」を使用して、セー�
 title: 「キャンペーンをリクエスト」を使用して、セールス向けにトリガー付きスマートキャンペーンを設定
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 100%
+source-wordcount: '290'
+ht-degree: 85%
 
 ---
 
@@ -26,24 +26,24 @@ Marketo で特に便利な機能のひとつが、セールス担当者をマー
 
 1. **スマートキャンペーン**&#x200B;を作成します。
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. 「**キャンペーンをリクエスト**」を探してドラッグします。
+1. 検索し、 **キャンペーンがリクエストされました** トリガーをキャンバスに追加します。
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. 選択肢には、優先するリクエストの種類が示されます。Salesforce 機能の場合は、必ず「**Sales** **Insight**」を選択してください。
 
    >[!TIP]
    >
-   >こうした詳細は、セキュリティのための情報です。他のスマートキャンペーンや開発者など、特定のソースによるキャンペーンのリクエストを制限できます。すべてのソースからのリクエストを許可する場合は、1 つ目のボックスで「**いずれかに該当**」を選択してください。
+   >こうした詳細は、セキュリティのための情報です。他のスマートキャンペーンや開発者など、特定のソースからのみ実行されたリクエストにキャンペーンを制限できます。 すべてのソースからのリクエストを許可する場合は、1 つ目のボックスで「**いずれかに該当**」を選択してください。
    >
    >「Sales Insight」を選択すると、セールスのボックスに自動的に表示されることを&#x200B;**覚えておいてください**。過剰は禁物です。多すぎると無視されてしまいます。
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 これは、マーケティングリーチを他部署に拡大するときに役立つ方法です。あらゆるキャンペーンを自動に設定しましょう。
 
 >[!TIP]
 >
->スマートキャンペーンには、わかりやすい名前を付けるようにします。Sales Insight では、付けた名前がそのまま表示されます。
+>スマートキャンペーンには明確な名前を付けることをお忘れなく。 Sales Insight では、付けた名前がそのまま表示されます。

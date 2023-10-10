@@ -4,18 +4,18 @@ description: 標準スマートリストルールロジックの使用 - Marketo
 title: 標準スマートリストルールロジックの使用
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
 # 標準スマートリストルールロジックの使用 {#using-standard-smart-list-rule-logic}
 
-キャンペーンスマートリストを作成する際に、「フィルターを使用」オプションがあることに気づいたかもしれません。この設定を使用すると、フィルターを AND または OR 演算子で評価する必要があるかどうかを決定できます。
+キャンペーンスマートリストを作成する際に、「フィルターを使用」オプションが表示されている可能性があります。 この設定を使用すると、フィルターを AND または OR 演算子で評価する必要があるかどうかを決定できます。
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
@@ -23,18 +23,18 @@ ht-degree: 100%
 
 トリガーは、上記の設定が ALL に設定されている場合でも、常に OR として評価されます。次に例を示します。
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
-上記のスマートリストを言葉にすると、次のようになります。
+上のスマートリストは、次の単語で構成されます。
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 
