@@ -5,7 +5,7 @@ title: メールレポートをセグメント化別にグループ化する
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 「**設定**」タブをクリックして、**セグメント化別にグループ化**」をドラッグします。
+1. 「**設定**」タブをクリックして、**「セグメンテーション別」**&#x200B;をドラッグします。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
