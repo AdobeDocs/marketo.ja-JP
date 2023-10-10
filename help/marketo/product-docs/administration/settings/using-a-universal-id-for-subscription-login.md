@@ -4,10 +4,10 @@ description: サブスクリプションログインでのユニバーサル ID 
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 100%
+source-wordcount: '580'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## ユニバーサル ID の設定 {#setting-up-a-universal-id}
 
-すべての Marketo サブスクリプションには、オプションのユニバーサル ID 機能が付属しています。個々のインスタンスから、Marketo 管理者が同じログインを使用して、異なる各サブスクリプションに招待する必要があります。Marketo は、既存のログインを自動的に結合できません。
+すべての Marketo サブスクリプションには、オプションのユニバーサル ID 機能が付属しています。個々のインスタンスから、Marketo 管理者が同じログインを使用して、異なる各サブスクリプションに招待する必要があります。Marketoは、既存のログインを自動的に結合できません。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo は、現在のサブスクリプションのパスワードが招待先の 2 つ目のサブスクリプションのパスワードポリシーに従っていない場合、ユニバーサル ID を使用してパスワードをリセットするユーザーに問い合わせます。
+>Marketoは、現在のサブスクリプションのパスワードが招待先の 2 番目のサブスクリプションのパスワードポリシーに従っていない場合、ユニバーサル ID を使用してパスワードをリセットするユーザーに問い合わせます。
 
 ## サブスクリプション間の切り替え {#switching-between-subscriptions}
 
@@ -61,10 +61,10 @@ ht-degree: 100%
 
 ## モバイルプラットフォーム {#mobile-platform}
 
-ユニバーサル ID を持つユーザーは、最後にログインしたサブスクリプションから、Marketo Moments と iPad のイベントチェックインアプリケーションでデータを確認できます。Mobile プラットフォーム自体からは、サブスクリプションを変更できません。
+ユニバーサル ID を持つユーザーは、 [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 最後にログインした購読から。 Mobile プラットフォーム自体からは、サブスクリプションを変更できません。
 
 >[!MORELIKETHIS]
 >
->* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
