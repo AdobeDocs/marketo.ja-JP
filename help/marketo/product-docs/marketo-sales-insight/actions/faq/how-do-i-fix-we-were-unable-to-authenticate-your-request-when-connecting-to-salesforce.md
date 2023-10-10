@@ -3,10 +3,10 @@ description: Salesforce に接続する際の「リクエストを認証でき�
 title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 37%
+ht-degree: 33%
 
 ---
 
@@ -33,7 +33,7 @@ URL を確認することで、取得するタイプを識別できます。
 
 ## ブロックされた OAuth アプリの解決 {#resolve-oauth-app-blocked}
 
-URL に「Oauth App Blocked」エラータイプまたは別のタイプのエラーメッセージが表示された場合は、Salesforce の API へのアクセスに制限が生じる可能性があります。 Salesforce 管理者に次の点を確認してください。
+URL に「Oauth App Blocked」エラータイプ（または別のタイプ）を含むエラーメッセージ「Unable to authenticate your request」が表示された場合は、Salesforce の API へのアクセスに制限が生じる可能性があります。 Salesforce 管理者に問い合わせて、以下の内容が正しいことを確認してください。
 
 ### ユーザ権限での API が有効化されている {#enable-api-in-user-permissions}
 
