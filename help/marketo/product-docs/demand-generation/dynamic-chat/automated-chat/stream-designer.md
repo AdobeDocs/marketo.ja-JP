@@ -2,10 +2,10 @@
 description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
 title: ストリームデザイナー
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 70%
 
 ---
@@ -50,7 +50,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td><strong>アクション</strong></td>
-  <td>フォーム内の非表示のフィールドと同様に、アクションカードを使用して、リードレコードに対して取得する暗黙の値を任意のリードまたは会社属性に入力できます。 会話の任意の時点でアクションカードを追加し、それぞれの値を自動的に設定する値またはネイティブトークンを使用して、各属性を更新できます。</td>
+  <td>フォーム内の非表示のフィールドと同様に、アクションカードを使用して、( <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string データ型</a>) をリードレコードに対してキャプチャする暗黙の値に置き換えます。 会話の任意の時点でアクションカードを追加し、それぞれの値を自動的に設定する値またはネイティブトークンを使用して、各属性を更新できます。</td>
  </tr>
  <tr>
   <td><strong>ライブチャット</strong></td>
