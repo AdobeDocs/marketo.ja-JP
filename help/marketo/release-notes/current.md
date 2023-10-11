@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 28%
@@ -26,8 +26,8 @@ ht-degree: 28%
  <tbody> 
   <tr> 
    <th style="width:65%">機能</th> 
-   <th style="width:15%">ステータス</th>
-   <th style="width:20%">ドキュメント</th>
+   <th style="width:10%">ステータス</th>
+   <th style="width:25%">ドキュメント</th>
   </tr> 
   <tr> 
    <td><strong>最新 UX でのレポート設定の新しいデザイン</strong>：レポートアセットを設定する際、 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">新しいアセットツリー</a> 設定メニューに加えて、作成日および変更日に基づいてフィルタリングする機能を使用できます。</td> 
