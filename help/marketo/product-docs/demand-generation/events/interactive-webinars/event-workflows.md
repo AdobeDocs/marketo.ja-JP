@@ -3,10 +3,10 @@ description: イベントワークフロー - Marketo ドキュメント - 製�
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 74%
+source-wordcount: '309'
+ht-degree: 61%
 
 ---
 
@@ -32,30 +32,41 @@ ht-degree: 74%
 
 **クリックしてファイルをダウンロードアクティビティ**:Web セミナーに参加し、特定のアクションを実行した様々なメンバーが提供する、Adobe Connectによる Web セミナー中にクリックされたファイルおよび Web リンクのダウンロード数を提供します。
 
+## ウェビナー録画 {#webinar-recording}
+
+「概要」タブに移動して、記録されたウェビナーを表示し、リンクを取得して共有し、コピーをダウンロードすることもできます。
+
+![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* 録画は MP4 形式でダウンロードされます。
+>* 録画を共有すると、リンクを持つすべてのユーザーが閲覧できるようになるので、対象のオーディエンスと共有されていることを確認してください。
+
 ## トリガーとフィルター {#triggers-and-filters}
 
 インタラクティブウェビナー関連のトリガーおよびフィルターを使用して、イベントプログラム内の人物の特定のグループを見つけます。
 
-![](assets/event-workflows-2.png)
+![](assets/event-workflows-3.png)
 
 各トリガー／フィルターには、追加の制約が含まれており、そのグループから焦点を絞ったサブセットを捕捉できます。
 
 **イベント中に質問**（フィルターバージョン：イベント中に質問した）
 
-![](assets/event-workflows-3.png)
+![](assets/event-workflows-4.png)
 
 **イベントに出席**（フィルターバージョン：イベントに出席した）
 
-![](assets/event-workflows-4.png)
+![](assets/event-workflows-5.png)
 
 **リンクをクリック**（フィルターバージョン：リンクをクリックした）
 
-![](assets/event-workflows-5.png)
+![](assets/event-workflows-6.png)
 
 **アセットをダウンロード**（フィルターバージョン：アセットをダウンロードした）
 
-![](assets/event-workflows-6.png)
+![](assets/event-workflows-7.png)
 
 **投票に応答**（フィルターバージョン：投票に応答した）
 
-![](assets/event-workflows-7.png)
+![](assets/event-workflows-8.png)

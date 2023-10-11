@@ -2,9 +2,10 @@
 description: Dynamic ChatFAQ - Marketoドキュメント — 製品ドキュメント
 title: Dynamic Chatの FAQ
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 14%
 
 ---
@@ -23,7 +24,7 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、 [言語の変更](#changing-the-language).
+あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、 [言語の変更](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **AI／NLP 機能はサポートしていますか？**
 
@@ -80,6 +81,10 @@ Dynamic Chatは、Salesforce 統合Marketo Engageで Salesforce と統合でき�
 **対話と対話の流れの違いは何ですか？**
 
 ダイアログとは、定義された一連のターゲット条件を満たす Web 訪問者に対して、自動的に表示される会話です。 対話フローは、ボタンの押しなど、Web 上で特定のアクションを実行する訪問者にのみ表示されます。
+
+**メールから直接会議を予約するDynamic Chatを使用する方法はありますか？**
+
+はい! [方法を表示する](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Marketo EngageなしでDynamic Chatを使用できますか？**
 

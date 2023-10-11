@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 28%
 
 ---
@@ -53,8 +53,9 @@ ht-degree: 28%
   </tr>
    <tr> 
    <td><strong>インタラクティブなウェビナーでの録画と共同ホストの割り当てのダウンロード</strong>：元のホストを使用できない場合に備えて、Web セミナー用に外部共同ホストを追加できるようになりました。 これで、ウェビナー録画をダウンロードする機能も持ちました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">録音をダウンロード</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">インタラクティブウェビナーの作成</a></li></td>
   </tr>
  </tbody> 
 </table>
