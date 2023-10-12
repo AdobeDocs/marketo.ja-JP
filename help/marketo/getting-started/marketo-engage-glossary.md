@@ -4,7 +4,7 @@ description: Marketo Engageの用語集 — Marketoドキュメント — 製品
 title: Marketo Engage用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 99%
@@ -172,7 +172,7 @@ ht-degree: 99%
    <td colspan="1">Marketo では、インスタンス内で複数の異なるタイプのエンティティを複製できます。<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">プログラム</a>、<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">プログラム内のアセット</a>、<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">ストリーム</a>などを複製できます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL の前の部分。1 つの単語（プラス YourCompany.com）が CNAME と呼ばれます（例：<em>info</em>.YourCompany.com/）。</td> 
   </tr> 
   <tr> 
