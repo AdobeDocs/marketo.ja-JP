@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの作成 - Marketo ドキ�
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 56%
+source-wordcount: '184'
+ht-degree: 47%
 
 ---
 
@@ -53,6 +53,10 @@ ht-degree: 56%
 インタラクティブウェビナーが作成されます。発表者や共同ホストを追加できます。
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>共同ホストと発表者は、外部のユーザーである場合があり、Marketo Engageへのアクセス権は不要です。 ウェビナーの URL を提供するだけで済みます。
 
 <br>
 
