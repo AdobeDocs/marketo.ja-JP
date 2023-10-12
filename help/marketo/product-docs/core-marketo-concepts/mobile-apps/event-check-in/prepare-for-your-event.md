@@ -4,10 +4,10 @@ description: イベントの準備 - Marketo ドキュメント - 製品ドキ�
 title: イベントの準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 83%
+source-wordcount: '408'
+ht-degree: 81%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 83%
 
 ## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を使用して、iPad または Android ユーザー向けに[新しい Marketo ロールを作成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を使用して、 または ユーザー向けに[新しい Marketo ロールを作成](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)[!DNL iPad]します。[!DNL Android]
 
 ## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Marketo には、イベントチェックインアプリ用の特別なユーザ
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. 「**仮**」から「**確定**」に変更します。
+1. 「**[!UICONTROL 仮]**」から「**[!UICONTROL 確定]**」に変更します。
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Marketo には、イベントチェックインアプリ用の特別なユーザ
 
 ## イベントにユーザーを追加 {#add-people-to-your-event}
 
-*タイミング*&#x200B;がわかったので、*対象ユーザー*&#x200B;を追加します。
+_タイミング_&#x200B;がわかったので、*対象ユーザー*&#x200B;を追加します。
 
-1. 既にユーザーのリストがある場合は、「マイ Marketo」で、「**データベース**」タイルをクリックします。
+1. 既にユーザーのリストがある場合は、「マイ Marketo」で、「**[!UICONTROL データベース]**」タイルをクリックします。
 
    ![](assets/db.png)
 
-1. ユーザーを含むリストを選択し、「**ユーザー**」タブをクリックします。
+1. ユーザーを含むリストを選択し、「**[!UICONTROL ユーザー]**」タブをクリックします。
 
    ![](assets/four.png)
 
-1. リストからイベントのユーザーを選択します。複数のユーザーをクリックするには、**Ctrl**（Mac の場合は **Command**）を使用します。すべてのユーザーをマークするには、「**すべて**」を選択します。
+1. リストからイベントのユーザーを選択します。複数のユーザーをクリックするには、**[!UICONTROL Ctrl]**（Mac の場合は **[!UICONTROL Command]**）を使用します。すべてのユーザーをマークするには、「**[!UICONTROL すべて]**」を選択します。
 
    ![](assets/five.png)
 
-1. 「**ユーザーのアクション**」をクリックし、「**プログラム**」の上にマウスポインターを置いて、「**プログラムステータスを変更**」を選択します。
+1. 「**[!UICONTROL ユーザーのアクション]**」をクリックし、「**[!UICONTROL プログラム]**」の上にマウスポインターを置いて、「**[!UICONTROL プログラムステータスを変更]**」を選択します。
 
    ![](assets/six.png)
 
-1. 「**プログラム**」ドロップダウンリストをクリックし、イベントを選択します。
+1. 「**[!UICONTROL プログラム]**」ドロップダウンリストをクリックし、イベントを選択します。
 
    ![](assets/seven.png)
 
-1. 「**新しいステータス**」ドロップダウンをクリックし、**ロードショー／登録済み**&#x200B;を選択します。「**今すぐ実行**」をクリックします。
+1. 次をクリック： **[!UICONTROL 新しいステータス]** ドロップダウンして「 」を選択します。 **[!UICONTROL ロードショー] > [!UICONTROL 登録済み]**. 「**[!UICONTROL 今すぐ実行]**」をクリックします。
 
    ![](assets/eight.png)
 

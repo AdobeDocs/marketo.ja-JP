@@ -4,7 +4,7 @@ description: お気に入りの作成 - Marketo ドキュメント - 製品ド�
 title: お気に入りの作成
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 34%
@@ -23,7 +23,7 @@ ht-degree: 34%
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. 「**お気に入り**」をタップします。
+1. 「**[!UICONTROL お気に入り]**」をタップします。
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 

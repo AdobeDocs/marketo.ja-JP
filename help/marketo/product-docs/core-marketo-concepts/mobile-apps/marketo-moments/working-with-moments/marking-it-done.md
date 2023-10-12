@@ -4,16 +4,16 @@ description: 完了としてマーク - Marketo ドキュメント - 製品ド�
 title: 完了としてマーク
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 54%
+source-wordcount: '143'
+ht-degree: 42%
 
 ---
 
 # 完了としてマーク {#marking-it-done}
 
-メールプログラム、イベント、分析カードを完了としてマークし、ストリームから削除します。これを行う方法は 2 つあります。
+メールプログラム、イベントまたは Analytics カードを [!UICONTROL 完了] をクリックして、ストリームから削除します。 これを行う方法は 2 つあります。
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ ht-degree: 54%
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 「**完了**」をタップします。
+1. 「**[!UICONTROL 完了]**」をタップします。
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ ht-degree: 54%
    >[!NOTE]
    >
    >カードを完了としてマークしても、メール、イベント、スマートキャンペーンは削除されません。モーメント／後でストリームから、完了ストリームに移動するだけです。
-
-簡単でしたね。

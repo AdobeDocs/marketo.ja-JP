@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 100%
@@ -35,7 +35,7 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 
    ![](assets/two.png)
 
-1. **ツール**&#x200B;で「**運用**」を選択し、「**Web コンソール**」を選択します。
+1. **[!UICONTROL ツール]**&#x200B;で「**[!UICONTROL 運用]**」を選択し、「**[!UICONTROL Web コンソール]**」を選択します。
 
    ![](assets/2a.png)
 
@@ -47,34 +47,34 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 
    ![](assets/four.png)
 
-1. 「**許可済み接触チャネル（正規表現）**」テキストボックスに、`https://.*\.marketo\.com` と入力し、「**保存**」をクリックします。
+1. 「**[!UICONTROL 許可済み接触チャネル（正規表現）]**」テキストボックスに、`https://.*\.marketo\.com` と入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five-psd.png)
 
-1. ページ上部のヘッダーで、「**Web コンソール**」を選択し、「**システム情報**」を選択します。
+1. ページ上部のヘッダーで、「**[!UICONTROL Web コンソール]**」を選択し、「**[!UICONTROL システム情報]**」を選択します。
 
    ![](assets/six.png)
 
-1. 「サーバー情報」で、「**再起動**」ボタンをクリックします。
+1. 「サーバー情報」で、「**[!UICONTROL 再起動]**」ボタンをクリックします。
 
    ![](assets/seven.png)
 
-1. 「**OK**」をクリックして続行します。
+1. 「**[!UICONTROL OK]**」をクリックして続行します。
 
    ![](assets/eight.png)
 
-1. Marketo Engage で、「**管理者**」をクリックします。
+1. Marketo Engage で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/nine.png)
 
-1. 「統合」で、「**Adobe Experience Manager**」を選択します。
+1. 「統合」で、「**[!UICONTROL Adobe Experience Manager]**」を選択します。
 
    ![](assets/ten.png)
 
-1. 「**編集**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/eleven.png)
 
-1. AEM の URL を入力し、「**OK**」をクリックします。
+1. AEM の URL を入力し、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/twelve.png)

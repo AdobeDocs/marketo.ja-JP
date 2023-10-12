@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Marketo アセットの名前変更 - Marketo ドキュメント - 製品ドキュメント
 title: Marketo アセットの名前変更
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. テキストフィールドに新しい名前を入力します。「**保存**」をクリックします。
+1. テキストフィールドに新しい名前を入力します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

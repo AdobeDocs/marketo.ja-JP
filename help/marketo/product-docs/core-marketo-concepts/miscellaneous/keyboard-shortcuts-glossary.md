@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: キーボードショートカットの用語集 - Marketo ドキュメント - 製品ドキュメント
 title: キーボードショートカットの用語集
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 キーボードショートカットを好む方でもご心配ありません。
 
-## エリアナビゲーション： {#area-navigation}
+## エリアナビゲーション {#area-navigation}
 
 | キーボードショートカット | エリア |
 |---|---|
@@ -26,9 +26,8 @@ ht-degree: 100%
 | Alt／Opt + M | マーケティング活動 |
 | Opt + N | 管理 |
 | Opt + O | マイ Marketo |
-| Alt/Opt + S | ドロップダウンスーパーボールメニュー |
 
-## カレンダー／スケジュールビューのナビゲーション：  {#calendar-schedule-view-navigation}
+## カレンダー/スケジュール表示のナビゲーション  {#calendar-schedule-view-navigation}
 
 | キーボードショートカット | アクション |
 |---|---|
@@ -36,7 +35,7 @@ ht-degree: 100%
 | Alt/Opt + 下矢印 | 時間を進む |
 | Alt／Opt + T | 「今日」に移動 |
 
-## その他： {#miscellaneous}
+## その他 {#miscellaneous}
 
 | キーボードショートカット | アクション |
 |---|---|

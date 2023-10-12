@@ -4,10 +4,10 @@ description: モーメントの共有 - Marketo ドキュメント - 製品ド�
 title: モーメントの共有
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 53%
+source-wordcount: '155'
+ht-degree: 52%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 53%
 >
 >2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-1. カードの「**共有**」アイコンをクリックします。
+1. カードの「**[!UICONTROL 共有]**」アイコンをクリックします。
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. カードメニューをタップし、「**共有**」をクリックします。
+1. カードメニューをタップし、「**[!UICONTROL 共有]**」をクリックします。
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -37,8 +37,6 @@ ht-degree: 53%
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. 受信者のアドレスと件名を入力し、「**送信**」をタップします。
+1. 受信者のアドレスと件名を入力し、「**[!UICONTROL 送信]**」をタップします。
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
-
-   これで完了です。

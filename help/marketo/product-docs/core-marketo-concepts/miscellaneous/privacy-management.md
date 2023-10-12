@@ -2,10 +2,10 @@
 description: プライバシー管理 - Marketo ドキュメント - 製品ドキュメント
 title: プライバシー管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 100%
+source-wordcount: '404'
+ht-degree: 92%
 
 ---
 
@@ -23,16 +23,15 @@ Marketo Engage は、プライバシー規制を遵守するのに役立つ一�
 >
 >* Adobe Identity Management システムに既に存在する別の Experience Cloud 製品（RT-CDP、B2B および B2P エディション、Audience Manager など）を使用する Marketo Engage ユーザ。
 
-
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
 
-Marketo Engage の機能は、次の規制の遵守に役立ちます。
+Marketo Engageの機能は、次の規制の遵守に役立ちます。
 
-* **GDPR** [一般データ保護規則](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)は、欧州連合（EU）のプライバシー保護法で、EU 諸国のデータ保護要件を現代の状況に合わせて整合化させることを目的としています。
-* **CCPA** [カリフォルニア州消費者プライバシー法](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=)は、カリフォルニア州の住民に対して個人情報に関する権利を提供し、カリフォルニア州でビジネスをおこなう特定の事業者に対してデータ保護の責任を課します。
-* **PDPA** [個人データ保護法](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)は、タイのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
-* **LGPD** [一般個人データ保護法](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)は、2021 年初め以降、ブラジルで個人データを収集または処理するすべての企業に対して有効となります。
-* **NZPA** [2020 年プライバシー法](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/)は、ニュージーランドのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
+* **[!DNL GDPR]** [EU 一般データ保護規則](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) は、欧州連合 (EU) のプライバシー保護法で、EU 諸国のデータ保護要件を現代の状況に合わせて整合化させることを目的としています。
+* **[!DNL CCPA]**[ カリフォルニア州消費者プライバシー法](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=)は、カリフォルニア州の住民に対して個人情報に関する権利を提供し、カリフォルニア州でビジネスをおこなう特定の事業者に対してデータ保護の責任を課します。
+* **[!DNL PDPA]**[ 個人データ保護法](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)は、タイのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
+* **[!DNL LGPD]**[ 一般個人データ保護法](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)は、2021 年初め以降、ブラジルで個人データを収集または処理するすべての企業に対して有効となります。
+* **[!DNL NZPA]**[ 2020 年プライバシー法](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/)は、ニュージーランドのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
 
 上記の規則はすべて、上記の各地域または国（EU、カリフォルニア州、タイ、ブラジル、ニュージーランド）に居住するデータ主体のデータを保持する Marketo Engage の顧客に適用されます。
 
