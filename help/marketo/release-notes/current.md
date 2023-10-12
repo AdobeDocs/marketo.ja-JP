@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 28%
+source-wordcount: '347'
+ht-degree: 27%
 
 ---
 
@@ -42,8 +42,8 @@ ht-degree: 28%
   </tr>
    <tr> 
    <td><strong>数式フローステップサービスを計算</strong>：数式の計算は、Adobeの IO Runtime プラットフォームに基づいて構築され、Marketo Engageスマートキャンペーンで使用されるフローステップサービスです。 IO ランタイムを持つユーザーは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールでき、Marketo Engageスマートキャンペーンで Excel のような数式を計算できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">計算式ユーザーガイド</a></td>
   </tr>
   <tr> 
    <td> </td> 
