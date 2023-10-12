@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: 639bb1404117607af116122b410479d37ae32fad
 workflow-type: tm+mt
-source-wordcount: '9102'
+source-wordcount: '9094'
 ht-degree: 98%
 
 ---
@@ -192,7 +192,6 @@ ht-degree: 98%
          + [Marketo パスワードの変更](product-docs/administration/settings/change-your-marketo-password.md)
          + [パスワードセキュリティ設定の変更](product-docs/administration/settings/change-your-password-security-settings.md)
          + [人物の詳細ページ用のカスタムタブの作成](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [CNAME を使用したランディングページ URL のカスタマイズ](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [アカウント設定の編集](product-docs/administration/settings/edit-account-settings.md)
          + [ブラウザーの「トラッキング拒否」サポート設定の編集](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
