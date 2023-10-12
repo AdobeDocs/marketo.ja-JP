@@ -4,36 +4,32 @@ description: スマートキャンペーンへのフローステップの追加 
 title: スマートキャンペーンへのフローステップの追加
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 81%
 
 ---
 
 # スマートキャンペーンへのフローステップの追加 {#add-a-flow-step-to-a-smart-campaign}
 
-フローステップは、該当するリードグループに起こってほしいことを Marketo に伝えるものです。フローステップを使用すれば、定めた指示に沿ってスマートキャンペーンが実施されます。
+フローステップは、該当するリードグループに起こってほしいことを Marketo に伝えるものです。彼らはあなたの指示であり、スマートキャンペーンがあなたの入札を実行します！
 
-1. 「**マーケティング活動**」に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. スマートキャンペーンに移動して「**フロー**」をクリックします。
+1. スマートキャンペーンを選択して「**フロー**」をクリックします。
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   フローステップを入力して検索し、それをキャンバスにドラッグ＆ドロップします。複数のフローステップを追加できます。キャンペーンで実行するすべてのステップに対して同じ操作を繰り返してください。
+1. フローステップを入力して検索し、それをキャンバスにドラッグ＆ドロップします。複数のフローステップを追加できます。キャンペーンで実行するすべてのステップに対して同じ操作を繰り返してください。
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. ドロップダウンをクリックして適切なオプションを選択します。
+1. 目的のオプションと値をクリックします。
 
-   ![](assets/four-1.png)
-
-1. 値を入力します。
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ ht-degree: 100%
 >
 >入力が無効な場合には、赤色の線が表示されます。この赤線の上にカーソルを置くと、修正方法を確認できます。
 
-これで完了です。スマートキャンペーンのスケジュールまたはアクティブ化を行う前に、必ず[スマートキャンペーンを確認および検証](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)してください。
+これで完了です。必ず [スマートキャンペーンの確認と検証](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) スケジュールまたはアクティブ化する前に
 
 >[!MORELIKETHIS]
 >
