@@ -4,10 +4,10 @@ description: プログラム効果レポートの作成 - Marketo ドキュメ�
 title: プログラム効果レポートの作成
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 94%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 このレポートを使用して、プログラムの有益な統計を表示します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**プログラム効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
-1. 「**レポート**」タブをクリックします。
+1. [プログラムでのレポートの作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. 「**[!UICONTROL レポート]**」タブをクリックします。
 1. レポートが表示されました。レポートを参照して、プログラムの効果を確認します。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->例えば、*成功あたりの原価*&#x200B;が最も低いプログラムを見つけるには、その列で[レポートの並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)を実行し、「**昇順に並べ替え**」を選択します。
+>例えば、*成功あたりの原価*&#x200B;が最も低いプログラムを見つけるには、その列で[レポートの並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}を実行し、「**[!UICONTROL 昇順に並べ替え]**」を選択します。
 
 プログラム効果レポートの列は次のとおりです。
 

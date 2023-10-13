@@ -4,7 +4,7 @@ description: プログラムレポートをプログラムでフィルター - M
 title: プログラムレポートをプログラムでフィルター
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
@@ -13,9 +13,9 @@ ht-degree: 100%
 
 # プログラムレポートをプログラムでフィルター {#filter-a-program-report-by-program}
 
-特定のプログラムの[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)をフォーカスして、パフォーマンスを比較します。
+特定のプログラムの[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}をフォーカスして、パフォーマンスを比較します。
 
-1. 「**マーケティング****活動**」（または「**分析**」）に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」（または「**[!UICONTROL 分析]**」）に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. 「**セットアップ**」タブをクリックし、「**プログラム**」の上にドラッグします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックし、「**[!UICONTROL プログラム]**」の上にドラッグします。
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ ht-degree: 100%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 以上です。「**レポート**」タブをクリックして、レポートで選択したプログラム&#x200B;_のみ_&#x200B;を表示します。
+1. 以上です。「**[!UICONTROL レポート]**」タブをクリックして、レポートで選択したプログラム&#x200B;_のみ_&#x200B;を表示します。
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
-   >[!NOTE]
-   >
-   >[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[!NOTE]
+>
+>[プログラムレポートをタグでフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

@@ -3,10 +3,10 @@ description: モデルとインサイト - Marketo ドキュメント - 製品�
 title: モデルとインサイト
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 81%
+ht-degree: 67%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 81%
 
 モデルの状態を評価する方法を次に示します。
 
-次に移動： **[!UICONTROL モデルとデータの正常性]** 下のセクション **[!UICONTROL Predictive Audiences]** 内 **[!UICONTROL 管理者]** Marketo Engage領域 すべてのモデルとそのステータスが表示されます。
+次に移動： **[!UICONTROL モデルとデータの正常性]** の下のセクション **[!UICONTROL Predictive Audiences]** （内） **[!UICONTROL 管理者]** Marketo Engage領域。 すべてのモデルとそのステータスが表示されます。
 
 ![画像 1](assets/models-and-insights-1.png)
 
-* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。トレーニングは 2 週間ごとに自動的に実行されます。_処理中_&#x200B;のモデルは、終了するまでに最大 24 時間かかる場合があります。任意の _失敗_ モデル，に問い合わせてください [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。トレーニングは 2 週間ごとに自動的に実行されます。以下に該当する任意のモデル _処理中_ 終了するまでに最大 24 時間かかる場合があります。 任意の _失敗_ モデル，に問い合わせてください [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **スコアリングステータス**：モデルがプログラムメンバーの予測（可能性の割合）を積極的に計算しているかどうかを示します。
-* **効果**：データの完全性とデータ品質に基づくモデルの状態の分類（以下を参照）。
+* **パフォーマンス**：データの完全性とデータ品質に基づくモデルの正常性の分類（以下を参照）。
 * **データの完全性**：存在／完了しているデータ属性の割合。
 * **データ品質**：良好で使用可能なデータを含む属性の割合。
