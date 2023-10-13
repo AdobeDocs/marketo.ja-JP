@@ -4,7 +4,7 @@ description: プログラムスケジュール表示でのカスタムオーバ�
 title: カスタムオーバーレイの作成
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 カスタムオーバーレイを作成すると、必要に応じたエントリを表示できます。
 
-1. 「**アジェンダ**」ドロップダウンをクリックします。
+1. 「**[!UICONTROL アジェンダ]**」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 「**オーバーレイ**」を選択します。
+1. 「**[!UICONTROL オーバーレイ]**」を選択します。
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 「[プログラムタグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)」でフィルターすることもできます。
+1. 「[プログラムタグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md){target="_blank"}」でフィルターすることもできます。
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

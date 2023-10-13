@@ -4,7 +4,7 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
 
-マイトークンに加えて、プログラムに組み込まれた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)を参照してください
+マイトークンに加えて、プログラムに組み込まれた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください
 
 ## マイトークン  {#my-tokens}
 
-マイトークンは、誰でも作成できるカスタム変数です。これらは、キャンペーンフォルダーまたはプログラム内で[作成](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)されます。
+マイトークンは、誰でも作成できるカスタム変数です。これらは、キャンペーンフォルダーまたはプログラム内で[作成](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}されます。
 
 マイトークンは次のように表示されます。`{{my.Name Of Token}}`
 
@@ -93,5 +93,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [マイトークンの管理](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [マイトークンの管理](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

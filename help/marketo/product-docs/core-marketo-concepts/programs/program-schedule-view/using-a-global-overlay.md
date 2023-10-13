@@ -4,9 +4,9 @@ description: グローバルオーバーレイの使用 - Marketo ドキュメ�
 title: グローバルオーバーレイの使用
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、[マーケティングカレンダーのライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)が付与されている必要があります。
+>この機能を使用するには、[マーケティングカレンダーのライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}が付与されている必要があります。
 
 ## グローバルオーバーレイの使用 {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 右下隅にある「**オーバーレイ**」を選択します。
+1. 右下隅にある「**[!UICONTROL オーバーレイ]**」を選択します。
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,16 +39,16 @@ ht-degree: 100%
 
 ## 保存されているフィルターをオーバーレイとして使用 {#use-a-saved-filter-as-an-overlay}
 
-[マーケティングカレンダーでフィルターが保存されている](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)場合、それをプログラムスケジュール表示でオーバーレイとして使用できます。
+[マーケティングカレンダーでフィルターが保存されている](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}場合、それをプログラムスケジュール表示でオーバーレイとして使用できます。
 
-1. 「**オーバーレイ**」ドロップダウンをクリックし、フィルター定義を選択します。
+1. 「**[!UICONTROL オーバーレイ]**」ドロップダウンをクリックし、フィルター定義を選択します。
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   簡単ですね。これで、保存されているフィルターを選択して定義したオーバーレイが表示されます。
+   これで、保存されているフィルターを選択して定義したオーバーレイが表示されます。
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[プログラムスケジュール表示でのカスタムオーバーレイの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[プログラムスケジュール表示でのカスタムオーバーレイの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

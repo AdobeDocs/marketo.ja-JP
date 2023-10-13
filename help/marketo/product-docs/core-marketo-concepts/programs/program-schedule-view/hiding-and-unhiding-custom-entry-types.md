@@ -4,7 +4,7 @@ description: カスタムエントリタイプの非表示と再表示 - Marketo
 title: カスタムエントリタイプの非表示と再表示
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## カスタムエントリタイプの非表示 {#hide-a-custom-entry-type}
 
-1. 「**管理者**」セクションに移動して、**カレンダーエントリ****タイプ**&#x200B;をクリックします。
+1. 「**[!UICONTROL 管理者]**」セクションに移動して、**[!UICONTROL カレンダーエントリタイプ]**&#x200B;をクリックします。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. カスタムエントリを右クリックし、「**非表示**」をクリックします。
+1. カスタムエントリを右クリックし、「**[!UICONTROL 非表示]**」をクリックします。
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 カスタムエントリタイプを再表示する場合も簡単です。
 
-1. エントリを右クリックし、「**再表示**」を選択します。
+1. エントリを右クリックし、「**[!UICONTROL 再表示]**」を選択します。
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

@@ -4,7 +4,7 @@ description: スケジュール表示からのプログラム全体の再スケ�
 title: スケジュール表示からのプログラム全体の再スケジュール
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 「イベントアクション」ドロップダウンを選択します。「**エントリの再スケジュール**」を選択します。
+1. 「イベントアクション」ドロップダウンを選択します。「**[!UICONTROL エントリの再スケジュール]**」を選択します。
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 「**再スケジュール**」をクリックします。
+1. 「**[!UICONTROL 再スケジュール]**」をクリックします。
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

@@ -4,10 +4,10 @@ description: プログラムメンバーカスタムフィールドトークン 
 title: プログラムメンバーカスタムフィールドトークン
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 97%
+ht-degree: 94%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 
 PMCF トークンは、トークンファミリーのメンバードメインでサポートされます。
 
-メンバートークンは、プログラムメンバーの範囲のフィールドに使用されます。現状では、メンバートークンは、統合サービスパートナーから一意の値を挿入するためにも使用されます。`{{member.webinar url}}` トークンは、サービスプロバイダーによって生成されたユーザーの一意の確認 URL を自動的に解決します。{{member.registration code}} は、サービスプロバイダーから提供された登録コードに解決されます。
+メンバートークンは、プログラムメンバーの範囲のフィールドに使用されます。現状では、メンバートークンは、統合サービスパートナーから一意の値を挿入するためにも使用されます。`{{member.webinar url}}` トークンは、サービスプロバイダーによって生成されたユーザーの一意の確認 URL を自動的に解決します。 {{member.registration code}} は、サービスプロバイダーから提供された登録コードに解決されます。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
 **メール**
 
-1. 目的のメールを選択し、「**ドラフトを編集**」をクリックします。
+1. 目的のメールを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択し、デフォルト値を入力して、「**挿入**」をクリックします。
+1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択し、デフォルト値を入力して、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
 **ランディングページ**
 
-1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
+1. ランディングページを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. デフォルト値を入力し、「**挿入**」をクリックします。
+1. デフォルト値を入力し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. 目的の SMS を選択し、「**ドラフトを編集**」をクリックします。
+1. 目的の SMS を選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. 「SMS アクション」ドロップダウンをクリックし、「**承認して閉じる**」を選択します。
+1. 「SMS アクション」ドロップダウンをクリックし、「**[!UICONTROL 承認して閉じる]**」を選択します。
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **プッシュ通知**
 
-1. 目的のプッシュ通知を選択し、「**ドラフトを編集**」をクリックします。
+1. 目的のプッシュ通知を選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 「**プッシュ通知**」をクリックします。
+1. 「**[!UICONTROL プッシュ通知]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。デフォルト値を入力し、「**挿入**」をクリックします。
+1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。デフォルト値を入力し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 「**完了**」をクリックして、保存して終了します（または「**次へ**」をクリックして最初にレビューします）。
+1. 「**[!UICONTROL 完了]**」をクリックして、保存して終了します（または「**[!UICONTROL 次へ]**」をクリックして最初にレビューします）。
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

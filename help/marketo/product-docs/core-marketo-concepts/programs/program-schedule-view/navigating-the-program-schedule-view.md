@@ -4,7 +4,7 @@ description: プログラムスケジュールビューの操作 - Marketo ド�
 title: プログラムスケジュールビューの操作
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 100%
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## スケジュールビューを検索 {#find-the-schedule-view}
 
-1. 「**マーケティング活動**」に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. プログラムを選択します。「**表示**」ドロップダウンをクリックします。「**スケジュール**」を選択します。
+1. プログラムを選択します。「**[!UICONTROL 表示]**」ドロップダウンをクリックします。「**[!UICONTROL スケジュール]**」を選択します。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 100%
 
 ## モード間の変更 {#changing-between-modes}
 
-1. 「**3 週間**」または「**月**」をクリックして、ディスプレイ上の表示日を変更します。
+1. 「**[!UICONTROL 3 週間]**」または「**[!UICONTROL 月]**」をクリックして、ディスプレイ上の表示日を変更します。
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[プログラムスケジュールビューでのエントリの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[プログラムスケジュールビューでのエントリの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

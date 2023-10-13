@@ -4,7 +4,7 @@ description: プログラムレポートをタグでフィルター - Marketo �
 title: プログラムレポートをタグでフィルター
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 # プログラムレポートをタグでフィルター {#filter-a-program-report-by-tag}
 
-[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定の[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)に絞り込みます。
+[プログラム効果レポート](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)を特定の[タグ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}に絞り込みます。
 
-1. 「**マーケティング****活動**」（または「**分析**」）に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」（または「**[!UICONTROL 分析]**」）に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. **プログラム効果**&#x200B;レポートを選択します。
+1. **[!UICONTROL プログラム効果]**&#x200B;レポートを選択します。
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. 「**セットアップ**」タブをクリックし、**タグ**&#x200B;フィルターの 1 つをドラッグします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックし、**[!UICONTROL タグ]**&#x200B;フィルターの 1 つをドラッグします。
 
    ![](assets/prospects.jpg)
 
@@ -31,14 +31,14 @@ ht-degree: 100%
 
    ![](assets/prospect1.jpg)
 
-1. 「**適用**」をクリックします。
+1. 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/prospect2.jpg)
 
-1. 完了です。「**レポート**」タブをクリックすると、レポートで選択したタグに一致する&#x200B;_プログラムのみ_&#x200B;表示されます。
+1. 完了です。「**[!UICONTROL レポート]**」タブをクリックすると、レポートで選択したタグに一致する&#x200B;_プログラムのみ_&#x200B;表示されます。
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
-   >[!NOTE]
-   >
-   >[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+>[!NOTE]
+>
+>[プログラムレポートを期間原価でフィルター](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

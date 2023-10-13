@@ -4,18 +4,18 @@ description: プログラムスケジュール表示でのスマートキャン�
 title: プログラムスケジュール表示でのスマートキャンペーンの再実行
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 100%
+ht-degree: 53%
 
 ---
 
 # プログラムスケジュール表示でのスマートキャンペーンの再実行 {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-既存のスマートキャンペーンの新しい実行を、プログラムスケジュールビューから直接簡単に作成できます。
+既存のスマートキャンペーンの新しい実行を、プログラムのスケジュールビューから直接簡単に作成できます。
 
-1. 「**マーケティング活動**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -35,4 +35,4 @@ ht-degree: 100%
    >
    >また、「[プログラムフォーカス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)」からも実行できます。
 
-いかがですか？これで、スマートキャンペーンの実行を別途スケジュールできました。そのスマートキャンペーンにメール送信手順が含まれている場合は、それも表示されます。
+いかがですか？同様に、そのスマートキャンペーンに対して別の実行をスケジュールしました。 そのスマートキャンペーンにメール送信手順が含まれている場合は、それらの手順も表示されます。
