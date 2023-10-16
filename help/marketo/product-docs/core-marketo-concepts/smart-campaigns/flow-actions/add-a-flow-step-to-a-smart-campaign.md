@@ -4,7 +4,7 @@ description: スマートキャンペーンへのフローステップの追加 
 title: スマートキャンペーンへのフローステップの追加
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 77%
@@ -33,7 +33,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->フローステップは、リストされた順に実行されます。適切な順序で実行されるように、[フローステップを並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}てください。
+>フローステップは、リストされた順に実行されます。適切な順序で実行されるように、[フローステップを並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}てください。
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ ht-degree: 77%
 >[!MORELIKETHIS]
 >
 >* [フローステップでの「選択肢を追加」の使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [スマートキャンペーンでのフローステップの並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [スマートキャンペーンでのフローステップの並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
