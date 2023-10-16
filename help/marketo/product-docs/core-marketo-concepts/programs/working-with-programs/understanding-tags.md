@@ -4,16 +4,16 @@ description: タグについて - Marketo ドキュメント - 製品ドキュ�
 title: タグについて
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 84%
 
 ---
 
 # タグについて {#understanding-tags}
 
-プログラムが Marketo に欠かせない構成要素であることは、既におわかりいただけたことでしょう。タグとチャネルを利用することで、レポート用にデータを絞り込んで収集することができます。
+おそらく皆さんもご存知の通りプログラムはMarketo Engageの構成要素のようなものです タグとチャネルを利用することで、レポート用にデータを絞り込んで収集することができます。
 
 タグは、プログラムの説明に用いられます。タグは、必要なだけ、固有の値を設定して作成できます。チャネルは、ウェビナー、スポンサー広告、オンライン広告など、プログラムの配信メカニズムを識別するためのものです。
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->カスタムタグを作成する場合は、[Marketo 管理者](/help/marketo/product-docs/administration/tags/create-custom-tags.md)にお問い合わせください。
+>作成する場合は、Marketo管理者にお問い合わせください。 [カスタムタグ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 ## チャネル {#channel}
 
-チャネルは、プログラムにおける[メンバー](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)の進行状況をレポートする際に用いられます。各チャネルには、一連の進行状況ステータスと、「成功」に設定された 1 つのステータスがあります。
+チャネルは、プログラムにおける[メンバー](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}の進行状況をレポートする際に用いられます。各チャネルには、一連の進行状況ステータスと、「成功」に設定された 1 つのステータスがあります。
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [カスタムタグの作成](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [カスタムタグの作成](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [プログラムチャネルの作成](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

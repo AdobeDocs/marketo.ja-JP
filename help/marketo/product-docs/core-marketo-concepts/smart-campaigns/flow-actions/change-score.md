@@ -4,7 +4,7 @@ description: スコアの変更 - Marketo ドキュメント - 製品ドキュ�
 title: スコアの変更
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >さらにスコアのフィールドを作成することができます。詳細については、「[Marketo のカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)」を参照してください。
+   >さらにスコアのフィールドを作成することができます。詳細については、「[Marketo のカスタムフィールドの作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}」を参照してください。
 
 1. スコアの変更を入力します。
 

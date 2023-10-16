@@ -4,10 +4,10 @@ description: 期間原価について - Marketo ドキュメント - 製品ド�
 title: 期間原価について
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '269'
+ht-degree: 94%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 >
 >7 月に公開する eBook 用のイラストレーターに 1000 ドルを支払ったとします。この場合、この eBook プログラムの 7 月の期間原価は 1000 ドルとなります。
 >
->また Google Adwords に 1 か月 200 ドルを費やしている場合、この Google Adwords プログラムの期間原価は&#x200B;**毎月** 200 ドルです。
+>に月 200 ドル費やす場合 [!DNL Google Adwords] - [!DNL Google Adwords] プログラムの期間原価は 200 ドルになる _毎月_.
 
 >[!NOTE]
 >

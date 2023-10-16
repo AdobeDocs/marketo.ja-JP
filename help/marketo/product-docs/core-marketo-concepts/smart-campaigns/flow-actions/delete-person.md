@@ -4,16 +4,16 @@ description: 人物の削除 - Marketo ドキュメント - 製品ドキュメ�
 title: 人物の削除
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 56%
 
 ---
 
 # 人物の削除 {#delete-person}
 
-誤った人物がデータベースに格納されることがあります。人物の削除フローステップで削除できます。
+誤ったユーザーがデータベースに入り込むことがあります。 人物の削除フローステップで削除できます。
 
 ## 概要 {#overview}
 
@@ -31,10 +31,10 @@ ht-degree: 100%
 
 ![](assets/two-4.png)
 
-次のように、CRM ではなく Marketo から削除できます。
+次のように、CRM ではなくMarketo Engageからを削除できます。
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->CRM からの人物の削除は、**Salesforce でのみ機能**&#x200B;します。人物を Marketo から削除し、Salesforce で保持することにした場合、Salesforce のレコードが更新された場合は、Marketo で再作成されます。
+>CRM からの人物の削除は、_でのみ機能[!DNL Salesforce]_&#x200B;します。Marketoから人物を削除し、その人物を保持することを選択した場合 [!DNL Salesforce]を呼び出した場合、それらのイベントはMarketoに再作成されます ( [!DNL Salesforce] レコードが更新される前に

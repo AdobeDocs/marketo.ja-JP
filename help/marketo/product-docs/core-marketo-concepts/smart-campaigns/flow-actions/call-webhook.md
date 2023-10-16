@@ -4,7 +4,7 @@ description: Web フックの呼び出し - Marketo ドキュメント - 製品�
 title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[Web フックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Web フックの作成](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
 ## 概要 {#overview}
 
@@ -25,11 +25,11 @@ Web フックを使用すると、サードパーティのサービスとやり�
 
 >[!NOTE]
 >
->[Web フック](https://developers.marketo.com/documentation/webhooks/)を使用して素晴らしい事ができるようになります。
+>[Web フック](https://developers.marketo.com/documentation/webhooks/)を使用して素晴らしい事ができるようになります。{target="_blank"}
 
 ## 使用方法 {#usage}
 
-ドロップダウンから **web フック**&#x200B;を選択します。
+ドロップダウンから web フックを選択します。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
@@ -37,4 +37,4 @@ Web フックを使用すると、サードパーティのサービスとやり�
 
 >[!MORELIKETHIS]
 >
->[スマートキャンペーンでの web フックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[スマートキャンペーンでの web フックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}

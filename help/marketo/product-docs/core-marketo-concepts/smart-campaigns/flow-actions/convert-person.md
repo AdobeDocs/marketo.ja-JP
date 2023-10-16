@@ -4,10 +4,10 @@ description: 人物のコンバージョン - Marketo ドキュメント - 製�
 title: 人物のコンバージョン
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 62%
 
 ---
 
@@ -15,29 +15,29 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Salesforce との連携時にのみ有効です。
+>との統合時にのみ使用できます。 [!DNL Salesforce].
 
 ## 概要 {#overview}
 
-このフローステップを使用して、人物を Salesforce 内の連絡先にコンバージョンします。連絡先の割り当て先、所有者への通知の送信先、コンバージョンステータスの設定先を決定できます。
+このフローステップを使用して、担当者を連絡先に変換します： [!DNL Salesforce]. 連絡先の割り当て先、所有者への通知の送信先、コンバージョンステータスの設定先を決定できます。
 
 ![](assets/one-2.png)
 
 ## 使用方法 {#usage}
 
-1. 結果として生じる連絡先、アカウント、商談を&#x200B;**割り当てる**&#x200B;対象を選択します。
+1. 結果として生じる連絡先、アカウント、商談を割り当てる対象を選択します。
 
    ![](assets/two-2.png)
 
    >[!CAUTION]
    >
-   >Marketo で人物をコンバージョンすると、Salesforce で新しいアカウントと商談が作成されます。アカウントを重複させたくない場合は、Salesforce を使用してコンバージョンします。
+   >Marketoで担当者をコンバートすると、 [!DNL Salesforce]. アカウントの重複を避けるには、 [!DNL Salesforce] を変換します。
 
-1. 所有者に&#x200B;**通知**&#x200B;を送信するかどうか選択します。
+1. 所有者に&#x200B;**[!UICONTROL 通知]**&#x200B;を送信するかどうか選択します。
 
    ![](assets/three-2.png)
 
-1. 「**コンバージョンステータス**」を選択します。
+1. 「**[!UICONTROL コンバージョンステータス]**」を選択します。
 
    ![](assets/four-3.png)
 
