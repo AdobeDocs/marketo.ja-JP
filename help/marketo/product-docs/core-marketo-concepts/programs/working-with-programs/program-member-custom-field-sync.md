@@ -3,9 +3,9 @@ description: プログラムメンバーカスタムフィールドの同期 - M
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 ## Salesforce フィールドをプログラムメンバーカスタムフィールドにマッピング {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 「**Salesforce**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**編集**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 1. さらにフィールドマッピングを行う場合は、検索ボックスをクリアし、手順 3～5 を繰り返します。
 
-1. 終了したら「**保存**」をクリックします。
+1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 100%
 
 フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。手順は以下のとおりです。
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 「**Salesforce**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**編集**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >「**マッピング済み**」チェックボックスをオンにすると、マッピングしたフィールドのみが表示されます。
+   >「**[!UICONTROL マッピング済み]**」チェックボックスをオンにすると、マッピングしたフィールドのみが表示されます。
 
 1. フィールドの横にある「**X**」をクリックしてマッピングを解除します。
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. これで、マッピングが削除されます。「**保存**」をクリックします。
+1. これで、マッピングが削除されます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-11.png)
 

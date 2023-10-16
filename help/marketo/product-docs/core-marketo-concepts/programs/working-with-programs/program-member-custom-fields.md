@@ -4,7 +4,7 @@ description: プログラムメンバーカスタムフィールド - Marketo �
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 100%
@@ -17,15 +17,15 @@ ht-degree: 100%
 
 ## プログラムメンバーカスタムフィールドの作成 {#create-a-program-member-custom-field}
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/one.png)
 
-1. 「**フィールド管理**」をクリックします。
+1. 「**[!UICONTROL フィールド管理]**」をクリックします。
 
    ![](assets/two.png)
 
-1. 「**新規カスタムフィールド**」をクリックします。
+1. 「**[!UICONTROL 新規カスタムフィールド]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ ht-degree: 100%
    >
    >人物とプログラムメンバーのカスタムフィールドは、同じ名前を共有できません。
 
-1. 残りのフィールドに入力し、「**作成**」をクリックします。
+1. 残りのフィールドに入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/five.png)
 

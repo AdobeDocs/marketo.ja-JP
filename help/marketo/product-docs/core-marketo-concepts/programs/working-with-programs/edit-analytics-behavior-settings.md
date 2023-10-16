@@ -4,18 +4,18 @@ description: アナリティクス動作設定の編集 - Marketo ドキュメ�
 title: アナリティクス動作設定の編集
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 91%
 
 ---
 
 # アナリティクス動作設定の編集 {#edit-analytics-behavior-settings}
 
-[チャネルの管理者レベルでのアナリティクス動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)を設定できますが、プログラムレベルで編集することもできます。以下に手順を示します。
+[チャネルの管理者レベルでのアナリティクス動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}を設定できますが、プログラムレベルで編集することもできます。以下に手順を示します。
 
-1. 「**マーケティング活動**」に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 「設定」タブで、「アナリティクス動作」をキャンバスにドラッグします。
+1. Adobe Analytics の **[!UICONTROL 設定]** タブ、ドラッグ [!UICONTROL Analytics の動作] をキャンバスに貼り付けます。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 必要なアナリティクス動作を選択します。
+1. 目的の Analytics 動作を選択します。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -35,15 +35,15 @@ ht-degree: 100%
 >
 >**定義**
 >
->**包含** - このオプションを使用すると、期間原価が含まれているかどうかに関係なく、収益エクスプローラーおよびアナライザーでプログラムをレポートに表示できます。
+>**[!UICONTROL 包含]** - このオプションを使用すると、期間原価が含まれているかどうかに関係なく、収益エクスプローラーおよびアナライザーでプログラムをレポートに表示できます。
 >
->**オペレーショナル** - このオプションを選択すると、プログラムが収益エクスプローラーまたはアナライザーに表示されなくなります。
+>**[!UICONTROL オペレーショナル]** - このオプションを選択すると、プログラムが収益エクスプローラーまたはアナライザーに表示されなくなります。
 
 >[!NOTE]
 >
 >デフォルトの動作（この設定が適用されていない場合）は、1 つ以上の期間原価（0 ドルが割り当てられている期間も含む）がある場合にのみアナリティクスに含まれます。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

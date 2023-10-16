@@ -4,7 +4,7 @@ description: メンバーの管理および表示 - Marketo ドキュメント -
 title: メンバーの管理および表示
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 100%
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)についてさらに深く学びましょう。
+>[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}についてさらに深く学びましょう。
 
 ## メンバーの検索 {#search-for-a-member}
 
 「メンバー」タブの下部にある「検索」フィールドでは、プログラムのメンバーを名前、メール、職位、企業から検索できます。
 
-1. プログラムの「**メンバー**」タブをクリックして移動します。
+1. プログラムの「**[!UICONTROL メンバー]**」タブをクリックして移動します。
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ ht-degree: 100%
 
 ## グリッドに表示する列の選択 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 「**表示**」ドロップダウンをクリックして、「**表示の作成**」を選択します。
+1. 「**[!UICONTROL 表示]**」ドロップダウンをクリックして、「**[!UICONTROL 表示の作成]**」を選択します。
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. カスタム表示に名前を付けます。列タイトルを選択します。列タイトルを選択し、「**追加**」または「**削除**」をクリックして表示を作成します。
+1. カスタム表示に名前を付けます。列タイトルを選択します。列タイトルを選択し、「**[!UICONTROL 追加]**」または「**[!UICONTROL 削除]**」をクリックして表示を作成します。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## メンバーグリッドへのフィルターの適用  {#filter-the-members-grid}
 
-1. 「**フィルター**」ドロップダウンを選択して、並び替えする進行状況ステップを選択します。
+1. 「**[!UICONTROL フィルター]**」ドロップダウンを選択して、並び替えする進行状況ステップを選択します。
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 100%
 
 メンバーグリッド内のリードのステータスを変更できます。
 
-1. **Ctrl/Cmd** キーを押しながらリードを選択します。
+1. **[!UICONTROL Ctrl/Cmd]** キーを押しながらリードを選択します。
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 「**ステータスの変更**」ドロップダウンをクリックして、ステータスを選択します。
+1. 「**[!UICONTROL ステータスの変更]**」ドロップダウンをクリックして、ステータスを選択します。
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[プログラム効果レポートの作成](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

@@ -4,10 +4,10 @@ description: ベストプラクティス - プログラムの整理方法 - Mark
 title: ベストプラクティス - プログラムの整理方法
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 100%
+source-wordcount: '844'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->ある日（昇進したら）他の誰かがあなたのプログラムを理解しようとするでしょう。良い組織では、すぐに生産的になります。
+>ある日（昇進したら！）、他の誰かがあなたのプログラムを理解しようとします。 良い組織では、すぐに生産的になります。
 
 ## フォルダー {#folders}
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->「アーカイブ」フォルダーは、選択リストおよびレポートから項目を削除するように設計された特別な種類のフォルダーです。これにより、システムをより迅速に実行できます。[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)の詳細をご覧ください。
+>「アーカイブ」フォルダーは、選択リストおよびレポートから項目を削除するように設計された特別な種類のフォルダーです。これにより、システムをより迅速に実行できます。[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}の詳細をご覧ください。
 
 必要に応じて、フォルダーを追加できます。会社の将来の世代のマーケターは、あなたの名前の設定や整理の方法に関する決定に従うことになることに注意してください。
 
@@ -75,7 +75,7 @@ Marketo の機能はすべて共通の言語を使用して通信するので、
 >1. NL 2015-06 ニュースレター
 >1. WBN 2015-12-01 ウェビナーのトピックはこちら
 
-異なる[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)内でも、サブスクリプション内でプログラム名を一意にする必要があります。プログラム内のローカルアセットの場合、ルールは&#x200B;**名前をシンプルにする**&#x200B;ことです。招待の名前を「2015年6月ウェビナーの招待」ではなく「招待」にします。これらはプログラム内にあるので、別の場所で選択すると、親プログラムが自動的に名前の一部になります。つまり、ローカルアセットは、プログラム内で一意である必要があります。「招待」という名前のアセットを数百個ずつ別のプログラムに入れておけば、混乱を招くことはありません。
+異なる[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}内でも、サブスクリプション内でプログラム名を一意にする必要があります。プログラム内のローカルアセットの場合、ルールは&#x200B;**名前をシンプルにする**&#x200B;ことです。招待の名前を「2015年6月ウェビナーの招待」ではなく「招待」にします。これらはプログラム内にあるので、別の場所で選択すると、親プログラムが自動的に名前の一部になります。つまり、ローカルアセットは、プログラム内で一意である必要があります。「招待」という名前のアセットを数百個ずつ別のプログラムに入れておけば、混乱を招くことはありません。
 
 ## トークン {#tokens}
 
@@ -97,7 +97,7 @@ Marketo の機能はすべて共通の言語を使用して通信するので、
 
 ## エンゲージメントプログラム {#engagement-programs}
 
-[エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)についてすべて説明します。エンゲージメントプログラムを整理する最善の方法は、フォルダーを使用することです。各ストリームのフォルダーを作成し、そのフォルダーにメールまたはプログラムを配置します。コンテンツが古くなり、削除したい場合は、各ストリームにアーカイブフォルダーを含めます。
+[エンゲージメントプログラム](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}についてすべて説明します。エンゲージメントプログラムを整理する最善の方法は、フォルダーを使用することです。各ストリームのフォルダーを作成し、そのフォルダーにメールまたはプログラムを配置します。コンテンツが古くなり、削除したい場合は、各ストリームにアーカイブフォルダーを含めます。
 
 ## 運用プログラム {#operational-programs}
 
@@ -121,4 +121,4 @@ Marketo の最も優れた機能の 1 つは、プログラムの複製を作成
 
 ## 概要 {#summary}
 
-ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、成功のために、[Marketo の専門家が提供する追加のサービス](https://www.marketo.com/services/)による微調整をを検討してください。
+ご覧の通り、Marketo には多くの力があります。ここでは基本事項を説明しますが、次のサービスの追加を検討します。 [Marketo Engageの専門家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} 微調整して成功を収めるために自分を設定する
