@@ -4,10 +4,10 @@ description: 動画の追加 - Marketo ドキュメント - 製品ドキュメ�
 title: 動画の追加
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 90%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業取引先責任者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. ランディングページに移動し、「**ドラフトを編集**」をクリックします。
 

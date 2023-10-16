@@ -4,10 +4,10 @@ description: イベントプログラムについて - Marketo ドキュメン�
 title: イベントプログラムについて
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 80%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## 概要 {#overview}
 

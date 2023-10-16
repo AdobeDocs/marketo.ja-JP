@@ -4,10 +4,10 @@ description: プレゼンテーションのローンチ - Marketo ドキュメ�
 title: プレゼンテーションのローンチ
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 86%
+source-wordcount: '107'
+ht-degree: 69%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 86%
 >[!AVAILABILITY]
 >
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 86%
 
    >[!TIP]
    >
-   >プレゼンテーションが新しいタブで開きます。必要に応じて、タブを外部モニタに移動し、 **[!UICONTROL 全画面表示]**.
+   >プレゼンテーションが新しいタブで開きます。必要に応じて、タブを外部モニタに移動し、 **[!UICONTROL 全画面]**.

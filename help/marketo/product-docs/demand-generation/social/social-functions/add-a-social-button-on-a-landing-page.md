@@ -4,10 +4,10 @@ description: ランディングページへの Social ボタンの追加 - Marke
 title: ランディングページへの Social ボタンの追加
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 100%
+source-wordcount: '248'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業取引先責任者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. ランディングページに移動し、「**ドラフトを編集**」をクリックします。
 

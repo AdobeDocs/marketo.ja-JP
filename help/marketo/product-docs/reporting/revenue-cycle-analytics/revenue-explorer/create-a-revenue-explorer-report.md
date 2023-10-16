@@ -4,10 +4,10 @@ description: 収益エクスプローラレポートの作成 - Marketo ドキ�
 title: 収益エクスプローラレポートの作成
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 80%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. **収益エクスプローラ**&#x200B;領域に移動します。
 

@@ -3,10 +3,10 @@ unique-page-id: 2359799
 description: スイープステークの公開 - Marketo ドキュメント - 製品ドキュメント
 title: スイープステークの公開
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 89%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業取引先責任者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >

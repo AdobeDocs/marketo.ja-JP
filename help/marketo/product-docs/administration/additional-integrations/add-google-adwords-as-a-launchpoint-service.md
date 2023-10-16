@@ -4,10 +4,10 @@ description: " [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスと�
 title: " [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 93%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >

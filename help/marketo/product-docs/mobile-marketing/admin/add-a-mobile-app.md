@@ -4,10 +4,10 @@ description: モバイルアプリの追加 - Marketo ドキュメント - 製�
 title: モバイルアプリの追加
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 100%
+source-wordcount: '198'
+ht-degree: 90%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >[!AVAILABILITY]
 >
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 「**管理者**」をクリックします。
 

@@ -3,10 +3,10 @@ unique-page-id: 2359807
 description: 懸賞のスタイルのカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: 懸賞スタイルのカスタマイズ
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '160'
+ht-degree: 88%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業取引先責任者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
 ![](assets/login-marketing-activities-1.png)
 

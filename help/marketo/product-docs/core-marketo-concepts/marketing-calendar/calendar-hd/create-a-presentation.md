@@ -4,10 +4,10 @@ description: プレゼンテーションの作成 - Marketo ドキュメント -
 title: プレゼンテーションの作成
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 91%
+source-wordcount: '87'
+ht-degree: 70%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 91%
 >[!AVAILABILITY]
 >
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、セールス担当者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. **[!UICONTROL カレンダー]**&#x200B;に移動します。
 

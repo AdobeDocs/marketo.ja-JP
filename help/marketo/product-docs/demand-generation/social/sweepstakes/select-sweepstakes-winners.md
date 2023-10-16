@@ -3,10 +3,10 @@ unique-page-id: 2359805
 description: 懸賞の勝者を選択する - Marketo ドキュメント — 製品ドキュメント
 title: 懸賞の勝者を選択する
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 88%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->すべてのお客様がこの機能を購入しているわけではありません。詳細は、営業取引先責任者にお問い合わせください。
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
