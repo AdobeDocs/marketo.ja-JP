@@ -3,10 +3,10 @@ description: フローステップサービス - Marketo ドキュメント - �
 title: フローステップサービス
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
-ht-degree: 100%
+source-wordcount: '1207'
+ht-degree: 99%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 100%
 
 ## サービスのオンボーディングと管理 {#onboarding-and-managing-services}
 
-カスタムフローステップをインストールするには、Marketo の管理者権限が必要です（1月21日リリースの **Webhook の管理**&#x200B;は、3月11日リリースに変更されます）。インストール URL 以外にも、最初のオンボーディングの完了後に、サービスプロバイダーグリッドからサービスの詳細画面にドリルダウンして、サービスのその他すべての側面を編集できます。
+カスタムフローステップをインストールするには、Marketoでの管理者権限が必要です。 インストール URL 以外にも、最初のオンボーディングの完了後に、サービスプロバイダーグリッドからサービスの詳細画面にドリルダウンして、サービスのその他すべての側面を編集できます。
 
 ## インストール URL {#installation-url}
 
 インストールを開始するには、まず、サービスを定義する OpenAPI ドキュメントの URL を取得する必要があります。これをサービスプロバイダーから提供してもらう必要があります。通常は、`/openapi.json` で終わる URL が含まれます。完全な URL は、`https://www.example.com/OpenAPI.json` のようになります。この URL を取得したら、「管理者」セクションのサービスプロバイダーメニューに移動します。
 
-「**次へ**」をクリックして、「サービス資格情報を入力」セクションに移動します。
+「**[!UICONTROL 次へ]**」をクリックして、「サービス資格情報を入力」セクションに移動します。
 
 ![](assets/flow-step-service-1.png)
 

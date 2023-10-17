@@ -4,10 +4,10 @@ description: スマートキャンペーンでのフローステップの並べ�
 title: スマートキャンペーンでのフローステップの並べ替え
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 79%
 
 ---
 
@@ -19,12 +19,10 @@ ht-degree: 100%
 >
 >[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. スマートキャンペーンの「フロー」タブで、フローステップを目的の場所にドラッグ＆ドロップします。
+1. スマートキャンペーン内 **[!UICONTROL 流量]** 「 」タブで、フローステップを目的の場所にドラッグ&amp;ドロップするだけです。
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
 >フローステップは、フローで表示されている順番に実行されます。
-
-単純ですね。ドラッグ＆ドロップで実行できます。

@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 68%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 スマートリスト内から単一のフローアクションを実行する以外に、人物の詳細ページで直接実行することもできます。
 
-1. 「**データベース**」をクリックします。
+1. 「**[!UICONTROL データベース]**」をクリックします。
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,14 +24,14 @@ ht-degree: 100%
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. 「**人物のアクション**」ドロップダウンリストから、目的のフローステップを選択します。この例では、「[メールの送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)」を使用します。
+1. 「**[!UICONTROL 人物のアクション]**」ドロップダウンリストから、目的のフローステップを選択します。この例では、「[メールの送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}」を使用します。
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. 目的のメールを選択し、「**実行**」をクリックします。
+1. 目的のメールを選択し、「**[!UICONTROL 実行]**」をクリックします。
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->インスタンスにワークスペース／パーティションが含まれ、ワークスペースに関連付けられたページやアセットから直接（つまり、リンクを介して）個人の詳細ページに移動する場合は、手順 4 でワークスペースも選択する必要があります。
+>インスタンスに Workspaces/Partitions が含まれ、Workspace に関連付けられたページやアセットから直接（例えば、リンクを介して）個人の詳細ページに移動する場合は、手順 4 で Workspace も選択する必要があります。

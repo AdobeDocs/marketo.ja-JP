@@ -3,10 +3,10 @@ description: Dynamics Campaign での人物の追加または削除 - Marketo �
 title: Dynamics Campaign での人物の追加または削除
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
+source-wordcount: '317'
+ht-degree: 70%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 100%
 
 ## Dynamics キャンペーンへの追加 {#add-to-dynamics-campaign}
 
-このフローステップは、Marketo スマートキャンペーンで人物を Microsoft キャンペーンのリードまたは連絡先として追加するために使用できます。Dynamics にまだ存在しない場合、リードは自動的に同期され、キャンペーンに追加されます。
+このフローステップは、Marketo Engageスマートキャンペーンで使用し、Microsoftキャンペーンでリードまたは連絡先として人を追加する場合に使用できます。 Dynamics にまだ存在しない場合、リードは自動的に同期され、キャンペーンに追加されます。
 
 >[!NOTE]
 >
 >このフローアクションは、トリガーキャンペーンでのみ使用できます。
 
-スマートキャンペーンで、ユーザーを追加する Dynamics キャンペーンを見つけて選択します。
+スマートキャンペーンで、名の担当者を追加する Dynamics キャンペーンを探して選択します。
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-1.png)
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 >キャンペーンリストに Dynamics キャンペーンが表示されない場合：
 >
 >* キャンペーンの同期が機能していることを確認します
->* キャンペーンが Microsoft Dynamics でアクティブではありません
+>* キャンペーンが次の場所でアクティブではありません： [!DNL Microsoft Dynamics]
 
 リードと連絡先ごとに、キャンペーン固有の静的マーケティングリストが自動的に作成され、人物が追加されます。これは 1 回限りのアクションで、以降のキャンペーンの同期では、同じマーケティングリストが使用されます。静的なマーケティングリスト名に採用されている命名規格は、リードの場合は `Mkto-leads-<uniqueID>`、連絡先の場合は `Mkto-contacts-<uniqueID>` です。
 
@@ -37,13 +37,13 @@ ht-degree: 100%
 
 ## Dynamics キャンペーンからの削除 {#remove-from-dynamics-campaign}
 
-このフローステップは、Marketo スマートキャンペーンで Microsoft キャンペーンから人物を削除するために使用できます。「Microsoft キャンペーンに追加」フローアクションによってキャンペーンに以前に追加されたリードのみが削除されます。
+このフローステップは、Marketo スマートキャンペーンで Microsoft キャンペーンから人物を削除するために使用できます。これにより、「Microsoftキャンペーンに追加」フローアクションによってキャンペーンに以前に追加されたリードのみが削除されます。
 
 >[!NOTE]
 >
 >このフローアクションは、トリガーキャンペーンでのみ使用できます。
 
-スマートキャンペーンで、ユーザーを削除する Dynamics キャンペーンを見つけて選択します。
+スマートキャンペーンで、顧客を削除する Dynamics キャンペーンを探して選択します。
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-2.png)
 
@@ -52,4 +52,4 @@ ht-degree: 100%
 >キャンペーンリストに Dynamics キャンペーンが表示されない場合：
 >
 >* キャンペーンの同期が機能していることを確認します
->* キャンペーンが Microsoft Dynamics でアクティブではありません
+>* キャンペーンが次の場所でアクティブではありません： [!DNL Microsoft Dynamics]

@@ -4,10 +4,10 @@ description: 参照元にクレジットを付与 - Marketo ドキュメント -
 title: 参照元にクレジットを付与
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 88%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 概要 {#overview}
 
-[オファー紹介](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を運用すると、様々な方法で参照元にクレジットを付与することができます。
+を実行する場合 [リファラルオファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}に値を指定する場合、様々な方法でリファラーにクレジットを与えることができます。
 
 * 参照による訪問
 * 参照によるサインアップ
@@ -34,6 +34,6 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >ソーシャルアプリは、スマートリストトリガーを使用するように設定されている必要があります。詳細は、[紹介オファーの目標を指定](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)を参照してください。
+   >ソーシャルアプリは、スマートリストトリガーを使用するように設定されている必要があります。詳細は、[紹介オファーの目標を指定](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"}を参照してください。
 
 これで完了です。このフローステップによって所有されているリードから、参照元にクレジットを付与されるようになります。

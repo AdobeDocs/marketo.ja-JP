@@ -4,10 +4,10 @@ description: モバイルスマートキャンペーンのトリガーとフィ�
 title: モバイルスマートキャンペーンのトリガーとフィルター
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 100%
+source-wordcount: '820'
+ht-degree: 94%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 モバイルアプリスマートキャンペーンのトリガーとフィルターを設定できます。
 
-ほとんどのアクティビティには、トリガー、フィルター、非アクティブフィルターがあります。非アクティブフィルターを使用して、プッシュ通知のタップなど、発生&#x200B;*しなかった*&#x200B;アクションを追跡します。
+ほとんどのアクティビティには、トリガー、フィルター、非アクティブフィルターがあります。非アクティブフィルターを使用して、プッシュ通知のタップなど、発生&#x200B;_しなかった_&#x200B;アクションを追跡します。
 
 * モバイルアプリがインストールされる／された
 * モバイルアプリが開かれる／開かれた
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * プッシュ通知送信済み - フィルターおよび非アクティブフィルター
 
-右側のパネルで&#x200B;**モバイルアプリ**&#x200B;を検索して、すべてのモバイルアプリのトリガーとフィルターを表示します。
+右側のパネルで「モバイルアプリ」を検索して、すべてのモバイルアプリのトリガーとフィルターを一覧表示します。
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 100%
 
 モバイルアプリアクティビティあり／あった
 
-これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。開発者と協力して、[Android 向け](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android)および [iOS 向け](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)にトラッキングを設定する必要があります。
+これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。開発者と協力して、トラッキングを設定する必要があります [Android の場合](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * モバイルアプリアクティビティあり - トリガー
 
@@ -192,5 +192,5 @@ Marketo でのフィルターは次のようになります。
 
 >[!MORELIKETHIS]
 >
->* [スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [スマートリストでの非アクティブフィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [スマートリストでの非アクティブフィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

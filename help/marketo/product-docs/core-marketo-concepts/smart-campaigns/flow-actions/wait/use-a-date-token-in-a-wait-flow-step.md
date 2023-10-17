@@ -4,30 +4,30 @@ description: 待機フローステップで日付トークンを使用 - Marketo
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 100%
+source-wordcount: '213'
+ht-degree: 76%
 
 ---
 
 # 待機フローステップで日付トークンを使用 {#use-a-date-token-in-a-wait-flow-step}
 
-待機フローステップを使用すると、スマートキャンペーンを通じて、日付トークンを使用する特定の日付まで、人のジャーニーを一時停止できます。また、終了日を日数で変更することもできます。
+待機フローステップを使用すると、スマートキャンペーンを通じて、日付トークンを使用する特定の日付まで個人のジャーニーを一時停止できます。 また、終了日を日数で変更することもできます。
 
 >[!NOTE]
 >
->これは、トリガーキャンペーンにのみ適用されます。この機能はバッチキャンペーンでは使用できません。
+>これは、トリガーキャンペーンにのみ当てはまります。 この機能はバッチキャンペーンでは使用できません。
 
-1. スマートキャンペーン「**フロー**」タブに、「**待機**」フローステップをドラッグします。
+1. スマートキャンペーン内 **[!UICONTROL 流量]** タブをクリックし、 **[!UICONTROL 待機]** フローステップ。
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. 右側の歯車アイコンをクリックします。
+1. 歯車アイコンをクリックします。
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. 「**タイプ**」ドロップダウンで、「**日付トークン**」を選択します。
+1. 「**[!UICONTROL タイプ]**」ドロップダウンで、「**[!UICONTROL 日付トークン]**」を選択します。
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -56,11 +56,11 @@ ht-degree: 100%
    >
    >また、整数フィールドを表す `{{lead.` または `{{company.` トークンを使用するか、`{{my.` 番号タイプのトークンを使用して、日数を指定することもできます。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [待機フローステップで特定の日付を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [待機フローステップで特定の日付を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

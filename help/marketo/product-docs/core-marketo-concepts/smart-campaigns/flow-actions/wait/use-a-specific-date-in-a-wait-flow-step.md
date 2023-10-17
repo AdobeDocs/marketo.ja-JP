@@ -4,26 +4,26 @@ description: 待機フローステップで特定の日付を使用 - Marketo �
 title: 待機フローステップで特定の日付を使用
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 69%
 
 ---
 
 # 待機フローステップで特定の日付を使用 {#use-a-specific-date-in-a-wait-flow-step}
 
-**待機**&#x200B;フローステップを使用すると、スマートキャンペーンを通じて特定の日付まで個人のジャーニーを一時停止できます。
+次の項目を使用できます。[!UICONTROL 待機]「スマートキャンペーンを通じて特定の日付まで人物のジャーニーを一時停止するフローステップ。
 
-1. スマートキャンペーン「**フロー**」タブに、「**待機**」フローステップをドラッグします。
+1. スマートキャンペーン内 **[!UICONTROL 流量]** タブをクリックし、 **[!UICONTROL 待機]** フローステップ。
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
-1. 右側の歯車アイコンをクリックします。
+1. 歯車アイコンをクリックします。
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-1. 「**タイプ**」ドロップダウンで、「**日付**」を選択します。
+1. 「**[!UICONTROL タイプ]**」ドロップダウンで、「**[!UICONTROL 日付]**」を選択します。
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 
@@ -31,11 +31,11 @@ ht-degree: 100%
 
    ![](assets/image2014-9-22-11-3a51-3a20.png)
 
-1. 時間（オプション）を指定し、「**保存**」をクリックします。
+1. 時間（オプション）を指定し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
 >[!MORELIKETHIS]
 >
->* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
->* [待機フローステップで日付トークンを使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+>* [待機フローステップで停止期間を使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+>* [待機フローステップで日付トークンを使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

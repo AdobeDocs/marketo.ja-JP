@@ -4,10 +4,10 @@ description: メールの送信 - Marketo ドキュメント - 製品ドキュ�
 title: メールの送信
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 概要 {#overview}
 
-「**メールの送信**」フローステップは、キャンペーンの一部として、あるいはリードにメールを送信するための単独のフローステップとして使用することができます。
+「[!UICONTROL メールの送信]「フローステップは、キャンペーンの一部として、または単一のフローステップとして使用して、リードに E メールを送信できます。
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
