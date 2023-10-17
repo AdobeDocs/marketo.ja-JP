@@ -4,10 +4,10 @@ description: スマートキャンペーンの中止 - Marketo ドキュメン�
 title: スマートキャンペーンの中止
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '144'
+ht-degree: 91%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 100%
 
 スマートキャンペーンを開始してすぐに、間違っていたことに気付く場合があります。実行途中でスマートキャンペーンを急停止する方法を説明します。
 
-1. 目的のスマートキャンペーンを選択し、「**スケジュール**」タブをクリックします。
+1. 目的のスマートキャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブをクリックします。
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. 「**キャンペーンのアクション**」ドロップダウンをクリックします。「**キャンペーンを中止**」を選択します。
+1. 「**[!UICONTROL キャンペーンのアクション]**」ドロップダウンをクリックします。「**[!UICONTROL キャンペーンを中止]**」を選択します。
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. 「**中止**」をクリックして確認します。
+1. 「**[!UICONTROL 中止]**」をクリックして確認します。
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,10 +39,10 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >中止する前に、実行されたアクションをスマートキャンペーンの「**結果**」タブで確認してください。また、追加の詳細と共に、[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)も確認できます。
+   >中止する前に、実行されたアクションをスマートキャンペーンの「**[!UICONTROL 結果]**」タブで確認してください。また、追加の詳細と共に、[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}も確認できます。
 
    >[!TIP]
    >
-   >トリガーキャンペーンのフローから人物を削除する場合は、[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)を参照してください。
+   >トリガーキャンペーンのフローから人物を削除する場合は、[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}を参照してください。
 
-操作のダブルチェックは欠かせませんが、この緊急ブレーキは将来役立つことがあるかもしれません。
+常にあなたの作業を再確認しますが、この緊急ブレーキが役に立つかもしれません。

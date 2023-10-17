@@ -4,26 +4,26 @@ description: スマートキャンペーンでのクオリフィケーション�
 title: スマートキャンペーンでのクオリフィケーションルールの編集
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 100%
+ht-degree: 57%
 
 ---
 
 # スマートキャンペーンでのクオリフィケーションルールの編集 {#edit-qualification-rules-in-a-smart-campaign}
 
-クオリフィケーションルールは、スマートキャンペーンのフローでユーザーが実行できる回数を制御します。デフォルトでは、スマートキャンペーンを複数回トリガーした場合でも、フローを介して送信されるのは 1 回のみです。これらの設定の変更方法を次に示します。
+クオリフィケーションルールは、スマートキャンペーンのフローを何回実行できるかを制御します。 デフォルトでは、スマートキャンペーンを複数回トリガーした場合でも、フローを介して送信されるのは 1 回のみです。 これらの設定の変更方法を次に示します。
 
-1. スマートキャンペーンで、「**スケジュール**」タブをクリックし、「**設定を編集**」をクリックします。
+1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」タブをクリックし、「**[!UICONTROL 設定を編集]**」をクリックします。
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >また、「スマートキャンペーン設定」の右にある「**編集**」をクリックすることもできます。
+   >また、「スマートキャンペーン設定」の右にある「**[!UICONTROL 編集]**」をクリックすることもできます。
 
-1. スマートキャンペーンフローで各人物が実行できる回数を次から選択します。**1 回のみ**、**毎回**、または&#x200B;**次の間隔で 1 回：日付**／**週**／**月**
+1. スマートキャンペーンフローで担当者を実行する頻度を選択してください： **[!UICONTROL 1 回のみ]**, **[!UICONTROL 毎回]**&#x200B;または **毎日 1 回**/**週**/**か月**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,10 +33,10 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >スマートキャンペーンには、デフォルトで通信制限が適用されません。[スマートキャンペーンへの通信制限の適用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)を参照してください。
+   >デフォルトでは、スマートキャンペーンに通信制限は適用されません。 方法を学ぶ [スマートキャンペーンへの通信制限の適用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >[スマートキャンペーンへの通信制限の適用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[スマートキャンペーンへの通信制限の適用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
 
-ミッション完了です。スマートキャンペーンでクオリフィケーションルールを制御する方法を理解できました。
+ミッション完了です。これで、スマートキャンペーンでの選定ルールの制御方法がわかりました。

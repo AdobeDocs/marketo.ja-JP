@@ -4,7 +4,7 @@ description: 予定されているバッチキャンペーンの実行のキャ�
 title: 予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 バッチキャンペーンを実行するようにスケジュールが設定されてあり、その実行をキャンセルする場合は、以下の手順を実行します。
 
-1. 目的のキャンペーンを選択して「**スケジュール**」タブに移動します。
+1. 目的のキャンペーンを選択して「**[!UICONTROL スケジュール]**」タブに移動します。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 「**OK**」をクリックして、キャンセルを確認します。
+1. 「**[!UICONTROL OK]**」をクリックして、キャンセルを確認します。
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

@@ -4,7 +4,7 @@ description: キャンペーンのアクション - スマートキャンペー�
 title: キャンペーンのアクション - スマートキャンペーンの複製を作成
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 キャンペーンを複製すると、すべてをゼロから作成する必要がなくなり、時間を節約できます。複製は、全く同じスマートリストフィルターとフローステップを持つ、同一のキャンペーンを作成します。
 
-1. 複製するキャンペーンを選択します。「**キャンペーンアクション**」ドロップダウンで、「**複製**」を選択します。
+1. 複製するキャンペーンを選択します。「**[!UICONTROL キャンペーンアクション]**」ドロップダウンで、「**[!UICONTROL 複製]**」を選択します。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-1.png)
 
-1. 「**複製先**」で適切なオプションを選択します。この例では、「**プログラム**」を選択しています。
+1. 「**[!UICONTROL 複製先]**」で適切なオプションを選択します。この例では、「**[!UICONTROL プログラム]**」を選択しています。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-2.png)
 
-1. 「**プログラム**」を選択します。「**キャンペーン名**」を入力し、「**複製**」をクリックします。
+1. 「**[!UICONTROL プログラム]**」を選択します。「**[!UICONTROL キャンペーン名]**」を入力し、「**[!UICONTROL 複製]**」をクリックします。
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
 
