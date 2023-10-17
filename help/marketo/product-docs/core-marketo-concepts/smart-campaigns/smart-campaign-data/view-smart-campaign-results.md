@@ -4,30 +4,30 @@ description: スマートキャンペーン結果の表示 - Marketo ドキュ�
 title: スマートキャンペーン結果の表示
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '115'
+ht-degree: 44%
 
 ---
 
 # スマートキャンペーン結果の表示 {#view-smart-campaign-results}
 
-スマートキャンペーンで発生したすべての内訳を表示するには、次の方法に従います。
+スマートキャンペーンで発生したすべての内訳を表示したい場合は、 手順は以下のとおりです。
 
-1. スマートキャンペーンで、「**結果**」をクリックします。
+1. スマートキャンペーンで、 **[!UICONTROL 結果]**.
 
    >[!TIP]
    >
-   >スマートキャンペーンで処理された人物のリストを表示するには、「[キャンペーンメンバーを表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)」をクリックします。
+   >スマートキャンペーンで処理された担当者のリストを表示するには、 [キャンペーンメンバーの表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)を参照してください。
+   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。方法を学ぶ [スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
-1. **ID** をクリックして、特定のアクティビティの詳細を表示します。
+1. **[!UICONTROL ID]** をクリックして、特定のアクティビティの詳細を表示します。
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
@@ -35,8 +35,8 @@ ht-degree: 100%
    >
    >人物の名前をクリックすると、人物の詳細が表示されます。
 
-   結果を調べて、キャンペーンで実際に行ったことを確認するか、単純に[スマートキャンペーン結果を Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)します。
+   結果を調べて、キャンペーンが実際に何をしたか、または単に何をしたかを確認します。 [スマートキャンペーンの結果を Excel にエクスポート](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+   >[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}

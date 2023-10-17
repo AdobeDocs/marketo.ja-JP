@@ -3,10 +3,10 @@ description: プログラムメンバーの変更 - Marketo ドキュメント -
 title: プログラムメンバーの変更
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >また、フィールドが更新されないようにブロックすることもできます。詳細については、フィールドの更新をブロックを参照してください。
 
-1. スマートキャンペーンの「フロー」タブで、「**プログラムメンバーデータの変更**」フローステップを選択し、目的のプログラムを選択します。
+1. スマートキャンペーンの「フロー」タブで、「**[!UICONTROL プログラムメンバーデータの変更]**」フローステップを選択し、目的のプログラムを選択します。
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,15 +32,15 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「新しい値」にはトークンを使用できます。
+>「[!UICONTROL 新しい値]」にはトークンを使用できます。
 
 スマートキャンペーンを実行すれば完了です。
 
 >[!TIP]
 >
->フィールドを更新する代わりにクリアする場合は、「新しい値」に「NULL」（引用符なし、すべて大文字）と入力します。
+>フィールドを更新する代わりにクリアする場合は、「NULL」（引用符なし、すべて大文字）を [!UICONTROL 新しい値].
 
 >[!MORELIKETHIS]
 >
->* [フローステップでのトークンの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
->* [フィールドへのデータ追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+>* [フローステップでのトークンの使用](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [フィールドへのデータ追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

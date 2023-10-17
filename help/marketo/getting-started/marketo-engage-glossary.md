@@ -4,9 +4,9 @@ description: Marketo Engageの用語集 — Marketoドキュメント — 製品
 title: Marketo Engage用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 99%
 
 ---
@@ -118,10 +118,6 @@ ht-degree: 99%
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo では、製品内のブラックリストやホワイトリストなどの用語をブロックリストや許可リストに変更する作業を進めています。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。混乱を招いてしまったことをお詫びいたします。
 
 ## C {#c}
 

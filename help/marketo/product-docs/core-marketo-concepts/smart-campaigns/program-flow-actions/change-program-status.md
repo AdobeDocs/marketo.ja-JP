@@ -4,9 +4,9 @@ description: プログラムのステータスの変更 - Marketo ドキュメ�
 title: プログラムステータスの変更
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 概要 {#overview}
 
-プログラムのステータスは、プログラムやイベントの進行状況をトラックするのに役立ちます。詳しくは、[チャネルのカスタマイズ、作成、管理](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)を参照してください。
+プログラムのステータスは、プログラムやイベントの進行状況をトラックするのに役立ちます。詳しくは、[チャネルのカスタマイズ、作成、管理](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}を参照してください。
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 ## 使用方法 {#usage}
 
-1. 「**プログラムステータスの変更**」フローステップにドラッグします。
+1. 「**[!UICONTROL プログラムステータスの変更]**」フローステップにドラッグします。
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. 設定する「**新規ステータス**」を選択します。また、その人物がまだメンバーになっていない場合は、そのプログラムのメンバーになります。
+1. 設定する「**[!UICONTROL 新規ステータス]**」を選択します。また、その人物がまだメンバーになっていない場合は、そのプログラムのメンバーになります。
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
@@ -37,4 +37,4 @@ ht-degree: 100%
 >
 >人物は、管理者のチャネルエディターで定義された以前のプログラムステータスに戻すことはできません。
 
-ステータスは、人物をトラックし、レポートを作成するための強力なツールです。時間をかける値打ちがあります。
+ステータスは、人物をトラックし、レポートを作成するための強力なツールです。

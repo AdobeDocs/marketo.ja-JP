@@ -4,7 +4,7 @@ description: タスクの作成 - Marketo ドキュメント - 製品ドキュ�
 title: タスクの作成
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo 同期ユーザーがタスクを作成する場合、Salesforce でタスクを作成するには「**期限**」が必須フィールドです。この値がない場合、Marketo でデフォルトの 5 日が自動入力されます。
+>Marketo 同期ユーザーがタスクを作成する場合、Salesforce でタスクを作成するには「**[!UICONTROL 期限]**」が必須フィールドです。この値がない場合、Marketo でデフォルトの 5 日が自動入力されます。
 
 デフォルトでは、フローステップは次のようになります。
 
@@ -31,4 +31,4 @@ ht-degree: 100%
 
 >[!TIP]
 >
->**件名**&#x200B;と&#x200B;**説明**&#x200B;で、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}` を使用できます。詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)を参照してください。
+>**[!UICONTROL 件名]**&#x200B;と&#x200B;**[!UICONTROL 説明]**&#x200B;で、`{{lead.tokens}}`、`{{company.tokens}}`、`{{campaign.tokens}}`、`{{system.tokens}}` を使用できます。詳しくは、[フローステップのトークン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}を参照してください。

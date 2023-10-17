@@ -4,10 +4,10 @@ description: スマートキャンペーン結果のフィルタリング - Mark
 title: スマートキャンペーン結果のフィルタリング
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 30%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 保存済みフィルターでフィルタリング {#filter-by-saved-filters}
 
-1. スマートキャンペーンの「**結果**」タブで、「**フィルター**」をクリックし、保存済みフィルターを選択します。
+1. スマートキャンペーン内 **[!UICONTROL 結果]** タブ、クリック **[!UICONTROL フィルター]** 保存済みフィルターを選択します。
 
    ![](assets/resultsfilter-hands.png)
 
@@ -31,24 +31,22 @@ ht-degree: 100%
 
 ## カスタムフィルターの作成 {#create-a-custom-filter}
 
-1. 「**フィルター**」をクリックし、「**カスタム**」をクリックします。
+1. クリック **[!UICONTROL フィルター]**&#x200B;を、 **[!UICONTROL カスタム]**.
 
    ![](assets/filterscustom-hands.png)
 
-1. 表示するアクティビティタイプを選択し、「**別名で保存**」をクリックします。
+1. 表示するアクティビティのタイプを選択し、 **[!UICONTROL 名前を付けて保存]**.
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >「**適用**」をクリックすると、カスタムフィルターを保存せずに結果に直接適用できます。
+   >クリック **[!UICONTROL 適用]** をクリックすると、カスタムフィルターを保存せずに結果に直接適用できます。
 
-1. フィルター名を入力し、「**保存**」をクリックします。
+1. フィルター名を入力し、 **[!UICONTROL 保存]**.
 
    ![](assets/saveasfilter-hands.png)
 
-1. カスタムフィルターが結果に適用され、さらにドロップダウンで使用できるようになります（ドロップダウンで表示するには、ページを更新する必要が生じる場合もあります）。
+1. カスタムフィルターが結果に適用され、ドロップダウンで使用できるようになります（ドロップダウンで表示するには、ページの更新が必要になる場合があります）。
 
    ![](assets/customfilter-hands.png)
-
-   便利ですね。これで、カスタムフィルターがすべてのアクティビティログで使用できるようになりました。

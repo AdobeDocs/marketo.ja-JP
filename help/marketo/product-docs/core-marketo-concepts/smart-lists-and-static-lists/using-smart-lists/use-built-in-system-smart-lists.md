@@ -4,9 +4,9 @@ description: システムスマートリストの使用 - Marketo ドキュメ�
 title: システムスマートリストの使用
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 100%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 100%
 # システムスマートリストの使用 {#use-built-in-system-smart-lists}
 
 Marketo にはとても便利な組み込み済みのスマートリストがあります。ぜひチェックしてみてください。
-
->[!NOTE]
->
->Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
 
 1. 「**データベース**」に移動します。
 

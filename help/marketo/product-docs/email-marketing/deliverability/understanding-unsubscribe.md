@@ -4,9 +4,9 @@ description: 登録解除について - Marketo ドキュメント - 製品ド�
 title: 登録解除について
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 100%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 100%
 # 登録解除について {#understanding-unsubscribe}
 
 Marketo には、実際にはいくつかの異なるタイプの組み込みの登録解除があります。これらはすべて、名と同様に、ユーザーオブジェクトのフィールドで表されます。
-
->[!NOTE]
->
->Marketo では、製品で使用されているブラックリストやホワイトリストといった用語をブロックリストや許可リストに変更している段階です。更新中は、UI およびドキュメントのスクリーンショットに古い用語が表示されたり、ドキュメントのテキストに新しい用語が表示されたりする場合があります。ご迷惑をおかけして申し訳ございません。
 
 これらのフィールドはすべて、Marketo での登録に組み込まれています。これらはすべてブール型（チェックボックス）です。これらは Forms または[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップで使用できます。
 

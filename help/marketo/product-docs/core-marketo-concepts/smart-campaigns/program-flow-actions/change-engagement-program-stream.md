@@ -4,10 +4,10 @@ description: エンゲージメントプログラムストリームの変更 - M
 title: エンゲージメントプログラムストリームの変更
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 100%
+ht-degree: 68%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 概要 {#overview}
 
-通常は、これを実現するために[ストリームトランジションルール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)を使用しますが、あるストリームから別のストリームに人物を手動で移動する場合は、このフローステップを使用します。
+通常は、 [ストリーム遷移ルール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) これを実現するために。ただし、あるストリームから別のストリームに人を手動で移動する場合は、これが使用するフローステップです。
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
