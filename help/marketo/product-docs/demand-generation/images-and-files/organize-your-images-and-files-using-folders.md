@@ -4,10 +4,10 @@ description: フォルダーを使用した画像とファイルの整理 - Mark
 title: フォルダーを使用した画像とファイルの整理
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 61%
 
 ---
 
@@ -15,24 +15,30 @@ ht-degree: 100%
 
 フォルダーを作成すると、画像やファイルを移動したり、必要な画像のセットのみを表示したり、特定のフォルダーに直接アップロードしたりできます。
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
-   ![](assets/designstudio-7.png)
+   ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. **画像とファイル**&#x200B;を右クリックして、左側のメニューで、「**新規フォルダー**」を選択します。
+1. 右クリック **[!UICONTROL 画像とファイル]** を選択し、 **[!UICONTROL 新規フォルダー]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a45.png)
+   ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 新しいフォルダーが表示されたら、名前を付けます。
+1. フォルダーに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
-   ![](assets/image2014-9-16-11-3a25-3a53.png)
+   ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. **画像とファイル**&#x200B;に移動すると、目的のフォルダーにドラッグ＆ドロップできます。
+1. に戻る **[!UICONTROL 画像とファイル]** をクリックし、移動するアセットを選択します。 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 移動]**.
 
-   ![](assets/image2014-9-16-11-3a26-3a0.png)
+   ![](assets/organize-your-images-and-files-using-folders-4.png)
 
-完成です。フォルダーをお楽しみください。
+1. 目的のフォルダーを選択します。
+
+   ![](assets/organize-your-images-and-files-using-folders-5.png)
+
+1. クリック **Move**.
+
+   ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

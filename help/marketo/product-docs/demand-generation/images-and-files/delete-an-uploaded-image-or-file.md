@@ -4,43 +4,43 @@ description: アップロードした画像またはファイルの削除 - Mark
 title: アップロードした画像またはファイルの削除
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 52%
 
 ---
 
 # アップロードした画像またはファイルの削除 {#delete-an-uploaded-image-or-file}
 
-1. **Design** **Studio** に移動します。
+画像やファイルを簡単に削除できます。
 
-   ![](assets/designstudio-5.png)
+>[!CAUTION]
+>
+>削除すると、イメージ/ファイルは完全にMarketo Engageから削除され、復元できなくなります。
 
-1. 左側のメニューで&#x200B;**画像とファイル**&#x200B;を選択し、削除するファイルの名前の横にをクリックします。
+1. **[!UICONTROL Design Studio]** に移動します。
 
-   ![](assets/image2014-9-16-11-3a18-3a15.png)
+   ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 「**ファイルアクション**」ドロップダウンをクリックし、「**削除**」を選択します。
+1. 選択 **[!UICONTROL 画像とファイル]**
 
-   ![](assets/image2014-9-16-11-3a18-3a22.png)
+   ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 正しいファイルを選択したことを確認し、「**削除**」をクリックします。
+1. 目的の画像/ファイルを検索して選択します。 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 削除]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a30.png)
+   ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-   >[!CAUTION]
+1. 正しいファイルを選択したことを確認し、「**[!UICONTROL 削除]**」をクリックします。
+
+   ![](assets/delete-an-uploaded-image-or-file-4.png)
+
+   >[!NOTE]
    >
-   >削除された画像やファイルは、Marketo から完全に削除され、復元できません。使用中のランディングページやメールには表示されなくなります。
-
-1. **画像**&#x200B;と&#x200B;**ファイル**&#x200B;のページに戻されます。ここでは、ファイルが削除されたことを確認できます。
-
-   ![](assets/image2014-9-16-11-3a19-3a0.png)
-
-うまくいきました。
+   >現在使用中のアセットは削除されません。
 
 >[!MORELIKETHIS]
 >
->* [アップロードした画像またはファイルの置き換え](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [アップロードされた画像またはファイルの URL を見つける](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [アップロードした画像またはファイルの置き換え](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [アップロードされた画像とファイルの検索](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [アップロードされた画像またはファイルの URL を見つける](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
