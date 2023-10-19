@@ -3,10 +3,10 @@ description: イベントワークフロー - Marketo ドキュメント - 製�
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 61%
+source-wordcount: '333'
+ht-degree: 57%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 61%
 
 >[!NOTE]
 >
+>* インタラクティブ Web セミナーは自動的には記録されません。 ウェビナーの開始後、ウェビナーの名前の横にあるドロップダウンをクリックし、「 」を選択します。 **セッションを記録**.
 >* 録画は MP4 形式でダウンロードされます。
 >* 録画を共有すると、リンクを持つすべてのユーザーが閲覧できるようになるので、対象のオーディエンスと共有されていることを確認してください。
 

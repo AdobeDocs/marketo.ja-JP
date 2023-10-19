@@ -4,14 +4,93 @@ description: 画像とファイルを Marketo に追加 - Marketo ドキュメ�
 title: 画像とファイルを Marketo に追加
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '348'
+ht-degree: 61%
 
 ---
 
 # 画像とファイルを Marketo に追加 {#add-images-and-files-to-marketo}
+
+新しいファイルや画像を画像およびファイルリポジトリに追加するための複数のオプションがあります。
+
+## 画像またはファイルのアップロード {#upload-image-or-file}
+
+1. **Design Studio** に移動します。
+
+   ![](assets/add-images-and-files-to-marketo-1.png)
+
+1. 選択 **[!UICONTROL 画像とファイル]**
+
+   ![](assets/add-images-and-files-to-marketo-2.png)
+
+1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをアップロード]**.
+
+   ![](assets/add-images-and-files-to-marketo-3.png)
+
+1. 目的の画像/ファイルをドラッグ&amp;ドロップするか、コンピューターを参照します。
+
+   ![](assets/add-images-and-files-to-marketo-4.png)
+
+1. アセットを選択したら、 **アップロード**.
+
+   ![](assets/add-images-and-files-to-marketo-5.png)
+
+## 画像またはファイルのインポート {#import-image-or-file}
+
+画像を読み込む方法は 3 つあります。 それぞれを見てみましょう。
+
+### Web からインポート {#import-from-the-web}
+
+テキスト
+
+1. 手順 1 および 2 に従います。 [上から](#upload-image-or-file).
+
+1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをインポート]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. を選択します。 **Web** オプション。
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. 
+
+PICC
+
+### Box からインポート {#import-from-box}
+
+テキスト
+
+1. 手順 1 および 2 に従います。 [上から](#upload-image-or-file).
+
+1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをインポート]**.
+
+PICC
+
+1. テキスト
+
+### Adobe Experience Manager からのインポート {#import-from-adobe-experience-manager}
+
+テキスト
+
+1. 手順 1 および 2 に従います。 [上から](#upload-image-or-file).
+
+1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをインポート]**.
+
+PICC
+
+1. テキスト
+
+
+
+
+
+
+
+
+古いドキュメント.....
 
 複数の画像とファイルを一度に追加するのは簡単です。
 

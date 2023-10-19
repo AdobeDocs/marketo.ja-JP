@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの概要 — Marketo ドキ
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 66%
+source-wordcount: '421'
+ht-degree: 62%
 
 ---
 
@@ -47,3 +47,7 @@ ht-degree: 66%
 **Adobe Connectを活用したウェビナーを、Launchpoint イベントプログラムと同様に、インタラクティブなウェビナーイベントプログラムに関連付ける必要がありますか？**
 
 いいえ、インタラクティブウェビナーイベントプログラムが関連付けを行います。
+
+**インタラクティブ Web セミナーは自動的に記録されますか？**
+
+そうではありません。 ウェビナーの開始後、ウェビナーの名前の横にあるドロップダウンをクリックし、「 」を選択します。 **セッションを記録**.
