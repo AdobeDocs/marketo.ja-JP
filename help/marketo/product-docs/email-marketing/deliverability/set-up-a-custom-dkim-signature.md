@@ -4,10 +4,10 @@ description: カスタム DKIM 署名の設定 - Marketo ドキュメント - �
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 82%
+source-wordcount: '345'
+ht-degree: 69%
 
 ---
 
@@ -33,9 +33,9 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1，クリックして、 **SPF/DKIM** タブ、 **ドメインを追加**.
+1. 次をクリック： **SPF/DKIM** タブ、 **ドメインを追加**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Marketo E メールで使用するドメインを、送信元アドレスとして入力します。 「セレクター」と「キーサイズ」を選択します。 終了したら「**追加**」をクリックします。
 
@@ -45,6 +45,18 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
    >
    >* 2048 のキーサイズをお勧めします。
    >* 送信元アドレスに別のドメインを使用している場合、Marketoの共有 DKIM 署名を使用します。
+
+   <table> 
+   <tr>
+   <td width="20%"><b>セレクター</b></td>
+   <td>DKIM レコードの公開鍵部分を見つけるために使用される一意の文字列/識別子。 任意の文字列を指定することも、DKIM キー/レコードの目的を区別して識別する一意の ID を指定することもできます。</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>キーサイズ</b></td>
+   <td>DKIM 署名を暗号化する際のセキュリティレベルです。</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. IT に&#x200B;**ホストレコード**&#x200B;および&#x200B;**文字列の値**&#x200B;を送信します。レコードを作成して、送信元ドメインに関連付けられているすべてのネームサーバーに反映させるように依頼します。Marketo の DKIM 検証では、DKIM 鍵が DKIM 署名済みのドメインに関連付けられているすべてのネームサーバーに伝播される必要があります。
 
