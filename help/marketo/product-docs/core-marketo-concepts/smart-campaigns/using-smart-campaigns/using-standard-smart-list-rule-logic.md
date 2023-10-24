@@ -4,7 +4,7 @@ description: 標準スマートリストルールロジックの使用 - Marketo
 title: 標準スマートリストルールロジックの使用
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 85%
@@ -19,7 +19,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->スマートリストルールロジックの変更は、フィルターのみに適用され、トリガーには&#x200B;**適用されません**。
+>スマートリストルールロジックの変更は、フィルターのみに適用され、トリガーには&#x200B;_適用されません_。
 
 トリガーは、上記の設定が ALL に設定されている場合でも、常に OR として評価されます。次に例を示します。
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-したがって、人物がフォームに入力する&#x200B;**または**&#x200B;ページを訪問すると、キャンペーンは、後続のフィルターの&#x200B;**すべて**&#x200B;または&#x200B;**いずれか**&#x200B;を基に人物を評価します（使用する設定に応じます）。
+したがって、人物がフォームに入力する&#x200B;_または_&#x200B;ページを訪問すると、キャンペーンは、後続のフィルターの&#x200B;_すべて_&#x200B;または&#x200B;_いずれか_&#x200B;を基に人物を評価します（使用する設定に応じます）。
 
 >[!MORELIKETHIS]
 >
->[高度なスマートリストルールロジックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>[高度なスマートリストルールロジックの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

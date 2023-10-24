@@ -4,10 +4,10 @@ description: スマートキャンペーンでのリード制限数の上書き 
 title: スマートキャンペーンでのリード制限数の上書き
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 46%
+source-wordcount: '137'
+ht-degree: 35%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo Engageを使用すると、スマートキャンペーンの対象とし
 >
 >必ず [スマートキャンペーンの担当者制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} Marketo Admin の
 
-1. マーケティングアクティビティで、スマートキャンペーンに移動し、 **スケジュール**.
+1. In **[!UICONTROL マーケティング活動]**&#x200B;スマートキャンペーンに移動し、 **[!UICONTROL スケジュール]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
@@ -39,4 +39,4 @@ Marketo Engageを使用すると、スマートキャンペーンの対象とし
 
    >[!CAUTION]
    >
-   >誤って多くのリードを含めすぎないように、この機能を活用してください。
+   >誤って多くの人を含めすぎないように、この機能に注意してください。

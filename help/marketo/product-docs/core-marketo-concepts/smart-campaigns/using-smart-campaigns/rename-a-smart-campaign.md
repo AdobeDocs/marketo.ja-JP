@@ -4,10 +4,10 @@ description: スマートキャンペーンの名前の変更 - Marketo ドキ�
 title: スマートキャンペーン名の変更
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 87%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 既存のスマートキャンペーンの名前を変更できます。手順は次のとおりです。
 
-1. 「**マーケティング活動**」に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
    ![](assets/rename-a-smart-campaign-1.png)
 
-1. スマートキャンペーンを選択し、名前をクリックします。
+1. スマートキャンペーンを選択し、右側のスマートキャンペーン名をクリックします。
 
    ![](assets/rename-a-smart-campaign-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
    >
    >プログラム内のスマートキャンペーン名は、常に「プログラム名.キャンペーン名」の形式に変換されます。
 
-1. 新しいスマートキャンペーン名を入力し、「**保存**」をクリックします。
+1. 新しいスマートキャンペーン名を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/rename-a-smart-campaign-3.png)
 

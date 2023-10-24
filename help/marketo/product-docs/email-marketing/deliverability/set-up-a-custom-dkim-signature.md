@@ -4,7 +4,7 @@ description: カスタム DKIM 署名の設定 - Marketo ドキュメント - �
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 69%
@@ -57,6 +57,8 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. IT に&#x200B;**ホストレコード**&#x200B;および&#x200B;**文字列の値**&#x200B;を送信します。レコードを作成して、送信元ドメインに関連付けられているすべてのネームサーバーに反映させるように依頼します。Marketo の DKIM 検証では、DKIM 鍵が DKIM 署名済みのドメインに関連付けられているすべてのネームサーバーに伝播される必要があります。
 
