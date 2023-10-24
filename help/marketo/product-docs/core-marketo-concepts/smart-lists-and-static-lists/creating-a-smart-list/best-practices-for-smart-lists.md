@@ -4,10 +4,10 @@ description: スマートリストのベストプラクティス — Marketo ド
 title: スマートリストのベストプラクティス
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
-ht-degree: 82%
+ht-degree: 79%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 82%
 
 スマートリストは、マーケティングウィンドウで最も強力なクエリツールです。 あなたが探している人々が魔法のようなスピードと簡単さで見つかります。
 
-ユーザが操作しやすく、パフォーマンスを最適化できるように、ベストプラクティスのリストを作成しました。これで、お試しいただくことができます。
+ユーザーが操作しやすく、パフォーマンスを最適化できるように、ベストプラクティスのリストを作成しました。 これで、お試しいただくことができます。
 
 >[!NOTE]
 >

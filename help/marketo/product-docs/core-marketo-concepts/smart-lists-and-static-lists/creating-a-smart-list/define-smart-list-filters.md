@@ -4,10 +4,10 @@ description: スマートリストフィルターの定義 - Marketo ドキュ�
 title: スマートリストフィルターの定義
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 53%
 
 ---
 
@@ -15,35 +15,35 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [スマートリストの作成](create-a-smart-list.md)
->* [フィルターを検索してスマートリストに追加する](find-and-add-filters-to-a-smart-list.md)
+>* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [フィルターを検索してスマートリストに追加する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)し、[フィルターを追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)できたので、フィルターを定義しましょう。手順は以下のとおりです。
+これで、 [スマートリストを作成しました](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} and [added filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} それに対して、フィルターを定義します。 手順は以下のとおりです。
 
 この例では、次のフィルターを定義して、カリフォルニア州在住で、スコアが 50 を超える人をすべて検索します。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. スマートリストを選択し、「**スマートリスト**」タブをクリックします。
+1. スマートリストを選択し、 **[!UICONTROL スマートリスト]** タブをクリックします。
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 「**州**」フィルターから「**CA**」を検索して選択します。
+1. を検索し、「CA」を選択します。 **[!UICONTROL 都道府県]** フィルター。
 
    ![](assets/smartlistdefinefilters.png)
 
    >[!NOTE]
    >
-   >**カリフォルニア**&#x200B;および **CA**.の両方が保存されている可能性があります。両方の値に対してフィルターを適用して、カリフォルニア州在住の人を&#x200B;_すべて_&#x200B;含めるには、[スマートリストフィルターへの複数値の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)を参照してください。
+   >「カリフォルニア」と「CA」の両方を保存している可能性があります。 両方の値に対してフィルターを適用し、次の値を含めます。 _すべて_ カリフォルニア出身の人々は、次の方法を学びます。  [スマートリストフィルタに複数の値を追加する](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
 
-1. **指定の値より大きい**&#x200B;演算子を選び、**50** と入力します。
+1. 次を選択： **[!UICONTROL 次よりも大きい]** 演算子を使用して「50」と入力します。
 
    ![](assets/smartlistfilter-personscore.png)
 
 >[!TIP]
 >
->不完全なメールアドレス（例：「@adobe.com」のみ）を含むレコードがデータベースに存在する可能性がある場合は、「次を含む」演算子を使用する際に、**2** つのメールアドレスフィルターを使用します。1 つは「@adobe.com」を含むフィルターで、もう 1 つは「adobe.com」（@記号は除く）を含むフィルターです。
+>不完全なメールアドレス（例：「@adobe.com」のみ）を含むレコードがデータベースに存在する可能性がある場合は、「次を含む」演算子を使用する際に、2 つのメールアドレスフィルターを使用します。1 つは「@adobe.com」を含むフィルターで、もう 1 つは「adobe.com」（@記号は除く）を含むフィルターです。
 
-スマートリストを作成し、フィルターを追加／定義する方法がわかりました。
+これで、スマートリストを作成し、フィルターを追加/定義する方法がわかりました。

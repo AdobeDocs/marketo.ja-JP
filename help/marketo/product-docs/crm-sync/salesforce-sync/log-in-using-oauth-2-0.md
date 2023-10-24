@@ -3,7 +3,7 @@ description: OAuth 2.0 を使用したログイン - Marketo ドキュメント 
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3a60db261cb6bb8b04b22abaa531b31fbc148493
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 85%
@@ -46,7 +46,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
 >[!CAUTION]
 >
->[New Connected App] ページを表示したまま、下にスクロールして、[Require Proof Key for Code Exchange (PKCE)] チェックボックスがオンになっていることを確認します。 _NOT_ オンにすると、設定が妨げられるので、オンにします。
+>[New Connected App] ページを表示したまま、下にスクロールして、[Require Proof Key for Code Exchange (PKCE)] チェックボックスがオンになっていることを確認します。 _NOT_ オンにすると、設定の妨げになるので、オンにします。
 
 ## Marketo の設定 {#set-up-marketo}
 
