@@ -4,10 +4,10 @@ description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュ
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 100%
+source-wordcount: '763'
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo インスタンスの HIPAA 対応デプロイメントでは、この機能を使用できません。
+>Marketo Engageインスタンスの HIPAA 対応のデプロイメントでは、この機能を使用できません。
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 100%
 ## サポートされる宛先アプリケーション {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics（Adobe Audience Manager ライセンスを所有している場合&#x200B;**のみ**）
+* Adobe Analytics（Adobe Audience Manager ライセンスを所有している場合&#x200B;_のみ_）
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
@@ -34,19 +34,19 @@ ht-degree: 100%
 
 静的リストは、その名のとおり、静的です。手動で変更しない限り、Adobe Experience Cloud のリストは変更されません。
 
-1. Marketo で、エクスポートするリストを探します。右クリックし、「**Experience Cloud** に送信」を選択します。
+1. Marketo で、エクスポートするリストを探します。右クリックし、「**[!UICONTROL Experience Cloud]** に送信」を選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. 「**Audience Manager フォルダー**」ドロップダウンリストをクリックして、Experience Cloud の目的の宛先フォルダーを選択します。
+1. 「**[!UICONTROL Audience Manager フォルダー]**」ドロップダウンリストをクリックして、Experience Cloud の目的の宛先フォルダーを選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. 新しいオーディエンスを作成するか、既存のオーディエンスを上書きするかを選択します（この例では、新しいオーディエンスを作成します）。新しいオーディエンス名を入力し、「**送信**」をクリックします。クリックします。
+1. 新しいオーディエンスを作成するか、既存のオーディエンスを上書きするかを選択します（この例では、新しいオーディエンスを作成します）。新しいオーディエンス名を入力し、「**[!UICONTROL 送信]**」をクリックします。クリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -58,19 +58,19 @@ ht-degree: 100%
 
 リストの同期とは、Marketo でリストを更新したときに、その変更が Adobe Experience Cloud のオーディエンスに自動的に同期されることを意味します。
 
-1. Marketo で、エクスポートするリストを探します。右クリックし、「**Experience Cloud** に送信」を選択します。
+1. Marketo で、エクスポートするリストを探します。右クリックし、「**[!UICONTROL Experience Cloud]** に送信」を選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. 「**オーディエンスライブラリフォルダー**」ドロップダウンリストをクリックして、Experience Cloud の目的の宛先フォルダーを選択します。
+1. 「**[!UICONTROL オーディエンスライブラリフォルダー]**」ドロップダウンリストをクリックして、Experience Cloud の目的の宛先フォルダーを選択します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. 新しいオーディエンスを作成するか、既存のオーディエンスを上書きするかを選択します（この例では、新しいオーディエンスを作成します）。新しいオーディエンス名を入力し、「**オーディエンスメンバーシップの同期を維持**」ボックスで、「**送信**」をクリックします。
+1. 新しいオーディエンスを作成するか、既存のオーディエンスを上書きするかを選択します（この例では、新しいオーディエンスを作成します）。新しいオーディエンス名を入力し、「**[!UICONTROL オーディエンスメンバーシップの同期を維持]**」ボックスで、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. 「**OK**」をクリックします。
+1. クリック **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -78,15 +78,15 @@ ht-degree: 100%
 
 リストの同期は、いつでも停止できます。
 
-1. Marketo で、同期を停止するリストを探して右クリックします。「**リスト同期を停止**」をクリックします。
+1. Marketo で、同期を停止するリストを探して右クリックします。「**[!UICONTROL リスト同期を停止]**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. 同期を停止するオーディエンスを選択し、「**停止**」をクリックします。
+1. 同期を停止するオーディエンスを選択し、「**[!UICONTROL 停止]**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. 「**停止**」をクリックして確認します。
+1. 「**[!UICONTROL 停止]**」をクリックして確認します。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,7 +94,7 @@ ht-degree: 100%
 
 **Adobe Analytics との共有**
 
-Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。この設定方法の詳細については、Adobe Audience Manager のドキュメントを参照してください。[https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja)
+Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。確認してください [Adobe Audience Managerドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
 
 **Adobe Audience Manager 顧客向け特性の使用**
 
@@ -114,7 +114,7 @@ Marketo でリストの書き出しを開始すると、Adobe Audience Manager �
 
 Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。これにより、Marketo の匿名ユーザプロファイルを Adobe ECID で強化できます。
 
-匿名ユーザプロファイルをリードプロファイルに関連付けるには、さらに手順を実行する必要があります。リードプロファイルは、テキスト形式メールで識別されます。この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)。
+匿名ユーザプロファイルをリードプロファイルに関連付けるには、さらに手順を実行する必要があります。リードプロファイルは、テキスト形式メールで識別されます。この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
 
 **どの情報が共有されますか？**
 

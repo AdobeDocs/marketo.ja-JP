@@ -4,7 +4,7 @@ description: データベースダッシュボード - Marketo ドキュメン�
 title: データベースダッシュボード
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 52%
@@ -19,7 +19,7 @@ ht-degree: 52%
 >
 >各ワークスペースには、独自のデータベースダッシュボードがあります。
 
-そこに移動するには、「 」を選択します。 **データベース** 私のMarketoから
+そこに移動するには、「 」を選択します。 **[!UICONTROL データベース]** 私のMarketoから
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ ht-degree: 52%
 
 >[!TIP]
 >
->人物に関するより具体的な情報やタイムリーな情報を取得したい場合は、[人物の効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)を試してみてください。
+>人物に関するより具体的な情報やタイムリーな情報を取得したい場合は、[人物の効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}を試してみてください。
 
 **担当者合計：** リストされたワークスペースの常勤の人数。
 
-**市場性の高い担当者：** リストされているワークスペースの常勤の人数 _マイナス_:メールアドレスのない人、メールがハードバウンスした人、配信を停止した人、配信を停止した人、現在「マーケティングを中断した人」に設定されている人。
+**市場性の高い担当者：** リストされているワークスペースの常勤の人数 _— 次の_：電子メールアドレスを持たない人、電子メールがハードバウンスした人、された人、購読解除した人、現在「マーケティングを中断した人」に設定されている人。

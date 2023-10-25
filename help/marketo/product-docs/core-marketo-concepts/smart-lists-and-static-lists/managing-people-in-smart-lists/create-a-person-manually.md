@@ -4,30 +4,30 @@ description: リードの手動作成 - Marketo ドキュメント - 製品ド�
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 85%
 
 ---
 
 # リードの手動作成 {#create-a-person-manually}
 
-リードを Marketo に入れる方法はいろいろあります。手動で作成する必要がある場合は、次の手順に従います。
+人をMarketo Engageに導く方法は多い。 手動で作成する必要がある場合は、次の手順に従います。
 
 >[!CAUTION]
 >
->Marketo は、絵文字を含む電子メールアドレスを&#x200B;**サポートしていません**。
+>Marketo は、絵文字を含む電子メールアドレスをサポートしていません。
 
-1. 「**データベース**」に移動します。
+1. 「**[!UICONTROL データベース]**」に移動します。
 
    ![](assets/db-1.png)
 
-1. 「**新規作成**」で「**新規リード**」をクリックします。
+1. 「**[!UICONTROL 新規作成]**」で「**[!UICONTROL 新規リード]**」をクリックします。
 
    ![](assets/two-2.png)
 
-1. リードの情報を入力し、「**作成**」をクリックします。
+1. リードの情報を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/three-2.png)
 

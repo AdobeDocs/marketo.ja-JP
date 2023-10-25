@@ -4,10 +4,10 @@ description: 人物の詳細ページの使用 - Marketo ドキュメント - �
 title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 特定の人物を開く方法は多数あります。以下に例を示します。
 
 * **データベース**&#x200B;から、「クイック検索」で検索できます
-* 任意のスマート&#x200B;**リスト**&#x200B;またはリスト
+* 任意 **スマートリスト** またはリスト
 * プログラムの「**メンバー**」タブ
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
@@ -100,8 +100,8 @@ ht-degree: 100%
 >* SFDC 取引先責任者の商談
 >* 作成日や元のソースタイプなど、Marketo 固有の特定のフィールド。
 >
->詳細は[システム管理フィールド](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)をご覧ください。
+>詳細は[システム管理フィールド](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}をご覧ください。
 
 >[!MORELIKETHIS]
 >
->[人物の詳細ページ用のカスタムタブの作成](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[人物の詳細ページ用のカスタムタブの作成](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

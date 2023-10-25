@@ -4,30 +4,30 @@ description: リードのアクティビティログの検索 - Marketo ドキ�
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 90%
 
 ---
 
 # リードのアクティビティログの検索 {#locate-the-activity-log-for-a-person}
 
-アクティビティログは、最終的な情報の拠り所です。ログには、Marketo でリードがたどる道筋が完全に記録されています。
+アクティビティログは、最終的な情報の拠り所です。これは、Marketo Engageの人の旅の完全な物語です。
 
-1. 「**データベース**」に移動します。
+1. 「**[!UICONTROL データベース]**」に移動します。
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. 「**すべてのリード**」を選択します。
+1. 「**[!UICONTROL すべてのリード]**」を選択します。
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 「**リード**」タブをクリックします。リードの **ID** 番号を選択します。
+1. 「**[!UICONTROL リード]**」タブをクリックします。リードの **[!UICONTROL ID]** 番号を選択します。
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. 「**アクティビティログ**」をクリックします。
+1. 「**[!UICONTROL アクティビティログ]**」をクリックします。
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >特定のリードのアクティビティを確認するには、[アクティビティログのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)を参照してください。
+   >特定のリードのアクティビティを確認するには、[アクティビティログのフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"}を参照してください。

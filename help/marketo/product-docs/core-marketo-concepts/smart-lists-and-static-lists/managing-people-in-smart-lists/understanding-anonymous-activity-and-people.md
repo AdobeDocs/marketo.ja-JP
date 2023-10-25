@@ -4,16 +4,16 @@ description: 匿名アクティビティとリードについて - Marketo ド�
 title: 匿名アクティビティとリードについて
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '262'
+ht-degree: 81%
 
 ---
 
 # 匿名アクティビティとリードについて {#understanding-anonymous-activity-and-people}
 
-Marketo のランディングページ（または web サイト上で [Munchkin トラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つページ）に初めて訪問すると、Marketo は&#x200B;_匿名アクティビティ_&#x200B;を作成し、ブラウザー cookie を使用してトラックします。識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
+誰かがMarketoのランディングページ ( または Web サイト上の、 [Munchkin 追跡コード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"})、Marketoは *匿名アクティビティ* とは、ブラウザーの Cookie を使用して追跡します。 識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
 
 >[!IMPORTANT]
 >
@@ -22,21 +22,21 @@ Marketo のランディングページ（または web サイト上で [Munchkin
 **匿名**&#x200B;アクティビティは、次の場合に作成されます。
 
 * 初めて Marketo のランディングページにアクセスしたとき。
-* [Munchkin トラッキング](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つサイトのページを訪問したとき。
-* Marketo メールの「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)」リンクをクリックしたとき。
+* [Munchkin トラッキング](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}を持つサイトのページを訪問したとき。
+* Marketo メールの「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}」リンクをクリックしたとき。
 
 >[!NOTE]
 >
->Marketo メールの他のリンクとは異なり、「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)」は、メールクリックとしてはトラックされません。
+>Marketo メールの他のリンクとは異なり、「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}」は、メールクリックとしてはトラックされません。
 
 匿名アクティビティは、次の場合に、新規または既存のユーザに結合されます。
 
-* [Marketo メール内のリンク](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)をクリックしたとき。
-* Marketo の[フォーム](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)に入力したとき。
-* [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md) または [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) API（開発者向け）を使用して、匿名のリードを既知のレコードに関連付けたとき。
+* [Marketo メール内のリンク](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}をクリックしたとき。
+* Marketo の[フォーム](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}に入力したとき。
+* Marketoの使用 [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} or [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 匿名担当者を既知のレコードに関連付ける API（開発者向け）。
 
 異なるデバイスやブラウザーからサイトにアクセスされることが多いので、データベース内の 1 つの名前が多くの cookie に関連付けられる場合があります。
 
 >[!NOTE]
 >
->匿名レコードが新しいリードレコードまたは既存のリードレコードに結合されると、カスタムフィールドの値は&#x200B;**転送されません**。
+>匿名レコードが新しいリードレコードまたは既存のリードレコードに結合されると、カスタムフィールドの値は&#x200B;*転送されません*。
