@@ -3,16 +3,16 @@ description: デフォルトの Dynamics フィールドマッピング - Market
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 100%
+source-wordcount: '830'
+ht-degree: 97%
 
 ---
 
 # デフォルトの Dynamics フィールドマッピング {#default-dynamics-field-mapping}
 
-Marketo アカウントを Microsoft と最初に同期すると、Marketo は組み込みの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的におこないます。Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo EngageアカウントをMicrosoftと最初に同期すると、Marketoは組み込みの Dynamics フィールドとMarketoフィールドの間でこれらの関連付けを自動的におこないます。  Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 
@@ -244,7 +244,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>人物の注記</td>
       <td>説明</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
     <tr>
       <td>人物のスコア</td>
@@ -441,7 +441,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
     <tr>
       <td>人物の注記</td>
       <td>説明</td>
-      <td>description </td>
+      <td>description</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Marketo アカウントを Microsoft と最初に同期すると、Marketo は�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>所有者 </td>
+      <td>所有者</td>
       <td>ownerid</td>
     </tr>
     <tr>

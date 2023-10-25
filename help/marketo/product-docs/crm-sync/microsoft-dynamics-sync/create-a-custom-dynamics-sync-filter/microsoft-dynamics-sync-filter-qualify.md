@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync フィルター - 認定 - Marketo ドキ�
 title: Microsoft Dynamics Sync フィルター - 認定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 95%
 
 ---
 
 # Microsoft Dynamics Sync フィルター：認定 {#microsoft-dynamics-sync-filter-qualify}
 
-リードを Microsoft Dynamics の取引担当者に変換する場合は、このデフォルトの適合プロセスを使用するようにしてください。次に、Marketo と同期します。
+リードを Microsoft Dynamics の取引担当者に変換する場合は、このデフォルトの適合プロセスを使用するようにしてください。次に、Marketo Engageに同期します。
 
 ## 変換プロセス {#the-conversion-process}
 

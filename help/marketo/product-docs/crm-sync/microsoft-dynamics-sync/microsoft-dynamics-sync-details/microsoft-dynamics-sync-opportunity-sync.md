@@ -4,16 +4,16 @@ description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメ�
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 85%
 
 ---
 
 # Microsoft Dynamics 同期：商談の同期 {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo と Dynamics の同期は非常に強力です。以下に、商談の同期に関するすべての詳細を示します。
+Marketo Engageから Dynamics への同期は非常に強力です。 オポチュニティ同期の詳細はすべて次のとおりです。
 
 ## 2 つのシステム間での商談の詳細の同期方法 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -25,4 +25,4 @@ Marketo ではなく、Dynamics で商談を作成する必要があります。
 
 ## Marketo に同期されるフィールド {#what-fields-will-sync-to-marketo}
 
-設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。
+設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}できます。

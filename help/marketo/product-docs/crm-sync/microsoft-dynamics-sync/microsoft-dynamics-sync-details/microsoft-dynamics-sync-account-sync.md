@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync — アカウントの同期 — Marketoド
 title: Microsoft Dynamics Sync — アカウントの同期
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 94%
 
 ---
 
 # Microsoft Dynamics Sync:アカウントの同期 {#microsoft-dynamics-sync-account-sync}
 
-Marketoがデータベース全体をDynamicsと同期しているのを知っていましたか？同期し、5分待ってから、毎日、再び同期します。MarketoでのDynamicsアカウントの処理方法の詳細を以下に示します。
+Marketo Engageが Dynamics とデータベース全体を同期するのを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。MarketoでのDynamicsアカウントの処理方法の詳細を以下に示します。
 
 ## 情報の同期方法 {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ Marketoで連絡先の「アカウント」フィールドを更新すると、M
 
 ## Marketoと同期するフィールドは何ですか。 {#which-fields-will-sync-to-marketo}
 
-[設定時に同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。ただし、Marketoは、Dynamics同期ユーザーがアクセスできるフィールドのみを同期します。
+[設定時に同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}できます。ただし、Marketoは、Dynamics同期ユーザーがアクセスできるフィールドのみを同期します。
 
 ## Dynamicsの「アカウント」フィールドに変更を加えると、各連絡先の「データ値の変更」アクティビティログが生成されますか？  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

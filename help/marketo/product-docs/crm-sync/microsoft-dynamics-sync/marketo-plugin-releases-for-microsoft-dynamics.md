@@ -4,7 +4,7 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-お使いの Dynamics リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)してください。
+お使いの Dynamics リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}してください。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -121,4 +121,4 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
 
 >[!MORELIKETHIS]
 >
->[Marketo リード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketo リード管理ソリューションのダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

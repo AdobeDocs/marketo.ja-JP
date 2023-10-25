@@ -4,18 +4,18 @@ description: デフォルトのカスタムフィールドプレフィックス�
 title: デフォルトのカスタムフィールドプレフィックスの設定
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
 # デフォルトのカスタムフィールドプレフィックスの設定 {#set-a-default-custom-field-prefix}
 
-カスタムフィールドのデフォルトの Microsoft Dynamics プレフィックスは、Marketo 独自のフィールドを正しく同期させるために、**new** である必要があります。デフォルトのプレフィックスを変更する方法を次に示します。
+カスタムフィールドのデフォルトの Microsoft Dynamics プレフィックスは、Marketo 独自のフィールドを正しく同期させるために、_new_ である必要があります。デフォルトのプレフィックスを変更する方法を次に示します。
 
-1. 「設定」に移動し、「**カスタマイズ**」を選択します。
+1. 設定に移動し、「 」を選択します。 **カスタマイズ**.
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 

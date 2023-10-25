@@ -4,10 +4,10 @@ description: リードや連絡先の削除 - Marketo ドキュメント - 製�
 title: リードや連絡先の削除
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '158'
+ht-degree: 84%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Microsoft Dynamics でリード／連絡先を削除する際には、いくつかの注意点があります。
 
-* Dynamics でリードが削除されたからといって、Marketo が自動的に人物を削除することはありません。代わりに、フィールドの「Microsoft 削除済み」フラグが true に設定されます。必要に応じて、このフィールドをトリガーにして、Marketo でレコードを削除できます。
+* Marketo Engageは、リードが Dynamics で削除されたので、担当者を自動的に削除しません。 代わりに、「Microsoftは削除されました」フラグが true に設定されます。 必要に応じて、このフィールドをトリガーにして、Marketo でレコードを削除できます。
 
 * 「顧客の削除」フローアクション：これは、Marketo の人物のみを削除します（Dynamics でも削除するオプションは使用できません）。
 

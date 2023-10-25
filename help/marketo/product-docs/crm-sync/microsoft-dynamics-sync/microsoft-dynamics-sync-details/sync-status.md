@@ -4,10 +4,10 @@ description: 同期ステータス - Marketo ドキュメント - 製品ドキ�
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## 「同期ステータス」タブ {#sync-status-tab}
 
-1. 「**管理者**」をクリックし、「**Microsoft Dynamics**」をクリックします。
+1. クリック **[!UICONTROL 管理者]**&#x200B;を、 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 「**同期ステータス**」タブをクリックします。
+1. 「**[!UICONTROL 同期ステータス]**」タブをクリックします。
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 「**表示**」ドロップダウンをクリックして「**過去 1 時間**」を選択してスループット情報を表示します。
+1. 次をクリック： **[!UICONTROL 表示]** ドロップダウンして「 」を選択します。 **[!UICONTROL 過去 1 時間]** スループット情報を表示します。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[通知のタイプ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[通知のタイプ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

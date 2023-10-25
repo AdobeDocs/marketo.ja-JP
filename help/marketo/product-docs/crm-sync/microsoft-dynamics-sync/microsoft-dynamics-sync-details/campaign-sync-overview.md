@@ -3,10 +3,10 @@ description: キャンペーン同期の概要 - Marketo ドキュメント - �
 title: キャンペーン同期の概要
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '148'
+ht-degree: 77%
 
 ---
 
@@ -16,23 +16,23 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Marketo 用 Dynamics プラグインを最新バージョンに更新します。
+>Marketo Engage用 Dynamics プラグインの最新バージョンに更新します。
 
 次のフローアクションを使用できます。
 
-* Microsoft キャンペーンに追加
-* Microsoft キャンペーンから削除
+* [!UICONTROL Microsoft キャンペーンに追加]
+* [!UICONTROL Microsoft キャンペーンから削除]
 
 >[!NOTE]
 >
->**Microsoft キャンペーンから削除**&#x200B;では、Marketo のフローアクションを使用して追加された人のみが削除されます。
+>**[!UICONTROL Microsoft キャンペーンから削除]**&#x200B;では、Marketo のフローアクションを使用して追加された人のみが削除されます。
 
 また、次の 2 つのトリガーがあります。
 
-* Microsoft キャンペーンに追加済み
-* Microsoft キャンペーンから削除済み
+* [!UICONTROL Microsoft キャンペーンに追加済み]
+* [!UICONTROL Microsoft キャンペーンから削除済み]
 
-トリガーは、Marketo のフローアクション「Microsoft キャンペーンに追加」および「Microsoft キャンペーンから削除」アクションに基づいて実行されます。
+トリガーは、Marketoフローアクション「[!UICONTROL Microsoft Campaign に追加]&quot;および&quot;[!UICONTROL Microsoft Campaign から削除済み].&quot;
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーン同期の有効化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Dynamics キャンペーンでのユーザーの追加または削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [キャンペーン同期の有効化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Dynamics キャンペーンでのユーザーの追加または削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
