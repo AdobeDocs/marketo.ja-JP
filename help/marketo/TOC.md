@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '9098'
-ht-degree: 98%
+source-wordcount: '9099'
+ht-degree: 97%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 98%
             + [SEO - ターゲットキーワードを使用した特定のページの最適化](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO - キーワードの削除](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO - キーワードについて](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - 検索エンジンでのキーワード結果の表示](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO — 検索エンジンでのキーワード結果の表示](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + ページ {#pages}
             + [SEO - ページに関する問題へのメモの追加](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO - ページの追加](product-docs/additional-apps/seo/pages/seo-add-pages.md)

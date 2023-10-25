@@ -4,10 +4,10 @@ description: SEO - キーワードの追加 - Marketo ドキュメント - 製�
 title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 91%
 
 ---
 
@@ -33,8 +33,12 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 これで完了です。キーワードリストに新しく追加された項目が表示されます。
+
+>[!NOTE]
+>
+>データは、1 ～ 100 のランクを持つキーワードに対してのみ表示されます。
+
+>[!MORELIKETHIS]
+>
+>[キーワードについて（概要の表示）](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

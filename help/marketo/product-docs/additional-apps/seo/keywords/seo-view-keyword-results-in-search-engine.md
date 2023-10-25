@@ -4,14 +4,14 @@ description: SEO - 検索エンジンでのキーワード結果の表示 - Mark
 title: SEO - 検索エンジンでのキーワード結果の表示
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '83'
+ht-degree: 90%
 
 ---
 
-# SEO - 検索エンジンでのキーワード結果の表示 {#seo-view-keyword-results-in-search-engine}
+# SEO — 検索エンジンでのキーワード結果の表示 {#seo-view-keyword-results-in-search-engine}
 
 検索エンジン内でのコンテンツの見え方を確認したい場合は、便利なショートカットを追加しました。
 
