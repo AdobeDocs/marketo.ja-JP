@@ -4,21 +4,21 @@ description: 高度なスマートリストルールロジックの使用 - Mark
 title: 高度なスマートリストルールロジックの使用
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
 # 高度なスマートリストルールロジックの使用 {#using-advanced-smart-list-rule-logic}
 
-スマートリスト内の複数のフィルターにスマートリストルールロジックを適用すると、必要な人物を正確に検索できます。ここでは、その方法を説明します。
+スマートリスト内の複数のフィルターにスマートリストルールロジックを適用すると、必要な人物を見つけることができます。 手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
->* [フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [スマートリストフィルターの定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [スマートリストフィルターの定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,19 +26,19 @@ ht-degree: 100%
 
 ## スマートリストへのロジックの追加 {#add-logic-to-a-smart-list}
 
-デフォルトでは、スマートリストでは、**すべての**&#x200B;フィルター（フィルター 1 _および_ 2 _および_ 3）に一致する人物が検索されます。ルールロジックを変更して、定義済みフィルターの&#x200B;**いずれか**（フィルター 1 _または_ 2 _または_ 3）に一致するユーザーを検索する、または詳細フィルター（フィルター 1 _および_ 2 _または_ 3）を使用することができます。
+デフォルトでは、スマートリストは一致する人を検索します **[!UICONTROL すべて]** フィルタ（フィルタ 1） _および_ 2 _および_ 3)。 ルールロジックを変更して、定義済みフィルターの&#x200B;**[!UICONTROL いずれか]**（フィルター 1 _または_ 2 _または_ 3）に一致するユーザーを検索する、または詳細フィルター（フィルター 1 _および_ 2 _または_ 3）を使用することができます。
 
 この例では、カリフォルニア州にいる&#x200B;_および_、スコアが 50 ポイント&#x200B;_または_&#x200B;ステータスが「Sales Qualified」であるリードを検索するとします。
 
-1. ドロップダウンから「**詳細フィルター**&#x200B;を使用」を選択します。
+1. ドロップダウンから「**[!UICONTROL 詳細フィルター]**&#x200B;を使用」を選択します。
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >**詳細**&#x200B;フィルターを使用すると、スマートリストフィルターのメンバーを使用してスマートリストを作成する必要が減ります。これは、パフォーマンスの最適化に役立ちます。
+   >使用 **[!UICONTROL 詳細]** フィルタは、スマートリストのメンバーフィルタを使用してスマートリストを作成する必要を減らします。 これは、パフォーマンスの最適化に役立ちます。
 
-1. 「**詳細フィルター**」テキストボックスには、すべてのフィルターのデフォルト値として「and」が表示されます。
+1. 「**[!UICONTROL 詳細フィルター]**」テキストボックスには、すべてのフィルターのデフォルト値として「and」が表示されます。
 
    ![](assets/two-2.png)
 

@@ -4,20 +4,20 @@ description: 推測フィルター - Marketo ドキュメント - 製品ドキ�
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
 # 推測フィルター {#inferred-filters}
 
-Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
+Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
 
 >[!NOTE]
 >
->推測されるフィールド値が常に最新の状態に保たれるよう、IP アドレスの検索に使用されるデータベースを定期的に更新します。データベースの更新により、スマートリストフィルター定義への追加が必要になる可能性がある、推測されるフィールド値が新たに追加される場合があります。
+>推測されるフィールド値が常に最新の状態に保たれるよう、IP アドレスの検索に使用されるデータベースを定期的に更新します。データベースの更新により、スマートリストフィルター定義に追加する必要がある可能性のある、新しい推測されるフィールド値が追加される場合があります。
 >
 >[Marketo Engage 製品リリース](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"}の最中に発生し得るデータベースの更新は、推測されるフィールド値に対する変更の説明が含まれます。
 
@@ -33,7 +33,7 @@ Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administ
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-スマートリストでこれらのフィルターのいずれかを使用すると、推測される情報を持つ人物が表示されます。
+スマートリストでこれらのフィルタのいずれかを使用すると、結果は、この推測される情報を持つ人を生成します。
 
 >[!TIP]
 >
@@ -46,4 +46,4 @@ Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administ
 
 >[!NOTE]
 >
->詳しくは、[匿名のアクティビティとリード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)を参照してください。
+>詳しくは、[匿名のアクティビティとリード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}を参照してください。

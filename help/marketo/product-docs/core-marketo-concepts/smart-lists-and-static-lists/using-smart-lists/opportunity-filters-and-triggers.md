@@ -4,10 +4,10 @@ description: 商談フィルターおよびトリガー - Marketo ドキュメ�
 title: 商談フィルターおよびトリガー
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 商談フィルター {#opportunity-filters}
 
-商談フィルターを使うと、Salesforce で商談があるリードに絞り込むことができます。商談フィルターは、スマートリストを編集するときの「パレット」の「商談」フォルダーにあります。いくつかの種類があります。
+商談フィルターを使うと、Salesforce で商談があるリードに絞り込むことができます。スマートリストの編集時に、パレットの商談フォルダに表示されます。 いくつかの種類があります。
 
 * 商談数
 * 合計商談数
