@@ -4,10 +4,10 @@ description: SEO ダッシュボードについて - SEO スナップショッ�
 title: SEO ダッシュボードについて - SEO スナップショット
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '253'
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,9 @@ SEO の取り組みを改善するために何に注力すべきかを調べる�
 >
 >また、[特定リスト](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)のキーワードのパフォーマンス状況も表示できます。ドロップダウンをクリックし、興味があるものを 1 つ選択します。
 
-それでは先に進みましょう。
+>[!NOTE]
+>
+>データは、1 ～ 100 のランクのキーワードに対してのみ表示されます。
 
 ## [!UICONTROL 平均ページ最適化スコア] {#average-page-optimization-score}
 

@@ -4,10 +4,10 @@ description: SEO - キーワードの追加 - Marketo ドキュメント - 製�
 title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 91%
+source-wordcount: '91'
+ht-degree: 92%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->データは、1 ～ 100 のランクを持つキーワードに対してのみ表示されます。
+>データは、1 ～ 100 のランクのキーワードに対してのみ表示されます。
 
 >[!MORELIKETHIS]
 >
