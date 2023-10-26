@@ -4,32 +4,20 @@ description: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追�
 title: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 46%
 
 ---
 
 # [!DNL Webex] を [!DNL LaunchPoint] サービスとして追加 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理します。
+Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理します。に対する既存のサブスクリプションが必要です [[!UICONTROL Webex]](https://www.webex.com/).
 
 >[!NOTE]
 >
 >**管理者権限が必要**
-
->[!NOTE]
->
->この手順を実行するには、[!DNL Webex] の既存のサブスクリプションと管理者権限が必要です。ユーザー名、パスワード、サイト名の各設定を手元に用意しておきます。
-
->[!NOTE]
->
->サイト名は、[!DNL Webex] にログインするために使用する URL の末尾にあります。例：
->
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
->
->**注意：**&#x200B;このフィールドに URL 全体を入力しないでください。サイト名のみを入力します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -43,22 +31,26 @@ Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理�
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. **[!UICONTROL 表示名]**&#x200B;を入力します。「**[!UICONTROL サービス]**」で、「**[!UICONTROL Webex]**」を選択します。
+1. **[!UICONTROL 表示名]**&#x200B;を入力します。Adobe Analytics の **[!UICONTROL サービス]** ドロップダウンで、「 **[!UICONTROL Webex ウェビナー]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. 「**[!UICONTROL ユーザー名]**」と「**[!UICONTROL パスワード]**」をそれぞれ入力します。
+1. クリック **[!UICONTROL Webex ウェビナーへのログイン]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. 「**[!UICONTROL サイト名]**」を入力し、「**[!UICONTROL 作成]**」をクリックして、プロセスを完了します。
+1. Webex が新しいタブで開きます。 Webex の資格情報を使用してログインします。
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
+1. ログインに成功すると、タブが閉じ、 _新しいサービス_ Marketo Engageのモーダルは、「Webex Webinars アカウントが設定されています」を読み取ります。 「**[!UICONTROL 作成]**」をクリックします。
+
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
+
 **[!DNL Webex]** が Marketo と同期されました。
 
-![](assets/add-webex-as-a-launchpoint-service-7.png)
+![](assets/add-webex-as-a-launchpoint-service-8.png)
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[でのイベントの作成 [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
