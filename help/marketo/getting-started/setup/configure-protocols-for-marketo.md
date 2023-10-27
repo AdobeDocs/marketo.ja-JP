@@ -4,10 +4,10 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 97%
+source-wordcount: '968'
+ht-degree: 92%
 
 ---
 
@@ -15,13 +15,7 @@ ht-degree: 97%
 
 お客様またはお客様の組織が制限的なファイアウォールまたはプロキシサーバー設定を使用している場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-## ブランディングキャンペーンのランディングページとメール {#branded-campaign-landing-pages-and-emails}
-
-マーケティンググループが Marketo を使用して、ブランドキャンペーンのランディングページとメールを作成しています。これらのランディングページとメールが確実に機能するように、IT 部門の支援が必要です。以下のプロトコルを、マーケティンググループからメールで送信された情報と共に設定してください。
-
-この記事は、これらのプロトコルを導入する企業の IT 部門と共有する必要があります。
-
-IT チームが許可リストを使用して Web アクセスを制限している場合は、以下のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するように依頼してください。
+以下のプロトコルの実装に関しては、この記事を IT 部門と共有してください。 を使用して Web アクセスを制限する場合許可リストに加えるは、次のドメイン（アスタリスクを含む）を追加して、すべてのMarketoリソースおよび Web ソケットを許可してください。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
