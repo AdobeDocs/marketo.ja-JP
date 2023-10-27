@@ -4,10 +4,10 @@ title: 新しい画像追加ドキュメント
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 15%
+source-wordcount: '262'
+ht-degree: 12%
 
 ---
 
@@ -51,11 +51,15 @@ ht-degree: 15%
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. を選択します。 **Web** オプション。
+1. を選択します。 **[!UICONTROL Web]** オプションを選択し、 **[!UICONTROL 次へ]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. テキスト
+1. 目的の画像の URL を入力または貼り付けて、「 **次へ**.
+
+PICC
+
+1. 「空白」をクリックします。
 
 PICC
 
@@ -67,9 +71,27 @@ PICC
 
 1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをインポート]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. テキスト
+1. を選択します。 **[!UICONTROL ボックス]** オプションを選択し、 **[!UICONTROL 次へ]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >まだおこなっていない場合は、Box アカウントにログインしてアクセス権を付与するよう求められます。
+
+1. 目的の Box フォルダーを選択し、 **[!UICONTROL 次へ]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. 目的の画像を選択し、 **[!UICONTROL 次へ]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. 画像の保存先のMarketo Engageフォルダーを選択します。 この例では、画像とファイル（デフォルト）のままにします。 「**インポート**」をクリックします。
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Adobe Experience Manager からのインポート {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ PICC
 1. 手順 1 および 2 に従います。 [上から](#upload-image-or-file).
 
 1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをインポート]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. テキスト
+
+PICC
+
+1. テキスト
+
+PICC
+
+1. テキスト
 
 PICC
 
