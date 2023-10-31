@@ -4,10 +4,10 @@ title: Webex を使用したイベントの作成
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: e21450610146eea3a14761a7365a35d9cacee523
+source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
 workflow-type: tm+mt
-source-wordcount: '921'
-ht-degree: 98%
+source-wordcount: '616'
+ht-degree: 23%
 
 ---
 
@@ -18,136 +18,91 @@ ht-degree: 98%
 >* [Webex を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
->* Webex イベント（クラシック）を使用していることを確認
 
-まず、でウェビナーを作成します。 [Webex](https://www.webex.com/){target="_blank"}. Event in the Webex Event Center. Marketo only uses specific settings and fields for your integration, which we'll go through shortly. Other fields that you might want to configure for Webex are explained in the [Webex Event Center User Guide](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf){target="_blank"}.
+## ウェビナーのスケジュール設定 {#schedule-a-webinar}
 
->[!IMPORTANT]
->
->Marketo Engage は、Webex イベント（クラシック）で作成されたイベントのみをサポートします。現時点では、Marketo は Webex Events（新規）で作成されたイベントをサポートしていません。
-
-## 基本情報 {#basic-information}
-
-* **イベント名 -** この名前が Marketo で表示できます。
-* **「リストに載せない」チェックボックス**
-
-   * イベントをリストに&#x200B;**載せない**&#x200B;ことをお勧めします。これにより、すべてのユーザが Marketo ランディングページを通じて登録するようになります。Marketo 以外のメカニズムを通じて登録した人は、イベントの終了後、そのイベントに参加した人のみが、Marketo に表示されます。
-   * イベントをリストに載せることを選択すると、イベントセンターの web サイトを訪問するすべてのユーザのイベントのリストページに表示されます。
-
-* **登録 —** このチェックボックスをオンにして、「必須」に設定します。 Marketo のフォーム／ランディングページを使用して、Webex にプッシュされる登録情報を取得します。
-* **イベントパスワード** - （オプション）このフィールドを使用する場合は、これを必ず確認メールに含めてください。
-
-![](assets/image2015-5-28-13-3a30-3a55.png)
-
-## 日時 {#date-time}
-
-* **開始日** - 開始日を入力します。Marketo で表示されます。
-
-* **開始時間** - 開始時間を入力します。Marketo で表示されます。
-
-* **推定期間** - イベントの期間を指定します。Marketo で表示されます。
-
-* **タイムゾーン** - 適切なタイムゾーンを入力します。Marketo で表示できます。
-
-![](assets/image2015-5-28-13-3a37-3a39.png)
-
-## 音声カンファレンスの設定 {#audio-conference-settings}
-
-これらの設定は Webex にのみ存在します。Marketo では使用されず、表示もされませんが、ウェビナーでは重要である可能性があります。慎重に確認してください。
-
-## イベントの説明とオプション  {#event-description-options}
-
-次のオプションが、Marketo で使用されるか表示可能です。その他のフィールドは Webex にのみ存在します。
-
-* **説明** - 説明を入力します。Marketo で表示可能ですが、変更できません。
-* **イベント後のアンケート** - 現時点では、Marketo では Webex の投稿イベントアンケートの情報を取得できません。
-* **宛先 URL** - （オプション）Marketo ランディングページの URL を入力して、セッションの終了後に表示する宛先 URL を指定できます。
-
-![](assets/image2015-5-28-13-3a48-3a49.png)
-
-## 出席者と登録 {#attendees-registration}
-
-Marketo イベントを使用して、招待リスト、登録フォーム、その他のメールを制御します。次を含むその他の機能は、Marketo ではサポートされません。
-
-* **登録者の最大数** - 現在、Marketo と Webex 統合での使用は&#x200B;**サポートされていません**。Marketo の「承認待ち」進行ステータスを使用すると、登録者の手動承認を利用できます。
-
-* **登録 ID が必要** - 現在、Marketo と Webex 統合での使用をサポートしています。Marketo を使用して、イベントの確認メールを送信できます。登録の際、リードはイベントに参加するとき使用する一意の URL を受け取ります。
-
-  >[!TIP]
-  >
-  >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。確認 URL が送信されるときに、このトークンは各リード固有の確認 URL に自動的に変換されます。
-  >
-  >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
-
-* **登録パスワード** - （オプション）現在、Marketo と Webex 統合での使用はサポートされていません。
-* **承認ルール** - 現在、Marketo と Webex 統合での使用はサポートされていません。ただし、Marketo でスマートキャンペーンを使用して承認を制御することはできます。
-
-![](assets/image2015-5-28-14-3a4-3a41.png)
-
-### プレゼンターとパネリスト {#presenters-panelists}
-
-このセクションで設定する情報は、Marketo には渡されません。
-
-### メールメッセージ {#email-messages}
-
-Marketo を使用して、登録者にメールを送信したり、確認メールを送信したりします。このセクションでは、何も設定する必要はありません。Webex 内のメールメッセージオプションを無効（オフ）にします。
-
-![](assets/image2015-5-28-14-3a9-3a14.png)
+まず、でウェビナーを作成します。 [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 >[!NOTE]
 >
->Marketo と Webex 統合では、Webex からの確認メールの送信をサポートできません。確認メールは Marketo から送信する必要があります。イベントをスケジュール設定したら、イベント情報を Marketo の確認メールにコピーし、そのメールを&#x200B;**オペレーショナル**&#x200B;に設定してください。
+>Webex で希望の設定を選択しますが、Marketo Engageで表示できるのは、ウェビナー名、開始/終了日時、タイムゾーン、説明のみです。
 
-これで、Marketo に戻る準備ができました。
+### 基本情報 {#basic-information}
 
-1. 作成したイベントを選択します。「**イベントアクション**」ドロップダウンを開きます。「**イベント設定**」を選択します。
+![](assets/create-an-event-with-webex-1.png)
 
-   ![](assets/image2015-5-14-16-3a7-3a31.png)
+* **トピック**：これはイベント名で、Marketoで表示できます。
+* **日時**：開始/終了日、開始/終了時間、期間およびタイムゾーンは、Marketoですべて表示できます。
+* **最大出席者数**：サポートされる Webex 機能は、出席者の最大数によって決まります。
+* **出席者向けの Web キャスト表示**：オンにすると、すべての出席者に対してオンラインセミナがライブにストリーミングされます。
+* **パネリスト**：特定の人をウェビナーのパネルリストに招待します。
+* **ウェビナーの予定**：パネルリストに送信する電子メールの招待状のコンテキストを提供する場合は、この値を設定します。
+
+### セキュリティ {#security}
+
+![](assets/create-an-event-with-webex-2.png)
+
+* **ウェビナーのパスワード**: （オプション）このフィールドを使用する場合、確認 E メールに必ず含めてください。
+* **パネリストのパスワード**: （オプション）このフィールドを使用する場合は、必ずウェビナーのアジェンダに含めてください。
+* **アカウントが必要**：参加者を Webex アカウントを持つユーザーのみに制限します。
+
+### オーディオ接続オプション {#audio-connection-options}
+
+![](assets/create-an-event-with-webex-3.png)
+
+* **オーディオの接続タイプ**：ウェビナー参加者がウェビナーのオーディオ部分に参加する方法を選択します。
+* **入口と出口のトーン**：ユーザーがウェビナーに入るか離れるときに使用するサウンドを選択します（電話のオーディオ接続が必要です）。
+* **パネリストをミュート**：目的のパネルリストミュート設定を選択します。
+
+### 詳細オプション {#advanced-options}
+
+![](assets/create-an-event-with-webex-4.png)
+
+* **自動記録**：オンにすると、オンラインセミナが自動的に記録されます。
+* **練習セッション**：オンにして、ウェビナーの開始時にプラクティスセッションを開始します。
+* **ブレークアウトセッション**：分類セッションを使用すると、ウェビナーの開始前にパネリストと参加者を事前に割り当てたり、ウェビナー中に参加を許可したりできます。
+* **ウェビナーシリーズ**：ウェビナーシリーズに追加すると、公開されているかどうかに関わらず、ユーザーがウェビナーを表示できます。
+* **登録**：出席者が出席する前にホストの承認を登録し、受け取る必要があります。
+* **電子メールリマインダー**：ウェビナーが開始してから 2 日までの 15 分の間の電子メールリマインダーを選択します。
+* **ウェビナーオプション**：ウェビナーの参加者が使用できる機能を決定します。
+* **参加者権限**：参加者権限は、ウェビナー参加者が使用できるアクションを決定します。
+
+>[!NOTE]
+>
+>Marketo と Webex 統合では、Webex からの確認メールの送信をサポートできません。確認メールは Marketo から送信する必要があります。イベントをスケジュール設定したら、イベント情報を Marketo の確認メールにコピーし、そのメールを&#x200B;_オペレーショナル_&#x200B;に設定してください。
+
+これで、Marketo Engageに飛び込む準備が整いました！
+
+## イベントをMarketo Engageと同期 {#sync-your-event-with-marketo-engage}
+
+1. Marketoで、作成したイベントプログラムを探して選択します。 Adobe Analytics の **イベントアクション** ドロップダウンで、「 **イベント設定**.
+
+   ![](assets/create-an-event-with-webex-5.png)
 
    >[!NOTE]
    >
    >選択するイベントのチャネルタイプは、**ウェビナー**&#x200B;である必要があります。
 
-1. 「**イベントパートナー**」で、「**Webex**」を選択します。
+1. Adobe Analytics の **イベントパートナー** ドロップダウンで、「 **Webex ウェビナー**.
 
-   ![](assets/image2015-1-30-13-3a58-3a2.png)
+   ![](assets/create-an-event-with-webex-6.png)
 
-1. 「**ログイン**」で、「Webex ログイン」を選択します。
+1. Adobe Analytics の **ログイン** 」ドロップダウンから、Webex ログインを選択します。
 
-   ![](assets/image2015-5-18-12-3a2-3a26.png)
+   ![](assets/create-an-event-with-webex-7.png)
 
-1. 「**イベント**」で、新しく作成した Webex イベントを選択します。次に、オプションのバックアップページを選択し、「**保存**」をクリックします。
+1. Adobe Analytics の **イベント** 」ドロップダウンから、Webex イベントを選択します。
 
-   ![](assets/image2015-5-14-16-3a15-3a55.png)
+   ![](assets/create-an-event-with-webex-8.png)
 
-1. Webex イベント用のオプションのバックアップページを選択します。承認済みの Marketo ランディングページのドロップダウンから選択するか、Marketo 以外のランディングページの URL を入力します。
+1. ウェビナーの詳細が表示されます。 「**保存**」をクリックします。
 
-   >[!TIP]
-   >
-   >メンバーがイベントの開始時間より前にカスタムイベント URL をクリックした場合に、特定のページにメンバーを誘導するようにバックアップページを設定します。
+   ![](assets/create-an-event-with-webex-9.png)
 
-   >[!NOTE]
-   >
-   >Marketo が送信するフィールドは、姓、名、メールアドレスです。
+これで、Webex のイベントが Marketo のイベントと同期されます。ウェビナーに新規登録したリードは、新規ステータスが「登録」に設定されたときに、_プログラムステータスを変更_&#x200B;フローステップによってウェビナープロバイダー（Zoom）にプッシュされます。その他のステータスではプッシュされません。必ず _プログラムステータスの変更_ フローステップ#1および _メールの送信_ フローステップ#2.
 
-   ![](assets/webex.png)
+## 注意事項 {#things-to-note}
 
-   >[!CAUTION]
-   >
-   >ネストされたメールプログラムを使用して確認メールを送信しないでください。代わりに、上に示しているように、イベントプログラムのスマートキャンペーンを使用します。
+* ネストされた電子メールプログラムを使用して確認メールを送信しないでください。 代わりに、イベントプログラムのスマートキャンペーンを使用してください。
 
-   >[!TIP]
-   >
-   >Marketo にデータが表示されるまでには、最大 48 時間かかる場合があります。48 時間待っても何も表示されない場合は、イベントの「**概要**」タブの「イベントアクション」メニューから「**ウェビナープロバイダーから更新**」を選択してください。
-
-できましたね。これで、Webex のイベントが Marketo のイベントと同期されます。ウェビナーに新規登録したリードは、新規ステータスが「登録」に設定されたときに、プログラムステータスを変更フローステップによってウェビナープロバイダーにプッシュされます。その他のステータスではプッシュされません。また、プログラムステータスを変更フローステップ #1 とメールを送信フローステップ #2 を必ず設定してください。
-
-## スケジュールの表示  {#viewing-the-schedule}
-
-プログラムスケジュール表示で、イベントのカレンダーエントリをクリックします。画面の右側にスケジュールが表示されます。
-
-![](assets/image2015-5-14-16-3a21-3a41.png)
-
->[!NOTE]
->
->イベントのスケジュールを変更するには、Webex でウェビナーを編集する必要があります。
+* Marketoにデータが表示されるまでに最大 48 時間かかる場合があります。 その長い間待ってもまだ何も表示されない場合は、 **ウェビナープロバイダから更新** （内） **イベントアクション** 次に示すドロップダウン **概要** イベントプログラムの「 」タブをクリックします。
