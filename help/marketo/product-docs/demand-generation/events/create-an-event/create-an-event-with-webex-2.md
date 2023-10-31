@@ -4,14 +4,16 @@ title: Webex を使用したイベントの作成
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 23%
+source-wordcount: '602'
+ht-degree: 17%
 
 ---
 
 # Webex を使用したイベントの作成 {#create-an-event-with-webex}
+
+Webex でウェビナーを作成した後、イベントをMarketo Engageと同期する必要があります。
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 23%
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
-## ウェビナーのスケジュール設定 {#schedule-a-webinar}
+## ウェビナーのスケジュール設定 {#schedule-your-webinar}
 
-まず、でウェビナーを作成します。 [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->Webex で希望の設定を選択しますが、Marketo Engageで表示できるのは、ウェビナー名、開始/終了日時、タイムゾーン、説明のみです。
+イベントをスケジュールし、 [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### 基本情報 {#basic-information}
 
@@ -71,11 +69,9 @@ ht-degree: 23%
 >
 >Marketo と Webex 統合では、Webex からの確認メールの送信をサポートできません。確認メールは Marketo から送信する必要があります。イベントをスケジュール設定したら、イベント情報を Marketo の確認メールにコピーし、そのメールを&#x200B;_オペレーショナル_&#x200B;に設定してください。
 
-これで、Marketo Engageに飛び込む準備が整いました！
-
 ## イベントをMarketo Engageと同期 {#sync-your-event-with-marketo-engage}
 
-1. Marketoで、作成したイベントプログラムを探して選択します。 Adobe Analytics の **イベントアクション** ドロップダウンで、「 **イベント設定**.
+1. Marketoで、目的のイベントプログラムを探して選択します。 Adobe Analytics の **イベントアクション** ドロップダウンで、「 **イベント設定**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ ht-degree: 23%
 
    ![](assets/create-an-event-with-webex-9.png)
 
-これで、Webex のイベントが Marketo のイベントと同期されます。ウェビナーに新規登録したリードは、新規ステータスが「登録」に設定されたときに、_プログラムステータスを変更_&#x200B;フローステップによってウェビナープロバイダー（Zoom）にプッシュされます。その他のステータスではプッシュされません。必ず _プログラムステータスの変更_ フローステップ#1および _メールの送信_ フローステップ#2.
+Webex イベントがMarketoイベントプログラムと同期されました。 ウェビナーに登録した担当者は、 _プログラムステータスの変更_ フローステップ（新しいステータスが「登録済み」に設定されている場合） その他のステータスではプッシュされません。必ず _プログラムステータスの変更_ フローステップ#1および _メールの送信_ フローステップ#2.
 
 ## 注意事項 {#things-to-note}
 
