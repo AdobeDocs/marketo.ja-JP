@@ -4,16 +4,20 @@ description: メールレポートでのアセットのフィルター - Marketo
 title: メールレポートでのアセットのフィルター
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 85%
 
 ---
 
 # メールレポートでのアセットのフィルター {#filter-assets-in-an-email-report}
 
 プログラム（ローカルアセット）のメール、Design Studio のメール（グローバルアセット）、またはアーカイブされたメールに[メールの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)または[メールリンクの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)の焦点を合わせます。
+
+>[!NOTE]
+>
+>レポートでのアセットのフィルタリングは、サテライトモード（アセットの詳細ページの右にある「新しいウィンドウで開く」アイコン）ではサポートされていません。
 
 1. **分析**（または&#x200B;**マーケティング活動**）領域に移動します。
 

@@ -4,16 +4,20 @@ description: キャンペーンアクティビティレポートをフィルタ�
 title: キャンペーンアクティビティレポートをフィルターする
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 80%
 
 ---
 
 # キャンペーンアクティビティレポートをフィルターする {#filter-a-campaign-activity-report}
 
 特定の[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)を基準にして、[キャンペーンアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を絞り込みます。
+
+>[!NOTE]
+>
+>レポートでのアセットのフィルタリングは、サテライトモード（アセットの詳細ページの右にある「新しいウィンドウで開く」アイコン）ではサポートされていません。
 
 1. **マーケティング活動**（または&#x200B;**アナリティクス**）エリアに移動し、キャンペーンアクティビティレポートを選択します。
 
