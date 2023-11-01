@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
+source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
 workflow-type: tm+mt
-source-wordcount: '9104'
+source-wordcount: '9099'
 ht-degree: 97%
 
 ---
@@ -685,7 +685,6 @@ ht-degree: 97%
             + [GotoWebinar を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Level 3 Web Meeting を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Webex を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-              [Webex 2 でのイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Zoom を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Marketo ON24 アダプターを使用したイベントの作成 {#create-an-event-with-the-marketo-on24-adapter}
                + [Marketo との ON24 統合の設定](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
