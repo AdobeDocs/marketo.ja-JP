@@ -5,25 +5,25 @@ title: キャンペーンのリクエスト
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # キャンペーンのリクエスト {#request-campaign}
 
-特定のキャンペーンに担当者を配置するには、「[!UICONTROL キャンペーンをリクエスト]&quot;単一のフローステップ。
+特定のキャンペーンに人物を配置するには、「[!UICONTROL キャンペーンのリクエスト]」単一フローステップを使用します。
 
 >[!NOTE]
 >
->担当者を配置するキャンペーンがアクティブで、 [キャンペーンがリクエストされました](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} トリガー。
+>人物を配置するキャンペーンは、アクティブで、かつ「[キャンペーンをリクエスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}」トリガーが設定されている必要があります。
 
 1. **[!UICONTROL データベース]**&#x200B;で、目的の人物を検索して選択します。
 
    ![](assets/one-5.png)
 
-1. 「**[!UICONTROL 人物のアクション]**」をクリックし、「**[!UICONTROL 特別]**」にポインタを合わせ、「**[!UICONTROL キャンペーンのリクエスト]**」を選択します。
+1. 「**[!UICONTROL 人物のアクション]**」をクリックし、「**[!UICONTROL 特殊]**」にポインタを合わせ、「**[!UICONTROL キャンペーンのリクエスト]**」を選択します。
 
    ![](assets/two-5.png)
 
@@ -35,7 +35,7 @@ ht-degree: 50%
 
    ![](assets/four-4.png)
 
-   リクエストされたキャンペーンに担当者が追加されました。
+   キャンペーンのリクエストに人物が追加されました。
 
    ![](assets/five-1.png)
 
@@ -43,4 +43,4 @@ ht-degree: 50%
 
 >[!TIP]
 >
->「[!UICONTROL キャンペーンがリクエストされました]&quot;このフローステップの影響を受ける人を検索するトリガーまたはフィルター。
+>「[!UICONTROL キャンペーンをリクエスト]」トリガーまたはフィルターを使用して、このフローステップの影響を受ける人物を検索します。
