@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359492
-description: をセグメント別にグループ化する - Marketo ドキュメント - 製品ドキュメント
-title: をセグメント別にグループ化する
+description: 顧客の実績レポートをセグメント別にグループ化する - Marketo ドキュメント - 製品ドキュメント
+title: 顧客の実績レポートをセグメント別にグループ化する
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 ---
 
-# をセグメント別にグループ化する {#group-person-reports-by-segment}
+# 顧客の実績レポートをセグメント別にグループ化する {#group-person-reports-by-segment}
 
 ユーザーレポートは、セグメント化で定義した任意のセグメント別にグループ化できます。
 
