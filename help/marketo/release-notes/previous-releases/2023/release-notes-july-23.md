@@ -3,7 +3,7 @@ description: リリースノート - 2023年7月 - Marketo ドキュメント - 
 title: リリースノート - 2023年7月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
+source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 68%
@@ -101,7 +101,7 @@ ht-degree: 68%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">配信停止メッセージの自動追加設定</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">配信停止メッセージの自動追加設定</a></td>
   </tr>
   </tbody>
 </table>
