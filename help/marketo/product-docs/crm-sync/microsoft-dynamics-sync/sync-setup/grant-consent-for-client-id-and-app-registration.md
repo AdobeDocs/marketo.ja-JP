@@ -3,14 +3,16 @@ description: クライアント ID とアプリの登録に対する同意の付
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 95%
 
 ---
 
 # クライアント ID とアプリ登録に対する同意の付与 {#grant-consent-for-client-id-and-app-registration}
+
+必要な同意/権限を付与する方法を学ぶには、次の手順に従います。
 
 ## 同期ユーザーに委任されたユーザー権限を付与する {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 100%
    >
    >別のタブで既に Azure に管理者としてログインしている場合は、別のブラウザーまたは匿名モードを使用して、同期ユーザーとしてログインする必要があります。
 
-1. 「**承認**」をクリックします。
+1. 「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ ht-degree: 100%
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 
-1. 「管理」で、「**API 権限**」をクリックします。
+1. 「管理」で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. 「**管理者の同意を付与**」（テナントの場合）ボタンをクリックします。
+1. 「**[!UICONTROL 管理者の同意を付与]**」（テナントの場合）ボタンをクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 「**はい**」をクリックして確認します。
+1. 「**[!UICONTROL はい]**」をクリックして確認します。
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

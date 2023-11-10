@@ -4,16 +4,16 @@ description: Microsoft Dynamics 同期について - Marketo ドキュメント 
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '246'
+ht-degree: 97%
 
 ---
 
 # Microsoft Dynamics 同期について {#understanding-the-microsoft-dynamics-sync}
 
-Marketo と Microsoft Dynamics は適切に連携して、お客様の販売データとマーケティングデータの同期を維持します。
+Marketo EngageとMicrosoft Dynamics が連携します。 お客様の販売データとマーケティングデータの同期を維持します。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Marketo と Dynamics の間の同期は、リードと連絡先が双方向で�
 * [商談](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [カスタムエンティティ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-[Dynamics 用に Marketo で入力した認証情報](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)は、データの同期に使用されます。
+[Dynamics 用に Marketo で入力した資格情報](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)は、データの同期に使用されます。
 
 >[!NOTE]
 >

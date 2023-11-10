@@ -4,10 +4,10 @@ description: アプリを Azure に登録してクライアント ID／アプリ
 title: アプリを Azure に登録してクライアント ID／アプリ ID を取得
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
 ## 新しいアプリの登録 {#registering-a-new-app}
 
-1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://login.microsoftonline.com/){target="_blank"}します。また、左側のナビゲーションパネルの「**管理者**」項目を展開し、「**Azure AD**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
+1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://login.microsoftonline.com/){target="_blank"}します。また、左側のナビゲーションパネルの「**[!UICONTROL 管理者]**」項目を展開し、「**[!UICONTROL Azure AD]**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
 
    >[!CAUTION]
    >
@@ -25,50 +25,50 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
    >[!NOTE]
    >
-   >Azure アカウントをお持ちでない場合は、[サインアップ](https://azure.microsoft.com/ja-jp/free/)してください。{target="_blank"}詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
+   >Azure アカウントをお持ちでない場合は、 [新規登録](https://azure.microsoft.com/ja-jp/free/){target="_blank"} 一つは 詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
    >
    >
    >Azure アカウントがあっても、Microsoft Dynamics 365 を使用した Office 365 サブスクリプションが Azure サブスクリプションで利用できない場合は、[こちらの手順](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription)に従って、2 つのアカウントを関連付けます。{target="_blank"}
 
-1. 左側のナビゲーションパネルで、「**Azure Active Directory**」を検索してクリックします。
+1. 左側のナビゲーションパネルで、「**[!UICONTROL Azure Active Directory]**」を検索してクリックします。
 
    ![](assets/two.png)
 
-1. 「管理」で、「**アプリの登録**」をクリックします。
+1. 「管理」で、「**[!UICONTROL アプリの登録]**」をクリックします。
 
    ![](assets/three.png)
 
-1. ページの上部にある「**新規登録**」をクリックします。
+1. ページの上部にある「**[!UICONTROL 新規登録]**」をクリックします。
 
    ![](assets/four.png)
 
-1. アプリ名を入力し、適切なアカウントタイプを選択して、リダイレクト URL を入力します。次に、ページの下部にある「**登録**」をクリックします。
+1. アプリ名を入力し、適切なアカウントタイプを選択して、リダイレクト URL を入力します。次に、ページの下部にある「**[!UICONTROL 登録]**」をクリックします。
 
    ![](assets/five.png)
 
-1. これで、アプリが「**アプリの登録**」タブに表示されます。
+1. これで、アプリが「**[!UICONTROL アプリの登録]**」タブに表示されます。
 
    ![](assets/six.png)
 
 ## アプリの権限の設定 {#configuring-app-permissions}
 
-1. Active Directory の「**アプリの登録**」タブで、権限を設定するアプリをクリックします。
+1. Active Directory の「**[!UICONTROL アプリの登録]**」タブで、権限を設定するアプリをクリックします。
 
    ![](assets/seven.png)
 
-1. 「管理」で、「**API 権限**」をクリックします。
+1. 「管理」で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/eight.png)
 
-1. 「**権限を追加**」ボタンをクリックします。
+1. 「**[!UICONTROL 権限を追加]**」ボタンをクリックします。
 
    ![](assets/nine.png)
 
-1. 「**Dynamics CRM**」を選択します。
+1. 「**[!UICONTROL Dynamics CRM]**」を選択します。
 
    ![](assets/ten.png)
 
-1. 「**組織ユーザとして共通データサービスにアクセスする**」チェックボックスにチェックを入れ、「**権限を追加する**」をクリックします。
+1. 次を確認します。 **[!UICONTROL 組織のユーザーとしての共通データサービスへのアクセス]** 」ボックスに移動し、 **[!UICONTROL 権限を追加]**.
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
    ![](assets/twelve.png)
 
-1. 「**管理者の同意を付与**」ボタンをクリックします。
+1. 「**[!UICONTROL 管理者の同意を付与]**」ボタンをクリックします。
 
    ![](assets/thirteen.png)
 
-1. 「**はい**」をクリックして確認します。
+1. 「**[!UICONTROL はい]**」をクリックして確認します。
 
    ![](assets/fourteen.png)
 

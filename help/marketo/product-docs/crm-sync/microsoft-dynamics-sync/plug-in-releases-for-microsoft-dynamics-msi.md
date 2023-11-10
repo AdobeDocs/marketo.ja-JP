@@ -4,16 +4,16 @@ description: Microsoft Dynamics MSI 向けプラグインリリース - Marketo 
 title: Microsoft Dynamics MSI 向けプラグインリリース
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 82%
+source-wordcount: '318'
+ht-degree: 76%
 
 ---
 
 # Microsoft Dynamics MSI 向けプラグインリリース {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo Engageは定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
 Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用している場合は、 [最新のプラグインのダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
@@ -23,7 +23,7 @@ Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用�
 
 ## MSI ソリューションのアップグレード {#upgrading-your-msi-solution}
 
-1. Dynamics の「_インポート_」ボタンを押して、Dynamics CRM の&#x200B;**既存のバージョンに**&#x200B;最新バージョンのソリューションをインポートします。
+1. Dynamics の「_インポート_」ボタンを押して、Dynamics CRM の&#x200B;**[!UICONTROL 既存のバージョンに]**&#x200B;最新バージョンのソリューションをインポートします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
@@ -31,15 +31,15 @@ Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用�
 >
 >例：Dynamics CRM のバージョンが 2.0.0.20 で、最新バージョンが 2.0.0.21 の場合は、2.0.0.20 _以降_&#x200B;のバージョンをインポートします。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 「**アップグレードのステージ**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
+1. 「**[!UICONTROL アップグレードのステージ]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -66,7 +66,7 @@ Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用�
   <tr> 
    <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">インサイト用のアカウントレイアウト：注目のアクション、スコアの変更、Web アクティビティ、E メールアクティビティ</td> 
+   <td colspan="1">インサイトのアカウントレイアウト：注目のアクション、スコアの変更、Web アクティビティ、電子メールアクティビティ</td> 
   </tr>
   <tr> 
    <td colspan="1">01/05/22</td> 
@@ -81,7 +81,7 @@ Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用�
   <tr> 
    <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">自動監査を削除し、MSI ソリューションのドキュメントの変更を削除します</td> 
+   <td colspan="1">自動監査を削除し、MSI ソリューションのドキュメントの変更を削除します。</td> 
   </tr>
   <tr> 
    <td colspan="1">10/01/20</td> 
