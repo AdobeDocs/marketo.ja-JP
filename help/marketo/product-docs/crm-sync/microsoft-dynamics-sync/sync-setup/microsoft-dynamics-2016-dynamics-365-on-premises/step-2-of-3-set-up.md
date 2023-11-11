@@ -3,10 +3,10 @@ description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Mar
 title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 2 / 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
 
 ## ユーザーを新規作成する {#create-a-new-user}
 
@@ -24,37 +24,37 @@ ht-degree: 100%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
-1. 「**設定**」を選択し、「**セキュリティ**」を選択します。
+1. 「**[!UICONTROL 設定]**」を選択し、「**[!UICONTROL セキュリティ]**」を選択します。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
 
-1. 「**ユーザー**」をクリックします。
+1. 「**[!UICONTROL ユーザー]**」をクリックします。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
 
-1. 「**新規**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. 「**ユーザーの追加とライセンス**」をクリックします。新しいタブが開きます。
+1. 「**[!UICONTROL ユーザーの追加とライセンス]**」をクリックします。新しいタブが開きます。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 
-1. ページの上部にある「**管理者**」をクリックします。別の新しいタブが開きます。
+1. ページの上部にある「**[!UICONTROL 管理者]**」をクリックします。別の新しいタブが開きます。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
 
-1. 「**ユーザーを追加**」をクリックします。
+1. 「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
 
-1. すべての情報を入力します。完了したら、「**追加**」をクリックします。
+1. すべての情報を入力します。完了したら、「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
 
    >[!NOTE]
    >
-   >この名前は、既存の CRM ユーザーアカウントではなく、専用の同期ユーザーである必要があります。実際のメールアドレスである必要はありません。
+   >この名前は、既存の CRM ユーザアカウントではなく、専用の同期ユーザである必要があります。実際のメールアドレスである必要はありません。
 
 1. 新しいユーザー資格情報を受け取るメールアドレスを入力し、「メールを送信して閉じる」をクリックします。
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 ## 新しいクライアントアプリケーションを作成する {#create-a-new-client-application}
 
-新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従ってください。Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
+新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従ってください。{target="_blank"}Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
@@ -70,57 +70,57 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザの言語設定は[英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)。
+>同期ユーザーの言語設定 [は英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
 
-1. 「**設定**」で、「**セキュリティ**」をクリックします。
+1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL セキュリティ]**」をクリックします。
 
    ![](assets/assign1.png)
 
-1. 「**ユーザ**」をクリックします。
+1. 「**[!UICONTROL ユーザ]**」をクリックします。
 
    ![](assets/assign2.png)
 
-1. ユーザのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)（ADFS）管理者に問い合わせて、Marketo 専用ユーザの作成を依頼します。
+1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、 [Active Directory フェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) 管理者：Marketo専用のユーザーを作成します。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 同期ユーザを選択します。「**役割を管理**」をクリックします。
+1. 同期ユーザを選択します。「**[!UICONTROL ロールを管理]**」をクリックします。
 
    ![](assets/assign4.png)
 
-   「Marketo 同期ユーザー」をクリックし、「OK」をクリックします。
+1. 「Marketo 同期ユーザ」のチェックをオンにして、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/assign5.png)
 
    >[!TIP]
    >
-   >役割が表示されない場合は、[手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) に戻ってソリューションをインポートします。
+   >ロールが表示されない場合は、[手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) に戻ってソリューションをインポートします。
 
    >[!NOTE]
    >
-   >同期ユーザが CRM で行った更新は Marketo に同期&#x200B;**されません**。
+   >同期ユーザが CRM で行った更新は Marketo に同期&#x200B;_されません_。
 
 ## Marketo ソリューションの設定 {#configure-marketo-solution}
 
 あと少しで完了です。次の記事に進む前に、最後の部分を設定しましょう。
 
-1. 「**設定**」で、「**Marketo 設定**」をクリックします。
+1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL Marketo 設定]**」をクリックします。
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >Marketo 設定が見つからない場合は、ページを更新してみてください。問題が解決しない場合は、、[Marketo ソリューションを公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)するか、またはログアウトしてから再度ログインしてみてください。
+   >Marketo 設定が見つからない場合は、ページを更新してみてください。問題が解決しない場合は、、[Marketo ソリューションを公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}するか、またはログアウトしてから再度ログインしてみてください。
 
-1. 「**デフォルト**」をクリックします。
+1. 「**[!UICONTROL デフォルト]**」をクリックします。
 
    ![](assets/configure2.png)
 
-1. 「**Marketo ユーザ**」フィールドをクリックし、同期ユーザを選択します。
+1. 「**[!UICONTROL Marketo ユーザ]**」フィールドをクリックし、同期ユーザを選択します。
 
    ![](assets/configure3.png)
 
@@ -128,16 +128,16 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/configure4.png)
 
-1. 「**すべてのカスタマイズを公開**」をクリックします。
+1. 「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
 
    ![](assets/publish-all-customizations1.png)
 
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
-* 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)します。
-* [Microsoft Dynamics 同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認します。
+* 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}します。
+* [Microsoft Dynamics 同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}プロセスを実行します。初期設定が正しく行われたことを確認します。
 * Microsoft Dynamics CRM で、Marketo 同期ユーザーにログインします。
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md){target="_blank"}
