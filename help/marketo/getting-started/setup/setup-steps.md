@@ -4,10 +4,10 @@ description: 設定手順 - Marketo ドキュメント - 製品ドキュメン�
 title: 設定手順
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
-ht-degree: 100%
+source-wordcount: '2062'
+ht-degree: 99%
 
 ---
 
@@ -35,6 +35,10 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 >[このチェックリストを印刷する](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}と、チェックを入れて完了を確認することができます。
 
 ## ログインして追加の Marketo ユーザーを作成する {#log-in-and-create-additional-marketo-users}
+
+>[!IMPORTANT]
+>
+>Marketoサブスクリプションが 2023 年 7 月 31 日以降に作成された、または既に [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 代わりに、
 
 メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 
