@@ -3,22 +3,16 @@ description: Adobe Identity Management の概要 - Marketo ドキュメント - 
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 74%
+source-wordcount: '307'
+ht-degree: 75%
 
 ---
 
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
-2022年2月15日（PT）現在、Adobe Marketo Engage の新しいアカウント（既存のアカウントの新しいインスタンスではなく、新しいアカウント）をお持ちの場合、購入した製品パッケージに応じて、Adobe Identity Management システムと統合される場合があります。お持ちかどうかを確認するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
-
-既存の Marketo サブスクリプションは、2023年後半に Adobe Identity Management システムへの移行を開始します。
-
-次の場合、 [新しいアカウント](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} （既存のアカウントの新しいインスタンスだけでなく）2022 年 2 月 15 日現在、Adobe Marketo Engageと共に、購入した製品パッケージに応じて、AdobeIdentity Management System(IMS) と統合される場合があります。 お持ちかどうかを確認するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
-
-既存のMarketoサブスクリプションは、2023 年後半にAdobeIdentity Managementシステムへの移行を開始します。 最初に、これらの移行は、Marketoサブスクリプションを再契約した後でのみ発生する可能性があります。 Adobeは、2024 年半ば頃にリコントラクションイベント以外でMarketoユーザーの移行を開始する予定です。
+すべての新しいAdobe Marketo Engageサブスクリプション（2023 年 7 月 31 日以降）は、AdobeIdentity Managementシステムと統合されます。 既存のMarketoサブスクリプションは、現在、更新または再契約イベント時にAdobeIdentity Managementシステムに移行中です。 現時点では、更新または再契約イベント以外の移行はサポートされていません。
 
 >[!NOTE]
 >

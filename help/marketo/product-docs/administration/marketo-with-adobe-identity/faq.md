@@ -3,14 +3,14 @@ description: AdobeIdentity Management FAQ - Marketoドキュメント — 製品
 title: AdobeIdentity Managementの FAQ
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 98%
+source-wordcount: '783'
+ht-degree: 97%
 
 ---
 
-# よくある質問 {#faq}
+# AdobeIdentity Managementの FAQ {#adobe-identity-management-faq}
 
 **Adobe ID とは何ですか？**
 

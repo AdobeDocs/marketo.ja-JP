@@ -3,9 +3,9 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1189'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,6 @@ Adobe Admin Consoleを使用して、 [エンタープライズ版およびチ�
 * **ユーザーはAdobeID でサインインします**. Adobeは、既存のユーザーをAdobe Admin Consoleに移行します。 ユーザーは、Adobe IDまたはAdobeFederated ID(SSO) の新しいAdobeID を使用してMarketoサブスクリプションにログインします。
 
 * **その他のすべての機能の管理方法に変更はありません** 機能、Marketo Engageの役割、ワークスペース、機能、動作の管理を含む、ユーザーアプリケーション自体内。
-
 
 ## 移行ジャーニーのタイムライン {#migration-journey-timeline}
 
@@ -81,7 +80,7 @@ Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日�
 
 ### 移行日に期待される事項 {#what-to-expect-on-migration-day}
 
-ユーザーの移行は、移行開始日の午前 0 時（太平洋標準時）に開始されます。
+米国タイムゾーンのMarketoサブスクリプションは、移行開始日の午前 0 時（太平洋標準時）以降に移行されます。 その他すべてのサブスクリプションのユーザー移行は、サブスクリプションの指定されたタイムゾーンの午前 0 時に開始されます。
 
 **Adobeが最初にMarketo管理者を自動的に移行します**. Marketo管理者がAdobeID に移行されると、Marketoアプリケーション内でAdobe製品管理者の役割と、以前の役割が割り当てられます。
 
@@ -93,7 +92,9 @@ Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日�
 >
 >ユーザーの移行中に、製品へのアクセス権が失われることはありません。 Adobeの移行中にユーザーがログインした場合、ユーザーはログアウトされ、移行が完了した後、ユーザー ID を使用して数分以内に再度ログインするよう求められます。
 
-ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。 詳細は、 [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 記事。
+ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。
+
+詳しくは、 [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## ユーザー移行完了 {#user-migration-complete}
 
