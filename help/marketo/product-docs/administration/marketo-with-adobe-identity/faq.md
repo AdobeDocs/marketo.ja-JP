@@ -3,10 +3,10 @@ description: AdobeIdentity Management FAQ - Marketoドキュメント — 製品
 title: AdobeIdentity Managementの FAQ
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 97%
+source-wordcount: '1180'
+ht-degree: 65%
 
 ---
 
@@ -89,3 +89,23 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 **Adobe Admin Console でサポートされている製品カードは何ですか。**
 
 サポートされる製品カードは、Marketo Engage、Marketo Measure、Marketo Dynamic Chat、Marketo Sales Connect、Marketo Sales Insight Actions です。
+
+**ユーザー ID に移行した際に、ユーザーログインが電子メールと一致しない場合、AdobeID はどうなりますか？**
+
+電子メールアドレスとは異なるログイン情報を持つ現在のMarketoユーザーは、AdobeID に移行すると、その資格情報を使用してログインしなくなります。 AdobeID は、常にユーザーの電子メールアドレスで認証されます。
+
+**サブスクリプションで IP 制限設定が使用されている場合、AdobeID の移行後はどうなりますか。**
+
+サブスクリプションがAdobeID に転送された場合、IP 制限設定はAdobe Admin Consoleに移行されません。 Marketoの IP 制限設定では、特定の IP アドレスからのアクセスのみを許可し、特定の IP アドレスへのアクセスをブロックします。 現時点では、AdobeIdentity Managementシステムは IP 制限機能をサポートしていません。
+
+2024 年に、AdobeIdentity Management System は、特定の IP アドレスのみをサポートする機能をリリースし、現在この機能を使用しているMarketoユーザーへの移行をサポートします。 現在この機能を使用しているユーザーは、この機能がリリースされるまでユーザー移行を行いません。 機能が配信されると、移行がスケジュールされたことがユーザーに通知されます。 この機能の詳細は、利用可能になった時点で提供されます。
+
+現在 IP 制限を使用しているユーザーは、特定のアドレスをアクセスからブロックして、AdobeID に移行後はこの機能を使用できなくなります。AdobeのIdentity Management System ではこの機能はサポートされないからです。
+
+**「シングルサインオンをバイパス」を選択できる役割を持つユーザーがいる場合、AdobeID 移行後はどうなりますか？**
+
+サブスクリプションがAdobeID に転送されると、すべてのユーザーのAdobe組織レベルでシングルサインオン (SSO) が設定されます。 SSO が設定されると、そのAdobe組織内のすべてのMarketoユーザー/すべてのMarketoインスタンスに対して適用されます。以前は、Marketoでは、ユーザーの役割の設定で「シングルサインオンをバイパス」オプションを使用できるようになりました。 これは、AdobeIdentity Management System ではサポートされていません。
+
+**複数のサブスクリプションを持っていますが、すべてシングルサインオンが有効になっていません。 AdobeID の移行後はどうなりますか？**
+
+サブスクリプションがAdobeID に転送されると、シングルサインオン (SSO) がAdobe組織レベルで設定されます。 つまり、SSO はAdobe組織内のすべての製品インスタンスに適用されます。SSO が設定されると、そのAdobe組織内のすべてのMarketoインスタンスに適用されます。以前は、Marketoは、インスタンスレベルでこの設定をサポートしていました。 これは、AdobeIdentity Management System ではサポートされていません。
