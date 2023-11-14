@@ -3,16 +3,16 @@ description: メールの検証 - Marketo ドキュメント - 製品ドキュ�
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '362'
 ht-degree: 100%
 
 ---
 
 # メールの検証 {#email-verification}
 
-Adobe Marketo Engage サブスクリプションを使用する場合、API 専用ユーザー以外のすべてのユーザー（Marketo Engage 管理者を含む）は、自分のメールアドレスを検証する必要があります。管理者ロールを割り当てられていない、または「SSO をバイパス」権限のロールが割り当てられているシングルサインオン（SSO）ユーザーは、メール検証機能でサブスクリプションが有効になる際に、自動的にメールが検証されます。
+Adobe Marketo Engage サブスクリプションを使用する場合、API 専用ユーザー以外のすべてのユーザー（Marketo Engage 管理者を含む）は、自分のメールアドレスを検証する必要があります。
 
 ## この機能が導入された理由 {#why-this-feature-was-introduced}
 
@@ -20,7 +20,7 @@ Marketo Engage では、Adobe ID へのユーザー移行を含む、Adobe Busin
 
 ## ユーザー招待 {#user-invite}
 
-管理者がユーザーを招待する場合、招待リンクをクリックすると、そのユーザーは自動的に検証されます。管理者ロールを割り当てられていない SSO ユーザーは、自動的に検証されます。
+管理者がユーザーを招待する場合、招待リンクをクリックすると、そのユーザーは自動的に検証されます。
 
 ## 確認用メール {#verification-email}
 
