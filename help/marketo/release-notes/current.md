@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d0302459ac521d6b0dc6dc699fa7d99b38b9f058
+source-git-commit: 16c3e72e7b58c81d80f55f1f92ce89da49470035
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '357'
 ht-degree: 27%
 
 ---
@@ -63,6 +63,6 @@ ht-degree: 27%
 
 ## お知らせ {#announcements}
 
-* **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。
+* **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}。
 
 * **Marketo Events とMarketo Moments の廃止**:Adobeは [Marketo Events とMarketo Moments の削除](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} 2023 年 10 月 2 日より、すべてのアプリストアから。 既存のユーザー —Marketo EngageインスタンスをAdobeID に移行するまで、これらのアプリを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。
