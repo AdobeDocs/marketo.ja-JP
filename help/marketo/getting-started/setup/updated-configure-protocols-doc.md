@@ -4,7 +4,7 @@ title: プロトコルの設定ドキュメントを更新しました
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 41%
@@ -257,7 +257,7 @@ DMARC には、DKIM の調整と SPF の調整の 2 種類があります。
 
 * DKIM-aligned DMARC - DKIM aligned DMARC を設定するには、次の操作を行う必要があります。
 
-   * メッセージの「送信元： 」ドメインに DKIM を設定します。 手順を使用します [この記事では、](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * メッセージの「送信元： 」ドメインに DKIM を設定します。 手順を使用します [この記事では、](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * 以前に設定した FROM:/DKIM ドメイン用に DMARC を設定します
 
 * DMARC-aligned SPF — ブランドの Return Path を使用して DMARC aligned SPF を設定するには、次の手順を実行する必要があります。
