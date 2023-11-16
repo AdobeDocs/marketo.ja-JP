@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '9099'
 ht-degree: 97%
@@ -565,7 +565,7 @@ ht-degree: 97%
             + [同期ステータス](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [キャンペーン同期の概要](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [キャンペーン同期の有効化](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + カスタム Dynamics 同期フィルターの詳細 {#custom-dynmaics-sync-filter-details}
+         + カスタム Dynamics 同期フィルターの詳細 {#custom-dynamics-sync-filter-details}
             + [カスタム Dynamics 同期フィルターの作成](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [メールアドレスのカスタム同期フィルタールール](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Microsoft Dynamics 同期フィルター：結合](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
