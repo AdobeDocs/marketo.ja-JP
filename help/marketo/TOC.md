@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
 workflow-type: tm+mt
-source-wordcount: '9103'
+source-wordcount: '9099'
 ht-degree: 97%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 97%
       + [設定手順](getting-started/setup/setup-steps.md)
       + [セットアップチェックリスト](getting-started/setup/setup-checklist.md)
       + [Marketo のプロトコルの設定](getting-started/setup/configure-protocols-for-marketo.md)
-      + [プロトコルの設定ドキュメントを更新しました](getting-started/setup/updated-configure-protocols-doc.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
