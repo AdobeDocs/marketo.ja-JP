@@ -4,10 +4,10 @@ description: 選択リスト値の追加／削除 - Marketo ドキュメント -
 title: 選択リスト値の追加／削除
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '228'
+ht-degree: 89%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## 選択リスト値の追加 {#adding-picklist-values}
 
-1. Salesforce で選択リストフィールドタイプに値が追加された場合、影響を受けるフォームを特定した[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)が届きます。
+1. Salesforce で選択リストフィールドタイプに値が追加された場合、影響を受けるフォームを特定した[通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}が届きます。
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. フォームエディターに移動し、洲推奨リストに[追加の値を追加](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)します。
+1. フォームエディターに移動し、洲推奨リストに[追加の値を追加](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"}します。
 
 ## 選択リスト値の削除 {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Salesforce のフィールドから選択リスト値が削除された場合、
 
 >[!NOTE]
 >
->Salesforce のリードフィールドと連絡先フィールドの値が異なる場合、共通の値を Marketo で使用できます。
+>Salesforce のリードフィールドと連絡先フィールドの値が異なる場合、共通の値はMarketo Engageで使用できます。
 
 Salesforce のリードフィールドと連絡先フィールドの値が異なる場合：
 

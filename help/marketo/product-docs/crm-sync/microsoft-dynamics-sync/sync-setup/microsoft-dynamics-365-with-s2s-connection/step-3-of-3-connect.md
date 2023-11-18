@@ -4,10 +4,10 @@ description: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリ�
 title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '424'
+ht-degree: 86%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [手順 1 / 3 - サーバー間接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [手順 2 / 3 - サーバー間接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [手順 1 / 3 - サーバー間接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>* [手順 2 / 3 - サーバー間接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,75 +26,75 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->基本認証から OAuth にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能を有効にすると、新しい認証情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
+>基本認証から OAuth にアップグレードする場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} を参照してください。 この機能を有効にすると、新しい資格情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
 
 >[!NOTE]
 >
->新しい認証情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)できます。
+>新しい資格情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}できます。
 
 ## Dynamics 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、**管理**&#x200B;をクリックします。
+1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/login-admin.png)
 
-1. 「**CRM**」をクリックします。
+1. 「**[!UICONTROL CRM]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 「**Microsoft**」を選択します。
+1. 選択 **[!DNL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. **手順 1：資格情報を入力**&#x200B;で「**編集**」をクリックします。
+1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 資格情報を入力]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用されている場合は、新しいMarketoサブスクリプションを取得する必要があります。 URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
-1. Dynamics 同期ユーザ情報を入力し、完了したら「**保存**」をクリックします。
+1. Dynamics 同期ユーザ情報を入力し、完了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
+   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)と一致する必要があります。{target="_blank"}形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
-1. **手順 2：同期するフィールドを選択**&#x200B;の「**編集**」をクリックします。
+1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 同期するフィールドを選択]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。「**保存**」をクリックします。
+1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。次に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集および保存して、Marketo のスキーマを更新します。
+>Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}の状態で実行することをお勧めします。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. 「管理者」に移動し、「**Microsoft Dynamics**」を選択します。
+1. 管理者に移動し、「 」を選択します。 **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 「フィールド同期の詳細」で「**編集**」をクリックします。
+1. 「フィールド同期の詳細」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。「**保存**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## 同期を有効にする {#enable-sync}
 
-1. **手順 3：同期を有効にする**&#x200B;の「**編集**」をクリックします。
+1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 同期の有効化]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,7 +102,7 @@ ht-degree: 100%
    >
    >Marketo は、Microsoft Dynamics の同期や、手動で入力されたリードの場合には、自動的に重複排除を行いません。
 
-1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**同期を開始**」をクリックします。
+1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**[!UICONTROL 同期を開始]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 

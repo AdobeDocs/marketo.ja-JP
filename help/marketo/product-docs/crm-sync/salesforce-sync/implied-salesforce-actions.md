@@ -4,7 +4,7 @@ description: 暗黙的な Salesforce アクション - Marketo ドキュメン�
 title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Salesforce 固有のフローステップが実行されると、追加の手順が自動的に実行される場合があります。ルールは次のとおりです。
 
-これらのルールは、_個人が現在 [Salesforce.com ](https://Salesforce.com)_&#x200B;に連絡先またはリードとして存在しない場合に適用されます。
+これらのルールは、個人が現在 [Salesforce.com ](https://Salesforce.com){target="_blank"}に連絡先またはリードとして存在しない場合に適用されます。
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ Salesforce 固有のフローステップが実行されると、追加の手順
  </tbody> 
 </table>
 
-**SFDC Type** フィルターを演算子を「空でない」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
+**[!UICONTROL SFDC Type]** フィルターを演算子を「空でない」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
 
-これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com) に存在しない場合にのみ発生します。
+これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com) に存在しない場合にのみ発生します。{target="_blank"}

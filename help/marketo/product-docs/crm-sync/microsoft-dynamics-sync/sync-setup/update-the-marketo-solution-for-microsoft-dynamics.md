@@ -4,9 +4,9 @@ description: Microsoft Dynamics 向け Marketo ソリューションのアップ
 title: Microsoft Dynamics 向け Marketo ソリューションのアップデート
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 100%
 >
 >アップデートを実行する&#x200B;_前_&#x200B;に、必ず最新の Marketo ソリューションをダウンロードしてください。
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/admin.png)
 
-1. 「**Microsoft Dynamics**」をクリックします。
+1. クリック **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 「**Marketo ソリューションをダウンロード**」を選択します。
+1. 「**[!UICONTROL Marketo ソリューションをダウンロード]**」を選択します。
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -45,10 +45,10 @@ ht-degree: 100%
 
 1. Dynamics CRM の既存のバージョンに対して、ソリューションの最新バージョンをインポートします（例：Dynamics CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;をインポートします）。
 
-1. 次のポップアップが表示されます。「**アップデート**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
+1. 次のポップアップが表示されます。「**[!UICONTROL アップデート]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->アップデートの代わりにアップグレードを選択すると、Dynamics 環境でデータが破損する可能性があります。「インポートオプション」で、**必ず「アップデート」を選択してください**。
+>アップデートの代わりにアップグレードを選択すると、Dynamics 環境でデータが破損する可能性があります。「インポートオプション」で、_必ず「アップデート」を選択してください_。

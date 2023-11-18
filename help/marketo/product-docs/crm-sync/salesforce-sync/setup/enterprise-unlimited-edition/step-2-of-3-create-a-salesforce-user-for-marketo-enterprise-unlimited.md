@@ -4,10 +4,10 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（En
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '416'
+ht-degree: 93%
 
 ---
 
@@ -19,35 +19,35 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 この記事では、Salesforce プロファイルでユーザー権限を設定し、Marketo-Salesforce 統合アカウントを作成します。
 
 ## プロファイルの作成 {#create-a-profile}
 
-1. 「**設定**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. ナビゲーション検索バーに「プロファイル」と入力し、**プロファイル**&#x200B;リンクをクリックします。
+1. ナビゲーション検索バーに「プロファイル」と入力し、**[!UICONTROL プロファイル]**&#x200B;リンクをクリックします。
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. 「**新規**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. 「**標準ユーザー**」を選択して、プロファイルに「Marketo-Salesforce 同期」という名前を付け、「**保存**」をクリックします。
+1. 選択 **[!UICONTROL 標準ユーザー]**&#x200B;で、プロファイルに「Marketo-Salesforce Sync」という名前を付け、 **[!UICONTROL 保存]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## プロファイル権限の設定 {#set-profile-permissions}
 
-1. 「**編集**」をクリックしてセキュリティ権限を設定します。
+1. 「**[!UICONTROL 編集]**」をクリックしてセキュリティ権限を設定します。
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. **管理権限**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
+1. **[!UICONTROL 管理権限]**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
 
    * API 有効
    * HTML テンプレートを編集
@@ -58,7 +58,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >**パスワードの有効期限なし**&#x200B;ボックスのチェックは必ずオンにしてください。
+   >**[!UICONTROL パスワードの有効期限なし]**&#x200B;ボックスのチェックは必ずオンにしてください。
 
 1. 一般ユーザー権限セクションで、次のボックスがオンになっていることを確認します。
 
@@ -82,7 +82,7 @@ ht-degree: 100%
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. 終了したら、ページの下部にある「**保存**」をクリックします。
+1. 終了したら、ページの下部にある「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ ht-degree: 100%
    >
    >この手順を実行すると、Marketo に表示する必要のないフィールドが防止され、混乱が軽減され、同期が高速化されます。
 
-1. プロファイルの詳細ページで、**フィールドレベルのセキュリティ**&#x200B;セクションに移動します。オブジェクトのアクセシビリティを編集するには、「**表示**」をクリックします。
+1. プロファイルの詳細ページで、**[!UICONTROL フィールドレベルのセキュリティ]**&#x200B;セクションに移動します。オブジェクトのアクセシビリティを編集するには、「**[!UICONTROL 表示]**」をクリックします。
 
    * リード
    * 取引先責任者
@@ -107,11 +107,11 @@ ht-degree: 100%
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. 各オブジェクトに対して、「**編集**」をクリックします。
+1. 各オブジェクトに対して、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 不要なフィールドを見つけ、**読み取りアクセス**&#x200B;と&#x200B;**編集アクセスを**&#x200B;がオフになっていることを確認してください。完了したら、「**保存**」をクリックします。
+1. 不要なフィールドを見つけ、**[!UICONTROL 読み取りアクセス]**&#x200B;と&#x200B;**[!UICONTROL 編集アクセスを]**&#x200B;がオフになっていることを確認してください。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ ht-degree: 100%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**読み取りアクセスと編集アクセス**&#x200B;のチェックをオンにします。完了したら、「**保存**」をクリックします。
+1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**[!UICONTROL 読み取りアクセスと編集アクセス]**&#x200B;のチェックをオンにします。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
 <table> 
  <tbody> 
@@ -148,13 +148,13 @@ ht-degree: 100%
 
 >[!TIP]
 >
->Marketo が加えた変更と他の Salesforce ユーザーが加えた変更を区別するために、専用の Salesforce アカウント（marketo@yourcompany.com など）を作成します。
+>専用の Salesforce アカウントを作成します ( 例： `marketo@yourcompany.com`) を使用して、Marketoと他の Salesforce ユーザーが加えた変更を区別できます。
 
-1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**ユーザー**」をクリックします。「**新規ユーザー**」をクリックします。
+1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**[!UICONTROL ユーザー]**」をクリックします。「**[!UICONTROL 新規ユーザ]**」をクリックします。
 
    ![](assets/sfdc-new-users.png)
 
-1. 必須フィールドに入力します。次に、「**ユーザライセンス：Salesforce**」と、以前に作成したプロファイルを選択します。完了したら、「**保存**」をクリックします。
+1. 必須フィールドに入力します。次に、「**[!UICONTROL ユーザライセンス：Salesforce]**」と、以前に作成したプロファイルを選択します。完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
@@ -162,4 +162,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}

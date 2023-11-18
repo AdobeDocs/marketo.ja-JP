@@ -4,16 +4,16 @@ description: 個人取引先の使用 -  Marketo ドキュメント - 製品ド�
 title: 個人取引先の使用
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 91%
 
 ---
 
 # 個人取引先の使用 {#using-person-accounts}
 
-組織のニーズに合わせて、Salesforce で個人取引先を設定できます。Marketo が個人取引先を扱う方法を次に示します。
+組織のニーズに合わせて、Salesforce で個人取引先を設定できます。次に、Marketo Engageが顧客アカウントを処理する方法を示します。
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ ht-degree: 100%
 
 ## ビジネスアカウントと個人取引先を区別する方法を教えてください。 {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-スマートリストで「**個人取引先**」フィルターを使用して、個人取引先を標準のビジネスアカウントと区別します。
+スマートリストの「担当者アカウント」フィルタを使用して、担当者アカウントを標準のビジネスアカウントと区別します。
 
 ## 個人取引先情報は Marketo Sales Insight でどこに表示されますか？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-個人取引先に関連するアクティビティは、**アカウント**&#x200B;パネルに表示されます。
+個人取引先に関連するアクティビティは、**[!UICONTROL アカウント]**&#x200B;パネルに表示されます。
 
 >[!NOTE]
 >
->Marketo Sales Insight の「**Marketo キャンペーンに追加**」と「**メールを送信**」の各オプションは、現在、個人取引先では使用できません。
+>Marketo Sales Insight の「**[!UICONTROL Marketo キャンペーンに追加]**」と「**[!UICONTROL メールを送信]**」の各オプションは、現在、個人取引先では使用できません。
 
 ## 個人取引先に商談を関連付ける方法を教えてください。 {#how-do-i-associate-opportunities-to-a-person-account}
 

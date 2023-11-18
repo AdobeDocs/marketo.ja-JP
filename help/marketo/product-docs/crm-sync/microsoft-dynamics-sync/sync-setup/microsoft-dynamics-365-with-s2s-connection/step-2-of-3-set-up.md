@@ -4,10 +4,10 @@ description: 手順 2／3 - サーバー間接続を使用した Marketo ソリ�
 title: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '598'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 100%
 
 1. [この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}の手順に従って、管理者の同意を与えます。
 
-1. 「**Certificates &amp; secrets**」をクリックして、管理センターでクライアントシークレットを生成します。
+1. 「**[!UICONTROL Certificates &amp; secrets]**」をクリックして、管理センターでクライアントシークレットを生成します。
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. 「**新規クライアントシークレット**」ボタンをクリックします。
+1. 「**[!UICONTROL 新規クライアントシークレット]**」ボタンをクリックします。
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. クライアントシークレットの説明を追加して、「**追加**」をクリックします。
+1. クライアントシークレットの説明を追加して、「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 
 もう少しです。あとは、作成した新しいユーザーについて Marketo ソルーションに知らせるだけです。
 
-1. 詳細設定セクションに戻り、「設定」の横にある![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、「**Marketo 設定**」を選択します。
+1. 詳細設定セクションに戻り、「設定」の横にある![](assets/image2015-5-13-15-3a49-3a19.png)アイコンをクリックし、「**[!UICONTROL Marketo 設定]**」を選択します。
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >設定メニューで「**Marketo 設定**」が表示されていない場合、ページを更新します。うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}するか、ログアウトしてから再度ログインしてください。
+   >設定メニューに「Marketo Config」が表示されない場合は、ページを更新します。 うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}するか、ログアウトしてから再度ログインしてください。
 
-1. 「**デフォルト**」をクリックします。
+1. 「**[!UICONTROL デフォルト]**」をクリックします。
 
    ![](assets/fifteen.png)
 
-1. **Marketo ユーザー**&#x200B;フィールドの検索ボタンをクリックして、作成した同期ユーザーを選択します。
+1. **[!UICONTROL Marketo ユーザー]**&#x200B;フィールドの検索ボタンをクリックして、作成した同期ユーザーを選択します。
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Federated Azure AD to ADFS Onprem では、特定のアプリケーションに�
 
    ![](assets/seventeen.png)
 
-1. 「設定」の横にある![](assets/image2015-5-13-15-3a49-3a19-1.png)アイコンをクリックし、「**ソリューション**」を選択します。
+1. 「設定」の横にある![](assets/image2015-5-13-15-3a49-3a19-1.png)アイコンをクリックし、「**[!UICONTROL ソリューション]**」を選択します。
 
    ![](assets/eighteen.png)
 
-1. 「**すべてのカスタマイズを公開**」ボタンをクリックします。
+1. 「**[!UICONTROL すべてのカスタマイズを公開]**」ボタンをクリックします。
 
    ![](assets/nineteen.png)
 
