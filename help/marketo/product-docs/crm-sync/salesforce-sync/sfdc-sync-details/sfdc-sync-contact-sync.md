@@ -4,16 +4,16 @@ description: SFDC 同期 - 取引先責任者の同期 - Marketo ドキュメン
 title: SFDC 同期 - 取引先責任者の同期
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 95%
 
 ---
 
 # SFDC 同期：取引先責任者の同期 {#sfdc-sync-contact-sync}
 
-Marketo は、データベース全体を Salesforce と同期しています。同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Salesforce の取引先責任者をどのように扱っているかを詳しく説明します。
+Marketo Engageが Salesforce とデータベース全体を同期するのを知っていましたか？ 同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Salesforce の取引先責任者をどのように扱っているかを詳しく説明します。
 
 ## 同期の方向 {#sync-direction}
 
@@ -25,7 +25,7 @@ Salesforce での変更を優先します。このようなデータの競合が
 
 ## 人物の Marketo の取引先責任者への変換 {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-**[顧客を変換](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**&#x200B;フローアクションを使用することで実現できます。
+**[顧客を変換](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}**&#x200B;フローアクションを使用することで実現できます。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Salesforce での変更を優先します。このようなデータの競合が
 
 ## 手動での取引先責任者の同期の強制 {#can-i-manually-force-a-sync-of-a-contact}
 
-**[顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローアクションを使用して、リアルタイムで同期できます。
+**[顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}**&#x200B;フローアクションを使用して、リアルタイムで同期できます。
 
 ## すべての標準フィールドの Marketo への同期 {#does-every-single-standard-field-sync-to-marketo}
 

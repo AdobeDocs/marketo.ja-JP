@@ -4,10 +4,10 @@ description: SFDC 同期 - リード／取引先責任者／人物の結合 - Ma
 title: SFDC 同期 - リード／取引先責任者／人物の結合
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 87%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 場合によっては、ルールをリストするのが最適なこともあります。ここでは、次の手順をおこないます。
 
-* **Salesforce** で 2 つのリードを結合すると、通常の同期は Marketo に通知され、リードは Marketo のユーザーとして自動的に結合されます。
+* 2 つのリードを **Salesforce**&#x200B;を指定した場合、通常の同期はMarketo Engageに通知し、リードはMarketoの担当者として自動的に結合されます。
 * **Marketo** で 2 人の人物を結合しても、Salesforce のリードと同じプロセスが実行されます。この場合も自動的に処理されます。
 * また、**リード（人物）を取引先責任者**&#x200B;に結合する方法も同様です。最終的には両方に 1 つの取引先責任者が存在することになります。
 * 結合時には、デフォルトのスコアが合計されます。
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->[Marketo での人物の結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)に関する詳細をご覧ください。
+>[Marketo での人物の結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}に関する詳細をご覧ください。

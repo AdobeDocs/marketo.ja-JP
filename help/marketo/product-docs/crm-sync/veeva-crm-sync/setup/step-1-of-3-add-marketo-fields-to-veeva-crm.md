@@ -3,10 +3,10 @@ description: 手順 1 / 3 - Marketo フィールドの Veeva CRM への追加 - 
 title: 手順 1 / 3：Marketo フィールドの Veeva CRM への追加
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -30,35 +30,35 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 「スコア」フィールドに対して、次の手順を実行してフィールドを追加します。
 
-1. Veeva CRM にログインし、「**設定**」をクリックします。
+1. Veeva CRM にログインし、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 「オブジェクト」と「フィールド」をクリックし、「オブジェクトマネージャー」を選択します。
+1. クリック **[!UICONTROL オブジェクトとフィールド]** を選択し、 **[!UICONTROL Object Manager]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. 検索バーで、「取引先責任者」を検索します。
+1. 検索バーで「連絡先」を検索します。
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 取引先責任者オブジェクトをクリックします。
+1. 次をクリック： **[!UICONTROL 連絡先]** オブジェクト。
 
-1. 「フィールドと関係」を選択します。
+1. 選択 **[!UICONTROL フィールドと関係]**.
 
-1. 「**新規**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. 適切なフィールドタイプを選択します（スコアの場合は数値）。
+1. 適切なフィールドタイプを選択します（スコア — 数値）。
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 次の表に示すように、フィールドの「フィールドラベル」、「長さ」、「フィールド名」を入力します。
+1. 次を入力します。 **[!UICONTROL フィールドラベル]**, **[!UICONTROL 長さ]**、および **[!UICONTROL フィールド名]** フィールドの場合は、次の表に示すように使用します。
 
 <table>
  <tbody>
@@ -85,13 +85,13 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 >[!NOTE]
 >
->テキストフィールドと数値フィールドには長さが必要ですが、日付／時間フィールドには必要ありません。説明はオプションです。
+>テキストフィールドと数値フィールドには長さが必要ですが、日付/時間フィールドには必要ありません。説明はオプションです。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. アクセス設定を指定し、「**次へ**」をクリックします。
+1. アクセス設定を指定し、「**[!UICONTROL 次へ]**」をクリックします。
 
 1. すべてのロールを表示および読み取り専用に設定します。
 
@@ -104,9 +104,9 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 1. フィールドを表示するページレイアウトを選択します。
 
-1. 「**保存して新規作成**」をクリックして戻り、他の 2 つのカスタムフィールドのそれぞれを作成します。
+1. 「**[!UICONTROL 保存して新規作成]**」をクリックして戻り、他の 2 つのカスタムフィールドのそれぞれを作成します。
 
-1. 3 つとも完成したら、「**保存**」をクリックします。
+1. クリック **[!UICONTROL 保存]** 3 つ全てが終わったら
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

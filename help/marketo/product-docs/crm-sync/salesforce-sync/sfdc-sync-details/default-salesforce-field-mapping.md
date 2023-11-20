@@ -4,16 +4,16 @@ description: デフォルトの Salesforce フィールドマッピング — Ma
 title: デフォルトの Salesforce フィールドマッピング
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 100%
+source-wordcount: '363'
+ht-degree: 93%
 
 ---
 
 # デフォルトの Salesforce フィールドマッピング {#default-salesforce-field-mapping}
 
-Marketo アカウントと Salesforce の初回同期時に、Marketo では組み込みの Salesforce フィールドと Marketo フィールドの間でこれらの関連付けが自動的におこなわれます。リード、アカウント、商談、連絡先のカスタムフィールドも同期されます。
+Marketo Engageアカウントを Salesforce と最初に同期すると、Marketoは組み込みの Salesforce フィールドとMarketoフィールドとの間でこれらの関連付けを自動的に行います。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 

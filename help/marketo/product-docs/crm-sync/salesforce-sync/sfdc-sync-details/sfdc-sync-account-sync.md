@@ -4,16 +4,16 @@ description: SFDC の同期 - アカウントの同期 - Marketo ドキュメン
 title: SFDC の同期 - アカウントの同期
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 96%
 
 ---
 
 # SFDC 同期：アカウントの同期 {#sfdc-sync-account-sync}
 
-Marketo は、アカウント情報を Salesforce と同期します。次に、知っておくべき点をいくつか示します。
+Marketo Engageは、アカウント情報を Salesforce と同期します。 次に、知っておくべき点をいくつか示します。
 
 ## 情報の同期方向 {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ Marketo で取引先責任者の「アカウント」フィールドを更新す
 
 ## Marketo からアカウントを作成できますか？ {#can-i-create-accounts-from-marketo}
 
-ほとんどできません。ただし、個人に対して[個人をコンバージョンする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)フローステップを使用すると、新しい取引先責任者、新しいアカウント、新しい商談が作成されます。
+ほとんどできません。ただし、個人に対して[個人をコンバージョンする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}フローステップを使用すると、新しい取引先責任者、新しいアカウント、新しい商談が作成されます。
 
 >[!CAUTION]
 >
