@@ -4,10 +4,10 @@ description: キャンペーン同期の有効化／無効化 - Marketo ドキ�
 title: キャンペーン同期の有効化／無効化
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 65%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-このオプションを使用すると、Marketo でプログラムのメンバーシップとステータスを Salesforce キャンペーンと同期でき、その逆も同期できます。
+このオプションを使用すると、Marketo Engageはプログラムのメンバーシップとステータスを Salesforce キャンペーンと同期でき、その逆も可能になります。
 
-1. **管理者**&#x200B;に移動して、「**Salesforce**」をクリックします。
+1. に移動します。 **[!UICONTROL 管理者]** をクリックします。 **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. 「**同期設定を編集**」をクリックします。
+1. 「**[!UICONTROL 同期設定を編集]**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 「**Salesforce キャンペーン同期を有効にする**」のチェックをオンにして、「**保存**」をクリックします。
+1. チェック **[!UICONTROL Salesforce キャンペーン同期の有効化]** をクリックします。 **[!UICONTROL 保存]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
@@ -35,6 +35,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [SFDC 同期：キャンペーンの同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [デフォルトのリードの姓と会社の値の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
->* [アクティビティ同期のカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
+>* [SFDC 同期：キャンペーンの同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [デフォルトのリードの姓と会社の値の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [アクティビティ同期のカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}

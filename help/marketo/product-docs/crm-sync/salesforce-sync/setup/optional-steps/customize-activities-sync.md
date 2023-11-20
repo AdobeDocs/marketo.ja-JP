@@ -4,26 +4,26 @@ description: アクティビティ同期のカスタマイズ - Marketo ドキ�
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
 # アクティビティ同期のカスタマイズ {#customize-activities-sync}
 
-Marketo Sales Insight を使用しない場合、Marketo は特定のイベントに対して Salesforce のアクティビティ履歴レコードを作成できます。有効にする方法は、以下のとおりです。
+Marketo Sales Insight を使用しない場合、Marketo Engageは特定のイベントに対して Salesforce アクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
 
-1. 「**管理**」に移動します。
+1. 「**[!UICONTROL 管理]**」に移動します。
 
    ![](assets/admin.png)
 
-1. **Salesforce**／**同期オプションの編集**&#x200B;をクリックします。
+1. **[!DNL Salesforce]**／**[!UICONTROL 同期オプションの編集]**&#x200B;をクリックします。
 
    ![](assets/two-1.png)
 
-1. Marketo で Salesforce にプッシュするアクティビティの横にあるチェックボックスをオンにして、「**保存**」をクリックします。
+1. Marketo で Salesforce にプッシュするアクティビティの横にあるチェックボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-1.png)
 
@@ -97,8 +97,8 @@ Marketo Sales Insight を使用しない場合、Marketo は特定のイベン�
 
 >[!NOTE]
 >
->「セールスメール受信済み」は、配達済みとは&#x200B;**違います**。Sales Insight 経由で送信されたメールの配信ステータスはキャプチャされません。
+>「セールスメール受信済み」は、配達済みとは&#x200B;_違います_。Sales Insight 経由で送信されたメールの配信ステータスはキャプチャされません。
 
 >[!TIP]
 >
->Marketo の情報を更に Salesforce に追加することに関心がある場合は、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 製品をご確認ください。
+>Marketo の情報を更に Salesforce に追加することに関心がある場合は、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 製品をご確認ください。

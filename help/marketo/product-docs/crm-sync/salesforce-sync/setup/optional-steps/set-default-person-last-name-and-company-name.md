@@ -4,10 +4,10 @@ description: デフォルトのリーダーの姓と会社名の設定 - Marketo
 title: デフォルトのリーダーの姓と会社名の設定
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 69%
 
 ---
 
@@ -15,20 +15,20 @@ ht-degree: 100%
 
 Salesforce のリードと連絡先には最低限で姓と会社名が必要です。不完全なレコードは Salesforce と同期されません。部分的なレコードを同期する場合は、Marketo が Salesforce で使用するデフォルト値を設定する必要があります。
 
-1. 「**管理**」に移動し、「**Salesforce**」をクリックします。
+1. に移動します。 **[!UICONTROL 管理者]** をクリックします。 **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. 「**同期オプションを編集**」をクリックします。
+1. 「**[!UICONTROL 同期オプションを編集]**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 「**デフォルトリーダーの姓**」および「**デフォルトリーダーの会社**」を入力してから「**保存**」をクリックします。
+1. を入力します。 **[!UICONTROL デフォルトの担当者姓]** および **[!UICONTROL デフォルトの担当者企業]**&#x200B;を選択し、次に **[!UICONTROL 保存]**.
 
    ![](assets/sync-options-hands.png)
 
    >[!NOTE]
    >
-   >Marketo は、レコードが最初に Salesforce に同期されたときに、必須フィールドのいずれかが空の場合にのみ、デフォルト値を割り当てます。
+   >Marketo Engageは、レコードが最初に Salesforce に同期されたとき、および必須フィールドのいずれかが空の場合にのみ、デフォルト値を割り当てます。
 
 これで完了です。ユーザーに姓や会社名がない場合は常に、Marketo がレコードの同期時にデフォルト値を追加します。
