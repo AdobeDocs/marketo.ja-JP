@@ -3,10 +3,10 @@ description: Dynamic ChatFAQ - Marketoドキュメント — 製品ドキュメ�
 title: Dynamic Chatの FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 14%
+source-wordcount: '781'
+ht-degree: 12%
 
 ---
 
@@ -24,7 +24,7 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-あります。Dynamic Chat は、以下の言語をサポートしています。フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。詳しくは、 [言語の変更](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+あります。Dynamic Chatでは、フランス語、スペイン語、ドイツ語、日本語、オランダ語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語の各言語をサポートしています。 詳しくは、 [言語の変更](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **AI／NLP 機能はサポートしていますか？**
 
