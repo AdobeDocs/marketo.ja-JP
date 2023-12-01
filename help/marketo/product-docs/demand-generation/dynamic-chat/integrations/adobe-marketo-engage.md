@@ -3,10 +3,10 @@ description: Adobe Marketo Engage - Marketoドキュメント — 製品ドキ�
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: a2996605fca9c0fe8172b7e43c3463266d87e178
+source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 83%
+source-wordcount: '279'
+ht-degree: 82%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 83%
 
 >[!NOTE]
 >
->Dynamic Chatは [Marketoネイティブ](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} およびカスタムのユーザー/会社フィールド
+>Dynamic Chatでの同期がサポートされます [Marketoネイティブ](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} およびカスタム担当者フィールドと会社フィールド。
 
 1. マイ Marketo で、**動的チャット**&#x200B;タイルをクリックします。
 
