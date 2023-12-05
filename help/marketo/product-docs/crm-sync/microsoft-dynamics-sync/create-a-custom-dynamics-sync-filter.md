@@ -4,16 +4,16 @@ description: カスタム Dynamics 同期フィルターの作成 - Marketo ド�
 title: カスタム Dynamics 同期フィルターの作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 94%
+source-wordcount: '818'
+ht-degree: 90%
 
 ---
 
 # カスタム Dynamics 同期フィルターの作成 {#create-a-custom-dynamics-sync-filter}
 
-Dynamics CRM のすべての項目を Marketo に同期しない場合でも心配無用です。Marketo では、同期フィルターを設定して、レコードの一部のみを同期できます。
+Dynamics CRM 内のすべての項目をMarketo Engageに同期しない場合 心配無用です。Marketo では、同期フィルターを設定して、レコードの一部のみを同期できます。
 
 ## 概要 {#overview}
 
@@ -26,7 +26,7 @@ Dynamics 同期フィルターを設定するには、次のようにします�
 
 >[!CAUTION]
 >
->フィールドを割り当てず、空白または NULL のままにした場合、同期は停止されますが、更新はおこなわれません。
+>フィールドを割り当てず、空白または NULL のままにした場合、同期は停止されますが、更新はおこなわれません。 Dynamics CRM のフィールド値が空白/NULL のレコードは、Marketoでこのフィールド値を「false」として表示します。
 
 Marketo は、自動バックグラウンド同期中にこのフィールドを探し、このロジックに基づいて同期するレコードを判定します。
 
