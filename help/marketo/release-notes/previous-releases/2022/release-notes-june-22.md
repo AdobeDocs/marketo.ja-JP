@@ -3,10 +3,10 @@ description: リリースノート - 2022年6月 - Marketo ドキュメント - 
 title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 97%
+source-wordcount: '640'
+ht-degree: 96%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 97%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 以下の機能のリリースは、**2022年6月24日**（PT）に始まり、（特に指定のない限り）その次の週から残りの機能が段階的にロールアウトされます。
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 * **カスタムオブジェクトの CreatedAt／UpdatedAt フィールドの公開**：人物の詳細画面でこれらのフィールドを調べて、さらなるインサイトを得ることができます。
 
-## クロスチャネルオーケストレーション {#cross-channel-orchestration}
+## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
 * **動的チャットのストリームデザイナーの使いやすさの向上**：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。また、動的チャットインターフェイスを改良し、個々のカードでのコンテンツ可視性が向上しました。
 
@@ -63,7 +63,7 @@ ht-degree: 97%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API の定年プランの詳細は、 [ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API の定年プランの詳細については、 [ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API の強化 {#api-enhancements}
 

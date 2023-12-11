@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9267'
 ht-degree: 97%
 
 ---
@@ -659,7 +659,7 @@ ht-degree: 97%
          + 統合 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
-         + ライブチャット {#live-chat}
+         + Live Chat {#live-chat}
             + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
          + セットアップと設定 {#setup-and-configuration}
@@ -1943,6 +1943,7 @@ ht-degree: 97%
 + リリースノート {#release-notes}
    + [リリーススケジュール](release-notes/release-schedule.md)
    + [現在のリリース](release-notes/current.md)
+   + [現在のリリースの一時ページ](release-notes/current-temp.md)
    + 以前のリリース {#previous-releases}
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)

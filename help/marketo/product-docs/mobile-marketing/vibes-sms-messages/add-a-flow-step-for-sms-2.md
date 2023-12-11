@@ -4,10 +4,10 @@ title: SMS のフローステップの追加
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 46%
+source-wordcount: '377'
+ht-degree: 43%
 
 ---
 
@@ -15,9 +15,23 @@ ht-degree: 46%
 
 Marketo Engageには、SMS スマートキャンペーンで使用できる 3 つのフローステップがあります。
 
-* **SMS メッセージの送信**  — このフローアクションは、オプトインした Vibes サブスクリプションリストに登録されているMarketoスマートリストの担当者にメッセージを送信します。 購読手続きは開始されません。
-* **Vibes リストに購読** - このフローアクションは、ユーザーが選択した Vibes 獲得キャンペーンを介して SMS 購読プロセスを開始します。次に、Vibes が確認メッセージを送信します。受信者は、24 時間以内にオプトインを確認するために、「Y」と返信する必要があります。 ユーザーがオプトインすると、関連付けられた Vibes 配信登録リストのメンバーになります。
-* **Vibes リストから配信停止**  — このフローアクションは、オプトインした Vibes 配信登録リストの各担当者を配信停止にします。 ユーザーがコードに「stop」と入力すると、ユーザーレコードが更新され、Vibes 配信登録リストのメンバーでなくなったことが反映されます。
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">SMS メッセージの送信</td>
+    <td>このフローアクションは、オプトインした Vibes サブスクリプションリストに登録されているMarketoスマートリストの担当者にメッセージを送信します。 購読手続きは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">詳細情報</a></td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Vibes リストに登録</td>
+    <td>このフローアクションは、ユーザーが選択した Vibes 獲得キャンペーンを介して SMS 購読プロセスを開始します。 Vibes が確認メッセージを送信し、受信者がオプトインを確認するには、24 時間以内に「Y」と返信する必要があります。 ユーザーがオプトインすると、関連付けられた Vibes 配信登録リストのメンバーになります。</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Vibes リストから登録解除</td>
+    <td>このフローアクションは、オプトインした Vibes 配信登録リストから各顧客を配信停止にします。 ユーザーがコードに「STOP」と入力すると、ユーザーレコードが更新され、Vibes 配信登録リストのメンバーでなくなったことが反映されます。</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >
