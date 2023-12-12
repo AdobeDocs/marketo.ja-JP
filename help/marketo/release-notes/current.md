@@ -3,16 +3,16 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 16c3e72e7b58c81d80f55f1f92ce89da49470035
+source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 27%
+source-wordcount: '565'
+ht-degree: 24%
 
 ---
 
-# リリースノート：2023年10月 {#release-notes-oct-23}
+# リリースノート：2024年1月 {#release-notes-jan-24}
 
-2023 年 10 月リリースに含まれるすべての機能を以下に示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、24 年 1 月リリースに含まれるすべての機能を示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -20,7 +20,7 @@ ht-degree: 27%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2023年10月6日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2024年1月12日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -29,10 +29,11 @@ ht-degree: 27%
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr> 
-  <tr> 
-   <td><strong>最新 UX でのレポート設定の新しいデザイン</strong>：レポートアセットを設定する際、 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">新しいアセットツリー</a> 設定メニューに加えて、作成日および変更日に基づいてフィルタリングする機能を使用できます。</td> 
-   <td>リリース済み</td>
-   <td>該当なし</td>
+  </tr>
+    <tr> 
+   <td><strong>インタラクティブ Web セミナーのオンデマンド Web セミナー</strong>：オンデマンド Web セミナーを使用すると、ウェビナー録画を公開し、その訪問回数/時計を追跡できます。 これは、オンラインセミナ（ノーショー）に参加しなかったが、詳細を見つけてレコーディングを閲覧することにまだ興味を持っている登録者を通じて、より多くのリードを取得するのに役立ちます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -40,10 +41,11 @@ ht-degree: 27%
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>数式フローステップサービスを計算</strong>：数式の計算は、Adobeの IO Runtime プラットフォームに基づいて構築され、Marketo Engageスマートキャンペーンで使用されるフローステップサービスです。 IO ランタイムを持つユーザーは、サービスをデプロイしてMarketo Engageサブスクリプションにインストールでき、Marketo Engageスマートキャンペーンで Excel のような数式を計算できます。</td> 
-   <td>リリース済み</td>
-   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">計算式ユーザーガイド</a></td>
+  </tr>
+    <tr> 
+   <td><strong>対話型のランディングページ</strong>:Marketo EngageのランディングページにDynamic Chatの対話フローを直接埋め込むことで、訪問者はフォームに入力したり Chatbot とやり取りしたりすることなく、Dynamic Chatを介した会議のスケジュールを設定できます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -51,11 +53,108 @@ ht-degree: 27%
    <td> </td>
   </tr>
   </tr>
+   </tr>
+    <tr> 
+   <td><strong>メールボットアクティビティのフィルタリング</strong>：ボットアクティビティの識別フィルタリングをどの程度積極的に行うかを選択できるようになり、電子メールエンゲージメント用のボットアクティビティのキャプチャが強化されました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
+
+## アジャイルリリースの機能 {#agile-release-features}
+
+以下のすべての機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
+
+### Sales Insight アクション {#sales-insight-actions}
+
+![（星印）](assets/yellow-star.png)
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>拡大可能な構成ウィンドウ</strong>:E メールを作成ウィンドウが自動的に未使用領域を圧縮するようになり、エディターのスペースが広くなります。 さらに、ウィンドウを表示したり、さらに展開したりできるので、E メールを編集する場所が必要なだけ広がります。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  </tbody> 
+</table>
+
+### Dynamic Chat {#dynamic-chat}
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">機能</th> 
+   <th style="width:15%">ステータス</th>
+   <th style="width:20%">ドキュメント</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>対話型Formsの Chatbot UI</strong>:Web サイトの訪問者は、対話形式のフローでライブチャットをリクエストできるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
    <tr> 
-   <td><strong>インタラクティブなウェビナーでの録画と共同ホストの割り当てのダウンロード</strong>：元のホストを使用できない場合に備えて、Web セミナー用に外部共同ホストを追加できるようになりました。 これで、ウェビナー録画をダウンロードする機能も持ちました。</td> 
-   <td>リリース済み</td>
-   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">録音をダウンロード</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">インタラクティブウェビナーの作成</a></li></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Chatbot フォントカラーオプション</strong>：チャットボット設定のフォントカラーをカスタマイズします。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>ダイアログを繰り返すオプション</strong>：訪問者が最後に達した後、最初からダイアログを再開できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>手動ライブチャットの終了</strong>：訪問者とエージェントの両方が、ライブチャットセッションを手動で終了できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>エージェントインボックス内の最近のMarketo Engageアクティビティ</strong>：エージェントの受信トレイに、リードに対する最近のMarketo Engageアクティビティ（「開封済みのメール」や「入力済みのフォーム」など）が表示されます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>条件付き分岐</strong>：訪問者の場所やライブエージェントの可用性など、事前に定義された条件に基づいて、訪問者に異なる会話コンテンツを表示できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
  </tbody> 
 </table>
@@ -63,6 +162,6 @@ ht-degree: 27%
 
 ## お知らせ {#announcements}
 
-* **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}。
+* **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
-* **Marketo Events とMarketo Moments の廃止**:Adobeは [Marketo Events とMarketo Moments の削除](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} 2023 年 10 月 2 日より、すべてのアプリストアから。 既存のユーザー —Marketo EngageインスタンスをAdobeID に移行するまで、これらのアプリを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。
+* **SSO 専用ユーザーのメール検証**:SSO 自動的に検証されたのはユーザーのみで、アクセスできない E メールアカウントを使用できます。 1 月中旬以降、既存のすべての SSO のみのユーザーは検証されず、電子メールアカウントに送信するリンクを介して電子メールを再検証するように求められます。 すべての新しい SSO のみのユーザーは、今後の E メールアドレスを検証する必要があります。

@@ -4,10 +4,10 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: e21450610146eea3a14761a7365a35d9cacee523
+source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 75%
+source-wordcount: '138'
+ht-degree: 79%
 
 ---
 
@@ -44,18 +44,18 @@ _リリース日や機能は変更される場合があります_
    <td>リリース済み</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">2023年10月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-oct-23.md">2023年10月</a></td>
    <td>2023年10月6日</td>
    <td>リリース済み</td>
   </tr>
   <tr> 
-   <td>24 年 1 月</td>
-   <td>2024 年 1 月 13 日</td>
+   <td><a href="/help/marketo/release-notes/current.md">24 年 1 月</a></td>
+   <td>2024年1月12日</td>
    <td>予定通り</td>
   </tr>
   <tr> 
    <td>24 年 3 月</td>
-   <td>2024 年 3 月 9 日</td>
+   <td>2024年3月8日</td>
    <td>予定通り</td>
   </tr>
   <tr> 
@@ -65,17 +65,17 @@ _リリース日や機能は変更される場合があります_
   </tr>
   <tr>
    <td>24年6月</td>
-   <td>2024 年 6 月 8 日</td>
+   <td>2024年6月7日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
    <td>24年8月</td>
-   <td>2024 年 8 月 10 日</td>
+   <td>2024年8月9日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
    <td>24 年 10 月</td>
-   <td>2024 年 10 月 5 日</td>
+   <td>2024年10月4日</td>
    <td>予定通り</td>
   </tr>
  </tbody>
