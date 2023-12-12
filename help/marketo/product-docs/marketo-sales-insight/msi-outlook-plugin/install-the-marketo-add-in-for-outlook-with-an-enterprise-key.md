@@ -4,10 +4,10 @@ description: エンタープライズキーを使用した Outlook 用 Marketo �
 title: エンタープライズキーを使用した Outlook 用 Marketo アドインのインストール
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 100%
+source-wordcount: '233'
+ht-degree: 94%
 
 ---
 
@@ -22,6 +22,10 @@ ht-degree: 100%
 >[!NOTE]
 >
 >Sales Insight Actions 機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用の Sales Insight メールプラグインでは使用できません。現時点では、ユーザーは、Sales Insight メールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+
+>[!IMPORTANT]
+>
+>Microsoftがリリースされました [Windows 版 Outlook の新しいバージョン](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. My Marketo で、「**管理者**」をクリックし、「**Sales Insight**」をクリックします。
 

@@ -4,10 +4,10 @@ description: 登録コードを使用した Outlook 用 Marketo メールアド�
 title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 100%
+source-wordcount: '491'
+ht-degree: 96%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## インストーラーのダウンロード {#download-installer}
 
-1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. を特定します。 [Microsoft Outlook バージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. リンクをクリックして、お使いのバージョンの Microsoft Outlook に適したインストーラーをダウンロードします。
 
@@ -39,7 +39,7 @@ ht-degree: 100%
    >
    >現時点では、以下のリンクは、Microsoft Edge または Chrome で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
 
-   | Outlook バージョン | 32 ビットOutlook | 64 ビット Outlook |
+   | Outlook バージョン | 32 ビット Outlook | 64 ビット Outlook |
    |---|---|---|
    | Outlook 2000 | サポート対象外 | なし |
    | Outlook 2003 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | なし |
@@ -53,6 +53,10 @@ ht-degree: 100%
    | Office 365* | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
+
+   >[!IMPORTANT]
+   >
+   >Microsoftがリリースされました [Windows 版 Outlook の新しいバージョン](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## 登録コードをコピーする {#copy-your-registration-code}
 

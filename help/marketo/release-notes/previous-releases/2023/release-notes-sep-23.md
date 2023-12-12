@@ -1,12 +1,12 @@
 ---
-description: リリースノート - 2023年9月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2023年9月
+description: リリースノート — 2023 年 9 月 — Marketoドキュメント — 製品ドキュメント
+title: リリースノート — 2023 年 9 月
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 12%
+source-wordcount: '922'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準のリリースサイクルに該当し、でのリリースが開始されます。 **2023 年 9 月 9 日**（後の数週間で残りの機能を段階的に公開） リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに従っており、**2023年9月8日**（PT）からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -248,8 +248,8 @@ ht-degree: 12%
   </tr>
     <tr> 
    <td><strong>対話型フローアセットページ</strong>:Design Studio アセットページに「対話フロー」Dynamic Chatが表示されるようになりました。 どのフローをMarketo Engageアセットに統合できるかを確認し、エディターに直接ディープリンクします。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   <tr> 
    <td> </td> 

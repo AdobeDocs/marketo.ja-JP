@@ -4,10 +4,10 @@ description: Marketo Outlook プラグインの認証 - Marketo ドキュメン�
 title: Marketo Outlook プラグインの認証
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 91%
 
 ---
 
@@ -18,6 +18,10 @@ Outlook で Marketo MSI プラグインを使用するには、認証する必�
 >[!PREREQUISITES]
 >
 >プラグインが既にインストールされている必要があり、Marketo 管理者によってプラグインユーザーとしての認証が必要です。
+
+>[!IMPORTANT]
+>
+>Microsoftがリリースされました [Windows 版 Outlook の新しいバージョン](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. 「Marketo メッセージ」ボタンのいずれかをクリックします。
 
