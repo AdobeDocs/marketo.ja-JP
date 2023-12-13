@@ -4,7 +4,7 @@ title: スマートリストトリガーとフィルターでの Vibes SMS メ�
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 444a184e48bf7034c6e0ef277c9a4dd1fb33bd86
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 46%
@@ -17,7 +17,7 @@ ht-degree: 46%
 
 1. My Marketo で、**マーケティング活動**&#x200B;をクリックします。
 
-   ![](assets/use-sms-options-in-smart-list-triggers-and-filters-1.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. SMS アセットを使用するスマートキャンペーンを選択します。 トリガー上にドラッグ。 この例では、 **フォームの入力**.
 
