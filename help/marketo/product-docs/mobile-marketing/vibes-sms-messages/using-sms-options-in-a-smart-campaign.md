@@ -4,7 +4,7 @@ title: スマートキャンペーンでの SMS オプションの使用
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 34%
@@ -25,10 +25,10 @@ ht-degree: 34%
 
 ## SMS トリガー {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ The **SMS メッセージのバウンス** トリガーは、SMS メッセージ
 
 ## SMS フィルター {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ SMS のフローステップは 3 つあります。
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">SMS メッセージの送信</td>
+    <td style="width:20%"><b>SMS メッセージの送信</b></td>
     <td>このフローアクションは、オプトインした Vibes サブスクリプションリストに登録されているMarketoスマートリストの担当者にメッセージを送信します。 購読手続きは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">詳細情報</a></td>
   </tr>
 
 <tr>
-    <td style="width:25%">Vibes リストに登録</td>
+    <td style="width:20%"><b>Vibes リストに登録</b></td>
     <td>このフローアクションは、ユーザーが選択した Vibes 獲得キャンペーンを介して SMS 購読プロセスを開始します。 Vibes が確認メッセージを送信し、受信者がオプトインを確認するには、24 時間以内に「Y」と返信する必要があります。 ユーザーがオプトインすると、関連付けられた Vibes 配信登録リストのメンバーになります。</td>
   </tr>
   <tr>
-    <td style="width:25%">Vibes リストから登録解除</td>
+    <td style="width:20%"><b>Vibes リストから登録解除</b></td>
     <td>このフローアクションは、オプトインした Vibes 配信登録リストから各顧客を配信停止にします。 ユーザーがコードに「STOP」と入力すると、ユーザーレコードが更新され、Vibes 配信登録リストのメンバーでなくなったことが反映されます。</td>
   </tr>
   </tbody>
