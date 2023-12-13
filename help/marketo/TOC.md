@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 164fcc02570e421b10d52a2be002ddbab70843bd
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9298'
 ht-degree: 97%
 
 ---
@@ -1591,6 +1591,7 @@ ht-degree: 97%
       + 管理 {#admin}
          + [モバイルアプリの追加](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Vibes を LaunchPoint サービスとして追加](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+         + [TEMP LaunchPoint サービスとして Vibes を追加](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [モバイルアクセスセキュリティの認証](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [プッシュ通知およびアプリ内メッセージを作成する前に](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [モバイルアプリ Android プッシュアクセスの設定](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1630,6 +1631,11 @@ ht-degree: 97%
          + [SMS のフローステップの追加](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS メッセージダッシュボード](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [スマートリストトリガーとフィルターでの Vibes SMS メッセージの使用](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [TEMP SMS メッセージの作成](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
+         + [TEMP SMS メッセージの送信](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [スマートキャンペーンでの SMS オプションを使用した一時](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [TEMP SMS 用語集](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
+         + [TEMP SMS レポート](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
    + パーソナライゼーション {#personalization}
       + セグメント化とスニペット {#segmentation-and-snippets}
          + セグメント化 {#segmentation}

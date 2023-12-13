@@ -4,10 +4,10 @@ title: SMS メッセージの送信
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 9%
+source-wordcount: '317'
+ht-degree: 8%
 
 ---
 
@@ -21,6 +21,7 @@ You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs
 >
 >* Marketo Engage番号別のデュープ。 したがって、複数の人が同じ電話番号を持っている場合、1 人の人だけがメッセージを受け取ります（1 人の Vibes 配信登録リストのメンバーの場合）。 重複排除は、Marketoプログラムレベルではなく、Vibes 購読リストレベルでおこなわれます。
 >* メッセージはブロックリストに登録されたリードやマーケティングが中断されたリードには送信されません。
+>* Vibes モバイルデータベースリストにない場合、SMS メッセージは配信停止済みのユーザーには送信されません。
 
 ## バッチ SMS の送信 {#send-a-batch-sms}
 
