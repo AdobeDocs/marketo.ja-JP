@@ -4,7 +4,7 @@ title: SMS メッセージの送信
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 8%
@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # SMS メッセージの送信 {#send-a-vibes-sms-message}
 
-You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)を送信する時間が始まりました。 バッチまたはトリガーキャンペーンで送信できます。
+You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)を送信する時間が始まりました。 バッチまたはトリガーキャンペーンで送信できます。
 
 >[!NOTE]
 >
