@@ -1,16 +1,16 @@
 ---
 description: Analytics - Marketoドキュメント — 製品ドキュメント
-title: Marketo Measure Analytics
+title: Analytics
 feature: Dynamic Chat
-exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
-workflow-type: tm+mt
+exl-id: 8130a970-4cf1-4bf6-9403-998460269843
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Marketo Measure Analytics {#analytics}
+# Analytics {#analytics}
 
 レポートはダイアログレベルで利用できますが、以下の 3 つのダッシュボードを使用して全体的なエンゲージメントを確認してください。
 
