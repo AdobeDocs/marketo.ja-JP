@@ -4,10 +4,10 @@ description: ワークスペースと人物パーティションについて - M
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 100%
+source-wordcount: '538'
+ht-degree: 91%
 
 ---
 
@@ -84,12 +84,16 @@ ht-degree: 100%
 
 ## ワークスペース間での複製 {#cloning-across-workspaces}
 
-テンプレート以外のアセットの場合は、プログラム内でローカルアセットとして複製するのが最適です。適切なアクセスレベルで、以下のアセットを別のワークスペースにドラッグ＆ドロップできます。
+テンプレート以外のアセットの場合は、アセットをローカルアセットとしてプログラム内でクローンすることをお勧めします。 適切なアクセスレベルで、以下のアセットを別のワークスペースにドラッグ＆ドロップできます。
 
 * プログラム
 * メール
 * ランディングページ
 * フォーム
+
+>[!IMPORTANT]
+>
+>上記の項目はすべてワークスペース、メール、フォーム、ランディングページに複製できますが、 _は、プログラム内にある必要があります_ 複製時に。
 
 >[!NOTE]
 >
