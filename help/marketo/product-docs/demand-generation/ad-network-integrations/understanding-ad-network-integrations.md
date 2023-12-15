@@ -4,7 +4,7 @@ description: 広告ネットワーク統合について - Marketo ドキュメ�
 title: 広告ネットワーク統合について
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
@@ -36,7 +36,7 @@ ht-degree: 100%
 
    * 例えば、ユーザーが広告を検索し、表示してクリックし、オンラインでフォームに入力するとします。その後、デモをオフラインで受け取り、CRM の機会になります。広告主がここでターゲットにします
 
-* Web サイト訪問者をリターゲティング（[Web パーソナライズ機能](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)を使用）して、Web サイトに戻します。
+* Web サイト訪問者をリターゲティング（[Web パーソナライズ機能](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}を使用）して、Web サイトに戻します。
 
    * セグメント別または垂直にパーソナライズ
 
@@ -44,11 +44,11 @@ ht-degree: 100%
 
 統合を次のように使用できます。
 
-* [Google AdWords を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Facebook でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Facebook オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Google AdWords を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Facebook でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Facebook でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [Facebook オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
 |---|---|---|---|

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
 # カスタムオブジェクト同期 {#custom-object-sync}
 
-Veeva CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明しましょう。
+Veeva CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明します。
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトも�
 
 ## カスタムオブジェクトの有効化 {#enable-custom-object}
 
-1. Marketo で、「**管理者**」をクリックして、「**Veeva オブジェクト同期**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックして、「**[!UICONTROL Veeva オブジェクト同期]**」をクリックします。
 
    ![](assets/custom-object-sync-1.png)
 
-1. これが最初のカスタムオブジェクトの場合は、「**スキーマを同期**」をクリックします。
+1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。
 
    ![](assets/custom-object-sync-2.png)
 
-1. 「**グローバル同期を無効にする**」をクリックします。
+1. 「**[!UICONTROL グローバル同期を無効にする]**」をクリックします。
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトも�
    >
    >カスタムオブジェクトには一意の名前が必要です。Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
 
-1. 「**同期を有効にする**」をクリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/custom-object-sync-5.png)
 
-1. 「**同期を有効にする**」を再度クリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」を再度クリックします。
 
    ![](assets/custom-object-sync-6.png)
 
-1. 「**Veeva**」タブに戻ります。
+1. 「**[!UICONTROL Veeva]**」タブに戻ります。
 
    ![](assets/custom-object-sync-7.png)
 
-1. 「**同期を有効にする**」をクリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/custom-object-sync-8.png)
 
-1. すべての Veeva カスタムオブジェクトを表示するには、「管理者」をクリックし、「Veeva オブジェクト同期」をクリックします。
+1. すべての Veeva カスタムオブジェクトを表示するには、 **[!UICONTROL 管理者]** および **[!UICONTROL Veeva オブジェクト同期]**.
 
    ![](assets/custom-object-sync-9.png)
 

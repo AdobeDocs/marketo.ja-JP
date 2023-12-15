@@ -3,10 +3,10 @@ description: Veeva CRM 同期について - Marketo ドキュメント - 製品�
 title: Veeva CRM 同期について
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 91%
+source-wordcount: '249'
+ht-degree: 85%
 
 ---
 
@@ -35,8 +35,8 @@ Veeva と Marketo Engage の同期は、個人取引先オブジェクトの取�
 
 ## 留意事項 {#things-to-know}
 
-* この [Veeva のMarketo Engageで入力した資格情報](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} は、データの同期に使用されます。 その認証情報でアクセスできるデータのみが含まれます。
+* The [Veeva のMarketo Engageで入力した資格情報](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
 
 * Veeva CRM は force.com に基づいており、Marketo Engage のプラットフォームによるリッチエクスペリエンスが、この同期に継承されます。
 
-* Veeva CRM には、リード、取引先責任者、アカウント（ビジネスアカウント、商談、キャンペーン、アクティビティ）が表示されます。ただし、Marketo Engage との同期ではサポートされていません。
+* Veeva CRM には、リード、連絡先、アカウント、ビジネスアカウント、商談、キャンペーン、アクティビティが表示されます。 ただし、Marketo Engage との同期ではサポートされていません。

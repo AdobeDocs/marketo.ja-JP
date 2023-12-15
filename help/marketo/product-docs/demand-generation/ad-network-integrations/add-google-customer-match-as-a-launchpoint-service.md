@@ -4,34 +4,34 @@ description: Google カスタマーマッチを LaunchPoint サービスとし�
 title: Google カスタマーマッチを LaunchPoint サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '196'
+ht-degree: 85%
 
 ---
 
 # Google カスタマーマッチを LaunchPoint サービスとして追加 {#add-google-customer-match-as-a-launchpoint-service}
 
-この統合により、Marketo オーディエンスを Google に送信し、Google AdWords を使用してターゲット設定するさらに YouTube、検索、Gmail 全体でオーディエンスのリターゲティングをおこなうことができます。
+この統合により、Google AdWords を使用してターゲット設定するMarketo EngageオーディエンスをGoogleに送信し、さらにYouTube、検索および Gmail 全体でオーディエンスのリターゲティングをおこなうことができます。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」に移動します。
+1. 「**[!UICONTROL 管理者]**」に移動します。
 
    ![](assets/admin.png)
 
-1. **LaunchPoint**.をクリックします。
+1. **[!UICONTROL LaunchPoint]**.をクリックします。
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 「**新規**」と「**新規サービス**」を選択します。
+1. 「**[!UICONTROL 新規]**」と「**[!UICONTROL 新規サービス]**」を選択します。
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **表示名**&#x200B;を入力して&#x200B;**サービス**&#x200B;ドロップダウンから「**Google カスタマーマッチ**」を選択します。「**作成**」をクリックします。
+1. **[!UICONTROL 表示名]**&#x200B;を入力して&#x200B;**[!UICONTROL サービス]**&#x200B;ドロップダウンから「**[!UICONTROL Google カスタマーマッチ]**」を選択します。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/chooseservice.png)
 
@@ -47,11 +47,11 @@ ht-degree: 100%
 
    ![](assets/chooseaccount.png)
 
-1. 要求された権限を確認し、「**許可**」をクリックします。
+1. 要求された権限を確認し、「**[!UICONTROL 許可]**」をクリックします。
 
    ![](assets/reviewpermissions.png)
 
-1. これで、Google AdWords アカウントが Marketo に接続されました。「**作成**」をクリックします。
+1. これで、Google AdWords アカウントが Marketo に接続されました。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/authorizesuccess.png)
 
