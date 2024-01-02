@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 24%
+source-wordcount: '649'
+ht-degree: 21%
 
 ---
 
@@ -84,6 +84,21 @@ ht-degree: 24%
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>リードの一括読み込み API の更新</strong>：一括リード読み込み API の動作が、 <b>id</b> が <b>lookupField</b> ジョブの作成中に発生しました。 指定された <b>id</b> がMarketo Engageデータベースに見つからない場合は、レコードが見つからないので、レコードの更新は行われません。 更新された動作に、 <b>numOfRowsFailed</b> プロパティを返します。この場合は、操作が失敗したことを示します。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td>該当なし</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
