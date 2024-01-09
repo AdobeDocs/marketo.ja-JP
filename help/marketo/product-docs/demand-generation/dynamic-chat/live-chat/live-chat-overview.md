@@ -3,9 +3,9 @@ description: Live Chat の概要 — Marketoドキュメント — 製品ドキ�
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '550'
 ht-degree: 2%
 
 ---
@@ -66,6 +66,44 @@ ht-degree: 2%
  </tbody> 
 </table>
 
+## ライブチャット通知 {#live-chat-notifications}
+
+ライブチャットのブラウザ通知を受け取るには、すべてのライブチャットエージェントが、要求されたときにDynamic Chatのブラウザ通知を有効にする必要があります。
+
+### 通知の有効化 {#enabling-notifications}
+
+Live Chat エージェントは、ログイン時に画面の上部に「Please enable browser notifications to receive live chat notifications」と表示されます。 クリック **有効にする**.
+
+![](assets/live-chat-overview-4.png)
+
+その後、ライブチャットエージェントは、通知を表示するようにブラウザーから求められます。 「**許可**」をクリックします。
+
+![](assets/live-chat-overview-5.png)
+
+ブラウザーで許可した後でもエージェントがブラウザー通知を受け取らない場合は、OS 通知設定でブラウザーの通知を有効にする必要がある場合があります。
+
+[Macの手順](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Windows の手順](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### ライブチャットがエージェントにルーティングされたとき {#when-a-live-chat-is-routed-to-an-agent}
+
+ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れを求められます。
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>また、ブラウザー通知を設定するオプションもあります。ブラウザー通知は、Dynamic Chatにログインしていない場合に通知を受け取ります。
+>
+>* でのブラウザー通知の有効化 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* でのブラウザー通知の有効化 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### 注意事項 {#things-to-note}
+
+* エージェントは、「チャットを受け入れる」メッセージがタイムアウトするまでに、45 秒の応答時間があります
+* 現時点では、エージェントごとに 10 のライブチャットの制限があります
+
 >[!MORELIKETHIS]
 >
->[エージェントのインボックス](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[エージェントインボックス](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
