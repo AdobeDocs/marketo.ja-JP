@@ -2,11 +2,11 @@
 description: エージェントインボックス — Marketoドキュメント — 製品ドキュメント
 title: エージェントのインボックス
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 4%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -32,21 +32,7 @@ ht-degree: 4%
 
 ## ライブチャット通知 {#live-chat-notifications}
 
-ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れを求められます。
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->また、ブラウザー通知を設定するオプションもあります。ブラウザー通知は、Dynamic Chatにログインしていない場合に通知を受け取ります。
->
->* でのブラウザー通知の有効化 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* でのブラウザー通知の有効化 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### 注意事項 {#things-to-note}
-
-* エージェントは、「チャットを受け入れる」メッセージがタイムアウトするまでに、45 秒の応答時間があります。
-* 現時点では、エージェントごとに 10 のライブチャットの制限があります
+通知の詳細については、 [ライブチャットの概要](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## 会話 {#conversations}
 
