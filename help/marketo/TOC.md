@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 97%
@@ -136,7 +136,8 @@ ht-degree: 97%
          + [通信制限の有効化](product-docs/administration/email-setup/enable-communication-limits.md)
          + [スマートキャンペーンのリード制限の有効化](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [メールボットアクティビティのフィルター](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [「管理者／電子メール」セクションから登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [メールボットアクティビティ TEMP のフィルタリング](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [配信停止テキストを削除](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + フィールド管理 {#field-management}
          + [信頼できないソースからのリストインポート中に、フィールドの更新をブロック](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [フィールドの更新のブロック](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -646,7 +647,7 @@ ht-degree: 97%
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [会議リスト](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Marketo Measure Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [よくある質問](product-docs/demand-generation/dynamic-chat/faq.md)
          + 自動チャット {#automated-chat}
             + [対話型フローの概要](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
