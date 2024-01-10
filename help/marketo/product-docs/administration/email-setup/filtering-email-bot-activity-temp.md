@@ -4,10 +4,10 @@ title: メールボットアクティビティのフィルター
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 74%
 
 ---
 
@@ -44,19 +44,23 @@ ht-degree: 83%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 「**[!UICONTROL IAB リストと一致]**」、「**[!UICONTROL 近接パターンと一致]**」またはその両方を選択します。次のどちらを選択するかを選択します。 [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング]. 秒数を設定 **アクティビティ間の期間** 長さは 0 ～ 3 秒です（デフォルトは 0）。
+1. 2 つのスライダーから選択できます。 有効にできるのは、どちらかまたは両方です。 有効にした場合 **[!UICONTROL IAB リストと一致]**、次のいずれかを選択します。 [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. 有効にした場合 **[!UICONTROL 近接パターンと一致]**、次のいずれかを選択します。 [!UICONTROL ボットアクティビティをログに記録] _または_ [!UICONTROL ボットアクティビティをフィルタリング]. 秒数を設定することもできます。 **アクティビティ間の期間** （デフォルトは 0、最大は 3）。
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >を使用 **アクティビティ間の期間** 0 秒に設定すると、同じ秒間に発生している e メールアクティビティが識別されます。 指定された秒数内に複数の電子メールアクティビティが発生した場合は、ボットアクティビティとして識別されます。
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* [!UICONTROL ボットアクティビティをフィルタリング]を選択した場合、誤ったアクティビティが除外されるので、メールの開封数とクリック数が減少する可能性があります。
 
-**オプションの手順**：スライダーをオフにすると、この機能は無効になります。無効にした場合、データはリセットされません。
+**オプションの手順**：どちらかの機能を無効にするには、選択可能なスライダーを選択解除します。 設定した場合、データはリセットされません。
 
 >[!TIP]
 >
