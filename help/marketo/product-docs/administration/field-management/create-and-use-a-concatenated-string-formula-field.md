@@ -4,16 +4,16 @@ description: 連結文字列（数式）フィールドの作成と使用 - Mark
 title: 連結文字列（数式）フィールドの作成と使用
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
 # 連結文字列（数式）フィールドの作成と使用 {#create-and-use-a-concatenated-string-formula-field}
 
-複数のフィールドの値を組み合わせたり、Marketo の数式フィールドを使用して条件付き値を作成したりできます。
+複数のフィールドの値を組み合わせたり、数式フィールドを使用して条件付き値をMarketo Engageしたりできます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -53,6 +53,6 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->数式フィールドは、ランディングページ、メール、スマートリスト列で使用できます（エクスポートされません）。数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。このシナリオでは、[メールスクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用してください。
+>数式フィールドは、ランディングページ、E メール、スマートリストの列で使用できます。 数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。このシナリオでは、[メールスクリプトトークン](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用してください。
 
 これで完了です。性別に基づいて敬称を含めるスマートフィールドが作成されました。楽しみながらクリエイティブになりましょう。
