@@ -4,9 +4,9 @@ title: オンデマンドウェビナー
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connectは、インタラクティブ Web セミナーを強化する技�
 
 Marketoは、以下のウィジェットを利用して、「ダッシュボード」タブに On-Demand Webinars の監視統計を表示します。
 
-* オンデマンド概要：イベント後に録画を視聴した訪問者数の日別概要（番組なし）を表示します。
+* オンデマンド概要：指定した日のイベント後に録画を視聴した訪問者数の概要（番組なし）を表示します
 
 * オンデマンドの統計：このウィジェットは次の情報を提供します。
    * オンデマンド録画を表示できる日数 — 30 日間の録画可能期間の終わり近くに電子メールキャンペーンを実行するなどのアクションをマーケターが実行するのに役立ちます。
