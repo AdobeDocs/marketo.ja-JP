@@ -3,10 +3,10 @@ description: エージェントインボックス — Marketoドキュメント 
 title: エージェントのインボックス
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 
@@ -50,11 +50,17 @@ ht-degree: 3%
 
 ![](assets/agent-inbox-5.png)
 
+## セッションを終了 {#end-a-session}
+
+エージェントは、 **セッションを終了** ボタンをクリックします。
+
+![](assets/agent-inbox-6.png)
+
 ## アクティビティ履歴 {#activity-history}
 
 訪問者情報の下に、アクティビティ履歴が表示されます。 アクティビティのタイプと日付を表示し、チャットの記録を表示することもできます。
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ ht-degree: 3%
 
 1. カレンダーアイコンをクリックします。
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 目的のエージェントカレンダーを選択し、 **送信**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. チャットの訪問者は会議を予約できます。
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
