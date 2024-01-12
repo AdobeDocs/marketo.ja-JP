@@ -4,9 +4,9 @@ title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
-workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 82%
+workflow-type: ht
+source-wordcount: '530'
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
 >[!CAUTION]
 >
->[New Connected App] ページを表示したまま、下にスクロールして、[Require Proof Key for Code Exchange (PKCE)] チェックボックスがオンになっていることを確認します。 _NOT_ オンにすると、設定の妨げになるので、オンにします。
+>セットアップに干渉するので、New Connected App ページを表示している間に、下にスクロールして、「Require Proof Key for Code Exchange (PKCE)」チェックボックスが&#x200B;_オフ_&#x200B;になっていることを確認します。
 
 ## Marketo の設定 {#set-up-marketo}
 
