@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
+source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 20%
+source-wordcount: '648'
+ht-degree: 21%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 20%
   </tr>
     <tr> 
    <td><strong>インタラクティブ Web セミナーのオンデマンド Web セミナー</strong>：オンデマンド Web セミナーを使用すると、ウェビナー録画を公開し、その訪問回数/時計を追跡できます。 これは、オンラインセミナ（ノーショー）に参加しなかったが、詳細を見つけてレコーディングを閲覧することにまだ興味を持っている登録者を通じて、より多くのリードを取得するのに役立ちます。</td> 
-   <td>今日の配送</td>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">オンデマンドウェビナー</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ ht-degree: 20%
    </tr>
     <tr> 
    <td><strong>メールボットアクティビティのフィルタリング</strong>：ボットアクティビティの識別フィルタリングをどの程度積極的に行うかを選択できるようになり、電子メールエンゲージメント用のボットアクティビティのキャプチャが強化されました。</td> 
-   <td>今日の配送</td>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">メールボットアクティビティのフィルター</a></td>
   </tr>
   <tr> 
@@ -125,8 +125,8 @@ ht-degree: 20%
    </tr>
     <tr> 
    <td><strong>Chatbot フォントカラーオプション</strong>：チャットボット設定のフォントカラーをカスタマイズします。</td> 
-   <td>今日の配送</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">設定</a></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,7 +147,7 @@ ht-degree: 20%
     </tr>
     <tr> 
    <td><strong>手動ライブチャットの終了</strong>：訪問者とエージェントの両方が、ライブチャットセッションを手動で終了できるようになりました。</td> 
-   <td>今日の配送</td>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">エージェントのインボックス</a></td>
   </tr>
   <tr> 
