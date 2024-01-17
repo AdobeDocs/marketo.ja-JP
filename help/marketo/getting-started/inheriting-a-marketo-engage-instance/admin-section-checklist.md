@@ -2,11 +2,11 @@
 description: 継承インスタンス管理チェックリスト — Marketoドキュメント — 製品ドキュメント
 title: 継承されたインスタンスの管理者チェックリスト
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
-ht-degree: 6%
+source-wordcount: '1832'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->これは、にオンボーディングされたサブスクリプションにのみ適用されます [AdobeIdentity Managementシステム (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} (Marketo Engage/管理者/ユーザーとロール )。
+>これは、にオンボードされたMarketo Engage購読にのみ適用されます。 [AdobeIdentity Managementシステム (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} (Marketo Engage/管理者/ユーザーとロール )。
 
 <table> 
  <tbody> 
@@ -99,7 +99,7 @@ ht-degree: 6%
  </tbody> 
 </table>
 
-## 監査証跡 {#audit-trail}
+## オーディット トレール {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,7 +108,7 @@ ht-degree: 6%
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 
-   <td>監査証跡</td> 
+   <td>オーディット トレール</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">作業中のユーザー</a> インスタンス内？</li></td>
   </tr>
  </tbody> 
@@ -260,7 +260,7 @@ ht-degree: 6%
   </tr> 
   <tr> 
    <td>CRM</td> 
-   <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? Veeva?</li>
+   <td><li>どの CRM と同期しますか？ Salesforce? MS Dynamics? ヴィーヴァ？</li>
 <li>を使用しているか <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">カスタム同期</a>?</li>
 <li>[Salesforce のみ ] インスタンスにカスタム同期フィルターが実装されているか。 
 <p><img src="assets/note-icon.png" alt="メモアイコン"> 注意： Marketoサポートに連絡して、カスタム同期フィルターを特定するか、カスタム同期ルールの実装をリクエストしてください。</li></td>
@@ -288,11 +288,31 @@ ht-degree: 6%
    <td>Web サービス</td> 
    <td><li>次に該当 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 制限</a> 有効？ そうなるべきか？</li>
 <li>インスタンスで API 呼び出しをおこなっているのは、どのユーザー/アプリですか？</li>
-<li>API 制限に達したか、それとも近いか。 
+<li>API 制限に達したか、それとも近いか。
 <br/>     その場合は、API 呼び出しを増やすか、インスタンスを監査して、API 呼び出しを停止することを検討してください。</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight（該当する場合）</td> 
+   <td>Adobe Dynamic Chat（該当する場合）</td> 
+<td><li>次を受け入れましたか？ <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat製品管理者</a> 招待？ この電子メールは、Marketo EngageインスタンスでDynamic Chatが有効になり、システム管理者として指定されている場合に送信されます。
+<br/>     そうでない場合は、受信トレイで「ようこそ」の電子メールを探し、Adobe IDの設定への招待を受け入れます。</li>   
+<li>次の項目を追加しました： <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">目的のユーザー</a> Adobe Admin ConsoleのDynamic Chat製品プロファイルに
+<ul>
+<li>適格なユーザーがDynamic Chat製品プロファイルをAdobeID に追加していることを確認します。 Marketo Engage/管理者/ユーザーとロールで、「アクセスDynamic Chat」ロールを製品プロファイルに追加している場合、割り当てることはできません。</li>
+<li>「製品プロファイル」タブで、デフォルトのプロファイル権限が組織のニーズに合っているかを確認します。<br/> 
+そうでない場合は、特定のプロファイルの権限を編集します。 </li>
+<li>複数のサブスクリプションがある場合、ユーザーは正しいサブスクリプションに追加されていますか。</li>
+</ul>
+</li>
+ユーザーと役割の設定の監査が完了したら、Dynamic Chatにログインして監査を続行します。  
+<li>「統合」タブで、Marketo EngageとDynamic Chatの同期が有効になっていますか？</li>
+<li>事前定義された権限を持つ 5 つのデフォルトプロファイルは組織に適用できますか？<br/> 
+     そうでない場合は、次の操作を実行できます。 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">Dynamic Chatで編集</a>. また、 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">カスタムプロファイルの作成</a> に権限のカスタムセットを追加します。</li>
+<li>ユーザーにDynamic Chatへのアクセス権を付与するために、管理者/ユーザーとロール/ロールの下にある該当するMarketo Engageロールに対して「アクセスDynamic Chat」をオンにしていますか？
+<br/><img src="assets/note-icon.png" alt="メモアイコン"> 注意： 「管理者」および「マーケティングユーザー」の役割は、Dynamic Chatにアクセスできる必要があります。</li>
+<li>あなたがいる <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engageインスタンスに接続しました</a> DYNAMIC CHAT?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight（該当する場合）</td> 
    <td><li>次の条件を満たす <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージがインストールされました</a>?</li>
 <li>あなたがいる <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード済み</a>?</li>
 <li>Sales Insight の構成は完了していますか？ <br/>     Enterprise/Unlimited ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">ここをクリック</a>、Professional ユーザー <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">ここをクリック</a>.</li>
