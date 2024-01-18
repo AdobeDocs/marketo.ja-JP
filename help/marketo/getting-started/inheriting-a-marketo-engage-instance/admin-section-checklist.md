@@ -3,9 +3,9 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 4%
 
 ---
@@ -293,16 +293,16 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat（該当する場合）</td> 
-<td><li>次を受け入れましたか？ <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat製品管理者</a> 招待？ この電子メールは、Marketo EngageインスタンスでDynamic Chatが有効になり、システム管理者として指定されている場合に送信されます。
+<td>以下の手順に従うと、 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. まだAdobe IDを設定していない場合、 <a href="https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html" target="_blank">ここでその方法を学ぶ</a>.
+<br/>
+<li>次を受け入れましたか？ <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat製品管理者</a> 招待？ この電子メールは、Marketo EngageインスタンスでDynamic Chatが有効になり、システム管理者として指定されている場合に送信されます。
 <br/>     そうでない場合は、受信トレイで「ようこそ」の電子メールを探し、Adobe IDの設定への招待を受け入れます。</li>   
 <li>次の項目を追加しました： <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">目的のユーザー</a> Adobe Admin ConsoleのDynamic Chat製品プロファイルに
-<ul>
 <li>適格なユーザーがDynamic Chat製品プロファイルをAdobeID に追加していることを確認します。 Marketo Engage/管理者/ユーザーとロールで、「アクセスDynamic Chat」ロールを製品プロファイルに追加している場合、割り当てることはできません。</li>
 <li>「製品プロファイル」タブで、デフォルトのプロファイル権限が組織のニーズに合っていますか。<br/> 
 そうでない場合は、特定のプロファイルの権限を編集します。 </li>
 <li>複数のサブスクリプションがある場合、ユーザーは正しいサブスクリプションに追加されていますか。</li>
-</ul>
-</li>
+<br>
 ユーザーと役割の設定の監査が完了したら、Dynamic Chatにログインして監査を続行します。  
 <li>あなたがいる <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engageインスタンスに接続しました</a> DYNAMIC CHAT?</li>
 <li>事前定義された権限を持つ 5 つのデフォルトプロファイルは組織に適用できますか？<br/> 
