@@ -2,10 +2,10 @@
 description: 対話フローの概要 — Marketoドキュメント — 製品ドキュメント
 title: 対話型フローの概要
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 1%
 特定のアクションに基づいて、対話フローを設計し、訪問者にトリガーします（例：コールトゥアクションボタンのクリック、ページ読み込み時、ページでの滞在時間など）。
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>対話型フローとライブチャットは、Dynamic Chat選択パッケージ上のユーザーに対して 100 のエンゲージメントの総ライフタイム制限を持つトライアル機能です。 この制限に達すると、すべての公開済みの対話フローがトリガーされなくなり、ライブエージェントとのチャットを要求した訪問者がグローバルなフォールバックメッセージを受け取ります。 この制限を増やすには、アカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
 
 ## ダイアログと対話フロー {#dialogues-vs-conversational-flows}
 

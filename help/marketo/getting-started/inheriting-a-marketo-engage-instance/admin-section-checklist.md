@@ -3,9 +3,9 @@ description: 継承インスタンス管理チェックリスト — Marketoド�
 title: 継承されたインスタンスの管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 4%
 
 ---
@@ -298,18 +298,17 @@ ht-degree: 4%
 <li>次の項目を追加しました： <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">目的のユーザー</a> Adobe Admin ConsoleのDynamic Chat製品プロファイルに
 <ul>
 <li>適格なユーザーがDynamic Chat製品プロファイルをAdobeID に追加していることを確認します。 Marketo Engage/管理者/ユーザーとロールで、「アクセスDynamic Chat」ロールを製品プロファイルに追加している場合、割り当てることはできません。</li>
-<li>「製品プロファイル」タブで、デフォルトのプロファイル権限が組織のニーズに合っているかを確認します。<br/> 
+<li>「製品プロファイル」タブで、デフォルトのプロファイル権限が組織のニーズに合っていますか。<br/> 
 そうでない場合は、特定のプロファイルの権限を編集します。 </li>
 <li>複数のサブスクリプションがある場合、ユーザーは正しいサブスクリプションに追加されていますか。</li>
 </ul>
 </li>
 ユーザーと役割の設定の監査が完了したら、Dynamic Chatにログインして監査を続行します。  
-<li>「統合」タブで、Marketo EngageとDynamic Chatの同期が有効になっていますか？</li>
+<li>あなたがいる <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engageインスタンスに接続しました</a> DYNAMIC CHAT?</li>
 <li>事前定義された権限を持つ 5 つのデフォルトプロファイルは組織に適用できますか？<br/> 
      そうでない場合は、次の操作を実行できます。 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">Dynamic Chatで編集</a>. また、 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">カスタムプロファイルの作成</a> に権限のカスタムセットを追加します。</li>
 <li>ユーザーにDynamic Chatへのアクセス権を付与するために、管理者/ユーザーとロール/ロールの下にある該当するMarketo Engageロールに対して「アクセスDynamic Chat」をオンにしていますか？
 <br/><img src="assets/note-icon.png" alt="メモアイコン"> 注意： 「管理者」および「マーケティングユーザー」の役割は、Dynamic Chatにアクセスできる必要があります。</li>
-<li>あなたがいる <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engageインスタンスに接続しました</a> DYNAMIC CHAT?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight（該当する場合）</td> 

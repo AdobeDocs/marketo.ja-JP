@@ -4,7 +4,7 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 87%
@@ -36,99 +36,99 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">バージョン</th> 
-   <th colspan="1">リリース日</th> 
+   <th>バージョン</th> 
+   <th>リリース日</th> 
    <th>注意</th> 
   </tr>
   <tr> 
-   <td colspan="1">5.0.2.1</td> 
-   <td colspan="1">10/13/23</td> 
-   <td colspan="1">バグ修正：カスタムエンティティの同期に関するバグを修正しました。</td> 
+   <td>5.0.2.1</td> 
+   <td>10/13/23</td> 
+   <td>バグ修正：カスタムエンティティの同期に関するバグを修正しました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.2.0</td> 
-   <td colspan="1">03/24/23</td> 
-   <td colspan="1">バグ修正： MS Dynamics 上で連絡先を結合できないバグを修正しました。</td> 
+   <td>5.0.2.0</td> 
+   <td>03/24/23</td> 
+   <td>バグ修正： MS Dynamics 上で連絡先を結合できないバグを修正しました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.8</td> 
-   <td colspan="1">03/27/23</td> 
-   <td colspan="1">バグ修正： MS Dynamics の UI 要素の他のカスタマイズ部分がプラグインによって上書きされるのを防ぎます。</td> 
+   <td>5.0.1.8</td> 
+   <td>03/27/23</td> 
+   <td>バグ修正： MS Dynamics の UI 要素の他のカスタマイズ部分がプラグインによって上書きされるのを防ぎます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.1</td> 
-   <td colspan="1">2021/04/02</td> 
-   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。</td> 
+   <td>5.0.1.1</td> 
+   <td>2021/04/02</td> 
+   <td>複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.2.0.0</td> 
-   <td colspan="1">2020/10/16</td> 
-   <td colspan="1">MS Dynamics との Campaign 同期のサポートを追加しました。</td> 
+   <td>4.2.0.0</td> 
+   <td>2020/10/16</td> 
+   <td>MS Dynamics との Campaign 同期のサポートを追加しました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">2018/08/22</td> 
-   <td colspan="1">Microsoft Dynamics バージョン 9.x 標準の、認定リードの取引先責任者プロセスに対するサポートが追加されました。</td> 
+   <td>4.0.0.24</td> 
+   <td>2018/08/22</td> 
+   <td>Microsoft Dynamics バージョン 9.x 標準の、認定リードの取引先責任者プロセスに対するサポートが追加されました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">2018/06/27</td> 
-   <td colspan="1">バグ修正：Dynamics 2013 用 Marketo ソリューションのインストール中に発生するビジネスプロセスエラー。</td> 
+   <td>4.0.0.23</td> 
+   <td>2018/06/27</td> 
+   <td>バグ修正：Dynamics 2013 用 Marketo ソリューションのインストール中に発生するビジネスプロセスエラー。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.22</td> 
-   <td colspan="1">2017/09/29</td> 
-   <td colspan="1">バグ修正：内部リビジョン。</td> 
+   <td>4.0.0.22</td> 
+   <td>2017/09/29</td> 
+   <td>バグ修正：内部リビジョン。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>4.0.0.21</p></td> 
-   <td colspan="1">2016/11/9</td> 
-   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、Dynamics CRM オンプレミス 2011 に固有です。</td> 
+   <td><p>4.0.0.21</p></td> 
+   <td>2016/11/9</td> 
+   <td>バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、Dynamics CRM オンプレミス 2011 に固有です。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.20</td> 
-   <td colspan="1">2016/07/22</td> 
-   <td colspan="1">バグ修正：商談取引先責任者のロールの更新が完全にキャプチャされていませんでした。</td> 
+   <td>4.0.0.20</td> 
+   <td>2016/07/22</td> 
+   <td>バグ修正：商談取引先責任者のロールの更新が完全にキャプチャされていませんでした。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.19</td> 
-   <td colspan="1">2016/06/28</td> 
-   <td colspan="1">バグ修正：商談が作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。<p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</td> 
+   <td>4.0.0.19</td> 
+   <td>2016/06/28</td> 
+   <td>バグ修正：商談が作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。<p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.18</td> 
-   <td colspan="1">2016/05/31</td> 
-   <td colspan="1">バグ修正：カスタムオブジェクトの更新と削除を非同期にしました。</td> 
+   <td>4.0.0.18</td> 
+   <td>2016/05/31</td> 
+   <td>バグ修正：カスタムオブジェクトの更新と削除を非同期にしました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">2016/04/08</td> 
-   <td colspan="1">バグ修正：リードの同期フィルターが「いいえ」に設定され、商談と取引先責任者に同期フィルターが設定されていない場合、リードが条件を満たしたときに取引先責任者と商談に対してログの作成が生成されませんでした。</td> 
+   <td>4.0.0.17</td> 
+   <td>2016/04/08</td> 
+   <td>バグ修正：リードの同期フィルターが「いいえ」に設定され、商談と取引先責任者に同期フィルターが設定されていない場合、リードが条件を満たしたときに取引先責任者と商談に対してログの作成が生成されませんでした。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
-   <td colspan="1">2016/03/29</td> 
+   <td>4.0.0.16</td> 
+   <td>2016/03/29</td> 
    <td>バグ修正：同期フィルターがオフになったときに、割り当てイベントがログに記録されました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.15</td> 
-   <td colspan="1">2016/03/03</td> 
-   <td colspan="1">バグ修正：ログインユーザに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td> 
+   <td>4.0.0.15</td> 
+   <td>2016/03/03</td> 
+   <td>バグ修正：ログインユーザに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.14</td> 
-   <td colspan="1">2016/01/18</td> 
-   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザのアクセス制限を作成しました。</td> 
+   <td>4.0.0.14</td> 
+   <td>2016/01/18</td> 
+   <td>バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザのアクセス制限を作成しました。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.13</td> 
-   <td colspan="1">2015/12/30</td> 
+   <td>4.0.0.13</td> 
+   <td>2015/12/30</td> 
    <td>バグ修正：Dynamics のアップデートが、Marketo のステップと画像に同期されませんでした。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.12</td> 
-   <td colspan="1">2015/11/12</td> 
-   <td colspan="1">バグ修正：同期フィルターが false に設定されている場合、リードレコードが Marketo に同期されていました。</td> 
+   <td>4.0.0.12</td> 
+   <td>2015/11/12</td> 
+   <td>バグ修正：同期フィルターが false に設定されている場合、リードレコードが Marketo に同期されていました。</td> 
   </tr> 
  </tbody> 
 </table>

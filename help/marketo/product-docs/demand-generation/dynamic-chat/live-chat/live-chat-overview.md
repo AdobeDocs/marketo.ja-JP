@@ -3,16 +3,20 @@ description: Live Chat の概要 — Marketoドキュメント — 製品ドキ�
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 2%
+source-wordcount: '618'
+ht-degree: 1%
 
 ---
 
 # ライブチャットの概要 {#live-chat-overview}
 
 ライブチャットを使用すると、ウェブサイトの訪問者がセールスエージェントとリアルタイムでチャットできるようになります。
+
+>[!NOTE]
+>
+>対話型フローとライブチャットは、Dynamic Chat選択パッケージ上のユーザーに対して 100 のエンゲージメントの総ライフタイム制限を持つトライアル機能です。 この制限に達すると、すべての公開済みの対話フローがトリガーされなくなり、ライブエージェントとのチャットを要求した訪問者がグローバルなフォールバックメッセージを受け取ります。 この制限を増やすには、アカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
 
 ## ライブチャットエージェントの追加 {#add-live-chat-agents}
 
