@@ -4,10 +4,10 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 100%
+source-wordcount: '464'
+ht-degree: 87%
 
 ---
 
@@ -39,12 +39,26 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
    <th colspan="1">バージョン</th> 
    <th colspan="1">リリース日</th> 
    <th>注意</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">バグ修正：カスタムエンティティの同期に関するバグを修正しました。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">バグ修正： MS Dynamics 上で連絡先を結合できないバグを修正しました。</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">バグ修正： MS Dynamics の UI 要素の他のカスタマイズ部分がプラグインによって上書きされるのを防ぎます。</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
    <td colspan="1">2021/04/02</td> 
-   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。
-</td> 
+   <td colspan="1">複数選択オプションセットフィールド同期のサポート（この機能は V9.X 以降でのみ使用可能）。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -69,7 +83,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">2016/11/9</td> 
-   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、Dynamics CRM オンプレミス 2011 に固有です。 </td> 
+   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、Dynamics CRM オンプレミス 2011 に固有です。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -79,7 +93,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">2016/06/28</td> 
-   <td colspan="1"><p>バグ修正：商談が作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。 </p><p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</p></td> 
+   <td colspan="1">バグ修正：商談が作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。<p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
