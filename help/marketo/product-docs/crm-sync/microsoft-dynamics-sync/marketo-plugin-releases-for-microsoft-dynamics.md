@@ -4,7 +4,7 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 87%
@@ -36,9 +36,9 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
 <table> 
  <tbody> 
   <tr> 
-   <th>バージョン</th> 
-   <th>リリース日</th> 
-   <th>注意</th> 
+   <th style="width:15%">バージョン</th> 
+   <th style="width:20%">リリース日</th> 
+   <th style="width:65%">注意</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
