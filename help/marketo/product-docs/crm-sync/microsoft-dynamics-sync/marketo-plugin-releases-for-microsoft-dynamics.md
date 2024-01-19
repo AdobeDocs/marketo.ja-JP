@@ -4,10 +4,10 @@ description: Microsoft Dynamics 向け Marketo プラグインリリース - Mar
 title: Microsoft Dynamics 向け Marketo プラグインリリース
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 87%
+source-wordcount: '474'
+ht-degree: 86%
 
 ---
 
@@ -42,7 +42,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>バグ修正：カスタムエンティティの同期に関するバグを修正しました。</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>バグ修正： MS Dynamics の UI 要素の他のカスタマイズ部分がプラグインによって上書きされるのを防ぎます。</td> 
+   <td>バグ修正： MS Dynamics の UI 要素の他のカスタマイズ部分がプラグインによって上書きされるのを防ぎます。
+   <p>
+   バグ修正：5.0.1.1 で見つからなくなったナビゲーションタイルを回復しました。</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
