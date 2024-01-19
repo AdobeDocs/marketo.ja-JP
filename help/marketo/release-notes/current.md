@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
+source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 21%
+source-wordcount: '681'
+ht-degree: 20%
 
 ---
 
@@ -176,6 +176,8 @@ ht-degree: 21%
 <br/>
 
 ## お知らせ {#announcements}
+
+* **リード API の更新を同期**:Sync Lead API の動作は、 `unsubscribed` フィールドに入力します。 さあ、 `null` 値として、値を渡すのと等しい `false`.
 
 * **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
