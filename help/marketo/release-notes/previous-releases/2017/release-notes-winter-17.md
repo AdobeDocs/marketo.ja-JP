@@ -4,10 +4,10 @@ description: リリースノート - 17年冬 - Marketo ドキュメント - 製
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '381'
+ht-degree: 91%
 
 ---
 
@@ -67,13 +67,13 @@ ht-degree: 100%
 
 **[ソース別に分析をフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（メール、リッチメディア、レコメンデーションバー）に対する予測コンテンツ分析をフィルタリングします。
+特定のソース（メール、リッチメディア、レコメンデーションバー）に対して予測コンテンツ分析をフィルタリングします。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **予測コンテンツエディター**
 
-編集エクスペリエンスとレイアウトが向上し、ソース別（電子メール、リッチメディア、レコメンデーションバーにコンテンツの準備）を分割できるようになりました。
+編集エクスペリエンスとレイアウトが改善され、ソース別にコンテンツの準備（電子メール、リッチメディア、レコメンデーションバー）を分割できるようになりました。
 
 ![](assets/predictive-content-editor.png)
 
@@ -85,7 +85,7 @@ ht-degree: 100%
 
 開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 
-## [Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 新しいフィルターオプション「Vibes リストのメンバー」でターゲティングを強化します。
 
