@@ -1,19 +1,17 @@
 ---
-description: ドキュメント - Marketo ドキュメント - 製品ドキュメント
-title: ドキュメント
-hide: true
-hidefromtoc: true
+description: SMS 用語集 — Marketoドキュメント — 製品ドキュメント
+title: SMS 用語集
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 1%
 
 ---
 
 # SMS 用語集 {#sms-glossary}
 
-以下は、Vibes SMS メッセージをMarketo Engageで使用する際に遭遇する一般的な用語です。
+以下に、Vibes SMS メッセージをMarketo Engageで使用する際に遭遇する一般的な用語を示します。
 
 <table>
 <thead>

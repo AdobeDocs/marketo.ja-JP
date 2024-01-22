@@ -1,10 +1,8 @@
 ---
 description: スマートキャンペーンでの SMS オプションの使用 — Marketoドキュメント — 製品ドキュメント
 title: スマートキャンペーンでの SMS オプションの使用
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 34%
@@ -17,11 +15,11 @@ ht-degree: 34%
 
 >[!NOTE]
 >
->SMS メッセージを送信したい場合、 [特定の記事](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) それに対して
+>SMS メッセージを送信したい場合、 [特定の記事](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} それに対して
 
 >[!PREREQUISITES]
 >
->SMSトリガー/フィルターは、 [Vibes サービスが有効になっています](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMSトリガー/フィルターは、 [Vibes サービスが有効になっています](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS トリガー {#sms-triggers}
 
@@ -87,6 +85,6 @@ SMS のフローステップは 3 つあります。
 
 >[!MORELIKETHIS]
 >
->* [SMS メッセージの送信](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [SMS メッセージの送信](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
