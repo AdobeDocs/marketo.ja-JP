@@ -2,7 +2,7 @@
 description: SMS メッセージの送信 — Marketoドキュメント — 製品ドキュメント
 title: SMS メッセージの送信
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 8%
@@ -75,5 +75,5 @@ You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->* [Vibes メッセージの作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Vibes メッセージの作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [スマートキャンペーンでの SMS オプションの使用](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -4,7 +4,7 @@ description: リリースノート - 2016 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2016 年夏
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 100%
@@ -39,7 +39,7 @@ Marketo のアカウントベースドマーケティングは、1 つの統合�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketo 内で SMS メッセージを簡単に作成できます。リッチ Marketo データを使用してメッセージをパーソナライズおよびターゲット設定し、SMS メッセージダッシュボードを使用してパフォーマンスを簡単に監視します。
 
