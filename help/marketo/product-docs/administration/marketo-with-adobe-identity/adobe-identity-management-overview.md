@@ -3,10 +3,10 @@ description: Adobe Identity Management の概要 - Marketo ドキュメント - 
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 75%
+source-wordcount: '402'
+ht-degree: 54%
 
 ---
 
@@ -16,7 +16,16 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->Marketoサポートでは、Adobe IMSの移行に関する更新を提供できません。 アドビアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。詳しくは、 [この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketoサポートでは、Adobe IMSの移行に関する更新を提供できません。 Adobeアカウントチームは、今後数ヶ月以内に予定される予定日程で連絡を取ります。 詳しくは、 [この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+
+AdobeID に転送されたサブスクリプションの場合、Adobe Admin Consoleがユーザー管理に使用されます。 シングルサインオンなどの ID 関連の概念も、Admin Consoleで管理されます。
+
+* 詳しくは、 [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"}.
+* 次の情報を検索： [Marketoサブスクリプションに関連するAdobe組織の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
+>[!NOTE]
+>
+>シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
 
 ## プロファイルレベル {#profile-levels}
 

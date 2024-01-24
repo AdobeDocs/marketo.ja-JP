@@ -3,10 +3,10 @@ description: AdobeIdentity Management FAQ - Marketoドキュメント — 製品
 title: AdobeIdentity Managementの FAQ
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1180'
-ht-degree: 65%
+source-wordcount: '1202'
+ht-degree: 60%
 
 ---
 
@@ -73,6 +73,10 @@ Adobe ID に転送されたユーザーは、製品の購読切り替えボタ�
 **SSO はサポートされていますか？**
 
 はい。Marketo と Adobe IMS の統合では、ユニバーサル ID ユーザーと SSO がサポートされています。SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+
+* **既にAdobeID に転送されていますが、SSO を実装したいと思います。 どうすればいい？**
+
+シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
 
 **デバイス認証はどのように機能しますか？**
 

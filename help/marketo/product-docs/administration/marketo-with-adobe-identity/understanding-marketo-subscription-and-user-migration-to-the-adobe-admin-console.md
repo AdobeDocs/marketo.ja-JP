@@ -3,9 +3,9 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 3%
 
 ---
@@ -42,7 +42,11 @@ Adobe Admin Consoleへのサブスクリプションの移行が完了すると�
 
 * Adobe Admin Consoleで他のAdobe製品を既に管理している場合、Adobeは、既存のコンソールにユーザーを自動的に移行する同意を求める場合があります。 電子メールの「使用を開始」ボタンをクリックして、同意ページに移動します。
 
-現時点では、ユーザー管理に変更はありません。 Marketo管理者は、引き続きMarketo Admin 領域でユーザーを管理します。ユーザーの移行が完了するまで、Marketo ID でログインし続けます。
+現時点では、ユーザー管理に変更はありません。 Marketo製品はAdmin Consoleに表示されますが、Marketo管理者は引き続きMarketo Admin 領域でユーザーを管理し、ユーザーの移行が完了するまで、Marketo Id でログインし続けます。 この間、Marketo製品は、ユーザーの移行が開始されるまでAdmin Consoleで管理できません。 これには、サブスクリプションに関連付けられたDynamic Chatインスタンスが含まれます。
+
+>[!NOTE]
+>
+>現在 SSO を使用していないが実装を検討している場合は、ユーザー移行を行う前に実行することをお勧めします。 シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
 
 ### ユーザー移行のスケジュール設定 {#schedule-user-migration}
 
