@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 20%
+source-wordcount: '691'
+ht-degree: 19%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 20%
    </tr>
     <tr> 
    <td><strong>リードの一括読み込み API の更新</strong>：一括リード読み込み API の動作が、 <b>id</b> が <b>lookupField</b> ジョブの作成中に発生しました。 指定された <b>id</b> がMarketo Engageデータベースに見つからない場合は、レコードが見つからないので、レコードの更新は行われません。 更新された動作に、 <b>numOfRowsFailed</b> プロパティを返します。この場合は、操作が失敗したことを示します。</td> 
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ ht-degree: 20%
 
 ## お知らせ {#announcements}
 
-* [2024 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **リード API の更新を同期**: [リード API を同期](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}の動作は、 `unsubscribed` フィールドに入力します。 さあ、 `null` 値として、値を渡すのと等しい `false`.
 
 * **Marketo EngageForms jQuery 1.x**:2024 年 1 月のリリースで、FormsMarketo Engage用 jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
 * **SSO 専用ユーザーのメール検証**:SSO 自動的に検証されたのはユーザーのみで、アクセスできない E メールアカウントを使用できます。 1 月中旬以降、既存のすべての SSO のみのユーザーは検証されず、電子メールアカウントに送信するリンクを介して電子メールを再検証するように求められます。 すべての新しい SSO のみのユーザーは、今後の E メールアドレスを検証する必要があります。
+
+* 次の項目を見る [2024 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
