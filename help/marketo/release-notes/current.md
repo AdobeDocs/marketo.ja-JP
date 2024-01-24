@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 19%
@@ -183,4 +183,4 @@ ht-degree: 19%
 
 * **SSO 専用ユーザーのメール検証**:SSO 自動的に検証されたのはユーザーのみで、アクセスできない E メールアカウントを使用できます。 1 月中旬以降、既存のすべての SSO のみのユーザーは検証されず、電子メールアカウントに送信するリンクを介して電子メールを再検証するように求められます。 すべての新しい SSO のみのユーザーは、今後の E メールアドレスを検証する必要があります。
 
-* 次の項目を見る [2024 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* 次の項目を見る [2024 年 1 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
