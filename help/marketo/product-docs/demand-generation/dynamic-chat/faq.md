@@ -3,10 +3,10 @@ description: Dynamic ChatFAQ - Marketoドキュメント — 製品ドキュメ�
 title: Dynamic Chatの FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 12%
+source-wordcount: '837'
+ht-degree: 10%
 
 ---
 
@@ -20,7 +20,7 @@ Dynamic Chat の JavaScript スニペットは、任意の web サイトおよ�
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日間. 制限/パラメーターの完全なリストについては、Marketo Engage [製品の説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
+90 日。 制限/パラメーターの完全なリストについては、Marketo Engage [製品の説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
@@ -84,7 +84,14 @@ Dynamic Chatは、Salesforce 統合Marketo Engageで Salesforce と統合でき�
 
 **メールから直接会議を予約するDynamic Chatを使用する方法はありますか？**
 
-はい! [方法を表示する](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+はい。[方法を学ぶ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+
+**「エンゲージ済み」や「獲得した人」とは何を意味しますか。**
+
+Dynamic Chatには複数の用語が使用されます。 その多くに対する定義は、それぞれの領域のヘルプ記事に記載されています。
+* 「獲得した人」などの分析用語 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
+* スマートリストトリガー/フィルターの定義 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
+* 様々なストリームデザイナーカードの説明 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
 
 **Marketo EngageなしでDynamic Chatを使用できますか？**
 
