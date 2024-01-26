@@ -3,7 +3,7 @@ description: Analytics - Marketoドキュメント — 製品ドキュメント
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 78%
@@ -54,12 +54,12 @@ ht-degree: 78%
 <thead>
 <tbody>
   <tr>
-    <td><b>完了</b></td>
+    <td style="width:25%"><b>完了</b></td>
     <td>完了したイベントは、訪問者が会話の最後のプロンプトに到達したときに発生します <i>または</i> 訪問者が会話のすべてのコンテンツを消費した場合。
     <br>訪問者ごとに 1 つの完了イベント、セッションごとに 1 つ。</td>
   </tr>
   <tr>
-    <td><b>獲得した人物</b></td>
+    <td style="width:25%"><b>獲得した担当者</b></td>
     <td>訪問者が電子メールアドレスを送信すると発生します。
     <br>訪問者 1 人あたり 1 回の獲得（セッションあたり）。</td>
   </tr>

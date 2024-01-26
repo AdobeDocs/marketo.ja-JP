@@ -3,7 +3,7 @@ description: Dynamic ChatFAQ - Marketoドキュメント — 製品ドキュメ�
 title: Dynamic Chatの FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 10%
@@ -89,9 +89,10 @@ Dynamic Chatは、Salesforce 統合Marketo Engageで Salesforce と統合でき�
 **「エンゲージ済み」や「獲得した人」とは何を意味しますか。**
 
 Dynamic Chatには複数の用語が使用されます。 その多くに対する定義は、それぞれの領域のヘルプ記事に記載されています。
-* 「獲得した人」などの分析用語 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* スマートリストトリガー/フィルターの定義 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* 様々なストリームデザイナーカードの説明 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* 「獲得した人」などの分析用語 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* スマートリストトリガー/フィルターの定義 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* 様々なストリームデザイナーカードの説明 [ここにあります](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Marketo EngageなしでDynamic Chatを使用できますか？**
 
