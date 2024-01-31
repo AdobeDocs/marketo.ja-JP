@@ -4,24 +4,25 @@ description: アドビ組織マッピングの設定 - Marketo ドキュメン�
 title: アドビ組織マッピングの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 73%
+source-wordcount: '228'
+ht-degree: 52%
 
 ---
 
 # アドビ組織マッピングの設定 {#set-up-adobe-organization-mapping}
 
-Audience ManagerなどのAdobeアプリケーションと同期するために、B2B CDP Marketoコネクタ [!DNL Dynamic Chat]など )。まず、MarketoにAdobe IMS組織の資格情報を入力する必要があります。
+Audience ManagerなどのAdobeアプリケーションと同期するために、B2B CDP Marketoコネクタ [!DNL Dynamic Chat]など ) の場合は、まず「Marketo Engage」にAdobe IMS組織の資格情報を入力する必要があります。
 
 >[!NOTE]
 >
->Marketo インスタンスの HIPAA 対応デプロイメントでは、この統合を使用できません。
+>* Marketo インスタンスの HIPAA 対応デプロイメントでは、この統合を使用できません。
+>* 統合が機能するには、Marketoとその他のAdobeアプリケーションが同じ組織に存在する必要があります。
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Adobe Business Platform と Identity Management システムにオンボーディングされた顧客の場合、サブスクリプションに関連付けられている組織 ID は既に入力されており、読み取り専用フィールドになります。
+>AdobeビジネスプラットフォームとIdentity Managementシステムに転送されたユーザーの場合、サブスクリプションに関連付けられている組織 ID は既に入力されており、読み取り専用フィールドになります。 したがって、この記事の手順は適用されません。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
