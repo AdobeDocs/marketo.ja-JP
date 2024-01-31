@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Marketo Self-Service User Migration Console ツールは、2 つのタブで構�
 * **ユーザーの移行とアクティブ化**：サブスクリプション内のユーザーのユーザーの移行とアクティベーション (Marketo Engage製品への移行と権利付与 ) のステータス。
 * **移行の確認**：サブスクリプションの移行完了ステータス。
 
-**ユーザーメールの検証**
+#### ユーザーメールの検証 {#user-email-verification}
 
 「AdobeE メールの検証」セクションで、管理者は、ユーザー ID に移行する前に、サブスクリプション内のユーザーに対する E メールの検証の現在のステータスを確認できます。
 
@@ -87,13 +87,13 @@ Marketo Self-Service User Migration Console ツールは、2 つのタブで構�
 >
 >Marketo Engageユーザーが E メールアドレスを検証しない場合、E メールアドレスをAdobe IDに移行できず、移行が完了するとMarketoサブスクリプションにアクセスできなくなります。 Marketo製品管理者がアクセスを再度取得するには、新しいユーザーとして追加する必要があります。
 
-**ユーザーの移行とアクティブ化**
+#### ユーザーの移行とアクティブ化 {#user-migration-and-activation}
 
 「ユーザーの移行とアクティブ化」セクションで、管理者はAdobeIdentity Managementシステムに対するユーザーの移行と権利付与の合計に関する現在のステータスを確認できます。
 
 管理者は、Adobe IDに移行された、またはスキップ済みとマークされた、購読内のユーザーの割合を表示できます。 ステータスは、サブスクリプション内のAdobe IDへのすべてのユーザーの移行状態のステータスに応じてレポートされるか、スキップ済みとしてマークされ、移行されません。 ユーザーが移行され、Marketo Engageに対する権利が付与されたり、スキップされたりすると、このステータスは更新されます。
 
-**移行の確認**
+#### 移行の確認 {#migration-confirmation}
 
 「移行の確認」セクションで、管理者が、サブスクリプションのユーザー移行が完了したことを確認する必要があります。
 
