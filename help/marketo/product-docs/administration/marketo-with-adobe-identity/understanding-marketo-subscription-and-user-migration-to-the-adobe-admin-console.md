@@ -3,10 +3,10 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1289'
-ht-degree: 3%
+source-wordcount: '1301'
+ht-degree: 2%
 
 ---
 
@@ -98,7 +98,7 @@ Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日�
 
 ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。
 
-詳しくは、 [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+詳しくは、 [AdobeID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## ユーザー移行完了 {#user-migration-complete}
 
@@ -107,3 +107,9 @@ Adobeは、すべての管理者とユーザーが移行されると、電子メ
 ## サポートを受ける {#get-support}
 
 サブスクリプションまたはユーザーの移行に関する追加サポートについては、電子メールでお問い合わせください。 `marketocares@marketo.com`.
+
+>[!MORELIKETHIS]
+>
+>* [AdobeID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+>* [AdobeIdentity Managementの FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

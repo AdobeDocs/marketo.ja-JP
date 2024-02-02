@@ -4,9 +4,9 @@ title: インタラクティブな Web セミナーのベストプラクティ�
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 * カスタムポッドは、Adobe Connectの部屋の機能を拡張するために使用できるサードパーティのアプリです。 カスタムポッドは、からダウンロードできます。 `apps.adobeconnect.com` .pod または.zip ファイルとして。このファイルは、共有ポッドで共有できます。
    * 人気のカスタムポッドには、カウントダウンタイマー、時計、ロックペーパー鋏、ワードクラウド、タイトラーがあります。
-   * カスタムポッドの使用方法に関する短いビデオについては、ここをクリックしてください。
+   * [ここをクリック](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} カスタムポッドの使用方法に関する短いビデオを視聴するには、こちらを参照してください。
 
 **プライバシー：参加者情報を機密に保つには、以下の設定を確認します。**
 
