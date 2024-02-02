@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 19%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 19%
 <br/>
 
 ## お知らせ {#announcements}
+
+* **ワンクリックでの List-Unsubscribe の更新**:Gmail および Yahoo は、2024 年 2 月 1 日に施行された新しい送信者要件をいくつか実装しました。 学ぶ [それらが何に与え、どのように影響を及ぼすか](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **リード API の更新を同期**: [リード API を同期](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}の動作は、 `unsubscribed` フィールドに入力します。 さあ、 `null` 値として、値を渡すのと等しい `false`.
 
