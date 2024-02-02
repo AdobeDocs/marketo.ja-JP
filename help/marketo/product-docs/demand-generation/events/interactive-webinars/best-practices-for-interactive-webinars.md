@@ -1,13 +1,12 @@
 ---
-description: インタラクティブウェビナーの設計 - Marketo ドキュメント - 製品ドキュメント
-title: インタラクティブウェビナーの設計
-exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
+description: インタラクティブ Web セミナーのベストプラクティス — Marketoドキュメント — 製品ドキュメント
+title: インタラクティブな Web セミナーのベストプラクティス
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
+source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1648'
 ht-degree: 0%
 
 ---
