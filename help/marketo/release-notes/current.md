@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 19%
+source-wordcount: '780'
+ht-degree: 18%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 19%
    <th style="width:65%">機能</th> 
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>インタラクティブ Web セミナーのオンデマンド Web セミナー</strong>：オンデマンド Web セミナーを使用すると、ウェビナー録画を公開し、その訪問回数/時計を追跡できます。 これは、オンラインセミナ（ノーショー）に参加しなかったが、詳細を見つけてレコーディングを閲覧することにまだ興味を持っている登録者を通じて、より多くのリードを取得するのに役立ちます。</td> 
@@ -40,8 +39,6 @@ ht-degree: 19%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>対話型のランディングページ</strong>:Marketo EngageのランディングページにDynamic Chatの対話フローを直接埋め込むことで、訪問者はフォームに入力したり Chatbot とやり取りしたりすることなく、Dynamic Chatを介した会議のスケジュールを設定できます。</td> 
    <td><i>まもなくリリース</i></td>
@@ -52,8 +49,6 @@ ht-degree: 19%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>メールボットアクティビティのフィルタリング</strong>：ボットアクティビティの識別フィルタリングをどの程度積極的に行うかを選択できるようになり、電子メールエンゲージメント用のボットアクティビティのキャプチャが強化されました。</td> 
    <td>リリース済み</td>
@@ -63,11 +58,29 @@ ht-degree: 19%
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>リードの一括読み込み API の更新</strong>：一括リード読み込み API の動作が、 <b>id</b> が <b>lookupField</b> ジョブの作成中に発生しました。 指定された <b>id</b> がMarketo Engageデータベースに見つからない場合は、レコードが見つからないので、レコードの更新は行われません。 更新された動作に、 <b>numOfRowsFailed</b> プロパティを返します。この場合は、操作が失敗したことを示します。</td> 
+   <td>リリース済み</td>
+   <td>該当なし</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>インタラクティブなウェビナーのコホスト</strong>：インタラクティブ Web セミナーの「ウェビナーチーム」セクションの共同ホストを使用すると、イベント作成者は、インタラクティブ Web セミナープログラムに内部または外部のユーザーを追加して、管理上および配信上の責務を共有できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">ウェビナーチームの追加</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>インタラクティブ Web セミナーでのユーザーの削除</strong>:Marketo Engage管理者は、インタラクティブ Web セミナーから特定のユーザーを削除できるようになりました。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
