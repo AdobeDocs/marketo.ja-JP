@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ce8b46126478fe9b2afcf9d475607ee71f64e111
+source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9272'
 ht-degree: 97%
 
 ---
@@ -1126,6 +1126,8 @@ ht-degree: 97%
       + [アイコン用語集](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切替スイッチ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+   + Marketo Notifications {#marketo-notifications}
+      + [通知：Websocket 接続](product-docs/marketo-notifications/notification-websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + はじめに {#getting-started}
          + [Sales Connect の概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
