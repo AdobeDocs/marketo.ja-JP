@@ -4,9 +4,9 @@ title: 最新のリリースノート
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 36%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 36%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API アクティビティメタデータ</strong>：ユーザーエージェント、プラットフォーム、ブラウザー、デバイスなどのメタデータが、 <i>すべて</i> ブラウザーベースのアクティビティに関する情報を提供し、Marketo REST API を介してブラウザーベースのアクティビティに関する一貫したインサイトを提供します。</td> 
+   <td><strong>API アクティビティメタデータ</strong>：ユーザーエージェント、プラットフォーム、デバイスなどのメタデータが Web アクティビティと電子メールアクティビティに含まれるようになり、Marketo REST API を介してこれらのアクティビティに対する一貫したインサイトを提供できます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
