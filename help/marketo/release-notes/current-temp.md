@@ -4,10 +4,10 @@ title: 最新のリリースノート
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 36%
+source-wordcount: '260'
+ht-degree: 38%
 
 ---
 
@@ -30,6 +30,27 @@ ht-degree: 36%
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
+  <tr> 
+   <td><strong>高度な対話フローロジック</strong>：対話型フローのフォローアップ用に、単一の選択で評価用のフィールドを追加します。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>対話型フローロジックの並べ替え</strong>:Marketo EngageFormsでは、会話フローの選択肢を、削除して元に戻す代わりに並べ替えることができるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>インタラクティブ Web セミナーのカスタムテンプレート</strong>：インタラクティブ Web セミナーで部屋レイアウトのカスタムテンプレートを作成できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
@@ -49,42 +70,6 @@ ht-degree: 36%
 </table>
 <br/>
 
-## アジャイルリリースの機能 {#agile-release-features}
-
-以下のすべての機能は、Agile 形式に従い、標準リリース日の前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">機能</th> 
-   <th style="width:15%">ステータス</th>
-   <th style="width:20%">ドキュメント</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>高度な対話フローロジック</strong>：対話型フローのフォローアップ用に、単一の選択で評価用のフィールドを追加します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>対話型フローロジックの並べ替え</strong>：対話型フローの条件付きロジックが設定されているロジックを、削除して読み取る代わりに並べ替えられるようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## お知らせ {#announcements}
 
-* **アカウントインサイトブラウザープラグインの廃止**:Adobeが [アカウントインサイトブラウザープラグイン](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) 2024 年 3 月 18 日 (PT) に Chrome Web Store から。 既存のユーザー：Marketo EngageインスタンスをAdobeID とAdmin Consoleに移行するまで、プラグインは引き続き使用できます。
-
-{target="_blank"}
+* **アカウントインサイトブラウザープラグインの廃止**:Adobeが Target アカウント管理を削除しています [アカウントインサイトブラウザープラグイン](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} 2024 年 3 月 18 日 (PT) に Chrome Web Store から。 既存のユーザー：Marketo EngageインスタンスをAdobeID とAdmin Consoleに移行するまで、プラグインは引き続き使用できます。
