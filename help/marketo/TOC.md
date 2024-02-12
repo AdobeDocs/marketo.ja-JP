@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: c4ac853f552142a245ba3fe754551b0f1b3cb3fa
 workflow-type: tm+mt
-source-wordcount: '9277'
+source-wordcount: '9281'
 ht-degree: 97%
 
 ---
@@ -704,6 +704,7 @@ ht-degree: 97%
             + [インタラクティブな Web セミナーのベストプラクティス](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [ユーザーとライセンスの管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [インタラクティブウェビナーの作成](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [ウェビナーチームの追加](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [インタラクティブウェビナーの設計](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
             + [インタラクティブなウェビナーのプロモート](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [インタラクティブウェビナーの変更または削除](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
