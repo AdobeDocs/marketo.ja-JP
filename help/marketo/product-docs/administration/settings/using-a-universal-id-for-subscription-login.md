@@ -4,10 +4,10 @@ description: サブスクリプションログインでのユニバーサル ID 
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 87%
+source-wordcount: '544'
+ht-degree: 90%
 
 ---
 
@@ -58,10 +58,6 @@ ht-degree: 87%
 ## コミュニティプロファイル {#community-profiles}
 
 複数のサブスクリプションがある場合、複数のコミュニティプロファイルを持つことができます。最も活発なコミュニティプロファイルにリンクされているログインを選択することをお勧めします。
-
-## モバイルプラットフォーム {#mobile-platform}
-
-ユニバーサル ID を持つユーザーは、 [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 最後にログインした購読から。 Mobile プラットフォーム自体からは、サブスクリプションを変更できません。
 
 >[!MORELIKETHIS]
 >

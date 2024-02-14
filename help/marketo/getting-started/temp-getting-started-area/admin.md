@@ -4,10 +4,10 @@ title: 新しい領域
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 4%
+source-wordcount: '484'
+ht-degree: 8%
 
 ---
 
@@ -64,6 +64,143 @@ ht-degree: 4%
     <td><li>ワークスペースの定義方法と、それがデータベースパーティション（すなわち全員を表示するグローバルワークスペースとビジネスセクター）にどのように関連しているかを文書化します。</li>
     <li>適切なパーティションに新しいレコードをインポートします。</li>
     <li>ユーザーを適切なパーティションに配置する CRM で値を定義します。</li></td>
+  </tr>
+</tbody>
+</table>
+
+## スマートキャンペーン設定 {#smart-campaign-settings}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>スマートキャンペーン設定 </td>
+    <td><li>を追加します。 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html">スマートキャンペーンサイズの制限</a>：データベース全体に誤って電子メールを送信するのを防ぎます。</li>
+    <li>スマートキャンペーンの担当者制限の有効化</li></td>
+  </tr>
+</tbody>
+</table>
+
+## メール設定 {#email-settings}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>電子メールのデフォルト</td>
+    <td><li>「ブランディングドメイン」で、ドメインを選択し、E メール CNAME を追加します。 これは、[EmailTrackingCNAME] の形式で記述する必要があります。[CompanyDomain].com</li></td>
+  </tr>
+  <tr>
+    <td>SPF/DKIM</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html">SPF および DKIM の設定</a> （e メールの配信品質）。</li></td>
+  </tr>
+</tbody>
+</table>
+
+## 通信制限 {#communication-limits}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>通信制限</td>
+    <td><li>場所 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html">通信制限</a>.</li>
+    <li>ビジネスで通信制限に関するポリシーが必要かどうかを判断します。</li></td>
+  </tr>
+</tbody>
+</table>
+
+## タグ {tags}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>チャネル</td>
+    <td><li>使用方法の定義 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html">channels</a>.</li></td>
+  </tr>
+  <tr>
+    <td>タグ </td>
+    <td><li>使用方法の定義 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html">タグ</a>.</li></td>
+  </tr>
+  <tr>
+    <td>カレンダー（該当する場合） </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html">マーケティングカレンダーシートの発行</a> アクセスを必要とするユーザーに対して</li> 
+    <li>設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html">カレンダー</a>.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## データベース管理 {#database-management}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>フィールド管理</td>
+    <td><li>の命名規則を実装します。 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">カスタムフィールド。</a> 例えば、「MKTO」で始まります。</li>
+    <li>同期するフィールドを選択してください。 同期するフィールドが多いほど、同期サイクルが遅くなります。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">フィールドの更新をブロックする</a> 1 回だけ書き込む（元のリードソース、元のリードソースの詳細、ファーストタッチ UTM フィールドなど）</li></td>
+  </tr>
+  <tr>
+    <td>カスタムアクティビティ </td>
+    <td><li>定義 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank" rel="noopener noreferrer">カスタムアクティビティ</a> お客様のビジネスに固有の</li></td>
+  </tr>
+  <tr>
+    <td>カスタムオブジェクト </td>
+    <td><li>レビューする数 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank" rel="noopener noreferrer">カスタムオブジェクト</a> 必要です。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank" rel="noopener noreferrer">これらのカスタムオブジェクトを CRM に同期</a>.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## 統合 {#integrations}
+
+<table>
+<thead>
+  <tr>
+    <th>エリア</th>
+    <th>アクション項目</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>CRM</td>
+    <td><li>CRM 同期を開始します。 会社が使用している CRM に応じて、次の中から選択します。 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank" rel="noopener noreferrer">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank" rel="noopener noreferrer">Microsoft Dynamics</a>.</li>
+    <li>CRM にアクセスするために必要なアクセスのタイプを特定します。</li>
+    <li>トラブルシューティング用の CRM 管理者を特定します。</li></td>
+  </tr>
+  <tr>
+    <td>Sales Insight（該当する場合）</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html" target="_blank" rel="noopener noreferrer">Sales Insight を設定します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank" rel="noopener noreferrer">適切なユーザーにシートを発行します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank" rel="noopener noreferrer">API の設定</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank" rel="noopener noreferrer">リードスコアをカスタマイズします。</a></li></td>
   </tr>
 </tbody>
 </table>
