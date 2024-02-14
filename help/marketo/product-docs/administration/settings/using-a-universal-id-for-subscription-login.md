@@ -4,10 +4,10 @@ description: サブスクリプションログインでのユニバーサル ID 
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 89%
+source-wordcount: '576'
+ht-degree: 87%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 89%
 
 ユニバーサル ID を使用して 2 つ目のサブスクリプションへの招待を受け入れるためにログインすると、オプトインログインページが表示されます。ここでは、利用条件に同意するためのチェックボックスをオンにする必要があります。同意すると、こちらのログインページではなく、通常のリセットページが表示されます。利用条件に同意すると、Marketo は、サブスクリプションがホストされている別の場所にあるデータセンターに、基本的なプロファイルデータ（姓、名、メールアドレスなど）を配布できます。
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ ht-degree: 89%
 
 ユニバーサル ID を使用すると、ログインしているサブスクリプションを確認して、ログインアクセス権を持つ他のサブスクリプションを選択できます。ほとんどの場合、ログアウトしてから再度ログインしなくても、切り替えることができます。
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 ログアウトしてから再度ログインすると、Marketo は最後にログインしたサブスクリプションに自動的にログインします。その後、必要に応じて、別のサブスクリプションに切り替えることができます。
 
@@ -67,4 +67,4 @@ ht-degree: 89%
 >
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ユニバーサル ID を使用した 2 つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
