@@ -1,10 +1,8 @@
 ---
 description: ウェビナーチームの追加 — Marketoドキュメント — 製品ドキュメント
 title: ウェビナーチームの追加
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 1%
@@ -17,9 +15,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketoの発表者と共同ホストは、Adobe Connectでのウェビナー配信中に発表者と共同ホストが果たす役割に正確に対応しています。
+>Marketoのプレゼンターとコホストは、Adobe Connectでのウェビナー配信中に発表者とホストの役割に正確にマッピングされます。
 
-発表者は、ウェビナーの体験を提供する外部の役割です。共同ホストは、発表者としての役割を果たし、ウェビナー配信の管理面を扱うことができます。 コホストは、内部ホストと外部ホストの両方に使用できます。 外部のコホストは、Marketoのインタラクティブなウェビナーイベントプログラムにアクセスできませんが、Adobe Connectでの配信中にコホスト権限を持ちます。 内部の共同ホストは、Marketoのインタラクティブなウェビナーイベントプログラムと、配信時の共同ホスト権限の両方にアクセスできます。 これにより、Interactive Webinar プログラムの元の作成者が Interactive Webinars のユーザーセットに含まれなくなったり、Marketoのユーザーでもない場合に、内部の共同ホストが Interactive Webinar Event Program を手中に入れることができます。
+発表者は、ウェビナーの体験を提供する外部の役割です。共同ホストは、発表者としての役割を果たし、ウェビナー配信の管理面を扱うことができます。 コホストは、内部ホストと外部ホストの両方に使用できます。 外部のコホストは、Marketoのインタラクティブなウェビナーイベントプログラムにアクセスできませんが、Adobe Connectでの配信中にホスト権限を持ちます。 内部の共同ホストは、Marketoのインタラクティブウェビナーイベントプログラムと、配信中のホスト権限の両方にアクセスできます。 これにより、Interactive Webinar プログラムの元の作成者が Interactive Webinars のユーザーセットに含まれなくなったり、Marketoのユーザーでもない場合に、内部の共同ホストが Interactive Webinar Event Program を手中に入れることができます。
 
 >[!PREREQUISITES]
 >
