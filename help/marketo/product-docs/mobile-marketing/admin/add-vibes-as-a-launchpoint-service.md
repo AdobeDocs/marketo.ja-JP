@@ -4,10 +4,10 @@ description: Vibes を LaunchPoint サービスとして追加する - Marketo �
 title: Vibes を LaunchPoint サービスとして追加する
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 35%
+source-wordcount: '168'
+ht-degree: 29%
 
 ---
 
@@ -19,9 +19,9 @@ Vibes SMS キャンペーンにオプトインした人に SMS メッセージ�
 >
 >**管理者権限が必要**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->Vibes SMS のアクティブな Vibes アカウントとAdobeライセンスが必要です。
+>Vibes SMS のアクティブな Vibes アカウントとAdobeライセンスが必要です。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 その他の国では、Marketo Web フックを介した接続は、 [Vibes への直接の接続](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. My Marketoで、 **[!UICONTROL 管理者]** 領域。
 
@@ -49,4 +49,4 @@ Vibes SMS キャンペーンにオプトインした人に SMS メッセージ�
 
 >[!MORELIKETHIS]
 >
->[Vibes ビデオデモ](https://vimeo.com/215233767/1ed136adbc)
+>[Vibes ビデオデモ](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

@@ -2,10 +2,10 @@
 description: SMS メッセージの作成 — Marketoドキュメント — 製品ドキュメント
 title: SMS メッセージの作成
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 17%
+source-wordcount: '481'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ SMS メッセージの作成方法を次に示します。
 
 >[!AVAILABILITY]
 >
->この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。プロビジョニングを適切におこなうには、Adobeで購入する必要があります。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。プロビジョニングを適切におこなうには、Adobeで購入する必要があります。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 その他の国では、Marketo Web フックを介した接続は、 [Vibes への直接の接続](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 >[!PREREQUISITES]
 >
