@@ -4,10 +4,10 @@ description: Microsoft Dynamics MSI 向けプラグインリリース - Marketo 
 title: Microsoft Dynamics MSI 向けプラグインリリース
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 76%
+source-wordcount: '400'
+ht-degree: 42%
 
 ---
 
@@ -52,66 +52,83 @@ Marketoのネイティブ CRM 同期ソリューションを Dynamics に使用�
 ## バージョンの更新 {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">リリース日</th> 
-   <th colspan="1">バージョン</th> 
-   <th colspan="1">注意</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">インサイトのアカウントレイアウト：注目のアクション、スコアの変更、Web アクティビティ、電子メールアクティビティ</td> 
+   <th>リリース日</th> 
+   <th>バージョン</th> 
+   <th>注意</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">送信メール用のプログラム採用スコア</td> 
+   <td>02/14/24</td> 
+   <td>2.00.31</td> 
+   <td>匿名 Web アクティビティのページネーションに対する変更。
+   <p>
+   ユーザービューの秘密鍵情報を暗号化します。 暗号化を実行するには、新しいパッケージをインポートした後にパスワードを変更する必要があります。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">製品採用スコア指標、新しいグローバルダッシュボード（Web アクティビティ、E メール、最適）</td> 
+   <td>10/18/23</td> 
+   <td>2.00.30</td> 
+   <td>MSI エラーログを統合し、情報通知を削除してMarketo Error Entity に表示しない。</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">自動監査を削除し、MSI ソリューションのドキュメントの変更を削除します。</td> 
+   <td>05/19/23</td> 
+   <td>2.00.29</td> 
+   <td>グローバルダッシュボードの Web アクティビティと注目のアクションのページネーションの問題を修正しました。</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">バグ修正：Sales Insight の役割を持つユーザーの MSI API 設定フィールドへのアクセスの割り当て</td> 
+   <td>03/23/23</td> 
+   <td>2.00.28</td> 
+   <td>作成済み <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">新しいパッケージ</a> CRM への非ネイティブ接続用の MSI の場合。</td> 
+  </tr>
+  <tr> 
+   <td>02/03/22</td> 
+   <td>2.0.0.27</td> 
+   <td>インサイトのアカウントレイアウト：注目のアクション、スコアの変更、Web アクティビティ、電子メールアクティビティ。</td> 
+  </tr>
+  <tr> 
+   <td>01/05/22</td> 
+   <td>2.0.0.26</td> 
+   <td>送信メールのプログラム採用スコア。</td> 
+  </tr>
+  <tr> 
+   <td>10/28/21</td> 
+   <td>2.0.0.25</td> 
+   <td>製品採用スコア指標、新しいグローバルダッシュボード（Web アクティビティ、E メール、ベストベット）。</td> 
+  </tr>
+  <tr> 
+   <td>02/10/21</td> 
+   <td>2.0.0.22</td> 
+   <td>自動監査を削除し、MSI ソリューションに関するドキュメントの変更を削除します。</td> 
+  </tr>
+  <tr> 
+   <td>10/01/20</td> 
+   <td>2.0.0.21</td> 
+   <td>バグ修正： Sales Insight の役割を持つユーザーに、MSI API 設定フィールドへのアクセス権を割り当てます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2020/07/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">バグ修正：非同期レコードの検証メッセージを追加</td> 
+   <td>2020/07/20</td> 
+   <td>2.0.0.20</td> 
+   <td>バグ修正：非同期レコードの検証メッセージを追加します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2020/06/12</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">バグ修正：MSD API 設定で MSI シークレットパスワードを非表示に</td> 
+   <td>2020/06/12</td> 
+   <td>2.0.0.19</td> 
+   <td>バグ修正： MSD API 設定で MSI シークレットパスワードを非表示にします。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2020/05/26</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">バグ修正：「MSI」ボタンを表示するために MSI 役割 ID の検証を変更</td> 
+   <td>2020/05/26</td> 
+   <td>2.0.0.18</td> 
+   <td>バグ修正： MSI ボタンを表示するための MSI ロール ID の検証を変更するには、次の手順を実行します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2020/05/21</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">バグ修正：所有者フィールドを再表示し、フィールドを必須にしないように設定</td> 
+   <td>2020/05/21</td> 
+   <td>2.0.0.17</td> 
+   <td>バグ修正：所有者フィールドの再表示と、フィールドの非必須化。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2020/04/28</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">バグ修正：MSD CRM サイトマップ設定のリンク依存関係を削除</td> 
+   <td>2020/04/28</td> 
+   <td>2.0.0.16</td> 
+   <td>バグ修正： MSD CRM サイトマップ設定のリンク依存関係を削除しています。</td> 
   </tr> 
  </tbody> 
 </table>
