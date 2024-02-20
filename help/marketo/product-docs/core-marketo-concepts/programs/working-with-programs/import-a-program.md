@@ -4,16 +4,20 @@ description: プログラムのインポート - Marketo ドキュメント - �
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
-ht-degree: 74%
+source-wordcount: '551'
+ht-degree: 67%
 
 ---
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、ある Marketo サブスクリプションから別のサブスクリプションにインポートできます。例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、事前に作成されたプログラムを [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+プログラムは、ある購読から別のMarketo Engage購読にインポートできます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、事前に作成されたプログラムを [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>「カスタムオブジェクトが更新されました」トリガーを含むスマートリストを持つプログラムは、インポートに失敗します。 以下の手順に従う前に、すべてのスマートトリガーからこのリストを削除してください。
 
 ## プログラムのインポート {#importing-a-program}
 
@@ -27,9 +31,9 @@ ht-degree: 74%
 
    >[!NOTE]
    >
-   >プログラムのインポートは、「プログラムのインポート」権限が有効になっているロールを持つユーザのみが使用できます。詳しくは、[ユーザのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
+   >* プログラムのインポートは、「プログラムのインポート」権限が有効になっているロールを持つユーザのみが使用できます。詳しくは、[ユーザのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
    >
-   >Sandbox アカウントを Live サブスクリプションに接続するには、にお問い合わせください。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Sandbox アカウントを Live サブスクリプションに接続するには、にお問い合わせください。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Marketo **[!UICONTROL サブスクリプション]**&#x200B;を選択してインポートするプログラムを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
