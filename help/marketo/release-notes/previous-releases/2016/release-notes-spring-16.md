@@ -4,10 +4,10 @@ description: リリースノート - 2016 年春 - Marketo ドキュメント - 
 title: リリースノート - 2016 年春
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 100%
+source-wordcount: '797'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## [メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-メールインサイトは、過去の新しい集計データのメール分析エクスペリエンスです。プロジェクトオリオンの一環として、迅速なパフォーマンスを実現するためにエンドツーエンドで再設計されました。メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
+E メールインサイトは、過去の新しい集計データの E メール分析エクスペリエンスです。迅速なパフォーマンスを実現するためにエンドツーエンドで再設計されました。 メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 ## [新しい高速 Microsoft Dynamics 同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-新しい高速 Dynamics コネクタは、Orion アーキテクチャに基づいて構築され、初期同期の場合は最大 20 倍、増分同期の場合は最大 5 倍の速度を提供します。新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
+新しい高速 Dynamics コネクタにより、初期同期の場合は最大 20 倍、増分同期の場合は最大 5 倍の速度を実現します。 新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
 
 **新しいフィールドのデータを更新**：これで、任意の時点で新しい同期フィールドを有効にできます。そのフィールドのすべてのデータ値が Dynamics CRM から Marketo に更新されます。初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にした場合、そのフィールドのすべてのデータ値が Dynamics CRM から Marketo に更新されます。
 
