@@ -4,10 +4,10 @@ description: フィールドの表示／非表示 - Marketo ドキュメント -
 title: フィールドの表示／非表示
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 63%
+source-wordcount: '177'
+ht-degree: 61%
 
 ---
 
@@ -37,6 +37,7 @@ Marketo Engage内のフィールドを使用しなくなった場合は、UI で
    >
    >* フィールドを非表示にするには、他のアセット（アーカイブされたアセットを含む）に関連付けないでください。非表示にする前に、すべてのスマートリスト、フローステップの選択、フォーム、電子メールなどからこのフィールドを必ず削除してください。
    >* 標準（システム）フィールドを非表示にすることはできません。
+   >* オポチュニティ情報フィールドを非表示にすることはできません。
 
 1. 「**[!UICONTROL 非表示にする]**」をクリックして確定します。
 
