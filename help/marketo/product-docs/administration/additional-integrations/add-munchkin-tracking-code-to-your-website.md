@@ -4,10 +4,10 @@ description: "Web サイトへの  [!DNL Munchkin]  トラッキングコード�
 title: "Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 100%
+source-wordcount: '666'
+ht-degree: 93%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
 >[!NOTE]
 >
->Adobe Experience Cloud のお客様は、Adobe Launch の Marketo 統合を使用して、web ページに [!DNL Munchkin] スクリプトを含めることもできます。[ここ](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}でアプリを入手します。
+>Adobe Experience Cloudユーザーは、 [AdobeLaunch でのMarketo統合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} 含める [!DNL Munchkin] スクリプトを Web ページに配置できます。 AdobeLaunch を使用する場合、 _の [!DNL Munchkin] スクリプトが自動的に追加されました_&#x200B;を追加する必要はありません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -59,7 +59,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
    >[!TIP]
    >
-   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## 複数のワークスペースを使用する場合のトラッキングコードの追加 {#add-tracking-code-when-using-multiple-workspaces}
 
