@@ -2,8 +2,8 @@
 description: ダイアログの作成 - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログの作成
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 82%
@@ -14,15 +14,15 @@ ht-degree: 82%
 
 新しいダイアログを作成する方法を次に示します。
 
-1. 「**ダイアログ**」をクリックします。
+1. 「**[!UICONTROL ダイアログ]**」をクリックします。
 
    ![](assets/create-a-dialogue-1.png)
 
-1. 「**新規作成**」ボタンをクリックします。
+1. 「**[!UICONTROL 新規作成]**」ボタンをクリックします。
 
    ![](assets/create-a-dialogue-2.png)
 
-1. 空のダイアログ、または事前入力済みのテンプレートを選択します。名前を入力して（説明はオプションです）、優先度レベルを変更し（オプション）、「**保存**」をクリックします。
+1. 空のダイアログ、または事前入力済みのテンプレートを選択します。名前を入力して（説明はオプションです）、優先度レベルを変更し（オプション）、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/create-a-dialogue-3.png)
 

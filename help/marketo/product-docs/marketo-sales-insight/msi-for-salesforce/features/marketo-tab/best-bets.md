@@ -3,16 +3,20 @@ description: 最有望見込客 - Marketo ドキュメント - 製品ドキュ�
 title: 最有望見込客
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 100%
+source-wordcount: '314'
+ht-degree: 86%
 
 ---
 
 # 最有望見込客 {#best-bets}
 
 「最有望見込客」タブには、優先度に基づいて緊急度と相対スコアを使用して計算された、すべてのホットリードのリストが表示されます。
+
+>[!CAUTION]
+>
+>最優先が 1,000 個を超えないように注意してください。そうしないと、ページの読み込みが停止する可能性があります。 この場合は、フィルターを使用して、最優先の合計数を絞り込みます。
 
 **フィルターオプション**
 

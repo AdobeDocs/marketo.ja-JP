@@ -2,11 +2,11 @@
 description: チャットユーザーの追加または削除 - Marketo ドキュメント - 製品ドキュメント
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
-exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. **Dynamic Chat** をクリックします。
+1. **[!UICONTROL Dynamic Chat]** をクリックします。
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ ht-degree: 100%
    >
    >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します。
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**[!UICONTROL ユーザー]**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 「**ユーザーを追加**」ボタンをクリックします。
+1. 「**[!UICONTROL ユーザーを追加]**」ボタンをクリックします。
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -52,19 +52,19 @@ ht-degree: 100%
 
 新しく追加したチャットユーザーの Marketo のロールに Dynamic Chat 権限がまだない場合は、以下の方法で追加できます。
 
-1. Marketo で、「**管理者**」をクリックし、「**ユーザー＆ロール**」を選択します。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL ユーザー＆ロール]**」を選択します。
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 「**ロール**」タブをクリックします。
+1. 「**[!UICONTROL ロール]**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. リストから、変更するロールを選択し、「**ロールの編集**」をクリックします。
+1. リストから、変更するロールを選択し、「**[!UICONTROL ロールの編集]**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 「**Dynamic Chat にアクセス**」を選択して、「**保存**」をクリックします。
+1. 「**[!UICONTROL Dynamic Chat にアクセス]**」を選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -74,7 +74,7 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. **Dynamic Chat** をクリックします。
+1. **[!UICONTROL Dynamic Chat]** をクリックします。
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -82,7 +82,7 @@ ht-degree: 100%
    >
    >複数の Marketo サブスクリプションがある場合は、次の手順の前に、目的のサブスクリプションを選択します。
 
-1. 「**ユーザー**」タブをクリックします。
+1. 「**[!UICONTROL ユーザー]**」タブをクリックします。
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -90,15 +90,15 @@ ht-degree: 100%
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 「**ユーザーを削除**」ボタンをクリックします。
+1. 「**[!UICONTROL ユーザーを削除]**」ボタンをクリックします。
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 「**ユーザーを削除**」をクリックして確定します。
+1. 「**[!UICONTROL ユーザーを削除]**」をクリックして確定します。
 
    ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console Users](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
 >* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -2,11 +2,11 @@
 description: Adobe PDF Embed API - Marketoドキュメント — 製品ドキュメント
 title: Adobe PDF Embed API
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 94%
+source-wordcount: '136'
+ht-degree: 88%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 94%
 
 1. [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"} に移動します。
 
-1. 「**資格情報の取得**」をクリックします。
+1. 「**[!UICONTROL 資格情報の取得]**」をクリックします。
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 94%
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. 資格情報を入力し、利用規約に同意して、「**資格情報を作成**」をクリックします。
+1. 資格情報を入力し、利用規約に同意して、「**[!UICONTROL 資格情報を作成]**」をクリックします。
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ ht-degree: 94%
    >
    >ユーザは、チャットボットをホストするドメインを使用する必要があります（例：mycompany.com でチャットボットをホストする場合は、必ず手順 4 で入力してください）。
 
-1. 「**コピー**」をクリックして、クライアント ID をコピーします。
+1. 「**[!UICONTROL コピー]**」をクリックして、クライアント ID をコピーします。
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. 動的チャットに戻り、「**統合**」をクリックします。Adobe PDF Embed API カードで、「**アクティベート**」をクリックします。
+1. 動的チャットに戻り、「**[!UICONTROL 統合]**」をクリックします。Adobe PDF Embed API カードで、「**[!UICONTROL アクティベート]**」をクリックします。
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. クライアント ID を貼り付けて、「**保存**」をクリックします。
+1. を貼り付けます。 [!UICONTROL クライアント ID] をクリックします。 **[!UICONTROL 保存]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

@@ -2,8 +2,8 @@
 description: 対話フローの作成 — Marketoドキュメント — 製品ドキュメント
 title: 対話フローの作成
 feature: Dynamic Chat
-exl-id: e3548ebc-0788-48ff-bac8-f8c240319f92
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 新しい対話フローの作成方法を次に示します。
 
-1. [ 自動チャット ] で、 **対話型のフロー**.
+1. の下 [!UICONTROL 自動チャット]をクリックし、 **[!UICONTROL 対話型のフロー]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. クリック **対話フローの作成**.
+1. クリック **[!UICONTROL 対話フローの作成]**.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. 空の対話フロー、または事前入力済みのテンプレートの 1 つを選択します。 名前を入力し（説明はオプション）、言語を変更し（オプション）、 **作成**.
+1. 空の対話フロー、または事前入力済みのテンプレートの 1 つを選択します。 名前を入力し（説明はオプション）、言語を変更し（オプション）、 **[!UICONTROL 作成]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 

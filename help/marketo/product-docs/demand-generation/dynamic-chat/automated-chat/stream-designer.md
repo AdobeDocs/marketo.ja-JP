@@ -3,10 +3,10 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 68%
+ht-degree: 62%
 
 ---
 
@@ -91,15 +91,15 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
 ダイアログのストリームを作成するか、 [対話型のForms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. この例では、ダイアログ用に 1 つ作成します。
 
-1. 以下の操作を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}をクリックし、 **ストリームデザイナー** タブをクリックします。
+1. 以下の操作を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}をクリックし、 **[!UICONTROL ストリームデザイナー]** タブをクリックします。
 
    ![](assets/stream-designer-6.png)
 
-1. 質問カードをドラッグ＆ドロップします。
+1. 次をドラッグ&amp;ドロップ： [!UICONTROL 質問] カード。
 
    ![](assets/stream-designer-7.png)
 
-1. 「チャットボットの回答」で、質問を入力します。
+1. の下 [!UICONTROL Chatbot 応答]、質問をお読みください。
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
    >
    >Poke はデフォルトでオンに設定されており、訪問者がチャットアイコンをクリックしなくてもチャットアイコンの横に開始の質問が表示されます。Poke は会話の最初のカードでのみ利用できます。
 
-1. ユーザの回答を入力し、「**保存**」をクリックします。
+1. ユーザの回答を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**保存済みの値を編集**&#x200B;は、質問カードでマッピングされた属性に対してチャットボットの訪問者に表示する値とは異なる値をデータベースに格納する場合のオプションの手順です（例：訪問者には「検索エンジン最適化」と表示されますが、この値を「SEO」として保存します）。
+   >**[!UICONTROL 保存済みの値を編集]**&#x200B;は、質問カードでマッピングされた属性に対してチャットボットの訪問者に表示する値とは異なる値をデータベースに格納する場合のオプションの手順です（例：訪問者には「検索エンジン最適化」と表示されますが、この値を「SEO」として保存します）。
 
 1. 「はい」の場合は、予定をスケジュールしたいので、下のオプションの予定スケジューラーカードにドラッグします。
 
    ![](assets/stream-designer-10.png)
 
-1. 右側の列で、「**保存**」をクリックします。
+1. 右側の列で、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-11.png)
 
-1. これは目標なので、予定スケジューラーの下にある目標カードをドラッグします。
+1. これは目標なので、 [!UICONTROL 目標] 予約スケジューラーの下のカード。
 
    ![](assets/stream-designer-12.png)
 
-1. 目標に名前を付け（または既存のものを選択）、「**保存**」をクリックします。
+1. 目標に名前を付け（または既存のものを選択）、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-13.png)
 
-1. 「いいえ」の場合は、ユーザがメーリングリストに登録するかどうかを確認したいので、その下に、別の質問カードをドラッグします。
+1. &quot;いいえ&quot;の場合は、彼らがメーリングリストに参加するかどうかを確認したいので、その下のオプションを別のオプションの上にドラッグします [!UICONTROL 質問] カード。
 
    ![](assets/stream-designer-14.png)
 
-1. 回答を入力し、訪問者の回答を追加します。終了したら「**保存**」をクリックします。
+1. 回答を入力し、訪問者の回答を追加します。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >「**回答を追加**」をクリックすると、さらに回答を追加できます。
+   >「**[!UICONTROL 回答を追加]**」をクリックすると、さらに回答を追加できます。
 
 1. 「はい」の回答の下で、情報キャプチャカードをドラッグして、訪問者のメールを収集できます。
 
    ![](assets/stream-designer-16.png)
 
-1. **タイプ**&#x200B;ドロップダウンをクリックして、「**メール**」を選択します。
+1. **[!UICONTROL タイプ]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL メール]**」を選択します。
 
    ![](assets/stream-designer-17.png)
 
-1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo の適切なフィールドにマッピングされていることを確認し、「**保存**」をクリックします。
+1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo の適切なフィールドにマッピングされていることを確認し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
     </tr>
    </table>
 
-1. メールの収集が目標なので、情報キャプチャの下にゴールカードをドラッグします。
+1. E メールの収集は目標なので、 [!UICONTROL 目標] 情報キャプチャの下のカード。
 
    ![](assets/stream-designer-19.png)
 
-1. 目標に名前を付け（または既存のものを選択）、「**保存**」をクリックします。
+1. 目標に名前を付け（または既存のものを選択）、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-21.png)
 
-1. この例では新規ドキュメントを作成します。名前を入力し、既にホストしている PDF の URL を入力して、「**保存**」をクリックします。
+1. この例では新規ドキュメントを作成します。名前を入力し、既にホストしている PDF の URL を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-22.png)
 
-1. 「**プレビュー**」切替スイッチを選択して、ダイアログをプレビューします。
+1. 「**[!UICONTROL プレビュー]**」切替スイッチを選択して、ダイアログをプレビューします。
 
    ![](assets/stream-designer-23.png)
 
-1. ダイアログをアクティブにする準備が整ったら、「**公開**」をクリックします。
+1. ダイアログをアクティブにする準備が整ったら、「**[!UICONTROL 公開]**」をクリックします。
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->「公開」をクリックする前に、必ず[ターゲット URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} を入力したことを確認してください。
+>クリックする前に [!UICONTROL 公開]、忘れずに [ターゲット URL を入力しました](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

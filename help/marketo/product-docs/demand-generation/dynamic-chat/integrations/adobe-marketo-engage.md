@@ -3,10 +3,10 @@ description: Adobe Marketo Engage - Marketoドキュメント — 製品ドキ�
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 82%
+source-wordcount: '273'
+ht-degree: 84%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 82%
 >
 >Dynamic Chatでの同期がサポートされます [Marketoネイティブ](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} およびカスタム担当者フィールドと会社フィールド。
 
-1. マイ Marketo で、**動的チャット**&#x200B;タイルをクリックします。
+1. マイ Marketo で、**[!UICONTROL 動的チャット]**&#x200B;タイルをクリックします。
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -30,19 +30,19 @@ ht-degree: 82%
 
 1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
-1. Marketo インスタンスに接続するには、**統合**&#x200B;を選択します。
+1. Marketo インスタンスに接続するには、**[!UICONTROL 統合]**&#x200B;を選択します。
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. Marketo カードで、「**同期を開始**」をクリックします。
+1. Marketo カードで、「**[!UICONTROL 同期を開始]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Marketo インスタンスから最大 50 個の属性（標準フィールドまたはカスタムフィールド）を選択し、動的チャットに同期して、オーディエンスのターゲティング、データマッピング、パーソナライゼーションに使用します。終了したら「**次へ**」をクリックします。
+1. Marketo インスタンスから最大 50 個の属性（標準フィールドまたはカスタムフィールド）を選択し、動的チャットに同期して、オーディエンスのターゲティング、データマッピング、パーソナライゼーションに使用します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. 選択内容を確認します。「**確認**」をクリックして同期を開始します。
+1. 選択内容を確認します。「**[!UICONTROL 確認]**」をクリックして同期を開始します。
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -54,15 +54,15 @@ ht-degree: 82%
 
 初回同期後に属性を追加する方法を以下に示します。
 
-1. 「**統合**」で、「**Adobe Marketo Engage**」タブが選択されていることを確認し、「**属性を追加**」をクリックします。
+1. 「**[!UICONTROL 統合]**」で、「**[!UICONTROL Adobe Marketo Engage]**」タブが選択されていることを確認し、「**[!UICONTROL 属性を追加]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. 追加する属性を選択し、「**次へ**」をクリックします。
+1. 追加する属性を選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. 選択内容を確認し、「**確認**」をクリックします。
+1. 選択内容を確認し、「**[!UICONTROL 確認]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -74,11 +74,11 @@ ht-degree: 82%
 >
 >属性を削除するオプションは、現在どのダイアログでも使用されていない場合にのみ表示されます。
 
-1. 「**統合**」で、「**Adobe Marketo Engage**」タブが選択されていることを確認し、削除する属性をクリックします。
+1. 「**[!UICONTROL 統合]**」で、「**[!UICONTROL Adobe Marketo Engage]**」タブが選択されていることを確認し、削除する属性をクリックします。
 
    ![](assets/adobe-marketo-engage-9.png)
 
-1. 「**属性を削除**」をクリックします。
+1. 「**[!UICONTROL 属性を削除]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-10.png)
 

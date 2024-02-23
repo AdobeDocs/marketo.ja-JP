@@ -2,8 +2,8 @@
 description: ダイアログの概要 - Marketo ドキュメント - 製品ドキュメント
 title: ダイアログの概要
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 92%
@@ -64,10 +64,10 @@ ht-degree: 92%
 
 すべての公開ダイアログを同時に無効（または再度有効）にできます。
 
-1. 動的チャットで、「**設定**」タブをクリックします。
+1. 動的チャットで、「**[!UICONTROL 設定]**」タブをクリックします。
 
    ![](assets/dialogue-overview-4.png)
 
-1. **チャットを有効**&#x200B;切替スイッチで、すべてのダイアログを無効（または再度有効）にできます。
+1. **[!UICONTROL チャットを有効]**&#x200B;切替スイッチで、すべてのダイアログを無効（または再度有効）にできます。
 
    ![](assets/dialogue-overview-5.png)
