@@ -1,22 +1,22 @@
 ---
-description: Live Chat の概要 — Marketoドキュメント — 製品ドキュメント
-title: ライブチャットの概要
+description: ライブチャット 概要 - Marketo ドキュメント - 製品ドキュメント
+title: ライブチャット概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
 
 ---
 
-# ライブチャットの概要 {#live-chat-overview}
+# ライブチャット概要 {#live-chat-overview}
 
-ライブチャットを使用すると、ウェブサイトの訪問者がセールスエージェントとリアルタイムでチャットできるようになります。
+ライブチャットを使用すると、Webサイトの訪問者は販売代理店とリアルタイムのチャット会話に参加できます。
 
 >[!NOTE]
 >
->対話型フローとライブチャットは、Dynamic Chat選択パッケージ上のユーザーに対して 100 のエンゲージメントの総ライフタイム制限を持つトライアル機能です。 この制限に達すると、すべての公開済みの対話フローがトリガーされなくなり、ライブエージェントとのチャットを要求した訪問者がグローバルなフォールバックメッセージを受け取ります。 この制限を増やすには、アカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
+>会話フローとライブチャットは共有トライアル機能であり、Dynamic Chat Select パッケージのエンゲージメントの合計全期間制限は 100 です。 この制限に達すると、公開されたすべての会話フローのトリガーが停止し、ライブエージェントとのチャットリクエスト訪問者はグローバルフォールバックメッセージを受信します。 この制限を増やすには、アカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
 
 ## ライブチャットエージェントの追加 {#add-live-chat-agents}
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
 
-でライブチャットカードを使用します。 [ストリームデザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 訪問者がライブエージェントとチャットする場合。
+ストリーム デザイナー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}の[ライブ チャット カードは、訪問者にライブ エージェントとチャットさせる場合に使用します。
 
 ![](assets/live-chat-overview-1.png)
 
@@ -41,11 +41,11 @@ ht-degree: 1%
 ### ベストプラクティス {#best-practices}
 
 * ライブチャットカードの前に質問カードを使用して、訪問者に接続を希望するかどうかを尋ねます。
-* 訪問者がの接続に同意したら、情報キャプチャカードを使用して、氏名、E メールアドレス、職位など、情報の一部を収集します。 （少なくとも名と E メールアドレスをリクエストすることをお勧めします）。
+* 訪問者が接続に同意したら、情報キャプチャカードを使用して、姓名、電子メールアドレス、役職などの情報を収集します。 (少なくとも名とメールアドレスリクエストことをお勧めします)。
 
-## Live Chat カードのオプション {#live-chat-card-options}
+## ライブチャットカードオプション {#live-chat-card-options}
 
-ストリーム内のライブチャットカードをクリックすると、訪問者のルーティング方法を選択できます。 ラウンドロビン、エージェント、カスタムルール、チームから選択できます。
+ストリーム内のライブチャットカードをクリックすると、訪問者のルーティング方法を選択できます。 ラウンドロビン、エージェント、カスタムルール、またはチームから選択します。
 
 ![](assets/live-chat-overview-2.png)
 
@@ -53,15 +53,15 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><b>ラウンドロビン</b></td>
-   <td>チャットは、エージェントに順番に割り当てられます。</td>
+   <td>チャットは順番にエージェントに割り当てられます。</td>
   </tr> 
   <tr> 
    <td><b>エージェント</b></td>
    <td>チャットを受信する特定のエージェントを選択します。</td>
   </tr>
     <tr> 
-   <td><b>カスタムルール</b></td>
-   <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。 訪問者がカスタムルールの対象でない場合、 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットフォールバックメッセージ</a>.</td>
+   <td><b>特例文字 ルール</b></td>
+   <td>すべてを選択カスタムルールは、訪問者のルーティング先を検討する際に循環します。 訪問者がカスタムルールの対象とならない場合は、 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットフォールバックメッセージが表示されます</a>。</td>
   </tr> 
   <tr> 
    <td><b>チーム</b></td>
@@ -72,11 +72,13 @@ ht-degree: 1%
 
 ## ライブチャット通知 {#live-chat-notifications}
 
-ライブチャットのブラウザ通知を受け取るには、すべてのライブチャットエージェントが、要求されたときにDynamic Chatのブラウザ通知を有効にする必要があります。
+>[!IMPORTANT]
+>
+>ライブチャットのブラウザ通知を受け取るには、すべてのライブチャットエージェントが、要求されたときにDynamic Chatのブラウザ通知を有効にする必要があります。
 
 ### 通知の有効化 {#enabling-notifications}
 
-Live Chat エージェントは、ログイン時に画面の上部に「Please enable browser notifications to receive live chat notifications」と表示されます。 クリック **有効にする**.
+ライブチャットエージェントは、ログイン時に画面の上部に「ライブチャット通知を受信するにはブラウザー通知を有効にしてください」というバナーが表示されます。 「Enable **」をクリックします**。
 
 ![](assets/live-chat-overview-4.png)
 
@@ -92,16 +94,16 @@ Live Chat エージェントは、ログイン時に画面の上部に「Please 
 
 ### ライブチャットがエージェントにルーティングされたとき {#when-a-live-chat-is-routed-to-an-agent}
 
-ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、受け入れを求められます。
+ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、承諾を求められます。
 
 ![](assets/live-chat-overview-3.png)
 
 >[!TIP]
 >
->また、ブラウザー通知を設定するオプションもあります。ブラウザー通知は、Dynamic Chatにログインしていない場合に通知を受け取ります。
+>また、Dynamic Chatにログインしていない場合にアラートブラウザー通知を設定するオプションもあります。
 >
->* でのブラウザー通知の有効化 [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* でのブラウザー通知の有効化 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+>* Google クロム で [ブラウザー通知を有効にする](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Mozilla Firefox で [ブラウザー通知を有効にする](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### 注意事項 {#things-to-note}
 
