@@ -1,20 +1,24 @@
 ---
-description: インボックストラッカーのTutorials- Marketoドキュメント — 製品ドキュメント
+description: E メール配信 PowerpackMarketo Engageの配信品質の問題をテスト、監視、理解します。
 title: インボックストラッカーTutorials
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# インボックストラッカーTutorials {#inbox-tracker-tutorials.md}
+# インボックストラッカーTutorials {#inbox-tracker-tutorials}
 
-Marketoの E メール配信品質 Powerpack（MessageBird の受信ボックストラッカープラットフォームを利用）の配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスと E メールのレンダリング/受信ボックステストの先見を組み合わせて、E メールのパフォーマンスを最大化する単一のアプリケーションです。
+Bird（旧称 MessageBird）インボックストラッカープラットフォームによるMarketo EngageE メール配信品質 Powerpack の配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスと E メールのレンダリング/受信ボックステストの先見を組み合わせて、E メールのパフォーマンスを最大化する単一のアプリケーションです。
 
-この強力なツールを最大限に活用するためのトレーニングビデオを MessageBird が作成しました。
+>[!AVAILABILITY]
+>
+>すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+
+Bird は、この強力なツールを最大限に活用するためのトレーニングビデオをいくつか作成しました。
 
 ## インボックストラッカーの概要 {#inbox-tracker-overview}
 

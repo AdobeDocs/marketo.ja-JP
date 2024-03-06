@@ -4,20 +4,20 @@ description: メール到達率パワーパック：シードリストのイン�
 title: メール到達率パワーパック：シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 94%
+source-wordcount: '332'
+ht-degree: 78%
 
 ---
 
 # メール到達率パワーパック：シードリストのインポート方法 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。このリストを Marketo インスタンスに取り込む方法を次に示します。
+シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。このリストをMarketoインスタンスに取り込む方法を次に示します。
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>この記事は、現時点でアクティブなエベレストサブスクリプションを持つユーザー向けです。 Bird（旧称 MessageBird）による受信ボックストラッカーを使用する場合は、チュートリアル [ここにあります](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## シードリストのインポート {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ ht-degree: 94%
    >
    >Everest でリストを最適化する場合は、（ページ上部にある）シードリストオプティマイザーを使用します。
 
-1. エクスポート後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
+1. 書き出し後、リストは.txt ファイルとしてブラウザーの downloads フォルダーに表示されます。 取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
    ![](assets/email-deliverability-power-pack-5.png)
 
@@ -57,4 +57,4 @@ ht-degree: 94%
 
 シードリストは、毎月同じ頻度で変更される場合があります。メール到達率パワーパックに定期的にログインし、シードリストのステータスを確認することが重要です。新しいアドレスが追加されたり、自分側でアップデートが必要な場合は、アプリケーションの左下にある通知アイコンでアラートが表示されます。
 
-Marketo で静的リストを作成したら、そのリストへの送信を開始して、メールのインボックスへの配置をテストできます。
+Marketoで静的リストを作成したら、そのリストへの送信を開始して、電子メールのインボックスへの配置をテストできます。
