@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: メール到達率パワーパック：シードリストのインポート方法 - Marketo ドキュメント - 製品ドキュメント
-title: メール到達率パワーパック：シードリストのインポート方法
+description: シードリストをMarketo Engageインスタンスに読み込む方法を説明します。
+title: E メール配信パワーパック — シードリストのインポート方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 78%
+source-wordcount: '333'
+ht-degree: 70%
 
 ---
 
 # メール到達率パワーパック：シードリストのインポート方法 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。このリストをMarketoインスタンスに取り込む方法を次に示します。
+シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。次に、そのリストをMarketo Engageインスタンスに取り込む手順を示します。
 
 >[!IMPORTANT]
 >
