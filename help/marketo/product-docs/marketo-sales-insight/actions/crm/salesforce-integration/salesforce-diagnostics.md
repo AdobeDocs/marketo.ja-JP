@@ -3,10 +3,10 @@ description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメ
 title: Salesforce 診断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
-ht-degree: 100%
+source-wordcount: '1374'
+ht-degree: 98%
 
 ---
 
@@ -138,7 +138,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 
 **エラー：** INVALID_TYPE\
 **カテゴリ：**&#x200B;アクセス/検証\
-**メッセージ：** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at Row:1:Column:53sObject type &#39;Lead&#39; is not supported.カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。Please reference your WSDL or the describe call for the appropriate names
+**メッセージ：** CreatedDate, （タスクから ID を選択） FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` タイプ「リード」はサポートされていません。 カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。Please reference your WSDL or the describe call for the appropriate names
 **状況：**&#x200B;ユーザがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザがリードオブジェクトに対する権限を持っていないことが原因である可能性が高いです。\
 **トラブルシューティング手順：** Salesforce のリードオブジェクトに対して読み取りおよび更新アクセス権を付与するか、リードレコードへのメールログと最新のアクティビティのログをオフにします。
 
