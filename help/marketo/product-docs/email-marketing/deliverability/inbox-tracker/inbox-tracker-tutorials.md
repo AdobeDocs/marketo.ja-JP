@@ -1,18 +1,18 @@
 ---
-description: E メール配信 PowerpackMarketo Engageの配信品質の問題をテスト、監視、理解します。
+description: インボックストラッカーの配信品質の問題をテスト、監視、理解します。
 title: インボックストラッカーTutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # インボックストラッカーTutorials {#inbox-tracker-tutorials}
 
-Bird（旧称 MessageBird）インボックストラッカープラットフォームによるMarketo EngageE メール配信品質 Powerpack の配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスと E メールのレンダリング/受信ボックステストの先見を組み合わせて、E メールのパフォーマンスを最大化する単一のアプリケーションです。
+Bird（旧称 MessageBird）受信ボックストラッカープラットフォームによる E メール配信ツールの配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスと E メールのレンダリング/受信ボックステストの先見を組み合わせて、E メールのパフォーマンスを最大化する単一のアプリケーションです。
 
 >[!AVAILABILITY]
 >

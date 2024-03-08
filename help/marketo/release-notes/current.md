@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 46%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 46%
   </tr>
   <tr> 
    <td><strong>高度な対話フローロジック</strong>：対話型フローのフォローアップ用に、単一の選択で評価用のフィールドを追加します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageFormsの対話型フロー設定</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ ht-degree: 46%
    </tr>
     <tr> 
    <td><strong>対話型フローロジックの並べ替え</strong>:Marketo EngageFormsでは、会話フローの選択肢を、削除して元に戻す代わりに並べ替えることができるようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageFormsの対話型フロー設定</a></td>
    </tr>
   <tr> 
    <td> </td> 

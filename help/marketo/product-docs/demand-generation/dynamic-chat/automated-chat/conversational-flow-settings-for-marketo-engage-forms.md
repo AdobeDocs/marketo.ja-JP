@@ -3,10 +3,10 @@ description: Marketo EngageFormsの対話フロー設定 — Marketoドキュメ
 title: Marketo EngageFormsの対話フロー設定
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 7%
+source-wordcount: '285'
+ht-degree: 4%
 
 ---
 
@@ -38,7 +38,7 @@ Marketo EngageFormsを対話型フローと統合して、対話型フローをD
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. 目的の対話フローおよび配信タイプを選択します。
+1. 目的のを選択します。 **[!UICONTROL 対話フロー]** および **[!UICONTROL 配信タイプ]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Marketo EngageFormsを対話型フローと統合して、対話型フローをD
    >
    >[対話型フローの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **オプションの手順**:「選択肢の追加」をクリックすると、特定の条件を満たすチャット訪問者をターゲットに設定できます。
+   **オプションの手順**: **[!UICONTROL 選択肢を追加]** 特定の条件を満たすチャット訪問者をターゲットにします。 合計 10 個に対して最大 9 つの選択肢を追加できます。
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >訪問者のブラウザーが静的/スマートリストのメンバーに認定されるには、フォーム送信の前に、cookie が既知のユーザーである必要があります。
 
-1. クリック **[!UICONTROL 完了]** 完了したら、
+   **オプションの手順**: **+** 各手順内で署名して属性を追加し、ターゲットオーディエンスを絞り込むことができます（使用可能な属性は、フォーム用に選択したフィールドです）。 この例では、カリフォルニア州のAdobeテクニカルライターをターゲットにしています。
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >条件ロジックを「all」に設定すると、条件を満たすためにすべての属性が満たされる必要があることを意味します。 条件ロジックを「any」に設定した場合、任意の属性で十分であることを意味します。
+
+   **オプションの手順**:2 つ以上の選択肢を追加する場合は、上下の矢印をクリックして並べ替えることができます。
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. クリック **[!UICONTROL 完了]** 完了したら、
+
+   ![](assets/conversational-flow-settings-10.png)
