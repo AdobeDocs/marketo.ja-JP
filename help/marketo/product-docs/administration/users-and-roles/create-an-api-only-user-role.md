@@ -4,16 +4,16 @@ description: API 専用ユーザーロールの作成 - Marketo ドキュメン�
 title: API 専用ユーザーロールの作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 45475b06e4070bbfacf61230465179d7bd445cfb
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 72%
 
 ---
 
 # API 専用ユーザーロールの作成 {#create-an-api-only-user-role}
 
-[REST API](https://developers.marketo.com/documentation/rest/) を使用して Marketo と統合する場合、ベストプラクティスは[ユーザーに API のみのロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)を割り当て、使用するカスタムサービスを [REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) で作成することです。API 専用ユーザーロールを作成する方法を以下に示します。
+を使用してMarketoと統合する場合は、 [REST API](https://developers.marketo.com/documentation/rest/)を使用する場合、ベストプラクティスは次のとおりです。 [ユーザーに API のみの役割を割り当てる](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) その後 [REST API で使用するカスタムサービスを作成する](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). API 専用ユーザーロールを作成する方法を以下に示します。
 
 >[!NOTE]
 >
