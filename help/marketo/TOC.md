@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
 workflow-type: tm+mt
-source-wordcount: '9288'
+source-wordcount: '9282'
 ht-degree: 97%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 97%
    + TEMP 開始領域 {#temp-getting-started-area}
       + [管理](getting-started/temp-getting-started-area/admin.md)
       + [データベース](getting-started/temp-getting-started-area/database.md)
+      + [マーケティング活動](getting-started/temp-getting-started-area/marketing-activities.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
@@ -108,7 +109,6 @@ ht-degree: 97%
          + [次世代 Munchkin トラッキングに関する FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [ポータルへのシングルサインオンの追加](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Webex を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [Workplace by Facebook を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Zoom を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [SOAP API の設定](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [BrightTALK の Marketo 接続](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
