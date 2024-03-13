@@ -4,9 +4,9 @@ description: リリースノート - 2018 年春 - Marketo ドキュメント - 
 title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 100%
 
 ---
@@ -76,10 +76,6 @@ Marketo Sky オープンベータ版をオプトインして、次のような�
 ContentAI 最適化アルゴリズムの目標を設定して、より多くのビュー、クリックまたはコンバージョンを促進します。
 
 ## 統合と API {#integration-and-apis}
-
-[Facebook Workplace の統合](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-システム通知と注目のアクションを Facebook Workplace に送信します。
 
 [静的リスト API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
