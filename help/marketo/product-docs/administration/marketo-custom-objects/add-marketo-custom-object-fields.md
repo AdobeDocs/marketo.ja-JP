@@ -4,10 +4,10 @@ description: Marketo カスタムオブジェクトフィールドの追加 - Ma
 title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. 「**[!UICONTROL フィールド]**」タブをクリックして、「**[!UICONTROL 新しいフィールド]**」をクリックします。
+1. 次をクリック： **[!UICONTROL フィールド]** タブ、 **[!UICONTROL 新しいフィールド]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
