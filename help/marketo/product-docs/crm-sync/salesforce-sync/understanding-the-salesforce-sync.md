@@ -5,15 +5,15 @@ title: Salesforce 同期について
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
-workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '221'
+ht-degree: 100%
 
 ---
 
 # Salesforce 同期について {#understanding-the-salesforce-sync}
 
-Marketo Engageと Salesforce は、豆やニンジンのように一緒に移動します。 お客様の販売データとマーケティングデータの同期を維持します。
+Marketo Engageと Salesforce は密接に連携しています。お客様の販売データとマーケティングデータの同期を維持します。
 
 ## 同期の仕組み {#how-sync-works}
 
