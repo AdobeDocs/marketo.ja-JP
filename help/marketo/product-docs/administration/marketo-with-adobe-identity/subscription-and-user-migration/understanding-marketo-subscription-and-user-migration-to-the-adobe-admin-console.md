@@ -3,9 +3,9 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
 workflow-type: tm+mt
-source-wordcount: '1323'
+source-wordcount: '1327'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 2%
 
 Adobeは、Adobe Marketo Engageのサブスクリプションとユーザーの管理方法を強化し、ユーザーと組織の生産性を高めています。 この変更の一環として、Adobeは、Marketo Engageの購読とユーザーをAdobe Admin Consoleに移行中です。 これは必要な移行であり、マーケティングワークフロー、コンテンツ、統合、アセットには影響しません。
 
-Adobe Admin Consoleを使用して、 [エンタープライズ版およびチーム版管理ガイド](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+>[!TIP]
+>
+>Adobe Admin Consoleを使用して、 [エンタープライズ版およびチーム版管理ガイド](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
 
 ## 変更点 {#what-is-changing}
 
@@ -26,11 +28,15 @@ Adobe Admin Consoleを使用して、 [エンタープライズ版およびチ�
 
 * **ユーザーはAdobeID でサインインします**. Adobeは、既存のユーザーをAdobe Admin Consoleに移行します。 ユーザーは、Adobe IDまたはAdobeFederated ID(SSO) の新しいAdobeID を使用してMarketoサブスクリプションにログインします。
 
+## 変更されないもの {#what-is-not-changing}
+
 * **その他のすべての機能の管理方法に変更はありません** 機能、Marketo Engageの役割、ワークスペース、機能、動作の管理を含む、ユーザーアプリケーション自体内。
 
 ## 移行ジャーニーのタイムライン {#migration-journey-timeline}
 
 Adobeは、まずMarketo EngageサブスクリプションをAdobe Admin Consoleに移行してから、検証済みの電子メールアドレスを持つ既存のすべてのユーザーを移行します。 システム管理者またはMarketo製品管理者の方は、移行プロセスをガイドする電子メールが届きます。 以下に、期待できるタイムラインを示します。
+
+![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
 ### 配信登録の移行が完了しました {#subscription-migration-complete}
 
