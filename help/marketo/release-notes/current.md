@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 40%
+source-wordcount: '380'
+ht-degree: 36%
 
 ---
 
@@ -68,3 +68,70 @@ ht-degree: 40%
  </tbody> 
 </table>
 <br/>
+
+## お知らせ {#announcements}
+
+* **アクティビティ API の更新**:4 月 27 日に、Web ベースおよび E メールベースのアクティビティに、 [Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activitys/getAllActivityTypesUsingGET){target="_blank"} エンドポイント：各アクティビティの属性の詳細を確認します。
+
+**Web ベースのアクティビティ**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">アクティビティ</th> 
+   <th style="width:70%">新しく追加された属性</th>
+   </tr>
+  <tr> 
+   <td>Visit Webpage</td> 
+   <td>ブラウザー、プラットフォーム、デバイス</td>
+  </tr>
+   <tr> 
+   <td>フォームの入力</td> 
+   <td>ブラウザー、プラットフォーム、デバイス</td>
+  </tr>
+  <tr> 
+   <td>リンクをクリック</td> 
+   <td>ブラウザー、プラットフォーム、デバイス</td>
+  </tr>
+ </tbody> 
+</table>
+
+**電子メールベースのアクティビティ**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">アクティビティ</th> 
+   <th style="width:70%">新しく追加された属性</th>
+  </tr>
+   <tr> 
+   <td>メールの送信</td> 
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>配信済みメール</td> 
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+  </tr>
+   <tr> 
+   <td>バウンスメール</td> 
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+  </tr>
+  <tr> 
+   <td>メールの配信停止</td> 
+   <td>ブラウザー、プラットフォーム、デバイス</td>
+  </tr>
+  <tr> 
+   <td>メールを開く</td> 
+   <td>ブラウザー</td>
+  </tr>
+   <tr> 
+   <td>メールをクリック</td> 
+   <td>ブラウザー</td>
+  </tr>
+  <tr> 
+   <td>ソフトバウンスメール</td> 
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+  </tr>
+ </tbody> 
+</table>

@@ -4,7 +4,7 @@ title: NEW AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 18%
@@ -141,7 +141,7 @@ ht-degree: 18%
 <tbody>
   <tr>
     <td>フォルダー構造</td>
-    <td><li>アセットのタイプごとにサブフォルダーを作成し、 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">グローバルアセットを整理する</a>（例：電子メールテンプレート、電子メール、フォーム、画像およびファイル、ランディングページ、ランディングページテンプレート）を適切かつ簡単に検索できるようにする。</li></td>
+    <td><li>アセットのタイプごとにサブフォルダーを作成し、 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">グローバルアセットを整理する</a> （例：電子メールテンプレート、電子メール、フォーム、画像およびファイル、ランディングページ、ランディングページテンプレート）を適切かつ簡単に検索できるようにする。</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">フォルダーを使用した画像とファイルの整理</a></td>
   </tr>
 </tbody>
