@@ -3,10 +3,10 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 62%
+source-wordcount: '1128'
+ht-degree: 58%
 
 ---
 
@@ -156,7 +156,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-17.png)
 
-1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo の適切なフィールドにマッピングされていることを確認し、「**[!UICONTROL 保存]**」をクリックします。
+1. チャットボットのメッセージとプレースホルダーを入力します。属性がマッピング済みであることを確認し、「Marketo Engage」で「 **[!UICONTROL 保存]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
     </tr>
     <tr>
      <td style="width:30%"><strong>回答を属性にマッピング</strong></td>
-     <td>訪問者の回答を、Marketo サブスクリプション内のユーザレコードの対応するフィールドに同期できます。</td>
+     <td>訪問者の応答を、訪問者サブスクリプション内のユーザーレコードの対応するフィールドにMarketo Engageできます。</td>
     </tr>
    </table>
 
