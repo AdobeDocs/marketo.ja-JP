@@ -6,116 +6,116 @@ feature: Marketo with Adobe Identity
 source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
 workflow-type: tm+mt
 source-wordcount: '1327'
-ht-degree: 2%
+ht-degree: 94%
 
 ---
 
 # Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-Adobeは、Adobe Marketo Engageのサブスクリプションとユーザーの管理方法を強化し、ユーザーと組織の生産性を高めています。 この変更の一環として、Adobeは、Marketo Engageの購読とユーザーをAdobe Admin Consoleに移行中です。 これは必要な移行であり、マーケティングワークフロー、コンテンツ、統合、アセットには影響しません。
+アドビでは、Adobe Marketo Engage のサブスクリプションとユーザの管理方法を強化し、ユーザと組織の生産性向上を実現しています。この変更の一環として、アドビは Marketo Engage のサブスクリプションとユーザを Adobe Admin Console に移行中です。この移行は必須であり、マーケティングワークフロー、コンテンツ、統合、アセットには影響しません。
 
 >[!TIP]
 >
->Adobe Admin Consoleを使用して、 [エンタープライズ版およびチーム版管理ガイド](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+>Adobe Admin Console を使用して組織全体のアドビ資格を管理する方法については、[エンタープライズ版およびチーム版の管理者ガイド](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}を参照してください。
 
 ## 変更点 {#what-is-changing}
 
-移行の一環として、サブスクリプションとユーザー管理が、Marketoアプリケーション内からAdobe Admin Consoleに移行します。
+移行の一環として、Marketo アプリケーション内のサブスクリプションとユーザ管理が、Adobe Admin Console に移行します。
 
-* **システム管理者がAdobe Admin Consoleの購読を管理します**. 1 つのコンソールですべてのAdobe製品を表示できます。
+* **システム管理者が Adobe Admin Console でサブスクリプションを管理します**。1 つのコンソールですべてのアドビ製品を確認できます。
 
-* **製品管理者は、Adobe Admin Consoleでユーザーとそのアクセスを管理します**. すべてのユーザー購読のユーザーを追加および削除するAdobe。
+* **製品管理者が Adobe Admin Console でユーザとそのアクセスを管理します**。すべてのアドビサブスクリプションのユーザを追加および削除します。
 
-* **ユーザーはAdobeID でサインインします**. Adobeは、既存のユーザーをAdobe Admin Consoleに移行します。 ユーザーは、Adobe IDまたはAdobeFederated ID(SSO) の新しいAdobeID を使用してMarketoサブスクリプションにログインします。
+* **ユーザは Adobe ID でログインします**。アドビでは、既存のユーザを Adobe Admin Console に移行します。ユーザは、新しい Adobe ID（Adobe ID または Adobe Federated ID（SSO）のいずれか）を使用して、Marketo サブスクリプションにログインします。
 
 ## 変更されないもの {#what-is-not-changing}
 
-* **その他のすべての機能の管理方法に変更はありません** 機能、Marketo Engageの役割、ワークスペース、機能、動作の管理を含む、ユーザーアプリケーション自体内。
+* Marketo Engage アプリケーション自体では、**それ以外のすべての機能の管理方法に変更はありません**（ユーザロール、ワークスペース、動作の管理など）。
 
 ## 移行ジャーニーのタイムライン {#migration-journey-timeline}
 
-Adobeは、まずMarketo EngageサブスクリプションをAdobe Admin Consoleに移行してから、検証済みの電子メールアドレスを持つ既存のすべてのユーザーを移行します。 システム管理者またはMarketo製品管理者の方は、移行プロセスをガイドする電子メールが届きます。 以下に、期待できるタイムラインを示します。
+アドビでは、まず Marketo Engage サブスクリプションを Adobe Admin Console に移行したあと、検証済みのメールアドレスを持つすべての既存ユーザを移行します。システム管理者または Marketo 製品管理者には、移行ジャーニーをガイドするメールが届きます。以下に、予想できる作業のタイムラインを示します。
 
 ![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
-### 配信登録の移行が完了しました {#subscription-migration-complete}
+### サブスクリプション移行の完了 {#subscription-migration-complete}
 
-Adobe Admin Consoleへのサブスクリプションの移行が完了すると、システム管理者に電子メールが送信されます。
+Adobe Admin Console へのサブスクリプションの移行が完了すると、システム管理者にメールが届きます。
 
-システム管理者は、ユーザーの移行を開始する前に、Marketoユーザーへの影響を最小限に抑えるために、必要な手順をいくつか完了する必要がある場合があります。
+システム管理者は、Marketo ユーザへの影響を最小限に抑えるために、場合によっては、ユーザの移行を開始する前にいくつかの必要な手順を完了する必要があります。
 
-* Marketoユーザーが現在 SSO でログインしている場合は、Adobe Admin Consoleで SSO を設定して、ユーザーが SSO でログインを続行できるようにする必要があります。 Marketoユーザーが現在 SSO を利用していないのにAdobe Admin Consoleで設定したい場合は、移行ジャーニーのこの時点で設定できます。
+* Marketo ユーザが現在 SSO でログインしている場合は、Adobe Admin Console で SSO を設定して、ユーザが引き続き SSO でログインできるようにする必要があります。Marketo ユーザが現在 SSO を利用していないが、Adobe Admin Console で SSO を設定したい場合は、移行ジャーニーのこの時点で設定できます。
 
-* Adobe Admin Consoleで他のAdobe製品を既に管理している場合、Adobeは、既存のコンソールにユーザーを自動的に移行する同意を求める場合があります。 電子メールの「使用を開始」ボタンをクリックして、同意ページに移動します。
+* Adobe Admin Console で他のアドビ製品を既に管理している場合、アドビは、既存のコンソールにユーザを自動的に移行する同意を求める場合があります。メールの「使用を開始」ボタンをクリックして、同意ページに移動します。
 
-現時点では、ユーザー管理に変更はありません。 Marketo製品はAdmin Consoleに表示されますが、Marketo管理者は引き続きMarketo Admin 領域でユーザーを管理し、ユーザーの移行が完了するまで、Marketo Id でログインし続けます。 この間、Marketo製品は、ユーザーの移行が開始されるまでAdmin Consoleで管理できません。 これには、サブスクリプションに関連付けられたDynamic Chatインスタンスが含まれます。
-
->[!NOTE]
->
->現在 SSO を使用していないが実装を検討している場合は、ユーザー移行を行う前に実行することをお勧めします。 シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
-
-### ユーザー移行のスケジュール設定 {#schedule-user-migration}
-
-前の節で説明した前提条件をシステム管理者が完了すると、Adobeは 30 日前にユーザー移行のスケジュールを自動的に設定し、Marketoの製品管理者に連絡して、ユーザー移行を管理します。
-
-Marketo製品管理者がおこなう操作：
-
-* 30 日前に予定されているユーザー移行開始日を記載した電子メールを受け取ります。
-
-* Marketo Admin 領域にあるMarketo Migration Console にアクセスできます。このコンソールでは、サブスクリプションの移行日を変更することができます。
+現時点では、ユーザ管理に変更はありません。Marketo 製品は Admin Console に表示されますが、Marketo 管理者は引き続き Marketo 管理者エリアでユーザを管理し、ユーザは移行が完了するまで、引き続き Marketo ID でログインします。この間、ユーザの移行が開始されるまで、Marketo 製品を Admin Console で管理することはできません。これには、サブスクリプションに関連付けられた Dynamic Chat インスタンスが含まれます。
 
 >[!NOTE]
 >
->移行が複雑なので、日付の変更はスケジュールされた日付から 30 日以内に制限されます。 電子メールの送信先 `marketocares@marketo.com` 後の日付が必要な場合。
+>現在 SSO を使用していないが実装を検討している場合は、ユーザ移行を行う前に実装することをお勧めします。シングルサインオンの実装を希望しており、アドビ組織に SSO が実装されていない状態でサブスクリプションが Adobe ID に既にオンボードされている場合は、[Marketo サポート](https://nation.marketo.com/){target="_blank"}にチケットを送信し、「Admin Console での Marketo、SSO の実装」というトピックを指定してください。
 
-* My Marketoのバナーに、「User Migration Start Date」へのカウントダウンが表示されます。
+### ユーザ移行のスケジュール設定 {#schedule-user-migration}
 
-* ユーザー移行開始日の前日に、リマインダーの電子メールを受け取ります。
+前の節で説明した前提条件をシステム管理者が完了すると、アドビは 30 日前にユーザ移行のスケジュールを自動的に設定し、Marketo の製品管理者に連絡して、ユーザ移行を管理します。
 
-### 移行日のユーザー準備 {#prepare-users-for-migration-day}
+Marketo 製品管理者の手順：
 
-Marketo製品管理者は、すべてのユーザーが移行に備えて 1 日以内に準備できるようにすることをお勧めします。
+* 予定されているユーザ移行開始日が記載されたメールを 30 日前に受け取ります。
 
-* チェック [電子メールの検証](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} 「 Marketo Admin 」領域のすべてのユーザーのステータス。 電子メールアドレスを検証していないユーザーに対して、検証プロセスを完了する際の課題を解決するよう促します。
-
-* AdobeID への今後の移行に備えて、すべてのユーザーを準備します。
+* Marketo 管理エリア内にある Marketo Migration Console にアクセスできます。このコンソールでは、サブスクリプションの移行日を変更することもできます。
 
 >[!NOTE]
 >
->ユーザーが移行すると、Marketoへのログイン方法の変更をAdobeから通知する電子メールが送信されます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいログインを設定して、初めて招待されます。
+>移行が複雑なので、日付の変更は予定日から 30 日以内に制限されます。もっと後の日付にする必要がある場合は、`marketocares@marketo.com` までメールを送信してください。
+
+* My Marketo のバナーに、ユーザ移行開始日までのカウントダウンが表示されるのを確認します。
+
+* ユーザ移行開始日の前日に、リマインダーメールが届きます。
+
+### 移行日に向けてユーザの準備 {#prepare-users-for-migration-day}
+
+Marketo 製品管理者は、すべてのユーザが移行日に向けて準備ができていることを確認してください。
+
+* Marketo 管理エリアですべてのユーザの[メール検証](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}ステータスを確認します。メールアドレスを検証していないユーザに対して、検証を行うように促し、検証プロセスを完了する際の課題を解決できるように支援します。
+
+* すべてのユーザに、今後行われる Adobe ID への移行の準備をさせます。
+
+>[!NOTE]
+>
+>ユーザが移行すると、Marketo へのログイン方法の変更を通知するメールがアドビから届きます。ユーザは Adobe ID を使用した初回ログインの招待を受け入れるよう求められます。既存の Adobe ID でログインするか、同じメールアドレスを使用して新しい Adobe ID を設定して行います。
 
 >[!IMPORTANT]
 >
->Marketo Engageユーザーが E メールアドレスを検証しない場合、ユーザーはAdobe IDに移行されず、サブスクリプションの移行が完了した後でMarketoサブスクリプションにアクセスできなくなります。 Marketo製品管理者がアクセスを再度取得するには、新しいユーザーとして追加する必要があります。
+>Marketo Engage ユーザがメールアドレスを検証しない場合、Adobe ID に移行されず、サブスクリプションの移行が完了しても Marketo サブスクリプションにアクセスできなくなります。再度アクセスできるようにするには、Marketo 製品管理者によって新しいユーザとして追加される必要があります。
 
-### 移行日に期待される事項 {#what-to-expect-on-migration-day}
+### 移行日に行われること {#what-to-expect-on-migration-day}
 
-米国タイムゾーンのMarketoサブスクリプションは、移行開始日の午前 0 時（太平洋標準時）以降に移行されます。 その他すべてのサブスクリプションのユーザー移行は、サブスクリプションの指定されたタイムゾーンの午前 0 時に開始されます。
+米国タイムゾーンのすべての Marketo サブスクリプションは、移行開始日の午前 0 時（太平洋標準時）から移行されます。その他すべてのサブスクリプションのユーザ移行は、サブスクリプションの指定タイムゾーンの午前 0 時に開始されます。
 
-**Adobeが最初にMarketo管理者を自動的に移行します**. Marketo管理者がAdobeID に移行されると、Marketoアプリケーション内でAdobe製品管理者の役割と、以前の役割が割り当てられます。
+**アドビは最初に Marketo 管理者を自動的に移行します**。Marketo 管理者が Adobe ID に移行されると、以前に割り当てられていた他のロールとともに、Marketo アプリケーション内のアドビ製品管理者ロールが割り当てられます。
 
-**Marketoサブスクリプションのユーザー数が 75 人未満で、MarketoやAdobe組織で SSO を使用していない場合。**&#x200B;の場合、Adobeは残りのユーザーを自動的に移行します。 このワークフローは、最高レベルの自動化を実現し、AdobeのMarketoユーザーのオーバーヘッドを最小限に抑えることを目的としています。 移行を実行するために必要なアクションはありません。
+**Marketoサブスクリプションのユーザー数が 75 人未満で、MarketoやAdobe組織で SSO を使用していない場合。**&#x200B;の場合、Adobeは残りのユーザーを自動的に移行します。 このワークフローは、最高レベルの自動化を実現して、Adobe Marketo ユーザのオーバーヘッドを最小限に抑えることを目的としています。移行を実行するためにユーザ側で必要なアクションはありません。
 
-**Marketoサブスクリプションのユーザーが 75 人を超えている、またはMarketoやAdobe組織で SSO を使用している場合**&#x200B;を使用すると、Marketo製品管理者は、Marketo Admin Area にあるMarketo Migration Console のセルフサービスユーザー移行領域にアクセスできます。 ユーザー移行プロセス中により詳細な制御を必要とするユーザーに対して、Marketo製品管理者は、一括またはすべてを一度に移行するユーザーの選択を開始できます。 ユーザーを選択すると、管理者は、後日「今すぐ移行」または「移行をスケジュール」を選択できるので、管理者は極めて柔軟に移行でき、移行時にユーザーを制御できます。
+**Marketoサブスクリプションのユーザーが 75 人を超えている、またはMarketoやAdobe組織で SSO を使用している場合**&#x200B;を使用すると、Marketo製品管理者は、Marketo Admin Area にあるMarketo Migration Console のセルフサービスユーザー移行領域にアクセスできます。 ユーザ移行プロセス中により詳細な制御を必要とするユーザに対して、Marketo 製品管理者はいつかのグループに分けてまたは一度にすべてを移行するユーザの選択を開始できます。ユーザを選択すると、管理者は「今すぐ移行」または後日の「移行をスケジュール」を選択できるので、どのユーザをいつ移行するかを非常に柔軟に制御できます。
 
 >[!NOTE]
 >
->ユーザーの移行中に、製品へのアクセス権が失われることはありません。 Adobeの移行中にユーザーがログインした場合、ユーザーはログアウトされ、移行が完了した後、ユーザー ID を使用して数分以内に再度ログインするよう求められます。
+>ユーザの移行中に、製品にアクセスできなくなることはありません。ユーザの移行中にユーザがログインしていた場合、ユーザはログアウトされ、移行が完了した後、Adobe ID を使用して数分以内に再度ログインするように促されます。
 
-ユーザーが移行されると、Marketoへのログイン方法の変更をAdobeに通知する電子メールがユーザーに届きます。 AdobeID を使用したログインの招待を受け入れるよう、既存のAdobe IDでサインインするか、同じ電子メールアドレスを使用して新しいAdobe IDを設定して、初めて招待されます。
+ユーザが移行されると、Marketo へのログイン方法の変更を通知するメールがアドビからユーザに届きます。ユーザは Adobe ID を使用した初回ログインの招待を受け入れるよう求められます。既存の Adobe ID でログインするか、同じメールアドレスを使用して新しい Adobe ID を設定して行います。
 
-詳しくは、 [AdobeID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+詳しくは、[Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
 
-## ユーザー移行完了 {#user-migration-complete}
+## ユーザ移行の完了 {#user-migration-complete}
 
-Adobeは、すべての管理者とユーザーが移行されると、電子メールですべてのシステム管理者と製品管理者に通知します。 現時点では、そのサブスクリプションのすべてのMarketoユーザーはAdobeID を使用してMarketoにログインし、製品管理者はAdobe Admin Consoleでのみユーザーを管理します。
+すべての管理者とユーザが移行されると、アドビはすべてのシステム管理者と製品管理者にメールで通知します。現時点では、そのサブスクリプションのすべての Marketo ユーザは Adobe ID を使用して Marketo にログインし、製品管理者はユーザの管理を Adobe Admin Console でのみ行います。
 
 ## サポートを受ける {#get-support}
 
-サブスクリプションまたはユーザーの移行に関する追加サポートについては、電子メールでお問い合わせください。 `marketocares@marketo.com`.
+サブスクリプションまたはユーザ移行に関する追加サポートについては、`marketocares@marketo.com` までメールでお問い合わせください。
 
 >[!MORELIKETHIS]
 >
->* [AdobeID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
->* [Adobeを使用したユーザーサインイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
->* [AdobeIdentity Managementの FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobe ID を使用したユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+>* [Adobe Identity Management に関するよくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

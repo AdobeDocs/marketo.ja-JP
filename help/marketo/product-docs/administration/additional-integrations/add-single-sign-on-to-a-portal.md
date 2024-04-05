@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
 workflow-type: tm+mt
 source-wordcount: '560'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、AdobeID に転送された購読には適用されません。 AdobeID に転送されたサブスクリプションの場合、シングルサインオンはAdobe Admin ConsoleのAdobe組織レベルで設定されます。 [詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+>これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
 
 >[!NOTE]
 >
@@ -117,4 +117,4 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 >
 >* [サブスクリプションログインでのユニバーサル ID の使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ユニバーサル ID を使用した 2 つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ユニバーサル ID を使用して Marketo ユーザを 2 つのインスタンスに招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
