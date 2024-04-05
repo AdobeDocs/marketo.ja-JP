@@ -3,10 +3,10 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
+source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
 workflow-type: tm+mt
 source-wordcount: '1128'
-ht-degree: 58%
+ht-degree: 57%
 
 ---
 
@@ -49,9 +49,9 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
   <td>訪問者に表示されないカードはこれだけです。特定のチャット内で目標を達成した時点を決定する必要があります（例：訪問者のメールを収集することが目標の場合は、ストリームの情報キャプチャの直後に目標カードを配置します）。</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>アクション</strong></td>
+  <td style="width:25%"><strong>アクション*</strong></td>
   <td>フォーム内の非表示のフィールドと同様に、アクションカードを使用して、( <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string データ型</a>) をリードレコードに対してキャプチャする暗黙の値に置き換えます。 会話の任意の時点でアクションカードを追加し、それぞれの値を自動的に設定する値またはネイティブトークンを使用して、各属性を更新できます。
-  <p><i>アクションカードにはDynamic ChatPrime が必要です。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
+  <p>* <i>アクションカードにはDynamic ChatPrime が必要です。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>ライブチャット</strong></td>
