@@ -5,7 +5,7 @@ title: レポートとアラートのリンク有効期限の編集
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 

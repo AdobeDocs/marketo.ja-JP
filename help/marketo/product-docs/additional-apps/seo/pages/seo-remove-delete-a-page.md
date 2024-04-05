@@ -5,7 +5,7 @@ title: SEO - ページの削除
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 

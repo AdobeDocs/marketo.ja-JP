@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516607
-description: コアスキルのレビュー — Marketoドキュメント — 製品ドキュメント
+description: コアスキルのレビュー - Marketo ドキュメント - 製品ドキュメント
 title: コアスキルのレビュー
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
 source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # コアスキルのレビュー {#reviewing-core-skills}
 
-マーケティング自動処理のノウハウでギャップを埋める必要があるのに、
+マーケティングオートメーションのノウハウにおけるギャップを埋める必要がありますか？
 
 主要スキルをブラッシュアップする時間が限られている場合は、以下をお勧めします。
 

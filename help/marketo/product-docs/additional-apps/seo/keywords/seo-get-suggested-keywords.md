@@ -5,7 +5,7 @@ title: SEO - 推奨キーワードの取得
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
 ht-degree: 100%
 

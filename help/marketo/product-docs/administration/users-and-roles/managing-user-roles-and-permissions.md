@@ -5,7 +5,7 @@ title: ユーザのロールと権限の管理
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '486'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
@@ -67,7 +67,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
@@ -91,7 +91,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
@@ -119,7 +119,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 

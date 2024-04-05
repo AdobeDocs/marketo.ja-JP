@@ -5,8 +5,8 @@ title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '249'
+workflow-type: ht
+source-wordcount: '248'
 ht-degree: 100%
 
 ---

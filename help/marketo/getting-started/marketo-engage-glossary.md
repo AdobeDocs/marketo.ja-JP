@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980733
-description: Marketo Engageの用語集 — Marketoドキュメント — 製品ドキュメント
-title: Marketo Engage用語集
+description: Marketo Engage 用語集 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo Engage 用語集
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
-workflow-type: tm+mt
-source-wordcount: '4128'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '4097'
+ht-degree: 100%
 
 ---
 
-# Marketo Engage用語集 {#marketo-glossary}
+# Marketo Engage 用語集 {#marketo-glossary}
 
-以下に、Marketo Engageを使用する際に遭遇する可能性のある多くの用語の定義を示します。 用語の追加をリクエストするには、[メールを送信](mailto:GRP-Marketo-articlefeedback@adobe.com)してください。
+Marketo Engage を使用する際に目にする可能性のある多くの用語の定義を以下に示します。用語の追加をリクエストするには、[メールを送信](mailto:GRP-Marketo-articlefeedback@adobe.com)してください。
 
 ## A {#a}
 
@@ -515,7 +515,7 @@ ht-degree: 99%
    <td colspan="1">オーディエンスのセグメントを育成すると、一部の個人はマーケティングクオリファイドリードになる可能性があります。これは、フォローアップのためにセールス組織に引き継ぐための成功基準を満たす行動や特徴を示していることを意味します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティングを中断したリード</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティング中断</strong></a></td> 
    <td colspan="1">このフィールドは、Marketo <strong>データベース</strong>の誰かに対して一時的にメールを使用できないようにするために、<strong>ユーザ</strong>によって手動で設定されます。</td> 
   </tr> 
   <tr> 
@@ -735,7 +735,7 @@ ht-degree: 99%
    <td>セグメンテーション内のカテゴリ（<strong>セグメンテーション</strong>を参照）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">セグメンテーション</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">セグメント化</a></strong></td> 
    <td colspan="1">指定した<strong>スマートリスト</strong>ルールに基づいて、<strong>データベース</strong>内の人物をグループ化すること。例えば、「業界」というセグメンテーションがあり、その中のカテゴリには、ヘルスケア、テクノロジー、金融などがあり得ます。セグメンテーションを使用すると、選択したデモグラフィックに基づいて、人物のグループ全体に対してマーケティングを行うことができます。</td> 
   </tr> 
   <tr> 

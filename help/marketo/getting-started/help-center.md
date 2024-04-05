@@ -2,10 +2,10 @@
 description: ヘルプセンター - Marketo ドキュメント - 製品ドキュメント
 title: ヘルプセンター
 feature: Getting Started
-exl-id: 3e8c3db6-c1ad-4895-9bdf-95118876ed18
-source-git-commit: 131da986d36997e8dfb7ecf62e8ed7b95ffc2b0f
-workflow-type: tm+mt
-source-wordcount: '151'
+exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: ht
+source-wordcount: '150'
 ht-degree: 100%
 
 ---

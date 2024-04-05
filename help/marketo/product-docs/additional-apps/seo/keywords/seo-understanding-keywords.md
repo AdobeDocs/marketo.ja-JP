@@ -5,9 +5,9 @@ title: SEO - キーワードについて
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
-workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '216'
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->データは、1 ～ 100 のランクのキーワードに対してのみ表示されます。
+>データは、1 位から 100 位のキーワードについてのみ表示されます。
 
 ## [!UICONTROL キーワード] - 競合他社の表示 {#keywords-competitor-view}
 

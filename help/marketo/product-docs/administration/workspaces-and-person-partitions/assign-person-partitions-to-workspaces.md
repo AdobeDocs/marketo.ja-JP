@@ -5,8 +5,8 @@ title: ワークスペースへの人物パーティションの割り当て
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '142'
+workflow-type: ht
+source-wordcount: '137'
 ht-degree: 100%
 
 ---

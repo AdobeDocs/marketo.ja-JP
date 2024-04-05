@@ -5,7 +5,7 @@ title: ブランディングドメインの削除
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
 source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->削除するユーザーがDynamic Chatユーザーでもある場合は、 [Dynamic Chatから削除](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) をAdmin Consoleで削除する前に、をMarketo Engageしてください。
+>削除するユーザが Dynamic Chat ユーザでもある場合は、Marketo Engage で削除する前に、Admin Console で [Dynamic Chat からユーザを削除](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user)する必要があります。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

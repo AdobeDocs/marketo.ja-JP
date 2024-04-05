@@ -5,9 +5,9 @@ title: サブスクリプションログインでのユニバーサル ID の使
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
 source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '544'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 90%
 
 ## ユニバーサル ID の設定 {#setting-up-a-universal-id}
 
-すべての Marketo サブスクリプションには、オプションのユニバーサル ID 機能が付属しています。個々のインスタンスから、Marketo 管理者が同じログインを使用して、異なる各サブスクリプションに招待する必要があります。Marketoは、既存のログインを自動的に結合できません。
+すべての Marketo サブスクリプションには、オプションのユニバーサル ID 機能が付属しています。個々のインスタンスから、Marketo 管理者が同じログインを使用して、異なる各サブスクリプションに招待する必要があります。Marketo は、既存のログインを自動的に結合できません。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->Marketoは、現在のサブスクリプションのパスワードが招待先の 2 番目のサブスクリプションのパスワードポリシーに従っていない場合、ユニバーサル ID を使用してパスワードをリセットするユーザーに問い合わせます。
+>Marketo は、ユニバーサル ID を使用するユーザーに、現在のサブスクリプションのパスワードが招待先の 2 つ目のサブスクリプションのパスワードポリシーに準拠していない場合、パスワードのリセットを求めます。
 
 ## サブスクリプション間の切り替え {#switching-between-subscriptions}
 
@@ -63,4 +63,4 @@ ht-degree: 90%
 >
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ユニバーサル ID を使用した 2 つのインスタンスへのMarketoユーザーの招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

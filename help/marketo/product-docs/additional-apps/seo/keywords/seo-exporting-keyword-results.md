@@ -5,7 +5,7 @@ title: SEO - キーワード結果のエクスポート
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
 ht-degree: 100%
 

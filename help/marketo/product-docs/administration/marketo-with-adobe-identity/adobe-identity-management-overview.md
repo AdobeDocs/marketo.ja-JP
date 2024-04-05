@@ -4,28 +4,28 @@ title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
 source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '402'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
-すべての新しいAdobe Marketo Engageサブスクリプション（2023 年 7 月 31 日以降）は、AdobeIdentity Managementシステムと統合されます。 既存のMarketoサブスクリプションは、現在、更新または再契約イベント時にAdobeIdentity Managementシステムに移行中です。 現時点では、更新または再契約イベント以外の移行はサポートされていません。
+すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。現在、既存の Marketo サブスクリプションは、更新または再契約イベント時に Adobe Identity Management システムに移行しています。現時点では、更新または再契約イベント以外の移行はサポートされていません。
 
 >[!NOTE]
 >
->Marketoサポートでは、Adobe IMSの移行に関する更新を提供できません。 Adobeアカウントチームは、今後数ヶ月以内に予定される予定日程で連絡を取ります。 詳しくは、 [この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビのアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。詳しくは、[この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
 
-AdobeID に転送されたサブスクリプションの場合、Adobe Admin Consoleがユーザー管理に使用されます。 シングルサインオンなどの ID 関連の概念も、Admin Consoleで管理されます。
+Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
-* 詳しくは、 [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"}.
-* 次の情報を検索： [Marketoサブスクリプションに関連するAdobe組織の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* 詳しくは、[Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} を参照してください。
+* 詳しくは、[Marketo サブスクリプションに関連するアドビ組織の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
->シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
+>シングルサインオンを実装し、アドビ組織に SSO を実装されていない状態でサブスクリプションが Adobe ID にオンボードされている場合は、[Marketo サポート](https://nation.marketo.com/){target="_blank"}にチケットを送信し、「Admin Console での Marketo、SSO の実装」というトピックを指定します。
 
 ## プロファイルレベル {#profile-levels}
 
@@ -57,7 +57,7 @@ Adobe Marketo Engage を Adobe Identity Management システムに転送した�
 
 ## よくある質問 {#faq}
 
-よくある質問 [ここにあります](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+よくある質問は[ここにあります](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

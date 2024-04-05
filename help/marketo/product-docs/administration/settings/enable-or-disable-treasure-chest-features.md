@@ -5,7 +5,7 @@ title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 

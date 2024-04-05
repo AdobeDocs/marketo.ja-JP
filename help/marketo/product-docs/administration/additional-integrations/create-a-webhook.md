@@ -5,9 +5,9 @@ title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
-workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '218'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

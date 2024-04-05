@@ -5,7 +5,7 @@ title: "Marketo と  [!DNL Salesforce] の間のフィールドマッピング�
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ title: " [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして�
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
-workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: '277'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 93%
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->また、[[!DNL Google AdWords] as a [!DNL Launchpoint]  サービスをマネージャーアカウント](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}と統合できます。
+>また、[[!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとしてマネージャーアカウントと統合することもできます](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

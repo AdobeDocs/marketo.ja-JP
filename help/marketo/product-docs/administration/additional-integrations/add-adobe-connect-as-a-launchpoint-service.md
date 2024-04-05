@@ -5,7 +5,7 @@ title: "Adobe Connect を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 

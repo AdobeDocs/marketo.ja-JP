@@ -1,69 +1,69 @@
 ---
-description: 継承した既存のMarketo Engageインスタンスを最適化および拡大/縮小する方法を説明します。 このチェックリストに従って管理者設定を監査し、データベースの衛生状態を維持します。
-title: 開始場所
+description: 継承した既存の Marketo Engage インスタンスを最適化および拡大・縮小する方法について説明します。このチェックリストに従って管理者設定を監査し、データベースの健全性を維持します。
+title: 開始する場所
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
-workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 10%
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: ht
+source-wordcount: '438'
+ht-degree: 100%
 
 ---
 
-# 開始場所 {#where-to-start}
+# 開始する場所 {#where-to-start}
 
-新しいジョブを開始しているか、別の管理者から既存のインスタンスを引き継いでいますが、どこから開始すればよいのか分からない場合は、 しばらくの間実行されているライブインスタンスを引き継ぐと、少し怖く感じる場合がありますが、すぐにスピードを上げるのに役立つリソースをいくつか組み立てました。
+新しいジョブを開始する際や、既存のインスタンスを別の管理者から引き継ぐ際に、どこから始めればよいかわからないですか？既に実行されているライブインスタンスの引き継ぎには少し抵抗があるかもしれませんが、以下にまとめたリソースを活用するとすぐに慣れることができます。
 
-## Marketing Nation のセットアップ {#get-set-up-in-the-marketing-nation}
+## Marketing Nation のセットアップを開始 {#get-set-up-in-the-marketing-nation}
 
 Marketing Nation コミュニティで適切に設定されていることを確認してください。
 
-* [**プロファイルの設定**](https://nation.marketo.com/){target="_blank"}.
+* [**プロファイルを設定します**](https://nation.marketo.com/){target="_blank"}。
 
-* 詳しくは、 [**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* 詳しくは、[**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}を参照してください。
 
 * [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}方法を参照してください）。
 
-## Marketing Nation プロファイルの結合 {#merge-your-marketing-nation-profile}
+## Marketing Nation プロファイルを統合 {#merge-your-marketing-nation-profile}
 
-以前の会社との Marketing Nation プロファイルが既にある場合は、次の手順に従って、その履歴を新しいプロファイルに引き継ぎます。
+以前の会社で Marketing Nation プロファイルを既に作成している場合は、次の手順に従って、その履歴を新しいプロファイルに統合します。
 
-1. 現在のコミュニティサブスクリプションへのアクセス権を持つ電子メールアドレスでユーザー名/コミュニティプロファイルをMarketo Engageします。
+1. 現在の Marketo Engage サブスクリプションにアクセスできるメールアドレスを使用して、ユーザ名／コミュニティプロファイルを作成します。
 
-1. [プロファイルを作成した後](https://nation.marketo.com/){target="_blank"} 新しい会社情報を使用して、次にリクエストを送信します： `ccare@marketo.com` 古いコミュニティプロファイルのデータを新しいプロファイルと結合する
+1. 新しい会社情報を使用して[プロファイルを作成](https://nation.marketo.com/){target="_blank"}したら、`ccare@marketo.com` にリクエストを送信して、以前のコミュニティプロファイルのデータを新しいプロファイルに統合します。
 
-1. リクエストで、次の詳細を指定してください。
+1. リクエストでは、次の詳細を指定してください。
 
-* 以前のコミュニティプロファイルに関連付けられた、以前の企業メール
-* 現在のMarketo Engage配信登録に関連付けられた新しい会社の E メール
-* 新しいユーザー名/コミュニティプロファイル URL
+* 以前のコミュニティプロファイルに関連付けられた、以前の会社のメールアドレス
+* 現在の Marketo Engage サブスクリプションに関連付けられた、新規の会社メールアドレス
+* 新しいユーザ名／コミュニティプロファイルの URL
 
-コミュニティチームが 4～6 営業日でコミュニティプロファイルを統合します。 ログインが完了すると、ログイン後に新しいコミュニティプロファイルにエンゲージメント履歴が表示されます。 ログインしない場合は、アカウントからログアウトし、再度ログインして確認してください。
+アドビのコミュニティチームが 4 ～ 6 営業日でコミュニティプロファイルを統合します。統合が完了すると、ログイン時に以前のエンゲージメントの履歴が新しいコミュニティプロファイルに表示されます。表示されない場合は、アカウントからログアウトし、再度ログインして確認してください。
 
-## 継承されたMarketo Engageインスタンスをすぐに開始  {#jumpstart-your-inherited-marketo-engage-instance}
+## Marketo Engage の継承インスタンスをすぐに開始  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobeは、Marketo Champions の入力を受け、Marketo Engage継承インスタンス監査チェックリストをいくつか組み立て、現場を襲うのに役立ちました。 Marketo Engageの様々な領域をナビゲートし、監査の実行に必要な様々なタスクを実行する方法について説明し、推奨されるヘルプドキュメントへのリンクを含めます。
+アドビは、Marketo Champions からの意見に基づき、作業の円滑化に役立つ Marketo Engage の継承インスタンス監査チェックリストをいくつか作成しました。これには、Marketo Engage の様々な領域に移動し、監査に必要な様々なタスクを実行する方法や、推奨されるヘルプドキュメントへのリンクが含まれています。
 
-また、 [チェックリストのダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) スプレッドシート形式で。
+また、スプレッドシート形式で[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)することもできます。
 
-* [管理セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [「管理者」セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
 * [データベース](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
 * [マーケティング活動](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-* [デザイン スタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
 
-* [継承されたインスタンスの設定のドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [継承インスタンスの設定をドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
 
 ## ヘルプの入手方法 {#ways-to-get-help}
 
-詳細なヘルプが必要な場合は、 以下のリンクから、当社や他のMarketo Engageユーザーに連絡します。
+さらにサポートが必要ですか？以下のリンクから、アドビや他の Marketo Engage ユーザとつながることができます。
 
-* 適切に動作しない問題に関する技術的なサポートについては、 **[Marketo Engageカスタマーサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**&#x200B;にお問い合わせください。
 
-* 内の他のMarketo Engageユーザーとのつながりと学習 **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
+* **[Marketing Nation](https://nation.marketo.com/){target="_blank"}** では Marketo Engage ユーザとつながり、知識を深めることができます。
 
-* Marketo Engageインスタンスを最大限に活用するための実践的なサポートについては、以下にお問い合わせください。 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 
-* 所要時間 **[キュレーションされたチュートリアルビデオ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}** Marketo Engageの様々な側面に
+* Marketo Engage の様々な側面に関する&#x200B;**[厳選されたチュートリアルビデオを](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}**&#x200B;ご覧ください。

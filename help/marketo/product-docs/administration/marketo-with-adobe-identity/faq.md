@@ -1,16 +1,16 @@
 ---
-description: AdobeIdentity Management FAQ - Marketoドキュメント — 製品ドキュメント
-title: AdobeIdentity Managementの FAQ
+description: Adobe Identity Management に関するよくある質問 - Marketo ドキュメント - 製品ドキュメント
+title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
 source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1202'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
-# AdobeIdentity Managementの FAQ {#adobe-identity-management-faq}
+# Adobe Identity Management に関するよくある質問 {#adobe-identity-management-faq}
 
 **Adobe ID とは何ですか？**
 
@@ -60,7 +60,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[https://helpx.adobe.com/jp/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"} を参照してください。
+[https://helpx.adobe.com/jp/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} を参照してください。
 
 **マイアカウントのユーザーアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 
@@ -74,9 +74,9 @@ Adobe ID に転送されたユーザーは、製品の購読切り替えボタ�
 
 はい。Marketo と Adobe IMS の統合では、ユニバーサル ID ユーザーと SSO がサポートされています。SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
 
-**既にAdobeID に転送されていますが、SSO を実装したいと思います。 どうすればいい？**
+**既に Adobe ID にオンボードされているので、SSO を実装したいと考えています。どうすればいいですか？**
 
-シングルサインオンを実装し、Adobe組織に SSO を実装せずにサブスクリプションがAdobeID に転送された場合は、にチケットを送信してください。 [Marketoサポート](https://nation.marketo.com/){target="_blank"} 「Marketo onAdmin Console、SSO の実装」というトピックを指定します。
+シングルサインオンを実装する必要があり、アドビ組織に SSO が実装されていない状態でサブスクリプションが Adobe ID にオンボードされている場合は、チケットを [Marketo サポート](https://nation.marketo.com/){target="_blank"}に送信し、トピックを「Admin Console での Marketo、SSO の実装」と指定してください。
 
 **デバイス認証はどのように機能しますか？**
 
@@ -94,22 +94,22 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 サポートされる製品カードは、Marketo Engage、Marketo Measure、Marketo Dynamic Chat、Marketo Sales Connect、Marketo Sales Insight Actions です。
 
-**ユーザー ID に移行した際に、ユーザーログインが電子メールと一致しない場合、AdobeID はどうなりますか？**
+**Adobe ID に移行する際に、ユーザのログイン情報がメールアドレスと一致しない場合はどうすればいいですか？**
 
-電子メールアドレスとは異なるログイン情報を持つ現在のMarketoユーザーは、AdobeID に移行すると、その資格情報を使用してログインしなくなります。 AdobeID は、常にユーザーの電子メールアドレスで認証されます。
+メールアドレスとは異なるログイン情報を使用している現在の Marketo ユーザは、Adobe ID に移行すると、その資格情報ではログインできなくなります。Adobe ID では、常にユーザのメールアドレスを使用して認証します。
 
-**サブスクリプションで IP 制限設定が使用されている場合、AdobeID の移行後はどうなりますか。**
+**サブスクリプションで IP 制限設定を使用している場合、Adobe ID の移行後はどうなりますか？**
 
-サブスクリプションがAdobeID に転送された場合、IP 制限設定はAdobe Admin Consoleに移行されません。 Marketoの IP 制限設定では、特定の IP アドレスからのアクセスのみを許可し、特定の IP アドレスへのアクセスをブロックします。 現時点では、AdobeIdentity Managementシステムは IP 制限機能をサポートしていません。
+サブスクリプションを Adobe ID にオンボードした場合、IP 制限設定は Adobe Admin Console に移行されません。Marketo の IP 制限設定には、特定の IP アドレスからのアクセスのみを許可することや、特定の IP アドレスからのアクセスをブロックすることが含まれます。現時点では、Adobe Identity Management システムは IP 制限機能をサポートしていません。
 
-2024 年に、AdobeIdentity Management System は、特定の IP アドレスのみをサポートする機能をリリースし、現在この機能を使用しているMarketoユーザーへの移行をサポートします。 現在この機能を使用しているユーザーは、この機能がリリースされるまでユーザー移行を行いません。 機能が配信されると、移行がスケジュールされたことがユーザーに通知されます。 この機能の詳細は、利用可能になった時点で提供されます。
+2024年に、Adobe Identity Management システムは特定の IP アドレスのみの許可をサポートする機能をリリースし、現在この機能を使用している Marketo ユーザのトランジションをサポートします。現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。機能が提供されると、移行がスケジュールされていることがユーザに通知されます。この機能について詳しくは、機能が利用可能になった時点で提供されます。
 
-現在 IP 制限を使用しているユーザーは、特定のアドレスをアクセスからブロックして、AdobeID に移行後はこの機能を使用できなくなります。AdobeのIdentity Management System ではこの機能はサポートされないからです。
+現在、特定のアドレスへのアクセスをブロックする IP 制限を使用しているユーザは、Adobe Identity Management システムでサポートされていないので、Adobe ID に移行すると、この機能を使用できなくなります。
 
-**「シングルサインオンをバイパス」を選択できる役割を持つユーザーがいる場合、AdobeID 移行後はどうなりますか？**
+**「シングルサインオンをバイパス」オプションがあるロールを持つユーザがいる場合、Adobe ID の移行後はどうなりますか？**
 
-サブスクリプションがAdobeID に転送されると、すべてのユーザーのAdobe組織レベルでシングルサインオン (SSO) が設定されます。 SSO が設定されると、そのAdobe組織内のすべてのMarketoユーザー/すべてのMarketoインスタンスに対して適用されます。以前は、Marketoでは、ユーザーの役割の設定で「シングルサインオンをバイパス」オプションを使用できるようになりました。 これは、AdobeIdentity Management System ではサポートされていません。
+サブスクリプションが Adobe ID にオンボードされると、シングルサインオン（SSO）がアドビ組織レベルですべてのユーザに対して設定されます。SSO が設定されると、そのアドビ組織内のすべての Marketo ユーザ／すべての Marketo インスタンスに強制的に適用されます。以前、Marketo は、ユーザロールに「シングルサインオンをバイパス」オプションを設定できるようにサポートしていました。これは、Adobe Identity Management システムではサポートされていません。
 
-**複数のサブスクリプションを持っていますが、すべてシングルサインオンが有効になっていません。 AdobeID の移行後はどうなりますか？**
+**複数のサブスクリプションを持っていますが、すべてのサブスクリプションでシングルサインオンが有効になっているわけではありません。Adobe ID の移行後はどうなりますか？**
 
-サブスクリプションがAdobeID に転送されると、シングルサインオン (SSO) がAdobe組織レベルで設定されます。 つまり、SSO はAdobe組織内のすべての製品インスタンスに適用されます。SSO が設定されると、そのAdobe組織内のすべてのMarketoインスタンスに適用されます。以前は、Marketoは、インスタンスレベルでこの設定をサポートしていました。 これは、AdobeIdentity Management System ではサポートされていません。
+サブスクリプションが Adobe ID にオンボードされると、シングルサインオン（SSO）がアドビ組織レベルで設定されます。つまり、SSO はアドビ組織内のすべての製品インスタンスに適用されます。SSO を設定すると、そのアドビ組織内のすべての Marketo インスタンスに適用されます。以前、Marketo はこの設定をインスタンスレベルでサポートしていました。これは、Adobe Identity Management システムではサポートされていません。

@@ -5,15 +5,15 @@ title: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
-workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 46%
+workflow-type: ht
+source-wordcount: '112'
+ht-degree: 100%
 
 ---
 
 # [!DNL Webex] を [!DNL LaunchPoint] サービスとして追加 {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理します。に対する既存のサブスクリプションが必要です [[!UICONTROL Webex]](https://www.webex.com/).
+Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理します。[[!UICONTROL Webex]](https://www.webex.com/) に対する既存のサブスクリプションが必要です。
 
 >[!NOTE]
 >
@@ -31,19 +31,19 @@ Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理�
 
    ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
-1. **[!UICONTROL 表示名]**&#x200B;を入力します。Adobe Analytics の **[!UICONTROL サービス]** ドロップダウンで、「 **[!UICONTROL Webex ウェビナー]**.
+1. **[!UICONTROL 表示名]**&#x200B;を入力します。**[!UICONTROL サービス]**&#x200B;ドロップダウンで、「**[!UICONTROL Webex ウェビナー]**」を選択します。
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. クリック **[!UICONTROL Webex ウェビナーへのログイン]**.
+1. 「**[!UICONTROL Webex ウェビナーにログイン]**」をクリックします。
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Webex が新しいタブで開きます。 Webex の資格情報を使用してログインします。
+1. Webex が新しいタブで開きます。Webex 資格情報を使用してログインします。
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. ログインに成功すると、タブが閉じ、 _新しいサービス_ Marketo Engageのモーダルは、「Webex Webinars アカウントが設定されています」を読み取ります。 「**[!UICONTROL 作成]**」をクリックします。
+1. ログインに成功すると、タブが閉じ、Marketo Engage の&#x200B;_新しいサービス_&#x200B;モーダルに「Webex ウェビナーアカウントが設定されました」と表示されます。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
@@ -53,4 +53,4 @@ Marketo Engage は、[!DNL Webex] のウェビナーの登録と出席を管理�
 
 >[!MORELIKETHIS]
 >
->[でのイベントの作成 [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。

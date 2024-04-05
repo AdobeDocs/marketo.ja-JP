@@ -5,8 +5,8 @@ title: SEO - キーワードトレンドレポートの使用
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '178'
+workflow-type: ht
+source-wordcount: '179'
 ht-degree: 100%
 
 ---

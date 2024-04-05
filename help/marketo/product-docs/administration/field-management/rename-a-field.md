@@ -5,7 +5,7 @@ title: フィールドの名前を変更する
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ title: 設定手順
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
 source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
-workflow-type: tm+mt
-source-wordcount: '2062'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '2069'
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 >[!IMPORTANT]
 >
->Marketoサブスクリプションが 2023 年 7 月 31 日以降に作成された、または既に [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 代わりに、
+>Marketo サブスクリプションが 2023年7月31日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} に移行されている場合、以下で説明するユーザーの追加手順は適用されません。代わりに、こちらの記事を参照してください。
 
 メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 

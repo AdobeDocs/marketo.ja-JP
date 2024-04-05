@@ -5,8 +5,8 @@ title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '331'
+workflow-type: ht
+source-wordcount: '338'
 ht-degree: 100%
 
 ---

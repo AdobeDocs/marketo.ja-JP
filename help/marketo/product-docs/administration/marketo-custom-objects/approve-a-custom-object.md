@@ -5,7 +5,7 @@ title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '278'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 

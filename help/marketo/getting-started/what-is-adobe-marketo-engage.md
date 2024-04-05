@@ -5,8 +5,8 @@ title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '288'
+workflow-type: ht
+source-wordcount: '278'
 ht-degree: 100%
 
 ---
@@ -24,14 +24,14 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 * ガイド付きランディングページテンプレート
 * メールエディター
 * 一括メール送信ツール
-* セグメンテーション
+* セグメント化
 * 予測コンテンツ
 * ウェビナー統合
 * モバイルマーケティング
-* お使いの CRM との同期（Salesforce または Dynamics）
+* CRM（Salesforce または Dynamics）との同期
 * Web サイト統合
 * ワークフローエンジン
-* ユーザースコア
+* 個人スコアリング
 * セール担当者向け CRM 内ダッシュボード
 * プログラム分析
 * ターゲットアカウント管理

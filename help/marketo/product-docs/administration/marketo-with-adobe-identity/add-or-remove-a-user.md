@@ -4,8 +4,8 @@ title: ユーザーの追加または削除
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '240'
+workflow-type: ht
+source-wordcount: '230'
 ht-degree: 100%
 
 ---
@@ -86,5 +86,5 @@ Marketo Engage にログインするためのメールがユーザーに送信�
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
->* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [ユーザを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

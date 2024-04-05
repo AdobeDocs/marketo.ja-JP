@@ -5,7 +5,7 @@ title: SEO - リストに対するページの追加／削除
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 

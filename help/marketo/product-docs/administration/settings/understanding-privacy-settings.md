@@ -5,8 +5,8 @@ title: プライバシー設定について
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '514'
+workflow-type: ht
+source-wordcount: '500'
 ht-degree: 100%
 
 ---

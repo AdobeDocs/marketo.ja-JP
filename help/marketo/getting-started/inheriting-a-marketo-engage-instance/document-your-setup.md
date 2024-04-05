@@ -1,18 +1,18 @@
 ---
-description: 継承されたインスタンスドキュメントの設定 — Marketoドキュメント — 製品ドキュメント
-title: 継承されたインスタンスドキュメントの設定
+description: 継承インスタンス設定のドキュメント化 - Marketo Docs - 製品ドキュメント
+title: 継承インスタンス設定のドキュメント化
 feature: Getting Started
-exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
-workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 1%
+exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: ht
+source-wordcount: '306'
+ht-degree: 100%
 
 ---
 
-# 継承されたインスタンス：設定のドキュメント化 {#inherited-instance-document-your-setup}
+# 継承インスタンス：設定のドキュメント化 {#inherited-instance-document-your-setup}
 
-これで、確立されたインスタンスを継承する際に監査する主な製品領域を学びました。次の手順は、インスタンス設定とテクニカルスタックに関するドキュメントを作成/更新することです。 スプレッドシートやプロジェクト管理アプリケーションを使用して作成する場合でも、ドキュメントを使用すれば、進行状況を追跡し、詳細を記録し、インスタンスの構造と持続可能性を維持するのに役立ちます。
+これで、確立されたインスタンスを継承する際に監査する主要な製品領域について理解することができました。次の手順としては、インスタンス設定やテクニカルスタックに関するドキュメントを作成または更新する必要があります。ドキュメントは、スプレッドシートまたはプロジェクト管理アプリケーションのいずれかを使用して作成できます。どちらの方法で作成しても、ドキュメントは進捗を追跡し、詳細を記録し、インスタンスを構造化して持続可能な状態に維持するための優れたリソースとして役立ちます。
 
 ## データ {#data}
 
@@ -24,13 +24,13 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>入力</td> 
-   <td><li>どのシステムがデータをMarketo Engageに送り込むか。</li>
-   <li>データをプログラムやデータベースに読み込んでいるか。 プログラムならどれ？</li>
-   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：システム間でデータディクショナリ/フィールドマッピングテーブルを作成します。</td>
+   <td><li>どのシステムで Marketo Engage にデータを送り込みますか？</li>
+   <li>プログラムやデータベースにデータを読み込んでいますか？プログラムの場合は、どのプログラムですか？</li>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：システム間でデータ辞書／フィールドマッピングテーブルを作成します。</td>
   </tr>
   <tr> 
    <td>出力</td> 
-   <td><li>どのシステムがMarketo Engageからデータを受け取るか</li></td>
+   <td><li>どのシステムが Marketo Engage からデータを受け取りますか？</li></td>
   </tr>
  </tbody> 
 </table>
@@ -46,30 +46,30 @@ ht-degree: 1%
   <tr> 
    <td>データ辞書</td> 
    <td><li>使用可能なフィールドを説明する別のデータ辞書はありますか？
-   <br/>     そうでない場合は、マーケティングオペレーションチームがアクセスできるフォルダーに作成することを検討してください。</li></td>
+   <br/>     ない場合は、マーケティングオペレーションチームがアクセスできるフォルダーにデータ辞書を作成することを検討してください。</li></td>
   </tr>
   <tr> 
    <td>組織</td> 
-    <td><li>Marketo Engageインスタンスの整理方法とその理由に関する堅牢なドキュメントを用意していますか？</li>
-   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンスで使用するフォルダー構造、命名規則、チャネルを含むドキュメントを作成します。</td>
+    <td><li>Marketo Engage インスタンスの編成方法とその理由に関するしっかりとしたドキュメントはありますか？</li>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンスで使用されるフォルダー構造、命名規則、チャネルに関するドキュメントを作成します。</td>
   </tr>
   <tr> 
-   <td>Changelog</td> 
-    <td><li>インスタンス内の変更点とその理由を記録できる変更ログがありますか？</li>
-    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：インスタンス設定に加えた変更ログとドキュメントの変更を作成します。</td>
+   <td>変更ログ</td> 
+    <td><li>インスタンスで行った変更とその理由を記録できる変更ログがありますか？</li>
+    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：変更ログを作成し、インスタンス設定に加えた変更を記録します。</td>
   </tr>
   <tr> 
-   <td>Playbooks</td> 
-    <td><li>組織にユーザーまたは管理者プレイブックがあるか。 
-    <br/>     その場合は、それらを適宜更新します。</li></td>
+   <td>プレイブック</td> 
+    <td><li>組織にユーザーまたは管理者のプレイブックがありますか？
+    <br/>     ある場合は、適切に更新します。</li></td>
   </tr>
   <tr> 
-   <td>内部の関係者との対話</td> 
-    <td><li>貴社のマーケティングチームが社内で期待する事項は何ですか？ どのMarketo Engageが提供しているか</li>
-   <li>Marketo Engageインスタンスの関係者はどのチームですか？</li>
-   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">行動項目：主要な関係者の目標と期待を文書化し、年間を通じて関係者とチェックインしながら更新します。</td>
+   <td>社内関係者との対話</td> 
+    <td><li>会社のマーケティングチームが社内で期待していることは何ですか？それは Marketo Engage が提供しているものと一致していますか？</li>
+   <li>Marketo Engage インスタンスの関係者はどのチームですか？</li>
+   <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：主要な関係者の目標と期待をドキュメント化し、年間を通じて関係者と連絡をとりながら更新します。</td>
   </tr>
  </tbody> 
 </table>
 
-[◄継承されたインスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+[◄継承インスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

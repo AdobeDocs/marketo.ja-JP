@@ -5,8 +5,8 @@ title: SEO - ページ詳細ドリルダウンの使用
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '266'
+workflow-type: ht
+source-wordcount: '268'
 ht-degree: 100%
 
 ---

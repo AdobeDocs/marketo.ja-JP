@@ -5,7 +5,7 @@ title: SEO - 検索エンジンの地域／国の選択
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 

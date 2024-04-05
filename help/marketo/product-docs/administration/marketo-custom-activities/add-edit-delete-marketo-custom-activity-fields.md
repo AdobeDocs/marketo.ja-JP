@@ -5,7 +5,7 @@ title: Marketo のカスタムアクティビティフィールドの追加／�
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
 ht-degree: 100%
 

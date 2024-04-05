@@ -5,8 +5,8 @@ title: 監査記録の詳細の変更
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '1913'
+workflow-type: ht
+source-wordcount: '1902'
 ht-degree: 100%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>モジュールを編集 <code>"<module name>" <attribute></code> 「値」に設定</td>
+   <td>モジュールを編集 <module name><attribute> 「値」に設定</td> 
   </tr> 
   <tr> 
    <td>削除</td> 

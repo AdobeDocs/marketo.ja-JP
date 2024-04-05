@@ -5,8 +5,8 @@ title: クラシックアイコン用語集
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '562'
+workflow-type: ht
+source-wordcount: '561'
 ht-degree: 100%
 
 ---

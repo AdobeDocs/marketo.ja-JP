@@ -5,8 +5,8 @@ title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '158'
+workflow-type: ht
+source-wordcount: '162'
 ht-degree: 100%
 
 ---

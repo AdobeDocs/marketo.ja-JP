@@ -5,8 +5,8 @@ title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '704'
+workflow-type: ht
+source-wordcount: '698'
 ht-degree: 100%
 
 ---

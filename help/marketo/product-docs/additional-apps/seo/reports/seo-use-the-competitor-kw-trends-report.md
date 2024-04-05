@@ -5,8 +5,8 @@ title: SEO - 競合他社 KW トレンドレポートの使用
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '182'
+workflow-type: ht
+source-wordcount: '183'
 ht-degree: 100%
 
 ---

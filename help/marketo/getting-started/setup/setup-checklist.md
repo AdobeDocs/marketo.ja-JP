@@ -5,7 +5,7 @@ title: セットアップチェックリスト
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '204'
 ht-degree: 100%
 

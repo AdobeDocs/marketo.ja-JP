@@ -5,15 +5,15 @@ title: IP に基づく Marketo ログインの制限
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
 source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # IP に基づく Marketo ログインの制限 {#restrict-marketo-logins-based-on-ip}
 
-IP アドレスに基づいて、ユーザの Marketo へのアクセスを制限または有効にできます。手順は以下のとおりです。
+IP アドレスに基づいて、ユーザの Marketo へのアクセスを制限または有効にできます。手順は次のとおりです。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ IP アドレスに基づいて、ユーザの Marketo へのアクセスを制�
 
 >[!IMPORTANT]
 >
->この記事に記載されている情報は、login.marketo.comに直接ログインするユーザー向けであり、Adobe IDで認証をおこなうユーザーには適用されません。 現時点では、シングルサインオン (SSO) ログインに対して IP 制限を適用することはできません。
+>この記事の情報は、login.marketo.com に直接ログインするユーザを対象としており、Adobe ID で認証するユーザには当てはまりません。現時点では、シングルサインオン（SSO）ログインに IP 制限を適用することはできません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

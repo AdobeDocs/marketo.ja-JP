@@ -1,15 +1,15 @@
 ---
-title: Marketo 製品文書
-description: Marketo Engage製品ドキュメント
+title: Marketo 製品ドキュメント
+description: Marketo Engage 製品ドキュメント
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage製品ドキュメント
+# Marketo Engage 製品ドキュメント
 
 ![](assets/marketo-docs-banner.jpg)
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 * [設定手順](/help/marketo/getting-started/setup/setup-steps.md)
 * [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Marketo のプロトコルの設定](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Marketo Engage用語集](/help/marketo/getting-started/marketo-engage-glossary.md)
+* [Marketo Engage 用語集](/help/marketo/getting-started/marketo-engage-glossary.md)
 
 ## 人気の記事
 

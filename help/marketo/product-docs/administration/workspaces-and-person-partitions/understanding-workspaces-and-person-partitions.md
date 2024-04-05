@@ -5,9 +5,9 @@ title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
 source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '538'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -79,12 +79,12 @@ ht-degree: 91%
 * モデル
 * スマートキャンペーン
 * [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [セグメンテーション](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* [セグメント化](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * スニペット
 
 ## ワークスペース間での複製 {#cloning-across-workspaces}
 
-テンプレート以外のアセットの場合は、アセットをローカルアセットとしてプログラム内でクローンすることをお勧めします。 適切なアクセスレベルで、以下のアセットを別のワークスペースにドラッグ＆ドロップできます。
+テンプレート以外のアセットの場合は、プログラム内でローカルアセットとして複製するのが最適です。適切なアクセスレベルで、以下のアセットを別のワークスペースにドラッグ＆ドロップできます。
 
 * プログラム
 * メール
@@ -93,7 +93,7 @@ ht-degree: 91%
 
 >[!IMPORTANT]
 >
->上記の項目はすべてワークスペース、メール、フォーム、ランディングページに複製できますが、 _は、プログラム内にある必要があります_ 複製時に。
+>上記の項目はすべて Workspaces で複製できますが、メール、フォーム、ランディングページは、複製時に&#x200B;_プログラム内に存在する必要_&#x200B;があります。
 
 >[!NOTE]
 >

@@ -5,8 +5,8 @@ title: カスタムアクティビティについて
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '261'
+workflow-type: ht
+source-wordcount: '259'
 ht-degree: 100%
 
 ---

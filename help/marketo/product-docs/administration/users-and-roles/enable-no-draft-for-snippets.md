@@ -5,8 +5,8 @@ title: スニペットで「ドラフトなし」を有効にする
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '148'
+workflow-type: ht
+source-wordcount: '150'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 100%
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 

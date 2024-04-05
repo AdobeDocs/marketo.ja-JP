@@ -5,8 +5,8 @@ title: メールの送信
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '395'
+workflow-type: ht
+source-wordcount: '401'
 ht-degree: 100%
 
 ---

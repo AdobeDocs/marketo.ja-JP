@@ -5,8 +5,8 @@ title: カスタムフィールドタイプの用語集
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '583'
+workflow-type: ht
+source-wordcount: '595'
 ht-degree: 100%
 
 ---

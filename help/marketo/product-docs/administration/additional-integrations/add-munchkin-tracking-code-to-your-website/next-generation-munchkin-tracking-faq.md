@@ -5,8 +5,8 @@ title: "次世代  [!DNL Munchkin]  トラッキングに関する FAQ"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
-workflow-type: tm+mt
-source-wordcount: '716'
+workflow-type: ht
+source-wordcount: '692'
 ht-degree: 100%
 
 ---

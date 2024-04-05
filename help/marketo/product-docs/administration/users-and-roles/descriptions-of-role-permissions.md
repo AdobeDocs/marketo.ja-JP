@@ -5,8 +5,8 @@ title: ロールの権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '1137'
+workflow-type: ht
+source-wordcount: '1136'
 ht-degree: 100%
 
 ---

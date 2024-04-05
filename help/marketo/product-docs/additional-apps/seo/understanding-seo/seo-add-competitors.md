@@ -5,7 +5,7 @@ title: SEO - 競合相手の追加
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 

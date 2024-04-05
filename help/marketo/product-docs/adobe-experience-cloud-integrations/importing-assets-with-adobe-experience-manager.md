@@ -5,15 +5,15 @@ title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 71%
+workflow-type: ht
+source-wordcount: '227'
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager でのアセットの読み込み {#importing-assets-with-adobe-experience-manager}
 
-アセットセレクターを使用すると、Marketoのお客様は、AEMアセットにアクセスし、選択し、Marketoに読み込むことができます [!DNL Design Studio]. **管理者権限が必要です**。
+アセットセレクターを使用すると、Marketo のお客様は、AEM アセットにアクセスし選択して、Marketo [!DNL Design Studio] に読み込むことができます。**管理者権限が必要です**。
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 71%
 
 >[!IMPORTANT]
 >
->現在、この機能はでのみ完全にサポートされています。 [!DNL Firefox]. ではサポートされていません。 [!DNL Safari]最新バージョンの [!DNL Chrome]、 [!DNL SameSite] cookie の設定に基づいて )。
+>現在、この機能は [!DNL Firefox] でのみ完全にサポートされています。[!DNL Safari] ではサポートされていません。また、[!DNL SameSite] の Cookie 設定によっては、最新バージョンの [!DNL Chrome] では動作しない可能性があります。
 
 1. **[!UICONTROL Design Studio]** をクリックします。
 
@@ -65,4 +65,4 @@ ht-degree: 71%
 
 * インスタンス内のすべてのユーザーが、読み込んだ画像を表示しアクセスできます。
 
-* 画像は自動的にはアップデートされません。画像をMarketoに読み込んだ場合 [!DNL Design Studio] がAEMで更新されたので、Marketoに手動で再度読み込む必要があります。
+* 画像は自動的にはアップデートされません。Marketo [!DNL Design Studio] に読み込んだ画像が AEM で更新された場合は、手動で Marketo に再読み込みする必要があります。

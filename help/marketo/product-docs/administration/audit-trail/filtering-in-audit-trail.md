@@ -5,8 +5,8 @@ title: 監査証跡でのフィルタリング
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '141'
+workflow-type: ht
+source-wordcount: '142'
 ht-degree: 100%
 
 ---

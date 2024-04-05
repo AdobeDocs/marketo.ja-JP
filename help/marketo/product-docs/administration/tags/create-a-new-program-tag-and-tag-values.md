@@ -5,7 +5,7 @@ title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規タグタイプ]**」を選択します。
+1. 「**[!UICONTROL 新規]**」をクリックして、「**[!UICONTROL 新規タグタイプ]**」を選択します。
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 

@@ -4,8 +4,8 @@ title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '218'
+workflow-type: ht
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## 初期設定 {#initial-setup}
 
-1. （新しい組織または設立された組織で）Marketo Engage の指定システム管理者として追加されたら、お知らせメールが届きます。そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
+1. （新しい組織または設立された組織で）Marketo Engage の指定システム管理者として追加されたら、ウェルカムメールが届きます。そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
 
    ![](assets/admin-setup-1.png)
 

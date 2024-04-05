@@ -5,8 +5,8 @@ title: ワークスペースとパーティションをまたいだセグメン�
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '471'
+workflow-type: ht
+source-wordcount: '474'
 ht-degree: 100%
 
 ---

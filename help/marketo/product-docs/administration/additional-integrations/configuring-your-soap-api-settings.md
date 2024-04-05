@@ -5,8 +5,8 @@ title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '87'
+workflow-type: ht
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

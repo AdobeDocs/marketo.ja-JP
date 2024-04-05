@@ -5,7 +5,7 @@ title: カスタムオブジェクトデータのインポート
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
 ht-degree: 100%
 

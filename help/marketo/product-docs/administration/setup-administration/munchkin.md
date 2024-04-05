@@ -5,8 +5,8 @@ title: "[!DNL Munchkin]"
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '48'
+workflow-type: ht
+source-wordcount: '44'
 ht-degree: 100%
 
 ---

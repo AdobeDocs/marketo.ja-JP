@@ -5,9 +5,9 @@ title: SEO ダッシュボードについて - SEO スナップショット
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
-workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '258'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ SEO の取り組みを改善するために何に注力すべきかを調べる�
 
 >[!NOTE]
 >
->データは、1 ～ 100 のランクのキーワードに対してのみ表示されます。
+>データは、1 位から 100 位のキーワードについてのみ表示されます。
 
 ## [!UICONTROL 平均ページ最適化スコア] {#average-page-optimization-score}
 

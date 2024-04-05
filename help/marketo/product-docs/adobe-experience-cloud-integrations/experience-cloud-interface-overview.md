@@ -4,8 +4,8 @@ title: Adobe Experience Cloud インターフェイスの概要
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '282'
+workflow-type: ht
+source-wordcount: '273'
 ht-degree: 100%
 
 ---

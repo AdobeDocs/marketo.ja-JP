@@ -5,8 +5,8 @@ title: ドリップ、ドリップ、ナーチャリング
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '456'
+workflow-type: ht
+source-wordcount: '468'
 ht-degree: 100%
 
 ---

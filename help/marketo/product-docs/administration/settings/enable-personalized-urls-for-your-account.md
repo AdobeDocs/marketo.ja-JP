@@ -5,7 +5,7 @@ title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 

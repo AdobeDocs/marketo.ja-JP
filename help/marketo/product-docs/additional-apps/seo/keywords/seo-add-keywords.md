@@ -5,9 +5,9 @@ title: SEO - キーワードの追加
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
-workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->データは、1 ～ 100 のランクのキーワードに対してのみ表示されます。
+>データは、1 位から 100 位のキーワードについてのみ表示されます。
 
 >[!MORELIKETHIS]
 >

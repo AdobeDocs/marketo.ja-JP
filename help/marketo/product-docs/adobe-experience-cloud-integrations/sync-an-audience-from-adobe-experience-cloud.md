@@ -4,8 +4,8 @@ title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '272'
+workflow-type: ht
+source-wordcount: '275'
 ht-degree: 100%
 
 ---

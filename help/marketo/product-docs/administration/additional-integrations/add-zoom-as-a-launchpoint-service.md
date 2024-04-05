@@ -5,7 +5,7 @@ title: " [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加"
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 

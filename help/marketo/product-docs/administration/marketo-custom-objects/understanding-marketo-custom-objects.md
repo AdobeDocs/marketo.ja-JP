@@ -5,9 +5,9 @@ title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '678'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 スマートキャンペーンでは、フィルターおよびトリガーとしてカスタムオブジェクトを使用します。例：
 

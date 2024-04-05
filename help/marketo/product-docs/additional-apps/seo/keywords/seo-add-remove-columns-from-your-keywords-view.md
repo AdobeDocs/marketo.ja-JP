@@ -5,7 +5,7 @@ title: SEO - キーワード表示に対する列の追加／削除
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 

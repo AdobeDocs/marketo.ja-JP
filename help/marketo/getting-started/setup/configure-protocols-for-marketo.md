@@ -5,9 +5,9 @@ title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
-workflow-type: tm+mt
-source-wordcount: '2104'
-ht-degree: 41%
+workflow-type: ht
+source-wordcount: '2116'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 41%
 
 お客様またはお客様の組織が制限的なファイアウォールまたはプロキシサーバー設定を使用している場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-以下のプロトコルの実装に関しては、この記事を IT 部門と共有してください。 を使用して Web アクセスを制限する場合許可リストに加えるは、次のドメイン（アスタリスクを含む）を追加して、すべてのMarketoリソースおよび Web ソケットを許可してください。
+以下のプロトコルの実装に関するヘルプについては、この記事を IT 部門と共有してください。許可リストを使用して web アクセスを制限する場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可します。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -90,7 +90,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
 ## 手順 3：SPF と DKIM の設定 {#step-set-up-spf-and-dkim}
 
-また、DNS リソースレコード（以下にも示す）に追加する DKIM（ドメインキー識別メール）情報もマーケティングチームから送信されている必要があります。 次の手順に従って DKIM および SPF(Sender Policy Framework) を正しく設定し、更新されたことをマーケティングチームに通知します。
+マーケティングチームは、DNS リソースレコードに追加する DKIM（Domain Keys Identified Mail）情報も送信しています（以下も参照）。手順に従って DKIM と SPF（Sender Policy Framework）を正しく設定し、この設定が更新されたことをマーケティングチームに通知します。
 
 1. SPF を設定するには、DNS エントリに以下の行を追加します。
 
@@ -102,74 +102,74 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
    CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：255.255.255.255）で置き換えます。Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
 
-1. DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成します。 署名する各ドメインのホストレコードと TXT 値を以下に示します。
+1. DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成します。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
    `[DKIMDomain1]`：ホストレコードが `[HostRecord1]` で、TXT 値が `[TXTValue1]` です。
 
    `[DKIMDomain2]`：ホストレコードが `[HostRecord2]` で、TXT 値が `[TXTValue2]` です。
 
-   設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。 [こちらの説明](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
+   [こちらの手順](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}に従って、設定した DKIMDomain ごとに HostRecord と TXTValue をコピーします。IT スタッフがこの手順を完了したら、必ず管理者／メール／DKIM で各ドメインを確認してください。
 
-## 手順 4:DMARC のセットアップ {#set-up-dmarc}
+## 手順 4：DMARC の設定 {#set-up-dmarc}
 
-DMARC(Domain-based Message Authentication, Reporting &amp; Conformance) は、組織がドメインを不正使用から保護するのに役立つ認証プロトコルです。 DMARC は、SPF や DKIM などの既存の認証プロトコルを拡張し、ドメインで認証に失敗した場合に受信者が実行するアクションを受信者サーバーに通知します。 DMARC は現在オプションですが、組織のブランドとレピュテーションをより良く保護するため、強くお勧めします。 Googleや Yahoo などの主なプロバイダーは、2024 年 2 月以降、一括送信者に対して DMARC を使用する必要があります。
+DMARC（Domain-based Message Authentication, Reporting &amp; Conformance）は、組織がドメインを不正使用から保護するのに役立つ認証プロトコルです。DMARC は、SPF や DKIM などの既存の認証プロトコルを拡張して、ドメインで認証の失敗が発生した場合に受信者サーバーで実行する必要があるアクションを通知します。DMARC は現在オプションですが、組織のブランドとレピュテーションをより良く保護できるので、DMARC を使用することを強くお勧めします。Google や Yahoo などの大手プロバイダーは、2024年2月から一括送信者に DMARC の使用を義務付けます。
 
-DMARC が機能するには、次の DNS TXT レコードの少なくとも 1 つが必要です。
+DMARC が機能するには、次の DNS TXT レコードの 1 つ以上が必要です。
 
 * 有効な SPF
-* FROM：ドメインに対する有効な DKIM レコード (Marketo Engageに推奨 )
+* 送信元：ドメインに対する有効な DKIM レコード（Marketo Engage に推奨）
 
-さらに、FROM: Domain に対して DMARC 固有の DNS TXT レコードが必要です。 必要に応じて、選択した電子メールアドレスを定義して、組織内で DMARC レポートを配置する場所を指定し、レポートを監視できます。
+さらに、送信元：ドメインに対して DMARC 固有の DNS TXT レコードが必要です。オプションで、選択したメールアドレスを定義して、組織内の DMARC レポートの送信先を指定できるので、レポートを監視できます。
 
-ベストプラクティスとして、DMARC ポリシーを p=none から p=quarantine にエスカレートし、p=reject にエスカレートして DMARC の潜在的な影響を理解し、DMARC ポリシーを SPF と DKIM に緩和的に連携するように設定することを、DMARC の実装を徐々に展開することをお勧めます。
+ベストプラクティスとして、DMARC の潜在的な影響を理解し、SPF と DKIM の整列を緩和するように DMARC ポリシーを設定するにつれて、DMARC ポリシーを p=none、p=quarantine、p=reject にエスカレートすることで、DMARC 実装をゆっくりロールアウトすることをお勧めします。
 
-### DMARC ワークフローの例 {#dmarc-example-workflow}
+### DMARC のワークフローの例 {#dmarc-example-workflow}
 
-1. DMARC レポートを受け取るように設定されている場合は、次の操作を行う必要があります。
+1. DMARC レポートを受信するように設定している場合は、次の操作を行う必要があります。
 
-   I.受信および使用するフィードバックおよびレポート (p=none) を分析します。これは、受信者に対して、認証に失敗したメッセージに対して何も実行せず、まだ送信者に電子メールレポートを送信するように指示します。
+   I. 受信して使用するフィードバックとレポートを分析します（p=none）。これは、認証に失敗したメッセージに対して何もアクションを実行しないように受信者に指示しますが、まだ送信者にメールレポートを送信します。
 
-   2. 正当なメッセージが認証に失敗する場合は、SPF/DKIM の問題を確認および修正します。
+   II.正当なメッセージが認証に失敗する場合は、SPF／DKIM に関する問題を確認して修正します。
 
-   三。 SPF または DKIM が整列し、すべての正当な E メールに認証を渡しているかどうかを確認します。
+   III.SPF または DKIM が整列され、すべての正規メールの認証に合格しているかどうかを確認します。
 
-   四位 レポートをレビューして、SPF/DKIM ポリシーに基づいて期待される結果であることを確認します。
+   IV.レポートを確認して、結果が SPF／DKIM ポリシーに基づいて期待どおりであることを確認します。
 
-1. ポリシーを (p=quarantine) に調整します。これは、受信側の E メールサーバーに対し、認証に失敗した E メールを強制隔離するよう伝えます（これは通常、これらのメッセージをスパムフォルダーに配置することを意味します）。
+1. ポリシーを（p=quarantine）に調整します。これにより、認証に失敗したメールを強制隔離するように受信メールサーバーに通知されます（これは通常、メッセージをスパムフォルダーに配置することを意味します）。
 
-   I.レポートをレビューし、期待通りの結果が得られるかを確認します。
+   I. レポートを確認して、結果が期待どおりであることを確認します。
 
-1. p=quarantine レベルでのメッセージの動作に満足している場合は、(p=reject) にポリシーを調整できます。 p=reject ポリシーは、認証に失敗したドメインの E メールを受信者に対して完全に拒否（バウンス）するように指示します。 このポリシーを有効にすると、ドメインで 100%認証された電子メールのみがインボックスに配置される機会を得ることができます。
+1. p=quarantine レベルでのメッセージの動作に満足している場合は、ポリシーを（p=reject）に調整できます。p=reject ポリシーは、認証に失敗したドメイン宛てのメールを完全に拒否（バウンス）するように受信者に通知します。このポリシーを有効にすると、ドメインによって 100％認証されたことが確認されたメールのみがインボックスに配置される可能性があります。
 
 >[!CAUTION]
 >
->このポリシーを使用する際は慎重に行い、組織に適しているかどうかを判断してください。
+>このポリシーは慎重に使用し、組織に対して適切かどうかを判断します。
 
 ### DMARC レポート {#dmarc-reporting}
 
-DMARC は、SPF/DKIM に失敗した E メールに関するレポートを受け取る機能を備えています。 送信者が DMARC ポリシーの RUA/RUF タグを通じて受信できる認証プロセスの一環として、ISP サービス担当者が生成する 2 つの異なるレポートがあります。
+DMARC は、SPF／DKIM に失敗したメールに関するレポートを受信する機能を備えています。認証プロセスの一部として ISP サービサーによって生成される 2 つの異なるレポートがあり、送信者は DMARC ポリシーの RUA／RUF タグを通じて受信できます。
 
-* 集計レポート (RUA):GDPR（一般データ保護規則）の影響を受けやすい PII（個人を特定できる情報）が含まれていません。
+* 集計レポート（RUA）：GDPR（EU 一般データ保護規則）の対象となる PII（個人を特定できる情報）は含まれません。
 
-* フォレンジックレポート (RUF):GDPR に影響を受ける電子メールアドレスが含まれます。 を利用する前に、GDPR に準拠する必要がある情報の処理方法を内部で確認することをお勧めします。
+* フォレンジックレポート（RUF）：GDPR の対象となるメールアドレスが含まれます。利用する前に、GDPR に準拠する必要がある情報の処理方法を社内で確認することをお勧めします。
 
-これらのレポートの主な使用方法は、スプーフィングを試行した電子メールの概要を受け取ることです。 これらは、サードパーティのツールを通じて最もよく消化される、非常に技術的なレポートです。
+これらのレポートの主な使用方法は、スプーフィングが試みられたメールの概要を取得することです。これらは技術的なレポートであり、サードパーティのツールを使用するのが最も効果的です。
 
 ### DMARC レコードの例 {#example-dmarc-records}
 
-* 最小レコード数： `v=DMARC1; p=none`
+* 最低限のレコード：`v=DMARC1; p=none`
 
-* レポートを受け取る電子メールアドレスにリダイレクトするレコード： `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+* レポートを受信するメールアドレスに指示するレコード：`v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
 ### DMARC タグとその機能 {#dmarc-tags-and-what-they-do}
 
-DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネントが含まれます。 各タグには、DMARC の特定の側面を指定する値が含まれます。
+DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネントがあります。各タグには、DMARC の特定の側面を指定する値があります。
 
 <table>
 <thead>
   <tr>
     <th>タグ名 </th>
-    <th>必須/オプション </th>
+    <th>必須／オプション </th>
     <th>機能 </th>
     <th>例 </th>
     <th>デフォルト値 </th>
@@ -179,30 +179,30 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
   <tr>
     <td>v</td>
     <td>必須</td>
-    <td>この DMARC タグは、バージョンを指定します。 現時点では 1 つのバージョンのみなので、v=DMARC1 の固定値になります。</td>
+    <td>この DMARC タグは、バージョンを指定します。現時点ではバージョンが 1 つしかないので、v=DMARC1 の固定値になります</td>
     <td>V=DMARC1 DMARC1</td>
     <td>DMARC1</td>
   </tr>
   <tr>
     <td>p</td>
     <td>必須</td>
-    <td>選択された DMARC ポリシーを表示し、認証チェックに失敗したメールをレポート、強制隔離、または拒否するよう受信者に指示します。</td>
+    <td>選択された DMARC ポリシーを表示し、認証チェックに失敗したメールを報告、強制隔離または却下するよう受信者に指示します。</td>
     <td>p=なし、強制隔離または却下</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>～に対して</td>
-    <td>任意</td>
-    <td>ドメイン所有者がレポートオプションを指定できるようにします。</td>
-    <td>0：すべてが失敗した場合にレポートを生成 
-    <br>1：何か失敗した場合にレポートを生成 
-    <br>d:DKIM が失敗した場合にレポートを生成 
-    <br>s:SPF に失敗した場合にレポートを生成する</td>
-    <td>1 （DMARC レポートに推奨）</td>
+    <td>fo</td>
+    <td>オプション</td>
+    <td>ドメイン所有者はレポートオプションを指定できます。</td>
+    <td>0：すべてが失敗した場合にレポートを生成
+    <br>1：何か失敗した場合にレポートを生成
+    <br>d：DKIM が失敗した場合にレポートを生成
+    <br>s：SPF が失敗した場合にレポートを生成</td>
+    <td>1（DMARC レポートに推奨）</td>
   </tr>
   <tr>
     <td>pct</td>
-    <td>任意</td>
+    <td>オプション</td>
     <td>フィルタリングの対象となるメッセージの割合を示します。</td>
     <td>pct=20</td>
     <td>100</td>
@@ -210,77 +210,77 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
   <tr>
     <td>rua</td>
     <td>オプション（推奨）</td>
-    <td>集計レポートが配信される場所を識別します。</td>
+    <td>集計レポートの配信先を識別します。</td>
     <td>rua=mailto:aggrep@example.com</td>
     <td>-</td>
   </tr>
   <tr>
     <td>ruf</td>
     <td>オプション（推奨）</td>
-    <td>法医学レポートがどこに配信されるかを識別します。</td>
+    <td>フォレンジックレポートの配信先を識別します。</td>
     <td>ruf=mailto:authfail@example.com</td>
     <td>-</td>
   </tr>
   <tr>
     <td>sp</td>
-    <td>任意</td>
+    <td>オプション</td>
     <td>親ドメインのサブドメインに対して DMARC ポリシーを指定します。</td>
     <td>sp=reject</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>アドキム</td>
-    <td>任意</td>
-    <td>Strict (s) または Relaxed ®のいずれかです。 緩和された整列とは、DKIM 署名で使用されるドメインが「送信者」アドレスのサブドメインになる可能性があることを意味します。 厳密に整列させると、DKIM 署名で使用されるドメインは、送信元アドレスで使用されるドメインと完全に一致する必要があります。</td>
+    <td>adkim</td>
+    <td>オプション</td>
+    <td>Strict (s) または Relaxed ® のいずれかになります。Relaxed 整列では、DKIM 署名で使用されるドメインが「送信元」アドレスのサブドメインになる可能性があります。Strict 整列では、DKIM 署名で使用されるドメインが送信元アドレスで使用されるドメインと完全に一致する必要があります。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
-    <td>任意</td>
-    <td>Strict (s) または Relaxed ®のいずれかです。 緩和された配置とは、ReturnPath ドメインが From Address のサブドメインになることを意味します。 厳密に整列すると、Return-Path ドメインは From アドレスと完全に一致する必要があります。</td>
+    <td>オプション</td>
+    <td>Strict (s) または Relaxed ® のいずれかになります。Relaxed 整列では、ReturnPath ドメインが送信元アドレスのサブドメインできることを意味します。Strict 整列では、Return-Path ドメインが送信元アドレスと完全に一致する必要があります。</td>
     <td>aspf=r</td>
     <td>r</td>
   </tr>
 </tbody>
 </table>
 
-DMARC とそのすべてのオプションについて詳しくは、 [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+DMARC とそのすべてのオプションについて詳しくは、[https://dmarc.org/](https://dmarc.org/){target="_blank"} を参照してください。
 
-### DMARC とMarketo Engage {#dmarc-and-marketo-engage}
+### DMARC と Marketo Engage {#dmarc-and-marketo-engage}
 
-DMARC には、DKIM の調整と SPF の調整の 2 種類があります。
+DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあります。
 
 >[!NOTE]
 >
->Marketoの DKIM と SPF で DMARC の連携を行うことをお勧めします。
+>Marketo では、DKIM と SPF で DMARC の整列を行うことをお勧めします。
 
-* DKIM-aligned DMARC - DKIM aligned DMARC を設定するには、次の操作を行う必要があります。
+* DKIM に整列された DMARC - DKIM に整列された DMARC を設定するには、以下を行う必要があります。
 
-   * メッセージの「送信元： 」ドメインに DKIM を設定します。 手順を使用します [この記事では、](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * 以前に設定した FROM:/DKIM ドメイン用に DMARC を設定します
+   * メッセージの送信元ドメインに対して DKIM を設定します。[この記事](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}の手順に従ってください。
+   * 以前に設定した送信元／DKIM ドメインに対して DMARC を設定します
 
-* DMARC-aligned SPF — ブランドの Return Path を使用して DMARC aligned SPF を設定するには、次の手順を実行する必要があります。
+* DMARC に整列された SPF - DMARC に整列された SPF をブランドの Return-Path を通じて設定するには、以下を行う必要があります。
 
-   * ブランドの Return-Path ドメインの設定
-      * 適切な SPF レコードの設定
-      * MX レコードを変更して、メールが送信されるデータセンターのデフォルト MX を指すようにします。
+   * ブランドの Return-Path ドメインを設定します
+      * 適切な SPF レコードを設定します
+      * メールの送信元となるデータセンターのデフォルトの MX を指すように MX レコードを変更します
 
-   * ブランドの Return-Path ドメイン用の DMARC の設定
+   * ブランドの Return-Path ドメインに対して DMARC を設定します
 
-* 専用の IP 経由でMarketoからメールを送信する場合で、ブランドのリターンパスをまだ実装していない場合、または既に実装しているかどうかわからない場合は、 [Marketoサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* 専用 IP を通じて Marketo からメールを送信していて、ブランドの Return-Path をまだ実装していない場合や、実装しているかどうかわからない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
-* Marketoから IP の共有プールを通じてメールを送信する場合は、次の方法で信頼済み IP に該当するかどうかを確認できます。 [ここに適用](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Marketoの信頼済み IP から送信されるユーザーには、ブランド化された Return Path が無料で提供されます。 このプログラムが承認された場合は、Marketoサポートに連絡して、ブランドの Return Path を設定してください。
+* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
 
-   * 信頼済み IP：専用 IP の対象とならない 75,000 人/月未満のボリュームのユーザーが送信するために予約された、IP の共有プール。 また、ベストプラクティス要件も満たす必要があります。
+   * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
 
-* Marketoから共有 IP 経由でメールを送信する場合で、信頼済み IP の条件を満たさず、1 ヶ月に 10 万件を超えるメッセージを送信する場合は、Adobeアカウントチーム（アカウントマネージャー）に連絡して専用 IP を購入する必要があります。
+* 共有 IP を通じて Marketo からメールを送信していて、信頼済み IP の資格がなく、毎月 100,000 件を超えるメッセージを送信している場合は、アドビのアカウントチーム（アカウントマネージャー）に連絡して専用 IP を購入する必要があります。
 
-* Marketo内では、厳密な SPF 調整はサポートされておらず、推奨もされていません。
+* Strict SPF 整列は Marketo 内ではサポートされておらず、推奨されてもいません。
 
 ## 手順 5：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
-MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
+MX レコードを使用すると、メールの送信元のドメインに対するメールを受信して、返信や自動返信を処理することができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 
 ## アウトバウンド IP アドレス {#outbound-ip-addresses}
 

@@ -5,9 +5,9 @@ title: SEO - サイトの追加と削除
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo がサイトのページに関連するデータ（インバウンドリ
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## [!UICONTROL サイトの追加] {#add-a-site}
 

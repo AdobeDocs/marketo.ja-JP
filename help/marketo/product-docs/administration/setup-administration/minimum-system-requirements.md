@@ -5,15 +5,15 @@ title: 必要なシステム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
 source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
-workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 53%
+workflow-type: ht
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
 # 必要なシステム構成 {#minimum-system-requirements}
 
-ログインしてMarketo Engageを使用する必要がある場合は、次の情報をお探しです。
+Marketo Engage にログインして使用するために必要なものをご紹介します。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 53%
 
 >[!NOTE]
 >
->IT チームがの使用を制限している場合は、ユーザーに許可リストに加える「 `*.marketo.com`, `*.adobe.com`、および `*.adobe.net` すべてのMarketo Engageリソースと web ソケットを許可する。
+>IT チームが許可リストを使用して Web アクセスを制限している場合は、`*.marketo.com`、`*.adobe.com`、`*.adobe.net` を追加して、すべての Marketo Engage リソースと Web ソケットを許可するように依頼します。

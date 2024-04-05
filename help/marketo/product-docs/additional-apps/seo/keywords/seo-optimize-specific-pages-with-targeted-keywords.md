@@ -5,7 +5,7 @@ title: SEO - ターゲットキーワードを使用した特定のページの�
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # SEO - ターゲットキーワードを使用した特定のページの最適化 {#seo-optimize-specific-pages-with-targeted-keywords}
 
-一部のキーワードは、特定のページにとても適しています。ここでは、完璧なキーワードを完全なページに一致させる手順を示します。これにより、最も正確なデータと改善に関する最適な推奨事項が提供されます。
+一部のキーワードは、特定のページにとても適しています。ここでは、完璧なキーワードを完全なページに一致させる手順を示します。これにより、最も正確なデータと改善に関する最適なレコメンデーションが提供されます。
 
 1. 「**[!UICONTROL ページ]**」セクションに移動します。
 

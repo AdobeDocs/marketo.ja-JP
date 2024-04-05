@@ -5,8 +5,8 @@ title: サポートされているブラウザー
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: tm+mt
-source-wordcount: '50'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---

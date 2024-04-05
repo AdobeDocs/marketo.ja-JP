@@ -5,7 +5,7 @@ title: " [!DNL GoogleAdwords Activity Log] のダウンロード"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
 ht-degree: 100%
 
