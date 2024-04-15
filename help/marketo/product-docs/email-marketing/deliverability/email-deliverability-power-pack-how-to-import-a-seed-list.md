@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10099077
-description: シードリストをMarketo Engageインスタンスに読み込む方法を説明します。
-title: E メール配信パワーパック — シードリストのインポート方法
+description: シードリストを Marketo Engage インスタンスに読み込む方法について説明します。
+title: メール配信品質パワーパック - シードリストの読み込み方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '333'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # メール到達率パワーパック：シードリストのインポート方法 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。次に、そのリストをMarketo Engageインスタンスに取り込む手順を示します。
+シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。以下に、そのリストを Marketo Engage インスタンスに取得する手順を示します。
 
 >[!IMPORTANT]
 >
->この記事は、現時点でアクティブなエベレストサブスクリプションを持つユーザー向けです。 Bird（旧称 MessageBird）による受信ボックストラッカーを使用する場合は、チュートリアル [ここにあります](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>この記事は、現時点でアクティブな Everest サブスクリプションを持つユーザ向けです。Bird（旧称 MessageBird）によるインボックストラッカーを使用する場合は、[こちらの](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}チュートリアルをご覧ください。
 
 ## シードリストのインポート {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ ht-degree: 70%
    >
    >Everest でリストを最適化する場合は、（ページ上部にある）シードリストオプティマイザーを使用します。
 
-1. 書き出し後、リストは.txt ファイルとしてブラウザーの downloads フォルダーに表示されます。 取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
+1. 書き出し後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
    ![](assets/email-deliverability-power-pack-5.png)
 
@@ -57,4 +57,4 @@ ht-degree: 70%
 
 シードリストは、毎月同じ頻度で変更される場合があります。メール到達率パワーパックに定期的にログインし、シードリストのステータスを確認することが重要です。新しいアドレスが追加されたり、自分側でアップデートが必要な場合は、アプリケーションの左下にある通知アイコンでアラートが表示されます。
 
-Marketoで静的リストを作成したら、そのリストへの送信を開始して、電子メールのインボックスへの配置をテストできます。
+Marketo で静的リストを作成したら、そのリストへの送信を開始して、メールのインボックスへの配置をテストできます。

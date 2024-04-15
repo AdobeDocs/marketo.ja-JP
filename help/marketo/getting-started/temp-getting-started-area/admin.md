@@ -6,9 +6,9 @@ hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '985'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
@@ -230,35 +230,35 @@ ht-degree: 54%
   </tr>
   <tr>
     <td>ランディングページ </td>
-    <td>注意： Launch Pack をお使いですか？ この手順をスキップできます。キックオフコール中に、IT セットアップ手順書が担当のコンサルタントから提供されます。 <br>ランディングページドメインを <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html" target="_blank">CNAME</a> および <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html" target="_blank">ドメインとページの情報を入力</a>. これは、[LandingPageCNAME] の形式で記述する必要があります。[CompanyDomain].com <br>ランディングページの CNAME を選択します。 次に例を示します。 <br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com <br>ヒント：短くしてください。 URL は短いほど覚えやすくなります。ドメインには「go」を指定することをお勧めします。 <br>ランディングページテンプレートに Analytics トラッキングコード (Google Analytics、Adobe Analyticsなど ) を追加します。 </td>
+    <td>メモ：Launch Pack をご利用の場合は、この手順をスキップできます。初回コール時に、担当のコンサルタントが IT セットアップ手順書を提供します。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja" target="_blank">CNAME</a>を使用してランディングページのドメインを設定し、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja" target="_blank">ドメインとページの情報を入力</a>します。これは次の形式で記述します。[LandingPageCNAME].[CompanyDomain].com <br>ランディングページの CNAME を選択します。次に例を示します。<br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com <br>ヒント：短くしてください。URL は短いほど覚えやすくなります。ドメインには「go」を指定することをお勧めします。<br>分析トラッキングコード（Google Analytics や Adobe Analytics など）をランディングページテンプレートに追加します。 </td>
     <td><a href="https://docs.marketo.com/display/public/DOCS/Edit+Landing+Page+Settings">ランディングページ設定の編集</a></td>
   </tr>
   <tr>
     <td rowspan="2">Munchkin </td>
-    <td rowspan="2">注意： Launch Pack をご利用のお客様は、この手順をスキップしてください。 担当のコンサルタントが、IT セットアップ手順ドキュメントに Munchkin のコード手順を提供します。 <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html" target="_blank">Munchkin トラッキングコードの追加</a> を web サイトに追加します。 Munchkin コードは、 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">ハードコードされた</a> またはGoogle Tag Manager を使用してデプロイされます。</td>
-    <td><a href="https://docs.marketo.com/display/public/DOCS/Add+Munchkin+Tracking+Code+to+Your+Website">Web サイトへの Munchkin 追跡コードの追加</a> </td>
+    <td rowspan="2">メモ：Launch Pack をご利用場合は、この手順をスキップしてください。担当のコンサルタントが、IT セットアップ手順ドキュメントに Munchkin コード手順を提供します。Web サイトに <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html?lang=ja" target="_blank">Munchkin トラッキングコードを追加</a>します。Munchkin コードは、<a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">ハードコード</a>することも、Google タグマネージャー経由でデプロイすることもできます。</td>
+    <td><a href="https://docs.marketo.com/display/public/DOCS/Add+Munchkin+Tracking+Code+to+Your+Website">Web サイトへの Munchkin トラッキングコードの追加</a> </td>
   </tr>
   <tr>
     <td><a href="https://developers.marketo.com/javascript-api/lead-tracking/">リードトラッキング</a> </td>
   </tr>
   <tr>
     <td>Web サービス </td>
-    <td>有効にする <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html" target="_blank">IP 制限</a> 該当する場合は。 <br>作成可能なユーザー/アプリを決定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html" target="_blank">API 呼び出し</a> インスタンス内で使用できます。 <br>API 呼び出しをおこなうすべてのアプリを確認し、API 呼び出しに増やしや切り取りが必要かどうかを判断します。</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html#product-docs">IP ベー許可リストに加えるスの API アクセス用のの作成 </a> </td>
+    <td>該当する場合は、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html?lang=ja" target="_blank">IP 制限</a>を有効にします。<br>インスタンス内で <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html?lang=ja" target="_blank">API 呼び出し</a>を実行できるユーザ／アプリを決定します。<br>API 呼び出しを行うすべてのアプリを確認し、API 呼び出しの増加または削減が必要かどうかを判断します。</td>
+    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.html?lang=ja#product-docs">IP ベースの API アクセス用の許可リストの作成</a> </td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（該当する場合） </td>
-    <td>を使用する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html" target="_blank">Dynamic Chat</a>、Marketo Engageのネイティブ対話型エンゲージメントチャネル、次の手順に従って、ユーザー権限の設定に進みます： <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. <br> <br>Adobe組織システム管理者からAdobe製品管理者の役割が付与されているかどうかを確認します。 連絡先 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobeカスタマーケア</a><a href="https://helpx.adobe.com/contact.html)." target="_blank">https://helpx.adobe.com/contact.html</a> をクリックして、組織内で誰がコンソールの管理者権限を持っているかを確認します。 <br>確定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html" target="_blank">「Dynamic Chat製品管理者」招待</a>. The <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html" target="_blank">お知らせメール</a> は、Marketo EngageインスタンスでDynamic Chatが有効になっていて、システム管理者に指定されている場合に送信されます。  <br>Adobe Admin Consoleの製品プロファイルに、すべての適切なMarketo Engageを割り当てます。 <br>製品プロファイルに追加する前に、Marketo Engage/管理者/ユーザーとロールでユーザーのロールを割り当てることはできません。  <br>望ましくないユーザーが複数の製品プロファイルに追加された場合は、すべての製品プロファイルからそのユーザーを削除する必要があります。 そうしないと、ユーザーは引き続きDynamic Chatにアクセスできます。 </td>
+    <td>Marketo Engage のネイティブの対話型エンゲージメントチャネルである <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja" target="_blank">Dynamic Chat</a> を使用するには、<a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> で以下の手順に従ってユーザ権限の設定を進めます。<br> <br>アドビ組織システム管理者からアドビ製品管理者ロールのロールを付与されているかどうかを確認します。コンソールの管理者権限を持っている組織内の担当者を確認するには、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a> <a href="https://helpx.adobe.com/contact.html)." target="_blank">https://helpx.adobe.com/jp/contact.html</a> にお問い合わせください。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja" target="_blank">「Dynamic Chat 製品管理者」の招待</a>を承認します。この<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja" target="_blank">ウェルカムメール</a>は、Marketo Engage インスタンスで Dynamic Chat が有効になっており、ご自身をシステム管理者として指定している場合に送信されます。<br>Adobe Admin Console で、すべての適切なユーザを Marketo Engage の製品プロファイルに割り当てます。<br>製品プロファイルに追加する前に、Marketo Engage／管理者／ユーザ＆ロールでユーザのロールを割り当てることはできません。<br>望ましくないユーザが複数の製品プロファイルに追加された場合は、そのユーザをすべての製品プロファイルから削除する必要があります。それ以外の場合は、Dynamic Chat に引き続きアクセスできます。 </td>
     <td> </td>
   </tr>
   <tr>
     <td>Launchpoint（該当する場合） </td>
-    <td>必要に応じてを設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">LaunchPoint</a> お客様のビジネスに適したサービスです。  <br>注意：インタラクティブウェビナーは、Adobe Connectとネイティブに統合された組み込みのウェビナー機能です。 追加の統合は必要ありませんが、インスタンスで必要になるのは <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">Adobe Connect as a LaunchPoint Service に同期します。</a>  </td>
-    <td><a href="https://docs.marketo.com/display/public/DOCS/Additional+Integrations">その他の統合</a> </td>
+    <td>ビジネスに必須の <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja" target="_blank">LaunchPoint</a> サービスを設定します。<br>メモ：インタラクティブウェビナーは、Adobe Connect へのネイティブ統合を備えたビルトインのウェビナー機能です。追加の統合は必要ありませんが、インスタンスを <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja" target="_blank">LaunchPoint サービスとして Adobe Connect に同期</a>する必要があります。  </td>
+    <td><a href="https://docs.marketo.com/display/public/DOCS/Additional+Integrations">追加的な統合</a> </td>
   </tr>
   <tr>
     <td>Web フック（該当する場合）</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html" target="_blank">必要なウェブフックを作成する</a> あなたのビジネスのために。  </td>
+    <td>ビジネスに<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=ja" target="_blank">必須の Web フックを作成</a>します。  </td>
     <td><a href="https://docs.marketo.com/display/public/DOCS/Create+a+Webhook">Web フックの作成</a> </td>
   </tr>
 </tbody>
@@ -277,12 +277,12 @@ ht-degree: 54%
 <tbody>
   <tr>
     <td>アイデアスペース</td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html" target="_blank">宝箱を有効にする</a> を使用して、パイロット機能を試すことができます。  <br>オンまたはオフにする機能を決定します。</td>
+    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html?lang=ja" target="_blank">アイデアスペースを有効</a>にして、パイロット機能を実験します。<br>オンまたはオフにする機能を決定します。</td>
     <td>テキスト</td>
   </tr>
   <tr>
     <td>キャンペーンインスペクター </td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html" target="_blank">キャンペーンインスペクターをオンにする</a> すべてのスマートキャンペーンを一度に表示できます。</td>
+    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html?lang=ja" target="_blank">キャンペーンインスペクターをオンに</a>すると、すべてのスマートキャンペーンを一度に表示できます。</td>
     <td>テキスト</td>
   </tr>
 </tbody>

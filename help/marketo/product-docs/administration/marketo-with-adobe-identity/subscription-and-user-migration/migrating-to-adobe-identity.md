@@ -4,9 +4,9 @@ title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2252'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,9 @@ ht-degree: 96%
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Marketoサブスクリプションのユーザー数が 75 人未満で、MarketoやAdobe組織で SSO を使用していない場合。**&#x200B;の場合、Adobeは残りのユーザーを自動的に移行します。 このワークフローは最高レベルの自動化を実現することを目的としており、移行を実行するためにアクションは必要ありません。移行が完了すると、Marketo Migration Console は Marketo 管理者ナビゲーションエリアに表示されなくなり、すべてのユーザが Adobe ID を使用して Marketo にアクセスするようになります。
+**Marketo サブスクリプションのユーザ数が 75 人未満で、Marketo やアドビ組織で SSO を使用していない場合**、アドビは残りのユーザを自動的に移行します。このワークフローは最高レベルの自動化を実現することを目的としており、移行を実行するためにアクションは必要ありません。移行が完了すると、Marketo Migration Console は Marketo 管理者ナビゲーションエリアに表示されなくなり、すべてのユーザが Adobe ID を使用して Marketo にアクセスするようになります。
 
-**Marketoサブスクリプションに 75 人以上のユーザーがいる場合、またはMarketoやAdobe組織で SSO を使用している場合**&#x200B;を使用すると、Marketo製品管理者は、ユーザーの移行を開始すると My Marketoページのログイン時に Migration Console のセルフサービスユーザー移行ツールにアクセスでき、バナー経由でアラートを受け取ります。 管理者は、セルフサービスユーザ移行ツールを使用してユーザの移行を完了する必要があります。
+**Marketo サブスクリプションのユーザ数が 75 人以上の場合、または Marketo やアドビ組織で SSO を使用している場合**、Marketo 製品管理者は、ユーザ移行の開始時に Migration Console のセルフサービスユーザ移行ツールにアクセスできるようになり、マイ Marketo ページのログイン時にバナーで注意が喚起されます。管理者は、セルフサービスユーザ移行ツールを使用してユーザの移行を完了する必要があります。
 
 ![](assets/migrating-to-adobe-identity-6.png)
 

@@ -1,24 +1,24 @@
 ---
 description: インボックストラッカーの配信品質の問題をテスト、監視、理解します。
-title: インボックストラッカーTutorials
+title: インボックストラッカーのチュートリアル
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
 source-git-commit: d65903d64d068a6f919df78258654414f3b76426
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# インボックストラッカーTutorials {#inbox-tracker-tutorials}
+# インボックストラッカーのチュートリアル {#inbox-tracker-tutorials}
 
-Bird（旧称 MessageBird）受信ボックストラッカープラットフォームによる E メール配信ツールの配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスと E メールのレンダリング/受信ボックステストの先見を組み合わせて、E メールのパフォーマンスを最大化する単一のアプリケーションです。
+Bird（旧称 MessageBird）インボックストラッカーのプラットフォームによるメール配信品質ツールの配信品質の問題をテスト、監視、理解します。インボックストラッカーは、プログラムのインテリジェンスとメールのレンダリング／インボックステストの先見性を組み合わせて、メールのパフォーマンスを最大化する単一のアプリケーションです。
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-Bird は、この強力なツールを最大限に活用するためのトレーニングビデオをいくつか作成しました。
+Bird は、この強力なツールを最大限に活用できるように、トレーニングビデオをいくつか作成しました。
 
 ## インボックストラッカーの概要 {#inbox-tracker-overview}
 
@@ -26,11 +26,11 @@ Bird は、この強力なツールを最大限に活用するためのトレー
 
 * [基本ナビゲーション](https://veed.io/view/263a0e5e-3b0c-40a4-98a7-945fe28173a1){target="_blank"}
 
-* [ユーザーおよびアカウント設定](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
+* [ユーザおよびアカウント設定](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
 * [Intelliseed（設定とダウンロード）](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
-## インボックストラッカーの配信品質セクション {#inbox-tracker-deliverability-section}
+## 「インボックストラッカーの配信品質」セクション {#inbox-tracker-deliverability-section}
 
 ![](assets/inbox-tracker-tutorials-2.png)
 
@@ -52,7 +52,7 @@ Bird は、この強力なツールを最大限に活用するためのトレー
 
 * [プロファイルモニター](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
-* [スパムトラップモニタ](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
+* [スパムトラップモニター](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 
 ## インボックストラッカーのブランド保護 {#inbox-tracker-brand-protection}
 
@@ -60,9 +60,9 @@ Bird は、この強力なツールを最大限に活用するためのトレー
 
 * [ドメインの詳細](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 
-* [Policy Manager](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
+* [ポリシーマネージャー](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 
-## インボックストラッカーポストマスターツール {#inbox-tracker-postmaster-tools}
+## インボックストラッカー Postmaster Tools {#inbox-tracker-postmaster-tools}
 
 * [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 

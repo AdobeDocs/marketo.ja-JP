@@ -1,20 +1,20 @@
 ---
-description: 新しいデータベースインスタンス用の「Marketo Engage」セクションの設定
-title: 新規エリアデータベース
+description: 新しい Marketo Engage インスタンスの「データベース」セクションを設定します。
+title: 新しい領域のデータベース
 hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 1966bc6f-9384-4c51-b3aa-57d5e52781f1
 source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # 新しい領域：データベースチェックリスト {#new-area-database-checklist}
 
-新しいデータベースインスタンスで、「データベース」セクションに必要な手順をMarketo Engageする方法を説明します。 「新しいインスタンスの実装」ガイドに従って、進行中のタスクを追跡し、長期的な効率を実現するためのインスタンスの設定に役立ちます。
+新しい Marketo Engage インスタンスの「データベース」セクションに必要な手順を実装する方法について説明します。「新しいインスタンスの実装」ガイドに従って、進行中のタスクを追跡し、長期的な効率を実現するインスタンスの設定に役立ちます。
 
 ## システムスマートリスト {#system-smart-lists}
 

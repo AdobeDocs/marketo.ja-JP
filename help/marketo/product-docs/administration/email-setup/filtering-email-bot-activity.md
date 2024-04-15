@@ -4,9 +4,9 @@ title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
 source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '534'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 95%
 
 以下の 2 つの異なる方法を使用して、ボットアクティビティを確認します。
 
-* [Interactive Advertising Bureau ボットリスト](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}と一致：IAB UA／IP（ユーザーエージェント／IP アドレス）リスト上の任意の項目と一致するアクティビティは、ボットとしてマークされます。
-* 近接性パターンと一致：2 つ以上のアクティビティが同時に（1 秒未満で）発生した場合、それらはボットとして識別されます。 比較時に考慮される属性は以下のとおりです。
+* [Interactive Advertising Bureau ボットリスト](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}と一致：IAB UA／IP（ユーザエージェント／IP アドレス）リスト上の任意の項目と一致するアクティビティは、ボットとしてマークされます。
+* 近接性パターンと一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。比較時に考慮される属性は以下のとおりです。
    * リード ID（同じであること）
    * メールアセット（同じであること）
    * リンククリックまたはメール開封

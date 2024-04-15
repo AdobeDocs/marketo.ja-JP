@@ -5,7 +5,7 @@ title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
 source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '466'
 ht-degree: 100%
 

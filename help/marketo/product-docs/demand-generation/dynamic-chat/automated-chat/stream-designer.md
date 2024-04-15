@@ -4,9 +4,9 @@ title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 04a993ecd700c5aa9b11a5347cf77d8a9c2e6091
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1128'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +38,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td style="width:25%"><strong>情報取得</strong></td>
-  <td>情報（名前、E メールアドレス、職位など）を収集する場合に使用します。 応答を関連付けるフィールドを選択した後、訪問者に応答を入力させるか、または決定した選択リストからオプションを選択できます（ヒント：後者はデータベースの清潔さを助けることができます）。 また、現在リストされているデータをその回答で上書きするか、値が既にある場合は質問を完全にスキップするかを選択できます。</td>
+  <td>情報（名前、メールアドレス、役職など）を収集する場合に使用します。応答を関連付けるフィールドを選択した後、訪問者に応答を入力させるか、または決定した選択リストからオプションを選択するかを選択できます（ヒント：後者はデータベースのクリーン度に役立ちます）。また、現在リストされているデータを応答で上書きするか、または値が既にある場合は質問を完全にスキップするかを選択することもできます。</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>会議の予約</strong></td>
-  <td>訪問者に、会議をスケジュールするために使用可能な日付のカレンダーを提供します。 ラウンドロビン、特定のエージェント、またはカスタムルールを使用して、カレンダーの可用性を選択します。 クリック <b>属性を追加</b> エージェントの名前または電子メールアドレスを取り込み、将来のクエリ用に chat 訪問者の個人レコードに割り当てる場合 ( ヒント： <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a> エージェントの情報をにマッピングして、標準の「Marketo Engage」フィールドを上書きしないようにする )。</td>
+  <td style="width:25%"><strong>ミーティング予約</strong></td>
+  <td>訪問者に、ミーティングをスケジュールするのに使用可能な日付のカレンダーを提供します。ラウンドロビン、特定のエージェント、またはカスタムルールを使用して、カレンダーの可用性を選択します。エージェントの名前またはメールアドレスを取得し、今後のクエリに対してチャット訪問者の担当者レコードに割り当てる場合は、「<b>属性を追加</b>」をクリックします（ヒント：標準の Marketo Engage フィールドを上書きしないように、<a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">カスタムフィールド</a>を作成してエージェントの情報をマッピングします）。</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>ゴール</strong></td>
@@ -50,14 +50,14 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td style="width:25%"><strong>アクション*</strong></td>
-  <td>フォーム内の非表示のフィールドと同様に、アクションカードを使用して、( <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string データ型</a>) をリードレコードに対してキャプチャする暗黙の値に置き換えます。 会話の任意の時点でアクションカードを追加し、それぞれの値を自動的に設定する値またはネイティブトークンを使用して、各属性を更新できます。
-  <p><i>*アクションカードにはDynamic ChatPrime が必要です。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
+  <td>フォームの非表示フィールドと同様に、アクションカードを使用すると、（<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">文字列データタイプ</a>を持つ）リードまたは会社の属性に、リードレコードに対して取り込む暗黙的な値を入力できます。会話の任意の時点でアクションカードを追加し、各属性を値またはそれぞれの値に自動的に入力するネイティブトークンで更新できます。
+  <p><i>* アクションカードには、Dynamic Chat Prime が必要です。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>ライブチャット</strong></td>
   <td>訪問者がライブエージェントとチャットする場合は、ライブチャットカードを使用します。
   <li>ライブチャットカードは、ブランチの最後のカードである必要があります。</li>
-  <li>訪問者は、ストリーム内のこのカードに到達するとすぐにエージェントにルーティングされるので、このカードの前に、ライブエージェントとのチャットを希望するかどうかを訪問者に尋ねる質問カードを付けることをお勧めします。</li></td>
+  <li>訪問者はストリーム内のこのカードに到達するとすぐにエージェントにルーティングされるので、このカードの前に、ライブエージェントとのチャットを希望するかどうかを訪問者に尋ねる質問カードを付けることをお勧めします。</li></td>
  </tr>
 </table>
 
@@ -90,17 +90,17 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
 ## ストリームの作成 {#create-a-stream}
 
-ダイアログのストリームを作成するか、 [対話型のForms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. この例では、ダイアログ用に 1 つ作成します。
+ダイアログまたは[対話型フォーム](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}のストリームを作成できます。この例では、ダイアログ用に 1 つ作成します。
 
-1. 以下の操作を実行した後： [ダイアログを作成しました](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}をクリックし、 **[!UICONTROL ストリームデザイナー]** タブをクリックします。
+1. [ダイアログを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}した後で、「**[!UICONTROL ストリームデザイナー]**」タブをクリックします。
 
    ![](assets/stream-designer-6.png)
 
-1. 次をドラッグ&amp;ドロップ： [!UICONTROL 質問] カード。
+1. [!UICONTROL 質問]カードをドラッグ＆ドロップします。
 
    ![](assets/stream-designer-7.png)
 
-1. の下 [!UICONTROL Chatbot 応答]、質問をお読みください。
+1. 「[!UICONTROL チャットボットの回答]」で、質問を入力します。
 
    ![](assets/stream-designer-8.png)
 
@@ -128,7 +128,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-11.png)
 
-1. これは目標なので、 [!UICONTROL 目標] 予約スケジューラーの下のカード。
+1. これは目標なので、予定スケジューラーの下にある[!UICONTROL 目標]カードをドラッグします。
 
    ![](assets/stream-designer-12.png)
 
@@ -136,7 +136,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-13.png)
 
-1. &quot;いいえ&quot;の場合は、彼らがメーリングリストに参加するかどうかを確認したいので、その下のオプションを別のオプションの上にドラッグします [!UICONTROL 質問] カード。
+1. 「いいえ」の場合は、ユーザがメーリングリストに登録するかどうかを確認するので、その下に、別の[!UICONTROL 質問]カードをドラッグします。
 
    ![](assets/stream-designer-14.png)
 
@@ -156,7 +156,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-17.png)
 
-1. チャットボットのメッセージとプレースホルダーを入力します。属性がマッピング済みであることを確認し、「Marketo Engage」で「 **[!UICONTROL 保存]**.
+1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo Engage の適切なフィールドにマッピングされていることを確認し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-18.png)
 
@@ -175,11 +175,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
     </tr>
     <tr>
      <td style="width:30%"><strong>回答を属性にマッピング</strong></td>
-     <td>訪問者の応答を、訪問者サブスクリプション内のユーザーレコードの対応するフィールドにMarketo Engageできます。</td>
+     <td>訪問者の回答を、Marketo Engage サブスクリプション内の個人レコードの対応するフィールドに同期できます。</td>
     </tr>
    </table>
 
-1. E メールの収集は目標なので、 [!UICONTROL 目標] 情報キャプチャの下のカード。
+1. メールの収集が目標なので、情報キャプチャの下に[!UICONTROL 目標]カードをドラッグします。
 
    ![](assets/stream-designer-19.png)
 
@@ -205,7 +205,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
 >[!NOTE]
 >
->クリックする前に [!UICONTROL 公開]、忘れずに [ターゲット URL を入力しました](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>「[!UICONTROL 公開]」をクリックする前に、必ず[ターゲット URL を入力](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}したことを確認します。
 
 >[!MORELIKETHIS]
 >

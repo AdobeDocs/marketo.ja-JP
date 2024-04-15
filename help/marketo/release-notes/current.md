@@ -4,15 +4,15 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2024 年 4 月 {#release-notes-apr-24}
+# リリースノート：2024年4月 {#release-notes-apr-24}
 
-2024 年 4 月リリースに含まれるすべての機能を以下に示します。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+2024年4月リリースに含まれるすべての機能を以下に示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -30,7 +30,7 @@ ht-degree: 36%
    <th style="width:25%">ドキュメント</th>
   </tr>
    <tr> 
-   <td><strong>インタラクティブ Web セミナーのテンプレート</strong>：組織に合った仕様の部屋レイアウト用のカスタムテンプレートを作成して、時間を節約できます。</td> 
+   <td><strong>インタラクティブウェビナー用のテンプレート</strong>：組織に合った仕様でブランド化された部屋レイアウトのカスタムテンプレートを作成して、時間を節約できます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -41,7 +41,7 @@ ht-degree: 36%
   </tr>
    </tr>
      <tr> 
-   <td><strong>インタラクティブ Web セミナーの強化</strong>：ホストおよびプレゼンターに対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後のエンゲージメントデータの手動同期をおこなう機能を提供できるようになりました。</td> 
+   <td><strong>インタラクティブウェビナーの機能強化</strong>：ホストと発表者に対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後にエンゲージメントデータを手動で同期する機能を提供できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -51,7 +51,8 @@ ht-degree: 36%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>監査証跡の強化</strong>：フィールド管理でおこなわれた変更、ユーザーと役割に対する変更、リストおよびスマートリストからエクスポートされたユーザーの数に関して、監査証跡に新しいタイプのアクションを取り込めるようになりました。</td> 
+   <td><strong>監査記録の機能強化</strong>：
+   新しいタイプのアクションを、フィールド管理で行われた変更、ユーザ＆ロールに行われた変更、リストとスマートリストから書き出されたユーザ数の監査記録で取り込めるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -61,7 +62,7 @@ ht-degree: 36%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新しいユーザーと役割の権限</strong>：新しい権限が使用でき、ユーザーにより詳細なアクセス権を提供します。Marketo Engage。 管理者の一部は、以前は New Experience や Predictive Audiences などと統合されていなかったものの、アセット監査記録と管理監査証跡へのアクセス権を個別に付与する権限を分割し、読み取り専用ユーザーが変更できないように、アセットとフォルダーに対する新しい作成および移動権限を利用します。</td> 
+   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセス権を個別に付与する権限を分割し、アセットとフォルダーに対する新規作成および移動権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -71,7 +72,7 @@ ht-degree: 36%
 
 ## お知らせ {#announcements}
 
-* **アクティビティ API の更新**:4 月 27 日に、Web ベースおよび E メールベースのアクティビティに、 [Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activitys/getAllActivityTypesUsingGET){target="_blank"} エンドポイント：各アクティビティの属性の詳細を確認します。
+* **アクティビティ API の更新**：4月26日（PT）に、[Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを使用してアクティビティを取得し、各アクティビティの属性の詳細を確認すると返される、web ベースおよびメールベースのアクティビティにいくつかの新しい属性を追加します。
 
 **Web ベースのアクティビティ**
 
@@ -82,7 +83,7 @@ ht-degree: 36%
    <th style="width:70%">新しく追加された属性</th>
    </tr>
   <tr> 
-   <td>Visit Webpage</td> 
+   <td>Web ページに訪問</td> 
    <td>ブラウザー、プラットフォーム、デバイス</td>
   </tr>
    <tr> 
@@ -96,7 +97,7 @@ ht-degree: 36%
  </tbody> 
 </table>
 
-**電子メールベースのアクティビティ**
+**メールベースのアクティビティ**
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -106,16 +107,16 @@ ht-degree: 36%
   </tr>
    <tr> 
    <td>メールの送信</td> 
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
   </tr>
    </tr>
   <tr> 
    <td>配信済みメール</td> 
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
   </tr>
    <tr> 
    <td>バウンスメール</td> 
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
   </tr>
   <tr> 
    <td>メールの配信停止</td> 
@@ -131,7 +132,7 @@ ht-degree: 36%
   </tr>
   <tr> 
    <td>ソフトバウンスメール</td> 
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
   </tr>
  </tbody> 
 </table>
