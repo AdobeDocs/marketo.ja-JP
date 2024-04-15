@@ -1086,7 +1086,7 @@ ht-degree: 99%
             + [メールエディターでの取り消し](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
          + メールエディター 2 {#email-editor-2}
             + [メールへのモジュールの追加](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
-            + [メールテンプレートを作成する](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
+            + [メールテンプレートの作成](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
             + [メールの要素の編集](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
             + [メールエディター v2.0 の概要](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [メールテンプレート選択ツールの概要](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
@@ -1958,7 +1958,7 @@ ht-degree: 99%
    + 以前のリリース {#previous-releases}
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
-         + [リリースノート：2024 年 3 月](release-notes/previous-releases/2024/release-notes-mar-24.md)
+         + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [リリースノート：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
