@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて�
 
 **リリース日：2024 年 4 月 16 日（PT）**
 
-### ユーザーがパッケージを選択を使用する際の会話フローを使用できるようになりました {#conversational-flows-select-package}
+### すべてのユーザーが対話型フローを利用できるようになりました {#conversational-flows-available-to-all-users}
 
-昨年 Conversational Flows をリリースした際、Dynamic Chatセレクト パッケージに含まれるユーザーは、100 件のライフタイムエンゲージメントのトライアルとしてのみ、この機能を活用できます。 現在は、Select パッケージに登録されているすべてのユーザーが対話型フローを完全に利用できます。
+フォームとランディングページの会話性を高め、セールスファネルを短縮します。会話型Formsを使用すると、フォームの送信後すぐに、見込み客がミーティングを予約したり、営業とチャットしたりできるので、これらの機能を完全に使用できるようになります&#42; すべてのDynamic Chatユーザーに対して。
 
-会話フローエンゲージメントは、Select パッケージのユーザーに対して、エンゲージメントされた会話の月間制限である 250 にカウントされます。
+_&#42;以前は、100 のライフタイムエンゲージメントを含む体験版機能として利用できました。 会話フローエンゲージメントは、Select パッケージのユーザーに対して、エンゲージメントされた会話 250 回の月間制限にカウントされるようになりました。_
 
 ### コールバック関数 {#callback-functions}
 

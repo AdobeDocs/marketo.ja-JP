@@ -1,28 +1,24 @@
 ---
-description: 対話フローの概要 — Marketoドキュメント — 製品ドキュメント
+description: 対話型フローの概要 – Marketo ドキュメント – 製品ドキュメント
 title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 1%
+source-wordcount: '339'
+ht-degree: 3%
 
 ---
 
 # 対話型フローの概要 {#conversational-flow-overview}
 
-特定のアクションに基づいて、対話フローを設計し、訪問者にトリガーします（例：コールトゥアクションボタンのクリック、ページ読み込み時、ページでの滞在時間など）。
+会話フローを設計し、特定のアクション（コールトゥアクションボタンのクリック、ページ読み込み時、ページでの滞在時間など）に基づいて任意の訪問者にトリガー付けします。
 
 ![](assets/conversational-flow-overview-1.png)
 
->[!NOTE]
->
->対話型フローとライブチャットは、Dynamic Chat選択パッケージ上のユーザーに対して 100 のエンゲージメントの総ライフタイム制限を持つトライアル機能です。 この制限に達すると、すべての公開済みの対話フローがトリガーされなくなり、ライブエージェントとのチャットを要求した訪問者がグローバルなフォールバックメッセージを受け取ります。 この制限を増やすには、アカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
+## ダイアログと会話フロー {#dialogues-vs-conversational-flows}
 
-## ダイアログと対話フロー {#dialogues-vs-conversational-flows}
-
-ダイアログと対話フローにはいくつかの類似点がありますが、2 つの異なる機能です。
+ダイアログと会話フローにはいくつかの類似点がありますが、2 つの異なる機能があります。
 
 <table> 
  <tbody> 
@@ -31,38 +27,38 @@ ht-degree: 1%
    <th style="width:50%">対話型フロー</th>
   </tr> 
   <tr> 
-   <td>ダイアログがターゲットになる — 実装したパラメーターに基づいて、特定のページとオーディエンスに対する会話を設計します。</td> 
-   <td>対話型フローがトリガーされる — フォームへの入力、リンクのクリックなど、訪問者のアクションに基づいてトリガーされる会話をデザインします。</td>
+   <td>ダイアログはターゲット設定されます。実装したパラメーターに基づいて、特定のページおよびオーディエンス向けの会話をデザインします。</td> 
+   <td>会話フローがトリガーされる – フォームの入力やリンクのクリックなど、訪問者のアクションに基づいてトリガーできる会話をデザインします。</td>
   </tr>
    <tr> 
-   <td>Chatbot インターフェイスでのみサポートされています。</td> 
-   <td>現在、ポップアップインターフェイスでサポートされており、より多くのインターフェイスが予定されています。</td>
+   <td>Chatbot インターフェイスでのみサポートされます。</td> 
+   <td>現在は、より多くのインターフェイスが計画されているポップアップインターフェイスでサポートされています。</td>
   </tr>
   </tr>
    <tr> 
-   <td>リードの同じセグメントに対して複数のダイアログを優先順に作成できるので、引き続き各訪問者が操作する際に、優先順にダイアログを順番に表示できます。</td> 
-   <td>対話型フローには優先順位がなく、決定されたコールトゥアクションに基づいて、同じリードで任意の回数トリガーできます。</td>
+   <td>同じリードセグメントに対して優先順位を付けて複数のダイアログを作成できるので、各訪問者は、引き続きエンゲージしながら、優先順位に従ってダイアログを表示できます。</td> 
+   <td>会話フローには優先順位がなく、決定されたコールトゥアクションに基づいて、同じリードで任意の回数トリガーできます。</td>
   </tr>
   <tr>
-   <td>Chatbot の会話は、Dialogs を活用します。</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">対話型のForms</a> のMarketo Engageは、対話型のフローを活用しています。</td>
+   <td>チャットボットの会話はダイアログによって実現します。</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会話Forms</a> Marketo Engageでは、対話型フローを活用します。</td>
   </tr>
  </tbody> 
 </table>
 
 ## 「ストリームデザイナー」タブ {#stream-designer-tab}
 
-対話型フローのストリームデザイナーは、ダイアログのストリームデザイナーとほとんど同じです。 [こちらですべてを学ぶ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+対話型フローのストリーム デザイナは、ダイアログのストリーム デザイナとほとんど同じです。 [詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
 ## 「レポート」タブ {#reports-tab}
 
-「レポート」タブでは、対話型フローの効果に関する指標を確認できます。
+「レポート」タブでは、会話フローのパフォーマンスに関する指標を確認できます。
 
 ![](assets/conversational-flow-overview-3.png)
 
-エンゲージメント率、コンバージョン率、既知の訪問者や不明な訪問者によるフィルターなどを表示します。
+エンゲージメント率、コンバージョン率、既知の訪問者や不明な訪問者でフィルタリングしたなどを表示します。
 
 ![](assets/conversational-flow-overview-4.png)
 
@@ -70,24 +66,24 @@ ht-degree: 1%
 
 ![](assets/conversational-flow-overview-5.png)
 
-[ 設定 ] タブの上半分で、会話フローの名前を更新し、オプションの説明を追加し、言語を変更できます。
+「設定」タブの上半分では、会話フローの名前を更新し、オプションで説明を追加して、言語を変更できます。
 
 ![](assets/conversational-flow-overview-6.png)
 
 >[!NOTE]
 >
->別の言語を選択すると、システムテキストの言語のみが変更されます。 コンテンツの翻訳は、お客様がおこないます。
+>別の言語を選択すると、システムテキストの言語のみが変更されます。 コンテンツの翻訳は、あなたが担当します。
 
 ### 会話 SDK {#conversations-sdk}
 
-[ 設定 ] タブの下半分で、[ 会話 ]トリガー（[ 会話 SDK] とも呼ばれる）をカスタマイズします。 訪問者がリンクをクリックしたときに会話が Web サイト上でトリガーされるか、ページの読み込み時に会話がトリガーされるかを決定できます。
+「設定」タブの下半分で、「Conversation」トリガー（「Conversations SDK」とも呼ばれる）をカスタマイズします。 訪問者がリンクをクリックしたとき、またはページを読み込んだときに、web サイトで会話をトリガーするかどうかを指定できます。
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->詳しくは、 [会話 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} 動作中
+>参照： [会話 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} 実行中！
 
 >[!MORELIKETHIS]
 >
->[対話フローの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}
+>[会話フローの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}

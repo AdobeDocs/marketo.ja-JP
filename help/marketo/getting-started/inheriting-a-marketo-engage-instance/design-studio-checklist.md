@@ -3,8 +3,8 @@ description: 継承インスタンスデザインスタジオのチェックリ�
 title: 継承インスタンスデザインスタジオのチェックリスト
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
-workflow-type: ht
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 100%
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">エリア</th> 
+   <th style="width:20%">エリア</th>
    <th>レビューフォーカス</th>
   </tr> 
   <tr> 

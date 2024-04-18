@@ -3,16 +3,16 @@ description: Adobe Identity Management の概要 - Marketo ドキュメント - 
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
-workflow-type: ht
-source-wordcount: '402'
-ht-degree: 100%
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+workflow-type: tm+mt
+source-wordcount: '408'
+ht-degree: 90%
 
 ---
 
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
-すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。現在、既存の Marketo サブスクリプションは、更新または再契約イベント時に Adobe Identity Management システムに移行しています。現時点では、更新または再契約イベント以外の移行はサポートされていません。
+すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。既存のMarketo Engageサブスクリプションは、現在、更新、契約の変更、および/または追加を含むセールスイベントが発生したときに、AdobeIdentity Managementシステムに移行されています。 現時点では、セールス・イベント以外の移行はサポートされていません。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 100%
 Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
 * 詳しくは、[Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} を参照してください。
-* 詳しくは、[Marketo サブスクリプションに関連するアドビ組織の設定](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
+* 詳しくは、[Marketo サブスクリプションに関連するアドビ組織の設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html?lang=jp){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
