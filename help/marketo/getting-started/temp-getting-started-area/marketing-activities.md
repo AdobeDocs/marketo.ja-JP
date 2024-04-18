@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 42%
@@ -135,7 +135,7 @@ ht-degree: 42%
   <tr>
     <td>プライバシーとコンプライアンス</td>
     <td><li>次のようなデータプライバシーおよびスパム法に確実に準拠するためのプログラムを作成します <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR、CASL、CAN-SPAM、CCPA など</a></li>
-    <br>メモ：これらの問題については、必ず法務チームに問い合わせてください。 変更を行う前に、コンプライアンスを維持するためのこれまでの取り組みについてチームに確認してください。 </td>
+    <br>メモ：これらの問題については、必ず法務チームに問い合わせてください。 変更を行う前に、コンプライアンスを維持するためのこれまでの取り組みについてチームに確認してください。</td>
   </tr>
   <tr>
     <td>ライフサイクル</td>

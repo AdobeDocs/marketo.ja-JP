@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
-workflow-type: ht
-source-wordcount: '380'
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+workflow-type: tm+mt
+source-wordcount: '356'
 ht-degree: 100%
 
 ---
@@ -29,17 +29,6 @@ ht-degree: 100%
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-   <tr> 
-   <td><strong>インタラクティブウェビナー用のテンプレート</strong>：組織に合った仕様でブランド化された部屋レイアウトのカスタムテンプレートを作成して、時間を節約できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>インタラクティブウェビナーの機能強化</strong>：ホストと発表者に対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後にエンゲージメントデータを手動で同期する機能を提供できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
