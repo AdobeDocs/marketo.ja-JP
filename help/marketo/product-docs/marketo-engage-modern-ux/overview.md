@@ -1,16 +1,16 @@
 ---
-description: Marketo Engage最新の UX の概要 – Marketo ドキュメント – 製品ドキュメント
-title: Marketo Engage最新 UX の概要
+description: Marketo Engage の最新 UX の概要 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo Engage の最新 UX の概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage最新 UX の概要 {#overview}
+# Marketo Engage の最新 UX の概要 {#overview}
 
 Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）にようこそ。アップデートされたインターフェイスにより、Marketo プラットフォーム全体の新しいルックアンドフィールと、ユーザビリティの強化を提供します。
 
