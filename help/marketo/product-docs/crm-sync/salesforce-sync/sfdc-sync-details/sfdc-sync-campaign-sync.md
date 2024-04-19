@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953469
 description: SFDC の同期 - キャンペーンの同期 - Marketo ドキュメント - 製品ドキュメント
-title: SFDC 同期 - キャンペーンの同期
+title: SFDC の同期 - キャンペーンの同期
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '370'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # SFDC 同期：キャンペーンの同期 {#sfdc-sync-campaign-sync}
 
-Marketo Engageプログラムは、Salesforce キャンペーンと同期できます。 この機能の概要を次に示します。
+Marketo Engageプログラムは、Salesforce キャンペーンと同期できます。この機能の概要を次に示します。
 
 ## Marketo プログラムを Salesforce キャンペーンと同期する理由 {#why-should-i-sync-marketo-programs-with-salesforce-campaigns}
 
@@ -27,7 +27,7 @@ Marketo では、プログラムと Salesforce キャンペーンの間に 1 対
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-The **[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** and **[period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}** Marketoと Salesforce を **キャンペーンタイプ** および **実費**. この同期は、Marketo から Salesforce への&#x200B;**一方向**&#x200B;です。
+Marketo の&#x200B;**[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** and **[period cost](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}**&#x200B;と期間原価&#x200B;**は、キャンペーンタイプおよび実費**&#x200B;として Salesforce に同期されます。この同期は Marketo から Salesforce への&#x200B;**一方向**&#x200B;です。 この同期は、Marketo から Salesforce への&#x200B;**一方向**&#x200B;です。
 
 Marketo の&#x200B;**プログラムメンバー**&#x200B;と&#x200B;**[進行状況のステータス](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}**&#x200B;は、**Salesforce キャンペーンメンバー**&#x200B;と&#x200B;**キャンペーンメンバーステータス**&#x200B;に同期されます。これは、**双方向同期**&#x200B;であるため、Marketo または Salesforce でおこなわれた変更は両方のシステムに反映されます。
 
@@ -64,7 +64,7 @@ Marketo の&#x200B;**プログラムメンバー**&#x200B;と&#x200B;**[進行�
 次の点を確認してください。
 
 1. [キャンペーンの同期が有効](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}になっていることを確認します。
-1. 次を確認します： [Marketo同期ユーザー](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} is a [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} Salesforce 内。
+1. を確認します [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} is a [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} （Salesforce における）。
 
 >[!NOTE]
 >
