@@ -1,11 +1,9 @@
 ---
 description: Dynamic Chatリリースノート - Marketo ドキュメント – 製品ドキュメント
 title: Dynamic Chatリリースノート
-hide: true
-hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -20,7 +18,7 @@ Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて�
 
 ## 2024 年 4 月リリース {#april-release}
 
-**リリース日：2024 年 4 月 22 日（PT）**
+**リリース日：2024 年 4 月 23 日（PT）**
 
 ### すべてのユーザーが対話型フローを利用できるようになりました {#conversational-flows-available-to-all-users}
 

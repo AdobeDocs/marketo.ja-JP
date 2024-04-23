@@ -4,10 +4,10 @@ title: 新しい領域のデザインスタジオ
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 100%
+source-wordcount: '309'
+ht-degree: 51%
 
 ---
 
@@ -28,8 +28,7 @@ ht-degree: 100%
   <tr>
     <td>グローバルランディングページ</td>
     <td><li>グローバルランディングページ（フリーフォーム／ガイド付き）を作成します。</li>
-    <li>テストページを作成して、成功したランディングページテンプレートの A/B テストを行います（該当する場合）。</li>
-    <li>Marketo Engage 内でサブスクリプションセンターのランディングページを設定します（該当する場合）。</li></td>
+    <li>テストページを作成して、成功したランディングページテンプレートの A/B テストを行います（該当する場合）。</li></td>
   </tr>
   <tr>
     <td>テンプレート</td>
@@ -37,7 +36,7 @@ ht-degree: 100%
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
-    <td><li>プライバシーコンプライアンス用に、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">スニペット</a>またはトークンを使用してランディングページに適切なフッターを含めます。</li></td>
+    <td><li>を使用したフッターの作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">スニペット</a> またはプライバシーコンプライアンスのためにランディングページにトークンを追加します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ ht-degree: 100%
 <tbody>
   <tr>
     <td>グローバルフォーム</td>
-    <td><li>サブスクリプションの環境設定、ゲート付きコンテンツのダウンロード、デモのリクエスト、ウェビナーの登録などのユースケースに合わせて<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">グローバルフォーム</a>を設定します。</li></td>
+    <td><li>の設定 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">グローバルフォーム</a> サブスクリプション環境設定、ゲートされたコンテンツのダウンロード、デモのリクエスト、ウェビナー登録などのユースケースの場合。</li></td>
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
@@ -62,7 +61,7 @@ ht-degree: 100%
   </tr>
   <tr>
     <td>データの標準化</td>
-    <td><li>データが乱雑にならないように、オープンテキストフィールドではなく、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">フォームフィールド</a>に選択リストを適用することを検討してください。</li></td>
+    <td><li>データが乱雑にならないように、オープンテキストフィールドではなく、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">フォームフィールド</a>に選択リストを適用することを検討してください。</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ ht-degree: 100%
   </tr>
   <tr>
     <td>テンプレート</td>
-    <td><li>デザイナー／開発者と共にモジュールベースの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">メールテンプレート</a>をデザインするか、独自の HTML を挿入します。</li>
-    <li>テスト済みのメールテンプレートを作成して、成功したメールテンプレートの A/B テストを行います（該当する場合）。</li></td>
+    <td><li>モジュールベースの設計 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">メールテンプレート</a> デザイナーや開発者と協力するか、独自のHTMLを使用する。</li>
+    <li>テスト済みのメールテンプレートを作成し、勝者テンプレートを A/B テストします（該当する場合）。</li></td>
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
-    <td><li>メールテンプレートに<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">スニペットを追加</a>して、著作権年、グローバルな場所、コンプライアンス固有の言語などの再利用可能なブロックを制御します。トークンを追加して、ターゲットオーディエンスに基づいてコンテンツをパーソナライズします。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">スニペットを追加</a> をメールテンプレートに追加して、著作権年、グローバルな場所、コンプライアンス固有の言語などの再利用可能なブロックを制御できるようにします。 トークンを追加して、ターゲットオーディエンスに基づいてコンテンツをパーソナライズします。</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ ht-degree: 100%
 <tbody>
   <tr>
     <td>スニペット</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">スニペット</a>を作成して、取引先責任者情報、ソーシャルメディアリンク、ブランド情報、メールやランディングページのプライバシーとコンプライアンスに関するメモなど、様々なユースケースに使用できる再利用可能なコンテンツブロックを作成します。</li></td>
+    <td><li>作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">スニペット</a> 連絡先情報、ソーシャルメディアリンク、ブランド情報、メールやランディングページのプライバシーとコンプライアンスメモなど、複数のユースケースに使用できる再利用可能なコンテンツブロックを用意する場合。</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ ht-degree: 100%
 <tbody>
   <tr>
     <td>フォルダー構造 </td>
-    <td><li>アセットのタイプごとにサブフォルダーを作成し、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">グローバルアセット</a>（対話型フロー、メールテンプレート、メール、フォーム、画像とファイル、ランディングページ、ランディングページテンプレート、スニペットなど）を適切かつ簡単に検索できるように整理します。</li></td>
+    <td><li>アセットタイプごとのサブフォルダーの作成と <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">グローバルアセットの整理</a> （例：会話フロー、メールテンプレート、電子メール、フォーム、画像とファイル、ランディングページ、ランディングページテンプレート、スニペットなど）。 適切です。</li></td>
   </tr>
 </tbody>
 </table>
