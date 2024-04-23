@@ -8,7 +8,7 @@ exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '1050'
-ht-degree: 46%
+ht-degree: 67%
 
 ---
 
@@ -30,13 +30,13 @@ ht-degree: 46%
     <td>ロール</td>
     <td><li>事前に作成されたロールを確認し、各ロールに割り当てられている権限／アクセス権を確認します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#create-a-new-role" target="_blank">新しい役割の作成</a> または <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#edit-a-role" target="_blank">役割の編集</a> 組織のニーズに基づく。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">ユーザーを適切な役割に割り当てる</a>. ユーザーは、役割で役割を付与する前に、Adobe Admin Consoleの購読に追加される必要があります。 「初期設定」チェックリスト [LINK] の「ユーザー」の節を参照してください。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。「ロール」でロールを付与する前に、ユーザを Adobe Admin Console でサブスクリプションに追加する必要があります。「初期設定」チェックリスト [LINK] の「ユーザー」の節を参照してください。</li>
     <li>ユーザーの役割を割り当てた後、役割あたりのユーザー数を確認します。</li>
     <li>トラブルシューティングを簡単に行うために、各 API ユーザに一意のロールを実装します。</li></td>
   </tr>
   <tr>
     <td>ドキュメント</td>
-    <td><li>組織のユーザーと役割を定義します。</li>
+    <td><li>組織のユーザ＆ロールを定義します。</li>
     <li>新しいユーザー/管理者を追加するためのプロセスを定義します。</li></td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ ht-degree: 46%
   <tr>
     <td>メールのデフォルト</td>
     <td><li>ブランディングドメインでドメインを選択し、メールの CNAME を追加します。これは次の形式で記述します。[EmailTrackingCNAME].[CompanyDomain].com</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Marketo サポートに連絡</a> SSL 証明書のプロビジョニングで保護します。 プロセスが完了するまでに最大で 3 営業日かかります。</li></td>
+    <li>SSL 証明書のプロビジョニングを使用して保護するには、<a href="https://experienceleague.adobe.com/ja/docs/customer-one/using/home#create-a-support-ticket-with-admin-console" target="_blank">Marketo サポートにお問い合わせください</a>。プロセスが完了するまでに最大で 3 営業日かかります。</li></td>
   </tr>
   <tr>
     <td>SPF/DKIM</td>
@@ -149,7 +149,7 @@ ht-degree: 46%
   <tr>
     <td>カレンダー（該当する場合）</td>
     <td><li>アクセスを必要とするユーザに対して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html?lang=ja" target="_blank">マーケティングカレンダーシートを発行</a>します。</li>
-    <li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">カレンダー</a>.</li></td>
+    <li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html?lang=ja" target="_blank">カレンダー</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -200,7 +200,7 @@ ht-degree: 46%
   </tr>
   <tr>
     <td>ランディングページ</td>
-    <td>メモ：Launch Pack をご利用の場合は、この手順をスキップできます。初回コール時に、担当のコンサルタントが IT セットアップ手順書を提供します。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">CNAME</a>を使用してランディングページのドメインを設定し、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">ドメインとページの情報を入力</a>します。これは次の形式で記述します。[LandingPageCNAME].[CompanyDomain].com <br>ランディングページの CNAME を選択します。次に例を示します。<br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Marketo サポートに連絡</a> ssl 証明書のプロビジョニングのプロセスを開始します。 このプロセスが完了するまでに最大 3 営業日かかる場合があります。 <br>ヒント：短くしてください。 URL は短いほど覚えやすくなります。ドメインには「go」を指定することをお勧めします。<br>分析トラッキングコード（Google Analytics や Adobe Analytics など）をランディングページテンプレートに追加します。 </td>
+    <td>メモ：Launch Pack をご利用の場合は、この手順をスキップできます。初回コール時に、担当のコンサルタントが IT セットアップ手順書を提供します。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">CNAME</a>を使用してランディングページのドメインを設定し、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">ドメインとページの情報を入力</a>します。これは次の形式で記述します。[LandingPageCNAME].[CompanyDomain].com <br>ランディングページの CNAME を選択します。次に例を示します。<br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com SSL 証明書のプロビジョニングプロセスを開始するには、<br><a href="https://experienceleague.adobe.com/ja/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Marketo サポート</a>にお問い合わせください。このプロセスが完了するまでに最大 3 営業日かかる場合があります。<br>ヒント：短くしてください。URL は短いほど覚えやすくなります。ドメインには「go」を指定することをお勧めします。<br>分析トラッキングコード（Google Analytics や Adobe Analytics など）をランディングページテンプレートに追加します。 </td>
   </tr>
   <tr>
     <td>Munchkin</td>
@@ -214,28 +214,28 @@ ht-degree: 46%
   </tr>
   <tr>
     <td>Launchpoint</td>
-    <td><li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja">LaunchPoint</a> お客様のビジネスに対応するサービス。 各 LaunchPoint は、トラブルシューティングに役立つように一意の API ユーザーとペアにする必要があります。</li></td>
+    <td><li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja">LaunchPoint</a> お客様のビジネスに対応するサービス。 トラブルシューティングを支援するために、各 LaunchPoint と一意の API ユーザをペアにする必要があります。</li></td>
   </tr>
   <tr>
     <td>インタラクティブウェビナー（該当する場合）</td>
     <td>メモ：インタラクティブウェビナーは、実稼動インスタンスにのみプロビジョニングされます。
-    <li>インタラクティブウェビナーの作成のために、組み込みのウェビナー機能 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">「ユーザー」セクションにユーザーを追加</a> 「インタラクティブウェビナー」タブで、次の操作を行います。</li></td>
+    <li>インタラクティブウェビナーの作成のために、組み込みのウェビナー機能 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">「ユーザー」セクションにユーザーを追加</a> 「インタラクティブウェビナー」タブで、次の操作を行います。</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（該当する場合）</td>
-    <td>使用する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja">Dynamic Chat</a>の場合は、Marketo Engageのネイティブなコンバージョン自動処理チャネルで、に示す手順に従って、ユーザー権限の設定を行います <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Adobe組織システム管理者から「Adobe製品管理者」ロールを付与されているかどうかを確認します。 連絡先 <a href="https://helpx.adobe.com/contact.html">Adobeカスタマーケア</a> をクリックして、コンソールで管理者権限を持つ組織のユーザーを確認します。 <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">「Dynamic Chat 製品管理者」の招待</a>を承認します。この<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">ウェルカムメール</a>は、Marketo Engage インスタンスで Dynamic Chat が有効になっており、ご自身をシステム管理者として指定している場合に送信されます。<br>Adobe Admin Consoleで、Dynamic Chatの製品プロファイルに適切なユーザーをすべて割り当てます。 <br>望ましくないユーザーが複数の製品プロファイルに追加された場合は、すべての製品プロファイルからそのユーザーを削除する必要があります。 そうでない場合でも、Dynamic Chatにアクセスできます。 <br>次のことができます <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Dynamic Chatでの製品プロファイルの編集</a> 次のカスタムセットを使用してカスタムプロファイルを作成します <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">サブスクリプション内で使用可能な権限</a>. <br>ユーザー割り当て先 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「Dynamic Chatにアクセス」の役割</a> Marketo Engage/管理者/ユーザーと役割 </td>
+    <td>使用する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja">Dynamic Chat</a>の場合は、Marketo Engageのネイティブなコンバージョン自動処理チャネルで、に示す手順に従って、ユーザー権限の設定を行います <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>アドビ組織システム管理者からアドビ製品管理者のロールを付与されているかどうかを確認します。コンソールの管理者権限を持っている組織内の担当者を確認するには、<a href="https://helpx.adobe.com/contact.html">アドビカスタマーケア</a>にお問い合わせください。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">「Dynamic Chat 製品管理者」の招待</a>を承認します。この<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">ウェルカムメール</a>は、Marketo Engage インスタンスで Dynamic Chat が有効になっており、ご自身をシステム管理者として指定している場合に送信されます。<br>Adobe Admin Console で、すべての適切なユーザを Dynamic Chat の製品プロファイルに割り当てます。<br>望ましくないユーザが複数の製品プロファイルに追加された場合は、そのユーザをすべての製品プロファイルから削除する必要があります。そうしないと、それらのユーザは引き続き Dynamic Chat にアクセスできます。<br><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Dynamic Chat で製品プロファイルを編集</a>し、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">サブスクリプション内で利用できる権限</a>のカスタムセットを備えたカスタムプロファイルを作成できます。<br>Marketo Engage／管理者／ユーザ＆ロールの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「Dynamic Chat へのアクセス」ロール</a>にユーザを割り当てます。 </td>
   </tr>
   <tr>
     <td>Sales Insight（該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">販売インサイト アクションの設定</a> [Sales Insight]&gt;[Actions Config] で操作します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">販売インサイト アクションの設定</a> [Sales Insight]&gt;[Actions Config] で操作します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions">適切なユーザーに席を割り当てる</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html?lang=ja">API を設定</a>します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja">リードスコアのカスタマイズ</a>.</li></td>
   </tr>
   <tr>
-    <td>Sales Connect （該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Sales Connect インスタンスに適切なMarketo Engage管理者を招待します。</a>.</li>
-    <li>を完了する <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">追加の Sales Connect 管理者設定</a> （Sales Connect および Salesforce の場合）。</li></td>
+    <td>Sales Connect（該当する場合）</td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Sales Connect インスタンスに適切なMarketo Engage管理者を招待します。</a>.</li>
+    <li>を完了する <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">追加の Sales Connect 管理者設定</a> （Sales Connect および Salesforce の場合）。</li></td>
   </tr>
 </tbody>
 </table>

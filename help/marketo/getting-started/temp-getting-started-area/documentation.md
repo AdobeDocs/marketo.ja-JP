@@ -1,13 +1,13 @@
 ---
-description: 新しいMarketo Engageインスタンスでの様々なアクションのドキュメント化。
-title: 新しいエリアインスタンスのドキュメント
+description: 新しい Marketo Engage インスタンスでの様々なアクションをドキュメント化します。
+title: 新しい領域のインスタンスドキュメント
 hide: true
 hidefromtoc: true
 feature: Getting Started
 source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 5%
 <tbody>
   <tr>
     <td>リストの読み込み</td>
-    <td><li>レコードがからに取り込まれるデータソースのリストを収集します <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank">Marketo Engageへの読み込み</a>.</li>
-    <li>複数のデータ・ソースからインポートする場合は、マスター・リストまたは <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">カスタムフィールドの作成</a> 人物レコードでデータソースを示します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
+    <li>複数のデータソースから読み込む場合は、マスターリストを使用するか、個人レコードにデータソースを示す<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">カスタムフィールドを作成</a>することを検討してください。</li></td>
   </tr>
   <tr>
     <td>データベース統合</td>
-    <td><li>Marketo Engageと CRM の間のネイティブ同期を活用する場合は、システム間で同期するフィールドを慎重に検討します。 すべてのフィールドを同期する必要があるわけではないので、データフローに関して戦略的に取り組みます。</li></td>
+    <td><li>Marketo Engage と CRM の間のネイティブ同期を活用する場合は、システム間で同期するフィールドを注意深く検討してください。すべてのフィールドを同期する必要はないので、データフローについて戦略的に考えましょう。</li></td>
   </tr>
 </tbody>
 </table>
@@ -49,30 +49,30 @@ ht-degree: 5%
 <tbody>
   <tr>
     <td>ユーザ</td>
-    <td><li>のドキュメント化 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">現在のユーザー</a> 安全上の理由から、お客様のインスタンスにインストールしてください。 少なくとも次の詳細を含める必要があります（Adobe Admin Console/ユーザーに移動するとすべて表示されます）。</li>
+    <td><li>安全上の理由から、インスタンス内の<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">現在のユーザ</a>をドキュメント化します。少なくとも次の詳細を含める必要があります（Adobe Admin Console／ユーザに移動すると、すべて表示されます）。</li>
     <br>名前
-    <br>電子メール
-    <br>ID タイプ
-    <br>製品プロファイル
+    <br>メール
+    <br>ID タイプ
+    <br>製品プロファイル
     <p>
-    <li>Marketo Engageの製品管理者は、Marketo Engageユーザーリストを定期的に監査および更新する内部プロセスを作成します。 Adobe Admin Consoleのユーザーリストを変更するには、 <a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">.csv のアップロード</a> 一括で。</li></td>
+    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。Adobe Admin Console でユーザのリストを変更するには、一括で <a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">.csv をアップロード</a>することを検討してください。</li></td>
   </tr>
   <tr>
     <td>組織</td>
-    <td><li>合意したフォルダー構造、プログラムやアセットなどの標準命名規則、および決定の背後にある理由を文書化します。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">ベストプラクティスについて詳しくは、こちらを参照してください。</a></li></td>
+    <td><li>合意されたフォルダー構造、プログラム、アセットなどの標準命名規則と、決定の背後にある理由をドキュメント化します。<a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">詳しくは、こちらにあるベストプラクティスを参照してください。</a></li></td>
   </tr>
   <tr>
     <td>変更ログ</td>
-    <td><li>変更ログを作成し、インスタンスで変更されている内容と変更の理由を文書化します。 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">ベストプラクティスについて詳しくは、こちらを参照してください。</a></li></td>
+    <td><li>インスタンスの変更内容と変更の理由をドキュメント化できる変更ログを作成します。<a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">詳しくは、こちらにあるベストプラクティスを参照してください。</a></li></td>
   </tr>
   <tr>
     <td>プレイブック</td>
-    <td><li>インスタンスにオンボーディングする内部ユーザー向けのユーザープレイブックまたは管理プレイブックを作成します。</li></td>
+    <td><li>インスタンスにオンボーディングする社内ユーザ用のユーザプレイブックまたは管理者プレイブックを作成します。</li></td>
   </tr>
   <tr>
-    <td>社内チームとの会話</td>
-    <td><li>社内マーケティングチームのMarketo Engageに対する期待と、Marketo Engageの能力のマッチングを開始します。</li>
-    <li>Marketo Engageインスタンスの関係者になるチームを特定し、Marketo Engageをテクノロジーとして使用することで達成する目標を文書化します。</li></td>
+    <td>社内チームとの対話</td>
+    <td><li>社内マーケティングチームの Marketo Engage に対する期待と Marketo Engage の機能の整列を開始します。</li>
+    <li>Marketo Engage インスタンスの関係者となるチームを特定し、Marketo Engage をテクノロジーとして使用して達成する目標をドキュメント化します。</li></td>
   </tr>
 </tbody>
 </table>
