@@ -4,15 +4,15 @@ title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '408'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
-すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。既存のMarketo Engageサブスクリプションは、現在、更新、契約の変更、および/または追加を含むセールスイベントが発生したときに、AdobeIdentity Managementシステムに移行されています。 現時点では、セールス・イベント以外の移行はサポートされていません。
+すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。既存の Marketo Engage サブスクリプションは現在、更新、再契約イベント、追加などの販売イベントの際に Adobe Identity Management System に移行されています。現時点では、販売イベント以外の移行はサポートされていません。
 
 >[!NOTE]
 >
