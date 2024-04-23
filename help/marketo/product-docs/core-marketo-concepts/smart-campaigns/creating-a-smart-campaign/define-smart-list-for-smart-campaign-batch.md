@@ -4,16 +4,20 @@ description: スマートキャンペーン用スマートリストの定義 |�
 title: スマートキャンペーン用スマートリストの定義 | バッチ
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 90%
+source-wordcount: '275'
+ht-degree: 81%
 
 ---
 
 # スマートキャンペーン用スマートリストの定義 | バッチ {#define-smart-list-for-smart-campaign-batch}
 
-スマートリストは、Marketo Engage全体のメカニズムで、レポート、リスト、スマートキャンペーンのどれであるかに関わらず、「誰」（どのユーザー）を含めるかを定義できます。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
+スマートリストは、レポート、リスト、スマートキャンペーンのいずれであっても、含める「ユーザー」（ユーザー）を定義するMarketo Engage全体のメカニズムです。 バッチキャンペーンのスマートリストを定義する方法を次に示します。
+
+>[!CAUTION]
+>
+>アクティブなキャンペーンに対してスマートリストまたはフローステップの編集を行うと、その機能が損なわれる可能性があります。 その場合は、慎重に作業を進めてください。
 
 1. スマートキャンペーンを選択し、「**[!UICONTROL スマートリスト]**」をクリックします。
 
