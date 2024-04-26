@@ -3,7 +3,7 @@ description: インタラクティブウェビナーの概要 — Marketo ドキ
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 88%
@@ -52,7 +52,7 @@ ht-degree: 88%
 
 リードの「名」フィールドが空の場合、ウェビナーに登録できません。この問題は、有効な名を入力することで解決できます。
 
-**組織の VPN にアクセスする際に、ウェビナーを発表中にオーディオ/ビデオの問題が発生します。 どうすればいいですか？**
+**組織の VPN にアクセスする際にウェビナーを提示すると、オーディオ/ビデオの問題が発生します。 どうすればいいですか？**
 
 インタラクティブウェビナーの配信プラットフォームであるAdobe Connectは、オーディオ/ビデオ/画面の共有に WebRTC を使用します。 貴社のネットワークファイアウォールが、WebRTC ベースの通信に使用する IP アドレス/ポートをブロックしている可能性があります。 WebRTC が機能するには、IT チームがこれらのポートを許可する必要があります。 [詳細情報](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}
 
