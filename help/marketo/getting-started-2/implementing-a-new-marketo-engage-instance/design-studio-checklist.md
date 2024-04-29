@@ -1,17 +1,17 @@
 ---
 description: 新しいMarketo Engageインスタンス用に Design Studio セクションを設定します。
-title: 新しいインスタンス - Design Studio チェックリスト
+title: 新しいインスタンスのベストプラクティス - Design Studio チェックリスト
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 38%
+source-wordcount: '361'
+ht-degree: 37%
 
 ---
 
-# 新しいインスタンス：Design Studio チェックリスト {#new-instance-design-studio-checklist}
+# 新しいインスタンスのベストプラクティス：Design Studio チェックリスト {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio セクションには、再利用可能な「グローバルアセット」を配置する必要があります。 組織がプログラムで使用する予定のグローバルアセットを作成し、一貫性のある命名規則を使用して、サブフォルダーに整理して検索を容易にします。
 

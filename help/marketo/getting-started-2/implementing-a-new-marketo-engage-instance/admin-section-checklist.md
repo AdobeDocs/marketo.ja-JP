@@ -1,17 +1,17 @@
 ---
 description: 新しいMarketo Engageインスタンスの「管理者」セクションを設定します。
-title: 新しいインスタンス – 「管理者」セクションのチェックリスト
+title: 新しいインスタンスのベストプラクティス – 「管理者」セクションのチェックリスト
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 63%
 
 ---
 
-# 新しいインスタンス：管理者セクションのチェックリスト {#new-instance-admin-section-checklist}
+# 新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト {#new-instance-best-practices-admin-section-checklist}
 
 新しい管理者が新しいMarketo Engageインスタンスに移動する際には、以下のチェックリストを適用すると、実装プロセスを導くことができます。 これらのすべてのガイドと同様に、チェックリストをダウンロードできます [リンク] 進行状況を追跡します。
 

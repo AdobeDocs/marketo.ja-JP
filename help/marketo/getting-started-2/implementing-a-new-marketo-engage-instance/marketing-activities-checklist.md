@@ -1,17 +1,17 @@
 ---
 description: 新しいMarketo Engageインスタンスに対して「マーケティングアクティビティ」セクションを設定します。
-title: 新しいインスタンス – マーケティングアクティビティチェックリスト
+title: 新しいインスタンスのベストプラクティス – マーケティングアクティビティチェックリスト
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 91%
 
 ---
 
-# 新しいインスタンス：マーケティングアクティビティチェックリスト {#new-instance-marketing-activities-checklist}
+# 新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト {#new-instance-best-practices-marketing-activities-checklist}
 
 マーケティングアクティビティには、自動化されたマーケティングプログラムを構成するすべてのアセットとコンテンツが含まれます。新しいMarketo Engageインスタンスを設定する際に、クリーンで明確な組織により、すべてのユーザーが様々なプログラムを簡単に見つけて管理できるようになります。
 

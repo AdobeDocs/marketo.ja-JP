@@ -1,17 +1,17 @@
 ---
 description: 新しいMarketo Engageインスタンスの設定を文書化します。
-title: 新しいインスタンス – 設定のドキュメント化
+title: 新しいインスタンスのベストプラクティス – 設定のドキュメント化
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 76%
+source-wordcount: '379'
+ht-degree: 75%
 
 ---
 
-# 新しいインスタンス：設定のドキュメント化 {#new-instancei-document-your-setup}
+# 新しいインスタンスのベストプラクティス：設定のドキュメント化 {#new-instance-best-practices-document-your-setup}
 
 これで、新しいMarketo Engageインスタンスの設定に必要な主要な製品領域を説明したので、次の手順は、お使いのインスタンス設定とテクニカルスタックに関するドキュメントを作成することです。 スプレッドシートやプロジェクト管理アプリケーションを使用して作成する場合でも、ドキュメントは、進捗を追跡し、詳細を記録し、組織内の将来のマーケターのためにインスタンスを構造化し、持続可能な状態に保つための優れたリソースとなります。
 

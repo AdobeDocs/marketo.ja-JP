@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 99%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 99%
       + [ユーザー設定](getting-started-2/initial-setup/user-setup.md)
    + 新しいMarketo Engageインスタンスの実装 {#implementing-a-new-marketo-engage-instance}
       + [開始する場所](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新しいインスタンス：管理者セクションのチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新しいインスタンス：データベースチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新しいインスタンス：マーケティングアクティビティチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新しいインスタンス：Design Studio チェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新しいインスタンス：設定のドキュメント化](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新しいインスタンスのベストプラクティス：データベースチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新しいインスタンスのベストプラクティス：Design Studio チェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 注意事項 {#things-to-know}
       + [Marketo Engage 用語集](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [アイコン用語集](getting-started-2/things-to-know/icon-glossary.md)

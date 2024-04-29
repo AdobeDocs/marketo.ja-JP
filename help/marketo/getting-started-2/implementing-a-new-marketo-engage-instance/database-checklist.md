@@ -1,17 +1,17 @@
 ---
 description: 新しいMarketo Engageインスタンスにデータベース セクションを設定します。
-title: 新規インスタンス – データベースチェックリスト
+title: 新しいインスタンスのベストプラクティス – データベースチェックリスト
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 32%
+source-wordcount: '302'
+ht-degree: 31%
 
 ---
 
-# 新しいインスタンス：データベースチェックリスト {#new-instance-database-checklist}
+# 新しいインスタンスのベストプラクティス：データベースチェックリスト {#new-instance-best-practices-database-checklist}
 
 「データベース」セクションには、インスタンス内の人物に関する主要な属性のスナップショットが表示されます。 データベース内の様々なリストやセグメント間を移動するために必要な手順、および人物レコードの管理について説明します。
 
