@@ -1,12 +1,13 @@
 ---
-description: ヘルプセンター - Marketo ドキュメント - 製品ドキュメント
+description: ヘルプセンター – Marketo Engageドキュメント
 title: ヘルプセンター
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 90%
+source-wordcount: '160'
+ht-degree: 86%
 
 ---
 
@@ -18,39 +19,39 @@ Adobe Marketo Engageのヘルプセンターは、支援を受けるための一
 
 Marketo Engage にログインしたら、ヘルプアイコンをクリックします。
 
-![](assets/help-center-1.png)
+スクリーンショット
 
 ### ガイド {#guides}
 
 ガイドは、人気の高い機能の簡単なウォークスルーとして機能します。
 
-![](assets/help-center-2.png)
+スクリーンショット
 
 1. 目的のガイドをクリックして表示します。
 
-   ![](assets/help-center-3.png)
+スクリーンショット
 
 1. 「**開始する**」をクリックします。
 
-   ![](assets/help-center-4.png)
+スクリーンショット
 
 1. 続行するには、「**次へ**」をクリックします。
 
-   ![](assets/help-center-5.png)
+スクリーンショット
 
 1. 「**完了**」をクリックして、ウォークスルーを終了します。
 
-   ![](assets/help-center-6.png)
+スクリーンショット
 
-   >[!TIP]
-   >
-   >「**閉じる**」をクリックすることで、いつでもガイドを終了できます。
+>[!TIP]
+>
+>「**閉じる**」をクリックすることで、いつでもガイドを終了できます。
 
 ### 新着情報 {#whats-new}
 
 「新着情報」タブには、Marketo Engage の最新リリースの詳細が含まれていています。
 
-![](assets/help-center-7.png)
+スクリーンショット
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Marketo Engage にログインしたら、ヘルプアイコンをクリック�
 
 「リソース」タブでは、Marketo Engage インスタンスに関する追加のサポートを得る様々な方法に直接、すばやくアクセスできます。
 
-![](assets/help-center-8.png)
+スクリーンショット

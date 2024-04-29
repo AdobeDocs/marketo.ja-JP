@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
-ht-degree: 100%
+source-wordcount: '9346'
+ht-degree: 99%
 
 ---
 
@@ -45,6 +45,24 @@ ht-degree: 100%
       + [継承インスタンス：デザインスタジオのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [継承インスタンス：設定のドキュメント化](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [コアスキルのレビュー](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Marketo 2 使用の手引き {#getting-started-with-marketo-2}
+   + [Adobe Marketo Engage とは](getting-started-2/what-is-adobe-marketo-engage.md)
+   + 初期設定 {#initial-setup}
+      + [初期セットアップ タスク](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [設定手順](getting-started-2/initial-setup/setup-steps.md)
+      + [ユーザー設定](getting-started-2/initial-setup/user-setup.md)
+   + 新しいMarketo Engageインスタンスの実装 {#implementing-a-new-marketo-engage-instance}
+      + [開始する場所](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新しいインスタンス：管理者セクションのチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新しいインスタンス：データベースチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新しいインスタンス：マーケティングアクティビティチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新しいインスタンス：Design Studio チェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新しいインスタンス：設定のドキュメント化](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 注意事項 {#things-to-know}
+      + [Marketo Engage 用語集](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [アイコン用語集](getting-started-2/things-to-know/icon-glossary.md)
+      + [クラシックアイコン用語集](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [ヘルプセンター](getting-started-2/things-to-know/help-center.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
