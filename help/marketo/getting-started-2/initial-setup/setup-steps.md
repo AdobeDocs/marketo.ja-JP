@@ -4,10 +4,10 @@ title: 設定手順
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
-ht-degree: 99%
+source-wordcount: '1735'
+ht-degree: 97%
 
 ---
 
@@ -56,15 +56,15 @@ Marketo を使用する前に、いくつかの手順を完了する必要があ
 
 ランディングページの CNAME に置き換える Munchkin ID を取得するには、管理者領域に移動します。
 
-![](assets/setup-steps-9.png)
+スクリーンショット：setup-steps-9.png
 
 「**マイアカウント**」をクリックします。
 
-![](assets/setup-steps-10.png)
+スクリーンショット：setup-steps-10.png
 
 ランディングページ設定から[!UICONTROL アカウント文字列]をコピーします。
 
-![](assets/setup-steps-11.png)
+スクリーンショット：setup-steps-11.png
 
 これが `[Munchkin ID]`.です。保存します。これは、手順 5 で IT チームに渡す必要があります。
 
@@ -100,17 +100,17 @@ Google アプリを使用して自社のメールをホストしている場合�
 
 Marketo のトラッキングリンクを確認するには、「**[!UICONTROL 管理者]**」領域に移動します。
 
-![](assets/setup-steps-12.png)
+スクリーンショット：setup-steps-12.png
 
 「**[!UICONTROL メール]**」をクリックします。
 
-![](assets/setup-steps-13.png)
+スクリーンショット：setup-steps-13.png
 
 メール設定から[!UICONTROL トラッキングリンク]をコピーします。
 
 [!UICONTROL トラッキングリンク]は、`mkto-[a-z][4 digits].com` の形式で入力します。
 
-![](assets/setup-steps-14.png)
+スクリーンショット：setup-steps-14.png
 
 これがあなたの `[MktoTrackingLink]` です。保存します。これは、手順 5 で IT チームに渡す必要があります。
 
@@ -215,35 +215,35 @@ IT チームが作業を完了したら、以下の手順に従ってランデ�
 
 「**[!UICONTROL 管理者]**」領域に移動してランディングページ CNAME を追加します。
 
-![](assets/setup-steps-15.png)
+スクリーンショット：setup-steps-15.png
 
 ランディングページを選択し、「[!UICONTROL 設定]」領域の「**[!UICONTROL 編集]**」をクリックします。
 
-![](assets/setup-steps-16.png)
+スクリーンショット：setup-steps-16.png
 
 「**[!UICONTROL ランディングページのドメイン名]**」フィールドに新しいドメイン名を入力します。これは、以下の形式で記述します。
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+スクリーンショット：setup-steps-17.png
 
 「**[!UICONTROL フォールバック]**」ページフィールドに、ランディングページが利用できない場合に訪問者に表示する URL を入力します。フォールバックページがない場合は、会社のホームページを使用できます。「**[!UICONTROL ホームページ]**」フィールドに、会社の web サイトを入力します。
 
-![](assets/setup-steps-18.png)
+スクリーンショット：setup-steps-18.png
 
 「[!UICONTROL 管理者]」領域で「**[!UICONTROL メール]**」を選択して、メール CNAME を追加します
 
-![](assets/setup-steps-19.png)
+スクリーンショット：setup-steps-19.png
 
 「[!UICONTROL ブランディングドメイン]」までスクロールします。ドメインを選択し、「**[!UICONTROL 編集]**」をクリックします。
 
-![](assets/setup-steps-20.png)
+スクリーンショット：setup-steps-20.png
 
 「ドメイン」フィールドに、メールトラッキングドメインを入力します。これは、以下の形式で記述します。
 
 `[EmailTrackingCNAME].[CompanyDomain].com`.「**[!UICONTROL 保存]**」をクリックします。
 
-![](assets/setup-steps-21.png)
+スクリーンショット：setup-steps-21.png
 
 ## CRM を統合する {#integrate-your-crm}
 
