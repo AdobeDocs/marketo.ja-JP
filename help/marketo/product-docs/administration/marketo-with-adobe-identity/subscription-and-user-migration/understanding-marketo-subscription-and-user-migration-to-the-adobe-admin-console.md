@@ -3,10 +3,10 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
-workflow-type: ht
-source-wordcount: '1327'
-ht-degree: 100%
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+workflow-type: tm+mt
+source-wordcount: '1370'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * **システム管理者が Adobe Admin Console でサブスクリプションを管理します**。1 つのコンソールですべてのアドビ製品を確認できます。
 
-* **製品管理者が Adobe Admin Console でユーザとそのアクセスを管理します**。すべてのアドビサブスクリプションのユーザを追加および削除します。
+* **製品管理者が Adobe Admin Console でユーザとそのアクセスを管理します**。すべてのAdobe購読のユーザーを追加および削除します。 Adobe Admin Consoleは、ユーザーベースのアクセス有効期限をサポートしていません。 移行後に期限切れになる予定のMarketo Engageアクセス権を持つユーザーは、引き続き移行され、期限切れでないアクセス権が付与されます。 移行後は、目的の有効期限までに手動で削除する必要があります。
 
 * **ユーザは Adobe ID でログインします**。アドビでは、既存のユーザを Adobe Admin Console に移行します。ユーザは、新しい Adobe ID（Adobe ID または Adobe Federated ID（SSO）のいずれか）を使用して、Marketo サブスクリプションにログインします。
 
