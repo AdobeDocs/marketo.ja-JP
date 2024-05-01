@@ -1,12 +1,11 @@
 ---
 description: コールバック関数 – Marketoドキュメント – 製品ドキュメント
 title: コールバック関数
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 7%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-イベントの「event」引数は、会話に関連するメタデータを含むオブジェクトです。 event.data でメタデータにアクセスできます
+この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
 
 アクセスできる主要なメタデータ値の一部を次に示します。
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-イベントの「event」引数は、会話に関連するメタデータを含むオブジェクトです。 event.data でメタデータにアクセスできます
+この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
 
 アクセスできる主要なメタデータ値の一部を以下に示します。
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-イベントの「event」引数は、会話に関連するメタデータを含むオブジェクトです。 event.data でメタデータにアクセスできます
+この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
 
 アクセスできる主要なメタデータ値の一部を以下に示します。
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-イベントの「event」引数は、会話に関連するメタデータを含むオブジェクトです。 event.data でメタデータにアクセスできます
+この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
 
 アクセスできる主要なメタデータ値の一部を以下に示します。
 
@@ -338,7 +337,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-これらのイベントをAdobe AnalyticsやGoogle Analyticsなどのサードパーティプラットフォームに送信する場合は、これらのDynamic Chatイベント内にそれぞれのトラッキングコールを追加する必要があります。 次の例のようになります。
+これらのイベントをAdobe AnalyticsやGoogle Analyticsなどの Analytics プラットフォームに送信する場合は、これらのDynamic Chatイベント内にそれぞれのトラッキングコールを追加する必要があります。 次の例のようになります。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

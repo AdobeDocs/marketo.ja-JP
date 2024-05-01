@@ -3,7 +3,7 @@ description: Dynamic Chatリリースノート - Marketo ドキュメント – 
 title: Dynamic Chatリリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;以前は、100 のライフタイムエンゲージメントを含む体�
 
 ### コールバック関数 {#callback-functions}
 
-コールバック関数を使用すると、訪問者がDynamic Chat上の会話に関与する際に、Adobe AnalyticsやGoogle Analyticsなどの外部システムでDynamic Chat分析イベントを収集できます。 イベントをリッスンする API をコールバックに登録することで、Dynamic Chat分析イベントを有効にできます。 これにより、web トラフィックなど、他の主要なデータに関連するDynamic Chatエンゲージメントの全体像を把握できます。
+[コールバック関数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} を使用すると、訪問者がDynamic Chatに関する会話に参加する際に、Adobe AnalyticsやGoogle Analyticsなどの外部システムでDynamic Chat分析イベントを収集できます。 イベントをリッスンする API をコールバックに登録することで、Dynamic Chat分析イベントを有効にできます。 これにより、web トラフィックなど、他の主要なデータに関連するDynamic Chatエンゲージメントの全体像を把握できます。
 
 ### 条件付きブランチに追加されたライブエージェントの可用性条件 {#live-agent-availability-conditional-branching}
 
