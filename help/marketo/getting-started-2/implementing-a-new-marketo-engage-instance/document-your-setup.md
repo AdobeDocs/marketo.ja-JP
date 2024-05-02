@@ -4,10 +4,11 @@ title: 新しいインスタンスのベストプラクティス – 設定の�
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 75%
+source-wordcount: '388'
+ht-degree: 69%
 
 ---
 
@@ -55,7 +56,7 @@ ht-degree: 75%
     <br>ID タイプ
     <br>製品プロファイル
     <p>
-    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。Adobe Admin Console でユーザのリストを変更するには、一括で <a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">.csv をアップロード</a>することを検討してください。</li></td>
+    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。Adobe Admin Consoleのユーザーリストを変更するには、 <a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">一括アクション</a>.csv のアップロード、User Management REST API の使用など。</li></td>
   </tr>
   <tr>
     <td>組織</td>

@@ -4,10 +4,11 @@ title: 新しいインスタンスのベストプラクティス - Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 37%
+source-wordcount: '364'
+ht-degree: 29%
 
 ---
 
@@ -29,8 +30,8 @@ Design Studio セクションには、再利用可能な「グローバルアセ
 <tbody>
   <tr>
     <td>グローバルランディングページ</td>
-    <td><li>グローバルランディングページ（フリーフォーム／ガイド付き）を作成します。</li>
-    <li>テストページを作成して、成功したランディングページテンプレートの A/B テストを行います（該当する場合）。</li></td>
+    <td><li>作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">グローバルランディングページ （フリーフォーム/ガイド付き）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">テストページの作成</a> を使用して、勝者のランディングページテンプレートを A/B テストします（該当する場合）。</li></td>
   </tr>
   <tr>
     <td>テンプレート</td>
@@ -38,7 +39,7 @@ Design Studio セクションには、再利用可能な「グローバルアセ
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
-    <td><li>を使用したフッターの作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">スニペット</a> またはプライバシーコンプライアンスのためにランディングページにトークンを追加します。</li></td>
+    <td><li>を使用したフッターの作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">スニペット</a> または <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">トークン</a> をランディングページに追加して、プライバシーコンプライアンスを確保します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -124,9 +125,9 @@ Design Studio セクションには、再利用可能な「グローバルアセ
   <tr>
     <td>命名規則</td>
     <td><li>画像とファイルには一貫した命名規則を使用します。</li>  
-    <br>例：
-    <br>ファイルの命名規則：アセットタイプ-アセット名（例：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board） 
-    <p>画像の命名規則：画像タイプ-アセットタイプ-アセット名（例：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</td>
+    <br>例：  
+    <br><ul><li>ファイル命名規則：アセットタイプ – アセット名（例：White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li>
+    <p><li>画像の命名規則：画像タイプ-アセットタイプ-アセット名（例：Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board）</li></td>
   </tr>
 </tbody>
 </table>

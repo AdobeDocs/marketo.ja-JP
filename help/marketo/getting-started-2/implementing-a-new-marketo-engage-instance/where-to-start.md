@@ -4,9 +4,10 @@ title: 開始する場所
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '248'
 ht-degree: 4%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 4%
 
 新しいAdobe Marketo Engage インスタンスへようこそ。 強力なマーケティング自動化機能を使用して、マーケティングタスクとワークフローを合理化、自動化、測定する準備を整えます。
 
-この「新しいMarketo Engageインスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびオンボーディングの過程での作業を文書化します。
+この「新しいMarketo Engageインスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびユーザーのオンボーディングに関する作業を文書化します。
 
 ## 新しいMarketo Engageインスタンスのベストプラクティスチェックリスト {#best-practice-checklists-new-instance}
 
@@ -33,4 +34,10 @@ Marketo Engageインスタンスの新しい実装管理者チェックリスト
 
 ## 他のユーザーとつながる {#connect-with-your-peers}
 
-にアクセスします [マーケティング民族共同体](https://nation.marketo.com/){target="_blank"} また、コミュニティプロファイルを作成して、Marketo Engageインスタンスを実装および管理する方法を同業者に学習したり尋ねたりします。
+にアクセスします [マーケティング民族共同体](https://nation.marketo.com/){target="_blank"} Marketo Engageインスタンスについて、Marketo Engageの社員や同僚から詳しく学びましょう。
+
+マーケティングネーションコミュニティの基本を学ぶ：
+
+1. クリック **Adobe IDを続行する** ログインページでプライマリ購読を選択します。
+1. ログインしたら、コミュニティプロファイルを入力します。
+1. 情報を送信すると、コミュニティホームページにアクセスし、順調に進みます。
