@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '255'
+ht-degree: 3%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 4%
 新しいAdobe Marketo Engage インスタンスへようこそ。 強力なマーケティング自動化機能を使用して、マーケティングタスクとワークフローを合理化、自動化、測定する準備を整えます。
 
 この「新しいMarketo Engageインスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびユーザーのオンボーディングに関する作業を文書化します。
+
+## 必要な手順
+
+このセクションを単語化して名前を変更
 
 ## 新しいMarketo Engageインスタンスのベストプラクティスチェックリスト {#best-practice-checklists-new-instance}
 

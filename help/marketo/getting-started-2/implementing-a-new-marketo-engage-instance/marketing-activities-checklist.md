@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 71%
 
 ---
@@ -54,9 +54,9 @@ ht-degree: 71%
 
 ## アセット {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に保存するには、「管理者セクション」のチェックリストを参照してください [リンク] ワークスペースの設定方法については、を参照してください。
+>プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に保存するには、 [管理者セクションのチェックリスト](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) ワークスペースの設定方法については、を参照してください。
 
 <table>
 <thead>
