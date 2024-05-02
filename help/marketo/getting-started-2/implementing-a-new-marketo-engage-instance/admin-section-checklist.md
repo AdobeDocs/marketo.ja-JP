@@ -4,10 +4,11 @@ title: 新しいインスタンスのベストプラクティス – 「管理�
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
-ht-degree: 63%
+source-wordcount: '772'
+ht-degree: 88%
 
 ---
 
@@ -28,19 +29,19 @@ ht-degree: 63%
   <tr>
     <td>ロール</td>
     <td><li>事前に作成されたロールを確認し、各ロールに割り当てられている権限／アクセス権を確認します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#create-a-new-role" target="_blank">新しい役割の作成</a> または <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#edit-a-role" target="_blank">役割の編集</a> 組織のニーズに基づく。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。「ロール」でロールを付与する前に、ユーザを Adobe Admin Console でサブスクリプションに追加する必要があります。「初期設定」チェックリスト [LINK] の「ユーザー」の節を参照してください。</li>
-    <li>ユーザーの役割を割り当てた後、役割あたりのユーザー数を確認します。</li>
+    <li>組織のニーズに基づいて、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#create-a-new-role" target="_blank">新しいロールを作成</a>または<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#edit-a-role" target="_blank">ロールを編集</a>します。</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。「ロール」でロールを付与する前に、ユーザを Adobe Admin Console でサブスクリプションに追加する必要があります。の「ユーザー」セクションを参照してください。 <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">初期設定チェックリスト</a>.</li>
+    <li>ユーザにロールを割り当てた後、ロールごとのユーザ数を確認します。</li>
     <li>トラブルシューティングを簡単に行うために、各 API ユーザに一意のロールを実装します。</li></td>
   </tr>
   <tr>
     <td>ドキュメント</td>
     <td><li>組織のユーザ＆ロールを定義します。</li>
-    <li>新しいユーザー/管理者を追加するためのプロセスを定義します。</li></td>
+    <li>新しいユーザ／管理者を追加するプロセスを定義します。</li></td>
   </tr>
   <tr>
     <td>サンドボックス（該当する場合）</td>
-    <td><li>に合わせて、上記のカテゴリを確認してください <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">sandbox</a>.</li></td>
+    <td><li>お使いの<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">サンドボックス</a>で上記のカテゴリを確認します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -63,9 +64,9 @@ ht-degree: 63%
   </tr>
   <tr>
     <td>ドキュメント</td>
-    <td><li>ワークスペースの定義方法と、データベース・パーティションとの関係を示します（たとえば、全員とビジネス・セクターを区別するグローバル・ワークスペース）。</li>
-    <li>新しいレコードを適切なパーティションにインポートします。</li>
-    <li>ユーザーを適切なパーティションに配置する値を CRM で定義します。</li></td>
+    <td><li>ワークスペースの定義方法と、データベースパーティションへの関連付け（つまり、すべてのユーザとビジネスセクターとの比較が表示されるグローバルワークスペース）をドキュメント化します。</li>
+    <li>適切なパーティションに新しいレコードを読み込みます。</li>
+    <li>適切なパーティションにユーザを配置する値を CRM で定義します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -82,7 +83,7 @@ ht-degree: 63%
 <tbody>
   <tr>
     <td>スマートキャンペーン設定</td>
-    <td><li>を追加 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html?lang=ja" target="_blank">スマートキャンペーンサイズの制限</a>を使用して、データベース全体に誤ってメールが送信されるのを防ぎます。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html?lang=ja" target="_blank">スマートキャンペーンのサイズに関する制限</a>を追加すると、データベース全体に誤ってメールを送信することを防ぎます。</li></td>
   </tr>
 </tbody>
 </table>
@@ -121,8 +122,8 @@ ht-degree: 63%
 <tbody>
   <tr>
     <td>通信制限</td>
-    <td><li>開始 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html?lang=ja" target="_blank">通信の制限</a>.</li>
-    <li>ビジネスで通信制限に関するポリシーが必要かどうかを判断します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html?lang=ja" target="_blank">通信制限</a>を開始します。</li>
+    <li>ビジネスに通信制限に関するポリシーが必要かどうかを判断します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -148,7 +149,7 @@ ht-degree: 63%
   <tr>
     <td>カレンダー（該当する場合）</td>
     <td><li>アクセスを必要とするユーザに対して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html?lang=ja" target="_blank">マーケティングカレンダーシートを発行</a>します。</li>
-    <li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html?lang=ja" target="_blank">カレンダー</a>.</li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html?lang=ja" target="_blank">カレンダー</a>を設定します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -165,9 +166,9 @@ ht-degree: 63%
 <tbody>
   <tr>
     <td>フィールド管理</td>
-    <td><li>命名規則の実装： <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html?lang=ja" target="_blank">カスタムフィールド</a> （例えば、「MKTO」で始まる）。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html?lang=ja" target="_blank">カスタムフィールド</a>の命名規則を実装します（例えば、「MKTO」で始まる）。</li>
     <li>同期するフィールドについては慎重に選択してください。同期するフィールドが多いほど、同期サイクルが遅くなります。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html?lang=ja" target="_blank">フィールドの更新をブロック</a> 1 回だけ書き込む（元のリードソース、元のリードソースの詳細、ファーストタッチ UTM フィールドなど）。</li></td>
+    <li>（元のリードソース、元のリードソースの詳細、ファーストタッチ UTM フィールドなど）1 回書き込む<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html?lang=ja" target="_blank">フィールドへの更新をブロックします</a>。</li></td>
   </tr>
   <tr>
     <td>カスタムアクティビティ</td>
@@ -198,43 +199,39 @@ ht-degree: 63%
     <li>トラブルシューティング用の CRM 管理者を特定します。</li></td>
   </tr>
   <tr>
-    <td>ランディングページ</td>
-    <td>メモ：Launch Pack をご利用の場合は、この手順をスキップできます。初回コール時に、担当のコンサルタントが IT セットアップ手順書を提供します。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">CNAME</a>を使用してランディングページのドメインを設定し、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html?lang=ja">ドメインとページの情報を入力</a>します。これは次の形式で記述します。[LandingPageCNAME].[CompanyDomain].com <br>ランディングページの CNAME を選択します。次に例を示します。<br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com SSL 証明書のプロビジョニングプロセスを開始するには、<br><a href="https://experienceleague.adobe.com/ja/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Marketo サポート</a>にお問い合わせください。このプロセスが完了するまでに最大 3 営業日かかる場合があります。<br>ヒント：短くしてください。URL は短いほど覚えやすくなります。ドメインには「go」を指定することをお勧めします。<br>分析トラッキングコード（Google Analytics や Adobe Analytics など）をランディングページテンプレートに追加します。 </td>
-  </tr>
-  <tr>
-    <td>Munchkin</td>
-    <td>注意：Launch Pack の顧客の場合、この手順はスキップできます。 担当のコンサルタントが、IT セットアップ手順ドキュメントに Munchkin コード手順を提供します。
-    <li>Web サイトに <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html?lang=ja">Munchkin トラッキングコードを追加</a>します。Munchkin コードは、<a href="https://developers.marketo.com/javascript-api/lead-tracking/">ハードコード</a>することも、Google タグマネージャー経由でデプロイすることもできます。</li></td>
-  </tr>
-  <tr>
     <td>Web サービス</td>
-    <td><li>実行できるユーザー/アプリの決定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html?lang=ja">API 呼び出し</a> インスタンス内。</li>
-    <li>API 呼び出しを行うすべてのアプリを確認し、API 呼び出しの増減が必要かどうかを判断します。</li></td>
+    <td><li>インスタンス内で <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html?lang=ja">API 呼び出し</a>を実行できるユーザ／アプリを決定します。</li>
+    <li>API 呼び出しを行うすべてのアプリを確認し、API 呼び出しの増加または削減が必要かどうかを判断します。</li></td>
   </tr>
   <tr>
     <td>Launchpoint</td>
-    <td><li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja">LaunchPoint</a> お客様のビジネスに対応するサービス。 トラブルシューティングを支援するために、各 LaunchPoint と一意の API ユーザをペアにする必要があります。</li></td>
+    <td><li>ビジネス向けに <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja">LaunchPoint</a> サービスを設定します。トラブルシューティングを支援するために、各 LaunchPoint と一意の API ユーザをペアにする必要があります。</li></td>
   </tr>
   <tr>
     <td>インタラクティブウェビナー（該当する場合）</td>
     <td>メモ：インタラクティブウェビナーは、実稼動インスタンスにのみプロビジョニングされます。
-    <li>インタラクティブウェビナーの作成のために、組み込みのウェビナー機能 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">「ユーザー」セクションにユーザーを追加</a> 「インタラクティブウェビナー」タブで、次の操作を行います。</li></td>
+    <li>インタラクティブウェビナー（ビルトインウェビナー機能）を作成するには、「インタラクティブウェビナー」タブの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">「ユーザ」セクションにユーザを追加</a>します。</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（該当する場合）</td>
-    <td>使用する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja">Dynamic Chat</a>の場合は、Marketo Engageのネイティブなコンバージョン自動処理チャネルで、に示す手順に従って、ユーザー権限の設定を行います <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>アドビ組織システム管理者からアドビ製品管理者のロールを付与されているかどうかを確認します。コンソールの管理者権限を持っている組織内の担当者を確認するには、<a href="https://helpx.adobe.com/contact.html">アドビカスタマーケア</a>にお問い合わせください。<br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">「Dynamic Chat 製品管理者」の招待</a>を承認します。この<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">ウェルカムメール</a>は、Marketo Engage インスタンスで Dynamic Chat が有効になっており、ご自身をシステム管理者として指定している場合に送信されます。<br>Adobe Admin Console で、すべての適切なユーザを Dynamic Chat の製品プロファイルに割り当てます。<br>望ましくないユーザが複数の製品プロファイルに追加された場合は、そのユーザをすべての製品プロファイルから削除する必要があります。そうしないと、それらのユーザは引き続き Dynamic Chat にアクセスできます。<br><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Dynamic Chat で製品プロファイルを編集</a>し、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">サブスクリプション内で利用できる権限</a>のカスタムセットを備えたカスタムプロファイルを作成できます。<br>Marketo Engage／管理者／ユーザ＆ロールの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「Dynamic Chat へのアクセス」ロール</a>にユーザを割り当てます。 </td>
+    <td><li>ユーザー割り当て先 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「Dynamic Chatにアクセス」の役割</a> Marketo Engage/管理者/ユーザーと役割に移動します。</li></td>
   </tr>
   <tr>
     <td>Sales Insight（該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">販売インサイト アクションの設定</a> [Sales Insight]&gt;[Actions Config] で操作します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions">適切なユーザーに席を割り当てる</a>.</li>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Sales Insight アクションの設定</a>は、Sales Insight／アクション設定で行います。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions">適切なユーザにシートを発行します</a>。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html?lang=ja">API を設定</a>します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja">リードスコアのカスタマイズ</a>.</li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja">リードスコアをカスタマイズします</a>。</li></td>
   </tr>
   <tr>
     <td>Sales Connect（該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Sales Connect インスタンスに適切なMarketo Engage管理者を招待します。</a>.</li>
-    <li>を完了する <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">追加の Sales Connect 管理者設定</a> （Sales Connect および Salesforce の場合）。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">適切な Marketo Engage 管理者を Sales Connect インスタンスに招待します</a>。</li>
+    <li>Sales Connect と Salesforce で<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">追加の Sales Connect 管理者設定</a>を完了します。</li></td>
+  </tr>
+  <tr>
+    <td>Web フック（該当する場合）</td>
+    <td><li>ビジネスに<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=ja">必須の Web フックを作成</a>します。</li>
+    </td>
   </tr>
 </tbody>
 </table>
@@ -251,7 +248,7 @@ ht-degree: 63%
 <tbody>
   <tr>
     <td>アイデアスペース </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html?lang=ja">宝箱を有効にする</a> パイロット機能を試してみる。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html?lang=ja">アイデアスペースを有効</a>にして、パイロット機能を実験します。</li>
     <li>オンまたはオフにする機能を決定します。</li></td>
   </tr>
   <tr>
