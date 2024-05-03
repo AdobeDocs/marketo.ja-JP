@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの設計 - Marketo ドキ�
 title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 78%
+source-wordcount: '488'
+ht-degree: 76%
 
 ---
 
@@ -27,6 +27,8 @@ ht-degree: 78%
    >* ルームは、ミーティングを行うために使用されるオンラインスペースです。
    >
    >* 既存のウェビナールームを選択し、名前を変更する必要がある場合は、 **ウェビナールームの名前を変更** ボタンを右にクリックします。
+   >
+   >* ドロップダウンには、以前に作成した既存の部屋のみが表示されます。他のホストの部屋は表示されません。
 
 1. テンプレートを選択します。
 

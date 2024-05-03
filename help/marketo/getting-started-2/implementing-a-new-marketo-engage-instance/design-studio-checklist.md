@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 29%
@@ -30,8 +30,8 @@ Design Studio セクションには、再利用可能な「グローバルアセ
 <tbody>
   <tr>
     <td>グローバルランディングページ</td>
-    <td><li>作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">グローバルランディングページ （フリーフォーム/ガイド付き）</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">テストページの作成</a> を使用して、勝者のランディングページテンプレートを A/B テストします（該当する場合）。</li></td>
+    <td><li>作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">グローバルランディングページ （フリーフォーム/ガイド付き）</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">テストページの作成</a> を使用して、勝者のランディングページテンプレートを A/B テストします（該当する場合）。</li></td>
   </tr>
   <tr>
     <td>テンプレート</td>
@@ -39,7 +39,7 @@ Design Studio セクションには、再利用可能な「グローバルアセ
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
-    <td><li>を使用したフッターの作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">スニペット</a> または <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">トークン</a> をランディングページに追加して、プライバシーコンプライアンスを確保します。</li></td>
+    <td><li>を使用したフッターの作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">スニペット</a> または <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">トークン</a> をランディングページに追加して、プライバシーコンプライアンスを確保します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Design Studio セクションには、再利用可能な「グローバルアセ
 <tbody>
   <tr>
     <td>フォルダー構造 </td>
-    <td><li>アセットタイプごとのサブフォルダーの作成と <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">グローバルアセットの整理</a> （例：会話フロー、メールテンプレート、電子メール、フォーム、画像とファイル、ランディングページ、ランディングページテンプレート、スニペットなど）。 適切です。</li></td>
+    <td><li>アセットタイプごとのサブフォルダーの作成と <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">グローバルアセットの整理</a> （例：会話フロー、メールテンプレート、電子メール、フォーム、画像とファイル、ランディングページ、ランディングページテンプレート、スニペットなど）。 適切です。</li></td>
   </tr>
 </tbody>
 </table>

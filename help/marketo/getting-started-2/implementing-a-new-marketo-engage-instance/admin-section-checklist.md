@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 88%
@@ -41,7 +41,7 @@ ht-degree: 88%
   </tr>
   <tr>
     <td>サンドボックス（該当する場合）</td>
-    <td><li>お使いの<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">サンドボックス</a>で上記のカテゴリを確認します。</li></td>
+    <td><li>お使いの<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">サンドボックス</a>で上記のカテゴリを確認します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -172,12 +172,12 @@ ht-degree: 88%
   </tr>
   <tr>
     <td>カスタムアクティビティ</td>
-    <td><li>ビジネスに固有の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html?lang=ja">カスタムアクティビティ</a>を定義します。</li></td>
+    <td><li>ビジネスに固有の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html?lang=ja" target="_blank">カスタムアクティビティ</a>を定義します。</li></td>
   </tr>
   <tr>
     <td>カスタムオブジェクト</td>
-    <td><li>必要な<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html?lang=ja">カスタムオブジェクト</a>の数を確認します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html?lang=ja">これらのカスタムオブジェクトを CRM に同期</a>。</li></td>
+    <td><li>必要な<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html?lang=ja" target="_blank">カスタムオブジェクト</a>の数を確認します。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html?lang=ja" target="_blank">これらのカスタムオブジェクトを CRM に同期</a>。</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,43 +194,43 @@ ht-degree: 88%
 <tbody>
   <tr>
     <td>CRM </td>
-    <td><li>CRM 同期を開始します。会社で使用している CRM に応じて、次の中 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=ja">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=ja">Microsoft Dynamics</a> から選択します。</li>
+    <td><li>CRM 同期を開始します。会社で使用している CRM に応じて、次の中 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=ja" target="_blank">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=ja" target="_blank">Microsoft Dynamics</a> から選択します。</li>
     <li>CRM にアクセスするのに必要なアクセスのタイプを特定します。</li>
     <li>トラブルシューティング用の CRM 管理者を特定します。</li></td>
   </tr>
   <tr>
     <td>Web サービス</td>
-    <td><li>インスタンス内で <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html?lang=ja">API 呼び出し</a>を実行できるユーザ／アプリを決定します。</li>
+    <td><li>インスタンス内で <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html?lang=ja" target="_blank">API 呼び出し</a>を実行できるユーザ／アプリを決定します。</li>
     <li>API 呼び出しを行うすべてのアプリを確認し、API 呼び出しの増加または削減が必要かどうかを判断します。</li></td>
   </tr>
   <tr>
     <td>Launchpoint</td>
-    <td><li>ビジネス向けに <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja">LaunchPoint</a> サービスを設定します。トラブルシューティングを支援するために、各 LaunchPoint と一意の API ユーザをペアにする必要があります。</li></td>
+    <td><li>ビジネス向けに <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html?lang=ja" target="_blank">LaunchPoint</a> サービスを設定します。トラブルシューティングを支援するために、各 LaunchPoint と一意の API ユーザをペアにする必要があります。</li></td>
   </tr>
   <tr>
     <td>インタラクティブウェビナー（該当する場合）</td>
     <td>メモ：インタラクティブウェビナーは、実稼動インスタンスにのみプロビジョニングされます。
-    <li>インタラクティブウェビナー（ビルトインウェビナー機能）を作成するには、「インタラクティブウェビナー」タブの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">「ユーザ」セクションにユーザを追加</a>します。</li></td>
+    <li>インタラクティブウェビナー（ビルトインウェビナー機能）を作成するには、「インタラクティブウェビナー」タブの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">「ユーザ」セクションにユーザを追加</a>します。</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（該当する場合）</td>
-    <td><li>ユーザー割り当て先 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">「Dynamic Chatにアクセス」の役割</a> Marketo Engage/管理者/ユーザーと役割に移動します。</li></td>
+    <td><li>ユーザー割り当て先 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">「Dynamic Chatにアクセス」の役割</a> Marketo Engage/管理者/ユーザーと役割に移動します。</li></td>
   </tr>
   <tr>
     <td>Sales Insight（該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Sales Insight アクションの設定</a>は、Sales Insight／アクション設定で行います。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions">適切なユーザにシートを発行します</a>。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html?lang=ja">API を設定</a>します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja">リードスコアをカスタマイズします</a>。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">Sales Insight アクションの設定</a>は、Sales Insight／アクション設定で行います。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions" target="_blank">適切なユーザにシートを発行します</a>。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html?lang=ja" target="_blank">API を設定</a>します。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja" target="_blank">リードスコアをカスタマイズします</a>。</li></td>
   </tr>
   <tr>
     <td>Sales Connect（該当する場合）</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">適切な Marketo Engage 管理者を Sales Connect インスタンスに招待します</a>。</li>
-    <li>Sales Connect と Salesforce で<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">追加の Sales Connect 管理者設定</a>を完了します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">適切な Marketo Engage 管理者を Sales Connect インスタンスに招待します</a>。</li>
+    <li>Sales Connect と Salesforce で<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">追加の Sales Connect 管理者設定</a>を完了します。</li></td>
   </tr>
   <tr>
     <td>Web フック（該当する場合）</td>
-    <td><li>ビジネスに<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=ja">必須の Web フックを作成</a>します。</li>
+    <td><li>ビジネスに<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=ja" target="_blank">必須の Web フックを作成</a>します。</li>
     </td>
   </tr>
 </tbody>
@@ -248,12 +248,12 @@ ht-degree: 88%
 <tbody>
   <tr>
     <td>アイデアスペース </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html?lang=ja">アイデアスペースを有効</a>にして、パイロット機能を実験します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html?lang=ja" target="_blank">アイデアスペースを有効</a>にして、パイロット機能を実験します。</li>
     <li>オンまたはオフにする機能を決定します。</li></td>
   </tr>
   <tr>
     <td>キャンペーンインスペクター </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html?lang=ja">キャンペーンインスペクターをオンに</a>すると、すべてのスマートキャンペーンを一度に表示できます。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html?lang=ja" target="_blank">キャンペーンインスペクターをオンに</a>すると、すべてのスマートキャンペーンを一度に表示できます。</li></td>
   </tr>
 </tbody>
 </table>

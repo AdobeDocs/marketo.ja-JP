@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 5%
+source-wordcount: '767'
+ht-degree: 4%
 
 ---
 
@@ -51,6 +51,12 @@ ht-degree: 5%
     <td><li>実行するタイミングに関するポリシーの作成 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">ユーザーの作成</a>.</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
     <li>誰に権限を付与すべきかを判断する <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobeシステム管理者およびMarketo Engage製品管理者の権限。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">ユーザーを追加</a> を目的の製品プロファイルに追加します。</li>
     <li>API ユースケースごとに 1 つの API ユーザーを作成します。</li></td>
+  </tr>
+  <tr>
+    <td>User Management API （該当する場合）</td>
+    <td><li>の使用 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">AdobeUser Management API</a> ユーザーを招待、更新、削除します。</li>
+    <li>の使用 <a href="https://developer.adobe.com/umapi/">AdobeUser Management API</a> 役割を追加または削除します（管理者、サポート管理者、開発者など）。</li>
+    </td>
   </tr>
   <tr>
     <td>製品サポート管理者 </td>

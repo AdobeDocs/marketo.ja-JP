@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 3%
+source-wordcount: '274'
+ht-degree: 4%
 
 ---
 
@@ -18,9 +18,13 @@ ht-degree: 3%
 
 この「新しいMarketo Engageインスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびユーザーのオンボーディングに関する作業を文書化します。
 
-## 必要な手順
+## 初期設定 {#initial-setup}
 
-このセクションを単語化して名前を変更
+以下のベストプラクティスチェックリストに進む前に、初期設定エリアの手順に従っていることを確認してください。
+
+* [初期セットアップ タスク](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [ユーザー設定](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## 新しいMarketo Engageインスタンスのベストプラクティスチェックリスト {#best-practice-checklists-new-instance}
 
