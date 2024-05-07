@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo のプロトコルの設定
+description: Marketo Engageのプロトコルの設定 – 製品ドキュメント -Marketo Engageドキュメント
+title: Marketo Engage用のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2116'
-ht-degree: 99%
+source-wordcount: '2136'
+ht-degree: 80%
 
 ---
 
-# Marketo のプロトコルの設定 {#configure-protocols-for-marketo}
+# Marketo Engage用のプロトコルの設定{#configure-protocols-for-marketo-engage}
 
 お客様またはお客様の組織が制限的なファイアウォールまたはプロキシサーバー設定を使用している場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-以下のプロトコルの実装に関するヘルプについては、この記事を IT 部門と共有してください。許可リストを使用して web アクセスを制限する場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可します。
+以下のプロトコルの実装に関するヘルプについては、この記事を IT 部門と共有してください。許可リストを使用して web アクセスを制限する場合は、次のドメイン（アスタリスクを含む）を追加して、すべてのMarketo Engageリソースと web ソケットを許可します。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ ht-degree: 99%
 
 **トラッキングリンク CNAME**
 
-マーケティングチームから、新しい CNAME レコードに関する 2 件のリクエストが送信されているはずです。1 件目はランディングページの URL 用です。これにより、ランディングページは、Marketo（実際のホスト）ではなく、顧客のドメインを反映した URL で表示されます。2 件目は、Marketo から送信されるメールに含まれるトラッキングリンク用です。
+マーケティングチームから、新しい CNAME レコードに関する 2 件のリクエストが送信されているはずです。1 つ目はランディングページの URL です。この場合、ランディングページは、Marketo Engage（実際のホスト）ではなく、ドメインを反映した URL で表示されます。 2 つ目は、Marketo Engageから送信されるメールに含まれるトラッキングリンクです。
 
 `1` **ランディングページ用の CNAME の追加**
 
-`[YourLandingPageCNAME]`が Marketo のランディングページに割り当てられた一意のアカウント文字列を指すように、DNS レコードに送信したランディングページ CNAME を追加します。ドメイン登録機関のサイトにログインし、ランディングページの CNAME とアカウント文字列を入力します。通常、これには 3 つのフィールドが含まれます。
+DNS レコードに送信されたランディングページ CNAME を追加します。これにより、 `[YourLandingPageCNAME]` は、Marketo Engageランディングページに割り当てられた一意のアカウント文字列を指します。 ドメイン登録機関のサイトにログインし、ランディングページの CNAME とアカウント文字列を入力します。通常、これには 3 つのフィールドが含まれます。
 
 * エイリアス：`[YourLandingPageCNAME]` と入力します（マーケティングから提供）。
 * タイプ：CNAME
@@ -39,7 +39,7 @@ ht-degree: 99%
 
 `2` **メールトラッキングリンク用の CNAME の追加**
 
-`[YourEmailCNAME]` が Marketo が割り当てたデフォルトのトラッキングリンク [MktoTrackingLink] を以下の形式で指すように、送信されたメール CNAME マーケティングを追加します。\
+CNAME マーケティングから送信されたメールを追加します。これにより、 `[YourEmailCNAME]` 参照先 [MktoTrackingLink]:Marketo Engageが割り当てたデフォルトのトラッキングリンク（形式：）\
 `[YourEmailCNAME].[YourDomain].com` CNAME 内 `[MktoTrackingLink]`
 
 例：
@@ -58,9 +58,9 @@ ht-degree: 99%
 
 プロセスが完了するまでに最大で 3 営業日かかります。
 
-## 手順 2：Marketo IP の許可リスト {#step-allowlist-marketo-ips}
+## 手順 2:^Marketo EngageIP の許可リストに加える {#step-allowlist-marketo-ips}
 
-Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、許可リストに Marketo を追加します。
+マーケティンググループがMarketo Engageを使用してテストメールを送信する場合（メールのブラストを送信する前のベストプラクティス）、メールが有効であることを送信者 IP アドレスに依存するスパム対策システムによってテストメールがブロックされることがあります。 これらのテストメールが確実に届くようにするには、Marketo Engageを許可リストに追加します。
 
 以下の IP アドレスを会社の許可リストに追加します。
 
@@ -82,7 +82,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
 199.15.212.0/22
 
-一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。Marketo は複数のメールボックスサブドメインを使用するので、このような場合の最善の方法は「&#42;.mktomail.com」を許可リストに追加することです。その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
+一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。許可リストに加えるその場合、最善の方法は次のとおりです。&#42;.mktomail.com&#39;。Marketo Engageは、複数のメールボックスサブドメインを使用します。 その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
    DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。\
    include: mktomail.com
 
-   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：255.255.255.255）で置き換えます。Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
+   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：255.255.255.255）で置き換えます。Marketo Engageを通じて複数のドメインから電子メールを送信する場合は、IT スタッフにドメインごとにこの行を（1 行に）追加してもらう必要があります。
 
 1. DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成します。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
@@ -253,7 +253,7 @@ DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあり�
 
 >[!NOTE]
 >
->Marketo では、DKIM と SPF で DMARC の整列を行うことをお勧めします。
+>Marketo Engageのために、DKIM と SPF で DMARC の連携を行うことをお勧めします。
 
 * DKIM に整列された DMARC - DKIM に整列された DMARC を設定するには、以下を行う必要があります。
 
@@ -268,15 +268,15 @@ DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあり�
 
    * ブランドの Return-Path ドメインに対して DMARC を設定します
 
-* 専用 IP を通じて Marketo からメールを送信していて、ブランドの Return-Path をまだ実装していない場合や、実装しているかどうかわからない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
+* 専用 IP を通じてMarketo Engageからメールを送信していて、ブランドのリターンパスをまだ実装していない場合、またはわからない場合は、でチケットを開いてください [Adobeサポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
+* IP の共有プールを通じてMarketo Engageからメールを送信している場合は、次の方法で信頼済み IP の対象となるかどうかを確認できます。 [適用中](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. ブランドのリターンパスは、Marketo Engageの信頼済み IP から送信されるユーザーに無料で提供されます。 このプログラムが承認された場合は、Adobeサポートに連絡してブランドの return-path を設定してください。
 
    * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
 
-* 共有 IP を通じて Marketo からメールを送信していて、信頼済み IP の資格がなく、毎月 100,000 件を超えるメッセージを送信している場合は、アドビのアカウントチーム（アカウントマネージャー）に連絡して専用 IP を購入する必要があります。
+* 共用 IP を介してMarketo Engageからメールを送信していて、信頼できる IP の対象とならず、1 か月に 100,000 件を超えるメッセージを送信する場合は、Adobeアカウントチーム（アカウントマネージャー）に連絡して専用 IP を購入する必要があります。
 
-* Strict SPF 整列は Marketo 内ではサポートされておらず、推奨されてもいません。
+* 厳密な SPF のアラインメントはサポートされておらず、Marketo Engage内での使用もお勧めしません。
 
 ## 手順 5：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
