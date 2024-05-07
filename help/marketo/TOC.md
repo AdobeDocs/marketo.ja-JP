@@ -19,15 +19,15 @@ ht-degree: 99%
    + 初期設定 {#initial-setup}
       + [設定手順](getting-started/initial-setup/setup-steps.md)
       + [プロトコルの設定](getting-started/initial-setup/configure-protocols-for-marketo.md)
-      + [ユーザー設定](getting-started/initial-setup/user-setup.md)
-   + 新しいMarketo Engageインスタンスの実装 {#implementing-a-new-marketo-engage-instance}
+      + [ユーザ設定](getting-started/initial-setup/user-setup.md)
+   + 新しい Marketo Engage インスタンスの実装 {#implementing-a-new-marketo-engage-instance}
       + [開始する場所](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新しいインスタンスのベストプラクティス：データベースチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新しいインスタンスのベストプラクティス：Design Studio チェックリスト](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新しいインスタンスのベストプラクティス：データベースのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新しいインスタンスのベストプラクティス：デザインスタジオのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
       + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + 注意事項 {#things-to-know}
+   + 留意事項 {#things-to-know}
       + [Marketo Engage 用語集](getting-started/things-to-know/marketo-engage-glossary.md)
       + [アイコン用語集](getting-started/things-to-know/icon-glossary.md)
       + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
@@ -233,7 +233,7 @@ ht-degree: 99%
          + [Marketo ユーザーの管理](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [ロールの権限の説明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
+         + [ロール権限の説明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [スニペットでドラフトなしを有効にする](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + ワークスペースとリードパーティション {#workspaces-and-person-partitions}
          + [ワークスペースと人物パーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
@@ -295,7 +295,7 @@ ht-degree: 99%
             + [スコアの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [リードの変換](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [フローステップの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
-            + [人物の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [ユーザの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [キャンペーンの実行](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [フローステップサービス](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [リファラーへのクレジット付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
