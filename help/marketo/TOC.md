@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9327'
 ht-degree: 99%
 
 ---
@@ -14,16 +14,24 @@ ht-degree: 99%
 # Marketo ガイド {#using}
 
 + [ホーム](home.md)
-+ Marketo の概要 {#getting-started-with-marketo}
-   + [はじめに](getting-started.md)
++ Marketo Engage使用の手引き {#getting-started}
    + [Adobe Marketo Engage とは](getting-started/what-is-adobe-marketo-engage.md)
-   + [ヘルプセンター](getting-started/help-center.md)
-   + [Marketo Engage 用語集](getting-started/marketo-engage-glossary.md)
-   + [クラシックアイコン用語集](getting-started/classic-icon-glossary.md)
-   + セットアップ {#setup}
-      + [設定手順](getting-started/setup/setup-steps.md)
-      + [セットアップチェックリスト](getting-started/setup/setup-checklist.md)
-      + [Marketo のプロトコルの設定](getting-started/setup/configure-protocols-for-marketo.md)
+   + 初期設定 {#initial-setup}
+      + [設定手順](getting-started/initial-setup/setup-steps.md)
+      + [プロトコルの設定](getting-started/initial-setup/configure-protocols-for-marketo.md)
+      + [ユーザー設定](getting-started/initial-setup/user-setup.md)
+   + 新しいMarketo Engageインスタンスの実装 {#implementing-a-new-marketo-engage-instance}
+      + [開始する場所](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [新しいインスタンスのベストプラクティス：データベースチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [新しいインスタンスのベストプラクティス：Design Studio チェックリスト](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 注意事項 {#things-to-know}
+      + [Marketo Engage 用語集](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [アイコン用語集](getting-started/things-to-know/icon-glossary.md)
+      + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
+      + [ヘルプセンター](getting-started/things-to-know/help-center.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
@@ -45,24 +53,6 @@ ht-degree: 99%
       + [継承インスタンス：デザインスタジオのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [継承インスタンス：設定のドキュメント化](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [コアスキルのレビュー](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-+ Marketo 2 使用の手引き {#getting-started-with-marketo-2}
-   + [Adobe Marketo Engage とは](getting-started-2/what-is-adobe-marketo-engage.md)
-   + 初期設定 {#initial-setup}
-      + [初期セットアップ タスク](getting-started-2/initial-setup/initial-setup-tasks.md)
-      + [設定手順](getting-started-2/initial-setup/setup-steps.md)
-      + [ユーザー設定](getting-started-2/initial-setup/user-setup.md)
-   + 新しいMarketo Engageインスタンスの実装 {#implementing-a-new-marketo-engage-instance}
-      + [開始する場所](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [新しいインスタンスのベストプラクティス：データベースチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [新しいインスタンスのベストプラクティス：Design Studio チェックリスト](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + 注意事項 {#things-to-know}
-      + [Marketo Engage 用語集](getting-started-2/things-to-know/marketo-engage-glossary.md)
-      + [アイコン用語集](getting-started-2/things-to-know/icon-glossary.md)
-      + [クラシックアイコン用語集](getting-started-2/things-to-know/classic-icon-glossary.md)
-      + [ヘルプセンター](getting-started-2/things-to-know/help-center.md)
 + 製品ドキュメント {#product-docs}
    + 追加的なアプリ {#additional-apps}
       + SEO {#seo}
@@ -1143,7 +1133,6 @@ ht-degree: 99%
          + [メール CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage の最新 UX {#marketo-engage-modern-ux}
       + [概要](product-docs/marketo-engage-modern-ux/overview.md)
-      + [アイコン用語集](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切替スイッチ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo の通知 {#marketo-notifications}

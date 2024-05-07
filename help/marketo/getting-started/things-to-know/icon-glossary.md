@@ -1,18 +1,18 @@
 ---
-description: アイコンの用語集 — Marketo ドキュメント — 製品ドキュメント
+description: アイコンの用語集 – Marketo Engageドキュメント – 製品ドキュメント
 title: アイコン用語集
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 99%
+source-wordcount: '242'
+ht-degree: 90%
 
 ---
 
-# アイコン用語集 {#new-icon-glossary}
+# Marketo Engageアイコンの用語 {#icon-glossary}
 
-以下に、新しい Adobe Marketo Engage インターフェイスのアイコンを示します。Marketo Classic アイコンを参照する必要がある場合は、[こちら](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)をご覧ください。
+以下は、現在のAdobe Marketo Engage インターフェイスのアイコンです。 Marketo Classic アイコンを参照する必要がある場合は、[こちら](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)をご覧ください。
 
 ## 一般アイコン {#general-icons}
 

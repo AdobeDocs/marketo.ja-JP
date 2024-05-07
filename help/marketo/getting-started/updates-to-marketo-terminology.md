@@ -1,11 +1,13 @@
 ---
 unique-page-id: 11387674
 description: Marketo 用語のアップデート - Marketo ドキュメント - 製品ドキュメント
+hide: true
+hidefromtoc: true
 title: Marketo 用語のアップデート
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 91%
+source-wordcount: '328'
+ht-degree: 93%
 
 ---
 
@@ -108,7 +110,7 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 >[!NOTE]
 >
->影響を受けるフィールド名の完全なリストについては、こちらを参照してください [サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}。
+>影響を受けるフィールド名の完全なリストについては、こちらを参照してください [サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
 ## リアルタイムパーソナライゼーション（RTP）が Web パーソナライゼーションに {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -137,11 +139,11 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | ホーム画面に独自のタイルを表示 |
+| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 |---|---|
-| **[アカウントベースドウェブマーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Web パーソナライゼーションタイルからアクセス可能 |
-| **[Personalized Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Web パーソナライゼーションタイルからアクセス可能 |
-| **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | ホーム画面に独自のタイルを表示 |
+| **[アカウントベースの Web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライゼーションタイルからアクセス可能 |
+| **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライゼーションタイルからアクセス可能 |
+| **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]
 >

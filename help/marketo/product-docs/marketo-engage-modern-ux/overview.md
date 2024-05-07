@@ -3,8 +3,8 @@ description: Marketo Engage の最新 UX の概要 - Marketo ドキュメント 
 title: Marketo Engage の最新 UX の概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
-workflow-type: ht
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 
 **アイコン**
 
-この新しいインターフェイスは、図像学的に改善され、拡張されています。詳しくは、[アイコン用語集](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md)を参照してください。
+この新しいインターフェイスは、図像学的に改善され、拡張されています。詳しくは、[アイコン用語集](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md)を参照してください。
 
 ![](assets/overview-2.png)
 

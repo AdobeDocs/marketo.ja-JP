@@ -2,10 +2,12 @@
 unique-page-id: 1147226
 description: はじめに - Marketo ドキュメント - 製品ドキュメント
 title: はじめに
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 
@@ -23,7 +25,7 @@ Marketo とは何でしょうか。素晴らしい質問です。
 
 IT チームから少々支援を受けることで、すぐに完了できます。
 
-[設定を開始するには](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[設定を開始するには](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## すばやく成果を獲得 {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Marketo Engage の主な機能を学ぶには、以下のミッションを完�
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="インポート" src="getting-started/assets/getting-started-2.png" />
+       <img alt="インポート" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2.メールの送信</a>
     </div>

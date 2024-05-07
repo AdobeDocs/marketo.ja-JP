@@ -3,8 +3,8 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
-workflow-type: ht
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->Marketo Engage の新規ユーザで、多くの用語に詳しくない場合は、[Marketo Engage 用語集](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}を確認してください。
+>Marketo Engage の新規ユーザで、多くの用語に詳しくない場合は、[Marketo Engage 用語集](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}を確認してください。
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ ht-degree: 100%
   </tr>
   <tr> 
    <td>サポートユーザ</td> 
-   <td><li>サポートポータルで適切な<a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">承認済み取引先責任者</a>を設定しましたか？</li></td>
+   <td><li>サポートポータルで適切な<a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">承認済み取引先責任者</a>を設定しましたか？</li></td>
   </tr>
   <tr> 
    <td>内部ドキュメント</td> 
