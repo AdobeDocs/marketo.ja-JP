@@ -3,7 +3,7 @@ description: 新しいMarketo Engageインスタンスを実装する際のベ�
 title: 開始する場所
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 5%
@@ -20,9 +20,9 @@ ht-degree: 5%
 
 以下のベストプラクティスチェックリストに進む前に、初期設定エリアの手順に従っていることを確認してください。
 
-* [設定手順](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [設定手順](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [プロトコルの設定](/help/marketo/getting-started/initial-setup/initial-setup-tasks.md){target="_blank"}
+* [プロトコルの設定](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
 * [ユーザー設定チェックリスト](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 
