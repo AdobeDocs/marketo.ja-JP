@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
-workflow-type: ht
-source-wordcount: '399'
-ht-degree: 100%
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
+workflow-type: tm+mt
+source-wordcount: '428'
+ht-degree: 93%
 
 ---
 
@@ -54,7 +54,18 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセス権を個別に付与する権限を分割し、アセットとフォルダーに対する新規作成および移動権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。新しい権限は 4月26日（PT）以降、お使いの Marketo Engage インスタンスに表示されますが、現時点ではパッシブであり、今四半期後半にアクセス可能になる予定です。</td> 
+   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセス権を個別に付与する権限を分割し、アセットとフォルダーに対する新規作成および移動権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。 
+   <p>新しい権限は 4月26日（PT）以降、お使いの Marketo Engage インスタンスに表示されますが、現時点ではパッシブであり、今四半期後半にアクセス可能になる予定です。
+   <li>Adobe Experience Managerへのアクセス</li>
+   <li>アクセスAdobeの組織のマッピング</li>
+   <li>Admin Audit Trail へのアクセス</li>
+   <li>アセット監査証跡へのアクセス</li>
+   <li>新しいエクスペリエンスにアクセス</li>
+   <li>Predictive Audiences へのアクセス</li>
+   <li>レポートを作成</li>
+   <li>リストの作成</li>
+   <li>キャンペーンアクティビティをエクスポート</li>
+   </td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">ロール権限の説明</a></td>
   </tr>
