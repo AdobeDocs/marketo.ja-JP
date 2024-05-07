@@ -4,9 +4,9 @@ description: Microsoft Dynamics からの Marketo セールスメールの送信
 title: Microsoft Dynamics からの Marketo セールスメールの送信
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,13 @@ ht-degree: 100%
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   実際のメールを送信する前に、「**テストメールを送信**」をクリックして、メールを自分（Microsoft Dynamics のプライマリメールアドレス）に送信することができます。
+   >[!TIP]
+   >
+   >実際のメールを送信する前に、「**テストメールを送信**」をクリックして、メールを自分（Microsoft Dynamics のプライマリメールアドレス）に送信することができます。
+
+   >[!NOTE]
+   >
+   >一度に最大 2000 通の Marketo メールを送信できます。
 
 これで完了です。これで、Marketo Dynamics から Marketo でトラッキングできるメールを直接送信する方法を理解できました。
 
