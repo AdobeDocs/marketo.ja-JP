@@ -3,10 +3,10 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 100%
    <td>製品プロファイル</td> 
    <td><li>すべての適切なユーザが Adobe Admin Console で Marketo Engage の製品プロファイルに割り当てられていますか？
 <br/>     そうでない場合は、Adobe Admin Console の Marketo Engage 製品プロファイルから必ず<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">ユーザを追加または削除</a>してください。ユーザが製品プロファイルに追加されている場合、Marketo Engage／管理者／ユーザ＆ロールでユーザのロールを割り当てることはできません。</li>
-<p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：望ましくないユーザが複数の製品プロファイルに追加された場合は、そのユーザをすべての製品プロファイルから削除する必要があります。それ以外の場合は、Marketo Engage に引き続きアクセスできます。</td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：望ましくないユーザーが複数の製品プロファイルに追加された場合は、すべての製品プロファイルからそのユーザーを削除する必要があります。 それ以外の場合は、Marketo Engage に引き続きアクセスできます。</td>
   </tr>
   <tr> 
    <td>User Management API</td> 
