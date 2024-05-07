@@ -4,17 +4,17 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2024年4月 {#release-notes-apr-24}
 
-2024年4月リリースに含まれるすべての機能を以下に示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+2024年4月リリースに含まれるすべての機能を以下に示します。機能の可用性については、お使いの Adobe Marketo Engage のエディションをご確認ください。
 
-Adobe Dynamic Chat専用のリリースノート [詳細はこちら](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 >[!AVAILABILITY]
 >
@@ -32,10 +32,10 @@ Adobe Dynamic Chat専用のリリースノート [詳細はこちら](/help/mark
    <th style="width:25%">ドキュメント</th>
   </tr>
      <tr> 
-   <td><strong>インタラクティブウェビナーの機能強化</strong>：ホストと発表者に対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後にエンゲージメントデータを手動で同期する機能を提供できるようになりました。</td> 
+   <td><strong>インタラクティブウェビナーの機能強化</strong>：ホストとプレゼンターに対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後にエンゲージメントデータを手動で同期する機能を提供できるようになりました。</td> 
    <td>出荷済み</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">インタラクティブウェビナーの作成</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動同期</a></li></td>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動による同期</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -54,9 +54,9 @@ Adobe Dynamic Chat専用のリリースノート [詳細はこちら](/help/mark
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。新しいエクスペリエンスや Predictive Audiences など、以前はゲートされていなかった管理者の一部を制御し、権限を分割してアセット監査記録と管理者監査記録へのアクセス権を個別に付与し、アセットやフォルダーの新しい作成および移動権限を利用して読み取り専用ユーザーが変更を加えないようにします。 新しい権限は 4 月 26 日（PT）以降お使いのMarketo Engageインスタンスに表示されますが、現時点ではパッシブであり、今四半期後にアクセスできるようになります。</td> 
+   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセス権を個別に付与する権限を分割し、アセットとフォルダーに対する新規作成および移動権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。新しい権限は 4月26日（PT）以降、お使いの Marketo Engage インスタンスに表示されますが、現時点ではパッシブであり、今四半期後半にアクセス可能になる予定です。</td> 
    <td>出荷済み</td>
-   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">ロールの権限の説明</a></td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">ロール権限の説明</a></td>
   </tr>
  </tbody> 
 </table>
