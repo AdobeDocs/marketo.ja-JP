@@ -3,7 +3,7 @@ description: 新しいMarketo Engageインスタンス用に Design Studio セ�
 title: 新しいインスタンスのベストプラクティス - Design Studio チェックリスト
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 27%
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Design Studio セクションには、再利用可能な「グローバルアセット」を配置する必要があります。 組織がプログラムで使用する予定のグローバルアセットを作成し、一貫性のある命名規則を使用して、サブフォルダーに整理して検索を容易にします。
 
-忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
+忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
 
 ## ランディングページ {#landing-pages}
 

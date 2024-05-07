@@ -3,7 +3,7 @@ description: 新しいMarketo Engageインスタンスに対して「マーケ�
 title: 新しいインスタンスのベストプラクティス – マーケティングアクティビティチェックリスト
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 56%
@@ -14,7 +14,7 @@ ht-degree: 56%
 
 マーケティングアクティビティには、自動化されたマーケティングプログラムを構成するすべてのアセットとコンテンツが含まれます。新しいMarketo Engageインスタンスを設定する際に、クリーンで明確な組織により、すべてのユーザーが様々なプログラムを簡単に見つけて管理できるようになります。
 
-忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
+忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
 
 ## 組織 {#organization}
 

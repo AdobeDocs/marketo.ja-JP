@@ -3,7 +3,7 @@ description: 新しいMarketo Engageインスタンスにデータベース セ�
 title: 新しいインスタンスのベストプラクティス – データベースチェックリスト
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 68%
@@ -14,7 +14,7 @@ ht-degree: 68%
 
 「データベース」セクションには、インスタンス内のユーザーの主要な属性が表示されます。 データベース内の様々なリストやセグメント間を移動するために必要な手順、および人物レコードの管理について説明します。
 
-忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
+忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
 
 ## システムスマートリスト {#system-smart-lists}
 
