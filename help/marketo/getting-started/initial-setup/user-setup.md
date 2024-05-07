@@ -3,9 +3,9 @@ description: 新しいMarketo Engageインスタンスに取り組む前に、�
 title: ユーザー設定チェックリスト
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 4%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 4%
     <td>サブスクリプションおよび Marketo Engage 製品管理者</td>
     <td><li>Adobe組織システム管理者から「Adobe製品管理者」の役割を付与されていることを確認します。</li>  
     <ul>
-    <li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>customercare@marketo.com</code> または、customercare@marketo.comtoにメールを送信して、組織の担当者を確認してください <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
+    <li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>customercare@marketo.com</code> 組織の担当者を確認する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
     <li>「Marketo Engage製品管理者」の招待を受け入れて、Adobe IDをアクティブ化します。 この <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">お知らせメール</a> は、Adobe Admin Consoleで役割が割り当てられると送信されます。</li></td>
   </tr>
   <tr>
