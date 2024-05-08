@@ -3,9 +3,9 @@ description: Marketo Engage 用語集 - Marketo ドキュメント - 製品ド�
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 100%
 
 ---
@@ -129,11 +129,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   <tr> 
    <td colspan="1"><strong>キャンペーン</strong></td> 
    <td colspan="1">Marketo では、「キャンペーン」は、いくつかの意味があります。<a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">キャンペーン</a>は、スマートキャンペーンの短縮形です。<strong>Marketo Sales Connect</strong> では、<a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">キャンペーン</a>は、一連のマルチチャネル対応ステップです。<strong>Web パーソナライゼーション</strong>では、web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">キャンペーン</a>は、特定のセグメントに関連付けられた、カスタマイズされたリアクションです。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">キャンペーンアクティビティレポート</a></strong></td> 
-   <td colspan="1"><strong>スマートキャンペーン</strong>の実行方法を表すレポートのタイプ。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">キャンペーンメールの効果レポート</a></strong></td> 
    <td colspan="1"><strong>スマートキャンペーン</strong>でグループ化されたメールパフォーマンス指標を表すレポートのタイプ。</td> 

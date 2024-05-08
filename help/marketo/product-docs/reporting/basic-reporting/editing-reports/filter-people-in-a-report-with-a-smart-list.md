@@ -4,9 +4,9 @@ description: スマートリストを使ってレポートでリードをフィ�
 title: スマートリストを使ってレポートでリードをフィルターする
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 100%
 * [メールの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [メールリンクの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [エンゲージメントストリームの効果](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [キャンペーンアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [キャンペーンメール効果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [企業 Web アクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web ページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)

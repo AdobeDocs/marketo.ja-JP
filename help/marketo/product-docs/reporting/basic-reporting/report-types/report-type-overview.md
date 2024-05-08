@@ -4,10 +4,10 @@ description: レポートタイプの概要 — Marketo ドキュメント — �
 title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 95%
 
 ---
 
@@ -26,43 +26,43 @@ ht-degree: 100%
  </thead> 
  <tbody> 
   <tr> 
-   <td><strong>  <a href="people-performance-report.md">人物のパフォーマンスレポート</a>  </strong></td> 
+   <td><strong><a href="people-performance-report.md">人物のパフォーマンスレポート</a></strong></td> 
    <td>顧客を任意の属性別にグループ化し、商談情報を含めます。ドリルダウンして参照します。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">メールリンクの効果</a>  </strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">メールリンクの効果</a>  </strong></td> 
    <td>メール内の個々のリンクの統計。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">メールの効果</a>  </strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">メールの効果</a>  </strong></td> 
    <td>メールとのやり取りを確認します（配信済み、バウンス済み、開封済み、クリック済み、登録解除など）。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight のメール効果</a>  </strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight のメール効果</a></strong></td> 
    <td>Salesforce、Microsoft Dynamics、Outlook および Gmail プラグインで Marketo Sales Insight を通じて送信されたメールのやり取りを確認します。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="people-by-status-report.md">ステータス別のリードレポート</a>  </strong></td> 
+   <td><strong><a href="people-by-status-report.md">ステータス別のリードレポート</a></strong></td> 
    <td>「リードステータス」フィールドに基づく自動レポート。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別のリードレポート</a>  </strong></td> 
-   <td><a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高モデル</a>の基本レポート。詳しくは、<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
+   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別のリードレポート</a></strong></td> 
+   <td>収益モデルの基本レポート。 詳しくは、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページの効果</a>  </strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページの効果</a>  </strong></td> 
    <td>Google Analytics の代わりにはなりませんが、本当に良い情報です。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラム効果</a>  </strong></td> 
-   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">売上高サイクル分析</a>を参照してください。</td> 
+   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラム効果</a>  </strong></td> 
+   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="company-web-activity-report.md">企業 Web アクティビティ</a>  </strong></td> 
+   <td><strong><a href="company-web-activity-report.md">企業 Web アクティビティ</a></strong></td> 
    <td>Web アクティビティに関するレポートを、企業ごとにグループ化して、ランディングページおよび公開 Web サイトに作成します。</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="web-page-activity-report.md">Web ページアクティビティ</a>  </strong></td> 
+   <td><strong><a href="web-page-activity-report.md">Web ページアクティビティ</a></strong></td> 
    <td>Web アクティビティに関するレポートをランディングページおよび公開 Web サイトに作成します。</td> 
   </tr> 
   <tr> 
@@ -70,17 +70,12 @@ ht-degree: 100%
    <td>生成しているソーシャルアクティビティを確認し、ユーザーが友達に伝える頻度を確認します。</td> 
   </tr> 
   <tr> 
-   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームの効果レポート</a> </strong></td> 
-   <td><p><a href="https://docs.marketo.com/display/docs/drip+nurturing">エンゲージメントプログラム</a>の効率を確認します。</p></td> 
-  </tr> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームの効果レポート</a> </strong></td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
+  </tr>
+   <tr> 
+   <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">キャンペーンメール効果</a> </strong></td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
+  </tr>
  </tbody> 
 </table>
-
-## その他のレポート {#miscellaneous-reports}
-
-上記のレポートタイプほど有用ではありませんが、利用できます。
-
-| レポート | 説明 |
-|---|---|
-| [キャンペーンアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | スマートキャンペーン処理の統計。 |
-| [キャンペーンメール効果](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | スマートキャンペーン別にグループ化された、メールのパフォーマンス。 |

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9332'
 ht-degree: 99%
 
 ---
@@ -1736,6 +1736,7 @@ ht-degree: 99%
             + [基本レポートの登録](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [スマートリストの登録](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + レポートのタイプ {#report-types}
+            + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
