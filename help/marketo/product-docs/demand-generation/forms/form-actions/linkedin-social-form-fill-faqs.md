@@ -2,12 +2,14 @@
 unique-page-id: 10098238
 description: LinkedIn ソーシャルフォーム入力に関する FAQ - Marketo ドキュメント - 製品ドキュメント
 title: LinkedIn ソーシャルフォーム入力に関する FAQ
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 100%
+source-wordcount: '545'
+ht-degree: 98%
 
 ---
 
@@ -45,7 +47,7 @@ LinkedIn は、デベロッパープログラムに大きな変更を加えま�
 
 いいえ、このデータは既に Marketo のユーザーレコードに保存されており、この変更による影響はありませんでした。
 
-## LinkedIn API ポリシーの詳細はどこで確認できますか？ {#where-can-i-find-more-information-about-linkedin-s-api-policy}
+## linkedInの API ポリシーの詳細はどこで確認できますか？ {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
 LinkedIn API ポリシーに加えられた変更について詳しくは、[https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes) を参照してください。
 
