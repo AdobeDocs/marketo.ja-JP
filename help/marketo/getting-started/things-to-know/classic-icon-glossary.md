@@ -2,8 +2,10 @@
 description: クラシックアイコン用語集 - Marketo ドキュメント - 製品ドキュメント
 title: クラシックアイコン用語集
 feature: Getting Started
+hide: true
+hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 96%
