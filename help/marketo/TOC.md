@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 99%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 99%
          + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [よくある質問](product-docs/demand-generation/dynamic-chat/faq.md)
+         + 設定 {#setup-and-configuration}
+            + [初期設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [権限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [エージェント設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [エージェント管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [セキュリティ設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [ルーティング](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [コールバック関数](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + 自動チャット {#automated-chat}
             + [対話型フローの概要](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [対話型フローの作成](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 99%
             + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + 設定 {#setup-and-configuration}
-            + [初期設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [権限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [エージェント設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [エージェント管理](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [セキュリティ設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [ルーティング](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [コールバック関数](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + ジェネレーティブ AI {#generative-ai}
+            + [ジェネレーティブ AI の概要](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [質問の生成](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [応答ライブラリ](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [アクティビティログ](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [未回答の質問](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + イベント {#events}
          + イベントについて {#understanding-events}
             + [イベントプログラムへのメンバーの追加](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
