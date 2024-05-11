@@ -4,16 +4,16 @@ title: 未回答の質問
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
 # 未回答の質問 {#unanswered-questions}
 
-チャットボットが回答できなかったすべての質問または「役に立たない」とマークされた質問を確認し、この貴重な情報を使用して、事前に承認された追加の応答を作成します。
+チャットボットが回答できなかったすべての質問や、「役に立たない」とマークされた訪問者の質問を確認し、この貴重な情報を使用して、事前に承認された追加の応答を作成します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-2.png)
 
-1. 回答を生成する未回答の質問を選択します。
+1. 回答を作成する未回答の質問を選択します。
 
    ![](assets/unanswered-questions-3.png)
 
@@ -35,6 +35,6 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-4.png)
 
-1. 未回答の質問に回答が追加され、応答ライブラリに自動的に追加されます。
+1. 未回答の質問に回答し、応答ライブラリに自動的に追加されます。
 
    ![](assets/unanswered-questions-5.png)

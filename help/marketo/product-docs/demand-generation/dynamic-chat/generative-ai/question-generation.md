@@ -4,16 +4,16 @@ title: 質問の生成
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # 質問の生成 {#question-generation}
 
-すべてのタスクとその有効期限の詳細（生成日時、質問の合計数、承認ステータスなど）を表示します。
+すべてのタスクと、タスクが生成された日時、質問の総数、承認ステータスなどの関連する詳細を表示します。
 
 ## 質問の生成 {#generate-questions}
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->ページ上のステータスはリアルタイムでは更新されません。 「処理中」から「完了」に変わるタイミングを確認するには、更新をクリックします。
+   >[!TIP]
+   >
+   >ページ上のステータスはリアルタイムでは更新されません。 「処理中」から「完了」に変わるタイミングを確認するには、更新をクリックします。
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## 質問と回答のダウンロード {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/question-generation-6.png)
 
-1. ブラウザーでダウンロードフォルダーを見つけて、ファイルを選択します。 ブラウザーによって表示が異なる場合があります。
+1. ブラウザーでダウンロードフォルダーを見つけて、ファイルを選択します。 使用するブラウザーによって表示が異なる場合があります。
 
    ![](assets/question-generation-7.png)
 
