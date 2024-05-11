@@ -4,10 +4,10 @@ title: 応答ライブラリ
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 6%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -57,24 +57,49 @@ ht-degree: 6%
 
 ## 質問/回答の一括編集とアップロード {#bulk-edit-and-upload-questions-responses}
 
-1. テキスト
+ダウンロードした Excel ファイルを一括編集する方法は以下の通りです。 これらは、ファイルの「タスクの詳細」タブでも確認できます。
 
-スクリーンショット
+<table>
+<thead>
+  <tr>
+    <th>アクション</th>
+    <th>入力ガイド</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>質問の編集</td>
+    <td>「editedQuestion」列（列 H）に新しい質問を入力します。</td>
+  </tr>
+  <tr>
+    <td>応答の編集</td>
+    <td>「editedResponse」列（列 I）に新しい応答を入力します</td>
+  </tr>
+  <tr>
+    <td>新しい質問を追加</td>
+    <td>「editedQuestion」列（列 H）に新しい質問を入力し、questionResponsed を空白のままにします。 また、「topics」列（列 C）に適切なトピックを、「sourceUr!」列にソース URL を入力する必要があります。</td>
+  </tr>
+  <tr>
+    <td>質問と回答を追加</td>
+    <td>「editedQuestion」列（列 H）に新しい質問を入力し、「editedResponse」列（列 I）に新しい応答を入力して、questionResponse を空白のままにします。 また、列「topics」（列 C）に適切なトピックを入力する必要があります</td>
+  </tr>
+</tbody>
+</table>
 
-1. テキスト
+1. ファイルの編集が完了したら、「応答ライブラリ」タブに戻り、「応答をアップロード」をクリックします。
 
-スクリーンショット
+   ![](assets/response-library-9.png)
 
-1. テキスト
+1. 該当するタスク名を入力します。 ファイルをドラッグ&amp;ドロップするか、デバイスで参照して選択します。 終了したら「**保存**」をクリックします。
 
-スクリーンショット
+   ![](assets/response-library-10.png)
 
-1. テキスト
+1. 確認が表示され、準備が完了しました。
 
-スクリーンショット
+   ![](assets/response-library-11.png)
 
 ## 質問をフィルタリング {#filter-your-questions}
 
 デフォルトでは、質問は作成日時の順序でリストされ、最新の質問が最初に表示されます。 特定の質問を検索する場合は、フィルターを適用して検索を絞り込みます。 トピック、タスク名、承認ステータスでフィルタリングします。
 
-スクリーンショット
+![](assets/response-library-12.png)
