@@ -4,16 +4,17 @@ title: Googleへのリストの送信
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 3%
+source-wordcount: '208'
+ht-degree: 2%
 
 ---
 
 # Googleへのリストの送信 {#send-a-list-to-google}
 
-以下の手順に従って、静的リストをGoogle アカウントに送信します。
+Google カスタマーマッチを使用する場合は、次の手順に従ってMarketo Engageの静的リストをGoogle アカウントに送信します。
 
 1. Marketo Engageで、目的のリストを見つけて選択します。
 
@@ -39,7 +40,7 @@ ht-degree: 3%
    >
    >* 選択 **オーディエンスメンバーシップの同期** インスタンスで変更されたリストを最新の状態に保ちます。 静的リストに追加されたユーザーや静的リストから削除されたユーザーをオーディエンスに追加またはオーディエンスから削除します。
    >
-   >* 下部にあるチェックボックスをオンにすると、広告および広告パーソナライゼーションの目的でGoogle Ads に送信されるユーザーデータに対して、同意ステータスが許可済みとして送信されます。 オフのままにすると、同意ステータスは未指定として送信されます。
+   >* 下部にあるチェックボックスをオンにすると、広告および広告パーソナライゼーションの目的でGoogle Ads に送信されるユーザーデータに対して、同意ステータスが許可済みとして送信されます。 オフのままにすると、同意ステータスは未指定として送信されます。 欧州経済地域（EEA）のお客様向けデータをアップロードする予定のユーザーのために、Googleは、 [よくある質問](https://support.google.com/google-ads/answer/14310715)、およびを説明するその他の詳細 [EU ユーザー同意ポリシー](https://www.google.com/about/company/user-consent-policy/).
 
 1. 「**更新**」をクリックします。
 
