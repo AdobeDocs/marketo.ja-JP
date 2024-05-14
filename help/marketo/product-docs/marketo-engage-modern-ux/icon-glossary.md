@@ -8,7 +8,7 @@ feature: Modern UX
 source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 99%
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
-   <td>フォルダー – 共有</td> 
+   <td>フォルダー - 共有済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 

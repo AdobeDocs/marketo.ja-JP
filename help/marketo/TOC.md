@@ -14,7 +14,7 @@ ht-degree: 99%
 # Marketo ガイド {#using}
 
 + [ホーム](home.md)
-+ Marketo Engage使用の手引き {#getting-started}
++ Marketo Engage の概要 {#getting-started}
    + [Adobe Marketo Engage とは](getting-started/what-is-adobe-marketo-engage.md)
    + 初期設定 {#initial-setup}
       + [設定手順](getting-started/initial-setup/setup-steps.md)
