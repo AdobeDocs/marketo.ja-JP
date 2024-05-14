@@ -1,22 +1,22 @@
 ---
-description: コールバック関数 – Marketoドキュメント – 製品ドキュメント
+description: コールバック関数 - Marketo ドキュメント - 製品ドキュメント
 title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
 source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '616'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 # コールバック関数 {#callback-functions}
 
-Dynamic Chatウィジェットコールバック関数を使用して、任意のサードパーティプラットフォームにコンバージョンイベントを送信できます。
+Dynamic Chat ウィジェットコールバック関数を使用すると、対話イベントをサードパーティプラットフォームに送信できます。
 
 ## はじめに {#getting-started}
 
-このイベントは、Dynamic Chatウィジェットを使用する準備ができており、Dynamic Chatに関連するすべてのスクリプトが web ページに読み込まれると実行されることを示します。
+このイベントは、Dynamic Chat ウィジェットの使用準備が整っていることを示し、Dynamic Chat に関連するすべてのスクリプトが web ページに読み込まれると発生します。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -24,13 +24,13 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-## 会話イベント {#conversation-events}
+## 対話イベント {#conversation-events}
 
-これらのイベントは、特定の訪問者の特定のページをターゲットとした会話に関連しています。
+このイベントは、特定の訪問者の特定のページでターゲットとされる対話に関連しています。
 
-### 会話がトリガー
+### 対話トリガー済み
 
-Web サイトの訪問者を対象とした会話（ダイアログなど）が解決され、チャットボットが表示されます。
+Web サイトの訪問者をターゲットとした対話（ダイアログなど）が解決され、チャットボットが訪問者に表示されます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -41,9 +41,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });  
 ```
 
-### 会話が開始されました {#conversation-engaged}
+### 対話エンゲージ済み {#conversation-engaged}
 
-訪問者がチャットボットとエンゲージした（例えば、最初の応答を提供した）。
+訪問者がチャットボットに関与しました（最初の応答を提供するなど）。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -54,9 +54,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### 会話が完了しました {#conversation-completed}
+### 対話完了 {#conversation-completed}
 
-訪問者は会話の最後に達しました。
+訪問者が対話の終了に達しました。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -67,9 +67,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### 件の会話が終了
+### 対話クローズ済み
 
-訪問者は、最後に達する前に会話を終了しました。
+訪問者が終了に達する前に対話をクローズしました。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -80,9 +80,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
-アクセスできる主要なメタデータ値を次に示します。
+アクセスできるいくつかの主なメタデータ値を次に示します。
 
 <table>
 <thead>
@@ -93,19 +93,19 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </thead>
 <tbody>
   <tr>
-    <td>会話名</td>
+    <td>対話名</td>
     <td>payload.name</td>
   </tr>
   <tr>
-    <td>会話 ID</td>
+    <td>対話 ID</td>
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>会話タイプ （ダイアログ/会話フロー）</td>
+    <td>対話タイプ（ダイアログ／対話フロー）</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI タイプ（ポップアップ/チャットボット/インライン）</td>
+    <td>UI タイプ（ポップアップ／チャットボット／インライン）</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -117,11 +117,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ## 訪問者入力イベント
 
-これらのイベントは、会話に参加している訪問者が連絡先情報（電話番号やメールアドレスなど）を提供したときにトリガーされます。 以下は、このカテゴリに該当するイベントです。
+このイベントは、対話に関与している訪問者が取引先責任者情報（電話番号やメールアドレスなど）を入力するとトリガーされます。このカテゴリに該当するイベントを次に示します。
 
 ### 電話番号 {#phone-number}
 
-このイベントは、訪問者が会話中に電話番号を指定したときにトリガーされます。
+このイベントは、訪問者が対話中に電話番号を入力した際にトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -134,7 +134,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### メール ID {#email-id}
 
-このイベントは、訪問者が会話中にメールアドレスを指定したときにトリガーされます。
+このイベントは、訪問者が対話中にメールアドレスを入力した際にトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -145,9 +145,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
-アクセスできる主要なメタデータ値を次に示します。
+アクセスできるいくつかの主なメタデータ値を次に示します。
 
 <table>
 <thead>
@@ -158,19 +158,19 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </thead>
 <tbody>
   <tr>
-    <td>会話名</td>
+    <td>対話名</td>
     <td>payload.name</td>
   </tr>
   <tr>
-    <td>会話 ID</td>
+    <td>対話 ID</td>
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>会話タイプ （ダイアログ/会話フロー）</td>
+    <td>対話タイプ（ダイアログ／対話フロー）</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI タイプ（ポップアップ/チャットボット/インライン）</td>
+    <td>UI タイプ（ポップアップ／チャットボット／インライン）</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -180,15 +180,15 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-## 会議予約イベント {#meeting-booking-events}
+## ミーティング予約イベント {#meeting-booking-events}
 
-これらのイベントは、訪問者がビジネス担当者とのミーティングを予約するとトリガーされます。
+このイベントは、訪問者がビジネス担当者とのミーティングを予約するとトリガーされます。
 
-以下は、このカテゴリに該当するイベントです。
+このカテゴリに該当するイベントを次に示します。
 
 ### ミーティング予約済み {#meeting-booked}
 
-このイベントは、訪問者がエージェントのカレンダーで会議を予約するとトリガーされます。
+このイベントは、訪問者がエージェントのカレンダーでミーティングを予約するとトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -199,9 +199,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
-アクセスできる主要なメタデータ値を次に示します。
+アクセスできるいくつかの主なメタデータ値を次に示します。
 
 <table>
 <thead>
@@ -212,19 +212,19 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </thead>
 <tbody>
   <tr>
-    <td>会話名</td>
+    <td>対話名</td>
     <td>payload.name</td>
   </tr>
   <tr>
-    <td>会話 ID</td>
+    <td>対話 ID</td>
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>会話タイプ （ダイアログ/会話フロー）</td>
+    <td>対話タイプ（ダイアログ／対話フロー）</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI タイプ（ポップアップ/チャットボット/インライン）</td>
+    <td>UI タイプ（ポップアップ／チャットボット／インライン）</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -248,13 +248,13 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ## ライブチャットイベント {#live-chat-events}
 
-これらのイベントは、訪問者がチャットボットとのエンゲージメント中にライブエージェントとつながったときにトリガーされます。
+このイベントは、訪問者がチャットボットとのエンゲージメント中にライブエージェントに接続するとトリガーされます。
 
-以下は、このカテゴリに該当するイベントです。
+このカテゴリに該当するイベントを次に示します。
 
-### ライブチャットがリクエストされました {#live-chat-requested}
+### ライブチャットリクエスト済み {#live-chat-requested}
 
-このイベントは、訪問者がライブエージェントとチャットするオプションを選択し、使用可能なエージェントが解決される際にトリガーされます。
+このイベントは、訪問者がライブエージェントとチャットするオプションを選択し、対応可能なエージェントが解決されるとトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -265,7 +265,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### ライブチャットが開始されました {#live-chat-initiated}
+### ライブチャット開始済み {#live-chat-initiated}
 
 このイベントは、訪問者がライブエージェントとチャットするオプションを選択し、エージェントがチャットを受け入れるとトリガーされます。
 
@@ -278,9 +278,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-### ライブチャット終了 {#live-chat-ended}
+### ライブチャット終了済み {#live-chat-ended}
 
-このイベントは、訪問者とライブエージェントの間の会話が終了したときにトリガーされます。
+このイベントは、訪問者とライブエージェント間の対話が終了するとトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -293,7 +293,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### ライブチャットタイムアウト {#live-chat-timeout}
 
-このイベントは、訪問者が応答を停止したり、訪問者がドロップしたりしたためにライブチャットの会話がタイムアウトしたときにトリガーされます。
+このイベントは、訪問者が応答の停止やドロップを行ったので、ライブチャットの対話がタイムアウトするとトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
@@ -304,9 +304,9 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-この `event` パラメーターは、会話に関連するメタデータを持つオブジェクトです。 にアクセスすることで、このメタデータにアクセスできます。 `event.data`.
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
-アクセスできる主要なメタデータ値を次に示します。
+アクセスできるいくつかの主なメタデータ値を次に示します。
 
 <table>
 <thead>
@@ -317,19 +317,19 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </thead>
 <tbody>
   <tr>
-    <td>会話名</td>
+    <td>対話名</td>
     <td>payload.name</td>
   </tr>
   <tr>
-    <td>会話 ID</td>
+    <td>対話 ID</td>
     <td>payload.id</td>
   </tr>
   <tr>
-    <td>会話タイプ （ダイアログ/会話フロー）</td>
+    <td>対話タイプ（ダイアログ／対話フロー）</td>
     <td>payload.type</td>
   </tr>
   <tr>
-    <td>UI タイプ（ポップアップ/チャットボット/インライン）</td>
+    <td>UI タイプ（ポップアップ／チャットボット／インライン）</td>
     <td>payload.uiType</td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-これらのイベントをAdobe AnalyticsやGoogle Analyticsなどの Analytics プラットフォームに送信する場合は、これらのDynamic Chatイベント内にそれぞれのトラッキングコールを追加する必要があります。 次の例のようになります。
+これらのイベントのいずれかを Adobe Analytics や Google Analytics などの分析プラットフォームに送信する場合は、これらの Dynamic Chat イベント内にそれぞれのトラッキング呼び出しを追加する必要があります。次の例のようになります。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 

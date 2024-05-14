@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 title: Marketo 用語のアップデート
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -110,7 +110,7 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 >[!NOTE]
 >
->影響を受けるフィールド名の完全なリストについては、こちらを参照してください [サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>影響を受けるフィールド名の完全なリストについては、[サポート記事](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}を参照してください。
 
 ## リアルタイムパーソナライゼーション（RTP）が Web パーソナライゼーションに {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,10 +139,10 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
+| **[Web パーソナライズ機能](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 |---|---|
-| **[アカウントベースの Web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライゼーションタイルからアクセス可能 |
-| **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライゼーションタイルからアクセス可能 |
+| **[アカウントベースの web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライズ機能タイルを通じてアクセス可能 |
+| **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライズ機能タイルを通じてアクセス可能 |
 | **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]

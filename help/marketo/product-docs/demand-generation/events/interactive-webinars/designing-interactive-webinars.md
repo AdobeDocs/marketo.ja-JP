@@ -4,9 +4,9 @@ title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
 source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
    >
    >* 既存のウェビナールームを選択し、その名前を変更する必要がある場合は、右側の「**ウェビナールームの名前を変更**」ボタンをクリックします。
    >
-   >* ドロップダウンには、以前に作成した既存の部屋のみが表示されます。他のホストの部屋は表示されません。
+   >* ドロップダウンには、以前に作成した既存のルームのみが表示され、他のホストのルームは表示されません。
 
 1. テンプレートを選択します。
 

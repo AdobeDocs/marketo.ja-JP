@@ -5,9 +5,9 @@ title: ドラフトなしのスニペットを承認する
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
 source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 85%
 
    ![](assets/approve-the-snippet-1.png)
 
-1. 目的のスニペットを探して選択します。
+1. 目的のスニペットを見つけて選択します。
 
    ![](assets/approve-the-snippet-2.png)
 
-1. が含まれる **[!UICONTROL スニペットアクション]** ドロップダウン、を選択 **[!UICONTROL ドラフトを承認]**.
+1. **[!UICONTROL スニペットアクション]**&#x200B;ドロップダウンで、「**[!UICONTROL ドラフトを承認]**」を選択します。
 
    ![](assets/approve-the-snippet-3.png)
 
-1. 「スニペットを承認」ダイアログボックスでオプションを選択し、をクリックします **[!UICONTROL 承認]**:
+1. スニペットを承認ダイアログボックスでオプションを選択し、「**[!UICONTROL 承認]**」をクリックします。
 
    * **[!UICONTROL すべて更新]**：スニペットを使用して承認したアセットのドラフトを作成しません。すべてのアセットが更新され、以前のステータスが維持されます。画面の右上に進行状況を示すモジュールが表示され、これはいつでも閉じることができます。再度開くには、スニペット名を右クリックして「承認ステータスの表示」を選択してください。
    * **[!UICONTROL ドラフトの作成]**：スニペットを使用して承認したアセットのドラフトを作成します。スニペットの変更を先にレビューする必要がある場合は、このオプションを選択してください。ドラフトはすべて、手動で承認する必要があります。
@@ -42,7 +42,7 @@ ht-degree: 85%
 
 >[!CAUTION]
 >
->この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。を参照してください [この記事](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} を参照してください。
+>この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。詳しくは、[この記事](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"}を参照してください。
 
 >[!MORELIKETHIS]
 >
