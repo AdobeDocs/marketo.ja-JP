@@ -4,10 +4,11 @@ title: 応答ライブラリ
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 2%
+source-wordcount: '365'
+ht-degree: 4%
 
 ---
 
@@ -17,27 +18,27 @@ ht-degree: 2%
 
 ## 質問を手動で追加 {#manually-add-a-question}
 
-1. 「生成 AI」で、 **支援応答**.
+1. 「生成 AI」で、 **[!UICONTROL 支援応答]**.
 
    ![](assets/response-library-1.png)
 
-1. 「」をクリックします **応答ライブラリ** タブ。
+1. 「」をクリックします **[!UICONTROL 応答ライブラリ]** タブ。
 
    ![](assets/response-library-2.png)
 
-1. クリック **質問を追加**.
+1. クリック **[!UICONTROL 質問を追加]**.
 
    ![](assets/response-library-3.png)
 
-1. 質問と回答を入力します。 トピックを割り当て、ユーザーが訪問者と共有できるオプションの URL を追加します。 終了したら「**保存**」をクリックします。
+1. 質問と回答を入力します。 トピックを割り当て、ユーザーが訪問者と共有できるオプションの URL を追加します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/response-library-4.png)
 
-1. 「更新」をクリックすると、新しい質問が上部に表示され、ステータスは「処理中」になります。
+1. 「更新」をクリックすると、新しい質問がステータス「」で上部に表示されます[!UICONTROL 処理].」と入力します。
 
    ![](assets/response-library-5.png)
 
-1. 数分後に、もう一度クリックすると、ステータスが「承認済み」に変わります。
+1. 数分後、もう一度更新すると、ステータスは「承認済み」に変わります。
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->生成されたすべての質問と回答には、デフォルトで「レビューが必要」ステータスが割り当てられます。 「承認済み」の質問と回答のみが、チャット訪問者に提供されます。
+>生成されたすべての質問と回答には、「」が割り当てられます[!UICONTROL レビューが必要]デフォルトでは「ステータス。 Only ``[!UICONTROL 承認済み]」の質問と回答が、訪問者とのチャットに利用できるようになりました。
 
-1. が含まれる **応答ライブラリ**&#x200B;を選択し、目的の質問をクリックします。
+1. が含まれる **[!UICONTROL 応答ライブラリ]**&#x200B;を選択し、目的の質問をクリックします。
 
    ![](assets/response-library-7.png)
 
-1. 必要な編集を行い、 **保存**.
+1. 編集を行い、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/response-library-8.png)
 
@@ -77,7 +78,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>新しい質問を追加</td>
-    <td>「editedQuestion」列（列 H）に新しい質問を入力し、questionResponsed を空白のままにします。 また、「topics」列（列 C）に適切なトピックを、「sourceUr!」列にソース URL を入力する必要があります。</td>
+    <td>「editedQuestion」列（列 H）に新しい質問を入力し、questionResponsed を空白のままにします。 また、適切なトピックを「topics」列（列 C）に、ソース URL を「sourceUr!」列に入力する必要があります。</td>
   </tr>
   <tr>
     <td>質問と回答を追加</td>
@@ -86,11 +87,11 @@ ht-degree: 2%
 </tbody>
 </table>
 
-1. ファイルの編集が完了したら、「応答ライブラリ」タブに戻り、「応答をアップロード」をクリックします。
+1. ファイルの編集が完了したら、に戻ります **[!UICONTROL 応答ライブラリ]** tab キーを押してクリック **[!UICONTROL 応答をアップロード]**.
 
    ![](assets/response-library-9.png)
 
-1. 該当するタスク名を入力します。 ファイルをドラッグ&amp;ドロップするか、デバイスで参照して選択します。 終了したら「**保存**」をクリックします。
+1. 該当するタスク名を入力します。 ファイルをドラッグ&amp;ドロップするか、デバイスで参照して選択します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/response-library-10.png)
 
