@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '359'
 ht-degree: 3%
 
 ---
@@ -16,41 +16,47 @@ ht-degree: 3%
 
 Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナル、ユーザーの好み、過去の行動をリアルタイムで処理し、チャット訪問者向けにパーソナライズされた適切なメッセージを生成します。
 
+## 権限 {#permissions}
+
+生成 AI を使用するには、目的のユーザーに適切な権限を付与してください [権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+
+![](assets/generative-ai-overview-1.png)
+
 ## 生成応答カード {#generation-response-card}
 
 会話の特定のポイントに到達した訪問者に関するメッセージを作成します。 必要な主要業績評価指標を達成するために、1 回の操作で尋ねることができる質問をいくつか設定します。 最大 5 つのフォローアップ質問を追加し、訪問者の質問に対する応答がない場合はフォールバックメッセージを含めます。
 
-（assets/generative-ai-overview-1.png
+![](assets/generative-ai-overview-2.png)
 
 ## 会話の概要 {#conversation-summary}
 
 通常、訪問者の会話のコンテキスト全体を取得するには、チャットトランスクリプト全体をスクロールする必要があります。 会話の概要では、リアルタイムで概要が生成され、訪問者が興味を示したトピックも含まれます。 これは、複数の訪問者とのチャットを切り替える際に、会話のコンテキストをすばやく把握する必要があるチャットエージェントで特に役立ちます。
 
-（assets/generative-ai-overview-2.png
+![](assets/generative-ai-overview-3.png)
 
 ## 質問の生成 {#question-generation}
 
 [インバウンドエクスペリエンスの昇格](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) と、販売、マーケティング、製品の知識でトレーニングされたインターフェイスを使用した、訪問者向けの AI 支援の会話。
 
-![](assets/generative-ai-overview-1.png)
+![](assets/generative-ai-overview-4.png)
 
 ## 回答ライブラリ {#response-library}
 
 [カスタマイズされたコレクションの生成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) の質問と回答（すべての事前承認）をジェネレーティブ AI チャットキャンペーン内で使用できます。
 
-![](assets/generative-ai-overview-2.png)
+![](assets/generative-ai-overview-5.png)
 
 ## アクティビティログ {#activity-log}
 
 [すべてのタスクのリストを表示](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 名前、所有者、タイプ、編集者、編集者の日時など、それに伴う詳細。
 
-![](assets/generative-ai-overview-3.png)
+![](assets/generative-ai-overview-6.png)
 
 ## 未回答の質問 {#unanswered-questions}
 
 [追加の事前承認済み応答の作成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) リポジトリに基づく AI を使用して回答ライブラリを作成する前の会話から別の単語の未回答の質問を使用します。
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-7.png)
 
 >[!IMPORTANT]
 >
@@ -69,12 +75,3 @@ Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナ�
 **生成 AI では、どのような言語が利用できますか？**
 
 現在、生成 AI では英語のみがサポートされています。
-
-
-
-以下の KG の場合…
-
-ビデオ - 13:09 - ショートカット
-
-
-
