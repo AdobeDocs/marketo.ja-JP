@@ -1,12 +1,13 @@
 ---
 description: エージェントインボックス - Marketo ドキュメント – 製品ドキュメント
 title: エージェントのインボックス
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 2%
+source-wordcount: '301'
+ht-degree: 3%
 
 ---
 
@@ -56,45 +57,11 @@ ht-degree: 2%
 
 ![](assets/agent-inbox-6.png)
 
-## ショートカット {#shortcuts}
-
->[!NOTE]
->
->この機能は、生成 AI の一部で、Dynamic Chatプライムサブスクリプションから利用できます。 詳しくは、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
-
-生成 AI を活用したショートカット [応答ライブラリ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)は、訪問者とチャットする際に、その場で支援を得るための優れた方法です。 スラッシュ（`/`）を選択し、 `ask` または `search`.
-
-![](assets/agent-inbox-7.png)
-
-**質問する** は、質問への回答のヘルプです。
-
-1. 入力または選択 `/ask` テキストボックスに、 質問を入力し、キーボードで Enter キーを押します。
-
-   ![](assets/agent-inbox-8.png)
-
-1. 回答が表示されます。 コピーアイコンをクリックして、テキストボックスに貼り付けます。 テキストは、訪問者に送信する前に編集できます。
-
-   ![](assets/agent-inbox-9.png)
-
-**検索** は、特定のテキストに関連するページの検索に役立ちます。
-
-1. 入力または選択 `/search` テキストボックスに、
-
-   ![](assets/agent-inbox-10.png)
-
-1. 検索対象を入力し、キーボードで Enter キーを押します。
-
-   ![](assets/agent-inbox-11.png)
-
-1. 該当するリンクが表示されます。 コピーアイコンをクリックすると、テキストボックスに貼り付けることができます。 情報を訪問者に送信する前に編集を行うことができます。
-
-   ![](assets/agent-inbox-12.png)
-
 ## アクティビティ履歴 {#activity-history}
 
 訪問者情報の下には、アクティビティ履歴があります。 アクティビティのタイプや日付を表示したり、チャットトランスクリプトを表示したりできます。
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ ht-degree: 2%
 
 1. カレンダーアイコンをクリックします。
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 目的のエージェントカレンダーを選択し、 **送信**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. チャット訪問者は会議を予約できます。
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## 会話の概要 {#conversation-summary}
-
->[!NOTE]
->
->この機能は、生成 AI の一部で、Dynamic Chatプライムサブスクリプションから利用できます。 詳しくは、Adobeアカウントチーム（アカウントマネージャー）にお問い合わせください。
-
-会話の概要では、訪問者が興味を示したトピックなど、概要の概要をリアルタイムで生成します。 すべてのチャット画面の右下に表示されます。
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->また、完了した会話の概要は、Marketo Engageデータベース内の訪問者のユーザーレコードのアクティビティログでも確認できます。

@@ -1,12 +1,13 @@
 ---
 description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
 title: ストリームデザイナー
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 93%
+source-wordcount: '1128'
+ht-degree: 100%
 
 ---
 
@@ -51,22 +52,13 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  <tr>
   <td style="width:25%"><strong>アクション*</strong></td>
   <td>フォームの非表示フィールドと同様に、アクションカードを使用すると、（<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">文字列データタイプ</a>を持つ）リードまたは会社の属性に、リードレコードに対して取り込む暗黙的な値を入力できます。会話の任意の時点でアクションカードを追加し、各属性を値またはそれぞれの値に自動的に入力するネイティブトークンで更新できます。
-  <p><i>*このカードにはDynamic Chatプライムが必要です。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
+  <p><i>* アクションカードには、Dynamic Chat Prime が必要です。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>ライブチャット</strong></td>
   <td>訪問者がライブエージェントとチャットする場合は、ライブチャットカードを使用します。
   <li>ライブチャットカードは、ブランチの最後のカードである必要があります。</li>
   <li>訪問者はストリーム内のこのカードに到達するとすぐにエージェントにルーティングされるので、このカードの前に、ライブエージェントとのチャットを希望するかどうかを訪問者に尋ねる質問カードを付けることをお勧めします。</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>生成された応答*</strong></td>
-  <td>会話の特定のポイントに到達した訪問者に関するメッセージを作成します。 必要な主要業績評価指標を達成するために、1 回の操作で尋ねることができる質問をいくつか設定します。
-  <p><i>*このカードにはDynamic Chatプライムが必要です。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>条件付き分岐</strong></td>
-  <td>様々な条件に基づいて、ダイアログフローにブランチを作成します。 Marketo Engageにおけるリード属性および会社属性に基づいて、同じダイアログ内の異なる人物に異なるコンテンツを提示する。</td>
  </tr>
 </table>
 

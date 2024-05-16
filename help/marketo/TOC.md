@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '9355'
+source-wordcount: '9349'
 ht-degree: 99%
 
 ---
@@ -675,14 +675,12 @@ ht-degree: 99%
             + [ダイアログの作成](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [オーディエンス条件](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [ストリームデザイナー](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
-            + [ストリームデザイナー一時](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
          + 統合 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
          + ライブチャット {#live-chat}
             + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-            + [エージェントインボックス一時](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + ジェネレーティブ AI {#generative-ai}
             + [ジェネレーティブ AI の概要](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
