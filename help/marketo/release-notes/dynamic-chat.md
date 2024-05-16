@@ -3,9 +3,9 @@ description: Dynamic Chatリリースノート - Marketo ドキュメント – 
 title: Dynamic Chatリリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
+source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,44 @@ ht-degree: 0%
 Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対する、よりスケーラブルなアプローチが可能になります。 1 か月に複数のリリースがある場合があるので、定期的に最新の情報を確認してください。
 
 標準のリリースノートページ（Marketo Engage） [詳細はこちら](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024 年 5 月リリース {#may-release}
+
+**リリース日：2024 年 5 月 15 日（PT）**
+
+### 事前承認応答ライブラリ {#pre-approved-response-library}
+
+[マーケティング承認済みライブラリの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} （AI が生成する質問と回答）を参照して、数分でジェネレーティブ AI チャットを設定できます。
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## 未回答の質問 {#unanswered-questions}
+
+[未回答の質問のリポジトリを使用](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} の前の会話から、最新の情報を含んだ応答ライブラリを維持する、新しい事前承認済み応答を生成します。
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### 会話の概要 {#conversation-summaries}
+
+[営業エージェントに要約された会話を提供](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 会議に先立って主要なディスカッションのトピックに関するインサイトを得て、準備時間を短縮し、最新の情報を使用して営業担当者を強化します。
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### GenAI のセールスショートカット {#genai-sales-shortcuts}
+
+[ライブチャットエージェントにより迅速に対応](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} ai が生成した応答にアクセスするには、既存の生成された応答を編集し、会話中に購入者に送信する追加のコンテンツを検索します。
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### 会話アシスタント {#conversation-assist}
+
+マーケティングチームが事前に承認した回答を使用して、セールスエージェントがライブの会話中に正確に対応できるようにします。
+
+### 会話の微調整 {#conversation-nudges}
+
+コールトゥアクション（CTA）を使用して web 訪問者を微調整し、会話を最終的に進めます。
+
+<p>
 
 ## 2024 年 4 月リリース {#april-release}
 
