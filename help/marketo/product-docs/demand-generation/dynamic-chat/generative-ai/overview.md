@@ -3,9 +3,9 @@ description: ジェネレーティブ AI の概要 – Marketo ドキュメン�
 title: ジェネレーティブ AI の概要
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナ�
 
 ## 未回答の質問 {#unanswered-questions}
 
-[追加の事前承認済み応答の作成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) リポジトリに基づく AI を使用して回答ライブラリを作成する前の会話から別の単語の未回答の質問を使用します。
+[追加の事前承認済み応答の作成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 以前の会話から回答のない質問のリポジトリに基づく AI を使用している応答ライブラリの場合。
 
 ![](assets/generative-ai-overview-8.png)
 
