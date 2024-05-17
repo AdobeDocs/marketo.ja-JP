@@ -6,7 +6,7 @@ feature-set: Marketo Engage
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
 source-wordcount: '9349'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -649,7 +649,7 @@ ht-degree: 99%
          + [Google カスタマーマッチを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [広告ネットワークへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-         + [Googleへのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
+         + [Google へのリストの送信](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
          + [Dynamic Chat の概要](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
@@ -682,10 +682,10 @@ ht-degree: 99%
             + [ライブチャットの概要](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [エージェントのインボックス](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [通知](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + ジェネレーティブ AI {#generative-ai}
-            + [ジェネレーティブ AI の概要](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+         + 生成 AI {#generative-ai}
+            + [生成 AI の概要](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
             + [質問の生成](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
-            + [応答ライブラリ](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [回答ライブラリ](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
             + [アクティビティログ](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
             + [未回答の質問](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + イベント {#events}
@@ -1970,7 +1970,7 @@ ht-degree: 99%
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
-         + [リリースノート：2024 年 4 月](release-notes/previous-releases/2024/release-notes-apr-24.md)
+         + [リリースノート：2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [リリースノート：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
