@@ -5,9 +5,9 @@ title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
 source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別のリードレポート</a></strong></td> 
-   <td>収益モデルの基本レポート。 詳しくは、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
+   <td>売上高モデルの基本レポート。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページの効果</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラム効果</a>  </strong></td> 
-   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
+   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">企業 Web アクティビティ</a></strong></td> 
@@ -71,11 +71,11 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームの効果レポート</a> </strong></td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
   </tr>
    <tr> 
-   <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">キャンペーンメール効果</a> </strong></td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
+   <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">キャンペーンメールのパフォーマンス</a> </strong></td> 
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 
   </tr>
  </tbody> 
 </table>

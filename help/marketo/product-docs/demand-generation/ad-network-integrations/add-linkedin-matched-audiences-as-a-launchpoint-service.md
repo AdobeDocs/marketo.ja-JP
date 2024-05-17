@@ -5,9 +5,9 @@ title: LinkedIn と一致したオーディエンスを LaunchPoint サービス
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
 source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 69%
 
 >[!IMPORTANT]
 >
->LinkedInは、Marketo EngageのLinkedIn統合で使用されるマーケティング API をアップグレードしています。 linkedInこれらの変更を行うには、 **Admin** > **LaunchPoint** サービスが中断されないようにするには、2024 年 6 月 7 日（PT）から 12 月 15 日（PT）までのメニューを選択します。 詳しくは、 [移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必須になります。詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-Marketo静的リストまたはスマートリストをLinkedIn オーディエンスセグメントとして使用するには、Marketo EngageアカウントをLinkedInでマッチしたオーディエンスに接続します。
+Marketo Engage アカウントを LinkedIn Matched Audiences に接続し、Marketo の静的リストまたはスマートリストを LinkedIn オーディエンスセグメントとして使用します。
 
 1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 

@@ -5,9 +5,9 @@ title: LinkedIn リード生成フォームの設定
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
 source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '511'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ LinkedIn リード生成フォームを使用して、LinkedIn で広告キャ�
 
 >[!IMPORTANT]
 >
->LinkedInは、Marketo EngageのLinkedIn統合で使用されるマーケティング API をアップグレードしています。 linkedInこれらの変更を行うには、 **Admin** > **LaunchPoint** サービスが中断されないようにするには、2024 年 6 月 7 日（PT）から 12 月 15 日（PT）までのメニューを選択します。 詳しくは、 [移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必須になります。詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ LinkedIn リード生成フォームを使用して、LinkedIn で広告キャ�
 
 >[!NOTE]
 >
->linkedIn リードは、会社 API を使用して作成された会社レコードに関連付けられているMarketoの既存の個人レコードと一致し、Marketo購読が CRM に接続されていない場合、Marketo Engageされません。
+>LinkedIn リードは、会社 API を使用して作成された会社レコードに関連付けられている Marketo の既存の個人レコードと一致し、Marketo サブスクリプションが CRM に接続されていない場合、Marketo Engage に組み込まれません。
 
 1. 「**管理**」に移動します。
 

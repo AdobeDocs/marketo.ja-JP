@@ -5,15 +5,15 @@ title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
 source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # キャンペーンアクティビティレポート {#campaign-activity-report}
 
-方法を見る [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) を実行中です。
+[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)のパフォーマンスを確認します。
 
 1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**キャンペーンアクティビティ**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
