@@ -1,14 +1,12 @@
 ---
 description: Googleへのリストの送信 – Marketo ドキュメント – 製品ドキュメント
 title: Googleへのリストの送信
-hide: true
-hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '208'
+ht-degree: 2%
 
 ---
 
@@ -40,7 +38,7 @@ Google カスタマーマッチを使用する場合は、次の手順に従っ�
    >
    >* 選択 **オーディエンスメンバーシップの同期** インスタンスで変更されたリストを最新の状態に保ちます。 静的リストに追加されたユーザーや静的リストから削除されたユーザーをオーディエンスに追加またはオーディエンスから削除します。
    >
-   >* 下部にあるチェックボックスをオンにすると、広告および広告パーソナライゼーションの目的でGoogle Ads に送信されるユーザーデータに対して、同意ステータスが許可済みとして送信されます。 オフのままにすると、同意ステータスは未指定として送信されます。 欧州経済地域（EEA）のお客様向けデータをアップロードする予定のユーザーのために、Googleは、 [よくある質問](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* 下部にあるチェックボックスをオンにすると、広告および広告パーソナライゼーションの目的でGoogle Ads に送信されるユーザーデータに対して、同意ステータスが許可済みとして送信されます。 オフのままにすると、同意ステータスは未指定として送信されます。 欧州経済地域（EEA）のお客様向けデータをアップロードする予定のユーザーのために、Googleは、 [よくある質問](https://support.google.com/google-ads/answer/14310715){target="_blank"}、およびを説明するその他の詳細 [EU ユーザー同意ポリシー](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. 「**更新**」をクリックします。
 
