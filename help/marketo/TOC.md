@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 100%
 
 ---
@@ -1728,7 +1728,6 @@ ht-degree: 100%
             + [Web レポートでのリードまたは匿名の訪問者の表示](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [人物の効果レポートのドリルダウン](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [レポートの Excel へのエクスポート](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
-            + [キャンペーンアクティビティレポートのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [キャンペーンメールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [メールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [リードレポートの属性別グループ化](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1742,7 +1741,6 @@ ht-degree: 100%
             + [基本レポートの登録](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [スマートリストの登録](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + レポートのタイプ {#report-types}
-            + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
