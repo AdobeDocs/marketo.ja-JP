@@ -4,9 +4,9 @@ description: Adobe Marketo Engage とは- Marketo ドキュメント - 製品ド
 title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
-workflow-type: ht
-source-wordcount: '284'
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
+workflow-type: tm+mt
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -21,13 +21,14 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 * フォームエディター
 * ランディングページエディター
+* スマートキャンペーン
+* Dynamic Chat
+* ネイティブインタラクティブウェビナー
 * ガイド付きランディングページテンプレート
 * メールエディター
 * 一括メール送信ツール
 * セグメント化
 * 予測コンテンツ
-* Dynamic Chat
-* ネイティブインタラクティブウェビナー
 * サードパーティのウェビナー統合
 * モバイルマーケティング
 * CRM（Salesforce または Dynamics）との同期
