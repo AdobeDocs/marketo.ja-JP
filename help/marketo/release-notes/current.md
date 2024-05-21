@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
-workflow-type: ht
-source-wordcount: '223'
-ht-degree: 100%
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 75%
 
 ---
 
@@ -42,4 +42,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必要になります。これを実行する方法については、こちらから[リード生成フォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}を参照してください。
+* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。linkedInこれらの変更を行うには、 **Admin** > **LaunchPoint** サービスが中断されないようにするには、2024 年 7 月 26 日（PT）から 12 月 15 日（PT）までのメニューを選択します。 これを実行する方法については、こちらを参照してください [リード生成Formsはこちら](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} および [マッチしたオーディエンスはこちら](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. リード生成フォームサービスのタイプは「LinkedIn リード生成」であり、マッチしたオーディエンスサービスのタイプは「LinkedInでマッチしたオーディエンス」です。 詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。

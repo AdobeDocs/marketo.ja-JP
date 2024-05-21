@@ -4,9 +4,9 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: d49de7245d942a5e0a113b8a2f00d7203a4fb39b
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -32,11 +32,6 @@ _リリース日／機能は変更される場合があります。_
    <th width="250px">リリース日</th>
    <th width="250px">ステータス</th>
   </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-oct-23.md">2023年10月</a></td>
-   <td>2023年10月6日（PT）</td>
-   <td>出荷済み</td>
-  </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">2024年1月</a></td>
    <td>2024年1月12日（PT）</td>
@@ -58,8 +53,8 @@ _リリース日／機能は変更される場合があります。_
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>2024年8月</td>
-   <td>2024年8月9日（PT）</td>
+   <td>24 年 7 月</td>
+   <td>2024年7月26日</td>
    <td>予定通り</td>
   </tr>
   <tr> 
