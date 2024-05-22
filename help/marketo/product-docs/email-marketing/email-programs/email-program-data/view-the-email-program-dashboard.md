@@ -4,16 +4,20 @@ description: メールプログラムダッシュボードの表示- Marketo ド
 title: メールプログラムダッシュボードの表示
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 71%
 
 ---
 
 # メールプログラムダッシュボードの表示 {#view-the-email-program-dashboard}
 
 ダッシュボードでは、メールプログラムのパフォーマンスを確認できます（A/B テストのあるなしに関わらず）。
+
+>[!CAUTION]
+>
+>正確なレポートのために、以前にスマートキャンペーンを通じて電子メールプログラムで使用した電子メールを再利用したり、起動した電子メールプログラムから新しいプログラムにアセットを移動したりしないでください。 これにより、元のメールプログラムダッシュボードのレポート番号に追加されます。 同じメールを再利用する必要がある場合 [クローン](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} その代わり。
 
 ## メールプログラムを選択します {#select-your-email-program}
 

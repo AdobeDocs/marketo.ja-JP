@@ -4,10 +4,10 @@ description: メールプログラムについて - Marketo ドキュメント -
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '303'
+ht-degree: 73%
 
 ---
 
@@ -36,15 +36,19 @@ A/B テストを使用すると、どのメールが最適かを証明できま�
 
 ## ダッシュボード {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->メールプログラムには詳細なレポートダッシュボードがあるため、スマートキャンペーン経由でメールを送信するよりもメールプログラムを使用した方が望ましい場合があります。
+>正確なレポートのために、以前にスマートキャンペーンを通じて電子メールプログラムで使用した電子メールを再利用したり、起動した電子メールプログラムから新しいプログラムにアセットを移動したりしないでください。 これにより、元のメールプログラムダッシュボードのレポート番号に追加されます。 同じメールを再利用する必要がある場合 [クローン](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} その代わり。
 
 労働の成果をお楽しみください。ダッシュボードには、メールプログラムと A/B テストのパフォーマンスが一目で表示されます。
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>プログラムの詳細なレポートダッシュボードにより、スマートキャンペーンを使用してメールを送信するよりも、メールプログラムを使用することを好むユーザーもいます。
 
 ## ネスト {#nesting}
 
