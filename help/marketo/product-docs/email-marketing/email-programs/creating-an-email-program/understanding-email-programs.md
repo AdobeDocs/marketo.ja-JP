@@ -4,16 +4,16 @@ description: メールプログラムについて - Marketo ドキュメント -
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 100%
 
 ---
 
 # メールプログラムについて {#understanding-email-programs}
 
-Marketo の新しいメールプログラムにようこそ。ここ 1 か所で、メールを送信し、A/B テストを作成し、結果を追跡できます。
+ここ 1 か所で、メールを送信し、A/B テストを作成し、結果を追跡できます。
 
 ## コントロールパネル {#control-panel}
 
