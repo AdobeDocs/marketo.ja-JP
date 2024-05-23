@@ -3,10 +3,10 @@ description: 質問の生成 – Marketo ドキュメント – 製品ドキュ�
 title: 質問の生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 1%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 
@@ -115,6 +115,11 @@ ht-degree: 1%
     <td>20.119.144.14</td>
     <td>20.105.224.16</td>
     <td>20.211.64.11</td>
+  </tr>
+  <tr>
+    <td>13.68.17.252</td>
+    <td>20.105.150.224</td>
+    <td>20.213.91.77</td>
   </tr>
 </tbody>
 </table>
