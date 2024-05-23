@@ -4,16 +4,16 @@ title: Marketo Engage共同体
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '524'
 ht-degree: 9%
 
 ---
 
-# Marketo Engage共同体 {#marketo-engage-community}
+# Adobe Marketo Engage コミュニティ {#marketo-engage-community}
 
-この [マーケティング民族共同体](https://nation.marketo.com/){target="_blank"} は、Marketo Engageインスタンスについて、他のユーザーやMarketoの従業員から詳しく学ぶ場所です。 に飛び込む前に、に慣れてください [コミュニティガイドライン](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+この [Adobe Marketo Engage コミュニティ](https://nation.marketo.com/) （マーケティング国とも呼ばれます）は、Marketoの従業員や他のユーザーから、Marketo Engageインスタンスについて詳しく知る場所です。 に飛び込む前に、に慣れてください [コミュニティガイドライン](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## ユーザー名を登録 {#register-your-username}
 
