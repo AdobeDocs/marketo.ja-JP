@@ -4,19 +4,19 @@ title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '595'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # Dynamic Chat の概要 {#dynamic-chat-overview}
 
-Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。サイト訪問者は、ライブエージェントとチャットしたり、セールスチームとのミーティングを予約したりすることもできます。 Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
+Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。また、サイト訪問者は、ライブエージェントとチャットしたり、セールスチームとのミーティングを予約したりすることもできます。Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
 
 >[!TIP]
 >
->訪問 [このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ja){target="_blank"} Dynamic Chatのチュートリアルビデオを視聴できます。
+>[このページ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ja){target="_blank"}を参照して、Dynamic Chat のチュートリアルビデオを表示します。
 
 ## 統合 {#integrations}
 
@@ -50,19 +50,19 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## ライブチャット {#live-chat}
 
-資格のある web 訪問者に、次を通じて営業担当者とつながるよう提供します [ライブチャット](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+条件を満たす web 訪問者に、[ライブチャット](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}でセールス担当者とつながるよう提案します。
 
 ## 対話型フロー {#conversational-flow}
 
-[会話のデザイン](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 指定したアクション（フォームへの入力、リンクのクリックなど）に基づいて訪問者がトリガーできるもの。
+指定したアクション（フォームへの入力、リンクのクリックなど）に基づき、訪問者によってトリガーされる[対話をデザイン](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}します。
 
 ## 生成 AI {#generative-ai}
 
-[ジェネレーティブ AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} Adobe Dynamic Chatでは、インテントシグナル、ユーザーの環境設定、過去の行動をリアルタイムで処理して、チャット訪問者向けにパーソナライズされた適切なメッセージを生成します。
+Adobe Dynamic Chat の[生成 AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} では、インテントシグナル、ユーザーの環境設定、過去の行動をリアルタイムで処理し、チャット訪問者に関連するパーソナライズされたメッセージを生成します。
 
 ## 言語の変更 {#changing-the-language}
 
-Dynamic Chatの言語を変更するには、次の手順に従います。
+Dynamic Chat の言語を変更するには、次の手順に従います。
 
 >[!IMPORTANT]
 >
@@ -86,16 +86,16 @@ Dynamic Chatの言語を変更するには、次の手順に従います。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
-## Dynamic Chatデータ保持制限 {#dynamic-chat-data-retention-limits}
+## Dynamic Chat データ保持制限 {#dynamic-chat-data-retention-limits}
 
-以下は、Dynamic Chat内の制限/パラメーターの一部です。 詳細なリストについては、Marketo Engageを参照してください [製品説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}.
+Dynamic Chat 内の制限/パラメーターの一部を以下に示します。リストについて詳しくは、Marketo Engage の[製品説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}を参照してください。
 
 <table>
   <th>データタイプ</th>
   <th>保持期間</th>
  <tr>
   <td>エンゲージメントのない匿名リード</td>
-  <td>90 日間</td>
+  <td>90 日</td>
  </tr>
  <tr>
   <td>目標アクティビティ</td>
@@ -106,15 +106,15 @@ Dynamic Chatの言語を変更するには、次の手順に従います。
   <td>24 か月</td>
  </tr>
  <tr>
-  <td>ダイアログアクティビティの操作</td>
-  <td>90 日間</td>
+  <td>対話アクティビティの操作</td>
+  <td>90 日</td>
  </tr>
  <tr>
-  <td>会議予約アクティビティ</td>
+  <td>ミーティング予約アクティビティ</td>
   <td>24 か月</td>
  </tr>
 </table>
 
 ## よくある質問 {#faq}
 
-詳しくは、 [Dynamic Chatに関するよくある質問](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+[Dynamic Chat に関するよくある質問](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}を参照してください。
