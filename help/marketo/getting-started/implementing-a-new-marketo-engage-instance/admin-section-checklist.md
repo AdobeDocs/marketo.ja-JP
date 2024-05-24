@@ -3,14 +3,14 @@ description: 新しいMarketo Engageインスタンスの「管理者」セク�
 title: 新しいインスタンスのベストプラクティス – 「管理者」セクションのチェックリスト
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 67%
 
 ---
 
-# 新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト {#new-instance-best-practices-admin-section-checklist}
+# 新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト {#new-instance-best-practices-admin-section-checklist}
 
 新しい管理者が新しいMarketo Engageインスタンスに移動する際には、以下のチェックリストを適用すると、実装プロセスを導くことができます。 これらのガイドと同様に、次の操作を行うこともできます [チェックリストをダウンロード](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 進行状況を追跡します。
 
@@ -112,7 +112,8 @@ ht-degree: 67%
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html?lang=ja" target="_blank">タグ</a>の使用方法を定義します。</li></td>
   </tr>
   <tr>
-    <td>カレンダー（該当する場合）</td>
+    <td>カレンダー<br> 
+    （該当する場合）</td>
     <td><li>アクセスを必要とするユーザに対して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html?lang=ja" target="_blank">マーケティングカレンダーシートを発行</a>します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html?lang=ja" target="_blank">カレンダー</a>を設定します。</li></td>
   </tr>

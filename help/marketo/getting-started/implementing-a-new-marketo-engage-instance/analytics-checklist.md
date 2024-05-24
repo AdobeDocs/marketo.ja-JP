@@ -4,7 +4,7 @@ title: 新しいインスタンスのベストプラクティス - Analytics チ
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 5%
@@ -31,9 +31,7 @@ ht-degree: 5%
   <tr>
     <td>組織：命名、フォルダー、アーカイブ</td>
     <td><li>レポート命名規則を使用して、「グローバルレポート」タブでレポートを区別します。</li>
-    <ul>
-    <li>命名規則に関する適切なプラクティスの例としては、[Report Type][Global vs. BU-Specific Tag][Report Description] があります。例えば、[Email Performance]-[Global]-[180 Days Email Engagement] などです。</li>
-    </ul> 
+    <ul><li>命名規則に関する適切なプラクティスの例としては、[Report Type][Global vs. BU-Specific Tag][Report Description] があります。例えば、[Email Performance]-[Global]-[180 Days Email Engagement] などです。</li></ul><br>
     <li>組織内の様々なユーザーグループ（営業チーム、マーケティングリーダーなど）と共有する必要があるレポートを特定し、Analytics for Global Reports のグループレポートフォルダー内のフォルダー別にレポートを整理します。</li> 
     <li>グローバルレポートは常に表示されるレポートなので、アーカイブはグローバルレポートフォルダーに限定する必要があります。   <ul>
     <li>ビジネス・ユニット構造に基づいてレポートする場合は、関連するビジネス・ユニットの削減や追加など、組織の変更にアーカイブを制限します。</li>
@@ -104,7 +102,7 @@ ht-degree: 5%
     <td>人物の効果レポート</td>
     <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：を正しく設定することをお勧めします。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">チャネルとタグ戦略</a> すべてのMarketo Engage導入について、獲得した人物とマーケティング投資の ROI をチャネル別にトラッキングできます。
     <p>
-    <li>リード獲得プログラムのパフォーマンスを測定するために使用する条件を決定し、次の指標に基づいて時間ベース（現在の年、過去 12 か月単位のビュー、または 180 日間）の標準レポートを作成します。</li> <ul><li>獲得プログラム：人物を獲得するためにクレジットされるMarketo Engageプログラム。
+    <li>リード獲得プログラムのパフォーマンスを測定するために使用する条件を決定し、次の指標に基づいて時間ベース（現在の年、過去 12 か月単位のビュー、または 180 日間）の標準レポートを作成します。</li> <ul><li>獲得プログラム：人物を獲得するためにクレジットされるMarketo Engageプログラム。</li>
     <li>人物ソース：レコードがデータベースに認識されるきっかけとなったソースカテゴリ（CRM の値のソースリストに基づく）
     </li></ul>
     <li>週または月ごとに作成されたユーザーを測定します。 このレポートは、データベースの増加率の測定値と、データベースのサイズ制限に近づいているかどうかを示します。</li>
