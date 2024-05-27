@@ -6,7 +6,7 @@ feature-set: Marketo Engage
 source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
 workflow-type: tm+mt
 source-wordcount: '9358'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,14 +26,14 @@ ht-degree: 99%
       + [新しいインスタンスのベストプラクティス：データベースのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
       + [新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新しいインスタンスのベストプラクティス：デザインスタジオのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [新しいインスタンスのベストプラクティス：Analytics チェックリスト](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
+      + [新しいインスタンスのベストプラクティス：Analytics のチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 留意事項 {#things-to-know}
       + [Marketo Engage 用語集](getting-started/things-to-know/marketo-engage-glossary.md)
       + [アイコン用語集](getting-started/things-to-know/icon-glossary.md)
       + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
       + [ヘルプセンター](getting-started/things-to-know/help-center.md)
-      + [マーケティング民族共同体](getting-started/things-to-know/community.md)
+      + [Marketing Nation コミュニティ](getting-started/things-to-know/community.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
