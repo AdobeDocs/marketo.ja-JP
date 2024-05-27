@@ -5,19 +5,19 @@ title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
 source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # 言語、ロケール、タイムゾーンの選択 {#select-your-language-locale-and-time-zone}
 
-英語は母国語ではありませんか？ 心配は無用です。Marketo Engageインスタンスの言語、ロケールおよびタイムゾーンを変更する方法を以下に示します。
+英語が第一言語ではない方も、心配は無用です。Marketo Engage インスタンスの言語、ロケール、タイムゾーンの変更方法を以下に示します。
 
 >[!IMPORTANT]
 >
->この記事は、次のことを行うユーザーのみを対象としています _ではない_ use [Adobe ID を使用したMarketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). その場合は、以下に概要を示す設定にでアクセスできます [Adobeアカウントプロファイル](https://account.adobe.com/profile).
+>この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[アドビアカウントプロファイル](https://account.adobe.com/profile)で以下に説明する設定にアクセスできます。
 
 ## サポートされている言語 {#supported-languages}
 

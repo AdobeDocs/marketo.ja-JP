@@ -5,9 +5,9 @@ title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
 source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '402'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!IMPORTANT]
 >
->この記事は、次のことを行うユーザーのみを対象としています _ではない_ use [Adobe ID を使用したMarketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. その場合は、の手順に従ってください。 [この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}の手順に従ってください。
 
 ## ユーザーを作成する {#create-users}
 

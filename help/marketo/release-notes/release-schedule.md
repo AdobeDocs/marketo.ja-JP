@@ -5,7 +5,7 @@ title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
@@ -53,8 +53,8 @@ _リリース日／機能は変更される場合があります。_
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>24 年 7 月</td>
-   <td>2024年7月26日</td>
+   <td>24年7月</td>
+   <td>2024年7月26日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
