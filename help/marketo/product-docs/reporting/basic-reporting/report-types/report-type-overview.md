@@ -4,9 +4,9 @@ description: レポートタイプの概要 — Marketo ドキュメント — �
 title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
-workflow-type: ht
-source-wordcount: '235'
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+workflow-type: tm+mt
+source-wordcount: '216'
 ht-degree: 100%
 
 ---
@@ -64,11 +64,7 @@ ht-degree: 100%
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Web ページアクティビティ</a></strong></td> 
    <td>Web アクティビティに関するレポートをランディングページおよび公開 Web サイトに作成します。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>ソーシャルインフルエンス</strong></td> 
-   <td>生成しているソーシャルアクティビティを確認し、ユーザーが友達に伝える頻度を確認します。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">エンゲージメントストリームの効果レポート</a> </strong></td> 
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">エンゲージメントプログラム</a>の効率を確認します。</td> 

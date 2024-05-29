@@ -4,10 +4,10 @@ title: Marketo Engage共同体
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 9%
+source-wordcount: '592'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,17 @@ ht-degree: 9%
 
 ## ユーザー名を登録 {#register-your-username}
 
- – ユーザー名の登録
+1. Marketo Engageインスタンスにログインします。
+
+1. マイMarketoで、コミュニティ タイルをクリックします。
+
+1. 初めてログインする場合は、コミュニティ ユーザー名を登録するように指示されます。
+
+   >[!NOTE]
+   >
+   >ユーザー名はいつでも変更できますが、この時点で登録する必要があります。
+
+1. ユーザー名を登録すると、コミュニティのホームページに移動し、コミュニティ内でやり取りしたり、投稿したりできます。
 
 スクリーンショット
 
@@ -87,4 +97,4 @@ Marketoユーザーグループ（MUG）は、世界中のさまざまな地域�
 
 <br>
 
-Marketo Engageへようこそ、そしてマーケティングネーションをお楽しみください！
+Marketo Engageへようこそ。マーケティングネーションを楽しく探索しましょう。
