@@ -4,14 +4,14 @@ title: 新しいインスタンスのベストプラクティス - Analytics チ
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 5%
 
 ---
 
-# 新しいインスタンスのベストプラクティス：Analytics チェックリスト {#new-instance-best-practices-analytics-checklist}
+# 新しいインスタンスのベストプラクティス：Analytics のチェックリスト {#new-instance-best-practices-analytics-checklist}
 
 「分析」セクションには、マーケティング活動のパフォーマンスを分析するグローバルレポートが表示されます。 これらを移動するために必要な手順について説明します。
 
@@ -117,7 +117,8 @@ ht-degree: 5%
     <li>マーケティングアクティビティ内のベストプラクティスに従って、プログラムメンバーシップを管理します（スマートキャンペーンを使用して、獲得プログラム、ステータス、成功ステータスを更新します）。</li>
     <li>今年のコストと 12 か月周期に基づいて測定します。
     <ul><li>次を維持することを忘れないでください <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間コスト</a> は、プログラムパフォーマンスレポートを活用するうえで非常に重要です。</li></ul>
-    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：いずれかを集約して表示するには <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">インポートしたリスト</a> プログラムパフォーマンスレポートで、チームがタグ付けに適した獲得プログラムを選択していることを確認します。 考慮 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">デフォルトプログラムの作成</a> 読み込まれたリストがどのチャネルにも適用されない場合に、獲得プログラムとして選択するリスト。 これにより、読み込んだユーザーが、空白の値ではなく、ソース、ビジネスユニット、チャネルなどに関連する有効な獲得プログラムを持つようになります。</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：いずれかを集約して表示するには <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">インポートしたリスト</a> プログラムパフォーマンスレポートで、チームがタグ付けに適した獲得プログラムを選択していることを確認します。 考慮 <a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">デフォルトプログラムの作成</a> 読み込まれたリストがどのチャネルにも適用されない場合に、獲得プログラムとして選択するリスト。 これにより、読み込んだユーザーが、空白の値ではなく、ソース、ビジネスユニット、チャネルなどに関連する有効な獲得プログラムを持つようになります。</td>
   </tr>
   <tr>
     <td>ランディングページ効果レポート</td>
@@ -152,7 +153,7 @@ ht-degree: 5%
   <tr>
     <td>キャンペーンアクティビティレポート</td>
     <td><li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">キャンペーン活動レポート</a> マーケティングアクティビティで、運用フォルダー内の期間を選択します。</li>
-    <li>各ユースケースのトリガーを監視するレポートの設定 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">キャンペーンフィルターの適用</a> （例：行動スコアリングトリガー、ライフサイクル選定トリガー、注目のモーメントトリガー）。</li></td>
+    <li>各ユースケースのトリガーを監視するレポートの設定 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">キャンペーンフィルターの適用</a> （例：行動スコアリングトリガー、ライフサイクル選定トリガー、注目のモーメントトリガー）。</li></td>
   </tr>
   <tr>
     <td>エンゲージメントストリームのパフォーマンスレポート（該当する場合）</td>
@@ -160,4 +161,41 @@ ht-degree: 5%
     <li>の使用を検討してください。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">レポートの「設定」タブの「セグメント化」フィルター</a> および次を使用したレポートデータのグループ化 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">セグメント</a> エンゲージメントプログラムで使用される（担当者、業界など）。 これにより、各セグメントのエンゲージメントパターンに関する深いインサイトを得ることができ、エンゲージメントプログラム（コンテンツ、ストリーム、ストリームケイデンスなど）を改善するための戦略的な変更を行うことができるようになります。</li></td>
   </tr>
 </tbody>
+</table>
+
+作業中の箇条書きを含むテーブル
+
+<table>
+<tbody>
+<tr>
+    <td>グループレポート</td>
+    <td><img src="assets/note-icon.png" alt="メモアイコン"> 注：テキスト。
+    <p>
+    <li>テキスト。</li>
+    <li>テキスト。
+    <ul><li>テキスト</li>
+    <li>テキスト</li></ul>
+    <li>テキスト。</li>
+    <li>テキスト。</li>
+    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：テキスト。</td>
+  </tr>
+  </tbody>
+</table>
+
+テスト修正 1
+
+<table>
+<tbody>
+<tr>
+    <td>人物の効果レポート</td>
+    <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：を正しく設定することをお勧めします。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">チャネルとタグ戦略</a> すべてのMarketo Engage導入について、獲得した人物とマーケティング投資の ROI をチャネル別にトラッキングできます。
+    <p>
+    <li>リード獲得プログラムのパフォーマンスを測定するために使用する条件を決定し、次の指標に基づいて時間ベース（現在の年、過去 12 か月単位のビュー、または 180 日間）の標準レポートを作成します。</li>
+    <ul><li>獲得プログラム：個人を獲得するためにクレジットされるMarketo Engageプログラム</li>
+    <li>人物ソース：レコードがデータベースに認識されるきっかけとなったソースカテゴリ（CRM の値のソースリストに基づく）</li></ul>
+    <li>週または月ごとに作成されたユーザーを測定します。 このレポートは、データベースの増加率の測定値と、データベースのサイズ制限に近づいているかどうかを示します。</li>
+    <li>人物パフォーマンスレポートの指標のフィルタリング基準 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">スマート・リストをカスタム列として使用します。</a></li>
+    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：マーケティングアクティビティではなく、データベースの人物パフォーマンスレポートに追加するカスタム列のスマートリストを作成して、レポートでスマートリスト名が選択されたときにわかりやすく表示できるようにします。</td>
+  </tr>
+  </tbody>
 </table>
