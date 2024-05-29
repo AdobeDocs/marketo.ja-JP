@@ -3,9 +3,9 @@ description: 継承インスタンスデータベースのチェックリスト 
 title: 継承インスタンスデータベースのチェックリスト
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
-workflow-type: ht
-source-wordcount: '433'
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+workflow-type: tm+mt
+source-wordcount: '420'
 ht-degree: 100%
 
 ---
@@ -115,9 +115,3 @@ ht-degree: 100%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ 継承インスタンスの監査：管理者](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[継承インスタンスの監査：マーケティングアクティビティ ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

@@ -3,9 +3,9 @@ description: 新しいMarketo Engageインスタンスを実装する際のベ�
 title: 開始する場所
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 5%
 
 ---
@@ -34,17 +34,19 @@ Marketo Engageインスタンスのダウンロード [新しい実装管理者�
 
 * [データベース](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [マーケティングアクティビティ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [分析](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [新しいインスタンス設定のドキュメント化](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 他のユーザーとつながる {#connect-with-your-peers}
 
-にアクセスします [マーケティング民族共同体](https://nation.marketo.com/){target="_blank"} Marketo Engageインスタンスについて、Marketo Engageの社員や同僚から詳しく学びましょう。
+にアクセスします [Adobe Marketo Engage コミュニティ](https://nation.marketo.com/){target="_blank"} （マーケティング国とも呼ばれます）を使用して、Marketo Engage従業員や他のユーザーからMarketo Engageインスタンスについて詳しく知ることができます。
 
-マーケティングネーションコミュニティの基本を学ぶ：
+コミュニティの基本を学ぶ：
 
 1. クリック **Adobe IDを続行する** ログインページでプライマリ購読を選択します。
 1. ログインしたら、コミュニティプロファイルを入力します。

@@ -3,10 +3,10 @@ description: 継承した既存の Marketo Engage インスタンスを最適化
 title: 開始する場所
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
-workflow-type: ht
-source-wordcount: '438'
-ht-degree: 100%
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+workflow-type: tm+mt
+source-wordcount: '450'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,7 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 * 詳しくは、[**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}を参照してください。
 
-* [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}方法を参照してください）。
+* 方法を学ぶ [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} （そして、次のことを確認します： [**承認済みサポート連絡先として設定**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}）に設定します。
 
 ## Marketing Nation プロファイルを統合 {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 また、スプレッドシート形式で[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)することもできます。
 
-* [「管理者」セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [管理者セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [データベース](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [データベース](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [マーケティング活動](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [継承インスタンスの設定をドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [継承されたインスタンスの設定のドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## ヘルプの入手方法 {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 * 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**&#x200B;にお問い合わせください。
 
-* **[Marketing Nation](https://nation.marketo.com/){target="_blank"}** では Marketo Engage ユーザとつながり、知識を深めることができます。
+* を使用して、のMarketo Engageユーザーとつながり、そこから学びます **[Adobe Marketo Engage コミュニティ](https://nation.marketo.com/){target="_blank"}**.
 
 * Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 

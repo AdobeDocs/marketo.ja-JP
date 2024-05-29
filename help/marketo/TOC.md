@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 100%
@@ -24,8 +24,8 @@ ht-degree: 100%
       + [開始する場所](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [新しいインスタンスのベストプラクティス：データベースのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新しいインスタンスのベストプラクティス：デザインスタジオのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [新しいインスタンスのベストプラクティス：Analytics のチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 留意事項 {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 100%
       + [開始する場所](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [継承インスタンス：「管理者」セクションのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [継承インスタンス：データベースのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [継承インスタンス：マーケティングアクティビティのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [継承インスタンス：デザインスタジオのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [継承インスタンス：マーケティングアクティビティのチェックリスト](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [継承インスタンス：設定のドキュメント化](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [コアスキルのレビュー](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 製品ドキュメント {#product-docs}

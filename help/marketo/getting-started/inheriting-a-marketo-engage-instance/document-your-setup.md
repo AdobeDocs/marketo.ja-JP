@@ -3,9 +3,9 @@ description: 継承インスタンス設定のドキュメント化 - Marketo Do
 title: 継承インスタンス設定のドキュメント化
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
-workflow-type: ht
-source-wordcount: '306'
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+workflow-type: tm+mt
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
@@ -71,5 +71,3 @@ ht-degree: 100%
   </tr>
  </tbody> 
 </table>
-
-[◄継承インスタンスの監査：デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

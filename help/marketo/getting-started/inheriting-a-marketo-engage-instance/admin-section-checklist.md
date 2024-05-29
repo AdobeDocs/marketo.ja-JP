@@ -3,10 +3,10 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
-workflow-type: ht
-source-wordcount: '1846'
-ht-degree: 100%
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+workflow-type: tm+mt
+source-wordcount: '1858'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo Engage／管理者／ユーザ＆ロールの [Adobe Identity Management システム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}にオンボードされた Marketo Engage サブスクリプションにのみ適用されます。
+>これは、にオンボーディングされたMarketo Engage購読にのみ適用されます [AdobeIdentity Managementシステム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 購読がまだAdobe IMSにオンボードしていない場合は、に進みます [従来のユーザーの役割と権限のエクスペリエンス](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage/管理者/ユーザーと役割に移動します。
 
 <table> 
  <tbody> 
@@ -380,7 +380,3 @@ ht-degree: 100%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[継承されたインスタンスの監査：データベース ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

@@ -3,9 +3,9 @@ description: 継承インスタンスデザインスタジオのチェックリ�
 title: 継承インスタンスデザインスタジオのチェックリスト
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
-workflow-type: ht
-source-wordcount: '578'
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+workflow-type: tm+mt
+source-wordcount: '561'
 ht-degree: 100%
 
 ---
@@ -166,9 +166,3 @@ ht-degree: 100%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄継承インスタンスの監査：マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[継承インスタンスの監査：継承インスタンスの設定をドキュメント化►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
