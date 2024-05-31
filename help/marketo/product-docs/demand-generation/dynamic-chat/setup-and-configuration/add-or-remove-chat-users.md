@@ -3,10 +3,10 @@ description: チャットユーザーの追加または削除 - Marketo ドキ�
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 98%
+source-wordcount: '251'
+ht-degree: 88%
 
 ---
 
@@ -47,6 +47,10 @@ ht-degree: 98%
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-chat-users-7.png)
+
+   >[!NOTE]
+   >
+   >AdobeAdmin Console でユーザーを追加した後、そのユーザーがDynamic Chatエージェント管理ページに表示されるまで、最大 2 時間かかる場合があります。
 
 ## Dynamic Chat アクセスを Marketo のロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
@@ -100,5 +104,5 @@ ht-degree: 98%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console Users](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
->* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [ユーザを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}
