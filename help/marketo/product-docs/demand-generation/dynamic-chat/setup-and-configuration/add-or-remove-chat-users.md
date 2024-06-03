@@ -3,16 +3,20 @@ description: チャットユーザーの追加または削除 - Marketo ドキ�
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 88%
+source-wordcount: '264'
+ht-degree: 84%
 
 ---
 
 # チャットユーザーの追加または削除 {#add-or-remove-chat-users}
 
 以下の手順に従って、チャットユーザーを追加または削除します。
+
+>[!NOTE]
+>
+>デフォルトでは、すべてのMarketo Engage管理者には、Dynamic Chatの管理者権限が付与されます。
 
 ## チャットユーザーを追加 {#add-a-chat-user}
 
