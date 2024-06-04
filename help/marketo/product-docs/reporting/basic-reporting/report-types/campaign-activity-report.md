@@ -5,7 +5,7 @@ title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
 source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
 ht-degree: 100%
 

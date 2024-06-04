@@ -5,9 +5,9 @@ title: メールプログラムダッシュボードの使用
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
 source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '397'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 81%
 
 >[!CAUTION]
 >
->正確なレポートを作成するには、以下を避けます。 _再利用_ 電子メールプログラムからのメール（スマートキャンペーンで参照するか、起動した電子メールプログラムから新しいプログラムにアセットを移動することによる）。 これにより、そのメールに添付されたすべてのレポートダッシュボードのすべてのデータが集計されます。 メールを再利用する必要がある場合は、 [クローン](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 代わりに、はメールをコピーしますが、新しいメール ID で新しいメールを作成します。
+>正確なレポートを作成するのに、スマートキャンペーンでメールを参照したり、起動したメールプログラムから新しいメールプログラムにアセットを移動したりして、メールプログラムからメールを&#x200B;_再利用_&#x200B;しないでください。再利用すると、そのメールに添付されたすべてのレポートダッシュボードのすべてのデータが集計されます。メールを再利用する必要がある場合は、代わりに[クローンを作成](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}してください。これにより、メールがコピーされますが、新しいメール ID で新しいメールが作成されます。
 
 >[!NOTE]
 >

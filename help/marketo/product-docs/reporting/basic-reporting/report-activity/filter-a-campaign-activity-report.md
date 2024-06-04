@@ -5,7 +5,7 @@ title: キャンペーンアクティビティレポートをフィルターす�
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
 source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
