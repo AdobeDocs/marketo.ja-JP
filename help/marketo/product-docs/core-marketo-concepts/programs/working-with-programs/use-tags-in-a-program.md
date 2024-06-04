@@ -4,9 +4,9 @@ description: プログラムでのタグの使用 - Marketo ドキュメント -
 title: プログラムでのタグの使用
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 100%
 
 ---
@@ -19,50 +19,50 @@ ht-degree: 100%
 
 1. プログラムを選択します。「**設定**」をクリックします。
 
-   ![](assets/image2014-9-23-15-3a45-3a0.png)
+   ![](assets/use-tags-in-a-program-1.png)
 
 1. タグをキャンバスにドラッグ＆ドロップします。
 
-   ![](assets/image2014-9-23-15-3a45-3a13.png)
+   ![](assets/use-tags-in-a-program-2.png)
 
 1. ドロップダウンから値を選択します。
 
-   ![](assets/image2014-9-23-15-3a45-3a30.png)
+   ![](assets/use-tags-in-a-program-3.png)
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/image2014-9-23-15-3a45-3a36.png)
+   ![](assets/use-tags-in-a-program-4.png)
 
 1. 完成です。キャンバスに新しいタグが表示されます。
 
-   ![](assets/image2014-9-23-15-3a45-3a47.png)
+   ![](assets/use-tags-in-a-program-5.png)
 
 ## タグの編集 {#edit-a-tag}
 
 1. 「**設定**」タブに移動します。タグを右クリックします。「**編集**」を選択します。
 
-   ![](assets/image2014-9-23-15-3a45-3a53.png)
+   ![](assets/use-tags-in-a-program-6.png)
 
 1. ドロップダウンをクリックします。新しい値を選択します。
 
-   ![](assets/image2014-9-23-15-3a46-3a12.png)
+   ![](assets/use-tags-in-a-program-7.png)
 
 1. 「**保存**」をクリックします。
 
-   ![](assets/image2014-9-23-15-3a46-3a25.png)
+   ![](assets/use-tags-in-a-program-8.png)
 
 1. 完成です。編集内容がキャンバスに反映されているのがわかります。
 
-   ![](assets/image2014-9-23-15-3a46-3a35.png)
+   ![](assets/use-tags-in-a-program-9.png)
 
 ## タグの削除  {#delete-a-tag}
 
 1. 「**設定**」タブに移動します。タグを右クリックし、「**削除**」を選択します。
 
-   ![](assets/image2014-9-23-15-3a46-3a55.png)
+   ![](assets/use-tags-in-a-program-10.png)
 
 1. 「**削除**」をクリックして確定します。
 
-   ![](assets/image2014-9-23-15-3a47-3a8.png)
+   ![](assets/use-tags-in-a-program-11.png)
 
-完成です。タグが消去されています。プログラムで一貫したタグを使用すると、レポートを実行する際に作業が容易になります。
+お疲れさまでした。プログラムで一貫したタグを使用すると、レポートを実行する際に作業が容易になります。
