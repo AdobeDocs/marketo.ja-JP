@@ -4,10 +4,10 @@ description: SOAP API の設定 - Marketo ドキュメント - 製品ドキュ�
 title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->REST API の使用をお勧めしています。詳しくは、[developers.marketo.com](https://developers.marketo.com/documentation/rest/) を参照してください。
+>REST API の使用をお勧めしています。詳細を見る [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[SOAP API ドキュメント](https://developers.marketo.com/documentation/soap/)
+>[SOAP API ドキュメント](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

@@ -4,10 +4,10 @@ description: サンプルメールの送信 - Marketo ドキュメント - 製�
 title: サンプルメールの送信
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '321'
+ht-degree: 96%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「トリガー」フィールドは、[メールスクリプティング](https://developers.marketo.com/documentation/velocity-script/)を使用する場合にのみ適用できます。
+   >「トリガー」フィールドは、[メールスクリプティング](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)を使用する場合にのみ適用できます。
 
 ## セグメントに基づくサンプルメールの送信 {#send-a-sample-email-based-on-a-segment}
 

@@ -4,10 +4,10 @@ description: フォームフィールドの表示設定の動的な切り替え 
 title: フォームフィールドの表示設定の動的な切り替え
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '242'
+ht-degree: 99%
 
 ---
 
@@ -69,6 +69,6 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
 >[!IMPORTANT]
 >
->Forms 2.0 の [API 関数](https://developers.marketo.com/javascript-api/forms/){target="_blank"}カスタムスクリプトを使用してフィールド値が設定または更新された場合、フォームフィールドの動作はシームレスに機能します。
+>Forms 2.0 の [API 関数](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}カスタムスクリプトを使用してフィールド値が設定または更新された場合、フォームフィールドの動作はシームレスに機能します。
 >
 >Forms 2.0 JavaScript API 以外の外部スクリプトでフィールドの値が変更されると、条件付きフィールドが期待どおりに動作しない場合があります。

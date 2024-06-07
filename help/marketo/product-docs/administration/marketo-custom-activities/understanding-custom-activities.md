@@ -4,10 +4,10 @@ description: カスタムアクティビティについて - Marketo ドキュ�
 title: カスタムアクティビティについて
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -35,6 +35,6 @@ ht-degree: 100%
 
 手順 1：[Marketo アカウントでカスタムアクティビティ](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)を作成します。
 
-手順 2：アドビの API を使用している組織の従業員が実装を開始します。詳しくは、[カスタムアクティビティの API](https://developers.marketo.com/documentation/rest/add-custom-activities/) を参照してください。
+手順 2：アドビの API を使用している組織の従業員が実装を開始します。詳しくは、[カスタムアクティビティの API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST) を参照してください。
 
 お楽しみください。

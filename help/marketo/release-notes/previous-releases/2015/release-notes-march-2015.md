@@ -4,10 +4,10 @@ description: リリースノート - 2015年3月 - Marketo ドキュメント - 
 title: リリースノート - 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 90%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## カレンダー HD {#calendar-hd}
 
-チームのマーケティング活動をカレンダーの新しいプレゼンテーションモードで表示します。これらは、オフィスの周りのテレビや巨大なモニターに最適です。スマートリストまたはカスタム指標に基づいて目標を設定して表示します。
+カレンダーの新しいプレゼンテーションモードでチームのマーケティングアクティビティを表示します。 これらは、オフィスの周りのテレビや巨大なモニターに最適です。スマートリストまたはカスタム指標に基づいて目標を設定して表示します。
 
 >[!NOTE]
 >
@@ -37,9 +37,9 @@ ht-degree: 100%
 
 ## 新しいアセット REST API {#new-asset-rest-apis}
 
-[新しいアセット REST API](https://developers.marketo.com/)
+[新しいアセット REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-[API による](https://developers.marketo.com/documentation/asset-api)メールやテンプレート、マイトークン、ファイル、スニペットの作成および編集のサポートを追加しました。
+[API による](https://developer.adobe.com/marketo-apis/api/asset/)メールやテンプレート、マイトークン、ファイル、スニペットの作成および編集のサポートを追加しました。
 
 ## Microsoft Dynamics 2015 オンプレミス {#microsoft-dynamics-on-premise}
 
@@ -53,4 +53,4 @@ Marketo のリードデータベースにある[リードデータフィール�
 
 ## RTP - メールまたはプログラムキャンペーン名で Web コンテンツをパーソナライズ {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-メールから web へとチャネルをまたいで、リードとの会話を続行します。Marketo のマーケティングアクティビティで使用される[メールキャンペーンまたはプログラム名に基づいて、インバウンドコンテンツをパーソナライズ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)します。
+メールから web へとチャネルをまたいで、リードとの会話を続行します。[電子メールキャンペーンまたはプログラムに基づいてインバウンドコンテンツをパーソナライズする](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Marketoのマーケティングアクティビティで使用される名前。

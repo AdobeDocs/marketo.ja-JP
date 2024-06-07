@@ -4,10 +4,10 @@ description: リリースノート - 2013 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2013 年 10 月
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[developers.marketo.com](https://developers.marketo.com) は、Marketo への統合を構築する開発者を対象にしています。Munchkin JavaScript API や SOAP API のサンプルコード、Webhook、メールスクリプトを含む様々な統合オプションを参照できます。また [GitHub](https://github.com/Marketo/SOAP-API-Java-Client) では Java SDK もご利用いただけます。
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) は、Marketoに統合を組み込みたい開発者向けです。 Munchkin JavaScript API や SOAP API のサンプルコード、Webhook、メールスクリプトを含む様々な統合オプションを参照できます。また [GitHub](https://github.com/Marketo/SOAP-API-Java-Client) では Java SDK もご利用いただけます。
 
 ## 更新された BrightTALK イベントアダプター {#updated-brighttalk-event-adapter}
 

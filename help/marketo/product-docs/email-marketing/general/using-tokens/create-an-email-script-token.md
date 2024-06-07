@@ -4,10 +4,10 @@ description: メールスクリプトトークンを作成する — Marketo ド
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 99%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
 1. Velocity でスクリプトを作成します。以下に、役立つリソースを示します。
 
-   * [Marketo 開発者向けメールスクリプティングのドキュメント](https://developers.marketo.com/email-scripting/)
+   * [Marketo 開発者向けメールスクリプティングのドキュメント](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity ユーザーガイド](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity ツール Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

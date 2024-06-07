@@ -4,10 +4,10 @@ description: リリースノート - 2014年10月 - Marketo ドキュメント -
 title: リリースノート - 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 100%
+source-wordcount: '271'
+ht-degree: 93%
 
 ---
 
@@ -30,7 +30,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 * アクティビティタイプの取得
 * ページトークンの取得
 
-詳細は、リリース後に [developers.marketo.com](https://developers.marketo.com/documentation/rest/) で確認できます。
+詳細は、リリース後の次の場所で確認できます [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Microsoft Dynamics への Marketo メールの送信 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Dynamics から商談の株主データを同期します。また、「プラ�
 * 関心のある製品
 * 閲覧した RTP キャンペーンの内容
 
-詳しくは、[developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) を参照してください。
+訪問 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) を参照してください。

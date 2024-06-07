@@ -3,10 +3,10 @@ description: Marketo Engage 用語集 - Marketo ドキュメント - 製品ド�
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
-ht-degree: 100%
+source-wordcount: '4083'
+ht-degree: 99%
 
 ---
 
@@ -67,7 +67,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td>フォームに入力したことも web サイトに詳細を残したこともない web 訪問者。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">アプリケーションプログラミングインターフェイス</a>（API）</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">アプリケーションプログラミングインターフェイス</a>（API）</strong></td> 
    <td colspan="1">オペレーティングシステムやアプリケーション（この場合、Marketo）で単一の機能または大量の機能を実行するために使用される、事前定義されたプロトコルのセット。</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
-   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://developers.marketo.com/" rel="nofollow">デベロッパー</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
+   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">デベロッパー</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポート、適合（DMARC）</strong></td> 
@@ -443,7 +443,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>認識済み担当者</strong></a></td> 
-   <td><p>Marketo <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。任意のユーザがあなたのデータベースに入るには、CRM 同期、フォームへの入力、リストのインポート／手動入力、プログラム上（REST API／パートナー統合）など、様々な方法があります。Web 訪問者は、最初は Marketo の <strong>Munchkin</strong> web トラッキングによって <strong>Cookie が使用され</strong>（および匿名で）、その後、識別可能なアクション（例：Marketo メール内のトラッキング用リンクをクリックした、メールアドレスを使用してフォームに入力した、または <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> および <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">REST API</a> の両方で Marketo 関連リード API を使用して手動でマッピングされた）が発生すると、対応する既知の人物レコードにマッピングされます。</p></td> 
+   <td><p>Marketo <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。任意のユーザがあなたのデータベースに入るには、CRM 同期、フォームへの入力、リストのインポート／手動入力、プログラム上（REST API／パートナー統合）など、様々な方法があります。Web 訪問者は、最初は Marketo の <strong>Munchkin</strong> web トラッキングによって <strong>Cookie が使用され</strong>（および匿名で）、その後、識別可能なアクション（例：Marketo メール内のトラッキング用リンクをクリックした、メールアドレスを使用してフォームに入力した、または <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> および <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">REST API</a> の両方で Marketo 関連リード API を使用して手動でマッピングされた）が発生すると、対応する既知の人物レコードにマッピングされます。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td>MSD とも呼ばれます。Marketo がネイティブ統合している 2 つの CRM のうちの 1 つ（<a href="#c"><strong>CRM</strong></a> を参照）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo のカスタム JavaScript トラッキングコード。Web サイトを訪問するすべての個人をトラッキングします。これには、匿名の訪問者（および IP アドレスやその他の情報）が含まれます。 </td> 
   </tr> 
   <tr> 

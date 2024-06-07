@@ -4,10 +4,10 @@ description: リリースノート - 2017 年秋 - Marketo ドキュメント - 
 title: リリースノート - 2017 年秋
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 100%
+source-wordcount: '588'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ Marketo と Salesforce の豊富で高速な同期を活用できます。顧客
 
 >[!NOTE]
 >
->メールやエンゲージメントプログラムで受信者タイムゾーンを有効にできない場合は、パニックを起こす必要はありません。この機能は、すべてのお客様に対して徐々に有効化されています。
+>メールプログラムやエンゲージメントプログラムで受信者のタイムゾーンをまだ有効にできない場合は、慌てないでください。 すべてのお客様に対して、徐々にこの機能を有効にしています。
 
 ## [セグメント別サンプルメールのレビュー](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -62,7 +62,7 @@ Marketo ABM が連絡先のない CRM アカウントを同期し、表示する
 
 ## ContentAI 分析 {#contentai-analytics}
 
-**[新しい ABM アカウントリストフィルタ](https://docs.marketo.com/x/1BPG)**
+**[新規 ABM アカウントリストフィルター](https://docs.marketo.com/x/1BPG)**
 
 ABM アカウントリスト全体でコンテンツのパフォーマンスを表示および比較して、既存のコンテンツを最適化します。ContentAI には次の情報が表示されます。
 
@@ -86,10 +86,10 @@ Marketo 内の複数のチャネルでクリエイティブアセットと画像
 
 ## 統合  {#integration}
 
-**[メールプレビュー API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[メールプレビュー API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 メールを Marketo 外でリモートでプレビューできるようになり、メールコンテンツのローカライゼーションのプロセスが簡単になり、エラーを減らすことができます。
 
-**[HTML API の置換](https://developers.marketo.com/rest-api/assets/emails/)**
+**[HTML API の置換](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 デベロッパーは、メール HTML のアセットコンテンツをリモートで更新でき、1 つのシステム内で作業してアセットを管理できます。

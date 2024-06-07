@@ -4,10 +4,10 @@ description: リリースノート - 19 年冬 - Marketo ドキュメント - �
 title: リリースノート - 19 年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
-ht-degree: 100%
+source-wordcount: '1079'
+ht-degree: 96%
 
 ---
 
@@ -40,7 +40,7 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 * **アセット API のマルチブランディングドメインサポート**：アセットの承認と複製により、API と UI 内で同じ結果が得られます。
 * **アセット API のメール CC サポート**：API を使用したメールの複製、承認、処理をおこなうユーザーは、UI 設定と同等の性能を維持します。
 
-**[Munchkin v155（ベータ版）](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155（ベータ版）](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **API のみのモード**：Marketo の自動追跡に頼るのではなく、単一ページの Web アプリが Web ページへのアクセスを記録するときに明示的に呼び出すことができるようにすることで、データベースのメンバーをいつどのように追跡するかを決定できるようになりました。
 * **オプトアウト管理**：オプトアウト Cookie ドメインを Munchkin トラッキング Cookie ドメインと照合することで、オプトアウトを簡単に管理できます。
@@ -103,10 +103,9 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 **Android 向けのソフトウェア開発キット（SDK）を更新しました**
 
-Android 向け SDK を、より柔軟性と新しいエンジニアリング機能を含む、より新しく、安定した、拡張性の高いフレームワークに更新しました。この新しい SDK では、Android アプリデベロッパーが Google の [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)（FCM）を直接使用できるようになりました。
+Android 用の SDK を、より柔軟性が高く新しいエンジニアリング機能を備えた、より現代的で安定したスケーラブルなフレームワークに更新しました。 Android アプリの開発者は、Googleを直接使用できるようになりました [Firebase Cloud Messages](https://firebase.google.com/docs/cloud-messaging/) （FCM）と、この新しい SDK。
 
-* [デベロッパー向けの手順](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [デベロッパー向け FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [開発者向け手順]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
 
 >[!NOTE]
 >

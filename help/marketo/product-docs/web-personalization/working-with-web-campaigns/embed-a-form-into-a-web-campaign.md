@@ -4,10 +4,10 @@ description: Web キャンペーンにフォームを埋め込む — Marketo �
 title: Web キャンペーンにフォームを埋め込む
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '333'
+ht-degree: 99%
 
 ---
 
@@ -85,4 +85,4 @@ Web キャンペーン（ダイアログ、ゾーン内、ウィジェット）�
 >
 >* [フォームテーマの CSS の編集](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [フォローアップのランディングページなしで感謝メッセージを表示する](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [フォーム 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [フォーム 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

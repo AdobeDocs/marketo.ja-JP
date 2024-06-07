@@ -4,10 +4,10 @@ description: 匿名アクティビティとリードのトラッキング - Mark
 title: 匿名アクティビティとリードのトラッキング
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '221'
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ Marketo の[ランディングページ](/help/marketo/product-docs/demand-gener
 
    * [Marketo メール内のリンク](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)をクリックしたとき。
    * Marketo の[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)に入力したとき。
-   * [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) または [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API（開発者向け）を使用して、匿名のアクティビティを既知のレコードに関連付けたとき。
+   * [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) または [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API（開発者向け）を使用して、匿名のアクティビティを既知のレコードに関連付けたとき。
 
    異なるデバイスやブラウザーからサイトにアクセスされることが多いので、データベース内の 1 つの名前が多くの cookie に関連付けられる場合があります。
 

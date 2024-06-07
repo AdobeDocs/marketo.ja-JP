@@ -4,10 +4,10 @@ description: リリースノート - 2017 年春 - Marketo ドキュメント - 
 title: リリースノート - 2017 年春
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 100%
+source-wordcount: '659'
+ht-degree: 92%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [LinkedIn リードジェネレーションフォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn リードジェネレーションフォーム](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)は、ビジネスが LinkedIn でリードジェネレーションキャンペーンを実行する、より直接的な方法です。リードが製品やサービスに対する関心を表すフォームに入力し、ビジネスは個人の詳細を取得し、Marketo に同期できます。この場合、自動フォローアッププロセスやリードルーティングアクティビティが発生します。
+[LinkedIn リードジェネレーションフォーム](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)は、ビジネスが LinkedIn でリードジェネレーションキャンペーンを実行する、より直接的な方法です。ユーザーがフォームに入力して、商品やサービスに対する興味を示し、ビジネスがそのユーザーの詳細を取り込んでMarketoに同期できるようにすると、自動フォローアッププロセスやリードのルーティングアクティビティが発生する可能性があります。
 
 Marketo と LinkedIn リードジェネレーションフォームの統合により、リードがリード生成フォーム内で提供した情報が自動的に取り込まれます。その後、フォローアップのアクションと通知を、新しい **LinkedIn リード生成フォームに入力**&#x200B;トリガーとフィルターを使用して自動化できます。
 
@@ -35,7 +35,7 @@ Sales Insight で古いテンプレートをクリーンアップする必要が
 
 ![](assets/four-281-29.png)
 
-## [リードとアクティビティを API で一括抽出](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [リードとアクティビティを API で一括抽出](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Marketo から外部システムに、大量のリードおよびアクティビティデータを簡単に転送できます。
 
@@ -49,7 +49,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 重点顧客のスコアは大きく異なる場合があります。Marketo ABM は各スコアのパーセンタイルを自動的に計算するようになり、重点顧客に対する各重点顧客のランク付けを一目で確認できます。
 
-**[ABM 顧客リスト API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM 顧客リスト API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 重点顧客用に強化された API サポートを備えた豊富で堅牢な ABM パートナー統合を活用してください。
 
@@ -67,7 +67,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[エグジットインテント後の web キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-訪問者がページを閉じる前に、訪問者の注意を引きます。訪問者がページを離れることを示すマウスジェスチャーが発生した場合にのみ表示するようにパーソナライズした web キャンペーンを設定します。
+訪問者がページを閉じる前に、その訪問者の注意を引きます。 訪問者がページを離れることを示すマウスジェスチャーが発生した場合にのみ表示するようにパーソナライズした web キャンペーンを設定します。
 
 **[ウェブキャンペーン用アニメーション効果](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 

@@ -4,10 +4,10 @@ description: リリースノート - 2016年秋 - Marketo ドキュメント - �
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 100%
+source-wordcount: '661'
+ht-degree: 99%
 
 ---
 
@@ -53,7 +53,7 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 **REST API**
 
-また、このリリースでは、Marketo REST API を使用して、ABM で重点顧客属性とアカウントスコアを管理することもできます。API 操作の詳細については、[Marketo 開発者 web サイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)にアクセスしてください。
+また、このリリースでは、Marketo REST API を使用して、ABM で重点顧客属性とアカウントスコアを管理することもできます。API 操作の詳細については、[Marketo 開発者 web サイト](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts)にアクセスしてください。
 
 ## [監査証跡の強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 Marketo Sales Insight と Salesforce Shield 暗号化に互換性があるようになりました。Sales Insight を使用中の顧客は、[Appexchange で利用可能](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)な最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
 
-## [重点顧客 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [重点顧客 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 このリリースでは、Marketo ABM ユーザは重点顧客 API を介して重点顧客を管理できます。重点顧客の作成、更新、削除、ABM 重点顧客スコアの読み取りと更新が可能です。
 
-## [メールエディター v2.0 API のサポート](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [メールエディター v2.0 API のサポート](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Marketo REST API を使用して、v2.0 形式のメールの変数とモジュールを管理します。
 

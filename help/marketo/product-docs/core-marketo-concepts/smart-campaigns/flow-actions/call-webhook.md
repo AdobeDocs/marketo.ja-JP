@@ -4,10 +4,10 @@ description: Web フックの呼び出し - Marketo ドキュメント - 製品�
 title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 75%
 
 ---
 
@@ -25,11 +25,11 @@ Web フックを使用すると、サードパーティのサービスとやり�
 
 >[!NOTE]
 >
->[Web フック](https://developers.marketo.com/documentation/webhooks/)を使用して素晴らしい事ができるようになります。{target="_blank"}
+>の魅力的な多くのことを学ぶ [Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} あなたのために行うことができます。
 
 ## 使用方法 {#usage}
 
-ドロップダウンから web フックを選択します。
+ドロップダウンから Webhook を選択します。
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 

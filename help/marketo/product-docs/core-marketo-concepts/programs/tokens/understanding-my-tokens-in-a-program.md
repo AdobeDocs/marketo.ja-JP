@@ -4,10 +4,10 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>メールスクリプト <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>このトークンを使用して、メールで Velocity スクリプトを実行します。詳細は<a href="https://developers.marketo.com/documentation/email-scripting/" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td> 
+   <td>このトークンを使用して、メールで Velocity スクリプトを実行します。詳細は<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td> 
   </tr> 
   <tr> 
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 

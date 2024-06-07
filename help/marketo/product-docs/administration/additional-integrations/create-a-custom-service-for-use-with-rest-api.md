@@ -4,10 +4,10 @@ description: ReST API で使用するカスタムサービスの作成 - Marketo
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 >[!TIP]
 >
->[ReST API](https://developers.marketo.com/documentation/rest/) について詳しくは、開発者向けドキュメントを参照してください。必要に応じて、[SOAP API](https://developers.marketo.com/documentation/soap/) も用意しています。
+>の詳細については、開発者向けのドキュメントをご覧ください。 [REST API](https://developer.adobe.com/marketo-apis/). 必要に応じて、[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) も用意しています。
 
 ## カスタムサービスの作成 {#create-custom-service}
 

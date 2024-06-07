@@ -4,10 +4,10 @@ description: リリースノート - 2015 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2015 年 1 月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 100%
+source-wordcount: '356'
+ht-degree: 92%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * プログラム ID でリードを取得
 * 削除済みリードの取得
 
-また、「リードを同期」には、より高速な API 呼び出しでリード変更を非同期で書き込む新しいオプションが追加されました。詳細は、リリース後に [developers.marketo.com](https://developers.marketo.com) で確認できます
+また、「リードを同期」には、より高速な API 呼び出しでリード変更を非同期で書き込む新しいオプションが追加されました。詳細は、リリース後の次の場所で確認できます [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **メールスクリプトのカスタムオブジェクトサポート**
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 重点顧客モジュールの機能強化により、ユーザーの一致率と検証が向上します。次の追加が含まれます。
 
-* リードのメールアドレスを使用してアカウントリストから組織を照合（RTP のみの顧客も対象）
+* リードのメールアドレスを使用して、指定顧客リストの組織と照合する（RTP のみの顧客の場合も同様）
 * 顧客あたり最大 100,000 件のレコードをサポート
 * 表示およびダウンロードする CSV ファイルテンプレート
 
@@ -62,6 +62,6 @@ ht-degree: 100%
 1. CDN を使用しない非同期タグ
 1. CDN を使用しない同期タグ
 
-最高のパフォーマンスを得るには、web ページのヘッダーの上部の、`<head>` の後にタグを配置することをお勧めします。すべてのタグで [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/) を使用することができます。RTP タグの配備方法については、[こちら](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)を参照してください。
+最高のパフォーマンスを得るには、web ページのヘッダーの上部の、`<head>` の後にタグを配置することをお勧めします。すべてのタグで [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) を使用することができます。RTP タグの配備方法については、[こちら](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)を参照してください。
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

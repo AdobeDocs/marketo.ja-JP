@@ -3,10 +3,10 @@ description: キャンペーンの実行 - Marketo ドキュメント - 製品�
 title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 97%
+source-wordcount: '706'
+ht-degree: 96%
 
 ---
 
@@ -60,7 +60,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 **API インタラクション**
 
-[API ](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)のスケジュールまたはリクエストキャンペーンを使用する場合、どちらでも、呼び出し元のキャンペーンで設定されたトークンの値を上書きするマイトークンの値を渡すことができます。その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
+[API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)のスケジュールまたはリクエストキャンペーンを使用する場合、どちらでも、呼び出し元のキャンペーンで設定されたトークンの値を上書きするマイトークンの値を渡すことができます。その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
 
 ## 注意事項 {#things-to-note}
 
@@ -101,9 +101,9 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 ![](assets/execute-campaign-7.png)
 
-### 例 2 - False {#example-two-false}
+### 例 2:False {#example-two-false}
 
-2 つ目の親キャンペーンのキャンペーンフローの実行ステップで、「親キャンペーントークンのコンテキストを使用」がに設定されています。 **False**.
+2 つ目の親キャンペーンのキャンペーンフローを実行手順で、「親キャンペーントークンコンテキストを使用」が次のように設定されます **False**.
 
 ![](assets/execute-campaign-8.png)
 

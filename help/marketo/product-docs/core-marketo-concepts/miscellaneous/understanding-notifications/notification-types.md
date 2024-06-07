@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 通知のタイプ - Marketo ドキュメント - 製品ドキュメント
 title: 通知のタイプ
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 78%
+source-wordcount: '237'
+ht-degree: 77%
 
 ---
 
@@ -36,13 +36,13 @@ Salesforce を使用する場合、同期エラー通知は次のようになり
 
 ## エンゲージメント {#engagement}
 
-ストリームで顧客が消費されると、通知を送信します。 通知には、消費済みになった人の数やその他の情報が含まれます。
+ストリームの中で人が疲れ果てたら、通知を送信します。 通知には、疲れ果てた人の数やその他の情報が含まれます。
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
 ## Facebook {#facebook}
 
-利用規約に同意せずにFacebookに人を送信しようとする場合、またはMarketoアプリの削除後にFacebookに人を送ろうとする場合。
+サービス利用規約に同意せずにFacebookにユーザーを送ろうとした場合、またはMarketo アプリを削除した後にFacebookにユーザーを送ろうとした場合。
 
 ## アイドルトリガーキャンペーンクリーンアップ {#idle-trigger-campaign-cleanup}
 
@@ -60,4 +60,4 @@ Salesforce を使用する場合、同期エラー通知は次のようになり
 
 >[!NOTE]
 >
->受け取る可能性のあるエラーコードの一部は、アドビの[デベロッパー向けドキュメント](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)で説明されています。
+>受け取る可能性のあるエラーコードの一部は、アドビの[デベロッパー向けドキュメント](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)で説明されています。

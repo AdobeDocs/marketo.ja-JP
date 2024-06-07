@@ -3,16 +3,16 @@ description: Adobe Experience Platform セグメントの Marketo 静的リス�
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '658'
-ht-degree: 79%
+ht-degree: 78%
 
 ---
 
 # Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-この機能を使用すると、Adobe Experience Platformにあるセグメントを静的リストの形式のMarketo Engageにプッシュできます。
+この機能を使用すると、Adobe Experience Platform内のセグメントを静的リストの形式でMarketo Engageにプッシュできます。
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 79%
 >* **[!UICONTROL 管理者]**／**[!UICONTROL Launchpoint]** に移動します。作成したロールの名前を探し、「**[!UICONTROL 詳細を表示]**」をクリックします。手順 7 で必要になるため、**[!UICONTROL クライアント ID]** と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 
-1. にログインします。 [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
+1. へのログイン [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
@@ -58,7 +58,7 @@ ht-degree: 79%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 宛先の&#x200B;**[!UICONTROL 名前]**&#x200B;とオプションの説明を入力します。「人物の作成」ドロップダウンをクリックし、「既存のMarketoの人物を照合」および「Marketoで見つからない人物を作成」を選択します。 _または_ 「既存のMarketoのユーザーのみに一致」（この例では、前者を選択します）。 また、 **[!UICONTROL Workspace]**.
+1. 宛先の&#x200B;**[!UICONTROL 名前]**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存のMarketoの人物を一致させて、Marketoで不足している人物を作成する」を選択します _または_ 「既存のMarketoユーザーのみを一致させる」（この例では、前者を選択しています）。 また、を選択する必要があります **[!UICONTROL ワークスペース]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,13 +94,13 @@ ht-degree: 79%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 目的の属性を選択し、 **[!UICONTROL 選択]**. この例では、名、姓、E メールアドレスを選択します。
+1. 目的の属性を選択し、 **[!UICONTROL を選択]**. この例では、名、姓およびメールアドレスを選択しています。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
    >[!NOTE]
    >
-   >Experience Platformの属性を、組織がアクセスできる任意の属性にMarketo Engageでマッピングできます。 以下を使用します。 [API リクエストの説明](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} ：組織がアクセスできる属性フィールドを取得します。
+   >Experience Platformの属性を、Marketo Engageがアクセスできる任意の属性にマッピングできます。 の使用 [API リクエストの説明](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} 組織がアクセスできる属性フィールドを取得します。
 
 1. 姓と会社名に対しても、「**[!UICONTROL 新しいマッピングを追加]**」を再度クリックし、**[!UICONTROL lastName]** と **[!UICONTROL companyName]**.を選択して、手順 15 を 2 回繰り返します。
 
@@ -114,7 +114,7 @@ ht-degree: 79%
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. 「ID 名前空間を選択」ラジオボタンをクリックし、「**[!UICONTROL 電子メール]**」を選択し、「**[!UICONTROL 選択]**」をクリックします。
+1. 「ID 名前空間を選択」ラジオボタンをクリックし、次を選択します **[!UICONTROL 電子メール]**&#x200B;を選択し、 **[!UICONTROL を選択]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
@@ -146,6 +146,6 @@ ht-degree: 79%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 変更を確認し、「 **[!UICONTROL 完了]**.
+1. 変更内容を確認し、 **[!UICONTROL 終了]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

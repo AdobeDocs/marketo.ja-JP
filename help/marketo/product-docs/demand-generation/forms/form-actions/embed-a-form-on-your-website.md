@@ -4,10 +4,10 @@ description: Web サイトへのフォームの埋め込み — Marketo ドキ�
 title: Web サイトへのフォームの埋め込み
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 99%
 
 ---
 
@@ -47,6 +47,6 @@ Marketo を使用すると、アドビのフォームを独自の Web サイト�
 
 >[!NOTE]
 >
->デベロッパーが外観をカスタマイズしたり、高度な API 関数にアクセスしたりしたい場合は、[Forms 2.0 のデベロッパー向けページ](https://developers.marketo.com/documentation/websites/forms-2-0/)について知らせてください。
+>デベロッパーが外観をカスタマイズしたり、高度な API 関数にアクセスしたりしたい場合は、[Forms 2.0 のデベロッパー向けページ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)について知らせてください。
 
 完成です。[埋め込みコードに Lightbox コードを含む](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)のも簡単です。

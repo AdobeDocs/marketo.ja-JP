@@ -4,10 +4,10 @@ description: リリースノート - 2018 年春 - Marketo ドキュメント - 
 title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
-workflow-type: ht
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+workflow-type: tm+mt
 source-wordcount: '466'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -77,12 +77,12 @@ ContentAI 最適化アルゴリズムの目標を設定して、より多くの�
 
 ## 統合と API {#integration-and-apis}
 
-[静的リスト API](https://developers.marketo.com/rest-api/assets/static-lists/)
+[静的リスト API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Marketo UI での操作を必要とせずに、静的リストの作成、読み取り、更新、削除をリモートでおこなう新しい双方向 API を使用して、Marketo と他のシステム間のリストをより簡単に管理できます。
 
 ## プライバシーの強化 {#privacy-enhancements}
 
-[Web 追跡プライバシー](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Web 追跡プライバシー](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Munchkin のトラッキング機能が強化され、Web 訪問者の IP アドレスを匿名化し、Web トラッキングを永続的にオプトアウトできるようにすることで、地域および国際的なプライバシー規制に準拠します。

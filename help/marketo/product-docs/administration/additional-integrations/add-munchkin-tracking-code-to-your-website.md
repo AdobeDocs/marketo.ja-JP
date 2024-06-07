@@ -4,10 +4,10 @@ description: "Web サイトへの  [!DNL Munchkin]  トラッキングコード�
 title: "Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
-workflow-type: ht
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -59,7 +59,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
    >[!TIP]
    >
-   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}
+   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}
 
 ## 複数のワークスペースを使用する場合のトラッキングコードの追加 {#add-tracking-code-when-using-multiple-workspaces}
 

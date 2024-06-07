@@ -4,10 +4,10 @@ description: Web リッチメディアの予測コンテンツを有効にする
 title: Web リッチメディアの予測コンテンツを有効にする
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 95%
+source-wordcount: '307'
+ht-degree: 91%
 
 ---
 
@@ -47,7 +47,7 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 
 ## JavaScript コードのカスタマイズと web サイトへの埋め込み  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-リッチメディアレコメンデーションテンプレートのドキュメントを参照してください。 [( Marketo Developers サイト )](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
+リッチメディアレコメンデーションテンプレートのドキュメントを参照してください [Marketo Developers サイト](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. ここでは、web サイト用にテンプレートをカスタマイズする方法を説明します。
 
 Web サイトでテンプレートを表示したい場所に JavaScript コードを貼り付けます。
 

@@ -4,10 +4,10 @@ description: プッシュ通知とアプリ内メッセージを作成する前�
 title: プッシュ通知およびアプリ内メッセージを作成する前に
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 100%
+source-wordcount: '336'
+ht-degree: 98%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 
 1. Marketo 管理者が[コードスニペットをデベロッパーに送信](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)します。
 
-1. デベロッパーが、SDK をダウンロードし、[Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) または [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/) 用のスニペットと他のメソッドを含めます。
+1. デベロッパーが、SDK をダウンロードし、[Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) または [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios) 用のスニペットと他のメソッドを含めます。
 
 1. デフォルトでは、アプリを開いたときにアプリ内メッセージがトリガーされます。特定のページが表示されたり、特定のボタンが押されたりした場合など、他のイベントに関するメッセージをトリガーするには、デベロッパーがカスタムイベントをコードに追加する必要があります（[アプリ内メッセージのカスタムイベント](#CustomEvents)を参照）。
 
-1. デベロッパーは、[Server API キーとプロジェクト番号](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/)（Android）または[証明書とパスワード](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)（iOS）を生成し、Marketo 管理者に送信します。
+1. デベロッパーは、[Server API キーとプロジェクト番号](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)（Android）または[証明書とパスワード](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)（iOS）を生成し、Marketo 管理者に送信します。
 
 1. Marketo 管理者が [Server API キー（Android）](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) または[証明書（iOS）](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)を使用してプッシュ通知アクセスを設定します。
 

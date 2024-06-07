@@ -2,10 +2,11 @@
 description: リリースノート - 2024 年 4 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2024 年 4 月
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 90%
+source-wordcount: '447'
+ht-degree: 78%
 
 ---
 
@@ -74,7 +75,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **アクティビティ API の更新**：4月26日（PT）に、[Marketo REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを使用してアクティビティを取得し、各アクティビティの属性の詳細を確認すると返される、web ベースおよびメールベースのアクティビティにいくつかの新しい属性を追加します。
+* **アクティビティ API の更新**: 4 月 26 日（PT）に、 [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. 以下にリストされるアクティビティに、ブラウザー、プラットフォーム、デバイスおよびユーザーエージェント属性が含まれるようになりました。 を呼び出します [アクティビティタイプの取得](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} 各アクティビティの属性の詳細を確認するエンドポイント。
 
 **Web ベースのアクティビティ**
 

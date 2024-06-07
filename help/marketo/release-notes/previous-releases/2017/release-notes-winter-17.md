@@ -4,7 +4,7 @@ description: リリースノート - 17年冬 - Marketo ドキュメント - 製
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 91%
@@ -27,7 +27,7 @@ ht-degree: 91%
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクト読み込み API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [カスタムオブジェクト読み込み API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
@@ -67,13 +67,13 @@ ht-degree: 91%
 
 **[ソース別に分析をフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（メール、リッチメディア、レコメンデーションバー）に対して予測コンテンツ分析をフィルタリングします。
+特定のソース（メール、リッチメディア、レコメンデーションバー）の予測コンテンツ分析をフィルタリングします。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **予測コンテンツエディター**
 
-編集エクスペリエンスとレイアウトが改善され、ソース別にコンテンツの準備（電子メール、リッチメディア、レコメンデーションバー）を分割できるようになりました。
+メール、リッチメディア、レコメンデーションバーなどのソース別にコンテンツ準備を分割し、編集エクスペリエンスとレイアウトを改善しました。
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,7 +81,7 @@ ht-degree: 91%
 
 コンテンツの自動検出プロセスで、画像 URL とメタデータが使用されるようになりました。
 
-## [SDK の強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK の強化](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 

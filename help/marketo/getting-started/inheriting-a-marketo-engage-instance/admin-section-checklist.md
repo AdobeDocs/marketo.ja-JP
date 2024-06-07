@@ -3,7 +3,7 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 97%
@@ -281,7 +281,7 @@ ht-degree: 97%
    <td>Munchkin</td> 
    <td><li>Web サイト（Marketo Engage ランディングページ以外）に <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a>は設置されていますか？</li>
 <li>「<a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">トラックしない</a>」ブラウザーリクエストは有効になっていますか？</li>
-<li><a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> は設定されていますか？ 
+<li><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a> は設定されていますか？ 
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：Web サイト上の Munchkin コードの場所に関するドキュメントが見つからない場合は、<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">web ページアクティビティレポート</a>を作成することですべての URL を表示できます。</li></td>
   </tr>
   <tr> 

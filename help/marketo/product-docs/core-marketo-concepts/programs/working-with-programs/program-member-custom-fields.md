@@ -4,10 +4,10 @@ description: プログラムメンバーカスタムフィールド - Marketo �
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 100%
+source-wordcount: '416'
+ht-degree: 97%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 ## トリガーとフィルター {#triggers-and-filters}
 
-このプログラム固有のデータは、[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}を使ってスマートリストで活用することができます。
+このプログラム固有のデータは、[トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}や[フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}を使ってスマートリストで活用することができます。
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 * プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 * プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
-* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)と {target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} によるインポートとエクスポートが可能です。エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
+* 経由での読み込みと書き出し [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} および [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} サポートされています。 エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
 * 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 * 「プログラムメンバー情報」フィールドでは、タイプの変更は許可されていません。
 * 「次を含む」スマートリスト制約は、プログラムメンバーのカスタムフィールドではサポートされていません。
