@@ -4,16 +4,16 @@ title: インタラクティブウェビナーのテンプレート
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 40%
+source-wordcount: '67'
+ht-degree: 25%
 
 ---
 
 # インタラクティブウェビナーのテンプレート {#templates-for-interactive-webinars}
 
-テキスト
+インタラクティブウェビナーで使いやすいテンプレートを作成して、コンテンツをより迅速に作成したり、チームで作業する際にブランドガイドラインに従ったりします。
 
 ## テンプレートの作成 {#create-a-template}
 
@@ -25,7 +25,7 @@ ht-degree: 40%
 
 スクリーンショット
 
-1. クリック [!UICONTROL テンプレートの管理].
+1. クリック **[!UICONTROL テンプレートの管理]**.
 
 スクリーンショット
 
