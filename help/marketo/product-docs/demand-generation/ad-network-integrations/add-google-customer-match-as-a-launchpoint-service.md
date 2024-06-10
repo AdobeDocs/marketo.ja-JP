@@ -4,9 +4,9 @@ description: Google カスタマーマッチを LaunchPoint サービスとし�
 title: Google カスタマーマッチを LaunchPoint サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
-workflow-type: ht
-source-wordcount: '226'
+source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
+workflow-type: tm+mt
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 100%
 # Google カスタマーマッチを LaunchPoint サービスとして追加 {#add-google-customer-match-as-a-launchpoint-service}
 
 この統合により、Marketo Engage オーディエンスを Google に送信し、Google AdWords を使用してターゲットを設定したり、YouTube、検索、Gmail 全体でオーディエンスを再ターゲットしたりすることができます。
-
->[!IMPORTANT]
->
->Google Ads API の最近のアップデートにより、アドビと Google の間の同期機能が一時的に無効になっています。アドビは、現在、このアップデートに関連する Google の要件を確認中です。
 
 >[!NOTE]
 >
