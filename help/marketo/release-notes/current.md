@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
-workflow-type: ht
-source-wordcount: '280'
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+workflow-type: tm+mt
+source-wordcount: '277'
 ht-degree: 100%
 
 ---
@@ -33,8 +33,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong>インタラクティブウェビナー用のテンプレート</strong>：マーケターは、インタラクティブウェビナーの部屋レイアウトのカスタムテンプレートを作成できるようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">テンプレート</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong>フォームで推測されるフィールド</strong>：以前の web アクティビティがない状態でフォーム入力によってユーザを作成する場合に、推測されるフィールドにデータを入力するために、他のユーザコレクションメソッドと同じデータソースを使用するように更新されました。推測されるフィールドデータは、すべてのコレクションポイントにわたって一貫性を持つようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
  </tbody> 
 </table>
