@@ -4,7 +4,7 @@ description: メールテンプレート選択ツールの概要 - Marketo ド�
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 [メールの作成時](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)に選択できる無料テンプレートはいくつかあります。独自のテンプレートを作成し、後で使用するために保存することもできます。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **名前**&#x200B;は、テンプレート自体ではなく、テンプレートに基づいて作成するメールの名前です。**説明**&#x200B;はメールにも適用され、オプションです。
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 「**スターターテンプレート**」には、すぐに使えるレスポンシブメールテンプレートのコレクションが含まれています。そのまま使用することも、好みに合わせてカスタマイズすることもできます。
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **マイテンプレート**&#x200B;は、作成したすべてのテンプレートで構成されます。また、フォルダーを持つこともできます。
 
