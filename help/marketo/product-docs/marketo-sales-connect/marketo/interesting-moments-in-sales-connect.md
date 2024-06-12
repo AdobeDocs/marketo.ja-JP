@@ -4,10 +4,10 @@ description: Sales Connect での注目のアクション - Marketo ドキュメ
 title: Sales Connect での注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '285'
+ht-degree: 89%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 >[!AVAILABILITY]
 >
 >注目のアクションを使用できるのは、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) と Marketo Sales Connect を契約されたお客様だけです。
+
+>[!PREREQUISITES]
+>
+>* 以下が必要です [salesforce CRM への接続](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Salesforce のリードまたは連絡先所有者である必要があります
+>* 次へのアクセス権が必要です。 [Marketo Engageへのアクセス権の付与](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
