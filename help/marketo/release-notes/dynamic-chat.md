@@ -3,9 +3,9 @@ description: Dynamic Chatリリースノート - Marketo ドキュメント – 
 title: Dynamic Chatリリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対する、よりスケーラブルなアプローチが可能になります。 1 か月に複数のリリースがある場合があるので、定期的に最新の情報を確認してください。
 
 標準のリリースノートページ（Marketo Engage） [詳細はこちら](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024 年 6 月リリース {#june-release}
+
+**リリース日：2024 年 6 月 6 日（PT）**
+
+### 対話型フローカード {#conversational-flow-card}
+
+会話フローカードを活用して、ダイアログ内のフローの複数の手順を合理化します。
+
+例：複数のダイアログを使用してウェビナーの登録を促進することを目標としている場合は、その目標を持つすべてのダイアログで同じフローを再作成する必要があります。 詳細を更新する必要がある場合は、個々のダイアログを 1 つずつ編集する必要があります。 会話フローカードのおかげで、それはもはや当てはまりません。
+
+複数のダイアログ間でのフローの再利用に加えて、同じトランジションフローを使用して、フォームやランディングページなど、他のチャネルを経由したトリガーにも適用できます。
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### 使用の制限 {#usage-limits}
+
+使用制限ページには、パッケージの詳細や使用制限ステータスなどの重要な情報が表示されます。
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## 2024 年 5 月リリース {#may-release}
 
