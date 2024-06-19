@@ -4,9 +4,9 @@ description: 収益エクスプローラレポートの作成 - Marketo ドキ�
 title: 収益エクスプローラレポートの作成
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
+source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 71%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 71%
 
 >[!IMPORTANT]
 >
->収益サイクルエクスプローラーのごみ箱フォルダーは、バグが原因で一時的に非表示になっています。 現在、修正を行っており、ファイルは安全です。 にご連絡ください [Adobeサポート](https://nation.marketo.com/t5/support/ct-p/Support) 復元が必要なファイルがある場合。
+>収益サイクルエクスプローラーのごみ箱フォルダーは、技術的な問題により、一時的に非表示になっています。 現在、修正を行っており、ファイルは安全です。 にご連絡ください [Adobeサポート](https://nation.marketo.com/t5/support/ct-p/Support) 復元が必要なファイルがある場合。
 
 1. **収益エクスプローラ**&#x200B;領域に移動します。
 
