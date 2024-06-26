@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 68962b2cc0132194852da2081b8577f732d4b497
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '9361'
+source-wordcount: '9331'
 ht-degree: 99%
 
 ---
@@ -1604,14 +1604,7 @@ ht-degree: 99%
       + [非ネイティブ MS Dynamics 統合用 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [非ネイティブ Salesforce 統合用 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
-      + [Marketo Sky のロールを有効にする](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
       + [予想される動作](product-docs/marketo-sky/expected-behavior.md)
-      + [予測オーディエンスの概要](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
-      + [モデルの状態とデータの有効性](product-docs/marketo-sky/model-health-and-data-validity.md)
-      + [予測フィルター](product-docs/marketo-sky/predictive-filters.md)
-      + [イベントキャップの設定](product-docs/marketo-sky/setting-an-event-cap.md)
-      + [イベント目標の設定](product-docs/marketo-sky/setting-event-goals.md)
-      + [目標のトラッキングと予測登録について](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + モバイルマーケティング {#mobile-marketing}
       + 管理 {#admin}
          + [モバイルアプリの追加](product-docs/mobile-marketing/admin/add-a-mobile-app.md)

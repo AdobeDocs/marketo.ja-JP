@@ -1,16 +1,16 @@
 ---
 description: ジェネレーティブ AI の概要 – Marketo ドキュメント – 製品ドキュメント
-title: ジェネレーティブ AI の概要
+title: 生成 AI の概要
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 3%
+source-wordcount: '437'
+ht-degree: 10%
 
 ---
 
-# ジェネレーティブ AI の概要 {#generative-ai-overview}
+# 生成 AI の概要 {#generative-ai-overview}
 
 Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナル、ユーザーの好み、過去の行動をリアルタイムで処理し、チャット訪問者向けにパーソナライズされた適切なメッセージを生成します。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナ�
 
 ## 生成応答カード {#generation-response-card}
 
-会話の特定のポイントに到達した訪問者に関するメッセージを作成します。 必要な主要業績評価指標を達成するために、1 回の操作で尋ねることができる質問をいくつか設定します。 最大 5 つのフォローアップ質問を追加し、訪問者の質問に対する応答がない場合はフォールバックメッセージを含めます。
+訪問者が会話の特定の時点に達したときのメッセージを作成します。必要な主要業績評価指標を達成するために、1 回の操作で尋ねることができる質問をいくつか設定します。 最大 5 つのフォローアップ質問を追加し、訪問者の質問に対する応答がない場合はフォールバックメッセージを含めます。
 
 ![](assets/generative-ai-overview-2.png)
 
@@ -76,7 +76,7 @@ Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナ�
 
 **ジェネレーティブ AI はすべてのDynamic Chat ユーザーが利用できますか？**
 
-ジェネレーティブ AI は、Dynamic Chatプライムのサブスクライバーのみが使用できます。
+ジェネレーティブ AI は、Dynamic Chatプライムのサブスクライバーのみが使用できます。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 **生成できる質問と回答の量に制限はありますか？**
 

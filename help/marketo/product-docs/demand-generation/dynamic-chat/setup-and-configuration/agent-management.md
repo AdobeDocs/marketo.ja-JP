@@ -3,10 +3,10 @@ description: Agent Management - Marketo ドキュメント – 製品ドキュ�
 title: エージェント管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 5%
+source-wordcount: '231'
+ht-degree: 9%
 
 ---
 
@@ -29,6 +29,10 @@ Agent Management で、Dynamic Chatインスタンス内のエージェントの
 ## チーム {#teams}
 
 管理者は、エージェントのチームを作成して、特定の販売エージェントのグループへのルーティングを容易にすることができます。
+
+>[!AVAILABILITY]
+>
+>Teams にアクセスするにはDynamic Chatプライムサブスクリプションが必要です。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ![](assets/agent-management-3.png)
 
