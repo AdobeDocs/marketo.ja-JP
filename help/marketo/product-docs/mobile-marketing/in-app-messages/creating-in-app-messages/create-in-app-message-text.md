@@ -4,16 +4,20 @@ description: アプリ内メッセージテキストの作成 - Marketo ドキ�
 title: アプリ内メッセージテキストの作成
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 100%
+source-wordcount: '369'
+ht-degree: 95%
 
 ---
 
 # アプリ内メッセージテキストの作成 {#create-in-app-message-text}
 
 テキスト領域をクリックして、テキストスタイルとコンテンツを操作します。
+
+>[!CAUTION]
+>
+>現時点では絵文字は完全にはサポートされていないため、テキストでは使用しないことをお勧めします。
 
 1. 「メインテキスト」をクリックしてインラインを編集します。
 
