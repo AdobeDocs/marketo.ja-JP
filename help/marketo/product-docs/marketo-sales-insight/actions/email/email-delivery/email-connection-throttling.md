@@ -3,9 +3,9 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 100%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 100%
 Sales Connect アカウントを統合して、Exchange または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信のための合理化された設定とメール配信品質の最適化が可能です。ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## メール接続のスロットリング（ベータ版） {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->この機能は現在ベータ版です。参加するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 メール接続のスロットリングを使用すると、Sales Connect 管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えないように、メールの送信率を設定できます。
 

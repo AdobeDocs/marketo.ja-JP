@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
-workflow-type: ht
-source-wordcount: '1202'
-ht-degree: 100%
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+workflow-type: tm+mt
+source-wordcount: '1279'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,16 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 **既存の Marketo Engage サブスクリプションは、いつ IMS と統合されますか？**
 
 既存の Marketo サブスクリプションは、今年後半に Adobe Identity Management システムに移行されます。Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。
+
+**移行後、Marketo EngageURL は変わりませんか？**
+
+いいえ。URL は移行後に異なって見えます。 ただし、アセットの ID 番号は変わりません。 そして以前に保存されたブックマークはまだ正しい場所に移動する必要があります。
+
+**URL の変更に備えて必要なことはありますか？**
+
+あります。IT チームに問い合わせて、以下にドメイン（アスタリスクを含む）を追加し、すべてのMarketo Engageリソースと Web ソケットを許可していることを確認します。
+
+_*.experience.adobe.com_
 
 **製品管理者とアドビ管理者の違いは何ですか。**
 
