@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 61%
+source-wordcount: '465'
+ht-degree: 47%
 
 ---
 
@@ -32,9 +32,42 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
      <tr> 
+   <td><strong>インタラクティブウェビナーのエンゲージメントダッシュボード</strong>：集計ウェビナーのパフォーマンスビューと、ウェビナー中の各出席者のエンゲージメントに関する包括的なビューを取得して、Marketo Engageオーケストレーションツールを使用してターゲットにするリードを決定できます。</td> 
+    <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>インタラクティブなウェビナーのためのルーム管理</strong>：作成された個々のルームにアクセス（および必要に応じて変更を加える）し、コンテンツおよび記録にアクセス（およびストレージを最適化するために必要に応じて消去）。</td> 
+    <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>インタラクティブウェビナーのウェビナーのカスタマイズ</strong>：共通のルームインターフェイス、中間画面（出席者のエントリ画面背景など）、カスタムビデオ背景を使用して、組織が承認した統一したブランドエクスペリエンスを提供し、ウェビナー戦略がブランド戦略とより簡単に一致できるようにします。</td> 
+    <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Marketo REST API の変更</strong>：に小規模な変更を導入しています <a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a>. 両方 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">ユーザーの参照</a> および <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">ユーザーの削除</a> エンドポイントがサポートされるようになりました <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target アカウント管理</a> ユーザー。</td> 
-   <td><i>近日開始</i></td>
-   <td><i>近日開始</i></td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
  </tbody> 
 </table>
