@@ -4,16 +4,20 @@ description: プログラムでのタグの使用 - Marketo ドキュメント -
 title: プログラムでのタグの使用
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 83%
 
 ---
 
 # プログラムでのタグの使用 {#use-tags-in-a-program}
 
 タグは、プログラムを記述する属性で、レポートでプログラムタイプをグループ化するために使用されます。
+
+>[!NOTE]
+>
+>収益サイクルエクスプローラーを使用する場合、プログラムでレポートを使用できるようにするには、期間コストを（0 の場合でも）定義する必要があります。
 
 ## プログラムでのタグの使用 {#use-a-tag-in-a-program}
 
