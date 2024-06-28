@@ -3,7 +3,7 @@ description: 新しいMarketo Engageインスタンスに取り組む前に、�
 title: ユーザー設定チェックリスト
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
+source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 4%
@@ -32,9 +32,9 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>サブスクリプションおよび Marketo Engage 製品管理者</td>
-    <td><li>Adobe組織システム管理者から「Adobe製品管理者」の役割を付与されていることを確認します。</li>  
+    <td><li>Adobe組織システム管理者から「Adobe製品管理者」の役割を付与されていることを確認します。</li> 
     <ul>
-    <li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>customercare@marketo.com</code> 組織の担当者を確認する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
+    <li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>marketocares@marketo.com</code> 組織の担当者を確認する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
     <li>「Marketo Engage製品管理者」の招待を受け入れて、Adobe IDをアクティブ化します。 この <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">お知らせメール</a> は、Adobe Admin Consoleで役割が割り当てられると送信されます。</li></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ ht-degree: 4%
   <tr>
     <td>購読およびDynamic Chat製品管理者（該当する場合）</td>
     <td><li>Adobe組織システム管理者から「Adobe製品管理者」の役割を付与されていることを確認します。</li> 
-    <ul><li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>customercare@marketo.com</code> 組織の担当者を確認する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
+    <ul><li>Adobeアカウントチーム（担当のアカウントマネージャー）に問い合わせるか、にメールを送信します <code>marketocares@marketo.com</code> 組織の担当者を確認する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> 権限。</li></ul>
     <li>を承認 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">'Dynamic Chat製品管理者'</a> 招待します。 この <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">お知らせメール</a> は、Marketo EngageインスタンスでDynamic Chatが有効になっており、システム管理者に指定されている場合に送信されます。</li></td>
   </tr>
   <tr>
