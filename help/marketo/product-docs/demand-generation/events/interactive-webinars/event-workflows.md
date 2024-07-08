@@ -3,10 +3,10 @@ description: イベントワークフロー - Marketo ドキュメント - 製�
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
-workflow-type: ht
-source-wordcount: '401'
-ht-degree: 100%
+source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 91%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 >[!NOTE]
 >
 >* インタラクティブウェビナーは自動録画されません。ウェビナーが開始したら、ウェビナー名の横にあるドロップダウンをクリックし、「**セッションを録画**」を選択します。
+>* セッションが記録される場合、ホストは手動で記録を終了するか、「すべてのセッションを終了」を選択して記録を停止する必要があります。 それ以外の場合は、最後の出席者が部屋を出てから 10 分以内に録音が自動的に停止します。
 >* MP4 形式で録画をダウンロードできます。
 >* 録画を共有すると、リンクを持っているユーザは誰でも視聴できるので、共有する対象が意図したオーディエンスであることを確認します。
 
