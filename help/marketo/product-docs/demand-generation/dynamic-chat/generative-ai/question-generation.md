@@ -3,9 +3,9 @@ description: 質問の生成 – Marketo ドキュメント – 製品ドキュ�
 title: 質問の生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 2%
    >[!IMPORTANT]
    >
    >Marketo Engageが指定された URL からコンテンツを削除できるようにするには、まず複数の IP アドレスを許可リストに加えるする必要があります。 [詳しくは、以下を参照してください](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >サイト/ページの情報を消去するには、サイト/ページを公開（ログインの後ろに隠さないなど）する必要があります。
 
 1. コンテンツに基づいて、質問と応答の生成には、最大 30 分かかる場合があります。 「**[!UICONTROL OK]**」をクリックします。
 
