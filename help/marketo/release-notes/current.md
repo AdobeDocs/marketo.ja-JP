@@ -3,16 +3,16 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 47%
+ht-degree: 45%
 
 ---
 
 # リリースノート：2024年7月 {#release-notes-july-24}
 
-2024年6月リリースに含まれるすべての機能を以下に示します。機能の可用性については、お使いの Adobe Marketo Engage のエディションをご確認ください。
+以下に、2024 年 7 月リリースに含まれるすべての機能を示します。 機能の可用性については、お使いの Adobe Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
