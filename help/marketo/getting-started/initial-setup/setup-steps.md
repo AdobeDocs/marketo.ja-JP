@@ -1,12 +1,13 @@
 ---
 description: 設定手順 - Marketo ドキュメント - 製品ドキュメント
+short-description: Adobe Marketo Engageを使い始めたばかりでも、 での作業に入る前に完了する必要がある手順を説明します。
 title: 設定手順
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
-ht-degree: 87%
+source-wordcount: '1708'
+ht-degree: 84%
 
 ---
 
@@ -261,7 +262,7 @@ IT チームが作業を完了したら、以下の手順に従ってランデ�
 >
 >[!DNL Launch Pack] をご利用の場合は、この手順をスキップできます。担当のコンサルタントが、IT セットアップ手順ドキュメントに [!DNL Munchkin] コード手順を提供します。
 
-Marketo Engageにカスタムトラッキング JavaScript がある（と呼ばれます） [!DNL Munchkin]を参照）。を使用して、任意の web ページ上の人物アクティビティを追跡できます。 Web サイトを Marketo に統合するには、[!DNL Munchkin] が必要です。以下の手順に従って、[web サイトに  [!DNL Munchkin]  トラッキングコードを追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}します。
+Marketo Engageには、と呼ばれるカスタムトラッキングJavaScriptがあります [!DNL Munchkin]を参照）。を使用して、任意の web ページ上の人物アクティビティを追跡できます。 Web サイトを Marketo に統合するには、[!DNL Munchkin] が必要です。以下の手順に従って、[web サイトに  [!DNL Munchkin]  トラッキングコードを追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}します。
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ Marketo Engageにカスタムトラッキング JavaScript がある（と呼ば
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。それでも、[Marketo Engage 製品説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}にあるいくつかの表の「標準」列で説明されているものと同等のパフォーマンスレベルを期待できます。
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、で示されているいくつかのテーブルの「標準」列で説明されているパフォーマンスレベルと同等のパフォーマンスレベルを期待できます。 [Marketo Engage商品の説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}. 「Performance」列と「Performance Plus」列は、次の項目を提供するパフォーマンス層パッケージを指します [パフォーマンスの向上](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage 用語集 - Marketo ドキュメント - 製品ドキュメント
+short-description: すばやく作業を開始できるように、Marketo Engageの用語とその定義について説明します。
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 99%
 
 ---
