@@ -3,16 +3,16 @@ description: ジェネレーティブ AI の概要 – Marketo ドキュメン�
 title: 生成 AI の概要
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 10%
 
 ---
 
 # 生成 AI の概要 {#generative-ai-overview}
 
-Adobe Dynamic Chatのジェネレーティブ AI は、インテントシグナル、ユーザーの好み、過去の行動をリアルタイムで処理し、チャット訪問者向けにパーソナライズされた適切なメッセージを生成します。
+Adobe Dynamic Chatのジェネレーティブ AI を活用した機能により、営業担当者の生産性を最適化し、Web サイトの訪問者の意図に関するインサイトを得て、訪問者の質問に安全な方法で対応できます。
 
 ## 権限 {#permissions}
 
