@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 0b54d32a388bd5382332b8f8f3ff73a7dc9a3ce6
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '9339'
 ht-degree: 99%
@@ -292,7 +292,7 @@ ht-degree: 99%
             + [フィールドへのデータ追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Webhook の呼び出し](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [データ値の変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
-            + [フィールド値のクリア](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
+            + [フィールド値のクリア](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [リードパーティションの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [売上高ステージの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
             + [スコアの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)

@@ -4,7 +4,7 @@ description: フィールドへのデータ追加 - Marketo ドキュメント -
 title: フィールドへのデータ追加
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -25,18 +25,18 @@ ht-degree: 100%
 
 1. 「**[!UICONTROL フロー]**」タブで「**[!UICONTROL データ値の変更]**」フローステップにドラッグします。
 
-   ![](assets/image2014-9-22-16-3a5-3a1.png)
+   ![](assets/append-data-to-a-field-1.png)
 
 1. データを追加するフィールドを見つけて選択します。
 
-   ![](assets/image2014-9-22-16-3a5-3a5.png)
+   ![](assets/append-data-to-a-field-2.png)
 
 1. データの追加先と同じフィールドのトークンを見つけて選択します。
 
-   ![](assets/image2014-9-22-16-3a5-3a9.png)
+   ![](assets/append-data-to-a-field-3.png)
 
 1. 次に、既にフィールドに存在する値に追加する値を追加します。
 
-   ![](assets/image2014-9-22-16-3a5-3a12.png)
+   ![](assets/append-data-to-a-field-4.png)
 
 これで完了です。クリエイティブを発揮して複数のトークンを追加できます。

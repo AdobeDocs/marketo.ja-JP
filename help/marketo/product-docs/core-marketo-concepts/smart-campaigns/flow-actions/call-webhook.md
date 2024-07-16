@@ -4,7 +4,7 @@ description: Web フックの呼び出し - Marketo ドキュメント - 製品�
 title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 75%
@@ -21,17 +21,17 @@ ht-degree: 75%
 
 Web フックを使用すると、サードパーティのサービスとやり取りできます。スマートキャンペーンフローで Web フックを呼び出して情報を送受信します。
 
-![](assets/image2014-9-22-15-3a4-3a7.png)
+![](assets/call-webhook-1.png)
 
 >[!NOTE]
 >
->の魅力的な多くのことを学ぶ [Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} あなたのために行うことができます。
+>[Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} で実現できる魅力的な機能について説明します。
 
 ## 使用方法 {#usage}
 
 ドロップダウンから Webhook を選択します。
 
-![](assets/image2014-9-22-15-3a4-3a25.png)
+![](assets/call-webhook-2.png)
 
 これだけです。これで、ユーザーがスマートキャンペーンフローに入るたびに web フックが呼び出されるようになります。
 
