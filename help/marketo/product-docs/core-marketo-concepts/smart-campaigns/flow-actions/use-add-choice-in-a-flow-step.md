@@ -4,10 +4,10 @@ description: フローステップでの「選択肢を追加」の使用 - Mark
 title: フローステップでの「選択肢を追加」の使用
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 71%
+ht-degree: 66%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 71%
 >
 >[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-「選択肢を追加」では、フローステップを使用し、詳細を選択する際に「依存」と言うことができます。
+「選択肢を追加」では、フローステップを使用して、詳細を選択する際に「状況に応じて異なる」と言うことができます。
 
-1. の下 **[!UICONTROL 流量]** スマートキャンペーンの「 」タブで、フローステップを追加して、 **[!UICONTROL 選択肢を追加]**.
+1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、任意のフローステップを追加し、「**[!UICONTROL 選択肢を追加]**」をクリックします。
 
-   ![](assets/image2014-9-22-11-3a58-3a20.png)
+   ![](assets/use-add-choice-in-a-flow-step-1.png)
 
 1. 選択肢の条件を選択します。
 
-   ![](assets/image2014-9-22-11-3a58-3a50.png)
+   ![](assets/use-add-choice-in-a-flow-step-2.png)
 
 1. 選択肢の演算子を選択して、値を入力します。これにより基準すなわち選択肢が設定されます。
 
-   ![](assets/image2014-9-22-11-3a58-3a54.png)
+   ![](assets/use-add-choice-in-a-flow-step-3.png)
 
 1. 選択肢のフローステップ値を入力します。
 
-   ![](assets/image2014-9-22-11-3a58-3a57.png)
+   ![](assets/use-add-choice-in-a-flow-step-4.png)
 
    >[!CAUTION]
    >
@@ -41,7 +41,7 @@ ht-degree: 71%
 
 1. 上記の手順を繰り返して複数の選択肢を追加したら、デフォルト値を追加／調整します。
 
-   ![](assets/image2014-9-22-11-3a58-3a59.png)
+   ![](assets/use-add-choice-in-a-flow-step-5.png)
 
    >[!TIP]
    >
@@ -49,9 +49,9 @@ ht-degree: 71%
 
    >[!CAUTION]
    >
-   >フローステップに適用されるのは、最初に一致した選択肢だけです。[フローアクションの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}を参照してください。
+   >フローステップに適用されるのは、最初に一致した選択肢だけです。フローアクションで [ 選択肢を追加」を並べ替える ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"} 方法を説明します。
 
-   完了です。各選択に対して複数のスマートキャンペーンを作成する代わりに、フローステップの選択肢を含む 1 つのスマートキャンペーンを作成できるようになりました。
+   完了です。選択肢ごとに複数のスマートキャンペーンを作成する代わりに、フローステップの選択肢を含む単一のスマートキャンペーンを作成できるようになりました。
 
    >[!MORELIKETHIS]
    >

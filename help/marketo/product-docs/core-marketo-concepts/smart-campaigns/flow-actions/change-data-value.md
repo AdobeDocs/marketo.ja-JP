@@ -4,16 +4,14 @@ description: データ値の変更 - Marketo ドキュメント - 製品ドキ�
 title: データ値の変更
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # データ値の変更 {#change-data-value}
-
-## 概要 {#overview}
 
 Marketo を使用して、フィールドの値を更新できます。更新するには、**[!UICONTROL データ値を変更]**&#x200B;フローアクションを使用します。
 
@@ -22,8 +20,6 @@ Marketo を使用して、フィールドの値を更新できます。更新す
 >[!NOTE]
 >
 >また、フィールドが更新されないようにブロックすることもできます。詳細については、[フィールドの更新をブロック](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}を参照してください。
-
-## 使用方法 {#usage}
 
 1. 値を変更するフィールドを検索して選択します。
 

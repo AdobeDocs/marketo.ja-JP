@@ -4,8 +4,8 @@ description: 待機フローステップで日付トークンを使用 - Marketo
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
-workflow-type: ht
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%
 
@@ -21,15 +21,15 @@ ht-degree: 100%
 
 1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、**[!UICONTROL 待機]**&#x200B;フローステップをドラッグします。
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. 歯車アイコンをクリックします。
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
 1. 「**[!UICONTROL タイプ]**」ドロップダウンで、「**[!UICONTROL 日付トークン]**」を選択します。
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. 日付トークンを選択して、待機ステップを終了するタイミングを指定します。
 
@@ -38,11 +38,11 @@ ht-degree: 100%
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. 今年または翌年に発生する次のイベント日まで待つには、チェックボックスをオンにします。
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 1. 必要に応じて、終了日を指定した日数で変更できます。
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ ht-degree: 100%
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >

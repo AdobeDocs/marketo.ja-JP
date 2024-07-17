@@ -4,30 +4,26 @@ description: 注目のアクション - Marketo ドキュメント - 製品ド�
 title: 注目のアクション
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # 注目のアクション {#interesting-moment}
 
-## 概要 {#overview}
-
 Marketo Sales Insight を使用している場合、**注目のアクション**&#x200B;フローステップを使用して、人物が行っている注目すべきことをセールスチームが把握できるようにすることができます。
 
-![](assets/image2016-1-27-11-3a0-3a21.png)
-
-## 使用方法 {#usage}
+![](assets/interesting-moment-1.png)
 
 1. 使用する注目のアクション&#x200B;**[!UICONTROL タイプ]**&#x200B;を選択します。
 
-   ![](assets/image2014-9-22-10-3a49-3a51.png)
+   ![](assets/interesting-moment-2.png)
 
 1. 注目のアクションについてセールスチームに伝える&#x200B;**[!UICONTROL 説明]**&#x200B;を作成します。
 
-   ![](assets/image2014-9-22-10-3a49-3a55.png)
+   ![](assets/interesting-moment-3.png)
 
    >[!TIP]
    >

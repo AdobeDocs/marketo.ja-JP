@@ -4,26 +4,22 @@ description: スコアの変更 - Marketo ドキュメント - 製品ドキュ�
 title: スコアの変更
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 71%
 
 ---
 
 # スコアの変更 {#change-score}
 
-## 概要 {#overview}
+ユーザーのスコアリングは簡単で強力なので、セールスチームが優先順位を付けるのに役立ちます。
 
-リードのスコアリングは、簡単に使える優れた機能であり、セールスチームがリードの優先順位付けをするのに役立ちます。
-
-![](assets/flowstep-changescore.png)
-
-## 使用方法 {#usage}
+![](assets/change-score-1.png)
 
 1. 変更するスコアのフィールドを選択します。
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
@@ -31,7 +27,7 @@ ht-degree: 100%
 
 1. スコアの変更を入力します。
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    変更：
 
@@ -40,4 +36,4 @@ ht-degree: 100%
    * 値を指定するには「**=5**」のように入力します
    * マイナスの値を指定するには「**=-5**」のように入力します
 
-最初は基本的なスコアリングを設定しておき、時間をかけて結果を調整します。Marketo での設定はこれだけです。
+いくつかの基本的なスコアリングを素早く取得し、結果を経時的に調整します。

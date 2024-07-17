@@ -4,10 +4,10 @@ description: フローステップでの「選択肢を追加」の並べ替え 
 title: フローステップの「選択肢を追加」の並べ替え
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 79%
+source-wordcount: '177'
+ht-degree: 71%
 
 ---
 
@@ -17,22 +17,22 @@ ht-degree: 79%
 
 1. 選択の順序を変更するフローステップを見つけます。
 
-   ![](assets/one.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
 1. この例では、選択肢 3 を選択肢 2 の上に移動します。 **[!UICONTROL 選択肢 3]** をクリック、次に、「**[!UICONTROL 上に移動]**」をクリックします。
 
-   ![](assets/two.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
    >並べ替え時には、「**[!UICONTROL 上に移動]**」、「**[!UICONTROL 下に移動]**」、「**[!UICONTROL 移動先]**」の操作が可能です。
 
-   以上です。選択を 1 つ分上下に移動する方法を理解できました。
+   以上です。これで、1 回の増分で選択肢を上下に移動する方法がわかりました。
 
-   ![](assets/three.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**オプションの手順**：多数の選択肢があり、1 つ上または下に複数のレベルを移動する必要がある場合は、この代替の方法を使用して時間を節約できます。 移動する選択肢をクリックし、「**[!UICONTROL 移動先]**」で、選択肢を移動する位置までスライダーをドラッグします。
+**オプションの手順**：選択肢が多数あり、1 つの複数のレベルを上下に移動する必要がある場合は、この代替方法を使用して時間を節約できます。 移動する選択肢をクリックし、「**[!UICONTROL 移動先]**」で、選択肢を移動する位置までスライダーをドラッグします。
 
-![](assets/four.png)
+![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
 フローステップの選択の順序を変更するのは簡単です。

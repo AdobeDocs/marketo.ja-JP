@@ -4,20 +4,18 @@ description: 待機 - Marketo ドキュメント - 製品ドキュメント
 title: 待機
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 93%
 
 ---
 
-# 待機 {#wait}
+# 待機の概要 {#wait-overview}
 
-## 概要 {#overview}
+便利な **待機ステップ** を使用して、スマートキャンペーンフローでユーザーを一時停止します。
 
-便利な&#x200B;**待機ステップ**&#x200B;を使用して、スマートキャンペーンのフロー内にいるリードの進行を停止できます。
-
-![](assets/wait-overview.png)
+![](assets/wait-overview-1.png)
 
 「4 hours」のように、自然な言葉で入力できることに注目してください。ただし、省略形は&#x200B;**使用しない**&#x200B;でください（例：4 hrs）。スマートキャンペーンは引き続き実行されますが、待機ステップは無視されます。
 
@@ -28,8 +26,6 @@ ht-degree: 100%
 >[!TIP]
 >
 >既に待機ステップにいるリードが、待機期間が終了したときに進行しないようにする場合は、待機ステップの直後に「[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)」を挿入します。「[選択肢を追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)」オプションを使用して、削除するリードを指定します。
-
-## 使用方法 {#usage}
 
 待機フローステップには、次の 3 つの用途があります。
 

@@ -4,31 +4,27 @@ description: 売上高ステージの変更 - Marketo ドキュメント - 製�
 title: 売上高ステージの変更
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 54%
+source-wordcount: '75'
+ht-degree: 53%
 
 ---
 
 # 売上高ステージの変更 {#change-revenue-stage}
 
-## 概要 {#overview}
+収益サイクルのModelerを使用していて、モデルが承認されている場合は、ユーザーを手動でステージ間を移動させることをお勧めします。 その際、このフローステップが役立ちます。
 
-収益サイクルモデラーを使用していて、承認済みのモデルがある場合は、担当者を 1 つのステージから別のステージに手動で移動することにします。 その際、このフローステップが役立ちます。
-
-![](assets/image2014-9-22-17-3a4-3a59.png)
-
-## 使用方法 {#usage}
+![](assets/change-revenue-stage-1.png)
 
 1. 「**[!UICONTROL モデル]**」を選択します。
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
+   ![](assets/change-revenue-stage-2.png)
 
 1. 割り当てる「**[!UICONTROL 新規ステージ]**」を選択したら完了です。
 
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >
-   >データウェアハウスは、人々がステージ間を移動するタイミングに細心の注意を払っています。 これを誤って使用すると不良なデータが生成される恐れがあります。
+   >データウェアハウスは、ユーザーがステージ間を移動するタイミングに細心の注意を払います。 これを誤って使用すると不良なデータが生成される恐れがあります。
