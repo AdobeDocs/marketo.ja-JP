@@ -4,9 +4,9 @@ description: SFDC キャンペーンでのステータス変更 - Marketo ドキ
 title: SFDC キャンペーンでのステータス変更
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 87%
 
 ---
@@ -21,14 +21,12 @@ ht-degree: 87%
 
 リードが Salesforce に存在しない場合、またはまだキャンペーンのメンバーでない場合は、自動的に同期され、適切なステータスで Salesforce キャンペーンに追加されます。
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
-
-## 使用方法 {#usage}
+![](assets/change-status-in-sfdc-campaign-1.png)
 
 1. 最初に、レコードが含まれている Salesforce **[!UICONTROL キャンペーン]**&#x200B;を検索して選択します。
 
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. 次に、 **[!UICONTROL 新しいステータス]** 設定したい場合は、完了です。
+1. 次に、設定する **[!UICONTROL 新しいステータス]** を選択します。これで完了です。
 
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

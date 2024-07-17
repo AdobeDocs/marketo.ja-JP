@@ -4,32 +4,32 @@ description: SFDC から顧客を削除 - Marketo ドキュメント - 製品ド
 title: SFDC から顧客を削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 77%
+ht-degree: 73%
 
 ---
 
 # SFDC から顧客を削除 {#delete-person-from-sfdc}
 
-特定のリードセットを Salesforce から削除し、Marketo Engageの担当者として残す必要がある場合は、「SFDC からの担当者の削除」フローアクションを使用できます。
+Salesforce から特定のリードセットを削除する必要があるが、Marketo Engage内のユーザーとして残す必要がある場合は、「SFDC からユーザーを削除」フローアクションを使用できます。
 
 >[!NOTE]
 >
 >Salesforce との連携時にのみ有効です。
 
-1. データベースで、Salesforce から削除するリードをクリックします。「**[!UICONTROL リードアクション]**」、「**[!DNL Salesforce]**」の順にクリックします。
+1. データベースで、Salesforce から削除するリードをクリックします。次に、「**[!UICONTROL 人物アクション]** をクリックし、**[!DNL Salesforce]** を選択します。
 
-   ![](assets/person-actions-salesforce.png)
+   ![](assets/delete-person-from-sfdc-1.png)
 
 1. 「**[!UICONTROL SFDC から顧客を削除]**」を選択します。
 
-   ![](assets/delete-person-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-2.png)
 
 1. 「**[!UICONTROL Marketo 内で削除]**」設定が **[!UICONTROL false]** になっていることを確認したら、「**[!UICONTROL 実行]**」をクリックします。
 
-   ![](assets/run-action-delete-lead-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-3.png)
 
    フローステップが実行され、リードデータは Salesforce から削除されますが、Marketo には残ります。
 

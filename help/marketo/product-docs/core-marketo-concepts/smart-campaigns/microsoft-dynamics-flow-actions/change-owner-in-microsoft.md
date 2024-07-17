@@ -4,7 +4,7 @@ description: Microsoft の所有者の変更 - Marketo ドキュメント - 製�
 title: Microsoft の所有者の変更
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 82%
@@ -17,15 +17,15 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->このフローステップは次のようになります _トリガーで使用した場合にのみ機能_&#x200B;スマートキャンペーン内でフィルターではなく、
+>このフローステップは、スマートキャンペーンでフィルターではなく _トリガーと共に使用する場合にのみ機能_ します。
 
-![](assets/one-1.png)
+![](assets/change-owner-in-microsoft-1.png)
 
 **使用方法**
 
 1. 変更したい所有者を選択するだけです。
 
-   ![](assets/two-1.png)
+   ![](assets/change-owner-in-microsoft-2.png)
 
    >[!NOTE]
    >

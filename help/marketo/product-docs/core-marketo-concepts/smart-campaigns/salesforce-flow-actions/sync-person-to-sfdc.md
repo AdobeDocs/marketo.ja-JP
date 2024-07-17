@@ -4,7 +4,7 @@ description: 個人を SFDC に同期する - Marketo ドキュメント - 製�
 title: 個人を SFDC に同期する
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
@@ -15,15 +15,13 @@ ht-degree: 100%
 
 このフローステップは、Marketo が作成した人物を Salesforce CRM に挿入するものです。
 
-![](assets/sync-person-to-sfdc.png)
-
 >[!NOTE]
 >
 >Salesforce との連携時にのみ有効です。
 
 1. デフォルトでは、このフローステップは、Salesforce 自動割り当てルールに基づいてリード所有者に割り当てます。
 
-   ![](assets/sync-person-to-sfdc.png)
+   ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >
