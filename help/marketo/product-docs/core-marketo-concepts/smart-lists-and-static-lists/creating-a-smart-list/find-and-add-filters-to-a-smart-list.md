@@ -4,16 +4,16 @@ description: フィルターを検索してスマートリストに追加 - Mark
 title: フィルターを検索してスマートリストに追加
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 81%
+source-wordcount: '133'
+ht-degree: 78%
 
 ---
 
 # フィルターを検索してスマートリストに追加 {#find-and-add-filters-to-a-smart-list}
 
-一度 [スマートリストを作成しました](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} フィルター。 フィルターを検索して追加する方法を次に示します。
+[ スマートリストを作成 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} したら、フィルターを追加して [ 定義 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} する必要があります。 フィルターを検索して追加する方法を次に示します。
 
 この例では、カリフォルニア州在住で、スコアが 50 を超える人をすべて検索します。
 
@@ -23,19 +23,19 @@ ht-degree: 81%
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
-   ![](assets/ma.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 
-1. フィルターを追加するスマートリストを選択し、 **[!UICONTROL スマートリスト]** タブをクリックします。
+1. フィルターを追加するスマートリストを選択し、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
-   ![](assets/two.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-2.png)
 
 1. 「**[!UICONTROL 州]**」フィルターを探してキャンバスにドラッグします。
 
-   ![](assets/three.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-3.png)
 
 1. また、「**[!UICONTROL スコア]**」フィルターも探してドラッグします。
 
-   ![](assets/four.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
 完璧です。次は、これらのフィルターを定義します。
 
