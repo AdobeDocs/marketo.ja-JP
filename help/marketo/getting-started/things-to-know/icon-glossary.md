@@ -2,10 +2,8 @@
 description: アイコンの用語集 – Marketo Engageドキュメント – 製品ドキュメント
 title: アイコン用語集
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 90%
@@ -21,9 +19,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th>
+   <th style="width:25%">新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 
@@ -103,7 +101,7 @@ ht-degree: 90%
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td> 
    <td><img src="assets/folder-shared.png"></td> 
-   <td>フォルダー – 共有</td> 
+   <td>フォルダー - 共有済み</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
@@ -243,9 +241,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ ht-degree: 90%
 <table> 
  <tbody>
   <tr>
-   <th>以前のアイコン</th> 
-   <th> 新規アイコン</th> 
-   <th>説明</th> 
+   <th style="width:25%">以前のアイコン</th> 
+   <th style="width:25%"> 新規アイコン</th> 
+   <th style="width:50%">説明</th> 
   </tr>
   <tr>
    <td><strong>該当なし</strong></td> 

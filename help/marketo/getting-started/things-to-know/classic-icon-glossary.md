@@ -2,10 +2,8 @@
 description: クラシックアイコン用語集 - Marketo ドキュメント - 製品ドキュメント
 title: クラシックアイコン用語集
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 96%
@@ -14,15 +12,15 @@ ht-degree: 96%
 
 # クラシックアイコン用語集 {#classic-icon-glossary}
 
-以下は、Marketo Classic インターフェイスの古いアイコンです。 現在のアイコンの用語集は次のとおりです。 [こちらにあります](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+以下は、Marketo Classic インターフェイスの古いアイコンです。 現在のアイコンの用語集は [ こちら ](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} にあります。
 
 **一般アイコン**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th>
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -111,8 +109,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th>
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th> 
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -503,8 +501,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th> 
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -639,8 +637,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th>
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th> 
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th>
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ ht-degree: 96%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">アイコン</th>
-   <th style="width:90%">名前</th> 
+   <th style="width:15%">アイコン</th>
+   <th style="width:85%">名前</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
