@@ -5,7 +5,7 @@ title: フォームフィールドの事前入力を無効にする
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ Web 訪問者が既知の（cookie が有効）場合、Marketo のフォーム�
 >
 >**フォームの事前入力**&#x200B;はデフォルトで有効になっています。ランディングページレベルの事前入力設定と管理者レベルの事前入力設定は、フォームレベルの設定より優先されます。
 >
->フォーム＞ランディングページ＞管理者
+>優先順位：管理者、ランディングページ、フォーム（左が優先）
 
 ## 事前入力を無効にする方法 {#how-to-disable-pre-fill}
 
