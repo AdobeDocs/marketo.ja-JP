@@ -4,9 +4,9 @@ description: ' [!DNL Webhook]  の作成 - Marketo ドキュメント - 製品�
 title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 99%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 99%
 # [!DNL Webhook] の作成 {#create-a-webhook}
 
 [!DNL Webhooks] を使用すると、サードパーティの web サービスを活用して、テキストメッセージの送信、人物データの拡張などを行うことができます。
-
->[!AVAILABILITY]
->
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
