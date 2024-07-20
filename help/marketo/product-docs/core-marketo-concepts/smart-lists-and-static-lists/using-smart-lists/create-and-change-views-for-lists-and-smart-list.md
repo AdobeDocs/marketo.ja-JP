@@ -4,7 +4,7 @@ description: リストおよびスマートリストのビューの作成と変�
 title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 87%
@@ -13,21 +13,21 @@ ht-degree: 87%
 
 # リストおよびスマートリストのビューの作成と変更 {#create-and-change-views-for-lists-and-smart-list}
 
-スマートリストには、デフォルトの列セットが表示されます。 列は自由に編集できるのをご存知でしたか？手順は以下のとおりです。
+スマート・リストには、デフォルトの列セットが表示されます。 列は自由に編集できるのをご存知でしたか？手順は以下のとおりです。
 
 ## ビューを作成する {#create-a-view}
 
-1. リストまたはスマートリストに移動し、 **[!UICONTROL People]** タブで、 **[!UICONTROL ビューを作成]** の下に **[!UICONTROL 表示]** 」ドロップダウンリストから選択できます。
+1. リストまたはスマート リストに移動し、[**[!UICONTROL ユーザー]**] タブをクリックし、[**[!UICONTROL ビュー]**] ドロップダウンの下の [**[!UICONTROL ビューの作成]**] をクリックします。
 
-   ![](assets/smartlist-createview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
 1. ビューに名前を付け、追加または削除する列を見つけます。
 
-   ![](assets/image2014-9-12-11-3a23-3a53.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
 1. 目的の列を追加または削除して、「**[!UICONTROL 作成]**」をクリックします。
 
-   ![](assets/image2014-9-12-11-3a24-3a7.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
@@ -37,7 +37,7 @@ ht-degree: 87%
 
 1. 「**[!UICONTROL 表示]**」ドロップダウンから、目的のビューを選択します。必要に応じて、ビュー間を切り替えます。
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
 >[!NOTE]
 >
@@ -47,25 +47,25 @@ ht-degree: 87%
 
 1. 編集するビューが「**[!UICONTROL 表示]**」ドロップダウンリストから選択できることを確認してください。
 
-   ![](assets/smartlist-customviewchoose.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
 1. 「**[!UICONTROL 編集]**」オプションをクリックします。
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
 1. 必要な変更を行い、「**[!UICONTROL 保存]**」をクリックします。
 
-   ![](assets/image2014-9-12-11-3a27-3a19.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## ビューを削除する {#delete-a-view}
 
 1. 「**[!UICONTROL 表示]**」ドロップダウンリストから削除するビューの「**[!UICONTROL 編集]**」オプションを選択します。
 
-   ![](assets/smartlist-editcustomview.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
 1. 「**[!UICONTROL 削除]**」をクリックします。
 
-   ![](assets/image2014-9-12-11-3a27-3a39.png)
+   ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 
 作成したカスタムビューは、作成したユーザーの「表示」ドロップダウンのみに表示されるので、自分自身でビューを作成する必要があります。
 

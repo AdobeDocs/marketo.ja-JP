@@ -4,46 +4,50 @@ description: 複数のワークスペースをまたいだリストやスマー�
 title: 複数のワークスペースをまたいだリストやスマートリストの参照
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 63%
+source-wordcount: '175'
+ht-degree: 55%
 
 ---
 
 # 複数のワークスペースをまたいだリストやスマートリストの参照 {#reference-a-list-or-smart-list-across-workspaces}
 
-リストとスマートリストは、データベースから簡単に再利用できるように、複数のワークスペース間で共有および参照できます。
+リストとスマート・リストをワークスペース間で共有および参照して、データベースから簡単に再使用できます。
 
 >[!NOTE]
 >
->担当者パーティションルールが適用されます（ワークスペースのスマートリストと静的リストは、リストの両方のメンバーである人のみを表示します） _および_ 現在のワークスペースのメンバー )。
+>個人パーティション・ルールが適用されます（ワークスペース内のスマート・リストおよび静的リストは、リストのメンバー _および現在のワークスペースのメンバー_ 両方であるユーザーのみを表示します）。
 
 ## リストまたはスマートリストを共有する {#share-a-list-or-smart-list}
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
 1. キャンペーンフォルダーを右クリックします。「**新規フォルダー**」を選択します。
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
    >アセットがフォルダーにネストされている場合、アセットは複数のワークスペース間でのみ共有できます。
 
-   ![](assets/two-4.png)
+1. フォルダーに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
-1. 共有するリストまたはスマートリストを新しいフォルダにドラッグ&amp;ドロップします。
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
-   ![](assets/three-4.png)
+1. 共有するリストまたはスマート・リストを新しいフォルダにドラッグ・アンド・ドロップします。
 
-1. 「**[!UICONTROL 新規フォルダー]**」を右クリックし、「**[!UICONTROL フォルダーを共有する]**」を選択します。
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-   ![](assets/four-3.png)
+1. 新しいフォルダーを右クリックし、「**[!UICONTROL フォルダーを共有]**」を選択します。
 
-1. 共有する&#x200B;**[!UICONTROL ワークスペース]**&#x200B;を選択します。「**[!UICONTROL 保存]**」を選択します。
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+1. 共有する **[!UICONTROL Workspace]** を選択し、「**[!UICONTROL 保存]**」をクリックします。
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
    これで完了です。リストが両方のワークスペースで使用できるようになりました。
 

@@ -4,9 +4,9 @@ description: 商談フィルターおよびトリガー - Marketo ドキュメ�
 title: 商談フィルターおよびトリガー
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 96%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 96%
 
 ## 商談フィルター {#opportunity-filters}
 
-商談フィルターを使うと、Salesforce で商談があるリードに絞り込むことができます。スマートリストの編集時に、パレットの商談フォルダに表示されます。 いくつかの種類があります。
+商談フィルターを使うと、Salesforce で商談があるリードに絞り込むことができます。スマートリストの編集時に、パレットの商談フォルダーで見つけることができます。 いくつかの種類があります。
 
 * 商談数
 * 合計商談数
@@ -33,7 +33,7 @@ ht-degree: 96%
 
 これらのフィルターを使用すると、それぞれ商談数、合計の商談数、または商談の売上高予測に基づいてリードを検索できます。
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
 **商談あり、商談に追加済み、商談から削除済み**
 
@@ -45,13 +45,13 @@ ht-degree: 96%
 
 フィルターに対する&#x200B;**制約**&#x200B;として検索基準を追加します。制約には、商談の標準およびカスタムフィールドが含まれます。
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
 例えば、5,000 ドル以上の進行中の商談があるリードを探したい場合、**商談あり**&#x200B;フィルターをドラッグし、**クローズ済み**&#x200B;制約と&#x200B;**金額**&#x200B;制約を使用します。
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ ht-degree: 96%
 
 例えば、次のフィルターでは、過去 30 日以内にクローズ日が変更されたリードがすべて表示されます。
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## 商談トリガー {#opportunity-triggers}
 
@@ -75,8 +75,8 @@ ht-degree: 96%
 
 例えば、このスマートリストを使用して、任意のリードが商談に追加されたときにトリガーすることができます。そしてフローで、「マーケティングを中断したリード」リストに追加するか、ターゲットを絞ったメールを送信することができます。
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
 商談のカスタムフィールドでトリガーする場合は、**商談更新**&#x200B;トリガーを使用し、プルダウンでフィールドを選択してください。
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)

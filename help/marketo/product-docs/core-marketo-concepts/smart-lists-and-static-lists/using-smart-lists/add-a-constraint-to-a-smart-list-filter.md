@@ -4,16 +4,16 @@ description: スマートリストフィルターへの制約の追加 - Marketo
 title: スマートリストフィルターへの制約の追加
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: aeefe7a5c265e3a7ddd50920820742a463ab178a
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 61%
 
 ---
 
 # スマートリストフィルターへの制約の追加 {#add-a-constraint-to-a-smart-list-filter}
 
-スマートリストを作成する際、一部のフィルターには「制約」と呼ばれる詳細オプションがあります。 制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
+スマートリストを作成する場合、一部のフィルターには「制約」と呼ばれる詳細オプションがあります。 制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
 
 以下に紹介する例では、「**[データ値変更済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**」フィルターにいくつかの制約を追加して、リードステータスが MQL から SQL に変更されたリードを特定します。
 
@@ -24,26 +24,26 @@ ht-degree: 61%
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
-   ![](assets/ma-1.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 
-1. 制約を追加するフィルターを含むスマートリストを選択し、 **[!UICONTROL スマートリスト]** タブをクリックします。
+1. 制約を追加するフィルターを使用してスマートリストを選択し、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
-   ![](assets/two-3.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-2.png)
 
 1. 「**[!UICONTROL 制約を追加]**」から「**[!UICONTROL 前回の値]**」を選択します。
 
-   ![](assets/three-3.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-3.png)
 
 1. 「**[!UICONTROL 前回の値]**」に入力します。この例では、MQL を使用しています。
 
-   ![](assets/four-2.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-4.png)
 
 1. 「**[!UICONTROL 制約を追加]**」から「**[!UICONTROL 新しい値]**」を選択します。
 
-   ![](assets/five.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-5.png)
 
 1. 新しい値を入力します。 この例では、SQL を使用しています。
 
-   ![](assets/six.png)
+   ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. これで完了です。次をクリック： **[!UICONTROL People]** タブを使用して、過去 30 日間にステータスが「MQL」から「SQL」に変更されたすべての人を確認できます。
+1. これで完了です。「**[!UICONTROL ユーザー]**」タブをクリックして、過去 30 日間にステータスが「MQL」から「SQL」に変更されたすべてのユーザーを表示します。

@@ -4,36 +4,36 @@ description: 推測フィルター - Marketo ドキュメント - 製品ドキ�
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 80%
+source-wordcount: '209'
+ht-degree: 59%
 
 ---
 
 # 推測フィルター {#inferred-filters}
 
-Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
+web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookie が作成され、システムに格納されます。特別なデータベースで IP を検索し、あらゆる種類の情報を推測します。
 
 >[!NOTE]
 >
->推測されるフィールド値が常に最新の状態に保たれるよう、IP アドレスの検索に使用されるデータベースを定期的に更新します。データベースの更新により、スマートリストフィルター定義に追加する必要がある可能性のある、新しい推測されるフィールド値が追加される場合があります。
+>推測されるフィールド値が常に最新の状態に保たれるよう、IP アドレスの検索に使用されるデータベースを定期的に更新します。データベースを更新すると、スマートリストフィルターの定義に追加する必要がある可能性のある、新しい推論フィールド値が導入される場合があります。
 >
->[Marketo Engage 製品リリース](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"}の最中に発生し得るデータベースの更新は、推測されるフィールド値に対する変更の説明が含まれます。
+>データベースの更新は、[Marketo Engageの製品リリース ](/help/marketo/release-notes/release-schedule.md){target="_blank"} 中に行われる場合があります。 更新が行われると、[Marketo Engageリリースノート ](/help/marketo/release-notes/current.md){target="_blank"} には、推論フィールド値に対する変更の説明が含まれます。
 
-![](assets/image2015-4-27-13-3a25-3a46.png)
+![](assets/inferred-filters-1.png)
 
-![](assets/image2015-4-27-16-3a58-3a53.png)
+![](assets/inferred-filters-2.png)
 
-![](assets/image2015-4-27-16-3a59-3a35.png)
+![](assets/inferred-filters-3.png)
 
-![](assets/image2015-4-27-17-3a0-3a12.png)
+![](assets/inferred-filters-4.png)
 
-![](assets/image2015-4-27-13-3a36-3a9.png)
+![](assets/inferred-filters-5.png)
 
-![](assets/image2015-4-27-13-3a30-3a48.png)
+![](assets/inferred-filters-6.png)
 
-スマートリストでこれらのフィルタのいずれかを使用すると、結果は、この推測される情報を持つ人を生成します。
+スマートリストでこれらのフィルターのいずれかを使用すると、この推測される情報を持つユーザーが結果に含まれます。
 
 >[!TIP]
 >
