@@ -57,8 +57,8 @@ ht-degree: 100%
 >[!NOTE]
 >
 >* ダイアログおよびウィジェット web キャンペーンでは任意のページとワイルドカード（&#42;）オプションを使用できます。
-* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* URL では大文字と小文字が区別されます
+>* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* URL では大文字と小文字が区別されます
 
 ## ゾーン内 web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -74,12 +74,12 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
-* [ダイアログキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [RTP ゾーン内キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [RTP ウィジェットキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ダイアログキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [RTP ゾーン内キャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP ウィジェットキャンペーンを作成する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
