@@ -5,7 +5,7 @@ title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 100%
 
@@ -135,7 +135,7 @@ ht-degree: 100%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br>
+<br> 
 
 [◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953465
-description: SFDC 同期 - Salesforce でリードを連絡先に変換 - Marketo ドキュメント - 製品ドキュメント
-title: SFDC 同期 - Salesforce でリードを連絡先に変換
+description: SFDC Sync - Salesforce でのリードの連絡先への変換 – Marketoドキュメント – 製品ドキュメント
+title: SFDC 同期 – Salesforce でのリードから連絡先への変換
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 73%
+source-wordcount: '155'
+ht-degree: 57%
 
 ---
 
 # SFDC 同期：Salesforce でリードを取引先責任者に変換 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Salesforce で次の 3 つの異なるシナリオを想像してください ( [担当者の変換フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} (MARKETO ENGAGE)
+Salesforce における 3 つの異なるシナリオを想定してみてください：（Marketo Engageで [ ユーザーを変換フローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} を使用していない）
 
 1. リードを&#x200B;**新しい連絡先と新しいアカウント**&#x200B;に変換
 1. リードを&#x200B;**既存アカウント**&#x200B;の&#x200B;**新しい連絡先**&#x200B;に変換
@@ -26,6 +26,6 @@ Marketo では、レコードの SFDC タイプが連絡先になります。
 
 >[!TIP]
 >
->Salesforce で変換する場合は、 [リードのカスタムフィールドは適切にマッピングされます](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm){target="_blank"}. データは失いたくありません。
+>Salesforce で変換する場合は、[ リードカスタムフィールドが適切にマッピングされている ](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm){target="_blank"} ことを確認します。 データは失いたくありません。
 
-「リードは変換済みです」と「リードは変換済みです」を使用して、トリガーとフィルタを設定できます。
+「リードはコンバート済み」および「リードはコンバート済み」を使用してトリガーおよびフィルター処理できます。

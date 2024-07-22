@@ -5,7 +5,7 @@ title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 

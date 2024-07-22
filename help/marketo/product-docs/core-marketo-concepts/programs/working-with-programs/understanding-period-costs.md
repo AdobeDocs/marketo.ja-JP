@@ -6,8 +6,8 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 94%
+source-wordcount: '273'
+ht-degree: 93%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 94%
 >
 >7 月に公開する eBook 用のイラストレーターに 1000 ドルを支払ったとします。この場合、この eBook プログラムの 7 月の期間原価は 1000 ドルとなります。
 >
->に月 200 ドル費やす場合 [!DNL Google Adwords] - [!DNL Google Adwords] プログラムの期間原価は 200 ドルになる _毎月_.
+>[!DNL Google Adwords] に月に 200 ドルを費やした場合、[!DNL Google Adwords] プログラムの期間コストは 200 ドル _毎月_ になります。
 
 >[!NOTE]
 >

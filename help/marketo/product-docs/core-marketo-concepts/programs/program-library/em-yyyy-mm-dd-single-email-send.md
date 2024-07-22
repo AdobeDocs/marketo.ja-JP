@@ -1,20 +1,20 @@
 ---
-description: EM-YYYY-MM-DD — 単一メール送信 — Marketoドキュメント — 製品ドキュメント
-title: EM-YYYY-MM-DD-Single E メール送信
+description: EM-YYYY-MM-DD-Single Email Send - Marketo ドキュメント – 製品ドキュメント
+title: EM-YYYY-MM-DD-シングルメール送信
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '280'
 ht-degree: 20%
 
 ---
 
-# EM-YYYY-MM-DD-Single E メール送信 {#em-yyyy-mm-dd-single-email-send}
+# EM-YYYY-MM-DD-シングルメール送信 {#em-yyyy-mm-dd-single-email-send}
 
-次の使用例は、電子メールプログラムを使用して 1 件のMarketo Engageを送信します。 A/B テストを含めるかどうかは電子メールに記載されます。
+この例では、Marketo Engageのメールプログラムを使用して、1 つのメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,13 +22,13 @@ ht-degree: 20%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>メール</td> 
-   <td>01 — メンバー 
+   <td>01 – メンバー 
 <br/>02-Engaged-Success</td>
    <td>包含</td>
    <td>メール</td>
@@ -36,7 +36,7 @@ ht-degree: 20%
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -51,12 +51,12 @@ ht-degree: 20%
    <td>01-Email-Thank You</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>メールの効果</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>メールリンクの効果</td>
   </tr>
@@ -64,18 +64,18 @@ ht-degree: 20%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — エンゲージ済み（プログラム成功）</td>
+   <td>01 – エンゲージメント （プログラム成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（メールとランディングページ用のサブフォルダー）  </td>
+   <td>Assets – すべてのクリエイティブアセットが格納されています 
+<br/> （メールおよびランディングページ用のサブフォルダー）  </td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>キャンペーン — すべてのスマートキャンペーンを格納</td>
+   <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -117,31 +117,31 @@ ht-degree: 20%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
    * 元のテンプレートのコピー
-   * インポート先のテンプレートの使用 - _推奨_
+   * 宛先テンプレートの使用 – _推奨_
 
 * **同じ名前の画像**
    * どちらのファイルも保持する
-   * この配信登録内アイテムの置換 - _推奨_
+   * このサブスクリプションの項目を置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
-   * 既存のテンプレートを置換 — _推奨_
+   * 既存のテンプレートを置換 – _推奨_
 
 ## ベストプラクティス {#best-practices}
 
-* 現在ブランド化されているテンプレートを利用するには、読み込んだプログラムでテンプレートを更新することを検討するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートをブランドに合わせて更新します。
+* 読み込んだプログラムでテンプレートを更新して現在のブランドのテンプレートを利用するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートを更新し、ブランドを反映させることを検討してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。
 
 >[!NOTE]
 >
->必要に応じて、プログラムテンプレートのマイトークンの値を更新し、プログラムを使用するたびに値を更新してください。
+>必要に応じて、プログラムテンプレートとプログラムを使用するたびにマイトークン値を必ず更新してください。
 
 >[!TIP]
 >
->成功を追跡するための「01-Engaged」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
+>成功トラッキングのために、「01-Engaged」キャンペーンをアクティブ化することを忘れないでください。 フォームがライブになり、メールが送信される _前に_ これを行います。

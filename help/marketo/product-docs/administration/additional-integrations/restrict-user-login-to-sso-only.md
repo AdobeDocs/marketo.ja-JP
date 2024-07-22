@@ -5,7 +5,7 @@ title: ユーザーログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 

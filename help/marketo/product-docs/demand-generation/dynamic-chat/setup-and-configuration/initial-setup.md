@@ -2,10 +2,10 @@
 description: 初期設定 - Marketo ドキュメント - 製品ドキュメント
 title: 初期設定
 feature: Dynamic Chat
-exl-id: 61022682-412f-43d4-9fc9-b4914a6ce8f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---

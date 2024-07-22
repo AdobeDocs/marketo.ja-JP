@@ -5,7 +5,7 @@ title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
 source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 100%
 

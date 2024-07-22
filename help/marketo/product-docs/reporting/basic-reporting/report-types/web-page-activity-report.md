@@ -6,8 +6,8 @@ exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
 source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 95%
+source-wordcount: '332'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 95%
 >
 >* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [レポートの作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) をクリックし、 **ウェブページアクティビティレポート** [レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、**Web ページアクティビティレポート**[ レポートタイプ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} を選択します
 1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}し、「**レポート**」タブをクリックします。
@@ -82,7 +82,7 @@ ht-degree: 95%
 
 >[!TIP]
 >
->セールス担当者が喜びます。[レポートのフィルター](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
+>セールス担当者が喜びます。[ レポートをフィルタリング ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} してテリトリーを絞り込み [ 登録 ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >

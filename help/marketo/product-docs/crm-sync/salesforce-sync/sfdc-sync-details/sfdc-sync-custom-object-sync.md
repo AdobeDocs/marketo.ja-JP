@@ -6,14 +6,14 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 87%
+source-wordcount: '236'
+ht-degree: 94%
 
 ---
 
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-Salesforce インスタンスで作成されたカスタムオブジェクトもMarketo Engageの一部です。 その設定方法を説明しましょう。
+Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engageの一部にすることができます。 その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、カスタムオブジェクトを [リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} オブジェクトが Salesforce 内に存在します。
+>カスタムオブジェクトを使用するには、カスタムオブジェクトは Salesforce で[リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}、[連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}、[アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}オブジェクトのいずれかに関連付けられている必要があります。
 
 >[!IMPORTANT]
 >

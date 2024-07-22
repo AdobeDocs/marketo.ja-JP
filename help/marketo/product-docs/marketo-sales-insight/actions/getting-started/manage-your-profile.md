@@ -3,7 +3,7 @@ description: プロファイルの管理 - Marketo ドキュメント - 製品�
 title: プロファイルの管理
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 100%
 
 ---

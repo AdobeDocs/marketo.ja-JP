@@ -6,8 +6,8 @@ exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 79%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 このテンプレートには、次の内容が含まれます。
 
 * ヘッダー（オプション）
-* プライマリセクションヒーロー画像、ヘッダー、ビデオ、本文テキストが含まれます
+* ヒーロー画像、ヘッダー、ビデオおよび本文を含むプライマリセクション
 * 4 つの本文セクション（オプション）
 * フォーム付きのフッター（オプション）
 

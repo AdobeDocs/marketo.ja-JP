@@ -6,7 +6,7 @@ exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 100%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 100%
 
    ![](assets/image2015-4-22-18-3a27-3a14.png)
 
-1. Facebook の認証情報を入力します。
+1. Facebook の資格情報を入力します。
 
    ![](assets/image2015-4-22-18-3a29-3a57.png)
 

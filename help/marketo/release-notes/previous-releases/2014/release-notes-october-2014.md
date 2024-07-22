@@ -30,7 +30,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 * アクティビティタイプの取得
 * ページトークンの取得
 
-詳細は、リリース後の次の場所で確認できます [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+詳細は、リリース後に [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) で確認できます。
 
 ## MSI - Microsoft Dynamics への Marketo メールの送信 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Dynamics から商談の株主データを同期します。また、「プラ�
 * 関心のある製品
 * 閲覧した RTP キャンペーンの内容
 
-訪問 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) を参照してください。
+詳細については、[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) を参照してください。

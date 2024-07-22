@@ -5,7 +5,7 @@ title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
 source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
 

@@ -6,22 +6,22 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 68%
+source-wordcount: '604'
+ht-degree: 64%
 
 ---
 
 # Marketo Moments について {#understanding-marketo-moments}
 
-Marketo の優れた機能を手に入れました！電話や iPad で今すぐメールを確認し、スケジュールを変更してください。
+Marketo の優れた機能を手に入れました！携帯電話またはiPadから直接メールをプレビューし、再スケジュールします。
 
 >[!IMPORTANT]
 >
->2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 >[!NOTE]
 >
->_モバイルアプリにアクセスする権限が必要です。_ Marketo 管理者に問い合わせて、[自分の役割を更新](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)してください。
+>_モバイルアプリにアクセス_ 権限が必要です。 Marketo 管理者に問い合わせて、[自分の役割を更新](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)してください。
 
 ## ストリーム {#streams}
 
@@ -33,10 +33,10 @@ Moments の様々なストリームを次に示します。
 >
 >**定義**
 >
->* [!UICONTROL Moments]：たった今実行された、または実行されようとしているすべてが、ここに表示されます。
->* [!UICONTROL お気に入力]：お気に入りのものはすべてここに入ります。
->* [!UICONTROL 後で]：この時点より後に発生したすべてが、ここに表示されます。
->* [!UICONTROL 完了]：の実行が完了した場合、または完了とマークされた場合は、すべてここに表示されます。
+>* [!UICONTROL  瞬間 ]：ただ走ったばかりのもの、または走ろうとしているものはすべてここに入ります。
+>* [!UICONTROL  お気に入り ]：お気に入りに追加したものはすべてここに入ります。
+>* [!UICONTROL Later]：この瞬間より後に発生するものはすべて、ここに表示されます。
+>* [!UICONTROL  完了 ]：実行を終了したか、完了としてマークしたものは、すべてここに表示されます。
 
 概要を理解できたので、携帯電話で Marketo Moments を見てみましょう。
 
@@ -82,11 +82,11 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 >
 >**定義**
 >
->* [!UICONTROL お気に入り]：お気に入りにすると、最もタイムリーで重要な要素に簡単に注意を払うことができます。
->* [!UICONTROL 完了]:「完了」を選択すると、Marketo Moments ビューから取得されます ( ただし、Marketo、安全、サウンドには残ります )。
->* [!UICONTROL 共有]：チームの意欲を高めたり、チームを祝うための画像を送信します。
->* [!UICONTROL サンプルを送信] （E メールのみ）：他のユーザーが E メールを送信する前にその E メールの内容を確認できるようにするには、このオプションを使用します。
->* [!UICONTROL メールのプレビュー] （E メールのみ）:E メールを事前にチェックアウトすることをお勧めします。
+>* [!UICONTROL  お気に入り ]：最もタイムリーで重要なものに注意を払うのは、お気に入りを作成した場合です。
+>* [!UICONTROL  完了 ]：完了すると、Marketoのモーメントビューから切り離されます（ただし、Marketoでは安全かつ健全な状態のままです）。
+>* [!UICONTROL  共有 ]：チームのモチベーションを上げたり、チームを祝福したりするために画像を送信します。
+>* [!UICONTROL  サンプルを送信 ] （メールのみ）：メールを送信する前にメールの外観を他のユーザーが確認できるようにするために使用します。
+>* [!UICONTROL  メールをプレビュー ] （メールのみ）：事前にメールをチェックアウトすることをお勧めします。
 
 ## 今後のモーメント {#later-moments}
 
@@ -142,7 +142,7 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 
 Marketo Moments では、次のオペレーティングシステムバージョンをサポートしています。
 
-* [!DNL Apple] iOS 8.0 以降。
+* iOS 8.0 以降を [!DNL Apple] きます。
 * [!DNL Android] バージョン 4.1 以降（基本的には Jellybean 以降）。
 
 マーケティング知識をさらに深めませんか？

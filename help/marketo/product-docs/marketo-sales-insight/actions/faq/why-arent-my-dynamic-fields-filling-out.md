@@ -5,8 +5,8 @@ exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 100%
+source-wordcount: '307'
+ht-degree: 94%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## 確認内容 {#what-to-check}
 
-Sales Insight Actions には、基本、カスタム、Salesforce の 3 つのタイプの動的フィールドがあります。基本とカスタムの両方が [web アプリケーション](https://toutapp.com/login){target="_blank"}. If the information does not exist in the web application, the fields will be blank. Salesforce fields pull information from [Salesforce.com](https://salesforce.com){target="_blank"}から取り込む情報を探します。
+Sales Insight Actions には、基本、カスタム、Salesforce の 3 つのタイプの動的フィールドがあります。基本とカスタムの両方が [web アプリケーション ](https://toutapp.com/login){target="_blank"} から情報を取り込むようにします。 Web アプリケーションに情報が存在しない場合、フィールドは空白になります。Salesforce フィールドは [Salesforce.com](https://salesforce.com){target="_blank"} から情報を取り込みます。
 
 **Salesforce フィールドのトラブルシューティング**
 

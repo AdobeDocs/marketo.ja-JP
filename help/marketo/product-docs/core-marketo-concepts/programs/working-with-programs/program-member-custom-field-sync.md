@@ -5,8 +5,8 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 100%
+source-wordcount: '355'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、「プログラムメンバーのカスタムフィールド同期」の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -69,7 +69,7 @@ ht-degree: 100%
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、「プログラムメンバーのカスタムフィールド同期」の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-8.png)
 

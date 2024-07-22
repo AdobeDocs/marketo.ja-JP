@@ -15,7 +15,7 @@ ht-degree: 72%
 
 バッチキャンペーンの作成が完了したら、今すぐ実行するか、後で実行するかを選択できます。 すぐに実行する方法を次に示します。
 
-1. バッチキャンペーンを選択し、 **[!UICONTROL スケジュール]** タブで、 **[!UICONTROL 1 回実行]**.
+1. バッチキャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブに移動して、「**[!UICONTROL 1 回実行]** をクリックします。
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 

@@ -6,8 +6,8 @@ exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 95%
+source-wordcount: '433'
+ht-degree: 89%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 95%
 
 Salesforce Professional は、Salesforce Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。これらの手順に従うと、Marketo 同期ユーザーはカスタムフィールドをアップデートできます。
 
-1. 「 」を入力します。[!UICONTROL ページレイアウト]」をクリックせずに、 **[!UICONTROL 入力]**&#x200B;をクリックし、 **[!UICONTROL ページレイアウト]** under **[!UICONTROL リード]**.
+1. **[!UICONTROL Enter] キーを押さずにナビゲーション検索バーに「[!UICONTROL  ページレイアウト]**」と入力し、**[!UICONTROL リード]** の下の **[!UICONTROL ページレイアウト]** をクリックします。
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -96,7 +96,7 @@ Marketo は、Salesforce にアクセスするための資格情報が必要で�
 
 >[!NOTE]
 >
->組織に追加の Salesforce ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザーを使用できます。
+>組織に追加の Salesforce ライセンスがない場合は、システム管理者プロファイルで既存のマーケティングユーザーを使用できます。
 
 1. ナビゲーション検索バーに「ユーザー」と入力し、「**[!UICONTROL ユーザーを管理]**」の下の「**[!UICONTROL ユーザー]**」をクリックします。
 

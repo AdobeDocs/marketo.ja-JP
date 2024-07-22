@@ -6,14 +6,14 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 95%
 
 ---
 
 # リリースノート：2013年1月 {#release-notes-january}
 
-1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。また、Marketo リード管理のユーザーは、自分のタイムゾーン、言語およびロケールの設定を行うことができます。機能は &#42; は、Select Edition でのみ使用できます。
+1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。また、Marketo リード管理のユーザーは、自分のタイムゾーン、言語およびロケールの設定を行うことができます。&#42; のマークが付いた機能は、Select Edition でのみ使用できます。
 
 ## 紹介オファー {#referral-offers}
 

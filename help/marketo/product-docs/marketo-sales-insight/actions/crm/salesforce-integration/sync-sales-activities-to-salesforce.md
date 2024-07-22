@@ -3,8 +3,8 @@ description: セールスアクティビティの Salesforce への同期 - Mark
 title: セールスアクティビティの Salesforce への同期
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
-workflow-type: ht
-source-wordcount: '759'
+workflow-type: tm+mt
+source-wordcount: '761'
 ht-degree: 100%
 
 ---

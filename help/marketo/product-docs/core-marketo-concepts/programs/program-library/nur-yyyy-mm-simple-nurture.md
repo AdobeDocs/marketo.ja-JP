@@ -1,20 +1,20 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketoドキュメント — 製品ドキュメント
+description: NUR-YYYY-MM-Simple Nurture - Marketo ドキュメント – 製品ドキュメント
 title: NUR-YYYY-MM-シンプルな育成
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '347'
 ht-degree: 20%
 
 ---
 
 # NUR-YYYY-MM-シンプルな育成 {#nur-yyyy-mm-simple-nurture}
 
-これは、Marketo Engageエンゲージメントプログラムを利用し、行動に基づくジャーニーを通じて記録を導くストリームを利用しながら、データベースに時間の経過と共にコンテンツをドリップする、シンプルな育成プログラムの例です。
+これは、Marketo Engageエンゲージメントプログラムを利用したシンプルな育成プログラムの例です。ケイデンドコンテンツを使用して、行動に基づくジャーニーでレコードをガイドするストリームを利用しながら、データベースに時間の経過と共にドリップします。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,21 +22,21 @@ ht-degree: 20%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>ナーチャリング</td> 
-   <td>01 — メンバー 
-<br/>02 — 関与 — 成功</td>
+   <td>01 - メンバー 
+<br/>02 - エンゲージメント – 成功</td>
    <td>包含</td>
    <td>エンゲージメント</td>
   </tr>
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -48,25 +48,25 @@ ht-degree: 20%
   <tr> 
    <td>メール</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>01 — 電子メール</td>
+   <td>01 - メール</td>
   </tr>
    <tr> 
    <td>メール</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>02 — 電子メール</td>
+   <td>02 - メール</td>
   </tr>
    <tr> 
    <td>メール</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>03 — 電子メール</td>
+   <td>03 - メール</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>メールの効果</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>エンゲージメントストリームの効果</td>
   </tr>
@@ -74,33 +74,33 @@ ht-degree: 20%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — 育成に追加</td>
+   <td>01 - ナーチャリングに追加</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02 — 育成の一時停止</td>
+   <td>02 – 育成の一時停止</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>03 — 育成の再開</td>
+   <td>03 – 育成の再開</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>04 — エンゲージ済み（プログラム成功）</td>
+   <td>04 - エンゲージ済み（プログラム成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>アセット — すべてのクリエイティブアセットを格納します。
-   <br/>（E メール用のサブフォルダー）</td>
+   <td>Assets – すべてのクリエイティブアセットが格納されています
+   <br/> （メール用のサブフォルダー）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>キャンペーン — すべてのスマートキャンペーンを格納</td>
+   <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -142,33 +142,33 @@ ht-degree: 20%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
    * 元のテンプレートのコピー
-   * インポート先のテンプレートの使用 - _推奨_
+   * 宛先テンプレートの使用 – _推奨_
 
 * **同じ名前の画像**
    * どちらのファイルも保持する
-   * この配信登録内アイテムの置換 - _推奨_
+   * このサブスクリプションの項目を置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
-   * 既存のテンプレートを置換 — _推奨_
+   * 既存のテンプレートを置換 – _推奨_
 
 ## ベストプラクティス {#best-practices}
 
-* 現在ブランド化されているテンプレートを利用するには、読み込んだプログラムでテンプレートを更新することを検討するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートをブランドに合わせて更新します。
+* 読み込んだプログラムでテンプレートを更新して現在のブランドのテンプレートを利用するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートを更新し、ブランドを反映させることを検討してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。
 
-* 育成ケイデンスを一時停止し、再開するためのルールが整っていることを確認します。 エンゲージメントプログラムがアクティブ化される前に、これらのスマートキャンペーンをアクティブ化するか、スケジュールする必要があります。
+* ナーチャリング頻度を一時停止および再開するためのルールが整っていることを確認します。 これらのスマートキャンペーンは、エンゲージメントプログラムがアクティブ化される前にアクティブ化またはスケジュールされる必要があります。
 
 >[!NOTE]
 >
->必要に応じて、プログラムテンプレートのマイトークンの値を更新し、プログラムを使用するたびに値を更新してください。
+>必要に応じて、プログラムテンプレートとプログラムを使用するたびにマイトークン値を必ず更新してください。
 
 >[!TIP]
 >
->成功を追跡するための「04 — エンゲージ済み（プログラム成功）」キャンペーンを忘れずに有効化してください。 これを実行 _前_ メールが送信されます。
+>成功をトラッキングするには、「04 - エンゲージメント済み（プログラム成功）」キャンペーンを必ずアクティブ化してください。 メールを送信する前に _こ_ を行います。

@@ -6,8 +6,8 @@ exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 93%
+source-wordcount: '109'
+ht-degree: 77%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 93%
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. クリック **[!UICONTROL Presentations]** をクリックします。
+1. 右下隅にある ]**0}Presentations} をクリックします。**[!UICONTROL 
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
@@ -41,7 +41,7 @@ ht-degree: 93%
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. 「**[!UICONTROL ゴールターゲット]**」と「**[!UICONTROL 現在の値]****」の値を入力します（値がない場合は、0** と入力します）。「**[!UICONTROL 作成]**」をクリックします。
+1. **[!UICONTROL 目標ターゲット]** と **[!UICONTROL 現在の値]** の値を入力します（値がない場合は、**0** と入力します）。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

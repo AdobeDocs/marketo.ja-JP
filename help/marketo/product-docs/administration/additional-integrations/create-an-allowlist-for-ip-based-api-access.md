@@ -5,7 +5,7 @@ title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 

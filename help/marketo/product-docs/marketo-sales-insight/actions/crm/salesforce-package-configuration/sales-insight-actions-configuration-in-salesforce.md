@@ -3,7 +3,7 @@ description: Salesforce での Sales Insight Actions 設定 - Marketo ドキュ�
 title: Salesforce での Sales Insight Actions 設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 100%
 

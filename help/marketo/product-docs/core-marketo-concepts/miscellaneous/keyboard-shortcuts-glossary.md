@@ -6,7 +6,7 @@ exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 94%
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 キーボードショートカットを好む方でもご心配ありません。
 
-## エリアナビゲーション {#area-navigation}
+## エリア ナビゲーション {#area-navigation}
 
 | キーボードショートカット | エリア |
 |---|---|
@@ -27,7 +27,7 @@ ht-degree: 94%
 | Opt + N | 管理 |
 | Opt + O | マイ Marketo |
 
-## カレンダー/スケジュール表示のナビゲーション  {#calendar-schedule-view-navigation}
+## カレンダー/スケジュール表示ナビゲーション  {#calendar-schedule-view-navigation}
 
 | キーボードショートカット | アクション |
 |---|---|

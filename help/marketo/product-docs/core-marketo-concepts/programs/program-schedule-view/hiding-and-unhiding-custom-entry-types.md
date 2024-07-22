@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## カスタムエントリタイプの非表示 {#hide-a-custom-entry-type}
 
-1. 「**[!UICONTROL 管理者]**」セクションに移動して、**[!UICONTROL カレンダーエントリタイプ]**&#x200B;をクリックします。
+1. 「**[!UICONTROL 管理者]**」セクションに移動し、「**[!UICONTROL カレンダーエントリタイプ]**」をクリックします。
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 

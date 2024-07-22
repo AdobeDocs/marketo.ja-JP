@@ -5,7 +5,7 @@ title: スマートキャンペーンのリード制限の有効化
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 100%
 

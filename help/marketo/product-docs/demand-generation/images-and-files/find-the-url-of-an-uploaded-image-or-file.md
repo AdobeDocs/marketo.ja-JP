@@ -7,19 +7,19 @@ feature: Image Editor
 source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 88%
+ht-degree: 59%
 
 ---
 
 # アップロードされた画像またはファイルの URL を見つける {#find-the-url-of-an-uploaded-image-or-file}
 
-アップロードした画像またはファイルの Web アドレス（URL）をお探しの場合、
+アップロードした画像やファイルの web アドレス（URL）を探している場合は、
 
 1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. クリック **[!UICONTROL 画像とファイル]**.
+1. **[!UICONTROL 画像とファイル]** をクリックします。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 

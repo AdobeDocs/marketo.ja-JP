@@ -5,7 +5,7 @@ title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 

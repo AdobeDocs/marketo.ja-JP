@@ -13,21 +13,21 @@ ht-degree: 55%
 
 # 画像とファイルを Marketo に追加 {#add-images-and-files-to-marketo}
 
-新しい画像やファイルをMarketo Engageインスタンスに追加する方法を説明します。
+Marketo Engageインスタンスに新しい画像やファイルを追加する方法を説明します。
 
 1. **Design Studio** に移動します。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 選択 **[!UICONTROL 画像とファイル]**
+1. 「**[!UICONTROL 画像とファイル]**」を選択します。
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルをアップロード]**.
+1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルのアップロード]**」を選択します。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
-1. 目的の画像/ファイルをドラッグ&amp;ドロップするか、コンピューターを参照します。
+1. 目的の画像またはファイルをドラッグ&amp;ドロップするか、コンピューターを参照して選択します。
 
    ![](assets/add-images-and-files-to-marketo-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 55%
    >
    >ファイルあたりの最大サイズは 100 MB です。
 
-1. アセットを選択したら、 **アップロード**.
+1. アセットを選択したら、「**アップロード**」をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 

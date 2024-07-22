@@ -4,7 +4,7 @@ title: Salesforce 診断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
 source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1374'
 ht-degree: 100%
 

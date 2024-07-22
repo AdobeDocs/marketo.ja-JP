@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 100%
 

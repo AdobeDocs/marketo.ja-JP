@@ -6,7 +6,7 @@ exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '628'
 ht-degree: 100%
 
 ---

@@ -6,7 +6,7 @@ exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 83%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 83%
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 編集するスマートリストを選択し、 **[!UICONTROL スマートリスト]** タブをクリックします。
+1. 編集するスマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
 
    ![](assets/smartlist-choose.png)
 
@@ -29,7 +29,7 @@ ht-degree: 83%
 
    >[!TIP]
    >
-   >**[!UICONTROL 非アクティブフィルター]**&#x200B;フォルダーには、フィルターがたくさんあります。「Not」を検索して確認します。
+   >**[!UICONTROL 非アクティブフィルター]**&#x200B;フォルダーには、フィルターがたくさんあります。「Not」を検索して、チェックアウトします。
 
 1. **[!UICONTROL is any]** 演算子を選択します。これにより、過去 30 日間にどのページも訪問しなかったすべての人を検索します。
 

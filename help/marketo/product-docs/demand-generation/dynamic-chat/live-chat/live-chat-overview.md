@@ -4,9 +4,9 @@ title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
-workflow-type: ht
-source-wordcount: '645'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '665'
+ht-degree: 90%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 ## ライブチャットエージェントの追加 {#add-live-chat-agents}
 
-ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Console のユーザ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}として追加する必要があります。この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
+ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Consoleのユーザー ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} として追加し、[ ライブチャット権限 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} を付与する必要があります。 この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
 
-訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の[通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}が表示され、訪問者とのチャットを開始できます。
+訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の [ 通知オプション ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"} があります。 通知をクリックすると、訪問者は [ エージェントインボックス ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} に移動し、訪問者とチャットを開始できます。
 
 >[!NOTE]
 >

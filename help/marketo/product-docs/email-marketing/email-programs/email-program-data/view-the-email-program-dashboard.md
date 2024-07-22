@@ -5,7 +5,7 @@ title: メールプログラムダッシュボードの表示
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
 source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 100%
 

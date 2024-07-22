@@ -5,19 +5,19 @@ exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
 source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 83%
+source-wordcount: '313'
+ht-degree: 82%
 
 ---
 
 # 手順 1／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Microsoft Dynamics 365 とMarketo Engageを同期する前に、まずMarketoソリューションを Dynamics にインストールする必要があります。 **Dynamics 管理権限が必要です**.
+Microsoft Dynamics 365 とMarketo Engageを同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。 **Dynamics 管理者権限が必要です**。
 
 >[!CAUTION]
 >
 >* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。初回同期が完了すると、電子メールで通知されます。
->* Dynamics Sync で多要素認証（MFA）を有効にしている場合、Dynamics が Marketo と正しく同期するには、無効にする必要があります。詳しくは、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>* Dynamics Sync で多要素認証（MFA）を有効にしている場合、Dynamics が Marketo と正しく同期するには、無効にする必要があります。詳しくは、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Microsoft Dynamics 365 とMarketo Engageを同期する前に、まずMarketoソ
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 「**[!UICONTROL ファイルを選択]**」をクリックします。[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. **[!UICONTROL ファイルを選択]** をクリックします。 [ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -83,7 +83,7 @@ Microsoft Dynamics 365 とMarketo Engageを同期する前に、まずMarketoソ
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 選択 **[!UICONTROL Marketoリード管理]** をクリックします。 **[!UICONTROL すべてのカスタマイズを公開]**.
+1. **[!UICONTROL Marketo リード管理を選択し]****[!UICONTROL すべてのカスタマイズをPublish]** をクリックします。
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

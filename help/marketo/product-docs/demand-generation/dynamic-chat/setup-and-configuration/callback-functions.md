@@ -4,7 +4,7 @@ title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
 source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 100%
 

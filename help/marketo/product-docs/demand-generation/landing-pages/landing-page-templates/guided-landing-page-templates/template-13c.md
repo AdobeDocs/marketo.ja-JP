@@ -6,7 +6,7 @@ exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '44'
 ht-degree: 100%
 
 ---

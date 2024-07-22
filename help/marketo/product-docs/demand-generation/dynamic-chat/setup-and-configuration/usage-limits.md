@@ -2,7 +2,8 @@
 description: セキュリティ設定 – Marketo ドキュメント – 製品ドキュメント
 title: セキュリティ設定
 feature: Dynamic Chat
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 3%
@@ -13,7 +14,7 @@ ht-degree: 3%
 
 使用制限ページにアクセスして、パッケージ情報や使用制限ステータスなどの重要な情報を確認します。
 
-1. 「Configuration」で、 **[!UICONTROL 使用の制限]**.
+1. 「設定」で、「**[!UICONTROL 使用制限]**」をクリックします。
 
    ![](assets/usage-limits-1.png)
 

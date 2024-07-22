@@ -29,7 +29,7 @@ Salesforce のフィールドから選択リスト値が削除された場合、
 
 >[!NOTE]
 >
->Salesforce のリードフィールドと連絡先フィールドの値が異なる場合、共通の値はMarketo Engageで使用できます。
+>Salesforce のリードフィールドと連絡先フィールドの値が異なる場合、共通の値をMarketo Engageで使用できるようになります。
 
 Salesforce のリードフィールドと連絡先フィールドの値が異なる場合：
 

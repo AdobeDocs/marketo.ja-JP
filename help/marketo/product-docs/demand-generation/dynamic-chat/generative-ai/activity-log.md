@@ -14,11 +14,11 @@ ht-degree: 7%
 
 すべてのタスクとタスクに付随する詳細（名前、所有者、タイプ、編集者、タイミングなど）のリストを確認します。
 
-1. 「生成 AI」で、 **[!UICONTROL 支援応答]**.
+1. 「生成 AI」で、「**[!UICONTROL Assisted responses]**」をクリックします。
 
    ![](assets/activity-log-1.png)
 
-1. 「」をクリックします **[!UICONTROL アクティビティログ]** タブ。
+1. 「**[!UICONTROL アクティビティログ]**」タブをクリックします。
 
    ![](assets/activity-log-2.png)
 

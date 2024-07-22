@@ -6,7 +6,7 @@ exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '371'
 ht-degree: 90%
 
 ---
@@ -29,7 +29,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [は英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
 
 1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL セキュリティ]**」をクリックします。
 
@@ -39,7 +39,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/assign2.png)
 
-1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、 [Active Directory フェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) 管理者：Marketo専用のユーザーを作成します。
+1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} （ADFS）の管理者に連絡してMarketo専用のユーザーを作成してください。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 

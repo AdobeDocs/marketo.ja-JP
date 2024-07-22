@@ -1,5 +1,5 @@
 ---
-description: Adobe PDF Embed API - Marketoドキュメント — 製品ドキュメント
+description: Adobe PDF Embed API - Marketo ドキュメント – 製品ドキュメント
 title: Adobe PDF Embed API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
@@ -40,7 +40,7 @@ ht-degree: 88%
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. を貼り付けます。 [!UICONTROL クライアント ID] をクリックします。 **[!UICONTROL 保存]**.
+1. [!UICONTROL  クライアント ID] を貼り付け、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

@@ -4,7 +4,7 @@ title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
 

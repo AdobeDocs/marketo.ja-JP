@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 >
 >[通信制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-1 日に何度もメールを送ったり、1 週間に送信するメールが多すぎたりするのは適切とは言えません。Marketo Engage の通信制限が役に立ちます。
+1 日に何度もメールを送ったり、1 週間に送信するメールが多すぎたりするのは適切とは言えません。幸いにも、Marketo Engageには支援を行うためのコミュニケーションの制限があります。
 
 >[!NOTE]
 >
@@ -37,6 +37,6 @@ ht-degree: 100%
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者」セクションで[通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}を編集します。
+>これをデフォルトにするには、「管理者」セクションで [ 通信の制限 ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
 
 誤ってオーディエンスに大量のメールを送信しないようにすることができます。

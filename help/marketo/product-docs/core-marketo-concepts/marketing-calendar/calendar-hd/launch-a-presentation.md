@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 69%
+ht-degree: 86%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 69%
 >[!AVAILABILITY]
 >
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 69%
 
    >[!TIP]
    >
-   >プレゼンテーションが新しいタブで開きます。必要に応じて、タブを外部モニタに移動し、 **[!UICONTROL 全画面]**.
+   >プレゼンテーションが新しいタブで開きます。必要に応じて、タブを外部モニタに移動して表示し、[**[!UICONTROL フルスクリーン]**] をクリックします。

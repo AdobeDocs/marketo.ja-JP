@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 100%
 
 ---
@@ -84,20 +84,20 @@ Google Mail Sales Insight 拡張機能のアップデートがリリースされ
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - コンテンツ分析と提案 {#rtp-content-analytics-and-recommendations}
+## RTP - コンテンツ分析とレコメンデーション {#rtp-content-analytics-and-recommendations}
 
-[コンテンツ分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)と提案
+[コンテンツ分析](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)とレコメンデーション
 
-RTP コンテンツ分析は、通常の web 訪問からの web コンテンツアセットのパフォーマンスと、RTP のコンテンツ提案エンジンから生成された訪問のパフォーマンスを示します。
+RTP コンテンツ分析は、通常の web 訪問からの web コンテンツアセットのパフォーマンスと、RTP のコンテンツレコメンデーションエンジンから生成された訪問のパフォーマンスを示します。
 
 * どのコンテンツが最も効果が高く、最もリードを増やしているかを確認します
 * RTP の予測コンテンツエンジンのコンテンツが、適切な訪問者に最適なコンテンツを自動的に提案できるようにすることで、コンテンツ消費を増やします
 * 各コンテンツアセットを詳細に分析し、より詳細な指標、グラフ、効果を確認します
 
-RTP のアセットページが、コンテンツ分析とコンテンツ提案に分割されました。
+RTP のアセットページが、コンテンツ分析とコンテンツレコメンデーションに分割されました。
 
 * **コンテンツ分析**：検出されたすべての定義済みの web コンテンツのビューとダイレクトリードを表示し、最も効果の高いコンテンツの分析に役立ちます。
-* **コンテンツ提案**：RTP の推奨コンテンツおよび関連するリード属性からのインプレッションおよびクリックを表示します。このページから、[バー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)および[リッチメディア](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)のコンテンツの提案を編集して有効にすることもできます。
+* **コンテンツレコメンデーション**：RTP のレコメンデーションコンテンツおよび関連するリード属性からのインプレッションおよびクリックを表示します。このページから、[バー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)および[リッチメディア](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)のコンテンツレコメンデーションを編集して有効にすることもできます。
 
 * これら 2 つのページのすべてのダイレクトリードデータは、今年（2015年）の 1月1日以降、遡及的に更新されています。
 

@@ -6,7 +6,7 @@ exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '232'
 ht-degree: 100%
 
 ---

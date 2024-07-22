@@ -5,7 +5,7 @@ title: 永続的な登録解除
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
 source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 100%
 

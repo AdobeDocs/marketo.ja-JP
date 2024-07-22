@@ -13,13 +13,13 @@ ht-degree: 82%
 
 # リストまたはスマートリストから人物を Excel にエクスポート {#export-people-to-excel-from-a-list-or-smart-list}
 
-Marketo以外でリストまたはスマートリストの結果が必要な場合は、Excel に簡単にエクスポートできます。 手順は次のとおりです。
+Marketo以外でリストまたはスマートリストの結果が必要な場合は、Excel に簡単に書き出すことができます。 手順は次のとおりです。
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
    ![](assets/ma.png)
 
-1. エクスポートするリストまたはスマートリストを選択し、 **[!UICONTROL People]** タブをクリックします。
+1. 書き出すリストまたはスマートリストを選択し、「**[!UICONTROL 人物]**」タブに移動します。
 
    ![](assets/smartlistpeopletab-hands.png)
 

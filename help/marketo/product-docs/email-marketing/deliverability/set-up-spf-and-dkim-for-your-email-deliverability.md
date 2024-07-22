@@ -6,8 +6,8 @@ exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 100%
+source-wordcount: '425'
+ht-degree: 98%
 
 ---
 
@@ -51,6 +51,6 @@ DNS レコードに公開鍵を設定し、管理セクション（A）で送信
 
 >[!MORELIKETHIS]
 >
->* [SPF の詳細と仕組み](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [SPF とその仕組みの詳細を説明します ](http://www.open-spf.org/Introduction/){target="_blank"}。
 >* [SPF が正しく設定されていますか？](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [正しい構文を使用しましたか？](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}

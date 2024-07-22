@@ -12,7 +12,7 @@ ht-degree: 87%
 
 # キャンペーン同期の有効化 {#enable-campaign-sync}
 
-このオプションを使用すると、Marketo Engageは MS Dynamics Campaign に対してメンバーを追加および削除できます。
+このオプションを使用すると、Marketo Engageは MS Dynamics キャンペーンにメンバーを追加および MS Dynamics キャンペーンからメンバーを削除できます。
 
 >[!PREREQUISITES]
 >

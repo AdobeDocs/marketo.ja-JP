@@ -7,7 +7,7 @@ feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 達成配信の設定 {#set-up-fulfillment-delivery}
 
-1. 紹介オファーを選択して、「**ドラフトを編集**」をクリックします。
+1. 紹介オファーを選択します。 「**ドラフトを編集**」をクリックします。
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 

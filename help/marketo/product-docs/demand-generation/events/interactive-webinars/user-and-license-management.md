@@ -4,7 +4,7 @@ title: ユーザーとライセンスの管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
 source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 100%
 

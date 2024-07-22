@@ -1,20 +1,20 @@
 ---
-description: OP-Data Management - Marketoドキュメント — 製品ドキュメント
+description: OP-Data Management - Marketo ドキュメント – 製品ドキュメント
 title: OP-データ管理
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 28%
+source-wordcount: '319'
+ht-degree: 27%
 
 ---
 
 # OP-データ管理 {#op-data-management}
 
-これは、Marketo Engage・データベース内のレコードのデータ整合性を管理するのに役立つ、デフォルト・プログラムを使用した、シンプルな運用可能なデータ管理ベスト・プラクティス・ワークフローの例です。
+これは、Marketo Engageデータベース内のレコードのデータの一貫性を管理する際に役立つ、デフォルトプログラムを使用したシンプルな運用データ管理ベストプラクティスワークフローの例です。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,20 +22,20 @@ ht-degree: 28%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>オペレーショナル</td> 
-   <td>01 — メンバー</td>
+   <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -47,22 +47,22 @@ ht-degree: 28%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>国の標準化 — 米国</td>
+   <td>国を正規化 – 米国</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>国の標準化 — 英国</td>
+   <td>国を正規化 – 英国</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>True に設ブロックリストに加える定</td>
+   <td>True にブロックリストに加える</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Is Partner を True に設定</td>
+   <td>パートナーを True に設定</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -102,17 +102,17 @@ ht-degree: 28%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>リストインポートからの新規担当者</td>
+   <td>リストの読み込みから新規人物</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>ライブイベントからの新規担当者</td>
+   <td>ライブイベントからの新しいユーザー</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>オンライン広告の新規担当者</td>
+   <td>オンラインAdvertisingからの新しいユーザー</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -122,32 +122,32 @@ ht-degree: 28%
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web コンテンツからの新規担当者</td>
+   <td>Web コンテンツからの新しいユーザー</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web リクエストからの新規担当者</td>
+   <td>Web リクエストからの新しいユーザー</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>ウェビナーからの新規担当者</td>
+   <td>ウェビナーの新しいユーザー</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>担当者ソースの夜間バッチ（高トラフィックインスタンスの場合）</td>
+   <td>人物Source夜間バッチ（高トラフィックインスタンスの場合）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>トリガーされた担当者のソース（低トラフィックインスタンスの場合）</td>
+   <td>人物Sourceがトリガーされます（低トラフィックインスタンスの場合）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>担当者ソースのキャプチャ</td>
+   <td>人物のSourceをキャプチャ</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -172,23 +172,23 @@ ht-degree: 28%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートをコピー — _推奨_
+   * 元のテンプレートをコピー – _推奨_
    * インポート先のテンプレートの使用
 
 * **同じ名前の画像**
-   * 両方のファイルを保持 — _推奨_
-   * この配信登録内アイテムの置換
+   * 両方のファイルを保持 – _推奨_
+   * このサブスクリプション内アイテムの置換
 
 * **同じ名前のメールテンプレート**
-   * 両方のテンプレートを保持 — _推奨_
+   * 両方のテンプレートを保持 – _推奨_
    * 既存テンプレートの置換
 
 ## ベストプラクティス {#best-practices}
 
-* 作成された各キャンペーンは、ベストプラクティスビルドの例を示すもので、ユースケースに固有のものではありません。 スマートキャンペーンを更新し、特定の問題点やデータ上の課題に対応してください。
+* 構築された各キャンペーンは、ユースケースに固有ではなく、ベストプラクティスのビルドの例となることを目的としています。 特定のペイン ポイントとデータの課題に対処できるように、スマートキャンペーンを必ず更新してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。

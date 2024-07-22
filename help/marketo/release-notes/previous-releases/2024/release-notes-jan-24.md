@@ -30,7 +30,7 @@ ht-degree: 21%
    <th style="width:25%">ドキュメント</th>
   </tr>
     <tr> 
-   <td><strong>インタラクティブウェビナーのオンデマンドウェビナー</strong>：オンデマンドウェビナーでは、ウェビナー録画を公開し、訪問回数/ウォッチを追跡できます。 これにより、ウェビナーに参加しなかったものの、詳細を見つけたり録画を視聴したりすることに関心のある登録者を通じて、より多くのリードを獲得できます。</td> 
+   <td><strong> インタラクティブウェビナーのオンデマンドウェビナー </strong>：オンデマンドウェビナーでは、ウェビナー録画を公開したり、訪問回数/ウォッチを追跡したりできます。 これにより、ウェビナーに参加しなかったものの、詳細を見つけたり録画を視聴したりすることに関心のある登録者を通じて、より多くのリードを獲得できます。</td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">オンデマンドウェビナー</a></td>
   </tr>
@@ -40,7 +40,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>対話型ランディングページ</strong>:Dynamic Chatの会話フローをMarketo Engageランディングページに直接埋め込むことで、訪問者は、フォームに入力したりチャットボットとやり取りしたりせずに、Dynamic Chatを通じてミーティングをスケジュールできます。</td> 
+   <td><strong> 対話型ランディングページ </strong>:Dynamic Chatの対話型フローをMarketo Engageランディングページに直接埋め込むと、訪問者は、フォームに入力したりチャットボットとやり取りしたりしなくても、Dynamic Chatを通じてミーティングをスケジュールできます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -50,7 +50,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>電子メールボットアクティビティのフィルタリング</strong>：ボットアクティビティ識別フィルタリングのアグレッシブを選択できるようにすることで、メールエンゲージメントのためのボットアクティビティのキャプチャを改善します。</td> 
+   <td><strong> メールボットアクティビティのフィルタリング </strong>：ボットアクティビティ識別フィルタリングのアグレッシブを選択できるようにすることで、メールエンゲージメントのボットアクティビティのキャプチャを改善します。</td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">メールボットアクティビティのフィルター</a></td>
   </tr>
@@ -60,7 +60,7 @@ ht-degree: 21%
    <td> </td>
    </tr>
     <tr> 
-   <td><strong>リード読み込みの一括 API の更新</strong>：一括リード読み込み API の動作に次のような軽微な調整が加えられました <b>id</b> はとして指定されます。 <b>lookupField</b> ジョブの作成中です。 個人レコードが提供にリンクされている場合 <b>id</b> がMarketo Engageデータベースに見つかりません。レコードが見つからないので、レコードの更新は行われません。 更新された動作には、でのカウントの増分が含まれるようになりました。 <b>numOfRowsFailed</b> 応答内のプロパティで、このような場合に操作が失敗したことを示します。</td> 
+   <td><strong> リード一括読み込み API の更新 </strong>：ジョブ作成中に <b>id</b> が <b>lookupField</b> として指定された場合のリード一括読み込み API の動作に軽微な調整が加えられました。 指定された <b>id</b> にリンクされている人物レコードがMarketo Engageデータベースで見つからない場合、レコードが見つからないので、レコードは更新されません。 更新された動作には、応答内の <b>numOfRowsFailed</b> プロパティのカウントが増分され、このような場合に操作が失敗したことを示すようになりました。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -70,7 +70,7 @@ ht-degree: 21%
    <td> </td>
    </tr>
   <tr> 
-   <td><strong>インタラクティブウェビナーのコホスト</strong>：インタラクティブウェビナーの「ウェビナーチーム」セクションのコホストを使用すると、イベント作成者は、内部または外部のユーザーをインタラクティブウェビナープログラムに追加して、管理と配信の責任を共有できます。</td> 
+   <td><strong> インタラクティブウェビナーのコホスト </strong>：インタラクティブウェビナーの「ウェビナーチーム」セクションのコホストを使用すると、イベント作成者は、内部または外部のユーザーをインタラクティブウェビナープログラムに追加して、管理と配信の責任を共有できます。</td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">ウェビナーチームの追加</a></td>
   </tr>
@@ -80,7 +80,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>インタラクティブウェビナーでのユーザーの削除</strong>:Marketo Engage管理者は、インタラクティブウェビナーで特定のユーザーを削除できるようになりました。</td> 
+   <td><strong> インタラクティブウェビナーでのユーザーの削除 </strong>:Marketo Engage管理者は、インタラクティブウェビナーで特定のユーザーを削除できるようになりました。</td> 
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -105,7 +105,7 @@ ht-degree: 21%
   </tr> 
   </tr>
     <tr> 
-   <td><strong>展開可能構成ウィンドウ</strong>：メールを作成ウィンドウで未使用の領域が自動的に圧縮されるようになり、エディターに空き領域を増やすことができます。 さらに、このウィンドウはポップアップ表示されてさらに拡大することができ、ユーザーはメールを編集するために必要なスペースをできる限り確保できます。</td> 
+   <td><strong> 展開可能なメール作成ウィンドウ </strong>：メール作成ウィンドウで未使用のスペースを自動的に圧縮できるようになり、エディターのスペースを広げることができます。 さらに、このウィンドウはポップアップ表示されてさらに拡大することができ、ユーザーはメールを編集するために必要なスペースをできる限り確保できます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -126,7 +126,7 @@ ht-degree: 21%
   </tr> 
   </tr>
     <tr> 
-   <td><strong>会話型Forms用チャットボット UI</strong>:Web サイトの訪問者が会話フローでライブチャットをリクエストできるようになりました。</td> 
+   <td><strong> 会話型Formsのチャットボット UI</strong>:web サイト訪問者は、会話型フローでライブチャットをリクエストできるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -137,7 +137,7 @@ ht-degree: 21%
   </tr>
    </tr>
     <tr> 
-   <td><strong>Chatbot フォントの色オプション</strong>：チャットボット設定のフォントカラーをカスタマイズします。</td> 
+   <td><strong> チャットボットフォントカラーオプション </strong>：チャットボット設定のフォントカラーをカスタマイズします。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -148,7 +148,7 @@ ht-degree: 21%
   </tr>
    </tr>
     <tr> 
-   <td><strong>ダイアログを繰り返すオプション</strong>：訪問者が終了した後、最初からダイアログを再開できるようになりました。</td> 
+   <td><strong> ダイアログを繰り返すオプション </strong>：訪問者が終了した後、最初にダイアログを再開できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -159,7 +159,7 @@ ht-degree: 21%
   </tr>
     </tr>
     <tr> 
-   <td><strong>手動ライブチャットの終了</strong>：訪問者とエージェントの両方が、ライブチャットセッションを手動で終了できるようになりました。</td> 
+   <td><strong> 手動によるライブチャットの終了 </strong>：訪問者とエージェントの両方が、ライブチャットセッションを手動で終了できるようになりました。</td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">エージェントのインボックス</a></td>
   </tr>
@@ -170,7 +170,7 @@ ht-degree: 21%
   </tr>
     </tr>
     <tr> 
-   <td><strong>エージェントインボックス内の最近のMarketo Engageアクティビティ</strong>：最近使用したMarketo Engageアクティビティ（開封済みのメールや入力済みのフォームなど）が、エージェントインボックスにリードに対して表示されます。</td> 
+   <td><strong> エージェントインボックスの最近のMarketo Engageアクティビティ </strong>：開いたメールや記入したフォームなどの最近のMarketo Engageアクティビティが、エージェントインボックスのリードに表示されます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -180,7 +180,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>条件分岐</strong>：訪問者の場所やライブエージェントの可用性など、事前に定義された条件に基づいて、様々な会話コンテンツを訪問者に表示できるようになりました。</td> 
+   <td><strong> 条件付きブランチ </strong>：訪問者の場所やライブエージェントの可用性など、事前に定義された条件に基づいて、様々な会話コンテンツを訪問者に表示できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -190,12 +190,12 @@ ht-degree: 21%
 
 ## お知らせ {#announcements}
 
-* **ワンクリックリスト – 登録解除の更新**:Gmail と Yahoo は、2024 年 2 月 1 日に施行された新しい送信者の要件をいくつか実装しています。 学ぶ [概要と影響](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
+* **ワンクリックリスト – 登録解除の更新**:Gmail と Yahoo は、2024 年 2 月 1 日に有効になった、いくつかの新しい送信者要件を実装しました。 [ その概要と影響 ](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} を説明します。
 
-* **リード API アップデートを同期**：です [リード API を同期](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、の更新に関して若干調整されました `unsubscribed` フィールド。 さて、あなたが渡すとき `null` 値として、の値を渡すのと同じです。 `false`.
+* **リード API の更新を同期**: [ リード API を同期 ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} の動作が、「`unsubscribed`」フィールドの更新に関して若干調整されました。 現在は、`null` を値として渡すと、`false` の値を渡すのと同じになります。
 
-* **Marketo EngageForms jQuery 1.x**: 2024 年 1 月のリリースで、Marketo EngageFormsの jQuery を jQuery 3.x にアップデートする予定です。これは、古いバージョンの jQuery に基づくカスタムフォーム実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
+* **Marketo EngageForms jQuery 1.x**: 2024 年 1 月のリリースで、Marketo EngageFormsの jQuery を jQuery 3.x に更新する予定です。これは、古いバージョンの jQuery に基づくカスタムフォーム実装に影響を与える可能性があります。 [詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}。
 
-* **SSO のみのユーザーの電子メール検証**:SSO 以前はユーザーのみが自動検証され、アクセスできないメールアカウントを使用できるようにしていました。 1 月中旬以降、既存の SSO のみのユーザーは未検証になり、メールアカウントに送信するリンクからメールを再検証するように求められます。 すべての新しい SSO のみのユーザーは、今後、メールアドレスを検証する必要があります。
+* **SSO のみのユーザー向けのメール検証**:SSO 自動で検証されるユーザーのみを対象とし、アクセスできないメールアカウントを使用できるようにしたものです。 1 月中旬以降、既存の SSO のみのユーザーは未検証になり、メールアカウントに送信するリンクからメールを再検証するように求められます。 すべての新しい SSO のみのユーザーは、今後、メールアドレスを検証する必要があります。
 
-* を視聴 [2024 年 1 月Marketo Engageリリースウェビナー](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* [2024 年 1 月Marketo Engageリリースのウェビナー ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} をご覧ください。

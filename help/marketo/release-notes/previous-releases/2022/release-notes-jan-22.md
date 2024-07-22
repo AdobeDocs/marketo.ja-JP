@@ -5,7 +5,7 @@ exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -83,7 +83,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。[こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 認証情報のみを更新する必要があります。
+**Marketo Engage ドメイン - Sales Insight 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。したがって、これらのドメインは廃止される予定です。その結果、これらのドメインを指す古い設定を持つ Sales Insight ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。このエラーが発生した場合、Salesforce で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。ドキュメントの「Marketo Sales Insight 設定」節でハイライトされている Marketo Engage 資格情報のみを更新する必要があります。
 
 **_製品リリースウェビナー_**
 

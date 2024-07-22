@@ -5,7 +5,7 @@ title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
 source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
 

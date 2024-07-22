@@ -4,7 +4,7 @@ title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
 source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 100%
 

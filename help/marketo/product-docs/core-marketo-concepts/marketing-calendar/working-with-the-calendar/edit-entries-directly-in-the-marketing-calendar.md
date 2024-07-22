@@ -17,7 +17,7 @@ ht-degree: 97%
 
 ## プログラムフォーカスの有効 {#enable-program-focus}
 
-1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
+1. **[!UICONTROL カレンダー]** タイルをクリックします。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 

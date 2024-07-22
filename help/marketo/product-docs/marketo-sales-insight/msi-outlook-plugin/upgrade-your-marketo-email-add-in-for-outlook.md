@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '335'
+ht-degree: 96%
 
 ---
 
@@ -117,7 +117,7 @@ Outlook 用 Marketo メールアドインの新しいバージョンが利用可
  </tbody> 
 </table>
 
-&#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro の場合）。
+&#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro 上）。
 
 ## アップグレード {#upgrade}
 
@@ -168,4 +168,4 @@ Outlook 用 Marketo メールアドインの新しいバージョンが利用可
 >[!MORELIKETHIS]
 >
 >* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Marketo テンプレートを使用した Outlook からの送信とトラッキング](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

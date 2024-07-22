@@ -5,7 +5,7 @@ title: チャンピオン／挑戦者：件名
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
 source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 

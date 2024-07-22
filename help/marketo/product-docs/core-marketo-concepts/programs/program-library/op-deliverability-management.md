@@ -1,24 +1,24 @@
 ---
-description: OP-Deliverability Management - Marketoドキュメント — 製品ドキュメント
+description: OP-Deliverability Management - Marketo ドキュメント – 製品ドキュメント
 title: OP-配信品質管理
 feature: Programs
-exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '248'
 ht-degree: 21%
 
 ---
 
 # OP-配信品質管理 {#op-deliverability-management}
 
-これは、Marketo Engageのデフォルトプログラムを利用した配信品質管理のベストプラクティスワークフローの例で、E メール配信品質の現在の状態を確認し、慢性的なバウンスと非レスポンダーを管理します。
+これは、Marketo Engageのデフォルトプログラムを使用した配信品質の管理ベストプラクティスワークフローの例で、メールの配信品質の現在の状態を確認し、慢性的なバウンスや無応答のユーザーを管理します。
 
 >[!NOTE]
 >
->読み込むには、カスタム文字列フィールド「マーケティングの中断理由」が必要です。 [詳細情報](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
+>インポートするには、カスタム文字列フィールド「マーケティング中断の理由」が必要です。 [詳細情報](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -26,20 +26,20 @@ ht-degree: 21%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>オペレーショナル</td> 
-   <td>01 — メンバー</td>
+   <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## 前提条件のフィールド {#prerequisite-fields}
+## 必須フィールド {#prerequisite-fields}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -56,7 +56,7 @@ ht-degree: 21%
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,12 +68,12 @@ ht-degree: 21%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>慢性的な非対応者のマーケティング停止</td>
+   <td>マーケティング慢性的な無応答者の休止</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>時系列的にバウンスするメールのマーケティング停止</td>
+   <td>マーケティングの慢性的なバウンスメールを中断</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -83,7 +83,7 @@ ht-degree: 21%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>メールの更新後に「マーケティングを中断」をリセット</td>
+   <td>メールの更新後に「マーケティングが中断されました」をリセット</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -103,23 +103,23 @@ ht-degree: 21%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートをコピー — _推奨_
+   * 元のテンプレートをコピー – _推奨_
    * インポート先のテンプレートの使用
 
 * **同じ名前の画像**
-   * 両方のファイルを保持 — _推奨_
-   * この配信登録内アイテムの置換
+   * 両方のファイルを保持 – _推奨_
+   * このサブスクリプション内アイテムの置換
 
 * **同じ名前のメールテンプレート**
-   * 両方のテンプレートを保持 — _推奨_
+   * 両方のテンプレートを保持 – _推奨_
    * 既存テンプレートの置換
 
 ## ベストプラクティス {#best-practices}
 
-* 作成された各キャンペーンは、ベストプラクティスビルドの例を示すもので、ユースケースに固有のものではありません。 スマートキャンペーンを更新し、特定の問題点やデータ上の課題に対応してください。
+* 構築された各キャンペーンは、ユースケースに固有ではなく、ベストプラクティスのビルドの例となることを目的としています。 特定のペイン ポイントとデータの課題に対処できるように、スマートキャンペーンを必ず更新してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。

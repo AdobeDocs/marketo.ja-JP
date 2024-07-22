@@ -7,7 +7,7 @@ feature: Image Editor
 source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 37%
+ht-degree: 35%
 
 ---
 
@@ -17,31 +17,31 @@ ht-degree: 37%
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. クリック **[!UICONTROL 画像とファイル]**.
+1. **[!UICONTROL 画像とファイル]** をクリックします。
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 置き換えるアセットを選択します。 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 画像またはファイルの置換]**.
+1. 置換するアセットを選択します。 **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルの置換]**」を選択します。
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. 置き換える画像/ファイルを探すコンピューターをドラッグ&amp;ドロップまたは参照します。
+1. 置き換える画像またはファイルをコンピューターにドラッグ&amp;ドロップするか、参照します。
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >置き換えるファイルの種類は、元のファイルと同じ（例：.jpg）にする必要があります
+   >置き換えるファイルのタイプは、元のファイルと同じである必要があります（例：.jpg）
 
-1. 置き換える画像/ファイルを選択したら、 **[!UICONTROL 置換]**.
+1. 置き換える画像またはファイルを選択したら、「**[!UICONTROL 置換]**」をクリックします。
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
    >[!NOTE]
    >
-   >置き換えるファイルの名前は、前のファイルの名前に合わせて変更されます。
+   >置き換えるファイルの名前は、以前のファイルの名前と一致するように変更されます。
 
-これで完了です。
+お疲れさまでした。
 
 >[!MORELIKETHIS]
 >

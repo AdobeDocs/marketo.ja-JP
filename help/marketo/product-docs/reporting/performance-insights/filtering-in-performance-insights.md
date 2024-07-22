@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 95%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>商談のタイプ</strong></p></td> 
-   <td colspan="1"><p>Salesforce(CRM) 設定の商談オブジェクトに設定された商談のタイプ。</p></td> 
+   <td colspan="1"><p>Salesforce （CRM）設定の商談オブジェクトで設定された商談タイプ。</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>プログラムタグ</strong></p></td> 

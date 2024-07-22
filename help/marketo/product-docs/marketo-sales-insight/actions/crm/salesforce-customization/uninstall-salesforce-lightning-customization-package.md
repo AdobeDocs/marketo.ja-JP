@@ -5,7 +5,7 @@ exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
 source-git-commit: 688120d2529339274c1650c7478480156810b0b4
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '1184'
 ht-degree: 100%
 
 ---
@@ -199,7 +199,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
  </tr>
  <tr>
   <td>MSC 電話ローカルプレゼンス ID</td>
-  <td>ユーザは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
+  <td>ユーザーは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>

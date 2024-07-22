@@ -5,7 +5,7 @@ title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

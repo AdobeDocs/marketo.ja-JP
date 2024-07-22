@@ -4,7 +4,7 @@ title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
 source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
 

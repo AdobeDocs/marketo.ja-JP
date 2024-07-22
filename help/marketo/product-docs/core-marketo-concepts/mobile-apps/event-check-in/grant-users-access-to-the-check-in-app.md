@@ -6,8 +6,8 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 71%
+source-wordcount: '263'
+ht-degree: 73%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engageには、イベントチェックインアプリ用の特別なユ
 
 >[!IMPORTANT]
 >
->2023 年 10 月 3 日に、Adobeは、すべてのアプリストアからMarketo Events App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## モバイル用の新しいユーザーの役割の作成 {#create-a-new-user-role-for-mobile}
 

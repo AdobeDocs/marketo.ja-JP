@@ -6,7 +6,7 @@ exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---

@@ -6,8 +6,8 @@ exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '48'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 このテンプレートには、次の内容が含まれます。
 
-* プライマリセクション(任意)
+* プライマリセクション（オプション）
 
    * ヒーロータイトルおよびヒーローテキストが含まれます
 

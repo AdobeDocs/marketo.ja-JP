@@ -6,7 +6,7 @@ feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 77%
+ht-degree: 66%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 77%
 
 >[!PREREQUISITES]
 >
->Marketo Engage用 Dynamics プラグインの最新バージョンに更新します。
+>をMarketo Engage用 Dynamics プラグインの最新バージョンに更新します。
 
 次のフローアクションを使用できます。
 
-* [!UICONTROL Microsoft キャンペーンに追加]
-* [!UICONTROL Microsoft キャンペーンから削除]
+* [!UICONTROL Microsoft キャンペーンに追加 ]
+* [!UICONTROL Microsoft Campaign から削除 ]
 
 >[!NOTE]
 >
@@ -29,10 +29,10 @@ ht-degree: 77%
 
 また、次の 2 つのトリガーがあります。
 
-* [!UICONTROL Microsoft キャンペーンに追加済み]
-* [!UICONTROL Microsoft キャンペーンから削除済み]
+* [!UICONTROL Microsoft Campaign に追加されました ]
+* [!UICONTROL Microsoft Campaign から削除されました ]
 
-トリガーは、Marketoフローアクション「[!UICONTROL Microsoft Campaign に追加]&quot;および&quot;[!UICONTROL Microsoft Campaign から削除済み].&quot;
+トリガーは、Marketo フローアクション「[!UICONTROL Microsoft Campaign に追加 ]」および「[!UICONTROL Microsoft Campaign から削除 ] のアクションに基づいて実行されます。
 
 >[!NOTE]
 >

@@ -5,8 +5,8 @@ title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
-source-wordcount: '162'
+workflow-type: tm+mt
+source-wordcount: '166'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >Marketo では、人物データを更新する方法がたくさんあります。[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}を参照してください。
+   >Marketo では、人物データを更新する方法がたくさんあります。詳しくは、[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}および[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}を参照してください。
 
 ## 人物データを更新する {#update-the-person-data}
 

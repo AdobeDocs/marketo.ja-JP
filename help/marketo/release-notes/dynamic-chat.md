@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対する、よりスケーラブルなアプローチが可能になります。 1 か月に複数のリリースがある場合があるので、定期的に最新の情報を確認してください。
 
-標準のリリースノートページ（Marketo Engage） [詳細はこちら](/help/marketo/release-notes/current.md){target="_blank"}.
+Marketo Engageの標準リリースノートページ [ こちらを参照 ](/help/marketo/release-notes/current.md){target="_blank"} です。
 
 ## 2024 年 6 月リリース {#june-release}
 
-**リリース日：2024 年 6 月 6 日（PT）**
+**リリース日：2024 年 6 月 6 日**
 
 ### 対話型フローカード {#conversational-flow-card}
 
@@ -38,29 +38,29 @@ Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて�
 
 ## 2024 年 5 月リリース {#may-release}
 
-**リリース日：2024 年 5 月 15 日（PT）**
+**リリース日：2024 年 5 月 15 日**
 
 ### 事前承認応答ライブラリ {#pre-approved-response-library}
 
-[マーケティング承認済みライブラリの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} （AI が生成する質問と回答）を参照して、数分でジェネレーティブ AI チャットを設定できます。
+AI で生成された質問と回答の [ マーケティング承認済みライブラリの作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} を行うと、ジェネレーティブ AI チャットを数分で設定できます。
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### 未回答の質問 {#unanswered-questions}
 
-[未回答の質問のリポジトリを使用](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} の前の会話から、最新の情報を含んだ応答ライブラリを維持する、新しい事前承認済み応答を生成します。
+以前の会話の [ 未回答の質問のリポジトリを使用 ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} して、最新の情報を使用した応答ライブラリを維持しながら、新しい事前承認済み応答を生成します。
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### 会話の概要 {#conversation-summaries}
 
-[営業エージェントに要約された会話を提供](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 会議に先立って主要なディスカッションのトピックに関するインサイトを得て、準備時間を短縮し、最新の情報を使用して営業担当者を強化します。
+[ 営業担当者に ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 会議に先立って主要なディスカッションのトピックに関するインサイトを含む会話をまとめ、準備時間を短縮し、最新の情報を使用してより優れた営業担当者を提供します。
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI のセールスショートカット {#genai-sales-shortcuts}
 
-[ライブチャットエージェントにより迅速に対応](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} ai が生成した応答にアクセスするには、既存の生成された応答を編集し、会話中に購入者に送信する追加のコンテンツを検索します。
+[ より迅速な方法でライブチャットエージェントを提供 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} して、AI が生成した応答にアクセスしたり、既存の生成された応答を編集したり、会話中に購入者に送信する追加のコンテンツを検索したりします。
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -76,17 +76,17 @@ Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて�
 
 ## 2024 年 4 月リリース {#april-release}
 
-**リリース日：2024 年 4 月 23 日（PT）**
+**リリース日：2024 年 4 月 23 日**
 
 ### すべてのユーザーが対話型フローを利用できるようになりました {#conversational-flows-available-to-all-users}
 
-フォームとランディングページの会話性を高め、セールスファネルを短縮します。会話型Formsを使用すると、フォームの送信後すぐに、見込み客がミーティングを予約したり、営業とチャットしたりできるので、これらの機能を完全に使用できるようになります&#42; すべてのDynamic Chatユーザーに対して。
+すべてのDynamic Chatユーザーが完全に利用できる Conversational Formsを使用すると、フォームの送信後すぐにミーティングや営業とのチャットを予約できる見込み客を許可することで &#42; フォームとランディングページの会話性を高め、営業ファネルを短縮できます。
 
-_&#42;以前は、100 のライフタイムエンゲージメントを含む体験版機能として利用できました。 会話フローエンゲージメントは、Select パッケージのユーザーに対して、エンゲージメントされた会話 250 回の月間制限にカウントされるようになりました。_
+_&#42;以前は、100 件のライフタイムエンゲージメントを含む体験版機能として利用できました。 会話フローエンゲージメントは、Select パッケージのユーザーに対して、エンゲージメントされた会話 250 回の月間制限にカウントされるようになりました。_
 
 ### コールバック関数 {#callback-functions}
 
-[コールバック関数](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} を使用すると、訪問者がDynamic Chatに関する会話に参加する際に、Adobe AnalyticsやGoogle Analyticsなどの外部システムでDynamic Chat分析イベントを収集できます。 イベントをリッスンする API をコールバックに登録することで、Dynamic Chat分析イベントを有効にできます。 これにより、web トラフィックなど、他の主要なデータに関連するDynamic Chatエンゲージメントの全体像を把握できます。
+[ コールバック関数 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} を使用すると、訪問者がDynamic Chat上の会話に関与したときに、Adobe AnalyticsやGoogle Analyticsなどの外部システムでDynamic Chat分析イベントを収集できます。 イベントをリッスンする API をコールバックに登録することで、Dynamic Chat分析イベントを有効にできます。 これにより、web トラフィックなど、他の主要なデータに関連するDynamic Chatエンゲージメントの全体像を把握できます。
 
 ### 条件付きブランチに追加されたライブエージェントの可用性条件 {#live-agent-availability-conditional-branching}
 
@@ -177,7 +177,7 @@ Dialogs のライブチャット機能は 2023 年にリリースされました
 
 ## 2024 年 2 月リリース {#february-release}
 
-**リリース日：2024 年 2 月 22 日（PT）**
+**リリース日：2024 年 2 月 22 日**
 
 ### 会話ページ {#conversations-page}
 
@@ -195,7 +195,7 @@ Dialogs のライブチャット機能は 2023 年にリリースされました
 
 ## 2024 年 1 月リリース {#january-release}
 
-**リリース日：2024 年 1 月 24 日（PT）**
+**リリース日：2024 年 1 月 24 日**
 
 ### エージェント管理の同時ライブチャット制限設定 {#Concurrent-live-chat-limit-setting}
 

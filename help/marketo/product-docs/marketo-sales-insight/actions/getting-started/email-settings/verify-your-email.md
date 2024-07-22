@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
    ![](assets/verify-your-email-2.png)
 
-1. 「アドレスと署名」で、認証するメールを探し、「**認証メールを再送信**」をクリックします。新しい認証メールが送信されます。
+1. 「アドレスと署名」で、確認するメールを探し、「**確認用メールを再送信**」をクリックします。新しい確認用メールが送信されます。
 
    ![](assets/verify-your-email-3.png)
 
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->認証メールが届かない場合は、スパムフォルダーを確認してください。ない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>確認用メールが届かない場合は、スパムフォルダーを確認してください。ない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。

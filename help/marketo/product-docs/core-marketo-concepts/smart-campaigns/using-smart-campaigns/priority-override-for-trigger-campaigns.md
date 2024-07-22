@@ -5,18 +5,18 @@ exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '248'
 ht-degree: 81%
 
 ---
 
 # トリガーキャンペーンの優先度の上書き {#priority-override-for-trigger-campaigns}
 
-管理者は、ビジネス目標に合わせてMarketo Engageを設定するために、トリガーキャンペーンで決定された優先度を上書きできます。
+管理者は、トリガーキャンペーンのMarketo Engageが決定した優先度を上書きして、ビジネス目標に合った優先度を設定できます。
 
 >[!NOTE]
 >
->この機能は、トリガーキャンペーンと、 [「トリガーキャンペーンの優先順位の編集」権限](#grant-priority-override-access).
+>この機能は、トリガーキャンペーンと、「トリガーキャンペーン優先度を編集 [ 権限が付与されているユーザーのみが使用 ](#grant-priority-override-access) きます。
 
 >[!CAUTION]
 >
@@ -42,7 +42,7 @@ ht-degree: 81%
 
 ## 優先順位の上書き {#override-priority}
 
-1. 自分のトリガーキャンペーンを見つけます。 右クリックして、「**[!UICONTROL キャンペーン優先度の上書き]**」を選択します。
+1. トリガーキャンペーンを見つけます。 右クリックして、「**[!UICONTROL キャンペーン優先度の上書き]**」を選択します。
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 

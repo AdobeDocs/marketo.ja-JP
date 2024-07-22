@@ -5,14 +5,14 @@ title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 94%
 
 ---
 
 # Marketo サンドボックス {#marketo-sandbox}
 
-Marketo Engageサンドボックスは、実稼動環境での実装前のテスト用に使用される追加のインスタンスです。
+Marketo Engageサンドボックスは、実稼動環境での実装前にテスト目的で使用される追加のインスタンスです。
 
 >[!AVAILABILITY]
 >

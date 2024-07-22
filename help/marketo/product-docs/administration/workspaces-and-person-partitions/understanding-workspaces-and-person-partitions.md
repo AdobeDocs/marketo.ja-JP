@@ -5,7 +5,7 @@ title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
 source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 100%
 

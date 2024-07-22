@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->REST API の使用をお勧めしています。詳細を見る [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>REST API の使用をお勧めしています。詳しくは、[developer.adobe.com](https://developer.adobe.com/marketo-apis/) を参照してください。
 
 >[!NOTE]
 >

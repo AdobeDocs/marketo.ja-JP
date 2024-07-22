@@ -6,14 +6,14 @@ exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 97%
+source-wordcount: '151'
+ht-degree: 100%
 
 ---
 
 # プログラムフォーカスの理解／有効化 {#understand-enable-program-focus}
 
-マーケティングカレンダーでは、様々な操作を簡単に確認できますが、操作も可能です。以下が可能です。 [作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} エントリ エントリを操作するには、まずプログラムにフォーカスする必要があります。
+マーケティングカレンダーでは、様々な操作を簡単に確認できますが、操作も可能です。エントリを[作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}および[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}できます。エントリを操作するには、まずプログラムにフォーカスする必要があります。
 
 1. **マーケティングカレンダー**&#x200B;に移動します。
 

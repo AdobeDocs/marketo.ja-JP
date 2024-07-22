@@ -13,9 +13,9 @@ ht-degree: 81%
 
 # 組織サービス URL の表示 {#view-the-organization-service-url}
 
-Marketo Engageが MD インスタンスと同期するには、組織サービスの URL が必要です。 Dynamics で検索する方法を次に示します。
+Marketo Engageを MD インスタンスと同期するには、組織サービスの URL が必要です。 Dynamics で検索する方法を次に示します。
 
-1. にログインします。 [!DNL Dynamics]. 「設定」アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
+1. [!DNL Dynamics] にログインします。 「設定」アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
 
    ![](assets/one.png)
 

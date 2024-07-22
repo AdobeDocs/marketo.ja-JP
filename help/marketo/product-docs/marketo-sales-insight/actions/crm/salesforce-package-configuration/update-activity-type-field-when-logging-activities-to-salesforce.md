@@ -1,10 +1,10 @@
 ---
 description: Salesforce にアクティビティを記録する際のアクティビティタイプフィールドの更新 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce にアクティビティを記録する際のアクティビティタイプフィールドの更新
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
-workflow-type: ht
-source-wordcount: '422'
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: tm+mt
+source-wordcount: '420'
 ht-degree: 100%
 
 ---

@@ -5,7 +5,7 @@ title: SEO - ページに関する問題へのメモの追加
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 

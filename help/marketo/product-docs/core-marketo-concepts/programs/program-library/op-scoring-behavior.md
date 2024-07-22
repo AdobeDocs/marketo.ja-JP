@@ -1,20 +1,20 @@
 ---
-description: OP スコア付け動作 — Marketoドキュメント — 製品ドキュメント
+description: OP-Scoring-Behavior - Marketo ドキュメント – 製品ドキュメント
 title: OP-スコアリング-行動
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '347'
 ht-degree: 31%
 
 ---
 
 # OP-スコアリング-行動 {#op-scoring-behavior}
 
-この例は、「デフォルトプログラム」を使用した行動スコアリングの高度な（トークン化された）運用プログラムのMarketo Engageです。 プログラムの「マイトークン」タブで、スコアリング値を表示および編集します。 「行動スコア」と呼ばれるカスタムスコアフィールドが必要です。
+この例は、Marketo Engageのデフォルトプログラムを使用した、行動スコアリングの高度な（トークン化された）操作プログラムです。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「行動スコア」というカスタムスコアフィールドが必要です。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,20 +22,20 @@ ht-degree: 31%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>オペレーショナル</td> 
-   <td>01 — メンバー</td>
+   <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## 前提条件のフィールド {#prerequisite-fields}
+## 必須フィールド {#prerequisite-fields}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -52,7 +52,7 @@ ht-degree: 31%
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,32 +64,32 @@ ht-degree: 31%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>電子メール — 電子メール内のリンクをクリック</td>
+   <td>メール – メール内のリンクのクリック数</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>フォーム — 連絡先フォームの入力</td>
+   <td>フォーム – お問い合わせフォームに入力します</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Form - Fills Out Content Form</td>
+   <td>フォーム – コンテンツフォームに入力します</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Form - Fills Out Default Form</td>
+   <td>フォーム – デフォルトのフォームに入力します</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>フォーム — イベントフォームの入力</td>
+   <td>フォーム – イベントフォームに入力します</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web — 任意のPDFをダウンロード</td>
+   <td>Web – 任意のPDFをダウンロード</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
@@ -99,42 +99,42 @@ ht-degree: 31%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web — 主要な Web ページを訪問</td>
+   <td>Web – 主要な Web ページを訪問</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web - 1 日に複数の Web ページを訪問</td>
+   <td>Web - 1 日で複数の Web ページを訪問</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>ライブイベント — 出席済み</td>
+   <td>ライブイベント – 出席</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>トレードショー — 影響</td>
+   <td>展示会 – 影響</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>展示会 — 訪問ブース</td>
+   <td>展示会 – 来場ブース</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>オンラインセミナ — 出席</td>
+   <td>ウェビナー – 出席</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>スコアを減らす — アクティビティなし</td>
+   <td>スコアを減らす – アクティビティなし</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>スコアの減少 — 望ましくない Web ページの訪問回数</td>
+   <td>スコアを下げる – 望ましくない Web ページを訪問します</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -144,12 +144,12 @@ ht-degree: 31%
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>プログラムステータスの変更</td>
+   <td>プログラム状態の変更</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>スコア減衰</td>
+   <td>スコアの減衰</td>
   </tr>
  </tbody> 
 </table>
@@ -246,23 +246,23 @@ ht-degree: 31%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートをコピー — _推奨_
+   * 元のテンプレートをコピー – _推奨_
    * インポート先のテンプレートの使用
 
 * **同じ名前の画像**
-   * 両方のファイルを保持 — _推奨_
-   * この配信登録内アイテムの置換
+   * 両方のファイルを保持 – _推奨_
+   * このサブスクリプション内アイテムの置換
 
 * **同じ名前のメールテンプレート**
-   * 両方のテンプレートを保持 — _推奨_
+   * 両方のテンプレートを保持 – _推奨_
    * 既存テンプレートの置換
 
 ## ベストプラクティス {#best-practices}
 
-* 作成された各キャンペーンは、ベストプラクティスビルドの例を示すもので、ユースケースに固有のものではありません。 スマートキャンペーンを更新し、特定の問題点やデータ上の課題に対応してください。
+* 構築された各キャンペーンは、ユースケースに固有ではなく、ベストプラクティスのビルドの例となることを目的としています。 特定のペイン ポイントとデータの課題に対処できるように、スマートキャンペーンを必ず更新してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。

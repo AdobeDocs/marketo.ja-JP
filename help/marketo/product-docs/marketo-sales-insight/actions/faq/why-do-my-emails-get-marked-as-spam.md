@@ -1,15 +1,15 @@
 ---
-description: E メールがスパムとしてマークされるのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
-title: E メールがスパムとしてマークされるのはなぜですか？
-exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+description: メールがスパムとしてマークされるのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
+title: メールがスパムとしてマークされる理由
+exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 81%
+source-wordcount: '181'
+ht-degree: 90%
 
 ---
 
-# E メールがスパムとしてマークされるのはなぜですか？ {#why-do-my-emails-get-marked-as-spam}
+# メールがスパムとしてマークされる理由 {#why-do-my-emails-get-marked-as-spam}
 
 当社は、企業として、配信品質の割合を高く保つために懸命に取り組んでいます。それでも、送信したメールがスパムフォルダーにルーティングされるトリガーとなるユーザの行動や設定がいくつかあります。
 
@@ -25,4 +25,4 @@ ht-degree: 81%
 
 * 住所が記載された完全なメール署名があることを確認します。
 
-* 準備を進め、 [CAN-SPAM 法](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* [ スパム対応法 ](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"} に準拠していることを確認します。

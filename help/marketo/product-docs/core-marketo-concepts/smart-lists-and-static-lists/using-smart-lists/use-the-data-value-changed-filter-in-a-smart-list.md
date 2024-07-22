@@ -23,7 +23,7 @@ ht-degree: 82%
 
    ![](assets/ma.png)
 
-1. スマートリストを選択し、 **[!UICONTROL スマートリスト]** タブをクリックします。
+1. スマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
 
    ![](assets/two-1.png)
 
@@ -35,4 +35,4 @@ ht-degree: 82%
 
    ![](assets/four.png)
 
-このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。もっと空想にふけりたいなら、やってみてください [スマートリストフィルタへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。さらに気に入りたい場合は、[ スマートリストフィルターへの制約の追加 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を試してみてください。

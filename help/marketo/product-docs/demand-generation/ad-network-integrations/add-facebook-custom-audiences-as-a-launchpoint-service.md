@@ -17,13 +17,13 @@ ht-degree: 68%
 >
 >**管理者権限が必要**
 
-この統合により、Marketo Engageの静的およびスマートリストからFacebookにオーディエンスデータを送信し、Facebook広告キャンペーンでカスタムオーディエンスとして使用できます。 その設定方法を説明しましょう。
+この統合により、オーディエンスデータをMarketo Engageの静的リストおよびスマートリストからFacebookに送信し、Facebook広告キャンペーンでカスタムオーディエンスとして使用できます。 その設定方法を説明しましょう。
 
 1. Marketo の「**[!UICONTROL 管理]**」に移動します。
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. に移動します。 **[!UICONTROL LaunchPoint]**&#x200B;をクリックし、 **[!UICONTROL 新規]** を選択し、 **[!UICONTROL 新しいサービス]**.
+1. **[!UICONTROL LaunchPoint]** に移動し、「新規 **[!UICONTROL をクリックして]** 新規サービス **[!UICONTROL を選択し]** す。
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
@@ -31,7 +31,7 @@ ht-degree: 68%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 同じブラウザーで新しいタブを開き、に移動します。 [facebook.com](https://www.facebook.com/){target="_blank"}. 統合に使用するアカウントを使用して Facebook にログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com/){target="_blank"} に移動します。 統合に使用するアカウントを使用して Facebook にログインします。
 
    >[!CAUTION]
    >
@@ -45,7 +45,7 @@ ht-degree: 68%
 
    >[!NOTE]
    >
-   >カスタムオーディエンスの統合を機能させるには、Facebook Business Manager アカウントを使用する&#x200B;_必要があります_。Business Manager アカウントの設定方法については、 [Facebook Help](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >カスタムオーディエンスの統合を機能させるには、Facebook Business Manager アカウントを使用する&#x200B;_必要があります_。Business Manager アカウントの設定方法については、[Facebook ヘルプ ](https://www.facebook.com/business/help/1710077379203657){target="_blank"} を参照してください。
 
 1. プロンプトが表示されたら、「**[!UICONTROL OK]**」をクリックして、Facebook への Marketo アプリケーションのインストールを受け入れます。
 
@@ -59,11 +59,11 @@ ht-degree: 68%
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   完成です。Marketoの任意の静的リストまたはスマートリストに移動して、オーディエンスデータをFacebookに送信できるようになりました。
+   完成です。Marketo内の静的リストまたはスマートリストに移動して、オーディエンスデータをFacebookに送信できるようになりました。
 
    >[!CAUTION]
    >
-   >ああ、行く前に、必ず [facebookのカスタムオーディエンスの条件に同意する](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} facebookアカウント内で これをおこなわないと、オーディエンスのアップデートが失敗します。
+   >移動する前に、Facebook アカウント内で [Facebookのカスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
 
 >[!MORELIKETHIS]
 >

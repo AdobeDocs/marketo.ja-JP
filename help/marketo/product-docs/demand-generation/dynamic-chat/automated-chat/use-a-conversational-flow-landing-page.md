@@ -1,6 +1,6 @@
 ---
-description: 対話型フローのランディングページの使用 — Marketoドキュメント — 製品ドキュメント
-title: 対話型フローのランディングページを使用する
+description: 対話型フローランディングページの使用 – Marketo ドキュメント – 製品ドキュメント
+title: 対話型フローランディングページを使用
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
@@ -11,40 +11,40 @@ ht-degree: 1%
 
 ---
 
-# 対話型フローのランディングページを使用する{#use-a-conversational-flow-landing-page}
+# 対話型フローランディングページを使用{#use-a-conversational-flow-landing-page}
 
-Marketo EngageのランディングページにDynamic Chatの対話フローを直接埋め込むと、訪問者はフォームに入力したり、Chatbot とやり取りしなくても、Dynamic Chatを介した会議のスケジュールを設定できます。
+Dynamic Chatの会話フローをMarketo Engageランディングページに直接埋め込むと、訪問者は、フォームに入力したりチャットボットとやり取りしたりしなくても、Dynamic Chatを通じてミーティングをスケジュールできます。
 
 >[!PREREQUISITES]
 >
->シンプルな [対話フロー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) その中には **会議の予約** カード。
+>**ミーティング予約 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな [ 会話フロー** を作成します。
 
 ## ガイド付きランディングページ {#guided-landing-pages}
 
-ガイド付きランディングページテンプレートに次のコードを埋め込みます。 `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+ガイド付きランディングページテンプレートに `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>` コードを埋め込みます。
 
-エディターでガイド付きランディングページテンプレートを開き、「対話型フロー」プレースホルダーを選択します。
+エディターでガイド付きランディングページテンプレートを開き、「会話フロー」プレースホルダーを選択します。
 
-対話フロードロップダウンをクリックし、手順 1 で作成した CF を選択します。
+「会話フロー」ドロップダウンをクリックし、手順 1 で作成した CF を選択します。
 
-配信タイプを常に次の形式に保つ **インライン**. 「**挿入**」をクリックします。
+配信タイプは常に **インライン** にします。 「**挿入**」をクリックします。
 
-先ほど入力した対話フローは、右側に要素として表示されます。
+入力した会話フローは、右側の要素として表示されます。
 
 スクリーンショット
 
 >[!NOTE]
 >
->現時点では、メインのプレビューウィンドウに対話フローは表示されません。
+>この時点では、メインのプレビューウィンドウに対話型フローは表示されません。
 
-## フリーフォームランディングページ {#free-form-landing-pages}
+## フリーフォームのランディングページ {#free-form-landing-pages}
 
 テキスト
 
 
-STEVE MEETING のメモ
+STEVE 会議からのメモ
 
-ガイド付き lp、テンプレート用の新しい div id、conv フローの選択
+ガイド付き lp、テンプレートの新しい div id、変換フローの選択
 
-フリーフォーム lp，持ち越しアイコン — 注意：追加注意 — エディターに cf を置くと、プレビューが表示されない（プレビューが表示されない） — ページ上に表示される cf が表示されるサイドバー — 説明の際に「現時点」を使用
+フリーフォーム lp、引き継ぎアイコン – 注意：追加メモ – エディターに cf を配置すると、プレビューが表示されません（プレースホルダーも表示されません） – サイドバーに、cf がページ上にあることが表示されます – ガイド付き lp は要素としてリストします – 説明時に「現時点で」を使用します – 機能は週 22 日まで有効です
 

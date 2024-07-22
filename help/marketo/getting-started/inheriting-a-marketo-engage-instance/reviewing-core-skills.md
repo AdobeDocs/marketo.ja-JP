@@ -5,7 +5,7 @@ title: コアスキルのレビュー
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
 source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

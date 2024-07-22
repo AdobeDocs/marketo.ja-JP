@@ -6,8 +6,8 @@ exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 89%
+source-wordcount: '358'
+ht-degree: 86%
 
 ---
 
@@ -29,7 +29,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [は英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
 
 1. 「**設定**」で、「**管理**」をクリックします。
 
@@ -39,11 +39,11 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. ユーザーのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、 [Active Directory フェデレーションサービス (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} administrator to create a new user that's [dedicated to Marketo](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}.
+1. ユーザーのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、[Active Directory フェデレーション サービス （AFDS） ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 管理者に連絡して [Marketo専用 ](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"} の新しいユーザーを作成してください。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 同期ユーザーを選択します。![](assets/image2015-3-26-11-3a16-3a22.png) をクリックして、「**[!UICONTROL 役割を管理]**」を選択します。。
+1. 同期ユーザを選択します。「![](assets/image2015-3-26-11-3a16-3a22.png)」をクリックし、「**[!UICONTROL 役割の管理]**」を選択します。
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 

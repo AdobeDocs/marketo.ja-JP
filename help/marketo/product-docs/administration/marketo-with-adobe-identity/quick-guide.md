@@ -4,7 +4,7 @@ title: クイックガイド
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 

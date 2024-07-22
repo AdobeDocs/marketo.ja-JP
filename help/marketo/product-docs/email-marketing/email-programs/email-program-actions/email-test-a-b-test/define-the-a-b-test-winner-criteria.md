@@ -6,14 +6,14 @@ exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 84%
+source-wordcount: '422'
+ht-degree: 89%
 
 ---
 
 # A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-条件 [A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}をクリックし、勝者の条件を定義します。 どのメールが優先されるかを決定する方法を次に示します。
+メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}テストタイプを選択し、勝者の条件を定義する必要があります。どのメールが優先されるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ ht-degree: 84%
 
    >[!IMPORTANT]
    >
-   >Marketoでは、このメールプログラムからメールを送信した人のトリガー/フィルターのみを使用できるので、「メール送信済み」フィルターを追加する必要はありません。 また、電子メール関連のトリガー/フィルターを使用する場合は、必ず「任意」を演算子として使用してください。
+   >Marketoでは、このメールプログラムからメールを送信されたユーザーに対してのみトリガー/フィルターを許可するので、「送信済みのメール」フィルターを追加する必要はありません。 さらに、メール関連のトリガーやフィルターを使用する場合は、演算子として「is any」を使用します。
 
 1. 「**閉じる**」をクリックします。
 

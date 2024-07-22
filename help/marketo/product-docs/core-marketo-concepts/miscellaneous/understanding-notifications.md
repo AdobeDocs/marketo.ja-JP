@@ -5,7 +5,7 @@ title: 通知について
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 100%
 
 ---

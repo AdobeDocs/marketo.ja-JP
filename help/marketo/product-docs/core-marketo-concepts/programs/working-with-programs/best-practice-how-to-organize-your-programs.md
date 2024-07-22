@@ -5,8 +5,8 @@ title: ベストプラクティス - プログラムの整理方法
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
-workflow-type: ht
-source-wordcount: '844'
+workflow-type: tm+mt
+source-wordcount: '847'
 ht-degree: 100%
 
 ---

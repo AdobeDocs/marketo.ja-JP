@@ -6,7 +6,7 @@ exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '416'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Adobe Connect と同期すると、ウェビナーへの登録と参加を Marke
 
 まず、Adobe Connect でミーティングまたはセミナーを作成していることを確認します。ヘルプが必要な場合は、[Adobe Connect ユーザーガイド](https://helpx.adobe.com/jp/adobe-connect/using/user-guide.html)をご覧ください。
 
-Adobe Connect で作成するミーティングとセミナーは、Marketo で認証情報を入力するときに指定するフォルダーに作成する必要があります。ミーティングとセミナーを作成したら、確認メールや ICS ファイルで使用する関連の連絡情報（電話番号など）を書きとめておきます。
+Adobe Connect で作成するミーティングとセミナーは、Marketo で資格情報を入力するときに指定するフォルダーに作成する必要があります。ミーティングとセミナーを作成したら、確認メールや ICS ファイルで使用する関連の連絡情報（電話番号など）を書きとめておきます。
 
 >[!CAUTION]
 >

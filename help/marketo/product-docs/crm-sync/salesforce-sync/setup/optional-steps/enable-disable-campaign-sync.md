@@ -17,9 +17,9 @@ ht-degree: 65%
 >
 >**管理者権限が必要**
 
-このオプションを使用すると、Marketo Engageはプログラムのメンバーシップとステータスを Salesforce キャンペーンと同期でき、その逆も可能になります。
+このオプションを使用すると、Marketo Engageはプログラムメンバーシップとステータスを Salesforce キャンペーンと同期できます。また、その逆も可能です。
 
-1. に移動します。 **[!UICONTROL 管理者]** をクリックします。 **[!DNL Salesforce]**.
+1. **[!UICONTROL Admin]** に移動し、「**[!DNL Salesforce]**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,7 +27,7 @@ ht-degree: 65%
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. チェック **[!UICONTROL Salesforce キャンペーン同期の有効化]** をクリックします。 **[!UICONTROL 保存]**.
+1. **[!UICONTROL Salesforce キャンペーン同期を有効にする]** をオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

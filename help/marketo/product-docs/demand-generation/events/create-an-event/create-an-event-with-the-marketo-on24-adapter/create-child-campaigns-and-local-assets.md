@@ -6,8 +6,8 @@ exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 100%
+source-wordcount: '665'
+ht-degree: 98%
 
 ---
 
@@ -50,7 +50,7 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!TIP]
 >
->確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://www.on24.com/live-webcast-elite/)を参照してください。{target="_blank"}
+>確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳細については、[ON24 ヘルプ サイト ](https://www.on24.com/live-webcast-elite/){target="_blank"} を参照してください。
 
 ## 登録の子キャンペーンの要件 {#registration-child-campaign-requirements}
 

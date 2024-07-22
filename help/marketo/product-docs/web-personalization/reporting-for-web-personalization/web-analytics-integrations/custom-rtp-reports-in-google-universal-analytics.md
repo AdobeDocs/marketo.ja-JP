@@ -6,7 +6,7 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 100%
 
 ---
@@ -121,7 +121,7 @@ ht-degree: 100%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 指標グループセクションで、ビジネスに関連する指標を選択します。次に推奨事項を示します。
+1. 指標グループセクションで、ビジネスに関連する指標を選択します。次にレコメンデーションを示します。
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 

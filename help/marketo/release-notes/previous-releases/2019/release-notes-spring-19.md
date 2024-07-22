@@ -26,7 +26,7 @@ ht-degree: 88%
 * **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連するチャネルと、Marketo Sky のイベントプログラムとウェビナープログラムに関連するイベントの両方に当てはまります。デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
 * **[カスタム通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理者は、1 日または 1 週間のカスタム通信制限を設定できるようになりました。
 * **[スマートキャンペーンアセット API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
-* **メールの HTTPS トラッキングリンク：** 「トラッキングリンク用のセキュアドメイン」を購入した顧客の場合、ブランドのトラッキングリンクを HTTPS としてメール内に表示できるようになりました。
+* **E メールの HTTPS トラッキングリンク：** 「トラッキングリンク用のセキュアドメイン」を購入したお客様の場合、ブランドのトラッキングリンクを HTTPS としてメール内に表示できるようになりました。
 * **メール到達率 PowerPack の更新**：特定のテスト結果にフラグを設定してコメントを付け、URL を通じて結果を関係者と共有し、変更を追跡して、関係者がコンテンツを編集したときにメールがどのように変化したかを確認する機能。
 
 アカウントベースドマーケティング

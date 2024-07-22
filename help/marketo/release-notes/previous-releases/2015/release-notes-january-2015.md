@@ -31,7 +31,7 @@ ht-degree: 92%
 * プログラム ID でリードを取得
 * 削除済みリードの取得
 
-また、「リードを同期」には、より高速な API 呼び出しでリード変更を非同期で書き込む新しいオプションが追加されました。詳細は、リリース後の次の場所で確認できます [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+また、「リードを同期」には、より高速な API 呼び出しでリード変更を非同期で書き込む新しいオプションが追加されました。詳細は、リリース後に [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/homeで確認でき ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) す。
 
 **メールスクリプトのカスタムオブジェクトサポート**
 

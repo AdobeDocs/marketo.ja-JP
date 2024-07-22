@@ -1,28 +1,28 @@
 ---
-description: エージェントの設定 — Marketo Docs — 製品ドキュメント
+description: Agent Settings - Marketo ドキュメント – 製品ドキュメント
 title: エージェント設定
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 26%
 
 ---
 
 # エージェント設定 {#agent-settings}
 
-カレンダーを設定し、会議/ライブチャットの可用性を設定します。
+カレンダーを設定して、会議/ライブチャットの利用を設定します。
 
 >[!PREREQUISITES]
 >
->エージェントに適切な権限が付与されていることを確認します。 [権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>エージェントに適切な [ 権限 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} が付与されていることを確認します。
 
 ![](assets/agent-settings-1.png)
 
 ## カレンダーの接続 {#connect-calendar}
 
-[ 予定表の構成 ] タブで、Outlook または Gmail の予定表を接続して、Chatbot で予定のスケジュールに使用します。
+[ 予定表の構成 ] タブで、チャットボットの予定スケジュールで使用する Outlook または Gmail の予定表を接続します。
 
 ![](assets/agent-settings-2.png)
 
@@ -42,56 +42,56 @@ ht-degree: 26%
 
 ### 権限 {#permissions}
 
-Outlook での設定では、次の権限をDynamic Chatに付与します。
+Outlook でを設定すると、Dynamic Chatに対して次の権限が付与されます。
 
 * カレンダーへのフルアクセス
 * ログインしてプロファイルを読む
 * アクセス権を付与したデータへのアクセスを維持する
-* メールボックス設定を読み取る
+* メールボックスの設定を読み取る
 
-Googleでの設定では、次の権限をDynamic Chatに付与します。
+Googleを使用して設定すると、Dynamic Chatに対して次の権限が付与されます。
 
-* カレンダーの作成、変更、削除
+* カレンダーを作成、変更または削除します
 * 個々のカレンダーイベントの更新
-* イベントを表示できるユーザーを含め、設定を変更します
-* カレンダーの共有先の変更
+* イベントを表示できるユーザーなど、設定を変更します
+* カレンダーを共有するユーザーを変更する
 * 名前、メールアドレス、言語設定、プロフィール画像へのアクセス
 
-## 会議予約の可用性 {#meeting-booking-availability}
+## 会議予約の空き時間 {#meeting-booking-availability}
 
-会議の予約を受け取るタイムゾーンと利用可能な時間/曜日を設定します。
+会議の予約を受け取るためのタイムゾーンおよび時刻/曜日の空き時間を設定します。
 
 ![](assets/agent-settings-4.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><b>会議期間</b></td>
-   <td>使用可能な会議スロットに訪問者が表示される時間の長さを指定します。</td>
+   <td><b>ミーティング期間</b></td>
+   <td>訪問者が使用可能な会議スロットに表示される時間の長さを決定します。</td>
   </tr> 
   <tr> 
-   <td><b>会議間のバッファ時間</b></td>
-   <td>会議後にバッファとして設定した時間。 30 分に設定した場合、予定されているカレンダーの会議終了の 30 分後まで、誰もあなたとの会議を予約することができません。</td>
+   <td><b>ミーティング間のバッファ時間</b></td>
+   <td>会議後にバッファーとして設定した時間。 30 分に設定すると、予定表で予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
   </tr>
  </tbody> 
 </table>
 
 >[!TIP]
 >
->同じ日に複数の時間ブロックを選択できます（金曜日の 8a～12p など）。 _および_ 1p～5p) をクリックし、 **+** 右側にサインします。
+>右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：8a～12p _および_ 1p～5p）を選択できます。
 
-## ライブチャットの利用可否 {#live-chat-availability}
+## ライブチャットの利用 {#live-chat-availability}
 
-ライブチャットを受け取るためのタイムゾーンと利用可能な時間/曜日を設定します。
+タイムゾーンとライブチャットを受信できる時刻/曜日を設定します。
 
 ![](assets/agent-settings-5.png)
 
-アプリにログインしている場合は、着信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザーに通知が届きます ( [それを設定する](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}) をクリックします。
+アプリにログインしている場合は、受信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザー通知が表示されます（既に [ 設定 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"} している場合）。
 
 >[!IMPORTANT]
 >
->The [可用性の切り替え](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} エージェントインボックス内 **上書きします** [ ライブチャットの可用性 ] タブに入力した内容。 したがって、1p～5p から利用可能にスケジュールされているが、3p ですぐに休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で変更するか、使用可能な状態の次のブロックに達するまで保持されます。
+>エージェントインボックスの [ 利用可能 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 切替スイッチ **は、「ライブチャットの利用可能」タブで入力した** を上書きします。 したがって、1p～5p から利用可能とスケジュールされていても、3p で素早く休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で変更するか、可用性の次のブロックに達するまで保持されます。
 
 >[!TIP]
 >
->同じ日に複数の時間ブロックを選択できます（金曜日の 8a～12p など）。 _および_ 1p～5p) をクリックし、 **+** 右側にサインします。
+>右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：8a～12p _および_ 1p～5p）を選択できます。

@@ -6,7 +6,7 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '310'
 ht-degree: 100%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 100%
    >現在、収益サイクルステージをマッピングできる Facebook イベントは 10 件あります。
    >
    >* 支払情報の追加
-   >* カートに追加
+   >* 買い物かごに追加
    >* ウィッシュリストに追加
    >* 登録が完了しました
    >* チェックアウトが開始されました

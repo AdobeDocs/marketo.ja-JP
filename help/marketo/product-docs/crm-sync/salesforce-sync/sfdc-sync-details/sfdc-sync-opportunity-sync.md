@@ -6,7 +6,7 @@ exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '288'
 ht-degree: 93%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 ## 2 つのシステム間で商談の詳細を同期させる方法を教えてください。 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-同期は、Salesforce からMarketo Engageへの 1 つの方法です。 Salesforce での商談のアップデートは、Marketo に同期されます。
+同期は、Salesforce からMarketo Engageへの一方向です。 Salesforce での商談のアップデートは、Marketo に同期されます。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ## Marketo は商談額と取引先責任者をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketoは次を使用して商談と連絡先を関連付けます： [オポチュニティ連絡先の役割](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. 取引先責任者のロールが割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。例えば、「Has Opportunity」フィルターは認定されません。
+Marketoは、[ 商談連絡先の役割 ](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"} を使用して、商談と連絡先を関連付けます。 取引先責任者のロールが割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。例えば、「Has Opportunity」フィルターは認定されません。
 
 ## ユーザのすべての商談を表示するにはどうすればいいですか。 {#how-can-i-see-all-the-opportunities-of-a-person}
 

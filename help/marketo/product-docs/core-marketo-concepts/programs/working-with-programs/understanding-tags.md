@@ -13,7 +13,7 @@ ht-degree: 84%
 
 # タグについて {#understanding-tags}
 
-おそらく皆さんもご存知の通りプログラムはMarketo Engageの構成要素のようなものです タグとチャネルを利用することで、レポート用にデータを絞り込んで収集することができます。
+プログラムがMarketo Engageの構築ブロックのようなものになったのも、ご存知かと思います。 タグとチャネルを利用することで、レポート用にデータを絞り込んで収集することができます。
 
 タグは、プログラムの説明に用いられます。タグは、必要なだけ、固有の値を設定して作成できます。チャネルは、ウェビナー、スポンサー広告、オンライン広告など、プログラムの配信メカニズムを識別するためのものです。
 
@@ -23,7 +23,7 @@ ht-degree: 84%
 
 >[!TIP]
 >
->作成する場合は、Marketo管理者にお問い合わせください。 [カスタムタグ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>[ カスタムタグ ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} を作成する場合は、Marketo管理者にお問い合わせください。
 
 >[!NOTE]
 >

@@ -5,7 +5,7 @@ exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
 source-git-commit: 350490c93d8f2bcc278f9f3e82018a1db91a1146
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '711'
 ht-degree: 100%
 
 ---
@@ -66,10 +66,10 @@ ht-degree: 100%
 
    ![](assets/salesforce-sync-settings-9.png)
 
-何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、次の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
+何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、以下の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
 
 1. Salesforce インスタンスにログインします。
-1. 右上隅にあるユーザ名を探し、ドロップダウンバーを選択します。
+1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
 1. 「**マイ設定**」を選択します。
 1. 「**メール**」を選択します。
 1. 「**メールを Salesforce に送信**」を選択します。

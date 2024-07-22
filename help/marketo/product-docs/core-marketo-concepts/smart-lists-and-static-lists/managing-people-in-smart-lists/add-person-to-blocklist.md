@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 54%
+ht-degree: 44%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 54%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
-1. 新規作成 [デフォルトプログラム](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} 「追加して」という名前を付ブロックリストに加えるけます。
+1. 新しい [ デフォルトプログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
 
 1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
@@ -29,7 +29,7 @@ ht-degree: 54%
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. ブロックリストに追加するリードをすべて「スマートリスト」に追加します。
+1. ブロックリストに追加する全員をスマート リストに追加します。
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -53,19 +53,19 @@ ht-degree: 54%
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. 作成したスマートリストを選択します。
+1. 作成したスマート・リストを選択します。
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 「**[!UICONTROL フロー]**」タブをクリックします。次をドラッグ&amp;ドロップ： **[!UICONTROL データ値の変更]** フローアクション。
+1. 「**[!UICONTROL フロー]**」タブをクリックします。 **[!UICONTROL データ値を変更]** フローアクションをドラッグ&amp;ドロップします。
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. Adobe Analytics の **[!UICONTROL 属性]** ドロップダウン選択 **[!UICONTROL ブロックリスト登録済み]** と設定します。 **[!UICONTROL 新しい値]** から **[!UICONTROL true]**.
+1. **[!UICONTROL 属性]** ドロップダウンで **[!UICONTROL Block Listed]** を選択し、**[!UICONTROL New Value]** を **[!UICONTROL true]** に設定します。
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. 次をクリック： **[!UICONTROL スケジュール]** 「 」タブで「 」を選択します。 **[!UICONTROL 1 回実行]**.
+1. 「**[!UICONTROL スケジュール]**」タブをクリックし、「**[!UICONTROL 1 回実行]**」を選択します。
 
    ![](assets/add-person-to-blocklist-12.png)
 
@@ -73,7 +73,7 @@ ht-degree: 54%
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. クリック **[!UICONTROL 実行]** 再び
+1. もう一度 **[!UICONTROL 実行]** をクリックします。
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ ht-degree: 54%
 
 >[!TIP]
 >
->の作成 [トリガーキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} using **データ値の変更** 次を使用 **ブロックリストが true です** 将来のすべての担当者に対して、可能な属性を持つユーザーに対しブロックリストに加えるて使用できます。
+>**トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true** の **Change Data Value** を使用して ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}0} パーソナライゼーションキャンペーンを作成します。[

@@ -2,7 +2,8 @@
 description: 新しいMarketo Engageインスタンスに Analytics セクションを設定します。
 title: 新しいインスタンスのベストプラクティス - Analytics チェックリスト
 feature: Getting Started
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+exl-id: ddbb9bc7-d06a-4a2e-a560-9d308630ae3f
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 5%
@@ -40,18 +41,18 @@ ht-degree: 5%
   </tr>
   <tr>
     <td>マイ レポート</td>
-    <td><li>での使用に必要なレポートの特定と作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports">マイレポート</a> セクション。 このプライベートレポートセクションは、グローバルレポートのサンドボックスとして使用します。 これらは、レポートを作成するユーザーのみが使用できます。</li>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports"> マイレポート </a> セクションで使用するために必要なレポートを特定および作成します。 このプライベートレポートセクションは、グローバルレポートのサンドボックスとして使用します。 これらは、レポートを作成するユーザーのみが使用できます。</li>
     <li>組織の命名規則を使用してレポートと使用方法を特定し、マイレポートのレポートとグループレポートのレポートを紐付けることができます。</li></td>
   </tr>
   <tr>
     <td>グループレポート</td>
     <td><li>グループレポートは、組織のグローバルレポートであり、組織の全体的なアクティビティを報告する必要があります。</li>
-    <li>の作成を検討 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">複製可能なコアレポート</a> レポートの取得に要する時間を短縮し、データの正確性を確保するために、各事業部門が最も頻繁に使用することを期待します。 詳細については、を参照してください。 <a href="#global-reports">以下のグローバルレポートテーブル</a>.
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank"> 複製可能なコアレポート </a> の作成を検討してください。各ビジネスユニットは、レポートの取得に必要な時間を短縮し、データの正確性を確保するために、最も頻繁に使用されると予想されます。 詳しくは、以下の <a href="#global-reports"> グローバルレポートの表 </a> を参照してください。
     <ul><li>人物パフォーマンスレポート（すべての時間および時間ベース）ソース別、月別</li>
     <li>プログラムパフォーマンスレポート（コスト月別、時間ベース）</li>
     <li>メールパフォーマンスレポート（時間ベース）</li></ul>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank">「グローバルレポート」をオンにする</a> レポートの「設定」タブを使用して、電子メールのパフォーマンスおよび電子メールのリンクのパフォーマンス レポート内のすべてのワークスペースのデータを含めます。 複数のワークスペースがある場合は、デフォルトワークスペースでそのワークスペースを有効にするだけです。</li>
-    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">スマート・リスト</a> ほとんどのレポートの [ データベース ] セクションに含めるフィルターを指定します。 スマートリスト条件を更新する必要がある場合は、すべてのグローバルレポートで更新するのではなく、1 か所で更新できます。</td>
+    <li>レポートの「設定」タブで <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank"> 「グローバルレポート」をオンに </a> ると、メールのパフォーマンスおよびメールのリンクのパフォーマンスレポートのすべてのワークスペースのデータが含まれます。 複数のワークスペースがある場合は、デフォルトワークスペースでそのワークスペースを有効にするだけです。</li>
+    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：「データベース」セクションのほとんどのレポートに含めるフィルタを使用して、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank"> スマート・リスト </a> を作成します。 スマートリスト条件を更新する必要がある場合は、すべてのグローバルレポートで更新するのではなく、1 か所で更新できます。</td>
   </tr>
 </tbody>
 </table>
@@ -71,7 +72,7 @@ ht-degree: 5%
     <td><li>実装時にレポート結果とケイデンスをレビューする必要がある人物に関して、マーケティングリーダーと連携します。</li> <li>サブスクリプションを使用すると、指定されたユーザーライセンスを使い果たすことなく、組織内の知る必要のあるユーザーにデータを配信できます。</li>
     <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：ユーザーにリアルタイムレポートデータへのアクセスを許可する場合は、ユーザーとして追加して、レポートを表示できるようにする必要があります。
     <p>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report">購読の設定</a> 各チームが継続的に監視するのに必要なサイクル（毎日/毎週/毎月）で行います。 以下の手順でも可能です <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions">購読をすべて表示</a> analytics の「購読」タブの下の 1 か所。</li></td>
+    <li>各チームの継続的な監視に適した頻度（毎日/毎週/毎月）で <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report"> サブスクリプションを設定 </a> します。 また、Analytics の「購読 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions"> タブの下で、1 か所ですべての購読を表示 </a> することもできます。</li></td>
   </tr>
 </tbody>
 </table>
@@ -90,43 +91,43 @@ ht-degree: 5%
 <tbody>
   <tr>
     <td>メールの効果レポート</td>
-    <td><li>適切なメールが選択された状態で、ワークスペース/ビジネスユニット全体にわたるグローバルレポートを作成します。</li>
+    <td><li>適切なメールを選択した、グローバルなWorkspace/ビジネスユニット全体のレポートを作成します。</li>
     <li>すべての複製可能なプログラムテンプレートで、ローカルの電子メールパフォーマンスレポートを作成します。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">関連する期間を使用</a> （YTD、過去 90 日間など） レポートで、標準のメールエンゲージメントと配信品質指標の正確なビューを提供する。</li>
-    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント： <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">で「ボットアクティビティ」フィルタリングを有効にする <strong>管理者/ メール</strong></a> ログに記録されないようにするか、ボットアクティビティのログが有効かどうかを識別します。 許可するフィルターのみを含める <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">「ボットアクティビティである」が「False」に設定された状態でアクティビティを開く/クリックする</a> 複製可能なグローバルレポートのスマートリスト内にあります。</td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame"> 関連する期間を使用 </a> （YTD、過去 90 日間など） レポートで、標準のメールエンゲージメントと配信品質指標の正確なビューを提供する。</li>
+    <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity"> 管理者/メール <strong> で「ボットアクティビティ」フィルタリングをオンにしてログに記録しないようにするか </strong></a> ボットアクティビティのログが有効になっているかどうかを確認します。 複製可能なグローバルレポートのスマートリストで、「ボットアクティビティである」が「False」に設定されている <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860"> 開かれた/クリックされたアクティビティ </a> のみを許可するフィルターを含めます。</td>
   </tr>
   <tr>
     <td>人物の効果レポート</td>
-    <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：を正しく設定することをお勧めします。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">チャネルとタグ戦略</a> すべてのMarketo Engage導入について、獲得した人物とマーケティング投資の ROI をチャネル別にトラッキングできます。
+    <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：獲得した人材を追跡し、チャネル別にマーケティング投資の ROI を追跡する前に、Marketo Engageの導入ごとに適切な <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags"> チャネルとタグの戦略 </a> を立てることをお勧めします。
     <p>
     <li>リード獲得プログラムのパフォーマンスを測定するために使用する条件を決定し、次の指標に基づいて時間ベース（現在の年、過去 12 か月単位のビュー、または 180 日間）の標準レポートを作成します。 <ul><li>獲得プログラム：人物を獲得するためにクレジットされるMarketo Engageプログラム。</li>
-    <li>人物ソース：レコードがデータベースに認識されるきっかけとなったソースカテゴリ（CRM の値のソースリストに基づく）
+    <li>人物Source: レコードがデータベースに認識されるきっかけとなったソースカテゴリ（CRM の値のソースリストに基づく）
     </li></ul>
     <li>週または月ごとに作成されたユーザーを測定します。 このレポートは、データベースの増加率の測定値と、データベースのサイズ制限に近づいているかどうかを示します。</li>
-    <li>人物パフォーマンスレポートの指標のフィルタリング基準 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">スマート・リストをカスタム列として使用します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report"> スマート・リストをカスタム列として使用 </a> して、個人情報パフォーマンス・レポートの指標をフィルタ処理します。</li>
     <p><img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：マーケティングアクティビティではなく、データベースの人物パフォーマンスレポートに追加するカスタム列のスマートリストを作成して、レポートでスマートリスト名が選択されたときにわかりやすく表示できるようにします。</td>
   </tr>
   <tr>
     <td>プログラム効果レポート</td>
-    <td><p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：このレポートを作成するには、チャネル、進捗ステータスおよび成功ステップがで定義されている必要があります。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel"><strong>Admin</strong> &gt; <strong>タグ</strong></a>.
+    <td><p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：このレポートを使用するには、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel"><strong> 管理者 </strong>/<strong> タグ </strong></a> でチャネル、進捗ステータスおよび成功ステップを定義している必要があります。
     <p>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">マーケティング戦術の有効性の測定</a> 選択的なプログラム内。</li>
+    <li>選択したプログラム内で <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report"> マーケティング戦術の有効性を測定 </a> します。</li>
     <li>マーケティングアクティビティ内のベストプラクティスに従って、プログラムメンバーシップを管理します（スマートキャンペーンを使用して、獲得プログラム、ステータス、成功ステータスを更新します）。</li>
     <li>今年のコストと 12 か月周期に基づいて測定します。
-    <ul><li>次を維持することを忘れないでください <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">期間コスト</a> は、プログラムパフォーマンスレポートを活用するうえで非常に重要です。</li></ul></li>
+    <ul><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program"> 期間コスト </a> の維持は、プログラムパフォーマンスレポートを活用するうえで重要であることに注意してください。</li></ul></li>
     <p>
-    <img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：いずれかを集約して表示するには <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">インポートしたリスト</a> プログラムパフォーマンスレポートで、チームがタグ付けに適した獲得プログラムを選択していることを確認します。 考慮 <a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">デフォルトプログラムの作成</a> 読み込まれたリストがどのチャネルにも適用されない場合に、獲得プログラムとして選択するリスト。 これにより、読み込んだユーザーが、空白の値ではなく、ソース、ビジネスユニット、チャネルなどに関連する有効な獲得プログラムを持つようになります。</td>
+    <img src="assets/tip-icon.png" alt="メモアイコン"> ヒント：プログラムのパフォーマンスレポートで <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people"> インポートされたリスト </a> を集計および表示するには、チームがタグ付けに適した獲得プログラムを選択していることを確認します。 読み込まれたリストがどのチャネルにも適用されない場合は、獲得プログラムとして選択する <a href="https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs"> デフォルトプログラムの作成 </a> を検討してください。 これにより、読み込んだユーザーが、空白の値ではなく、ソース、ビジネスユニット、チャネルなどに関連する有効な獲得プログラムを持つようになります。</td>
   </tr>
   <tr>
     <td>ランディングページ効果レポート</td>
-    <td><li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">ランディングページのパフォーマンスレポート</a> グローバルレポートとしての機能 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report">数値のフィルタリングとレビュー</a> すべての Design Studio/マーケティングアクティビティのランディングページを 1 か所にまとめることができます。</li>
-    <li>ランディングページを持つプログラムの場合は、 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report">プログラムテンプレート内での専用のローカルレポートの作成</a> そのため、プログラムレベルでパフォーマンスを確認できます。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report"> ランディングページパフォーマンスレポート </a> をグローバルレポートとして作成すると、すべての Design Studio/Marketing Activities ランディングページの <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report"> 数値のフィルタリングとレビュー </a> を 1 か所で行うことができます。</li>
+    <li>ランディングページを使用するプログラムの場合は、プログラムレベルでパフォーマンスを確認できるように、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report"> プログラムテンプレート内で専用のローカルレポートを作成する </a> を検討してください。</li></td>
   </tr>
   <tr>
     <td>Web ページアクティビティレポート</td>
-    <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：次の条件を満たす Web ページ（外部ランディングページとMarketo ランディングページ）のみ <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">Munchkin JavaScript</a> 有効はこの報告書で追跡されます。 次のような JavaScript コードをTag Management Platform に配置することを検討してください <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a>（すべての web ページでコードがハードコーディングされるのを回避するため）。
+    <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：このレポートでは、（Munchkin JavaScript<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website"> が有効になっている web ページ（外部およびMarketo ランディングページ </a> のみが追跡されます。 すべての web ページにコードをハードコーディングするのを避けるために、<a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google Tag Manager</a> などのJavaScript コードをTag Management Platform に配置することを検討してください。
     <p>
-    <li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">Web ページアクティビティレポート</a> グローバルレポートとして機能するので、すべての web ページの数を 1 か所で確認できます。 外部 web ページのアクティビティは、web ページのアクティビティレポートにのみ反映されます。</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">Web ページアクティビティレポート </a> をグローバルレポートとして作成すると、すべての Web ページの数を 1 か所で確認できます。 外部 web ページのアクティビティは、web ページのアクティビティレポートにのみ反映されます。</li></td>
   </tr>
 </tbody>
 </table>
@@ -145,17 +146,17 @@ ht-degree: 5%
 <tbody>
   <tr>
     <td>メールリンク効果レポート</td>
-    <td><li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report" target="_blank">メールリンクのパフォーマンスレポート</a> メールを送信するプログラムやドリップキャンペーン内で、メール送信でユーザーがクリックしたリンクに関するインサイトを提供します。</li></td>
+    <td><li>メールとドリップキャンペーンを送信するプログラム内に <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report" target="_blank"> メールリンクのパフォーマンスレポート </a> を作成して、ユーザーがメールでクリックしたリンクに関するインサイトを提供します。</li></td>
   </tr>
   <tr>
     <td>キャンペーンアクティビティレポート</td>
-    <td><li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">キャンペーン活動レポート</a> マーケティングアクティビティで、運用フォルダー内の期間を選択します。</li>
-    <li>各ユースケースのトリガーを監視するレポートの設定 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">キャンペーンフィルターの適用</a> （例：行動スコアリングトリガー、ライフサイクル選定トリガー、注目のモーメントトリガー）。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank"> キャンペーンアクティビティレポート </a> を作成し、マーケティングアクティビティで運用フォルダー内の期間を選択します。</li>
+    <li>各ユースケースのトリガーをモニタリングするレポートを設定し、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank"> キャンペーンフィルターを適用 </a> できます（行動スコアリングトリガー、ライフサイクルの選定トリガー、注目のモーメントのトリガーなど）。</li></td>
   </tr>
   <tr>
     <td>エンゲージメントストリームのパフォーマンスレポート（該当する場合）</td>
-    <td><li>を作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report" target="_blank">エンゲージメントストリームのパフォーマンスレポート</a> お客様のエンゲージメントプログラム内にデプロイされたコンテンツとストリームの有効性を測定するため。</li>
-    <li>の使用を検討してください。 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">レポートの「設定」タブの「セグメント化」フィルター</a> および次を使用したレポートデータのグループ化 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">セグメント</a> エンゲージメントプログラムで使用される（担当者、業界など）。 これにより、各セグメントのエンゲージメントパターンに関する深いインサイトを得ることができ、エンゲージメントプログラム（コンテンツ、ストリーム、ストリームケイデンスなど）を改善するための戦略的な変更を行うことができるようになります。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report" target="_blank"> エンゲージメントストリームパフォーマンスレポート </a> を作成して、エンゲージメントプログラム内にデプロイされたコンテンツとストリームの効果を測定します。</li>
+    <li>レポートの「設定」タブで <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank"> 「セグメント化」フィルターを使用し </a> エンゲージメントプログラムで使用する <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank"> セグメント </a> （個人ソース、業界など）でレポートデータをグループ化することを検討します。 これにより、各セグメントのエンゲージメントパターンに関する深いインサイトを得ることができ、エンゲージメントプログラム（コンテンツ、ストリーム、ストリームケイデンスなど）を改善するための戦略的な変更を行うことができるようになります。</li></td>
   </tr>
 </tbody>
 </table>

@@ -5,7 +5,7 @@ title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
 source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 

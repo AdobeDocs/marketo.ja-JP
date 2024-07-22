@@ -21,7 +21,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
 ## 回避 {#getting-around-it}
 
-1. にログインします。 [!DNL Salesforce] marketo 同期ユーザーを使用しています。
+1. Marketo 同期ユーザーを使用して [!DNL Salesforce] にログインします。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -45,7 +45,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Marketo、の下に戻る **[!UICONTROL 管理者]** > **[!UICONTROL Salesforce]** > **[!UICONTROL オブジェクト]**&#x200B;をクリックし、 **[!UICONTROL スキーマを更新]**.
+1. Marketoに戻り、**[!UICONTROL 管理者]**/**[!UICONTROL Salesforce]**/**[!UICONTROL オブジェクト]** の下の **[!UICONTROL スキーマを更新]** をクリックします。
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
@@ -53,7 +53,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. カスタムオブジェクトが有効になり、同期されます。
+1. カスタムオブジェクトが有効になり同期中であることを確認します。
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 

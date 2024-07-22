@@ -6,14 +6,14 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 90%
+source-wordcount: '173'
+ht-degree: 88%
 
 ---
 
 # マーケティングカレンダーの操作 {#navigating-the-marketing-calendar}
 
-マーケティングカレンダー内を簡単に移動できます。 手順は以下のとおりです。
+マーケティングカレンダー内を簡単に移動できます。 手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ ht-degree: 90%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
+1. **[!UICONTROL フィルター]** ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 

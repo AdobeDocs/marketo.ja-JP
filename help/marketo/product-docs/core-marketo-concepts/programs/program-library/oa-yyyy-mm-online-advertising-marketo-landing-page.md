@@ -1,20 +1,20 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketoランディングページ — Marketoドキュメント — 製品ドキュメント
-title: OA-YYYY-MM-Online Advertising Marketoランディングページ
+description: OA-YYYY-MM-Online Advertising Marketoのランディングページ - Marketo ドキュメント – 製品ドキュメント
+title: OA-YYYY-MM-オンライン広告 Marketo ランディングページ
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 15%
 
 ---
 
-# OA-YYYY-MM-Online Advertising Marketoランディングページ {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-YYYY-MM-オンライン広告 Marketo ランディングページ {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
-これは、登録フォームを含むMarketoランディングページや、Marketoのデフォルトプログラムの利用を含む、オンライン広告トラッキングプログラムの例です。 オファーへのリンクは、「ありがとうございます」ページに表示したり、「ありがとうございます」E メールに送信したり、両方に送信したりできます。
+これは、登録フォームを含むMarketo ランディングページを含み、Marketoのデフォルトプログラムを利用する、オンライン広告トラッキングプログラムの例です。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,21 +22,21 @@ ht-degree: 15%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>オンライン広告</td> 
-   <td>01 — メンバー 
-<br/>02 — 関与 — 成功</td>
+   <td>01 - メンバー 
+<br/>02 - エンゲージメント – 成功</td>
    <td>包含</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -58,48 +58,48 @@ ht-degree: 15%
   <tr> 
    <td>ランディングページ</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
-   <td>01 - LP — 登録</td>
+   <td>01 - LP – 登録</td>
   </tr>
    <tr> 
    <td>ランディングページ</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
-   <td>02 - LP — ありがとうございます</td>
+   <td>02 - LP – ありがとうございました</td>
   </tr>
    <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>メールの効果</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>ランディングページの効果</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>00 — 取得プログラムの取得</td>
+   <td>00 – 獲得プログラムのキャプチャ</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — 入力済みフォーム</td>
+   <td>01 – 入力済みフォーム</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02 — エンゲージ済み（プログラム成功）</td>
+   <td>02 - エンゲージ済み（プログラム成功）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（メールとランディングページ用のサブフォルダー）  </td>
+   <td>Assets – すべてのクリエイティブアセットを格納します。 
+<br/> （メールとランディングページのサブフォルダー）  </td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>キャンペーン — すべてのスマートキャンペーンを格納</td>
+   <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -125,8 +125,8 @@ ht-degree: 15%
    <td><code>{{my.Content-Description}}</code></td>
    <td>ダブルクリックして詳細を表示  
 <br/><code><--My Content Description Here--></code> 
-<br/>このコンテンツの説明は、プログラムレベルの「マイトークン」タブで編集します。 
-<br/>学習内容： 
+<br/> このコンテンツの説明は、「マイトークン」タブのプログラムレベルで編集します。 
+<br/> 学習者： 
 <li>箇条書き 1</li>
 <li>箇条書き 2</li>
 <li>箇条書き 3</li></td>
@@ -164,7 +164,7 @@ ht-degree: 15%
   <tr> 
    <td>テキスト</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.ThankYouPageURL?http://</td>
+   <td>My.ThankYouPageURL?http://なし</td>
   </tr>
  </tbody> 
 </table>
@@ -174,42 +174,42 @@ ht-degree: 15%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
    * 元のテンプレートのコピー
-   * インポート先のテンプレートの使用 - _推奨_
+   * 宛先テンプレートの使用 – _推奨_
 
 * **同じ名前の画像**
    * どちらのファイルも保持する
-   * この配信登録内アイテムの置換 - _推奨_
+   * このサブスクリプションの項目を置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
-   * 既存のテンプレートを置換 — _推奨_
+   * 既存のテンプレートを置換 – _推奨_
 
 競合ルールのスクリーンショット
 
 ## ベストプラクティス {#best-practices}
 
-* コンテンツプログラムを読み込んだ後、フォームをローカルアセットから Design Studio 内のグローバルアセットに移動します。
-   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムのデザインと管理ガバナンスにおけるスケーラビリティを高めることができます。 また、フィールド、オプトイン言語などに対する定期的なコンプライアンス更新を柔軟におこなうこともできます。
+* コンテンツプログラムを読み込んだ後、フォームをローカルアセットから Design Studio にあるグローバルアセットに移動します。
+   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムの設計と管理ガバナンスの拡張性が向上します。 また、フィールド、オプトイン言語など、定期的なコンプライアンス更新を柔軟に行えます。
 
-* 現在ブランド化されているテンプレートを利用するには、読み込んだプログラムでテンプレートを更新することを検討するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートをブランドに合わせて更新します。
+* 読み込んだプログラムでテンプレートを更新して現在のブランドのテンプレートを利用するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートを更新し、ブランドを反映させることを検討してください。
 
-* プログラムタグを使用して、オンライン広告の様々なソースでレポートをフィルタリングします。
+* プログラムタグを使用すると、オンラインAdvertisingの様々なソースでレポートをフィルタリングできます。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。
 
 >[!NOTE]
 >
->必要に応じて、プログラムテンプレートのマイトークンの値を更新し、プログラムを使用するたびに値を更新してください。
+>必要に応じて、プログラムテンプレートとプログラムを使用するたびにマイトークン値を必ず更新してください。
 
 >[!TIP]
 >
->成功を追跡するための「02 — エンゲージ済み（プログラム成功）」キャンペーンを忘れずに有効化してください。 これを実行 _前_ フォームがライブになり、電子メールが送信されます。
+>成功をトラッキングするには、「02 - Engaged （Program Success）」キャンペーンをアクティブ化することを忘れないでください。 フォームがライブになり、メールが送信される _前に_ これを行います。
 
 >[!IMPORTANT]
 >
->URL を参照する My Tokens にhttp://やhttps://を含めることはできません。含めないと、リンクがアセット内で適切に機能しません。
+>URL を参照するマイトークンにhttp://またはhttps://を含めることはできません。含めない場合、リンクがアセット内で適切に機能しません。

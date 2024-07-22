@@ -66,7 +66,7 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトも�
 
    ![](assets/custom-object-sync-8.png)
 
-1. すべての Veeva カスタムオブジェクトを表示するには、 **[!UICONTROL 管理者]** および **[!UICONTROL Veeva オブジェクト同期]**.
+1. Veeva のカスタムオブジェクトをすべて表示するには、**[!UICONTROL Admin]** と **[!UICONTROL Veeva Objects Sync]** をクリックします。
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ Veeva CRM インスタンスで作成されたカスタムオブジェクトも�
 
 >[!MORELIKETHIS]
 >
->* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [ コールとコールのキーメッセージの同期 ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 >* [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

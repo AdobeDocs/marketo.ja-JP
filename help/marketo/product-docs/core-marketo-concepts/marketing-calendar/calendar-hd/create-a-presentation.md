@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 70%
+ht-degree: 91%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 70%
 >[!AVAILABILITY]
 >
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. **[!UICONTROL カレンダー]**&#x200B;に移動します。
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. クリック **[!UICONTROL Presentations]** をクリックします。
+1. 右下隅にある ]**0}Presentations} をクリックします。**[!UICONTROL 
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

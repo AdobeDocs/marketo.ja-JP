@@ -1,10 +1,10 @@
 ---
 description: Gmail への接続 - Marketo ドキュメント - 製品ドキュメント
 title: Gmail への接続
-exl-id: cd498eb0-c4e8-4bbe-90ee-8108d41ce906
-source-git-commit: 2f9dbc0f336971be87d50baab27b8fd0221af1be
-workflow-type: ht
-source-wordcount: '185'
+exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: tm+mt
+source-wordcount: '177'
 ht-degree: 100%
 
 ---

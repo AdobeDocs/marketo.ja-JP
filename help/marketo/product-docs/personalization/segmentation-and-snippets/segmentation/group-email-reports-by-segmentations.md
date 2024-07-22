@@ -5,7 +5,7 @@ title: メールレポートをセグメンテーション別にグループ化�
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 53%
+ht-degree: 52%
 
 ---
 
@@ -21,20 +21,20 @@ ht-degree: 53%
 >
 >**定義**
 >
->バッチキャンペーンは、特定の時間に起動し、すべての特定のユーザーのセットに一度に影響を与えます。 例えば、「東京都」にいるすべてのリードにメールを送信する場合に使用します。
+>バッチキャンペーンは特定の時間に開始され、特定のユーザーセットに一度に影響します。 例えば、「東京都」にいるすべてのリードにメールを送信する場合に使用します。
 
-バッチキャンペーンには、スマートリストセクション内のフィルターのみが含まれます ( つまり、トリガーは含まれません )。
+バッチキャンペーンには、スマートリストセクション内にフィルターのみが含まれます（トリガーなし）。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-クリック **[!UICONTROL スケジュール]** タブで、スマートキャンペーンが「バッチ」に設定されていることを確認します。
+**[!UICONTROL スケジュール]** タブをクリックすると、スマートキャンペーンが「バッチ」に設定されていることを確認できます。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **バッチスマートキャンペーン**
 
 * 毎日、毎週、毎月のように、反復するスケジュール設定が可能です。あるいは、単発で 1 回のみ実行するよう設定することも可能です。
-* [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}に表示されます。スマートキャンペーン内の「待機」ステップの後は、ビューに含まれません。
+* [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}に表示されます。Smart Campaign 内の「待機」ステップの後はビューに含まれません。
 
 <br> 
 
@@ -44,13 +44,13 @@ ht-degree: 53%
 >
 >**定義**
 >
->トリガーキャンペーンは、トリガーされたイベントに基づいて、一度に 1 人の人に影響を与えます。 例えば、メール内のリンクがクリックされた場合です。
+>トリガーキャンペーンは、トリガーイベントに基づいて、一度に 1 人のユーザーに影響を与えます。 例えば、メール内のリンクがクリックされた場合です。
 
-スマートキャンペーンが「スマートリスト」セクション内で少なくとも 1 つのトリガーを使用する場合、モードは自動的にトリガーに設定されます。
+スマートキャンペーンで「スマートリスト」セクション内の 1 つ以上のトリガーを使用すると、モードが自動的に「トリガー」に設定されます。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-クリック **[!UICONTROL スケジュール]** タブで、スマートキャンペーンが「トリガー」に設定されていることを確認します。
+**[!UICONTROL スケジュール]** タブをクリックすると、スマートキャンペーンが「トリガー済み」に設定されていることを確認できます。
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -61,4 +61,4 @@ ht-degree: 53%
 
 >[!TIP]
 >
->以下を使用します。 [アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を参照して、スマートキャンペーン内でのステップバイステップの発生を確認します。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。
+>[ アクティビティログ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を使用して、スマートキャンペーン内で何が発生したかを段階的に確認できます。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。

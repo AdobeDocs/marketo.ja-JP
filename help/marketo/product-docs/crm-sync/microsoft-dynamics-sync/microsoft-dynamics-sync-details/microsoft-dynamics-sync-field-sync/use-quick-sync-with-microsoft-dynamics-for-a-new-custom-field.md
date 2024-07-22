@@ -6,8 +6,8 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 96%
+source-wordcount: '356'
+ht-degree: 94%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 96%
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. フィールドを再度選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. フィールドを再選択し、「**[!UICONTROL 保存]** をクリックします。
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

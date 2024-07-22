@@ -7,13 +7,13 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 63%
+ht-degree: 55%
 
 ---
 
 # カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync}
 
-Salesforce インスタンスで作成されたカスタムオブジェクトもMarketo Engageの一部です。 その設定方法を説明しましょう。
+Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engageの一部にすることができます。 その設定方法を説明しましょう。
 
 ## カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync-1}
 
@@ -29,11 +29,11 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/two-2.png)
 
-1. これが最初のカスタムオブジェクトの場合は、 **[!UICONTROL スキーマを同期]**. 」をクリックします。それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新の情報を取得します。
+1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。 それ以外の場合は、**[!UICONTROL スキーマを更新]** をクリックして、が最新であることを確認します。
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. グローバル同期が実行中の場合は、「 **[!UICONTROL グローバル同期を無効にする]**.
+1. グローバル同期が実行中の場合は、「**[!UICONTROL グローバル同期を無効にする]**」をクリックして無効にする必要があります。
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -57,7 +57,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. 「**[!DNL Salesforce]**」タブに戻って、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. 「**[!DNL Salesforce]**」タブに戻り、「**[!UICONTROL 同期を有効にする]** をクリックします。
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -65,9 +65,9 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
 >[!NOTE]
 >
->スマートキャンペーンでは、カスタムオブジェクトをトリガーと共に使用できません。
+>トリガーを含むスマートキャンペーンでは、カスタムオブジェクトを使用できません。
 
-1. スマートリストで、 **[!UICONTROL 商談あり]** フィルターして次のように設定： **[!UICONTROL true]**.
+1. スマートリストで「**[!UICONTROL 商談あり]**」フィルターにドラッグして、「**[!UICONTROL true]**」に設定します。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 

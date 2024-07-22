@@ -13,7 +13,7 @@ ht-degree: 90%
 
 # リードのアクティビティログの検索 {#locate-the-activity-log-for-a-person}
 
-アクティビティログは、最終的な情報の拠り所です。これは、Marketo Engageの人の旅の完全な物語です。
+アクティビティログは、最終的な情報の拠り所です。これは、Marketo Engageにおける個人のジャーニーの完全な物語です。
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 

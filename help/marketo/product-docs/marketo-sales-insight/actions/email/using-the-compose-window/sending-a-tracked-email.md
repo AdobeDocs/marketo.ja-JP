@@ -21,7 +21,6 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
 >* [メールアドレスの確認](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
 >* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) の配信チャネルの設定
 
-
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
 
    ![](assets/sending-a-tracked-email-1.png)
@@ -58,4 +57,3 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
    >
    >* [メールのスケジュール設定](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
    >* [テンプレート](/help/marketo/product-docs/marketo-sales-insight/actions/templates/manage-templates.md#create-a-new-template)
-

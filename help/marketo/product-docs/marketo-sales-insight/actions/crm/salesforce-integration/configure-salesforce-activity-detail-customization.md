@@ -5,7 +5,7 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '699'
 ht-degree: 100%
 
 ---

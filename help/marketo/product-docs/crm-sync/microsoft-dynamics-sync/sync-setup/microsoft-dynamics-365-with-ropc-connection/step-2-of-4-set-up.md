@@ -5,7 +5,7 @@ exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
 source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '446'
 ht-degree: 94%
 
 ---
@@ -74,9 +74,9 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [は英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
 
-1. に戻ります。 **[!UICONTROL 有効なユーザー]** 「 」タブに移動して、ユーザーリストを更新します。
+1. 「**[!UICONTROL 有効なユーザー]**」タブに戻り、ユーザーリストを更新します。
 
    ![](assets/ten.png)
 

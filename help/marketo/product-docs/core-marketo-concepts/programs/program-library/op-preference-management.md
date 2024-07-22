@@ -1,5 +1,5 @@
 ---
-description: OP-Preference Management - Marketoドキュメント — 製品ドキュメント
+description: OP-Preference Management - Marketo ドキュメント – 製品ドキュメント
 title: OP-Preference Management
 hide: true
 hidefromtoc: true

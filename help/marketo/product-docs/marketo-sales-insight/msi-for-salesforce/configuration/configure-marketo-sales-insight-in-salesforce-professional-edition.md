@@ -5,7 +5,7 @@ title: Salesforce Professional Edition での Marketo Sales Insight の設定
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 source-git-commit: 68abebb5e1f9dc0780aedcff51d46ed12d5b4d0a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 100%
 

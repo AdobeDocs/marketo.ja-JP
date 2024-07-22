@@ -6,8 +6,8 @@ exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 89%
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 89%
 
    ![](assets/learnaboutthespeaker.png)
 
-   詳細なダッシュボードに加えて、 [メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. これで、お試しいただくことができます。
+   スマートキャンペーンではなく[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}を使用する理由は、使いやすいダッシュボードと、[A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}を簡単に実施できる点にあります。お試しください。

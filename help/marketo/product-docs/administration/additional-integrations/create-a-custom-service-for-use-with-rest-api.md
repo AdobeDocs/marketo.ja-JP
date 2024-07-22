@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
 >[!TIP]
 >
->の詳細については、開発者向けのドキュメントをご覧ください。 [REST API](https://developer.adobe.com/marketo-apis/). 必要に応じて、[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) も用意しています。
+>[REST API](https://developer.adobe.com/marketo-apis/) について詳しくは、開発者向けのドキュメントを参照してください。 必要に応じて、[SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) も用意しています。
 
 ## カスタムサービスの作成 {#create-custom-service}
 

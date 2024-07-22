@@ -6,8 +6,8 @@ exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 97%
+source-wordcount: '259'
+ht-degree: 84%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->Dynamics 同期で多要素認証（MFA）を有効にしている場合、Dynamics が Marketo と正しく同期するには、無効にする必要があります。詳しくは、 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>Dynamics 同期で多要素認証（MFA）を有効にしている場合、Dynamics が Marketo と正しく同期するには、無効にする必要があります。詳しくは、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 ## Marketo で同期検証を実行する {#run-validate-sync-in-marketo}
 
 同期の検証ツールを実行して、Microsoft Dynamics と Marketo の同期が正しく設定されていることを確認してから、同期の最終的な接続を確立することが非常に重要です。このプロセスでは、7 つのセットアップ手順のチェックリストが生成され、問題が存在する場所を特定します。これらが正しく行われたことを確認すると、後で多くの時間を節約できます。
 
-1. 「**[!UICONTROL 管理者]**」タブをクリックし、「統合」領域の「**[!DNL Microsoft Dynamics]**」リンクをクリックします。
+1. **[!UICONTROL 管理者]** タブをクリックしてから、統合領域の **[!DNL Microsoft Dynamics]** リンクをクリックします。
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
-1. 選択 **[!DNL Microsoft]**.
+1. 「**[!DNL Microsoft]**」を選択します。
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
@@ -39,7 +39,7 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >以前と同期したことがある場合は、左のツリーの「**[!UICONTROL CRM]**」が **[!DNL Microsoft Dynamics]** を読み込み、上記のフォームのデータが事前入力されている場合があります。
+   >以前に同期したことがある場合、左側のツリーの **[!UICONTROL CRM]** が **[!DNL Microsoft Dynamics]** を読み取り、上記のフォームのデータが事前入力される可能性があります。
 
 1. すべて問題ない場合、同期の検証で、すべてが緑のチェックマークがついたチェックリストが生成されます。![-](assets/check.png)
 

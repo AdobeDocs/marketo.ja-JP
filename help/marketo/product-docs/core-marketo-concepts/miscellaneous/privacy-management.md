@@ -4,8 +4,8 @@ title: プライバシー管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 92%
+source-wordcount: '377'
+ht-degree: 70%
 
 ---
 
@@ -25,13 +25,13 @@ Marketo Engage は、プライバシー規制を遵守するのに役立つ一�
 
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
 
-Marketo Engageの機能は、次の規制の遵守に役立ちます。
+Marketo Engageの機能は、次の規則に準拠するのに役立ちます。
 
-* **[!DNL GDPR]** [EU 一般データ保護規則](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) は、欧州連合 (EU) のプライバシー保護法で、EU 諸国のデータ保護要件を現代の状況に合わせて整合化させることを目的としています。
-* **[!DNL CCPA]**[ カリフォルニア州消費者プライバシー法](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=)は、カリフォルニア州の住民に対して個人情報に関する権利を提供し、カリフォルニア州でビジネスをおこなう特定の事業者に対してデータ保護の責任を課します。
-* **[!DNL PDPA]**[ 個人データ保護法](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)は、タイのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
-* **[!DNL LGPD]**[ 一般個人データ保護法](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)は、2021 年初め以降、ブラジルで個人データを収集または処理するすべての企業に対して有効となります。
-* **[!DNL NZPA]**[ 2020 年プライバシー法](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/)は、ニュージーランドのデータ保護要件を現代の状況に合わせて整合化させるプライバシー法です。
+* [EU 一般データ保護規則 ](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)**[!DNL GDPR]**、EU 諸国のデータ保護要件を現代の状況に合わせて整合化する欧州連合（EU）のプライバシー法です。
+* **[!DNL CCPA]** [ カリフォルニア州消費者プライバシー法 ](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.81.5.&amp;part=4.&amp;chapter=&amp;article=) は、カリフォルニア州の居住者に個人情報に関する権利を提供し、カリフォルニア州でビジネスを行う特定の事業者に対してデータ保護の責任を課します。
+* **[!DNL PDPA]**[ 個人情報保護法 ](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) は、タイのプライバシー法で、データ保護要件を現代の状況に合わせて整合化することを目的としています。
+* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)：ブラジルで個人データを収集または処理するすべての企業について、2021 年初頭に発効。
+* **[!DNL NZPA]** [ プライバシー法 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) は、ニュージーランドのデータ保護要件を現代の状況に合わせて整合化するプライバシー法です。
 
 上記の規則はすべて、上記の各地域または国（EU、カリフォルニア州、タイ、ブラジル、ニュージーランド）に居住するデータ主体のデータを保持する Marketo Engage の顧客に適用されます。
 

@@ -1,12 +1,12 @@
 ---
-description: リリースノート - 2023年7月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2023年7月
+description: リリースノート - 2023 年 7 月 – Marketo ドキュメント – 製品ドキュメント
+title: リリースノート - 2023 年 7 月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
 source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 68%
+source-wordcount: '655'
+ht-degree: 69%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 68%
 
 </br>
 
-* **エンゲージメントマップ**：エンゲージメントマップは、再利用可能なキャンペーンを作成および整理するための視覚的なツールです。 完全な下位互換性があるので、ボタンをクリックすることで、既存のすべてのキャンペーンがこの新しい構造に表示できます。マップはダウンロードして共有できます。
+* **エンゲージメントマップ**：エンゲージメントマップは、再利用可能なキャンペーンを作成および整理できる視覚的なツールです。 完全な下位互換性があるので、ボタンをクリックすることで、既存のすべてのキャンペーンがこの新しい構造に表示できます。マップはダウンロードして共有できます。
 
 <table> 
   <tr> 
@@ -33,12 +33,12 @@ ht-degree: 68%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">エンゲージメントマップ：概要</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">エンゲージメントマップの概要</a></td>
   </tr>
   </tbody>
 </table>
 
-* **通知 — Web サービスエラー**: Web サービスエラー通知にサブスクリプション名が含まれるようになり、これにより、複数のMarketo Engageインスタンスを管理しやすくなりました。 また、エラーコードとカウントを含むテーブルに「User」列を追加しました。これにより、Marketo REST API の呼び出し時に、特定のエラーの生成を担当した API ユーザーを簡単に特定できます。
+* **通知 – Web サービスエラー**:Web サービスエラー通知に購読名が含まれるようになりました。これにより、複数のMarketo Engageインスタンスを管理するユーザーが容易になります。 また、エラーコードとカウントを含むテーブルに「User」列を追加しました。これにより、Marketo REST API を呼び出す際に、特定のエラーを生成した API ユーザーを簡単に特定できます。
 
 <table> 
   <tr> 
@@ -92,7 +92,7 @@ ht-degree: 68%
 
 </br>
 
-* **Sales Insight アクションの配信停止追加設定**：配信停止の追加を解除する新しい設定オプションを使用して、配信停止メッセージをより詳細に制御できるようになりました。 新機能により、管理者は、いつ、どこに、どのような登録解除メッセージをセールスメールに表示するかを制御できます。
+* **Sales Insight アクションの登録解除追加設定**：登録解除を追加するための新しい設定オプションを使用して、登録解除メッセージをより詳細に制御できるようになりました。 新機能により、管理者は、いつ、どこに、どのような登録解除メッセージをセールスメールに表示するかを制御できます。
 
 <table> 
   <tr> 
@@ -101,12 +101,12 @@ ht-degree: 68%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">配信停止メッセージの自動追加設定</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">登録解除メッセージの自動追加設定</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Sales Insight アクション用の動的フィールドプロンプト**:Sales Insight アクションのメールテンプレートに新しいフィールドプロンプトを追加して、E メールの特定の部分をパーソナライズするようセールスチームに促すことができるようになりました。
+* **販売インサイトアクションの動的フィールドプロンプト**：販売インサイトアクションのメールテンプレートに追加できる新しいフィールドプロンプトを使用して、メールの特定の部分をさらにパーソナライズするように販売チームに促すことができるようになりました。
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 68%
   </tbody>
 </table>
 
-* **Sales Insight アクションのデフォルトの動的フィールド**：デフォルトの動的フィールドを使用すると、入力可能な値がない場合に動的フィールドが解決できるフォールバック値を設定できます。 これは、確実にすべてのパーソナライゼーションが入力された状態でメールを送信するのに役立ちます。
+* **Sales Insight アクションのデフォルトの動的フィールド**: デフォルトの動的フィールドを使用すると、入力できる値がない場合に動的フィールドが解決できるフォールバック値を設定できます。 これは、確実にすべてのパーソナライゼーションが入力された状態でメールを送信するのに役立ちます。
 
 <table> 
   <tr> 
@@ -171,7 +171,7 @@ ht-degree: 68%
   </tr>
   <tr> 
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chatトリガートークン</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat トリガートークン</a></td>
   </tr>
   </tbody>
 </table>
@@ -180,4 +180,4 @@ ht-degree: 68%
 
 * **Google Analytics 4 へのアップグレード**：Marketo では、以前、Universal Analytics をサポートしていましたが、2023年7月1日にデータの記録を停止します。RTP ユーザーは、Google Analytics ダッシュボードの移行プロセスに従って、RTP での Google Analytics 4 統合のサポートを完了させる必要があります。今後、ユーザーは、ランディングページに一意の英数字のタグ（html の `<head>` セクション内に配置）を持ち、Marketo が Google Analytics にデータを送信できるようになります。
 
-* **_製品リリースウェビナー_**: [2023 年 7 月および 9 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engageリリースウェビナー ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

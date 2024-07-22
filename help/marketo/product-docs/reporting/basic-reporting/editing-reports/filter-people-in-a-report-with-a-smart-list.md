@@ -5,7 +5,7 @@ title: スマートリストを使ってレポートでリードをフィルタ�
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
 source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 

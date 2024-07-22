@@ -4,7 +4,7 @@ title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
 source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 100%
 

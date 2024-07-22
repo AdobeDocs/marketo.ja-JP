@@ -1,30 +1,30 @@
 ---
 description: Response Library - Marketo ドキュメント – 製品ドキュメント
-title: 応答ライブラリ
+title: 回答ライブラリ
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# 応答ライブラリ {#response-library}
+# 回答ライブラリ {#response-library}
 
 1 か所で、すべての質問、承認ステータス、割り当てられたタスク名/トピックを表示します。
 
 ## 質問を手動で追加 {#manually-add-a-question}
 
-1. 「生成 AI」で、 **[!UICONTROL 支援応答]**.
+1. 「生成 AI」で、「**[!UICONTROL Assisted responses]**」をクリックします。
 
    ![](assets/response-library-1.png)
 
-1. 「」をクリックします **[!UICONTROL 応答ライブラリ]** タブ。
+1. 「**[!UICONTROL 応答ライブラリ]**」タブをクリックします。
 
    ![](assets/response-library-2.png)
 
-1. クリック **[!UICONTROL 質問を追加]**.
+1. **[!UICONTROL 質問を追加]** をクリックします。
 
    ![](assets/response-library-3.png)
 
@@ -32,7 +32,7 @@ ht-degree: 4%
 
    ![](assets/response-library-4.png)
 
-1. 「更新」をクリックすると、新しい質問がステータス「」で上部に表示されます[!UICONTROL 処理].」と入力します。
+1. 「更新」をクリックすると、新しい質問が上部に表示され、ステータスは「[!UICONTROL  処理中 ] になります。
 
    ![](assets/response-library-5.png)
 
@@ -44,9 +44,9 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->生成されたすべての質問と回答には、「」が割り当てられます[!UICONTROL レビューが必要]デフォルトでは「ステータス。 Only ``[!UICONTROL 承認済み]」の質問と回答が、訪問者とのチャットに利用できるようになりました。
+>生成されたすべての質問と回答には、デフォルトで「[!UICONTROL  レビューが必要 ]」ステータスが割り当てられます。 「[!UICONTROL  承認済み ]」の質問と回答のみが、チャット訪問者に提供されます。
 
-1. が含まれる **[!UICONTROL 応答ライブラリ]**&#x200B;を選択し、目的の質問をクリックします。
+1. **[!UICONTROL 応答ライブラリ]** で、目的の質問をクリックします。
 
    ![](assets/response-library-7.png)
 
@@ -85,7 +85,7 @@ ht-degree: 4%
 </tbody>
 </table>
 
-1. ファイルの編集が完了したら、に戻ります **[!UICONTROL 応答ライブラリ]** tab キーを押してクリック **[!UICONTROL 応答をアップロード]**.
+1. ファイルの編集が完了したら、「応答ライブラリ ]**」タブに戻り、「**[!UICONTROL  応答をアップロード ]****[!UICONTROL  をクリックします。
 
    ![](assets/response-library-9.png)
 

@@ -1,10 +1,10 @@
 ---
 description: Outlook への接続 - Marketo ドキュメント - 製品ドキュメント
 title: Outlook への接続
-exl-id: 023bc5ab-6193-4abe-a536-347b4765b51e
-source-git-commit: 2f9dbc0f336971be87d50baab27b8fd0221af1be
-workflow-type: ht
-source-wordcount: '521'
+exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: tm+mt
+source-wordcount: '485'
 ht-degree: 100%
 
 ---

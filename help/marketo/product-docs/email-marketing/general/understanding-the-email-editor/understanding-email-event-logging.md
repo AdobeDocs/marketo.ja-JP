@@ -6,7 +6,7 @@ exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '305'
 ht-degree: 100%
 
 ---
@@ -27,4 +27,4 @@ Marketo では、メールを送信する際に、様々なデータポイント
 
 >[!CAUTION]
 >
->同じキャンペーンから同じ人物に 2 回送信された場合、**開封済み**&#x200B;イベントは最大 1 回まで記録されます。
+>同じキャンペーンから同じメールが同じ人物に 2 回送信された場合、**開封済み**&#x200B;イベントは最大 1 回まで記録されます。

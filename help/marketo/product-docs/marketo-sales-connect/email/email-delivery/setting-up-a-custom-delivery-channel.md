@@ -6,7 +6,7 @@ exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '394'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Marketo Sales Connect を使用すると、カスタム SMTP サーバーを統�
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. SMTP サーバーのクレデンシャルを入力し、「**接続**」をクリックします。
+1. SMTP サーバーの資格情報を入力し、「**接続**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -83,7 +83,7 @@ Marketo Sales Connect を使用すると、カスタム SMTP サーバーを統�
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. SMTP サーバーのクレデンシャルを入力し、「**接続**」をクリックします。
+1. SMTP サーバーの資格情報を入力し、「**接続**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 

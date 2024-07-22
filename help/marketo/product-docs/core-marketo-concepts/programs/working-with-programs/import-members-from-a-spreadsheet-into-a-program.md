@@ -6,8 +6,8 @@ exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 90%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >「日付」フィールドに日付をインポートする場合は、次の形式を使用します。9/29/24（月／日／年）
+   >日付を日付フィールドにインポートする場合は、2024 年 9 月 29 日（月/日/年）の形式を使用します。
 
 ## CSV を Marketo にインポートする {#import-your-csv-into-marketo}
 

@@ -17,7 +17,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->繰り返しスマートキャンペーンは、 **not** スケジュールビューでサポートされます。
+>繰り返しスマートキャンペーンは、スケジュール表示ではサポート **されていません**。
 
 <table> 
  <thead> 
@@ -33,11 +33,11 @@ ht-degree: 80%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">スマートキャンペーン <img alt="--" src="assets/image2014-9-24-10-3a5-3a2.png" data-linked-resource-id="3082716" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1">スケジュールされたスマートキャンペーン（メール送信フローステップなし）</td> 
+   <td colspan="1" rowspan="1">メールを送信フローステップのないスケジュール済みスマートキャンペーン。</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">メールによるスマートキャンペーン <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>スケジュールされたスマートキャンペーンに、メール送信フローステップが 1 つ以上含まれています。</p></td> 
+   <td colspan="1" rowspan="1"><p>1 つ以上のメール送信フローステップを含むスケジュールされたスマートキャンペーン。</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">メールプログラム <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 

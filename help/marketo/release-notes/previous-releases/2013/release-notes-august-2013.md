@@ -6,8 +6,8 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 90%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ## パーソナライズ送信テスト {#personalized-send-test}
 
-メールテストを送信する際に、テストメールをパーソナライズするためのリード名が選択できます。
+メールテストを送信する際に、リードの名前を選択してテストメールをパーソナライズできます。
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 

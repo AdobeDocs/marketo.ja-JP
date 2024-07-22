@@ -15,11 +15,11 @@ ht-degree: 60%
 
 Marketo Engageが車なら、スマートキャンペーンがそのエンジンになります。 スマートキャンペーンは想像以上の効果を発揮し、使い始めるのは簡単です。
 
-スマートキャンペーンには 3 つの主な領域があります。 [スマート・リスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} および [スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} タブ。
+スマートキャンペーンには、「[ スマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}」、「[ フロー ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}」および「[ スケジュール ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} タブの 3 つの主な領域があります。
 
 ## スマートリスト {#smart-list}
 
-スマート・リストは定義方法です _対象_ スマートキャンペーンをターゲットにしたい。 フィルターとトリガーがあります。
+スマートリストを使用すると、スマートキャンペーンでターゲットとする _ユーザー_ を定義できます。 フィルターとトリガーがあります。
 
 <table> 
  <tbody> 

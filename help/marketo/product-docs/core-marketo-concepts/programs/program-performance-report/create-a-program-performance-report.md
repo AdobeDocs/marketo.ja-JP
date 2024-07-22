@@ -6,8 +6,8 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 94%
+source-wordcount: '126'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 このレポートを使用して、プログラムの有益な統計を表示します。
 
-1. [プログラムでのレポートの作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}し、**[!UICONTROL プログラム効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
 1. 「**[!UICONTROL レポート]**」タブをクリックします。
 1. レポートが表示されました。レポートを参照して、プログラムの効果を確認します。
 

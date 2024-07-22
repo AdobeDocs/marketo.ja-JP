@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
-description: アラート情報トークンの送信 {{SP_Send_Alert_Info}} - Marketoドキュメント — 製品ドキュメント
+description: Send Alert Info Token {{SP_Send_Alert_Info}} の使用 – Marketo ドキュメント – 製品ドキュメント
 title: アラート情報送信トークンの使用
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '257'
 ht-degree: 96%
 
 ---

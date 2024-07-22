@@ -5,7 +5,7 @@ title: Salesforce 同期について
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
 

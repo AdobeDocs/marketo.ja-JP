@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---

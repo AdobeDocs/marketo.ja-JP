@@ -23,11 +23,11 @@ ht-degree: 91%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Adobe Analytics の **[!UICONTROL 設定]** タブ、ドラッグ [!UICONTROL Analytics の動作] をキャンバスに貼り付けます。
+1. 「**[!UICONTROL 設定]**」タブで、「[!UICONTROL Analytics の動作 ] をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 目的の Analytics 動作を選択します。
+1. 目的の Analytics の動作を選択します。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 

@@ -31,7 +31,7 @@ Marketo リード管理は、最新でスタイリッシュな新しい外観と
 
 ## 日付演算子 {#date-operators}
 
-[詳細フィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) 「過去の過去」、「未来の未来」、「未来の未来」など。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
+[ 過去 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)、「未来」、「未来」の詳細フィルター。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Marketo リード管理は、最新でスタイリッシュな新しい外観と
 
 ## ReST API のリスト操作 {#list-operations-in-the-rest-api}
 
-ReST のリスト操作に関する以下の呼び出しを追加しました。 参照： [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 完全なドキュメント
+ReST のリスト操作に関する以下の呼び出しを追加しました。 完全なドキュメントについては ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)0}https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api} を参照してください。[
 
 * ID によるリストの取得
 * 複数のリストの取得

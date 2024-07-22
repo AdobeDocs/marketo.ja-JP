@@ -6,14 +6,14 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 96%
 
 ---
 
 # SFDC 同期：アカウントの同期 {#sfdc-sync-account-sync}
 
-Marketo Engageは、アカウント情報を Salesforce と同期します。 次に、知っておくべき点をいくつか示します。
+また、Marketo Engageは、アカウント情報を Salesforce と同期します。 次に、知っておくべき点をいくつか示します。
 
 ## 情報の同期方向 {#which-way-does-the-information-sync}
 

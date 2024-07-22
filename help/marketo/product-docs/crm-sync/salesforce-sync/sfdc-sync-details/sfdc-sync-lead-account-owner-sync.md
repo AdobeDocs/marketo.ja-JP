@@ -6,8 +6,8 @@ exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 92%
+source-wordcount: '214'
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 リード／アカウント所有者の同期は、技術的には Salesforce の「ユーザ」テーブルを同期することですが、これを「リード／アカウント所有者」フィールドと呼ぶことにします。
 
-## どのフィールドがMarketo Engageに同期しますか？ {#which-fields-will-sync-to-marketo-engage}
+## Marketo Engageに同期するフィールドはどれですか？ {#which-fields-will-sync-to-marketo-engage}
 
 Marketo に同期された各ユーザに対して、次の所有者フィールドも同期します。
 
@@ -46,6 +46,6 @@ Marketo に同期された各ユーザに対して、次の所有者フィール
 * セールス所有者による、署名入りのパーソナライズされたメール送信
 * 特定のセールス担当者に対するマーケティングのフィルタリングや効果の分析
 * Marketo の割り当て（および再割り当て）ルール
-* これらを [所有者の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} フローアクション
+* [所有者を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}の各フローアクションで使用
 
 Marketo は、Salesforce との同期において業界でも極めて優れています。

@@ -1,25 +1,26 @@
 ---
-description: スマートキャンペーンでの SMS オプションの使用 — Marketoドキュメント — 製品ドキュメント
+description: Smart Campaign での SMS オプションの使用 – Marketo ドキュメント – 製品ドキュメント
 title: スマートキャンペーンでの SMS オプションの使用
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 34%
+ht-degree: 38%
 
 ---
 
 # スマートキャンペーンでの SMS オプションの使用 {#using-sms-options-in-a-smart-campaign}
 
-後で [SMS メッセージの作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}スマートリストのトリガーとフィルターをスマートキャンペーン内で使用して、メリットを得ることができます。
+[SMS メッセージを作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。
 
 >[!NOTE]
 >
->SMS メッセージを送信したい場合、 [特定の記事](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} それに対して
+>SMS メッセージを送信する場合は、[ 特定の記事 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} を用意しています。
 
 >[!PREREQUISITES]
 >
->SMSトリガー/フィルターは、 [Vibes サービスが有効になっています](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>SMS トリガー/フィルターは、[Vibes サービスが有効 ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} になっている場合にのみ表示されます。
 
 ## SMS トリガー {#sms-triggers}
 
@@ -32,7 +33,7 @@ ht-degree: 34%
 
 以下に、いくつかの例を示します。
 
-The **SMS メッセージのバウンス** トリガーは、SMS メッセージがバウンスしたときに E メールの送信などのフローを開始します。
+**SMS メッセージバウンス**&#x200B;トリガーは、SMS メッセージがバウンスした場合に、メールの送信などのフローを開始します。
 
 **Vibes リストの購読**&#x200B;トリガーは、ユーザーが購読するとフローを開始します。
 
@@ -49,15 +50,15 @@ The **SMS メッセージのバウンス** トリガーは、SMS メッセージ
 
 **Vibes リストに購読済み**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。削除されたリードがフローから除外されても、登録解除済みのリードと削除済みのリードの両方が含まれます。このフィルターは、レポートに最適です。
 
-これに対して、 **Vibes リストのメンバー** フィルター検索 _誰か_ 現在 Vibes を購読中で、スマートキャンペーンまたはリストでの使用に最も適しています。
+これに対し、**Vibes リストのメンバー** フィルターは、現在 Vibes を購読している _任意のユーザー_ を見つけ、スマートキャンペーンやリストでの使用に最も適しています。
 
 >[!NOTE]
 >
->すべての SMS フィルターには、 **アクティビティの日付** 制約をデフォルトで設定します。
+>すべての SMS フィルターには、デフォルトで **アクティビティの日付** 制約が含まれています。
 
-## SMS フローステップ {#sms-flow-steps}
+## SMS フローの手順 {#sms-flow-steps}
 
-SMS のフローステップは 3 つあります。
+SMS フローステップは 3 つから選択できます。
 
 ![](assets/using-sms-options-in-a-smart-campaign-5.png)
 
@@ -65,16 +66,16 @@ SMS のフローステップは 3 つあります。
 <tbody>
   <tr>
     <td style="width:20%"><b>SMS メッセージの送信</b></td>
-    <td>このフローアクションは、オプトインした Vibes サブスクリプションリストに登録されているMarketoスマートリストの担当者にメッセージを送信します。 購読手続きは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">詳細情報</a></td>
+    <td>このフローアクションは、オプトインした Vibes 購読リストを購読しているMarketo スマートリストのユーザーにメッセージを送信します。 購読プロセスは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">詳細情報</a></td>
   </tr>
 
 <tr>
-    <td style="width:20%"><b>Vibes リストに登録</b></td>
-    <td>このフローアクションは、ユーザーが選択した Vibes 獲得キャンペーンを介して SMS 購読プロセスを開始します。 Vibes が確認メッセージを送信し、受信者がオプトインを確認するには、24 時間以内に「Y」と返信する必要があります。 ユーザーがオプトインすると、関連付けられた Vibes 配信登録リストのメンバーになります。</td>
+    <td style="width:20%"><b>Vibes リストに配信登録</b></td>
+    <td>このフローアクションは、ユーザーが選択した Vibes 獲得キャンペーンを通じて SMS 購読プロセスを開始します。 次に、Vibes が確認メッセージを送信し、受信者は 24 時間以内に「Y」と返信してオプトインを確認する必要があります。 ユーザーがオプトインすると、関連付けられた Vibes サブスクリプションリストのメンバーになります。</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Vibes リストから登録解除</b></td>
-    <td>このフローアクションは、オプトインした Vibes 配信登録リストから各顧客を配信停止にします。 ユーザーがコードに「STOP」と入力すると、ユーザーレコードが更新され、Vibes 配信登録リストのメンバーでなくなったことが反映されます。</td>
+    <td style="width:20%"><b>Vibes リストから配信停止</b></td>
+    <td>このフローアクションは、オプトインした Vibes 購読リストから各ユーザーを購読解除します。 ユーザーがコードに「STOP」と入力すると、ユーザーのユーザーレコードが更新され、Vibes サブスクリプションリストに登録されなくなったことを反映します。</td>
   </tr>
   </tbody>
 </table>
@@ -85,6 +86,6 @@ SMS のフローステップは 3 つあります。
 
 >[!MORELIKETHIS]
 >
->* [SMS メッセージの送信](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [SMS メッセージの送信 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

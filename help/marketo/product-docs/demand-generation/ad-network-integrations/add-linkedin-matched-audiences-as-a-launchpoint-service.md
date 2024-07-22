@@ -5,7 +5,7 @@ title: LinkedIn と一致したオーディエンスを LaunchPoint サービス
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
 source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
 

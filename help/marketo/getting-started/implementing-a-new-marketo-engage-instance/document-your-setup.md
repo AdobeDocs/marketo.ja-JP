@@ -6,7 +6,7 @@ exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 51%
+ht-degree: 52%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 51%
   <tr>
     <td>リストの読み込み</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
-    <li>複数のデータ・ソースからインポートする場合は、マスター・リストまたは <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">カスタムフィールドの作成</a> 人物レコードでデータソースを示します。</li></td>
+    <li>複数のデータソースから読み込む場合は、マスターリストを使用するか、人物レコードで <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank"> カスタムフィールドの作成 </a> を使用して、データソースを示すことを検討してください。</li></td>
   </tr>
   <tr>
     <td>データベース統合</td>
@@ -59,7 +59,7 @@ ht-degree: 51%
     <li>最新のログイン日</li></ul>
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：これを拡張して、役割/権限に関するドキュメントを含めることもできます。
     <p>
-    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。Adobe Admin Consoleのユーザーリストを変更するには、 <a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">一括アクション</a>.csv のアップロード、User Management REST API の使用など。</li></td>
+    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。Adobe Admin Consoleのユーザーのリストを変更するには、.CSV のアップロードや User Management REST API の使用など、<a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank"> 一括アクション </a> を検討します。</li></td>
   </tr>
   <tr>
     <td>組織</td>

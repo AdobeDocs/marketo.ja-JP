@@ -19,7 +19,7 @@ ht-degree: 61%
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. 右クリック **[!UICONTROL 画像とファイル]** を選択し、 **[!UICONTROL 新規フォルダー]**.
+1. **[!UICONTROL 画像とファイル]** を右クリックし、「**[!UICONTROL 新規フォルダー]**」を選択します。
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 61%
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. に戻る **[!UICONTROL 画像とファイル]** をクリックし、移動するアセットを選択します。 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 移動]**.
+1. **[!UICONTROL 画像とファイル]** に戻り、移動するアセットを選択します。 **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 移動]**」を選択します。
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 61%
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. クリック **Move**.
+1. **Move** をクリックします。
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

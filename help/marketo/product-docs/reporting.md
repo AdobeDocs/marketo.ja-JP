@@ -4,7 +4,7 @@ description: レポート - Marketo ドキュメント - 製品ドキュメン�
 title: レポート
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---

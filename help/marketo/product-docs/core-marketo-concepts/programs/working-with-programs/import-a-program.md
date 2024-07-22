@@ -13,11 +13,11 @@ ht-degree: 67%
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、ある購読から別のMarketo Engage購読にインポートできます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、事前に作成されたプログラムを [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+プログラムは、あるMarketo Engageサブスクリプションから別のサブスクリプションサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
 
 >[!CAUTION]
 >
->「カスタムオブジェクトが更新されました」トリガーを含むスマートリストを持つプログラムは、インポートに失敗します。 以下の手順に従う前に、すべてのスマートトリガーからこのリストを削除してください。
+>[ カスタム オブジェクトが更新されました ] というトリガーを含むスマート リストを持つプログラムは、インポートに失敗します。 次に説明する手順を実行する前に、このトリガーをすべてのスマート リストから削除してください。
 
 ## プログラムのインポート {#importing-a-program}
 
@@ -25,7 +25,7 @@ ht-degree: 67%
 
    ![](assets/import-a-program-1.png)
 
-1. 次をクリック： **[!UICONTROL 新規]** ドロップダウンして「 」を選択します。 **[!UICONTROL プログラムの読み込み]**.
+1. **[!UICONTROL 新規]** ドロップダウンをクリックし、「**[!UICONTROL プログラムをインポート]**」を選択します。
 
    ![](assets/import-a-program-2.png)
 
@@ -33,7 +33,7 @@ ht-degree: 67%
    >
    >* プログラムのインポートは、「プログラムのインポート」権限が有効になっているロールを持つユーザのみが使用できます。詳しくは、[ユーザのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
    >
-   >* Sandbox アカウントを Live サブスクリプションに接続するには、にお問い合わせください。 [Marketoサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* サンドボックスアカウントをライブサブスクリプションに接続するには、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 1. Marketo **[!UICONTROL サブスクリプション]**&#x200B;を選択してインポートするプログラムを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -67,13 +67,13 @@ ht-degree: 67%
 
 ## プログラムインポート中の外部アセットへの影響 {#impact-on-external-assets-during-program-imports}
 
-プログラムは、電子メールテンプレート、ランディングページテンプレート、画像、フォーム、トークン、プログラムタグなどの外部アセットを使用します。 ランディングページのテンプレートとプログラムタグの処理方法を設定でき、残りはMarketoが自動的に管理します。
+プログラムは、メールテンプレート、ランディングページテンプレート、画像、フォーム、トークン、プログラムタグなどの外部アセットを使用します。 ランディングページのテンプレートとプログラムタグの処理方法を設定でき、残りはMarketoで自動的に管理されます。
 
 **メール／ランディングページテンプレート：**&#x200B;メール／ランディングページテンプレートがデザインスタジオに読み込まれます。同じ名前のテンプレートが存在する場合、競合ルールを使用して動作を設定できます。同じ名前が存在する場合は、デフォルトのルールを使用して、テンプレートに数字が追加されます。例えば、「標準テンプレート」という名前のテンプレートが既に存在する場合、新しいテンプレートの名前は「標準テンプレート - 1」になります。
 
-**ランディングページ/Forms:** 同じ名前のフォームまたはランディングページが Design Studio に存在する場合、それらは引き続き読み込まれますが、名前に数字が追加されます（例：ランディングページ — 1）。
+**ランディングページ/Forms:** 同じ名前のフォームまたはランディングページが Design Studio に存在する場合は、読み込まれますが、名前に数字が付きます（例：ランディングページ - 1）。
 
-**画像：** ランディングページで使用される画像は、同じ名前の画像が存在しない限り、デザインスタジオに読み込まれます。
+**画像：** ランディングページで使用される画像は、同じ名前のものが存在しない限り、Design Studio に読み込まれます。
 
 **トークン：**&#x200B;プログラム外に存在するトークンは、インポートプロセス中にローカルトークンに変換されます。
 
@@ -85,4 +85,4 @@ ht-degree: 67%
 
 >[!CAUTION]
 >
->プログラムをインポートする際に、 [動的コンテンツ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} がスキップされます。
+>プログラムを読み込む際、[ 動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} を含むメールやランディングページはスキップされます。

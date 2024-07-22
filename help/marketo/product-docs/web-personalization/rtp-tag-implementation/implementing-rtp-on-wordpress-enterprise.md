@@ -6,12 +6,12 @@ exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
-# Wordpress での RTP の実装エンタープライズ {#implementing-rtp-on-wordpress-enterprise}
+# Wordpress Enterprise での RTP の実装 {#implementing-rtp-on-wordpress-enterprise}
 
 RTP タグを実装するには、次のインストール手順に従います。
 

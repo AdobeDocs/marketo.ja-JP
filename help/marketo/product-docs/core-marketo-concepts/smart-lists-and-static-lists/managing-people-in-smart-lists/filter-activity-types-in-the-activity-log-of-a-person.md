@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >詳しくは、[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}を参照してください。
 
-1. 人物の詳細ページに移動します。「**[!UICONTROL アクティビティログ]**」タブをクリックします。
+1. 人物の詳細ページに移動します。 「**[!UICONTROL アクティビティログ]**」タブをクリックします。
 
    ![](assets/one.png)
 

@@ -1,11 +1,11 @@
 ---
 description: Salesforce でのセールスキャンペーンへの一括追加の使用 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce でのセールスキャンペーンへの一括追加の使用
-exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 100%
+source-wordcount: '580'
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
 >[!PREREQUISITES]
 >
->Salesforce の連絡先およびリードのリスト表示で、[最新の Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}がインストールされていることを確認してください。
+>[ 最新の Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} が Salesforce インスタンスにインストールされ、Salesforce の連絡先ビューとリードリストビューで [ アクションボタン ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} が設定されていることを確認します。
 
 ## Salesforce Lightning でのセールスキャンペーンへの一括追加 {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 

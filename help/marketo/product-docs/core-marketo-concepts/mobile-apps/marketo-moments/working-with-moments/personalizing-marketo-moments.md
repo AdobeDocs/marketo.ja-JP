@@ -6,8 +6,8 @@ exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 53%
+source-wordcount: '133'
+ht-degree: 56%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 53%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 3 日に、Adobeは、すべての App Stores からMarketo Moments App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 「**[!UICONTROL 自分のモーメントのみを表示]**」を有効にして、独自のメールプログラムとスマートキャンペーンのみを表示します。
 

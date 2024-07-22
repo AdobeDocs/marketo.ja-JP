@@ -13,7 +13,7 @@ ht-degree: 91%
 
 # 個人取引先の使用 {#using-person-accounts}
 
-組織のニーズに合わせて、Salesforce で個人取引先を設定できます。次に、Marketo Engageが顧客アカウントを処理する方法を示します。
+組織のニーズに合わせて、Salesforce で個人取引先を設定できます。Marketo Engageでの人物アカウントの扱い方を次に示します。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 91%
 
 ## ビジネスアカウントと個人取引先を区別する方法を教えてください。 {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-スマートリストの「担当者アカウント」フィルタを使用して、担当者アカウントを標準のビジネスアカウントと区別します。
+スマートリストの「ユーザーアカウント」フィルターを使用して、標準のビジネスアカウントからユーザーアカウントを分離します。
 
 ## 個人取引先情報は Marketo Sales Insight でどこに表示されますか？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 

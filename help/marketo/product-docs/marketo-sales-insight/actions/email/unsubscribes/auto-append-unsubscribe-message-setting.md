@@ -1,37 +1,37 @@
 ---
-description: 自動追加配信停止メッセージ設定 — Marketoドキュメント — 製品ドキュメント
-title: 配信停止メッセージの自動追加設定
+description: 自動追加登録解除メッセージ設定 – Marketo ドキュメント – 製品ドキュメント
+title: 登録解除メッセージの自動追加設定
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
-# 配信停止メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
+# 登録解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
 
-送信されたすべての Sales Insight Actions メールに配信停止メッセージが含まれていることを確認して、受信者が簡単に通信をオプトアウトできるようにします。 「配信停止メッセージを追加」が有効な場合、チームがMarketo Sales から送信するすべての通信には、Web アプリケーションや Salesforce から送信されたメールを含む配信停止メッセージが含まれます。
+送信されたすべての営業インサイトアクションのメールに購読解除メッセージが含まれていることを確認して、受信者がコミュニケーションを簡単にオプトアウトできるようにします。 登録解除メッセージの追加が有効になっている場合、Marketo Sales から送信されるすべてのコミュニケーションには、Web アプリケーションや Salesforce から送信されるメールを含む、登録解除メッセージが含まれます。
 
 >[!NOTE]
 >
->を使用する場合、 `{{team_unsubscribe}}` e メールテンプレートの「動的」フィールドで、「配信停止メッセージの追加」設定が有効になっている場合、チーム配信停止の動的フィールドに配信停止メッセージが入力されます _の代わりに_ 配信停止メッセージを追加する
+>メールテンプレートで `{{team_unsubscribe}}` 動的フィールドを使用し、購読解除メッセージの追加設定が有効になっている場合、チームの購読解除動的フィールドに、購読解除メッセージが _代わりに_ 追加されます。
 
-## 配信停止の追加を有効/無効にする {#enable-disable-unsubscribe-append}
+## 購読解除追加を有効/無効にする {#enable-disable-unsubscribe-append}
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. 「管理者設定」で、 **配信停止**.
+1. [ 管理設定 ] で、[**登録解除**] をクリックします。
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
-1. 「メッセージング」タブの「配信停止メッセージを追加」で、スライダーを目的の状態に移動します。
+1. 「メッセージ」タブの「追加登録解除メッセージ」で、スライダーを目的の状態に移動します。
 
    ![](assets/auto-append-unsubscribe-message-setting-3.png)
 
 >[!TIP]
 >
->配信停止メッセージの追加設定を無効にした場合、テンプレートに配信停止フッターを追加して、通信にオプトアウトオプションが設定されていることを確認することをお勧めします。 これをおこなうには、独自のカスタムメッセージを各テンプレートに追加するか、 `{{team_unsubscribe}}` [動的フィールド](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>「登録解除メッセージを追加」設定を無効にした場合、通信にオプトアウトオプションが含まれるように、テンプレートに登録解除フッターを追加することをお勧めします。 これを行うには、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [ 動的フィールド ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} を使用します。

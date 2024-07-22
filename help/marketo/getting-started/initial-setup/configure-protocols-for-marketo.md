@@ -5,9 +5,9 @@ title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
-workflow-type: ht
-source-wordcount: '2136'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '2149'
+ht-degree: 97%
 
 ---
 
@@ -288,11 +288,11 @@ MX レコードを使用すると、メールの送信元のドメインに対�
 
 **Webhook**
 
-スマートキャンペーンの一環として、Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} フローアクションが実行されると、外部 web サービスに HTTP リクエストが行われます。Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として [Webhook を呼び出し ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 **CRM 同期**
 
-Marketo Engage [Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API に対して送信 HTTP リクエストを行う統合メカニズムです。お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} と [Microsoft Dynamics 同期 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} は、CRM ベンダーが公開している API に対してアウトバウンド HTTP リクエストを行う統合機構です。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 **Marketo Engage アウトバウンド IP アドレスブロック**
 

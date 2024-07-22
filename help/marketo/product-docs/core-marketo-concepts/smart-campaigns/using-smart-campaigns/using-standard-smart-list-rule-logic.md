@@ -7,13 +7,13 @@ feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 85%
+ht-degree: 73%
 
 ---
 
 # 標準スマートリストルールロジックの使用 {#using-standard-smart-list-rule-logic}
 
-キャンペーンスマートリストを作成する際に、「フィルターを使用」オプションが表示されている可能性があります。 この設定を使用すると、フィルターを AND または OR 演算子で評価する必要があるかどうかを決定できます。
+Campaign スマートリストを作成する際に、「フィルターを使用」オプションに気付いた可能性があります。 この設定を使用すると、フィルターを AND または OR 演算子で評価する必要があるかどうかを決定できます。
 
 ![](assets/using-standard-smart-list-rule-logic-1.png)
 
@@ -21,11 +21,11 @@ ht-degree: 85%
 >
 >スマートリストルールロジックの変更は、フィルターのみに適用され、トリガーには&#x200B;_適用されません_。
 
-トリガーは、上記の設定が ALL に設定されている場合でも、常に OR として評価されます。次に例を示します。
+上記の設定が ALL に設定されている場合でも、トリガーは常にまたはと評価されます。 次に例を示します。
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 
-上のスマートリストは、次の単語で構成されます。
+上記のスマートリストは次の語句で表されます。
 
 ```box
 IF person fills out Great Form

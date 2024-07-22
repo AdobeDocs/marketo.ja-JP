@@ -19,7 +19,7 @@ ht-degree: 87%
 
    ![](assets/rename-a-smart-campaign-1.png)
 
-1. スマートキャンペーンを選択し、右側のスマートキャンペーン名をクリックします。
+1. スマートキャンペーンを選択し、右側の名前をクリックします。
 
    ![](assets/rename-a-smart-campaign-2.png)
 

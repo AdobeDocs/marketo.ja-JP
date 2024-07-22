@@ -4,7 +4,7 @@ title: Marketo Engage の最新 UX の概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 100%
 

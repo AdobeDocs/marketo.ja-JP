@@ -13,21 +13,21 @@ ht-degree: 52%
 
 # アップロードした画像またはファイルの削除 {#delete-an-uploaded-image-or-file}
 
-画像やファイルを簡単に削除できます。
+画像やファイルをすばやく簡単に削除できます。
 
 >[!CAUTION]
 >
->削除すると、イメージ/ファイルは完全にMarketo Engageから削除され、復元できなくなります。
+>削除すると、画像やファイルはMarketo Engageから完全に削除され、復元できません。
 
 1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 選択 **[!UICONTROL 画像とファイル]**
+1. 「**[!UICONTROL 画像とファイル]**」を選択します。
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 目的の画像/ファイルを検索して選択します。 次をクリック： **[!UICONTROL 画像とファイルのアクション]** ドロップダウンして「 」を選択します。 **[!UICONTROL 削除]**.
+1. 目的の画像またはファイルを見つけて選択します。 「**[!UICONTROL 画像とファイルのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 52%
 
    >[!NOTE]
    >
-   >現在使用中のアセットは削除されません。
+   >Assetsは、現在使用中の場合は削除しません。
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Marketo の中心概念 - Marketo ドキュメント - 製品ドキ
 title: Marketo の中心概念
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---

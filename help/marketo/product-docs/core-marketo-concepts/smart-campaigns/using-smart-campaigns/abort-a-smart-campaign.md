@@ -45,4 +45,4 @@ ht-degree: 91%
    >
    >トリガーキャンペーンのフローから人物を削除する場合は、[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}を参照してください。
 
-常にあなたの作業を再確認しますが、この緊急ブレーキが役に立つかもしれません。
+仕事の再確認をしなさい。でも、この非常ブレーキが役に立つかもしれません。

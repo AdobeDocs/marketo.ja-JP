@@ -1,24 +1,24 @@
 ---
-description: OP リード管理 — Marketoドキュメント — 製品ドキュメント
+description: OP-Lead Management - Marketo ドキュメント – 製品ドキュメント
 title: OP-リード管理
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # OP-リード管理 {#op-lead-management}
 
-これは、Marketo Engageのデフォルトプログラムを利用して、リード管理のベストプラクティスワークフローの例で、Marketo Engageデータベース内のレコードを CRM に管理するのに役立ちます。
+これは、Marketo Engageのデフォルトプログラムを利用したリード管理ベストプラクティスワークフローの例であり、Marketo Engageデータベース内のレコードを CRM に対して管理する際に役立ちます。
 
 >[!NOTE]
 >
->Marketo Engageでは、データベース内のレコードは人/人と呼ばれます。 この例のリード管理は、CRM のレコードを参照しています。
+>Marketo Engageでは、データベース内のレコードは人物/人物と呼ばれます。 この例のリード管理は、CRM のレコードを参照しています。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -26,20 +26,20 @@ ht-degree: 16%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>オペレーショナル</td> 
-   <td>01 — メンバー</td>
+   <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -51,17 +51,17 @@ ht-degree: 16%
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>01 — 新しい担当者を CRM に同期</td>
+   <td>01 – 新しいユーザーを CRM に同期</td>
   </tr>
   <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>02 — マーケティング認定</td>
+   <td>02 - マーケティング認定</td>
   </tr>
   <tr> 
    <td>メール</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>01 — 電子メール — アラート — MQL</td>
+   <td>01 - メール – アラート - MQL</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -81,23 +81,23 @@ ht-degree: 16%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートをコピー — _推奨_
+   * 元のテンプレートをコピー – _推奨_
    * インポート先のテンプレートの使用
 
 * **同じ名前の画像**
-   * 両方のファイルを保持 — _推奨_
-   * この配信登録内アイテムの置換
+   * 両方のファイルを保持 – _推奨_
+   * このサブスクリプション内アイテムの置換
 
 * **同じ名前のメールテンプレート**
-   * 両方のテンプレートを保持 — _推奨_
+   * 両方のテンプレートを保持 – _推奨_
    * 既存テンプレートの置換
 
 ## ベストプラクティス {#best-practices}
 
-* 組織で追跡する可能性のある各ライフサイクルステータスニーズに対応するために、追加のスマートキャンペーンを追加することを検討します。 このプログラムで作成される各キャンペーンは、ベストプラクティスビルドの例を示すもので、すべての使用例に特有のものではありません。 特定のリードライフサイクル管理プロセスに対応するために、必ずスマートキャンペーンを更新してください。
+* 組織で追跡する可能性のあるライフサイクルステータスのニーズのそれぞれに対応するために、追加のスマートキャンペーンを追加することを検討します。 このプログラムで作成された各キャンペーンは、ベストプラクティスのビルドの例であり、すべてのユースケースに固有のものではありません。 特定のリードライフサイクル管理プロセスに対応するようにスマートキャンペーンを必ず更新してください。
 
-* ご使用のプログラムの例の命名規則を更新することを検討してください。
+* このプログラムの例の命名規則を更新して、現在の例に合わせることを検討してください。

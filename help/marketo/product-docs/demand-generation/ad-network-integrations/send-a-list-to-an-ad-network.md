@@ -12,11 +12,11 @@ ht-degree: 74%
 
 # 広告ネットワークへのリストの送信 {#send-a-list-to-an-ad-network}
 
-静的リストをLinkedIn、FacebookまたはGoogleに送信する方法を説明します。
+静的リストをLinkedIn、FacebookまたはGoogleに送信する方法について説明します。
 
 ## リストの送信方法 {#how-to-send-a-list}
 
-1. Marketo Engageで、リストを選択し、 **[!UICONTROL リストアクション]** ドロップダウンで、「 」を選択します。 **[!UICONTROL 広告ネットワークに送信]**.
+1. Marketo Engageでリストを選択し、「**[!UICONTROL リストのアクション]**」ドロップダウンをクリックして、「**[!UICONTROL Ad Network に送信]**」を選択します。
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 74%
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. 次をクリック： **[!UICONTROL 対象ユーザ]** 」ドロップダウンリストから、目的のオーディエンスを選択します。
+1. **[!UICONTROL オーディエンス]** ドロップダウンをクリックし、目的のオーディエンスを選択します。
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 74%
 
    >[!NOTE]
    >
-   >「継続的なオーディエンスの同期を有効にする」を選択した場合、Marketo インスタンスでリストが変更されるため、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。両方とも追加します _および_ 静的リストに追加または削除された担当者をオーディエンスから削除します。
+   >「継続的なオーディエンスの同期を有効にする」を選択した場合、Marketo インスタンスでリストが変更されるため、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。静的リストに追加されたユーザーや静的リストから削除されたユーザーは、両方ともオーディエンスから追加 _および_ 削除します。
 
 1. これで完了です。「**[!UICONTROL OK]**」をクリックして終了します。
 

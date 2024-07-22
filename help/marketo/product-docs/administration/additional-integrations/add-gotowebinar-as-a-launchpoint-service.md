@@ -5,7 +5,7 @@ title: " [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追�
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 

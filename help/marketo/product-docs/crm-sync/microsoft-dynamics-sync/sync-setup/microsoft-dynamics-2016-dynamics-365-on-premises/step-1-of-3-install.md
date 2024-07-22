@@ -5,14 +5,14 @@ exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
 source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 86%
+source-wordcount: '307'
+ht-degree: 84%
 
 ---
 
 # 手順 1 / 3：Marketo（2016 オンプレミス／Dynamics 365 オンプレミス）の同期ユーザーの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-Microsoft Dynamics 2016 On-Prem/Dynamics 365 をMarketo Engageと同期する前に、Dynamics にMarketoソリューションをインストールする必要があります。
+Microsoft Dynamics 2016 オンプレミス/Dynamics 365 をMarketo Engageと同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。
 
 >[!NOTE]
 >
@@ -20,13 +20,13 @@ Microsoft Dynamics 2016 On-Prem/Dynamics 365 をMarketo Engageと同期する前
 
 >[!PREREQUISITES]
 >
->Microsoft Dynamics オンプレミスを使用している場合は、 [インターネット対応の導入](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0 以降 (ADFS) が設定されました。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>Microsoft Dynamics オンプレミスを使用している場合は、[Active Directory Federation Services](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} 2.0 以降（ADFS）が設定された [ インターネット接続展開 ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
 >[!NOTE]
 >
->**Dynamics 管理権限が必要です**.
+>**Dynamics 管理者権限が必要です**。
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 

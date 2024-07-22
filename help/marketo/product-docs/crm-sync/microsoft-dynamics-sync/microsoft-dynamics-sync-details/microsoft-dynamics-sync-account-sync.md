@@ -6,14 +6,14 @@ exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 94%
+source-wordcount: '221'
+ht-degree: 95%
 
 ---
 
 # Microsoft Dynamics Sync:アカウントの同期 {#microsoft-dynamics-sync-account-sync}
 
-Marketo Engageが Dynamics とデータベース全体を同期するのを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。MarketoでのDynamicsアカウントの処理方法の詳細を以下に示します。
+Marketo Engageがデータベース全体を Dynamics と同期することを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。MarketoでのDynamicsアカウントの処理方法の詳細を以下に示します。
 
 ## 情報の同期方法 {#which-way-does-the-information-sync}
 

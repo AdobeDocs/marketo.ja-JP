@@ -6,14 +6,14 @@ exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 92%
 
 ---
 
 # Microsoft Dynamics Sync：ユーザー同期 {#microsoft-dynamics-sync-user-sync}
 
-Marketo Engageが Dynamics とデータベース全体を同期するのを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。Marketo での Dynamics アカウントの処理方法の詳細を以下に示します。
+Marketo Engageがデータベース全体を Dynamics と同期することを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。Marketo での Dynamics アカウントの処理方法の詳細を以下に示します。
 
 統合を行うには、専用の Microsoft Dynamics CRM ユーザーが必要です。このユーザーを、同期ユーザーと呼びます。
 

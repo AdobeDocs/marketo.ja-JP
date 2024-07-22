@@ -5,7 +5,7 @@ title: スマートキャンペーン用スマートリストの定義 |トリ�
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
 source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 100%
 

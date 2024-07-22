@@ -5,7 +5,7 @@ title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
 source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 

@@ -6,7 +6,7 @@ exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 3%
 >
 >未回答の質問のリストは、24 時間ごとに、午前 0 時（PST）に自動的に更新されます。
 
-1. 「生成 AI」で、 **[!UICONTROL 支援応答]**.
+1. 「生成 AI」で、「**[!UICONTROL Assisted responses]**」をクリックします。
 
    ![](assets/unanswered-questions-1.png)
 
-1. 「」をクリックします **[!UICONTROL 未回答の質問]** タブ。
+1. 「**[!UICONTROL 未回答の質問]** タブをクリックします。
 
    ![](assets/unanswered-questions-2.png)
 

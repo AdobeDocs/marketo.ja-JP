@@ -6,7 +6,7 @@ exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '766'
 ht-degree: 92%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!PREREQUISITES]
 >
->Marketo Engageと Salesforce の間で同期するには、Salesforce API へのアクセス権が必要です。
+>Marketo Engageと Salesforce を同期させるには、Salesforce API へのアクセス権が必要です。
 
 Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。Salesforce でこのデータを使用する場合は、以下の手順に従ってください。
 
@@ -35,7 +35,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Adobe Analytics の [!UICONTROL ビルド] 左側のメニューで、 **[!UICONTROL カスタマイズ]** を選択し、 **[!UICONTROL リード]**. 「**[!UICONTROL フィールド]**」をクリックします。
+1. 左側の [!UICONTROL  ビルド ] メニューで **[!UICONTROL カスタマイズ]** をクリックし、**[!UICONTROL リード]** を選択します。 「**[!UICONTROL フィールド]**」をクリックします。
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -43,7 +43,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 適切なフィールドタイプを選択します（スコア — 数値、獲得プログラム — テキスト、獲得日 — 日時）。
+1. 適切なフィールドタイプを選択します（スコア – 数値、獲得プログラム – テキスト、獲得日 – 日時の場合）。
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -51,7 +51,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 次を入力します。 [!UICONTROL フィールドラベル], [!UICONTROL 長さ]、および [!UICONTROL フィールド名] フィールドの場合は、次の表に示すように使用します。
+1. 次の表に示すように、フィールドに [!UICONTROL  フィールドラベル ]、[!UICONTROL  長さ ]、[!UICONTROL  フィールド名 ] を入力します。
 
 <table> 
  <thead> 

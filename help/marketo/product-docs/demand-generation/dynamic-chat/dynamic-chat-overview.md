@@ -4,7 +4,7 @@ title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '595'
 ht-degree: 100%
 

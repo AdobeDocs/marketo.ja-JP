@@ -5,7 +5,7 @@ exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '818'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 

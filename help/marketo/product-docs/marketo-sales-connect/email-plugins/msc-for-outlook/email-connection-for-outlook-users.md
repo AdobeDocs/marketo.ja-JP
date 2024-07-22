@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 100%
 
 ---
@@ -80,7 +80,7 @@ Outlook に接続すると、返信トラッキング、Outlook 配信チャネ�
 
    >[!NOTE]
    >
-   >Outlook オンライン（Office365）では、独自の送信制限が適用されます。[詳細はこちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)を参照してください。
+   >Outlook オンライン（Office365）では、独自の送信制限が適用されます。詳しくは、[こちらを参照](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)してください。
 
 ## Exchange オンプレミスへの接続 {#connecting-to-exchange-on-premise}
 
@@ -129,7 +129,7 @@ Exchange オンプレミスに接続すると、返信トラッキング、Outlo
 
    >[!NOTE]
    >
-   >「Exchange のバージョン」ドロップダウンで「自動検出」をオフにした場合は、Exchange の URL を IT 部門に問い合わせる必要があります。
+   >Exchange バージョンドロップダウンで自動検出をオフにした場合は、Exchange の URL を IT 部門に問い合わせる必要があります。
 
    この接続を使用してメールをトラッキングし、配信チャネルとしてもトラッキングできます。
 

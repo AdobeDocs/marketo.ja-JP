@@ -6,8 +6,8 @@ exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 90%
+source-wordcount: '294'
+ht-degree: 100%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 90%
 >[!AVAILABILITY]
 >
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
->* [カスタム目標の作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
+>* [カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}の作成
 >
 >* [プレゼンテーションの作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
@@ -36,7 +36,7 @@ ht-degree: 90%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションは、チームのゴールを表示するとさらに役立つものになります。ドラッグするだけで別の [カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. 最大 10 個まで使用できます。
+プレゼンテーションは、チームのゴールを表示するとさらに役立つものになります。[カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をそれぞれドラッグするだけです。最大 10 個まで使用できます。
 
 1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
 

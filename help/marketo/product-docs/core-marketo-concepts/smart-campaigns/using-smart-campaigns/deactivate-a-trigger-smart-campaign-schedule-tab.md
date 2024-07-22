@@ -15,7 +15,7 @@ ht-degree: 74%
 
 非アクティブ化する必要がある古いトリガーキャンペーンがある場合は、次の手順に従います。
 
-1. アクティブなトリガーキャンペーン
+1. アクティブなトリガーキャンペーンを検索して選択します。
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 

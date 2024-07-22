@@ -68,7 +68,7 @@ ht-degree: 97%
 * プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 * プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
-* 経由での読み込みと書き出し [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} および [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} サポートされています。 エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
+* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} および [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} を介した読み込みと書き出しがサポートされています。 エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
 * 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 * 「プログラムメンバー情報」フィールドでは、タイプの変更は許可されていません。
 * 「次を含む」スマートリスト制約は、プログラムメンバーのカスタムフィールドではサポートされていません。

@@ -6,8 +6,8 @@ exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 100%
+source-wordcount: '462'
+ht-degree: 98%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo Sales Insight は、マーケティングチームが持つ豊富なデ�
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. ログファイルを任意にダウンロードして、「**閉じる**」をクリックします。
+1. ログファイルを自由にダウンロードしてください。 「**閉じる**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 

@@ -13,9 +13,9 @@ ht-degree: 56%
 
 # 繰り返し予定されているバッチキャンペーンの実行のキャンセル {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-不要な繰り返しバッチキャンペーンがある場合は、今後の実行をキャンセルできます。 手順は以下のとおりです。
+繰り返し発生するバッチキャンペーンでこれ以上必要がない場合は、今後の実行をキャンセルできます。 手順は次のとおりです。
 
-1. スマートキャンペーンを選択し、 **スケジュール** タブをクリックします。
+1. スマートキャンペーンを選択し、「**スケジュール**」タブをクリックします。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 56%
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-   これで完成です。スマートキャンペーンはもう実行されません。
+   これで完成です。スマートキャンペーンは実行されなくなります。
 
    >[!CAUTION]
    >

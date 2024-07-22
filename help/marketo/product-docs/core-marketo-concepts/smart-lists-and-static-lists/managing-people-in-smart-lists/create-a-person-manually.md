@@ -7,17 +7,17 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 85%
+ht-degree: 74%
 
 ---
 
 # リードの手動作成 {#create-a-person-manually}
 
-人をMarketo Engageに導く方法は多い。 手動で作成する必要がある場合は、次の手順に従います。
+人をMarketo Engageに陥れる方法はたくさんある。 手動で作成する必要がある場合は、次の手順に従います。
 
 >[!CAUTION]
 >
->Marketo は、絵文字を含む電子メールアドレスをサポートしていません。
+>Marketoでは、絵文字を含むメールアドレスをサポートしていません。
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 

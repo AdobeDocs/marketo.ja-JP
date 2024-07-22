@@ -6,14 +6,14 @@ exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 95%
 
 ---
 
 # SFDC 同期：取引先責任者の同期 {#sfdc-sync-contact-sync}
 
-Marketo Engageが Salesforce とデータベース全体を同期するのを知っていましたか？ 同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Salesforce の取引先責任者をどのように扱っているかを詳しく説明します。
+Marketo Engageがデータベース全体を Salesforce と同期することを知っていましたか？ 同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Salesforce の取引先責任者をどのように扱っているかを詳しく説明します。
 
 ## 同期の方向 {#sync-direction}
 

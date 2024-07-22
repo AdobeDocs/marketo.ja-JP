@@ -12,7 +12,7 @@ ht-degree: 67%
 
 # 新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト {#new-instance-best-practices-admin-section-checklist}
 
-新しい管理者が新しいMarketo Engageインスタンスに移動する際には、以下のチェックリストを適用すると、実装プロセスを導くことができます。 これらのガイドと同様に、次の操作を行うこともできます [チェックリストをダウンロード](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 進行状況を追跡します。
+新しい管理者が新しいMarketo Engageインスタンスに移動する際には、以下のチェックリストを適用すると、実装プロセスを導くことができます。 これらのすべてのガイドと同様に、[ チェックリストをダウンロード ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) したり、進行状況を追跡したりすることもできます。
 
 ## ロール {#roles}
 
@@ -28,7 +28,7 @@ ht-degree: 67%
     <td>ロール</td>
     <td><li>事前に作成されたロールを確認し、各ロールに割り当てられている権限／アクセス権を確認します。</li>
     <li>組織のニーズに基づいて、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#create-a-new-role" target="_blank">新しいロールを作成</a>または<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#edit-a-role" target="_blank">ロールを編集</a>します。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。ユーザーは、「ロール」でロールを付与する前に、Adobe Admin Consoleの購読に追加される必要があります。 のユーザーの節を参照してください。 <a href="/help/marketo/getting-started/initial-setup/user-setup.md">初期設定チェックリスト</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。ユーザーは、「ロール」でロールを付与する前に、Adobe Admin Consoleの購読に追加される必要があります。 <a href="/help/marketo/getting-started/initial-setup/user-setup.md"> 初期設定チェックリスト </a> のユーザーの節を参照してください。</li>
     <li>ユーザにロールを割り当てた後、ロールごとのユーザ数を確認します。</li>
     <li>トラブルシューティングを簡単に行うために、各 API ユーザに一意のロールを実装します。</li></td>
   </tr>
@@ -87,7 +87,7 @@ ht-degree: 67%
 <tbody>
   <tr>
     <td>通信制限</td>
-    <td><li>実装方法 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html?lang=ja" target="_blank">通信の制限</a>.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html?lang=ja" target="_blank"> 通信制限 </a> を実装します。</li>
     <li>ビジネスに通信制限に関するポリシーが必要かどうかを判断します。</li></td>
   </tr>
 </tbody>
@@ -112,7 +112,7 @@ ht-degree: 67%
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html?lang=ja" target="_blank">タグ</a>の使用方法を定義します。</li></td>
   </tr>
   <tr>
-    <td>カレンダー<br> 
+    <td>カレンダー <br> 
     （該当する場合）</td>
     <td><li>アクセスを必要とするユーザに対して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html?lang=ja" target="_blank">マーケティングカレンダーシートを発行</a>します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html?lang=ja" target="_blank">カレンダー</a>を設定します。</li></td>
@@ -143,7 +143,7 @@ ht-degree: 67%
   <tr>
     <td>カスタムオブジェクト</td>
     <td><li>必要な<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html?lang=ja" target="_blank">カスタムオブジェクト</a>の数を確認します。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html?lang=ja" target="_blank">これらのカスタムオブジェクトを同期</a> を CRM に追加します。</li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html?lang=ja" target="_blank"> これらのカスタムオブジェクトを CRM に同期 </a> します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -174,23 +174,23 @@ ht-degree: 67%
   </tr>
   <tr>
     <td>インタラクティブウェビナー（該当する場合）</td>
-    <td><li>インタラクティブウェビナーを作成するために、Marketo Engageのビルトインウェビナー機能 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">「ユーザー」セクションにユーザーを追加</a> 「インタラクティブウェビナー」タブで、次の操作を行います。</li>
+    <td><li>インタラクティブウェビナーを作成するには、Marketo Engageのビルトインウェビナー機能である <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank"> 「インタラクティブウェビナー」タブの「ユーザー」セクションにユーザーを追加 </a> します。</li>
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：インタラクティブウェビナーは、実稼動インスタンスにのみプロビジョニングされます。</td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat（該当する場合）</td>
-    <td><li>ユーザー割り当て先 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">「Dynamic Chatにアクセス」の役割</a> Marketo Engage/管理者/ユーザーと役割に移動します。</li></td>
+    <td><li>Marketo Engage/管理者/Dynamic Chatとロールで、ユーザーを <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank"> アクセスのロール </a> に割り当てます。</li></td>
   </tr>
   <tr>
     <td>Sales Insight（該当する場合）</td>
     <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">Sales Insight アクションの設定</a>は、Sales Insight／アクション設定で行います。</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions" target="_blank">問題席</a> を適切なユーザーに送信します。</li>
+    <li>適切なユーザーに <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html?lang=ja#invite-individual-users-to-msi-actions" target="_blank"> 問題の席 </a> を割り当てます。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html?lang=ja" target="_blank">API を設定</a>します。</li>
-    <li>のカスタマイズ <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja" target="_blank">リードスコア</a>.</li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html?lang=ja" target="_blank"> リードスコア </a> をカスタマイズします。</li></td>
   </tr>
   <tr>
     <td>Sales Connect（該当する場合）</td>
-    <td><li>に適切なMarketo Engage管理者を招待します <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">Sales Connect インスタンス</a>.</li>
+    <td><li>適切なMarketo Engage管理者を <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">Sales Connect インスタンス </a> に招待します。</li>
     <li>Sales Connect と Salesforce で<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">追加の Sales Connect 管理者設定</a>を完了します。</li></td>
   </tr>
   <tr>
@@ -218,7 +218,7 @@ ht-degree: 67%
   </tr>
   <tr>
     <td>キャンペーンインスペクター </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html?lang=ja" target="_blank">キャンペーン検査を有効にする</a> を参照して、すべてのスマートキャンペーンを 1 か所で表示します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html?lang=ja" target="_blank"> キャンペーンインスペクターをオン </a> にすると、すべてのスマートキャンペーンが 1 か所で表示されます。</li></td>
   </tr>
 </tbody>
 </table>

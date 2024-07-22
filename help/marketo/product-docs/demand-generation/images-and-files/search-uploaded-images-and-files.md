@@ -19,17 +19,17 @@ ht-degree: 42%
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. クリック **[!UICONTROL 画像とファイル]** を参照してください。
+1. アップロードされたすべてのファイルの完全なリストを表示するには、「**[!UICONTROL 画像とファイル]**」をクリックします。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. 「検索」ボックスに、ファイルの先頭にある単語を入力し、「 」をクリックします **入力**.
+1. 検索ボックスに、ファイルの先頭に使用する単語を入力し、**Enter** キーを押します。
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
 >[!NOTE]
 >
->画像とファイルの検索では、現時点では「次で始まる」機能のみを利用します。
+>画像とファイルの検索では、現時点では、「次の語句で始まる」機能のみが利用されます。
 
 >[!MORELIKETHIS]
 >

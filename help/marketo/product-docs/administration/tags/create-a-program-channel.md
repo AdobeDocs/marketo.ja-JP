@@ -5,7 +5,7 @@ title: プログラムチャネルの作成
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 100%
 

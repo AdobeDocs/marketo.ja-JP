@@ -6,14 +6,14 @@ exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 81%
+source-wordcount: '481'
+ht-degree: 88%
 
 ---
 
 # 手順 3／3：Marketo と Salesforce の接続（Enterprise／Unlimited） {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
-この記事では、設定済みの Salesforce インスタンスとMarketo Engageを同期するように設定します。
+この記事では、設定済みの Salesforce インスタンスとMarketo Engageするように同期を設定します。
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ ht-degree: 81%
 >
 >既にセキュリティトークンを持っている場合は、直接「同期ユーザー資格情報の設定」に進んで、準備を完了させます。
 
-1. Marketo同期ユーザで Salesforce にログインし、同期ユーザの名前をクリックしてから、 **[!UICONTROL マイ設定]**.
+1. Marketo Sync User を使用して Salesforce にログインし、同期ユーザーの名前をクリックして、**[!UICONTROL My Settings]** をクリックします。
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
-1. クイック検索で&quot;reset&quot;と入力し、 **[!UICONTROL セキュリティトークンをリセット]**.
+1. 簡易検索で「リセット」と入力し、「セキュリティトークンをリセット **[!UICONTROL をクリックし]** す。
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
@@ -50,7 +50,7 @@ ht-degree: 81%
    >
    >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
-1. Salesforce 構成のパート 2 で作成した Salesforce 同期ユーザーの資格情報を入力します ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"} or [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}) をクリックし、 **[!UICONTROL フィールドを同期]** ( チェック **[!UICONTROL サンドボックス]** Marketo Sandbox を Salesforce Sandbox に同期する場合のみ )。
+1. Salesforce 設定のパート 2 で作成した Salesforce 同期ユーザーの資格情報（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"} または [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}）を入力して、「**[!UICONTROL 同期フィールド]**」をクリックします（Marketo Sandbox を Salesforce Sandbox Sandbox に同期している場合のみ、**[!UICONTROL Sandbox]** をオンにします）。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 

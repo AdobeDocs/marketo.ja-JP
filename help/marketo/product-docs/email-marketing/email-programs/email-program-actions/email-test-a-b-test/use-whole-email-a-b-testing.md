@@ -6,7 +6,7 @@ exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '272'
 ht-degree: 100%
 
 ---

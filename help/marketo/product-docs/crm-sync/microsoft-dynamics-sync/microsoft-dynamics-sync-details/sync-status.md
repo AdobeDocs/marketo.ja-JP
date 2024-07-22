@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 89%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 ## 「同期ステータス」タブ {#sync-status-tab}
 
-1. クリック **[!UICONTROL 管理者]**&#x200B;を、 **[!UICONTROL Microsoft Dynamics]**.
+1. **[!UICONTROL 管理者]** をクリックし、**[!UICONTROL Microsoft Dynamics]** をクリックします。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -35,7 +35,7 @@ ht-degree: 89%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 次をクリック： **[!UICONTROL 表示]** ドロップダウンして「 」を選択します。 **[!UICONTROL 過去 1 時間]** スループット情報を表示します。
+1. **[!UICONTROL 表示]** ドロップダウンをクリックし、「**[!UICONTROL 最終時間]**」を選択してスループット情報を表示します。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

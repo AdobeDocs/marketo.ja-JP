@@ -57,7 +57,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. 編集を行い、「**[!UICONTROL 保存]**」をクリックします。
+1. 編集をおこないます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 

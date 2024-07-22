@@ -13,7 +13,7 @@ ht-degree: 91%
 
 # マイトークンの管理 {#managing-my-tokens}
 
-トークンを使用すると、Marketo での作業がシンプルになります。以下を使用できます。 [マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （カスタムトークン）を使用して、フローステップ、Web フック、E メール、ランディングページにアクセスできます。 マイトークンの作成方法は、以下のとおりです。
+トークンを使用すると、Marketo での作業がシンプルになります。フローステップ、Web フック、メール、ランディングページで [ マイトークン ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} （カスタムトークン）を使用できます。 マイトークンの作成方法は、以下のとおりです。
 
 >[!TIP]
 >

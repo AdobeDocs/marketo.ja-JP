@@ -5,7 +5,7 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '527'
 ht-degree: 89%
 
 ---
@@ -34,7 +34,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. クリック **[!UICONTROL オブジェクトとフィールド]** を選択し、 **[!UICONTROL Object Manager]**.
+1. **[!UICONTROL オブジェクトとフィールド]** をクリックし、「**[!UICONTROL オブジェクトマネージャ]**」を選択します。
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,15 +42,15 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 次をクリック： **[!UICONTROL 連絡先]** オブジェクト。
+1. **[!UICONTROL 連絡先]** オブジェクトをクリックします。
 
-1. 選択 **[!UICONTROL フィールドと関係]**.
+1. **[!UICONTROL フィールドと関係]** を選択します。
 
 1. 「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. 適切なフィールドタイプを選択します（スコア — 数値）。
+1. 適切なフィールドタイプ（スコア – 数値の場合）を選択します。
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
@@ -58,7 +58,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 次を入力します。 **[!UICONTROL フィールドラベル]**, **[!UICONTROL 長さ]**、および **[!UICONTROL フィールド名]** フィールドの場合は、次の表に示すように使用します。
+1. 次の表に示すように、フィールドに **[!UICONTROL フィールドラベル]**、**[!UICONTROL 長さ]**、**[!UICONTROL フィールド名]** を入力します。
 
 <table>
  <tbody>
@@ -106,7 +106,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 1. 「**[!UICONTROL 保存して新規作成]**」をクリックして戻り、他の 2 つのカスタムフィールドのそれぞれを作成します。
 
-1. クリック **[!UICONTROL 保存]** 3 つ全てが終わったら
+1. 3 つすべてが完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

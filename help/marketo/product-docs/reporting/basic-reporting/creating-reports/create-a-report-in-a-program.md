@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 100%
 
 ---

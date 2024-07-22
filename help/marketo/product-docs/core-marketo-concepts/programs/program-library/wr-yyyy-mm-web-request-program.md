@@ -1,20 +1,20 @@
 ---
-description: WR-YYYY-MM-Web リクエストプログラム — Marketoドキュメント — 製品ドキュメント
-title: WR-YYYY-MM-Web リクエストプログラム
+description: WR-YYYY-MM-Web リクエストプログラム - Marketo ドキュメント – 製品ドキュメント
+title: WR-YYYY-MM-web リクエストプログラム
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 16%
 
 ---
 
-# WR-YYYY-MM-Web リクエストプログラム {#wr-yyyy-mm-web-request-program}
+# WR-YYYY-MM-web リクエストプログラム {#wr-yyyy-mm-web-request-program}
 
-これは、Marketo Engageのデフォルトプログラムを利用した連絡先リクエスト、見積依頼、デモ依頼、または試用依頼フォームに最適なサンプルプログラムです。 Marketoランディングページで、またはMarketo以外のランディングページの埋め込みフォームとして使用できます。 フォームの送信時に、指定した個人にアラート電子メールが送信されます。
+これは、Marketo Engageのデフォルトプログラムを使用した、連絡先リクエスト、見積もりリクエスト、デモリクエスト、体験版リクエストフォームに最適なプログラムの例です。 Marketoのランディングページで使用することも、Marketo以外のランディングページに埋め込まれたフォームとして使用することもできます。 フォームの送信時に、指定した個人にアラートメールが送信されます。
 
-戦略に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームにお問い合わせいただくか、 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページに貼り付けます。
+詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,20 +22,20 @@ ht-degree: 16%
  <tbody> 
   <tr> 
    <th>チャネル</th> 
-   <th>メンバーシップステータス</th>
+   <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr> 
   <tr> 
    <td>ウェブリクエスト</td> 
-   <td>01 — エンゲージ済み — 成功</td>
+   <td>01 - エンゲージメント – 成功</td>
    <td>包含</td>
    <td>デフォルト</td>
   </tr>
  </tbody> 
 </table>
 
-## プログラムに次のアセットが含まれています {#program-contains-the-following-assets}
+## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -57,38 +57,38 @@ ht-degree: 16%
   <tr> 
    <td>ランディングページ</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
-   <td>01 - LP — 要求</td>
+   <td>01 - LP - リクエスト</td>
   </tr>
   <tr> 
    <td>ランディングページ</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
-   <td>02 - LP - ThankYou</td>
+   <td>02 - LP – ありがとうございました</td>
   </tr>
   <tr> 
-   <td>ローカルレポート</td> 
+   <td>ローカル報告書</td> 
    <td> </td>
    <td>ランディングページの効果</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>Web リクエストからの新規担当者</td>
+   <td>Web リクエストからの新しいユーザー</td>
   </tr>
    <tr> 
    <td>スマートキャンペーン</td> 
    <td> </td>
-   <td>ウェビナーからの新規担当者</td>
+   <td>ウェビナーの新しいユーザー</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>アセット — すべてのクリエイティブアセットを格納します。 
-<br/>（アラートおよびランディングページ用のサブフォルダー）</td>
+   <td>Assets – すべてのクリエイティブアセットが格納されています 
+<br/> （アラートとランディングページのサブフォルダー）</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
    <td> </td>
-   <td>キャンペーン — すべてのスマートキャンペーンを格納</td>
+   <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
   <tr> 
    <td>フォルダー</td> 
@@ -132,7 +132,7 @@ ht-degree: 16%
   <tr> 
    <td>テキスト</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.ThankYouPageURL?http://</td>
+   <td>My.ThankYouPageURL?http://なし</td>
   </tr>
  </tbody> 
 </table>
@@ -140,34 +140,34 @@ ht-degree: 16%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * この配信登録にタグを作成 — _推奨_
-   * 無視する
+   * このサブスクリプションにタグを作成 – _推奨_
+   * 無視
 
 * **同じ名前のランディングページテンプレート**
    * 元のテンプレートのコピー
-   * インポート先のテンプレートの使用 - _推奨_
+   * 宛先テンプレートの使用 – _推奨_
 
 * **同じ名前の画像**
    * どちらのファイルも保持する
-   * この配信登録内アイテムの置換 - _推奨_
+   * このサブスクリプションの項目を置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
-   * 既存のテンプレートを置換 — _推奨_
+   * 既存のテンプレートを置換 – _推奨_
 
 ## ベストプラクティス {#best-practices}
 
-* ウェビナープログラムを読み込んだ後、フォームをローカルアセットから Design Studio 内のグローバルアセットに移動します。
-   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムのデザインと管理ガバナンスにおけるスケーラビリティを高めることができます。 また、フィールド、オプトイン言語などの定期的なコンプライアンス更新を柔軟におこなうこともできます。
+* ウェビナープログラムを読み込んだ後、フォームをローカルアセットから Design Studio にあるグローバルアセットに移動します。
+   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムの設計と管理ガバナンスの拡張性が向上します。 また、フィールド、オプトイン言語など、定期的にコンプライアンスを更新する柔軟性も備えています。
 
-* 現在ブランド化されているテンプレートを利用するには、読み込んだプログラムでテンプレートを更新することを検討するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートをブランドに合わせて更新します。
+* 読み込んだプログラムでテンプレートを更新して現在のブランドのテンプレートを利用するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートを更新し、ブランドを反映させることを検討してください。
 
-* 命名規則に合わせて、このプログラム例の命名規則を更新することを検討してください。
+* 命名規則に合わせるために、このプログラムの例の命名規則を更新することを検討してください。
 
 >[!NOTE]
 >
->必要に応じて、プログラムテンプレートのマイトークンの値を更新し、プログラムを使用するたびに値を更新してください。
+>必要に応じて、プログラムテンプレートとプログラムを使用するたびにマイトークン値を必ず更新してください。
 
 >[!IMPORTANT]
 >
->URL を参照する My Tokens にhttp://やhttps://を含めることはできません。含めないと、リンクがアセット内で適切に機能しません。
+>URL を参照するマイトークンにhttp://またはhttps://を含めることはできません。含めない場合、リンクがアセット内で適切に機能しません。

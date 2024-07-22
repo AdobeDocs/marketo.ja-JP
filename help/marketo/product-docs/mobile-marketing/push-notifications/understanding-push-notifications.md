@@ -6,7 +6,7 @@ exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---

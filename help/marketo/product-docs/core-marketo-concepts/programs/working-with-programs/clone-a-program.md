@@ -6,7 +6,7 @@ exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 91%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 プログラム全体とそのアセットすべてを手軽に素早く複製します。一から構築しなおす必要はありません。
 
-1. 複製するプログラムを見つけて選択します。 Adobe Analytics の **[!UICONTROL プログラムアクション]** ドロップダウンで、 **[!UICONTROL 複製]**.
+1. 複製するプログラムを探して選択します。 **[!UICONTROL プログラムアクション]** ドロップダウンで、「**[!UICONTROL クローン]**」をクリックします。
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    >
    >上のスクリーンショットの「メモ」を参照してください。つまり、リスト内の 1000 人以上のユーザーを含むプログラムを複製すると、リスト自体は複製されますが、空になります。999 人以下のリストを含むプログラムを複製すると、そのリストはそのメンバーと共に複製されたプログラムに表示されます。
 
-1. を入力します。 [!UICONTROL 名前].
+1. [!UICONTROL  名前 ] を入力します。
 
    ![](assets/cloneprogramname.png)
 

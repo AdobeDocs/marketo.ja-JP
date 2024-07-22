@@ -6,14 +6,14 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 89%
+source-wordcount: '411'
+ht-degree: 88%
 
 ---
 
 # 重複した人物の検索と結合 {#find-and-merge-duplicate-people}
 
-Marketo Engageは、新規担当者がシステムに入ると、自動的に重複を排除します。 ただし、CRM が最初に重複を受け取った可能性があります。 結合する方法は以下のとおりです。
+新しいユーザーがシステムに入ると、Marketo Engageによって自動的に重複が排除されます。 ただし、CRM が最初に重複を送信した可能性があります。 結合する方法は以下のとおりです。
 
 >[!CAUTION]
 >
@@ -21,7 +21,7 @@ Marketo Engageは、新規担当者がシステムに入ると、自動的に重
 
 >[!PREREQUISITES]
 >
->重複の検索とマージには、 [組み込み/システムスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>重複の検索と結合には、[ 組み込み/システムのスマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用する必要があります。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Marketo Engageは、新規担当者がシステムに入ると、自動的に重
    >
    >Salesforce の人物アカウントを使用している場合は、Marketo の人物の結合が機能しない場合があります。可能な場合は、Salesforce でレコードを結合してください。
 
-1. を選択します。 **[!UICONTROL 重複の可能性]** システムスマートリストを開き、 **[!UICONTROL People]** タブをクリックします。
+1. **[!UICONTROL 重複の可能性]** システムスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブをクリックします。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -80,7 +80,7 @@ Salesforce と統合している場合、Salesforce のリードの結合の効�
 
 リードまたは連絡先を結合する際の Salesforce の動作について詳しくは、以下の Salesforce ドキュメントを確認してください。
 
-* [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [ 重複リードの結合 ](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
 * [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 一括マージ {#bulk-merging}

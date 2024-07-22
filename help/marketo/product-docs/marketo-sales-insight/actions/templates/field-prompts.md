@@ -1,9 +1,9 @@
 ---
 description: フィールドプロンプト - Marketo ドキュメント - 製品ドキュメント
 title: フィールドプロンプト
-exl-id: ea4429e8-7410-4a8c-a88e-ad3002b50de5
-source-git-commit: 2f9dbc0f336971be87d50baab27b8fd0221af1be
-workflow-type: ht
+exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
 

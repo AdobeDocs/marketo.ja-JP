@@ -6,7 +6,7 @@ exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/two-6.png)
 
-   ユーザーを招待する方法は 2 つあります。CRM または E メールで。 この例では、CRM で招待を使用します。
+   ユーザーを招待する方法は 2 つあります。CRM またはメールで。 この例では、CRM で招待を使用します。
 
    >[!NOTE]
    >

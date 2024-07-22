@@ -5,7 +5,7 @@ title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

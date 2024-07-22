@@ -6,7 +6,7 @@ exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '739'
 ht-degree: 100%
 
 ---

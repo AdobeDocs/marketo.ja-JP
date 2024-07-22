@@ -5,9 +5,9 @@ title: "次世代  [!DNL Munchkin]  トラッキングに関する FAQ"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
-workflow-type: ht
-source-wordcount: '692'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '698'
+ht-degree: 99%
 
 ---
 
@@ -90,4 +90,4 @@ ht-degree: 100%
 
 ## まだ質問があります。どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。喜んで質問に回答いたします。
+[コミュニティ](https://nation.marketo.com/){target="_blank"}にお問い合わせください。また、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせいただくこともできます。 喜んで質問に回答いたします。

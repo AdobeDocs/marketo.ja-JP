@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 76%
+ht-degree: 72%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 76%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. リストまたは担当者が含まれるスマートリストを選択し、 **[!UICONTROL People]** タブをクリックします。
+1. ユーザーが含まれているリストまたはスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブに移動します。
 
    ![](assets/smartlistpeopletab-hands.png)
 
    >[!TIP]
    >
-   >この機能は、静的リストとスマートリストの両方にあります。
+   >静的リストとスマート・リストの両方にこの機能があります。
 
 1. 「**[!UICONTROL すべてを選択]**」をクリックします。または、**Ctrl／Cmd** をクリックして、いくつかのレコードを手動で選択することもできます。
 
@@ -39,7 +39,7 @@ ht-degree: 76%
    >
    >結果が複数のページにまたがる場合は、「**[!UICONTROL すべてを選択]**」をクリックすると、すべてのページのすべての人物が選択されます。
 
-1. 「**[!UICONTROL 人物」の「アクション]**」で選択したフローステップを選択します。この例では、「[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}」を使用します。
+1. **[!UICONTROL 人物アクション]** で、目的のフローステップを選択します。 この例では、「[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}」を使用します。
 
    ![](assets/personactions-hands.png)
 

@@ -6,14 +6,14 @@ exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '407'
 ht-degree: 87%
 
 ---
 
 # SFDC 同期：フィールドの同期 {#sfdc-sync-field-sync}
 
-Marketo Engageは、Salesforce のフィールド情報を同期します。 以下に詳細を示します。
+Marketo Engageは、Salesforce からフィールド情報を同期します。 以下に詳細を示します。
 
 ## 同期されるフィールド {#which-fields-are-synced}
 
@@ -57,8 +57,8 @@ SFDC のルックアップフィールドでは、ID は同期されますが、
 
 ## SFDC 数式フィールドの動作 {#what-about-sfdc-formula-fields}
 
-数式フィールドは同期されますが、数式の参照の更新は、 [システムモードスタンプ](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=ja_JP){target="_blank"}.
+数式フィールドは同期されますが、数式内の参照に対する更新は、[ システム修正スタンプ ](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=ja_JP){target="_blank"} に対する更新が行われるまで同期されません。
 
 ## 以前に Marketo と同期していたフィールドを Salesforce  から削除する場合の動作 {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-SFDC でフィールドを削除しても、Marketoのフィールドは自動的に削除されず、同期が停止します。
+SFDC のフィールドを削除しても、Marketoのフィールドは自動的には削除されず、同期が停止されます。

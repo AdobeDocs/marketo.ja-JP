@@ -6,14 +6,14 @@ exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 86%
 
 ---
 
 # 後で実行するようにバッチスマートキャンペーンをスケジュール {#schedule-a-batch-smart-campaign-to-run-later}
 
-バッチキャンペーンを将来の任意の時点で実行するように設定するには、次の手順に従います。
+バッチキャンペーンを今後のある時点で実行するように設定する場合は、次の方法で設定できます。
 
 >[!TIP]
 >

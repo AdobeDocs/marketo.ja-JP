@@ -5,8 +5,8 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 100%
+source-wordcount: '486'
+ht-degree: 97%
 
 ---
 
@@ -74,5 +74,5 @@ Veeva CRM は実際には個人取引先オブジェクトのみを扱い、ビ�
 
 >[!MORELIKETHIS]
 >
->* [デフォルトの Veeva フィールドマッピング](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
->* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [ デフォルトの Veeva フィールドマッピング ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [ コールとコールのキーメッセージの同期 ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

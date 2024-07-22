@@ -5,7 +5,7 @@ title: 既存のメールを選択する
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
 source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
 

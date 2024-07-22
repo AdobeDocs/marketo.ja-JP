@@ -6,7 +6,7 @@ exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '768'
 ht-degree: 93%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!PREREQUISITES]
 >
->Salesforce インスタンスが Salesforce と Salesforce の間でデータを同期するには、Salesforce API へのアクセス権が必要です。Marketo Engageと Salesforce の間でデータを同期するには、Salesforce API へのアクセス権が必要です。
+>Marketo Engageと Salesforce 間でデータを同期させるには、Salesforce インスタンスが Salesforce API にアクセスできる必要があります。
 
 Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。Salesforce でこのデータを使用する場合は、以下の手順に従ってください。
 
@@ -31,7 +31,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 3 つのカスタムフィールドのそれぞれに対して、次の手順を実行して追加します。「**[!UICONTROL スコア]**」から始めます。
 
-1. Salesforce にログインし、「 **[!UICONTROL 設定]**.
+1. Salesforce にログインし、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -43,7 +43,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 適切なフィールドタイプを選択します ( スコア — **[!UICONTROL 数値]**；獲得プログラム — **[!UICONTROL テキスト]**；取得日 — **日時**) をクリックします。
+1. 適切なフィールドタイプを選択します（スコア - **[!UICONTROL 数値]**、獲得プログラム - **[!UICONTROL テキスト]**、獲得日 – **日付/時刻**）。
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -235,7 +235,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. 「 」を入力します。[!UICONTROL フィールド]」が表示されるのに対し、Enter キーを押さずにナビゲーション検索が実行される。 フィールドは色々なオブジェクトの下に表示されます。リードの下の「**[!UICONTROL フィールド]**」をクリックします。
+1. Enter キーを押さずにナビゲーション検索に「[!UICONTROL fields]」と入力します。 フィールドは色々なオブジェクトの下に表示されます。リードの下の「**[!UICONTROL フィールド]**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 

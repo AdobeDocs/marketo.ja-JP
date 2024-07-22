@@ -5,7 +5,7 @@ exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '759'
 ht-degree: 92%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳細は Marketo Engage 担当営業にお問い合わせください。
+>星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -24,9 +24,9 @@ ht-degree: 92%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **動的チャット**：リードとアカウントの両方をターゲットして、積極的に、魅力的で 1 対 1 のパーソナライズされた会話によって、web サイト上のあらゆる機会を最大化します。[Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engageユーザーは、B2B マーケティングおよびセールスの使用例に対して、統合されたクロスチャネルエクスペリエンスの主要な部分としてチャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **動的チャット**：リードとアカウントの両方をターゲットして、積極的に、魅力的で 1 対 1 のパーソナライズされた会話によって、web サイト上のあらゆる機会を最大化します。[Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engageユーザーは、B2B マーケティングおよびセールスのユースケース向けに、統合されたクロスチャネルエクスペリエンスの重要な部分としてチャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
-* **メールボットアクティビティフィルタリングの機能強化**:以前にリリースしたの機能強化として [メールボットアクティビティフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 機能のオプトイン時に、ボットとして識別されるログアクティビティをオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
+* **メールボットアクティビティフィルタリングの機能強化**：以前リリースした [ メールボットアクティビティフィルタリング ](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 機能の機能強化として、ボットとして識別されたアクティビティのログ記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
 ## 次世代エクスペリエンス {#modern-ux}
 

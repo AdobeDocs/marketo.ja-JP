@@ -12,7 +12,7 @@ ht-degree: 82%
 
 # ダイアログの作成 {#create-a-dialogue}
 
-新しいダイアログを作成する方法を次に示します。
+新しいダイアログを作成する方法を以下に示します。
 
 1. 「**[!UICONTROL ダイアログ]**」をクリックします。
 
@@ -30,7 +30,7 @@ ht-degree: 82%
 >
 >優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
 
-次に、 [ストリームの作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+次に、[ ストリームの作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} 方法を説明します。
 
 >[!MORELIKETHIS]
 >

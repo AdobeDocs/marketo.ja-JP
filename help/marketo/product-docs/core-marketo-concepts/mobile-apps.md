@@ -4,7 +4,7 @@ description: モバイルアプリ - Marketo ドキュメント - 製品ドキ�
 title: モバイルアプリ
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '38'
 ht-degree: 100%
 
 ---

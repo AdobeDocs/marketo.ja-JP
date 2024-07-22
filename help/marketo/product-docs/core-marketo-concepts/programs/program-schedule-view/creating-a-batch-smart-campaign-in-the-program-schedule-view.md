@@ -13,17 +13,17 @@ ht-degree: 32%
 
 # プログラムスケジュールビューでのバッチスマートキャンペーンの作成 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-新しいスマートキャンペーンを作成し、 [既存の再実行](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} プログラムスケジュールビューからプログラム内に配置します。
+プログラムスケジュール表示で、新しいスマートキャンペーンを作成したり、プログラム内で [ 既存のスマートキャンペーンを再実行 ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} したりできます。
 
 >[!NOTE]
 >
->このビューで作成できるのはバッチキャンペーンのみです。 トリガーキャンペーンはサポートされていません。
+>このビューで作成できるのは、バッチキャンペーンのみです。 トリガーキャンペーンはサポートされていません。
 
 1. 新しいスマートキャンペーンを実行する日付を選択します。
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 新しいスマートキャンペーンになるエントリの名前を選択してください。 **[!UICONTROL Enter／Return]** キーを押して名前を確定します。
+1. 新しいスマートキャンペーンになるエントリの名前を選択します。 **[!UICONTROL Enter／Return]** キーを押して名前を確定します。
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
@@ -37,12 +37,12 @@ ht-degree: 32%
 
    ![](assets/four.png)
 
-1. 選択： [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} ルール。
+1. [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} ルールを選択します。
 
    ![](assets/changeprogramstatus-hands.png)
 
-1. これで、このスマートキャンペーンがスケジュールビューおよびエントリの詳細で確認されたとおりに表示されます。
+1. これで、スケジュール表示とエントリ詳細で、この Smart Campaign が確認されたことを確認できます。
 
    ![](assets/image2014-9-23-15-3a29-3a57.png)
 
-これにより、プログラムで新しいスマートキャンペーンが作成されます。
+これにより、プログラムに新しいスマートキャンペーンの実行が作成されます。

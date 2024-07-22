@@ -4,9 +4,9 @@ title: Marketo サブスクリプションと Adobe Admin Console へのユー�
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
 source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
-workflow-type: ht
-source-wordcount: '1370'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1379'
+ht-degree: 98%
 
 ---
 
@@ -104,7 +104,7 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 ユーザが移行されると、Marketo へのログイン方法の変更を通知するメールがアドビからユーザに届きます。ユーザは Adobe ID を使用した初回ログインの招待を受け入れるよう求められます。既存の Adobe ID でログインするか、同じメールアドレスを使用して新しい Adobe ID を設定して行います。
 
-詳しくは、[Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
+詳しくは、[Adobe ID への移行 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[ ユーザーによるAdobeログイン ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}、[AdobeIdentity Managementに関する FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} を参照してください。
 
 ## ユーザ移行の完了 {#user-migration-complete}
 

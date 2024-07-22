@@ -17,13 +17,13 @@ ht-degree: 84%
 >
 >**管理者権限が必要**
 
-通常、Salesforce の新しいカスタムフィールドは自動的にMarketo Engageに同期します。 そうでない場合、Marketo 同期ユーザーにはフィールドが表示されない場合があります。この問題の修正方法を次に示します。
+通常、Salesforce の新しいカスタムフィールドは、自動的にMarketo Engageに同期されます。 そうでない場合、Marketo 同期ユーザーにはフィールドが表示されない場合があります。この問題の修正方法を次に示します。
 
 1. 名前をクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 左の検索バーに「profile」と入力し、 **[!UICONTROL プロファイル]** under **[!UICONTROL ユーザーを管理]**.
+1. 左側の検索バーに「プロファイル」と入力し、「ユーザーを管理 **[!UICONTROL の下の**[!UICONTROL  プロファイル ]**をクリック]** ます。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 

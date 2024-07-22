@@ -6,8 +6,8 @@ exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 63%
+source-wordcount: '115'
+ht-degree: 60%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 63%
 
 >[!IMPORTANT]
 >
->このページのプラグインは、Marketoのネイティブ CRM 同期ソリューションを使用して Dynamics 365 にMarketo Engageと同期する場合に使用します。 以下を持つユーザー向け：カスタム同期 (MS Dynamics 365 Online（9.x 以降）で、Marketo Sales Insight ( [パッケージはここにあります](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>このページのプラグインは、Marketoのネイティブ CRM 同期ソリューションを使用してMarketo Engageを Dynamics 365 に同期するユーザー向けです。 カスタム同期、MS Dynamics 365 Online （9.x 以降）、Marketo Sales Insight を購入しているユーザー向けの [ パッケージはこちら ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 1. 「**管理者**」領域に移動します。
 

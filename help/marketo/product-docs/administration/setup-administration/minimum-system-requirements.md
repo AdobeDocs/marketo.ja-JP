@@ -5,7 +5,7 @@ title: 必要なシステム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
 source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 

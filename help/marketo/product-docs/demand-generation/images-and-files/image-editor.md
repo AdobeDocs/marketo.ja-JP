@@ -1,9 +1,9 @@
 ---
 description: 画像エディター - Marketo ドキュメント - 製品ドキュメント
 title: 画像エディター
-exl-id: ae15dde8-ddaf-4672-b1db-57d5c30f58d9
-source-git-commit: 2f9dbc0f336971be87d50baab27b8fd0221af1be
-workflow-type: ht
+exl-id: fef96635-3011-4549-9c40-e92c3f33c398
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 

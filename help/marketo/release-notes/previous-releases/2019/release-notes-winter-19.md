@@ -103,9 +103,9 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 **Android 向けのソフトウェア開発キット（SDK）を更新しました**
 
-Android 用の SDK を、より柔軟性が高く新しいエンジニアリング機能を備えた、より現代的で安定したスケーラブルなフレームワークに更新しました。 Android アプリの開発者は、Googleを直接使用できるようになりました [Firebase Cloud Messages](https://firebase.google.com/docs/cloud-messaging/) （FCM）と、この新しい SDK。
+Android用の SDK を、より柔軟で新しいエンジニアリング機能を含む、より現代的で安定したスケーラブルなフレームワークに更新しました。 Android アプリ開発者は、この新しい SDK で、Google[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) （FCM）を直接使用できるようになりました。
 
-* [開発者向け手順]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
+* [ 開発者向け手順 ]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
 
 >[!NOTE]
 >

@@ -5,7 +5,7 @@ exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 93%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 93%
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. クリック **[!DNL Microsoft Dynamics]**&#x200B;を、 **[!UICONTROL 同期の無効化]**.
+1. 「**[!DNL Microsoft Dynamics]**」をクリックし、「**[!UICONTROL 同期の無効化]** をクリックします。
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
@@ -48,7 +48,7 @@ ht-degree: 93%
    >[!NOTE]
    >
    >* 具体的なフィールドは選択した認証方法によって異なり、以前の認証方法に応じてフォームが自動的に更新されます。
-   >* 以前と同期したことがある場合、上記のフォームのデータは事前に入力されている可能性があります。 すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
+   >* 以前に同期したことがある場合、上記のフォームのデータは事前入力されている可能性があります。 すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
 
 1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。メッセージを確認し、「**[!UICONTROL 切替]**」をクリックして認証方法を更新します。
 

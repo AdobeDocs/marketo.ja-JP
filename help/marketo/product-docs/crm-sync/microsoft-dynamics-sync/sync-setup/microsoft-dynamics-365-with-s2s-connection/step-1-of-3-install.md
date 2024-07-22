@@ -5,14 +5,14 @@ exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 90%
+source-wordcount: '268'
+ht-degree: 89%
 
 ---
 
 # 手順 1／3：サーバー間接続を使用した Marketo ソリューションのインストール {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に Marketo ソリューションをインストールする必要があります。**Dynamics 管理権限が必要です**.
+Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に Marketo ソリューションをインストールする必要があります。**Dynamics 管理者権限が必要です**。
 
 >[!CAUTION]
 >
@@ -42,7 +42,7 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 「**[!UICONTROL ファイルを選択]**」をクリックします。[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. **[!UICONTROL ファイルを選択]** をクリックします。 [ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -82,7 +82,7 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 選択 **[!UICONTROL Marketoリード管理]** をクリックします。 **[!UICONTROL すべてのカスタマイズを公開]**.
+1. **[!UICONTROL Marketo リード管理を選択し]****[!UICONTROL すべてのカスタマイズをPublish]** をクリックします。
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

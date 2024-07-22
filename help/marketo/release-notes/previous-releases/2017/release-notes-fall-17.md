@@ -62,7 +62,7 @@ Marketo ABM が連絡先のない CRM アカウントを同期し、表示する
 
 ## ContentAI 分析 {#contentai-analytics}
 
-**[新規 ABM アカウントリストフィルター](https://docs.marketo.com/x/1BPG)**
+**[新規 ABM アカウントリストフィルター ](https://docs.marketo.com/x/1BPG)**
 
 ABM アカウントリスト全体でコンテンツのパフォーマンスを表示および比較して、既存のコンテンツを最適化します。ContentAI には次の情報が表示されます。
 

@@ -12,32 +12,32 @@ ht-degree: 33%
 
 # Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Marketo Sales インスタンスを Salesforce に接続しようとして、「リクエストを認証できません」というエラーが表示された場合は、Salesforce インスタンスの設定方法に関連している可能性があります。
+Marketo Sales インスタンスを Salesforce に接続しようとして「リクエストを認証できません」というエラーが表示される場合は、Salesforce インスタンスの設定に関係している可能性があります。
 
-この認証失敗ページを生成できるエラーには 2 種類があります。
+この失敗した認証ページを生成する可能性のあるエラーには、次の 2 種類があります。
 
-* ログインエラーが制限されたドメイン
-* OAuth アプリがブロックされました
+* Login error restricted Domain
+* Oauth アプリがブロックされました
 
-URL を確認することで、取得するタイプを識別できます。
+URL を確認することで、取得しているタイプを識別できます。
 
 ![](assets/how-do-i-fix-we-were-unable-to-authenticate-1.png)
 
 ![](assets/how-do-i-fix-we-were-unable-to-authenticate-2.png)
 
-## ログインエラーの制限ドメインの解決 {#resolve-login-error-restricted-domain}
+## 制限ドメインのログイン エラーの解決 {#resolve-login-error-restricted-domain}
 
-このエラーは、通常、ルーティングできないカスタムドメインがあることを示します。 このエラーを解決するには、最初に接続する Salesforce インスタンスにサインインしてみてください。 次に、Salesforce に接続する手順を実行します。
+このエラーは通常、ルーティングできないカスタムドメインがあることを示しています。 このエラーを解決するには、まず接続先の Salesforce インスタンスにログインしてみてください。 次に、手順を実行して Salesforce に接続します。
 
-接続しようとしているインスタンスが Salesforce Sandbox ドメインで、エラーが発生した場合は、追加の手順を実行して、Salesforce Sandbox と互換性を持つようにインスタンスを更新する必要があります。 [詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
+接続しようとしているインスタンスが Salesforce サンドボックスドメインであり、エラーが発生している場合は、Salesforce サンドボックスと互換性を持つようにインスタンスを更新するために、追加の手順を実行する必要があります。 [詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
 
-## ブロックされた OAuth アプリの解決 {#resolve-oauth-app-blocked}
+## Oauth アプリの解決がブロックされました {#resolve-oauth-app-blocked}
 
-URL に「Oauth App Blocked」エラータイプ（または別のタイプ）を含むエラーメッセージ「Unable to authenticate your request」が表示された場合は、Salesforce の API へのアクセスに制限が生じる可能性があります。 Salesforce 管理者に問い合わせて、以下の内容が正しいことを確認してください。
+URL 内に「Oauth App Blocked」というエラータイプ（または別のタイプ）が記載された「要求を認証できませんでした」というエラーメッセージが表示された場合は、Salesforce API へのアクセスが制限されている可能性があります。 Salesforce 管理者に、以下が実施されていることを確認してください。
 
 ### ユーザ権限での API が有効化されている {#enable-api-in-user-permissions}
 
-1. Salesforce 管理者に Salesforce にログインしてもらう。
+1. Salesforce 管理者を Salesforce にログインしてもらいます。
 1. 「**設定**」を選択します。
 1. 「**ユーザを管理**」を選択します。
 1. 「**プロファイル**」を選択します。
@@ -46,8 +46,8 @@ URL に「Oauth App Blocked」エラータイプ（または別のタイプ）�
 
 ### Salesforce によって Sales Insight Actions の接続がブロックされているかどうかを確認する {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. Salesforce 管理者に Salesforce にログインしてもらう。
+1. Salesforce 管理者を Salesforce にログインしてもらいます。
 1. 「**設定**」を選択します。
 1. 「**アプリの管理**」を選択します。
 1. 「**接続済みのアプリケーションの OAuth 使用状況**」を選択します。
-1. Sales Insight Actions の横に「ブロック」と表示されていることを確認します。「ブロック解除」が表示された場合は、ボタンをクリックして、Salesforce への Sales Insight アクションのアクセスをブロック解除します。
+1. Sales Insight Actions の横に「ブロック」と表示されていることを確認します。「ブロック解除」と表示された場合は、このボタンをクリックして、Sales Insight Actions の Salesforce へのアクセスのブロックを解除します。

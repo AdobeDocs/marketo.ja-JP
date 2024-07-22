@@ -6,7 +6,7 @@ exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '281'
 ht-degree: 100%
 
 ---

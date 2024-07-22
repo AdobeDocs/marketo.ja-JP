@@ -22,7 +22,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->これは、にオンボーディングされたMarketo Engage購読にのみ適用されます [AdobeIdentity Managementシステム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 購読がまだAdobe IMSにオンボードしていない場合は、に進みます [従来のユーザーの役割と権限のエクスペリエンス](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage/管理者/ユーザーと役割に移動します。
+>これは、[AdobeIdentity Management System （IMS） ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に転送されたMarketo Engageのサブスクリプションにのみ適用されます。 サブスクリプションがまだAdobe IMSにオンボードしていない場合は、Marketo Engage/管理者/ユーザーと役割の [ 従来のユーザーの役割と権限 ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} の手順を進めます。
 
 <table> 
  <tbody> 

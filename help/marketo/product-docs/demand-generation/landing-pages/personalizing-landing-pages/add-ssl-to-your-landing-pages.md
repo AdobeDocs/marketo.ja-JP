@@ -19,6 +19,6 @@ Marketo Engageがホストする Web フォームへの入力またはランデ�
 
 Marketo Engageは、デフォルトで、保護されていない HTTP プロトコルを使用して、「訪問された Web ページ」および「Web ページでのクリックリンク」を追跡します。 独自の証明書でトラッキングリンクを保護したい場合、Marketo に共有されていない別のサーバーを作成させて有効にする必要があります。連絡先とのやり取りのあらゆる側面を保護するには、通常、ランディングページとトラッキングリンクの両方を保護することを意味します。
 
-2022 年後半には、ランディングページとトラッキングリンクドメインのセキュリティ方法が変更されました。 [詳しくは、こちらを参照してください。](https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305){target="_blank"}.
+2022 年後半には、ランディングページとトラッキングリンクドメインのセキュリティ方法が変更されました。 [ 詳しくは、こちらを参照してください ](https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305){target="_blank"}。
 
 Marketo Engageランディングページの SSL が必要な場合は、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。

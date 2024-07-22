@@ -5,7 +5,7 @@ title: メール配信品質パワーパック - シードリストの読み込�
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 100%
 

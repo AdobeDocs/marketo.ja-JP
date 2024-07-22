@@ -6,14 +6,14 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 80%
+source-wordcount: '285'
+ht-degree: 77%
 
 ---
 
 # 手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール {#step-of-install-the-marketo-solution-on-premises}
 
-Microsoft Dynamics をオンプレミスとMarketo Engageで同期する前に、まずMarketoソリューションを Dynamics にインストールする必要があります。
+Microsoft Dynamics をオンプレミスとMarketo Engageで同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Microsoft Dynamics をオンプレミスとMarketo Engageで同期する前に�
 
 >[!PREREQUISITES]
 >
->必要な機能は次のとおりです。 [インターネット対応の導入](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0(ADFS) が設定されました。 **注意**：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[Active Directory フェデレーション サービス ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} 2.0、2.1、または 3.0 （ADFS）が構成されている [ インターネット接続展開 ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} （IFD）が必要です。 **注意**：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
 >[!NOTE]
 >
->**Dynamics 管理権限が必要です**.
+>**Dynamics 管理者権限が必要です**。
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. Dynamics にログインし、「 」を選択します。 **[!UICONTROL 設定]** をクリックします。
+1. Dynamics にログインし、左下のメニューで **[!UICONTROL 設定]** を選択します。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -83,7 +83,7 @@ Microsoft Dynamics をオンプレミスとMarketo Engageで同期する前に�
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 「 Marketo Lead Management 」を選択し、「 **[!UICONTROL すべてのカスタマイズを公開]**.
+1. Marketo Lead Management を選択し、**[!UICONTROL すべてのカスタマイズをPublish]** をクリックします。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

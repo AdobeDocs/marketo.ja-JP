@@ -13,13 +13,13 @@ ht-degree: 48%
 
 # リストまたはスマートリストでのクイック検索の使用 {#use-quick-find-in-a-list-or-smart-list}
 
-クイック検索を使用して、リストまたはスマートリストの結果から人物を検索します。
+クイック検索を使用して、リストまたはスマート・リストの結果からユーザーを検索します。
 
 1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 検索するスマートリストを選択し、 **[!UICONTROL People]** タブをクリックします。
+1. 検索するスマート・リストを選択し、「**[!UICONTROL People]**」タブをクリックします。
 
    ![](assets/smartlistpeople.png)
 
@@ -29,12 +29,12 @@ ht-degree: 48%
 
    ![](assets/searchpeople.png)
 
-1. Enter キーを押すか、検索アイコンをクリックすると、操作が完了します。
+1. Enter キーを押すか、検索アイコンをクリックすると、完了です。
 
 ## 会社名を使用して人物を検索する {#find-people-using-a-company-name}
 
-1. 会社を検索するには、「 」と入力します。 `[company]` [ クイック検索 ] ボックスに、検索する会社名の任意の部分を入力します。
+1. 会社を検索するには、[ クイック検索 ] ボックスに「`[company]`」と入力し、検索する会社名の任意の部分を入力します。
 
    ![](assets/supersmartlistsearch.jpg)
 
-1. Enter キーを押すか、検索アイコンをクリックすると、操作が完了します。
+1. Enter キーを押すか、検索アイコンをクリックすると、完了です。

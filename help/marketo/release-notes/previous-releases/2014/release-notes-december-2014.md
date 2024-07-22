@@ -65,11 +65,11 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
  リードの結合
 
-詳細は、リリース後の次の場所で確認できます [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+詳細は、リリース後に [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/homeで確認でき ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) す。
 
 ## Munchkin JavaScript の互換性強化 {#munchkin-javascript-compatibility-enhancements}
 
-Munchkin にいくつかの小さな機能強化を加え、ページ上の他の JavaScript を使用する場合でも、迅速に読み込み、必要に応じて機能するようにしました。
+Munchkin にいくつかのマイナーな機能強化を加え、ページ上の他のJavaScriptで引き続きすばやく読み込み、必要に応じて機能するようにしました。
 
 ロールアウトは 12 月中旬に開始し、今後数か月間続きます。
 

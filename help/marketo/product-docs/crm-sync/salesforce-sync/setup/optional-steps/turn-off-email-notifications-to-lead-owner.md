@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
    ![](assets/admin-1.png)
 
-1. クリック **[!DNL Salesforce]**.
+1. 「**[!DNL Salesforce]**」をクリックします。
 
    ![](assets/adminsalesforce.png)
 

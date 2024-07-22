@@ -7,21 +7,21 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 52%
+ht-degree: 47%
 
 ---
 
 # SFDC キャンペーンとプログラムの同期 {#sync-an-sfdc-campaign-with-a-program}
 
-Marketo Engageを使用すると、プログラムをと同期できます [!DNL Salesforce] キャンペーンを使用して、両方のシステムの同じリストの人（ステータスを含む）を維持できます。 それでは始めましょう。
+Marketo Engageを使用すると、プログラムを [!DNL Salesforce] キャンペーンと同期して、両方のシステムで同じ人物のリスト（ステータスを含む）を維持できます。 それでは始めましょう。
 
 >[!PREREQUISITES]
 >
->まず、[ [!DNL Salesforce]  キャンペーンの同期を有効にする](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}必要があります。
+>最初に [ 有効にする  [!DNL Salesforce]  キャンペーン同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} が必要です。
 
 >[!CAUTION]
 >
->SFDC キャンペーンをMarketo Engageプログラムと同期する場合、プログラムの子キャンペーンに対して、暗黙の SFDC アクション（SFDC キャンペーンに追加、SFDC に同期など）が無効になります。
+>SFDC キャンペーンをMarketo Engageのプログラムと同期する場合、暗黙の SFDC アクション（SFDC キャンペーンに追加、SFDC に同期など）は、プログラムの子キャンペーンに対して無効になります。
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
@@ -35,11 +35,11 @@ Marketo Engageを使用すると、プログラムをと同期できます [!DNL
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. 選択 **[!UICONTROL 新規作成]** または既存の [!DNL Salesforce] キャンペーン。
+1. **[!UICONTROL 新規作成]** を選択するか、既存の [!DNL Salesforce] キャンペーンを選択します。
 
    >[!TIP]
    >
-   >既存の [!DNL Salesforce] キャンペーン、必ず [プログラムのステータスに一致する [!DNL Salesforce] キャンペーンとMarketoプログラム](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >既存の [!DNL Salesforce] キャンペーンを選択する場合は、[ キャンペーンのプログラムステータスとMarketo プログラムを一致させる  [!DNL Salesforce]  ことを確認 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} ます。
 
 1. 新しいキャンペーンの名前を入力し、「**[!UICONTROL 保存]**」をクリックします。
 

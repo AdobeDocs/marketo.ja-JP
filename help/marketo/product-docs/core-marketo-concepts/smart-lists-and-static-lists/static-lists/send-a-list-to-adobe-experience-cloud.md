@@ -6,7 +6,7 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '759'
 ht-degree: 96%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->Marketo Engageインスタンスの HIPAA 対応のデプロイメントでは、この機能を使用できません。
+>HIPAA に対応しているMarketo Engageインスタンスのデプロイメントでは、この機能を使用できません。
 
 >[!PREREQUISITES]
 >
@@ -70,7 +70,7 @@ ht-degree: 96%
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. クリック **OK**.
+1. **OK** をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -94,7 +94,7 @@ ht-degree: 96%
 
 **Adobe Analytics との共有**
 
-Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。確認してください [Adobe Audience Managerドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
+Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
 
 **Adobe Audience Manager 顧客向け特性の使用**
 

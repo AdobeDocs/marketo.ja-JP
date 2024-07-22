@@ -4,7 +4,7 @@ description: メールマーケティング - Marketo ドキュメント - 製�
 title: メールマーケティング
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---

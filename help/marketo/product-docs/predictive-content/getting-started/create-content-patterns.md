@@ -6,8 +6,8 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 84%
+source-wordcount: '367'
+ht-degree: 85%
 
 ---
 
@@ -45,10 +45,10 @@ ht-degree: 84%
 
 ## コンテンツパターンのルール {#content-pattern-rules}
 
-* 式の任意の場所でワイルドカードを使用できます ( 例： _domain.com/&#42;_, _domain.com/&#42;ブログ&#42;_)
+* ワイルドカードは、式内の任意の場所で使用できます（例：_domain.com/&#42;_, _domain.com/&#42;blog&#42;_）
 
-* /の使用をお勧めします。&#42; 式の最後にパターン検出を続行する ( 例： _domain.com/blog/&#42;_ ブログフォルダ内のすべての投稿を検出 )
-* コンテンツパターンでは大文字と小文字が区別されません ( 例： _domain.com/Blog/&#42;_ は、次のすべての html ページを検出します： _domain.com/Blog_ および _domain.com/blog_)
+* 式の最後に/&#42; を使用して、パターン検出を続行することをお勧めします（例：_domain.com/blog/&#42;_ は、ブログフォルダー内のすべての投稿を検出します）
+* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog} および_ 4}domain.com/blog _上のすべての HTML ページを検出します）_
 
 * URL パラメーターは検出しません（これにより、同じコンテンツ URL で異なるパラメーターを持つ複数の項目が検出されるのを回避します）
 

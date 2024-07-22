@@ -5,8 +5,8 @@ title: スマートリストのベストプラクティス
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
 source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
-workflow-type: ht
-source-wordcount: '573'
+workflow-type: tm+mt
+source-wordcount: '566'
 ht-degree: 100%
 
 ---

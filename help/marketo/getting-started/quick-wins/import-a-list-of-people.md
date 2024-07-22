@@ -5,7 +5,7 @@ title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 
@@ -135,7 +135,7 @@ ht-degree: 100%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

@@ -5,7 +5,7 @@ title: 顧客の実績レポートをセグメント別にグループ化する
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 

@@ -5,8 +5,8 @@ exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 88%
+source-wordcount: '422'
+ht-degree: 89%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 88%
 
 ## Dynamics 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketoにログインし、 **Admin**.
+1. Marketoにログインし、「**Admin**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -42,13 +42,13 @@ ht-degree: 88%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 資格情報を入力]**.
+1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用されている場合は、新しいMarketoサブスクリプションを取得する必要があります。 URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。間違った組織 URL を使用する場合は、新しいMarketo サブスクリプションを取得する必要があります。 URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 88%
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
-1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 同期するフィールドを選択]**.
+1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -74,13 +74,13 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}の状態で実行することをお勧めします。
+>Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}の状態で実行することをお勧めします。次に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. 管理者に移動し、「 」を選択します。 **[!DNL Microsoft Dynamics]**.
+1. 「管理者」に移動し、「**[!DNL Microsoft Dynamics]**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 88%
 
 ## 同期を有効にする {#enable-sync}
 
-1. クリック **[!UICONTROL 編集]** in **[!UICONTROL 同期の有効化]**.
+1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 

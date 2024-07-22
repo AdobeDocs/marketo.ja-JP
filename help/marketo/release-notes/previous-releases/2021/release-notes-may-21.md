@@ -5,7 +5,7 @@ exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1446'
+source-wordcount: '1450'
 ht-degree: 100%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 100%
 
 * **Marketo 製品ドキュメントの切り替えプラットフォーム**：5 月 7 日（金）の時点で、Marketo 製品ドキュメントが Adobe Experience League に加わりました。URL「docs.marketo.com」を引き続き使用できます。登録済みの既存の記事がある場合はリダイレクトされます。すべての製品ドキュメントは、今年後半に予定されている機能強化を含め、新しいプラットフォームで利用できます。
 
-* **Adobe ID システムを利用した、ユーザー管理とシングルサインオンの合理化**：2021 年 7 月から、Adobe Marketo Engage の新規顧客は、アドビのユーザー認証情報を使用してオンボーディングされます。統合 ID システムへの現在の顧客の移行は、2022 年半ばまでおこなわれず、追加の通知がおこなわれるまでは、顧客によるアクションも必要ありません。シングルサインオンを使用すると、IT/セキュリティ管理者は、他の Experience Cloud ソリューションと共に複数の Adobe Marketo Engage 製品インスタンスを管理し、共通コンソールを介して SSO（Shared Services Organization）を構成できます。管理者は、共通の Admin Console を通じて、ユーザーグループとユーザーの使用権限を便利に管理できます。
+* **Adobe ID システムを利用した、ユーザー管理とシングルサインオンの合理化**：2021 年 7 月から、Adobe Marketo Engage の新規顧客は、アドビのユーザー資格情報を使用してオンボーディングされます。統合 ID システムへの現在の顧客の移行は、2022 年半ばまでおこなわれず、追加の通知がおこなわれるまでは、顧客によるアクションも必要ありません。シングルサインオンを使用すると、IT/セキュリティ管理者は、他の Experience Cloud ソリューションと共に複数の Adobe Marketo Engage 製品インスタンスを管理し、共通コンソールを介して SSO（Shared Services Organization）を構成できます。管理者は、共通の Admin Console を通じて、ユーザーグループとユーザーの使用権限を便利に管理できます。
 
 **_製品リリースウェビナー_**
 

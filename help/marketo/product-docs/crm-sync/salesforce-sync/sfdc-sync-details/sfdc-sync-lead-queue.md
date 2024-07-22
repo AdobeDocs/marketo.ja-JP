@@ -6,21 +6,21 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 88%
+source-wordcount: '134'
+ht-degree: 83%
 
 ---
 
 # SFDC 同期：リードキュー {#sfdc-sync-lead-queue}
 
-Marketo Engageを使用すると、 [Salesforce リードキュー](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} をクリックして、リードの配布に役立てます。 詳細は以下の通りです。
+Marketo Engageを使用すると、リードの配信に役立つユーザーを [Salesforce リードキュー ](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} に追加できます。 詳細は以下の通りです。
 
 ## Marketo のキューに個人を割り当てる方法 {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 次のいずれかのフローアクションを使用して、Salesforce のリードキューに個人を割り当てることができます。
 
-* [個人を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
-* [所有者の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
+* [ ユーザーを SFDC に同期 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [ 所有者の変更 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

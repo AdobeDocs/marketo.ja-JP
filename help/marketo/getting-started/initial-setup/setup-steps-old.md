@@ -8,14 +8,14 @@ exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
 source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
-source-wordcount: '2071'
-ht-degree: 99%
+source-wordcount: '2104'
+ht-degree: 95%
 
 ---
 
 # 設定手順 {#setup-steps}
 
-**Adobe Marketo Engageへようこそ。**
+**Adobe Marketo Engageへようこそ！**
 
 Marketoの使用に取り組む前に、実行する必要がある手順がいくつかあります。
 
@@ -40,7 +40,7 @@ Marketoの使用に取り組む前に、実行する必要がある手順がい�
 
 >[!IMPORTANT]
 >
->Marketo サブスクリプションが 2023年7月31日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} に移行されている場合、以下で説明するユーザーの追加手順は適用されません。代わりに、こちらの記事を参照してください。
+>Marketo サブスクリプションが 2023 年 7 月 31 日（PT）以降に作成された場合、または既に [AdobeIdentity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されている場合、以下に説明するユーザー追加の手順は適用されません。 代わりに [ この記事 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} を参照してください。
 
 メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 
@@ -350,6 +350,6 @@ Marketo には、任意の web ページ上のユーザーアクティビティ�
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。それでも、[Marketo Engage 製品説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}にあるいくつかの表の「標準」列で説明されているものと同等のパフォーマンスレベルを期待できます。
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、[Marketo Engageの製品説明 ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} に記載されているいくつかのテーブルの「標準」列に概説されているレベルと同等のパフォーマンスレベルを想定することはできます。 「Performance」列と「Performance Plus」列は、[ より高いパフォーマンス・レベル ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} を提供するパフォーマンス層パッケージを指します。
 
 すべての設定手順が完了しました。さっそく Marketo を使用してみましょう。

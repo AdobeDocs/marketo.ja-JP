@@ -7,8 +7,8 @@ exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 68%
+source-wordcount: '121'
+ht-degree: 67%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 68%
 
 >[!NOTE]
 >
->インスタンスに Workspaces/Partitions が含まれ、Workspace に関連付けられたページやアセットから直接（例えば、リンクを介して）個人の詳細ページに移動する場合は、手順 4 で Workspace も選択する必要があります。
+>インスタンスに Workspaces/Partitions が含まれており、Workspaceに関連付けられたページやアセットから取得するのではなく、直接（リンク経由などで）ユーザーの詳細ページに移動する場合は、手順 4 でWorkspaceを選択する必要もあります。

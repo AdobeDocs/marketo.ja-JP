@@ -6,14 +6,14 @@ exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '290'
 ht-degree: 83%
 
 ---
 
 # スマートリストまたはリストの人物の削除 {#delete-people-in-a-smart-list-or-list}
 
-リストまたはスマートリスト内の一部またはすべての担当者をすばやく簡単に削除できます。
+リストまたはスマート・リスト内の一部/すべてのユーザーをすばやく簡単に削除できます。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 83%
 
    ![](assets/ma-1.png)
 
-1. 削除するすべての担当者を含むリスト/スマートリストを選択し、 **[!UICONTROL People]** タブをクリックします。
+1. 削除するすべてのユーザーを含むリスト / スマートリストを選択し、「**[!UICONTROL ユーザー]**」タブに移動します。
 
    ![](assets/two-1.png)
 
@@ -67,4 +67,4 @@ ht-degree: 83%
    >
    >一括削除の結果を表示するには、画面の右上隅にある「単一フローアクション」ポップアップボックスの「**[!UICONTROL 結果を表示]**」をクリックします。削除時間は、複数の要因によって大きく異なる場合があります。
 
-   これは素晴らしい機能です。使用する際は注意してください。
+   これは素晴らしい機能です。使用するときは注意してください。

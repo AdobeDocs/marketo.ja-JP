@@ -5,7 +5,7 @@ title: SEO - ターゲットキーワードを使用した特定のページの�
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 

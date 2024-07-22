@@ -4,7 +4,7 @@ title: エージェントのインボックス
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 100%
 

@@ -5,8 +5,8 @@ title: 懸賞の作成
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 93%
+source-wordcount: '300'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 93%
 
 >[!AVAILABILITY]
 >
->すべてのMarketo Engageユーザーがこの機能を購入したわけではありません。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. プログラム内で、**新規**／**新規ローカルアセット**&#x200B;を選択します。
 

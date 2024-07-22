@@ -19,7 +19,7 @@ ht-degree: 79%
 >
 >[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. スマートキャンペーン内 **[!UICONTROL 流量]** 「 」タブで、フローステップを目的の場所にドラッグ&amp;ドロップするだけです。
+1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、フローステップを目的の場所にドラッグ&amp;ドロップするだけです。
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

@@ -4,7 +4,7 @@ title: 製品管理者の設定
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

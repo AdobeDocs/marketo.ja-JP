@@ -5,7 +5,7 @@ title: SFDC の同期 - キャンペーンの同期
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 100%
 

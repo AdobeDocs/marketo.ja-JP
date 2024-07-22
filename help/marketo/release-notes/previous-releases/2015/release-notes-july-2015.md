@@ -15,14 +15,14 @@ ht-degree: 68%
 
 ## Marketo注目の出来事 {#marketo-moments}
 
-昼食時に外出中、メールのスケジュールを変更する必要がある場合App StoreまたはGoogle Playから入手できるMarketo Moments アプリを使用すると、メールおよびイベントキャンペーンのパフォーマンスをリアルタイムで確認できるほか、iPhone、iPad、Android スマートフォンから、今後の予定も確認できます。
+昼食時に外出中、メールのスケジュールを変更する必要がある場合App StoreまたはGoogle Playから入手できるMarketo Moments アプリを使用すると、メールおよびイベントキャンペーンのパフォーマンスをリアルタイムで確認できるほか、iPhone、iPad、Androidのスマートフォンから、今後の情報も確認できます。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## リッチテキストエディターのアップデート {#rich-text-editor-update}
 
 合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。その後、エディターの新しいバージョンと従来のバージョンを切り替えることができます。 **管理者/ メール / エディター設定を編集**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。その後、**管理者/メール/エディター設定を編集** で、エディターの新規バージョンとレガシーバージョンを切り替えることができます。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -50,7 +50,7 @@ ht-degree: 68%
 
 **REST API を介した会社オブジェクトアクセス**：REST APIで、Marketo 会社（別名「アカウント」）オブジェクトにアクセスできるようになりました。つまり、Marketo で作成した会社オブジェクトの読み取り、更新、削除をおこない、更新されたリード API を使用して、そのような会社にリードを関連付けることができます。
 
-学ぶ [詳細]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies）に記載されている、Company API のリファレンスガイドです。
+[ 詳細 ]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies）については、Company API のリファレンスガイドを参照してください。
 
 ## メール配信へのアクセス {#access-email-deliverability}
 

@@ -47,7 +47,7 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 
 ## JavaScript コードのカスタマイズと web サイトへの埋め込み  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-リッチメディアレコメンデーションテンプレートのドキュメントを参照してください [Marketo Developers サイト](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. ここでは、web サイト用にテンプレートをカスタマイズする方法を説明します。
+Marketo Developers サイトの Rich Media Recommendation テンプレートに関するドキュメントを参照してください [ こちら ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}。 ここでは、web サイト用にテンプレートをカスタマイズする方法を説明します。
 
 Web サイトでテンプレートを表示したい場所に JavaScript コードを貼り付けます。
 

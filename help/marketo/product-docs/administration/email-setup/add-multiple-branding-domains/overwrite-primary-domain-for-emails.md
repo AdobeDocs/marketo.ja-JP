@@ -5,7 +5,7 @@ title: メールのプライマリドメインを上書きする
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 

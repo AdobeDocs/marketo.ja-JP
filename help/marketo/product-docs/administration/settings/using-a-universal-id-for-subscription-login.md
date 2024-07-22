@@ -5,7 +5,7 @@ title: サブスクリプションログインでのユニバーサル ID の使
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
 source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 100%
 
@@ -63,4 +63,4 @@ ht-degree: 100%
 >
 >* [ポータルへのシングルサインオンの追加](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ユニバーサル ID を使用して Marketo ユーザを 2 つのインスタンスに招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

@@ -4,7 +4,8 @@ title: Marketo Engage共同体
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 8%
@@ -13,7 +14,7 @@ ht-degree: 8%
 
 # Adobe Marketo Engage コミュニティ {#marketo-engage-community}
 
-この [Adobe Marketo Engage コミュニティ](https://nation.marketo.com/) （マーケティング国とも呼ばれます）は、Marketoの従業員や他のユーザーから、Marketo Engageインスタンスについて詳しく知る場所です。 に飛び込む前に、に慣れてください [コミュニティガイドライン](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+[Adobe Marketo Engage コミュニティ ](https://nation.marketo.com/) （マーケティング国家とも呼ばれます）では、Marketoの従業員だけでなく、他のユーザーからもMarketo Engageインスタンスについて詳しく知ることができます。 作業に取り掛かる前に、時間をおいて [ コミュニティガイドライン ](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) について理解してください。
 
 ## ユーザー名を登録 {#register-your-username}
 
@@ -33,7 +34,7 @@ ht-degree: 8%
 
 ## プロファイルの設定 {#set-up-your-profile}
 
-マーケティングネーションにログインしたら、デフォルトのアバターのアイコンをクリックして以下を選択します。 **[!UICONTROL マイ設定]** 環境設定を更新するには、アバター写真を変更し、タグ付けをコントロールします。
+マーケティング母国にログインしたら、デフォルトのアバターのアイコンをクリックし、**[!UICONTROL マイ設定]** を選択して、環境設定の更新、アバターの写真の変更、タグ付けのコントロールなどを行います。
 
 スクリーンショット
 
@@ -85,7 +86,7 @@ Marketoユーザーグループ（MUG）は、世界中のさまざまな地域�
 
 複数のコミュニティプロファイルの履歴を結合するには、次の手順に従います。 上書きされたプロファイルデータは取得できないので、コミュニティ アクティビティの少ないコミュニティプロファイルを上書きすることをお勧めします。
 
-メールの送信先 `ccare@marketo.com` 様々なコミュニティプロファイルのデータをリクエストするには、プライマリ実稼動サブスクリプションに関連付けられたプロファイルに結合します。 プロファイルが結合されると、選択した上書きされたプロファイルの過去のアクティビティが失われます。
+`ccare@marketo.com` にメールを送信し、様々なコミュニティプロファイルのデータを、プライマリ実稼動サブスクリプションに関連付けられたプロファイルに結合するようにリクエストします。 プロファイルが結合されると、選択した上書きされたプロファイルの過去のアクティビティが失われます。
 
 リクエストでは、次の詳細を指定してください。
 

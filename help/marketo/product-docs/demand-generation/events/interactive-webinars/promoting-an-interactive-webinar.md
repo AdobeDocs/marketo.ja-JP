@@ -4,7 +4,7 @@ title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 100%
 

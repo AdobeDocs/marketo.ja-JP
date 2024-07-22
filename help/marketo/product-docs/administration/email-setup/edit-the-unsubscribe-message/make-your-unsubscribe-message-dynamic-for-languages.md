@@ -5,7 +5,7 @@ title: 登録解除メッセージを言語に対して動的に設定
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 100%
 

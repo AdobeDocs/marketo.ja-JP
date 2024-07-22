@@ -6,8 +6,8 @@ exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 87%
+source-wordcount: '183'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!CAUTION]
 >
->次の場合、 [フィルターの使用](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} メールが既読として自動的にマークされるように Gmail アカウントのルールを設定すると、返信追跡で問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>メールを自動的に既読としてマークするために、Gmail アカウントで[フィルターを使用](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}している、またはルールを使用している場合、返信のトラッキングで問題が発生する可能性があります。Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -59,4 +59,4 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!NOTE]
 >
->Gmail では、独自の送信制限が適用されます。[詳細はこちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)を参照してください。
+>Gmail では、独自の送信制限が適用されます。詳しくは、[こちらを参照](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)してください。

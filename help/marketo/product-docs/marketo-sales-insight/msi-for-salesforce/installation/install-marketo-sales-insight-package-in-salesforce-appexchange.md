@@ -6,7 +6,7 @@ exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Marketo Sales Insight が提供するすべての優れた機能を利用する�
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. 「**AppExchange にログイン**」ボタンをクリックし、Salesforce の認証情報を使用してログインします。
+1. 「**AppExchange にログイン**」ボタンをクリックし、Salesforce の資格情報を使用してログインします。
 
 1. 接続した Salesforce アカウントログインを入力し、「**本番環境にインストール**」をクリックします。
 

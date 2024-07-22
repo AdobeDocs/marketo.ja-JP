@@ -28,15 +28,15 @@ Veeva と Marketo Engage の同期は、個人取引先オブジェクトの取�
 
 ## Marketo Engage と Veeva の間で同期されるもの {#what-is-synced-between-marketo-engage-and-veeva}
 
-* [担当者アカウント](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
+* [ 人物アカウント ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * ユーザ
-* [呼び出しおよび呼び出しキーオブジェクト](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [カスタムオブジェクト](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+* [Call および Call Key オブジェクト ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [ カスタムオブジェクト ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## 留意事項 {#things-to-know}
 
-* The [Veeva のMarketo Engageで入力した資格情報](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
+* [Veeva のMarketo Engageに入力した資格情報 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
 
 * Veeva CRM は force.com に基づいており、Marketo Engage のプラットフォームによるリッチエクスペリエンスが、この同期に継承されます。
 
-* Veeva CRM には、リード、連絡先、アカウント、ビジネスアカウント、商談、キャンペーン、アクティビティが表示されます。 ただし、Marketo Engage との同期ではサポートされていません。
+* Veeva CRM には、リード、連絡先、アカウント、ビジネスアカウント、オポチュニティ、キャンペーンおよびアクティビティが表示されます。 ただし、Marketo Engage との同期ではサポートされていません。

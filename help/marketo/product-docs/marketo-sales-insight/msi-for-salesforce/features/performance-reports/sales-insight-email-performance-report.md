@@ -51,7 +51,7 @@ Salesforce、Microsoft Dynamics、Gmail または Outlook プラグインを通�
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. 「**セールス担当者**&#x200B;別グループ」を選択します。
+1. 「**セールス担当者**&#x200B;別グループの電子メール」を選択します。
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 

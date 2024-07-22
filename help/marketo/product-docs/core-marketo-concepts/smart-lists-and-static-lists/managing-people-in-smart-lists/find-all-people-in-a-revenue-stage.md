@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 72%
+ht-degree: 62%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 72%
 
 ## 特定の収益ステージのメンバーをすべて検索する {#find-all-members-of-a-specific-revenue-stage}
 
-1. スマートリストで、 **[!UICONTROL スマートリスト]** タブで、 **[!UICONTROL 収益ステージ]** フィルターを適用し、キャンバスにドラッグします。
+1. スマートリストで「**[!UICONTROL スマートリスト]**」タブをクリックし、**[!UICONTROL 収益ステージ]** フィルターを見つけて、キャンバスにドラッグします。
 
    ![](assets/draginrevenuefilter.png)
 
@@ -33,7 +33,7 @@ ht-degree: 72%
 
 ## 収益ステージのメンバーに対してフローステップを実行する {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-どの人物がどの収益段階にあるかがわかったので、直接その人たちにマーケティングできます。選ぶ以外に **[!UICONTROL 収益ステージ]** スマートリストフィルターとして、フロー内の「if」フィルターとして選択することもできます。
+どの人物がどの収益段階にあるかがわかったので、直接その人たちにマーケティングできます。**[!UICONTROL 収益ステージ]** をスマートリストフィルターとして選択する以外に、フローの「if」フィルターとして選択することもできます。
 
 1. 目的のフローステップで、「**[!UICONTROL 選択肢を追加]**」を選択し、「**[!UICONTROL 収益ステージ]**」をクリックします。
 

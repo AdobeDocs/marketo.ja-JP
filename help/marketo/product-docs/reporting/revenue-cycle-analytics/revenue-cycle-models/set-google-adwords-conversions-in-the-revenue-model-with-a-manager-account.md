@@ -6,12 +6,12 @@ exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '439'
 ht-degree: 100%
 
 ---
 
-# マネージャーアカウントを使用した収益モデルでの Google AdWords  コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
+# マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 Google AdWords のアカウントを Marketo とリンクすると、オフラインのコンバージョンデータが Marketo から GoogleAdWords に自動的にアップロードされます。[カスタム列を追加した後には](https://support.google.com/adwords/answer/3073556)、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客 (あるいは追跡した収益ステージ) につながったかを簡単に確認できるようになります。
 

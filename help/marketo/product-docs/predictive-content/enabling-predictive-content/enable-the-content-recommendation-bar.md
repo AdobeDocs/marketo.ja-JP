@@ -6,7 +6,7 @@ exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '322'
 ht-degree: 97%
 
 ---
@@ -51,10 +51,10 @@ ht-degree: 97%
    >
    >* 表示 URL はドメインのパスにする必要があります
    >* https:// や https:// は含めません
-   >* 用途 &#42; ワイルドカード用
-   >* セミコロンを区切り文字として使用します
-   >* 例：/contact_us&#42;; &#42;action=logout&#42;
-   >* このフィールドでは大文字と小文字が区別されます
+   >* ワイルドカード &#42; 使用
+   * セミコロンを区切り文字として使用します
+   * 例：/contact_us&#42;; &#42;action=logout&#42;
+   * このフィールドでは大文字と小文字が区別されます
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ ht-degree: 97%
 
 >[!MORELIKETHIS]
 >
->[Web リッチメディアの予測コンテンツの有効化](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Web リッチメディアの予測コンテンツの有効化](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

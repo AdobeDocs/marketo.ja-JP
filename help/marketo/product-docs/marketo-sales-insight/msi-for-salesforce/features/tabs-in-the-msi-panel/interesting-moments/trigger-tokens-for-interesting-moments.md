@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -711,7 +711,7 @@ ht-degree: 88%
  </tbody> 
 </table>
 
-### Dynamic Chatトリガートークン {#dynamic-chat-trigger-tokens}
+### Dynamic Chat トリガートークン {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ ht-degree: 88%
 </thead>
 <tbody>
   <tr>
-    <td>ダイアログとの関わり</td>
+    <td>ダイアログに関与した</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -762,7 +762,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>会話形式に取り組む</td>
+    <td>会話フォームでエンゲージ済み</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ ht-degree: 88%
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>ダイアログ内のエージェントとエンゲージ済み</td>
+    <td>ダイアログでエージェントに関与した</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -806,7 +806,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>対話形式のエージェントとの関わり</td>
+    <td>会話フォームでエージェントに関与した</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>ダイアログ内の予定会議</td>
+    <td>ダイアログでミーティングをスケジュールした</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -850,7 +850,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>会話形式での会議の予定</td>
+    <td>会話フォームでミーティングをスケジュール済み</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>ダイアログの目標に達しました</td>
+    <td>ダイアログの目標達成済み</td>
     <td></td>
     <td></td>
     <td></td>
@@ -894,7 +894,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>対話形式の目標に達しました</td>
+    <td>会話フォーム目標を達成した</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>ダイアログ内のドキュメントの操作</td>
+    <td>ダイアログでドキュメントを操作した</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,7 +938,7 @@ ht-degree: 88%
     <td></td>
   </tr>
   <tr>
-    <td>対話形式のドキュメントとやり取りする</td>
+    <td>会話フォームでドキュメントを操作済み</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1057,7 +1057,7 @@ ht-degree: 88%
 >
 >チェック![（tick）](assets/check.png)がない場合は、注目のアクションに空の（何も入っていない）文字列が返されます。
 
-&#42;トリガー **ウェブページにアクセス** には、次のトークンが追加されています。
+&#42;トリガー&#x200B;**訪問 web ページ** には、さらにトークンがいくつか用意されています。
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

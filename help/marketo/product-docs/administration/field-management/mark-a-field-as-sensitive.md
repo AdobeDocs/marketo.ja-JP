@@ -4,7 +4,7 @@ title: フィールドを機密としてマークする
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

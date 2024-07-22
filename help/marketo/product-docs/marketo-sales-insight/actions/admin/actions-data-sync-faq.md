@@ -4,7 +4,7 @@ title: アクションデータ同期に関する FAQ
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1054'
 ht-degree: 100%
 

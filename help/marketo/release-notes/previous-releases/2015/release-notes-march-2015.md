@@ -53,4 +53,4 @@ Marketo のリードデータベースにある[リードデータフィール�
 
 ## RTP - メールまたはプログラムキャンペーン名で Web コンテンツをパーソナライズ {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-メールから web へとチャネルをまたいで、リードとの会話を続行します。[電子メールキャンペーンまたはプログラムに基づいてインバウンドコンテンツをパーソナライズする](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Marketoのマーケティングアクティビティで使用される名前。
+メールから web へとチャネルをまたいで、リードとの会話を続行します。[Marketoのマーケティングアクティビティで使用される電子メールキャンペーンまたはプログラムに基づいてインバウンドコンテンツをパーソナライズ ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) ます。

@@ -5,8 +5,8 @@ exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 56%
+source-wordcount: '272'
+ht-degree: 52%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 56%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 3 日に、Adobeは、すべてのアプリストアからMarketo Events App を削除しました。 既にタブレットやモバイルデバイスにアプリがインストールされている場合は、当分の間、アプリを引き続き使用できます。 Marketo EngageインスタンスをMarketoの認証用にAdobeID に移行すると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
-のMarketo Events アプリ [!DNL iPad] または [!DNL Android] タブレットを使用すると、イベントに到着したユーザーをすぐにチェックインすることが簡単にできます。
+[!DNL iPad] または [!DNL Android] タブレット用のMarketo Events アプリを使用すると、イベントに到着した直後にユーザーを簡単にチェックインできます。
 
 この記事では、このプロセス全体について説明します。見出しは別々の記事にリンクされています。一部の Marketo アクティビティはこの概要のリンクです。
 
@@ -28,26 +28,26 @@ ht-degree: 56%
 
 イベント前：
 
-* [イベントの新しい Marketo の役割を作成する](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}[!DNL iPad]（ または ユーザー向け）[!DNL Android]
+* イベントの [!DNL iPad] 人または [!DNL Android] 人のユーザー用に [ 新しいMarketo ロールを作成 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} します
 * [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}し、新しい役割を割り当てる
-* [新しい Marketo イベントプログラムを作成する](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [ 新しいMarketo イベントプログラムの作成 ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * イベントの日付を指定する
 * イベントにユーザーを追加する
 
-## を設定します。 [!DNL iPad] または [!DNL Android] タブレット
+## [!DNL iPad] または [!DNL Android] タブレットのセットアップ
 
-次の手順で [!DNL iPad] または [!DNL Android] タブレット準備完了：
+[!DNL iPad] または [!DNL Android] タブレットを準備するには：
 
-* Marketo Events のダウンロードとインストール [!DNL iPad] または [!DNL Android] タブレットアプリ
+* Marketo Events [!DNL iPad] またはタブレットアプリのダウンロード [!DNL Android] インストール
 * ログイン資格情報を確認する
 * アプリを同期してイベントを設定する
 * チェックインが機能していることを確認する
 
-## 次を使用して担当者をチェックインする： [!DNL iPad] またはタブレット
+## [!DNL iPad] またはタブレットを使用してユーザーをチェックインする
 
 イベント時：
 
 * アプリにログインする
 * ゲストを検索する（および新規ユーザーを作成する）
 * [ゲストをチェックインする](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}（逆チェックイン、チェックイン時にユーザーレコードを編集）
-* の同期 [!DNL iPad] または [!DNL Android] Marketoでのタブレットアプリ
+* [!DNL iPad] または [!DNL Android] タブレットアプリをMarketoと同期

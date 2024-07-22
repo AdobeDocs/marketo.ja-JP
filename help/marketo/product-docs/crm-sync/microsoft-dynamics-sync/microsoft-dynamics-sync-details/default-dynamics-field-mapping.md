@@ -5,14 +5,14 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 97%
 
 ---
 
 # デフォルトの Dynamics フィールドマッピング {#default-dynamics-field-mapping}
 
-Marketo EngageアカウントをMicrosoftと最初に同期すると、Marketoは組み込みの Dynamics フィールドとMarketoフィールドの間でこれらの関連付けを自動的におこないます。  Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo Engageアカウントを最初にMicrosoftと同期すると、Marketoによって、組み込みの Dynamics フィールドとMarketo フィールドの間で自動的にこれらの関連付けが行われます。  Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 

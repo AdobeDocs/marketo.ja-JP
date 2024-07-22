@@ -6,8 +6,8 @@ exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 100%
+source-wordcount: '401'
+ht-degree: 99%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 現地語で人名と日本企業名をマッチング（照合）します。
 
-**[ABM と LeanData の統合](https://docs.marketo.com/x/pKmt)**
+**[ABM と LeanData の統合 ](https://docs.marketo.com/x/pKmt)**
 
 LeanData の統合により、Marketo でリードと顧客のマッチングが可能になりました。記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
 

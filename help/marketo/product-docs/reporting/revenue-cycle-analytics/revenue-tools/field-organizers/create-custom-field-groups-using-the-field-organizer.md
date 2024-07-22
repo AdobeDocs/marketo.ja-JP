@@ -6,7 +6,7 @@ exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '1000'
 ht-degree: 100%
 
 ---

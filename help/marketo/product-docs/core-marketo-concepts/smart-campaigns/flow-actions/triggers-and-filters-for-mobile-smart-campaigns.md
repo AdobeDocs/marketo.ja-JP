@@ -103,7 +103,7 @@ ht-degree: 94%
 
 モバイルアプリアクティビティあり／あった
 
-これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。トラッキングを設定するには、開発者と協力する必要があります [Android の場合](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} および [iOSの場合](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。[Android用）および [iOS用 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} のトラッキングを設定するには ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 開発者と協力する必要があります。
 
 * モバイルアプリアクティビティあり - トリガー
 

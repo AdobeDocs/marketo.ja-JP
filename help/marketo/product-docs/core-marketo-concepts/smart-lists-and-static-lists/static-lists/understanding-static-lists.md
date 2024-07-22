@@ -6,8 +6,8 @@ exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 86%
+source-wordcount: '215'
+ht-degree: 82%
 
 ---
 
@@ -32,17 +32,17 @@ ht-degree: 86%
 
 ## リストにユーザーを追加／削除する方法 {#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンフローステップ ([リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. スマートキャンペーンフローステップ（[ リストに追加 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[ リストから削除 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
 
-1. [単一アクションフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [ 単一アクションフローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. ツリー内のリストにユーザーをドラッグする
-1. [リストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [ リストのインポート ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## 静的リストの使用例 {#some-uses-of-a-static-list}
 
 * マーケティングメッセージの受信のために事前に選択されたリスト
 * 有害なカウンターインテリジェンスメッセージを送信するために使用する「競合他社」リスト
-* 特定の状態の人の一時的なリスト。スマートキャンペーンは、その状態を終了したときにその人をスマートキャンペーンによって削除します。
+* 特定の状態にある人物の一時的なリスト。その状態を終了すると、スマートキャンペーンによって削除されます。
 
 リストの機能をお楽しみください。
 

@@ -17,7 +17,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->スマートリストとランディングページ効果レポートの間に数値の相違が見られる場合、スマートリストは人のデータのみをフィルターし、ランディングページ効果レポートはソーシャル (Facebook、Google広告など ) と匿名アクティビティに加えて、人物データにも追加できます。
+>スマートリストとランディングページのパフォーマンスレポートの間の数値に不一致がある場合、スマートリストでは人物に関するデータのみがフィルタリングされるのに対して、ランディングページのパフォーマンスレポートにはソーシャル（Facebook、Google Ads など）が含まれている可能性があります 人物データに加えて、匿名アクティビティを使用する必要があります。
 
 1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、ランディングページ効果[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「レポート」タブをクリックします。

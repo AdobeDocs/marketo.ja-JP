@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 90%
+ht-degree: 82%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 90%
 
    ![](assets/emailperformance.jpg)
 
-1. 「**[!UICONTROL セットアップ]**」タブをクリックして、「チャネル」タグをドラッグします。****
+1. **[!UICONTROL 設定]** タブをクリックして、**[!UICONTROL チャネル]** タグ上にドラッグします。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -39,7 +39,7 @@ ht-degree: 90%
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. これで完了です。次をクリック： [!UICONTROL レポート] タブに移動して、レポートのステータス列を確認します。
+1. これで完了です。「[!UICONTROL  レポート ]」タブをクリックして、プログラムステータス列を含むレポートを表示します。
 
    ![](assets/programreport.jpg)
 

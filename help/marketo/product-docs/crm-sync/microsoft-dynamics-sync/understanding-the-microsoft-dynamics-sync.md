@@ -6,14 +6,14 @@ exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 97%
 
 ---
 
 # Microsoft Dynamics 同期について {#understanding-the-microsoft-dynamics-sync}
 
-Marketo EngageとMicrosoft Dynamics が連携します。 お客様の販売データとマーケティングデータの同期を維持します。
+Marketo EngageとMicrosoft Dynamics は連携しています。 お客様の販売データとマーケティングデータの同期を維持します。
 
 >[!NOTE]
 >

@@ -12,7 +12,7 @@ ht-degree: 78%
 
 # ヘルプセンター {#help-center}
 
-Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソースへのリンクに加えて、 [製品ドキュメント](/help/marketo/home.md){target="_blank"}, [リリース情報](/help/marketo/release-notes/current.md){target="_blank"}, [マーケティング民族共同体](https://nation.marketo.com/){target="_blank"}）を参照して、エクスペリエンスレベル別に整理された便利な製品内ウォークスルーにアクセスできます。
+Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソース（[ 製品ドキュメント ](/help/marketo/home.md){target="_blank"}、[ リリース情報 ](/help/marketo/release-notes/current.md){target="_blank"}、[ マーケティングネーションコミュニティ ](https://nation.marketo.com/){target="_blank"} など）にリンクする以外に、エクスペリエンスレベル別に整理された便利な製品内ウォークスルーにアクセスできます。
 
 ## アクセス方法 {#how-to-access}
 

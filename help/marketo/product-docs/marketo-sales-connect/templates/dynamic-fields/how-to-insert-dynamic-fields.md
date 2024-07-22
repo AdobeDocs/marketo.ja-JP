@@ -6,7 +6,7 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 100%
 
 ---

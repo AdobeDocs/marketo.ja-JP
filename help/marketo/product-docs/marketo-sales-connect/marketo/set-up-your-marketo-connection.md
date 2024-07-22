@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->MSC をプロビジョニングすると、Marketo は自動的に認証情報を Sales Connect に送信し、インスタンスを Marketo に接続します。この手順は、Sales Connect インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です接続が確立されている場合は、資格情報が Marketo の管理者設定ページに入力されます。
+>MSC をプロビジョニングすると、Marketo は自動的に資格情報を Sales Connect に送信し、インスタンスを Marketo に接続します。この手順は、Sales Connect インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です接続が確立されている場合は、資格情報が Marketo の管理者設定ページに入力されます。
 
 ## Sales Connect を Marketo に接続する前の資格情報の取得 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

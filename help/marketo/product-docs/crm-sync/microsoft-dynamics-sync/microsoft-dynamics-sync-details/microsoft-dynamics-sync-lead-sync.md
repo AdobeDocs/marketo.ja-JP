@@ -13,7 +13,7 @@ ht-degree: 89%
 
 # Microsoft Dynamics 同期：リード同期 {#microsoft-dynamics-sync-lead-sync}
 
-Marketo Engageから Dynamics への同期は非常に強力です。 詳細は以下の通りです。
+DynamicsMarketo Engageは非常に強力です。 詳細は以下の通りです。
 
 ## 2 つのシステム間で詳細を同期させる方法 {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -33,7 +33,7 @@ Marketo Engageから Dynamics への同期は非常に強力です。 詳細は�
 
 >[!NOTE]
 >
->「担当者をMicrosoftに同期」フローアクションを (トリガーキャンペーンのみで ) 使用する場合、リード/連絡先は Dynamics でリアルタイムに作成されます。
+>「ユーザーをMicrosoftに同期」フローアクションを使用する場合（トリガーキャンペーンでのみ）、リード/連絡先は Dynamics でリアルタイムに作成されます。
 
 ## 手動で Marketo のリードを Dynamics のリードに同期させることはできますか？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 

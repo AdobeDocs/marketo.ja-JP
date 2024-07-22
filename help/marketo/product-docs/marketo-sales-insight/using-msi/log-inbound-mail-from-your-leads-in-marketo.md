@@ -44,4 +44,4 @@ Outlook では、Marketo メールアドインを使用して、リードから�
 >[!MORELIKETHIS]
 >
 >* [Outlook 用 Marketo メールアドインを使用したメールの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketo テンプレートを使用した Outlook からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Marketo テンプレートを使用した Outlook からの送信とトラッキング](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

@@ -6,14 +6,14 @@ exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '279'
 ht-degree: 87%
 
 ---
 
 # Microsoft Dynamics 同期：連絡先の同期 {#microsoft-dynamics-sync-contact-sync}
 
-Marketo Engageが Dynamics とデータベース全体を同期するのを知っていましたか？ 同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Dynamics の連絡先をどのように扱っているかを詳しく説明します。
+Marketo Engageがデータベース全体を Dynamics と同期することを知っていましたか？ 同期した後、5 分待ってからまた同期するということを、1 日中、毎日繰り返しています。ここでは、Marketo が Dynamics の連絡先をどのように扱っているかを詳しく説明します。
 
 ## 2 つのシステム間での詳細の同期方法 {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -29,7 +29,7 @@ Marketo Engageが Dynamics とデータベース全体を同期するのを知�
 
 >[!NOTE]
 >
->「担当者をMicrosoftに同期」フローアクションを (トリガーキャンペーンのみで ) 使用する場合、リード/連絡先は Dynamics でリアルタイムに作成されます。
+>「ユーザーをMicrosoftに同期」フローアクションを使用する場合（トリガーキャンペーンでのみ）、リード/連絡先は Dynamics でリアルタイムに作成されます。
 
 ## 手動での人物または連絡先の同期の強制 {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 

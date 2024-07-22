@@ -5,8 +5,8 @@ exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
 source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 93%
+source-wordcount: '496'
+ht-degree: 89%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 93%
 
 ## 新しいクライアントアプリケーションを作成する {#create-a-new-client-application}
 
-新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従ってください。{target="_blank"}Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
+[ このMicrosoftの記事 ](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"} の手順に従って、新しいクライアントアプリケーションを作成し、権限を付与します。 Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
@@ -74,7 +74,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [は英語に設定する必要があります](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
 
 1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL セキュリティ]**」をクリックします。
 
@@ -84,7 +84,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/assign2.png)
 
-1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、 [Active Directory フェデレーションサービス](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) 管理者：Marketo専用のユーザーを作成します。
+1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} （ADFS）の管理者に連絡してMarketo専用のユーザーを作成してください。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 

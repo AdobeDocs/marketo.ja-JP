@@ -6,14 +6,14 @@ exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '338'
 ht-degree: 97%
 
 ---
 
 # Microsoft Dynamics 同期：フィールドの同期 {#microsoft-dynamics-sync-field-sync}
 
-Marketo Engageから Dynamics への同期は非常に強力です。 以下に詳細を示します。
+DynamicsMarketo Engageは非常に強力です。 以下に詳細を示します。
 
 ## 2 つのシステム間でのフィールドの詳細の同期方法 {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
@@ -43,4 +43,4 @@ Dynamics で同期ユーザーがアクセス権を持っていれば、[フィ�
 
 ## 同期するフィールドが追加された後に、Dynamics のフィールドを削除したい場合 {#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
 
-Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}の状態で実行することをお勧めします。
+Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}の状態で実行することをお勧めします。次に、[同期するフィールドの選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}を編集および保存して、Marketo のスキーマを更新します。

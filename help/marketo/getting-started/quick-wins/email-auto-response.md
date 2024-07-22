@@ -5,7 +5,7 @@ title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 100%
 

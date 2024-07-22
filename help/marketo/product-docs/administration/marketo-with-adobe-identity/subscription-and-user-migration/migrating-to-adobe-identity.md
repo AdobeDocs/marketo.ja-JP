@@ -4,7 +4,7 @@ title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2252'
 ht-degree: 100%
 

@@ -33,7 +33,7 @@ ht-degree: 70%
   </tr>
   <tr>
     <td>ブロックリスト</td>
-    <td><li>ブロックリストの条件を定義します。競合他社のドメインを <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=ja" target="_blank">ブロックリスト</a> を設定して、メールが受信者に届かないようにします。</li></td>
+    <td><li>ブロックリストの条件を定義します。競合他社のドメインを <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=ja" target="_blank">ブロックリスト</a> に追加して、競合他社がメールを受信するのを防ぐことを検討します。</li></td>
   </tr>
   <tr>
     <td>マーケティング中断</td>
@@ -42,7 +42,7 @@ ht-degree: 70%
   <tr>
     <td>バウンスしたメールアドレス </td>
     <td><li>バウンスメールアドレスの条件を定義します。</li>
-    <li>「メールが無効です」カテゴリの人物を確認し、メールが必要かどうかを判断します <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=ja" target="_blank">手動でリセット</a>.</li></td>
+    <li>「無効なメール」カテゴリの人物を確認し、メールが <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=ja" target="_blank"> 手動でのリセット </a> 必要かどうかを判断します。</li></td>
   </tr>
   <tr>
     <td>重複の可能性</td>

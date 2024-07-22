@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 96%
+ht-degree: 84%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 カレンダーに表示する情報をフィルタリングするには、エントリの種類、プログラムタグ、またはワークスペースを使用します。
 
-1. 次をクリック： **[!UICONTROL カレンダー]** タイル。
+1. **[!UICONTROL カレンダー]** タイルをクリックします。
 
 ![](assets/2017-05-10-15-30-47.png)
 
@@ -23,7 +23,7 @@ ht-degree: 96%
 
    >[!NOTE]
    >
-   >デフォルトのエントリタイプは、**[!UICONTROL メール]****[!UICONTROL プログラム]**&#x200B;と、メール&#x200B;**[!UICONTROL による]**&#x200B;スマートキャンペーンです。
+   >デフォルトのエントリタイプは **[!UICONTROL メール]****[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

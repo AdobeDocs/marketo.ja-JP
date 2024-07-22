@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---

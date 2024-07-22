@@ -7,13 +7,13 @@ feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 44%
+ht-degree: 38%
 
 ---
 
 # キャンペーンのアクション：スマートキャンペーンの削除 {#campaign-actions-delete-a-smart-campaign}
 
-不要になった古いスマートキャンペーンがある場合は、そのスマートキャンペーンを削除できます。 手順は以下のとおりです。
+不要になった古いスマートキャンペーンがある場合は、削除できます。 手順は以下のとおりです。
 
 >[!CAUTION]
 >
@@ -23,13 +23,13 @@ ht-degree: 44%
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 非アクティブなスマートキャンペーンに移動します。 「**[!UICONTROL キャンペーンアクション]**」ドロップダウンで、「**[!UICONTROL 削除]**」を選択します。
+1. 非アクティブなスマートキャンペーンに移動します。 **[!UICONTROL キャンペーンアクション]** ドロップダウンで「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >アクティブなスマートキャンペーンを完全に削除せずにキャンセルするには、以下の手順を実行します。 [スマートキャンペーンの中止](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >アクティブなスマートキャンペーンの処理を削除せずにキャンセルするには、[ スマートキャンペーンを中止 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) する方法を参照してください。
 
 1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
@@ -37,4 +37,4 @@ ht-degree: 44%
 
    >[!CAUTION]
    >
-   >フローステップの担当者を含むアクティブなスマートキャンペーンを削除しないでください。 キャンペーンは、まだ実行される可能性があります。
+   >フロー手順でユーザーを含むアクティブなスマートキャンペーンを削除しないでください。 キャンペーンは、まだ実行される可能性があります。

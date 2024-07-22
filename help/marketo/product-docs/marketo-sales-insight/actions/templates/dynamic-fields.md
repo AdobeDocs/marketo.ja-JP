@@ -5,7 +5,7 @@ exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '555'
 ht-degree: 83%
 
 ---
@@ -57,10 +57,10 @@ Sales Insight Actions でテンプレートを作成する場合は、必ず「*
 | `{{company}}` | Adobe |
 | `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith さん |
-| `{{team_unsubscribe}}` | 今後メールの受信を希望しない場合は、ここをクリックしてください |
-| `{{friendly_unsubscribe}}` | メールに飽きた？ こちらにお知らせください |
-| `{{my_name}}` | Keith Flynn |
-| `{{my_signature}}` | シニアテクニカルライター、Keith Flynn -Adobe |
+| `{{team_unsubscribe}}` | 私たちからのメールの受信を希望しない場合は、ここをクリックしてください |
+| `{{friendly_unsubscribe}}` | メールにはうんざりですか？ こちらにお知らせください |
+| `{{my_name}}` | キース・フリン |
+| `{{my_signature}}` | Keith Flynn （シニアテクニカルライター – Adobe） |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | シニアテクニカルライター |
 | `{{work_website}}` | https://www.adobe.com |
@@ -71,7 +71,7 @@ Sales Insight Actions でテンプレートを作成する場合は、必ず「*
 * `{{company}}` と `{{company_friendly}}` の違いは、`{{company_friendly}}` では顧客の取引先責任者の会社名から Inc.、LLC.などの正式な名称が削除されることです。
 * `{{company_friendly}}` を使用する場合、取引先責任者の詳細では必ず、Inc. または Co. をコンマで区切ってください。これにより、Sales Insight Actions が値を取り込む際に削除する必要があるものを認識します。
 * メールテンプレートを、`{{my_name}}` や `{{my_title}}` のような事前定義済みの属性を使用してパーソナライズできます。これらのフィールドを使用すると、メールテンプレートですばやく自己参照できます。
-* システムは、送信される各電子メールにユーザーの署名を自動的に追加します。 ユーザーが `{{my_signature}}` 動的フィールドの場合、システムは署名を入力します。 `{{my_signature}}` 動的フィールドが配置されました。 重複を避けるために、ここにのみ追加されます。 システムが処理します `{{team_unsubscribe}}` グローバルな append unsubscribe 設定が有効な場合も同様です。
+* システムは、送信される各メールにユーザーの署名を自動的に追加します。 ユーザーが `{{my_signature}}` 動的フィールドを含むテンプレートを使用している場合、システムは、`{{my_signature}}` 動的フィールドが配置されている署名を入力します。 重複を避けるために追加されたものだけです。 グローバル `{{team_unsubscribe}}` 追加購読解除設定が有効になっている場合、システムは同じように処理します。
 
 >[!TIP]
 >

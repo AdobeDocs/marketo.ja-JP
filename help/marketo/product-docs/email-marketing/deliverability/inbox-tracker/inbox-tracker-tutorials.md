@@ -4,7 +4,7 @@ title: インボックストラッカーのチュートリアル
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
 source-git-commit: d65903d64d068a6f919df78258654414f3b76426
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 

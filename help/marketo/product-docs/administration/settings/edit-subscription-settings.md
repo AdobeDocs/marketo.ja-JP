@@ -5,7 +5,7 @@ title: サブスクリプション設定の編集
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 

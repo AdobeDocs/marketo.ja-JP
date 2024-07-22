@@ -5,14 +5,14 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 95%
 
 ---
 
 # クライアント ID とアプリ登録に対する同意の付与 {#grant-consent-for-client-id-and-app-registration}
 
-必要な同意/権限を付与する方法を学ぶには、次の手順に従います。
+必要な同意/権限を付与する方法については、次の手順に従います。
 
 ## 同期ユーザーに委任されたユーザー権限を付与する {#grant-delegated-user-permissions-for-the-sync-user}
 

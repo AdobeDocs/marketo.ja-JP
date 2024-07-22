@@ -3,8 +3,8 @@ description: Salesforce Lightning からの Marketo Sales Connect のアンイ�
 title: Salesforce Lightning からの Marketo Sales Connect のアンインストール
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
-workflow-type: ht
-source-wordcount: '1190'
+workflow-type: tm+mt
+source-wordcount: '1192'
 ht-degree: 100%
 
 ---

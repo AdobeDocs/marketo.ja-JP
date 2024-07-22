@@ -14,11 +14,11 @@ ht-degree: 84%
 
 ## 動的チャットの接続 {#connecting-dynamic-chat}
 
-が完了したら [初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}で、Adobe Marketo Engage サブスクリプションにDynamic Chatを接続して、1 回限りの同期を実行します。
+[ 初期設定 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} が完了したら、Adobe Marketo Engage サブスクリプションにDynamic Chatを接続して、1 回限りの同期を実行します。
 
 >[!NOTE]
 >
->Dynamic Chatは同期をサポートします [Marketoネイティブ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールド。
+>Dynamic Chatは、[Marketo ネイティブ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタム人物フィールドと会社フィールドの同期をサポートしています。
 
 1. マイ Marketo で、**[!UICONTROL 動的チャット]**&#x200B;タイルをクリックします。
 

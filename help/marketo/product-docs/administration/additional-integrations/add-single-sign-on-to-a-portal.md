@@ -29,7 +29,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] ユーザですか？詳しくは、[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態をに設定してください `https://<munchkinid>.mktoweb.com`, **_ではない_** `https://<munchkinid>.marketo.com`.
+>[!DNL Microsoft Azure] ユーザですか？詳しくは、[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレーの状態を `https://<munchkinid>.marketo.com` ではなく **_`https://<munchkinid>.mktoweb.com` に設定_** てください。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 

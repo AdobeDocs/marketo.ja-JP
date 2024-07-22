@@ -23,7 +23,7 @@ ht-degree: 100%
 
 新規ユーザーは、以下の手順に従う必要があります。
 
-1. ようこそメールで、「**開始する**」をクリックします。
+1. ウェルカムメールで、「**開始する**」をクリックします。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 

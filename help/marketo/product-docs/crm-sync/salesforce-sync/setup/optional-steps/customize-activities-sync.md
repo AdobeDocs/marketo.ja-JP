@@ -7,19 +7,19 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
 # アクティビティ同期のカスタマイズ {#customize-activities-sync}
 
-Marketo Sales Insight を使用しない場合、Marketo Engageは特定のイベントに対して Salesforce アクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
+Marketo Sales Insight を使用しない場合、Marketo Engageでは、特定のイベントに関する Salesforce アクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
 
 1. 「**[!UICONTROL 管理]**」に移動します。
 
    ![](assets/admin.png)
 
-1. **[!DNL Salesforce]**／**[!UICONTROL 同期オプションの編集]**&#x200B;をクリックします。
+1. **[!DNL Salesforce]** をクリックし、**[!UICONTROL 同期オプションを編集]** をクリックします。
 
    ![](assets/two-1.png)
 

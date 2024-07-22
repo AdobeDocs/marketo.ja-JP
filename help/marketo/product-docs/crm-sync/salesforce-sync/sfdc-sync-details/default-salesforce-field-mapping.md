@@ -13,7 +13,7 @@ ht-degree: 93%
 
 # デフォルトの Salesforce フィールドマッピング {#default-salesforce-field-mapping}
 
-Marketo Engageアカウントを Salesforce と最初に同期すると、Marketoは組み込みの Salesforce フィールドとMarketoフィールドとの間でこれらの関連付けを自動的に行います。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo Engageアカウントを最初に Salesforce と同期すると、Marketoによって、組み込みの Salesforce フィールドとMarketo フィールド間で自動的にこれらの関連付けが作成されます。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 

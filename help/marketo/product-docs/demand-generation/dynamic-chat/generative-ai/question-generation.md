@@ -16,21 +16,21 @@ ht-degree: 2%
 
 ## 質問の生成 {#generate-questions}
 
-1. 「生成 AI」で、 **[!UICONTROL 支援応答]**.
+1. 「生成 AI」で、「**[!UICONTROL Assisted responses]**」をクリックします。
 
    ![](assets/question-generation-1.png)
 
-1. クリック **[!UICONTROL 質問の生成]**.
+1. 「**[!UICONTROL 質問を生成]**」をクリックします。
 
    ![](assets/question-generation-2.png)
 
-1. タスクに名前を付け、すべてのコンテンツが抽出されるソース URL （最大 10）を入力します。 目的のトピック/キーワードを入力し、キーボードの Enter キーを押します。 完了したら、 **[!UICONTROL Generate]**.
+1. タスクに名前を付け、すべてのコンテンツが抽出されるソース URL （最大 10）を入力します。 目的のトピック/キーワードを入力し、キーボードの Enter キーを押します。 完了したら、「**[!UICONTROL 生成]**」をクリックします。
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Marketo Engageが指定された URL からコンテンツを削除できるようにするには、まず複数の IP アドレスを許可リストに加えるする必要があります。 [詳しくは、以下を参照してください](#ip-addresses-to-allowlist).
+   >Marketo Engageが指定された URL からコンテンツを削除できるようにするには、まず複数の IP アドレスを許可リストに加えるする必要があります。 [ 詳しくは以下を参照してください ](#ip-addresses-to-allowlist)。
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->生成された質問と回答は、でも表示できます [応答ライブラリ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>生成された質問と回答は、[ 応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) でも表示できます。
 
 1. 目的のタスクを見つけて、名前の横にあるダウンロードアイコンをクリックします。
 
@@ -60,15 +60,15 @@ ht-degree: 2%
 
    ![](assets/question-generation-7.png)
 
-1. Excel ファイルで、 **[!DNL Task details]** 質問や回答を追加/編集する方法を含む、タスクに関する様々な詳細を示します。
+1. Excel ファイルでは、質問や応答の追加/編集方法の手順など、タスクに関する様々な詳細が **[!DNL Task details]** に表示されます。
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >質問や回答を一括で追加/編集する場合、 [再アップロードする方法については、こちらを参照してください。](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >質問や回答を一括で追加/編集する場合は、[ こちら ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) を参照して、再アップロードする方法を確認してください。
 
-1. この **[!DNL Q&Rs]** タブには、生成された質問や回答など、追加の詳細が表示されます。
+1. 「**[!DNL Q&Rs]**」タブには、生成された質問や回答など、追加の詳細が表示されます。
 
    ![](assets/question-generation-9.png)
 

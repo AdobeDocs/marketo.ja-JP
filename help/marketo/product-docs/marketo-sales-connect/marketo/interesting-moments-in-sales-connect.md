@@ -21,9 +21,9 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->* 以下が必要です [salesforce CRM への接続](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* [Salesforce CRM への接続 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} が必要です
 >* Salesforce のリードまたは連絡先所有者である必要があります
->* 次へのアクセス権が必要です。 [Marketo Engageへのアクセス権の付与](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
+>* [Marketo Engageへのアクセスを許可 ](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"} へのアクセス権が必要です。
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 

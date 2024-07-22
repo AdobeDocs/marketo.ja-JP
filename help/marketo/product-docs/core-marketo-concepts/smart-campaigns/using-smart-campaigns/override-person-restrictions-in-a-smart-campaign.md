@@ -13,13 +13,13 @@ ht-degree: 35%
 
 # スマートキャンペーンでのリード制限数の上書き {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo Engageを使用すると、スマートキャンペーンの対象として認定できる最大人数を設定できます。これにより、データベース全体に誤って電子メールが送信されるのを防ぐことができます。 この制限を&#x200B;_上書き_&#x200B;する場合は、次の手順に従います。
+Marketo Engageを使用すると、スマートキャンペーンの対象となる最大人数を設定できます。これにより、データベース全体に誤ってメールが送信されるのを回避できます。 この制限を&#x200B;_上書き_&#x200B;する場合は、次の手順に従います。
 
 >[!PREREQUISITES]
 >
->必ず [スマートキャンペーンの担当者制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} Marketo Admin の
+>Marketo管理で [ スマートキャンペーンの人物制限を有効にする ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} を必ずオンにします。
 
-1. In **[!UICONTROL マーケティング活動]**&#x200B;スマートキャンペーンに移動し、 **[!UICONTROL スケジュール]**.
+1. **[!UICONTROL マーケティングアクティビティ]** で、スマートキャンペーンに移動し、「**[!UICONTROL スケジュール]**」をクリックします。
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
@@ -31,12 +31,12 @@ Marketo Engageを使用すると、スマートキャンペーンの対象とし
    >
    >デフォルトの制限は、管理で設定された制限です。
 
-1. 新しい制限を入力し、 **[!UICONTROL 保存]**.
+1. 新しい制限を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
-   認定された担当者の数が設定された制限を超えると、スマートキャンペーンは実行されません。
+   対象となるユーザーの数が設定された制限を超えた場合、スマートキャンペーンは実行されません。
 
    >[!CAUTION]
    >
-   >誤って多くの人を含めすぎないように、この機能に注意してください。
+   >この機能を使用する場合は、誤って多くの人を含めないようにご注意ください。

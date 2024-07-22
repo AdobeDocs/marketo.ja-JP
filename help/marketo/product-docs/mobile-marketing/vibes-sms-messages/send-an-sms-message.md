@@ -1,25 +1,26 @@
 ---
-description: SMS メッセージの送信 — Marketoドキュメント — 製品ドキュメント
+description: SMS メッセージの送信 – Marketo ドキュメント – 製品ドキュメント
 title: SMS メッセージの送信
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
 # SMS メッセージの送信 {#send-a-vibes-sms-message}
 
-You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}を送信する時間が始まりました。 バッチまたはトリガーキャンペーンで送信できます。
+[SMS メッセージが作成されました ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}。次に送信します。 バッチまたはトリガーキャンペーンを介して送信できます。
 
 >[!NOTE]
 >
 >SMS メッセージを送信する場合：
 >
->* Marketo Engage番号別のデュープ。 したがって、複数の人が同じ電話番号を持っている場合、1 人の人だけがメッセージを受け取ります（1 人の Vibes 配信登録リストのメンバーの場合）。 重複排除は、Marketoプログラムレベルではなく、Vibes 購読リストレベルでおこなわれます。
+>* 電話番号によるMarketo Engageの重複排除。 したがって、複数のユーザーが同じ電話番号を持っている場合、1 つの Vibes サブスクリプションリストにのみメンバーであれば、1 人のユーザーのみがメッセージを受け取ります。 重複排除は、Marketo プログラムレベルではなく、Vibes サブスクリプションリストレベルで行われます。
 >* メッセージはブロックリストに登録されたリードやマーケティングが中断されたリードには送信されません。
->* Vibes モバイルデータベースリストにない場合、SMS メッセージは配信停止済みのユーザーには送信されません。
+>* Vibes モバイルデータベース リストに登録されていない場合、SMS メッセージは登録を解除したユーザーには送信されません。
 
 ## バッチ SMS の送信 {#send-a-batch-sms}
 
@@ -31,19 +32,19 @@ You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs
 
    ![](assets/send-an-sms-message-2.png)
 
-1. 次をクリック： **スマートリスト** 」タブをクリックし、SMS のオーディエンスを定義します。 この例では、会社として「Adobe」がリストされているデータベース内の全員にを送信します。
+1. 「**スマートリスト**」タブをクリックし、SMS のオーディエンスを定義します。 この例では、「Adobe」が会社としてリストされているデータベース内の全員に送信します。
 
    ![](assets/send-an-sms-message-3.png)
 
-1. Adobe Analytics の **流量** タブ、上にドラッグ **SMS メッセージの送信**. 目的の SMS メッセージと Vibes リストをドロップダウンから選択します。
+1. 「**フロー**」タブで、「**SMS メッセージを送信**」上にドラッグします。 ドロップダウンから目的の SMS メッセージとバイブリストを選択します。
 
    ![](assets/send-an-sms-message-4.png)
 
    >[!NOTE]
    >
-   >Vibes リストセレクターは、スマートリストで既に識別されているオーディエンスに対する追加のフィルターとして機能し、その Vibes リストに属する人のみをターゲットにします。
+   >バイブリスト セレクターは、スマートリストで既に識別されているオーディエンスに対するさらにフィルタリングとして機能し、そのバイブリストに属するユーザーのみをターゲットにします。
 
-1. 次をクリック： **スケジュール** 「 」タブに移動し、SMS のスケジュールを設定します。
+1. **スケジュール** タブをクリックして、SMS のスケジュールを設定します。
 
    ![](assets/send-an-sms-message-5.png)
 
@@ -57,23 +58,23 @@ You&#39;ve [SMS メッセージを作成しました](/help/marketo/product-docs
 
    ![](assets/send-an-sms-message-7.png)
 
-1. 次をクリック： **スマートリスト** 「 」タブで、目的のトリガーを選択し、値を定義します。 この例では、 **フォームの入力**.
+1. **スマートリスト** タブをクリックし、目的のトリガーを選択して、その値を定義します。 この例では、「フォームへの入力 **を使用し** います。
 
    ![](assets/send-an-sms-message-8.png)
 
-1. Adobe Analytics の **流量** タブ、上にドラッグ **SMS メッセージの送信**. 目的の SMS メッセージと Vibes リストをドロップダウンから選択します。
+1. 「**フロー**」タブで、「**SMS メッセージを送信**」上にドラッグします。 ドロップダウンから目的の SMS メッセージとバイブリストを選択します。
 
    ![](assets/send-an-sms-message-9.png)
 
    >[!NOTE]
    >
-   >Vibes リストセレクターは、スマートリストで既に識別されているオーディエンスに対する追加のフィルターとして機能し、その Vibes リストに属する人のみをターゲットにします。
+   >バイブリスト セレクターは、スマートリストで既に識別されているオーディエンスに対するさらにフィルタリングとして機能し、そのバイブリストに属するユーザーのみをターゲットにします。
 
-1. 次をクリック： **スケジュール** タブ、 **有効化**.
+1. 「**スケジュール**」タブをクリックし、「**アクティブ化** をクリックします。
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Vibes メッセージの作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [スマートキャンペーンでの SMS オプションの使用](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [Vibes メッセージの作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [ スマートキャンペーンでの SMS オプションの使用 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

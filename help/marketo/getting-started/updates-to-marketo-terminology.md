@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 title: Marketo 用語のアップデート
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
 

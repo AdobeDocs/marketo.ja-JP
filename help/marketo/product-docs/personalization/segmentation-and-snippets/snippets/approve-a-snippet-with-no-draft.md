@@ -5,7 +5,7 @@ title: ドラフトなしのスニペットを承認する
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
 source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
 

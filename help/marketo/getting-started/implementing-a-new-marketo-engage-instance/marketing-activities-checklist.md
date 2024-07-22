@@ -6,11 +6,11 @@ exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
 source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
-ht-degree: 56%
+ht-degree: 57%
 
 ---
 
-# 新しいインスタンスのベストプラクティス：マーケティングアクティビティチェックリスト {#new-instance-best-practices-marketing-activities-checklist}
+# 新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト {#new-instance-best-practices-marketing-activities-checklist}
 
 マーケティングアクティビティには、自動化されたマーケティングプログラムを構成するすべてのアセットとコンテンツが含まれます。新しいMarketo Engageインスタンスを設定する際に、クリーンで明確な組織により、すべてのユーザーが様々なプログラムを簡単に見つけて管理できるようになります。
 
@@ -28,20 +28,20 @@ ht-degree: 56%
 <tbody>
   <tr>
     <td>命名規則</td>
-    <td><li>の定義 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">一貫性のある命名規則</a> フォルダー構造を作成する前のサブスクリプションの場合。</li></td>
+    <td><li>フォルダー構造を作成する前に、サブスクリプションに <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank"> 一貫性のある命名規則 </a> を定義します。</li></td>
   </tr>
   <tr>
     <td>フォルダー構造</td>
-    <td><li>を参照することで、一貫性のある簡単にナビゲーション可能なフォルダー構造を構築します <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders" target="_blank">この例</a>.</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders" target="_blank"> この例 </a> を参照することで、一貫性があり、簡単にナビゲーション可能なフォルダー構造を作成します。</td>
   </tr>
   <tr>
     <td>プログラム</td>
-    <td><li>用のプログラムテンプレートの作成 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">各チャネル</a> 管理者セクションに作成済みです。 以下から開始できます <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">プログラムのインポート</a> プログラムライブラリから。 詳しくは、以下の「アセット」の表を参照してください。</li>
-    <li>次を決定 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank">スマートキャンペーンのフロー手順</a> グローバルプログラムでもローカルプログラムでも構いません。</li> <li>プロセスを標準化するために、プログラムテンプレートの一部として獲得、メンバーシップ、成功のトラッキングを含めます。</li></td>
+    <td><li>管理者セクションで作成した <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank"> 各チャネル </a> のプログラムテンプレートを作成します。 開始するには、プログラムライブラリから <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank"> プログラムのインポート </a> を行います。 詳しくは、以下の「アセット」の表を参照してください。</li>
+    <li>グローバルプログラムとローカルプログラムのどちらに参加できる <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank"> スマートキャンペーンのフロー手順 </a> を決定します。</li> <li>プロセスを標準化するために、プログラムテンプレートの一部として獲得、メンバーシップ、成功のトラッキングを含めます。</li></td>
   </tr>
   <tr>
     <td>アーカイブ</td>
-    <td><li>いつ～すべきかの方針を決める <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">プログラムとアセットのアーカイブ</a>. 
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank"> プログラムとアセットのアーカイブ </a> を実行するタイミングに関するポリシーを決定します。 
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：項目をアーカイブすると、選択リストおよびレポートから削除されます。</li></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ ht-degree: 56%
 
 >[!NOTE]
 >
->プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に保存するには、 [管理者セクションのチェックリスト](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) ワークスペースの設定方法については、を参照してください。
+>プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に格納するには、[ 管理者セクションのチェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) を参照して、ワークスペースの設定方法を確認してください。
 
 <table>
 <thead>
@@ -67,14 +67,14 @@ ht-degree: 56%
 <tbody>
   <tr>
     <td>プログラムタイプ</td>
-    <td><li>について <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs" target="_blank">4 種類のプログラム</a>.</li>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs" target="_blank">4 つのプログラムタイプ </a> について説明します。</li>
     <li>開始するには、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview" target="_blank">プログラムライブラリ</a>から<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">プログラムテンプレートを読み込みます</a>。</li>
-    <li>を作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar" target="_blank">対話型ウェビナー</a>：ビルトインのウェビナープラットフォーム（イベントプログラムを使用） <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">インタラクティブウェビナーへの部屋の関連付け</a> プログラム。</li>
+    <li>イベントプログラムを使用して、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar" target="_blank"> インタラクティブウェビナー </a> という組み込みウェビナープラットフォームを作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars"> インタラクティブウェビナーに部屋を関連付け </a> プログラム。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=ja" target="_blank">スコアリングプログラム</a>を設定して、web サイトやコンテンツでの購買シグナルを監視します。</li></td>
   </tr>
   <tr>
     <td>トークン</td>
-    <td><li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html?lang=ja" target="_blank">トークン</a>.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html?lang=ja" target="_blank"> トークン </a> を設定します。</li>
     <li>定期的に使用されるプログラムタイプでトークンを使用して、効率を高めます。組織が定期的に必要とするトークンを<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens" target="_blank">グローバルフォルダー</a>に実装することを検討してください。</li></td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ ht-degree: 56%
   </tr>
   <tr>
     <td>ランディングページ</td>
-    <td><li>を作成 <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template" target="_blank">自由形式のランディングページテンプレート</a> または <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page" target="_blank">ガイド付きランディングページテンプレート</a> （プログラムで使用）。</li></td>
+    <td><li>プログラムで使用するための <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template" target="_blank"> 自由形式のランディングページテンプレート </a> または <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page" target="_blank"> ガイド付きランディングページテンプレート </a> を作成します。</li></td>
   </tr>
   <tr>
     <td>ローカルフォーム</td>
@@ -98,11 +98,11 @@ ht-degree: 56%
   </tr>
   <tr>
     <td>スマートリスト購読</td>
-    <td><li>の設定 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.html?lang=ja" target="_blank">スマートリスト購読</a> マーケティングアクティビティまたはデータベースで、日次、週次または月次で受け取るレポート（メールのパフォーマンス、ユーザーのパフォーマンスなど）。</li></td>
+    <td><li>毎日、毎週または毎月（例：電子メールのパフォーマンス、ユーザーのパフォーマンスなど）受信するレポートのマーケティングアクティビティまたはデータベースで <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.html?lang=ja" target="_blank"> スマートリスト購読 </a> を設定します。</li></td>
   </tr>
   <tr>
     <td>レポート購読の管理</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=ja" target="_blank">レポートのサブスクリプションの設定</a> マーケティングアクティビティまたは Analytics でを使用する場合 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=ja" target="_blank">基本レポート</a> または <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=ja" target="_blank">収益サイクル エクスプローラーレポート</a>.</li></td>
+    <td><li>マーケティングアクティビティまたは Analytics で <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=ja" target="_blank"> レポート購読を設定 </a> して <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=ja" target="_blank"> 基本レポート </a> または <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=ja" target="_blank"> 収益サイクルのエクスプローラーレポート </a> を作成します。</li></td>
   </tr>
 </tbody>
 </table>
@@ -153,8 +153,8 @@ ht-degree: 56%
   </tr>
   <tr>
     <td>購読センター</td>
-    <td><li>を設定するメリットを学ぶ <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=ja" target="_blank">購読/環境設定センター</a>.</li>
-    <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：これを設定する方法は 1 つではないため、にアクセスすることをお勧めします <a href="https://nation.marketo.com/" target="_blank">マーケティング民族共同体</a> さらに、「Subscription センター」を検索すると、ピアが使用している様々な方法を確認でき、ニーズに最適な方法を選択できます。</td></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=ja" target="_blank"> サブスクリプション/環境設定センター </a> を設定するメリットについて説明します。</li>
+    <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：これを設定する方法はないので、<a href="https://nation.marketo.com/" target="_blank"> マーケティングネーションコミュニティ </a> にアクセスし、「サブスクリプションセンター」を検索して、ピアが使用している様々な方法を確認し、ニーズに最適な方法を選択することをお勧めします。</td></td>
   </tr>
   <tr>
     <td>メール配信品質</td>

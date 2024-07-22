@@ -16,7 +16,7 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->以前に Sales Insight にすべてのプロファイルへのアクセス権を付与している場合は、 [プロファイルレベルアクセスの削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} をクリックして、この権限セットを使用します。
+>以前に Sales Insight にすべてのプロファイルへのアクセス権を付与した場合、この権限セットを使用するには [ プロファイルレベルのアクセス権を削除 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} する必要があります。
 
 ## Sales Insight 用の新しいプロファイルの作成 {#create-a-new-profile-for-sales-insight}
 

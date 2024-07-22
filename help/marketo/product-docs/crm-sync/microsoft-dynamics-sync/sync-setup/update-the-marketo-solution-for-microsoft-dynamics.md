@@ -6,8 +6,8 @@ exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/admin.png)
 
-1. クリック **[!DNL Microsoft Dynamics]**.
+1. 「**[!DNL Microsoft Dynamics]**」をクリックします。
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 

@@ -5,7 +5,7 @@ title: 「管理者メール」セクションから登録解除テキストの�
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
 source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
 

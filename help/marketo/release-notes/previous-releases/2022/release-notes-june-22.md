@@ -38,8 +38,8 @@ ht-degree: 96%
 
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [ メールの詳細表示 ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [ メールリスト表示 ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
@@ -63,7 +63,7 @@ ht-degree: 96%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API の定年プランの詳細については、 [ここ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API 廃止プランについて詳しくは、[ こちら ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"} をクリックしてください。
 
 ## API の強化 {#api-enhancements}
 
@@ -77,4 +77,4 @@ ht-degree: 96%
 
 **_製品リリースウェビナー_**
 
-[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -1,10 +1,10 @@
 ---
 description: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由- Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由
-exl-id: 0836876d-1b89-4464-a841-81320a6e45fd
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '327'
 ht-degree: 100%
 
 ---

@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/leadlifecycle.jpg)
 
-1. 「**[!UICONTROL 名前]**」を入力し、ドロップダウンから&#x200B;**[[!UICONTROL チャネル]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**&#x200B;を選択して、「**[!UICONTROL 作成]**」をクリックします。
+1. **[!UICONTROL 名前]** を入力し、ドロップダウンで **[[!UICONTROL チャネル]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** を選択して、**[!UICONTROL 作成]** をクリックします。
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 

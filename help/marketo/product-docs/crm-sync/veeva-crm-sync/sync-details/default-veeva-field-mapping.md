@@ -1,5 +1,5 @@
 ---
-description: デフォルトの Veeva フィールドマッピング — Marketoドキュメント — 製品ドキュメント
+description: デフォルトの Veeva フィールドマッピング - Marketo ドキュメント – 製品ドキュメント
 title: デフォルトの Veeva フィールドマッピング
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # デフォルトの Veeva フィールドマッピング {#default-veeva-field-mapping}
 
-Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは組み込みの Veeva フィールドとMarketoフィールドの間でこれらの関連付けを自動的におこないます。 Marketoは、アカウントと連絡先のカスタムフィールドも同期します。
+Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは、組み込みの Veeva フィールドとMarketo フィールドの間で自動的にこれらの関連付けを行います。 Marketoは、アカウントおよび連絡先のカスタムフィールドも同期します。
 
 ## 連絡先フィールド {#contact-fields}
 
@@ -192,7 +192,7 @@ Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは�
   </tbody>
 </table>
 
-## Marketoの Veeva 関連システムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
+## Marketoの Veeva 関連のシステムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
 
 これらのフィールドはMarketoで作成されますが、お客様が調整することはできません。
 
@@ -214,7 +214,7 @@ Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは�
     </tr>
     <tr>
       <td>Veeva タイプ</td>
-      <td>取引先責任者. 空の場合、リードは Marketo にのみ存在します</td>
+      <td>連絡先。 空の場合、リードは Marketo にのみ存在します</td>
     </tr>
     <tr>
       <td>Veeva 作成日</td>
