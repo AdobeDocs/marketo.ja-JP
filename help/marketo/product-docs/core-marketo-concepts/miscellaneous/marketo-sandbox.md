@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: Marketo サンドボックス - Marketo ドキュメント - 製品ドキュメント
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 94%
+source-wordcount: '287'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,6 @@ Marketo サンドボックスが既に実稼動インスタンスと同期され
 
 ## サンドボックスについて知っておくべきこと {#things-to-know-about-sandboxes}
 
-* アドビアカウントチームがサンドボックスを設定し、招待を送信したら、Marketo 実稼動インスタンスとは別のメールアドレスを使用してログインする必要があります。
 * ユーザーを追加する場合のプロセスは、[実稼動環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
 * Marketo サンドボックスは空で始まりますが、実稼動インスタンスと同じ機能を使用できます。
 * サンドボックスでプログラムを作成し、それを実稼動環境に移動する場合は、[プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)を実行できます。
