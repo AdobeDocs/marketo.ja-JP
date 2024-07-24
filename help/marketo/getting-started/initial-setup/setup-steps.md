@@ -4,10 +4,10 @@ short-description: Adobe Marketo Engageを使い始めたばかりでも、 で�
 title: 設定手順
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 84%
+source-wordcount: '1705'
+ht-degree: 83%
 
 ---
 
@@ -187,13 +187,13 @@ include: mktomail.com
 
 `b.`DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成してください。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
-**`[DKIMDomain1]`**：ホストレコードが **`[HostRecord1]`** で、TXT 値が **[TXTValue1]**.です。
+**`[DKIMDomain1]`**：ホストレコードが **`[HostRecord1]`** で、TXT 値が **`[TXTValue1]`** です。
 
 **`[DKIMDomain2]`**：ホストレコードが **`[HostRecord2]`** で、TXT 値が **`[TXTValue2]`** です。
 
 `[`[こちらの手順に従って](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)、設定した **DKIMDomain** ごとに **HostRecord** と **TXTValue** をコピーします。IT スタッフがこの手順を完了したら、必ず&#x200B;**管理者／メール／DKIM** で各ドメインを確認してください。`]`
 
-`5)` **[FromDomain1]**、**[FromDomain2]** など、送信元ドメインに有効な MX レコードがある必要があります。確認できますか？そうでない場合は、会社のドメイン MX レコードにマッピングするように設定してください。これにより、Marketo 宛ての返信／自動応答を確実に処理できます。
+`5)` FROM ドメイン **`[FromDomain1]`**、**`[FromDomain2]`** などに有効な MX レコードがあることを確認する必要があります。 確認できますか？そうでない場合は、会社のドメイン MX レコードにマッピングするように設定してください。これにより、Marketo 宛ての返信／自動応答を確実に処理できます。
 
 これらの手順が完了したらお知らせください。Marketo で設定プロセスを完了します。
 
