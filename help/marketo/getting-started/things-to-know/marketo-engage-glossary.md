@@ -1,6 +1,6 @@
 ---
 description: Marketo Engage 用語集 - Marketo ドキュメント - 製品ドキュメント
-short-description: すばやく作業を開始できるように、Marketo Engageの用語とその定義について説明します。
+short-description: すばやく作業を開始できるように、Marketo Engage の用語とその定義について説明します。
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed

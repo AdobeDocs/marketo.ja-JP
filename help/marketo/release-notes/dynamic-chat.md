@@ -1,24 +1,24 @@
 ---
-description: Dynamic Chatリリースノート - Marketo ドキュメント – 製品ドキュメント
-title: Dynamic Chatリリースノート
+description: Dynamic Chat のリリースノート - Marketo ドキュメント - 製品ドキュメント
+title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '1472'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Dynamic Chatリリースノート {#dynamic-chat-release}
+# Dynamic Chat リリースノート {#dynamic-chat-release}
 
 Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対する、よりスケーラブルなアプローチが可能になります。 1 か月に複数のリリースがある場合があるので、定期的に最新の情報を確認してください。
 
 Marketo Engageの標準リリースノートページ [ こちらを参照 ](/help/marketo/release-notes/current.md){target="_blank"} です。
 
-## 2024 年 6 月リリース {#june-release}
+## 2024年6月リリース {#june-release}
 
-**リリース日：2024 年 6 月 6 日**
+**リリース日：2024年6月6日（PT）**
 
 ### 対話型フローカード {#conversational-flow-card}
 
@@ -36,9 +36,9 @@ Marketo Engageの標準リリースノートページ [ こちらを参照 ](/he
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
-## 2024 年 5 月リリース {#may-release}
+## 2024年5月リリース {#may-release}
 
-**リリース日：2024 年 5 月 15 日**
+**リリース日：2024年5月15日（PT）**
 
 ### 事前承認応答ライブラリ {#pre-approved-response-library}
 
@@ -74,9 +74,9 @@ AI で生成された質問と回答の [ マーケティング承認済みラ�
 
 <p>
 
-## 2024 年 4 月リリース {#april-release}
+## 2024年4月リリース {#april-release}
 
-**リリース日：2024 年 4 月 23 日**
+**リリース日：2024年4月23日**
 
 ### すべてのユーザーが対話型フローを利用できるようになりました {#conversational-flows-available-to-all-users}
 
@@ -175,9 +175,9 @@ Dialogs のライブチャット機能は 2023 年にリリースされました
 
 ![](assets/dynamic-chat-release-9.png)
 
-## 2024 年 2 月リリース {#february-release}
+## 2024年2月リリース {#february-release}
 
-**リリース日：2024 年 2 月 22 日**
+**リリース日：2024年2月22日（PT）**
 
 ### 会話ページ {#conversations-page}
 
@@ -193,9 +193,9 @@ Dialogs のライブチャット機能は 2023 年にリリースされました
 
 条件付きブランチを使用すると、様々な条件に基づいてダイアログフローにブランチを作成できます。 現在は、Marketo Engageにおけるリード属性と会社属性に基づいて、同じダイアログで異なるユーザーに異なるコンテンツを表示できます。
 
-## 2024 年 1 月リリース {#january-release}
+## 2024年1月リリース {#january-release}
 
-**リリース日：2024 年 1 月 24 日**
+**リリース日：2024年1月24日**
 
 ### エージェント管理の同時ライブチャット制限設定 {#Concurrent-live-chat-limit-setting}
 

@@ -75,7 +75,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **新しい開発者向けドキュメントサイト**:Marketo Engageユーザーエクスペリエンスを向上させるための継続的な取り組みの一環として、2024 年 7 月にすべての開発者向けドキュメントをAdobe Experience LeagueおよびAdobe Developer web サイトに移行する予定です。 [ 詳細情報 ](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+* **新しい開発者向けドキュメントサイト**:Marketo Engageユーザーエクスペリエンスを向上させるための継続的な取り組みの一環として、2024 年 7 月にすべての開発者向けドキュメントをAdobe Experience LeagueおよびAdobe Developer web サイトに移行する予定です。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
 
 * **クエリパラメーターの廃止におけるアクセストークン**:Marketo Engageの REST API 呼び出しのクエリパラメーターでアクセストークンを使用した認証のサポートは、将来のリリースで削除される予定です（具体的な日付は未定）。 既存の統合は、Authorization ヘッダーの使用に移行する必要があります [ 詳しくは、こちらを参照 ](https://developers.marketo.com/rest-api/authentication/){target="_blank"}。 新しい開発では、Marketo Engageによる認証に Authorization ヘッダーのみを使用する必要があります。
 

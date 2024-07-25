@@ -1,13 +1,13 @@
 ---
-description: 新しいMarketo Engageインスタンスに取り組む前に、継続的に使用するための基本的な手順をいくつか完了する必要があります。 これらの手順には、ユーザーアカウントの設定、管理者の設定のサポート、進行中のシステムアップデートの購読が含まれます。
-short-description: 初期セットアップ手順が完了したら、継続的にスムーズに使用するための基本的な要素を確立する方法を説明します。
+description: 新しい Marketo Engage インスタンスに取り組む前に、継続して使用するための基本的な手順をいくつか完了する必要があります。これらの手順には、ユーザーアカウントの設定、サポート管理者の設定、進行中のシステムアップデートの購読が含まれます。
+short-description: 初期設定手順を完了した後で、スムーズに継続使用するための基本的な要素を確立する方法について説明します。
 title: ユーザー設定チェックリスト
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 description: 設定手順 - Marketo ドキュメント - 製品ドキュメント
-short-description: Adobe Marketo Engageを使い始めたばかりでも、 での作業に入る前に完了する必要がある手順を説明します。
+short-description: Adobe Marketo Engage を使い始めたばかりですか？本格的に始める前に、完了する必要がある手順について説明します。
 title: 設定手順
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 83%
+ht-degree: 84%
 
 ---
 
