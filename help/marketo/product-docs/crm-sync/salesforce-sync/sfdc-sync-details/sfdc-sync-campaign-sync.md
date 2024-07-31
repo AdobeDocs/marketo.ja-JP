@@ -5,7 +5,7 @@ title: SFDC の同期 - キャンペーンの同期
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Marketo では、プログラムと Salesforce キャンペーンの間に 1 対
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-Marketo の&#x200B;**[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**&#x200B;と&#x200B;**[期間原価](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}**&#x200B;は、**キャンペーンタイプ**&#x200B;および&#x200B;**実費**&#x200B;として Salesforce に同期されます。 この同期は Marketo から Salesforce への&#x200B;**一方向**&#x200B;です。
+Marketo の&#x200B;**[キャンペーンタイプ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**&#x200B;と&#x200B;**[実費](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}**&#x200B;は、**キャンペーンタイプ**&#x200B;および&#x200B;**実費**&#x200B;として Salesforce に同期されます。 この同期は Marketo から Salesforce への&#x200B;**一方向**&#x200B;です。
 
 Marketo の&#x200B;**プログラムメンバー**&#x200B;と&#x200B;**[進行状況のステータス](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}**&#x200B;は、**Salesforce キャンペーンメンバー**&#x200B;と&#x200B;**キャンペーンメンバーステータス**&#x200B;に同期されます。これは、**双方向同期**&#x200B;であるため、Marketo または Salesforce でおこなわれた変更は両方のシステムに反映されます。
 
