@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 0%
+source-wordcount: '740'
+ht-degree: 1%
 
 ---
 
@@ -25,19 +25,43 @@ ht-degree: 0%
 * ロゴ
 * 仮想ビデオの背景
 
+## 権限の付与 {#grant-permissions}
+
+組織内のユーザーがインタラクティブウェビナーをカスタマイズする前に、Marketo Engage管理者は、まず目的の役割へのアクセス権を追加する必要があります。
+
+1. Marketo Engage で、「**[!UICONTROL 管理者]**」をクリックします。
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. **[!UICONTROL ユーザーと役割]** をクリックし、「**[!UICONTROL 役割]**」タブをクリックします。
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. 権限を追加する役割をダブルクリックします。
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. クリックして **[!UICONTROL Design Studio にアクセス]** を開きます。
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. 「**[!UICONTROL インタラクティブウェビナーカスタマイズにアクセス]**」チェックボックスを選択します。
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## インタラクティブウェビナー画面のカスタマイズ {#customize-interactive-webinar-screens}
 
 1. **Design Studio** に移動します。
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. **インタラクティブウェビナー** をクリックし、「**ウェビナーをカスタマイズ**」を選択します。
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. ルームインターフェイス、即時画面、仮想ビデオの背景をカスタマイズできます。
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### 部屋のインタフェースをカスタマイズする {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ ht-degree: 0%
 
 1. 右側のパネルで、次の環境設定をカスタマイズします。
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **カスタムロゴ**:「ロゴをアップロード」を選択し、デバイスから画像を参照します。 画像サイズは 50 x 31 ピクセルを超えないようにし、.svg、.gif、.jpg、.png などの様々なファイル形式を使用できます。 ロゴは変更または削除できます。
 
@@ -65,7 +89,7 @@ ht-degree: 0%
 
 1. 「**[!UICONTROL 適用]**」を選択して、変更を保存します。 デフォルトの設定にリセットするには、「**[!UICONTROL デフォルトにリセット]**」をクリックします。
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### 中間画面のカスタマイズ {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ ht-degree: 0%
 
 1. 右側のパネルから、「画像をアップロード **を選択して背景画像をカスタマイズし** ロゴの画像を参照します。 画像サイズは 1920 x 1080 ピクセルを超えないようにし、.svg、.gif、.jpg、.png など、様々なファイル形式にすることができます。 必要に応じて、ロゴを変更または削除できます。
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ ht-degree: 0%
 
 1. 切り替えスイッチをクリックして、イベントと部屋にカスタムの背景を許可します。
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. **背景をアップロード** を選択して、カスタムの背景をアップロードします。 画像サイズは 1920 x 1080 ピクセルを超えないようにし、.svg、.gif、.jpg、.png など、様々なファイル形式にすることができます。
 
@@ -109,6 +133,6 @@ Adobe Connectには、すぐに使用できる 9 つのデフォルトの背景�
 
 切り替えスイッチを使用して、イベントやルームでのこれらのデフォルトの背景の使用を制御します。
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 「**適用**」を選択して変更を保存するか、「**デフォルトにリセット**」を選択してデフォルト設定にリセットします。

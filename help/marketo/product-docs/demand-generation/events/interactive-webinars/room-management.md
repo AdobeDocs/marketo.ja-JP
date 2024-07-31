@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 1%
 
 ---
 
 # 部屋の管理 {#room-management}
 
-Adobe Connectを活用したインタラクティブウェビナールームは、魅力的で共同作業が可能なオンラインイベントを促進するように設計されています。 これらのウェビナーでは、承認された組織メンバーが作成したウェビナールームに、大量のコンテンツと録画を保存します。 部屋を作成する権限を持つメンバーは、一元的な場所から部屋にアクセスして管理できます。
+Adobe Connectを活用したインタラクティブウェビナールームは、魅力的で共同作業が可能なオンラインイベントを促進するように設計されています。 これらのウェビナーでは、ウェビナー中に作成および使用されたコンテンツと録画を保存します。 部屋を作成する権限を持つメンバーは、中央の場所から部屋にアクセスして管理できます。
+
+>[!NOTE]
+>
+>ウェビナー用に作成したルームにのみアクセスでき、組織内の他のメンバーのルームにはアクセスできません。
 
 ## ルームとレコーディングの管理とアクセス {#manage-and-access-rooms-and-recordings}
 
