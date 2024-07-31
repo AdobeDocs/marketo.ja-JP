@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 45%
+source-wordcount: '523'
+ht-degree: 42%
 
 ---
 
@@ -76,6 +76,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 ## お知らせ {#announcements}
 
 * **新しい開発者向けドキュメントサイト**:Marketo Engageユーザーエクスペリエンスを向上させるための継続的な取り組みの一環として、2024 年 7 月にすべての開発者向けドキュメントをAdobe Experience LeagueおよびAdobe Developer web サイトに移行する予定です。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **ソーシャル機能の廃止**:2024 年 7 月 31 日水曜日（PT）に、Marketo Engageは製品内の次のソーシャル機能の廃止を開始します。
+
+   * 投票
+   * SNS ボタン
+   * 紹介オファー
+   * 動画の共有
+   * 懸賞
+
+ユーザーは、これらのソーシャル機能をMarketo Engageで作成、クローン、埋め込むことができなくなります。 既存のソーシャルアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **クエリパラメーターの廃止におけるアクセストークン**:Marketo Engageの REST API 呼び出しのクエリパラメーターでアクセストークンを使用した認証のサポートは、将来のリリースで削除される予定です（具体的な日付は未定）。 既存の統合は、Authorization ヘッダーの使用に移行する必要があります [ 詳しくは、こちらを参照 ](https://developers.marketo.com/rest-api/authentication/){target="_blank"}。 新しい開発では、Marketo Engageによる認証に Authorization ヘッダーのみを使用する必要があります。
 
