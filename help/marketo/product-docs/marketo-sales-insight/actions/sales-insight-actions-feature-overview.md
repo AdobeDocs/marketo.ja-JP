@@ -3,10 +3,10 @@ description: Sales Insight Actions 機能の概要 - Marketo ドキュメント 
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
-source-wordcount: '1388'
-ht-degree: 100%
+source-wordcount: '1361'
+ht-degree: 98%
 
 ---
 
@@ -16,11 +16,7 @@ Sales Insight Actions を使用して、マーケティングを活用したイ�
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce ユーザーインターフェイスと統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
-
->[!AVAILABILITY]
->
->この機能は現在、すべての Sales Insight ユーザーにロールアウトされています。ロールアウトで優先順位を付ける場合は、`sales-insights(at)adobe(dot)com` にメールを送信してください。
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} を通じて Salesforce CRM のみと統合される web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 Sales Insight Actions のビデオの概要については、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
 

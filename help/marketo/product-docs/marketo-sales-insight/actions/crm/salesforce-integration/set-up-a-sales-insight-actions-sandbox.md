@@ -2,10 +2,10 @@
 description: Sales Insight Actions Sandbox の設定 – Marketo ドキュメント – 製品ドキュメント
 title: Sales Insight Actions サンドボックスの設定
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 7%
+ht-degree: 3%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce ユーザーインターフェイスと統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} を通じて Salesforce CRM のみと統合される web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 Marketo サンドボックスがある場合、Actions インスタンスを、テスト目的でサンドボックスと共に使用できるようにすることができます。
 
