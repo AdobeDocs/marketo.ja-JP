@@ -3,9 +3,9 @@ description: リリースノート - 2024年3月 - Marketo ドキュメント - 
 title: リリースノート - 2024年3月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '350'
 ht-degree: 79%
 
 ---
@@ -52,8 +52,8 @@ ht-degree: 79%
   </tr>
     <tr> 
    <td><strong>API アクティビティメタデータ</strong>：ユーザーエージェント、プラットフォーム、デバイスなどのメタデータが Web アクティビティと電子メールアクティビティに含まれるようになり、Marketo REST API を介してこれらのアクティビティに対する一貫したインサイトを提供できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
  </tbody> 
 </table>

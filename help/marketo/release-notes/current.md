@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 42%
+source-wordcount: '521'
+ht-degree: 41%
 
 ---
 
@@ -33,8 +33,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong> インタラクティブウェビナーのエンゲージメントダッシュボード </strong>：集計ウェビナーのパフォーマンスビューと、ウェビナー中の各出席者のエンゲージメントの包括的なビューを取得します。これにより、Marketo Engageオーケストレーションツールを使用して、どのリードをターゲットにするかを決定できます。</td> 
-    <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+    <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">エンゲージメントダッシュボード</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong> インタラクティブウェビナーのルーム管理 </strong>：作成された個々のルームへのアクセス（および必要に応じた変更）と、コンテンツおよび録画へのアクセス（およびストレージの最適化に必要な場合は消去）。</td> 
-    <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+    <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">部屋の管理</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong> インタラクティブウェビナーのウェビナーカスタマイズ </strong>：共通のルームインターフェイス、中間画面（出席者のエントリ画面背景など）、カスタムビデオ背景を使用して、組織が承認した統一したブランドエクスペリエンスを提供し、ウェビナー戦略をブランド戦略とより簡単に一致させます。</td> 
-    <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+    <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">インタラクティブウェビナーのカスタマイズ</a></td>
   </tr>
   <tr> 
    <td> </td> 
