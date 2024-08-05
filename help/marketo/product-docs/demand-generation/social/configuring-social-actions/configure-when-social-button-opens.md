@@ -4,16 +4,20 @@ description: ソーシャルボタンを開くタイミングの設定 - Marketo
 title: ソーシャルボタンを開くタイミングの設定
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 83%
 
 ---
 
 # ソーシャルボタンを開くタイミングの設定 {#configure-when-social-button-opens}
 
 [ソーシャルボタン](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)を作成する際に、ボタンが共有プロンプトを表示するタイミングを設定できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

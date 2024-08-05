@@ -4,16 +4,20 @@ description: Social アプリ用ユーザーキャプチャの設定 - Marketo �
 title: Social アプリ用ユーザーキャプチャの設定
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '202'
+ht-degree: 87%
 
 ---
 
 # Social アプリ用ユーザーキャプチャの設定 {#configure-person-capture-for-a-social-app}
 
 [紹介オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[スイープステーク](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成する際には、参加するユーザーに対し、どの情報をリクエストし、どの情報を必須とするかを設定できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

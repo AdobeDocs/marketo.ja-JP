@@ -4,16 +4,20 @@ description: 投票の作成 - Marketo ドキュメント - 製品ドキュメ�
 title: 投票の作成
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 91%
 
 ---
 
 # 投票の作成 {#create-a-poll}
 
 自分で参加し、ソーシャルネットワーク上で友達と共有できる投票にユーザをエンゲージします。ランディングページ、web サイト、Facebook などの場所に追加できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

@@ -4,16 +4,20 @@ description: 紹介オファー達成メールの送信 - Marketo ドキュメ�
 title: 紹介オファー達成メールの送信
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 97%
+source-wordcount: '200'
+ht-degree: 85%
 
 ---
 
 # 紹介オファー達成メールの送信 {#send-referral-offer-fulfillment-email}
 
 オファーの達成メールを使用して、クーポンおよび割引コードで顧客に報酬を与えます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

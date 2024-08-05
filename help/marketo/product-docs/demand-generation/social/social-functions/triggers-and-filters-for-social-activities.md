@@ -4,16 +4,20 @@ description: ソーシャルアクティビティのトリガーとフィルタ�
 title: ソーシャルアクティビティのトリガーとフィルター
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 86%
 
 ---
 
 # ソーシャルアクティビティのトリガーとフィルター {#triggers-and-filters-for-social-activities}
 
 Marketo のソーシャルアプリには、独自の特殊なトリガーとフィルターがあります。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

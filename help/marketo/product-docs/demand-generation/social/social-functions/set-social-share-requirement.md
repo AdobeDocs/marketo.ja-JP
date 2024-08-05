@@ -4,16 +4,20 @@ description: ソーシャル共有要件の設定 - Marketo ドキュメント -
 title: ソーシャル共有要件の設定
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 80%
 
 ---
 
 # ソーシャル共有要件の設定 {#set-social-share-requirement}
 
 [紹介オファーを作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)する場合、新規登録するためにオファーを共有することを必須またはオプションにできます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティング活動**&#x200B;に移動します。
 

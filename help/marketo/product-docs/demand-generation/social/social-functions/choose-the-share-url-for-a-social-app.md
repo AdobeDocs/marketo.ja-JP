@@ -4,16 +4,20 @@ description: ソーシャルアプリの共有 URL の選択 - Marketo ドキュ
 title: ソーシャルアプリの共有 URL の選択
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 82%
 
 ---
 
 # ソーシャルアプリの共有 URL の選択 {#choose-the-share-url-for-a-social-app}
 
 ソーシャルアプリを作成する際に、参加者からの投稿で共有する URL を選択できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

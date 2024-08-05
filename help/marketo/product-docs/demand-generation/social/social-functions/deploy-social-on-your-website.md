@@ -4,10 +4,10 @@ description: Web サイトへのソーシャルのデプロイ — Marketo ド�
 title: Web サイトへのソーシャルのデプロイ
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 100%
+source-wordcount: '264'
+ht-degree: 90%
 
 ---
 
@@ -15,9 +15,13 @@ ht-degree: 100%
 
 ソーシャルアプリを Marketo 以外のページに埋め込みます。
 
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->詳しくは、セールス担当者にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 オーディエンスを魅了し、誰もがソーシャルネットワーク上のより大きな会話に参加できるように、ソーシャルアプリを独自の Web サイトにデプロイできます。ユーザーがソーシャルネットワーク上でプロモーションやコンテンツを友達と共有すると、サイト上でより多くのトラフィックが生成されます。
 

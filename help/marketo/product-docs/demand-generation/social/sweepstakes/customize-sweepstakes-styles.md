@@ -3,16 +3,20 @@ unique-page-id: 2359807
 description: 懸賞のスタイルのカスタマイズ - Marketo ドキュメント - 製品ドキュメント
 title: 懸賞スタイルのカスタマイズ
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 86%
 
 ---
 
 # 懸賞スタイルのカスタマイズ {#customize-sweepstakes-styles}
 
 [懸賞を作成する](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)場合、ランディングページでの表示をカスタマイズできます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

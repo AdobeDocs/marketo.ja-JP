@@ -4,16 +4,20 @@ description: ソーシャルアプリの再共有メールの設定とプロン�
 title: ソーシャルアプリの再共有メールの設定とプロンプト
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 87%
 
 ---
 
 # ソーシャルアプリの再共有メールの設定とプロンプト {#configure-re-share-email-and-prompt-for-a-social-app}
 
 [紹介オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)または[懸賞](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)を作成する際に、参加者に新規登録プロセスの一環として友達とオファーを共有するよう招待したり、共有メールのデフォルトテキストを提供したりできます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

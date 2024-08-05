@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: スイープステークの公開 - Marketo ドキュメント - 製品ドキュメント
 title: スイープステークの公開
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 87%
 
 ---
 
 # スイープステークの公開 {#publish-a-sweepstakes}
 
 [懸賞を作成](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)したら、Marketo のランディングページ、Web サイトおよび Facebook に投稿できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

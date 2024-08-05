@@ -4,16 +4,20 @@ description: Social の新規登録／共有フローの設定 - Marketo ドキ�
 title: Social の新規登録／共有フローの設定
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 100%
+source-wordcount: '507'
+ht-degree: 84%
 
 ---
 
 # Social の新規登録／共有フローの設定 {#configure-social-sign-up-share-flow}
 
 ソーシャルアプリを作成する際、ユーザーが新規登録すると表示されるソーシャルネットワークの選択肢とプロンプトを設定できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 共有するネットワークの選択 {#select-networks-for-sharing}
 
@@ -47,7 +51,7 @@ ht-degree: 100%
    >
    >ビデオ共有では、サムネールが自動的に生成されます。
 
-   「**動的コンテンツを追加**」を選択すると、ページの **OpenGraph** タグ（og:title、og:caption、および og:description）の値とサムネールが Facebook の投稿に自動で追加されます。次の手順を参照してください。
+   **動的コンテンツを追加** を選択すると、ページの **OpenGraph** タグ（og:title、og:caption、og:description）とサムネールの値がFacebookの投稿に自動的に追加されます。 次の手順を参照してください。
 
    「**静的コンテンツを追加**」を選択した場合は、タイトル、キャプション、説明を入力し、画像をアップロードします。次の 2 つの手順を参照してください。
 
@@ -75,7 +79,7 @@ ht-degree: 100%
 
 1. 「**次へ**」をクリックします。
 
-ページのタグ（og:title、og:caption および og:description）の値を選択すると、サムネールが Facebook の投稿に自動的に追加されます。次の手順を参照してください。
+ページのタグ（og:title、og:caption および og:description）の値を選択すると、サムネールがFacebookの投稿に自動的に追加されます。 次の手順を参照してください。
 
 ## Twitter メッセージの設定 {#configure-the-twitter-message}
 

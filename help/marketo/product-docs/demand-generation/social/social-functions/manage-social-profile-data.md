@@ -4,16 +4,20 @@ description: ソーシャルプロファイルデータの管理 — Marketo ド
 title: ソーシャルプロファイルデータの管理
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 100%
+source-wordcount: '338'
+ht-degree: 92%
 
 ---
 
 # ソーシャルプロファイルデータの管理 {#manage-social-profile-data}
 
 ユーザーが Marketo [ソーシャルアプリ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)を使用する、または、ソーシャルネットワークで Marketo フォームに事前に[ソーシャルフォームの入力](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)を許可すると、Marketo はユーザーのソーシャルプロファイルから使用可能なすべてのデータを取り込みます。この情報は、[ユーザーの詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)で確認できます。また、[スマートリストのカスタム表示](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)で列として追加することもできます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ソーシャルフォームの入力とソーシャルアプリで取り込まれるフィールドのセットは少し異なります。以下の各節を参照してください。
 

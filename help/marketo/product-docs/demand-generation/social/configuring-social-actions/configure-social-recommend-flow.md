@@ -4,16 +4,20 @@ description: ソーシャル推奨フローの設定 - Marketo ドキュメン�
 title: ソーシャル推奨フローの設定
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 100%
+source-wordcount: '541'
+ht-degree: 95%
 
 ---
 
 # ソーシャル推奨フローの設定 {#configure-social-recommend-flow}
 
 ソーシャルアプリを作成する際、ユーザーが新規登録すると表示されるソーシャルネットワークの選択肢とプロンプトを設定できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 共有するネットワークの選択 {#select-networks-for-sharing}
 

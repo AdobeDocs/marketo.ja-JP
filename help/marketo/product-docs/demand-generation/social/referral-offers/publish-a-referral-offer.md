@@ -4,16 +4,20 @@ description: 紹介オファーの公開 - Marketo ドキュメント - 製品�
 title: 紹介オファーの公開
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 55%
 
 ---
 
 # 紹介オファーの公開 {#publish-a-referral-offer}
 
-[紹介オファーの作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)後、Marketo ランディングページ、Facebook、Web サイトに公開できます。
+[ 紹介オファーを作成 ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) した後は、Marketoのランディングページ、Facebookおよび web サイトで公開できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. ランディングページに移動し、編集用に開きます。
 
@@ -31,7 +35,7 @@ ht-degree: 100%
 >
 >ここで紹介オファーを利用できるようにするには、承認する必要があります。
 
-これで完了です。ランディングページを承認すると、紹介オファーが有効になります。また、[ランディングページを Facebook に公開](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)したり、[web サイトにオファーを投稿](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりできます。
+これで完了です。ランディングページを承認すると、紹介オファーが有効になります。また、[ ランディングページをFacebookに公開する ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) または [ オファーを web サイトに配置する ](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md) こともできます。
 
 >[!TIP]
 >

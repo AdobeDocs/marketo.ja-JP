@@ -4,16 +4,20 @@ description: ソーシャルアプリボタンのカスタマイズ - Marketo �
 title: ソーシャルアプリボタンのカスタマイズ
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 100%
+source-wordcount: '220'
+ht-degree: 88%
 
 ---
 
 # ソーシャルアプリボタンのカスタマイズ {#customize-social-app-button}
 
 [ソーシャルボタン](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)または[紹介オファー](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)を作成する際に、ボタンの表示方法をカスタマイズできます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

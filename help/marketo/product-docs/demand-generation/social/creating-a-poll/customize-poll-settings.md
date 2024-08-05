@@ -4,16 +4,20 @@ description: 投票設定のカスタマイズ — Marketo ドキュメント �
 title: 投票設定のカスタマイズ
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 77%
 
 ---
 
 # 投票設定のカスタマイズ {#customize-poll-settings}
 
 [投票を作成する](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)場合、1 つのソーシャルプロファイルに対して許可される投票数を制限できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

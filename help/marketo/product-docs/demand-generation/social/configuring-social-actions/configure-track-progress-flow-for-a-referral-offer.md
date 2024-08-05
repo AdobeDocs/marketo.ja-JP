@@ -4,16 +4,20 @@ description: 紹介オファーの進捗状況トラックフローの設定 - M
 title: 紹介オファーの進捗状況トラックフローの設定
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 87%
 
 ---
 
 # 紹介オファーの進捗状況トラックフローの設定 {#configure-track-progress-flow-for-a-referral-offer}
 
 [紹介オファーを作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)する場合、参加者に表示される報酬に対する進行状況を示すプロンプトを設定できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティング活動**&#x200B;に移動します。
 

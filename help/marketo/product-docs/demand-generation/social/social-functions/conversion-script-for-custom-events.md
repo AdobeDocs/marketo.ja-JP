@@ -4,16 +4,20 @@ description: カスタムイベントのコンバージョンスクリプト —
 title: カスタムイベントのコンバージョンスクリプト
 exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '304'
+ht-degree: 91%
 
 ---
 
 # カスタムイベントのコンバージョンスクリプト {#conversion-script-for-custom-events}
 
 紹介オファーを作成する際に、達成目標を定義します。目標に対するアクションが、独自の Web ページ上の特定のイベントである場合は、コンバージョンスクリプトを使用して JavaScript API を呼び出すことができます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## コンバージョンスクリプトの取得 {#retrieve-the-conversion-script}
 

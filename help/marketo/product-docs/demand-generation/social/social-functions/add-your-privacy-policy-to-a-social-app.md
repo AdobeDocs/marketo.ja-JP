@@ -4,16 +4,20 @@ description: ソーシャルアプリへのプライバシーポリシーの追�
 title: ソーシャルアプリへのプライバシーポリシーの追加
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 74%
 
 ---
 
 # ソーシャルアプリへのプライバシーポリシーの追加 {#add-your-privacy-policy-to-a-social-app}
 
 ソーシャルアプリを作成する際に、会社のプライバシーポリシーへのリンクを追加できます。
+
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

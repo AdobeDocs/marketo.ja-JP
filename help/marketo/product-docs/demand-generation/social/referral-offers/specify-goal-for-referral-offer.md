@@ -4,10 +4,10 @@ description: 紹介オファーの目標を指定する - Marketo ドキュメ�
 title: 紹介オファーの目標を指定する
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '326'
+ht-degree: 84%
 
 ---
 
@@ -15,7 +15,11 @@ ht-degree: 100%
 
 [紹介オファーを作成](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)する場合、達成目標を定義する必要があります。目標は、ページ訪問数や新規登録数など、Web ページ上のユーザーのアクティビティによって定義できます。さらに、[カスタム JavaScript イベント](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)を使用することもできます。
 
-また、Marketo のスマートリストトリガーを使用して、参照元に対して商談が作成されるなど、任意のマイルストーンを待つこともできます。
+>[!IMPORTANT]
+>
+>2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+または、Marketo Engageでスマートリストトリガーを使用して、参照されている人物の商談が作成されるなど、マイルストーンを待つこともできます。
 
 目標の例：
 
