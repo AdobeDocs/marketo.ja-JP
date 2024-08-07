@@ -4,7 +4,7 @@ title: 継承インスタンス マーケティングアクティビティのチ
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
 source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '809'
 ht-degree: 100%
 

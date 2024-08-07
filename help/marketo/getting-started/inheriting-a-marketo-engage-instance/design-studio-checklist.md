@@ -4,7 +4,7 @@ title: 継承インスタンスデザインスタジオのチェックリスト
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
 source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '561'
 ht-degree: 100%
 

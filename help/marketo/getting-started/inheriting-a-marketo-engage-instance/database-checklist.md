@@ -4,7 +4,7 @@ title: 継承インスタンスデータベースのチェックリスト
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
 source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
 ht-degree: 100%
 
