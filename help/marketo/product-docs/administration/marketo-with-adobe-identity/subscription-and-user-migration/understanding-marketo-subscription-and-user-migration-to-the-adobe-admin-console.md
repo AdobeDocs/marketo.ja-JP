@@ -3,10 +3,10 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
 workflow-type: tm+mt
-source-wordcount: '1379'
-ht-degree: 98%
+source-wordcount: '1440'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,10 @@ ht-degree: 98%
 * **製品管理者が Adobe Admin Console でユーザとそのアクセスを管理します**。すべてのアドビサブスクリプションのユーザを追加および削除します。Adobe Admin Console は、ユーザベースのアクセス有効期限をサポートしていません。移行後に期限切れになる予定の Marketo Engage アクセス権を持つユーザも移行され、無期限のアクセス権が付与されます。移行後は、目的の有効期限日に（またはその日付前に）手動で削除する必要があります。
 
 * **ユーザは Adobe ID でログインします**。アドビでは、既存のユーザを Adobe Admin Console に移行します。ユーザは、新しい Adobe ID（Adobe ID または Adobe Federated ID（SSO）のいずれか）を使用して、Marketo サブスクリプションにログインします。
+
+* **移行後に URL が異なって見えます**。 ただし、アセットの ID 番号は変わりません。 そして以前に保存されたブックマークはまだ正しい場所に移動する必要があります。 IT チームに問い合わせて、以下にドメイン（アスタリスクを含む）を追加し、すべてのMarketo Engageリソースと Web ソケットを許可していることを確認します。
+
+_*.experience.adobe.com_
 
 ## 変更されていない点 {#what-is-not-changing}
 
@@ -116,6 +120,7 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 >[!MORELIKETHIS]
 >
->* [Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobe ID への移行の概要 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Adobe ID を使用したユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management に関するよくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [AdobeIdentity Managementへの移行チュートリアル ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
