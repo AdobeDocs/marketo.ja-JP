@@ -2,7 +2,7 @@
 description: インタラクティブなウェビナーの配信 – Marketo ドキュメント – 製品ドキュメント
 title: インタラクティブなウェビナーの配信
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ ht-degree: 0%
 
 1. 共催者またはプレゼンターの場合は、ウェビナー用に受信したメールのパーソナライズされたリンクをクリックします。
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. オーディオ／ビデオ環境設定を選択して、「**ルームに入る**」をクリックしします。
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. 早期ジョイナに表示するレイアウトを選択します。
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ ht-degree: 0%
 
 1. 必要に応じて、セッションを記録できます。 ルームメニューから **セッションを記録** を選択します。 同じメニューから後で録画を停止できます。
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. セッションは指定した時間に開始されます。
 
 1. 部屋名をクリックします。 ドロップダウンで「**ホストとプレゼンターのエリア**」を選択して、プレゼンテーションチームのバックステージとチャットしたり、メモを共有したりします。 ホストとプレゼンターの領域が画面の右側に開きます。 ホスト/コホストおよびプレゼンターのみが、画面のこの部分を表示できます。
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. セッションが完了したら、赤い矢印アイコンをクリックし、「**すべてのセッションを終了**」を選択します。
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ ht-degree: 0%
 
 1. スケジュールされた開始の 15 分以上前にイベントリンクを開始した参加者には、イベントが開始するのを待つように通知するランディングページが表示されます。
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. 参加者は、オーディオの環境設定を選択し、[ ルームに入る ] をクリックする必要があります。 初めてAdobe Connectルームに参加する参加者には、マイクの許可を得るためのブラウザーポップアップも表示されます。 Adobe Connectでは、参加者が室内で後からマイクを使用できるようにするために、このアクセス権が必要です。
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ ht-degree: 0%
 
 チャットパネル内のディスカッションは記録されません。 チャットパネルはまた、レイアウト内のチャットポッドによって占有されていたであろう不動産を解放します。 したがって、チャットディスカッションによって録画ビューアに価値が追加されない場合は、ルームを設計する際にチャットポッドの代わりにチャットパネルを使用します。
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 詳しくは、[ チャットパネル ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} を参照してください。
 
@@ -115,7 +113,7 @@ ht-degree: 0%
 
 1. レイアウトパネル下部のレンチ アイコンをクリックします。
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. レイアウトパネルから、調整するレイアウトを選択します。 必要に応じて、ポッドを移動、非表示または表示します。 また、共有ポッドに新しいバージョンのプレゼンテーションをアップロードするなど、ポッドのコンテンツを更新することもできます。
 
