@@ -3,10 +3,10 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
-ht-degree: 94%
+source-wordcount: '1513'
+ht-degree: 89%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 94%
 
 * **ユーザは Adobe ID でログインします**。アドビでは、既存のユーザを Adobe Admin Console に移行します。ユーザは、新しい Adobe ID（Adobe ID または Adobe Federated ID（SSO）のいずれか）を使用して、Marketo サブスクリプションにログインします。
 
-* **移行後に URL が異なって見えます**。 ただし、アセットの ID 番号は変わりません。 そして以前に保存されたブックマークはまだ正しい場所に移動する必要があります。 IT チームに問い合わせて、以下にドメイン（アスタリスクを含む）を追加し、すべてのMarketo Engageリソースと Web ソケットを許可していることを確認します。
+* **移行後に URL が異なって見えます**。 移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageアクセスが中断されないように、IT チームと協力して、[ この記事の上部 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} にリストされているすべてのAdobeドメインを許可リストに加えるする必要があります。
 
-_*.experience.adobe.com_
+アセットの ID 番号は同じままです。 また、engage-xx.marketo.com ドメイン上のMarketo Engageアセットへの以前のリンクとブックマーク _今後も_ 機能します）。 ただし、移動先の URL のMarketo Engageインスタンスにログインする必要があります。 例えば、Munchkin ID 123-ABC-456 を持つインスタンスで Smart Campaign のブックマークに移動するには、まず Munchkin ID 123-ABC-456 を持つMarketo Engageインスタンスにログインする必要があります。
 
 ## 変更されていない点 {#what-is-not-changing}
 

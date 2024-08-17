@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
-ht-degree: 94%
+source-wordcount: '1342'
+ht-degree: 89%
 
 ---
 
@@ -28,13 +28,13 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **移行後、Marketo EngageURL は変わりませんか？**
 
-いいえ。URL は移行後に異なって見えます。 ただし、アセットの ID 番号は変わりません。 そして以前に保存されたブックマークはまだ正しい場所に移動する必要があります。
+いいえ。URL は移行後に異なって見えます。
 
 **URL の変更に備えて必要なことはありますか？**
 
-あります。IT チームに問い合わせて、以下にドメイン（アスタリスクを含む）を追加し、すべてのMarketo Engageリソースと Web ソケットを許可していることを確認します。
+あります。移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageアクセスが中断されないように、IT チームと協力して、[ この記事の上部 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} にリストされているすべてのAdobeドメインを許可リストに加えるする必要があります。
 
-_*.experience.adobe.com_
+engage-xx.marketo.com ドメイン上のMarketo Engageアセットへの以前のリンクとブックマーク _今後も_ 機能します。 ただし、移動先の URL のMarketo Engageインスタンスにログインする必要があります。 例えば、Munchkin ID 123-ABC-456 を持つインスタンスで Smart Campaign のブックマークに移動するには、まず Munchkin ID 123-ABC-456 を持つMarketo Engageインスタンスにログインする必要があります。
 
 **製品管理者とアドビ管理者の違いは何ですか。**
 
