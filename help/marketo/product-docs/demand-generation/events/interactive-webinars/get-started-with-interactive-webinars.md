@@ -1,12 +1,10 @@
 ---
 description: インタラクティブウェビナーの概要 – Marketo ドキュメント – 製品ドキュメント
 title: インタラクティブウェビナーの基本を学ぶ
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
+source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,6 +12,8 @@ ht-degree: 0%
 # インタラクティブウェビナーの基本を学ぶ {#get-started-with-interactive-webinars}
 
 [ インタラクティブウェビナーの概要 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} を読み、取り組む準備が整いました。 開始するには、次の手順に従います。
+
+![](assets/get-started-with-interactive-webinars-1.png)
 
 <p>
 
@@ -29,10 +29,10 @@ ht-degree: 0%
 
 **手順 6**:[ インタラクティブウェビナーの配信 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - ウェビナーの紹介に関して知っておく必要のあるすべて。
 
-<p>
+<br>
 
-これで完了です。ウェビナーが終了したら、役に立つ [ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} を使用して、その実行方法を確認します。
+これで完了です。ウェビナーが終了したら、イベントの概要画面の便利なダッシュボードを使用して、ウェビナーの実行方法を確認します。 オーディエンスの詳細なエンゲージメントは、[ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} で確認できます。 ウェビナーエンゲージメントを活用して、[ イベントワークフロー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} のスマートフィルターとトリガーを使用して、パーソナライズされた方法でオーディエンスをターゲティングできます。 [ オンデマンドウェビナー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} を通じてオンデマンドパフォーマンスをトラッキングする方法についても説明します。
 
-このトピックに関するその他のヘルプ記事としては、[ インタラクティブウェビナーのベストプラクティス ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}、ニーズやブランディングを反映した [ ウェビナーをカスタマイズ ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} 方法などがあります。
+このトピックに関するその他のヘルプ記事があります。[ インタラクティブウェビナーのベストプラクティス ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}、ニーズやブランディングを反映する [ ウェビナーをカスタマイズ ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} 方法、[ インタラクティブウェビナーのテンプレート ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} を使用して組織全体のテンプレートを作成する方法、[ ルーム管理 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} で部屋と録画を管理する方法などがあります。
 
 インタラクティブウェビナー（Adobe Connect搭載）をお楽しみください。
