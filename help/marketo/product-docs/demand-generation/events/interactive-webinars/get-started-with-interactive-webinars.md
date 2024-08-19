@@ -4,7 +4,7 @@ title: インタラクティブウェビナーの基本を学ぶ
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # インタラクティブウェビナーの基本を学ぶ {#get-started-with-interactive-webinars}
 
 [ インタラクティブウェビナーの概要 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} を読み、取り組む準備が整いました。 開始するには、次の手順に従います。
+
+<p>
 
 **手順 1**:[ ユーザーを追加 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} - インタラクティブウェビナーアクセス用のユーザーを追加（および必要に応じて後で削除）する方法を説明します。
 
@@ -26,6 +28,8 @@ ht-degree: 0%
 **手順 5**:[ ウェビナーを昇格 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} – 今後のイベントを昇格させる方法に関する貴重なヒントを説明します。
 
 **手順 6**:[ インタラクティブウェビナーの配信 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - ウェビナーの紹介に関して知っておく必要のあるすべて。
+
+<p>
 
 これで完了です。ウェビナーが終了したら、役に立つ [ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} を使用して、その実行方法を確認します。
 
