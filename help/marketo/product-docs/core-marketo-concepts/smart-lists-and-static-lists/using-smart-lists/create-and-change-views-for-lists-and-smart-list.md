@@ -5,19 +5,19 @@ title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
 source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # リストおよびスマートリストのビューの作成と変更 {#create-and-change-views-for-lists-and-smart-list}
 
-スマート・リストには、デフォルトの列セットが表示されます。 列は自由に編集できるのをご存知でしたか？手順は以下のとおりです。
+スマートリストには、デフォルトの列セットが表示されます。列は自由に編集できるのをご存知でしたか？手順は次のとおりです。
 
 ## ビューを作成する {#create-a-view}
 
-1. リストまたはスマート リストに移動し、[**[!UICONTROL ユーザー]**] タブをクリックし、[**[!UICONTROL ビュー]**] ドロップダウンの下の [**[!UICONTROL ビューの作成]**] をクリックします。
+1. リストまたはスマートリストに移動し、「**[!UICONTROL 人物]**」タブで、「**[!UICONTROL 表示]**」ドロップダウンリストから「**[!UICONTROL ビューを作成]**」をクリックします。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 

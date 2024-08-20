@@ -1,27 +1,27 @@
 ---
-description: セキュリティ設定 – Marketo ドキュメント – 製品ドキュメント
+description: セキュリティ設定 - Marketo ドキュメント - 製品ドキュメント
 title: セキュリティ設定
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
 source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# 使用の制限 {#usage-limits}
+# 使用制限 {#usage-limits}
 
 使用制限ページにアクセスして、パッケージ情報や使用制限ステータスなどの重要な情報を確認します。
 
-1. 「設定」で、「**[!UICONTROL 使用制限]**」をクリックします。
+1. 設定で、「**[!UICONTROL 使用制限]**」をクリックします。
 
    ![](assets/usage-limits-1.png)
 
-1. 現在のパッケージ、関与している会話の 1 か月の制限ステータス、およびカレンダー/ライブチャットの席のライフタイムリミットのステータスを表示します。
+1. 現在のパッケージ、エンゲージ済み対話の月別の制限ステータス、カレンダー／ライブチャットのシートの有効制限のステータスを表示します。
 
    ![](assets/usage-limits-2.png)
 
 >[!NOTE]
 >
->毎月の制限は、毎月 1 日に自動的にリセットされます。
+>月別の制限は、毎月の初日に自動的にリセットされます。

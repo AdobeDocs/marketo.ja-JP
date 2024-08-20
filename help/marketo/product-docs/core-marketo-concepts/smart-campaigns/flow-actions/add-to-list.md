@@ -5,7 +5,7 @@ title: リストに追加
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
 ht-degree: 100%
 

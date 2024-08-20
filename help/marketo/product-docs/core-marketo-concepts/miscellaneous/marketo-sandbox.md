@@ -4,19 +4,19 @@ description: Marketo サンドボックス - Marketo ドキュメント - 製品
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # Marketo サンドボックス {#marketo-sandbox}
 
-Marketo Engageサンドボックスは、実稼動環境での実装前にテスト目的で使用される追加のインスタンスです。
+Marketo Engage サンドボックスは、実稼動環境で実装する前にテスト目的で使用される追加のインスタンスです。
 
 >[!AVAILABILITY]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 Marketo サンドボックスが既に実稼動インスタンスと同期されている場合、通常の CRM に同期することはできません。同期に CRM のサンドボックスを使用し、元の同期と同じ手順をすべて実行します。
 

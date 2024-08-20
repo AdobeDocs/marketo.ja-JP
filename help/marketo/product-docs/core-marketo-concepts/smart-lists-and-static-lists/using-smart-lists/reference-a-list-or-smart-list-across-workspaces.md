@@ -5,19 +5,19 @@ title: 複数のワークスペースをまたいだリストやスマートリ�
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
 source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
 # 複数のワークスペースをまたいだリストやスマートリストの参照 {#reference-a-list-or-smart-list-across-workspaces}
 
-リストとスマート・リストをワークスペース間で共有および参照して、データベースから簡単に再使用できます。
+リストとスマートリストは、データベースから簡単に再利用できるように、複数のワークスペースをまたいで共有および参照できます。
 
 >[!NOTE]
 >
->個人パーティション・ルールが適用されます（ワークスペース内のスマート・リストおよび静的リストは、リストのメンバー _および現在のワークスペースのメンバー_ 両方であるユーザーのみを表示します）。
+>人物パーティションルールが適用されます（ワークスペースのスマートリストと静的リストは、リスト&#x200B;_および_&#x200B;現在のワークスペースの両方のメンバーのみを表示します）。
 
 ## リストまたはスマートリストを共有する {#share-a-list-or-smart-list}
 
@@ -37,7 +37,7 @@ ht-degree: 55%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
-1. 共有するリストまたはスマート・リストを新しいフォルダにドラッグ・アンド・ドロップします。
+1. 共有するリストまたはスマートリストを新しいフォルダーにドラッグ＆ドロップします。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
@@ -45,7 +45,7 @@ ht-degree: 55%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. 共有する **[!UICONTROL Workspace]** を選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. 共有する&#x200B;**[!UICONTROL ワークスペース]**&#x200B;を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

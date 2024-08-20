@@ -5,7 +5,7 @@ title: アプリ内メッセージについて
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
 source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '241'
 ht-degree: 100%
 

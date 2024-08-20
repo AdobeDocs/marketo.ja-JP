@@ -5,9 +5,9 @@ title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
 source-git-commit: 97324d932b65020d041f728928d3792140bea71c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 90%
 
 >[!IMPORTANT]
 >
->この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[Adobeアカウントプロファイル ](https://account.adobe.com/profile){target="_blank"} で以下の設定にアクセスできます。
+>この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[アドビアカウントプロファイル](https://account.adobe.com/profile){target="_blank"}で以下に説明する設定にアクセスできます。
 
 ## サポートされている言語 {#supported-languages}
 
@@ -62,6 +62,6 @@ ht-degree: 90%
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-これで完了です。ブラウザーが更新され、変更が反映されていることが確認できます。
+以上です。ブラウザーが更新され、変更が反映されていることが確認できます。
 
 ![](assets/select-your-language-locale-and-time-zone-8.png)

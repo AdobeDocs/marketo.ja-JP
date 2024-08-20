@@ -5,15 +5,15 @@ title: フィルターを検索してスマートリストに追加
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
 # フィルターを検索してスマートリストに追加 {#find-and-add-filters-to-a-smart-list}
 
-[ スマートリストを作成 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} したら、フィルターを追加して [ 定義 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} する必要があります。 フィルターを検索して追加する方法を次に示します。
+[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}したら、フィルターを追加して[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}する必要があります。フィルターを検索して追加する方法を次に示します。
 
 この例では、カリフォルニア州在住で、スコアが 50 を超える人をすべて検索します。
 

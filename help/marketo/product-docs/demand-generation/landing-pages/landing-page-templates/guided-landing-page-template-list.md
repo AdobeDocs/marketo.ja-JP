@@ -5,7 +5,7 @@ title: ガイド付きランディングページテンプレートリスト
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
 ht-degree: 100%
 

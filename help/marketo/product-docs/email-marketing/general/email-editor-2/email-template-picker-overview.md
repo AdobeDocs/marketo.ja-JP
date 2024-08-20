@@ -5,7 +5,7 @@ title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
 source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
 ht-degree: 100%
 

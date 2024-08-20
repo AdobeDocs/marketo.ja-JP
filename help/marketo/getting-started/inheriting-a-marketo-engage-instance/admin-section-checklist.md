@@ -4,9 +4,9 @@ title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1858'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->これは、[AdobeIdentity Management System （IMS） ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に転送されたMarketo Engageのサブスクリプションにのみ適用されます。 サブスクリプションがまだAdobe IMSにオンボードしていない場合は、Marketo Engage/管理者/ユーザーと役割の [ 従来のユーザーの役割と権限 ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} の手順を進めます。
+>[Adobe Identity Management システム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}にオンボードされた Marketo Engage サブスクリプションにのみ適用されます。サブスクリプションに Adobe IMS がまだオンボードされていない場合は、Marketo Engage／管理者／ユーザ＆ロールで、[従来のユーザロールと権限のエクスペリエンス](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}に進みます。
 
 <table> 
  <tbody> 
@@ -281,7 +281,7 @@ ht-degree: 97%
    <td>Munchkin</td> 
    <td><li>Web サイト（Marketo Engage ランディングページ以外）に <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a>は設置されていますか？</li>
 <li>「<a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">トラックしない</a>」ブラウザーリクエストは有効になっていますか？</li>
-<li><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a> は設定されていますか？ 
+<li><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html?lang=ja" target="_blank">Munchkin API</a> は設定されていますか？ 
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：Web サイト上の Munchkin コードの場所に関するドキュメントが見つからない場合は、<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">web ページアクティビティレポート</a>を作成することですべての URL を表示できます。</li></td>
   </tr>
   <tr> 

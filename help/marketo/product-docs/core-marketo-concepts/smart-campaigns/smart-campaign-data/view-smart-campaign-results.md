@@ -5,19 +5,19 @@ title: スマートキャンペーン結果の表示
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーン結果の表示 {#view-smart-campaign-results}
 
-スマートキャンペーンで発生したすべての項目の分類を確認したい場合は、 手順は次のとおりです。
+スマートキャンペーンで発生したすべての内訳を表示するには、手順は次のとおりです。
 
 >[!TIP]
 >
->「[ キャンペーンメンバーの表示 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}」をクリックすると、Smart Campaign で処理されたユーザーのリストを表示できます。
+>スマートキャンペーンで処理された人物のリストを表示するには、「[キャンペーンメンバーを表示](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}」をクリックします。
 
 1. スマートキャンペーンで、「**[!UICONTROL 結果]**」をクリックします。
 
@@ -25,7 +25,7 @@ ht-degree: 44%
 
    >[!TIP]
    >
-   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。スマートキャンペーンの結果のフィルタリング [ 方法を説明 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"} ます。
+   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。詳しくは、[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}を参照してください。
 
 1. **[!UICONTROL ID]** をクリックして、特定のアクティビティの詳細を表示します。
 
@@ -35,7 +35,7 @@ ht-degree: 44%
    >
    >人物の名前をクリックすると、人物の詳細が表示されます。
 
-   結果を詳しく調べて、キャンペーンが実際に何を行ったかを確認するか、単に [ スマートキャンペーンの結果を Excel に書き出す ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"} ことができます。
+   結果を調べて、キャンペーンで実際に行ったことを確認するか、単純に[スマートキャンペーン結果を Excel に書き出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}ます。
 
    >[!MORELIKETHIS]
    >

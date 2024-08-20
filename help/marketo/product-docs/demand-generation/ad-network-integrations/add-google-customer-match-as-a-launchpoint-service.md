@@ -5,7 +5,7 @@ title: Google カスタマーマッチを LaunchPoint サービスとして追�
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
 source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 

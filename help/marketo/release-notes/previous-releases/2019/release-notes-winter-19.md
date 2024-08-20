@@ -5,15 +5,15 @@ title: リリースノート - 19 年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1079'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# リリースノート：19 年冬 {#release-notes-winter}
+# リリースノート：2019年冬 {#release-notes-winter}
 
-19 年冬リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+19 年冬リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください（ある場合）。
 
@@ -40,7 +40,7 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 * **アセット API のマルチブランディングドメインサポート**：アセットの承認と複製により、API と UI 内で同じ結果が得られます。
 * **アセット API のメール CC サポート**：API を使用したメールの複製、承認、処理をおこなうユーザーは、UI 設定と同等の性能を維持します。
 
-**[Munchkin v155（ベータ版）](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[Munchkin v155（ベータ版）](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **API のみのモード**：Marketo の自動追跡に頼るのではなく、単一ページの Web アプリが Web ページへのアクセスを記録するときに明示的に呼び出すことができるようにすることで、データベースのメンバーをいつどのように追跡するかを決定できるようになりました。
 * **オプトアウト管理**：オプトアウト Cookie ドメインを Munchkin トラッキング Cookie ドメインと照合することで、オプトアウトを簡単に管理できます。
@@ -103,9 +103,9 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 **Android 向けのソフトウェア開発キット（SDK）を更新しました**
 
-Android用の SDK を、より柔軟で新しいエンジニアリング機能を含む、より現代的で安定したスケーラブルなフレームワークに更新しました。 Android アプリ開発者は、この新しい SDK で、Google[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) （FCM）を直接使用できるようになりました。
+Android 向け SDK を、より高い柔軟性とより多くの新しいエンジニアリング機能を含む、さらに新しく、安定した、拡張性の高いフレームワークに更新しました。この新しい SDK では、Android アプリデベロッパーが Google の [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)（FCM）を直接使用できるようになりました。
 
-* [ 開発者向け手順 ]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
+* [開発者向け手順]https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
 
 >[!NOTE]
 >

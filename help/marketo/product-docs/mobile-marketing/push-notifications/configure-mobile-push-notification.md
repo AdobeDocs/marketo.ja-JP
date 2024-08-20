@@ -5,9 +5,9 @@ title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '466'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -87,13 +87,13 @@ ht-degree: 77%
 
 ## ディープリンク URI {#deep-link-uris}
 
-購読者がプッシュメッセージのボタンをクリックすると、アプリのホームページに移動したり、アプリ内の特定のページに直接移動したりできます。 ディープリンクは、アプリ内の特定のページへの一意の参照で、web サイトリンクのように見えます。
+購読者がプッシュメッセージのボタンをクリックすると、アプリのホームページに直接移動するか、アプリ内の特定のページに直接移動できます。ディープリンクは、アプリ内の特定のページへの一意の参照で、web サイトリンクのように見えます。
 
-ディープリンク URI は、スキーム名、パス、識別子の 3 つの部分で構成されます。次の例では、「myappname」がスキームです。 「products」はパス、「purple-shirt」は識別子です。 顧客がタップすると、アプリの製品ページ内の紫色のシャツ項目に特に移動します。
+ディープリンク URI は、スキーム名、パス、識別子の 3 つの部分で構成されます。以下の例では、「myappname」がスキームです。「products」はパスで、「purple-shirt」は識別子です。顧客がタップすると、アプリの製品ページ内（具体的には紫色のシャツアイテム）に移動します。
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-ただし、アプリのディープリンク構造は、上記の例とは異なる場合があります。 開発者はディープリンク URI を定義する際に多くのオプションを使用できるので、使用したいページの URI （リンク）を開発者に送信してもらってください。 これにより、プッシュメッセージに入力した URI が適切な場所を指すようになります。デベロッパーが実行できる操作について詳しくは、[こちら](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)をご覧ください。
+ただし、アプリのディープリンク構造は、上記の例とは異なる場合があります。デベロッパーには、ディープリンク URI を定義する多くのオプションがあるので、使用したいページの URI（リンク）をデベロッパーに送信するよう依頼してください。これにより、プッシュメッセージに入力した URI が適切な場所を指すようになります。デベロッパーが実行できる操作について詳しくは、[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)をご覧ください。
 
 >[!MORELIKETHIS]
 >

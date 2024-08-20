@@ -4,9 +4,9 @@ title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1229'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -70,7 +70,7 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
  </tr>
  <tr>
   <td style="width:25%"><strong>対話型フロー</strong></td>
-  <td>会話フローカードを使用して、ダイアログ内のフローの複数のステップを合理化します。</td>
+  <td>対話型フローカードを使用して、ダイアログ内のフローの複数のステップを効率化します。</td>
  </tr>
 </table>
 

@@ -5,15 +5,15 @@ title: 待機フローステップで特定の日付を使用
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # 待機フローステップで特定の日付を使用 {#use-a-specific-date-in-a-wait-flow-step}
 
-「[!UICONTROL  待機 ]」フローステップを使用して、特定の日付までスマートキャンペーンを通過するユーザーのジャーニーを一時停止できます。
+「[!UICONTROL 待機]」フローステップを使用すると、スマートキャンペーンを通じて特定の日付まで個人のジャーニーを一時停止できます。
 
 1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、**[!UICONTROL 待機]**&#x200B;フローステップをドラッグします。
 

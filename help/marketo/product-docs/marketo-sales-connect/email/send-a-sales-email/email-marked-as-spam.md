@@ -5,9 +5,9 @@ title: スパムとしてマークされたメール
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
 source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 **設定を確認しましょう**
 
 * カスタムドメイントラッキング：これにより、すべてのトラッキングリンクが「go.toutapp」の代わりに「go.yourdomain」として表示されます。一部のメールセキュリティでは、メールが「yourdomain」から送信されているが、リンクが go.toutapp にリルーティングされていることがわかります。カスタムドメインリンクトラッキングを実装すると、メールは正当に見え、受信者のインボックスに到達する可能性が高くなります。
-* メール配信チャネル：デフォルトでは、メールは ToutApp サーバーを通じて送信されます。独自の Gmail またはカスタム SMTP を設定することで、メールが受信者のインボックスに到達するチャンスが最大になります。ニーズに合った適切な配信チャネルの選択について詳しくは、[ ここをクリック ](https://nation.marketo.com/docs/DOC-5080){target="_blank"} を参照してください。
+* メール配信チャネル：デフォルトでは、メールは ToutApp サーバーを通じて送信されます。独自の Gmail またはカスタム SMTP を設定することで、メールが受信者のインボックスに到達するチャンスが最大になります。必要に応じて適切な配信チャネルを選択する方法について詳しくは、[こちら](https://nation.marketo.com/docs/DOC-5080){target="_blank"}をクリックしてください。
 
 **メールの動作の確認をしましょう**
 
@@ -28,4 +28,4 @@ ht-degree: 88%
 
 * 住所が記載された完全なメール署名があることを確認します。
 
-* [ スパム対応法 ](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"} に準拠していることを確認します。
+* 読み上げて [CAN-SPAM 法](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business){target="_blank"}に準拠していることを確認します。

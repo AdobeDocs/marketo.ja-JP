@@ -5,15 +5,15 @@ title: リリースノート - 2014年7月
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '425'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2014年7月 {#release-notes-july}
 
-2014年7月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後に、機能に関する詳細なドキュメントへのリンクを参照してください。
+2014年7月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。リリース後に、機能に関する詳細なドキュメントへのリンクを参照してください。
 
 ## マーケティングカレンダー {#marketing-calendar}
 
@@ -31,7 +31,7 @@ Marketo リード管理は、最新でスタイリッシュな新しい外観と
 
 ## 日付演算子 {#date-operators}
 
-[ 過去 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)、「未来」、「未来」の詳細フィルター。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
+「これより以前の過去」、「将来」、「これより先の将来」の[高度なフィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Marketo リード管理は、最新でスタイリッシュな新しい外観と
 
 ## ReST API のリスト操作 {#list-operations-in-the-rest-api}
 
-ReST のリスト操作に関する以下の呼び出しを追加しました。 完全なドキュメントについては ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)0}https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api} を参照してください。[
+ReST のリスト操作に関連する以下の呼び出しを追加しました。完全なドキュメントについては、[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) を参照してください。
 
 * ID によるリストの取得
 * 複数のリストの取得
@@ -56,9 +56,9 @@ ReST のリスト操作に関する以下の呼び出しを追加しました。
 
 ## 高速リストインポート {#fast-list-import}
 
-**50 倍の速さで**、ファイルが Marketo にズームインします。古い「標準」および「新しいリード用に最適化」インポートオプションは、「デフォルト （高速読み込み）」に置き換えられました。
+**50 倍の速さで**、ファイルが Marketo にズームインします。従来の「通常」および「新規リード用に最適化」のインポートオプションは、「デフォルト（高速インポート）」に置き換えられました。
 
-「新しいリードおよびアップデートをスキップ」オプションは変更されません。
+「新規リードと更新をスキップ」オプションは変更されません。
 
 ## 新たに向上した Munchkin {#new-improved-munchkin}
 
@@ -78,7 +78,7 @@ RTP 設定キャンペーンページに、[既製のテンプレートが含ま
 
 ## RTP：JavaScript API の機能強化 {#rtp-javascript-api-enhancements}
 
-組織、業界、場所、セグメントコードの一致など、リアルタイムの訪問者データを取得する、新しい RTP API 呼び出し。さらに、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。詳細なドキュメントについては、[開発者向けサイト](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)を参照してください。
+組織、業界、場所、セグメントコードの一致など、リアルタイムの訪問者データを取得する、新しい RTP API 呼び出し。さらに、セグメントページでセグメント名の上にカーソルを置くと、セグメントコードを示すツールチップが表示されます。詳細なドキュメントについては、[開発者向けサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)を参照してください。
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

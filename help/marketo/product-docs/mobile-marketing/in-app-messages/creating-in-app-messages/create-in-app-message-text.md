@@ -5,9 +5,9 @@ title: アプリ内メッセージテキストの作成
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
 source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '369'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!CAUTION]
 >
->現時点では絵文字は完全にはサポートされていないため、テキストでは使用しないことをお勧めします。
+>現時点では絵文字は完全にはサポートされていないので、テキストでは使用しないことをお勧めします。
 
 1. 「メインテキスト」をクリックしてインラインを編集します。
 

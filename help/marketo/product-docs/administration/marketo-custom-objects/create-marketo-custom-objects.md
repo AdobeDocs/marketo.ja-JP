@@ -5,9 +5,9 @@ title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '698'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
 
    >[!NOTE]
    >
-   >Marketo カスタムオブジェクトの入力は、リストのインポート、または [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 経由でのみ可能です。
+   >Marketo カスタムオブジェクトの入力は、リストのインポート、または [API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) 経由でのみ可能です。
 
 ## 多対多構造のカスタムフィールドの作成 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ ht-degree: 99%
 
    >[!NOTE]
    >
-   >Marketo カスタムオブジェクトの入力は、リストのインポート、または [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 経由でのみ可能です。
+   >Marketo カスタムオブジェクトの入力は、リストのインポート、または [API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) 経由でのみ可能です。
 
 次の手順は、中間オブジェクトを作成します（以下を参照）。ただし、その前に、リンク先のフィールドを作成する必要があります。
 

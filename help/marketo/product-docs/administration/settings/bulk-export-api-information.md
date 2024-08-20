@@ -4,15 +4,15 @@ title: Bulk Export API 情報
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # Bulk Export API 情報 {#bulk-export-api-information}
 
-過去 7 日間に Marketo Engage インスタンスによって使用された [Bulk Extract API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} の処理能力を確認する方法を説明します。
+過去 7 日間に Marketo Engage インスタンスによって使用された [Bulk Extract API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} の処理能力を確認する方法を説明します。
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->Marketo Engageインスタンスの配分は、毎日午前 0 時（CST）にリセットされます。
+>Marketo Engage インスタンスの配分は、CST の午前 0 時に毎日リセットされます。

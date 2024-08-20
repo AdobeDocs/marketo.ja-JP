@@ -5,9 +5,9 @@ title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Web フックを使用すると、サードパーティのサービスとやり�
 
 >[!NOTE]
 >
->[Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} で実現できる魅力的な機能について説明します。
+>[Web フック](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}で実現できる、素晴らしい機能について学びます。
 
-1. ドロップダウンから Webhook を選択します。
+1. ドロップダウンから web フックを選択します。
 
 ![](assets/call-webhook-2.png)
 

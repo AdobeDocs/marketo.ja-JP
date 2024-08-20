@@ -5,7 +5,7 @@ title: データ値の変更
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ title: Microsoft でのタスクの作成
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 67%
 
 マーケターは、取引の成立に関して営業を支援できる情報を持っています。タスクを作成して、タスクの実行内容と実行タイミングを営業に知らせることができます。
 
-Microsoftのタスクを作成を使用すると、[!DNL Microsoft] のユーザー（リードまたは連絡先）に関連するアクティビティの下にタスクを作成できます。
+「Microsoft でタスクを作成」は、[!DNL Microsoft] で人物（リードまたは取引先責任者）に関連するアクティビティの下にタスクを作成します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Microsoftのタスクを作成を使用すると、[!DNL Microsoft] のユーザ
 
 >[!NOTE]
 >
->Marketo Sync User がタスクを作成する場合、[!DNL Microsoft] で作成するタスクには **[!UICONTROL 期限]** が必須フィールドになります。 この値を入力しない場合、Marketo でデフォルトの 5 日が自動入力されます。
+>Marketo 同期ユーザがタスクを作成する場合、[!DNL Microsoft] でタスクを作成するには「**[!UICONTROL 期限]**」が必須フィールドです。この値を入力しない場合、Marketo でデフォルトの 5 日が自動入力されます。
 
 すべてのフィールドをカスタマイズして、目的のタスクを作成します。
 
@@ -35,7 +35,7 @@ Microsoftのタスクを作成を使用すると、[!DNL Microsoft] のユーザ
 
 >[!NOTE]
 >
->フローアクションでタスクに指定された「ステータス」フィールドは、[!DNL Microsoft] の「ステータス理由」フィールドを更新します。
+>「フローアクション」でタスクに対して指定された「ステータス」フィールドにより、[!DNL Microsoft] の「ステータス理由」フィールドが更新されます。
 
 >[!TIP]
 >

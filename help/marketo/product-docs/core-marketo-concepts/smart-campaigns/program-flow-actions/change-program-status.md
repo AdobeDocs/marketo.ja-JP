@@ -5,9 +5,9 @@ title: プログラムステータスの変更
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -33,4 +33,4 @@ ht-degree: 90%
 >
 >人物は、管理者のチャネルエディターで定義された以前のプログラムステータスに戻すことはできません。
 
-ステータスは、人物を追跡したり、レポートを作成したりするための強力なツールです。
+ステータスは、人物を追跡し、レポートを作成する強力なツールです。

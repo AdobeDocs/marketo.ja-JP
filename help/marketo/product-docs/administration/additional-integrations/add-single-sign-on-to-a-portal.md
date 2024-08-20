@@ -5,9 +5,9 @@ title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
 source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '564'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}。
+>これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html?lang=jp){target="_blank"}。
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] ユーザですか？詳しくは、[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレーの状態を `https://<munchkinid>.marketo.com` ではなく **_`https://<munchkinid>.mktoweb.com` に設定_** てください。
+>[!DNL Microsoft Azure] ユーザですか？詳しくは、[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態を `https://<munchkinid>.marketo.com` では&#x200B;**_なく_** `https://<munchkinid>.mktoweb.com` に設定してください。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 

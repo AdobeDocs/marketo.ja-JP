@@ -5,7 +5,7 @@ title: タスクの作成
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 

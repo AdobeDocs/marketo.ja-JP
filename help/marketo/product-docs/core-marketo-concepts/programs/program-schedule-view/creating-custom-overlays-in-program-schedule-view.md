@@ -5,7 +5,7 @@ title: カスタムオーバーレイの作成
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
 source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 

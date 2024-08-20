@@ -3,9 +3,9 @@ title: Marketo 製品ドキュメント
 description: Marketo Engage 製品ドキュメント
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 source-git-commit: 76880d7a2d37cf82ac6a677b08eb8880dc15c24e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -28,10 +28,10 @@ ht-degree: 84%
 
 * [スマートキャンペーンについて](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Adobe Dynamic Chatの概要](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+* [Adobe Dynamic Chat の概要](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
 
 ## リリースノート
 
 * [現在のリリース](/help/marketo/release-notes/current.md)
 
-* [Dynamic Chatリリースノート](/help/marketo/release-notes/dynamic-chat.md)
+* [Dynamic Chat リリースノート](/help/marketo/release-notes/dynamic-chat.md)

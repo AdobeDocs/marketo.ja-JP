@@ -5,9 +5,9 @@ title: Microsoft の所有者の変更
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->このフローステップは、スマートキャンペーンでフィルターではなく _トリガーと共に使用する場合にのみ機能_ します。
+>このフローステップは、スマートキャンペーンで、フィルターではなく、_トリガーで使用された場合にのみ機能_&#x200B;します。
 
 ![](assets/change-owner-in-microsoft-1.png)
 

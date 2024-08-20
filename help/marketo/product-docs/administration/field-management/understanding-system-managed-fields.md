@@ -5,9 +5,9 @@ title: システム管理のフィールドについて
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
 source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '523'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -97,7 +97,7 @@ ht-degree: 94%
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>人物が Salesforce 同期から検出されました</td>
+    <td>人物は Salesforce 同期から検出されました</td>
   </tr>
   <tr>
     <td>Web ページへのアクセス</td>
@@ -124,16 +124,16 @@ ht-degree: 94%
     <td>リードに Sales Insight メールアドイン経由でメールが送信されました</td>
   </tr>
   <tr>
-    <td>リード</td>
+    <td>人物</td>
     <td>リードは Salesforce からリードとして同期されました</td>
   </tr>
   <tr>
     <td>取引先責任者</td>
-    <td>人物が Webhook から連絡先として同期されました</td>
+    <td>人物は web フック から取引先責任者として同期されました</td>
   </tr>
   <tr>
     <td>Munchkin API</td>
-    <td>人物は、Marketo Engage Munchkin API によって検出されました</td>
+    <td>人物は Marketo Engage Munchkin API によって検出されました</td>
   </tr>
   <tr>
     <td>ソーシャルアプリ</td>
@@ -165,7 +165,7 @@ ht-degree: 94%
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>Salesforce 同期を通じて人物になりました</td>
+    <td>Salesforce の同期を通じて人物になりました</td>
   </tr>
   <tr>
     <td>Web フォーム入力</td>
@@ -181,7 +181,7 @@ ht-degree: 94%
   </tr>
   <tr>
     <td>新規人物</td>
-    <td>リードはデータベースに手動で入力されました</td>
+    <td>人物はデータベースに手動で入力されました</td>
   </tr>
   <tr>
     <td>Munchkin API</td>

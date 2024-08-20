@@ -5,9 +5,9 @@ title: 紹介オファーの進捗状況トラックフローの設定
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
 source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 87%
 
 >[!IMPORTANT]
 >
->2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日（PT）に、この機能を廃止するプロセスを開始しました。新しいアセットは作成できなくなりました。既存のアセットは、2025年1月31日（PT）まで引き続き機能します。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 

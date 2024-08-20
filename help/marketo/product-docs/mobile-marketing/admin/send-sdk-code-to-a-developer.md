@@ -1,24 +1,24 @@
 ---
 unique-page-id: 7512448
 description: デベロッパーに SDK コードを送信する - Marketo ドキュメント - 製品ドキュメント
-title: デベロッパーに SDK コードを送信する
+title: 開発者への SDK コードの送信
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# デベロッパーに SDK コードを送信する {#send-sdk-code-to-a-developer}
+# 開発者への SDK コードの送信 {#send-sdk-code-to-a-developer}
 
 アプリ内メッセージやプッシュ通知を作成する前に、デベロッパーに Android および iOS プラットフォーム用の Mobile App SDK を設定し、初期化してもらう必要があります。
 
-* [Android の手順](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [iOS の手順](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Android の手順](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS の手順](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
-## デベロッパーに SDK コードを送信する {#send-sdk-code-to-a-developer-1}
+## 開発者への SDK コードの送信 {#send-sdk-code-to-a-developer-1}
 
 場合によっては、管理者がデベロッパーに SDK コードを送信する必要があります。
 

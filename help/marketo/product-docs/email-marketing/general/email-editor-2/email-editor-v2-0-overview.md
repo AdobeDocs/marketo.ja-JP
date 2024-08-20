@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372299
 description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製品ドキュメント
-title: Email Editor v2.0 の概要
+title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Email Editor v2.0 の概要 {#email-editor-v2-overview}
+# メールエディター v2.0 の概要 {#email-editor-v2-overview}
 
 Email Editor v2.0 を有効化すると、いくつかの新機能に気づかれるでしょう。
 
@@ -103,7 +103,7 @@ Email Editor v2.0 を有効化すると、いくつかの新機能に気づか�
 
 >[!NOTE]
 >
->さらに深く掘り下げたい場合は、こちらの [ ビデオ ](https://nation.marketo.com/videos/1463) をご覧ください。
+>詳しくは、この[ビデオ](https://nation.marketo.com/videos/1463)を参照してください。
 
 >[!MORELIKETHIS]
 >

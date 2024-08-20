@@ -5,15 +5,15 @@ title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '598'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2018年冬 {#release-notes-winter}
 
-2018年冬リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2018年冬リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。**注意**：このリリースに含まれる機能の一部には、関連記事がありません。トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -69,7 +69,7 @@ Velocity のスクリプト記述が、動的コンテンツを使用するメ�
 
 新しい LinkedIn API により、複数の LinkedIn Campaign Manager アカウントにわたって Marketo データベース内のユーザを再ターゲット化できるようになりました。
 
-## Web パーソナライズ {#web-personalization}
+## Web パーソナライズ機能 {#web-personalization}
 
 **Web パーソナライズ用の日本語データソース**
 
@@ -87,7 +87,7 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 ## 統合 {#integration}
 
-**[キャンペーン API の有効化／無効化](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[キャンペーン API の有効化／無効化](https://experienceleague.adobe.com/jp/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 この新しい API を使用すると、トリガーキャンペーンをリモートでアクティブ化および非アクティブ化できるので、完全に自動化されたプログラムテンプレートを作成できます。プログラムテンプレートを 1 回作成すると、複製、マーケティング資料の更新を自動化し、スマートキャンペーンの有効化／スケジュール設定を自動化できます。
 

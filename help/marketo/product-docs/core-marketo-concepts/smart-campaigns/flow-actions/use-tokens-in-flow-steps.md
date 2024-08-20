@@ -5,9 +5,9 @@ title: フローステップでのトークンの使用
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 82%
 >
 >[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-トークンは変数です。電子メール、ランディングページおよびスマートキャンペーンで使用すると、生活が楽になります。 フローステップ、web フック、メール、ランディングページで[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（カスタムトークン）を使用できます。トークンを使用して、次のフローステップに変数コンテンツを含めることができます。
+トークンは変数です。メール、ランディングページ、スマートキャンペーンで使用することで、作業が手軽になります。フローステップ、web フック、メール、ランディングページで[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（カスタムトークン）を使用できます。トークンを使用して、次のフローステップに変数コンテンツを含めることができます。
 
 * データ値の変更
 * プログラムメンバーの変更
 * 注目のアクション
 * Salesforce キャンペーン手順（追加、削除、ステータスの変更）
 * タスクの作成
-* アラートを送信（トリガーキャンペーンのみ）
+* アラートの送信（トリガーキャンペーンのみ）
 
 1. フローステップで、`{{` と入力し始めると、トークンのカテゴリが表示されます。
 
@@ -46,7 +46,7 @@ ht-degree: 82%
    >
    >プログラムメンバーカスタムフィールドトークンは、次の場所で使用できます。タスクの作成、Microsoft でのタスクの作成、注目のアクション、データ値の変更フローアクション、web フック。
 
-   これで完了です。スマートキャンペーンの実行時に、データはトークンから取り込まれます。
+   これで完了です。スマートキャンペーンが実行されると、データがトークンから取り出されます。
 
    >[!MORELIKETHIS]
    >

@@ -5,7 +5,7 @@ title: フィールドへのデータ追加
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
 source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
 ht-degree: 100%
 

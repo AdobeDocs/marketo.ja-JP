@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147009
 description: プログラムの成功を変更 - Marketo ドキュメント - 製品ドキュメント
-title: プログラムの成功を変更
+title: プログラムの成功の変更
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# プログラムの成功を変更 {#change-program-success}
+# プログラムの成功の変更 {#change-program-success}
 
-プログラムの成功が正しくマークされていないユーザーのグループがある場合、このフローステップを使用して成功を true または false に設定できます。
+誤ってプログラムの成功とマークされた人物のグループが存在する場合、このフローステップを使用して、プログラムの成功の true または false を設定できます。
 
 ![](assets/change-program-success-1.png)
 
@@ -41,4 +41,4 @@ ht-degree: 79%
    >
    >このフローステップを 2 回使用して、成功フラグならびに成功日の両方を設定することができます。
 
-これで完了です。成功を解除・修正する方法を理解できました。
+完了です。成功を解除・修正する方法を理解できました。

@@ -5,9 +5,9 @@ title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '546'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 98%
 特定の人物を開く方法は多数あります。以下に例を示します。
 
 * **データベース**&#x200B;から、「クイック検索」で検索できます
-* 任意の **スマート・リスト** またはリスト
+* 任意の&#x200B;**スマートリスト**&#x200B;またはリスト
 * プログラムの「**メンバー**」タブ
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
-  <br> 
+  <br>
 
 1. 任意の人物をダブルクリックするか、左側の ID をシングルクリックします。
 
@@ -60,7 +60,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->CRM と同期されていないインスタンスの商談情報が [API を介して挿入](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)されていることも確認できます。
+>CRM と同期されていないインスタンスの商談情報が [API を介して挿入](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities)されていることも確認できます。
 
 ## フィールドの編集 {#editing-a-field}
 

@@ -5,15 +5,15 @@ title: メールの送信
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
 # メールの送信 {#send-email}
 
-「[!UICONTROL  メールを送信 ]」フローステップは、キャンペーンの一部として、または人物にメールを送信する単一のフローステップとして使用できます。
+「[!UICONTROL メールの送信]」フローステップは、キャンペーンの一部として、または対象人物にメールを送信する単独のフローステップとして使用することができます。
 
 ![](assets/send-email-1.png)
 
@@ -31,4 +31,4 @@ ht-degree: 61%
 
    ![](assets/send-email-3.png)
 
-新しいタブまたはウィンドウが開き、メールを確認できます。
+新規タブ／ウィンドウが開いてメールが表示されます。

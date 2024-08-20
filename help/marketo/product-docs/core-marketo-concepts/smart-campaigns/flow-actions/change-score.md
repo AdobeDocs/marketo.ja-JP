@@ -5,15 +5,15 @@ title: スコアの変更
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # スコアの変更 {#change-score}
 
-ユーザーのスコアリングは簡単で強力なので、セールスチームが優先順位を付けるのに役立ちます。
+人物のスコアリングは、簡単に使える優れた機能であり、セールスチームが優先順位付けをするのに役立ちます。
 
 ![](assets/change-score-1.png)
 
@@ -36,4 +36,4 @@ ht-degree: 71%
    * 値を指定するには「**=5**」のように入力します
    * マイナスの値を指定するには「**=-5**」のように入力します
 
-いくつかの基本的なスコアリングを素早く取得し、結果を経時的に調整します。
+最初は基本的なスコアリングを設定しておき、時間の経過とともに結果を調整します。

@@ -5,17 +5,17 @@ title: スマートキャンペーンでのブロックされた人物の表示
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーンでのブロックされた人物の表示 {#view-blocked-people-in-a-smart-campaign}
 
-Marketo Engageデータベース内のブロックされたユーザーは、マークされています（^ブロックリストに加える済み、購読解除済み、マーケティングが中断されている、無効なメールまたは空のメールが含まれている）。
+Marketo Engage データベースで、ブロックリスト登録済み、登録解除済み、マーケティング中断、無効または空のメールアドレスの人物はブロックされます。
 
-1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」をクリックします。 **[!UICONTROL スマートリストのステータス]** で、2 番目のリンクをクリックします。
+1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」をクリックします。「**[!UICONTROL スマートリストのステータス]**」で 2 つ目のリンクをクリックします。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 

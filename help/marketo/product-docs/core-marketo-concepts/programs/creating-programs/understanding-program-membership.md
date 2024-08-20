@@ -5,7 +5,7 @@ title: プログラムメンバーシップについて
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
 source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '309'
 ht-degree: 100%
 

@@ -5,9 +5,9 @@ title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 93%
 
 >[!MORELIKETHIS]
 >
->[SOAP API ドキュメント](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API ドキュメント](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/soap/soap-api)

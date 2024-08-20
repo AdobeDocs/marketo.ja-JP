@@ -5,9 +5,9 @@ title: 紹介オファーの作成
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
 source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日（PT）に、この機能を廃止するプロセスを開始しました。新しいアセットは作成できなくなりました。既存のアセットは、2025年1月31日（PT）まで引き続き機能します。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -39,7 +39,7 @@ ht-degree: 81%
    >
    >時間を節約するために、「**クローン元**」オプションを使用して既存の紹介オファーからすべての設定をコピーできます。
 
-   紹介オファーエディターが新しいウィンドウで開きます。デフォルト設定はすべて適切ですが、オファーのルール（利用条件）へのリンクを追加する必要があります。 共有メッセージ画面の下部にリンクが表示されます。次の手順で、方法を説明します。
+   紹介オファーエディターが新しいウィンドウで開きます。デフォルト設定はすべて良好ですが、オファーのルール（利用条件）へのリンクを追加する必要があります。共有メッセージ画面の下部にリンクが表示されます。次の手順で説明します。
 
 1. 「**詳細オプション**」をクリックします。
 

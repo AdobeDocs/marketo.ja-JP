@@ -5,15 +5,15 @@ title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '466'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# リリースノート：2018 年春 {#release-notes-spring}
+# リリースノート：2018年春 {#release-notes-spring}
 
-18 年春リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+18 年春リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。注意：このリリースに含まれる機能の一部には、関連記事がありません。トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -83,6 +83,6 @@ Marketo UI での操作を必要とせずに、静的リストの作成、読み
 
 ## プライバシーの強化 {#privacy-enhancements}
 
-[Web 追跡プライバシー](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+[Web 追跡プライバシー](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Munchkin のトラッキング機能が強化され、Web 訪問者の IP アドレスを匿名化し、Web トラッキングを永続的にオプトアウトできるようにすることで、地域および国際的なプライバシー規制に準拠します。

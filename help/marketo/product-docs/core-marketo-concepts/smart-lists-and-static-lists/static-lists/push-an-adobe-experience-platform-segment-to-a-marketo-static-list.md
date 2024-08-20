@@ -4,15 +4,15 @@ title: Adobe Experience Platform セグメントの Marketo 静的リストへ�
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '658'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-この機能を使用すると、Adobe Experience Platform内のセグメントを静的リストの形式でMarketo Engageにプッシュできます。
+この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo Engage にプッシュできます。
 
 >[!PREREQUISITES]
 >
@@ -58,7 +58,7 @@ ht-degree: 78%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 宛先の&#x200B;**[!UICONTROL 名前]**&#x200B;とオプションの説明を入力します。「人物作成」ドロップダウンをクリックし、「既存のMarketoの人物を一致させて、Marketoで行方不明の人物を作成する _または_ 「既存のMarketoの人物のみを一致させる」（この例では、前者を選択しています）を選択します。 また、**[!UICONTROL Workspace]** を選択する必要があります。
+1. 宛先の&#x200B;**[!UICONTROL 名前]**&#x200B;とオプションの説明を入力します。人物作成ドロップダウンをクリックし、「既存の Marketo の人物に一致および Marketo で見つからない人物を作成」_または_「既存の Marketo の人物のみに一致」を選択します（この例では前者を選択しています）。また、**[!UICONTROL ワークスペース]**&#x200B;を選択する必要があります。
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,13 +94,13 @@ ht-degree: 78%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 目的の属性を選択し、「**[!UICONTROL 選択]**」をクリックします。 この例では、名、姓およびメールアドレスを選択しています。
+1. 目的の属性を選択し、「**[!UICONTROL 選択]**」をクリックします。この例では、名、姓、メールアドレスを選択しています。
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
    >[!NOTE]
    >
-   >Experience Platformの属性を、Marketo Engageがアクセスできる任意の属性にマッピングできます。 [API リクエストの説明 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} を使用して、組織がアクセスできる属性フィールドを取得します。
+   >Experience Platform の属性を、組織が Marketo Engage でアクセスできる任意の属性にマッピングできます。組織がアクセスできる属性フィールドを取得する方法について詳しくは、[API リクエストの説明](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}を参照してください。
 
 1. 姓と会社名に対しても、「**[!UICONTROL 新しいマッピングを追加]**」を再度クリックし、**[!UICONTROL lastName]** と **[!UICONTROL companyName]**.を選択して、手順 15 を 2 回繰り返します。
 
@@ -146,6 +146,6 @@ ht-degree: 78%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 変更を確認し、「**[!UICONTROL 終了]**」をクリックします。
+1. 変更を確認し、「**[!UICONTROL 完了]**」をクリックします。
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

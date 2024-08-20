@@ -5,15 +5,15 @@ title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2019年春 {#release-notes-spring}
 
-2019年春リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2019年春リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください（ある場合）。
 
@@ -25,8 +25,8 @@ ht-degree: 88%
 
 * **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連するチャネルと、Marketo Sky のイベントプログラムとウェビナープログラムに関連するイベントの両方に当てはまります。デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
 * **[カスタム通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理者は、1 日または 1 週間のカスタム通信制限を設定できるようになりました。
-* **[スマートキャンペーンアセット API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
-* **E メールの HTTPS トラッキングリンク：** 「トラッキングリンク用のセキュアドメイン」を購入したお客様の場合、ブランドのトラッキングリンクを HTTPS としてメール内に表示できるようになりました。
+* **[スマートキャンペーンアセット API](https://experienceleague.adobe.com/jp/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
+* **メール用 HTTPS トラッキングリンク**：「トラッキングリンクのセキュリティで保護されたドメイン」を購入した顧客の場合、ブランディングされたトラッキングリンクをメール内に HTTPS として表示できるようになりました。
 * **メール到達率 PowerPack の更新**：特定のテスト結果にフラグを設定してコメントを付け、URL を通じて結果を関係者と共有し、変更を追跡して、関係者がコンテンツを編集したときにメールがどのように変化したかを確認する機能。
 
 アカウントベースドマーケティング
@@ -54,5 +54,5 @@ ht-degree: 88%
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Bizible Discover 機能の強化**：新しいダッシュボードセグメント化機能により、マーケターはパフォーマンスをより深く理解できます。
-* **複数通貨のサポート**:CRM 通貨テーブルに基づいて構築された Bizible の新しい自動通貨変換機能により、企業通貨と任意の現地通貨を切り替えることができます。
+* **複数通貨のサポート**：CRM 通貨テーブルに組み込まれた Bizible の新しい自動通貨変換機能を使用して、企業通貨と現地通貨を切り替えます。
 * **CRM キャンペーンコスト**：CRM キャンペーンオブジェクトからコストデータを自動的に取り込む機能を使用して、オフラインマーケティングアクティビティの費用と ROI を測定します。

@@ -4,9 +4,9 @@ title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
 source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビのアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。詳しくは、[ この記事 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} および [ よくある質問 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} を参照してください。
+>Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビのアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。詳しくは、[この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}および[よくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
 
 Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
@@ -46,8 +46,8 @@ Adobe Marketo Engage を Adobe Identity Management システムに転送した�
 </td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage管理者</strong></td>
-  <td>管理者権限を持つ Marketo Engage へのアクセス権を付与されたユーザー。Adobe Admin Consoleではなく、Marketo Engageでのロールを付与されます（「ユーザーを編集 <b> モーダルでは単に「管理者」として表示さ </b> ます）。</td>
+  <td><strong>Marketo Engage 管理者</strong></td>
+  <td>管理者権限を持つ Marketo Engage へのアクセス権を付与されたユーザ。Adobe Admin Console ではなく、Marketo Engage でロールが付与されます（<b>ユーザを編集</b>モーダルでは単に「管理者」として表示されます）。</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage ユーザー</strong></td>

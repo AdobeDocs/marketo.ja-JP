@@ -5,15 +5,15 @@ title: アラートの送信
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # アラートの送信 {#send-alert}
 
-Marketo Engageは、ユーザー情報を含むメールアラートを任意のユーザー（セールスオーナー、パートナー、その他のユーザー）に送信できます。 「[!UICONTROL  アラートの送信 ]」フローステップを使用します。
+Marketo Engage は、人物情報を記載したメールアラート（セールス所有者、パートナー、またはその他の人）を誰にでも送信できます。「[!UICONTROL アラートの送信]」フローステップを使用します。
 
 ![](assets/send-alert-1.png)
 
@@ -31,9 +31,9 @@ Marketo Engageは、ユーザー情報を含むメールアラートを任意の
 
    >[!NOTE]
    >
-   >メールでは必ず「[!UICONTROL  アラート情報を送信 ]」トークンを使用してください。
+   >必ず「[!UICONTROL アラート情報の送信]」トークンをメールに追加するようにします。
 
-1. アラート受信者を選択します。[!UICONTROL  販売所有者 ] または [!UICONTROL  アカウント所有者 ] を選択できます。
+1. アラート受信者を選択します。「[!UICONTROL セールス所有者]」または「[!UICONTROL アカウント所有者]」を選択できます。
 
    ![](assets/send-alert-4.png)
 
@@ -43,7 +43,7 @@ Marketo Engageは、ユーザー情報を含むメールアラートを任意の
 
    >[!TIP]
    >
-   >トリガーキャンペーンでは、値が有効なメールアドレスである限り、`{{lead.Territory Owner}}` や `{{my.Alert Recipient}}` といった「**[!UICONTROL 他のメールへ]**」トークンを使用できます。**[!UICONTROL その他のメールへ]** のトークンは、バッチキャンペーンでは機能しません。
+   >トリガーキャンペーンでは、値が有効なメールアドレスである限り、`{{lead.Territory Owner}}` や `{{my.Alert Recipient}}` といった「**[!UICONTROL 他のメールへ]**」トークンを使用できます。「**[!UICONTROL 他のメールへ]**」のトークンはバッチキャンペーンでは機能しません。
 
 >[!MORELIKETHIS]
 >

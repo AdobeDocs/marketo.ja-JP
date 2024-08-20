@@ -5,15 +5,15 @@ title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '381'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# リリースノート：17年冬 {#release-notes-winter}
+# リリースノート：2017年冬 {#release-notes-winter}
 
-17年冬リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
+17年冬リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
@@ -67,13 +67,13 @@ ht-degree: 91%
 
 **[ソース別に分析をフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（メール、リッチメディア、レコメンデーションバー）の予測コンテンツ分析をフィルタリングします。
+特定のソース（メール、リッチメディア、レコメンデーションバー）に対する予測コンテンツ分析をフィルタリングします。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **予測コンテンツエディター**
 
-メール、リッチメディア、レコメンデーションバーなどのソース別にコンテンツ準備を分割し、編集エクスペリエンスとレイアウトを改善しました。
+編集エクスペリエンスとレイアウトが向上し、ソース別（メール、リッチメディア、レコメンデーションバー）にコンテンツの準備を分割できるようになりました。
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,7 +81,7 @@ ht-degree: 91%
 
 コンテンツの自動検出プロセスで、画像 URL とメタデータが使用されるようになりました。
 
-## [SDK の強化](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK の強化](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 

@@ -5,9 +5,9 @@ title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -51,4 +51,4 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->詳しくは、[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} の詳細を参照してください。
+>詳しくは、[[!DNL Webhooks]](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} の詳細を参照してください。

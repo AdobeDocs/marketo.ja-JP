@@ -5,7 +5,7 @@ title: SFDC キャンペーンからの削除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Salesforce との連携時にのみ有効です。
+>Salesforce と統合されている場合にのみ使用できます。
 
 1. フローステップにドラッグしたら、人物またはリードを削除する Salesforce キャンペーンを探して選択します。
 

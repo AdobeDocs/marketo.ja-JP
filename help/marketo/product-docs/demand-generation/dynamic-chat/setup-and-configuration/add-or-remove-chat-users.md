@@ -4,9 +4,9 @@ title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
 source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 84%
 
 >[!NOTE]
 >
->デフォルトでは、すべてのMarketo Engage管理者には、Dynamic Chatの管理者権限が付与されます。
+>デフォルトでは、すべての Marketo Engage 管理者に Dynamic Chat の管理者権限が付与されます。
 
-## チャットユーザーを追加 {#add-a-chat-user}
+## チャットユーザを追加 {#add-a-chat-user}
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
@@ -54,7 +54,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >AdobeAdmin Console でユーザーを追加した後、そのユーザーがDynamic Chatエージェント管理ページに表示されるまで、最大 2 時間かかる場合があります。
+   >Adobe Admin Console でユーザを追加した後、そのユーザが Dynamic Chat エージェント管理ページに表示されるまでに最大 2 時間かかる場合があります。
 
 ## Dynamic Chat アクセスを Marketo のロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
@@ -78,7 +78,7 @@ ht-degree: 84%
 
 ## チャットユーザーを削除 {#remove-a-chat-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} にログインします。
 
    ![](assets/add-or-remove-chat-users-12.png)
 

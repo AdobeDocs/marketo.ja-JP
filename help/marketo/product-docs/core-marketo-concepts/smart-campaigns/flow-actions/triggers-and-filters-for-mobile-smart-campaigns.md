@@ -5,15 +5,15 @@ title: モバイルスマートキャンペーンのトリガーとフィルタ�
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # モバイルスマートキャンペーンのトリガーとフィルター {#triggers-and-filters-for-mobile-smart-campaigns}
 
-モバイルアプリのスマートキャンペーン用にトリガーとフィルターを設定できます。
+モバイルアプリスマートキャンペーンのトリガーとフィルターを設定できます。
 
 ほとんどのアクティビティには、トリガー、フィルター、非アクティブフィルターがあります。非アクティブフィルターを使用して、プッシュ通知のタップなど、発生&#x200B;_しなかった_&#x200B;アクションを追跡します。
 
@@ -27,7 +27,7 @@ ht-degree: 94%
 
 * プッシュ通知送信済み - フィルターおよび非アクティブフィルター
 
-右側のパネルで「モバイルアプリ」を検索して、モバイルアプリのすべてのトリガーとフィルターを一覧表示します。
+右側のパネルで「モバイルアプリ」を検索して、すべてのモバイルアプリのトリガーとフィルターを表示します。
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 94%
 
 モバイルアプリアクティビティあり／あった
 
-これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。[Android用）および [iOS用 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} のトラッキングを設定するには ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 開発者と協力する必要があります。
+これらは、カスタムモバイルアクティビティをトラックする強力な方法を提供します。開発者と協力して、[Android 向け](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}および [iOS 向け](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}にトラッキングを設定する必要があります。
 
 * モバイルアプリアクティビティあり - トリガー
 

@@ -5,9 +5,9 @@ title: 紹介オファーの目標を指定する
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
 source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '326'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日（PT）に、この機能を廃止するプロセスを開始しました。新しいアセットは作成できなくなりました。既存のアセットは、2025年1月31日（PT）まで引き続き機能します。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-または、Marketo Engageでスマートリストトリガーを使用して、参照されている人物の商談が作成されるなど、マイルストーンを待つこともできます。
+また、Marketo Engage のスマートリストトリガーを使用して、参照元に対して商談が作成されるなど、任意のマイルストーンを待つこともできます。
 
 目標の例：
 
@@ -29,7 +29,7 @@ ht-degree: 84%
 * 2 件の参照による e コマース購入
 * 5 件の参照によるウェビナー参加者
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. 「**マーケティングアクティビティ**」に移動します。
 
    ![](assets/ma.png)
 

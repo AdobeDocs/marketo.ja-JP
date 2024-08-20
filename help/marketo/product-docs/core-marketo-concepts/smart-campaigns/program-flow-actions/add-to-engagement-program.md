@@ -5,15 +5,15 @@ title: エンゲージメントプログラムへの追加
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
 source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # エンゲージメントプログラムへの追加 {#add-to-engagement-program}
 
-このフローステップで作成するスマートキャンペーンは、エンゲージメントプログラムのゲートウェイになります。
+このフローステップで作成したスマートキャンペーンは、エンゲージメントプログラムへの入り口となります。
 
 ![](assets/add-to-engagement-program-1.png)
 

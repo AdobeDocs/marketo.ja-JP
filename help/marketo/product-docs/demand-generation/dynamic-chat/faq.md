@@ -1,34 +1,34 @@
 ---
-description: Dynamic Chatに関する FAQ - Marketo ドキュメント – 製品ドキュメント
-title: Dynamic Chatに関するよくある質問
+description: Dynamic Chat に関するよくある質問 - Marketo ドキュメント - 製品ドキュメント
+title: Dynamic Chat に関するよくある質問
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '873'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Dynamic Chatに関するよくある質問 {#dynamic-chat-faq}
+# Dynamic Chat に関するよくある質問 {#dynamic-chat-faq}
 
-Dynamic Chatに関するよくある質問への回答については、以下を参照してください。
+Dynamic Chat に関するよくある質問への回答について詳しくは、以下を参照してください。
 
-**私はDynamic Chatへのアクセス権がないようです。 どうすれば手に入りますか。**
+**Dynamic Chat へのアクセス権が付与されていないようです。アクセス権を取得するには、どうすればいいですか？**
 
-Marketo Engage管理者に連絡し、Adobe Admin Consoleで [ ユーザーとして追加 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} されたことを確認してください。
+Marketo Engage 管理者に問い合わせて、Adobe Admin Console に[ユーザとして追加](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}されていることを確認してください。
 
-**Dynamic Chatは、会社の web サイトの任意の場所にインストールできますか。それとも、Marketo ランディングページでのみ機能しますか？**
+**Dynamic Chat は、会社の web サイトの任意の場所にインストールできますか？それとも、Marketo のランディングページでのみ機能しますか？**
 
-このDynamic ChatJavaScript スニペットは、任意の web サイトとMarketo ランディングページにインストールできます。
+Dynamic Chat の JavaScript スニペットは、任意の web サイトおよび Marketo のランディングページにインストールできます。
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日間。 制限/パラメーターの完全なリストについては、Marketo Engage[Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} を参照してください。
+90 日です。制限／パラメーターの完全なリストについて詳しくは、Marketo Engage の[製品説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}を参照してください。
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
-あります。Dynamic Chatがサポートする言語は、フランス語、スペイン語、ドイツ語、日本語、オランダ語、イタリア語、ポルトガル語（ブラジル）、韓国語、中国語（簡体字）および中国語（繁体字）です。 詳しくは、[ 言語の変更 ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"} を参照してください。
+はい。Dynamic Chat は、フランス語、スペイン語、ドイツ語、日本語、オランダ語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語をサポートしています。詳しくは、[言語の変更](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}を参照してください。
 
 **AI／NLP 機能はサポートしていますか？**
 
@@ -38,66 +38,66 @@ AI／NLP 機能はサポートしていません。
 
 ダイアログで、_Person Email is Empty_ 属性を使用します。
 
-**エンゲージメントの高い会話と言えるものは何ですか？**
+**エンゲージ済み対話には、何が該当しますか？**
 
-エンゲージメントのある会話は、訪問者がダイアログまたは会話フローでボットに応答するとすぐに発生します。 訪問者がチャットボットを開いてもボットに応答しない場合（応答の選択や情報の送信など）、エンゲージメントとしてはカウントされません。
+エンゲージ済み対話は、訪問者がダイアログまたは対話型フローでボットに応答するとすぐに発生します。訪問者がチャットボットを開いてもボットに応答しない場合（応答の選択や情報の送信などを行わない場合）は、エンゲージメントとしてカウントされません。
 
-**月間エンゲージメント済み会話数の上限に達した場合はどうなりますか？**
+**月別エンゲージ済み対話数の上限に達した場合はどうなりますか？**
 
-1 か月のエンゲージメント済み会話制限に達すると、すべての公開済みダイアログと会話フローは、制限を増やすか、翌月の初めに制限がリセットされるまでトリガーを停止します。
+月別エンゲージ済み対話数の上限に達すると、上限を増やすか、翌月の初めに制限がリセットされるまで、すべての公開済みダイアログと対話型フローのトリガーが停止します。
 
-**エンゲージメントされている会話の制限に近づいているときにを把握するにはどうすればよいですか？**
+**エンゲージ済み対話数の上限に近づいていることを把握するにはどうすればよいですか？**
 
-エンゲージメントされた会話の上限である 90% に達すると、Dynamic Chat管理者にメール通知が届き、すべてのユーザーにDynamic Chatでバナー通知が表示されます。
+エンゲージ済み対話数の上限の 90％に達すると、Dynamic Chat 管理者にメール通知が届き、すべてのユーザに Dynamic Chat でバナー通知が表示されます。
 
-**訪問者がダイアログにエンゲージメントした後にライブエージェントに接続した場合、そのエンゲージメントは 1 つまたは 2 つに数えられますか？**
+**訪問者がダイアログにエンゲージした後でライブエージェントに接続した場合、エンゲージメントは 1 回と 2 回のどちらとしてカウントされますか？**
 
-Select パッケージを使用するお客様の場合、これは 2 つの個別のエンゲージメントとしてカウントされます。1 つは Dialog エンゲージメント用、もう 1 つはライブチャットエンゲージメント用です。 Prime パッケージを使用しているお客様の場合、ライブチャットのエンゲージメントは個別にカウントされないので、1 つのエンゲージメントとしてのみカウントされます。
+Select パッケージのお客様の場合、これは 2 回の個別のエンゲージメント (ダイアログエンゲージメントが 1 回、ライブチャットエンゲージメント が 1 回) としてカウントされます。Prime パッケージのお客様の場合、ライブチャットエンゲージメントは個別にカウントされないので、エンゲージメントが 1 回のみカウントされます。
 
-**エンゲージメントされた会話の制限がリセットされる頻度はどれくらいですか？**
+**エンゲージ済み対話数の上限はどのくらいの頻度でリセットされますか？**
 
-エンゲージメントされた会話の制限は、毎月 1 日にリセットされます。
+エンゲージ済み対話数の上限は、各カレンダー月の初日にリセットされます。
 
-**会話が終わった後、チャットボットが戻ってきませんか？**
+**対話の終了後、チャットボットが表示されないのはなぜですか？**
 
-ダイアログは、訪問者に 1 回だけ表示されるように設計されています。 したがって、訪問者がダイアログ内の特定のブランチの終わりに到達するとすぐに、そのダイアログは完了と見なされ、その訪問者に二度と表示されなくなります。
+ダイアログは、訪問者に 1 回のみ表示されるように設計されています。したがって、訪問者がダイアログ内の特定の分岐の最後に到達すると、そのダイアログは完了と見なされ、その訪問者に対しては再度表示されません。
 
-**MarketoのDynamic ChatタイルをクリックしてAdobe Experience Cloudにログインすると、次のメッセージが表示されるのはなぜですか？ 「_Adobe IDはAdobe Experience Cloud ソリューションアカウントとリンクされていないようです_。」**
+**My Marketo の Dynamic Chat タイルをクリックして Adobe Experience Cloud にログインすると、次のメッセージが表示されるのはなぜですか？「_Adobe ID が Adobe Experience Cloud ソリューションアカウントにリンクされていないようです。_」**
 
-これは、Adobe Admin ConsoleでDynamic Chatユーザーとして追加されていないことを示している可能性があります。 Dynamic Chatへのアクセスをリクエストするには、Adobe組織のシステム管理者またはDynamic Chatの製品管理者にお問い合わせください。
+Adobe Admin Console で Dynamic Chat ユーザとして追加されていない可能性があります。Dynamic Chat へのアクセスをリクエストするには、アドビ組織のシステム管理者または Dynamic Chat の製品管理者にお問い合わせください。
 
-**エンゲージメントのある会話のトランスクリプトにアクセスするにはどうすればよいですか？**
+**エンゲージ済み対話数の上限のトランスクリプトにアクセスするにはどうすればよいですか？**
 
-Dynamic Chatトランスクリプトには、Marketo Engageの「対話に関与」アクティビティを通じて、Dynamic Chatの対話に関与した既知のリードについてアクセスできます。
+Dynamic Chat のトランスクリプトでは、Marketo Engage の「ダイアログでエンゲージ済み」アクティビティを通じて Dynamic Chat ダイアログにエンゲージした既知のリードについてアクセスできます。
 
-**訪問者がダイアログに参加すると、会話を再開したり、前の質問に戻ったりできますか？**
+**訪問者はダイアログにエンゲージした後で、対話を再開したり、前の質問に戻ったりできますか？**
 
-現在、会話を再開したり、以前の時点に戻したりする体系的な方法はありませんが、これはDynamic Chatロードマップに記載されています。
+現在、対話を再開したり、前の時点に戻ったりする体系的な方法はありませんが、Dynamic Chat のロードマップにはこの方法が含まれています。
 
-**Dynamic Chatは Salesforce と統合されますか？**
+**Dynamic Chat は Salesforce と統合されますか？**
 
-Dynamic Chatは、Marketo Engage Salesforce 統合を介して Salesforce と統合されます。
+Dynamic Chat は、Marketo Engage Salesforce 統合を通じて Salesforce と統合されます。
 
-**カレンダーはDynamic Chatに接続されており、自分はルーティングルールに含まれているので、ミーティングが行われないのはなぜですか？**
+**カレンダーは Dynamic Chat に接続されており、私はルーティングルールにも含まれていますが、ミーティングが表示されません。なぜでしょうか？**
 
-これは、カレンダー接続の再認証が必要であることを示している可能性が高くなります。 この問題は、予定表プロバイダのパスワードを変更したときに、Dynamic Chatが接続を失ったときに最もよく発生します。 Dynamic Chatの [Agent Settings] ページに移動して、[Reauthenticate calendar] をクリックするだけです。
+カレンダー接続の再認証が必要な可能性があります。この問題は、カレンダープロバイダーのパスワードを変更し、Dynamic Chat の接続が失われた場合に頻繁に発生します。Dynamic Chat のエージェント設定ページに移動し、「カレンダーを再認証」をクリックするだけです。
 
-**対話と会話フローの違いは何ですか？**
+**ダイアログと対話型フローの違いは何ですか？**
 
-ダイアログは、定義された一連のターゲティング条件を満たす web 訪問者に自動的に表示される会話です。 会話フローは、ボタンを押すなど、web 上で特定のアクションを実行した訪問者にのみ表示されます。
+ダイアログは、定義済みの一連のターゲッティング条件を満たす web 訪問者に自動的に表示される対話です。対話型フローは、ボタンを押すなど、web 上で特定のアクションを実行する訪問者にのみ表示されます。
 
-**Dynamic Chatでメールから直接会議を予約する方法はありますか？**
+**Dynamic Chat を使用してメールから直接ミーティングを予約する方法はありますか？**
 
-はい。[ 詳細を表示する ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
+はい、あります。[方法について詳しくは、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}。
 
-**「エンゲージメント」や「獲得した人物」などの用語は正確にはどのような意味ですか？**
+**「エンゲージ済み」や「獲得済み人物」などの用語は、正確にはどのような意味ですか？**
 
-Dynamic Chatで使用される用語は複数あります。 それらの多くの定義は、それぞれの領域のヘルプ記事で確認できます。
+Dynamic Chat で使用される用語は複数あります。それらの多くの定義は、各領域のヘルプ記事で確認できます。
 
-* 「People Acquired」などの Analytics 用語 [ こちらを参照 ](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
-* スマートリストのトリガーとフィルターの定義 [ こちらを参照 ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}。
-* 様々なストリームDesignerカードの説明 [ こちらを参照 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
+* 「獲得済み人物」などの Analytics の用語について詳しくは、[こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}。
+* スマートリストのトリガー／フィルターの定義について詳しくは、[こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}。
+* 様々なストリームデザイナーのカードについて詳しくは、[こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}。
 
-**Marketo EngageなしでDynamic Chatを使用できますか？**
+**Marketo Engage なしで Dynamic Chat を使用できますか？**
 
-いいえ。Dynamic ChatはMarketo Engageとは別の用途ですが、この 2 つは密接に関連しています。
+いいえ、できません。Dynamic Chat は Marketo Engage とは別のアプリケーションですが、この 2 つは密接に関連しています。

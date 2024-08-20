@@ -5,15 +5,15 @@ title: 待機
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # 待機の概要 {#wait-overview}
 
-便利な **待機ステップ** を使用して、スマートキャンペーンフローでユーザーを一時停止します。
+便利な&#x200B;**待機ステップ**&#x200B;を使用して、スマートキャンペーンのフロー内にいるリードの進行を停止できます。
 
 ![](assets/wait-overview-1.png)
 

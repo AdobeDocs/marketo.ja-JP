@@ -5,15 +5,15 @@ title: 人物の削除
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
 source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
 # 人物の削除 {#delete-person}
 
-誤ったユーザーがデータベースに取り込まれることもあります。 人物の削除フローステップで削除できます。
+誤った人物がデータベースに格納されることがあります。人物を削除フローステップで削除できます。
 
 ![](assets/delete-person-1.png)
 
@@ -21,14 +21,14 @@ ht-degree: 35%
 >
 >人物を削除すると、その人物の履歴 RCE データもすべて削除されます。これは元に戻せません。
 
-1. フローステップをドラッグすると、CRM からも自動的に削除されるように設定されます。
+1. フローステップにドラッグすると、CRM からも自動的に削除されるように設定されます。
 
    ![](assets/delete-person-2.png)
 
-1. 以下のように、を CRM から削除するのではなく、Marketo Engageから削除できます。
+1. 次のように、CRM ではなく Marketo Engage から削除できます。
 
    ![](assets/delete-person-3.png)
 
 >[!NOTE]
 >
->CRM からの人物の削除 _[!DNL Salesforce]_ でのみ機能します。 Marketoからユーザーを削除し、そのユーザーを [!DNL Salesforce] に保持することを選択した場合、[!DNL Salesforce] レコードが更新されるたびに、そのユーザーはMarketoで再作成されます。
+>CRM からの人物の削除は、_[!DNL Salesforce]_ でのみ機能します。人物を Marketo から削除し、[!DNL Salesforce] で保持することにした場合、[!DNL Salesforce] のレコードが更新された場合は、Marketo で再作成されます。

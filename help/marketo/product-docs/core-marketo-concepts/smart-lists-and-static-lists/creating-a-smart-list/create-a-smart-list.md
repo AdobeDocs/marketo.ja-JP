@@ -5,21 +5,21 @@ title: スマートリストの作成
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
 source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # スマートリストの作成 {#create-a-smart-list}
 
-スマート・リストでは、単純なフィルタを使用して、ユーザーの特定のグループを検索できます。 リストの作成は以下の手順で行います。
+スマートリストを使用すると、シンプルなフィルターで特定の人物のグループを見つけることができます。リストの作成は以下の手順で行います。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-a-smart-list-1.png)
 
-1. スマートリストを作成するプログラムを選択します。
+1. スマートリストの作成先であるプログラムを選択します。
 
    ![](assets/create-a-smart-list-2.png)
 

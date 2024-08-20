@@ -1,17 +1,17 @@
 ---
 unique-page-id: 30082174
 description: Sales Connect での注目のアクション - Marketo ドキュメント - 製品ドキュメント
-title: Sales Connect での注目のアクション
+title: Sales Connect の注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
 source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Sales Connect での注目のアクション {#interesting-moments-in-sales-connect}
+# Sales Connect の注目のアクション {#interesting-moments-in-sales-connect}
 
 注目のアクションは、Marketo Sales Connect を通じてセールスチームとコミュニケーションを取るための鍵となります。
 
@@ -21,9 +21,9 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->* [Salesforce CRM への接続 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} が必要です
->* Salesforce のリードまたは連絡先所有者である必要があります
->* [Marketo Engageへのアクセスを許可 ](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"} へのアクセス権が必要です。
+>* [Salesforce CRM への接続](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}が必要です
+>* Salesforce のリードまたは取引先責任者の所有者である必要があります
+>* [Marketo Engage 接続へのアクセス権を付与](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}するには、アクセス権が必要です
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 

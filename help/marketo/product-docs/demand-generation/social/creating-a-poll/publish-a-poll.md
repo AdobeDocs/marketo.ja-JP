@@ -5,19 +5,19 @@ title: 投票の公開
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
 source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
 # 投票の公開 {#publish-a-poll}
 
-[ 投票を作成 ](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) した後は、Marketo ランディングページ、Facebookおよび web サイトで投票を公開できます。
+[投票の作成](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)後、Marketo ランディングページ、Facebook、web サイトに公開できます。
 
 >[!IMPORTANT]
 >
->2024 年 7 月 31 日に、この機能を廃止するプロセスを開始しました。 新しいアセットは作成できなくなりました。 既存のアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>2024年7月31日（PT）に、この機能を廃止するプロセスを開始しました。新しいアセットは作成できなくなりました。既存のアセットは、2025年1月31日（PT）まで引き続き機能します。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. ランディングページに移動し、編集用に開きます。
 
@@ -35,7 +35,7 @@ ht-degree: 48%
 >
 >ここで投票を利用できるようにするには、承認する必要があります。
 
-これで完了です。ランディングページを承認すると、投票が有効になります。 [ ランディングページをFacebookに公開する ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) または [web サイトに投票を行う ](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md) こともできます。
+これで完了です。ランディングページを承認すると、投票が有効になります。また、[ランディングページを Facebook に公開](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)したり、[web サイトに投票を投稿](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりできます。
 
 >[!TIP]
 >

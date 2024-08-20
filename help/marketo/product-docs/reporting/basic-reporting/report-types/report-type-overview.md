@@ -5,7 +5,7 @@ title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
 source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
 ht-degree: 100%
 

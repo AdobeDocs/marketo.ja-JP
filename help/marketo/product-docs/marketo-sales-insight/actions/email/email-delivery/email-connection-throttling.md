@@ -4,7 +4,7 @@ title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
 source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '419'
 ht-degree: 100%
 

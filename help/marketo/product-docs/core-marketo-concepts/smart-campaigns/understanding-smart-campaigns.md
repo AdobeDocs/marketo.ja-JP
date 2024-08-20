@@ -5,21 +5,21 @@ title: スマートキャンペーンについて
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
 source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '249'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
 # スマートキャンペーンについて {#understanding-smart-campaigns}
 
-Marketo Engageが車なら、スマートキャンペーンがそのエンジンになります。 スマートキャンペーンは想像以上の効果を発揮し、使い始めるのは簡単です。
+Marketo Engage が車なら、スマートキャンペーンはそのエンジンです。スマートキャンペーンは想像以上の効果を発揮し、簡単に使い始めることができます。
 
-スマートキャンペーンには、「[ スマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}」、「[ フロー ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}」および「[ スケジュール ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} タブの 3 つの主な領域があります。
+スマートキャンペーンには、「[スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}」タブ、「[フロー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}」タブ、「[スケジュール](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}」タブという、3 つの主な領域があります。
 
 ## スマートリスト {#smart-list}
 
-スマートリストを使用すると、スマートキャンペーンでターゲットとする _ユーザー_ を定義できます。 フィルターとトリガーがあります。
+スマートリストは、スマートキャンペーンで&#x200B;_誰_&#x200B;をターゲットに設定するのかを定義する方法です。フィルターとトリガーがあります。
 
 <table> 
  <tbody> 
@@ -45,13 +45,13 @@ Marketo Engageが車なら、スマートキャンペーンがそのエンジン
 
 ## フロー {#flow}
 
-フローには、待機ステップや分割オプションなど、スマートキャンペーンで実行するステップが含まれています。
+フローには、待機ステップや分岐の選択肢など、スマートキャンペーンで実行するステップが含まれます。
 
 ## スケジュール {#schedule}
 
-最後に、スマートキャンペーンを実行するタイミングを制御します。 スケジュールに従って再度実行するように、繰り返しを設定することもできます。
+最後に、スマートキャンペーンを実行するタイミングを制御します。スケジュールに従って再度実行するように、繰り返しを設定することもできます。
 
-スマートキャンペーンにできることは非常に多くあります。 難しい情報を入手すれば、Marketo のすべてがより簡単に理解できるようになります。
+スマートキャンペーンでできることはたくさんあります。難しい情報を入手すれば、Marketo のすべてがより簡単に理解できるようになります。
 
 >[!CAUTION]
 >
