@@ -25,7 +25,7 @@ Salesforce サンドボックスインスタンスと連携するように Actio
 >
 >詳しくは、ユーザが [Actions シートをアクティブ化](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}する方法を参照してください。また、ユーザが [Salesforce を使用して認証](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}する方法も参照してください。さらに、ユーザにメールとパスワードによる認証を行わせる場合について詳しくは、[ログイン管理の設定の記事](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}を参照してください。
 
-## Marketo サンドボックス {#request=an-actions-instance} にプロビジョニングする Actions インスタンスをリクエスト
+## Marketo サンドボックス にプロビジョニングする Actions インスタンスをリクエスト {#request=an-actions-instance}
 
 Marketo サンドボックスインスタンスでは、リクエストがない限り、Sales Insight Actions が有効になりません。リクエストを送信するには、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
