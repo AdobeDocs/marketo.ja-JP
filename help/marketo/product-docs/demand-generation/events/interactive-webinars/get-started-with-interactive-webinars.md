@@ -2,9 +2,9 @@
 description: インタラクティブウェビナーの概要 – Marketo ドキュメント – 製品ドキュメント
 title: インタラクティブウェビナーの基本を学ぶ
 feature: Interactive Webinars
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-<p>
+## 対処方法 {#what-to-do}
 
 **手順 1**:[ ユーザーを追加 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} - インタラクティブウェビナーアクセス用のユーザーを追加（および必要に応じて後で削除）する方法を説明します。
 
@@ -29,9 +29,11 @@ ht-degree: 0%
 
 **手順 6**:[ インタラクティブウェビナーの配信 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} - ウェビナーの紹介に関して知っておく必要のあるすべて。
 
-<br>
+これで完了です。
 
-これで完了です。ウェビナーが終了したら、イベントの概要画面の便利なダッシュボードを使用して、ウェビナーの実行方法を確認します。 オーディエンスの詳細なエンゲージメントは、[ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} で確認できます。 ウェビナーエンゲージメントを活用して、[ イベントワークフロー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} のスマートフィルターとトリガーを使用して、パーソナライズされた方法でオーディエンスをターゲティングできます。 [ オンデマンドウェビナー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} を通じてオンデマンドパフォーマンスをトラッキングする方法についても説明します。
+## 追加ドキュメント {#additional-documentation}
+
+ウェビナーが終了したら、イベントの概要画面の便利なダッシュボードを使用して、ウェビナーの実行方法を確認します。 オーディエンスの詳細なエンゲージメントは、[ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} で確認できます。 ウェビナーエンゲージメントを活用して、[ イベントワークフロー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} のスマートフィルターとトリガーを使用して、パーソナライズされた方法でオーディエンスをターゲティングできます。 [ オンデマンドウェビナー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} を通じてオンデマンドパフォーマンスをトラッキングする方法についても説明します。
 
 このトピックに関するその他のヘルプ記事があります。[ インタラクティブウェビナーのベストプラクティス ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}、ニーズやブランディングを反映する [ ウェビナーをカスタマイズ ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} 方法、[ インタラクティブウェビナーのテンプレート ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} を使用して組織全体のテンプレートを作成する方法、[ ルーム管理 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} で部屋と録画を管理する方法などがあります。
 
