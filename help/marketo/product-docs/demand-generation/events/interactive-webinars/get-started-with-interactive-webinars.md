@@ -2,9 +2,9 @@
 description: インタラクティブウェビナーの概要 – Marketo ドキュメント – 製品ドキュメント
 title: インタラクティブウェビナーの基本を学ぶ
 feature: Interactive Webinars
-source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
+source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,10 @@ ht-degree: 0%
 
 ## 追加ドキュメント {#additional-documentation}
 
-ウェビナーが終了したら、イベントの概要画面の便利なダッシュボードを使用して、ウェビナーの実行方法を確認します。 オーディエンスの詳細なエンゲージメントは、[ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} で確認できます。 ウェビナーエンゲージメントを活用して、[ イベントワークフロー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} のスマートフィルターとトリガーを使用して、パーソナライズされた方法でオーディエンスをターゲティングできます。 [ オンデマンドウェビナー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} を通じてオンデマンドパフォーマンスをトラッキングする方法についても説明します。
+ウェビナーが終了したら、イベントの概要画面の便利なダッシュボードを使用して、ウェビナーの実行方法を確認します。 オーディエンスの詳細なエンゲージメントは、[ エンゲージメントダッシュボード ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} で確認できます。 ウェビナーエンゲージメントを活用し、[ イベントワークフロー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} のスマートフィルターとトリガーを使用して、パーソナライズされた方法でオーディエンスをターゲティングします。 [ オンデマンドウェビナー ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} を通じてオンデマンドパフォーマンスをトラッキングする方法についても説明します。
 
 このトピックに関するその他のヘルプ記事があります。[ インタラクティブウェビナーのベストプラクティス ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}、ニーズやブランディングを反映する [ ウェビナーをカスタマイズ ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} 方法、[ インタラクティブウェビナーのテンプレート ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} を使用して組織全体のテンプレートを作成する方法、[ ルーム管理 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} で部屋と録画を管理する方法などがあります。
+
+ 
 
 インタラクティブウェビナー（Adobe Connect搭載）をお楽しみください。
