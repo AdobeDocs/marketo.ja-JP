@@ -5,15 +5,15 @@ title: TAM の概要
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
 source-git-commit: f8b48bca528946095edbe0a1f724fcc0763aa4dd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '284'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # TAM の概要 {#getting-started-with-tam}
 
-Marketo EngageTAM をインスタンスに追加しますか？ 完了です。次に、あなたが何をする必要があるかを見てみましょう。
+Marketo Engage TAM をインスタンスに追加したら、完了です。次に何をする必要があるかを見てみましょう。
 
 **手順 1：[ライセンスを発行する](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** — チームで TAM を使用するユーザーを決定します。
 

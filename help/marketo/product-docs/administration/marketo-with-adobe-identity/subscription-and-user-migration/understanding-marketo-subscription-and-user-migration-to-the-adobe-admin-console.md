@@ -4,9 +4,9 @@ title: Marketo サブスクリプションと Adobe Admin Console へのユー�
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
 source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1513'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 89%
 
 * **ユーザは Adobe ID でログインします**。アドビでは、既存のユーザを Adobe Admin Console に移行します。ユーザは、新しい Adobe ID（Adobe ID または Adobe Federated ID（SSO）のいずれか）を使用して、Marketo サブスクリプションにログインします。
 
-* **移行後に URL が異なって見えます**。 移行後、Marketo Engageはexperience.adobe.comからAdobe Experience Cloudに提供されるようになります。 Marketo Engageアクセスが中断されないように、IT チームと協力して、[ この記事の上部 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} にリストされているすべてのAdobeドメインを許可リストに加えるする必要があります。
+* **移行後は、URL の外観が異なります。**。移行後、Marketo Engage は experience.adobe.com から Adobe Experience Cloud に提供されるようになります。Marketo Engage へのアクセスが中断されないようにするには、IT チームと協力して、[この記事の上部](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}に記載されているすべての Adobe ドメインを許可リストに登録する必要があります。
 
-アセットの ID 番号は同じままです。 また、engage-xx.marketo.com ドメイン上のMarketo Engageアセットへの以前のリンクとブックマーク _今後も_ 機能します）。 ただし、移動先の URL のMarketo Engageインスタンスにログインする必要があります。 例えば、Munchkin ID 123-ABC-456 を持つインスタンスで Smart Campaign のブックマークに移動するには、まず Munchkin ID 123-ABC-456 を持つMarketo Engageインスタンスにログインする必要があります。
+アセットの ID 番号は変わりません。また、engagement-xx.marketo.com ドメイン上の Marketo Engage アセットへの以前のリンクとブックマークは引き続き機能する&#x200B;_予定_&#x200B;です。ただし、まず、移動先の URL の Marketo Engage インスタンスにログインする必要があります。例えば、Munchkin ID 123-ABC-456 のインスタンスのスマートキャンペーンのブックマークに移動するには、まず Munchkin ID 123-ABC-456 で Marketo Engage インスタンスにログインする必要があります。
 
 ## 変更されていない点 {#what-is-not-changing}
 
@@ -108,7 +108,7 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 ユーザが移行されると、Marketo へのログイン方法の変更を通知するメールがアドビからユーザに届きます。ユーザは Adobe ID を使用した初回ログインの招待を受け入れるよう求められます。既存の Adobe ID でログインするか、同じメールアドレスを使用して新しい Adobe ID を設定して行います。
 
-詳しくは、[Adobe ID への移行 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[ ユーザーによるAdobeログイン ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}、[AdobeIdentity Managementに関する FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} を参照してください。
+詳しくは、[Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[アドビでのユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}、[Adobe Identity Management に関するよくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
 
 ## ユーザ移行の完了 {#user-migration-complete}
 
@@ -120,7 +120,7 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 >[!MORELIKETHIS]
 >
->* [Adobe ID への移行の概要 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobe ID への移行の概要](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Adobe ID を使用したユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management に関するよくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [AdobeIdentity Managementへの移行チュートリアル ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [Adobe Identity Management への移行チュートリアル](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
