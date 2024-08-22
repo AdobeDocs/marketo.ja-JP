@@ -3,8 +3,8 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
-workflow-type: ht
+source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+workflow-type: tm+mt
 source-wordcount: '9353'
 ht-degree: 100%
 
@@ -1211,6 +1211,8 @@ ht-degree: 100%
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Salesforce Lightning での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+            + [Salesforce Classic からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+            + [Salesforce Lightning からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce の連携 {#salesforce-integration}
             + [Salesforce アクティビティ詳細のカスタマイズの設定](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Sales Connect アカウントの Salesforce への接続](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
@@ -1414,8 +1416,6 @@ ht-degree: 100%
             + Salesforce パッケージ設定 {#salesforce-package-configuration}
                + [Salesforce での Sales Insight Actions 設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [セールスアクティビティ属性の Salesforce へのログ](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Salesforce Classic からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
-               + [Salesforce Lightning からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
                + [Salesforce リスト表示へのアクションボタンの追加](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Salesforce にアクティビティを記録する際のアクティビティタイプフィールドの更新](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Salesforce でのアクション {#actions-in-salesforce}
