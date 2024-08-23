@@ -2,19 +2,17 @@
 description: Marketo Engageサポートの移行 – Marketo ドキュメント – 製品ドキュメント
 title: Marketo Engage サポートの移行
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
 
 # Marketo Engage サポートの移行 {#marketo-engage-support-migration}
 
-Adobe Marketo Engage サポートのエクスペリエンスに対する今後の変更点について詳しくは、こちらを参照してください。 これらの変更は、ユーザーエクスペリエンスを向上させ、管理タスクを効率化するように設計されています。
+Adobe Marketo Engage サポートプロセスに対する今後の変更点について詳しくは、こちらを参照してください。 更新プログラムは、管理タスクを合理化し、全体的なエクスペリエンスを強化するように設計されています。
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ Adobe Marketo Engage サポートのエクスペリエンスに対する今後�
 
 ## サポートの移行が完了したことを知る方法を教えてください。 {#support-migration-has-been-completed}
 
-サポートの移行は、すべてのサブスクリプションでユーザーの移行が完了した後に行われます。 サポートの移行の一環として PSA として追加された場合は、ユーザーの移行が完了すると、お客様がサポート管理者として追加され、特定のサブスクリプションについてサポートにお問い合わせになったことを示すメールが届きます。 これにより、すべてのケース申請に対して、マーケティングネーションからAdobe Experience Leagueへの自動リダイレクトのトリガーが設定されます。 自動リダイレクトが有効化されるまで、マーケティングネーションを通じてサポートケースを送信し続けてください。
+サポートの移行は、すべてのサブスクリプションでユーザーの移行が完了した後に行われます。 サポートの移行の一環として PSA として追加された場合は、ユーザーの移行が完了すると、お客様がサポート管理者として追加され、特定のサブスクリプションについてAdobeサポートにお問い合わせになったことを示すメールが届きます。 これにより、すべてのケース申請に対して、マーケティングネーションからAdobe Experience Leagueへの自動リダイレクトのトリガーが設定されます。 自動リダイレクトが有効化されるまで、マーケティングネーションを通じてサポートケースを送信し続けてください。
 
 ## その他のリソース {#additional-resources}
 
