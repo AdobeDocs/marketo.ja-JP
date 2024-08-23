@@ -5,9 +5,9 @@ title: フォームの言語の変更
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
 source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 60%
 
 >[!IMPORTANT]
 >
->この記事の手順に従うと、Marketoの標準フィールドの言語と、「送信ボタン」ラベルで使用される表現が変わります。 [ カスタムフィールド ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} は翻訳されません。
+>この記事の手順に従うと、Marketo 標準フィールドの言語と、送信ボタンのラベルで使用される文言が変更されます。[カスタムフィールド](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}は翻訳されません。
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 
@@ -49,11 +49,11 @@ ht-degree: 60%
 
    >[!NOTE]
    >
-   >ランディングページで使用するには、フォームの承認が必要です。
+   >ランディングページでフォームを使用するには、承認が必要です。
 
    >[!TIP]
    >
-   >フォームの変更によって作成されたドラフトを忘れずに [ ランディングページを承認 ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) してください。
+   >必ず、フォームの変更によって作成された[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)してください。
 
 これで、選択した言語がフォームに反映されます。
 
