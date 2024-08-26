@@ -3,10 +3,10 @@ description: Dynamic Chat に関するよくある質問 - Marketo ドキュメ�
 title: Dynamic Chat に関するよくある質問
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
-workflow-type: ht
-source-wordcount: '873'
-ht-degree: 100%
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
+workflow-type: tm+mt
+source-wordcount: '882'
+ht-degree: 95%
 
 ---
 
@@ -68,7 +68,7 @@ Adobe Admin Console で Dynamic Chat ユーザとして追加されていない�
 
 **エンゲージ済み対話数の上限のトランスクリプトにアクセスするにはどうすればよいですか？**
 
-Dynamic Chat のトランスクリプトでは、Marketo Engage の「ダイアログでエンゲージ済み」アクティビティを通じて Dynamic Chat ダイアログにエンゲージした既知のリードについてアクセスできます。
+Dynamic Chatトランスクリプトには、Marketo Engageの「対話に関与」アクティビティを介してDynamic Chatの対話に関与した既知のリードのうち、会話ステータスが「完了」または「ドロップ」のリードに対してアクセスできます。
 
 **訪問者はダイアログにエンゲージした後で、対話を再開したり、前の質問に戻ったりできますか？**
 
