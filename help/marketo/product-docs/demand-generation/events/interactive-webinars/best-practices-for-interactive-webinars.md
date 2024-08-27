@@ -3,9 +3,9 @@ description: インタラクティブウェビナーのベストプラクティ�
 title: インタラクティブウェビナーのベストプラクティス
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 ## イベント前の準備 {#pre-event-preparation}
 
 ### イベントの作成 {#creating-an-event}
+
+>[!TIP]
+>
+>インタラクティブウェビナーモバイル web エクスペリエンスは応答しないので、モバイルデバイスでシームレスにウェビナーエクスペリエンスを行うには、Adobe Connect アプリを使用することをお勧めします。 Adobe Connectアプリは現在、中国のアプリストアでは利用できません。
 
 * サンプルのインタラクティブウェビナー（IW）を作成し、毎回複製して、最初から始めるのを避けます。
 

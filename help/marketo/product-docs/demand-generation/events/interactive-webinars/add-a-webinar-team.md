@@ -3,10 +3,10 @@ description: ウェビナーチームの追加 - Marketo ドキュメント - �
 title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+workflow-type: tm+mt
+source-wordcount: '393'
+ht-degree: 88%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「**内部インタラクティブウェビナーユーザ**」を選択した場合は、**利用可能なホスト**&#x200B;ドロップダウンをクリックし、Marketo Engage でインタラクティブウェビナーユーザとして追加されたユーザのリストから選択するだけです。
+   >「**内部インタラクティブウェビナーユーザー**」を選択した場合は、「**使用可能なホスト**」ドロップダウンをクリックし、Marketo Engageでインタラクティブウェビナーユーザーとして追加されたユーザーのリストから選択するだけです。 既存のホストは、すでにホストであるため、このドロップダウンには表示されません。
 
 1. 目的の共同主催者の名、姓、メールアドレスを入力します。「**追加**」をクリックします。
 
