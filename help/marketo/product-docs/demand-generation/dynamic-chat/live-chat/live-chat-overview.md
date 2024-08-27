@@ -3,10 +3,10 @@ description: ライブチャットの概要 - Marketo ドキュメント - 製�
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 90%
+source-wordcount: '686'
+ht-degree: 87%
 
 ---
 
@@ -104,6 +104,12 @@ ht-degree: 90%
 >
 >* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=ja&amp;co=GENIE.Platform%3DDesktop){target="_blank"} でブラウザー通知を有効にする
 >* [Mozilla Firefox](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} でブラウザー通知を有効にする
+
+### 失敗したアクション通知 {#failed-action-notifications}
+
+会議予約やライブチャットなどのアクションが失敗すると、ユーザーにメールで通知されます。
+
+![](assets/live-chat-overview-6.png)
 
 ### 注意事項 {#things-to-note}
 

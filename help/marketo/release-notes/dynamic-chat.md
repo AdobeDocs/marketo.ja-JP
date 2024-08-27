@@ -3,9 +3,9 @@ description: Dynamic Chat のリリースノート - Marketo ドキュメント 
 title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
+source-wordcount: '1869'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,68 @@ ht-degree: 3%
 Adobe Dynamic Chatリリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対する、よりスケーラブルなアプローチが可能になります。 1 か月に複数のリリースがある場合があるので、定期的に最新の情報を確認してください。
 
 Marketo Engageの標準リリースノートページ [ こちらを参照 ](/help/marketo/release-notes/current.md){target="_blank"} です。
+
+## 2024年8月リリース {#august-release}
+
+**リリース日：2024年8月23日（PT）**
+
+### 会話メッセージのカスタム形式 {#custom-format-conversation-messages}
+
+ストリームデザイナーは [HTMLを挿入する ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} をサポートし、会話のルックアンドフィールをカスタマイズできるようになりました。
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### チャットボットを下へスクロール {#chatbot-scroll-to-bottom}
+
+Web 訪問者が最後のメッセージに直接ジャンプするためのアイコンがチャットボットに追加されました。 これにより、訪問者はテキストをスクロールして会話にすばやく戻ることができます。
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### コアパルス通知 {#core-pulse-notifications}
+
+ミーティングの予約やライブチャットが失敗した場合に、ユーザーに [ メール通知 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} が届くようになりました。
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### 複数の会話のサポート {#support-for-multiple-conversations}
+
+チャットボットは、複数の会話をサポートするようになりました。 Web サイトの訪問者は、異なるページで異なる会話を同時に行うことができ、それらの間を切り替えることができます。
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### コンテンツのデフォルトの並べ替え {#default-sorting-for-content}
+
+デフォルトでは、会話ログ、未回答の質問および質問生成テーブルは、作成日（新しい順）で並べ替えられます。
+
+### リアルタイムのリード解決 {#real-time-lead-resolution}
+
+匿名のリードおよびメール ID が指定されたユーザーとの会話中に、そのメール ID を持つ既知のリードレコードが存在するかどうかを解決し、そのレコードをリアルタイムでパーソナライゼーションに使用します。 複数のレコードが見つかった場合、それらをリアルタイムで結合します。 この動作は、ダイアログと会話フローの両方に実装されています。
+
+### Cookie を使用しないリードのMarketo Engageからの同期 {#syncing-leads-without-cookies}
+
+以前は、Marketo Engage同期が有効な場合、Dynamic Chatは、Marketo Engageから 1 つ以上の cookie ID を持つ既知のリードのみを同期していました。 これで、すべての既知のリード（Cookie ID が存在するかどうかにかかわらず）がDynamic Chatに同期され、会話のパーソナライズに使用できます。
+
+### 追加の訪問者データを会話フローに渡す {#pass-additional-visitor-data}
+
+フォームやログインなどの他のチャネルを通じて訪問者の情報を取得している場合、この情報をDynamic Chatに直接渡すことができるようになりました。
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### 推測されるデータを更新 {#refreshed-inferred-data}
+
+Web サイト上の会話の大部分は匿名の訪問者との会話です。 引き続き、訪問者 IP に依存する推測データを通じてターゲット設定することもできます。 IP のデータベースと各推論データを更新し、4 倍の IP をサポートするようになりました。
+
+### サウンドがエージェントブラウザー通知に追加されました {#sound-added-to-agent-browser-notification}
+
+ライブチャットがエージェントに割り当てられると、ブラウザー通知が届きます。 しかし、時々彼らはそれらを見ません。 今後の通知の見逃しを防ぐために、通知サウンドを追加しました。
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### ライブチャット中にリードプロファイルを更新する機能 {#update-lead-profile-during-live-chat}
+
+ライブチャット中、エージェントは訪問者に関する情報を取り込み、それぞれのプロファイルを更新したいと考えます。 リードおよび会社オブジェクトの属性値を更新するオプションが追加されました。
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
 
 ## 2024年6月リリース {#june-release}
 
@@ -30,7 +92,7 @@ Marketo Engageの標準リリースノートページ [ こちらを参照 ](/he
 
 ![](assets/dynamic-chat-june-2024-release-1.png)
 
-### 使用の制限 {#usage-limits}
+### 使用制限 {#usage-limits}
 
 使用制限ページには、パッケージの詳細や使用制限ステータスなどの重要な情報が表示されます。
 

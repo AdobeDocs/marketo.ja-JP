@@ -3,10 +3,10 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
-workflow-type: ht
-source-wordcount: '1229'
-ht-degree: 100%
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+workflow-type: tm+mt
+source-wordcount: '1250'
+ht-degree: 96%
 
 ---
 
@@ -119,7 +119,11 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    >[!TIP]
    >
-   >トークンを使用して、既知のチャット訪問者に対するエクスペリエンスをパーソナライズできます（例：こんにちは `{{lead.leadFirstName:""}}` さん）をクリックします。右側の中括弧アイコンをクリックして選択します。匿名訪問者に何か一般的なものを表示させたい場合は、引用符の間にデフォルト値を追加します（例：Hello `{{lead.leadFirstName:"there"}}`）
+   >チャット訪問者向けにエクスペリエンスをカスタマイズできます。
+   >
+   >* 「HTMLを挿入」アイコン `</>` をクリックすると、会話の望ましいルックアンドフィールに合わせて独自のHTMLを挿入できます。
+   >
+   >* 既知のチャット訪問者にトークンを使用して、エクスペリエンスをパーソナライズします（例：Hello `{{lead.leadFirstName:""}}`）。 中括弧アイコン `{}` をクリックし、選択します。 匿名訪問者に何か一般的なものを表示させたい場合は、引用符の間にデフォルト値を追加します（例：Hello `{{lead.leadFirstName:"there"}}`）
 
    >[!NOTE]
    >
