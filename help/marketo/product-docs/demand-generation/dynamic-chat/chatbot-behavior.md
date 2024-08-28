@@ -3,10 +3,10 @@ description: チャットボットの動作 - Marketo ドキュメント - 製�
 title: チャットボットの動作
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
-ht-degree: 100%
+source-wordcount: '1680'
+ht-degree: 96%
 
 ---
 
@@ -406,3 +406,7 @@ ht-degree: 100%
     </tr>
   </tbody>
 </table>
+
+## リアルタイムのリード解決 {#real-time-lead-resolution}
+
+匿名のリードおよびメール ID が指定されたユーザーとの会話中に、そのメール ID を持つ既知のリードレコードが存在するかどうかを解決し、そのレコードをリアルタイムでパーソナライゼーションに使用します。 複数のレコードが見つかった場合、それらをリアルタイムで結合します。 この動作は、ダイアログと会話フローの両方に実装されています。

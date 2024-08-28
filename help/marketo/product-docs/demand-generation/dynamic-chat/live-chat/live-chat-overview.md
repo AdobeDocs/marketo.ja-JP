@@ -3,10 +3,10 @@ description: ライブチャットの概要 - Marketo ドキュメント - 製�
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 87%
+source-wordcount: '697'
+ht-degree: 82%
 
 ---
 
@@ -94,7 +94,7 @@ ht-degree: 87%
 
 ### ライブチャットがエージェントにルーティングされる場合 {#when-a-live-chat-is-routed-to-an-agent}
 
-ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、承認を求められます。
+ライブチャットがエージェントにルーティングされると、画面上部に青いバナーが表示され、受け入れるよう求められます。また、通知を見逃さないように注意する通知サウンドも表示されます。
 
 ![](assets/live-chat-overview-3.png)
 

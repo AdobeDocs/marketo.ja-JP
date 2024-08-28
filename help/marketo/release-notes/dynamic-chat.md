@@ -3,7 +3,7 @@ description: Dynamic Chat のリリースノート - Marketo ドキュメント 
 title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 3%
@@ -68,7 +68,7 @@ Web サイト上の会話の大部分は匿名の訪問者との会話です。 
 
 ### サウンドがエージェントブラウザー通知に追加されました {#sound-added-to-agent-browser-notification}
 
-ライブチャットがエージェントに割り当てられると、ブラウザー通知が届きます。 しかし、時々彼らはそれらを見ません。 今後の通知の見逃しを防ぐために、通知サウンドを追加しました。
+ライブチャットがエージェントに割り当てられると、ブラウザー通知が届きます。 しかし、時々彼らはそれらを見ません。 今後の通知の見逃しを防ぐために、[ 通知サウンド ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} を追加しました。
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
