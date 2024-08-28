@@ -4,10 +4,10 @@ description: セットアップと人物の追加 - Marketo ドキュメント -
 title: セットアップと人物の追加
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 88%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 100%
 
 ミッションを開始する前に、いくつかの作業が必要です。
 
-## 手順 1：Marketo にログインする {#step-log-in-to-marketo}
+## 手順 1:Marketo Engageにログインする {#step-log-in-to-marketo}
 
-1. メールで受け取った資格情報を使用して、[Marketo にログイン](https://app.marketo.com){target="_blank"}します。
+1. [ メールで受け取った資格情報を使用して ](https://app.marketo.com){target="_blank"}Marketo Engageにログインします。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
+   >* メールアドレスに ASCII 文字のみが含まれていることを確認します。
+   >
+   >* Marketo は、絵文字を含む電子メールアドレスを&#x200B;**サポートしていません**。
 
 1. 人物を表示するには、左側のメニューで「[!UICONTROL システムスマートリスト]」を開き、「**[!UICONTROL すべての人物]**」をクリックします。
 

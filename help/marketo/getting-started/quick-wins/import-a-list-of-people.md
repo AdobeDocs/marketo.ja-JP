@@ -4,10 +4,10 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '508'
+ht-degree: 98%
 
 ---
 
@@ -41,7 +41,9 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
+   >* メールアドレスに ASCII 文字のみが含まれていることを確認します。
+   >
+   >* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 

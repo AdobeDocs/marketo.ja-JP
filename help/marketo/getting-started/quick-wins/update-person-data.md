@@ -4,10 +4,10 @@ description: 人物データの更新 - Marketo ドキュメント - 製品ド�
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 95%
 
 ---
 
@@ -49,6 +49,12 @@ ht-degree: 100%
 1. 受け取った新しい情報を入力し、タブを閉じます。
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* メールアドレスに ASCII 文字のみが含まれていることを確認します。
+>
+>* Marketo は、絵文字を含む電子メールアドレスを&#x200B;**サポートしていません**。
 
 >[!NOTE]
 >
