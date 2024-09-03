@@ -3,9 +3,9 @@ description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ Dynamic Chatで編集できる、事前定義済みの権限を持つデフォ�
 
    ![](assets/permissions-4.png)
 
-1. 使用可能な権限項目は左側に一覧表示されます。 権限を 1 つずつ追加することも、一度にすべてを追加することもできます。 この例では、利用可能なリソースは 1 つだけなので、それを追加します。 「**+**」をクリックします。
+1. 使用可能な権限項目は左側に一覧表示されます。 権限を 1 つずつ追加することも、一度にすべてを追加することもできます。 「**+**」をクリックします。
 
    ![](assets/permissions-5.png)
 
@@ -99,7 +99,7 @@ Dynamic Chatで編集できる、事前定義済みの権限を持つデフォ�
     <td><li>すべての会議を管理</li>
   </tr>
   <tr>
-    <td>Analytics</td>
+    <td>アナリティクス</td>
     <td><li>グローバルパフォーマンスレポートの表示</li>
     <li>ライブチャットレポートの表示</li>
     <li>会議レポートの表示</li>
