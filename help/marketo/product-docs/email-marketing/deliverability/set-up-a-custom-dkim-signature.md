@@ -5,9 +5,9 @@ title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
 source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
 
    >[!TIP]
    >
-   >* 2048 年の鍵サイズを推奨します。
+   >* 2048 の鍵サイズを推奨します。
    >* 送信元アドレスに別のドメインを使用している場合は、Marketoの共有 DKIM 署名が使用されます。
 
    >[!IMPORTANT]
