@@ -3,8 +3,8 @@ description: Salesforce Classic からの Marketo Sales Connect のアンイン�
 title: Salesforce Classic からの Marketo Sales Connect のアンインストール
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
-workflow-type: tm+mt
-source-wordcount: '1197'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
