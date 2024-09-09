@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+workflow-type: tm+mt
+source-wordcount: '9349'
 ht-degree: 100%
 
 ---
@@ -1488,7 +1488,6 @@ ht-degree: 100%
             + 取引先責任者の管理 {#managing-contacts}
                + [人物に対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [取引先責任者の作成と削除](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [CSV を使用した取引先責任者のインポート](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人物ページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
