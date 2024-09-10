@@ -3,9 +3,9 @@ description: 人物に対する一括アクション - Marketo ドキュメン�
 title: 人物に対する一括アクション
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
@@ -45,9 +45,3 @@ ht-degree: 100%
 今後連絡を希望しない取引先責任者に対して、一括登録解除を実行します。
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## 削除 {#delete}
-
-取引先責任者を一括で削除します。完全な手順は[こちら](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)にあります。
-
-![](assets/bulk-actions-on-people-6.png)

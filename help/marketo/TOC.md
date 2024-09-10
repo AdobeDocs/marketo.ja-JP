@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '9349'
-ht-degree: 100%
+source-wordcount: '9341'
+ht-degree: 99%
 
 ---
 
@@ -1460,7 +1460,6 @@ ht-degree: 100%
             + [Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [セルフビューを防ぐには](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置トラッキングの仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [Sales Insight Actions でメールの重複排除はどのように処理されますか？](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [自分のアカウントから締め出されました。どうすればいいですか？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions と Salesforce Lightning の互換性](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Sales Insight Actions はどのブラウザーをサポートしていますか？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 100%
             + [Sales Insight Actions と GDPR への準拠](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 取引先責任者の管理 {#managing-contacts}
                + [人物に対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [取引先責任者の作成と削除](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人物ページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 電話 {#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 100%
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [リリースノート：2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [リリースノート：2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [リリースノート：2024 年 7 月](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [リリースノート：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)

@@ -3,9 +3,9 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 97%
 
 ---
@@ -66,10 +66,6 @@ Sales Insight Actions でグループを管理する方法を説明します。
 1. 「**グループアクション**」を選択し、「**取引先責任者を作成してグループに追加**」を選択します。
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >これにより、一度に 1 件の取引先責任者が追加されます。複数の取引先責任者を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)に従います。
 
 1. 取引先責任者の情報を入力し、「**作成**」（または別の取引先責任者を追加する場合は「**作成して新たに追加**」）をクリックします。
 
