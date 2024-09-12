@@ -1,12 +1,12 @@
 ---
-description: 会議リスト - Marketo ドキュメント – 製品ドキュメント
+description: ミーティングリスト - Marketo ドキュメント - 製品ドキュメント
 title: ミーティングリスト
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
 source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Web サイトの訪問者が様々なダイアログを使用してスケジュ�
 
 ## 失敗したアクション通知 {#failed-action-notifications}
 
-会議予約やライブチャットなどのアクションが失敗すると、ユーザーにメールで通知されます。
+ミーティング予約やライブチャットなどのアクションが失敗すると、ユーザにメールで通知されます。
 
 ![](assets/meeting-list-2.png)
 

@@ -5,9 +5,9 @@ title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '508'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 98%
 
    >[!CAUTION]
    >
-   >* メールアドレスに ASCII 文字のみが含まれていることを確認します。
+   >* メールアドレスには、ASCII 文字のみを含める必要があります。
    >
    >* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
 
@@ -137,7 +137,7 @@ ht-degree: 98%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

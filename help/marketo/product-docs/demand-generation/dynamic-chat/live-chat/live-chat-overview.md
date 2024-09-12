@@ -4,9 +4,9 @@ title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '697'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 82%
 
 ## ライブチャットエージェントの追加 {#add-live-chat-agents}
 
-ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Consoleのユーザー ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} として追加し、[ ライブチャット権限 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} を付与する必要があります。 この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
+ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Console のユーザ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}として追加し、[ライブチャット権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}を付与する必要があります。この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
 
-訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の [ 通知オプション ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"} があります。 通知をクリックすると、訪問者は [ エージェントインボックス ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} に移動し、訪問者とチャットを開始できます。
+訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の[通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}が表示されます。通知をクリックすると、[エージェントのインボックス](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}に移動し、訪問者とのチャットを開始できます。
 
 >[!NOTE]
 >
@@ -94,7 +94,7 @@ ht-degree: 82%
 
 ### ライブチャットがエージェントにルーティングされる場合 {#when-a-live-chat-is-routed-to-an-agent}
 
-ライブチャットがエージェントにルーティングされると、画面上部に青いバナーが表示され、受け入れるよう求められます。また、通知を見逃さないように注意する通知サウンドも表示されます。
+ライブチャットがエージェントにルーティングされると、画面の上部に青いバナーが表示され、承認を求められ、通知を見逃さないように通知音が鳴ります。
 
 ![](assets/live-chat-overview-3.png)
 
@@ -107,7 +107,7 @@ ht-degree: 82%
 
 ### 失敗したアクション通知 {#failed-action-notifications}
 
-会議予約やライブチャットなどのアクションが失敗すると、ユーザーにメールで通知されます。
+ミーティング予約やライブチャットなどのアクションが失敗すると、ユーザにメールで通知されます。
 
 ![](assets/live-chat-overview-6.png)
 

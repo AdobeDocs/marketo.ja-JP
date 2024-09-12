@@ -5,9 +5,9 @@ title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -52,9 +52,9 @@ ht-degree: 95%
 
 >[!CAUTION]
 >
->* メールアドレスに ASCII 文字のみが含まれていることを確認します。
+>* メールアドレスには、ASCII 文字のみを含める必要があります。
 >
->* Marketo は、絵文字を含む電子メールアドレスを&#x200B;**サポートしていません**。
+>* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
 
 >[!NOTE]
 >
