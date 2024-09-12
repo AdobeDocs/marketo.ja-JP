@@ -2,9 +2,9 @@
 description: リリースノート - 2024 年 7 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2024年7月
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 97%
 
 ---
@@ -65,8 +65,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr> 
    <td><strong>Marketo REST API の変更</strong>：<a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a> に小規模な変更を行っています。<a href="https://developers.marketo.com/rest-api/user-management/#browse_users">ユーザを参照</a>エンドポイントと<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">ユーザを削除</a>エンドポイントの両方が、<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">ターゲットアカウント管理</a>ユーザをサポートするようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td>該当なし</td>
   </tr>
  </tbody> 
 </table>
