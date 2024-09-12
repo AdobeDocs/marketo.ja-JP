@@ -2,10 +2,10 @@
 description: リリースノート - 2024 年 7 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2024年7月
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 98%
+source-wordcount: '522'
+ht-degree: 97%
 
 ---
 
@@ -88,4 +88,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **クエリパラメーターのアクセストークンの廃止**：Marketo Engage REST API 呼び出しのクエリパラメーターでのアクセストークンを使用した認証のサポートは、将来のリリースで削除される予定です（具体的な日付は未定）。既存の統合は、[こちらで説明する](https://developers.marketo.com/rest-api/authentication/){target="_blank"} Authorization ヘッダーの使用に移行する必要があります。新規開発では、Marketo Engage での認証に Authorization ヘッダーのみを使用する必要があります。
 
-* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスが中断されないよう、2024年7月26日（PT）から 12月15日（PT）までの間に、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスを再認証する必要があります。これを実行する方法については、[こちらからリード生成フォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}と[こちらから Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} を参照してください。リード生成フォームサービスには「LinkedIn リード生成」というタイプ、Matched Audience サービスには「LinkedIn Matched Audiences」というタイプがあります。詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
+* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスが中断されないよう、2024年7月26日（PT）から 12月15日（PT）までの間に、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスを再認証する必要があります。これを実行する方法については、[こちらからリード生成フォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}と[こちらから Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} を参照してください。リード生成フォームサービスには「LinkedIn リード生成」というタイプ、Matched Audience サービスには「LinkedIn Matched Audiences」というタイプがあります。詳しくは、[ 移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
