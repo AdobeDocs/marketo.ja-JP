@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 47%
+source-wordcount: '303'
+ht-degree: 40%
 
 ---
 
@@ -71,3 +71,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
  </tbody> 
 </table>
 <br/>
+
+## お知らせ {#announcements}
+
+2024 年 9 月 17 日（PT）、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 は、（管理者 **>** 宝箱 **で「Munchkin Beta」設定を有効にしたMarketo Engageインスタンスへのロールアウトを開始し** す。 他のすべてのインスタンスへのロールアウトは 10 月 29 日に開始する予定です。 このバージョンでは、Munchkinの Cookie の作成が更新されます。 機能に変更はありません。
