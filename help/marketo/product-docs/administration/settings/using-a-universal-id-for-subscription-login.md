@@ -5,9 +5,9 @@ title: サブスクリプションログインでのユニバーサル ID の使
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
 source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ ht-degree: 91%
 
 ## サブスクリプション間の切り替え {#switching-between-subscriptions}
 
-ユニバーサル ID を使用すると、ログインしたサブスクリプションを表示し、ログインアクセス権を持つ他のサブスクリプションを選択できます。 ほとんどの場合、ログアウトしてから再度ログインしなくても、切り替えることができます。
+ユニバーサル ID を使用すると、ログイン中のサブスクリプションを確認して、自身がログインアクセス権を持つ他のサブスクリプションを選択できます。ほとんどの場合、ログアウトしてから再度ログインしなくても、切り替えることができます。
 
-[ シングルサインオン ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) とユニバーサル ID の両方が有効になっている場合、購読を切り替えるには「シングルサインオンをスキップ」権限を設定する必要があります。
+[シングルサインオン](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)とユニバーサル ID の両方が有効になっている場合、サブスクリプションを切り替えるには「シングルサインオンをバイパス」権限を設定する必要があります。
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 

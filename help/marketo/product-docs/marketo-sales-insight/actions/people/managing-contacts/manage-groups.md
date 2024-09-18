@@ -4,9 +4,9 @@ title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
 source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Sales Insight Actions でグループを管理する方法を説明します。
   </tr> 
   <tr> 
    <td>動的グループ</td> 
-   <td>マイ連絡先：所有しているすべての連絡先。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
+   <td>取引先責任者：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
   </tr> 
   <tr> 
    <td>マイグループ</td> 

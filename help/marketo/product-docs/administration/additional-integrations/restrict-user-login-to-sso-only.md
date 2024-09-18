@@ -5,9 +5,9 @@ title: ユーザーログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 85%
 
 >[!TIP]
 >
->「**[!UICONTROL SSO が必要]**」を選択した場合は、ロールの設定時に「[シングルサインオンをバイパス](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)」オプションをオンにすることで、この制限から&#x200B;**[!UICONTROL ユーザーのロール]**&#x200B;を除外できます。これにより、ユーザーは通常どおりにログインできます。例えば、管理者ユーザーは、引き続きログイン画面からMarketoにログインする必要があります。 SSO とユニバーサル ID の両方が有効な場合、購読を切り替えるには「シングルサインオンをスキップ」権限を設定する必要があります。
+>「**[!UICONTROL SSO が必要]**」を選択した場合は、ロールの設定時に「[シングルサインオンをバイパス](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)」オプションをオンにすることで、この制限から&#x200B;**[!UICONTROL ユーザーのロール]**&#x200B;を除外できます。これにより、ユーザーは通常どおりにログインできます。例えば、管理者ユーザーは、引き続きログイン画面から Marketo にログインする必要が生じる場合があります。SSO とユニバーサル ID の両方が有効になっている場合、サブスクリプションを切り替えるには「シングルサインオンをバイパス」権限を設定する必要があります。
 
 >[!CAUTION]
 >

@@ -4,7 +4,7 @@ title: 人物に対する一括アクション
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
