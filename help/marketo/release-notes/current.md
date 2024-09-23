@@ -4,9 +4,9 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -74,6 +74,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **新しいMunchkin バージョン**: 2024 年 9 月 17 日（PT）、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} **v.164 は、{ 管理者**/**宝箱** で「Munchkin Beta」設定を有効にしたMarketo Engageインスタンスへのロールアウトを開始します。 他のすべてのインスタンスへのロールアウトは 10 月 29 日に開始する予定です。 このバージョンでは、Munchkinの Cookie の作成が更新されます。 機能に変更はありません。
+* **新しい Munchkin バージョン**：2024年9月17日（PT）に、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 では、**管理**／**宝箱**&#x200B;で「Munchkin ベータ版」設定が有効化された Marketo Engage インスタンスへのロールアウトが開始される予定です。他のすべてのインスタンスへのロールアウトは、10月29日（PT）に開始される予定です。このバージョンでは、Munchkin の Cookie の作成が更新されます。機能に変更はありません。
 
-* **QR コードの廃止**:2024 年 10 月 4 日（PT）に、プッシュ通知およびアプリ内メッセージアセットで使用される QR コード機能が廃止されます。 これには、新しいテストデバイス用の QR コードの使用や、QR コードを使用した新しいアセットの作成が含まれます。 使用する機能を減らして機能を廃止すると、Marketo Engageの全体的なメンテナンスにリソースを割り当て直すことができます。
+* **QR コードの廃止**：2024年10月4日（PT）に、プッシュ通知およびアプリ内メッセージアセットで使用する QR コード機能が廃止される予定です。これには、新しいテストデバイス用の QR コードの使用や、QR コードを使用した新しいアセットの作成が含まれます。使用頻度の低い機能を廃止することで、そのリソースを Marketo Engage の全体的なメンテナンスに再割り当てできます。
