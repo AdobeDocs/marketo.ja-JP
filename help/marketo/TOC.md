@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
-workflow-type: ht
-source-wordcount: '9341'
-ht-degree: 100%
+source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+workflow-type: tm+mt
+source-wordcount: '9346'
+ht-degree: 99%
 
 ---
 
@@ -1748,6 +1748,7 @@ ht-degree: 100%
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Web ページアクティビティレポート](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [閲覧された web ページ、web ページアクティビティレポート](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + メールインサイト {#email-insights}
