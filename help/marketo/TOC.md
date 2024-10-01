@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
-workflow-type: ht
-source-wordcount: '9346'
-ht-degree: 100%
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+workflow-type: tm+mt
+source-wordcount: '9345'
+ht-degree: 99%
 
 ---
 
@@ -627,6 +627,7 @@ ht-degree: 100%
          + [Salesforce 同期の有効化／無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [暗黙的な Salesforce アクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [OAuth 2.0 を使用したログイン](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce同期バックログ指標](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce 同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [個人取引先の使用](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 100%
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Salesforce 同期可観測性指標ダッシュボード](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Web ページアクティビティレポート](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [閲覧された web ページ、web ページアクティビティレポート](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + メールインサイト {#email-insights}
