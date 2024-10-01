@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 71%
+source-wordcount: '513'
+ht-degree: 59%
 
 ---
 
@@ -65,6 +65,34 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr> 
    <td><strong>ナビゲーションパネルの「マイアカウント」ボタン</strong>：Adobe Identity Management システムに移行したユーザは、左側のナビゲーションパネルの新しい「マイアカウント」ボタンを使用して、タイムゾーンの設定とサブスクリプションの詳細にアクセスできます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce同期バックログの指標 </strong>：同期のスループットとバックログのトレンドを監視して、CRM の更新を計画およびスケジュールし、最適な同期エクスペリエンスを実現できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong> メールパフォーマンスレポートの機能強化 </strong>：メールレポートの指標とアクティビティトラッキングに関する複数の改善が行われ、追加のインサイトが提供され、精度が向上しました。
+   <ul>
+   <li>削除および結合された人物をメールのパフォーマンス指標からフィルタリングする</li>
+   <li>応答アクティビティを 3 日間待機した後、メールが <i> 中止 </i> に分類されるようになりました</li>
+   <li>アカウントのメールがキャンペーンレベルで開きます</li>
+   <li>トラッキングピクセルの場所を絞り込むことで、電子メールアクティビティのトラッキングを改善しました</li>
+   </td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
